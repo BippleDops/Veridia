@@ -29,23 +29,23 @@ You gain the following benefits while wearing the helm.
 
 ## Diamond Light
 
-As long as it has at least one diamond, the helm emits a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). When at least one Undead is within that area, the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) is filled with [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md). Any Undead that starts its turn in that area takes `d6` Radiant damage.
+As long as it has at least one diamond, the helm emits a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. When at least one Undead is within that area, the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] is filled with [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]. Any Undead that starts its turn in that area takes `d6` Radiant damage.
 
 ## Fire Opal Flames
 
-As long as the helm has at least one fire opal, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to cause one weapon you are holding to burst into flames. The flames emit [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `d6` Fire damage. The flames last until you take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to extinguish them or until you drop or stow the weapon.
+As long as the helm has at least one fire opal, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to cause one weapon you are holding to burst into flames. The flames emit [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `d6` Fire damage. The flames last until you take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to extinguish them or until you drop or stow the weapon.
 
 ## Ruby Resistance
 
-As long as the helm has at least one ruby, you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.
+As long as the helm has at least one ruby, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Fire damage.
 
 ## Spells
 
-You can cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [Daylight](/03_Mechanics/CLI/spells/daylight-xphb.md) (opal), [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) (fire opal), [Prismatic Spray](/03_Mechanics/CLI/spells/prismatic-spray-xphb.md) (diamond), or [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
+You can cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [[/03_Mechanics/CLI/spells/daylight-xphb|Daylight]] (opal), [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]] (fire opal), [[/03_Mechanics/CLI/spells/prismatic-spray-xphb|Prismatic Spray]] (diamond), or [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|Wall of Fire]] (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
 
 ## Taking Fire Damage
 
-Roll `d20` if you are wearing the helm and take Fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems and is then destroyed. Each creature within a 60-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking Radiant damage equal to the number of gems in the helm.
+Roll `d20` if you are wearing the helm and take Fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems and is then destroyed. Each creature within a 60-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] originating from you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking Radiant damage equal to the number of gems in the helm.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

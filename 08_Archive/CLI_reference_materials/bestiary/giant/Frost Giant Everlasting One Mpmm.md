@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-everlasting-one-mpmm-frost-giant-everlasting-one-mpmm.svg)
 
-# [Frost Giant Everlasting One](3-Mechanics\CLI\bestiary\giant/frost-giant-everlasting-one-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/frost-giant-everlasting-one-mpmm|Frost Giant Everlasting One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -57,9 +57,9 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
   - "constitution": !!int "11"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+11"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
@@ -67,11 +67,11 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "cr": "12"
 "traits":
   - "desc": "The giant has a 25 percent chance of having more than one head. If it\
-      \ has more than one, it has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](/03_Mechanics/CLI/conditions.md#Blinded),\
-      \ [charmed](/03_Mechanics/CLI/conditions.md#Charmed), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
-      \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [stunned](/03_Mechanics/CLI/conditions.md#Stunned),\
-      \ or knocked [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)."
+      \ has more than one, it has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+      \ checks and on saving throws against being [[/03_Mechanics/CLI/conditions#Blinded|blinded]],\
+      \ [[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
+      \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]],\
+      \ or knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]."
     "name": "Extra Heads"
   - "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
       \ takes acid or fire damage, this trait doesn't function at the start of its\
@@ -89,7 +89,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
     "name": "Rock"
 "bonus_actions":
   - "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\
-      \ is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). While raging,\
+      \ is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. While raging,\
       \ the giant gains the following benefits:\n\n- The giant has advantage on Strength\
       \ checks and Strength saving throws.  \n- When it makes a melee weapon attack,\
       \ the giant gains a +4 bonus to the damage roll.  \n- The giant has resistance\

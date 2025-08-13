@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
 
 
 ## Connections

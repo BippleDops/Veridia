@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Drowned Prophecy]]
+- [[02_Worldbuilding/Quests/Quest - The Drowned Prophecy|02 Worldbuilding/Quests/Quest The Drowned Prophecy]]
 
 
 ## Connections

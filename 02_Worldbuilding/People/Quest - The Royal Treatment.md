@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]
 
 
 ## Connections

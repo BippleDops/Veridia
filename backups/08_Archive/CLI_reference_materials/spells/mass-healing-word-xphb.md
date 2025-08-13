@@ -34,11 +34,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Up to six creatures of your choice that you can see within range regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `2d4` plus your spellcasting ability modifier.
+Up to six creatures of your choice that you can see within range regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to `2d4` plus your spellcasting ability modifier.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `d4` for each spell slot level above 3.
 
-**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Cleric (Life Domain)](/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

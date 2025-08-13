@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Living Weapon|02 Worldbuilding/Places/The Living Weapon]]
 
 
 ## Connections

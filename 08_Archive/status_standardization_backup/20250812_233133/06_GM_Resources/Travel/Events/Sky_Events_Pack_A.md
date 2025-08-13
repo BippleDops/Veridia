@@ -23,7 +23,7 @@ Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitu
 
 ---
 
-### S-001: Gravity Shear Front
+## S-001: Gravity Shear Front
 - Band: High • Category: Environment
 - Trigger: Sudden shear threatens lift.
 - Checks: Helm DC 15; Engineer DC 15 to stabilize crystals.

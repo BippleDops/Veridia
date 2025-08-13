@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Tidepool Markets]]
+- [[02_Worldbuilding/Places/The Tidepool Markets|02 Worldbuilding/Places/The Tidepool Markets]]
 
 
 ## Connections
@@ -30,7 +30,7 @@ world: Both
 - [[Depth Wardens]]
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[The Hadal Depths]]
 - [[The Tidepool Markets]]
 

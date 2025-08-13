@@ -21,10 +21,10 @@ world: Both
 # District Economic Profiles
 *Where Money Flows Like Water, and Water Flows Like Blood*
 
-> *"Every district has its own currency of survival. In the Heights they trade in crystals and contracts. In the Depths they barter breath and blood. But in the Margins... in the Margins they trade in desperation."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"Every district has its own currency of survival. In the Heights they trade in crystals and contracts. In the Depths they barter breath and blood. But in the Margins... in the Margins they trade in desperation."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Overview
-The economic landscape of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] varies dramatically by district, depth, and social stratum. Each area has developed unique economic characteristics shaped by geography, resources, political control, and social dynamics. Understanding these micro-economies is essential for successful commerce, criminal enterprise, and political maneuvering.
+The economic landscape of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] varies dramatically by district, depth, and social stratum. Each area has developed unique economic characteristics shaped by geography, resources, political control, and social dynamics. Understanding these micro-economies is essential for successful commerce, criminal enterprise, and political maneuvering.
 
 ## Aethermoor Surface Districts
 
@@ -419,7 +419,7 @@ Areas where competing realms engage in economic conflict
 **Price Sensitivity**: 10% supply disruption causes 50-100% price increases
 
 #### Current Transport Monopoly
-**Issue**: [[02_Worldbuilding/People/The Current Merchants]] control 90% of deep-sea shipping
+**Issue**: [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] control 90% of deep-sea shipping
 **Vulnerability**: Political pressure or corporate decisions could strand entire communities
 **Economic Impact**: Alternative transport costs 400-600% more than current rates
 **Strategic Risk**: Single organization controls essential infrastructure
@@ -581,12 +581,12 @@ Areas where competing realms engage in economic conflict
 
 ## Connected Systems and Cross-References
 
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Foundational monetary framework
-- [[02_Worldbuilding/Items/Trade Goods Catalog]] - Specific products traded in each district
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Organizations controlling district economies
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]] - Physical locations of economic activity
-- [[03_Mechanics/Living_Economy_Syste]] - Mechanical systems for economic simulation
-- [[03_Mechanics/Economic_Warfare_Simulator]] - Tools for modeling economic conflict
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Foundational monetary framework
+- [[02_Worldbuilding/Items/Trade Goods Catalog|02 Worldbuilding/Items/Trade Goods Catalog]] - Specific products traded in each district
+- [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Organizations controlling district economies
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]] - Physical locations of economic activity
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical systems for economic simulation
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for modeling economic conflict
 
 ## Player-Facing Summary
 

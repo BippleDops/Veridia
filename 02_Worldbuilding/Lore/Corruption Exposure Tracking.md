@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[02_Worldbuilding/Lore/Rewriting the Ritual|02 Worldbuilding/Lore/Rewriting The Ritual]]
 
 
 ## Connections

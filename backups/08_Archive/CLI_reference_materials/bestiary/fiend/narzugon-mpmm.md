@@ -20,14 +20,14 @@ updated: '2025-08-12T23:37:35.466593'
 world: Both
 ---
 
-# [Narzugon](3-Mechanics\CLI\bestiary\fiend/narzugon-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/narzugon-mpmm|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 
-Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md). Every lance bears the marks of both a narzugon and its master.
+Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm|lemures]]. Every lance bears the marks of both a narzugon and its master.
 
-Each narzugon claims a [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) as its mount. These steeds are bound by [infernal tack](/03_Mechanics/CLI/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
+Each narzugon claims a [[/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm|nightmare]] as its mount. These steeds are bound by [[/03_Mechanics/CLI/items/infernal-tack-mtf|infernal tack]] and must respond to the summons and commands of the spurs' wearer.
 
 ```statblock
 "name": "Narzugon (MPMM)"
@@ -36,7 +36,7 @@ Each narzugon claims a [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xm
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "20"
-"ac_class": "[plate armor](/03_Mechanics/CLI/items/plate-armor-xphb.md), [shield](/03_Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate armor]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "0"
@@ -53,19 +53,19 @@ Each narzugon claims a [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xm
   - "constitution": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+12"
 "damage_resistances": "acid; cold; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
-  - "desc": "The narzugon wears spurs that are part of [infernal tack](/03_Mechanics/CLI/items/infernal-tack-mtf.md),\
-      \ which allow it to summon its [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm.md)\
+  - "desc": "The narzugon wears spurs that are part of [[/03_Mechanics/CLI/items/infernal-tack-mtf|infernal tack]],\
+      \ which allow it to summon its [[/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm|nightmare]]\
       \ companion as an action."
     "name": "Infernal Tack"
   - "desc": "The narzugon has advantage on saving throws against spells and other\
@@ -77,18 +77,18 @@ Each narzugon claims a [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xm
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 11\
       \ (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills\
-      \ a creature with a soul, the soul rises from the River Styx as a [lemure](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
+      \ a creature with a soul, the soul rises from the River Styx as a [[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm|lemure]]\
       \ in Avernus in d4 hours. If the creature isn't revived before then, only a\
-      \ [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell or killing the lemure and\
+      \ [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell or killing the lemure and\
       \ casting true resurrection on the creature's original body can restore it to\
       \ life. Constructs and devils are immune to this effect."
     "name": "Hellfire Lance"
-  - "desc": "Each ally of the narzugon within 60 feet of it can't be [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/03_Mechanics/CLI/conditions.md#Frightened) until the end of\
+  - "desc": "Each ally of the narzugon within 60 feet of it can't be [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ or [[/03_Mechanics/CLI/conditions#Frightened|frightened]] until the end of\
       \ the narzugon's next turn."
     "name": "Infernal Command"
   - "desc": "Each creature within 60 feet of the narzugon that isn't a Fiend must\
-      \ succeed on a DC 17 Charisma saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ succeed on a DC 17 Charisma saving throw or become [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ of the narzugon for 1 minute. A creature can repeat the saving throw at the\
       \ end of each of its turns, ending the effect on itself on a success. A creature\
       \ that makes a successful saving throw is immune to this narzugon's Terrifying\

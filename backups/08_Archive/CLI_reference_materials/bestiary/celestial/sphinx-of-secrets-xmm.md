@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-secrets-xmm-sphinx-of-secrets-xmm.svg)
 
-# [Sphinx of Secrets](3-Mechanics\CLI\bestiary\celestial/sphinx-of-secrets-xmm.md)
+# [[3-Mechanics\CLI\bestiary\celestial/sphinx-of-secrets-xmm|Sphinx of Secrets]]
 *Source: Monster Manual (2024) p. 292*  
 
 Sphinxes of secrets are commonly associated with a site of great magic or learning. These immortal beings often outlive such locations, though, and might protect a site's ruins as they continue their own studies. Sphinxes of secrets fiercely guard their dwellings and research.
@@ -76,36 +76,36 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+7"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
     "desc": "+7"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 17"
 "languages": "Celestial, Common"
 "cr": "8"
 "traits":
   - "desc": "No magic can observe the sphinx remotely or detect its thoughts without\
-      \ its permission. Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) checks\
-      \ made to ascertain its intentions or sincerity are made with [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
+      \ its permission. Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) checks\
+      \ made to ascertain its intentions or sincerity are made with [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]."
     "name": "Inscrutable"
-  - "desc": "The sphinx has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The sphinx has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The sphinx makes three Claw attacks. It can replace one attack with a\
-      \ use of [Curse](/03_Mechanics/CLI/variant-rules/curses-xphb.md) of the Riddle."
+      \ use of [[/03_Mechanics/CLI/variant-rules/curses-xphb|Curse]] of the Riddle."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage\
       \ plus 7 (2d6) Radiant damage."
     "name": "Claw"
   - "desc": "Intelligence Saving Throw: DC 15, one creature the sphinx can see within\
       \ 60 feet. Failure: 21 (6d6) Psychic damage, and the target is cursed with\
-      \ a riddle. The cursed target has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ a riddle. The cursed target has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls. In addition, if it takes the Magic action,\
       \ it must succeed on a DC 15 Intelligence saving throw or that action is wasted.\
       \ The cursed target can take a Study action to make a DC 15 Intelligence check,\
@@ -114,10 +114,10 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "name": "Curse of the Riddle"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      At will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Identify](/03_Mechanics/CLI/spells/identify-xphb.md),\
-      \ [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-      \ each: [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md), [Remove\
-      \ Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md)"
+      At will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]], [[/03_Mechanics/CLI/spells/identify-xphb|Identify]],\
+      \ [[/03_Mechanics/CLI/spells/prestidigitation-xphb|Prestidigitation]]\n\n1/day\
+      \ each: [[/03_Mechanics/CLI/spells/locate-object-xphb|Locate Object]], [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove\
+      \ Curse]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -553,7 +553,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony|02 Worldbuilding/Places/Tethyan Hegemony]]
 
 <!-- enriched: true -->
 - [[Shadow Conspiracy]]

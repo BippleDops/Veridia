@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[Master_Places_Index]]
+- [[Master_Places_Index|Master Places Index]]
 
 
 ## Connections

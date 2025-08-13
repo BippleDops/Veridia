@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]
 
 
 ## Connections

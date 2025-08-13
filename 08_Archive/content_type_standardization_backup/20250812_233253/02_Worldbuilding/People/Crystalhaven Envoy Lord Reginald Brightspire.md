@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Crystalhaven Envoy Lord Reginald Brightspire]]
+- [[02_Worldbuilding/People/Crystalhaven Envoy Lord Reginald Brightspire|02 Worldbuilding/People/Crystalhaven Envoy Lord Reginald Brightspire]]
 
 <!-- enriched: true -->
 

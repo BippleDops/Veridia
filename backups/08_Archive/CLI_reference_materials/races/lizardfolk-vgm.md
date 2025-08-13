@@ -45,7 +45,7 @@ Your fanged maw is a natural weapon, which you can use to make unarmed strikes. 
 
 ### Cunning Artisan
 
-As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [shield](/03_Mechanics/CLI/items/shield-xphb.md), a [club](/03_Mechanics/CLI/items/club-xphb.md), a [javelin](/03_Mechanics/CLI/items/javelin-xphb.md), or `d4` [darts](/03_Mechanics/CLI/items/dart-xphb.md) or [blowgun needles](/03_Mechanics/CLI/items/needle-xphb.md). To use this trait, you need a blade, such as a [dagger](/03_Mechanics/CLI/items/dagger-xphb.md), or appropriate artisan's tools, such as [leatherworker's tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md).
+As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [[/03_Mechanics/CLI/items/shield-xphb|shield]], a [[/03_Mechanics/CLI/items/club-xphb|club]], a [[/03_Mechanics/CLI/items/javelin-xphb|javelin]], or `d4` [[/03_Mechanics/CLI/items/dart-xphb|darts]] or [[/03_Mechanics/CLI/items/needle-xphb|blowgun needles]]. To use this trait, you need a blade, such as a [[/03_Mechanics/CLI/items/dagger-xphb|dagger]], or appropriate artisan's tools, such as [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|leatherworker's tools]].
 
 ### Hold Breath
 
@@ -53,7 +53,7 @@ You can hold your breath for up to 15 minutes at a time.
 
 ### Hunter's Lore
 
-You gain proficiency with two of the following skills of your choice: [Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling), [Nature](/03_Mechanics/CLI/skills.md#Nature), [Perception](/03_Mechanics/CLI/skills.md#Perception), [Stealth](/03_Mechanics/CLI/skills.md#Stealth), and [Survival](/03_Mechanics/CLI/skills.md#Survival).
+You gain proficiency with two of the following skills of your choice: [[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]], [[/03_Mechanics/CLI/skills#Nature|Nature]], [[/03_Mechanics/CLI/skills#Perception|Perception]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]], and [[/03_Mechanics/CLI/skills#Survival|Survival]].
 
 ### Natural Armor
 

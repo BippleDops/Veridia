@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/Places/The Void Touched Depths|02 Worldbuilding/Places/The Void Touched Depths]]
 
 
 ## Connections

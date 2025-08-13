@@ -177,6 +177,6 @@ Legends speak of Quest   The Perfect Purifier as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Perfect Purifier]]
+- [[02_Worldbuilding/People/Quest - The Perfect Purifier|02 Worldbuilding/People/Quest The Perfect Purifier]]
 
 <!-- enriched: true -->

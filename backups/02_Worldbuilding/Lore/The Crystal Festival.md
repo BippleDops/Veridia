@@ -39,7 +39,7 @@ The Crystal Festival represents the culmination of centuries of tradition in [[A
 
 For generations, the festival served as the cultural heart of [[Aethermoor]], providing a space where all social classes could celebrate together, where the kingdom's greatest artists could showcase their talents, and where the magical properties of crystal formations could be safely experienced by ordinary citizens. The event represented everything noble about the kingdom - creativity, inclusivity, wonder, and the harmonious relationship between mortal civilization and magical forces.
 
-However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[02_Worldbuilding/People/Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[02_Worldbuilding/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
+However, the final Crystal Festival became something far more significant and terrifying than anyone could have anticipated. What was planned as a celebration of tradition became the stage for [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s ultimate ritual, an attempt to harness the power of the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] to transform the entire population of [[Port Meridian]] into crystalline entities under the control of an otherworldly intelligence.
 
 The festival's transformation from beloved celebration to existential crisis serves as a metaphor for the kingdom's broader struggle between preserving cherished traditions and adapting to cosmic forces beyond mortal understanding. The events of the final Crystal Festival would reshape not only [[Aethermoor]] but the fundamental relationship between surface and underwater civilizations.
 
@@ -51,7 +51,7 @@ Over the centuries, the simple gatherings evolved into increasingly elaborate ce
 
 The festival's growth paralleled [[Aethermoor]]'s development as a center of magical learning and crystal-based technology. Each year brought new innovations in crystal cultivation, magical artistry, and festival organization that made the celebrations more spectacular and meaningful. The event became a showcase for the kingdom's achievements and a symbol of its commitment to balancing magical advancement with cultural preservation.
 
-The festival's significance increased dramatically after the discovery of the [[02_Worldbuilding/Lore/The Seven Shards]] and their connection to the crystalline formations throughout [[Aethermoor]]. Religious and magical authorities began to view the festival as more than entertainment - it became a crucial ritual that maintained harmony between mortal civilization and the cosmic forces embodied in the Shards.
+The festival's significance increased dramatically after the discovery of the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] and their connection to the crystalline formations throughout [[Aethermoor]]. Religious and magical authorities began to view the festival as more than entertainment - it became a crucial ritual that maintained harmony between mortal civilization and the cosmic forces embodied in the Shards.
 
 The establishment of the [[Crystal Festival Grounds]] as a permanent venue marked the festival's transition from a traveling celebration to a centralized institution. The construction of specialized facilities for magical demonstrations, artistic exhibitions, and large-scale gatherings reflected the event's importance to both the kingdom's economy and its cultural identity.
 
@@ -83,7 +83,7 @@ During the festival period, the concentration of crystalline formations and incr
 **Collective Casting**: Groups of spellcasters can combine their efforts to create spectacular displays or achieve effects beyond normal spell capabilities. These collaborative castings require coordination checks and carry risks of magical feedback that can affect all participants.
 
 ### Transformation Mechanics
-The final Crystal Festival introduced corruption mechanics as [[02_Worldbuilding/People/Vex Shadowthorn]]'s ritual began affecting participants:
+The final Crystal Festival introduced corruption mechanics as [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s ritual began affecting participants:
 
 **Crystal Corruption Exposure**: Citizens attending the corrupted festival gain corruption points based on their proximity to ritual centers and duration of exposure. Corruption accumulates slowly during normal festival activities but accelerates dramatically during ritual events.
 
@@ -102,10 +102,10 @@ During the festival's early period, a spontaneous magical event occurred when mu
 A group of radical artists attempted to use the festival as a platform for political protest, creating magical performances that criticized the kingdom's leadership and social structure. The government's response established precedents for balancing artistic freedom with public safety during large-scale magical events.
 
 ### The Shard Resonance Incident (156 years ago)
-The first recorded interaction between festival crystal formations and one of the [[02_Worldbuilding/Lore/The Seven Shards]] occurred when the Clear Shard's influence caused unprecedented magical displays throughout the festival grounds. This event marked the beginning of deeper investigation into the connections between festival crystals and cosmic forces.
+The first recorded interaction between festival crystal formations and one of the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] occurred when the Clear Shard's influence caused unprecedented magical displays throughout the festival grounds. This event marked the beginning of deeper investigation into the connections between festival crystals and cosmic forces.
 
 ### The Final Festival Transformation (Present Day)
-[[02_Worldbuilding/People/Vex Shadowthorn]]'s culminating ritual transformed the traditional celebration into an attempted mass conversion of the kingdom's population into crystalline entities. The events of this final festival represent the ultimate collision between beloved tradition and cosmic manipulation.
+[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s culminating ritual transformed the traditional celebration into an attempted mass conversion of the kingdom's population into crystalline entities. The events of this final festival represent the ultimate collision between beloved tradition and cosmic manipulation.
 
 ## Key Figures and Organizations
 
@@ -128,7 +128,7 @@ The question of cultural continuity versus safety remains unresolved, with some 
 
 ## Future Implications and Prophecies
 
-The Crystal Festival's transformation into a cosmic intervention point suggests that similar traditional celebrations throughout the world may be vulnerable to manipulation by forces seeking to reshape mortal civilization. The precedent established by [[02_Worldbuilding/People/Vex Shadowthorn]]'s ritual raises questions about the safety of large-scale magical gatherings.
+The Crystal Festival's transformation into a cosmic intervention point suggests that similar traditional celebrations throughout the world may be vulnerable to manipulation by forces seeking to reshape mortal civilization. The precedent established by [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s ritual raises questions about the safety of large-scale magical gatherings.
 
 Prophecies recorded during the festival's final hours suggest that the event's interruption may have prevented a transformation that would have affected not just [[Aethermoor]] but the fundamental nature of reality itself. However, these same prophecies indicate that the cosmic forces involved remain active and may attempt similar interventions in the future.
 
@@ -145,14 +145,14 @@ Characters are tasked with planning and protecting a smaller-scale revival of th
 Investigation reveals that some festival attendees were more deeply affected by the transformation ritual than initially apparent, requiring characters to identify and help citizens whose corruption may be dormant but still present.
 
 ### The Ritual Aftermath
-Magical disturbances at the former festival grounds threaten to reactivate [[02_Worldbuilding/People/Vex Shadowthorn]]'s ritual effects, requiring characters to enter the dangerous area and neutralize ongoing magical hazards while uncovering secrets about the cosmic forces that influenced the original transformation.
+Magical disturbances at the former festival grounds threaten to reactivate [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s ritual effects, requiring characters to enter the dangerous area and neutralize ongoing magical hazards while uncovering secrets about the cosmic forces that influenced the original transformation.
 
 ## Connected Topics and References
 - [[Crystal Festival Grounds]] - The permanent venue for festival celebrations
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Monarch who became the ritual's focus
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Antagonist who corrupted the festival
-- [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that influenced the festival's magical properties
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - Historical event that established crystal-based magic
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Monarch who became the ritual's focus
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Antagonist who corrupted the festival
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that influenced the festival's magical properties
+- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - Historical event that established crystal-based magic
 - [[Festival Master Elena Brightcrystal]] - Traditional festival coordinator
 - [[The Crystal Artisans Guild]] - Organization responsible for festival's magical elements
 
@@ -161,9 +161,9 @@ Magical disturbances at the former festival grounds threaten to reactivate [[02_
 
 - [[Crystal Festival Grounds]]
 - [[Prismatic Falls]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
 - [[Aethermoor - Session 06 The Bloodline Awakens]]
 
@@ -189,6 +189,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 - [[Aethermoor]]
 - [[Port Meridian]]

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Novelist Current Stories]]
+- [[02_Worldbuilding/Places/Novelist Current Stories|02 Worldbuilding/Places/Novelist Current Stories]]
 
 <!-- enriched: true -->
 

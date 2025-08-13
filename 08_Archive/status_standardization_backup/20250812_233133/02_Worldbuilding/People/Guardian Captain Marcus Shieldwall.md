@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Guardian Captain Marcus Shieldwall]]
+- [[02_Worldbuilding/People/Guardian Captain Marcus Shieldwall|02 Worldbuilding/People/Guardian Captain Marcus Shieldwall]]
 
 <!-- enriched: true -->
 

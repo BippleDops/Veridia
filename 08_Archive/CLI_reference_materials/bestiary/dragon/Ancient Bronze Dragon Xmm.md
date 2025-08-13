@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
 
-# [Ancient Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-bronze-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/ancient-bronze-dragon-xmm|Ancient Bronze Dragon]]
 *Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ancient bronze dragons develop dramatic patinas on their glimmering scales. These dragons strive to protect whole regions, continents, or planets from threats. They seek solutions to planes-spanning calamities or multiversal perils and oppose the evil of mighty chromatic dragons.
@@ -67,11 +67,11 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "7"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+10"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+17"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
@@ -84,44 +84,44 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Repulsion Breath or (B) Spellcasting to cast [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md)\
+      \ use of (A) Repulsion Breath or (B) Spellcasting to cast [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]]\
       \ (level 2 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +16, reach 15 ft. Hit: 18 (2d8 + 9) Slashing damage\
       \ plus 9 (2d8) Lightning damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 23, each creature in a 120-foot-long, 10-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 82 (15d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 23, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Strength Saving Throw: DC 23, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 60 feet straight away from the dragon\
-      \ and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
+      \ and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
     "name": "Repulsion Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit\
-      \ with spell attacks):\n\nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md) (level 2 version),\
-      \ [Shapechange](/03_Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-      \ form only, no [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell), [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md),\
-      \ [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
-      \ [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md), [Control\
-      \ Water](/03_Mechanics/CLI/spells/control-water-xphb.md), [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md),\
-      \ [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md)"
+      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]] (level 2 version),\
+      \ [[/03_Mechanics/CLI/spells/shapechange-xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell), [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|Speak with Animals]],\
+      \ [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]]\n\n1/day each:\
+      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/control-water-xphb|Control\
+      \ Water]], [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]],\
+      \ [[/03_Mechanics/CLI/spells/water-breathing-xphb|Water Breathing]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]]\
       \ (level 2 version)."
     "name": "Guiding Light"
-  - "desc": "The dragon moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
   - "desc": "Constitution Saving Throw: DC 22, each creature in a 20-foot-radius\
-      \ [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered\
       \ on a point the dragon can see within 120 feet. Failure: 13 (3d8) Thunder\
-      \ damage, and the target has the [Deafened](/03_Mechanics/CLI/conditions.md#Deafened)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Deafened|Deafened]]\
       \ condition until the end of its next turn."
     "name": "Thunderclap"
 "regional_effects":
@@ -129,9 +129,9 @@ Bronze dragons usually make their homes near or under the sea.
       \ by its presence, creating the following effects:"
     "name": ""
   - "desc": "- Buoying Currents. Creatures within 1 mile of the lair that lack\
-      \ a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) ignore the\
+      \ a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] ignore the\
       \ extra cost of movement while swimming.  \n- Sun and Storms. While in its\
-      \ lair, the dragon can cast [Control Weather](/03_Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ lair, the dragon can cast [[/03_Mechanics/CLI/spells/control-weather-xphb|Control Weather]],\
       \ requiring no Material components and using the same spellcasting ability as\
       \ its Spellcasting action. When casting the spell this way, the dragon can control\
       \ the weather within 1 mile of its lair, regardless if the dragon is inside\

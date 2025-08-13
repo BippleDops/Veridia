@@ -15,7 +15,7 @@ type: Location
 category: Dungeon/Lair
 depth: 3000-5000 feet
 difficulty: Levels 16-20
-ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
+ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'
 created_by: auto-stub
 created: 2025-08-08
 updated: 2025-08-11
@@ -35,7 +35,7 @@ danger_level: Moderate
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*
 
 ## Overview
-The Deepmind is a massive organic structure that serves as both the lair and extended body of [[02_Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[02_Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
+The Deepmind is a massive organic structure that serves as both the lair and extended body of [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
 
 ## Physical Description
 
@@ -99,7 +99,7 @@ Travelers approaching The Deepmind experience:
 ## Inhabitants & Denizens
 
 ### Permanent Residents
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Supreme ruler
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]**: Supreme ruler
 - **Lesser Aboleths** (12): Extensions of Yoth's will
 - **Memory Collectors**: Specialized servant creatures
 - **Thought Thieves**: Invisible psychic parasites
@@ -274,21 +274,21 @@ Yoth can take one lair action per round:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Creator and consciousness
-- [[02_Worldbuilding/People/Senator Glaucus]] - Frequent visitor
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Born here
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Knows weaknesses
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees its true nature
+- [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]] - Creator and consciousness
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Frequent visitor
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Born here
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Knows weaknesses
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees its true nature
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Puppet government
-- [[02_Worldbuilding/Places/Abyssos Prime]] - City above
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Deeper connections
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Puppet government
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - City above
+- [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Deeper connections
 - [[Memory Meadows]] - Opposite aspect
 - [[Shadow Markets]] - Trade stolen memories
 
 ### Important Quests
-- [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy]]
+- [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy|02 Worldbuilding/Quests/Quest The Shadow Conspiracy]]
 - [[Quest - The Memory Thieves]]
 - [[Quest - Liberation of The Deepmind]]
 - [[Quest - The Collective Consciousness]]
@@ -309,7 +309,7 @@ Yoth can take one lair action per round:
 ## Connections
 
 - [[Discover Marina's Truth]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Admiral Thorne Blackwater]]
 - [[Duke Cyrus Reefheart]]
 - [[Sage Lysander Deepthought]]
@@ -321,7 +321,7 @@ Yoth can take one lair action per round:
 - [[The Whispering Depths]]
 - [[Vault Breach]]
 - [[Ambush Point]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -333,6 +333,6 @@ Legends speak of The Deepmind as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deepmind]]
+- [[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]
 
 <!-- enriched: true -->

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]
 
 
 ## Connections

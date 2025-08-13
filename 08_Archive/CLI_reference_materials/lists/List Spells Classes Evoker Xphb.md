@@ -20,88 +20,88 @@ world: Both
 
 ## Cantrip
 
-- [Acid Splash](/03_Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") at class level 3
-- [Fire Bolt](/03_Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") at class level 3
-- [Frostbite](/03_Mechanics/CLI/spells/frostbite-xge.md "XGE") at class level 3
-- [Light](/03_Mechanics/CLI/spells/light-xphb.md "XPHB") at class level 3
-- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 3
-- [Shocking Grasp](/03_Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") at class level 3
-- [Thunderclap](/03_Mechanics/CLI/spells/thunderclap-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/acid-splash-xphb "XPHB"|Acid Splash]] at class level 3
+- [[/03_Mechanics/CLI/spells/fire-bolt-xphb "XPHB"|Fire Bolt]] at class level 3
+- [[/03_Mechanics/CLI/spells/frostbite-xge "XGE"|Frostbite]] at class level 3
+- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] at class level 3
+- [[/03_Mechanics/CLI/spells/ray-of-frost-xphb "XPHB"|Ray of Frost]] at class level 3
+- [[/03_Mechanics/CLI/spells/shocking-grasp-xphb "XPHB"|Shocking Grasp]] at class level 3
+- [[/03_Mechanics/CLI/spells/thunderclap-xphb "XPHB"|Thunderclap]] at class level 3
 
 ## 1st Level
 
-- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Chromatic Orb](/03_Mechanics/CLI/spells/chromatic-orb-xphb.md "XPHB") at class level 3
-- [Earth Tremor](/03_Mechanics/CLI/spells/earth-tremor-xge.md "XGE") at class level 3
-- [Magic Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md "XPHB") at class level 3
-- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 3
-- [Witch Bolt](/03_Mechanics/CLI/spells/witch-bolt-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] at class level 3
+- [[/03_Mechanics/CLI/spells/chromatic-orb-xphb "XPHB"|Chromatic Orb]] at class level 3
+- [[/03_Mechanics/CLI/spells/earth-tremor-xge "XGE"|Earth Tremor]] at class level 3
+- [[/03_Mechanics/CLI/spells/magic-missile-xphb "XPHB"|Magic Missile]] at class level 3
+- [[/03_Mechanics/CLI/spells/thunderwave-xphb "XPHB"|Thunderwave]] at class level 3
+- [[/03_Mechanics/CLI/spells/witch-bolt-xphb "XPHB"|Witch Bolt]] at class level 3
 
 ## 2nd Level
 
-- [Aganazzar's Scorcher](/03_Mechanics/CLI/spells/aganazzars-scorcher-xge.md "XGE") at class level 3
-- [Continual Flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md "XPHB") at class level 3
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
-- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3
-- [Melf's Acid Arrow](/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb.md "XPHB") at class level 3
-- [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
-- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 3
-- [Snilloc's Snowball Swarm](/03_Mechanics/CLI/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 3
-- [Warding Wind](/03_Mechanics/CLI/spells/warding-wind-xge.md "XGE") at class level 3
+- [[/03_Mechanics/CLI/spells/aganazzars-scorcher-xge "XGE"|Aganazzar's Scorcher]] at class level 3
+- [[/03_Mechanics/CLI/spells/continual-flame-xphb "XPHB"|Continual Flame]] at class level 3
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 3
+- [[/03_Mechanics/CLI/spells/gust-of-wind-xphb "XPHB"|Gust of Wind]] at class level 3
+- [[/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb "XPHB"|Melf's Acid Arrow]] at class level 3
+- [[/03_Mechanics/CLI/spells/scorching-ray-xphb "XPHB"|Scorching Ray]] at class level 3
+- [[/03_Mechanics/CLI/spells/shatter-xphb "XPHB"|Shatter]] at class level 3
+- [[/03_Mechanics/CLI/spells/snillocs-snowball-swarm-xge "XGE"|Snilloc's Snowball Swarm]] at class level 3
+- [[/03_Mechanics/CLI/spells/warding-wind-xge "XGE"|Warding Wind]] at class level 3
 
 ## 3rd Level
 
-- [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 3
-- [Leomund's Tiny Hut](/03_Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 3
-- [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 3
-- [Melf's Minute Meteors](/03_Mechanics/CLI/spells/melfs-minute-meteors-xge.md "XGE") at class level 3
-- [Wall of Sand](/03_Mechanics/CLI/spells/wall-of-sand-xge.md "XGE") at class level 3
-- [Wall of Water](/03_Mechanics/CLI/spells/wall-of-water-xge.md "XGE") at class level 3
+- [[/03_Mechanics/CLI/spells/fireball-xphb "XPHB"|Fireball]] at class level 3
+- [[/03_Mechanics/CLI/spells/leomunds-tiny-hut-xphb "XPHB"|Leomund's Tiny Hut]] at class level 3
+- [[/03_Mechanics/CLI/spells/lightning-bolt-xphb "XPHB"|Lightning Bolt]] at class level 3
+- [[/03_Mechanics/CLI/spells/melfs-minute-meteors-xge "XGE"|Melf's Minute Meteors]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-sand-xge "XGE"|Wall of Sand]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-water-xge "XGE"|Wall of Water]] at class level 3
 
 ## 4th Level
 
-- [Fire Shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") at class level 3
-- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 3
-- [Sickening Radiance](/03_Mechanics/CLI/spells/sickening-radiance-xge.md "XGE") at class level 3
-- [Storm Sphere](/03_Mechanics/CLI/spells/storm-sphere-xge.md "XGE") at class level 3
-- [Vitriolic Sphere](/03_Mechanics/CLI/spells/vitriolic-sphere-xphb.md "XPHB") at class level 3
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/fire-shield-xphb "XPHB"|Fire Shield]] at class level 3
+- [[/03_Mechanics/CLI/spells/ice-storm-xphb "XPHB"|Ice Storm]] at class level 3
+- [[/03_Mechanics/CLI/spells/sickening-radiance-xge "XGE"|Sickening Radiance]] at class level 3
+- [[/03_Mechanics/CLI/spells/storm-sphere-xge "XGE"|Storm Sphere]] at class level 3
+- [[/03_Mechanics/CLI/spells/vitriolic-sphere-xphb "XPHB"|Vitriolic Sphere]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]] at class level 3
 
 ## 5th Level
 
-- [Bigby's Hand](/03_Mechanics/CLI/spells/bigbys-hand-xphb.md "XPHB") at class level 3
-- [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB") at class level 3
-- [Dawn](/03_Mechanics/CLI/spells/dawn-xge.md "XGE") at class level 3
-- [Immolation](/03_Mechanics/CLI/spells/immolation-xge.md "XGE") at class level 3
-- [Jallarzi's Storm of Radiance](/03_Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md "XPHB") at class level 3
-- [Wall of Force](/03_Mechanics/CLI/spells/wall-of-force-xphb.md "XPHB") at class level 3
-- [Wall of Light](/03_Mechanics/CLI/spells/wall-of-light-xge.md "XGE") at class level 3
-- [Wall of Stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/bigbys-hand-xphb "XPHB"|Bigby's Hand]] at class level 3
+- [[/03_Mechanics/CLI/spells/cone-of-cold-xphb "XPHB"|Cone of Cold]] at class level 3
+- [[/03_Mechanics/CLI/spells/dawn-xge "XGE"|Dawn]] at class level 3
+- [[/03_Mechanics/CLI/spells/immolation-xge "XGE"|Immolation]] at class level 3
+- [[/03_Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb "XPHB"|Jallarzi's Storm of Radiance]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-force-xphb "XPHB"|Wall of Force]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-light-xge "XGE"|Wall of Light]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-stone-xphb "XPHB"|Wall of Stone]] at class level 3
 
 ## 6th Level
 
-- [Chain Lightning](/03_Mechanics/CLI/spells/chain-lightning-xphb.md "XPHB") at class level 3
-- [Otiluke's Freezing Sphere](/03_Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md "XPHB") at class level 3
-- [Sunbeam](/03_Mechanics/CLI/spells/sunbeam-xphb.md "XPHB") at class level 3
-- [Wall of Ice](/03_Mechanics/CLI/spells/wall-of-ice-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/chain-lightning-xphb "XPHB"|Chain Lightning]] at class level 3
+- [[/03_Mechanics/CLI/spells/otilukes-freezing-sphere-xphb "XPHB"|Otiluke's Freezing Sphere]] at class level 3
+- [[/03_Mechanics/CLI/spells/sunbeam-xphb "XPHB"|Sunbeam]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-ice-xphb "XPHB"|Wall of Ice]] at class level 3
 
 ## 7th Level
 
-- [Crown of Stars](/03_Mechanics/CLI/spells/crown-of-stars-xge.md "XGE") at class level 3
-- [Delayed Blast Fireball](/03_Mechanics/CLI/spells/delayed-blast-fireball-xphb.md "XPHB") at class level 3
-- [Forcecage](/03_Mechanics/CLI/spells/forcecage-xphb.md "XPHB") at class level 3
-- [Mordenkainen's Sword](/03_Mechanics/CLI/spells/mordenkainens-sword-xphb.md "XPHB") at class level 3
-- [Prismatic Spray](/03_Mechanics/CLI/spells/prismatic-spray-xphb.md "XPHB") at class level 3
-- [Whirlwind](/03_Mechanics/CLI/spells/whirlwind-xge.md "XGE") at class level 3
+- [[/03_Mechanics/CLI/spells/crown-of-stars-xge "XGE"|Crown of Stars]] at class level 3
+- [[/03_Mechanics/CLI/spells/delayed-blast-fireball-xphb "XPHB"|Delayed Blast Fireball]] at class level 3
+- [[/03_Mechanics/CLI/spells/forcecage-xphb "XPHB"|Forcecage]] at class level 3
+- [[/03_Mechanics/CLI/spells/mordenkainens-sword-xphb "XPHB"|Mordenkainen's Sword]] at class level 3
+- [[/03_Mechanics/CLI/spells/prismatic-spray-xphb "XPHB"|Prismatic Spray]] at class level 3
+- [[/03_Mechanics/CLI/spells/whirlwind-xge "XGE"|Whirlwind]] at class level 3
 
 ## 8th Level
 
-- [Maddening Darkness](/03_Mechanics/CLI/spells/maddening-darkness-xge.md "XGE") at class level 3
-- [Sunburst](/03_Mechanics/CLI/spells/sunburst-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/maddening-darkness-xge "XGE"|Maddening Darkness]] at class level 3
+- [[/03_Mechanics/CLI/spells/sunburst-xphb "XPHB"|Sunburst]] at class level 3
 
 ## 9th Level
 
-- [Meteor Swarm](/03_Mechanics/CLI/spells/meteor-swarm-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/meteor-swarm-xphb "XPHB"|Meteor Swarm]] at class level 3
 
 ## Player-Facing Summary
 

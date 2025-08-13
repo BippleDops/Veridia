@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-savant-mpmm-derro-savant-mpmm.svg)
 
-# [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 
 > [!quote] A quote from Mordenkainen  
@@ -49,7 +49,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather armor]]"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -62,7 +62,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -72,7 +72,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -85,10 +85,10 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [message](/03_Mechanics/CLI/spells/message-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n1/day each: [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md), [spider climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md)"
+      \ ability (spell save DC 12):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]],\
+      \ [[/03_Mechanics/CLI/spells/message-xphb|message]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]],\
+      \ [[/03_Mechanics/CLI/spells/sleep-xphb|sleep]], [[/03_Mechanics/CLI/spells/spider-climb-xphb|spider climb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

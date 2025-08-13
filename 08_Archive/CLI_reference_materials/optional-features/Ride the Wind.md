@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [fly](/03_Mechanics/CLI/spells/fly-xphb.md), targeting yourself.
+You can spend 4 ki points to cast [[/03_Mechanics/CLI/spells/fly-xphb|fly]], targeting yourself.
 
 ## Player-Facing Summary
 

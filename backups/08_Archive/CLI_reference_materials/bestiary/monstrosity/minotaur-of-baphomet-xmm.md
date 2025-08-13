@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-of-baphomet-xmm-minotaur-of-baphomet-xmm.svg)
 
-# [Minotaur of Baphomet](3-Mechanics\CLI\bestiary\monstrosity/minotaur-of-baphomet-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/minotaur-of-baphomet-xmm|Minotaur of Baphomet]]
 *Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Minotaur of Baphomet
@@ -69,9 +69,9 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
+  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
@@ -83,7 +83,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 10\
-      \ (3d6) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ (3d6) Piercing damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Gore (Recharge 5-6)"
 "source":

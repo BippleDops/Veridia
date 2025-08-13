@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Shield](/03_Mechanics/CLI/spells/shield-xphb.md "XPHB") with access to 5th-level spells
-- [Wrathful Smite](/03_Mechanics/CLI/spells/wrathful-smite-xphb.md "XPHB") with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/shield-xphb "XPHB"|Shield]] with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/wrathful-smite-xphb "XPHB"|Wrathful Smite]] with access to 5th-level spells
 
 ## 2nd Level
 
-- [Blur](/03_Mechanics/CLI/spells/blur-xphb.md "XPHB") with access to 5th-level spells
-- [Shining Smite](/03_Mechanics/CLI/spells/shining-smite-xphb.md "XPHB") with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/blur-xphb "XPHB"|Blur]] with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/shining-smite-xphb "XPHB"|Shining Smite]] with access to 5th-level spells
 
 ## 3rd Level
 
-- [Blink](/03_Mechanics/CLI/spells/blink-xphb.md "XPHB") with access to 5th-level spells
-- [Elemental Weapon](/03_Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB") with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/blink-xphb "XPHB"|Blink]] with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/elemental-weapon-xphb "XPHB"|Elemental Weapon]] with access to 5th-level spells
 
 ## 4th Level
 
-- [Phantasmal Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB") with access to 5th-level spells
-- [Staggering Smite](/03_Mechanics/CLI/spells/staggering-smite-xphb.md "XPHB") with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb "XPHB"|Phantasmal Killer]] with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/staggering-smite-xphb "XPHB"|Staggering Smite]] with access to 5th-level spells
 
 ## 5th Level
 
-- [Banishing Smite](/03_Mechanics/CLI/spells/banishing-smite-xphb.md "XPHB") with access to 5th-level spells
-- [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB") with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/banishing-smite-xphb "XPHB"|Banishing Smite]] with access to 5th-level spells
+- [[/03_Mechanics/CLI/spells/cone-of-cold-xphb "XPHB"|Cone of Cold]] with access to 5th-level spells
 
 ## Player-Facing Summary
 

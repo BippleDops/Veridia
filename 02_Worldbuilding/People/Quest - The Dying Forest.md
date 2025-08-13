@@ -166,6 +166,6 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Dying Forest]]
+- [[02_Worldbuilding/People/Quest - The Dying Forest|02 Worldbuilding/People/Quest The Dying Forest]]
 
 <!-- enriched: true -->

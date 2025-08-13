@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers|02 Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 
 ## Connections

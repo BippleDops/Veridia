@@ -185,6 +185,6 @@ Legends speak of The Constellation Mystery as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Constellation Mystery]]
+- [[02_Worldbuilding/Places/The Constellation Mystery|02 Worldbuilding/Places/The Constellation Mystery]]
 
 <!-- enriched: true -->

@@ -69,5 +69,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Complete_Pressure_Adaptation_System]]
+- [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]

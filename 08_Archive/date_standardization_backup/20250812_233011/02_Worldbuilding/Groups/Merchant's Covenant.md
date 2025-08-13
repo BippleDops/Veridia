@@ -267,18 +267,18 @@ The Covenant maintains trading posts at every major depth boundary:
 The Covenant sits at the center of complex intelligence networks that would rival any government's spy service:
 
 #### Triple Agent Networks
-- **[[02_Worldbuilding/Personnel/The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
-- **[[02_Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
-- **[[02_Worldbuilding/Personnel/Cultural Bridges]]**: Operatives maintaining relations with surface world governments
-- **[[02_Worldbuilding/Personnel/Truth Weavers]]**: Specialists in creating believable false intelligence
-- **[[02_Worldbuilding/Personnel/Loyalty Monitors]]**: Internal security tracking member allegiances
+- **[[02_Worldbuilding/Personnel/The Deep Listeners|02 Worldbuilding/Personnel/The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
+- **[[02_Worldbuilding/Personnel/Memory Merchants|02 Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
+- **[[02_Worldbuilding/Personnel/Cultural Bridges|02 Worldbuilding/Personnel/Cultural Bridges]]**: Operatives maintaining relations with surface world governments
+- **[[02_Worldbuilding/Personnel/Truth Weavers|02 Worldbuilding/Personnel/Truth Weavers]]**: Specialists in creating believable false intelligence
+- **[[02_Worldbuilding/Personnel/Loyalty Monitors|02 Worldbuilding/Personnel/Loyalty Monitors]]**: Internal security tracking member allegiances
 
 #### Political Manipulation
-- **[[02_Worldbuilding/Operations/Faction Balance Maintenance]]**: Preventing any one faction from becoming too dominant
-- **[[02_Worldbuilding/Operations/Crisis Profit Maximization]]**: Positioning for economic advantage during political upheavals
-- **[[02_Worldbuilding/Operations/Succession Influence]]**: Subtle guidance of leadership changes in client factions
-- **[[02_Worldbuilding/Operations/Treaty Mediation]]**: Broker deals that benefit Covenant interests
-- **[[02_Worldbuilding/Operations/Revolution Prevention]]**: Intervening to maintain profitable status quo
+- **[[02_Worldbuilding/Operations/Faction Balance Maintenance|02 Worldbuilding/Operations/Faction Balance Maintenance]]**: Preventing any one faction from becoming too dominant
+- **[[02_Worldbuilding/Operations/Crisis Profit Maximization|02 Worldbuilding/Operations/Crisis Profit Maximization]]**: Positioning for economic advantage during political upheavals
+- **[[02_Worldbuilding/Operations/Succession Influence|02 Worldbuilding/Operations/Succession Influence]]**: Subtle guidance of leadership changes in client factions
+- **[[02_Worldbuilding/Operations/Treaty Mediation|02 Worldbuilding/Operations/Treaty Mediation]]**: Broker deals that benefit Covenant interests
+- **[[02_Worldbuilding/Operations/Revolution Prevention|02 Worldbuilding/Operations/Revolution Prevention]]**: Intervening to maintain profitable status quo
 
 ### The Repository Conspiracy
 Unknown to most members, the Covenant's leadership maintains secret archives containing:
@@ -319,41 +319,41 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 ### Advanced Knowledge Categories
 
 #### Military Intelligence
-- **[[02_Worldbuilding/Services/Tactical Analysis]]**: Combat assessments and strategic recommendations
-- **[[02_Worldbuilding/Services/Weapons Development Intelligence]]**: Information on military technology advances
-- **[[02_Worldbuilding/Services/Fortress Blueprints]]**: Architectural plans for fortified positions
-- **[[02_Worldbuilding/Services/Supply Chain Analysis]]**: Military logistics and vulnerability assessment
-- **[[02_Worldbuilding/Services/Officer Profiling]]**: Detailed information on military commanders
+- **[[02_Worldbuilding/Services/Tactical Analysis|02 Worldbuilding/Services/Tactical Analysis]]**: Combat assessments and strategic recommendations
+- **[[02_Worldbuilding/Services/Weapons Development Intelligence|02 Worldbuilding/Services/Weapons Development Intelligence]]**: Information on military technology advances
+- **[[02_Worldbuilding/Services/Fortress Blueprints|02 Worldbuilding/Services/Fortress Blueprints]]**: Architectural plans for fortified positions
+- **[[02_Worldbuilding/Services/Supply Chain Analysis|02 Worldbuilding/Services/Supply Chain Analysis]]**: Military logistics and vulnerability assessment
+- **[[02_Worldbuilding/Services/Officer Profiling|02 Worldbuilding/Services/Officer Profiling]]**: Detailed information on military commanders
 
 #### Economic Intelligence
-- **[[02_Worldbuilding/Services/Market Manipulation Strategies]]**: Techniques for controlling depth-level economies
-- **[[02_Worldbuilding/Services/Resource Scarcity Prediction]]**: Forecasting shortages and surpluses
-- **[[02_Worldbuilding/Services/Trade Route Optimization]]**: Maximum efficiency path analysis
-- **[[02_Worldbuilding/Services/Currency Valuation]]**: Exchange rate management and prediction
-- **[[02_Worldbuilding/Services/Investment Risk Assessment]]**: Detailed analysis of business ventures
+- **[[02_Worldbuilding/Services/Market Manipulation Strategies|02 Worldbuilding/Services/Market Manipulation Strategies]]**: Techniques for controlling depth-level economies
+- **[[02_Worldbuilding/Services/Resource Scarcity Prediction|02 Worldbuilding/Services/Resource Scarcity Prediction]]**: Forecasting shortages and surpluses
+- **[[02_Worldbuilding/Services/Trade Route Optimization|02 Worldbuilding/Services/Trade Route Optimization]]**: Maximum efficiency path analysis
+- **[[02_Worldbuilding/Services/Currency Valuation|02 Worldbuilding/Services/Currency Valuation]]**: Exchange rate management and prediction
+- **[[02_Worldbuilding/Services/Investment Risk Assessment|02 Worldbuilding/Services/Investment Risk Assessment]]**: Detailed analysis of business ventures
 
 #### Cultural Intelligence
-- **[[02_Worldbuilding/Services/Social Movement Tracking]]**: Monitoring political and cultural changes
-- **[[02_Worldbuilding/Services/Religious Trend Analysis]]**: Spiritual movement implications for politics
-- **[[02_Worldbuilding/Services/Generational Shift Prediction]]**: Forecasting cultural evolution
-- **[[02_Worldbuilding/Services/Language Evolution Studies]]**: Changes in communication patterns
-- **[[02_Worldbuilding/Services/Art and Literature Intelligence]]**: Cultural products as political indicators
+- **[[02_Worldbuilding/Services/Social Movement Tracking|02 Worldbuilding/Services/Social Movement Tracking]]**: Monitoring political and cultural changes
+- **[[02_Worldbuilding/Services/Religious Trend Analysis|02 Worldbuilding/Services/Religious Trend Analysis]]**: Spiritual movement implications for politics
+- **[[02_Worldbuilding/Services/Generational Shift Prediction|02 Worldbuilding/Services/Generational Shift Prediction]]**: Forecasting cultural evolution
+- **[[02_Worldbuilding/Services/Language Evolution Studies|02 Worldbuilding/Services/Language Evolution Studies]]**: Changes in communication patterns
+- **[[02_Worldbuilding/Services/Art and Literature Intelligence|02 Worldbuilding/Services/Art And Literature Intelligence]]**: Cultural products as political indicators
 
 ### Specialized Consulting Services
 
 #### Transformation Consulting
-- **[[02_Worldbuilding/Services/Depth Adaptation Therapy]]**: Psychological support for depth transition
-- **[[02_Worldbuilding/Services/Biological Modification Guidance]]**: Safe approaches to physical transformation
-- **[[02_Worldbuilding/Services/Identity Preservation]]**: Maintaining sense of self through radical change
-- **[[02_Worldbuilding/Services/Transformation Reversal]]**: Techniques for undoing unwanted modifications
-- **[[02_Worldbuilding/Services/Enhancement Optimization]]**: Maximizing benefits of deliberate transformation
+- **[[02_Worldbuilding/Services/Depth Adaptation Therapy|02 Worldbuilding/Services/Depth Adaptation Therapy]]**: Psychological support for depth transition
+- **[[02_Worldbuilding/Services/Biological Modification Guidance|02 Worldbuilding/Services/Biological Modification Guidance]]**: Safe approaches to physical transformation
+- **[[02_Worldbuilding/Services/Identity Preservation|02 Worldbuilding/Services/Identity Preservation]]**: Maintaining sense of self through radical change
+- **[[02_Worldbuilding/Services/Transformation Reversal|02 Worldbuilding/Services/Transformation Reversal]]**: Techniques for undoing unwanted modifications
+- **[[02_Worldbuilding/Services/Enhancement Optimization|02 Worldbuilding/Services/Enhancement Optimization]]**: Maximizing benefits of deliberate transformation
 
 #### Diplomatic Services
-- **[[02_Worldbuilding/Services/Cultural Translation]]**: More than language - complete context interpretation
-- **[[02_Worldbuilding/Services/Negotiation Strategy]]**: Tactical approaches to complex diplomatic situations
-- **[[02_Worldbuilding/Services/Alliance Assessment]]**: Evaluating potential partnerships and their stability
-- **[[02_Worldbuilding/Services/Conflict Mediation]]**: Neutral third-party dispute resolution
-- **[[02_Worldbuilding/Services/Treaty Analysis]]**: Detailed evaluation of proposed agreements
+- **[[02_Worldbuilding/Services/Cultural Translation|02 Worldbuilding/Services/Cultural Translation]]**: More than language - complete context interpretation
+- **[[02_Worldbuilding/Services/Negotiation Strategy|02 Worldbuilding/Services/Negotiation Strategy]]**: Tactical approaches to complex diplomatic situations
+- **[[02_Worldbuilding/Services/Alliance Assessment|02 Worldbuilding/Services/Alliance Assessment]]**: Evaluating potential partnerships and their stability
+- **[[02_Worldbuilding/Services/Conflict Mediation|02 Worldbuilding/Services/Conflict Mediation]]**: Neutral third-party dispute resolution
+- **[[02_Worldbuilding/Services/Treaty Analysis|02 Worldbuilding/Services/Treaty Analysis]]**: Detailed evaluation of proposed agreements
 
 ## Network Security & Counter-Intelligence
 
@@ -366,11 +366,11 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 - **Goldstream Classified**: Known only to the Archmerchant and selected successors
 
 #### Security Measures
-- **[[02_Worldbuilding/Technology/Memory Encryption]]**: Magical protection of sensitive knowledge
-- **[[02_Worldbuilding/Technology/Loyalty Verification]]**: Regular testing of member allegiances
-- **[[02_Worldbuilding/Technology/Information Tracking]]**: Monitoring distribution of sensitive data
-- **[[02_Worldbuilding/Technology/Counter-Surveillance]]**: Detection and prevention of espionage
-- **[[02_Worldbuilding/Technology/Emergency Destruction]]**: Rapid elimination of compromised information
+- **[[02_Worldbuilding/Technology/Memory Encryption|02 Worldbuilding/Technology/Memory Encryption]]**: Magical protection of sensitive knowledge
+- **[[02_Worldbuilding/Technology/Loyalty Verification|02 Worldbuilding/Technology/Loyalty Verification]]**: Regular testing of member allegiances
+- **[[02_Worldbuilding/Technology/Information Tracking|02 Worldbuilding/Technology/Information Tracking]]**: Monitoring distribution of sensitive data
+- **[[02_Worldbuilding/Technology/Counter-Surveillance|02 Worldbuilding/Technology/Counter Surveillance]]**: Detection and prevention of espionage
+- **[[02_Worldbuilding/Technology/Emergency Destruction|02 Worldbuilding/Technology/Emergency Destruction]]**: Rapid elimination of compromised information
 
 ### Threat Assessment
 #### External Threats
@@ -400,19 +400,19 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 - **Transportation Fees**: Charges for secure inter-depth travel and cargo transport
 
 #### Economic Manipulation
-- **[[02_Worldbuilding/Operations/Market Intelligence Distribution]]**: Selective information sharing affecting trade
-- **[[02_Worldbuilding/Operations/Resource Flow Control]]**: Influencing availability of critical materials
-- **[[02_Worldbuilding/Operations/Credit Rating Management]]**: Information affecting borrowing and investment
-- **[[02_Worldbuilding/Operations/Technology Transfer]]**: Controlling spread of innovations between depths
-- **[[02_Worldbuilding/Operations/Labor Market Intelligence]]**: Information affecting employment and wages
+- **[[02_Worldbuilding/Operations/Market Intelligence Distribution|02 Worldbuilding/Operations/Market Intelligence Distribution]]**: Selective information sharing affecting trade
+- **[[02_Worldbuilding/Operations/Resource Flow Control|02 Worldbuilding/Operations/Resource Flow Control]]**: Influencing availability of critical materials
+- **[[02_Worldbuilding/Operations/Credit Rating Management|02 Worldbuilding/Operations/Credit Rating Management]]**: Information affecting borrowing and investment
+- **[[02_Worldbuilding/Operations/Technology Transfer|02 Worldbuilding/Operations/Technology Transfer]]**: Controlling spread of innovations between depths
+- **[[02_Worldbuilding/Operations/Labor Market Intelligence|02 Worldbuilding/Operations/Labor Market Intelligence]]**: Information affecting employment and wages
 
 ### Political Leverage
 #### Influence Operations
-- **[[02_Worldbuilding/Operations/Leadership Profiling]]**: Detailed psychological analysis of decision-makers
-- **[[02_Worldbuilding/Operations/Succession Planning]]**: Subtle influence on leadership transitions
-- **[[02_Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
-- **[[02_Worldbuilding/Operations/Alliance Facilitation]]**: Encouraging beneficial political partnerships
-- **[[02_Worldbuilding/Operations/Opposition Research]]**: Intelligence gathering on political rivals
+- **[[02_Worldbuilding/Operations/Leadership Profiling|02 Worldbuilding/Operations/Leadership Profiling]]**: Detailed psychological analysis of decision-makers
+- **[[02_Worldbuilding/Operations/Succession Planning|02 Worldbuilding/Operations/Succession Planning]]**: Subtle influence on leadership transitions
+- **[[02_Worldbuilding/Operations/Crisis Management|02 Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
+- **[[02_Worldbuilding/Operations/Alliance Facilitation|02 Worldbuilding/Operations/Alliance Facilitation]]**: Encouraging beneficial political partnerships
+- **[[02_Worldbuilding/Operations/Opposition Research|02 Worldbuilding/Operations/Opposition Research]]**: Intelligence gathering on political rivals
 
 #### Diplomatic Immunity
 The Covenant has negotiated quasi-governmental status with major depth authorities:
@@ -461,8 +461,8 @@ The Covenant has negotiated quasi-governmental status with major depth authoriti
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]] - Cautious clients
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]] - Government consultants
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]] - Sympathetic support
-- [[02_Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
-- [[02_Worldbuilding/Groups/The Parliament of Nobody]] - Information about non-existent citizens
+- [[02_Worldbuilding/Groups/Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
+- [[02_Worldbuilding/Groups/The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]] - Information about non-existent citizens
 
 **Key Locations**:
 - [[The Repository Barge]] - Mobile headquarters and primary library
@@ -480,12 +480,12 @@ The Covenant has negotiated quasi-governmental status with major depth authoriti
 - [[The Succession Crisis]] - Current leadership transition
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Groups/Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
+- [[02_Worldbuilding/Groups/Archmerchant Codex Goldstrea|02 Worldbuilding/Groups/Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
 - [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
 - [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
 - [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
-- [[02_Worldbuilding/Groups/Information Broker Whisper Goldtongu]] - Intelligence operations chief
-- [[02_Worldbuilding/Groups/Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
+- [[02_Worldbuilding/Groups/Information Broker Whisper Goldtongu|02 Worldbuilding/Groups/Information Broker Whisper Goldtongu]] - Intelligence operations chief
+- [[02_Worldbuilding/Groups/Craftmaster Engineer Gearwhispe|02 Worldbuilding/Groups/Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
 - [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
 
 **Knowledge Categories**:
@@ -520,4 +520,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Northgate]]
+- [[02_Worldbuilding/Quests/Northgate|02 Worldbuilding/Quests/Northgate]]

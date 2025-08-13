@@ -35,7 +35,7 @@ world: Aethermoor
 
 ## Organization Overview
 
-Vex Shadowthorn Boss Fight represents the pinnacle of professional combat services in [[02_Worldbuilding/Places/Aethermoor]], specializing in the elimination of extremely dangerous creatures, rogue crystal entities, and other threats that conventional forces cannot handle. Named after their legendary founder and commander, this elite mercenary company has built a reputation for taking on seemingly impossible combat challenges and succeeding where others fail.
+Vex Shadowthorn Boss Fight represents the pinnacle of professional combat services in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], specializing in the elimination of extremely dangerous creatures, rogue crystal entities, and other threats that conventional forces cannot handle. Named after their legendary founder and commander, this elite mercenary company has built a reputation for taking on seemingly impossible combat challenges and succeeding where others fail.
 
 Unlike typical mercenary groups that focus on quantity and basic services, Vex Shadowthorn Boss Fight operates as a boutique organization of combat specialists. Each member is an elite warrior with unique skills and specialized equipment, trained to work together as a coordinated team capable of defeating enemies that would require entire armies to subdue through conventional means.
 
@@ -312,25 +312,25 @@ The organization's signature approach to combat combines multiple specialized ro
 
 ### Professional Partners
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]**
 **Relationship**: Government Contractor
 Provides specialized combat services for threats beyond conventional military capabilities. Maintains professional relationship while preserving operational independence.
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**
 **Relationship**: Commercial Client
 Offers protection services for valuable Consortium operations and facilities. Relationship is purely professional and contractual.
 
-#### **[[02_Worldbuilding/Groups/The Artisans' Collective]]**
+#### **[[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
 **Relationship**: Equipment Supplier
 Collaborates on development of specialized combat equipment and crystal-enhanced gear. Values their innovation and craftsmanship.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
 **Relationship**: Mutual Respect
 Occasionally contracts for operations in aquatic environments. Appreciates their combat traditions and honor-based culture.
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**
+#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Information Exchange
 Trades combat intelligence for scholarly research about dangerous creatures and phenomena.
 
@@ -346,7 +346,7 @@ Some military commanders resent hiring mercenaries for tasks they believe should
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Ideological Opposition
 The Coalition views crystal-enhanced mercenaries as corrupted abominations, leading to occasional conflicts.
 
@@ -561,10 +561,10 @@ Clients who trust the organization with their most serious problems deserve comp
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/The Artisans' Collective]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 
 **Key Locations**:
 - [[The Battle Forge Arena]]
@@ -576,7 +576,7 @@ Clients who trust the organization with their most serious problems deserve comp
 - [[Commander Vex Shadowthorn]]
 - [[Weapons Master Kael Bladefury]]
 - [[Field Strategist Marcus Battlewise]]
-- [[02_Worldbuilding/Lore/Intel Master Raven Shadowsigh]]
+- [[02_Worldbuilding/Lore/Intel Master Raven Shadowsigh|02 Worldbuilding/Lore/Intel Master Raven Shadowsigh]]
 
 **Important Concepts**:
 - [[The Shadowthorn Combat System]]

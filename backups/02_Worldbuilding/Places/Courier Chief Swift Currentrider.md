@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## Connections

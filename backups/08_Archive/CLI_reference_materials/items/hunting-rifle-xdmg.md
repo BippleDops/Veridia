@@ -28,7 +28,7 @@ world: Both
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*

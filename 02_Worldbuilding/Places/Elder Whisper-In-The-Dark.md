@@ -18,7 +18,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 

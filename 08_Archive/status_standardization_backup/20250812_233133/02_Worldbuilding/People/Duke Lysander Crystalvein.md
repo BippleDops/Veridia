@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duke Lysander Crystalvein]]
+- [[02_Worldbuilding/People/Duke Lysander Crystalvein|02 Worldbuilding/People/Duke Lysander Crystalvein]]
 
 <!-- enriched: true -->
 

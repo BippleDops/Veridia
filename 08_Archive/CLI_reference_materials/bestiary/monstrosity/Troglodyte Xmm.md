@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troglodyte-xmm-troglodyte-xmm.svg)
 
-# [Troglodyte](3-Mechanics\CLI\bestiary\monstrosity/troglodyte-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/troglodyte-xmm|Troglodyte]]
 *Source: Monster Manual (2024) p. 309*  
 
 ## Troglodyte
@@ -62,19 +62,19 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
   - "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
-      \ that starts its turn in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the troglodyte. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ that starts its turn in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the troglodyte. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to the Stench of all troglodytes for 1 hour."
     "name": "Stench"
-  - "desc": "While in sunlight, the troglodyte has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the troglodyte has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

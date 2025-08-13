@@ -135,7 +135,7 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 
 **Key Documents**:
 - Original treaty with [[The Shadowhawk Syndicate]]
-- Proof of [[02_Worldbuilding/Lore/The Crystal Council]] corruption
+- Proof of [[02_Worldbuilding/Lore/The Crystal Council|02 Worldbuilding/Lore/The Crystal Council]] corruption
 - Evidence of [[Cross-Realm Conspiracy]] between Aethermoor and Aquabyssos
 - The [[Deep Mother Protocol]] - contingency for otherworldly invasion
 - Maps of [[Hidden Smuggler's Cove]] and other criminal networks
@@ -420,7 +420,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne|02 Worldbuilding/Places/Secret Vault Beneath Throne]]
 
 <!-- enriched: true -->
 - [[Hidden Smuggler's Cove]]

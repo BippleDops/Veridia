@@ -180,4 +180,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/CLI/actions]]
+- [[03_Mechanics/CLI/actions|03 Mechanics/CLI/actions]]

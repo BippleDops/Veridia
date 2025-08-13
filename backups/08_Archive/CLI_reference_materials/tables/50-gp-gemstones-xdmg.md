@@ -25,18 +25,18 @@ world: Both
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [Bloodstone](/03_Mechanics/CLI/items/bloodstone-xdmg.md) (dark gray with red flecks) |
-| 2 | [Carnelian](/03_Mechanics/CLI/items/carnelian-xdmg.md) (orange to red brown) |
-| 3 | [Chalcedony](/03_Mechanics/CLI/items/chalcedony-xdmg.md) (white) |
-| 4 | [Chrysoprase](/03_Mechanics/CLI/items/chrysoprase-xdmg.md) (green) |
-| 5 | [Citrine](/03_Mechanics/CLI/items/citrine-xdmg.md) (pale yellow brown) |
-| 6 | [Jasper](/03_Mechanics/CLI/items/jasper-xdmg.md) (blue, black, or brown) |
-| 7 | [Moonstone](/03_Mechanics/CLI/items/moonstone-xdmg.md) (white with pale-blue glow) |
-| 8 | [Onyx](/03_Mechanics/CLI/items/onyx-xdmg.md) (bands of black and white, or pure black or white) |
-| 9 | [Quartz](/03_Mechanics/CLI/items/quartz-xdmg.md) (white, smoky gray, or yellow) |
-| 10 | [Sardonyx](/03_Mechanics/CLI/items/sardonyx-xdmg.md) (bands of red and white) |
-| 11 | [Star rose quartz](/03_Mechanics/CLI/items/star-rose-quartz-xdmg.md) (rosy stone with white star-shaped center) |
-| 12 | [Zircon](/03_Mechanics/CLI/items/zircon-xdmg.md) (pale blue green) |
+| 1 | [[/03_Mechanics/CLI/items/bloodstone-xdmg|Bloodstone]] (dark gray with red flecks) |
+| 2 | [[/03_Mechanics/CLI/items/carnelian-xdmg|Carnelian]] (orange to red brown) |
+| 3 | [[/03_Mechanics/CLI/items/chalcedony-xdmg|Chalcedony]] (white) |
+| 4 | [[/03_Mechanics/CLI/items/chrysoprase-xdmg|Chrysoprase]] (green) |
+| 5 | [[/03_Mechanics/CLI/items/citrine-xdmg|Citrine]] (pale yellow brown) |
+| 6 | [[/03_Mechanics/CLI/items/jasper-xdmg|Jasper]] (blue, black, or brown) |
+| 7 | [[/03_Mechanics/CLI/items/moonstone-xdmg|Moonstone]] (white with pale-blue glow) |
+| 8 | [[/03_Mechanics/CLI/items/onyx-xdmg|Onyx]] (bands of black and white, or pure black or white) |
+| 9 | [[/03_Mechanics/CLI/items/quartz-xdmg|Quartz]] (white, smoky gray, or yellow) |
+| 10 | [[/03_Mechanics/CLI/items/sardonyx-xdmg|Sardonyx]] (bands of red and white) |
+| 11 | [[/03_Mechanics/CLI/items/star-rose-quartz-xdmg|Star rose quartz]] (rosy stone with white star-shaped center) |
+| 12 | [[/03_Mechanics/CLI/items/zircon-xdmg|Zircon]] (pale blue green) |
 ^50-gp-gemstones
 
 ## Player-Facing Summary

@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Hellish Rebuke](/03_Mechanics/CLI/spells/hellish-rebuke-xphb.md "XPHB") at class level 9
-- [Inflict Wounds](/03_Mechanics/CLI/spells/inflict-wounds-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/hellish-rebuke-xphb "XPHB"|Hellish Rebuke]] at class level 9
+- [[/03_Mechanics/CLI/spells/inflict-wounds-xphb "XPHB"|Inflict Wounds]] at class level 9
 
 ## 2nd Level
 
-- [Crown of Madness](/03_Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB") at class level 9
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/crown-of-madness-xphb "XPHB"|Crown of Madness]] at class level 9
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 9
 
 ## 3rd Level
 
-- [Animate Dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 9
-- [Bestow Curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/animate-dead-xphb "XPHB"|Animate Dead]] at class level 9
+- [[/03_Mechanics/CLI/spells/bestow-curse-xphb "XPHB"|Bestow Curse]] at class level 9
 
 ## 4th Level
 
-- [Blight](/03_Mechanics/CLI/spells/blight-xphb.md "XPHB") at class level 9
-- [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/blight-xphb "XPHB"|Blight]] at class level 9
+- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]] at class level 9
 
 ## 5th Level
 
-- [Contagion](/03_Mechanics/CLI/spells/contagion-xphb.md "XPHB") at class level 9
-- [Dominate Person](/03_Mechanics/CLI/spells/dominate-person-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/contagion-xphb "XPHB"|Contagion]] at class level 9
+- [[/03_Mechanics/CLI/spells/dominate-person-xphb "XPHB"|Dominate Person]] at class level 9
 
 ## Player-Facing Summary
 

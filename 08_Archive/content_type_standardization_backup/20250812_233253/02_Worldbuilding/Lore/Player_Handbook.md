@@ -41,9 +41,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[07_Player_Resources/Quick_Start_Guide]]
+- [[07_Player_Resources/Quick_Start_Guide|07 Player Resources/Quick Start Guide]]
 
 
 ## Connections
 
-- [[Quick_Start_Guide]]
+- [[Quick_Start_Guide|Quick Start Guide]]

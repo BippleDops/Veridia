@@ -115,7 +115,7 @@ Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aq
 ## Connections
 
 - [[The Merchant Code of Ethics]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 
 ## History
@@ -161,7 +161,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
+- [[02_Worldbuilding/Places/Lord Reginald Seaworthy|02 Worldbuilding/Places/Lord Reginald Seaworthy]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

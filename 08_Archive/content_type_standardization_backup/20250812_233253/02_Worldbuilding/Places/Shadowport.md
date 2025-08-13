@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/The Floating Market|02 Worldbuilding/Places/The Floating Market]]
 
 
 ## Connections

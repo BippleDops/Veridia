@@ -25,17 +25,17 @@ world: Both
 *Cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/berserker-axe.webp#right)
 
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 1 for each level you have attained.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum increases by 1 for each level you have attained.
 
 ## Curse
 
-This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls with weapons other than this one.
+This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the weapon, keeping it within reach at all times. You also have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls with weapons other than this one.
 
 Whenever another creature damages you while the weapon is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. This berserk state ends when you start your turn and there are no creatures within 60 feet of you that you can see or hear.
 
-While berserk, you regard the creature nearest to you that you can see or hear as your enemy. If there are multiple possible creatures, choose one at random. On each of your turns, you must move as close to the creature as possible and take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, targeting the creature. If you're unable to get close enough to the creature to attack it with the weapon, your turn ends after you've used up all your available movement. If the creature dies or can no longer be seen or heard by you, the next nearest creature that you can see or hear becomes your new target.
+While berserk, you regard the creature nearest to you that you can see or hear as your enemy. If there are multiple possible creatures, choose one at random. On each of your turns, you must move as close to the creature as possible and take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action, targeting the creature. If you're unable to get close enough to the creature to attack it with the weapon, your turn ends after you've used up all your available movement. If the creature dies or can no longer be seen or heard by you, the next nearest creature that you can see or hear becomes your new target.
 
 **Variants**:
 - [Berserker Battleaxe](#Berserker%20Battleaxe)
@@ -47,19 +47,19 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Berserker Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Berserker Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 

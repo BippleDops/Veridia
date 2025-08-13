@@ -20,10 +20,10 @@ type: Mechanics
 # Merchant NPC Generator
 *Creating the Commercial Heart of Adventure*
 
-> *"Every merchant has a story, every story has a price, and every price hides a secret worth discovering."* - [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue]]
+> *"Every merchant has a story, every story has a price, and every price hides a secret worth discovering."* - [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
 
 ## Overview
-This comprehensive system generates merchant NPCs for [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], complete with personalities, motivations, business operations, secrets, and adventure hooks. Each merchant becomes a potential ally, enemy, information source, or plot catalyst in the complex web of inter-realm commerce.
+This comprehensive system generates merchant NPCs for [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], complete with personalities, motivations, business operations, secrets, and adventure hooks. Each merchant becomes a potential ally, enemy, information source, or plot catalyst in the complex web of inter-realm commerce.
 
 ## Quick Merchant Generator
 
@@ -40,7 +40,7 @@ This comprehensive system generates merchant NPCs for [[02_Worldbuilding/Places/
 4-6: **Small Business** - Family operation or partnership with 2-5 employees
 7-9: **Medium Enterprise** - Established business with 10-20 employees
 10-11: **Large Corporation** - Major operation with 50+ employees and multiple locations
-12: **Commercial Empire** - Vast network rivaling [[02_Worldbuilding/Groups/Major Trading Companies]]
+12: **Commercial Empire** - Vast network rivaling [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]]
 
 ### Primary Motivation (d10)
 1-2: **Pure Profit** - Maximizing financial gain through any legal means
@@ -166,7 +166,7 @@ This comprehensive system generates merchant NPCs for [[02_Worldbuilding/Places/
 9-12: **Comfortable** - 1,000-5,000 gp assets, good living and expansion potential
 13-16: **Wealthy** - 10,000-50,000 gp assets, significant influence and resources
 17-19: **Rich** - 100,000+ gp assets, major player in regional commerce
-20: **Empire Builder** - Millions in assets, rivals [[02_Worldbuilding/Groups/Major Trading Companies]]
+20: **Empire Builder** - Millions in assets, rivals [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]]
 
 #### Employee and Associates (d12)
 1-3: **Solo Operation** - Works alone, handles all aspects personally
@@ -475,13 +475,13 @@ This comprehensive system generates merchant NPCs for [[02_Worldbuilding/Places/
 - [ ] **Long-term Consequences**: How do merchant interactions affect campaign?
 
 ## Connected Systems and Cross-References
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Major corporate merchants and their operations
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Example of merchant noble with hidden agenda
-- [[02_Worldbuilding/People/The Current Merchants]] - Example of specialized transportation merchant
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]] - Locations where merchant NPCs operate
-- [[02_Worldbuilding/Items/Trade Goods Catalog]] - Products and services merchants provide
-- [[03_Mechanics/Living_Economy_System]] - Economic framework affecting merchant operations
-- [[02_Worldbuilding/Lore/Economic Warfare and Trade Sanctions]] - Conflicts involving merchant NPCs
+- [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Major corporate merchants and their operations
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave|02 Worldbuilding/People/Lord Aurelius Goldwave]] - Example of merchant noble with hidden agenda
+- [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] - Example of specialized transportation merchant
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]] - Locations where merchant NPCs operate
+- [[02_Worldbuilding/Items/Trade Goods Catalog|02 Worldbuilding/Items/Trade Goods Catalog]] - Products and services merchants provide
+- [[03_Mechanics/Living_Economy_System|03 Mechanics/Living Economy System]] - Economic framework affecting merchant operations
+- [[02_Worldbuilding/Lore/Economic Warfare and Trade Sanctions|02 Worldbuilding/Lore/Economic Warfare And Trade Sanctions]] - Conflicts involving merchant NPCs
 
 ## Player-Facing Summary
 

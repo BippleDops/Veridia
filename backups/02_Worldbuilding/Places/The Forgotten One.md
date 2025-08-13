@@ -435,7 +435,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Forgotten One|02 Worldbuilding/Places/The Forgotten One]]
 
 <!-- enriched: true -->
 - [[Angels and Depths]]

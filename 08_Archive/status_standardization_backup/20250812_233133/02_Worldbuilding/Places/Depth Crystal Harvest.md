@@ -138,6 +138,6 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Crystal Harvest]]
+- [[02_Worldbuilding/Places/Depth Crystal Harvest|02 Worldbuilding/Places/Depth Crystal Harvest]]
 
 <!-- enriched: true -->

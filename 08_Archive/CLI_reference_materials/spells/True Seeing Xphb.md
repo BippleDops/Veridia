@@ -34,9 +34,9 @@ world: Both
 - **Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
-For the duration, the willing creature you touch has [Truesight](/03_Mechanics/CLI/senses.md#Truesight) with a range of 120 feet.
+For the duration, the willing creature you touch has [[/03_Mechanics/CLI/senses#Truesight|Truesight]] with a range of 120 feet.
 
-**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Diviner)](/03_Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

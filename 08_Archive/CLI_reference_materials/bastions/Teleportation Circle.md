@@ -25,7 +25,7 @@ world: Both
 - **Hirelings**: 1
 - **Order**: recruit
 
-Inscribed on the floor of this room is a permanent teleportation circle created by the [Teleportation Circle](/03_Mechanics/CLI/spells/teleportation-circle-xphb.md) spell.
+Inscribed on the floor of this room is a permanent teleportation circle created by the [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|Teleportation Circle]] spell.
 
 ## Recruit: Spellcaster
 

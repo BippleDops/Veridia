@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index|02 Worldbuilding/Lore/Location Index]]
 
 
 ## Connections

@@ -15,33 +15,33 @@ world: Both
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
+- [[Master_Campaign_Index|Master Campaign Index]]
 
 
 ## Connections
 
-- [[Complete_Reality_Merger_System]]
-- [[Dynamic_NPC_Personality_Matrix]]
-- [[Economic_Warfare_Simulator]]
-- [[Ecosystem_Simulation_Engine]]
-- [[Mass_Combat_Evolution]]
-- [[Aethermoor_Airships]]
-- [[Aquabyssos_Submarines]]
-- [[Fleet_Dynamics_Generator]]
-- [[Vehicle_Core_Rules]]
-- [[Vehicle_Customization_Progression]]
-- [[New_Encounter_Sheet_Template]]
-- [[New_Journey_Event_Template]]
-- [[D-010_Pirate_Shadow_Net]]
-- [[D-L-01_Leviathan_Waking]]
-- [[X-105_Crown_Council_Summit_Convoy]]
-- [[Depth_Events_Pack_A]]
-- [[Depth_Events_Pack_D]]
-- [[Merger_Events_Pack_D]]
-- [[Sky_Events_Pack_A]]
-- [[Sky_Events_Pack_D]]
-- [[Journey_Event_Permutation_Engine]]
-- [[Campaign_Dashboard]]
+- [[Complete_Reality_Merger_System|Complete Reality Merger System]]
+- [[Dynamic_NPC_Personality_Matrix|Dynamic NPC Personality Matrix]]
+- [[Economic_Warfare_Simulator|Economic Warfare Simulator]]
+- [[Ecosystem_Simulation_Engine|Ecosystem Simulation Engine]]
+- [[Mass_Combat_Evolution|Mass Combat Evolution]]
+- [[Aethermoor_Airships|Aethermoor Airships]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]
+- [[Vehicle_Customization_Progression|Vehicle Customization Progression]]
+- [[New_Encounter_Sheet_Template|New Encounter Sheet Template]]
+- [[New_Journey_Event_Template|New Journey Event Template]]
+- [[D-010_Pirate_Shadow_Net|D 010 Pirate Shadow Net]]
+- [[D-L-01_Leviathan_Waking|D L 01 Leviathan Waking]]
+- [[X-105_Crown_Council_Summit_Convoy|X 105 Crown Council Summit Convoy]]
+- [[Depth_Events_Pack_A|Depth Events Pack A]]
+- [[Depth_Events_Pack_D|Depth Events Pack D]]
+- [[Merger_Events_Pack_D|Merger Events Pack D]]
+- [[Sky_Events_Pack_A|Sky Events Pack A]]
+- [[Sky_Events_Pack_D|Sky Events Pack D]]
+- [[Journey_Event_Permutation_Engine|Journey Event Permutation Engine]]
+- [[Campaign_Dashboard|Campaign Dashboard]]
 
 ## Player-Facing Summary
 

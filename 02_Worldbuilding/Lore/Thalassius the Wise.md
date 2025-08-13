@@ -100,7 +100,7 @@ Thalassius's conversations with Surface scholars established the intellectual fo
 - **[[The Circle of Depths]]**: Group of senior scholars who work with Thalassius on major research projects
 - **[[Ambassador Current]]**: Diplomatic official who regularly consults Thalassius on inter-realm matters
 - **[[Ancient Translator Resonance]]**: Specialist who assists with the most challenging historical texts
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Colleague in [[Aethermoor]] specializing in cross-realm knowledge
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Colleague in [[Aethermoor]] specializing in cross-realm knowledge
 - **[[The Recursion Oracle]]**: Mysterious figure he consults about temporal patterns
 
 ## Current Developments
@@ -142,7 +142,7 @@ His deepest knowledge and hidden secrets prove essential to resolving campaign-e
 
 ### Academic Network and Colleagues
 - [[Archivist Vera Glowmind]] - Library collaborator
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Cross-realm correspondent
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Cross-realm correspondent
 - [[Professor Euclid Mindmaze]] - [[Aethermoor]] research partner
 - [[Student Prime Coral]] - Primary apprentice
 - [[The Circle of Depths]] - Senior scholar group
@@ -212,7 +212,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
 - [[Echo of the Mother]]
 - [[Investigation Procedures]]
 - [[Memory Alteration Consequences]]

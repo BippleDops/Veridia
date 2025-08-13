@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
 
 
 ## Connections

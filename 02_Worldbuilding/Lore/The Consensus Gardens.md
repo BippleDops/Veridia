@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[02_Worldbuilding/Places/Alternative-Path-Fled-City|02 Worldbuilding/Places/Alternative Path Fled City]]
 
 
 ## Connections

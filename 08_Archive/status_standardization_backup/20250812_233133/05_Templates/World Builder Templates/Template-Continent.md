@@ -72,7 +72,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Template_Continent_Placeholder.png]]
+>> ![[Template_Continent_Placeholder.png|Template Continent Placeholder.png]]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind
@@ -115,16 +115,16 @@ setTimeout(() => {
 
 This is the continent description. 
 
-# Region Details
+## Region Details
 
 **Dominant Races:**  
 **Climate:** 
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the region here. 
 
-# Regions
+## Regions
 
 `BUTTON[button_region]` **continent** Places where people live - Cities, Towns, Villages, Hamlets, Encampment, Keeps, Fortresses, Strongholds.
 
@@ -135,7 +135,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Capital Cities
+## Capital Cities
 
 `BUTTON[button_group]` Groups of people and power - religious, cults, guilds, military
 
@@ -211,4 +211,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Continent_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Continent_Placeholder.png|02 Worldbuilding/Lore/Template Continent Placeholder.png]]

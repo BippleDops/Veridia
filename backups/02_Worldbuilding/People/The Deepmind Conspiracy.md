@@ -143,6 +143,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
+- [[02_Worldbuilding/People/The Deepmind Conspiracy|02 Worldbuilding/People/The Deepmind Conspiracy]]
 
 <!-- enriched: true -->

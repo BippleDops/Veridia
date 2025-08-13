@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Silent Image](/03_Mechanics/CLI/spells/silent-image-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/silent-image-xphb "XPHB"|Silent Image]]
 
 ## Player-Facing Summary
 

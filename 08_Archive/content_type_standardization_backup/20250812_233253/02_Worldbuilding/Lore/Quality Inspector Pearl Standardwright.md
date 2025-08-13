@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]]
 
 
 ## Connections

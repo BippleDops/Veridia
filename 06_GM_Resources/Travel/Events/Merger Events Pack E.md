@@ -19,7 +19,7 @@ world: Both
 
 # Merger Events Pack E — Legendary Tier (12)
 
-### M-L-01: The Great Convergence
+## M-L-01: The Great Convergence
 - Stakes: Worlds unify or shatter.
 - Checks: Anchorite DC 18; Command DC 18; Sanity DC 18.
 - Outcomes: Success: Stable union (campaign reframe). Partial: Fragmented union (new map). Fail: Catastrophic split (survival arc).

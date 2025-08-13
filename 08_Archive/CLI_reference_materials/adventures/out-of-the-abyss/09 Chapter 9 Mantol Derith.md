@@ -25,7 +25,7 @@ The Zhentarim took over the holdings where surface dwellers conducted business a
 
 Upon arrival, however, the characters discover there is no safe haven anywhere in the Underdark with the demon lords running rampant. The safety of Mantol-Derith has been shattered by the demon lord Fraz-Urb'luu, who has turned the trading outpost's various factions against one another.
 
-The characters must navigate and overcome the madness dominating Mantol-Derith in order to find their Zhentarim contact, [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md). He has the means for them to reach the stone giant library of Gravenhollow (see chapter 11), whose vast lore might provide some clue as to what has brought the demon lords to the Underdark.
+The characters must navigate and overcome the madness dominating Mantol-Derith in order to find their Zhentarim contact, [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]]. He has the means for them to reach the stone giant library of Gravenhollow (see chapter 11), whose vast lore might provide some clue as to what has brought the demon lords to the Underdark.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/070-ooa09-01.webp#center)
 
@@ -33,11 +33,11 @@ The characters must navigate and overcome the madness dominating Mantol-Derith i
 
 Having previously been imprisoned for many mortal lifetimes on the Material Plane, Fraz-Urb'luu had taken steps to bind himself to his layer of the Abyss. As soon as he felt the tug of Gromph's spell, Fraz-Urb'luu transferred his evil life force to a specially crafted, magically protected receptacle—a black jewel. However, the spell proved irresistible, and the precious receptacle was cast into the Underdark. As a further indignity, Fraz-Urb'luu found himself trapped within the gem, unable to escape while on the Material Plane.
 
-Anyone who touches the gem risks falling prey to delusional madness. A duergar ale merchant named Krimgol Muzgardt found the gem and took it to Mantol-Derith. By the time he arrived, Krimgol had succumbed to the delusion that he was a *calassabrak*—a duergar without honor. He paid Yantha Coaxrock, an honest svirfneblin mage, to appraise the jewel, hoping that he could use it to buy back the goodwill of his clan. Touched by the gem's madness, Yantha lied to Krimgol and told him the gem was worthless. She offered a lump of gold in exchange, whereupon Krimgol suspected treachery and demanded the gem's immediate return. While Krimgol and Yantha argued, one of Yantha's apprentices tried to hide the gem for his mistress but succumbed to its evil power. The apprentice, Flink, took the gem to the drow enclave, hoping to trade it for some rare spell components that he imagined Yantha needing to make Krimgol go away. A gargoyle assigned to watch for thieves spotted the gem and wrested it from Flink, who hid for fear of incurring Yantha's wrath. Soon thereafter, the delusional gargoyle laid eyes on a drow assassin named [Kinyel Druu'giir](/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota.md) and was instantly smitten by her. The gargoyle gave her the black gem as a token of its devotion, which she, in her madness, mistook as a payment from the drow enclave to assassinate [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md), a maimed beholder allied with the Zhentarim.
+Anyone who touches the gem risks falling prey to delusional madness. A duergar ale merchant named Krimgol Muzgardt found the gem and took it to Mantol-Derith. By the time he arrived, Krimgol had succumbed to the delusion that he was a *calassabrak*—a duergar without honor. He paid Yantha Coaxrock, an honest svirfneblin mage, to appraise the jewel, hoping that he could use it to buy back the goodwill of his clan. Touched by the gem's madness, Yantha lied to Krimgol and told him the gem was worthless. She offered a lump of gold in exchange, whereupon Krimgol suspected treachery and demanded the gem's immediate return. While Krimgol and Yantha argued, one of Yantha's apprentices tried to hide the gem for his mistress but succumbed to its evil power. The apprentice, Flink, took the gem to the drow enclave, hoping to trade it for some rare spell components that he imagined Yantha needing to make Krimgol go away. A gargoyle assigned to watch for thieves spotted the gem and wrested it from Flink, who hid for fear of incurring Yantha's wrath. Soon thereafter, the delusional gargoyle laid eyes on a drow assassin named [[/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota|Kinyel Druu'giir]] and was instantly smitten by her. The gargoyle gave her the black gem as a token of its devotion, which she, in her madness, mistook as a payment from the drow enclave to assassinate [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]], a maimed beholder allied with the Zhentarim.
 
 Yantha's theft of the gem led Krimgol to leave and return with duergar reinforcements. They attacked the svirfneblin enclave and captured Yantha, triggering open conflict between the two enclaves. With the fragile truce in Mantol-Derith finally broken, the drow are preparing to take out the weakened duergar and svirfneblin forces. Meanwhile, Druu'giir has infiltrated a drow delegation sent to meet with representatives of the Zhentarim enclave to discuss how best to divvy up Mantol-Derith between them.
 
-Finding and destroying the gem prevents others from falling prey to Fraz-Urb'luu's madness. While imprisoned inside the gem, [Fraz-Urb'luu](/03_Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm.md) retains his alignment and senses (see appendix D), but loses all of his other attributes and can't take actions. The gem is as big as a human fist and has AC 10, 1 hit point, immunity to poison and psychic damage, and immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons. It is also immune to any spell effect that requires a saving throw. While inside the gem, the demon lord can't be attacked, harmed, coerced, or heard. He can be contacted via telepathy, however. Shattering the gem releases Fraz-Urb'luu's life force, which instantly returns to the demon lord's body in the Abyss.
+Finding and destroying the gem prevents others from falling prey to Fraz-Urb'luu's madness. While imprisoned inside the gem, [[/03_Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm|Fraz-Urb'luu]] retains his alignment and senses (see appendix D), but loses all of his other attributes and can't take actions. The gem is as big as a human fist and has AC 10, 1 hit point, immunity to poison and psychic damage, and immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons. It is also immune to any spell effect that requires a saving throw. While inside the gem, the demon lord can't be attacked, harmed, coerced, or heard. He can be contacted via telepathy, however. Shattering the gem releases Fraz-Urb'luu's life force, which instantly returns to the demon lord's body in the Abyss.
 
 Any creature that touches the gem must succeed on a DC 23 Charisma saving throw or succumb to a form of indefinite madness, as determined by rolling on the Indefinite Madness of Fraz-Urb'luu table in appendix D. A creature that succeeds on the saving throw is immune to the madness-inducing effect of the gem for the next 24 hours. The madness lasts until cured.
 
@@ -54,7 +54,7 @@ If the characters destroy Fraz-Urb'luu's gem, award each of them 1,000 XP.
 
 ## Reaching Mantol-Derith
 
-If the characters reached an agreement with Davra Jassur in chapter 8, they can travel to Mantol-Derith along one of the many routes the Zhentarim use to move merchandise to the trade hub from the surface world. The Black Network doesn't reveal the shortest route for security reasons. Instead, its representatives lead the adventurers to a remote cave in the Surbrin Hills, about 180 miles east of Gauntlgrym. Black Network sentries (six human [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) guard the cave, which leads to a series of tunnels. These tunnels descend sharply as they wind their way east for another 200 miles. Check for random encounters as the party's expedition makes its way to Mantol-Derith, using the tables in chapter 2.
+If the characters reached an agreement with Davra Jassur in chapter 8, they can travel to Mantol-Derith along one of the many routes the Zhentarim use to move merchandise to the trade hub from the surface world. The Black Network doesn't reveal the shortest route for security reasons. Instead, its representatives lead the adventurers to a remote cave in the Surbrin Hills, about 180 miles east of Gauntlgrym. Black Network sentries (six human [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]]) guard the cave, which leads to a series of tunnels. These tunnels descend sharply as they wind their way east for another 200 miles. Check for random encounters as the party's expedition makes its way to Mantol-Derith, using the tables in chapter 2.
 
 If the characters are traveling with faction representatives (see chapter 8), these NPCs help the characters overcome random encounters. Whenever a random encounter check yields a "no encounter" result, use that opportunity to roleplay some of these NPCs and develop their personalities as you see fit.
 
@@ -89,7 +89,7 @@ The following NPCs have key roles in this chapter of the adventure.
 |----|----|
 | **Sladis Vadir** | High elf druid of the Emerald Enclave |
 | **Rystia Zav** | Human spy for the Harpers |
-| **Peebles** | Svirfneblin spy working for [Xazax the Eyemonger](/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md) |
+| **Peebles** | Svirfneblin spy working for [[/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota|Xazax the Eyemonger]] |
 | **Zilchyn Q'Leptin** | Drow mage and kleptomaniac |
 | **Yantha Coaxrock** | Svirfneblin mage and leader of the Stoneheart Enclave |
 | **Flink Thunderbonk** | Yantha's svirfneblin apprentice |
@@ -105,12 +105,12 @@ The following NPCs have key roles in this chapter of the adventure.
 The following encounters are keyed to the map of Mantol-Derith.
 
 > [!gallery]
-> ![Map 9.1: Mantol-Derith](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/071-09-01.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/072-mantol-derrith-player-version.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/071-09-01.webp#gallery|Map 9.1: Mantol-Derith]]
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/072-mantol-derrith-player-version.webp#gallery|Player Version]]
 
 ## 1. Secret Entrances
 
-Mantol-Derith is hidden behind 10-foot-square secret doors carved to resemble walls of natural stone. A creature within 5 feet of a secret door can make a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to spot it. Each secret door has an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) spell cast on it. Speaking the proper password within 5 feet of a secret door opens it. Opening a secret door by any means other than the correct password triggers a magical disintegration trap on whichever side the door is opened from. Each creature in the 20-foot-square area directly in front of the secret door must succeed on a DC 15 Dexterity saving throw, taking 55 (`10d10`) force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this trap is disintegrated, leaving only its possessions behind.
+Mantol-Derith is hidden behind 10-foot-square secret doors carved to resemble walls of natural stone. A creature within 5 feet of a secret door can make a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to spot it. Each secret door has an [[/03_Mechanics/CLI/spells/arcane-lock-xphb|arcane lock]] spell cast on it. Speaking the proper password within 5 feet of a secret door opens it. Opening a secret door by any means other than the correct password triggers a magical disintegration trap on whichever side the door is opened from. Each creature in the 20-foot-square area directly in front of the secret door must succeed on a DC 15 Dexterity saving throw, taking 55 (`10d10`) force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this trap is disintegrated, leaving only its possessions behind.
 
 ### 1a. Northwest Entrance
 
@@ -131,15 +131,15 @@ This secret door stands at the back of a naturally formed ledge overlooking the 
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/073-ooa09-03.webp#center)
 
-The figure dipping his feet in the water is [Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md), a high elf druid and member of the Emerald Enclave. Use the [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) statistics in the *Monster Manual* to represent him, with the following modifications:
+The figure dipping his feet in the water is [[/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota|Sladis Vadir]], a high elf druid and member of the Emerald Enclave. Use the [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] statistics in the *Monster Manual* to represent him, with the following modifications:
 
 - Sladis is neutral good.  
-- He has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
+- He has [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 60 feet.  
 - He speaks Common, Elvish, and Undercommon.  
-- His fey ancestry gives him advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put him to sleep.  
-- He can cast the [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip at will and uses it to make his dirt-stained garments look clean.  
+- His fey ancestry gives him advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put him to sleep.  
+- He can cast the [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]] cantrip at will and uses it to make his dirt-stained garments look clean.  
 
-[Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md) has always felt a strange attraction to the Underdark, but the demonic incursion has broken his sanity. He kills and eats other humanoids he encounters or, as he calls it, "culls the herd to maintain the natural order." This is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*).
+[[/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota|Sladis Vadir]] has always felt a strange attraction to the Underdark, but the demonic incursion has broken his sanity. He kills and eats other humanoids he encounters or, as he calls it, "culls the herd to maintain the natural order." This is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*).
 
 Sladis happily accompanies the party and graciously offers his services as a guide. He knows how to get to Neverlight Grove, Blingdenstone, Gracklstugh, and Menzoberranzan, but not Gravenhollow. If the characters invite Sladis to accompany them, he thanks them by offering them some "food" (see "Treasure").
 
@@ -149,7 +149,7 @@ In addition to his quarterstaff and spell components, Sladis carries a blood-cak
 
 #### XP Awards
 
-If the characters cure [Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md)'s madness, award each of them 100 XP. If he is safely returned to Morista Malkin in Gauntlgrym (see chapter 8), award each character 150 XP.
+If the characters cure [[/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota|Sladis Vadir]]'s madness, award each of them 100 XP. If he is safely returned to Morista Malkin in Gauntlgrym (see chapter 8), award each character 150 XP.
 
 ### 1d. South Entrance and Shore
 
@@ -164,11 +164,11 @@ When the characters first gaze upon the shore, read the following boxed text to 
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/074-ooa09-04.webp#center)
 
-The tent belongs to the figure inside it: a female human named [Rystia Zav](/03_Mechanics/CLI/bestiary/npc/rystia-zav-oota.md). Rystia is a chaotic good Harper [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) from Nesmé who descended into the Underdark two years ago to find Mantol-Derith and infiltrate the Zhentarim enclave there. She got lost in the depths and has no idea how close she's come to finding what she's been looking for. She also has no idea how to get to the surface. Fear, loneliness, and the demonic incursion have driven her mad. She now believes that everyone she encounters is out to kill her. This is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*).
+The tent belongs to the figure inside it: a female human named [[/03_Mechanics/CLI/bestiary/npc/rystia-zav-oota|Rystia Zav]]. Rystia is a chaotic good Harper [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]] from Nesmé who descended into the Underdark two years ago to find Mantol-Derith and infiltrate the Zhentarim enclave there. She got lost in the depths and has no idea how close she's come to finding what she's been looking for. She also has no idea how to get to the surface. Fear, loneliness, and the demonic incursion have driven her mad. She now believes that everyone she encounters is out to kill her. This is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*).
 
 #### Traps
 
-Rystia has planted four spring-loaded hunting traps under the pebbles around her tent. A creature within 15 feet of the tent can spot the hidden traps with a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. Any creature that approaches within 10 feet of the tent and is unaware of the traps steps on one (see chapter 5, ""Equipment"," in the *Player's Handbook* for hunting trap rules).
+Rystia has planted four spring-loaded hunting traps under the pebbles around her tent. A creature within 15 feet of the tent can spot the hidden traps with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Any creature that approaches within 10 feet of the tent and is unaware of the traps steps on one (see chapter 5, ""Equipment"," in the *Player's Handbook* for hunting trap rules).
 
 #### Treasure
 
@@ -182,7 +182,7 @@ If the characters cure Rystia's madness, award each of them 100 XP.
 
 The password to open this secret door is "eyebite."
 
-The tunnel leading away from Mantol-Derith winds steadily upward, and branches leading to other areas of the Underdark have been sealed off with [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md) spells, leaving a single navigable passage. This passage is clear of monsters, but the Zhents have installed trip wires and pressure plates at irregular intervals. These are triggering mechanisms for collapsing roofs, poison darts, and rolling spheres (see ""Sample Traps"" in chapter 5 of the *Dungeon Master's Guide*). The passage ends at a dungeon complex under a ruined watchtower overlooking the Surbrin River, north of the Evermoors. The Zhentarim have guards stationed throughout the dungeon to keep surface dwellers from finding their way to Mantol-Derith via this route. If the characters find this secret door and use it to make their way back to the surface world, design and populate the Zhentarim dungeon as you see fit.
+The tunnel leading away from Mantol-Derith winds steadily upward, and branches leading to other areas of the Underdark have been sealed off with [[/03_Mechanics/CLI/spells/wall-of-stone-xphb|wall of stone]] spells, leaving a single navigable passage. This passage is clear of monsters, but the Zhents have installed trip wires and pressure plates at irregular intervals. These are triggering mechanisms for collapsing roofs, poison darts, and rolling spheres (see ""Sample Traps"" in chapter 5 of the *Dungeon Master's Guide*). The passage ends at a dungeon complex under a ruined watchtower overlooking the Surbrin River, north of the Evermoors. The Zhentarim have guards stationed throughout the dungeon to keep surface dwellers from finding their way to Mantol-Derith via this route. If the characters find this secret door and use it to make their way back to the surface world, design and populate the Zhentarim dungeon as you see fit.
 
 ## 2. Trench
 
@@ -190,7 +190,7 @@ This 20-foot-wide, 50-foot-deep trench bisects Mantol-Derith from north to south
 
 The duergar and drow collaborated to replace the crystal lift with a system of four mechanical lifts, two on each side of the shattered platform. These lifts use magic to power their winches and lighten the loads on the lifts. Each lift is designed for easy use and can be operated as an action simply by pulling on a lever.
 
-The trench's walls sport numerous handholds and can be climbed with a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+The trench's walls sport numerous handholds and can be climbed with a successful DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 ## 3. Main Cavern
 
@@ -198,7 +198,7 @@ When the characters exit the trench, they find the normally quiet outpost in cha
 
 > [!readaloud] 
 > 
-> The trench bisects an enormous cavern with a 30-foot-high ceiling supported by naturally formed stone columns. [Continual flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on stone lampposts reflect off crystals embedded in the walls and ceiling, illuminating myriad fountains, waterfalls, streams, and pools. Water drips from stalactites onto leather tarps covering clusters of merchant stalls west and east of the trench. Beyond these marketplaces are well-tended gardens of mold and fungi, crystal walkways, and stone bridges. The tranquil beauty of Mantol-Derith is undone by sounds of combat to the northeast, where you hear the thunderous boom of metal against stone and see panicked svirfneblin running from 8-foot-tall duergar.
+> The trench bisects an enormous cavern with a 30-foot-high ceiling supported by naturally formed stone columns. [[/03_Mechanics/CLI/spells/continual-flame-xphb|Continual flame]] spells cast on stone lampposts reflect off crystals embedded in the walls and ceiling, illuminating myriad fountains, waterfalls, streams, and pools. Water drips from stalactites onto leather tarps covering clusters of merchant stalls west and east of the trench. Beyond these marketplaces are well-tended gardens of mold and fungi, crystal walkways, and stone bridges. The tranquil beauty of Mantol-Derith is undone by sounds of combat to the northeast, where you hear the thunderous boom of metal against stone and see panicked svirfneblin running from 8-foot-tall duergar.
 ^368
 
 The marketplaces of Mantol-Derith have been closed ever since the duergar attacked the svirfneblin. The duergar are killing any svirfneblin they encounter and breaking into the svirfneblin warehouse (see area 6a).
@@ -209,7 +209,7 @@ The drow and Zhentarim markets are clustered here, on the west side of the trenc
 
 ### 3b. East Marketplace
 
-The svirfneblin and duergar markets are clustered on the east side of the trench. Most of their tents and stalls have been knocked over, and various goods (see "Treasure") are strewn upon the cavern floor amid the slaughtered corpses of giant lizards and steeders. Characters approaching the market see two enlarged [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) chasing a pair of [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) who have cast [blur](/03_Mechanics/CLI/spells/blur-xphb.md) spells on themselves. A third unarmed [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) is hiding in plain sight under the wreckage of a zurkhwood stall. He has a pale leather bag tucked under one arm.
+The svirfneblin and duergar markets are clustered on the east side of the trench. Most of their tents and stalls have been knocked over, and various goods (see "Treasure") are strewn upon the cavern floor amid the slaughtered corpses of giant lizards and steeders. Characters approaching the market see two enlarged [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] chasing a pair of [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]] who have cast [[/03_Mechanics/CLI/spells/blur-xphb|blur]] spells on themselves. A third unarmed [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] is hiding in plain sight under the wreckage of a zurkhwood stall. He has a pale leather bag tucked under one arm.
 
 If the characters rescue the blurry svirfneblin, they reveal that more duergar are trying to smash into the svirfneblin warehouse (area 6b), and that Yantha Coaxrock, a svirfneblin mage, has been captured and taken to the duergar warehouse (area 5b). The svirfneblin don't know why the duergar broke the peace in Mantol-Derith. If a duergar is captured and interrogated, he or she reveals that Yantha stole a valuable gemstone from a duergar merchant and refused to return it.
 
@@ -217,11 +217,11 @@ If the characters rescue the blurry svirfneblin, they reveal that more duergar a
 
 #### Peebles
 
-The svirfneblin holding the bag is [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md). He came to Mantol-Derith to investigate rumors of a beholder living here. He claims to be fascinated by aberrations, beholders in particular. He has confirmed that there are no beholders in the duergar or svirfneblin enclaves, but he hasn't yet been able to explore the drow or Zhentarim enclaves.
+The svirfneblin holding the bag is [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]]. He came to Mantol-Derith to investigate rumors of a beholder living here. He claims to be fascinated by aberrations, beholders in particular. He has confirmed that there are no beholders in the duergar or svirfneblin enclaves, but he hasn't yet been able to explore the drow or Zhentarim enclaves.
 
-[Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) is the deranged, neutral evil servant of [Xazax the Eyemonger](/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md), a beholder that hunts other beholders, takes their eyestalks, and grafts them to its own body. [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) is Xazax's private surgeon. Once he has confirmed the presence of a beholder in Mantol-Derith, [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) plans to find his "master" and share the news of his discovery. He suggests that the characters take him to the drow or Zhentarim enclave, under the pretense of having information about the duergar attack. Once he has found [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) the beholder, [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) tries to leave Mantol-Derith at once. If the characters delay his departure, he gets angry at them and claims to be an expert Underdark guide, promising to lead them wherever they wish to go. If they accept his offer, he leads them to [Xazax the Eyemonger](/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md) (see chapter 10 for more information).
+[[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] is the deranged, neutral evil servant of [[/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota|Xazax the Eyemonger]], a beholder that hunts other beholders, takes their eyestalks, and grafts them to its own body. [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] is Xazax's private surgeon. Once he has confirmed the presence of a beholder in Mantol-Derith, [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] plans to find his "master" and share the news of his discovery. He suggests that the characters take him to the drow or Zhentarim enclave, under the pretense of having information about the duergar attack. Once he has found [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] the beholder, [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] tries to leave Mantol-Derith at once. If the characters delay his departure, he gets angry at them and claims to be an expert Underdark guide, promising to lead them wherever they wish to go. If they accept his offer, he leads them to [[/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota|Xazax the Eyemonger]] (see chapter 10 for more information).
 
-[Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md)'s bag is made from stitched quaggoth hide and contains a pair of sharpened flint knives, a spool of thread made from roper gut, a thin iron needle, two pounds of barrelstalk flesh, and a copper canteen containing a half gallon of water.
+[[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]]'s bag is made from stitched quaggoth hide and contains a pair of sharpened flint knives, a spool of thread made from roper gut, a thin iron needle, two pounds of barrelstalk flesh, and a copper canteen containing a half gallon of water.
 
 #### Pool
 
@@ -243,35 +243,35 @@ Sirak Mazelor is the current drow representative. A sophisticated merchant, she 
 
 This is where the drow cultivate edible and poisonous fungi. In the heart of the fungi grove is a stunted zurkhwood mushroom, 20 feet tall, with a thick stalk and a wide cap that forms a dome, keeping the area underneath dry. The dark elves use the mushroom as a pavilion, and this is where Sirak Mazelor conducts business with visiting traders.
 
-Six [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) perch on natural ledges overlooking the fungi grove. They attack any creature unaccompanied by a drow that approaches the stone double doors leading to the drow warehouse (area 4b). Standing in front of the double doors are two female [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) that do the same.
+Six [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] perch on natural ledges overlooking the fungi grove. They attack any creature unaccompanied by a drow that approaches the stone double doors leading to the drow warehouse (area 4b). Standing in front of the double doors are two female [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]] that do the same.
 
 #### Zilchyn Q'Leptin
 
-Sitting on a zurkhwood bench under the giant zurkhwood mushroom is a male [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named [Zilchyn Q'Leptin](/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota.md). Trained as a wizard in Menzoberranzan, "Zilch" was forced to flee the drow city after a rash of spell component thefts was traced back to him. He can't control his kleptomania, which is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*). This madness befell Zilch long before the demon lords arrived, and has only gotten worse since.
+Sitting on a zurkhwood bench under the giant zurkhwood mushroom is a male [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mage]] named [[/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota|Zilchyn Q'Leptin]]. Trained as a wizard in Menzoberranzan, "Zilch" was forced to flee the drow city after a rash of spell component thefts was traced back to him. He can't control his kleptomania, which is considered a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*). This madness befell Zilch long before the demon lords arrived, and has only gotten worse since.
 
 Zilch lost his spellbook during his escape from Menzoberranzan, and an unfortunate encounter with a black pudding left him with acid scars covering the left side of his body, including his face. In addition to his staff, which doubles as a walking stick, the drow carries a purple bag made of kuo-toa skin that contains hand-drawn maps of the Underdark on sheets of trillimac, material components for all of Zilch's prepared spells, and `1d4 + 3` stolen trinkets (roll on the Trinkets table in "chapter 5" of the *Player's Handbook*). Characters can use Zilch's maps to get to Menzoberranzan, Gracklstugh, or the Wormwrithings from Mantol-Derith.
 
 Zilch doesn't know what caused the duergar to attack the svirfneblin, but he knows the drow merchants have withdrawn to the warehouse and that the drow are waiting to see how the violence plays out. If the characters seem approachable, Zilch offers to help them get inside the drow warehouse.
 
-If the characters take a short or long rest and Zilch is with them, he attempts to steal something from one randomly determined party member. Far from being a skilled thief, Zilch must succeed at a Dexterity check contested by the passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores of every character with line of sight to him. If he wins the contest, Zilch hides the stolen item in his bag and feigns innocence if questioned about the item's disappearance.
+If the characters take a short or long rest and Zilch is with them, he attempts to steal something from one randomly determined party member. Far from being a skilled thief, Zilch must succeed at a Dexterity check contested by the passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of every character with line of sight to him. If he wins the contest, Zilch hides the stolen item in his bag and feigns innocence if questioned about the item's disappearance.
 
 #### Flink Thunderbonk
 
-Huddled against a stone column at the edge of the fungi grove is a cowardly [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) named Flink. He suffers from a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*) that makes him want to please his mistress, Yantha Coaxrock, and also causes him to be deathly afraid of her. He uses his Stone Camouflage feature to blend in with the rocky terrain, afraid that the drow and the gargoyles might attack him. If he sees the characters, he runs toward them in a panic, babbling about a stolen gem. A successful DC 15 Charisma ([Intimidation](/03_Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check or [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell allows Flink to speak coherently, whereupon he reveals the following information:
+Huddled against a stone column at the edge of the fungi grove is a cowardly [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] named Flink. He suffers from a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*) that makes him want to please his mistress, Yantha Coaxrock, and also causes him to be deathly afraid of her. He uses his Stone Camouflage feature to blend in with the rocky terrain, afraid that the drow and the gargoyles might attack him. If he sees the characters, he runs toward them in a panic, babbling about a stolen gem. A successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]] or [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check or [[/03_Mechanics/CLI/spells/calm-emotions-xphb|calm emotions]] spell allows Flink to speak coherently, whereupon he reveals the following information:
 
 - A duergar ale merchant named Krimgol Muzgardt asked Flink's mistress, Yantha Coaxrock, to appraise a large black gemstone. For reasons unknown to Flink, Yantha didn't want to give the gemstone back to the duergar and instead offered him a lump of gold in trade. An argument ensued.  
-- Yantha entrusted the gemstone to Flink. He took it to the drow enclave to buy an eyelash encased in gum arabic—the component for an [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) spell, knowing that's what Yantha would want him to do. Before he could complete this task, a gargoyle snatched the gemstone from Flink's grasp. Flink is afraid Yantha will punish him for losing the gemstone.  
+- Yantha entrusted the gemstone to Flink. He took it to the drow enclave to buy an eyelash encased in gum arabic—the component for an [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] spell, knowing that's what Yantha would want him to do. Before he could complete this task, a gargoyle snatched the gemstone from Flink's grasp. Flink is afraid Yantha will punish him for losing the gemstone.  
 - Flink has been spying on the gargoyles to find the one that took his gem, but that gargoyle isn't among the ones currently guarding the drow enclave.  
 
 ### 4b. Drow Warehouse
 
-The drow warehouse is both a fortress and a residence. The stone double doors leading to it have an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) spell cast on them, which only Sirak Mazelor and her elite warrior guards can bypass.
+The drow warehouse is both a fortress and a residence. The stone double doors leading to it have an [[/03_Mechanics/CLI/spells/arcane-lock-xphb|arcane lock]] spell cast on them, which only Sirak Mazelor and her elite warrior guards can bypass.
 
-Characters who gain entry find the warehouse occupied by two female [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), eighteen [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) merchants, nine [quaggoth](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) slaves, and six [giant lizards](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) fitted with saddles (use the giant riding lizard statistics in chapter 8). The 30-foot-high ceiling of the warehouse is hidden with thick webs that conceal a dozen [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) loyal to the drow.
+Characters who gain entry find the warehouse occupied by two female [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]], eighteen [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] merchants, nine [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|quaggoth]] slaves, and six [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] fitted with saddles (use the giant riding lizard statistics in chapter 8). The 30-foot-high ceiling of the warehouse is hidden with thick webs that conceal a dozen [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] loyal to the drow.
 
 The warehouse's denizens attack the party unless the characters are accompanied by a drow. The merchants have been instructed to remain in the warehouse until Sirak Mazelor returns. The drow chief negotiator and her entourage have gone to the Zhentarim enclave (area 7) to meet with representatives of the Black Network, in the hopes of forging an alliance against the unruly duergar and svirfneblin enclaves.
 
-The drow sleep in cots arranged in neat rows, while the merchants store their valuable wares in three stone buildings. The door to each building is protected by a [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) (save DC 14) that triggers an explosive runes effect (`5d8` thunder damage) when a creature other than a drow opens it.
+The drow sleep in cots arranged in neat rows, while the merchants store their valuable wares in three stone buildings. The door to each building is protected by a [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]] (save DC 14) that triggers an explosive runes effect (`5d8` thunder damage) when a creature other than a drow opens it.
 
 #### Treasure
 
@@ -285,35 +285,35 @@ The gray dwarves trade mostly in armor and weapons of superior craftsmanship, bu
 
 An iron-wrought fence encloses this fungal grove, through which the duergar have carved narrow aisles. The grove contains a host of edible fungi and is illuminated by six nightlight mushrooms (see "Fungi of the Underdark" in chapter 2). A tunnel in the south wall leads to a set of double stone doors.
 
-Guarding the fungi grove are four [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) that attack intruders on sight. Four more [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) stand in front of the double doors and attack any non-duergar that come into view.
+Guarding the fungi grove are four [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] that attack intruders on sight. Four more [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] stand in front of the double doors and attack any non-duergar that come into view.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/077-ooa09-07.webp#center)
 
 ### 5b. Duergar Warehouse
 
-The stone double doors to the warehouse are unlocked and open to reveal a 40-foot-high, rough-hewn chamber containing thirty [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) merchants and twelve [male steeders](/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm.md) (see appendix C) used as pack animals. These duergar aren't spoiling for a fight and parley with intruders, sharing the following information:
+The stone double doors to the warehouse are unlocked and open to reveal a 40-foot-high, rough-hewn chamber containing thirty [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] merchants and twelve [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|male steeders]] (see appendix C) used as pack animals. These duergar aren't spoiling for a fight and parley with intruders, sharing the following information:
 
 - A svirfneblin mage stole a gemstone from a duergar ale merchant named Krimgol Muzgardt. Krimgol is a good friend of Mantol-Derith's duergar chief negotiator, Ghuldur Flagonfist.  
-- When the svirfneblin mage refused to return the stolen gem, Flagonfist sent [invisible](/03_Mechanics/CLI/conditions.md#Invisible) duergar to the svirfneblin enclave to capture her and bring her to him for questioning.  
+- When the svirfneblin mage refused to return the stolen gem, Flagonfist sent [[/03_Mechanics/CLI/conditions#Invisible|invisible]] duergar to the svirfneblin enclave to capture her and bring her to him for questioning.  
 - Other svirfneblin tried to free the mage, leading to the first of several armed confrontations. Flagonfist has since sent his duergar guards to storm the neighboring enclave and wipe out the deep gnomes.  
 
-A 20-foot-high stone building stands in the northeast corner of the warehouse. Inside this unlocked building, Ghuldur Flagonfist and Krimgol Muzgardt (a pair of male [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) are interrogating Yantha Coaxrock, an unarmed female monster deep gnome suffering from a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*) that makes her tell lies, even at the risk of harming herself and others. The duergar have dressed her in a robe sewn with gemstones (see "Treasure" below) and suspended her above the mouth of Ghuldur's "pet"—a hungry [xorn](/03_Mechanics/CLI/bestiary/elemental/xorn-xmm.md). Ghuldur grasps the rope from which she hangs and is threatening to feed her to the xorn unless she divulges the location of the gem she stole from Krimgol.
+A 20-foot-high stone building stands in the northeast corner of the warehouse. Inside this unlocked building, Ghuldur Flagonfist and Krimgol Muzgardt (a pair of male [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]]) are interrogating Yantha Coaxrock, an unarmed female monster deep gnome suffering from a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*) that makes her tell lies, even at the risk of harming herself and others. The duergar have dressed her in a robe sewn with gemstones (see "Treasure" below) and suspended her above the mouth of Ghuldur's "pet"—a hungry [[/03_Mechanics/CLI/bestiary/elemental/xorn-xmm|xorn]]. Ghuldur grasps the rope from which she hangs and is threatening to feed her to the xorn unless she divulges the location of the gem she stole from Krimgol.
 
 #### Yantha Coaxrock
 
-Yantha is the leader of the Stoneheart Enclave based in Blingdenstone (see chapter 6). She is bound with rope and spinning an elaborate lie about how the drow must've [charmed](/03_Mechanics/CLI/conditions.md#Charmed) her and taken Krimgol's gem. She has an Intelligence of 16 (+3) and the following additional feature:
+Yantha is the leader of the Stoneheart Enclave based in Blingdenstone (see chapter 6). She is bound with rope and spinning an elaborate lie about how the drow must've [[/03_Mechanics/CLI/conditions#Charmed|charmed]] her and taken Krimgol's gem. She has an Intelligence of 16 (+3) and the following additional feature:
 
 > [!note] 
 > 
 > **Spellcasting.** Yantha is a 5th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13). She has the following wizard spells prepared:
 > 
-> Cantrips (at will): [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md), [friends](/03_Mechanics/CLI/spells/friends-xphb.md), [mending](/03_Mechanics/CLI/spells/mending-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)
+> Cantrips (at will): [[/03_Mechanics/CLI/spells/dancing-lights-xphb|dancing lights]], [[/03_Mechanics/CLI/spells/friends-xphb|friends]], [[/03_Mechanics/CLI/spells/mending-xphb|mending]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]
 > 
-> 1st level (4 slots): [comprehend languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Tenser's floating disk](/03_Mechanics/CLI/spells/tensers-floating-disk-xphb.md)
+> 1st level (4 slots): [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]], [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/tensers-floating-disk-xphb|Tenser's floating disk]]
 > 
-> 2nd level (3 slots): [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md), [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md)
+> 2nd level (3 slots): [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]], [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]]
 > 
-> 3rd level (2 slots): [sending](/03_Mechanics/CLI/spells/sending-xphb.md)
+> 3rd level (2 slots): [[/03_Mechanics/CLI/spells/sending-xphb|sending]]
 ^378
 
 #### Treasure
@@ -332,13 +332,13 @@ The storage building contains `1d10 × 10` pounds of food, `1d10 × 5` gallons o
 - `d6` suits of splint mail  
 - `d6` suits of plate mail  
 
-An iron safe stands in a corner of the storage building. The safe weighs 1,000 pounds, is locked, and contains `d4` magic items (determined by rolling on Magic Item Table B in "chapter 7" of the *Dungeon Master's Guide*). Ghuldur knows the combination to unlock the safe, which otherwise requires a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or similar magic to open.
+An iron safe stands in a corner of the storage building. The safe weighs 1,000 pounds, is locked, and contains `d4` magic items (determined by rolling on Magic Item Table B in "chapter 7" of the *Dungeon Master's Guide*). Ghuldur knows the combination to unlock the safe, which otherwise requires a [[/03_Mechanics/CLI/spells/knock-xphb|knock]] spell or similar magic to open.
 
 Yantha's gem-studded robe is worth 750 gp.
 
 #### Development
 
-If the characters cure Yantha's madness, she confesses to giving Krimgol's black gem to her apprentice, Flink Thunderbonk. She doesn't know Flink's current whereabouts but can use a [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell to contact him, whereupon she learns that he's "trapped" in the drow enclave (area 4). She then asks the characters to rescue him.
+If the characters cure Yantha's madness, she confesses to giving Krimgol's black gem to her apprentice, Flink Thunderbonk. She doesn't know Flink's current whereabouts but can use a [[/03_Mechanics/CLI/spells/sending-xphb|sending]] spell to contact him, whereupon she learns that he's "trapped" in the drow enclave (area 4). She then asks the characters to rescue him.
 
 Restoring Yantha's sanity doesn't placate Ghuldur or Krimgol. The characters can only appease Krimgol by finding his gem and returning it to him. If he and his pet xorn are defeated in combat, Ghuldur can be persuaded to call off the duergar attacking the svirfneblin enclave (see area 6a).
 
@@ -354,7 +354,7 @@ The deep gnomes look for any opportunity to corner the market on goods their com
 
 The fungal grove in the deep gnome enclave has been left to grow wild. Strewn about the grove are the corpses of a dozen dead svirfneblin, all of whom were killed by duergar.
 
-Set into the northeast wall is a set of stone double doors that the svirfneblin have barred from within. Four enlarged [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) are breaking through the doors with war picks, and it's only a matter of time before they reduce the doors to rubble. Eight more [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) stand nearby, ready to storm the svirfneblin warehouse as soon as the doors crumble.
+Set into the northeast wall is a set of stone double doors that the svirfneblin have barred from within. Four enlarged [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] are breaking through the doors with war picks, and it's only a matter of time before they reduce the doors to rubble. Eight more [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] stand nearby, ready to storm the svirfneblin warehouse as soon as the doors crumble.
 
 #### Treasure
 
@@ -371,7 +371,7 @@ In addition to species of edible fungi, the svirfneblin grove contains the follo
 
 ### 6b. Svirfneblin Warehouse
 
-Twenty-two [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), including Gabble Dripskillet, are holed up in this chamber, which is shaped like a cube. The ceiling is 100 feet high, and the walls are lined with niches that serve as residences and storage spaces. Levitating crystal platforms throughout the warehouse allow the deep gnomes to reach these compartments. Each crystal platform can move up, down, or side-to-side on command, but only the deep gnomes know the command words to activate them.
+Twenty-two [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]], including Gabble Dripskillet, are holed up in this chamber, which is shaped like a cube. The ceiling is 100 feet high, and the walls are lined with niches that serve as residences and storage spaces. Levitating crystal platforms throughout the warehouse allow the deep gnomes to reach these compartments. Each crystal platform can move up, down, or side-to-side on command, but only the deep gnomes know the command words to activate them.
 
 Most of the svirfneblin have retreated to their residential niches. Gabble Dripskillet is the only one at floor level, and she's prepared to negotiate with whoever or whatever breaks through the doors. If the characters deal with the duergar, Gabble is grateful and offers them a reward (see "Treasure" below).
 
@@ -381,43 +381,43 @@ Gabble doesn't know what provoked the duergar into attacking her enclave, but sh
 
 Stored throughout the warehouse are sixty 10-pound sacks of salt worth 5 gp each, thirty sacks of precious minerals worth 25 gp each, twenty-four quartz gemstones worth 50 gp each, a dozen amethysts worth 100 gp each, and six peridots worth 500 gp each.
 
-Half way up the southeast wall is a hidden compartment. Finding it requires a successful DC 19 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. The compartment contains `d4` magic items (determined by rolling on Magic Item Table C in "chapter 7" of the *Dungeon Master's Guide*).
+Half way up the southeast wall is a hidden compartment. Finding it requires a successful DC 19 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The compartment contains `d4` magic items (determined by rolling on Magic Item Table C in "chapter 7" of the *Dungeon Master's Guide*).
 
 Gabble keeps a crystal coffer in her niche. The coffer is worth 100 gp, and it contains a black sapphire pendant on a silver chain worth 5,000 gp. She offers the pendant as a reward to the party for saving her enclave.
 
 ## 7. Zhentarim Enclave
 
-The Zhentarim found great profits in Mantol-Derith by bringing in products impossible to obtain in the Underdark. Items as innocuous as sugar and fresh spices are treasures in high demand here. The surface dwellers trade mostly in raw materials, including wood, fine fabrics, and leathers, but also maintain stocks of perfumes, alcoholic beverages, confectionery, paper, and clothing made by surface artisans with surface materials. The human [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md) leads the Zhentarim enclave in Mantol-Derith and also holds the key to finding the library of Gravenhollow.
+The Zhentarim found great profits in Mantol-Derith by bringing in products impossible to obtain in the Underdark. Items as innocuous as sugar and fresh spices are treasures in high demand here. The surface dwellers trade mostly in raw materials, including wood, fine fabrics, and leathers, but also maintain stocks of perfumes, alcoholic beverages, confectionery, paper, and clothing made by surface artisans with surface materials. The human [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] leads the Zhentarim enclave in Mantol-Derith and also holds the key to finding the library of Gravenhollow.
 
 ### 7a. Zhentarim Encampment
 
-Zhentarim traders cut down most of the fungi grove outside the entrance of their warehouse, keeping only a few small gardens for decoration. In its place they erected a huge pavilion and several smaller tents. Water dripping from the ceiling runs off the tents to form puddles everywhere. The pavilion is where [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md) conducts business, while the smaller tents are set aside for fifteen Black Network merchants (all human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)).
+Zhentarim traders cut down most of the fungi grove outside the entrance of their warehouse, keeping only a few small gardens for decoration. In its place they erected a huge pavilion and several smaller tents. Water dripping from the ceiling runs off the tents to form puddles everywhere. The pavilion is where [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] conducts business, while the smaller tents are set aside for fifteen Black Network merchants (all human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]).
 
-Perched on a ledge overlooking the pavilion is a [gargoyle](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) touched by the madness of Fraz-Urb'luu's gem. Characters with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 13 or higher spot the creature. It's waiting for [Kinyel Druu'giir](/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota.md), its "true love," to emerge from the pavilion.
+Perched on a ledge overlooking the pavilion is a [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyle]] touched by the madness of Fraz-Urb'luu's gem. Characters with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 13 or higher spot the creature. It's waiting for [[/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota|Kinyel Druu'giir]], its "true love," to emerge from the pavilion.
 
-Inside the pavilion are four drow: Sirak Mazelor (a female [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) and the chief negotiator of the drow enclave), two female [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), and a female drow [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) posing as another elite warrior. The assassin, [Kinyel Druu'giir](/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota.md), has Fraz-Urb'luu's gem on her person. She also has the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a drow elite warrior. These drow await the arrival of the Zhentarim's chief negotiator, [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md). A table covered with food and wine stands in the middle of the pavilion, although the drow refuse to partake.
+Inside the pavilion are four drow: Sirak Mazelor (a female [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mage]] and the chief negotiator of the drow enclave), two female [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]], and a female drow [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassin]] posing as another elite warrior. The assassin, [[/03_Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota|Kinyel Druu'giir]], has Fraz-Urb'luu's gem on her person. She also has the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a drow elite warrior. These drow await the arrival of the Zhentarim's chief negotiator, [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]]. A table covered with food and wine stands in the middle of the pavilion, although the drow refuse to partake.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/078-ooa09-08.webp#center)
 
 #### Development
 
-If the characters keep their distance and spy on the Zhentarim enclave for a few minutes, [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md), [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md), and six human [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) emerge from the nearby warehouse (area 7b) to meet with the drow delegation. Before Sirak can negotiate an alliance, Kinyel attacks the beholder. Unless the characters intervene, Kinyel escapes with 19 hit points remaining. Everyone else is killed in the crossfire.
+If the characters keep their distance and spy on the Zhentarim enclave for a few minutes, [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]], [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]], and six human [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thugs]] emerge from the nearby warehouse (area 7b) to meet with the drow delegation. Before Sirak can negotiate an alliance, Kinyel attacks the beholder. Unless the characters intervene, Kinyel escapes with 19 hit points remaining. Everyone else is killed in the crossfire.
 
-If the characters confront the drow before Ghazrim and [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) arrive, Sirak orders them to leave at once. If they refuse, she and her warriors attack as Kinyel cuts a [gash](/03_Mechanics/CLI/bestiary/npc/gash-oota.md) in the back wall of the pavilion with her sword and finds a place to hide until the beholder appears. If the characters pursue Kinyel, the gargoyle attacks them to protect her. Ghazrim and his entourage arrive `1d4 + 2` rounds after the battle is joined.
+If the characters confront the drow before Ghazrim and [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] arrive, Sirak orders them to leave at once. If they refuse, she and her warriors attack as Kinyel cuts a [[/03_Mechanics/CLI/bestiary/npc/gash-oota|gash]] in the back wall of the pavilion with her sword and finds a place to hide until the beholder appears. If the characters pursue Kinyel, the gargoyle attacks them to protect her. Ghazrim and his entourage arrive `1d4 + 2` rounds after the battle is joined.
 
-Kinyel was forced to leave Menzoberranzan in disgrace after failing to assassinate a house rival. Fraz-Urb'luu's gem has afflicted her with a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*). She is convinced that the gargoyle who gave her the gem is a messenger from House Druu'giir, and that killing [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) will redeem her.
+Kinyel was forced to leave Menzoberranzan in disgrace after failing to assassinate a house rival. Fraz-Urb'luu's gem has afflicted her with a form of indefinite madness (see ""Madness"" in chapter 8 of the *Dungeon Master's Guide*). She is convinced that the gargoyle who gave her the gem is a messenger from House Druu'giir, and that killing [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] will redeem her.
 
 ### 7b. Zhentarim Warehouse
 
-The double doors leading to the Zhentarim warehouse are made of thick zurkhwood reinforced with iron bands. A window slit at eye level allows two human [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) stationed inside the doors to peer out into the cavern. They will not open the doors to strangers without [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md)'s permission. The doors are barred from the inside. They have AC 15, 80 hit points, and a damage threshold of 10. They can also be forced open with a DC 25 Strength check.
+The double doors leading to the Zhentarim warehouse are made of thick zurkhwood reinforced with iron bands. A window slit at eye level allows two human [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] stationed inside the doors to peer out into the cavern. They will not open the doors to strangers without [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]]'s permission. The doors are barred from the inside. They have AC 15, 80 hit points, and a damage threshold of 10. They can also be forced open with a DC 25 Strength check.
 
-The Zhentarim warehouse contains a dozen iron storage sheds filled with neatly sorted merchandise. Two more sheds serve as quarters for [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md) (a human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) and his guards. Ten human [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) (minus any killed in area 7a) are asleep in their bunks but rise quickly if the warehouse comes under attack.
+The Zhentarim warehouse contains a dozen iron storage sheds filled with neatly sorted merchandise. Two more sheds serve as quarters for [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] (a human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]) and his guards. Ten human [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thugs]] (minus any killed in area 7a) are asleep in their bunks but rise quickly if the warehouse comes under attack.
 
-[Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md), a maimed [beholder](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md), also guards the warehouse. Years ago, [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) got into a terrible fight with a behir and lost four of its eyestalks. Its spherical body is also covered with scars from the behir's claws and breath weapon. [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) has the statistics of a normal beholder, except that it no longer has its sleep, petrification, disintegration, or death rays. The beholder's adjusted challenge rating is 9 (5,000 XP).
+[[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]], a maimed [[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm|beholder]], also guards the warehouse. Years ago, [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] got into a terrible fight with a behir and lost four of its eyestalks. Its spherical body is also covered with scars from the behir's claws and breath weapon. [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] has the statistics of a normal beholder, except that it no longer has its sleep, petrification, disintegration, or death rays. The beholder's adjusted challenge rating is 9 (5,000 XP).
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/079-ooa09-09.webp#center)
 
-Ghazrim and [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) both serve the Zhentarim, but they rarely see eye to eye. They bicker and insult each other like an old married couple, and only their dedication to the Black Network keeps them from turning against one another.
+Ghazrim and [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] both serve the Zhentarim, but they rarely see eye to eye. They bicker and insult each other like an old married couple, and only their dedication to the Black Network keeps them from turning against one another.
 
 Born into a wealthy family, Ghazrim has the typically smarmy demeanor of the Amnian aristocracy coupled with a biting sense of humor that he uses to diffuse tense situations. He's not afraid of a good fight but is averse to attacking a superior force. If he realizes the characters are in league with the Black Network, he offers them food, wine, and whatever else they need to complete their mission (see "Treasure").
 
@@ -443,7 +443,7 @@ The contents of the twelve storage sheds are described below:
 > - **Shed 6** holds `2d10` empty wooden chests with iron fittings and `2d10` locks with keys.  
 > - **Shed 7** contains `2d6` jars of ink, `3d12` blank pieces of parchment, `3d6` boxes of candles (12 candles per box), and `2d6` ink pens.  
 > - **Shed 8** holds `3d6` crowbars, `3d6` hammers, and `3d6` miner's picks.  
-> - **Shed 9** is locked, and [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md) carries the only key. The lock is also trapped with a poison needle (see ""Sample Traps"" in chapter 5 of the *Dungeon Master's Guide*). The shed contains 250 pp, 1,800 gp, 3,300 sp, 6,000 cp, and thirty 100 gp gems in a loose pile.  
+> - **Shed 9** is locked, and [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] carries the only key. The lock is also trapped with a poison needle (see ""Sample Traps"" in chapter 5 of the *Dungeon Master's Guide*). The shed contains 250 pp, 1,800 gp, 3,300 sp, 6,000 cp, and thirty 100 gp gems in a loose pile.  
 > - **Shed 10** contains `3d6` jars of spices worth 10 gp each, `2d6` 10-pound sacks of cinnamon worth 20 gp each, and `3d6` boxes of soap (12 bars of soap per box).  
 > - **Shed 11** holds four wooden chicken coops, each one containing `1d6 + 1` live chickens. Sacks of chicken feed are stored on a shelf above the coops.  
 > - **Shed 12** is currently empty.  
@@ -451,49 +451,49 @@ The contents of the twelve storage sheds are described below:
 
 #### Treasure
 
-Ghazrim carries a key that unlocks shed 9. He also wears a gold ring fitted with a star ruby (worth 1,000 gp). A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow. Ghazrim is aware of the ring's property and gives the ring to the characters if they claim to be headed that way.
+Ghazrim carries a key that unlocks shed 9. He also wears a gold ring fitted with a star ruby (worth 1,000 gp). A [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow. Ghazrim is aware of the ring's property and gives the ring to the characters if they claim to be headed that way.
 
 ## Leaving Mantol-Derith
 
-If [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md) dies, characters can remove the ring from his dead hand and use it to find their way to Gravenhollow.
+If [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] dies, characters can remove the ring from his dead hand and use it to find their way to Gravenhollow.
 
 If the characters deduce that Kinyel's gem is responsible for the havoc in Mantol-Derith and inform the chief negotiators of this fact, the ones who are still alive are thankful enough to share disturbing news from their home settlements of Blingdenstone, Gracklstugh, and Menzoberranzan, respectively (see chapter 10, "Descent into the Depths").
 
 > [!note] Beholder Eyestalks
 > 
-> If [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md) is killed, `d4` of its eyestalks survive intact. Should [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) the svirfneblin happen upon the beholder's remains, he uses a flint knife to remove the intact eyestalks, then tucks them in his bag for safe delivery to Xazaz the Eyemonger (see "Follow-Up Encounters").
+> If [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] is killed, `d4` of its eyestalks survive intact. Should [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] the svirfneblin happen upon the beholder's remains, he uses a flint knife to remove the intact eyestalks, then tucks them in his bag for safe delivery to Xazaz the Eyemonger (see "Follow-Up Encounters").
 ^beholder-eyestalks
 
 ### Follow-Up Encounters
 
-Having [Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md) (see area 1c), [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) (see area 3b), or [Zilchyn Q'Leptin](/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota.md) (area 4a) join the party can lead to special follow-up encounters in the vicinity of Mantol-Derith, as described below.
+Having [[/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota|Sladis Vadir]] (see area 1c), [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] (see area 3b), or [[/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota|Zilchyn Q'Leptin]] (area 4a) join the party can lead to special follow-up encounters in the vicinity of Mantol-Derith, as described below.
 
 #### Cricket Catcher
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/080-ooa09-11.webp#center)
 
-If [Zilchyn Q'Leptin](/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota.md) is with the party as it leaves Mantol-Derith, he insists on visiting a nearby cave to retrieve his secret stash of potions.
+If [[/03_Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota|Zilchyn Q'Leptin]] is with the party as it leaves Mantol-Derith, he insists on visiting a nearby cave to retrieve his secret stash of potions.
 
-Zilch's cave lies one day's travel west of Mantol-Derith, along the same route the characters must travel to reach Gravenhollow. The cave is swarming with bats and infested with dozens of giant albino cave crickets that feed on the bat guano. The crickets are as big as halflings yet harmless. A happy-go-lucky [kuo-toa](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) named [Ougalop](/03_Mechanics/CLI/bestiary/npc/ougalop-oota.md) is also here, trying to catch the giant crickets in a homespun net. When he sees other intruders, [Ougalop](/03_Mechanics/CLI/bestiary/npc/ougalop-oota.md) waves at them and continues with his cricket catching. He poses no threat and has no interest in joining the party. The kuo-toa lives in Sloobludop (see chapter 3) and is blissfully unaware of recent events there.
+Zilch's cave lies one day's travel west of Mantol-Derith, along the same route the characters must travel to reach Gravenhollow. The cave is swarming with bats and infested with dozens of giant albino cave crickets that feed on the bat guano. The crickets are as big as halflings yet harmless. A happy-go-lucky [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm|kuo-toa]] named [[/03_Mechanics/CLI/bestiary/npc/ougalop-oota|Ougalop]] is also here, trying to catch the giant crickets in a homespun net. When he sees other intruders, [[/03_Mechanics/CLI/bestiary/npc/ougalop-oota|Ougalop]] waves at them and continues with his cricket catching. He poses no threat and has no interest in joining the party. The kuo-toa lives in Sloobludop (see chapter 3) and is blissfully unaware of recent events there.
 
 ##### Treasure
 
-On a 30-foot-high shelf overlooking the cave is an old grick nest. Hidden here are three [potions of vitality](/03_Mechanics/CLI/items/potion-of-vitality-xdmg.md). Climbing the wall to reach the shelf requires a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+On a 30-foot-high shelf overlooking the cave is an old grick nest. Hidden here are three [[/03_Mechanics/CLI/items/potion-of-vitality-xdmg|potions of vitality]]. Climbing the wall to reach the shelf requires a successful DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 #### Amarith's Zoo
 
-If [Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md) joined the party and is still around when the characters are ready to leave Mantol-Derith, he offers to guide them to a cavern roughly eight days' travel west of Mantol-Derith, along the same route the characters must travel to reach Gravenhollow. Sladis claims that the cave is home to another member of the Emerald Enclave: a dwarf named [Amarith Coppervein](/03_Mechanics/CLI/bestiary/npc/amarith-coppervein-oota.md). This news will interest characters searching for Amarith on behalf of Morista Malkin (see chapter 8).
+If [[/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota|Sladis Vadir]] joined the party and is still around when the characters are ready to leave Mantol-Derith, he offers to guide them to a cavern roughly eight days' travel west of Mantol-Derith, along the same route the characters must travel to reach Gravenhollow. Sladis claims that the cave is home to another member of the Emerald Enclave: a dwarf named [[/03_Mechanics/CLI/bestiary/npc/amarith-coppervein-oota|Amarith Coppervein]]. This news will interest characters searching for Amarith on behalf of Morista Malkin (see chapter 8).
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/081-ooa09-10.webp#center)
 
-[Amarith Coppervein](/03_Mechanics/CLI/bestiary/npc/amarith-coppervein-oota.md) is a shield dwarf [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) with the following statistical modifications:
+[[/03_Mechanics/CLI/bestiary/npc/amarith-coppervein-oota|Amarith Coppervein]] is a shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] with the following statistical modifications:
 
 - Amarith's alignment is neutral good.  
-- She has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
+- She has [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 60 feet.  
 - Amarith's dwarven resilience gives her advantage on saving throws against poison, and she has resistance against poison damage.  
 - She wields a warhammer instead of a longsword (`1d8 + 3` bludgeoning damage on a hit, or `1d10 + 3` bludgeoning damage if using the weapon with two hands).  
 
-Amarith's cavern contains a dozen stalagmites which have been hollowed out and fitted with iron bars to serve as monster cages. Locked in three of these cages are a [rust monster](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md), a [winged kobold](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md), and a [fire snake](/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md). Amarith charges 3 cp per person to tour her "zoo."
+Amarith's cavern contains a dozen stalagmites which have been hollowed out and fitted with iron bars to serve as monster cages. Locked in three of these cages are a [[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm|rust monster]], a [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobold]], and a [[/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm|fire snake]]. Amarith charges 3 cp per person to tour her "zoo."
 
 If the characters ask Amarith to join them, she gathers up her belongings and does just that, lamenting that "the zoo business is tough!" Her gear includes a backpack, a bedroll, a lantern with no oil, a tinderbox, an iron pot, ten days of rations (edible fungi), a pouch containing 3 cp, a 50-foot coil of hempen rope with a grappling hook tied to one end, a net, a miner's pick, and a 10-foot pole.
 
@@ -501,13 +501,13 @@ If the characters ask Amarith to join them, she gathers up her belongings and do
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/082-ooa09-12.webp#center)
 
-If [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) or the characters harvest [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md)'s eyestalks (see the "Beholder Eyestalks" sidebar), [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) asks to join the party as it leaves Mantol-Derith. After traveling with them for a tenday, [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) urges the characters to deviate from their preferred route, claiming that they're dangerously close to a nest of purple worms. [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) uses this lie to propose an alternate route. If the characters follow this detour, [Peebles](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) leads them to the cavern of [Xazax the Eyemonger](/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md), a terrifying [beholder](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md) that kills others of its kind and grafts their eyestalks to its body. [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) heads to Xazax's cave regardless of whether the characters follow him or not.
+If [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] or the characters harvest [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]]'s eyestalks (see the "Beholder Eyestalks" sidebar), [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] asks to join the party as it leaves Mantol-Derith. After traveling with them for a tenday, [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] urges the characters to deviate from their preferred route, claiming that they're dangerously close to a nest of purple worms. [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] uses this lie to propose an alternate route. If the characters follow this detour, [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|Peebles]] leads them to the cavern of [[/03_Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota|Xazax the Eyemonger]], a terrifying [[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm|beholder]] that kills others of its kind and grafts their eyestalks to its body. [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] heads to Xazax's cave regardless of whether the characters follow him or not.
 
-Xazax's cavern has a 30-foot-high ceiling and is unremarkable save for a 20-foot-wide, 100-foot-deep shaft in the middle of the floor. Upon arriving, [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) calls out, "Master! I've returned!" Moments later, Xazax rises up from the shaft. Xazax has eight extra eyestalks grafted to its body, giving it a total of eighteen, but it can't fire rays from the grafted eyes. If the characters took one or more of [Lorthuun](/03_Mechanics/CLI/bestiary/npc/lorthuun-oota.md)'s eyestalks, [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) demands that the characters surrender them at once. Whether they do or not, Xazax becomes enraged and attacks. Both Xazax and [Peebles](/03_Mechanics/CLI/bestiary/npc/peebles-oota.md) fight to the death.
+Xazax's cavern has a 30-foot-high ceiling and is unremarkable save for a 20-foot-wide, 100-foot-deep shaft in the middle of the floor. Upon arriving, [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] calls out, "Master! I've returned!" Moments later, Xazax rises up from the shaft. Xazax has eight extra eyestalks grafted to its body, giving it a total of eighteen, but it can't fire rays from the grafted eyes. If the characters took one or more of [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]]'s eyestalks, [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] demands that the characters surrender them at once. Whether they do or not, Xazax becomes enraged and attacks. Both Xazax and [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] fight to the death.
 
 ##### Treasure
 
-At the bottom of the beholder's shaft, buried among the shattered remains of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) foes, is a [flame tongue](/03_Mechanics/CLI/items/flame-tongue-xdmg.md) longsword. Scaling the shaft requires a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+At the bottom of the beholder's shaft, buried among the shattered remains of [[/03_Mechanics/CLI/conditions#Petrified|petrified]] foes, is a [[/03_Mechanics/CLI/items/flame-tongue-xdmg|flame tongue]] longsword. Scaling the shaft requires a successful DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 ## Player-Facing Summary
 

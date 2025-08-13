@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-wonder-xmm-sphinx-of-wonder-xmm.svg)
 
-# [Sphinx of Wonder](3-Mechanics\CLI\bestiary\celestial/sphinx-of-wonder-xmm.md)
+# [[3-Mechanics\CLI\bestiary\celestial/sphinx-of-wonder-xmm|Sphinx of Wonder]]
 *Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 A sphinx of wonder is brightly feathered and the size of a lion cub. One comes into being every time a unique idea is conceived on the Material Plane. Each sphinx of wonder is fascinated by a particular type of story or field of study, and it learns all it can about that topic. It bears a unique sigil on its forehead that suggests the type of knowledge that fascinates it. Sometimes, a sphinx of wonder forms a bond with a mortal scholar and aids them in their research.
@@ -76,18 +76,18 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "11"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "necrotic, psychic, radiant"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-  - "desc": "The sphinx has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The sphinx has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

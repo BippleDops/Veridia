@@ -357,7 +357,7 @@ Equipment:
 
 ## Connections
 
-- [[Complete_Pressure_Adaptation_System]]
+- [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
 
 ## Player-Facing Summary
 
@@ -381,7 +381,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/Travel/Pressure_Weather_Events]]
-- [[Aethermoor_Airships]]
-- [[Vehicle_Core_Rules]]
-- [[Pressure_Weather_Events]]
+- [[06_GM_Resources/Travel/Pressure_Weather_Events|06 GM Resources/Travel/Pressure Weather Events]]
+- [[Aethermoor_Airships|Aethermoor Airships]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]
+- [[Pressure_Weather_Events|Pressure Weather Events]]

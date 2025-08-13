@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memorial Mason Kane]]
+- [[02_Worldbuilding/Places/Memorial Mason Kane|02 Worldbuilding/Places/Memorial Mason Kane]]
 
 <!-- enriched: true -->
 

@@ -22,9 +22,9 @@ world: Both
 
 **Prerequisite**: Level 5
 
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) or you dismiss it as a bonus action.
+As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] or you dismiss it as a bonus action.
 
-The aura grants you advantage on Charisma ([Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
+The aura grants you advantage on Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
 Once you use this invocation, you can't use it again until you finish a short or long rest.
 

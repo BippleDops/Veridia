@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Silence-Keeper Mute]]
+- [[02_Worldbuilding/Places/Silence-Keeper Mute|02 Worldbuilding/Places/Silence Keeper Mute]]
 
 <!-- enriched: true -->
 

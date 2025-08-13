@@ -16,7 +16,7 @@ world: Both
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

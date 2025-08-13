@@ -132,18 +132,18 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - [Drow +2 Whip](#Drow%20+2%20Whip)
 - [Drow +2 Yklwa](#Drow%20+2%20Yklwa)
 
-### Drow +2 Antimatter Rifle
+## Drow +2 Antimatter Rifle
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Drow +2 Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/03_Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Burst%20Fire|Burst Fire]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Drow +2 Battleaxe
@@ -151,40 +151,40 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Drow +2 Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 1.0 lbs.
 
 ### Drow +2 Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Drow +2 Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 ### Drow +2 Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
 - **Weight**: 6.0 lbs.
 
 ### Drow +2 Flail
@@ -195,127 +195,127 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 ### Drow +2 Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Drow +2 Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Drow +2 Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Drow +2 Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Drow +2 Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Drow +2 Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Drow +2 Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Drow +2 Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Drow +2 Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Drow +2 Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Drow +2 Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Drow +2 Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Longsword
@@ -323,7 +323,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Mace
@@ -334,7 +334,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 ### Drow +2 Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Drow +2 Morningstar
@@ -346,20 +346,20 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Drow +2 Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Drow +2 Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Quarterstaff
@@ -367,66 +367,66 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Drow +2 Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Drow +2 Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]]
 
 ### Drow +2 Spear
 
@@ -434,7 +434,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Trident
@@ -443,7 +443,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Drow +2 War Pick
@@ -451,7 +451,7 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Drow +2 Warhammer
@@ -459,20 +459,20 @@ You have a +2 bonus to attack and damage rolls made with this weapon. This weapo
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Drow +2 Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 ### Drow +2 Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 

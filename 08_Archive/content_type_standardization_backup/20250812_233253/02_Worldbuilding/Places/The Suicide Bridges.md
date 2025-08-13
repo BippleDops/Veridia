@@ -34,6 +34,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Suicide Bridges]]
+- [[02_Worldbuilding/Places/The Suicide Bridges|02 Worldbuilding/Places/The Suicide Bridges]]
 
 <!-- enriched: true -->

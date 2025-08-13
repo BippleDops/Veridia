@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 
 
 ## Connections

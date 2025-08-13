@@ -36,7 +36,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 The spell's damage increases by `d10` when you reach 5th level (`2d10`), 11th level (`3d10`), and 17th level (`4d10`).
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Xanathar's Guide to Everything p. 163*
 

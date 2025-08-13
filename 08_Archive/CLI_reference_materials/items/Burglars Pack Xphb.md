@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 16 gp
 - **Weight**: 47.5 lbs.
 
-A Burglar's Pack contains the following items: [Backpack](/03_Mechanics/CLI/items/backpack-xphb.md), [Ball Bearings](/03_Mechanics/CLI/items/ball-bearings-xphb.md), [Bell](/03_Mechanics/CLI/items/bell-xphb.md), 10 [Candles](/03_Mechanics/CLI/items/candle-xphb.md), [Crowbar](/03_Mechanics/CLI/items/crowbar-xphb.md), [Hooded Lantern](/03_Mechanics/CLI/items/hooded-lantern-xphb.md), 7 flasks of [Oil](/03_Mechanics/CLI/items/oil-xphb.md), 5 days of [Rations](/03_Mechanics/CLI/items/rations-xphb.md), [Rope](/03_Mechanics/CLI/items/rope-xphb.md), [Tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md), and [Waterskin](/03_Mechanics/CLI/items/waterskin-xphb.md).
+A Burglar's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/ball-bearings-xphb|Ball Bearings]], [[/03_Mechanics/CLI/items/bell-xphb|Bell]], 10 [[/03_Mechanics/CLI/items/candle-xphb|Candles]], [[/03_Mechanics/CLI/items/crowbar-xphb|Crowbar]], [[/03_Mechanics/CLI/items/hooded-lantern-xphb|Hooded Lantern]], 7 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 5 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/rope-xphb|Rope]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]], and [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

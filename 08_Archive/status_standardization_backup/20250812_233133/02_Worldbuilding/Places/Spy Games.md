@@ -183,6 +183,6 @@ Legends speak of Spy Games as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Spy Games]]
+- [[02_Worldbuilding/Places/Spy Games|02 Worldbuilding/Places/Spy Games]]
 
 <!-- enriched: true -->

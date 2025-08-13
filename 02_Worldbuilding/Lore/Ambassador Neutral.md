@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company|02 Worldbuilding/Groups/The Liminal Trading Company]]
 
 
 ## Connections

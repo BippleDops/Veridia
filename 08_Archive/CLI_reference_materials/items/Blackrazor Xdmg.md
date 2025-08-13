@@ -19,32 +19,32 @@ world: Both
 ---
 
 # Blackrazor
-*Weapon ([greatsword](/03_Mechanics/CLI/items/greatsword-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[/03_Mechanics/CLI/items/greatsword-xphb|greatsword]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `d10` Necrotic damage, and the target regains `d10` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If this Necrotic damage reduces you to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), Blackrazor devours your soul (see "Devour Soul" below).
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `d10` Necrotic damage, and the target regains `d10` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If this Necrotic damage reduces you to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], Blackrazor devours your soul (see "Devour Soul" below).
 
-While you hold this weapon, you have [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) and [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) conditions, and you have [Blindsight](/03_Mechanics/CLI/senses.md#Blindsight) with a range of 30 feet.
+While you hold this weapon, you have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] and [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] conditions, and you have [[/03_Mechanics/CLI/senses#Blindsight|Blindsight]] with a range of 30 feet.
 
 ## Devour Soul
 
-Whenever you use Blackrazor to reduce a creature to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell.
+Whenever you use Blackrazor to reduce a creature to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] spell.
 
-When Blackrazor devours a soul that isn't yours, you gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to the slain creature's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum.
+When Blackrazor devours a soul that isn't yours, you gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to the slain creature's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum.
 
 ## Haste
 
-Blackrazor can cast [Haste](/03_Mechanics/CLI/spells/haste-xphb.md) on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
+Blackrazor can cast [[/03_Mechanics/CLI/spells/haste-xphb|Haste]] on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
 
 ## Sentience
 
-Blackrazor is a sentient Chaotic Neutral weapon with an Intelligence of 17, a Wisdom of 10, and a Charisma of 19. It has hearing and [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to 120 feet.
+Blackrazor is a sentient Chaotic Neutral weapon with an Intelligence of 17, a Wisdom of 10, and a Charisma of 19. It has hearing and [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] out to 120 feet.
 
 The weapon speaks Common and can communicate with its wielder telepathically. Its voice is deep and echoing. While you are attuned to it, Blackrazor also understands every language you know.
 

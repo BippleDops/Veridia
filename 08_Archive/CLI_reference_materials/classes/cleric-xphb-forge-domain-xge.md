@@ -19,7 +19,7 @@ world: Both
 ---
 
 # Forge Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[[./cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 18*  
 
 > [!tldr] Class and Feature Progression
@@ -61,7 +61,7 @@ world: Both
 
 ### Forge Domain (Level 3)
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/03_Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/03_Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/03_Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/03_Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/03_Mechanics/CLI/deities/celtic-goibhniu.md).
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[/03_Mechanics/CLI/deities/dragonlance-reorx-phb|Reorx]], [[/03_Mechanics/CLI/deities/eberron-onatar|Onatar]], [[/03_Mechanics/CLI/deities/nonhuman-moradin|Moradin]], [[/03_Mechanics/CLI/deities/greek-hephaestus|Hephaestus]], and [[/03_Mechanics/CLI/deities/celtic-goibhniu|Goibhniu]].
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -69,16 +69,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [identify](/03_Mechanics/CLI/spells/identify-xphb.md), [searing smite](/03_Mechanics/CLI/spells/searing-smite-xphb.md) |
-| 3rd | [heat metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md), [magic weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md) |
-| 5th | [elemental weapon](/03_Mechanics/CLI/spells/elemental-weapon-xphb.md), [protection from energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 7th | [fabricate](/03_Mechanics/CLI/spells/fabricate-xphb.md), [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9th | [animate objects](/03_Mechanics/CLI/spells/animate-objects-xphb.md), [creation](/03_Mechanics/CLI/spells/creation-xphb.md) |
+| 1st | [[/03_Mechanics/CLI/spells/identify-xphb|identify]], [[/03_Mechanics/CLI/spells/searing-smite-xphb|searing smite]] |
+| 3rd | [[/03_Mechanics/CLI/spells/heat-metal-xphb|heat metal]], [[/03_Mechanics/CLI/spells/magic-weapon-xphb|magic weapon]] |
+| 5th | [[/03_Mechanics/CLI/spells/elemental-weapon-xphb|elemental weapon]], [[/03_Mechanics/CLI/spells/protection-from-energy-xphb|protection from energy]] |
+| 7th | [[/03_Mechanics/CLI/spells/fabricate-xphb|fabricate]], [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|wall of fire]] |
+| 9th | [[/03_Mechanics/CLI/spells/animate-objects-xphb|animate objects]], [[/03_Mechanics/CLI/spells/creation-xphb|creation]] |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md).
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[/03_Mechanics/CLI/items/smiths-tools-xphb|smith's tools]].
 
 ### Blessing of the Forge (Level 1)
 

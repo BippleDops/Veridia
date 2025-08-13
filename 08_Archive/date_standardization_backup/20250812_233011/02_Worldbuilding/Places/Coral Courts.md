@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/Lore/Queen Seraphina|02 Worldbuilding/Lore/Queen Seraphina]]
 
 
 ## Connections

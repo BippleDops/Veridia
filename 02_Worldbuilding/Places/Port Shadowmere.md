@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Shadowmere]]
+- [[02_Worldbuilding/Places/Port Shadowmere|02 Worldbuilding/Places/Port Shadowmere]]
 
 <!-- enriched: true -->
 

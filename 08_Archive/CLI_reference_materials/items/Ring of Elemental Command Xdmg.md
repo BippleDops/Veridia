@@ -30,10 +30,10 @@ world: Both
 
 **Items in this group:**
 
-- [Ring of Elemental Command (Air)](/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg.md)
-- [Ring of Elemental Command (Earth)](/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md)
-- [Ring of Elemental Command (Fire)](/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg.md)
-- [Ring of Elemental Command (Water)](/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg.md)
+- [[/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg|Ring of Elemental Command (Air)]]
+- [[/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg|Ring of Elemental Command (Earth)]]
+- [[/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg|Ring of Elemental Command (Fire)]]
+- [[/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg|Ring of Elemental Command (Water)]]
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

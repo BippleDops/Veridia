@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Guidance](/03_Mechanics/CLI/spells/guidance-xphb.md "XPHB") 
-- [Light](/03_Mechanics/CLI/spells/light-xphb.md "XPHB") 
-- [Mending](/03_Mechanics/CLI/spells/mending-xphb.md "XPHB") 
-- [Resistance](/03_Mechanics/CLI/spells/resistance-xphb.md "XPHB") 
-- [Sacred Flame](/03_Mechanics/CLI/spells/sacred-flame-xphb.md "XPHB") 
-- [Spare the Dying](/03_Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB") 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") 
-- [Toll the Dead](/03_Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB") 
-- [Word of Radiance](/03_Mechanics/CLI/spells/word-of-radiance-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]] 
+- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] 
+- [[/03_Mechanics/CLI/spells/mending-xphb "XPHB"|Mending]] 
+- [[/03_Mechanics/CLI/spells/resistance-xphb "XPHB"|Resistance]] 
+- [[/03_Mechanics/CLI/spells/sacred-flame-xphb "XPHB"|Sacred Flame]] 
+- [[/03_Mechanics/CLI/spells/spare-the-dying-xphb "XPHB"|Spare the Dying]] 
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] 
+- [[/03_Mechanics/CLI/spells/toll-the-dead-xphb "XPHB"|Toll the Dead]] 
+- [[/03_Mechanics/CLI/spells/word-of-radiance-xphb "XPHB"|Word of Radiance]]
 
 ## Player-Facing Summary
 

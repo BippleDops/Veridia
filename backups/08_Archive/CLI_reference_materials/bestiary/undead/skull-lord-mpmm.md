@@ -23,7 +23,7 @@ updated: '2025-08-12T23:37:35.632379'
 world: Both
 ---
 
-# [Skull Lord](3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm|Skull Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -37,7 +37,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "subtype": "sorcerer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](/03_Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "3"
@@ -50,21 +50,21 @@ Infighting and treachery brought skull lords into existence. The first of them a
   - !!int "21"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+7"
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+8"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+12"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 22"
 "languages": "all the languages it knew in life"
 "cr": "15"
@@ -72,7 +72,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
   - "desc": "If the skull lord is subjected to an effect that allows it to make a\
       \ Dexterity saving throw to take only half the damage, the skull lord instead\
       \ takes no damage if it succeeds on the saving throw and only half damage if\
-      \ it fails, provided it isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
+      \ it fails, provided it isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
     "name": "Evasion"
   - "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -92,19 +92,19 @@ Infighting and treachery brought skull lords into existence. The first of them a
       \ (5d8 + 5) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The skull, lord casts one of the following spells, using Charisma as\
-      \ the spellcasting ability (spell save DC 18):\n\nAt will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [message](/03_Mechanics/CLI/spells/message-xphb.md)\n\n2/day each: [dimension\
-      \ door](/03_Mechanics/CLI/spells/dimension-door-xphb.md), [fear](/03_Mechanics/CLI/spells/fear-xphb.md)\n\
-      \n1/day each: [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md), [cone\
-      \ of cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md)"
+      \ the spellcasting ability (spell save DC 18):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]],\
+      \ [[/03_Mechanics/CLI/spells/message-xphb|message]]\n\n2/day each: [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension\
+      \ door]], [[/03_Mechanics/CLI/spells/fear-xphb|fear]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/cloudkill-xphb|cloudkill]], [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone\
+      \ of cold]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."
     "name": "Attack"
-  - "desc": "The skull lord moves up to its speed without provoking [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "The skull lord moves up to its speed without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Move"
-  - "desc": "The skull lord summons up to five [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
-      \ or [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) in unoccupied\
+  - "desc": "The skull lord summons up to five [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]]\
+      \ or [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]] in unoccupied\
       \ spaces within 30 feet of it. They remain until destroyed. Undead summoned\
       \ in this way roll initiative, act in the next available turn, and obey the\
       \ skull lord. The skull lord can have no more than five Undead summoned by this\

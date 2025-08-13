@@ -31,7 +31,7 @@ world: Both
 
 
 
-Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the [frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition.
+Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the [[/03_Mechanics/CLI/conditions#Frightened|frightened]] condition.
 
 **Variants**:
 - [Mind Carapace Chain Mail](#Mind%20Carapace%20Chain%20Mail)
@@ -39,7 +39,7 @@ Any nonmagical suit of heavy armor can be turned by mind flayers into mind carap
 - [Mind Carapace Ring Mail](#Mind%20Carapace%20Ring%20Mail)
 - [Mind Carapace Splint Armor](#Mind%20Carapace%20Splint%20Armor)
 
-### Mind Carapace Chain Mail
+## Mind Carapace Chain Mail
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

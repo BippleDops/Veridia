@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 7
 
-You can cast [freedom of movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md) once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can cast [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb|freedom of movement]] once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
 ## Player-Facing Summary
 

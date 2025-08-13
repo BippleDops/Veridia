@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Slow](/03_Mechanics/CLI/spells/slow-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/slow-xphb "XPHB"|Slow]]
 
 ## Player-Facing Summary
 

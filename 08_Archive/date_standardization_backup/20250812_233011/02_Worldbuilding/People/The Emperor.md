@@ -18,7 +18,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Azure Shard]]
+- [[02_Worldbuilding/People/Azure Shard|02 Worldbuilding/People/Azure Shard]]
 
 ## Player-Facing Summary
 

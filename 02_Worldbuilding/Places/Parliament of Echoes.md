@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-continent: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+continent: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 created: 2025-08-07 - Category/Place
 danger_level: High (Political)
 depth: 1,500-2,000 feet
@@ -67,7 +67,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Central podium exists in all timelines
   - Faction seating that shifts with alliances
   - The Speaker's Throne (empty for 200 years)
-- **NPCs**: [[02_Worldbuilding/People/Senator Glaucus]], [[Time-Lost Delegate Chronus]]
+- **NPCs**: [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]], [[Time-Lost Delegate Chronus]]
 
 #### Level 3: The Vote Vaults
 - **Purpose**: Physical storage of all votes ever cast
@@ -107,7 +107,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 #### The Transformed
 - **Belief**: Evolution to aquatic forms is destiny
 - **Seats**: 52
-- **Leader**: [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- **Leader**: [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]]
 - **Goal**: Accelerate adaptation process
 
 #### The Returners
@@ -259,19 +259,19 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 ## 🔗 Connections
 
 ### NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - Current senator
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Observes through eels
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Investigating shadows
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Current senator
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Observes through eels
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Investigating shadows
 - [[Time-Lost Delegate Chronus]] - Temporal guardian
 
 ### Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Parent city
-- [[02_Worldbuilding/Places/The Inverse Palace]] - Emperor's seat
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Memory trade source
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Parent city
+- [[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]] - Emperor's seat
+- [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] - Memory trade source
 - [[Tenebrarum]] - Shadow Parliament origin
 
 ### Campaigns
-- [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
+- [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign|01 Campaigns/Aquabyssos/The Parliament Of Shadows Campaign]]
 - [[Political Intrigue of Meridian]]
 - [[The Seven Shards Mystery]]
 
@@ -328,7 +328,7 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[The Senator's Last Stand]]
 - [[Timeline of the Drowning]]
 - [[United Councils of Both Worlds]]
-- [[Ω_System-CLI-spells-school-divination]]
+- [[Ω_System-CLI-spells-school-divination|Ω System CLI Spells School Divination]]
 - [[Abyssal Cathedral]]
 - [[Tenebrarum]]
 - [[The Cerulean Breath]]
@@ -354,7 +354,7 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[Lord Reginald Seaworthy]]
 - [[Luminous Hollow]]
 - [[Mad Oracle Thessaly]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Mediator Serenity Stillwater]]
 - [[Merchant Prince Akula]]
 - [[Merchant Viktor Geargrind]]
@@ -384,18 +384,18 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[The Shadow Markets]]
 - [[The Shrinking Sanctuary]]
 - [[The Sinking Atoll]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Vault Breach]]
 - [[Void Currents]]
 - [[Vote Vaults]]
 - [[Crystalline Depths]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Quick_Reference_Sheets]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -417,7 +417,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]

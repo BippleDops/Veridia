@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Pressure King]]
+- [[02_Worldbuilding/People/The Pressure King|02 Worldbuilding/People/The Pressure King]]
 
 <!-- enriched: true -->
 

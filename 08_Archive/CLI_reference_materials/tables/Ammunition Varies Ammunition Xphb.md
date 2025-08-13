@@ -23,11 +23,11 @@ world: Both
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [Arrows](/03_Mechanics/CLI/items/arrows-20-xphb.md) | 20 | [Quiver](/03_Mechanics/CLI/items/quiver-xphb.md) | 1 lb. | 1 GP |
-| [Bolts](/03_Mechanics/CLI/items/bolts-20-xphb.md) | 20 | [Case](/03_Mechanics/CLI/items/crossbow-bolt-case-xphb.md) | 1½ lb. | 1 GP |
-| [Bullets, Firearm](/03_Mechanics/CLI/items/firearm-bullets-10-xphb.md) | 10 | [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) | 2 lb. | 3 GP |
-| [Bullets, Sling](/03_Mechanics/CLI/items/sling-bullet-xphb.md) | 20 | [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) | 1½ lb. | 4 CP |
-| [Needles](/03_Mechanics/CLI/items/needles-50-xphb.md) | 50 | [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) | 1 lb. | 1 GP |
+| [[/03_Mechanics/CLI/items/arrows-20-xphb|Arrows]] | 20 | [[/03_Mechanics/CLI/items/quiver-xphb|Quiver]] | 1 lb. | 1 GP |
+| [[/03_Mechanics/CLI/items/bolts-20-xphb|Bolts]] | 20 | [[/03_Mechanics/CLI/items/crossbow-bolt-case-xphb|Case]] | 1½ lb. | 1 GP |
+| [[/03_Mechanics/CLI/items/firearm-bullets-10-xphb|Bullets, Firearm]] | 10 | [[/03_Mechanics/CLI/items/pouch-xphb|Pouch]] | 2 lb. | 3 GP |
+| [[/03_Mechanics/CLI/items/sling-bullet-xphb|Bullets, Sling]] | 20 | [[/03_Mechanics/CLI/items/pouch-xphb|Pouch]] | 1½ lb. | 4 CP |
+| [[/03_Mechanics/CLI/items/needles-50-xphb|Needles]] | 50 | [[/03_Mechanics/CLI/items/pouch-xphb|Pouch]] | 1 lb. | 1 GP |
 ^ammunition
 
 ## Player-Facing Summary

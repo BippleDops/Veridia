@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Depth-Mad Priest, Curator Deep-Voice Thren]]
+- [[02_Worldbuilding/People/The Depth-Mad Priest, Curator Deep-Voice Thren|02 Worldbuilding/People/The Depth Mad Priest, Curator Deep Voice Thren]]
 
 <!-- enriched: true -->
 

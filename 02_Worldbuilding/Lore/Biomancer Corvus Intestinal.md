@@ -367,7 +367,7 @@ Public policy discussions have focused on balancing innovation incentives with p
 
 [[Species Purity Advocate]] - Political activist who opposes biological modification as unnatural interference with normal biological development while organizing resistance to enhancement technology implementation.
 
-[[02_Worldbuilding/Groups/Regulatory Authority Directo]] - Government official responsible for oversight of magical research who has attempted to impose restrictions on Corvus's experimental work while balancing safety concerns with innovation benefits.
+[[02_Worldbuilding/Groups/Regulatory Authority Directo|02 Worldbuilding/Groups/Regulatory Authority Directo]] - Government official responsible for oversight of magical research who has attempted to impose restrictions on Corvus's experimental work while balancing safety concerns with innovation benefits.
 
 [[Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
 
@@ -472,13 +472,13 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 **Species Integration** - Characters facilitate cooperation between different species while utilizing biological modifications that enable perfect cultural and biological compatibility.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary realm where Corvus conducts his research
-- [[02_Worldbuilding/Lore/Institute of Living Sciences]] - Academic institution where Corvus received his training
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon studied in current research
-- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog including biological manipulation spells
-- [[02_Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
-- [[02_Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
-- [[02_Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary realm where Corvus conducts his research
+- [[02_Worldbuilding/Lore/Institute of Living Sciences|02 Worldbuilding/Lore/Institute Of Living Sciences]] - Academic institution where Corvus received his training
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon studied in current research
+- [[02_Worldbuilding/Lore/Spell Lists|02 Worldbuilding/Lore/Spell Lists]] - Catalog including biological manipulation spells
+- [[02_Worldbuilding/Lore/Deep Sea Research Facilities|02 Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
+- [[02_Worldbuilding/People/Professor Depth Biologist|02 Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
+- [[02_Worldbuilding/People/Crystal Corruption Researcher Prime|02 Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
 
 
 ## Connections
@@ -507,4 +507,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Enhancement Ethics Advisor]]
+- [[02_Worldbuilding/Lore/Enhancement Ethics Advisor|02 Worldbuilding/Lore/Enhancement Ethics Advisor]]

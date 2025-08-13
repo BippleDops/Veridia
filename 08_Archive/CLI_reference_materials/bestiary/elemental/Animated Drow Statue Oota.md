@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
 
-# [Animated Drow Statue](3-Mechanics\CLI\bestiary\elemental/animated-drow-statue-oota.md)
+# [[3-Mechanics\CLI\bestiary\elemental/animated-drow-statue-oota|Animated Drow Statue]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -46,19 +46,19 @@ world: Both
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The statue is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).\
-      \ If targeted by [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+  - "desc": "The statue is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
+      \ while in the area of an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]].\
+      \ If targeted by [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
       \ the statue must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
+      \ spell save DC or fall [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the statue remains motionless, it is indistinguishable from a normal\

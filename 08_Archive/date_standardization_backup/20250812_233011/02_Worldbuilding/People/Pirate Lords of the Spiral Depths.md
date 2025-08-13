@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift|02 Worldbuilding/Places/Harbor Master Luna Freedrift]]
 
 
 ## Connections

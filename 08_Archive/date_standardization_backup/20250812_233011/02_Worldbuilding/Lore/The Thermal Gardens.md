@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]]
 
 
 ## Connections

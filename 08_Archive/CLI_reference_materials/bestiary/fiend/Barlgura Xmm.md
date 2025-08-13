@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barlgura-xmm-barlgura-xmm.svg)
 
-# [Barlgura](3-Mechanics\CLI\bestiary\fiend/barlgura-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/barlgura-xmm|Barlgura]]
 *Source: Monster Manual (2024) p. 31*  
 
 ## Barlgura
@@ -64,19 +64,19 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
 "actions":
@@ -86,15 +86,15 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
       \ plus 13 (2d12) Psychic damage."
     "name": "Tormenting Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Thrash"
   - "desc": "The barlgura casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n2/day each: [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md),\
-      \ [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\
-      \n1/day each: [Entangle](/03_Mechanics/CLI/spells/entangle-xphb.md), [Phantasmal\
-      \ Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md) (level 6 version)"
+      \n2/day each: [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise Self]],\
+      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]] (self only)\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]], [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb|Phantasmal\
+      \ Killer]] (level 6 version)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."

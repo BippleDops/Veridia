@@ -30,11 +30,11 @@ world: Aquabyssos
 
 ### Synopsis
 
-The busy port of [[02_Worldbuilding/Places/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
+The busy port of [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
 
 ### Central Mystery
 
-Ships carrying sensitive cargo have been vanishing from Port Meridian's harbor. The disappearances follow a specific pattern - they happen during new moon nights, always involve vessels with valuable or sensitive cargo, and leave no trace. The truth is more complex: a conspiracy exists between corrupt harbor officials, ambitious smugglers, and agents of [[02_Worldbuilding/Groups/The Shadow Conspiracy]] to steal artifacts and resources that could destabilize the delicate balance between the underwater kingdom and surface world.
+Ships carrying sensitive cargo have been vanishing from Port Meridian's harbor. The disappearances follow a specific pattern - they happen during new moon nights, always involve vessels with valuable or sensitive cargo, and leave no trace. The truth is more complex: a conspiracy exists between corrupt harbor officials, ambitious smugglers, and agents of [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] to steal artifacts and resources that could destabilize the delicate balance between the underwater kingdom and surface world.
 
 ### Key Themes
 
@@ -87,8 +87,8 @@ The adventure is designed as a five-session investigation with multiple paths an
 
 ### Allies and Contacts
 
-**[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**
-- Secret leader of the [[02_Worldbuilding/Groups/Free Current]] resistance
+**[[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]]**
+- Secret leader of the [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]] resistance
 - Provides official authority and underground connections
 - Torn between her duties and her conscience
 - Key contact for legitimate investigations
@@ -113,7 +113,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant resources and loyal agents
 - Complex motivations involving family and survival
 
-**[[02_Worldbuilding/People/Captain Marrow Drinker]]** (Recurring Threat)
+**[[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]]** (Recurring Threat)
 - Vampire pirate working with the conspiracy
 - Provides the muscle for major operations
 - Operates from the shadows with supernatural crew
@@ -126,7 +126,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant criminal resources
 
 **Agent Whisper**
-- Mysterious figure connected to [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+- Mysterious figure connected to [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 - Identity unknown until final session
 - Manipulates events from behind scenes
 - Represents larger threats beyond this adventure
@@ -203,7 +203,7 @@ You believe in the possibility of cooperation between the surface world and Aqua
 Before running this adventure, review:
 1. The complete NPCs and Enemies file for all stat blocks and roleplay notes
 2. The Maps and Handouts file for visual aids and location details
-3. The pressure mechanics from [[03_Mechanics/Complete_Pressure_Adaptation_System]]
+3. The pressure mechanics from [[03_Mechanics/Complete_Pressure_Adaptation_System|03 Mechanics/Complete Pressure Adaptation System]]
 4. The political situation in Aquabyssos from the world guide
 
 ### Session Zero Considerations
@@ -301,7 +301,7 @@ Major rewards include:
 - Economic impacts on shipping and trade routes
 
 ### Future Adventure Hooks
-- Investigation into [[02_Worldbuilding/Groups/The Shadow Conspiracy]]'s larger plans
+- Investigation into [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'s larger plans
 - Diplomatic missions to prevent war between realms
 - Exploration of ancient underwater ruins discovered during the investigation
 - Personal vendettas with surviving conspiracy members

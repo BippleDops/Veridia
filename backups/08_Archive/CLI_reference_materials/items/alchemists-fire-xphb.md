@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 50 gp
 - **Weight**: 1.0 lbs.
 
-When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md)) or take `d4` Fire damage and start [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md).
+When you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]]) or take `d4` Fire damage and start [[/03_Mechanics/CLI/traps-hazards/burning-xphb|burning]].
 
 *Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

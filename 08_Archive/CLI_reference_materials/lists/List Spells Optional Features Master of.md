@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Alter Self](/03_Mechanics/CLI/spells/alter-self-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/alter-self-xphb "XPHB"|Alter Self]]
 
 ## Player-Facing Summary
 

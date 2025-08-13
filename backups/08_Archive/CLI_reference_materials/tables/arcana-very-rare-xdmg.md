@@ -25,46 +25,46 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [Amulet of the Planes](/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg.md) |
-| 03–04 | [Bag of Devouring](/03_Mechanics/CLI/items/bag-of-devouring-xdmg.md) |
-| 05–06 | [Carpet of Flying](/03_Mechanics/CLI/items/carpet-of-flying-xdmg.md) |
-| 07–08 | [Cauldron of Rebirth](/03_Mechanics/CLI/items/cauldron-of-rebirth-xdmg.md) |
-| 09–10 | [Cloak of Arachnida](/03_Mechanics/CLI/items/cloak-of-arachnida-xdmg.md) |
-| 11–12 | [Crystal Ball](/03_Mechanics/CLI/items/crystal-ball-xdmg.md) |
-| 13 | [Dancing Sword](/03_Mechanics/CLI/items/dancing-sword-xdmg.md) |
-| 14 | [Efreeti Bottle](/03_Mechanics/CLI/items/efreeti-bottle-xdmg.md) |
-| 15–16 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 4 or 5 spell) |
-| 17–18 | [Figurine of Wondrous Power (obsidian steed)](/03_Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg.md) |
-| 19–20 | [Hat of Many Spells](/03_Mechanics/CLI/items/hat-of-many-spells-xdmg.md) |
-| 21–22 | [Helm of Brilliance](/03_Mechanics/CLI/items/helm-of-brilliance-xdmg.md) |
-| 23–24 | [Horseshoes of a Zephyr](/03_Mechanics/CLI/items/horseshoes-of-a-zephyr-xdmg.md) |
-| 25–26 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([absorption](/03_Mechanics/CLI/items/ioun-stone-absorption-xdmg.md), [fortitude](/03_Mechanics/CLI/items/ioun-stone-fortitude-xdmg.md), [intellect](/03_Mechanics/CLI/items/ioun-stone-intellect-xdmg.md), or [leadership](/03_Mechanics/CLI/items/ioun-stone-leadership-xdmg.md)) |
-| 27–28 | [Manual of Golems](/03_Mechanics/CLI/items/manual-of-golems-xdmg.md) ([clay](/03_Mechanics/CLI/items/manual-of-clay-golems-xdmg.md), [flesh](/03_Mechanics/CLI/items/manual-of-flesh-golems-xdmg.md), [iron](/03_Mechanics/CLI/items/manual-of-iron-golems-xdmg.md), or [stone](/03_Mechanics/CLI/items/manual-of-stone-golems-xdmg.md)) |
-| 29 | [Mirror of Life Trapping](/03_Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md) |
-| 30–31 | [Nolzur's Marvelous Pigments](/03_Mechanics/CLI/items/nolzurs-marvelous-pigments-xdmg.md) |
-| 32–34 | [Oil of Sharpness](/03_Mechanics/CLI/items/oil-of-sharpness-xdmg.md) |
-| 35–38 | [Potion of Flying](/03_Mechanics/CLI/items/potion-of-flying-xdmg.md) |
-| 39–42 | [Potion of Giant Strength (cloud)](/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg.md) |
-| 43–46 | [Potion of Greater Invisibility](/03_Mechanics/CLI/items/potion-of-greater-invisibility-xdmg.md) |
-| 47–49 | [Potion of Longevity](/03_Mechanics/CLI/items/potion-of-longevity-xdmg.md) |
-| 50–53 | [Potion of Speed](/03_Mechanics/CLI/items/potion-of-speed-xdmg.md) |
-| 54–57 | [Potion of Vitality](/03_Mechanics/CLI/items/potion-of-vitality-xdmg.md) |
-| 58–59 | [Ring of Regeneration](/03_Mechanics/CLI/items/ring-of-regeneration-xdmg.md) |
-| 60–61 | [Ring of Shooting Stars](/03_Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) |
-| 62–63 | [Ring of Telekinesis](/03_Mechanics/CLI/items/ring-of-telekinesis-xdmg.md) |
-| 64–65 | [Robe of Scintillating Colors](/03_Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md) |
-| 66–67 | [Robe of Stars](/03_Mechanics/CLI/items/robe-of-stars-xdmg.md) |
-| 68–69 | [Rod of Absorption](/03_Mechanics/CLI/items/rod-of-absorption-xdmg.md) |
-| 70–71 | [Rod of Security](/03_Mechanics/CLI/items/rod-of-security-xdmg.md) |
-| 72–73 | [Rod of the Pact Keeper, +3](/03_Mechanics/CLI/items/3-rod-of-the-pact-keeper-xdmg.md) |
-| 74–85 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 6](/03_Mechanics/CLI/items/spell-scroll-level-6-xdmg.md), [level 7](/03_Mechanics/CLI/items/spell-scroll-level-7-xdmg.md), or [level 8](/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg.md) spell) |
-| 86–87 | [Staff of Fire](/03_Mechanics/CLI/items/staff-of-fire-xdmg.md) |
-| 88–89 | [Staff of Frost](/03_Mechanics/CLI/items/staff-of-frost-xdmg.md) |
-| 90 | [Staff of Power](/03_Mechanics/CLI/items/staff-of-power-xdmg.md) |
-| 91–92 | [Staff of Thunder and Lightning](/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg.md) |
-| 93–94 | [Tome of Clear Thought](/03_Mechanics/CLI/items/tome-of-clear-thought-xdmg.md) |
-| 95–97 | [Wand of Polymorph](/03_Mechanics/CLI/items/wand-of-polymorph-xdmg.md) |
-| 98–00 | [Wand of the War Mage, +3](/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg.md) |
+| 01–02 | [[/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg|Amulet of the Planes]] |
+| 03–04 | [[/03_Mechanics/CLI/items/bag-of-devouring-xdmg|Bag of Devouring]] |
+| 05–06 | [[/03_Mechanics/CLI/items/carpet-of-flying-xdmg|Carpet of Flying]] |
+| 07–08 | [[/03_Mechanics/CLI/items/cauldron-of-rebirth-xdmg|Cauldron of Rebirth]] |
+| 09–10 | [[/03_Mechanics/CLI/items/cloak-of-arachnida-xdmg|Cloak of Arachnida]] |
+| 11–12 | [[/03_Mechanics/CLI/items/crystal-ball-xdmg|Crystal Ball]] |
+| 13 | [[/03_Mechanics/CLI/items/dancing-sword-xdmg|Dancing Sword]] |
+| 14 | [[/03_Mechanics/CLI/items/efreeti-bottle-xdmg|Efreeti Bottle]] |
+| 15–16 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 4 or 5 spell) |
+| 17–18 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of Wondrous Power (obsidian steed)]] |
+| 19–20 | [[/03_Mechanics/CLI/items/hat-of-many-spells-xdmg|Hat of Many Spells]] |
+| 21–22 | [[/03_Mechanics/CLI/items/helm-of-brilliance-xdmg|Helm of Brilliance]] |
+| 23–24 | [[/03_Mechanics/CLI/items/horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]] |
+| 25–26 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-absorption-xdmg|absorption]], [[/03_Mechanics/CLI/items/ioun-stone-fortitude-xdmg|fortitude]], [[/03_Mechanics/CLI/items/ioun-stone-intellect-xdmg|intellect]], or [[/03_Mechanics/CLI/items/ioun-stone-leadership-xdmg|leadership]]) |
+| 27–28 | [[/03_Mechanics/CLI/items/manual-of-golems-xdmg|Manual of Golems]] ([[/03_Mechanics/CLI/items/manual-of-clay-golems-xdmg|clay]], [[/03_Mechanics/CLI/items/manual-of-flesh-golems-xdmg|flesh]], [[/03_Mechanics/CLI/items/manual-of-iron-golems-xdmg|iron]], or [[/03_Mechanics/CLI/items/manual-of-stone-golems-xdmg|stone]]) |
+| 29 | [[/03_Mechanics/CLI/items/mirror-of-life-trapping-xdmg|Mirror of Life Trapping]] |
+| 30–31 | [[/03_Mechanics/CLI/items/nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]] |
+| 32–34 | [[/03_Mechanics/CLI/items/oil-of-sharpness-xdmg|Oil of Sharpness]] |
+| 35–38 | [[/03_Mechanics/CLI/items/potion-of-flying-xdmg|Potion of Flying]] |
+| 39–42 | [[/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg|Potion of Giant Strength (cloud)]] |
+| 43–46 | [[/03_Mechanics/CLI/items/potion-of-greater-invisibility-xdmg|Potion of Greater Invisibility]] |
+| 47–49 | [[/03_Mechanics/CLI/items/potion-of-longevity-xdmg|Potion of Longevity]] |
+| 50–53 | [[/03_Mechanics/CLI/items/potion-of-speed-xdmg|Potion of Speed]] |
+| 54–57 | [[/03_Mechanics/CLI/items/potion-of-vitality-xdmg|Potion of Vitality]] |
+| 58–59 | [[/03_Mechanics/CLI/items/ring-of-regeneration-xdmg|Ring of Regeneration]] |
+| 60–61 | [[/03_Mechanics/CLI/items/ring-of-shooting-stars-xdmg|Ring of Shooting Stars]] |
+| 62–63 | [[/03_Mechanics/CLI/items/ring-of-telekinesis-xdmg|Ring of Telekinesis]] |
+| 64–65 | [[/03_Mechanics/CLI/items/robe-of-scintillating-colors-xdmg|Robe of Scintillating Colors]] |
+| 66–67 | [[/03_Mechanics/CLI/items/robe-of-stars-xdmg|Robe of Stars]] |
+| 68–69 | [[/03_Mechanics/CLI/items/rod-of-absorption-xdmg|Rod of Absorption]] |
+| 70–71 | [[/03_Mechanics/CLI/items/rod-of-security-xdmg|Rod of Security]] |
+| 72–73 | [[/03_Mechanics/CLI/items/3-rod-of-the-pact-keeper-xdmg|Rod of the Pact Keeper, +3]] |
+| 74–85 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-6-xdmg|level 6]], [[/03_Mechanics/CLI/items/spell-scroll-level-7-xdmg|level 7]], or [[/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg|level 8]] spell) |
+| 86–87 | [[/03_Mechanics/CLI/items/staff-of-fire-xdmg|Staff of Fire]] |
+| 88–89 | [[/03_Mechanics/CLI/items/staff-of-frost-xdmg|Staff of Frost]] |
+| 90 | [[/03_Mechanics/CLI/items/staff-of-power-xdmg|Staff of Power]] |
+| 91–92 | [[/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg|Staff of Thunder and Lightning]] |
+| 93–94 | [[/03_Mechanics/CLI/items/tome-of-clear-thought-xdmg|Tome of Clear Thought]] |
+| 95–97 | [[/03_Mechanics/CLI/items/wand-of-polymorph-xdmg|Wand of Polymorph]] |
+| 98–00 | [[/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg|Wand of the War Mage, +3]] |
 ^arcana-very-rare
 
 ## Player-Facing Summary

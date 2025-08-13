@@ -150,7 +150,7 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.  
 - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
-- **Being incapacitated or killed.** You lose concentration on a spell if you are [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) or if you die.  
+- **Being incapacitated or killed.** You lose concentration on a spell if you are [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] or if you die.  
 
 The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
@@ -180,13 +180,13 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 > - **Illusion.** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.  
 > - **Necromancy.** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.  
 > 
->     Creating the undead through the use of necromancy spells such as [animate dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md) is not a good act, and only evil casters use such spells frequently.  
+>     Creating the undead through the use of necromancy spells such as [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]] is not a good act, and only evil casters use such spells frequently.  
 > - **Transmutation.** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.  
 ^the-schools-of-magic
 
 ### Areas of Effect
 
-Spells such as [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) and [cone of cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md) cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+Spells such as [[/03_Mechanics/CLI/spells/burning-hands-xphb|burning hands]] and [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]] cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
 
 A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide total cover, as explained in chapter 9.
 
@@ -232,13 +232,13 @@ The DC to resist one of your spells equals 8 + your spellcasting ability modifie
 
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
 
-Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
+Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].
 
 ### Combining Magical Effects
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap, or the most recent effect applies if the castings are equally potent and their durations overlap.
 
-For example, if two clerics cast [bless](/03_Mechanics/CLI/spells/bless-xphb.md) on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
+For example, if two clerics cast [[/03_Mechanics/CLI/spells/bless-xphb|bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
 > [!note] The Weave of Magic
 > 

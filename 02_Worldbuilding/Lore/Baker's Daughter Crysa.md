@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
 
 
 ## Connections

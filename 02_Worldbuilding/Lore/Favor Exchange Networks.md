@@ -22,10 +22,10 @@ world: Both
 # Favor Exchange Networks
 *The Currency of Obligation and the Economy of Trust*
 
-> *"Gold can be stolen, crystals can be corrupted, pearls can be lost. But a favor? A favor is a debt that lives in the soul, earning interest in ways that compound forever."* - [[02_Worldbuilding/Groups/Cultural Mediator Coral Windweave]]
+> *"Gold can be stolen, crystals can be corrupted, pearls can be lost. But a favor? A favor is a debt that lives in the soul, earning interest in ways that compound forever."* - [[02_Worldbuilding/Groups/Cultural Mediator Coral Windweave|02 Worldbuilding/Groups/Cultural Mediator Coral Windweave]]
 
 ## Overview
-Beyond the traditional currencies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], sophisticated networks of non-monetary exchange operate throughout both realms. These favor economies represent complex webs of obligation, reciprocity, and social capital that often prove more valuable and enduring than any material currency.
+Beyond the traditional currencies of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], sophisticated networks of non-monetary exchange operate throughout both realms. These favor economies represent complex webs of obligation, reciprocity, and social capital that often prove more valuable and enduring than any material currency.
 
 ## The Philosophy of Favor Economics
 
@@ -86,7 +86,7 @@ Favor debts cannot be sold, traded, or assigned to others. They exist only betwe
 ### Formal Tracking Methods
 
 #### The Obligation Ledgers
-Maintained by [[02_Worldbuilding/Groups/Merchant's Covenant]] scribes, these detailed records track complex favor networks among elite circles. Each entry includes:
+Maintained by [[02_Worldbuilding/Groups/Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]] scribes, these detailed records track complex favor networks among elite circles. Each entry includes:
 - **Parties Involved**: Full names, titles, and social positions
 - **Favor Description**: Detailed accounting of service rendered or promised
 - **Context Documentation**: Circumstances that influenced favor value
@@ -411,11 +411,11 @@ International commerce combining monetary trade with diplomatic favor exchange:
 
 ## Connected Systems and Cross-References
 
-- [[02_Worldbuilding/Lore/District Economic Profiles]] - Geographic areas where favor networks operate
-- [[02_Worldbuilding/Groups/Cultural Exchange Society]] - Organization facilitating cross-cultural favor networks
-- [[02_Worldbuilding/Groups/Merchant's Covenant]] - Professional favor tracking and mediation services
-- [[02_Worldbuilding/People/Cultural Mediator Coral Windweave]] - Expert in cross-realm favor exchange
-- [[03_Mechanics/Faction Relationship Tracker]] - Mechanical systems for tracking favor obligations
+- [[02_Worldbuilding/Lore/District Economic Profiles|02 Worldbuilding/Lore/District Economic Profiles]] - Geographic areas where favor networks operate
+- [[02_Worldbuilding/Groups/Cultural Exchange Society|02 Worldbuilding/Groups/Cultural Exchange Society]] - Organization facilitating cross-cultural favor networks
+- [[02_Worldbuilding/Groups/Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]] - Professional favor tracking and mediation services
+- [[02_Worldbuilding/People/Cultural Mediator Coral Windweave|02 Worldbuilding/People/Cultural Mediator Coral Windweave]] - Expert in cross-realm favor exchange
+- [[03_Mechanics/Faction Relationship Tracker|03 Mechanics/Faction Relationship Tracker]] - Mechanical systems for tracking favor obligations
 
 ## Player-Facing Summary
 

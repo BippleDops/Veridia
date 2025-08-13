@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Scholar-Priest Tidal-Memory]]
+- [[02_Worldbuilding/People/Scholar-Priest Tidal-Memory|02 Worldbuilding/People/Scholar Priest Tidal Memory]]
 
 <!-- enriched: true -->
 

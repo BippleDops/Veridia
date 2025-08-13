@@ -21,388 +21,388 @@ world: Both
 
 This appendix provides stat blocks for animals of the Beast type—along with many of their gigantic or mythologized kin—in alphabetical order. Most represent versions of animals that exist (or existed) in the real world. You can find descriptions of these creatures in dictionaries or other educational sources, or you might create new roles for them in your D&D worlds.
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
-- [Allosaurus](/03_Mechanics/CLI/bestiary/beast/allosaurus-xmm.md)  
-- [Ankylosaurus](/03_Mechanics/CLI/bestiary/beast/ankylosaurus-xmm.md)  
-- [Ape](/03_Mechanics/CLI/bestiary/beast/ape-xmm.md)  
-- [Archelon](/03_Mechanics/CLI/bestiary/beast/archelon-xmm.md)  
-- [Baboon](/03_Mechanics/CLI/bestiary/beast/baboon-xmm.md)  
-- [Badger](/03_Mechanics/CLI/bestiary/beast/badger-xmm.md)  
-- [Bat](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md)  
-- [Black Bear](/03_Mechanics/CLI/bestiary/beast/black-bear-xmm.md)  
-- [Blood Hawk](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md)  
-- [Boar](/03_Mechanics/CLI/bestiary/beast/boar-xmm.md)  
-- [Brown Bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md)  
-- [Camel](/03_Mechanics/CLI/bestiary/beast/camel-xmm.md)  
-- [Cat](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md)  
-- [Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md)  
-- [Crab](/03_Mechanics/CLI/bestiary/beast/crab-xmm.md)  
-- [Crocodile](/03_Mechanics/CLI/bestiary/beast/crocodile-xmm.md)  
-- [Deer](/03_Mechanics/CLI/bestiary/beast/deer-xmm.md)  
-- [Dire Wolf](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)  
-- [Draft Horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md)  
-- [Eagle](/03_Mechanics/CLI/bestiary/beast/eagle-xmm.md)  
-- [Elephant](/03_Mechanics/CLI/bestiary/beast/elephant-xmm.md)  
-- [Elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md)  
-- [Flying Snake](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md)  
-- [Frog](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md)  
-- [Giant Ape](/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm.md)  
-- [Giant Badger](/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm.md)  
-- [Giant Bat](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)  
-- [Giant Boar](/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm.md)  
-- [Giant Centipede](/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md)  
-- [Giant Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md)  
-- [Giant Crab](/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm.md)  
-- [Giant Crocodile](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md)  
-- [Giant Eagle](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md)  
-- [Giant Elk](/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md)  
-- [Giant Fire Beetle](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md)  
-- [Giant Frog](/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm.md)  
-- [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md)  
-- [Giant Hyena](/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md)  
-- [Giant Lizard](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md)  
-- [Giant Octopus](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md)  
-- [Giant Owl](/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md)  
-- [Giant Rat](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)  
-- [Giant Scorpion](/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md)  
-- [Giant Seahorse](/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm.md)  
-- [Giant Shark](/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm.md)  
-- [Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)  
-- [Giant Squid](/03_Mechanics/CLI/bestiary/beast/giant-squid-xmm.md)  
-- [Giant Toad](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md)  
-- [Giant Venomous Snake](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md)  
-- [Giant Vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md)  
-- [Giant Wasp](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md)  
-- [Giant Weasel](/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md)  
-- [Giant Wolf Spider](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md)  
-- [Goat](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md)  
-- [Hawk](/03_Mechanics/CLI/bestiary/beast/hawk-xmm.md)  
-- [Hippopotamus](/03_Mechanics/CLI/bestiary/beast/hippopotamus-xmm.md)  
-- [Hunter Shark](/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md)  
-- [Hyena](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md)  
-- [Jackal](/03_Mechanics/CLI/bestiary/beast/jackal-xmm.md)  
-- [Killer Whale](/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm.md)  
-- [Lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md)  
-- [Lizard](/03_Mechanics/CLI/bestiary/beast/lizard-xmm.md)  
-- [Mammoth](/03_Mechanics/CLI/bestiary/beast/mammoth-xmm.md)  
-- [Mastiff](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md)  
-- [Mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md)  
-- [Octopus](/03_Mechanics/CLI/bestiary/beast/octopus-xmm.md)  
-- [Owl](/03_Mechanics/CLI/bestiary/beast/owl-xmm.md)  
-- [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md)  
-- [Piranha](/03_Mechanics/CLI/bestiary/beast/piranha-xmm.md)  
-- [Plesiosaurus](/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md)  
-- [Polar Bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md)  
-- [Pony](/03_Mechanics/CLI/bestiary/beast/pony-xmm.md)  
-- [Pteranodon](/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm.md)  
-- [Rat](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md)  
-- [Raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md)  
-- [Reef Shark](/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm.md)  
-- [Rhinoceros](/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md)  
-- [Riding Horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md)  
-- [Saber-Toothed Tiger](/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm.md)  
-- [Scorpion](/03_Mechanics/CLI/bestiary/beast/scorpion-xmm.md)  
-- [Seahorse](/03_Mechanics/CLI/bestiary/beast/seahorse-xmm.md)  
-- [Spider](/03_Mechanics/CLI/bestiary/beast/spider-xmm.md)  
-- [Swarm of Bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)  
-- [Swarm of Insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Piranhas](/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md)  
-- [Swarm of Rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md)  
-- [Swarm of Ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md)  
-- [Swarm of Venomous Snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md)  
-- [Tiger](/03_Mechanics/CLI/bestiary/beast/tiger-xmm.md)  
-- [Triceratops](/03_Mechanics/CLI/bestiary/beast/triceratops-xmm.md)  
-- [Tyrannosaurus Rex](/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md)  
-- [Venomous Snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md)  
-- [Vulture](/03_Mechanics/CLI/bestiary/beast/vulture-xmm.md)  
-- [Warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md)  
-- [Weasel](/03_Mechanics/CLI/bestiary/beast/weasel-xmm.md)  
-- [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
+- [[/03_Mechanics/CLI/bestiary/beast/allosaurus-xmm|Allosaurus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/ankylosaurus-xmm|Ankylosaurus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/ape-xmm|Ape]]  
+- [[/03_Mechanics/CLI/bestiary/beast/archelon-xmm|Archelon]]  
+- [[/03_Mechanics/CLI/bestiary/beast/baboon-xmm|Baboon]]  
+- [[/03_Mechanics/CLI/bestiary/beast/badger-xmm|Badger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/bat-xmm|Bat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/black-bear-xmm|Black Bear]]  
+- [[/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm|Blood Hawk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/boar-xmm|Boar]]  
+- [[/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm|Brown Bear]]  
+- [[/03_Mechanics/CLI/bestiary/beast/camel-xmm|Camel]]  
+- [[/03_Mechanics/CLI/bestiary/beast/cat-xmm|Cat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm|Constrictor Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/crab-xmm|Crab]]  
+- [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|Crocodile]]  
+- [[/03_Mechanics/CLI/bestiary/beast/deer-xmm|Deer]]  
+- [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|Dire Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|Draft Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/eagle-xmm|Eagle]]  
+- [[/03_Mechanics/CLI/bestiary/beast/elephant-xmm|Elephant]]  
+- [[/03_Mechanics/CLI/bestiary/beast/elk-xmm|Elk]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm|Flying Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/frog-xmm|Frog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm|Giant Ape]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm|Giant Badger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm|Giant Bat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm|Giant Boar]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm|Giant Centipede]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|Giant Constrictor Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm|Giant Crab]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|Giant Crocodile]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm|Giant Eagle]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm|Giant Elk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm|Giant Fire Beetle]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|Giant Frog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm|Giant Hyena]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|Giant Lizard]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|Giant Octopus]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm|Giant Owl]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|Giant Rat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm|Giant Scorpion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm|Giant Seahorse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm|Giant Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-squid-xmm|Giant Squid]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|Giant Toad]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|Giant Venomous Snake]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm|Giant Vulture]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm|Giant Wasp]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm|Giant Weasel]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm|Giant Wolf Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/goat-xmm|Goat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hawk-xmm|Hawk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hippopotamus-xmm|Hippopotamus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm|Hunter Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hyena-xmm|Hyena]]  
+- [[/03_Mechanics/CLI/bestiary/beast/jackal-xmm|Jackal]]  
+- [[/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm|Killer Whale]]  
+- [[/03_Mechanics/CLI/bestiary/beast/lion-xmm|Lion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/lizard-xmm|Lizard]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mammoth-xmm|Mammoth]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mastiff-xmm|Mastiff]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mule-xmm|Mule]]  
+- [[/03_Mechanics/CLI/bestiary/beast/octopus-xmm|Octopus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/owl-xmm|Owl]]  
+- [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]]  
+- [[/03_Mechanics/CLI/bestiary/beast/piranha-xmm|Piranha]]  
+- [[/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm|Plesiosaurus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|Polar Bear]]  
+- [[/03_Mechanics/CLI/bestiary/beast/pony-xmm|Pony]]  
+- [[/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm|Pteranodon]]  
+- [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|Rat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/raven-xmm|Raven]]  
+- [[/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm|Reef Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm|Rhinoceros]]  
+- [[/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm|Riding Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm|Saber-Toothed Tiger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/scorpion-xmm|Scorpion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/seahorse-xmm|Seahorse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/spider-xmm|Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|Swarm of Bats]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|Swarm of Insects]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm|Swarm of Piranhas]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|Swarm of Rats]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|Swarm of Ravens]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]]  
+- [[/03_Mechanics/CLI/bestiary/beast/tiger-xmm|Tiger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/triceratops-xmm|Triceratops]]  
+- [[/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm|Tyrannosaurus Rex]]  
+- [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Venomous Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/vulture-xmm|Vulture]]  
+- [[/03_Mechanics/CLI/bestiary/beast/warhorse-xmm|Warhorse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/weasel-xmm|Weasel]]  
+- [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|Wolf]]  
 
 > [!embed-monster]- Deer
-> ![Deer](/03_Mechanics/CLI/bestiary/beast/deer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/deer-xmm#^statblock|Deer]]
 
-![Dire Wolf](/03_Mechanics/CLI/books/monster-manual-2025/img/005-27-006-dire-wolf.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/005-27-006-dire-wolf.webp#center|Dire Wolf]]
 
 > [!embed-monster]- Dire Wolf
-> ![Dire Wolf](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm#^statblock|Dire Wolf]]
 
 > [!embed-monster]- Draft Horse
-> ![Draft Horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm#^statblock|Draft Horse]]
 
-![Elephant](/03_Mechanics/CLI/books/monster-manual-2025/img/006-27-007-elephant.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/006-27-007-elephant.webp#center|Elephant]]
 
 > [!embed-monster]- Elephant
-> ![Elephant](/03_Mechanics/CLI/bestiary/beast/elephant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/elephant-xmm#^statblock|Elephant]]
 
 > [!embed-monster]- Eagle
-> ![Eagle](/03_Mechanics/CLI/bestiary/beast/eagle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/eagle-xmm#^statblock|Eagle]]
 
 > [!embed-monster]- Elk
-> ![Elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/elk-xmm#^statblock|Elk]]
 
 > [!embed-monster]- Flying Snake
-> ![Flying Snake](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm#^statblock|Flying Snake]]
 
 > [!embed-monster]- Frog
-> ![Frog](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/frog-xmm#^statblock|Frog]]
 
-![A giant ape defends its territory from giant bats](/03_Mechanics/CLI/books/monster-manual-2025/img/007-27-008-giant-ape.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/007-27-008-giant-ape.webp#center|A giant ape defends its territory from giant bats]]
 
 > [!embed-monster]- Giant Ape
-> ![Giant Ape](/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm#^statblock|Giant Ape]]
 
 > [!embed-monster]- Giant Badger
-> ![Giant Badger](/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm#^statblock|Giant Badger]]
 
 > [!embed-monster]- Giant Bat
-> ![Giant Bat](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm#^statblock|Giant Bat]]
 
-![Giant Boar](/03_Mechanics/CLI/books/monster-manual-2025/img/008-27-009-giant-boar.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/008-27-009-giant-boar.webp#center|Giant Boar]]
 
 > [!embed-monster]- Giant Boar
-> ![Giant Boar](/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm#^statblock|Giant Boar]]
 
 > [!embed-monster]- Giant Centipede
-> ![Giant Centipede](/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm#^statblock|Giant Centipede]]
 
 > [!embed-monster]- Giant Constrictor Snake
-> ![Giant Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm#^statblock|Giant Constrictor Snake]]
 
 > [!embed-monster]- Giant Crab
-> ![Giant Crab](/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm#^statblock|Giant Crab]]
 
-![Giant Crab](/03_Mechanics/CLI/books/monster-manual-2025/img/009-27-010-giant-crab.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/009-27-010-giant-crab.webp#center|Giant Crab]]
 
 > [!embed-monster]- Giant Crocodile
-> ![Giant Crocodile](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm#^statblock|Giant Crocodile]]
 
 > [!embed-monster]- Giant Eagle
-> ![Giant Eagle](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm#^statblock|Giant Eagle]]
 
 > [!embed-monster]- Giant Elk
-> ![Giant Elk](/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm#^statblock|Giant Elk]]
 
 > [!embed-monster]- Giant Fire Beetle
-> ![Giant Fire Beetle](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm#^statblock|Giant Fire Beetle]]
 
 > [!embed-monster]- Giant Frog
-> ![Giant Frog](/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm#^statblock|Giant Frog]]
 
-![Giant Goat](/03_Mechanics/CLI/books/monster-manual-2025/img/010-27-011-giant-goat.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/010-27-011-giant-goat.webp#center|Giant Goat]]
 
 > [!embed-monster]- Giant Goat
-> ![Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm#^statblock|Giant Goat]]
 
 > [!embed-monster]- Giant Hyena
-> ![Giant Hyena](/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm#^statblock|Giant Hyena]]
 
 > [!embed-monster]- Giant Lizard
-> ![Giant Lizard](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm#^statblock|Giant Lizard]]
 
-![Giant Lizard](/03_Mechanics/CLI/books/monster-manual-2025/img/011-27-012-giant-lizard.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/011-27-012-giant-lizard.webp#center|Giant Lizard]]
 
 > [!embed-monster]- Giant Octopus
-> ![Giant Octopus](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm#^statblock|Giant Octopus]]
 
 > [!embed-monster]- Giant Owl
-> ![Giant Owl](/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm#^statblock|Giant Owl]]
 
 > [!embed-monster]- Giant Rat
-> ![Giant Rat](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm#^statblock|Giant Rat]]
 
 > [!embed-monster]- Giant Seahorse
-> ![Giant Seahorse](/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm#^statblock|Giant Seahorse]]
 
 > [!embed-monster]- Giant Scorpion
-> ![Giant Scorpion](/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm#^statblock|Giant Scorpion]]
 
 > [!embed-monster]- Giant Shark
-> ![Giant Shark](/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm#^statblock|Giant Shark]]
 
 > [!embed-monster]- Giant Spider
-> ![Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm#^statblock|Giant Spider]]
 
 > [!embed-monster]- Giant Squid
-> ![Giant Squid](/03_Mechanics/CLI/bestiary/beast/giant-squid-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-squid-xmm#^statblock|Giant Squid]]
 
-![Giant Squid](/03_Mechanics/CLI/books/monster-manual-2025/img/012-27-013-giant-squid.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/012-27-013-giant-squid.webp#center|Giant Squid]]
 
 > [!embed-monster]- Giant Toad
-> ![Giant Toad](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm#^statblock|Giant Toad]]
 
 > [!embed-monster]- Giant Venomous Snake
-> ![Giant Venomous Snake](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm#^statblock|Giant Venomous Snake]]
 
 > [!embed-monster]- Giant Vulture
-> ![Giant Vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm#^statblock|Giant Vulture]]
 
-![A gnome rogue distracts a ...](/03_Mechanics/CLI/books/monster-manual-2025/img/013-27-015-giant-wasp.webp#center "A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/013-27-015-giant-wasp.webp#center "A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by"|A gnome rogue distracts a ...]]
 
 > [!embed-monster]- Giant Wasp
-> ![Giant Wasp](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm#^statblock|Giant Wasp]]
 
 > [!embed-monster]- Giant Weasel
-> ![Giant Weasel](/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm#^statblock|Giant Weasel]]
 
-![Giant Weasel](/03_Mechanics/CLI/books/monster-manual-2025/img/014-27-014-giant-weasel.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/014-27-014-giant-weasel.webp#center|Giant Weasel]]
 
 > [!embed-monster]- Giant Wolf Spider
-> ![Giant Wolf Spider](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm#^statblock|Giant Wolf Spider]]
 
-![Giant Wolf Spider](/03_Mechanics/CLI/books/monster-manual-2025/img/015-27-016-giant-spider.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/015-27-016-giant-spider.webp#center|Giant Wolf Spider]]
 
 > [!embed-monster]- Goat
-> ![Goat](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/goat-xmm#^statblock|Goat]]
 
-![Hawk](/03_Mechanics/CLI/books/monster-manual-2025/img/016-27-017-hawk.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/016-27-017-hawk.webp#center|Hawk]]
 
 > [!embed-monster]- Hawk
-> ![Hawk](/03_Mechanics/CLI/bestiary/beast/hawk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/hawk-xmm#^statblock|Hawk]]
 
 > [!embed-monster]- Hippopotamus
-> ![Hippopotamus](/03_Mechanics/CLI/bestiary/beast/hippopotamus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/hippopotamus-xmm#^statblock|Hippopotamus]]
 
 > [!embed-monster]- Hunter Shark
-> ![Hunter Shark](/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm#^statblock|Hunter Shark]]
 
-![Aquatic animals swim along...](/03_Mechanics/CLI/books/monster-manual-2025/img/017-27-018-druid-with-fish.webp#center "Aquatic animals swim alongside a druid exploring the sea")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/017-27-018-druid-with-fish.webp#center "Aquatic animals swim alongside a druid exploring the sea"|Aquatic animals swim along...]]
 
 > [!embed-monster]- Hyena
-> ![Hyena](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/hyena-xmm#^statblock|Hyena]]
 
 > [!embed-monster]- Jackal
-> ![Jackal](/03_Mechanics/CLI/bestiary/beast/jackal-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/jackal-xmm#^statblock|Jackal]]
 
 > [!embed-monster]- Killer Whale
-> ![Killer Whale](/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm#^statblock|Killer Whale]]
 
-![Lion](/03_Mechanics/CLI/books/monster-manual-2025/img/018-27-019-lion.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/018-27-019-lion.webp#center|Lion]]
 
 > [!embed-monster]- Lion
-> ![Lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/lion-xmm#^statblock|Lion]]
 
 > [!embed-monster]- Lizard
-> ![Lizard](/03_Mechanics/CLI/bestiary/beast/lizard-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/lizard-xmm#^statblock|Lizard]]
 
 > [!embed-monster]- Mammoth
-> ![Mammoth](/03_Mechanics/CLI/bestiary/beast/mammoth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/mammoth-xmm#^statblock|Mammoth]]
 
 > [!embed-monster]- Mastiff
-> ![Mastiff](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/mastiff-xmm#^statblock|Mastiff]]
 
 > [!embed-monster]- Mule
-> ![Mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/mule-xmm#^statblock|Mule]]
 
-![Octopus](/03_Mechanics/CLI/books/monster-manual-2025/img/019-27-020-octopus.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/019-27-020-octopus.webp#center|Octopus]]
 
 > [!embed-monster]- Octopus
-> ![Octopus](/03_Mechanics/CLI/bestiary/beast/octopus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/octopus-xmm#^statblock|Octopus]]
 
-![Owl](/03_Mechanics/CLI/books/monster-manual-2025/img/020-27-021-owl.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/020-27-021-owl.webp#center|Owl]]
 
 > [!embed-monster]- Owl
-> ![Owl](/03_Mechanics/CLI/bestiary/beast/owl-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/owl-xmm#^statblock|Owl]]
 
 > [!embed-monster]- Panther
-> ![Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/panther-xmm#^statblock|Panther]]
 
 > [!embed-monster]- Piranha
-> ![Piranha](/03_Mechanics/CLI/bestiary/beast/piranha-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/piranha-xmm#^statblock|Piranha]]
 
 > [!embed-monster]- Plesiosaurus
-> ![Plesiosaurus](/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm#^statblock|Plesiosaurus]]
 
 > [!embed-monster]- Polar Bear
-> ![Polar Bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm#^statblock|Polar Bear]]
 
 > [!embed-monster]- Pony
-> ![Pony](/03_Mechanics/CLI/bestiary/beast/pony-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/pony-xmm#^statblock|Pony]]
 
 > [!embed-monster]- Pteranodon
-> ![Pteranodon](/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm#^statblock|Pteranodon]]
 
 > [!embed-monster]- Rat
-> ![Rat](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/rat-xmm#^statblock|Rat]]
 
-![An adventurer underestimat...](/03_Mechanics/CLI/books/monster-manual-2025/img/021-27-022-rats.webp#center "An adventurer underestimates the extent of a tavern's giant rat infestation")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/021-27-022-rats.webp#center "An adventurer underestimates the extent of a tavern's giant rat infestation"|An adventurer underestimat...]]
 
 > [!embed-monster]- Raven
-> ![Raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/raven-xmm#^statblock|Raven]]
 
 > [!embed-monster]- Reef Shark
-> ![Reef Shark](/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm#^statblock|Reef Shark]]
 
 > [!embed-monster]- Rhinoceros
-> ![Rhinoceros](/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm#^statblock|Rhinoceros]]
 
-![Rhinoceros](/03_Mechanics/CLI/books/monster-manual-2025/img/022-27-023-rhinoceros.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/022-27-023-rhinoceros.webp#center|Rhinoceros]]
 
 > [!embed-monster]- Riding Horse
-> ![Riding Horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm#^statblock|Riding Horse]]
 
 > [!embed-monster]- Saber-Toothed Tiger
-> ![Saber-Toothed Tiger](/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm#^statblock|Saber-Toothed Tiger]]
 
 > [!embed-monster]- Scorpion
-> ![Scorpion](/03_Mechanics/CLI/bestiary/beast/scorpion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/scorpion-xmm#^statblock|Scorpion]]
 
-![Scorpion](/03_Mechanics/CLI/books/monster-manual-2025/img/023-27-024-scorpion.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/023-27-024-scorpion.webp#center|Scorpion]]
 
 > [!embed-monster]- Seahorse
-> ![Seahorse](/03_Mechanics/CLI/bestiary/beast/seahorse-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/seahorse-xmm#^statblock|Seahorse]]
 
 > [!embed-monster]- Spider
-> ![Spider](/03_Mechanics/CLI/bestiary/beast/spider-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/spider-xmm#^statblock|Spider]]
 
 > [!embed-monster]- Swarm of Bats
-> ![Swarm of Bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm#^statblock|Swarm of Bats]]
 
 > [!embed-monster]- Swarm of Insects
-> ![Swarm of Insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm#^statblock|Swarm of Insects]]
 
 > [!embed-monster]- Swarm of Piranhas
-> ![Swarm of Piranhas](/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm#^statblock|Swarm of Piranhas]]
 
 > [!embed-monster]- Swarm of Rats
-> ![Swarm of Rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm#^statblock|Swarm of Rats]]
 
-![Swarm of Ravens](/03_Mechanics/CLI/books/monster-manual-2025/img/024-27-025-swarm-of-ravens.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/024-27-025-swarm-of-ravens.webp#center|Swarm of Ravens]]
 
 > [!embed-monster]- Swarm of Ravens
-> ![Swarm of Ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm#^statblock|Swarm of Ravens]]
 
 > [!embed-monster]- Swarm of Venomous Snakes
-> ![Swarm of Venomous Snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm#^statblock|Swarm of Venomous Snakes]]
 
 > [!embed-monster]- Tiger
-> ![Tiger](/03_Mechanics/CLI/bestiary/beast/tiger-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/tiger-xmm#^statblock|Tiger]]
 
 > [!embed-monster]- Triceratops
-> ![Triceratops](/03_Mechanics/CLI/bestiary/beast/triceratops-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/triceratops-xmm#^statblock|Triceratops]]
 
-![Tyrannosaurus Rex](/03_Mechanics/CLI/books/monster-manual-2025/img/025-27-026-tyrannosaurus.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/025-27-026-tyrannosaurus.webp#center|Tyrannosaurus Rex]]
 
 > [!embed-monster]- Tyrannosaurus Rex
-> ![Tyrannosaurus Rex](/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm#^statblock|Tyrannosaurus Rex]]
 
 > [!embed-monster]- Venomous Snake
-> ![Venomous Snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm#^statblock|Venomous Snake]]
 
 > [!embed-monster]- Vulture
-> ![Vulture](/03_Mechanics/CLI/bestiary/beast/vulture-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/vulture-xmm#^statblock|Vulture]]
 
 > [!embed-monster]- Warhorse
-> ![Warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/warhorse-xmm#^statblock|Warhorse]]
 
 > [!embed-monster]- Weasel
-> ![Weasel](/03_Mechanics/CLI/bestiary/beast/weasel-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/weasel-xmm#^statblock|Weasel]]
 
 > [!embed-monster]- Wolf
-> ![Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/beast/wolf-xmm#^statblock|Wolf]]
 
-![Inhabitants of the rain fo...](/03_Mechanics/CLI/books/monster-manual-2025/img/026-27-027-druid-in-jungle.webp#center "Inhabitants of the rain forest answer a druid's summons")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/026-27-027-druid-in-jungle.webp#center "Inhabitants of the rain forest answer a druid's summons"|Inhabitants of the rain fo...]]
 
 ## Player-Facing Summary
 

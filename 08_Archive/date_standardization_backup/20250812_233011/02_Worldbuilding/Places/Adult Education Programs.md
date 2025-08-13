@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Adult Education Programs]]
+- [[02_Worldbuilding/Places/Adult Education Programs|02 Worldbuilding/Places/Adult Education Programs]]
 
 <!-- enriched: true -->
 

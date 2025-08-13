@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
 
 
 ## Connections

@@ -307,8 +307,8 @@ The intense pressure-forging operations create areas of concentrated magical ene
 
 ### Military Connections
 
-**[[02_Worldbuilding/Lore/Depth Guard]]** - Primary Military Customer
-The Forge of War's most important relationship is with [[02_Worldbuilding/Lore/Depth Guard]], [[Aquabyssos]]'s primary military force. The Guard provides specifications for needed equipment, field testing for new weapons, and feedback from actual combat situations.
+**[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** - Primary Military Customer
+The Forge of War's most important relationship is with [[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]], [[Aquabyssos]]'s primary military force. The Guard provides specifications for needed equipment, field testing for new weapons, and feedback from actual combat situations.
 
 **[[Abyssos Prime Upper Districts]]** - Strategic Defense
 The Forge provides all defensive equipment for the capital city, including the massive war machines that guard the approaches to [[Abyssos Prime]] and the weapons systems that protect against threats from the deepest trenches.
@@ -490,7 +490,7 @@ A classified program has been systematically altering the Forge's workers to bet
 
 The Forge of War can serve as a central hub for military-themed campaigns, providing:
 - **Equipment and Upgrades:** Custom weapons and armor for party members
-- **Military Contacts:** Connections with [[02_Worldbuilding/Lore/Depth Guard]] and other military organizations
+- **Military Contacts:** Connections with [[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]] and other military organizations
 - **Strategic Resources:** Access to intelligence and military planning
 - **Transportation:** Military vessels and equipment for underwater travel
 
@@ -615,7 +615,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Forge of War|02 Worldbuilding/Places/Forge Of War]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime Upper Districts]]

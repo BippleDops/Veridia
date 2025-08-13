@@ -20,38 +20,38 @@ status: active
 
 # Index of Plant
 
-- [Awakened Shrub](./awakened-shrub-xmm.md)
-- [Awakened Tree](./awakened-tree-xmm.md)
-- [Awakened Zurkhwood](./awakened-zurkhwood-oota.md)
-- [Brackish Trudge](./brackish-trudge-scc.md)
-- [Bridesmaid of Zuggtmoy](./bridesmaid-of-zuggtmoy-oota.md)
-- [Carnivorous Flower](./carnivorous-flower-rot.md)
-- [Chamberlain of Zuggtmoy](./chamberlain-of-zuggtmoy-oota.md)
-- [Chuul Spore Servant](./chuul-spore-servant-oota.md)
-- [Corpse Flower](./corpse-flower-mpmm.md)
-- [Drow Spore Servant](./drow-spore-servant-oota.md)
-- [Duergar Spore Servant](./duergar-spore-servant-oota.md)
-- [Gas Spore Fungus](./gas-spore-fungus-xmm.md)
-- [Groff](./groff-scc.md)
-- [Gulthias Blight](./gulthias-blight-xmm.md)
-- [Hook Horror Spore Servant](./hook-horror-spore-servant-oota.md)
-- [Myconid Adult](./myconid-adult-xmm.md)
-- [Myconid Sovereign](./myconid-sovereign-xmm.md)
-- [Myconid Spore Servant](./myconid-spore-servant-xmm.md)
-- [Myconid Sprout](./myconid-sprout-xmm.md)
-- [Needle Blight](./needle-blight-xmm.md)
-- [Shambling Mound](./shambling-mound-xmm.md)
-- [Shrieker Fungus](./shrieker-fungus-xmm.md)
-- [Thorny Vegepygmy](./thorny-vegepygmy-mpmm.md)
-- [Treant](./treant-xmm.md)
-- [Tree Blight](./tree-blight-xmm.md)
-- [Twig Blight](./twig-blight-xmm.md)
-- [Vegepygmy Chief](./vegepygmy-chief-mpmm.md)
-- [Vegepygmy](./vegepygmy-mpmm.md)
-- [Vine Blight](./vine-blight-xmm.md)
-- [Violet Fungus Necrohulk](./violet-fungus-necrohulk-xmm.md)
-- [Violet Fungus](./violet-fungus-xmm.md)
-- [Wood Woad](./wood-woad-mpmm.md)
+- [[./awakened-shrub-xmm|Awakened Shrub]]
+- [[./awakened-tree-xmm|Awakened Tree]]
+- [[./awakened-zurkhwood-oota|Awakened Zurkhwood]]
+- [[./brackish-trudge-scc|Brackish Trudge]]
+- [[./bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]]
+- [[./carnivorous-flower-rot|Carnivorous Flower]]
+- [[./chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]]
+- [[./chuul-spore-servant-oota|Chuul Spore Servant]]
+- [[./corpse-flower-mpmm|Corpse Flower]]
+- [[./drow-spore-servant-oota|Drow Spore Servant]]
+- [[./duergar-spore-servant-oota|Duergar Spore Servant]]
+- [[./gas-spore-fungus-xmm|Gas Spore Fungus]]
+- [[./groff-scc|Groff]]
+- [[./gulthias-blight-xmm|Gulthias Blight]]
+- [[./hook-horror-spore-servant-oota|Hook Horror Spore Servant]]
+- [[./myconid-adult-xmm|Myconid Adult]]
+- [[./myconid-sovereign-xmm|Myconid Sovereign]]
+- [[./myconid-spore-servant-xmm|Myconid Spore Servant]]
+- [[./myconid-sprout-xmm|Myconid Sprout]]
+- [[./needle-blight-xmm|Needle Blight]]
+- [[./shambling-mound-xmm|Shambling Mound]]
+- [[./shrieker-fungus-xmm|Shrieker Fungus]]
+- [[./thorny-vegepygmy-mpmm|Thorny Vegepygmy]]
+- [[./treant-xmm|Treant]]
+- [[./tree-blight-xmm|Tree Blight]]
+- [[./twig-blight-xmm|Twig Blight]]
+- [[./vegepygmy-chief-mpmm|Vegepygmy Chief]]
+- [[./vegepygmy-mpmm|Vegepygmy]]
+- [[./vine-blight-xmm|Vine Blight]]
+- [[./violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]]
+- [[./violet-fungus-xmm|Violet Fungus]]
+- [[./wood-woad-mpmm|Wood Woad]]
 
 ## Player-Facing Summary
 

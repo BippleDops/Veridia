@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nagpa-mpmm-nagpa-mpmm.svg)
 
-# [Nagpa](3-Mechanics\CLI\bestiary\monstrosity/nagpa-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/nagpa-mpmm|Nagpa]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -63,15 +63,15 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+12"
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+11"
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+12"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+10"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+10"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common plus up to five other languages"
@@ -87,25 +87,25 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [message](/03_Mechanics/CLI/spells/message-xphb.md),\
-      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day\
-      \ each: [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md), [fly](/03_Mechanics/CLI/spells/fly-xphb.md),\
-      \ [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\n1/day each:\
-      \ [dominate person](/03_Mechanics/CLI/spells/dominate-person-xphb.md), [etherealness](/03_Mechanics/CLI/spells/etherealness-xphb.md),\
-      \ [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md)"
+      \ spellcasting ability (spell save DC 20):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
+      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]], [[/03_Mechanics/CLI/spells/message-xphb|message]],\
+      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]]\n\n2/day\
+      \ each: [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]], [[/03_Mechanics/CLI/spells/fly-xphb|fly]],\
+      \ [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]], [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]],\
+      \ [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|wall of fire]]\n\n1/day each:\
+      \ [[/03_Mechanics/CLI/spells/dominate-person-xphb|dominate person]], [[/03_Mechanics/CLI/spells/etherealness-xphb|etherealness]],\
+      \ [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
       \ must make a DC 20 Charisma saving throw. An evil creature makes the save with\
-      \ disadvantage. On a failed save, the target is [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ disadvantage. On a failed save, the target is [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
       \ by the nagpa until the start of the nagpa's next turn. On a successful save,\
       \ the target becomes immune to the nagpa's Corruption for the next 24 hours."
     "name": "Corruption"
   - "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
       \ saving throw, excluding Undead and Constructs. On a failed save, a target\
-      \ is [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ is [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] for 1 minute. A [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Paralysis (Recharge 6-6)"

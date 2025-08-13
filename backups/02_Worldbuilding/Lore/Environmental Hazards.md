@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[02_Worldbuilding/Lore/Temporal Navigation Hazards|02 Worldbuilding/Lore/Temporal Navigation Hazards]]
 
 
 ## Connections

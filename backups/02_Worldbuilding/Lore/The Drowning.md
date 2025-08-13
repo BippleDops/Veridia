@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies]]
 
 
 ## Connections

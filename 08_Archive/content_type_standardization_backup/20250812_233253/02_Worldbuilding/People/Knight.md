@@ -90,7 +90,7 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 
 **Allies:**
 - **[[Queen Seraphina Lumengarde]]** - His sovereign, whom he serves with absolute loyalty despite growing concerns about her recent decisions
-- **[[02_Worldbuilding/Lore/Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
+- **[[02_Worldbuilding/Lore/Crystal Guard|02 Worldbuilding/Lore/Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
 - **[[High Priestess Celeste Dawnbringer]]** - Spiritual advisor who helps him maintain his connection to divine power
 - **[[Captain Lyanna Brightshield]]** - Fellow knight and former lover, their relationship ended when duty demanded different paths
 
@@ -159,7 +159,7 @@ Theron works best as a recurring ally who grows and changes alongside the party.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Knight|02 Worldbuilding/People/Knight]]
 
 <!-- enriched: true -->
 

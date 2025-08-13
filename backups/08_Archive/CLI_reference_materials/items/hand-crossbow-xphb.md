@@ -24,7 +24,7 @@ world: Both
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

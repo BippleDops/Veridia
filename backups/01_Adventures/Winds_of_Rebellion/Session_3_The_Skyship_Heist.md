@@ -1460,5 +1460,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## See Also
 
-- [[02_Worldbuilding/Places]] - Related content
-- [[Master_Campaign_Index]] - Campaign overview
+- [[02_Worldbuilding/Places|02 Worldbuilding/Places]] - Related content
+- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview

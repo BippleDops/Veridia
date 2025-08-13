@@ -36,6 +36,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Prism-Shield Valeria]]
+- [[02_Worldbuilding/People/Captain Prism-Shield Valeria|02 Worldbuilding/People/Captain Prism Shield Valeria]]
 
 <!-- enriched: true -->

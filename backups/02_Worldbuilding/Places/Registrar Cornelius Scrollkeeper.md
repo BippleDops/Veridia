@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Registrar Cornelius Scrollkeeper]]
+- [[02_Worldbuilding/Places/Registrar Cornelius Scrollkeeper|02 Worldbuilding/Places/Registrar Cornelius Scrollkeeper]]
 
 <!-- enriched: true -->
 

@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Jump](/03_Mechanics/CLI/spells/jump-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/jump-xphb "XPHB"|Jump]]
 
 ## Player-Facing Summary
 

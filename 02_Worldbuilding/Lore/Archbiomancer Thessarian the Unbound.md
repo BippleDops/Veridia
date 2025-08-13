@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Abyssal Cathedral]]
+- [[02_Worldbuilding/People/Abyssal Cathedral|02 Worldbuilding/People/Abyssal Cathedral]]
 
 
 ## Connections

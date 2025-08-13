@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator Bartholomew Bonewright]]
+- [[02_Worldbuilding/Places/Senator Bartholomew Bonewright|02 Worldbuilding/Places/Senator Bartholomew Bonewright]]
 
 <!-- enriched: true -->
 

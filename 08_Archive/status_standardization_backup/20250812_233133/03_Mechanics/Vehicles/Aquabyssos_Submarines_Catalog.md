@@ -104,4 +104,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Vehicles/Vehicles_Index]]
+- [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]

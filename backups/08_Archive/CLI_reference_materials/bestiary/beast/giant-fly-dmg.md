@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-fly-dmg-giant-fly-dmg.svg)
 
-# [Giant Fly](3-Mechanics\CLI\bestiary\beast/giant-fly-dmg.md)
+# [[3-Mechanics\CLI\bestiary\beast/giant-fly-dmg|Giant Fly]]
 *Source: Dungeon Master's Guide p. 169*  
 
 ```statblock

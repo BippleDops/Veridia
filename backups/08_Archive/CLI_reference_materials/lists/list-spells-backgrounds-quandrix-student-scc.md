@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Entangle](/03_Mechanics/CLI/spells/entangle-xphb.md "XPHB") with access to 3rd-level spells
-- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/entangle-xphb "XPHB"|Entangle]] with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] with access to 3rd-level spells
 
 ## 2nd Level
 
-- [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") with access to 3rd-level spells
-- [Vortex Warp](/03_Mechanics/CLI/spells/vortex-warp-scc.md "SCC") with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb "XPHB"|Enlarge/Reduce]] with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/vortex-warp-scc "SCC"|Vortex Warp]] with access to 3rd-level spells
 
 ## 3rd Level
 
-- [Aura of Vitality](/03_Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") with access to 3rd-level spells
-- [Haste](/03_Mechanics/CLI/spells/haste-xphb.md "XPHB") with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/aura-of-vitality-xphb "XPHB"|Aura of Vitality]] with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/haste-xphb "XPHB"|Haste]] with access to 3rd-level spells
 
 ## 4th Level
 
-- [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md "XPHB") with access to 3rd-level spells
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/control-water-xphb "XPHB"|Control Water]] with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] with access to 3rd-level spells
 
 ## 5th Level
 
-- [Circle of Power](/03_Mechanics/CLI/spells/circle-of-power-xphb.md "XPHB") with access to 3rd-level spells
-- [Passwall](/03_Mechanics/CLI/spells/passwall-xphb.md "XPHB") with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/circle-of-power-xphb "XPHB"|Circle of Power]] with access to 3rd-level spells
+- [[/03_Mechanics/CLI/spells/passwall-xphb "XPHB"|Passwall]] with access to 3rd-level spells
 
 ## Player-Facing Summary
 

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Corrupted Clients]]
+- [[02_Worldbuilding/People/Corrupted Clients|02 Worldbuilding/People/Corrupted Clients]]
 
 <!-- enriched: true -->
 

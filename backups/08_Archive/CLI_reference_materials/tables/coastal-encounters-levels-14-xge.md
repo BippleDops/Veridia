@@ -25,48 +25,48 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) |
-| 02-05 | `2d8` [crabs](/03_Mechanics/CLI/bestiary/beast/crab-xmm.md) |
-| 06-10 | `2d6` fishers ([commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 11 | `d3` [poisonous snakes](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
-| 12-13 | `d6` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) protecting a standard [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) |
-| 14-15 | `2d4` [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
-| 16-18 | `2d10` [merfolk](/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md) |
-| 19-20 | `1d6 + 2` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 21-25 | `d4` [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) feeding on corpses aboard the wreckage of a merchant ship. A search uncovers `2d6` bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
-| 26-27 | `d4` [winged kobolds](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) with `1d6 + 1` [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 28-29 | `2d6` [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) |
-| 30-31 | `3d4` [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 32-33 | `2d4 + 5` [blood hawks](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md) |
-| 34-35 | `1d8 + 1` [pteranodons](/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) |
+| 01 | 1 [[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm|pseudodragon]] |
+| 02-05 | `2d8` [[/03_Mechanics/CLI/bestiary/beast/crab-xmm|crabs]] |
+| 06-10 | `2d6` fishers ([[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) |
+| 11 | `d3` [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|poisonous snakes]] |
+| 12-13 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] protecting a standard [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]] |
+| 14-15 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
+| 16-18 | `2d10` [[/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm|merfolk]] |
+| 19-20 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|sahuagin]] |
+| 21-25 | `d4` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] feeding on corpses aboard the wreckage of a merchant ship. A search uncovers `2d6` bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
+| 26-27 | `d4` [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] with `1d6 + 1` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
+| 28-29 | `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
+| 30-31 | `3d4` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
+| 32-33 | `2d4 + 5` [[/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm|blood hawks]] |
+| 34-35 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm|pteranodons]] |
 | 36-40 | A few dozen baby turtles struggling to make their way to the sea |
-| 41-42 | `1d6 + 2` [giant lizards](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) |
-| 43-44 | `1d6 + 4` [giant crabs](/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) |
-| 45-46 | `2d4` [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 47-48 | `2d6 + 3` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 49-53 | `2d4` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 54-55 | `1d6 + 2` [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
-| 56-60 | 1 [sea hag](/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) |
+| 41-42 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] |
+| 43-44 | `1d6 + 4` [[/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm|giant crabs]] |
+| 45-46 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]] |
+| 47-48 | `2d6 + 3` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 49-53 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|sahuagin]] |
+| 54-55 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
+| 56-60 | 1 [[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm|sea hag]] |
 | 61-65 | A momentary formation in the waves that looks like an enormous humanoid face |
-| 66-70 | 1 [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) |
-| 71-75 | `d4` [harpies](/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) |
-| 76-80 | A lone hermit ([acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) sitting on the beach contemplating the meaning of the multiverse |
-| 81 | `d4` [berserkers](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
-| 82 | `d6` [giant eagles](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) |
-| 83 | `2d4` [giant toads](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) |
-| 84 | `d4` [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) or `d4` [merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
-| 85 | `3d6` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 86 | `d4` [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 87 | `d2` [plesiosauruses](/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md) |
-| 88 | 1 [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with `2d6` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 89 | `d3` [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
-| 90 | 1 [banshee](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md) |
-| 91-92 | `1d4 + 3` [griffons](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
-| 93-94 | 1 [sahuagin priestess](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md) with `d3` [merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) and `2d6` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 95-96 | 1 [sahuagin baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) |
-| 97-98 | 1 [water elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
-| 99 | 1 [cyclops](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 00 | 1 [young bronze dragon](/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md) |
+| 66-70 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] |
+| 71-75 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm|harpies]] |
+| 76-80 | A lone hermit ([[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]) sitting on the beach contemplating the meaning of the multiverse |
+| 81 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] |
+| 82 | `d6` [[/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm|giant eagles]] |
+| 83 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|giant toads]] |
+| 84 | `d4` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] or `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|merrow]] |
+| 85 | `3d6` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|sahuagin]] |
+| 86 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 87 | `d2` [[/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm|plesiosauruses]] |
+| 88 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 89 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|manticores]] |
+| 90 | 1 [[/03_Mechanics/CLI/bestiary/undead/banshee-xmm|banshee]] |
+| 91-92 | `1d4 + 3` [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|griffons]] |
+| 93-94 | 1 [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm|sahuagin priestess]] with `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|merrow]] and `2d6` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|sahuagin]] |
+| 95-96 | 1 [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm|sahuagin baron]] |
+| 97-98 | 1 [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elemental]] |
+| 99 | 1 [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclops]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm|young bronze dragon]] |
 ^coastal-encounters-levels-14
 
 ## Player-Facing Summary

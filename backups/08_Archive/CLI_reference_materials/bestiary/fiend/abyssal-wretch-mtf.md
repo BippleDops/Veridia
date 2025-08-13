@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-abyssal-wretch-mtf-abyssal-wretch-mtf.svg)
 
-# [Abyssal Wretch](3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf.md)
+# [[3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*  
 
 ```statblock
@@ -47,8 +47,8 @@ world: Both
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/4"

@@ -21,23 +21,23 @@ world: Both
 
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
-- [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)  
-- [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)  
-- [Deafened](/03_Mechanics/CLI/conditions.md#Deafened)  
-- [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion)  
-- [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)  
-- [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)  
-- [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)  
-- [Invisible](/03_Mechanics/CLI/conditions.md#Invisible)  
-- [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)  
-- [Petrified](/03_Mechanics/CLI/conditions.md#Petrified)  
-- [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)  
-- [Prone](/03_Mechanics/CLI/conditions.md#Prone)  
-- [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)  
-- [Stunned](/03_Mechanics/CLI/conditions.md#Stunned)  
-- [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)  
+- [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]  
+- [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]  
+- [[/03_Mechanics/CLI/conditions#Deafened|Deafened]]  
+- [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]]  
+- [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]  
+- [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]  
+- [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]  
+- [[/03_Mechanics/CLI/conditions#Invisible|Invisible]]  
+- [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]  
+- [[/03_Mechanics/CLI/conditions#Petrified|Petrified]]  
+- [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]  
+- [[/03_Mechanics/CLI/conditions#Prone|Prone]]  
+- [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]  
+- [[/03_Mechanics/CLI/conditions#Stunned|Stunned]]  
+- [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]]  
 
-A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) condition is an exception to that rule.
+A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] condition is an exception to that rule.
 
 ## Player-Facing Summary
 

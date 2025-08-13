@@ -59,7 +59,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective|02 Worldbuilding/Groups/The Forsaken Consortium Collective]]
 
 
 ## Connections

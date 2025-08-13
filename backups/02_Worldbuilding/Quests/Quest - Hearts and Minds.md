@@ -26,7 +26,7 @@ tags:
 
 ## Quest Summary
 
-The floating city of [[New Skyholm]] teeters on the brink of civil war. What began as peaceful protests by the [[02_Worldbuilding/Lore/The Groundling Liberation Movement]] has escalated into violent confrontations with the city's [[02_Worldbuilding/Lore/The Skyborn Elite]]. As tensions reach a breaking point, mysterious incidents have begun occurring—bombings blamed on groundling terrorists, but evidence suggests darker forces are manipulating both sides toward inevitable conflict.
+The floating city of [[New Skyholm]] teeters on the brink of civil war. What began as peaceful protests by the [[02_Worldbuilding/Lore/The Groundling Liberation Movement|02 Worldbuilding/Lore/The Groundling Liberation Movement]] has escalated into violent confrontations with the city's [[02_Worldbuilding/Lore/The Skyborn Elite|02 Worldbuilding/Lore/The Skyborn Elite]]. As tensions reach a breaking point, mysterious incidents have begun occurring—bombings blamed on groundling terrorists, but evidence suggests darker forces are manipulating both sides toward inevitable conflict.
 
 The party must navigate the complex web of political intrigue, uncover the true puppet masters behind the escalating violence, and find a way to prevent a war that could tear [[New Skyholm]] apart and destabilize all of [[Aethermoor]]. Success requires more than sword and sorcery—it demands understanding the hearts and minds of a divided people.
 
@@ -45,7 +45,7 @@ The party arrives in [[New Skyholm]] just as the latest protests turn violent. T
 
 ### The Current Crisis (Sessions 1-2)
 
-**Setting:** [[New Skyholm]], a stratified floating city where the wealthy [[02_Worldbuilding/Lore/The Skyborn Elite]] literally live above the working-class [[Groundling]] districts
+**Setting:** [[New Skyholm]], a stratified floating city where the wealthy [[02_Worldbuilding/Lore/The Skyborn Elite|02 Worldbuilding/Lore/The Skyborn Elite]] literally live above the working-class [[Groundling]] districts
 
 #### Key Tensions:
 - **Economic:** Groundlings work dangerous jobs maintaining the city's floating mechanisms while Skyborn profit from trade and magic
@@ -62,7 +62,7 @@ The party arrives in [[New Skyholm]] just as the latest protests turn violent. T
 
 #### The Groundling Quarter
 - **Industrial District:** Where city maintenance workers live and work
-- **The Anchor Tavern:** Meeting place for [[02_Worldbuilding/Lore/The Groundling Liberation Movement]]
+- **The Anchor Tavern:** Meeting place for [[02_Worldbuilding/Lore/The Groundling Liberation Movement|02 Worldbuilding/Lore/The Groundling Liberation Movement]]
 - **Underground Networks:** Literal and figurative—maintenance tunnels and resistance cells
 
 #### The Skyborn Districts  
@@ -250,7 +250,7 @@ The heroes must:
 - **Leadership:** High Council dominated by hereditary nobles
 - **Support:** Wealthy Skyborn, some middle-class who aspire to rise
 
-### [[02_Worldbuilding/Lore/Terrestrial Coalition]] (Foreign Antagonists)
+### [[02_Worldbuilding/Lore/Terrestrial Coalition|02 Worldbuilding/Lore/Terrestrial Coalition]] (Foreign Antagonists)
 - **Core Philosophy:** Ground-based civilization, opposition to "unnatural" sky-cities
 - **Methods:** Espionage, sabotage, political manipulation, economic warfare
 - **Leadership:** Council of ground-based nation representatives
@@ -363,5 +363,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]]
 - [[Aethermoor]]

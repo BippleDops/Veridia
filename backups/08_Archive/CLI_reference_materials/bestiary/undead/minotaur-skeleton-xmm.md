@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-skeleton-xmm-minotaur-skeleton-xmm.svg)
 
-# [Minotaur Skeleton](3-Mechanics\CLI\bestiary\undead/minotaur-skeleton-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/minotaur-skeleton-xmm|Minotaur Skeleton]]
 *Source: Monster Manual (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
@@ -75,8 +75,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
@@ -84,7 +84,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ (2d8) Piercing damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Gore"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\

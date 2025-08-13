@@ -30,7 +30,7 @@ updated: 2025-08-11
 
 ## Overview
 
-Merged Reality Zones represent the most dangerous and fascinating phenomenon occurring as [[The Convergence Point]] approaches. These are areas where the dimensional barriers between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] have become so thin that both realities exist simultaneously in the same physical space. Within these zones, the laws of physics, magic, and even causality become fluid and unpredictable, creating environments where crystal formations grow underwater, pressure exists in open air, and time flows in multiple directions at once.
+Merged Reality Zones represent the most dangerous and fascinating phenomenon occurring as [[The Convergence Point]] approaches. These are areas where the dimensional barriers between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] have become so thin that both realities exist simultaneously in the same physical space. Within these zones, the laws of physics, magic, and even causality become fluid and unpredictable, creating environments where crystal formations grow underwater, pressure exists in open air, and time flows in multiple directions at once.
 
 ## Formation and Expansion
 
@@ -67,8 +67,8 @@ Merged Reality Zones typically form around specific catalyst locations:
 
 **Artificial Manipulation:**
 - [[The Crimson Hand]] techniques can deliberately create new zones
-- [[02_Worldbuilding/Groups/The Crystal Throne]] crystal networks can slow expansion
-- [[02_Worldbuilding/People/Sire]]s sometimes trigger zones through consciousness experiments
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] crystal networks can slow expansion
+- [[02_Worldbuilding/People/Sire|02 Worldbuilding/People/Sire]]s sometimes trigger zones through consciousness experiments
 - Resistance groups attempt to contain zones using hybrid magic techniques
 
 ## Environmental Characteristics
@@ -139,7 +139,7 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Pressure Flowers**: Plants that bloom only under specific pressure conditions
 
 ### The Storm Convergence
-**Location**: Areas where [[02_Worldbuilding/Places/Aethermoor]] sky magic meets [[Aquabyssos]] pressure systems
+**Location**: Areas where [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] sky magic meets [[Aquabyssos]] pressure systems
 **Characteristics:**
 - Perpetual weather phenomena combining wind, rain, and crystalline energy
 - Lightning that carries both electricity and memory fragments
@@ -155,7 +155,7 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Reality Hail**: Solid chunks of crystallized spacetime falling from storm clouds
 
 ### The Drowning Spires
-**Location**: Areas where [[02_Worldbuilding/Places/Crystalhaven]]'s towers extend into [[Aquabyssos]] depths
+**Location**: Areas where [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s towers extend into [[Aquabyssos]] depths
 **Characteristics:**
 - Massive crystal spires extending infinitely downward into abyssal depths
 - Building interiors filled with breathable water at crushing pressure
@@ -171,7 +171,7 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Reality Anchors**: Structural elements maintaining stability across dimensions
 
 ### The Trading Nexus
-**Location**: Areas where [[Silverscale Banking House]] operations overlap with [[02_Worldbuilding/People/Sire]] networks
+**Location**: Areas where [[Silverscale Banking House]] operations overlap with [[02_Worldbuilding/People/Sire|02 Worldbuilding/People/Sire]] networks
 **Characteristics:**
 - Markets where goods from both worlds are traded simultaneously
 - Currency that exists as both crystal formations and pressure-stored memories
@@ -187,7 +187,7 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Quantum Transactions**: Purchases that exist in multiple states until observed
 
 ### The Battlefield Convergence
-**Location**: Sites of major conflicts between [[02_Worldbuilding/Groups/The Crystal Throne]] and [[Deep Mother Influence]]
+**Location**: Sites of major conflicts between [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] and [[Deep Mother Influence]]
 **Characteristics:**
 - Permanent war zones where both worlds' military forces clash
 - Weapons that function according to multiple reality sets
@@ -438,7 +438,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 
 ### Hidden Truths
 > [!warning] DM Only
-> Merged Reality Zones are not random phenomena—they're deliberate preparation by [[The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage]] for their reunion. Each zone serves as a testing ground for how successfully the two realities can integrate. The zones are essentially "practice runs" for convergence, allowing the divine lovers to experiment with different merger techniques while gathering data about what works.
+> Merged Reality Zones are not random phenomena—they're deliberate preparation by [[The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] for their reunion. Each zone serves as a testing ground for how successfully the two realities can integrate. The zones are essentially "practice runs" for convergence, allowing the divine lovers to experiment with different merger techniques while gathering data about what works.
 
 ### Zone Consciousness
 > [!warning] DM Secret
@@ -475,7 +475,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 
 ### Key Locations
 - [[The Harmonic Gardens]] - Peaceful merged zone with crystal-coral synthesis
-- [[02_Worldbuilding/Lore/The Storm of Convergence]] - Chaotic weather zone combining both worlds' forces
+- [[02_Worldbuilding/Lore/The Storm of Convergence|02 Worldbuilding/Lore/The Storm Of Convergence]] - Chaotic weather zone combining both worlds' forces
 - [[The Drowning Spires]] - Architectural merger of cities and ocean depths
 - [[The Trading Nexus]] - Commercial zone enabling interdimensional commerce
 - [[The Battlefield Convergence]] - Military zone with ongoing dimensional warfare
@@ -510,12 +510,12 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 ## Connections
 
 - [[Crystal Garden]]
-- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Healing Two Worlds]]
 - [[The Transformed Citizens]]
 - [[Aethermoor - Session 09 The Price of Unity]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -539,7 +539,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Places_Index]]
+- [[Master_Places_Index|Master Places Index]]
 - [[Deep Mother Influence]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]

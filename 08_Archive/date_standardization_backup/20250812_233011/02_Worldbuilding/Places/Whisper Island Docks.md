@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 
 ## Connections

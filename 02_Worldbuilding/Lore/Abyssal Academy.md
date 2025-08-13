@@ -2,13 +2,13 @@
 created: '2025-08-09'
 danger_level: 6
 founded: Third Age of Aquabyssos
-government: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze]]'
-parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+government: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 related_entities:
-- '[[02_Worldbuilding/Lore/Deep Mother]]'
-- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
+- '[[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'
+- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 specialties:
 - Deep Lore Research
 - Psionic Studies
@@ -39,9 +39,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Abyssal Academy stands as [[Aquabyssos]]'s most prestigious institution of higher learning, though its reputation is equally founded on academic excellence and dangerous research practices. Located in the scholar's district of [[02_Worldbuilding/Places/Abyssos Prime]], this imposing structure of living coral and cultivated brain coral serves as a beacon for those seeking knowledge that surface institutions would consider too perilous to pursue.
+The Abyssal Academy stands as [[Aquabyssos]]'s most prestigious institution of higher learning, though its reputation is equally founded on academic excellence and dangerous research practices. Located in the scholar's district of [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], this imposing structure of living coral and cultivated brain coral serves as a beacon for those seeking knowledge that surface institutions would consider too perilous to pursue.
 
-Under the guidance of the enigmatic [[02_Worldbuilding/People/Professor Euclid Mindmaze]], the Academy has become the primary center for research into abyssal phenomena, psionic theory, and the deep mysteries that even [[02_Worldbuilding/Places/Parliament of Echoes]] debates in hushed tones. Its graduates often find themselves at the forefront of [[Aquabyssos]]'s most critical missions, though many others are claimed by the very knowledge they seek to master.
+Under the guidance of the enigmatic [[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]], the Academy has become the primary center for research into abyssal phenomena, psionic theory, and the deep mysteries that even [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] debates in hushed tones. Its graduates often find themselves at the forefront of [[Aquabyssos]]'s most critical missions, though many others are claimed by the very knowledge they seek to master.
 
 ## Architecture & Layout
 
@@ -60,7 +60,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 - **The Pressure Testing Chambers**: Where students learn to survive extreme depths
 - **The Memory Pools**: Living libraries that store experiences directly
 - **The Aberrant Menagerie**: Controlled environment for studying dangerous creatures
-- **The Communion Chamber**: Where advanced students attempt contact with [[02_Worldbuilding/Lore/Deep Mother]]
+- **The Communion Chamber**: Where advanced students attempt contact with [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 - **The Resonance Laboratory**: For studying sonic and psychic phenomena
 - **The Surgical Theater**: Medical and biomantic research facility
 
@@ -123,11 +123,11 @@ Students can conduct independent research projects:
 
 ## Notable Alumni
 
-**Admiral Cassandra Stormwind**: Now serves in [[02_Worldbuilding/Places/Port Meridian]] naval forces
-**Sage Lysander Deepthought**: Adviser to the [[02_Worldbuilding/Places/Parliament of Echoes]]
+**Admiral Cassandra Stormwind**: Now serves in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] naval forces
+**Sage Lysander Deepthought**: Adviser to the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 **Dr. Helena Voidwalker**: Leading researcher in interdimensional phenomena
-**The Biomancer Collective**: Graduates who formed [[02_Worldbuilding/Groups/The Shadow Surgeons]]
-**Memory Merchant Valeria**: Operates in the [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+**The Biomancer Collective**: Graduates who formed [[02_Worldbuilding/Groups/The Shadow Surgeons|02 Worldbuilding/Groups/The Shadow Surgeons]]
+**Memory Merchant Valeria**: Operates in the [[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]
 
 ## Dangers & Controversies
 
@@ -139,7 +139,7 @@ Students can conduct independent research projects:
 - **Faculty Possession**: Some professors succumb to the entities they study
 
 ### Ethical Debates
-The Academy faces ongoing criticism from [[02_Worldbuilding/Groups/The Restoration Movement]] and surface sympathizers regarding:
+The Academy faces ongoing criticism from [[02_Worldbuilding/Groups/The Restoration Movement|02 Worldbuilding/Groups/The Restoration Movement]] and surface sympathizers regarding:
 - Use of sentient subjects in experiments
 - Research that threatens reality stability
 - Collaboration with hostile aberrant entities
@@ -147,15 +147,15 @@ The Academy faces ongoing criticism from [[02_Worldbuilding/Groups/The Restorati
 
 ## Quest Hooks
 
-1. **The Missing Class**: An entire advanced psionics class has vanished during a field study to [[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]
+1. **The Missing Class**: An entire advanced psionics class has vanished during a field study to [[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]
 2. **The Ethical Investigation**: Characters are hired to investigate rumors of illegal experimentation on prisoners
-3. **The Aberrant Outbreak**: Something has escaped from the Academy's menagerie and is terrorizing [[02_Worldbuilding/Places/Abyssos Prime]]
+3. **The Aberrant Outbreak**: Something has escaped from the Academy's menagerie and is terrorizing [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 4. **The Knowledge Thief**: Someone is stealing dangerous research and selling it to hostile factions
-5. **The Professor's Plea**: [[02_Worldbuilding/People/Professor Euclid Mindmaze]] secretly contacts the party about a faculty member who may be possessed
+5. **The Professor's Plea**: [[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]] secretly contacts the party about a faculty member who may be possessed
 6. **The Final Exam**: Characters must infiltrate the Academy to steal or destroy specific research
 7. **The Recruitment Drive**: The Academy seeks to hire the party as "field researchers" for dangerous expeditions
 8. **The Ethical Dilemma**: A breakthrough discovery could save lives but requires morally questionable methods
-9. **The Rival Institution**: [[02_Worldbuilding/Places/Crystalhaven]]'s magical colleges want the Academy's forbidden research
+9. **The Rival Institution**: [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s magical colleges want the Academy's forbidden research
 10. **The Graduation Crisis**: The Academy's most promising students are being targeted by unknown assassins
 
 ## Academic Resources
@@ -213,4 +213,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Convergence Point]]
+- [[02_Worldbuilding/Lore/Convergence Point|02 Worldbuilding/Lore/Convergence Point]]

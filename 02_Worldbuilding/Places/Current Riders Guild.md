@@ -28,7 +28,7 @@ world: Both
 
 ## Physical Description & Atmosphere
 
-The Current Riders Guild headquarters rises from the [[02_Worldbuilding/Lore/The Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
+The Current Riders Guild headquarters rises from the [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
 
 The main hall features a massive central pool connected to the open ocean via protected channels, allowing [[Sea Horse|Sea Horses]], [[Dolphin|Dolphins]], and other aquatic mounts to enter directly. Carved [[Pearlshell]] panels display the guild's motto in flowing Aquan script: *"Swift as the current, reliable as the tide."*
 
@@ -133,8 +133,8 @@ The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight 
 ## Connections
 
 - [[Coral Throne Syndicate]]
-- [[Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 
 
@@ -193,7 +193,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Current Riders Guild|02 Worldbuilding/Places/Current Riders Guild]]
 
 <!-- enriched: true -->
 - [[The Depth Plague]]

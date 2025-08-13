@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Free Current Safe Houses]]
+- [[02_Worldbuilding/People/Free Current Safe Houses|02 Worldbuilding/People/Free Current Safe Houses]]
 
 <!-- enriched: true -->
 

@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/scimitar.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

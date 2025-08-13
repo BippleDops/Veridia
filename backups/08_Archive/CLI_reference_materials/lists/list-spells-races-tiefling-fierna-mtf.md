@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Friends](/03_Mechanics/CLI/spells/friends-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/friends-xphb "XPHB"|Friends]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/charm-person-xphb "XPHB"|Charm Person]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/suggestion-xphb "XPHB"|Suggestion]] as 2nd-level, at class level 3
 
 ## Player-Facing Summary
 

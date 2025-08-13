@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.578118'
 world: Both
 ---
 
-# [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-xdmg.md)
+# [[3-Mechanics\CLI\bestiary\undead/avatar-of-death-xdmg|Avatar of Death]]
 *Source: Dungeon Master's Guide (2024) p. 252*  
 
 ```statblock
@@ -39,10 +39,10 @@ world: Both
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":

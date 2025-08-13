@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reef Shark]]
+- [[02_Worldbuilding/Places/Reef Shark|02 Worldbuilding/Places/Reef Shark]]
 
 <!-- enriched: true -->
 

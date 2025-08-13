@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur|02 Worldbuilding/Quests/The Lock Saboteur]]
 
 
 ## Connections

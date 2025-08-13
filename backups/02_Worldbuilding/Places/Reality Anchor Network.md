@@ -375,6 +375,6 @@ Legends speak of Reality Anchor Network as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [[02_Worldbuilding/Places/Reality Anchor Network|02 Worldbuilding/Places/Reality Anchor Network]]
 
 <!-- enriched: true -->

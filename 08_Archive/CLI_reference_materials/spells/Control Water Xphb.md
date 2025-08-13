@@ -40,7 +40,7 @@ world: Both
 - **Components:** V, S, M (a mixture of water and dust)
 - **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) up to 100 feet on a side, using one of the following effects. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] up to 100 feet on a side, using one of the following effects. As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action on your later turns, you can repeat the same effect or choose a different one.
 
 ## Flood
 
@@ -58,11 +58,11 @@ You cause flowing water in the area to move in a direction you choose, even if t
 
 ## Whirlpool
 
-You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes `2d8` Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check against your spell save DC.
+You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes `2d8` Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check against your spell save DC.
 
 ## Summary
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Cleric (Tempest Domain)](/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

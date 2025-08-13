@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Tradeway Road]]
+- [[02_Worldbuilding/Quests/Tradeway Road|02 Worldbuilding/Quests/Tradeway Road]]
 
 
 ## Connections

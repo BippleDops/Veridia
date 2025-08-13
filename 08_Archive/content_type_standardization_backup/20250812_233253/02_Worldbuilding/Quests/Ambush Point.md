@@ -32,7 +32,7 @@ obsidianUIMode: preview
 
 **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare  
 **Level:** 5-10  
-**Location:** [[Border Territories]], [[02_Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove]]  
+**Location:** [[Border Territories]], [[02_Worldbuilding/Lore/Tradeway|02 Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove]]  
 **Duration:** 4-6 sessions  
 **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations
 
@@ -483,7 +483,7 @@ This quest provides a masterclass in tactical planning and execution while explo
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -503,7 +503,7 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 - [[Crystal Wardens]]
 - [[The Shadow Conspiracy]]
 - [[The Seven Shards]]

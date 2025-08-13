@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 
 ## Connections

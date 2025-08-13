@@ -24,7 +24,7 @@ world: Both
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

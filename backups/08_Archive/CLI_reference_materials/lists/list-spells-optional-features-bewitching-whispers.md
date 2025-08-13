@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Compulsion](/03_Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/compulsion-xphb "XPHB"|Compulsion]]
 
 ## Player-Facing Summary
 

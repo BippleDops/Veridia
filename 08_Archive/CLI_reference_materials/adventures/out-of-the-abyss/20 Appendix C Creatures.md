@@ -25,31 +25,31 @@ This appendix presents new monsters and NPCs encountered in this adventure.
 
 | Monster | Challenge |
 |---------|-----------|
-| [Bridesmaid of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md) | 1/8 |
-| [Drow spore servant](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) | 1/8 |
-| [Derro](/03_Mechanics/CLI/bestiary/aberration/derro-mpmm.md) | 1/4 |
-| [Ixitxachitl](/03_Mechanics/CLI/bestiary/aberration/ixitxachitl-oota.md) | 1/4 |
-| [Male steeder](/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm.md) | 1/4 |
-| [Duergar spore servant](/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota.md) | 1/2 |
-| [Duergar soulblade](/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm.md) | 1 |
-| [Female steeder](/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) | 1 |
-| [Awakened zurkhwood](/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) | 2 |
-| [Chamberlain of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota.md) | 2 |
-| [Droki](/03_Mechanics/CLI/bestiary/npc/droki-oota.md) (NPC) | 2 |
-| [Duergar darkhaft](/03_Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota.md) | 2 |
-| [Duergar kavalrachni](/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md) | 2 |
-| [Duergar Keeper of the Flame](/03_Mechanics/CLI/bestiary/humanoid/duergar-keeper-of-the-flame-oota.md) | 2 |
-| [Duergar Stone Guard](/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) | 2 |
-| [Duergar xarrorn](/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm.md) | 2 |
-| [Grisha](/03_Mechanics/CLI/bestiary/npc/grisha-oota.md) (NPC) | 2 |
-| [Narrak](/03_Mechanics/CLI/bestiary/npc/narrak-oota.md) (NPC) | 2 |
-| [Vampiric ixitxachitl](/03_Mechanics/CLI/bestiary/aberration/vampiric-ixitxachitl-oota.md) | 2 |
-| [Derro savant](/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm.md) | 3 |
-| [Hook horror spore servant](/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md) | 3 |
-| [Troglodyte champion of Laogzed](/03_Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota.md) | 3 |
-| [Chuul spore servant](/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota.md) | 4 |
-| [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (NPC) | 4 |
-| [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) (NPC) | 4 |
+| [[/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]] | 1/8 |
+| [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|Drow spore servant]] | 1/8 |
+| [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|Derro]] | 1/4 |
+| [[/03_Mechanics/CLI/bestiary/aberration/ixitxachitl-oota|Ixitxachitl]] | 1/4 |
+| [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|Male steeder]] | 1/4 |
+| [[/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota|Duergar spore servant]] | 1/2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|Duergar soulblade]] | 1 |
+| [[/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm|Female steeder]] | 1 |
+| [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|Awakened zurkhwood]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (NPC) | 2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota|Duergar darkhaft]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-keeper-of-the-flame-oota|Duergar Keeper of the Flame]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|Duergar xarrorn]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/npc/grisha-oota|Grisha]] (NPC) | 2 |
+| [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] (NPC) | 2 |
+| [[/03_Mechanics/CLI/bestiary/aberration/vampiric-ixitxachitl-oota|Vampiric ixitxachitl]] | 2 |
+| [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|Derro savant]] | 3 |
+| [[/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota|Hook horror spore servant]] | 3 |
+| [[/03_Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota|Troglodyte champion of Laogzed]] | 3 |
+| [[/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota|Chuul spore servant]] | 4 |
+| [[/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota|The Pudding King]] (NPC) | 4 |
+| [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] (NPC) | 4 |
 ^monster-challenge
 
 ## Player-Facing Summary

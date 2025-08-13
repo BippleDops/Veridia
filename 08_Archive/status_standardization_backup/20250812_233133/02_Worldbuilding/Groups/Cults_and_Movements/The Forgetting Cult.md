@@ -55,7 +55,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]]
 
 
 ## Connections

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Ambush - Optional]]
+- [[02_Worldbuilding/Groups/Shadow Ambush - Optional|02 Worldbuilding/Groups/Shadow Ambush Optional]]
 
 
 ## Connections

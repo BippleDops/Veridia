@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
 
 
 ## Connections
@@ -33,7 +33,7 @@ world: Both
 - [[Vex Shadowthorn]]
 - [[Crystalhaven]]
 - [[The Bone Colosseum]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

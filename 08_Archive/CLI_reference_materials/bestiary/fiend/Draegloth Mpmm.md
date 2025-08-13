@@ -25,10 +25,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draegloth-mpmm-draegloth-mpmm.svg)
 
-# [Draegloth](3-Mechanics\CLI\bestiary\fiend/draegloth-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/draegloth-mpmm|Draegloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [[/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm|glabrezu]]. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -56,18 +56,18 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"
 "traits":
-  - "desc": "The draegloth has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The draegloth has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -81,9 +81,9 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
     "name": "Claw"
   - "desc": "The draegloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-      \nAt will: [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md)\n\n1/day each: [confusion](/03_Mechanics/CLI/spells/confusion-xphb.md),\
-      \ [faerie fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/dancing-lights-xphb|dancing lights]],\
+      \ [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]]\n\n1/day each: [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]],\
+      \ [[/03_Mechanics/CLI/spells/faerie-fire-xphb|faerie fire]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

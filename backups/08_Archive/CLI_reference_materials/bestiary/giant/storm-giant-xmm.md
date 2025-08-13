@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg)
 
-# [Storm Giant](3-Mechanics\CLI\bestiary\giant/storm-giant-xmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/storm-giant-xmm|Storm Giant]]
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Storm Giant
@@ -61,13 +61,13 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+8"
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+14"
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+8"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+10"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
@@ -85,19 +85,19 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
       \ plus 13 (3d8) Lightning damage."
     "name": "Storm Sword"
   - "desc": "Ranged Attack Roll: +14, range 500 ft. Hit: 22 (2d12 + 9) Lightning\
-      \ damage, and the target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Deafened](/03_Mechanics/CLI/conditions.md#Deafened) conditions until the\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ and [[/03_Mechanics/CLI/conditions#Deafened|Deafened]] conditions until the\
       \ start of the giant's next turn."
     "name": "Thunderbolt"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [Cylinder](/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ [[/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb|Cylinder]]\
       \ originating from a point the giant can see within 500 feet. Failure: 55\
       \ (10d10) Lightning damage. Success: Half damage."
     "name": "Lightning Storm (Recharge 5-6)"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\nAt will:\
-      \ [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Light](/03_Mechanics/CLI/spells/light-xphb.md)\n\
-      \n1/day: [Control Weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)"
+      \ [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]], [[/03_Mechanics/CLI/spells/light-xphb|Light]]\n\
+      \n1/day: [[/03_Mechanics/CLI/spells/control-weather-xphb|Control Weather]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

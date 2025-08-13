@@ -57,7 +57,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 - [Splint Barding](#Splint%20Barding)
 - [Studded Leather Barding](#Studded%20Leather%20Barding)
 
-### Breastplate Barding
+## Breastplate Barding
 
 - **Armor Class**: 14
 - **Cost**: 1,600 gp

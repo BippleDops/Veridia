@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Portal Wars]]
+- [[02_Worldbuilding/Places/The Portal Wars|02 Worldbuilding/Places/The Portal Wars]]
 
 <!-- enriched: true -->
 

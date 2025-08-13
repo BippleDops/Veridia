@@ -20,7 +20,7 @@ updated: '2025-08-13T01:18:34.606969+00:00'
 
 ## Overview
 
-The [[02_Worldbuilding/People/The Shadow Conspiracy]]'s most devastating weapon is not physical force, but the ability to rewrite the very essence of identity itself. Through a combination of crystalline resonance technology, shadow essence manipulation, and surgical precision, they have developed methods to extract, modify, store, and transplant consciousness with unprecedented accuracy.
+The [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]]'s most devastating weapon is not physical force, but the ability to rewrite the very essence of identity itself. Through a combination of crystalline resonance technology, shadow essence manipulation, and surgical precision, they have developed methods to extract, modify, store, and transplant consciousness with unprecedented accuracy.
 
 These technologies represent the convergence of three disciplines: the ancient shadow magic practiced by void-touched entities, the crystalline resonance science pioneered by Aquabyssos's greatest minds, and the surgical precision perfected by generations of medical practitioners. The result is a toolkit that can reshape identity, modify memory, and transfer consciousness between vessels with terrifying reliability.
 

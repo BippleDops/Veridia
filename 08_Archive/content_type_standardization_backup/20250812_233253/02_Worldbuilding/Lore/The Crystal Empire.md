@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy|02 Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
 
 
 ## Connections

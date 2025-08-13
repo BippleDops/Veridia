@@ -41,7 +41,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 - [Silvered Needle](#Silvered%20Needle)
 - [Silvered Sling Bullet](#Silvered%20Sling%20Bullet)
 
-### Silvered Arrow
+## Silvered Arrow
 
 - **Weight**: 0.05 lbs.
 

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-centaur-trooper-xmm.svg)
 
-# [Centaur Trooper](3-Mechanics\CLI\bestiary\fey/centaur-trooper-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/centaur-trooper-xmm|Centaur Trooper]]
 *Source: Monster Manual (2024) p. 67. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
@@ -60,9 +60,9 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+6"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
@@ -76,12 +76,12 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The centaur moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. Strength\
       \ Saving Throw: DC 14. Failure: 7 (1d6 + 4) Bludgeoning damage, and the target\
-      \ has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
+      \ has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
     "name": "Trampling Charge (Recharge 5-6)"
 "source":
   - "XMM"

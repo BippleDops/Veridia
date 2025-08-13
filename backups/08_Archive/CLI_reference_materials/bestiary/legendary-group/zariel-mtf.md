@@ -28,8 +28,8 @@ _Source: Mordenkainen's Tome of Foes_
 
 On initiative count 20 (losing initiative ties), Zariel can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row:
 
-- Zariel casts [major image](/03_Mechanics/CLI/spells/major-image-xphb.md) four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of the illusion for 1 minute. A [frightened](/03_Mechanics/CLI/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- Zariel casts her innate [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) spell.  
+- Zariel casts [[/03_Mechanics/CLI/spells/major-image-xphb|major image]] four times at its lowest level, targeting different areas with the spell. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [[/03_Mechanics/CLI/conditions#Frightened|frightened]] of the illusion for 1 minute. A [[/03_Mechanics/CLI/conditions#Frightened|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- Zariel casts her innate [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]] spell.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

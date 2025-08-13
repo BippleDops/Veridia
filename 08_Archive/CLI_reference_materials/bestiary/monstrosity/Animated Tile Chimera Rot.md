@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-tile-chimera-rot-animated-tile-chimera-rot.svg)
 
-# [Animated Tile Chimera](3-Mechanics\CLI\bestiary\monstrosity/animated-tile-chimera-rot.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/animated-tile-chimera-rot|Animated Tile Chimera]]
 *Source: The Rise of Tiamat p. 42*  
 
 ```statblock
@@ -46,13 +46,13 @@ world: Both
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "piercing"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"

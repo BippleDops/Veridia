@@ -36,7 +36,7 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 A powerful sea hag might have the following additional lair actions:
 
 - The hag fills up to four 10-foot cubes of water with ink. The inky areas are heavily obscured for 1 minute, although a steady, strong underwater current disperses the ink on initiative count 10. The hag ignores the obscuring effect of the ink.  
-- The hag chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [simulacrum](/03_Mechanics/CLI/spells/simulacrum-xphb.md) spell). This hideous simulacrum is formed out of seaweed, slime, half-eaten fish, and other garbage, but still generally resembles the creature it is imitating. This simulacrum obeys the hag's commands and is destroyed on initiative count 20 on the next round.  
+- The hag chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[/03_Mechanics/CLI/spells/simulacrum-xphb|simulacrum]] spell). This hideous simulacrum is formed out of seaweed, slime, half-eaten fish, and other garbage, but still generally resembles the creature it is imitating. This simulacrum obeys the hag's commands and is destroyed on initiative count 20 on the next round.  
 
 ## Regional effects
 _Source: Monster Manual_
@@ -46,7 +46,7 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful sea hag creates one or more of the following additional regional effects within 1 mile of her lair:

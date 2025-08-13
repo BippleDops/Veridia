@@ -259,7 +259,7 @@ When shadow acts independently:
 - **Variable**: Cleric/Paladin (deity-dependent)
 
 ## 🔗 Related Systems
-- [[03_Mechanics/Depth Survival Mechanics]]
+- [[03_Mechanics/Depth Survival Mechanics|03 Mechanics/Depth Survival Mechanics]]
 - [[Shadow Separation Rules]]
 - [[Crystal Plague Progression]]
 - [[Memory Tide Navigation]]
@@ -298,10 +298,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
+- [[Master_Campaign_Index|Master Campaign Index]]
 
 
 ## Connections
 
 - [[Corallion]]
-- [[Vehicle_Core_Rules]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]

@@ -359,6 +359,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]]
+- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast|02 Worldbuilding/Places/Quartermaster Judith Steadfast]]
 
 <!-- enriched: true -->

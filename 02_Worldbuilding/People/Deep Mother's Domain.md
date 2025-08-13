@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Deep Mother's Domain]]
+- [[02_Worldbuilding/People/Deep Mother's Domain|02 Worldbuilding/People/Deep Mother's Domain]]
 
 <!-- enriched: true -->
 

@@ -28,7 +28,7 @@ world: Both
 
 ## Overview
 
-The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
+The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
 
 The system recognizes that encounters in the merged realms are rarely simple or straightforward. A "random" meeting with travelers might reveal diplomatic tensions, uncover smuggling operations, or provide crucial information about upcoming threats. Environmental encounters can shift from natural hazards to magical phenomena to signs of larger problems requiring investigation.
 
@@ -472,7 +472,7 @@ Track resolved encounters and their outcomes to influence future encounters:
 - **[[Environmental Hazards]]**: Natural and supernatural dangers during encounters
 - **[[Multi-Phase Boss Fights]]**: Complex combat encounters
 - **[[Reputation System]]**: Social standing effects on encounter reactions
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental health effects of disturbing encounters
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental health effects of disturbing encounters
 
 ### Specific Encounter Tables
 - **[[Random Encounter Tables - Aquabyssos]]**: Detailed underwater encounter tables
@@ -524,7 +524,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Crystal Forest]]
 - [[Crystal-Corruption-Tracking-Sheet]]
 - [[Investigation Procedures]]

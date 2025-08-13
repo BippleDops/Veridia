@@ -31,8 +31,8 @@ consciousness_fragments: 10000
 portrait: ''
 relationship_type: ruler
 relationships:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 related_quests:
 - '[[Unite the Emperor]]'
@@ -137,10 +137,10 @@ When shadows began gaining independence 50 years ago, Malachus realized that a s
 ## Relationships
 
 ### Complex Dynamics
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Technically rules but can't enforce
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Technically rules but can't enforce
 - **[[Marina Red Tide Coralheart - Aquabyssos]]:** One fragment trusts her, others don't
-- **[[02_Worldbuilding/People/Senator Glaucus]]:** All fragments know he's a shadow
+- **[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]:** All fragments know he's a shadow
 
 ### The Fragment Wars
 Different consciousness fragments have different relationships:
@@ -346,7 +346,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
 
 <!-- enriched: true -->
 - [[Queen Seraphina]]

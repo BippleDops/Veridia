@@ -28,7 +28,7 @@ world: Both
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*

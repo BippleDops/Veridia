@@ -113,7 +113,7 @@ For those seeking special privileges or access to restricted areas of the harbor
 
 ### Key Relationships
 - **[[Captain Thaddeus Stormwright]]:** Rival and occasional ally, represents the old guard of maritime authority
-- **[[02_Worldbuilding/Places/Merchant's Consortium]]:** Complex relationship mixing cooperation and mutual suspicion
+- **[[02_Worldbuilding/Places/Merchant's Consortium|02 Worldbuilding/Places/Merchant's Consortium]]:** Complex relationship mixing cooperation and mutual suspicion
 - **[[Dockworkers' Union]]:** Strong alliance, Luna protects worker rights in exchange for information and loyalty
 - **[[Sea Witches Coven]]:** Maintains respectful distance while occasionally trading favors
 - **[[Pirate Lords of the Spiral Depths]]:** Unofficial non-aggression pact, information sharing about mutual threats
@@ -201,7 +201,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift|02 Worldbuilding/Places/Harbor Master Luna Freedrift]]
 
 <!-- enriched: true -->

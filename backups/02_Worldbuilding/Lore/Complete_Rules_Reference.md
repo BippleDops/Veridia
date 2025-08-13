@@ -15,12 +15,12 @@ world: Both
 
 ## Cross-References
 
-- [[07_Player_Resources/Quick_Start_Guide]]
+- [[07_Player_Resources/Quick_Start_Guide|07 Player Resources/Quick Start Guide]]
 
 
 ## Connections
 
-- [[Quick_Start_Guide]]
+- [[Quick_Start_Guide|Quick Start Guide]]
 
 ## Player-Facing Summary
 

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Mistwalker]]
+- [[02_Worldbuilding/People/Captain Mistwalker|02 Worldbuilding/People/Captain Mistwalker]]
 
 <!-- enriched: true -->
 

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/University Philosophy Departments]]
+- [[02_Worldbuilding/Places/University Philosophy Departments|02 Worldbuilding/Places/University Philosophy Departments]]
 
 <!-- enriched: true -->
 

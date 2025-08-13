@@ -62,7 +62,7 @@ This is the items description.
 
 *Source:*
 
-# Features
+## Features
 
 Cost: `INPUT[number:cost]`
 
@@ -77,11 +77,11 @@ Category: `INPUT[inlineListSuggester(option(Alchemical), option(Artifact), optio
 **Trigger:** Does something trigger the activation?
 **Effect:** What happens when activated?
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here.  Secrets perhaps?
 
-# Connections
+## Connections
 Is the item linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`

@@ -23,15 +23,15 @@ world: Both
 
 | Category | Examples |
 |----------|----------|
-| "Armor" | [+1 Leather Armor](/03_Mechanics/CLI/items/1-armor-xdmg.md), [+1 Shield](/03_Mechanics/CLI/items/1-shield-xdmg.md) |
-| "Potions" | [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| "Rings" | [Ring of Invisibility](/03_Mechanics/CLI/items/ring-of-invisibility-xdmg.md) |
-| "Rods" | [Immovable Rod](/03_Mechanics/CLI/items/immovable-rod-xdmg.md) |
-| "Scrolls" | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) |
-| "Staffs" | [Staff of Striking](/03_Mechanics/CLI/items/staff-of-striking-xdmg.md) |
-| "Wands" | [Wand of Fireballs](/03_Mechanics/CLI/items/wand-of-fireballs-xdmg.md) |
-| "Weapons" | [+1 Ammunition](/03_Mechanics/CLI/items/1-ammunition-xdmg.md), [+1 Longsword](/03_Mechanics/CLI/items/1-weapon-xdmg.md) |
-| "Wondrous Items" | [Bag of Holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md), [Boots of Elvenkind](/03_Mechanics/CLI/items/boots-of-elvenkind-xdmg.md) |
+| "Armor" | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 Leather Armor]], [[/03_Mechanics/CLI/items/1-shield-xdmg|+1 Shield]] |
+| "Potions" | [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]] |
+| "Rings" | [[/03_Mechanics/CLI/items/ring-of-invisibility-xdmg|Ring of Invisibility]] |
+| "Rods" | [[/03_Mechanics/CLI/items/immovable-rod-xdmg|Immovable Rod]] |
+| "Scrolls" | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] |
+| "Staffs" | [[/03_Mechanics/CLI/items/staff-of-striking-xdmg|Staff of Striking]] |
+| "Wands" | [[/03_Mechanics/CLI/items/wand-of-fireballs-xdmg|Wand of Fireballs]] |
+| "Weapons" | [[/03_Mechanics/CLI/items/1-ammunition-xdmg|+1 Ammunition]], [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 Longsword]] |
+| "Wondrous Items" | [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|Bag of Holding]], [[/03_Mechanics/CLI/items/boots-of-elvenkind-xdmg|Boots of Elvenkind]] |
 ^magic-item-categories
 
 ## Player-Facing Summary

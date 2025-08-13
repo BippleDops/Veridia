@@ -33,9 +33,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range. Any creature or object entirely inside the [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) has [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to Thunder damage, and creatures have the [Deafened](/03_Mechanics/CLI/conditions.md#Deafened) condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered on a point you choose within range. Any creature or object entirely inside the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to Thunder damage, and creatures have the [[/03_Mechanics/CLI/conditions#Deafened|Deafened]] condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

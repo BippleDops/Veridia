@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dream Enhancement Techniques]]
+- [[02_Worldbuilding/Places/Dream Enhancement Techniques|02 Worldbuilding/Places/Dream Enhancement Techniques]]
 
 <!-- enriched: true -->
 

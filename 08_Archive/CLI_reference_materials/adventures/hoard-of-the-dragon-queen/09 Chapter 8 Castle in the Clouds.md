@@ -23,7 +23,7 @@ world: Both
 
 The cult has acquired a friendly roost in Skyreach Castle, a flying fortress built by cloud giants. This castle is docked near the village of Parnast and guarded by mists, magic, and monsters. The fortress contains much of the treasure and valuables that the cult has looted from the surrounding region—treasure that will be added to an even more monstrous hoard at the Well of Dragons, where the cult plans to summon forth Tiamat.
 
-By the time the characters arrive in the village, [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) has already announced that the fortress must be made ready for departure. Characters should have time to deal with Talis and possibly other cultists before it takes to the sky.
+By the time the characters arrive in the village, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] has already announced that the fortress must be made ready for departure. Characters should have time to deal with Talis and possibly other cultists before it takes to the sky.
 
 The characters must be smart in how they tackle storming the castle—it's clearly a well-fortified place. They also can't wait too long. If the characters tarry, Skyreach Castle leaves to pick up more treasure from another lair of the cult. The exact moment when it takes flight is up to you as DM.
 
@@ -32,8 +32,8 @@ If Talis is with the party, she can use her rank and influence to get the charac
 ## Parnast
 
 > [!gallery]
-> ![Map 8.1: Parnast](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/046-map-8-1-parnast.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/047-map-8-1-parnast-player.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/046-map-8-1-parnast.webp#gallery|Map 8.1: Parnast]]
+> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/047-map-8-1-parnast-player.webp#gallery|Player Version]]
 
 ### 1. Village of Parnast
 
@@ -46,7 +46,7 @@ This small village is secretly under the control of the Cult of the Dragon. The 
 
 Cultists posing as villagers are unfriendly toward visitors, while villagers under the cult's sway remain silent and withdraw from visitors for fear of incurring the cult's wrath.
 
-If the characters demand to speak with someone in charge, they are directed to [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md) (appendix D) but are also warned that he has no time or patience for dealing with outlaws.
+If the characters demand to speak with someone in charge, they are directed to [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]] (appendix D) but are also warned that he has no time or patience for dealing with outlaws.
 
 > [!note] The Helpful Wheelwright
 > 
@@ -55,14 +55,14 @@ If the characters demand to speak with someone in charge, they are directed to [
 
 ### Rumors and Information
 
-Laborers, porters, craftsfolk, and cultists live and work in the village, and although they are reluctant to talk, they can be bribed, charmed, or talked around with a successful DC 18 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check. The following bits of information are available, one for each success, and should be doled out in the order presented below.
+Laborers, porters, craftsfolk, and cultists live and work in the village, and although they are reluctant to talk, they can be bribed, charmed, or talked around with a successful DC 18 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check. The following bits of information are available, one for each success, and should be doled out in the order presented below.
 
-- The highest-ranking member of the cult to frequent Parnast is the half-dragon, Wyrmspeaker [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md). (If she is still alive and free, [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) has gone into hiding. No one in the village knows where she is, although they claim that Skyreach Castle is the most likely place to find her.)  
-- [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)'s deputy is a cult veteran and dragonsoul name [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md). He commands the cult forces in Parnast, and he monitors all visitors and merchandise passing through the village.  
+- The highest-ranking member of the cult to frequent Parnast is the half-dragon, Wyrmspeaker [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]. (If she is still alive and free, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] has gone into hiding. No one in the village knows where she is, although they claim that Skyreach Castle is the most likely place to find her.)  
+- [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s deputy is a cult veteran and dragonsoul name [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]]. He commands the cult forces in Parnast, and he monitors all visitors and merchandise passing through the village.  
 - The cult has controlled Parnast for more than a year, and it basically brought in a company of thugs to take over.  
 - Some villagers were already cult infiltrators, and others signed up when it became clear that the cultists are rich and have a private army.  
-- The cultists keep trained wyverns in the village stables. The cultists use them to reach the castle while it is airborne. (No one in the village, including [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md), knows where the castle goes after it leaves Parnast.)  
-- Characters can also learn one of two pass-phrases for safely entering for the castle from Gundalin or anyone who becomes a friendly helper to them: "Tiamat, Our Mother and Strength" or "Hail [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)."  
+- The cultists keep trained wyverns in the village stables. The cultists use them to reach the castle while it is airborne. (No one in the village, including [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]], knows where the castle goes after it leaves Parnast.)  
+- Characters can also learn one of two pass-phrases for safely entering for the castle from Gundalin or anyone who becomes a friendly helper to them: "Tiamat, Our Mother and Strength" or "Hail [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]."  
 
 ### 2. The Golden Tankard
 
@@ -80,9 +80,9 @@ If the characters sit and order ale, well and good.
 > "I will send the pot boy out to you in a moment with the finest available in my humble tavern." He goes toward the kitchen, bellowing for a cask.
 ^1f9
 
-The owner is [Raggnar Redtooth](/03_Mechanics/CLI/bestiary/npc/raggnar-redtooth-hotdq.md), who seems friendly enough but secretly takes bribes from the Cult of the Dragon. Strangers are never really welcome in his tavern, but they get service while he informs [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md) by sending a messenger. Raggnar has a violent past and is treated as an unarmored [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) (AC 10). He keeps his weapons behind the bar.
+The owner is [[/03_Mechanics/CLI/bestiary/npc/raggnar-redtooth-hotdq|Raggnar Redtooth]], who seems friendly enough but secretly takes bribes from the Cult of the Dragon. Strangers are never really welcome in his tavern, but they get service while he informs [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]] by sending a messenger. Raggnar has a violent past and is treated as an unarmored [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] (AC 10). He keeps his weapons behind the bar.
 
-![Captain Othelstan](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/048-tod-08-02.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/048-tod-08-02.webp#center|Captain Othelstan]]
 
 Prying information from Raggnar and his clientele is difficult. The villagers want to keep the characters occupied, and they ask for them to tell tales of their journey, they inquire about the characters' families and where they are from, and they query how the party got here.
 
@@ -92,7 +92,7 @@ Because the cultists are about to ship a castle full of treasure from the villag
 
 #### Treasure
 
-The Golden Tankard takes its name from a magic item that Raggnar found years ago: a golden stein decorated with dancing dwarves and grain patterns. This is a [tankard of plenty](/03_Mechanics/CLI/items/tankard-of-plenty-hotdq.md) (see Appendix C). The command word is "Illefarn".
+The Golden Tankard takes its name from a magic item that Raggnar found years ago: a golden stein decorated with dancing dwarves and grain patterns. This is a [[/03_Mechanics/CLI/items/tankard-of-plenty-hotdq|tankard of plenty]] (see Appendix C). The command word is "Illefarn".
 
 ### 3. The Stable
 
@@ -101,7 +101,7 @@ The Golden Tankard takes its name from a magic item that Raggnar found years ago
 > The two big doors leading into the stable are sealed, and the place looks shuttered.
 ^1fc
 
-If the characters ask around, the villagers claim that the stable was put out of business some time ago. Anyone listening carefully hears a bellowing noise, though (no check required). The cult keeps two [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) in the stable; sometimes, they unleash a wyvern-sized roar.
+If the characters ask around, the villagers claim that the stable was put out of business some time ago. Anyone listening carefully hears a bellowing noise, though (no check required). The cult keeps two [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] in the stable; sometimes, they unleash a wyvern-sized roar.
 
 Cracked sheep bones and a few ox skulls cover the stable floor. Other than riding harnesses for the wyverns, there is no treasure here.
 
@@ -109,7 +109,7 @@ Cracked sheep bones and a few ox skulls cover the stable floor. Other than ridin
 > 
 > The wyverns in the stable (area 3) are trained to carry up to two Medium or six Small riders at a time. The difficult part is getting their harnesses attached so that riders don't fall off, and giving the proper commands once airborne.
 > 
-> Any character can put the harness on a wyvern with a successful DC 10 Wisdom ([Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling)) check. If the check fails by 5 or more, the wyvern strenuously objects and attacks the character once with its tail stinger as a reaction. The wyverns aren't choosy about who rides them, but convincing a wyvern to fly or move in a specific direction requires an action to make a DC 15 Wisdom ([Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling)) check; if the check fails, the wyvern ignores the rider's commands until the rider's next turn. After a rider succeeds on two such checks, the wyvern goes where the rider wants for the next hour, or until it takes damage or the rider dismounts.
+> Any character can put the harness on a wyvern with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) check. If the check fails by 5 or more, the wyvern strenuously objects and attacks the character once with its tail stinger as a reaction. The wyverns aren't choosy about who rides them, but convincing a wyvern to fly or move in a specific direction requires an action to make a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) check; if the check fails, the wyvern ignores the rider's commands until the rider's next turn. After a rider succeeds on two such checks, the wyvern goes where the rider wants for the next hour, or until it takes damage or the rider dismounts.
 > 
 > The castle is easily spotted, day or night, out to a range of five miles. The wyverns are faster than the castle in flight, and they can catch up to it.
 ^wyvern-riding-and-castle-catching
@@ -138,24 +138,24 @@ The statue of Mielikki is not only freshly painted but also has a set of small c
 
 Timber merchants, woodsfolk, and others haggle over the finer lumber here, and wagons carry supplies. See areas 2, 3, and 4 for more information about the tavern, the stable, and the shrine.
 
-The well is 40 feet deep, cold, and pure. Five human [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) loyal to the Cult of the Dragon keep an eye out here at all times, making sure that villagers do as they are told. If the guards are confronted, one runs to fetch [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md) as the villagers flee. Only the wheelwright Gundalin sticks around to watch, and even he does so from behind a heavy wooden oxcart.
+The well is 40 feet deep, cold, and pure. Five human [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] loyal to the Cult of the Dragon keep an eye out here at all times, making sure that villagers do as they are told. If the guards are confronted, one runs to fetch [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]] as the villagers flee. Only the wheelwright Gundalin sticks around to watch, and even he does so from behind a heavy wooden oxcart.
 
 > [!note] Timing the Departure
 > 
 > How long can the characters dawdle? The question of timing is tricky, since the party might head straight to the castle and miss a lot of possible information and roleplaying in Parnast. So, Skyreach Castle should leave whenever it seems most dramatic to you as DM, but here are some tips to help you choose the best moment.
 > 
-> **Storming the Castle Immediately.** Aggressive players can assail the castle while it's on the ground. In addition to dealing with the castle's defenses, they must also contend with reinforcements from Parnast. Such reinforcements include [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md), one [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md), six [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), and three [dragonclaws](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md). In addition, Othelstan and the veteran (his lieutenant) ride a pair of [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) (see area 3).
+> **Storming the Castle Immediately.** Aggressive players can assail the castle while it's on the ground. In addition to dealing with the castle's defenses, they must also contend with reinforcements from Parnast. Such reinforcements include [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]], one [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]], six [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], and three [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaws]]. In addition, Othelstan and the veteran (his lieutenant) ride a pair of [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] (see area 3).
 > 
-> **Dawdling and Resting.** Any party that spends an hour or more in the village asking questions, getting a meal or rest, or otherwise not getting aboard the castle might miss the boat. The castle leaves one hour after the cultists realize the village has been infiltrated. After the castle is gone, the villagers drop all pretense of friendliness and send [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md) (see appendix D), one [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md), and six [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) to attempt to capture the intruders and either kill them as sacrifices or drive them out of the village. Othelstan can also call for reinforcements in the form of three [dragonclaws](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md), one of whom takes the time to release the two [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) in the stables (see area 3).
+> **Dawdling and Resting.** Any party that spends an hour or more in the village asking questions, getting a meal or rest, or otherwise not getting aboard the castle might miss the boat. The castle leaves one hour after the cultists realize the village has been infiltrated. After the castle is gone, the villagers drop all pretense of friendliness and send [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]] (see appendix D), one [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]], and six [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] to attempt to capture the intruders and either kill them as sacrifices or drive them out of the village. Othelstan can also call for reinforcements in the form of three [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaws]], one of whom takes the time to release the two [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] in the stables (see area 3).
 > 
-> **Last Recourse.** If the castle flies away without the characters, Gundalin or another villager predisposed to help the party might provide assistance before [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md) and his retinue arrive, suggesting that the characters rush to the stables, mount the wyverns, and take flight at once. The characters have a few rounds to reach the stables before Othelstan has the building surrounded and demands their surrender.
+> **Last Recourse.** If the castle flies away without the characters, Gundalin or another villager predisposed to help the party might provide assistance before [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]] and his retinue arrive, suggesting that the characters rush to the stables, mount the wyverns, and take flight at once. The characters have a few rounds to reach the stables before Othelstan has the building surrounded and demands their surrender.
 ^timing-the-departure
 
 ## Skyreach Castle
 
 Eons ago, cloud giants built this flying fortress to take their ancient battle against dragonkind into the skies. The spirit of a giant enables it to fly—this ancient bond dates back to the days when giants and dragons fought great wars. The binding kept dragons from taking these castles for their own, and the bond still holds centuries later.
 
-The cult has struck a bargain with the castle's owner, a cloud giant named [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) who harbors no particular hatred of dragonkind (or anything else, for that matter). The spirit of his deceased wife, Esclarotta, controls the castle's propulsion and buoyancy. The cult cannot afford to alienate [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md), because the castle's spirit will not obey them.
+The cult has struck a bargain with the castle's owner, a cloud giant named [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] who harbors no particular hatred of dragonkind (or anything else, for that matter). The spirit of his deceased wife, Esclarotta, controls the castle's propulsion and buoyancy. The cult cannot afford to alienate [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]], because the castle's spirit will not obey them.
 
 Skyreach Castle is carved from ice so thick as to be opaque. The ice is as strong and impenetrable as granite, thanks to ancient cloud giant wizardry. Towers and walls surround an iceberg core that's been hollowed out to serve as the lair of a powerful white dragon allied with the cult. The whole thing can be hidden under a veil of fog and cloud, or set to move slowly with the wind. See area 19 for details.
 
@@ -172,22 +172,22 @@ All castle ceilings are 30 feet tall to accommodate the cloud giants who built i
 All doors in the castle are made of 1-foot-thick ice as hard and tough as stone, but only half the weight. They are fitted with iron hinges and handles, and sized for giants. A normal door is 20 feet tall, 8 feet wide, and has its handles situated 10 feet above floor level.
 
 > [!gallery]
-> ![Map 8.2: Skyreach Castle](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/049-map-8-2-skyreach.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/050-map-8-2-skyreach-player.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/049-map-8-2-skyreach.webp#gallery|Map 8.2: Skyreach Castle]]
+> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/050-map-8-2-skyreach-player.webp#gallery|Player Version]]
 
 ### Important Nonplayer Characters
 
-Skyreach Castle is home to the cloud giant [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md), a pair of [stone giants](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) named Wigluf and Hulde (allies of the cloud giant), Wyrmspeaker [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) of the Cult of the Dragon, two Red Wizards of Thay ([Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md)), a [vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md) named [Sandesyl Morgia](/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md), and an [adult white dragon](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) named Glazhael the Cloudchaser.
+Skyreach Castle is home to the cloud giant [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]], a pair of [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]] named Wigluf and Hulde (allies of the cloud giant), Wyrmspeaker [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] of the Cult of the Dragon, two Red Wizards of Thay ([[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] and [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]]), a [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]] named [[/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq|Sandesyl Morgia]], and an [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|adult white dragon]] named Glazhael the Cloudchaser.
 
 These adversaries do not entirely trust one another and are unlikely to present a unified front against the characters. Instead, the giants fight to defend their home, and the cultists and dragon fight to defend their treasure. If the characters play their hand wisely, this lack of trust will be the villains' undoing. The NPCs have dozens of servants, cultists, and guards at their disposal. If more than one or two of these turn up dead, the cultists search the castle for the killers.
 
 #### Negotiating with the Cloud Giant
 
-[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) the cloud giant is not a particularly enthusiastic supporter of the Cult of the Dragon, but he sees it as a way to stir his fellow giants out of their complacency and into action.
+[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] the cloud giant is not a particularly enthusiastic supporter of the Cult of the Dragon, but he sees it as a way to stir his fellow giants out of their complacency and into action.
 
-[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) thinks giants have grown soft, and thrashing some dragons would be good for giantkind. So, he plays along with the cult, but on the side he is gathering support among giants, urging them to assume their rightful place as lords of the world. He believes that the rise of Tiamat and the threat of a dragon empire will spur the giants to unite.
+[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] thinks giants have grown soft, and thrashing some dragons would be good for giantkind. So, he plays along with the cult, but on the side he is gathering support among giants, urging them to assume their rightful place as lords of the world. He believes that the rise of Tiamat and the threat of a dragon empire will spur the giants to unite.
 
-[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) has no conflict with "small folk." He'll happily let the party know that yes, his castle is transporting a vast amount of treasure to the Well of Dragons, where the cult is gathering its forces and amassing a hoard in anticipation of the Tiamat's arrival (from where he doesn't know). If the characters want to help him fight cultists, he'll happily take them somewhere more interesting up north, where he's massing his own small army to fight the dragons after they have been lured out into the open. This army is further detailed in The Rise of Tiamat.
+[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] has no conflict with "small folk." He'll happily let the party know that yes, his castle is transporting a vast amount of treasure to the Well of Dragons, where the cult is gathering its forces and amassing a hoard in anticipation of the Tiamat's arrival (from where he doesn't know). If the characters want to help him fight cultists, he'll happily take them somewhere more interesting up north, where he's massing his own small army to fight the dragons after they have been lured out into the open. This army is further detailed in The Rise of Tiamat.
 
 ## Areas of the Castle (6-15)
 
@@ -208,11 +208,11 @@ The castle walls are carved from solid ice and possess the resiliency and textur
 
 ##### By Day
 
-Three [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) stand guard atop each gate tower (see area 6B). They can shout for reinforcements, which come from areas 9, 10, and 15. [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) and her [guard drakes](/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md) (see area 11) arrive three rounds later. The lower courtyard is clear of fog during daylight hours.
+Three [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] stand guard atop each gate tower (see area 6B). They can shout for reinforcements, which come from areas 9, 10, and 15. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and her [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] (see area 11) arrive three rounds later. The lower courtyard is clear of fog during daylight hours.
 
 ##### At Night
 
-In addition to the ogres standing watch (see above), the [vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md) [Sandesyl Morgia](/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md) patrols the lower courtyard, which is heavily obscured by thick fog at night, and the upper courtyard, which is lightly obscured at night. As long as the vampire is on patrol, cultists and kobolds steer clear of the courtyards.
+In addition to the ogres standing watch (see above), the [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]] [[/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq|Sandesyl Morgia]] patrols the lower courtyard, which is heavily obscured by thick fog at night, and the upper courtyard, which is lightly obscured at night. As long as the vampire is on patrol, cultists and kobolds steer clear of the courtyards.
 
 #### 6A. Gateway and Golems
 
@@ -223,7 +223,7 @@ In addition to the ogres standing watch (see above), the [vampire](/03_Mechanics
 
 The winches that raise and lower the drawbridge and portcullis are located in the nearby gate towers; see area 6B for details.
 
-The two statues flanking the portcullis inside the gateway are Huge but otherwise have the statistics of [stone golems](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). Anyone who passes through the gateway without speaking the correct pass-phrase ("Tiamat, Our Mother and Strength" or "Hail [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)") activates one of the golems. If another creature attempts to pass through without speaking the pass-phrase, the second golem animates and attacks. Only a cloud giant can command the golems to return to their posts once activated.
+The two statues flanking the portcullis inside the gateway are Huge but otherwise have the statistics of [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|stone golems]]. Anyone who passes through the gateway without speaking the correct pass-phrase ("Tiamat, Our Mother and Strength" or "Hail [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]") activates one of the golems. If another creature attempts to pass through without speaking the pass-phrase, the second golem animates and attacks. Only a cloud giant can command the golems to return to their posts once activated.
 
 #### 6B. Gate Towers
 
@@ -232,7 +232,7 @@ The two statues flanking the portcullis inside the gateway are Huge but otherwis
 > These two gate towers are not the same height. The one to the left of the drawbridge is 120 feet tall, while the one to the right of the drawbridge is 80 feet tall.
 ^217
 
-Three [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) stand atop each tower. Although the ogres are equipped with javelins, they can also fire their javelins from a large ballista on the roof each tower.
+Three [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] stand atop each tower. Although the ogres are equipped with javelins, they can also fire their javelins from a large ballista on the roof each tower.
 
 #### Tower Rooftops
 
@@ -248,7 +248,7 @@ Each ballista has AC 10, hp 50, and immunity to poison and psychic damage.
 
 A large trapdoor in the roof of each tower can be pulled open to reveal a staircase of ice that hugs the tower interior and spirals all the way down to the tower's ground floor, where there's a single unlocked, giant-sized door leading to the lower courtyard (area 7) or the cultist barracks (area 9).
 
-The winch that raises and lowers the drawbridge is located on the ground floor of the northern tower, while the winch for the portcullis is located in the ground floor of the other. Each winch is manned by one [ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md), and each ogre has strict orders to guard its winch and not leave its tower even if the general alarm sounds. Turning the crank on a winch is an action and requires a successful DC 15 Strength check, and each action spent turning a crank either half-raises or half-lowers the drawbridge or portcullis. (Two actions are required to fully raise or lower either barrier.)
+The winch that raises and lowers the drawbridge is located on the ground floor of the northern tower, while the winch for the portcullis is located in the ground floor of the other. Each winch is manned by one [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]], and each ogre has strict orders to guard its winch and not leave its tower even if the general alarm sounds. Turning the crank on a winch is an action and requires a successful DC 15 Strength check, and each action spent turning a crank either half-raises or half-lowers the drawbridge or portcullis. (Two actions are required to fully raise or lower either barrier.)
 
 ### 7. Lower Courtyard
 
@@ -259,14 +259,14 @@ The upper courtyard (area 16) partially overhangs the lower courtyard, held alof
 > Walls of solid ice enclose this courtyard. Another courtyard partially overhangs this one. It is held aloft by sweeping arches of ice that soar to a height of over 100 feet. Doors of sculpted ice fitted with iron hinges lead to various outbuildings and main keep on the far side of the courtyard from the gate towers.
 ^21d
 
-Add the following if one or more characters succeed on a DC 22 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check:
+Add the following if one or more characters succeed on a DC 22 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check:
 
 > [!readaloud] 
 > 
 > Hidden in the shadows of the overhanging courtyard, across from the main gate, is an opening in one wall that leads to a spiral staircase made of sculpted ice.
 ^21e
 
-Combat here alerts the ogres in area 6, the cultists in area 9, the stone giants in area 10, and the kobolds in area 15. One of the cultists runs to area 11 and alerts [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md), who arrives with her [guard drakes](/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md) three rounds later.
+Combat here alerts the ogres in area 6, the cultists in area 9, the stone giants in area 10, and the kobolds in area 15. One of the cultists runs to area 11 and alerts [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]], who arrives with her [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] three rounds later.
 
 #### Spiral Staircase
 
@@ -281,7 +281,7 @@ The double doors to the stables are 20 feet tall and wide, making it easy for th
 > The place stinks of some kind of droppings and rotted flesh. Cracked bones cover the floor. Two wyverns stride into view with their fangs bared and tails lashing.
 ^221
 
-This outbuilding currently holds two [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) trained as aerial mounts. However, they are hungry and attack anyone they don't recognize.
+This outbuilding currently holds two [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] trained as aerial mounts. However, they are hungry and attack anyone they don't recognize.
 
 #### Treasure
 
@@ -291,7 +291,7 @@ Four fine wyvern bridles are kept here, embellished with jade and with mithral b
 
 The barracks smell of unwashed bedclothes, and the chamber contains fourteen fur-covered beds, as well as several chests of clothing, a table and chairs, and other simple furnishings.
 
-At any given time, ten [dragonwings](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) (see appendix D for statistics) are resting here. Half of them are sound asleep, while the other half are awake but doing nothing overly strenuous. They do not roam the castle unless an alarm has sounded, they hear combat in the courtyard, or the ogres at the gate yell for reinforcements.
+At any given time, ten [[/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq|dragonwings]] (see appendix D for statistics) are resting here. Half of them are sound asleep, while the other half are awake but doing nothing overly strenuous. They do not roam the castle unless an alarm has sounded, they hear combat in the courtyard, or the ogres at the gate yell for reinforcements.
 
 ### 10. Stone Giants' Chamber
 
@@ -311,17 +311,17 @@ If an alarm has not been raised and the stone giants are present, add:
 
 If the castle alarms have not sounded, the characters gain a surprise round.
 
-The two [stone giants](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), Wiglof and Hulda, are guests of the cloud giant. They are worried that [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s attempts to incite the giants into action against the dragons could lead to devastating consequences, but they are supportive nonetheless. They have agreed to help [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) repair damage to the castle and gladly aid in its defense.
+The two [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]], Wiglof and Hulda, are guests of the cloud giant. They are worried that [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s attempts to incite the giants into action against the dragons could lead to devastating consequences, but they are supportive nonetheless. They have agreed to help [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] repair damage to the castle and gladly aid in its defense.
 
-Presently, Wiglof is using a magic cauldron (see "Treasure") to perform an augury ritual and hopes to ascertain the most likely outcome of [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s alliance with the Cult of the Dragon, to either confirm or assuage the cloud giant's fears that the cult is planning to betray him. Any attack launched against Wiglof disrupts his ritual and angers him greatly. Hulda is Wiglof's companion and bodyguard, and any hostility directed at her or Wiglof is met with brutal force.
+Presently, Wiglof is using a magic cauldron (see "Treasure") to perform an augury ritual and hopes to ascertain the most likely outcome of [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s alliance with the Cult of the Dragon, to either confirm or assuage the cloud giant's fears that the cult is planning to betray him. Any attack launched against Wiglof disrupts his ritual and angers him greatly. Hulda is Wiglof's companion and bodyguard, and any hostility directed at her or Wiglof is met with brutal force.
 
 The stone giants know that the flying castle is controlled from a steering tower (area 19) accessible from the upper courtyard, and that only giants can gain entry to the tower.
 
 #### Treasure
 
-The stone giants collect small-but-perfect gemstones, primarily amethysts but also diamonds, opals, rubies, and topaz. Their collection is secured by a magical globe of force inside an iron chest, which is six feet long, four feet tall and wide, and weighs 500 pounds. Lifting the heavy iron lid requires an action and a DC 12 Strength check, and destroying the globe of force requires an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md) or a successful casting of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16). The 32 gems are worth 500 gp each, or a total of 16,000 gp. The iron chest also contains the stone giants' masonry tools, but they are neither valuable nor usable by smaller creatures.
+The stone giants collect small-but-perfect gemstones, primarily amethysts but also diamonds, opals, rubies, and topaz. Their collection is secured by a magical globe of force inside an iron chest, which is six feet long, four feet tall and wide, and weighs 500 pounds. Lifting the heavy iron lid requires an action and a DC 12 Strength check, and destroying the globe of force requires an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]] or a successful casting of [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]] (DC 16). The 32 gems are worth 500 gp each, or a total of 16,000 gp. The iron chest also contains the stone giants' masonry tools, but they are neither valuable nor usable by smaller creatures.
 
-The iron cauldron weighs 50 pounds. When filled with water or some other liquid, the cauldron substitutes for the normal material components needed to cast the [augury](/03_Mechanics/CLI/spells/augury-xphb.md) spell. The cauldron is worth 25 gp.
+The iron cauldron weighs 50 pounds. When filled with water or some other liquid, the cauldron substitutes for the normal material components needed to cast the [[/03_Mechanics/CLI/spells/augury-xphb|augury]] spell. The cauldron is worth 25 gp.
 
 #### Developments
 
@@ -329,32 +329,32 @@ The stone giants are reluctant to share any information, but if defeated and eit
 
 ### 11. Rezmir's Chamber
 
-The door is always locked and [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) holds the key. A [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell is the easiest way to get in, but a character can also unlock the door with a DC 25 Dexterity check made using [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md). Alternatively, knocking and spinning a good yarn might work; cultists and servants come and go at all hours.
+The door is always locked and [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] holds the key. A [[/03_Mechanics/CLI/spells/knock-xphb|knock]] spell is the easiest way to get in, but a character can also unlock the door with a DC 25 Dexterity check made using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]]. Alternatively, knocking and spinning a good yarn might work; cultists and servants come and go at all hours.
 
 > [!readaloud] 
 > 
 > A large rug covers the icy floor just inside the door of this 10-foot-high room, which is lit by a brazier of hot coals. A large bed rests in one corner, a desk in another. Resting atop the desk is a handsome, iron-banded chest secured with a sturdy padlock.
 ^22a
 
-![Rezmir](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/051-tod-08-03.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/051-tod-08-03.webp#center|Rezmir]]
 
-Unless she is lured elsewhere by a general alarm, [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) (see appendix D) is here along with two loyal [guard drakes](/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md) (appendix D).
+Unless she is lured elsewhere by a general alarm, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] (see appendix D) is here along with two loyal [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] (appendix D).
 
-The large rug inside of the door is actually a [rug of smothering](/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md). The rug patiently waits for a creature to walk onto it before attacking. If they are present, [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) and her drakes wait for the rug to attack an enemy coming through the door before springing into action.
+The large rug inside of the door is actually a [[/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm|rug of smothering]]. The rug patiently waits for a creature to walk onto it before attacking. If they are present, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and her drakes wait for the rug to attack an enemy coming through the door before springing into action.
 
-If [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) is killed, the contents of the iron chest on her desk teleport away, leaving the chest empty.
+If [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] is killed, the contents of the iron chest on her desk teleport away, leaving the chest empty.
 
 #### Treasure
 
-[Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) carries keys to this room, the lock on the chest, and to the storeroom (area 13). In addition, the chest here is locked and magically attuned to [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) so that if she dies, its contents are teleported to the Well of Dragons and out of her slayers' hands.
+[[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] carries keys to this room, the lock on the chest, and to the storeroom (area 13). In addition, the chest here is locked and magically attuned to [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] so that if she dies, its contents are teleported to the Well of Dragons and out of her slayers' hands.
 
-The chest's padlock can be picked using [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) with a successful DC 20 Dexterity check. However, the lock is rigged with a poison needle trap that triggers if the check fails by 5 or more. The needle can be found with a successful DC 20 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check and can be disarmed with a successful DC 15 Dexterity check. A creature triggering the needle trap or failing the Dexterity check by 5 or more is injected with [Wyvern Poison](/03_Mechanics/CLI/items/wyvern-poison-xdmg.md) and must make a DC 13 Constitution saving throw, taking 24 (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
+The chest's padlock can be picked using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] with a successful DC 20 Dexterity check. However, the lock is rigged with a poison needle trap that triggers if the check fails by 5 or more. The needle can be found with a successful DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check and can be disarmed with a successful DC 15 Dexterity check. A creature triggering the needle trap or failing the Dexterity check by 5 or more is injected with [[/03_Mechanics/CLI/items/wyvern-poison-xdmg|Wyvern Poison]] and must make a DC 13 Constitution saving throw, taking 24 (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
 
-The chest contains the [Black Dragon Mask](/03_Mechanics/CLI/items/black-dragon-mask-hotdq.md) (see appendix C) as well as [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)'s private collection of gems, jewelry, and coins. The gems and jewelry includes a set of matched peridot stones on a gold chain (400 gp), a silver torc with dragon's heads (200 gp), six moonstones of 50 gp each, and a set of 20 loose pearls, worth a total of 3,000 gp. There's also 600 sp, 200 gp, and 50 pp.
+The chest contains the [[/03_Mechanics/CLI/items/black-dragon-mask-hotdq|Black Dragon Mask]] (see appendix C) as well as [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s private collection of gems, jewelry, and coins. The gems and jewelry includes a set of matched peridot stones on a gold chain (400 gp), a silver torc with dragon's heads (200 gp), six moonstones of 50 gp each, and a set of 20 loose pearls, worth a total of 3,000 gp. There's also 600 sp, 200 gp, and 50 pp.
 
 #### Developments
 
-If the characters capture [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md), she refuses to cooperate in any way. She prefers death over surrender, particularly if her death might keep the [Black Dragon Mask](/03_Mechanics/CLI/items/black-dragon-mask-hotdq.md) out of her enemies' clutches (see above). [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) is a true believer, and the best that the characters can hope for is that their prisoner eventually stops berating and insulting them. "Your cause is hopeless. My friends will devour you, and your pitiful little attempts to deny the majesty of Tiamat will amount to nothing."
+If the characters capture [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]], she refuses to cooperate in any way. She prefers death over surrender, particularly if her death might keep the [[/03_Mechanics/CLI/items/black-dragon-mask-hotdq|Black Dragon Mask]] out of her enemies' clutches (see above). [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] is a true believer, and the best that the characters can hope for is that their prisoner eventually stops berating and insulting them. "Your cause is hopeless. My friends will devour you, and your pitiful little attempts to deny the majesty of Tiamat will amount to nothing."
 
 ### 12. Red Wizards' Room
 
@@ -365,39 +365,39 @@ The door to this chamber is unlocked.
 > Hundreds of horse skulls are nailed to the ceiling and cover it entirely. Thick carpets cover the icy floor, and desks, chairs, and lecterns are everywhere, some covered with books and scrolls, others with potion vials, bits of meat and fur, and other things. Four hulking gargoyles stand frozen in the room.
 ^22e
 
-![Rath Modar](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/052-tod-08-04.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/052-tod-08-04.webp#center|Rath Modar]]
 
-[Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) (see appendix D for statistics), a Red Wizard of Thay allied with the Cult of the Dragon, resides here. Unless he was killed or captured previously, [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md) (see appendix D for statistics) is also present. If both Red Wizards are present, they are in the midst of a scholarly argument when the characters arrive, but they clam up as soon as others appear. If [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) is alone, he is standing at a lectern, reading a book (see "Treasure").
+[[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] (see appendix D for statistics), a Red Wizard of Thay allied with the Cult of the Dragon, resides here. Unless he was killed or captured previously, [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] (see appendix D for statistics) is also present. If both Red Wizards are present, they are in the midst of a scholarly argument when the characters arrive, but they clam up as soon as others appear. If [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] is alone, he is standing at a lectern, reading a book (see "Treasure").
 
-If Azbara is absent, [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) might mistake the characters for cultists. If the characters play along and attempt to gather information from the Red Wizard, roleplay it out. Rath is no fool, and he is an expert at seeing through illusions and deceptions. He also has a healthy suspicion of strangers, especially if the characters are wounded or inappropriately equipped.
+If Azbara is absent, [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] might mistake the characters for cultists. If the characters play along and attempt to gather information from the Red Wizard, roleplay it out. Rath is no fool, and he is an expert at seeing through illusions and deceptions. He also has a healthy suspicion of strangers, especially if the characters are wounded or inappropriately equipped.
 
-[Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) is here to help watch over the vast treasure being transported to the Well of Dragons and also to plan for the summoning of Tiamat; the necessary incantations are complex and require hundreds of skilled spellcasters. He knows that the cult's ultimate goal is to free Tiamat and raise her temple from the Nine Hells, and Rath's ultimate goal is to use Tiamat and her dragons to overthrow Szass Tam.
+[[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] is here to help watch over the vast treasure being transported to the Well of Dragons and also to plan for the summoning of Tiamat; the necessary incantations are complex and require hundreds of skilled spellcasters. He knows that the cult's ultimate goal is to free Tiamat and raise her temple from the Nine Hells, and Rath's ultimate goal is to use Tiamat and her dragons to overthrow Szass Tam.
 
 The horse skulls on the ceiling are ghastly ornaments and nothing more.
 
-Three of the gargoyles are statues; the fourth is a living [gargoyle](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) that serves [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md).
+Three of the gargoyles are statues; the fourth is a living [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyle]] that serves [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]].
 
 #### Vanishing Wall of Ice
 
 Between two windows is a 35-foot-long, 20-foot-high section of icy wall that vanishes for 1 minute when touched. Beyond the wall is an outdoor landing platform.
 
-If he is outmatched, [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) turns [invisible](/03_Mechanics/CLI/conditions.md#Invisible), casts [fly](/03_Mechanics/CLI/spells/fly-xphb.md) on himself, touches the disappearing wall, and leaps off the landing platform, leaving [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md) to fend for himself. If the gargoyle is still alive, it tries to cover Rath's escape. His [fly](/03_Mechanics/CLI/spells/fly-xphb.md) spell and disappearing trick mean that an escape is very likely.
+If he is outmatched, [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] turns [[/03_Mechanics/CLI/conditions#Invisible|invisible]], casts [[/03_Mechanics/CLI/spells/fly-xphb|fly]] on himself, touches the disappearing wall, and leaps off the landing platform, leaving [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] to fend for himself. If the gargoyle is still alive, it tries to cover Rath's escape. His [[/03_Mechanics/CLI/spells/fly-xphb|fly]] spell and disappearing trick mean that an escape is very likely.
 
 #### Developments
 
-If the characters speak to [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) or his associate, [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md), they find that the Red Wizard reputation for arrogance is true: the pair are haughty and proud of their skill, and they have little patience for "ruffians, thugs, and mercenaries seeking to stop the inevitable." [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and his associate figure prominently in The Rise of Tiamat. Defeating or killing them is a serious blow to the cult's ability to summon Tiamat.
+If the characters speak to [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] or his associate, [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]], they find that the Red Wizard reputation for arrogance is true: the pair are haughty and proud of their skill, and they have little patience for "ruffians, thugs, and mercenaries seeking to stop the inevitable." [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] and his associate figure prominently in The Rise of Tiamat. Defeating or killing them is a serious blow to the cult's ability to summon Tiamat.
 
 #### Treasure
 
-[Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) has three [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md), [feather fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md) and [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)) and he carries a [staff of fire](/03_Mechanics/CLI/items/staff-of-fire-xdmg.md).
+[[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] has three [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scrolls]] ([[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]], [[/03_Mechanics/CLI/spells/feather-fall-xphb|feather fall]] and [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]]) and he carries a [[/03_Mechanics/CLI/items/staff-of-fire-xdmg|staff of fire]].
 
-A thorough search of the room yields several letters to [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) from Severin, the supreme leader of the Cult of the Dragon. Severin's letters reveal the depths of the connections between the Red Wizards (at least those friendly to [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)) and the cult. The characters also find other letters from Thay revealing that clearly some Red Wizards are not nearly as keen on the cult's plans. If the characters deliver these letters to [Leosin Erlanthar](/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md), [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md), or one of their other contacts in organizations opposed to the Red Wizards and the Cult of the Dragon, award the party 1,000 XP.
+A thorough search of the room yields several letters to [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] from Severin, the supreme leader of the Cult of the Dragon. Severin's letters reveal the depths of the connections between the Red Wizards (at least those friendly to [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]]) and the cult. The characters also find other letters from Thay revealing that clearly some Red Wizards are not nearly as keen on the cult's plans. If the characters deliver these letters to [[/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq|Leosin Erlanthar]], [[/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]], or one of their other contacts in organizations opposed to the Red Wizards and the Cult of the Dragon, award the party 1,000 XP.
 
-Resting on a lectern is a book titled *Beyond the Iron Gates*. Written entirely in Infernal, it describes various forms of devil summoning, but the final chapter describes the use of massive summonings and the sacrifice of hundreds of souls to bring Tiamat bodily out of the Nine Hells and into the world. The details of the ritual make it clear that this is something that requires enormous preparation and expense—but the actual magical formulae and chants are not given in this volume. Neither the book nor the other papers here, however, provide a timetable for when the cult or the Red Wizards plan to attempt the summoning, nor do they mention the significance of the treasure that the cult has amassed. ([Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md) can both attest that the treasure is to appease Tiamat upon her arrival.)
+Resting on a lectern is a book titled *Beyond the Iron Gates*. Written entirely in Infernal, it describes various forms of devil summoning, but the final chapter describes the use of massive summonings and the sacrifice of hundreds of souls to bring Tiamat bodily out of the Nine Hells and into the world. The details of the ritual make it clear that this is something that requires enormous preparation and expense—but the actual magical formulae and chants are not given in this volume. Neither the book nor the other papers here, however, provide a timetable for when the cult or the Red Wizards plan to attempt the summoning, nor do they mention the significance of the treasure that the cult has amassed. ([[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] and [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] can both attest that the treasure is to appease Tiamat upon her arrival.)
 
 ### 13. Storeroom
 
-The door is secured and locked. Any character with [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) can attempt a DC 17 Dexterity check to unlock it. [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) and [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) carry keys.
+The door is secured and locked. Any character with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] can attempt a DC 17 Dexterity check to unlock it. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] carry keys.
 
 > [!readaloud] 
 > 
@@ -419,9 +419,9 @@ A large section of the icy wall opposite the door vanishes for 1 minute when tou
 > The scene is pure chaos: dozens of kobolds chopping, mixing, carrying sacks of ingredients, and stirring great cauldrons. It could be an alchemical lab or a kitchen—with kobolds cooking, it's a little hard to be sure.
 ^236
 
-Twenty [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) are here, preparing food for the castle's other inhabitants. The kitchen is filled with huge sides of beef, entire sheep, chests full of dried fish and vast amounts of bacon, onions, beans, and so forth.
+Twenty [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] are here, preparing food for the castle's other inhabitants. The kitchen is filled with huge sides of beef, entire sheep, chests full of dried fish and vast amounts of bacon, onions, beans, and so forth.
 
-Roosting on a ledge above the fray is a [griffon](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md). The creature is [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s pet, and it makes sure the kobolds behave themselves. Whenever a fight breaks out, one shriek from above snaps the kobolds back in line. The griffon also protects the kobolds if they come under attack.
+Roosting on a ledge above the fray is a [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|griffon]]. The creature is [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s pet, and it makes sure the kobolds behave themselves. Whenever a fight breaks out, one shriek from above snaps the kobolds back in line. The griffon also protects the kobolds if they come under attack.
 
 #### Treasure
 
@@ -431,7 +431,7 @@ A thorough search of the kitchen reveals small chests of black pepper, cinnamon,
 
 ### 16. Upper Courtyard
 
-The upper courtyard is the primary landing site for dragons, wyverns, and flying spellcasters when the castle is airborne. During the day, `2d6` [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) practice their javelin hurling here. At night, the courtyard is lightly obscured by fog (to a height of 30 feet) and patrolled by the [vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md), [Sandesyl Morgia](/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md) (see area 18).
+The upper courtyard is the primary landing site for dragons, wyverns, and flying spellcasters when the castle is airborne. During the day, `2d6` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] practice their javelin hurling here. At night, the courtyard is lightly obscured by fog (to a height of 30 feet) and patrolled by the [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]], [[/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq|Sandesyl Morgia]] (see area 18).
 
 > [!readaloud] 
 > 
@@ -442,7 +442,7 @@ Characters landing here need to be prepared to either show a banner or token of 
 
 #### Developments
 
-If the characters arrive in disguise or fast-talk their way through the courtyard, they are taken to meet [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) the cloud giant (if caught by the ogres), or [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) (if caught by the vampire).
+If the characters arrive in disguise or fast-talk their way through the courtyard, they are taken to meet [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] the cloud giant (if caught by the ogres), or [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] (if caught by the vampire).
 
 ### 17. High Blue Tower
 
@@ -451,7 +451,7 @@ If the characters arrive in disguise or fast-talk their way through the courtyar
 > This tower of pale blue ice is the color of sky on a winter day. Its few windows shimmer like mirrored glass or crystal.
 ^23d
 
-The door to this tower is fitted with an iron lock, and [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) carries the only key. The lock can be picked with [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check. Two ogres armed with javelins, rocks, and a ballista stand watch atop this tower. They have long coils of rope they use to climb up and down the tower's exterior.
+The door to this tower is fitted with an iron lock, and [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] carries the only key. The lock can be picked with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 15 Dexterity check. Two ogres armed with javelins, rocks, and a ballista stand watch atop this tower. They have long coils of rope they use to climb up and down the tower's exterior.
 
 The tower interior is a hollow cylinder 90 feet high, without stairs or ladders to reach the top. Any creature inside the tower that speaks the command word "Esclarotta" is instantly teleported to area 21.
 
@@ -468,13 +468,13 @@ This tower is almost 100 feet high, but it is in shoddy repair. There are two en
 > This ancient tower seems to be crumbling. The windows have been sealed shut with ice, and cracks have formed in the walls and roofcap. A balcony of sculpted ice hugs one side of the tower, 75 feet above the tower base.
 ^240
 
-![Sandesyl Morgia](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/053-tod-08-05.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/053-tod-08-05.webp#center|Sandesyl Morgia]]
 
-This is the tower of the [vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md) [Sandesyl Morgia](/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md), a moon elf who joined the Cult of the Dragon long before she became undead. She is a member of the old guard and was around long before Severin took over. Given the chance, she talks about serving under Sammaster and killing dragons to raise them as dracoliches, which she still considers "the true path." She hates the new cult leadership, but she is forced by circumstance to work with them.
+This is the tower of the [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]] [[/03_Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq|Sandesyl Morgia]], a moon elf who joined the Cult of the Dragon long before she became undead. She is a member of the old guard and was around long before Severin took over. Given the chance, she talks about serving under Sammaster and killing dragons to raise them as dracoliches, which she still considers "the true path." She hates the new cult leadership, but she is forced by circumstance to work with them.
 
-Sandesyl is active by night only and prowls both the upper and lower courtyards in the night hours, keeping a keen eye out for lone ogre guards or others who might provide a meal. When confronted by more enemies than she can handle, she summons two [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) (moon elf consorts) as reinforcements. These [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) lurk on the upper floor of the tower.
+Sandesyl is active by night only and prowls both the upper and lower courtyards in the night hours, keeping a keen eye out for lone ogre guards or others who might provide a meal. When confronted by more enemies than she can handle, she summons two [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] (moon elf consorts) as reinforcements. These [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] lurk on the upper floor of the tower.
 
-The tower is in dire need of repair. The cracked and crumbled ice provides abundant handholds, allowing the tower's walls to be climbed with a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+The tower is in dire need of repair. The cracked and crumbled ice provides abundant handholds, allowing the tower's walls to be climbed with a successful DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 The tower once had four levels with 20-foot-high ceilings; however, all but the highest level have had their floors and ceilings shattered, and the staircase that once curled up the inside of the tower, connecting its various levels, has also been destroyed. The ground floor is now packed with icy debris to a depth of 20 feet, and this debris prevents the ground-floor door from being opened.
 
@@ -488,7 +488,7 @@ Sandesyl's coffin rests in the middle of the tower's upper level, guarded day an
 
 ### 19. Steering Tower
 
-[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) has secured the door to this tower with an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md). It can be opened normally by a giant or by a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell. For everyone else, breaking it down is largely impossible, because a DC 70 Strength check is required.
+[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] has secured the door to this tower with an [[/03_Mechanics/CLI/spells/arcane-lock-xphb|arcane lock]]. It can be opened normally by a giant or by a [[/03_Mechanics/CLI/spells/knock-xphb|knock]] spell. For everyone else, breaking it down is largely impossible, because a DC 70 Strength check is required.
 
 > [!readaloud] 
 > 
@@ -503,7 +503,7 @@ There are eighteen command runes.
 
 > [!note] 
 > 
-> **Alarm.** A noise akin to a howling wind alerts all non-[deafened](/03_Mechanics/CLI/conditions.md#Deafened) creatures in the castle.
+> **Alarm.** A noise akin to a howling wind alerts all non-[[/03_Mechanics/CLI/conditions#Deafened|deafened]] creatures in the castle.
 > 
 > **All-Clear.** A noise akin to a loud whisper signals an end to danger.
 > 
@@ -538,15 +538,15 @@ There are eighteen command runes.
 
 Although anyone can trigger command runes, the spirit of the cloud giant Esclarotta actually controls the castle and can "lock out" individuals who misuse the command runes, effectively rendering them unable to trigger the runes.
 
-Any character succeeding on a DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check senses an intelligence at work, and one can attempt to communicate with Esclarotta's spirit simply by calling out to it while inside the tower. She is a kind soul, disturbed by the cultists, dragon, wyverns, and kobolds infesting her beautiful castle, and she longs for information about what her husband is up to. Requests made to her succeed with a DC 14 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)). The person has advantage on the check if he or she speaks Giant. If anyone tries to wreck the steering chamber, Esclarotta triggers the alarm rune. [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) (see appendix D) arrives 3 rounds later with two [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) (his stewards) in tow.
+Any character succeeding on a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check senses an intelligence at work, and one can attempt to communicate with Esclarotta's spirit simply by calling out to it while inside the tower. She is a kind soul, disturbed by the cultists, dragon, wyverns, and kobolds infesting her beautiful castle, and she longs for information about what her husband is up to. Requests made to her succeed with a DC 14 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]). The person has advantage on the check if he or she speaks Giant. If anyone tries to wreck the steering chamber, Esclarotta triggers the alarm rune. [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] (see appendix D) arrives 3 rounds later with two [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] (his stewards) in tow.
 
-If [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) dies aboard the castle, his spirit replaces Esclarotta's, and he crashes the castle to keep it from falling into enemy hands (see "Developments").
+If [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] dies aboard the castle, his spirit replaces Esclarotta's, and he crashes the castle to keep it from falling into enemy hands (see "Developments").
 
 #### Treasure
 
 If the characters insist on tearing out the valuable control elements, they can pry loose fistfuls of emeralds, turquoise, moonstones, a huge chunk of jade, bits of amber, and large pieces of mithral, worth 10,000 gp total.
 
-This destroys the castle's ability to move under power, generate weather effects, and so on. The castle will drift on powerful winds that carry it northward, where it ultimately crashes on the Miklos Glacier in the Spine of the World Mountains. Repairing the control mechanism requires a long period of extremely difficult and expensive work, though a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell could accomplish it.
+This destroys the castle's ability to move under power, generate weather effects, and so on. The castle will drift on powerful winds that carry it northward, where it ultimately crashes on the Miklos Glacier in the Spine of the World Mountains. Repairing the control mechanism requires a long period of extremely difficult and expensive work, though a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell could accomplish it.
 
 #### Developments
 
@@ -556,13 +556,13 @@ The castle might crash, depending on the actions of the characters and various N
 
 If the cloud giant is slain, his wife's spirit in the steering chamber is replaced by his spirit. Enraged, he avenges his death by moving the castle northward and then commanding it to crash in the Spine of the World, near the Miklos Glacier. More details of this crash and its consequences are provided in The Rise of Tiamat.
 
-If the dragon is slain and the cultists are routed, [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) gathers any remaining forces allied with the cult and slays [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md), knowing full well that the cloud giant's death will cause the castle to crash (see above). [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) then uses his [fly](/03_Mechanics/CLI/spells/fly-xphb.md) spell to escape.
+If the dragon is slain and the cultists are routed, [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] gathers any remaining forces allied with the cult and slays [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]], knowing full well that the cloud giant's death will cause the castle to crash (see above). [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] then uses his [[/03_Mechanics/CLI/spells/fly-xphb|fly]] spell to escape.
 
 ##### Characters Seize the Castle
 
-If the adventurers befriend [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) and drive off the cultists and the dragon, they may fly it anywhere, though they will certainly attract hostile attention from any dragon. If they are still aboard the castle, [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and the vampire do their utmost to thwart them.
+If the adventurers befriend [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] and drive off the cultists and the dragon, they may fly it anywhere, though they will certainly attract hostile attention from any dragon. If they are still aboard the castle, [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] and the vampire do their utmost to thwart them.
 
-If he remains in control of the castle, [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) decides to visit the giants. He sends Skyreach Castle north to near the Spine of the World.
+If he remains in control of the castle, [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] decides to visit the giants. He sends Skyreach Castle north to near the Spine of the World.
 
 ### 20. Ogre Barracks
 
@@ -573,23 +573,23 @@ Read the following text if the characters surprise this chamber's occupants.
 > This unfurnished chamber contains a horde of ogres sleeping on piles of fur.
 ^25c
 
-Unless they are drawn elsewhere by an alarm or some other disturbance, twelve [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) sleep on the furs heaped about this otherwise featureless structure.
+Unless they are drawn elsewhere by an alarm or some other disturbance, twelve [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] sleep on the furs heaped about this otherwise featureless structure.
 
 #### Treasure
 
 The ogres all keep small amounts of gold and silver in pouches, sacks, and chests. If the characters spend 30 minutes searching the barracks, they find 800 sp and 300 gp.
 
-If one member of the party succeeds at a DC 20 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check, he or she finds a single pale blue sapphire worth 500 gp wedged into a crevice.
+If one member of the party succeeds at a DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check, he or she finds a single pale blue sapphire worth 500 gp wedged into a crevice.
 
 #### Developments
 
-If any ogres are taken prisoner, [charmed](/03_Mechanics/CLI/conditions.md#Charmed), or fast-talked, the characters learn relatively little. They serve the cloud giant [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) (whose wife was slain some years ago), they know that the cloud giant has several guests, including "duh wizard in red robes" ([Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)), "duh dragon lady" ([Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)), and "a big white dragon dat lives in duh caves" (Glazhael). Getting more than the basic rundown takes a DC 19 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check for each of the following three additional items:
+If any ogres are taken prisoner, [[/03_Mechanics/CLI/conditions#Charmed|charmed]], or fast-talked, the characters learn relatively little. They serve the cloud giant [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] (whose wife was slain some years ago), they know that the cloud giant has several guests, including "duh wizard in red robes" ([[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]]), "duh dragon lady" ([[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]), and "a big white dragon dat lives in duh caves" (Glazhael). Getting more than the basic rundown takes a DC 19 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check for each of the following three additional items:
 
 - A vampire watches the Skyreach Castle at night. It sometimes feeds on the ogres, to their chagrin.  
 - The cult uses the castle to visit important sites without roads or portals. The ogres don't really know where they are other than "the green forests" and "that stretch of the moors" and "the old mountains."  
 - The castle's mists and navigation are all controlled by the cloud giant's magic. Without him, the castle won't fly.  
 
-The last point is untrue, but it's what [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) told his ogres, and they believe him.
+The last point is untrue, but it's what [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] told his ogres, and they believe him.
 
 ### 21. Esclarotta's Tomb
 
@@ -600,9 +600,9 @@ This icy cyst has no obvious means of entry or egress. However, a creature can t
 > You appear in an oval cave carved from solid glacial ice, with no passages leading out. The ceiling is 30 feet high and lined with icicles, and bits of broken ice surround a massive white marble sarcophagus situated in the middle of the floor. The lid of the sarcophagus is sculpted into the likeness of a female giant with long flowing hair.
 ^260
 
-The sarcophagus is 20 feet long, 10 feet wide, and 10 feet tall. Dwarvish runes carved into its base spell the name ESCLAROTTA. The lid of the sarcophagus requires a DC 30 Strength check to push aside, and the bones of [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s deceased cloud giant wife are contained within. There is no treasure buried with her.
+The sarcophagus is 20 feet long, 10 feet wide, and 10 feet tall. Dwarvish runes carved into its base spell the name ESCLAROTTA. The lid of the sarcophagus requires a DC 30 Strength check to push aside, and the bones of [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s deceased cloud giant wife are contained within. There is no treasure buried with her.
 
-A creature in this tomb that speaks the name "[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)" is instantly teleported to the ground floor of area 17.
+A creature in this tomb that speaks the name "[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]" is instantly teleported to the ground floor of area 17.
 
 ### 22. Cloud Giant Tower
 
@@ -612,7 +612,7 @@ Unless the characters take strides to conceal their approach, the ogres on the r
 
 #### Tower Rooftop
 
-Three [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) guard the tower rooftop, which is furnished with a ballista. See area 6B for details.
+Three [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] guard the tower rooftop, which is furnished with a ballista. See area 6B for details.
 
 #### Ground Floor
 
@@ -620,11 +620,11 @@ A silver chime attached to the inside of each door rings whenever the door is op
 
 A staircase hugs the interior wall of this chamber, leading up to a landing with a door. The room itself contains sturdy wood-carved furnishings of giant proportions, including a table surrounded by four chairs. The walls are sculpted with ice murals depicting an army of hill, frost, fire, stone, and cloud giants.
 
-Four [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) guard the lower level. They wear fancy plumed helmets to signify that they are members of [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s "honor guard." This simple reward keeps the ogres alert and loyal, for they know the giant could give their helms away to someone else at any time.
+Four [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] guard the lower level. They wear fancy plumed helmets to signify that they are members of [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s "honor guard." This simple reward keeps the ogres alert and loyal, for they know the giant could give their helms away to someone else at any time.
 
 #### Upper Floor
 
-If the ogres above or below him sound the alarm, [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) cannot be [surprised](/03_Mechanics/CLI/conditions.md#Surprised).
+If the ogres above or below him sound the alarm, [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] cannot be [[/03_Mechanics/CLI/conditions#Surprised|surprised]].
 
 > [!readaloud] 
 > 
@@ -633,21 +633,21 @@ If the ogres above or below him sound the alarm, [Blagothkus](/03_Mechanics/CLI/
 > A blue-skinned giant sits on the floor with his legs crossed while two ogres comb his snowy white hair. The giant's hulking morningstar leans against the bed within arm's reach.
 ^265
 
-[Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) (appendix D) and the two [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) (his stewards) aren't the only inhabitants of this room. As a bonus action on his turn, [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) can summon an [air elemental](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) that's been magically bound to the room. The elemental follows the giant's commands but cannot leave the room. It remains until dismissed by its master.
+[[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] (appendix D) and the two [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] (his stewards) aren't the only inhabitants of this room. As a bonus action on his turn, [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] can summon an [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air elemental]] that's been magically bound to the room. The elemental follows the giant's commands but cannot leave the room. It remains until dismissed by its master.
 
-![Blagothkus](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/054-tod-08-06.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/054-tod-08-06.webp#center|Blagothkus]]
 
-The dim-witted ogre stewards are poor conversationalists, but [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) uses them as sounding boards, expressing his concerns that the Cult of the Dragon might try to seize control of the castle. The ogres offer no advice. Clever characters can sow discord by preying on the giant's fears (see "Negotiating with the Cloud Giant" near the beginning of the chapter). An alarm or the characters' sudden appearance startles him, and he reaches for his weapon. If the characters are pretending to be cultists, [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) is furious at their intrusion but does not attack unless they further provoke him. The ogres defend their master to the death.
+The dim-witted ogre stewards are poor conversationalists, but [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] uses them as sounding boards, expressing his concerns that the Cult of the Dragon might try to seize control of the castle. The ogres offer no advice. Clever characters can sow discord by preying on the giant's fears (see "Negotiating with the Cloud Giant" near the beginning of the chapter). An alarm or the characters' sudden appearance startles him, and he reaches for his weapon. If the characters are pretending to be cultists, [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] is furious at their intrusion but does not attack unless they further provoke him. The ogres defend their master to the death.
 
 #### Treasure
 
-The chests are unlocked and loaded with silver and gold coins (12,000 gp total). One of the chests also contains a [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md), four bars of solid gold (worth 1,000 gp each), and forty bars of solid silver (worth 100 gp each). Each bar weighs approximately 5 pounds.
+The chests are unlocked and loaded with silver and gold coins (12,000 gp total). One of the chests also contains a [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bag of holding]], four bars of solid gold (worth 1,000 gp each), and forty bars of solid silver (worth 100 gp each). Each bar weighs approximately 5 pounds.
 
 #### Developments
 
-If the characters surrender to [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md), he asks about their names, allegiances, and plans. If the characters represent themselves as enemies of the cult, the giant says, "I can take care of them. But just in case, you should know that they are entirely serious about making dragons a power along the coast again. Can you imagine? The nerve." If they sway the giant to their side, he locks himself in area 19 and guides the castle northward while the characters deal with the cultists and the white dragon. [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)'s ultimate destination is described in The Rise of Tiamat.
+If the characters surrender to [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]], he asks about their names, allegiances, and plans. If the characters represent themselves as enemies of the cult, the giant says, "I can take care of them. But just in case, you should know that they are entirely serious about making dragons a power along the coast again. Can you imagine? The nerve." If they sway the giant to their side, he locks himself in area 19 and guides the castle northward while the characters deal with the cultists and the white dragon. [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]'s ultimate destination is described in The Rise of Tiamat.
 
-If anyone attempts to wrest the castle from him, [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) goes to the steering tower and tries to crash the castle in the Spine of the World; see area 19 for details. If [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) is killed, his spirit takes over the castle, with the same end result.
+If anyone attempts to wrest the castle from him, [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] goes to the steering tower and tries to crash the castle in the Spine of the World; see area 19 for details. If [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] is killed, his spirit takes over the castle, with the same end result.
 
 ### 23. Giant Guest Chambers
 
@@ -657,14 +657,14 @@ In each room, a large section of the outer wall vanishes for 1 minute when touch
 
 ### 24. Servant Barracks
 
-Twenty [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) are trying to sleep here on dozens of small piles of bedding, fur, and clothes. They are exhausted and ignore the characters unless they are in great danger. They have no treasure.
+Twenty [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] are trying to sleep here on dozens of small piles of bedding, fur, and clothes. They are exhausted and ignore the characters unless they are in great danger. They have no treasure.
 
-Characters questioning the kobold servants may make a DC 12 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check. If the characters are dressed as cultists and are fairly convincing, no check is required.
+Characters questioning the kobold servants may make a DC 12 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check. If the characters are dressed as cultists and are fairly convincing, no check is required.
 
 Each success brings one of the following bits of information to light; the first failure by any character means that the kobolds unite in their terror of the cultists and go completely silent. If questioned further, they start screaming for help and babbling for mercy: completely useless.
 
 - An elf vampire lives in the crumbling tower (area 18).  
-- [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md) still speaks to his dead wife, and her spirit is the castle's pilot and protector. If the giant dies, all the magic of the castle will be undone.  
+- [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]] still speaks to his dead wife, and her spirit is the castle's pilot and protector. If the giant dies, all the magic of the castle will be undone.  
 - The human dragon-cult people don't really understand dragons the way that kobolds do. Dragons are fine creatures, but grumpy. They say the treasure here is for the queen of all dragons, to keep her from being grumpy.  
 - A red-robed wizard is working with the cultists, and his room (area 12) is off limits to all kobolds.  
 - The white dragon Cloudchaser loves frozen meat. Toss it into the cavern (area 25) and run!  
@@ -687,7 +687,7 @@ When the characters reach the main vault, read:
 > All tunnels seem to lead to a central core—a glittering cavern of ice with jagged walls and icicles the size of stalactites. This grand vault is split into two levels: an egg-shaped upper level with a sheer ledge overlooking a sunken level 30 feet below, where a massive pile of treasure rests beneath an icy glaze. Clinging to the ceiling above the hoard, wings tucked in tight along its sides with claws gripping the ice, is a huge white dragon.
 ^26c
 
-Glazhael is an [adult white dragon](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) that is doing his part to ensure the rise of Tiamat, hopeful that the queen of evil dragons will reward him with untold power. He is, however, a bit on the dim side, thinking of visitors as either servants (who bring him food) or as enemies (who do not bring him food). Mostly, Glazhael is proud to guard this treasure for Tiamat, his most glorious and perfect queen. He rarely talks to any cultists other than Talis and is suspicious of [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) and the others.
+Glazhael is an [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|adult white dragon]] that is doing his part to ensure the rise of Tiamat, hopeful that the queen of evil dragons will reward him with untold power. He is, however, a bit on the dim side, thinking of visitors as either servants (who bring him food) or as enemies (who do not bring him food). Mostly, Glazhael is proud to guard this treasure for Tiamat, his most glorious and perfect queen. He rarely talks to any cultists other than Talis and is suspicious of [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and the others.
 
 If the characters speak with Glazhael, he responds with a pompous speech about the superiority of dragons over humans, dwarves, and so forth.
 
@@ -706,7 +706,7 @@ When the characters investigate the hoard, read:
 > The floor of the cavern is carpeted in gold, silver, copper, and jewels, all sealed under a sheet of ice. Dozens of old human skulls and bones are also frozen in the ice.
 ^26e
 
-The treasure hoard is frozen in ice, and it requires either several fire spells or a long wait with bonfires to melt the ice. The hoard includes 500,000 cp, 100,000 sp, and 5,000 gp, a frozen chest containing 800 pp and 21 small blue sapphires worth 300 gp each, a frozen [potion of gaseous form](/03_Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), a [+1 longsword](/03_Mechanics/CLI/items/1-weapon-xdmg.md), a [+1 longbow](/03_Mechanics/CLI/items/1-weapon-xdmg.md), [+1 leather armor](/03_Mechanics/CLI/items/1-armor-xdmg.md), and [bracers of defense](/03_Mechanics/CLI/items/bracers-of-defense-xdmg.md).
+The treasure hoard is frozen in ice, and it requires either several fire spells or a long wait with bonfires to melt the ice. The hoard includes 500,000 cp, 100,000 sp, and 5,000 gp, a frozen chest containing 800 pp and 21 small blue sapphires worth 300 gp each, a frozen [[/03_Mechanics/CLI/items/potion-of-gaseous-form-xdmg|potion of gaseous form]], a [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 longsword]], a [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 longbow]], [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 leather armor]], and [[/03_Mechanics/CLI/items/bracers-of-defense-xdmg|bracers of defense]].
 
 #### Developments
 
@@ -714,7 +714,7 @@ If the dragon is slain, the cultists are enraged and seek immediate vengeance. T
 
 ## Concluding the Adventure
 
-![Mask of the Dragon Queen](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/055-tod-08-07.webp#center)
+![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/055-tod-08-07.webp#center|Mask of the Dragon Queen]]
 
 The crash or capture of Skyreach Castle marks the end of *Hoard of the Dragon Queen*. If you are using the milestone experience rule, the characters reach 8th level for completing the adventure. By uncovering the cult's plans and hijacking a huge hoard of treasure, the characters have slowed and damaged the cult's chances of success. They may also have slain or captured important leaders of the Cult of the Dragon. But there is much more to come. The cult moves forward with its plan to free their five-headed queen out of the Nine Hells, and the mere loss of wealth will not stop the true fanatics.
 

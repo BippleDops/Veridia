@@ -23,11 +23,11 @@ world: Both
 
 | College | Mascot |
 |---------|--------|
-| Lorehold | [Spirit Statue Mascot](/03_Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md) |
-| Prismari | [Art Elemental Mascot](/03_Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc.md) |
-| Quandrix | [Fractal Mascot](/03_Mechanics/CLI/bestiary/construct/fractal-mascot-scc.md) |
-| Silverquill | [Inkling Mascot](/03_Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md) |
-| Witherbloom | [Pest Mascot](/03_Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc.md) |
+| Lorehold | [[/03_Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc|Spirit Statue Mascot]] |
+| Prismari | [[/03_Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc|Art Elemental Mascot]] |
+| Quandrix | [[/03_Mechanics/CLI/bestiary/construct/fractal-mascot-scc|Fractal Mascot]] |
+| Silverquill | [[/03_Mechanics/CLI/bestiary/ooze/inkling-mascot-scc|Inkling Mascot]] |
+| Witherbloom | [[/03_Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc|Pest Mascot]] |
 ^strixhaven-mascots
 
 ## Player-Facing Summary

@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[02_Worldbuilding/Places/The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]
 
 
 ## Connections

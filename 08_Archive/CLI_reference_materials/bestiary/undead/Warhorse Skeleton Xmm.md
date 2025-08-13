@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-warhorse-skeleton-xmm-v1-warhorse-skeleton-xmm.svg)
 
-# [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm|Warhorse Skeleton]]
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
@@ -75,15 +75,15 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "1/2"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
       \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ straight toward it immediately before the hit, the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Hooves"
 "source":

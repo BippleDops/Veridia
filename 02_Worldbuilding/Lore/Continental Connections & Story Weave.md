@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 
 
 ## Connections
@@ -24,7 +24,7 @@ world: Both
 - [[Vorthak]]
 - [[Tenebrarum]]
 - [[Crystallium]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

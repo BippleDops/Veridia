@@ -431,6 +431,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Court Herald Titus]]
+- [[02_Worldbuilding/Places/Court Herald Titus|02 Worldbuilding/Places/Court Herald Titus]]
 
 <!-- enriched: true -->

@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 50 gp
 - **Weight**: 0.5 lbs.
 
-This potion is a magic item. As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains `2d4 + 2` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). The potion's red liquid glimmers when agitated.
+This potion is a magic item. As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains `2d4 + 2` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

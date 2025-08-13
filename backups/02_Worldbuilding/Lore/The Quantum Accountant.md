@@ -43,7 +43,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company|02 Worldbuilding/Groups/The Liminal Trading Company]]
 
 
 ## Connections

@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[02_Worldbuilding/Places/Blood Current Express|02 Worldbuilding/Places/Blood Current Express]]
 
 
 ## Connections

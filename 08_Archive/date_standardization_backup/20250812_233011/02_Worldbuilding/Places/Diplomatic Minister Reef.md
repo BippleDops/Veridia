@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[02_Worldbuilding/Places/Quest - The Missing Fleet|02 Worldbuilding/Places/Quest The Missing Fleet]]
 
 
 ## Connections

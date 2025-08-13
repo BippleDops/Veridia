@@ -29,9 +29,9 @@ world: Both
 
 **Items in this group:**
 
-- [+1 Wraps of Unarmed Power](/03_Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg.md)
-- [+2 Wraps of Unarmed Power](/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg.md)
-- [+3 Wraps of Unarmed Power](/03_Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg.md)
+- [[/03_Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg|+1 Wraps of Unarmed Power]]
+- [[/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg|+2 Wraps of Unarmed Power]]
+- [[/03_Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg|+3 Wraps of Unarmed Power]]
 
 *Source: Dungeon Master's Guide (2024) p. 325*
 

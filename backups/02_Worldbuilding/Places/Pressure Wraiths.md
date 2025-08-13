@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Wraiths]]
+- [[02_Worldbuilding/Places/Pressure Wraiths|02 Worldbuilding/Places/Pressure Wraiths]]
 
 <!-- enriched: true -->
 

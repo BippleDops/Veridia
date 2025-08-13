@@ -103,7 +103,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Template_Person_Placeholder.png]]
+>> ![[Template_Person_Placeholder.png|Template Person Placeholder.png]]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
@@ -163,17 +163,17 @@ Age: `INPUT[inlineSelect(option(Child), option(Teen), option(Adult), option(Elde
 
 This is the persons description. 
 
-# Statblock
+## Statblock
 
 ```statblock
 monster: Commoner
 ```
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Inventory
+## Inventory
 
 The following items belong to `= this.file.name`.
 
@@ -202,7 +202,7 @@ dv.table(
 );
 ```
 
-# Connections
+## Connections
 Is the person linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
@@ -211,7 +211,7 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
-# Relationships
+## Relationships
 
 List important relationships here. 
 
@@ -307,4 +307,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Person_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Person_Placeholder.png|02 Worldbuilding/Lore/Template Person Placeholder.png]]

@@ -33,7 +33,7 @@ world: Both
 
 
 
-A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.
+A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition.
 
 **Variants**:
 - [Walloping Arrow](#Walloping%20Arrow)
@@ -43,7 +43,7 @@ A creature hit by this ammunition must succeed on a DC 10 Strength saving throw 
 - [Walloping Needle](#Walloping%20Needle)
 - [Walloping Sling Bullet](#Walloping%20Sling%20Bullet)
 
-### Walloping Arrow
+## Walloping Arrow
 
 - **Weight**: 0.05 lbs.
 

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-adult-xmm-myconid-adult-xmm.svg)
 
-# [Myconid Adult](3-Mechanics\CLI\bestiary\plant/myconid-adult-xmm.md)
+# [[3-Mechanics\CLI\bestiary\plant/myconid-adult-xmm|Myconid Adult]]
 *Source: Monster Manual (2024) p. 223*  
 
 Myconid adults defend their territories and other myconids from invaders.
@@ -60,8 +60,8 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "languages": "telepathy 240 ft."
 "cr": "1/2"
 "traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md). The myconid\
+  - "desc": "While in sunlight, the myconid has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ on [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
@@ -69,11 +69,11 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
       \ plus 3 (d6) Poison damage."
     "name": "Slam"
   - "desc": "Constitution Saving Throw: DC 11, one creature the myconid can see\
-      \ within 10 feet. Failure: The target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
+      \ within 10 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Pacifying Spores (1/Day)"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The myconid expels spores in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."

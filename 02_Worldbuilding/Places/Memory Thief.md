@@ -6,7 +6,7 @@ class: Rogue/Enchanter
 created: '2025-08-08'
 created_by: auto-stub
 danger_level: High
-faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil]]'
+faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]'
 influence: Moderate
 location: '[[The Shadow Markets]]'
 obsidianUIMode: preview
@@ -207,7 +207,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[02_Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
+**[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 
@@ -320,7 +320,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Thief]]
+- [[02_Worldbuilding/Places/Memory Thief|02 Worldbuilding/Places/Memory Thief]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

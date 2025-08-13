@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png)
 
-# [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus-xmm.md)
+# [[3-Mechanics\CLI\bestiary\plant/violet-fungus-xmm|Violet Fungus]]
 *Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Slow but mobile, violet fungi rot any flesh they touch with their lashing tendrils.
@@ -56,8 +56,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "1/4"

@@ -23,18 +23,18 @@ world: Both
 
 | Class | Str. | Dex. | Con. | Int. | Wis. | Cha. |
 |-------|------|------|------|------|------|------|
-| [Barbarian](/03_Mechanics/CLI/classes/barbarian-xphb.md) | 15 | 13 | 14 | 10 | 12 | 8 |
-| [Bard](/03_Mechanics/CLI/classes/bard-xphb.md) | 8 | 14 | 12 | 13 | 10 | 15 |
-| [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md) | 14 | 8 | 13 | 10 | 15 | 12 |
-| [Druid](/03_Mechanics/CLI/classes/druid-xphb.md) | 8 | 12 | 14 | 13 | 15 | 10 |
-| [Fighter](/03_Mechanics/CLI/classes/fighter-xphb.md) | 15 | 14 | 13 | 8 | 10 | 12 |
-| [Monk](/03_Mechanics/CLI/classes/monk-xphb.md) | 12 | 15 | 13 | 10 | 14 | 8 |
-| [Paladin](/03_Mechanics/CLI/classes/paladin-xphb.md) | 15 | 10 | 13 | 8 | 12 | 14 |
-| [Ranger](/03_Mechanics/CLI/classes/ranger-xphb.md) | 12 | 15 | 13 | 8 | 14 | 10 |
-| [Rogue](/03_Mechanics/CLI/classes/rogue-xphb.md) | 12 | 15 | 13 | 14 | 10 | 8 |
-| [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) | 10 | 13 | 14 | 8 | 12 | 15 |
-| [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | 8 | 14 | 13 | 12 | 10 | 15 |
-| [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | 8 | 12 | 13 | 15 | 14 | 10 |
+| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
+| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
+| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
+| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
+| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
+| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
+| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
+| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
+| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
+| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
+| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
+| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
 ^standard-array-by-class
 
 ## Player-Facing Summary

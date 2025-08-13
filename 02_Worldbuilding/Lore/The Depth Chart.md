@@ -30,13 +30,13 @@ world: Aquabyssos
 
 ## Overview
 
-The Depth Chart represents the most advanced underwater navigation and mapping system ever developed, combining magical survey technology, pressure-sensitive cartography, real-time depth monitoring, and comprehensive safety information to enable safe navigation throughout the waters surrounding [[02_Worldbuilding/Places/Aquabyssos]]. This sophisticated system provides critical information for everything from daily commuting to deep-sea exploration and emergency rescue operations.
+The Depth Chart represents the most advanced underwater navigation and mapping system ever developed, combining magical survey technology, pressure-sensitive cartography, real-time depth monitoring, and comprehensive safety information to enable safe navigation throughout the waters surrounding [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. This sophisticated system provides critical information for everything from daily commuting to deep-sea exploration and emergency rescue operations.
 
 The system integrates closely with the [[Pressure Adaptation System]] to provide navigation information tailored to individual pressure tolerance levels, while coordinating with [[Pressure Tubes]] to optimize transportation routes. Advanced magical algorithms continuously update depth information based on current conditions, geological changes, and safety assessments.
 
 Developed through centuries of underwater exploration and mapping expeditions, the Depth Chart combines traditional cartographic methods with cutting-edge magical surveying techniques. The system serves not just as navigation aid but as comprehensive safety resource, providing critical information about pressure zones, hazardous areas, emergency shelter locations, and rescue coordination.
 
-Recent technological advances have expanded the system to include inter-dimensional navigation capabilities for travel to [[02_Worldbuilding/Places/Aethermoor]], real-time hazard detection, and integration with [[Crystal-Corruption-Tracking-Sheet]] systems for navigational safety warnings.
+Recent technological advances have expanded the system to include inter-dimensional navigation capabilities for travel to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], real-time hazard detection, and integration with [[Crystal-Corruption-Tracking-Sheet]] systems for navigational safety warnings.
 
 ## System Architecture and Technology
 
@@ -147,7 +147,7 @@ Research organizations use the system for exploration and scientific investigati
 - **Archaeological Exploration**: Discovery and investigation of underwater historical sites
 - **Environmental Monitoring**: Navigation for ecological research and environmental assessment
 - **Geological Studies**: Investigation of underwater terrain and geological features
-- **Cross-Dimensional Exploration**: Navigation for travel to [[02_Worldbuilding/Places/Aethermoor]]
+- **Cross-Dimensional Exploration**: Navigation for travel to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 ## Innovation Opportunities
 
@@ -169,7 +169,7 @@ Ongoing research promises significant improvements to underwater navigation:
 ### Cross-Realm Integration
 
 **Inter-Dimensional Navigation:**
-Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates enhanced navigation possibilities:
+Cooperation with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates enhanced navigation possibilities:
 
 **Integration Projects:**
 - **Unified Navigation Standards**: Compatible systems across dimensions
@@ -250,11 +250,11 @@ Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates enhanced navigat
 ## Connected Technologies
 
 **Integrated Systems:**
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Navigation planning based on individual pressure tolerance
-- [[02_Worldbuilding/Lore/Pressure Tubes]] - Transportation system routing and coordination
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]] - Safety hazard integration for navigation
-- [[02_Worldbuilding/Lore/The Deep Harvest]] - Resource operations navigation and mapping
-- [[02_Worldbuilding/Lore/Underwater Breathing]] - Life support considerations for navigation planning
+- [[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]] - Navigation planning based on individual pressure tolerance
+- [[02_Worldbuilding/Lore/Pressure Tubes|02 Worldbuilding/Lore/Pressure Tubes]] - Transportation system routing and coordination
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet|02 Worldbuilding/Lore/Crystal Corruption Tracking Sheet]] - Safety hazard integration for navigation
+- [[02_Worldbuilding/Lore/The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]] - Resource operations navigation and mapping
+- [[02_Worldbuilding/Lore/Underwater Breathing|02 Worldbuilding/Lore/Underwater Breathing]] - Life support considerations for navigation planning
 
 ## Campaign Integration
 
@@ -278,7 +278,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 
 
 ## Connections

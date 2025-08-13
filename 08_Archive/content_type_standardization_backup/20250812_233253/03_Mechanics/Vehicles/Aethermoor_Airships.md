@@ -16,7 +16,7 @@ world: Aethermoor
 
 # Aethermoor Airships
 
-Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
+Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
 
 ## Crystal-Powered Airships (Examples)
 - Harmonium Skiff (Resonant levitation; silent running)
@@ -45,10 +45,10 @@ GM Note: Expand to 50+ designs via template [[05_Templates/Vehicles/New_Ship_Tem
 
 ## Integration Hooks
 - Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[Depth Survival Mechanics]])
-- Sanity: Prolonged void-sight requires [[02_Worldbuilding/Quests/Aquabyssos]] saves; shrine-chant stabilizes
+- Sanity: Prolonged void-sight requires [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] saves; shrine-chant stabilizes
 - Reality: Fold-Gate Couriers create micro-mergers; anchors mitigate
 - Memory: Whisper Kites harvest route echoes; charts fuel long-haul jumps
-- Faction: Doctrines yield preferred altitude bands and weapon arrays (see [[Fleet_Dynamics_Generator]])
+- Faction: Doctrines yield preferred altitude bands and weapon arrays (see [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]])
 
 ## Example Stat Block: Wind-Sung Clipper (Medium Frigate)
 - Hull 140 (Segments 4×35) • AC 15 crystal-rig • Speed 80 kn air • Maneuver 3/round
@@ -57,7 +57,7 @@ GM Note: Expand to 50+ designs via template [[05_Templates/Vehicles/New_Ship_Tem
 - RSB +2 • Sanity Threshold 14 • Anchors 1 • Upgrade Slots Bio 1 / Crystal 3 / Pressure 1 / Memory 1 / Shrine 1
 - Specials: Songride (+20 kn while bard performs), Prism Dive (vertical speed boost; Con saves on crew)
 
-Tables and events: [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]], [[Merger_Transit_Complications]].
+Tables and events: [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]], [[Merger_Transit_Complications|Merger Transit Complications]].
 
 ## Player-Facing Summary
 
@@ -81,4 +81,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Vehicles/Vehicles_Index]]
+- [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]

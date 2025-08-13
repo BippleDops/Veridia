@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
 
 
 ## Connections

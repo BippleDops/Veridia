@@ -39,7 +39,7 @@ world: Both
 
 
 
-You can doff this armor as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action.
+You can doff this armor as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)
@@ -55,7 +55,7 @@ You can doff this armor as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action.
 - [Cast-Off Splint Armor](#Cast-Off%20Splint%20Armor)
 - [Cast-Off Studded Leather Armor](#Cast-Off%20Studded%20Leather%20Armor)
 
-### Cast-Off Breastplate
+## Cast-Off Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

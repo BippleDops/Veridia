@@ -20,10 +20,10 @@ tags:
 # Trade Goods Catalog
 *The Merchant's Bible: Everything Has a Price*
 
-> *"Show me a man's inventory and I'll tell you his dreams, his fears, and the exact price of his soul."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"Show me a man's inventory and I'll tell you his dreams, his fears, and the exact price of his soul."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Overview
-This comprehensive catalog details the trade goods that flow through [[02_Worldbuilding/Lore/The Grand Trade Routes]] connecting [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Each entry includes base pricing, mechanical effects, availability, and the complex factors that determine true market value in an ever-changing economic landscape.
+This comprehensive catalog details the trade goods that flow through [[02_Worldbuilding/Lore/The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] connecting [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Each entry includes base pricing, mechanical effects, availability, and the complex factors that determine true market value in an ever-changing economic landscape.
 
 ## Pricing System and Modifiers
 
@@ -588,12 +588,12 @@ This comprehensive catalog details the trade goods that flow through [[02_Worldb
 - Extreme routes, contraband: 500-2000% (with massive risk)
 
 ## Connected Systems and Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks for trade goods
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Financial systems supporting trade
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]] - Locations where goods are bought and sold
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Organizations controlling trade goods flow
-- [[03_Mechanics/Living_Economy_Syste]] - Mechanical framework for dynamic pricing
-- [[03_Mechanics/Economic_Warfare_Simulator]] - Tools for economic conflict affecting trade
+- [[02_Worldbuilding/Lore/The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks for trade goods
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Financial systems supporting trade
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]] - Locations where goods are bought and sold
+- [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Organizations controlling trade goods flow
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical framework for dynamic pricing
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for economic conflict affecting trade
 
 ## Player-Facing Summary
 

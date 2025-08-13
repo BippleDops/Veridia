@@ -16,38 +16,38 @@ status: active
 
 # Index of Backgrounds
 
-- [Acolyte](./acolyte-xphb.md)
-- [Artisan](./artisan-xphb.md)
-- [Charlatan](./charlatan-xphb.md)
-- [Criminal (Spy) (Variant)](./criminal-spy-variant.md)
-- [Criminal](./criminal-xphb.md)
-- [Custom Background](./custom-background.md)
-- [Entertainer (Gladiator) (Variant)](./entertainer-gladiator-variant.md)
-- [Entertainer](./entertainer-xphb.md)
-- [Farmer](./farmer-xphb.md)
-- [Folk Hero](./folk-hero.md)
-- [Guard](./guard-xphb.md)
-- [Guide](./guide-xphb.md)
-- [Guild Artisan (Guild Merchant) (Variant)](./guild-artisan-guild-merchant-variant.md)
-- [Guild Artisan](./guild-artisan.md)
-- [Hermit](./hermit-xphb.md)
-- [Lorehold Student](./lorehold-student-scc.md)
-- [Merchant](./merchant-xphb.md)
-- [Noble (Knight) (Variant)](./noble-knight-variant.md)
-- [Noble (Retainers) (Variant)](./noble-retainers-variant.md)
-- [Noble](./noble-xphb.md)
-- [Outlander](./outlander.md)
-- [Prismari Student](./prismari-student-scc.md)
-- [Quandrix Student](./quandrix-student-scc.md)
-- [Sage](./sage-xphb.md)
-- [Sailor (Pirate) (Variant)](./sailor-pirate-variant.md)
-- [Sailor](./sailor-xphb.md)
-- [Scribe](./scribe-xphb.md)
-- [Silverquill Student](./silverquill-student-scc.md)
-- [Soldier](./soldier-xphb.md)
-- [Urchin](./urchin.md)
-- [Wayfarer](./wayfarer-xphb.md)
-- [Witherbloom Student](./witherbloom-student-scc.md)
+- [[./acolyte-xphb|Acolyte]]
+- [[./artisan-xphb|Artisan]]
+- [[./charlatan-xphb|Charlatan]]
+- [[./criminal-spy-variant|Criminal (Spy) (Variant)]]
+- [[./criminal-xphb|Criminal]]
+- [[./custom-background|Custom Background]]
+- [[./entertainer-gladiator-variant|Entertainer (Gladiator) (Variant)]]
+- [[./entertainer-xphb|Entertainer]]
+- [[./farmer-xphb|Farmer]]
+- [[./folk-hero|Folk Hero]]
+- [[./guard-xphb|Guard]]
+- [[./guide-xphb|Guide]]
+- [[./guild-artisan-guild-merchant-variant|Guild Artisan (Guild Merchant) (Variant)]]
+- [[./guild-artisan|Guild Artisan]]
+- [[./hermit-xphb|Hermit]]
+- [[./lorehold-student-scc|Lorehold Student]]
+- [[./merchant-xphb|Merchant]]
+- [[./noble-knight-variant|Noble (Knight) (Variant)]]
+- [[./noble-retainers-variant|Noble (Retainers) (Variant)]]
+- [[./noble-xphb|Noble]]
+- [[./outlander|Outlander]]
+- [[./prismari-student-scc|Prismari Student]]
+- [[./quandrix-student-scc|Quandrix Student]]
+- [[./sage-xphb|Sage]]
+- [[./sailor-pirate-variant|Sailor (Pirate) (Variant)]]
+- [[./sailor-xphb|Sailor]]
+- [[./scribe-xphb|Scribe]]
+- [[./silverquill-student-scc|Silverquill Student]]
+- [[./soldier-xphb|Soldier]]
+- [[./urchin|Urchin]]
+- [[./wayfarer-xphb|Wayfarer]]
+- [[./witherbloom-student-scc|Witherbloom Student]]
 
 ## Player-Facing Summary
 

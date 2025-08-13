@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-thonot-xmm-quaggoth-thonot-xmm.svg)
 
-# [Quaggoth Thonot](3-Mechanics\CLI\bestiary\monstrosity/quaggoth-thonot-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/quaggoth-thonot-xmm|Quaggoth Thonot]]
 *Source: Monster Manual (2024) p. 251*  
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
@@ -59,16 +59,16 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "While [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
-      \ quaggoth has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "While [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]], the\
+      \ quaggoth has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
@@ -79,13 +79,13 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Claw"
   - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-      \ [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible),\
-      \ [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day:\
-      \ [Mind Spike](/03_Mechanics/CLI/spells/mind-spike-xphb.md)"
+      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]] (the hand is Invisible),\
+      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]]\n\n2/day:\
+      \ [[/03_Mechanics/CLI/spells/mind-spike-xphb|Mind Spike]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The quaggoth casts [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md)\
-      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The quaggoth casts [[/03_Mechanics/CLI/spells/feather-fall-xphb|Feather Fall]]\
+      \ or [[/03_Mechanics/CLI/spells/shield-xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (3/Day)"

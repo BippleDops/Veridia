@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
 
-# [Lich](3-Mechanics\CLI\bestiary\undead/lich-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/lich-xmm|Lich]]
 *Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Lich
@@ -98,19 +98,19 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+19"
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+12"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "all"
 "cr": "21"
@@ -118,7 +118,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
   - "desc": "If destroyed, the lich reforms in d10 days if it has a spirit jar, reviving\
-      \ with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
       \ The new body appears in an unoccupied space within the lich's lair."
     "name": "Spirit Jar"
 "actions":
@@ -129,25 +129,25 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \ 31 (4d12 + 5) Force damage."
     "name": "Eldritch Burst"
   - "desc": "Melee Attack Roll: +12, reach 5 ft. Hit: 15 (3d6 + 5) Cold damage,\
-      \ and the target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ and the target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
       \ condition until the start of the lich's next turn."
     "name": "Paralyzing Touch"
   - "desc": "The lich casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md), [Dispel\
-      \ Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)\
-      \ (level 5 version), [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md) (level 5\
-      \ version), [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n2/day each: [Animate Dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md),\
-      \ [Dimension Door](/03_Mechanics/CLI/spells/dimension-door-xphb.md), [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\n\
-      \n1/day each: [Chain Lightning](/03_Mechanics/CLI/spells/chain-lightning-xphb.md),\
-      \ [Finger of Death](/03_Mechanics/CLI/spells/finger-of-death-xphb.md), [Power\
-      \ Word Kill](/03_Mechanics/CLI/spells/power-word-kill-xphb.md), [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md)"
+      \ spellcasting ability (spell save DC 20):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel\
+      \ Magic]], [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]]\
+      \ (level 5 version), [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]],\
+      \ [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]] (level 5\
+      \ version), [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|Prestidigitation]]\n\
+      \n2/day each: [[/03_Mechanics/CLI/spells/animate-dead-xphb|Animate Dead]],\
+      \ [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/chain-lightning-xphb|Chain Lightning]],\
+      \ [[/03_Mechanics/CLI/spells/finger-of-death-xphb|Finger of Death]], [[/03_Mechanics/CLI/spells/power-word-kill-xphb|Power\
+      \ Word Kill]], [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The lich casts [Counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md)\
-      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The lich casts [[/03_Mechanics/CLI/spells/counterspell-xphb|Counterspell]]\
+      \ or [[/03_Mechanics/CLI/spells/shield-xphb|Shield]] in response to the spell's\
       \ trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic"
 "legendary_actions":
@@ -156,12 +156,12 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \ damage."
     "name": "Deathly Teleport"
   - "desc": "Constitution Saving Throw: DC 20, each creature that isn't an Undead\
-      \ in a 20-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ in a 20-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the lich. Failure: 31 (9d6) Necrotic damage. Success:\
       \ Half damage. Failure or Success: The lich can't take this action again until\
       \ the start of its next turn."
     "name": "Disrupt Life"
-  - "desc": "The lich casts [Fear](/03_Mechanics/CLI/spells/fear-xphb.md), using the\
+  - "desc": "The lich casts [[/03_Mechanics/CLI/spells/fear-xphb|Fear]], using the\
       \ same spellcasting ability as Spellcasting. The lich can't take this action\
       \ again until the start of its next turn.\n"
     "name": "Frightening Gaze"
@@ -169,12 +169,12 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "desc": "The region containing a lich's lair is warped by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- All-Seeing. While in its lair, the lich can cast [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md),\
+  - "desc": "- All-Seeing. While in its lair, the lich can cast [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]],\
       \ requiring no spell components and using the same spellcasting ability as its\
       \ Spellcasting action.  \n- Inevitable Siphon. Whenever a Humanoid dies\
       \ within 1 mile of the lair, its soul is immediately consumed by the lich. A\
       \ Humanoid whose soul is consumed in this way can be brought back to life only\
-      \ by a True Resurrection or [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell.\
+      \ by a True Resurrection or [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] spell.\
       \  "
     "name": ""
   - "desc": "If the lich is destroyed or moves its lair elsewhere, these effects end\

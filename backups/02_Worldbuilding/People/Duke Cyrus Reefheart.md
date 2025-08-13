@@ -24,7 +24,7 @@ tags:
 # Duke Cyrus Reefheart
 
 ## Overview
-Duke Cyrus Reefheart leads the [[Coral Courts]] from [[02_Worldbuilding/Places/Lumengarde]], championing biological adaptation as the future of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. His body is a living artwork of symbiotic modification - coral grows from his shoulders, bioluminescent patterns pulse beneath his translucent skin, and small fish swim through hollow chambers in his torso. What remains human is beautiful in an alien way, but less of him is human each year.
+Duke Cyrus Reefheart leads the [[Coral Courts]] from [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]], championing biological adaptation as the future of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. His body is a living artwork of symbiotic modification - coral grows from his shoulders, bioluminescent patterns pulse beneath his translucent skin, and small fish swim through hollow chambers in his torso. What remains human is beautiful in an alien way, but less of him is human each year.
 
 ## Personality
 - **Visionary**: Sees biological unity as evolution, not corruption
@@ -50,14 +50,14 @@ Duke Cyrus Reefheart leads the [[Coral Courts]] from [[02_Worldbuilding/Places/L
 - [[Artisan Felix Reefwright]] - Creates living tools
 
 ### Political Rivals
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Opposes biological supremacy
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Accused him of creating bioweapons
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious differences about transformation
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]] - Opposes biological supremacy
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Accused him of creating bioweapons
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious differences about transformation
 
 ### Complicated Relationships
 - [[Doctor Silas Voidtouch]] - Shares research but disagrees on methods
 - [[The Biomancers]] - Supports their goals but not extremism
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Academic colleague turned rival
+- [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] - Academic colleague turned rival
 
 ## History
 Born to ancient noble family that ruled the Coral Islands before drowning. Family was first to accept biological adaptation to survive. Cyrus took the process further than anyone, allowing complete symbiosis with coral palace. Has ruled Lumengarde for 89 years but appears ageless due to constant regeneration.
@@ -65,7 +65,7 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 ## Current Activities
 1. Merging further with his palace-body
 2. Developing adaptation to resist [[The Deepmind]]
-3. Negotiating trade disputes with [[02_Worldbuilding/Places/Pressure's End]]
+3. Negotiating trade disputes with [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 4. Spreading biological adaptation philosophy
 5. Growing a "daughter" from his own biomass
 
@@ -127,15 +127,15 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 - "The Colony" (by detractors)
 
 ## Locations
-- Primary: [[02_Worldbuilding/Places/Lumengarde]] - Coral Palace
-- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - Embassy suite
+- Primary: [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] - Coral Palace
+- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] - Embassy suite
 - Laboratory: Deep Garden experimental chambers
 - Grows: Throughout any coral structure in Lumengarde
 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 
 ## Appearance
@@ -175,7 +175,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]]
 
 <!-- enriched: true -->
 - [[Master Cultivator Thalia Greenglow]]

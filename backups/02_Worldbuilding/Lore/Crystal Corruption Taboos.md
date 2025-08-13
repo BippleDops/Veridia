@@ -1018,7 +1018,7 @@ Taboo variation between communities and worlds creates adventures focused on cul
 ## Connections
 
 - [[The Deep Mother]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -1042,6 +1042,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[The Great Crystallization]]
 - [[Aethermoor]]

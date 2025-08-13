@@ -46,7 +46,7 @@ Tactics: Aim to disable, then board; retreat if leader down
 
 ## Integrations
 - [[Complete Faction Warfare System]]: adjust standing on outcome
-- [[Vehicle_Core_Rules#12) Parasite Boarding & Biohazards]]: infection risks if tubes attach
+- [[Vehicle_Core_Rules#12) Parasite Boarding & Biohazards|Vehicle Core Rules#12) Parasite Boarding & Biohazards]]: infection risks if tubes attach
 
 ## Scaling
 - Elite privateers add anchor jammer (RSB -2 within 200 ft)

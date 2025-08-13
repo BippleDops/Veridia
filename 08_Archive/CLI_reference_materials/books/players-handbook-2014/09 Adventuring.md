@@ -63,9 +63,9 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 
 ##### Forced March
 
-The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
+The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) (see the appendix).
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see the appendix).
 
 ##### Mounts and Vehicles
 
@@ -75,7 +75,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
 
-![Travel Pace](/03_Mechanics/CLI/tables/travel-pace-phb.md)
+![[/03_Mechanics/CLI/tables/travel-pace-phb|Travel Pace]]
 
 #### Difficult Terrain
 
@@ -89,7 +89,7 @@ Movement through dangerous dungeons or wilderness areas often involves more than
 
 #### Climbing, Swimming, and Crawling
 
-Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you're climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. Similarly, gaining any distance in rough water might require a successful Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you're climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. Similarly, gaining any distance in rough water might require a successful Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 #### Jumping
 
@@ -99,13 +99,13 @@ Your Strength determines how far you can jump.
 
 When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
 
-This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
+This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check to land on your feet. Otherwise, you land [prone](/03_Mechanics/CLI/conditions.md#Prone).
+When you land in difficult terrain, you must succeed on a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to land on your feet. Otherwise, you land [[/03_Mechanics/CLI/conditions#Prone|prone]].
 
 ##### High Jump
 
-When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to jump higher than you normally can.
+When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to jump higher than you normally can.
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
@@ -131,9 +131,9 @@ While traveling at a slow pace, the characters can move stealthily. As long as t
 
 #### Noticing Threats
 
-Use the passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
+Use the passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of the characters to determine whether anyone in the group notices a hidden threat. The DM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the DM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot.
 
-While traveling at a fast pace, characters take a -5 penalty to their passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores to notice hidden threats.
+While traveling at a fast pace, characters take a -5 penalty to their passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to notice hidden threats.
 
 ##### Encountering Creatures
 
@@ -141,17 +141,17 @@ If the DM determines that the adventurers encounter other creatures while they'r
 
 ##### Surprising Foes
 
-If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be [surprised](/03_Mechanics/CLI/conditions.md#Surprised) when combat erupts. See chapter 9 for more about surprise.
+If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be [[/03_Mechanics/CLI/conditions#Surprised|surprised]] when combat erupts. See chapter 9 for more about surprise.
 
 #### Other Activities
 
 Characters who turn their attention to other tasks as the group travels are not focused on watching for danger.
 
-These characters don't contribute their passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
+These characters don't contribute their passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the DM's permission.
 
 ##### Navigate
 
-The character can try to prevent the group from becoming lost, making a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check when the DM calls for it. (The Dungeon Master's Guide has rules to determine whether the group gets lost.)
+The character can try to prevent the group from becoming lost, making a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check when the DM calls for it. (The Dungeon Master's Guide has rules to determine whether the group gets lost.)
 
 ##### Draw a Map
 
@@ -159,11 +159,11 @@ The character can draw a map that records the group's progress and helps the cha
 
 ##### Track
 
-A character can follow the tracks of another creature, making a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check when the DM calls for it. (The Dungeon Master's Guide has rules for tracking.)
+A character can follow the tracks of another creature, making a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check when the DM calls for it. (The Dungeon Master's Guide has rules for tracking.)
 
 ##### Forage
 
-The character can keep an eye out for ready sources of food and water, making a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check when the DM calls for it. (The Dungeon Master's Guide has rules for foraging.)
+The character can keep an eye out for ready sources of food and water, making a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check when the DM calls for it. (The Dungeon Master's Guide has rules for foraging.)
 
 > [!note] Splitting Up the Party
 > 
@@ -180,7 +180,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 A fall from a great height is one of the most common hazards facing an adventurer.
 
-At the end of a fall, a creature takes `d6` bludgeoning damage for every 10 feet it fell, to a maximum of `20d6`. The creature lands [prone](/03_Mechanics/CLI/conditions.md#Prone), unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes `d6` bludgeoning damage for every 10 feet it fell, to a maximum of `20d6`. The creature lands [[/03_Mechanics/CLI/conditions#Prone|prone]], unless it avoids taking damage from the fall.
 
 #### Suffocating
 
@@ -194,9 +194,9 @@ For example, a creature with a Constitution of 14 can hold its breath for 3 minu
 
 The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
-A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight.
 
-A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the [blinded](/03_Mechanics/CLI/conditions.md#Blinded) condition when trying to see something in that area.
+A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the [[/03_Mechanics/CLI/conditions#Blinded|blinded]] condition when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -216,27 +216,27 @@ Many creatures in fantasy gaming worlds, especially those that dwell underground
 
 ##### Truesight
 
-A creature with truesight can, out to a specific range, see in normal and magical darkness, see [invisible](/03_Mechanics/CLI/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+A creature with truesight can, out to a specific range, see in normal and magical darkness, see [[/03_Mechanics/CLI/conditions#Invisible|invisible]] creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c81.webp#center)
 
 #### Food and Water
 
-Characters who don't eat or drink suffer the effects of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) (see the appendix). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see the appendix). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 ##### Food
 
 A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
+A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
 
 A normal day of eating resets the count of days without food to zero.
 
 ##### Water
 
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) at the end of the day. A character with access to even less water automatically suffers one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) at the end of the day.
+A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] at the end of the day.
 
-If the character already has one or more levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), the character takes two levels in either case.
+If the character already has one or more levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], the character takes two levels in either case.
 
 #### Interacting with Objects
 
@@ -307,7 +307,7 @@ In addition to roleplaying, ability checks are key in determining the outcome of
 
 Your roleplaying efforts can alter an NPC's attitude, but there might still be an element of chance in the situation. For example, your DM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC's reactions. Other checks might be appropriate in certain situations, at your DM's discretion.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [Deception](/03_Mechanics/CLI/skills.md#Deception) is the best bet to lead the discussion. When negotiating for a hostage's release, the cleric with [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion) should do most of the talking.
+Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a castle, the rogue who is proficient in [[/03_Mechanics/CLI/skills#Deception|Deception]] is the best bet to lead the discussion. When negotiating for a hostage's release, the cleric with [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]] should do most of the talking.
 
 ### Resting
 
@@ -351,7 +351,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md) needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [[/03_Mechanics/CLI/items/smiths-tools-xphb|smith's tools]] needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
 
@@ -365,7 +365,7 @@ You can work between adventures, allowing you to maintain a modest lifestyle wit
 
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 
-If you have proficiency in the [Performance](/03_Mechanics/CLI/skills.md#Performance) skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+If you have proficiency in the [[/03_Mechanics/CLI/skills#Performance|Performance]] skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
 
 ##### Recuperating
 
@@ -380,7 +380,7 @@ After three days of downtime spent recuperating, you can make a DC 15 Constituti
 
 The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
 
-When you begin your research, the DM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The DM might also require you to make one or more ability checks, such as an Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check to find clues pointing toward the information you seek, or a Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
+When you begin your research, the DM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The DM might also require you to make one or more ability checks, such as an Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check to find clues pointing toward the information you seek, or a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses (as discussed in chapter 5).
 
@@ -392,9 +392,9 @@ First, you must find an instructor willing to teach you. The DM determines how l
 
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
 ## Player-Facing Summary
 

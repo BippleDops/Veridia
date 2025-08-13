@@ -658,7 +658,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 
 **Related NPCs**:
 - [[Current Rider Captain Crimson Velocity]]
-- [[02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
+- [[02_Worldbuilding/Places/Iron Rapids Fleetcurrent|02 Worldbuilding/Places/Iron Rapids Fleetcurrent]]
 - [[Captain Scarlet Torrent]]
 - [[Transportation Guild Masters]]
 
@@ -688,6 +688,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[02_Worldbuilding/Places/Blood Current Express|02 Worldbuilding/Places/Blood Current Express]]
 
 <!-- enriched: true -->

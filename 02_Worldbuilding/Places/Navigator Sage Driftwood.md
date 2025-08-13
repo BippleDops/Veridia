@@ -176,6 +176,6 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
+- [[02_Worldbuilding/Places/Navigator Sage Driftwood|02 Worldbuilding/Places/Navigator Sage Driftwood]]
 
 <!-- enriched: true -->

@@ -27,10 +27,10 @@ world: Both
 
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
-You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [astral projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md) spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+You have a +3 bonus to attack and damage rolls made with this magic weapon. On a critical hit against a target in an astral body (as with the [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]] spell), you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 *Source: Mordenkainen's Tome of Foes p. 89*
 

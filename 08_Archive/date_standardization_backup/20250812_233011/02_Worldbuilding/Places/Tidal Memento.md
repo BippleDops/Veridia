@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Tidal Memento]]
+- [[02_Worldbuilding/Places/Tidal Memento|02 Worldbuilding/Places/Tidal Memento]]
 
 <!-- enriched: true -->
 

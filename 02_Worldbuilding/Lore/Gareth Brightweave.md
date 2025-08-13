@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
+- [[02_Worldbuilding/Lore/Desperate Plague Victim|02 Worldbuilding/Lore/Desperate Plague Victim]]
 
 
 ## Connections

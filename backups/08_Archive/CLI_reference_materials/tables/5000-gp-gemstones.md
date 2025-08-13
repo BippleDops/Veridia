@@ -25,10 +25,10 @@ world: Both
 
 | dice: d4 | Stone Description |
 |----------|-------------------|
-| 1 | [Black sapphire](/03_Mechanics/CLI/items/black-sapphire-xdmg.md) (translucent lustrous black with glowing highlights) |
-| 2 | [Diamond](/03_Mechanics/CLI/items/diamond-xdmg.md) (transparent blue-white, canary, pink, brown, or blue) |
-| 3 | [Jacinth](/03_Mechanics/CLI/items/jacinth-xdmg.md) (transparent fiery orange) |
-| 4 | [Ruby](/03_Mechanics/CLI/items/ruby-xdmg.md) (transparent clear red to deep crimson) |
+| 1 | [[/03_Mechanics/CLI/items/black-sapphire-xdmg|Black sapphire]] (translucent lustrous black with glowing highlights) |
+| 2 | [[/03_Mechanics/CLI/items/diamond-xdmg|Diamond]] (transparent blue-white, canary, pink, brown, or blue) |
+| 3 | [[/03_Mechanics/CLI/items/jacinth-xdmg|Jacinth]] (transparent fiery orange) |
+| 4 | [[/03_Mechanics/CLI/items/ruby-xdmg|Ruby]] (transparent clear red to deep crimson) |
 ^5000-gp-gemstones
 
 ## Player-Facing Summary

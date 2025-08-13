@@ -31,9 +31,9 @@ world: Both
 
 **Items in this group:**
 
-- [Crystal Ball of Mind Reading](/03_Mechanics/CLI/items/crystal-ball-of-mind-reading-xdmg.md)
-- [Crystal Ball of Telepathy](/03_Mechanics/CLI/items/crystal-ball-of-telepathy-xdmg.md)
-- [Crystal Ball of True Seeing](/03_Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md)
+- [[/03_Mechanics/CLI/items/crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]]
+- [[/03_Mechanics/CLI/items/crystal-ball-of-telepathy-xdmg|Crystal Ball of Telepathy]]
+- [[/03_Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg|Crystal Ball of True Seeing]]
 
 *Source: Dungeon Master's Guide p. 159*
 

@@ -23,11 +23,11 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-pathfinders-greataxe-pota-pathfinders-greataxe-pota.svg)
 
 # Pathfinder's Greataxe
-*Weapon ([greataxe](/03_Mechanics/CLI/items/greataxe-xphb.md))*  
+*Weapon ([[/03_Mechanics/CLI/items/greataxe-xphb|greataxe]])*  
 
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 When you wield this +1 greataxe, you always know the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground.

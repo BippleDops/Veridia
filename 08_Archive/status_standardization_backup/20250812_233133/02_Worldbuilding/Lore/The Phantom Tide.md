@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Items/Shadow-touched Equipment Set]]
+- [[02_Worldbuilding/Items/Shadow-touched Equipment Set|02 Worldbuilding/Items/Shadow Touched Equipment Set]]
 
 
 ## Connections

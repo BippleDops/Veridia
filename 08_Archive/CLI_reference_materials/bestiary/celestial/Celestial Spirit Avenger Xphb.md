@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
 
-# [Celestial Spirit (Avenger)](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-avenger-xphb.md)
+# [[3-Mechanics\CLI\bestiary\celestial/celestial-spirit-avenger-xphb|Celestial Spirit (Avenger)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -43,7 +43,7 @@ world: Both
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":

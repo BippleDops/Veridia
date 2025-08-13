@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thorne Darkwater]]
+- [[02_Worldbuilding/People/Captain Thorne Darkwater|02 Worldbuilding/People/Captain Thorne Darkwater]]
 
 <!-- enriched: true -->

@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/pike.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 5 gp
 - **Weight**: 18.0 lbs.
 

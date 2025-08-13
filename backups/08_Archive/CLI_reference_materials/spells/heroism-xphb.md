@@ -30,11 +30,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition and gains [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your spellcasting ability modifier at the start of each of its turns.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition and gains [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to your spellcasting ability modifier at the start of each of its turns.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]
 
 *Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

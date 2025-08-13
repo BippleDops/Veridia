@@ -102,7 +102,7 @@ The Pearl Heist provides excellent background for heist adventures, criminal inv
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
 
 
 ## Appearance
@@ -144,7 +144,7 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Pearl Heist]]
+- [[02_Worldbuilding/People/The Pearl Heist|02 Worldbuilding/People/The Pearl Heist]]
 
 <!-- enriched: true -->
 iched: true -->

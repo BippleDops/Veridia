@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Lore/The Bloom Fields|02 Worldbuilding/Lore/The Bloom Fields]]
 
 
 ## Connections

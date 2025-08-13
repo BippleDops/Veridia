@@ -449,7 +449,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 **Primary Investigation Networks:**
 - [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities, coordinates with [[Timeline of Crimes]] documentation efforts
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
 - [[High Priestess Nerida Deepcurrent]] - Religious leader potentially involved in spiritual detection of identity manipulation
 
 **Conspiracy Network Connections:**
@@ -470,16 +470,16 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ### Related Locations
 - [[Crystal Forest]] - Possible source of mask materials and crystal technology
 - [[Aethermoor Archives]] - Location of historical records mentioning similar masked figures
-- [[02_Worldbuilding/Places/The Shadow Nexus]] - Possible connection to Crimson Hand coordination
+- [[02_Worldbuilding/Places/The Shadow Nexus|02 Worldbuilding/Places/The Shadow Nexus]] - Possible connection to Crimson Hand coordination
 - [[Silverscale Emergency Bunker]] - Location where Silver Mask communications may be coordinated
-- [[02_Worldbuilding/Places/Lighthouse Peak]] - Strategic location for cross-dimensional surveillance
+- [[02_Worldbuilding/Places/Lighthouse Peak|02 Worldbuilding/Places/Lighthouse Peak]] - Strategic location for cross-dimensional surveillance
 
 ### Important Artifacts and Evidence
 - [[The Seven Shards]] - Objects of intense interest to Silver Mask
 - [[Evidence Chain Analysis]] - Methodologies for investigating Silver Mask activities
 - [[Timeline of Crimes]] - Historical framework for understanding Silver Mask's long-term activities
-- [[02_Worldbuilding/Items/Memory Crystals]] - Technology potentially used for identity alteration
-- [[02_Worldbuilding/Items/Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
+- [[02_Worldbuilding/Items/Memory Crystals|02 Worldbuilding/Items/Memory Crystals]] - Technology potentially used for identity alteration
+- [[02_Worldbuilding/Items/Dimensional Communication Arrays|02 Worldbuilding/Items/Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
 
 ### Investigation Resources
 
@@ -537,7 +537,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]
 - [[Aurelius Goldwave]]
 - [[Corruption Tracking]]
 - [[Crystal Forest]]

@@ -25,16 +25,16 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–10 | [Armor of Gleaming](/03_Mechanics/CLI/items/armor-of-gleaming-xdmg.md) |
-| 11–20 | [Cast-Off Armor](/03_Mechanics/CLI/items/cast-off-armor-xdmg.md) |
-| 21–30 | [Dread Helm](/03_Mechanics/CLI/items/dread-helm-xdmg.md) |
-| 31–40 | [Moon-Touched Sword](/03_Mechanics/CLI/items/moon-touched-sword-xdmg.md) |
-| 41–50 | [Shield of Expression](/03_Mechanics/CLI/items/shield-of-expression-xdmg.md) |
-| 51–60 | [Silvered Weapon](/03_Mechanics/CLI/items/silvered-weapon-xdmg.md) |
-| 61–70 | [Smoldering Armor](/03_Mechanics/CLI/items/smoldering-armor-xdmg.md) |
-| 71–80 | [Sylvan Talon](/03_Mechanics/CLI/items/sylvan-talon-xdmg.md) |
-| 81–90 | [Veteran's Cane](/03_Mechanics/CLI/items/veterans-cane-xdmg.md) |
-| 91–00 | [Walloping Ammunition](/03_Mechanics/CLI/items/walloping-ammunition-xdmg.md) |
+| 01–10 | [[/03_Mechanics/CLI/items/armor-of-gleaming-xdmg|Armor of Gleaming]] |
+| 11–20 | [[/03_Mechanics/CLI/items/cast-off-armor-xdmg|Cast-Off Armor]] |
+| 21–30 | [[/03_Mechanics/CLI/items/dread-helm-xdmg|Dread Helm]] |
+| 31–40 | [[/03_Mechanics/CLI/items/moon-touched-sword-xdmg|Moon-Touched Sword]] |
+| 41–50 | [[/03_Mechanics/CLI/items/shield-of-expression-xdmg|Shield of Expression]] |
+| 51–60 | [[/03_Mechanics/CLI/items/silvered-weapon-xdmg|Silvered Weapon]] |
+| 61–70 | [[/03_Mechanics/CLI/items/smoldering-armor-xdmg|Smoldering Armor]] |
+| 71–80 | [[/03_Mechanics/CLI/items/sylvan-talon-xdmg|Sylvan Talon]] |
+| 81–90 | [[/03_Mechanics/CLI/items/veterans-cane-xdmg|Veteran's Cane]] |
+| 91–00 | [[/03_Mechanics/CLI/items/walloping-ammunition-xdmg|Walloping Ammunition]] |
 ^armaments-common
 
 **Armaments - Uncommon**
@@ -43,27 +43,27 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–04 | [Adamantine Armor](/03_Mechanics/CLI/items/adamantine-armor-xdmg.md) |
-| 05–08 | [Adamantine Weapon](/03_Mechanics/CLI/items/adamantine-weapon-xdmg.md) |
-| 09–13 | [Ammunition, +1](/03_Mechanics/CLI/items/1-ammunition-xdmg.md) |
-| 14–18 | [Bracers of Archery](/03_Mechanics/CLI/items/bracers-of-archery-xdmg.md) |
-| 19–23 | [Enspelled Armor](/03_Mechanics/CLI/items/enspelled-armor-xdmg.md) (cantrip or level 1 spell) |
-| 24–28 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (cantrip or level 1 spell) |
-| 29–33 | [Gauntlets of Ogre Power](/03_Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg.md) |
-| 34–38 | [Javelin of Lightning](/03_Mechanics/CLI/items/javelin-of-lightning-xdmg.md) |
-| 39–43 | [Mariner's Armor](/03_Mechanics/CLI/items/mariners-armor-xdmg.md) |
-| 44–48 | [Mithral Armor](/03_Mechanics/CLI/items/mithral-armor-xdmg.md) |
-| 49–53 | [Potion of Giant Strength (hill)](/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md) |
-| 54–58 | [Potion of Pugilism](/03_Mechanics/CLI/items/potion-of-pugilism-xdmg.md) |
-| 59–62 | [Quiver of Ehlonna](/03_Mechanics/CLI/items/quiver-of-ehlonna-xdmg.md) |
-| 63–66 | [Saddle of the Cavalier](/03_Mechanics/CLI/items/saddle-of-the-cavalier-xdmg.md) |
-| 67–71 | [Sentinel Shield](/03_Mechanics/CLI/items/sentinel-shield-xdmg.md) |
-| 72–76 | [Shield, +1](/03_Mechanics/CLI/items/1-shield-xdmg.md) |
-| 77–81 | [Sword of Vengeance](/03_Mechanics/CLI/items/sword-of-vengeance-xdmg.md) |
-| 82–85 | [Trident of Fish Command](/03_Mechanics/CLI/items/trident-of-fish-command-xdmg.md) |
-| 86–90 | [Weapon, +1](/03_Mechanics/CLI/items/1-weapon-xdmg.md) |
-| 91–95 | [Weapon of Warning](/03_Mechanics/CLI/items/weapon-of-warning-xdmg.md) |
-| 96–00 | [Wraps of Unarmed Power, +1](/03_Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg.md) |
+| 01–04 | [[/03_Mechanics/CLI/items/adamantine-armor-xdmg|Adamantine Armor]] |
+| 05–08 | [[/03_Mechanics/CLI/items/adamantine-weapon-xdmg|Adamantine Weapon]] |
+| 09–13 | [[/03_Mechanics/CLI/items/1-ammunition-xdmg|Ammunition, +1]] |
+| 14–18 | [[/03_Mechanics/CLI/items/bracers-of-archery-xdmg|Bracers of Archery]] |
+| 19–23 | [[/03_Mechanics/CLI/items/enspelled-armor-xdmg|Enspelled Armor]] (cantrip or level 1 spell) |
+| 24–28 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (cantrip or level 1 spell) |
+| 29–33 | [[/03_Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]] |
+| 34–38 | [[/03_Mechanics/CLI/items/javelin-of-lightning-xdmg|Javelin of Lightning]] |
+| 39–43 | [[/03_Mechanics/CLI/items/mariners-armor-xdmg|Mariner's Armor]] |
+| 44–48 | [[/03_Mechanics/CLI/items/mithral-armor-xdmg|Mithral Armor]] |
+| 49–53 | [[/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg|Potion of Giant Strength (hill)]] |
+| 54–58 | [[/03_Mechanics/CLI/items/potion-of-pugilism-xdmg|Potion of Pugilism]] |
+| 59–62 | [[/03_Mechanics/CLI/items/quiver-of-ehlonna-xdmg|Quiver of Ehlonna]] |
+| 63–66 | [[/03_Mechanics/CLI/items/saddle-of-the-cavalier-xdmg|Saddle of the Cavalier]] |
+| 67–71 | [[/03_Mechanics/CLI/items/sentinel-shield-xdmg|Sentinel Shield]] |
+| 72–76 | [[/03_Mechanics/CLI/items/1-shield-xdmg|Shield, +1]] |
+| 77–81 | [[/03_Mechanics/CLI/items/sword-of-vengeance-xdmg|Sword of Vengeance]] |
+| 82–85 | [[/03_Mechanics/CLI/items/trident-of-fish-command-xdmg|Trident of Fish Command]] |
+| 86–90 | [[/03_Mechanics/CLI/items/1-weapon-xdmg|Weapon, +1]] |
+| 91–95 | [[/03_Mechanics/CLI/items/weapon-of-warning-xdmg|Weapon of Warning]] |
+| 96–00 | [[/03_Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +1]] |
 ^armaments-uncommon
 
 **Armaments - Rare**
@@ -72,42 +72,42 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Ammunition, +2](/03_Mechanics/CLI/items/2-ammunition-xdmg.md) |
-| 04–07 | [Armor, +1](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 08–10 | [Armor of Resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 11–13 | [Armor of Vulnerability](/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg.md) |
-| 14–15 | [Arrow-Catching Shield](/03_Mechanics/CLI/items/arrow-catching-shield-xdmg.md) |
-| 16–18 | [Belt of Giant Strength (hill)](/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg.md) |
-| 19–20 | [Berserker Axe](/03_Mechanics/CLI/items/berserker-axe-xdmg.md) |
-| 21–22 | [Daern's Instant Fortress](/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) |
-| 23–25 | [Dagger of Venom](/03_Mechanics/CLI/items/dagger-of-venom-xdmg.md) |
-| 26–28 | [Dragon Slayer](/03_Mechanics/CLI/items/dragon-slayer-xdmg.md) |
-| 29–31 | [Elven Chain](/03_Mechanics/CLI/items/elven-chain-xdmg.md) |
-| 32–34 | [Enspelled Armor](/03_Mechanics/CLI/items/enspelled-armor-xdmg.md) (level 2 or 3 spell) |
-| 35–37 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (level 2 or 3 spell) |
-| 38–40 | [Flame Tongue](/03_Mechanics/CLI/items/flame-tongue-xdmg.md) |
-| 41–43 | [Giant Slayer](/03_Mechanics/CLI/items/giant-slayer-xdmg.md) |
-| 44–46 | [Horn of Blasting](/03_Mechanics/CLI/items/horn-of-blasting-xdmg.md) |
-| 47–48 | [Horn of Valhalla](/03_Mechanics/CLI/items/horn-of-valhalla-xdmg.md) ([brass](/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg.md) or [silver](/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md)) |
-| 49–51 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([protection](/03_Mechanics/CLI/items/ioun-stone-protection-xdmg.md)) |
-| 52–54 | [Mace of Disruption](/03_Mechanics/CLI/items/mace-of-disruption-xdmg.md) |
-| 55–57 | [Mace of Smiting](/03_Mechanics/CLI/items/mace-of-smiting-xdmg.md) |
-| 58–60 | [Mace of Terror](/03_Mechanics/CLI/items/mace-of-terror-xdmg.md) |
-| 61–63 | [Potion of Giant Strength (fire)](/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md) |
-| 64–66 | [Potion of Giant Strength](/03_Mechanics/CLI/items/potion-of-giant-strength-xdmg.md) ([frost](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md) or [stone](/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg.md)) |
-| 67–69 | [Potion of Heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md) |
-| 70–72 | [Potion of Invulnerability](/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg.md) |
-| 73–75 | [Ring of Protection](/03_Mechanics/CLI/items/ring-of-protection-xdmg.md) |
-| 76–78 | [Ring of the Ram](/03_Mechanics/CLI/items/ring-of-the-ram-xdmg.md) |
-| 79–81 | [Shield, +2](/03_Mechanics/CLI/items/2-shield-xdmg.md) |
-| 82–84 | [Shield of Missile Attraction](/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg.md) |
-| 85–86 | [Sun Blade](/03_Mechanics/CLI/items/sun-blade-xdmg.md) |
-| 87–88 | [Sword of Life Stealing](/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg.md) |
-| 89–90 | [Sword of Wounding](/03_Mechanics/CLI/items/sword-of-wounding-xdmg.md) |
-| 91–92 | [Tentacle Rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md) |
-| 93–94 | [Vicious Weapon](/03_Mechanics/CLI/items/vicious-weapon-xdmg.md) |
-| 95–97 | [Weapon, +2](/03_Mechanics/CLI/items/2-weapon-xdmg.md) |
-| 98–00 | [Wraps of Unarmed Power, +2](/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg.md) |
+| 01–03 | [[/03_Mechanics/CLI/items/2-ammunition-xdmg|Ammunition, +2]] |
+| 04–07 | [[/03_Mechanics/CLI/items/1-armor-xdmg|Armor, +1]] |
+| 08–10 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Armor of Resistance]] |
+| 11–13 | [[/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg|Armor of Vulnerability]] |
+| 14–15 | [[/03_Mechanics/CLI/items/arrow-catching-shield-xdmg|Arrow-Catching Shield]] |
+| 16–18 | [[/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg|Belt of Giant Strength (hill)]] |
+| 19–20 | [[/03_Mechanics/CLI/items/berserker-axe-xdmg|Berserker Axe]] |
+| 21–22 | [[/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg|Daern's Instant Fortress]] |
+| 23–25 | [[/03_Mechanics/CLI/items/dagger-of-venom-xdmg|Dagger of Venom]] |
+| 26–28 | [[/03_Mechanics/CLI/items/dragon-slayer-xdmg|Dragon Slayer]] |
+| 29–31 | [[/03_Mechanics/CLI/items/elven-chain-xdmg|Elven Chain]] |
+| 32–34 | [[/03_Mechanics/CLI/items/enspelled-armor-xdmg|Enspelled Armor]] (level 2 or 3 spell) |
+| 35–37 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (level 2 or 3 spell) |
+| 38–40 | [[/03_Mechanics/CLI/items/flame-tongue-xdmg|Flame Tongue]] |
+| 41–43 | [[/03_Mechanics/CLI/items/giant-slayer-xdmg|Giant Slayer]] |
+| 44–46 | [[/03_Mechanics/CLI/items/horn-of-blasting-xdmg|Horn of Blasting]] |
+| 47–48 | [[/03_Mechanics/CLI/items/horn-of-valhalla-xdmg|Horn of Valhalla]] ([[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|brass]] or [[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|silver]]) |
+| 49–51 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-protection-xdmg|protection]]) |
+| 52–54 | [[/03_Mechanics/CLI/items/mace-of-disruption-xdmg|Mace of Disruption]] |
+| 55–57 | [[/03_Mechanics/CLI/items/mace-of-smiting-xdmg|Mace of Smiting]] |
+| 58–60 | [[/03_Mechanics/CLI/items/mace-of-terror-xdmg|Mace of Terror]] |
+| 61–63 | [[/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg|Potion of Giant Strength (fire)]] |
+| 64–66 | [[/03_Mechanics/CLI/items/potion-of-giant-strength-xdmg|Potion of Giant Strength]] ([[/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg|frost]] or [[/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg|stone]]) |
+| 67–69 | [[/03_Mechanics/CLI/items/potion-of-heroism-xdmg|Potion of Heroism]] |
+| 70–72 | [[/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg|Potion of Invulnerability]] |
+| 73–75 | [[/03_Mechanics/CLI/items/ring-of-protection-xdmg|Ring of Protection]] |
+| 76–78 | [[/03_Mechanics/CLI/items/ring-of-the-ram-xdmg|Ring of the Ram]] |
+| 79–81 | [[/03_Mechanics/CLI/items/2-shield-xdmg|Shield, +2]] |
+| 82–84 | [[/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg|Shield of Missile Attraction]] |
+| 85–86 | [[/03_Mechanics/CLI/items/sun-blade-xdmg|Sun Blade]] |
+| 87–88 | [[/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg|Sword of Life Stealing]] |
+| 89–90 | [[/03_Mechanics/CLI/items/sword-of-wounding-xdmg|Sword of Wounding]] |
+| 91–92 | [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|Tentacle Rod]] |
+| 93–94 | [[/03_Mechanics/CLI/items/vicious-weapon-xdmg|Vicious Weapon]] |
+| 95–97 | [[/03_Mechanics/CLI/items/2-weapon-xdmg|Weapon, +2]] |
+| 98–00 | [[/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +2]] |
 ^armaments-rare
 
 **Armaments - Very Rare**
@@ -116,39 +116,39 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Ammunition, +3](/03_Mechanics/CLI/items/3-ammunition-xdmg.md) |
-| 04–06 | [Ammunition of Slaying](/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg.md) |
-| 07–09 | [Animated Shield](/03_Mechanics/CLI/items/animated-shield-xdmg.md) |
-| 10–12 | [Armor, +2](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 13–14 | [Belt of Giant Strength (fire)](/03_Mechanics/CLI/items/belt-of-fire-giant-strength-xdmg.md) |
-| 15–17 | [Belt of Giant Strength](/03_Mechanics/CLI/items/belt-of-giant-strength-xdmg.md) ([frost](/03_Mechanics/CLI/items/belt-of-frost-giant-strength-xdmg.md) or [stone](/03_Mechanics/CLI/items/belt-of-stone-giant-strength-xdmg.md)) |
-| 18–19 | [Dancing Sword](/03_Mechanics/CLI/items/dancing-sword-xdmg.md) |
-| 20–22 | [Demon Armor](/03_Mechanics/CLI/items/demon-armor-xdmg.md) |
-| 23–25 | [Dragon Scale Mail](/03_Mechanics/CLI/items/dragon-scale-mail-xdmg.md) |
-| 26–28 | [Dwarven Plate](/03_Mechanics/CLI/items/dwarven-plate-xdmg.md) |
-| 29–31 | [Dwarven Thrower](/03_Mechanics/CLI/items/dwarven-thrower-xdmg.md) |
-| 32–34 | [Energy Bow](/03_Mechanics/CLI/items/energy-bow-xdmg.md) |
-| 35–37 | [Enspelled Armor](/03_Mechanics/CLI/items/enspelled-armor-xdmg.md) (level 4 or 5 spell) |
-| 38–40 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (level 4 or 5 spell) |
-| 41–43 | [Executioner's Axe](/03_Mechanics/CLI/items/executioners-axe-xdmg.md) |
-| 44–46 | [Frost Brand](/03_Mechanics/CLI/items/frost-brand-xdmg.md) |
-| 47–49 | [Horn of Valhalla (bronze)](/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg.md) |
-| 50–52 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([strength](/03_Mechanics/CLI/items/ioun-stone-strength-xdmg.md)) |
-| 53–55 | [Lute of Thunderous Thumping](/03_Mechanics/CLI/items/lute-of-thunderous-thumping-xdmg.md) |
-| 56–58 | [Manual of Gainful Exercise](/03_Mechanics/CLI/items/manual-of-gainful-exercise-xdmg.md) |
-| 59–61 | [Nine Lives Stealer](/03_Mechanics/CLI/items/nine-lives-stealer-xdmg.md) |
-| 62–64 | [Oathbow](/03_Mechanics/CLI/items/oathbow-xdmg.md) |
-| 65–68 | [Oil of Sharpness](/03_Mechanics/CLI/items/oil-of-sharpness-xdmg.md) |
-| 69–72 | [Potion of Giant Strength (cloud)](/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg.md) |
-| 73–75 | [Quarterstaff of the Acrobat](/03_Mechanics/CLI/items/quarterstaff-of-the-acrobat-xdmg.md) |
-| 76–78 | [Scimitar of Speed](/03_Mechanics/CLI/items/scimitar-of-speed-xdmg.md) |
-| 79–82 | [Shield, +3](/03_Mechanics/CLI/items/3-shield-xdmg.md) |
-| 83–85 | [Shield of the Cavalier](/03_Mechanics/CLI/items/shield-of-the-cavalier-xdmg.md) |
-| 86–88 | [Spellguard Shield](/03_Mechanics/CLI/items/spellguard-shield-xdmg.md) |
-| 89–91 | [Sword of Sharpness](/03_Mechanics/CLI/items/sword-of-sharpness-xdmg.md) |
-| 92–94 | [Thunderous Greatclub](/03_Mechanics/CLI/items/thunderous-greatclub-xdmg.md) |
-| 95–97 | [Weapon, +3](/03_Mechanics/CLI/items/3-weapon-xdmg.md) |
-| 98–00 | [Wraps of Unarmed Power, +3](/03_Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg.md) |
+| 01–03 | [[/03_Mechanics/CLI/items/3-ammunition-xdmg|Ammunition, +3]] |
+| 04–06 | [[/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg|Ammunition of Slaying]] |
+| 07–09 | [[/03_Mechanics/CLI/items/animated-shield-xdmg|Animated Shield]] |
+| 10–12 | [[/03_Mechanics/CLI/items/2-armor-xdmg|Armor, +2]] |
+| 13–14 | [[/03_Mechanics/CLI/items/belt-of-fire-giant-strength-xdmg|Belt of Giant Strength (fire)]] |
+| 15–17 | [[/03_Mechanics/CLI/items/belt-of-giant-strength-xdmg|Belt of Giant Strength]] ([[/03_Mechanics/CLI/items/belt-of-frost-giant-strength-xdmg|frost]] or [[/03_Mechanics/CLI/items/belt-of-stone-giant-strength-xdmg|stone]]) |
+| 18–19 | [[/03_Mechanics/CLI/items/dancing-sword-xdmg|Dancing Sword]] |
+| 20–22 | [[/03_Mechanics/CLI/items/demon-armor-xdmg|Demon Armor]] |
+| 23–25 | [[/03_Mechanics/CLI/items/dragon-scale-mail-xdmg|Dragon Scale Mail]] |
+| 26–28 | [[/03_Mechanics/CLI/items/dwarven-plate-xdmg|Dwarven Plate]] |
+| 29–31 | [[/03_Mechanics/CLI/items/dwarven-thrower-xdmg|Dwarven Thrower]] |
+| 32–34 | [[/03_Mechanics/CLI/items/energy-bow-xdmg|Energy Bow]] |
+| 35–37 | [[/03_Mechanics/CLI/items/enspelled-armor-xdmg|Enspelled Armor]] (level 4 or 5 spell) |
+| 38–40 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
+| 41–43 | [[/03_Mechanics/CLI/items/executioners-axe-xdmg|Executioner's Axe]] |
+| 44–46 | [[/03_Mechanics/CLI/items/frost-brand-xdmg|Frost Brand]] |
+| 47–49 | [[/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg|Horn of Valhalla (bronze)]] |
+| 50–52 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-strength-xdmg|strength]]) |
+| 53–55 | [[/03_Mechanics/CLI/items/lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]] |
+| 56–58 | [[/03_Mechanics/CLI/items/manual-of-gainful-exercise-xdmg|Manual of Gainful Exercise]] |
+| 59–61 | [[/03_Mechanics/CLI/items/nine-lives-stealer-xdmg|Nine Lives Stealer]] |
+| 62–64 | [[/03_Mechanics/CLI/items/oathbow-xdmg|Oathbow]] |
+| 65–68 | [[/03_Mechanics/CLI/items/oil-of-sharpness-xdmg|Oil of Sharpness]] |
+| 69–72 | [[/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg|Potion of Giant Strength (cloud)]] |
+| 73–75 | [[/03_Mechanics/CLI/items/quarterstaff-of-the-acrobat-xdmg|Quarterstaff of the Acrobat]] |
+| 76–78 | [[/03_Mechanics/CLI/items/scimitar-of-speed-xdmg|Scimitar of Speed]] |
+| 79–82 | [[/03_Mechanics/CLI/items/3-shield-xdmg|Shield, +3]] |
+| 83–85 | [[/03_Mechanics/CLI/items/shield-of-the-cavalier-xdmg|Shield of the Cavalier]] |
+| 86–88 | [[/03_Mechanics/CLI/items/spellguard-shield-xdmg|Spellguard Shield]] |
+| 89–91 | [[/03_Mechanics/CLI/items/sword-of-sharpness-xdmg|Sword of Sharpness]] |
+| 92–94 | [[/03_Mechanics/CLI/items/thunderous-greatclub-xdmg|Thunderous Greatclub]] |
+| 95–97 | [[/03_Mechanics/CLI/items/3-weapon-xdmg|Weapon, +3]] |
+| 98–00 | [[/03_Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +3]] |
 ^armaments-very-rare
 
 **Armaments - Legendary**
@@ -157,24 +157,24 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–06 | [Armor, +3](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 07–12 | [Armor of Invulnerability](/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg.md) |
-| 13–18 | [Belt of Giant Strength (cloud)](/03_Mechanics/CLI/items/belt-of-cloud-giant-strength-xdmg.md) |
-| 19–21 | [Belt of Giant Strength (storm)](/03_Mechanics/CLI/items/belt-of-storm-giant-strength-xdmg.md) |
-| 22–27 | [Defender](/03_Mechanics/CLI/items/defender-xdmg.md) |
-| 28–33 | [Efreeti Chain](/03_Mechanics/CLI/items/efreeti-chain-xdmg.md) |
-| 34–39 | [Enspelled Armor](/03_Mechanics/CLI/items/enspelled-armor-xdmg.md) (level 6, 7, or 8 spell) |
-| 40–45 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (level 6, 7, or 8 spell) |
-| 46–51 | [Hammer of Thunderbolts](/03_Mechanics/CLI/items/hammer-of-thunderbolts-xdmg.md) |
-| 52–56 | [Holy Avenger](/03_Mechanics/CLI/items/holy-avenger-xdmg.md) |
-| 57–62 | [Horn of Valhalla (iron)](/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg.md) |
-| 63–68 | [Luck Blade](/03_Mechanics/CLI/items/luck-blade-xdmg.md) |
-| 69–72 | [Moonblade](/03_Mechanics/CLI/items/moonblade-xdmg.md) |
-| 73–78 | [Plate Armor of Etherealness](/03_Mechanics/CLI/items/plate-armor-of-etherealness-xdmg.md) |
-| 79–87 | [Potion of Giant Strength (storm)](/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg.md) |
-| 88–90 | [Rod of Lordly Might](/03_Mechanics/CLI/items/rod-of-lordly-might-xdmg.md) |
-| 91–95 | [Sword of Answering](/03_Mechanics/CLI/items/sword-of-answering-xdmg.md) |
-| 96–00 | [Vorpal Sword](/03_Mechanics/CLI/items/vorpal-sword-xdmg.md) |
+| 01–06 | [[/03_Mechanics/CLI/items/3-armor-xdmg|Armor, +3]] |
+| 07–12 | [[/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
+| 13–18 | [[/03_Mechanics/CLI/items/belt-of-cloud-giant-strength-xdmg|Belt of Giant Strength (cloud)]] |
+| 19–21 | [[/03_Mechanics/CLI/items/belt-of-storm-giant-strength-xdmg|Belt of Giant Strength (storm)]] |
+| 22–27 | [[/03_Mechanics/CLI/items/defender-xdmg|Defender]] |
+| 28–33 | [[/03_Mechanics/CLI/items/efreeti-chain-xdmg|Efreeti Chain]] |
+| 34–39 | [[/03_Mechanics/CLI/items/enspelled-armor-xdmg|Enspelled Armor]] (level 6, 7, or 8 spell) |
+| 40–45 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
+| 46–51 | [[/03_Mechanics/CLI/items/hammer-of-thunderbolts-xdmg|Hammer of Thunderbolts]] |
+| 52–56 | [[/03_Mechanics/CLI/items/holy-avenger-xdmg|Holy Avenger]] |
+| 57–62 | [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
+| 63–68 | [[/03_Mechanics/CLI/items/luck-blade-xdmg|Luck Blade]] |
+| 69–72 | [[/03_Mechanics/CLI/items/moonblade-xdmg|Moonblade]] |
+| 73–78 | [[/03_Mechanics/CLI/items/plate-armor-of-etherealness-xdmg|Plate Armor of Etherealness]] |
+| 79–87 | [[/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg|Potion of Giant Strength (storm)]] |
+| 88–90 | [[/03_Mechanics/CLI/items/rod-of-lordly-might-xdmg|Rod of Lordly Might]] |
+| 91–95 | [[/03_Mechanics/CLI/items/sword-of-answering-xdmg|Sword of Answering]] |
+| 96–00 | [[/03_Mechanics/CLI/items/vorpal-sword-xdmg|Vorpal Sword]] |
 ^armaments-legendary
 
 ## Player-Facing Summary

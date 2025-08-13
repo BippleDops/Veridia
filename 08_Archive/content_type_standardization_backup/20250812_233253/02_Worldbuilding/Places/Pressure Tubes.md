@@ -329,7 +329,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Pressure Tubes|02 Worldbuilding/Places/Pressure Tubes]]
 
 <!-- enriched: true -->
 - [[Eastern Kingdom]]

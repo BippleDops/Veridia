@@ -28,7 +28,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to expend 1 charge and create a harmless burst of multicolored light at a point you can see up to 120 feet away. The burst of light is accompanied by a crackling noise that can be heard up to 300 feet away. The light is as bright as a torch flame but lasts only a second.
+This wand has 7 charges. While holding it, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to expend 1 charge and create a harmless burst of multicolored light at a point you can see up to 120 feet away. The burst of light is accompanied by a crackling noise that can be heard up to 300 feet away. The light is as bright as a torch flame but lasts only a second.
 
 ## Regaining Charges
 

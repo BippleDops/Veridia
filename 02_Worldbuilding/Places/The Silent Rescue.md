@@ -167,6 +167,6 @@ Legends speak of The Silent Rescue as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Rescue]]
+- [[02_Worldbuilding/Places/The Silent Rescue|02 Worldbuilding/Places/The Silent Rescue]]
 
 <!-- enriched: true -->

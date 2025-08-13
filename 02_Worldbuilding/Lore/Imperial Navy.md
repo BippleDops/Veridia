@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms|02 Worldbuilding/Lore/Eastern Kingdoms]]
 
 
 ## Connections

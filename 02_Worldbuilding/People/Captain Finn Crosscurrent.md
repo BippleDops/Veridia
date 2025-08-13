@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Finn Crosscurrent]]
+- [[02_Worldbuilding/People/Captain Finn Crosscurrent|02 Worldbuilding/People/Captain Finn Crosscurrent]]
 
 <!-- enriched: true -->
 

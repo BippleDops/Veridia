@@ -28,7 +28,7 @@ world: Both
 
 - **Damage**: 1d6 psychic
 - **Range**: 60/120
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 
 *Source: Player's Handbook (2024) p. 136*
 

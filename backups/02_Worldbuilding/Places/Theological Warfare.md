@@ -22,10 +22,10 @@ sub_locations:
 depth: 2600-2900 feet
 population: 500
 government: Religious Council of War
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
 factions:
-- '[[02_Worldbuilding/Groups/Temple of Divine Order]]'
-- '[[02_Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
+- '[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
 - '[[Deep Mother Zealots]]'
 - '[[Syncretist Mediators]]'
 danger_level: 9
@@ -38,7 +38,7 @@ services:
 - Heresy Trials
 - Faith Counseling
 notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
 - '[[Mediator Cardinal Harmony]]'
@@ -133,7 +133,7 @@ Worship the massive sea creatures as divine beings, believing that The Great Dro
 
 ### Deep Mother Zealots
 **[[Deep Mother Zealots|Full Details]]**
-Worship the mysterious entity known as [[02_Worldbuilding/Lore/The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
+Worship the mysterious entity known as [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
 
 **Theological Position:**
 - The Deep Mother is the true creator goddess
@@ -213,12 +213,12 @@ A growing controversy about whether contact with the surface world should be res
 
 ### The Undead Soul Debate
 A complex theological question about whether undead beings possess souls:
-- This debate connects directly to [[02_Worldbuilding/Places/The Eternal Senate]] citizenship issues
+- This debate connects directly to [[02_Worldbuilding/Places/The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]] citizenship issues
 - Different factions have radically different positions
 - The outcome affects undead rights throughout [[Aquabyssos]]
 
 ### The Memory Sacred Controversy
-Disputes about the religious significance of memory and whether [[02_Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
+Disputes about the religious significance of memory and whether [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
 
 ## Rules of Theological Combat
 
@@ -247,7 +247,7 @@ Disputes about the religious significance of memory and whether [[02_Worldbuildi
 
 ### High Theologian Commander Aurelius
 **[[02_Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
-The current rotating leader of the Religious Council of War, representing the [[02_Worldbuilding/Groups/Temple of Divine Order]]. Aurelius is both a brilliant theologian and skilled warrior who believes that combat is a form of prayer.
+The current rotating leader of the Religious Council of War, representing the [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]. Aurelius is both a brilliant theologian and skilled warrior who believes that combat is a form of prayer.
 
 **Key Traits:**
 - Master of both theology and combat
@@ -257,7 +257,7 @@ The current rotating leader of the Religious Council of War, representing the [[
 
 ### Leviathan Prophet Thalassa
 **[[Leviathan Prophet Thalassa|Full Details]]**
-Spiritual leader of [[02_Worldbuilding/Groups/The Leviathan Cult]] forces, known for her ability to channel the power of massive sea creatures during combat.
+Spiritual leader of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] forces, known for her ability to channel the power of massive sea creatures during combat.
 
 **Abilities:**
 - Summoning and communication with sea creatures
@@ -311,7 +311,7 @@ Beyond standard deep-sea pressure, the grounds generate spiritual pressure that 
 ## Secrets & Hidden Elements
 
 ### The Fifth Faction
-There is evidence of a fifth religious faction that operates in secret, manipulating the theological warfare for unknown purposes. This group may be connected to [[02_Worldbuilding/Groups/The Shadow Trade Network]] or represent an entirely different theological perspective.
+There is evidence of a fifth religious faction that operates in secret, manipulating the theological warfare for unknown purposes. This group may be connected to [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] or represent an entirely different theological perspective.
 
 ### The Divine Conspiracy
 Some evidence suggests that the gods themselves are orchestrating the theological warfare to achieve some cosmic purpose unknown to their mortal followers.
@@ -328,19 +328,19 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 ## Connected Locations
 
 ### Religious Sites
-- **[[02_Worldbuilding/Groups/Temple of Divine Order]]:** Primary Divine Order facility
+- **[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]:** Primary Divine Order facility
 - **[[Leviathan Shrines]]:** Underwater creature worship sites
 - **[[Deep Mother Spawning Pools]]:** Transformation and evolution centers
 - **[[Interfaith Community Centers]]:** Syncretist outreach locations
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Religious influence on politics
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Theological lobbying efforts
-- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Divine counsel to leadership
+- **[[02_Worldbuilding/Places/The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]:** Religious influence on politics
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Theological lobbying efforts
+- **[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]:** Divine counsel to leadership
 
 ### Neutral Zones
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Interfaith memorial services
-- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine]]:** Neutral prophetic consultation
+- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Interfaith memorial services
+- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Neutral prophetic consultation
 - **[[Healing Temples]]:** Medical care for combat injuries
 
 ## Adventure Hooks
@@ -467,7 +467,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[02_Worldbuilding/Places/Theological Warfare|02 Worldbuilding/Places/Theological Warfare]]
 
 <!-- enriched: true -->
 

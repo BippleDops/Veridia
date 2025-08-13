@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 3
 
 ## Player-Facing Summary
 

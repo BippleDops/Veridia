@@ -18,7 +18,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove|02 Worldbuilding/Places/Hidden Smuggler's Cove]]
 
 ## Player-Facing Summary
 

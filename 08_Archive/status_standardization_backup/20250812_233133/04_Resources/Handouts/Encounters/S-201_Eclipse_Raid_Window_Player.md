@@ -34,4 +34,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]

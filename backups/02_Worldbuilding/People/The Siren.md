@@ -35,7 +35,7 @@ obsidianUIMode: preview
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths*
 
 ## Overview
-The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]].
+The Siren is [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]].
 
 ## Appearance(s)
 
@@ -102,22 +102,22 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 ## Known Information (Sampling)
 
 ### Political Secrets
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption stage
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption stage
 - Location of two of the Seven Shards
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s return date
-- Which nobles are [[02_Worldbuilding/Groups/Silverscale Consortium]] puppets
-- [[02_Worldbuilding/People/The Crimson Sage]]'s meetings with Queen
+- [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]'s return date
+- Which nobles are [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] puppets
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s meetings with Queen
 
 ### Aquabyssos Intelligence
 - Shadow replacement list in Parliament
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s true plans
-- Location of [[02_Worldbuilding/People/Original Glaucus]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'s true plans
+- Location of [[02_Worldbuilding/People/Original Glaucus|02 Worldbuilding/People/Original Glaucus]]
 - The Deep Mother's stirring signs
 - Portal locations between worlds
 
 ### Forbidden Knowledge
 - True cause of the Crystal Shattering
-- [[02_Worldbuilding/People/The Crimson Sage]]'s identity
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s identity
 - How to destroy/create Shards
 - The original prophecy complete text
 - What lies beyond the Void
@@ -126,16 +126,16 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 
 ### Professional Contacts
 - **Every Bard**: Part of network, knowing or not
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Trades economic intel
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual respect
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]**: Trades economic intel
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual respect
 - **[[The Whispered Voice]]**: Crown's spymaster rival
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Regular client
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Regular client
 
 ### Complicated Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Knows too much
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mutual avoidance
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Wants them arrested
-- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Share visions
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Knows too much
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Mutual avoidance
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Wants them arrested
+- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]]**: Share visions
 - **The Gods**: May actually be one
 
 ### Protected Individuals
@@ -309,11 +309,11 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Knows her secrets
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mutual avoidance
-- [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Information trade
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Regular client
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Professional respect
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Knows her secrets
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Mutual avoidance
+- [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] - Information trade
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Regular client
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Professional respect
 
 ### Locations
 - [[The Shifting Stage]] - Base of operations
@@ -326,7 +326,7 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 - [[Quest - The Lost Verse]]
 - [[Quest - The Siren's Price]]
 - [[Quest - Songs of Power]]
-- [[02_Worldbuilding/Lore/Quest - Information War]]
+- [[02_Worldbuilding/Lore/Quest - Information War|02 Worldbuilding/Lore/Quest Information War]]
 - [[Quest - The Final Performance]]
 
 ### Items
@@ -356,6 +356,6 @@ Legends speak of The Siren as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[02_Worldbuilding/People/The Siren|02 Worldbuilding/People/The Siren]]
 
 <!-- enriched: true -->

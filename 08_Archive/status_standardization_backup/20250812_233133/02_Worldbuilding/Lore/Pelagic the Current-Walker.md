@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Tide Turner]]
+- [[02_Worldbuilding/Lore/Tide Turner|02 Worldbuilding/Lore/Tide Turner]]
 
 
 ## Connections

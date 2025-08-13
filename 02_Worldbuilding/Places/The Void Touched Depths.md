@@ -28,7 +28,7 @@ world: Both
 > —Last Testament of Explorer Hadrian Deepseeker
 
 ## Overview
-The Void Touched Depths represent one of Aquabyssos's most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at crushing depths where even [[02_Worldbuilding/People/Aboleth Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
+The Void Touched Depths represent one of Aquabyssos's most terrifying natural phenomena: a massive trench system where reality itself has been infected by something from beyond the cosmos. Located at crushing depths where even [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]] fears to venture, these trenches pulse with an alien hunger that consumes not just matter and energy, but concepts, memories, and the fundamental building blocks of existence itself.
 
 ## Geographic Nightmare
 
@@ -83,7 +83,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Void corruption spreads 10% faster
 - Reality tears open more frequently
 - Missing persons reports spike across Aquabyssos
-- Even the [[02_Worldbuilding/Lore/Deep Mother]]'s dreams grow disturbed
+- Even the [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'s dreams grow disturbed
 
 ### The Dreaming Season (3 months)
 - Void influence becomes more subtle but pervasive
@@ -137,7 +137,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Observing them collapses their wave function unpredictably
 - May become harmless minnows or cosmic horrors
 - Their movements predict future disasters
-- Sought after by [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] for divination
+- Sought after by [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] for divination
 
 ### Corrupted Natural Life
 
@@ -217,7 +217,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Form inside creatures exposed to quantum uncertainty
 - Allow manipulation of chance and causality
 - Each use has 10% chance of creating paradox
-- Highly sought by [[02_Worldbuilding/People/Sage Lysander Deepthought]]
+- Highly sought by [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]]
 - Can be weaponized to cause reality cascades
 
 ### Temporal Amber
@@ -234,7 +234,7 @@ The Void Touched Depths represent one of Aquabyssos's most terrifying natural ph
 - Contain skills and knowledge of the consumed
 - Using them spreads void corruption
 - Some hold secrets lost to history
-- Collected obsessively by the [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- Collected obsessively by the [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
 
 ## The Void Touched Oracle
 
@@ -266,7 +266,7 @@ Offers power to desperate visitors:
 - Transform all sentient life into void-touched servants
 - Merge reality with the space between spaces
 - "Perfect" existence by removing all suffering (and joy)
-- Find the [[02_Worldbuilding/Lore/Deep Mother]] and consume her dreams
+- Find the [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] and consume her dreams
 
 ## Exploration and Survival
 
@@ -300,7 +300,7 @@ Offers power to desperate visitors:
 ## Connection to Greater Mysteries
 
 ### The Deep Mother's Nightmare
-The [[02_Worldbuilding/Lore/Deep Mother]] experiences prophetic dreams about the void:
+The [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] experiences prophetic dreams about the void:
 - Visions of reality completely consumed
 - Her own dreams being devoured
 - The void spreading to other oceans
@@ -311,12 +311,12 @@ The [[02_Worldbuilding/Lore/Deep Mother]] experiences prophetic dreams about the
 During convergence events:
 - Void corruption manifests in crystal formations
 - Reality stutters affect surface settlements
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s nightmares intensify
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'s nightmares intensify
 - Crystal plague victims begin showing void symptoms
 - Temporal anomalies create prophetic visions
 
 ### The Primordial Connection
-The void may be connected to [[02_Worldbuilding/Places/The Primordial Vaults]]:
+The void may be connected to [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]:
 - Both predate current reality
 - Similar reality-warping effects
 - Temporal anomalies in both locations
@@ -330,14 +330,14 @@ The void may be connected to [[02_Worldbuilding/Places/The Primordial Vaults]]:
 - Communication blackouts affecting larger areas
 - Surface dwellers reporting shared nightmares
 - [[Depth Wardens]] losing patrols near the border
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] receiving apocalyptic visions
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] receiving apocalyptic visions
 
 ### The Missing Expeditions
 **Recent Disappearances:**
 - Deep Faith Pilgrimage: 200 faithful vanished
-- [[02_Worldbuilding/Groups/Silverscale Consortium]] Mining Fleet: 12 vessels lost
+- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] Mining Fleet: 12 vessels lost
 - [[The Free Current]] Reconnaissance: Elite team missing
-- Scientific Survey: [[02_Worldbuilding/People/Sage Lysander Deepthought]]'s colleagues
+- Scientific Survey: [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]]'s colleagues
 - [[Depth Wardens]] Special Forces: Entire battalion
 
 ### The Oracle's New Prophecies
@@ -352,7 +352,7 @@ The void may be connected to [[02_Worldbuilding/Places/The Primordial Vaults]]:
 New religious movement worshipping the Oracle:
 - Seeking "purification" through void exposure
 - Performing reality-damaging rituals
-- Recruiting in [[02_Worldbuilding/Places/Abyssos Prime]] and [[02_Worldbuilding/Places/New Tethys]]
+- Recruiting in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] and [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 - Led by [[Void Prophet Nullus the Erased]]
 - Planning mass "ascension" event
 
@@ -405,7 +405,7 @@ New religious movement worshipping the Oracle:
 - Recover artifacts from alternate histories
 - Study pre-void civilizations for survival techniques
 - Avoid temporal paradoxes that could erase party
-- Compete with [[02_Worldbuilding/Groups/Order of the Sunken Crown]] researchers
+- Compete with [[02_Worldbuilding/Groups/Order of the Sunken Crown|02 Worldbuilding/Groups/Order Of The Sunken Crown]] researchers
 
 ### Rescue Operations
 
@@ -456,24 +456,24 @@ New religious movement worshipping the Oracle:
 ## Connected Locations and NPCs
 
 ### Key Related Locations
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Neighboring abyssal zone
-- [[02_Worldbuilding/Places/The Primordial Vaults]] - Possible origin connection
-- [[02_Worldbuilding/Places/The Deepmind]] - Intelligence network monitoring void
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Political center responding to threat
-- [[02_Worldbuilding/Places/New Tethys]] - Refugee destination from void expansion
+- [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Neighboring abyssal zone
+- [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]] - Possible origin connection
+- [[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]] - Intelligence network monitoring void
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Political center responding to threat
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Refugee destination from void expansion
 
 ### Important NPCs
 - [[The Void Touched Oracle]] - Primary antagonist/information source
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Receives void visions
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Studies the phenomenon
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Receives void visions
+- [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] - Studies the phenomenon
 - [[Void Prophet Nullus the Erased]] - Leads void cult
-- [[02_Worldbuilding/People/The Scattered Emperor]] - May have void connection
-- [[02_Worldbuilding/Lore/Deep Mother]] - Dreams threatened by void
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - May have void connection
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] - Dreams threatened by void
 
 ### Related Factions
-- [[02_Worldbuilding/Groups/Silverscale Consortium]] - Exploiting void resources
+- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Exploiting void resources
 - [[Depth Wardens]] - Military response to void threat
-- [[02_Worldbuilding/Groups/Order of the Sunken Crown]] - Studying void artifacts
+- [[02_Worldbuilding/Groups/Order of the Sunken Crown|02 Worldbuilding/Groups/Order Of The Sunken Crown]] - Studying void artifacts
 - [[The Free Current]] - Reconnaissance missions
 - [[Void Touched Pilgrims]] - Worshipping the corruption
 
@@ -512,7 +512,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/Places/The Void Touched Depths|02 Worldbuilding/Places/The Void Touched Depths]]
 
 <!-- enriched: true -->
 - [[Depth Wardens]]

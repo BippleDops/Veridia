@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Marina]]
+- [[02_Worldbuilding/Groups/Shadow Marina|02 Worldbuilding/Groups/Shadow Marina]]
 
 
 ## Connections

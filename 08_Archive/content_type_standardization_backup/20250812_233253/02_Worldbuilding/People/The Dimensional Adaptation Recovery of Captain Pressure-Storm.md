@@ -32,6 +32,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Dimensional Adaptation Recovery of Captain Pressure-Storm]]
+- [[02_Worldbuilding/People/The Dimensional Adaptation Recovery of Captain Pressure-Storm|02 Worldbuilding/People/The Dimensional Adaptation Recovery Of Captain Pressure Storm]]
 
 <!-- enriched: true -->

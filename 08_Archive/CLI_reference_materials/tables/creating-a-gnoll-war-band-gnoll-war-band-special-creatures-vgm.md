@@ -25,16 +25,16 @@ world: Both
 
 | dice: d20 | Special Creatures |
 |-----------|-------------------|
-| 1 | 1 [Barlgura](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
-| 2-5 | `3d6` [Dretches](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md) |
-| 6-8 | `2d6` [Ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 9-10 | `2d6` [Gnoll Witherlings](/03_Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm.md) |
-| 11 | 1 [Hezrou](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
-| 12-13 | `d4` [Leucrottas](/03_Mechanics/CLI/bestiary/monstrosity/leucrotta-mpmm.md) |
-| 14-16 | `2d6` [Manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md) |
-| 17-18 | `2d4` [Maw Demons](/03_Mechanics/CLI/bestiary/fiend/maw-demon-mpmm.md) |
-| 19 | 1 [Shoosuva](/03_Mechanics/CLI/bestiary/fiend/shoosuva-mpmm.md) |
-| 20 | `d3` [Trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 1 | 1 [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|Barlgura]] |
+| 2-5 | `3d6` [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|Dretches]] |
+| 6-8 | `2d6` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|Ghouls]] |
+| 9-10 | `2d6` [[/03_Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm|Gnoll Witherlings]] |
+| 11 | 1 [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|Hezrou]] |
+| 12-13 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/leucrotta-mpmm|Leucrottas]] |
+| 14-16 | `2d6` [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|Manes]] |
+| 17-18 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/maw-demon-mpmm|Maw Demons]] |
+| 19 | 1 [[/03_Mechanics/CLI/bestiary/fiend/shoosuva-mpmm|Shoosuva]] |
+| 20 | `d3` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Trolls]] |
 ^gnoll-war-band-special-creatures
 
 ## Player-Facing Summary

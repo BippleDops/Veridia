@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]
 
 
 ## Connections

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted]]
+- [[02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted|02 Worldbuilding/People/Emperor Abyssal The Deep Sighted]]
 
 <!-- enriched: true -->
 

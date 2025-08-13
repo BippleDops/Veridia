@@ -35,7 +35,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/mariners-armor.webp#right)
 
 
-While wearing this armor, you have a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), you immediately regain `d4` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]. In addition, if you start your turn underwater with 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], you immediately regain `d4` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 
@@ -53,7 +53,7 @@ The armor is decorated with fish and shell motifs.
 - [Mariner's Splint Armor](#Mariner's%20Splint%20Armor)
 - [Mariner's Studded Leather Armor](#Mariner's%20Studded%20Leather%20Armor)
 
-### Mariner's Breastplate
+## Mariner's Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

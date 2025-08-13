@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Aetheron|02 Worldbuilding/Lore/Aetheron]]
 
 
 ## Connections

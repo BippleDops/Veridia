@@ -23,35 +23,35 @@ world: Both
 
 | Level | Special Facility | Prerequisite | Order |
 |-------|------------------|--------------|-------|
-| 5 | [Arcane Study](/03_Mechanics/CLI/bastions/arcane-study.md) | Ability to use an [Arcane Focus](/03_Mechanics/CLI/items/arcane-focus-xphb.md) or a tool as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Craft |
-| 5 | [Armory](/03_Mechanics/CLI/bastions/armory.md) | None | Trade |
-| 5 | [Barrack](/03_Mechanics/CLI/bastions/barrack.md) | None | Recruit |
-| 5 | [Garden](/03_Mechanics/CLI/bastions/garden.md) | None | Harvest |
-| 5 | [Library](/03_Mechanics/CLI/bastions/library.md) | None | Research |
-| 5 | [Sanctuary](/03_Mechanics/CLI/bastions/sanctuary.md) | Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Craft |
-| 5 | [Smithy](/03_Mechanics/CLI/bastions/smithy.md) | None | Craft |
-| 5 | [Storehouse](/03_Mechanics/CLI/bastions/storehouse.md) | None | Trade |
-| 5 | [Workshop](/03_Mechanics/CLI/bastions/workshop.md) | None | Craft |
-| 9 | [Gaming Hall](/03_Mechanics/CLI/bastions/gaming-hall.md) | None | Trade |
-| 9 | [Greenhouse](/03_Mechanics/CLI/bastions/greenhouse.md) | None | Harvest |
-| 9 | [Laboratory](/03_Mechanics/CLI/bastions/laboratory.md) | None* | Craft |
-| 9 | [Sacristy](/03_Mechanics/CLI/bastions/sacristy.md) | Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Craft |
-| 9 | [Scriptorium](/03_Mechanics/CLI/bastions/scriptorium.md) | None* | Craft |
-| 9 | [Stable](/03_Mechanics/CLI/bastions/stable.md) | None | Trade |
-| 9 | [Teleportation Circle](/03_Mechanics/CLI/bastions/teleportation-circle.md) | None | Recruit |
-| 9 | [Theater](/03_Mechanics/CLI/bastions/theater.md) | None | Empower |
-| 9 | [Training Area](/03_Mechanics/CLI/bastions/training-area.md) | None | Empower |
-| 9 | [Trophy Room](/03_Mechanics/CLI/bastions/trophy-room.md) | None | Research |
-| 13 | [Archive](/03_Mechanics/CLI/bastions/archive.md) | None | Research |
-| 13 | [Meditation Chamber](/03_Mechanics/CLI/bastions/meditation-chamber.md) | None | Empower |
-| 13 | [Menagerie](/03_Mechanics/CLI/bastions/menagerie.md) | None | Recruit |
-| 13 | [Observatory](/03_Mechanics/CLI/bastions/observatory.md) | Ability to use a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Empower |
-| 13 | [Pub](/03_Mechanics/CLI/bastions/pub.md) | None | Research |
-| 13 | [Reliquary](/03_Mechanics/CLI/bastions/reliquary.md) | Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Harvest |
-| 17 | [Demiplane](/03_Mechanics/CLI/bastions/demiplane.md) | Ability to use an [Arcane Focus](/03_Mechanics/CLI/items/arcane-focus-xphb.md) or a tool as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Empower |
-| 17 | [Guildhall](/03_Mechanics/CLI/bastions/guildhall.md) | Expertise in a skill | Recruit |
-| 17 | [Sanctum](/03_Mechanics/CLI/bastions/sanctum.md) | Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) | Empower |
-| 17 | [War Room](/03_Mechanics/CLI/bastions/war-room.md) | Fighting Style feature or Unarmored Defense feature | Recruit |
+| 5 | [[/03_Mechanics/CLI/bastions/arcane-study|Arcane Study]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/armory|Armory]] | None | Trade |
+| 5 | [[/03_Mechanics/CLI/bastions/barrack|Barrack]] | None | Recruit |
+| 5 | [[/03_Mechanics/CLI/bastions/garden|Garden]] | None | Harvest |
+| 5 | [[/03_Mechanics/CLI/bastions/library|Library]] | None | Research |
+| 5 | [[/03_Mechanics/CLI/bastions/sanctuary|Sanctuary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/smithy|Smithy]] | None | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/storehouse|Storehouse]] | None | Trade |
+| 5 | [[/03_Mechanics/CLI/bastions/workshop|Workshop]] | None | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/gaming-hall|Gaming Hall]] | None | Trade |
+| 9 | [[/03_Mechanics/CLI/bastions/greenhouse|Greenhouse]] | None | Harvest |
+| 9 | [[/03_Mechanics/CLI/bastions/laboratory|Laboratory]] | None* | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/sacristy|Sacristy]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/scriptorium|Scriptorium]] | None* | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/stable|Stable]] | None | Trade |
+| 9 | [[/03_Mechanics/CLI/bastions/teleportation-circle|Teleportation Circle]] | None | Recruit |
+| 9 | [[/03_Mechanics/CLI/bastions/theater|Theater]] | None | Empower |
+| 9 | [[/03_Mechanics/CLI/bastions/training-area|Training Area]] | None | Empower |
+| 9 | [[/03_Mechanics/CLI/bastions/trophy-room|Trophy Room]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/archive|Archive]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/meditation-chamber|Meditation Chamber]] | None | Empower |
+| 13 | [[/03_Mechanics/CLI/bastions/menagerie|Menagerie]] | None | Recruit |
+| 13 | [[/03_Mechanics/CLI/bastions/observatory|Observatory]] | Ability to use a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 13 | [[/03_Mechanics/CLI/bastions/pub|Pub]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/reliquary|Reliquary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Harvest |
+| 17 | [[/03_Mechanics/CLI/bastions/demiplane|Demiplane]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[/03_Mechanics/CLI/bastions/guildhall|Guildhall]] | Expertise in a skill | Recruit |
+| 17 | [[/03_Mechanics/CLI/bastions/sanctum|Sanctum]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[/03_Mechanics/CLI/bastions/war-room|War Room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
 ^special-facilities
 
 *Certain orders that can be issued to these facilities have additional prerequisites.

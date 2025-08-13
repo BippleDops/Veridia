@@ -2,10 +2,10 @@
 alignment: Alignment
 class: Class/Profession
 created: '2025-08-11'
-faction: '[[Faction_Name]] OR Independent'
+faction: '[[Faction_Name|Faction Name]] OR Independent'
 image: 04_Resources/Assets/NPCs/filename.jpg
 level: X
-location: '[[Current_Location]]'
+location: '[[Current_Location|Current Location]]'
 race: Race (subrace if applicable)
 status: complete
 tags:

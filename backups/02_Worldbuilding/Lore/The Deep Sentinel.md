@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [[02_Worldbuilding/Groups/The Void Watchers|02 Worldbuilding/Groups/The Void Watchers]]
 
 
 ## Connections

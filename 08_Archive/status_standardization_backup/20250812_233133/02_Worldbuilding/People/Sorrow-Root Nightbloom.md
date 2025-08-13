@@ -58,23 +58,23 @@ Once a member of [[The Verdant Accord]], Sorrow-Root Nightbloom now leads the Wi
 - Maintains an unsettling calm even when committing atrocities
 
 ## Relationships
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
+- **[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
 
 ## Current Activities
 - Creating hybrid crystal-plant organisms as weapons
 - Poisoning water supplies near crystal mining operations
-- Building an army of corrupted treants in the deep [[02_Worldbuilding/Places/The Verdant Reach]]
+- Building an army of corrupted treants in the deep [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]
 - Seeking the [[Verdant Shard]] to corrupt it into a weapon of mass devastation
 
 ## The Withered Court
 A growing faction of druids, rangers, and fey who believe that:
 - Civilization must fall for nature to survive
 - Crystal corruption can be turned against itself
-- The [[02_Worldbuilding/Lore/The Seven Shards]] should be destroyed or corrupted beyond use
+- The [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] should be destroyed or corrupted beyond use
 - Anyone who uses crystals deserves death
 
 ## DM Secrets
@@ -150,7 +150,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
+- [[02_Worldbuilding/People/Sorrow-Root Nightbloom|02 Worldbuilding/People/Sorrow Root Nightbloom]]
 
 <!-- enriched: true -->
 - [[Verdant Shard]]

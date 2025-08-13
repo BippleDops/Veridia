@@ -361,11 +361,11 @@ Professional advancement markers show successful career adaptation while creatin
 Cultural contribution recognition acknowledges character efforts to enrich their communities while building reputation and social standing.
 
 ## Connected Communities and Organizations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary destination for surface dweller adaptation
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for integration programs
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary source of surface dwellers seeking adaptation
-- [[02_Worldbuilding/People/Ambassador Marina Depthbridge]] - Successful adaptation model and support provider
-- [[02_Worldbuilding/Places/Coral Gardens District]] - Community with exemplary integration programs
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary destination for surface dweller adaptation
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Coordination authority for integration programs
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary source of surface dwellers seeking adaptation
+- [[02_Worldbuilding/People/Ambassador Marina Depthbridge|02 Worldbuilding/People/Ambassador Marina Depthbridge]] - Successful adaptation model and support provider
+- [[02_Worldbuilding/Places/Coral Gardens District|02 Worldbuilding/Places/Coral Gardens District]] - Community with exemplary integration programs
 
 
 ## Connections
@@ -395,6 +395,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]

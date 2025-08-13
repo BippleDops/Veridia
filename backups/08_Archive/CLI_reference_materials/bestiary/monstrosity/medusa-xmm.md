@@ -21,7 +21,7 @@ updated: '2025-08-12T23:37:34.947444'
 world: Both
 ---
 
-# [Medusa](3-Mechanics\CLI\bestiary\monstrosity/medusa-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/medusa-xmm|Medusa]]
 *Source: Monster Manual (2024) p. 205. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Medusa
@@ -31,7 +31,7 @@ world: Both
 - **Habitat.** Desert  
 - **Treasure.** Any  
 
-With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](/03_Mechanics/CLI/conditions.md#Petrified), such as gargoyles and gorgons.
+With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [[/03_Mechanics/CLI/conditions#Petrified|petrified]] victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [[/03_Mechanics/CLI/conditions#Petrified|petrified]] doom, while others recruit servants that are immune to being [[/03_Mechanics/CLI/conditions#Petrified|petrified]], such as gargoyles and gorgons.
 
 Medusas are born or created through preternatural circumstances. Roll on or choose a result from the Medusa Fates table to inspire what led to a medusa's creation.
 
@@ -69,11 +69,11 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 150 ft., passive Perception 14"
 "languages": "Common plus one other language"
@@ -90,13 +90,13 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
   - "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 11 (2d8 + 2) Poison damage."
     "name": "Poison Ray"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the medusa sees its reflection in the [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md),\
-      \ the medusa must make this save. 1st Failure: The target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "Constitution Saving Throw: DC 13, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ If the medusa sees its reflection in the [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]],\
+      \ the medusa must make this save. 1st Failure: The target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](/03_Mechanics/CLI/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. 2nd Failure: The target has the [Petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ [[/03_Mechanics/CLI/conditions#Restrained|Restrained]], ending the effect\
+      \ on itself on a success. 2nd Failure: The target has the [[/03_Mechanics/CLI/conditions#Petrified|Petrified]]\
+      \ condition instead of the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Petrifying Gaze (Recharge 5-6)"
 "source":

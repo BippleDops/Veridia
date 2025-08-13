@@ -167,6 +167,6 @@ Legends speak of The Whisper Island Mystery as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whisper Island Mystery]]
+- [[02_Worldbuilding/Places/The Whisper Island Mystery|02 Worldbuilding/Places/The Whisper Island Mystery]]
 
 <!-- enriched: true -->

@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater|02 Worldbuilding/Places/Mediator Serenity Stillwater]]
 
 
 ## Connections

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Azure Citadel|02 Worldbuilding/Places/Azure Citadel]]
 
 
 ## Connections

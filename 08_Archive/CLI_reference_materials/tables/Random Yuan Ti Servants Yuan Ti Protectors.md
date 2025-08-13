@@ -25,26 +25,26 @@ world: Both
 
 | dice: d100 | Protector(s) |
 |------------|--------------|
-| 1-10 | [Bandit Captains](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) and [Bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 11-12 | [Basilisks](/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) |
-| 13-18 | [Constrictor Snakes](/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md) |
-| 19-26 | [Cult Fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) and [Cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) |
-| 27-28 | [Flying Snakes](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md) |
-| 29-35 | [Giant Constrictor Snakes](/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md) |
-| 36-45 | [Giant Poisonous Snakes](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md) |
-| 46-50 | [Gladiators](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) |
-| 51-55 | [Guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| 56-58 | [Hydras](/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md) |
-| 59-60 | [Medusas](/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) |
-| 61 | [Mummies](/03_Mechanics/CLI/bestiary/undead/mummy-xmm.md)* |
-| 62-63 | [Poisonous Snakes](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
-| 64-68 | [Priests](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) |
-| 69-70 | [Skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
-| 71 | [Stone Golems](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) |
-| 72-81 | [Swarms of Poisonous Snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
-| 82-91 | [Tribal Warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) |
-| 92-97 | [Veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 98-100 | [Zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) |
+| 1-10 | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captains]] and [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandits]] |
+| 11-12 | [[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm|Basilisks]] |
+| 13-18 | [[/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm|Constrictor Snakes]] |
+| 19-26 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] and [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
+| 27-28 | [[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm|Flying Snakes]] |
+| 29-35 | [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|Giant Constrictor Snakes]] |
+| 36-45 | [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|Giant Poisonous Snakes]] |
+| 46-50 | [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiators]] |
+| 51-55 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
+| 56-58 | [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|Hydras]] |
+| 59-60 | [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|Medusas]] |
+| 61 | [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|Mummies]]* |
+| 62-63 | [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Poisonous Snakes]] |
+| 64-68 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |
+| 69-70 | [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeletons]] |
+| 71 | [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|Stone Golems]] |
+| 72-81 | [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|Swarms of Poisonous Snakes]] |
+| 82-91 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warriors]] |
+| 92-97 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veterans]] |
+| 98-100 | [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombies]] |
 ^yuan-ti-protectors
 
 * The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.

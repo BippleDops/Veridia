@@ -39,7 +39,7 @@ world: Aquabyssos
 
 The Aethermoor Embassy in [[Abyssos Prime]] serves as the official diplomatic representation of the aerial realm within [[Aquabyssos]], housed in an architecturally unique compound that represents the intersection of two vastly different civilizations. The embassy takes its common name from its long-serving ambassador, **Lysandra Silvertonge**, whose remarkable diplomatic career and personal charm have made her one of the most respected figures in inter-realm relations.
 
-Located in the prestigious [[02_Worldbuilding/Places/The Diplomatic Quarter]] of [[Abyssos Prime]], the embassy compound exists as a carefully designed fusion of architectural styles, where crystalline spires meet coral formations and atmospheric processing systems enable both aquatic and aerial beings to coexist comfortably. The facility serves not only as a diplomatic mission but also as a cultural bridge, trade facilitation center, and safe haven for citizens of both realms.
+Located in the prestigious [[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]] of [[Abyssos Prime]], the embassy compound exists as a carefully designed fusion of architectural styles, where crystalline spires meet coral formations and atmospheric processing systems enable both aquatic and aerial beings to coexist comfortably. The facility serves not only as a diplomatic mission but also as a cultural bridge, trade facilitation center, and safe haven for citizens of both realms.
 
 The embassy represents one of the most successful diplomatic installations in the known worlds, having maintained peaceful relations between [[Aethermoor]] and [[Aquabyssos]] for over three decades despite the fundamental differences between the sky-dwelling and depth-dwelling civilizations. Under Ambassador Silvertonge's leadership, the embassy has become a model for inter-realm cooperation and understanding.
 
@@ -443,7 +443,7 @@ Discovery of an ancient treaty between the realms reveals obligations that both 
 ### Direct Diplomatic Connections
 - **[[Aethermoor Crystal Council]]**: Primary government relationship for embassy operations
 - **[[Parliament of Echoes]]**: Main [[Aquabyssos]] government interface
-- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]**: Surrounding embassy district and related facilities
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]]**: Surrounding embassy district and related facilities
 - **[[Cultural Exchange Centers]]**: Facilities in both realms supporting diplomatic programs
 
 ### Economic and Trade Relationships
@@ -491,7 +491,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge|02 Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

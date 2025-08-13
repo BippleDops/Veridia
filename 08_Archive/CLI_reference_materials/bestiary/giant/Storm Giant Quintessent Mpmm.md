@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png)
 
-# [Storm Giant Quintessent](3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-mpmm|Storm Giant Quintessent]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -64,11 +64,11 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+8"
-  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
+  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
     "desc": "+8"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, thunder"
@@ -107,7 +107,7 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
       \ While dispersed, the giant can't take any actions other than lair actions,\
       \ and it can't be targeted by attacks, spells, or other effects. The giant can't\
       \ use this ability outside its lair, nor can it use this ability if another\
-      \ creature is using a [control weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ creature is using a [[/03_Mechanics/CLI/spells/control-weather-xphb|control weather]]\
       \ spell or similar magic to quell the storm."
     "name": "One with the Storm (Costs 3 Actions)"
 "source":

@@ -26,10 +26,10 @@ Markets as battlegrounds: supply/demand for 100+ goods, manipulation, sabotage, 
 - Buyouts, embargoes, counterfeit charts, rumor campaigns, anchor control
 
 ## Sabotage Operations
-- Attack infrastructure (see [[Transportation_Infrastructure]]), bribe officials, infect parasites into supply chains
+- Attack infrastructure (see [[Transportation_Infrastructure|Transportation Infrastructure]]), bribe officials, infect parasites into supply chains
 
 ## Trade Route Risk/Reward
-- Use [[Travel Event Table]]; add piracy and patrol modifiers from [[Fleet_Dynamics_Generator]]
+- Use [[Travel Event Table]]; add piracy and patrol modifiers from [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
 
 ## Currency Speculation
 - Crystal notes, Memory credits, Anchor bonds; volatility spikes near mergers
@@ -60,4 +60,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Phase_Omega_Enhanced_Index]]
+- [[03_Mechanics/Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]

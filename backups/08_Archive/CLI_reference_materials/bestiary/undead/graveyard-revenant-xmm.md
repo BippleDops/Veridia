@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-graveyard-revenant-xmm-graveyard-revenant-xmm.svg)
 
-# [Graveyard Revenant](3-Mechanics\CLI\bestiary\undead/graveyard-revenant-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/graveyard-revenant-xmm|Graveyard Revenant]]
 *Source: Monster Manual (2024) p. 260*  
 
 Graveyard revenants possess dozens of bodies that combine to form grotesque masses. They take revenge on those responsible for mass deaths or institutions that callously ruin lives.
@@ -65,32 +65,32 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common plus two other languages"
 "cr": "7"
 "traits":
-  - "desc": "If the revenant dies, it revives 24 hours later unless [Dispel Evil and\
-      \ Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast on its\
+  - "desc": "If the revenant dies, it revives 24 hours later unless [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil and\
+      \ Good]] is cast on its\
       \ remains. If it revives, it animates another group of corpses elsewhere on\
       \ the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ block and returns with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revenant makes two Suffocate attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 10 (1d10 + 5) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a Large or smaller\
-      \ creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition\
+      \ creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition\
       \ (escape DC 15). Until the grapple ends, the target is suffocating. The revenant\
-      \ can have up to two targets [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ can have up to two targets [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ in this way at a time."
     "name": "Suffocate"
-  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the revenant. Failure: The target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the revenant. Failure: The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Haunting Glare (Recharge 5-6)"

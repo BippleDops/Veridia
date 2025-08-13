@@ -10,18 +10,18 @@ tags:
 - political
 - quest
 - shadowmere
-quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 level_range: 5-8
 reward_tier: Significant
 locations:
-- '[[02_Worldbuilding/Places/The Shadowmere]]'
-- '[[02_Worldbuilding/Places/The Embassy Quarter]]'
-- '[[02_Worldbuilding/Places/The Sunken Markets]]'
+- '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]'
-- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
@@ -38,10 +38,10 @@ created: '2025-08-11'
 # Quest: The Drowned Prophecy
 
 ## Overview
-Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Places/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
+Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
 
 ## Quest Hook
-[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
+[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
 
 ## Act 1: Shadows and Prophecies
 
@@ -59,16 +59,16 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 - Local shadowkin report seeing "fish people" that shouldn't exist here
 
 **Clues Found:**
-- Tidal Court diplomatic seal (leads to [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]])
+- Tidal Court diplomatic seal (leads to [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]])
 - Crystal Warden patrol schedule (inside information)
-- Payment ledger in Whisper Syndicate cipher (involves [[02_Worldbuilding/People/Vex Shadowthorn]])
+- Payment ledger in Whisper Syndicate cipher (involves [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]])
 
 ## Act 2: The Conspiracy Web
 
 ### The Embassy Investigation
 **Infiltrating the Cerulean Depths:**
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
-- Hidden basement contains portal pool to [[02_Worldbuilding/Places/The Sunken Markets]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
+- Hidden basement contains portal pool to [[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]
 - Diplomatic papers discussing "accelerated integration timeline"
 - Servants are deep-touched, showing early signs of aquatic transformation
 
@@ -80,9 +80,9 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 
 ### The Sunken Markets Trail
 **Following the Smuggling Route:**
-- [[02_Worldbuilding/People/Vex Shadowthorn]] has been moving prophecy shards through the markets
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] has been moving prophecy shards through the markets
 - Claims he's just the middleman, doesn't know final buyer
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] has been hired to protect shipments
+- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]] has been hired to protect shipments
 - Marcus reveals buyer uses Crystal Warden codes
 
 **The Depth Speaker's Warning:**
@@ -96,7 +96,7 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 
 ### The True Conspirator
 > [!warning] DM Secret
-> [[02_Worldbuilding/People/Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
+> [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
 
 **Evidence Points:**
 - Crystal Warden resources diverted to "special projects"
@@ -131,7 +131,7 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
   - Destroyed (removes prophecy but not threat)
   - Used differently (party's choice, major consequences)
 - Prince's fate affects succession crisis
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
 
 ### If Party Allies with Prince
 - Become agents of controlled transformation
@@ -156,7 +156,7 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 
 ### Information Rewards
 - Location of one of the Seven Shards
-- Truth about [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption source
+- Truth about [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption source
 - Map to pre-Shattering ruins beneath Crystalhaven
 - Prophecy about each party member's future
 
@@ -165,17 +165,17 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 ### The Refugee Crisis
 - Lake Gloom's disturbance displaces shadowkin
 - Must find new homes or calm the waters
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] offers forest sanctuary
+- [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] offers forest sanctuary
 
 ### The Assassin's Mark
 - Someone wants the investigation stopped
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] hired to kill party
+- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]] hired to kill party
 - Can be turned into ally with right approach
 
 ### The Diplomatic Incident
 - Investigation exposes embassy secrets
 - International tensions threaten war
-- [[02_Worldbuilding/People/Castellan Ironledger III]] offers to mediate (for a price)
+- [[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]] offers to mediate (for a price)
 
 ## NPC Motivations
 

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-v1-yagnoloth-mpmm.svg)
 
-# [Yagnoloth](3-Mechanics\CLI\bestiary\fiend/yagnoloth-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/yagnoloth-mpmm|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -59,18 +59,18 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+8"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
     "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "11"
@@ -88,13 +88,13 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Electrified Touch"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23\
       \ (3d12 + 4) force damage. If the target is a creature, it must succeed on a\
-      \ DC 16 Constitution saving throw or become [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
+      \ DC 16 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
       \ until the end of the yagnoloth's next turn."
     "name": "Massive Arm"
   - "desc": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear\
       \ it can use their reactions to make one melee attack each."
     "name": "Battlefield Cunning (Recharge 4-6)"
-  - "desc": "The yagnoloth touches one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The yagnoloth touches one [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
       \ creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage,\
       \ and the yagnoloth gains temporary hit points equal to half the damage dealt.\
       \ The target must succeed on a DC 16 Constitution saving throw, or its hit point\
@@ -107,11 +107,11 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [detect\
-      \ magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
-      \ [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md)\n\n3/day: [lightning\
-      \ bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect\
+      \ magic]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
+      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] (self only),\
+      \ [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]]\n\n3/day: [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning\
+      \ bolt]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

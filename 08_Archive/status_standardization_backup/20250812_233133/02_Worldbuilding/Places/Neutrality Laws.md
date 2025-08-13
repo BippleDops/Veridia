@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Neutrality Laws]]
+- [[02_Worldbuilding/Places/Neutrality Laws|02 Worldbuilding/Places/Neutrality Laws]]
 
 <!-- enriched: true -->

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Veiled Hierophant]]
+- [[02_Worldbuilding/Places/Veiled Hierophant|02 Worldbuilding/Places/Veiled Hierophant]]
 
 <!-- enriched: true -->
 

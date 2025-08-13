@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Exotic Emporium]]
+- [[02_Worldbuilding/Places/The Exotic Emporium|02 Worldbuilding/Places/The Exotic Emporium]]
 
 <!-- enriched: true -->
 
@@ -66,4 +66,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Port Meridian]]
-- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]

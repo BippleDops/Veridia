@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Rhea Blackwater]]
+- [[02_Worldbuilding/People/Captain Rhea Blackwater|02 Worldbuilding/People/Captain Rhea Blackwater]]
 
 <!-- enriched: true -->

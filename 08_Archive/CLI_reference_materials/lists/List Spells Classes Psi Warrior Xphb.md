@@ -20,7 +20,7 @@ world: Both
 
 ## 5th Level
 
-- [Telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 18
+- [[/03_Mechanics/CLI/spells/telekinesis-xphb "XPHB"|Telekinesis]] at class level 18
 
 ## Player-Facing Summary
 

@@ -24,7 +24,7 @@ world: Both
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Cost**: 2 gp
 - **Weight**: 2.0 lbs.
 

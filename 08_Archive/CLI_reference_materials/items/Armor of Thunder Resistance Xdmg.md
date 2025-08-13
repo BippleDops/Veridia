@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to thunder damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to thunder damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Thunder Resistance](#Breastplate%20of%20Thunder%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to thu
 - [Splint Armor of Thunder Resistance](#Splint%20Armor%20of%20Thunder%20Resistance)
 - [Studded Leather Armor of Thunder Resistance](#Studded%20Leather%20Armor%20of%20Thunder%20Resistance)
 
-### Breastplate of Thunder Resistance
+## Breastplate of Thunder Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

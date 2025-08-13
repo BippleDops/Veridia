@@ -44,7 +44,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **[[Commander Drake Pressureborn]]**: Military leader demanding immediate action
 - **[[Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
 - **[[Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
 - **Detective Coral Truthseeker**: [[Parliament of Echoes]] investigator with inside knowledge
 - **[[Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
 - **Nurse Tidal Mercy**: Medical professional treating pressure poisoning symptoms
@@ -267,8 +267,8 @@ When found, the senator is in critical condition:
 
 Connected Adventures
 - **[[Crystalline Depths]]**: Political stability needed to coordinate response to crystal threat
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
 - **[[The Maw of Darkness]]**: Political unity essential for fighting reality-consuming threats
 - **[[The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
 - **[[Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
@@ -314,11 +314,11 @@ Connected Adventures
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Smuggler]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -338,7 +338,7 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[02_Worldbuilding/Quests/Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
 - [[Shadow Surgeons Collective]]
 - [[Thieves Guild]]
 - [[Ancient Siege Tunnels]]

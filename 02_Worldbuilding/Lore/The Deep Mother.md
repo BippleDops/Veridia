@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[07_Player_Resources/Character_Options/Depth_Adapted_Background]]
+- [[07_Player_Resources/Character_Options/Depth_Adapted_Background|07 Player Resources/Character Options/Depth Adapted Background]]
 
 
 ## Connections

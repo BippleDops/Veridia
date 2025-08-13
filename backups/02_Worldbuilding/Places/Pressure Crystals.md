@@ -31,7 +31,7 @@ accessibility:
 
 # Pressure Crystals
 
-![Pressure Crystals Portrait](04_Resources/Assets/Art/Places/Pressure_Crystals.png)
+![[04_Resources/Assets/Art/Places/Pressure_Crystals.png|Pressure Crystals Portrait]]
 
 ## Overview
 Pressure Crystals is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -53,7 +53,7 @@ Pressure Crystals is a living crossroads where memory-currents and trade flows i
 
 ## Threads to the Main Campaign
 - Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos]].
+- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 - An information broker with ties to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
@@ -63,7 +63,7 @@ Pressure Crystals is a living crossroads where memory-currents and trade flows i
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -89,5 +89,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[Pressure Terminal]]

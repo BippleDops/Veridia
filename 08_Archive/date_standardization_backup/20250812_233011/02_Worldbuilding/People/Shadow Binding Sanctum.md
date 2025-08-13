@@ -121,7 +121,7 @@ The Shadow Binding Sanctum provides opportunities for horror-themed adventures, 
 
 ## Connections
 
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
 
 
 ## Appearance
@@ -157,6 +157,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Binding Sanctum]]
+- [[02_Worldbuilding/People/Shadow Binding Sanctum|02 Worldbuilding/People/Shadow Binding Sanctum]]
 
 <!-- enriched: true -->

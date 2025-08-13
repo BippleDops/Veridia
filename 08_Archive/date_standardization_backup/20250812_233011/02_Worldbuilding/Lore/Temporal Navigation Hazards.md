@@ -190,13 +190,13 @@ Temporal hazards create significant vulnerabilities for both realms while potent
 8. **Emergency Evacuation**: Characters help evacuate a community from an area where temporal hazards are becoming increasingly frequent and dangerous
 
 ## Connected Phenomena and Threats
-- [[02_Worldbuilding/Lore/Multiple Recursion Levels]] - Reality layering effects that interact with temporal distortions
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon contributing to temporal instability
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Location where temporal and crystal effects combine dangerously
-- [[02_Worldbuilding/People/Biomancer Corvus Intestinal]] - Researcher investigating temporal effects on biological systems
-- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog of temporal magic and protection spells
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by increasing temporal instability
-- [[02_Worldbuilding/Lore/Aethermoor]] - Surface realm developing temporal hazard countermeasures
+- [[02_Worldbuilding/Lore/Multiple Recursion Levels|02 Worldbuilding/Lore/Multiple Recursion Levels]] - Reality layering effects that interact with temporal distortions
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon contributing to temporal instability
+- [[02_Worldbuilding/Lore/Crystal Forest|02 Worldbuilding/Lore/Crystal Forest]] - Location where temporal and crystal effects combine dangerously
+- [[02_Worldbuilding/People/Biomancer Corvus Intestinal|02 Worldbuilding/People/Biomancer Corvus Intestinal]] - Researcher investigating temporal effects on biological systems
+- [[02_Worldbuilding/Lore/Spell Lists|02 Worldbuilding/Lore/Spell Lists]] - Catalog of temporal magic and protection spells
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by increasing temporal instability
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Surface realm developing temporal hazard countermeasures
 
 
 ## Connections
@@ -221,5 +221,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]

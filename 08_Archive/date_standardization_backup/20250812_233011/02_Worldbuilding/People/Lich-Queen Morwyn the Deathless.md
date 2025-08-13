@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]
+- [[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless|02 Worldbuilding/People/Lich Queen Morwyn The Deathless]]
 
 <!-- enriched: true -->
 

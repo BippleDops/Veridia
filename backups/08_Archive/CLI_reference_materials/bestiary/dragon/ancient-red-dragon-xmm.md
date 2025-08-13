@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-red-dragon-xmm-ancient-red-dragon-xmm.svg)
 
-# [Ancient Red Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-red-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/ancient-red-dragon-xmm|Ancient Red Dragon]]
 *Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ancient red dragons number among the most feared and destructive beings in the multiverse. Few can withstand the wrath of an ancient red dragon that turns its mind toward devastation. These dragons' greed matches their ruinous potential, and they collect vast hoards studded with storied treasures and magic items. Their lairs frequently tap into volcanic depths and might pierce other planes of existence, bringing servants from the Elemental Plane of Fire or the Lower Planes into their service.
@@ -70,9 +70,9 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "7"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+16"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
@@ -83,33 +83,33 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md)\
+      \ use of Spellcasting to cast [[/03_Mechanics/CLI/spells/scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing\
       \ damage plus 10 (3d6) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 24, each creature in a 90-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Dexterity Saving Throw: DC 24, each creature in a 90-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 91 (26d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit\
-      \ with spell attacks):\n\nAt will: [Command](/03_Mechanics/CLI/spells/command-xphb.md)\
-      \ (level 2 version), [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md) (level 3 version)\n\
-      \n1/day each: [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) (level\
-      \ 6 version), [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md)"
+      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/command-xphb|Command]]\
+      \ (level 2 version), [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/scorching-ray-xphb|Scorching Ray]] (level 3 version)\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]] (level\
+      \ 6 version), [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Command](/03_Mechanics/CLI/spells/command-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/command-xphb|Command]]\
       \ (level 2 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Commanding Presence"
-  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Fiery Rays"
-  - "desc": "The dragon moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -119,11 +119,11 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "- Burning Heat. The area within 1 mile of the lair is an area of\
       \ extreme heat. A burning creature or object takes an additional d4 Fire damage\
       \ at the start of each of its turns.  \n- Smoldering Haze. The area within\
-      \ 1 mile of the lair is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
+      \ 1 mile of the lair is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]]\
       \ with clouds of ash. Whenever a creature other than the dragon or one of its\
-      \ allies finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ allies finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]\
       \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
-      \ or have the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ or have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour.  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."

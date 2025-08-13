@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-toad-rot-ice-toad-rot.svg)
 
-# [Ice Toad](3-Mechanics\CLI\bestiary\monstrosity/ice-toad-rot.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/ice-toad-rot|Ice Toad]]
 *Source: The Rise of Tiamat p. 90*  
 
 Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
@@ -52,7 +52,7 @@ When the characters encounter ice toads, their intelligence won't be apparent un
   - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 12"
@@ -69,7 +69,7 @@ When the characters encounter ice toads, their intelligence won't be apparent un
     "name": "Standing Leap"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (d8)\
-      \ cold damage. If the target is a Medium or smaller creature it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ cold damage. If the target is a Medium or smaller creature it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
       \ (escape DC 11). Until this grapple ends, the toad can't bite another target."
     "name": "Bite"
 "source":

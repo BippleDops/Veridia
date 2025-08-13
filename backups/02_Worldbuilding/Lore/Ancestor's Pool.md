@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies|02 Worldbuilding/Lore/Tidal Memory Ceremonies]]
 
 
 ## Connections

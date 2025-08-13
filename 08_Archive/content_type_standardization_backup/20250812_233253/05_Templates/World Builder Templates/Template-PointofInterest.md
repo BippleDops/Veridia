@@ -139,21 +139,21 @@ Select Category: `INPUT[template-poi-type][:MyCategory]`
 
 This is the description for the location.
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the Point of Interest here. 
 
-# Travel
+## Travel
 
 `VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
 [[Travel Calculator]]  / [[Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[02_Worldbuilding/Lore/Next Town B|02 Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((99* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
-# Scene Summary 
+## Scene Summary
 
 This is a cave
 
@@ -170,7 +170,7 @@ This is the approach
 This is inside
 
 
-# Quests
+## Quests
 
 `BUTTON[button_quest]` 
 
@@ -184,7 +184,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# People
+## People
 
 `BUTTON[button_person]`  The following people are associated with this location.
 
@@ -197,7 +197,7 @@ SORT file.name ASC
 ```
 
 
-# Encounter
+## Encounter
 
 Lists any mentioned monsters in this note.
 ```dataview
@@ -257,4 +257,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/A Cave.png]]
+- [[02_Worldbuilding/Lore/A Cave.png|02 Worldbuilding/Lore/A Cave.png]]

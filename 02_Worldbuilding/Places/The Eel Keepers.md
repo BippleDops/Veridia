@@ -160,6 +160,6 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Eel Keepers]]
+- [[02_Worldbuilding/Places/The Eel Keepers|02 Worldbuilding/Places/The Eel Keepers]]
 
 <!-- enriched: true -->

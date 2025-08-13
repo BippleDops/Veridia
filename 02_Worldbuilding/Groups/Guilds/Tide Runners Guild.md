@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
 
 
 ## Connections

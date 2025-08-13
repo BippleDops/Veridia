@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-brass-dragon-xmm-v1-young-brass-dragon-xmm.svg)
 
-# [Young Brass Dragon](3-Mechanics\CLI\bestiary\dragon/young-brass-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/young-brass-dragon-xmm|Young Brass Dragon]]
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
@@ -69,11 +69,11 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
@@ -86,13 +86,13 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 38 (11d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: The target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
-      \ 2nd Failure: The target has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
+      \ 2nd Failure: The target has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]]\
       \ condition for 1 minute. This effect ends for the target if it takes damage\
       \ or a creature within 5 feet of it takes an action to wake it."
     "name": "Sleep Breath"

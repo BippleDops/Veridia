@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/People/Throne of Bubbles|02 Worldbuilding/People/Throne Of Bubbles]]
 
 
 ## Connections

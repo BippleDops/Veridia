@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pseudodragon-xmm-pseudodragon-xmm.svg)
 
-# [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/pseudodragon-xmm|Pseudodragon]]
 *Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Pseudodragon
@@ -89,15 +89,15 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 15"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The pseudodragon has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -107,9 +107,9 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 12, one creature the pseudodragon can\
       \ see within 5 feet. Failure: 5 (2d4) Poison damage, and the target has the\
-      \ [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour.\
-      \ While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the target also\
-      \ has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) condition,\
+      \ [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition for 1 hour.\
+      \ While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the target also\
+      \ has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]] condition,\
       \ which ends early if the target takes damage or a creature within 5 feet of\
       \ it takes an action to wake it."
     "name": "Sting"

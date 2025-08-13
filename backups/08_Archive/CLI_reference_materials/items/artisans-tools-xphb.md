@@ -29,23 +29,23 @@ world: Both
 
 **Items in this group:**
 
-- [Alchemist's Supplies](/03_Mechanics/CLI/items/alchemists-supplies-xphb.md)
-- [Brewer's Supplies](/03_Mechanics/CLI/items/brewers-supplies-xphb.md)
-- [Calligrapher's Supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md)
-- [Carpenter's Tools](/03_Mechanics/CLI/items/carpenters-tools-xphb.md)
-- [Cartographer's Tools](/03_Mechanics/CLI/items/cartographers-tools-xphb.md)
-- [Cobbler's Tools](/03_Mechanics/CLI/items/cobblers-tools-xphb.md)
-- [Cook's Utensils](/03_Mechanics/CLI/items/cooks-utensils-xphb.md)
-- [Glassblower's Tools](/03_Mechanics/CLI/items/glassblowers-tools-xphb.md)
-- [Jeweler's Tools](/03_Mechanics/CLI/items/jewelers-tools-xphb.md)
-- [Leatherworker's Tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md)
-- [Mason's Tools](/03_Mechanics/CLI/items/masons-tools-xphb.md)
-- [Painter's Supplies](/03_Mechanics/CLI/items/painters-supplies-xphb.md)
-- [Potter's Tools](/03_Mechanics/CLI/items/potters-tools-xphb.md)
-- [Smith's Tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md)
-- [Tinker's Tools](/03_Mechanics/CLI/items/tinkers-tools-xphb.md)
-- [Weaver's Tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md)
-- [Woodcarver's Tools](/03_Mechanics/CLI/items/woodcarvers-tools-xphb.md)
+- [[/03_Mechanics/CLI/items/alchemists-supplies-xphb|Alchemist's Supplies]]
+- [[/03_Mechanics/CLI/items/brewers-supplies-xphb|Brewer's Supplies]]
+- [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]]
+- [[/03_Mechanics/CLI/items/carpenters-tools-xphb|Carpenter's Tools]]
+- [[/03_Mechanics/CLI/items/cartographers-tools-xphb|Cartographer's Tools]]
+- [[/03_Mechanics/CLI/items/cobblers-tools-xphb|Cobbler's Tools]]
+- [[/03_Mechanics/CLI/items/cooks-utensils-xphb|Cook's Utensils]]
+- [[/03_Mechanics/CLI/items/glassblowers-tools-xphb|Glassblower's Tools]]
+- [[/03_Mechanics/CLI/items/jewelers-tools-xphb|Jeweler's Tools]]
+- [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|Leatherworker's Tools]]
+- [[/03_Mechanics/CLI/items/masons-tools-xphb|Mason's Tools]]
+- [[/03_Mechanics/CLI/items/painters-supplies-xphb|Painter's Supplies]]
+- [[/03_Mechanics/CLI/items/potters-tools-xphb|Potter's Tools]]
+- [[/03_Mechanics/CLI/items/smiths-tools-xphb|Smith's Tools]]
+- [[/03_Mechanics/CLI/items/tinkers-tools-xphb|Tinker's Tools]]
+- [[/03_Mechanics/CLI/items/weavers-tools-xphb|Weaver's Tools]]
+- [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]]
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

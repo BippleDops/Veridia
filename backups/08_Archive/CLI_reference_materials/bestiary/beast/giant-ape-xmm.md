@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-ape-xmm-giant-ape-xmm.svg)
 
-# [Giant Ape](3-Mechanics\CLI\bestiary\beast/giant-ape-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/giant-ape-xmm|Giant Ape]]
 *Source: Monster Manual (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Ape (XMM)"
@@ -50,11 +50,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
+  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -66,9 +66,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ damage."
     "name": "Fist"
   - "desc": "The ape hurls a boulder at a point it can see within 90 feet. Dexterity\
-      \ Saving Throw: DC 17, each creature in a 5-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ Saving Throw: DC 17, each creature in a 5-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
       \ centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target\
-      \ is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Boulder Toss (Recharge 6)"
 "bonus_actions":

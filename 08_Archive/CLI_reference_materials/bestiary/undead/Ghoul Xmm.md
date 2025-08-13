@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghoul-xmm-ghoul-xmm.svg)
 
-# [Ghoul](3-Mechanics\CLI\bestiary\undead/ghoul-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/ghoul-xmm|Ghoul]]
 *Source: Monster Manual (2024) p. 132. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.
@@ -64,8 +64,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -78,7 +78,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
       \ If the target is a creature that isn't an Undead or elf, it is subjected to\
       \ the following effect. Constitution Saving Throw: DC 10. Failure: The target\
-      \ has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition until\
+      \ has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition until\
       \ the end of its next turn."
     "name": "Claw"
 "source":

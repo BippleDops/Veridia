@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Identify](/03_Mechanics/CLI/spells/identify-xphb.md "XPHB") at class level 9
-- [Searing Smite](/03_Mechanics/CLI/spells/searing-smite-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/identify-xphb "XPHB"|Identify]] at class level 9
+- [[/03_Mechanics/CLI/spells/searing-smite-xphb "XPHB"|Searing Smite]] at class level 9
 
 ## 2nd Level
 
-- [Heat Metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md "XPHB") at class level 9
-- [Magic Weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/heat-metal-xphb "XPHB"|Heat Metal]] at class level 9
+- [[/03_Mechanics/CLI/spells/magic-weapon-xphb "XPHB"|Magic Weapon]] at class level 9
 
 ## 3rd Level
 
-- [Elemental Weapon](/03_Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB") at class level 9
-- [Protection from Energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/elemental-weapon-xphb "XPHB"|Elemental Weapon]] at class level 9
+- [[/03_Mechanics/CLI/spells/protection-from-energy-xphb "XPHB"|Protection from Energy]] at class level 9
 
 ## 4th Level
 
-- [Fabricate](/03_Mechanics/CLI/spells/fabricate-xphb.md "XPHB") at class level 9
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/fabricate-xphb "XPHB"|Fabricate]] at class level 9
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]] at class level 9
 
 ## 5th Level
 
-- [Animate Objects](/03_Mechanics/CLI/spells/animate-objects-xphb.md "XPHB") at class level 9
-- [Creation](/03_Mechanics/CLI/spells/creation-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/animate-objects-xphb "XPHB"|Animate Objects]] at class level 9
+- [[/03_Mechanics/CLI/spells/creation-xphb "XPHB"|Creation]] at class level 9
 
 ## Player-Facing Summary
 

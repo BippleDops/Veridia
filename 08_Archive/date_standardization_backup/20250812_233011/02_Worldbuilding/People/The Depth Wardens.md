@@ -304,12 +304,12 @@ The Depth Wardens represent the theme that some knowledge and some duties are to
 - [[The Pressure Maelstroms]]
 - [[Captain Nautilus the Deep Wanderer]]
 - [[Commander Typhoon Blackheart]]
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 - [[Oracle Nerida the Tidereader]]
 - [[Sister Thalassa the Depth-Touched]]
 - [[Surface Ambassador Lord Seaworthy]]
 - [[Lumengarde]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[The Gilded Shard]]
 - [[The Shadowmire Tavern]]
 
@@ -327,7 +327,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[02_Worldbuilding/People/The Depth Wardens|02 Worldbuilding/People/The Depth Wardens]]
 
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]

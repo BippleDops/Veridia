@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Underground Testing Facility]]
+- [[02_Worldbuilding/People/Underground Testing Facility|02 Worldbuilding/People/Underground Testing Facility]]
 
 <!-- enriched: true -->
 

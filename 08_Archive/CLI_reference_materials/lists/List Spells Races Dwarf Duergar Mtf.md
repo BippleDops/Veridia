@@ -20,8 +20,8 @@ world: Both
 
 ## 2nd Level
 
-- [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 3
-- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb "XPHB"|Enlarge/Reduce]] at class level 3
+- [[/03_Mechanics/CLI/spells/invisibility-xphb "XPHB"|Invisibility]] at class level 3
 
 ## Player-Facing Summary
 

@@ -23,12 +23,12 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-seeker-dart-pota-seeker-dart-pota.svg)
 
 # Seeker Dart
-*Weapon ([dart](/03_Mechanics/CLI/items/dart-xphb.md)), uncommon*  
+*Weapon ([[/03_Mechanics/CLI/items/dart-xphb|dart]]), uncommon*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 This small dart is decorated with designs like windy spirals that span the length of its shaft.

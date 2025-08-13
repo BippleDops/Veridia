@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-wight-mpmm-deathlock-wight-mpmm.svg)
 
-# [Deathlock Wight](3-Mechanics\CLI\bestiary\undead/deathlock-wight-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/deathlock-wight-mpmm|Deathlock Wight]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
@@ -56,20 +56,20 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "While in sunlight, the deathlock has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks\
+      \ well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The deathlock doesn't require air, food, drink, or sleep."
@@ -82,7 +82,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if its hit point maximum is reduced to 0.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
+      \ by this attack rises 24 hours later as a [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombie]]\
       \ under the deathlock's control, unless the Humanoid is restored to life or\
       \ its body is destroyed. The deathlock can have no more than twelve zombies\
       \ under its control at one time."
@@ -91,9 +91,9 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d8 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md)\n\
-      \n1/day each: [fear](/03_Mechanics/CLI/spells/fear-xphb.md), [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md)"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
+      \ [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/fear-xphb|fear]], [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

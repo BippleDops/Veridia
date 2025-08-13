@@ -9,8 +9,8 @@ race: Race (subrace if applicable)
 class: Class/Profession
 level: X
 alignment: Alignment
-location: '[[Current_Location]]'
-faction: '[[Faction_Name]] OR Independent'
+location: '[[Current_Location|Current Location]]'
+faction: '[[Faction_Name|Faction Name]] OR Independent'
 status: Active/Missing/Dead/Unknown
 created: '2025-08-11'
 updated: '2025-08-13T01:18:31.183178+00:00'

@@ -22,10 +22,10 @@ type: Lore
 # Black Market Price Guide
 *Where Everything Has a Price, and Nothing Is Too Dark to Sell*
 
-> *"The black market isn't a place - it's a state of mind. It's the economy that exists in the shadows between legal and illegal, moral and necessary, survival and damnation."* - [[02_Worldbuilding/Groups/The Whisper Syndicate]] operative
+> *"The black market isn't a place - it's a state of mind. It's the economy that exists in the shadows between legal and illegal, moral and necessary, survival and damnation."* - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operative
 
 ## Overview
-The underground economies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] operate parallel to legitimate commerce, offering goods and services that are illegal, restricted, or morally questionable. These markets thrive in the gaps left by legal regulation, providing everything from simple contraband to horrifying services that no civilized society would permit.
+The underground economies of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] operate parallel to legitimate commerce, offering goods and services that are illegal, restricted, or morally questionable. These markets thrive in the gaps left by legal regulation, providing everything from simple contraband to horrifying services that no civilized society would permit.
 
 ## Underground Economy Structure
 
@@ -466,11 +466,11 @@ The underground economies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Wor
 
 ## Connected Systems and Cross-References
 
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Major criminal organization controlling black markets
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Legal economy that black markets exist alongside
-- [[02_Worldbuilding/Lore/District Economic Profiles]] - Geographic areas where black markets operate
-- [[02_Worldbuilding/Groups/Shadow Surgeons Collective]] - Criminal organization offering illegal services
-- [[03_Mechanics/Economic_Warfare_Simulator]] - Tools for modeling criminal economic activity
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Major criminal organization controlling black markets
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Legal economy that black markets exist alongside
+- [[02_Worldbuilding/Lore/District Economic Profiles|02 Worldbuilding/Lore/District Economic Profiles]] - Geographic areas where black markets operate
+- [[02_Worldbuilding/Groups/Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]] - Criminal organization offering illegal services
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for modeling criminal economic activity
 
 ## Player-Facing Summary
 

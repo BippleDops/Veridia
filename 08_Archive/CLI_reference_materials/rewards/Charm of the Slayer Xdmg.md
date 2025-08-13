@@ -19,7 +19,7 @@ world: Both
 
 # Charm of the Slayer
 
-One weapon in your possession becomes a [Dragon Slayer](/03_Mechanics/CLI/items/dragon-slayer-xdmg.md) or [Giant Slayer](/03_Mechanics/CLI/items/giant-slayer-xdmg.md) (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
+One weapon in your possession becomes a [[/03_Mechanics/CLI/items/dragon-slayer-xdmg|Dragon Slayer]] or [[/03_Mechanics/CLI/items/giant-slayer-xdmg|Giant Slayer]] (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
 

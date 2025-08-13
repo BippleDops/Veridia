@@ -25,7 +25,7 @@ tags:
 > **[[City of Screams]]**
 > ![[AdventureIcon.png\|sban htiny ctr]]
 > 
-> **[[02_Worldbuilding/Lore/Example Party ]]**
+> **[[02_Worldbuilding/Lore/Example Party |02 Worldbuilding/Lore/Example Party]]**
 > ![[PartyLogo.jpg\|sban htiny ctr p+t]]
 
 > [!NOTE|no-title]
@@ -57,4 +57,4 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Island of Skulls]]
+- [[02_Worldbuilding/Lore/Island of Skulls|02 Worldbuilding/Lore/Island Of Skulls]]

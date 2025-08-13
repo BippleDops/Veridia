@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] at class level 5
 
 ## 1st Level
 
-- [Hellish Rebuke](/03_Mechanics/CLI/spells/hellish-rebuke-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/hellish-rebuke-xphb "XPHB"|Hellish Rebuke]] at class level 5
 
 ## 2nd Level
 
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 5
 
 ## Player-Facing Summary
 

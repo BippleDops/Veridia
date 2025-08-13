@@ -42,9 +42,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation]]
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]]
 
 
 ## Connections
 
-- [[Ω_System-CLI-spells-school-evocation]]
+- [[Ω_System-CLI-spells-school-evocation|Ω System CLI Spells School Evocation]]

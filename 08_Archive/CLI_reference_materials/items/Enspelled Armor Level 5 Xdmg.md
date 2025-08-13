@@ -57,7 +57,7 @@ The spell's saving throw DC is 17, and its attack bonus is `+9`.
 - [Enspelled (Level 5) Splint Armor](#Enspelled%20(Level%205)%20Splint%20Armor)
 - [Enspelled (Level 5) Studded Leather Armor](#Enspelled%20(Level%205)%20Studded%20Leather%20Armor)
 
-### Enspelled (Level 5) Breastplate
+## Enspelled (Level 5) Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

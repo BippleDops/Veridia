@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-boss-xmm-goblin-boss-xmm.svg)
 
-# [Goblin Boss](3-Mechanics\CLI\bestiary\fey/goblin-boss-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/goblin-boss-xmm|Goblin Boss]]
 *Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
@@ -73,7 +73,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
@@ -82,10 +82,10 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-      \ plus 2 (d4) Slashing damage if the attack roll had [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ plus 2 (d4) Slashing damage if the attack roll had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]."
     "name": "Scimitar"
   - "desc": "Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (d4) Piercing damage if the attack roll had [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ damage, plus 2 (d4) Piercing damage if the attack roll had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The goblin takes the Disengage or Hide action."

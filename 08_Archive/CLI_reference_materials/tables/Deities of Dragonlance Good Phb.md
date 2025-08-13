@@ -23,13 +23,13 @@ world: Both
 
 | The Gods of Good | Alignment | Suggested Domains | Symbol |
 |------------------|-----------|-------------------|--------|
-| [Paladine](/03_Mechanics/CLI/deities/dragonlance-paladine-phb.md), god of rulers and guardians | LG | War | Silver triangle |
-| [Branchala](/03_Mechanics/CLI/deities/dragonlance-branchala-phb.md), god of music | NG | Light | Bard's harp |
-| [Habbakuk](/03_Mechanics/CLI/deities/dragonlance-habbakuk-phb.md), god of animal life and the sea | NG | Nature, Tempest | Blue bird |
-| [Kiri-Jolith](/03_Mechanics/CLI/deities/dragonlance-kiri-jolith-phb.md), god of honor and war | LG | War | Bison's horns |
-| [Majere](/03_Mechanics/CLI/deities/dragonlance-majere-phb.md), god of meditation and order | LG | Knowledge | Copper spider |
-| [Mishakal](/03_Mechanics/CLI/deities/dragonlance-mishakal-phb.md), goddess of healing | LG | Knowledge, Life | Blue infinity sign |
-| [Solinari](/03_Mechanics/CLI/deities/dragonlance-solinari-phb.md), god of good magic | LG | no clerics | White circle or sphere |
+| [[/03_Mechanics/CLI/deities/dragonlance-paladine-phb|Paladine]], god of rulers and guardians | LG | War | Silver triangle |
+| [[/03_Mechanics/CLI/deities/dragonlance-branchala-phb|Branchala]], god of music | NG | Light | Bard's harp |
+| [[/03_Mechanics/CLI/deities/dragonlance-habbakuk-phb|Habbakuk]], god of animal life and the sea | NG | Nature, Tempest | Blue bird |
+| [[/03_Mechanics/CLI/deities/dragonlance-kiri-jolith-phb|Kiri-Jolith]], god of honor and war | LG | War | Bison's horns |
+| [[/03_Mechanics/CLI/deities/dragonlance-majere-phb|Majere]], god of meditation and order | LG | Knowledge | Copper spider |
+| [[/03_Mechanics/CLI/deities/dragonlance-mishakal-phb|Mishakal]], goddess of healing | LG | Knowledge, Life | Blue infinity sign |
+| [[/03_Mechanics/CLI/deities/dragonlance-solinari-phb|Solinari]], god of good magic | LG | no clerics | White circle or sphere |
 ^deities-of-dragonlance-good
 
 ## Player-Facing Summary

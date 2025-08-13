@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Living Reef]]
+- [[02_Worldbuilding/Places/Living Reef|02 Worldbuilding/Places/Living Reef]]
 
 <!-- enriched: true -->
 

@@ -223,29 +223,29 @@ Marriage Between Worlds represents the complex and evolving cultural phenomenon 
 - [[Ambassador Nerida Deepcurrent]] - Aquabyssos diplomat pioneering inter-realm marriage policies
 - [[Prince Caelum Stormwright]] - Aethermoor noble advocating for cultural integration through marriage
 - [[Marriage Counselor Tidal Harmony]] - Specialist in inter-realm relationship guidance and support
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Port official facilitating inter-realm family travel
-- [[02_Worldbuilding/Groups/Cultural Mediator Coral Windweave]] - Expert in resolving cross-cultural conflicts and misunderstandings
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]] - Port official facilitating inter-realm family travel
+- [[02_Worldbuilding/Groups/Cultural Mediator Coral Windweave|02 Worldbuilding/Groups/Cultural Mediator Coral Windweave]] - Expert in resolving cross-cultural conflicts and misunderstandings
 - [[Legal Advisor Depth Justice]] - Attorney specializing in inter-realm marriage and family law
 - [[Religious Leader Father Ocean Breeze]] - Clergy member conducting inter-realm wedding ceremonies
 
 ## Connected Locations
 - [[Inter-Realm Marriage Registry]] - Official government office for marriage licenses and documentation
-- [[02_Worldbuilding/Groups/Cultural Exchange Cente]] - Community facility supporting inter-realm families and cultural education
-- [[02_Worldbuilding/Places/Harbor District]] - Commercial area where many inter-realm couples establish businesses
+- [[02_Worldbuilding/Groups/Cultural Exchange Cente|02 Worldbuilding/Groups/Cultural Exchange Cente]] - Community facility supporting inter-realm families and cultural education
+- [[02_Worldbuilding/Places/Harbor District|02 Worldbuilding/Places/Harbor District]] - Commercial area where many inter-realm couples establish businesses
 - [[The Neutral Waters]] - Ceremonial location popular for inter-realm wedding ceremonies
 - [[Bridge-Builder Community Center]] - Support facility for children and families of mixed heritage
 - [[Embassy Quarter]] - Diplomatic district housing many inter-realm diplomatic marriages
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Inter-Realm Marriage Guil]] - Professional support organization for cross-cultural couples
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization benefiting from inter-realm marriage business connections
+- [[02_Worldbuilding/Groups/The Inter-Realm Marriage Guil|02 Worldbuilding/Groups/The Inter Realm Marriage Guil]] - Professional support organization for cross-cultural couples
+- [[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]] - Trade organization benefiting from inter-realm marriage business connections
 - [[Cultural Integration Council]] - Government body developing policies for inter-realm social issues
 - [[Bridge-Builder Society]] - Youth organization for children of inter-realm marriages
 - [[Cross-Cultural Legal Association]] - Professional organization for attorneys specializing in inter-realm family law
 
 ## Connected Lore
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
-- [[02_Worldbuilding/Lore/The Merchant Code of Ethics]] - Commercial ethics governing inter-realm business relationships
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
+- [[02_Worldbuilding/Lore/The Merchant Code of Ethics|02 Worldbuilding/Lore/The Merchant Code Of Ethics]] - Commercial ethics governing inter-realm business relationships
 - [[Cultural Exchange Programs]] - Educational initiatives promoting inter-realm understanding
 - [[Inter-Realm Trade Protocols]] - Commercial frameworks often involving married couples as trusted intermediaries
 - [[Cross-Cultural Adaptation Techniques]] - Practical methods for navigating cultural differences in daily life
@@ -274,7 +274,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 
 
 ## Connections

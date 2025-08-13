@@ -20,7 +20,7 @@ world: Both
 # Tactical Assessment
 *Source: Player's Handbook (2024) p. 95*  
 
-When you make an Intelligence ([History](/03_Mechanics/CLI/skills.md#History) or [Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check or a Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check, you can expend one Superiority Die and add that die to the ability check.
+When you make an Intelligence ([[/03_Mechanics/CLI/skills#History|History]] or [[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check or a Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check, you can expend one Superiority Die and add that die to the ability check.
 
 ## Player-Facing Summary
 

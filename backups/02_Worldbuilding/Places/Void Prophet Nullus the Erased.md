@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Prophet Nullus the Erased]]
+- [[02_Worldbuilding/Places/Void Prophet Nullus the Erased|02 Worldbuilding/Places/Void Prophet Nullus The Erased]]
 
 <!-- enriched: true -->
 

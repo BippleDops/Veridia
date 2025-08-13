@@ -515,7 +515,7 @@ Expert in traditional cultural practices and historical knowledge, responsible f
 
 ### Religious and Spiritual Leadership
 
-**[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Religious Authority
+**[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Religious Authority
 Senior religious leader providing spiritual guidance and oversight for festival religious activities. Key figure in inter-realm religious cooperation and spiritual adaptation for diverse communities.
 
 **[[Sacred Memory Keeper Ancient Depths]]** - Spiritual Counselor
@@ -529,7 +529,7 @@ Professional organization coordinating artisan activities, craft fairs, and cult
 **[[Inter-Community Harmony Council]]** - Diplomatic Organization
 Coordinating body managing relationships between different communities during festival activities. Key organization for diplomatic activities and inter-community cooperation.
 
-**[[02_Worldbuilding/Groups/Temple of the Healing Waters]]** - Religious Organization
+**[[02_Worldbuilding/Groups/Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]]** - Religious Organization
 Religious institution providing spiritual services and community support during festival activities. Primary organization for religious education and spiritual healing services.
 
 ## Connected Locations and Sacred Sites
@@ -547,7 +547,7 @@ Large-scale dining facilities designed for community meals and social activities
 
 ### Cultural and Historical Sites
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]** - Government Center
+**[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]** - Government Center
 Administrative center participating in festival activities through diplomatic events, cultural recognition ceremonies, and community planning activities.
 
 **[[Traditional Craft Districts]]** - Artisan Centers
@@ -580,7 +580,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 
 
 ## Connections

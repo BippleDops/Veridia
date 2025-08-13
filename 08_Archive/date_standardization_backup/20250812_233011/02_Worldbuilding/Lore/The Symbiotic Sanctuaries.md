@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Parasite Priests]]
+- [[02_Worldbuilding/People/The Parasite Priests|02 Worldbuilding/People/The Parasite Priests]]
 
 
 ## Connections

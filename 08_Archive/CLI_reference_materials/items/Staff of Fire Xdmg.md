@@ -25,10 +25,10 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage while you hold this staff.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Fire damage while you hold this staff.
 
 ## Spells
 
@@ -36,9 +36,9 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) | 1 |
-| [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) | 3 |
-| [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) | 4 |
+| [[/03_Mechanics/CLI/spells/burning-hands-xphb|Burning Hands]] | 1 |
+| [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]] | 3 |
+| [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|Wall of Fire]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

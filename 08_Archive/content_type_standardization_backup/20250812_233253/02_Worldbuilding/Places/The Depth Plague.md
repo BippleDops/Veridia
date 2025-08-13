@@ -131,7 +131,7 @@ A plateau of calcified remains from plague victims. Undead creatures spawn here 
 Communication has been lost with [[Haven Reef]], a remote settlement. Investigation reveals they've been overrun by the plague, but survivors may be hiding in the [[Sacred Grottos]]. The party must navigate through infected territory to mount a rescue mission.
 
 ### The Spreading Corruption (Level 10-14)
-Plague outbreaks are reported simultaneously in three major cities: [[Port Abyssos]], [[The Twilight Gardens]], and [[Fort Nautilus]]. Evidence suggests deliberate sabotage by plague cultists serving [[02_Worldbuilding/Places/Deep Ones]]. A race against time to prevent total contamination of Aquabyssos.
+Plague outbreaks are reported simultaneously in three major cities: [[Port Abyssos]], [[The Twilight Gardens]], and [[Fort Nautilus]]. Evidence suggests deliberate sabotage by plague cultists serving [[02_Worldbuilding/Places/Deep Ones|02 Worldbuilding/Places/Deep Ones]]. A race against time to prevent total contamination of Aquabyssos.
 
 ## Environmental Challenges
 
@@ -190,6 +190,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[02_Worldbuilding/Places/The Depth Plague|02 Worldbuilding/Places/The Depth Plague]]
 
 <!-- enriched: true -->

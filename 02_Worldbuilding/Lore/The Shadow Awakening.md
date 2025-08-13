@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Crimson Hand|02 Worldbuilding/Lore/The Crimson Hand]]
 
 
 ## Connections

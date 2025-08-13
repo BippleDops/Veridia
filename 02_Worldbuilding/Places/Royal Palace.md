@@ -689,8 +689,8 @@ The Royal Palace stands as the magnificent centerpiece of [[Abyssos Prime]], a s
 - [[Noble Quarter]]
 - [[Temple Ward]]
 - [[Throne Room - Heart of Palace]]
-- [[Campaign_Quick_Reference_Sheets]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -712,6 +712,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Royal Palace|02 Worldbuilding/Places/Royal Palace]]
 
 <!-- enriched: true -->

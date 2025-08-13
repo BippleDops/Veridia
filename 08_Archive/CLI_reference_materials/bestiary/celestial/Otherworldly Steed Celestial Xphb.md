@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-celestial-xphb-otherworldly-steed-celestial-xphb.svg)
 
-# [Otherworldly Steed (Celestial)](3-Mechanics\CLI\bestiary\celestial/otherworldly-steed-celestial-xphb.md)
+# [[3-Mechanics\CLI\bestiary\celestial/otherworldly-steed-celestial-xphb|Otherworldly Steed (Celestial)]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock

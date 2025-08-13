@@ -26,12 +26,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-frog-xmm-giant-frog-xmm.svg)
 
-# [Giant Frog](3-Mechanics\CLI\bestiary\beast/giant-frog-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/giant-frog-xmm|Giant Frog]]
 *Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Frog (XMM)"
@@ -51,9 +51,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
@@ -61,26 +61,26 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md)\
-      \ is up to 20 feet and its [High Jump](/03_Mechanics/CLI/variant-rules/high-jump-xphb.md)\
+  - "desc": "The frog's [[/03_Mechanics/CLI/variant-rules/long-jump-xphb|Long Jump]]\
+      \ is up to 20 feet and its [[/03_Mechanics/CLI/variant-rules/high-jump-xphb|High Jump]]\
       \ is up to 10 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ condition (escape DC 11)."
     "name": "Bite"
   - "desc": "The frog swallows a Small or smaller target it is grappling. While swallowed,\
-      \ the target isn't [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) but has\
-      \ the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
-      \ conditions, and it has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ the target isn't [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] but has\
+      \ the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ conditions, and it has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]]\
       \ against attacks and other effects outside the frog. While swallowing the target,\
       \ the frog can't use Bite, and if the frog dies, the swallowed target is no\
-      \ longer [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) and can escape\
-      \ from the corpse using 5 feet of movement, exiting with the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ longer [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] and can escape\
+      \ from the corpse using 5 feet of movement, exiting with the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition.\n\nAt the end of the frog's next turn, the swallowed target takes\
       \ 5 (2d4) Acid damage. If that damage doesn't kill it, the frog disgorges it,\
-      \ causing it to exit [Prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ causing it to exit [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"

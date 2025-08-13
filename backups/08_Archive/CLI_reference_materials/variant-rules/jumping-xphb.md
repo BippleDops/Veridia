@@ -19,9 +19,9 @@ world: Both
 # Jumping
 *Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-When you jump, you make either a [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md) (horizontal) or a [High Jump](/03_Mechanics/CLI/variant-rules/high-jump-xphb.md) (vertical).
+When you jump, you make either a [[/03_Mechanics/CLI/variant-rules/long-jump-xphb|Long Jump]] (horizontal) or a [[/03_Mechanics/CLI/variant-rules/high-jump-xphb|High Jump]] (vertical).
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
 ## Player-Facing Summary
 

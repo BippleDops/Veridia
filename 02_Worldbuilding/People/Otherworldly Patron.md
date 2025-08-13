@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave|02 Worldbuilding/Lore/Aurelius Goldwave]]
 
 
 ## Connections

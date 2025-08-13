@@ -73,7 +73,7 @@ _%>
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Template_Player_Placeholder.png]]
+>> ![[Template_Player_Placeholder.png|Template Player Placeholder.png]]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
@@ -147,7 +147,7 @@ dv.table(["Faction", "Your Standing", "Benefits", "Primary Contact"], tableData)
 
 This is the persons description. 
 
-# Configure
+## Configure
 
 | Initiative Tracker Stat     | Value                        |
 | -------- | ---------------------------- |
@@ -158,11 +158,11 @@ This is the persons description.
 
 
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Character Sheet
+## Character Sheet
 
 %% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
 ```custom-frames
@@ -170,14 +170,14 @@ frame: Demiplane
 style: height: 800px;
 ```
 
-# Inventory
+## Inventory
 
 The following items belong to `= this.file.name`.
 
 Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
-# Connections
+## Connections
 Is the person linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
@@ -186,7 +186,7 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
-# Relationships
+## Relationships
 
 List important relationships here. 
 
@@ -281,4 +281,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Player_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Player_Placeholder.png|02 Worldbuilding/Lore/Template Player Placeholder.png]]

@@ -24,7 +24,7 @@ world: Both
 *The Lost Explorer, Seeker of Truth*
 
 ## Overview
-Captain Thaddeus Blackwater was [[02_Worldbuilding/Places/Aethermoor]]'s most famous explorer before his expedition vanished in [[02_Worldbuilding/Places/The Crystalline Wastes]] two months ago. Secretly funded by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] to find the Seventh Shard, he discovered something that changed everything—but his final message was cut short.
+Captain Thaddeus Blackwater was [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s most famous explorer before his expedition vanished in [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] two months ago. Secretly funded by [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] to find the Seventh Shard, he discovered something that changed everything—but his final message was cut short.
 
 ## Appearance
 - **Age**: 45
@@ -60,13 +60,13 @@ Captain Thaddeus Blackwater was [[02_Worldbuilding/Places/Aethermoor]]'s most fa
 ### The Mission
 > [!warning] DM Only
 > Queen Seraphina secretly hired him to find the Seventh Shard, providing:
-> - Map from [[02_Worldbuilding/People/The Crimson Sage]]
+> - Map from [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]
 > - Crystal-resistant equipment
 > - 50,000 gold pieces funding
 > - Royal writs of passage
 
 ### The Route
-1. Started from [[02_Worldbuilding/Places/Crystalhaven]]
+1. Started from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
 2. Resupplied at Wanderer's Refuge
 3. Entered deep wastes
 4. Last camp found at Mirror Lakes
@@ -107,16 +107,16 @@ Captain Thaddeus Blackwater was [[02_Worldbuilding/Places/Aethermoor]]'s most fa
 ### Hidden Cache
 > [!warning] DM Only
 > Left supply caches with information:
-> - Location 1: Warning about [[02_Worldbuilding/People/The Crimson Sage]]
+> - Location 1: Warning about [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]
 > - Location 2: Partial cure for corruption
 > - Location 3: Map to the Seventh Shard's pattern
 
 ## Relationships
 
 ### Professional
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patron
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patron
 - [[Admiral Cassandra Stormwind]] - Former commander
-- [[02_Worldbuilding/People/The Crimson Sage]] - Information source
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Information source
 - [[Elder Matthias Stoneward]] - Wasteland contact
 
 ### Personal
@@ -189,20 +189,20 @@ Finding him is a major quest involving:
 - Key to understanding Shards
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Patron
-- [[02_Worldbuilding/People/The Crimson Sage]] - Manipulator
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Patron
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Manipulator
 - [[Admiral Cassandra Stormwind]] - Friend
 - [[Elder Matthias Stoneward]] - Contact
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Lost here
-- [[02_Worldbuilding/Places/The Shattered Sanctum]] - Sought it
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Lost here
+- [[02_Worldbuilding/Places/The Shattered Sanctum|02 Worldbuilding/Places/The Shattered Sanctum]] - Sought it
 - Corruption's Heart - Final destination
-- [[02_Worldbuilding/Places/Crystalhaven]] - Started here
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Started here
 
 ## Related Quests
 - [[Quest - The Lost Expedition]] - Find him
-- [[02_Worldbuilding/Quests/Aquabyssos]] - His mission
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - His mission
 - [[Quest - Into the Wastes]] - Follow route
 
 ## If He Returns
@@ -234,7 +234,7 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]
 
 <!-- enriched: true -->
 - [[Admiral Cassandra Stormwind]]

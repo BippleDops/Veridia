@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of the Deep Waters]]
+- [[02_Worldbuilding/Places/Temple of the Deep Waters|02 Worldbuilding/Places/Temple Of The Deep Waters]]
 
 <!-- enriched: true -->
 

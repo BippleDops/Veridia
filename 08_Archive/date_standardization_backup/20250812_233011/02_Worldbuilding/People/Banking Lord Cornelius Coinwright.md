@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Banking Lord Cornelius Coinwright]]
+- [[02_Worldbuilding/People/Banking Lord Cornelius Coinwright|02 Worldbuilding/People/Banking Lord Cornelius Coinwright]]
 
 <!-- enriched: true -->
 

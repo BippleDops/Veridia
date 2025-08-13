@@ -23,7 +23,7 @@ tags:
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*
 
 ## Overview
-Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuilding/Places/Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] and his organization, has made him legendary throughout the depths.
+Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], leading an elite unit of enforcers who patrol the deepest, most dangerous districts where regular authorities fear to tread. A hybrid born from human-sahuagin union during the early days of the submersion, he possesses the best traits of both species: human intelligence and adaptability combined with sahuagin predatory instincts and natural aquatic abilities. His relentless pursuit of criminals, especially [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] and his organization, has made him legendary throughout the depths.
 
 ## Appearance
 - **Build**: Muscular, 6'4", moves with predatory fluidity in water
@@ -41,7 +41,7 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - **Private Nature**: Protective of fellow hybrids, surprisingly gentle with victims
 - **Core Values**: Order, justice, protection of Aquabyssos society
 - **Fears**: Losing control of his predatory instincts, failing the Emperor
-- **Obsession**: Capturing [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] has become personal
+- **Obsession**: Capturing [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] has become personal
 
 ## Abilities & Resources
 
@@ -54,7 +54,7 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 
 ### Law Enforcement Authority
 - **Elite Squad**: "The Iron Teeth" - squad of hybrid and depth-adapted enforcers
-- **Imperial Mandate**: Direct authority from [[02_Worldbuilding/People/Emperor Thalassius]]
+- **Imperial Mandate**: Direct authority from [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]
 - **Investigation Powers**: Can access any location, interrogate any citizen
 - **Resource Access**: Imperial funding, specialized equipment, informant networks
 
@@ -73,19 +73,19 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - **Detective Current-Walker Zara** - Investigation and intelligence
 
 ### Superior Officers
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Ultimate commander, mutual respect
+- [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]] - Ultimate commander, mutual respect
 - **High Marshal Torrent Depthward** - Direct supervisor, traditional soldier
-- [[02_Worldbuilding/Groups/The Depth Wardens]] command structure
+- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] command structure
 
 ### Criminal Targets
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] - Primary obsession, years-long pursuit
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Elusive information dealer
-- Various [[02_Worldbuilding/Groups/Independent Smugglers]] organizations
+- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Primary obsession, years-long pursuit
+- [[02_Worldbuilding/People/Shadow Broker Mist|02 Worldbuilding/People/Shadow Broker Mist]] - Elusive information dealer
+- Various [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] organizations
 - Deep corruption cults and shadow-touched criminals
 
 ### Complex Relations
 - **Hybrid Community** - Protects them while maintaining professional distance
-- [[02_Worldbuilding/Places/Parliament of Echoes]] members - Some appreciate, others fear his methods
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] members - Some appreciate, others fear his methods
 - Surface world law enforcement (when they meet) - Mutual professional respect
 
 ## Secrets
@@ -99,7 +99,7 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 > - The Emperor knows about his divided loyalties and approves
 
 ## Current Activities
-- Leading intensive manhunt for [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]
+- Leading intensive manhunt for [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]
 - Investigating shadow-touched corruption in government officials
 - Training new hybrid recruits for law enforcement
 - Coordinating with surface authorities on cross-realm criminal activities
@@ -156,19 +156,19 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - His pursuit of criminals can drive investigation adventures
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] - Primary target
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Ultimate authority
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Secondary target
+- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Primary target
+- [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]] - Ultimate authority
+- [[02_Worldbuilding/People/Shadow Broker Mist|02 Worldbuilding/People/Shadow Broker Mist]] - Secondary target
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Area of jurisdiction
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Primary patrol zone
-- [[02_Worldbuilding/Groups/The Depth Wardens]] - Organization base
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Area of jurisdiction
+- [[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]] - Primary patrol zone
+- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] - Organization base
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Law enforcement perspective
-- [[02_Worldbuilding/Quests/The Lock Saboteur]] - Investigation leader
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Official inquiry
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Law enforcement perspective
+- [[02_Worldbuilding/Quests/The Lock Saboteur|02 Worldbuilding/Quests/The Lock Saboteur]] - Investigation leader
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Official inquiry
 
 
 ## Connections
@@ -193,6 +193,6 @@ Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw|02 Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
 
 <!-- enriched: true -->

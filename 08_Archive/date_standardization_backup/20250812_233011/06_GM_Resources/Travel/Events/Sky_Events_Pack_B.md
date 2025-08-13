@@ -23,7 +23,7 @@ Complements [[06_GM_Resources/Travel/Events/Sky_Events_Pack_A|Pack A]].
 
 ---
 
-### S-101: Stratos Chill Bite
+## S-101: Stratos Chill Bite
 - Band: Stratos • Category: Environment
 - Trigger: Sudden temp drop bites into rigs.
 - Checks: Engineer DC 15 de-ice; Helm DC 15 smooth vibrations.

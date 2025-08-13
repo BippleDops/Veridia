@@ -73,7 +73,7 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 **Situation**: Witness mass shadow transplant surgery  
 **Conflict**: Interrupt procedure without killing patients  
 **Discoveries**:
-- [[02_Worldbuilding/People/The Silhouette Surgeon Prime]] is actually multiple shadows in one body
+- [[02_Worldbuilding/People/The Silhouette Surgeon Prime|02 Worldbuilding/People/The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
 - [[Jasper "Three-Eyes" Flint]] is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours
@@ -166,8 +166,8 @@ Special mechanics for Marina confrontation:
 3. Every major NPC has a prototype prepared
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable
-6. The [[02_Worldbuilding/Places/Parliament of Echoes]] approved the surgeries
-7. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] has a prototype in [[02_Worldbuilding/Places/Aethermoor]]
+6. The [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] approved the surgeries
+7. [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] has a prototype in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 8. The Memory Tides are carrying surgical instructions
 9. Children adapt to shadow fusion better than adults
 10. The real threat isn't shadows—it's what they're fleeing from
@@ -184,7 +184,7 @@ Special mechanics for Marina confrontation:
 - Real Marina becomes antagonist
 - Shadow Marina provides inside information
 - Access to shadow resistance network
-- Changes in [[02_Worldbuilding/Places/Aethermoor]] connections
+- Changes in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] connections
 
 ### If Facility is Destroyed
 - Thousands die (alignment shift)
@@ -216,7 +216,7 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Magic Research]]
+- [[02_Worldbuilding/Places/Temporal Magic Research|02 Worldbuilding/Places/Temporal Magic Research]]
 
 <!-- enriched: true -->
 

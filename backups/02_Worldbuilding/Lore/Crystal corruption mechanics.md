@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]
 
 
 ## Connections

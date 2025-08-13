@@ -18,8 +18,8 @@ primary_location: '[[Gallery of Frozen Waves]]'
 depth: 1600
 locations_visited:
 - '[[Gallery of Frozen Waves]]'
-- '[[02_Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
 - '[[Reflection Pools]]'
 npcs_met:
 - '[[The Conductor]]'
@@ -418,7 +418,7 @@ This session's revelations connect to:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

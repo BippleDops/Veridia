@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Builder Caelum Vortexwright]]
+- [[02_Worldbuilding/Places/Master Builder Caelum Vortexwright|02 Worldbuilding/Places/Master Builder Caelum Vortexwright]]
 
 <!-- enriched: true -->
 

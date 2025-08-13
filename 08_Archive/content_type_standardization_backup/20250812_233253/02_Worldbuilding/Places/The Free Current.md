@@ -246,7 +246,7 @@ The Free Current stands as [[Aquabyssos]]'s most radical experiment in individua
 #### Regional Connections
 **[[Abyssos Prime]]**: Major trading partner despite political differences  
 **[[Azure Citadel]]**: Military goods and security services  
-**[[02_Worldbuilding/Lore/pat]]**: Competing but complementary trading hub  
+**[[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]**: Competing but complementary trading hub  
 **Surface Realms**: Growing trade with [[Aethermoor]] and other surface communities  
 **Independent Communities**: Strong relationships with other free communities
 
@@ -608,7 +608,7 @@ The Free Current stands as [[Aquabyssos]]'s most radical experiment in individua
 **Influence**: Free Current serving as example of alternative governance  
 **Tension**: Government officials concerned about Free Current's growing influence
 
-### [[02_Worldbuilding/Lore/pat]]
+### [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]
 **Competition**: Competing trading hubs with different approaches  
 **Cooperation**: Some cooperation on trade routes and market development  
 **Innovation**: Different models driving innovation in both communities  
@@ -645,7 +645,7 @@ The Free Current stands as [[Aquabyssos]]'s most radical experiment in individua
 **Related Locations**:
 - [[Parliament of Echoes]]
 - [[Abyssos Prime]]
-- [[02_Worldbuilding/Lore/pat]]
+- [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]
 - [[Azure Citadel]]
 
 **Related NPCs**:
@@ -695,7 +695,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current|02 Worldbuilding/Places/The Free Current]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

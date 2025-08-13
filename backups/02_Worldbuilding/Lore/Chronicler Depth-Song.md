@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## Connections

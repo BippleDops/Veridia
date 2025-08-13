@@ -30,9 +30,9 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Destructive energy ripples outward from you in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). Each creature you choose in the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. On a successful save, a target takes half as much damage only.
+Destructive energy ripples outward from you in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. Each creature you choose in the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. On a successful save, a target takes half as much damage only.
 
-**Classes**: [Cleric (Tempest Domain)](/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 261*
 

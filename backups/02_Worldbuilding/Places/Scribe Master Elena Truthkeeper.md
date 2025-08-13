@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Scribe Master Elena Truthkeeper]]
+- [[02_Worldbuilding/Places/Scribe Master Elena Truthkeeper|02 Worldbuilding/Places/Scribe Master Elena Truthkeeper]]
 
 <!-- enriched: true -->
 

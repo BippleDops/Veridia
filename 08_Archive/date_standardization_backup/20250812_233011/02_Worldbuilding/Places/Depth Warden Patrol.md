@@ -34,15 +34,15 @@ updated: '2025-08-13T01:18:36.344084+00:00'
 *Mobile Law Enforcement in the Deep*
 
 > *"The Depth Wardens are the current that carries justice to every corner of Aquabyssos. Where the law is needed, there they flow. Where order must be maintained, there they stand firm. They are the pressure that keeps our realm stable, the guardians who ensure that darkness—whether from the depths or from the hearts of wrongdoers—does not overwhelm the light."*
-> — [[02_Worldbuilding/People/Commander Drake Pressureborn]], Chief of Depth Warden Operations
+> — [[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]], Chief of Depth Warden Operations
 
 ## Overview
 
-Depth Warden Patrols are the mobile enforcement units that maintain law and order throughout the vast expanses of [[02_Worldbuilding/Places/Aquabyssos]]. Unlike stationary guard posts or fortress garrisons, these patrols move constantly through the underwater realm, following established routes and responding to calls for assistance across multiple depth zones. They serve as the visible presence of Aquabyssos law enforcement, representing both protection for law-abiding citizens and a deterrent to those who would disturb the peace.
+Depth Warden Patrols are the mobile enforcement units that maintain law and order throughout the vast expanses of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Unlike stationary guard posts or fortress garrisons, these patrols move constantly through the underwater realm, following established routes and responding to calls for assistance across multiple depth zones. They serve as the visible presence of Aquabyssos law enforcement, representing both protection for law-abiding citizens and a deterrent to those who would disturb the peace.
 
 Each patrol consists of 4-8 trained Depth Wardens led by a Patrol Sergeant, equipped with specialized gear for operating at various depths and pressure levels. They travel in formation through designated patrol corridors, investigating disturbances, conducting routine inspections, assisting travelers in distress, and maintaining the security of trade routes and civilian areas.
 
-Depth Warden Patrols operate under the authority of [[02_Worldbuilding/Groups/The Depth Wardens]], the primary law enforcement organization of Aquabyssos, and work in coordination with local authorities, merchant groups, and civilian communities. Their presence throughout the realm ensures that even the most remote settlements and isolated travelers have access to protection and legal assistance.
+Depth Warden Patrols operate under the authority of [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]], the primary law enforcement organization of Aquabyssos, and work in coordination with local authorities, merchant groups, and civilian communities. Their presence throughout the realm ensures that even the most remote settlements and isolated travelers have access to protection and legal assistance.
 
 The patrols serve multiple functions beyond simple law enforcement: they act as information gatherers, emergency responders, diplomatic contacts for foreign visitors, and mobile representatives of Aquabyssos governmental authority. Their constant movement and wide-ranging duties make them one of the most visible and important institutions in maintaining the stability and security of the underwater realm.
 
@@ -115,19 +115,19 @@ Rapid-deployment units that respond to crisis situations, natural disasters, maj
 **The Primary Circuits** (Major Population Centers):
 Well-established routes connecting the largest settlements and most important facilities in Aquabyssos, providing regular security coverage for high-traffic areas.
 
-**Circuit Alpha** ([[02_Worldbuilding/Places/Abyssos Prime]] to [[Port Meridian]]):
+**Circuit Alpha** ([[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] to [[Port Meridian]]):
 - **Distance**: 200 nautical miles of patrol coverage
 - **Frequency**: 6 patrols daily, staggered at 4-hour intervals
 - **Special Features**: Government facility checks, diplomatic escort capabilities
 - **Typical Issues**: Political security, high-value cargo protection, VIP transport
 
-**Circuit Beta** ([[Port Meridian]] to [[02_Worldbuilding/Places/Crystal Gardens]]):
+**Circuit Beta** ([[Port Meridian]] to [[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]):
 - **Distance**: 150 nautical miles through varied depth zones
 - **Frequency**: 4 patrols daily, coordinated with trade schedules
 - **Special Features**: Market security, trade dispute resolution, merchant assistance
 - **Typical Issues**: Commercial disputes, smuggling detection, trade route maintenance
 
-**Circuit Gamma** ([[02_Worldbuilding/Places/Crystal Gardens]] to [[02_Worldbuilding/Places/The Deep Patrol]]):
+**Circuit Gamma** ([[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] to [[02_Worldbuilding/Places/The Deep Patrol|02 Worldbuilding/Places/The Deep Patrol]]):
 - **Distance**: 300 nautical miles through challenging terrain
 - **Frequency**: 2 patrols daily, heavily equipped for deep conditions
 - **Special Features**: Environmental hazard monitoring, deep settlement support
@@ -428,35 +428,35 @@ Patrols serve as excellent sources of information about local conditions, crimin
 ## Connected Systems and Cross-References
 
 ### Law Enforcement Network
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Parent organization providing training, equipment, and command structure
-- **[[02_Worldbuilding/Places/Coral Courts]]**: Judicial system where patrol arrests and investigations lead
-- **[[02_Worldbuilding/People/Commander Drake Pressureborn]]**: Senior leadership overseeing patrol operations
-- **[[02_Worldbuilding/Places/Royal Palace]]**: Ultimate government authority for patrol mission and policy
+- **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Parent organization providing training, equipment, and command structure
+- **[[02_Worldbuilding/Places/Coral Courts|02 Worldbuilding/Places/Coral Courts]]**: Judicial system where patrol arrests and investigations lead
+- **[[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]]**: Senior leadership overseeing patrol operations
+- **[[02_Worldbuilding/Places/Royal Palace|02 Worldbuilding/Places/Royal Palace]]**: Ultimate government authority for patrol mission and policy
 
 ### Community and Economic Connections
-- **[[02_Worldbuilding/Groups/Merchants Guild]]**: Major civilian organization requiring patrol protection and regulation
+- **[[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]**: Major civilian organization requiring patrol protection and regulation
 - **[[Port Meridian]]**: Key patrol hub and coordination center for trade route security
-- **[[02_Worldbuilding/Places/Crystal Gardens]]**: Important patrol destination requiring specialized environmental knowledge
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative body establishing laws that patrols enforce
+- **[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]**: Important patrol destination requiring specialized environmental knowledge
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Legislative body establishing laws that patrols enforce
 
 ### Specialized Support Systems
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Essential for patrol operations across different depth zones
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Challenges that patrols must recognize and respond to
-- **[[02_Worldbuilding/Lore/Random Encounters]]**: Framework for generating patrol encounter situations
-- **[[02_Worldbuilding/Lore/Investigation Procedures]]**: Protocols and methods used by patrol investigations
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]]**: Essential for patrol operations across different depth zones
+- **[[02_Worldbuilding/Lore/Environmental Hazards|02 Worldbuilding/Lore/Environmental Hazards]]**: Challenges that patrols must recognize and respond to
+- **[[02_Worldbuilding/Lore/Random Encounters|02 Worldbuilding/Lore/Random Encounters]]**: Framework for generating patrol encounter situations
+- **[[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]**: Protocols and methods used by patrol investigations
 
 ### Emergency and Crisis Response
-- **[[02_Worldbuilding/Places/Royal Vault]]**: Secure facility that patrols may need to protect or investigate
-- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence types that patrols encounter in investigations
-- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Environmental threats that patrols monitor and respond to
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
+- **[[02_Worldbuilding/Places/Royal Vault|02 Worldbuilding/Places/Royal Vault]]**: Secure facility that patrols may need to protect or investigate
+- **[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence types that patrols encounter in investigations
+- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet|02 Worldbuilding/Lore/Crystal Corruption Tracking Sheet]]**: Environmental threats that patrols monitor and respond to
+- **[[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
 
 Depth Warden Patrols represent the mobile face of law and order in Aquabyssos, serving as both protectors of the innocent and enforcers of justice while navigating the complex social, political, and environmental challenges of maintaining security in a vast underwater realm.
 
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -478,7 +478,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Warden Patrol]]
+- [[02_Worldbuilding/Places/Depth Warden Patrol|02 Worldbuilding/Places/Depth Warden Patrol]]
 
 <!-- enriched: true -->
 - [[Port Meridian]]

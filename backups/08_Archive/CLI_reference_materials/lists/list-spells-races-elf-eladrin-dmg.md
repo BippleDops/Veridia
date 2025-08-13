@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]]
 
 ## Player-Facing Summary
 

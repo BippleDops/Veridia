@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Craftsman]]
+- [[02_Worldbuilding/Places/Coral Craftsman|02 Worldbuilding/Places/Coral Craftsman]]
 
 <!-- enriched: true -->
 

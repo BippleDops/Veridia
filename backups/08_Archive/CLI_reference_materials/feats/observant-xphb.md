@@ -26,9 +26,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence or Wisdom by 1, to a maximum of 20.
 
-**Keen Observer.** Choose one of the following skills: [Insight](/03_Mechanics/CLI/skills.md#Insight), [Investigation](/03_Mechanics/CLI/skills.md#Investigation), or [Perception](/03_Mechanics/CLI/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+**Keen Observer.** Choose one of the following skills: [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Investigation|Investigation]], or [[/03_Mechanics/CLI/skills#Perception|Perception]]. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
-**Quick Search.** You can take the [Search](/03_Mechanics/CLI/actions.md#Search) action as a Bonus Action.
+**Quick Search.** You can take the [[/03_Mechanics/CLI/actions#Search|Search]] action as a Bonus Action.
 
 ## Player-Facing Summary
 

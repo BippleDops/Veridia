@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Council of Port Meridian]]
+- [[02_Worldbuilding/Places/Merchant Council of Port Meridian|02 Worldbuilding/Places/Merchant Council Of Port Meridian]]
 
 <!-- enriched: true -->
 

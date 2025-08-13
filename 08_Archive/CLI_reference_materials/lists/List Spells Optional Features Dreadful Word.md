@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]]
 
 ## Player-Facing Summary
 

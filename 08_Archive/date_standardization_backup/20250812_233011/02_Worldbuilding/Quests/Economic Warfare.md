@@ -31,14 +31,14 @@ created: 2025-08-11
 *The conquest without swords - Aethermoor's sovereignty hangs in the balance*
 
 ## Quest Overview
-The [[Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[02_Worldbuilding/People/Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
+The [[Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
 
 ## Quest Giver
 Multiple possible sources:
-- **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** notices foreign interference in black markets
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
-- **Anonymous note** revealing Confederate plans (from guilty [[02_Worldbuilding/People/Zephyr Goldwhisper]])
+- **[[02_Worldbuilding/People/Sir Marcus Dawnforge|02 Worldbuilding/People/Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]** notices foreign interference in black markets
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
+- **Anonymous note** revealing Confederate plans (from guilty [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]])
 
 ## Background
 The Goldspire Confederacy has been systematically:
@@ -53,36 +53,36 @@ The Goldspire Confederacy has been systematically:
 ### Primary Objectives
 1. Expose the Confederate economic manipulation
 2. Prevent or negotiate the debt crisis
-3. Decide [[02_Worldbuilding/People/Zephyr Goldwhisper]]'s fate
+3. Decide [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]'s fate
 4. Stop or redirect Operation Goldfall
 
 ### Optional Objectives
 - Turn Zephyr into a double agent
-- Steal null-technology from [[02_Worldbuilding/Places/Goldspire Port]]
+- Steal null-technology from [[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]
 - Rally international support against Confederacy
 - Create economic counter-offensive
 - Expose or protect Confederate spy network
 
 ## Key NPCs Involved
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Confederate spy with growing conscience
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
-- **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Controls black market, key to economic independence
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
-- **Trade Prince Aurelius Gilt** - Confederate leader in [[02_Worldbuilding/Places/Goldspire Port]]
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]** - Confederate spy with growing conscience
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
+- **[[02_Worldbuilding/People/Sir Marcus Dawnforge|02 Worldbuilding/People/Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]** - Controls black market, key to economic independence
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
+- **Trade Prince Aurelius Gilt** - Confederate leader in [[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]
 
 ## Investigation Threads
 
 ### Follow the Money
 - Shell companies traced to Confederate banks
-- Suspicious trading patterns in [[02_Worldbuilding/Places/Port Meridian]]
+- Suspicious trading patterns in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 - Order supply contracts with inflated prices
 - Noble debts being consolidated by single creditor
 
 ### The Spy Network
 - Zephyr's shop contains coded communications
 - Confederate agents embedded in major guilds
-- Refugee quarter in [[02_Worldbuilding/Places/Goldspire Port]] recruiting dissidents
+- Refugee quarter in [[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]] recruiting dissidents
 - Admiral Brass Hookhand's fleet movements
 
 ### The Null Weapons
@@ -100,14 +100,14 @@ The Goldspire Confederacy has been systematically:
 - Risk: Partial loss of sovereignty
 
 ### The Economic Counter
-- Unite [[02_Worldbuilding/Groups/Merchant Princes]] against foreign takeover
-- Use [[02_Worldbuilding/People/Vex Shadowthorn]]'s network for smuggling operation
+- Unite [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] against foreign takeover
+- Use [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s network for smuggling operation
 - Create alternative trade routes through [[Aquabyssos]]
 - Risk: Economic war escalation
 
 ### The Espionage Option
 - Turn Zephyr and feed false intelligence
-- Infiltrate [[02_Worldbuilding/Places/Goldspire Port]] to steal null-technology
+- Infiltrate [[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]] to steal null-technology
 - Sabotage Confederate fleet preparations
 - Risk: International incident if caught
 
@@ -118,7 +118,7 @@ The Goldspire Confederacy has been systematically:
 - Risk: Complete economic collapse
 
 ### The Dark Alliance
-- Ally with [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] against Confederacy
+- Ally with [[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]] against Confederacy
 - Threaten to spread corruption internationally
 - Use Green Death threat as leverage
 - Risk: Becoming the villain
@@ -128,12 +128,12 @@ The Goldspire Confederacy has been systematically:
 ### Zephyr's Dilemma
 Zephyr has genuinely grown fond of several Aethermoor citizens and is increasingly conflicted. They possess:
 - Complete Confederate invasion plans
-- Null bomb locations in [[02_Worldbuilding/Places/Port Meridian]]
+- Null bomb locations in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 - Codes for Confederate spy network
 - Personal friendship with Trade Prince
 
 ### The Refugee Question
-Many Aethermoor refugees in [[02_Worldbuilding/Places/Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
+Many Aethermoor refugees in [[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
 
 ### The Economic Reality
 Aethermoor genuinely cannot pay its debts without Confederate help. Default means:
@@ -210,7 +210,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 ### Economic Collapse
 - Barter economy emerges
 - Regional warlords rise
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] controls trade
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] controls trade
 - Survival campaign focus
 
 ## Connected Quests
@@ -246,5 +246,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Goldspire Confederacy]]

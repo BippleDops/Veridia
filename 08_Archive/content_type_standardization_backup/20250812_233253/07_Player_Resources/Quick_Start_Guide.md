@@ -205,11 +205,11 @@ Unique spells available at different depths:
 - **"Who can I trust?"** - No simple answers here
 
 ### Resources
-- Full Player Handbook: [[Player_Handbook]]
-- Character Creation: [[Character_Creation_Extended]]
-- Faction Details: [[Faction_Guide]]
-- World Lore: [[World_Primer]]
-- Rules Reference: [[Complete_Rules_Reference]]
+- Full Player Handbook: [[Player_Handbook|Player Handbook]]
+- Character Creation: [[Character_Creation_Extended|Character Creation Extended]]
+- Faction Details: [[Faction_Guide|Faction Guide]]
+- World Lore: [[World_Primer|World Primer]]
+- Rules Reference: [[Complete_Rules_Reference|Complete Rules Reference]]
 
 ---
 
@@ -217,7 +217,7 @@ Unique spells available at different depths:
 
 ## Connections
 
-- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard|Campaign Dashboard]]
 
 ## Player-Facing Summary
 
@@ -241,7 +241,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
-- [[Character_Creation_Extended]]
-- [[Faction_Guide]]
-- [[World_Primer]]
+- [[Master_Campaign_Index|Master Campaign Index]]
+- [[Character_Creation_Extended|Character Creation Extended]]
+- [[Faction_Guide|Faction Guide]]
+- [[World_Primer|World Primer]]

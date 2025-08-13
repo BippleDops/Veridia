@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind]]
+- [[02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind|02 Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind]]
 
 <!-- enriched: true -->
 

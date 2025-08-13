@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dockworkers' Union]]
+- [[02_Worldbuilding/Places/Dockworkers' Union|02 Worldbuilding/Places/Dockworkers' Union]]
 
 <!-- enriched: true -->
 

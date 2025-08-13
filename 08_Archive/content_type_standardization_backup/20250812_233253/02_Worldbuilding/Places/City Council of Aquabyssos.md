@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/City Council of Aquabyssos]]
+- [[02_Worldbuilding/Places/City Council of Aquabyssos|02 Worldbuilding/Places/City Council Of Aquabyssos]]
 
 <!-- enriched: true -->
 

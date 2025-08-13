@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights|02 Worldbuilding/Lore/Multi Phase Boss Fights]]
 
 
 ## Connections

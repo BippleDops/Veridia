@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## Connections

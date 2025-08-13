@@ -199,6 +199,6 @@ Legends speak of The Infinite Garden as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Infinite Garden]]
+- [[02_Worldbuilding/Places/The Infinite Garden|02 Worldbuilding/Places/The Infinite Garden]]
 
 <!-- enriched: true -->

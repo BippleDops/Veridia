@@ -16,10 +16,10 @@ world: Both
 
 # Index of Vehicles
 
-- [Apparatus of Kwalish](./apparatus-of-kwalish-xdmg.md)
-- [Astral Brig](./astral-brig-mtf.md)
-- [Astral Skiff](./astral-skiff-mtf.md)
-- [Planar Raider](./planar-raider-mtf.md)
+- [[./apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
+- [[./astral-brig-mtf|Astral Brig]]
+- [[./astral-skiff-mtf|Astral Skiff]]
+- [[./planar-raider-mtf|Planar Raider]]
 
 ## Player-Facing Summary
 

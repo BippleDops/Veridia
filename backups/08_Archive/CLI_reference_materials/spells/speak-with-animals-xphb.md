@@ -38,11 +38,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the [Influence](/03_Mechanics/CLI/actions.md#Influence) action's skill options with them.
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the [[/03_Mechanics/CLI/actions#Influence|Influence]] action's skill options with them.
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Barbarian (Path of the Wild Heart)](/03_Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of the Ancients)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb "subclass=XPHB;class=XPHB"|Barbarian (Path of the Wild Heart)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -34,19 +34,19 @@ updated: '2025-08-13T01:18:34.465666+00:00'
 
 **Type:** Frontier Trading/Diplomatic  
 **Level:** 3-7  
-**Location:** [[02_Worldbuilding/Places/Northgate]], [[02_Worldbuilding/Places/The Kelp Highway]], [[02_Worldbuilding/Places/Tradeway Road]]  
+**Location:** [[02_Worldbuilding/Places/Northgate|02 Worldbuilding/Places/Northgate]], [[02_Worldbuilding/Places/The Kelp Highway|02 Worldbuilding/Places/The Kelp Highway]], [[02_Worldbuilding/Places/Tradeway Road|02 Worldbuilding/Places/Tradeway Road]]  
 **Duration:** 4-6 sessions  
 **Threat:** Critical trade route under threat from multiple hostile forces
 
-**Connected Locations:** [[02_Worldbuilding/Places/Pearl_Harbor_City]], [[02_Worldbuilding/Places/The Crystalline Wastes]], [[02_Worldbuilding/Places/Surface Portal Alpha]]  
-**Related Groups:** [[02_Worldbuilding/Groups/Merchant's Covenant]], [[02_Worldbuilding/Groups/Independent Smugglers]], [[02_Worldbuilding/Groups/The Crown Authority]]  
+**Connected Locations:** [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]], [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]], [[02_Worldbuilding/Places/Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
+**Related Groups:** [[02_Worldbuilding/Groups/Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]], [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]], [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
 **Key Themes:** Frontier life, trade diplomacy, border security, resource competition, wilderness survival
 
 ## Quest Overview
 
 Northgate stands as the northernmost trading post of Aquabyssos, a fortified settlement that serves as the crucial gateway between the civilized depths and the dangerous wilderness regions beyond. This frontier outpost controls the vital Tradeway Road, the primary route for caravans carrying rare minerals from the Crystalline Wastes, exotic goods from distant underwater kingdoms, and essential supplies to isolated communities scattered throughout the northern reaches.
 
-Recently, [[02_Worldbuilding/People/Caravan Master Dolrim]] has reported increasingly severe problems affecting trade through Northgate. Merchant caravans are disappearing without trace, hostile creatures are massing in unusual numbers, and strange lights have been seen in the deep wilderness beyond the settlement's protective barriers. More troubling still, diplomatic communications with neighboring territories have ceased entirely, suggesting that Northgate may soon find itself isolated and under siege.
+Recently, [[02_Worldbuilding/People/Caravan Master Dolrim|02 Worldbuilding/People/Caravan Master Dolrim]] has reported increasingly severe problems affecting trade through Northgate. Merchant caravans are disappearing without trace, hostile creatures are massing in unusual numbers, and strange lights have been seen in the deep wilderness beyond the settlement's protective barriers. More troubling still, diplomatic communications with neighboring territories have ceased entirely, suggesting that Northgate may soon find itself isolated and under siege.
 
 The town's garrison commander has requested immediate assistance from experienced adventurers to investigate the threats, restore safe passage along the trade routes, and determine whether the mounting dangers represent random frontier hazards or coordinated attacks by an organized enemy. The party will need to navigate complex political relationships between competing merchant factions, deal with suspicious townspeople who distrust outsiders, and venture into unexplored wilderness areas where ancient dangers may be stirring.
 
@@ -295,7 +295,7 @@ This quest provides opportunities for wilderness exploration, political intrigue
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -319,4 +319,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]

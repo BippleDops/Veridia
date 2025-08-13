@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Trade Regulations]]
+- [[02_Worldbuilding/Places/Trade Regulations|02 Worldbuilding/Places/Trade Regulations]]
 
 <!-- enriched: true -->
 

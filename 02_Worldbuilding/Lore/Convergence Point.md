@@ -5,10 +5,10 @@ danger_level: 10
 discovery_date: Recent (Current Campaign Period)
 location_status: Highly Classified
 related_entities:
-- '[[02_Worldbuilding/Lore/The Great Drowning]]'
-- '[[02_Worldbuilding/Lore/Arcanum Heights]]'
-- '[[02_Worldbuilding/Lore/Abyssal Academy]]'
-- '[[02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
+- '[[02_Worldbuilding/Lore/Arcanum Heights|02 Worldbuilding/Lore/Arcanum Heights]]'
+- '[[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 status: draft
 tags:
 - content/location
@@ -35,9 +35,9 @@ world: Both Aethermoor and Aquabyssos
 
 ## Overview
 
-The Convergence Point represents the most significant and dangerous magical phenomenon discovered in modern times - a location where the boundaries between multiple dimensions, realities, and planes of existence have become permanently weakened. This site exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]], appearing as a shimmering area of distorted space that defies conventional understanding of physics and magic.
+The Convergence Point represents the most significant and dangerous magical phenomenon discovered in modern times - a location where the boundaries between multiple dimensions, realities, and planes of existence have become permanently weakened. This site exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]], appearing as a shimmering area of distorted space that defies conventional understanding of physics and magic.
 
-Recent investigations by both [[02_Worldbuilding/Lore/Arcanum Heights]] and the [[02_Worldbuilding/Lore/Abyssal Academy]] suggest the Convergence Point may be directly connected to [[02_Worldbuilding/Lore/The Great Drowning]], the [[02_Worldbuilding/Lore/The Seven Shards]], and other major magical catastrophes throughout history. Its discovery has prompted unprecedented cooperation - and rivalry - between surface and underwater magical institutions.
+Recent investigations by both [[02_Worldbuilding/Lore/Arcanum Heights|02 Worldbuilding/Lore/Arcanum Heights]] and the [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]] suggest the Convergence Point may be directly connected to [[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]], the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], and other major magical catastrophes throughout history. Its discovery has prompted unprecedented cooperation - and rivalry - between surface and underwater magical institutions.
 
 ## Discovery & Investigation
 
@@ -49,8 +49,8 @@ The Convergence Point was first detected when:
 - Communication magic started receiving signals from alternate versions of reality
 
 ### Joint Research Initiative
-**[[02_Worldbuilding/Lore/Arcanum Heights]] Team**: Led by Archmage Oracle Timewhisper, focusing on temporal and dimensional aspects
-**[[02_Worldbuilding/Lore/Abyssal Academy]] Expedition**: Directed by Professor Euclid Mindmaze, investigating consciousness and reality interface
+**[[02_Worldbuilding/Lore/Arcanum Heights|02 Worldbuilding/Lore/Arcanum Heights]] Team**: Led by Archmage Oracle Timewhisper, focusing on temporal and dimensional aspects
+**[[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]] Expedition**: Directed by Professor Euclid Mindmaze, investigating consciousness and reality interface
 **Independent Observers**: Representatives from various governments and magical organizations
 **Security Forces**: Joint surface-underwater military presence preventing unauthorized access
 
@@ -91,9 +91,9 @@ Leading researchers believe the Convergence Point represents:
 - **Temporal Nexus**: Point where past, present, and future converge
 
 ### Connection to Historical Events
-**[[02_Worldbuilding/Lore/The Great Drowning]]**: May have been caused by or contributed to Convergence Point formation
-**[[02_Worldbuilding/Lore/The Seven Shards]]**: Artifacts may be fragments of reality-stabilizing device
-**[[02_Worldbuilding/Lore/Continental War]]**: Massive magical energies used may have weakened dimensional barriers
+**[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]**: May have been caused by or contributed to Convergence Point formation
+**[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]**: Artifacts may be fragments of reality-stabilizing device
+**[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]**: Massive magical energies used may have weakened dimensional barriers
 **Ancient Experiments**: Pre-history magical research may have created initial instability
 
 ### Consciousness Interface
@@ -132,14 +132,14 @@ Most disturbing aspect of the phenomenon:
 ## Discovered Realities
 
 ### Alternate Aethermoors
-**The Crystalline Empire**: Version where [[02_Worldbuilding/Lore/The Great Crystallization]] succeeded perfectly
+**The Crystalline Empire**: Version where [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] succeeded perfectly
 **The Drowned Continent**: Reality where the Great Drowning was even more complete
-**The Eternal War**: Dimension where [[02_Worldbuilding/Lore/Continental War]] never ended
+**The Eternal War**: Dimension where [[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]] never ended
 **The Perfect Balance**: World where surface and underwater civilizations merged peacefully
 
 ### Aquabyssos Variations
 **The Surface Return**: Underwater civilization that successfully returned to land
-**The Deep Conquest**: Version where [[02_Worldbuilding/Lore/Deep Mother]] achieved total control
+**The Deep Conquest**: Version where [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] achieved total control
 **The Memory Empire**: Society based entirely on [[02_Worldbuilding/Places/Memory Farmers|memory trading]]
 **The Pressure Paradise**: Aquabyssos that perfected adaptation technology
 
@@ -283,4 +283,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Dream Shepherds]]
+- [[02_Worldbuilding/Lore/The Dream Shepherds|02 Worldbuilding/Lore/The Dream Shepherds]]

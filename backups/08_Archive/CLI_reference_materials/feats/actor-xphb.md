@@ -26,9 +26,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Charisma score by 1, to a maximum of 20.
 
-**Impersonation.** While you're disguised as a real or fictional person, you have Advantage on Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception) or [Performance](/03_Mechanics/CLI/skills.md#Performance)) checks to convince others that you are that person.
+**Impersonation.** While you're disguised as a real or fictional person, you have Advantage on Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]] or [[/03_Mechanics/CLI/skills#Performance|Performance]]) checks to convince others that you are that person.
 
-**Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
+**Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
 ## Player-Facing Summary
 

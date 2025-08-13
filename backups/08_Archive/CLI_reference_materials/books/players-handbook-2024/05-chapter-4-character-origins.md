@@ -19,7 +19,7 @@ world: Both
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 
 
-![Not even a white dragon's ...](/03_Mechanics/CLI/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center "Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr")
+![[/03_Mechanics/CLI/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center "Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr"|Not even a white dragon's ...]]
 
 This chapter describes the two components of an adventurer's origin: "background" and "species". Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in "chapter 3").
 
@@ -93,26 +93,26 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [Acolyte](/03_Mechanics/CLI/backgrounds/acolyte-xphb.md)  
-- [Artisan](/03_Mechanics/CLI/backgrounds/artisan-xphb.md)  
-- [Charlatan](/03_Mechanics/CLI/backgrounds/charlatan-xphb.md)  
-- [Criminal](/03_Mechanics/CLI/backgrounds/criminal-xphb.md)  
-- [Entertainer](/03_Mechanics/CLI/backgrounds/entertainer-xphb.md)  
-- [Farmer](/03_Mechanics/CLI/backgrounds/farmer-xphb.md)  
-- [Guard](/03_Mechanics/CLI/backgrounds/guard-xphb.md)  
-- [Guide](/03_Mechanics/CLI/backgrounds/guide-xphb.md)  
-- [Hermit](/03_Mechanics/CLI/backgrounds/hermit-xphb.md)  
-- [Merchant](/03_Mechanics/CLI/backgrounds/merchant-xphb.md)  
-- [Noble](/03_Mechanics/CLI/backgrounds/noble-xphb.md)  
-- [Sage](/03_Mechanics/CLI/backgrounds/sage-xphb.md)  
-- [Sailor](/03_Mechanics/CLI/backgrounds/sailor-xphb.md)  
-- [Scribe](/03_Mechanics/CLI/backgrounds/scribe-xphb.md)  
-- [Soldier](/03_Mechanics/CLI/backgrounds/soldier-xphb.md)  
-- [Wayfarer](/03_Mechanics/CLI/backgrounds/wayfarer-xphb.md)  
+- [[/03_Mechanics/CLI/backgrounds/acolyte-xphb|Acolyte]]  
+- [[/03_Mechanics/CLI/backgrounds/artisan-xphb|Artisan]]  
+- [[/03_Mechanics/CLI/backgrounds/charlatan-xphb|Charlatan]]  
+- [[/03_Mechanics/CLI/backgrounds/criminal-xphb|Criminal]]  
+- [[/03_Mechanics/CLI/backgrounds/entertainer-xphb|Entertainer]]  
+- [[/03_Mechanics/CLI/backgrounds/farmer-xphb|Farmer]]  
+- [[/03_Mechanics/CLI/backgrounds/guard-xphb|Guard]]  
+- [[/03_Mechanics/CLI/backgrounds/guide-xphb|Guide]]  
+- [[/03_Mechanics/CLI/backgrounds/hermit-xphb|Hermit]]  
+- [[/03_Mechanics/CLI/backgrounds/merchant-xphb|Merchant]]  
+- [[/03_Mechanics/CLI/backgrounds/noble-xphb|Noble]]  
+- [[/03_Mechanics/CLI/backgrounds/sage-xphb|Sage]]  
+- [[/03_Mechanics/CLI/backgrounds/sailor-xphb|Sailor]]  
+- [[/03_Mechanics/CLI/backgrounds/scribe-xphb|Scribe]]  
+- [[/03_Mechanics/CLI/backgrounds/soldier-xphb|Soldier]]  
+- [[/03_Mechanics/CLI/backgrounds/wayfarer-xphb|Wayfarer]]  
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [Aasimar](/03_Mechanics/CLI/races/aasimar-xphb.md), [Dragonborn](/03_Mechanics/CLI/races/dragonborn-xphb.md), [Dwarf](/03_Mechanics/CLI/races/dwarf-xphb.md), [Elf](/03_Mechanics/CLI/races/elf-xphb.md), [Gnome](/03_Mechanics/CLI/races/gnome-xphb.md), [Goliath](/03_Mechanics/CLI/races/goliath-xphb.md), [Halfling](/03_Mechanics/CLI/races/halfling-xphb.md), [Human](/03_Mechanics/CLI/races/human-xphb.md), [Orc](/03_Mechanics/CLI/races/orc-xphb.md), and [Tiefling](/03_Mechanics/CLI/races/tiefling-xphb.md).
+Ten species are presented in this section in alphabetical order: [[/03_Mechanics/CLI/races/aasimar-xphb|Aasimar]], [[/03_Mechanics/CLI/races/dragonborn-xphb|Dragonborn]], [[/03_Mechanics/CLI/races/dwarf-xphb|Dwarf]], [[/03_Mechanics/CLI/races/elf-xphb|Elf]], [[/03_Mechanics/CLI/races/gnome-xphb|Gnome]], [[/03_Mechanics/CLI/races/goliath-xphb|Goliath]], [[/03_Mechanics/CLI/races/halfling-xphb|Halfling]], [[/03_Mechanics/CLI/races/human-xphb|Human]], [[/03_Mechanics/CLI/races/orc-xphb|Orc]], and [[/03_Mechanics/CLI/races/tiefling-xphb|Tiefling]].
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)
 

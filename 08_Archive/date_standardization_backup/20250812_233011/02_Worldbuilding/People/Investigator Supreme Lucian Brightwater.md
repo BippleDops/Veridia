@@ -25,7 +25,7 @@ updated: '2025-08-13T01:18:36.994628+00:00'
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/Master Index]]
+- [[02_Worldbuilding/Lore/Master Index|02 Worldbuilding/Lore/Master Index]]
 
 ## References
 

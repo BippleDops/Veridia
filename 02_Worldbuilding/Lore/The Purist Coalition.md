@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Ambush Point|02 Worldbuilding/Quests/Ambush Point]]
 
 
 ## Connections

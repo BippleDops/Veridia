@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Protection from Evil and Good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 5
-- [Shield of Faith](/03_Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb "XPHB"|Protection from Evil and Good]] at class level 5
+- [[/03_Mechanics/CLI/spells/shield-of-faith-xphb "XPHB"|Shield of Faith]] at class level 5
 
 ## 2nd Level
 
-- [Aid](/03_Mechanics/CLI/spells/aid-xphb.md "XPHB") at class level 5
-- [Zone of Truth](/03_Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/aid-xphb "XPHB"|Aid]] at class level 5
+- [[/03_Mechanics/CLI/spells/zone-of-truth-xphb "XPHB"|Zone of Truth]] at class level 5
 
 ## 3rd Level
 
-- [Beacon of Hope](/03_Mechanics/CLI/spells/beacon-of-hope-xphb.md "XPHB") at class level 5
-- [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/beacon-of-hope-xphb "XPHB"|Beacon of Hope]] at class level 5
+- [[/03_Mechanics/CLI/spells/dispel-magic-xphb "XPHB"|Dispel Magic]] at class level 5
 
 ## 4th Level
 
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 5
-- [Guardian of Faith](/03_Mechanics/CLI/spells/guardian-of-faith-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] at class level 5
+- [[/03_Mechanics/CLI/spells/guardian-of-faith-xphb "XPHB"|Guardian of Faith]] at class level 5
 
 ## 5th Level
 
-- [Commune](/03_Mechanics/CLI/spells/commune-xphb.md "XPHB") at class level 5
-- [Flame Strike](/03_Mechanics/CLI/spells/flame-strike-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/commune-xphb "XPHB"|Commune]] at class level 5
+- [[/03_Mechanics/CLI/spells/flame-strike-xphb "XPHB"|Flame Strike]] at class level 5
 
 ## Player-Facing Summary
 

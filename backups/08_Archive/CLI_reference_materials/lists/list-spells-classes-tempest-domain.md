@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 5
-- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/fog-cloud-xphb "XPHB"|Fog Cloud]] at class level 5
+- [[/03_Mechanics/CLI/spells/thunderwave-xphb "XPHB"|Thunderwave]] at class level 5
 
 ## 2nd Level
 
-- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 5
-- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/gust-of-wind-xphb "XPHB"|Gust of Wind]] at class level 5
+- [[/03_Mechanics/CLI/spells/shatter-xphb "XPHB"|Shatter]] at class level 5
 
 ## 3rd Level
 
-- [Call Lightning](/03_Mechanics/CLI/spells/call-lightning-xphb.md "XPHB") at class level 5
-- [Sleet Storm](/03_Mechanics/CLI/spells/sleet-storm-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/call-lightning-xphb "XPHB"|Call Lightning]] at class level 5
+- [[/03_Mechanics/CLI/spells/sleet-storm-xphb "XPHB"|Sleet Storm]] at class level 5
 
 ## 4th Level
 
-- [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 5
-- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/control-water-xphb "XPHB"|Control Water]] at class level 5
+- [[/03_Mechanics/CLI/spells/ice-storm-xphb "XPHB"|Ice Storm]] at class level 5
 
 ## 5th Level
 
-- [Destructive Wave](/03_Mechanics/CLI/spells/destructive-wave-xphb.md "XPHB") at class level 5
-- [Insect Plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/destructive-wave-xphb "XPHB"|Destructive Wave]] at class level 5
+- [[/03_Mechanics/CLI/spells/insect-plague-xphb "XPHB"|Insect Plague]] at class level 5
 
 ## Player-Facing Summary
 

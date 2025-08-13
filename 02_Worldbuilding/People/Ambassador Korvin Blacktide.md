@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Green Death]]
+- [[02_Worldbuilding/Quests/The Green Death|02 Worldbuilding/Quests/The Green Death]]
 
 
 ## Connections
@@ -28,7 +28,7 @@ world: Both
 - [[Knight]]
 - [[Lighthouse Keeper]]
 - [[Quest - The Pretender]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

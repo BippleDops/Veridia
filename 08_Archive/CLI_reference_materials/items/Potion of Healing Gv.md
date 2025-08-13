@@ -28,14 +28,14 @@ world: Both
 
 
 > [!note]
-> * This item group has the same name and source as the item [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md).
+> * This item group has the same name and source as the item [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]].
 
 **Items in this group:**
 
-- [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md)
-- [Potion of Greater Healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md)
-- [Potion of Superior Healing](/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg.md)
-- [Potion of Supreme Healing](/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md)
+- [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]]
+- [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|Potion of Greater Healing]]
+- [[/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg|Potion of Superior Healing]]
+- [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Potion of Supreme Healing]]
 
 *Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 

@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guard-drake-red-mpmm-guard-drake-red-mpmm.svg)
 
-# [Guard Drake (Red)](3-Mechanics\CLI\bestiary\dragon/guard-drake-red-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/guard-drake-red-mpmm|Guard Drake (Red)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock
@@ -53,7 +53,7 @@ world: Both
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 12"

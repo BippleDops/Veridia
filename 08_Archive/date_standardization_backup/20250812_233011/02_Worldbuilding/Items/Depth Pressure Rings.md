@@ -138,7 +138,7 @@ Depth Pressure Rings represent one of the most fundamental and widely-used magic
 - **Outcasts**: No rings or damaged rings, marking social exclusion
 
 #### Cultural Variations
-- **[[02_Worldbuilding/Places/Memory Meadows]]**: Rings often incorporate memory-storing crystals
+- **[[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]**: Rings often incorporate memory-storing crystals
 - **Military Communities**: Standardized military-issue rings with unit insignia
 - **Merchant Districts**: Rings designed to display wealth and trading success
 - **Academic Centers**: Rings with scholarly symbols and research achievements

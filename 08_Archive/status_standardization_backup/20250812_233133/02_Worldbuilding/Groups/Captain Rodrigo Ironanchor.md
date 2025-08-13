@@ -37,7 +37,7 @@ obsidianUIMode: preview
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce*
 
 ## Organization Overview and Purpose
-The Iron Fleet represents the premier naval mercenary force in [[02_Worldbuilding/Places/Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Ironanchor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement.
+The Iron Fleet represents the premier naval mercenary force in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Ironanchor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement.
 
 The Fleet operates through a sophisticated network of warships, support vessels, coastal installations, and allied organizations that enable them to project power across vast maritime territories while maintaining the flexibility necessary for diverse commercial and military operations. Members of the Iron Fleet are distinguished by their exceptional seamanship, innovative naval tactics, unwavering loyalty to their organization, and pragmatic approach to maritime conflicts that prioritizes effective results over ideological considerations.
 
@@ -254,7 +254,7 @@ The Fleet must negotiate new agreements with multiple governments simultaneously
 
 - [[Merchant Princes]]
 - [[Port Meridian]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -278,4 +278,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_People_Index]]
+- [[Master_People_Index|Master People Index]]

@@ -15,7 +15,7 @@ world: Aquabyssos
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [[02_Worldbuilding/Lore/Underwater Breathing|02 Worldbuilding/Lore/Underwater Breathing]]
 
 
 ## Connections

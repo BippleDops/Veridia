@@ -295,7 +295,7 @@ Increased smuggling activity and foreign intelligence operations have necessitat
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Pearl Diving Honor Culture]]
+- [[02_Worldbuilding/Lore/Pearl Diving Honor Culture|02 Worldbuilding/Lore/Pearl Diving Honor Culture]]
 - [[Harbor Authority]]
 - [[Harbor District Customs House]]
 - [[Harbor Defense Grid]]

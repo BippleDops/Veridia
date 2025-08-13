@@ -170,6 +170,6 @@ Legends speak of Market Heist as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market Heist]]
+- [[02_Worldbuilding/Places/Market Heist|02 Worldbuilding/Places/Market Heist]]
 
 <!-- enriched: true -->

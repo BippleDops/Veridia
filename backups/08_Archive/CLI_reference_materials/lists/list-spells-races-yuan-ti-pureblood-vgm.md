@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Poison Spray](/03_Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/poison-spray-xphb "XPHB"|Poison Spray]] 
 
 ## 1st Level
 
-- [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/animal-friendship-xphb "XPHB"|Animal Friendship]] 
 
 ## 2nd Level
 
-- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/suggestion-xphb "XPHB"|Suggestion]]
 
 ## Player-Facing Summary
 

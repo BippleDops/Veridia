@@ -169,7 +169,7 @@ The Great Drowning serves as foundational lore explaining why Aquabyssos exists 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness|02 Worldbuilding/Quests/The Maw Of Darkness]]
 
 
 ## Connections

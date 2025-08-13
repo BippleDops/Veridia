@@ -24,7 +24,7 @@ world: Both
 *Where Death is Entertainment and Blood is Currency*
 
 ## Overview
-Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian]], the Bone Colosseum is an illegal gladiatorial arena run by [[02_Worldbuilding/Groups/The Whisper Syndicate]]. Built from the bones of ancient leviathans and lit by corrupted crystals, this underground amphitheater hosts blood sports for wealthy patrons while serving as a recruitment ground for [[02_Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
+Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], the Bone Colosseum is an illegal gladiatorial arena run by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Built from the bones of ancient leviathans and lit by corrupted crystals, this underground amphitheater hosts blood sports for wealthy patrons while serving as a recruitment ground for [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
 
 ## Arena Structure
 
@@ -37,23 +37,23 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 
 ### Spectator Levels
 - **The Pit**: Standing room for commoners and desperate gamblers
-- **Noble Boxes**: Private viewing areas for [[02_Worldbuilding/Groups/Merchant Princes]]
-- **The Shadow Box**: [[02_Worldbuilding/People/Vex Shadowthorn]]'s private viewing area
-- **High Gallery**: Where [[02_Worldbuilding/People/Marcus "The Shade" Blackwood]] coordinates security
+- **Noble Boxes**: Private viewing areas for [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]
+- **The Shadow Box**: [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s private viewing area
+- **High Gallery**: Where [[02_Worldbuilding/People/Marcus "The Shade" Blackwood|02 Worldbuilding/People/Marcus "The Shade" Blackwood]] coordinates security
 
 ### Support Areas
 - **Gladiator Cells**: Cramped quarters for fighters
 - **Beast Pens**: Holding corrupted creatures and monsters
-- **Medical Bay**: Run by [[02_Worldbuilding/People/Doctor Helena Voidwalker]]
+- **Medical Bay**: Run by [[02_Worldbuilding/People/Doctor Helena Voidwalker|02 Worldbuilding/People/Doctor Helena Voidwalker]]
 - **Weapons Cache**: Maintained by [[Master Smith Vulcan Deepforge]]'s apprentices
 
 ## Key Personnel
 
 ### Management
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Ultimate owner and sponsor
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]** - Ultimate owner and sponsor
 - **[[Marcus "The Shade" Blackwood]]** - Operations manager and security
 - **Fight Master Brutus "Bone Crusher"** - Arena coordinator and referee
-- **[[02_Worldbuilding/People/Doctor Helena Voidwalker]]** - Medical examiner and enhancement provider
+- **[[02_Worldbuilding/People/Doctor Helena Voidwalker|02 Worldbuilding/People/Doctor Helena Voidwalker]]** - Medical examiner and enhancement provider
 
 ### Gladiators
 - **Champion Thessa "Blood Song"** - Undefeated female warrior
@@ -64,7 +64,7 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 ### Support Staff
 - **Bookie Magnus Goldtooth** - Handles betting and odds
 - **Beast Master Vorth** - Manages arena creatures
-- **[[02_Worldbuilding/People/Taverner Bubbles McGill]]** - Runs underground tavern
+- **[[02_Worldbuilding/People/Taverner Bubbles McGill|02 Worldbuilding/People/Taverner Bubbles McGill]]** - Runs underground tavern
 - **Corpse Collector Mara** - Disposes of bodies
 
 ## Combat Events
@@ -79,7 +79,7 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 - **Crystal Corruption Trials**: Fighters test crystal enhancement
 - **Naval Combat**: Flooded arena for ship-to-ship battles
 - **Noble Challenges**: Wealthy patrons fight for honor
-- **Recruitment Trials**: [[02_Worldbuilding/Groups/The Whisper Syndicate]] tests new operatives
+- **Recruitment Trials**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] tests new operatives
 
 ### Weekly Schedule
 - **Moonday**: Training and medical examinations
@@ -99,36 +99,36 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 - **Murder for Hire**: Assassination disguised as accidents
 
 ### Money Laundering
-- Betting handles funds for [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- Betting handles funds for [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 - Gate receipts legitimize criminal profits
 - "Medical expenses" cover torture and experimentation
 - "Equipment costs" fund illegal weapon purchases
 
 ### Information Brokerage
-- [[02_Worldbuilding/People/Vex Shadowthorn]] meets contacts during fights
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] meets contacts during fights
 - Nobles reveal secrets while drunk on victory
 - Fighters carry messages between criminal cells
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] gathers intelligence from spectators
+- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] gathers intelligence from spectators
 
 ## Connections Network
 
 ### High-Profile Spectators
 - **[[Lord Aurelius Goldwave]]** - Regular gambler and patron
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Secret visitor seeking thrills
-- **[[02_Worldbuilding/People/Banker Titus Goldcurrent]]** - Launders money through betting
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Recruits elite fighters
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Secret visitor seeking thrills
+- **[[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]** - Launders money through betting
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Recruits elite fighters
 
 ### Supply Chain
-- Gladiators sourced from [[02_Worldbuilding/Places/The Slave Markets of Tethys]]
-- Beasts captured from [[02_Worldbuilding/Places/The Crystalline Wastes]]
-- Weapons supplied by [[02_Worldbuilding/Places/The Crimson Foundries]]
-- Corrupt crystals from [[02_Worldbuilding/Places/The Memory Meadows Black Market]]
+- Gladiators sourced from [[02_Worldbuilding/Places/The Slave Markets of Tethys|02 Worldbuilding/Places/The Slave Markets Of Tethys]]
+- Beasts captured from [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]
+- Weapons supplied by [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]]
+- Corrupt crystals from [[02_Worldbuilding/Places/The Memory Meadows Black Market|02 Worldbuilding/Places/The Memory Meadows Black Market]]
 
 ### Enemy Surveillance
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] investigating disappearances
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] seeking to shut down operations
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] investigating disappearances
+- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] seeking to shut down operations
 - [[Crystal Wardens]] tracking illegal crystal use
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] planning raid
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] planning raid
 
 ## Arena Mechanics
 
@@ -141,7 +141,7 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 ### Betting System
 - Minimum bet: 1 gold piece
 - Maximum bet: No limit for nobles
-- Odds determined by [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]
+- Odds determined by [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]
 - House takes 20% of all wagers
 
 ### Prizes & Rewards
@@ -156,15 +156,15 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 > [!warning] DM Only
 > - **Torture Chambers**: Where information is extracted from prisoners
 > - **Corruption Labs**: Illegal crystal experimentation on fighters
-> - **Escape Tunnels**: Connect to [[02_Worldbuilding/Places/The Shadow Markets]]
+> - **Escape Tunnels**: Connect to [[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]]
 > - **Vault Room**: Contains evidence of noble patrons' crimes
 
 ### Underground Network
 > [!warning] DM Only
-> - Tunnel system connects to [[02_Worldbuilding/Groups/Thieves Guild]] headquarters
+> - Tunnel system connects to [[02_Worldbuilding/Groups/Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] headquarters
 > - Hidden dock allows beast and slave smuggling
-> - Secret meeting rooms host [[02_Worldbuilding/Groups/The Whisper Syndicate]] councils
-> - Emergency evacuation routes lead to [[02_Worldbuilding/Places/Smuggler's Cove]]
+> - Secret meeting rooms host [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] councils
+> - Emergency evacuation routes lead to [[02_Worldbuilding/Places/Smuggler's Cove|02 Worldbuilding/Places/Smuggler's Cove]]
 
 ## Adventure Hooks
 
@@ -182,7 +182,7 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 
 ### Social Intrigue
 9. **High Stakes Gambling**: Infiltrate noble betting circles
-10. **Recruitment Test**: [[02_Worldbuilding/People/Vex Shadowthorn]] evaluates party as assets
+10. **Recruitment Test**: [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] evaluates party as assets
 11. **Political Assassination**: Prevent murder during crowded event
 12. **Corrupt Official**: Expose city guard taking bribes
 
@@ -203,7 +203,7 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 ## Security Measures
 
 ### Guards & Enforcers
-- 50 [[02_Worldbuilding/Groups/The Whisper Syndicate]] thugs
+- 50 [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] thugs
 - 12 corrupted crystal guardians
 - Arena gladiators loyal to management
 - Bound creatures serving as sentinels
@@ -215,21 +215,21 @@ Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian
 - **Scrying Protection**: Shield from external surveillance
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Host city providing cover
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Connected via tunnels
-- [[02_Worldbuilding/Places/Smuggler's Cove]] - Escape route and supply point
-- [[02_Worldbuilding/Places/The Slave Markets of Tethys]] - Fighter recruitment
-- [[02_Worldbuilding/Places/The Memory Meadows Black Market]] - Crystal supplier
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Host city providing cover
+- [[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]] - Connected via tunnels
+- [[02_Worldbuilding/Places/Smuggler's Cove|02 Worldbuilding/Places/Smuggler's Cove]] - Escape route and supply point
+- [[02_Worldbuilding/Places/The Slave Markets of Tethys|02 Worldbuilding/Places/The Slave Markets Of Tethys]] - Fighter recruitment
+- [[02_Worldbuilding/Places/The Memory Meadows Black Market|02 Worldbuilding/Places/The Memory Meadows Black Market]] - Crystal supplier
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Owner and operator
-- [[02_Worldbuilding/Groups/Merchant Princes]] - High-profile patrons
-- [[02_Worldbuilding/Groups/Thieves Guild]] - Underground network allies
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Owner and operator
+- [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - High-profile patrons
+- [[02_Worldbuilding/Groups/Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] - Underground network allies
 - [[Crystal Wardens]] - Investigating illegal operations
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Weapon suppliers
+- [[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]] - Weapon suppliers
 
 ## Current Threats
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] building case for raid
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] building case for raid
 - Gladiator uprising planned by Champion Thessa "Blood Song"
 - Crystal corruption spreading through fighter population
 - Noble patrons demanding increasingly dangerous spectacles
@@ -248,7 +248,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
 
 <!-- enriched: true -->
 

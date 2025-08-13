@@ -38,13 +38,13 @@ world: Both
 - **Components:** V, S, M (a bit of phosphorus or a firefly)
 - **Duration:** 10 minutes
 
-Wispy flames wreathe your body for the duration, shedding [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet.
+Wispy flames wreathe your body for the duration, shedding [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet.
 
-The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage, and the chill shield grants you [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.
+The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Cold damage, and the chill shield grants you [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Fire damage.
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes `2d8` Fire damage from a warm shield or `2d8` Cold damage from a chill shield.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/03_Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (War Domain)](/03_Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Fiend Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
 
 *Source: Player's Handbook (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

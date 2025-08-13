@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
+- [[02_Worldbuilding/Places/The Shrinking Sanctuary|02 Worldbuilding/Places/The Shrinking Sanctuary]]
 
 
 ## Connections

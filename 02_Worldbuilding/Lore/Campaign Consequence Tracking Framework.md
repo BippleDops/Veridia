@@ -223,8 +223,8 @@ Each consequence chain should link to:
 
 ## Cross-References
 
-- [[05_Templates/Consequence_Chain_Template]]
-- [[Campaign_Relationship_Matrix]]
+- [[05_Templates/Consequence_Chain_Template|05 Templates/Consequence Chain Template]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 - [[Faction Standing System]]
-- [[03_Mechanics/Living_Economy_System]]
+- [[03_Mechanics/Living_Economy_System|03 Mechanics/Living Economy System]]
 - [[Political Intrigue Master Index]]

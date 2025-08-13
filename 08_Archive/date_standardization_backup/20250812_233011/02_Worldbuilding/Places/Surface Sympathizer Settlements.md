@@ -176,6 +176,6 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
+- [[02_Worldbuilding/Places/Surface Sympathizer Settlements|02 Worldbuilding/Places/Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->

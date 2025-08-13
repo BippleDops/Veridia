@@ -32,7 +32,7 @@ updated: '2025-08-11T00:00:00+00:00'
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
 
 ## Overview
-Kythara tends the [[Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality.
+Kythara tends the [[Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality.
 
 ## Description
 - **Appearance**: Tall, willowy woman with silver-streaked black hair that seems to move in non-existent currents
@@ -43,7 +43,7 @@ Kythara tends the [[Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep 
 
 ## Background
 ### The Calling to Service
-- Born in [[02_Worldbuilding/Places/Abyssos Prime]] to middle-class family
+- Born in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] to middle-class family
 - Experienced shared dreams with unknown entities from young age
 - At 25, discovered ability to see and touch memories as physical objects
 - Drawn to Memory Meadows by visions of the Deep Mother
@@ -117,8 +117,8 @@ Kythara tends the [[Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep 
 - **Memory Addicts**: Those who consume dreams compulsively
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knows his lost memories are in her care
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Competing claims to serve Deep Mother
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Knows his lost memories are in her care
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]**: Competing claims to serve Deep Mother
 - **Parliament Memory Regulators**: Trying to tax or control her work
 - **Shadow-Touched Community**: Some see her as saint, others as threat
 - **Therapy Seekers**: People who need memory healing she can provide
@@ -168,7 +168,7 @@ Kythara tends the [[Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep 
 - Protected by Deep Mother's divine intervention
 
 ## Connected Elements
-- Central to [[Memory Meadows]] and [[02_Worldbuilding/Lore/The Deep Mother]] storylines
+- Central to [[Memory Meadows]] and [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] storylines
 - Links memory mechanics to religious/cosmic themes
 - Represents intersection of individual psychology and divine will
 - Bridge between commercial memory trade and sacred purposes
@@ -386,7 +386,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Shared resources for protecting individual memory rights
 - Cooperative response to memory-related crimes and abuses
 
-**[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Academic collaboration on memory preservation
+**[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]]**: Academic collaboration on memory preservation
 - Exchange program sharing expertise in memory storage and retrieval
 - Joint research into memory degradation and preservation techniques
 - Collaborative effort documenting cultural memories of extinct civilizations
@@ -405,7 +405,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Disagreement over awakening timeline and preparation strategies
 - Mutual respect despite differences in approach to Divine service
 
-**[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox religious authority providing institutional support
+**[[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox religious authority providing institutional support
 - Official religious recognition for Kythara's work within established church structure
 - Resources and protection for Memory Meadows through church political influence
 - Theological consultation on proper interpretation of divine memory-feeding requirements
@@ -437,13 +437,13 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Theological debates about whether memory preservation serves or hinders spiritual growth
 
 ### Political & Social Networks
-**[[02_Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
+**[[02_Worldbuilding/People/Senator Nereon Tidecaller|02 Worldbuilding/People/Senator Nereon Tidecaller]]**: Political ally supporting memory preservation legislation
 - Advocacy for legal protections for sacred memory sites and traditional practices
 - Funding for memory preservation research and ethical standards development
 - Political protection from commercial interests seeking to exploit Memory Meadows
 - Legislative framework ensuring individual rights over personal memories
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Institutional relationship with governing body
+**[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Institutional relationship with governing body
 - Regular testimony about memory-related legislation and policy impacts
 - Expert consultation on psychological and spiritual effects of memory commerce
 - Advisory role in developing ethical standards for memory trade regulation
@@ -597,7 +597,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ## Cross-Campaign Integration & Cosmic Connections
 
-### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
 - Divine memories serve as cosmic reference points maintaining dimensional stability
@@ -610,7 +610,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Development of techniques for distinguishing local from trans-dimensional memories
 - Prevention of reality confusion caused by conflicting memory-sets
 
-### Integration with [[02_Worldbuilding/Groups/The Convergence Seekers]]
+### Integration with [[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]
 **Memory as Dimensional Anchor**: Understanding role of consciousness in maintaining reality stability
 - Shared research into connections between memory, consciousness, and dimensional structure
 - Collaborative development of techniques for reinforcing reality through memory preservation
@@ -623,7 +623,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Collaboration on projects requiring access to trans-dimensional memory archives
 - Shared responsibility for maintaining cosmic memory stability during convergence events
 
-### Connection to [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]
+### Connection to [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]
 **Memory-Shadow Interface**: Intersection between shadow magic and memory manipulation
 - Study of how shadow energy affects memory formation and preservation
 - Development of protective techniques preventing shadow corruption of stored memories
@@ -636,7 +636,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Potential alliance with those resisting shadow-crystal influence
 - Protection of memory ecosystem from synthesis contamination and control
 
-### Links to [[02_Worldbuilding/Quests/Aquabyssos]]  
+### Links to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]  
 **Divine Memory Conduit**: Serving as bridge between mortal and divine memory systems
 - Facilitating communication between Divine consciousness and mortal awareness
 - Translation services helping mortals understand Divine memory communications
@@ -751,8 +751,8 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - [[The Barnacle]]
 - [[The Shadow Singer Naia]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Crown's Burden]]
 
 ## Player-Facing Summary
@@ -765,7 +765,7 @@ Legends speak of Memory Harvester Kythara as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara|02 Worldbuilding/People/Memory Harvester Kythara]]
 
 <!-- enriched: true -->
 - [[Memory Farmers]]

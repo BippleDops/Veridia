@@ -29,7 +29,7 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take `2d6` Thunder damage and have the [Deafened](/03_Mechanics/CLI/conditions.md#Deafened) condition for the duration.
+A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take `2d6` Thunder damage and have the [[/03_Mechanics/CLI/conditions#Deafened|Deafened]] condition for the duration.
 
 At the start of each of your later turns, the storm produces different effects, as detailed below.
 
@@ -47,11 +47,11 @@ Hailstones rain down. Each creature under the cloud takes `2d6` Bludgeoning dama
 
 ## Turns 5-10
 
-Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) and [Heavily Obscured](/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb.md), ranged attacks with weapons are impossible there, and strong wind blows through the area.
+Gusts and freezing rain assail the area under the cloud. Each creature there takes `d6` Cold damage. Until the spell ends, the area is [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]] and [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ## Summary
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

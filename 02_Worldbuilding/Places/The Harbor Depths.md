@@ -23,7 +23,7 @@ world: Both
 *Where Surface Meets Abyss, The Drowned Foundation of Port Meridian*
 
 ## Overview
-The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Places/Port Meridian]], where the bustling surface port gives way to a treacherous underwater realm. This transition zone between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] contains sunken ships, ancient ruins from before the great submersion, and the dangerous meeting point between two very different worlds. Crystal corruption seeps up from below while surface pollutants sink down, creating a unique and hazardous environment.
+The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], where the bustling surface port gives way to a treacherous underwater realm. This transition zone between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] contains sunken ships, ancient ruins from before the great submersion, and the dangerous meeting point between two very different worlds. Crystal corruption seeps up from below while surface pollutants sink down, creating a unique and hazardous environment.
 
 ## Geography & Environment
 
@@ -39,13 +39,13 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 - Sunken vessels and underwater ruins
 - First signs of crystal corruption
 - Reduced visibility, dangerous currents
-- Domain of [[02_Worldbuilding/Groups/Independent Smugglers]]
+- Domain of [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]
 
 **The Shadow Depths (100-200m)**
 - Ancient pre-submersion city ruins
 - Heavy crystal contamination
 - Home to depth-touched creatures
-- Border region with [[02_Worldbuilding/Places/Aquabyssos]] territory
+- Border region with [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] territory
 
 ### Environmental Hazards
 - **Crystal Corruption Plumes**: Rising toxic clouds that mutate organic matter
@@ -58,7 +58,7 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 ### The Sunken Fleet
 - **HMS Triumphant's Sister**: Royal Navy flagship lost in mysterious battle
 - **The Merchant's Rest**: Massive cargo vessel now serving as underwater market
-- **Pirate's Graveyard**: Multiple vessels from [[02_Worldbuilding/Groups/The Crimson Fleet]] raids
+- **Pirate's Graveyard**: Multiple vessels from [[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]] raids
 - **The Memory Ship**: Vessel that seems to replay its final moments
 
 ### Ancient Ruins
@@ -98,11 +98,11 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 ### Jurisdiction Conflicts
 - **Crown Naval Authority**: Claims security jurisdiction
 - **Port Authority**: Controls commercial activities
-- **[[02_Worldbuilding/Places/Aquabyssos]] Claims**: Some areas considered their territory
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Claims**: Some areas considered their territory
 - **Smuggler's Code**: Informal rules governing illegal activities
 
 ### Key Players
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval security
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval security
 - **Harbor Master Grimwald** - Port Authority representative
 - **"Captain" Mort Deepwater** - Smuggler organization leader
 - **The Depth Oracle** - Mysterious figure who brokers information
@@ -117,7 +117,7 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 
 ### Criminal Enterprises
 - **Smuggling Operations**: Moving contraband between realms
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Major criminal network
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Major criminal network
 - **Black Market Trading**: Illegal goods and services
 - **Memory Trading**: Buying and selling extracted memories
 
@@ -158,7 +158,7 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 ### Combat Encounters
 - Battle crystal-corrupted sea creatures
 - Fight smuggler gangs for control of territory
-- Defend against raids by [[02_Worldbuilding/Groups/The Crimson Fleet]]
+- Defend against raids by [[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]
 - Confront supernatural entities in the depths
 
 ### Mystery & Investigation
@@ -170,26 +170,26 @@ The Harbor Depths represent the submerged underbelly of [[02_Worldbuilding/Place
 ### Political Intrigue
 - Negotiate territorial disputes between jurisdictions
 - Infiltrate smuggling organization to gather intelligence
-- Protect diplomatic mission to [[02_Worldbuilding/Places/Aquabyssos]] representatives
+- Protect diplomatic mission to [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] representatives
 - Prevent war between surface and depth factions
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval security authority
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval security authority
 - Various smuggler captains and criminal leaders
 - Depth-touched survivors and adapted humans
 - Mysterious entities dwelling in the deepest areas
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Surface connection
-- [[02_Worldbuilding/Places/Port Meridian]] - Main city above
-- [[02_Worldbuilding/Places/Aquabyssos]] - Deep connection
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Criminal counterpart
+- [[02_Worldbuilding/Places/Port Meridian Harbor|02 Worldbuilding/Places/Port Meridian Harbor]] - Surface connection
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Main city above
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Deep connection
+- [[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]] - Criminal counterpart
 
 ## Quest Hooks
 1. Royal Navy vessel went missing during routine patrol of the depths
 2. Precious cargo containing magical artifacts lost in smuggler attack
 3. Strange lights and sounds reported from the deepest trenches
-4. Diplomat from [[02_Worldbuilding/Places/Aquabyssos]] requires safe escort through dangerous waters
+4. Diplomat from [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] requires safe escort through dangerous waters
 5. New form of crystal corruption threatens to spread to surface levels
 
 ## Player-Facing Summary
@@ -212,6 +212,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Harbor Depths]]
+- [[02_Worldbuilding/Places/The Harbor Depths|02 Worldbuilding/Places/The Harbor Depths]]
 
 <!-- enriched: true -->

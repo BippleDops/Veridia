@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
+- [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher|02 Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
 
 <!-- enriched: true -->
 

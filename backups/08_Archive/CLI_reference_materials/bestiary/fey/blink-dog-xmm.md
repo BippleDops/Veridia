@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blink-dog-xmm-blink-dog-xmm.svg)
 
-# [Blink Dog](3-Mechanics\CLI\bestiary\fey/blink-dog-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/blink-dog-xmm|Blink Dog]]
 *Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Blink Dog
@@ -57,9 +57,9 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Elvish and Sylvan but can't speak them"

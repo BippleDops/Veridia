@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark|02 Worldbuilding/People/The Emerald Sage Willowbark]]
 
 
 ## Connections

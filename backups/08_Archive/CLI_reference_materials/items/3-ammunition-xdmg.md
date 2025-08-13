@@ -36,7 +36,7 @@ world: Both
 You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([20,000 GP](/03_Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
+> ([[/03_Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg|20,000 GP]]).
 
 **Variants**:
 - [+3 Arrow](#+3%20Arrow)
@@ -46,7 +46,7 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 - [+3 Needle](#+3%20Needle)
 - [+3 Sling Bullet](#+3%20Sling%20Bullet)
 
-### +3 Arrow
+## +3 Arrow
 
 - **Weight**: 0.05 lbs.
 

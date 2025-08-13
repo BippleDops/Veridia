@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs|02 Worldbuilding/Groups/Consortium Security Constructs]]
 
 
 ## Connections

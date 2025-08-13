@@ -37,7 +37,7 @@ access_restriction: Authorized Personnel and Guided Tours
 
 ## Overview
 
-The Crystal Forest represents the most sophisticated magical agriculture facility in [[02_Worldbuilding/Places/Aquabyssos]], where specialized crystals essential to underwater civilization are cultivated, harvested, and processed for use in everything from [[Pressure Adaptation System]] components to [[Pressure Tubes]] infrastructure. This vast underwater agricultural complex combines traditional farming techniques with advanced magical cultivation methods to produce the crystalline materials that power modern Aquabyssos technology.
+The Crystal Forest represents the most sophisticated magical agriculture facility in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], where specialized crystals essential to underwater civilization are cultivated, harvested, and processed for use in everything from [[Pressure Adaptation System]] components to [[Pressure Tubes]] infrastructure. This vast underwater agricultural complex combines traditional farming techniques with advanced magical cultivation methods to produce the crystalline materials that power modern Aquabyssos technology.
 
 Located in the city's agricultural district at optimal depth for crystal growth, the facility spans multiple underwater "groves" where different types of crystals are grown under carefully controlled conditions. Each grove specializes in particular crystal varieties, from basic pressure-regulation crystals used in everyday devices to exotic memory-storage crystals powering the city's most advanced technologies.
 
@@ -97,7 +97,7 @@ Advanced research facilities where scientists and cultivators collaborate to dev
 
 **Current Research Projects:**
 - **Anti-Corruption Crystal Development**: Crystals actively resisting and neutralizing corruption
-- **Cross-Realm Compatibility**: Crystals functioning in both Aquabyssos and [[02_Worldbuilding/Places/Aethermoor]] environments
+- **Cross-Realm Compatibility**: Crystals functioning in both Aquabyssos and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] environments
 - **Emergency Growth Protocols**: Rapid production methods for crisis situations
 - **Biological Integration Enhancement**: Crystals improving compatibility with living systems
 - **Dimensional Stability Research**: Crystals maintaining function during reality convergence
@@ -359,7 +359,7 @@ Partnerships with other institutions advance crystal science:
 
 - **University Partnerships**: Academic research supporting technological development
 - **International Cooperation**: Sharing knowledge with other crystal cultivation centers
-- **Cross-Realm Projects**: Joint research with [[02_Worldbuilding/Places/Aethermoor]] institutions
+- **Cross-Realm Projects**: Joint research with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] institutions
 - **Medical Research**: Healthcare applications for crystal technology
 - **Environmental Studies**: Sustainable cultivation and ecological protection
 
@@ -397,7 +397,7 @@ Emerging markets create additional applications for Crystal Forest products:
 - **Environmental Applications**: Crystals supporting ecological protection and restoration
 
 **Cross-Realm Integration:**
-Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates new possibilities:
+Cooperation with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates new possibilities:
 
 - **Dual-Environment Crystals**: Products functioning in both water and air
 - **Reality Bridge Technology**: Crystals supporting dimensional travel and communication
@@ -427,7 +427,7 @@ Various organizations work with the Crystal Forest:
 - **[[Master Cultivators Guild]]**: Professional association supporting crystal farmers
 - **[[Crystal Quality Standards Authority]]**: Regulatory body ensuring product safety and quality
 - **[[Emergency Crystal Response Team]]**: Crisis management specialists handling crystal-related emergencies
-- **[[02_Worldbuilding/Lore/International Crystal Trade Associatio]]**: Organization facilitating crystal commerce
+- **[[02_Worldbuilding/Lore/International Crystal Trade Associatio|02 Worldbuilding/Lore/International Crystal Trade Associatio]]**: Organization facilitating crystal commerce
 
 ### Educational and Training Programs
 
@@ -435,10 +435,10 @@ Various organizations work with the Crystal Forest:
 Multiple institutions support crystal cultivation education:
 
 - **[[Aquabyssos Agricultural University]]**: Academic programs in crystal cultivation
-- **[[02_Worldbuilding/Groups/Crystal Cultivation Training Cente]]**: Professional development for industry workers
+- **[[02_Worldbuilding/Groups/Crystal Cultivation Training Cente|02 Worldbuilding/Groups/Crystal Cultivation Training Cente]]**: Professional development for industry workers
 - **[[Youth Crystal Education Program]]**: School programs teaching crystal science
 - **[[Master Cultivator Apprenticeships]]**: Traditional training methods for cultivation experts
-- **[[02_Worldbuilding/Lore/International Exchange Program]]**: Cross-cultural learning opportunities
+- **[[02_Worldbuilding/Lore/International Exchange Program|02 Worldbuilding/Lore/International Exchange Program]]**: Cross-cultural learning opportunities
 
 ## Campaign Integration and Adventure Opportunities
 
@@ -491,14 +491,14 @@ Understanding crystal agriculture helps characters navigate society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing Crystal Forest products
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Major consumer of facility crystals
-- [[02_Worldbuilding/Lore/Pressure Tubes]] - Transportation system requiring crystal components
-- [[02_Worldbuilding/Lore/The Deep Harvest]] - Economic system supporting crystal trade
-- [[02_Worldbuilding/People/Master Cultivator Reef Growstone]] - Facility director and leading expert
-- [[02_Worldbuilding/People/Master Harvester Tide Crystalcut]] - Harvesting operations leader
-- [[02_Worldbuilding/Groups/Crystal Agricultural Research Institute]] - Primary research partner
-- [[02_Worldbuilding/Groups/Master Cultivators Guild]] - Professional organization supporting cultivators
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing Crystal Forest products
+- [[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]] - Major consumer of facility crystals
+- [[02_Worldbuilding/Lore/Pressure Tubes|02 Worldbuilding/Lore/Pressure Tubes]] - Transportation system requiring crystal components
+- [[02_Worldbuilding/Lore/The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]] - Economic system supporting crystal trade
+- [[02_Worldbuilding/People/Master Cultivator Reef Growstone|02 Worldbuilding/People/Master Cultivator Reef Growstone]] - Facility director and leading expert
+- [[02_Worldbuilding/People/Master Harvester Tide Crystalcut|02 Worldbuilding/People/Master Harvester Tide Crystalcut]] - Harvesting operations leader
+- [[02_Worldbuilding/Groups/Crystal Agricultural Research Institute|02 Worldbuilding/Groups/Crystal Agricultural Research Institute]] - Primary research partner
+- [[02_Worldbuilding/Groups/Master Cultivators Guild|02 Worldbuilding/Groups/Master Cultivators Guild]] - Professional organization supporting cultivators
 
 
 ## Connections
@@ -546,7 +546,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Eastern Kingdom]]
 - [[Umbral Exchange]]
 - [[Pressure Tubes]]

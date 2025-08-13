@@ -23,19 +23,19 @@ world: Both
 
 | Cost | Goods |
 |------|-------|
-| 1 CP | 1 lb. of [wheat](/03_Mechanics/CLI/items/wheat-xdmg.md) |
-| 2 CP | 2 lb. of [flour](/03_Mechanics/CLI/items/flour-xdmg.md) or one [chicken](/03_Mechanics/CLI/items/chicken-xdmg.md) |
-| 5 CP | 1 lb. of [salt](/03_Mechanics/CLI/items/salt-xdmg.md) |
-| 1 SP | 1 lb. of [iron](/03_Mechanics/CLI/items/iron-xdmg.md) or 1 sq. yd. of [canvas](/03_Mechanics/CLI/items/canvas-1-sq-yd-xdmg.md) |
-| 5 SP | 1 lb. of [copper](/03_Mechanics/CLI/items/copper-xdmg.md) or 1 sq. yd. of [cotton cloth](/03_Mechanics/CLI/items/cotton-cloth-1-sq-yd-xdmg.md) |
-| 1 GP | 1 lb. of [ginger](/03_Mechanics/CLI/items/ginger-xdmg.md) or one [goat](/03_Mechanics/CLI/items/goat-xdmg.md) |
-| 2 GP | 1 lb. of [cinnamon](/03_Mechanics/CLI/items/cinnamon-xdmg.md) or [pepper](/03_Mechanics/CLI/items/pepper-xdmg.md), or one [sheep](/03_Mechanics/CLI/items/sheep-xdmg.md) |
-| 3 GP | 1 lb. of [cloves](/03_Mechanics/CLI/items/cloves-xdmg.md) or one [pig](/03_Mechanics/CLI/items/pig-xdmg.md) |
-| 5 GP | 1 lb. of [silver](/03_Mechanics/CLI/items/silver-xdmg.md) or 1 sq. yd. of [linen](/03_Mechanics/CLI/items/linen-1-sq-yd-xdmg.md) |
-| 10 GP | 1 lb. of [silk](/03_Mechanics/CLI/items/silk-xdmg.md) or one [cow](/03_Mechanics/CLI/items/cow-xdmg.md) |
-| 15 GP | 1 lb. of [saffron](/03_Mechanics/CLI/items/saffron-xdmg.md) or one [ox](/03_Mechanics/CLI/items/ox-xdmg.md) |
-| 50 GP | 1 lb. of [gold](/03_Mechanics/CLI/items/gold-xdmg.md) |
-| 500 GP | 1 lb. of [platinum](/03_Mechanics/CLI/items/platinum-xdmg.md) |
+| 1 CP | 1 lb. of [[/03_Mechanics/CLI/items/wheat-xdmg|wheat]] |
+| 2 CP | 2 lb. of [[/03_Mechanics/CLI/items/flour-xdmg|flour]] or one [[/03_Mechanics/CLI/items/chicken-xdmg|chicken]] |
+| 5 CP | 1 lb. of [[/03_Mechanics/CLI/items/salt-xdmg|salt]] |
+| 1 SP | 1 lb. of [[/03_Mechanics/CLI/items/iron-xdmg|iron]] or 1 sq. yd. of [[/03_Mechanics/CLI/items/canvas-1-sq-yd-xdmg|canvas]] |
+| 5 SP | 1 lb. of [[/03_Mechanics/CLI/items/copper-xdmg|copper]] or 1 sq. yd. of [[/03_Mechanics/CLI/items/cotton-cloth-1-sq-yd-xdmg|cotton cloth]] |
+| 1 GP | 1 lb. of [[/03_Mechanics/CLI/items/ginger-xdmg|ginger]] or one [[/03_Mechanics/CLI/items/goat-xdmg|goat]] |
+| 2 GP | 1 lb. of [[/03_Mechanics/CLI/items/cinnamon-xdmg|cinnamon]] or [[/03_Mechanics/CLI/items/pepper-xdmg|pepper]], or one [[/03_Mechanics/CLI/items/sheep-xdmg|sheep]] |
+| 3 GP | 1 lb. of [[/03_Mechanics/CLI/items/cloves-xdmg|cloves]] or one [[/03_Mechanics/CLI/items/pig-xdmg|pig]] |
+| 5 GP | 1 lb. of [[/03_Mechanics/CLI/items/silver-xdmg|silver]] or 1 sq. yd. of [[/03_Mechanics/CLI/items/linen-1-sq-yd-xdmg|linen]] |
+| 10 GP | 1 lb. of [[/03_Mechanics/CLI/items/silk-xdmg|silk]] or one [[/03_Mechanics/CLI/items/cow-xdmg|cow]] |
+| 15 GP | 1 lb. of [[/03_Mechanics/CLI/items/saffron-xdmg|saffron]] or one [[/03_Mechanics/CLI/items/ox-xdmg|ox]] |
+| 50 GP | 1 lb. of [[/03_Mechanics/CLI/items/gold-xdmg|gold]] |
+| 500 GP | 1 lb. of [[/03_Mechanics/CLI/items/platinum-xdmg|platinum]] |
 ^trade-goods
 
 ## Player-Facing Summary

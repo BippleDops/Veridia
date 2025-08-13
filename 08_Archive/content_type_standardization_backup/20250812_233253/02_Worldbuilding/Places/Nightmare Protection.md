@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Nightmare Protection]]
+- [[02_Worldbuilding/Places/Nightmare Protection|02 Worldbuilding/Places/Nightmare Protection]]
 
 <!-- enriched: true -->
 

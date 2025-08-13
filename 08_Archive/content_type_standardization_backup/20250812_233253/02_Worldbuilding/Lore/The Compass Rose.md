@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter|02 Worldbuilding/Places/Port Meridian Merchant Quarter]]
 
 
 ## Connections

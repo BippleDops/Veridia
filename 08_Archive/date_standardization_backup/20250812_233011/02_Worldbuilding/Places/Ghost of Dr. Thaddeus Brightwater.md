@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ghost of Dr. Thaddeus Brightwater]]
+- [[02_Worldbuilding/Places/Ghost of Dr. Thaddeus Brightwater|02 Worldbuilding/Places/Ghost Of Dr. Thaddeus Brightwater]]
 
 <!-- enriched: true -->
 

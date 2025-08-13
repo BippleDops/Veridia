@@ -22,20 +22,20 @@ world: Both
 |    |    |
 |----|----|
 | AC | Armor Class |
-| C | [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) |
+| C | [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
 | Cha. | Charisma |
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) |
-| DC | [Difficulty Class](/03_Mechanics/CLI/variant-rules/difficulty-class-xphb.md) |
+| CR | [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]] |
+| DC | [[/03_Mechanics/CLI/variant-rules/difficulty-class-xphb|Difficulty Class]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)(s) |
+| HP | [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -45,15 +45,15 @@ world: Both
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) |
+| PB | [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]] |
 | PP | Platinum Piece(s) |
-| R | [Ritual](/03_Mechanics/CLI/variant-rules/ritual-xphb.md) |
+| R | [[/03_Mechanics/CLI/variant-rules/ritual-xphb|Ritual]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [Experience Point](/03_Mechanics/CLI/variant-rules/experience-points-xphb.md)(s) |
+| XP | [[/03_Mechanics/CLI/variant-rules/experience-points-xphb|Experience Point]](s) |
 
 ## Player-Facing Summary
 

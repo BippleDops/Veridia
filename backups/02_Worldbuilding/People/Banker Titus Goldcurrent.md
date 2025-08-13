@@ -23,7 +23,7 @@ tags:
 *The Pearl Counter, Master of Depths Finance, The Pressure Baron*
 
 ## Overview
-Titus Goldcurrent controls the largest financial institution in [[02_Worldbuilding/Places/Aquabyssos]], the **Deep Vault Banking Consortium**. From his coral-carved office in the financial district, he orchestrates loans, investments, and currency exchanges that shape the economic fate of both realms. Behind his respectable facade lies a cunning manipulator who uses debt as a weapon and financial leverage as chains, ensuring that anyone who needs capital eventually finds themselves dancing to his tune.
+Titus Goldcurrent controls the largest financial institution in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], the **Deep Vault Banking Consortium**. From his coral-carved office in the financial district, he orchestrates loans, investments, and currency exchanges that shape the economic fate of both realms. Behind his respectable facade lies a cunning manipulator who uses debt as a weapon and financial leverage as chains, ensuring that anyone who needs capital eventually finds themselves dancing to his tune.
 
 ## Appearance
 - **Build**: Compact and rotund at 4'8", moves with surprising grace underwater
@@ -78,25 +78,25 @@ Born into a modest merchant family, Titus showed early aptitude for numbers and 
 ## Relationships
 
 ### Business Partners
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Surface realm financial ally and competitor
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave|02 Worldbuilding/People/Lord Aurelius Goldwave]] - Surface realm financial ally and competitor
 - **Madame Coral Deepsafe** - Rival banker who manages smaller institutions
-- [[02_Worldbuilding/Groups/The Current Merchants]] - Guild president and primary political connection
+- [[02_Worldbuilding/Groups/The Current Merchants|02 Worldbuilding/Groups/The Current Merchants]] - Guild president and primary political connection
 - **Captain Barnacle Ironwealth** - Shipping magnate and investment partner
 
 ### Political Connections
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Regular loans to the imperial treasury
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Funds her diplomatic missions
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]] - Regular loans to the imperial treasury
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Funds her diplomatic missions
 - **Senator Goldscale** - Purchased political influence
 - Various Parliament members - Financial leverage over voting
 
 ### Criminal Associates
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Money laundering operations
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Money laundering operations
 - **The Tide Breaker Syndicate** - Enforcement and collection services
 - **Smuggler Captain Blackwater** - Illegal currency transportation
 - Shadow market dealers - Financing black market operations
 
 ### Enemies and Debtors
-- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]] - Opposes his environmental practices
+- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow|02 Worldbuilding/People/Master Cultivator Thalia Greenglow]] - Opposes his environmental practices
 - **The Debtor's Collective** - Group of his victims seeking revenge
 - **Magistrate Coralheart** - Investigating his corruption
 - Hundreds of individuals crushed by predatory loans
@@ -112,7 +112,7 @@ Born into a modest merchant family, Titus showed early aptitude for numbers and 
 > - Has a hidden vault containing enough wealth to buy a small kingdom
 
 ## Current Operations
-- Negotiating massive loan to fund [[02_Worldbuilding/Places/Aethermoor]] crystal infrastructure
+- Negotiating massive loan to fund [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] crystal infrastructure
 - Systematically buying up failing businesses at discount prices
 - Laundering money for criminal organizations through shell companies
 - Financing political campaigns to ensure favorable banking legislation
@@ -206,21 +206,21 @@ His main banking facility features:
 - Connection to both realms makes him useful for cross-realm plots
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Business partner and rival
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Major debtor
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal money laundering partner
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Financial relationship
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave|02 Worldbuilding/People/Lord Aurelius Goldwave]] - Business partner and rival
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]] - Major debtor
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Criminal money laundering partner
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Financial relationship
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aquabyssos Prime]] - Main base of operations
-- [[02_Worldbuilding/Places/The Deep Vault]] - Primary banking facility
-- [[02_Worldbuilding/Places/Financial District]] - Controls most businesses here
-- [[02_Worldbuilding/Places/Port Meridian]] - Surface realm branch office
+- [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]] - Main base of operations
+- [[02_Worldbuilding/Places/The Deep Vault|02 Worldbuilding/Places/The Deep Vault]] - Primary banking facility
+- [[02_Worldbuilding/Places/Financial District|02 Worldbuilding/Places/Financial District]] - Controls most businesses here
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Surface realm branch office
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Economic Conspiracy]] - His market manipulation
-- [[02_Worldbuilding/Quests/Quest - The Debtor's Revolt]] - Victims fight back
-- [[02_Worldbuilding/Quests/Quest - The Currency War]] - Inter-realm financial conflict
+- [[02_Worldbuilding/Quests/Quest - The Economic Conspiracy|02 Worldbuilding/Quests/Quest The Economic Conspiracy]] - His market manipulation
+- [[02_Worldbuilding/Quests/Quest - The Debtor's Revolt|02 Worldbuilding/Quests/Quest The Debtor's Revolt]] - Victims fight back
+- [[02_Worldbuilding/Quests/Quest - The Currency War|02 Worldbuilding/Quests/Quest The Currency War]] - Inter-realm financial conflict
 
 
 ## Connections
@@ -246,6 +246,6 @@ Legends speak of Banker Titus Goldcurrent as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
 <!-- enriched: true -->

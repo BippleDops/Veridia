@@ -24,8 +24,8 @@ world: Aethermoor
 - Thunder Sloop: Crackling lances, storm-etched hull, ozone scent.
 - Aurora Ark: Prism shields spill color; ship vanishes into dawn.
 
-Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicle_Customization_Progression]].
+Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicle_Customization_Progression|Vehicle Customization Progression]].
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]

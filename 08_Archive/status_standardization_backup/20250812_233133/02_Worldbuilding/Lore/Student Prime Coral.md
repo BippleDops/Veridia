@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
 
 
 ## Connections

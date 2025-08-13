@@ -22,10 +22,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
-- **Feat.** [Lucky](/03_Mechanics/CLI/feats/lucky-xphb.md)  
-- **Skill Proficiencies.** [Insight](/03_Mechanics/CLI/skills.md#Insight), [Stealth](/03_Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiency.** [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** Choose A or B: (A) [2 Daggers](/03_Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md), [Gaming Set](/03_Mechanics/CLI/items/gaming-set-xphb.md) (any), [Bedroll](/03_Mechanics/CLI/items/bedroll-xphb.md), [2 Pouches](/03_Mechanics/CLI/items/pouch-xphb.md), [Traveler's Clothes](/03_Mechanics/CLI/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  
+- **Feat.** [[/03_Mechanics/CLI/feats/lucky-xphb|Lucky]]  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]]  
+- **Tool Proficiency.** [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' Tools]]  
+- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/dagger-xphb|2 Daggers]], [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' Tools]], [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]] (any), [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], [[/03_Mechanics/CLI/items/pouch-xphb|2 Pouches]], [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
 
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
 

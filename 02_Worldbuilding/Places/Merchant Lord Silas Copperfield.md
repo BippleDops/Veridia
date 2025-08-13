@@ -30,7 +30,7 @@ world: Aethermoor
 
 # Merchant Lord Silas Copperfield
 
-![Merchant Lord Silas Copperfield Portrait](04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png)
+![[04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png|Merchant Lord Silas Copperfield Portrait]]
 
 ## Overview
 Merchant Lord Silas Copperfield is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.

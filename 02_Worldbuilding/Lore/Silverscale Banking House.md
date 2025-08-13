@@ -25,7 +25,7 @@ world: Aethermoor
 
 # Silverscale Banking House
 
-![Silverscale Banking House Portrait](04_Resources/Assets/Art/Lore/Silverscale_Banking_House.png)
+![[04_Resources/Assets/Art/Lore/Silverscale_Banking_House.png|Silverscale Banking House Portrait]]
 
 ## Summary
 Silverscale Banking House describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -80,5 +80,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Seven Shards]]
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
-- [[Campaign_Quick_Reference_Sheets]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

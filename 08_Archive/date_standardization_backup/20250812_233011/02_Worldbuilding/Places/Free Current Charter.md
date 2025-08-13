@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Free Current Charter]]
+- [[02_Worldbuilding/Places/Free Current Charter|02 Worldbuilding/Places/Free Current Charter]]
 
 <!-- enriched: true -->
 

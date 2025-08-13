@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/House Pressureborn]]
+- [[02_Worldbuilding/Places/House Pressureborn|02 Worldbuilding/Places/House Pressureborn]]
 
 <!-- enriched: true -->
 

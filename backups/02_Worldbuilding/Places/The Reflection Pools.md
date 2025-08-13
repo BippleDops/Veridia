@@ -29,7 +29,7 @@ accessibility:
 
 # The Reflection Pools
 
-![The Reflection Pools Portrait](04_Resources/Assets/Art/Places/The_Reflection_Pools.png)
+![[04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
 
 *Where every choice not taken shimmers in the water*
 
@@ -453,11 +453,11 @@ Each prophecy made drains possibility from the future, making reality more rigid
 ---
 
 ## See Also
-- [[02_Worldbuilding/Groups/Order of Mirrors]]
-- [[02_Worldbuilding/Lore/Quantum Magic Theory]]
-- [[02_Worldbuilding/Places/The Twilight Depths]]
-- [[03_Mechanics/Divination_Expanded]]
-- [[03_Mechanics/Temporal_Mechanics_System]]
+- [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
+- [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
+- [[02_Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
+- [[03_Mechanics/Divination_Expanded|03 Mechanics/Divination Expanded]]
+- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
 *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."*
 
@@ -471,7 +471,7 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Reflection Pools]]
+- [[02_Worldbuilding/Places/The Reflection Pools|02 Worldbuilding/Places/The Reflection Pools]]
 
 <!-- enriched: true -->
 

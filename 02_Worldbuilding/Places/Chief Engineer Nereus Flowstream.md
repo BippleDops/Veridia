@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Pressure Tubes|02 Worldbuilding/Places/Pressure Tubes]]
 
 
 ## Connections

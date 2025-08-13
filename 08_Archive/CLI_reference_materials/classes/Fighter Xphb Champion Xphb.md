@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Champion
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[./fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -63,13 +63,13 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Improved Critical (Level 3)
 
-Your attack rolls with weapons and Unarmed Strikes can score a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can score a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]] on a roll of 19 or 20 on the `d20`.
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) rolls and Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) checks.
+Thanks to your athleticism, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] rolls and Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) checks.
 
-In addition, immediately after you score a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).
+In addition, immediately after you score a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]], you can move up to half your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Additional Fighting Style (Level 7)
 
@@ -77,11 +77,11 @@ You gain another Fighting Style feat of your choice.
 
 ### Heroic Warrior (Level 10)
 
-The thrill of battle drives you toward victory. During combat, you can give yourself [Heroic Inspiration](/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) whenever you start your turn without it.
+The thrill of battle drives you toward victory. During combat, you can give yourself [[/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb|Heroic Inspiration]] whenever you start your turn without it.
 
 ### Superior Critical (Level 15)
 
-Your attack rolls with weapons and Unarmed Strikes can now score a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 18–20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can now score a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]] on a roll of 18–20 on the `d20`.
 
 ### Survivor (Level 18)
 
@@ -89,11 +89,11 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 #### Defy Death
 
-You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Death Saving Throws. Moreover, when you roll 18–20 on a [Death Saving Throw](/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
+You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Death Saving Throws. Moreover, when you roll 18–20 on a [[/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb|Death Saving Throw]], you gain the benefit of rolling a 20 on it.
 
 #### Heroic Rally
 
-At the start of each of your turns, you regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md) and have at least 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
+At the start of each of your turns, you regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to 5 plus your Constitution modifier if you are [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]] and have at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]].
 
 ## Player-Facing Summary
 

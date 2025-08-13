@@ -29,20 +29,20 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 **Items in this group:**
 
-- [Enspelled Staff (Cantrip)](/03_Mechanics/CLI/items/enspelled-staff-cantrip-xdmg.md)
-- [Enspelled Staff (Level 1)](/03_Mechanics/CLI/items/enspelled-staff-level-1-xdmg.md)
-- [Enspelled Staff (Level 2)](/03_Mechanics/CLI/items/enspelled-staff-level-2-xdmg.md)
-- [Enspelled Staff (Level 3)](/03_Mechanics/CLI/items/enspelled-staff-level-3-xdmg.md)
-- [Enspelled Staff (Level 4)](/03_Mechanics/CLI/items/enspelled-staff-level-4-xdmg.md)
-- [Enspelled Staff (Level 5)](/03_Mechanics/CLI/items/enspelled-staff-level-5-xdmg.md)
-- [Enspelled Staff (Level 6)](/03_Mechanics/CLI/items/enspelled-staff-level-6-xdmg.md)
-- [Enspelled Staff (Level 7)](/03_Mechanics/CLI/items/enspelled-staff-level-7-xdmg.md)
-- [Enspelled Staff (Level 8)](/03_Mechanics/CLI/items/enspelled-staff-level-8-xdmg.md)
+- [[/03_Mechanics/CLI/items/enspelled-staff-cantrip-xdmg|Enspelled Staff (Cantrip)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-1-xdmg|Enspelled Staff (Level 1)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-2-xdmg|Enspelled Staff (Level 2)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-3-xdmg|Enspelled Staff (Level 3)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-4-xdmg|Enspelled Staff (Level 4)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-5-xdmg|Enspelled Staff (Level 5)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-6-xdmg|Enspelled Staff (Level 6)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-7-xdmg|Enspelled Staff (Level 7)]]
+- [[/03_Mechanics/CLI/items/enspelled-staff-level-8-xdmg|Enspelled Staff (Level 8)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
 

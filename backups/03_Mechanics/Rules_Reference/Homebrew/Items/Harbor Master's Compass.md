@@ -158,4 +158,4 @@ Legends speak of Harbor Master's Compass as a nexus where past and present conve
 
 ## Cross-References
 
-- [[03_Mechanics/Rules_Reference/Homebrew/Items/Harbor Master's Compass]]
+- [[03_Mechanics/Rules_Reference/Homebrew/Items/Harbor Master's Compass|03 Mechanics/Rules Reference/Homebrew/Items/Harbor Master's Compass]]

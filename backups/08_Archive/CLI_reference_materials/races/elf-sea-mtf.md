@@ -41,11 +41,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/03_Mechanics/CLI/skills.md#Perception) skill.
+You have proficiency in the [[/03_Mechanics/CLI/skills#Perception|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -60,7 +60,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sea Elf Training
 
-You have proficiency with the [spear](/03_Mechanics/CLI/items/spear-xphb.md), [trident](/03_Mechanics/CLI/items/trident-xphb.md), [light crossbow](/03_Mechanics/CLI/items/light-crossbow-xphb.md), and [net](/03_Mechanics/CLI/items/net-xphb.md).
+You have proficiency with the [[/03_Mechanics/CLI/items/spear-xphb|spear]], [[/03_Mechanics/CLI/items/trident-xphb|trident]], [[/03_Mechanics/CLI/items/light-crossbow-xphb|light crossbow]], and [[/03_Mechanics/CLI/items/net-xphb|net]].
 
 ### Child of the Sea
 

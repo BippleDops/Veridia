@@ -145,4 +145,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Madness Effects]]
+- [[02_Worldbuilding/Lore/Madness Effects|02 Worldbuilding/Lore/Madness Effects]]

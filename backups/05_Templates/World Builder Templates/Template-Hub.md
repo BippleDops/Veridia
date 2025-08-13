@@ -174,7 +174,7 @@ Select Category: `INPUT[template-hub-category][:MyCategory]`
 
 This is the town description. 
 
-# NPCs
+## NPCs
 
 `BUTTON[button_person]` List important NPCs here. 
 
@@ -247,11 +247,11 @@ dv.table(
 );
 ```
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Travel
+## Travel
 
 %% For every other hub/location that you would like to see travel time to, add a line in the table and replicate the format provided. Change the Town name and link it to that towns note and then change the 88 in the formula to match the distance in miles to that place. Use a Leaflet map to measure the distance. %%
 
@@ -260,7 +260,7 @@ Make notes of what you need to track in the town here.
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[02_Worldbuilding/Lore/Next Town B|02 Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
 # CAMPING 
@@ -399,4 +399,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Place]]
+- [[05_Templates/World Builder Templates/Template-Place|05 Templates/World Builder Templates/Template Place]]

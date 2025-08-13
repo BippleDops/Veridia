@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Random Encounters|02 Worldbuilding/Lore/Random Encounters]]
 
 
 ## Connections

@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
 
 
 ## Connections

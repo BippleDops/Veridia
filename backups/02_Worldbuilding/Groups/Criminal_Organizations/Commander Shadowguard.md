@@ -17,7 +17,7 @@ tags:
 ## Connections
 
 - [[The Shadow Trade Network]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

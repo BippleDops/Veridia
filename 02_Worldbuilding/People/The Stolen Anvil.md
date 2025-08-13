@@ -113,7 +113,7 @@ The Stolen Anvil provides excellent motivation for retrieval quests, investigati
 
 ## Connections
 
-- [[Gareth_Ironforge]]
+- [[Gareth_Ironforge|Gareth Ironforge]]
 
 
 ## Appearance
@@ -161,7 +161,7 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Stolen Anvil]]
+- [[02_Worldbuilding/People/The Stolen Anvil|02 Worldbuilding/People/The Stolen Anvil]]
 
 <!-- enriched: true -->
 iched: true -->

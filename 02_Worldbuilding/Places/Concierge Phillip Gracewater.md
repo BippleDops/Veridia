@@ -169,7 +169,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
+- [[02_Worldbuilding/Places/Concierge Phillip Gracewater|02 Worldbuilding/Places/Concierge Phillip Gracewater]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

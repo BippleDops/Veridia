@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[02_Worldbuilding/Groups/Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]]
 
 
 ## Connections

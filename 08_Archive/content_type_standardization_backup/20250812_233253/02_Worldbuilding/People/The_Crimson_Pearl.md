@@ -28,7 +28,7 @@ No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so 
 ## Background
 
 ### The Surface Tragedy
-Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[02_Worldbuilding/Places/Market_District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
+Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
 
 ### Rise to Power
 - Murdered the previous Syndicate leader in single combat
@@ -90,12 +90,12 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Occasionally share information
 - Would destroy each other if they could
 
-### [[02_Worldbuilding/People/Gareth_Ironforge]]
+### [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]
 "The dwarf's gold spends well, and he asks few questions."
 - Supplies him with rare deep metals
 - He provides surface weapons
 - Both know it's dirty but need each other
-- Connected through [[02_Worldbuilding/Quests/Aquabyssos]]
+- Connected through [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ### [[Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
@@ -184,7 +184,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 1. **The Sire:** Her vampire lord still seeks her from surface
 2. **The Haven:** Hidden in sunken ship graveyard
 3. **The Cure Research:** Has partially succeeded
-4. **The Surface Tunnel:** Direct route to [[02_Worldbuilding/Places/Market_District]]
+4. **The Surface Tunnel:** Direct route to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
 5. **The Pearl Cultivation:** Feeds pearls her blood
 6. **The Restoration Funding:** Profits from chaos
 7. **The Guard Captain:** Controls harbor security
@@ -260,7 +260,7 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The_Crimson_Pearl]]
+- [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 <!-- enriched: true -->
 

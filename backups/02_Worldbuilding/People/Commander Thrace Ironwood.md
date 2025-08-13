@@ -11,10 +11,10 @@ tags:
 - purist-coalition
 world: Aethermoor
 role: Military Commander
-affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing'
+affiliation: '[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Military Wing'
 age: '43'
 race: Human
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+location: '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
 created_by: auto-stub
 created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
@@ -31,7 +31,7 @@ updated: '2025-08-11T00:00:00+00:00'
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
 
 ## Overview
-Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Groups/Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
+Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
 
 ## Description
 - **Appearance**: Scarred, weathered man with steel-gray hair and haunted blue eyes
@@ -58,7 +58,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 ### The Conversion
 - Resigned from Crystal Wardens immediately after incident
 - Spent months in isolation, consumed by guilt and rage
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] found him and offered purpose
+- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] found him and offered purpose
 - Joined Coalition believing only total crystal destruction could prevent recurrence
 - Rose quickly through Coalition ranks due to military expertise
 
@@ -94,7 +94,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 
 ## Relationships
 ### Coalition Leadership
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
 - **[[Brother Matthias the Amber Bearer]]**: Respects his supernatural resilience
 - **[[Brother Marcus Steelbane]]**: Growing concern about his wavering commitment
 - **Coalition Moderates**: Tensions over increasingly violent methods
@@ -102,9 +102,9 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 
 ### External Relations
 - **Former Crystal Warden Colleagues**: Complex mix of guilt, anger, and residual affection
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
 - **Crystal Industry Leaders**: Prime targets for assassination or capture
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Strategic enemy controlling crystal trade
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Strategic enemy controlling crystal trade
 - **Coalition Sympathizers**: Network of supporters providing intelligence and resources
 
 ## Personal Struggles
@@ -180,7 +180,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 - Ultimately becomes the tyrannical leader he once opposed
 
 ## Connected Elements
-- Central military figure for [[02_Worldbuilding/Groups/Purist Coalition]] storylines
+- Central military figure for [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] storylines
 - Links Crystal Warden organization to Coalition through personal history
 - Represents themes of trauma, revenge, and political extremism
 - Key figure in Coalition's evolution from protesters to paramilitary force
@@ -329,7 +329,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 **Targets**: 
 - **[[Central Crystal Processing Plant]]**: Primary industrial facility
 - **[[Royal Crystal Laboratory]]**: Government research center
-- **[[02_Worldbuilding/Groups/Academy of Crystalline Art]]**: Educational institution training crystal mages
+- **[[02_Worldbuilding/Groups/Academy of Crystalline Art|02 Worldbuilding/Groups/Academy Of Crystalline Art]]**: Educational institution training crystal mages
 - **[[Silverscale Crystal Warehouses]]**: Corporate storage and distribution centers
 
 ### The Warden Recruitment
@@ -520,8 +520,8 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 
 - [[Establish the New Order]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -533,7 +533,7 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood|02 Worldbuilding/People/Commander Thrace Ironwood]]
 
 <!-- enriched: true -->
 - [[Purist Coalition]]

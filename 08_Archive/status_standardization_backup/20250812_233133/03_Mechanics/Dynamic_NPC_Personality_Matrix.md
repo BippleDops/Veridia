@@ -34,7 +34,7 @@ Generates 10,000+ NPC personalities, evolving relationships, dynamic dialogue, q
 ## Emergent Faction Switching
 - Thresholds flipped by ideology shocks and economic pressure
 
-Hooks: [[Complete Faction Warfare System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]].
+Hooks: [[Complete Faction Warfare System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]].
 
 ## Player-Facing Summary
 
@@ -58,4 +58,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Phase_Omega_Enhanced_Index]]
+- [[03_Mechanics/Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]

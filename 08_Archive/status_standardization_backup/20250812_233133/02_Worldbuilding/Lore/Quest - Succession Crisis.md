@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]
 
 
 ## Connections

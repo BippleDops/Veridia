@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-darkmantle-xmm.svg)
 
-# [Darkmantle](3-Mechanics\CLI\bestiary\aberration/darkmantle-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/darkmantle-xmm|Darkmantle]]
 *Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Darkmantle
@@ -62,7 +62,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
   - !!int "5"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": ""
@@ -70,21 +70,21 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage,\
       \ and the darkmantle attaches to the target. If the target is a Medium or smaller\
-      \ creature and the darkmantle had [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on the attack roll, it covers the target, which has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ creature and the darkmantle had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ on the attack roll, it covers the target, which has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
       \ condition and is suffocating while the darkmantle is attached in this way.\n\
       \nWhile attached to a target, the darkmantle can attack only the target but\
-      \ has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on its attack\
-      \ rolls. Its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) becomes 0,\
-      \ it can't benefit from any bonus to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+      \ has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on its attack\
+      \ rolls. Its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] becomes 0,\
+      \ it can't benefit from any bonus to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it moves with the target.\n\nA creature can take an action to try to detach\
-      \ the darkmantle from itself, doing so with a successful DC 13 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics))\
+      \ the darkmantle from itself, doing so with a successful DC 13 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
       \ check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
     "name": "Crush"
-  - "desc": "Magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md) fills\
-      \ a 15-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] fills\
+      \ a 15-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the darkmantle. This effect lasts while the darkmantle maintains\
-      \ [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) on it, up to\
+      \ [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] on it, up to\
       \ 10 minutes. Darkvision can't penetrate this area, and no light can illuminate\
       \ it."
     "name": "Darkness Aura (1/Day)"

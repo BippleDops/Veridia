@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan]]
+- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
 
 
 ## Connections

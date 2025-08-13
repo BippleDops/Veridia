@@ -34,21 +34,21 @@ world: Aquabyssos
 
 **Type:** Medical Investigation/Horror  
 **Level:** 4-8  
-**Location:** [[02_Worldbuilding/Places/Pearl_Harbor_City]], [[02_Worldbuilding/Places/Harbor District Customs House]], [[02_Worldbuilding/Places/Surface Portal Alpha]]  
+**Location:** [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]], [[02_Worldbuilding/Places/Harbor District Customs House|02 Worldbuilding/Places/Harbor District Customs House]], [[02_Worldbuilding/Places/Surface Portal Alpha|02 Worldbuilding/Places/Surface Portal Alpha]]  
 **Duration:** 3-5 sessions  
 **Threat:** Mysterious pressure-adaptation experiments threaten public health
 
-**Connected Locations:** [[02_Worldbuilding/Places/The Kelp Highway]], [[02_Worldbuilding/Places/Pressure Terminal]], [[02_Worldbuilding/Places/The Decompression Chamber]]  
-**Related Groups:** [[02_Worldbuilding/Groups/Harbor District Medical Corps]], [[02_Worldbuilding/Groups/Port Sorrow Trading Company]], [[02_Worldbuilding/Groups/The Crown Authority]]  
+**Connected Locations:** [[02_Worldbuilding/Places/The Kelp Highway|02 Worldbuilding/Places/The Kelp Highway]], [[02_Worldbuilding/Places/Pressure Terminal|02 Worldbuilding/Places/Pressure Terminal]], [[02_Worldbuilding/Places/The Decompression Chamber|02 Worldbuilding/Places/The Decompression Chamber]]  
+**Related Groups:** [[02_Worldbuilding/Groups/Harbor District Medical Corps|02 Worldbuilding/Groups/Harbor District Medical Corps]], [[02_Worldbuilding/Groups/Port Sorrow Trading Company|02 Worldbuilding/Groups/Port Sorrow Trading Company]], [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]  
 **Key Themes:** Medical ethics, pressure adaptation science, surface disease contamination, corporate corruption
 
 ## Quest Overview
 
-Dr. Siphon Gillwater is a renowned pressure adaptation specialist who operates the most advanced depth adjustment clinic in [[02_Worldbuilding/Places/Pearl_Harbor_City]]. His revolutionary treatments have helped thousands of citizens adapt to different depths safely, making deep-sea exploration and surface contact possible for ordinary Aquabyssos residents. However, recent reports suggest that something has gone terribly wrong with the doctor's latest experiments.
+Dr. Siphon Gillwater is a renowned pressure adaptation specialist who operates the most advanced depth adjustment clinic in [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]. His revolutionary treatments have helped thousands of citizens adapt to different depths safely, making deep-sea exploration and surface contact possible for ordinary Aquabyssos residents. However, recent reports suggest that something has gone terribly wrong with the doctor's latest experiments.
 
 Patients who received Dr. Gillwater's newest pressure adaptation treatments have begun developing horrifying symptoms: their bodies spontaneously adjusting to extreme pressures without conscious control, causing them to literally explode when exposed to normal atmospheric conditions, or collapse into themselves when pressure decreases unexpectedly. Some victims have been found with their internal organs rearranged to accommodate impossible pressure differentials, still alive but fundamentally transformed.
 
-[[02_Worldbuilding/People/Harbor Master Luna Freedrift]] has received increasingly desperate reports from families whose loved ones have become unrecognizable after visiting Dr. Gillwater's clinic. The doctor himself has become increasingly reclusive, dismissing concerns and claiming his treatments are "evolutionary breakthroughs" that will revolutionize Aquabyssos society. Strange deliveries arrive at his clinic during the night, and employees speak in hushed tones about "specimen preservation" and "adaptive enhancement protocols."
+[[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]] has received increasingly desperate reports from families whose loved ones have become unrecognizable after visiting Dr. Gillwater's clinic. The doctor himself has become increasingly reclusive, dismissing concerns and claiming his treatments are "evolutionary breakthroughs" that will revolutionize Aquabyssos society. Strange deliveries arrive at his clinic during the night, and employees speak in hushed tones about "specimen preservation" and "adaptive enhancement protocols."
 
 The party is recruited to investigate Dr. Gillwater's methods, determine whether his experiments are legitimate medical research or dangerous mad science, and protect the public from further harm while navigating the complex politics of medical regulation in a society where pressure adaptation is literally a matter of life and death.
 
@@ -314,6 +314,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dr. Siphon Gillwater]]
+- [[02_Worldbuilding/Places/Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]]
 
 <!-- enriched: true -->

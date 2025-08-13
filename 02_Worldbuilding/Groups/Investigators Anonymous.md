@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
 
 
 ## Connections

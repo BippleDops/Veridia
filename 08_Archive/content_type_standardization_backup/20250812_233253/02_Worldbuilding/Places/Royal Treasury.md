@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Treasury]]
+- [[02_Worldbuilding/Places/Royal Treasury|02 Worldbuilding/Places/Royal Treasury]]
 
 <!-- enriched: true -->
 

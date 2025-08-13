@@ -33,7 +33,7 @@ world: Dimensional Nexus (Both Realms)
 *The Nexus of Worlds, Where All Realities Meet*
 
 ## Overview
-The Floating Market exists in a carefully maintained dimensional pocket that touches both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
+The Floating Market exists in a carefully maintained dimensional pocket that touches both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
 
 ## Physical Description
 ### The Market Structure
@@ -693,7 +693,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **[[Treaty of Neutral Commerce]]**: Legal foundation for market's existence
 - **[[The Portal Wars]]**: Past conflict over control of dimensional gateways
 - **[[Unity Festival]]**: Annual celebration of inter-realm cooperation
-- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]**: Formal embassy district connected to market
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]]**: Formal embassy district connected to market
 - **[[The Exchange Rate Wars]]**: Economic conflicts over currency valuation
 - **[[Inter-Realm Courier Network]]**: Communication system linking both realms through market
 
@@ -819,7 +819,7 @@ The market maintains its neutral status through a complex system of dimensional 
 - [[The Free Current]]
 - [[The Neutral Ground]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -837,6 +837,6 @@ Legends speak of The Floating Market as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/The Floating Market|02 Worldbuilding/Places/The Floating Market]]
 
 <!-- enriched: true -->

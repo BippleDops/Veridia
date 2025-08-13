@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Corallion|02 Worldbuilding/Lore/Corallion]]
 
 
 ## Connections

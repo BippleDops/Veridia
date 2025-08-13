@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-xphb-elemental-spirit-xphb.svg)
 
-# [Elemental Spirit](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-xphb.md)
+# [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-xphb|Elemental Spirit]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -45,9 +45,9 @@ world: Both
   \ ft. (Water only)"
 "damage_resistances": "lightning, thunder (Air only)"
 "damage_immunities": "poison; fire (Fire only)"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":

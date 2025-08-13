@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster Sterling Suppystone]]
+- [[02_Worldbuilding/Places/Quartermaster Sterling Suppystone|02 Worldbuilding/Places/Quartermaster Sterling Suppystone]]
 
 <!-- enriched: true -->
 

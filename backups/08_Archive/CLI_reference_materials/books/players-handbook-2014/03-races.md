@@ -95,15 +95,15 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world. In the Dragonlance campaign setting, for example, mountain dwarves and hill dwarves live together as different clans of the same people, but in the Forgotten Realms, they live far apart in separate kingdoms and call themselves shield dwarves and gold dwarves, respectively.
 
-- [Dragonborn](/03_Mechanics/CLI/races/dragonborn-xphb.md)  
-- [Dwarf](/03_Mechanics/CLI/races/dwarf-xphb.md)  
-- [Elf](/03_Mechanics/CLI/races/elf-xphb.md)  
-- [Gnome](/03_Mechanics/CLI/races/gnome-xphb.md)  
-- [Half-Elf](/03_Mechanics/CLI/races/half-elf.md)  
-- [Half-Orc](/03_Mechanics/CLI/races/half-orc.md)  
-- [Halfling](/03_Mechanics/CLI/races/halfling-xphb.md)  
-- [Human](/03_Mechanics/CLI/races/human-xphb.md)  
-- [Tiefling](/03_Mechanics/CLI/races/tiefling-xphb.md)
+- [[/03_Mechanics/CLI/races/dragonborn-xphb|Dragonborn]]  
+- [[/03_Mechanics/CLI/races/dwarf-xphb|Dwarf]]  
+- [[/03_Mechanics/CLI/races/elf-xphb|Elf]]  
+- [[/03_Mechanics/CLI/races/gnome-xphb|Gnome]]  
+- [[/03_Mechanics/CLI/races/half-elf|Half-Elf]]  
+- [[/03_Mechanics/CLI/races/half-orc|Half-Orc]]  
+- [[/03_Mechanics/CLI/races/halfling-xphb|Halfling]]  
+- [[/03_Mechanics/CLI/races/human-xphb|Human]]  
+- [[/03_Mechanics/CLI/races/tiefling-xphb|Tiefling]]
 
 ## Player-Facing Summary
 

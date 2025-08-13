@@ -23,10 +23,10 @@ locations_visited:
 - '[[The Convergence Point]]'
 - '[[Tidal Chambers]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
 - '[[Shadow Nyx]]'
 - '[[The Real Marina]]'
-- '[[02_Worldbuilding/People/The Scattered Emperor]] (United)'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] (United)'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -83,9 +83,9 @@ High tide triggers the Shadow Harvest as hundreds of shadows converge on the Ref
 - [[The Shadow Duchess Duel]] - Nyx vs Shadow Nyx
 
 ### Critical NPCs
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Original, fighting her shadow
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Original, fighting her shadow
 - [[Shadow Nyx]] - The evolution, leading harvest
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Considering reunification
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Considering reunification
 - [[The Real Marina]] - Exhausted from shadow battle
 
 ## Session Timeline
@@ -412,7 +412,7 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

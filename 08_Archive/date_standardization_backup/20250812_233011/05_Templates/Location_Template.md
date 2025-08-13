@@ -13,7 +13,7 @@ created_by: YOUR_NAME
 created: 2025-08-11
 updated: '2025-08-13T04:22:10.911458+00:00'
 location_type: TYPE (e.g., City, Dungeon, Wilderness)
-parent_location: '[[Parent_Location_Name]]'
+parent_location: '[[Parent_Location_Name|Parent Location Name]]'
 depth: Surface/Shallow/Medium/Deep/Abyss
 danger_level: 1-6
 population: ~NUMBER and demographics

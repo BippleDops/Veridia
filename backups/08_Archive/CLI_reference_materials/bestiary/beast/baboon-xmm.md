@@ -26,12 +26,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-baboon-xmm-baboon-xmm.svg)
 
-# [Baboon](3-Mechanics\CLI\bestiary\beast/baboon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/baboon-xmm|Baboon]]
 *Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Baboon (XMM)"
@@ -54,9 +54,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The baboon has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The baboon has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the baboon's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

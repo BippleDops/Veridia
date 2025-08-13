@@ -414,8 +414,8 @@ The Moonwhisper Archives connect to numerous important elements throughout Aethe
 - [[Captain Lyanna Brightshield]]
 - [[Crystalhaven]]
 - [[Port Meridian]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -437,6 +437,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
+- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper|02 Worldbuilding/Places/Keeper Elara Moonwhisper]]
 
 <!-- enriched: true -->

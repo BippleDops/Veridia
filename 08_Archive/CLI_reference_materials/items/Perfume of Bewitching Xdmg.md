@@ -27,7 +27,7 @@ world: Both
 
 
 
-This tiny vial contains magic perfume, enough for one use. You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on all Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception) and [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) checks made to influence a creature within 5 feet of yourself.
+This tiny vial contains magic perfume, enough for one use. You can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on all Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]] and [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) checks made to influence a creature within 5 feet of yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 284*
 

@@ -51,7 +51,7 @@ Each Star-Bearer oversees a different aspect of the Order and is identified by a
 2. **War-Star [[Brother Pelagios Irondeep]]**: Military training and strategy  
 3. **Keeper-Star [[Sister Benthos Scrollheart]]**: Knowledge and archives
 4. **Builder-Star [[Master Craftsman Hydros]]**: Observatories and equipment
-5. **Depth-Star [[02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke]]**: Spiritual guidance and rituals
+5. **Depth-Star [[02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke|02 Worldbuilding/Groups/Chaplain Abyssos The Deepseeke]]**: Spiritual guidance and rituals
 6. **Surface-Star [[Ambassador Marina Tidecaller]]**: Relations with other factions
 7. **Void-Star [[The Unnamed Watcher]]**: Hadean Depth missions and secrets
 
@@ -251,4 +251,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]

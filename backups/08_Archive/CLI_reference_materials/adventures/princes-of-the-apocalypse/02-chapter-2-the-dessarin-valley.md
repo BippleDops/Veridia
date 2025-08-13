@@ -143,8 +143,8 @@ Here follow brief descriptions of important locations in town. Buildings shown o
 Many of the locations in town feature information about the "Trouble in Red Larch" storyline (for 1st-level characters) or the "Rumors of Evil" storyline (for characters ready to investigate the cult of Elemental Evil). Just ignore the leads and clues that aren't relevant to the part of the adventure you're running now. You can assume that the Believers decide to keep a low profile as long as adventurers are asking questions about the missing delegation from Mirabar, or that the delegation hasn't arrived in the area yet if the adventurers begin with the local troubles.
 
 > [!gallery]
-> ![Map 2.1: Red Larch](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/014-02-02.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/015-poa1.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/014-02-02.webp#gallery|Map 2.1: Red Larch]]
+> ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/015-poa1.webp#gallery|Player Version]]
 
 #### 1. Allfaiths Shrine
 
@@ -154,7 +154,7 @@ The Allfaiths Shrine is a wayside shrine used by many faiths and owned by none. 
 
 ##### Key NPCs
 
-Right now, Imdarr Relvaunder (male Damaran human [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), a follower of Tempus, and Lymmura Auldarhk (female Tethyrian human [acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)), a devotee of Sune, are serving at the shrine. Imdarr is a stern man who is keenly interested in news and rumors and visitors. He's also an ally of the Order of the Gauntlet, occasionally passing messages and sending reports on local events to the order. Lymmura is a sympathetic ear and guide to all. She has been coming to the shrine for decades, has officiated at the marriages of many couples, and is widely loved and trusted in Red Larch.
+Right now, Imdarr Relvaunder (male Damaran human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]]), a follower of Tempus, and Lymmura Auldarhk (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]), a devotee of Sune, are serving at the shrine. Imdarr is a stern man who is keenly interested in news and rumors and visitors. He's also an ally of the Order of the Gauntlet, occasionally passing messages and sending reports on local events to the order. Lymmura is a sympathetic ear and guide to all. She has been coming to the shrine for decades, has officiated at the marriages of many couples, and is widely loved and trusted in Red Larch.
 
 #### 2. The Swinging Sword
 
@@ -168,9 +168,9 @@ While the Helm at Highsun is the place to hear Red Larchers unwind, the Swinging
 
 ##### Key NPCs
 
-The proprietor of the Swinging Sword is Kaylessa Irkell (female Illuskan human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). She is the fortyish matriarch of her family and a pleasant, sturdy woman. She is increasingly worried about "what's gathering in the dark" in Red Larch and brings up her concerns with any likely adventurers who stop by (see "Kaylessa's Tale," below).
+The proprietor of the Swinging Sword is Kaylessa Irkell (female Illuskan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]). She is the fortyish matriarch of her family and a pleasant, sturdy woman. She is increasingly worried about "what's gathering in the dark" in Red Larch and brings up her concerns with any likely adventurers who stop by (see "Kaylessa's Tale," below).
 
-Kaylessa's staff are uniformly attentive and good at their work. However, two have secret masters. Ghileeda (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a maid, secretly reports to Justran Daehl at the Helm for the Cult of the Crushing Wave. The one-eyed stablemaster Iraun Thelder (male Tethyrian human [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)), a onetime mercenary warrior, is a spy for the Cult of the Howling Hatred. Iraun is entirely passive; he just reports what his normal duties show him.
+Kaylessa's staff are uniformly attentive and good at their work. However, two have secret masters. Ghileeda (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a maid, secretly reports to Justran Daehl at the Helm for the Cult of the Crushing Wave. The one-eyed stablemaster Iraun Thelder (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guard]]), a onetime mercenary warrior, is a spy for the Cult of the Howling Hatred. Iraun is entirely passive; he just reports what his normal duties show him.
 
 ##### Kaylessa's Tale
 
@@ -180,7 +180,7 @@ Kaylessa has also noticed some Red Larchers looking both frightened and furtive,
 
 ##### Rumors of Evil
 
-Among the guests at the Swinging Sword is Brother Eardon (male half-elf [acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)), a follower of Lathander, god of the dawn. Brother Eardon roams across the small towns of the North, serving as a messenger and itinerant priest. He recently came from Beliard by way of Westbridge, and he can confirm that the delegation from Mirabar was in Beliard two tendays ago when he left. He is surprised by the fact that the dwarves have not turned up yet, since he thought they intended to stop in Red Larch soon.
+Among the guests at the Swinging Sword is Brother Eardon (male half-elf [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]), a follower of Lathander, god of the dawn. Brother Eardon roams across the small towns of the North, serving as a messenger and itinerant priest. He recently came from Beliard by way of Westbridge, and he can confirm that the delegation from Mirabar was in Beliard two tendays ago when he left. He is surprised by the fact that the dwarves have not turned up yet, since he thought they intended to stop in Red Larch soon.
 
 ##### Trouble in Red Larch
 
@@ -198,15 +198,15 @@ The Helm gets rowdy from time to time, but the staff is ready for ordinary drunk
 
 ##### Key NPCs
 
-The Helm is run by the jovial but grasping Garlen Harlathurl (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). He is a cynic bitter from failed Waterdhavian mercantile ventures, but he has turned out to be an attentive tavern-keeper. He has two partners: one has retired to Waterdeep, and the other is the cellarer of the Helm, the gruff and rotund Justran Daehl (male Tethyrian human [bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)). Justran is secretly a spy for the Cult of the Crushing Wave.
+The Helm is run by the jovial but grasping Garlen Harlathurl (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]). He is a cynic bitter from failed Waterdhavian mercantile ventures, but he has turned out to be an attentive tavern-keeper. He has two partners: one has retired to Waterdeep, and the other is the cellarer of the Helm, the gruff and rotund Justran Daehl (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandit]]). Justran is secretly a spy for the Cult of the Crushing Wave.
 
 ##### Rumors of Evil
 
-One of the tavern denizens is a very drunk and argumentative caravan guard named Zomith (female half-orc [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)). She recently quit a caravan that came from Beliard through Westbridge, arriving in Red Larch two days ago. The caravan continued south without Zomith, but she can confirm that she brawled with Mirabarran guards from the missing delegation about fifteen days ago. She couldn't care less what happened to them, but she had nothing to do with their disappearance.
+One of the tavern denizens is a very drunk and argumentative caravan guard named Zomith (female half-orc [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guard]]). She recently quit a caravan that came from Beliard through Westbridge, arriving in Red Larch two days ago. The caravan continued south without Zomith, but she can confirm that she brawled with Mirabarran guards from the missing delegation about fifteen days ago. She couldn't care less what happened to them, but she had nothing to do with their disappearance.
 
 ##### Trouble in Red Larch
 
-Stannor Thistlehair (male lightfoot halfling [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is a carpenter who works at Waelvur's Wagonworks (area 16). Stannor is a sneaky and unpleasant fellow, but if bribed to talk (10 gp would do the job), he tells the characters that he's seen his boss Ilmeth Waelvur disappear into a hidden tunnel in the back of the work yard. He's also seen other people sneak in after dark and follow Ilmeth to wherever they go, although everyone else shows up hooded or masked.
+Stannor Thistlehair (male lightfoot halfling [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is a carpenter who works at Waelvur's Wagonworks (area 16). Stannor is a sneaky and unpleasant fellow, but if bribed to talk (10 gp would do the job), he tells the characters that he's seen his boss Ilmeth Waelvur disappear into a hidden tunnel in the back of the work yard. He's also seen other people sneak in after dark and follow Ilmeth to wherever they go, although everyone else shows up hooded or masked.
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/016-poa02-03.webp#center)
 
@@ -216,13 +216,13 @@ This three-story, dilapidated boarding house has many balconies and outside stai
 
 ##### Key NPCs
 
-The boarding house is the home of its owner and proprietor, the rail-thin, pipe-smoking "Mother" Yalantha Dreen (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). Mother Yalantha lives in a cramped ground-floor room at the very back, and most of the other twenty rooms are occupied by transient laborers. However, there are usually four or five rooms that can provide an overflow for the inn if the need arises.
+The boarding house is the home of its owner and proprietor, the rail-thin, pipe-smoking "Mother" Yalantha Dreen (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]). Mother Yalantha lives in a cramped ground-floor room at the very back, and most of the other twenty rooms are occupied by transient laborers. However, there are usually four or five rooms that can provide an overflow for the inn if the need arises.
 
 All of the residents have seen (or claim to have seen, at any rate) "brigands" lurking around Red Larch at night, not to mention monsters ranging from snake-headed rats to ghostly dragons that faded away when approached. (If you're looking for NPCs to deliver more fanciful and outrageous rumors, the denizens of Mother Yalantha's boarding house are perfect.)
 
 ##### Trouble in Red Larch
 
-Six of the guests staying here are watchers for the Cult of the Black Earth (equivalent to [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)). They are the stone-masked folk who have been watching over the quarry by night, and the so-called Bringers of Woe who appear in area T7 of the Tomb of Moving Stones (they rush down to the tunnels when they hear that adventurers have discovered the hidden chambers). They don't admit any involvement and aren't foolish enough to hide their masks at the boarding house.
+Six of the guests staying here are watchers for the Cult of the Black Earth (equivalent to [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]]). They are the stone-masked folk who have been watching over the quarry by night, and the so-called Bringers of Woe who appear in area T7 of the Tomb of Moving Stones (they rush down to the tunnels when they hear that adventurers have discovered the hidden chambers). They don't admit any involvement and aren't foolish enough to hide their masks at the boarding house.
 
 #### 5. Thelorn's Safe Journeys
 
@@ -232,7 +232,7 @@ No one here is interested in gossiping during shift time. There is a no-nonsense
 
 ##### Key NPCs
 
-The burly Thorsk Thelorn and the taller but thinner Asdan Thelorn (both male Illuskan human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) are the bosses here. They are fair, hard-working men who pay well to keep good workers.
+The burly Thorsk Thelorn and the taller but thinner Asdan Thelorn (both male Illuskan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) are the bosses here. They are fair, hard-working men who pay well to keep good workers.
 
 ##### Rumors of Evil
 
@@ -246,7 +246,7 @@ Owned by its founder's granddaughter, who oversees a skilled staff of three full
 
 ##### Key NPCs
 
-Phaendra Chansyrl (female Tethyrian human [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) wears carved and stamped leather armor of her own making as a sort of walking advertisement. With the sharp knives, awls, and punches she wears in custom sheaths at her belt and strapped to her arms and legs, she looks like an adventurer. She has idle dreams of traveling the North and slaying dragons, but she is far more interested in building a mercantile empire and outgrowing Red Larch someday.
+Phaendra Chansyrl (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scout]]) wears carved and stamped leather armor of her own making as a sort of walking advertisement. With the sharp knives, awls, and punches she wears in custom sheaths at her belt and strapped to her arms and legs, she looks like an adventurer. She has idle dreams of traveling the North and slaying dragons, but she is far more interested in building a mercantile empire and outgrowing Red Larch someday.
 
 Phaendra has heard many tales of brigands and monster sightings and mysterious stone-masked watchers by night, but she ignores them, attending to her work. She sharply advises others to do so, too.
 
@@ -262,9 +262,9 @@ The clothing, boots, and accessories are all fine, warm, and sturdy, even though
 
 ##### Key NPCs
 
-Helvur Tarnlar (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is a snob by the standards of Red Larch. He puts on airs of gentility, haughtily explaining to customers that "This is how aristocrats wear their boots in Neverwinter," or "Hats such as this are all the rage in Silverymoon," even though he has never been to those places. He refuses to speculate about local events, saying, "Tarnlars do not deal in gossip!" However, Helvur puts aside his pretentiousness and unwillingness to share information for any member of the Lords' Alliance. He directs most inquiries to his wife Maegla.
+Helvur Tarnlar (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is a snob by the standards of Red Larch. He puts on airs of gentility, haughtily explaining to customers that "This is how aristocrats wear their boots in Neverwinter," or "Hats such as this are all the rage in Silverymoon," even though he has never been to those places. He refuses to speculate about local events, saying, "Tarnlars do not deal in gossip!" However, Helvur puts aside his pretentiousness and unwillingness to share information for any member of the Lords' Alliance. He directs most inquiries to his wife Maegla.
 
-Maegla (female Turami human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is the true talent in the family. She is a sharp businesswoman who has an eye for good merchandise. She is also the mother of four bold and adventurous children. She also helps those who serve the interests of the Lords' Alliance.
+Maegla (female Turami human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is the true talent in the family. She is a sharp businesswoman who has an eye for good merchandise. She is also the mother of four bold and adventurous children. She also helps those who serve the interests of the Lords' Alliance.
 
 ##### Trouble in Red Larch
 
@@ -278,7 +278,7 @@ The bakery always has fresh round loaves and buns for sale. Its specialty is che
 
 ##### Key NPC
 
-The thin, energetic proprietor, Mangobarl Lorren (male Chondathan human [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), thrives on gossip and can spin many wild tales. Few are true, and none of the secrets are his own. He is a staunch, discreet ally of the Zhentarim and a useful source of no-questions-asked aid to anyone of that faction. Lorren doesn't volunteer this information, but some of his distant relatives have Zhentarim connections, and he's always willing to help the Black Network.
+The thin, energetic proprietor, Mangobarl Lorren (male Chondathan human [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thug]]), thrives on gossip and can spin many wild tales. Few are true, and none of the secrets are his own. He is a staunch, discreet ally of the Zhentarim and a useful source of no-questions-asked aid to anyone of that faction. Lorren doesn't volunteer this information, but some of his distant relatives have Zhentarim connections, and he's always willing to help the Black Network.
 
 ##### Trouble in Red Larch
 
@@ -286,7 +286,7 @@ Mangobarl heard about Pell Mhandyvver's scare at the Haunted Tomb (see the "Haun
 
 #### 9. Tantur Smithy
 
-Both ends of this soot-stained building are massive stone blocks that rise into tall, wide chimneys. The din of forge hammers rings out late into most nights. Eldras Tantur (male Turami human [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) has been Red Larch's blacksmith for a decade and a half and has taken only a handful of days off work in all that time. Eldras and his children—a strapping son and two strong daughters—are skilled smiths who can make almost anything that requires no specialized alloys or treatments. They can temper swords and reinforce armor, and they often repair tools and weapons.
+Both ends of this soot-stained building are massive stone blocks that rise into tall, wide chimneys. The din of forge hammers rings out late into most nights. Eldras Tantur (male Turami human [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thug]]) has been Red Larch's blacksmith for a decade and a half and has taken only a handful of days off work in all that time. Eldras and his children—a strapping son and two strong daughters—are skilled smiths who can make almost anything that requires no specialized alloys or treatments. They can temper swords and reinforce armor, and they often repair tools and weapons.
 
 The Tanturs rarely emerge from their smithy. They work all day long every day filling endless orders for hasps, hinges, locks, and chains, plus hardware for wagons such as cotter pins, bolt rings, wheel rims, and wheel hubs.
 
@@ -304,13 +304,13 @@ The one-story building is long, narrow, and nondescript on the outside, but the 
 
 ##### Key NPC
 
-The proprietor and owner, Nahaeliya Drouth (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), has built up her business by becoming a trusted supplier to inns across the valley. She prefers not to know about "the dangers of the wilderlands" and "such nonsense as dark magic." Nahaeliya inherited the business from her father, who was a respected town elder, but she hasn't yet been approached for membership in the Believers.
+The proprietor and owner, Nahaeliya Drouth (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), has built up her business by becoming a trusted supplier to inns across the valley. She prefers not to know about "the dangers of the wilderlands" and "such nonsense as dark magic." Nahaeliya inherited the business from her father, who was a respected town elder, but she hasn't yet been approached for membership in the Believers.
 
 #### 11. Jalessa Ornra, Butcher
 
-Next door to Drouth's Fine Poultry stand four identical single-story stone buildings, running back from the street in a line. The front building has a painted sign of a ham being carved by a cleaver, accompanied by no words. This is the workplace and shop of Jalessa Ornra (female Illuskan human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), Red Larch's butcher. The second building is her smokehouse, joined to the shop by an underground cold-cellar where meats are stored. The third building often has wash hanging by clothesline outside, and is the home Jalessa shares with the town's constable, Harburk Tuthmarillar (male Tethyrian human [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)).
+Next door to Drouth's Fine Poultry stand four identical single-story stone buildings, running back from the street in a line. The front building has a painted sign of a ham being carved by a cleaver, accompanied by no words. This is the workplace and shop of Jalessa Ornra (female Illuskan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), Red Larch's butcher. The second building is her smokehouse, joined to the shop by an underground cold-cellar where meats are stored. The third building often has wash hanging by clothesline outside, and is the home Jalessa shares with the town's constable, Harburk Tuthmarillar (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]]).
 
-Red Larch doesn't have a jail or court. The shop is the closest thing. Harburk employs four trusties, who bunk in the fourth building. The trusties are assistant constables (human [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) who also work for Jalessa as cutters and preservers, brining and salting meat, then sealing it into small kegs for shipment or storage.
+Red Larch doesn't have a jail or court. The shop is the closest thing. Harburk employs four trusties, who bunk in the fourth building. The trusties are assistant constables (human [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]]) who also work for Jalessa as cutters and preservers, brining and salting meat, then sealing it into small kegs for shipment or storage.
 
 Harburk and his trusties discuss matters of law enforcement and peacekeeping while butchering. They've also been known to hang drunks by their belts from meat hooks to sober up.
 
@@ -326,7 +326,7 @@ Harburk has heard tales of banditry on the Cairn Road south of town, and he know
 
 #### 12. Dornen Finestone
 
-This plain square building is always coated in a gray-white shroud of rock dust. It's the business office of the busy Dornen quarry, run by Elak Dornen (male Tethyrian human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). The office displays samples of cut stone as well as "raw" samples from the quarry. Records of orders and old employment rolls are neatly sorted in cabinets behind a wooden counter. Dornen is a hard master to some twenty workers, and he insists on keeping careful records.
+This plain square building is always coated in a gray-white shroud of rock dust. It's the business office of the busy Dornen quarry, run by Elak Dornen (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]). The office displays samples of cut stone as well as "raw" samples from the quarry. Records of orders and old employment rolls are neatly sorted in cabinets behind a wooden counter. Dornen is a hard master to some twenty workers, and he insists on keeping careful records.
 
 ##### Key NPC
 
@@ -338,7 +338,7 @@ Dornan is an eager convert to the message of the Black Earth priest Larrakh. He 
 
 #### 13. Ironhead Arms
 
-Three years ago, an old sellsword and caravan guard by the name of Feng Ironhead decided to settle in Red Larch and open a shop dealing in arms and armor, both new and used. Over a long career of shepherding caravans and pack trains from one end of the North to the other, Ironhead (male half-orc [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) decided that there was money to be made by keeping guards-for-hire and mercenaries supplied with decent, affordable gear.
+Three years ago, an old sellsword and caravan guard by the name of Feng Ironhead decided to settle in Red Larch and open a shop dealing in arms and armor, both new and used. Over a long career of shepherding caravans and pack trains from one end of the North to the other, Ironhead (male half-orc [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]]) decided that there was money to be made by keeping guards-for-hire and mercenaries supplied with decent, affordable gear.
 
 ##### Key NPCs
 
@@ -348,7 +348,7 @@ Ironhead is a surprisingly genial half-orc. He has a little skill at weapon and 
 
 This wooden building grew haphazardly for many years, shooting out single-story wings and annexes untidily in all directions. The interior looks like a barn or attic, with exposed beams and posts. Pens with live chickens fill most of the odd corners and halls of the building, leaving only a narrow aisle down to the back, where the Mhandyvvers live. Their rooms are separated from the chicken pens by a workroom with cutting benches and a central hearth.
 
-Mhandyvver's is the less impressive of the two local poulterers, but is a favorite with Red Larchers. Kindly old Minthra "Minny" Mhandyvver (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) and her three grown children sell chickens live or roasted and preserved in oil, pickled chicken livers, and eggs both fresh and pickled.
+Mhandyvver's is the less impressive of the two local poulterers, but is a favorite with Red Larchers. Kindly old Minthra "Minny" Mhandyvver (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) and her three grown children sell chickens live or roasted and preserved in oil, pickled chicken livers, and eggs both fresh and pickled.
 
 ##### Key NPC
 
@@ -360,7 +360,7 @@ Recently, Minny's adventurous young granddaughter Pell had a frightening encount
 
 #### 15. Haeleeya's
 
-Originally from Amn, Haeleeya Hanadroum (female human Tethyrian [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) operates a bathhouse and dress shop in her large, well-appointed home. Half-barrels planted with aromatic herbs and flowers flank the entrance, and the windows are decorated with flower-filled window boxes. Inside is a tidy room that functions as a dressmaker's shop and fitting room. Beyond two sets of doors are bathing chambers that emanate pleasant smells and warm dampness.
+Originally from Amn, Haeleeya Hanadroum (female human Tethyrian [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) operates a bathhouse and dress shop in her large, well-appointed home. Half-barrels planted with aromatic herbs and flowers flank the entrance, and the windows are decorated with flower-filled window boxes. Inside is a tidy room that functions as a dressmaker's shop and fitting room. Beyond two sets of doors are bathing chambers that emanate pleasant smells and warm dampness.
 
 Unlike Tarnlar's down the street, Haeleeya's caters to local women seeking dresses for special occasions; she makes few garments for men. The bathhouse is a steadier business, since many of the older women of Red Larch visit the baths regularly to trade gossip.
 
@@ -370,7 +370,7 @@ Haeleeya hears all the gossip shared in the baths, but she keeps her own counsel
 
 #### 16. Waelvur's Wagonworks
 
-Ilmeth Waelvur (male Tethyrian human [bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)) operates a cheaper alternative to Thelorn's Safe Journeys, making and selling replacement wheels and axles for wagons. The workshop is a cluttered, untidy shed surrounded by dozens of wagons shrouded in worn canvas tarpaulins. A crudely hand-lettered sign over the wide main door proclaims this to be "Waelvur's Wagonworks." Ilmeth spends most of his time repairing wagons and making heavy-duty wagons and sledges for the local quarries.
+Ilmeth Waelvur (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandit]]) operates a cheaper alternative to Thelorn's Safe Journeys, making and selling replacement wheels and axles for wagons. The workshop is a cluttered, untidy shed surrounded by dozens of wagons shrouded in worn canvas tarpaulins. A crudely hand-lettered sign over the wide main door proclaims this to be "Waelvur's Wagonworks." Ilmeth spends most of his time repairing wagons and making heavy-duty wagons and sledges for the local quarries.
 
 Inside, half a dozen wagons stand in various stages of assembly, surrounded by stools, ladders, and benches. Wooden pillars support a loft that is an open latticework of boards, serving as home to some birds and storage for scores of wooden wagon wheels. Ilmeth employs half a dozen laborers who drink heavily as they work. Everything here is far messier but far cheaper than Thelorn's.
 
@@ -384,7 +384,7 @@ The halfling Stannor Thistlehair, one of the workers here, has spotted Ilmeth an
 
 #### 17. Gaelkur's
 
-This seedy wooden building serves as Red Larch's used tools and goods shop, its barber, and an unofficial second tavern for locals. Inside is a cluttered shop full of lounging customers—most of them men in no particular hurry to be waited on—with old hair clippings trodden underfoot on the sagging board floor. Marlandro Gaelkur (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is the shopkeeper and barber. In addition to providing grooming, he deals in used (and sometimes shady) items with no questions asked.
+This seedy wooden building serves as Red Larch's used tools and goods shop, its barber, and an unofficial second tavern for locals. Inside is a cluttered shop full of lounging customers—most of them men in no particular hurry to be waited on—with old hair clippings trodden underfoot on the sagging board floor. Marlandro Gaelkur (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is the shopkeeper and barber. In addition to providing grooming, he deals in used (and sometimes shady) items with no questions asked.
 
 Gaelkur's true trade is unsuspected by other Red Larchers. He runs the shop as a front for his counterfeiting business. Gaelkur coats cheap coins (or simple iron plugs) in thin plating of more valuable metals, then marks them appropriately with stamps and dies of his own making.
 
@@ -394,11 +394,11 @@ Marlandro is a skilled engraver and was once a jeweler's assistant in Baldur's G
 
 ##### Rumors of Evil
 
-Larmon Greenboot (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a local shepherd, can be found at Gaelkur's. He has been telling and retelling the story of finding mysterious freshly dug graves in the Sumber Hills (see "Rumors in Red Larch" in chapter 3).
+Larmon Greenboot (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a local shepherd, can be found at Gaelkur's. He has been telling and retelling the story of finding mysterious freshly dug graves in the Sumber Hills (see "Rumors in Red Larch" in chapter 3).
 
 #### 18. Mellikho Stoneworks
 
-A sign set on two posts in a scrap of weedy lawn out front of this small house reads "Mellikho Stoneworks." The quarry pit begins just behind the house, which serves as the business office and the home of the quarry owner, Albaeri Mellikho (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). Mellikho herself oversees the work in the quarry, cajoling and cursing the sweating stonecutters here.
+A sign set on two posts in a scrap of weedy lawn out front of this small house reads "Mellikho Stoneworks." The quarry pit begins just behind the house, which serves as the business office and the home of the quarry owner, Albaeri Mellikho (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]). Mellikho herself oversees the work in the quarry, cajoling and cursing the sweating stonecutters here.
 
 A hidden tunnel in the quarry pit leads to area T1 in the Tomb of Moving Stones (see chapter 6). Mellikho and the other Believers know about the secret entrance in the quarry, but the stonecutters working here do not (it's well disguised as a "collapsed" and abandoned storage tunnel).
 
@@ -418,7 +418,7 @@ If the characters visit the quarry and begin asking questions, Albaeri Mellikho 
 
 This former warehouse reeks with an eye-watering, throat-closing stench that obliterates all other smells within a bowshot of the place. Inside are stretching racks, cutting tables with sharp knives and scraps of tanned hide, a back room of finished leather ready for sale, and six huge, open-topped vats containing various foul-smelling, caustic liquids used in tanning.
 
-The proprietor is Ulhro Luruth (male Chondathan human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). He can't smell a thing, thanks to years of working in tanneries. He and his five loyal, terse assistants live and work here.
+The proprietor is Ulhro Luruth (male Chondathan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]). He can't smell a thing, thanks to years of working in tanneries. He and his five loyal, terse assistants live and work here.
 
 ##### Key NPC
 
@@ -426,7 +426,7 @@ Luruth is one of the Believers. He knows he's not supposed to talk with outsider
 
 #### 20. Bethendur's Storage
 
-Four identical, well-built warehouses stand here in ground covered in raked gravel and cinders. The moment anyone sets foot past the sign that says "Bethendur's Storage/Rent Space by tenday, month, or year," a tall, smiling man emerges to meet them. This is Aerego Bethendur (male Tethyrian human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). He is assisted by three burly clerks and porters, who are former mercenary thugs.
+Four identical, well-built warehouses stand here in ground covered in raked gravel and cinders. The moment anyone sets foot past the sign that says "Bethendur's Storage/Rent Space by tenday, month, or year," a tall, smiling man emerges to meet them. This is Aerego Bethendur (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]). He is assisted by three burly clerks and porters, who are former mercenary thugs.
 
 Aerego asks no questions, so anything can be stored here. Stored items that don't move or burst out of their containers are left strictly alone, though crates that begin to smell of death are taken out back and opened. If they contain dead bodies (rare, but it happens), Aerego burns them without a word to the constable or anyone else.
 
@@ -438,7 +438,7 @@ Aerego is a Believer, although his attendance is spotty and he is beginning to w
 
 This muddy, well-used field is ringed with outhouses and rings of stones that have obviously been used as cook-fires or trash burn sites many times in the past. Once a tenday, it's crowded with wagons from nearby farms. Farmers drive in from homesteads miles away to sell all manner of in-season produce, cheese, cider and cider vinegar, and last year's pickled beets in jugs.
 
-On the other nine days of the tenday, only one Red Larcher is here, a half-orc named Grund. Grund (male half-orc [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) is the village simpleton. He ekes out a living by making pickles in vats at the end of the field.
+On the other nine days of the tenday, only one Red Larcher is here, a half-orc named Grund. Grund (male half-orc [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thug]]) is the village simpleton. He ekes out a living by making pickles in vats at the end of the field.
 
 ##### Key NPC
 
@@ -448,7 +448,7 @@ Grund is a happy, dim-witted sort. The other vendors all pilfer from his open pi
 
 Aside from the bewildering profusion of doors, barrels, rotting old furniture, and tools leaning against its outside walls, this building looks like a private home. A small, faded sign on the front door reads "Vallivoe's Sundries." Rooms are crammed to the rafters with new wares and used items of all sorts.
 
-Endrith Vallivoe (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is a retired caravan merchant who sells new and used goods: furniture, lamps, carpets, mirrors, weapons, shields, helms, and a little bit of everything else. Almost anything might be available to buy here, buried under heaps of other stuff, and Vallivoe carries a good running inventory in his head. He's the only vendor in town selling blank books and parchment.
+Endrith Vallivoe (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is a retired caravan merchant who sells new and used goods: furniture, lamps, carpets, mirrors, weapons, shields, helms, and a little bit of everything else. Almost anything might be available to buy here, buried under heaps of other stuff, and Vallivoe carries a good running inventory in his head. He's the only vendor in town selling blank books and parchment.
 
 ##### Key NPC
 
@@ -506,15 +506,15 @@ Encounters marked with an asterisk have explanations that appear after the table
 
 |    |    |    |
 |----|----|----|
-| 2 | — | [Aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) scouts* |
-| — | 2 | `1d4 + 1` [jackalweres](/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md) |
+| 2 | — | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
+| — | 2 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|jackalweres]] |
 | 3 | — | Knights of Samular* |
 | 4 | 3 | Pilgrims* |
-| — | 4 | `d2` [owlbears](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) |
+| — | 4 | `d2` [[/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm|owlbears]] |
 | 5 | 5 | Elk tribe hunters* |
-| 6 | 6 | `d3` [ankhegs](/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md) |
-| 7 | 7 | `1d3 + 1` [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
-| 8 | 8 | `1d4 + 1` [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
+| 6 | 6 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm|ankhegs]] |
+| 7 | 7 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] |
+| 8 | 8 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
 | 9 | — | Dwarf miners* |
 | 10 | — | Caravan* |
 | 11 | — | Homestead* |
@@ -522,152 +522,152 @@ Encounters marked with an asterisk have explanations that appear after the table
 | 13 | 10 | Water cult marauders* |
 | 14 | 11 | Earth cult robbers* |
 | 15 | 12 | Fire cult raiders* |
-| 16 | 13 | `1d4 + 1` [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) |
+| 16 | 13 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] |
 | 17 | — | Shepherds* |
-| 18 | 14 | `1d6 + 2` [wolves](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
-| 19 | 15 | `d3` [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
-| — | 16 | `d2` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| — | 17 | `1d3 + 1` [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 20 | 18 | `d2` [perytons](/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md) |
-| — | 19 | `d3` [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) |
+| 18 | 14 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] |
+| 19 | 15 | `d3` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
+| — | 16 | `d2` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
+| — | 17 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
+| 20 | 18 | `d2` [[/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm|perytons]] |
+| — | 19 | `d3` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
 | — | 20 | The Watchful Knight* |
 
 #### River Travels
 
 |    |    |
 |----|----|
-| 2–3 | [Aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) scouts* |
+| 2–3 | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
 | 4–5 | Air cult skyriders* |
 | 6–9 | River pirates* |
 | 10–14 | Keelboat* |
-| 15–16 | `d4` [merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
-| 17–18 | `2d4` [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 19–20 | 1 [water elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
+| 15–16 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|merrow]] |
+| 17–18 | `2d4` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
+| 19–20 | 1 [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elemental]] |
 
 #### Later Travels
 
 |    |    |    |
 |----|----|----|
-| 2 | — | [Aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) war band* |
-| — | 2 | `2d6` [jackalweres](/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md) |
-| 3 | 3 | `d3` [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
-| 4 | 4 | `1d3 + 1` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 2 | — | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] war band* |
+| — | 2 | `2d6` [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|jackalweres]] |
+| 3 | 3 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|manticores]] |
+| 4 | 4 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
 | 5 | 5 | Elk tribe hunters* |
-| — | 6 | `d8` [will-o'-wisps](/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) |
+| — | 6 | `d8` [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisps]] |
 | 6 | — | Knights of Samular* |
 | 7 | — | Homestead* |
-| — | 7 | `d2` [ghasts](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md) and `1d4 + 2` [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 8 | 8 | `1d4 + 1` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
+| — | 7 | `d2` [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|ghasts]] and `1d4 + 2` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
+| 8 | 8 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
 | 9 | 9 | Air cult skyriders* |
 | 10 | 10 | Water cult raiders* |
-| 11 | 11 | `1d6 + 2` [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
+| 11 | 11 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] |
 | 12 | 12 | Fire cult war band* |
 | 13 | 13 | Earth cult marauders* |
-| 14 | 14 | `2d4` [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
+| 14 | 14 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
 | 15 | — | Caravan* |
-| — | 15 | `1d4 + 1` [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) |
+| — | 15 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
 | 16 | 16 | `2d4` mephits* |
 | 17 | — | Dwarf miners* |
-| — | 17 | `d3` [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
+| — | 17 | `d3` [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] |
 | 18 | 18 | `d3` elementals* |
-| 19 | 19 | 1 [bulette](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md) |
-| 20 | 20 | `d2` [hill giants](/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) |
+| 19 | 19 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulette]] |
+| 20 | 20 | `d2` [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|hill giants]] |
 
 ##### Aarakocra Scouts
 
-These `1d4 + 1` [aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) attack those who appear to be elemental cultists. Otherwise, the aarakocra might be helpful.
+These `1d4 + 1` [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|aarakocra]] attack those who appear to be elemental cultists. Otherwise, the aarakocra might be helpful.
 
 ##### Aarakocra War Band
 
-A war band consists of `1d6 + 3` [aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) and an [air elemental](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md). They interact like the scouts, above.
+A war band consists of `1d6 + 3` [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|aarakocra]] and an [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air elemental]]. They interact like the scouts, above.
 
 ##### Air Cult Scouts
 
-A group of scouts for the air cult consists of `1d4 + 1` [hurricanes](/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota.md) in [wingwear](/03_Mechanics/CLI/items/wingwear-pota.md). See chapter 7 for the cultists' statistics and [wingwear](/03_Mechanics/CLI/items/wingwear-pota.md) description.
+A group of scouts for the air cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricanes]] in [[/03_Mechanics/CLI/items/wingwear-pota|wingwear]]. See chapter 7 for the cultists' statistics and [[/03_Mechanics/CLI/items/wingwear-pota|wingwear]] description.
 
 ##### Air Cult Skyriders
 
-One [Feathergale knight](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) leads `d4` [skyweavers](/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota.md). They all ride [giant vultures](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md). See chapter 7 for the cultists' statistics
+One [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] leads `d4` [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweavers]]. They all ride [[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm|giant vultures]]. See chapter 7 for the cultists' statistics
 
 ##### Caravan
 
-A caravan consists of a merchant and his or her entourage heading for the nearest settlement. The group consists of `1d4 + 2` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), `2d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), and the caravan leader (a spy).
+A caravan consists of a merchant and his or her entourage heading for the nearest settlement. The group consists of `1d4 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]], and the caravan leader (a spy).
 
 ##### Dwarf Miners
 
-A band of dwarf miners consists of `1d4 + 1` shield dwarf [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) and a pugnacious leader (a shield dwarf [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)).
+A band of dwarf miners consists of `1d4 + 1` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] and a pugnacious leader (a shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thug]]).
 
 ##### Earth Cult Marauders
 
-A band of marauders for the earth cult consists of `1d4 + 1` [Black Earth guards](/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md), a [Black Earth priest](/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md), and `d4`−1 [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md). See chapter 7 for the cultists' statistics.
+A band of marauders for the earth cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]], a [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]], and `d4`−1 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]]. See chapter 7 for the cultists' statistics.
 
 ##### Earth Cult Robbers
 
-These earth cult robbers stake out spots to waylay passersby. The group consists of `1d4 + 1` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) and `d4` [Black Earth guard](/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md)s (see chapter 7).
+These earth cult robbers stake out spots to waylay passersby. The group consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guard]]s (see chapter 7).
 
 ##### Elementals
 
-A small group of elementals wanders freely. Roll a `d4` to determine the type of elementals: 1, [air](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md); 2, [earth](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md); 3, [fire](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md); 4, [water](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md).
+A small group of elementals wanders freely. Roll a `d4` to determine the type of elementals: 1, [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air]]; 2, [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth]]; 3, [[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm|fire]]; 4, [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water]].
 
 ##### Elk Tribe Hunters
 
-This group includes a [berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) and `1d4 + 1` [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md). They are hostile (see "The Uthgardt Tribes" section at the end of this chapter).
+This group includes a [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserker]] and `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]]. They are hostile (see "The Uthgardt Tribes" section at the end of this chapter).
 
 ##### Fire Cult Raiders
 
-The fire cult sends out raiders that include `2d6` [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) and an [Eternal Flame priest](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md). See chapter 7 for the cultists' statistics.
+The fire cult sends out raiders that include `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]] and an [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]]. See chapter 7 for the cultists' statistics.
 
 ##### Fire Cult War Band
 
-A war band of the fire cult consists of `d6` [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md), an [Eternal Flame priest](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md), and `d3` [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md). See chapter 7 for the cultists' statistics.
+A war band of the fire cult consists of `d6` [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], an [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]], and `d3` [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]]. See chapter 7 for the cultists' statistics.
 
 ##### Homestead
 
-The party discovers a homestead. Roll a `d6` to determine the race of the people there: 1–3, Tethyrian human; 4, Illuskan human; 5–6, halfling. A homestead consists of `d6` adult [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) and `d6`−1 noncombatant children. Residents might provide friendly adventurers with food and shelter.
+The party discovers a homestead. Roll a `d6` to determine the race of the people there: 1–3, Tethyrian human; 4, Illuskan human; 5–6, halfling. A homestead consists of `d6` adult [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] and `d6`−1 noncombatant children. Residents might provide friendly adventurers with food and shelter.
 
 ##### Keelboat
 
-A river trader's keelboat carries `1d4 + 4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (the sailors), `d4` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), and a captain (a [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)). They are willing to offer passage to adventurers heading in the same direction.
+A river trader's keelboat carries `1d4 + 4` [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] (the sailors), `d4` [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], and a captain (a [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]]). They are willing to offer passage to adventurers heading in the same direction.
 
 ##### Knights of Samular
 
-This armed patrol consists of `d4` [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) and `d4` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md). They hail from Summit Hall and offer a hearty "Well met!" to the characters.
+This armed patrol consists of `d4` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]]. They hail from Summit Hall and offer a hearty "Well met!" to the characters.
 
 ##### Mephits
 
-Several mephits travel in a pack. Roll a `d6` to determine the mephit type: 1, [dust](/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md); 2, [ice](/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md); 3, [magma](/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md); 4, [mud](/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md); 5, [smoke](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md); 6, [steam](/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md).
+Several mephits travel in a pack. Roll a `d6` to determine the mephit type: 1, [[/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm|dust]]; 2, [[/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm|ice]]; 3, [[/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm|magma]]; 4, [[/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm|mud]]; 5, [[/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm|smoke]]; 6, [[/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm|steam]].
 
 ##### Pilgrims
 
-A group of pilgrims includes `2d6` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), `1d4 + 1` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), `d4` [acolytes](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), and a [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) bound for a holy or special site. They're happy for company.
+A group of pilgrims includes `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]], `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]], and a [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] bound for a holy or special site. They're happy for company.
 
 ##### River Pirates
 
-A keelboat carries `2d4` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md), `d4` [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md), and a pirate captain (a [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)).
+A keelboat carries `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thugs]], and a pirate captain (a [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]]).
 
 ##### Shepherds
 
-A group of shepherds watch over herd animals. Roll a `d6` to determine the shepherds' race: 1–4, human; 5–6, halfling. The group consists of `d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) and `d2` leaders (scouts).
+A group of shepherds watch over herd animals. Roll a `d6` to determine the shepherds' race: 1–4, human; 5–6, halfling. The group consists of `d4` [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] and `d2` leaders (scouts).
 
 ##### The Watchful Knight
 
-Once, this [helmed horror](/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md) stood watch in the common room of the Inn of the Watchful Knight in Beliard. It chooses one character at random, advances to within 5 feet, then studies the target for several seconds. If attacked, it fights back, retreating after it loses half its hit points. Otherwise, it follows the chosen character for `d3` days, guarding its temporary master in combat. At the end of that time the helmed horror wanders off again.
+Once, this [[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm|helmed horror]] stood watch in the common room of the Inn of the Watchful Knight in Beliard. It chooses one character at random, advances to within 5 feet, then studies the target for several seconds. If attacked, it fights back, retreating after it loses half its hit points. Otherwise, it follows the chosen character for `d3` days, guarding its temporary master in combat. At the end of that time the helmed horror wanders off again.
 
 ##### Water Cult Marauders
 
-A marauder gang of the water cult consists of `2d6` [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md), a [Crushing Wave priest](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md), and `d2` [fathomers](/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota.md). See chapter 7 for the cultists' statistics.
+A marauder gang of the water cult consists of `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]], a [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and `d2` [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|fathomers]]. See chapter 7 for the cultists' statistics.
 
 ##### Water Cult Raiders
 
-A group of raiders from the water cult includes `2d6` [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md), a [Crushing Wave priest](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md), and a [one-eyed shiver](/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota.md). The leader is a [Dark Tide knight](/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota.md) mounted on a [giant crocodile](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md). See chapter 7 for the cultists' statistics.
+A group of raiders from the water cult includes `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]], a [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and a [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|one-eyed shiver]]. The leader is a [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] mounted on a [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|giant crocodile]]. See chapter 7 for the cultists' statistics.
 
 ## Valley Sites
 
 The Dessarin Valley has been a well-used highway into the heart of the Sword Coast North for an age upon an age, and it has seen the ravages of many orc hordes, the rise and fall of a dwarven kingdom, frequent bands of brigands, and much more. Adventurers exploring the Sumber Hills and vicinity might visit many sites of interest as they trek across the valley.
 
 > [!gallery]
-> ![Map 2.2: The Dessarin Valley](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/018-poa2-errata.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/019-poa2.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/018-poa2-errata.webp#gallery|Map 2.2: The Dessarin Valley]]
+> ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/019-poa2.webp#gallery|Player Version]]
 
 ### Amphail
 
@@ -685,9 +685,9 @@ Once a hilltop wayside inn, this site has become a walled community of ramshackl
 
 Bargewright Inn reeks of manure and filthy mud. It houses blacksmiths, dealers who buy and sell horses, mules, and oxen, wheelwrights, coopers, and wagonmakers. It has inns, stables, and warehouses, and two concentric rings of high protective walls with gates that are firmly closed and barred by night. (Individuals can pay stiff fees to be raised and lowered after sunset on rope-slung chairs, but nothing beyond what they can carry can pass.)
 
-Bargewright Inn fell under Zhentarim influence a few years ago. Any member or ally of that faction can find a discreet welcome (and few or low fees) within its walls. The Zhentarim spy on everyone, even each other (or as one merchant put it, "especially each other"). Bargewright Inn is ruled by a plutocracy of business owners, most of whom are in the pockets of the Zhentarim. The unofficial leader is Chalaska Muruin (female Damaran human [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), the terse, cold-eyed "Senior Sword" and master of the gate guards.
+Bargewright Inn fell under Zhentarim influence a few years ago. Any member or ally of that faction can find a discreet welcome (and few or low fees) within its walls. The Zhentarim spy on everyone, even each other (or as one merchant put it, "especially each other"). Bargewright Inn is ruled by a plutocracy of business owners, most of whom are in the pockets of the Zhentarim. The unofficial leader is Chalaska Muruin (female Damaran human [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]]), the terse, cold-eyed "Senior Sword" and master of the gate guards.
 
-The largest inn, The Old Bargewright, was recently rebuilt as a substantial stone structure with thick walls, secret passages, and private chambers separated from nearby rooms by sealed-off passages. Innkeeper Nalaskur Thaelond (male half-elf [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) keeps careful watch over who comes and goes from his inn; it's where Zhentarim meet to broker deals in commerce illicit in Waterdeep, such as smuggled goods, poisons, and certain magic.
+The largest inn, The Old Bargewright, was recently rebuilt as a substantial stone structure with thick walls, secret passages, and private chambers separated from nearby rooms by sealed-off passages. Innkeeper Nalaskur Thaelond (male half-elf [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]]) keeps careful watch over who comes and goes from his inn; it's where Zhentarim meet to broker deals in commerce illicit in Waterdeep, such as smuggled goods, poisons, and certain magic.
 
 #### Reason to Visit
 
@@ -715,13 +715,13 @@ This is the camp of Haayon the Punisher, described in the "Wrath of the Elements
 
 #### Reaver Ambush
 
-This is the camp of water cult reavers, described in the "Early Investigations" section of chapter 3. The camp is here only until the characters defeat Jolliver Grimjaw (chapter 3) or [Gar Shatterkeel](/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md) (chapter 4).
+This is the camp of water cult reavers, described in the "Early Investigations" section of chapter 3. The camp is here only until the characters defeat Jolliver Grimjaw (chapter 3) or [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] (chapter 4).
 
 ### Goldenfields
 
 Goldenfields is a huge walled temple-farm dedicated to Chauntea, the goddess of agriculture. Called "the granary of the North," it's the only reason many Northerners ever taste soft-fleshed fruit larger than bush berries. Waterdeep, Secomber, Yartar, and points beyond consume the temple's reliable output: carefully husbanded grains and dried, oil-packed, or salted foodstuffs preserved in vast storage cellars, vats, ricks, and squat stone grain-towers.
 
-Now run by Abbot Ellardin Darovik (male Tethyrian human [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), Goldenfields is a stronghold of the Emerald Enclave. Members of that faction are as welcome here as clergy of Chauntea; many of them stay for months at a time to help with the work and the vigilant defense of the farm against insects and blights, as well as would-be vandals and plunderers. Hired adventurers patrol the walls and the land immediately around them, watching for anyone approaching. More than five thousand people live and work in Goldenfields year round, farming more than twenty square miles of tillage in gangs of hard-working gardeners.
+Now run by Abbot Ellardin Darovik (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]]), Goldenfields is a stronghold of the Emerald Enclave. Members of that faction are as welcome here as clergy of Chauntea; many of them stay for months at a time to help with the work and the vigilant defense of the farm against insects and blights, as well as would-be vandals and plunderers. Hired adventurers patrol the walls and the land immediately around them, watching for anyone approaching. More than five thousand people live and work in Goldenfields year round, farming more than twenty square miles of tillage in gangs of hard-working gardeners.
 
 No guest at Goldenfields ever leaves hungry, and the farmer-priests expect that everyone should leave with "food for a tenday or more on the road, and seeds for the future beyond that."
 
@@ -777,7 +777,7 @@ Rivergard is home to a mercenary band led by "Lord of the Castle" Jolliver Grimj
 
 Northwest of Westbridge, on the forest's edge, stands Helvenblade House, the principal country estate of the Silmerhelve noble house of Waterdeep. It consists of a fortified manor, stables, a guest lodge, and two outlying hunting lodges connected by grass paths that enclose a food and herb garden and a small lawn. A large, lightly wooded hunting preserve extends for several miles from the manor.
 
-The Silmerhelves visit perhaps six times a year, and the rest of the time the sleepy estate is left to the live-in staff. Helvenblade has never been overrun by bandits or otherwise put to ruin; the servants ascribe this to its protection by the "family ghost." In reality, a secretive dragon named Umsheryoth (adult male [bronze dragon](/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md)) guards the house and has been a friend to the Silmerhelves for generations.
+The Silmerhelves visit perhaps six times a year, and the rest of the time the sleepy estate is left to the live-in staff. Helvenblade has never been overrun by bandits or otherwise put to ruin; the servants ascribe this to its protection by the "family ghost." In reality, a secretive dragon named Umsheryoth (adult male [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|bronze dragon]]) guards the house and has been a friend to the Silmerhelves for generations.
 
 #### Reason to Visit
 
@@ -871,9 +871,9 @@ The characters likely traipse all over the Sumber Hills in chapter 3 of the adve
 
 ### Summit Hall
 
-Summit Hall was established long ago as a fortified monastery by the Knights of Samular, an order dedicated to Tyr, god of justice. A paladin of Tyr named Samular Caradoon founded the order and its monastery. A tomb within the monastery contains Samular's remains as well as the phylactery of his brother, [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) Caradoon, who dwells in the Sacred Stone Monastery (see "Haunted Keeps" above) as a lich.
+Summit Hall was established long ago as a fortified monastery by the Knights of Samular, an order dedicated to Tyr, god of justice. A paladin of Tyr named Samular Caradoon founded the order and its monastery. A tomb within the monastery contains Samular's remains as well as the phylactery of his brother, [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]] Caradoon, who dwells in the Sacred Stone Monastery (see "Haunted Keeps" above) as a lich.
 
-Lady Ushien Stormbanner (female Tethyrian human [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of Tyr) oversees Summit Hall. Veterans, many of them scarred and grim, train novices and instruct them in the moral "Rule of the Knights" (an extensive series of "in this situation, a knight shall do this" guidelines). Life here is very regimented. The occupants of Summit Hall grow their own food and keep perpetual watch over nearby lands. They are always ready for battle, and fully armed and armored if encountered outside their walls.
+Lady Ushien Stormbanner (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]] of Tyr) oversees Summit Hall. Veterans, many of them scarred and grim, train novices and instruct them in the moral "Rule of the Knights" (an extensive series of "in this situation, a knight shall do this" guidelines). Life here is very regimented. The occupants of Summit Hall grow their own food and keep perpetual watch over nearby lands. They are always ready for battle, and fully armed and armored if encountered outside their walls.
 
 #### Reason to Visit
 
@@ -883,7 +883,7 @@ Characters who track the Mirabar delegation from Beliard find that the delegatio
 
 The town of Triboar stands where the Long Road meets the Evermoor Way, a well-used caravan road that runs east to the city of Yartar. Triboar is the chief rival to Yartar, and the two communities compete for the trade of the Dessarin Valley.
 
-The current lord protector is a good-natured Harper and ex-adventurer named [Darathra Shendrel](/03_Mechanics/CLI/bestiary/npc/darathra-shendrel-pota.md) (female Tethyrian human [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md)), known for the excellent wine she makes. Darathra enacts and modifies local laws (known as "The Lord's Decree"), which are then enforced by "The Twelve," a dozen mounted [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) drawn from the militia to serve in a tenday cycle.
+The current lord protector is a good-natured Harper and ex-adventurer named [[/03_Mechanics/CLI/bestiary/npc/darathra-shendrel-pota|Darathra Shendrel]] (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]]), known for the excellent wine she makes. Darathra enacts and modifies local laws (known as "The Lord's Decree"), which are then enforced by "The Twelve," a dozen mounted [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] drawn from the militia to serve in a tenday cycle.
 
 Triboar is a horse-market for a dozen nearby ranches that turn out trained draft horses, riding mounts and ponies, and pack mules. Blacksmiths, harnessmakers, and wagonworks flourish in town. In addition, a number of guides operate from Triboar. They take merchants and other travelers all over the Sword Coast North (typically for stiff fees). Many of these guides are retired adventurers who know the North well.
 
@@ -915,7 +915,7 @@ Characters who need rare items, sage advice, or other services found only in lar
 
 ### Westbridge
 
-A village strung out along the Long Road between Red Larch and Triboar, Westbridge is home to the Harvest Inn, which stands on the west side of the Long Road facing the wagon road from the Stone Bridge. The inn is run by the affable Herivin Dardragon (male halfling [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a curly-haired collector and reseller of paintings and statuettes of questionable taste.
+A village strung out along the Long Road between Red Larch and Triboar, Westbridge is home to the Harvest Inn, which stands on the west side of the Long Road facing the wagon road from the Stone Bridge. The inn is run by the affable Herivin Dardragon (male halfling [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a curly-haired collector and reseller of paintings and statuettes of questionable taste.
 
 The town is full of rumors about the disappearance of Oric and Lathna, siblings who were abducted by raiders from a homestead a short distance outside of town. (They are currently serving in the kitchens of Rivergard Keep.) Herivin Dardragon is also worried about one of his regulars, a female shield dwarf prospector named Wulgreda. She has not stopped by in a long time (and is a prisoner in the Temple of the Black Earth).
 
@@ -951,7 +951,7 @@ This fortified city commands the most northerly wagon bridge over the Dessarin R
 
 Yartar is prosperous and increasingly crowded, so buildings have been torn down and taller ones built—four stories high in some instances.
 
-A Waterbaron who rules for life leads Yartar. The current Waterbaron is the shrewd, farseeing Nestra Ruthiol (female Tethyrian human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). Yartar is part of the Lords' Alliance, and Ruthiol considers that membership vital for its survival and prosperity. She knows that Harpers and Zhentarim are well established in the city, but her path only crosses with theirs when the wellbeing of Yartarrans is at stake.
+A Waterbaron who rules for life leads Yartar. The current Waterbaron is the shrewd, farseeing Nestra Ruthiol (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]). Yartar is part of the Lords' Alliance, and Ruthiol considers that membership vital for its survival and prosperity. She knows that Harpers and Zhentarim are well established in the city, but her path only crosses with theirs when the wellbeing of Yartarrans is at stake.
 
 The elemental cults have begun abducting Yartarrans who won't be missed—poor people and drunkards, mostly—and smuggling them out of the city. These missing Yartarrans are currently being held in area A12 of the Temple of Howling Hatred (see chapter 4).
 

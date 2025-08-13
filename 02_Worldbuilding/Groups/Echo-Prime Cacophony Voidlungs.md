@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Cult of Screams]]
+- [[02_Worldbuilding/Groups/Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
 
 
 ## Connections

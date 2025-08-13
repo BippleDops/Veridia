@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
 
-While wearing this helm, you can cast [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md) from it.
+While wearing this helm, you can cast [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|Comprehend Languages]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

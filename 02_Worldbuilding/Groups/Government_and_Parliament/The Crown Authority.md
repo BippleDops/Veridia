@@ -34,7 +34,7 @@ world: Aethermoor
 *The Royal Administration, The Bureaucratic Crown, Servants of Order*
 
 ## Overview
-The Crown Authority is the vast bureaucratic apparatus that actually governs [[02_Worldbuilding/Places/Aethermoor]] on a daily basis, serving as the administrative backbone beneath the royal pageantry. While [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] and [[02_Worldbuilding/Groups/The Crown]] provide symbolic leadership and grand policy direction, the Crown Authority handles the mundane but essential work of tax collection, law enforcement coordination, infrastructure maintenance, and civil administration. They are the silent machinery that keeps the kingdom functioning, often overlooked but absolutely indispensable.
+The Crown Authority is the vast bureaucratic apparatus that actually governs [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] on a daily basis, serving as the administrative backbone beneath the royal pageantry. While [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] and [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]] provide symbolic leadership and grand policy direction, the Crown Authority handles the mundane but essential work of tax collection, law enforcement coordination, infrastructure maintenance, and civil administration. They are the silent machinery that keeps the kingdom functioning, often overlooked but absolutely indispensable.
 
 ## History
 
@@ -43,12 +43,12 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - Established by King Aurelius I to professionalize royal administration
 - Replaced feudal personal loyalty system with merit-based bureaucracy
 - Created standardized procedures for all government functions
-- Established the [[02_Worldbuilding/Lore/The Administrative Code]] as foundation of civil service
+- Established the [[02_Worldbuilding/Lore/The Administrative Code|02 Worldbuilding/Lore/The Administrative Code]] as foundation of civil service
 - Built first centralized record-keeping systems
 
 ### The Crystal Integration (250 Years Ago)
 **Magical Modernization**
-- Incorporated [[02_Worldbuilding/Places/Aether Crystals]] into administrative processes
+- Incorporated [[02_Worldbuilding/Places/Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] into administrative processes
 - Developed crystal communication networks between regional offices
 - Created magical filing systems and data processing methods
 - Established [[The Bureau of Crystal Regulation]]
@@ -57,15 +57,15 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ### The Corruption Crisis (100 Years Ago)
 **Shadow in the System**
 - First documented cases of shadow corruption affecting administrators
-- Discovered [[02_Worldbuilding/Groups/The Silverscale Consortium]] infiltration attempts
+- Discovered [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration attempts
 - Implemented enhanced security and loyalty protocols
-- Created [[02_Worldbuilding/Lore/Internal Affairs Divisio]] to monitor civil servants
+- Created [[02_Worldbuilding/Lore/Internal Affairs Divisio|02 Worldbuilding/Lore/Internal Affairs Divisio]] to monitor civil servants
 - Established procedures for detecting supernatural influence
 
 ### Modern Efficiency (Last 50 Years)
 **Peak Bureaucracy**
 - Reached maximum organizational complexity and efficiency
-- Integrated with [[02_Worldbuilding/Places/Aquabyssos]] diplomatic protocols
+- Integrated with [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] diplomatic protocols
 - Developed crisis management procedures for reality anomalies
 - Created specialized departments for supernatural governance
 - Maintains stability despite increasing political pressures
@@ -204,29 +204,29 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Relationships & Politics
 
 ### Institutional Partners
-- **[[02_Worldbuilding/Groups/The Crown]]**: Primary authority served
+- **[[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]**: Primary authority served
 - **[[Royal Guard]]**: Security and enforcement coordination
 - **[[Provincial Governments]]**: Local administration integration
 - **[[Judicial System]]**: Legal process support and coordination
 - **[[Military Command]]**: Logistical and administrative support
 
 ### Regulated Entities
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Economic oversight and taxation
+- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic oversight and taxation
 - **[[Guild Organizations]]**: Professional regulation and licensing
 - **[[Religious Orders]]**: Institutional registration and tax exempt status
 - **[[Foreign Merchants]]**: Trade regulation and customs administration
 - **[[Magic Users]]**: Supernatural ability registration and monitoring
 
 ### Institutional Rivals
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Economic influence vs. regulatory authority
+- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic influence vs. regulatory authority
 - **[[Provincial Nobility]]**: Local power vs. central administration
 - **[[Independent Contractors]]**: Efficiency competition and service alternatives
 - **[[Criminal Organizations]]**: Law enforcement and revenue protection
 - **[[Corruption Networks]]**: Integrity maintenance and system protection
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Loyal service but policy disagreements
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Cooperation with jurisdictional tensions
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Loyal service but policy disagreements
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Cooperation with jurisdictional tensions
 - **[[Parliament Members]]**: Administrative support with political complications
 - **[[Common Citizens]]**: Service providers but also regulators and tax collectors
 - **[[Shadow-Touched Individuals]]**: Administrative challenges with supernatural complications
@@ -303,9 +303,9 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - Resistance to change hampers innovation and improvement
 
 ### External Threats
-- [[02_Worldbuilding/Groups/The Silverscale Consortium]] economic manipulation and bribery
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy]] infiltration and corruption
-- Political pressure from [[02_Worldbuilding/Groups/The Crown]] for policy changes
+- [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] economic manipulation and bribery
+- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] infiltration and corruption
+- Political pressure from [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]] for policy changes
 - Public criticism and anti-government sentiment
 - Resource limitations during economic or military crises
 
@@ -342,11 +342,11 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Campaign Integration
 
 ### Long-Term Storylines
-- Gradual discovery of [[02_Worldbuilding/Groups/The Silverscale Consortium]] infiltration
+- Gradual discovery of [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration
 - Evolution of administrative procedures to handle supernatural challenges
 - Growing tension between efficiency and accountability
 - Development of new administrative technologies and methods
-- Integration challenges with [[02_Worldbuilding/Places/Aquabyssos]] governmental systems
+- Integration challenges with [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] governmental systems
 
 ### Political Ramifications
 - Administrative decisions affecting kingdom-wide policy
@@ -375,20 +375,20 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 
 ### Key NPCs
 - **[[High Administrator Cornelius Protocols]]** - Supreme bureaucrat
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Ultimate authority served
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Judicial coordination partner
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** - Ultimate authority served
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]** - Judicial coordination partner
 - **[[Lady Penelope Procedure]]** - Internal security specialist
 - **[[Master Goldwin Ledgerkeeper]]** - Financial administration expert
 
 ### Related Locations
 - **[[The Administrative Palace]]** - Primary headquarters
-- **[[02_Worldbuilding/Places/The Crystal Palace]]** - Royal authority location
+- **[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]]** - Royal authority location
 - **[[The Great Archive]]** - Information storage facility
 - **[[Provincial Administrative Centers]]** - Regional offices
 - **[[Crystal Communication Center]]** - Government coordination hub
 
 ### Associated Quests
-- **[[02_Worldbuilding/Quests/Quest - Foreign Interests]]** - Diplomatic administration
+- **[[02_Worldbuilding/Quests/Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]]** - Diplomatic administration
 - **[[Quest - The Great Census]]** - Administrative project
 - **[[Quest - The Corruption Investigation]]** - Internal security
 - **[[Quest - The System Reform]]** - Administrative improvement
@@ -414,7 +414,7 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - [[Shadow Independence Levels]]
 - [[Stop the Shadow Harvest]]
 - [[Discover Marina's Truth]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -428,4 +428,4 @@ Legends speak of The Crown Authority as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]

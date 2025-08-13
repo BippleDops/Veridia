@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Priest Faith Crystalsong]]
+- [[02_Worldbuilding/People/Priest Faith Crystalsong|02 Worldbuilding/People/Priest Faith Crystalsong]]
 
 <!-- enriched: true -->

@@ -127,4 +127,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide|02 Worldbuilding/Lore/Aethermoor To Aquabyssos Transition Guide]]

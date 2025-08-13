@@ -272,7 +272,7 @@ Kept in the deepest Genesis Chamber, the Specimen appears to be a successful fus
 #### The Memory Markets
 **Completed**: 50 years ago
 **Result**: Methods for extracting and trading memories as commodities
-**Current Impact**: Forms basis for [[02_Worldbuilding/Groups/The Memory Merchants Guild]] operations
+**Current Impact**: Forms basis for [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]] operations
 **Lessons Learned**: Memory extraction requires careful preservation of neural pathways
 
 #### The Flesh Forge Protocols
@@ -495,7 +495,7 @@ The facility's ultimate research goal is revealed when ancient cosmic entities b
 ### Indirect Connections
 - **[[The Gilded Shard]]**: Academic rivalry and occasional collaboration
 - **[[Abyssos Prime]]**: Several citizens are unknowing test subjects
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge
 - **Surface World**: Secret connections with similar research facilities
 
 ### Regional Impact
@@ -524,7 +524,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz|02 Worldbuilding/Places/Aboleth Adjunct Yzz]]
 
 <!-- enriched: true -->
 

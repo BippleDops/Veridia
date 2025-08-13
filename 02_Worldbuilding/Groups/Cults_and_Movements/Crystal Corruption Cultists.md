@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer|02 Worldbuilding/People/Brother Matthias The Amber Bearer]]
 
 
 ## Connections

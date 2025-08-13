@@ -35,11 +35,11 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md) if you don't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]] if you don't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
-The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `d3` charges. While holding it, you can expend 1 charge and cast [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
 - [Luck Glaive](#Luck%20Glaive)
@@ -53,13 +53,13 @@ The weapon has `d3` charges. While holding it, you can expend 1 charge and cast 
 ### Luck Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Luck Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Luck Longsword
@@ -67,31 +67,31 @@ The weapon has `d3` charges. While holding it, you can expend 1 charge and cast 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Luck Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Luck Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Luck Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Luck Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

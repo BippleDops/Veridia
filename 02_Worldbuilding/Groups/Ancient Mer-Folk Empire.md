@@ -230,11 +230,11 @@ The Empire recognizes the Void Touched as representing an extreme form of depth 
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/The Crimson Tide Pirates]]**
+#### **[[02_Worldbuilding/Groups/The Crimson Tide Pirates|02 Worldbuilding/Groups/The Crimson Tide Pirates]]**
 **Relationship**: Active Opposition
 Pirate raids on mer-folk territories and sacred sites have created ongoing conflict. The Empire views pirates as honorless vandals who threaten both mer-folk interests and general ocean stability. Mer-folk military forces regularly patrol against pirate incursions.
 
-#### **[[02_Worldbuilding/Groups/Cult of Screams]]**
+#### **[[02_Worldbuilding/Groups/Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]**
 **Relationship**: Absolute Enmity
 The Cult's acoustic terrorism disrupts mer-folk communication networks and threatens the psychological well-being of creatures under Empire protection. Mer-folk forces actively support law enforcement efforts against the Cult and have developed specialized counter-acoustic defenses.
 
@@ -382,12 +382,12 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 - [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
 - [[02_Worldbuilding/Groups/Merchant's Covenant|Merchant's Covenant]]
-- [[02_Worldbuilding/Groups/The Crimson Tide Pirates]]
+- [[02_Worldbuilding/Groups/The Crimson Tide Pirates|02 Worldbuilding/Groups/The Crimson Tide Pirates]]
 
 **Key Locations**:
 - [[The Sunken City of Aeridor]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Deep Territories]]
-- [[02_Worldbuilding/Lore/The Heart of the Sea]]
+- [[02_Worldbuilding/Lore/The Heart of the Sea|02 Worldbuilding/Lore/The Heart Of The Sea]]
 - [[The Ancient Ocean Trenches]]
 
 **Notable NPCs**:
@@ -399,9 +399,9 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 
 **Important Artifacts**:
 - [[The Heart of the Sea]]
-- [[02_Worldbuilding/Lore/Crown of Currents]]
+- [[02_Worldbuilding/Lore/Crown of Currents|02 Worldbuilding/Lore/Crown Of Currents]]
 - [[The Treaty of Deepest Waters]]
-- [[02_Worldbuilding/Lore/Deep Archives]]
+- [[02_Worldbuilding/Lore/Deep Archives|02 Worldbuilding/Lore/Deep Archives]]
 - [[Current-Crystals]]
 
 **Related Concepts**:
@@ -418,7 +418,7 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 - [[Shadow Independence Levels]]
 - [[Stop the Shadow Harvest]]
 - [[Tradeway Road]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -442,4 +442,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]

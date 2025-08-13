@@ -32,7 +32,7 @@ obsidianUIMode: preview
 
 ## Overview
 
-[[02_Worldbuilding/People/The Deep Mother]] is awakening from her cosmic slumber, and her stirring threatens to unravel the fundamental laws that govern both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. As reality becomes increasingly unstable, the party discovers that the traditional gods have either fled, fallen silent, or been corrupted by her influence. With divine magic failing and cosmic forces reshaping the world, the party must decide whether to attempt communication with the Deep Mother, seek the aid of surviving deities, or forge a new divine paradigm that can stabilize both realms without repeating the mistakes of the past.
+[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]] is awakening from her cosmic slumber, and her stirring threatens to unravel the fundamental laws that govern both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. As reality becomes increasingly unstable, the party discovers that the traditional gods have either fled, fallen silent, or been corrupted by her influence. With divine magic failing and cosmic forces reshaping the world, the party must decide whether to attempt communication with the Deep Mother, seek the aid of surviving deities, or forge a new divine paradigm that can stabilize both realms without repeating the mistakes of the past.
 
 ## Background
 
@@ -63,7 +63,7 @@ The party faces a choice that will determine the spiritual future of both worlds
 
 ### Scene 1: The Last Miracle
 **Location**: Major temple or holy site during a crisis
-**NPCs**: High Priest/Priestess (powerless), desperate faithful, [[02_Worldbuilding/People/The Crimson Sage]] (observer)
+**NPCs**: High Priest/Priestess (powerless), desperate faithful, [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (observer)
 
 The party witnesses the complete failure of divine magic during a moment of desperate need—perhaps a plague outbreak, natural disaster, or demonic invasion that should be easily handled by clerical power.
 
@@ -229,7 +229,7 @@ The party must decide how to handle a once-holy site that has been transformed b
 The party must organize and mediate a meeting between the Deep Mother, surviving traditional gods, newly ascended mortals, and representatives of mortal concerns.
 
 **Attendees**:
-- **[[02_Worldbuilding/People/The Deep Mother]]**: Appearing in manageable avatar form
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Appearing in manageable avatar form
 - **Traditional Gods**: Those brave enough to attend
 - **Ascended Mortals**: If any party members chose divinity
 - **Mortal Representatives**: Leaders from both realms
@@ -370,7 +370,7 @@ The party helps design and conduct the first formal religious ceremony under the
 ## NPCs and Their Motivations
 
 ### Cosmic Entities
-- **[[02_Worldbuilding/People/The Deep Mother]]**: Seeks companionship and understanding without destroying what she touches
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Seeks companionship and understanding without destroying what she touches
 - **Stellar Wisdom (traditional god)**: Wants to maintain cosmic order and predictability
 - **Ocean's Heart (corrupted god)**: Caught between old nature and new cosmic awareness
 - **The Void Singer**: Entity that feeds on cosmic instability and opposes resolution
@@ -492,11 +492,11 @@ This quest challenges players to grapple with the biggest possible questions—t
 - [[The Shattered Sanctum]]
 - [[Vault Breach]]
 - [[Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - The Pretender's Crown]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -516,4 +516,4 @@ Legends speak of Quest   Divine Intervention as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]

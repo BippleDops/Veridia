@@ -35,14 +35,14 @@ world: Both Aethermoor & Aquabyssos
 *Pioneers of Forbidden Integration, Masters of Impossible Science*
 
 ## Overview
-The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical research, dedicated to the seemingly impossible task of successfully combining the crystal corruption of [[02_Worldbuilding/Places/Aethermoor]] with the shadow energies of [[02_Worldbuilding/Places/Aquabyssos]]. Most scholars in both worlds consider such fusion theoretically impossible and practically suicidal, but the Synthesis has achieved breakthrough after breakthrough, creating new forms of magic, technology, and life that transcend the limitations of either realm alone.
+The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical research, dedicated to the seemingly impossible task of successfully combining the crystal corruption of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] with the shadow energies of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Most scholars in both worlds consider such fusion theoretically impossible and practically suicidal, but the Synthesis has achieved breakthrough after breakthrough, creating new forms of magic, technology, and life that transcend the limitations of either realm alone.
 
 ## Core Theory
 ### The Unity Hypothesis
 - Shadow and crystal energies are opposite manifestations of the same fundamental force
 - Current "corruption" in both worlds results from incomplete understanding
 - Proper synthesis can create stable hybrid energies more powerful than either alone
-- Both [[02_Worldbuilding/Lore/The Seven Shards]] and [[02_Worldbuilding/Lore/The Deep Mother]] are incomplete without their opposite
+- Both [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] and [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] are incomplete without their opposite
 - The ultimate goal is creating a new form of existence transcending both realms
 
 ### The Synthesis Process
@@ -122,14 +122,14 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 
 ### Opposition & Threats
 - **Traditional Researchers**: View synthesis as pseudoscience or heresy
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Consider them ultimate corruption
+- **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**: Consider them ultimate corruption
 - **Safety Regulators**: Governments trying to shut down dangerous experiments
 - **Reality Purists**: Those who believe energies should remain separate
 - **Failed Experiments**: Their own creations turned hostile
 
 ### Complicated Relations
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in synthesis applications but wary of risks
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May understand their true potential
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Interested in synthesis applications but wary of risks
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: May understand their true potential
 - **[[Sister Thalassa the Depth-Touched]]**: Debates about Deep Mother's relationship to crystals
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Potential subject for synthesis experiments
 
@@ -137,10 +137,10 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 
 ### Joining the Synthesis
 #### Entry Requirements
-- Advanced degree in [[02_Worldbuilding/Subjects/Magical Theory]] or [[02_Worldbuilding/Subjects/Crystal Engineering]]
+- Advanced degree in [[02_Worldbuilding/Subjects/Magical Theory|02 Worldbuilding/Subjects/Magical Theory]] or [[02_Worldbuilding/Subjects/Crystal Engineering|02 Worldbuilding/Subjects/Crystal Engineering]]
 - Demonstrated resistance to both shadow and crystal corruption
 - Willingness to undergo initial synthesis exposure treatments
-- Sponsorship by existing member with [[02_Worldbuilding/Groups/Research Council]] approval
+- Sponsorship by existing member with [[02_Worldbuilding/Groups/Research Council|02 Worldbuilding/Groups/Research Council]] approval
 - Psychological evaluation to ensure stability under impossible conditions
 
 #### Research Ranks
@@ -162,28 +162,28 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 
 ## Services & Capabilities
 ### What They Offer
-- Custom synthesis devices for specific applications through [[02_Worldbuilding/Items/Harmony Resonators]]
-- Enhancement treatments combining both energy types via [[02_Worldbuilding/Procedures/Dual Integration Therapy]]
-- Consultation on problems involving [[02_Worldbuilding/Phenomena/Shadow-Crystal Interactions]]
-- Analysis of artifacts or phenomena involving both energies using [[02_Worldbuilding/Tools/Dual-State Sensors]]
+- Custom synthesis devices for specific applications through [[02_Worldbuilding/Items/Harmony Resonators|02 Worldbuilding/Items/Harmony Resonators]]
+- Enhancement treatments combining both energy types via [[02_Worldbuilding/Procedures/Dual Integration Therapy|02 Worldbuilding/Procedures/Dual Integration Therapy]]
+- Consultation on problems involving [[02_Worldbuilding/Phenomena/Shadow-Crystal Interactions|02 Worldbuilding/Phenomena/Shadow Crystal Interactions]]
+- Analysis of artifacts or phenomena involving both energies using [[02_Worldbuilding/Tools/Dual-State Sensors|02 Worldbuilding/Tools/Dual State Sensors]]
 - Training in synthesis theory and safe handling procedures at [[The Fusion Laboratory]]
-- [[02_Worldbuilding/Services/Reality Stabilization]] for areas affected by dual corruption
-- [[02_Worldbuilding/Products/Null-State Materials]] immune to both corruption types
-- [[02_Worldbuilding/Treatments/Synthesis Consciousness Transfer]] for terminal patients
+- [[02_Worldbuilding/Services/Reality Stabilization|02 Worldbuilding/Services/Reality Stabilization]] for areas affected by dual corruption
+- [[02_Worldbuilding/Products/Null-State Materials|02 Worldbuilding/Products/Null State Materials]] immune to both corruption types
+- [[02_Worldbuilding/Treatments/Synthesis Consciousness Transfer|02 Worldbuilding/Treatments/Synthesis Consciousness Transfer]] for terminal patients
 
 ### Research Contracts Available
-- **Government Projects**: Secret synthesis applications for [[02_Worldbuilding/Governments/Aethermoor Council]] and [[02_Worldbuilding/Governments/Parliament of Echoes]]
-- **Medical Research**: Developing [[02_Worldbuilding/Medicine/Hybrid Healing]] techniques
-- **Military Applications**: Creating [[02_Worldbuilding/Weapons/Synthesis Combat Systems]]
-- **Infrastructure Development**: Building [[02_Worldbuilding/Architecture/Dimensional Bridging]] technology
-- **Environmental Remediation**: Healing areas corrupted by [[02_Worldbuilding/Disasters/Crystal Cascade Events]]
+- **Government Projects**: Secret synthesis applications for [[02_Worldbuilding/Governments/Aethermoor Council|02 Worldbuilding/Governments/Aethermoor Council]] and [[02_Worldbuilding/Governments/Parliament of Echoes|02 Worldbuilding/Governments/Parliament Of Echoes]]
+- **Medical Research**: Developing [[02_Worldbuilding/Medicine/Hybrid Healing|02 Worldbuilding/Medicine/Hybrid Healing]] techniques
+- **Military Applications**: Creating [[02_Worldbuilding/Weapons/Synthesis Combat Systems|02 Worldbuilding/Weapons/Synthesis Combat Systems]]
+- **Infrastructure Development**: Building [[02_Worldbuilding/Architecture/Dimensional Bridging|02 Worldbuilding/Architecture/Dimensional Bridging]] technology
+- **Environmental Remediation**: Healing areas corrupted by [[02_Worldbuilding/Disasters/Crystal Cascade Events|02 Worldbuilding/Disasters/Crystal Cascade Events]]
 
 ### What They Require
-- Test subjects willing to undergo synthesis procedures and sign [[02_Worldbuilding/Documents/Experimental Consent Forms]]
-- Rare materials from both [[02_Worldbuilding/Resources/Aethermoor Crystal Mines]] and [[02_Worldbuilding/Resources/Aquabyssos Shadow Pools]]
-- Protection from authorities through [[02_Worldbuilding/Groups/Legal Defense Network]]
-- Funding for increasingly expensive experiments via [[02_Worldbuilding/Economics/Research Investment Funds]]
-- New knowledge about [[02_Worldbuilding/Entities/Shadow Energy Sources]] and [[02_Worldbuilding/Entities/Crystal Power Nodes]]
+- Test subjects willing to undergo synthesis procedures and sign [[02_Worldbuilding/Documents/Experimental Consent Forms|02 Worldbuilding/Documents/Experimental Consent Forms]]
+- Rare materials from both [[02_Worldbuilding/Resources/Aethermoor Crystal Mines|02 Worldbuilding/Resources/Aethermoor Crystal Mines]] and [[02_Worldbuilding/Resources/Aquabyssos Shadow Pools|02 Worldbuilding/Resources/Aquabyssos Shadow Pools]]
+- Protection from authorities through [[02_Worldbuilding/Groups/Legal Defense Network|02 Worldbuilding/Groups/Legal Defense Network]]
+- Funding for increasingly expensive experiments via [[02_Worldbuilding/Economics/Research Investment Funds|02 Worldbuilding/Economics/Research Investment Funds]]
+- New knowledge about [[02_Worldbuilding/Entities/Shadow Energy Sources|02 Worldbuilding/Entities/Shadow Energy Sources]] and [[02_Worldbuilding/Entities/Crystal Power Nodes|02 Worldbuilding/Entities/Crystal Power Nodes]]
 
 ## Adventure Hooks
 1. **The Synthesis Accident**: Help contain catastrophic experimental failure
@@ -228,18 +228,18 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 The Synthesis maintains detailed records of every failed experiment, both as scientific data and as warning to future researchers. These failures often become more dangerous than successes:
 
 #### The Cascade Subjects
-- **[[02_Worldbuilding/Entities/The Screaming Prisms]]**: Humans transformed into living crystals that emit shadow energy
-- **[[02_Worldbuilding/Entities/Void Touched Crystals]]**: Crystals infected with shadow corruption that spread like disease
-- **[[02_Worldbuilding/Entities/The Living Paradox]]**: Subject existing in quantum superposition between shadow and crystal states
-- **[[02_Worldbuilding/Entities/Memory Crystals]]**: Crystals that absorbed subject's consciousness during failed transfer
-- **[[02_Worldbuilding/Entities/The Hungry Shadows]]**: Shadow entities that feed on crystal energy
+- **[[02_Worldbuilding/Entities/The Screaming Prisms|02 Worldbuilding/Entities/The Screaming Prisms]]**: Humans transformed into living crystals that emit shadow energy
+- **[[02_Worldbuilding/Entities/Void Touched Crystals|02 Worldbuilding/Entities/Void Touched Crystals]]**: Crystals infected with shadow corruption that spread like disease
+- **[[02_Worldbuilding/Entities/The Living Paradox|02 Worldbuilding/Entities/The Living Paradox]]**: Subject existing in quantum superposition between shadow and crystal states
+- **[[02_Worldbuilding/Entities/Memory Crystals|02 Worldbuilding/Entities/Memory Crystals]]**: Crystals that absorbed subject's consciousness during failed transfer
+- **[[02_Worldbuilding/Entities/The Hungry Shadows|02 Worldbuilding/Entities/The Hungry Shadows]]**: Shadow entities that feed on crystal energy
 
 #### Environmental Disasters
-- **[[02_Worldbuilding/Locations/The Synthesis Wastes]]**: Contaminated zones where reality itself is corrupted
-- **[[02_Worldbuilding/Locations/Crystal Shadow Storms]]**: Weather phenomena combining both energy types
-- **[[02_Worldbuilding/Locations/The Null Zones]]**: Areas where synthesis experiments created pockets of non-existence
-- **[[02_Worldbuilding/Locations/Hybrid Ecology]]**: Ecosystems adapted to synthesis energy
-- **[[02_Worldbuilding/Locations/The Temporal Scars]]**: Time distortions caused by synthesis experiments
+- **[[02_Worldbuilding/Locations/The Synthesis Wastes|02 Worldbuilding/Locations/The Synthesis Wastes]]**: Contaminated zones where reality itself is corrupted
+- **[[02_Worldbuilding/Locations/Crystal Shadow Storms|02 Worldbuilding/Locations/Crystal Shadow Storms]]**: Weather phenomena combining both energy types
+- **[[02_Worldbuilding/Locations/The Null Zones|02 Worldbuilding/Locations/The Null Zones]]**: Areas where synthesis experiments created pockets of non-existence
+- **[[02_Worldbuilding/Locations/Hybrid Ecology|02 Worldbuilding/Locations/Hybrid Ecology]]**: Ecosystems adapted to synthesis energy
+- **[[02_Worldbuilding/Locations/The Temporal Scars|02 Worldbuilding/Locations/The Temporal Scars]]**: Time distortions caused by synthesis experiments
 
 #### Containment Protocols
 - **Emergency Evacuation**: Standard procedures for catastrophic synthesis failures
@@ -251,21 +251,21 @@ The Synthesis maintains detailed records of every failed experiment, both as sci
 ### Breakthrough Technologies
 
 #### Successful Synthesis Applications
-- **[[02_Worldbuilding/Items/Harmony Cores]]**: Stable energy sources combining both forces
-- **[[02_Worldbuilding/Items/Phase Shift Devices]]**: Transportation technology using synthesis principles
-- **[[02_Worldbuilding/Items/Dual-State Armor]]**: Protection effective against both shadow and crystal attacks
-- **[[02_Worldbuilding/Items/Synthesis Healing Pods]]**: Medical devices using combined energies
-- **[[02_Worldbuilding/Items/Reality Anchors]]**: Stabilization technology for dimensional rifts
-- **[[02_Worldbuilding/Items/The Living Tools]]**: Equipment that adapts to user needs
-- **[[02_Worldbuilding/Items/Memory Integration Devices]]**: Safe consciousness transfer technology
-- **[[02_Worldbuilding/Items/Null-Field Generators]]**: Create zones immune to both corruption types
+- **[[02_Worldbuilding/Items/Harmony Cores|02 Worldbuilding/Items/Harmony Cores]]**: Stable energy sources combining both forces
+- **[[02_Worldbuilding/Items/Phase Shift Devices|02 Worldbuilding/Items/Phase Shift Devices]]**: Transportation technology using synthesis principles
+- **[[02_Worldbuilding/Items/Dual-State Armor|02 Worldbuilding/Items/Dual State Armor]]**: Protection effective against both shadow and crystal attacks
+- **[[02_Worldbuilding/Items/Synthesis Healing Pods|02 Worldbuilding/Items/Synthesis Healing Pods]]**: Medical devices using combined energies
+- **[[02_Worldbuilding/Items/Reality Anchors|02 Worldbuilding/Items/Reality Anchors]]**: Stabilization technology for dimensional rifts
+- **[[02_Worldbuilding/Items/The Living Tools|02 Worldbuilding/Items/The Living Tools]]**: Equipment that adapts to user needs
+- **[[02_Worldbuilding/Items/Memory Integration Devices|02 Worldbuilding/Items/Memory Integration Devices]]**: Safe consciousness transfer technology
+- **[[02_Worldbuilding/Items/Null-Field Generators|02 Worldbuilding/Items/Null Field Generators]]**: Create zones immune to both corruption types
 
 #### Experimental Procedures
-- **[[02_Worldbuilding/Procedures/Dual Integration Therapy]]**: Treatment for subjects exposed to both energies
-- **[[02_Worldbuilding/Procedures/Synthesis Consciousness Transfer]]**: Moving minds between different energy states
-- **[[02_Worldbuilding/Procedures/Reality Bridge Construction]]**: Building stable connections between realms
-- **[[02_Worldbuilding/Procedures/Hybrid Transformation]]**: Controlled modification of living subjects
-- **[[02_Worldbuilding/Procedures/Energy State Conversion]]**: Changing one energy type into another
+- **[[02_Worldbuilding/Procedures/Dual Integration Therapy|02 Worldbuilding/Procedures/Dual Integration Therapy]]**: Treatment for subjects exposed to both energies
+- **[[02_Worldbuilding/Procedures/Synthesis Consciousness Transfer|02 Worldbuilding/Procedures/Synthesis Consciousness Transfer]]**: Moving minds between different energy states
+- **[[02_Worldbuilding/Procedures/Reality Bridge Construction|02 Worldbuilding/Procedures/Reality Bridge Construction]]**: Building stable connections between realms
+- **[[02_Worldbuilding/Procedures/Hybrid Transformation|02 Worldbuilding/Procedures/Hybrid Transformation]]**: Controlled modification of living subjects
+- **[[02_Worldbuilding/Procedures/Energy State Conversion|02 Worldbuilding/Procedures/Energy State Conversion]]**: Changing one energy type into another
 
 ## The Ethics Committee Debates
 
@@ -452,7 +452,7 @@ Ethical obligations toward experimental subjects:
 - [[Emperor Thalassius the Wise]]
 - [[The Threshold Chambers]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -466,7 +466,7 @@ Legends speak of The Shadow Crystal Synthesis as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 - [[The Liminal Trading Company]]
 - [[The Void Watchers]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]

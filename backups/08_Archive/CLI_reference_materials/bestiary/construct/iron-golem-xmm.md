@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-iron-golem-xmm-iron-golem-xmm.svg)
 
-# [Iron Golem](3-Mechanics\CLI\bestiary\construct/iron-golem-xmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/iron-golem-xmm|Iron Golem]]
 *Source: Monster Manual (2024) p. 181. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Iron Golem
@@ -69,20 +69,20 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "fire, poison, psychic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "16"
 "traits":
   - "desc": "Whenever the golem is subjected to Fire damage, it regains a number of\
-      \ [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the\
+      \ [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to the\
       \ Fire damage dealt."
     "name": "Fire Absorption"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -93,7 +93,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
     "name": "Bladed Arm"
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 36 (8d8) Fire damage."
     "name": "Fiery Bolt"
-  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 18, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 55 (10d10) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 6)"
 "source":

@@ -35,11 +35,11 @@ world: Both
 
 You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
 
-Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature [Restrained](/03_Mechanics/CLI/conditions.md#Restrained). On failed save, the target takes `8d8` damage of the spirit's type, and the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition until the spell ends. At the start of each of its turns, the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) target repeats the save. On a failed save, the target takes `4d8` damage of the spirit's type. On a successful save, the target isn't [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) by the spirit.
+Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]. On failed save, the target takes `8d8` damage of the spirit's type, and the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition until the spell ends. At the start of each of its turns, the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] target repeats the save. On a failed save, the target takes `4d8` damage of the spirit's type. On a successful save, the target isn't [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] by the spirit.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 5.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Sea)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -24,7 +24,7 @@ TODO
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 ## Player-Facing Summary
 

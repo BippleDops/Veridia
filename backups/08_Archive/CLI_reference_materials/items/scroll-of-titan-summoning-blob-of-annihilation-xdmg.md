@@ -28,9 +28,9 @@ world: Both
 
 
 
-When you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to read this scroll, a [Blob of Annihilation](/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md) appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to read this scroll, a [[/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm|Blob of Annihilation]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [Blob of Annihilation](/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md) is [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If the [Blob of Annihilation](/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md) is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm|Blob of Annihilation]] is [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If the [[/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm|Blob of Annihilation]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

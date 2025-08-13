@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-piercer-xmm-piercer-xmm.svg)
 
-# [Piercer](3-Mechanics\CLI\bestiary\aberration/piercer-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/piercer-xmm|Piercer]]
 *Source: Monster Manual (2024) p. 240*  
 
 ## Piercer
@@ -62,7 +62,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
   - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
 "languages": ""

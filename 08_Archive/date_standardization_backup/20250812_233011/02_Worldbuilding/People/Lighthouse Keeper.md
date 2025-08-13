@@ -98,7 +98,7 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/Lore/Crystal Guard]]** - They rely on his lighthouse as a strategic observation post
+- **[[02_Worldbuilding/Lore/Crystal Guard|02 Worldbuilding/Lore/Crystal Guard]]** - They rely on his lighthouse as a strategic observation post
 - **Maritime Guild** - Sailors across both realms know and respect his warnings
 - **[[Admiral Cassandra Stormwind]]** - Old friends who share information about sea-based threats
 - **[[Archdruid Thornweaver]]** - Collaborates on understanding natural vs. supernatural weather phenomena
@@ -178,7 +178,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lighthouse Keeper]]
+- [[02_Worldbuilding/People/Lighthouse Keeper|02 Worldbuilding/People/Lighthouse Keeper]]
 
 <!-- enriched: true -->
 

@@ -69,7 +69,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Template_Quest_Placeholder.png]]
+>> ![[Template_Quest_Placeholder.png|Template Quest Placeholder.png]]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind
@@ -123,7 +123,7 @@ Provide a summary of the quest here.
 - [ ] Complete the quest
 - [ ] Roll in epic loot
 
-# Quest Details
+## Quest Details
 
 
 Date Obtained: `INPUT[datePicker:questObtained]` 
@@ -134,19 +134,19 @@ Session Obtained: `INPUT[suggester(optionQuery(#Category/Journal)):questSessionO
 Available Loot: `INPUT[suggester(optionQuery(#item)):questLootAvail]` 
 Acquired Loot: `INPUT[suggester(optionQuery(#item)):questLookEarned]` 
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the region here. 
 
-# Backstory
+## Backstory
 
 Describe the backstory of the quest here. Why is it important for the party to complete?
 
-# Planning
+## Planning
 
 Plan your quest out here. 
 
-# People
+## People
 
 `BUTTON[button_person]` The following people are associated with this quest.
 
@@ -199,4 +199,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Item]]
+- [[05_Templates/World Builder Templates/Template-Item|05 Templates/World Builder Templates/Template Item]]

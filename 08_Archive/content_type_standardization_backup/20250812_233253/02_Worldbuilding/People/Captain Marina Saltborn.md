@@ -32,7 +32,7 @@ updated: '2025-08-11T00:00:00+00:00'
 > *"The deep calls to those who've already lost themselves to it. I answer not because I'm brave, but because I'm already gone."*
 
 ## Overview
-Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbuilding/Places/Aquabyssos]] naval fleet, specializing in exploring and defending the [[The Hadal Depths]] where few dare to venture. Born with a rare condition that allows her to survive at crushing depths without magical aid, she's become both invaluable to the navy and increasingly isolated from surface-dwelling humanity. Her transformation into something between human and deep-sea creature has made her the perfect guardian of Aquabyssos's deepest secrets - and most dangerous threats.
+Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] naval fleet, specializing in exploring and defending the [[The Hadal Depths]] where few dare to venture. Born with a rare condition that allows her to survive at crushing depths without magical aid, she's become both invaluable to the navy and increasingly isolated from surface-dwelling humanity. Her transformation into something between human and deep-sea creature has made her the perfect guardian of Aquabyssos's deepest secrets - and most dangerous threats.
 
 ## Appearance & Physical Characteristics
 - **Age**: 34, though appears ageless in an unsettling way
@@ -282,12 +282,12 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 ### Military Allies
 - **Admiral Cordelia Deepcurrent**: Respects Marina's unique abilities while worrying about her increasing isolation from humanity
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Professional respect with underlying tension about methods and priorities
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart|02 Worldbuilding/People/Commander Typhoon Blackheart]]**: Professional respect with underlying tension about methods and priorities
 - **The Deep Patrol Crews**: Commands loyalty through competence, but crew members find her increasingly unsettling
 
 ### Professional Contacts
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Provides memory therapy for crew members traumatized by deep-sea encounters
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Occasional legal consultation regarding deep-sea territorial disputes
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave|02 Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Provides memory therapy for crew members traumatized by deep-sea encounters
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Occasional legal consultation regarding deep-sea territorial disputes
 - **Deep-Sea Researchers**: Network of academics studying abyssal conditions who rely on her access and expertise
 
 ### Personal Connections
@@ -304,7 +304,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[02_Worldbuilding/Quests/The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]
 - [[The Hadal Depths]]
 - [[The Deep Mother]]
 - [[Commander Typhoon Blackheart]]
@@ -316,7 +316,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 - [[Ambush Point]]
 - [[The Depth Accords]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

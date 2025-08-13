@@ -23,11 +23,11 @@ world: Both
 
 | College | Founder |
 |---------|---------|
-| Lorehold | [Velomachus Lorehold](/03_Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc.md) |
-| Prismari | [Galazeth Prismari](/03_Mechanics/CLI/bestiary/npc/galazeth-prismari-scc.md) |
-| Quandrix | [Tanazir Quandrix](/03_Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc.md) |
-| Silverquill | [Shadrix Silverquill](/03_Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc.md) |
-| Witherbloom | [Beledros Witherbloom](/03_Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc.md) |
+| Lorehold | [[/03_Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc|Velomachus Lorehold]] |
+| Prismari | [[/03_Mechanics/CLI/bestiary/npc/galazeth-prismari-scc|Galazeth Prismari]] |
+| Quandrix | [[/03_Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc|Tanazir Quandrix]] |
+| Silverquill | [[/03_Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc|Shadrix Silverquill]] |
+| Witherbloom | [[/03_Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc|Beledros Witherbloom]] |
 ^founder-dragons
 
 ## Player-Facing Summary

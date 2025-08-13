@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Techno-Priest Lumina Skyweaver]]
+- [[02_Worldbuilding/People/High Techno-Priest Lumina Skyweaver|02 Worldbuilding/People/High Techno Priest Lumina Skyweaver]]
 
 <!-- enriched: true -->
 

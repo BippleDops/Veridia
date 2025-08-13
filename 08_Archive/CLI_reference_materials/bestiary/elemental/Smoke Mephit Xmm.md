@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-smoke-mephit-xmm-smoke-mephit-xmm.svg)
 
-# [Smoke Mephit](3-Mechanics\CLI\bestiary\elemental/smoke-mephit-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/smoke-mephit-xmm|Smoke Mephit]]
 *Source: Monster Manual (2024) p. 208*  
 
 Smoke mephits are elusive beings formed of fiery cinders and hot air. They love misleading creatures and then mocking them for their gullibility.
@@ -65,27 +65,27 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Primordial (Auran, Ignan)"
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 11,\
-      \ each creature in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the mephit. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ each creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the mephit. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
     "name": "Claw"
   - "desc": "Dexterity Saving Throw: DC 11, one creature the mephit can see within\
-      \ 15 feet. Failure: The target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ 15 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
       \ condition until the end of the mephit's next turn."
     "name": "Cinder Breath (Recharge 6)"
 "source":

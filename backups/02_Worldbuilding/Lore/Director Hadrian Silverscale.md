@@ -26,7 +26,7 @@ accessibility:
 
 # Director Hadrian Silverscale
 
-![Director Hadrian Silverscale Portrait](04_Resources/Assets/Art/Lore/Director_Hadrian_Silverscale.png)
+![[04_Resources/Assets/Art/Lore/Director_Hadrian_Silverscale.png|Director Hadrian Silverscale Portrait]]
 
 ## Summary
 Director Hadrian Silverscale describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -79,4 +79,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Final Choice]]
 - [[The Forgetting Bomb]]
 - [[The Silverscale Conspiracy]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

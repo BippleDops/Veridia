@@ -223,4 +223,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Expeditions]]
+- [[02_Worldbuilding/Lore/Deep Expeditions|02 Worldbuilding/Lore/Deep Expeditions]]

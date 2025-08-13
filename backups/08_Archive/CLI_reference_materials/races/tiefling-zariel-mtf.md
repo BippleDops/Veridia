@@ -46,7 +46,7 @@ You have resistance to fire damage.
 
 ### Legacy of Avernus
 
-You know the [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md) cantrip. When you reach 3rd level, you can cast the [searing smite](/03_Mechanics/CLI/spells/searing-smite-xphb.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [branding smite](/03_Mechanics/CLI/spells/shining-smite-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/03_Mechanics/CLI/spells/searing-smite-xphb|searing smite]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/03_Mechanics/CLI/spells/shining-smite-xphb|branding smite]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

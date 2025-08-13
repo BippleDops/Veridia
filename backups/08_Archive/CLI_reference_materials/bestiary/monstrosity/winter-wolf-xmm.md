@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-wolf-xmm-v1-winter-wolf-xmm.svg)
 
-# [Winter Wolf](3-Mechanics\CLI\bestiary\monstrosity/winter-wolf-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/winter-wolf-xmm|Winter Wolf]]
 *Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Winter Wolf
@@ -64,26 +64,26 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
 "languages": "Common, Giant"
 "cr": "3"
 "traits":
-  - "desc": "The wolf has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The wolf has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the wolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Bite"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 18 (4d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

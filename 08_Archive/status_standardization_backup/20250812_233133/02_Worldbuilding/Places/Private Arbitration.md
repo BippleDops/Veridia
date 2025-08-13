@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Private Arbitration]]
+- [[02_Worldbuilding/Places/Private Arbitration|02 Worldbuilding/Places/Private Arbitration]]
 
 <!-- enriched: true -->
 

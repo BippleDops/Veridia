@@ -61,7 +61,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Nexus Goldcurrent]]
+- [[02_Worldbuilding/People/Lady Nexus Goldcurrent|02 Worldbuilding/People/Lady Nexus Goldcurrent]]
 
 <!-- enriched: true -->
 

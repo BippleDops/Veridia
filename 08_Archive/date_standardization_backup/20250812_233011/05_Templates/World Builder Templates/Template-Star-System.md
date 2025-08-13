@@ -74,7 +74,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Template_StarSystem_Placeholder.png]]
+>> ![[Template_StarSystem_Placeholder.png|Template StarSystem Placeholder.png]]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind
@@ -117,15 +117,15 @@ setTimeout(() => {
 
 This is the star system description. 
 
-# Star System Details
+## Star System Details
 
 **Dominant Races:**  
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the star system here. 
 
-# Planets
+## Planets
 
 `BUTTON[button_planet]` 
 
@@ -136,7 +136,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Points of Interest
+## Points of Interest
 
 `BUTTON[button_pointofinterest]` 
 
@@ -183,4 +183,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_StarSystem_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_StarSystem_Placeholder.png|02 Worldbuilding/Lore/Template StarSystem Placeholder.png]]

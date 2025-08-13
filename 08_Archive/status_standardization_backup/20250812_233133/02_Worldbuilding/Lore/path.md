@@ -53,7 +53,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Hub]]
+- [[05_Templates/World Builder Templates/Template-Hub|05 Templates/World Builder Templates/Template Hub]]
 
 
 ## Connections

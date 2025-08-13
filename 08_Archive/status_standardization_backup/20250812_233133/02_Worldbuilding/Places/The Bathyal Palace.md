@@ -78,9 +78,9 @@ Original stone where the pre-drowning treaty was signed. Touching it while lying
 
 ### Current Power Players
  - [[Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
- - [[02_Worldbuilding/People/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
- - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
+ - [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
+ - [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
+ - [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
  - [[Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
 
 ### Ongoing Schemes
@@ -113,7 +113,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 ## Current Events
 1. Emergency session called regarding [[The Deep Uprising]]
 2. Duke Reefheart accused of biological warfare
-3. Missing diplomat from [[02_Worldbuilding/Places/New Tethys]]
+3. Missing diplomat from [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 4. Proposal to admit [[The Trencher Folk]] as a faction
 5. Peace Field flickering in certain areas
 
@@ -132,7 +132,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 - [[Enchanter Valdris Peacewarden]] - Peace Field maintainer
 - [[Shadow Broker Mist]] - Free Current representative
 - [[Garden Keeper Zen Currentdancer]] - Spy and gardener
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.]] - Depth Warden representative
+ - [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] - Depth Warden representative
 - [[Concierge Phillip Gracewater]] - Guest services and intelligence
 
 ## Random Encounters (d10)
@@ -148,10 +148,10 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 10. Peace Field temporarily failing in small area
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/New Tethys]] - Tethyan Hegemony capital
-- [[02_Worldbuilding/Places/Lumengarde]] - Coral Courts seat
-- [[02_Worldbuilding/Places/Pressure's End]] - Depth Wardens fortress
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Church headquarters
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Tethyan Hegemony capital
+- [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] - Coral Courts seat
+- [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]] - Depth Wardens fortress
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars|02 Worldbuilding/Places/The Sunken Cathedral Of Stars]] - Church headquarters
 
 ## Quests Available
 - [[The Neutral Ground]] - Investigate Peace Field failures
@@ -185,7 +185,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]
 
 <!-- enriched: true -->
 - [[The Bathyal Succession]]

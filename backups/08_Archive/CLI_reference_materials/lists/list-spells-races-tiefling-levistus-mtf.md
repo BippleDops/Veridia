@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/ray-of-frost-xphb "XPHB"|Ray of Frost]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [Armor of Agathys](/03_Mechanics/CLI/spells/armor-of-agathys-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/armor-of-agathys-xphb "XPHB"|Armor of Agathys]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] as 2nd-level, at class level 3
 
 ## Player-Facing Summary
 

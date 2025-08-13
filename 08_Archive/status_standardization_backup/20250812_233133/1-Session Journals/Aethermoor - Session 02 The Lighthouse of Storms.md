@@ -36,7 +36,7 @@ The party investigates Whisper Island, discovering Captain Blackwater's crystall
 ### NPCs to Include
 - [[Jasper Three-Eyes Flint]] - Terrified survivor with crucial info
 - [[Vex Shadowthorn's Apprentices]] - Fanatic but doubting
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious first appearance
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Mysterious first appearance
 
 ## Session Timeline
 
@@ -78,7 +78,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Jasper's Revelation:** "They're not creating the plague... they're tuning it! Like a conductor with an orchestra of crystals. The Queen's seal was on the orders, but dated next month. How is that possible?"
 
 #### Event 3: The Lighthouse Ascent
-**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]] - Multiple floors
+**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms|01 Campaigns/Aethermoor/Locations/Lighthouse Of Storms]] - Multiple floors
 **NPCs:** Infected Experiments (hostile)
 **Outcome:**
 - **Ground Floor:** Ruined laboratory, broken containment circles
@@ -92,14 +92,14 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Environmental Challenge:** Each floor closer to peak increases corruption (CON save DC 12 + floor number or gain 1 exposure)
 
 #### Event 4: The Resonance Chamber
-**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Peak - Resonance Chamber]]
+**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Peak - Resonance Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resonance Chamber]]
 **NPCs:** [[Vex Shadowthorn's Apprentices]] (2)
 **Outcome:**
 - Massive 20-foot crystal formation pulsing with energy
 - Apprentices conducting ritual to "call the Deep God"
 - Can attempt to reason (Persuasion DC 20) or fight
 - Disrupting ritual triggers vision sequence
-- [[02_Worldbuilding/People/The Crimson Sage]] appears briefly to help if needed
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] appears briefly to help if needed
 
 ### The Shared Vision
 When the ritual is disrupted, everyone experiences:
@@ -167,7 +167,7 @@ Per Player: 200-250 (depending on party size)
 
 ### Relationship Changes
 - [[Jasper Three-Eyes Flint]] - Disposition varies based on treatment
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
 
 ## World Changes
 - Lighthouse experiments disrupted
@@ -198,7 +198,7 @@ Per Player: 200-250 (depending on party size)
 7. Festival is significant deadline
 
 ## Hooks for Next Session
-1. Emergency council in [[02_Worldbuilding/Places/Port Meridian]]
+1. Emergency council in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 2. Three days missing - what happened?
 3. Jasper has one shard and is running
 4. Festival deadline approaching
@@ -246,7 +246,7 @@ Per Player: 200-250 (depending on party size)
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Captain Blackwater's Fate]]
+- [[02_Worldbuilding/Quests/Captain Blackwater's Fate|02 Worldbuilding/Quests/Captain Blackwater's Fate]]
 
 
 ## Connections

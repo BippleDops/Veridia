@@ -99,4 +99,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Random Encounter Tables]]
+- [[02_Worldbuilding/Lore/Random Encounter Tables|02 Worldbuilding/Lore/Random Encounter Tables]]

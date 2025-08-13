@@ -89,7 +89,7 @@ Perfectly preserved vessel in a silence pool. Crew found dead with expressions o
 1. Whispers increasing in volume and frequency
 2. New type of whisper speaking in mathematical equations
 3. [[Free Current]] operative lost in the Echo Chamber
-4. Reports of whispers being heard in [[02_Worldbuilding/Places/New Tethys]]
+4. Reports of whispers being heard in [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 5. The Silent Ones claiming a "Great Whisper" approaches
 
 ## Secrets
@@ -181,7 +181,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths|02 Worldbuilding/Places/The Whispering Depths]]
 
 <!-- enriched: true -->
 - [[Depth Wardens]]

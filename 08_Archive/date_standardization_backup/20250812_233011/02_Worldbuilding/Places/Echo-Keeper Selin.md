@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/Sister Morwyn|02 Worldbuilding/Places/Sister Morwyn]]
 
 
 ## Connections

@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-psion-xmm-githzerai-psion-xmm.svg)
 
-# [Githzerai Psion](3-Mechanics\CLI\bestiary\aberration/githzerai-psion-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/githzerai-psion-xmm|Githzerai Psion]]
 *Source: Monster Manual (2024) p. 137*  
 
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
@@ -91,11 +91,11 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+8"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+8"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
@@ -105,19 +105,19 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
       \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of\
-      \ (A) the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition until\
-      \ the start of the githzerai's next turn or (B) the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ (A) the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition until\
+      \ the start of the githzerai's next turn or (B) the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition, provided the target is a Large or smaller creature."
     "name": "Psychic Warp"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is Invisible)\n\n1/day each: [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md)"
+      At will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]] (the hand\
+      \ is Invisible)\n\n1/day each: [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]],\
+      \ [[/03_Mechanics/CLI/spells/see-invisibility-xphb|See Invisibility]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md)\
-      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The githzerai casts [[/03_Mechanics/CLI/spells/feather-fall-xphb|Feather Fall]]\
+      \ or [[/03_Mechanics/CLI/spells/shield-xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense"

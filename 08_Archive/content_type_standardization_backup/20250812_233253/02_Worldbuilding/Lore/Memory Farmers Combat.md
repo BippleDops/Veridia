@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Recursion Oracle]]
+- [[02_Worldbuilding/Lore/The Recursion Oracle|02 Worldbuilding/Lore/The Recursion Oracle]]
 
 
 ## Connections

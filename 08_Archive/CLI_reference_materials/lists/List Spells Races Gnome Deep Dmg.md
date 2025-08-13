@@ -20,16 +20,16 @@ world: Both
 
 ## 1st Level
 
-- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] 
 
 ## 2nd Level
 
-- [Blindness/Deafness](/03_Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") 
-- [Blur](/03_Mechanics/CLI/spells/blur-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/blindness-deafness-xphb "XPHB"|Blindness/Deafness]] 
+- [[/03_Mechanics/CLI/spells/blur-xphb "XPHB"|Blur]] 
 
 ## 3rd Level
 
-- [Nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/nondetection-xphb "XPHB"|Nondetection]]
 
 ## Player-Facing Summary
 

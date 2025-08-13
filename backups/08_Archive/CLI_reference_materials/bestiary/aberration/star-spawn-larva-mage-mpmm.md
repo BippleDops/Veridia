@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-larva-mage-mpmm-star-spawn-larva-mage-mpmm.svg)
 
-# [Star Spawn Larva Mage](3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mpmm|Star Spawn Larva Mage]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -77,19 +77,19 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
-  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-      \ of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) in the\
+  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm\
+      \ of insects]] in the\
       \ same space. Unless the swarm is destroyed, the mage reforms from it 24 hours\
       \ later."
     "name": "Return to Worms"
@@ -98,7 +98,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 7\
       \ (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution\
-      \ saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) until\
+      \ saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] until\
       \ the end of its next turn."
     "name": "Slam"
   - "desc": "Ranged Spell Attack: +8 to hit, range 60 ft., one target. Hit: 19\
@@ -106,7 +106,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Eldritch Bolt"
   - "desc": "Each creature other than a star spawn within 10 feet of the mage must\
       \ succeed on a DC 19 Dexterity saving throw or take 22 (5d8) necrotic damage\
-      \ and be [blinded](/03_Mechanics/CLI/conditions.md#Blinded) and [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ and be [[/03_Mechanics/CLI/conditions#Blinded|blinded]] and [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
       \ by masses of swarming worms. The affected creature takes 22 (5d8) necrotic\
       \ damage at the start of each of the mage's turns. The creature can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
@@ -114,9 +114,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Plague of Worms (Recharge 6)"
   - "desc": "The mage casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
-      \ will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [message](/03_Mechanics/CLI/spells/message-xphb.md),\
-      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n1/day:\
-      \ [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md)"
+      \ will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]], [[/03_Mechanics/CLI/spells/message-xphb|message]],\
+      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]]\n\n1/day:\
+      \ [[/03_Mechanics/CLI/spells/dominate-monster-xphb|dominate monster]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 20 feet of the mage fails a saving throw, the\
@@ -127,7 +127,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The mage makes one Eldritch Bolt attack."
     "name": "Eldritch Bolt (Costs 2 Actions)"
-  - "desc": "Each creature [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "Each creature [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
       \ by the mage's Plague of Worms takes 13 (3d8) necrotic damage, and the mage\
       \ gains 6 temporary hit points."
     "name": "Feed (Costs 3 Actions)"

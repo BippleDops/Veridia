@@ -285,6 +285,6 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
+- [[02_Worldbuilding/Places/Diplomatic Protocol Center|02 Worldbuilding/Places/Diplomatic Protocol Center]]
 
 <!-- enriched: true -->

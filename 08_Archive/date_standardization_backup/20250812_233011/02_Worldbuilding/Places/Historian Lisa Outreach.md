@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Historian Lisa Outreach]]
+- [[02_Worldbuilding/Places/Historian Lisa Outreach|02 Worldbuilding/Places/Historian Lisa Outreach]]
 
 <!-- enriched: true -->
 

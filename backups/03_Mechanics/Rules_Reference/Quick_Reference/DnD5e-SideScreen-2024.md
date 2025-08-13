@@ -68,7 +68,7 @@ updated: '2025-08-13T01:18:37.135834+00:00'
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Movement and Position|Movement and Position]]
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Difficult Terrain|Difficult Terrain]]
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Travel Pace|Travel Pace]]
-> [[03_Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-phb]]
+> [[03_Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-phb|03 Mechanics/CLI/tables/mounts And Vehicles Mounts And Other Animals Phb]]
 > [[03_Mechanics/CLI/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 > [[03_Mechanics/CLI/variant-rules/flying-xphb|Flying]]
 > [[03_Mechanics/CLI/variant-rules/swimming-xphb|Swimming]]
@@ -95,13 +95,13 @@ updated: '2025-08-13T01:18:37.135834+00:00'
 
 > [!info]- Magic Schools
 > ![[03_Mechanics/CLI/tables/school-of-magic-schools-of-magic-xphb|School of Magic; Schools of Magic]]
-> [[03_Mechanics/CLI/lists/list-spells-school-conjuration]]
-> [[03_Mechanics/CLI/lists/list-spells-school-enchantment]]
-> [[03_Mechanics/CLI/lists/list-spells-school-evocation]]
-> [[03_Mechanics/CLI/lists/list-spells-school-transmutation]]
-> [[03_Mechanics/CLI/lists/list-spells-school-abjuration]]
-> [[03_Mechanics/CLI/lists/list-spells-school-necromancy]]
-> [[03_Mechanics/CLI/lists/list-spells-school-divination]]
+> [[03_Mechanics/CLI/lists/list-spells-school-conjuration|03 Mechanics/CLI/lists/list Spells School Conjuration]]
+> [[03_Mechanics/CLI/lists/list-spells-school-enchantment|03 Mechanics/CLI/lists/list Spells School Enchantment]]
+> [[03_Mechanics/CLI/lists/list-spells-school-evocation|03 Mechanics/CLI/lists/list Spells School Evocation]]
+> [[03_Mechanics/CLI/lists/list-spells-school-transmutation|03 Mechanics/CLI/lists/list Spells School Transmutation]]
+> [[03_Mechanics/CLI/lists/list-spells-school-abjuration|03 Mechanics/CLI/lists/list Spells School Abjuration]]
+> [[03_Mechanics/CLI/lists/list-spells-school-necromancy|03 Mechanics/CLI/lists/list Spells School Necromancy]]
+> [[03_Mechanics/CLI/lists/list-spells-school-divination|03 Mechanics/CLI/lists/list Spells School Divination]]
 > [[03_Mechanics/CLI/lists/list-spells-school-transmutation|Transmutation Spells]]
 
 > [!info]- Skills
@@ -146,4 +146,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/CLI/conditions]]
+- [[03_Mechanics/CLI/conditions|03 Mechanics/CLI/conditions]]

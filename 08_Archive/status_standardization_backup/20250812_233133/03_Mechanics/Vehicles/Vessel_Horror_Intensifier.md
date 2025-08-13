@@ -18,7 +18,7 @@ world: Both
 
 # Vessel Horror Intensifier
 
-Turn ships into characters and haunted spaces. Hooks deeply into [[02_Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules.
+Turn ships into characters and haunted spaces. Hooks deeply into [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules.
 
 ## Confined-Space Horror
 - Isolation Clocks: Track hours without external contact; escalate checks
@@ -67,13 +67,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/Travel/Merger_Transit_Complications]]
+- [[06_GM_Resources/Travel/Merger_Transit_Complications|06 GM Resources/Travel/Merger Transit Complications]]
 
 
 ## Connections
 
-- [[Aquabyssos_Submarines]]
-- [[Journey_Event_Compiler]]
-- [[Merger_Hybrid_Vehicles]]
-- [[Vehicle_Customization_Progression]]
-- [[Merger_Transit_Complications]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Journey_Event_Compiler|Journey Event Compiler]]
+- [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]]
+- [[Vehicle_Customization_Progression|Vehicle Customization Progression]]
+- [[Merger_Transit_Complications|Merger Transit Complications]]

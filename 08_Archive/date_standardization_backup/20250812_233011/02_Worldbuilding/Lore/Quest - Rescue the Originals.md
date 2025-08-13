@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation]]
+- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
 
 
 ## Connections

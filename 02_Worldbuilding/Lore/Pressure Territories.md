@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy|02 Worldbuilding/Places/The Pressure Conspiracy]]
 
 
 ## Connections

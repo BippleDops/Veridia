@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-oblex-mpmm-adult-oblex-mpmm.svg)
 
-# [Adult Oblex](3-Mechanics\CLI\bestiary\ooze/adult-oblex-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\ooze/adult-oblex-mpmm|Adult Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -67,16 +67,16 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "intelligence": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "desc": "\n\nOne of [Arcana](/03_Mechanics/CLI/skills.md#Arcana) +7, [History](/03_Mechanics/CLI/skills.md#History)\
-      \ +7, [Nature](/03_Mechanics/CLI/skills.md#Nature) +7, or [Religion](/03_Mechanics/CLI/skills.md#Religion)\
+  - "desc": "\n\nOne of [[/03_Mechanics/CLI/skills#Arcana|Arcana]] +7, [[/03_Mechanics/CLI/skills#History|History]]\
+      \ +7, [[/03_Mechanics/CLI/skills#Nature|Nature]] +7, or [[/03_Mechanics/CLI/skills#Religion|Religion]]\
       \ +7"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
 "languages": "Common plus two more languages"
 "cr": "5"
@@ -97,22 +97,22 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ or [heal](/03_Mechanics/CLI/spells/heal-xphb.md) spell. Constructs, Oozes,\
+      \ it benefits from the [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]]\
+      \ or [[/03_Mechanics/CLI/spells/heal-xphb|heal]] spell. Constructs, Oozes,\
       \ Plants, and Undead succeed on the save automatically.\n\nWhile memory drained,\
       \ the target must roll a d4 and subtract the number rolled from its ability\
       \ checks and attack rolls. Each time the target is memory drained beyond the\
       \ first, the die size increases by one: the d4 becomes a d6, the d6 becomes\
       \ a d8, and so on until the die becomes a d20, at which point the target becomes\
-      \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) for 1 hour. The\
+      \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] for 1 hour. The\
       \ effect then ends.\n\nThe oblex learns all the languages a memory-drained target\
       \ knows and gains all its skill proficiencies."
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      3/day each: [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md)\
-      \ (as 5th-level spell), [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [hypnotic pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
+      3/day each: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]]\
+      \ (as 5th-level spell), [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]],\
+      \ [[/03_Mechanics/CLI/spells/hypnotic-pattern-xphb|hypnotic pattern]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\

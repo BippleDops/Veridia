@@ -11,7 +11,7 @@ status: complete
 world: Aethermoor
 type: NPC
 role: Scale of Acquisition
-affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
 age: '38'
 race: Half-Dragon (Silver Heritage)
 location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
@@ -31,7 +31,7 @@ updated: 2025-08-11
 *The Corporate Predator, Mistress of Hostile Takeovers*
 
 ## Overview
-Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, specializing in hostile takeovers, corporate warfare, and the complete destruction of business competitors. Her silver dragon heritage gives her both supernatural abilities and an instinctive understanding of greed and acquisition, making her the Consortium's most feared negotiator and its most effective weapon against economic rivals.
+Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, specializing in hostile takeovers, corporate warfare, and the complete destruction of business competitors. Her silver dragon heritage gives her both supernatural abilities and an instinctive understanding of greed and acquisition, making her the Consortium's most feared negotiator and its most effective weapon against economic rivals.
 
 ## Description
 - **Appearance**: Tall, elegant woman with silver-streaked black hair and predatory green eyes
@@ -102,7 +102,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuildin
 
 ## Relationships
 ### Consortium Board
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Competitive respect between ambitious executives
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]**: Competitive respect between ambitious executives
 - **[[Countess Argentum Vaultkeeper]]**: Alliance based on mutual benefit
 - **[[Marcus Ledgerborn]]**: Professional relationship focused on trade efficiency
 - **[[Commander Ironprice]]**: Coordinates military support for corporate operations
@@ -110,7 +110,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuildin
 
 ### External Relations
 - **Target Companies**: Views them as prey to be consumed
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees as obstacle to complete corporate control
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees as obstacle to complete corporate control
 - **Independent Merchants**: Constantly evaluating for acquisition potential
 - **Foreign Competitors**: International rivals requiring different strategies
 - **Dragon Descendants**: Complex relationship with others sharing draconic heritage
@@ -173,7 +173,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuildin
 - Becomes bridge between draconic and human perspectives
 
 ## Connected Elements
-- Central figure for [[02_Worldbuilding/Groups/Silverscale Consortium]] corporate warfare
+- Central figure for [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] corporate warfare
 - Links dragon heritage to modern corporate themes
 - Represents extreme capitalism and social Darwinism
 - Key antagonist for independent business storylines
@@ -501,7 +501,7 @@ Internal Consortium politics threaten civil war as board members position themse
 - [[Silverscale Consortium]]
 - [[Commander Thrace Ironwood]]
 - [[The Nameless Auditor]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -513,7 +513,7 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip|02 Worldbuilding/People/Lady Jade Clawgrip]]
 
 <!-- enriched: true -->
 - [[Purist Coalition]]

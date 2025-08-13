@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Nautilus Threadmender]]
+- [[02_Worldbuilding/Places/Nautilus Threadmender|02 Worldbuilding/Places/Nautilus Threadmender]]
 
 <!-- enriched: true -->

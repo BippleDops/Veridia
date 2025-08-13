@@ -28,11 +28,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 252*
 

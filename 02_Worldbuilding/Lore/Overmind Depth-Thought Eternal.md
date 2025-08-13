@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy|02 Worldbuilding/Places/Deepmind Conspiracy]]
 
 
 ## Connections

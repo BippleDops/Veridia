@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Envoy Blackwater Jr.]]
+- [[02_Worldbuilding/Places/Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
 
 
 ## Connections

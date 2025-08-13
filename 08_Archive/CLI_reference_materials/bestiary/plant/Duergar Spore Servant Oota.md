@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
 
-# [Duergar Spore Servant](3-Mechanics\CLI\bestiary\plant/duergar-spore-servant-oota.md)
+# [[3-Mechanics\CLI\bestiary\plant/duergar-spore-servant-oota|Duergar Spore Servant]]
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -33,7 +33,7 @@ world: Both
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[scale mail](/03_Mechanics/CLI/items/scale-mail-xphb.md), [shield](/03_Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/scale-mail-xphb|scale mail]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -46,8 +46,8 @@ world: Both
   - !!int "1"
 "speed": "15 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"

@@ -58,7 +58,7 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - **Birth**: Born during the Great Storm of 2958, when three hurricanes converged
 - **Family**: Daughter of lighthouse keepers who disappeared during her thirteenth year
 - **The Calling**: Experienced first prophetic vision during violent storm at age 16
-- **Sea-Touched**: Transformed by direct contact with a fragment of [[02_Worldbuilding/Lore/The Deep Mother]]'s consciousness
+- **Sea-Touched**: Transformed by direct contact with a fragment of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s consciousness
 - **Wandering Years**: Spent decade learning to control visions while traveling realm's waters
 
 ### The Awakening
@@ -208,7 +208,7 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 #### The Memory War Resolution (2998)
 - **Prophecy**: Violent conflict in memory trade would end through unexpected alliance
 - **Prediction**: Specific individuals who would negotiate peace agreement
-- **Fulfillment**: [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]] led reform movement exactly as foreseen
+- **Fulfillment**: [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave|02 Worldbuilding/People/Memory Merchant Valeria Siltweave]] led reform movement exactly as foreseen
 - **Timeline**: Events unfolded over six months precisely as predicted
 - **Consequence**: Oracle became trusted advisor to reformed memory trading industry
 
@@ -222,13 +222,13 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 
 #### The Deep Mother's Stirring
 - **Prophecy**: Sleeping goddess showing signs of approaching wakefulness
-- **Indicators**: Increased activity in [[02_Worldbuilding/Places/Shadow Wells]], strange dreams affecting many people
+- **Indicators**: Increased activity in [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]], strange dreams affecting many people
 - **Timeline**: Major changes within next decade
 - **Implications**: Could fundamentally alter nature of Aquabyssos and its inhabitants
 - **Response**: Working with various groups to prepare for possible awakening
 
 #### The Shard Awakening
-- **Vision**: [[02_Worldbuilding/Lore/The Seven Shards]] beginning to manifest increased activity
+- **Vision**: [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] beginning to manifest increased activity
 - **Cause**: Growing instability between realms triggering ancient safeguards
 - **Prediction**: Multiple Shards will reveal themselves within next few years
 - **Danger**: Competition for Shards could lead to devastating conflicts
@@ -236,21 +236,21 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 
 ## Relationships & Connections
 ### Professional Contacts
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Regular political consultations, mutual respect
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military intelligence briefings during crises
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Guided through ethical transformation via prophecy
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological discussions about prophecy and divine will
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Regular political consultations, mutual respect
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart|02 Worldbuilding/People/Commander Typhoon Blackheart]]**: Military intelligence briefings during crises
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave|02 Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Guided through ethical transformation via prophecy
+- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological discussions about prophecy and divine will
 
 ### Faction Relations
 #### Government Cooperation
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Consulted on major policy decisions
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Consulted on major policy decisions
 - **Regional Governors**: Regular communication about local threats and opportunities
 - **Military Commands**: Crisis prediction and strategic intelligence
 - **Diplomatic Corps**: International relation forecasts and negotiation guidance
 
 #### Economic Networks
 - **[[The Liminal Trading Company]]**: Trade route safety and market predictions
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Occasional consultation despite moral reservations
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Occasional consultation despite moral reservations
 - **Independent Merchants**: Regular fortune readings and protection blessings
 - **Fishing Communities**: Weather and sea condition forecasting
 
@@ -264,7 +264,7 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 #### Students & Apprentices
 - **Tidal Acolyte Marina**: Young woman learning basic divination techniques
 - **Storm-Reader Jonas**: Former sailor developing weather prediction abilities
-- **Deep-Seer Coral**: Advanced student studying connection to [[02_Worldbuilding/Lore/The Deep Mother]]
+- **Deep-Seer Coral**: Advanced student studying connection to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 - **Current Capacity**: Takes 3-4 serious students at any given time
 
 #### Support Staff
@@ -315,9 +315,9 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 **Epic Stakes**: Decision affects fate of both realms and millions of lives
 
 ## Connected Elements
-- Links to [[02_Worldbuilding/Lore/The Deep Mother]] through sea-touched transformation and prophetic connection
-- Associated with [[02_Worldbuilding/Places/Shadow Wells]] through predictive warnings about their activity
-- Connected to [[02_Worldbuilding/Lore/The Seven Shards]] through ongoing prophecies about their awakening
+- Links to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] through sea-touched transformation and prophetic connection
+- Associated with [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]] through predictive warnings about their activity
+- Connected to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] through ongoing prophecies about their awakening
 - Relationships with all major political figures through consultation services
 - Links to [[The Convergence Seekers]] through warnings about convergence dangers
 - Connected to reformed [[Memory Farmers]] through guidance during industry transformation
@@ -351,7 +351,7 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - [[Crown of Tidal Sovereignty]]
 - [[The Memory Storm Fields]]
 - [[The Tidepool Markets]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -363,7 +363,7 @@ Legends speak of Oracle Nerida the Tidereader as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader|02 Worldbuilding/People/Oracle Nerida The Tidereader]]
 
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]

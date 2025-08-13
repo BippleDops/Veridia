@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]
+- [[02_Worldbuilding/People/High Priest Daemon Shadowprayer|02 Worldbuilding/People/High Priest Daemon Shadowprayer]]
 
 <!-- enriched: true -->
 

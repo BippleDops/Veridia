@@ -57,7 +57,7 @@ updated: '2025-08-13T01:18:37.137598+00:00'
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](03_Mechanics/CLI/conditions.md)"
+"condition_immunities": "[[03_Mechanics/CLI/conditions|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
@@ -66,7 +66,7 @@ updated: '2025-08-13T01:18:37.137598+00:00'
     \ effects."
   "name": "Magic Resistance"
 - "desc": "The yek has advantage on attack rolls against a creature if at least one\
-    \ of the yek's allies is within 5 feet of the creature and the ally isn't [incapacitated](03_Mechanics/CLI/conditions.md)."
+    \ of the yek's allies is within 5 feet of the creature and the ally isn't [[03_Mechanics/CLI/conditions|incapacitated]]."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The alpha yek makes one bite attack and two claw attacks. It can make a\
@@ -99,7 +99,7 @@ updated: '2025-08-13T01:18:37.137598+00:00'
 
 ## Favor Warlike Lords
 
-While [Qorgeth](03_Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob.md) (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [Chittr'k'k](03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex.md), and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [Mechuiti](03_Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob.md), lord of cannibals, and to [Typhon](03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex.md), lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [hierophant liches](03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex.md), [umbral vampires](03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob.md), or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
+While [[03_Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob|Qorgeth]] (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [[03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex|Chittr'k'k]], and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [[03_Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob|Mechuiti]], lord of cannibals, and to [[03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex|Typhon]], lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [[03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex|hierophant liches]], [[03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob|umbral vampires]], or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
 
 ## Pack of Cannibals
 

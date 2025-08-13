@@ -125,7 +125,7 @@ The Surface Syndicate provides excellent opportunities for morally ambiguous adv
 ## Connections
 
 - [[The Barnacle]]
-- [[The_Crimson_Pearl]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
 
 
 ## Appearance
@@ -167,6 +167,6 @@ Legends speak of Surface Syndicate as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Syndicate]]
+- [[02_Worldbuilding/People/Surface Syndicate|02 Worldbuilding/People/Surface Syndicate]]
 
 <!-- enriched: true -->

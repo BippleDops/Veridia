@@ -87,7 +87,7 @@ The earliest criminal activities occurred during the establishment of the fundam
 - [[Evidence Chain Analysis]]
 - [[Evidence Types Guide]]
 - [[Silver Mask]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -111,7 +111,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[The Final Choice]]
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor]]

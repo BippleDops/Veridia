@@ -24,7 +24,7 @@ updated: '2025-08-12T23:37:35.759389'
 world: Both
 ---
 
-# [Kobold Dragonshield](3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -41,7 +41,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[leather](/03_Mechanics/CLI/items/leather-armor-xphb.md), [shield](/03_Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -54,7 +54,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   - !!int "10"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
 "senses": "darkvision 60 ft., passive Perception 11"
@@ -66,8 +66,8 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
       \ 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning\
       \ (blue or bronze); 9–10, poison (green)."
     "name": "Dragon's Resistance"
-  - "desc": "If the kobold is [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
-      \ or [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) by an effect that\
+  - "desc": "If the kobold is [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ or [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] by an effect that\
       \ allows a saving throw, it can repeat the save at the start of its turn to\
       \ end the effect on itself and all kobolds within 30 feet of it. Any kobold\
       \ that benefits from this trait (including the dragonshield) has advantage on\
@@ -75,10 +75,10 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
     "name": "Heart of the Dragon"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":

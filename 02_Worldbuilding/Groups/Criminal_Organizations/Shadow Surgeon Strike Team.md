@@ -36,13 +36,13 @@ world: Aquabyssos
 *The Scalpel Squadron, Surgical Assassins, Doctors of Death*
 
 ## Overview
-The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Worldbuilding/Groups/Shadow Surgery Centers]], combining advanced medical knowledge with lethal combat expertise. These highly trained operatives specialize in precision surgical strikes, battlefield medicine, and elimination targets through medical means. They are simultaneously healers and killers, capable of saving lives or ending them with clinical efficiency. Operating in the shadows between worlds, they serve as both protection for shadow medical operations and instruments of surgical warfare.
+The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]], combining advanced medical knowledge with lethal combat expertise. These highly trained operatives specialize in precision surgical strikes, battlefield medicine, and elimination targets through medical means. They are simultaneously healers and killers, capable of saving lives or ending them with clinical efficiency. Operating in the shadows between worlds, they serve as both protection for shadow medical operations and instruments of surgical warfare.
 
 ## History
 
 ### Formation Era (15 Years Ago)
 **Birth of Medical Warfare**
-- Created by [[Dr. Penumbra Voidheart]] following attacks on [[02_Worldbuilding/Groups/Shadow Surgery Centers]]
+- Created by [[Dr. Penumbra Voidheart]] following attacks on [[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]
 - Initial recruitment from military medics with shadow-touched abilities
 - First mission: protecting shadow medical facilities from government raids
 - Established [[The Shadow Operating Theater]] as training facility
@@ -58,8 +58,8 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 ### Shadow War Participation (8-5 Years Ago)
 **Covert Operations Expansion**
-- Direct involvement in [[02_Worldbuilding/Groups/The Shadow Conspiracy]] operations
-- Cross-dimensional missions into [[02_Worldbuilding/Places/Aethermoor]]
+- Direct involvement in [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] operations
+- Cross-dimensional missions into [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - Development of memory extraction combat techniques
 - Establishment of surgical interrogation protocols
 - First documented use of consciousness weaponization
@@ -187,12 +187,12 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 - **Patient Information Database**: Medical records for potential targets
 - **Shadow Organization Coordination**: Integration with broader shadow operations
 - **Government Medical Intelligence**: Information on official medical systems
-- **Cross-Dimensional Networks**: Contacts in [[02_Worldbuilding/Places/Aethermoor]] and beyond
+- **Cross-Dimensional Networks**: Contacts in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and beyond
 
 ## Current Operations
 
 ### Standard Missions
-1. **Facility Protection**: Guard [[02_Worldbuilding/Groups/Shadow Surgery Centers]] from threats
+1. **Facility Protection**: Guard [[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]] from threats
 2. **Surgical Assassinations**: Eliminate targets through medical means
 3. **Combat Medicine Support**: Provide medical care for shadow operatives
 4. **Intelligence Extraction**: Gather information through medical interrogation
@@ -226,7 +226,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 #### Operation Cross-Dimensional Medicine
 **Inter-Realm Medical Warfare**
-- Expansion of operations into [[02_Worldbuilding/Places/Aethermoor]]
+- Expansion of operations into [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - Development of techniques for different dimensional medical systems
 - Creation of shadow medical facilities in multiple realms
 - Research into dimensional anchor medical manipulation
@@ -235,31 +235,31 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ## Relationships & Politics
 
 ### Shadow Organizations
-- **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]**: Parent organization and primary employer
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Major contractor for covert operations
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship - uses services but represents threat
+- **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**: Parent organization and primary employer
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Major contractor for covert operations
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship - uses services but represents threat
 - **[[Memory Farmers]]**: Collaborative relationship for consciousness operations
 - **[[Shadow Underground]]**: Support network for operations and cover
 
 ### Medical Community
 - **Conventional Medical Professionals**: Deep cover infiltration and intelligence gathering
-- **[[02_Worldbuilding/Places/Aquabyssos]] Medical Guild**: Surveillance and occasional cooperation
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Medical Guild**: Surveillance and occasional cooperation
 - **Combat Medics**: Recruitment source and professional rivalry
 - **Medical Researchers**: Intelligence targets and potential assets
 - **Hospital Administrators**: Infiltration targets and operational cover
 
 ### Military Organizations
-- **[[02_Worldbuilding/Places/Aquabyssos]] Military**: Former colleagues turned potential enemies
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Military**: Former colleagues turned potential enemies
 - **Special Forces Units**: Professional competition and tactical study
 - **Intelligence Agencies**: Cat-and-mouse game of infiltration and detection
 - **Foreign Military Medical**: Cross-dimensional intelligence and cooperation
 - **Mercenary Medical Units**: Recruitment and competitive conflict
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Covert surveillance and potential targets
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Covert surveillance and potential targets
 - **Medical Regulators**: Active opposition and infiltration
 - **Law Enforcement**: Avoidance and elimination of investigative threats
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unknown but assumed hostile
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]**: Unknown but assumed hostile
 - **International Authorities**: Cross-dimensional law enforcement concerns
 
 ## Training & Recruitment
@@ -416,16 +416,16 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ### Key NPCs
 - **[[Colonel Dr. Vivisection]]** - Strike team commander and surgical warfare expert
 - **[[Dr. Penumbra Voidheart]]** - Founder of parent organization and ultimate authority
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex relationship with shadow medical operations
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Complex relationship with shadow medical operations
 - **[[Major Surgeon Nightfall]]** - Operations chief and tactical planning expert
 - **[[Captain Dr. Bloodletting]]** - Combat medicine director and battlefield expert
 
 ### Related Locations
 - **[[The Shadow Operating Theater]]** - Primary training and operations facility
-- **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]** - Parent organization locations
+- **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]** - Parent organization locations
 - **[[Combat Medicine Laboratory]]** - Research and development facility
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Primary operational territory
-- **[[02_Worldbuilding/Places/Aethermoor]]** - Cross-dimensional operations target
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]** - Primary operational territory
+- **[[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]** - Cross-dimensional operations target
 
 ### Associated Quests
 - **[[Quest - The Surgical Assassin]]** - Hunt down rogue medical operative
@@ -436,7 +436,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 ### Important Items
 - **[[Shadow Surgical Instruments]]** - Medical weapons and specialized equipment
-- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Consciousness warfare technology
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Consciousness warfare technology
 - **[[Medical Combat Manual]]** - Training guide for surgical warfare
 - **[[Strike Team Communications]]** - Secure operational coordination equipment
 - **[[Medical Cover Credentials]]** - False documentation for infiltration
@@ -457,7 +457,7 @@ Legends speak of Shadow Surgeon Strike Team as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers|02 Worldbuilding/Places/Memory Farmers]]
 
 
 ## Connections

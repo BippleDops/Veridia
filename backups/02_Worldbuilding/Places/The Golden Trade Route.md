@@ -24,21 +24,21 @@ danger_level: Moderate
 *The Lifeblood of Continental Commerce*
 
 ## Overview
-The Golden Trade Route is the primary overland commercial highway connecting [[02_Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/Crystalhaven]], and [[02_Worldbuilding/Places/The Sundered Peaks]], facilitating the flow of goods, information, and political influence across the continent while facing constant threats from bandits, monsters, and criminal organizations.
+The Golden Trade Route is the primary overland commercial highway connecting [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], and [[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]], facilitating the flow of goods, information, and political influence across the continent while facing constant threats from bandits, monsters, and criminal organizations.
 
 ## Key Connections
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Western terminus and maritime connection hub
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Central hub and crystal processing center  
-- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Primary goods distribution center
-- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Route security and logistics coordination
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Major investors and cargo owners
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Banditry and protection rackets along route
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Alternate transportation for restricted goods
-- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Supply source requiring secure transport
-- **[[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]** - Finished goods transport network
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military protection provider
-- **[[02_Worldbuilding/Groups/The Seekers' Guild]]** - Equipment and expedition supply chain
-- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Financial backbone enabling trade credit
+- **[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]** - Western terminus and maritime connection hub
+- **[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]** - Central hub and crystal processing center  
+- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins|02 Worldbuilding/Places/The Grand Bazaar Of Echoing Coins]]** - Primary goods distribution center
+- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium|02 Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Route security and logistics coordination
+- **[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]** - Major investors and cargo owners
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Banditry and protection rackets along route
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Alternate transportation for restricted goods
+- **[[02_Worldbuilding/Places/The Iron Pits of Malachar|02 Worldbuilding/Places/The Iron Pits Of Malachar]]** - Supply source requiring secure transport
+- **[[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters|02 Worldbuilding/Groups/The Artisans' Collective Of Master Crafters]]** - Finished goods transport network
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military protection provider
+- **[[02_Worldbuilding/Groups/The Seekers' Guild|02 Worldbuilding/Groups/The Seekers' Guild]]** - Equipment and expedition supply chain
+- **[[02_Worldbuilding/Places/The Crystal Stock Exchange|02 Worldbuilding/Places/The Crystal Stock Exchange]]** - Financial backbone enabling trade credit
 
 ## History
 
@@ -89,6 +89,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Golden Trade Route]]
+- [[02_Worldbuilding/Places/The Golden Trade Route|02 Worldbuilding/Places/The Golden Trade Route]]
 
 <!-- enriched: true -->

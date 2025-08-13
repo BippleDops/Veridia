@@ -20,15 +20,15 @@ world: Both
 
 ## 1st Level
 
-- [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/fog-cloud-xphb "XPHB"|Fog Cloud]] 
 
 ## 2nd Level
 
-- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/gust-of-wind-xphb "XPHB"|Gust of Wind]] 
 
 ## 3rd Level
 
-- [Wall of Water](/03_Mechanics/CLI/spells/wall-of-water-xge.md "XGE")
+- [[/03_Mechanics/CLI/spells/wall-of-water-xge "XGE"|Wall of Water]]
 
 ## Player-Facing Summary
 

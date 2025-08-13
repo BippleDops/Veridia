@@ -27,7 +27,7 @@ world: Both
 
 
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) checks made to climb or swim.
+While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) checks made to climb or swim.
 
 *Source: Dungeon Master's Guide (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -20,7 +20,7 @@ world: Both
 # Blind Fighting
 *Source: Player's Handbook (2024) p. 209*  
 
-You have [Blindsight](/03_Mechanics/CLI/senses.md#Blindsight) with a range of 10 feet.
+You have [[/03_Mechanics/CLI/senses#Blindsight|Blindsight]] with a range of 10 feet.
 
 ## Player-Facing Summary
 

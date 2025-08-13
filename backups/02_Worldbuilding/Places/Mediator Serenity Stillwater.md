@@ -738,7 +738,7 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 - [[Admiral Thorne Blackwater]]
 - [[The Bathyal Palace]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
@@ -761,7 +761,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater|02 Worldbuilding/Places/Mediator Serenity Stillwater]]
 
 <!-- enriched: true -->
 - [[Memory Farmers]]

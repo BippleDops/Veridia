@@ -41,7 +41,7 @@ danger_level: High
 *Where air meets water, and diplomacy meets conspiracy*
 
 ## Overview
-The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[02_Worldbuilding/Places/The Shadowmere]], serving as [[Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
+The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]], serving as [[Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
 
 ## Description
 The Embassy appears as a once-grand marble structure that seems to have been pulled partially into the swamp. The upper floors maintain an illusion of normalcy with dry meeting rooms and offices, while the lower levels are completely flooded, accessible only to those who can breathe water. Strange bioluminescent coral grows along the waterline, pulsing with an rhythm that matches the tides of distant seas.
@@ -59,16 +59,16 @@ The Embassy appears as a once-grand marble structure that seems to have been pul
 - Holding cells for "guests" being prepared for transformation
 
 ## Current Inhabitants
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Primary resident and operator
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]** - Primary resident and operator
 - **Tidecaller Nerissa** - Korvin's attaché and enforcer
 - **The Drowned Chorus** - 12 transformed humans who serve as staff
 - **Various Deep Ones** - Aquabyssos natives who rotate through
 
 ## Connections
-- **[[02_Worldbuilding/Places/The Shadowmere]]**: Located in the darkest, most isolated section
-- **[[02_Worldbuilding/Places/Port Meridian]]**: Secret underwater tunnels connect to the harbor
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: The [[02_Worldbuilding/Groups/The Whisper Syndicate]] helps smuggle goods
-- **[[02_Worldbuilding/Places/Crystalhaven]]**: Maintains official diplomatic immunity despite suspicions
+- **[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]**: Located in the darkest, most isolated section
+- **[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]**: Secret underwater tunnels connect to the harbor
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: The [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] helps smuggle goods
+- **[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]**: Maintains official diplomatic immunity despite suspicions
 
 ## Notable Features
 
@@ -89,13 +89,13 @@ A grotesque fusion of corrupted [[Aether Crystals]] and deep-sea coral, growing 
 
 ## DM Secrets
 > [!warning] The Rising Tide
-> The Embassy is slowly expanding its flooded area by inches each month. At this rate, all of [[02_Worldbuilding/Places/The Shadowmere]] will be underwater within five years, creating a beachhead for Aquabyssos invasion.
+> The Embassy is slowly expanding its flooded area by inches each month. At this rate, all of [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]] will be underwater within five years, creating a beachhead for Aquabyssos invasion.
 
 > [!danger] The Deep Gate
-> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[02_Worldbuilding/Lore/The Seven Shards]] are brought here, it could open a permanent gateway large enough for an army.
+> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] are brought here, it could open a permanent gateway large enough for an army.
 
 > [!info] Hidden Prisoners
-> Several missing nobles from [[02_Worldbuilding/Places/Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their time here, but carrying Aquabyssos commands in their subconscious.
+> Several missing nobles from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their time here, but carrying Aquabyssos commands in their subconscious.
 
 ## Encounters
 - **Diplomatic Immunity:** Guards cannot legally enter without proof of crimes
@@ -166,7 +166,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Drowned Embassy]]
+- [[02_Worldbuilding/Places/The Drowned Embassy|02 Worldbuilding/Places/The Drowned Embassy]]
 
 <!-- enriched: true -->
 - [[Aether Crystals]]

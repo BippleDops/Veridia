@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Age of Wonders]]
+- [[02_Worldbuilding/Places/Age of Wonders|02 Worldbuilding/Places/Age Of Wonders]]
 
 <!-- enriched: true -->
 

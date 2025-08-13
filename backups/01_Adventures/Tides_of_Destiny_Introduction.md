@@ -4,7 +4,7 @@ connections:
 - '[[Convergence Point]]'
 - '[[Deep Mother]]'
 - '[[Queen Seraphina Lumengarde]]'
-- '[[Campaign_Legacy_System]]'
+- '[[Campaign_Legacy_System|Campaign Legacy System]]'
 created: '2025-08-11'
 duration: 8-10 sessions
 level_range: 13-15
@@ -53,7 +53,7 @@ The adventure assumes characters have deep connections to both worlds, have face
 
 ### Central Premise: The Great Convergence Crisis
 
-The dimensional barriers between Aethermoor and Aquabyssos have become critically unstable. What began as isolated convergence incidents has escalated into a crisis that threatens the fundamental existence of both worlds. The **[[02_Worldbuilding/Lore/Deep Mother]]** stirs in the depths while **[[02_Worldbuilding/Lore/The Crystal Throne]]** resonates with dangerous energy. Ancient powers long dormant are awakening, and the cosmic balance that has sustained both civilizations for millennia is collapsing.
+The dimensional barriers between Aethermoor and Aquabyssos have become critically unstable. What began as isolated convergence incidents has escalated into a crisis that threatens the fundamental existence of both worlds. The **[[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]** stirs in the depths while **[[02_Worldbuilding/Lore/The Crystal Throne|02 Worldbuilding/Lore/The Crystal Throne]]** resonates with dangerous energy. Ancient powers long dormant are awakening, and the cosmic balance that has sustained both civilizations for millennia is collapsing.
 
 The characters stand at the center of this crisis not by accident, but by destiny. Their previous adventures, their growth in power, and their connections to both worlds have prepared them for this ultimate test. They must discover the true nature of the threat, forge alliances across impossible divides, and make sacrifices that will define the future of reality itself.
 

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall]]
+- [[02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall|02 Worldbuilding/Places/Keeper Of Crowns Lydia Starfall]]
 
 <!-- enriched: true -->
 

@@ -36,6 +36,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Truth Ironwill]]
+- [[02_Worldbuilding/People/Captain Truth Ironwill|02 Worldbuilding/People/Captain Truth Ironwill]]
 
 <!-- enriched: true -->

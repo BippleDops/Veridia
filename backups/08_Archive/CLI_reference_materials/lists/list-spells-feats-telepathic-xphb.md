@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]]
 
 ## Player-Facing Summary
 

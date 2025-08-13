@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-drider-xmm-drider-xmm.svg)
 
-# [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/drider-xmm|Drider]]
 *Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Drider
@@ -72,9 +72,9 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+10"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
@@ -83,7 +83,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the drider has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -98,8 +98,8 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/03_Mechanics/CLI/spells/web-xphb.md),\
+  - "desc": "The drider casts [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]],\
+      \ [[/03_Mechanics/CLI/spells/faerie-fire-xphb|Faerie Fire]], or [[/03_Mechanics/CLI/spells/web-xphb|Web]],\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"

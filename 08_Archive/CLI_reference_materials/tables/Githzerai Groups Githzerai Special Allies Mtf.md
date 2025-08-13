@@ -26,10 +26,10 @@ world: Both
 | dice: d8 | Ally |
 |----------|------|
 | 1-3 | The group has no allies |
-| 4-5 | `d4` [Zerths](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md) |
-| 6 | `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
-| 7 | `d4` [githzerai zerths](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md), `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
-| 8 | 1 [githzerai anarch](/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md), `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
+| 4-5 | `d4` [[/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm|Zerths]] |
+| 6 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 7 | `d4` [[/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm|githzerai zerths]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
+| 8 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|githzerai anarch]], `d4` [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|githzerai enlightened]] |
 ^githzerai-special-allies
 
 ## Player-Facing Summary

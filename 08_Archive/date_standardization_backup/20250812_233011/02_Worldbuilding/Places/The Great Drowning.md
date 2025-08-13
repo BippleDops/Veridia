@@ -29,7 +29,7 @@ accessibility:
 
 # The Great Drowning
 
-![The Great Drowning Portrait](04_Resources/Assets/Art/Places/The_Great_Drowning.png)
+![[04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait]]
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 
@@ -267,11 +267,11 @@ The Great Drowning serves as:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Thalassopolis Ruins]]
-- [[02_Worldbuilding/Lore/Depth Guard]]
-- [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos]]
-- [[03_Mechanics/Temporal_Mechanics_System]]
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
+- [[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]
+- [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
+- [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
 *"In the depths of the Great Drowning, yesterday screams, today weeps, and tomorrow drowns."*
 
@@ -285,7 +285,7 @@ Legends speak of The Great Drowning as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[02_Worldbuilding/Places/The Great Drowning|02 Worldbuilding/Places/The Great Drowning]]
 
 <!-- enriched: true -->
 

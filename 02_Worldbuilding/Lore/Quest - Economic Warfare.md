@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]]
 
 
 ## Connections

@@ -55,7 +55,7 @@ detection_difficulty: High
 - [[The Threshold]]
 - [[Compass Quest]]
 - [[Aethermoor - Session 08 Between Two Worlds]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -79,4 +79,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]

@@ -23,39 +23,39 @@ You can find all the tracking sheets found throughout the "Dungeon Master's Guid
 
 ## Game Expectations
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp#center|Download PDF]]
 
 ## Travel Planner
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp#center|Download PDF]]
 
 ## NPC Tracker
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp#center|Download PDF]]
 
 ## Settlement Tracker
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp#center|Download PDF]]
 
 ## Campaign Journal
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp#center|Download PDF]]
 
 ## DM's Character Tracker
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp#center|Download PDF]]
 
 ## Campaign Conflicts
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp#center|Download PDF]]
 
 ## Magic Item Tracker
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp#center|Download PDF]]
 
 ## Bastion Tracker
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp#center|Download PDF]]
 
 ## Player-Facing Summary
 

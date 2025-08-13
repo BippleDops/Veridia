@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony|02 Worldbuilding/Places/Tethyan Hegemony]]
 
 
 ## Connections

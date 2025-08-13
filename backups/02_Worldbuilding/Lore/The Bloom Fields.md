@@ -39,7 +39,7 @@ biodiversity_index: Exceptional
 
 ## Overview
 
-The Bloom Fields represent one of [[02_Worldbuilding/Places/Aquabyssos]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
+The Bloom Fields represent one of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
 
 Unlike traditional surface agriculture that relies on photosynthesis and solar energy, the Bloom Fields harness the unique properties of deep-sea bioluminescence, chemosynthesis, and pressure-adapted organisms to create sustainable food production systems that thrive in the crushing depths. Through centuries of selective cultivation and environmental engineering, [[Aquabyssos]] has transformed barren deep-sea plains into thriving gardens of light that sustain millions of inhabitants.
 
@@ -575,18 +575,18 @@ Working with Bloom Fields provides unique opportunities for character developmen
 - **[[Pressure Adaptation System]]**: Infrastructure supporting deep-sea cultivation activities
 
 ### Key Locations
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location hosting Bloom Field ecosystems
-- **[[02_Worldbuilding/Groups/Deep-Sea Agricultural Research Institut]]**: Primary research facility for field science
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]**: Primary location hosting Bloom Field ecosystems
+- **[[02_Worldbuilding/Groups/Deep-Sea Agricultural Research Institut|02 Worldbuilding/Groups/Deep Sea Agricultural Research Institut]]**: Primary research facility for field science
 - **[[Bioluminescent Processing Centers]]**: Industrial facilities processing field products
 - **[[Field Worker Communities]]**: Residential areas for people working in field systems
 - **[[Field Conservation Areas]]**: Protected areas preserving field biodiversity
 
 ### Important Organizations
-- **[[02_Worldbuilding/Groups/Bloom Field Cultivation Guil]]**: Professional organization coordinating field management
+- **[[02_Worldbuilding/Groups/Bloom Field Cultivation Guil|02 Worldbuilding/Groups/Bloom Field Cultivation Guil]]**: Professional organization coordinating field management
 - **[[Marine Agricultural Council]]**: Government organization overseeing field operations
 - **[[Bioluminescent Research Institute]]**: Scientific organization advancing field science
 - **[[Environmental Protection Agency]]**: Organization protecting field ecosystems from threats
-- **[[02_Worldbuilding/Groups/Cross-Realm Agricultural Exchang]]**: Organization facilitating cooperation with [[Aethermoor]]
+- **[[02_Worldbuilding/Groups/Cross-Realm Agricultural Exchang|02 Worldbuilding/Groups/Cross Realm Agricultural Exchang]]**: Organization facilitating cooperation with [[Aethermoor]]
 
 ### Key Personnel
 - **[[Master Cultivator Luminos Deepglow]]**: Director of Bioluminescent Agriculture
@@ -624,7 +624,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 - [[Crystal Forest]]
 - [[Pressure Adaptation System]]
 - [[Reality Merge Zones]]

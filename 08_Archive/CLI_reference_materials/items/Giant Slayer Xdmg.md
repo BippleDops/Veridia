@@ -78,7 +78,7 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.
+When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or have the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition.
 
 **Variants**:
 - [Giant Slayer Antimatter Rifle](#Giant%20Slayer%20Antimatter%20Rifle)
@@ -135,18 +135,18 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - [Giant Slayer Wooden Staff](#Giant%20Slayer%20Wooden%20Staff)
 - [Giant Slayer Yklwa](#Giant%20Slayer%20Yklwa)
 
-### Giant Slayer Antimatter Rifle
+## Giant Slayer Antimatter Rifle
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Giant Slayer Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/03_Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Burst%20Fire|Burst Fire]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Giant Slayer Battleaxe
@@ -154,40 +154,40 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 1.0 lbs.
 
 ### Giant Slayer Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Giant Slayer Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 ### Giant Slayer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Flail
@@ -198,127 +198,127 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 ### Giant Slayer Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Giant Slayer Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Giant Slayer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Giant Slayer Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Giant Slayer Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Giant Slayer Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Giant Slayer Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Giant Slayer Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Longsword
@@ -326,7 +326,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Mace
@@ -337,7 +337,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 ### Giant Slayer Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Giant Slayer Morningstar
@@ -349,20 +349,20 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Giant Slayer Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Giant Slayer Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Quarterstaff
@@ -370,66 +370,66 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Giant Slayer Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]]
 
 ### Giant Slayer Spear
 
@@ -437,7 +437,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Staff
@@ -445,7 +445,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer Trident
@@ -454,7 +454,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer War Pick
@@ -462,7 +462,7 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Warhammer
@@ -470,13 +470,13 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Giant Slayer Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Wooden Staff
@@ -484,14 +484,14 @@ When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 

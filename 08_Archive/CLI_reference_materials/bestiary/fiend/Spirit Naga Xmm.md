@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-naga-xmm-spirit-naga-xmm.svg)
 
-# [Spirit Naga](3-Mechanics\CLI\bestiary\fiend/spirit-naga-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/spirit-naga-xmm|Spirit Naga]]
 *Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Spirit Naga
@@ -78,13 +78,13 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
-  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [Hit\
-      \ Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). Only a [Wish](/03_Mechanics/CLI/spells/wish-xphb.md)\
+  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit\
+      \ Points]]. Only a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]]\
       \ spell can prevent this trait from functioning."
     "name": "Fiendish Restoration"
 "actions":
@@ -97,12 +97,12 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
     "name": "Necrotic Ray"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md)\n\n2/day\
-      \ each: [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [Dimension Door](/03_Mechanics/CLI/spells/dimension-door-xphb.md), [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md)\
-      \ (level 3 version), [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+      \ DC 14):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]], [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]],\
+      \ [[/03_Mechanics/CLI/spells/water-breathing-xphb|Water Breathing]]\n\n2/day\
+      \ each: [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]], [[/03_Mechanics/CLI/spells/hold-person-xphb|Hold Person]]\
+      \ (level 3 version), [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]]\
       \ (level 4 version)"
     "name": "Spellcasting"
 "source":

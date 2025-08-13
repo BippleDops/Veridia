@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Arsenal Keeper Thane Ironwill]]
+- [[02_Worldbuilding/Places/Arsenal Keeper Thane Ironwill|02 Worldbuilding/Places/Arsenal Keeper Thane Ironwill]]
 
 <!-- enriched: true -->
 

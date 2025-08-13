@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hook-horror-spore-servant-oota-hook-horror-spore-servant-oota.svg)
 
-# [Hook Horror Spore Servant](3-Mechanics\CLI\bestiary\plant/hook-horror-spore-servant-oota.md)
+# [[3-Mechanics\CLI\bestiary\plant/hook-horror-spore-servant-oota|Hook Horror Spore Servant]]
 *Source: Out of the Abyss p. 68*  
 
 ```statblock
@@ -46,8 +46,8 @@ world: Both
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "3"

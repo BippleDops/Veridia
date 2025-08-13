@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip|02 Worldbuilding/People/Lady Jade Clawgrip]]
 
 
 ## Connections

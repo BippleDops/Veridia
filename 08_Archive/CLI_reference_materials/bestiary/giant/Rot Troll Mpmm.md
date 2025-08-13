@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rot-troll-mpmm-rot-troll-mpmm.svg)
 
-# [Rot Troll](3-Mechanics\CLI\bestiary\giant/rot-troll-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/rot-troll-mpmm|Rot Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
@@ -62,7 +62,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
 "damage_immunities": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"

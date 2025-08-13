@@ -445,7 +445,7 @@ Guild innovations can serve as plot devices that create new capabilities, introd
 - [[Eastern Kingdoms 2]]
 - [[Port Meridian - Market Square]]
 - [[The Royal Palace]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -469,7 +469,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_People_Index]]
+- [[Master_People_Index|Master People Index]]
 - [[Crystal Forest]]
 - [[Eastern Kingdom]]
 - [[Magic Items]]

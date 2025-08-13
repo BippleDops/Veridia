@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Warrior of Mercy
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[./monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 104*  
 
 > [!tldr] Class and Feature Progression
@@ -63,15 +63,15 @@ Warriors of Mercy manipulate the life force of others. These Monks are wandering
 
 ### Hand of Harm (Level 3)
 
-Once per turn when you hit a creature with an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
+Once per turn when you hit a creature with an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]] and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
 
 ### Hand of Healing (Level 3)
 
-As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can expend 1 Focus Point to touch a creature and restore a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can expend 1 Focus Point to touch a creature and restore a number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
 
 ### Implements of Mercy (Level 3)
 
-You gain proficiency in the [Insight](/03_Mechanics/CLI/skills.md#Insight) and [Medicine](/03_Mechanics/CLI/skills.md#Medicine) skills and proficiency with the [Herbalism Kit](/03_Mechanics/CLI/items/herbalism-kit-xphb.md).
+You gain proficiency in the [[/03_Mechanics/CLI/skills#Insight|Insight]] and [[/03_Mechanics/CLI/skills#Medicine|Medicine]] skills and proficiency with the [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism Kit]].
 
 ### Physician's Touch (Level 6)
 
@@ -79,25 +79,25 @@ Your Hand of Harm and Hand of Healing improve, as detailed below.
 
 #### Hand of Harm
 
-When you use Hand of Harm on a creature, you can also give that creature the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition until the end of your next turn.
+When you use Hand of Harm on a creature, you can also give that creature the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition until the end of your next turn.
 
 #### Hand of Healing
 
-When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: [Blinded](/03_Mechanics/CLI/conditions.md#Blinded), [Deafened](/03_Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), or [Stunned](/03_Mechanics/CLI/conditions.md#Stunned).
+When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], or [[/03_Mechanics/CLI/conditions#Stunned|Stunned]].
 
 ### Flurry of Healing and Harm (Level 11)
 
 When you use Flurry of Blows, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Focus Points for the healing.
 
-In addition, when you make an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.
+In addition, when you make an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]] with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.
 
-You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Hand of Ultimate Mercy (Level 17)
 
-Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](/03_Mechanics/CLI/conditions.md#Blinded), [Deafened](/03_Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), and [Stunned](/03_Mechanics/CLI/conditions.md#Stunned).
+Your mastery of life energy opens the door to the ultimate mercy. As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], and [[/03_Mechanics/CLI/conditions#Stunned|Stunned]].
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ## Player-Facing Summary
 

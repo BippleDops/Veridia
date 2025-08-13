@@ -33,11 +33,11 @@ world: Both
 - **Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
 - **Duration:** 1 hour
 
-You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage. Also, each time it takes damage, you take the same amount of damage.
+You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to all damage. Also, each time it takes damage, you take the same amount of damage.
 
-The spell ends if you drop to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
+The spell ends if you drop to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

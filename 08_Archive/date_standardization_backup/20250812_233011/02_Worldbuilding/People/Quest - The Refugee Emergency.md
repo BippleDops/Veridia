@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Refugee Emergency]]
+- [[02_Worldbuilding/People/Quest - The Refugee Emergency|02 Worldbuilding/People/Quest The Refugee Emergency]]
 
 <!-- enriched: true -->
 

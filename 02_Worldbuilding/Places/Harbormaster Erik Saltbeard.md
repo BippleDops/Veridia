@@ -737,7 +737,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[Aethermoor]], a spr
 - [[Harbor District]]
 - [[Port Meridian Harbor]]
 - [[Port Meridian]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -759,7 +759,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard|02 Worldbuilding/Places/Harbormaster Erik Saltbeard]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

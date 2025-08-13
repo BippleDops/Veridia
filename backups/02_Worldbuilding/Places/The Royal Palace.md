@@ -185,7 +185,7 @@ Legends speak of The Royal Palace as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Places/The Royal Palace|02 Worldbuilding/Places/The Royal Palace]]
 
 <!-- enriched: true -->
 - [[Master Artificers Guild]]

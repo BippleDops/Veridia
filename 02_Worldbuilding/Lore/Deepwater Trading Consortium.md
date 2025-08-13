@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind|02 Worldbuilding/Places/Merchant Viktor Geargrind]]
 
 
 ## Connections

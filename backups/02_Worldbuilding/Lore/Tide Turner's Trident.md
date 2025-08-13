@@ -172,7 +172,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Drowned God]]
+- [[02_Worldbuilding/Lore/The Drowned God|02 Worldbuilding/Lore/The Drowned God]]
 
 
 ## Connections

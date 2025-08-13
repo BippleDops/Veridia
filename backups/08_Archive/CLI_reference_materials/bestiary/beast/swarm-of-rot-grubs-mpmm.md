@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-rot-grubs-mpmm-swarm-of-rot-grubs-mpmm.svg)
 
-# [Swarm of Rot Grubs](3-Mechanics\CLI\bestiary\beast/swarm-of-rot-grubs-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/swarm-of-rot-grubs-mpmm|Swarm of Rot Grubs]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
@@ -37,7 +37,7 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature takes 3 (`d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], as the rot grub burrows into the creature. The [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature takes 3 (`d6`) poison damage at the end of each of its turns. Whenever the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ```statblock
 "name": "Swarm of Rot Grubs (MPMM)"
@@ -58,10 +58,10 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "speed": "5 ft., climb 5 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing, slashing"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
 "senses": "blindsight 10 ft., passive Perception 6"
 "languages": ""
 "cr": "1/2"
@@ -73,11 +73,11 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "actions":
   - "desc": "Melee Weapon Attack: +0 to hit, reach 0 ft., one creature in the swarm's\
       \ space. Hit: 7 (2d6) piercing damage, and the target must succeed on a DC\
-      \ 10 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).\
-      \ At the end of each of the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
-      \ target's turns, the target takes 3 (d6) poison damage. Whenever the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]].\
+      \ At the end of each of the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
+      \ target's turns, the target takes 3 (d6) poison damage. Whenever the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
       \ target takes fire damage, the target can repeat the saving throw, ending the\
-      \ effect on itself on a success. If the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ effect on itself on a success. If the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
       \ target ends its turn with 0 hit points, it dies."
     "name": "Bites"
 "source":

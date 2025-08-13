@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-cataclysm-xmm-elemental-cataclysm-xmm.svg)
 
-# [Elemental Cataclysm](3-Mechanics\CLI\bestiary\elemental/elemental-cataclysm-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/elemental-cataclysm-xmm|Elemental Cataclysm]]
 *Source: Monster Manual (2024) p. 111*  
 
 ## Elemental Cataclysm
@@ -82,13 +82,13 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
   - "wisdom": !!int "9"
   - "charisma": !!int "6"
 "damage_immunities": "acid, cold, fire, lightning, poison, thunder"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [stunned](/03_Mechanics/CLI/conditions.md#Stunned),\
-  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]],\
+  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "truesight 150 ft., passive Perception 12"
 "languages": "Primordial"
 "cr": "22"
@@ -109,47 +109,47 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Elemental Burst"
   - "desc": "The cataclysm creates one of the following effects at random (roll d4):\n\
       \n- 1 Clinging Flames. Dexterity Saving Throw: DC 23, each creature in\
-      \ a 60-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ a 60-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the cataclysm can see within 150 feet. Failure: 45 (13d6)\
       \ Fire damage. Success: Half damage. Failure or Success: The target starts\
-      \ [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md).  \n- 2 Freezing\
-      \ Waves. Strength Saving Throw: DC 23, each creature in a 90-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ [[/03_Mechanics/CLI/traps-hazards/burning-xphb|burning]].  \n- 2 Freezing\
+      \ Waves. Strength Saving Throw: DC 23, each creature in a 90-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and the\
-      \ target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. Success:\
-      \ Half damage only. Failure or Success: The target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. Success:\
+      \ Half damage only. Failure or Success: The target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
       \ is reduced to 0 until the end of its next turn.  \n- 3 Raging Storm. A\
-      \ storm cloud fills a 60-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ storm cloud fills a 60-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the cataclysm can see within 150 feet. The cloud lasts\
       \ for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures\
-      \ entirely in the cloud have the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Deafened](/03_Mechanics/CLI/conditions.md#Deafened) conditions and can't\
+      \ entirely in the cloud have the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ and [[/03_Mechanics/CLI/conditions#Deafened|Deafened]] conditions and can't\
       \ cast spells with a Verbal component. Dexterity Saving Throw: DC 23, each\
       \ creature that enters the cloud for the first time on a turn or starts its\
       \ turn there. Failure: 18 (4d8) Lightning damage plus 18 (4d8) Thunder damage.\
       \ Success: Half damage.  \n- 4 Swallowing Earth. Strength Saving Throw:\
-      \ DC 23, each creature in a 90-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ DC 23, each creature in a 90-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
       \ originating from a point on the ground within 150 feet. Failure: 18 (4d8)\
-      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
-      \ condition and is buried under rubble. A buried target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
-      \ condition, has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md),\
+      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition and is buried under rubble. A buried target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ condition, has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
-      \ 5 feet of it can make a DC 18 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics))\
+      \ 5 feet of it can make a DC 18 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
       \ check. On a successful check, the creature is no longer buried. Success:\
       \ Half damage only.  "
     "name": "Cataclysmic Event (Recharge 4-6)"
-  - "desc": "The cataclysm casts the [Control Weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)\
+  - "desc": "The cataclysm casts the [[/03_Mechanics/CLI/spells/control-weather-xphb|Control Weather]]\
       \ spell, requiring no spell components and using Constitution as the spellcasting\
       \ ability.\n"
     "name": "Control Weather"
 "legendary_actions":
   - "desc": "The cataclysm makes one Elemental Burst attack."
     "name": "Eruption"
-  - "desc": "The cataclysm moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
-      \ [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md), or [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).\
+  - "desc": "The cataclysm moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+      \ [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]], or [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]]\
+      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. Constitution Saving Throw: DC 23. Failure: The\
-      \ target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. Failure\
+      \ target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. Failure\
       \ or Success: The cataclysm can't take this action again until the start of\
       \ its next turn."
     "name": "Rumbling Movement"

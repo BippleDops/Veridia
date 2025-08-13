@@ -35,11 +35,11 @@ world: Aquabyssos
 *When Ancient Heritage Stirs to Life*
 
 > *"The blood remembers what the mind forgets. In the depths where pressure crushes hope and darkness devours light, the old powers stir. Children of forgotten lineages suddenly manifest abilities their ancestors wielded in ages past. But power without understanding is a curse that transforms blessing into nightmare."*
-> — Archives of the [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+> — Archives of the [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]]
 
 ## Overview
 
-The Bloodline Awakening represents one of the most mysterious and dangerous phenomena occurring throughout [[02_Worldbuilding/Places/Aquabyssos]]. For generations, certain families have carried dormant supernatural abilities in their genetic heritage - legacies from ancient civilizations, divine bloodlines, or cursed ancestry that has slept within their DNA for centuries. Recently, these dormant powers have begun spontaneously manifesting, transforming ordinary citizens into beings of tremendous power and equally tremendous danger.
+The Bloodline Awakening represents one of the most mysterious and dangerous phenomena occurring throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. For generations, certain families have carried dormant supernatural abilities in their genetic heritage - legacies from ancient civilizations, divine bloodlines, or cursed ancestry that has slept within their DNA for centuries. Recently, these dormant powers have begun spontaneously manifesting, transforming ordinary citizens into beings of tremendous power and equally tremendous danger.
 
 Unlike learned magic or divine blessing, bloodline awakenings are involuntary and often traumatic experiences. The affected individuals, known as "Awakened," find themselves suddenly possessed of supernatural abilities they neither understand nor control. These manifestations range from elemental manipulation and psychic abilities to shapeshifting and divine powers. What makes the phenomenon particularly dangerous is its unpredictability - awakenings can occur at any age, triggered by stress, proximity to magical phenomena, or seemingly random circumstance.
 
@@ -116,7 +116,7 @@ Heritage from telepathic entities and hive-mind consciousness that once spanned 
 ### Divine Heritage Bloodlines
 
 **The Abyssal Prophet Bloodline:**
-Descendants of mortals blessed by [[02_Worldbuilding/Lore/The Deep Mother]] or other cosmic entities. Their awakening grants them prophetic abilities and connection to divine consciousness, but often at the cost of sanity.
+Descendants of mortals blessed by [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] or other cosmic entities. Their awakening grants them prophetic abilities and connection to divine consciousness, but often at the cost of sanity.
 
 *Common Manifestations:*
 - Prophetic visions of possible futures, particularly those involving cosmic threats
@@ -645,6 +645,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Bloodline Awakens]]
+- [[02_Worldbuilding/People/The Bloodline Awakens|02 Worldbuilding/People/The Bloodline Awakens]]
 
 <!-- enriched: true -->

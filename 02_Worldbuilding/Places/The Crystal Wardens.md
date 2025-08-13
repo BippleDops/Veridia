@@ -169,7 +169,7 @@ Each Warden specializes in at least one crystal discipline, with masters often c
 
 ### The Academy Years
 
-All Crystal Wardens begin their journey at the [[02_Worldbuilding/Groups/The Crystal Academy]], a massive educational complex within the Crystalline Citadel. The training program spans four years and covers every aspect of Warden life:
+All Crystal Wardens begin their journey at the [[02_Worldbuilding/Groups/The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]], a massive educational complex within the Crystalline Citadel. The training program spans four years and covers every aspect of Warden life:
 
 **First Year - Foundation**:
 - Basic crystal theory and resonance principles
@@ -532,7 +532,7 @@ Ancient legends speak of a master crystal that could enhance Crystal Warden abil
 
 ### Associated Organizations
 - [[Aethermoor Government]] - Civilian leadership and political oversight
-- [[02_Worldbuilding/Groups/Crystal Merchants Guil]] - Equipment suppliers and technology partners
+- [[02_Worldbuilding/Groups/Crystal Merchants Guil|02 Worldbuilding/Groups/Crystal Merchants Guil]] - Equipment suppliers and technology partners
 - [[Academy of Sciences]] - Research collaboration and technological development
 - [[Diplomatic Corps]] - Joint operations and international relations
 
@@ -591,7 +591,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Places/The Crystal Wardens|02 Worldbuilding/Places/The Crystal Wardens]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

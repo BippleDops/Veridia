@@ -5,7 +5,7 @@ assigned_party_members: []
 completion_date: null
 created: '2025-08-11T13:08:50.084026+00:00'
 deadline: 2025-09-10
-location: '[[Aquathys_Overview]]'
+location: '[[Aquathys_Overview|Aquathys Overview]]'
 objectives:
 - completed: false
   text: Investigate the prophecy of the Second Rising
@@ -22,25 +22,25 @@ objectives:
 - Category/Quest
 obsidianUIMode: preview
 prerequisite_quests:
-- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]'
+- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan|02 Worldbuilding/Quests/Find The Missing Caravan]]'
 - '[[Diplomatic Tides]]'
 priority: urgent
 quest_giver: '[[High Tidecaller Nerissa]]'
 quest_image: 04_Resources/Assets/quests/second-rising.png
 quest_start: 2025-08-10
 related_locations:
-- '[[02_Worldbuilding/Places/Pearl_Harbor_City]]'
+- '[[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]'
 - '[[Maelstrom Palace]]'
 - '[[The Maw of Darkness]]'
-- '[[02_Worldbuilding/Places/Market_District]]'
+- '[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]'
 - '[[Crystalline Depths]]'
 related_npcs:
 - '[[High Tidecaller Nerissa]]'
 - '[[Prophet Miralyn Surfacer]]'
 - '[[Commander Varek Irontrident]]'
-- '[[02_Worldbuilding/People/The_Crimson_Pearl]]'
+- '[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'
 - '[[Aboleth Prime Yoth]]'
-- '[[02_Worldbuilding/People/Gareth_Ironforge]]'
+- '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
 reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
 status: complete
 tags:
@@ -82,10 +82,10 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 ## Part 1: The Prophecy Investigation
 
 ### The Pearl and Iron
-[[02_Worldbuilding/People/Gareth_Ironforge]] and [[Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
+[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
 
 ### The Crimson Taint
-[[02_Worldbuilding/People/The_Crimson_Pearl]]'s vampire nature is spreading - she's accidentally created three new sea-vampire spawn who are contaminating the deepest trenches with undead energy.
+[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'s vampire nature is spreading - she's accidentally created three new sea-vampire spawn who are contaminating the deepest trenches with undead energy.
 
 ### The Questioning and Crying
 - [[Commander Varek Irontrident]] has discovered evidence the original threat was fabricated
@@ -106,8 +106,8 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 - Shows the Aboleths caused the original threat
 
 ### Third Verse Location
-**[[02_Worldbuilding/Places/Market_District]] - Secret Vault**
-- [[02_Worldbuilding/People/Gareth_Ironforge]]'s ancestor hid it
+**[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Secret Vault**
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'s ancestor hid it
 - Links surface and depth permanently
 - Contains the transformation ritual
 
@@ -119,7 +119,7 @@ The artifact that sank Aquathys was broken into five pieces:
 
 1. **The Core** - [[High Tidecaller Nerissa]] wears it
 2. **The Pulse** - Hidden in [[The Maw of Darkness]]
-3. **The Flow** - [[02_Worldbuilding/People/The_Crimson_Pearl]]'s pearl collection
+3. **The Flow** - [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'s pearl collection
 4. **The Pressure** - [[Commander Varek Irontrident]]'s trident
 5. **The Memory** - Inside [[Prophet Miralyn Surfacer]]
 
@@ -139,7 +139,7 @@ Each faction leader must be dealt with:
 
 ### Manipulation Path
 - Pit factions against each other
-- Use [[02_Worldbuilding/People/The_Crimson_Pearl]]'s network
+- Use [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'s network
 - Morally questionable but effective
 
 ## Part 5: The Truth
@@ -164,7 +164,7 @@ Each faction leader must be dealt with:
 - Massive casualties from pressure change
 - War with surface nations likely
 - Aboleths lose all power
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]] becomes capital
+- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]] becomes capital
 
 ### Option 2: Sink Deeper
 **Consequences:**
@@ -178,7 +178,7 @@ Each faction leader must be dealt with:
 **Consequences:**
 - Aquathys exists in both realms
 - Citizens can shift between forms
-- Permanent link to [[02_Worldbuilding/Places/Market_District]]
+- Permanent link to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
 - New hybrid civilization
 - Party becomes legends
 
@@ -235,13 +235,13 @@ Each faction leader must be dealt with:
 
 ### Major Players
 - All faction leaders
-- [[02_Worldbuilding/People/Gareth_Ironforge]] - Surface connection
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Surface connection
 - [[Elena Starweaver]] - Magical expertise
 - [[Mayor Thompson]] - Diplomatic channel
 
 ### Support Cast
 - [[Captain Marlowe Tidecrest]] - Transportation
-- [[02_Worldbuilding/Places/Dr. Siphon Gillwater]] - Pressure adaptation
+- [[02_Worldbuilding/Places/Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] - Pressure adaptation
 - Whisper Jack - Information network
 - [[Master Smith Coral-Hammer]] - Heart restoration
 
@@ -312,7 +312,7 @@ Each faction leader must be dealt with:
 
 #### "When pearl meets iron in the market of sky"
 **Investigation Leads**:
-- **[[02_Worldbuilding/People/Gareth_Ironforge]]**: Recently began trading pressure-forged weapons with Aquathys
+- **[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]**: Recently began trading pressure-forged weapons with Aquathys
 - **[[Master Smith Coral-Hammer]]**: Joint project creating hybrid surface-depth weapons
 - **Market Activity**: Unusual resonances when surface metals meet depth pearls
 - **Sky Reference**: May refer to Aquathys rising toward surface, or surface "sky-markets"
@@ -321,7 +321,7 @@ Each faction leader must be dealt with:
 
 #### "When crimson blood taints the deepest tide"
 **Investigation Leads**:
-- **[[02_Worldbuilding/People/The_Crimson_Pearl]]**: Her vampiric nature has been spreading
+- **[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]**: Her vampiric nature has been spreading
 - **Deep Trench Reports**: Strange red currents flowing from the deepest areas
 - **Infection Pattern**: Three new sea-vampires confirmed, possibly more
 - **Historical Context**: Red tides mentioned in texts about the original sinking
@@ -476,7 +476,7 @@ For the day when their civilization dies."*
 ### Third Verse: The Transformation Secret
 
 #### Location: Market District Secret Vault
-**Setting**: Hidden beneath [[02_Worldbuilding/People/Gareth_Ironforge]]'s trading post, accessible through combined surface and depth magic
+**Setting**: Hidden beneath [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'s trading post, accessible through combined surface and depth magic
 
 **Discovery Process**:
 1. **Historical Research** (Investigation DC 18): Gareth's ancestor was involved in the original sinking

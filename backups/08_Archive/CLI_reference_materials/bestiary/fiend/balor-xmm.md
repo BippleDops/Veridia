@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-balor-xmm-balor-xmm.svg)
 
-# [Balor](3-Mechanics\CLI\bestiary\fiend/balor-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/balor-xmm|Balor]]
 *Source: Monster Manual (2024) p. 26. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Balor
@@ -60,30 +60,30 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "constitution": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "19"
 "traits":
   - "desc": "The balor explodes when it dies. Dexterity Saving Throw: DC 20, each\
-      \ creature in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the balor. Failure: 31 (9d6) Fire damage plus 31 (9d6)\
       \ Force damage. Success: Half damage. Failure or Success: If the balor dies\
-      \ outside the Abyss, it gains a new body instantly, reviving with all its [Hit\
-      \ Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) somewhere in the\
+      \ outside the Abyss, it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit\
+      \ Points]] somewhere in the\
       \ Abyss."
     "name": "Death Throes"
-  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "At the end of each of the balor's turns, each creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the balor takes 13 (3d8) Fire damage."
     "name": "Fire Aura"
   - "desc": "If the balor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The balor has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The balor has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -92,7 +92,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "desc": "Melee Attack Roll: +14, reach 30 ft. Hit: 18 (3d6 + 8) Force damage\
       \ plus 17 (5d6) Fire damage. If the target is a Huge or smaller creature, the\
       \ balor pulls the target up to 25 feet straight toward itself, and the target\
-      \ has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
+      \ has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
     "name": "Flame Whip"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 21 (3d8 + 8) Force damage\
       \ plus 22 (4d10) Lightning damage, and the target can't take Reactions until\

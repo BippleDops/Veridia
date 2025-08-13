@@ -3,12 +3,12 @@ created: '2025-08-09'
 current_status: Active but Underground
 danger_level: 8
 founded: Second Age of Aquabyssos
-headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
-leader: '[[02_Worldbuilding/People/Memory Merchant Valeria]]'
+headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
+leader: '[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
 related_entities:
-- '[[02_Worldbuilding/Lore/Memory Alterations]]'
-- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[02_Worldbuilding/People/Memory Trader Kellian]]'
+- '[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02_Worldbuilding/People/Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
 specialties:
 - Memory Extraction
 - Experience Harvesting
@@ -44,9 +44,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Memory Farmers represent one of [[Aquabyssos]]'s most disturbing and ethically controversial factions - individuals and groups who "farm" memories, experiences, and even consciousness itself from willing and unwilling subjects. Operating primarily from the shadows of the [[02_Worldbuilding/Places/Memory Meadows Black Market]], these merchants in human experience trade in the most intimate aspects of sentient life.
+The Memory Farmers represent one of [[Aquabyssos]]'s most disturbing and ethically controversial factions - individuals and groups who "farm" memories, experiences, and even consciousness itself from willing and unwilling subjects. Operating primarily from the shadows of the [[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]], these merchants in human experience trade in the most intimate aspects of sentient life.
 
-Led by the enigmatic [[02_Worldbuilding/People/Memory Merchant Valeria]], the Memory Farmers have evolved from simple traders in nostalgic experiences to sophisticated operators capable of extracting, preserving, modifying, and implanting complex memory structures. Their practices range from consensual experience sharing to outright consciousness theft.
+Led by the enigmatic [[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]], the Memory Farmers have evolved from simple traders in nostalgic experiences to sophisticated operators capable of extracting, preserving, modifying, and implanting complex memory structures. Their practices range from consensual experience sharing to outright consciousness theft.
 
 ## Origins & History
 
@@ -93,9 +93,9 @@ Today's Memory Farmers operate a complex network spanning multiple depth levels,
 - Can continue for years before subjects realize extent of memory loss
 
 **Forced Extraction**: Kidnapped victims subjected to invasive procedures
-- Utilizes techniques derived from [[02_Worldbuilding/Lore/Aboleth Mind Mazes]]
+- Utilizes techniques derived from [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Subjects often left as empty shells or with fabricated replacement memories
-- Most profitable method but highest risk of [[02_Worldbuilding/Places/Parliament of Echoes]] intervention
+- Most profitable method but highest risk of [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] intervention
 
 ### Memory Categories & Values
 
@@ -128,7 +128,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 
 ### The Childhood Market
 *Underground bazaar specializing in innocent memories*
-- Located in abandoned nursery complex beneath [[02_Worldbuilding/Places/Abyssos Prime]]
+- Located in abandoned nursery complex beneath [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 - Clientele includes traumatized adults seeking to replace painful childhoods
 - Guarded by creatures that feed on nostalgia and happiness
 - Contains memory pools allowing customers to "test" experiences before purchase
@@ -157,7 +157,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 ## Legitimate Operations
 
 ### Memory Preservation Services
-**Historical Archive**: Working with [[02_Worldbuilding/Lore/Abyssal Academy]] to preserve important memories
+**Historical Archive**: Working with [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]] to preserve important memories
 **Therapeutic Forgetting**: Helping trauma victims selectively remove painful experiences
 **Cultural Documentation**: Recording traditional practices and cultural knowledge
 **Skill Transfer**: Legal educational applications for rapid knowledge dissemination
@@ -171,7 +171,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 ## Opposition & Threats
 
 ### Law Enforcement
-[[02_Worldbuilding/Places/Parliament of Echoes]] has established specialized units to combat Memory Farmers:
+[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] has established specialized units to combat Memory Farmers:
 - **The Memory Wardens**: Investigators trained to detect illegal memory operations
 - **Consciousness Crime Division**: Prosecutes memory-related offenses
 - **Recovery Units**: Attempt to restore stolen memories to victims
@@ -307,6 +307,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers|02 Worldbuilding/Places/Memory Farmers]]
 
 <!-- enriched: true -->

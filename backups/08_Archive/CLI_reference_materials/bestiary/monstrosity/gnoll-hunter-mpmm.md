@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-hunter-mpmm-gnoll-hunter-mpmm.svg)
 
-# [Gnoll Hunter](3-Mechanics\CLI\bestiary\monstrosity/gnoll-hunter-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/gnoll-hunter-mpmm|Gnoll Hunter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
@@ -45,7 +45,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather armor]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -58,9 +58,9 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Gnoll"

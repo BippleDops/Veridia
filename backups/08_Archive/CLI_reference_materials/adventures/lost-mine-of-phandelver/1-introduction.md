@@ -126,15 +126,15 @@ Unfortunately for the Rockseekers, they are not the only ones interested in Wave
 
 ## Overview
 
-Lost Mine of Phandelver is divided into four parts. In part 1, "Goblin Arrows," the adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw tribe) have captured their dwarf friend [Gundren Rockseeker](/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop.md) and his escort, a human warrior named [Sildar Hallwinter](/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop.md). The characters must deal with the ambushers and then follow their trail back to the goblins' hideout. They rescue Sildar and learn from him that Gundren and his brothers discovered a famous lost mine. Sildar knows only that Gundren and his map have been taken to somewhere called "Cragmaw Castle."
+Lost Mine of Phandelver is divided into four parts. In part 1, "Goblin Arrows," the adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw tribe) have captured their dwarf friend [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]] and his escort, a human warrior named [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]]. The characters must deal with the ambushers and then follow their trail back to the goblins' hideout. They rescue Sildar and learn from him that Gundren and his brothers discovered a famous lost mine. Sildar knows only that Gundren and his map have been taken to somewhere called "Cragmaw Castle."
 
 In part 2, "Phandalin," the characters arrive in Phandalin to find it terrorized by the Redbrands, a gang of miscreants led by a mysterious figure called Glasstaff. A number of interesting NPCs can also be found in Phandalin, laying the hooks for short adventures in part 3. The Redbrands try to run the characters out of town, so the characters return the favor and storm the Redbrand lair. In a hidden stronghold beneath an old manor, they find that Iarno "Glasstaff" Albrek, the leader of the Redbrands, is taking his orders from someone called the Black Spider—and that the Black Spider wants the adventurers out of the picture.
 
 Part 3, "The Spider's Web," provides the characters with several short adventures in the region around Phandalin as they search for more information about the Black Spider and the dwarves' lost mine. The clues the characters picked up in Phandalin can lead them to spy on a mysterious wizard at the ruins of Old Owl Well, seek the advice of a dangerous banshee, oust a band of orcs lurking at Wyvern Tor, and investigate the ruins of the town of Thundertree.
 
-Several of these leads point to Cragmaw Castle, which is the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Black Spider is a drow adventurer named Nezznar, and that the Cragmaw goblins work for him (drow are elves who hail from a realm deep underground). More importantly, they recover [Gundren Rockseeker](/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop.md)'s map to the lost mine, or learn the mine's location from one of the other leads they unearth during part 3.
+Several of these leads point to Cragmaw Castle, which is the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Black Spider is a drow adventurer named Nezznar, and that the Cragmaw goblins work for him (drow are elves who hail from a realm deep underground). More importantly, they recover [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]'s map to the lost mine, or learn the mine's location from one of the other leads they unearth during part 3.
 
-Following the map or the directions to the lost mine brings the characters to part 4, "Wave Echo Cave." That lost underground complex is now overrun by undead and strange monsters. [Nezznar the Black Spider](/03_Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop.md) is there with his loyal followers, exploring the mines and searching for the legendary Forge of Spells. The adventurers have the opportunity to avenge [Gundren Rockseeker](/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop.md), to ensure the prosperity and security of Phandalin by clearing the rich mine of its monsters, and to put an end to the troublemaking of the Black Spider—if they can survive the dangers of the Lost Mine of Phandelver.
+Following the map or the directions to the lost mine brings the characters to part 4, "Wave Echo Cave." That lost underground complex is now overrun by undead and strange monsters. [[/03_Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop|Nezznar the Black Spider]] is there with his loyal followers, exploring the mines and searching for the legendary Forge of Spells. The adventurers have the opportunity to avenge [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]], to ensure the prosperity and security of Phandalin by clearing the rich mine of its monsters, and to put an end to the troublemaking of the Black Spider—if they can survive the dangers of the Lost Mine of Phandelver.
 
 ## Adventure Hook
 
@@ -142,7 +142,7 @@ You can let players invent their own reasons for visiting Phandalin, or you can 
 
 ### Meet Me in Phandalin
 
-The characters are in the city of Neverwinter when their dwarf patron and friend, [Gundren Rockseeker](/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop.md), hires them to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [Sildar Hallwinter](/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop.md), to attend to business in the town while the characters follow with the supplies. The characters will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when they deliver the wagon safely to that trading post.
+The characters are in the city of Neverwinter when their dwarf patron and friend, [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]], hires them to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], to attend to business in the town while the characters follow with the supplies. The characters will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when they deliver the wagon safely to that trading post.
 
 > [!note] Roleplaying and Inspiration
 > 
@@ -168,8 +168,8 @@ Known roads may be well traveled, but they aren't necessarily safe. Fell magic, 
 The regional map shows just a tiny part of this vast world, in a region called the Sword Coast. This is a region of adventure, where daring souls delve into the wreckage of ancient strongholds and explore ruins of long-lost cultures. Amid a wilderness of jagged, snow-capped peaks, alpine forests, lawlessness, and monsters, the coast holds the greatest bastions of civilization, including the coastal city of Neverwinter.
 
 > [!gallery]
-> ![The Sword Coast](/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast-player.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast.webp#gallery|The Sword Coast]]
+> ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast-player.webp#gallery|Player Version]]
 
 ## Player-Facing Summary
 

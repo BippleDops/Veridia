@@ -16,7 +16,7 @@ updated: '2025-08-13T01:18:36.774874+00:00'
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Broker Mirrors]]
+- [[02_Worldbuilding/Groups/Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
 
 
 ## Connections

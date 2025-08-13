@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Scale-Walker]]
+- [[02_Worldbuilding/People/Captain Scale-Walker|02 Worldbuilding/People/Captain Scale Walker]]
 
 
 ## Connections

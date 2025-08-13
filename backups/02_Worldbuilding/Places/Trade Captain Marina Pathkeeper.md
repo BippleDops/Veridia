@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Trade Captain Marina Pathkeeper]]
+- [[02_Worldbuilding/Places/Trade Captain Marina Pathkeeper|02 Worldbuilding/Places/Trade Captain Marina Pathkeeper]]
 
 <!-- enriched: true -->
 

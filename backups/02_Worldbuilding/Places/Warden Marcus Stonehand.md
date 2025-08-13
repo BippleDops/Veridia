@@ -165,6 +165,6 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
+- [[02_Worldbuilding/Places/Warden Marcus Stonehand|02 Worldbuilding/Places/Warden Marcus Stonehand]]
 
 <!-- enriched: true -->

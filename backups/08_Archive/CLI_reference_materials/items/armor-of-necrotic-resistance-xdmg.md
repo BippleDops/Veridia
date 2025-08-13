@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to necrotic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Necrotic Resistance](#Breastplate%20of%20Necrotic%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to nec
 - [Splint Armor of Necrotic Resistance](#Splint%20Armor%20of%20Necrotic%20Resistance)
 - [Studded Leather Armor of Necrotic Resistance](#Studded%20Leather%20Armor%20of%20Necrotic%20Resistance)
 
-### Breastplate of Necrotic Resistance
+## Breastplate of Necrotic Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

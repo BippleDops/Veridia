@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Mother Zealots]]
+- [[02_Worldbuilding/Places/Deep Mother Zealots|02 Worldbuilding/Places/Deep Mother Zealots]]
 
 <!-- enriched: true -->
 

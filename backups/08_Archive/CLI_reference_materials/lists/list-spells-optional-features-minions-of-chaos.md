@@ -20,7 +20,7 @@ world: Both
 
 ## 5th Level
 
-- [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/conjure-elemental-xphb "XPHB"|Conjure Elemental]]
 
 ## Player-Facing Summary
 

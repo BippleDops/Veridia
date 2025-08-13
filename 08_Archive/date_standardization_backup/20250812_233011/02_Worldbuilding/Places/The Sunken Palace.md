@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Palace]]
+- [[02_Worldbuilding/Places/The Sunken Palace|02 Worldbuilding/Places/The Sunken Palace]]
 
 <!-- enriched: true -->

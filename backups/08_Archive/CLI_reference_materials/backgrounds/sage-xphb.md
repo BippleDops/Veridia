@@ -22,10 +22,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/sage.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Wisdom  
-- **Feat.** [Magic Initiate](/03_Mechanics/CLI/feats/magic-initiate-xphb.md) (Wizard)  
-- **Skill Proficiencies.** [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [History](/03_Mechanics/CLI/skills.md#History)  
-- **Tool Proficiency.** [Calligrapher's Supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Quarterstaff](/03_Mechanics/CLI/items/quarterstaff-xphb.md), [Calligrapher's Supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md), [Book](/03_Mechanics/CLI/items/book-xphb.md) (history), [Parchment](/03_Mechanics/CLI/items/parchment-xphb.md) (8 sheets), [Robe](/03_Mechanics/CLI/items/robe-xphb.md), 8 GP; or (B) 50 GP  
+- **Feat.** [[/03_Mechanics/CLI/feats/magic-initiate-xphb|Magic Initiate]] (Wizard)  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#History|History]]  
+- **Tool Proficiency.** [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]], [[/03_Mechanics/CLI/items/book-xphb|Book]] (history), [[/03_Mechanics/CLI/items/parchment-xphb|Parchment]] (8 sheets), [[/03_Mechanics/CLI/items/robe-xphb|Robe]], 8 GP; or (B) 50 GP  
 
 You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
 

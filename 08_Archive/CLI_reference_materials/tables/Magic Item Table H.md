@@ -25,75 +25,75 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-10 | [+3 weapon](/03_Mechanics/CLI/items/3-weapon-xdmg.md) |
-| 11-12 | [Amulet of the planes](/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg.md) |
-| 13-14 | [Carpet of flying](/03_Mechanics/CLI/items/carpet-of-flying-xdmg.md) |
-| 15-16 | [Crystal ball](/03_Mechanics/CLI/items/crystal-ball-xdmg.md) |
-| 17-18 | [Ring of regeneration](/03_Mechanics/CLI/items/ring-of-regeneration-xdmg.md) |
-| 19-20 | [Ring of shooting stars](/03_Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) |
-| 21-22 | [Ring of telekinesis](/03_Mechanics/CLI/items/ring-of-telekinesis-xdmg.md) |
-| 23-24 | [Robe of scintillating colors](/03_Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md) |
-| 25-26 | [Robe of stars](/03_Mechanics/CLI/items/robe-of-stars-xdmg.md) |
-| 27-28 | [Rod of absorption](/03_Mechanics/CLI/items/rod-of-absorption-xdmg.md) |
-| 29-30 | [Rod of alertness](/03_Mechanics/CLI/items/rod-of-alertness-xdmg.md) |
-| 31-32 | [Rod of security](/03_Mechanics/CLI/items/rod-of-security-xdmg.md) |
-| 33-34 | [+3 rod of the pact keeper](/03_Mechanics/CLI/items/3-rod-of-the-pact-keeper-xdmg.md) |
-| 35-36 | [Scimitar of speed](/03_Mechanics/CLI/items/scimitar-of-speed-xdmg.md) |
-| 37-38 | [+3 shield](/03_Mechanics/CLI/items/3-shield-xdmg.md) |
-| 39-40 | [Staff of fire](/03_Mechanics/CLI/items/staff-of-fire-xdmg.md) |
-| 41-42 | [Staff of frost](/03_Mechanics/CLI/items/staff-of-frost-xdmg.md) |
-| 43-44 | [Staff of power](/03_Mechanics/CLI/items/staff-of-power-xdmg.md) |
-| 45-46 | [Staff of striking](/03_Mechanics/CLI/items/staff-of-striking-xdmg.md) |
-| 47-48 | [Staff of thunder and lightning](/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg.md) |
-| 49-50 | [Sword of sharpness](/03_Mechanics/CLI/items/sword-of-sharpness-xdmg.md) |
-| 51-52 | [Wand of polymorph](/03_Mechanics/CLI/items/wand-of-polymorph-xdmg.md) |
-| 53-54 | [+3 wand of the war mage](/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg.md) |
-| 55 | [Adamantine half plate armor](/03_Mechanics/CLI/items/adamantine-armor-xdmg.md) |
-| 56 | [Adamantine plate armor](/03_Mechanics/CLI/items/adamantine-armor-xdmg.md) |
-| 57 | [Animated shield](/03_Mechanics/CLI/items/animated-shield-xdmg.md) |
-| 58 | [Belt of fire giant strength](/03_Mechanics/CLI/items/belt-of-fire-giant-strength-xdmg.md) |
-| 59 | Belt of [Frost](/03_Mechanics/CLI/items/belt-of-frost-giant-strength-xdmg.md) or [Stone](/03_Mechanics/CLI/items/belt-of-stone-giant-strength-xdmg.md) giant strength |
-| 60 | [+1 breastplate](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 61 | [Breastplate of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 62 | [Candle of invocation](/03_Mechanics/CLI/items/candle-of-invocation-xdmg.md) |
-| 63 | [+2 chain mail](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 64 | [+2 chain shirt](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 65 | [Cloak of arachnida](/03_Mechanics/CLI/items/cloak-of-arachnida-xdmg.md) |
-| 66 | [Dancing sword](/03_Mechanics/CLI/items/dancing-sword-xdmg.md) |
-| 67 | [Demon armor](/03_Mechanics/CLI/items/demon-armor-xdmg.md) |
-| 68 | [Dragon scale mail](/03_Mechanics/CLI/items/dragon-scale-mail-xdmg.md) |
-| 69 | [Dwarven plate](/03_Mechanics/CLI/items/dwarven-plate-xdmg.md) |
-| 70 | [Dwarven thrower](/03_Mechanics/CLI/items/dwarven-thrower-xdmg.md) |
-| 71 | [Efreeti bottle](/03_Mechanics/CLI/items/efreeti-bottle-xdmg.md) |
-| 72 | [Figurine of wondrous power, obsidian steed](/03_Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg.md) |
-| 73 | [Frost brand](/03_Mechanics/CLI/items/frost-brand-xdmg.md) |
-| 74 | [Helm of brilliance](/03_Mechanics/CLI/items/helm-of-brilliance-xdmg.md) |
-| 75 | [Horn of valhalla, bronze](/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg.md) |
-| 76 | [Instrument of the bards, anstruth harp](/03_Mechanics/CLI/items/instrument-of-the-bards-anstruth-harp-xdmg.md) |
-| 77 | [Ioun stone, absorption](/03_Mechanics/CLI/items/ioun-stone-absorption-xdmg.md) |
-| 78 | [Ioun stone, agility](/03_Mechanics/CLI/items/ioun-stone-agility-xdmg.md) |
-| 79 | [Ioun stone, fortitude](/03_Mechanics/CLI/items/ioun-stone-fortitude-xdmg.md) |
-| 80 | [Ioun stone, insight](/03_Mechanics/CLI/items/ioun-stone-insight-xdmg.md) |
-| 81 | [Ioun stone, intellect](/03_Mechanics/CLI/items/ioun-stone-intellect-xdmg.md) |
-| 82 | [Ioun stone, leadership](/03_Mechanics/CLI/items/ioun-stone-leadership-xdmg.md) |
-| 83 | [Ioun stone, strength](/03_Mechanics/CLI/items/ioun-stone-strength-xdmg.md) |
-| 84 | [+2 leather armor](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 85 | [Manual of bodily health](/03_Mechanics/CLI/items/manual-of-bodily-health-xdmg.md) |
-| 86 | [Manual of gainful exercise](/03_Mechanics/CLI/items/manual-of-gainful-exercise-xdmg.md) |
-| 87 | [Manual of golems](/03_Mechanics/CLI/items/manual-of-golems-xdmg.md) |
-| 88 | [Manual of quickness of action](/03_Mechanics/CLI/items/manual-of-quickness-of-action-xdmg.md) |
-| 89 | [Mirror of life trapping](/03_Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md) |
-| 90 | [Nine lives stealer](/03_Mechanics/CLI/items/nine-lives-stealer-xdmg.md) |
-| 91 | [Oathbow](/03_Mechanics/CLI/items/oathbow-xdmg.md) |
-| 92 | [+2 scale mail](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 93 | [Spellguard shield](/03_Mechanics/CLI/items/spellguard-shield-xdmg.md) |
-| 94 | [+1 splint armor](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 95 | [Splint armor of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 96 | [+1 studded leather armor](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 97 | [Studded leather armor of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 98 | [Tome of clear thought](/03_Mechanics/CLI/items/tome-of-clear-thought-xdmg.md) |
-| 99 | [Tome of leadership and influence](/03_Mechanics/CLI/items/tome-of-leadership-and-influence-xdmg.md) |
-| 00 | [Tome of understanding](/03_Mechanics/CLI/items/tome-of-understanding-xdmg.md) |
+| 01-10 | [[/03_Mechanics/CLI/items/3-weapon-xdmg|+3 weapon]] |
+| 11-12 | [[/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg|Amulet of the planes]] |
+| 13-14 | [[/03_Mechanics/CLI/items/carpet-of-flying-xdmg|Carpet of flying]] |
+| 15-16 | [[/03_Mechanics/CLI/items/crystal-ball-xdmg|Crystal ball]] |
+| 17-18 | [[/03_Mechanics/CLI/items/ring-of-regeneration-xdmg|Ring of regeneration]] |
+| 19-20 | [[/03_Mechanics/CLI/items/ring-of-shooting-stars-xdmg|Ring of shooting stars]] |
+| 21-22 | [[/03_Mechanics/CLI/items/ring-of-telekinesis-xdmg|Ring of telekinesis]] |
+| 23-24 | [[/03_Mechanics/CLI/items/robe-of-scintillating-colors-xdmg|Robe of scintillating colors]] |
+| 25-26 | [[/03_Mechanics/CLI/items/robe-of-stars-xdmg|Robe of stars]] |
+| 27-28 | [[/03_Mechanics/CLI/items/rod-of-absorption-xdmg|Rod of absorption]] |
+| 29-30 | [[/03_Mechanics/CLI/items/rod-of-alertness-xdmg|Rod of alertness]] |
+| 31-32 | [[/03_Mechanics/CLI/items/rod-of-security-xdmg|Rod of security]] |
+| 33-34 | [[/03_Mechanics/CLI/items/3-rod-of-the-pact-keeper-xdmg|+3 rod of the pact keeper]] |
+| 35-36 | [[/03_Mechanics/CLI/items/scimitar-of-speed-xdmg|Scimitar of speed]] |
+| 37-38 | [[/03_Mechanics/CLI/items/3-shield-xdmg|+3 shield]] |
+| 39-40 | [[/03_Mechanics/CLI/items/staff-of-fire-xdmg|Staff of fire]] |
+| 41-42 | [[/03_Mechanics/CLI/items/staff-of-frost-xdmg|Staff of frost]] |
+| 43-44 | [[/03_Mechanics/CLI/items/staff-of-power-xdmg|Staff of power]] |
+| 45-46 | [[/03_Mechanics/CLI/items/staff-of-striking-xdmg|Staff of striking]] |
+| 47-48 | [[/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg|Staff of thunder and lightning]] |
+| 49-50 | [[/03_Mechanics/CLI/items/sword-of-sharpness-xdmg|Sword of sharpness]] |
+| 51-52 | [[/03_Mechanics/CLI/items/wand-of-polymorph-xdmg|Wand of polymorph]] |
+| 53-54 | [[/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg|+3 wand of the war mage]] |
+| 55 | [[/03_Mechanics/CLI/items/adamantine-armor-xdmg|Adamantine half plate armor]] |
+| 56 | [[/03_Mechanics/CLI/items/adamantine-armor-xdmg|Adamantine plate armor]] |
+| 57 | [[/03_Mechanics/CLI/items/animated-shield-xdmg|Animated shield]] |
+| 58 | [[/03_Mechanics/CLI/items/belt-of-fire-giant-strength-xdmg|Belt of fire giant strength]] |
+| 59 | Belt of [[/03_Mechanics/CLI/items/belt-of-frost-giant-strength-xdmg|Frost]] or [[/03_Mechanics/CLI/items/belt-of-stone-giant-strength-xdmg|Stone]] giant strength |
+| 60 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 breastplate]] |
+| 61 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Breastplate of resistance]] |
+| 62 | [[/03_Mechanics/CLI/items/candle-of-invocation-xdmg|Candle of invocation]] |
+| 63 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 chain mail]] |
+| 64 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 chain shirt]] |
+| 65 | [[/03_Mechanics/CLI/items/cloak-of-arachnida-xdmg|Cloak of arachnida]] |
+| 66 | [[/03_Mechanics/CLI/items/dancing-sword-xdmg|Dancing sword]] |
+| 67 | [[/03_Mechanics/CLI/items/demon-armor-xdmg|Demon armor]] |
+| 68 | [[/03_Mechanics/CLI/items/dragon-scale-mail-xdmg|Dragon scale mail]] |
+| 69 | [[/03_Mechanics/CLI/items/dwarven-plate-xdmg|Dwarven plate]] |
+| 70 | [[/03_Mechanics/CLI/items/dwarven-thrower-xdmg|Dwarven thrower]] |
+| 71 | [[/03_Mechanics/CLI/items/efreeti-bottle-xdmg|Efreeti bottle]] |
+| 72 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg|Figurine of wondrous power, obsidian steed]] |
+| 73 | [[/03_Mechanics/CLI/items/frost-brand-xdmg|Frost brand]] |
+| 74 | [[/03_Mechanics/CLI/items/helm-of-brilliance-xdmg|Helm of brilliance]] |
+| 75 | [[/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg|Horn of valhalla, bronze]] |
+| 76 | [[/03_Mechanics/CLI/items/instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the bards, anstruth harp]] |
+| 77 | [[/03_Mechanics/CLI/items/ioun-stone-absorption-xdmg|Ioun stone, absorption]] |
+| 78 | [[/03_Mechanics/CLI/items/ioun-stone-agility-xdmg|Ioun stone, agility]] |
+| 79 | [[/03_Mechanics/CLI/items/ioun-stone-fortitude-xdmg|Ioun stone, fortitude]] |
+| 80 | [[/03_Mechanics/CLI/items/ioun-stone-insight-xdmg|Ioun stone, insight]] |
+| 81 | [[/03_Mechanics/CLI/items/ioun-stone-intellect-xdmg|Ioun stone, intellect]] |
+| 82 | [[/03_Mechanics/CLI/items/ioun-stone-leadership-xdmg|Ioun stone, leadership]] |
+| 83 | [[/03_Mechanics/CLI/items/ioun-stone-strength-xdmg|Ioun stone, strength]] |
+| 84 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 leather armor]] |
+| 85 | [[/03_Mechanics/CLI/items/manual-of-bodily-health-xdmg|Manual of bodily health]] |
+| 86 | [[/03_Mechanics/CLI/items/manual-of-gainful-exercise-xdmg|Manual of gainful exercise]] |
+| 87 | [[/03_Mechanics/CLI/items/manual-of-golems-xdmg|Manual of golems]] |
+| 88 | [[/03_Mechanics/CLI/items/manual-of-quickness-of-action-xdmg|Manual of quickness of action]] |
+| 89 | [[/03_Mechanics/CLI/items/mirror-of-life-trapping-xdmg|Mirror of life trapping]] |
+| 90 | [[/03_Mechanics/CLI/items/nine-lives-stealer-xdmg|Nine lives stealer]] |
+| 91 | [[/03_Mechanics/CLI/items/oathbow-xdmg|Oathbow]] |
+| 92 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 scale mail]] |
+| 93 | [[/03_Mechanics/CLI/items/spellguard-shield-xdmg|Spellguard shield]] |
+| 94 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 splint armor]] |
+| 95 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Splint armor of resistance]] |
+| 96 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 studded leather armor]] |
+| 97 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Studded leather armor of resistance]] |
+| 98 | [[/03_Mechanics/CLI/items/tome-of-clear-thought-xdmg|Tome of clear thought]] |
+| 99 | [[/03_Mechanics/CLI/items/tome-of-leadership-and-influence-xdmg|Tome of leadership and influence]] |
+| 00 | [[/03_Mechanics/CLI/items/tome-of-understanding-xdmg|Tome of understanding]] |
 ^magic-item-table-h
 
 ## Player-Facing Summary

@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Bane](/03_Mechanics/CLI/spells/bane-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/bane-xphb "XPHB"|Bane]]
 
 ## Player-Facing Summary
 

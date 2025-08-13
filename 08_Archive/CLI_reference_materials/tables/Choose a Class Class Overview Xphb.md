@@ -23,18 +23,18 @@ world: Both
 
 | Class | Likes... | Primary Ability | Complexity |
 |-------|----------|-----------------|------------|
-| [Barbarian](/03_Mechanics/CLI/classes/barbarian-xphb.md) | Battle | Strength | Average |
-| [Bard](/03_Mechanics/CLI/classes/bard-xphb.md) | Performing | Charisma | High |
-| [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md) | Gods | Wisdom | Average |
-| [Druid](/03_Mechanics/CLI/classes/druid-xphb.md) | Nature | Wisdom | High |
-| [Fighter](/03_Mechanics/CLI/classes/fighter-xphb.md) | Weapons | Strength or Dexterity | Low |
-| [Monk](/03_Mechanics/CLI/classes/monk-xphb.md) | Unarmed combat | Dexterity and Wisdom | High |
-| [Paladin](/03_Mechanics/CLI/classes/paladin-xphb.md) | Defense | Strength and Charisma | Average |
-| [Ranger](/03_Mechanics/CLI/classes/ranger-xphb.md) | Survival | Dexterity and Wisdom | Average |
-| [Rogue](/03_Mechanics/CLI/classes/rogue-xphb.md) | Stealth | Dexterity | Low |
-| [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) | Power | Charisma | High |
-| [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | Occult lore | Charisma | High |
-| [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | Spellbooks | Intelligence | Average |
+| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | Battle | Strength | Average |
+| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | Performing | Charisma | High |
+| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | Gods | Wisdom | Average |
+| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | Nature | Wisdom | High |
+| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
+| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | Defense | Strength and Charisma | Average |
+| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
+| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | Stealth | Dexterity | Low |
+| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | Power | Charisma | High |
+| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | Occult lore | Charisma | High |
+| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | Spellbooks | Intelligence | Average |
 ^class-overview
 
 ## Player-Facing Summary

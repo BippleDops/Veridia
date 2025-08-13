@@ -32,7 +32,7 @@ world: Aethermoor
 
 # Quest - The Root Network
 
-![Quest - The Root Network Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Root_Network.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_The_Root_Network.png|Quest - The Root Network Portrait]]
 
 ## Role and Motive
 Quest - The Root Network moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

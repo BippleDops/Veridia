@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reality Distortion Effects]]
+- [[02_Worldbuilding/Places/Reality Distortion Effects|02 Worldbuilding/Places/Reality Distortion Effects]]
 
 <!-- enriched: true -->
 

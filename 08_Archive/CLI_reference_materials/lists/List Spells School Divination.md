@@ -20,67 +20,67 @@ world: Both
 
 ## Cantrip
 
-- [Guidance](/03_Mechanics/CLI/spells/guidance-xphb.md "XPHB")
-- [True Strike](/03_Mechanics/CLI/spells/true-strike-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]]
+- [[/03_Mechanics/CLI/spells/true-strike-xphb "XPHB"|True Strike]]
 
 ## 1st Level
 
-- [Beast Bond](/03_Mechanics/CLI/spells/beast-bond-xge.md "XGE")
-- [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB")
-- [Detect Evil and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md "XPHB")
-- [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
-- [Detect Poison and Disease](/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb.md "XPHB")
-- [Hunter's Mark](/03_Mechanics/CLI/spells/hunters-mark-xphb.md "XPHB")
-- [Identify](/03_Mechanics/CLI/spells/identify-xphb.md "XPHB")
-- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/beast-bond-xge "XGE"|Beast Bond]]
+- [[/03_Mechanics/CLI/spells/comprehend-languages-xphb "XPHB"|Comprehend Languages]]
+- [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb "XPHB"|Detect Evil and Good]]
+- [[/03_Mechanics/CLI/spells/detect-magic-xphb "XPHB"|Detect Magic]]
+- [[/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb "XPHB"|Detect Poison and Disease]]
+- [[/03_Mechanics/CLI/spells/hunters-mark-xphb "XPHB"|Hunter's Mark]]
+- [[/03_Mechanics/CLI/spells/identify-xphb "XPHB"|Identify]]
+- [[/03_Mechanics/CLI/spells/speak-with-animals-xphb "XPHB"|Speak with Animals]]
 
 ## 2nd Level
 
-- [Augury](/03_Mechanics/CLI/spells/augury-xphb.md "XPHB")
-- [Beast Sense](/03_Mechanics/CLI/spells/beast-sense-xphb.md "XPHB")
-- [Borrowed Knowledge](/03_Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
-- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
-- [Find Traps](/03_Mechanics/CLI/spells/find-traps-xphb.md "XPHB")
-- [Locate Animals or Plants](/03_Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB")
-- [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
-- [Mind Spike](/03_Mechanics/CLI/spells/mind-spike-xphb.md "XPHB")
-- [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/augury-xphb "XPHB"|Augury]]
+- [[/03_Mechanics/CLI/spells/beast-sense-xphb "XPHB"|Beast Sense]]
+- [[/03_Mechanics/CLI/spells/borrowed-knowledge-scc "SCC"|Borrowed Knowledge]]
+- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]]
+- [[/03_Mechanics/CLI/spells/find-traps-xphb "XPHB"|Find Traps]]
+- [[/03_Mechanics/CLI/spells/locate-animals-or-plants-xphb "XPHB"|Locate Animals or Plants]]
+- [[/03_Mechanics/CLI/spells/locate-object-xphb "XPHB"|Locate Object]]
+- [[/03_Mechanics/CLI/spells/mind-spike-xphb "XPHB"|Mind Spike]]
+- [[/03_Mechanics/CLI/spells/see-invisibility-xphb "XPHB"|See Invisibility]]
 
 ## 3rd Level
 
-- [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB")
-- [Sending](/03_Mechanics/CLI/spells/sending-xphb.md "XPHB")
-- [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/clairvoyance-xphb "XPHB"|Clairvoyance]]
+- [[/03_Mechanics/CLI/spells/sending-xphb "XPHB"|Sending]]
+- [[/03_Mechanics/CLI/spells/tongues-xphb "XPHB"|Tongues]]
 
 ## 4th Level
 
-- [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")
-- [Divination](/03_Mechanics/CLI/spells/divination-xphb.md "XPHB")
-- [Locate Creature](/03_Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/arcane-eye-xphb "XPHB"|Arcane Eye]]
+- [[/03_Mechanics/CLI/spells/divination-xphb "XPHB"|Divination]]
+- [[/03_Mechanics/CLI/spells/locate-creature-xphb "XPHB"|Locate Creature]]
 
 ## 5th Level
 
-- [Commune](/03_Mechanics/CLI/spells/commune-xphb.md "XPHB")
-- [Commune with Nature](/03_Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB")
-- [Contact Other Plane](/03_Mechanics/CLI/spells/contact-other-plane-xphb.md "XPHB")
-- [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md "XPHB")
-- [Rary's Telepathic Bond](/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB")
-- [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/commune-xphb "XPHB"|Commune]]
+- [[/03_Mechanics/CLI/spells/commune-with-nature-xphb "XPHB"|Commune with Nature]]
+- [[/03_Mechanics/CLI/spells/contact-other-plane-xphb "XPHB"|Contact Other Plane]]
+- [[/03_Mechanics/CLI/spells/legend-lore-xphb "XPHB"|Legend Lore]]
+- [[/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb "XPHB"|Rary's Telepathic Bond]]
+- [[/03_Mechanics/CLI/spells/scrying-xphb "XPHB"|Scrying]]
 
 ## 6th Level
 
-- [Find the Path](/03_Mechanics/CLI/spells/find-the-path-xphb.md "XPHB")
-- [True Seeing](/03_Mechanics/CLI/spells/true-seeing-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/find-the-path-xphb "XPHB"|Find the Path]]
+- [[/03_Mechanics/CLI/spells/true-seeing-xphb "XPHB"|True Seeing]]
 
 ## 8th Level
 
-- [Telepathy](/03_Mechanics/CLI/spells/telepathy-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/telepathy-xphb "XPHB"|Telepathy]]
 
 ## 9th Level
 
-- [Foresight](/03_Mechanics/CLI/spells/foresight-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/foresight-xphb "XPHB"|Foresight]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
 ## Player-Facing Summary
 

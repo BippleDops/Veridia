@@ -45,11 +45,11 @@ As an action on your turn, you can cower pathetically to distract nearby foes. U
 
 ### Pack Tactics
 
-You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
+You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Languages
 

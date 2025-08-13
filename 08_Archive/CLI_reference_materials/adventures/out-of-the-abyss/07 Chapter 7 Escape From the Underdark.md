@@ -71,17 +71,17 @@ When the characters finally reach the surface, it's likely that some of their su
 
 ### Underdark Natives
 
-Knowing that many of their NPC companions have homes in the Underdark can be an important part of the decision-making process that guides the characters through the early chapters of this adventure. The Underdark is a dangerous place, and characters might be reluctant to let their newfound friends fend for themselves. Helping some of them return home makes a good incentive to visit locations in the Underdark. Shuushar, [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md), [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md), [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md), [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md), and [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) would rather remain in the Underdark than suffer sunlight.
+Knowing that many of their NPC companions have homes in the Underdark can be an important part of the decision-making process that guides the characters through the early chapters of this adventure. The Underdark is a dangerous place, and characters might be reluctant to let their newfound friends fend for themselves. Helping some of them return home makes a good incentive to visit locations in the Underdark. Shuushar, [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]], [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]], [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]], [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]], and [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]] would rather remain in the Underdark than suffer sunlight.
 
 ### Surface Dwellers
 
-Companions such as Eldeth and [Ront](/03_Mechanics/CLI/bestiary/npc/ront-oota.md), who prefer to live on or near the surface, gladly follow the characters all the way out if they can. Eldeth wishes to return to Gauntlgrym, and her presence there can provide a connection for the characters when they visit the dwarven settlement in chapter 8. If Eldeth didn't survive, she might have charged the characters with returning her body or effects to Gauntlgrym. [Ront](/03_Mechanics/CLI/bestiary/npc/ront-oota.md) might wish to rejoin his tribe or seek a new home elsewhere, based on how the events in the earlier chapters of the adventure have influenced him. Depending on how he was treated, the orc most likely parts from the characters in peace—out of respect for their battle prowess, if nothing else.
+Companions such as Eldeth and [[/03_Mechanics/CLI/bestiary/npc/ront-oota|Ront]], who prefer to live on or near the surface, gladly follow the characters all the way out if they can. Eldeth wishes to return to Gauntlgrym, and her presence there can provide a connection for the characters when they visit the dwarven settlement in chapter 8. If Eldeth didn't survive, she might have charged the characters with returning her body or effects to Gauntlgrym. [[/03_Mechanics/CLI/bestiary/npc/ront-oota|Ront]] might wish to rejoin his tribe or seek a new home elsewhere, based on how the events in the earlier chapters of the adventure have influenced him. Depending on how he was treated, the orc most likely parts from the characters in peace—out of respect for their battle prowess, if nothing else.
 
 ### With Friends Like These...
 
-[Buppido](/03_Mechanics/CLI/bestiary/npc/buppido-oota.md), [Prince Derendil](/03_Mechanics/CLI/bestiary/npc/prince-derendil-oota.md), and Sarith might be gone well before the adventurers are ready to return to the surface, having already revealed their dark secrets and treacherous natures.
+[[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]], [[/03_Mechanics/CLI/bestiary/npc/prince-derendil-oota|Prince Derendil]], and Sarith might be gone well before the adventurers are ready to return to the surface, having already revealed their dark secrets and treacherous natures.
 
-If [Buppido](/03_Mechanics/CLI/bestiary/npc/buppido-oota.md) or Sarith are still around, either NPC could go mad and attempt to kill the adventurers before they reach the surface world. Derendil might still hold to his delusion of being an elf prince wanting to return to his forest kingdom. However, the quaggoth is poorly suited to travel on the surface, needing shelter from the light during the day. He becomes increasingly irrational and erratic, seeing enemies and plots everywhere, until he eventually accuses the characters of colluding with his enemies and attacks in a mad fury.
+If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] or Sarith are still around, either NPC could go mad and attempt to kill the adventurers before they reach the surface world. Derendil might still hold to his delusion of being an elf prince wanting to return to his forest kingdom. However, the quaggoth is poorly suited to travel on the surface, needing shelter from the light during the day. He becomes increasingly irrational and erratic, seeing enemies and plots everywhere, until he eventually accuses the characters of colluding with his enemies and attacks in a mad fury.
 
 ## Confronting the Drow
 
@@ -91,7 +91,7 @@ The possibility that her prey might escape drives Ilvara onward. In turn, she re
 
 ### Drow Chase
 
-If the adventurers flee from the drow, use the chase rules in "chapter 8" of the *Dungeon Master's Guide* to play out the pursuit. The drow are on foot. If she gets close enough to do so, Ilvara tries to cut off the party's escape by casting [web](/03_Mechanics/CLI/spells/web-xphb.md) across the tunnel ahead. In addition to giving chase, the [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) in the pursuit party pepper the characters with poisoned crossbow bolts, hoping to render some of them [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious).
+If the adventurers flee from the drow, use the chase rules in "chapter 8" of the *Dungeon Master's Guide* to play out the pursuit. The drow are on foot. If she gets close enough to do so, Ilvara tries to cut off the party's escape by casting [[/03_Mechanics/CLI/spells/web-xphb|web]] across the tunnel ahead. In addition to giving chase, the [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] in the pursuit party pepper the characters with poisoned crossbow bolts, hoping to render some of them [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]].
 
 #### Chase Complications
 
@@ -107,24 +107,24 @@ If the drow catch up with the characters, the chase becomes a combat (see "Stand
 
 If the characters stand and fight, or if the drow catch them, they're in for a tough battle. Ilvara alone is a challenge for a group of 8th-level characters, and she is accompanied by her most powerful servants. The attacking drow force consists of the following:
 
-- Ilvara, [drow priestess of Lolth](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md), armed with a [tentacle rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md) in addition to the usual equipment  
-- [Asha](/03_Mechanics/CLI/bestiary/npc/asha-vandree-oota.md), junior drow priestess (use the [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) stat block in the *Monster Manual*, but give Asha the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a typical drow)  
-- Shoor and Jorlan, [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (Jorlan has disadvantage on attack rolls, Dexterity checks, and Dexterity saving throws)  
-- Four [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors  
+- Ilvara, [[/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm|drow priestess of Lolth]], armed with a [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|tentacle rod]] in addition to the usual equipment  
+- [[/03_Mechanics/CLI/bestiary/npc/asha-vandree-oota|Asha]], junior drow priestess (use the [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] stat block in the *Monster Manual*, but give Asha the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a typical drow)  
+- Shoor and Jorlan, [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]] (Jorlan has disadvantage on attack rolls, Dexterity checks, and Dexterity saving throws)  
+- Four [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] warriors  
 
 If any of the named drow were killed in chapter 1, they have been replaced by other drow with similar statistics.
 
-On her first turn in combat, Ilvara casts [conjure animals](/03_Mechanics/CLI/spells/conjure-animals-xphb.md) to summon two [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) to fight alongside the drow, while Asha casts [spirit guardians](/03_Mechanics/CLI/spells/spirit-guardians-xphb.md) on herself and concentrates to maintain it. The other drow cast [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md) to hinder ranged attackers before closing to melee. Shoor protects Ilvara, while Jorlan makes no effort to protect his fellow drow. Ilvara prefers to strike from a distance with her [tentacle rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md), or cast spells such as [poison spray](/03_Mechanics/CLI/spells/poison-spray-xphb.md) and [ray of sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md).
+On her first turn in combat, Ilvara casts [[/03_Mechanics/CLI/spells/conjure-animals-xphb|conjure animals]] to summon two [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] to fight alongside the drow, while Asha casts [[/03_Mechanics/CLI/spells/spirit-guardians-xphb|spirit guardians]] on herself and concentrates to maintain it. The other drow cast [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] to hinder ranged attackers before closing to melee. Shoor protects Ilvara, while Jorlan makes no effort to protect his fellow drow. Ilvara prefers to strike from a distance with her [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|tentacle rod]], or cast spells such as [[/03_Mechanics/CLI/spells/poison-spray-xphb|poison spray]] and [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|ray of sickness]].
 
-If Ilvara loses more than half her hit points, she attempts to summon a [yochlol](/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm.md) demon.
+If Ilvara loses more than half her hit points, she attempts to summon a [[/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm|yochlol]] demon.
 
 #### Evening the Odds
 
 The characters might have a couple NPC companions around to help them defeat the drow (see "Bidding Farewell"), but if they need more assistance, consider the following options:
 
-- Having pushed themselves to catch up to their prey, the drow all have one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).  
+- Having pushed themselves to catch up to their prey, the drow all have one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].  
 - Ilvara and Asha have already expended some of their spell slots.  
-- The characters make it to the surface before being intercepted by the drow, and the dark elves follow them into daylight. Under the light of the sun, the drow have disadvantage on their attack rolls and on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks relying on sight. The drow can pursue the characters for 1 hour before their armor and weapons are destroyed by the sunlight.  
+- The characters make it to the surface before being intercepted by the drow, and the dark elves follow them into daylight. Under the light of the sun, the drow have disadvantage on their attack rolls and on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks relying on sight. The drow can pursue the characters for 1 hour before their armor and weapons are destroyed by the sunlight.  
 - Asha chooses the confusion of combat as the moment to betray Ilvara, attacking while the elder priestess's back is turned. Ilvara instantly turns her attention to eliminating the traitor, distracting her and weakening the drow side if she succeeds.  
 - Wanting to deny Ilvara the triumph of recapturing the adventurers, Jorlan turns against his fellow drow, attacking them until he's slain. If he survives, he turns against the characters in his self-destructive fury once all the drow are dead.  
 - One or more NPC companions whom the characters left behind in the Underdark show up to help, having spotted the pursuing drow and followed them.  
@@ -171,16 +171,16 @@ If you'd rather skip the encounters and jump ahead to chapter 8, assume that the
 
 | dice: d20 | Complication |
 |-----------|--------------|
-| 1 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
-| 2 | A fissure, rocky outcropping, or debris threatens to trip you up. Make a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. On a failure, you fall [prone](/03_Mechanics/CLI/conditions.md#Prone). |
-| 3 | You disturb a [swarm of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) that makes one attack against you before quickly scattering. |
-| 4 | A colony of [piercers](/03_Mechanics/CLI/bestiary/aberration/piercer-xmm.md) hangs 20 feet overhead. As you pass, one of them drops and makes an attack against you. |
-| 5 | You have to dodge around stalagmites and columns. Make a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. On a failure, you take `d4` bludgeoning damage from running into an obstacle. |
-| 6 | A mass of webbing blocks your path. Avoiding it requires a successful DC 12 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. On a failure, you are caught in the web and [restrained](/03_Mechanics/CLI/conditions.md#Restrained). As an action, you can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked (AC 10; hp 5; vulnerability to fire damage; immunity to poison and psychic damage). |
+| 1 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
+| 2 | A fissure, rocky outcropping, or debris threatens to trip you up. Make a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. On a failure, you fall [[/03_Mechanics/CLI/conditions#Prone|prone]]. |
+| 3 | You disturb a [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|swarm of bats]] that makes one attack against you before quickly scattering. |
+| 4 | A colony of [[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm|piercers]] hangs 20 feet overhead. As you pass, one of them drops and makes an attack against you. |
+| 5 | You have to dodge around stalagmites and columns. Make a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. On a failure, you take `d4` bludgeoning damage from running into an obstacle. |
+| 6 | A mass of webbing blocks your path. Avoiding it requires a successful DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. On a failure, you are caught in the web and [[/03_Mechanics/CLI/conditions#Restrained|restrained]]. As an action, you can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked (AC 10; hp 5; vulnerability to fire damage; immunity to poison and psychic damage). |
 | 7 | A patch of green slime drops from the ceiling, requiring a successful DC 10 Dexterity saving throw to avoid. On a failure, you are struck and take 5 (`d10`) acid damage. You take 5 (`d10`) acid damage again at the start of each of your turns until the slime is scraped off or destroyed (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). |
-| 8 | The floor beneath you is smooth and slick with moisture, requiring a successful DC 10 Dexterity saving throw to navigate. On a failed save, you fall [prone](/03_Mechanics/CLI/conditions.md#Prone). |
+| 8 | The floor beneath you is smooth and slick with moisture, requiring a successful DC 10 Dexterity saving throw to navigate. On a failed save, you fall [[/03_Mechanics/CLI/conditions#Prone|prone]]. |
 | 9 | The floor beneath you is littered with sharp rocks and debris, and you must succeed on a DC 10 Dexterity saving throw to cross it. On a failure, you take `d4` piercing damage and the ground counts as 10 feet of difficult terrain. |
-| 10 | The chase kicks up a cloud of dust, sand, or spores. You must succeed on a DC 10 Constitution saving throw to pass through the cloud. On a failure, you are [blinded](/03_Mechanics/CLI/conditions.md#Blinded) until the end of your turn. While [blinded](/03_Mechanics/CLI/conditions.md#Blinded) in this way, your speed is reduced by half. |
+| 10 | The chase kicks up a cloud of dust, sand, or spores. You must succeed on a DC 10 Constitution saving throw to pass through the cloud. On a failure, you are [[/03_Mechanics/CLI/conditions#Blinded|blinded]] until the end of your turn. While [[/03_Mechanics/CLI/conditions#Blinded|blinded]] in this way, your speed is reduced by half. |
 | 11–20 | No complication. |
 ^complication
 

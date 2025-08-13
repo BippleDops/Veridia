@@ -216,11 +216,11 @@ Timeline consideration addresses both immediate and long-term consequences, reco
 Alternative outcome exploration examines different possible consequences for major events, allowing game masters to choose outcomes that best serve story needs while remaining consistent with established setting elements.
 
 ## Connected Campaign Elements
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Alliance framework affected by campaign outcomes
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater setting influenced by character actions
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface setting shaped by campaign resolution
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring resolution consideration
-- [[02_Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory]] - Historian documenting campaign aftermath
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Alliance framework affected by campaign outcomes
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater setting influenced by character actions
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface setting shaped by campaign resolution
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring resolution consideration
+- [[02_Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory|02 Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory]] - Historian documenting campaign aftermath
 
 
 ## Connections
@@ -249,7 +249,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 - [[Eastern Kingdom Fleet]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]

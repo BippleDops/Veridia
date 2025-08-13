@@ -144,10 +144,10 @@ The massive clock in the Core is counting down to something. Different factions 
 
 ### The Surface Infiltration
 Increasing numbers of agents being sent to Aethermoor:
-- Establishing cells in [[02_Worldbuilding/Places/Port Meridian]]
+- Establishing cells in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 - Corrupting water supplies with transformation magic
 - Recruiting desperate surface dwellers
-- Searching for the [[02_Worldbuilding/Lore/The Seven Shards]]
+- Searching for the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
 
 ### Memory Black Market
 Illegal trade in stolen or forbidden memories:
@@ -220,11 +220,11 @@ Some citizens are transforming beyond even Hadean levels:
 - **The Daily Death**: Symbolic drowning at dawn to honor the Empress
 
 ## Connections to Aethermoor
-- [[02_Worldbuilding/Places/The Drowned Embassy]] recruits agents here
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] returns monthly for instructions
-- Smuggling routes to [[02_Worldbuilding/Places/Port Meridian]] originate here
-- Several [[02_Worldbuilding/Places/Crystalhaven]] nobles have hidden relatives here
-- The [[02_Worldbuilding/Lore/The Seven Shards]] are being actively sought by multiple factions
+- [[02_Worldbuilding/Places/The Drowned Embassy|02 Worldbuilding/Places/The Drowned Embassy]] recruits agents here
+- [[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]] returns monthly for instructions
+- Smuggling routes to [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] originate here
+- Several [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] nobles have hidden relatives here
+- The [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] are being actively sought by multiple factions
 
 ## Resources & Trade
 
@@ -259,7 +259,7 @@ Some citizens are transforming beyond even Hadean levels:
 - [[Shadow Independence Levels]]
 - [[Stop the Shadow Harvest]]
 - [[Forge of War]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -281,6 +281,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/New Thalassopolis]]
+- [[02_Worldbuilding/Places/New Thalassopolis|02 Worldbuilding/Places/New Thalassopolis]]
 
 <!-- enriched: true -->

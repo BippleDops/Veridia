@@ -27,15 +27,15 @@ world: Both
 
 A treacherous lieutenant named Kas brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.
 
-The [Eye of Vecna](/03_Mechanics/CLI/items/eye-of-vecna-xdmg.md) and the Hand of Vecna are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
+The [[/03_Mechanics/CLI/items/eye-of-vecna-xdmg|Eye of Vecna]] and the Hand of Vecna are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
 
 ## Random Properties of the Eye and Hand
 
 The Hand of Vecna has the following random properties:
 
-- 1 [minor beneficial](/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [[/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] property  
+- 1 [[/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg|major beneficial]] property  
+- 1 [[/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] property  
 
 ## Attuning to the Hand
 
@@ -47,21 +47,21 @@ When you are attuned to the hand, your alignment is Neutral Evil, and you gain t
 
 - **Great Strength.** Your Strength becomes 20 unless it is already 20 or higher.  
 - **Icy Touch.** Any melee spell attack you make with the hand and any melee attack made with a weapon held by it deals an extra `2d8` Cold damage on a hit.  
-- **Spellcasting.** The hand has 8 charges and regains `1d4 + 4` expended charges daily at dawn. You can cast a spell on the [Hand of Vecna](/03_Mechanics/CLI/items/hand-of-vecna-xdmg.md) Spells table from the hand (save DC 18). The table indicates how many charges you must expend to cast the spell. Each time you cast a spell from it, the hand casts [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) on you (save DC 18; no [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) required), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.  
+- **Spellcasting.** The hand has 8 charges and regains `1d4 + 4` expended charges daily at dawn. You can cast a spell on the [[/03_Mechanics/CLI/items/hand-of-vecna-xdmg|Hand of Vecna]] Spells table from the hand (save DC 18). The table indicates how many charges you must expend to cast the spell. Each time you cast a spell from it, the hand casts [[/03_Mechanics/CLI/spells/suggestion-xphb|Suggestion]] on you (save DC 18; no [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] required), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.  
 
     **Hand of Vecna Spells**  
 
     | Spell | Charge Cost |  
     |-------|-------------|  
-    | [Finger of Death](/03_Mechanics/CLI/spells/finger-of-death-xphb.md) | 5 |  
-    | [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md) | 1 |  
-    | [Slow](/03_Mechanics/CLI/spells/slow-xphb.md) | 2 |  
-    | [Teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) | 3 |  
+    | [[/03_Mechanics/CLI/spells/finger-of-death-xphb|Finger of Death]] | 5 |  
+    | [[/03_Mechanics/CLI/spells/sleep-xphb|Sleep]] | 1 |  
+    | [[/03_Mechanics/CLI/spells/slow-xphb|Slow]] | 2 |  
+    | [[/03_Mechanics/CLI/spells/teleport-xphb|Teleport]] | 3 |  
     ^hand-of-vecna-spells  
 
 ## Destroying the Eye and Hand
 
-If the [Eye of Vecna](/03_Mechanics/CLI/items/eye-of-vecna-xdmg.md) and the Hand of Vecna are both attached to the same creature and that creature is slain by the [Sword of Kas](/03_Mechanics/CLI/items/sword-of-kas-xdmg.md), both the eye and the hand burst into flame, turn to ash, and are destroyed. Any other attempt to destroy the eye or hand seems to work, but the Artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
+If the [[/03_Mechanics/CLI/items/eye-of-vecna-xdmg|Eye of Vecna]] and the Hand of Vecna are both attached to the same creature and that creature is slain by the [[/03_Mechanics/CLI/items/sword-of-kas-xdmg|Sword of Kas]], both the eye and the hand burst into flame, turn to ash, and are destroyed. Any other attempt to destroy the eye or hand seems to work, but the Artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 *Source: Dungeon Master's Guide (2024) p. 259*
 

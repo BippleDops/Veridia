@@ -59,7 +59,7 @@ These session-ready reference sheets provide instant access to critical campaign
 
 #### **Emperor Thalassius the Wise** - The Deep Ruler  
 **Quick Stats:** Level 18 Wizard | AC 16 | HP 144 | Intelligence 22
-**Location:** [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos]]
+**Location:** [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 **Personality:** Wise but burdened, careful speaker, strategic thinker
 **Speaking Style:** Measured, thoughtful, asks probing questions
 **Key Relationships:** Senator Glaucus (parliamentary leader), Admiral Thorne (military)
@@ -703,11 +703,11 @@ These session-ready reference sheets provide instant access to critical campaign
 ---
 
 ## Related Master Indexes
-- **[[Master_Places_Index]]** - Complete location directory and categorization
-- **[[Master_Lore_Index]]** - Comprehensive lore and history organization  
-- **[[Master_People_Index]]** - Complete NPC and character reference system
-- **[[Master_Groups_Index]]** - Faction and organization comprehensive guide
-- **[[Campaign_Relationship_Matrix]]** - Cross-category connection mapping system
+- **[[Master_Places_Index|Master Places Index]]** - Complete location directory and categorization
+- **[[Master_Lore_Index|Master Lore Index]]** - Comprehensive lore and history organization  
+- **[[Master_People_Index|Master People Index]]** - Complete NPC and character reference system
+- **[[Master_Groups_Index|Master Groups Index]]** - Faction and organization comprehensive guide
+- **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Cross-category connection mapping system
 
 ---
 
@@ -719,11 +719,11 @@ These session-ready reference sheets provide instant access to critical campaign
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 - [[Goldwave Manor]]
 - [[The Celestial Wind]]
 - [[The Lighthouse of Storms]]

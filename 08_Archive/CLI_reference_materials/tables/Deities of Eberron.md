@@ -21,35 +21,35 @@ world: Both
 
 | The Sovereign Host | Alignment | Suggested Domains | Symbol |
 |--------------------|-----------|-------------------|--------|
-| [Arawai](/03_Mechanics/CLI/deities/eberron-arawai.md), goddess of fertility | NG | Life, Nature | Sheaf of wheat tied with green ribbon |
-| [Aureon](/03_Mechanics/CLI/deities/eberron-aureon.md), god of law and knowledge | LN | Knowledge | Open tome |
-| [Balinor](/03_Mechanics/CLI/deities/eberron-balinor.md), god of beasts and the hunt | N | Life, Nature | Pair of antlers |
-| [Boldrei](/03_Mechanics/CLI/deities/eberron-boldrei.md), goddess of community and home | LG | Life | Fire in a stone hearth |
-| [Dol Arrah](/03_Mechanics/CLI/deities/eberron-dol-arrah.md), goddess of sunlight and honor | LG | Light, War | Rising sun |
-| [Dol Dorn](/03_Mechanics/CLI/deities/eberron-dol-dorn.md), god of strength at arms | CG | War | Longsword crossed over a shield |
-| [Kol Korran](/03_Mechanics/CLI/deities/eberron-kol-korran.md), god of trade and wealth | N | Trickery | Nine-sided gold coin |
-| [Olladra](/03_Mechanics/CLI/deities/eberron-olladra.md), goddess of good fortune | NG | Life, Trickery | Domino |
-| [Onatar](/03_Mechanics/CLI/deities/eberron-onatar.md), god of craft | NG | Knowledge | Crossed hammer and tongs |
+| [[/03_Mechanics/CLI/deities/eberron-arawai|Arawai]], goddess of fertility | NG | Life, Nature | Sheaf of wheat tied with green ribbon |
+| [[/03_Mechanics/CLI/deities/eberron-aureon|Aureon]], god of law and knowledge | LN | Knowledge | Open tome |
+| [[/03_Mechanics/CLI/deities/eberron-balinor|Balinor]], god of beasts and the hunt | N | Life, Nature | Pair of antlers |
+| [[/03_Mechanics/CLI/deities/eberron-boldrei|Boldrei]], goddess of community and home | LG | Life | Fire in a stone hearth |
+| [[/03_Mechanics/CLI/deities/eberron-dol-arrah|Dol Arrah]], goddess of sunlight and honor | LG | Light, War | Rising sun |
+| [[/03_Mechanics/CLI/deities/eberron-dol-dorn|Dol Dorn]], god of strength at arms | CG | War | Longsword crossed over a shield |
+| [[/03_Mechanics/CLI/deities/eberron-kol-korran|Kol Korran]], god of trade and wealth | N | Trickery | Nine-sided gold coin |
+| [[/03_Mechanics/CLI/deities/eberron-olladra|Olladra]], goddess of good fortune | NG | Life, Trickery | Domino |
+| [[/03_Mechanics/CLI/deities/eberron-onatar|Onatar]], god of craft | NG | Knowledge | Crossed hammer and tongs |
 ^the-sovereign-host-alignment-suggested-domains-symbol
 
 | The Dark Six | Alignment | Suggested Domains | Symbol |
 |--------------|-----------|-------------------|--------|
-| [The Devourer](/03_Mechanics/CLI/deities/eberron-the-devourer.md), god of nature's wrath | NE | Tempest | Bundle of five sharpened bones |
-| [The Fury](/03_Mechanics/CLI/deities/eberron-the-fury.md), goddess of wrath and madness | NE | War | Winged wyrm with woman's head and upper body |
-| [The Keeper](/03_Mechanics/CLI/deities/eberron-the-keeper.md), god of greed and death | NE | Death | Dragonshard stone in the shape of a fang |
-| [The Mockery](/03_Mechanics/CLI/deities/eberron-the-mockery.md), god of violence and treachery | NE | War | Five blood-spattered tools |
-| [The Shadow](/03_Mechanics/CLI/deities/eberron-the-shadow.md), god of dark magic | CE | Knowledge | Obsidian tower |
-| [The Traveler](/03_Mechanics/CLI/deities/eberron-the-traveler.md), deity of chaos and change | CN | Knowledge, Trickery | Four crossed, rune-inscribed bones |
+| [[/03_Mechanics/CLI/deities/eberron-the-devourer|The Devourer]], god of nature's wrath | NE | Tempest | Bundle of five sharpened bones |
+| [[/03_Mechanics/CLI/deities/eberron-the-fury|The Fury]], goddess of wrath and madness | NE | War | Winged wyrm with woman's head and upper body |
+| [[/03_Mechanics/CLI/deities/eberron-the-keeper|The Keeper]], god of greed and death | NE | Death | Dragonshard stone in the shape of a fang |
+| [[/03_Mechanics/CLI/deities/eberron-the-mockery|The Mockery]], god of violence and treachery | NE | War | Five blood-spattered tools |
+| [[/03_Mechanics/CLI/deities/eberron-the-shadow|The Shadow]], god of dark magic | CE | Knowledge | Obsidian tower |
+| [[/03_Mechanics/CLI/deities/eberron-the-traveler|The Traveler]], deity of chaos and change | CN | Knowledge, Trickery | Four crossed, rune-inscribed bones |
 ^the-dark-six-alignment-suggested-domains-symbol
 
 | Other Faiths of Eberron | Alignment | Suggested Domains | Symbol |
 |-------------------------|-----------|-------------------|--------|
-| [The Silver Flame](/03_Mechanics/CLI/deities/eberron-the-silver-flame.md), deity of protection and good | LG | Life, Light, War | Flame drawn on silver or molded from silver |
-| [The Blood of Vol](/03_Mechanics/CLI/deities/eberron-the-blood-of-vol.md), philosophy of immortality and undeath | LN | Death, Life | Stylized dragon skull on red teardrop gem |
-| [Cults of the Dragon Below](/03_Mechanics/CLI/deities/eberron-cults-of-the-dragon-below.md), deities of madness | NE | Trickery | Varies |
-| [The Path of Light](/03_Mechanics/CLI/deities/eberron-the-path-of-light.md), philosophy of light and self-improvement | LN | Life, Light | Brilliant crystal |
-| [The Undying Court](/03_Mechanics/CLI/deities/eberron-the-undying-court.md), elven ancestors | NG | Knowledge, Life | Varies |
-| [The Spirits of the Past](/03_Mechanics/CLI/deities/eberron-the-spirits-of-the-past.md), elven ancestors | CG | War | Varies |
+| [[/03_Mechanics/CLI/deities/eberron-the-silver-flame|The Silver Flame]], deity of protection and good | LG | Life, Light, War | Flame drawn on silver or molded from silver |
+| [[/03_Mechanics/CLI/deities/eberron-the-blood-of-vol|The Blood of Vol]], philosophy of immortality and undeath | LN | Death, Life | Stylized dragon skull on red teardrop gem |
+| [[/03_Mechanics/CLI/deities/eberron-cults-of-the-dragon-below|Cults of the Dragon Below]], deities of madness | NE | Trickery | Varies |
+| [[/03_Mechanics/CLI/deities/eberron-the-path-of-light|The Path of Light]], philosophy of light and self-improvement | LN | Life, Light | Brilliant crystal |
+| [[/03_Mechanics/CLI/deities/eberron-the-undying-court|The Undying Court]], elven ancestors | NG | Knowledge, Life | Varies |
+| [[/03_Mechanics/CLI/deities/eberron-the-spirits-of-the-past|The Spirits of the Past]], elven ancestors | CG | War | Varies |
 ^other-faiths-of-eberron-alignment-suggested-domains-symbol
 
 ## Player-Facing Summary

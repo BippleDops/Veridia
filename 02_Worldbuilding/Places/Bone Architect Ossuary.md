@@ -53,6 +53,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bone Architect Ossuary]]
+- [[02_Worldbuilding/Places/Bone Architect Ossuary|02 Worldbuilding/Places/Bone Architect Ossuary]]
 
 <!-- enriched: true -->

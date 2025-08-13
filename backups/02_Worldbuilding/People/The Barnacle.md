@@ -161,9 +161,9 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
-- [[Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -185,7 +185,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Barnacle]]
+- [[02_Worldbuilding/People/The Barnacle|02 Worldbuilding/People/The Barnacle]]
 
 <!-- enriched: true -->
 - [[Memory Harvester Kythara]]

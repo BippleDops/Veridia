@@ -3,11 +3,11 @@ climate: Magically Altered Desert
 created: '2025-08-09'
 current_status: Quarantined, Heavily Monitored
 danger_level: 10
-formation_cause: '[[02_Worldbuilding/Lore/The Great Crystallization]]'
+formation_cause: '[[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]'
 related_entities:
-- '[[02_Worldbuilding/Places/Crystalhaven]]'
-- '[[02_Worldbuilding/Lore/The Seven Shards]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 size: 50 square miles
 status: draft
 tags:
@@ -36,9 +36,9 @@ world: Aethermoor
 
 ## Overview
 
-The Crystalline Wastes stretch across what was once the fertile Goldmeadow Valley, now transformed into a nightmarish landscape of twisted crystal formations, reality distortions, and dangerous magical phenomena. Created during [[02_Worldbuilding/Lore/The Great Crystallization]] - a catastrophic magical event that occurred decades ago - this region serves as both a warning about uncontrolled crystal magic and a source of incredibly powerful but dangerous magical resources.
+The Crystalline Wastes stretch across what was once the fertile Goldmeadow Valley, now transformed into a nightmarish landscape of twisted crystal formations, reality distortions, and dangerous magical phenomena. Created during [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - a catastrophic magical event that occurred decades ago - this region serves as both a warning about uncontrolled crystal magic and a source of incredibly powerful but dangerous magical resources.
 
-The Wastes are officially quarantined by [[02_Worldbuilding/Places/Crystalhaven]] authorities, but the barriers are imperfect. Crystal formations continue to grow outward, threatening to expand the contaminated zone, while treasure hunters and desperate researchers brave the dangers seeking fragments of the original disaster or the rumored [[02_Worldbuilding/Lore/The Seven Shards|Seventh Shard]] that may lie at the region's heart.
+The Wastes are officially quarantined by [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] authorities, but the barriers are imperfect. Crystal formations continue to grow outward, threatening to expand the contaminated zone, while treasure hunters and desperate researchers brave the dangers seeking fragments of the original disaster or the rumored [[02_Worldbuilding/Lore/The Seven Shards|Seventh Shard]] that may lie at the region's heart.
 
 ### Approaching the Wastes: Sensory Assault
 
@@ -56,9 +56,9 @@ The Wastes are officially quarantined by [[02_Worldbuilding/Places/Crystalhaven]
 
 ### The Great Crystallization
 The disaster began as an experimental attempt to create a massive crystal focusing array for agricultural enhancement:
-- [[02_Worldbuilding/Places/Crystalhaven]] mages sought to channel crystal energy across the entire valley
-- The experiment involved six of the [[02_Worldbuilding/Lore/The Seven Shards]], with theoretical calculations suggesting safety
-- [[02_Worldbuilding/People/The Crimson Sage]] allegedly provided "stabilization formulas" that proved catastrophically flawed
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] mages sought to channel crystal energy across the entire valley
+- The experiment involved six of the [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], with theoretical calculations suggesting safety
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] allegedly provided "stabilization formulas" that proved catastrophically flawed
 - The resulting explosion crystallized everything within a 50-square-mile radius in a matter of hours
 
 ### Immediate Aftermath
@@ -245,7 +245,7 @@ The Wastes provide unique opportunities for magical research:
 
 ### Social & Political Implications
 - Refugees from the disaster still seek government compensation
-- Other nations view [[02_Worldbuilding/Places/Crystalhaven]] as dangerously irresponsible
+- Other nations view [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] as dangerously irresponsible
 - Research into similar experiments has been banned internationally
 - The disaster provides ammunition for anti-crystal magic political movements
 
@@ -259,10 +259,10 @@ Despite the dangers, the Wastes produce incredibly valuable materials:
 - **Memory Crystals**: Containing pre-disaster knowledge and skills
 
 ### Economic Burden
-- Quarantine maintenance costs [[02_Worldbuilding/Places/Crystalhaven]] 50,000 gold annually
+- Quarantine maintenance costs [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] 50,000 gold annually
 - Medical treatment for crystal corruption is expensive and often unsuccessful
 - Lost agricultural productivity from the fertile valley affects regional food prices
-- Insurance and trade impacts affect [[02_Worldbuilding/Places/Crystalhaven]]'s international standing
+- Insurance and trade impacts affect [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s international standing
 
 ## Connections to Ongoing Campaigns
 
@@ -274,7 +274,7 @@ The Crystalline Wastes serve as:
 - Testing ground for protective magic and technological development
 - Symbol of governmental responsibility for magical disaster prevention
 - Potential expansion threat requiring ongoing attention
-- Connection to larger mysteries involving [[02_Worldbuilding/Lore/The Seven Shards]] and magical catastrophes
+- Connection to larger mysteries involving [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] and magical catastrophes
 EOF < /dev/null
 
 ## Connections
@@ -301,6 +301,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystalline Wastes]]
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]
 
 <!-- enriched: true -->

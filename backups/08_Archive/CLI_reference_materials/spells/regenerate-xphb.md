@@ -31,9 +31,9 @@ world: Both
 - **Components:** V, S, M (a prayer wheel)
 - **Duration:** 1 hour
 
-A creature you touch regains `4d8 + 15` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). For the duration, the target regains 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) at the start of each of its turns, and any severed body parts regrow after 2 minutes.
+A creature you touch regains `4d8 + 15` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. For the duration, the target regains 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

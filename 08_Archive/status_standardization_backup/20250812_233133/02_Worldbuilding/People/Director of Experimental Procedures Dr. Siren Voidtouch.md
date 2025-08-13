@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Director of Experimental Procedures Dr. Siren Voidtouch]]
+- [[02_Worldbuilding/People/Director of Experimental Procedures Dr. Siren Voidtouch|02 Worldbuilding/People/Director Of Experimental Procedures Dr. Siren Voidtouch]]
 
 <!-- enriched: true -->
 

@@ -49,7 +49,7 @@ Because of your claws, you have a climbing speed of 20 feet. In addition, your c
 
 ### Cat's Talents
 
-You have proficiency in the [Perception](/03_Mechanics/CLI/skills.md#Perception) and [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skills.
+You have proficiency in the [[/03_Mechanics/CLI/skills#Perception|Perception]] and [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skills.
 
 ### Languages
 

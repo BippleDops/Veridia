@@ -20,32 +20,32 @@ world: Both
 
 ## Cantrip
 
-- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/ray-of-frost-xphb "XPHB"|Ray of Frost]] at class level 9
 
 ## 1st Level
 
-- [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 9
-- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/fog-cloud-xphb "XPHB"|Fog Cloud]] at class level 9
+- [[/03_Mechanics/CLI/spells/thunderwave-xphb "XPHB"|Thunderwave]] at class level 9
 
 ## 2nd Level
 
-- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 9
-- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/gust-of-wind-xphb "XPHB"|Gust of Wind]] at class level 9
+- [[/03_Mechanics/CLI/spells/shatter-xphb "XPHB"|Shatter]] at class level 9
 
 ## 3rd Level
 
-- [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 9
-- [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/lightning-bolt-xphb "XPHB"|Lightning Bolt]] at class level 9
+- [[/03_Mechanics/CLI/spells/water-breathing-xphb "XPHB"|Water Breathing]] at class level 9
 
 ## 4th Level
 
-- [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 9
-- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/control-water-xphb "XPHB"|Control Water]] at class level 9
+- [[/03_Mechanics/CLI/spells/ice-storm-xphb "XPHB"|Ice Storm]] at class level 9
 
 ## 5th Level
 
-- [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") at class level 9
-- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 9
+- [[/03_Mechanics/CLI/spells/conjure-elemental-xphb "XPHB"|Conjure Elemental]] at class level 9
+- [[/03_Mechanics/CLI/spells/hold-monster-xphb "XPHB"|Hold Monster]] at class level 9
 
 ## Player-Facing Summary
 

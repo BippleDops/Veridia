@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-seahorse-xmm-giant-seahorse-xmm.svg)
 
-# [Seahorse](3-Mechanics\CLI\bestiary\beast/seahorse-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/seahorse-xmm|Seahorse]]
 *Source: Monster Manual (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Seahorse (XMM)"
@@ -50,9 +50,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "2"
 "speed": "5 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": ""
@@ -61,8 +61,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The seahorse can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "While underwater, the seahorse moves up to its [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "While underwater, the seahorse moves up to its [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]]\
+      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Bubble Dash"
 "source":
   - "XMM"

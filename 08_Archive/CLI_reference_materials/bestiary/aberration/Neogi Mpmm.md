@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-mpmm-neogi-mpmm.svg)
 
-# [Neogi](3-Mechanics\CLI\bestiary\aberration/neogi-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/neogi-mpmm|Neogi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -62,16 +62,16 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - !!int "15"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
     "desc": "+4"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "The neogi has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/03_Mechanics/CLI/conditions.md#Frightened), and magic can't\
+  - "desc": "The neogi has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ or [[/03_Mechanics/CLI/conditions#Frightened|frightened]], and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -82,7 +82,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
-      \ on a DC 12 Constitution saving throw or become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 12 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
@@ -91,12 +91,12 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "name": "Claw"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ must succeed on a DC 14 Wisdom saving throw or be magically [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
       \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-      \ the target. The [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target obeys\
+      \ the target. The [[/03_Mechanics/CLI/conditions#Charmed|charmed]] target obeys\
       \ the neogi's commands and can't take reactions, and the neogi and the target\
       \ can communicate telepathically with each other at a distance of up to 1 mile.\
-      \ Whenever the [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target takes\
+      \ Whenever the [[/03_Mechanics/CLI/conditions#Charmed|charmed]] target takes\
       \ damage, it can repeat the saving throw, ending the effect on itself on a success."
     "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":

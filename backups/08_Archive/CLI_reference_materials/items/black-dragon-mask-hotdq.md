@@ -44,7 +44,7 @@ If you have a breath weapon that requires rest to recharge, it gains a recharge 
 
 ## Dragon Sight
 
-You gain [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet, or an additional 60 feet of [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) if you already have that sense. Once per day, you can gain [blindsight](/03_Mechanics/CLI/senses.md#Blindsight) out to a range of 30 feet for 5 minutes.
+You gain [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] with a radius of 60 feet, or an additional 60 feet of [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] if you already have that sense. Once per day, you can gain [[/03_Mechanics/CLI/senses#Blindsight|blindsight]] out to a range of 30 feet for 5 minutes.
 
 ## Dragon Tongue
 

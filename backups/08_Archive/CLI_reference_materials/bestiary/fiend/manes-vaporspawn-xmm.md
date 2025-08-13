@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-manes-vaporspawn-xmm-manes-vaporspawn-xmm.svg)
 
-# [Manes Vaporspawn](3-Mechanics\CLI\bestiary\fiend/manes-vaporspawn-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/manes-vaporspawn-xmm|Manes Vaporspawn]]
 *Source: Monster Manual (2024) p. 201*  
 
 Vaporspawn arise from evil souls shattered by unspeakable torments or the depredations of more powerful demons. These distorted manes undergo endless, painful contortions, and they share their torment with whatever creatures they encounter.
@@ -60,9 +60,9 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
@@ -70,9 +70,9 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
   - "desc": "The manes can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Contortionist"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the manes at the end of the manes's turn. Failure: The\
-      \ target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. Success: The target is immune\
       \ to this manes's Sickening Vapors for 24 hours."
     "name": "Sickening Vapors"
@@ -81,8 +81,8 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
       \ plus 5 (2d4) Necrotic damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "While in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), the manes\
+  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+      \ or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the manes\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

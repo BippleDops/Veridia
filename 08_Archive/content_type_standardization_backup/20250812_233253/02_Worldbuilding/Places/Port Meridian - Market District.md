@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Market District]]
+- [[02_Worldbuilding/Places/Port Meridian - Market District|02 Worldbuilding/Places/Port Meridian Market District]]
 
 <!-- enriched: true -->

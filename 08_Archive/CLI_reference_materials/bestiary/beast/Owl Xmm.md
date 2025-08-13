@@ -27,12 +27,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-owl-xmm-giant-owl-xmm.svg)
 
-# [Owl](3-Mechanics\CLI\bestiary\beast/owl-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/owl-xmm|Owl]]
 *Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Owl (XMM)"
@@ -52,15 +52,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "5 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The owl doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The owl doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

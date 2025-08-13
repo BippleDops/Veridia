@@ -20,102 +20,102 @@ status: active
 
 # Index of Fiend
 
-- [Abyssal Wretch](./abyssal-wretch-mtf.md)
-- [Alkilith](./alkilith-mpmm.md)
-- [Amnizu](./amnizu-mpmm.md)
-- [Arcanaloth](./arcanaloth-xmm.md)
-- [Armanite](./armanite-mpmm.md)
-- [Babau](./babau-mpmm.md)
-- [Balor](./balor-xmm.md)
-- [Barbed Devil](./barbed-devil-xmm.md)
-- [Barghest](./barghest-mpmm.md)
-- [Barlgura](./barlgura-xmm.md)
-- [Bearded Devil](./bearded-devil-xmm.md)
-- [Black Abishai](./black-abishai-mpmm.md)
-- [Blue Abishai](./blue-abishai-mpmm.md)
-- [Bone Devil](./bone-devil-xmm.md)
-- [Bulezau](./bulezau-mpmm.md)
-- [Cambion](./cambion-xmm.md)
-- [Canoloth](./canoloth-mpmm.md)
-- [Chain Devil](./chain-devil-xmm.md)
-- [Chasme](./chasme-xmm.md)
-- [Daemogoth](./daemogoth-scc.md)
-- [Daemogoth Titan](./daemogoth-titan-scc.md)
-- [Dhergoloth](./dhergoloth-mpmm.md)
-- [Draegloth](./draegloth-mpmm.md)
-- [Dretch](./dretch-xmm.md)
-- [Dybbuk](./dybbuk-mpmm.md)
-- [Erinyes](./erinyes-xmm.md)
-- [Fiendish Spirit (Demon)](./fiendish-spirit-demon-xphb.md)
-- [Fiendish Spirit (Devil)](./fiendish-spirit-devil-xphb.md)
-- [Fiendish Spirit](./fiendish-spirit-xphb.md)
-- [Fiendish Spirit (Yugoloth)](./fiendish-spirit-yugoloth-xphb.md)
-- [Flind](./flind-mpmm.md)
-- [Glabrezu](./glabrezu-xmm.md)
-- [Gnoll Demoniac](./gnoll-demoniac-xmm.md)
-- [Gnoll Fang of Yeenoghu](./gnoll-fang-of-yeenoghu-xmm.md)
-- [Gnoll Pack Lord](./gnoll-pack-lord-xmm.md)
-- [Gnoll Warrior](./gnoll-warrior-xmm.md)
-- [Goristro](./goristro-xmm.md)
-- [Green Abishai](./green-abishai-mpmm.md)
-- [Hell Hound](./hell-hound-xmm.md)
-- [Hezrou](./hezrou-xmm.md)
-- [Horned Devil](./horned-devil-xmm.md)
-- [Howler](./howler-mpmm.md)
-- [Hydroloth](./hydroloth-mpmm.md)
-- [Ice Devil](./ice-devil-xmm.md)
-- [Imp](./imp-xmm.md)
-- [Incubus](./incubus-xmm.md)
-- [Jackalwere](./jackalwere-xmm.md)
-- [Lamia](./lamia-xmm.md)
-- [Larva](./larva-xmm.md)
-- [Lemure](./lemure-xmm.md)
-- [Manes Vaporspawn](./manes-vaporspawn-xmm.md)
-- [Manes](./manes-xmm.md)
-- [Marilith](./marilith-xmm.md)
-- [Maurezhi](./maurezhi-mpmm.md)
-- [Maw Demon](./maw-demon-mpmm.md)
-- [Merregon](./merregon-mpmm.md)
-- [Merrenoloth](./merrenoloth-mpmm.md)
-- [Mezzoloth](./mezzoloth-xmm.md)
-- [Molydeus](./molydeus-mpmm.md)
-- [Nabassu](./nabassu-mpmm.md)
-- [Nalfeshnee](./nalfeshnee-xmm.md)
-- [Narzugon](./narzugon-mpmm.md)
-- [Night Hag](./night-hag-xmm.md)
-- [Nightmare](./nightmare-xmm.md)
-- [Nupperibo](./nupperibo-mpmm.md)
-- [Nycaloth](./nycaloth-xmm.md)
-- [Oinoloth](./oinoloth-mpmm.md)
-- [Oni](./oni-xmm.md)
-- [Orthon](./orthon-mpmm.md)
-- [Otherworldly Steed (Fiend)](./otherworldly-steed-fiend-xphb.md)
-- [Pit Fiend](./pit-fiend-xmm.md)
-- [Quasit](./quasit-xmm.md)
-- [Rakshasa](./rakshasa-xmm.md)
-- [Red Abishai](./red-abishai-mpmm.md)
-- [Rutterkin](./rutterkin-mpmm.md)
-- [Sahuagin Baron](./sahuagin-baron-xmm.md)
-- [Sahuagin Priest](./sahuagin-priest-xmm.md)
-- [Sahuagin Warrior](./sahuagin-warrior-xmm.md)
-- [Shadow Demon](./shadow-demon-xmm.md)
-- [Shoosuva](./shoosuva-mpmm.md)
-- [Sibriex](./sibriex-mpmm.md)
-- [Spined Devil](./spined-devil-xmm.md)
-- [Spirit Naga](./spirit-naga-xmm.md)
-- [Stench Kow](./stench-kow-mpmm.md)
-- [Succubus](./succubus-xmm.md)
-- [Swarm of Dretches](./swarm-of-dretches-xmm.md)
-- [Swarm of Larvae](./swarm-of-larvae-xmm.md)
-- [Swarm of Lemures](./swarm-of-lemures-xmm.md)
-- [Tanarukk](./tanarukk-mpmm.md)
-- [Ultroloth](./ultroloth-xmm.md)
-- [Vargouille](./vargouille-mpmm.md)
-- [Vrock](./vrock-xmm.md)
-- [Wastrilith](./wastrilith-mpmm.md)
-- [White Abishai](./white-abishai-mpmm.md)
-- [Yagnoloth](./yagnoloth-mpmm.md)
-- [Yochlol](./yochlol-xmm.md)
+- [[./abyssal-wretch-mtf|Abyssal Wretch]]
+- [[./alkilith-mpmm|Alkilith]]
+- [[./amnizu-mpmm|Amnizu]]
+- [[./arcanaloth-xmm|Arcanaloth]]
+- [[./armanite-mpmm|Armanite]]
+- [[./babau-mpmm|Babau]]
+- [[./balor-xmm|Balor]]
+- [[./barbed-devil-xmm|Barbed Devil]]
+- [[./barghest-mpmm|Barghest]]
+- [[./barlgura-xmm|Barlgura]]
+- [[./bearded-devil-xmm|Bearded Devil]]
+- [[./black-abishai-mpmm|Black Abishai]]
+- [[./blue-abishai-mpmm|Blue Abishai]]
+- [[./bone-devil-xmm|Bone Devil]]
+- [[./bulezau-mpmm|Bulezau]]
+- [[./cambion-xmm|Cambion]]
+- [[./canoloth-mpmm|Canoloth]]
+- [[./chain-devil-xmm|Chain Devil]]
+- [[./chasme-xmm|Chasme]]
+- [[./daemogoth-scc|Daemogoth]]
+- [[./daemogoth-titan-scc|Daemogoth Titan]]
+- [[./dhergoloth-mpmm|Dhergoloth]]
+- [[./draegloth-mpmm|Draegloth]]
+- [[./dretch-xmm|Dretch]]
+- [[./dybbuk-mpmm|Dybbuk]]
+- [[./erinyes-xmm|Erinyes]]
+- [[./fiendish-spirit-demon-xphb|Fiendish Spirit (Demon)]]
+- [[./fiendish-spirit-devil-xphb|Fiendish Spirit (Devil)]]
+- [[./fiendish-spirit-xphb|Fiendish Spirit]]
+- [[./fiendish-spirit-yugoloth-xphb|Fiendish Spirit (Yugoloth)]]
+- [[./flind-mpmm|Flind]]
+- [[./glabrezu-xmm|Glabrezu]]
+- [[./gnoll-demoniac-xmm|Gnoll Demoniac]]
+- [[./gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]
+- [[./gnoll-pack-lord-xmm|Gnoll Pack Lord]]
+- [[./gnoll-warrior-xmm|Gnoll Warrior]]
+- [[./goristro-xmm|Goristro]]
+- [[./green-abishai-mpmm|Green Abishai]]
+- [[./hell-hound-xmm|Hell Hound]]
+- [[./hezrou-xmm|Hezrou]]
+- [[./horned-devil-xmm|Horned Devil]]
+- [[./howler-mpmm|Howler]]
+- [[./hydroloth-mpmm|Hydroloth]]
+- [[./ice-devil-xmm|Ice Devil]]
+- [[./imp-xmm|Imp]]
+- [[./incubus-xmm|Incubus]]
+- [[./jackalwere-xmm|Jackalwere]]
+- [[./lamia-xmm|Lamia]]
+- [[./larva-xmm|Larva]]
+- [[./lemure-xmm|Lemure]]
+- [[./manes-vaporspawn-xmm|Manes Vaporspawn]]
+- [[./manes-xmm|Manes]]
+- [[./marilith-xmm|Marilith]]
+- [[./maurezhi-mpmm|Maurezhi]]
+- [[./maw-demon-mpmm|Maw Demon]]
+- [[./merregon-mpmm|Merregon]]
+- [[./merrenoloth-mpmm|Merrenoloth]]
+- [[./mezzoloth-xmm|Mezzoloth]]
+- [[./molydeus-mpmm|Molydeus]]
+- [[./nabassu-mpmm|Nabassu]]
+- [[./nalfeshnee-xmm|Nalfeshnee]]
+- [[./narzugon-mpmm|Narzugon]]
+- [[./night-hag-xmm|Night Hag]]
+- [[./nightmare-xmm|Nightmare]]
+- [[./nupperibo-mpmm|Nupperibo]]
+- [[./nycaloth-xmm|Nycaloth]]
+- [[./oinoloth-mpmm|Oinoloth]]
+- [[./oni-xmm|Oni]]
+- [[./orthon-mpmm|Orthon]]
+- [[./otherworldly-steed-fiend-xphb|Otherworldly Steed (Fiend)]]
+- [[./pit-fiend-xmm|Pit Fiend]]
+- [[./quasit-xmm|Quasit]]
+- [[./rakshasa-xmm|Rakshasa]]
+- [[./red-abishai-mpmm|Red Abishai]]
+- [[./rutterkin-mpmm|Rutterkin]]
+- [[./sahuagin-baron-xmm|Sahuagin Baron]]
+- [[./sahuagin-priest-xmm|Sahuagin Priest]]
+- [[./sahuagin-warrior-xmm|Sahuagin Warrior]]
+- [[./shadow-demon-xmm|Shadow Demon]]
+- [[./shoosuva-mpmm|Shoosuva]]
+- [[./sibriex-mpmm|Sibriex]]
+- [[./spined-devil-xmm|Spined Devil]]
+- [[./spirit-naga-xmm|Spirit Naga]]
+- [[./stench-kow-mpmm|Stench Kow]]
+- [[./succubus-xmm|Succubus]]
+- [[./swarm-of-dretches-xmm|Swarm of Dretches]]
+- [[./swarm-of-larvae-xmm|Swarm of Larvae]]
+- [[./swarm-of-lemures-xmm|Swarm of Lemures]]
+- [[./tanarukk-mpmm|Tanarukk]]
+- [[./ultroloth-xmm|Ultroloth]]
+- [[./vargouille-mpmm|Vargouille]]
+- [[./vrock-xmm|Vrock]]
+- [[./wastrilith-mpmm|Wastrilith]]
+- [[./white-abishai-mpmm|White Abishai]]
+- [[./yagnoloth-mpmm|Yagnoloth]]
+- [[./yochlol-xmm|Yochlol]]
 
 ## Player-Facing Summary
 

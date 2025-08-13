@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-rocktopus-oota-giant-rocktopus-oota.svg)
 
-# [Giant Rocktopus](3-Mechanics\CLI\bestiary\beast/giant-rocktopus-oota.md)
+# [[3-Mechanics\CLI\bestiary\beast/giant-rocktopus-oota|Giant Rocktopus]]
 *Source: Out of the Abyss p. 28*  
 
 ```statblock
@@ -45,21 +45,21 @@ world: Both
   - !!int "4"
 "speed": "20 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The octopus has advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The octopus has advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]])\
       \ checks."
     "name": "Camouflage"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 10\
-      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 16). Until this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (escape DC 16). Until this grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
       \ and the octopus can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is\

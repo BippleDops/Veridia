@@ -23,7 +23,7 @@ accessibility:
 
 # Save-Transform Reality
 
-![Save-Transform Reality Portrait](04_Resources/Assets/Art/Lore/Save-Transform_Reality.png)
+![[04_Resources/Assets/Art/Lore/Save-Transform_Reality.png|Save-Transform Reality Portrait]]
 
 ## Summary
 Save-Transform Reality describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
@@ -40,12 +40,12 @@ Save-Transform Reality describes a turning current in history where choices abou
 
 ## Threads and Revelations
 - Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 - Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary

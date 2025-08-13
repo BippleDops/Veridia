@@ -36,7 +36,7 @@ world: Aethermoor
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*
 
 ## Organization Overview and Purpose
-The Order of the Flowing Current represents the most prestigious martial arts organization in [[02_Worldbuilding/Places/Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
+The Order of the Flowing Current represents the most prestigious martial arts organization in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
 
 The Order operates through a comprehensive system that integrates martial training, spiritual meditation, scholarly study, and community service to develop practitioners who serve not only as formidable warriors but as teachers, mediators, and guardians of peace. Members of the Order are distinguished by their exceptional combat skills, profound inner discipline, commitment to justice and protection of the innocent, and the ability to find peaceful solutions to conflicts through wisdom and understanding rather than force alone.
 
@@ -250,7 +250,7 @@ Master Chen Wei undertakes a dangerous spiritual journey to seek ancient wisdom 
 - [[Merchant Princes]]
 - [[Port Meridian]]
 - [[The Grand Bazaar of Echoing Coins]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -274,4 +274,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_People_Index]]
+- [[Master_People_Index|Master People Index]]

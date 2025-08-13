@@ -25,21 +25,21 @@ world: Both
 *Where Deep Gods Dream and Mortals Transform*
 
 ## Overview
-The Sunken Cathedral of Stars serves as the primary headquarters for [[02_Worldbuilding/Groups/The Leviathan Cult]], a massive underwater structure where [[02_Worldbuilding/People/High Priest Dagon Deepcaller]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
+The Sunken Cathedral of Stars serves as the primary headquarters for [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a massive underwater structure where [[02_Worldbuilding/People/High Priest Dagon Deepcaller|02 Worldbuilding/People/High Priest Dagon Deepcaller]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Leviathan Cult]]** - Primary headquarters and ritual center
-- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme leader and chief ritualist
-- **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Primary theological opposition
-- **[[02_Worldbuilding/People/Patriarch Valdris Lightbringer]]** - Leading religious enemy
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Complex political relationships with underwater kingdom
-- **[[02_Worldbuilding/People/Siren Maeve Echoborn]]** - Recruitment coordination base
-- **[[02_Worldbuilding/Places/The Azure Coast]]** - Primary area of cult operations
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval forces seeking to locate cathedral
-- **[[02_Worldbuilding/Places/The Deepwater Current]]** - Cult disrupts underwater trade
+- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary headquarters and ritual center
+- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller|02 Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme leader and chief ritualist
+- **[[02_Worldbuilding/Places/The Temple of Eternal Tides|02 Worldbuilding/Places/The Temple Of Eternal Tides]]** - Primary theological opposition
+- **[[02_Worldbuilding/People/Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]** - Leading religious enemy
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]** - Complex political relationships with underwater kingdom
+- **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Recruitment coordination base
+- **[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]** - Primary area of cult operations
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval forces seeking to locate cathedral
+- **[[02_Worldbuilding/Places/The Deepwater Current|02 Worldbuilding/Places/The Deepwater Current]]** - Cult disrupts underwater trade
 - **[[Crystal Wardens]]** - Planning consecration and purification mission
-- **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Potential alliance negotiations
-- **[[02_Worldbuilding/Places/The Sorrow Current]]** - Cathedral draws power from emotional phenomena
+- **[[02_Worldbuilding/Places/The Kraken's Harbor|02 Worldbuilding/Places/The Kraken's Harbor]]** - Potential alliance negotiations
+- **[[02_Worldbuilding/Places/The Sorrow Current|02 Worldbuilding/Places/The Sorrow Current]]** - Cathedral draws power from emotional phenomena
 
 ## History
 
@@ -90,7 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars|02 Worldbuilding/Places/The Sunken Cathedral Of Stars]]
 
 <!-- enriched: true -->
 

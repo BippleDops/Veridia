@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics|02 Worldbuilding/Places/Gravity Anomaly Mechanics]]
 
 
 ## Connections

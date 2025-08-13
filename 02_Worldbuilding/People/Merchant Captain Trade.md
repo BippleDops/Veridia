@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Merchant Captain Trade]]
+- [[02_Worldbuilding/People/Merchant Captain Trade|02 Worldbuilding/People/Merchant Captain Trade]]
 
 <!-- enriched: true -->
 

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gulthias-blight-xmm-gulthias-blight-xmm.svg)
 
-# [Gulthias Blight](3-Mechanics\CLI\bestiary\plant/gulthias-blight-xmm.md)
+# [[3-Mechanics\CLI\bestiary\plant/gulthias-blight-xmm|Gulthias Blight]]
 *Source: Monster Manual (2024) p. 45*  
 
 Ancient plants twisted by evil, Gulthias blights feed on blood and despoil the surrounding land, often giving rise to subservient blights. These cursed plants take their name from the story of their creation; the first of their kind was a tree that grew from the stake piercing the heart of the vampire Gulthias. These blights consider all creatures either servants or fertilizer for the blights' corruption.
@@ -62,21 +62,21 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "12"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "fire, necrotic"
-"condition_immunities": "[deafened](/03_Mechanics/CLI/conditions.md#Deafened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Deafened|deafened]]"
 "senses": "blindsight 120 ft., passive Perception 19"
 "languages": "Common, Druidic"
 "cr": "16"
 "traits":
-  - "desc": "When it finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+  - "desc": "When it finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
       \ the blight expels d6 seeds into unoccupied spaces on the ground within 30\
       \ feet of itself. After 24 hours, the seeds become creatures under the blight's\
       \ control. Roll d8 for each seed to determine the creature it becomes: on 1-4,\
-      \ [Twig Blight](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md); on 5-6,\
-      \ [Needle Blight](/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm.md); on\
-      \ 7-8, [Vine Blight](/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)."
+      \ [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|Twig Blight]]; on 5-6,\
+      \ [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|Needle Blight]]; on\
+      \ 7-8, [[/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm|Vine Blight]]."
     "name": "Blight Seeds"
 "actions":
   - "desc": "The blight makes two attacks, using Slam or Thorn Volley in any combination.\
@@ -90,13 +90,13 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Thorn Volley"
   - "desc": "Constitution Saving Throw: DC 20, one Huge or smaller creature the\
       \ blight can see within 30 feet. Failure: 14 (2d6 + 7) Necrotic damage, and\
-      \ the target has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition\
+      \ the target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition\
       \ (escape DC 17) from one of six roots. Until the grapple ends, the target has\
-      \ the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition and\
+      \ the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and\
       \ takes 14 (4d6) Necrotic damage at the start of each of its turns. The target's\
-      \ [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum decreases\
-      \ by an amount equal to the Necrotic damage taken, and the blight regains [Hit\
-      \ Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to that amount."
+      \ [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum decreases\
+      \ by an amount equal to the Necrotic damage taken, and the blight regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit\
+      \ Points]] equal to that amount."
     "name": "Life-Draining Root"
 "source":
   - "XMM"

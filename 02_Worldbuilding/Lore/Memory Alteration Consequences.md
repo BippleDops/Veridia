@@ -31,7 +31,7 @@ world: Aquabyssos
 
 ## Overview
 
-Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
+Memory alteration in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
 
 ## Categories of Consequences
 
@@ -673,7 +673,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 
 ### The Ultimate Consequence
 > [!warning] DM Only
-> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[The Convergence Point]] and making it more chaotic.
+> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[The Convergence Point]] and making it more chaotic.
 
 ### The Deep Mother's Influence
 > [!warning] DM Secret
@@ -748,6 +748,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 - [[The Convergence Point]]
 - [[Timeline of the Drowning]]

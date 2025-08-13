@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]]
 
 ## Player-Facing Summary
 

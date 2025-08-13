@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet|02 Worldbuilding/Lore/Crystal Corruption Tracking Sheet]]
 
 
 ## Connections

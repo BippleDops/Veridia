@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cultural Advisor Sarah Bridgekeeper]]
+- [[02_Worldbuilding/Places/Cultural Advisor Sarah Bridgekeeper|02 Worldbuilding/Places/Cultural Advisor Sarah Bridgekeeper]]
 
 <!-- enriched: true -->
 

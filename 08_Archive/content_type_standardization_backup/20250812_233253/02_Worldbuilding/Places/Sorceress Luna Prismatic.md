@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing|02 Worldbuilding/Places/Inverted Ballroom Wing]]
 
 
 ## Connections

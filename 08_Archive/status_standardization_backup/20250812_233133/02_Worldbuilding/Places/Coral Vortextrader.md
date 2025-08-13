@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current|02 Worldbuilding/Places/The Free Current]]
 
 
 ## Connections

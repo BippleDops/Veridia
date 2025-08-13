@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Rare Ingredient Network]]
+- [[02_Worldbuilding/Places/Rare Ingredient Network|02 Worldbuilding/Places/Rare Ingredient Network]]
 
 <!-- enriched: true -->
 

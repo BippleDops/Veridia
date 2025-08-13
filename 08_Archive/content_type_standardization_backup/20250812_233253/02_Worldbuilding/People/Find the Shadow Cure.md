@@ -88,7 +88,7 @@ Emphasize research and preparation over combat. The quest rewards careful invest
 
 ## Connections
 
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
 
 
 ## Appearance
@@ -136,6 +136,6 @@ Legends speak of Find the Shadow Cure as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Find the Shadow Cure]]
+- [[02_Worldbuilding/People/Find the Shadow Cure|02 Worldbuilding/People/Find The Shadow Cure]]
 
 <!-- enriched: true -->

@@ -278,7 +278,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen|02 Worldbuilding/Places/Lady Vivienne The Unfrozen]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

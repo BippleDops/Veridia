@@ -31,7 +31,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 ## Nick
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-When you make the extra attack of the Light property, you can make it as part of the [Attack](/03_Mechanics/CLI/actions.md#Attack) action instead of as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). You can make this extra attack only once per turn.
+When you make the extra attack of the Light property, you can make it as part of the [[/03_Mechanics/CLI/actions#Attack|Attack]] action instead of as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. You can make this extra attack only once per turn.
 
 ## Push
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -41,22 +41,22 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 ## Sap
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If you hit a creature with this weapon, that creature has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on its next attack roll before the start of your next turn.
 
 ## Slow
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If you hit a creature with this weapon and deal damage to it, you can reduce its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) reduction doesn't exceed 10 feet.
+If you hit a creature with this weapon and deal damage to it, you can reduce its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] reduction doesn't exceed 10 feet.
 
 ## Topple
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, the creature has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]]). On a failed save, the creature has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition.
 
 ## Vex
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-If you hit a creature with this weapon and deal damage to the creature, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ## Player-Facing Summary
 

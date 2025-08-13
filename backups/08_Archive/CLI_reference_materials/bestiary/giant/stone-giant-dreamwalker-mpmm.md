@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-giant-dreamwalker-mpmm-stone-giant-dreamwalker-mpmm.svg)
 
-# [Stone Giant Dreamwalker](3-Mechanics\CLI\bestiary\giant/stone-giant-dreamwalker-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/stone-giant-dreamwalker-mpmm|Stone Giant Dreamwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -61,19 +61,19 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
   - "constitution": !!int "9"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+14"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "10"
 "traits":
   - "desc": "An enemy that starts its turn within 30 feet of the giant must make a\
-      \ DC 13 Charisma saving throw, provided that the giant isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).\
-      \ On a failed save, the creature is [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
-      \ by the giant. A creature [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ DC 13 Charisma saving throw, provided that the giant isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].\
+      \ On a failed save, the creature is [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ by the giant. A creature [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
       \ in this way can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. Once it succeeds on the saving throw, the\
       \ creature is immune to this giant's Dreamwalker's Charm for 24 hours."
@@ -86,17 +86,17 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
     "name": "Greatclub"
   - "desc": "Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit:\
       \ 22 (3d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ on a DC 17 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
     "name": "Rock"
   - "desc": "The giant touches one Medium or smaller creature within 10 feet of it\
-      \ that is [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by it. The target\
+      \ that is [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by it. The target\
       \ must make a DC 17 Constitution saving throw. On a failed save, the target\
-      \ becomes [petrified](/03_Mechanics/CLI/conditions.md#Petrified), and the giant\
-      \ can adhere the target to its stony body. [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spells and other magic that can undo petrification have no effect on a [petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
+      \ becomes [[/03_Mechanics/CLI/conditions#Petrified|petrified]], and the giant\
+      \ can adhere the target to its stony body. [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]]\
+      \ spells and other magic that can undo petrification have no effect on a [[/03_Mechanics/CLI/conditions#Petrified|petrified]]\
       \ creature adhered to the giant unless the giant is dead, in which case the\
-      \ magic works normally, freeing the [petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
-      \ creature as well as ending the [petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
+      \ magic works normally, freeing the [[/03_Mechanics/CLI/conditions#Petrified|petrified]]\
+      \ creature as well as ending the [[/03_Mechanics/CLI/conditions#Petrified|petrified]]\
       \ condition on it."
     "name": "Petrifying Touch"
 "source":

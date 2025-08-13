@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Pretender]]
+- [[02_Worldbuilding/Places/Quest - The Pretender|02 Worldbuilding/Places/Quest The Pretender]]
 
 
 ## Connections

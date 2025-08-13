@@ -18,7 +18,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
 
 ## Player-Facing Summary
 

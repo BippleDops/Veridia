@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marcus Thorne]]
+- [[02_Worldbuilding/Places/Innkeeper Marcus Thorne|02 Worldbuilding/Places/Innkeeper Marcus Thorne]]
 
 <!-- enriched: true -->
 

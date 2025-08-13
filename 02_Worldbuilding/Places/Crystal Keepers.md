@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Keepers]]
+- [[02_Worldbuilding/Places/Crystal Keepers|02 Worldbuilding/Places/Crystal Keepers]]
 
 <!-- enriched: true -->
 

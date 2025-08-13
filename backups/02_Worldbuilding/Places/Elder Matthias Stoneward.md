@@ -172,7 +172,7 @@ Legends speak of Elder Matthias Stoneward as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Elder Matthias Stoneward]]
+- [[02_Worldbuilding/Places/Elder Matthias Stoneward|02 Worldbuilding/Places/Elder Matthias Stoneward]]
 
 <!-- enriched: true -->
 nriched: true -->

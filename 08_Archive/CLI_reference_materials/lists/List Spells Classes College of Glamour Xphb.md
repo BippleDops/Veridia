@@ -20,12 +20,12 @@ world: Both
 
 ## 1st Level
 
-- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
-- [Command](/03_Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/charm-person-xphb "XPHB"|Charm Person]] at class level 3
+- [[/03_Mechanics/CLI/spells/command-xphb "XPHB"|Command]] at class level 3
 
 ## 2nd Level
 
-- [Mirror Image](/03_Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/mirror-image-xphb "XPHB"|Mirror Image]] at class level 3
 
 ## Player-Facing Summary
 

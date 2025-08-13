@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Artificers' Consortium]]
+- [[02_Worldbuilding/Places/Artificers' Consortium|02 Worldbuilding/Places/Artificers' Consortium]]
 
 <!-- enriched: true -->
 

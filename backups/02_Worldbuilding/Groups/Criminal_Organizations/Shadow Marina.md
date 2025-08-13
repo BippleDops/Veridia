@@ -37,7 +37,7 @@ obsidianUIMode: preview
 *The Phantom Fleet, Harbormasters of the Void, The Twilight Tide*
 
 ## Overview
-The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier shadow-touched maritime organization, controlling interdimensional shipping routes and managing harbor facilities that exist partially outside normal reality. They provide essential maritime services for shadow commerce while maintaining a network of vessels capable of sailing between dimensions. More than just a port authority, they represent a fusion of traditional seafaring culture with supernatural logistics, bridging the gap between conventional maritime trade and shadow realm commerce.
+The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s premier shadow-touched maritime organization, controlling interdimensional shipping routes and managing harbor facilities that exist partially outside normal reality. They provide essential maritime services for shadow commerce while maintaining a network of vessels capable of sailing between dimensions. More than just a port authority, they represent a fusion of traditional seafaring culture with supernatural logistics, bridging the gap between conventional maritime trade and shadow realm commerce.
 
 ## History
 
@@ -53,7 +53,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 **Shadow Fleet Development**
 - Acquired and converted conventional vessels for shadow operation
 - Developed shadow navigation techniques and interdimensional charts
-- Established trade routes connecting [[02_Worldbuilding/Places/Aquabyssos]] with [[02_Worldbuilding/Places/Aethermoor]]
+- Established trade routes connecting [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - Created specialized maritime services for shadow-touched cargo
 - Built reputation as reliable but mysterious shipping organization
 
@@ -63,7 +63,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 - Developed sophisticated smuggling operations and contraband transport
 - Engaged in conflicts with conventional maritime law enforcement
 - Established protected harbors and secret anchorages
-- Formed alliances with [[02_Worldbuilding/Groups/The Shadow Conspiracy]] and related organizations
+- Formed alliances with [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] and related organizations
 
 ### Modern Operations (Last 15 Years)
 **Phantom Maritime Authority**
@@ -236,16 +236,16 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 ## Relationships & Politics
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Aquabyssos]] Maritime Authority**: Complex relationship of cooperation and competition
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unofficial recognition and limited cooperation
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed support depending on political climate
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Maritime Authority**: Complex relationship of cooperation and competition
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]**: Unofficial recognition and limited cooperation
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Mixed support depending on political climate
 - **Customs and Port Authority**: Ongoing tension over jurisdiction and regulation
 - **Naval Forces**: Professional rivalry and occasional cooperation
 
 ### Shadow Organizations
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Primary client for covert transportation
-- **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]**: Medical transport and emergency services
-- **[[02_Worldbuilding/Groups/Shadow Bazaar]]**: Shipping and logistics partner
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Primary client for covert transportation
+- **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**: Medical transport and emergency services
+- **[[02_Worldbuilding/Groups/Shadow Bazaar|02 Worldbuilding/Groups/Shadow Bazaar]]**: Shipping and logistics partner
 - **Shadow Trade Networks**: Essential transportation infrastructure provider
 - **Underground Criminal Organizations**: Services and protection relationships
 
@@ -258,7 +258,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 
 ### Complex Relationships
 - **Local Coastal Communities**: Economic benefits vs. concerns about illegal activities
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Uses services but represents potential threat
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]**: Uses services but represents potential threat
 - **Environmental Groups**: Concerns about dimensional pollution and ecosystem impact
 - **Religious Organizations**: Moral opposition to shadow maritime activities
 - **Adventure Parties**: Potential clients, investigators, or enforcement agents
@@ -329,7 +329,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 - **[[The Hidden Anchorage]]**: Covert harbor for illegal operations
 - **[[Smuggler's Den]]**: Contraband processing and distribution center
 - **[[The Chart Vault]]**: Secret navigation information and restricted routes
-- **[[02_Worldbuilding/Lore/Emergency Protocols Cente]]**: Crisis response and evacuation planning
+- **[[02_Worldbuilding/Lore/Emergency Protocols Cente|02 Worldbuilding/Lore/Emergency Protocols Cente]]**: Crisis response and evacuation planning
 - **[[The Shadow Registry]]**: Classified vessel documentation and identity records
 
 ## Weaknesses & Vulnerabilities
@@ -414,16 +414,16 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 
 ### Key NPCs
 - **[[Harbor Master Tideshade]]** - Marina founder and maritime authority
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]** - Government relationship
 - **[[Admiral Mistcurrent]]** - Fleet operations commander
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Major client and potential threat
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Major client and potential threat
 - **[[Captain Shadowsail]]** - Flagship vessel commander
 
 ### Related Locations
 - **[[The Phantom Docks]]** - Primary harbor facility
-- **[[02_Worldbuilding/Places/Aquabyssos]]** - Host realm and regulatory authority
-- **[[02_Worldbuilding/Places/Aethermoor]]** - Major trade destination
-- **[[02_Worldbuilding/Groups/Shadow Bazaar]]** - Trade and logistics partner
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]** - Host realm and regulatory authority
+- **[[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]** - Major trade destination
+- **[[02_Worldbuilding/Groups/Shadow Bazaar|02 Worldbuilding/Groups/Shadow Bazaar]]** - Trade and logistics partner
 - **[[The Hidden Anchorage]]** - Secret harbor for illegal operations
 
 ### Associated Quests
@@ -437,7 +437,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 - **[[Shadow Navigation Charts]]** - Interdimensional maritime maps
 - **[[Phantom Harbor Charter]]** - Legal authorization for marina operations
 - **[[Dimensional Anchor Technology]]** - Equipment for reality stabilization
-- **[[02_Worldbuilding/Lore/The Vessel Registry]]** - Documentation for interdimensional ships
+- **[[02_Worldbuilding/Lore/The Vessel Registry|02 Worldbuilding/Lore/The Vessel Registry]]** - Documentation for interdimensional ships
 - **[[Maritime Emergency Protocols]]** - Crisis response procedures
 
 ---
@@ -461,4 +461,4 @@ Legends speak of Shadow Marina as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[02_Worldbuilding/Groups/Bexley|02 Worldbuilding/Groups/Bexley]]

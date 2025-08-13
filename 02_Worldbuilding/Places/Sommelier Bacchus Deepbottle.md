@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod|02 Worldbuilding/Places/Chef Gastropod]]
 
 
 ## Connections

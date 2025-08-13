@@ -105,7 +105,7 @@ The Harmony Collective works excellently as both subtle antagonists and moral di
 ## Connections
 
 - [[Sister Morwyn]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 
 ## Appearance
@@ -147,6 +147,6 @@ Legends speak of The Harmony Collective as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Harmony Collective]]
+- [[02_Worldbuilding/People/The Harmony Collective|02 Worldbuilding/People/The Harmony Collective]]
 
 <!-- enriched: true -->

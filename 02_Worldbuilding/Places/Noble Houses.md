@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Houses]]
+- [[02_Worldbuilding/Places/Noble Houses|02 Worldbuilding/Places/Noble Houses]]
 
 <!-- enriched: true -->
 

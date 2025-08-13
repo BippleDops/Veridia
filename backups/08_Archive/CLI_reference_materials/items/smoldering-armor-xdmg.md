@@ -55,7 +55,7 @@ Wisps of harmless, odorless smoke rise from this armor while it is worn.
 - [Smoldering Splint Armor](#Smoldering%20Splint%20Armor)
 - [Smoldering Studded Leather Armor](#Smoldering%20Studded%20Leather%20Armor)
 
-### Smoldering Breastplate
+## Smoldering Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

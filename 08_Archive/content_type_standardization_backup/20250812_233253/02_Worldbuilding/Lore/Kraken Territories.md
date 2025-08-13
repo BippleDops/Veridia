@@ -689,7 +689,7 @@ Kraken territories present unique environmental conditions that create both obst
 - [[Thalassius the Wise]] - Scholar with kraken territory research connections
 - [[Order of the Sunken Crown]] - Religious organization with territorial diplomatic ties
 - [[The Deep Mother]] - Ancient entity with historical kraken relationships
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Knowledge keeper with territorial academic exchanges
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Knowledge keeper with territorial academic exchanges
 
 ---
 
@@ -725,7 +725,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Order of the Sunken Crown]]
 - [[Pearl Diving Honor Culture]]
 - [[Pressure Adaptation System]]

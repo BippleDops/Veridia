@@ -20,7 +20,7 @@ sub_locations:
 depth: 3200-3500 feet
 population: 200
 government: Theocratic Recursion Council
-ruler: '[[02_Worldbuilding/People/The Recursion Oracle]]'
+ruler: '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
 factions:
 - '[[The Infinity Seekers]]'
 - '[[Temporal Purists]]'
@@ -36,7 +36,7 @@ services:
 - Reality Anchoring
 - Time Distortion Effects
 notable_npcs:
-- '[[02_Worldbuilding/People/The Recursion Oracle]]'
+- '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
 - '[[Paradox Engineer Zeno]]'
 - '[[Loop-Walker Celia]]'
 - '[[Temporal Archivist Chronos]]'
@@ -83,10 +83,10 @@ The complex itself defies conventional architecture. Corridors loop back on them
 ## History & Origins
 
 ### The First Recursion
-The site was discovered three years after The Great Drowning by a team of [[02_Worldbuilding/Groups/Crystal Wardens]] investigating temporal anomalies. The lead investigator, Dr. Zeno Temporis, became trapped in a time loop and emerged seven subjective years later with complete knowledge of temporal mechanics and an obsession with "perfecting the recursion."
+The site was discovered three years after The Great Drowning by a team of [[02_Worldbuilding/Groups/Crystal Wardens|02 Worldbuilding/Groups/Crystal Wardens]] investigating temporal anomalies. The lead investigator, Dr. Zeno Temporis, became trapped in a time loop and emerged seven subjective years later with complete knowledge of temporal mechanics and an obsession with "perfecting the recursion."
 
 ### The Founding Vision
-Dr. Temporis, now calling himself [[02_Worldbuilding/People/The Recursion Oracle]], established the cult around a central belief: that [[The Great Drowning]] was not a singular catastrophic event, but rather the first iteration of an infinite loop. By understanding and controlling this loop, they believe they can either prevent the drowning entirely or create a perfect timeline where it never happened.
+Dr. Temporis, now calling himself [[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]], established the cult around a central belief: that [[The Great Drowning]] was not a singular catastrophic event, but rather the first iteration of an infinite loop. By understanding and controlling this loop, they believe they can either prevent the drowning entirely or create a perfect timeline where it never happened.
 
 ### The Great Schism
 The cult has undergone several schisms, with different factions believing in different approaches to temporal manipulation. These divisions exist literally—the complex has separate wings for each faction, existing in slightly different timestreams to prevent direct conflict.
@@ -115,7 +115,7 @@ Cultivated spaces where [[Memory Pearls]] are arranged in patterns that create t
 Small chambers designed to create controlled temporal paradoxes. Cult members use these for advanced meditation, experiencing existence as both observer and observed, cause and effect, beginning and end simultaneously.
 
 ### The Causality Engine
-A massive construct built from crystallized time, [[Pressure Gems]], and fragments of [[02_Worldbuilding/Items/The Tidal Shard of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
+A massive construct built from crystallized time, [[Pressure Gems]], and fragments of [[02_Worldbuilding/Items/The Tidal Shard of Memory|02 Worldbuilding/Items/The Tidal Shard Of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
 
 **Engine Components:**
 - Temporal resonance crystals
@@ -187,7 +187,7 @@ The cult's primary endeavor involves creating a "perfect" timeline loop where [[
 Using controlled time loops, cult members offer to help people relive and "perfect" traumatic memories. This therapy has a high success rate but often results in patients becoming trapped in temporal loops themselves.
 
 ### The Prophecy Engine
-Combining their temporal viewing capabilities with [[02_Worldbuilding/Places/The Memory Meadows]] technology, the cult is building a device to predict all possible futures and select the optimal timeline.
+Combining their temporal viewing capabilities with [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] technology, the cult is building a device to predict all possible futures and select the optimal timeline.
 
 ### Temporal Recruitment
 The cult actively recruits by targeting people experiencing temporal anomalies, offering them answers and control in exchange for joining their research.
@@ -212,24 +212,24 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 ## Connected Locations
 
 ### Direct Connections
-- **[[02_Worldbuilding/Places/The Memory Meadows]]:** Temporal echo experiments
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Political temporal manipulation
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Memory-time interaction studies
+- **[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]:** Temporal echo experiments
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Political temporal manipulation
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]:** Memory-time interaction studies
 
 ### Allied Locations
-- **[[02_Worldbuilding/Places/Reflection Pools]]:** Identity manipulation research
+- **[[02_Worldbuilding/Places/Reflection Pools|02 Worldbuilding/Places/Reflection Pools]]:** Identity manipulation research
 - **[[Temporal Anomaly Zones]]:** Natural temporal phenomenon study sites
-- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Temporal crystal harvesting
+- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light|02 Worldbuilding/Places/The Crystal Cathedral Of Pure Light]]:** Temporal crystal harvesting
 
 ### Hostile Territories
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Opposes temporal manipulation of the dead
-- **[[02_Worldbuilding/Groups/The Shadow Trade Network]]:** Competes for temporal resources
+- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Opposes temporal manipulation of the dead
+- **[[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]:** Competes for temporal resources
 - **[[Reality Stabilization Centers]]:** Actively works to counter cult activities
 
 ## Notable NPCs
 
 ### Permanent Residents
-**[[02_Worldbuilding/People/The Recursion Oracle]]** - Founder and temporal guide
+**[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]** - Founder and temporal guide
 - Exists in multiple timeline iterations simultaneously
 - Possesses complete knowledge of local temporal mechanics
 - Can manipulate causal relationships
@@ -292,7 +292,7 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 ## Adventure Hooks
 
 ### Investigation
-1. **The Missing Investigation Team:** A group of [[02_Worldbuilding/Groups/Crystal Wardens]] entered the complex three days ago and haven't returned. Players must navigate the temporal maze to find them, but discover they've been trapped in a loop for subjective years.
+1. **The Missing Investigation Team:** A group of [[02_Worldbuilding/Groups/Crystal Wardens|02 Worldbuilding/Groups/Crystal Wardens]] entered the complex three days ago and haven't returned. Players must navigate the temporal maze to find them, but discover they've been trapped in a loop for subjective years.
 
 2. **The Temporal Murders:** Someone is killing cult members across multiple timelines simultaneously. Players must solve a murder mystery that spans past, present, and future to identify a killer who exists outside normal causality.
 
@@ -421,7 +421,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Recursion Cult]]
+- [[02_Worldbuilding/Places/The Recursion Cult|02 Worldbuilding/Places/The Recursion Cult]]
 
 <!-- enriched: true -->
 - [[Memory Pearls]]

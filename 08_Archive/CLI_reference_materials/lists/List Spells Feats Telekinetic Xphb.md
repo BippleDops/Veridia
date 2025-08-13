@@ -20,7 +20,7 @@ world: Both
 
 ## Cantrip
 
-- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip
+- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] as cantrip
 
 ## Player-Facing Summary
 

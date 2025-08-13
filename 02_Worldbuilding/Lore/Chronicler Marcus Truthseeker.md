@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled|02 Worldbuilding/Places/Quest The Truth Unveiled]]
 
 
 ## Connections

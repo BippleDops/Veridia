@@ -105,14 +105,14 @@ Three supreme leaders, each representing different aspects of the organization:
 - **Commander**: High Shadow [[Vex Shadowthorn]] (publicly known as crystal merchant)
 - **Specialization**: Crystal technology corruption, political infiltration
 - **Membership**: ~2,000 active agents, 8,000 sympathizers
-- **Operations**: Manipulation of [[The Seven Shards]] seekers, corruption of [[02_Worldbuilding/Groups/The Crystal Throne]]
+- **Operations**: Manipulation of [[The Seven Shards]] seekers, corruption of [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 - **Resources**: Corrupted crystal networks, shadow-enhanced magic items
 
 **Aquabyssos Division - "The Depth Whispers":**
 - **Commander**: Deep Voice [[Nyx Thalassic]] (publicly known as memory merchant)
 - **Specialization**: Memory warfare, pressure-based infiltration
 - **Membership**: ~1,500 active agents, 6,000 sympathizers
-- **Operations**: Manipulation of [[Memory Alteration Consequences|memory alteration]] technology, infiltration of [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Operations**: Manipulation of [[Memory Alteration Consequences|memory alteration]] technology, infiltration of [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 - **Resources**: Shadow-enhanced memory crystals, corrupted depth facilities
 
 **Convergence Division - "The Reality Shapers":**
@@ -241,8 +241,8 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - **Resource Extraction**: ~25% through direct control of strategic assets
 
 **Major Economic Holdings:**
-- Crystal mining operations in [[02_Worldbuilding/Places/Aethermoor]]
-- Memory trading networks in [[02_Worldbuilding/Places/Aquabyssos]]
+- Crystal mining operations in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
+- Memory trading networks in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Cross-dimensional shipping and communication services
 - Shadow-enhanced technology development and manufacturing
 - Financial services and currency exchange operations
@@ -331,7 +331,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 ### Primary Adversaries
 
-**[[02_Worldbuilding/Groups/The Purist Coalition]]:**
+**[[02_Worldbuilding/Groups/The Purist Coalition|02 Worldbuilding/Groups/The Purist Coalition]]:**
 - **Conflict Nature**: Ideological opposition to shadow corruption integration
 - **Threat Level**: High - significant military and political resources
 - **Crimson Hand Response**: Infiltration, memory manipulation, targeted assassination
@@ -343,7 +343,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - **Crimson Hand Response**: Reality distortion attacks, corruption of equipment
 - **Status**: Significant operational disruption achieved
 
-**[[02_Worldbuilding/Groups/The Unity Seekers]]:**
+**[[02_Worldbuilding/Groups/The Unity Seekers|02 Worldbuilding/Groups/The Unity Seekers]]:**
 - **Conflict Nature**: Competing vision for convergence management
 - **Threat Level**: Medium - popular support but limited resources
 - **Crimson Hand Response**: Ideological subversion, leadership corruption
@@ -417,7 +417,7 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 
 ### The Ultimate Truth
 > [!warning] DM Only
-> The Crimson Hand was originally founded by a fragment of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) that separated during [[The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
+> The Crimson Hand was originally founded by a fragment of [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Aetheron) that separated during [[The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
 
 ### The Shadow Corruption Source
 > [!warning] DM Secret
@@ -466,7 +466,7 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ### Important Locations
 - [[The Shadow Nexus]] - Hidden cross-dimensional command center
 - [[Corruption Gardens]] - Research and weaponization facilities
-- [[02_Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
+- [[02_Worldbuilding/Lore/The Memory Vaults|02 Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
 - [[Reality Laboratories]] - Convergence research installations
 - [[The Crimson Sanctuaries]] - Safe houses and recruitment centers
 
@@ -533,7 +533,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 - [[Vex Shadowthorn]]
 - [[Crystal Forest]]
 - [[Memory Alteration Consequences]]

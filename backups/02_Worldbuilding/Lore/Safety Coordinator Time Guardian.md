@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones|02 Worldbuilding/Lore/Temporal Distortion Zones]]
 
 
 ## Connections

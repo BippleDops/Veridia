@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Fly](/03_Mechanics/CLI/spells/fly-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/fly-xphb "XPHB"|Fly]]
 
 ## Player-Facing Summary
 

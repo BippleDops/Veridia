@@ -235,7 +235,7 @@ Legends speak of Shadow Merchant Riptide as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide|02 Worldbuilding/Places/Shadow Merchant Riptide]]
 
 <!-- enriched: true -->
 - [[Shadow Surgeons Collective]]

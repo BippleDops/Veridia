@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/find-familiar-xphb "XPHB"|Find Familiar]]
 
 ## Player-Facing Summary
 

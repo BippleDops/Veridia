@@ -160,19 +160,19 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 
 ## Connected NPCs
 - [[Pearl Master Ancient Nautilus]] - Legendary diver and keeper of traditional wisdom
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Port authority official managing diving operations
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]] - Port authority official managing diving operations
 - [[Young Diver Coral Swiftcurrent]] - Ambitious novice challenging traditional practices
 - [[Pearl Merchant Tidal Goldflow]] - Trader specializing in high-quality pearl commerce
 
 ## Connected Locations
 - [[The Sacred Pearl Beds]] - Traditional diving grounds protected by ancient customs
 - [[Diver's Rest Tavern]] - Community gathering place for pearl divers and maritime workers
-- [[02_Worldbuilding/Places/Harbor District]] - Commercial center for pearl trade and diving operations
+- [[02_Worldbuilding/Places/Harbor District|02 Worldbuilding/Places/Harbor District]] - Commercial center for pearl trade and diving operations
 - [[The Deep Temple]] - Sacred site for diving blessing ceremonies and spiritual practices
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
+- [[02_Worldbuilding/Groups/The Pearl Divers Guil|02 Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
+- [[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 
 Pearl Diving Honor Culture exemplifies the perfect balance between individual courage and community responsibility, where ancient traditions provide both practical safety and spiritual meaning to those who risk everything in the ocean's depths to bring beauty and prosperity to their people.
@@ -197,4 +197,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]

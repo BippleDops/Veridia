@@ -40,7 +40,7 @@ world: Both
 
 ## Overview
 
-Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
+Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
 
 The service operates through a network of highly trained temporal engineers, chronological researchers, and reality stabilization specialists who work around the clock to monitor temporal flows across both realms. Using advanced detection equipment and specialized containment techniques, these teams respond to everything from minor temporal hiccups to major causality crises that could threaten the fundamental structure of time itself.
 
@@ -617,14 +617,14 @@ Working with Temporal Anomaly Resolution provides unique character development o
 - **[[Pressure Adaptation System]]**: Parallel system addressing physical rather than temporal environmental challenges
 
 ### Key Locations
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
-- **[[02_Worldbuilding/Places/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
+- **[[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
 - **[[Temporal Engineering Institute]]**: Primary research and training facility for temporal anomaly resolution
 - **[[Crisis Command Center]]**: Coordination facility for major temporal emergencies
 - **[[Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms
 
 ### Important Organizations
-- **[[02_Worldbuilding/Groups/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
+- **[[02_Worldbuilding/Groups/Temporal Engineering Guil|02 Worldbuilding/Groups/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
 - **[[International Temporal Safety Council]]**: Government organization overseeing temporal engineering
 - **[[Emergency Response Corps]]**: Specialized teams handling temporal crises
 - **[[Temporal Research Institute]]**: Scientific organization advancing temporal understanding
@@ -642,7 +642,7 @@ Temporal Anomaly Resolution represents humanity's most ambitious attempt to mast
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -666,7 +666,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Convergence Point]]
 - [[Pressure Adaptation System]]
 - [[Reality Merge Zones]]

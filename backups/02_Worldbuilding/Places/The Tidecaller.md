@@ -156,7 +156,7 @@ The Tidecaller serves as powerful ally for maritime adventures, quest giver for 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -168,7 +168,7 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Tidecaller]]
-- [[02_Worldbuilding/Places/The Tidecaller]]
+- [[02_Worldbuilding/People/The Tidecaller|02 Worldbuilding/People/The Tidecaller]]
+- [[02_Worldbuilding/Places/The Tidecaller|02 Worldbuilding/Places/The Tidecaller]]
 
 <!-- enriched: true -->

@@ -31,7 +31,7 @@ _%>
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Template_Galaxy_Placeholder.png]]
+>> ![[Template_Galaxy_Placeholder.png|Template Galaxy Placeholder.png]]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind
@@ -70,15 +70,15 @@ _%>
 
 This is the planet description. 
 
-# Planet Details
+## Planet Details
 
 **Dominant Races:**  
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the region here. 
 
-# Star Systems
+## Star Systems
 
 `BUTTON[button_starsystem]` **Continents**  Large continuous landmasses that contain regions.
 
@@ -127,4 +127,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Galaxy_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Galaxy_Placeholder.png|02 Worldbuilding/Lore/Template Galaxy Placeholder.png]]

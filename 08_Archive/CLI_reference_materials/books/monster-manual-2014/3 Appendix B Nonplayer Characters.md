@@ -41,27 +41,27 @@ You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustmen
 
 The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating. Magic items, as well as adjusting a creature's challenge rating, are described in the Dungeon Master's Guide.
 
-- [Acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)  
-- [Archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)  
-- [Assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)  
-- [Bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)  
-- [Bandit Captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)  
-- [Berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)  
-- [Commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
-- [Cultist](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md)  
-- [Cult Fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)  
-- [Druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md)  
-- [Gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)  
-- [Guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)  
-- [Knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md)  
-- [Mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md)  
-- [Noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)  
-- [Priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md)  
-- [Scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)  
-- [Spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)  
-- [Thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)  
-- [Tribal Warrior](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)  
-- [Veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)
+- [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Acolyte]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandit]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|Commoner]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatic]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiator]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guard]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|Mage]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Noble]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Scout]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Spy]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Thug]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]]
 
 ## Player-Facing Summary
 

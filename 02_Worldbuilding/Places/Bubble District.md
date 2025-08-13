@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bubble Burst]]
+- [[02_Worldbuilding/Places/Bubble Burst|02 Worldbuilding/Places/Bubble Burst]]
 
 
 ## Connections

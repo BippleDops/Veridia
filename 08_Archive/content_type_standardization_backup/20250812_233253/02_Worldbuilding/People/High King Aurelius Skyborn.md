@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[02_Worldbuilding/Lore/Royal Embassy|02 Worldbuilding/Lore/Royal Embassy]]
 
 
 ## Connections

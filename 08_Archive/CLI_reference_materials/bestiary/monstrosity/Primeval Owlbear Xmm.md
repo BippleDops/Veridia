@@ -21,7 +21,7 @@ updated: '2025-08-12T23:37:34.952322'
 world: Both
 ---
 
-# [Primeval Owlbear](3-Mechanics\CLI\bestiary\monstrosity/primeval-owlbear-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/primeval-owlbear-xmm|Primeval Owlbear]]
 *Source: Monster Manual (2024) p. 234*  
 
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
@@ -70,13 +70,13 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - "constitution": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The owlbear has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The owlbear has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -85,12 +85,12 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d8 + 6) Slashing damage.\
       \ If the target is a Huge or smaller creature and the owlbear moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Slashing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ (2d8) Slashing damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Ravage"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the owlbear. Failure: 27 (6d8) Thunder damage, and the\
-      \ target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn. Success: Half damage only."
     "name": "Screech (Recharge 5-6)"
 "source":

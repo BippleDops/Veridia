@@ -17,17 +17,17 @@ tags:
 # Session Packet — Aethermoor 10
 
 handouts:
-  - [[04_Resources/Handouts/Encounters/S-201_Eclipse_Raid_Window_Player]]
-  - [[04_Resources/Handouts/Encounters/S-L-08_Gravity_Inversion_Storm_Player]]
-  - [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]
+  - [[04_Resources/Handouts/Encounters/S-201_Eclipse_Raid_Window_Player|04 Resources/Handouts/Encounters/S 201 Eclipse Raid Window Player]]
+  - [[04_Resources/Handouts/Encounters/S-L-08_Gravity_Inversion_Storm_Player|04 Resources/Handouts/Encounters/S L 08 Gravity Inversion Storm Player]]
+  - [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
 gm_sheets:
-  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-02_Void_Curtain_Eclipse]]
-  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-08_Gravity_Inversion_Storm]]
-  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-11_Platform_Unmooring]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-02_Void_Curtain_Eclipse|06 GM Resources/Travel/Encounter Sheets/S L 02 Void Curtain Eclipse]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-08_Gravity_Inversion_Storm|06 GM Resources/Travel/Encounter Sheets/S L 08 Gravity Inversion Storm]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/S-L-11_Platform_Unmooring|06 GM Resources/Travel/Encounter Sheets/S L 11 Platform Unmooring]]
 
 assets:
-  - [[03_Mechanics/Vehicles/Vehicles_Index]]
+  - [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
 
 ## Player Handouts
 ```dataviewjs

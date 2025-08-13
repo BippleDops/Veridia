@@ -147,7 +147,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 ## Connections to Other Continents
 
 - **[[Crystallium]]**: Share the Resonance Network for data transfer
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Provide intelligence services to the Parliament
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]**: Provide intelligence services to the Parliament
 - **[[Memoriam]]**: Secret tunnel through forgotten knowledge
 - **[[Vorthak]]**: Exchange temporal paradoxes for probability studies
 
@@ -188,7 +188,7 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Nereidios]]
+- [[02_Worldbuilding/Places/Nereidios|02 Worldbuilding/Places/Nereidios]]
 
 <!-- enriched: true -->
 - [[Vorthak]]

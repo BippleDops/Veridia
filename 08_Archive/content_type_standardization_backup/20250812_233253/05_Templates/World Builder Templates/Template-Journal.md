@@ -58,7 +58,7 @@ _%>
 `INPUT[inlineListSuggester(optionQuery(#Category/Player)):sessionAbsent]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
-# Session Overview
+## Session Overview
 
 %% I like to keep a quick summary of sessions here. %%
 

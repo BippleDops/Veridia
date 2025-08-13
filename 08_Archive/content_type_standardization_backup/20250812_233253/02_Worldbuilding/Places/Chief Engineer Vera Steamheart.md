@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chief Engineer Vera Steamheart]]
+- [[02_Worldbuilding/Places/Chief Engineer Vera Steamheart|02 Worldbuilding/Places/Chief Engineer Vera Steamheart]]
 
 <!-- enriched: true -->
 

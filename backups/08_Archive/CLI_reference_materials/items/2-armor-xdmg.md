@@ -55,7 +55,7 @@ You have a +2 bonus to AC while wearing this armor.
 - [+2 Splint Armor](#+2%20Splint%20Armor)
 - [+2 Studded Leather Armor](#+2%20Studded%20Leather%20Armor)
 
-### +2 Breastplate
+## +2 Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") at class level 13
-- [Heroism](/03_Mechanics/CLI/spells/heroism-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] at class level 13
+- [[/03_Mechanics/CLI/spells/heroism-xphb "XPHB"|Heroism]] at class level 13
 
 ## 2nd Level
 
-- [Enhance Ability](/03_Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB") at class level 13
-- [Magic Weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/enhance-ability-xphb "XPHB"|Enhance Ability]] at class level 13
+- [[/03_Mechanics/CLI/spells/magic-weapon-xphb "XPHB"|Magic Weapon]] at class level 13
 
 ## 3rd Level
 
-- [Haste](/03_Mechanics/CLI/spells/haste-xphb.md "XPHB") at class level 13
-- [Protection from Energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/haste-xphb "XPHB"|Haste]] at class level 13
+- [[/03_Mechanics/CLI/spells/protection-from-energy-xphb "XPHB"|Protection from Energy]] at class level 13
 
 ## 4th Level
 
-- [Compulsion](/03_Mechanics/CLI/spells/compulsion-xphb.md "XPHB") at class level 13
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/compulsion-xphb "XPHB"|Compulsion]] at class level 13
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] at class level 13
 
 ## 5th Level
 
-- [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md "XPHB") at class level 13
-- [Yolande's Regal Presence](/03_Mechanics/CLI/spells/yolandes-regal-presence-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/legend-lore-xphb "XPHB"|Legend Lore]] at class level 13
+- [[/03_Mechanics/CLI/spells/yolandes-regal-presence-xphb "XPHB"|Yolande's Regal Presence]] at class level 13
 
 ## Player-Facing Summary
 

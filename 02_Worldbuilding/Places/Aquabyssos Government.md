@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Government]]
+- [[02_Worldbuilding/Places/Aquabyssos Government|02 Worldbuilding/Places/Aquabyssos Government]]
 
 <!-- enriched: true -->
 

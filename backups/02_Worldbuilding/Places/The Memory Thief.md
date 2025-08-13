@@ -185,7 +185,7 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Memory Thief]]
+- [[02_Worldbuilding/Places/The Memory Thief|02 Worldbuilding/Places/The Memory Thief]]
 
 <!-- enriched: true -->
 nriched: true -->

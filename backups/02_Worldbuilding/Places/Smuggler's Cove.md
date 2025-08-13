@@ -24,7 +24,7 @@ danger_level: Moderate
 # Smuggler's Cove
 
 ## Overview
-Smuggler's Cove exists at the unique intersection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
+Smuggler's Cove exists at the unique intersection between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
 
 ## Physical Description
 
@@ -149,7 +149,7 @@ The Peace Keepers are a professional security force that focuses on maintaining 
 ## Threats and Dangers
 
 ### Political Pressure
-Both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
+Both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
 - The Cove's usefulness for their own covert operations
 - Treaties that guarantee the area's neutral status  
 - The economic disruption that closing it would cause
@@ -204,16 +204,16 @@ The Cove's neutral status is fragile and constantly threatened by:
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/Port Meridian]]
+### [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 The closest major surface port to the Cove, with regular (though officially unacknowledged) trade connections. Many surface goods destined for the Cove are initially processed through Meridian.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 Aquabyssos city that maintains "cultural exchange" programs with the Cove. Many depth dwellers use the Cove as their first exposure to surface culture.
 
-### [[02_Worldbuilding/Places/The Crystal Throne]]
+### [[02_Worldbuilding/Places/The Crystal Throne|02 Worldbuilding/Places/The Crystal Throne]]
 Aethermoor's government officially condemns the Cove while secretly using it for intelligence gathering and covert operations.
 
-### [[02_Worldbuilding/Places/The Bathyal Palace]]
+### [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]
 Aquabyssos leadership similarly maintains public disapproval while conducting private business through Cove intermediaries.
 
 ## Quest Hooks and Adventures
@@ -271,7 +271,7 @@ Smuggler's Cove works best as:
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 - [[Smuggler]]
 - [[Traveling Merchant Finn]]
@@ -296,7 +296,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove|02 Worldbuilding/Places/Smuggler's Cove]]
 
 <!-- enriched: true -->
 - [[The Seven Shards]]

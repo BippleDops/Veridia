@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Divine Communication Specialists]]
+- [[02_Worldbuilding/Places/Divine Communication Specialists|02 Worldbuilding/Places/Divine Communication Specialists]]
 
 <!-- enriched: true -->
 

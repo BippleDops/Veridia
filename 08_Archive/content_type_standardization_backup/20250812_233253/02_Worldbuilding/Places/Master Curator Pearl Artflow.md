@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Curator Pearl Artflow]]
+- [[02_Worldbuilding/Places/Master Curator Pearl Artflow|02 Worldbuilding/Places/Master Curator Pearl Artflow]]
 
 <!-- enriched: true -->

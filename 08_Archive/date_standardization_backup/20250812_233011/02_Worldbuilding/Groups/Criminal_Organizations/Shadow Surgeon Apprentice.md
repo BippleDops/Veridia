@@ -38,7 +38,7 @@ updated: 2025-08-11
 
 ## Organization Overview
 
-The Shadow Surgeon Apprentice represents the formal training organization for the highly specialized field of shadow surgery in [[02_Worldbuilding/Places/Aquabyssos]]. This medical educational institution addresses the unique challenges of treating shadow-touched individuals, whose transformed physiology requires completely different approaches to surgery, healing, and medical intervention than conventional medicine can provide.
+The Shadow Surgeon Apprentice represents the formal training organization for the highly specialized field of shadow surgery in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. This medical educational institution addresses the unique challenges of treating shadow-touched individuals, whose transformed physiology requires completely different approaches to surgery, healing, and medical intervention than conventional medicine can provide.
 
 Shadow surgery involves working with patients whose bodies have been fundamentally altered by shadow energy, creating new organs, modifying existing biological systems, and introducing shadow-based physiological processes that conventional medical training cannot address. The apprenticeship program combines traditional medical knowledge with cutting-edge research into shadow physiology, creating a new generation of medical professionals capable of treating the transformed population.
 
@@ -347,13 +347,13 @@ Hands-on training with real patients under expert supervision:
 **Relationship**: Professional Collaboration
 Works with traditional medical schools and hospitals to provide comprehensive care for shadow-touched patients while maintaining distinct specialization.
 
-#### **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]**
+#### **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**
 **Relationship**: Training Partnership
 Provides practitioners and continues collaboration with operational medical facilities serving shadow communities.
 
 ### Government and Regulation
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes]]**
+#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 **Relationship**: Regulatory Compliance
 Works with government health authorities to ensure proper medical standards and legal compliance while advocating for shadow medical needs.
 
@@ -363,21 +363,21 @@ Seeks official recognition and licensing for shadow surgery as legitimate medica
 
 ### Community Organizations
 
-#### **[[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]**
+#### **[[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]**
 **Relationship**: Community Cooperation
 Collaborates on community health initiatives and provides medical expertise for behavioral and psychological support programs.
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Service Partnership
 Provides medical services to shadow community members and collaborates on community health initiatives.
 
 ### Research and Academic
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**
+#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Research Collaboration
 Collaborates on research projects investigating shadow transformation and its medical implications.
 
-#### **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**
+#### **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**
 **Relationship**: Research Interest
 Studies medical implications of shadow-crystal synthesis research while maintaining ethical boundaries.
 
@@ -537,10 +537,10 @@ Balancing research needs with educational and service responsibilities.
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Shadow Surgery Centers]]
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]
-- [[02_Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]
+- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
 **Key Locations**:
 - [[The Umbral Medical Academy]]
@@ -588,4 +588,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Party Shadows]]
+- [[02_Worldbuilding/Groups/Party Shadows|02 Worldbuilding/Groups/Party Shadows]]

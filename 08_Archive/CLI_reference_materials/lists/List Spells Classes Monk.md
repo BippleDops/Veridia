@@ -20,7 +20,7 @@ world: Both
 
 ## 9th Level
 
-- [Astral Projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/astral-projection-xphb "XPHB"|Astral Projection]]
 
 ## Player-Facing Summary
 

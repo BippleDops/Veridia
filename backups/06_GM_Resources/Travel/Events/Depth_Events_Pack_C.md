@@ -22,7 +22,7 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 
 ---
 
-### D-201: Abyss Mirror Lake
+## D-201: Abyss Mirror Lake
 - Zone: Abyss • Category: Reality/Discovery
 - Trigger: A still water dome reflects a different sky.
 - Checks: Anchorite DC 16 probe; Sanity DC 15; Sensor DC 15 sampling.

@@ -37,10 +37,10 @@ world: Both Worlds
 - Chose to support Marina's mission rather than expose her to authorities
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: False identity abandoned, true mission revealed
-- **[[02_Worldbuilding/Lore/Depth Guard]]**: Covert organization forced into partial exposure
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
+- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]**: False identity abandoned, true mission revealed
+- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]**: Covert organization forced into partial exposure
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
 - **Party members**: Became first surface dwellers with official Depth Guard recognition
 - **Cross-realm trade networks**: Legitimacy questions raised about "smuggling" operations
 
@@ -89,7 +89,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Lore/Depth Guard]]** emerged from secrecy as legitimate organization
+- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** emerged from secrecy as legitimate organization
 - **Cross-realm advocacy groups** formed to support dual-heritage individuals
 - **Traditional isolationist factions** opposed increased inter-dimensional contact
 - **Academic institutions** established underwater studies programs
@@ -219,15 +219,15 @@ world: Both Worlds
 ---
 
 *"I spent years lying about who I was to protect two worlds. The day I told the truth was the day both worlds started becoming one. Sometimes honesty is the greatest revolution you can start."*
-— [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], First Cross-Realm Diplomatic Advisor
+— [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]], First Cross-Realm Diplomatic Advisor
 
 ## Cross-References
 
 - [[Campaign Consequence Tracking Framework]]
 - [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-- [[02_Worldbuilding/Lore/Depth Guard]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]
+- [[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]
 - [[Cross-Realm Diplomatic Relations]]
 - [[Political Intrigue Master Index]]
 - [[Cultural Exchange Programs]]

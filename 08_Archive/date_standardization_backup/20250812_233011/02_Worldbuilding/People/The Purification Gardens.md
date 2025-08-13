@@ -159,6 +159,6 @@ Legends speak of The Purification Gardens as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Purification Gardens]]
+- [[02_Worldbuilding/People/The Purification Gardens|02 Worldbuilding/People/The Purification Gardens]]
 
 <!-- enriched: true -->

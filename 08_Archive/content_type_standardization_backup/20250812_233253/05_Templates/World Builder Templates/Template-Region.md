@@ -140,17 +140,17 @@ setTimeout(() => {
 
 This is the region description. 
 
-# Region Details
+## Region Details
 
 **Dominant Races:**  
 **Climate:** 
 **Seasons:**
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the region here. 
 
-# Hubs
+## Hubs
 
 `BUTTON[button_hub]` **Hubs** Places where people live - Cities, Towns, Villages, Hamlets, Encampment, Keeps, Fortresses, Strongholds.
 
@@ -161,7 +161,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Points of Interest
+## Points of Interest
 
 `BUTTON[button_pointofinterest]`  Places that can be explored. 
 
@@ -172,7 +172,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Groups
+## Groups
 
 `BUTTON[button_group]` Groups of people and power - religious, cults, guilds, military
 
@@ -184,7 +184,7 @@ SORT file.name ASC
 ```
 
 
-# Quests
+## Quests
 
 `BUTTON[button_quest]` **P - Philosophy** (Religion and Education) - Houses of Worship, Schools, Universities, Laboratories, Arboretums
 
@@ -233,4 +233,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Island of Screams.jpg]]
+- [[02_Worldbuilding/Lore/The Island of Screams.jpg|02 Worldbuilding/Lore/The Island Of Screams.jpg]]

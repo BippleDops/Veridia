@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hellfire-engine-mpmm-hellfire-engine-mpmm.svg)
 
-# [Hellfire Engine](3-Mechanics\CLI\bestiary\construct/hellfire-engine-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/hellfire-engine-mpmm|Hellfire Engine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
@@ -58,10 +58,10 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
 "damage_resistances": "cold; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
-  \ [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
+  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "16"
@@ -79,15 +79,15 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
       \ this move, it can enter Large or smaller creatures' spaces. A creature whose\
       \ space the hellfire engine enters must make a DC 18 Dexterity saving throw.\
       \ On a successful save, the creature is pushed to the nearest space out of the\
-      \ hellfire engine's path. On a failed save, the creature falls [prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ hellfire engine's path. On a failed save, the creature falls [[/03_Mechanics/CLI/conditions#Prone|prone]]\
       \ and takes 28 (8d6) bludgeoning damage.\n\nIf the hellfire engine remains in\
-      \ the [prone](/03_Mechanics/CLI/conditions.md#Prone) creature's space, the creature\
-      \ is also [restrained](/03_Mechanics/CLI/conditions.md#Restrained) until it's\
-      \ no longer in the same space as the hellfire engine. While [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ the [[/03_Mechanics/CLI/conditions#Prone|prone]] creature's space, the creature\
+      \ is also [[/03_Mechanics/CLI/conditions#Restrained|restrained]] until it's\
+      \ no longer in the same space as the hellfire engine. While [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
       \ in this way, the creature, or another creature within 5 feet of it, can make\
       \ a DC 18 Strength check. On a success, the creature is shunted to an unoccupied\
       \ space of its choice within 5 feet of the hellfire engine and is no longer\
-      \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)."
+      \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]."
     "name": "Flesh-Crushing Stride"
   - "desc": "The hellfire engine uses one of the following options (choose one or\
       \ roll a d6):\n\n- 1–2 Bonemelt Sprayer. The hellfire engine spews acidic\
@@ -107,9 +107,9 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
       \ creature within 30 feet of that point must make a DC 20 Dexterity saving throw,\
       \ taking 27 (5d10) bludgeoning damage plus 19 (3d12) thunder damage on a failed\
       \ save, or half as much damage on a successful one.  \n\n    If the chosen option\
-      \ kills a creature, the creature's soul rises from the River Styx as a [lemure](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
+      \ kills a creature, the creature's soul rises from the River Styx as a [[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm|lemure]]\
       \ in Avernus in d4 hours. If the creature isn't revived before then, only a\
-      \ [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell or killing the [lemure](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
+      \ [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell or killing the [[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm|lemure]]\
       \ and casting true resurrection on the creature's original body can restore\
       \ it to life. Constructs and devils are immune to this effect.  "
     "name": "Hellfire Weapons"

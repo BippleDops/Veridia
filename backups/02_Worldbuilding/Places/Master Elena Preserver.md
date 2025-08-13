@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Elena Preserver]]
+- [[02_Worldbuilding/Places/Master Elena Preserver|02 Worldbuilding/Places/Master Elena Preserver]]
 
 <!-- enriched: true -->
 

@@ -308,8 +308,8 @@ The harmonized geography creates a solid foundation for campaign adventures whil
 **Next Review**: 3 months from implementation date
 
 ### Related Documents
-- [CANONICAL_WORLD_MAP.md](CANONICAL_WORLD_MAP.md) - Master geographic reference
-- [DEPTH_ALTITUDE_CHARTS.md](DEPTH_ALTITUDE_CHARTS.md) - Environmental standards  
-- [TRADE_ROUTE_OVERLAYS.md](TRADE_ROUTE_OVERLAYS.md) - Commercial networks
-- [DISTRICT_MAPS_MAJOR_CITIES.md](DISTRICT_MAPS_MAJOR_CITIES.md) - Urban geography
-- [POPULATION_DISTRIBUTION_MAPS.md](POPULATION_DISTRIBUTION_MAPS.md) - Demographic analysis
+- [[CANONICAL_WORLD_MAP|CANONICAL WORLD MAP]] - Master geographic reference
+- [[DEPTH_ALTITUDE_CHARTS|DEPTH ALTITUDE CHARTS]] - Environmental standards  
+- [[TRADE_ROUTE_OVERLAYS|TRADE ROUTE OVERLAYS]] - Commercial networks
+- [[DISTRICT_MAPS_MAJOR_CITIES|DISTRICT MAPS MAJOR CITIES]] - Urban geography
+- [[POPULATION_DISTRIBUTION_MAPS|POPULATION DISTRIBUTION MAPS]] - Demographic analysis

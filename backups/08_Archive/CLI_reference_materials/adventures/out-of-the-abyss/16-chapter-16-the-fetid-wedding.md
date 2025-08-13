@@ -27,9 +27,9 @@ The characters receive a warning about Zuggtmoy's plans from Basidia, one of the
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/109-ooa16-01.webp#center)
 
-The adventurers become caught up in Zuggtmoy's plots when they experience a vision from the rebel myconids of Neverlight Grove, delivered by [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md). The characters know of Basidia and the myconids' struggles if they visited Neverlight Grove (see chapter 5). Otherwise, the myconids reach out to them if they sheltered [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) or [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) for a time.
+The adventurers become caught up in Zuggtmoy's plots when they experience a vision from the rebel myconids of Neverlight Grove, delivered by [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]]. The characters know of Basidia and the myconids' struggles if they visited Neverlight Grove (see chapter 5). Otherwise, the myconids reach out to them if they sheltered [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] or [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] for a time.
 
-Basidia's vision can come at any point, whether the characters are asleep or awake. You can choose to have the vision affect all or some of the player characters, or to have some of their NPC followers affected as well. Read the following text aloud, making adjustments as necessary if the characters have not met [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md).
+Basidia's vision can come at any point, whether the characters are asleep or awake. You can choose to have the vision affect all or some of the player characters, or to have some of their NPC followers affected as well. Read the following text aloud, making adjustments as necessary if the characters have not met [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]].
 
 > [!readaloud] 
 > 
@@ -40,11 +40,11 @@ Basidia's vision can come at any point, whether the characters are asleep or awa
 
 Although myconids can normally use their rapport spores only over short distances, Basidia explains that Zuggtmoy has been spreading her own spores throughout the Underdark, channeling *faerzress*. By tapping into this growing presence, the myconid sovereign can rapport over great distances to ask the characters for their help.
 
-Zuggtmoy, the demon queen who has corrupted the myconids, has made her intentions clear. She is leading her new followers to the vast cavern complex occupied by Araumycos, the largest life-form in the Underdark and perhaps in all the world. There, the two will be bonded in a demonic ceremony, giving Zuggtmoy dominion over a fungal kingdom larger and greater than any surface-world realm. To that end, she and her followers have been performing rituals and releasing spores to lull the great Araumycos into a kind of [charmed](/03_Mechanics/CLI/conditions.md#Charmed) sleep. The full implications are unclear to Basidia and the myconids, but as Araumycos is the oldest and most powerful being known to them, they greatly fear what Zuggtmoy's corruption of it will bring.
+Zuggtmoy, the demon queen who has corrupted the myconids, has made her intentions clear. She is leading her new followers to the vast cavern complex occupied by Araumycos, the largest life-form in the Underdark and perhaps in all the world. There, the two will be bonded in a demonic ceremony, giving Zuggtmoy dominion over a fungal kingdom larger and greater than any surface-world realm. To that end, she and her followers have been performing rituals and releasing spores to lull the great Araumycos into a kind of [[/03_Mechanics/CLI/conditions#Charmed|charmed]] sleep. The full implications are unclear to Basidia and the myconids, but as Araumycos is the oldest and most powerful being known to them, they greatly fear what Zuggtmoy's corruption of it will bring.
 
 Fortunately, there is hope. Basidia believes it can assist in creating a rapport between the adventurers and Araumycos's vast, sleeping mind. The characters can help to awaken it and aid its struggle against the demon queen's influence. Or, if there's no other choice, they can destroy Araumycos before Zuggtmoy can claim the great creature as her own.
 
-If [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) or [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) have met the characters and are still alive, they join the rapport between Basidia and the characters, offering their support and encouragement as they implore the adventurers to intervene. If the characters saw the hideous Garden of Welcome in Neverlight Grove—or, worse yet, glimpsed the horrors of Yggmorgus—the myconids remind them that the whole world might become like that if Zuggtmoy unites Araumycos's power with her own.
+If [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] or [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] have met the characters and are still alive, they join the rapport between Basidia and the characters, offering their support and encouragement as they implore the adventurers to intervene. If the characters saw the hideous Garden of Welcome in Neverlight Grove—or, worse yet, glimpsed the horrors of Yggmorgus—the myconids remind them that the whole world might become like that if Zuggtmoy unites Araumycos's power with her own.
 
 Basidia proposes that the characters travel quickly to Araumycos, where the myconid sovereign will temporarily immunize them against the effects of the demon-tainted spores released by myconids under Zuggtmoy's influence. Basidia will then initiate a rapport with Araumycos while Zuggtmoy and her followers are preoccupied with the wedding ceremony.
 
@@ -89,10 +89,10 @@ Once the characters enter Araumycos's territory, use the Araumycos Encounters ta
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1 | [Death tyrant](/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md) |
+| 1 | [[/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm|Death tyrant]] |
 | 2–6 | Demons |
-| 7–8 | [Gnoll](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) pack |
-| 9–10 | [Gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 7–8 | [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|Gnoll]] pack |
+| 9–10 | [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|Gricks]] |
 | 11–14 | Myconid parade |
 | 15–18 | Oozes |
 | 19–20 | Two-headed trolls |
@@ -113,7 +113,7 @@ Once the characters enter Araumycos's territory, use the Araumycos Encounters ta
 
 #### Death Tyrant
 
-Characters within 1 mile of the [death tyrant's](/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md) lair feel as if they're being watched even when they aren't. While defending its cavernous lair, the tyrant avails itself of its lair actions.
+Characters within 1 mile of the [[/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm|death tyrant's]] lair feel as if they're being watched even when they aren't. While defending its cavernous lair, the tyrant avails itself of its lair actions.
 
 ##### Treasure
 
@@ -127,12 +127,12 @@ One or more demons encounter the party and attack. Roll a `d12` and consult the 
 
 | dice: d12 | Demons |
 |-----------|--------|
-| 1–2 | `2d4` [barlguras](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
-| 3–4 | `2d4` [chasmes](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
-| 5–6 | `d4` [hezrous](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
-| 7–8 | `d100` [manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md) |
-| 9–10 | 1 [nalfeshnee](/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md) |
-| 11–12 | `2d4` [vrocks](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
+| 1–2 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|barlguras]] |
+| 3–4 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|chasmes]] |
+| 5–6 | `d4` [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|hezrous]] |
+| 7–8 | `d100` [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|manes]] |
+| 9–10 | 1 [[/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm|nalfeshnee]] |
+| 11–12 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrocks]] |
 ^demons
 
 #### Fungi
@@ -147,19 +147,19 @@ If this encounter takes place in Araumycos's domain, an overabundance of fungi c
 
 | dice: d6 | Fungi |
 |----------|-------|
-| 1 | `d6` [gas spores](/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md) |
-| 2 | `d6` [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 1 | `d6` [[/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm|gas spores]] |
+| 2 | `d6` [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]] |
 | 3–4 | `3d6` edible fungi (choose from the varieties in "Fungi of the Underdark" in chapter 2) |
 | 5–6 | `3d6` exotic fungi (choose from the varieties in "Fungi of the Underdark" in chapter 2) |
 ^fungi
 
 #### Gnoll Pack
 
-A hunting pack consisting of one [gnoll pack lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) and `3d6` [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) has been driven into a frenzy by the presence of Yeenoghu in the Underdark. The characters can't be [surprised](/03_Mechanics/CLI/conditions.md#Surprised) by the gnolls, whose incessant cackling gives them away.
+A hunting pack consisting of one [[/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm|gnoll pack lord]] and `3d6` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] has been driven into a frenzy by the presence of Yeenoghu in the Underdark. The characters can't be [[/03_Mechanics/CLI/conditions#Surprised|surprised]] by the gnolls, whose incessant cackling gives them away.
 
 #### Gricks
 
-A [grick alpha](/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and `1d4 + 2` [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) lair in a cave. They spring out from hiding to attack any creature that stumbles into their territory.
+A [[/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm|grick alpha]] and `1d4 + 2` [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|gricks]] lair in a cave. They spring out from hiding to attack any creature that stumbles into their territory.
 
 #### Mold Pit
 
@@ -167,7 +167,7 @@ One party member (determined randomly) steps on a pit of soft mold hidden beneat
 
 #### Myconid Parade
 
-The characters stumble upon `d4` [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), `2d6` [myconid sprouts](/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md), and one or more spore servants. Roll a `d8` and consult the Spore Servants table to determine what kind of spore servants are present.
+The characters stumble upon `d4` [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]], `2d6` [[/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm|myconid sprouts]], and one or more spore servants. Roll a `d8` and consult the Spore Servants table to determine what kind of spore servants are present.
 
 #### Spore Servants
 
@@ -175,13 +175,13 @@ The characters stumble upon `d4` [myconid adults](/03_Mechanics/CLI/bestiary/pla
 
 | dice: d8 | Spore Servants |
 |----------|----------------|
-| 1–2 | `d6` [chuul spore servants](/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota.md) (see appendix C) |
-| 3–4 | `d6` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) `d6` [duergar spore servants](/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota.md) (see appendix C for both) |
-| 5–6 | `d6` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) and `d6` [quaggoth spore servants](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md) |
-| 7–8 | `d6` [hook horror spore servants](/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md) (see appendix C) |
+| 1–2 | `d6` [[/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota|chuul spore servants]] (see appendix C) |
+| 3–4 | `d6` [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] `d6` [[/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota|duergar spore servants]] (see appendix C for both) |
+| 5–6 | `d6` [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] (see appendix C) and `d6` [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]] |
+| 7–8 | `d6` [[/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota|hook horror spore servants]] (see appendix C) |
 ^spore-servants
 
-Subjects of Zuggtmoy, the myconids and their spore servants caper and dance madly to music only they can hear. The myconids insist that all other creatures they meet join them, releasing a cloud of spores if anyone refuses to do so. They can release this cloud once, and any creature within 30 feet of one or more of the myconids when the cloud is released must succeed on a DC 11 Constitution saving throw or become [charmed](/03_Mechanics/CLI/conditions.md#Charmed). While [charmed](/03_Mechanics/CLI/conditions.md#Charmed) in this way, a creature can do nothing other than dance and use its movement to follow the myconid parade. The creature can repeat the saving throw at the end of each hour, ending the effect on itself on a success. Casting [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md), [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md), [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md), or similar magic on a creature also ends the effect on it.
+Subjects of Zuggtmoy, the myconids and their spore servants caper and dance madly to music only they can hear. The myconids insist that all other creatures they meet join them, releasing a cloud of spores if anyone refuses to do so. They can release this cloud once, and any creature within 30 feet of one or more of the myconids when the cloud is released must succeed on a DC 11 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Charmed|charmed]]. While [[/03_Mechanics/CLI/conditions#Charmed|charmed]] in this way, a creature can do nothing other than dance and use its movement to follow the myconid parade. The creature can repeat the saving throw at the end of each hour, ending the effect on itself on a success. Casting [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]], [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]], [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]], or similar magic on a creature also ends the effect on it.
 
 The myconids and their spore servants attack only if they're attacked or prevented from continuing on their march.
 
@@ -193,10 +193,10 @@ The characters encounter one or more oozes. Roll a `d4` and consult the Oozes ta
 
 | dice: d4 | Oozes |
 |----------|-------|
-| 1 | 1 [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) and `d6` [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) |
-| 2 | 1 [ochre jellies](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
-| 3 | `3d6` [black puddings](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
-| 4 | `2d4` [gelatinous cubes](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) |
+| 1 | 1 [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|black pudding]] and `d6` [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray oozes]] |
+| 2 | 1 [[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm|ochre jellies]] |
+| 3 | `3d6` [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|black puddings]] |
+| 4 | `2d4` [[/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm|gelatinous cubes]] |
 ^oozes
 
 If the encounter occurs en route to Araumycos, the oozes are slithering toward the giant fungus. Otherwise, the oozes are feasting on Araumycos itself. In either event, the oozes fight only in self-defense.
@@ -207,7 +207,7 @@ Warped by Demogorgon's presence in the Underdark, these trolls have each grown a
 
 ## Enter the Groom
 
-In the time it takes the characters to reach Araumycos's caverns after receiving Basidia's message, Zuggtmoy and her fungal entourage arrive at the site of the ceremony, near the center of those caverns. The entourage includes hundreds of [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) and [myconid sprouts](/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md), accompanied by [awakened zurkhwoods](/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) and [bridesmaids of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md) (both from appendix C), as well as ambulatory fungi such as [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) and [gas spores](/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md). Various spore servants fill out Zuggtmoy's entourage (see the "Myconids" entry of the *Monster Manual* and appendix C of this adventure).
+In the time it takes the characters to reach Araumycos's caverns after receiving Basidia's message, Zuggtmoy and her fungal entourage arrive at the site of the ceremony, near the center of those caverns. The entourage includes hundreds of [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]] and [[/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm|myconid sprouts]], accompanied by [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|awakened zurkhwoods]] and [[/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota|bridesmaids of Zuggtmoy]] (both from appendix C), as well as ambulatory fungi such as [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]] and [[/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm|gas spores]]. Various spore servants fill out Zuggtmoy's entourage (see the "Myconids" entry of the *Monster Manual* and appendix C of this adventure).
 
 ### Basidia's Aid
 
@@ -226,9 +226,9 @@ Once Basidia has explained the plan to the characters, read the following boxed 
 > Even as the myconid sovereign's thoughts fill your mind, you become aware of a faint hissing and fizzing sound. The fungus around you dissolves to a formless goo as something moves in the undergrowth to surround you!
 ^58f
 
-A pair of [regenerating black puddings](/03_Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota.md), spies for Juiblex, slither through the undergrowth to attack the party. The characters' myconid allies fall back from the fray, desperate to protect [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) and pleading for the adventurers' aid through the telepathic rapport they share.
+A pair of [[/03_Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota|regenerating black puddings]], spies for Juiblex, slither through the undergrowth to attack the party. The characters' myconid allies fall back from the fray, desperate to protect [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] and pleading for the adventurers' aid through the telepathic rapport they share.
 
-Empowered by Juiblex, these [regenerating black puddings](/03_Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota.md) have an Intelligence of 6 (−2) and the following feature, which increases each pudding's challenge rating to 5 (1,800 XP).
+Empowered by Juiblex, these [[/03_Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota|regenerating black puddings]] have an Intelligence of 6 (−2) and the following feature, which increases each pudding's challenge rating to 5 (1,800 XP).
 
 > [!note] 
 > 
@@ -244,7 +244,7 @@ Once the characters receive Basidia's spores and overcome Juiblex's black puddin
 > The pastel colors of fungi transform the caverns you pass through into softly glowing meadows. The floor is spongy, and the myconid spores are making you start to feel drowsy—at least, you hope that's what's behind this strange sensation. Then you feel the ground beneath you shift as something moves—a number of a thick, spiky tendrils bursting from the ground.
 ^593
 
-Two fungal creatures resembling [otyughs](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) rise up and attack the characters. Created by Araumycos to perfectly duplicate the abilities, traits, and actions of otyughs, these creatures are plants rather than aberrations. They attack until slain, whereupon each bursts into a cloud of sweet-smelling spores as its body dissolves back into the larger mass of fungi filling the cavern.
+Two fungal creatures resembling [[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm|otyughs]] rise up and attack the characters. Created by Araumycos to perfectly duplicate the abilities, traits, and actions of otyughs, these creatures are plants rather than aberrations. They attack until slain, whereupon each bursts into a cloud of sweet-smelling spores as its body dissolves back into the larger mass of fungi filling the cavern.
 
 Read the following to the players when the final creature is defeated.
 
@@ -253,11 +253,11 @@ Read the following to the players when the final creature is defeated.
 > The creature bursts like an overfull wineskin, releasing a clear ichor and a cloud of dusty spores. The deflating bulk of its body sinks back beneath the shimmering fungal field where you stand. Your vision starts to swim, and you feel dizzy and faint. Your limbs are numb and your legs no longer support you.
 ^594
 
-A successful DC 13 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana) or [Nature](/03_Mechanics/CLI/skills.md#Nature)) check confirms that the characters are in no physical danger but are entering rapport with Araumycos. The adventurers are [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) as the myconid spores fully take effect. Even creatures immune to sleep and paralysis are affected as the spores seep into mind and body. The characters collapse harmlessly to the soft surface of Araumycos, its fungus quickly spreading across them as the rapport begins. When this happens, continue with "Into the Gray Dream."
+A successful DC 13 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]] or [[/03_Mechanics/CLI/skills#Nature|Nature]]) check confirms that the characters are in no physical danger but are entering rapport with Araumycos. The adventurers are [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] as the myconid spores fully take effect. Even creatures immune to sleep and paralysis are affected as the spores seep into mind and body. The characters collapse harmlessly to the soft surface of Araumycos, its fungus quickly spreading across them as the rapport begins. When this happens, continue with "Into the Gray Dream."
 
 ## Into the Gray Dream
 
-The rapport with Araumycos affects the adventurers like an [astral projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md) spell, sending their astral bodies out into the Astral Plane where Araumycos's vast, dreaming mind resides. Their bodies remain [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) in suspended animation while they are projected into the Astral Plane. Read the following aloud to the players.
+The rapport with Araumycos affects the adventurers like an [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]] spell, sending their astral bodies out into the Astral Plane where Araumycos's vast, dreaming mind resides. Their bodies remain [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] in suspended animation while they are projected into the Astral Plane. Read the following aloud to the players.
 
 > [!readaloud] 
 > 
@@ -300,9 +300,9 @@ Before Zuggtmoy acts against the adventurers, the demon queen is distracted, tur
 
 As the psychic din awakens Araumycos from its trance, the shimmering colors piercing the silver of the Astral Plane flare even brighter. The following round, Araumycos enters into full rapport with the characters and their myconid allies. The entity reveals that Zuggtmoy has already infected its mind with her demonic influence, which Araumycos can feel growing in strength. It's only a matter of time before it falls to the demon queen's will. Focused but fearful, the entity asks the adventurers to cut out and destroy the diseased part of its mind before it's too late.
 
-The characters are guided to the far side of the suspended fungus cluster inside the skull, where a dark mass is spreading. The first time any character comes within 20 feet of the dark mass, it erupts with the effect of an [Evard's black tentacles](/03_Mechanics/CLI/spells/evards-black-tentacles-xphb.md) spell. The infected area of Araumycos's mind has AC 13, 100 hit points, and vulnerability to necrotic and psychic damage.
+The characters are guided to the far side of the suspended fungus cluster inside the skull, where a dark mass is spreading. The first time any character comes within 20 feet of the dark mass, it erupts with the effect of an [[/03_Mechanics/CLI/spells/evards-black-tentacles-xphb|Evard's black tentacles]] spell. The infected area of Araumycos's mind has AC 13, 100 hit points, and vulnerability to necrotic and psychic damage.
 
-When the infected area first takes damage, Zuggtmoy senses it and turns her attention away from Juiblex in an attempt to stop the characters. As she exerts her will over Araumycos, a burst of spores spreads out in a cloud from the infected area. Any creature within 20 feet of the infected area must make a successful DC 19 Constitution saving throw or take `3d6` poison damage and become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). While [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way, the creature takes `3d6` poison damage at the start of each of its turns. A [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+When the infected area first takes damage, Zuggtmoy senses it and turns her attention away from Juiblex in an attempt to stop the characters. As she exerts her will over Araumycos, a burst of spores spreads out in a cloud from the infected area. Any creature within 20 feet of the infected area must make a successful DC 19 Constitution saving throw or take `3d6` poison damage and become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]. While [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way, the creature takes `3d6` poison damage at the start of each of its turns. A [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 As the characters destroy more of the infected area, the view beyond the bounds of the skull chamber begins to darken. When the area reaches 0 hit points, a powerful psychic wind howls through the area. Each character must make a successful DC 15 Intelligence saving throw to avoid the mental effect of a psychic wind (see ""The Astral Plane"" in chapter 2 of the *Dungeon Master's Guide*). This psychic wind has no location effect, as the rapport ends thereafter and the characters awaken back in their physical bodies. Physical damage and ongoing effects suffered by their astral forms aren't carried over to the characters' physical bodies.
 
@@ -324,7 +324,7 @@ If the adventurers head toward the battle between the two demon lords after awak
 
 ## Fighting the Faceless Lord
 
-Under normal circumstances, [Juiblex](/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm.md) (see appendix D) would be an overwhelming foe. Fortunately for the adventurers, the Faceless Lord's battle with Zuggtmoy has weakened it. The characters might also have aid from allies, the newly freed myconids, and Araumycos in overcoming the demon lord.
+Under normal circumstances, [[/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm|Juiblex]] (see appendix D) would be an overwhelming foe. Fortunately for the adventurers, the Faceless Lord's battle with Zuggtmoy has weakened it. The characters might also have aid from allies, the newly freed myconids, and Araumycos in overcoming the demon lord.
 
 Apply the following penalties to Juiblex:
 
@@ -333,9 +333,9 @@ Apply the following penalties to Juiblex:
 - Its Eject Slime action has been used and must recharge.  
 - It has no lair actions or regional effects.  
 
-Basidia rallies thirty [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) and thirty-two [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) to fight alongside the characters. Their attacks are incapable of harming Juiblex. However, as they swarm around the demon lord, one time per round (as agreed upon by the players), a character who would be hit by an attack can have a myconid or a spore servant hit by the attack instead. The myconids can also fight off oozes, allowing the adventurers to focus their attention on the demon lord.
+Basidia rallies thirty [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]] and thirty-two [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] (see appendix C) to fight alongside the characters. Their attacks are incapable of harming Juiblex. However, as they swarm around the demon lord, one time per round (as agreed upon by the players), a character who would be hit by an attack can have a myconid or a spore servant hit by the attack instead. The myconids can also fight off oozes, allowing the adventurers to focus their attention on the demon lord.
 
-If the adventurers freed it from Zuggtmoy's influence, Araumycos aids them by releasing spores into the cavern, granting all living creatures in the area immunity to poison damage and the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition.
+If the adventurers freed it from Zuggtmoy's influence, Araumycos aids them by releasing spores into the cavern, granting all living creatures in the area immunity to poison damage and the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] condition.
 
 ## Victory or Defeat
 
@@ -343,7 +343,7 @@ The characters might overcome two demon lords if they are successful in this cha
 
 ### Escaping Defeat
 
-If the characters lose their battle against Juiblex, their best hope lies in [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s ritual. In the worst-case scenario where one or more heroes fall in the fight against the Faceless Lord, their allies might be able to carry them to safety so that they can be healed or restored to life.
+If the characters lose their battle against Juiblex, their best hope lies in [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]]'s ritual. In the worst-case scenario where one or more heroes fall in the fight against the Faceless Lord, their allies might be able to carry them to safety so that they can be healed or restored to life.
 
 If the adventurers flee from Juiblex, the demon lord pursues them. However, Araumycos (or its death throes) triggers a cave-in, allowing defeated characters to barely escape. Juiblex then turns its attention to feeding on Araumycos and is one of the demon lords drawn into battle by Vizeran's ritual in chapter 17.
 
@@ -353,7 +353,7 @@ If the adventurers succeed, they achieve a great victory with two demon lords ba
 
 The elimination of the Demon Queen of Fungi wins the adventurers the eternal gratitude of the surviving myconids of Neverlight Grove. Basidia quickly assumes leadership of the grove, taking steps to heal the minds of those myconids afflicted by demonic corruption. The myconids also declare their intention to cleanse their home of Zuggtmoy's lingering influence.
 
-The removal of Juiblex from the Underdark causes most oozes and related creatures to revert to their normal state. If [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) survived this long, he retreats to Blingdenstone, but it's a far easier matter for the deep gnomes to deal with him and his oozing minions without Juiblex around.
+The removal of Juiblex from the Underdark causes most oozes and related creatures to revert to their normal state. If [[/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota|the Pudding King]] survived this long, he retreats to Blingdenstone, but it's a far easier matter for the deep gnomes to deal with him and his oozing minions without Juiblex around.
 
 ## Developments
 
@@ -367,7 +367,7 @@ In addition to (or instead of) providing information to the adventurers, the las
 
 Additionally, the thirteen timmask mushrooms on the list of required components that Vizeran needs to create his *dark heart* talisman (see chapter 12) can be found in the aftermath of the failed wedding ceremony, sprouting in locations touched by Zuggtmoy or Juiblex.
 
-If the characters didn't collect traces of Yeenoghu's blood from the fallen goristro in chapter 14, any successful weapon attack against Juiblex in this chapter leaves traces of the Faceless Lord's blood on a character's weapon. Collecting this blood for [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) provides another component he needs to craft his *dark heart* talisman.
+If the characters didn't collect traces of Yeenoghu's blood from the fallen goristro in chapter 14, any successful weapon attack against Juiblex in this chapter leaves traces of the Faceless Lord's blood on a character's weapon. Collecting this blood for [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] provides another component he needs to craft his *dark heart* talisman.
 
 ### XP Awards
 

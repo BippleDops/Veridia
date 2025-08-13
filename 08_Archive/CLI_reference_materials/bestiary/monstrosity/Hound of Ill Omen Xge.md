@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
 
-# [Hound of Ill Omen](3-Mechanics\CLI\bestiary\monstrosity/hound-of-ill-omen-xge.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/hound-of-ill-omen-xge|Hound of Ill Omen]]
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock
@@ -46,20 +46,20 @@ world: Both
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The hound has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The hound has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "The hound appears with a number of temporary hit points equal to half\
       \ your sorcerer level."
@@ -81,7 +81,7 @@ world: Both
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
     "name": "Bite"
 "source":
   - "XGE"

@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[02_Worldbuilding/Lore/Crystal Festival Grounds|02 Worldbuilding/Lore/Crystal Festival Grounds]]
 
 
 ## Connections
@@ -28,7 +28,7 @@ tags:
 - [[Lamplight Alley]]
 - [[Screaming Gardens]]
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

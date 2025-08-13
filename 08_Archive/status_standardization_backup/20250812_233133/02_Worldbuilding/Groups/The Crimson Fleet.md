@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
 
 
 ## Connections

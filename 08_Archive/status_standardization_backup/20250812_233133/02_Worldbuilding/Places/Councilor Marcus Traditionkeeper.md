@@ -53,6 +53,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Councilor Marcus Traditionkeeper]]
+- [[02_Worldbuilding/Places/Councilor Marcus Traditionkeeper|02 Worldbuilding/Places/Councilor Marcus Traditionkeeper]]
 
 <!-- enriched: true -->

@@ -42,7 +42,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 - **[[Professor Aldric Crystalweaver]]**: Crystal expert studying the phenomenon
 - **[[Vault Keeper Eternal]]**: Ancient guardian who recognizes this threat from millennia past
 - **Scout Captain Vera Deepwatch**: Led the discovery expedition, now partially crystallized
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research may have inadvertently triggered this
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research may have inadvertently triggered this
 - **The Crystal Shepherd**: Mysterious entity that seems to guide the crystal growth
 - **[[The Deep Mother]]**: Ancient entity whose dreams may be connected to the crystal awakening
 - **[[Memory Merchant Zara Mindweave]]**: Trader whose memories contain crucial pre-crystallization data
@@ -349,11 +349,11 @@ If combat becomes necessary:
 - **[[Memory Tides]]**: Psychic phenomena affecting the crystallization process
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: The Oracle may have foreseen this crystalline threat
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: The Oracle may have foreseen this crystalline threat
 - **[[The Maw of Darkness]]**: Connection between reality-consuming entities
 - **[[Professor Aldric Crystalweaver]]**: Continued research into crystal applications
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Investigation into whether her research triggered the crisis
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal weapons trade may be connected to this phenomenon
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Investigation into whether her research triggered the crisis
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal weapons trade may be connected to this phenomenon
 - **[[The Crystal Throne]]**: Political faction that may exploit or cause the crisis
 
 ## DM Notes
@@ -390,9 +390,9 @@ If combat becomes necessary:
 
 - [[Aether Crystals]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -412,7 +412,7 @@ Legends speak of Crystalline Depths as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aether Crystals]]
+- [[02_Worldbuilding/Quests/Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
 - [[Shadow Surgeons Collective]]
 - [[The Seven Shards]]
 - [[Admiral Thorne Blackwater]]

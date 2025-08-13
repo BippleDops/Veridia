@@ -36,7 +36,7 @@ danger_level: Moderate
 
 ## Overview
 
-Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[02_Worldbuilding/Lore/The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
+Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
 
 The palace exists in a state of constant, gentle motion, its living coral walls breathing with the rhythm of the deep currents. Bioluminescent organisms integrated into the architecture provide an ethereal glow that shifts through the spectrum of deep-sea colors: blues, purples, and the occasional flash of silver or gold.
 
@@ -52,12 +52,12 @@ Unlike surface palaces built from dead stone, the Original Palace grows from a m
 - **Expansion potential:** New wings can be grown as needed
 
 ### The Five Spires
-The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[02_Worldbuilding/Places/Trade Union]] culture:
+The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]] culture:
 
 **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
 - **Function:** Throne rooms and formal audience chambers
-- **Notable Features:** The original [[02_Worldbuilding/Lore/The Coral Throne]], now empty but still resonant with ancient magic
+- **Notable Features:** The original [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]], now empty but still resonant with ancient magic
 - **Architecture:** Spiral chambers following the pattern of ocean currents
 
 **The Spire of Depths** (Northern Tower)
@@ -179,7 +179,7 @@ The palace serves as the hub for an ancient communication system that connects t
 - Occasionally picks up communications from other planes of existence
 
 **The Calling Chambers**
-- Specialized rooms where [[02_Worldbuilding/Places/Trade Union]] nobles can communicate with surface contacts
+- Specialized rooms where [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]] nobles can communicate with surface contacts
 - Protected by magical wards that prevent eavesdropping
 - Equipped with translation magic for cross-species communication
 - Used for diplomatic correspondence and intelligence gathering
@@ -248,7 +248,7 @@ A coded map has been discovered that allegedly leads to a hidden treasure vault 
 
 ## Connections to Other Locations
 
-### The [[02_Worldbuilding/Lore/The Coral Throne]] Chamber
+### The [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] Chamber
 The destroyed throne that sparked [[The Depth Accords]] quest was a newer creation, modeled after the Original Palace's design. Pieces of the original throne remain here, and they may hold the key to creating a permanent replacement.
 
 ### The [[Abyssal Courts]]
@@ -283,7 +283,7 @@ The palace's roots extend far deeper than most realize, connecting to an undergr
 ### Access Requirements
 - Official diplomatic credentials or invitation from the [[Abyssal Courts]]
 - Ability to survive at crushing depths (magic or natural adaptation required)
-- Respect for [[02_Worldbuilding/Places/Trade Union]] customs and protocols
+- Respect for [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]] customs and protocols
 - Payment of appropriate tribute or demonstration of worthy purpose
 
 ### Cultural Protocols
@@ -325,7 +325,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/The Original Palace|02 Worldbuilding/Places/The Original Palace]]
 
 <!-- enriched: true -->
 riched: true -->

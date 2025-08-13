@@ -23,7 +23,7 @@ world: Both
 
 | Layer | Layer Name | Ruler |
 |-------|------------|-------|
-| 1 | Avernus | [Zariel](/03_Mechanics/CLI/bestiary/npc/zariel-mpmm.md) |
+| 1 | Avernus | [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] |
 | 2 | Dis | Dispater |
 | 3 | Minauros | Mammon |
 | 4 | Phlegethos | Belial and Fierna |

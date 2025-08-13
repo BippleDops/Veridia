@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.569206'
 world: Both
 ---
 
-# [Nupperibo](3-Mechanics\CLI\bestiary\fiend/nupperibo-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/nupperibo-mpmm|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 
 > [!quote] A quote from Mordenkainen  
@@ -33,7 +33,7 @@ world: Both
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]], and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -59,12 +59,12 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
   - !!int "1"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 20 ft. (blind beyond this radius), passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"

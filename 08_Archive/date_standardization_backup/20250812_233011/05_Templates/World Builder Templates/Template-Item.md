@@ -79,7 +79,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Template_Item_Placeholder.png]]
+>> ![[Template_Item_Placeholder.png|Template Item Placeholder.png]]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
@@ -113,7 +113,7 @@ This is the items description.
 
 *Source:*
 
-# Features
+## Features
 
 Cost: `INPUT[number:cost]`
 
@@ -129,11 +129,11 @@ Category: `INPUT[template-item-type][:item_type]`
 **Trigger:** Does something trigger the activation?
 **Effect:** What happens when activated?
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here.  Secrets perhaps?
 
-# Connections
+## Connections
 Is the item linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
@@ -179,4 +179,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Group]]
+- [[05_Templates/World Builder Templates/Template-Group|05 Templates/World Builder Templates/Template Group]]

@@ -30,12 +30,12 @@ world: Both
 
 **Items in this group:**
 
-- [Potion of Hill Giant Strength](/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md)
-- [Potion of Frost Giant Strength](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md)
-- [Potion of Stone Giant Strength](/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg.md)
-- [Potion of Fire Giant Strength](/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md)
-- [Potion of Cloud Giant Strength](/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg.md)
-- [Potion of Storm Giant Strength](/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg.md)
+- [[/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg|Potion of Hill Giant Strength]]
+- [[/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg|Potion of Frost Giant Strength]]
+- [[/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg|Potion of Stone Giant Strength]]
+- [[/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg|Potion of Fire Giant Strength]]
+- [[/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg|Potion of Cloud Giant Strength]]
+- [[/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg|Potion of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

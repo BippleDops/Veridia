@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
+- [[02_Worldbuilding/Lore/The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]]
 
 
 ## Connections

@@ -20,64 +20,64 @@ world: Both
 
 ## Cantrip
 
-- [Acid Splash](/03_Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") 
-- [Blade Ward](/03_Mechanics/CLI/spells/blade-ward-xphb.md "XPHB") 
-- [Chill Touch](/03_Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") 
-- [Control Flames](/03_Mechanics/CLI/spells/control-flames-xge.md "XGE") 
-- [Create Bonfire](/03_Mechanics/CLI/spells/create-bonfire-xge.md "XGE") 
-- [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md "XPHB") 
-- [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") 
-- [Eldritch Blast](/03_Mechanics/CLI/spells/eldritch-blast-xphb.md "XPHB") 
-- [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md "XPHB") 
-- [Fire Bolt](/03_Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") 
-- [Friends](/03_Mechanics/CLI/spells/friends-xphb.md "XPHB") 
-- [Frostbite](/03_Mechanics/CLI/spells/frostbite-xge.md "XGE") 
-- [Guidance](/03_Mechanics/CLI/spells/guidance-xphb.md "XPHB") 
-- [Gust](/03_Mechanics/CLI/spells/gust-xge.md "XGE") 
-- [Infestation](/03_Mechanics/CLI/spells/infestation-xge.md "XGE") 
-- [Light](/03_Mechanics/CLI/spells/light-xphb.md "XPHB") 
-- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") 
-- [Magic Stone](/03_Mechanics/CLI/spells/magic-stone-xge.md "XGE") 
-- [Mending](/03_Mechanics/CLI/spells/mending-xphb.md "XPHB") 
-- [Message](/03_Mechanics/CLI/spells/message-xphb.md "XPHB") 
-- [Mind Sliver](/03_Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") 
-- [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") 
-- [Mold Earth](/03_Mechanics/CLI/spells/mold-earth-xge.md "XGE") 
-- [Poison Spray](/03_Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
-- [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") 
-- [Primal Savagery](/03_Mechanics/CLI/spells/primal-savagery-xge.md "XGE") 
-- [Produce Flame](/03_Mechanics/CLI/spells/produce-flame-xphb.md "XPHB") 
-- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") 
-- [Resistance](/03_Mechanics/CLI/spells/resistance-xphb.md "XPHB") 
-- [Sacred Flame](/03_Mechanics/CLI/spells/sacred-flame-xphb.md "XPHB") 
-- [Shape Water](/03_Mechanics/CLI/spells/shape-water-xge.md "XGE") 
-- [Shillelagh](/03_Mechanics/CLI/spells/shillelagh-xphb.md "XPHB") 
-- [Shocking Grasp](/03_Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") 
-- [Sorcerous Burst](/03_Mechanics/CLI/spells/sorcerous-burst-xphb.md "XPHB") 
-- [Spare the Dying](/03_Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB") 
-- [Starry Wisp](/03_Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") 
-- [Thorn Whip](/03_Mechanics/CLI/spells/thorn-whip-xphb.md "XPHB") 
-- [Thunderclap](/03_Mechanics/CLI/spells/thunderclap-xphb.md "XPHB") 
-- [Toll the Dead](/03_Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB") 
-- [True Strike](/03_Mechanics/CLI/spells/true-strike-xphb.md "XPHB") 
-- [Vicious Mockery](/03_Mechanics/CLI/spells/vicious-mockery-xphb.md "XPHB") 
-- [Word of Radiance](/03_Mechanics/CLI/spells/word-of-radiance-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/acid-splash-xphb "XPHB"|Acid Splash]] 
+- [[/03_Mechanics/CLI/spells/blade-ward-xphb "XPHB"|Blade Ward]] 
+- [[/03_Mechanics/CLI/spells/chill-touch-xphb "XPHB"|Chill Touch]] 
+- [[/03_Mechanics/CLI/spells/control-flames-xge "XGE"|Control Flames]] 
+- [[/03_Mechanics/CLI/spells/create-bonfire-xge "XGE"|Create Bonfire]] 
+- [[/03_Mechanics/CLI/spells/dancing-lights-xphb "XPHB"|Dancing Lights]] 
+- [[/03_Mechanics/CLI/spells/druidcraft-xphb "XPHB"|Druidcraft]] 
+- [[/03_Mechanics/CLI/spells/eldritch-blast-xphb "XPHB"|Eldritch Blast]] 
+- [[/03_Mechanics/CLI/spells/elementalism-xphb "XPHB"|Elementalism]] 
+- [[/03_Mechanics/CLI/spells/fire-bolt-xphb "XPHB"|Fire Bolt]] 
+- [[/03_Mechanics/CLI/spells/friends-xphb "XPHB"|Friends]] 
+- [[/03_Mechanics/CLI/spells/frostbite-xge "XGE"|Frostbite]] 
+- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]] 
+- [[/03_Mechanics/CLI/spells/gust-xge "XGE"|Gust]] 
+- [[/03_Mechanics/CLI/spells/infestation-xge "XGE"|Infestation]] 
+- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] 
+- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] 
+- [[/03_Mechanics/CLI/spells/magic-stone-xge "XGE"|Magic Stone]] 
+- [[/03_Mechanics/CLI/spells/mending-xphb "XPHB"|Mending]] 
+- [[/03_Mechanics/CLI/spells/message-xphb "XPHB"|Message]] 
+- [[/03_Mechanics/CLI/spells/mind-sliver-xphb "XPHB"|Mind Sliver]] 
+- [[/03_Mechanics/CLI/spells/minor-illusion-xphb "XPHB"|Minor Illusion]] 
+- [[/03_Mechanics/CLI/spells/mold-earth-xge "XGE"|Mold Earth]] 
+- [[/03_Mechanics/CLI/spells/poison-spray-xphb "XPHB"|Poison Spray]] 
+- [[/03_Mechanics/CLI/spells/prestidigitation-xphb "XPHB"|Prestidigitation]] 
+- [[/03_Mechanics/CLI/spells/primal-savagery-xge "XGE"|Primal Savagery]] 
+- [[/03_Mechanics/CLI/spells/produce-flame-xphb "XPHB"|Produce Flame]] 
+- [[/03_Mechanics/CLI/spells/ray-of-frost-xphb "XPHB"|Ray of Frost]] 
+- [[/03_Mechanics/CLI/spells/resistance-xphb "XPHB"|Resistance]] 
+- [[/03_Mechanics/CLI/spells/sacred-flame-xphb "XPHB"|Sacred Flame]] 
+- [[/03_Mechanics/CLI/spells/shape-water-xge "XGE"|Shape Water]] 
+- [[/03_Mechanics/CLI/spells/shillelagh-xphb "XPHB"|Shillelagh]] 
+- [[/03_Mechanics/CLI/spells/shocking-grasp-xphb "XPHB"|Shocking Grasp]] 
+- [[/03_Mechanics/CLI/spells/sorcerous-burst-xphb "XPHB"|Sorcerous Burst]] 
+- [[/03_Mechanics/CLI/spells/spare-the-dying-xphb "XPHB"|Spare the Dying]] 
+- [[/03_Mechanics/CLI/spells/starry-wisp-xphb "XPHB"|Starry Wisp]] 
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] 
+- [[/03_Mechanics/CLI/spells/thorn-whip-xphb "XPHB"|Thorn Whip]] 
+- [[/03_Mechanics/CLI/spells/thunderclap-xphb "XPHB"|Thunderclap]] 
+- [[/03_Mechanics/CLI/spells/toll-the-dead-xphb "XPHB"|Toll the Dead]] 
+- [[/03_Mechanics/CLI/spells/true-strike-xphb "XPHB"|True Strike]] 
+- [[/03_Mechanics/CLI/spells/vicious-mockery-xphb "XPHB"|Vicious Mockery]] 
+- [[/03_Mechanics/CLI/spells/word-of-radiance-xphb "XPHB"|Word of Radiance]] 
 
 ## 1st Level
 
-- [Alarm](/03_Mechanics/CLI/spells/alarm-xphb.md "XPHB") 
-- [Ceremony](/03_Mechanics/CLI/spells/ceremony-xge.md "XGE") 
-- [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB") 
-- [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
-- [Detect Poison and Disease](/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb.md "XPHB") 
-- [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md "XPHB") 
-- [Identify](/03_Mechanics/CLI/spells/identify-xphb.md "XPHB") 
-- [Illusory Script](/03_Mechanics/CLI/spells/illusory-script-xphb.md "XPHB") 
-- [Purify Food and Drink](/03_Mechanics/CLI/spells/purify-food-and-drink-xphb.md "XPHB") 
-- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
-- [Tenser's Floating Disk](/03_Mechanics/CLI/spells/tensers-floating-disk-xphb.md "XPHB") 
-- [Unseen Servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/alarm-xphb "XPHB"|Alarm]] 
+- [[/03_Mechanics/CLI/spells/ceremony-xge "XGE"|Ceremony]] 
+- [[/03_Mechanics/CLI/spells/comprehend-languages-xphb "XPHB"|Comprehend Languages]] 
+- [[/03_Mechanics/CLI/spells/detect-magic-xphb "XPHB"|Detect Magic]] 
+- [[/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb "XPHB"|Detect Poison and Disease]] 
+- [[/03_Mechanics/CLI/spells/find-familiar-xphb "XPHB"|Find Familiar]] 
+- [[/03_Mechanics/CLI/spells/identify-xphb "XPHB"|Identify]] 
+- [[/03_Mechanics/CLI/spells/illusory-script-xphb "XPHB"|Illusory Script]] 
+- [[/03_Mechanics/CLI/spells/purify-food-and-drink-xphb "XPHB"|Purify Food and Drink]] 
+- [[/03_Mechanics/CLI/spells/speak-with-animals-xphb "XPHB"|Speak with Animals]] 
+- [[/03_Mechanics/CLI/spells/tensers-floating-disk-xphb "XPHB"|Tenser's Floating Disk]] 
+- [[/03_Mechanics/CLI/spells/unseen-servant-xphb "XPHB"|Unseen Servant]]
 
 ## Player-Facing Summary
 

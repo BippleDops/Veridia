@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Fiend Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
+*[[./warlock-xphb|Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -69,31 +69,31 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md), [Command](/03_Mechanics/CLI/spells/command-xphb.md), [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md), [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) |
-| 5 | [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md), [Stinking Cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md) |
-| 7 | [Fire Shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md), [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9 | [Geas](/03_Mechanics/CLI/spells/geas-xphb.md), [Insect Plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md) |
+| 3 | [[/03_Mechanics/CLI/spells/burning-hands-xphb|Burning Hands]], [[/03_Mechanics/CLI/spells/command-xphb|Command]], [[/03_Mechanics/CLI/spells/scorching-ray-xphb|Scorching Ray]], [[/03_Mechanics/CLI/spells/suggestion-xphb|Suggestion]] |
+| 5 | [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]], [[/03_Mechanics/CLI/spells/stinking-cloud-xphb|Stinking Cloud]] |
+| 7 | [[/03_Mechanics/CLI/spells/fire-shield-xphb|Fire Shield]], [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|Wall of Fire]] |
+| 9 | [[/03_Mechanics/CLI/spells/geas-xphb|Geas]], [[/03_Mechanics/CLI/spells/insect-plague-xphb|Insect Plague]] |
 ^fiend-spells
 
 ### Dark One's Blessing (Level 3)
 
-When you reduce an enemy to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), you gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Charisma modifier plus your Warlock level (minimum of 1 [Temporary Hit Point](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
+When you reduce an enemy to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], you gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Point]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].
 
 ### Dark One's Own Luck (Level 6)
 
 You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `d10` to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 
-Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ## Player-Facing Summary
 

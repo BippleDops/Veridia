@@ -296,7 +296,7 @@ The Heart represents the philosophy that true power comes from giving rather tha
 
 ## Connections
 
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 
 ## Player-Facing Summary
 
@@ -312,6 +312,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Heart of Oceanus]]
+- [[02_Worldbuilding/People/The Heart of Oceanus|02 Worldbuilding/People/The Heart Of Oceanus]]
 
 <!-- enriched: true -->

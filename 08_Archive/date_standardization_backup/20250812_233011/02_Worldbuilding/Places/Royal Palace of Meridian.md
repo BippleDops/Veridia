@@ -181,6 +181,6 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace of Meridian]]
+- [[02_Worldbuilding/Places/Royal Palace of Meridian|02 Worldbuilding/Places/Royal Palace Of Meridian]]
 
 <!-- enriched: true -->

@@ -25,15 +25,15 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [Ear Horn of Hearing](/03_Mechanics/CLI/items/ear-horn-of-hearing-xdmg.md) |
-| 09–28 | [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| 29–36 | [Pot of Awakening](/03_Mechanics/CLI/items/pot-of-awakening-xdmg.md) |
-| 37–44 | [Ruby of the War Mage](/03_Mechanics/CLI/items/ruby-of-the-war-mage-xdmg.md) |
-| 45–52 | [Shield of Expression](/03_Mechanics/CLI/items/shield-of-expression-xdmg.md) |
-| 53–60 | [Smoldering Armor](/03_Mechanics/CLI/items/smoldering-armor-xdmg.md) |
-| 61–80 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([cantrip](/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg.md) or [level 1](/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg.md) spell) |
-| 81–90 | [Staff of Adornment](/03_Mechanics/CLI/items/staff-of-adornment-xdmg.md) |
-| 91–00 | [Staff of Flowers](/03_Mechanics/CLI/items/staff-of-flowers-xdmg.md) |
+| 01–08 | [[/03_Mechanics/CLI/items/ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
+| 09–28 | [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]] |
+| 29–36 | [[/03_Mechanics/CLI/items/pot-of-awakening-xdmg|Pot of Awakening]] |
+| 37–44 | [[/03_Mechanics/CLI/items/ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
+| 45–52 | [[/03_Mechanics/CLI/items/shield-of-expression-xdmg|Shield of Expression]] |
+| 53–60 | [[/03_Mechanics/CLI/items/smoldering-armor-xdmg|Smoldering Armor]] |
+| 61–80 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg|cantrip]] or [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|level 1]] spell) |
+| 81–90 | [[/03_Mechanics/CLI/items/staff-of-adornment-xdmg|Staff of Adornment]] |
+| 91–00 | [[/03_Mechanics/CLI/items/staff-of-flowers-xdmg|Staff of Flowers]] |
 ^relics-common
 
 **Relics - Uncommon**
@@ -42,23 +42,23 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–05 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (cantrip or level 1 spell) |
-| 06–10 | [Keoghtom's Ointment](/03_Mechanics/CLI/items/keoghtoms-ointment-xdmg.md) |
-| 11–15 | [Mariner's Armor](/03_Mechanics/CLI/items/mariners-armor-xdmg.md) |
-| 16–20 | [Nature's Mantle](/03_Mechanics/CLI/items/natures-mantle-xdmg.md) |
-| 21–25 | [Pearl of Power](/03_Mechanics/CLI/items/pearl-of-power-xdmg.md) |
-| 26–30 | [Periapt of Health](/03_Mechanics/CLI/items/periapt-of-health-xdmg.md) |
-| 31–35 | [Periapt of Wound Closure](/03_Mechanics/CLI/items/periapt-of-wound-closure-xdmg.md) |
-| 36–40 | [Potion of Animal Friendship](/03_Mechanics/CLI/items/potion-of-animal-friendship-xdmg.md) |
-| 41–55 | [Potion of Healing (greater)](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) |
-| 56–60 | [Potion of Resistance](/03_Mechanics/CLI/items/potion-of-resistance-xdmg.md) |
-| 61–65 | [Ring of Water Walking](/03_Mechanics/CLI/items/ring-of-water-walking-xdmg.md) |
-| 66–70 | [Sending Stones](/03_Mechanics/CLI/items/sending-stones-xdmg.md) |
-| 71–80 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 2](/03_Mechanics/CLI/items/spell-scroll-level-2-xdmg.md) or [level 3](/03_Mechanics/CLI/items/spell-scroll-level-3-xdmg.md) spell) |
-| 81–85 | [Staff of the Adder](/03_Mechanics/CLI/items/staff-of-the-adder-xdmg.md) |
-| 86–90 | [Staff of the Python](/03_Mechanics/CLI/items/staff-of-the-python-xdmg.md) |
-| 91–95 | [Wand of Magic Detection](/03_Mechanics/CLI/items/wand-of-magic-detection-xdmg.md) |
-| 96–00 | [Wand of the War Mage, +1](/03_Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md) |
+| 01–05 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (cantrip or level 1 spell) |
+| 06–10 | [[/03_Mechanics/CLI/items/keoghtoms-ointment-xdmg|Keoghtom's Ointment]] |
+| 11–15 | [[/03_Mechanics/CLI/items/mariners-armor-xdmg|Mariner's Armor]] |
+| 16–20 | [[/03_Mechanics/CLI/items/natures-mantle-xdmg|Nature's Mantle]] |
+| 21–25 | [[/03_Mechanics/CLI/items/pearl-of-power-xdmg|Pearl of Power]] |
+| 26–30 | [[/03_Mechanics/CLI/items/periapt-of-health-xdmg|Periapt of Health]] |
+| 31–35 | [[/03_Mechanics/CLI/items/periapt-of-wound-closure-xdmg|Periapt of Wound Closure]] |
+| 36–40 | [[/03_Mechanics/CLI/items/potion-of-animal-friendship-xdmg|Potion of Animal Friendship]] |
+| 41–55 | [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|Potion of Healing (greater)]] |
+| 56–60 | [[/03_Mechanics/CLI/items/potion-of-resistance-xdmg|Potion of Resistance]] |
+| 61–65 | [[/03_Mechanics/CLI/items/ring-of-water-walking-xdmg|Ring of Water Walking]] |
+| 66–70 | [[/03_Mechanics/CLI/items/sending-stones-xdmg|Sending Stones]] |
+| 71–80 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-2-xdmg|level 2]] or [[/03_Mechanics/CLI/items/spell-scroll-level-3-xdmg|level 3]] spell) |
+| 81–85 | [[/03_Mechanics/CLI/items/staff-of-the-adder-xdmg|Staff of the Adder]] |
+| 86–90 | [[/03_Mechanics/CLI/items/staff-of-the-python-xdmg|Staff of the Python]] |
+| 91–95 | [[/03_Mechanics/CLI/items/wand-of-magic-detection-xdmg|Wand of Magic Detection]] |
+| 96–00 | [[/03_Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg|Wand of the War Mage, +1]] |
 ^relics-uncommon
 
 **Relics - Rare**
@@ -67,36 +67,36 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Amulet of Health](/03_Mechanics/CLI/items/amulet-of-health-xdmg.md) |
-| 04–07 | [Armor, +1](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 08–09 | [Bowl of Commanding Water Elementals](/03_Mechanics/CLI/items/bowl-of-commanding-water-elementals-xdmg.md) |
-| 10–11 | [Brazier of Commanding Fire Elementals](/03_Mechanics/CLI/items/brazier-of-commanding-fire-elementals-xdmg.md) |
-| 12–13 | [Censer of Controlling Air Elementals](/03_Mechanics/CLI/items/censer-of-controlling-air-elementals-xdmg.md) |
-| 14–16 | [Elixir of Health](/03_Mechanics/CLI/items/elixir-of-health-xdmg.md) |
-| 17–19 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 2 or 3 spell) |
-| 20–22 | [Horn of Blasting](/03_Mechanics/CLI/items/horn-of-blasting-xdmg.md) |
-| 23–25 | [Horn of Valhalla](/03_Mechanics/CLI/items/horn-of-valhalla-xdmg.md) ([brass](/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg.md) or [silver](/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md)) |
-| 26–28 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([reserve](/03_Mechanics/CLI/items/ioun-stone-reserve-xdmg.md) or [sustenance](/03_Mechanics/CLI/items/ioun-stone-sustenance-xdmg.md)) |
-| 29–31 | [Mace of Disruption](/03_Mechanics/CLI/items/mace-of-disruption-xdmg.md) |
-| 32–34 | [Mace of Smiting](/03_Mechanics/CLI/items/mace-of-smiting-xdmg.md) |
-| 35–37 | [Mace of Terror](/03_Mechanics/CLI/items/mace-of-terror-xdmg.md) |
-| 38–40 | [Necklace of Prayer Beads](/03_Mechanics/CLI/items/necklace-of-prayer-beads-xdmg.md) |
-| 41–43 | [Periapt of Proof against Poison](/03_Mechanics/CLI/items/periapt-of-proof-against-poison-xdmg.md) |
-| 44–51 | [Potion of Healing (superior)](/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) |
-| 52–54 | [Ring of Animal Influence](/03_Mechanics/CLI/items/ring-of-animal-influence-xdmg.md) |
-| 55–58 | [Ring of Resistance](/03_Mechanics/CLI/items/ring-of-resistance-xdmg.md) |
-| 59–61 | [Ring of Spell Storing](/03_Mechanics/CLI/items/ring-of-spell-storing-xdmg.md) |
-| 62–65 | [Scroll of Protection](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md) |
-| 66–73 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 4](/03_Mechanics/CLI/items/spell-scroll-level-4-xdmg.md) or [level 5](/03_Mechanics/CLI/items/spell-scroll-level-5-xdmg.md) spell) |
-| 74–76 | [Staff of Charming](/03_Mechanics/CLI/items/staff-of-charming-xdmg.md) |
-| 77–79 | [Staff of Healing](/03_Mechanics/CLI/items/staff-of-healing-xdmg.md) |
-| 80–82 | [Staff of Swarming Insects](/03_Mechanics/CLI/items/staff-of-swarming-insects-xdmg.md) |
-| 83–85 | [Staff of the Woodlands](/03_Mechanics/CLI/items/staff-of-the-woodlands-xdmg.md) |
-| 86–88 | [Staff of Withering](/03_Mechanics/CLI/items/staff-of-withering-xdmg.md) |
-| 89–90 | [Stone of Controlling Earth Elementals](/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md) |
-| 91–93 | [Tentacle Rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md) |
-| 94–96 | [Wand of Paralysis](/03_Mechanics/CLI/items/wand-of-paralysis-xdmg.md) |
-| 97–00 | [Wand of the War Mage, +2](/03_Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg.md) |
+| 01–03 | [[/03_Mechanics/CLI/items/amulet-of-health-xdmg|Amulet of Health]] |
+| 04–07 | [[/03_Mechanics/CLI/items/1-armor-xdmg|Armor, +1]] |
+| 08–09 | [[/03_Mechanics/CLI/items/bowl-of-commanding-water-elementals-xdmg|Bowl of Commanding Water Elementals]] |
+| 10–11 | [[/03_Mechanics/CLI/items/brazier-of-commanding-fire-elementals-xdmg|Brazier of Commanding Fire Elementals]] |
+| 12–13 | [[/03_Mechanics/CLI/items/censer-of-controlling-air-elementals-xdmg|Censer of Controlling Air Elementals]] |
+| 14–16 | [[/03_Mechanics/CLI/items/elixir-of-health-xdmg|Elixir of Health]] |
+| 17–19 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 2 or 3 spell) |
+| 20–22 | [[/03_Mechanics/CLI/items/horn-of-blasting-xdmg|Horn of Blasting]] |
+| 23–25 | [[/03_Mechanics/CLI/items/horn-of-valhalla-xdmg|Horn of Valhalla]] ([[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|brass]] or [[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|silver]]) |
+| 26–28 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-reserve-xdmg|reserve]] or [[/03_Mechanics/CLI/items/ioun-stone-sustenance-xdmg|sustenance]]) |
+| 29–31 | [[/03_Mechanics/CLI/items/mace-of-disruption-xdmg|Mace of Disruption]] |
+| 32–34 | [[/03_Mechanics/CLI/items/mace-of-smiting-xdmg|Mace of Smiting]] |
+| 35–37 | [[/03_Mechanics/CLI/items/mace-of-terror-xdmg|Mace of Terror]] |
+| 38–40 | [[/03_Mechanics/CLI/items/necklace-of-prayer-beads-xdmg|Necklace of Prayer Beads]] |
+| 41–43 | [[/03_Mechanics/CLI/items/periapt-of-proof-against-poison-xdmg|Periapt of Proof against Poison]] |
+| 44–51 | [[/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg|Potion of Healing (superior)]] |
+| 52–54 | [[/03_Mechanics/CLI/items/ring-of-animal-influence-xdmg|Ring of Animal Influence]] |
+| 55–58 | [[/03_Mechanics/CLI/items/ring-of-resistance-xdmg|Ring of Resistance]] |
+| 59–61 | [[/03_Mechanics/CLI/items/ring-of-spell-storing-xdmg|Ring of Spell Storing]] |
+| 62–65 | [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|Scroll of Protection]] |
+| 66–73 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-4-xdmg|level 4]] or [[/03_Mechanics/CLI/items/spell-scroll-level-5-xdmg|level 5]] spell) |
+| 74–76 | [[/03_Mechanics/CLI/items/staff-of-charming-xdmg|Staff of Charming]] |
+| 77–79 | [[/03_Mechanics/CLI/items/staff-of-healing-xdmg|Staff of Healing]] |
+| 80–82 | [[/03_Mechanics/CLI/items/staff-of-swarming-insects-xdmg|Staff of Swarming Insects]] |
+| 83–85 | [[/03_Mechanics/CLI/items/staff-of-the-woodlands-xdmg|Staff of the Woodlands]] |
+| 86–88 | [[/03_Mechanics/CLI/items/staff-of-withering-xdmg|Staff of Withering]] |
+| 89–90 | [[/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg|Stone of Controlling Earth Elementals]] |
+| 91–93 | [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|Tentacle Rod]] |
+| 94–96 | [[/03_Mechanics/CLI/items/wand-of-paralysis-xdmg|Wand of Paralysis]] |
+| 97–00 | [[/03_Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg|Wand of the War Mage, +2]] |
 ^relics-rare
 
 **Relics - Very Rare**
@@ -105,24 +105,24 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–05 | [Armor, +2](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 06–10 | [Candle of Invocation](/03_Mechanics/CLI/items/candle-of-invocation-xdmg.md) |
-| 11–15 | [Cauldron of Rebirth](/03_Mechanics/CLI/items/cauldron-of-rebirth-xdmg.md) |
-| 16–20 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 4 or 5 spell) |
-| 21–25 | [Horn of Valhalla (bronze)](/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg.md) |
-| 26–30 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([insight](/03_Mechanics/CLI/items/ioun-stone-insight-xdmg.md)) |
-| 31–35 | [Manual of Bodily Health](/03_Mechanics/CLI/items/manual-of-bodily-health-xdmg.md) |
-| 36–43 | [Potion of Healing (supreme)](/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) |
-| 44–50 | [Potion of Vitality](/03_Mechanics/CLI/items/potion-of-vitality-xdmg.md) |
-| 51–55 | [Rod of Alertness](/03_Mechanics/CLI/items/rod-of-alertness-xdmg.md) |
-| 56–65 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 6](/03_Mechanics/CLI/items/spell-scroll-level-6-xdmg.md), [level 7](/03_Mechanics/CLI/items/spell-scroll-level-7-xdmg.md), or [level 8](/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg.md) spell) |
-| 66–70 | [Spirit Board](/03_Mechanics/CLI/items/spirit-board-xdmg.md) |
-| 71–75 | [Staff of Fire](/03_Mechanics/CLI/items/staff-of-fire-xdmg.md) |
-| 76–80 | [Staff of Frost](/03_Mechanics/CLI/items/staff-of-frost-xdmg.md) |
-| 81–85 | [Staff of Striking](/03_Mechanics/CLI/items/staff-of-striking-xdmg.md) |
-| 86–90 | [Staff of Thunder and Lightning](/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg.md) |
-| 91–95 | [Tome of Understanding](/03_Mechanics/CLI/items/tome-of-understanding-xdmg.md) |
-| 96–00 | [Wand of the War Mage, +3](/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg.md) |
+| 01–05 | [[/03_Mechanics/CLI/items/2-armor-xdmg|Armor, +2]] |
+| 06–10 | [[/03_Mechanics/CLI/items/candle-of-invocation-xdmg|Candle of Invocation]] |
+| 11–15 | [[/03_Mechanics/CLI/items/cauldron-of-rebirth-xdmg|Cauldron of Rebirth]] |
+| 16–20 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 4 or 5 spell) |
+| 21–25 | [[/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg|Horn of Valhalla (bronze)]] |
+| 26–30 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-insight-xdmg|insight]]) |
+| 31–35 | [[/03_Mechanics/CLI/items/manual-of-bodily-health-xdmg|Manual of Bodily Health]] |
+| 36–43 | [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Potion of Healing (supreme)]] |
+| 44–50 | [[/03_Mechanics/CLI/items/potion-of-vitality-xdmg|Potion of Vitality]] |
+| 51–55 | [[/03_Mechanics/CLI/items/rod-of-alertness-xdmg|Rod of Alertness]] |
+| 56–65 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-6-xdmg|level 6]], [[/03_Mechanics/CLI/items/spell-scroll-level-7-xdmg|level 7]], or [[/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg|level 8]] spell) |
+| 66–70 | [[/03_Mechanics/CLI/items/spirit-board-xdmg|Spirit Board]] |
+| 71–75 | [[/03_Mechanics/CLI/items/staff-of-fire-xdmg|Staff of Fire]] |
+| 76–80 | [[/03_Mechanics/CLI/items/staff-of-frost-xdmg|Staff of Frost]] |
+| 81–85 | [[/03_Mechanics/CLI/items/staff-of-striking-xdmg|Staff of Striking]] |
+| 86–90 | [[/03_Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg|Staff of Thunder and Lightning]] |
+| 91–95 | [[/03_Mechanics/CLI/items/tome-of-understanding-xdmg|Tome of Understanding]] |
+| 96–00 | [[/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg|Wand of the War Mage, +3]] |
 ^relics-very-rare
 
 **Relics - Legendary**
@@ -131,17 +131,17 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [Armor of Invulnerability](/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg.md) |
-| 09–18 | [Armor, +3](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 19–27 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 6, 7, or 8 spell) |
-| 28–36 | [Holy Avenger](/03_Mechanics/CLI/items/holy-avenger-xdmg.md) |
-| 37–45 | [Horn of Valhalla (iron)](/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg.md) |
-| 46–54 | [Rod of Resurrection](/03_Mechanics/CLI/items/rod-of-resurrection-xdmg.md) |
-| 55–63 | [Scarab of Protection](/03_Mechanics/CLI/items/scarab-of-protection-xdmg.md) |
-| 64–72 | [Scroll of Titan Summoning](/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg.md) |
-| 73–80 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 9](/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg.md) spell) |
-| 81–90 | [Talisman of Pure Good](/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg.md) |
-| 91–00 | [Talisman of Ultimate Evil](/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg.md) |
+| 01–08 | [[/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
+| 09–18 | [[/03_Mechanics/CLI/items/3-armor-xdmg|Armor, +3]] |
+| 19–27 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–36 | [[/03_Mechanics/CLI/items/holy-avenger-xdmg|Holy Avenger]] |
+| 37–45 | [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
+| 46–54 | [[/03_Mechanics/CLI/items/rod-of-resurrection-xdmg|Rod of Resurrection]] |
+| 55–63 | [[/03_Mechanics/CLI/items/scarab-of-protection-xdmg|Scarab of Protection]] |
+| 64–72 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]] |
+| 73–80 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg|level 9]] spell) |
+| 81–90 | [[/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg|Talisman of Pure Good]] |
+| 91–00 | [[/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]] |
 ^relics-legendary
 
 ## Player-Facing Summary

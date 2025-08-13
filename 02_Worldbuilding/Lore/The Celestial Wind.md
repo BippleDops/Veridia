@@ -40,4 +40,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]

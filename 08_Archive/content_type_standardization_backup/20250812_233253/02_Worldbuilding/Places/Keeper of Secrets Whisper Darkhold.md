@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of Secrets Whisper Darkhold]]
+- [[02_Worldbuilding/Places/Keeper of Secrets Whisper Darkhold|02 Worldbuilding/Places/Keeper Of Secrets Whisper Darkhold]]
 
 <!-- enriched: true -->
 

@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]
 
 
 ## Connections

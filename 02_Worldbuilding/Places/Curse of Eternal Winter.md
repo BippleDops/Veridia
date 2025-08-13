@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Curse of Eternal Winter]]
+- [[02_Worldbuilding/Places/Curse of Eternal Winter|02 Worldbuilding/Places/Curse Of Eternal Winter]]
 
 <!-- enriched: true -->
 

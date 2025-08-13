@@ -34,7 +34,7 @@ world: Both
 
 ## Overview
 
-The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
+The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
 
 The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resonance that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 
@@ -458,7 +458,7 @@ Initiative performance can affect [[Reputation System]] standings:
 - **[[Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
 - **[[Environmental Hazards]]**: Environmental effects on initiative
 - **[[Temporal Distortion Zones]]**: Time effects on turn order
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
 - **[[Reputation System]]**: Social effects of combat performance
 
 ### Combat Integration
@@ -512,7 +512,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Aquabyssos-Survival-Mechanics]]
 - [[Crystal Forest]]
 - [[Crystal-Corruption-Tracking-Sheet]]

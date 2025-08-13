@@ -33,7 +33,7 @@ obsidianUIMode: preview
 
 ## Cross-References
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
-- [[03_Mechanics/Living_Economy_Syste]]
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
 
 ## Player-Facing Summary
 

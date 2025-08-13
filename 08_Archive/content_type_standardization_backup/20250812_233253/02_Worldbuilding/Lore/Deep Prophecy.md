@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/Lore/Vorthak|02 Worldbuilding/Lore/Vorthak]]
 
 
 ## Connections

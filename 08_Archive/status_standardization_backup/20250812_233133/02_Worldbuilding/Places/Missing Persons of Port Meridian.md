@@ -166,6 +166,6 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Missing Persons of Port Meridian]]
+- [[02_Worldbuilding/Places/Missing Persons of Port Meridian|02 Worldbuilding/Places/Missing Persons Of Port Meridian]]
 
 <!-- enriched: true -->

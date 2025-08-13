@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-inkling-mascot-scc-inkling-mascot-scc.svg)
 
-# [Inkling Mascot](3-Mechanics\CLI\bestiary\ooze/inkling-mascot-scc.md)
+# [[3-Mechanics\CLI\bestiary\ooze/inkling-mascot-scc|Inkling Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 195*  
 
 Squelching slightly as they wriggle through the air, inklings serve as the mascots for Silverquill College. These living blobs of shadowy ink are often summoned by professors who require assistance in their writing workshops—the inklings provide endless ink—or by lonely students hoping for company as they study. However, inklings can just as readily support mages in combat, disrupting opponents' sight.
@@ -47,12 +47,12 @@ Squelching slightly as they wriggle through the air, inklings serve as the masco
   - !!int "11"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "psychic"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
@@ -65,7 +65,7 @@ Squelching slightly as they wriggle through the air, inklings serve as the masco
       \ + 3) psychic damage."
     "name": "Blot"
   - "desc": "The inkling sprays viscous ink at one creature within 15 feet of itself.\
-      \ The target must succeed on a DC 12 Constitution saving throw or be [blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ The target must succeed on a DC 12 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Blinded|blinded]]\
       \ until the end of the inkling's next turn."
     "name": "Ink Spray (1/Day)"
 "bonus_actions":

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Root Network]]
+- [[02_Worldbuilding/Places/Quest - The Root Network|02 Worldbuilding/Places/Quest The Root Network]]
 
 
 ## Connections

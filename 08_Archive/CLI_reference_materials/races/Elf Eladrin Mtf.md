@@ -41,11 +41,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/03_Mechanics/CLI/skills.md#Perception) skill.
+You have proficiency in the [[/03_Mechanics/CLI/skills#Perception|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -66,8 +66,8 @@ As a bonus action, you can magically teleport up to 30 feet to an unoccupied spa
 
 When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:
 
-- **Autumn.** Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by you for 1 minute, or until you or your companions deal any damage to it.  
-- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of you until the end of your next turn.  
+- **Autumn.** Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by you for 1 minute, or until you or your companions deal any damage to it.  
+- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]] of you until the end of your next turn.  
 - **Spring.** When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
 - **Summer.** Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).  
 

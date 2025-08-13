@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sacred Healing Gardens]]
+- [[02_Worldbuilding/People/Sacred Healing Gardens|02 Worldbuilding/People/Sacred Healing Gardens]]
 
 <!-- enriched: true -->
 

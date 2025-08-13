@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-abishai-mpmm-green-abishai-mpmm.svg)
 
-# [Green Abishai](3-Mechanics\CLI\bestiary\fiend/green-abishai-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/green-abishai-mpmm|Green Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -61,23 +61,23 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "intelligence": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
     "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -89,18 +89,18 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) force damage. If the target is a creature, it must succeed on a\
       \ DC 16 Constitution saving throw or take 16 (3d10) poison damage and become\
-      \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for 1 minute. The [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [alter self](/03_Mechanics/CLI/spells/alter-self-xphb.md), [major\
-      \ image](/03_Mechanics/CLI/spells/major-image-xphb.md)\n\n3/day each: [charm\
-      \ person](/03_Mechanics/CLI/spells/charm-person-xphb.md), [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [fear](/03_Mechanics/CLI/spells/fear-xphb.md)\n\n1/day each: [confusion](/03_Mechanics/CLI/spells/confusion-xphb.md),\
-      \ [dominate person](/03_Mechanics/CLI/spells/dominate-person-xphb.md), [mass\
-      \ suggestion](/03_Mechanics/CLI/spells/mass-suggestion-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/alter-self-xphb|alter self]], [[/03_Mechanics/CLI/spells/major-image-xphb|major\
+      \ image]]\n\n3/day each: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm\
+      \ person]], [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]],\
+      \ [[/03_Mechanics/CLI/spells/fear-xphb|fear]]\n\n1/day each: [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]],\
+      \ [[/03_Mechanics/CLI/spells/dominate-person-xphb|dominate person]], [[/03_Mechanics/CLI/spells/mass-suggestion-xphb|mass\
+      \ suggestion]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

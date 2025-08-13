@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloud-giant-smiling-one-mpmm-cloud-giant-smiling-one-mpmm.svg)
 
-# [Cloud Giant Smiling One](3-Mechanics\CLI\bestiary\giant/cloud-giant-smiling-one-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/cloud-giant-smiling-one-mpmm|Cloud Giant Smiling One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -55,19 +55,19 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
   - "intelligence": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+11"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+9"
 "senses": "passive Perception 21"
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "The giant can cast the [control weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)\
+  - "desc": "The giant can cast the [[/03_Mechanics/CLI/spells/control-weather-xphb|control weather]]\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (8th-level Spell)"
@@ -87,13 +87,13 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt\
-      \ will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [fog\
-      \ cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/03_Mechanics/CLI/spells/light-xphb.md),\
-      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n3/day\
-      \ each: [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [silent\
-      \ image](/03_Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day each: [gaseous\
-      \ form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/03_Mechanics/CLI/spells/major-image-xphb.md)"
+      \ will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/fog-cloud-xphb|fog\
+      \ cloud]], [[/03_Mechanics/CLI/spells/light-xphb|light]],\
+      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]]\n\n3/day\
+      \ each: [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]], [[/03_Mechanics/CLI/spells/silent-image-xphb|silent\
+      \ image]], [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]],\
+      \ [[/03_Mechanics/CLI/spells/tongues-xphb|tongues]]\n\n1/day each: [[/03_Mechanics/CLI/spells/gaseous-form-xphb|gaseous\
+      \ form]], [[/03_Mechanics/CLI/spells/major-image-xphb|major image]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant teleports, along with any equipment it is wearing or carrying,\

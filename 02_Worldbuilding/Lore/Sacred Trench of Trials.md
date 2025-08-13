@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Pressure Angel Benthia]]
+- [[02_Worldbuilding/People/Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
 
 
 ## Connections

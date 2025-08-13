@@ -31,7 +31,7 @@ world: Both
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

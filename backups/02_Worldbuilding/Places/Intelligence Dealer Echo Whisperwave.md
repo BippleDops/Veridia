@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove|02 Worldbuilding/Places/Smuggler's Cove]]
 
 
 ## Connections

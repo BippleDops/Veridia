@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Queen]]
+- [[02_Worldbuilding/Lore/The Queen|02 Worldbuilding/Lore/The Queen]]
 
 
 ## Connections

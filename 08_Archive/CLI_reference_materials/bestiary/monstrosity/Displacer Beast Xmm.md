@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-displacer-beast-xmm-displacer-beast-xmm.svg)
 
-# [Displacer Beast](3-Mechanics\CLI\bestiary\monstrosity/displacer-beast-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/displacer-beast-xmm|Displacer Beast]]
 *Source: Monster Manual (2024) p. 98*  
 
 ## Displacer Beast
@@ -70,19 +70,19 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
   - "desc": "If the displacer beast is subjected to an effect that allows it to make\
       \ a saving throw to take only half damage, it instead takes no damage if it\
       \ succeeds on the save and half damage if it fails. It can't use this trait\
-      \ if it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ if it has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Avoidance"
-  - "desc": "Attack rolls against the displacer beast have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md),\
+  - "desc": "Attack rolls against the displacer beast have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]],\
       \ since it projects an illusion that makes it appear to be near its actual location.\
-      \ This trait is suppressed while the displacer beast has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ This trait is suppressed while the displacer beast has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Displacement"
 "actions":
   - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 feet. Hit: 9 (1d10 + 4) Slashing damage.\
-      \ If target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ If target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Rend"
   - "desc": "Melee Attack Roll: +6, reach 10 feet. Hit: 11 (2d6 + 4) Piercing\

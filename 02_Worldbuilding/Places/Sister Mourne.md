@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sister Mourne]]
+- [[02_Worldbuilding/Places/Sister Mourne|02 Worldbuilding/Places/Sister Mourne]]
 
 <!-- enriched: true -->
 

@@ -37,7 +37,7 @@ obsidianUIMode: preview
 *The Twilight Commune, Haven of the Shadow-Touched, The Community of Faded Light*
 
 ## Overview
-Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most organized community of shadow-touched individuals, functioning as both residential neighborhood and mutual aid organization. Unlike other shadow organizations focused on power or profit, Shadow Vale prioritizes community support, integration, and the preservation of identity despite shadow corruption. They've created a functioning society where those transformed by shadow can live with dignity, maintaining their humanity while embracing their changed nature.
+Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s largest and most organized community of shadow-touched individuals, functioning as both residential neighborhood and mutual aid organization. Unlike other shadow organizations focused on power or profit, Shadow Vale prioritizes community support, integration, and the preservation of identity despite shadow corruption. They've created a functioning society where those transformed by shadow can live with dignity, maintaining their humanity while embracing their changed nature.
 
 ## History
 
@@ -47,11 +47,11 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 - Established in abandoned district affected by dimensional rift
 - Created as safe haven for those rejected by conventional society
 - Developed initial community governance and mutual support systems
-- Established the [[02_Worldbuilding/Lore/The Shadow Integration]]
+- Established the [[02_Worldbuilding/Lore/The Shadow Integration|02 Worldbuilding/Lore/The Shadow Integration]]
 
 ### Growth Period (30-20 Years Ago)
 **Community Development**
-- Attracted shadow-touched individuals from across [[02_Worldbuilding/Places/Aquabyssos]]
+- Attracted shadow-touched individuals from across [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Built essential community infrastructure and services
 - Developed unique shadow-adapted architecture and urban planning
 - Created community institutions including schools and medical facilities
@@ -236,16 +236,16 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 ## Relationships & Politics
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed reception, some support from progressive members
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Neutral stance, focuses on stability
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Mixed reception, some support from progressive members
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]**: Neutral stance, focuses on stability
 - **Local Government**: Complex relationship of cooperation and tension
 - **Social Services**: Partnership for essential community support
 - **Law Enforcement**: Gradual improvement from initial hostility to cautious cooperation
 
 ### Shadow Organizations
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Ideological opposition, recruitment pressure
-- **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]**: Cautious cooperation for medical services
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship of protection and independence
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Ideological opposition, recruitment pressure
+- **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**: Cautious cooperation for medical services
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship of protection and independence
 - **Shadow Trade Networks**: Limited economic cooperation
 - **Memory Farmers**: Opposition to exploitation of shadow-touched individuals
 
@@ -414,15 +414,15 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 
 ### Key NPCs
 - **[[Community Elder Mistweave]]** - Community leader and democratic representative
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex protector relationship
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Complex protector relationship
 - **[[Care Coordinator Nightlight]]** - Social services and community support
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]** - Government relationship
 - **[[Teacher-Administrator Shadowlearn]]** - Education and cultural preservation
 
 ### Related Locations
 - **[[The Umbral Community Center]]** - Community headquarters and meeting space
 - **[[Shadow Vale Community School]]** - Educational facility
-- **[[02_Worldbuilding/Places/Aquabyssos]]** - Host city and political environment
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]** - Host city and political environment
 - **[[Community Health Clinic]]** - Medical services facility
 - **[[Cultural Heritage Center]]** - Arts and cultural preservation
 
@@ -463,4 +463,4 @@ Legends speak of Shadow Vale as a nexus where past and present converge. Locals 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide|02 Worldbuilding/Lore/Aethermoor Aquabyssos World Connection Guide]]

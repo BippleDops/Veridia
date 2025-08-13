@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[02_Worldbuilding/Groups/Bexley|02 Worldbuilding/Groups/Bexley]]
 
 
 ## Connections

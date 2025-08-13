@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Pressure Terminal|02 Worldbuilding/Places/Pressure Terminal]]
 
 
 ## Connections

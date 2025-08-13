@@ -179,6 +179,6 @@ Legends speak of The Missing Diplomat as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Missing Diplomat]]
+- [[02_Worldbuilding/Places/The Missing Diplomat|02 Worldbuilding/Places/The Missing Diplomat]]
 
 <!-- enriched: true -->

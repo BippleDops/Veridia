@@ -28,7 +28,7 @@ danger_level: Moderate
 
 ```leaflet
 id: world-map
-image: [[02_Worldbuilding/Places/World Map]]
+image: [[02_Worldbuilding/Places/World Map|02 Worldbuilding/Places/World Map]]
 height: 600px
 width: 100%
 lat: 50

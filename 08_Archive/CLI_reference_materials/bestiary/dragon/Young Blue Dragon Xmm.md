@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-blue-dragon-xmm-young-blue-dragon-xmm.svg)
 
-# [Young Blue Dragon](3-Mechanics\CLI\bestiary\dragon/young-blue-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/young-blue-dragon-xmm|Young Blue Dragon]]
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
@@ -70,9 +70,9 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "4"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
@@ -85,7 +85,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ plus 5 (d10) Lightning damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 16, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 55 (10d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "source":

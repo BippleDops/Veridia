@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Compressmaster]]
+- [[02_Worldbuilding/Places/Deep Compressmaster|02 Worldbuilding/Places/Deep Compressmaster]]
 
 <!-- enriched: true -->
 

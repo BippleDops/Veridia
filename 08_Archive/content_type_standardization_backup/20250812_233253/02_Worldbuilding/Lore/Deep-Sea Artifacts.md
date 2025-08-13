@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Depth Market|02 Worldbuilding/Places/The Depth Market]]
 
 
 ## Connections

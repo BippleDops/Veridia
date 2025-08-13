@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ancient Crystal Technology]]
+- [[02_Worldbuilding/Places/Ancient Crystal Technology|02 Worldbuilding/Places/Ancient Crystal Technology]]
 
 <!-- enriched: true -->
 

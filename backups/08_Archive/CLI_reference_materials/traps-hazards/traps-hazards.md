@@ -16,60 +16,60 @@ world: Both
 
 # Index of Traps-hazards
 
-- [Bear Trap](./bear-trap-xge.md)
-- [Brown Mold](./brown-mold-xdmg.md)
-- [Burning](./burning-xphb.md)
-- [Collapsing Roof](./collapsing-roof-xdmg.md)
-- [Crossbow Trap](./crossbow-trap-xge.md)
-- [Dead Magic Zone](./dead-magic-zone-xdmg.md)
-- [Deep Water](./deep-water-xdmg.md)
-- [Dehydration](./dehydration-xphb.md)
-- [Desecrated Ground](./desecrated-ground.md)
-- [Extreme Cold](./extreme-cold-xdmg.md)
-- [Extreme Heat](./extreme-heat-xdmg.md)
-- [Falling Net](./falling-net-xdmg.md)
-- [Falling Portcullis](./falling-portcullis-xge.md)
-- [Falling](./falling-xphb.md)
-- [Fiery Blast Trap](./fiery-blast-trap-xge.md)
-- [Fire-Casting Statue](./fire-casting-statue-xdmg.md)
-- [Fireball Fungus](./fireball-fungus-xdmg.md)
-- [Frigid Water](./frigid-water-xdmg.md)
-- [Green Slime](./green-slime-xdmg.md)
-- [Heavy Precipitation](./heavy-precipitation-xdmg.md)
-- [Hidden Pit](./hidden-pit-xdmg.md)
-- [High Altitude](./high-altitude-xdmg.md)
-- [Improvised Damage](./improvised-damage-xdmg.md)
-- [Inferno](./inferno-xdmg.md)
-- [Malnutrition](./malnutrition-xphb.md)
-- [Net Trap](./net-trap-xge.md)
-- [Path of Blades](./path-of-blades-xge.md)
-- [Pit Trap](./pit-trap-xge.md)
-- [Planar Effects](./planar-effects-xdmg.md)
-- [Poison Needle Trap](./poison-needle-trap-xge.md)
-- [Poisoned Darts](./poisoned-darts-xdmg.md)
-- [Poisoned Needle](./poisoned-needle-xdmg.md)
-- [Poisoned Tempest](./poisoned-tempest-xge.md)
-- [Poisonous Gas](./poisonous-gas-xdmg.md)
-- [Quicksand Pit](./quicksand-pit-xdmg.md)
-- [Razorvine](./razorvine-xdmg.md)
-- [River Styx](./river-styx-xdmg.md)
-- [Rockslide](./rockslide-xdmg.md)
-- [Rolling Stone](./rolling-stone-xdmg.md)
-- [Rot Grub](./rot-grub-vgm.md)
-- [Russet Mold](./russet-mold-vgm.md)
-- [Scything Blade Trap](./scything-blade-trap-xge.md)
-- [Sleep of Ages Trap](./sleep-of-ages-trap-xge.md)
-- [Slippery Ice](./slippery-ice-xdmg.md)
-- [Sphere of Annihilation](./sphere-of-annihilation.md)
-- [Sphere of Crushing Doom](./sphere-of-crushing-doom-xge.md)
-- [Spiked Pit](./spiked-pit-xdmg.md)
-- [Strong Wind](./strong-wind-xdmg.md)
-- [Suffocation](./suffocation-xphb.md)
-- [Thin Ice](./thin-ice-xdmg.md)
-- [Vicious Vine](./vicious-vine-xdmg.md)
-- [Webs](./webs-xdmg.md)
-- [Wild Magic Zone](./wild-magic-zone-xdmg.md)
-- [Yellow Mold](./yellow-mold-xdmg.md)
+- [[./bear-trap-xge|Bear Trap]]
+- [[./brown-mold-xdmg|Brown Mold]]
+- [[./burning-xphb|Burning]]
+- [[./collapsing-roof-xdmg|Collapsing Roof]]
+- [[./crossbow-trap-xge|Crossbow Trap]]
+- [[./dead-magic-zone-xdmg|Dead Magic Zone]]
+- [[./deep-water-xdmg|Deep Water]]
+- [[./dehydration-xphb|Dehydration]]
+- [[./desecrated-ground|Desecrated Ground]]
+- [[./extreme-cold-xdmg|Extreme Cold]]
+- [[./extreme-heat-xdmg|Extreme Heat]]
+- [[./falling-net-xdmg|Falling Net]]
+- [[./falling-portcullis-xge|Falling Portcullis]]
+- [[./falling-xphb|Falling]]
+- [[./fiery-blast-trap-xge|Fiery Blast Trap]]
+- [[./fire-casting-statue-xdmg|Fire-Casting Statue]]
+- [[./fireball-fungus-xdmg|Fireball Fungus]]
+- [[./frigid-water-xdmg|Frigid Water]]
+- [[./green-slime-xdmg|Green Slime]]
+- [[./heavy-precipitation-xdmg|Heavy Precipitation]]
+- [[./hidden-pit-xdmg|Hidden Pit]]
+- [[./high-altitude-xdmg|High Altitude]]
+- [[./improvised-damage-xdmg|Improvised Damage]]
+- [[./inferno-xdmg|Inferno]]
+- [[./malnutrition-xphb|Malnutrition]]
+- [[./net-trap-xge|Net Trap]]
+- [[./path-of-blades-xge|Path of Blades]]
+- [[./pit-trap-xge|Pit Trap]]
+- [[./planar-effects-xdmg|Planar Effects]]
+- [[./poison-needle-trap-xge|Poison Needle Trap]]
+- [[./poisoned-darts-xdmg|Poisoned Darts]]
+- [[./poisoned-needle-xdmg|Poisoned Needle]]
+- [[./poisoned-tempest-xge|Poisoned Tempest]]
+- [[./poisonous-gas-xdmg|Poisonous Gas]]
+- [[./quicksand-pit-xdmg|Quicksand Pit]]
+- [[./razorvine-xdmg|Razorvine]]
+- [[./river-styx-xdmg|River Styx]]
+- [[./rockslide-xdmg|Rockslide]]
+- [[./rolling-stone-xdmg|Rolling Stone]]
+- [[./rot-grub-vgm|Rot Grub]]
+- [[./russet-mold-vgm|Russet Mold]]
+- [[./scything-blade-trap-xge|Scything Blade Trap]]
+- [[./sleep-of-ages-trap-xge|Sleep of Ages Trap]]
+- [[./slippery-ice-xdmg|Slippery Ice]]
+- [[./sphere-of-annihilation|Sphere of Annihilation]]
+- [[./sphere-of-crushing-doom-xge|Sphere of Crushing Doom]]
+- [[./spiked-pit-xdmg|Spiked Pit]]
+- [[./strong-wind-xdmg|Strong Wind]]
+- [[./suffocation-xphb|Suffocation]]
+- [[./thin-ice-xdmg|Thin Ice]]
+- [[./vicious-vine-xdmg|Vicious Vine]]
+- [[./webs-xdmg|Webs]]
+- [[./wild-magic-zone-xdmg|Wild Magic Zone]]
+- [[./yellow-mold-xdmg|Yellow Mold]]
 
 ## Player-Facing Summary
 

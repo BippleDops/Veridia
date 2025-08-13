@@ -340,7 +340,7 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Cerulean Breath|02 Worldbuilding/People/The Cerulean Breath]]
 
 <!-- enriched: true -->
 - [[Archivist Mnemonic the Forgotten]]

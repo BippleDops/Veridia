@@ -21,7 +21,7 @@ updated: '2025-08-12T23:37:35.866720'
 world: Both
 ---
 
-# [Scarecrow](3-Mechanics\CLI\bestiary\construct/scarecrow-xmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/scarecrow-xmm|Scarecrow]]
 *Source: Monster Manual (2024) p. 269*  
 
 ## Scarecrow
@@ -70,22 +70,22 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage,\
-      \ and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
       \ condition until the end of the scarecrow's next turn."
     "name": "Fearsome Claw"
   - "desc": "Wisdom Saving Throw: DC 11, one creature the scarecrow can see within\
-      \ 30 feet. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
-      \ condition until the end of the scarecrow's next turn. While [Frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-      \ the target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ 30 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+      \ condition until the end of the scarecrow's next turn. While [[/03_Mechanics/CLI/conditions#Frightened|Frightened]],\
+      \ the target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition."
     "name": "Terrifying Glare"
 "source":
   - "XMM"

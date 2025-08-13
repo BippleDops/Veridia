@@ -321,7 +321,7 @@ This quest serves as an excellent examination of social justice themes while pro
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -345,4 +345,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[reports/bidirectional_links]]
+- [[reports/bidirectional_links|Reports/bidirectional Links]]

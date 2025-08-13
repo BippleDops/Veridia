@@ -56,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Death Speaker Marina Depthkeeper]]
+- [[02_Worldbuilding/Places/Death Speaker Marina Depthkeeper|02 Worldbuilding/Places/Death Speaker Marina Depthkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Ω_System-CLI-spells-school-necromancy]]
+- [[Ω_System-CLI-spells-school-necromancy|Ω System CLI Spells School Necromancy]]

@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Elena Recordkeeper]]
+- [[02_Worldbuilding/Places/Elena Recordkeeper|02 Worldbuilding/Places/Elena Recordkeeper]]
 
 <!-- enriched: true -->

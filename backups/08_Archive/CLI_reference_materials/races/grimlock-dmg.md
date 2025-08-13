@@ -29,15 +29,15 @@ world: Both
 
 ### Blindsight
 
-You have no eyes, and cannot be [blinded](/03_Mechanics/CLI/conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](/03_Mechanics/CLI/conditions.md#Deafened). You are considered blind beyond this radius.
+You have no eyes, and cannot be [[/03_Mechanics/CLI/conditions#Blinded|blinded]]. You can perceive your surroundings within 30 ft., or 10 ft. while [[/03_Mechanics/CLI/conditions#Deafened|deafened]]. You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 
-You have advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
+You have advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on hearing or smell.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
+You have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to hide in rocky terrain.
 
 ### Languages
 

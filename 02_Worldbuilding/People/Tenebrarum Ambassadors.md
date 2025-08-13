@@ -26,7 +26,7 @@ world: Both
 *Voices from the Shadow Realm, Diplomats of the Dark Current*
 
 ## Overview
-The Tenebrarum Ambassadors represent a mysterious shadow realm that exists parallel to both Aquabyssos and the surface world. These diplomatic figures serve as intermediaries between their shadowy domain and the underwater kingdom, negotiating treaties, trade agreements, and mutual defense pacts. Their embassy, located in the darkest districts of [[02_Worldbuilding/Places/Abyssos Prime]], operates under ancient diplomatic immunities while pursuing their realm's complex political agenda.
+The Tenebrarum Ambassadors represent a mysterious shadow realm that exists parallel to both Aquabyssos and the surface world. These diplomatic figures serve as intermediaries between their shadowy domain and the underwater kingdom, negotiating treaties, trade agreements, and mutual defense pacts. Their embassy, located in the darkest districts of [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], operates under ancient diplomatic immunities while pursuing their realm's complex political agenda.
 
 The Tenebrarum realm itself is described as a place where shadows have substance and light creates darkness, where the normal rules of reality bend to accommodate beings of living shadow. The Ambassadors claim their realm has existed alongside the material world since ancient times, but only recently began formal diplomatic contact with Aquabyssos following the Great Drowning.
 
@@ -122,14 +122,14 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 ## Relationships & Political Networks
 ### Aquabyssos Government Relations
 - **[[His Eternal Majesty, Keeper of the Throne of Bubbles]]**: Formal diplomatic recognition and regular consultation
-- **[[02_Worldbuilding/People/Emperor Thalassius]]**: Cautious cooperation with occasional strategic disagreements
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Working relationships with key parliamentary committees
+- **[[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]**: Cautious cooperation with occasional strategic disagreements
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Working relationships with key parliamentary committees
 - **[[Tribune Cassia Deepcurrent]]**: Pragmatic cooperation on mutual benefit initiatives
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Religious dialogue about shadow-touched spiritual needs
+- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Religious dialogue about shadow-touched spiritual needs
 
 ### Military & Security Connections
 - **[[Commander Typhoon Blackheart]]**: Professional military cooperation and intelligence sharing
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Joint training exercises and threat assessment
+- **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Joint training exercises and threat assessment
 - **[[Shadow Guard Units]]**: Coordination with Aquabyssos security forces
 - **[[Intelligence Services]]**: Information exchange about mutual threats
 - **[[Border Patrol Units]]**: Monitoring dimensional boundaries and portal activity
@@ -138,7 +138,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 - **[[Merchant Princes]]**: Trade partnerships and commercial development
 - **[[Coral Merchants Guild]]**: Exchange of unique shadow-realm and aquatic goods
 - **[[The Liminal Trading Company]]**: Specialized inter-dimensional commerce
-- **[[02_Worldbuilding/Groups/Shadow-Silk Weavers Guil]]**: Artisan cooperation and craft exchanges
+- **[[02_Worldbuilding/Groups/Shadow-Silk Weavers Guil|02 Worldbuilding/Groups/Shadow Silk Weavers Guil]]**: Artisan cooperation and craft exchanges
 - **[[Umbral Crystal Miners]]**: Resource extraction and processing partnerships
 
 ## Powers & Abilities
@@ -200,7 +200,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 > - **The Dying Realm**: Tenebrarum is slowly collapsing, embassy seeks new home
 > - **Shadow Infiltration**: Some ambassadors are actually agents seeking conquest
 > - **Ancient Connection**: Tenebrarum was created during the original Great Drowning
-> - **Cosmic Alliance**: Secret pact with entities opposing [[02_Worldbuilding/Lore/The Deep Mother]]
+> - **Cosmic Alliance**: Secret pact with entities opposing [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 > - **Reality Anchor**: Embassy serves as dimensional stability point for multiple realms
 > - **Shadow Lord Council**: Internal political struggles affecting diplomatic positions
 > - **Time Manipulation**: Using temporal abilities to influence diplomatic outcomes
@@ -244,7 +244,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 *(Shadow-speech allows for communication in multiple languages simultaneously, creating an effect of speaking directly to each listener in their native tongue)*
 
 ## Connected NPCs & Relationships
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fellow diplomatic representative, occasional cooperation
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fellow diplomatic representative, occasional cooperation
 - **[[His Eternal Majesty, Keeper of the Throne of Bubbles]]**: Formal diplomatic relations with the sovereign
 - **[[Tribune Cassia Deepcurrent]]**: Parliamentary liaison for diplomatic affairs
 - **[[Commander Typhoon Blackheart]]**: Military cooperation and joint threat assessment
@@ -252,10 +252,10 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 
 ## Connected Locations
 - **[[Embassy of Eternal Shadows]]**: Primary diplomatic facility and residence
-- **[[02_Worldbuilding/Places/The Shadowmere]]**: District where embassy operates
+- **[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]**: District where embassy operates
 - **[[Portal Chambers]]**: Dimensional gateways connecting to Tenebrarum
 - **[[Cultural Exchange Centers]]**: Facilities for educational and artistic programs
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Regular diplomatic meetings and negotiations
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Regular diplomatic meetings and negotiations
 
 ## Involved Quests
 - **[[Quest - The Shadow-Water Accords]]**: Negotiating comprehensive diplomatic agreement
@@ -281,7 +281,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -299,7 +299,7 @@ Legends speak of Tenebrarum Ambassadors as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors|02 Worldbuilding/People/Tenebrarum Ambassadors]]
 
 <!-- enriched: true -->
 - [[Merchant Princes]]

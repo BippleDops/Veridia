@@ -63,8 +63,8 @@ status: active
 "traits":
 - "desc": "If the allosaurus moves at least 30 feet straight toward a creature and\
     \ then hits it with a claw attack on the same turn, that target must succeed on\
-    \ a DC 13 Strength saving throw or be knocked [prone](/2-Mechanics/CLI/rules/conditions.md#prone).\
-    \ If the target is [prone](/2-Mechanics/CLI/rules/conditions.md#prone), the allosaurus\
+    \ a DC 13 Strength saving throw or be knocked [[/2-Mechanics/CLI/rules/conditions#prone|prone]].\
+    \ If the target is [[/2-Mechanics/CLI/rules/conditions#prone|prone]], the allosaurus\
     \ can make one bite attack against it as a bonus action."
   "name": "Pounce"
 "actions":

@@ -35,24 +35,24 @@ danger_level: Moderate
 *The Guardians of Aquabyssos*
 
 > *"We are the pressure that maintains balance, the current that carries justice to every depth. We stand watch over the realm not as conquerors but as servants—servants of the law, servants of the people, servants of the depths themselves. Where darkness threatens to overwhelm light, where chaos would drown order, there you will find the Depth Wardens holding the line."*
-> — [[02_Worldbuilding/People/Commander Drake Pressureborn]], Supreme Commander of the Depth Wardens
+> — [[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]], Supreme Commander of the Depth Wardens
 
 ## Overview
 
-The Depth Wardens are the primary law enforcement and security organization of [[02_Worldbuilding/Places/Aquabyssos]], serving as both police force and military organization responsible for maintaining order throughout the vast underwater realm. Founded over eight centuries ago during the consolidation of Aquabyssos under [[02_Worldbuilding/People/Emperor Thalassius the Wise]], the Depth Wardens have evolved from a simple guard force into a sophisticated organization capable of handling everything from routine criminal investigations to existential threats to the realm.
+The Depth Wardens are the primary law enforcement and security organization of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], serving as both police force and military organization responsible for maintaining order throughout the vast underwater realm. Founded over eight centuries ago during the consolidation of Aquabyssos under [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]], the Depth Wardens have evolved from a simple guard force into a sophisticated organization capable of handling everything from routine criminal investigations to existential threats to the realm.
 
 What distinguishes the Depth Wardens from conventional law enforcement is their unique adaptation to the three-dimensional nature of underwater society and the extreme environmental challenges of operating across massive depth ranges. Every Depth Warden undergoes intensive training in pressure adaptation, underwater combat, deep-sea survival, and the specialized skills required to maintain order in a society that exists in multiple depth zones with radically different environmental conditions.
 
 The organization operates under a dual mandate: maintaining civil order and protecting the realm from external threats. This means Depth Wardens serve simultaneously as local police officers, criminal investigators, emergency responders, border guards, and military defenders. Their broad authority and diverse responsibilities make them one of the most visible and influential institutions in Aquabyssos society.
 
-The Depth Wardens maintain their headquarters in [[02_Worldbuilding/Places/Abyssos Prime]], with major regional commands throughout the realm and smaller stations in settlements across all depth zones. They coordinate closely with [[02_Worldbuilding/Places/The Royal Palace]] on security policy and maintain significant operations at [[02_Worldbuilding/Places/Port Meridian Harbor]] to oversee maritime security. Their organizational structure combines military discipline with civilian law enforcement flexibility, allowing them to adapt to situations ranging from minor civil disputes to major threats against the realm itself.
+The Depth Wardens maintain their headquarters in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], with major regional commands throughout the realm and smaller stations in settlements across all depth zones. They coordinate closely with [[02_Worldbuilding/Places/The Royal Palace|02 Worldbuilding/Places/The Royal Palace]] on security policy and maintain significant operations at [[02_Worldbuilding/Places/Port Meridian Harbor|02 Worldbuilding/Places/Port Meridian Harbor]] to oversee maritime security. Their organizational structure combines military discipline with civilian law enforcement flexibility, allowing them to adapt to situations ranging from minor civil disputes to major threats against the realm itself.
 
 ## Organizational Structure and Hierarchy
 
 ### Command Structure
 
 **Supreme Commander** (1):
-Overall leader of the Depth Wardens, reporting directly to the [[02_Worldbuilding/Places/The Royal Palace]] and serving as a member of the realm's highest security council. Works closely with [[02_Worldbuilding/Places/Coral Courts]] on legal matters and coordinates with surface law enforcement. Currently [[02_Worldbuilding/People/Commander Drake Pressureborn]].
+Overall leader of the Depth Wardens, reporting directly to the [[02_Worldbuilding/Places/The Royal Palace|02 Worldbuilding/Places/The Royal Palace]] and serving as a member of the realm's highest security council. Works closely with [[02_Worldbuilding/Places/Coral Courts|02 Worldbuilding/Places/Coral Courts]] on legal matters and coordinates with surface law enforcement. Currently [[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]].
 
 - **Authority**: Realm-wide command authority, policy setting, resource allocation
 - **Responsibilities**: Strategic planning, government liaison, organizational leadership
@@ -89,7 +89,7 @@ Local commanders responsible for individual Depth Warden stations, managing 10-3
 The largest division, responsible for routine patrol operations, initial response to incidents, and maintaining visible security presence throughout Aquabyssos.
 
 **Patrol Wardens**: Standard law enforcement officers conducting routine patrols
-**Patrol Sergeants**: Experienced wardens leading [[02_Worldbuilding/Places/Depth Warden Patrol]] units
+**Patrol Sergeants**: Experienced wardens leading [[02_Worldbuilding/Places/Depth Warden Patrol|02 Worldbuilding/Places/Depth Warden Patrol]] units
 **Patrol Specialists**: Wardens with specialized training for specific patrol environments
 **Response Teams**: Quick-reaction units for emergency situations
 
@@ -154,7 +154,7 @@ Administrative, technical, and logistical personnel supporting operational divis
 ### Basic Training Program
 
 **Duration**: 6 months intensive residential training
-**Location**: Depth Warden Training Academy in [[02_Worldbuilding/Places/Abyssos Prime]]
+**Location**: Depth Warden Training Academy in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 **Graduation Rate**: Approximately 75% of accepted candidates complete training
 
 **Core Training Modules**:
@@ -355,7 +355,7 @@ Complex crimes require specialized investigation by trained detective units with
 - **Crime Scene Management**: Securing and processing locations where crimes occurred
 - **Evidence Analysis**: Technical examination of physical evidence and witness testimony
 - **Suspect Investigation**: Background research and surveillance of suspected criminals
-- **Case Development**: Building comprehensive cases for presentation to [[02_Worldbuilding/Places/Coral Courts]]
+- **Case Development**: Building comprehensive cases for presentation to [[02_Worldbuilding/Places/Coral Courts|02 Worldbuilding/Places/Coral Courts]]
 - **Inter-Agency Cooperation**: Working with other organizations on complex cases
 
 **Specialized Crime Units**:
@@ -408,7 +408,7 @@ Specialized units handle the unique challenges of operating in the deepest parts
 ### The Depth Warden Academy
 
 **Location and Facilities**:
-The primary training facility located in [[02_Worldbuilding/Places/Abyssos Prime]], featuring comprehensive training environments that simulate various operational conditions.
+The primary training facility located in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], featuring comprehensive training environments that simulate various operational conditions.
 
 **Training Environments**:
 
@@ -464,7 +464,7 @@ Regional centers provide training specific to local environmental conditions and
 ### Historical Milestones
 
 **The Great Consolidation** (800 years ago):
-The founding operation of the Depth Wardens, when scattered local guard forces were unified under central command during the reign of [[02_Worldbuilding/People/Emperor Thalassius the Wise]].
+The founding operation of the Depth Wardens, when scattered local guard forces were unified under central command during the reign of [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]].
 
 **Operation Deep Unity**:
 - **Objective**: Integrate diverse local law enforcement traditions into unified force
@@ -511,7 +511,7 @@ Emergency response to widespread memory disturbances affecting multiple communit
 - **Resources Deployed**: Investigation teams, medical personnel, reality stabilization equipment
 
 **Cross-Realm Incident Management** (Ongoing):
-Handling increasing incidents involving contact with [[02_Worldbuilding/Places/Aethermoor]] and other realms.
+Handling increasing incidents involving contact with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and other realms.
 
 **Operation Boundary Watch**:
 - **Objective**: Manage cross-realm incidents while maintaining diplomatic relations
@@ -640,28 +640,28 @@ Characters may find themselves in conflict with Depth Warden authority for vario
 ## Connected Systems and Cross-References
 
 ### Government and Legal Integration
-- **[[02_Worldbuilding/Places/Royal Palace]]**: Ultimate governmental authority over warden operations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative body creating laws that wardens enforce
-- **[[02_Worldbuilding/Places/Coral Courts]]**: Judicial system where warden cases are prosecuted
-- **[[02_Worldbuilding/Places/Abyssos Prime Government]]**: Administrative coordination with other government agencies
+- **[[02_Worldbuilding/Places/Royal Palace|02 Worldbuilding/Places/Royal Palace]]**: Ultimate governmental authority over warden operations
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Legislative body creating laws that wardens enforce
+- **[[02_Worldbuilding/Places/Coral Courts|02 Worldbuilding/Places/Coral Courts]]**: Judicial system where warden cases are prosecuted
+- **[[02_Worldbuilding/Places/Abyssos Prime Government|02 Worldbuilding/Places/Abyssos Prime Government]]**: Administrative coordination with other government agencies
 
 ### Operational Support Systems
-- **[[02_Worldbuilding/Places/Depth Warden Patrol]]**: Mobile operational units that implement warden policies
-- **[[02_Worldbuilding/People/Commander Drake Pressureborn]]**: Current leadership and operational direction
-- **[[02_Worldbuilding/Lore/Investigation Procedures]]**: Standard methods and protocols for criminal investigation
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Essential training and equipment for depth operations
+- **[[02_Worldbuilding/Places/Depth Warden Patrol|02 Worldbuilding/Places/Depth Warden Patrol]]**: Mobile operational units that implement warden policies
+- **[[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]]**: Current leadership and operational direction
+- **[[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]**: Standard methods and protocols for criminal investigation
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]]**: Essential training and equipment for depth operations
 
 ### Community and Social Connections
-- **[[02_Worldbuilding/Groups/Merchants Guild]]**: Major civilian organization requiring warden protection and regulation
+- **[[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]**: Major civilian organization requiring warden protection and regulation
 - **[[Port Meridian]]**: Major population center requiring extensive warden presence
-- **[[02_Worldbuilding/Places/Crystal Gardens]]**: Location requiring specialized warden environmental knowledge
-- **[[02_Worldbuilding/Places/The Deep Patrol]]**: Remote operations requiring specialized deep-zone capabilities
+- **[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]**: Location requiring specialized warden environmental knowledge
+- **[[02_Worldbuilding/Places/The Deep Patrol|02 Worldbuilding/Places/The Deep Patrol]]**: Remote operations requiring specialized deep-zone capabilities
 
 ### Specialized Operations and Threats
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Natural and artificial dangers requiring warden response
-- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Current major threat requiring ongoing warden attention
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized warden monitoring
-- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence issues affecting warden investigations
+- **[[02_Worldbuilding/Lore/Environmental Hazards|02 Worldbuilding/Lore/Environmental Hazards]]**: Natural and artificial dangers requiring warden response
+- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet|02 Worldbuilding/Lore/Crystal Corruption Tracking Sheet]]**: Current major threat requiring ongoing warden attention
+- **[[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized warden monitoring
+- **[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence issues affecting warden investigations
 
 The Depth Wardens represent the backbone of law and order in Aquabyssos, serving as both protectors of the innocent and symbols of governmental authority while adapting to the unique challenges of maintaining security in a vast, three-dimensional underwater society.
 
@@ -691,12 +691,12 @@ The Depth Wardens represent the backbone of law and order in Aquabyssos, serving
 - [[The Wandering Atoll]]
 - [[The Whispering Depths]]
 - [[Ambush Point]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -718,7 +718,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Depth Wardens|02 Worldbuilding/Places/Depth Wardens]]
 
 <!-- enriched: true -->
 - [[Port Meridian]]

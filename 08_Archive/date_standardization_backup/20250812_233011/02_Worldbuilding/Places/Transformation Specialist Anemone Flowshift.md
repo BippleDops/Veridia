@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Transformation Specialist Anemone Flowshift]]
+- [[02_Worldbuilding/Places/Transformation Specialist Anemone Flowshift|02 Worldbuilding/Places/Transformation Specialist Anemone Flowshift]]
 
 <!-- enriched: true -->
 

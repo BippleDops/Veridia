@@ -19,12 +19,12 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The_Crimson_Pearl]]
+- [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
 
 ## Player-Facing Summary
 

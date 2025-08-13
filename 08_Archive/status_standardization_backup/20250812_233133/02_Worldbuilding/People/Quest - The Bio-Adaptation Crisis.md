@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Bio-Adaptation Crisis]]
+- [[02_Worldbuilding/People/Quest - The Bio-Adaptation Crisis|02 Worldbuilding/People/Quest The Bio Adaptation Crisis]]
 
 <!-- enriched: true -->

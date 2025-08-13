@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Apprentice]]
+- [[02_Worldbuilding/Groups/Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]
 
 
 ## Connections

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Protocol Expert Formal]]
+- [[02_Worldbuilding/Places/Protocol Expert Formal|02 Worldbuilding/Places/Protocol Expert Formal]]
 
 <!-- enriched: true -->
 

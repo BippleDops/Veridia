@@ -20,15 +20,15 @@ world: Both
 
 ## 1st Level
 
-- [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/detect-magic-xphb "XPHB"|Detect Magic]] 
 
 ## 2nd Level
 
-- [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/levitate-xphb "XPHB"|Levitate]] 
 
 ## 3rd Level
 
-- [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/dispel-magic-xphb "XPHB"|Dispel Magic]]
 
 ## Player-Facing Summary
 

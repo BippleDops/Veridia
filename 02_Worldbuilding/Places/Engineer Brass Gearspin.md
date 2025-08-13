@@ -404,6 +404,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Engineer Brass Gearspin]]
+- [[02_Worldbuilding/Places/Engineer Brass Gearspin|02 Worldbuilding/Places/Engineer Brass Gearspin]]
 
 <!-- enriched: true -->

@@ -20,23 +20,23 @@ world: Both
 
 ## 1st Level
 
-- [Protection from Evil and Good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb "XPHB"|Protection from Evil and Good]] at class level 13
 
 ## 2nd Level
 
-- [Zone of Truth](/03_Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/zone-of-truth-xphb "XPHB"|Zone of Truth]] at class level 13
 
 ## 3rd Level
 
-- [Magic Circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/magic-circle-xphb "XPHB"|Magic Circle]] at class level 13
 
 ## 4th Level
 
-- [Banishment](/03_Mechanics/CLI/spells/banishment-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/banishment-xphb "XPHB"|Banishment]] at class level 13
 
 ## 5th Level
 
-- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 13
+- [[/03_Mechanics/CLI/spells/hold-monster-xphb "XPHB"|Hold Monster]] at class level 13
 
 ## Player-Facing Summary
 

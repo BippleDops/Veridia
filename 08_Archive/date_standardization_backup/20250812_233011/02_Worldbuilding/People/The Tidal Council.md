@@ -157,6 +157,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Tidal Council]]
+- [[02_Worldbuilding/People/The Tidal Council|02 Worldbuilding/People/The Tidal Council]]
 
 <!-- enriched: true -->

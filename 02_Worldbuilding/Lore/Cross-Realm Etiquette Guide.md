@@ -19,11 +19,11 @@ world: Both
 # Cross-Realm Etiquette Guide
 *"Where water meets air and depth encounters sky, wisdom lies in the space between traditions."*
 
-> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[02_Worldbuilding/People/Ambassador Marina Tidecaller]]
+> *"The greatest diplomats are not those who master one culture perfectly, but those who can build bridges between cultures that seem impossibly different. In the dance between depth and sky, every step must honor both partners."* - [[02_Worldbuilding/People/Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]]
 
 ## Overview
 
-The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
+The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
 
 ## Chapter I: Fundamental Cultural Translation Principles
 
@@ -451,27 +451,27 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 4. **The Cultural Fusion**: Exploring how prolonged contact changes both cultures over time
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Ambassador Marina Tidecaller]] - Expert in Aquabyssos-Aethermoor cultural translation
-- [[02_Worldbuilding/People/Cultural Sage Deep-Memory]] - Aquabyssos cultural authority and advisor
+- [[02_Worldbuilding/People/Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]] - Expert in Aquabyssos-Aethermoor cultural translation
+- [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]] - Aquabyssos cultural authority and advisor
 - [[Master Wind Rider Zephyr Stormcaller]] - Aethermoor cultural expert and diplomatic liaison
 - [[Cross-Cultural Mediator Balance Wright]] - Specialist in inter-realm conflict resolution
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Primary location for cross-cultural interaction
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Primary location for cross-cultural interaction
 - [[The Diplomatic Quarter]] - Specially designed neutral zone for inter-realm meetings
 - [[The Cultural Exchange Center]] - Educational facility for cross-cultural learning
 - [[The Neutral Embassy]] - Diplomatic facility serving both realms equally
 
 ## Connected Organizations
 - [[The Inter-Realm Cultural Council]] - Governing body for cross-cultural relations
-- [[02_Worldbuilding/Groups/The Cultural Exchange Society]] - Organization promoting cultural understanding
+- [[02_Worldbuilding/Groups/The Cultural Exchange Society|02 Worldbuilding/Groups/The Cultural Exchange Society]] - Organization promoting cultural understanding
 - [[The Diplomatic Protocol Commission]] - Official body establishing diplomatic procedures
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
-- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]]
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs|02 Worldbuilding/Lore/Aethermoor Social Customs]]
+- [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]]
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]]
 
 ## Player-Facing Summary
 

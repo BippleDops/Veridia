@@ -39,7 +39,7 @@ world: Both
         - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, John Feil, Laura Tommervik, Kim Lundstrom, Trevor Kidd    
         - **Playtesters.** Teos Abadía, Robert Alaniz, Rory Alexander, Jay Anderson, Paul Baalham, Stacy Bermes, Joseph Bloch, Carlo Bosticco, Ken Breese, Tim Eagon, Pierce Gaithe, Richard Green, T. E. Hendrix, Sterling Hershey, Paul Hughes Matthew Jording, Yan Lacharité, Shane Leahy, Ryan Leary, Jonathan Longstaff, Jon Machnicz, Farrell Madden, Matt Maranda, Paul Melamed, Shawn Merwin, Lou Michelli, Rob Mickunas, Mike Mihalas, John Proudfoot, Rob Quillen II, Karl Resch, Sam Sherry, Sam E Simpson Jr, Pieter Sleijpen    
 
-![On the Cover: Aerisi Kalin...](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/credits.webp#center "On the Cover: Aerisi Kalinoth, the air prophet, unleashes the Cult of the Howling Hatred on the Dessarin Valley. A defiant Harper wizard named Zelraun Roaringhorn stands against her in this tempestuous scene illustrated by Raymond Swanland.")
+![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/credits.webp#center "On the Cover: Aerisi Kalinoth, the air prophet, unleashes the Cult of the Howling Hatred on the Dessarin Valley. A defiant Harper wizard named Zelraun Roaringhorn stands against her in this tempestuous scene illustrated by Raymond Swanland."|On the Cover: Aerisi Kalin...]]
 
 ## Player-Facing Summary
 

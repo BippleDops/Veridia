@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Seasonal Quarters]]
+- [[02_Worldbuilding/Places/Seasonal Quarters|02 Worldbuilding/Places/Seasonal Quarters]]
 
 <!-- enriched: true -->
 

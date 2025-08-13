@@ -25,7 +25,7 @@ tags:
 > *"The poor don't lack wealth - they lack access to the systems that create wealth. But poverty teaches resourcefulness that no amount of gold can buy. In the margins, survival becomes an art form."* - Sister Morwyn, Depth Community Organizer
 
 ## Overview
-In the harsh economic realities of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], millions survive below the poverty line using sophisticated systems of mutual aid, resource sharing, and alternative economies. These survival strategies represent not just desperate measures, but complex social structures that often prove more resilient than formal economic systems.
+In the harsh economic realities of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], millions survive below the poverty line using sophisticated systems of mutual aid, resource sharing, and alternative economies. These survival strategies represent not just desperate measures, but complex social structures that often prove more resilient than formal economic systems.
 
 ## Barter Economies
 
@@ -583,11 +583,11 @@ In the harsh economic realities of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 ## Connected Systems and Cross-References
 
-- [[02_Worldbuilding/Lore/District Economic Profiles]] - Economic conditions creating need for survival strategies
-- [[02_Worldbuilding/Lore/Favor Exchange Networks]] - Non-monetary systems supporting community survival
-- [[02_Worldbuilding/Groups/Dock Workers Guild]] - Formal organizations providing community support
+- [[02_Worldbuilding/Lore/District Economic Profiles|02 Worldbuilding/Lore/District Economic Profiles]] - Economic conditions creating need for survival strategies
+- [[02_Worldbuilding/Lore/Favor Exchange Networks|02 Worldbuilding/Lore/Favor Exchange Networks]] - Non-monetary systems supporting community survival
+- [[02_Worldbuilding/Groups/Dock Workers Guild|02 Worldbuilding/Groups/Dock Workers Guild]] - Formal organizations providing community support
 - [[Sister Morwyn]] - Community organizer working with poverty survival networks
-- [[03_Mechanics/Faction Standing System]] - Tracking relationships with community support networks
+- [[03_Mechanics/Faction Standing System|03 Mechanics/Faction Standing System]] - Tracking relationships with community support networks
 
 ## Player-Facing Summary
 

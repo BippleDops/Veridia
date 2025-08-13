@@ -20,7 +20,7 @@ world: Both
 # Armor of Shadows
 *Source: Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-You can cast [Mage Armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md) on yourself without expending a spell slot.
+You can cast [[/03_Mechanics/CLI/spells/mage-armor-xphb|Mage Armor]] on yourself without expending a spell slot.
 
 ## Player-Facing Summary
 

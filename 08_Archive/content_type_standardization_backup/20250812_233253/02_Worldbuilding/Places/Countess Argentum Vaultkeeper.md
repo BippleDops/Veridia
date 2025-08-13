@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]
+- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper|02 Worldbuilding/Places/Countess Argentum Vaultkeeper]]
 
 <!-- enriched: true -->
 

@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes|02 Worldbuilding/Lore/Timeline Of Crimes]]
 
 
 ## Connections

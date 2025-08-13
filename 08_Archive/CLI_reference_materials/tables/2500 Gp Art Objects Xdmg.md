@@ -25,16 +25,16 @@ world: Both
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [Fine gold chain set with a fire opal](/03_Mechanics/CLI/items/fine-gold-chain-set-with-a-fire-opal-xdmg.md) |
-| 2 | [Old masterpiece painting](/03_Mechanics/CLI/items/old-masterpiece-painting-xdmg.md) |
-| 3 | [Embroidered silk and velvet mantle set with numerous moonstones](/03_Mechanics/CLI/items/embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg.md) |
-| 4 | [Platinum bracelet set with an emerald](/03_Mechanics/CLI/items/platinum-bracelet-set-with-an-emerald-xdmg.md) |
-| 5 | [Embroidered glove set with jewel chips](/03_Mechanics/CLI/items/embroidered-glove-set-with-jewel-chips-xdmg.md) |
-| 6 | [Jeweled anklet](/03_Mechanics/CLI/items/jeweled-anklet-xdmg.md) |
-| 7 | [Gold music box](/03_Mechanics/CLI/items/gold-music-box-xdmg.md) |
-| 8 | [Gold circlet set with four aquamarines](/03_Mechanics/CLI/items/gold-circlet-set-with-four-aquamarines-xdmg.md) |
-| 9 | [Eye patch decorated with tiny blue sapphires and moonstones](/03_Mechanics/CLI/items/eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg.md) |
-| 10 | A [necklace string of small pink pearls](/03_Mechanics/CLI/items/necklace-string-of-small-pink-pearls-xdmg.md) |
+| 1 | [[/03_Mechanics/CLI/items/fine-gold-chain-set-with-a-fire-opal-xdmg|Fine gold chain set with a fire opal]] |
+| 2 | [[/03_Mechanics/CLI/items/old-masterpiece-painting-xdmg|Old masterpiece painting]] |
+| 3 | [[/03_Mechanics/CLI/items/embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg|Embroidered silk and velvet mantle set with numerous moonstones]] |
+| 4 | [[/03_Mechanics/CLI/items/platinum-bracelet-set-with-an-emerald-xdmg|Platinum bracelet set with an emerald]] |
+| 5 | [[/03_Mechanics/CLI/items/embroidered-glove-set-with-jewel-chips-xdmg|Embroidered glove set with jewel chips]] |
+| 6 | [[/03_Mechanics/CLI/items/jeweled-anklet-xdmg|Jeweled anklet]] |
+| 7 | [[/03_Mechanics/CLI/items/gold-music-box-xdmg|Gold music box]] |
+| 8 | [[/03_Mechanics/CLI/items/gold-circlet-set-with-four-aquamarines-xdmg|Gold circlet set with four aquamarines]] |
+| 9 | [[/03_Mechanics/CLI/items/eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg|Eye patch decorated with tiny blue sapphires and moonstones]] |
+| 10 | A [[/03_Mechanics/CLI/items/necklace-string-of-small-pink-pearls-xdmg|necklace string of small pink pearls]] |
 ^2500-gp-art-objects
 
 ## Player-Facing Summary

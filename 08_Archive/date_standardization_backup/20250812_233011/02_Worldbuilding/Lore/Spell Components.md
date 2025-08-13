@@ -134,7 +134,7 @@ The most powerful and dangerous components become crucial for resolving campaign
 - [[Thalassius the Wise]]
 - [[Corruption Exposure Tracking]]
 - [[Crystal corruption mechanics]]
-- [[Ω_System-CLI-spells-school-abjuration]]
+- [[Ω_System-CLI-spells-school-abjuration|Ω System CLI Spells School Abjuration]]
 - [[Investigation Procedures]]
 
 ## DM Guidance
@@ -188,4 +188,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]

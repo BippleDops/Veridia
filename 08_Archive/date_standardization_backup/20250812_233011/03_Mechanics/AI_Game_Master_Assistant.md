@@ -31,7 +31,7 @@ Adaptive difficulty, tension calculators, pacing, engagement tracking, narrative
 - Measure spotlight, choices, agency; suggest prompts
 
 ## Narrative Coherence
-- Validate callbacks and foreshadowing against [[Master_Campaign_Index]] links
+- Validate callbacks and foreshadowing against [[Master_Campaign_Index|Master Campaign Index]] links
 
 ## Rule Arbitration
 - Provide rulings with citations to vault systems; log overrides
@@ -58,4 +58,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Phase_Omega_Enhanced_Index]]
+- [[03_Mechanics/Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]

@@ -571,7 +571,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Innovation**: Joint development of new techniques and technologies  
 **Knowledge**: Access to academy knowledge and research resources
 
-### [[02_Worldbuilding/Lore/pat]]
+### [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]
 **Competition**: Commercial competition affecting customs revenues and procedures  
 **Coordination**: Some coordination on trade routes and commercial standards  
 **Information**: Information sharing on market conditions and trading patterns  
@@ -595,7 +595,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 - [[Port Meridian Harbor District]]
 - [[Crystalhaven]]
 - [[The Crystal Academy]]
-- [[02_Worldbuilding/Lore/pat]]
+- [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]
 
 **Related NPCs**:
 - [[Chief Inspector Magnus Ledgerkeep]]
@@ -634,7 +634,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/Harbor District Customs House|02 Worldbuilding/Places/Harbor District Customs House]]
 
 <!-- enriched: true -->
 - [[The Whisper Syndicate]]

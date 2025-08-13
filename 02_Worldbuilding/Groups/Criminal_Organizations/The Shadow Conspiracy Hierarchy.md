@@ -26,7 +26,7 @@ world: Aquabyssos
 
 ## Overview
 
-[[02_Worldbuilding/People/The Shadow Conspiracy]] operates through a sophisticated hierarchical structure that combines corporate efficiency, military discipline, and occult mysticism. The organization has evolved from loose collection of shadow entities into a continental power structure capable of coordinating operations across multiple governments, institutions, and dimensions.
+[[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]] operates through a sophisticated hierarchical structure that combines corporate efficiency, military discipline, and occult mysticism. The organization has evolved from loose collection of shadow entities into a continental power structure capable of coordinating operations across multiple governments, institutions, and dimensions.
 
 The hierarchy serves three primary functions: operational command for complex multi-site missions, knowledge compartmentalization preventing security breaches, and spiritual progression for shadow entities seeking evolution beyond their current existence. Each level represents not just authority, but fundamental transformation in the operative's relationship with shadow essence and human consciousness.
 
@@ -77,7 +77,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 **Resources**: 2,800 operatives, 15 major facilities, extensive political network
 
 **Key Operations**:
-- Parliamentary infiltration through [[02_Worldbuilding/Lore/Parliamentary Infiltration Methods]]
+- Parliamentary infiltration through [[02_Worldbuilding/Lore/Parliamentary Infiltration Methods|02 Worldbuilding/Lore/Parliamentary Infiltration Methods]]
 - Economic manipulation via shadow-controlled merchant houses
 - Cultural influence through educational institution control
 - Military intelligence gathering and sabotage coordination
@@ -101,7 +101,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 **Resources**: 2,100 operatives, 18 major facilities, advanced research capabilities
 
 **Key Operations**:
-- [[02_Worldbuilding/Lore/Consciousness Manipulation Technology]] development and refinement
+- [[02_Worldbuilding/Lore/Consciousness Manipulation Technology|02 Worldbuilding/Lore/Consciousness Manipulation Technology]] development and refinement
 - Industrial sabotage and production manipulation
 - Scientific research infiltration and technological advancement
 - Manufacturing facility control for equipment production
@@ -122,7 +122,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 
 ##### The Surgical Regent
 **Current Holder**: [[Archshadow Mortis Voidcut]]  
-**Department**: [[02_Worldbuilding/Places/Shadow Surgery Network]] operations  
+**Department**: [[02_Worldbuilding/Places/Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Network]] operations  
 **Specialization**: Consciousness transfer and identity replacement procedures  
 **Authority**: All surgical facilities, medical personnel, replacement operations
 
@@ -199,7 +199,7 @@ Each Departmental Regent oversees multiple specialized commanders:
 #### Facility Captains
 Direct commanders of major shadow conspiracy installations:
 
-**[[02_Worldbuilding/Places/Shadow Surgery Network]] Examples**:
+**[[02_Worldbuilding/Places/Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Network]] Examples**:
 - **Captain Scalpel Voidhand**: The Deep Ward primary facility commander
 - **Captain Healing Shadowtouch**: The Restoration Chambers mobile operations
 - **Captain Memory Darkblade**: The Garden of Whispers pediatric operations

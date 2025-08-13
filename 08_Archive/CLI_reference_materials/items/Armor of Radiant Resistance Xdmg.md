@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to radiant damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to radiant damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Radiant Resistance](#Breastplate%20of%20Radiant%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to rad
 - [Splint Armor of Radiant Resistance](#Splint%20Armor%20of%20Radiant%20Resistance)
 - [Studded Leather Armor of Radiant Resistance](#Studded%20Leather%20Armor%20of%20Radiant%20Resistance)
 
-### Breastplate of Radiant Resistance
+## Breastplate of Radiant Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

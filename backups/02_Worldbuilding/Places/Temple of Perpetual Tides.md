@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of Perpetual Tides]]
+- [[02_Worldbuilding/Places/Temple of Perpetual Tides|02 Worldbuilding/Places/Temple Of Perpetual Tides]]
 
 <!-- enriched: true -->
 

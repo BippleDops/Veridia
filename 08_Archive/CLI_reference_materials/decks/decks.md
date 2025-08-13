@@ -16,13 +16,13 @@ world: Both
 
 # Index of Decks
 
-- [Deck of Illusions](./deck-of-illusions-xdmg.md)
-- [Deck of Illusions](./deck-of-illusions.md)
-- [Deck of Many Things (13 Cards)](./deck-of-many-things-13-cards-xdmg.md)
-- [Deck of Many Things (13 Cards)](./deck-of-many-things-13-cards.md)
-- [Deck of Many Things](./deck-of-many-things-xdmg.md)
-- [Deck of Many Things](./deck-of-many-things.md)
-- [Tarokka Deck](./tarokka-deck-cos.md)
+- [[./deck-of-illusions-xdmg|Deck of Illusions]]
+- [[./deck-of-illusions|Deck of Illusions]]
+- [[./deck-of-many-things-13-cards-xdmg|Deck of Many Things (13 Cards)]]
+- [[./deck-of-many-things-13-cards|Deck of Many Things (13 Cards)]]
+- [[./deck-of-many-things-xdmg|Deck of Many Things]]
+- [[./deck-of-many-things|Deck of Many Things]]
+- [[./tarokka-deck-cos|Tarokka Deck]]
 
 ## Player-Facing Summary
 

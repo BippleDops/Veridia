@@ -138,6 +138,6 @@ Legends speak of Bathyal Succession as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bathyal Succession]]
+- [[02_Worldbuilding/Places/Bathyal Succession|02 Worldbuilding/Places/Bathyal Succession]]
 
 <!-- enriched: true -->

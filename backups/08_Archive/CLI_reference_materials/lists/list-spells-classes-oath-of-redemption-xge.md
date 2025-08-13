@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Sanctuary](/03_Mechanics/CLI/spells/sanctuary-xphb.md "XPHB") at class level 5
-- [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/sanctuary-xphb "XPHB"|Sanctuary]] at class level 5
+- [[/03_Mechanics/CLI/spells/sleep-xphb "XPHB"|Sleep]] at class level 5
 
 ## 2nd Level
 
-- [Calm Emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 5
-- [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/calm-emotions-xphb "XPHB"|Calm Emotions]] at class level 5
+- [[/03_Mechanics/CLI/spells/hold-person-xphb "XPHB"|Hold Person]] at class level 5
 
 ## 3rd Level
 
-- [Counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md "XPHB") at class level 5
-- [Hypnotic Pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/counterspell-xphb "XPHB"|Counterspell]] at class level 5
+- [[/03_Mechanics/CLI/spells/hypnotic-pattern-xphb "XPHB"|Hypnotic Pattern]] at class level 5
 
 ## 4th Level
 
-- [Otiluke's Resilient Sphere](/03_Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 5
-- [Stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/otilukes-resilient-sphere-xphb "XPHB"|Otiluke's Resilient Sphere]] at class level 5
+- [[/03_Mechanics/CLI/spells/stoneskin-xphb "XPHB"|Stoneskin]] at class level 5
 
 ## 5th Level
 
-- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 5
-- [Wall of Force](/03_Mechanics/CLI/spells/wall-of-force-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/hold-monster-xphb "XPHB"|Hold Monster]] at class level 5
+- [[/03_Mechanics/CLI/spells/wall-of-force-xphb "XPHB"|Wall of Force]] at class level 5
 
 ## Player-Facing Summary
 

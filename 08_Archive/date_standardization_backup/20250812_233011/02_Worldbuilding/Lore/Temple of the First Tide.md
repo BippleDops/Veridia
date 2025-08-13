@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
 
 
 ## Connections
@@ -35,7 +35,7 @@ tags:
 - [[Tidal Chambers]]
 - [[Tidal Memory Ceremonies]]
 - [[Aethermoor]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

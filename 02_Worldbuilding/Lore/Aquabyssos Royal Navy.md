@@ -15,7 +15,7 @@ world: Aquabyssos
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[02_Worldbuilding/Quests/The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]
 
 
 ## Connections

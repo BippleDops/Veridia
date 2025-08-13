@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Kingdom of Luminal Peaks]]
+- [[02_Worldbuilding/People/Kingdom of Luminal Peaks|02 Worldbuilding/People/Kingdom Of Luminal Peaks]]
 
 <!-- enriched: true -->
 

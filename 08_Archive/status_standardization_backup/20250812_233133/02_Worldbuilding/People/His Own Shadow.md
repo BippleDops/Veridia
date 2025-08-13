@@ -157,7 +157,7 @@ He operates from the Reflection District, a maze-like area where mirrors line ev
 
 ## Connections
 
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
 
 ## Player-Facing Summary
 
@@ -179,7 +179,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/His Own Shadow|02 Worldbuilding/People/His Own Shadow]]
 
 <!-- enriched: true -->
 - [[Memory Merchant Valeria Siltweave]]

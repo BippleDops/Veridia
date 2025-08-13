@@ -26,7 +26,7 @@ world: Aquabyssos
 
 # The Party
 
-![The Party Portrait](04_Resources/Assets/Art/NPCs/The_Party.png)
+![[04_Resources/Assets/Art/NPCs/The_Party.png|The Party Portrait]]
 
 *Guidelines for integrating player characters into Aquabyssos*
 
@@ -427,11 +427,11 @@ Adjust for party composition:
 ---
 
 ## See Also
-- [[07_Player_Resources/Character_Options/Character_Bonds]]
-- [[02_Worldbuilding/Groups/Faction_Overview]]
-- [[03_Mechanics/Social_Systems/Party_Reputation]]
-- [[06_GM_Resources/Session_Tools/Session_Zero_Guide]]
-- [[03_Mechanics/Underwater_Adaptation_Rules]]
+- [[07_Player_Resources/Character_Options/Character_Bonds|07 Player Resources/Character Options/Character Bonds]]
+- [[02_Worldbuilding/Groups/Faction_Overview|02 Worldbuilding/Groups/Faction Overview]]
+- [[03_Mechanics/Social_Systems/Party_Reputation|03 Mechanics/Social Systems/Party Reputation]]
+- [[06_GM_Resources/Session_Tools/Session_Zero_Guide|06 GM Resources/Session Tools/Session Zero Guide]]
+- [[03_Mechanics/Underwater_Adaptation_Rules|03 Mechanics/Underwater Adaptation Rules]]
 
 *"The Party is not just who you adventure with—they're who you become."*
 
@@ -455,7 +455,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Party]]
+- [[02_Worldbuilding/People/The Party|02 Worldbuilding/People/The Party]]
 
 <!-- enriched: true -->
 
@@ -463,4 +463,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Oracle]]
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]

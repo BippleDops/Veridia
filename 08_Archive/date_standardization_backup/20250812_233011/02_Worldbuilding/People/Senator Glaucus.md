@@ -10,7 +10,7 @@ first_name: Glaucus
 last_name: Tidecaller
 title: Senator
 location: '[[Abyssos Prime - Parliament of Echoes]]'
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 secondary_faction: '[[Shadow Conspiracy]]'
 occupation: Senator (Shadow-replaced)
 disposition: -2
@@ -30,8 +30,8 @@ depth_adapted: 4
 portrait: ''
 relationship_type: political
 relationships:
-- '[[02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Original Glaucus]] (imprisoned)'
 related_quests:
@@ -91,43 +91,43 @@ Senator Glaucus appears as a tall, unnaturally thin figure whose translucent ski
 The original Glaucus was a respected senator, advocate for surface-depth trade relations, and opponent of isolation policies. He investigated shadow anomalies three weeks ago and disappeared for two days.
 
 ### The Replacement
-Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[02_Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
+Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
 
 ### Current Activities
 - Pushing for the [[Shadow Citizenship Act]]
 - Identifying targets for shadow replacement
-- Maintaining cover while serving [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+- Maintaining cover while serving [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]
 - Sabotaging investigations into shadow conspiracy
 
 ## Relationships
 
 ### Allies
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy from [[02_Worldbuilding/Places/Tenebrarum]]
-- **[[02_Worldbuilding/Groups/Shadow Parliament]]** - Secret organization of replaced officials
-- **[[02_Worldbuilding/Groups/Tenebrarum Ambassadors]]** - Fellow shadows working the political system
-- **[[02_Worldbuilding/Groups/Memory Farmers]]** - Collaborates in harvesting original memories
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy from [[02_Worldbuilding/Places/Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]
+- **[[02_Worldbuilding/Groups/Shadow Parliament|02 Worldbuilding/Groups/Shadow Parliament]]** - Secret organization of replaced officials
+- **[[02_Worldbuilding/Groups/Tenebrarum Ambassadors|02 Worldbuilding/Groups/Tenebrarum Ambassadors]]** - Fellow shadows working the political system
+- **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]** - Collaborates in harvesting original memories
 
 ### Rivals
-- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
 - **[[Original Glaucus]]** - Imprisoned but still fighting mentally
 
 ### Unknowing Associates
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Suspects something but unsure of the truth
-- **[[02_Worldbuilding/Groups/Parliament Loyalists]]** - Still believe he's the original Senator
-- **Other Parliament Members** - Unaware colleagues in [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos|02 Worldbuilding/People/Marina Red Tide Coralheart Aquabyssos]]** - Suspects something but unsure of the truth
+- **[[02_Worldbuilding/Groups/Parliament Loyalists|02 Worldbuilding/Groups/Parliament Loyalists]]** - Still believe he's the original Senator
+- **Other Parliament Members** - Unaware colleagues in [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 
 ## Associates & Shadow Network
 
 ### Shadow Hierarchy
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Primary superior and coordinator
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Primary superior and coordinator
 - **Other Replaced Senators** - Fellow shadows infiltrating the Parliament
 - **Shadow Operatives** - Field agents carrying out replacement operations
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]** - The broader organization he serves
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]** - The broader organization he serves
 
 ### Political Connections (Maintained for Cover)
 - **Parliamentary Committees** - Various legislative bodies he serves on
 - **Trade Relations Council** - His original area of expertise
-- **Surface-Depth Diplomatic Corps** - Connections to [[02_Worldbuilding/Places/Aethermoor]] relations
+- **Surface-Depth Diplomatic Corps** - Connections to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] relations
 
 ## Shadow Abilities
 
@@ -273,7 +273,7 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 - [[Senator]]
 - [[Parliament of Echoes]]
 - [[Rescue Senator Glaucus]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -295,7 +295,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]
 
 <!-- enriched: true -->
 - [[Original Glaucus]]

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Embassy]]
+- [[02_Worldbuilding/People/Shadow Embassy|02 Worldbuilding/People/Shadow Embassy]]
 
 <!-- enriched: true -->
 

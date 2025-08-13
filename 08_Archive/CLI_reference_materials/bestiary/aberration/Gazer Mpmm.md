@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gazer-mpmm-gazer-mpmm.svg)
 
-# [Gazer](3-Mechanics\CLI\bestiary\aberration/gazer-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/gazer-mpmm|Gazer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  
 
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
@@ -55,18 +55,18 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 "saves":
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The gazer can mimic simple sounds of speech it has heard, in any language.\
       \ A creature that hears the sounds can tell they are imitations with a successful\
-      \ DC 10 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check."
+      \ DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check."
     "name": "Mimicry"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing\
@@ -75,11 +75,11 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
   - "desc": "The gazer shoots two of the following magical eye rays at random (roll\
       \ two d4s, and reroll duplicates), choosing one or two targets it can see within\
       \ 60 feet of it:\n\n- 1 Dazing Ray. The targeted creature must succeed on\
-      \ a DC 12 Wisdom saving throw or be [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
-      \ until the start of the gazer's next turn. While the target is [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ a DC 12 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ until the start of the gazer's next turn. While the target is [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
       \ in this way, its speed is halved, and it has disadvantage on attack rolls.\
       \  \n- 2 Fear Ray. The targeted creature must succeed on a DC 12 Wisdom\
-      \ saving throw or be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ until the start of the gazer's next turn.  \n- 3 Frost Ray. The target\
       \ must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.\
       \  \n- 4 Telekinetic Ray. If the target is a creature that is Medium or\

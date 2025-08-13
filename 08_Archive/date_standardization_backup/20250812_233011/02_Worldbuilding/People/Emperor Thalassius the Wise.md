@@ -303,7 +303,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - [[Crystal Wardens]]
 - [[Discover Marina's Truth]]
 - [[Korvin Blacktide]]
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 - [[Oracle]]
 - [[Senator Marius]]
 - [[Senator]]
@@ -313,8 +313,8 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - [[The Sorrowmaster]]
 - [[Senator's Private Chambers]]
 - [[Vault Breach]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -336,7 +336,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]
 
 <!-- enriched: true -->
 - [[Purist Coalition]]

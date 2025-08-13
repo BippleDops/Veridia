@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Reflection Captain Vantage]]
+- [[02_Worldbuilding/People/Reflection Captain Vantage|02 Worldbuilding/People/Reflection Captain Vantage]]
 
 <!-- enriched: true -->
 

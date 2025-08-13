@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Professor Marina Reefbuilder]]
+- [[02_Worldbuilding/Places/Professor Marina Reefbuilder|02 Worldbuilding/Places/Professor Marina Reefbuilder]]
 
 <!-- enriched: true -->

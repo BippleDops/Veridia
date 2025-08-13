@@ -34,7 +34,7 @@ accessibility:
 
 # The Corroded Crown
 
-![The Corroded Crown Portrait](04_Resources/Assets/Art/NPCs/The_Corroded_Crown.png)
+![[04_Resources/Assets/Art/NPCs/The_Corroded_Crown.png|The Corroded Crown Portrait]]
 
 ## Role and Motive
 The Corroded Crown moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

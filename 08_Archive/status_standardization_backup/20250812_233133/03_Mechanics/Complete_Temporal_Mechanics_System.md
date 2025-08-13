@@ -45,7 +45,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 
 ## Chrono-Corruption
 - Symptoms: Time-sickness, identity drift, déjà vu loops
-- Mechanics: Failed saves cause Long/Indefinite Madness (see [[02_Worldbuilding/Quests/Aquabyssos]])
+- Mechanics: Failed saves cause Long/Indefinite Madness (see [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]])
 - Treatment: Memory transfusions, anchor sanctification, Deep Mother bargains
 
 ## Temporal Anomalies (d20 samples)
@@ -59,7 +59,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 - Fast/Slow/Stopped bands; pressure/altitude modifiers interact with time flow
 - Long exposure: Aging/regression risks; sanity checks
 
-Integration: [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Deep Mother]].
+Integration: [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Deep Mother]].
 
 ## Player-Facing Summary
 
@@ -83,10 +83,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/Travel/Encounter_Sheets/M-102_Time_Skip_Round]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/M-102_Time_Skip_Round|06 GM Resources/Travel/Encounter Sheets/M 102 Time Skip Round]]
 
 
 ## Connections
 
-- [[Campaign_Legacy_System]]
-- [[M-102_Time_Skip_Round]]
+- [[Campaign_Legacy_System|Campaign Legacy System]]
+- [[M-102_Time_Skip_Round|M 102 Time Skip Round]]

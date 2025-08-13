@@ -31,11 +31,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-You overwhelm the mind of one creature you can see within range. If the target has 150 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) or fewer, it has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition. Otherwise, its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) is 0 until the start of your next turn.
+You overwhelm the mind of one creature you can see within range. If the target has 150 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or fewer, it has the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition. Otherwise, its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] is 0 until the start of your next turn.
 
-The [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
+The [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
-**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

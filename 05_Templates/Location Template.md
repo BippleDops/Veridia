@@ -5,7 +5,7 @@ danger_level: 1-6
 depth: Surface/Shallow/Medium/Deep/Abyss
 government: Government type and leadership
 location_type: TYPE (e.g., City, Dungeon, Wilderness)
-parent_location: '[[Parent_Location_Name]]'
+parent_location: '[[Parent_Location_Name|Parent Location Name]]'
 population: ~NUMBER and demographics
 status: complete
 tags:

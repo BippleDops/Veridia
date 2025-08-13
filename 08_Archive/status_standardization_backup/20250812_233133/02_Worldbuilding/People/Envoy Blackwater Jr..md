@@ -260,7 +260,7 @@ Cassius's supernatural abilities come at the cost of his soul, measured as perce
 
 ## Connected Locations
 - **[[Blackwater Estate]]** - Ancestral home filled with diplomatic secrets
-- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]** - Center of Aquabyssos's international relations
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]]** - Center of Aquabyssos's international relations
 - **[[Shadow Embassy]]** - Secret meeting place for supernatural negotiations
 - **[[The Soul Market]]** - Hidden realm where supernatural debts are traded
 
@@ -288,8 +288,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/Places/Envoy Blackwater Jr.]]
+- [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
+- [[02_Worldbuilding/Places/Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
 
 <!-- enriched: true -->
 

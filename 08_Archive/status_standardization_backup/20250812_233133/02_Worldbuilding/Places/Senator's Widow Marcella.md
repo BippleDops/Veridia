@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator's Widow Marcella]]
+- [[02_Worldbuilding/Places/Senator's Widow Marcella|02 Worldbuilding/Places/Senator's Widow Marcella]]
 
 <!-- enriched: true -->
 

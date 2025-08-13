@@ -18,7 +18,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Port Sorrow Trading Company]]
+- [[02_Worldbuilding/Groups/Port Sorrow Trading Company|02 Worldbuilding/Groups/Port Sorrow Trading Company]]
 
 ## Player-Facing Summary
 

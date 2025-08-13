@@ -41,18 +41,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard|Campaign Dashboard]]
 
 
 ## Connections
 
-- [[Complete_Faction_Warfare_System]]
-- [[Complete_Reality_Merger_System]]
-- [[Hybrid_Class_System]]
-- [[Aethermoor_Airships]]
-- [[Aquabyssos_Submarines]]
-- [[Vehicle_Core_Rules]]
-- [[New_Journey_Event_Template]]
-- [[D-101_Abyssal_Thermocline_Knife]]
-- [[Depth_Events_Pack_A]]
-- [[Depth_Events_Pack_D]]
+- [[Complete_Faction_Warfare_System|Complete Faction Warfare System]]
+- [[Complete_Reality_Merger_System|Complete Reality Merger System]]
+- [[Hybrid_Class_System|Hybrid Class System]]
+- [[Aethermoor_Airships|Aethermoor Airships]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]
+- [[New_Journey_Event_Template|New Journey Event Template]]
+- [[D-101_Abyssal_Thermocline_Knife|D 101 Abyssal Thermocline Knife]]
+- [[Depth_Events_Pack_A|Depth Events Pack A]]
+- [[Depth_Events_Pack_D|Depth Events Pack D]]

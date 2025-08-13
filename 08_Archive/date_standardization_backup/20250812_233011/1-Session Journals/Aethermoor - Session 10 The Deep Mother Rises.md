@@ -6,7 +6,7 @@ location: '[[The Abyss Beneath Aquabyssos]]'
 npcs_featured:
 - '[[The Deep Mother]]'
 - '[[United Councils of Both Worlds]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]] (Echo)'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Echo)'
 - '[[Eastern Kingdom Fleet]]'
 quests_advanced:
 - '[[Face the Ancient Threat]]'
@@ -83,7 +83,7 @@ The merged city shudders as massive tentacles of pure void rise from the depths.
 6. Union of surface and depth magic can create life
 7. The Deep Mother's tears created the first oceans
 8. Void and reality can coexist if balanced
-9. [[02_Worldbuilding/People/The Crimson Sage]] became part of the world's magic
+9. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] became part of the world's magic
 10. This cycle has repeated across ages
 
 ## 👥 NPCs
@@ -158,7 +158,7 @@ If the party makes a compact with the Deep Mother, she withdraws but takes [[Aqu
 - Mythic boons from the Deep Mother
 - Access to Aquabyssos magic/technology
 - Eastern Kingdom trade rights
-- [[02_Worldbuilding/People/The Crimson Sage]]'s complete magical library
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s complete magical library
 - Choice of transformation or preservation
 - Epilogue scenes based on choices
 
@@ -206,4 +206,4 @@ Future Hooks:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]

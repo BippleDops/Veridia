@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Hub]]
+- [[05_Templates/World Builder Templates/Template-Hub|05 Templates/World Builder Templates/Template Hub]]
 
 
 ## Connections

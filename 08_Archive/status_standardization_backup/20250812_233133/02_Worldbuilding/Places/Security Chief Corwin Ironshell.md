@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Security Chief Corwin Ironshell]]
+- [[02_Worldbuilding/Places/Security Chief Corwin Ironshell|02 Worldbuilding/Places/Security Chief Corwin Ironshell]]
 
 <!-- enriched: true -->
 

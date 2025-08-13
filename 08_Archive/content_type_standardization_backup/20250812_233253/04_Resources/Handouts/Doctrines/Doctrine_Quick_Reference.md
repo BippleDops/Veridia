@@ -35,4 +35,4 @@ Travel feels different under each doctrine. Use this as a vibe guide and checkli
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]

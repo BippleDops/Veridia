@@ -24,7 +24,7 @@ danger_level: Moderate
 *Where Ancient Wars Echo and the Dead Never Rest*
 
 ## Overview
-The Screaming Battleground is a vast, cursed wasteland where the final battle between the ancient [[02_Worldbuilding/Lore/Ancient Mer-Folk Empire]] and the surface kingdoms was fought 500 years ago. The intense magical conflict left the land permanently scarred, with crystalline formations erupting from the earth and the screams of the fallen echoing eternally across the battlefield. Now it serves as a dangerous wasteland where desperate parties venture for ancient treasures and lost magical artifacts.
+The Screaming Battleground is a vast, cursed wasteland where the final battle between the ancient [[02_Worldbuilding/Lore/Ancient Mer-Folk Empire|02 Worldbuilding/Lore/Ancient Mer Folk Empire]] and the surface kingdoms was fought 500 years ago. The intense magical conflict left the land permanently scarred, with crystalline formations erupting from the earth and the screams of the fallen echoing eternally across the battlefield. Now it serves as a dangerous wasteland where desperate parties venture for ancient treasures and lost magical artifacts.
 
 ## Battlefield Geography
 
@@ -43,7 +43,7 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 ### The Sorrow Trenches
 - **Defensive Lines**: Ancient fortifications now crystal-encrusted
 - **Flooded Tunnels**: Magical waters that never drain
-- **The Last Stand**: Where [[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]] made final defense
+- **The Last Stand**: Where [[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient Aquabyssos Rulers]] made final defense
 - **Siege Engine Graveyard**: Massive war machines half-buried in crystal
 
 ### The Weeping Cliffs
@@ -76,12 +76,12 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 ### Spectral Forces
 - **The Eternal Legion**: Undead soldiers from both armies
-- **[[02_Worldbuilding/People/The Crimson Sage]]'s Wraiths** - Appear periodically to collect research
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s Wraiths** - Appear periodically to collect research
 - **Phantom Commanders**: Ghostly leaders still fighting the war
 - **Crystal Wraiths**: Spirits bound to corrupted formations
 
 ### Living Scavengers
-- **[[02_Worldbuilding/People/Mad Oracle Thessaly]]** - Studies battlefield prophecies
+- **[[02_Worldbuilding/People/Mad Oracle Thessaly|02 Worldbuilding/People/Mad Oracle Thessaly]]** - Studies battlefield prophecies
 - **Bone Collector Grimm** - Harvests remains for necromancers
 - **Crystal Prospector Vale** - Mines corrupted magical substances
 - **The War Historian** - Documents ghostly battles
@@ -108,9 +108,9 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 
 ### Survivors and Witnesses
 - Only 12 total survivors from both armies
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]]'s ancestor documented the battle
-- Records kept in [[02_Worldbuilding/Places/Aethermoor Archives]]
-- [[02_Worldbuilding/People/The Deep Mother]] emerged from the devastation
+- [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]]'s ancestor documented the battle
+- Records kept in [[02_Worldbuilding/Places/Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]
+- [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]] emerged from the devastation
 
 ## Treasure & Artifacts
 
@@ -155,22 +155,22 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 ## Current Activities
 
 ### Research Expeditions
-- [[02_Worldbuilding/People/The Crimson Sage]] harvests battle memories
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] studies crystal formations
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] harvests battle memories
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]] studies crystal formations
 - [[Crystal Wardens]] investigate corruption spread
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] seeks to consecrate the battlefield
+- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] seeks to consecrate the battlefield
 
 ### Treasure Hunters
-- [[02_Worldbuilding/Groups/Independent Smugglers]] organize expeditions
-- [[02_Worldbuilding/People/Merchant Viktor Geargrind]] finances recovery operations
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] seeks magical weapons
-- [[02_Worldbuilding/People/Antiquarian Eliza Tidecaller]] collects historical artifacts
+- [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] organize expeditions
+- [[02_Worldbuilding/People/Merchant Viktor Geargrind|02 Worldbuilding/People/Merchant Viktor Geargrind]] finances recovery operations
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] seeks magical weapons
+- [[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]] collects historical artifacts
 
 ### Military Interest
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] studies ancient tactics
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] seeks naval warfare artifacts
-- [[02_Worldbuilding/Groups/Purist Coalition]] believes battlefield proves crystal danger
-- [[02_Worldbuilding/People/Captain Scale-Walker]] uses area as training ground
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] studies ancient tactics
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] seeks naval warfare artifacts
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] believes battlefield proves crystal danger
+- [[02_Worldbuilding/People/Captain Scale-Walker|02 Worldbuilding/People/Captain Scale Walker]] uses area as training ground
 
 ## Adventure Hooks
 
@@ -195,22 +195,22 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 ## Regional Connections
 
 ### Supply Lines
-- Expeditions launch from [[02_Worldbuilding/Places/Port Meridian]]
-- Equipment sourced from [[02_Worldbuilding/Places/The Crimson Foundries]]
-- Healing supplies from [[02_Worldbuilding/Places/Temple of Divine Order]]
-- Magical protection gear from [[02_Worldbuilding/Places/Crystalhaven]]
+- Expeditions launch from [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+- Equipment sourced from [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]]
+- Healing supplies from [[02_Worldbuilding/Places/Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]
+- Magical protection gear from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
 
 ### Information Networks
-- Historical records in [[02_Worldbuilding/Places/Aethermoor Archives]]
-- Survivor accounts with [[02_Worldbuilding/People/Keeper Elara Moonwhisper]]
-- Military analysis by [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- Magical research from [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- Historical records in [[02_Worldbuilding/Places/Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]
+- Survivor accounts with [[02_Worldbuilding/People/Keeper Elara Moonwhisper|02 Worldbuilding/People/Keeper Elara Moonwhisper]]
+- Military analysis by [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- Magical research from [[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]]
 
 ### Economic Impact
-- Artifact trade through [[02_Worldbuilding/Groups/Merchant Princes]]
-- Insurance for expeditions via [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
-- Healing services from [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- Equipment rental from [[02_Worldbuilding/People/Merchant Viktor Geargrind]]
+- Artifact trade through [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]
+- Insurance for expeditions via [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
+- Healing services from [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- Equipment rental from [[02_Worldbuilding/People/Merchant Viktor Geargrind|02 Worldbuilding/People/Merchant Viktor Geargrind]]
 
 ## Tactical Information
 
@@ -227,17 +227,17 @@ The Screaming Battleground is a vast, cursed wasteland where the final battle be
 - **Soul Siphon Fields**: Drain life force rapidly
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Broader wasteland region
-- [[02_Worldbuilding/Places/Port Meridian]] - Launch point for expeditions
-- [[02_Worldbuilding/Places/Aethermoor Archives]] - Historical documentation
-- [[02_Worldbuilding/Places/Temple of Divine Order]] - Consecration attempts
-- [[02_Worldbuilding/Places/The Memory Meadows Black Market]] - Artifact trading
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Broader wasteland region
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Launch point for expeditions
+- [[02_Worldbuilding/Places/Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]] - Historical documentation
+- [[02_Worldbuilding/Places/Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]] - Consecration attempts
+- [[02_Worldbuilding/Places/The Memory Meadows Black Market|02 Worldbuilding/Places/The Memory Meadows Black Market]] - Artifact trading
 
 ## Connected Factions
 - [[Crystal Wardens]] - Investigating corruption spread
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Treasure hunting expeditions
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Seeking magical weapons
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Using as anti-crystal propaganda
+- [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Treasure hunting expeditions
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Seeking magical weapons
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Using as anti-crystal propaganda
 
 ## Ongoing Threats
 - Crystal corruption spreading to nearby settlements
@@ -259,7 +259,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Screaming Battleground]]
+- [[02_Worldbuilding/Places/The Screaming Battleground|02 Worldbuilding/Places/The Screaming Battleground]]
 
 <!-- enriched: true -->
 

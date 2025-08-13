@@ -25,10 +25,10 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Cold damage while you hold this staff.
 
 ## Spells
 
@@ -36,10 +36,10 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md) | 5 |
-| [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md) | 1 |
-| [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md) | 4 |
-| [Wall of Ice](/03_Mechanics/CLI/spells/wall-of-ice-xphb.md) | 4 |
+| [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|Cone of Cold]] | 5 |
+| [[/03_Mechanics/CLI/spells/fog-cloud-xphb|Fog Cloud]] | 1 |
+| [[/03_Mechanics/CLI/spells/ice-storm-xphb|Ice Storm]] | 4 |
+| [[/03_Mechanics/CLI/spells/wall-of-ice-xphb|Wall of Ice]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

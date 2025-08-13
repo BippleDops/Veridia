@@ -19,17 +19,17 @@ world: Both
 # Appendix C: Magic Items
 *Source: Hoard of the Dragon Queen, p. 178* 
 
-- [Dragontooth Dagger](/03_Mechanics/CLI/items/dragontooth-dagger-rot.md)  
-- [Hazirawn](/03_Mechanics/CLI/items/hazirawn-hotdq.md)  
-- [Insignia of Claws](/03_Mechanics/CLI/items/insignia-of-claws-hotdq.md)  
-- [Tankard of Plenty](/03_Mechanics/CLI/items/tankard-of-plenty-hotdq.md)  
-- [Wand of Winter](/03_Mechanics/CLI/items/wand-of-winter-hotdq.md)  
-- [Black Dragon Mask](/03_Mechanics/CLI/items/black-dragon-mask-hotdq.md)  
+- [[/03_Mechanics/CLI/items/dragontooth-dagger-rot|Dragontooth Dagger]]  
+- [[/03_Mechanics/CLI/items/hazirawn-hotdq|Hazirawn]]  
+- [[/03_Mechanics/CLI/items/insignia-of-claws-hotdq|Insignia of Claws]]  
+- [[/03_Mechanics/CLI/items/tankard-of-plenty-hotdq|Tankard of Plenty]]  
+- [[/03_Mechanics/CLI/items/wand-of-winter-hotdq|Wand of Winter]]  
+- [[/03_Mechanics/CLI/items/black-dragon-mask-hotdq|Black Dragon Mask]]  
 - Blue Dragon Mask  
 - Green Dragon Mask  
 - Red Dragon Mask  
 - White Dragon Mask  
-- [Mask of the Dragon Queen](/03_Mechanics/CLI/items/mask-of-the-dragon-queen-rot.md)
+- [[/03_Mechanics/CLI/items/mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]]
 
 ## Player-Facing Summary
 

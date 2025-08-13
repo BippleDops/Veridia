@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-red-abishai-mpmm-red-abishai-mpmm.svg)
 
-# [Red Abishai](3-Mechanics\CLI\bestiary\fiend/red-abishai-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/red-abishai-mpmm|Red Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
@@ -63,20 +63,20 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "constitution": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
     "desc": "+10"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -92,7 +92,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
     "name": "Claw"
   - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
       \ of its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -100,14 +100,14 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Frightful Presence"
   - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
       \ can see it. Until the start of the abishai's next turn, each of those creatures\
-      \ makes attack rolls with advantage and can't be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)."
+      \ makes attack rolls with advantage and can't be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]."
     "name": "Incite Fanaticism"
   - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The\
       \ Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this\
       \ save with disadvantage. On a successful save, the target is immune to the\
       \ abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target\
-      \ is [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the abishai for 1\
-      \ hour. While [charmed](/03_Mechanics/CLI/conditions.md#Charmed) in this way,\
+      \ is [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the abishai for 1\
+      \ hour. While [[/03_Mechanics/CLI/conditions#Charmed|charmed]] in this way,\
       \ the target regards the abishai as a trusted friend to be heeded and protected.\
       \ This effect ends if the abishai or its companions deal damage to the target."
     "name": "Power of the Dragon Queen"

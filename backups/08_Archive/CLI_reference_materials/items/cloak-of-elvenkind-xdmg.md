@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/cloak-of-elvenkind.webp#right)
 
 
-While you wear this cloak, Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks made to perceive you have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md), and you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks.
+While you wear this cloak, Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks made to perceive you have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]], and you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

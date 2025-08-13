@@ -12,7 +12,7 @@ world: Both
 
 ## Cross-References
 
-- [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+- [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
 ## Player-Facing Summary
 

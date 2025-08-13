@@ -38,13 +38,13 @@ Strategic roadmap for optimizing and expanding the Aquabyssos/Aethermoor TTRPG v
 
 ### Automation Scripts
 ```bash
-# Run stub processing
+## Run stub processing
 node scripts/process_stubs.sh
 
-# Fix broken links
+## Fix broken links
 python3 scripts/redlink_resolver.py
 
-# Standardize metadata
+## Standardize metadata
 python3 scripts/metadata_linter.py
 ```
 
@@ -116,16 +116,16 @@ python3 scripts/metadata_linter.py
 
 ### Asset Pipeline
 ```bash
-# Generate character portraits
+## Generate character portraits
 node scripts/generate_assets.js --types=portrait --limit=100
 
-# Create location scenes
+## Create location scenes
 node scripts/generate_assets.js --types=location,scene --limit=50
 
-# Generate battle maps
+## Generate battle maps
 node scripts/generate_assets.js --types=map --limit=30
 
-# Link all assets
+## Link all assets
 node scripts/link_assets.js
 ```
 
@@ -168,16 +168,16 @@ node scripts/link_assets.js
 
 ### Validation Scripts
 ```bash
-# Check timeline consistency
+## Check timeline consistency
 python3 scripts/timeline_alignment_checker.py
 
-# Audit content depth
+## Audit content depth
 python3 scripts/content_depth_audit.py
 
-# Validate tag taxonomy
+## Validate tag taxonomy
 python3 scripts/tag_taxonomy.py
 
-# Test bidirectional links
+## Test bidirectional links
 python3 scripts/bidirectional_links.py
 ```
 
@@ -277,10 +277,10 @@ python3 scripts/bidirectional_links.py
 
 ### Backup Strategy
 ```bash
-# Regular backups before major changes
+## Regular backups before major changes
 BACKUP_DIR=backups/$(date +%F) scripts/safe_apply.sh
 
-# Archive completed phases
+## Archive completed phases
 zip -r archive_phase_X.zip 02_Worldbuilding/ 03_Mechanics/
 ```
 

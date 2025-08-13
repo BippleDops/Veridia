@@ -19,23 +19,23 @@ world: Both
 
 # Vehicle Systems Index
 
-Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos]], and [[Deep Mother]].
+Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[Deep Mother]].
 
 ## Core Vehicle Rules
-- [[Vehicle_Core_Rules]] — Universal stats, piloting, pressure/altitude, sanity, memory engines, reality stability, crew roles, 3D movement, and combat phases.
+- [[Vehicle_Core_Rules|Vehicle Core Rules]] — Universal stats, piloting, pressure/altitude, sanity, memory engines, reality stability, crew roles, 3D movement, and combat phases.
 
 ## Subsystems
-- [[Aquabyssos_Submarines]] — Pressure-adaptive vessels, sonar combat, pressure weapons, parasite boarding, reality-anchor naval battles.
-- [[Aethermoor_Airships]] — Crystal-powered airships, gravity manipulation, sky piracy, altitude pressure effects.
-- [[Merger_Hybrid_Vehicles]] — Impossible vessels for breach zones; paradox engines, dream barges, probability navigation.
-- [[Vehicle_Customization_Progression]] — Modular upgrades, crew management, living ship evolution, ship sanity/madness.
-- [[Transportation_Infrastructure]] — Pressure tubes, flight paths, portals, and network logistics for both worlds.
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]] — Pressure-adaptive vessels, sonar combat, pressure weapons, parasite boarding, reality-anchor naval battles.
+- [[Aethermoor_Airships|Aethermoor Airships]] — Crystal-powered airships, gravity manipulation, sky piracy, altitude pressure effects.
+- [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]] — Impossible vessels for breach zones; paradox engines, dream barges, probability navigation.
+- [[Vehicle_Customization_Progression|Vehicle Customization Progression]] — Modular upgrades, crew management, living ship evolution, ship sanity/madness.
+- [[Transportation_Infrastructure|Transportation Infrastructure]] — Pressure tubes, flight paths, portals, and network logistics for both worlds.
 
 ## Generators & GM Tools
-- [[Fleet_Dynamics_Generator]] — Doctrines, compositions, admirals, supply lines, bases.
-- [[Journey_Event_Compiler]] — 1,000+ scalable travel events framework across depth, height, and merger zones.
+- [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]] — Doctrines, compositions, admirals, supply lines, bases.
+- [[Journey_Event_Compiler|Journey Event Compiler]] — 1,000+ scalable travel events framework across depth, height, and merger zones.
 - [[06_GM_Resources/Travel/Journey_Event_Permutation_Engine|Journey Event Permutation Engine]] — Fast combinator for 1,000,000+ unique encounters.
-- [[Vessel_Horror_Intensifier]] — Confined-space horror, infestations, ghosts, cursed and hungry ships.
+- [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]] — Confined-space horror, infestations, ghosts, cursed and hungry ships.
 
 ## GM Resources & Handouts
 - GM Travel Tables: [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]] • [[06_GM_Resources/Travel/Pressure_Weather_Events|Pressure & Weather]] • [[06_GM_Resources/Travel/Merger_Transit_Complications|Merger Complications]] • [[06_GM_Resources/Travel/Crew_Relationship_Events|Crew Events]]
@@ -92,9 +92,9 @@ SORT file.name ASC
 ```
 
 ## Catalogs
-- [[Aquabyssos_Submarines_Catalog]] — 60 designs
-- [[Aethermoor_Airships_Catalog]] — 60 designs
-- [[Merger_Vessels_Catalog]] — 36 designs
+- [[Aquabyssos_Submarines_Catalog|Aquabyssos Submarines Catalog]] — 60 designs
+- [[Aethermoor_Airships_Catalog|Aethermoor Airships Catalog]] — 60 designs
+- [[Merger_Vessels_Catalog|Merger Vessels Catalog]] — 36 designs
 
 ## Obsidian Queries
 ```dataview
@@ -107,7 +107,7 @@ SORT file.name ASC
 - Pressure/Altitude: [[Complete Pressure Adaptation System]] • [[Depth Survival Mechanics]]
 - Reality Stability & Anchors: [[Complete Reality Merger System]]
 - Warfare & Fleets: [[Complete Faction Warfare System]]
-- Sanity & Horror: [[02_Worldbuilding/Quests/Aquabyssos]]
+- Sanity & Horror: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - Memory Engines/Charts: [[Memory Trading Economy System|Memory Trading Economy]]
 - Eldritch Influence: [[Deep Mother]]
 
@@ -133,4 +133,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
+- [[Master_Campaign_Index|Master Campaign Index]]

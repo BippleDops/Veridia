@@ -168,6 +168,6 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Whisper]]
+- [[02_Worldbuilding/Places/Madame Whisper|02 Worldbuilding/Places/Madame Whisper]]
 
 <!-- enriched: true -->

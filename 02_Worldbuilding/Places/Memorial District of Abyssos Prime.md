@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memorial District of Abyssos Prime]]
+- [[02_Worldbuilding/Places/Memorial District of Abyssos Prime|02 Worldbuilding/Places/Memorial District Of Abyssos Prime]]
 
 <!-- enriched: true -->
 

@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troll-xmm-troll-xmm.png)
 
-# [Troll](3-Mechanics\CLI\bestiary\giant/troll-xmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/troll-xmm|Troll]]
 *Source: Monster Manual (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Troll
@@ -62,23 +62,23 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "If the troll ends any turn [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)\
+  - "desc": "If the troll ends any turn [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]]\
       \ and took 15+ Slashing damage during that turn, one of the troll's limbs is\
-      \ severed, falls into the troll's space, and becomes a [Troll Limb](/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm.md).\
-      \ The limb acts immediately after the troll's turn. The troll has 1 [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion)\
+      \ severed, falls into the troll's space, and becomes a [[/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm|Troll Limb]].\
+      \ The limb acts immediately after the troll's turn. The troll has 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]]\
       \ level for each missing limb, and it grows replacement limbs the next time\
-      \ it regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ it regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
     "name": "Loathsome Limbs (4/Day)"
-  - "desc": "The troll regains 15 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "The troll regains 15 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ at the start of each of its turns. If the troll takes Acid or Fire damage,\
       \ this trait doesn't function on the troll's next turn. The troll dies only\
-      \ if it starts its turn with 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ if it starts its turn with 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
 "actions":
@@ -87,7 +87,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "The troll moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "The troll moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

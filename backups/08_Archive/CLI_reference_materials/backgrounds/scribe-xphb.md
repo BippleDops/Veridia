@@ -22,10 +22,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/scribe.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Wisdom  
-- **Feat.** [Skilled](/03_Mechanics/CLI/feats/skilled-xphb.md)  
-- **Skill Proficiencies.** [Investigation](/03_Mechanics/CLI/skills.md#Investigation), [Perception](/03_Mechanics/CLI/skills.md#Perception)  
-- **Tool Proficiency.** [Calligrapher's Supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Calligrapher's Supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md), [Fine Clothes](/03_Mechanics/CLI/items/fine-clothes-xphb.md), [Lamp](/03_Mechanics/CLI/items/lamp-xphb.md), [Oil](/03_Mechanics/CLI/items/oil-xphb.md) (3 flasks), [Parchment](/03_Mechanics/CLI/items/parchment-xphb.md) (12 sheets), 23 GP; or (B) 50 GP  
+- **Feat.** [[/03_Mechanics/CLI/feats/skilled-xphb|Skilled]]  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Investigation|Investigation]], [[/03_Mechanics/CLI/skills#Perception|Perception]]  
+- **Tool Proficiency.** [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]], [[/03_Mechanics/CLI/items/fine-clothes-xphb|Fine Clothes]], [[/03_Mechanics/CLI/items/lamp-xphb|Lamp]], [[/03_Mechanics/CLI/items/oil-xphb|Oil]] (3 flasks), [[/03_Mechanics/CLI/items/parchment-xphb|Parchment]] (12 sheets), 23 GP; or (B) 50 GP  
 
 You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge, or a government agency, where you learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature. You might have some skill as a writer of poetry, narrative, or scholarly research. Above all, you have a careful attention to detail, helping you avoid introducing mistakes to the documents you copy and create.
 

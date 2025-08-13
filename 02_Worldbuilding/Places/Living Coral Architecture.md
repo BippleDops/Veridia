@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Living Coral Architecture]]
+- [[02_Worldbuilding/Places/Living Coral Architecture|02 Worldbuilding/Places/Living Coral Architecture]]
 
 <!-- enriched: true -->
 

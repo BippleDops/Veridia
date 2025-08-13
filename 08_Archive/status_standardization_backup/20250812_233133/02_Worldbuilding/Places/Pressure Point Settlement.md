@@ -224,6 +224,6 @@ Legends speak of Pressure Point Settlement as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Point Settlement]]
+- [[02_Worldbuilding/Places/Pressure Point Settlement|02 Worldbuilding/Places/Pressure Point Settlement]]
 
 <!-- enriched: true -->

@@ -41,11 +41,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard|Campaign Dashboard]]
 
 
 ## Connections
 
-- [[Complete_Faction_Warfare_System]]
-- [[Complete_Pressure_Adaptation_System]]
-- [[Complete_Reality_Merger_System]]
+- [[Complete_Faction_Warfare_System|Complete Faction Warfare System]]
+- [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
+- [[Complete_Reality_Merger_System|Complete Reality Merger System]]

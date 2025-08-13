@@ -85,11 +85,11 @@ Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drow
 
 ## Relationships
 - **Thal'mexis:** His most devoted priestess, hears his dreams
-- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Considers her a naive child
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Considers her a naive child
 - **That-Which-Swims-Between:** Uneasy alliance of convenience
 - **Morpheus Tidecaller:** Eternal ideological enemy
-- **[[02_Worldbuilding/People/The Crimson Sage]]:** Knows his true identity, prophesied his fall
-- **[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]:** Knows his true identity, prophesied his fall
+- **[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
 
 ## Current Activities
 - Orchestrating ritual to wake Thal'mexis
@@ -112,7 +112,7 @@ Her seat of power:
 > - Knows the exact moment and method of her own ending
 > - Has already drowned several timeline versions of the party
 > - The crown she wears contains fragment of original Crown of Stars
-> - Secretly mother to [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+> - Secretly mother to [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]
 > - Has been gradually drowning the moon's reflection
 > - Can kill someone by drowning their future self
 > - Maintains secret correspondence with surface doomsday cults
@@ -175,6 +175,6 @@ Legends speak of High Priestess Scylla Deepdream as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]
 
 <!-- enriched: true -->

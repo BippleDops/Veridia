@@ -18,7 +18,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 
 ## Player-Facing Summary
 

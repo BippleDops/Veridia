@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Miranda Hopekeeper]]
+- [[02_Worldbuilding/Places/Miranda Hopekeeper|02 Worldbuilding/Places/Miranda Hopekeeper]]
 
 <!-- enriched: true -->
 

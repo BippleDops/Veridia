@@ -21,14 +21,14 @@ world: Both
 
 Here are game statistics for the demon lords who have roles to play in this story. Beware! They are formidable opponents.
 
-- [Baphomet](/03_Mechanics/CLI/bestiary/npc/baphomet-mpmm.md)  
-- [Demogorgon](/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md)  
-- [Fraz-Urb'luu](/03_Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm.md)  
-- [Graz'zt](/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm.md)  
-- [Juiblex](/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm.md)  
-- [Orcus](/03_Mechanics/CLI/bestiary/npc/orcus-mpmm.md)  
-- [Yeenoghu](/03_Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md)  
-- [Zuggtmoy](/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm.md)
+- [[/03_Mechanics/CLI/bestiary/npc/baphomet-mpmm|Baphomet]]  
+- [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]]  
+- [[/03_Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm|Fraz-Urb'luu]]  
+- [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]]  
+- [[/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm|Juiblex]]  
+- [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]]  
+- [[/03_Mechanics/CLI/bestiary/npc/yeenoghu-mpmm|Yeenoghu]]  
+- [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]]
 
 ## Player-Facing Summary
 

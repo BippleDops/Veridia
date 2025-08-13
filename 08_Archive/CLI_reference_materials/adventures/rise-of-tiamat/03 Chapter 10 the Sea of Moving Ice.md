@@ -27,42 +27,42 @@ Far to the north, beyond the Spine of the World and above even Icewind Dale, lie
 
 ### The Draakhorn's Call
 
-Each time the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) sounds out, its unearthly call echoes across the Sword Coast. Dragons hear it plainly, even as other creatures hear it only as an indistinct moaning when their surroundings are quiet and the wind blows just right. Creatures that cannot hear the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) can still sense it, like a faint vibration felt subconsciously and interpreted as a sense of dread.
+Each time the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] sounds out, its unearthly call echoes across the Sword Coast. Dragons hear it plainly, even as other creatures hear it only as an indistinct moaning when their surroundings are quiet and the wind blows just right. Creatures that cannot hear the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] can still sense it, like a faint vibration felt subconsciously and interpreted as a sense of dread.
 
-The adventurers were introduced to the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) by Dala Silmerhelve during the first session of the Council of Waterdeep. When they are ready to seek more information on the ancient relic, Dala provides it.
+The adventurers were introduced to the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] by Dala Silmerhelve during the first session of the Council of Waterdeep. When they are ready to seek more information on the ancient relic, Dala provides it.
 
 > [!readaloud] 
 > 
-> "The Sea of Moving Ice was the last known location of the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md). No one can pinpoint its present location from the sound, or even verify with certainty that the relic is still in the northern sea, but the search must start there.
+> "The Sea of Moving Ice was the last known location of the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]]. No one can pinpoint its present location from the sound, or even verify with certainty that the relic is still in the northern sea, but the search must start there.
 > 
-> "The one person who could tell us more is a tiefling sorcerer called [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md). No one alive knows more about the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) than her, but the Arcane Brotherhood, of which she is also a member, hasn't seen her for three years. She was investigating the Sea of Moving Ice when she disappeared."
+> "The one person who could tell us more is a tiefling sorcerer called [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]]. No one alive knows more about the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] than her, but the Arcane Brotherhood, of which she is also a member, hasn't seen her for three years. She was investigating the Sea of Moving Ice when she disappeared."
 ^081
 
 ### "Old White Death"
 
-The white dragon Arauthator haunts the Sea of Moving Ice like an avenging wind. Personifying the brutality and savagery of his kind, Arauthator is a solid ally of the Cult of the Dragon, and can be counted on to be present at the Well of Dragons when [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md) makes her triumphant return from the Nine Hells.
+The white dragon Arauthator haunts the Sea of Moving Ice like an avenging wind. Personifying the brutality and savagery of his kind, Arauthator is a solid ally of the Cult of the Dragon, and can be counted on to be present at the Well of Dragons when [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] makes her triumphant return from the Nine Hells.
 
 Arauthator's chief lair is beneath a remote peak known as Lonefang Mountain, but he maintains a number of smaller lairs among the icebergs that drift with the seasonal tides in the Sea of Moving Ice. One of these is known as Oyaviggaton ("island of eternity") by the local tribes known as the Ice Hunters, because of the many enemies Arauthator has frozen into the icy walls of the berg's hollowed interior.
 
-In addition to his size, cunning, and ferocity, Arauthator wields spellcasting power that makes him a particularly dangerous foe. More than a century ago, during one of the cyclical periods of draconic violence known as the Rage of Dragons, Arauthator joined with a dozen other dragons in attacking the Hosttower of the Arcane in Luskan. Their assault toppled the west arm of the tower, and Arauthator was seen scooping up numerous items of great magical importance and power, including at least three tomes of rare spells. The possibility of recovering those books is part of what drew [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) to the Sea of Moving Ice.
+In addition to his size, cunning, and ferocity, Arauthator wields spellcasting power that makes him a particularly dangerous foe. More than a century ago, during one of the cyclical periods of draconic violence known as the Rage of Dragons, Arauthator joined with a dozen other dragons in attacking the Hosttower of the Arcane in Luskan. Their assault toppled the west arm of the tower, and Arauthator was seen scooping up numerous items of great magical importance and power, including at least three tomes of rare spells. The possibility of recovering those books is part of what drew [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] to the Sea of Moving Ice.
 
-Arauthator's iceberg lair serves primarily as a meeting ground for him and his mate, the ancient white dragon Arveiaturace ("the White Wyrm"). She is aware of the cult's activity but has been reluctant to join forces with it, and Arauthator seeks a way to gain her commitment. At one time, Arveiaturace served a wizard named Meltharond, whose corpse remains strapped to a saddle on the dragon's back. She has never accepted his death, and still speaks to him as if he were alive. Arauthator hopes that if he provides Arveiaturace with a new wizard to serve, she will recover from her grief and join him in wholeheartedly supporting the Cult of the Dragon. When the proud, ambitious [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) arrived in Arauthator's lair, the dragon enticed her with the prospect of becoming Arveiaturace's master and rider.
+Arauthator's iceberg lair serves primarily as a meeting ground for him and his mate, the ancient white dragon Arveiaturace ("the White Wyrm"). She is aware of the cult's activity but has been reluctant to join forces with it, and Arauthator seeks a way to gain her commitment. At one time, Arveiaturace served a wizard named Meltharond, whose corpse remains strapped to a saddle on the dragon's back. She has never accepted his death, and still speaks to him as if he were alive. Arauthator hopes that if he provides Arveiaturace with a new wizard to serve, she will recover from her grief and join him in wholeheartedly supporting the Cult of the Dragon. When the proud, ambitious [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] arrived in Arauthator's lair, the dragon enticed her with the prospect of becoming Arveiaturace's master and rider.
 
 ### Maccath the Crimson
 
-![Maccath the Crimson](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/008-tod-10-02.webp#center)
+![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/008-tod-10-02.webp#center|Maccath the Crimson]]
 
 The Arcane Brotherhood is a league of mages based in the city of Luskan at the fabled Hosttower of the Arcane. The Hosttower is an academy for the best and brightest mages of Faerûn. Only the most promising are accepted as members in the Arcane Brotherhood, and only members of the order can study at the Hosttower.
 
-[Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) was one of those best and brightest when she journeyed to the Hosttower seeking admission. Her knowledge of dragon lore and draconic relics was already vast, but she wanted to know more about the dragons' magic. Even though she gained access to the accumulated lore of the Arcane Brotherhood, Maccath concluded that some questions could be answered only by dragons—and that questions about the magic stolen from the Hosttower during the last Rage of Dragons could be answered only by Arauthator. Maccath set sail on an expedition to learn those answers three years ago and hasn't been heard from since.
+[[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] was one of those best and brightest when she journeyed to the Hosttower seeking admission. Her knowledge of dragon lore and draconic relics was already vast, but she wanted to know more about the dragons' magic. Even though she gained access to the accumulated lore of the Arcane Brotherhood, Maccath concluded that some questions could be answered only by dragons—and that questions about the magic stolen from the Hosttower during the last Rage of Dragons could be answered only by Arauthator. Maccath set sail on an expedition to learn those answers three years ago and hasn't been heard from since.
 
 Dala Silmerhelve provides the characters with all that is known of Maccath's fate.
 
 > [!readaloud] 
 > 
-> "Maccath reported her progress to the Hosttower by way of [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spells. Her last report spoke of seeing Ice Hunters paddling their sealskin boats toward a huge iceberg, flattened like a plateau across its surface, but ringed by icy peaks. She had intended to follow the Ice Hunters and investigate the iceberg. After that, no more reports came.
+> "Maccath reported her progress to the Hosttower by way of [[/03_Mechanics/CLI/spells/sending-xphb|sending]] spells. Her last report spoke of seeing Ice Hunters paddling their sealskin boats toward a huge iceberg, flattened like a plateau across its surface, but ringed by icy peaks. She had intended to follow the Ice Hunters and investigate the iceberg. After that, no more reports came.
 > 
-> "Attempts to find Maccath using scrying and other magical means located only her ship, adrift and heavily damaged. Some of the ship's crew were seen dead, but no sign of the tiefling sorcerer was ever found. However, the lair of a dragon as powerful as Arauthator is no doubt protected against scrying magic. If Maccath is alive, in addition to the lore she can share regarding the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md), the Arcane Brotherhood would be most grateful to get her back."
+> "Attempts to find Maccath using scrying and other magical means located only her ship, adrift and heavily damaged. Some of the ship's crew were seen dead, but no sign of the tiefling sorcerer was ever found. However, the lair of a dragon as powerful as Arauthator is no doubt protected against scrying magic. If Maccath is alive, in addition to the lore she can share regarding the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]], the Arcane Brotherhood would be most grateful to get her back."
 ^084
 
 ### Setting Sail
@@ -91,30 +91,30 @@ Searching the Sea of Moving Ice for the plateau-like iceberg described by Maccat
 
 | d6 + <span>[Modifier]</span> | Encounter or Event |
 |------------------------------|--------------------|
-| 1 | [Giant octopi](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md) |
-| 2 | [Merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
-| 3 | [Polar bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md) |
+| 1 | [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|Giant octopi]] |
+| 2 | [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|Merrow]] |
+| 3 | [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|Polar bear]] |
 | 4 | Scrags* |
 | 5 | Ice Hunters |
 | 6 | Ice Hunters in fishing boats |
 | 7+ | Oyaviggaton sighted |
 ^modifier-encounter-or-event
 
-If combat becomes necessary, Captain Lerustah fights as a [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) and his crew fight as 40 [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md). If fighting aboard *Frostskimmr*, the characters must be cautious while using area spells that deal fire or force damage. One such spell does minimal damage that can be fixed by the crew at sea after the fight ends. If two such spells are used, *Frostskimmr* must be hauled onto an ice floe for repairs that take half a day. Roll normally for events during that time, but reroll any total of 7 or higher.
+If combat becomes necessary, Captain Lerustah fights as a [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]] and his crew fight as 40 [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]]. If fighting aboard *Frostskimmr*, the characters must be cautious while using area spells that deal fire or force damage. One such spell does minimal damage that can be fixed by the crew at sea after the fight ends. If two such spells are used, *Frostskimmr* must be hauled onto an ice floe for repairs that take half a day. Roll normally for events during that time, but reroll any total of 7 or higher.
 
 #### Giant Octopi
 
-This event can occur by day or night, but only on water. Two [giant octopi](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md) attack simultaneously, trying to drag characters and crew off the ship into the freezing water. When one octopus is killed, the other withdraws underwater and escapes.
+This event can occur by day or night, but only on water. Two [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|giant octopi]] attack simultaneously, trying to drag characters and crew off the ship into the freezing water. When one octopus is killed, the other withdraws underwater and escapes.
 
 #### Merrow
 
-This event can occur by day or night, on ice or water. Five [merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) move as close as possible to *Frostskimmr* before attacking. If the characters are on the ship, the merrow try to swamp it by making a DC 25 Strength check, with a +2 bonus to the check for each additional merrow involved in the attempt. Success means that *Frostskimmr* lurches dangerously and each creature on board must make a DC15 Dexterity saving throw. On a failed saving throw, a creature is dumped overboard.
+This event can occur by day or night, on ice or water. Five [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|merrow]] move as close as possible to *Frostskimmr* before attacking. If the characters are on the ship, the merrow try to swamp it by making a DC 25 Strength check, with a +2 bonus to the check for each additional merrow involved in the attempt. Success means that *Frostskimmr* lurches dangerously and each creature on board must make a DC15 Dexterity saving throw. On a failed saving throw, a creature is dumped overboard.
 
-A creature that falls into the frigid water is swimming, and must make a DC 12 Constitution saving throw at the start of each turn that it is in the water. On each failed saving throw, the creature suffers one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). Characters in the water are preferred targets for monsters in the water.
+A creature that falls into the frigid water is swimming, and must make a DC 12 Constitution saving throw at the start of each turn that it is in the water. On each failed saving throw, the creature suffers one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. Characters in the water are preferred targets for monsters in the water.
 
 #### Polar Bear
 
-This event can occur day or night, but only on the ice. A crew member aboard *Frostskimmr* spots a [polar bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md) stalking a wounded Ice Hunter on an ice floe. If the characters intervene and save the hunter, he is grateful, and converses with them in his own tongue. (If the characters have no means to communicate with him, one of *Frostskimmr's* crew can translate.) Though he is not from the tribe that lives on Oyaviggaton, the hunter knows the iceberg. In response to any questions about Oyaviggaton, he advises the characters as to its distance and direction from their current position, but warns them to keep away from it. Armed with this information, the characters gain a +1 bonus to their next two daytime event rolls.
+This event can occur day or night, but only on the ice. A crew member aboard *Frostskimmr* spots a [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|polar bear]] stalking a wounded Ice Hunter on an ice floe. If the characters intervene and save the hunter, he is grateful, and converses with them in his own tongue. (If the characters have no means to communicate with him, one of *Frostskimmr's* crew can translate.) Though he is not from the tribe that lives on Oyaviggaton, the hunter knows the iceberg. In response to any questions about Oyaviggaton, he advises the characters as to its distance and direction from their current position, but warns them to keep away from it. Armed with this information, the characters gain a +1 bonus to their next two daytime event rolls.
 
 #### Scrags
 
@@ -122,15 +122,15 @@ This event occurs only at night, and only on the ice. While *Frostskimmr* sits o
 
 #### Ice Hunters
 
-This event can occur only by day. A hunting party from Oyaviggaton (12 [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)) is spotted pursuing seals on an ice floe, whether *Frostskimmr* is on the water or on an adjacent ice floe. The hunters are surly and uncommunicative if approached, knowing that they must return to the iceberg before nightfall or their kin will be punished. Captain Lerustah is puzzled by their behavior, knowing that the Ice Hunter people are shy but never hostile. The hunters quickly paddle their khyeks away to the northeast. If the characters follow the hunters or use that bearing for the next stage of their journey, they gain a +1 bonus to their next daytime event roll.
+This event can occur only by day. A hunting party from Oyaviggaton (12 [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]]) is spotted pursuing seals on an ice floe, whether *Frostskimmr* is on the water or on an adjacent ice floe. The hunters are surly and uncommunicative if approached, knowing that they must return to the iceberg before nightfall or their kin will be punished. Captain Lerustah is puzzled by their behavior, knowing that the Ice Hunter people are shy but never hostile. The hunters quickly paddle their khyeks away to the northeast. If the characters follow the hunters or use that bearing for the next stage of their journey, they gain a +1 bonus to their next daytime event roll.
 
 #### Ice Hunters in Fishing Boats
 
-This event occurs only during the day. A group of fishers from Oyaviggaton (12 [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)) are spotted in their characteristic boats, whether *Frostskimmr* is in the water or on a nearby ice floe. They are unfriendly and uncommunicative if approached, paddling away to the northeast as soon as they are able. If the characters follow the hunters or use that bearing for the next stage of their journey, they gain a +1 bonus to their next daytime event roll.
+This event occurs only during the day. A group of fishers from Oyaviggaton (12 [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]]) are spotted in their characteristic boats, whether *Frostskimmr* is in the water or on a nearby ice floe. They are unfriendly and uncommunicative if approached, paddling away to the northeast as soon as they are able. If the characters follow the hunters or use that bearing for the next stage of their journey, they gain a +1 bonus to their next daytime event roll.
 
 #### Oyaviggaton Sighted
 
-This event can occur by day or night. There's no mistaking the silhouette of this massive iceberg as matching the description given by [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md). With a flattened expanse at one end rising to jagged peaks at the other, the characters' objective is at hand.
+This event can occur by day or night. There's no mistaking the silhouette of this massive iceberg as matching the description given by [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]]. With a flattened expanse at one end rising to jagged peaks at the other, the characters' objective is at hand.
 
 ## Oyaviggaton
 
@@ -138,7 +138,7 @@ Arauthator's iceberg lair rises from the sea to form a floating island. The port
 
 The Ice Hunter village is a collection of snow shelters and tents sitting at the center of the island. The village can't be seen from the sea because of the berg's height, but a large shelf of ice where the Ice Hunters beach their boats is clearly visible from the water. Approximately 60 feet across, the shelf rises a few feet above sea level and is littered with enormous, cracked bones—including ribs that arch taller than a human.
 
-A character proficient in [Nature](/03_Mechanics/CLI/skills.md#Nature) recognizes that the bones are mostly from whales and huge seals (or Captain Lerustah can supply that information). Any character who spends a few minutes examining the bones discovers tooth marks with a monstrous bite radius—evidence that a gigantic predator (Arauthator) ate at least some of these creatures. Examining the bones reveals smaller human bones in the pile as well, all of which show the same bite marks.
+A character proficient in [[/03_Mechanics/CLI/skills#Nature|Nature]] recognizes that the bones are mostly from whales and huge seals (or Captain Lerustah can supply that information). Any character who spends a few minutes examining the bones discovers tooth marks with a monstrous bite radius—evidence that a gigantic predator (Arauthator) ate at least some of these creatures. Examining the bones reveals smaller human bones in the pile as well, all of which show the same bite marks.
 
 An ice chasm splits the cliff face above the ice shelf, rising to the top of the plateau. The chasm is 20 feet wide near the bottom but narrows to 5 feet wide at the top. Steps are cut into the ice, making for an easy climb to the top of the plateau.
 
@@ -148,7 +148,7 @@ Captain Lerustah would like to keep his crew members aboard *Frostskimmr* rather
 
 The top of Oyaviggaton is a plateau, but it's not level. The ground is uneven, fractured by narrow ice chasms and divided by rills, snowdrifts, and ice ridges taller than a human, sculpted by sea spray and wind. The ridges block the view of the village until characters are 200 feet from the nearest shelter.
 
-The first sight that greets the adventurers when they emerge onto the plateau is a row of ten corpses frozen into a wall of ice: three Luskar warriors, a dwarf, and six Ice Hunters. The bodies have been preserved in the ice, making it impossible to tell how long they've been here. The southerners and the dwarf were some of [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md)'s companions, killed by Arauthator. The Ice Hunters used the bodies to put up this grisly warning, in the hope that other intruders might fear the same fate and turn back. The dead Ice Hunters tried to flee from the iceberg but were hunted and killed by Arauthator, who forced their kin to add them to the horrid display.
+The first sight that greets the adventurers when they emerge onto the plateau is a row of ten corpses frozen into a wall of ice: three Luskar warriors, a dwarf, and six Ice Hunters. The bodies have been preserved in the ice, making it impossible to tell how long they've been here. The southerners and the dwarf were some of [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]]'s companions, killed by Arauthator. The Ice Hunters used the bodies to put up this grisly warning, in the hope that other intruders might fear the same fate and turn back. The dead Ice Hunters tried to flee from the iceberg but were hunted and killed by Arauthator, who forced their kin to add them to the horrid display.
 
 #### Layout
 
@@ -158,11 +158,11 @@ Twenty structures make up the village, divided between snow-block shelters simil
 
 The largest structure in the village is the meeting hall, heavily decorated with whalebone and the skulls of fish and mammals. Consisting of one large room, the hall has a wooden floor made of planks salvaged from ships caught and crushed in the Sea of Moving Ice. Beneath the planks in a back corner is an entrance to the ice caves under the village, which lead to Arauthator's grotto. A long coil of rope hangs on the wall near that corner, and a large iron pulley has been left suspended from a beam above the hole.
 
-No columns of smoke rise above the village to give away its location, since the Sea of Moving Ice features no wood or peat to burn. The only artificial heat comes from lamps and tiny stoves burning whale oil. The villagers live on fish, whale meat, and seal meat, eaten raw or dried on racks scattered around the village. With a successful DC 10 Intelligence ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check, a character examining the racks realizes that the village must produce far more food than the number of villagers alone would require.
+No columns of smoke rise above the village to give away its location, since the Sea of Moving Ice features no wood or peat to burn. The only artificial heat comes from lamps and tiny stoves burning whale oil. The villagers live on fish, whale meat, and seal meat, eaten raw or dried on racks scattered around the village. With a successful DC 10 Intelligence ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check, a character examining the racks realizes that the village must produce far more food than the number of villagers alone would require.
 
 #### Villagers
 
-If the characters approach by the obvious path up the chasm from the ice ledge, they are noticed by the village's 12 sled dogs (treat as [wolves](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)). As soon as the dogs begin barking and growling, the whole village turns out armed and alert—25 [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) (males and females; including the chieftain, Barking Seal), 30 [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), 1 [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) (Bonecarver, tribal shaman, female), and 1 [gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (Orcaheart, village champion, male).
+If the characters approach by the obvious path up the chasm from the ice ledge, they are noticed by the village's 12 sled dogs (treat as [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]]). As soon as the dogs begin barking and growling, the whole village turns out armed and alert—25 [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] (males and females; including the chieftain, Barking Seal), 30 [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]], 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (Bonecarver, tribal shaman, female), and 1 [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|gladiator]] (Orcaheart, village champion, male).
 
 The chieftain and shaman do all the talking for the villagers, who speak only their own language, Uluik. The chieftain also knows a little of a rough Illuskan dialect. The Ice Hunters have two main interests: finding out why strangers have come to Oyaviggaton, and getting them to leave. They lie freely and well, telling tales of sea monsters and ravaging scrags in the area. If the characters ask about Arauthator or other dragons, the shaman claims a dragon known as Old White Death was killed a year ago by frost giants. She describes the heap of whale and seal bones on the waterside ice shelf as all that's left of the monster. Otherwise, the bones are described as evidence of monstrous predators in the area.
 
@@ -170,7 +170,7 @@ While Barking Seal and Bonecarver speak with the adventurers, the other members 
 
 Any crew member accompanying the characters can point out that this behavior is highly unusual. Though the Ice Hunters avoid contact with outsiders, they are almost never hostile.
 
-During this interaction, allow the characters to attempt DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks. A character who succeeds notices several villagers slipping away one by one and disappearing into the meeting hall. From the hall, the villagers descend into the ice caves to warn Arauthator's servants that strangers have come, then quickly slip back up to the surface.
+During this interaction, allow the characters to attempt DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks. A character who succeeds notices several villagers slipping away one by one and disappearing into the meeting hall. From the hall, the villagers descend into the ice caves to warn Arauthator's servants that strangers have come, then quickly slip back up to the surface.
 
 Encounters in the ice caves assume that the presence of intruders on the iceberg is already known. If the party has maintained stealth since they arrived, they have a chance to surprise creatures in the ice caves.
 
@@ -180,21 +180,21 @@ The Ice Hunters are determined not to allow the strangers inside the village hal
 
 As they stall for time, Barking Seal, Bonecarver, and Orcaheart are also sizing up the adventurers' strength. If the characters refuse to leave the iceberg, Barking Seal proposes a contest: the village's champion against any warrior among the strangers. If the champion wins, the characters must hand over some of their fine steel weapons and sail away immediately, never to return. If the adventurer wins, the strangers will have earned their place among the villagers. They can spend the night in the village, after which Bonecarver will answer their questions to the best of her ability.
 
-If the characters agree to the duel, one of them must fight Orcaheart one-on-one. No magic is allowed, but if the character possesses a magic weapon or magic armor with no obvious effects, the villagers are unlikely to notice. The fight continues until one contestant is [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) and dying. (Allow Orcaheart to make death saving throws if he drops to 0 hit points.) At that point, the match ends and each combatant's allies can step in to provide healing and assistance.
+If the characters agree to the duel, one of them must fight Orcaheart one-on-one. No magic is allowed, but if the character possesses a magic weapon or magic armor with no obvious effects, the villagers are unlikely to notice. The fight continues until one contestant is [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] and dying. (Allow Orcaheart to make death saving throws if he drops to 0 hit points.) At that point, the match ends and each combatant's allies can step in to provide healing and assistance.
 
-During the fight, a combatant forfeits if he or she gains assistance of any kind from allies. Despite this, however, Bonecarver aids Orcaheart during the fight if she can. She positions herself so that when he is struck, he can fall backward and land in front of her. When she helps him back onto his feet, she surreptitiously casts [cure wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md). If a player states specifically that a character is watching the crowd for signs of interference, that character can attempt a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. Success means that Bonecarver was spotted in the act, though she denies providing assistance if accused of cheating.
+During the fight, a combatant forfeits if he or she gains assistance of any kind from allies. Despite this, however, Bonecarver aids Orcaheart during the fight if she can. She positions herself so that when he is struck, he can fall backward and land in front of her. When she helps him back onto his feet, she surreptitiously casts [[/03_Mechanics/CLI/spells/cure-wounds-xphb|cure wounds]]. If a player states specifically that a character is watching the crowd for signs of interference, that character can attempt a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Success means that Bonecarver was spotted in the act, though she denies providing assistance if accused of cheating.
 
 #### Ice Hunter Hospitality
 
-If Orcaheart loses the match, the Ice Hunters go through the motions of honoring their pledge. They offer to let the characters sleep in the village storage hut, which barely qualifies as shelter. Bonecarver brings them a platter of slightly spoiled raw fish, explaining (truthfully) that her people prefer the tanginess of meat that's gone past its prime. The fish won't hurt characters who eat it—but the poison Bonecarver added to it will. The sharp tang of the fish covers the bitter poison so well that a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check or DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check is needed to detect it.
+If Orcaheart loses the match, the Ice Hunters go through the motions of honoring their pledge. They offer to let the characters sleep in the village storage hut, which barely qualifies as shelter. Bonecarver brings them a platter of slightly spoiled raw fish, explaining (truthfully) that her people prefer the tanginess of meat that's gone past its prime. The fish won't hurt characters who eat it—but the poison Bonecarver added to it will. The sharp tang of the fish covers the bitter poison so well that a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check or DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check is needed to detect it.
 
-Any character who eats the poisoned fish must make a DC 15 Constitution saving throw. Failure means the character takes 13 (`3d8`) poison damage and becomes [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) for 8 hours. On a successful save, the character takes 9 (`2d8`) poison damage. If all the characters are rendered [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) by the poison, they are tied up and carried down to area 1 in the ice caves, where they awaken to see 5 [ice toads](/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md) (see appendix D) examining their belongings.
+Any character who eats the poisoned fish must make a DC 15 Constitution saving throw. Failure means the character takes 13 (`3d8`) poison damage and becomes [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] for 8 hours. On a successful save, the character takes 9 (`2d8`) poison damage. If all the characters are rendered [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] by the poison, they are tied up and carried down to area 1 in the ice caves, where they awaken to see 5 [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|ice toads]] (see appendix D) examining their belongings.
 
 #### Convincing the Shaman
 
 Of all the Ice Hunters, Bonecarver is the only one whose favor the characters have any chance of winning. She does not initially trust the adventurers, and is as keen to see them depart Oyaviggaton as the rest of her people. However, she knows that the Ice Hunters will eventually perish under Arauthator's wrath, and she has long dreamed that the totem spirits will send heroes with the strength to best the dragon.
 
-With effective roleplaying and a DC 15 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check, Bonecarver will meet privately with the adventurers and speak the truth of her people's plight. A druid, ranger, or some other character who can truthfully express an understanding of the shaman's animal totem-based faith has advantage on this check. Bonecarver is not willing to risk the lives of her tribesfolk in a battle against the dragon. However, she shows the characters the entrance to the ice caves from her hut and explains what she knows about the caves. This includes their general layout, occupants, and the presence of the "horned lady" ([Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md)).
+With effective roleplaying and a DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, Bonecarver will meet privately with the adventurers and speak the truth of her people's plight. A druid, ranger, or some other character who can truthfully express an understanding of the shaman's animal totem-based faith has advantage on this check. Bonecarver is not willing to risk the lives of her tribesfolk in a battle against the dragon. However, she shows the characters the entrance to the ice caves from her hut and explains what she knows about the caves. This includes their general layout, occupants, and the presence of the "horned lady" ([[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]]).
 
 ## Ice Caves
 
@@ -202,9 +202,9 @@ Beneath the village lies a network of ice caves inhabited by Arauthator and his 
 
 > [!note] Ice Toads
 > 
-> Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md).
+> Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]].
 > 
-> Feeding on seals, sea birds, and fish caught for them by the Ice Hunters, Oyaviggaton's ice toads are not automatically hostile to strangers. Once characters get inside Arauthator's lair, they might find that these creatures can be helpful to their quest. Ice toads normally speak only their own obscure language. Those in Oyaviggaton know a little Draconic and Uluik (the language of the Ice Hunters), but their accents are thick and their pronunciation atrocious. [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md) is fluent in Draconic thanks to many hours spent conversing with Arauthator.
+> Feeding on seals, sea birds, and fish caught for them by the Ice Hunters, Oyaviggaton's ice toads are not automatically hostile to strangers. Once characters get inside Arauthator's lair, they might find that these creatures can be helpful to their quest. Ice toads normally speak only their own obscure language. Those in Oyaviggaton know a little Draconic and Uluik (the language of the Ice Hunters), but their accents are thick and their pronunciation atrocious. [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] is fluent in Draconic thanks to many hours spent conversing with Arauthator.
 > 
 > When the characters encounter ice toads, their intelligence won't be apparent until they act or attempt to speak. Even then, characters might not recognize the ice toads' croaking as language. Ice toads move on all fours, but their webbed front feet are surprisingly dexterous. Some carry tools and useful items in pouches slung around their necks.
 ^ice-toads
@@ -221,7 +221,7 @@ Most passages in the ice caves are at least 15 feet wide, and ceilings are 20 fe
 
 The floors inside the iceberg are worn glass-smooth from decades of traffic. Arauthator, the ice trolls, and the ice toads move across the slick ice with ease thanks to claws and bony spurs on their feet that give them traction. The dragon's kobold servants wear crampons made of animal teeth strapped to their feet. Characters without crampons or the ability to walk on ice treat all areas of the ice caves as difficult terrain. A successful DC 10 Intelligence check allows a character to rig a set of crampons from items in a climbing kit, or to convert a pair of kobold-sized crampons to fit a Medium creature. Snowshoes are of no help inside the iceberg.
 
-There are no stairs inside the iceberg; the floor slopes between areas of different elevation. Characters can slide down a one-level ramp with ease. Sliding down a two-level ramp (for example, from area 10 to area 9) is automatic if the character is sitting, but requires a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check if the character tries to slide down while standing. Characters equipped with crampons cannot stand, but can treat ramps as difficult terrain. Moving along a two-level ramp with crampons also requires a successful DC 12 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. Characters without crampons can climb a one-level ramp with a successful DC 15 Dexterity check, or can climb a two-level ramp with a successful DC 20 Dexterity check. [Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics) is of no use to these checks, but using a climber's kit grants advantage on the checks. Any failed Dexterity check to move on a ramp results in the character sliding to the bottom of the ramp and falling [prone](/03_Mechanics/CLI/conditions.md#Prone).
+There are no stairs inside the iceberg; the floor slopes between areas of different elevation. Characters can slide down a one-level ramp with ease. Sliding down a two-level ramp (for example, from area 10 to area 9) is automatic if the character is sitting, but requires a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check if the character tries to slide down while standing. Characters equipped with crampons cannot stand, but can treat ramps as difficult terrain. Moving along a two-level ramp with crampons also requires a successful DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. Characters without crampons can climb a one-level ramp with a successful DC 15 Dexterity check, or can climb a two-level ramp with a successful DC 20 Dexterity check. [[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]] is of no use to these checks, but using a climber's kit grants advantage on the checks. Any failed Dexterity check to move on a ramp results in the character sliding to the bottom of the ramp and falling [[/03_Mechanics/CLI/conditions#Prone|prone]].
 
 #### Light
 
@@ -229,7 +229,7 @@ The interior of Oyaviggaton is filled with dim light by whale-oil lamps that are
 
 #### Temperature
 
-The ice caverns are cold, with the temperature in most chambers hovering around 20 degrees Fahrenheit. The white dragons, the ice trolls, and the ice toads don't mind the cold. The kobolds and [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) bundle up in furs and warm their living quarters with small stoves that burn whale oil supplied by the villagers. As long as the characters wear proper cold weather gear, they are at no risk from the cold while in the ice caves.
+The ice caverns are cold, with the temperature in most chambers hovering around 20 degrees Fahrenheit. The white dragons, the ice trolls, and the ice toads don't mind the cold. The kobolds and [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] bundle up in furs and warm their living quarters with small stoves that burn whale oil supplied by the villagers. As long as the characters wear proper cold weather gear, they are at no risk from the cold while in the ice caves.
 
 #### Visibility
 
@@ -246,10 +246,10 @@ In addition to the inhabitants noted in specific areas, the adventurers might ru
 | dice: d10 | Encounter or Event |
 |-----------|--------------------|
 | 1–2 | Fog |
-| 3–5 | [Kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) (`3d6`) |
-| 6–8 | [Ice toads](/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md) (`d6`) |
-| 9 | [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) |
-| 10 | [Ice trolls](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) (`d2`) |
+| 3–5 | [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobolds]] (`3d6`) |
+| 6–8 | [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|Ice toads]] (`d6`) |
+| 9 | [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] |
+| 10 | [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|Ice trolls]] (`d2`) |
 ^encounter-or-event
 
 #### Fog
@@ -258,11 +258,11 @@ The air is suddenly filled with roiling vapor. Visibility is reduced to 5 feet f
 
 #### Kobolds
 
-Arauthator brought a pack of unwitting kobolds to Oyaviggaton generations ago, and the creatures have been serving him in the frigid cold ever since. In the event of an encounter, a squad of `3d6` [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) is working in or passing through the area. If the characters are dressed as Ice Hunter villagers or are wearing some other appropriate disguise, the kobolds eye them warily but don't immediately sound an alarm. Make a single Wisdom check for the kobolds with a DC equal to the lowest of the characters' checks to disguise themselves. The kobolds' Wisdom modifier is–2, but they have advantage on this check because of their numbers. If the check is successful (or if the characters aren't disguised), the kobolds launch a single volley of sling stones at the intruders, then flee in as many directions as possible to report the intrusion to the ice toads or ice trolls.
+Arauthator brought a pack of unwitting kobolds to Oyaviggaton generations ago, and the creatures have been serving him in the frigid cold ever since. In the event of an encounter, a squad of `3d6` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] is working in or passing through the area. If the characters are dressed as Ice Hunter villagers or are wearing some other appropriate disguise, the kobolds eye them warily but don't immediately sound an alarm. Make a single Wisdom check for the kobolds with a DC equal to the lowest of the characters' checks to disguise themselves. The kobolds' Wisdom modifier is–2, but they have advantage on this check because of their numbers. If the check is successful (or if the characters aren't disguised), the kobolds launch a single volley of sling stones at the intruders, then flee in as many directions as possible to report the intrusion to the ice toads or ice trolls.
 
 #### Ice Toads
 
-A crew of `d6` [ice toads](/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md) (see appendix D) is working in this area or passing along the corridor. Disguises are ineffective against the ice toads, which know what creatures live in Oyaviggaton at any given time. If they see anything unexpected—even Ice Hunter villagers entering the caves without permission—they stop what they're doing and observe the characters' actions, asking questions if they can. The ice toads flee to the ice trolls if threatened, fighting only if they must.
+A crew of `d6` [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|ice toads]] (see appendix D) is working in this area or passing along the corridor. Disguises are ineffective against the ice toads, which know what creatures live in Oyaviggaton at any given time. If they see anything unexpected—even Ice Hunter villagers entering the caves without permission—they stop what they're doing and observe the characters' actions, asking questions if they can. The ice toads flee to the ice trolls if threatened, fighting only if they must.
 
 The ice toads speak their own language, plus enough Draconic and Uluik to communicate with Arauthator, the kobolds, and the Ice Hunters. They work for Arauthator but have no special devotion to the dragon. If a fight is coming, their loyalty goes to whomever they expect to win. That means the dragon, unless the characters somehow impress them.
 
@@ -272,17 +272,17 @@ Maccath often wanders the ice caves, deep in thought. On meeting strangers, her 
 
 #### Ice Trolls
 
-Encountered singly or in small roving gangs, [ice trolls](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) are ordinary trolls with bluish skin and immunity to cold damage. Unless any ice toads are nearby to intervene, the ice trolls treat any creature not a kobold, an ice toad, Maccath, or an Ice Hunter as an intruder. For more information on the ice trolls working for Arauthator, see area 12.
+Encountered singly or in small roving gangs, [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice trolls]] are ordinary trolls with bluish skin and immunity to cold damage. Unless any ice toads are nearby to intervene, the ice trolls treat any creature not a kobold, an ice toad, Maccath, or an Ice Hunter as an intruder. For more information on the ice trolls working for Arauthator, see area 12.
 
 > [!gallery]
-> ![Map 10.1: Arauthator's Iceberg and Lair](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/009-map-10-1-arauthators-iceberg.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/010-map-10-1-arauthators-iceberg-player.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/009-map-10-1-arauthators-iceberg.webp#gallery|Map 10.1: Arauthator's Iceberg and Lair]]
+> ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/010-map-10-1-arauthators-iceberg-player.webp#gallery|Player Version]]
 
 ### Ice Caves (areas 1-7)
 
 ### 1. Entrance from Hut
 
-Inside the hut of the shaman Bonecarver, old furs heaped atop poles are laid across an opening leading down to the ice caves. Steps are cut into the wall of the chute, creating steep, icy stairs that drop down 100 feet in a tight spiral. Because this entrance is seldom used, the steps become increasingly obscured by frost as the characters descend. At the 40-foot mark, a character must attempt a DC 12 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check to maintain a grip on the dangerously uneven footholds. Failure means the character loses his or her footing, sliding and tumbling 60 feet to the bottom and taking 21 (`6d6`) bludgeoning damage. Characters can mitigate this danger by roping themselves together or using a climber's kit. Past the 40-foot mark, the steps improve again so that no further checks are necessary.
+Inside the hut of the shaman Bonecarver, old furs heaped atop poles are laid across an opening leading down to the ice caves. Steps are cut into the wall of the chute, creating steep, icy stairs that drop down 100 feet in a tight spiral. Because this entrance is seldom used, the steps become increasingly obscured by frost as the characters descend. At the 40-foot mark, a character must attempt a DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to maintain a grip on the dangerously uneven footholds. Failure means the character loses his or her footing, sliding and tumbling 60 feet to the bottom and taking 21 (`6d6`) bludgeoning damage. Characters can mitigate this danger by roping themselves together or using a climber's kit. Past the 40-foot mark, the steps improve again so that no further checks are necessary.
 
 The chute and its icy stairs end at the ceiling. A sturdy ladder then descends into the approximate center of a rectangular chamber. The exit to the corridor is an icy, 15-foot-wide passageway sloping downward.
 
@@ -292,9 +292,9 @@ The chamber is empty except for a dozen baskets woven from leather strips and wa
 
 Hidden beneath the planks in the back corner of the village hall, this entrance to the ice caves consists of a chute carved with icy stairs descending 100 feet in a tight spiral. This route is used regularly to bring supplies to Arauthator's minions, so the steps are clear and easy to climb. Supplies are carried down strapped to villagers' backs, or lowered in baskets with the pulley and rope in the village hall.
 
-This chamber is empty except for three bundles of rolled-up sealskins sitting where the ladder descends from the chute above to the approximate center of the room. Additionally, a bed of piled furs has been arranged in the southwest corner, from which the sound of loud coughing can be heard when the characters enter the chamber. Villagers who suffer disease or injury beyond Bonecarver's limited healing ability are quarantined here in the relative warmth of the caves. The coughing villager is named [Mend-nets](/03_Mechanics/CLI/bestiary/npc/mend-nets-rot.md) ([tribal warrior](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)).
+This chamber is empty except for three bundles of rolled-up sealskins sitting where the ladder descends from the chute above to the approximate center of the room. Additionally, a bed of piled furs has been arranged in the southwest corner, from which the sound of loud coughing can be heard when the characters enter the chamber. Villagers who suffer disease or injury beyond Bonecarver's limited healing ability are quarantined here in the relative warmth of the caves. The coughing villager is named [[/03_Mechanics/CLI/bestiary/npc/mend-nets-rot|Mend-nets]] ([[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warrior]]).
 
-[Mend-nets](/03_Mechanics/CLI/bestiary/npc/mend-nets-rot.md) is naturally suspicious of strangers, but if any character can use [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) to cure his disease, he becomes a trustworthy ally. He won't do anything to hurt the village or the tribe, but he hates the kobolds who live in the caves. The ice toads likewise repulse him, though they also ignore him. The ice trolls terrify him, and he has awoken several times to find a troll hungrily peering at him from the tunnel leading to the trolls' lair (area 12). He tells the characters that the creatures of the caves have been warned of their presence, but the only chambers he knows anything about besides this one are areas 1, 3, and 7.
+[[/03_Mechanics/CLI/bestiary/npc/mend-nets-rot|Mend-nets]] is naturally suspicious of strangers, but if any character can use [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]] to cure his disease, he becomes a trustworthy ally. He won't do anything to hurt the village or the tribe, but he hates the kobolds who live in the caves. The ice toads likewise repulse him, though they also ignore him. The ice trolls terrify him, and he has awoken several times to find a troll hungrily peering at him from the tunnel leading to the trolls' lair (area 12). He tells the characters that the creatures of the caves have been warned of their presence, but the only chambers he knows anything about besides this one are areas 1, 3, and 7.
 
 ### 3. Larder
 
@@ -311,9 +311,9 @@ Arauthator's kobold servants live in this chamber.
 > A dozen kobolds occupy this disheveled and filthy chamber. Half-eaten fish heads and gnawed seal flippers are tossed into corners or carelessly strewn around matted heaps of furs, which would undoubtedly smell as bad as they look if not for the cold.
 ^0ad
 
-The chamber holds 12 [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) when the characters enter. A few are sleeping but most are tossing knucklebones, sharpening blades, sewing clothing, carving whalebone, or picking on each other. See "Random Encounters" (above) for guidelines on how the kobolds respond to intruders.
+The chamber holds 12 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] when the characters enter. A few are sleeping but most are tossing knucklebones, sharpening blades, sewing clothing, carving whalebone, or picking on each other. See "Random Encounters" (above) for guidelines on how the kobolds respond to intruders.
 
-If the characters spend a few minutes searching the area, a successful DC 12 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check suggests that approximately two dozen kobolds live in this chamber.
+If the characters spend a few minutes searching the area, a successful DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check suggests that approximately two dozen kobolds live in this chamber.
 
 #### Treasure
 
@@ -340,7 +340,7 @@ The chute drops 60 feet to the top of the ice platform in area 16  in Arauthator
 
 The bodies of some of the frost giants Arauthator has fought and killed over the centuries are on display in this chamber, frozen into crystal-clear ice walls. Visibility at this level is only 45 feet, so characters won't be able to see much from the doorway. As they move into the chamber, the shape of the first frost giant becomes dimly visible at a distance of 60 feet. At 45 feet, the figure is easily mistakable for a living frost giant standing perfectly still. At 30 feet, the characters recognize that the giant is dead and frozen, seeing its torn armor and the awful claw wounds in its pale blue flesh. The hall displays the bodies of eight frost giants, one fire giant, and one cloud giant.
 
-When the characters arrive in this area, 8 [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) are working in the chamber, polishing and maintaining the ice. If they recognize the characters as intruders, they try to keep away from them in the fog, then slip out of the chamber when they can.
+When the characters arrive in this area, 8 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] are working in the chamber, polishing and maintaining the ice. If they recognize the characters as intruders, they try to keep away from them in the fog, then slip out of the chamber when they can.
 
 ### Ice Caves (areas 8-14)
 
@@ -352,7 +352,7 @@ Trophies of Arauthator's many battles are displayed in this chamber. Visibility 
 
 Of more immediate interest is the open chest of gold and jewels sitting on the ship's deck. The chest contains 375 gp, 1,480 ep, and 495 sp, plus jewelry and precious objects worth another 225 gp. A character examining the chest without disturbing it or the contents can estimate its value at between 1,000 and 1,500 gp with a successful DC 10 Intelligence check.
 
-If the chest or any of the treasure it contains—even a single coin—is removed from the ship, Arauthator senses it immediately and dispatches 2 [ice trolls](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) (see area 12) to investigate.
+If the chest or any of the treasure it contains—even a single coin—is removed from the ship, Arauthator senses it immediately and dispatches 2 [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice trolls]] (see area 12) to investigate.
 
 ### 9. Unused Chamber
 
@@ -360,9 +360,9 @@ This chamber is empty, awaiting the day when Arauthator's collection of trophies
 
 ### 10. Maccath the Crimson
 
-If [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md) hasn't been encountered elsewhere in Oyaviggaton, the characters meet her here.
+If [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]] hasn't been encountered elsewhere in Oyaviggaton, the characters meet her here.
 
-At the top of the ramp from area 9, 1 ice [ice troll](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) (see area 12) stands guard over this cavern. It positions itself around the corner so it can't be seen until intruders reach the top of the ramp.
+At the top of the ramp from area 9, 1 ice [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice troll]] (see area 12) stands guard over this cavern. It positions itself around the corner so it can't be seen until intruders reach the top of the ramp.
 
 > [!readaloud] 
 > 
@@ -380,7 +380,7 @@ When the characters step inside, read or paraphrase the following.
 > Books and scrolls are stacked neatly on tables and reading stands made of hide and whalebone. The only furnishings in the shelter not made from these natural materials are the carpets and tapestries, and a portable writing desk that appears to have been taken from a sailing ship.
 ^0b9
 
-If this is the characters' first meeting with [Maccath the Crimson](/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md), add:
+If this is the characters' first meeting with [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]], add:
 
 > [!readaloud] 
 > 
@@ -389,9 +389,9 @@ If this is the characters' first meeting with [Maccath the Crimson](/03_Mechanic
 
 When Maccath arrived at Oyaviggaton three years ago, Arauthator would normally have killed her without a second thought. However, the brooch of the Arcane Brotherhood she wore suggested to Arauthator that the tiefling might present a solution to two problems. First, the dragon possessed numerous items stolen from the Arcane Brotherhood, some of which defied his understanding even after decades of study. Second, Arauthator had long sought to help his mate Arveiaturace overcome her grief over the death of the wizard she once served. Replacing that wizard with a member of the Arcane Brotherhood seemed a perfect solution.
 
-Maccath was smart enough to convince the dragon that his offer had won her over, expecting that she would eventually be able to seek a means of escape from the iceberg. However, she has so far been thwarted by Arauthator's potent magic—including spells and rituals stolen from the Arcane Brotherhood—which have kept her sealed and helpless in Oyaviggaton, invisible to scrying and unable to use [sending](/03_Mechanics/CLI/spells/sending-xphb.md) to call for help. Before he turns Maccath over to Arveiaturace, Arauthator has had the tiefling deciphering his stolen writings, though the work has gone slowly thanks to the inherent complexity and danger of the material. Maccath is studying one of the stolen scrolls when the characters walk in.
+Maccath was smart enough to convince the dragon that his offer had won her over, expecting that she would eventually be able to seek a means of escape from the iceberg. However, she has so far been thwarted by Arauthator's potent magic—including spells and rituals stolen from the Arcane Brotherhood—which have kept her sealed and helpless in Oyaviggaton, invisible to scrying and unable to use [[/03_Mechanics/CLI/spells/sending-xphb|sending]] to call for help. Before he turns Maccath over to Arveiaturace, Arauthator has had the tiefling deciphering his stolen writings, though the work has gone slowly thanks to the inherent complexity and danger of the material. Maccath is studying one of the stolen scrolls when the characters walk in.
 
-If the characters announced their presence by fighting the [ice troll](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md), the 2 [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) will be visibly agitated, even though Maccath shows little concern. The kobolds have been directed to stay with the tiefling and follow her orders, which mostly means undertaking errands to the scriptorium (area 11). She also relies on them for cooking, housekeeping, and other mundane chores. The moment the characters make it clear that they are here to rescue Maccath, the kobolds make a dash for area 12. They alert the ice trolls unless they are stopped.
+If the characters announced their presence by fighting the [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice troll]], the 2 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] will be visibly agitated, even though Maccath shows little concern. The kobolds have been directed to stay with the tiefling and follow her orders, which mostly means undertaking errands to the scriptorium (area 11). She also relies on them for cooking, housekeeping, and other mundane chores. The moment the characters make it clear that they are here to rescue Maccath, the kobolds make a dash for area 12. They alert the ice trolls unless they are stopped.
 
 #### Maccath's Bargain
 
@@ -404,7 +404,7 @@ As such, the tiefling sets out terms for her rescue, saying that she won't leave
 - Maccath knows the general layout of the dragon's cavern but not its specific dangers. Arauthator has never allowed her out of his sight in the lair. In particular, she knows nothing of the scrags in area 15 or the traps in area 18.  
 - Two entrances lead to Arauthator's lair—one in the adjoining scriptorium and the other in area 6.  
 - Arauthator moves in and out of the lair using underwater passages.  
-- The [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) was here when Maccath came to Oyaviggaton, but a group of humans wearing distinctive robes came to the iceberg half a year ago. After negotiation with Arauthator, they took the device away. (The characters recognize Cult of the Dragon regalia in Maccath's description of the humans.) In addition to this, Maccath can tell the characters all the information about the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) as it's described in chapter 17.  
+- The [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] was here when Maccath came to Oyaviggaton, but a group of humans wearing distinctive robes came to the iceberg half a year ago. After negotiation with Arauthator, they took the device away. (The characters recognize Cult of the Dragon regalia in Maccath's description of the humans.) In addition to this, Maccath can tell the characters all the information about the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] as it's described in chapter 17.  
 - Trying to escape from the iceberg on a ship would be suicidal while Arauthator is able to attack from the air. The dragon is content to let his minions deal with intruders, but he will be alerted if the characters flee.  
 - Even if the adventurers have not alerted any of the dragon's servants, Maccath's absence would be reported within a day. When that happens, the dragon will come looking for her and whoever helped her escape.  
 
@@ -412,7 +412,7 @@ Maccath knows that surprise is the characters' best weapon for challenging the d
 
 #### Treasure
 
-If the party seems intent on fighting Arauthator, Maccath offers them a [ring of resistance (cold)](/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md) and two [arrows of slaying (dragons)](/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg.md) that she has crafted during her captivity. Though these items and her draconic knowledge give the characters an edge, she warns the party that Arauthator has devoured almost every hero he has faced.
+If the party seems intent on fighting Arauthator, Maccath offers them a [[/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg|ring of resistance (cold)]] and two [[/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg|arrows of slaying (dragons)]] that she has crafted during her captivity. Though these items and her draconic knowledge give the characters an edge, she warns the party that Arauthator has devoured almost every hero he has faced.
 
 ### 11. Scriptorium
 
@@ -429,19 +429,19 @@ Characters unable to read magic can't make any headway in the books. A character
 
 #### Treasure
 
-Arcane spellcasters can find much of value in this scriptorium, along with much that's worthless. Arauthator has collected many spellbooks from slain wizards over the centuries. More importantly for the party's immediate benefit, he also collected dozens of scrolls. Though many of those here have deteriorated from dampness or age, characters who spend a few minutes searching can find ten [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md): [gaseous form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [haste](/03_Mechanics/CLI/spells/haste-xphb.md), [protection from energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md), [water breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md), [Evard's black tentacles](/03_Mechanics/CLI/spells/evards-black-tentacles-xphb.md), [fire shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md), [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md), [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md), [chain lightning](/03_Mechanics/CLI/spells/chain-lightning-xphb.md), and [disintegrate](/03_Mechanics/CLI/spells/disintegrate-xphb.md).
+Arcane spellcasters can find much of value in this scriptorium, along with much that's worthless. Arauthator has collected many spellbooks from slain wizards over the centuries. More importantly for the party's immediate benefit, he also collected dozens of scrolls. Though many of those here have deteriorated from dampness or age, characters who spend a few minutes searching can find ten [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scrolls]]: [[/03_Mechanics/CLI/spells/gaseous-form-xphb|gaseous form]], [[/03_Mechanics/CLI/spells/haste-xphb|haste]], [[/03_Mechanics/CLI/spells/protection-from-energy-xphb|protection from energy]], [[/03_Mechanics/CLI/spells/water-breathing-xphb|water breathing]], [[/03_Mechanics/CLI/spells/evards-black-tentacles-xphb|Evard's black tentacles]], [[/03_Mechanics/CLI/spells/fire-shield-xphb|fire shield]], [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|wall of fire]], [[/03_Mechanics/CLI/spells/hold-monster-xphb|hold monster]], [[/03_Mechanics/CLI/spells/chain-lightning-xphb|chain lightning]], and [[/03_Mechanics/CLI/spells/disintegrate-xphb|disintegrate]].
 
 #### Access to Arauthator's Lair
 
-Near the western end of the scriptorium, a 15-foot-wide chute leads down to area 19 of Arauthator's lair. The dragon can clamber up and down this passage without difficulty. Characters proficient in [Athletics](/03_Mechanics/CLI/skills.md#Athletics) can climb down the chute using crampons or some other device to grip the wall. Other characters can climb down only with ropes, pitons, and other climbing gear. The chute descends 60 feet to the roof of area 19, after which characters must drop 15 feet to the ice platform.
+Near the western end of the scriptorium, a 15-foot-wide chute leads down to area 19 of Arauthator's lair. The dragon can clamber up and down this passage without difficulty. Characters proficient in [[/03_Mechanics/CLI/skills#Athletics|Athletics]] can climb down the chute using crampons or some other device to grip the wall. Other characters can climb down only with ropes, pitons, and other climbing gear. The chute descends 60 feet to the roof of area 19, after which characters must drop 15 feet to the ice platform.
 
 Before the characters head down into the cavern, Maccath tells them they have no easy way back up to these chambers. Old White Death doesn't want anyone—intruders or guests—to be able to easily leave his lair.
 
 ### 12. Ice Trolls
 
-The ice trolls that Arauthator has gathered to his service use this hall as their residence, and no other creatures are permitted here. An [ice troll](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) has bluish, translucent skin and immunity to cold damage; it otherwise has the statistics of an ordinary troll.
+The ice trolls that Arauthator has gathered to his service use this hall as their residence, and no other creatures are permitted here. An [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice troll]] has bluish, translucent skin and immunity to cold damage; it otherwise has the statistics of an ordinary troll.
 
-A minimum of 2 [ice trolls](/03_Mechanics/CLI/bestiary/giant/ice-troll-rot.md) are here when characters first enter, but 3 or more can be placed in this area at your discretion (and depending on whether the adventurers meet conditions that might lead to fighting; see below).
+A minimum of 2 [[/03_Mechanics/CLI/bestiary/giant/ice-troll-rot|ice trolls]] are here when characters first enter, but 3 or more can be placed in this area at your discretion (and depending on whether the adventurers meet conditions that might lead to fighting; see below).
 
 > [!readaloud] 
 > 
@@ -463,17 +463,17 @@ Giant ice toads serve Arauthator as overseers at Oyaviggaton. They manage the la
 > A bizarre sight greets you in this rough-walled chamber. About a dozen giant toads with thick, mottled white hides are at work here, scribing strange writing into the ice of the walls, or onto weathered parchment and stone tablets. A few toads transfer parchments and tablets into and out of floor-to-ceiling cubbyholes cut into the ice along the entire southern wall.
 ^0c4
 
-A total of 11 [ice toads](/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md) (see appendix D for statistics) work in this chamber, scribing records and tallies into the ice using sharpened antlers or their own claws. They also maintain rough maps of the Sea of Moving Ice based on reports from the Ice Hunter villagers. At regular intervals, their temporary records are transferred to more permanent form.
+A total of 11 [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|ice toads]] (see appendix D for statistics) work in this chamber, scribing records and tallies into the ice using sharpened antlers or their own claws. They also maintain rough maps of the Sea of Moving Ice based on reports from the Ice Hunter villagers. At regular intervals, their temporary records are transferred to more permanent form.
 
-See "Random Encounters" (above) for guidelines on how the giant ice toads respond to intruders. The characters' best chance to avoid a fight in this area—and to keep the toads from alerting the ice trolls—is to win the ice toads to their cause by treating with their leader, [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md).
+See "Random Encounters" (above) for guidelines on how the giant ice toads respond to intruders. The characters' best chance to avoid a fight in this area—and to keep the toads from alerting the ice trolls—is to win the ice toads to their cause by treating with their leader, [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]].
 
-The average ice toad is smart, but their leader [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md) is exceptional (Intelligence 13). Her knack for organization and governance had no outlet until her path crossed Arauthator's on the Sea of Moving Ice, and she has served as the seneschal of Oyaviggaton for the four decades since. Not even Arauthator understands the workings of Oyaviggaton as well as [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md), who knows the contents and value of every pack, chest, and heap of coins in the iceberg down to the last copper piece.
+The average ice toad is smart, but their leader [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] is exceptional (Intelligence 13). Her knack for organization and governance had no outlet until her path crossed Arauthator's on the Sea of Moving Ice, and she has served as the seneschal of Oyaviggaton for the four decades since. Not even Arauthator understands the workings of Oyaviggaton as well as [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]], who knows the contents and value of every pack, chest, and heap of coins in the iceberg down to the last copper piece.
 
 #### Marfulb's Lore
 
-In addition to data about Arauthator—his treasures, mating habits, and epic battles with frost giants and other monsters—the information amassed by the ice toads includes exhaustive details on the ever-changing Sea of Moving Ice, the weather north of the Spine of the World, and the culture of the elusive Ice Hunters. [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md) feels great satisfaction in her life's work, but she knows too little about society south of the Spine of the World to sense its full importance.
+In addition to data about Arauthator—his treasures, mating habits, and epic battles with frost giants and other monsters—the information amassed by the ice toads includes exhaustive details on the ever-changing Sea of Moving Ice, the weather north of the Spine of the World, and the culture of the elusive Ice Hunters. [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] feels great satisfaction in her life's work, but she knows too little about society south of the Spine of the World to sense its full importance.
 
-Characters equipped with a [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md) could take all the parchments and stone slabs with them when they leave Oyaviggaton. The Arcane Brotherhood would regard the lore as one of the most amazing works of natural philosophy in existence (once it is painstakingly translated from the ice toads' unique language), and they would clamor to meet and praise [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md). Without a [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md), the collection is too large to move.
+Characters equipped with a [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bag of holding]] could take all the parchments and stone slabs with them when they leave Oyaviggaton. The Arcane Brotherhood would regard the lore as one of the most amazing works of natural philosophy in existence (once it is painstakingly translated from the ice toads' unique language), and they would clamor to meet and praise [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]]. Without a [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bag of holding]], the collection is too large to move.
 
 ### 14. Ice Toad Lair
 
@@ -495,11 +495,11 @@ The rough ceiling of the open cavern rises 40 feet above the varying height of t
 
 The floor of the cavern is worn smooth and is highly slippery. Arauthator and the scrags move across the slick ice with ease thanks to their claws, but characters without crampons or the ability to walk on ice treat all areas of the lair cavern as difficult terrain. See the "General Features" of the ice caves for information on crampons. Snowshoes are of no help in the lair.
 
-The terrain levels represented on the map of the cavern show increments of 8 feet. The elevation of the floor results from the ice splitting and splintering, so the ledges are abrupt and have a distinctly step-like appearance. Characters can drop down a level without difficulty. Scrambling up a level requires a successful DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check; the climber has advantage on the check if equipped with crampons or climbing gear.
+The terrain levels represented on the map of the cavern show increments of 8 feet. The elevation of the floor results from the ice splitting and splintering, so the ledges are abrupt and have a distinctly step-like appearance. Characters can drop down a level without difficulty. Scrambling up a level requires a successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check; the climber has advantage on the check if equipped with crampons or climbing gear.
 
 #### Light
 
-The lair cavern is normally dark. All description assumes that the characters have a light source or [darkvision](/03_Mechanics/CLI/senses.md#Darkvision).
+The lair cavern is normally dark. All description assumes that the characters have a light source or [[/03_Mechanics/CLI/senses#Darkvision|darkvision]].
 
 #### Temperature
 
@@ -517,9 +517,9 @@ If the characters approach, the scrags duck into hiding places, then attempt to 
 
 ### 16. Ice Pillars
 
-Pillars of ice jut from the floor in this area. Climbing an ice pillar more than 8 feet tall requires a climber's kit and a successful DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+Pillars of ice jut from the floor in this area. Climbing an ice pillar more than 8 feet tall requires a climber's kit and a successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
-A creature dropping down the chute from area 6 lands on the top level of the large ice platform in the southeast part of the cavern, 16 feet above the cavern floor. The creature must then succeed on a DC 15 Dexterity saving throw to stay on the platform. (A creature that intentionally jumps down the chute takes half damage from the descent and has advantage on this saving throw.) If the saving throw fails, the creature slides off the top level of the icy platform and hits the second level, taking 3 (`d6`) bludgeoning damage and falling [prone](/03_Mechanics/CLI/conditions.md#Prone).
+A creature dropping down the chute from area 6 lands on the top level of the large ice platform in the southeast part of the cavern, 16 feet above the cavern floor. The creature must then succeed on a DC 15 Dexterity saving throw to stay on the platform. (A creature that intentionally jumps down the chute takes half damage from the descent and has advantage on this saving throw.) If the saving throw fails, the creature slides off the top level of the icy platform and hits the second level, taking 3 (`d6`) bludgeoning damage and falling [[/03_Mechanics/CLI/conditions#Prone|prone]].
 
 Any creature falling to the cavern floor attracts the attention of the scrags in area 15.
 
@@ -527,19 +527,19 @@ Any creature falling to the cavern floor attracts the attention of the scrags in
 
 This jagged ridge of ice divides the cavern into sections. Climbing up to at least the 8-foot level and moving along the ridge is the only safe way to get from area 15 or 16 into area 19 or 20 without encountering the traps in areas 18a and 18b.
 
-Unlike other ledges in the cavern, the horizontal surfaces of the Icewolf's Spine aren't level. The denizens of the lair can traverse the ledges without difficulty, but any other creature that moves more than 15 feet during a round must make a DC 12 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. Failure indicates that the creature loses its footing and falls to the next level below, taking 3 (`d6`) bludgeoning damage and landing [prone](/03_Mechanics/CLI/conditions.md#Prone). Wearing crampons grants advantage on this check.
+Unlike other ledges in the cavern, the horizontal surfaces of the Icewolf's Spine aren't level. The denizens of the lair can traverse the ledges without difficulty, but any other creature that moves more than 15 feet during a round must make a DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. Failure indicates that the creature loses its footing and falls to the next level below, taking 3 (`d6`) bludgeoning damage and landing [[/03_Mechanics/CLI/conditions#Prone|prone]]. Wearing crampons grants advantage on this check.
 
 ### 18a. The Gullet
 
-This narrow passage is rigged with a magic trap. When the first character passes through the narrowest point of the passage, the entire area of the passage fills with a [stinking cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md) for 1 minute.
+This narrow passage is rigged with a magic trap. When the first character passes through the narrowest point of the passage, the entire area of the passage fills with a [[/03_Mechanics/CLI/spells/stinking-cloud-xphb|stinking cloud]] for 1 minute.
 
-Arauthator immediately becomes aware of intruders if the [stinking cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md) is triggered. The dragon does not set off the trap if it moves through the area.
+Arauthator immediately becomes aware of intruders if the [[/03_Mechanics/CLI/spells/stinking-cloud-xphb|stinking cloud]] is triggered. The dragon does not set off the trap if it moves through the area.
 
 ### 18b. The Throat
 
-This narrow passage is rigged with a magic trap. When the first character moves through the narrowest point of the passage, a [slow](/03_Mechanics/CLI/spells/slow-xphb.md) spell is triggered, targeting every creature in the area. Creatures affected by the spell suffer its effects for 1 minute.
+This narrow passage is rigged with a magic trap. When the first character moves through the narrowest point of the passage, a [[/03_Mechanics/CLI/spells/slow-xphb|slow]] spell is triggered, targeting every creature in the area. Creatures affected by the spell suffer its effects for 1 minute.
 
-Arauthator immediately becomes aware of intruders if the [slow](/03_Mechanics/CLI/spells/slow-xphb.md) spell is triggered. The dragon does not set off the trap if it moves through the area.
+Arauthator immediately becomes aware of intruders if the [[/03_Mechanics/CLI/spells/slow-xphb|slow]] spell is triggered. The dragon does not set off the trap if it moves through the area.
 
 ### 19. The Perch
 
@@ -547,9 +547,9 @@ Arauthator sometimes sleeps on this vast ice shelf, but more often he spends his
 
 ### 20. Arauthator's Abyss
 
-The western end of the lair cavern is where Arauthator (an [adult white dragon](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md)) spends most of his time at Oyaviggaton. Gold, jewels, and other treasure lies scattered on the floor and frozen into the walls of this vast chamber.
+The western end of the lair cavern is where Arauthator (an [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|adult white dragon]]) spends most of his time at Oyaviggaton. Gold, jewels, and other treasure lies scattered on the floor and frozen into the walls of this vast chamber.
 
-It is noticeably colder here than anywhere else in the iceberg, reaching–10 degrees Fahrenheit. Any character in an area where the temperature is below 0 degrees Fahrenheit must make a DC 10 Constitution saving throw at the end of each hour. Characters without cold weather gear automatically fail this save. On a failed saving throw, a character suffers one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
+It is noticeably colder here than anywhere else in the iceberg, reaching–10 degrees Fahrenheit. Any character in an area where the temperature is below 0 degrees Fahrenheit must make a DC 10 Constitution saving throw at the end of each hour. Characters without cold weather gear automatically fail this save. On a failed saving throw, a character suffers one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
 
 When the characters face off against Arauthator, the dragon roars so loudly that the whole iceberg reverberates with his rage. This calls the ice trolls from area 12, which arrive 5 rounds later.
 
@@ -563,7 +563,7 @@ If the characters defeat Arauthator, the reactions of Oyaviggaton's other inhabi
 
 The Ice Hunters are elated over the dragon's death. When the characters emerge from the iceberg, the normally reserved villagers greet them with cheers and offers of the choicest fermented fish. The villagers then begin packing their few belongings into their hide boats and prepare to leave immediately.
 
-**If Arauthator is wounded and driven off**, Maccath or [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md) know enough of the dragon to predict that he will spend months recovering at one of his other lairs before returning to Oyaviggaton. The Ice Hunters believe that this gives them enough time to lose themselves in the vast expanse of the Sea of Moving Ice and find a new home where Arauthator can't track them. The dragon is vengeful, but with everything else going on, Maccath believes Arauthator won't put any real effort into seeking out his former thralls. The Ice Hunters have no contact with civilization, so they can't possibly spread word of his humiliating defeat.
+**If Arauthator is wounded and driven off**, Maccath or [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] know enough of the dragon to predict that he will spend months recovering at one of his other lairs before returning to Oyaviggaton. The Ice Hunters believe that this gives them enough time to lose themselves in the vast expanse of the Sea of Moving Ice and find a new home where Arauthator can't track them. The dragon is vengeful, but with everything else going on, Maccath believes Arauthator won't put any real effort into seeking out his former thralls. The Ice Hunters have no contact with civilization, so they can't possibly spread word of his humiliating defeat.
 
 With the dragon's disappearance, the kobolds hide if they can, while the ice toads demonstrate the same impassive stoicism they show if the dragon is killed. The ice trolls shy away from Arauthator's treasure as long as he is alive, knowing better than to come between a dragon and its hoard. They don't really care if someone else plunders items from the dragon's hoard, and they're too stupid to think they might be blamed for any such thefts.
 
@@ -581,7 +581,7 @@ Areas 19 and 20 contain a total of 700 gp, 1,000 sp, and 20 precious stones (fiv
 
 To claim this treasure, it must be hacked out of the ice in the lair cavern. Doing so takes half a day (and is thus impossible if Arauthator is still in the lair).
 
-[Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md)'s four decades of data on Arauthator is priceless to the Arcane Brotherhood (a fact Maccath will recognize if the characters don't) or to other collectors of draconic lore. If the dragon is dead, [Marfulb](/03_Mechanics/CLI/bestiary/npc/marfulb-rot.md) can be talked into letting this material be transported south, provided she gets to come along. If Arauthator still lives, the ice toad would prefer to stay and continue her work with her records intact.
+[[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]]'s four decades of data on Arauthator is priceless to the Arcane Brotherhood (a fact Maccath will recognize if the characters don't) or to other collectors of draconic lore. If the dragon is dead, [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] can be talked into letting this material be transported south, provided she gets to come along. If Arauthator still lives, the ice toad would prefer to stay and continue her work with her records intact.
 
 ## Conclusion
 

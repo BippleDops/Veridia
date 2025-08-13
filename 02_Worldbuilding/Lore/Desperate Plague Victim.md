@@ -28,7 +28,7 @@ world: Both
 
 ## Overview
 
-[[Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[02_Worldbuilding/Places/Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
+[[Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
 
 Her story exemplifies the human tragedy underlying the grand cosmic drama of [[The Convergence Point]]—ordinary people suffering extraordinary consequences while powerful forces pursue their own agendas. Mira's desperate search for healing has led her into contact with every major faction and phenomenon in both worlds, making her both a victim and an unwitting catalyst for larger events.
 
@@ -36,7 +36,7 @@ Her story exemplifies the human tragedy underlying the grand cosmic drama of [[T
 
 ### Before the Corruption
 **Life as a Seamstress (Ages 16-34)**
-Mira lived a simple but fulfilling life in [[02_Worldbuilding/Places/Crystalhaven]]'s artisan district:
+Mira lived a simple but fulfilling life in [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s artisan district:
 - **Family Business**: Inherited her mother's tailoring shop specializing in crystal-enhanced fabrics
 - **Community Standing**: Respected member of the Seamstress Guild with steady clientele
 - **Personal Life**: Married to [[Gareth Brightweave]], a fellow textile worker, with two young children
@@ -58,7 +58,7 @@ Mira's life changed forever during a localized [[Shadow Corruption]] outbreak in
 The corruption spread through the underground crystal networks beneath her shop, manifesting first in the basement storage areas. Mira was exposed while attempting to save infected family members who had taken shelter in her shop during the crisis.
 
 **The Heroic Choice:**
-When [[02_Worldbuilding/Lore/The Crystal Guard Elite]] units arrived to quarantine the area, Mira refused evacuation, choosing to stay and care for her infected family members rather than abandon them to certain death. This decision, while noble, led to prolonged exposure that resulted in her own infection.
+When [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] units arrived to quarantine the area, Mira refused evacuation, choosing to stay and care for her infected family members rather than abandon them to certain death. This decision, while noble, led to prolonged exposure that resulted in her own infection.
 
 **Tragic Losses:**
 - **Gareth**: Died from rapid corruption progression after three days
@@ -124,7 +124,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 
 ### Cross-Dimensional Hope
 **Recent Developments (Months 12-18):**
-- **[[Customs House]] Crossing**: Illegally entered [[02_Worldbuilding/Places/Aquabyssos]] seeking different medical approaches
+- **[[Customs House]] Crossing**: Illegally entered [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] seeking different medical approaches
 - **Memory Therapy**: Attempted consciousness treatments that nearly drove her insane
 - **Pressure Experiments**: Underwent deep-sea pressure treatments that caused severe pain
 - **[[Crystal Garden]] Pilgrimage**: Visited healing sanctuary but was turned away due to corruption risk
@@ -164,7 +164,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 
 ## Interactions with Major Factions
 
-### [[02_Worldbuilding/Groups/The Crystal Throne]]
+### [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 **Official Government Response:**
 - **Initial Contact**: Sought help from royal healers and government medical facilities
 - **Bureaucratic Obstacles**: Complicated paperwork and requirements for treatment
@@ -180,7 +180,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 - **Leverage Tactics**: Using her desperation and isolation to pressure recruitment
 - **Current Status**: Under consideration, maintaining contact while evaluating alternatives
 
-### [[02_Worldbuilding/Groups/The Unity Seekers]]
+### [[02_Worldbuilding/Groups/The Unity Seekers|02 Worldbuilding/Groups/The Unity Seekers]]
 **Compassionate Response:**
 - **Unconditional Support**: Only faction offering help without demanding service in return
 - **Resource Sharing**: Providing basic necessities and emotional support
@@ -269,7 +269,7 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 **Traditional Healing:**
 - **[[Healing Two Worlds]] Techniques**: Unity-based approaches to corruption treatment
 - **[[Crystal Garden]] Sanctuary**: Possible healing in stable merged reality zone
-- **Divine Intervention**: Direct assistance from [[02_Worldbuilding/People/The Crimson Sage]] or [[The Deep Mother]]
+- **Divine Intervention**: Direct assistance from [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] or [[The Deep Mother]]
 - **Convergence Resolution**: Corruption eliminated when dimensional wounds heal
 - **Medical Breakthrough**: Scientific discovery enabling corruption reversal
 
@@ -350,7 +350,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[02_Worldbuilding/Lore/Customs House|02 Worldbuilding/Lore/Customs House]]
 - [[Crystal Garden]]
 - [[Customs House]]
 - [[The Convergence Point]]

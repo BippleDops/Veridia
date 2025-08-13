@@ -95,7 +95,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!note|no-title]
->> ![[Template_Group_Placeholder.png]]
+>> ![[Template_Group_Placeholder.png|Template Group Placeholder.png]]
 >
 >> [!note|div-m] Place Name
 >> ~~~meta-bind
@@ -169,7 +169,7 @@ Rank 1: borrow resources (100 gp), case (+15), diversion (+15), gather informati
 Rank 2: borrow resources (1,000 gp), put in a good word, remove evidence, rob, search black market
 Rank 3: borrow resources (5,000 gp), command team (1d4 NPCs of 3rd level, or 3d4 NPCs of 1st level), destroy evidence, market manipulation, reciprocal benefits Rank 4: black market mastery, borrow resources (15,000 gp), command team (1d4 NPCs of 6th level, or 5d4 NPCs of 3rd level)
 
-# Goals
+## Goals
 
 > [!NOTE]+ Public Goals
 > - [ ] Achieve This
@@ -179,14 +179,14 @@ Rank 3: borrow resources (5,000 gp), command team (1d4 NPCs of 3rd level, or 3d4
 > - [ ] Achieve This
 > - [ ] Achieve That
 
-# Membership
+## Membership
 To join the group, a PC must spend X week 'doing' something, or 'something else'.
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Hierarchy
+## Hierarchy
 
 `BUTTON[button_person]` List important relationships here. 
 
@@ -244,14 +244,14 @@ dv.paragraph(
 > | --- | --- | 
 > | `INPUT[list:members]`    | `INPUT[list:initiates]`    |
 
-# Enemies/Allies
+## Enemies/Allies
 **Enemies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyEnemies]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
 **Allies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyAllies]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
-# People
+## People
 
 The following people are members of this group.  
 
@@ -317,7 +317,7 @@ views:
 ```
 
 
-# Services
+## Services
 
 Services offered. 
 
@@ -334,7 +334,7 @@ Services offered.
 > | Service 1 | 1gp  | L      |
 > | Service 2 | 1cp  | -      |
 
-# Ranks
+## Ranks
 
 Ranks listed here
 
@@ -379,4 +379,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Item]]
+- [[05_Templates/World Builder Templates/Template-Item|05 Templates/World Builder Templates/Template Item]]

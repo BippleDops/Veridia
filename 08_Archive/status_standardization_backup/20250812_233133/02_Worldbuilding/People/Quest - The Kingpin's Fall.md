@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Kingpin's Fall]]
+- [[02_Worldbuilding/People/Quest - The Kingpin's Fall|02 Worldbuilding/People/Quest The Kingpin's Fall]]
 
 <!-- enriched: true -->
 

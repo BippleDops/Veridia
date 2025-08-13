@@ -23,13 +23,13 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-shield-of-expression-xdmg-shield-of-expression-xdmg.svg)
 
 # Shield of Expression
-*Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), common*  
+*Armor ([[/03_Mechanics/CLI/items/shield-xphb|shield]]), common*  
 
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to alter the face's expression.
+The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to alter the face's expression.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

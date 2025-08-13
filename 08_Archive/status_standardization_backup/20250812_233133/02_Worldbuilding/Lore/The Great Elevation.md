@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]
 
 
 ## Connections

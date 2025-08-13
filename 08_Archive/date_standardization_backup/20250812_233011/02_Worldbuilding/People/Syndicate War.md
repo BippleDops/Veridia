@@ -34,7 +34,7 @@ accessibility:
 
 # Syndicate War
 
-![Syndicate War Portrait](04_Resources/Assets/Art/NPCs/Syndicate_War.png)
+![[04_Resources/Assets/Art/NPCs/Syndicate_War.png|Syndicate War Portrait]]
 
 ## Role and Motive
 Syndicate War moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -46,7 +46,7 @@ Syndicate War moves information and influence like currency. Publicly pragmatic,
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
 - Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]].
-- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
+- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -60,12 +60,12 @@ Syndicate War moves information and influence like currency. Publicly pragmatic,
 
 ## Hooks to the Main Campaign
 - Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos]].
+- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 - Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] as the true buyer behind a recent theft.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -91,4 +91,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]

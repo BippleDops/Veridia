@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-white-dragon-xmm-ancient-white-dragon-xmm.svg)
 
-# [Ancient White Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-white-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/ancient-white-dragon-xmm|Ancient White Dragon]]
 *Source: Monster Manual (2024) p. 330. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Like arctic storms, ancient white dragons threaten icy realms. They emerge from their frozen lairs to indulge their hungers for food or treasure, menacing other creatures with lethal cold. While they might ignore animals or small groups of polar wanderers, these dragons are quick to challenge other dragons and creatures wielding powerful magic, hoping to add their foes' skulls and magic items to their own hoards.
@@ -67,9 +67,9 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+13"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "cold"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
@@ -77,7 +77,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "20"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
+      \ make an ability check. Additionally, [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
@@ -88,21 +88,21 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +14, reach 15 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 7 (2d6) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 22, each creature in a 90-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 63 (14d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "legendary_actions":
   - "desc": "Constitution Saving Throw: DC 20, each creature in a 30-foot-radius\
-      \ [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered\
       \ on a point the dragon can see within 120 feet. Failure: 14 (4d6) Cold damage,\
-      \ and the target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) is\
+      \ and the target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] is\
       \ 0 until the end of the target's next turn. Failure or Success: The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Freezing Burst"
-  - "desc": "The dragon moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
-  - "desc": "The dragon casts [Fear](/03_Mechanics/CLI/spells/fear-xphb.md), requiring\
+  - "desc": "The dragon casts [[/03_Mechanics/CLI/spells/fear-xphb|Fear]], requiring\
       \ no Material components and using Charisma as the spellcasting ability (spell\
       \ save DC 18). The dragon can't take this action again until the start of its\
       \ next turn.\n"
@@ -111,15 +111,15 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "The region containing an adult or ancient white dragon's lair is affected\
       \ by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [extreme\
-      \ cold](/03_Mechanics/CLI/traps-hazards/extreme-cold-xdmg.md). Any water in that\
-      \ area is [frigid water](/03_Mechanics/CLI/traps-hazards/frigid-water-xdmg.md).\
+  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[/03_Mechanics/CLI/traps-hazards/extreme-cold-xdmg|extreme\
+      \ cold]]. Any water in that\
+      \ area is [[/03_Mechanics/CLI/traps-hazards/frigid-water-xdmg|frigid water]].\
       \ See the \"Dungeon Master's Guide\" for rules on extreme cold and frigid water.\
-      \  \n- Glacial Gloom. The area within 1 mile of the lair is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
+      \  \n- Glacial Gloom. The area within 1 mile of the lair is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]]\
       \ by chilly fog. Whenever a creature other than the dragon or one of its allies\
-      \ finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) in\
+      \ finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] in\
       \ that area, that creature must succeed on a DC 15 Constitution saving throw\
-      \ or have its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) reduced\
+      \ or have its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] reduced\
       \ by 10 feet for 1 hour.  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."

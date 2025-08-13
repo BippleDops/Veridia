@@ -44,9 +44,9 @@ The Shadow Surgeons have learned to harness and direct Shadow Corruption for the
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Groups/The Shadow Surgeons]]
-- [[02_Worldbuilding/Lore/Reality Merger Mechanics]]
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Groups/The Shadow Surgeons|02 Worldbuilding/Groups/The Shadow Surgeons]]
+- [[02_Worldbuilding/Lore/Reality Merger Mechanics|02 Worldbuilding/Lore/Reality Merger Mechanics]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater|02 Worldbuilding/Places/Reflection Pools Surgical Theater]]
 
 ## References
 

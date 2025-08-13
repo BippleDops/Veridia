@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne|02 Worldbuilding/Places/Secret Vault Beneath Throne]]
 
 
 ## Connections

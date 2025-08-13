@@ -195,6 +195,6 @@ Legends speak of Quieting the Depths as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quieting the Depths]]
+- [[02_Worldbuilding/Places/Quieting the Depths|02 Worldbuilding/Places/Quieting The Depths]]
 
 <!-- enriched: true -->

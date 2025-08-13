@@ -27,7 +27,7 @@ world: Both
 
 
 
-This item functions as a Pole. While holding it, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to cause it to transform into a fishing pole with a hook, a line, and a reel, or have the fishing pole revert to a Pole.
+This item functions as a Pole. While holding it, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to cause it to transform into a fishing pole with a hook, a line, and a reel, or have the fishing pole revert to a Pole.
 
 *Source: Dungeon Master's Guide (2024) p. 286*
 

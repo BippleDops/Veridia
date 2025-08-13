@@ -347,11 +347,11 @@ Environmental limitations create strategic decisions about equipment selection w
 Upgrade pathways provide long-term character development goals while ensuring that item progression supports rather than replaces character skill advancement.
 
 ## Connected Organizations and Locations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical item market and crafting center
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface magical item development and distribution hub
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Regulatory authority for cross-realm magical item trade
-- [[02_Worldbuilding/People/Master Artificer Coral Gemwright]] - Leading expert in cross-realm magical item development
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat driving protective item development
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical item market and crafting center
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface magical item development and distribution hub
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Regulatory authority for cross-realm magical item trade
+- [[02_Worldbuilding/People/Master Artificer Coral Gemwright|02 Worldbuilding/People/Master Artificer Coral Gemwright]] - Leading expert in cross-realm magical item development
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Major threat driving protective item development
 
 
 ## Connections
@@ -381,7 +381,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Master Artificer Coral Gemwright]]
+- [[02_Worldbuilding/Lore/Master Artificer Coral Gemwright|02 Worldbuilding/Lore/Master Artificer Coral Gemwright]]
 - [[Eastern Kingdom]]
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]

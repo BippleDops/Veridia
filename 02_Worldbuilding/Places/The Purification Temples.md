@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[02_Worldbuilding/Lore/Crystal Corruption Taboos|02 Worldbuilding/Lore/Crystal Corruption Taboos]]
 
 
 ## Connections

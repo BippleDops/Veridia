@@ -29,11 +29,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 5-foot radius, attack rolls against it have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md), and it can't benefit from the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition.
+The target hit by the strike takes an extra `2d6` Radiant damage from the attack. Until the spell ends, the target sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 5-foot radius, attack rolls against it have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]], and it can't benefit from the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 2.
 
-**Classes**: [Warlock (The Hexblade)](/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

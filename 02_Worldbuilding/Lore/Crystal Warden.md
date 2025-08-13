@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern|02 Worldbuilding/Places/The Siren's Rest Tavern]]
 
 
 ## Connections

@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Frozen Throne|02 Worldbuilding/Places/The Frozen Throne]]
 
 
 ## Connections

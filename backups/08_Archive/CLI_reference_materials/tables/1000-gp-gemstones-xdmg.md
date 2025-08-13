@@ -25,14 +25,14 @@ world: Both
 
 | dice: 1d8 | Stone |
 |-----------|-------|
-| 1 | [Black opal](/03_Mechanics/CLI/items/black-opal-xdmg.md) (dark green with black mottling and golden flecks) |
-| 2 | [Blue sapphire](/03_Mechanics/CLI/items/blue-sapphire-xdmg.md) (medium blue) |
-| 3 | [Emerald](/03_Mechanics/CLI/items/emerald-xdmg.md) (deep bright green) |
-| 4 | [Fire opal](/03_Mechanics/CLI/items/fire-opal-xdmg.md) (fiery red) |
-| 5 | [Opal](/03_Mechanics/CLI/items/opal-xdmg.md) (pale blue with green and golden mottling) |
-| 6 | [Star ruby](/03_Mechanics/CLI/items/star-ruby-xdmg.md) (ruby with white star-shaped center) |
-| 7 | [Star sapphire](/03_Mechanics/CLI/items/star-sapphire-xdmg.md) (blue sapphire with white star-shaped center) |
-| 8 | [Yellow sapphire](/03_Mechanics/CLI/items/yellow-sapphire-xdmg.md) (fiery yellow or yellow green) |
+| 1 | [[/03_Mechanics/CLI/items/black-opal-xdmg|Black opal]] (dark green with black mottling and golden flecks) |
+| 2 | [[/03_Mechanics/CLI/items/blue-sapphire-xdmg|Blue sapphire]] (medium blue) |
+| 3 | [[/03_Mechanics/CLI/items/emerald-xdmg|Emerald]] (deep bright green) |
+| 4 | [[/03_Mechanics/CLI/items/fire-opal-xdmg|Fire opal]] (fiery red) |
+| 5 | [[/03_Mechanics/CLI/items/opal-xdmg|Opal]] (pale blue with green and golden mottling) |
+| 6 | [[/03_Mechanics/CLI/items/star-ruby-xdmg|Star ruby]] (ruby with white star-shaped center) |
+| 7 | [[/03_Mechanics/CLI/items/star-sapphire-xdmg|Star sapphire]] (blue sapphire with white star-shaped center) |
+| 8 | [[/03_Mechanics/CLI/items/yellow-sapphire-xdmg|Yellow sapphire]] (fiery yellow or yellow green) |
 ^1000-gp-gemstones
 
 ## Player-Facing Summary

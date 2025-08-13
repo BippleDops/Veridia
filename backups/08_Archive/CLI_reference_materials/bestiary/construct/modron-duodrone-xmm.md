@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-duodrone-xmm-modron-duodrone-xmm.svg)
 
-# [Modron Duodrone](3-Mechanics\CLI\bestiary\construct/modron-duodrone-xmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/modron-duodrone-xmm|Modron Duodrone]]
 *Source: Monster Manual (2024) p. 217*  
 
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
@@ -88,7 +88,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/4"

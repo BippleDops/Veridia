@@ -122,6 +122,6 @@ Legends speak of Discover Shadow Market Location as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Discover Shadow Market Location]]
+- [[02_Worldbuilding/Places/Discover Shadow Market Location|02 Worldbuilding/Places/Discover Shadow Market Location]]
 
 <!-- enriched: true -->

@@ -25,24 +25,24 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `2d10` [revenants](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md) |
-| 03-04 | `2d8` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
-| 05-06 | `2d10` [werebears](/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md) |
-| 07-08 | 1 [frost giant](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) |
-| 09-10 | `2d4` [young remorhazes](/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md) |
-| 11-20 | `d4` [frost giants](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) |
+| 01-02 | `2d10` [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenants]] |
+| 03-04 | `2d8` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
+| 05-06 | `2d10` [[/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm|werebears]] |
+| 07-08 | 1 [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost giant]] |
+| 09-10 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
+| 11-20 | `d4` [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost giants]] |
 | 21-25 | A Circular patch of black ice on the ground. The air temperature around the patch is warmer than in the surrounding area, and characters who inspect the ice find bits of machinery frozen within. |
-| 26-35 | 1 [ancient white dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) |
+| 26-35 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm|ancient white dragon]] |
 | 36-40 | An adventurer frozen 6 feet under the ice; 50% chance the corpse has a rare magic item of the DM's choice |
-| 41-50 | `d3` [abominable yetis](/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md) |
-| 51-60 | `d4` [remorhazes](/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md) |
+| 41-50 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm|abominable yetis]] |
+| 51-60 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm|remorhazes]] |
 | 61-65 | A 500-foot-high wall of ice that is 300 feet thick and spread across `d4` miles |
-| 66-75 | `d4` [rocs](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
+| 66-75 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|rocs]] |
 | 76-80 | The likeness of a stern woman with long, flowing hair, carved into the side of a mountain |
-| 81-90 | `d10` [frost giants](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) with `2d4` [polar bears](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md) |
-| 91-96 | `d3` [adult white dragons](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) |
-| 97-99 | `2d4` [abominable yetis](/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md) |
-| 00 | 1 [ancient white dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) with `d3` [young white dragons](/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md) |
+| 81-90 | `d10` [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost giants]] with `2d4` [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|polar bears]] |
+| 91-96 | `d3` [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|adult white dragons]] |
+| 97-99 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm|abominable yetis]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm|ancient white dragon]] with `d3` [[/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm|young white dragons]] |
 ^arctic-encounters-levels-1720
 
 ## Player-Facing Summary

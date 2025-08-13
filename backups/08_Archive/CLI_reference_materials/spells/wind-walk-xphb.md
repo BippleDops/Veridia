@@ -29,11 +29,11 @@ world: Both
 - **Components:** V, S, M (a candle)
 - **Duration:** 8 hours
 
-You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 300 feet and can hover; it has [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition; and it has [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [Dash](/03_Mechanics/CLI/actions.md#Dash) action or a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition. Until the spell ends, the target can revert to cloud form, which also requires a [Magic](/03_Mechanics/CLI/actions.md#Magic) action followed by a 1-minute transformation.
+You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] of 300 feet and can hover; it has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition; and it has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [[/03_Mechanics/CLI/actions#Dash|Dash]] action or a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition. Until the spell ends, the target can revert to cloud form, which also requires a [[/03_Mechanics/CLI/actions#Magic|Magic]] action followed by a 1-minute transformation.
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

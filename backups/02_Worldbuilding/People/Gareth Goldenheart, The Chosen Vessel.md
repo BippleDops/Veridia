@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
 
 
 ## Connections

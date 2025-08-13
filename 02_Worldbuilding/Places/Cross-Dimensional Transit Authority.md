@@ -301,6 +301,6 @@ Legends speak of Cross Dimensional Transit Authority as a nexus where past and p
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority|02 Worldbuilding/Places/Cross Dimensional Transit Authority]]
 
 <!-- enriched: true -->

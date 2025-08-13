@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Aurelius]]
+- [[02_Worldbuilding/People/Lord Aurelius|02 Worldbuilding/People/Lord Aurelius]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grimlock-xmm-grimlock-xmm.svg)
 
-# [Grimlock](3-Mechanics\CLI\bestiary\aberration/grimlock-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/grimlock-xmm|Grimlock]]
 *Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Grimlock
@@ -76,11 +76,11 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "blindsight 30 ft., passive Perception 13"
 "languages": ""

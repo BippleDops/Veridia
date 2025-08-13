@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dire-worg-xmm-dire-worg-xmm.svg)
 
-# [Worg](3-Mechanics\CLI\bestiary\fey/worg-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/worg-xmm|Worg]]
 *Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Packs of worgs roam harsh frontiers and cursed lands. They sometimes conspire with goblinoids and gnolls and might serve them as mounts.
@@ -61,7 +61,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Goblin, Worg"
@@ -69,7 +69,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
       \ and the next attack roll made against the target before the start of the worg's\
-      \ next turn has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ next turn has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]."
     "name": "Bite"
 "source":
   - "XMM"

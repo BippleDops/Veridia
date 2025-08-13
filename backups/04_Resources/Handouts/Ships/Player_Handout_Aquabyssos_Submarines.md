@@ -25,8 +25,8 @@ world: Aquabyssos
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
-Choosing a ship affects your story: see [[Vehicle_Core_Rules]] for piloting, sanity, and upgrade paths.
+Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]

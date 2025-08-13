@@ -158,6 +158,6 @@ Legends speak of The Last Seeds as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Seeds]]
+- [[02_Worldbuilding/Places/The Last Seeds|02 Worldbuilding/Places/The Last Seeds]]
 
 <!-- enriched: true -->

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ruin-grinder-scc-ruin-grinder-scc.svg)
 
-# [Ruin Grinder](3-Mechanics\CLI\bestiary\construct/ruin-grinder-scc.md)
+# [[3-Mechanics\CLI\bestiary\construct/ruin-grinder-scc|Ruin Grinder]]
 *Source: Strixhaven: A Curriculum of Chaos p. 211*  
 
 Created by the archaeomancers of Lorehold College, ruin grinders are mighty automatons built to excavate ancient ruins and artifacts. The massive toothed shovels attached to a ruin grinder's arms tear through millennia-old bedrock with ease, leading some Lorehold mages to fear that the grinders destroy more history than they unearth.
@@ -48,9 +48,9 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
   - !!int "1"
 "speed": "30 ft., burrow 30 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
@@ -69,7 +69,7 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
   - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d6 + 6) force damage. If the target is a Huge or smaller creature, it must\
       \ succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and\
-      \ knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
     "name": "Excavator"
 "source":
   - "SCC"

@@ -25,21 +25,21 @@ world: Both
 
 | dice: d20 | Allies |
 |-----------|--------|
-| 1-3 | `d4` [steeders, female](/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) |
-| 4-6 | `d3` [duergar hammerers](/03_Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm.md) |
-| 7 | 1 [duergar mind master](/03_Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm.md) |
-| 8 | `d3` [duergar screamers](/03_Mechanics/CLI/bestiary/construct/duergar-screamer-mpmm.md) |
-| 9-10 | `d3` [duergar soulblades](/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm.md) |
-| 11 | `d6` [duergar xarrorn](/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm.md) |
-| 12 | `d6` [bearded devils](/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) bound to service |
-| 13 | `2d4` allied evil [azers](/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) |
-| 14 | `3d20` enslaved [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 15 | `d4` summoned [earth elementals](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) |
-| 16 | `1d6 + 2` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| 17 | `d8` [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) |
-| 18 | 1 trained [rust monster](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md) |
-| 19 | 1 [shield guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) bound to group leader |
-| 20 | `d4` enslaved [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 1-3 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm|steeders, female]] |
+| 4-6 | `d3` [[/03_Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm|duergar hammerers]] |
+| 7 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm|duergar mind master]] |
+| 8 | `d3` [[/03_Mechanics/CLI/bestiary/construct/duergar-screamer-mpmm|duergar screamers]] |
+| 9-10 | `d3` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] |
+| 11 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|duergar xarrorn]] |
+| 12 | `d6` [[/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm|bearded devils]] bound to service |
+| 13 | `2d4` allied evil [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|azers]] |
+| 14 | `3d20` enslaved [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] |
+| 15 | `d4` summoned [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth elementals]] |
+| 16 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
+| 17 | `d8` [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]] |
+| 18 | 1 trained [[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm|rust monster]] |
+| 19 | 1 [[/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm|shield guardian]] bound to group leader |
+| 20 | `d4` enslaved [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
 ^duergar-special-allies
 
 ## Player-Facing Summary

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Deep Anarchists]]
+- [[02_Worldbuilding/People/Deep Anarchists|02 Worldbuilding/People/Deep Anarchists]]
 
 <!-- enriched: true -->
 

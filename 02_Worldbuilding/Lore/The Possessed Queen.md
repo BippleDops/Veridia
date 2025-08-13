@@ -346,12 +346,12 @@ Succession transitions could result in new leadership while the possessed queen 
 Revolutionary change scenarios might emerge if the crisis undermines confidence in monarchical government while creating opportunities for alternative political systems.
 
 ## Connected Figures and Organizations
-- [[02_Worldbuilding/Lore/Aethermoor]] - Kingdom affected by the queen's possession
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corrupting force responsible for the possession
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - International organization affected by the crisis
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Research facility developing countermeasures
-- [[02_Worldbuilding/People/Royal Advisor Cornelius Stormwind]] - Former chief counselor to the crown
-- [[02_Worldbuilding/Lore/Council of Mages]] - Organization working on magical solutions
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Kingdom affected by the queen's possession
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Corrupting force responsible for the possession
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - International organization affected by the crisis
+- [[02_Worldbuilding/Lore/Resonance Chamber|02 Worldbuilding/Lore/Resonance Chamber]] - Research facility developing countermeasures
+- [[02_Worldbuilding/People/Royal Advisor Cornelius Stormwind|02 Worldbuilding/People/Royal Advisor Cornelius Stormwind]] - Former chief counselor to the crown
+- [[02_Worldbuilding/Lore/Council of Mages|02 Worldbuilding/Lore/Council Of Mages]] - Organization working on magical solutions
 
 ## Player-Facing Summary
 
@@ -375,7 +375,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 
 ## Connections

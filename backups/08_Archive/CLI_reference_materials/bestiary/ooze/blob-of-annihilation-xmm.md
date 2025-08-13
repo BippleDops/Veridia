@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blob-of-annihilation-xmm-blob-of-annihilation-xmm.svg)
 
-# [Blob of Annihilation](3-Mechanics\CLI\bestiary\ooze/blob-of-annihilation-xmm.md)
+# [[3-Mechanics\CLI\bestiary\ooze/blob-of-annihilation-xmm|Blob of Annihilation]]
 *Source: Monster Manual (2024) p. 47*  
 
 ## Blob of Annihilation
@@ -53,11 +53,11 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 
 | dice: 1d10 | The Blob Contains... |
 |------------|----------------------|
-| 1 | An [Amulet of the Planes](/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg.md). |
+| 1 | An [[/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg|Amulet of the Planes]]. |
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |
-| 5 | A [Deck of Many Things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md). |
+| 5 | A [[/03_Mechanics/CLI/items/deck-of-many-things-xdmg|Deck of Many Things]]. |
 | 6 | A magic key that opens a door in Sigil that no other key and no spell can open. |
 | 7 | The preserved corpse of an empyrean. |
 | 8 | The remains of half a kraken. |
@@ -88,17 +88,17 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
   - "constitution": !!int "16"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [stunned](/03_Mechanics/CLI/conditions.md#Stunned),\
-  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]],\
+  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "23"
 "traits":
-  - "desc": "If the blob is reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+  - "desc": "If the blob is reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
       \ it implodes and ejects any creatures and objects engulfed by it into the Astral\
       \ Sea. The blob itself vanishes, leaving behind a layer of slime on everything\
       \ that was within 600 feet of it. In d20 years, the blob reconstitutes on a\
@@ -106,7 +106,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
     "name": "Astral Implosion"
   - "desc": "If the blob fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The blob has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The blob has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -115,24 +115,24 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +15, reach 30 ft. Hit: 24 (3d10 + 8) Force damage."
     "name": "Pseudopod"
-  - "desc": "The blob moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "The blob moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
       \ and can move through the spaces of Huge or smaller creatures and objects.\
       \ Strength Saving Throw: DC 23, each creature or object whose space the blob\
       \ enters for the first time during this move. Failure: The target is engulfed.\
-      \ While engulfed, a target has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ While engulfed, a target has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]]\
       \ against attacks and other effects outside the blob, and when the blob moves,\
       \ the engulfed target moves with it. A nonmagical object is destroyed after\
       \ spending 1 minute engulfed.\n\nWhile engulfed, a creature takes 21 (6d6) Force\
-      \ damage at the start of each of its turns, is suffocating, has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ damage at the start of each of its turns, is suffocating, has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition, and repeats the save at the end of each of its turns. An engulfed\
-      \ creature that is reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ creature that is reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ dissolves into ash, which is ejected into the Astral Sea. Success: The target\
       \ escapes and enters the nearest unoccupied space."
     "name": "Engulf"
   - "desc": "The blob lobs a slimy glob at one Large or smaller creature it can see\
       \ within 600 feet of itself. Dexterity Saving Throw: DC 23, the targeted creature.\
       \ Failure: 18 (3d6 + 8) Acid damage. The glob rolls the target 60 feet straight\
-      \ toward the blob, and the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ toward the blob, and the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition until the end of its next turn, when the glob harmlessly dissolves.\
       \ Success: Half damage only."
     "name": "Restraining Glob"

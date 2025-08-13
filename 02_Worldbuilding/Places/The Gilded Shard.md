@@ -97,7 +97,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 ### Leadership
 - **[[Professor Aldric Crystalweaver]]**: Director and Chief Researcher
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Deputy Director of Practical Studies
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Deputy Director of Practical Studies
 - **Master Theorist Valdris Prism**: Head of Theoretical Department
 - **Arcane General Marcus Brightforge**: Military Applications Division
 - **Temporal Sage Chronos Stilltime**: Advanced Studies (when present)
@@ -305,7 +305,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - Market for academy-developed magical items
 - Economic support through research commissions
 
-**[[02_Worldbuilding/Lore/The Coral Gardens]]**: Environmental research  
+**[[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]]**: Environmental research  
 - Collaborative studies on natural magic
 - Shared research on biological-magical interactions
 - Environmental impact assessments of magical experiments
@@ -436,7 +436,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **Special**: Legendary Actions (3 per turn), Crystal Magic (all spells deal force damage), Ageless (appears 40, actually 200+ years old)
 - **Spells**: As Archmage, plus unique crystal-based spells
 
-**[[02_Worldbuilding/Quests/Aquabyssos]]** (Half-Elf Mage with enhanced abilities)
+**[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** (Half-Elf Mage with enhanced abilities)
 - **AC**: 15 (Mage Armor)
 - **HP**: 58 (13d8 + 13)
 - **Speed**: 30 ft
@@ -575,7 +575,7 @@ Legends speak of The Gilded Shard as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Gilded Shard|02 Worldbuilding/Places/The Gilded Shard]]
 
 <!-- enriched: true -->
 - [[The Seven Shards]]

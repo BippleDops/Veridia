@@ -31,28 +31,28 @@ This Workshop is a creative space where useful items can be crafted.
 
 The Workshop comes equipped with six different kinds of Artisan's Tools, chosen from the following list:
 
-- [Carpenter's Tools](/03_Mechanics/CLI/items/carpenters-tools-xphb.md)  
-- [Cobbler's Tools](/03_Mechanics/CLI/items/cobblers-tools-xphb.md)  
-- [Glassblower's Tools](/03_Mechanics/CLI/items/glassblowers-tools-xphb.md)  
-- [Jeweler's Tools](/03_Mechanics/CLI/items/jewelers-tools-xphb.md)  
-- [Leatherworker's Tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md)  
-- [Mason's Tools](/03_Mechanics/CLI/items/masons-tools-xphb.md)  
-- [Painter's Tools](/03_Mechanics/CLI/items/painters-supplies-xphb.md)  
-- [Potter's Tools](/03_Mechanics/CLI/items/potters-tools-xphb.md)  
-- [Tinker's Tools](/03_Mechanics/CLI/items/tinkers-tools-xphb.md)  
-- [Weaver's Tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md)  
-- [Woodcarver's Tools](/03_Mechanics/CLI/items/woodcarvers-tools-xphb.md)  
+- [[/03_Mechanics/CLI/items/carpenters-tools-xphb|Carpenter's Tools]]  
+- [[/03_Mechanics/CLI/items/cobblers-tools-xphb|Cobbler's Tools]]  
+- [[/03_Mechanics/CLI/items/glassblowers-tools-xphb|Glassblower's Tools]]  
+- [[/03_Mechanics/CLI/items/jewelers-tools-xphb|Jeweler's Tools]]  
+- [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|Leatherworker's Tools]]  
+- [[/03_Mechanics/CLI/items/masons-tools-xphb|Mason's Tools]]  
+- [[/03_Mechanics/CLI/items/painters-supplies-xphb|Painter's Tools]]  
+- [[/03_Mechanics/CLI/items/potters-tools-xphb|Potter's Tools]]  
+- [[/03_Mechanics/CLI/items/tinkers-tools-xphb|Tinker's Tools]]  
+- [[/03_Mechanics/CLI/items/weavers-tools-xphb|Weaver's Tools]]  
+- [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]]  
 
 ## Craft Options
 
 When you issue the "Craft" order to this facility, choose one of the following options:
 
 - **Craft.** Adventuring Gear. The facility's hirelings craft anything that can be made with the tools you chose when you added the Workshop to your Bastion (see above), using the rules in the "Player's Handbook".  
-- **Craft.** Magic Item (Implement). If you are level 9+, you can commission the facility's hirelings to craft a Common or an Uncommon magic item chosen by you from the "Implements" tables in "chapter 7". The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/03_Mechanics/CLI/skills.md#Arcana) skill. See the ""Crafting Magic Items"" section in "chapter 7" for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.  
+- **Craft.** Magic Item (Implement). If you are level 9+, you can commission the facility's hirelings to craft a Common or an Uncommon magic item chosen by you from the "Implements" tables in "chapter 7". The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [[/03_Mechanics/CLI/skills#Arcana|Arcana]] skill. See the ""Crafting Magic Items"" section in "chapter 7" for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.  
 
 ## Source of Inspiration
 
-After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md). You can't gain this benefit again until you finish a Long Rest.
+After spending an entire Short Rest in your Workshop, you gain [[/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb|Heroic Inspiration]]. You can't gain this benefit again until you finish a Long Rest.
 
 ## Enlarging the Facility
 

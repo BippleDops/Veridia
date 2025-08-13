@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gallery of Echoing Truths]]
+- [[02_Worldbuilding/Places/Gallery of Echoing Truths|02 Worldbuilding/Places/Gallery Of Echoing Truths]]
 
 <!-- enriched: true -->
 

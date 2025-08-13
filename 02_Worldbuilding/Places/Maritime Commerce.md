@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Maritime Commerce]]
+- [[02_Worldbuilding/Places/Maritime Commerce|02 Worldbuilding/Places/Maritime Commerce]]
 
 <!-- enriched: true -->
 

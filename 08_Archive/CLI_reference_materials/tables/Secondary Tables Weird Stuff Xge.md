@@ -26,7 +26,7 @@ world: Both
 | dice: d12 | What Happened |
 |-----------|---------------|
 | 1 | You were turned into a toad and remained in that form for `d4` weeks. |
-| 2 | You were [petrified](/03_Mechanics/CLI/conditions.md#Petrified) and remained a stone statue for a time until someone freed you. |
+| 2 | You were [[/03_Mechanics/CLI/conditions#Petrified|petrified]] and remained a stone statue for a time until someone freed you. |
 | 3 | You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for `d6` years. |
 | 4 | A dragon held you as a prisoner for `d4` months until adventurers killed it. |
 | 5 | You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped. |

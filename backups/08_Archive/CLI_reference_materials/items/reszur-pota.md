@@ -23,12 +23,12 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-reszur-pota-reszur-pota.svg)
 
 # Reszur
-*Weapon ([dagger](/03_Mechanics/CLI/items/dagger-xphb.md)), uncommon*  
+*Weapon ([[/03_Mechanics/CLI/items/dagger-xphb|dagger]]), uncommon*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this weapon, which doesn't make noise when it hits or cuts something.

@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [Jump](/03_Mechanics/CLI/spells/jump-xphb.md) on yourself without expending a spell slot.
+You can cast [[/03_Mechanics/CLI/spells/jump-xphb|Jump]] on yourself without expending a spell slot.
 
 ## Player-Facing Summary
 

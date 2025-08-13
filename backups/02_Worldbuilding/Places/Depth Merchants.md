@@ -25,10 +25,10 @@ established: ~300 years ago
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
-- '[[02_Worldbuilding/Groups/Silverscale Consortium]]'
-- '[[02_Worldbuilding/Places/Free Current]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
-- '[[02_Worldbuilding/Lore/The Deep Mother]]'
+- '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'
+- '[[02_Worldbuilding/Places/Free Current|02 Worldbuilding/Places/Free Current]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'
 ---
 
 > [!figure] View
@@ -43,11 +43,11 @@ related_entities:
 
 ## Overview
 
-The Depth Merchants district represents [[02_Worldbuilding/Places/Aquabyssos]]'s most ambitious commercial endeavor - a thriving trading hub built in the crushing depths of the deep ocean, where few dare to venture and fewer still can survive. Located at depths ranging from 3,000 to 5,000 feet below the surface, this merchant quarter specializes in the extraction, processing, and trade of resources that can only be found in the deepest reaches of the ocean.
+The Depth Merchants district represents [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s most ambitious commercial endeavor - a thriving trading hub built in the crushing depths of the deep ocean, where few dare to venture and fewer still can survive. Located at depths ranging from 3,000 to 5,000 feet below the surface, this merchant quarter specializes in the extraction, processing, and trade of resources that can only be found in the deepest reaches of the ocean.
 
-More than just a market, the Depth Merchants district is a testament to aquatic ingenuity and adaptation. The entire community has evolved to thrive under extreme pressure conditions that would instantly kill surface dwellers and crush most inhabitants of the shallower regions of [[02_Worldbuilding/Places/Aquabyssos]]. The merchants here deal in goods and services that exist nowhere else in the known world - from pressure-forged metals that are stronger than any surface alloy, to bioluminescent organisms that create light without heat, to the mysterious memory crystals that form only in the crushing darkness of the deep trenches.
+More than just a market, the Depth Merchants district is a testament to aquatic ingenuity and adaptation. The entire community has evolved to thrive under extreme pressure conditions that would instantly kill surface dwellers and crush most inhabitants of the shallower regions of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. The merchants here deal in goods and services that exist nowhere else in the known world - from pressure-forged metals that are stronger than any surface alloy, to bioluminescent organisms that create light without heat, to the mysterious memory crystals that form only in the crushing darkness of the deep trenches.
 
-The district serves as both the primary supplier of deep-ocean resources to the rest of [[02_Worldbuilding/Places/Aquabyssos]] and as a crucial waystation for explorers, researchers, and traders seeking to venture into the deepest and most dangerous parts of the underwater realm. Its merchants have developed a reputation for being able to acquire virtually anything from the depths - for the right price and with enough advance notice.
+The district serves as both the primary supplier of deep-ocean resources to the rest of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and as a crucial waystation for explorers, researchers, and traders seeking to venture into the deepest and most dangerous parts of the underwater realm. Its merchants have developed a reputation for being able to acquire virtually anything from the depths - for the right price and with enough advance notice.
 
 ## Environmental Conditions
 
@@ -314,7 +314,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Features**:
 - Council chambers where major commercial decisions affecting the entire district are made
 - Luxury reception halls for entertaining important trading partners
-- Advanced communication facilities connecting to the surface and other parts of [[02_Worldbuilding/Places/Aquabyssos]]
+- Advanced communication facilities connecting to the surface and other parts of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Private quarters for visiting dignitaries and high-ranking merchants
 - Treasury vaults protecting valuable deep-ocean resources and trade agreements
 
@@ -400,7 +400,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Environmental Regulations**: Increasing restrictions on deep-ocean commercial activities
 **Cultural Conflicts**: Tensions with newly discovered deep-ocean civilizations
 **Government Oversight**: Expanding regulation of deep-ocean commercial operations
-**International Relations**: Deep-ocean trade affecting relationships between different parts of [[02_Worldbuilding/Places/Aquabyssos]]
+**International Relations**: Deep-ocean trade affecting relationships between different parts of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 
 ### Security & Safety Concerns
 
@@ -415,7 +415,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Deep-Ocean Predators**: Massive creatures that can attack facilities and personnel
 **Unknown Entities**: Encounters with dangerous deep-ocean life forms or phenomena
 **Equipment Failure**: Critical systems breaking down in hostile environment with limited repair options
-**Communication Breakdown**: Loss of contact with surface and other parts of [[02_Worldbuilding/Places/Aquabyssos]]
+**Communication Breakdown**: Loss of contact with surface and other parts of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 **Resource Conflicts**: Disputes with other deep-ocean communities over resource access
 
 ## Game Mechanics (D&D 5e)
@@ -465,19 +465,19 @@ Living at crushing depths has created unique cultural practices and social adapt
 ## Connected Elements
 
 ### Direct Connections
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Major commercial partner and competitor
-- **[[02_Worldbuilding/Places/Free Current]]**: Important transportation network for moving goods
-- **[[02_Worldbuilding/Places/The Memory Meadows]]**: Trading partner for memory-related resources
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Spiritual significance affects some deep-ocean operations
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Major commercial partner and competitor
+- **[[02_Worldbuilding/Places/Free Current|02 Worldbuilding/Places/Free Current]]**: Important transportation network for moving goods
+- **[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]**: Trading partner for memory-related resources
+- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Spiritual significance affects some deep-ocean operations
 
 ### Secondary Connections
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Government body regulating deep-ocean commercial activities
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Source of some deep-ocean phenomena and resources
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Major market for deep-ocean goods and services
-- **[[02_Worldbuilding/Groups/Current Riders Guild]]**: Transportation services for deep-ocean operations
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Government body regulating deep-ocean commercial activities
+- **[[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]**: Source of some deep-ocean phenomena and resources
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]**: Major market for deep-ocean goods and services
+- **[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]**: Transportation services for deep-ocean operations
 
 ### Economic Networks
-- Primary supplier of rare materials to rest of [[02_Worldbuilding/Places/Aquabyssos]]
+- Primary supplier of rare materials to rest of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Key employer for pressure-adapted workers and specialized professionals  
 - Major contributor to regional economy through high-value exports
 - Important technological innovation center for extreme-environment operations
@@ -526,6 +526,6 @@ Legends speak of Depth Merchants as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Merchants]]
+- [[02_Worldbuilding/Places/Depth Merchants|02 Worldbuilding/Places/Depth Merchants]]
 
 <!-- enriched: true -->

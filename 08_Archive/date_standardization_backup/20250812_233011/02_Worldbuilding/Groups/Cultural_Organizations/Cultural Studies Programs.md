@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
 
 
 ## Connections

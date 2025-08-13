@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Armor of the First Deep King]]
+- [[02_Worldbuilding/People/Armor of the First Deep King|02 Worldbuilding/People/Armor Of The First Deep King]]
 
 <!-- enriched: true -->
 

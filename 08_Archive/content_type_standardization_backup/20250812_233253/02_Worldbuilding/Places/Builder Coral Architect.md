@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Builder Coral Architect]]
+- [[02_Worldbuilding/Places/Builder Coral Architect|02 Worldbuilding/Places/Builder Coral Architect]]
 
 <!-- enriched: true -->
 

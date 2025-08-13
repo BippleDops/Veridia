@@ -610,7 +610,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/Noble Quarter|02 Worldbuilding/Places/Noble Quarter]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

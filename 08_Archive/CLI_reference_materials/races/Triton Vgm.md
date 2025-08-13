@@ -46,7 +46,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-A child of the sea, you can call on the magic of elemental air and water. You can cast [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md) with it, and starting at 5th level, you can also cast [wall of water](/03_Mechanics/CLI/spells/wall-of-water-xge.md) with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+A child of the sea, you can call on the magic of elemental air and water. You can cast [[/03_Mechanics/CLI/spells/fog-cloud-xphb|fog cloud]] with this trait. Starting at 3rd level, you can cast [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|gust of wind]] with it, and starting at 5th level, you can also cast [[/03_Mechanics/CLI/spells/wall-of-water-xge|wall of water]] with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Darkvision
 

@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-larvae-xmm-swarm-of-larvae-xmm.svg)
 
-# [Swarm of Larvae](3-Mechanics\CLI\bestiary\fiend/swarm-of-larvae-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/swarm-of-larvae-xmm|Swarm of Larvae]]
 *Source: Monster Manual (2024) p. 193*  
 
 Lone larvae pose little threat, but in large numbers, larvae can overwhelm vulnerable creatures. Out of desperation, larvae band together in grotesque swarms, their squirming stampedes heralded by a din of wordless whimpers and stomach-turning worm sounds.
@@ -60,22 +60,22 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "2"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "understands all but can't speak"
 "cr": "1"
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through an opening large enough for a Medium creature. The\
-      \ swarm can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ or gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Necrotic damage,\
-      \ or 7 (2d4 + 2) Necrotic damage if the swarm is [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+      \ or 7 (2d4 + 2) Necrotic damage if the swarm is [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]]."
     "name": "Bites"
 "source":
   - "XMM"

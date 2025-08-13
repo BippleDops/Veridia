@@ -36,11 +36,11 @@ related_quests:
 - '[[The Bloodline Awakens]]'
 relationship_type: complicated
 relationships:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 - '[[Jasper Three-Eyes Flint]]'
 - '[[Lord Aurelius Goldwave]]'
-- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
 - '[[The Bloodline Carrier]]'
 secrets:
 - Member of ancient order protecting bloodline descendants
@@ -103,18 +103,18 @@ Marina leads a secret organization descended from Aquabyssos survivors who chose
 
 ## Relationships
 ### True Allies
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
 - **[[The Bloodline Carrier]]**: Sworn by ancient oath to protect them, even at cost of her life.
 - **Other Depth Wardens**: Commands a network of 20-30 agents across Aethermoor.
 
 ### Public Persona Relationships
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
 - **Smuggler Crews**: Commands loyalty through fair dealing and spectacular profits.
 - **[[Lord Aurelius Goldwave]]**: Has extensive blackmail material ensuring cooperation.
 
 ### Complicated
 - **[[Jasper Three-Eyes Flint]]**: Protects him as potential bloodline carrier, but his madness makes it difficult.
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
 - **Her Shadow Self**: Has been switching places, creating identity confusion.
 
 ## Current Activities
@@ -233,7 +233,7 @@ Marina's shadow has gained independence and occasionally switches places with he
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -255,7 +255,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]
 
 <!-- enriched: true -->
 - [[Jasper Three-Eyes Flint]]

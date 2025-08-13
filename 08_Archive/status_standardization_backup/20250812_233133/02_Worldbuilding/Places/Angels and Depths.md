@@ -95,16 +95,16 @@ Permanent resident who serves as unofficial ambassador between surface and deep-
 
 2. **Neutral Ground Violated**: A murder occurs within the tavern's protected walls, breaking centuries of tradition. The [[Sea Witch]]'s protection is failing, and supernatural chaos threatens to engulf the establishment.
 
-3. **The Deep Caller**: Strange dreams plague guests in the Tidal Pool rooms, all featuring the same mysterious figure beckoning them to the [[02_Worldbuilding/Lore/The Abyssal Trenches]]. Are these prophetic visions or something more sinister?
+3. **The Deep Caller**: Strange dreams plague guests in the Tidal Pool rooms, all featuring the same mysterious figure beckoning them to the [[02_Worldbuilding/Lore/The Abyssal Trenches|02 Worldbuilding/Lore/The Abyssal Trenches]]. Are these prophetic visions or something more sinister?
 
 4. **Smuggler's Moon**: The tavern serves as a front for smuggling operations moving goods between surface and sea. Characters might be recruited for a dangerous run or tasked with shutting down the operation.
 
-5. **The Last Voyage**: Captain Marrows receives a message in a bottle from her supposedly dead crew, claiming they're trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet]]. She seeks brave souls to venture into the supernatural seas to rescue or lay them to rest.
+5. **The Last Voyage**: Captain Marrows receives a message in a bottle from her supposedly dead crew, claiming they're trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet|02 Worldbuilding/Lore/The Phantom Fleet]]. She seeks brave souls to venture into the supernatural seas to rescue or lay them to rest.
 
 ## Detailed Layout & Architecture
 
 ### The Leviathan Frame
-The tavern's foundation is built within the massive skeleton of an ancient [[02_Worldbuilding/Lore/Leviathan the Deep]], creating a unique architectural marvel:
+The tavern's foundation is built within the massive skeleton of an ancient [[02_Worldbuilding/Lore/Leviathan the Deep|02 Worldbuilding/Lore/Leviathan The Deep]], creating a unique architectural marvel:
 
 #### The Ribcage Hall (Main Dining Area)
 **Dimensions**: 120 feet long, 80 feet wide, 60 feet high
@@ -444,7 +444,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ### The Last Voyage Haunting (Levels 8-12)
 **Trigger**: Message in a bottle arrives claiming to be from Cordelia's dead crew
-**Message Content**: Crew claims to be trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet]]
+**Message Content**: Crew claims to be trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet|02 Worldbuilding/Lore/The Phantom Fleet]]
 **Investigation**: Supernatural sea phenomena and ghost ship sightings increase
 **Reality**: The crew exists in a state between life and death, serving an ancient sea goddess
 
@@ -560,7 +560,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
 
 <!-- enriched: true -->
 riched: true -->

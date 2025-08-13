@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Deep Lord Pelagios the Eternal]]
+- [[02_Worldbuilding/People/Deep Lord Pelagios the Eternal|02 Worldbuilding/People/Deep Lord Pelagios The Eternal]]
 
 <!-- enriched: true -->
 

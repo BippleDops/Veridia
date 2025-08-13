@@ -166,7 +166,7 @@ Legends speak of Keeper of the Dead, Sister Morwyn as a nexus where past and pre
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of the Dead, Sister Morwyn]]
+- [[02_Worldbuilding/Places/Keeper of the Dead, Sister Morwyn|02 Worldbuilding/Places/Keeper Of The Dead, Sister Morwyn]]
 
 <!-- enriched: true -->
 nriched: true -->

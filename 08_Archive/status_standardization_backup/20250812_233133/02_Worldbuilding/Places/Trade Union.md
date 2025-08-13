@@ -39,7 +39,7 @@ TODO
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Corallion|02 Worldbuilding/Lore/Corallion]]
 
 ## Player-Facing Summary
 

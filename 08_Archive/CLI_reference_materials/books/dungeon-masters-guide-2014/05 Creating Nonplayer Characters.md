@@ -56,33 +56,33 @@ In one sentence, describe the NPC's occupation and provide a brief historical no
 
 In one sentence, describe the NPC's most distinctive physical features. You can roll on the NPC Appearance table or choose a feature that suits the character.
 
-![NPC Appearance](/03_Mechanics/CLI/tables/npc-appearance.md)
+![[/03_Mechanics/CLI/tables/npc-appearance|NPC Appearance]]
 
 #### Abilities
 
 You don't need to roll ability scores for the NPC, but note abilities that are above or below average-great strength or monumental stupidity, for example-and use them to inform the NPC's qualities.
 
-![NPC Abilities](/03_Mechanics/CLI/tables/npc-abilities.md)
+![[/03_Mechanics/CLI/tables/npc-abilities|NPC Abilities]]
 
-![NPC Low Abilities](/03_Mechanics/CLI/tables/npc-low-abilities.md)
+![[/03_Mechanics/CLI/tables/npc-low-abilities|NPC Low Abilities]]
 
 #### Talent
 
 In one sentence, describe something that your NPC can do that is special, if anything. Roll on the NPC Talents table or use it to spur your own ideas.
 
-![NPC Talents](/03_Mechanics/CLI/tables/npc-talents.md)
+![[/03_Mechanics/CLI/tables/npc-talents|NPC Talents]]
 
 #### Mannerism
 
 In one sentence, describe one mannerism that will help players remember the NPC. Roll on the NPC Mannerisms and Quirks table or use it to generate your own ideas.
 
-![NPC Mannerisms](/03_Mechanics/CLI/tables/npc-mannerisms.md)
+![[/03_Mechanics/CLI/tables/npc-mannerisms|NPC Mannerisms]]
 
 #### Interactions with Others
 
 In one sentence, describe how the NPC interacts with others, using the NPC Interaction Traits table if necessary. An NPC's behavior can change depending on who he or she is interacting with. For example, an innkeeper might be friendly toward guests and rude to her staff.
 
-![Interactions with Others; NPC Interaction Traits](/03_Mechanics/CLI/tables/interactions-with-others-npc-interaction-traits.md)
+![[/03_Mechanics/CLI/tables/interactions-with-others-npc-interaction-traits|Interactions with Others; NPC Interaction Traits]]
 
 #### Useful Knowledge
 
@@ -94,7 +94,7 @@ The NPC might know something as banal as the best inn in town or as important as
 
 In a sentence, describe one ideal that the NPC holds dear and which governs his or her greater actions. Player characters who uncover an NPC's ideal can use what they've learned to influence the NPC in asocial interaction (as discussed in chapter 8, "Running the Game"). Ideals can connect to alignment, as shown on the NPC Ideals table. The alignment connections here are suggestions only; an evil character could have beauty as an ideal, for instance.
 
-![Ideals](/03_Mechanics/CLI/tables/ideals.md)
+![[/03_Mechanics/CLI/tables/ideals|Ideals]]
 
 #### Bond
 
@@ -102,7 +102,7 @@ In a sentence, summarize the people, places, or things that are especially impor
 
 The character backgrounds in the *Player's Handbook* explore bonds in more detail, and player characters who uncover an NPC's bond can use what they've learned to influence the NPC in a social interaction (as discussed in chapter 8).
 
-![NPC Bonds](/03_Mechanics/CLI/tables/npc-bonds.md)
+![[/03_Mechanics/CLI/tables/npc-bonds|NPC Bonds]]
 
 #### Flaw or Secret
 
@@ -110,7 +110,7 @@ In one sentence, describe the NPC's flaw-some element of the character's persona
 
 The NPC Flaws and Secrets table provides several ideas. The backgrounds in the *Player's Handbook* can be used to create more detailed flaws. Player characters who uncover an NPC's flaw or secret can use what they've learned to influence the NPC in a social interaction (as discussed in chapter 8).
 
-![Flaw or Secret; NPC Flaws and Secrets](/03_Mechanics/CLI/tables/flaw-or-secret-npc-flaws-and-secrets.md)
+![[/03_Mechanics/CLI/tables/flaw-or-secret-npc-flaws-and-secrets|Flaw or Secret; NPC Flaws and Secrets]]
 
 ### Monsters as NPCs
 
@@ -226,15 +226,15 @@ Whenever extras are present, be prepared to come up with names and mannerisms on
 
 By their actions, villains provide job security for heroes. Chapter 3 helps you determine suitable villains for your adventures, while this section helps you flesh out their evil schemes, methods, and weaknesses. Let the tables that follow inspire you.
 
-![Villains; Villain's Scheme](/03_Mechanics/CLI/tables/villains-villains-scheme.md)
+![[/03_Mechanics/CLI/tables/villains-villains-scheme|Villains; Villain's Scheme]]
 
-![Villains; Villain's Methods](/03_Mechanics/CLI/tables/villains-villains-methods.md)
+![[/03_Mechanics/CLI/tables/villains-villains-methods|Villains; Villain's Methods]]
 
 ### Villain's Secret Weakness
 
 Finding and exploiting a villain's weakness can be very gratifying for players, although a smart villain tries to conceal its weakness. A lich, for example, has a phylactery-a magical receptacle for its soul-that it keeps well hidden. Only by destroying the phylactery can the characters ensure the lich's destruction.
 
-![Villain's Secret Weakness; Villain's Weakness](/03_Mechanics/CLI/tables/villains-secret-weakness-villains-weakness.md)
+![[/03_Mechanics/CLI/tables/villains-secret-weakness-villains-weakness|Villain's Secret Weakness; Villain's Weakness]]
 
 ## Villainous Class Options
 

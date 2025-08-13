@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew|02 Worldbuilding/Places/Barkeep Mira Algaebrew]]
 
 
 ## Connections

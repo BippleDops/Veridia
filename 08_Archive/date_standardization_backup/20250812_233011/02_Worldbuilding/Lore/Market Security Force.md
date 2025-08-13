@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[02_Worldbuilding/Places/Port Meridian - Market Square|02 Worldbuilding/Places/Port Meridian Market Square]]
 
 
 ## Connections

@@ -19,413 +19,413 @@ world: Both
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
 
-- [Aarakocra Aeromancer](/03_Mechanics/CLI/bestiary/elemental/aarakocra-aeromancer-xmm.md)  
-- [Aarakocra Skirmisher](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md)  
-- [Aboleth](/03_Mechanics/CLI/bestiary/aberration/aboleth-xmm.md)  
-- [Air Elemental](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md)  
-- [Animal Lord](/03_Mechanics/CLI/bestiary/celestial/animal-lord-xmm.md)  
-- [Animated Armor](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md)  
-- [Animated Broom](/03_Mechanics/CLI/bestiary/construct/animated-broom-xmm.md)  
-- [Animated Flying Sword](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md)  
-- [Animated Rug of Smothering](/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md)  
-- [Ankheg](/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md)  
-- [Arcanaloth](/03_Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md)  
-- [Arch-hag](/03_Mechanics/CLI/bestiary/fey/arch-hag-xmm.md)  
-- [Assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)  
-- [Awakened Shrub](/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md)  
-- [Awakened Tree](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md)  
-- [Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md)  
-- [Giant Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm.md)  
-- [Azer Pyromancer](/03_Mechanics/CLI/bestiary/elemental/azer-pyromancer-xmm.md)  
-- [Azer Sentinel](/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md)  
-- [Balor](/03_Mechanics/CLI/bestiary/fiend/balor-xmm.md)  
-- [Bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)  
-- [Bandit Captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)  
-- [Bandit Crime Lord](/03_Mechanics/CLI/bestiary/humanoid/bandit-crime-lord-xmm.md)  
-- [Bandit Deceiver](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md)  
-- [Banshee](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md)  
-- [Barbed Devil](/03_Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md)  
-- [Barlgura](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md)  
-- [Basilisk](/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md)  
-- [Bearded Devil](/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md)  
-- [Behir](/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm.md)  
-- [Beholder](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md)  
-- [Berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)  
-- [Berserker Commander](/03_Mechanics/CLI/bestiary/humanoid/berserker-commander-xmm.md)  
-- [Black Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md)  
-- [Young Black Dragon](/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm.md)  
-- [Adult Black Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md)  
-- [Ancient Black Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md)  
-- [Black Pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md)  
-- [Needle Blight](/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm.md)  
-- [Twig Blight](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md)  
-- [Tree Blight](/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm.md)  
-- [Vine Blight](/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)  
-- [Gulthias Blight](/03_Mechanics/CLI/bestiary/plant/gulthias-blight-xmm.md)  
-- [Blink Dog](/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm.md)  
-- [Blob of Annihilation](/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md)  
-- [Blue Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md)  
-- [Young Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md)  
-- [Adult Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md)  
-- [Ancient Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)  
-- [Bone Devil](/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md)  
-- [Bone Naga](/03_Mechanics/CLI/bestiary/undead/bone-naga-xmm.md)  
-- [Brass Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md)  
-- [Young Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm.md)  
-- [Adult Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md)  
-- [Ancient Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md)  
-- [Bronze Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)  
-- [Young Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md)  
-- [Adult Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md)  
-- [Ancient Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md)  
-- [Bugbear Stalker](/03_Mechanics/CLI/bestiary/fey/bugbear-stalker-xmm.md)  
-- [Bugbear Warrior](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)  
-- [Bulette](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md)  
-- [Bulette Pup](/03_Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm.md)  
-- [Bullywug Bog Sage](/03_Mechanics/CLI/bestiary/fey/bullywug-bog-sage-xmm.md)  
-- [Bullywug Warrior](/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md)  
-- [Cambion](/03_Mechanics/CLI/bestiary/fiend/cambion-xmm.md)  
-- [Carrion Crawler](/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md)  
-- [Centaur Trooper](/03_Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md)  
-- [Centaur Warden](/03_Mechanics/CLI/bestiary/fey/centaur-warden-xmm.md)  
-- [Chain Devil](/03_Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md)  
-- [Chasme](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md)  
-- [Chimera](/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md)  
-- [Chuul](/03_Mechanics/CLI/bestiary/aberration/chuul-xmm.md)  
-- [Clay Golem](/03_Mechanics/CLI/bestiary/construct/clay-golem-xmm.md)  
-- [Cloaker](/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm.md)  
-- [Cloud Giant](/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md)  
-- [Cockatrice](/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md)  
-- [Cockatrice Regent](/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm.md)  
-- [Colossus](/03_Mechanics/CLI/bestiary/construct/colossus-xmm.md)  
-- [Commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
-- [Copper Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm.md)  
-- [Young Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md)  
-- [Adult Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md)  
-- [Ancient Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md)  
-- [Couatl](/03_Mechanics/CLI/bestiary/celestial/couatl-xmm.md)  
-- [Crawling Claw](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md)  
-- [Swarm of Crawling Claws](/03_Mechanics/CLI/bestiary/undead/swarm-of-crawling-claws-xmm.md)  
-- [Cultist](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md)  
-- [Cultist Fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)  
-- [Cultist Hierophant](/03_Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm.md)  
-- [Aberrant Cultist](/03_Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm.md)  
-- [Death Cultist](/03_Mechanics/CLI/bestiary/humanoid/death-cultist-xmm.md)  
-- [Elemental Cultist](/03_Mechanics/CLI/bestiary/humanoid/elemental-cultist-xmm.md)  
-- [Fiend Cultist](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md)  
-- [Cyclops Oracle](/03_Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm.md)  
-- [Cyclops Sentry](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)  
-- [Dao](/03_Mechanics/CLI/bestiary/elemental/dao-xmm.md)  
-- [Darkmantle](/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md)  
-- [Death Dog](/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md)  
-- [Death Knight](/03_Mechanics/CLI/bestiary/undead/death-knight-xmm.md)  
-- [Death Knight Aspirant](/03_Mechanics/CLI/bestiary/undead/death-knight-aspirant-xmm.md)  
-- [Death Tyrant](/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md)  
-- [Demilich](/03_Mechanics/CLI/bestiary/undead/demilich-xmm.md)  
-- [Deva](/03_Mechanics/CLI/bestiary/celestial/deva-xmm.md)  
-- [Displacer Beast](/03_Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md)  
-- [Djinni](/03_Mechanics/CLI/bestiary/elemental/djinni-xmm.md)  
-- [Doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)  
-- [Dracolich](/03_Mechanics/CLI/bestiary/undead/dracolich-xmm.md)  
-- [Dragon Turtle](/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md)  
-- [Dretch](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md)  
-- [Swarm of Dretches](/03_Mechanics/CLI/bestiary/fiend/swarm-of-dretches-xmm.md)  
-- [Drider](/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm.md)  
-- [Druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md)  
-- [Dryad](/03_Mechanics/CLI/bestiary/fey/dryad-xmm.md)  
-- [Earth Elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md)  
-- [Efreeti](/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm.md)  
-- [Elemental Cataclysm](/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm.md)  
-- [Empyrean Iota](/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md)  
-- [Empyrean](/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md)  
-- [Erinyes](/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)  
-- [Ettercap](/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md)  
-- [Ettin](/03_Mechanics/CLI/bestiary/giant/ettin-xmm.md)  
-- [Faerie Dragon Adult](/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md)  
-- [Faerie Dragon Youth](/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md)  
-- [Fire Elemental](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md)  
-- [Fire Giant](/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm.md)  
-- [Flameskull](/03_Mechanics/CLI/bestiary/undead/flameskull-xmm.md)  
-- [Flesh Golem](/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md)  
-- [Flumph](/03_Mechanics/CLI/bestiary/aberration/flumph-xmm.md)  
-- [Fomorian](/03_Mechanics/CLI/bestiary/giant/fomorian-xmm.md)  
-- [Frost Giant](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md)  
-- [Gas Spore Fungus](/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md)  
-- [Shrieker Fungus](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md)  
-- [Violet Fungus](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md)  
-- [Violet Fungus Necrohulk](/03_Mechanics/CLI/bestiary/plant/violet-fungus-necrohulk-xmm.md)  
-- [Galeb Duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md)  
-- [Gargoyle](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md)  
-- [Gelatinous Cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md)  
-- [Ghast](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md)  
-- [Ghast Gravecaller](/03_Mechanics/CLI/bestiary/undead/ghast-gravecaller-xmm.md)  
-- [Ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md)  
-- [Ghoul](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  
-- [Lacedon Ghoul](/03_Mechanics/CLI/bestiary/undead/lacedon-ghoul-xmm.md)  
-- [Gibbering Mouther](/03_Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md)  
-- [Githyanki Warrior](/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md)  
-- [Githyanki Dracomancer](/03_Mechanics/CLI/bestiary/aberration/githyanki-dracomancer-xmm.md)  
-- [Githyanki Knight](/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md)  
-- [Githzerai Monk](/03_Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm.md)  
-- [Githzerai Psion](/03_Mechanics/CLI/bestiary/aberration/githzerai-psion-xmm.md)  
-- [Githzerai Zerth](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md)  
-- [Glabrezu](/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md)  
-- [Gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)  
-- [Gnoll Pack Lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md)  
-- [Gnoll Warrior](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md)  
-- [Gnoll Demoniac](/03_Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm.md)  
-- [Gnoll Fang of Yeenoghu](/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)  
-- [Goblin Minion](/03_Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md)  
-- [Goblin Warrior](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md)  
-- [Goblin Boss](/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md)  
-- [Goblin Hexer](/03_Mechanics/CLI/bestiary/fey/goblin-hexer-xmm.md)  
-- [Gold Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md)  
-- [Young Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md)  
-- [Adult Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md)  
-- [Ancient Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)  
-- [Gorgon](/03_Mechanics/CLI/bestiary/construct/gorgon-xmm.md)  
-- [Brazen Gorgon](/03_Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm.md)  
-- [Goristro](/03_Mechanics/CLI/bestiary/fiend/goristro-xmm.md)  
-- [Gray Ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md)  
-- [Psychic Gray Ooze](/03_Mechanics/CLI/bestiary/ooze/psychic-gray-ooze-xmm.md)  
-- [Green Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md)  
-- [Young Green Dragon](/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md)  
-- [Adult Green Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md)  
-- [Ancient Green Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md)  
-- [Green Hag](/03_Mechanics/CLI/bestiary/fey/green-hag-xmm.md)  
-- [Grell](/03_Mechanics/CLI/bestiary/aberration/grell-xmm.md)  
-- [Grick](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md)  
-- [Grick Ancient](/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md)  
-- [Griffon](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md)  
-- [Grimlock](/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm.md)  
-- [Guardian Naga](/03_Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md)  
-- [Guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)  
-- [Guard Captain](/03_Mechanics/CLI/bestiary/humanoid/guard-captain-xmm.md)  
-- [Half-Dragon](/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md)  
-- [Harpy](/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md)  
-- [Hell Hound](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md)  
-- [Helmed Horror](/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md)  
-- [Hezrou](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md)  
-- [Hill Giant](/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm.md)  
-- [Hippogriff](/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md)  
-- [Hobgoblin Warrior](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md)  
-- [Hobgoblin Captain](/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md)  
-- [Hobgoblin Warlord](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md)  
-- [Homunculus](/03_Mechanics/CLI/bestiary/construct/homunculus-xmm.md)  
-- [Hook Horror](/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md)  
-- [Horned Devil](/03_Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md)  
-- [Hydra](/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md)  
-- [Ice Devil](/03_Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md)  
-- [Imp](/03_Mechanics/CLI/bestiary/fiend/imp-xmm.md)  
-- [Incubus](/03_Mechanics/CLI/bestiary/fiend/incubus-xmm.md)  
-- [Intellect Devourer](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md)  
-- [Invisible Stalker](/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md)  
-- [Iron Golem](/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm.md)  
-- [Jackalwere](/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md)  
-- [Kenku](/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md)  
-- [Knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md)  
-- [Questing Knight](/03_Mechanics/CLI/bestiary/humanoid/questing-knight-xmm.md)  
-- [Kobold Warrior](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md)  
-- [Winged Kobold](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md)  
-- [Kraken](/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md)  
-- [Kuo-toa](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md)  
-- [Kuo-toa Monitor](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md)  
-- [Kuo-toa Whip](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md)  
-- [Kuo-toa Archpriest](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md)  
-- [Lamia](/03_Mechanics/CLI/bestiary/fiend/lamia-xmm.md)  
-- [Larva](/03_Mechanics/CLI/bestiary/fiend/larva-xmm.md)  
-- [Swarm of Larvae](/03_Mechanics/CLI/bestiary/fiend/swarm-of-larvae-xmm.md)  
-- [Lemure](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md)  
-- [Swarm of Lemures](/03_Mechanics/CLI/bestiary/fiend/swarm-of-lemures-xmm.md)  
-- [Lich](/03_Mechanics/CLI/bestiary/undead/lich-xmm.md)  
-- [Lizardfolk Geomancer](/03_Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm.md)  
-- [Lizardfolk Sovereign](/03_Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm.md)  
-- [Mage Apprentice](/03_Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm.md)  
-- [Archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)  
-- [Mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md)  
-- [Magmin](/03_Mechanics/CLI/bestiary/elemental/magmin-xmm.md)  
-- [Manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md)  
-- [Manes Vaporspawn](/03_Mechanics/CLI/bestiary/fiend/manes-vaporspawn-xmm.md)  
-- [Manticore](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md)  
-- [Marid](/03_Mechanics/CLI/bestiary/elemental/marid-xmm.md)  
-- [Marilith](/03_Mechanics/CLI/bestiary/fiend/marilith-xmm.md)  
-- [Medusa](/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md)  
-- [Dust Mephit](/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md)  
-- [Ice Mephit](/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md)  
-- [Magma Mephit](/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md)  
-- [Mud Mephit](/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md)  
-- [Smoke Mephit](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md)  
-- [Steam Mephit](/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md)  
-- [Merfolk Skirmisher](/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md)  
-- [Merfolk Wavebender](/03_Mechanics/CLI/bestiary/elemental/merfolk-wavebender-xmm.md)  
-- [Merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md)  
-- [Mezzoloth](/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md)  
-- [Mimic](/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md)  
-- [Mind Flayer](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)  
-- [Mind Flayer Arcanist](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist-xmm.md)  
-- [Minotaur of Baphomet](/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)  
-- [Modron Monodrone](/03_Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md)  
-- [Modron Duodrone](/03_Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md)  
-- [Modron Tridrone](/03_Mechanics/CLI/bestiary/construct/modron-tridrone-xmm.md)  
-- [Modron Pentadrone](/03_Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm.md)  
-- [Modron Quadrone](/03_Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md)  
-- [Mummy](/03_Mechanics/CLI/bestiary/undead/mummy-xmm.md)  
-- [Mummy Lord](/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md)  
-- [Myconid Sprout](/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md)  
-- [Myconid Adult](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md)  
-- [Myconid Sovereign](/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm.md)  
-- [Myconid Spore Servant](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md)  
-- [Nalfeshnee](/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md)  
-- [Night Hag](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md)  
-- [Nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm.md)  
-- [Noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)  
-- [Noble Prodigy](/03_Mechanics/CLI/bestiary/humanoid/noble-prodigy-xmm.md)  
-- [Nothic](/03_Mechanics/CLI/bestiary/aberration/nothic-xmm.md)  
-- [Nycaloth](/03_Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md)  
-- [Ochre Jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md)  
-- [Ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md)  
-- [Ogrillon Ogre](/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md)  
-- [Oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md)  
-- [Otyugh](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md)  
-- [Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)  
-- [Primeval Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/primeval-owlbear-xmm.md)  
-- [Pegasus](/03_Mechanics/CLI/bestiary/celestial/pegasus-xmm.md)  
-- [Performer](/03_Mechanics/CLI/bestiary/humanoid/performer-xmm.md)  
-- [Performer Legend](/03_Mechanics/CLI/bestiary/humanoid/performer-legend-xmm.md)  
-- [Performer Maestro](/03_Mechanics/CLI/bestiary/humanoid/performer-maestro-xmm.md)  
-- [Peryton](/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md)  
-- [Phase Spider](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md)  
-- [Piercer](/03_Mechanics/CLI/bestiary/aberration/piercer-xmm.md)  
-- [Pirate](/03_Mechanics/CLI/bestiary/humanoid/pirate-xmm.md)  
-- [Pirate Admiral](/03_Mechanics/CLI/bestiary/humanoid/pirate-admiral-xmm.md)  
-- [Pirate Captain](/03_Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm.md)  
-- [Pit Fiend](/03_Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md)  
-- [Pixie](/03_Mechanics/CLI/bestiary/fey/pixie-xmm.md)  
-- [Pixie Wonderbringer](/03_Mechanics/CLI/bestiary/fey/pixie-wonderbringer-xmm.md)  
-- [Planetar](/03_Mechanics/CLI/bestiary/celestial/planetar-xmm.md)  
-- [Poltergeist](/03_Mechanics/CLI/bestiary/undead/poltergeist-xmm.md)  
-- [Priest Acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)  
-- [Archpriest](/03_Mechanics/CLI/bestiary/humanoid/archpriest-xmm.md)  
-- [Priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md)  
-- [Pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md)  
-- [Purple Worm](/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md)  
-- [Quaggoth](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md)  
-- [Quaggoth Thonot](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-thonot-xmm.md)  
-- [Quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md)  
-- [Rakshasa](/03_Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md)  
-- [Red Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md)  
-- [Young Red Dragon](/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md)  
-- [Adult Red Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md)  
-- [Ancient Red Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)  
-- [Remorhaz](/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md)  
-- [Young Remorhaz](/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md)  
-- [Revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md)  
-- [Graveyard Revenant](/03_Mechanics/CLI/bestiary/undead/graveyard-revenant-xmm.md)  
-- [Haunting Revenant](/03_Mechanics/CLI/bestiary/undead/haunting-revenant-xmm.md)  
-- [Roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md)  
-- [Roper](/03_Mechanics/CLI/bestiary/aberration/roper-xmm.md)  
-- [Rust Monster](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md)  
-- [Sahuagin Warrior](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md)  
-- [Sahuagin Baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md)  
-- [Sahuagin Priest](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md)  
-- [Salamander Fire Snake](/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md)  
-- [Salamander](/03_Mechanics/CLI/bestiary/elemental/salamander-xmm.md)  
-- [Salamander Inferno Master](/03_Mechanics/CLI/bestiary/elemental/salamander-inferno-master-xmm.md)  
-- [Satyr](/03_Mechanics/CLI/bestiary/fey/satyr-xmm.md)  
-- [Satyr Revelmaster](/03_Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm.md)  
-- [Scarecrow](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md)  
-- [Scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)  
-- [Scout Captain](/03_Mechanics/CLI/bestiary/humanoid/scout-captain-xmm.md)  
-- [Sea Hag](/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm.md)  
-- [Shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md)  
-- [Shadow Demon](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md)  
-- [Juvenile Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/juvenile-shadow-dragon-xmm.md)  
-- [Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm.md)  
-- [Shambling Mound](/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md)  
-- [Shield Guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md)  
-- [Silver Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm.md)  
-- [Young Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md)  
-- [Adult Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md)  
-- [Ancient Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md)  
-- [Skeleton](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md)  
-- [Warhorse Skeleton](/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md)  
-- [Flaming Skeleton](/03_Mechanics/CLI/bestiary/undead/flaming-skeleton-xmm.md)  
-- [Minotaur Skeleton](/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md)  
-- [Slaad Tadpole](/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md)  
-- [Blue Slaad](/03_Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md)  
-- [Red Slaad](/03_Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md)  
-- [Gray Slaad](/03_Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md)  
-- [Green Slaad](/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md)  
-- [Death Slaad](/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md)  
-- [Solar](/03_Mechanics/CLI/bestiary/celestial/solar-xmm.md)  
-- [Spectator](/03_Mechanics/CLI/bestiary/aberration/spectator-xmm.md)  
-- [Specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md)  
-- [Sphinx of Wonder](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md)  
-- [Sphinx of Secrets](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-secrets-xmm.md)  
-- [Sphinx of Lore](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md)  
-- [Sphinx of Valor](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md)  
-- [Spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)  
-- [Spy Master](/03_Mechanics/CLI/bestiary/humanoid/spy-master-xmm.md)  
-- [Spined Devil](/03_Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md)  
-- [Spirit Naga](/03_Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md)  
-- [Sprite](/03_Mechanics/CLI/bestiary/fey/sprite-xmm.md)  
-- [Stirge](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)  
-- [Swarm of Stirges](/03_Mechanics/CLI/bestiary/monstrosity/swarm-of-stirges-xmm.md)  
-- [Stone Giant](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md)  
-- [Stone Golem](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md)  
-- [Storm Giant](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)  
-- [Succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md)  
-- [Tarrasque](/03_Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md)  
-- [Thri-kreen Marauder](/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm.md)  
-- [Thri-kreen Psion](/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm.md)  
-- [Tough](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)  
-- [Tough Boss](/03_Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md)  
-- [Treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md)  
-- [Troglodyte](/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md)  
-- [Troll](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md)  
-- [Troll Limb](/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm.md)  
-- [Ultroloth](/03_Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md)  
-- [Umber Hulk](/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md)  
-- [Unicorn](/03_Mechanics/CLI/bestiary/celestial/unicorn-xmm.md)  
-- [Vampire Familiar](/03_Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm.md)  
-- [Vampire Spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)  
-- [Vampire Nightbringer](/03_Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm.md)  
-- [Vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md)  
-- [Vampire Umbral Lord](/03_Mechanics/CLI/bestiary/undead/vampire-umbral-lord-xmm.md)  
-- [Vrock](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md)  
-- [Warrior Infantry](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)  
-- [Warrior Veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)  
-- [Warrior Commander](/03_Mechanics/CLI/bestiary/humanoid/warrior-commander-xmm.md)  
-- [Water Elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md)  
-- [Water Weird](/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm.md)  
-- [Werebear](/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md)  
-- [Wereboar](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md)  
-- [Wererat](/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md)  
-- [Weretiger](/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md)  
-- [Werewolf](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md)  
-- [White Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm.md)  
-- [Young White Dragon](/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md)  
-- [Adult White Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md)  
-- [Ancient White Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md)  
-- [Wight](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md)  
-- [Will-o'-Wisp](/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md)  
-- [Winter Wolf](/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md)  
-- [Dire Worg](/03_Mechanics/CLI/bestiary/fey/dire-worg-xmm.md)  
-- [Worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md)  
-- [Wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md)  
-- [Wyvern](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md)  
-- [Xorn](/03_Mechanics/CLI/bestiary/elemental/xorn-xmm.md)  
-- [Yeti](/03_Mechanics/CLI/bestiary/monstrosity/yeti-xmm.md)  
-- [Abominable Yeti](/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md)  
-- [Yochlol](/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm.md)  
-- [Yuan-ti Infiltrator](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)  
-- [Yuan-ti Malison (Type 1)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md)  
-- [Yuan-ti Malison (Type 2)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md)  
-- [Yuan-ti Malison (Type 3)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md)  
-- [Yuan-ti Abomination](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md)  
-- [Ogre Zombie](/03_Mechanics/CLI/bestiary/undead/ogre-zombie-xmm.md)  
-- [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)  
-- [Beholder Zombie](/03_Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md)  
+- [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra Skirmisher]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/aboleth-xmm|Aboleth]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|Air Elemental]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/animal-lord-xmm|Animal Lord]]  
+- [[/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm|Animated Armor]]  
+- [[/03_Mechanics/CLI/bestiary/construct/animated-broom-xmm|Animated Broom]]  
+- [[/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm|Animated Flying Sword]]  
+- [[/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm|Animated Rug of Smothering]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm|Ankheg]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/arcanaloth-xmm|Arcanaloth]]  
+- [[/03_Mechanics/CLI/bestiary/fey/arch-hag-xmm|Arch-hag]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]]  
+- [[/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm|Awakened Shrub]]  
+- [[/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm|Awakened Tree]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm|Axe Beak]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm|Giant Axe Beak]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/azer-pyromancer-xmm|Azer Pyromancer]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|Azer Sentinel]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/balor-xmm|Balor]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandit]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captain]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-crime-lord-xmm|Bandit Crime Lord]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|Bandit Deceiver]]  
+- [[/03_Mechanics/CLI/bestiary/undead/banshee-xmm|Banshee]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/barbed-devil-xmm|Barbed Devil]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|Barlgura]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm|Basilisk]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm|Bearded Devil]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm|Behir]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm|Beholder]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/berserker-commander-xmm|Berserker Commander]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm|Black Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm|Young Black Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm|Adult Black Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm|Ancient Black Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|Black Pudding]]  
+- [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|Needle Blight]]  
+- [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|Twig Blight]]  
+- [[/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm|Tree Blight]]  
+- [[/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm|Vine Blight]]  
+- [[/03_Mechanics/CLI/bestiary/plant/gulthias-blight-xmm|Gulthias Blight]]  
+- [[/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm|Blink Dog]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm|Blob of Annihilation]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm|Young Blue Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm|Adult Blue Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm|Ancient Blue Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm|Bone Devil]]  
+- [[/03_Mechanics/CLI/bestiary/undead/bone-naga-xmm|Bone Naga]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm|Brass Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm|Young Brass Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm|Adult Brass Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm|Ancient Brass Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm|Young Bronze Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|Adult Bronze Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm|Ancient Bronze Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/fey/bugbear-stalker-xmm|Bugbear Stalker]]  
+- [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbear Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|Bulette]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm|Bulette Pup]]  
+- [[/03_Mechanics/CLI/bestiary/fey/bullywug-bog-sage-xmm|Bullywug Bog Sage]]  
+- [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|Bullywug Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/cambion-xmm|Cambion]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|Carrion Crawler]]  
+- [[/03_Mechanics/CLI/bestiary/fey/centaur-trooper-xmm|Centaur Trooper]]  
+- [[/03_Mechanics/CLI/bestiary/fey/centaur-warden-xmm|Centaur Warden]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/chain-devil-xmm|Chain Devil]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|Chasme]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|Chimera]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/chuul-xmm|Chuul]]  
+- [[/03_Mechanics/CLI/bestiary/construct/clay-golem-xmm|Clay Golem]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm|Cloaker]]  
+- [[/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm|Cloud Giant]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm|Cockatrice]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm|Cockatrice Regent]]  
+- [[/03_Mechanics/CLI/bestiary/construct/colossus-xmm|Colossus]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|Commoner]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm|Copper Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm|Young Copper Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm|Adult Copper Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm|Ancient Copper Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/couatl-xmm|Couatl]]  
+- [[/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm|Crawling Claw]]  
+- [[/03_Mechanics/CLI/bestiary/undead/swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cultist Fanatic]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm|Cultist Hierophant]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm|Aberrant Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/death-cultist-xmm|Death Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/elemental-cultist-xmm|Elemental Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm|Fiend Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm|Cyclops Oracle]]  
+- [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|Cyclops Sentry]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/dao-xmm|Dao]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm|Darkmantle]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm|Death Dog]]  
+- [[/03_Mechanics/CLI/bestiary/undead/death-knight-xmm|Death Knight]]  
+- [[/03_Mechanics/CLI/bestiary/undead/death-knight-aspirant-xmm|Death Knight Aspirant]]  
+- [[/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm|Death Tyrant]]  
+- [[/03_Mechanics/CLI/bestiary/undead/demilich-xmm|Demilich]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/deva-xmm|Deva]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm|Displacer Beast]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/djinni-xmm|Djinni]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelganger]]  
+- [[/03_Mechanics/CLI/bestiary/undead/dracolich-xmm|Dracolich]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm|Dragon Turtle]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|Dretch]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/swarm-of-dretches-xmm|Swarm of Dretches]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm|Drider]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]]  
+- [[/03_Mechanics/CLI/bestiary/fey/dryad-xmm|Dryad]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|Earth Elemental]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm|Efreeti]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm|Elemental Cataclysm]]  
+- [[/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm|Empyrean Iota]]  
+- [[/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm|Empyrean]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm|Erinyes]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm|Ettercap]]  
+- [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|Ettin]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm|Faerie Dragon Adult]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm|Faerie Dragon Youth]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm|Fire Elemental]]  
+- [[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm|Fire Giant]]  
+- [[/03_Mechanics/CLI/bestiary/undead/flameskull-xmm|Flameskull]]  
+- [[/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm|Flesh Golem]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/flumph-xmm|Flumph]]  
+- [[/03_Mechanics/CLI/bestiary/giant/fomorian-xmm|Fomorian]]  
+- [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|Frost Giant]]  
+- [[/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm|Gas Spore Fungus]]  
+- [[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm|Shrieker Fungus]]  
+- [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|Violet Fungus]]  
+- [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm|Galeb Duhr]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|Gargoyle]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm|Gelatinous Cube]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|Ghast]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ghast-gravecaller-xmm|Ghast Gravecaller]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|Ghost]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|Ghoul]]  
+- [[/03_Mechanics/CLI/bestiary/undead/lacedon-ghoul-xmm|Lacedon Ghoul]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm|Gibbering Mouther]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm|Githyanki Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githyanki-dracomancer-xmm|Githyanki Dracomancer]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm|Githyanki Knight]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm|Githzerai Monk]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githzerai-psion-xmm|Githzerai Psion]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm|Githzerai Zerth]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm|Glabrezu]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiator]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm|Gnoll Pack Lord]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|Gnoll Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm|Gnoll Demoniac]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]  
+- [[/03_Mechanics/CLI/bestiary/fey/goblin-minion-xmm|Goblin Minion]]  
+- [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm|Goblin Boss]]  
+- [[/03_Mechanics/CLI/bestiary/fey/goblin-hexer-xmm|Goblin Hexer]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm|Gold Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm|Young Gold Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm|Adult Gold Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm|Ancient Gold Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/construct/gorgon-xmm|Gorgon]]  
+- [[/03_Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm|Brazen Gorgon]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/goristro-xmm|Goristro]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|Gray Ooze]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/psychic-gray-ooze-xmm|Psychic Gray Ooze]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm|Green Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm|Young Green Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm|Adult Green Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm|Ancient Green Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm|Green Hag]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/grell-xmm|Grell]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|Grick]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm|Grick Ancient]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|Griffon]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm|Grimlock]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/guardian-naga-xmm|Guardian Naga]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guard]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/guard-captain-xmm|Guard Captain]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm|Half-Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm|Harpy]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|Hell Hound]]  
+- [[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm|Helmed Horror]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|Hezrou]]  
+- [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|Hill Giant]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm|Hippogriff]]  
+- [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|Hobgoblin Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|Hobgoblin Captain]]  
+- [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm|Hobgoblin Warlord]]  
+- [[/03_Mechanics/CLI/bestiary/construct/homunculus-xmm|Homunculus]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm|Hook Horror]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/horned-devil-xmm|Horned Devil]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|Hydra]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/ice-devil-xmm|Ice Devil]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|Imp]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/incubus-xmm|Incubus]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm|Intellect Devourer]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm|Invisible Stalker]]  
+- [[/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm|Iron Golem]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|Jackalwere]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|Kenku]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/questing-knight-xmm|Questing Knight]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|Winged Kobold]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|Kraken]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm|Kuo-toa]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm|Kuo-toa Monitor]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm|Kuo-toa Whip]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm|Kuo-toa Archpriest]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/lamia-xmm|Lamia]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/larva-xmm|Larva]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/swarm-of-larvae-xmm|Swarm of Larvae]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm|Lemure]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/swarm-of-lemures-xmm|Swarm of Lemures]]  
+- [[/03_Mechanics/CLI/bestiary/undead/lich-xmm|Lich]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm|Lizardfolk Geomancer]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm|Lizardfolk Sovereign]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm|Mage Apprentice]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|Mage]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/magmin-xmm|Magmin]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|Manes]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/manes-vaporspawn-xmm|Manes Vaporspawn]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|Manticore]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/marid-xmm|Marid]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/marilith-xmm|Marilith]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|Medusa]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm|Dust Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm|Ice Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm|Magma Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm|Mud Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm|Smoke Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm|Steam Mephit]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm|Merfolk Skirmisher]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/merfolk-wavebender-xmm|Merfolk Wavebender]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|Merrow]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm|Mezzoloth]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm|Mimic]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm|Mind Flayer]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm|Minotaur of Baphomet]]  
+- [[/03_Mechanics/CLI/bestiary/construct/modron-monodrone-xmm|Modron Monodrone]]  
+- [[/03_Mechanics/CLI/bestiary/construct/modron-duodrone-xmm|Modron Duodrone]]  
+- [[/03_Mechanics/CLI/bestiary/construct/modron-tridrone-xmm|Modron Tridrone]]  
+- [[/03_Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm|Modron Pentadrone]]  
+- [[/03_Mechanics/CLI/bestiary/construct/modron-quadrone-xmm|Modron Quadrone]]  
+- [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|Mummy]]  
+- [[/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm|Mummy Lord]]  
+- [[/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm|Myconid Sprout]]  
+- [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|Myconid Adult]]  
+- [[/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm|Myconid Sovereign]]  
+- [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|Myconid Spore Servant]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm|Nalfeshnee]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm|Night Hag]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm|Nightmare]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Noble]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/noble-prodigy-xmm|Noble Prodigy]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|Nothic]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/nycaloth-xmm|Nycaloth]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm|Ochre Jelly]]  
+- [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]]  
+- [[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm|Ogrillon Ogre]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|Oni]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm|Otyugh]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm|Owlbear]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/primeval-owlbear-xmm|Primeval Owlbear]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/pegasus-xmm|Pegasus]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/performer-xmm|Performer]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/performer-legend-xmm|Performer Legend]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/performer-maestro-xmm|Performer Maestro]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm|Peryton]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm|Phase Spider]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm|Piercer]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/pirate-xmm|Pirate]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/pirate-admiral-xmm|Pirate Admiral]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm|Pirate Captain]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/pit-fiend-xmm|Pit Fiend]]  
+- [[/03_Mechanics/CLI/bestiary/fey/pixie-xmm|Pixie]]  
+- [[/03_Mechanics/CLI/bestiary/fey/pixie-wonderbringer-xmm|Pixie Wonderbringer]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/planetar-xmm|Planetar]]  
+- [[/03_Mechanics/CLI/bestiary/undead/poltergeist-xmm|Poltergeist]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|Priest Acolyte]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/archpriest-xmm|Archpriest]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm|Pseudodragon]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm|Purple Worm]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|Quaggoth]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-thonot-xmm|Quaggoth Thonot]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm|Quasit]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/rakshasa-xmm|Rakshasa]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm|Young Red Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|Adult Red Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm|Ancient Red Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm|Remorhaz]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|Young Remorhaz]]  
+- [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|Revenant]]  
+- [[/03_Mechanics/CLI/bestiary/undead/graveyard-revenant-xmm|Graveyard Revenant]]  
+- [[/03_Mechanics/CLI/bestiary/undead/haunting-revenant-xmm|Haunting Revenant]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|Roc]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/roper-xmm|Roper]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm|Rust Monster]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|Sahuagin Warrior]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm|Sahuagin Baron]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm|Sahuagin Priest]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm|Salamander Fire Snake]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/salamander-xmm|Salamander]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/salamander-inferno-master-xmm|Salamander Inferno Master]]  
+- [[/03_Mechanics/CLI/bestiary/fey/satyr-xmm|Satyr]]  
+- [[/03_Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm|Satyr Revelmaster]]  
+- [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|Scarecrow]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Scout]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/scout-captain-xmm|Scout Captain]]  
+- [[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm|Sea Hag]]  
+- [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|Shadow]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm|Shadow Demon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/juvenile-shadow-dragon-xmm|Juvenile Shadow Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm|Shadow Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm|Shambling Mound]]  
+- [[/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm|Shield Guardian]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm|Silver Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm|Young Silver Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm|Adult Silver Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm|Ancient Silver Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeleton]]  
+- [[/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm|Warhorse Skeleton]]  
+- [[/03_Mechanics/CLI/bestiary/undead/flaming-skeleton-xmm|Flaming Skeleton]]  
+- [[/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm|Minotaur Skeleton]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm|Slaad Tadpole]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/blue-slaad-xmm|Blue Slaad]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/red-slaad-xmm|Red Slaad]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/gray-slaad-xmm|Gray Slaad]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm|Green Slaad]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm|Death Slaad]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/solar-xmm|Solar]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/spectator-xmm|Spectator]]  
+- [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|Specter]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm|Sphinx of Wonder]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-secrets-xmm|Sphinx of Secrets]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm|Sphinx of Lore]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm|Sphinx of Valor]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Spy]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/spy-master-xmm|Spy Master]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/spined-devil-xmm|Spined Devil]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/spirit-naga-xmm|Spirit Naga]]  
+- [[/03_Mechanics/CLI/bestiary/fey/sprite-xmm|Sprite]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|Stirge]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/swarm-of-stirges-xmm|Swarm of Stirges]]  
+- [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|Stone Giant]]  
+- [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|Stone Golem]]  
+- [[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm|Storm Giant]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|Succubus]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm|Tarrasque]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm|Thri-kreen Marauder]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm|Thri-kreen Psion]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Tough]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/tough-boss-xmm|Tough Boss]]  
+- [[/03_Mechanics/CLI/bestiary/plant/treant-xmm|Treant]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm|Troglodyte]]  
+- [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Troll]]  
+- [[/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm|Troll Limb]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/ultroloth-xmm|Ultroloth]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm|Umber Hulk]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/unicorn-xmm|Unicorn]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm|Vampire Familiar]]  
+- [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|Vampire Spawn]]  
+- [[/03_Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm|Vampire Nightbringer]]  
+- [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|Vampire]]  
+- [[/03_Mechanics/CLI/bestiary/undead/vampire-umbral-lord-xmm|Vampire Umbral Lord]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|Vrock]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Warrior Infantry]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Warrior Veteran]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/warrior-commander-xmm|Warrior Commander]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|Water Elemental]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm|Water Weird]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm|Werebear]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm|Wereboar]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm|Wererat]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm|Weretiger]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|Werewolf]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm|White Dragon Wyrmling]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm|Young White Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|Adult White Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm|Ancient White Dragon]]  
+- [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|Wight]]  
+- [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|Will-o'-Wisp]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm|Winter Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/fey/dire-worg-xmm|Dire Worg]]  
+- [[/03_Mechanics/CLI/bestiary/fey/worg-xmm|Worg]]  
+- [[/03_Mechanics/CLI/bestiary/undead/wraith-xmm|Wraith]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|Wyvern]]  
+- [[/03_Mechanics/CLI/bestiary/elemental/xorn-xmm|Xorn]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yeti-xmm|Yeti]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm|Abominable Yeti]]  
+- [[/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm|Yochlol]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|Yuan-ti Infiltrator]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|Yuan-ti Malison (Type 1)]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|Yuan-ti Malison (Type 2)]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|Yuan-ti Malison (Type 3)]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|Yuan-ti Abomination]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ogre-zombie-xmm|Ogre Zombie]]  
+- [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombie]]  
+- [[/03_Mechanics/CLI/bestiary/undead/beholder-zombie-xmm|Beholder Zombie]]  
 
 ## Monsters (A)
 
@@ -439,10 +439,10 @@ world: Both
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 
 > [!embed-monster]- Aarakocra Aeromancer
-> ![Aarakocra Aeromancer](/03_Mechanics/CLI/bestiary/elemental/aarakocra-aeromancer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/aarakocra-aeromancer-xmm#^statblock|Aarakocra Aeromancer]]
 
 > [!embed-monster]- Aarakocra Skirmisher
-> ![Aarakocra Skirmisher](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm#^statblock|Aarakocra Skirmisher]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/031-01-001-two-aarakocra.webp#center)
 
@@ -479,10 +479,10 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 
 **Aboleth Lairs.** Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
 
-![A gnome cultist consults an all-knowing aboleth](/03_Mechanics/CLI/books/monster-manual-2025/img/032-01-002-aboleth-and-cultist.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/032-01-002-aboleth-and-cultist.webp#center|A gnome cultist consults an all-knowing aboleth]]
 
 > [!embed-monster]- Aboleth
-> ![Aboleth](/03_Mechanics/CLI/bestiary/aberration/aboleth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/aboleth-xmm#^statblock|Aboleth]]
 
 ### Air Elemental
 
@@ -516,7 +516,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/033-01-003-air-elemental.webp#center)
 
 > [!embed-monster]- Air Elemental
-> ![Air Elemental](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm#^statblock|Air Elemental]]
 
 ### Animal Lord
 
@@ -596,7 +596,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/034-01-004-animal-lords.webp#center)
 
 > [!embed-monster]- Animal Lord
-> ![Animal Lord](/03_Mechanics/CLI/bestiary/celestial/animal-lord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/animal-lord-xmm#^statblock|Animal Lord]]
 
 ### Animated Objects
 
@@ -634,16 +634,16 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/035-01-005-group-of-animated-items.webp#center)
 
 > [!embed-monster]- Animated Armor
-> ![Animated Armor](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm#^statblock|Animated Armor]]
 
 > [!embed-monster]- Animated Broom
-> ![Animated Broom](/03_Mechanics/CLI/bestiary/construct/animated-broom-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/animated-broom-xmm#^statblock|Animated Broom]]
 
 > [!embed-monster]- Animated Flying Sword
-> ![Animated Flying Sword](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm#^statblock|Animated Flying Sword]]
 
 > [!embed-monster]- Animated Rug of Smothering
-> ![Animated Rug of Smothering](/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm#^statblock|Animated Rug of Smothering]]
 
 ### Ankheg
 
@@ -681,7 +681,7 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/036-01-006-ankheg.webp#center)
 
 > [!embed-monster]- Ankheg
-> ![Ankheg](/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm#^statblock|Ankheg]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/037-01-007-arcanaloth.webp#center)
 
@@ -697,7 +697,7 @@ While all yugoloths are fiendish manifestations of wickedness and greed, arcanal
 Arcanaloths possess considerable spellcasting prowess and frequently disguise themselves with magic. While they prefer to let magical servants or other yugoloths do their fighting for them, arcanaloths can defend themselves with arcane might, banishing opponents into the pages of their magic tomes.
 
 > [!embed-monster]- Arcanaloth
-> ![Arcanaloth](/03_Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/arcanaloth-xmm#^statblock|Arcanaloth]]
 
 ### Arch-hag
 
@@ -741,7 +741,7 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/038-01-008-arch-hags.webp#center)
 
 > [!embed-monster]- Arch-hag
-> ![Arch-hag](/03_Mechanics/CLI/bestiary/fey/arch-hag-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/arch-hag-xmm#^statblock|Arch-hag]]
 
 ### Assassin
 
@@ -771,7 +771,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/039-01-009-assassin.webp#center)
 
 > [!embed-monster]- Assassin
-> ![Assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm#^statblock|Assassin]]
 
 ### Awakened Plants
 
@@ -780,7 +780,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](/03_Mechanics/CLI/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[/03_Mechanics/CLI/spells/awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
@@ -789,10 +789,10 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
 
 > [!embed-monster]- Awakened Shrub
-> ![Awakened Shrub](/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm#^statblock|Awakened Shrub]]
 
 > [!embed-monster]- Awakened Tree
-> ![Awakened Tree](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm#^statblock|Awakened Tree]]
 
 ### Axe Beaks
 
@@ -812,10 +812,10 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/041-01-011-axe-beak.webp#center)
 
 > [!embed-monster]- Axe Beak
-> ![Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm#^statblock|Axe Beak]]
 
 > [!embed-monster]- Giant Axe Beak
-> ![Giant Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm#^statblock|Giant Axe Beak]]
 
 ### Azers
 
@@ -827,12 +827,12 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
 > [!embed-monster]- Azer Pyromancer
-> ![Azer Pyromancer](/03_Mechanics/CLI/bestiary/elemental/azer-pyromancer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/azer-pyromancer-xmm#^statblock|Azer Pyromancer]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/042-01-012-azers.webp#center)
 
 > [!embed-monster]- Azer Sentinel
-> ![Azer Sentinel](/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm#^statblock|Azer Sentinel]]
 
 ## Monsters (B)
 
@@ -848,7 +848,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/043-02-001-balor.webp#center)
 
 > [!embed-monster]- Balor
-> ![Balor](/03_Mechanics/CLI/bestiary/fiend/balor-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/balor-xmm#^statblock|Balor]]
 
 ### Bandits
 
@@ -882,16 +882,16 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/044-02-002-group-of-bandits.webp#center)
 
 > [!embed-monster]- Bandit
-> ![Bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm#^statblock|Bandit]]
 
 > [!embed-monster]- Bandit Captain
-> ![Bandit Captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm#^statblock|Bandit Captain]]
 
 > [!embed-monster]- Bandit Deceiver
-> ![Bandit Deceiver](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm#^statblock|Bandit Deceiver]]
 
 > [!embed-monster]- Bandit Crime Lord
-> ![Bandit Crime Lord](/03_Mechanics/CLI/bestiary/humanoid/bandit-crime-lord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/bandit-crime-lord-xmm#^statblock|Bandit Crime Lord]]
 
 ### Banshee
 
@@ -921,7 +921,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/045-02-003-banshees.webp#center)
 
 > [!embed-monster]- Banshee
-> ![Banshee](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/banshee-xmm#^statblock|Banshee]]
 
 ### Barbed Devil
 
@@ -939,7 +939,7 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/046-02-004-barbed-devil.webp#center)
 
 > [!embed-monster]- Barbed Devil
-> ![Barbed Devil](/03_Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/barbed-devil-xmm#^statblock|Barbed Devil]]
 
 ### Barlgura
 
@@ -957,7 +957,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/047-02-005-barlgura.webp#center)
 
 > [!embed-monster]- Barlgura
-> ![Barlgura](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm#^statblock|Barlgura]]
 
 ### Basilisk
 
@@ -968,7 +968,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 
 Basilisks are ponderous predators with eight clawed legs, crystalline spines, and mighty jaws. Rather than chasing prey, they use their supernatural gaze to turn creatures to stone and then consume these victims at their leisure. While basilisks are most comfortable in subterranean lairs, many are captured and kept by unscrupulous folk seeking guardians for their treasures.
 
-The remains of [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
+The remains of [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
 > 
@@ -993,7 +993,7 @@ The remains of [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) creatures 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/048-02-006-basilisk.webp#center)
 
 > [!embed-monster]- Basilisk
-> ![Basilisk](/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm#^statblock|Basilisk]]
 
 ### Bearded Devil
 
@@ -1011,7 +1011,7 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/049-02-007-bearded-devil.webp#center)
 
 > [!embed-monster]- Bearded Devil
-> ![Bearded Devil](/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm#^statblock|Bearded Devil]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/050-02-008-behir.webp#center)
 
@@ -1033,7 +1033,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
 > [!embed-monster]- Behir
-> ![Behir](/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm#^statblock|Behir]]
 
 ### Beholder
 
@@ -1050,14 +1050,14 @@ Beholders possess utterly alien minds. Most exhibit paranoid, narcissistic, and 
 
 Few creatures loathe beholders more than other beholders. Every beholder views itself as the physical and intellectual pinnacle of its species. To them, all other beholders are aberrant rivals to be dominated or destroyed. Conflicts between beholders can last for decades and lay waste to vast subterranean realms.
 
-Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [petrified](/03_Mechanics/CLI/conditions.md#Petrified) bodies of heroes they've defeated, displaying them as trophies.
+Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [[/03_Mechanics/CLI/conditions#Petrified|petrified]] bodies of heroes they've defeated, displaying them as trophies.
 
 **Beholder Lairs.** Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/051-02-009-beholder.webp#center)
 
 > [!embed-monster]- Beholder
-> ![Beholder](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm#^statblock|Beholder]]
 
 ### Berserkers
 
@@ -1069,10 +1069,10 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
 > [!embed-monster]- Berserker Commander
-> ![Berserker Commander](/03_Mechanics/CLI/bestiary/humanoid/berserker-commander-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/berserker-commander-xmm#^statblock|Berserker Commander]]
 
 > [!embed-monster]- Berserker
-> ![Berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm#^statblock|Berserker]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/052-02-010-group-of-berserkers.webp#center)
 
@@ -1092,22 +1092,22 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 **Black Dragon Lairs.** Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by decay.
 
 > [!embed-monster]- Black Dragon Wyrmling
-> ![Black Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm#^statblock|Black Dragon Wyrmling]]
 
-![Black Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/053-02-011-black-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/053-02-011-black-dragon-wyrmling.webp#center|Black Dragon Wyrmling]]
 
 > [!embed-monster]- Young Black Dragon
-> ![Young Black Dragon](/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm#^statblock|Young Black Dragon]]
 
-![An adult black dragon uses...](/03_Mechanics/CLI/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress"|An adult black dragon uses...]]
 
 > [!embed-monster]- Adult Black Dragon
-> ![Adult Black Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm#^statblock|Adult Black Dragon]]
 
-![As terrifying as it is tit...](/03_Mechanics/CLI/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory"|As terrifying as it is tit...]]
 
 > [!embed-monster]- Ancient Black Dragon
-> ![Ancient Black Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm#^statblock|Ancient Black Dragon]]
 
 ### Black Pudding
 
@@ -1137,7 +1137,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/056-02-014-black-pudding.webp#center)
 
 > [!embed-monster]- Black Pudding
-> ![Black Pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm#^statblock|Black Pudding]]
 
 ### Blights
 
@@ -1152,26 +1152,26 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
-![Twig Blight](/03_Mechanics/CLI/books/monster-manual-2025/img/057-638741964748722131.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/057-638741964748722131.webp#center|Twig Blight]]
 
 > [!embed-monster]- Twig Blight
-> ![Twig Blight](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm#^statblock|Twig Blight]]
 
 > [!embed-monster]- Needle Blight
-> ![Needle Blight](/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm#^statblock|Needle Blight]]
 
-![Left to Right: Vine Blight...](/03_Mechanics/CLI/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight"|Left to Right: Vine Blight...]]
 
 > [!embed-monster]- Vine Blight
-> ![Vine Blight](/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm#^statblock|Vine Blight]]
 
 > [!embed-monster]- Tree Blight
-> ![Tree Blight](/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm#^statblock|Tree Blight]]
 
-![Gulthias Blight](/03_Mechanics/CLI/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center|Gulthias Blight]]
 
 > [!embed-monster]- Gulthias Blight
-> ![Gulthias Blight](/03_Mechanics/CLI/bestiary/plant/gulthias-blight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/gulthias-blight-xmm#^statblock|Gulthias Blight]]
 
 ### Blink Dog
 
@@ -1185,7 +1185,7 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/060-02-018-blink-dog.webp#center)
 
 > [!embed-monster]- Blink Dog
-> ![Blink Dog](/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm#^statblock|Blink Dog]]
 
 ### Blob of Annihilation
 
@@ -1212,11 +1212,11 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 
 | dice: 1d10 | The Blob Contains... |
 |------------|----------------------|
-| 1 | An [Amulet of the Planes](/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg.md). |
+| 1 | An [[/03_Mechanics/CLI/items/amulet-of-the-planes-xdmg|Amulet of the Planes]]. |
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |
-| 5 | A [Deck of Many Things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md). |
+| 5 | A [[/03_Mechanics/CLI/items/deck-of-many-things-xdmg|Deck of Many Things]]. |
 | 6 | A magic key that opens a door in Sigil that no other key and no spell can open. |
 | 7 | The preserved corpse of an empyrean. |
 | 8 | The remains of half a kraken. |
@@ -1227,7 +1227,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/061-02-019-blob-of-annihilation.webp#center)
 
 > [!embed-monster]- Blob of Annihilation
-> ![Blob of Annihilation](/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm#^statblock|Blob of Annihilation]]
 
 ### Blue Dragons
 
@@ -1244,23 +1244,23 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 **Blue Dragon Lairs.** Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
-![Blue Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center|Blue Dragon Wyrmling]]
 
 > [!embed-monster]- Blue Dragon Wyrmling
-> ![Blue Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm#^statblock|Blue Dragon Wyrmling]]
 
 > [!embed-monster]- Young Blue Dragon
-> ![Young Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm#^statblock|Young Blue Dragon]]
 
-![An adult blue dragon invad...](/03_Mechanics/CLI/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival"|An adult blue dragon invad...]]
 
 > [!embed-monster]- Adult Blue Dragon
-> ![Adult Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm#^statblock|Adult Blue Dragon]]
 
-![Shattering the enemy's def...](/03_Mechanics/CLI/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest"|Shattering the enemy's def...]]
 
 > [!embed-monster]- Ancient Blue Dragon
-> ![Ancient Blue Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm#^statblock|Ancient Blue Dragon]]
 
 ### Bone Devil
 
@@ -1294,7 +1294,7 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/065-02-023-bone-devil.webp#center)
 
 > [!embed-monster]- Bone Devil
-> ![Bone Devil](/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm#^statblock|Bone Devil]]
 
 ### Bone Naga
 
@@ -1312,7 +1312,7 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/066-02-024-bone-naga.webp#center)
 
 > [!embed-monster]- Bone Naga
-> ![Bone Naga](/03_Mechanics/CLI/bestiary/undead/bone-naga-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/bone-naga-xmm#^statblock|Bone Naga]]
 
 ### Brass Dragons
 
@@ -1329,23 +1329,23 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 
 **Brass Dragon Lairs.** Brass dragons usually dwell in secret caves and canyons near well-traveled routes.
 
-![Brass Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/067-02-025-brass-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/067-02-025-brass-dragon-wyrmling.webp#center|Brass Dragon Wyrmling]]
 
 > [!embed-monster]- Brass Dragon Wyrmling
-> ![Brass Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm#^statblock|Brass Dragon Wyrmling]]
 
 > [!embed-monster]- Young Brass Dragon
-> ![Young Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm#^statblock|Young Brass Dragon]]
 
-![An adult brass dragon rids...](/03_Mechanics/CLI/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead"|An adult brass dragon rids...]]
 
 > [!embed-monster]- Adult Brass Dragon
-> ![Adult Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm#^statblock|Adult Brass Dragon]]
 
-![An ancient brass dragon pr...](/03_Mechanics/CLI/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm"|An ancient brass dragon pr...]]
 
 > [!embed-monster]- Ancient Brass Dragon
-> ![Ancient Brass Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm#^statblock|Ancient Brass Dragon]]
 
 ### Bronze Dragons
 
@@ -1360,23 +1360,23 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 **Bronze Dragon Lairs.** Bronze dragons usually make their homes near or under the sea.
 
-![Bronze Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/070-02-028-bronze-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/070-02-028-bronze-dragon-wyrmling.webp#center|Bronze Dragon Wyrmling]]
 
 > [!embed-monster]- Bronze Dragon Wyrmling
-> ![Bronze Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm#^statblock|Bronze Dragon Wyrmling]]
 
 > [!embed-monster]- Young Bronze Dragon
-> ![Young Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm#^statblock|Young Bronze Dragon]]
 
-![An adult bronze dragon def...](/03_Mechanics/CLI/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark"|An adult bronze dragon def...]]
 
 > [!embed-monster]- Adult Bronze Dragon
-> ![Adult Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm#^statblock|Adult Bronze Dragon]]
 
-![An ancient bronze dragon u...](/03_Mechanics/CLI/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals"|An ancient bronze dragon u...]]
 
 > [!embed-monster]- Ancient Bronze Dragon
-> ![Ancient Bronze Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm#^statblock|Ancient Bronze Dragon]]
 
 ### Bugbears
 
@@ -1388,10 +1388,10 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
 > [!embed-monster]- Bugbear Stalker
-> ![Bugbear Stalker](/03_Mechanics/CLI/bestiary/fey/bugbear-stalker-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/bugbear-stalker-xmm#^statblock|Bugbear Stalker]]
 
 > [!embed-monster]- Bugbear Warrior
-> ![Bugbear Warrior](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm#^statblock|Bugbear Warrior]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/073-02-031-bugbears.webp#center)
 
@@ -1405,12 +1405,12 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 Also called "land sharks," bulettes are single-minded predators that burrow under, leap over, and burst through obstacles in pursuit of their quarry. They burrow rapidly just below ground. On sensing movement, they erupt from below, attempting to catch prey in their oversize maws.
 
 > [!embed-monster]- Bulette
-> ![Bulette](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm#^statblock|Bulette]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/074-02-032-bulettes.webp#center)
 
 > [!embed-monster]- Bulette Pup
-> ![Bulette Pup](/03_Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm#^statblock|Bulette Pup]]
 
 ### Bullywugs
 
@@ -1422,10 +1422,10 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 
 > [!embed-monster]- Bullywug Bog Sage
-> ![Bullywug Bog Sage](/03_Mechanics/CLI/bestiary/fey/bullywug-bog-sage-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/bullywug-bog-sage-xmm#^statblock|Bullywug Bog Sage]]
 
 > [!embed-monster]- Bullywug Warrior
-> ![Bullywug Warrior](/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm#^statblock|Bullywug Warrior]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/075-02-033-bullywugs.webp#center)
 
@@ -1465,7 +1465,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/076-03-001-cambion.webp#center)
 
 > [!embed-monster]- Cambion
-> ![Cambion](/03_Mechanics/CLI/bestiary/fiend/cambion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/cambion-xmm#^statblock|Cambion]]
 
 ### Carrion Crawler
 
@@ -1476,7 +1476,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
@@ -1485,7 +1485,7 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/077-03-002-carrion-crawlers.webp#center)
 
 > [!embed-monster]- Carrion Crawler
-> ![Carrion Crawler](/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm#^statblock|Carrion Crawler]]
 
 ### Centaurs
 
@@ -1499,10 +1499,10 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/078-03-003-centaurs.webp#center)
 
 > [!embed-monster]- Centaur Warden
-> ![Centaur Warden](/03_Mechanics/CLI/bestiary/fey/centaur-warden-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/centaur-warden-xmm#^statblock|Centaur Warden]]
 
 > [!embed-monster]- Centaur Trooper
-> ![Centaur Trooper](/03_Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/centaur-trooper-xmm#^statblock|Centaur Trooper]]
 
 ### Chain Devil
 
@@ -1530,7 +1530,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/079-03-004-chain-devil.webp#center)
 
 > [!embed-monster]- Chain Devil
-> ![Chain Devil](/03_Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/chain-devil-xmm#^statblock|Chain Devil]]
 
 ### Chasme
 
@@ -1541,10 +1541,10 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 
 Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitate foes by producing a mind-numbing droning, then use their proboscises to drain victims of life. In the Abyss, most chasmes obsequiously serve more powerful demons and search for captives to press into demonic hordes.
 
-![Chasme](/03_Mechanics/CLI/books/monster-manual-2025/img/080-03-005-chasme.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/080-03-005-chasme.webp#center|Chasme]]
 
 > [!embed-monster]- Chasme
-> ![Chasme](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm#^statblock|Chasme]]
 
 ### Chimera
 
@@ -1560,7 +1560,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/081-03-006-chimera.webp#center)
 
 > [!embed-monster]- Chimera
-> ![Chimera](/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm#^statblock|Chimera]]
 
 ### Chuul
 
@@ -1578,7 +1578,7 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/082-03-007-chuul.webp#center)
 
 > [!embed-monster]- Chuul
-> ![Chuul](/03_Mechanics/CLI/bestiary/aberration/chuul-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/chuul-xmm#^statblock|Chuul]]
 
 ### Clay Golem
 
@@ -1606,7 +1606,7 @@ These golems obey their creators' orders and protect what their makers value mos
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/083-03-008-clay-golem.webp#center)
 
 > [!embed-monster]- Clay Golem
-> ![Clay Golem](/03_Mechanics/CLI/bestiary/construct/clay-golem-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/clay-golem-xmm#^statblock|Clay Golem]]
 
 ### Cloaker
 
@@ -1624,7 +1624,7 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/084-03-009-cloaker.webp#center)
 
 > [!embed-monster]- Cloaker
-> ![Cloaker](/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm#^statblock|Cloaker]]
 
 ### Cloud Giant
 
@@ -1640,7 +1640,7 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/085-03-010-cloud-giants.webp#center)
 
 > [!embed-monster]- Cloud Giant
-> ![Cloud Giant](/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm#^statblock|Cloud Giant]]
 
 ### Cockatrices
 
@@ -1652,12 +1652,12 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
 > [!embed-monster]- Cockatrice
-> ![Cockatrice](/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm#^statblock|Cockatrice]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/086-03-011-cockatrice.webp#center)
 
 > [!embed-monster]- Cockatrice Regent
-> ![Cockatrice Regent](/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm#^statblock|Cockatrice Regent]]
 
 ### Colossus
 
@@ -1675,7 +1675,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/087-03-012-colossus.webp#center)
 
 > [!embed-monster]- Colossus
-> ![Colossus](/03_Mechanics/CLI/bestiary/construct/colossus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/colossus-xmm#^statblock|Colossus]]
 
 ### Commoner
 
@@ -1764,10 +1764,10 @@ Weaver
 
 Youngster
 
-![Commoners of varied specie...](/03_Mechanics/CLI/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day"|Commoners of varied specie...]]
 
 > [!embed-monster]- Commoner
-> ![Commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm#^statblock|Commoner]]
 
 ### Copper Dragons
 
@@ -1783,22 +1783,22 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 **Copper Dragon Lairs.** Copper dragons typically inhabit multi-chamber caves and renovated ruins.
 
 > [!embed-monster]- Copper Dragon Wyrmling
-> ![Copper Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm#^statblock|Copper Dragon Wyrmling]]
 
-![Copper Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/089-03-014-copper-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/089-03-014-copper-dragon-wyrmling.webp#center|Copper Dragon Wyrmling]]
 
 > [!embed-monster]- Young Copper Dragon
-> ![Young Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm#^statblock|Young Copper Dragon]]
 
-![Surrounded by guardians of...](/03_Mechanics/CLI/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero"|Surrounded by guardians of...]]
 
 > [!embed-monster]- Adult Copper Dragon
-> ![Adult Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm#^statblock|Adult Copper Dragon]]
 
-![An ancient copper dragon w...](/03_Mechanics/CLI/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young"|An ancient copper dragon w...]]
 
 > [!embed-monster]- Ancient Copper Dragon
-> ![Ancient Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm#^statblock|Ancient Copper Dragon]]
 
 ### Couatl
 
@@ -1816,7 +1816,7 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/092-03-017-cuoatl.webp#center)
 
 > [!embed-monster]- Couatl
-> ![Couatl](/03_Mechanics/CLI/bestiary/celestial/couatl-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/couatl-xmm#^statblock|Couatl]]
 
 ### Crawling Claws
 
@@ -1834,10 +1834,10 @@ Crawling claws are severed hands that move and act of their own murderous accord
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
 
 > [!embed-monster]- Crawling Claw
-> ![Crawling Claw](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm#^statblock|Crawling Claw]]
 
 > [!embed-monster]- Swarm of Crawling Claws
-> ![Swarm of Crawling Claws](/03_Mechanics/CLI/bestiary/undead/swarm-of-crawling-claws-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/swarm-of-crawling-claws-xmm#^statblock|Swarm of Crawling Claws]]
 
 ### Cultists
 
@@ -1890,30 +1890,30 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![A death cultist and his fo...](/03_Mechanics/CLI/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath"|A death cultist and his fo...]]
 
 > [!embed-monster]- Cultist
-> ![Cultist](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm#^statblock|Cultist]]
 
 > [!embed-monster]- Cultist Fanatic
-> ![Cultist Fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm#^statblock|Cultist Fanatic]]
 
 > [!embed-monster]- Cultist Hierophant
-> ![Cultist Hierophant](/03_Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm#^statblock|Cultist Hierophant]]
 
-![An aberrant cultist and an...](/03_Mechanics/CLI/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons"|An aberrant cultist and an...]]
 
 > [!embed-monster]- Aberrant Cultist
-> ![Aberrant Cultist](/03_Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm#^statblock|Aberrant Cultist]]
 
 > [!embed-monster]- Death Cultist
-> ![Death Cultist](/03_Mechanics/CLI/bestiary/humanoid/death-cultist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/death-cultist-xmm#^statblock|Death Cultist]]
 
 > [!embed-monster]- Elemental Cultist
-> ![Elemental Cultist](/03_Mechanics/CLI/bestiary/humanoid/elemental-cultist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/elemental-cultist-xmm#^statblock|Elemental Cultist]]
 
 > [!embed-monster]- Fiend Cultist
-> ![Fiend Cultist](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm#^statblock|Fiend Cultist]]
 
 ### Cyclopes
 
@@ -1925,10 +1925,10 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
 > [!embed-monster]- Cyclops Oracle
-> ![Cyclops Oracle](/03_Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm#^statblock|Cyclops Oracle]]
 
 > [!embed-monster]- Cyclops Sentry
-> ![Cyclops Sentry](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm#^statblock|Cyclops Sentry]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
 
@@ -1952,7 +1952,7 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/097-04-001-dao.webp#center)
 
 > [!embed-monster]- Dao
-> ![Dao](/03_Mechanics/CLI/bestiary/elemental/dao-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/dao-xmm#^statblock|Dao]]
 
 ### Darkmantle
 
@@ -1969,10 +1969,10 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > 
 > Just assume there's no such thing as a stalactite.
 
-![Darkmantle](/03_Mechanics/CLI/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center|Darkmantle]]
 
 > [!embed-monster]- Darkmantle
-> ![Darkmantle](/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm#^statblock|Darkmantle]]
 
 ### Death Dog
 
@@ -1983,7 +1983,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -2006,7 +2006,7 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/099-04-003-death-dog.webp#center)
 
 > [!embed-monster]- Death Dog
-> ![Death Dog](/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm#^statblock|Death Dog]]
 
 ### Death Knights
 
@@ -2017,13 +2017,13 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
-![A death knight and its asp...](/03_Mechanics/CLI/books/monster-manual-2025/img/100-04-004-death-knight.webp#center "A death knight and its aspirants march to war against the living")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/100-04-004-death-knight.webp#center "A death knight and its aspirants march to war against the living"|A death knight and its asp...]]
 
 > [!embed-monster]- Death Knight
-> ![Death Knight](/03_Mechanics/CLI/bestiary/undead/death-knight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/death-knight-xmm#^statblock|Death Knight]]
 
 > [!embed-monster]- Death Knight Aspirant
-> ![Death Knight Aspirant](/03_Mechanics/CLI/bestiary/undead/death-knight-aspirant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/death-knight-aspirant-xmm#^statblock|Death Knight Aspirant]]
 
 ### Death Tyrant
 
@@ -2047,7 +2047,7 @@ No matter how death tyrants come into being, bizarre impulses drive their deathl
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/101-04-005-death-tyrant.webp#center)
 
 > [!embed-monster]- Death Tyrant
-> ![Death Tyrant](/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/death-tyrant-xmm#^statblock|Death Tyrant]]
 
 ### Demilich
 
@@ -2063,7 +2063,7 @@ A demilich is a skull harboring the remnants of a lich's wicked essence. If the 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/102-04-006-demilich.webp#center)
 
 > [!embed-monster]- Demilich
-> ![Demilich](/03_Mechanics/CLI/bestiary/undead/demilich-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/demilich-xmm#^statblock|Demilich]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/103-04-007-deva.webp#center)
 
@@ -2093,7 +2093,7 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 ^deva-messages
 
 > [!embed-monster]- Deva
-> ![Deva](/03_Mechanics/CLI/bestiary/celestial/deva-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/deva-xmm#^statblock|Deva]]
 
 ### Displacer Beast
 
@@ -2115,7 +2115,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
 
 > [!embed-monster]- Displacer Beast
-> ![Displacer Beast](/03_Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm#^statblock|Displacer Beast]]
 
 ### Djinni
 
@@ -2131,7 +2131,7 @@ While many djinn create airy palaces on stormy coasts or high in the clouds, unt
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/105-04-009-djinni.webp#center)
 
 > [!embed-monster]- Djinni
-> ![Djinni](/03_Mechanics/CLI/bestiary/elemental/djinni-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/djinni-xmm#^statblock|Djinni]]
 
 ### Doppelganger
 
@@ -2165,7 +2165,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/106-04-010-doppelganger.webp#center)
 
 > [!embed-monster]- Doppelganger
-> ![Doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm#^statblock|Doppelganger]]
 
 ### Dracolich
 
@@ -2207,7 +2207,7 @@ There are untold profane routes by which a dragon might become a dracolich. Howe
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/107-04-011-dracolich.webp#center)
 
 > [!embed-monster]- Dracolich
-> ![Dracolich](/03_Mechanics/CLI/bestiary/undead/dracolich-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/dracolich-xmm#^statblock|Dracolich]]
 
 ### Dragon Turtle
 
@@ -2223,7 +2223,7 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/108-04-012-dragon-turtle.webp#center)
 
 > [!embed-monster]- Dragon Turtle
-> ![Dragon Turtle](/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm#^statblock|Dragon Turtle]]
 
 ### Dretches
 
@@ -2241,10 +2241,10 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/109-04-013-dretches.webp#center)
 
 > [!embed-monster]- Dretch
-> ![Dretch](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm#^statblock|Dretch]]
 
 > [!embed-monster]- Swarm of Dretches
-> ![Swarm of Dretches](/03_Mechanics/CLI/bestiary/fiend/swarm-of-dretches-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/swarm-of-dretches-xmm#^statblock|Swarm of Dretches]]
 
 ### Drider
 
@@ -2274,7 +2274,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/110-04-014-drider.webp#center)
 
 > [!embed-monster]- Drider
-> ![Drider](/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm#^statblock|Drider]]
 
 ### Druid
 
@@ -2302,7 +2302,7 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/111-04-015-druid.webp#center)
 
 > [!embed-monster]- Druid
-> ![Druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm#^statblock|Druid]]
 
 ### Dryad
 
@@ -2322,7 +2322,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](/03_Mechanics/CLI/conditions.md#Petrified) forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [[/03_Mechanics/CLI/conditions#Petrified|petrified]] forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
@@ -2330,7 +2330,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/112-04-016-dryads.webp#center)
 
 > [!embed-monster]- Dryad
-> ![Dryad](/03_Mechanics/CLI/bestiary/fey/dryad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/dryad-xmm#^statblock|Dryad]]
 
 ## Monsters (E)
 
@@ -2368,7 +2368,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
 
 > [!embed-monster]- Earth Elemental
-> ![Earth Elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm#^statblock|Earth Elemental]]
 
 ### Efreeti
 
@@ -2388,7 +2388,7 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/114-05-002-efreeti.webp#center)
 
 > [!embed-monster]- Efreeti
-> ![Efreeti](/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm#^statblock|Efreeti]]
 
 ### Elemental Cataclysm
 
@@ -2424,7 +2424,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/116-05-004-landscape.webp#center)
 
 > [!embed-monster]- Elemental Cataclysm
-> ![Elemental Cataclysm](/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm#^statblock|Elemental Cataclysm]]
 
 ### Empyreans
 
@@ -2453,13 +2453,13 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
-![Celestial and fiendish emp...](/03_Mechanics/CLI/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas"|Celestial and fiendish emp...]]
 
 > [!embed-monster]- Empyrean Iota
-> ![Empyrean Iota](/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm#^statblock|Empyrean Iota]]
 
 > [!embed-monster]- Empyrean
-> ![Empyrean](/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm#^statblock|Empyrean]]
 
 ### Erinyes
 
@@ -2477,7 +2477,7 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/118-05-006-erinyes.webp#center)
 
 > [!embed-monster]- Erinyes
-> ![Erinyes](/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm#^statblock|Erinyes]]
 
 ### Ettercap
 
@@ -2495,7 +2495,7 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/119-05-007-ettercap.webp#center)
 
 > [!embed-monster]- Ettercap
-> ![Ettercap](/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm#^statblock|Ettercap]]
 
 ### Ettin
 
@@ -2535,7 +2535,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/120-05-008-ettin.webp#center)
 
 > [!embed-monster]- Ettin
-> ![Ettin](/03_Mechanics/CLI/bestiary/giant/ettin-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/ettin-xmm#^statblock|Ettin]]
 
 ## Monsters (F)
 
@@ -2551,10 +2551,10 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/121-06-001-faerie-dragons.webp#center)
 
 > [!embed-monster]- Faerie Dragon Adult
-> ![Faerie Dragon Adult](/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm#^statblock|Faerie Dragon Adult]]
 
 > [!embed-monster]- Faerie Dragon Youth
-> ![Faerie Dragon Youth](/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm#^statblock|Faerie Dragon Youth]]
 
 ### Fire Elemental
 
@@ -2590,7 +2590,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
 
 > [!embed-monster]- Fire Elemental
-> ![Fire Elemental](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm#^statblock|Fire Elemental]]
 
 ### Fire Giant
 
@@ -2608,7 +2608,7 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/123-06-003-fire-giants.webp#center)
 
 > [!embed-monster]- Fire Giant
-> ![Fire Giant](/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm#^statblock|Fire Giant]]
 
 ### Flameskull
 
@@ -2642,7 +2642,7 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/124-06-004-flame-skulls.webp#center)
 
 > [!embed-monster]- Flameskull
-> ![Flameskull](/03_Mechanics/CLI/bestiary/undead/flameskull-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/flameskull-xmm#^statblock|Flameskull]]
 
 ### Flesh Golem
 
@@ -2676,7 +2676,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
 
 > [!embed-monster]- Flesh Golem
-> ![Flesh Golem](/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm#^statblock|Flesh Golem]]
 
 ### Flumph
 
@@ -2728,7 +2728,7 @@ Flumphs dwell in psychically charged regions or near creatures with psionic magi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/126-06-006-flumph.webp#center)
 
 > [!embed-monster]- Flumph
-> ![Flumph](/03_Mechanics/CLI/bestiary/aberration/flumph-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/flumph-xmm#^statblock|Flumph]]
 
 ### Fomorian
 
@@ -2758,7 +2758,7 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/127-00-067-fomorian.webp#center)
 
 > [!embed-monster]- Fomorian
-> ![Fomorian](/03_Mechanics/CLI/bestiary/giant/fomorian-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/fomorian-xmm#^statblock|Fomorian]]
 
 ### Frost Giant
 
@@ -2778,7 +2778,7 @@ Frost giants often travel far to find food and goods. This leads many to become 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/128-06-008-frost-giants.webp#center)
 
 > [!embed-monster]- Frost Giant
-> ![Frost Giant](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm#^statblock|Frost Giant]]
 
 ### Fungi
 
@@ -2790,20 +2790,20 @@ Frost giants often travel far to find food and goods. This leads many to become 
 The dank, sunless Underdark is a fertile breeding ground for weird and dangerous fungi.
 
 > [!embed-monster]- Gas Spore Fungus
-> ![Gas Spore Fungus](/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm#^statblock|Gas Spore Fungus]]
 
-![A gas spore and clusters o...](/03_Mechanics/CLI/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark"|A gas spore and clusters o...]]
 
 > [!embed-monster]- Shrieker Fungus
-> ![Shrieker Fungus](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm#^statblock|Shrieker Fungus]]
 
-![Violet Fungus Necrohulk](/03_Mechanics/CLI/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center|Violet Fungus Necrohulk]]
 
 > [!embed-monster]- Violet Fungus
-> ![Violet Fungus](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm#^statblock|Violet Fungus]]
 
 > [!embed-monster]- Violet Fungus Necrohulk
-> ![Violet Fungus Necrohulk](/03_Mechanics/CLI/bestiary/plant/violet-fungus-necrohulk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/violet-fungus-necrohulk-xmm#^statblock|Violet Fungus Necrohulk]]
 
 ## Monsters (G)
 
@@ -2823,7 +2823,7 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/131-07-001-galeb-duhr.webp#center)
 
 > [!embed-monster]- Galeb Duhr
-> ![Galeb Duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm#^statblock|Galeb Duhr]]
 
 ### Gargoyle
 
@@ -2861,7 +2861,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](/03_Mechanics/CLI/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [[/03_Mechanics/CLI/conditions#Petrified|petrified]] victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -2875,7 +2875,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
 
 > [!embed-monster]- Gargoyle
-> ![Gargoyle](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm#^statblock|Gargoyle]]
 
 ### Gelatinous Cube
 
@@ -2900,10 +2900,10 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 | 6 | Tablet bearing a mysterious message. |
 ^gelatinous-cube-debris
 
-![Gelatinous Cube](/03_Mechanics/CLI/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center|Gelatinous Cube]]
 
 > [!embed-monster]- Gelatinous Cube
-> ![Gelatinous Cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm#^statblock|Gelatinous Cube]]
 
 ### Ghasts
 
@@ -2914,13 +2914,13 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
 
-![Ghast](/03_Mechanics/CLI/books/monster-manual-2025/img/134-07-004-ghast.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/134-07-004-ghast.webp#center|Ghast]]
 
 > [!embed-monster]- Ghast
-> ![Ghast](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/ghast-xmm#^statblock|Ghast]]
 
 > [!embed-monster]- Ghast Gravecaller
-> ![Ghast Gravecaller](/03_Mechanics/CLI/bestiary/undead/ghast-gravecaller-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/ghast-gravecaller-xmm#^statblock|Ghast Gravecaller]]
 
 ### Ghost
 
@@ -2936,7 +2936,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/135-07-005-ghost.webp#center)
 
 > [!embed-monster]- Ghost
-> ![Ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/ghost-xmm#^statblock|Ghost]]
 
 ### Ghouls
 
@@ -2954,10 +2954,10 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/136-07-006-ghoul.webp#center)
 
 > [!embed-monster]- Ghoul
-> ![Ghoul](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm#^statblock|Ghoul]]
 
 > [!embed-monster]- Lacedon Ghoul
-> ![Lacedon Ghoul](/03_Mechanics/CLI/bestiary/undead/lacedon-ghoul-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/lacedon-ghoul-xmm#^statblock|Lacedon Ghoul]]
 
 ### Gibbering Mouther
 
@@ -2991,7 +2991,7 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/137-07-007-gibbering-mouther.webp#center)
 
 > [!embed-monster]- Gibbering Mouther
-> ![Gibbering Mouther](/03_Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm#^statblock|Gibbering Mouther]]
 
 ### Githyanki
 
@@ -3008,16 +3008,16 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
-![Left to Right: Githyanki D...](/03_Mechanics/CLI/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior"|Left to Right: Githyanki D...]]
 
 > [!embed-monster]- Githyanki Warrior
-> ![Githyanki Warrior](/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm#^statblock|Githyanki Warrior]]
 
 > [!embed-monster]- Githyanki Knight
-> ![Githyanki Knight](/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm#^statblock|Githyanki Knight]]
 
 > [!embed-monster]- Githyanki Dracomancer
-> ![Githyanki Dracomancer](/03_Mechanics/CLI/bestiary/aberration/githyanki-dracomancer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githyanki-dracomancer-xmm#^statblock|Githyanki Dracomancer]]
 
 ### Githzerai
 
@@ -3052,16 +3052,16 @@ Githzerai psychically create serene, hidden sanctuaries in chaotic reaches of th
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-![Left to Right: Githzerai Z...](/03_Mechanics/CLI/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk"|Left to Right: Githzerai Z...]]
 
 > [!embed-monster]- Githzerai Monk
-> ![Githzerai Monk](/03_Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm#^statblock|Githzerai Monk]]
 
 > [!embed-monster]- Githzerai Zerth
-> ![Githzerai Zerth](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm#^statblock|Githzerai Zerth]]
 
 > [!embed-monster]- Githzerai Psion
-> ![Githzerai Psion](/03_Mechanics/CLI/bestiary/aberration/githzerai-psion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/githzerai-psion-xmm#^statblock|Githzerai Psion]]
 
 ### Glabrezu
 
@@ -3081,7 +3081,7 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/140-07-010-glabrezu.webp#center)
 
 > [!embed-monster]- Glabrezu
-> ![Glabrezu](/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/glabrezu-xmm#^statblock|Glabrezu]]
 
 ### Gladiator
 
@@ -3107,9 +3107,9 @@ Gladiators are professional fighters who pit themselves against one another, mon
 ^gladiator-theatrics
 
 > [!embed-monster]- Gladiator
-> ![Gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm#^statblock|Gladiator]]
 
-![In an undersea arena, the ...](/03_Mechanics/CLI/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid"|In an undersea arena, the ...]]
 
 ### Gnolls
 
@@ -3124,19 +3124,19 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
-![Gnoll Warriors rampage aft...](/03_Mechanics/CLI/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac"|Gnoll Warriors rampage aft...]]
 
 > [!embed-monster]- Gnoll Warrior
-> ![Gnoll Warrior](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm#^statblock|Gnoll Warrior]]
 
 > [!embed-monster]- Gnoll Pack Lord
-> ![Gnoll Pack Lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm#^statblock|Gnoll Pack Lord]]
 
 > [!embed-monster]- Gnoll Fang of Yeenoghu
-> ![Gnoll Fang of Yeenoghu](/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm#^statblock|Gnoll Fang of Yeenoghu]]
 
 > [!embed-monster]- Gnoll Demoniac
-> ![Gnoll Demoniac](/03_Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm#^statblock|Gnoll Demoniac]]
 
 ### Goblins
 
@@ -3155,19 +3155,19 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > 
 > Bree-yark!
 
-![A goblin boss, a goblin he...](/03_Mechanics/CLI/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe"|A goblin boss, a goblin he...]]
 
 > [!embed-monster]- Goblin Minion
-> ![Goblin Minion](/03_Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/goblin-minion-xmm#^statblock|Goblin Minion]]
 
 > [!embed-monster]- Goblin Warrior
-> ![Goblin Warrior](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm#^statblock|Goblin Warrior]]
 
 > [!embed-monster]- Goblin Boss
-> ![Goblin Boss](/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm#^statblock|Goblin Boss]]
 
 > [!embed-monster]- Goblin Hexer
-> ![Goblin Hexer](/03_Mechanics/CLI/bestiary/fey/goblin-hexer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/goblin-hexer-xmm#^statblock|Goblin Hexer]]
 
 ### Gold Dragons
 
@@ -3182,23 +3182,23 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 **Gold Dragon Lairs.** Gold dragons make their homes in places of natural and magical wonder.
 
-![Gold Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/144-07-014-gold-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/144-07-014-gold-dragon-wyrmling.webp#center|Gold Dragon Wyrmling]]
 
 > [!embed-monster]- Gold Dragon Wyrmling
-> ![Gold Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm#^statblock|Gold Dragon Wyrmling]]
 
 > [!embed-monster]- Young Gold Dragon
-> ![Young Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm#^statblock|Young Gold Dragon]]
 
-![An adult gold dragon guard...](/03_Mechanics/CLI/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders"|An adult gold dragon guard...]]
 
 > [!embed-monster]- Adult Gold Dragon
-> ![Adult Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm#^statblock|Adult Gold Dragon]]
 
-![The pure of heart have not...](/03_Mechanics/CLI/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon"|The pure of heart have not...]]
 
 > [!embed-monster]- Ancient Gold Dragon
-> ![Ancient Gold Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm#^statblock|Ancient Gold Dragon]]
 
 ### Gorgons
 
@@ -3213,7 +3213,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](/03_Mechanics/CLI/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[/03_Mechanics/CLI/conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -3233,13 +3233,13 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
-![A gorgon petrifies victims...](/03_Mechanics/CLI/books/monster-manual-2025/img/147-07-017-gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/147-07-017-gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces"|A gorgon petrifies victims...]]
 
 > [!embed-monster]- Gorgon
-> ![Gorgon](/03_Mechanics/CLI/bestiary/construct/gorgon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/gorgon-xmm#^statblock|Gorgon]]
 
 > [!embed-monster]- Brazen Gorgon
-> ![Brazen Gorgon](/03_Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm#^statblock|Brazen Gorgon]]
 
 ### Goristro
 
@@ -3259,7 +3259,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/148-07-018-goristro.webp#center)
 
 > [!embed-monster]- Goristro
-> ![Goristro](/03_Mechanics/CLI/bestiary/fiend/goristro-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/goristro-xmm#^statblock|Goristro]]
 
 ### Gray Oozes
 
@@ -3273,10 +3273,10 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
 
 > [!embed-monster]- Gray Ooze
-> ![Gray Ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm#^statblock|Gray Ooze]]
 
 > [!embed-monster]- Gray Ooze
-> ![Gray Ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm#^statblock|Gray Ooze]]
 
 ### Green Dragons
 
@@ -3291,23 +3291,23 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 **Green Dragon Lairs.** Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
-![Green Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/150-07-020-green-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/150-07-020-green-dragon-wyrmling.webp#center|Green Dragon Wyrmling]]
 
 > [!embed-monster]- Green Dragon Wyrmling
-> ![Green Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm#^statblock|Green Dragon Wyrmling]]
 
 > [!embed-monster]- Young Green Dragon
-> ![Young Green Dragon](/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm#^statblock|Young Green Dragon]]
 
-![An adult green dragon shadows its prey](/03_Mechanics/CLI/books/monster-manual-2025/img/151-07-021-adult-green-dragon.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/151-07-021-adult-green-dragon.webp#center|An adult green dragon shadows its prey]]
 
 > [!embed-monster]- Adult Green Dragon
-> ![Adult Green Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm#^statblock|Adult Green Dragon]]
 
-![An ancient green dragon ma...](/03_Mechanics/CLI/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair"|An ancient green dragon ma...]]
 
 > [!embed-monster]- Ancient Green Dragon
-> ![Ancient Green Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm#^statblock|Ancient Green Dragon]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/153-07-023-green-hags.webp#center)
 
@@ -3337,7 +3337,7 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 ^green-hag-bargains
 
 > [!embed-monster]- Green Hag
-> ![Green Hag](/03_Mechanics/CLI/bestiary/fey/green-hag-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm#^statblock|Green Hag]]
 
 ### Grell
 
@@ -3373,7 +3373,7 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/154-07-024-grell.webp#center)
 
 > [!embed-monster]- Grell
-> ![Grell](/03_Mechanics/CLI/bestiary/aberration/grell-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/grell-xmm#^statblock|Grell]]
 
 ### Gricks
 
@@ -3389,10 +3389,10 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/155-07-025-grick.webp#center)
 
 > [!embed-monster]- Grick
-> ![Grick](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/grick-xmm#^statblock|Grick]]
 
 > [!embed-monster]- Grick Ancient
-> ![Grick Ancient](/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm#^statblock|Grick Ancient]]
 
 ### Griffon
 
@@ -3426,7 +3426,7 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
 
 > [!embed-monster]- Griffon
-> ![Griffon](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm#^statblock|Griffon]]
 
 ### Grimlock
 
@@ -3460,7 +3460,7 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/157-07-027-grimlock.webp#center)
 
 > [!embed-monster]- Grimlock
-> ![Grimlock](/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm#^statblock|Grimlock]]
 
 ### Guardian Naga
 
@@ -3492,7 +3492,7 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/158-07-028-guardian-naga.webp#center)
 
 > [!embed-monster]- Guardian Naga
-> ![Guardian Naga](/03_Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/guardian-naga-xmm#^statblock|Guardian Naga]]
 
 ### Guards
 
@@ -3510,10 +3510,10 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/159-07-029-guards.webp#center)
 
 > [!embed-monster]- Guard
-> ![Guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm#^statblock|Guard]]
 
 > [!embed-monster]- Guard Captain
-> ![Guard Captain](/03_Mechanics/CLI/bestiary/humanoid/guard-captain-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/guard-captain-xmm#^statblock|Guard Captain]]
 
 ## Monsters (H)
 
@@ -3535,7 +3535,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/160-08-001-half-dragon.webp#center)
 
 > [!embed-monster]- Half-Dragon
-> ![Half-Dragon](/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm#^statblock|Half-Dragon]]
 
 ### Harpy
 
@@ -3553,7 +3553,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/161-08-002-group-of-harpies.webp#center)
 
 > [!embed-monster]- Harpy
-> ![Harpy](/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm#^statblock|Harpy]]
 
 ### Hell Hound
 
@@ -3569,7 +3569,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/162-08-003-hell-hound.webp#center)
 
 > [!embed-monster]- Hell Hound
-> ![Hell Hound](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm#^statblock|Hell Hound]]
 
 ### Helmed Horror
 
@@ -3596,10 +3596,10 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
 
-![A helmed horror proves imm...](/03_Mechanics/CLI/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell"|A helmed horror proves imm...]]
 
 > [!embed-monster]- Helmed Horror
-> ![Helmed Horror](/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm#^statblock|Helmed Horror]]
 
 ### Hezrou
 
@@ -3612,7 +3612,7 @@ Hezrous compose the bulk of many demonic hordes. In croaking, reeking throngs, t
 
 Hezrous serve more powerful demons, such as nalfeshnees and mariliths. They take the abuse and intimidation of these deadlier demons and pass it on to droves of weaker dretches and manes. This predictable brutality makes hezrous useful links in the chaotic structure of a demonic horde.
 
-When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [Magic Circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md) and [Planar Binding](/03_Mechanics/CLI/spells/planar-binding-xphb.md), or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
+When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [[/03_Mechanics/CLI/spells/magic-circle-xphb|Magic Circle]] and [[/03_Mechanics/CLI/spells/planar-binding-xphb|Planar Binding]], or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
 
 **Demonic Undertakings**
 
@@ -3631,7 +3631,7 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/164-08-005-hezrou.webp#center)
 
 > [!embed-monster]- Hezrou
-> ![Hezrou](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm#^statblock|Hezrou]]
 
 ### Hill Giant
 
@@ -3649,7 +3649,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/165-08-006-hill-giants.webp#center)
 
 > [!embed-monster]- Hill Giant
-> ![Hill Giant](/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm#^statblock|Hill Giant]]
 
 ### Hippogriff
 
@@ -3679,7 +3679,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/166-08-007-hippogriff.webp#center)
 
 > [!embed-monster]- Hippogriff
-> ![Hippogriff](/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm#^statblock|Hippogriff]]
 
 ### Hobgoblins
 
@@ -3710,18 +3710,18 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
-![A hobgoblin warlord overse...](/03_Mechanics/CLI/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war"|A hobgoblin warlord overse...]]
 
 > [!embed-monster]- Hobgoblin Warrior
-> ![Hobgoblin Warrior](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm#^statblock|Hobgoblin Warrior]]
 
 > [!embed-monster]- Hobgoblin Captain
-> ![Hobgoblin Captain](/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm#^statblock|Hobgoblin Captain]]
 
 > [!embed-monster]- Hobgoblin Warlord
-> ![Hobgoblin Warlord](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm#^statblock|Hobgoblin Warlord]]
 
-![Homunculi are as varied as...](/03_Mechanics/CLI/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them"|Homunculi are as varied as...]]
 
 ### Homunculus
 
@@ -3751,7 +3751,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 ^homunculus-features
 
 > [!embed-monster]- Homunculus
-> ![Homunculus](/03_Mechanics/CLI/bestiary/construct/homunculus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/homunculus-xmm#^statblock|Homunculus]]
 
 ### Hook Horror
 
@@ -3767,7 +3767,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/169-08-010-hook-horror.webp#center)
 
 > [!embed-monster]- Hook Horror
-> ![Hook Horror](/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm#^statblock|Hook Horror]]
 
 ### Horned Devil
 
@@ -3781,7 +3781,7 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/170-08-011-horned-devil.webp#center)
 
 > [!embed-monster]- Horned Devil
-> ![Horned Devil](/03_Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/horned-devil-xmm#^statblock|Horned Devil]]
 
 ### Hydra
 
@@ -3811,7 +3811,7 @@ While many hydras claim their own territories, wicked deities might use them to 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/171-08-012-hydra.webp#center)
 
 > [!embed-monster]- Hydra
-> ![Hydra](/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm#^statblock|Hydra]]
 
 ## Monsters (I)
 
@@ -3837,7 +3837,7 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/172-09-001-ice-devil.webp#center)
 
 > [!embed-monster]- Ice Devil
-> ![Ice Devil](/03_Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/ice-devil-xmm#^statblock|Ice Devil]]
 
 ### Imp
 
@@ -3857,7 +3857,7 @@ Imps without masters delight in manipulating other creatures and inflating their
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/173-09-002-imp.webp#center)
 
 > [!embed-monster]- Imp
-> ![Imp](/03_Mechanics/CLI/bestiary/fiend/imp-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/imp-xmm#^statblock|Imp]]
 
 ### Incubus
 
@@ -3881,7 +3881,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [Falling](/03_Mechanics/CLI/traps-hazards/falling-xphb.md), drowning, or suffocating. |
+| 4 | [[/03_Mechanics/CLI/traps-hazards/falling-xphb|Falling]], drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
@@ -3891,7 +3891,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/174-09-003-incubus.webp#center)
 
 > [!embed-monster]- Incubus
-> ![Incubus](/03_Mechanics/CLI/bestiary/fiend/incubus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/incubus-xmm#^statblock|Incubus]]
 
 ### Intellect Devourer
 
@@ -3906,10 +3906,10 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
-![Intellect Devourer](/03_Mechanics/CLI/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center|Intellect Devourer]]
 
 > [!embed-monster]- Intellect Devourer
-> ![Intellect Devourer](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm#^statblock|Intellect Devourer]]
 
 ### Invisible Stalker
 
@@ -3918,9 +3918,9 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 - **Habitat.** Urban  
 - **Treasure.** None  
 
-Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
+Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
 
-In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
+In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
 
 **Uncontrolled Invisible Stalkers**
 
@@ -3943,7 +3943,7 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
 
 > [!embed-monster]- Invisible Stalker
-> ![Invisible Stalker](/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm#^statblock|Invisible Stalker]]
 
 ### Iron Golem
 
@@ -3968,10 +3968,10 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 | 4 | Stand atop the resting place of a powerful magic item. |
 ^iron-golem-orders
 
-![Iron Golem](/03_Mechanics/CLI/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center|Iron Golem]]
 
 > [!embed-monster]- Iron Golem
-> ![Iron Golem](/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm#^statblock|Iron Golem]]
 
 ## Monsters (J)
 
@@ -4001,7 +4001,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 ^jackalwere-tricks
 
 > [!embed-monster]- Jackalwere
-> ![Jackalwere](/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm#^statblock|Jackalwere]]
 
 ## Monsters (K)
 
@@ -4017,7 +4017,7 @@ Kenku are birdlike folk who once soared the skies and sang enchanted songs, but 
 The curse affecting kenku allows them to vocally communicate only by mimicking sounds they've heard. Kenku can supernaturally re-create vast varieties of noises, from crying babies to running water and short phrases in others' voices. Cunning kenku use their mimicry to deceive foes, lure creatures into ambushes, and signal to allies.
 
 > [!embed-monster]- Kenku
-> ![Kenku](/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm#^statblock|Kenku]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/179-11-001-kenku.webp#center)
 
@@ -4033,10 +4033,10 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/180-11-002-knights.webp#center)
 
 > [!embed-monster]- Knight
-> ![Knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm#^statblock|Knight]]
 
 > [!embed-monster]- Questing Knight
-> ![Questing Knight](/03_Mechanics/CLI/bestiary/humanoid/questing-knight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/questing-knight-xmm#^statblock|Questing Knight]]
 
 ### Kobolds
 
@@ -4050,12 +4050,12 @@ Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warri
 Kobolds' scales resemble those of chromatic dragons that live near their warrens. Rarely, kobolds possess features evocative of metallic dragons or other dragon-like creatures.
 
 > [!embed-monster]- Kobold Warrior
-> ![Kobold Warrior](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm#^statblock|Kobold Warrior]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/181-11-003-kobolds.webp#center)
 
 > [!embed-monster]- Winged Kobold
-> ![Winged Kobold](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm#^statblock|Winged Kobold]]
 
 ### Kraken
 
@@ -4095,7 +4095,7 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
 
 > [!embed-monster]- Kraken
-> ![Kraken](/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm#^statblock|Kraken]]
 
 ### Kuo-toa
 
@@ -4158,23 +4158,23 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 > 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
-![An adventurer stumbles on ...](/03_Mechanics/CLI/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods"|An adventurer stumbles on ...]]
 
-![Kuo-toa](/03_Mechanics/CLI/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center|Kuo-toa]]
 
 > [!embed-monster]- Kuo-toa
-> ![Kuo-toa](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm#^statblock|Kuo-toa]]
 
 > [!embed-monster]- Kuo-toa Whip
-> ![Kuo-toa Whip](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm#^statblock|Kuo-toa Whip]]
 
-![A kuo-toa whip and kuo-toa...](/03_Mechanics/CLI/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid"|A kuo-toa whip and kuo-toa...]]
 
 > [!embed-monster]- Kuo-toa Monitor
-> ![Kuo-toa Monitor](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm#^statblock|Kuo-toa Monitor]]
 
 > [!embed-monster]- Kuo-toa Archpriest
-> ![Kuo-toa Archpriest](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm#^statblock|Kuo-toa Archpriest]]
 
 ## Monsters (L)
 
@@ -4206,7 +4206,7 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/186-12-001-lamia.webp#center)
 
 > [!embed-monster]- Lamia
-> ![Lamia](/03_Mechanics/CLI/bestiary/fiend/lamia-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/lamia-xmm#^statblock|Lamia]]
 
 ### Larvae
 
@@ -4222,10 +4222,10 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/187-12-002-swarm-of-larvae.webp#center)
 
 > [!embed-monster]- Larva
-> ![Larva](/03_Mechanics/CLI/bestiary/fiend/larva-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/larva-xmm#^statblock|Larva]]
 
 > [!embed-monster]- Swarm of Larvae
-> ![Swarm of Larvae](/03_Mechanics/CLI/bestiary/fiend/swarm-of-larvae-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/swarm-of-larvae-xmm#^statblock|Swarm of Larvae]]
 
 ### Lemures
 
@@ -4236,13 +4236,13 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 
 The least of all devils, lemures arise from wicked souls, their mortal memories scoured away. Only vague limbs and anguished features jut from these slurries of infernal proto-matter.
 
-![Lemure](/03_Mechanics/CLI/books/monster-manual-2025/img/188-12-003-lemures.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/188-12-003-lemures.webp#center|Lemure]]
 
 > [!embed-monster]- Lemure
-> ![Lemure](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/lemure-xmm#^statblock|Lemure]]
 
 > [!embed-monster]- Swarm of Lemures
-> ![Swarm of Lemures](/03_Mechanics/CLI/bestiary/fiend/swarm-of-lemures-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/swarm-of-lemures-xmm#^statblock|Swarm of Lemures]]
 
 ### Lich
 
@@ -4285,10 +4285,10 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
-![An ancient lich and her gh...](/03_Mechanics/CLI/books/monster-manual-2025/img/189-12-004-litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/189-12-004-litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic"|An ancient lich and her gh...]]
 
 > [!embed-monster]- Lich
-> ![Lich](/03_Mechanics/CLI/bestiary/undead/lich-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/lich-xmm#^statblock|Lich]]
 
 ### Lizardfolk
 
@@ -4300,10 +4300,10 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfolk are Humanoids with varied skills, some forge powerful bonds with the Elemental Plane of Earth, granting them magical connections to the cycle of growth and rebirth.
 
 > [!embed-monster]- Lizardfolk Geomancer
-> ![Lizardfolk Geomancer](/03_Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm#^statblock|Lizardfolk Geomancer]]
 
 > [!embed-monster]- Lizardfolk Sovereign
-> ![Lizardfolk Sovereign](/03_Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm#^statblock|Lizardfolk Sovereign]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/190-12-005-lizardfolk.webp#center)
 
@@ -4345,13 +4345,13 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/191-13-001-mages.webp#center)
 
 > [!embed-monster]- Mage Apprentice
-> ![Mage Apprentice](/03_Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm#^statblock|Mage Apprentice]]
 
 > [!embed-monster]- Mage
-> ![Mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm#^statblock|Mage]]
 
 > [!embed-monster]- Archmage
-> ![Archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm#^statblock|Archmage]]
 
 ### Magmin
 
@@ -4367,7 +4367,7 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/192-13-002-magmin.webp#center)
 
 > [!embed-monster]- Magmin
-> ![Magmin](/03_Mechanics/CLI/bestiary/elemental/magmin-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/magmin-xmm#^statblock|Magmin]]
 
 ### Manes
 
@@ -4381,12 +4381,12 @@ Manes lash out at creatures that appear weaker than themselves—or that react t
 The lowest form of demons, manes appear when truly loathsome souls are condemned to the Abyss. These misshapen demons have distorted features and bodies that crawl with Abyssal parasites. Overwhelmed by demonic urges and constant terror, manes know only shock and frenzied outbursts.
 
 > [!embed-monster]- Manes
-> ![Manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/manes-xmm#^statblock|Manes]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/193-13-003-manes.webp#center)
 
 > [!embed-monster]- Manes Vaporspawn
-> ![Manes Vaporspawn](/03_Mechanics/CLI/bestiary/fiend/manes-vaporspawn-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/manes-vaporspawn-xmm#^statblock|Manes Vaporspawn]]
 
 ### Manticore
 
@@ -4420,7 +4420,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/194-13-004-manticore.webp#center)
 
 > [!embed-monster]- Manticore
-> ![Manticore](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm#^statblock|Manticore]]
 
 ### Marid
 
@@ -4436,7 +4436,7 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/195-13-005-marid.webp#center)
 
 > [!embed-monster]- Marid
-> ![Marid](/03_Mechanics/CLI/bestiary/elemental/marid-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/marid-xmm#^statblock|Marid]]
 
 ### Marilith
 
@@ -4447,10 +4447,10 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 
-![Marilith](/03_Mechanics/CLI/books/monster-manual-2025/img/196-13-006-mariliths.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/196-13-006-mariliths.webp#center|Marilith]]
 
 > [!embed-monster]- Marilith
-> ![Marilith](/03_Mechanics/CLI/bestiary/fiend/marilith-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/marilith-xmm#^statblock|Marilith]]
 
 ### Medusa
 
@@ -4459,7 +4459,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 - **Habitat.** Desert  
 - **Treasure.** Any  
 
-With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](/03_Mechanics/CLI/conditions.md#Petrified), such as gargoyles and gorgons.
+With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [[/03_Mechanics/CLI/conditions#Petrified|petrified]] victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [[/03_Mechanics/CLI/conditions#Petrified|petrified]] doom, while others recruit servants that are immune to being [[/03_Mechanics/CLI/conditions#Petrified|petrified]], such as gargoyles and gorgons.
 
 Medusas are born or created through preternatural circumstances. Roll on or choose a result from the Medusa Fates table to inspire what led to a medusa's creation.
 
@@ -4480,7 +4480,7 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/197-13-007-medusa.webp#center)
 
 > [!embed-monster]- Medusa
-> ![Medusa](/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm#^statblock|Medusa]]
 
 ### Mephits
 
@@ -4500,24 +4500,24 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
 
 > [!embed-monster]- Dust Mephit
-> ![Dust Mephit](/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm#^statblock|Dust Mephit]]
 
 > [!embed-monster]- Ice Mephit
-> ![Ice Mephit](/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm#^statblock|Ice Mephit]]
 
 > [!embed-monster]- Magma Mephit
-> ![Magma Mephit](/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm#^statblock|Magma Mephit]]
 
 > [!embed-monster]- Mud Mephit
-> ![Mud Mephit](/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm#^statblock|Mud Mephit]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/199-13-009-mephit-pair.webp#center)
 
 > [!embed-monster]- Smoke Mephit
-> ![Smoke Mephit](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm#^statblock|Smoke Mephit]]
 
 > [!embed-monster]- Steam Mephit
-> ![Steam Mephit](/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm#^statblock|Steam Mephit]]
 
 ### Merfolk
 
@@ -4531,10 +4531,10 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/200-13-010-merfolk.webp#center)
 
 > [!embed-monster]- Merfolk Skirmisher
-> ![Merfolk Skirmisher](/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm#^statblock|Merfolk Skirmisher]]
 
 > [!embed-monster]- Merfolk Wavebender
-> ![Merfolk Wavebender](/03_Mechanics/CLI/bestiary/elemental/merfolk-wavebender-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/merfolk-wavebender-xmm#^statblock|Merfolk Wavebender]]
 
 ### Merrow
 
@@ -4554,7 +4554,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/201-13-011-merrow.webp#center)
 
 > [!embed-monster]- Merrow
-> ![Merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm#^statblock|Merrow]]
 
 ### Mezzoloth
 
@@ -4584,7 +4584,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/202-13-012-mezzoloth.webp#center)
 
 > [!embed-monster]- Mezzoloth
-> ![Mezzoloth](/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm#^statblock|Mezzoloth]]
 
 ### Mimic
 
@@ -4672,7 +4672,7 @@ Weapon rack
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/203-13-013-mimic.webp#center)
 
 > [!embed-monster]- Mimic
-> ![Mimic](/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm#^statblock|Mimic]]
 
 ### Mind Flayers
 
@@ -4704,10 +4704,10 @@ Mind flayers are infamous plotters and manipulators, concocting plans that reach
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/204-13-014-mind-flayer.webp#center)
 
 > [!embed-monster]- Mind Flayer
-> ![Mind Flayer](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm#^statblock|Mind Flayer]]
 
 > [!embed-monster]- Mind Flayer Arcanist
-> ![Mind Flayer Arcanist](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist-xmm#^statblock|Mind Flayer Arcanist]]
 
 ### Minotaur of Baphomet
 
@@ -4735,7 +4735,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/205-13-015-minotaur.webp#center)
 
 > [!embed-monster]- Minotaur of Baphomet
-> ![Minotaur of Baphomet](/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm#^statblock|Minotaur of Baphomet]]
 
 ### Modrons
 
@@ -4777,27 +4777,27 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/206-13-016-modron-monodrone.webp#center)
 
 > [!embed-monster]- Modron Monodrone
-> ![Modron Monodrone](/03_Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/modron-monodrone-xmm#^statblock|Modron Monodrone]]
 
-![Modron Duodrone](/03_Mechanics/CLI/books/monster-manual-2025/img/207-13-017-modron-duodrone.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/207-13-017-modron-duodrone.webp#center|Modron Duodrone]]
 
 > [!embed-monster]- Modron Duodrone
-> ![Modron Duodrone](/03_Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/modron-duodrone-xmm#^statblock|Modron Duodrone]]
 
-![Modron Tridrone](/03_Mechanics/CLI/books/monster-manual-2025/img/208-13-018-modron-tridrone.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/208-13-018-modron-tridrone.webp#center|Modron Tridrone]]
 
 > [!embed-monster]- Modron Tridrone
-> ![Modron Tridrone](/03_Mechanics/CLI/bestiary/construct/modron-tridrone-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/modron-tridrone-xmm#^statblock|Modron Tridrone]]
 
-![Modron Quadrone](/03_Mechanics/CLI/books/monster-manual-2025/img/209-13-019-modron-quadrone.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/209-13-019-modron-quadrone.webp#center|Modron Quadrone]]
 
 > [!embed-monster]- Modron Quadrone
-> ![Modron Quadrone](/03_Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/modron-quadrone-xmm#^statblock|Modron Quadrone]]
 
-![Modron Pentadrone](/03_Mechanics/CLI/books/monster-manual-2025/img/210-13-020-modron-pentadrone.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/210-13-020-modron-pentadrone.webp#center|Modron Pentadrone]]
 
 > [!embed-monster]- Modron Pentadrone
-> ![Modron Pentadrone](/03_Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm#^statblock|Modron Pentadrone]]
 
 ### Mummies
 
@@ -4810,17 +4810,17 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] spell or similar magic.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/211-13-021-mummy.webp#center)
 
 > [!embed-monster]- Mummy
-> ![Mummy](/03_Mechanics/CLI/bestiary/undead/mummy-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/mummy-xmm#^statblock|Mummy]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/212-13-022-mummy-lord.webp#center)
 
 > [!embed-monster]- Mummy Lord
-> ![Mummy Lord](/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm#^statblock|Mummy Lord]]
 
 ### Myconids
 
@@ -4831,19 +4831,19 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
-![Myconids tend to the fungi...](/03_Mechanics/CLI/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members"|Myconids tend to the fungi...]]
 
 > [!embed-monster]- Myconid Sprout
-> ![Myconid Sprout](/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm#^statblock|Myconid Sprout]]
 
 > [!embed-monster]- Myconid Adult
-> ![Myconid Adult](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm#^statblock|Myconid Adult]]
 
 > [!embed-monster]- Myconid Spore Servant
-> ![Myconid Spore Servant](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm#^statblock|Myconid Spore Servant]]
 
 > [!embed-monster]- Myconid Sovereign
-> ![Myconid Sovereign](/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm#^statblock|Myconid Sovereign]]
 
 ## Monsters (N)
 
@@ -4862,10 +4862,10 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
-![Nalfeshnee](/03_Mechanics/CLI/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center|Nalfeshnee]]
 
 > [!embed-monster]- Nalfeshnee
-> ![Nalfeshnee](/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm#^statblock|Nalfeshnee]]
 
 ### Night Hag
 
@@ -4878,10 +4878,10 @@ Night hags seek mortals to torment and turn to evil. By day, night hags use supe
 
 Night hags maintain networks of nefarious customers and collect rumors from across the Lower Planes. These hags might part with their secrets in exchange for magic items and other wicked prices.
 
-![Night Hag](/03_Mechanics/CLI/books/monster-manual-2025/img/215-14-002-night-hags.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/215-14-002-night-hags.webp#center|Night Hag]]
 
 > [!embed-monster]- Night Hag
-> ![Night Hag](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm#^statblock|Night Hag]]
 
 ### Nightmare
 
@@ -4911,7 +4911,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/216-14-003-nightmares.webp#center)
 
 > [!embed-monster]- Nightmare
-> ![Nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm#^statblock|Nightmare]]
 
 ### Nobles
 
@@ -4925,10 +4925,10 @@ Nobles encompass a variety of people with social influence. They might be rulers
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/217-14-004-nobles.webp#center)
 
 > [!embed-monster]- Noble
-> ![Noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm#^statblock|Noble]]
 
 > [!embed-monster]- Noble Prodigy
-> ![Noble Prodigy](/03_Mechanics/CLI/bestiary/humanoid/noble-prodigy-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/noble-prodigy-xmm#^statblock|Noble Prodigy]]
 
 ### Nothic
 
@@ -4948,7 +4948,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
 
 > [!embed-monster]- Nothic
-> ![Nothic](/03_Mechanics/CLI/bestiary/aberration/nothic-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm#^statblock|Nothic]]
 
 ### Nycaloth
 
@@ -4978,7 +4978,7 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/219-14-006-nycaloth.webp#center)
 
 > [!embed-monster]- Nycaloth
-> ![Nycaloth](/03_Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/nycaloth-xmm#^statblock|Nycaloth]]
 
 ## Monsters (O)
 
@@ -5012,7 +5012,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/220-15-001-ochre-jelly.webp#center)
 
 > [!embed-monster]- Ochre Jelly
-> ![Ochre Jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm#^statblock|Ochre Jelly]]
 
 ### Ogres
 
@@ -5025,13 +5025,13 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
-![Ogres](/03_Mechanics/CLI/books/monster-manual-2025/img/221-15-002-ogres.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/221-15-002-ogres.webp#center|Ogres]]
 
 > [!embed-monster]- Ogre
-> ![Ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/ogre-xmm#^statblock|Ogre]]
 
 > [!embed-monster]- Ogrillon Ogre
-> ![Ogrillon Ogre](/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm#^statblock|Ogrillon Ogre]]
 
 ### Oni
 
@@ -5059,7 +5059,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/222-15-003-oni.webp#center)
 
 > [!embed-monster]- Oni
-> ![Oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/oni-xmm#^statblock|Oni]]
 
 ### Otyugh
 
@@ -5087,7 +5087,7 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/223-15-004-otyugh.webp#center)
 
 > [!embed-monster]- Otyugh
-> ![Otyugh](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm#^statblock|Otyugh]]
 
 ### Owlbears
 
@@ -5115,10 +5115,10 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/224-15-005-owlbear.webp#center)
 
 > [!embed-monster]- Owlbear
-> ![Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm#^statblock|Owlbear]]
 
 > [!embed-monster]- Primeval Owlbear
-> ![Primeval Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/primeval-owlbear-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/primeval-owlbear-xmm#^statblock|Primeval Owlbear]]
 
 ## Monsters (P)
 
@@ -5152,7 +5152,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
 
 > [!embed-monster]- Pegasus
-> ![Pegasus](/03_Mechanics/CLI/bestiary/celestial/pegasus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/pegasus-xmm#^statblock|Pegasus]]
 
 ### Performers
 
@@ -5232,13 +5232,13 @@ Wrestler
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/226-16-002-performers.webp#center)
 
 > [!embed-monster]- Performer
-> ![Performer](/03_Mechanics/CLI/bestiary/humanoid/performer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/performer-xmm#^statblock|Performer]]
 
 > [!embed-monster]- Performer Maestro
-> ![Performer Maestro](/03_Mechanics/CLI/bestiary/humanoid/performer-maestro-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/performer-maestro-xmm#^statblock|Performer Maestro]]
 
 > [!embed-monster]- Performer Legend
-> ![Performer Legend](/03_Mechanics/CLI/bestiary/humanoid/performer-legend-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/performer-legend-xmm#^statblock|Performer Legend]]
 
 ### Peryton
 
@@ -5263,10 +5263,10 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
 
-![A peryton's humanoid-shape...](/03_Mechanics/CLI/books/monster-manual-2025/img/227-16-003-peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/227-16-003-peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin"|A peryton's humanoid-shape...]]
 
 > [!embed-monster]- Peryton
-> ![Peryton](/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm#^statblock|Peryton]]
 
 ### Phase Spider
 
@@ -5286,7 +5286,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
 
 > [!embed-monster]- Phase Spider
-> ![Phase Spider](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm#^statblock|Phase Spider]]
 
 ### Piercer
 
@@ -5306,7 +5306,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/229-16-005-piercer.webp#center)
 
 > [!embed-monster]- Piercer
-> ![Piercer](/03_Mechanics/CLI/bestiary/aberration/piercer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm#^statblock|Piercer]]
 
 ### Pirates
 
@@ -5340,13 +5340,13 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/230-16-006-pirates.webp#center)
 
 > [!embed-monster]- Pirate
-> ![Pirate](/03_Mechanics/CLI/bestiary/humanoid/pirate-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/pirate-xmm#^statblock|Pirate]]
 
 > [!embed-monster]- Pirate Captain
-> ![Pirate Captain](/03_Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm#^statblock|Pirate Captain]]
 
 > [!embed-monster]- Pirate Admiral
-> ![Pirate Admiral](/03_Mechanics/CLI/bestiary/humanoid/pirate-admiral-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/pirate-admiral-xmm#^statblock|Pirate Admiral]]
 
 ### Pit Fiend
 
@@ -5364,7 +5364,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/231-16-007-pit-fiend.webp#center)
 
 > [!embed-monster]- Pit Fiend
-> ![Pit Fiend](/03_Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/pit-fiend-xmm#^statblock|Pit Fiend]]
 
 ### Pixies
 
@@ -5378,10 +5378,10 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/232-16-008-pixies.webp#center)
 
 > [!embed-monster]- Pixie
-> ![Pixie](/03_Mechanics/CLI/bestiary/fey/pixie-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/pixie-xmm#^statblock|Pixie]]
 
 > [!embed-monster]- Pixie Wonderbringer
-> ![Pixie Wonderbringer](/03_Mechanics/CLI/bestiary/fey/pixie-wonderbringer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/pixie-wonderbringer-xmm#^statblock|Pixie Wonderbringer]]
 
 ### Planetar
 
@@ -5411,7 +5411,7 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/233-16-009-planetar.webp#center)
 
 > [!embed-monster]- Planetar
-> ![Planetar](/03_Mechanics/CLI/bestiary/celestial/planetar-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/planetar-xmm#^statblock|Planetar]]
 
 ### Poltergeist
 
@@ -5443,7 +5443,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/234-16-010-poltergeist.webp#center)
 
 > [!embed-monster]- Poltergeist
-> ![Poltergeist](/03_Mechanics/CLI/bestiary/undead/poltergeist-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/poltergeist-xmm#^statblock|Poltergeist]]
 
 ### Priests
 
@@ -5481,13 +5481,13 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/235-16-011-priests.webp#center)
 
 > [!embed-monster]- Priest Acolyte
-> ![Priest Acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm#^statblock|Priest Acolyte]]
 
 > [!embed-monster]- Priest
-> ![Priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm#^statblock|Priest]]
 
 > [!embed-monster]- Archpriest
-> ![Archpriest](/03_Mechanics/CLI/bestiary/humanoid/archpriest-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/archpriest-xmm#^statblock|Archpriest]]
 
 ### Pseudodragon
 
@@ -5529,7 +5529,7 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
 
 > [!embed-monster]- Pseudodragon
-> ![Pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm#^statblock|Pseudodragon]]
 
 ### Purple Worm
 
@@ -5547,7 +5547,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/237-16-013-purple-worm.webp#center)
 
 > [!embed-monster]- Purple Worm
-> ![Purple Worm](/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm#^statblock|Purple Worm]]
 
 ## Monsters (Q)
 
@@ -5565,10 +5565,10 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/238-17-001-quaggoth.webp#center)
 
 > [!embed-monster]- Quaggoth
-> ![Quaggoth](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm#^statblock|Quaggoth]]
 
 > [!embed-monster]- Quaggoth Thonot
-> ![Quaggoth Thonot](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-thonot-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-thonot-xmm#^statblock|Quaggoth Thonot]]
 
 ### Quasit
 
@@ -5577,7 +5577,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 - **Habitat.** Planar (Abyss)  
 - **Treasure.** None  
 
-Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [invisible](/03_Mechanics/CLI/conditions.md#Invisible), quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) claws.
+Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [[/03_Mechanics/CLI/conditions#Invisible|invisible]], quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] claws.
 
 Quasits are usually overlooked and underestimated by other demons. This drives them to prove themselves through cruel acts or by seeking paths to the Material Plane. Among mortals, quasits sow senseless chaos, and they might find kindred evil spirits among violent cultists and magic-users.
 
@@ -5588,7 +5588,7 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/239-17-002-quasit.webp#center)
 
 > [!embed-monster]- Quasit
-> ![Quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm#^statblock|Quasit]]
 
 ## Monsters (R)
 
@@ -5605,10 +5605,10 @@ Rakshasas can withstand some degree of magic, but legends tell of blessed warrio
 
 Rakshasas' appearances combine humanlike bodies with the features of animals and monsters. All rakshasas have a physical oddity that remains when they adopt magical disguises, such as palms where the backs of the hands would be on humans.
 
-![Rakshasa conspirators plot their next atrocity](/03_Mechanics/CLI/books/monster-manual-2025/img/240-18-001-rakshasa.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/240-18-001-rakshasa.webp#center|Rakshasa conspirators plot their next atrocity]]
 
 > [!embed-monster]- Rakshasa
-> ![Rakshasa](/03_Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/rakshasa-xmm#^statblock|Rakshasa]]
 
 ### Red Dragons
 
@@ -5625,23 +5625,23 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 **Red Dragon Lairs.** Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
-![Red Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center|Red Dragon Wyrmling]]
 
 > [!embed-monster]- Red Dragon Wyrmling
-> ![Red Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm#^statblock|Red Dragon Wyrmling]]
 
 > [!embed-monster]- Young Red Dragon
-> ![Young Red Dragon](/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm#^statblock|Young Red Dragon]]
 
-![An adult red dragon unleas...](/03_Mechanics/CLI/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin"|An adult red dragon unleas...]]
 
 > [!embed-monster]- Adult Red Dragon
-> ![Adult Red Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm#^statblock|Adult Red Dragon]]
 
-![Even the bravest souls fle...](/03_Mechanics/CLI/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon"|Even the bravest souls fle...]]
 
 > [!embed-monster]- Ancient Red Dragon
-> ![Ancient Red Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm#^statblock|Ancient Red Dragon]]
 
 ### Remorhazes
 
@@ -5652,13 +5652,13 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
-![Young Remorhaz](/03_Mechanics/CLI/books/monster-manual-2025/img/244-18-005-remorhaz.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/244-18-005-remorhaz.webp#center|Young Remorhaz]]
 
 > [!embed-monster]- Young Remorhaz
-> ![Young Remorhaz](/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm#^statblock|Young Remorhaz]]
 
 > [!embed-monster]- Remorhaz
-> ![Remorhaz](/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm#^statblock|Remorhaz]]
 
 ### Revenants
 
@@ -5669,18 +5669,18 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
-![Revenant Followed by a Graveyard Revenant](/03_Mechanics/CLI/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center|Revenant Followed by a Graveyard Revenant]]
 
 > [!embed-monster]- Revenant
-> ![Revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/revenant-xmm#^statblock|Revenant]]
 
 > [!embed-monster]- Graveyard Revenant
-> ![Graveyard Revenant](/03_Mechanics/CLI/bestiary/undead/graveyard-revenant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/graveyard-revenant-xmm#^statblock|Graveyard Revenant]]
 
-![Haunting Revenant](/03_Mechanics/CLI/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center|Haunting Revenant]]
 
 > [!embed-monster]- Haunting Revenant
-> ![Haunting Revenant](/03_Mechanics/CLI/bestiary/undead/haunting-revenant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/haunting-revenant-xmm#^statblock|Haunting Revenant]]
 
 ### Roc
 
@@ -5710,7 +5710,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/247-18-008-roc.webp#center)
 
 > [!embed-monster]- Roc
-> ![Roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm#^statblock|Roc]]
 
 ### Roper
 
@@ -5731,7 +5731,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [Wild Magic zones](/03_Mechanics/CLI/traps-hazards/wild-magic-zone-xdmg.md). |
+| 3 | "dead magic zone" or [[/03_Mechanics/CLI/traps-hazards/wild-magic-zone-xdmg|Wild Magic zones]]. |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |
@@ -5746,7 +5746,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/248-18-009-roper.webp#center)
 
 > [!embed-monster]- Roper
-> ![Roper](/03_Mechanics/CLI/bestiary/aberration/roper-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/roper-xmm#^statblock|Roper]]
 
 ### Rust Monster
 
@@ -5760,7 +5760,7 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/249-18-010-rust-monster.webp#center)
 
 > [!embed-monster]- Rust Monster
-> ![Rust Monster](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm#^statblock|Rust Monster]]
 
 ## Monsters (S)
 
@@ -5779,16 +5779,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
-![A sahuagin baron and sahua...](/03_Mechanics/CLI/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid"|A sahuagin baron and sahua...]]
 
 > [!embed-monster]- Sahuagin Warrior
-> ![Sahuagin Warrior](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm#^statblock|Sahuagin Warrior]]
 
 > [!embed-monster]- Sahuagin Priest
-> ![Sahuagin Priest](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm#^statblock|Sahuagin Priest]]
 
 > [!embed-monster]- Sahuagin Baron
-> ![Sahuagin Baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm#^statblock|Sahuagin Baron]]
 
 ### Salamanders
 
@@ -5805,16 +5805,16 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
 
-![A salamander inferno maste...](/03_Mechanics/CLI/books/monster-manual-2025/img/251-19-002-salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/251-19-002-salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter"|A salamander inferno maste...]]
 
 > [!embed-monster]- Salamander Fire Snake
-> ![Salamander Fire Snake](/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm#^statblock|Salamander Fire Snake]]
 
 > [!embed-monster]- Salamander
-> ![Salamander](/03_Mechanics/CLI/bestiary/elemental/salamander-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/salamander-xmm#^statblock|Salamander]]
 
 > [!embed-monster]- Salamander Inferno Master
-> ![Salamander Inferno Master](/03_Mechanics/CLI/bestiary/elemental/salamander-inferno-master-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/salamander-inferno-master-xmm#^statblock|Salamander Inferno Master]]
 
 ### Satyrs
 
@@ -5828,10 +5828,10 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
 
 > [!embed-monster]- Satyr
-> ![Satyr](/03_Mechanics/CLI/bestiary/fey/satyr-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/satyr-xmm#^statblock|Satyr]]
 
 > [!embed-monster]- Satyr Revelmaster
-> ![Satyr Revelmaster](/03_Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm#^statblock|Satyr Revelmaster]]
 
 ### Scarecrow
 
@@ -5863,7 +5863,7 @@ Although scarecrows take their name from rural effigies, they might take varied 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/253-19-004-scarecrow.webp#center)
 
 > [!embed-monster]- Scarecrow
-> ![Scarecrow](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm#^statblock|Scarecrow]]
 
 ### Scouts
 
@@ -5877,10 +5877,10 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/254-19-005-scouts.webp#center)
 
 > [!embed-monster]- Scout
-> ![Scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm#^statblock|Scout]]
 
 > [!embed-monster]- Scout Captain
-> ![Scout Captain](/03_Mechanics/CLI/bestiary/humanoid/scout-captain-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/scout-captain-xmm#^statblock|Scout Captain]]
 
 ### Sea Hag
 
@@ -5889,7 +5889,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 - **Habitat.** Coastal, Underwater  
 - **Treasure.** Arcana  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](/03_Mechanics/CLI/conditions.md#Frightened) by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [[/03_Mechanics/CLI/conditions#Frightened|frightened]] by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 
@@ -5910,7 +5910,7 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/255-19-006-sea-hag.webp#center)
 
 > [!embed-monster]- Sea Hag
-> ![Sea Hag](/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm#^statblock|Sea Hag]]
 
 ### Shadow
 
@@ -5942,7 +5942,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/256-19-007-shadow.webp#center)
 
 > [!embed-monster]- Shadow
-> ![Shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/shadow-xmm#^statblock|Shadow]]
 
 ### Shadow Demon
 
@@ -5966,7 +5966,7 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
 
 > [!embed-monster]- Shadow Demon
-> ![Shadow Demon](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm#^statblock|Shadow Demon]]
 
 ### Shadow Dragons
 
@@ -5987,13 +5987,13 @@ Like many other dragons, shadow dragons collect hoards. Their tastes tend to be 
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
-![A shadow dragon lurks amon...](/03_Mechanics/CLI/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath"|A shadow dragon lurks amon...]]
 
 > [!embed-monster]- Juvenile Shadow Dragon
-> ![Juvenile Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/juvenile-shadow-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/juvenile-shadow-dragon-xmm#^statblock|Juvenile Shadow Dragon]]
 
 > [!embed-monster]- Shadow Dragon
-> ![Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm#^statblock|Shadow Dragon]]
 
 ### Shambling Mound
 
@@ -6023,7 +6023,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/259-19-010-shambling-mound.webp#center)
 
 > [!embed-monster]- Shambling Mound
-> ![Shambling Mound](/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm#^statblock|Shambling Mound]]
 
 ### Shield Guardian
 
@@ -6039,7 +6039,7 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/260-19-011-shield-guardian.webp#center)
 
 > [!embed-monster]- Shield Guardian
-> ![Shield Guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm#^statblock|Shield Guardian]]
 
 ### Silver Dragons
 
@@ -6057,22 +6057,22 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 **Silver Dragon Lairs.** Silver dragons typically lair in picturesque mountain retreats or on sculpted cloud "islands."
 
 > [!embed-monster]- Silver Dragon Wyrmling
-> ![Silver Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm#^statblock|Silver Dragon Wyrmling]]
 
-![Silver Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/261-19-012-silver-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/261-19-012-silver-dragon-wyrmling.webp#center|Silver Dragon Wyrmling]]
 
 > [!embed-monster]- Young Silver Dragon
-> ![Young Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm#^statblock|Young Silver Dragon]]
 
-![An adult silver dragon rel...](/03_Mechanics/CLI/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers"|An adult silver dragon rel...]]
 
 > [!embed-monster]- Adult Silver Dragon
-> ![Adult Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm#^statblock|Adult Silver Dragon]]
 
-![The sight of an ancient si...](/03_Mechanics/CLI/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers"|The sight of an ancient si...]]
 
 > [!embed-monster]- Ancient Silver Dragon
-> ![Ancient Silver Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm#^statblock|Ancient Silver Dragon]]
 
 ### Skeletons
 
@@ -6097,19 +6097,19 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
-![Adventurers face an onslau...](/03_Mechanics/CLI/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons"|Adventurers face an onslau...]]
 
 > [!embed-monster]- Skeleton
-> ![Skeleton](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm#^statblock|Skeleton]]
 
 > [!embed-monster]- Warhorse Skeleton
-> ![Warhorse Skeleton](/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm#^statblock|Warhorse Skeleton]]
 
 > [!embed-monster]- Minotaur Skeleton
-> ![Minotaur Skeleton](/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm#^statblock|Minotaur Skeleton]]
 
 > [!embed-monster]- Flaming Skeleton
-> ![Flaming Skeleton](/03_Mechanics/CLI/bestiary/undead/flaming-skeleton-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/flaming-skeleton-xmm#^statblock|Flaming Skeleton]]
 
 ### Slaadi
 
@@ -6124,36 +6124,36 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](/03_Mechanics/CLI/conditions.md#Charmed).
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[/03_Mechanics/CLI/conditions#Charmed|Charmed]].
 > 
-> One can obtain a slaad's control gem using a [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) or [Imprisonment](/03_Mechanics/CLI/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](/03_Mechanics/CLI/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] or [[/03_Mechanics/CLI/spells/imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[/03_Mechanics/CLI/spells/imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
-![A red slaad and blue slaad...](/03_Mechanics/CLI/books/monster-manual-2025/img/265-19-016-slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/265-19-016-slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo"|A red slaad and blue slaad...]]
 
 > [!embed-monster]- Slaad Tadpole
-> ![Slaad Tadpole](/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm#^statblock|Slaad Tadpole]]
 
 > [!embed-monster]- Red Slaad
-> ![Red Slaad](/03_Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/red-slaad-xmm#^statblock|Red Slaad]]
 
 > [!embed-monster]- Blue Slaad
-> ![Blue Slaad](/03_Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/blue-slaad-xmm#^statblock|Blue Slaad]]
 
-![A gray slaad, a death slaa...](/03_Mechanics/CLI/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake"|A gray slaad, a death slaa...]]
 
 > [!embed-monster]- Green Slaad
-> ![Green Slaad](/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm#^statblock|Green Slaad]]
 
 > [!embed-monster]- Gray Slaad
-> ![Gray Slaad](/03_Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/gray-slaad-xmm#^statblock|Gray Slaad]]
 
 > [!embed-monster]- Death Slaad
-> ![Death Slaad](/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm#^statblock|Death Slaad]]
 
 ### Solar
 
@@ -6166,10 +6166,10 @@ Solars stand as the final line of defense between unspeakable evils and the orde
 
 Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
 
-![Solar](/03_Mechanics/CLI/books/monster-manual-2025/img/267-19-018-solar.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/267-19-018-solar.webp#center|Solar]]
 
 > [!embed-monster]- Solar
-> ![Solar](/03_Mechanics/CLI/bestiary/celestial/solar-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/solar-xmm#^statblock|Solar]]
 
 ### Spectator
 
@@ -6187,7 +6187,7 @@ At the end of its service, a spectator might discorporate back into nothingness 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/268-19-019-spectator.webp#center)
 
 > [!embed-monster]- Spectator
-> ![Spectator](/03_Mechanics/CLI/bestiary/aberration/spectator-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/aberration/spectator-xmm#^statblock|Spectator]]
 
 ### Specter
 
@@ -6216,10 +6216,10 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
 
-![Specters are loath to atta...](/03_Mechanics/CLI/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light"|Specters are loath to atta...]]
 
 > [!embed-monster]- Specter
-> ![Specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/specter-xmm#^statblock|Specter]]
 
 ### Sphinxes
 
@@ -6248,22 +6248,22 @@ Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/270-19-021-sphinx-of-wonder.webp#center)
 
 > [!embed-monster]- Sphinx of Wonder
-> ![Sphinx of Wonder](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm#^statblock|Sphinx of Wonder]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/271-19-022-sphinx-of-secrets.webp#center)
 
 > [!embed-monster]- Sphinx of Secrets
-> ![Sphinx of Secrets](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-secrets-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-secrets-xmm#^statblock|Sphinx of Secrets]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/272-19-023-sphinx-of-lore.webp#center)
 
 > [!embed-monster]- Sphinx of Lore
-> ![Sphinx of Lore](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm#^statblock|Sphinx of Lore]]
 
-![Sphinx of Valor](/03_Mechanics/CLI/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center|Sphinx of Valor]]
 
 > [!embed-monster]- Sphinx of Valor
-> ![Sphinx of Valor](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm#^statblock|Sphinx of Valor]]
 
 ### Spies
 
@@ -6289,10 +6289,10 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/274-19-025-spies.webp#center)
 
 > [!embed-monster]- Spy
-> ![Spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm#^statblock|Spy]]
 
 > [!embed-monster]- Spy Master
-> ![Spy Master](/03_Mechanics/CLI/bestiary/humanoid/spy-master-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/spy-master-xmm#^statblock|Spy Master]]
 
 ### Spined Devil
 
@@ -6320,7 +6320,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/275-19-026-spined-devil.webp#center)
 
 > [!embed-monster]- Spined Devil
-> ![Spined Devil](/03_Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/spined-devil-xmm#^statblock|Spined Devil]]
 
 ### Spirit Naga
 
@@ -6350,7 +6350,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/276-19-027-spirit-naga.webp#center)
 
 > [!embed-monster]- Spirit Naga
-> ![Spirit Naga](/03_Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/spirit-naga-xmm#^statblock|Spirit Naga]]
 
 ### Sprite
 
@@ -6361,7 +6361,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
-Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](/03_Mechanics/CLI/conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
+Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [[/03_Mechanics/CLI/conditions#Invisible|invisible]] sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
@@ -6372,7 +6372,7 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/277-19-028-sprites.webp#center)
 
 > [!embed-monster]- Sprite
-> ![Sprite](/03_Mechanics/CLI/bestiary/fey/sprite-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/sprite-xmm#^statblock|Sprite]]
 
 ### Stirges
 
@@ -6395,13 +6395,13 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
-![Stirge](/03_Mechanics/CLI/books/monster-manual-2025/img/278-19-029-stirges.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/278-19-029-stirges.webp#center|Stirge]]
 
 > [!embed-monster]- Stirge
-> ![Stirge](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm#^statblock|Stirge]]
 
 > [!embed-monster]- Swarm of Stirges
-> ![Swarm of Stirges](/03_Mechanics/CLI/bestiary/monstrosity/swarm-of-stirges-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/swarm-of-stirges-xmm#^statblock|Swarm of Stirges]]
 
 ### Stone Giant
 
@@ -6419,7 +6419,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/279-19-030-stone-giants.webp#center)
 
 > [!embed-monster]- Stone Giant
-> ![Stone Giant](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm#^statblock|Stone Giant]]
 
 ### Stone Golem
 
@@ -6439,7 +6439,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [Slow](/03_Mechanics/CLI/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [[/03_Mechanics/CLI/spells/slow-xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -6453,7 +6453,7 @@ Stone golems are typically created to protect places of significance to a group,
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
 
 > [!embed-monster]- Stone Golem
-> ![Stone Golem](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm#^statblock|Stone Golem]]
 
 ### Storm Giant
 
@@ -6467,7 +6467,7 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/281-19-032-storm-giant.webp#center)
 
 > [!embed-monster]- Storm Giant
-> ![Storm Giant](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm#^statblock|Storm Giant]]
 
 ### Succubus
 
@@ -6497,7 +6497,7 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/282-19-033-succubus.webp#center)
 
 > [!embed-monster]- Succubus
-> ![Succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm#^statblock|Succubus]]
 
 ## Monsters (T)
 
@@ -6533,7 +6533,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/283-20-001-tarrasque.webp#center)
 
 > [!embed-monster]- Tarrasque
-> ![Tarrasque](/03_Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm#^statblock|Tarrasque]]
 
 ### Thri-kreen
 
@@ -6551,10 +6551,10 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/284-20-002-thri-kreen.webp#center)
 
 > [!embed-monster]- Thri-kreen Marauder
-> ![Thri-kreen Marauder](/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm#^statblock|Thri-kreen Marauder]]
 
 > [!embed-monster]- Thri-kreen Psion
-> ![Thri-kreen Psion](/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm#^statblock|Thri-kreen Psion]]
 
 ### Toughs
 
@@ -6570,12 +6570,12 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 > [!embed-monster]- Tough
-> ![Tough](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm#^statblock|Tough]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/285-20-003-toughs.webp#center)
 
 > [!embed-monster]- Tough Boss
-> ![Tough Boss](/03_Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/tough-boss-xmm#^statblock|Tough Boss]]
 
 ### Treant
 
@@ -6602,10 +6602,10 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
 
-![A treant evicts adventurer...](/03_Mechanics/CLI/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature"|A treant evicts adventurer...]]
 
 > [!embed-monster]- Treant
-> ![Treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/plant/treant-xmm#^statblock|Treant]]
 
 ### Troglodyte
 
@@ -6625,7 +6625,7 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/287-20-005-troglodyte.webp#center)
 
 > [!embed-monster]- Troglodyte
-> ![Troglodyte](/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm#^statblock|Troglodyte]]
 
 ### Troll
 
@@ -6638,13 +6638,13 @@ Trolls creep forth to prey on smaller creatures and drag captives back to fester
 
 Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
 
-![Troll](/03_Mechanics/CLI/books/monster-manual-2025/img/288-20-006-troll.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/288-20-006-troll.webp#center|Troll]]
 
 > [!embed-monster]- Troll
-> ![Troll](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/troll-xmm#^statblock|Troll]]
 
 > [!embed-monster]- Troll Limb
-> ![Troll Limb](/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/giant/troll-limb-xmm#^statblock|Troll Limb]]
 
 ## Monsters (U)
 
@@ -6676,7 +6676,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/289-21-001-ultraloth.webp#center)
 
 > [!embed-monster]- Ultroloth
-> ![Ultroloth](/03_Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/ultroloth-xmm#^statblock|Ultroloth]]
 
 ### Umber Hulk
 
@@ -6692,7 +6692,7 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/290-21-002-umber-hulk.webp#center)
 
 > [!embed-monster]- Umber Hulk
-> ![Umber Hulk](/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm#^statblock|Umber Hulk]]
 
 ### Unicorn
 
@@ -6708,7 +6708,7 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/291-21-003-unicorn.webp#center)
 
 > [!embed-monster]- Unicorn
-> ![Unicorn](/03_Mechanics/CLI/bestiary/celestial/unicorn-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/celestial/unicorn-xmm#^statblock|Unicorn]]
 
 ## Monsters (V)
 
@@ -6743,28 +6743,28 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 > 
 > Darling, you are simply delicious...
 
-![A vampire familiar provide...](/03_Mechanics/CLI/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn"|A vampire familiar provide...]]
 
 > [!embed-monster]- Vampire Familiar
-> ![Vampire Familiar](/03_Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm#^statblock|Vampire Familiar]]
 
 > [!embed-monster]- Vampire Spawn
-> ![Vampire Spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm#^statblock|Vampire Spawn]]
 
-![Vampire Nightbringer](/03_Mechanics/CLI/books/monster-manual-2025/img/293-22-002-vampire-spawn.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/293-22-002-vampire-spawn.webp#center|Vampire Nightbringer]]
 
 > [!embed-monster]- Vampire Nightbringer
-> ![Vampire Nightbringer](/03_Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm#^statblock|Vampire Nightbringer]]
 
-![Vampires prepare for a midnight meal](/03_Mechanics/CLI/books/monster-manual-2025/img/294-22-003-vampire-group.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/294-22-003-vampire-group.webp#center|Vampires prepare for a midnight meal]]
 
 > [!embed-monster]- Vampire
-> ![Vampire](/03_Mechanics/CLI/bestiary/undead/vampire-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/vampire-xmm#^statblock|Vampire]]
 
-![Vampire Umbral Lord](/03_Mechanics/CLI/books/monster-manual-2025/img/295-22-004-vampire-umbral-lord.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/295-22-004-vampire-umbral-lord.webp#center|Vampire Umbral Lord]]
 
 > [!embed-monster]- Vampire Umbral Lord
-> ![Vampire Umbral Lord](/03_Mechanics/CLI/bestiary/undead/vampire-umbral-lord-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/vampire-umbral-lord-xmm#^statblock|Vampire Umbral Lord]]
 
 ### Vrock
 
@@ -6775,10 +6775,10 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 
 Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and slaughter. Their filthy feathers carry magical toxins from the Lower Planes, creating a noxious cloud capable of killing those who escape the vrocks' vicious beaks and claws. To further terrorize their foes, vrocks unleash an otherworldly screech so terrible it can halt creatures in their tracks.
 
-![Vrock](/03_Mechanics/CLI/books/monster-manual-2025/img/296-22-005-vrock.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/296-22-005-vrock.webp#center|Vrock]]
 
 > [!embed-monster]- Vrock
-> ![Vrock](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm#^statblock|Vrock]]
 
 ## Monsters (W)
 
@@ -6815,16 +6815,16 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
-![An aasimar commander leads...](/03_Mechanics/CLI/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle"|An aasimar commander leads...]]
 
 > [!embed-monster]- Warrior Infantry
-> ![Warrior Infantry](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm#^statblock|Warrior Infantry]]
 
 > [!embed-monster]- Warrior Veteran
-> ![Warrior Veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm#^statblock|Warrior Veteran]]
 
 > [!embed-monster]- Warrior Commander
-> ![Warrior Commander](/03_Mechanics/CLI/bestiary/humanoid/warrior-commander-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/humanoid/warrior-commander-xmm#^statblock|Warrior Commander]]
 
 ### Water Elemental
 
@@ -6853,10 +6853,10 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
-![Water Elemental](/03_Mechanics/CLI/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center|Water Elemental]]
 
 > [!embed-monster]- Water Elemental
-> ![Water Elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm#^statblock|Water Elemental]]
 
 ### Water Weird
 
@@ -6874,7 +6874,7 @@ Water weirds might protect a site for generations and learn much about their sur
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
 > [!embed-monster]- Water Weird
-> ![Water Weird](/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm#^statblock|Water Weird]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/299-23-003-water-weird.webp#center)
 
@@ -6888,7 +6888,7 @@ Water weirds might protect a site for generations and learn much about their sur
 When threatened or compelled by magic, werebears shape-shift from their humanoid forms into mighty bears or hybrids of those two forms. They scare off or sabotage those who threaten the wilds, and they frequently aid Fey, druids, or spirits of the wilderness, as many owe their magical nature to such forces. Werebears take the shape of bears common to the regions in which they dwell, with brown and polar bear forms being common.
 
 > [!embed-monster]- Werebear
-> ![Werebear](/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm#^statblock|Werebear]]
 
 ### Wereboar
 
@@ -6900,9 +6900,9 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-boar hybrids. Many wereboars suffer their shape-shifting nature as a curse, with some involuntarily transforming any time they perform a greedy act or indulge their selfish nature.
 
 > [!embed-monster]- Wereboar
-> ![Wereboar](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm#^statblock|Wereboar]]
 
-![A werebear chases a werebo...](/03_Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory"|A werebear chases a werebo...]]
 
 ### Wererat
 
@@ -6914,7 +6914,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 Wererats can shape-shift from their humanoid forms into giant rats or humanoid-rat hybrids. These creatures can transform voluntarily, but some are magically compelled to shape-shift when exposed to complete darkness or during nights of a new moon. Often, wererats' nature results from a divine curse—punishment for their deceitful natures or the crimes of their treacherous families. Wererats frequently work in groups, forming bandit gangs or thieves' guilds.
 
 > [!embed-monster]- Wererat
-> ![Wererat](/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm#^statblock|Wererat]]
 
 ### Weretiger
 
@@ -6944,7 +6944,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/301-23-005-weretiger.webp#center)
 
 > [!embed-monster]- Weretiger
-> ![Weretiger](/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm#^statblock|Weretiger]]
 
 ### Werewolf
 
@@ -6955,10 +6955,10 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 
 Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid hybrids. Werewolves can shape-shift voluntarily, but many can't resist transforming during the nights of a full moon.
 
-![Werewolf](/03_Mechanics/CLI/books/monster-manual-2025/img/302-23-006-werewolf.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/302-23-006-werewolf.webp#center|Werewolf]]
 
 > [!embed-monster]- Werewolf
-> ![Werewolf](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm#^statblock|Werewolf]]
 
 ### White Dragons
 
@@ -6973,23 +6973,23 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 **White Dragon Lairs.** White dragons brood in bitterly cold lairs clawed from stone and ice.
 
-![White Dragon Wyrmling](/03_Mechanics/CLI/books/monster-manual-2025/img/303-23-007-white-dragon-wyrmling.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/303-23-007-white-dragon-wyrmling.webp#center|White Dragon Wyrmling]]
 
 > [!embed-monster]- White Dragon Wyrmling
-> ![White Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm#^statblock|White Dragon Wyrmling]]
 
 > [!embed-monster]- Young White Dragon
-> ![Young White Dragon](/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm#^statblock|Young White Dragon]]
 
-![An adult white dragon view...](/03_Mechanics/CLI/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey"|An adult white dragon view...]]
 
 > [!embed-monster]- Adult White Dragon
-> ![Adult White Dragon](/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm#^statblock|Adult White Dragon]]
 
-![An ancient white dragon fr...](/03_Mechanics/CLI/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory"|An ancient white dragon fr...]]
 
 > [!embed-monster]- Ancient White Dragon
-> ![Ancient White Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm#^statblock|Ancient White Dragon]]
 
 ### Wight
 
@@ -7023,7 +7023,7 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/306-23-010-wight.webp#center)
 
 > [!embed-monster]- Wight
-> ![Wight](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/wight-xmm#^statblock|Wight]]
 
 ### Will-o'-Wisp
 
@@ -7053,7 +7053,7 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/307-23-011-will-o-wisp.webp#center)
 
 > [!embed-monster]- Will-o'-Wisp
-> ![Will-o'-Wisp](/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm#^statblock|Will-o'-Wisp]]
 
 ### Winter Wolf
 
@@ -7072,10 +7072,10 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
-![Winter Wolf](/03_Mechanics/CLI/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center|Winter Wolf]]
 
 > [!embed-monster]- Winter Wolf
-> ![Winter Wolf](/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm#^statblock|Winter Wolf]]
 
 ### Worgs
 
@@ -7086,13 +7086,13 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
-![Worg](/03_Mechanics/CLI/books/monster-manual-2025/img/309-23-013-worg.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/309-23-013-worg.webp#center|Worg]]
 
 > [!embed-monster]- Worg
-> ![Worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/worg-xmm#^statblock|Worg]]
 
 > [!embed-monster]- Dire Worg
-> ![Dire Worg](/03_Mechanics/CLI/bestiary/fey/dire-worg-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fey/dire-worg-xmm#^statblock|Dire Worg]]
 
 ### Wraith
 
@@ -7128,7 +7128,7 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/310-23-014-wraith.webp#center)
 
 > [!embed-monster]- Wraith
-> ![Wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/wraith-xmm#^statblock|Wraith]]
 
 ### Wyvern
 
@@ -7146,7 +7146,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/311-23-015-wyvern.webp#center)
 
 > [!embed-monster]- Wyvern
-> ![Wyvern](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm#^statblock|Wyvern]]
 
 ## Monsters (X)
 
@@ -7184,7 +7184,7 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/312-24-001-xorn.webp#center)
 
 > [!embed-monster]- Xorn
-> ![Xorn](/03_Mechanics/CLI/bestiary/elemental/xorn-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/elemental/xorn-xmm#^statblock|Xorn]]
 
 ## Monsters (Y)
 
@@ -7206,12 +7206,12 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/313-25-001-yeti.webp#center)
 
 > [!embed-monster]- Yeti
-> ![Yeti](/03_Mechanics/CLI/bestiary/monstrosity/yeti-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yeti-xmm#^statblock|Yeti]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/314-25-002-abominable-yeti.webp#center)
 
 > [!embed-monster]- Abominable Yeti
-> ![Abominable Yeti](/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm#^statblock|Abominable Yeti]]
 
 ### Yochlol
 
@@ -7229,7 +7229,7 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/315-25-003-yochlol.webp#center)
 
 > [!embed-monster]- Yochlol
-> ![Yochlol](/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm#^statblock|Yochlol]]
 
 ### Yuan-ti
 
@@ -7265,25 +7265,25 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/316-25-004-yuan-ti-infiltrators.webp#center)
 
 > [!embed-monster]- Yuan-ti Infiltrator
-> ![Yuan-ti Infiltrator](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm#^statblock|Yuan-ti Infiltrator]]
 
-![Yuan-ti Malison Type 1 (Left) and Type 2 (Right)](/03_Mechanics/CLI/books/monster-manual-2025/img/317-25-005-yuan-ti-malisons.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/317-25-005-yuan-ti-malisons.webp#center|Yuan-ti Malison Type 1 (Left) and Type 2 (Right)]]
 
 > [!embed-monster]- Yuan-ti Malison (Type 1)
-> ![Yuan-ti Malison (Type 1)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm#^statblock|Yuan-ti Malison (Type 1)]]
 
 > [!embed-monster]- Yuan-ti Malison (Type 2)
-> ![Yuan-ti Malison (Type 2)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm#^statblock|Yuan-ti Malison (Type 2)]]
 
-![Yuan-ti Malison (Type 3)](/03_Mechanics/CLI/books/monster-manual-2025/img/318-25-006-yuan-ti-malison-type-3.webp#center)
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/318-25-006-yuan-ti-malison-type-3.webp#center|Yuan-ti Malison (Type 3)]]
 
 > [!embed-monster]- Yuan-ti Malison (Type 3)
-> ![Yuan-ti Malison (Type 3)](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm#^statblock|Yuan-ti Malison (Type 3)]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/319-25-007-yuan-ti-abomination.webp#center)
 
 > [!embed-monster]- Yuan-ti Abomination
-> ![Yuan-ti Abomination](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm#^statblock|Yuan-ti Abomination]]
 
 ### Zombies
 
@@ -7300,16 +7300,16 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
-![A tiefling tries to hide i...](/03_Mechanics/CLI/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde")
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde"|A tiefling tries to hide i...]]
 
 > [!embed-monster]- Zombie
-> ![Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/zombie-xmm#^statblock|Zombie]]
 
 > [!embed-monster]- Ogre Zombie
-> ![Ogre Zombie](/03_Mechanics/CLI/bestiary/undead/ogre-zombie-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/ogre-zombie-xmm#^statblock|Ogre Zombie]]
 
 > [!embed-monster]- Beholder Zombie
-> ![Beholder Zombie](/03_Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md#^statblock)
+> ![[/03_Mechanics/CLI/bestiary/undead/beholder-zombie-xmm#^statblock|Beholder Zombie]]
 
 ## Player-Facing Summary
 

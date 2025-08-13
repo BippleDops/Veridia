@@ -479,17 +479,17 @@ Involvement with Chamber operations provides numerous opportunities for characte
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Tidal Chamber technology
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional integration projects
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Complementary technology working with Chamber systems
-- [[02_Worldbuilding/Lore/Underwater Breathing]] - Life support technology supported by Chamber operations
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Chamber facilities
-- [[02_Worldbuilding/People/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
-- [[02_Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
-- [[02_Worldbuilding/People/Bio-Tech Supervisor Reef Lifeweaver]] - Bio-magical systems specialist
-- [[02_Worldbuilding/People/Pressure Master Current Depthwright]] - Pressure systems operations manager
-- [[02_Worldbuilding/People/Quality Inspector Wave Purewater]] - Water quality control specialist
-- [[02_Worldbuilding/People/Emergency Coordinator Storm Quickfix]] - Crisis response team leader
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Tidal Chamber technology
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional integration projects
+- [[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]] - Complementary technology working with Chamber systems
+- [[02_Worldbuilding/Lore/Underwater Breathing|02 Worldbuilding/Lore/Underwater Breathing]] - Life support technology supported by Chamber operations
+- [[02_Worldbuilding/Groups/The Deepwatch Guard|02 Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Chamber facilities
+- [[02_Worldbuilding/People/Master Tidal Engineer Coral Wavewright|02 Worldbuilding/People/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
+- [[02_Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster|02 Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
+- [[02_Worldbuilding/People/Bio-Tech Supervisor Reef Lifeweaver|02 Worldbuilding/People/Bio Tech Supervisor Reef Lifeweaver]] - Bio-magical systems specialist
+- [[02_Worldbuilding/People/Pressure Master Current Depthwright|02 Worldbuilding/People/Pressure Master Current Depthwright]] - Pressure systems operations manager
+- [[02_Worldbuilding/People/Quality Inspector Wave Purewater|02 Worldbuilding/People/Quality Inspector Wave Purewater]] - Water quality control specialist
+- [[02_Worldbuilding/People/Emergency Coordinator Storm Quickfix|02 Worldbuilding/People/Emergency Coordinator Storm Quickfix]] - Crisis response team leader
 
 The Tidal Chambers stand as testament to the ingenuity and ambition of Aquabyssos civilization, representing not merely an engineering achievement but a fundamental transformation of the relationship between sentient beings and the forces of nature. Through these systems, the citizens of Aquabyssos have not conquered the ocean but learned to dance with it, creating a harmony between technological advancement and environmental stewardship that offers hope for sustainable underwater civilization.
 
@@ -524,7 +524,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
 - [[The Deepwatch Guard]]
 - [[Aethermoor]]
 - [[Pressure Tubes]]

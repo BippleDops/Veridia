@@ -30,15 +30,15 @@ world: Both
 - **Components:** V, S, M (a lodestone and dust)
 - **Duration:** Instantaneous
 
-You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by [Wall of Force](/03_Mechanics/CLI/spells/wall-of-force-xphb.md).
+You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by [[/03_Mechanics/CLI/spells/wall-of-force-xphb|Wall of Force]].
 
-A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes `10d6 + 40` Force damage. If this damage reduces it to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [True Resurrection](/03_Mechanics/CLI/spells/true-resurrection-xphb.md) or a [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell.
+A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes `10d6 + 40` Force damage. If this damage reduces it to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [[/03_Mechanics/CLI/spells/true-resurrection-xphb|True Resurrection]] or a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-[Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) portion of it.
+This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-[[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] portion of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `3d6` for each spell slot level above 6.
 
-**Classes**: [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

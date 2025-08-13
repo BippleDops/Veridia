@@ -11,13 +11,13 @@ tags:
 session_number: 2
 title: The Parliament's Paradox
 date_played: null
-location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Debate Chambers'
 depth: 1,800 feet
 npcs_featured:
 - '[[Senator Glaucus]]'
 - '[[The Forgotten Representative]]'
 - '[[Time-Lost Delegate Chronus]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
 quests_advanced:
 - '[[Shadow Conspiracy Investigation]]'
 - '[[Temporal Anomaly Resolution]]'
@@ -288,7 +288,7 @@ During the night, the party witnesses their shadows having a meeting without the
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

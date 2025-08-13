@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thalia Stormguard]]
+- [[02_Worldbuilding/People/Captain Thalia Stormguard|02 Worldbuilding/People/Captain Thalia Stormguard]]
 
 <!-- enriched: true -->
 

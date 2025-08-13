@@ -21,10 +21,10 @@ world: Both
 
 | Proficiency | Items |
 |-------------|-------|
-| [Herbalism kit](/03_Mechanics/CLI/items/herbalism-kit-xphb.md) | Antitoxin, potion of healing |
-| [Leatherworker's tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md) | Leather armor, boots |
-| [Smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md) | Armor, weapons |
-| [Weaver's tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md) | Cloaks, robes |
+| [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism kit]] | Antitoxin, potion of healing |
+| [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|Leatherworker's tools]] | Leather armor, boots |
+| [[/03_Mechanics/CLI/items/smiths-tools-xphb|Smith's tools]] | Armor, weapons |
+| [[/03_Mechanics/CLI/items/weavers-tools-xphb|Weaver's tools]] | Cloaks, robes |
 ^proficiency-items
 
 ## Player-Facing Summary

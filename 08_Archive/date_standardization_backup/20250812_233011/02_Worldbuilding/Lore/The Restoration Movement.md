@@ -163,7 +163,7 @@ The Sacred Covenant Brotherhood represents the most militant faction within the 
 
 ### The Evolutionary Traditionalists
 
-**Leader**: [[02_Worldbuilding/Groups/Cultural-Sage Deep-Memor]]
+**Leader**: [[02_Worldbuilding/Groups/Cultural-Sage Deep-Memor|02 Worldbuilding/Groups/Cultural Sage Deep Memor]]
 **Philosophy**: Cultural restoration within flexible political frameworks
 **Methods**: Education, cultural preservation, intellectual development
 **Membership**: ~20,000 scholars, artists, and cultural practitioners
@@ -321,7 +321,7 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 **Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[Deep Mother Cult Practices]] sacred locations that complicate simple cultural preservation projects.
 
-**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[02_Worldbuilding/Quests/Aquabyssos]]'s collections, exploration of [[Leviathan Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
+**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'s collections, exploration of [[Leviathan Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
 
 **Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes using [[Reputation System]] diplomatic mechanics, protecting religious freedom while investigating connections to [[Memory Trader]] memory manipulation, or uncovering alleged religious persecution by [[Silver Mask]] infiltrators in government positions.
 
@@ -402,7 +402,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Crystal Forest]]
 - [[Evidence Chain Analysis]]
 - [[Interrogation Techniques]]

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beholder-zombie-xmm-beholder-zombie-xmm.svg)
 
-# [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm|Beholder Zombie]]
 *Source: Monster Manual (2024) p. 347*  
 
 Zombies animated from the corpses of beholders retain some use of those monsters' magical eyestalks. These hovering corpses rely on their magic to destroy impediments and paralyze foes, allowing them to savage foes with their rotting maws.
@@ -71,16 +71,16 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+  - "desc": "If damage reduces the zombie to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
       \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ damage is Radiant or from a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]].\
+      \ On a successful save, the zombie drops to 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
       \ instead."
     "name": "Undead Fortitude"
 "actions":
@@ -91,21 +91,21 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
   - "desc": "The zombie randomly shoots one of the following magical rays at a target\
       \ it can see within 120 feet of itself (roll d4; reroll if the zombie has already\
       \ used that ray during this turn):\n\n- 1 Paralyzing Ray. Constitution\
-      \ Saving Throw: DC 14. Failure: The target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ Saving Throw: DC 14. Failure: The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 2 Fear Ray. Wisdom Saving Throw: DC 14. Failure: 13 (3d8) Psychic\
-      \ damage, and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
       \ condition until the end of its next turn.  \n- 3 Enervation Ray. Constitution\
       \ Saving Throw: DC 14. Failure: 10 (3d6) Necrotic damage, and the target\
-      \ has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition until\
-      \ the end of its next turn. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition until\
+      \ the end of its next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
       \ Success: Half damage only.  \n- 4 Disintegration Ray. Dexterity Saving\
       \ Throw: DC 14. Failure: 27 (5d10) Force damage. If the target is a nonmagical\
-      \ object or a creation of magical force, a 10-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ object or a creation of magical force, a 10-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
       \ of it disintegrates into dust. Success: Half damage. Failure or Success:\
-      \ If the target is a creature and this damage reduces it to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ If the target is a creature and this damage reduces it to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
       \ it disintegrates into dust.  "
     "name": "Eye Rays"
 "source":

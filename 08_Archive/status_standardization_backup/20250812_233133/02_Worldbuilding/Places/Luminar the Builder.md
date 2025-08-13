@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Luminar the Builder]]
+- [[02_Worldbuilding/Places/Luminar the Builder|02 Worldbuilding/Places/Luminar The Builder]]
 
 <!-- enriched: true -->
 

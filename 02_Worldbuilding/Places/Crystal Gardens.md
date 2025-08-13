@@ -29,7 +29,7 @@ world: Both
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -461,7 +461,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Sage Iris Crystalbloom]]
 - [[Queen Seraphina Lumengarde]]
 - [[Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Crystal Cultivators Guil]]
+- [[02_Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
 
 **Related Items and Concepts**:
 - [[Aether Crystals]]
@@ -481,7 +481,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Old Sally Seasprayer]]
 - [[The Crystalline Foundry]]
 - [[Quest - Nature's Balance]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -503,7 +503,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]
 
 <!-- enriched: true -->
 - [[Purist Coalition]]

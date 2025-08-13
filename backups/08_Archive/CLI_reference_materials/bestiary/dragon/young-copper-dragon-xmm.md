@@ -21,7 +21,7 @@ updated: '2025-08-12T23:37:35.764042'
 world: Both
 ---
 
-# [Young Copper Dragon](3-Mechanics\CLI\bestiary\dragon/young-copper-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/young-copper-dragon-xmm|Young Copper Dragon]]
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
@@ -63,11 +63,11 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
@@ -80,12 +80,12 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 40 (9d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: The target can't take Reactions; its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ is halved; and it can take either an action or a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target can't take Reactions; its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ is halved; and it can take either an action or a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
 "source":

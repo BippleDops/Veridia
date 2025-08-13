@@ -36,7 +36,7 @@ world: Aquabyssos
 
 ## Organization Overview
 
-The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[02_Worldbuilding/Places/Aquabyssos]]. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation.
+The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation.
 
 Unlike external authorities who may not understand the unique challenges faced by shadow-touched individuals, the Guidelines organization is composed entirely of community members who have experienced shadow transformation firsthand. They understand both the benefits and dangers of shadow abilities, creating ethical frameworks that are practical, compassionate, and effective.
 
@@ -307,7 +307,7 @@ All shadow-touched individuals within Aquabyssos are automatically considered su
 
 ### Government Relations
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes]]**
+#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 **Relationship**: Cooperative Partnership
 The organization works closely with government officials to develop policies addressing shadow-touched community needs while maintaining operational independence.
 
@@ -317,31 +317,31 @@ Provides specialized expertise and assistance in cases involving shadow abilitie
 
 ### Community Organizations
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Cooperative Alliance
 Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development.
 
-#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]**
 **Relationship**: Cultural Exchange
 Learns from mer-folk approaches to community self-regulation and honor-based social systems.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**
 **Relationship**: Professional Distance
 Maintains cordial relations but remains wary of commercial exploitation of shadow abilities.
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**
+#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Respectful Disagreement
 Appreciates the Order's scholarly approach but disagrees with their tendency toward academic detachment from practical community needs.
 
 ### Opposed Organizations
 
-#### **[[02_Worldbuilding/Groups/The Shadow Harvest]]**
+#### **[[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]**
 **Relationship**: Ethical Opposition
 Strongly opposes the Harvest's exploitative practices and works to protect community members from recruitment.
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Defensive Conflict
 Protects shadow-touched community members from Purist discrimination and violence while advocating for civil rights.
 
@@ -553,10 +553,10 @@ Detailed preparations for organizational continuity if current leadership is com
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/The Shadow Harvest]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
 
 **Key Locations**:
 - [[The Council of Shadows]]
@@ -599,4 +599,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Apprentice]]
+- [[02_Worldbuilding/Groups/Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]

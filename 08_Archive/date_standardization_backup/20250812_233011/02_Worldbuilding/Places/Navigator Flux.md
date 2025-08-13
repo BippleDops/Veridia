@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]
 
 
 ## Connections
@@ -29,7 +29,7 @@ tags:
 - [[Depth Wardens]]
 - [[Memory Farmers]]
 - [[Parliament of Echoes]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[The Hadal Depths]]
 - [[The Temporal Convergence Storms]]
 - [[The Whispering Depths]]

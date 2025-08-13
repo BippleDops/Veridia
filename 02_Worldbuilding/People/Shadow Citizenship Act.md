@@ -154,7 +154,7 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Citizenship Act]]
+- [[02_Worldbuilding/People/Shadow Citizenship Act|02 Worldbuilding/People/Shadow Citizenship Act]]
 
 <!-- enriched: true -->
 iched: true -->

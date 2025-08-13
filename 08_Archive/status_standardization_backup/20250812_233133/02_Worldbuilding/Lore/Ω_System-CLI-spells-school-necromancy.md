@@ -264,11 +264,11 @@ Necromancy magic works synergistically with other magical traditions:
 - **Corruption Risks**: Preventing exposure to void influences during necromantic practice
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protecting consciousness from external threats
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment]] - Understanding and influencing consciousness patterns
-- [[02_Worldbuilding/Lore/Halls of Eternal Memory]] - Repository for preserved consciousness and knowledge
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Storage matrices for consciousness preservation
-- [[02_Worldbuilding/Lore/Void Corruption Tracking]] - Managing risks from reality-dissolving influences
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Abjuration]] - Protecting consciousness from external threats
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment|02 Worldbuilding/Lore/Ω System CLI Spells School Enchantment]] - Understanding and influencing consciousness patterns
+- [[02_Worldbuilding/Lore/Halls of Eternal Memory|02 Worldbuilding/Lore/Halls Of Eternal Memory]] - Repository for preserved consciousness and knowledge
+- [[02_Worldbuilding/Lore/The Crystal Networks|02 Worldbuilding/Lore/The Crystal Networks]] - Storage matrices for consciousness preservation
+- [[02_Worldbuilding/Lore/Void Corruption Tracking|02 Worldbuilding/Lore/Void Corruption Tracking]] - Managing risks from reality-dissolving influences
 
 ## Player-Facing Summary
 
@@ -292,7 +292,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 
 ## Connections

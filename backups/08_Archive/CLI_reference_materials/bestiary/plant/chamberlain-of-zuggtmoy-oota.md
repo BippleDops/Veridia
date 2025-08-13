@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chamberlain-of-zuggtmoy-oota-chamberlain-of-zuggtmoy-oota.svg)
 
-# [Chamberlain of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/chamberlain-of-zuggtmoy-oota.md)
+# [[3-Mechanics\CLI\bestiary\plant/chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]]
 *Source: Out of the Abyss p. 230*  
 
 ```statblock
@@ -55,7 +55,7 @@ world: Both
     "name": "Mushroom Portal"
   - "desc": "Whenever the chamberlain takes damage, it releases a cloud of spores.\
       \ Creatures within 5 feet of the chamberlain when this happens must succeed\
-      \ on a DC 12 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 12 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on a success."
     "name": "Poison Spores"

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Original Glaucus]]
+- [[02_Worldbuilding/People/Original Glaucus|02 Worldbuilding/People/Original Glaucus]]
 
 
 ## Connections

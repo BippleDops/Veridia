@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-monitor-xmm-kuo-toa-monitor-xmm.svg)
 
-# [Kuo-toa Monitor](3-Mechanics\CLI\bestiary\aberration/kuo-toa-monitor-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/kuo-toa-monitor-xmm|Kuo-toa Monitor]]
 *Source: Monster Manual (2024) p. 190*  
 
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
@@ -111,9 +111,9 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
     "desc": "+3"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
 "languages": "Undercommon"
@@ -121,14 +121,14 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The kuo-toa makes two Bone Whip attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 6 (1d6 + 3) Slashing damage\
-      \ plus 7 (2d6) Lightning damage, and the target can't make [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
+      \ plus 7 (2d6) Lightning damage, and the target can't make [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ until the start of the kuo-toa's next turn."
     "name": "Bone Whip"
 "source":

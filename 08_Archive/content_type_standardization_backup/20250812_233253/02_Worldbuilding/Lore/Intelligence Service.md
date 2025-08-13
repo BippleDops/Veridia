@@ -38,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Intelligence Services 2]]
+- [[02_Worldbuilding/People/Intelligence Services 2|02 Worldbuilding/People/Intelligence Services 2]]
 
 <!-- enriched: true -->

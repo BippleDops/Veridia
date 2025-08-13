@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater|02 Worldbuilding/Places/Reflection Pools Surgical Theater]]
 
 
 ## Connections

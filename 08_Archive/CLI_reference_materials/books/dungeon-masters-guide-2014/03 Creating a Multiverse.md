@@ -180,7 +180,7 @@ Second, the spell doesn't send the caster to a specific location unless he or sh
 
 The gate spell opens a portal linked to a specific point on another plane of existence. The spell provides a shortcut to a planar destination, bypassing many of the guardians and trials that would normally fill such a journey. But this 9th-level spell is out of reach for all but the most powerful characters, and it does nothing to negate any obstacles that wait at the destination.
 
-The [gate](/03_Mechanics/CLI/spells/gate-xphb.md) spell is powerful, but not infallible. A deity, demon lord, or other powerful entity can prevent such a portal from opening within its dominion.
+The [[/03_Mechanics/CLI/spells/gate-xphb|gate]] spell is powerful, but not infallible. A deity, demon lord, or other powerful entity can prevent such a portal from opening within its dominion.
 
 ## Astral Plane
 
@@ -198,7 +198,7 @@ A traveler in the Astral Plane can move by simply thinking about moving, but dis
 
 ### Astral Projection
 
-Traveling through the Astral Plane by means of the [astral projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md) spell involves projecting one's consciousness there, usually in search of a gateway to an Outer Plane to visit. Since the Outer Planes are as much spiritual states of being as they are physical places, this allows a character to manifest in an Outer Plane as if he or she had physically traveled there, but as in a dream.
+Traveling through the Astral Plane by means of the [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]] spell involves projecting one's consciousness there, usually in search of a gateway to an Outer Plane to visit. Since the Outer Planes are as much spiritual states of being as they are physical places, this allows a character to manifest in an Outer Plane as if he or she had physically traveled there, but as in a dream.
 
 A character's death-either in the Astral Plane or on the destination plane-causes no actual harm. Only the severing of a character's silver cord while on the Astral Plane (or the death of his or her helpless physical body on the Material Plane) can result in the character's true death. Thus, high-level characters sometimes travel to the Outer Planes by way of astral projection rather than seek out a portal or use a more direct spell.
 
@@ -208,7 +208,7 @@ Only a few things can sever a traveler's silver cord, the most common being a ps
 
 Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, `1d6 × 10` feet in diameter. Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways to other planes can be identified by color, as shown on the Astral Color Pools table. Finding the right color pool is a matter of chance: locating the correct one takes `1d4 × 10` hours of travel.
 
-![Astral Color Pools](/03_Mechanics/CLI/tables/astral-color-pools.md)
+![[/03_Mechanics/CLI/tables/astral-color-pools|Astral Color Pools]]
 
 ### Psychic Wind
 
@@ -220,7 +220,7 @@ The psychic wind has two kinds of effects: a location effect and a mental effect
 
 Each traveler affected by the wind must also make a DC 15 Intelligence saving throw. On a failed save, the traveler suffers the mental effect as well. Roll a `d20` twice and consult the Psychic Wind Effects tables to determine the location and mental effects.
 
-![Psychic Wind](/03_Mechanics/CLI/tables/psychic-wind.md)
+![[/03_Mechanics/CLI/tables/psychic-wind|Psychic Wind]]
 
 ### Astral Plane Encounters
 
@@ -248,17 +248,17 @@ To reach the Deep Ethereal, one needs a plane shift spell or arrive by means of 
 
 Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table.
 
-![Deep Ethereal; Ethereal Curtains](/03_Mechanics/CLI/tables/deep-ethereal-ethereal-curtains.md)
+![[/03_Mechanics/CLI/tables/deep-ethereal-ethereal-curtains|Deep Ethereal; Ethereal Curtains]]
 
 Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes `1d10 × 10` hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
 
 ### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 15 or more receive `d4` rounds of warning: a deep hum in the ethereal matter.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or more receive `d4` rounds of warning: a deep hum in the ethereal matter.
 
 Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll a `d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
-![Ether Cyclones](/03_Mechanics/CLI/tables/ether-cyclones.md)
+![[/03_Mechanics/CLI/tables/ether-cyclones|Ether Cyclones]]
 
 The most common effect of an ether cyclone is to extend the duration of a journey. Each character in a group traveling together must make a DC 15 Charisma saving throw. If at least half the group succeeds, travel is delayed by `d10` hours. Otherwise, the journey's travel time is doubled. Less often, a group is blown into the Border Ethereal of a random plane. Rarely, the cyclone tears a hole in the fabric of the plane and hurls the party into the Astral Plane.
 
@@ -307,9 +307,9 @@ A creature that leaves the Feywild must make a DC 10 Wisdom saving throw. Fey cr
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [geas](/03_Mechanics/CLI/spells/geas-xphb.md) spell and complete a quest after the [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[/03_Mechanics/CLI/spells/geas-xphb|geas]] spell and complete a quest after the [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell is cast.
 
-![Feywild Time Warp](/03_Mechanics/CLI/tables/feywild-time-warp.md)
+![[/03_Mechanics/CLI/tables/feywild-time-warp|Feywild Time Warp]]
 
 ## Shadowfell
 
@@ -337,11 +337,11 @@ A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane 
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `d6` to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
-![Shadowfell Despair](/03_Mechanics/CLI/tables/shadowfell-despair.md)
+![[/03_Mechanics/CLI/tables/shadowfell-despair|Shadowfell Despair]]
 
 If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a long rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character.
 
-A [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell removes despair, as does any spell or other magical effect that removes a curse.
+A [[/03_Mechanics/CLI/spells/calm-emotions-xphb|calm emotions]] spell removes despair, as does any spell or other magical effect that removes a curse.
 
 > [!note] Evernight
 > 
@@ -478,7 +478,7 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The default Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality, which is represented by the Outlands, described in the section on "Other Planes") and the shades of distinction between them.
 
-![The Outer Planes](/03_Mechanics/CLI/tables/the-outer-planes.md)
+![[/03_Mechanics/CLI/tables/the-outer-planes|The Outer Planes]]
 
 The planes with an element of good in their nature are called the **Upper Planes**, while those with an element of evil are the **Lower Planes**. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
@@ -492,13 +492,13 @@ Most portals from elsewhere reach the first layer of a multilayered plane. This 
 
 ### Traveling the Outer Planes
 
-Traveling between the Outer Planes isn't dissimilar from reaching the Outer Planes in the first place. Characters traveling by means of the [astral projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md) spell can go from one plane into the Astral Plane, and there search out a color pool leading to the desired destination. Characters can also use plane shift to reach a different plane more directly. Most often, though, characters use portals-either a portal that links the two planes directly or a portal leading to Sigil, City of Doors, which holds portals to all the planes.
+Traveling between the Outer Planes isn't dissimilar from reaching the Outer Planes in the first place. Characters traveling by means of the [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]] spell can go from one plane into the Astral Plane, and there search out a color pool leading to the desired destination. Characters can also use plane shift to reach a different plane more directly. Most often, though, characters use portals-either a portal that links the two planes directly or a portal leading to Sigil, City of Doors, which holds portals to all the planes.
 
 Two planar features connect multiple Outer Planes together: the River Styx and the Infinite Staircase. Other planar crossings might exist in your campaign, such as a World Tree whose roots touch the Lower Planes and whose branches reach to the Upper Planes, or it might be possible to walk from one plane to another in your cosmology.
 
 #### The River Styx
 
-This river bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. Any creature other than a fiend that tastes or touches the water is affected by a [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md) spell. The DC of the Intelligence saving throw to resist the effect is 15.
+This river bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. Any creature other than a fiend that tastes or touches the water is affected by a [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]] spell. The DC of the Intelligence saving throw to resist the effect is 15.
 
 The Styx churns through the top layers of Acheron, the Nine Hells, Gehenna, Hades, Carceri, the Abyss, and Pandemonium. Tributaries of the Styx snake onto lower layers of these planes. For example, a tendril of the Styx winds through every layer of the Nine Hells, allowing passage from one layer of that plane to the next.
 
@@ -516,7 +516,7 @@ Each of the Outer Planes has peculiar characteristics that make traveling throug
 
 #### Optional Rule: Psychic Dissonance
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ### Mount Celestia
 
@@ -548,7 +548,7 @@ The Beastlands is a plane of nature unbound, of forests ranging from moss-hung m
 
 #### Optional Rule: Hunter's Paradise
 
-Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling)), Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)), and Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) checks while there.
+Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]), Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]), and Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) checks while there.
 
 #### Optional Rule: Beast Transformation
 
@@ -594,7 +594,7 @@ Pandemonium is a plane of madness, a great mass of rock riddled with tunnels car
 
 #### Optional Rule: Mad Winds
 
-A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). A creature that reaches six levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) level unless the creature can somehow escape the maddening winds.
+A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. A creature that reaches six levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] level unless the creature can somehow escape the maddening winds.
 
 ### The Abyss
 
@@ -608,9 +608,9 @@ A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Char
 
 After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A dispel evil and good spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `1d4+2` days, its alignment changes to chaotic evil. Casting the [dispel evil and good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `1d4+2` days, its alignment changes to chaotic evil. Casting the [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|dispel evil and good]] spell on the creature restores its original alignment.
 
-![Optional Rule: Abyssal Corruption; Abyssal Corruption](/03_Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption.md)
+![[/03_Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption|Optional Rule: Abyssal Corruption; Abyssal Corruption]]
 
 #### Important Layers
 
@@ -656,7 +656,7 @@ The layers of Hades are called the Three Glooms-places without joy, hope, or pas
 
 #### Optional Rule: Vile Transformation
 
-At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), which can't be removed while the creature remains in Hades. If the creature reaches six levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) afflicting the creature are removed.
+At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], which can't be removed while the creature remains in Hades. If the creature reaches six levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] afflicting the creature are removed.
 
 A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the larva stat block.
 
@@ -804,7 +804,7 @@ Around the outside edge of the circle, evenly spaced, are the gate-towns: sixtee
 
 Given the fact that you can ride a horse in the Outlands from a heaven to a hell, a planar-themed campaign can be set there without the need for planar travel. The Outlands is the closest the Outer Planes come to being like a world on the Material Plane.
 
-![The Outlands and Sigil; Gate-Towns of the Outlands](/03_Mechanics/CLI/tables/the-outlands-and-sigil-gate-towns-of-the-outlands.md)
+![[/03_Mechanics/CLI/tables/the-outlands-and-sigil-gate-towns-of-the-outlands|The Outlands and Sigil; Gate-Towns of the Outlands]]
 
 #### Sigil, City of Doors
 
@@ -818,7 +818,7 @@ The city is the domain of the inscrutable Lady of Pain, a being as old as gods a
 
 Demiplanes are extra dimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others exist naturally, as folds of reality pinched off from the rest of the multiverse. Theoretically, a plane shift spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork would be extremely hard to acquire. The gate spell is more reliable, assuming the caster knows of the demiplane.
 
-A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [Mordenkainen's magnificent mansion](/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of Barovia (in the Ravenloft setting) exists entirely within a demiplane under the sway of its vampire lord, Strahd von Zarovich. When a demiplane is connected to the Material Plane or some other plane, entering it can be as simple as stepping through a portal or passing through a wall of mist.
+A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of Barovia (in the Ravenloft setting) exists entirely within a demiplane under the sway of its vampire lord, Strahd von Zarovich. When a demiplane is connected to the Material Plane or some other plane, entering it can be as simple as stepping through a portal or passing through a wall of mist.
 
 ### The Far Realm
 

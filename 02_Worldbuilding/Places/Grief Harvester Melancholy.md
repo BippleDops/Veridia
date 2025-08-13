@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Grief Harvester Melancholy]]
+- [[02_Worldbuilding/Places/Grief Harvester Melancholy|02 Worldbuilding/Places/Grief Harvester Melancholy]]
 
 <!-- enriched: true -->

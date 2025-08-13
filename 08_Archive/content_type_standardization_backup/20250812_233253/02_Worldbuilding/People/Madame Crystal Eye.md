@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Madame Crystal Eye]]
+- [[02_Worldbuilding/People/Madame Crystal Eye|02 Worldbuilding/People/Madame Crystal Eye]]
 
 <!-- enriched: true -->
 

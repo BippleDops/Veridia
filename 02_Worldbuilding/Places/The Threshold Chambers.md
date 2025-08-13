@@ -34,7 +34,7 @@ world: Dimensional Threshold (Both Realms)
 *Where Two Worlds Become One*
 
 ## Overview
-The Threshold Chambers serve as the secret headquarters of [[The Convergence Seekers]], existing in a carefully constructed dimensional space that partially overlaps both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. This unique facility allows researchers to study the boundary between worlds while working toward their ultimate goal of reunifying the separated realms. The Chambers represent the most advanced convergence technology in existence, serving as both laboratory and proof of concept for world-merging capabilities.
+The Threshold Chambers serve as the secret headquarters of [[The Convergence Seekers]], existing in a carefully constructed dimensional space that partially overlaps both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. This unique facility allows researchers to study the boundary between worlds while working toward their ultimate goal of reunifying the separated realms. The Chambers represent the most advanced convergence technology in existence, serving as both laboratory and proof of concept for world-merging capabilities.
 
 ## Dimensional Architecture
 ### The Threshold Principle
@@ -54,7 +54,7 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 
 #### Research Wings
 ##### Aethermoor Section
-- **Crystal Resonance Labs**: Studying how [[02_Worldbuilding/Lore/The Seven Shards]] respond to convergence
+- **Crystal Resonance Labs**: Studying how [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] respond to convergence
 - **Technology Integration Centers**: Adapting Aethermoor devices for dual-realm operation
 - **Cultural Archive**: Preserving Aethermoor traditions and knowledge
 - **Surface Simulation Chambers**: Environments replicating dry-land conditions
@@ -62,7 +62,7 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 
 ##### Aquabyssos Section
 - **Shadow Manipulation Labs**: Harnessing shadow energy for convergence purposes
-- **[[02_Worldbuilding/Lore/The Deep Mother]] Monitoring Station**: Observing the cosmic entity's responses to convergence
+- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] Monitoring Station**: Observing the cosmic entity's responses to convergence
 - **Memory Integration Centers**: Combining consciousness techniques with convergence theory
 - **Pressure Adaptation Chambers**: Studying how convergence affects depth tolerance
 - **Dream Research Division**: Exploring shared consciousness between realms
@@ -177,13 +177,13 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 ### Opposition Forces
 #### Active Enemies
 - **[[The Void Watchers]]**: View convergence as threat to reality stability
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Oppose any form of cross-realm contamination
+- **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**: Oppose any form of cross-realm contamination
 - **Reality Fundamentalists**: Groups believing worlds should remain separate
 - **Government Authorities**: Officials from both realms opposing convergence
 - **Traditional Powers**: Established interests threatened by unified world
 
 #### Neutral Parties
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in convergence profit potential
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Interested in convergence profit potential
 - **Academic Institutions**: Scholars studying convergence without supporting it
 - **Religious Organizations**: Faiths with varying views on realm unity
 - **Common Citizens**: Population unaware of convergence possibilities
@@ -281,7 +281,7 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 
 ## Connected Elements
 - Headquarters of [[The Convergence Seekers]], central organization for realm unity
-- Location where convergence between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] is actively studied
+- Location where convergence between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] is actively studied
 - Repository of pre-separation knowledge and unified world planning
 - Source of advanced dimensional technology and cross-realm capabilities
 - Setting for adventures involving reality manipulation, faction conflict, and world-changing decisions
@@ -304,10 +304,10 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 ## Connections
 
 - [[Discover Marina's Truth]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - Nature's Balance]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -325,7 +325,7 @@ Legends speak of The Threshold Chambers as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Places/The Threshold Chambers|02 Worldbuilding/Places/The Threshold Chambers]]
 
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]

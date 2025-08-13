@@ -25,7 +25,7 @@ accessibility:
 
 # The Forgotten Archive
 
-![The Forgotten Archive Portrait](04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png)
+![[04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png|The Forgotten Archive Portrait]]
 
 *The repository of all knowledge deliberately erased from history*
 
@@ -392,11 +392,11 @@ Remember: Some knowledge is forgotten for good reason.
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/The Memory Trade]]
-- [[02_Worldbuilding/Groups/The Nameless Librarians]]
-- [[02_Worldbuilding/Places/Forgotten Doorways]]
-- [[03_Mechanics/Memory_Mechanics]]
-- [[02_Worldbuilding/Lore/Censorship Magic]]
+- [[02_Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
+- [[02_Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
+- [[02_Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
+- [[03_Mechanics/Memory_Mechanics|03 Mechanics/Memory Mechanics]]
+- [[02_Worldbuilding/Lore/Censorship Magic|02 Worldbuilding/Lore/Censorship Magic]]
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
 
@@ -412,7 +412,7 @@ Legends speak of The Forgotten Archive as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
 
 
 ## Connections

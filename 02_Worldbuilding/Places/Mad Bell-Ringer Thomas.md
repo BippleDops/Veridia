@@ -277,7 +277,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Bell-Ringer Thomas]]
+- [[02_Worldbuilding/Places/Mad Bell-Ringer Thomas|02 Worldbuilding/Places/Mad Bell Ringer Thomas]]
 
 <!-- enriched: true -->
 

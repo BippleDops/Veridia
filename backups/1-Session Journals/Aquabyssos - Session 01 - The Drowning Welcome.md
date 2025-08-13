@@ -19,11 +19,11 @@ depth: 1500
 locations_visited:
 - '[[Abyssos Prime - Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 - '[[Inverted Ballroom Wing]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
-- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Pressure Tube Operator Krill]]'
 encounters:
@@ -83,8 +83,8 @@ The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquif
 - Investigation of quarters
 
 ### NPCs to Include
-- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced host
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid warning
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Shadow-replaced host
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Paranoid warning
 - [[Marina Red Tide Coralheart - Aquabyssos]] - Adapted guide
 - [[Pressure Tube Operator Krill]] - First contact
 
@@ -102,7 +102,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 
 #### Event 1: The Emperor's Court
 **Location:** [[Throne of Bubbles]]
-**NPCs:** [[02_Worldbuilding/People/The Scattered Emperor]], [[Marina Red Tide Coralheart - Aquabyssos]]
+**NPCs:** [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]], [[Marina Red Tide Coralheart - Aquabyssos]]
 **Pressure Check:** DC 12 CON save or gain 1 exhaustion
 **Outcome:** 
 - Emperor speaks through electric eel collective
@@ -121,7 +121,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 
 #### Event 2: The Dissolution
 **Location:** [[Parliament of Echoes - Public Gallery]]
-**NPCs:** [[02_Worldbuilding/People/Senator Glaucus]], dissolving Senator Hadrian
+**NPCs:** [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]], dissolving Senator Hadrian
 **Witness Horror:** DC 13 WIS save or frightened for 1 minute
 **Outcome:**
 - Senator Hadrian screams and melts into living shadow
@@ -224,8 +224,8 @@ Each character gains:
 - Who wants to investigate vs. escape?
 
 ### Relationship Changes
-- [[02_Worldbuilding/People/Senator Glaucus]] - Suspicious (disposition: -2)
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Suspicious (disposition: -2)
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
 - [[Marina Red Tide Coralheart - Aquabyssos]] - Protective guide (disposition: +3)
 
 ## World Changes
@@ -339,7 +339,7 @@ Each character gains:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

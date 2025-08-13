@@ -4,7 +4,7 @@ MyContainer: None
 created: '2025-08-12'
 danger_level: 1
 founded: 300 years before Great Crystallization
-government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw]]'
+government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 obsidianUIMode: preview
 population: 500
@@ -42,7 +42,7 @@ world: Aethermoor
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[02_Worldbuilding/Groups/Sacred Order of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
 
@@ -97,7 +97,7 @@ Each spire represents one aspect of divine light:
 - Chosen by divine vision 20 years ago
 - Can channel pure light energy for healing and protection
 - Diplomatic immunity and advisory role to the Crown
-- Maintains correspondence with religious leaders across [[02_Worldbuilding/Places/Aethermoor]]
+- Maintains correspondence with religious leaders across [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
@@ -144,7 +144,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 
 ### The Sacred Libraries
 **The Archive of Illumination**
-- Largest religious library in [[02_Worldbuilding/Places/Aethermoor]]
+- Largest religious library in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - Contains original texts predating [[The Great Crystallization]]
 - Illuminated manuscripts that glow softly in darkness
 - Research facilities for theological scholars
@@ -464,7 +464,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Places/Cathedral of Light|02 Worldbuilding/Places/Cathedral Of Light]]
 
 <!-- enriched: true -->
 riched: true -->

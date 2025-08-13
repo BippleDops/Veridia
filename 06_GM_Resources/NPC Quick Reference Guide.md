@@ -361,7 +361,7 @@ Roll 3d6:
 
 ## Connections
 
-- [[Complete_Faction_Warfare_System]]
+- [[Complete_Faction_Warfare_System|Complete Faction Warfare System]]
 
 ## Player-Facing Summary
 

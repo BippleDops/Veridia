@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Tradeway Road]]
+- [[02_Worldbuilding/Quests/Tradeway Road|02 Worldbuilding/Quests/Tradeway Road]]
 
 
 ## Connections

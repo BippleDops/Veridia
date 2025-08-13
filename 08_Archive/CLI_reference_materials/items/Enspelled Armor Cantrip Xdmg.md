@@ -57,7 +57,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - [Enspelled (Cantrip) Splint Armor](#Enspelled%20(Cantrip)%20Splint%20Armor)
 - [Enspelled (Cantrip) Studded Leather Armor](#Enspelled%20(Cantrip)%20Studded%20Leather%20Armor)
 
-### Enspelled (Cantrip) Breastplate
+## Enspelled (Cantrip) Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

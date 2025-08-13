@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cave-badger-oota-cave-badger-oota.svg)
 
-# [Cave Badger](3-Mechanics\CLI\bestiary\beast/cave-badger-oota.md)
+# [[3-Mechanics\CLI\bestiary\beast/cave-badger-oota|Cave Badger]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -49,7 +49,7 @@ world: Both
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The badger has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The badger has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "When the badger burrows, it leaves tunnels behind."

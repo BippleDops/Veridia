@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Merchant Headquarters]]
+- [[02_Worldbuilding/Places/Memory Merchant Headquarters|02 Worldbuilding/Places/Memory Merchant Headquarters]]
 
 <!-- enriched: true -->
 

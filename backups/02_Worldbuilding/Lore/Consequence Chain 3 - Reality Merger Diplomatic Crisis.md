@@ -39,12 +39,12 @@ world: Both Worlds
 - Defeated/communicated with the Deep Mother, stabilizing merged reality
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Forced to engage in international diplomacy
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Forced to engage in international diplomacy
 - **[[United Councils of Both Worlds]]**: Emergency joint government formed
 - **[[Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
-- **[[02_Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
 
 **Immediate visible results:**
 - New Meridian created: floating districts of Aquabyssos merged with surface city
@@ -91,7 +91,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Groups/The Crown]]** and **[[02_Worldbuilding/Places/Parliament of Echoes]]** forced into cooperation
+- **[[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]** and **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]** forced into cooperation
 - **Cross-realm trade guilds** formed to exploit new opportunities
 - **Cultural preservation societies** emerged to protect distinct traditions
 - **Unification movements** promoted complete realm merger
@@ -187,7 +187,7 @@ world: Both Worlds
 ### Links to Other Major Events
 - **[[Consequence Chain 4 - Deep Mother Awakening]]**: The cosmic entity encounter catalyzed merger
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled merger negotiations
-- **[[02_Worldbuilding/Lore/Crystal Plague Origins]]**: Combined research accelerated plague understanding
+- **[[02_Worldbuilding/Lore/Crystal Plague Origins|02 Worldbuilding/Lore/Crystal Plague Origins]]**: Combined research accelerated plague understanding
 - **Eastern Kingdoms diplomatic expansion**: Foreign powers gained permanent presence
 
 ### Constitutional Innovations Implemented
@@ -222,7 +222,7 @@ world: Both Worlds
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
 - [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
 - [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
-- [[03_Mechanics/Merged Reality Mechanics]]
-- [[02_Worldbuilding/Places/New Meridian]]
+- [[03_Mechanics/Merged Reality Mechanics|03 Mechanics/Merged Reality Mechanics]]
+- [[02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
 - [[United Councils of Both Worlds]]
 - [[Political Intrigue Master Index]]

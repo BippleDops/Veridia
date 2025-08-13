@@ -935,7 +935,7 @@ A descendant of ancient mer-folk guardians approaches the party with growing com
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -953,5 +953,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Council]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Council|02 Worldbuilding/Lore/Aquabyssos Trade Council]]
 - [[Ancient Mer-Folk Empire]]

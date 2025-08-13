@@ -23,7 +23,7 @@ Complements [[06_GM_Resources/Travel/Events/Merger_Events_Pack_A|Pack A]].
 
 ---
 
-### M-101: Paper-Thin Deck Field
+## M-101: Paper-Thin Deck Field
 - Type: Overlapping • Category: Physics
 - Trigger: Decks become membrane-thin.
 - Checks: Anchorite DC 16 reinforcement rite; Dex saves DC 14 to avoid tearing.

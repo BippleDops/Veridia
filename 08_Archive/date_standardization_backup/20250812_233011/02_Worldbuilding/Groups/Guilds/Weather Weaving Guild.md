@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms|02 Worldbuilding/Lore/The Lighthouse Of Storms]]
 
 
 ## Connections

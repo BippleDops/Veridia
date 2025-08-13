@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-glabrezu-xmm-glabrezu-xmm.svg)
 
-# [Glabrezu](3-Mechanics\CLI\bestiary\fiend/glabrezu-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/glabrezu-xmm|Glabrezu]]
 *Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Glabrezu
@@ -69,41 +69,41 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "If the glabrezu dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The glabrezu has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The glabrezu has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ condition (escape DC 15) from one of two pincers."
     "name": "Pincer"
-  - "desc": "Dexterity Saving Throw: DC 17, one creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "Dexterity Saving Throw: DC 17, one creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ by the glabrezu. Failure: 15 (3d6 + 5) Bludgeoning damage. Success: Half\
       \ damage."
     "name": "Pummel"
   - "desc": "The glabrezu casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md)\n\
-      \n1/day each: [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md), [Fly](/03_Mechanics/CLI/spells/fly-xphb.md),\
-      \ [Power Word Stun](/03_Mechanics/CLI/spells/power-word-stun-xphb.md)"
+      \ DC 16):\n\nAt will: [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]],\
+      \ [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel Magic]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/confusion-xphb|Confusion]], [[/03_Mechanics/CLI/spells/fly-xphb|Fly]],\
+      \ [[/03_Mechanics/CLI/spells/power-word-stun-xphb|Power Word Stun]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

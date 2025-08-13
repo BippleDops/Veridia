@@ -29,9 +29,9 @@ world: Both
 
 **Items in this group:**
 
-- [Sprig of mistletoe](/03_Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)
-- [Wooden staff](/03_Mechanics/CLI/items/wooden-staff-xphb.md)
-- [Yew wand](/03_Mechanics/CLI/items/yew-wand-xphb.md)
+- [[/03_Mechanics/CLI/items/sprig-of-mistletoe-xphb|Sprig of mistletoe]]
+- [[/03_Mechanics/CLI/items/wooden-staff-xphb|Wooden staff]]
+- [[/03_Mechanics/CLI/items/yew-wand-xphb|Yew wand]]
 
 *Source: Player's Handbook (2024) p. 225*
 

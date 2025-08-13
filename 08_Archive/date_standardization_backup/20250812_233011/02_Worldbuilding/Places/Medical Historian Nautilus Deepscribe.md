@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Medical Historian Nautilus Deepscribe]]
+- [[02_Worldbuilding/Places/Medical Historian Nautilus Deepscribe|02 Worldbuilding/Places/Medical Historian Nautilus Deepscribe]]
 
 <!-- enriched: true -->
 

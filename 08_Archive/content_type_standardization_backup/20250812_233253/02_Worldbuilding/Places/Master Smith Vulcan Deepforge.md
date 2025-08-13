@@ -208,7 +208,7 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 ### Professional Network
 
-**[[02_Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
+**[[02_Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[Aquabyssos]].
 
 **[[Military Commander Steel]]** - Primary liaison for military equipment projects, ensuring that Vulcan's creations meet operational requirements and combat effectiveness standards.
 
@@ -224,7 +224,7 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 ### Personal Relationships
 
-**[[02_Worldbuilding/Lore/Master Artist Pear]]** - Close friend and occasional collaborator whose artistic vision complements Vulcan's technical expertise in creating works that are both functional and beautiful.
+**[[02_Worldbuilding/Lore/Master Artist Pear|02 Worldbuilding/Lore/Master Artist Pear]]** - Close friend and occasional collaborator whose artistic vision complements Vulcan's technical expertise in creating works that are both functional and beautiful.
 
 **[[Merchant Captain Trade]]** - Business partner who helps source rare materials and distribute Vulcan's creations to distant markets, expanding the reach of [[Aquabyssos]] craftsmanship.
 
@@ -322,7 +322,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge|02 Worldbuilding/Places/Master Smith Vulcan Deepforge]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

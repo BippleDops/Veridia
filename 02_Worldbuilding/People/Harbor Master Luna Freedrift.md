@@ -23,7 +23,7 @@ world: Both
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*
 
 ## Overview
-Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]], the largest free port in [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Officially appointed by the [[02_Worldbuilding/Places/Parliament of Echoes]], she secretly serves as a key leader in [[02_Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
+Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor|02 Worldbuilding/Places/Freedom Harbor]], the largest free port in [[02_Worldbuilding/Lore/Aquabyssos World Overview|02 Worldbuilding/Lore/Aquabyssos World Overview]]. Officially appointed by the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], she secretly serves as a key leader in [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]], using her position to protect refugees, coordinate resistance activities, and maintain the only truly neutral trading post in the underwater kingdom. Her harbor serves as sanctuary for those fleeing political persecution, while her information network rivals that of the greatest spymasters.
 
 ## Appearance
 - **Build**: Athletic and graceful at 5'7" with swimmer's muscle definition
@@ -77,21 +77,21 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 ## Relationships & Social Network
 
 ### Free Current Leadership
-- **[[02_Worldbuilding/Groups/Free Current]]** - Key leader and strategic coordinator
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Professional respect despite ideological differences
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Mutual aid in protecting refugees and resisters
-- **[[02_Worldbuilding/People/Envoy Blackwater Jr.]]** - Secret ally working within the system
+- **[[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]]** - Key leader and strategic coordinator
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Professional respect despite ideological differences
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos|02 Worldbuilding/People/Marina Red Tide Coralheart Aquabyssos]]** - Mutual aid in protecting refugees and resisters
+- **[[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]** - Secret ally working within the system
 
 ### Political Relations
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Complex relationship balancing imperial authority with harbor neutrality
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Official oversight body, many members unaware of her resistance activities
-- **[[02_Worldbuilding/People/Senator Glaucus]]** - Suspects something wrong but maintains professional facade
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Mutual wariness, both operating in gray areas
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]** - Complex relationship balancing imperial authority with harbor neutrality
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]** - Official oversight body, many members unaware of her resistance activities
+- **[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]** - Suspects something wrong but maintains professional facade
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Mutual wariness, both operating in gray areas
 
 ### Trade & Information Networks
-- **Surface Traders** - Connections to [[02_Worldbuilding/Places/Aethermoor]] merchants and captains
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Coordinates with various smuggling operations
-- **[[02_Worldbuilding/Groups/Merchant's Covenant]]** - Professional relationships with legitimate traders
+- **Surface Traders** - Connections to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] merchants and captains
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Coordinates with various smuggling operations
+- **[[02_Worldbuilding/Groups/Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]]** - Professional relationships with legitimate traders
 - **Information Brokers** - Network of contacts gathering intelligence throughout Aquabyssos
 
 ### Free Current Operations
@@ -117,15 +117,15 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - **Dock Supervisor Finn Quickcurrent** - Coordinates with smugglers and refugees
 
 ### Free Current Network (Secret)
-- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Primary maritime transport coordinator
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer|02 Worldbuilding/People/Captain Nautilus The Deep Wanderer]]** - Primary maritime transport coordinator
 - **Agent Whisper** - Her contact within Parliament intelligence services
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]** - Progressive politician providing legal protection
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]** - Progressive politician providing legal protection
 - **The Tide Runners** - Network of young agents who carry messages and supplies
 
 ### Political Relationships
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Mutual respect despite political differences
-- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Complicated relationship, Luna suspects her true nature
-- **[[02_Worldbuilding/People/Archon Meredith Saltweaver]]** - Official superior, growing suspicious of Luna's activities
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Mutual respect despite political differences
+- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]** - Complicated relationship, Luna suspects her true nature
+- **[[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]]** - Official superior, growing suspicious of Luna's activities
 - **Various Parliament Members** - Some allies, some enemies, most wary but respectful
 
 ### International Contacts
@@ -153,7 +153,7 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - Building alliance between surface traders and deep-sea communities
 - Documenting Parliament corruption for eventual public exposure
 - Training next generation of Free Current leaders
-- Searching for evidence of the Parliament's connection to [[02_Worldbuilding/Lore/The Seven Shards]]
+- Searching for evidence of the Parliament's connection to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
 - Investigating reports of shadow corruption spreading through trade routes
 
 ## Resources & Assets
@@ -185,7 +185,7 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 3. **The Smuggling War**: Rival organization threatens to expose her network
 4. **The Deep Trade**: Mysterious cargo arrives from the deepest trenches
 5. **The Surface Alliance**: Opportunity to formalize trade relationships with surface world
-6. **The Marina Mystery**: Investigation into [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]'s shipping activities
+6. **The Marina Mystery**: Investigation into [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]'s shipping activities
 7. **The Harbor Siege**: Parliament forces attempt to seize control of Freedom Harbor
 
 ## Combat Tactics
@@ -269,10 +269,10 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 > [!warning] DM Only
 > - Maintains detailed records of all Parliament corruption and illegal activities
 > - Has agents within Parliament intelligence services providing inside information
-> - Knows about [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]'s mysterious nature and shipping activities
+> - Knows about [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]'s mysterious nature and shipping activities
 > - Has evidence of connections between Parliament leaders and shadow corruption
 > - Coordinates with surface world resistance movements opposing Aquabyssos expansion
-> - Maintains secret communication with [[02_Worldbuilding/People/Emperor Thalassius the Wise]]'s loyalists
+> - Maintains secret communication with [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]'s loyalists
 > - Her harbor serves as distribution point for anti-Parliament propaganda
 
 ## Speaking Style
@@ -328,8 +328,8 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - Questions whether the ends justify the means in gathering and using information
 
 ## Connected Elements
-- Central to [[02_Worldbuilding/Groups/Free Current]] resistance movement
-- Key link between surface world and [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- Central to [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]] resistance movement
+- Key link between surface world and [[02_Worldbuilding/Lore/Aquabyssos World Overview|02 Worldbuilding/Lore/Aquabyssos World Overview]]
 - Represents themes of freedom, resistance, and the cost of standing up to authority
 - Connected to trade, smuggling, and information warfare storylines
 - Bridge between political intrigue and personal heroism
@@ -344,20 +344,20 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - Her eventually exposure or downfall could trigger major campaign events
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]] - Key transportation coordinator
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Political ally and legal protection
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Complicated respect despite opposing loyalties
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]] - Subject of investigation and suspicion
+- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer|02 Worldbuilding/People/Captain Nautilus The Deep Wanderer]] - Key transportation coordinator
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]] - Political ally and legal protection
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Complicated respect despite opposing loyalties
+- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]] - Subject of investigation and suspicion
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Freedom Harbor]] - Her primary domain and power base
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Source of official authority and political opposition
+- [[02_Worldbuilding/Places/Freedom Harbor|02 Worldbuilding/Places/Freedom Harbor]] - Her primary domain and power base
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Source of official authority and political opposition
 - [[Free Current Safe Houses]] - Network of hidden locations throughout Aquabyssos
 - [[The Great Trade Routes]] - Maritime paths she helps protect and control
 
 ## Involved Quests
 - [[Quest - The Refugee Evacuation]] - Mass movement of political dissidents to safety
-- [[02_Worldbuilding/Quests/Discover Marina]] - Investigation into Marina's true nature and activities
+- [[02_Worldbuilding/Quests/Discover Marina|02 Worldbuilding/Quests/Discover Marina]] - Investigation into Marina's true nature and activities
 - [[Quest - The Harbor War]] - Defense of Freedom Harbor against Parliament seizure
 - [[Quest - The Underground Railroad]] - Establishing permanent escape routes from Aquabyssos
 - [[Quest - The Corruption Files]] - Gathering evidence to expose Parliament crimes
@@ -372,8 +372,8 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift|02 Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift|02 Worldbuilding/Places/Harbor Master Luna Freedrift]]
 
 <!-- enriched: true -->
 

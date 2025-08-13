@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/arcane-eye-xphb "XPHB"|Arcane Eye]]
 
 ## Player-Facing Summary
 

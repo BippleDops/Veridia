@@ -27,7 +27,7 @@ These troubles have a source known to few in the North: Elemental Evil. Servants
 
 Four elemental cults grow in power in the Sumber Hills, claiming abandoned keeps that connect to an underground fortress once part of an ancient dwarven kingdom. Within those chambers are the remnants of a temple built by drow worshipers of Elemental Evil. Each of the four cults venerates a powerful entity of air, earth, fire, or water: a Prince of Elemental Evil. Like their princes, the four cults are rivals, yet they all serve a mysterious force they call the Elder Elemental Eye.
 
-A prophet gifted with a powerful elemental weapon leads each cult. Those weapons—[Windvane](/03_Mechanics/CLI/items/windvane-pota.md), [Ironfang](/03_Mechanics/CLI/items/ironfang-pota.md), [Tinderstrike](/03_Mechanics/CLI/items/tinderstrike-pota.md), and [Drown](/03_Mechanics/CLI/items/drown-pota.md)—were the catalysts for the creation of four elemental nodes, places where the Elemental Planes connect to the Material Plane. The cults draw elemental creatures through the nodes, and they use elemental magic to create [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md)s capable of ravaging the countryside. They've been testing these magic weapons, bolstering the cults' ranks, and infiltrating various communities, all directed by visions the prophets receive from the Elder Elemental Eye. In time, each prophet hopes to entice his or her elemental prince to pass through the node and wreak devastation on the Dessarin Valley and beyond.
+A prophet gifted with a powerful elemental weapon leads each cult. Those weapons—[[/03_Mechanics/CLI/items/windvane-pota|Windvane]], [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]], [[/03_Mechanics/CLI/items/tinderstrike-pota|Tinderstrike]], and [[/03_Mechanics/CLI/items/drown-pota|Drown]]—were the catalysts for the creation of four elemental nodes, places where the Elemental Planes connect to the Material Plane. The cults draw elemental creatures through the nodes, and they use elemental magic to create [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]]s capable of ravaging the countryside. They've been testing these magic weapons, bolstering the cults' ranks, and infiltrating various communities, all directed by visions the prophets receive from the Elder Elemental Eye. In time, each prophet hopes to entice his or her elemental prince to pass through the node and wreak devastation on the Dessarin Valley and beyond.
 
 ## Using This Source
 
@@ -63,9 +63,9 @@ Over the years, adventurers occasionally stumbled across the buried stronghold o
 
 History didn't cooperate. A generation or two after the Knights of the Silver Horn established their strongholds, an orc horde swept through the North, and the keeps were overrun. For centuries they stood empty. Locals came to know them as the Haunted Keeps, and various monsters occasionally occupied the ruins.
 
-The abandoned keeps and the dwarven stronghold beneath them might have been forgotten forever, but a few years ago a drow named Vizeran DeVir returned to the ancient Fane of the Eye. A renegade drow wizard of great power, DeVir was no servant of Lolth; like the forgotten sect that created the temple long ago, he devoted himself to the nameless power of the Elder Elemental Eye. His beliefs led to his exile from drow society, but his faithfulness to this dark power did not go unrewarded. Guided by visions, Vizeran DeVir created four mighty weapons imbued with Elemental Evil: the spear [Windvane](/03_Mechanics/CLI/items/windvane-pota.md), the dagger [Tinderstrike](/03_Mechanics/CLI/items/tinderstrike-pota.md), the trident [Drown](/03_Mechanics/CLI/items/drown-pota.md), and the war pick [Ironfang](/03_Mechanics/CLI/items/ironfang-pota.md). He left these weapons on the altar of the Elder Elemental Eye for their fated bearers to discover.
+The abandoned keeps and the dwarven stronghold beneath them might have been forgotten forever, but a few years ago a drow named Vizeran DeVir returned to the ancient Fane of the Eye. A renegade drow wizard of great power, DeVir was no servant of Lolth; like the forgotten sect that created the temple long ago, he devoted himself to the nameless power of the Elder Elemental Eye. His beliefs led to his exile from drow society, but his faithfulness to this dark power did not go unrewarded. Guided by visions, Vizeran DeVir created four mighty weapons imbued with Elemental Evil: the spear [[/03_Mechanics/CLI/items/windvane-pota|Windvane]], the dagger [[/03_Mechanics/CLI/items/tinderstrike-pota|Tinderstrike]], the trident [[/03_Mechanics/CLI/items/drown-pota|Drown]], and the war pick [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]]. He left these weapons on the altar of the Elder Elemental Eye for their fated bearers to discover.
 
-Within the last few months, each of the four elemental prophets was driven to seek out the ancient altar by dreams or visions. One by one, [Aerisi Kalinoth](/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md), [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md), [Gar Shatterkeel](/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md), and [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) claimed their weapons and became the leaders of their respective cults. The four prophets established themselves in the ruins of dwarven Tyar-Besil and occupied the Haunted Keeps that guard access to the vast dungeon. Lunatics, outlaws, power-hungry villains, and monsters of all description began to trickle into the valley, drawn by the dark call of Elemental Evil. Meanwhile, the prophets experimented with their new toys, nurturing the seeds of elemental nodes that grew larger every day and testing their powers to create ever-larger natural disasters.
+Within the last few months, each of the four elemental prophets was driven to seek out the ancient altar by dreams or visions. One by one, [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]], [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]], [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]], and [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] claimed their weapons and became the leaders of their respective cults. The four prophets established themselves in the ruins of dwarven Tyar-Besil and occupied the Haunted Keeps that guard access to the vast dungeon. Lunatics, outlaws, power-hungry villains, and monsters of all description began to trickle into the valley, drawn by the dark call of Elemental Evil. Meanwhile, the prophets experimented with their new toys, nurturing the seeds of elemental nodes that grew larger every day and testing their powers to create ever-larger natural disasters.
 
 After thousands of years, the seeds of Elemental Evil once again sprout beneath the Sumber Hills. Whether anyone can expose these sinister plots and put a stop to them remains to be seen.
 
@@ -77,7 +77,7 @@ Powerful factions have good reason to worry about the missing delegation. The Ha
 
 When the characters infiltrate or defeat these disguised groups of cultists, they discover that each Haunted Keep guards a passage leading to a huge dungeon beneath the Sumber Hills, the new Temple of Elemental Evil. Here, the elemental cults have established themselves in the ruins of an ancient dwarven stronghold. They are building up their strength as they work to master elemental power. The characters come up against the elemental prophets and confront one of the four cult leaders, whose identity depends on which part of the temple the characters explore first.
 
-Even as the characters delve into the elemental temples, their successes provoke retaliation. The elemental prophets dispatch bands of cultists armed with [devastation orbs](/03_Mechanics/CLI/items/devastation-orb-pota.md)—essentially bombs of elemental energy created from the elemental nodes—to unleash natural disasters throughout the Dessarin Valley, punishing everyone for the characters' interference.
+Even as the characters delve into the elemental temples, their successes provoke retaliation. The elemental prophets dispatch bands of cultists armed with [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orbs]]—essentially bombs of elemental energy created from the elemental nodes—to unleash natural disasters throughout the Dessarin Valley, punishing everyone for the characters' interference.
 
 Despite fierce opposition in the various elemental temples and the retribution of the offended cults, the characters succeed in rescuing some of the Mirabar delegates and driving out some or all of the cults from their newly established bases in Tyar-Besil. Unfortunately, other members of the delegation remain missing, and various other leads and mysteries remain unresolved. Worse yet, it quickly becomes clear that the elemental cults are on the brink of unleashing unthinkable disasters.
 
@@ -125,13 +125,13 @@ Earth cultists live and work underground. They craft weapons from stone or iron 
 
 #### Prophet of Earth
 
-A medusa named [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) leads the Black Earth cult. He wields the elemental weapon [Ironfang](/03_Mechanics/CLI/items/ironfang-pota.md), a war pick infused with the power of [Ogrémoch](/03_Mechanics/CLI/bestiary/npc/ogremoch-pota.md), the Prince of Evil Earth. Marlos is vain and cruel, an extreme narcissist who delights in surrounding himself with objects of beauty and luxurious comforts. Beneath this sneering self-assurance lies a bitter being who loathes himself and holds everyone around him in contempt.
+A medusa named [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] leads the Black Earth cult. He wields the elemental weapon [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]], a war pick infused with the power of [[/03_Mechanics/CLI/bestiary/npc/ogremoch-pota|Ogrémoch]], the Prince of Evil Earth. Marlos is vain and cruel, an extreme narcissist who delights in surrounding himself with objects of beauty and luxurious comforts. Beneath this sneering self-assurance lies a bitter being who loathes himself and holds everyone around him in contempt.
 
 Marlos began life as a human aristocrat, born into a wealthy Cormyrean family. He squandered his family's wealth on endless self-indulgence, seeking more questionable forms of entertainment through the years. The Urnrayle estate became known as a place of outrageous masquerades, bizarre banquets, and grotesque orgies. Marlos required his guests to don ugly or monstrous masks, thus ensuring that no one's beauty would outshine his own.
 
 As he aged, Marlos turned to magic to preserve his fading beauty. After searching for years, he found a ring that contained the stolen vitality of a lovely fey creature. As long as he wore the ring, his imperfections vanished and no one could resist his physical charms—until the day the ring transformed Marlos into a medusa. The horror of his fate drove Marlos mad. He fled his ancestral home, taking his collection of masks with him.
 
-After years of wandering and hiding in one ruined estate or another across the Western Heartlands, Marlos felt drawn to the desolate Sumber Hills by troubling dreams and visions. A long stairway beneath a ruined monastery brought him to an ancient cavern with a hideous altar, upon which lay a war pick of iron. When the medusa claimed [Ironfang](/03_Mechanics/CLI/items/ironfang-pota.md), his purpose finally became clear to him. He established his lair in the dungeon nearby and began building the Cult of the Black Earth.
+After years of wandering and hiding in one ruined estate or another across the Western Heartlands, Marlos felt drawn to the desolate Sumber Hills by troubling dreams and visions. A long stairway beneath a ruined monastery brought him to an ancient cavern with a hideous altar, upon which lay a war pick of iron. When the medusa claimed [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]], his purpose finally became clear to him. He established his lair in the dungeon nearby and began building the Cult of the Black Earth.
 
 ##### Traits
 
@@ -161,7 +161,7 @@ Because the cultists see water as the wellspring of all life and purpose, they s
 
 #### Prophet of Water
 
-The former sailor [Gar Shatterkeel](/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md) leads the Crushing Wave cult. He wields the elemental weapon [Drown](/03_Mechanics/CLI/items/drown-pota.md), a trident imbued with the essence of [Olhydra](/03_Mechanics/CLI/bestiary/npc/olhydra-pota.md), Princess of Evil Water. Gar is a sullen man who says little, letting his actions speak for him. He believes he has been wronged by the world and hates all people except those as broken and unfortunate as himself. Gar also despises weakness in others.
+The former sailor [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] leads the Crushing Wave cult. He wields the elemental weapon [[/03_Mechanics/CLI/items/drown-pota|Drown]], a trident imbued with the essence of [[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]], Princess of Evil Water. Gar is a sullen man who says little, letting his actions speak for him. He believes he has been wronged by the world and hates all people except those as broken and unfortunate as himself. Gar also despises weakness in others.
 
 Gar was born in a poor fishing village in the Nelanther Isles. At a young age, he lost his family to a sahuagin attack. The sea devils slaughtered almost everyone he knew. A Tethyrian merchant galley conscripted the young orphan into service, and Gar was forced into a brutal indentured servitude that was barely better than being enslaved. His unwilling service came to an end when pirates attacked the merchant ship. During the fighting, Gar was knocked overboard. For days he survived by clinging to the ship's wreckage, until a shark ripped off his left arm. Death seemed imminent, but a powerful current arose and bore him away from the hungry predator. Within an hour he was cast upon the shores of the Sword Coast.
 
@@ -197,15 +197,15 @@ Followers of the Eternal Flame cult surround themselves with the largest fires t
 
 #### Fire Prophet
 
-Through all-consuming ambition and a desire to punish all who ever thwarted her dreams, the tiefling [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) has risen to leadership of the Eternal Flame cult. Beneath her refined exterior is a steel edge of scorned pride. And underneath her hard pride lies a desire for murder and mayhem. [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) harbors a fierce hatred for all who think themselves superior to her, and she stops at nothing to make them see her as a figure to be feared and respected.
+Through all-consuming ambition and a desire to punish all who ever thwarted her dreams, the tiefling [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] has risen to leadership of the Eternal Flame cult. Beneath her refined exterior is a steel edge of scorned pride. And underneath her hard pride lies a desire for murder and mayhem. [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] harbors a fierce hatred for all who think themselves superior to her, and she stops at nothing to make them see her as a figure to be feared and respected.
 
-[Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) was born and raised in the crushing poverty of Calimport's poorest quarters, armed with only her cunning intelligence. In her youth, she learned to dance for coin and slowly worked her way up from the wine sinks of the laborers' districts to the elegant chambers of the city's nobles. She mastered minor fire magic to distinguish herself from other dancers and incorporated flame into her routine. Her talents grew, and soon she caught the eye of a pasha and became his concubine. But even as she enjoyed the gifts he lavished on her, [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) hated the pasha for seeing her as a mere trophy. She left before long, robbing the pasha of a small fortune in jewelry and setting fire to his palace.
+[[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] was born and raised in the crushing poverty of Calimport's poorest quarters, armed with only her cunning intelligence. In her youth, she learned to dance for coin and slowly worked her way up from the wine sinks of the laborers' districts to the elegant chambers of the city's nobles. She mastered minor fire magic to distinguish herself from other dancers and incorporated flame into her routine. Her talents grew, and soon she caught the eye of a pasha and became his concubine. But even as she enjoyed the gifts he lavished on her, [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] hated the pasha for seeing her as a mere trophy. She left before long, robbing the pasha of a small fortune in jewelry and setting fire to his palace.
 
-[Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) fled to Zazesspur, but her former master's agents soon found her. She fled again to Baldur's Gate, taking up residence in the poor neighborhood known as Little Calimshan. There she opened a school of dance and discovered that her gift for fire attracted other sorts of students. She became the leader of a cult of fire worshipers. There she remained until a few months ago, when dreams and visions impelled her to seek out a lost dungeon in the North. On the altar of a forgotten temple she found the dagger [Tinderstrike](/03_Mechanics/CLI/items/tinderstrike-pota.md), imbued with the power of [Imix](/03_Mechanics/CLI/bestiary/npc/imix-pota.md), the Prince of Evil Fire. Armed with this powerful weapon, [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) resolved to establish a new chapter of her cult beneath the Sumber Hills.
+[[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] fled to Zazesspur, but her former master's agents soon found her. She fled again to Baldur's Gate, taking up residence in the poor neighborhood known as Little Calimshan. There she opened a school of dance and discovered that her gift for fire attracted other sorts of students. She became the leader of a cult of fire worshipers. There she remained until a few months ago, when dreams and visions impelled her to seek out a lost dungeon in the North. On the altar of a forgotten temple she found the dagger [[/03_Mechanics/CLI/items/tinderstrike-pota|Tinderstrike]], imbued with the power of [[/03_Mechanics/CLI/bestiary/npc/imix-pota|Imix]], the Prince of Evil Fire. Armed with this powerful weapon, [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] resolved to establish a new chapter of her cult beneath the Sumber Hills.
 
 ##### Traits
 
-[Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) is an extraordinary manipulator. She collects allies and followers with her wiles, using them as she needs and discarding them the moment they lose their usefulness. It's a testament to her natural talent that many of her victims are pathetically eager to bask in the glow of her attention again if she discovers she needs something else from them. While [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) puts on the airs of a rich noble, she despises those raised with great wealth, and her sensibilities favor the coarse. [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) is ambitious above all else, and as undisputed master of the fire cult, she intends to make the Eternal Flame the strongest and most feared cult of all.
+[[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] is an extraordinary manipulator. She collects allies and followers with her wiles, using them as she needs and discarding them the moment they lose their usefulness. It's a testament to her natural talent that many of her victims are pathetically eager to bask in the glow of her attention again if she discovers she needs something else from them. While [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] puts on the airs of a rich noble, she despises those raised with great wealth, and her sensibilities favor the coarse. [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] is ambitious above all else, and as undisputed master of the fire cult, she intends to make the Eternal Flame the strongest and most feared cult of all.
 
 #### Enemies and Allies
 
@@ -219,7 +219,7 @@ The Cult of the Howling Hatred appeals to those who deal in perceptions over fac
 
 #### The Sign of the Howling Hatred
 
-The symbol of elemental air is an inverted triangle with three branching lines above it. Some believe it stands for the funnel cloud of a tornado, while others see it as the superiority of winged creatures over the ground. Some maintain it is an ancient rune that stands for the elemental lord [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). Whatever their interpretations, the air cultists use the symbol as a secret password of sorts. By touching the thumbs and little fingers together and closing the rest of the fingers into a fist, an air cultist forms an inverted triangle that is a mark of membership in the cult.
+The symbol of elemental air is an inverted triangle with three branching lines above it. Some believe it stands for the funnel cloud of a tornado, while others see it as the superiority of winged creatures over the ground. Some maintain it is an ancient rune that stands for the elemental lord [[/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota|Yan-C-Bin]]. Whatever their interpretations, the air cultists use the symbol as a secret password of sorts. By touching the thumbs and little fingers together and closing the rest of the fingers into a fist, an air cultist forms an inverted triangle that is a mark of membership in the cult.
 
 #### Tactics and Philosophy
 
@@ -229,15 +229,15 @@ Air cultists seek out high places for their strongholds wherever possible, altho
 
 #### Prophet of Air
 
-The moon elf [Aerisi Kalinoth](/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md) leads the Cult of the Howling Hatred. Tall and slender, with illusory wings that gently fan the air, Aerisi speaks to her people in a whisper that sounds clearly in the ears of all in her presence. Aerisi regards her followers not as cultists, but as her noble subjects. Before them she is prophet and queen. Musicians and courtiers amuse and flatter her, and warriors mounted on hippogriffs serve as her knights.
+The moon elf [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] leads the Cult of the Howling Hatred. Tall and slender, with illusory wings that gently fan the air, Aerisi speaks to her people in a whisper that sounds clearly in the ears of all in her presence. Aerisi regards her followers not as cultists, but as her noble subjects. Before them she is prophet and queen. Musicians and courtiers amuse and flatter her, and warriors mounted on hippogriffs serve as her knights.
 
 Aerisi grew up in an enchanted castle in a remote part of Faerie, surrounded by tales, histories, and tomes of magic. She passed her early years playing games, practicing enchantments, and imagining herself as one of the avariel (winged elves) from her storybooks. Her parents sheltered her from the conflicts of Faerûn, and she came of age with a tender and fragile disposition.
 
 Eventually her parents decided it was time for their daughter to engage in elven society, and they brought her to the hidden city of Evereska. Her parents then realized their grave mistake. In pampering and sheltering their daughter, they had raised not a young lady but a spoiled child. Accustomed to having all she desired, the princess erupted into tantrums whenever she was denied her slightest whim, and the moon elves of Evereska could hardly endure her.
 
-Aerisi felt powerless among the moon elves. Although she had become a skilled enchanter in Faerie, her people were resistant to such charms. In her dreams she began to envision herself as one of the winged elves from her storybooks. She wished to control the wind and go wherever she liked, and to punish those who offended her. The childlike fantasies of her youth became dark visions where she ruled the storms and the air itself. She dreamed of an old mystic with brown skin and white hair, who promised to teach her all she desired to know—a vision of [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md), the Prince of Evil Air. Aerisi turned her study to elemental air, learning the secret of flight and escaping Evereska to follow the deluded visions of her dreams.
+Aerisi felt powerless among the moon elves. Although she had become a skilled enchanter in Faerie, her people were resistant to such charms. In her dreams she began to envision herself as one of the winged elves from her storybooks. She wished to control the wind and go wherever she liked, and to punish those who offended her. The childlike fantasies of her youth became dark visions where she ruled the storms and the air itself. She dreamed of an old mystic with brown skin and white hair, who promised to teach her all she desired to know—a vision of [[/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota|Yan-C-Bin]], the Prince of Evil Air. Aerisi turned her study to elemental air, learning the secret of flight and escaping Evereska to follow the deluded visions of her dreams.
 
-Aerisi's visions led her to a strange altar in a cavern beneath the Sumber Hills, where she acquired the spear [Windvane](/03_Mechanics/CLI/items/windvane-pota.md). Driven by [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md), she dubbed herself a queen and set out to find followers to rule. Her enchantments helped fill the ranks of the Cult of the Howling Hatred with initiates hopelessly devoted to her.
+Aerisi's visions led her to a strange altar in a cavern beneath the Sumber Hills, where she acquired the spear [[/03_Mechanics/CLI/items/windvane-pota|Windvane]]. Driven by [[/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota|Yan-C-Bin]], she dubbed herself a queen and set out to find followers to rule. Her enchantments helped fill the ranks of the Cult of the Howling Hatred with initiates hopelessly devoted to her.
 
 ##### Traits
 
@@ -263,7 +263,7 @@ The following descriptions detail motivations associated with specific parts of 
 
 #### Best Served Cold
 
-The character must find and defeat [Windharrow](/03_Mechanics/CLI/bestiary/npc/windharrow-pota.md), the minstrel who attends [Aerisi Kalinoth](/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md). [Windharrow](/03_Mechanics/CLI/bestiary/npc/windharrow-pota.md) can initially be found in area A4 of the Temple of Howling Hatred. Most members of the air cult know that he stays near Aerisi. The character earns inspiration for reaching the air temple and again for defeating [Windharrow](/03_Mechanics/CLI/bestiary/npc/windharrow-pota.md).
+The character must find and defeat [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], the minstrel who attends [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]]. [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] can initially be found in area A4 of the Temple of Howling Hatred. Most members of the air cult know that he stays near Aerisi. The character earns inspiration for reaching the air temple and again for defeating [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]].
 
 #### Dangerous Information
 
@@ -287,7 +287,7 @@ The character has been sent to retrieve a Waterdhavian noblewoman. Savra Belabra
 
 #### The Fugitive
 
-The character is on the trail of a ruthless murderer, [Bastian Thermandar](/03_Mechanics/CLI/bestiary/npc/bastian-thermandar-pota.md). Bastian is an important member of the fire cult and can be found in the Temple of Eternal Flame. The character earns inspiration for reaching the fire temple and again for defeating or killing Bastian.
+The character is on the trail of a ruthless murderer, [[/03_Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]]. Bastian is an important member of the fire cult and can be found in the Temple of Eternal Flame. The character earns inspiration for reaching the fire temple and again for defeating or killing Bastian.
 
 #### Hired Hand
 
@@ -299,11 +299,11 @@ The character knows that unsavory sorts have occupied Rivergard Keep, and that t
 
 #### The Mud Sorcerer
 
-Months ago, the character was robbed by a genasi who killed several innocent bystanders. Now it's time to find [Miraj Vizann](/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md) and make him pay. Vizann can normally be found in area B8 of the Temple of Black Earth. The character earns inspiration for reaching the temple and again for defeating Miraj.
+Months ago, the character was robbed by a genasi who killed several innocent bystanders. Now it's time to find [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] and make him pay. Vizann can normally be found in area B8 of the Temple of Black Earth. The character earns inspiration for reaching the temple and again for defeating Miraj.
 
 #### Ominous Dream
 
-The character has seen the earth prophet, [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md), in dreams and knows that Marlos is a dangerous villain who must be stopped. The character earns inspiration for gaining access to the earth temple and again for defeating Marlos.
+The character has seen the earth prophet, [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]], in dreams and knows that Marlos is a dangerous villain who must be stopped. The character earns inspiration for gaining access to the earth temple and again for defeating Marlos.
 
 #### Recover Your Sword
 
@@ -315,7 +315,7 @@ Raiders from the fire cult have abducted people the character feels responsible 
 
 #### Seeking Revenge
 
-Fire cultists torched the character's home or razed a defenseless village. The character is sworn to stop them. The character earns inspiration for defeating Lyzzie Calderos in area E29 of the Temple of Eternal Flame and again for defeating [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md).
+Fire cultists torched the character's home or razed a defenseless village. The character is sworn to stop them. The character earns inspiration for defeating Lyzzie Calderos in area E29 of the Temple of Eternal Flame and again for defeating [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]].
 
 #### Settle a Score
 
@@ -323,11 +323,11 @@ Marauders in stony armor robbed the character's friends or family and left the c
 
 #### Shatterkeel's Trail
 
-Months ago, [Gar Shatterkeel](/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md) destroyed the character's ship by conjuring a powerful storm. Dozens of sailors died, and now the character intends revenge. The character earns inspiration for reaching the water temple and again for defeating Gar.
+Months ago, [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] destroyed the character's ship by conjuring a powerful storm. Dozens of sailors died, and now the character intends revenge. The character earns inspiration for reaching the water temple and again for defeating Gar.
 
 #### Standing Offer
 
-Months ago, the character served as a guide for a band of mysterious pilgrims who set out to reoccupy the Sacred Stone Monastery. The character's mission is to infiltrate the group and discover their intentions. The character earns inspiration for successfully joining the earth cult at the monastery and again for surviving an encounter with [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md), the lich in area M16 of the monastery.
+Months ago, the character served as a guide for a band of mysterious pilgrims who set out to reoccupy the Sacred Stone Monastery. The character's mission is to infiltrate the group and discover their intentions. The character earns inspiration for successfully joining the earth cult at the monastery and again for surviving an encounter with [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]], the lich in area M16 of the monastery.
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/009-poa01-06.webp#center)
 
@@ -337,11 +337,11 @@ An ancient map has come into the character's possession, showing the location of
 
 #### Suspicious Fellow
 
-The character becomes suspicious of [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md), a knight of the Feathergale Society, and decides to investigate. Thurl is normally found in Feathergale Spire. The character earns inspiration for defeating Thurl and again for discovering the Temple of Howling Hatred.
+The character becomes suspicious of [[/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]], a knight of the Feathergale Society, and decides to investigate. Thurl is normally found in Feathergale Spire. The character earns inspiration for defeating Thurl and again for discovering the Temple of Howling Hatred.
 
 #### Undercover
 
-The character is tasked to break up a smuggling and piracy ring on the Dessarin River headquartered at Rivergard Keep. The character earns inspiration for successfully joining the water cult at Rivergard Keep and again for capturing or killing [Shoalar Quanderil](/03_Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md).
+The character is tasked to break up a smuggling and piracy ring on the Dessarin River headquartered at Rivergard Keep. The character earns inspiration for successfully joining the water cult at Rivergard Keep and again for capturing or killing [[/03_Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota|Shoalar Quanderil]].
 
 #### Walked Away
 
@@ -363,7 +363,7 @@ As the characters further explore the Dessarin Valley, they meet other NPCs affi
 
 A scattered network of spellcasters and spies, the Harpers advocate equality and covertly oppose the abuse of power, magical or otherwise. Agents operate in secret and emphasize stealth and subtlety, or at the very least discretion. Bards and wizards are their most prominent members.
 
-Harpers operate in small cells throughout the North. One is based in Triboar: [Darathra Shendrel](/03_Mechanics/CLI/bestiary/npc/darathra-shendrel-pota.md), the Lord Protector, belongs to the faction, and Harper agents can find welcome at the Home of the Boars.
+Harpers operate in small cells throughout the North. One is based in Triboar: [[/03_Mechanics/CLI/bestiary/npc/darathra-shendrel-pota|Darathra Shendrel]], the Lord Protector, belongs to the faction, and Harper agents can find welcome at the Home of the Boars.
 
 Another cell in the prosperous trade center of Yartar monitors traffic in the Dessarin Valley and the actions and policies of the city's Waterbaron. The Harpers work to maintain the balance of power between the various groups competing to influence the city.
 

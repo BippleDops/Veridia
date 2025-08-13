@@ -20,19 +20,19 @@ world: Both
 
 ## 1st Level
 
-- [Cause Fear](/03_Mechanics/CLI/spells/cause-fear-xge.md "XGE") 
-- [Color Spray](/03_Mechanics/CLI/spells/color-spray-xphb.md "XPHB") 
-- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") 
-- [False Life](/03_Mechanics/CLI/spells/false-life-xphb.md "XPHB") 
-- [Illusory Script](/03_Mechanics/CLI/spells/illusory-script-xphb.md "XPHB") 
-- [Inflict Wounds](/03_Mechanics/CLI/spells/inflict-wounds-xphb.md "XPHB") 
-- [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") 
-- [Silent Image](/03_Mechanics/CLI/spells/silent-image-xphb.md "XPHB") 
-- [Wrathful Smite](/03_Mechanics/CLI/spells/wrathful-smite-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/cause-fear-xge "XGE"|Cause Fear]] 
+- [[/03_Mechanics/CLI/spells/color-spray-xphb "XPHB"|Color Spray]] 
+- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] 
+- [[/03_Mechanics/CLI/spells/false-life-xphb "XPHB"|False Life]] 
+- [[/03_Mechanics/CLI/spells/illusory-script-xphb "XPHB"|Illusory Script]] 
+- [[/03_Mechanics/CLI/spells/inflict-wounds-xphb "XPHB"|Inflict Wounds]] 
+- [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb "XPHB"|Ray of Sickness]] 
+- [[/03_Mechanics/CLI/spells/silent-image-xphb "XPHB"|Silent Image]] 
+- [[/03_Mechanics/CLI/spells/wrathful-smite-xphb "XPHB"|Wrathful Smite]] 
 
 ## 2nd Level
 
-- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/invisibility-xphb "XPHB"|Invisibility]]
 
 ## Player-Facing Summary
 

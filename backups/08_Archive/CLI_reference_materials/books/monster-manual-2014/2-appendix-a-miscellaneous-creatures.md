@@ -28,101 +28,101 @@ This appendix contains statistics for various animals, vermin, and other critter
 > A book of this size can't contain statistics for every animal inhabiting your D&D campaign world. However, you can use the stat block of one animal to represent another easily enough. For example, you can use the panther statistics to represent a jaguar, the giant goat statistics to represent a buffalo, and the hawk statistics to represent a falcon.
 ^other-animals
 
-- [Ape](/03_Mechanics/CLI/bestiary/beast/ape-xmm.md)  
-- [Awakened Shrub](/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md)  
-- [Awakened Tree](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md)  
-- [Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md)  
-- [Baboon](/03_Mechanics/CLI/bestiary/beast/baboon-xmm.md)  
-- [Badger](/03_Mechanics/CLI/bestiary/beast/badger-xmm.md)  
-- [Bat](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md)  
-- [Black Bear](/03_Mechanics/CLI/bestiary/beast/black-bear-xmm.md)  
-- [Blink Dog](/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm.md)  
-- [Blood Hawk](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md)  
-- [Boar](/03_Mechanics/CLI/bestiary/beast/boar-xmm.md)  
-- [Brown Bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md)  
-- [Camel](/03_Mechanics/CLI/bestiary/beast/camel-xmm.md)  
-- [Cat](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md)  
-- [Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md)  
-- [Crab](/03_Mechanics/CLI/bestiary/beast/crab-xmm.md)  
-- [Crocodile](/03_Mechanics/CLI/bestiary/beast/crocodile-xmm.md)  
-- [Death Dog](/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md)  
-- [Deer](/03_Mechanics/CLI/bestiary/beast/deer-xmm.md)  
-- [Dire Wolf](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)  
-- [Draft Horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md)  
-- [Eagle](/03_Mechanics/CLI/bestiary/beast/eagle-xmm.md)  
-- [Elephant](/03_Mechanics/CLI/bestiary/beast/elephant-xmm.md)  
-- [Elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md)  
-- [Flying Snake](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md)  
-- [Frog](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md)  
-- [Giant Ape](/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm.md)  
-- [Giant Badger](/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm.md)  
-- [Giant Bat](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)  
-- [Giant Boar](/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm.md)  
-- [Giant Centipede](/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md)  
-- [Giant Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md)  
-- [Giant Crab](/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm.md)  
-- [Giant Crocodile](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md)  
-- [Giant Eagle](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md)  
-- [Giant Elk](/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md)  
-- [Giant Fire Beetle](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md)  
-- [Giant Frog](/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm.md)  
-- [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md)  
-- [Giant Hyena](/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md)  
-- [Giant Lizard](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md)  
-- [Giant Octopus](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md)  
-- [Giant Owl](/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md)  
-- [Giant Poisonous Snake](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md)  
-- [Giant Rat](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)  
-- [Giant Scorpion](/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md)  
-- [Giant Sea Horse](/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm.md)  
-- [Giant Shark](/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm.md)  
-- [Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)  
-- [Giant Toad](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md)  
-- [Giant Vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md)  
-- [Giant Wasp](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md)  
-- [Giant Weasel](/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md)  
-- [Giant Wolf Spider](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md)  
-- [Goat](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md)  
-- [Hawk](/03_Mechanics/CLI/bestiary/beast/hawk-xmm.md)  
-- [Hunter Shark](/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md)  
-- [Hyena](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md)  
-- [Jackal](/03_Mechanics/CLI/bestiary/beast/jackal-xmm.md)  
-- [Killer Whale](/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm.md)  
-- [Lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md)  
-- [Lizard](/03_Mechanics/CLI/bestiary/beast/lizard-xmm.md)  
-- [Mammoth](/03_Mechanics/CLI/bestiary/beast/mammoth-xmm.md)  
-- [Mastiff](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md)  
-- [Mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md)  
-- [Octopus](/03_Mechanics/CLI/bestiary/beast/octopus-xmm.md)  
-- [Owl](/03_Mechanics/CLI/bestiary/beast/owl-xmm.md)  
-- [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md)  
-- [Phase Spider](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md)  
-- [Poisonous Snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md)  
-- [Polar Bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md)  
-- [Pony](/03_Mechanics/CLI/bestiary/beast/pony-xmm.md)  
-- [Quipper](/03_Mechanics/CLI/bestiary/beast/piranha-xmm.md)  
-- [Rat](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md)  
-- [Raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md)  
-- [Reef Shark](/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm.md)  
-- [Rhinoceros](/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md)  
-- [Riding Horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md)  
-- [Saber-Toothed Tiger](/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm.md)  
-- [Scorpion](/03_Mechanics/CLI/bestiary/beast/scorpion-xmm.md)  
-- [Sea Horse](/03_Mechanics/CLI/bestiary/beast/seahorse-xmm.md)  
-- [Spider](/03_Mechanics/CLI/bestiary/beast/spider-xmm.md)  
-- [Swarm of Bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)  
-- [Swarm of Insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Poisonous Snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md)  
-- [Swarm of Quippers](/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md)  
-- [Swarm of Rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md)  
-- [Swarm of Ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md)  
-- [Tiger](/03_Mechanics/CLI/bestiary/beast/tiger-xmm.md)  
-- [Vulture](/03_Mechanics/CLI/bestiary/beast/vulture-xmm.md)  
-- [Warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md)  
-- [Weasel](/03_Mechanics/CLI/bestiary/beast/weasel-xmm.md)  
-- [Winter Wolf](/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md)  
-- [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
-- [Worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md)
+- [[/03_Mechanics/CLI/bestiary/beast/ape-xmm|Ape]]  
+- [[/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm|Awakened Shrub]]  
+- [[/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm|Awakened Tree]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm|Axe Beak]]  
+- [[/03_Mechanics/CLI/bestiary/beast/baboon-xmm|Baboon]]  
+- [[/03_Mechanics/CLI/bestiary/beast/badger-xmm|Badger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/bat-xmm|Bat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/black-bear-xmm|Black Bear]]  
+- [[/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm|Blink Dog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm|Blood Hawk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/boar-xmm|Boar]]  
+- [[/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm|Brown Bear]]  
+- [[/03_Mechanics/CLI/bestiary/beast/camel-xmm|Camel]]  
+- [[/03_Mechanics/CLI/bestiary/beast/cat-xmm|Cat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm|Constrictor Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/crab-xmm|Crab]]  
+- [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|Crocodile]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm|Death Dog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/deer-xmm|Deer]]  
+- [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|Dire Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|Draft Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/eagle-xmm|Eagle]]  
+- [[/03_Mechanics/CLI/bestiary/beast/elephant-xmm|Elephant]]  
+- [[/03_Mechanics/CLI/bestiary/beast/elk-xmm|Elk]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm|Flying Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/frog-xmm|Frog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm|Giant Ape]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm|Giant Badger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm|Giant Bat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm|Giant Boar]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm|Giant Centipede]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|Giant Constrictor Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm|Giant Crab]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|Giant Crocodile]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm|Giant Eagle]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm|Giant Elk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm|Giant Fire Beetle]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|Giant Frog]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm|Giant Hyena]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|Giant Lizard]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|Giant Octopus]]  
+- [[/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm|Giant Owl]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|Giant Poisonous Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|Giant Rat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm|Giant Scorpion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm|Giant Sea Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm|Giant Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|Giant Toad]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm|Giant Vulture]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm|Giant Wasp]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm|Giant Weasel]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm|Giant Wolf Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/goat-xmm|Goat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hawk-xmm|Hawk]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm|Hunter Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/hyena-xmm|Hyena]]  
+- [[/03_Mechanics/CLI/bestiary/beast/jackal-xmm|Jackal]]  
+- [[/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm|Killer Whale]]  
+- [[/03_Mechanics/CLI/bestiary/beast/lion-xmm|Lion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/lizard-xmm|Lizard]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mammoth-xmm|Mammoth]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mastiff-xmm|Mastiff]]  
+- [[/03_Mechanics/CLI/bestiary/beast/mule-xmm|Mule]]  
+- [[/03_Mechanics/CLI/bestiary/beast/octopus-xmm|Octopus]]  
+- [[/03_Mechanics/CLI/bestiary/beast/owl-xmm|Owl]]  
+- [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm|Phase Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Poisonous Snake]]  
+- [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|Polar Bear]]  
+- [[/03_Mechanics/CLI/bestiary/beast/pony-xmm|Pony]]  
+- [[/03_Mechanics/CLI/bestiary/beast/piranha-xmm|Quipper]]  
+- [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|Rat]]  
+- [[/03_Mechanics/CLI/bestiary/beast/raven-xmm|Raven]]  
+- [[/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm|Reef Shark]]  
+- [[/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm|Rhinoceros]]  
+- [[/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm|Riding Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm|Saber-Toothed Tiger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/scorpion-xmm|Scorpion]]  
+- [[/03_Mechanics/CLI/bestiary/beast/seahorse-xmm|Sea Horse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/spider-xmm|Spider]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|Swarm of Bats]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|Swarm of Insects]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|Swarm of Poisonous Snakes]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm|Swarm of Quippers]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|Swarm of Rats]]  
+- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|Swarm of Ravens]]  
+- [[/03_Mechanics/CLI/bestiary/beast/tiger-xmm|Tiger]]  
+- [[/03_Mechanics/CLI/bestiary/beast/vulture-xmm|Vulture]]  
+- [[/03_Mechanics/CLI/bestiary/beast/warhorse-xmm|Warhorse]]  
+- [[/03_Mechanics/CLI/bestiary/beast/weasel-xmm|Weasel]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm|Winter Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/fey/worg-xmm|Worg]]
 
 ## Player-Facing Summary
 

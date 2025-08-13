@@ -178,6 +178,6 @@ Legends speak of The Last Priest as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Priest]]
+- [[02_Worldbuilding/Places/The Last Priest|02 Worldbuilding/Places/The Last Priest]]
 
 <!-- enriched: true -->

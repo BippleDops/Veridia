@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[02_Worldbuilding/Quests/Quest - The Lost Expedition|02 Worldbuilding/Quests/Quest The Lost Expedition]]
 
 
 ## Connections

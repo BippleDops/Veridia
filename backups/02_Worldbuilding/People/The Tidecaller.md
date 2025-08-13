@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 
 
 ## Connections
@@ -27,7 +27,7 @@ tags:
 - [[Captain Nautilus the Deep Wanderer]]
 - [[The Tidal Council]]
 - [[Harbor Master Luna Freedrift]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

@@ -32,7 +32,7 @@ Truth: 50% baseline; adjust ±20% by source reliability.
 - Amplifying a false rumor imposes -1 with the most affected faction; correcting it grants +1 with the harmed party.
 
 ## Cross-References
-- [[03_Mechanics/Living_Economy_Syste]]
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 
 ## Player-Facing Summary

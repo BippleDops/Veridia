@@ -25,34 +25,34 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-15 | [Potion of superior healing](/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) |
-| 16-22 | [Spell scroll (4th level)](/03_Mechanics/CLI/items/spell-scroll-level-4-xdmg.md) |
-| 23-27 | [+2 ammunition](/03_Mechanics/CLI/items/2-ammunition-xdmg.md) |
-| 28-32 | [Potion of clairvoyance](/03_Mechanics/CLI/items/potion-of-clairvoyance-xdmg.md) |
-| 33-37 | [Potion of diminution](/03_Mechanics/CLI/items/potion-of-diminution-xdmg.md) |
-| 38-42 | [Potion of gaseous form](/03_Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md) |
-| 43-47 | [Potion of frost giant strength](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md) |
-| 48-52 | [Potion of stone giant strength](/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg.md) |
-| 53-57 | [Potion of heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md) |
-| 58-62 | [Potion of invulnerability](/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg.md) |
-| 63-67 | [Potion of mind reading](/03_Mechanics/CLI/items/potion-of-mind-reading-xdmg.md) |
-| 68-72 | [Spell scroll (5th level)](/03_Mechanics/CLI/items/spell-scroll-level-5-xdmg.md) |
-| 73-75 | [Elixir of health](/03_Mechanics/CLI/items/elixir-of-health-xdmg.md) |
-| 76-78 | [Oil of etherealness](/03_Mechanics/CLI/items/oil-of-etherealness-xdmg.md) |
-| 79-81 | [Potion of fire giant strength](/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md) |
-| 82-84 | [Quaal's feather token](/03_Mechanics/CLI/items/quaals-feather-token-xdmg.md) |
-| 85-87 | [Scroll of protection](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md) |
-| 88-89 | [Bag of beans](/03_Mechanics/CLI/items/bag-of-beans-xdmg.md) |
-| 90-91 | [Bead of force](/03_Mechanics/CLI/items/bead-of-force-xdmg.md) |
-| 92 | [Chime of opening](/03_Mechanics/CLI/items/chime-of-opening-xdmg.md) |
-| 93 | [Decanter of endless water](/03_Mechanics/CLI/items/decanter-of-endless-water-xdmg.md) |
-| 94 | [Eyes of minute seeing](/03_Mechanics/CLI/items/eyes-of-minute-seeing-xdmg.md) |
-| 95 | [Folding boat](/03_Mechanics/CLI/items/folding-boat-xdmg.md) |
-| 96 | [Heward's handy haversack](/03_Mechanics/CLI/items/hewards-handy-haversack-xdmg.md) |
-| 97 | [Horseshoes of speed](/03_Mechanics/CLI/items/horseshoes-of-speed-xdmg.md) |
-| 98 | [Necklace of fireballs](/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg.md) |
-| 99 | [Periapt of health](/03_Mechanics/CLI/items/periapt-of-health-xdmg.md) |
-| 00 | [Sending stones](/03_Mechanics/CLI/items/sending-stones-xdmg.md) |
+| 01-15 | [[/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg|Potion of superior healing]] |
+| 16-22 | [[/03_Mechanics/CLI/items/spell-scroll-level-4-xdmg|Spell scroll (4th level)]] |
+| 23-27 | [[/03_Mechanics/CLI/items/2-ammunition-xdmg|+2 ammunition]] |
+| 28-32 | [[/03_Mechanics/CLI/items/potion-of-clairvoyance-xdmg|Potion of clairvoyance]] |
+| 33-37 | [[/03_Mechanics/CLI/items/potion-of-diminution-xdmg|Potion of diminution]] |
+| 38-42 | [[/03_Mechanics/CLI/items/potion-of-gaseous-form-xdmg|Potion of gaseous form]] |
+| 43-47 | [[/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg|Potion of frost giant strength]] |
+| 48-52 | [[/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg|Potion of stone giant strength]] |
+| 53-57 | [[/03_Mechanics/CLI/items/potion-of-heroism-xdmg|Potion of heroism]] |
+| 58-62 | [[/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg|Potion of invulnerability]] |
+| 63-67 | [[/03_Mechanics/CLI/items/potion-of-mind-reading-xdmg|Potion of mind reading]] |
+| 68-72 | [[/03_Mechanics/CLI/items/spell-scroll-level-5-xdmg|Spell scroll (5th level)]] |
+| 73-75 | [[/03_Mechanics/CLI/items/elixir-of-health-xdmg|Elixir of health]] |
+| 76-78 | [[/03_Mechanics/CLI/items/oil-of-etherealness-xdmg|Oil of etherealness]] |
+| 79-81 | [[/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg|Potion of fire giant strength]] |
+| 82-84 | [[/03_Mechanics/CLI/items/quaals-feather-token-xdmg|Quaal's feather token]] |
+| 85-87 | [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|Scroll of protection]] |
+| 88-89 | [[/03_Mechanics/CLI/items/bag-of-beans-xdmg|Bag of beans]] |
+| 90-91 | [[/03_Mechanics/CLI/items/bead-of-force-xdmg|Bead of force]] |
+| 92 | [[/03_Mechanics/CLI/items/chime-of-opening-xdmg|Chime of opening]] |
+| 93 | [[/03_Mechanics/CLI/items/decanter-of-endless-water-xdmg|Decanter of endless water]] |
+| 94 | [[/03_Mechanics/CLI/items/eyes-of-minute-seeing-xdmg|Eyes of minute seeing]] |
+| 95 | [[/03_Mechanics/CLI/items/folding-boat-xdmg|Folding boat]] |
+| 96 | [[/03_Mechanics/CLI/items/hewards-handy-haversack-xdmg|Heward's handy haversack]] |
+| 97 | [[/03_Mechanics/CLI/items/horseshoes-of-speed-xdmg|Horseshoes of speed]] |
+| 98 | [[/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg|Necklace of fireballs]] |
+| 99 | [[/03_Mechanics/CLI/items/periapt-of-health-xdmg|Periapt of health]] |
+| 00 | [[/03_Mechanics/CLI/items/sending-stones-xdmg|Sending stones]] |
 ^magic-item-table-c
 
 ## Player-Facing Summary

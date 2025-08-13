@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-devil-xphb-fiendish-spirit-devil-xphb.svg)
 
-# [Fiendish Spirit (Devil)](3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-devil-xphb.md)
+# [[3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-devil-xphb|Fiendish Spirit (Devil)]]
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock
@@ -44,7 +44,7 @@ world: Both
 "speed": "40 ft., fly 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":

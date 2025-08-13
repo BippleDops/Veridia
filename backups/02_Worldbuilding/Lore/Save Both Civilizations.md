@@ -363,12 +363,12 @@ Resource access improvement provides characters with equipment and support that 
 Mentorship opportunity availability enables experienced characters to train others while building legacy relationships that continue beyond immediate adventure activities.
 
 ## Connected Organizations and Campaigns
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Primary political framework for dual civilization cooperation
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater civilization requiring preservation
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface civilization requiring preservation
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major existential threat to both civilizations
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]] - Allied force supporting preservation efforts
-- [[02_Worldbuilding/People/Chancellor Marina Depthcaller]] - Political leader of joint preservation efforts
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Primary political framework for dual civilization cooperation
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater civilization requiring preservation
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface civilization requiring preservation
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Major existential threat to both civilizations
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet|02 Worldbuilding/Lore/Eastern Kingdom Fleet]] - Allied force supporting preservation efforts
+- [[02_Worldbuilding/People/Chancellor Marina Depthcaller|02 Worldbuilding/People/Chancellor Marina Depthcaller]] - Political leader of joint preservation efforts
 
 ## Player-Facing Summary
 
@@ -392,7 +392,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Chancellor Marina Depthcaller]]
+- [[02_Worldbuilding/Lore/Chancellor Marina Depthcaller|02 Worldbuilding/Lore/Chancellor Marina Depthcaller]]
 
 
 ## Connections

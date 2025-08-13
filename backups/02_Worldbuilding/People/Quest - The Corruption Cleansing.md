@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Corruption Cleansing]]
+- [[02_Worldbuilding/People/Quest - The Corruption Cleansing|02 Worldbuilding/People/Quest The Corruption Cleansing]]
 
 <!-- enriched: true -->
 

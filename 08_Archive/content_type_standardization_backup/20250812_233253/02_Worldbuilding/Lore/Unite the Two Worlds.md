@@ -24,7 +24,7 @@ accessibility:
 
 # Unite the Two Worlds
 
-![Unite the Two Worlds Portrait](04_Resources/Assets/Art/Lore/Unite_the_Two_Worlds.png)
+![[04_Resources/Assets/Art/Lore/Unite_the_Two_Worlds.png|Unite the Two Worlds Portrait]]
 
 ## Summary
 Unite the Two Worlds describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

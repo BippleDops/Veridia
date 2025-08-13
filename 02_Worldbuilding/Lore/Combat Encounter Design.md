@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
 
 
 ## Connections

@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/thunderwave-xphb "XPHB"|Thunderwave]]
 
 ## Player-Facing Summary
 

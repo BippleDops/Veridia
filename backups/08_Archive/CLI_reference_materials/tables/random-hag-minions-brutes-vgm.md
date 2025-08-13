@@ -25,18 +25,18 @@ world: Both
 
 | dice: d12 | Brute(s) |
 |-----------|----------|
-| 1 | [Bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
-| 2 | [Doppelgangers](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) |
-| 3 | [Ettercaps](/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) |
-| 4 | [Gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| 5 | [Jackalweres](/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md) |
-| 6 | [Kenku](/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) |
-| 7 | [Meenlocks](/03_Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) |
-| 8 | [Oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md) |
-| 9 | [Quicklings](/03_Mechanics/CLI/bestiary/fey/quickling-mpmm.md) |
-| 10 | [Redcaps](/03_Mechanics/CLI/bestiary/fey/redcap-mpmm.md) |
-| 11 | [Wererats](/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) |
-| 12 | [Werewolves](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) |
+| 1 | [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbears]] |
+| 2 | [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelgangers]] |
+| 3 | [[/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm|Ettercaps]] |
+| 4 | [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|Gargoyles]] |
+| 5 | [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|Jackalweres]] |
+| 6 | [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|Kenku]] |
+| 7 | [[/03_Mechanics/CLI/bestiary/fey/meenlock-mpmm|Meenlocks]] |
+| 8 | [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|Oni]] |
+| 9 | [[/03_Mechanics/CLI/bestiary/fey/quickling-mpmm|Quicklings]] |
+| 10 | [[/03_Mechanics/CLI/bestiary/fey/redcap-mpmm|Redcaps]] |
+| 11 | [[/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm|Wererats]] |
+| 12 | [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|Werewolves]] |
 ^brutes
 
 ## Player-Facing Summary

@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Neutral Zone]]
+- [[02_Worldbuilding/People/Neutral Zone|02 Worldbuilding/People/Neutral Zone]]
 
 <!-- enriched: true -->
 

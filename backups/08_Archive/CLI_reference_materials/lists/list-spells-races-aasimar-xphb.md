@@ -20,7 +20,7 @@ world: Both
 
 ## Cantrip
 
-- [Light](/03_Mechanics/CLI/spells/light-xphb.md "XPHB") as cantrip
+- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] as cantrip
 
 ## Player-Facing Summary
 

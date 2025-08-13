@@ -25,9 +25,9 @@ world: Both
 *Source: Player's Handbook p. 141*  
 
 
-- **Skill Proficiencies.** [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand), [Stealth](/03_Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise kit](/03_Mechanics/CLI/items/disguise-kit-xphb.md), [Thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [common clothes](/03_Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/03_Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]]  
+- **Tool Proficiencies.** [[/03_Mechanics/CLI/items/disguise-kit-xphb|Disguise kit]], [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' tools]]  
+- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [[/03_Mechanics/CLI/items/common-clothes|common clothes]], and a belt [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 10 gp  
 
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 

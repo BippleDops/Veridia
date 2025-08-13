@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet|02 Worldbuilding/Lore/Eastern Kingdom Fleet]]
 
 
 ## Connections

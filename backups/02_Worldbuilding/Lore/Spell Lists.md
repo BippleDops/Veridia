@@ -613,16 +613,16 @@ Magic that is forbidden due to dangerous consequences or corrupted nature.
 - **Defensive Applications**: Using environmental magic to protect communities
 
 ## Connected Magical Systems and Organizations
-- [[02_Worldbuilding/Lore/Spell Components]] - Materials and focuses for magical casting
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation]] - Transformation and adaptation magic
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation]] - Energy and force manipulation magic
-- [[02_Worldbuilding/Lore/Institute of Unified Magic]] - Premier cross-realm magical research institution
-- [[02_Worldbuilding/People/Archmage Tidal Currentweave]] - Master of both magical traditions
-- [[02_Worldbuilding/People/Biomancer Corvus Intestinal]] - Specialist in biological manipulation magic
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Location where crystal-based magic is developed
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Facility for researching harmonic and frequency magic
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical development center
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface magical research hub
+- [[02_Worldbuilding/Lore/Spell Components|02 Worldbuilding/Lore/Spell Components]] - Materials and focuses for magical casting
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation|02 Worldbuilding/Lore/Ω System CLI Spells School Transmutation]] - Transformation and adaptation magic
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]] - Energy and force manipulation magic
+- [[02_Worldbuilding/Lore/Institute of Unified Magic|02 Worldbuilding/Lore/Institute Of Unified Magic]] - Premier cross-realm magical research institution
+- [[02_Worldbuilding/People/Archmage Tidal Currentweave|02 Worldbuilding/People/Archmage Tidal Currentweave]] - Master of both magical traditions
+- [[02_Worldbuilding/People/Biomancer Corvus Intestinal|02 Worldbuilding/People/Biomancer Corvus Intestinal]] - Specialist in biological manipulation magic
+- [[02_Worldbuilding/Lore/Crystal Forest|02 Worldbuilding/Lore/Crystal Forest]] - Location where crystal-based magic is developed
+- [[02_Worldbuilding/Lore/Resonance Chamber|02 Worldbuilding/Lore/Resonance Chamber]] - Facility for researching harmonic and frequency magic
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical development center
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface magical research hub
 
 
 ## Connections
@@ -651,5 +651,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Templater Advanced]]
+- [[02_Worldbuilding/Lore/Templater Advanced|02 Worldbuilding/Lore/Templater Advanced]]
 - [[Aethermoor]]

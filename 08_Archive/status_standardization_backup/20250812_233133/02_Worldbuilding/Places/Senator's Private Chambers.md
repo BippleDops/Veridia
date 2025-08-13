@@ -260,7 +260,7 @@ Legends speak of Senator's Private Chambers as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers|02 Worldbuilding/Places/Senator's Private Chambers]]
 
 <!-- enriched: true -->
 - [[The Shadow Conspiracy]]

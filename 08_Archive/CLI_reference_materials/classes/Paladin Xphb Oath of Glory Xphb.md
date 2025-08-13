@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Oath of Glory
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[./paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 114*  
 
 > [!tldr] Class and Feature Progression
@@ -75,44 +75,44 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md), [Heroism](/03_Mechanics/CLI/spells/heroism-xphb.md) |
-| 5th | [Enhance Ability](/03_Mechanics/CLI/spells/enhance-ability-xphb.md), [Magic Weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md) |
-| 9th | [Haste](/03_Mechanics/CLI/spells/haste-xphb.md), [Protection from Energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 13th | [Compulsion](/03_Mechanics/CLI/spells/compulsion-xphb.md), [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 17th | [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md), [Yolande's Regal Presence](/03_Mechanics/CLI/spells/yolandes-regal-presence-xphb.md) |
+| 3rd | [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]], [[/03_Mechanics/CLI/spells/heroism-xphb|Heroism]] |
+| 5th | [[/03_Mechanics/CLI/spells/enhance-ability-xphb|Enhance Ability]], [[/03_Mechanics/CLI/spells/magic-weapon-xphb|Magic Weapon]] |
+| 9th | [[/03_Mechanics/CLI/spells/haste-xphb|Haste]], [[/03_Mechanics/CLI/spells/protection-from-energy-xphb|Protection from Energy]] |
+| 13th | [[/03_Mechanics/CLI/spells/compulsion-xphb|Compulsion]], [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb|Freedom of Movement]] |
+| 17th | [[/03_Mechanics/CLI/spells/legend-lore-xphb|Legend Lore]], [[/03_Mechanics/CLI/spells/yolandes-regal-presence-xphb|Yolande's Regal Presence]] |
 ^oath-of-glory-spells
 
 ### Inspiring Smite (Level 3)
 
-Immediately after you cast [Divine Smite](/03_Mechanics/CLI/spells/divine-smite-xphb.md), you can expend one use of your Channel Divinity and distribute [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) to creatures of your choice within 30 feet of yourself, which can include you. The total number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you cast [[/03_Mechanics/CLI/spells/divine-smite-xphb|Divine Smite]], you can expend one use of your Channel Divinity and distribute [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
 
 ### Peerless Athlete (Level 3)
 
-As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) and Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
+As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) and Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Aura of Alacrity (Level 7)
 
 Your Speed increases by 10 feet.
 
-In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet until the end of their next turn.
+In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] increases by 10 feet until the end of their next turn.
 
 ### Glorious Defense (Level 15)
 
-You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) if the attacker is within your weapon's range.
+You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] if the attacker is within your weapon's range.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Living Legend (Level 20)
 
-You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Charismatic
 
-You are blessed with an otherworldly presence and have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on all Charisma checks.
+You are blessed with an otherworldly presence and have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on all Charisma checks.
 
 #### Saving Throw Reroll
 
-If you fail a saving throw, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to reroll it. You must use this new roll.
+If you fail a saving throw, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to reroll it. You must use this new roll.
 
 #### Unerring Strike
 

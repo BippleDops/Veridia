@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/water-breathing-xphb "XPHB"|Water Breathing]]
 
 ## Player-Facing Summary
 

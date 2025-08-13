@@ -172,7 +172,7 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 **Druidic Enhancement**
 - **Perfect Shapeshifting**: Transform into any natural creature or plant
 - **Elemental Communication**: Speak with earth, air, fire, and water
-- **Weather Cooperation**: Work with [[02_Worldbuilding/People/Azure Shard]] on weather patterns
+- **Weather Cooperation**: Work with [[02_Worldbuilding/People/Azure Shard|02 Worldbuilding/People/Azure Shard]] on weather patterns
 - **Animal Communion**: Understand and command all natural creatures
 - **Natural Healing**: Cure any disease or injury through plant medicine
 
@@ -247,14 +247,14 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 ## Relationships with Other Guardians
 
 ### Active Guardian Connections
-**[[02_Worldbuilding/People/Azure Shard]]** (Sky/Storm)
+**[[02_Worldbuilding/People/Azure Shard|02 Worldbuilding/People/Azure Shard]]** (Sky/Storm)
 - Closest ally and frequent collaborator on environmental projects
 - Coordinate weather patterns with plant growth cycles
 - Regular communication about realm-wide ecological health
 - Share information about threats to natural systems
 - Work together on climate restoration and stability
 
-**[[02_Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
+**[[02_Worldbuilding/People/Seventh Shard|02 Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
 - Deeply troubled by Seventh's increasing isolation and strange activities
 - Verdant represents life while Seventh seems to embrace emptiness
 - Still attempts regular communication despite philosophical differences
@@ -461,14 +461,14 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Azure Shard]] - Primary guardian ally
-- [[02_Worldbuilding/People/Seventh Shard]] - Concerning guardian relationship
-- [[02_Worldbuilding/People/The Emperor]] - Original Crown bearer
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Successor druid
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]] - Druidic advisor
+- [[02_Worldbuilding/People/Azure Shard|02 Worldbuilding/People/Azure Shard]] - Primary guardian ally
+- [[02_Worldbuilding/People/Seventh Shard|02 Worldbuilding/People/Seventh Shard]] - Concerning guardian relationship
+- [[02_Worldbuilding/People/The Emperor|02 Worldbuilding/People/The Emperor]] - Original Crown bearer
+- [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] - Successor druid
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark|02 Worldbuilding/People/The Emerald Sage Willowbark]] - Druidic advisor
 
 ### Locations
-- [[02_Worldbuilding/Lore/Heart Grove]] - Primary residence and sanctuary
+- [[02_Worldbuilding/Lore/Heart Grove|02 Worldbuilding/Lore/Heart Grove]] - Primary residence and sanctuary
 - [[Whispering Wildlands]] - Home territory
 - [[The Great Mother Tree]] - Consciousness center
 - [[Seasonal Quarters]] - Different climate zones
@@ -514,6 +514,6 @@ Legends speak of Verdant Shard as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard|02 Worldbuilding/People/Verdant Shard]]
 
 <!-- enriched: true -->

@@ -400,7 +400,7 @@ Morgan's reputation for historical accuracy and contextual wisdom has made him a
 
 ### Cultural Organizations
 **[[Historical Societies]]**: Leadership in citizen historical preservation efforts  
-**[[02_Worldbuilding/Groups/Cultural Festivals Committee]]**: Historical accuracy consulting for public celebrations  
+**[[02_Worldbuilding/Groups/Cultural Festivals Committee|02 Worldbuilding/Groups/Cultural Festivals Committee]]**: Historical accuracy consulting for public celebrations  
 **[[Arts Communities]]**: Working with artists on historically accurate cultural productions  
 **[[Religious Groups]]**: Respectful collaboration on spiritual historical preservation  
 **[[Community Organizations]]**: Supporting local historical documentation projects
@@ -469,7 +469,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan]]
+- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

@@ -28,36 +28,36 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
+When you drink this potion, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 
 `dice: [](potion-of-resistance-xdmg.md#^damage-type)`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
-| 1 | [Acid](/03_Mechanics/CLI/items/potion-of-acid-resistance-xdmg.md) |
-| 2 | [Cold](/03_Mechanics/CLI/items/potion-of-cold-resistance-xdmg.md) |
-| 3 | [Fire](/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg.md) |
-| 4 | [Force](/03_Mechanics/CLI/items/potion-of-force-resistance-xdmg.md) |
-| 5 | [Lightning](/03_Mechanics/CLI/items/potion-of-lightning-resistance-xdmg.md) |
-| 6 | [Necrotic](/03_Mechanics/CLI/items/potion-of-necrotic-resistance-xdmg.md) |
-| 7 | [Poison](/03_Mechanics/CLI/items/potion-of-poison-resistance-xdmg.md) |
-| 8 | [Psychic](/03_Mechanics/CLI/items/potion-of-psychic-resistance-xdmg.md) |
-| 9 | [Radiant](/03_Mechanics/CLI/items/potion-of-radiant-resistance-xdmg.md) |
-| 10 | [Thunder](/03_Mechanics/CLI/items/potion-of-thunder-resistance-xdmg.md) |
+| 1 | [[/03_Mechanics/CLI/items/potion-of-acid-resistance-xdmg|Acid]] |
+| 2 | [[/03_Mechanics/CLI/items/potion-of-cold-resistance-xdmg|Cold]] |
+| 3 | [[/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg|Fire]] |
+| 4 | [[/03_Mechanics/CLI/items/potion-of-force-resistance-xdmg|Force]] |
+| 5 | [[/03_Mechanics/CLI/items/potion-of-lightning-resistance-xdmg|Lightning]] |
+| 6 | [[/03_Mechanics/CLI/items/potion-of-necrotic-resistance-xdmg|Necrotic]] |
+| 7 | [[/03_Mechanics/CLI/items/potion-of-poison-resistance-xdmg|Poison]] |
+| 8 | [[/03_Mechanics/CLI/items/potion-of-psychic-resistance-xdmg|Psychic]] |
+| 9 | [[/03_Mechanics/CLI/items/potion-of-radiant-resistance-xdmg|Radiant]] |
+| 10 | [[/03_Mechanics/CLI/items/potion-of-thunder-resistance-xdmg|Thunder]] |
 ^damage-type
 
 **Items in this group:**
 
-- [Potion of Acid Resistance](/03_Mechanics/CLI/items/potion-of-acid-resistance-xdmg.md)
-- [Potion of Cold Resistance](/03_Mechanics/CLI/items/potion-of-cold-resistance-xdmg.md)
-- [Potion of Fire Resistance](/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg.md)
-- [Potion of Force Resistance](/03_Mechanics/CLI/items/potion-of-force-resistance-xdmg.md)
-- [Potion of Lightning Resistance](/03_Mechanics/CLI/items/potion-of-lightning-resistance-xdmg.md)
-- [Potion of Necrotic Resistance](/03_Mechanics/CLI/items/potion-of-necrotic-resistance-xdmg.md)
-- [Potion of Poison Resistance](/03_Mechanics/CLI/items/potion-of-poison-resistance-xdmg.md)
-- [Potion of Psychic Resistance](/03_Mechanics/CLI/items/potion-of-psychic-resistance-xdmg.md)
-- [Potion of Radiant Resistance](/03_Mechanics/CLI/items/potion-of-radiant-resistance-xdmg.md)
-- [Potion of Thunder Resistance](/03_Mechanics/CLI/items/potion-of-thunder-resistance-xdmg.md)
+- [[/03_Mechanics/CLI/items/potion-of-acid-resistance-xdmg|Potion of Acid Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-cold-resistance-xdmg|Potion of Cold Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg|Potion of Fire Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-force-resistance-xdmg|Potion of Force Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-lightning-resistance-xdmg|Potion of Lightning Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-necrotic-resistance-xdmg|Potion of Necrotic Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-poison-resistance-xdmg|Potion of Poison Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-psychic-resistance-xdmg|Potion of Psychic Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-radiant-resistance-xdmg|Potion of Radiant Resistance]]
+- [[/03_Mechanics/CLI/items/potion-of-thunder-resistance-xdmg|Potion of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

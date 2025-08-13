@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [False Life](/03_Mechanics/CLI/spells/false-life-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/false-life-xphb "XPHB"|False Life]]
 
 ## Player-Facing Summary
 

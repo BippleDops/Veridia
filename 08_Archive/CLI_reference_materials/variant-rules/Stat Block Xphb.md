@@ -19,83 +19,83 @@ world: Both
 # Stat Block
 *Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A stat block contains the game statistics of a [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md). Each stat block includes the following information presented after the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) name.
+A stat block contains the game statistics of a [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]]. Each stat block includes the following information presented after the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] name.
 
 ## Size
 
-A [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
+A [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
 
 ## Creature Type
 
-This entry notes the family of beings a [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) belongs to, along with any descriptive tags.
+This entry notes the family of beings a [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] belongs to, along with any descriptive tags.
 
 ## Alignment
 
-An alignment is suggested for the [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md), with the DM determining its actual alignment.
+An alignment is suggested for the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]], with the DM determining its actual alignment.
 
 ## AC, Initiative, and HP
 
-These entries give the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md), [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), and [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), which are detailed in "chapter 1". In parentheses after the [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) [Hit Point Dice](/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb.md) are provided, along with the contribution of its Constitution, if any, to its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). Following the [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) modifier is an [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) score. Some creatures that are created by magic lack Hit Dice and [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) information.
+These entries give the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]], [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]], and [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], which are detailed in "chapter 1". In parentheses after the [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] [[/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb|Hit Point Dice]] are provided, along with the contribution of its Constitution, if any, to its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. Following the [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] modifier is an [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] score. Some creatures that are created by magic lack Hit Dice and [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] information.
 
 ## Speed
 
-Here the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) Speed is provided, along with any special speeds.
+Here the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] Speed is provided, along with any special speeds.
 
 ## Ability Scores
 
-A table provides the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) ability scores, modifiers, and [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) modifiers, all of which are detailed in "chapter 1".
+A table provides the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] ability scores, modifiers, and [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throw]] modifiers, all of which are detailed in "chapter 1".
 
 ## Skills
 
-This entry lists the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) skill proficiencies, if any.
+This entry lists the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] skill proficiencies, if any.
 
 ## Resistances and Vulnerabilities
 
-These entries list the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) Resistances and Vulnerabilities, if any.
+These entries list the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] Resistances and Vulnerabilities, if any.
 
 ## Immunities
 
-This section lists the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) damage and [condition](/03_Mechanics/CLI/variant-rules/condition-xphb.md) Immunities, if any.
+This section lists the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] damage and [[/03_Mechanics/CLI/variant-rules/condition-xphb|condition]] Immunities, if any.
 
 ## Gear
 
-If the [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) has any equipment that can be given away or retrieved, it's listed in this entry.
+If the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] has any equipment that can be given away or retrieved, it's listed in this entry.
 
 ## Senses
 
-This entry lists the [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) special senses, such as [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision), and its Passive [Perception](/03_Mechanics/CLI/skills.md#Perception).
+This entry lists the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] special senses, such as [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]], and its Passive [[/03_Mechanics/CLI/skills#Perception|Perception]].
 
 ## Languages
 
-This entry lists any languages the [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) knows.
+This entry lists any languages the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] knows.
 
 ## CR
 
-Challenge Rating summarizes the threat a [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) poses and is detailed in the "Monster Manual". The Experience Points characters receive for defeating a [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) and its [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) follow. Some creatures that are created by magic have no CR.
+Challenge Rating summarizes the threat a [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] poses and is detailed in the "Monster Manual". The Experience Points characters receive for defeating a [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] and its [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]] follow. Some creatures that are created by magic have no CR.
 
 ## Traits
 
-The [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) traits, if any, are features that are active at all times or in certain situations.
+The [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] traits, if any, are features that are active at all times or in certain situations.
 
 ## Actions
 
-The [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) can take these actions in addition to those detailed in this glossary.
+The [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] can take these actions in addition to those detailed in this glossary.
 
 ## Bonus Actions
 
-If the [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) has [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) options, they are listed in this section.
+If the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] has [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] options, they are listed in this section.
 
 ## Reactions
 
-If the [monster](/03_Mechanics/CLI/variant-rules/monster-xphb.md) can take special [Reactions](/03_Mechanics/CLI/variant-rules/reaction-xphb.md), those are listed in this section.
+If the [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster]] can take special [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reactions]], those are listed in this section.
 
 ## Attack Notation
 
-The entry for a [monster's](/03_Mechanics/CLI/variant-rules/monster-xphb.md) attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+The entry for a [[/03_Mechanics/CLI/variant-rules/monster-xphb|monster's]] attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
 
 ## Saving Throw Effect Notation
 
-If an effect forces a [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md), the effect's entry starts by identifying the kind of [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+If an effect forces a [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throw]], the effect's entry starts by identifying the kind of [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throw]] required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
 ## Damage Notation
 

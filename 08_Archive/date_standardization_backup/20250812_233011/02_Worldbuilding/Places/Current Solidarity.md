@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Solidarity]]
+- [[02_Worldbuilding/Places/Current Solidarity|02 Worldbuilding/Places/Current Solidarity]]
 
 <!-- enriched: true -->
 

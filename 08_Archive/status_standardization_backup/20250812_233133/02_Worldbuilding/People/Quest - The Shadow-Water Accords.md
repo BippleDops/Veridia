@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Shadow-Water Accords]]
+- [[02_Worldbuilding/People/Quest - The Shadow-Water Accords|02 Worldbuilding/People/Quest The Shadow Water Accords]]
 
 <!-- enriched: true -->
 

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 
 ## Connections

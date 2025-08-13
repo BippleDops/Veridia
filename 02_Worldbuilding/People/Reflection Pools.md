@@ -130,6 +130,6 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Reflection Pools]]
+- [[02_Worldbuilding/People/Reflection Pools|02 Worldbuilding/People/Reflection Pools]]
 
 <!-- enriched: true -->

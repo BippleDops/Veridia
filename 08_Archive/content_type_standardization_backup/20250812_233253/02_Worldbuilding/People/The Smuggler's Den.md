@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson|02 Worldbuilding/People/Mayor Thompson]]
 
 
 ## Connections

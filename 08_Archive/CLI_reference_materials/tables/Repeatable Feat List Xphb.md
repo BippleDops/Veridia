@@ -23,81 +23,81 @@ world: Both
 
 | Feat | Category |
 |------|----------|
-| [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md)* | "General" |
-| [Actor](/03_Mechanics/CLI/feats/actor-xphb.md) | "General" |
-| [Alert](/03_Mechanics/CLI/feats/alert-xphb.md) | "Origin" |
-| [Archery](/03_Mechanics/CLI/feats/archery-xphb.md) | "Fighting Style" |
-| [Athlete](/03_Mechanics/CLI/feats/athlete-xphb.md) | "General" |
-| [Blind Fighting](/03_Mechanics/CLI/feats/blind-fighting-xphb.md) | "Fighting Style" |
-| [Boon of Combat Prowess](/03_Mechanics/CLI/feats/boon-of-combat-prowess-xphb.md) | "Epic Boon" |
-| [Boon of Dimensional Travel](/03_Mechanics/CLI/feats/boon-of-dimensional-travel-xphb.md) | "Epic Boon" |
-| [Boon of Energy Resistance](/03_Mechanics/CLI/feats/boon-of-energy-resistance-xphb.md) | "Epic Boon" |
-| [Boon of Fate](/03_Mechanics/CLI/feats/boon-of-fate-xphb.md) | "Epic Boon" |
-| [Boon of Fortitude](/03_Mechanics/CLI/feats/boon-of-fortitude-xphb.md) | "Epic Boon" |
-| [Boon of Irresistible Offense](/03_Mechanics/CLI/feats/boon-of-irresistible-offense-xphb.md) | "Epic Boon" |
-| [Boon of Recovery](/03_Mechanics/CLI/feats/boon-of-recovery-xphb.md) | "Epic Boon" |
-| [Boon of Skill](/03_Mechanics/CLI/feats/boon-of-skill-xphb.md) | "Epic Boon" |
-| [Boon of Speed](/03_Mechanics/CLI/feats/boon-of-speed-xphb.md) | "Epic Boon" |
-| [Boon of Spell Recall](/03_Mechanics/CLI/feats/boon-of-spell-recall-xphb.md) | "Epic Boon" |
-| [Boon of the Night Spirit](/03_Mechanics/CLI/feats/boon-of-the-night-spirit-xphb.md) | "Epic Boon" |
-| [Boon of Truesight](/03_Mechanics/CLI/feats/boon-of-truesight-xphb.md) | "Epic Boon" |
-| [Charger](/03_Mechanics/CLI/feats/charger-xphb.md) | "General" |
-| [Chef](/03_Mechanics/CLI/feats/chef-xphb.md) | "General" |
-| [Crafter](/03_Mechanics/CLI/feats/crafter-xphb.md) | "Origin" |
-| [Crossbow Expert](/03_Mechanics/CLI/feats/crossbow-expert-xphb.md) | "General" |
-| [Crusher](/03_Mechanics/CLI/feats/crusher-xphb.md) | "General" |
-| [Defense](/03_Mechanics/CLI/feats/defense-xphb.md) | "Fighting Style" |
-| [Defensive Duelist](/03_Mechanics/CLI/feats/defensive-duelist-xphb.md) | "General" |
-| [Dual Wielder](/03_Mechanics/CLI/feats/dual-wielder-xphb.md) | "General" |
-| [Dueling](/03_Mechanics/CLI/feats/dueling-xphb.md) | "Fighting Style" |
-| [Durable](/03_Mechanics/CLI/feats/durable-xphb.md) | "General" |
-| [Elemental Adept](/03_Mechanics/CLI/feats/elemental-adept-xphb.md)* | "General" |
-| [Fey-Touched](/03_Mechanics/CLI/feats/fey-touched-xphb.md) | "General" |
-| [Grappler](/03_Mechanics/CLI/feats/grappler-xphb.md) | "General" |
-| [Great Weapon Fighting](/03_Mechanics/CLI/feats/great-weapon-fighting-xphb.md) | "Fighting Style" |
-| [Great Weapon Master](/03_Mechanics/CLI/feats/great-weapon-master-xphb.md) | "General" |
-| [Healer](/03_Mechanics/CLI/feats/healer-xphb.md) | "Origin" |
-| [Heavily Armored](/03_Mechanics/CLI/feats/heavily-armored-xphb.md) | "General" |
-| [Heavy Armor Master](/03_Mechanics/CLI/feats/heavy-armor-master-xphb.md) | "General" |
-| [Inspiring Leader](/03_Mechanics/CLI/feats/inspiring-leader-xphb.md) | "General" |
-| [Interception](/03_Mechanics/CLI/feats/interception-xphb.md) | "Fighting Style" |
-| [Keen Mind](/03_Mechanics/CLI/feats/keen-mind-xphb.md) | "General" |
-| [Lightly Armored](/03_Mechanics/CLI/feats/lightly-armored-xphb.md) | "General" |
-| [Lucky](/03_Mechanics/CLI/feats/lucky-xphb.md) | "Origin" |
-| [Mage Slayer](/03_Mechanics/CLI/feats/mage-slayer-xphb.md) | "General" |
-| [Magic Initiate](/03_Mechanics/CLI/feats/magic-initiate-xphb.md)* | "Origin" |
-| [Martial Weapon Training](/03_Mechanics/CLI/feats/martial-weapon-training-xphb.md) | "General" |
-| [Medium Armor Master](/03_Mechanics/CLI/feats/medium-armor-master-xphb.md) | "General" |
-| [Moderately Armored](/03_Mechanics/CLI/feats/moderately-armored-xphb.md) | "General" |
-| [Mounted Combatant](/03_Mechanics/CLI/feats/mounted-combatant-xphb.md) | "General" |
-| [Musician](/03_Mechanics/CLI/feats/musician-xphb.md) | "Origin" |
-| [Observant](/03_Mechanics/CLI/feats/observant-xphb.md) | "General" |
-| [Piercer](/03_Mechanics/CLI/feats/piercer-xphb.md) | "General" |
-| [Poisoner](/03_Mechanics/CLI/feats/poisoner-xphb.md) | "General" |
-| [Polearm Master](/03_Mechanics/CLI/feats/polearm-master-xphb.md) | "General" |
-| [Protection](/03_Mechanics/CLI/feats/protection-xphb.md) | "Fighting Style" |
-| [Resilient](/03_Mechanics/CLI/feats/resilient-xphb.md) | "General" |
-| [Ritual Caster](/03_Mechanics/CLI/feats/ritual-caster-xphb.md) | "General" |
-| [Savage Attacker](/03_Mechanics/CLI/feats/savage-attacker-xphb.md) | "Origin" |
-| [Sentinel](/03_Mechanics/CLI/feats/sentinel-xphb.md) | "General" |
-| [Shadow-Touched](/03_Mechanics/CLI/feats/shadow-touched-xphb.md) | "General" |
-| [Sharpshooter](/03_Mechanics/CLI/feats/sharpshooter-xphb.md) | "General" |
-| [Shield Master](/03_Mechanics/CLI/feats/shield-master-xphb.md) | "General" |
-| [Skilled](/03_Mechanics/CLI/feats/skilled-xphb.md)* | "Origin" |
-| [Skill Expert](/03_Mechanics/CLI/feats/skill-expert-xphb.md) | "General" |
-| [Skulker](/03_Mechanics/CLI/feats/skulker-xphb.md) | "General" |
-| [Slasher](/03_Mechanics/CLI/feats/slasher-xphb.md) | "General" |
-| [Speedy](/03_Mechanics/CLI/feats/speedy-xphb.md) | "General" |
-| [Spell Sniper](/03_Mechanics/CLI/feats/spell-sniper-xphb.md) | "General" |
-| [Tavern Brawler](/03_Mechanics/CLI/feats/tavern-brawler-xphb.md) | "Origin" |
-| [Telekinetic](/03_Mechanics/CLI/feats/telekinetic-xphb.md) | "General" |
-| [Telepathic](/03_Mechanics/CLI/feats/telepathic-xphb.md) | "General" |
-| [Thrown Weapon Fighting](/03_Mechanics/CLI/feats/thrown-weapon-fighting-xphb.md) | "Fighting Style" |
-| [Tough](/03_Mechanics/CLI/feats/tough-xphb.md) | "Origin" |
-| [Two-Weapon Fighting](/03_Mechanics/CLI/feats/two-weapon-fighting-xphb.md) | "Fighting Style" |
-| [Unarmed Fighting](/03_Mechanics/CLI/feats/unarmed-fighting-xphb.md) | "Fighting Style" |
-| [War Caster](/03_Mechanics/CLI/feats/war-caster-xphb.md) | "General" |
-| [Weapon Master](/03_Mechanics/CLI/feats/weapon-master-xphb.md) | "General" |
+| [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]]* | "General" |
+| [[/03_Mechanics/CLI/feats/actor-xphb|Actor]] | "General" |
+| [[/03_Mechanics/CLI/feats/alert-xphb|Alert]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/archery-xphb|Archery]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/athlete-xphb|Athlete]] | "General" |
+| [[/03_Mechanics/CLI/feats/blind-fighting-xphb|Blind Fighting]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/boon-of-combat-prowess-xphb|Boon of Combat Prowess]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-energy-resistance-xphb|Boon of Energy Resistance]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-fate-xphb|Boon of Fate]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-fortitude-xphb|Boon of Fortitude]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-irresistible-offense-xphb|Boon of Irresistible Offense]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-recovery-xphb|Boon of Recovery]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-skill-xphb|Boon of Skill]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-speed-xphb|Boon of Speed]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-spell-recall-xphb|Boon of Spell Recall]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-the-night-spirit-xphb|Boon of the Night Spirit]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/boon-of-truesight-xphb|Boon of Truesight]] | "Epic Boon" |
+| [[/03_Mechanics/CLI/feats/charger-xphb|Charger]] | "General" |
+| [[/03_Mechanics/CLI/feats/chef-xphb|Chef]] | "General" |
+| [[/03_Mechanics/CLI/feats/crafter-xphb|Crafter]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/crossbow-expert-xphb|Crossbow Expert]] | "General" |
+| [[/03_Mechanics/CLI/feats/crusher-xphb|Crusher]] | "General" |
+| [[/03_Mechanics/CLI/feats/defense-xphb|Defense]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/defensive-duelist-xphb|Defensive Duelist]] | "General" |
+| [[/03_Mechanics/CLI/feats/dual-wielder-xphb|Dual Wielder]] | "General" |
+| [[/03_Mechanics/CLI/feats/dueling-xphb|Dueling]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/durable-xphb|Durable]] | "General" |
+| [[/03_Mechanics/CLI/feats/elemental-adept-xphb|Elemental Adept]]* | "General" |
+| [[/03_Mechanics/CLI/feats/fey-touched-xphb|Fey-Touched]] | "General" |
+| [[/03_Mechanics/CLI/feats/grappler-xphb|Grappler]] | "General" |
+| [[/03_Mechanics/CLI/feats/great-weapon-fighting-xphb|Great Weapon Fighting]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/great-weapon-master-xphb|Great Weapon Master]] | "General" |
+| [[/03_Mechanics/CLI/feats/healer-xphb|Healer]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/heavily-armored-xphb|Heavily Armored]] | "General" |
+| [[/03_Mechanics/CLI/feats/heavy-armor-master-xphb|Heavy Armor Master]] | "General" |
+| [[/03_Mechanics/CLI/feats/inspiring-leader-xphb|Inspiring Leader]] | "General" |
+| [[/03_Mechanics/CLI/feats/interception-xphb|Interception]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/keen-mind-xphb|Keen Mind]] | "General" |
+| [[/03_Mechanics/CLI/feats/lightly-armored-xphb|Lightly Armored]] | "General" |
+| [[/03_Mechanics/CLI/feats/lucky-xphb|Lucky]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/mage-slayer-xphb|Mage Slayer]] | "General" |
+| [[/03_Mechanics/CLI/feats/magic-initiate-xphb|Magic Initiate]]* | "Origin" |
+| [[/03_Mechanics/CLI/feats/martial-weapon-training-xphb|Martial Weapon Training]] | "General" |
+| [[/03_Mechanics/CLI/feats/medium-armor-master-xphb|Medium Armor Master]] | "General" |
+| [[/03_Mechanics/CLI/feats/moderately-armored-xphb|Moderately Armored]] | "General" |
+| [[/03_Mechanics/CLI/feats/mounted-combatant-xphb|Mounted Combatant]] | "General" |
+| [[/03_Mechanics/CLI/feats/musician-xphb|Musician]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/observant-xphb|Observant]] | "General" |
+| [[/03_Mechanics/CLI/feats/piercer-xphb|Piercer]] | "General" |
+| [[/03_Mechanics/CLI/feats/poisoner-xphb|Poisoner]] | "General" |
+| [[/03_Mechanics/CLI/feats/polearm-master-xphb|Polearm Master]] | "General" |
+| [[/03_Mechanics/CLI/feats/protection-xphb|Protection]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/resilient-xphb|Resilient]] | "General" |
+| [[/03_Mechanics/CLI/feats/ritual-caster-xphb|Ritual Caster]] | "General" |
+| [[/03_Mechanics/CLI/feats/savage-attacker-xphb|Savage Attacker]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/sentinel-xphb|Sentinel]] | "General" |
+| [[/03_Mechanics/CLI/feats/shadow-touched-xphb|Shadow-Touched]] | "General" |
+| [[/03_Mechanics/CLI/feats/sharpshooter-xphb|Sharpshooter]] | "General" |
+| [[/03_Mechanics/CLI/feats/shield-master-xphb|Shield Master]] | "General" |
+| [[/03_Mechanics/CLI/feats/skilled-xphb|Skilled]]* | "Origin" |
+| [[/03_Mechanics/CLI/feats/skill-expert-xphb|Skill Expert]] | "General" |
+| [[/03_Mechanics/CLI/feats/skulker-xphb|Skulker]] | "General" |
+| [[/03_Mechanics/CLI/feats/slasher-xphb|Slasher]] | "General" |
+| [[/03_Mechanics/CLI/feats/speedy-xphb|Speedy]] | "General" |
+| [[/03_Mechanics/CLI/feats/spell-sniper-xphb|Spell Sniper]] | "General" |
+| [[/03_Mechanics/CLI/feats/tavern-brawler-xphb|Tavern Brawler]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/telekinetic-xphb|Telekinetic]] | "General" |
+| [[/03_Mechanics/CLI/feats/telepathic-xphb|Telepathic]] | "General" |
+| [[/03_Mechanics/CLI/feats/thrown-weapon-fighting-xphb|Thrown Weapon Fighting]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/tough-xphb|Tough]] | "Origin" |
+| [[/03_Mechanics/CLI/feats/two-weapon-fighting-xphb|Two-Weapon Fighting]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/unarmed-fighting-xphb|Unarmed Fighting]] | "Fighting Style" |
+| [[/03_Mechanics/CLI/feats/war-caster-xphb|War Caster]] | "General" |
+| [[/03_Mechanics/CLI/feats/weapon-master-xphb|Weapon Master]] | "General" |
 ^feat-list
 
 *This feat can be taken more than once.

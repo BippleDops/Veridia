@@ -55,7 +55,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Garden]]
+- [[02_Worldbuilding/Lore/Crystal Garden|02 Worldbuilding/Lore/Crystal Garden]]
 
 
 ## Connections

@@ -20,7 +20,7 @@ world: Both
 # Beguiling Influence
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-You gain proficiency in the [Deception](/03_Mechanics/CLI/skills.md#Deception) and [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion) skills.
+You gain proficiency in the [[/03_Mechanics/CLI/skills#Deception|Deception]] and [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]] skills.
 
 ## Player-Facing Summary
 

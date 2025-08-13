@@ -37,15 +37,15 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-One Beast you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition for the duration. The target has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One Beast you can see within range must succeed on a Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition for the duration. The target has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
-You have a telepathic link with the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "[Attack](/03_Mechanics/CLI/actions.md#Attack) that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You have a telepathic link with the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "[[/03_Mechanics/CLI/actions#Attack|Attack]] that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
-You can command the target to take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) but must take your own [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to do so.
+You can command the target to take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] but must take your own [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to do so.
 
-**Using a Higher-Level Spell Slot.** Your [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
+**Using a Higher-Level Spell Slot.** Your [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/03_Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin (Oath of Conquest)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

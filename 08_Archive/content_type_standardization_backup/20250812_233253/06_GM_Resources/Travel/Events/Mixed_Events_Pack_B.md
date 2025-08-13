@@ -23,7 +23,7 @@ Complements [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Pack A]].
 
 ---
 
-### X-101: Twin Anchor Choir
+## X-101: Twin Anchor Choir
 - Trigger: Star anchor and seafloor anchor require duet.
 - Checks: Anchorite DC 16; Performance DC 15; Sanity DC 14.
 - Outcomes: Success: Integrity +2 lane. Partial: +1 only. Fail: Dissonance; Merger Complication.

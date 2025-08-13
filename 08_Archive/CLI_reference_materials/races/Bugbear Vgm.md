@@ -49,7 +49,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skill.
+You are proficient in the [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skill.
 
 ### Surprise Attack
 

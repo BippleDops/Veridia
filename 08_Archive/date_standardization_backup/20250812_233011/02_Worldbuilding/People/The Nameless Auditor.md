@@ -12,7 +12,7 @@ status: complete
 world: Aethermoor
 type: NPC
 role: Scale of Information
-affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
 age: Unknown
 race: Unknown (appears human)
 location: '[[The Black Ledger]] - Intelligence Archive'
@@ -32,7 +32,7 @@ updated: 2025-08-11
 *Master of Secrets, The Information Broker Supreme*
 
 ## Overview
-The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, controlling the organization's vast intelligence network and information-gathering operations. Their true identity, appearance, and even gender remain unknown—they appear differently to each person who meets them, and their name changes with each interaction. What remains constant is their supernatural ability to acquire, process, and weaponize information.
+The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, controlling the organization's vast intelligence network and information-gathering operations. Their true identity, appearance, and even gender remain unknown—they appear differently to each person who meets them, and their name changes with each interaction. What remains constant is their supernatural ability to acquire, process, and weaponize information.
 
 ## Description
 - **Appearance**: Shifts constantly—others see different ages, genders, races, and features
@@ -103,7 +103,7 @@ The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuild
 
 ## Relationships
 ### Consortium Board
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Provides Chairman with crucial intelligence
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]**: Provides Chairman with crucial intelligence
 - **[[Lady Jade Clawgrip]]**: Supplies information for hostile takeovers
 - **[[Countess Argentum Vaultkeeper]]**: Coordinates financial intelligence
 - **[[Commander Ironprice]]**: Provides intelligence for security operations
@@ -274,7 +274,7 @@ The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuild
 - Could be key to Consortium's ultimate plans for societal control
 
 ## Connected Elements
-- Central to [[02_Worldbuilding/Groups/Silverscale Consortium]] intelligence operations
+- Central to [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] intelligence operations
 - Links information warfare to economic and political storylines
 - Represents themes of privacy, knowledge, and the power of secrets
 - Key figure for any storyline involving espionage or hidden information
@@ -302,20 +302,20 @@ The area within 1 mile of the Auditor's primary archive has the following effect
 - Information seems to spread faster than should be possible
 
 ## Connected Elements - Expanded
-- Central to all [[02_Worldbuilding/Groups/Silverscale Consortium]] intelligence operations
-- Links to [[02_Worldbuilding/Lore/The Deep Mother]] through collected memories of her influence
-- May have connections to [[02_Worldbuilding/Lore/The Seven Shards]] through ancient knowledge
-- Potential link to [[02_Worldbuilding/Places/Shadow Wells]] as source of fear-based information
+- Central to all [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] intelligence operations
+- Links to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] through collected memories of her influence
+- May have connections to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] through ancient knowledge
+- Potential link to [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]] as source of fear-based information
 - Could be connected to [[Memory Farmers]] through memory manipulation techniques
-- May have agents within [[02_Worldbuilding/Places/Parliament of Echoes]]
-- Links to [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] through political intelligence
-- Connected to [[02_Worldbuilding/People/Commander Typhoon Blackheart]] through military secrets
-- May know truth about [[02_Worldbuilding/People/The Scattered Emperor]]'s condition
-- Potentially linked to [[02_Worldbuilding/Groups/The Void Watchers]] through forbidden knowledge
+- May have agents within [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+- Links to [[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]] through political intelligence
+- Connected to [[02_Worldbuilding/People/Commander Typhoon Blackheart|02 Worldbuilding/People/Commander Typhoon Blackheart]] through military secrets
+- May know truth about [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'s condition
+- Potentially linked to [[02_Worldbuilding/Groups/The Void Watchers|02 Worldbuilding/Groups/The Void Watchers]] through forbidden knowledge
 
 ## The Information Empire - Detailed Structure
 ### The Thousand Eyes Network
-The Auditor's surveillance network operates on multiple levels throughout [[02_Worldbuilding/Places/Aethermoor]]:
+The Auditor's surveillance network operates on multiple levels throughout [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]:
 
 **Tier 1: The Willing Informants**
 - Government clerks who provide access to official documents
@@ -364,7 +364,7 @@ The Auditor's surveillance network operates on multiple levels throughout [[02_W
 
 ## The Horror of Total Surveillance
 ### The Watching World
-Under the Auditor's influence, [[02_Worldbuilding/Places/Aethermoor]] has become a place where privacy no longer exists:
+Under the Auditor's influence, [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] has become a place where privacy no longer exists:
 
 **Omnipresent Observation:** Every conversation monitored, communications intercepted, transactions tracked, travel documented
 **The Chilling Effect:** Self-censorship, relationship difficulties, suppressed innovation, eroded social trust
@@ -404,13 +404,13 @@ A being from the future attempting to prevent disasters by gathering information
 
 - [[Silverscale Consortium]]
 - [[Discover Marina's Truth]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Shadowmire Tavern]]
 - [[Vault Breach]]
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -422,7 +422,7 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/The Nameless Auditor|02 Worldbuilding/People/The Nameless Auditor]]
 
 <!-- enriched: true -->
 - [[Lady Jade Clawgrip]]

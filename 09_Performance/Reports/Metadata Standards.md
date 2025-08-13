@@ -30,8 +30,8 @@ race: "Race (subrace if applicable)"
 class: "Class/Profession"
 level: X
 alignment: "Alignment"
-location: "[[Current_Location]]"
-faction: "[[Faction_Name]]"
+location: "[[Current_Location|Current Location]]"
+faction: "[[Faction_Name|Faction Name]]"
 status: "active/missing/dead/unknown"
 world: "Aquabyssos/Aethermoor/Both"
 created: YYYY-MM-DD
@@ -64,7 +64,7 @@ tags:
   - [world-tag]
 type: Location
 world: "Aquabyssos/Aethermoor/Both"
-region: "[[Parent_Region]]"
+region: "[[Parent_Region|Parent Region]]"
 status: "active/ruins/hidden/unknown"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -179,9 +179,9 @@ All content files should have:
 ## Link Standards
 
 ### Format
-- Use `[[File_Name]]` for internal links
+- Use `[[File_Name|File Name]]` for internal links
 - Use `[[File_Name|Display Text]]` for custom display
-- Use `[[File_Name#Section]]` for section links
+- Use `[[File_Name#Section|File Name#Section]]` for section links
 
 ### Consistency
 - Link to canonical file names only

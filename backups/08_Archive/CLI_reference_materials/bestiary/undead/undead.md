@@ -20,74 +20,74 @@ status: active
 
 # Index of Undead
 
-- [Alhoon](./alhoon-mpmm.md)
-- [Allip](./allip-mpmm.md)
-- [Aquatic Ghoul](./aquatic-ghoul-pota.md)
-- [Ash Zombie](./ash-zombie-lmop.md)
-- [Avatar of Death](./avatar-of-death-dmg.md)
-- [Avatar of Death](./avatar-of-death-xdmg.md)
-- [Banshee](./banshee-xmm.md)
-- [Beholder Zombie](./beholder-zombie-xmm.md)
-- [Bodak](./bodak-mpmm.md)
-- [Bone Naga](./bone-naga-xmm.md)
-- [Boneclaw](./boneclaw-mpmm.md)
-- [Crawling Claw](./crawling-claw-xmm.md)
-- [Death Knight Aspirant](./death-knight-aspirant-xmm.md)
-- [Death Knight](./death-knight-xmm.md)
-- [Death Tyrant](./death-tyrant-xmm.md)
-- [Deathlock Mastermind](./deathlock-mastermind-mpmm.md)
-- [Deathlock](./deathlock-mpmm.md)
-- [Deathlock Wight](./deathlock-wight-mpmm.md)
-- [Demilich](./demilich-xmm.md)
-- [Devourer](./devourer-mpmm.md)
-- [Dracolich](./dracolich-xmm.md)
-- [Eidolon](./eidolon-mpmm.md)
-- [Flameskull](./flameskull-xmm.md)
-- [Flaming Skeleton](./flaming-skeleton-xmm.md)
-- [Ghast Gravecaller](./ghast-gravecaller-xmm.md)
-- [Ghast](./ghast-xmm.md)
-- [Ghost](./ghost-xmm.md)
-- [Ghoul](./ghoul-xmm.md)
-- [Gnoll Witherling](./gnoll-witherling-mpmm.md)
-- [Graveyard Revenant](./graveyard-revenant-xmm.md)
-- [Haunting Revenant](./haunting-revenant-xmm.md)
-- [Illithilich](./illithilich-vgm.md)
-- [Knight of the Order](./knight-of-the-order-cos.md)
-- [Lacedon Ghoul](./lacedon-ghoul-xmm.md)
-- [Lich](./lich-xmm.md)
-- [Minotaur Skeleton](./minotaur-skeleton-xmm.md)
-- [Mummy Lord](./mummy-lord-xmm.md)
-- [Mummy](./mummy-xmm.md)
-- [Nightwalker](./nightwalker-mpmm.md)
-- [Ogre Zombie](./ogre-zombie-xmm.md)
-- [Phantom Warrior (Archer)](./phantom-warrior-archer-cos.md)
-- [Phantom Warrior](./phantom-warrior-cos.md)
-- [Poltergeist](./poltergeist-xmm.md)
-- [Revenant](./revenant-xmm.md)
-- [Shadow](./shadow-xmm.md)
-- [Skeleton](./skeleton-xmm.md)
-- [Skull Lord](./skull-lord-mpmm.md)
-- [Snow Maiden](./snow-maiden-cos.md)
-- [Spawn of Kyuss](./spawn-of-kyuss-mpmm.md)
-- [Specter](./specter-xmm.md)
-- [Strahd Zombie](./strahd-zombie-cos.md)
-- [Swarm of Crawling Claws](./swarm-of-crawling-claws-xmm.md)
-- [Sword Wraith Commander](./sword-wraith-commander-mpmm.md)
-- [Sword Wraith Warrior](./sword-wraith-warrior-mpmm.md)
-- [Undead Spirit (Ghostly)](./undead-spirit-ghostly-xphb.md)
-- [Undead Spirit (Putrid)](./undead-spirit-putrid-xphb.md)
-- [Undead Spirit (Skeletal)](./undead-spirit-skeletal-xphb.md)
-- [Undead Spirit](./undead-spirit-xphb.md)
-- [Vampire Nightbringer](./vampire-nightbringer-xmm.md)
-- [Vampire Spawn](./vampire-spawn-xmm.md)
-- [Vampire Umbral Lord](./vampire-umbral-lord-xmm.md)
-- [Vampire](./vampire-xmm.md)
-- [Vampiric Mist](./vampiric-mist-mpmm.md)
-- [Warhorse Skeleton](./warhorse-skeleton-xmm.md)
-- [Wight](./wight-xmm.md)
-- [Will-o'-Wisp](./will-o-wisp-xmm.md)
-- [Wraith](./wraith-xmm.md)
-- [Zombie](./zombie-xmm.md)
+- [[./alhoon-mpmm|Alhoon]]
+- [[./allip-mpmm|Allip]]
+- [[./aquatic-ghoul-pota|Aquatic Ghoul]]
+- [[./ash-zombie-lmop|Ash Zombie]]
+- [[./avatar-of-death-dmg|Avatar of Death]]
+- [[./avatar-of-death-xdmg|Avatar of Death]]
+- [[./banshee-xmm|Banshee]]
+- [[./beholder-zombie-xmm|Beholder Zombie]]
+- [[./bodak-mpmm|Bodak]]
+- [[./bone-naga-xmm|Bone Naga]]
+- [[./boneclaw-mpmm|Boneclaw]]
+- [[./crawling-claw-xmm|Crawling Claw]]
+- [[./death-knight-aspirant-xmm|Death Knight Aspirant]]
+- [[./death-knight-xmm|Death Knight]]
+- [[./death-tyrant-xmm|Death Tyrant]]
+- [[./deathlock-mastermind-mpmm|Deathlock Mastermind]]
+- [[./deathlock-mpmm|Deathlock]]
+- [[./deathlock-wight-mpmm|Deathlock Wight]]
+- [[./demilich-xmm|Demilich]]
+- [[./devourer-mpmm|Devourer]]
+- [[./dracolich-xmm|Dracolich]]
+- [[./eidolon-mpmm|Eidolon]]
+- [[./flameskull-xmm|Flameskull]]
+- [[./flaming-skeleton-xmm|Flaming Skeleton]]
+- [[./ghast-gravecaller-xmm|Ghast Gravecaller]]
+- [[./ghast-xmm|Ghast]]
+- [[./ghost-xmm|Ghost]]
+- [[./ghoul-xmm|Ghoul]]
+- [[./gnoll-witherling-mpmm|Gnoll Witherling]]
+- [[./graveyard-revenant-xmm|Graveyard Revenant]]
+- [[./haunting-revenant-xmm|Haunting Revenant]]
+- [[./illithilich-vgm|Illithilich]]
+- [[./knight-of-the-order-cos|Knight of the Order]]
+- [[./lacedon-ghoul-xmm|Lacedon Ghoul]]
+- [[./lich-xmm|Lich]]
+- [[./minotaur-skeleton-xmm|Minotaur Skeleton]]
+- [[./mummy-lord-xmm|Mummy Lord]]
+- [[./mummy-xmm|Mummy]]
+- [[./nightwalker-mpmm|Nightwalker]]
+- [[./ogre-zombie-xmm|Ogre Zombie]]
+- [[./phantom-warrior-archer-cos|Phantom Warrior (Archer)]]
+- [[./phantom-warrior-cos|Phantom Warrior]]
+- [[./poltergeist-xmm|Poltergeist]]
+- [[./revenant-xmm|Revenant]]
+- [[./shadow-xmm|Shadow]]
+- [[./skeleton-xmm|Skeleton]]
+- [[./skull-lord-mpmm|Skull Lord]]
+- [[./snow-maiden-cos|Snow Maiden]]
+- [[./spawn-of-kyuss-mpmm|Spawn of Kyuss]]
+- [[./specter-xmm|Specter]]
+- [[./strahd-zombie-cos|Strahd Zombie]]
+- [[./swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]
+- [[./sword-wraith-commander-mpmm|Sword Wraith Commander]]
+- [[./sword-wraith-warrior-mpmm|Sword Wraith Warrior]]
+- [[./undead-spirit-ghostly-xphb|Undead Spirit (Ghostly)]]
+- [[./undead-spirit-putrid-xphb|Undead Spirit (Putrid)]]
+- [[./undead-spirit-skeletal-xphb|Undead Spirit (Skeletal)]]
+- [[./undead-spirit-xphb|Undead Spirit]]
+- [[./vampire-nightbringer-xmm|Vampire Nightbringer]]
+- [[./vampire-spawn-xmm|Vampire Spawn]]
+- [[./vampire-umbral-lord-xmm|Vampire Umbral Lord]]
+- [[./vampire-xmm|Vampire]]
+- [[./vampiric-mist-mpmm|Vampiric Mist]]
+- [[./warhorse-skeleton-xmm|Warhorse Skeleton]]
+- [[./wight-xmm|Wight]]
+- [[./will-o-wisp-xmm|Will-o'-Wisp]]
+- [[./wraith-xmm|Wraith]]
+- [[./zombie-xmm|Zombie]]
 
 ## Player-Facing Summary
 

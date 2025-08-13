@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[02_Worldbuilding/Places/Vault Keeper Eternal|02 Worldbuilding/Places/Vault Keeper Eternal]]
 
 
 ## Connections

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Vale]]
+- [[02_Worldbuilding/Groups/Shadow Vale|02 Worldbuilding/Groups/Shadow Vale]]
 
 
 ## Connections

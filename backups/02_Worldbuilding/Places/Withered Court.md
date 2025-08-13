@@ -142,7 +142,7 @@ Once a renowned diplomat in life, Lady Hollowmere's tragic death transformed her
 
 The Withered Court maintains tense relationships with most living nations in [[Aethermoor]], particularly the [[Temple Coalition]] and [[Rangers of the Living Dawn]] who view them as abominations to be destroyed. However, they have surprising diplomatic ties with the [[Shadow Merchants Guild]], [[Necromancer's Conclave]], and even some pragmatic members of the [[Arcane Assembly]].
 
-Their greatest enemies are the [[02_Worldbuilding/Groups/The Purification Order]], [[Living Alliance]], and the mysterious [[Death Hunters Guild]] who specialize in permanently destroying powerful undead. The Court also faces internal conflicts between different factions of undead nobility, each representing different approaches to their eternal existence.
+Their greatest enemies are the [[02_Worldbuilding/Groups/The Purification Order|02 Worldbuilding/Groups/The Purification Order]], [[Living Alliance]], and the mysterious [[Death Hunters Guild]] who specialize in permanently destroying powerful undead. The Court also faces internal conflicts between different factions of undead nobility, each representing different approaches to their eternal existence.
 
 ## Connections
 
@@ -200,7 +200,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Withered Court]]
+- [[02_Worldbuilding/Places/Withered Court|02 Worldbuilding/Places/Withered Court]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Command](/03_Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 7
-- [Identify](/03_Mechanics/CLI/spells/identify-xphb.md "XPHB") at class level 7
+- [[/03_Mechanics/CLI/spells/command-xphb "XPHB"|Command]] at class level 7
+- [[/03_Mechanics/CLI/spells/identify-xphb "XPHB"|Identify]] at class level 7
 
 ## 2nd Level
 
-- [Augury](/03_Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 7
-- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 7
+- [[/03_Mechanics/CLI/spells/augury-xphb "XPHB"|Augury]] at class level 7
+- [[/03_Mechanics/CLI/spells/suggestion-xphb "XPHB"|Suggestion]] at class level 7
 
 ## 3rd Level
 
-- [Nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md "XPHB") at class level 7
-- [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB") at class level 7
+- [[/03_Mechanics/CLI/spells/nondetection-xphb "XPHB"|Nondetection]] at class level 7
+- [[/03_Mechanics/CLI/spells/speak-with-dead-xphb "XPHB"|Speak with Dead]] at class level 7
 
 ## 4th Level
 
-- [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB") at class level 7
-- [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 7
+- [[/03_Mechanics/CLI/spells/arcane-eye-xphb "XPHB"|Arcane Eye]] at class level 7
+- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]] at class level 7
 
 ## 5th Level
 
-- [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md "XPHB") at class level 7
-- [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md "XPHB") at class level 7
+- [[/03_Mechanics/CLI/spells/legend-lore-xphb "XPHB"|Legend Lore]] at class level 7
+- [[/03_Mechanics/CLI/spells/scrying-xphb "XPHB"|Scrying]] at class level 7
 
 ## Player-Facing Summary
 

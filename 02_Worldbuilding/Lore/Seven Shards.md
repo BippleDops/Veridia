@@ -42,6 +42,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Seven Shards]]
+- [[02_Worldbuilding/Places/Seven Shards|02 Worldbuilding/Places/Seven Shards]]
 
 <!-- enriched: true -->

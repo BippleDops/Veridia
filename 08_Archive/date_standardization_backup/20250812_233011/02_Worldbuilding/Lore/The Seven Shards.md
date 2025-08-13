@@ -285,10 +285,10 @@ If party gathers all seven:
 - [[Crystal Mimics]] - Artificial Shard fragments
 
 ### Strategic Interests
-- [[02_Worldbuilding/Quests/Aquabyssos]] - The ongoing search
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - The ongoing search
 - [[Aurelius Goldwave]] - Using financial networks to track Shards
 - [[Vex Shadowthorn]] - Major information holder
-- [[02_Worldbuilding/Lore/The Crystal Guard Elite]] - Security forces protecting Shards
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] - Security forces protecting Shards
 - [[Reality Merge Zones]] - Areas where Shard power weakens barriers
 
 ## DM Secrets
@@ -301,7 +301,7 @@ If party gathers all seven:
 - [[Aquabyssos Trade Seal]]
 - [[Crystal Festival]]
 - [[Crystal Garden]]
-- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Merged Reality Zones]]
 - [[Possessed Noble Coterie]]
@@ -319,10 +319,10 @@ If party gathers all seven:
 - [[Aether Crystals]]
 - [[Ambush Point]]
 - [[Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -346,7 +346,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aether Crystals]]
+- [[02_Worldbuilding/Quests/Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
 - [[Vex Shadowthorn]]
 - [[Aurelius Goldwave]]
 - [[Bloodline Awakening Powers]]

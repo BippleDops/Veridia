@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Warrior of Shadow
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[./monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 105*  
 
 > [!tldr] Class and Feature Progression
@@ -67,35 +67,35 @@ You have learned to draw on the power of the Shadowfell, gaining the following b
 
 ### Darkness (Level 3)
 
-You can expend 1 Focus Point to cast the [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md) spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md) to a space within 60 feet of yourself at the start of each of your turns.
+You can expend 1 Focus Point to cast the [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] to a space within 60 feet of yourself at the start of each of your turns.
 
 ### Darkvision (Level 3)
 
-You gain [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision), its range increases by 60 feet.
+You gain [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]], its range increases by 60 feet.
 
 ### Shadowy Figments (Level 3)
 
-You know the [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md) spell. Wisdom is your spellcasting ability for it.
+You know the [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]] spell. Wisdom is your spellcasting ability for it.
 
 ### Shadow Step (Level 6)
 
-While entirely within [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), you can use a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to teleport up to 60 feet to an unoccupied space you can see that is also in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md). You then have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on the next melee attack you make before the end of the current turn.
+While entirely within [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], you can use a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to teleport up to 60 feet to an unoccupied space you can see that is also in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]. You then have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the next melee attack you make before the end of the current turn.
 
 ### Improved Shadow Step (Level 11)
 
-You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md) for that use of the feature. As part of this [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can make an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) immediately after you teleport.
+You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] for that use of the feature. As part of this [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can make an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]] immediately after you teleport.
 
 ### Cloak of Shadows (Level 17)
 
-As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action while entirely within [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition, or until you end your turn in [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md). While shrouded by these shadows, you gain the following benefits.
+As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action while entirely within [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition, or until you end your turn in [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]. While shrouded by these shadows, you gain the following benefits.
 
 #### Invisibility
 
-You have the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition.
+You have the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.
 
 #### Partially Incorporeal
 
-You can move through occupied spaces as if they were [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+You can move through occupied spaces as if they were [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
 
 #### Shadow Flurry
 

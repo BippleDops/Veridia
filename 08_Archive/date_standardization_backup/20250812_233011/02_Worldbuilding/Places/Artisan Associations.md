@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Artisan Associations]]
+- [[02_Worldbuilding/Places/Artisan Associations|02 Worldbuilding/Places/Artisan Associations]]
 
 <!-- enriched: true -->

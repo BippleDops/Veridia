@@ -18,7 +18,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]
 
 ## Player-Facing Summary
 

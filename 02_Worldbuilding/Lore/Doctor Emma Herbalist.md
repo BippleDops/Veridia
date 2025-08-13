@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[02_Worldbuilding/Groups/Purist Coalition Thugs|02 Worldbuilding/Groups/Purist Coalition Thugs]]
 
 
 ## Connections

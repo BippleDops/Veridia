@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
 
 
-While wearing this ring, you can cast [Telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md) from it.
+While wearing this ring, you can cast [[/03_Mechanics/CLI/spells/telekinesis-xphb|Telekinesis]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

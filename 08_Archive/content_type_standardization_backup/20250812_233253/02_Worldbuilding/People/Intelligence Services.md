@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Intelligence Services]]
+- [[02_Worldbuilding/Lore/Intelligence Services|02 Worldbuilding/Lore/Intelligence Services]]
 
 
 ## Connections

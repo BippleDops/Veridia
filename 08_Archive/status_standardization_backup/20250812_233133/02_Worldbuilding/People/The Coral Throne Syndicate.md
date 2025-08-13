@@ -34,7 +34,7 @@ accessibility:
 
 # The Coral Throne Syndicate
 
-![The Coral Throne Syndicate Portrait](04_Resources/Assets/Art/NPCs/The_Coral_Throne_Syndicate.png)
+![[04_Resources/Assets/Art/NPCs/The_Coral_Throne_Syndicate.png|The Coral Throne Syndicate Portrait]]
 
 ## Role and Motive
 The Coral Throne Syndicate moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -46,7 +46,7 @@ The Coral Throne Syndicate moves information and influence like currency. Public
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
 - Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]].
-- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
+- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -60,12 +60,12 @@ The Coral Throne Syndicate moves information and influence like currency. Public
 
 ## Hooks to the Main Campaign
 - Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos]].
+- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 - Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] as the true buyer behind a recent theft.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary

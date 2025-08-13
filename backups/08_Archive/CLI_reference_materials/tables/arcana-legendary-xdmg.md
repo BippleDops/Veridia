@@ -25,32 +25,32 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–04 | [Apparatus of Kwalish](/03_Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md) |
-| 05–08 | [Cloak of Invisibility](/03_Mechanics/CLI/items/cloak-of-invisibility-xdmg.md) |
-| 09–12 | [Crystal Ball of Mind Reading](/03_Mechanics/CLI/items/crystal-ball-of-mind-reading-xdmg.md) |
-| 13–16 | [Crystal Ball of Telepathy](/03_Mechanics/CLI/items/crystal-ball-of-telepathy-xdmg.md) |
-| 17–20 | [Crystal Ball of True Seeing](/03_Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md) |
-| 21–22 | [Cubic Gate](/03_Mechanics/CLI/items/cubic-gate-xdmg.md) |
-| 23 | [Deck of Many Things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md) |
-| 24–27 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 6, 7, or 8 spell) |
-| 28–31 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([greater absorption](/03_Mechanics/CLI/items/ioun-stone-greater-absorption-xdmg.md), [mastery](/03_Mechanics/CLI/items/ioun-stone-mastery-xdmg.md), or [regeneration](/03_Mechanics/CLI/items/ioun-stone-regeneration-xdmg.md)) |
-| 32–33 | [Iron Flask](/03_Mechanics/CLI/items/iron-flask-xdmg.md) |
-| 34–41 | [Potion of Storm Giant Strength (storm)](/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg.md) |
-| 42–45 | [Ring of Djinni Summoning](/03_Mechanics/CLI/items/ring-of-djinni-summoning-xdmg.md) |
-| 46–49 | [Ring of Elemental Command](/03_Mechanics/CLI/items/ring-of-elemental-command-xdmg.md) ([air](/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg.md), [earth](/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md), [fire](/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg.md), or [water](/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg.md)) |
-| 50–53 | [Ring of Invisibility](/03_Mechanics/CLI/items/ring-of-invisibility-xdmg.md) |
-| 54–57 | [Ring of Spell Turning](/03_Mechanics/CLI/items/ring-of-spell-turning-xdmg.md) |
-| 58 | [Ring of Three Wishes](/03_Mechanics/CLI/items/ring-of-three-wishes-xdmg.md) |
-| 59 | [Robe of the Archmagi](/03_Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md) |
-| 60–61 | [Scroll of Titan Summoning](/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg.md) |
-| 62–65 | [Sovereign Glue](/03_Mechanics/CLI/items/sovereign-glue-xdmg.md) |
-| 66–83 | [Spell Scroll (level 9](/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg.md) spell) |
-| 84 | [Sphere of Annihilation](/03_Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) |
-| 85 | [Staff of the Magi](/03_Mechanics/CLI/items/staff-of-the-magi-xdmg.md) |
-| 86–88 | [Talisman of the Sphere](/03_Mechanics/CLI/items/talisman-of-the-sphere-xdmg.md) |
-| 89–92 | [Tome of the Stilled Tongue](/03_Mechanics/CLI/items/tome-of-the-stilled-tongue-xdmg.md) |
-| 93–96 | [Universal Solvent](/03_Mechanics/CLI/items/universal-solvent-xdmg.md) |
-| 97–00 | [Well of Many Worlds](/03_Mechanics/CLI/items/well-of-many-worlds-xdmg.md) |
+| 01–04 | [[/03_Mechanics/CLI/items/apparatus-of-kwalish-xdmg|Apparatus of Kwalish]] |
+| 05–08 | [[/03_Mechanics/CLI/items/cloak-of-invisibility-xdmg|Cloak of Invisibility]] |
+| 09–12 | [[/03_Mechanics/CLI/items/crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]] |
+| 13–16 | [[/03_Mechanics/CLI/items/crystal-ball-of-telepathy-xdmg|Crystal Ball of Telepathy]] |
+| 17–20 | [[/03_Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg|Crystal Ball of True Seeing]] |
+| 21–22 | [[/03_Mechanics/CLI/items/cubic-gate-xdmg|Cubic Gate]] |
+| 23 | [[/03_Mechanics/CLI/items/deck-of-many-things-xdmg|Deck of Many Things]] |
+| 24–27 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–31 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-greater-absorption-xdmg|greater absorption]], [[/03_Mechanics/CLI/items/ioun-stone-mastery-xdmg|mastery]], or [[/03_Mechanics/CLI/items/ioun-stone-regeneration-xdmg|regeneration]]) |
+| 32–33 | [[/03_Mechanics/CLI/items/iron-flask-xdmg|Iron Flask]] |
+| 34–41 | [[/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg|Potion of Storm Giant Strength (storm)]] |
+| 42–45 | [[/03_Mechanics/CLI/items/ring-of-djinni-summoning-xdmg|Ring of Djinni Summoning]] |
+| 46–49 | [[/03_Mechanics/CLI/items/ring-of-elemental-command-xdmg|Ring of Elemental Command]] ([[/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg|air]], [[/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg|earth]], [[/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg|fire]], or [[/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg|water]]) |
+| 50–53 | [[/03_Mechanics/CLI/items/ring-of-invisibility-xdmg|Ring of Invisibility]] |
+| 54–57 | [[/03_Mechanics/CLI/items/ring-of-spell-turning-xdmg|Ring of Spell Turning]] |
+| 58 | [[/03_Mechanics/CLI/items/ring-of-three-wishes-xdmg|Ring of Three Wishes]] |
+| 59 | [[/03_Mechanics/CLI/items/robe-of-the-archmagi-xdmg|Robe of the Archmagi]] |
+| 60–61 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]] |
+| 62–65 | [[/03_Mechanics/CLI/items/sovereign-glue-xdmg|Sovereign Glue]] |
+| 66–83 | [[/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg|Spell Scroll (level 9]] spell) |
+| 84 | [[/03_Mechanics/CLI/items/sphere-of-annihilation-xdmg|Sphere of Annihilation]] |
+| 85 | [[/03_Mechanics/CLI/items/staff-of-the-magi-xdmg|Staff of the Magi]] |
+| 86–88 | [[/03_Mechanics/CLI/items/talisman-of-the-sphere-xdmg|Talisman of the Sphere]] |
+| 89–92 | [[/03_Mechanics/CLI/items/tome-of-the-stilled-tongue-xdmg|Tome of the Stilled Tongue]] |
+| 93–96 | [[/03_Mechanics/CLI/items/universal-solvent-xdmg|Universal Solvent]] |
+| 97–00 | [[/03_Mechanics/CLI/items/well-of-many-worlds-xdmg|Well of Many Worlds]] |
 ^arcana-legendary
 
 ## Player-Facing Summary

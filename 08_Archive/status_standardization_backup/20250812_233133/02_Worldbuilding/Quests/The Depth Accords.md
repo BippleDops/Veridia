@@ -37,7 +37,7 @@ updated: '2025-08-13T01:18:34.487800+00:00'
 **Estimated Duration:** 6-8 sessions  
 **Quest Type:** Diplomatic Mission, Ancient Mystery, Underwater Adventure
 
-Deep beneath the waves of [[Aquabyssos]], an ancient pact known as the [[Depth Accords]] has maintained peace between the surface kingdoms and the mysterious [[Abyssal Courts]] for over a millennium. When the sacred [[02_Worldbuilding/Lore/The Coral Throne]] is shattered and the [[Leviathan Princes]] begin mobilizing their armies, the characters are chosen as unlikely ambassadors to restore the accords before the depths rise to reclaim the surface world.
+Deep beneath the waves of [[Aquabyssos]], an ancient pact known as the [[Depth Accords]] has maintained peace between the surface kingdoms and the mysterious [[Abyssal Courts]] for over a millennium. When the sacred [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] is shattered and the [[Leviathan Princes]] begin mobilizing their armies, the characters are chosen as unlikely ambassadors to restore the accords before the depths rise to reclaim the surface world.
 
 ## Background: The Original Accords
 
@@ -46,7 +46,7 @@ One thousand years ago, the surface kingdoms of [[Aquabyssos]] were locked in a 
 - Territorial boundaries between surface and deep-sea realms
 - Trade agreements for rare [[Abyssal Pearls]] and [[Sunlight Crystals]]
 - Mutual non-aggression pacts
-- The sacred [[02_Worldbuilding/Lore/The Coral Throne]] as a neutral meeting ground
+- The sacred [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] as a neutral meeting ground
 - Ritualistic renewal ceremonies every century
 
 The accords were sealed with powerful magic, binding both realms to honor their terms. But now the throne lies shattered, and ancient powers stir in the depths.
@@ -54,7 +54,7 @@ The accords were sealed with powerful magic, binding both realms to honor their 
 ## Act I: The Shattering (Levels 8-9)
 
 ### The Inciting Incident
-The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy]] recruits the characters after the [[02_Worldbuilding/Lore/The Coral Throne]] is mysteriously destroyed during what should have been a routine renewal ceremony.
+The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy]] recruits the characters after the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] is mysteriously destroyed during what should have been a routine renewal ceremony.
 
 ### The Hook Options
 - **Royal Summons:** Characters are summoned directly by [[Queen Nerida]] of [[Aquabyssos]]
@@ -80,7 +80,7 @@ The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy
 - **Personality:** Cryptic but wise, speaks in riddles and ancient metaphors
 
 ### Initial Investigation
-Characters must uncover what happened to the [[02_Worldbuilding/Lore/The Coral Throne]]:
+Characters must uncover what happened to the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]]:
 - **Arcana (DC 18):** The destruction was caused by [[Void Magic]], not natural forces
 - **Investigation (DC 16):** Evidence points to sabotage rather than accident
 - **History (DC 20):** Discovery of similar incidents in ancient texts
@@ -173,13 +173,13 @@ Each court presents different negotiation challenges:
 ## Act III: The Ancient Conspiracy (Levels 10-11)
 
 ### The Hidden Truth
-Through successful negotiations and investigation, the characters discover that the [[02_Worldbuilding/Lore/The Coral Throne]] was not destroyed by either surface dwellers or the [[Deep Ones]], but by the [[Cult of the Endless Void]]—a faction that seeks to destroy the barriers between dimensions and unleash chaos upon both realms.
+Through successful negotiations and investigation, the characters discover that the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] was not destroyed by either surface dwellers or the [[Deep Ones]], but by the [[Cult of the Endless Void]]—a faction that seeks to destroy the barriers between dimensions and unleash chaos upon both realms.
 
 ### Key Revelations
 - The cult has infiltrated both surface and deep-sea societies
 - The throne's destruction was meant to trigger a war that would weaken both realms
 - The cult leader is [[Magister Voidheart]], a former diplomat who helped negotiate the original accords
-- The cult possesses a fragment of the original [[02_Worldbuilding/Lore/The Coral Throne]] and plans to corrupt it
+- The cult possesses a fragment of the original [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] and plans to corrupt it
 
 ### The Cult's Base
 The characters must infiltrate the [[Void Sanctum]], a hidden fortress built within a dimensional rift between the surface and the depths.
@@ -212,7 +212,7 @@ The [[Void Sanctum]] presents unique challenges:
 ## Act IV: Forging New Accords (Levels 11-12)
 
 ### The Ritual of Restoration
-With the cult defeated and the throne fragment recovered, the characters must participate in an ancient ritual to create a new [[02_Worldbuilding/Lore/The Coral Throne]] and restore the [[Depth Accords]].
+With the cult defeated and the throne fragment recovered, the characters must participate in an ancient ritual to create a new [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] and restore the [[Depth Accords]].
 
 ### The Ceremony Requirements
 - Representatives from all three [[Abyssal Courts]] must be present
@@ -362,7 +362,7 @@ This quest serves as a masterclass in diplomatic adventure design, offering play
 - [[Vault Breach]]
 - [[Diplomatic Tides]]
 - [[Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -382,4 +382,4 @@ Legends speak of The Depth Accords as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[02_Worldbuilding/Quests/Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]

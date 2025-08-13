@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Voluntary Taxation]]
+- [[02_Worldbuilding/Places/Voluntary Taxation|02 Worldbuilding/Places/Voluntary Taxation]]
 
 <!-- enriched: true -->
 

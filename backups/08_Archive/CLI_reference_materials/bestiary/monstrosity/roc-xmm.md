@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-roc-xmm-roc-xmm.svg)
 
-# [Roc](3-Mechanics\CLI\bestiary\monstrosity/roc-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/roc-xmm|Roc]]
 *Source: Monster Manual (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Roc
@@ -78,7 +78,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": ""
@@ -91,14 +91,14 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
       \ damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage.\
-      \ If the target is a Huge or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 19) from both talons, and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ condition (escape DC 19) from both talons, and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Talons"
 "bonus_actions":
-  - "desc": "If the roc has a creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-      \ the roc flies up to half its [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "If the roc has a creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]],\
+      \ the roc flies up to half its [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]]\
+      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and drops that creature."
     "name": "Swoop (Recharge 5-6)"
 "source":

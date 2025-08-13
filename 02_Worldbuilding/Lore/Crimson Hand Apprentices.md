@@ -359,11 +359,11 @@ Rescue and protection missions require characters to defend community members wh
 Disruption operations enable characters to interfere with criminal activities while creating immediate impact on criminal organization effectiveness.
 
 ## Connected Organizations and Figures
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary setting for criminal apprentice activities
-- [[02_Worldbuilding/Lore/Aethermoor City Watch]] - Primary law enforcement response
-- [[02_Worldbuilding/People/Inspector Helena Truthseeker]] - Leading investigator of criminal apprentice programs
-- [[02_Worldbuilding/Lore/Organized Crime Networks]] - Broader criminal organization context
-- [[02_Worldbuilding/Lore/Community Support Programs]] - Prevention and intervention efforts
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary setting for criminal apprentice activities
+- [[02_Worldbuilding/Lore/Aethermoor City Watch|02 Worldbuilding/Lore/Aethermoor City Watch]] - Primary law enforcement response
+- [[02_Worldbuilding/People/Inspector Helena Truthseeker|02 Worldbuilding/People/Inspector Helena Truthseeker]] - Leading investigator of criminal apprentice programs
+- [[02_Worldbuilding/Lore/Organized Crime Networks|02 Worldbuilding/Lore/Organized Crime Networks]] - Broader criminal organization context
+- [[02_Worldbuilding/Lore/Community Support Programs|02 Worldbuilding/Lore/Community Support Programs]] - Prevention and intervention efforts
 
 
 ## Connections
@@ -392,5 +392,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Inspector Helena Truthseeker]]
+- [[02_Worldbuilding/Lore/Inspector Helena Truthseeker|02 Worldbuilding/Lore/Inspector Helena Truthseeker]]
 - [[Aethermoor]]

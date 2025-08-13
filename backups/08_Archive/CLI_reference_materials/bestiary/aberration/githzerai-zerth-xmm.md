@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)
 
-# [Githzerai Zerth](3-Mechanics\CLI\bestiary\aberration/githzerai-zerth-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/githzerai-zerth-xmm|Githzerai Zerth]]
 *Source: Monster Manual (2024) p. 137*  
 
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
@@ -91,11 +91,11 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+6"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common, Gith"
@@ -108,18 +108,18 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-      \ [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-      \n1/day each: [Phantasmal Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
-      \ (level 6 version), [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md)"
+      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]] (the hand is Invisible)\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb|Phantasmal Killer]]\
+      \ (level 6 version), [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]],\
+      \ [[/03_Mechanics/CLI/spells/see-invisibility-xphb|See Invisibility]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [Jump](/03_Mechanics/CLI/spells/jump-xphb.md), requiring\
+  - "desc": "The githzerai casts [[/03_Mechanics/CLI/spells/jump-xphb|Jump]], requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md)\
-      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The githzerai casts [[/03_Mechanics/CLI/spells/feather-fall-xphb|Feather Fall]]\
+      \ or [[/03_Mechanics/CLI/spells/shield-xphb|Shield]] in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"

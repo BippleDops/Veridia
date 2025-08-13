@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Viewing Chambers]]
+- [[02_Worldbuilding/Places/Temporal Viewing Chambers|02 Worldbuilding/Places/Temporal Viewing Chambers]]
 
 <!-- enriched: true -->
 

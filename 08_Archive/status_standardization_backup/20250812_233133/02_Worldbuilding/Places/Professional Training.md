@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Professional Training]]
+- [[02_Worldbuilding/Places/Professional Training|02 Worldbuilding/Places/Professional Training]]
 
 <!-- enriched: true -->
 

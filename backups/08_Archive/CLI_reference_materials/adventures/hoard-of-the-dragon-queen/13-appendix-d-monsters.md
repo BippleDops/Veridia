@@ -19,28 +19,28 @@ world: Both
 # Appendix D: Monsters
 *Source: Hoard of the Dragon Queen, p. 180* 
 
-- [Ambush Drake](/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq.md)  
-- [Azbara Jos](/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md)  
-- [Blagothkus](/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)  
-- [Captain Othelstan](/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md)  
-- [Dragonclaw](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md)  
-- [Dragonfang](/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md)  
-- [Dragonsoul](/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md)  
-- [Dragonwing](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md)  
-- [Dralmorrer Borngray](/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq.md)  
-- [Frulam Mondath](/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq.md)  
-- [Guard Drake](/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md)  
-- [Ice Toad](/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md)  
-- [Jamna Gleamsilver](/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md)  
-- [Langdedrosa Cyanwrath](/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq.md)  
-- [Naergoth Bladelord](/03_Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot.md)  
-- [Neronvain](/03_Mechanics/CLI/bestiary/npc/neronvain-rot.md)  
-- [Pharblex Spattergoo](/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq.md)  
-- [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)  
-- [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)  
-- [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)  
-- [Talis the White](/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq.md)  
-- [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md)
+- [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|Ambush Drake]]  
+- [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]]  
+- [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]  
+- [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|Dragonclaw]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot|Dragonfang]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot|Dragonsoul]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq|Dragonwing]]  
+- [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]]  
+- [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|Guard Drake]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|Ice Toad]]  
+- [[/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq|Jamna Gleamsilver]]  
+- [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]]  
+- [[/03_Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot|Naergoth Bladelord]]  
+- [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]  
+- [[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]]  
+- [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]]  
+- [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]  
+- [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]  
+- [[/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq|Talis the White]]  
+- [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]
 
 ## Player-Facing Summary
 

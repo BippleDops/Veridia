@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-carrion-crawler-xmm-carrion-crawler-xmm.svg)
 
-# [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler-xmm|Carrion Crawler]]
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  
 
 ## Carrion Crawler
@@ -38,7 +38,7 @@ world: Both
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
@@ -62,7 +62,7 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -78,11 +78,11 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
       \ plus 3 (d6) Poison damage."
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 12, one creature the carrion crawler\
-      \ can see within 10 feet. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ can see within 10 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the target has\
-      \ the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the target has\
+      \ the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"

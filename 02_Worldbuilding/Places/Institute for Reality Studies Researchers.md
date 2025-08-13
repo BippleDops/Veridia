@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Institute for Reality Studies Researchers]]
+- [[02_Worldbuilding/Places/Institute for Reality Studies Researchers|02 Worldbuilding/Places/Institute For Reality Studies Researchers]]
 
 <!-- enriched: true -->
 

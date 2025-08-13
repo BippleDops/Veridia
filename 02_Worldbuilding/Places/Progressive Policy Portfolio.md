@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Senator|02 Worldbuilding/People/The Senator]]
 
 
 ## Connections

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-behir-xmm-behir-xmm.svg)
 
-# [Behir](3-Mechanics\CLI\bestiary\monstrosity/behir-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/behir-xmm|Behir]]
 *Source: Monster Manual (2024) p. 34. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Behir
@@ -64,9 +64,9 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
   - !!int "12"
 "speed": "50 ft., climb 50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "lightning"
 "senses": "darkvision 90 ft., passive Perception 16"
@@ -80,28 +80,28 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
     "name": "Bite"
   - "desc": "Strength Saving Throw: DC 18, one Large or smaller creature the behir\
       \ can see within 5 feet. Failure: 28 (5d8 + 6) Bludgeoning damage. The target\
-      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 16), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
+      \ DC 16), and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Constrict"
   - "desc": "Dexterity Saving Throw: DC 16, each creature in a 90-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 66 (12d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Dexterity Saving Throw: DC 18, one Large or smaller creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "Dexterity Saving Throw: DC 18, one Large or smaller creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ by the behir (the behir can have only one creature swallowed at a time). Failure:\
-      \ The behir swallows the target, which is no longer [Grappled](/03_Mechanics/CLI/conditions.md#Grappled).\
-      \ While swallowed, a creature has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) conditions, has\
-      \ [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) against attacks\
+      \ The behir swallows the target, which is no longer [[/03_Mechanics/CLI/conditions#Grappled|Grappled]].\
+      \ While swallowed, a creature has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] conditions, has\
+      \ [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]] against attacks\
       \ and other effects outside the behir, and takes 21 (6d6) Acid damage at the\
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\
       \ DC 14 Constitution saving throw at the end of that turn or regurgitate the\
-      \ creature, which falls in a space within 10 feet of the behir and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
-      \ condition. If the behir dies, a swallowed creature is no longer [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
-      \ and can escape from the corpse by using 15 feet of movement, exiting [Prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ creature, which falls in a space within 10 feet of the behir and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition. If the behir dies, a swallowed creature is no longer [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ and can escape from the corpse by using 15 feet of movement, exiting [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"

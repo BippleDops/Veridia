@@ -15,7 +15,7 @@ role: Shard Historian
 affiliation: '[[The Archive of Forgotten Things]]'
 age: '62'
 race: Half-Elf
-location: '[[02_Worldbuilding/Places/Crystalhaven]] - The Grand Library'
+location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - The Grand Library'
 created_by: auto-stub
 created: 2025-08-09
 updated: 2025-08-11
@@ -32,7 +32,7 @@ updated: 2025-08-11
 *Keeper of Shard Lore, Master of Ancient Texts*
 
 ## Overview
-Scholar Vivienne is the kingdom's foremost expert on the history of [[02_Worldbuilding/Lore/The Seven Shards]], having spent four decades collecting, translating, and analyzing every scrap of information about the [[The Crown of Stars]] and its shattering. Unlike the obsessed seekers, she approaches the Shards with academic detachment, believing knowledge should be preserved regardless of its danger.
+Scholar Vivienne is the kingdom's foremost expert on the history of [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], having spent four decades collecting, translating, and analyzing every scrap of information about the [[The Crown of Stars]] and its shattering. Unlike the obsessed seekers, she approaches the Shards with academic detachment, believing knowledge should be preserved regardless of its danger.
 
 ## Description
 - **Appearance**: Elegant woman with silver-streaked auburn hair, wearing fine but practical robes
@@ -55,13 +55,13 @@ Scholar Vivienne is the kingdom's foremost expert on the history of [[02_Worldbu
 ## Knowledge & Expertise
 ### What She Knows
 - Location hints for 5 of the 7 Shards
-- Complete history of [[02_Worldbuilding/Lore/The Great Crystallization]]
+- Complete history of [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
 - Identity patterns of past Shard seekers
 - Theoretical methods for Shard control or destruction
 - Ancient languages related to divine artifacts
 
 ### What She Suspects
-- [[02_Worldbuilding/People/The Crimson Sage]] is connected to the original Crown
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] is connected to the original Crown
 - The Shards may be conscious or semi-sentient
 - Multiple fake Shards exist, created by would-be gods
 - The true purpose of the Crown's shattering was intentional
@@ -80,10 +80,10 @@ Scholar Vivienne is the kingdom's foremost expert on the history of [[02_Worldbu
 - **Shard Seeker Journals**: Final writings of failed seekers
 
 ## Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides historical counsel (secretly)
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides historical counsel (secretly)
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Academic respect despite his corruption
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Tense relationship over "dangerous" knowledge
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Occasionally consults her research
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Tense relationship over "dangerous" knowledge
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]**: Occasionally consults her research
 - **[[The Crystal Cult]]**: Studies their prophecies while opposing their methods
 
 ## Services Offered
@@ -146,9 +146,9 @@ Religious extremists plan to destroy the Archive of Forgotten Things, viewing it
 - Wants to solve the Shard mystery before dying
 
 ## Connected Elements
-- Key information source for [[02_Worldbuilding/Lore/The Seven Shards]] plotlines
+- Key information source for [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] plotlines
 - Links to multiple factions through her research
-- Connection to [[02_Worldbuilding/Places/Crystalhaven]]'s academic community
+- Connection to [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s academic community
 - Bridge between ancient history and current events
 
 ---
@@ -259,13 +259,13 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 
 ## Cross-Campaign Integration
 
-### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 - Possesses historical records of previous dimensional instabilities
 - Expert analysis of how cosmic events affect historical timelines
 - Research into connections between Seven Shards and dimensional stability
 - Historical precedents for reality convergence events
 
-### Connection to [[02_Worldbuilding/Groups/The Convergence Seekers]]
+### Connection to [[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]
 - Academic collaboration on dimensional research projects
 - Neutral perspective on whether convergence represents opportunity or threat
 - Historical analysis of past attempts at dimensional manipulation
@@ -287,15 +287,15 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 ## Connections
 
 - [[Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
 - [[Amnesia Gallery]]
 - [[Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -313,7 +313,7 @@ Legends speak of Scholar Vivienne the Chronicler as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler|02 Worldbuilding/People/Scholar Vivienne The Chronicler]]
 
 <!-- enriched: true -->
 - [[The Crown of Stars]]

@@ -191,7 +191,7 @@ The Drowned Temple represents one of [[Aquabyssos]]'s most mysterious and spirit
 ## Connections
 
 - [[Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Lock Saboteur]]
 
 ## Player-Facing Summary
@@ -214,6 +214,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned|02 Worldbuilding/Places/Temple Guardian Marcus The Drowned]]
 
 <!-- enriched: true -->

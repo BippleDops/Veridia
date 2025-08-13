@@ -48,7 +48,7 @@ At 15,000 feet below the surface, The Lock exists at the absolute limit of where
 ### The Great Seal
 A colossal magical construct spanning three miles in diameter, the Great Seal appears as a translucent dome of shifting, opalescent energy. The barrier consists of seven interlocked magical matrices, each powered by a different source:
 
-1. **[[The Crown Matrix]]** - Powered by fragments of the shattered [[Crown of Stars]] from [[02_Worldbuilding/Places/Aethermoor]]
+1. **[[The Crown Matrix]]** - Powered by fragments of the shattered [[Crown of Stars]] from [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 2. **[[The Depth Crystal Core]]** - Uses compressed reality crystals from [[Abyssos Prime]]
 3. **[[The Memory Anchor]]** - Sustained by the collective memories of all who died during [[The Great Drowning]]
 4. **[[The Will Ward]]** - Maintained by the focused determination of The Lock's garrison
@@ -79,7 +79,7 @@ Each tower corresponds to one matrix of the Great Seal:
 **Crown Tower**
 - Houses fragments of the [[Crown of Stars]]
 - Operated by [[Keeper of Crowns Lydia Starfall]]
-- Contains [[02_Worldbuilding/Places/Aethermoor]] embassy chambers
+- Contains [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] embassy chambers
 - Requires constant magical maintenance
 
 **Crystal Tower** 
@@ -212,7 +212,7 @@ Despite the barrier, subtle effects leak through:
 - **[[Dr. Coral Mindmend]]** - Chief medical officer specializing in deep trauma
 
 ### Matrix Keepers
-- **[[Keeper of Crowns Lydia Starfall]]** - Maintains connection to [[02_Worldbuilding/Places/Aethermoor]]
+- **[[Keeper of Crowns Lydia Starfall]]** - Maintains connection to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - **[[Master Crystallographer Orion Deepmine]]** - Crystal matrix specialist
 - **[[Memoriam Keeper Marcus Remembrance]]** - Guardian of drowning memories
 - **[[Mental Fortitude Master Vera Ironmind]]** - Will matrix coordinator
@@ -237,7 +237,7 @@ Secret emergency plan in case the barrier fails:
 - **Stage 2**: Activate [[The Soul Forge]] at maximum power
 - **Stage 3**: Sacrifice the entire garrison to reinforce the barrier
 - **Stage 4**: If still failing, detonate [[The Paradox Engine]] to erase local reality
-- Only [[Admiral Thorne Blackwater]] and [[02_Worldbuilding/People/The Scattered Emperor]] know the full protocol
+- Only [[Admiral Thorne Blackwater]] and [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] know the full protocol
 
 ### The Admiral's Condition
 [[Admiral Thorne Blackwater]] has been at The Lock too long:
@@ -395,7 +395,7 @@ Evidence suggests The Lock is not unique:
 - Unknown geography and physics beyond the barrier
 - Potential source of ultimate solutions or destruction
 
-### [[02_Worldbuilding/Places/Aethermoor]] Connection
+### [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] Connection
 - Crown Matrix powered by shattered Crown of Stars
 - Exchange of magical knowledge and techniques
 - Potential refuge if Aquabyssos becomes uninhabitable
@@ -442,7 +442,7 @@ Evidence suggests The Lock is not unique:
 - [[Smuggler]]
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -464,7 +464,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Lock|02 Worldbuilding/Places/The Lock]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

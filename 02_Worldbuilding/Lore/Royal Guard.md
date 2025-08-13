@@ -18,7 +18,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/Noble Quarter|02 Worldbuilding/Places/Noble Quarter]]
 
 ## Player-Facing Summary
 

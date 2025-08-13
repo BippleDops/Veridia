@@ -25,16 +25,16 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [Silver chalice set with moonstones](/03_Mechanics/CLI/items/silver-chalice-set-with-moonstones-xdmg.md) |
-| 2 | [Silver-plated steel longsword with jet set in hilt](/03_Mechanics/CLI/items/bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.md) |
-| 3 | [Carved harp of exotic wood with ivory inlay and zircon gems](/03_Mechanics/CLI/items/carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg.md) |
-| 4 | [Small gold idol](/03_Mechanics/CLI/items/gold-idol-xdmg.md) |
-| 5 | [Gold dragon comb set with red garnets as eyes](/03_Mechanics/CLI/items/gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg.md) |
-| 6 | [Bottle stopper cork embossed with gold leaf and set with amethysts](/03_Mechanics/CLI/items/bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg.md) |
-| 7 | [Ceremonial electrum dagger with a black pearl in the pommel](/03_Mechanics/CLI/items/detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg.md) |
-| 8 | [Silver and gold brooch](/03_Mechanics/CLI/items/silver-and-gold-brooch-xdmg.md) |
-| 9 | [Obsidian statuette with gold fittings and inlay](/03_Mechanics/CLI/items/obsidian-statuette-with-gold-fittings-and-inlay-xdmg.md) |
-| 10 | [Painted gold war mask](/03_Mechanics/CLI/items/painted-gold-war-mask-xdmg.md) |
+| 1 | [[/03_Mechanics/CLI/items/silver-chalice-set-with-moonstones-xdmg|Silver chalice set with moonstones]] |
+| 2 | [[/03_Mechanics/CLI/items/bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg|Silver-plated steel longsword with jet set in hilt]] |
+| 3 | [[/03_Mechanics/CLI/items/carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg|Carved harp of exotic wood with ivory inlay and zircon gems]] |
+| 4 | [[/03_Mechanics/CLI/items/gold-idol-xdmg|Small gold idol]] |
+| 5 | [[/03_Mechanics/CLI/items/gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg|Gold dragon comb set with red garnets as eyes]] |
+| 6 | [[/03_Mechanics/CLI/items/bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]] |
+| 7 | [[/03_Mechanics/CLI/items/detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg|Ceremonial electrum dagger with a black pearl in the pommel]] |
+| 8 | [[/03_Mechanics/CLI/items/silver-and-gold-brooch-xdmg|Silver and gold brooch]] |
+| 9 | [[/03_Mechanics/CLI/items/obsidian-statuette-with-gold-fittings-and-inlay-xdmg|Obsidian statuette with gold fittings and inlay]] |
+| 10 | [[/03_Mechanics/CLI/items/painted-gold-war-mask-xdmg|Painted gold war mask]] |
 ^750-gp-art-objects
 
 ## Player-Facing Summary

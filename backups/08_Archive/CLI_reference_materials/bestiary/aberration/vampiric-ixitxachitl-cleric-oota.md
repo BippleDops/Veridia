@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-vampiric-ixitxachitl-cleric-oota-v1-vampiric-ixitxachitl-cleric-oota.svg)
 
-# [Vampiric Ixitxachitl Cleric](3-Mechanics\CLI\bestiary\aberration/vampiric-ixitxachitl-cleric-oota.md)
+# [[3-Mechanics\CLI\bestiary\aberration/vampiric-ixitxachitl-cleric-oota|Vampiric Ixitxachitl Cleric]]
 *Source: Out of the Abyss p. 226*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
@@ -55,7 +55,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 2nd Level (3 slots): hold person, silence
 
-3rd Level (2 slots): [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), tongues
+3rd Level (2 slots): [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], tongues
 
 ```statblock
 "name": "Vampiric Ixitxachitl Cleric (OotA)"
@@ -81,13 +81,13 @@ Cantrips (at will): guidance, thaumaturgy
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [guidance](/03_Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1st level\
-      \ (4 slots): [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [create or destroy water](/03_Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
-      \n2nd level (3 slots): [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [silence](/03_Mechanics/CLI/spells/silence-xphb.md)\n\n3rd level (2 slots):\
-      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
+      \ has the following cleric spells prepared:\n\nCantrips (at will): [[/03_Mechanics/CLI/spells/guidance-xphb|guidance]],\
+      \ [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]]\n\n1st level\
+      \ (4 slots): [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]],\
+      \ [[/03_Mechanics/CLI/spells/create-or-destroy-water-xphb|create or destroy water]]\n\
+      \n2nd level (3 slots): [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]],\
+      \ [[/03_Mechanics/CLI/spells/silence-xphb|silence]]\n\n3rd level (2 slots):\
+      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/tongues-xphb|tongues]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\

@@ -32,7 +32,7 @@ accessibility:
 
 # Uniting the Factions
 
-![Uniting the Factions Portrait](04_Resources/Assets/Art/NPCs/Uniting_the_Factions.png)
+![[04_Resources/Assets/Art/NPCs/Uniting_the_Factions.png|Uniting the Factions Portrait]]
 
 ## Role and Motive
 Uniting the Factions moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

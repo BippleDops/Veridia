@@ -145,11 +145,11 @@ A new Abyssal breach point has opened near a major population center, and standa
 A team of scientists studying Abyssal phenomena has lost contact after reporting a breakthrough in communication with void entities. Characters are tasked with locating the researchers and determining their fate.
 
 ## Connected Topics and References
-- [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that may have originated in Abyssal space
-- [[02_Worldbuilding/Places/Abyssos Prime]] - The capital city built above the void
-- [[02_Worldbuilding/Lore/The Deep Mother]] - Primordial entity possibly connected to Abyssal consciousness
-- [[02_Worldbuilding/Mechanics/Depth Corruption System]] - Game mechanics for handling void exposure
-- [[02_Worldbuilding/Organizations/Order of the Deep Vigil]] - Primary organization for Abyssal research and monitoring
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that may have originated in Abyssal space
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - The capital city built above the void
+- [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] - Primordial entity possibly connected to Abyssal consciousness
+- [[02_Worldbuilding/Mechanics/Depth Corruption System|02 Worldbuilding/Mechanics/Depth Corruption System]] - Game mechanics for handling void exposure
+- [[02_Worldbuilding/Organizations/Order of the Deep Vigil|02 Worldbuilding/Organizations/Order Of The Deep Vigil]] - Primary organization for Abyssal research and monitoring
 
 
 ## Connections
@@ -180,4 +180,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Abyssal Cyclicalism]]
+- [[02_Worldbuilding/Lore/Abyssal Cyclicalism|02 Worldbuilding/Lore/Abyssal Cyclicalism]]

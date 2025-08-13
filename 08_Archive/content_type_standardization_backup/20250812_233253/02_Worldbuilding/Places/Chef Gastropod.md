@@ -265,7 +265,7 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -287,7 +287,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod|02 Worldbuilding/Places/Chef Gastropod]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

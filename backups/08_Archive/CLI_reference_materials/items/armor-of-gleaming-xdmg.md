@@ -55,7 +55,7 @@ This armor never gets dirty.
 - [Splint Armor of Gleaming](#Splint%20Armor%20of%20Gleaming)
 - [Studded Leather Armor of Gleaming](#Studded%20Leather%20Armor%20of%20Gleaming)
 
-### Breastplate of Gleaming
+## Breastplate of Gleaming
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

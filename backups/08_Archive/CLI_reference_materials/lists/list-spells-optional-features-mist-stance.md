@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Gaseous Form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/gaseous-form-xphb "XPHB"|Gaseous Form]]
 
 ## Player-Facing Summary
 

@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual|02 Worldbuilding/Quests/Stop The Crystal Festival Ritual]]
 
 
 ## Connections

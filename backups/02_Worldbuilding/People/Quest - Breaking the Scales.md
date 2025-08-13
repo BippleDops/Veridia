@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - Breaking the Scales]]
+- [[02_Worldbuilding/People/Quest - Breaking the Scales|02 Worldbuilding/People/Quest Breaking The Scales]]
 
 <!-- enriched: true -->
 

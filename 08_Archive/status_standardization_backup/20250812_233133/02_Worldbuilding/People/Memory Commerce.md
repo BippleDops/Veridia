@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Memory Commerce]]
+- [[02_Worldbuilding/People/Memory Commerce|02 Worldbuilding/People/Memory Commerce]]
 
 <!-- enriched: true -->
 

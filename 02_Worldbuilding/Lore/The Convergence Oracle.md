@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Crimson Hand|02 Worldbuilding/Lore/The Crimson Hand]]
 
 
 ## Connections

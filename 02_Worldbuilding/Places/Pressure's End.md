@@ -40,7 +40,7 @@ Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End 
 ## Districts
 
 ### The Garrison Deeps
-Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[02_Worldbuilding/People/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
+Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
 
 ### The Forge Trenches
 Industrial district where [[Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[The Great Drowning]].
@@ -86,7 +86,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 [[Supplier Erikson Tidecaller]] provides specialized equipment for deep expeditions, including pressure suits and emergency ascent magic.
 
 ## Government & Law
-- Military dictatorship under [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- Military dictatorship under [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]
 - Martial law enforced by the [[Depth Wardens]]
 - Civilian council exists but has little power
 - Justice is swift and harsh, with execution common
@@ -112,10 +112,10 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 
 ## Current Events
 1. Increased activity detected in [[The Hadal Depths]]
-2. Conflict with [[02_Worldbuilding/Places/Lumengarde]] over bioweapon development
+2. Conflict with [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] over bioweapon development
 3. Several scout patrols have failed to return
 4. Political pressure to expand military control
-5. Discovery of massive creature movement in [[02_Worldbuilding/Places/The Cerulean Trench]]
+5. Discovery of massive creature movement in [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]]
 
 ## Secrets
 > [!warning] DM Only
@@ -138,7 +138,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 10. Veterans protesting treatment
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Supreme Commander
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Supreme Commander
 - [[Master Smith Vulcan Deepforge]] - Chief Armorer
 - [[Commander Drake Pressureborn]] - Training Master
 - [[Warden Marcus Stonehand]] - Prison Commander
@@ -149,10 +149,10 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 - [[Quartermaster Judith Steadfast]] - Supply Chief
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Bathyal Palace]] - Uneasy alliance
+- [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] - Uneasy alliance
 - [[The Hadal Depths]] - Primary threat
-- [[02_Worldbuilding/Places/New Tethys]] - Military contracts
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Patrol area
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Military contracts
+- [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]] - Patrol area
 - [[The Lock]] - Prison complex
 
 ## Quests Available
@@ -187,7 +187,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 
 <!-- enriched: true -->
 - [[Beast Master Krell Chainbreaker]]

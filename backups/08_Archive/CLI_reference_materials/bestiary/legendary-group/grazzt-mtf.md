@@ -28,8 +28,8 @@ _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Graz'zt can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- Graz'zt casts the [command](/03_Mechanics/CLI/spells/command-xphb.md) spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.  
-- Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide.  
+- Graz'zt casts the [[/03_Mechanics/CLI/spells/command-xphb|command]] spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.  
+- Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to hide.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

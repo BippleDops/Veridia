@@ -61,7 +61,7 @@ After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 - [Needle of Slaying](#Needle%20of%20Slaying)
 - [Sling Bullet of Slaying](#Sling%20Bullet%20of%20Slaying)
 
-### Arrow of Slaying
+## Arrow of Slaying
 
 - **Weight**: 0.05 lbs.
 

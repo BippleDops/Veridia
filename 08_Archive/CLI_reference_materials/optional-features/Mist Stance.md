@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [gaseous form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), targeting yourself.
+You can spend 4 ki points to cast [[/03_Mechanics/CLI/spells/gaseous-form-xphb|gaseous form]], targeting yourself.
 
 ## Player-Facing Summary
 

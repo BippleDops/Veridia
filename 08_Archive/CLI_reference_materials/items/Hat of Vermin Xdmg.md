@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/hat-of-vermin.webp#right)
 
 
-This hat has 3 charges. While holding the hat, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to expend 1 charge and summon your choice of a [Bat](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md), a [Frog](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md), or a [Rat](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md). The summoned creature magically appears in the hat and tries to get away from you as quickly as possible. The creature is [Indifferent](/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md) toward you and other creatures, and it isn't under your control. It behaves as an ordinary creature of its kind and disappears after 1 hour or when it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). The hat regains all expended charges daily at dawn.
+This hat has 3 charges. While holding the hat, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to expend 1 charge and summon your choice of a [[/03_Mechanics/CLI/bestiary/beast/bat-xmm|Bat]], a [[/03_Mechanics/CLI/bestiary/beast/frog-xmm|Frog]], or a [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|Rat]]. The summoned creature magically appears in the hat and tries to get away from you as quickly as possible. The creature is [[/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb|Indifferent]] toward you and other creatures, and it isn't under your control. It behaves as an ordinary creature of its kind and disappears after 1 hour or when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. The hat regains all expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 267*
 

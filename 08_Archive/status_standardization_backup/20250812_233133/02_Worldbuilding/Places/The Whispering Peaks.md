@@ -376,7 +376,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
 
 <!-- enriched: true -->
 

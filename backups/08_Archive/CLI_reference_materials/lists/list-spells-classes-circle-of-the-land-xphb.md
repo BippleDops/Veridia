@@ -20,45 +20,45 @@ world: Both
 
 ## Cantrip
 
-- [Acid Splash](/03_Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") at class level 3
-- [Fire Bolt](/03_Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") at class level 3
-- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 3
-- [Shocking Grasp](/03_Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/acid-splash-xphb "XPHB"|Acid Splash]] at class level 3
+- [[/03_Mechanics/CLI/spells/fire-bolt-xphb "XPHB"|Fire Bolt]] at class level 3
+- [[/03_Mechanics/CLI/spells/ray-of-frost-xphb "XPHB"|Ray of Frost]] at class level 3
+- [[/03_Mechanics/CLI/spells/shocking-grasp-xphb "XPHB"|Shocking Grasp]] at class level 3
 
 ## 1st Level
 
-- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 3
-- [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") at class level 3
-- [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] at class level 3
+- [[/03_Mechanics/CLI/spells/fog-cloud-xphb "XPHB"|Fog Cloud]] at class level 3
+- [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb "XPHB"|Ray of Sickness]] at class level 3
+- [[/03_Mechanics/CLI/spells/sleep-xphb "XPHB"|Sleep]] at class level 3
 
 ## 2nd Level
 
-- [Blur](/03_Mechanics/CLI/spells/blur-xphb.md "XPHB") at class level 3
-- [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 3
-- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
-- [Web](/03_Mechanics/CLI/spells/web-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/blur-xphb "XPHB"|Blur]] at class level 3
+- [[/03_Mechanics/CLI/spells/hold-person-xphb "XPHB"|Hold Person]] at class level 3
+- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]] at class level 3
+- [[/03_Mechanics/CLI/spells/web-xphb "XPHB"|Web]] at class level 3
 
 ## 3rd Level
 
-- [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 3
-- [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 3
-- [Sleet Storm](/03_Mechanics/CLI/spells/sleet-storm-xphb.md "XPHB") at class level 3
-- [Stinking Cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/fireball-xphb "XPHB"|Fireball]] at class level 3
+- [[/03_Mechanics/CLI/spells/lightning-bolt-xphb "XPHB"|Lightning Bolt]] at class level 3
+- [[/03_Mechanics/CLI/spells/sleet-storm-xphb "XPHB"|Sleet Storm]] at class level 3
+- [[/03_Mechanics/CLI/spells/stinking-cloud-xphb "XPHB"|Stinking Cloud]] at class level 3
 
 ## 4th Level
 
-- [Blight](/03_Mechanics/CLI/spells/blight-xphb.md "XPHB") at class level 3
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 3
-- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 3
-- [Polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/blight-xphb "XPHB"|Blight]] at class level 3
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] at class level 3
+- [[/03_Mechanics/CLI/spells/ice-storm-xphb "XPHB"|Ice Storm]] at class level 3
+- [[/03_Mechanics/CLI/spells/polymorph-xphb "XPHB"|Polymorph]] at class level 3
 
 ## 5th Level
 
-- [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB") at class level 3
-- [Insect Plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md "XPHB") at class level 3
-- [Tree Stride](/03_Mechanics/CLI/spells/tree-stride-xphb.md "XPHB") at class level 3
-- [Wall of Stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/cone-of-cold-xphb "XPHB"|Cone of Cold]] at class level 3
+- [[/03_Mechanics/CLI/spells/insect-plague-xphb "XPHB"|Insect Plague]] at class level 3
+- [[/03_Mechanics/CLI/spells/tree-stride-xphb "XPHB"|Tree Stride]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-stone-xphb "XPHB"|Wall of Stone]] at class level 3
 
 ## Player-Facing Summary
 

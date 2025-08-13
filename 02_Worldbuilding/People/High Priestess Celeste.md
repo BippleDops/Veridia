@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Celeste]]
+- [[02_Worldbuilding/People/High Priestess Celeste|02 Worldbuilding/People/High Priestess Celeste]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

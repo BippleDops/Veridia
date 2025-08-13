@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-whip-xmm-kuo-toa-whip-xmm.svg)
 
-# [Kuo-toa Whip](3-Mechanics\CLI\bestiary\aberration/kuo-toa-whip-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/kuo-toa-whip-xmm|Kuo-toa Whip]]
 *Source: Monster Manual (2024) p. 190*  
 
 The servants of kuo-toa archpriests, kuo-toa whips—so named for their role in enforcing order among other kuo-toa—lead war bands in carrying out the commands of their superiors. In return for their zeal, these kuo-toa are granted minor magical abilities and pincer-like weapons for subduing foes. In battle, whips drive on other kuo-toa with threats of violence and burbling chants.
@@ -111,9 +111,9 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
     "desc": "+3"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
 "languages": "Undercommon"
@@ -121,19 +121,19 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
       \ Staff attacks."
     "name": "Pincer Staff"
   - "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 9 (3d4 + 2) Acid damage."
     "name": "Conjure Slimy Glob"
 "bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](/03_Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+  - "desc": "The kuo-toa casts [[/03_Mechanics/CLI/spells/shield-of-faith-xphb|Shield of Faith]],\
       \ using Wisdom as the spellcasting ability.\n"
     "name": "Shield of Faith (2/Day)"
 "source":

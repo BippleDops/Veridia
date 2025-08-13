@@ -23,7 +23,7 @@ type: NPC
 # Archon Meredith Saltweaver
 
 ## Overview
-Archon Meredith Saltweaver rules [[02_Worldbuilding/Places/New Tethys]] and the [[Tethyan Hegemony]] with an iron fist wrapped in silk. A master politician and powerful hydromancer, she maintains her position through careful manipulation, strategic alliances, and rumored dark pacts. She appears as a regal woman in her 50s, though magic keeps her looking younger. Her skin has a blue-green tint from partial adaptation, and her eyes glow with an unsettling cerulean light.
+Archon Meredith Saltweaver rules [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] and the [[Tethyan Hegemony]] with an iron fist wrapped in silk. A master politician and powerful hydromancer, she maintains her position through careful manipulation, strategic alliances, and rumored dark pacts. She appears as a regal woman in her 50s, though magic keeps her looking younger. Her skin has a blue-green tint from partial adaptation, and her eyes glow with an unsettling cerulean light.
 
 ## Personality
 - **Public Face**: Charismatic, reasonable, concerned for citizens' welfare
@@ -43,13 +43,13 @@ Archon Meredith Saltweaver rules [[02_Worldbuilding/Places/New Tethys]] and the 
 ### Allies
 - [[Banker Titus Goldcurrent]] - Controls her financial networks
 - [[Enforcer Chief Mako Ironjaw]] - Her loyal enforcer
-- [[Ambassador Lysandra Silvertonge]] - Her voice in [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[Ambassador Lysandra Silvertonge]] - Her voice in [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]
 - [[Keeper Elara Mindwell]] - Provides information from the Conservatory
 
 ### Rivals
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Contests her authority
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Ideological opponent
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious influence threatens her
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Contests her authority
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] - Ideological opponent
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious influence threatens her
 
 ### Secret Connections
 - [[The Deepmind Conspiracy]] - Unknowingly serves its will
@@ -57,19 +57,19 @@ Archon Meredith Saltweaver rules [[02_Worldbuilding/Places/New Tethys]] and the 
 - [[Doctor Silas Voidtouch]] - Supplies her with adaptation suppressants
 
 ## History
-Born to merchant family before the drowning's completion, Meredith witnessed the final transformations of the surface world. She maneuvered through the chaos to seize power, supposedly making a deal with something in [[02_Worldbuilding/Places/The Cerulean Trench]] for the strength to rule. Has ruled New Tethys for 47 years.
+Born to merchant family before the drowning's completion, Meredith witnessed the final transformations of the surface world. She maneuvered through the chaos to seize power, supposedly making a deal with something in [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]] for the strength to rule. Has ruled New Tethys for 47 years.
 
 ## Current Activities
 1. Implementing new taxation on depth travelers
 2. Secretly building shelters for "The Emergence"
 3. Investigating the [[Crown Dome Conspiracy]]
-4. Negotiating with [[02_Worldbuilding/Places/The Bathyal Palace]] for greater authority
+4. Negotiating with [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] for greater authority
 5. Experiencing increasingly vivid dreams of the depths
 
 ## Secrets
 > [!warning] DM Only
 > - Already under full control of the Deepmind entity
-> - Has a twin sister hidden in [[02_Worldbuilding/Places/The Primordial Vaults]]
+> - Has a twin sister hidden in [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
 > - Knows the true cause of the drowning
 > - Planning to sacrifice New Tethys to prevent something worse
 > - Her glowing eyes allow the entity to see through her
@@ -82,7 +82,7 @@ Born to merchant family before the drowning's completion, Meredith witnessed the
 
 ## Plot Hooks
 - Hiring adventurers to investigate threats to her rule
-- Seeking artifacts from [[02_Worldbuilding/Places/The Primordial Vaults]]
+- Seeking artifacts from [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
 - Needs deniable assets for operations against rivals
 - Strange behavior suggesting internal struggle
 
@@ -102,8 +102,8 @@ Born to merchant family before the drowning's completion, Meredith witnessed the
 - **Memory Bottle** - Contains her last human memories
 
 ## Locations
-- Primary: [[02_Worldbuilding/Places/New Tethys]] - Crown Dome
-- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - During summits
+- Primary: [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Crown Dome
+- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] - During summits
 - Secret: Hidden sanctum in the Merchant Depths
 
 
@@ -144,7 +144,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]]
 
 <!-- enriched: true -->
 

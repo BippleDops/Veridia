@@ -31,32 +31,32 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 
 ### Major Regions
 
-**[[02_Worldbuilding/Places/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
+**[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
 *Sensory Environment*: A barren landscape where reality itself feels unstable. Air shimmers with uncontrolled magical energy, creating visual distortions and phantom sounds. Temperature fluctuates wildly as crystal formations absorb and release energy unpredictably. The ground crunches underfoot with crystal fragments, while the horizon warps through prismatic effects. Abandoned settlements stand as crystalline monuments to the dangers of uncontrolled growth.
 
-**[[02_Worldbuilding/Places/Lumengarde]]** - Central kingdom, center of crystal technology
+**[[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]]** - Central kingdom, center of crystal technology
 *Sensory Environment*: The heartland of crystal civilization, where controlled magical energy creates an atmosphere of organized power. Cities hum with harmonious crystal resonance, while countryside farming utilizes crystal-enhanced agriculture. The air tastes of progress and innovation, while roads paved with crystal fragments provide natural lighting for night travel. Architecture blends seamlessly with integrated crystal formations.
 
-**[[02_Worldbuilding/Places/The Verdant Reach]]** - Southern forests resisting crystal expansion
+**[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]** - Southern forests resisting crystal expansion
 *Sensory Environment*: Ancient forests where natural magic conflicts with crystal intrusion. Air carries the complex scents of old growth trees, wild flowers, and the ozone of magical resistance. Crystal formations here grow reluctantly, often twisted into organic shapes by the forest's influence. Sounds range from natural forest ambiance to the subtle chiming of crystal-wood hybrid trees. Temperature remains moderated by natural climate systems.
 
-**[[02_Worldbuilding/Places/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
+**[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
 *Sensory Environment*: Majestic mountain peaks where crystal formations grow in their most spectacular forms. Thin air carries the sharp scent of snow and crystal ozone, while echoes multiply through crystal cave systems. Temperature varies dramatically with altitude and crystal activity. Underground crystal formations create natural amphitheaters where sound behaves in impossible ways.
 
-**[[02_Worldbuilding/Places/The Azure Coast]]** - Western trading ports and naval power
+**[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]** - Western trading ports and naval power
 *Sensory Environment*: Where sea meets crystal-enhanced civilization. Salt air mixes with crystal ozone, creating unique atmospheric conditions. Harbor cities showcase the marriage of traditional maritime culture with crystal technology. Ship horns enhanced by crystal resonance can be heard for leagues, while lighthouse crystals provide navigation beacons visible from great distances. Sea spray carries traces of crystal energy from ships.
 
-**[[02_Worldbuilding/Places/The Whispering Expanse]]** - Mysterious desert where crystals sing
+**[[02_Worldbuilding/Places/The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]]** - Mysterious desert where crystals sing
 *Sensory Environment*: A vast desert where crystal formations create natural wind instruments. During the day, heat causes crystal expansion that produces subtle musical tones. Night brings cooling contractions that create entirely different harmonic compositions. Sand carries crystal dust that creates sparkling effects in sunlight and makes walking feel like moving through glitter. Navigation requires following crystal-song patterns rather than traditional landmarks.
 
-**[[02_Worldbuilding/Places/The Shadowmere]]** - Corrupted swamplands in the southeast
+**[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]** - Corrupted swamplands in the southeast
 *Sensory Environment*: A dark region where crystal corruption has created an environment of decay and danger. Air tastes bitter and metallic, while water carries an oily sheen that rejects natural purification. Corrupted crystal formations create unnatural lighting that hurts to look at directly. Sounds become muffled and distorted, while temperature drops unnaturally despite the warm climate. Plants and animals show signs of crystal mutation.
 
 ### Major Cities
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Largest trading hub on the Azure Coast
-- **[[02_Worldbuilding/Places/Ironhold]]** - Dwarven stronghold in the Sundered Peaks
-- **[[02_Worldbuilding/Places/Sylvanheart]]** - Elven sanctuary in the Verdant Reach
+- **[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
+- **[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]** - Largest trading hub on the Azure Coast
+- **[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]** - Dwarven stronghold in the Sundered Peaks
+- **[[02_Worldbuilding/Places/Sylvanheart|02 Worldbuilding/Places/Sylvanheart]]** - Elven sanctuary in the Verdant Reach
 
 ## History
 
@@ -66,26 +66,26 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 When the God-King Aetheron ruled with the Crown of Stars, maintaining perfect order through divine mandate.
 
 #### The Shattering (500 years ago)
-[[02_Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[02_Worldbuilding/Lore/The Shattering of the Crown]].
+[[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[02_Worldbuilding/Lore/The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]].
 
 #### The Crystal Age (Present)
-Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[02_Worldbuilding/Groups/Purist Coalition]], and other factions vying for control.
+Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]], and other factions vying for control.
 
 ## Current Political Landscape
 
 ### Major Powers
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
-- **[[02_Worldbuilding/Groups/The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Control trade routes and crystal commerce
-- **[[02_Worldbuilding/Groups/The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
+- **[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
+- **[[02_Worldbuilding/Groups/The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
+- **[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]** - Control trade routes and crystal commerce
+- **[[02_Worldbuilding/Groups/The Order of the Shattered Crown|02 Worldbuilding/Groups/The Order Of The Shattered Crown]]** - Seeks to reforge the Crown of Stars
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
 
 ### Key Figures
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Leader of the Verdant Accord
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure researching crystal corruption
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Exiled heir plotting return
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
+- **[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]** - Leader of the Verdant Accord
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]** - Mysterious figure researching crystal corruption
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Exiled heir plotting return
 
 ## Magic & Technology
 
@@ -113,16 +113,16 @@ Extended use causes **Aether Sickness**:
 ## Current Events
 
 ### The Crystal Plague
-A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridian]], investigated in [[02_Worldbuilding/Quests/Aquabyssos]].
+A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], investigated in [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 
 ### The Lost Expedition
-[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[02_Worldbuilding/Places/The Crystalline Wastes]].
+[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]].
 
 ### Rising Tensions
-The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civil war. Their leader, [[02_Worldbuilding/People/High Inquisitor Maltheos]], calls for the destruction of all crystals.
+The [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civil war. Their leader, [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]], calls for the destruction of all crystals.
 
 ### The Prophecy
-[[02_Worldbuilding/People/The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
+[[02_Worldbuilding/People/The Oracle of the Sundered Peaks|02 Worldbuilding/People/The Oracle Of The Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
 
 ## Adventure Hooks
 1. Strange crystal formations appearing overnight near villages
@@ -134,10 +134,10 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 ## DM Secrets
 > [!warning] DM Only
 > - The Seven Shards of the Crown are sentient and seeking reunion
-> - [[02_Worldbuilding/People/The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
+> - [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
 > - The crystals are slowly merging the Material Plane with the Astral Sea
-> - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
-> - The [[02_Worldbuilding/Groups/The Whisper Syndicate]] is run by [[02_Worldbuilding/People/Vex Shadowthorn]], who is collecting shards
+> - [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
+> - The [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] is run by [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]], who is collecting shards
 
 ## Random Encounters
 
@@ -147,38 +147,38 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 | 5-8 | [[Crystal Wardens]] patrol checking for corruption |
 | 9-12 | Merchant caravan with crystal goods |
 | 13-15 | Wild magic surge from unstable crystals |
-| 16-17 | [[02_Worldbuilding/Groups/Purist Coalition]] protesters |
+| 16-17 | [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] protesters |
 | 18-19 | Corrupted beast (crystal-infused) |
 | 20 | Mysterious figure offering crystal enhancement |
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Capital city
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Northern wasteland
-- [[02_Worldbuilding/Places/Port Meridian]] - Major trade hub
-- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Southern forests
-- [[02_Worldbuilding/Places/Lumengarde]] - Central kingdom
-- [[02_Worldbuilding/Places/The Shadowmere]] - Corrupted swamplands
-- [[02_Worldbuilding/Places/Ironhold]] - Dwarven stronghold
-- [[02_Worldbuilding/Places/Sylvanheart]] - Elven sanctuary
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Capital city
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Northern wasteland
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Major trade hub
+- [[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]] - Mountain range
+- [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Southern forests
+- [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] - Central kingdom
+- [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]] - Corrupted swamplands
+- [[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]] - Dwarven stronghold
+- [[02_Worldbuilding/Places/Sylvanheart|02 Worldbuilding/Places/Sylvanheart]] - Elven sanctuary
 
 ## See Also
-- [[02_Worldbuilding/Places/The Azure Coast]] - Western coastal region
-- [[02_Worldbuilding/Places/The Whispering Expanse]] - Crystal desert
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - World-changing event
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Historical event
+- [[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] - Western coastal region
+- [[02_Worldbuilding/Places/The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]] - Crystal desert
+- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - World-changing event
+- [[02_Worldbuilding/Lore/The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]] - Historical event
 
 ## Key NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious researcher
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Opposition leader
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Explorer
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Mysterious researcher
+- [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] - Opposition leader
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]] - Explorer
 
 ## Active Quests
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Investigate the corruption spreading
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Search for the lost crown fragment
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Negotiate peace between factions
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Investigate the corruption spreading
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Search for the lost crown fragment
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]] - Negotiate peace between factions
 
 
 ## Connections
@@ -253,12 +253,12 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[Umbral Exchange]]
 - [[United Councils of Both Worlds]]
 - [[Vorthak]]
-- [[Ω_System-CLI-spells-school-abjuration]]
-- [[Ω_System-CLI-spells-school-conjuration]]
-- [[Ω_System-CLI-spells-school-divination]]
-- [[Ω_System-CLI-spells-school-evocation]]
-- [[Ω_System-CLI-spells-school-necromancy]]
-- [[Ω_System-CLI-spells-school-transmutation]]
+- [[Ω_System-CLI-spells-school-abjuration|Ω System CLI Spells School Abjuration]]
+- [[Ω_System-CLI-spells-school-conjuration|Ω System CLI Spells School Conjuration]]
+- [[Ω_System-CLI-spells-school-divination|Ω System CLI Spells School Divination]]
+- [[Ω_System-CLI-spells-school-evocation|Ω System CLI Spells School Evocation]]
+- [[Ω_System-CLI-spells-school-necromancy|Ω System CLI Spells School Necromancy]]
+- [[Ω_System-CLI-spells-school-transmutation|Ω System CLI Spells School Transmutation]]
 - [[Commander Thrace Ironwood]]
 - [[Emperor Thalassius the Wise]]
 - [[Lady Jade Clawgrip]]
@@ -300,7 +300,7 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[Teacher Miranda Hopekeeper]]
 - [[The Crystal Wardens]]
 - [[The Crystalline Foundry]]
-- [[02_Worldbuilding/Lore/pat]]
+- [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]]
 - [[The Free Current]]
 - [[The Gilded Shard]]
 - [[The Neutral Ground]]
@@ -311,16 +311,16 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[Withered Court]]
 - [[Aether Crystals]]
 - [[Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - Hearts and Minds]]
 - [[Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - The Lost Expedition]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Smuggler]]
 - [[Stop the Crystal Festival Ritual]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Whispering Expanse]]
 - [[Traveling Merchant Finn]]
 
@@ -338,7 +338,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 <!-- enriched: true -->
 - [[Aetheric Wind Songs]]

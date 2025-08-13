@@ -25,21 +25,21 @@ danger_level: Moderate
 *Where Death Holds Court and Eternity Begins*
 
 ## Overview
-The Bone Palace serves as the seat of [[02_Worldbuilding/Groups/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
+The Bone Palace serves as the seat of [[02_Worldbuilding/Groups/The Carrion Court|02 Worldbuilding/Groups/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Carrion Court]]** - Primary occupants and ruling undead nobility
+- **[[02_Worldbuilding/Groups/The Carrion Court|02 Worldbuilding/Groups/The Carrion Court]]** - Primary occupants and ruling undead nobility
 - **[[Lich-Queen Morwyn the Deathless]]** - Supreme ruler of the palace
 - **[[Crystal Wardens]]** - Primary opposition seeking to consecrate the palace
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Business partnerships in necromantic trade
-- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Source of corpses and dark materials
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Infiltration target for vampire nobles
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Business partnerships in necromantic trade
+- **[[02_Worldbuilding/Places/The Shadow Markets New|02 Worldbuilding/Places/The Shadow Markets New]]** - Source of corpses and dark materials
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
+- **[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]** - Infiltration target for vampire nobles
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
+- **[[02_Worldbuilding/Places/The Sundered Vaults|02 Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
 
 ## History
 
@@ -90,7 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows|02 Worldbuilding/Places/The Bone Palace Of Sorrows]]
 
 <!-- enriched: true -->
 

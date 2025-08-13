@@ -24,21 +24,21 @@ danger_level: Moderate
 *Where Sea Monsters Sleep and Pirates Rule the Waves*
 
 ## Overview
-The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The Crimson Fleet]], built within the skeletal remains of an ancient kraken in the treacherous waters of [[02_Worldbuilding/Places/The Shattered Isles]]. This massive fortress serves as both shipyard and stronghold, where [[02_Worldbuilding/People/Captain Marrow Drinker]] commands a fleet of corrupted vessels and sea monsters in their campaign against the civilized world.
+The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]], built within the skeletal remains of an ancient kraken in the treacherous waters of [[02_Worldbuilding/Places/The Shattered Isles|02 Worldbuilding/Places/The Shattered Isles]]. This massive fortress serves as both shipyard and stronghold, where [[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]] commands a fleet of corrupted vessels and sea monsters in their campaign against the civilized world.
 
 ## Harbor Structure
 
 ### The Kraken's Skull (Command Center)
-- **Admiral's Quarters**: [[02_Worldbuilding/People/Captain Marrow Drinker]]'s personal chambers
-- **War Room**: Naval strategy planning with [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- **Admiral's Quarters**: [[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]]'s personal chambers
+- **War Room**: Naval strategy planning with [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]
 - **Communication Array**: Crystal-powered long-range messaging
 - **Trophy Hall**: Figureheads and treasures from sunken ships
 
 ### The Ribcage Docks
 - **Main Berths**: 12 major ship berths within kraken's ribs
-- **Repair Yards**: Overseen by [[02_Worldbuilding/People/Master Smith Vulcan Deepforge]]'s naval team
+- **Repair Yards**: Overseen by [[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]'s naval team
 - **Supply Warehouses**: Stolen goods and naval supplies
-- **Armory Decks**: Weapons from [[02_Worldbuilding/Places/The Crimson Foundries]]
+- **Armory Decks**: Weapons from [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]]
 
 ### The Tentacle Towers
 - **Watchtowers**: Eight observation posts on preserved tentacles
@@ -55,9 +55,9 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 ## Naval Assets
 
 ### Fleet Composition
-- **The Bloody Maw** - Flagship commanded by [[02_Worldbuilding/People/Captain Marrow Drinker]]
-- **The Bone Reaper** - Heavy battleship under [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- **The Crimson Tide** - Fast attack vessel led by [[02_Worldbuilding/People/Captain Scale-Walker]]
+- **The Bloody Maw** - Flagship commanded by [[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]]
+- **The Bone Reaper** - Heavy battleship under [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]
+- **The Crimson Tide** - Fast attack vessel led by [[02_Worldbuilding/People/Captain Scale-Walker|02 Worldbuilding/People/Captain Scale Walker]]
 - **The Soul Harvester** - Prisoner transport and torture ship
 - 30+ smaller vessels including frigates, sloops, and captured merchantmen
 
@@ -65,7 +65,7 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 - **Corrupted Krakens**: Three juvenile specimens enhanced with crystals
 - **Shark Swarms**: Hundreds of crystal-maddened predators
 - **Undead Leviathans**: Raised from ocean floor by necromantic rituals
-- **Siren Squadrons**: Led by [[02_Worldbuilding/People/Siren Maeve Echoborn]]
+- **Siren Squadrons**: Led by [[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]
 
 ### Specialized Vessels
 - **Crystal Submarines**: Experimental underwater craft
@@ -76,10 +76,10 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 ## Key Personnel
 
 ### Command Structure
-- **[[02_Worldbuilding/People/Captain Marrow Drinker]]** - Supreme Fleet Admiral
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Naval Operations Commander
-- **[[02_Worldbuilding/People/Captain Scale-Walker]]** - Raiding Operations Leader
-- **[[02_Worldbuilding/People/Siren Maeve Echoborn]]** - Monster Coordination Specialist
+- **[[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]]** - Supreme Fleet Admiral
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Naval Operations Commander
+- **[[02_Worldbuilding/People/Captain Scale-Walker|02 Worldbuilding/People/Captain Scale Walker]]** - Raiding Operations Leader
+- **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Monster Coordination Specialist
 
 ### Support Staff
 - **Navigator Bones McKracken** - Charts treacherous waters
@@ -88,30 +88,30 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 - **Beast Master Tidal** - Trains and commands sea monsters
 
 ### Prisoners & Slaves
-- **Captain [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured naval officer
-- **[[02_Worldbuilding/People/Sage Lysander Deepthought]]** - Forced to research corrupted navigation
+- **Captain [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured naval officer
+- **[[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]]** - Forced to research corrupted navigation
 - **Princess Marina of Coral Bay** - Held for ransom and leverage
 - Hundreds of enslaved sailors and captured civilians
 
 ## Operational Networks
 
 ### Supply Lines
-- Weapons from [[02_Worldbuilding/Places/The Crimson Foundries]]
-- Corrupted crystals via [[02_Worldbuilding/Groups/The Whisper Syndicate]]
-- Supplies raided from [[02_Worldbuilding/Places/Port Meridian]] shipping
-- Intelligence from [[02_Worldbuilding/People/Spymaster Crow]]
+- Weapons from [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]]
+- Corrupted crystals via [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- Supplies raided from [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] shipping
+- Intelligence from [[02_Worldbuilding/People/Spymaster Crow|02 Worldbuilding/People/Spymaster Crow]]
 
 ### Attack Targets
-- Merchant shipping to [[02_Worldbuilding/Places/Crystalhaven]]
-- Naval patrols from [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- Fishing fleets from [[02_Worldbuilding/Places/Nereidios]]
-- Diplomatic vessels traveling to [[02_Worldbuilding/Places/Abyssos Prime]]
+- Merchant shipping to [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
+- Naval patrols from [[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]
+- Fishing fleets from [[02_Worldbuilding/Places/Nereidios|02 Worldbuilding/Places/Nereidios]]
+- Diplomatic vessels traveling to [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 
 ### Allied Operations
-- Coordinates with [[02_Worldbuilding/Groups/Independent Smugglers]] for information
-- Shares prisoners with [[02_Worldbuilding/Places/The Bone Colosseum]]
-- Joint operations with [[02_Worldbuilding/Groups/Purist Coalition]] raiders
-- Crystal research shared with [[02_Worldbuilding/People/Doctor Silas Voidtouch]]
+- Coordinates with [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] for information
+- Shares prisoners with [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
+- Joint operations with [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] raiders
+- Crystal research shared with [[02_Worldbuilding/People/Doctor Silas Voidtouch|02 Worldbuilding/People/Doctor Silas Voidtouch]]
 
 ## Combat Capabilities
 
@@ -138,14 +138,14 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 ### Ancient Mysteries
 > [!warning] DM Only
 > - The kraken isn't dead - it's in magical stasis, slowly healing
-> - [[02_Worldbuilding/People/Captain Marrow Drinker]] has pact with kraken's spirit
-> - Fortress contains portal to underwater realm of [[02_Worldbuilding/Places/Abyssos Prime]]
+> - [[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]] has pact with kraken's spirit
+> - Fortress contains portal to underwater realm of [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 > - One of the Seven Shards powers the kraken's undead state
 
 ### Strategic Intelligence
 > [!warning] DM Only
-> - Plans for massive assault on [[02_Worldbuilding/Places/Crystalhaven]] during Crystal Festival
-> - Secret alliance negotiations with [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+> - Plans for massive assault on [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] during Crystal Festival
+> - Secret alliance negotiations with [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]
 > - Location of sunken treasure fleet worth 100,000 gold
 > - Corruption experiments creating hybrid human-sea creature warriors
 
@@ -173,14 +173,14 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 
 ### Infiltration Missions
 5. **Intelligence Gathering**: Steal invasion plans from war room
-6. **Prisoner Extraction**: Rescue [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+6. **Prisoner Extraction**: Rescue [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]
 7. **Diplomatic Mission**: Negotiate prisoner exchange
-8. **Assassination Attempt**: Eliminate [[02_Worldbuilding/People/Captain Marrow Drinker]]
+8. **Assassination Attempt**: Eliminate [[02_Worldbuilding/People/Captain Marrow Drinker|02 Worldbuilding/People/Captain Marrow Drinker]]
 
 ### Exploration & Discovery
 9. **Ancient Secrets**: Investigate kraken's true nature
 10. **Treasure Hunt**: Find location of sunken fleet
-11. **Portal Investigation**: Discover connection to [[02_Worldbuilding/Places/Abyssos Prime]]
+11. **Portal Investigation**: Discover connection to [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 12. **Corruption Research**: Study crystal enhancement experiments
 
 ## Tactical Considerations
@@ -206,22 +206,22 @@ The Kraken's Harbor is the primary naval base of [[02_Worldbuilding/Groups/The C
 - **Night**: Planning sessions and ritual ceremonies
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Shattered Isles]] - Archipelago location
-- [[02_Worldbuilding/Places/The Crimson Foundries]] - Weapon supplier
-- [[02_Worldbuilding/Places/Port Meridian]] - Primary raiding target
-- [[02_Worldbuilding/Places/Crystalhaven]] - Planned invasion target
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Hidden portal connection
+- [[02_Worldbuilding/Places/The Shattered Isles|02 Worldbuilding/Places/The Shattered Isles]] - Archipelago location
+- [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]] - Weapon supplier
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Primary raiding target
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Planned invasion target
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Hidden portal connection
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Primary occupants
+- [[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]] - Primary occupants
 - [[Crystal Wardens]] - Primary naval opposition
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Supply partner
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Information sources
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Supply partner
+- [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Information sources
 
 ## Current Activities
-- Preparing massive fleet for assault on [[02_Worldbuilding/Places/Crystalhaven]]
+- Preparing massive fleet for assault on [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
 - Experimenting with hybrid sea creature warriors
-- Negotiating secret alliance with [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- Negotiating secret alliance with [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]
 - Building new submarine fleet with crystal propulsion systems
 
 ## Player-Facing Summary
@@ -238,7 +238,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Kraken's Harbor]]
+- [[02_Worldbuilding/Places/The Kraken's Harbor|02 Worldbuilding/Places/The Kraken's Harbor]]
 
 <!-- enriched: true -->
 

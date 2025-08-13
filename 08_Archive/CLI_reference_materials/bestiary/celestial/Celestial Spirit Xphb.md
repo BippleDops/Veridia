@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.813646'
 world: Both
 ---
 
-# [Celestial Spirit](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-xphb.md)
+# [[3-Mechanics\CLI\bestiary\celestial/celestial-spirit-xphb|Celestial Spirit]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -39,7 +39,7 @@ world: Both
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":

@@ -23,12 +23,12 @@ world: Both
 
 | Action | Description |
 |--------|-------------|
-| [Dash](/03_Mechanics/CLI/actions.md#Dash) | "Dispensing with attacks, your foe hurries across the room." |
-| [Disengage](/03_Mechanics/CLI/actions.md#Disengage) | "Careful not to drop its guard, your foe edges away from you." |
-| [Dodge](/03_Mechanics/CLI/actions.md#Dodge) | "Your foe watches you closely and tries to parry your attacks." |
-| [Help](/03_Mechanics/CLI/actions.md#Help) | "While its ally attacks, your foe darts around, causing a distraction." |
-| [Magic](/03_Mechanics/CLI/actions.md#Magic) | "Your foe gestures in a deliberate manner and utters an invocation." |
-| [Ready](/03_Mechanics/CLI/actions.md#Ready) | "Your foe seems to be waiting for something, ready to act." |
+| [[/03_Mechanics/CLI/actions#Dash|Dash]] | "Dispensing with attacks, your foe hurries across the room." |
+| [[/03_Mechanics/CLI/actions#Disengage|Disengage]] | "Careful not to drop its guard, your foe edges away from you." |
+| [[/03_Mechanics/CLI/actions#Dodge|Dodge]] | "Your foe watches you closely and tries to parry your attacks." |
+| [[/03_Mechanics/CLI/actions#Help|Help]] | "While its ally attacks, your foe darts around, causing a distraction." |
+| [[/03_Mechanics/CLI/actions#Magic|Magic]] | "Your foe gestures in a deliberate manner and utters an invocation." |
+| [[/03_Mechanics/CLI/actions#Ready|Ready]] | "Your foe seems to be waiting for something, ready to act." |
 ^describing-actions
 
 ## Player-Facing Summary

@@ -20,7 +20,7 @@ world: Both
 
 ## 5th Level
 
-- [Wall of Stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/wall-of-stone-xphb "XPHB"|Wall of Stone]]
 
 ## Player-Facing Summary
 

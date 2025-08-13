@@ -14,7 +14,7 @@ type: Item
 item_type: Artifact Crafting Tool
 rarity: Legendary
 requires_attunement: Yes (by a creature proficient with smith's tools)
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
 current_location: '[[The Crystalline Foundry]]'
 danger_level: 2
 created_by: Claude
@@ -28,7 +28,7 @@ updated: 2025-08-11
 *Where Seven Shards' Power Meets Master Craftsmanship*
 
 ## Overview
-The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting technology, forged using techniques that harmonize with the power of [[02_Worldbuilding/Lore/The Seven Shards]]. This legendary tool doesn't merely shape metal and crystal—it resonates with the fundamental forces that bind reality together, allowing master craftsmen to create items that bridge the gap between mundane craftsmanship and true magical artistry. The hammer serves as both weapon and tool, capable of building wonders or destroying obstacles with equal ease.
+The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting technology, forged using techniques that harmonize with the power of [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]. This legendary tool doesn't merely shape metal and crystal—it resonates with the fundamental forces that bind reality together, allowing master craftsmen to create items that bridge the gap between mundane craftsmanship and true magical artistry. The hammer serves as both weapon and tool, capable of building wonders or destroying obstacles with equal ease.
 
 ## Physical Description
 ### Appearance
@@ -306,7 +306,7 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 - **Accountability**: Personal responsibility system for all Hammer-crafted items
 
 ## Connected Elements
-- Direct connection to [[02_Worldbuilding/Lore/The Seven Shards]] through resonance technology
+- Direct connection to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] through resonance technology
 - Housed at [[The Crystalline Foundry]], Aethermoor's premier crafting facility
 - Associated with [[Queen Seraphina Lumengarde]] through royal patronage and commissions
 - Linked to [[Crystal Wardens]] through security and protection arrangements
@@ -355,7 +355,7 @@ Legends speak of The Resonance Forge Hammer as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry|02 Worldbuilding/Places/The Crystalline Foundry]]
 
 
 ## Connections

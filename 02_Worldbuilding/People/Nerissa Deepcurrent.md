@@ -39,13 +39,13 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 ## Political Position
 
 ### Allies
-- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
 - **[[Master of Currents Zephyr]]** - Chief advisor, childhood friend
 - **[[The Pearl Guard]]** - Elite protectors
 
 ### Rivals
-- **[[02_Worldbuilding/People/The_Crimson_Pearl]]** - Necessary evil, controls too much trade
-- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
+- **[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]** - Necessary evil, controls too much trade
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
 - **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
 ### Neutral Parties
@@ -61,13 +61,13 @@ Her own visions show two paths:
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]] grows too independent
+- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]] grows too independent
 - [[The Maw of Darkness]] stirs with ancient evil
 - Resources stretched thin across seven depths
 
 ### Surface Relations
 - Trade is necessary but brings contamination
-- [[02_Worldbuilding/People/Gareth_Ironforge]] offers alliance but at what cost?
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] offers alliance but at what cost?
 - Surface nations eye Aquabyssos's resources greedily
 
 ## Powers & Abilities
@@ -106,19 +106,19 @@ She seeks a third option but hasn't found it.
 
 ## Relationships
 
-### [[02_Worldbuilding/Quests/Aquabyssos]]
+### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 "My strong right hand, even when it forms a fist against me."
 - Respects his dedication
 - Frustrated by his rigid thinking
 - Relies on him absolutely for defense
 
-### [[02_Worldbuilding/People/The_Crimson_Pearl]]
+### [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 "A parasite that keeps the body functioning."
 - Knows she's corrupt but needs her network
 - Has evidence of her crimes but can't act
 - Secretly admires her effectiveness
 
-### [[02_Worldbuilding/Quests/Aquabyssos]]
+### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 "She speaks truths I dare not think."
 - Was once her student
 - Sees her younger self in Miralyn
@@ -217,7 +217,7 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Nerissa_Deepcurrent]]
+- [[02_Worldbuilding/People/Nerissa_Deepcurrent|02 Worldbuilding/People/Nerissa Deepcurrent]]
 
 <!-- enriched: true -->
 

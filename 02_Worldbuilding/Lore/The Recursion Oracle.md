@@ -158,7 +158,7 @@ Adjust the Oracle's accessibility and clarity based on campaign needs - more ava
 - [[Thalassius the Wise]]
 - [[Rescue Senator Glaucus]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -176,4 +176,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]

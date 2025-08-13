@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-wavebender-xmm-merfolk-wavebender-xmm.svg)
 
-# [Merfolk Wavebender](3-Mechanics\CLI\bestiary\elemental/merfolk-wavebender-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/merfolk-wavebender-xmm|Merfolk Wavebender]]
 *Source: Monster Manual (2024) p. 209*  
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
@@ -63,7 +63,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
   - "wisdom": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold"
 "senses": "passive Perception 17"
@@ -77,14 +77,14 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 60 ft. Hit:\
       \ 20 (3d10 + 4) Cold damage. If the target is a Large or smaller creature, it\
-      \ has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
+      \ has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
     "name": "Aquatic Burst"
   - "desc": "The merfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md),\
-      \ [Light](/03_Mechanics/CLI/spells/light-xphb.md)\n\n1/day each: [Control\
-      \ Water](/03_Mechanics/CLI/spells/control-water-xphb.md), [Create or Destroy\
-      \ Water](/03_Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/elementalism-xphb|Elementalism]],\
+      \ [[/03_Mechanics/CLI/spells/light-xphb|Light]]\n\n1/day each: [[/03_Mechanics/CLI/spells/control-water-xphb|Control\
+      \ Water]], [[/03_Mechanics/CLI/spells/create-or-destroy-water-xphb|Create or Destroy\
+      \ Water]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: An enemy the merfolk can see enters a space within 5 feet of\

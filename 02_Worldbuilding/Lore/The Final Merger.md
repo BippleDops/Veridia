@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones|02 Worldbuilding/Lore/Merged Reality Zones]]
 
 
 ## Connections

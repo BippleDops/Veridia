@@ -134,7 +134,7 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Investigate the Crystal Plague]]
+- [[02_Worldbuilding/People/Investigate the Crystal Plague|02 Worldbuilding/People/Investigate The Crystal Plague]]
 
 <!-- enriched: true -->
 nriched: true -->

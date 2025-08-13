@@ -62,7 +62,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Shadowmere]]
+- [[02_Worldbuilding/People/Lady Shadowmere|02 Worldbuilding/People/Lady Shadowmere]]
 
 <!-- enriched: true -->
 

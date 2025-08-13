@@ -315,7 +315,7 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens|02 Worldbuilding/People/Crystal Wardens]]
 
 <!-- enriched: true -->
 
@@ -386,4 +386,4 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 - [[Quest - Nature's Balance]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

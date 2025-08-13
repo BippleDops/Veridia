@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/International Void Treaties]]
+- [[02_Worldbuilding/Places/International Void Treaties|02 Worldbuilding/Places/International Void Treaties]]
 
 <!-- enriched: true -->
 

@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
-# [Juvenile Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/juvenile-shadow-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/juvenile-shadow-dragon-xmm|Juvenile Shadow Dragon]]
 *Source: Monster Manual (2024) p. 275*  
 
 ## Shadow Dragons
@@ -72,9 +72,9 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
@@ -82,12 +82,12 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "While in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon\
-      \ has [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to damage\
+  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+      \ or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the dragon\
+      \ has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to damage\
       \ that isn't Force, Psychic, or Radiant."
     "name": "Living Shadow"
-  - "desc": "While in sunlight, the dragon has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the dragon has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -96,17 +96,17 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 7 (1d8 + 3) Slashing damage\
       \ plus 3 (d6) Necrotic damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Dexterity Saving Throw: DC 13, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 17 (5d6) Necrotic damage. Success: Half damage. Failure or Success:\
-      \ A Humanoid reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ by this damage dies, and a [Shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md)\
+      \ A Humanoid reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ by this damage dies, and a [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|Shadow]]\
       \ rises from its corpse. The shadow is under the dragon's control and shares\
-      \ the dragon's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ the dragon's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]]\
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon\
+  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+      \ or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

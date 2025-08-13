@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Harbormaster's Office]]
+- [[02_Worldbuilding/Places/The Harbormaster's Office|02 Worldbuilding/Places/The Harbormaster's Office]]
 
 <!-- enriched: true -->
 

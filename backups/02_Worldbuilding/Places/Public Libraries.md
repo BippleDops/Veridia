@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Public Libraries]]
+- [[02_Worldbuilding/Places/Public Libraries|02 Worldbuilding/Places/Public Libraries]]
 
 <!-- enriched: true -->
 

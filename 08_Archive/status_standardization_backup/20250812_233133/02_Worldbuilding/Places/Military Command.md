@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Military Command]]
+- [[02_Worldbuilding/Lore/Military Command|02 Worldbuilding/Lore/Military Command]]
 
 
 ## Connections

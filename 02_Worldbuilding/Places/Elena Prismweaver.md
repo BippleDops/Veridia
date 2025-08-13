@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Elena Prismweaver]]
+- [[02_Worldbuilding/Places/Elena Prismweaver|02 Worldbuilding/Places/Elena Prismweaver]]
 
 <!-- enriched: true -->
 

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-zombie-xmm-ogre-zombie-xmm.svg)
 
-# [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/ogre-zombie-xmm|Ogre Zombie]]
 *Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
@@ -69,16 +69,16 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+  - "desc": "If damage reduces the zombie to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
       \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ damage is Radiant or from a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]].\
+      \ On a successful save, the zombie drops to 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
       \ instead."
     "name": "Undead Fortitude"
 "actions":

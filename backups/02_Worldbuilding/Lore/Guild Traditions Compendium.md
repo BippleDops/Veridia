@@ -24,7 +24,7 @@ updated: '2025-08-12T00:00:00+00:00'
 
 ## Overview
 
-The Guild Traditions Compendium documents the rich ceremonial and cultural practices that define professional life across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. These traditions encompass the initiation rites, rank symbols, trade secrets, and cultural customs that transform simple professional associations into powerful social institutions. From the underwater workshops of the Deep Crafters to the aerial academies of the Wind Riders, each guild maintains unique traditions that preserve knowledge, ensure quality, and create lasting bonds among practitioners.
+The Guild Traditions Compendium documents the rich ceremonial and cultural practices that define professional life across both [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. These traditions encompass the initiation rites, rank symbols, trade secrets, and cultural customs that transform simple professional associations into powerful social institutions. From the underwater workshops of the Deep Crafters to the aerial academies of the Wind Riders, each guild maintains unique traditions that preserve knowledge, ensure quality, and create lasting bonds among practitioners.
 
 ## Chapter I: Universal Guild Principles and Framework
 
@@ -665,7 +665,7 @@ The Guild Traditions Compendium documents the rich ceremonial and cultural pract
 
 ## Connected NPCs
 - [[Guildmaster Supreme Arcturus Mastery]] - Ultimate authority on guild traditions and professional development
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Expert in cross-guild innovation and technological development
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Expert in cross-guild innovation and technological development
 - [[Guild Ambassador Professional Unity]] - Specialist in inter-guild cooperation and professional diplomacy
 - [[Tradition Keeper Elder Wisdom]] - Guardian of ancient guild knowledge and ceremonial practices
 
@@ -681,10 +681,10 @@ The Guild Traditions Compendium documents the rich ceremonial and cultural pract
 - [[The Guild Innovation Committee]] - Group promoting beneficial changes while preserving traditions
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
-- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs|02 Worldbuilding/Lore/Aethermoor Social Customs]]
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]]
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]]
 
 ## Player-Facing Summary
 

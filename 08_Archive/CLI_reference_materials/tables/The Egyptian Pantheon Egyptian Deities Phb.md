@@ -23,20 +23,20 @@ world: Both
 
 | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
-| [Re-Horakhty](/03_Mechanics/CLI/deities/egyptian-re-horakhty.md), god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
-| [Anubis](/03_Mechanics/CLI/deities/egyptian-anubis.md), god of judgment and death | LN | Death | Black jackal |
-| [Apep](/03_Mechanics/CLI/deities/egyptian-apep.md), god of evil, fire, and serpents | NE | Trickery | Flaming snake |
-| [Bast](/03_Mechanics/CLI/deities/egyptian-bast.md), goddess of cats and vengeance | CG | War | Cat |
-| [Bes](/03_Mechanics/CLI/deities/egyptian-bes.md), god of luck and music | CN | Trickery | Image of the misshapen deity |
-| [Hathor](/03_Mechanics/CLI/deities/egyptian-hathor.md), goddess of love, music, and motherhood | NG | Life, Light | Horned cow's head with lunar disk |
-| [Imhotep](/03_Mechanics/CLI/deities/egyptian-imhotep.md), god of crafts and medicine | NG | Knowledge | Step pyramid |
-| [Isis](/03_Mechanics/CLI/deities/egyptian-isis.md), goddess of fertility and magic | NG | Knowledge, Life | Ankh and star |
-| [Nephthys](/03_Mechanics/CLI/deities/egyptian-nephthys.md), goddess of death and grief | CG | Death | Horns around a lunar disk |
-| [Osiris](/03_Mechanics/CLI/deities/egyptian-osiris.md), god of nature and the underworld | LG | Life, Nature | Crook and flail |
-| [Ptah](/03_Mechanics/CLI/deities/egyptian-ptah.md), god of crafts, knowledge, and secrets | LN | Knowledge | Bull |
-| [Set](/03_Mechanics/CLI/deities/egyptian-set.md), god of darkness and desert storms | CE | Death, Tempest, Trickery | Coiled cobra |
-| [Sobek](/03_Mechanics/CLI/deities/egyptian-sobek.md), god of water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |
-| [Thoth](/03_Mechanics/CLI/deities/egyptian-thoth.md), god of knowledge and wisdom | N | Knowledge | Ibis |
+| [[/03_Mechanics/CLI/deities/egyptian-re-horakhty|Re-Horakhty]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
+| [[/03_Mechanics/CLI/deities/egyptian-anubis|Anubis]], god of judgment and death | LN | Death | Black jackal |
+| [[/03_Mechanics/CLI/deities/egyptian-apep|Apep]], god of evil, fire, and serpents | NE | Trickery | Flaming snake |
+| [[/03_Mechanics/CLI/deities/egyptian-bast|Bast]], goddess of cats and vengeance | CG | War | Cat |
+| [[/03_Mechanics/CLI/deities/egyptian-bes|Bes]], god of luck and music | CN | Trickery | Image of the misshapen deity |
+| [[/03_Mechanics/CLI/deities/egyptian-hathor|Hathor]], goddess of love, music, and motherhood | NG | Life, Light | Horned cow's head with lunar disk |
+| [[/03_Mechanics/CLI/deities/egyptian-imhotep|Imhotep]], god of crafts and medicine | NG | Knowledge | Step pyramid |
+| [[/03_Mechanics/CLI/deities/egyptian-isis|Isis]], goddess of fertility and magic | NG | Knowledge, Life | Ankh and star |
+| [[/03_Mechanics/CLI/deities/egyptian-nephthys|Nephthys]], goddess of death and grief | CG | Death | Horns around a lunar disk |
+| [[/03_Mechanics/CLI/deities/egyptian-osiris|Osiris]], god of nature and the underworld | LG | Life, Nature | Crook and flail |
+| [[/03_Mechanics/CLI/deities/egyptian-ptah|Ptah]], god of crafts, knowledge, and secrets | LN | Knowledge | Bull |
+| [[/03_Mechanics/CLI/deities/egyptian-set|Set]], god of darkness and desert storms | CE | Death, Tempest, Trickery | Coiled cobra |
+| [[/03_Mechanics/CLI/deities/egyptian-sobek|Sobek]], god of water and crocodiles | LE | Nature, Tempest | Crocodile head with horns and plumes |
+| [[/03_Mechanics/CLI/deities/egyptian-thoth|Thoth]], god of knowledge and wisdom | N | Knowledge | Ibis |
 ^egyptian-deities
 
 ## Player-Facing Summary

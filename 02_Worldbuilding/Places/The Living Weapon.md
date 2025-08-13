@@ -501,7 +501,7 @@ Evidence emerges that The Living Weapon may be connected to or responsible for m
 ### Associated Organizations
 - [[Depth Wardens]] - Military force responsible for national defense
 - [[Royal Intelligence Service]] - Intelligence agency monitoring security
-- [[02_Worldbuilding/Groups/Academy of War Science]] - Research institution studying military artifacts
+- [[02_Worldbuilding/Groups/Academy of War Science|02 Worldbuilding/Groups/Academy Of War Science]] - Research institution studying military artifacts
 - [[The Order of the Shattered Crown]] - Group potentially interested in weapon's power
 
 ### Key Figures
@@ -563,7 +563,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Living Weapon|02 Worldbuilding/Places/The Living Weapon]]
 
 <!-- enriched: true -->
 - [[Depth Wardens]]

@@ -22,7 +22,7 @@ updated: '2025-08-12T23:37:35.084772'
 world: Both
 ---
 
-# [Stone Giant](3-Mechanics\CLI\bestiary\giant/stone-giant-xmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/stone-giant-xmm|Stone Giant]]
 *Source: Monster Manual (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Stone Giant
@@ -60,11 +60,11 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
     "desc": "+12"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
@@ -76,7 +76,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
       \ damage."
     "name": "Stone Club"
   - "desc": "Ranged Attack Roll: +9, range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Boulder"
 "reactions":

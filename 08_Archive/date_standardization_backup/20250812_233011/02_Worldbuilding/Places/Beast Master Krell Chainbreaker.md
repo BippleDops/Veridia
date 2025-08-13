@@ -146,6 +146,6 @@ Legends speak of Beast Master Krell Chainbreaker as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
+- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker|02 Worldbuilding/Places/Beast Master Krell Chainbreaker]]
 
 <!-- enriched: true -->

@@ -34,7 +34,7 @@ accessibility:
 
 # The Verdant Accord
 
-![The Verdant Accord Portrait](04_Resources/Assets/Art/NPCs/The_Verdant_Accord.png)
+![[04_Resources/Assets/Art/NPCs/The_Verdant_Accord.png|The Verdant Accord Portrait]]
 
 ## Role and Motive
 The Verdant Accord moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

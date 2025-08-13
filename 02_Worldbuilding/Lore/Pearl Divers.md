@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/The Original Palace|02 Worldbuilding/Places/The Original Palace]]
 
 
 ## Connections

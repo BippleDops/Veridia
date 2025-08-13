@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
 
-# [Undead Spirit (Ghostly)](3-Mechanics\CLI\bestiary\undead/undead-spirit-ghostly-xphb.md)
+# [[3-Mechanics\CLI\bestiary\undead/undead-spirit-ghostly-xphb|Undead Spirit (Ghostly)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
   - !!int "9"
 "speed": "30 ft., fly 40 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "traits":
@@ -59,7 +59,7 @@ world: Both
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has\
-      \ the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until\
+      \ the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition until\
       \ the end of its next turn."
     "name": "Deathly Touch"
 "source":

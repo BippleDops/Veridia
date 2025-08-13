@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual|02 Worldbuilding/Quests/Stop The Crystal Festival Ritual]]
 
 
 ## Connections

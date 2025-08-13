@@ -23,14 +23,14 @@ world: Both
 
 | Potion of... | Cost |
 |--------------|------|
-| [Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) | 50 gp |
-| [Climbing](/03_Mechanics/CLI/items/potion-of-climbing-xdmg.md) | 75 gp |
-| [Animal friendship](/03_Mechanics/CLI/items/potion-of-animal-friendship-xdmg.md) | 100 gp |
-| [Greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) | 100 gp |
-| [Water breathing](/03_Mechanics/CLI/items/potion-of-water-breathing-xdmg.md) | 100 gp |
-| [Superior healing](/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) | 500 gp |
-| [Supreme healing](/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) | 5,000 gp |
-| [Invisibility](/03_Mechanics/CLI/items/potion-of-invisibility-xdmg.md) | 5,000 gp |
+| [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Healing]] | 50 gp |
+| [[/03_Mechanics/CLI/items/potion-of-climbing-xdmg|Climbing]] | 75 gp |
+| [[/03_Mechanics/CLI/items/potion-of-animal-friendship-xdmg|Animal friendship]] | 100 gp |
+| [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|Greater healing]] | 100 gp |
+| [[/03_Mechanics/CLI/items/potion-of-water-breathing-xdmg|Water breathing]] | 100 gp |
+| [[/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg|Superior healing]] | 500 gp |
+| [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Supreme healing]] | 5,000 gp |
+| [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|Invisibility]] | 5,000 gp |
 ^potions-for-sale
 
 ## Player-Facing Summary

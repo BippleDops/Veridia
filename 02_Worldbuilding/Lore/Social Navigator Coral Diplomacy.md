@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Reputation System|02 Worldbuilding/Lore/Reputation System]]
 
 
 ## Connections

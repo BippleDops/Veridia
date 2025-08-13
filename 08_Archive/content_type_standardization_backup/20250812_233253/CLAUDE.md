@@ -77,17 +77,17 @@ When developing content:
 
 ## Quick Command Reference
 ```bash
-# Generate new assets
+## Generate new assets
 node scripts/generate_assets.js --limit=50 --types=portrait,location
 
-# Link and organize content  
+## Link and organize content
 node scripts/link_assets.js
 
-# Validate vault integrity
+## Validate vault integrity
 DRY_RUN=1 python3 scripts/redlink_resolver.py
 DRY_RUN=1 python3 scripts/metadata_linter.py
 
-# Apply all fixes with backup
+## Apply all fixes with backup
 BACKUP_DIR=backups/$(date +%F) scripts/safe_apply.sh
 ```
 

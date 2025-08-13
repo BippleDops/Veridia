@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Commander Reef Shadowstrike]]
+- [[02_Worldbuilding/Places/Commander Reef Shadowstrike|02 Worldbuilding/Places/Commander Reef Shadowstrike]]
 
 <!-- enriched: true -->
 

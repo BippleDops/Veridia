@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-drow-spore-servant-oota-drow-spore-servant-oota.svg)
 
-# [Drow Spore Servant](3-Mechanics\CLI\bestiary\plant/drow-spore-servant-oota.md)
+# [[3-Mechanics\CLI\bestiary\plant/drow-spore-servant-oota|Drow Spore Servant]]
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -33,7 +33,7 @@ world: Both
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/03_Mechanics/CLI/items/chain-shirt-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/chain-shirt-xphb|chain shirt]]"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -45,8 +45,8 @@ world: Both
   - !!int "6"
   - !!int "1"
 "speed": "20 ft."
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/8"

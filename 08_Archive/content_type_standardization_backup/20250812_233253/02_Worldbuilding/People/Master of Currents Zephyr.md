@@ -19,12 +19,12 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Compass Quest]]
+- [[02_Worldbuilding/Places/Compass Quest|02 Worldbuilding/Places/Compass Quest]]
 
 
 ## Connections
 
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 
 ## Player-Facing Summary
 

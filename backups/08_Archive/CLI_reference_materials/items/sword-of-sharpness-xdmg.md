@@ -29,7 +29,7 @@ world: Both
 
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.
 
-When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) level.
+When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] level.
 
 **Variants**:
 - [Glaive of Sharpness](#Glaive%20of%20Sharpness)
@@ -37,16 +37,16 @@ When you attack a creature with this weapon and roll a 20 on the `d20` for the a
 - [Longsword of Sharpness](#Longsword%20of%20Sharpness)
 - [Scimitar of Sharpness](#Scimitar%20of%20Sharpness)
 
-### Glaive of Sharpness
+## Glaive of Sharpness
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Sharpness
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Sharpness
@@ -54,13 +54,13 @@ When you attack a creature with this weapon and roll a 20 on the `d20` for the a
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Sharpness
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 

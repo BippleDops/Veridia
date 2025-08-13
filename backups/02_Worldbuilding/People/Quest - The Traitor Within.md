@@ -171,6 +171,6 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Traitor Within]]
+- [[02_Worldbuilding/People/Quest - The Traitor Within|02 Worldbuilding/People/Quest The Traitor Within]]
 
 <!-- enriched: true -->

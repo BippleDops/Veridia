@@ -30,7 +30,7 @@ world: Aethermoor
 
 # Sage Lyralei Starweaver
 
-![Sage Lyralei Starweaver Portrait](04_Resources/Assets/Art/Places/Sage_Lyralei_Starweaver.png)
+![[04_Resources/Assets/Art/Places/Sage_Lyralei_Starweaver.png|Sage Lyralei Starweaver Portrait]]
 
 ## Overview
 Sage Lyralei Starweaver is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.

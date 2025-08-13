@@ -30,11 +30,11 @@ world: Both
 - **Components:** V, S, M (a shard of blue glass)
 - **Duration:** 1 hour
 
-Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md). If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
+Protective magical frost surrounds you. You gain 5 [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]].
 
-**Using a Higher-Level Spell Slot.** The [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) and the Cold damage both increase by 5 for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Conquest)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]
 
 *Source: Player's Handbook (2024) p. 243*
 

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/Aether Crystals|02 Worldbuilding/Items/Aether Crystals]]
 
 
 ## Connections

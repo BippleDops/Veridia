@@ -32,7 +32,7 @@ accessibility:
 
 # Quest - Nature
 
-![Quest - Nature Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Nature.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_Nature.png|Quest - Nature Portrait]]
 
 ## Role and Motive
 Quest - Nature moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

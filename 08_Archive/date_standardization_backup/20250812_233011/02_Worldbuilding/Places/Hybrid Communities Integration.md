@@ -304,6 +304,6 @@ Legends speak of Hybrid Communities Integration as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
+- [[02_Worldbuilding/Places/Hybrid Communities Integration|02 Worldbuilding/Places/Hybrid Communities Integration]]
 
 <!-- enriched: true -->

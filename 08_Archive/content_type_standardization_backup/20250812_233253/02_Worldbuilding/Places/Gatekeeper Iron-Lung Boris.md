@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 
 
 ## Connections

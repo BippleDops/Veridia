@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-basilisk-xmm-basilisk-xmm.svg)
 
-# [Basilisk](3-Mechanics\CLI\bestiary\monstrosity/basilisk-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/basilisk-xmm|Basilisk]]
 *Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Basilisk
@@ -38,7 +38,7 @@ world: Both
 
 Basilisks are ponderous predators with eight clawed legs, crystalline spines, and mighty jaws. Rather than chasing prey, they use their supernatural gaze to turn creatures to stone and then consume these victims at their leisure. While basilisks are most comfortable in subterranean lairs, many are captured and kept by unscrupulous folk seeking guardians for their treasures.
 
-The remains of [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
+The remains of [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
 > 
@@ -85,13 +85,13 @@ The remains of [Petrified](/03_Mechanics/CLI/conditions.md#Petrified) creatures 
       \ plus 7 (2d6) Poison damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the basilisk sees its reflection within the [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md),\
-      \ the basilisk must make this save. 1st Failure: The target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ If the basilisk sees its reflection within the [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]],\
+      \ the basilisk must make this save. 1st Failure: The target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](/03_Mechanics/CLI/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. 2nd Failure: The target has the [Petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ [[/03_Mechanics/CLI/conditions#Restrained|Restrained]], ending the effect\
+      \ on itself on a success. 2nd Failure: The target has the [[/03_Mechanics/CLI/conditions#Petrified|Petrified]]\
+      \ condition instead of the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Petrifying Gaze (Recharge 4-6)"
 "source":

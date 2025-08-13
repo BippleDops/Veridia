@@ -23,7 +23,7 @@ type: NPC
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters*
 
 ## Overview
-Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors.
+Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors.
 
 ## Appearance
 - **Build**: Tall and imposing at 5'10", athletic and scarred from battle
@@ -66,7 +66,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 
 ### Royal Military Command Structure
 
-#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Beloved Sovereign**
+#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - The Beloved Sovereign**
 
 **Historical Development**:
 - **Military Training Period**: Served as Seraphina's naval tactics instructor during her princess education, developing deep professional respect
@@ -89,7 +89,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - **The Medical Mysteries**: Official explanations for Queen's health issues don't match Cassandra's military medical experience
 - **The Loyalty Conflict**: Growing awareness that absolute loyalty to the Crown might conflict with protection of the realm
 
-#### **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Army Counterpart**
+#### **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Army Counterpart**
 
 **Historical Development**:
 - **Military Academy**: Both graduated from royal military academy in the same year, creating professional bond
@@ -145,7 +145,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 
 ### External Military Relations
 
-#### **[[02_Worldbuilding/People/Captain Lyanna Brightshield]] - City Guard Coordination**
+#### **[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] - City Guard Coordination**
 
 **Historical Development**:
 - **Joint Training**: Both trained in advanced combat techniques at royal military academy
@@ -158,7 +158,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - **Criminal Pursuit**: Coordinate pursuit of criminals moving between land and sea
 - **Emergency Response**: Joint protocols for crisis situations affecting both domains
 
-#### **[[02_Worldbuilding/Groups/Crystal Wardens]] - Elite Military Cooperation**
+#### **[[02_Worldbuilding/Groups/Crystal Wardens|02 Worldbuilding/Groups/Crystal Wardens]] - Elite Military Cooperation**
 
 **Institutional Relationship**:
 - **Anti-Corruption Operations**: Joint missions against crystal corruption smuggling
@@ -168,7 +168,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 
 ### Enemy and Opposition Networks
 
-#### **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - The Nemesis**
+#### **[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]] - The Nemesis**
 
 **Historical Conflict**:
 - **First Encounter**: Initial battle resulted in tactical draw but established mutual recognition as worthy opponents
@@ -182,7 +182,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - **Resource Drain**: Pursuit of Blackwater diverts significant naval resources from other operations
 - **Political Pressure**: Cassandra's obsession with Blackwater sometimes conflicts with broader naval strategic needs
 
-#### **[[02_Worldbuilding/Groups/The Crimson Fleet]] - Organized Criminal Opposition**
+#### **[[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]] - Organized Criminal Opposition**
 
 **Institutional Warfare**:
 - **Strategic Campaigns**: Long-term operations to dismantle pirate confederation
@@ -192,7 +192,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 
 ### Complex Political Relationships
 
-#### **[[02_Worldbuilding/Groups/Merchant Princes]] - The Tension Alliance**
+#### **[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - The Tension Alliance**
 
 **Historical Development**:
 - **Early Cooperation**: Initially strong partnership between naval protection and merchant trade
@@ -206,7 +206,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - **Smuggling Suspicions**: Cassandra suspects some Merchant Princes enable illegal activities
 - **Authority Challenges**: Merchant wealth creates political pressure that limits naval authority
 
-#### **[[02_Worldbuilding/People/Vex Shadowthorn]] - The Suspected Criminal**
+#### **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - The Suspected Criminal**
 
 **Intelligence Surveillance**:
 - **Suspicion Without Proof**: Naval intelligence suggests Shadowthorn's criminal involvement but lacks concrete evidence
@@ -244,7 +244,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - Coordinating naval defense against increasing pirate activity
 - Investigating crystal smuggling operations along the coast
 - Training new officers to replace losses from corruption-related incidents
-- Working with [[02_Worldbuilding/Groups/The Crown Authority]] on port security
+- Working with [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] on port security
 - Growing suspicious of certain royal advisors' behavior
 
 ## Motivations
@@ -297,19 +297,19 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - Her absolute loyalty makes her both asset and potential threat to corrupted nobles
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Beloved sovereign
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military peer
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Pirate nemesis
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Beloved sovereign
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military peer
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]] - Pirate nemesis
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Primary naval base
-- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Operational headquarters
-- [[02_Worldbuilding/Places/The Crown Authority]] - Receives orders from
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Primary naval base
+- [[02_Worldbuilding/Places/Port Meridian Harbor|02 Worldbuilding/Places/Port Meridian Harbor]] - Operational headquarters
+- [[02_Worldbuilding/Places/The Crown Authority|02 Worldbuilding/Places/The Crown Authority]] - Receives orders from
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]] - Naval intelligence gathering
-- [[02_Worldbuilding/Quests/Quest - The Crown Reborn]] - Military support for succession
-- [[02_Worldbuilding/Quests/Economic Warfare]] - Protecting trade routes
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]] - Naval intelligence gathering
+- [[02_Worldbuilding/Quests/Quest - The Crown Reborn|02 Worldbuilding/Quests/Quest The Crown Reborn]] - Military support for succession
+- [[02_Worldbuilding/Quests/Economic Warfare|02 Worldbuilding/Quests/Economic Warfare]] - Protecting trade routes
 
 
 ## Connections
@@ -322,8 +322,8 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - [[Lord Commander Gareth Steelborn]]
 - [[Vex Shadowthorn]]
 - [[Port Meridian]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -341,6 +341,6 @@ Legends speak of Admiral Cassandra Stormwind as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]
 
 <!-- enriched: true -->

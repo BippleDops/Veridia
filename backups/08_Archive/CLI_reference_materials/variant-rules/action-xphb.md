@@ -21,18 +21,18 @@ world: Both
 
 On your turn, you can take one action. Choose which action to take from those below or from the special actions provided by your features. These actions are defined elsewhere in this glossary:
 
-- [Attack](/03_Mechanics/CLI/actions.md#Attack)  
-- [Dodge](/03_Mechanics/CLI/actions.md#Dodge)  
-- [Dash](/03_Mechanics/CLI/actions.md#Dash)  
-- [Help](/03_Mechanics/CLI/actions.md#Help)  
-- [Disengage](/03_Mechanics/CLI/actions.md#Disengage)  
-- [Hide](/03_Mechanics/CLI/actions.md#Hide)  
-- [Influence](/03_Mechanics/CLI/actions.md#Influence)  
-- [Magic](/03_Mechanics/CLI/actions.md#Magic)  
-- [Ready](/03_Mechanics/CLI/actions.md#Ready)  
-- [Search](/03_Mechanics/CLI/actions.md#Search)  
-- [Study](/03_Mechanics/CLI/actions.md#Study)  
-- [Utilize](/03_Mechanics/CLI/actions.md#Utilize)
+- [[/03_Mechanics/CLI/actions#Attack|Attack]]  
+- [[/03_Mechanics/CLI/actions#Dodge|Dodge]]  
+- [[/03_Mechanics/CLI/actions#Dash|Dash]]  
+- [[/03_Mechanics/CLI/actions#Help|Help]]  
+- [[/03_Mechanics/CLI/actions#Disengage|Disengage]]  
+- [[/03_Mechanics/CLI/actions#Hide|Hide]]  
+- [[/03_Mechanics/CLI/actions#Influence|Influence]]  
+- [[/03_Mechanics/CLI/actions#Magic|Magic]]  
+- [[/03_Mechanics/CLI/actions#Ready|Ready]]  
+- [[/03_Mechanics/CLI/actions#Search|Search]]  
+- [[/03_Mechanics/CLI/actions#Study|Study]]  
+- [[/03_Mechanics/CLI/actions#Utilize|Utilize]]
 
 ## Player-Facing Summary
 

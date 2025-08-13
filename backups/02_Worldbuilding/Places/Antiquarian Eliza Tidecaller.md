@@ -430,7 +430,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
+- [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller|02 Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
 
 <!-- enriched: true -->
 riched: true -->

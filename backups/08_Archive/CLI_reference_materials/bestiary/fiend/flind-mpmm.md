@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
 
-# [Flind](3-Mechanics\CLI\bestiary\fiend/flind-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/flind-mpmm|Flind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -44,7 +44,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/03_Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/breastplate-xphb|breastplate]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -60,15 +60,15 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"
 "traits":
-  - "desc": "If the flind isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated),\
+  - "desc": "If the flind isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]],\
       \ any creature with the Rampage trait can make a Bite attack as a bonus action\
       \ while within 10 feet of the flind."
     "name": "Aura of Blood Thirst"
@@ -88,7 +88,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
     "name": "Flail of Pain"
   - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
-      \ saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) until\
+      \ saving throw or be [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] until\
       \ the end of its next turn."
     "name": "Flail of Paralysis"
   - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\

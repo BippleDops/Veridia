@@ -24,7 +24,7 @@ accessibility:
 
 # Race Against the Festival
 
-![Race Against the Festival Portrait](04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png)
+![[04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png|Race Against the Festival Portrait]]
 
 ## Summary
 Race Against the Festival describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

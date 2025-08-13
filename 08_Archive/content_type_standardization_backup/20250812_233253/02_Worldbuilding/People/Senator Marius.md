@@ -115,7 +115,7 @@ Marcus represents idealistic reform in a corrupt system, serving as a potential 
 
 ## Connections
 
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
 
 
 ## Appearance
@@ -155,7 +155,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Senator Marius|02 Worldbuilding/People/Senator Marius]]
 
 <!-- enriched: true -->
 - [[Emperor Thalassius the Wise]]

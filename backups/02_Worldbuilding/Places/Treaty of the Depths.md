@@ -325,7 +325,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Treaty of the Depths]]
+- [[02_Worldbuilding/Places/Treaty of the Depths|02 Worldbuilding/Places/Treaty Of The Depths]]
 
 <!-- enriched: true -->
 - [[United Councils of Both Worlds]]

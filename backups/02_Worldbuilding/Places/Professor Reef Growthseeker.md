@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Professor Reef Growthseeker]]
+- [[02_Worldbuilding/Places/Professor Reef Growthseeker|02 Worldbuilding/Places/Professor Reef Growthseeker]]
 
 <!-- enriched: true -->
 

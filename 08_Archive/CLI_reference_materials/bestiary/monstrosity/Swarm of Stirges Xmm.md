@@ -28,7 +28,7 @@ updated: '2025-08-12T23:37:34.966026'
 world: Both
 ---
 
-# [Swarm of Stirges](3-Mechanics\CLI\bestiary\monstrosity/swarm-of-stirges-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/swarm-of-stirges-xmm|Swarm of Stirges]]
 *Source: Monster Manual (2024) p. 299*  
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
@@ -72,24 +72,24 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ or gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage,\
-      \ or 8 (1d10 + 3) Piercing damage if the swarm is [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md).\
+      \ or 8 (1d10 + 3) Piercing damage if the swarm is [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]].\
       \ If the target is a Medium or smaller creature in the swarm's space, the target\
-      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
       \ DC 13). Until the grapple ends, the target takes 7 (2d6) Necrotic damage at\
       \ the end of each of its turns."
     "name": "Swarm of Proboscises"

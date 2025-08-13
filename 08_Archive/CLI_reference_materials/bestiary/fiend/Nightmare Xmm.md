@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nightmare-xmm-nightmare-xmm.png)
 
-# [Nightmare](3-Mechanics\CLI\bestiary\fiend/nightmare-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/nightmare-xmm|Nightmare]]
 *Source: Monster Manual (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Nightmare
@@ -76,11 +76,11 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md)\
+  - "desc": "The nightmare can grant [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]]\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
-  - "desc": "The nightmare sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The nightmare sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

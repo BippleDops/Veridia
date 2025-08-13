@@ -25,15 +25,15 @@ objectives:
 obsidianUIMode: preview
 prerequisite_quests: []
 priority: high
-quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge]]'
+quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
 quest_image: 04_Resources/Assets/quests/missing-caravan.png
 quest_start: 2025-08-01
 related_locations:
-- '[[02_Worldbuilding/Places/Market_District]]'
+- '[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]'
 - '[[Tradeway Road]]'
 - '[[Ambush Point]]'
 related_npcs:
-- '[[02_Worldbuilding/People/Gareth_Ironforge]]'
+- '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
 - '[[Caravan Master Dolrim]]'
 - '[[Bandit Leader Scarface]]'
 reward: 500gp + Masterwork weapon
@@ -57,8 +57,8 @@ world: Both
 Gareth Ironforge's monthly shipment of rare star-iron ore has gone missing along the Tradeway Road. The caravan was due three days ago, and he fears the worst. Without this ore, he cannot complete the town guard's weapon order.
 
 ## Quest Giver
-**NPC:** [[02_Worldbuilding/People/Gareth_Ironforge]]
-**Location:** [[02_Worldbuilding/Places/Market_District]] - Ironforge Smithy
+**NPC:** [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]
+**Location:** [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Ironforge Smithy
 **Motivation:** Needs the ore for important commissions and maintaining reputation
 
 ## Objectives
@@ -78,11 +78,11 @@ None - This is an introductory quest
 
 ### Secondary
 - [[Bandit Camp]] - Hidden in the forest
-- [[02_Worldbuilding/Places/Market_District]] - Quest start/end point
+- [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Quest start/end point
 
 ## NPCs Involved
 ### Allies
-- [[02_Worldbuilding/People/Gareth_Ironforge]] - Quest giver
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Quest giver
 - [[Caravan Master Dolrim]] - Missing, possibly captured
 
 ### Enemies

@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
+- [[02_Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent|02 Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
 
 <!-- enriched: true -->
 

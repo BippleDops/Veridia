@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]
+- [[02_Worldbuilding/Places/Brother Thaddeus the Rememberer|02 Worldbuilding/Places/Brother Thaddeus The Rememberer]]
 
 <!-- enriched: true -->
 

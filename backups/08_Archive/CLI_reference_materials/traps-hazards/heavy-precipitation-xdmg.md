@@ -20,7 +20,7 @@ world: Both
 # Heavy Precipitation
 *Environmental Hazard*  
 
-Everything within an area of heavy rain or heavy snowfall is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md), and creatures in the area have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on all Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks. Heavy rain also extinguishes open flames.
+Everything within an area of heavy rain or heavy snowfall is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]], and creatures in the area have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on all Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks. Heavy rain also extinguishes open flames.
 
 *Source: Dungeon Master's Guide (2024) p. 69*
 

@@ -22,7 +22,7 @@ Use with core systems and vehicle rules. This pack complements [[06_GM_Resources
 
 ---
 
-### D-101: Abyssal Thermocline Knife
+## D-101: Abyssal Thermocline Knife
 - Zone: Abyss • Category: Environment
 - Trigger: Razor-thin temperature cliff shears hull wakes.
 - Checks: Helm DC 17 thread seam; Engineer DC 16 to trim ballast.

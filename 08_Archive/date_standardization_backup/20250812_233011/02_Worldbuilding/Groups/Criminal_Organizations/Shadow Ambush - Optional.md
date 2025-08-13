@@ -35,7 +35,7 @@ updated: '2025-08-13T01:18:36.741599+00:00'
 *The Tidal Strikers, Masters of Battlefield Surprise, Those Who Strike from Darkness*
 
 ## Overview
-Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbuilding/Places/Aquabyssos]] armed forces, specializing in ambush tactics, guerrilla warfare, and surgical strikes against high-value targets. Unlike traditional military formations that rely on direct confrontation, SAO operates using stealth, misdirection, and precisely timed assaults to achieve maximum impact with minimal casualties. Their name reflects their philosophy: every engagement should offer the enemy a way out ("optional" escape), but those who choose to fight face devastating tactical superiority. They serve as the realm's premier special operations force for situations requiring finesse over brute force.
+Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] armed forces, specializing in ambush tactics, guerrilla warfare, and surgical strikes against high-value targets. Unlike traditional military formations that rely on direct confrontation, SAO operates using stealth, misdirection, and precisely timed assaults to achieve maximum impact with minimal casualties. Their name reflects their philosophy: every engagement should offer the enemy a way out ("optional" escape), but those who choose to fight face devastating tactical superiority. They serve as the realm's premier special operations force for situations requiring finesse over brute force.
 
 ## Origins & History
 
@@ -163,11 +163,11 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 
 #### Environmental Advantage
 **Terrain Utilization**
-- **[[02_Worldbuilding/Tactics/Underwater Concealment]]**: Using water depth and pressure for stealth
-- **[[02_Worldbuilding/Tactics/Current Manipulation]]**: Controlling water flow for tactical advantage
-- **[[02_Worldbuilding/Tactics/Pressure Differential]]**: Exploiting depth changes for surprise attacks
-- **[[02_Worldbuilding/Tactics/Thermal Layer Usage]]**: Using temperature variations for concealment
-- **[[02_Worldbuilding/Tactics/Acoustic Masking]]**: Sound manipulation for stealth movement
+- **[[02_Worldbuilding/Tactics/Underwater Concealment|02 Worldbuilding/Tactics/Underwater Concealment]]**: Using water depth and pressure for stealth
+- **[[02_Worldbuilding/Tactics/Current Manipulation|02 Worldbuilding/Tactics/Current Manipulation]]**: Controlling water flow for tactical advantage
+- **[[02_Worldbuilding/Tactics/Pressure Differential|02 Worldbuilding/Tactics/Pressure Differential]]**: Exploiting depth changes for surprise attacks
+- **[[02_Worldbuilding/Tactics/Thermal Layer Usage|02 Worldbuilding/Tactics/Thermal Layer Usage]]**: Using temperature variations for concealment
+- **[[02_Worldbuilding/Tactics/Acoustic Masking|02 Worldbuilding/Tactics/Acoustic Masking]]**: Sound manipulation for stealth movement
 
 ### Specialized Techniques
 
@@ -295,18 +295,18 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 - **Research Laboratories**: Development facilities for tactical innovation (2 labs)
 
 ### Tactical Equipment
-- **[[02_Worldbuilding/Equipment/Stealth Mobility Systems]]**: Advanced concealment and movement technology
-- **[[02_Worldbuilding/Equipment/Precision Weapons Array]]**: Specialized firearms and targeting systems
-- **[[02_Worldbuilding/Equipment/Underwater Combat Gear]]**: Equipment for aquatic operations
-- **[[02_Worldbuilding/Equipment/Communication Networks]]**: Secure battlefield communication systems
-- **[[02_Worldbuilding/Equipment/Surveillance Technology]]**: Advanced reconnaissance and intelligence gathering tools
+- **[[02_Worldbuilding/Equipment/Stealth Mobility Systems|02 Worldbuilding/Equipment/Stealth Mobility Systems]]**: Advanced concealment and movement technology
+- **[[02_Worldbuilding/Equipment/Precision Weapons Array|02 Worldbuilding/Equipment/Precision Weapons Array]]**: Specialized firearms and targeting systems
+- **[[02_Worldbuilding/Equipment/Underwater Combat Gear|02 Worldbuilding/Equipment/Underwater Combat Gear]]**: Equipment for aquatic operations
+- **[[02_Worldbuilding/Equipment/Communication Networks|02 Worldbuilding/Equipment/Communication Networks]]**: Secure battlefield communication systems
+- **[[02_Worldbuilding/Equipment/Surveillance Technology|02 Worldbuilding/Equipment/Surveillance Technology]]**: Advanced reconnaissance and intelligence gathering tools
 
 ### Vehicle Assets
-- **[[02_Worldbuilding/Vehicles/Stealth Submarines]]**: Silent running underwater vessels
-- **[[02_Worldbuilding/Vehicles/Rapid Assault Craft]]**: Fast attack boats for surface operations
-- **[[02_Worldbuilding/Vehicles/Mobile Command Platforms]]**: Deployable headquarters and coordination centers
-- **[[02_Worldbuilding/Vehicles/Emergency Response Units]]**: Specialized vehicles for crisis operations
-- **[[02_Worldbuilding/Vehicles/Training Simulators]]**: Advanced virtual reality and simulation systems
+- **[[02_Worldbuilding/Vehicles/Stealth Submarines|02 Worldbuilding/Vehicles/Stealth Submarines]]**: Silent running underwater vessels
+- **[[02_Worldbuilding/Vehicles/Rapid Assault Craft|02 Worldbuilding/Vehicles/Rapid Assault Craft]]**: Fast attack boats for surface operations
+- **[[02_Worldbuilding/Vehicles/Mobile Command Platforms|02 Worldbuilding/Vehicles/Mobile Command Platforms]]**: Deployable headquarters and coordination centers
+- **[[02_Worldbuilding/Vehicles/Emergency Response Units|02 Worldbuilding/Vehicles/Emergency Response Units]]**: Specialized vehicles for crisis operations
+- **[[02_Worldbuilding/Vehicles/Training Simulators|02 Worldbuilding/Vehicles/Training Simulators]]**: Advanced virtual reality and simulation systems
 
 ### Intelligence Assets
 - Comprehensive database of potential threats and enemy capabilities
@@ -318,7 +318,7 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 ## Mission Types & Specializations
 
 ### What They Offer
-- **Elite Tactical Operations**: Specialized military missions requiring precision and stealth via [[02_Worldbuilding/Services/Advanced Ambush Tactics]]
+- **Elite Tactical Operations**: Specialized military missions requiring precision and stealth via [[02_Worldbuilding/Services/Advanced Ambush Tactics|02 Worldbuilding/Services/Advanced Ambush Tactics]]
 - **Hostage Rescue Services**: Emergency response for kidnapping and hostage situations
 - **High-Value Target Operations**: Surgical strikes against specific individuals or assets
 - **Security Consultation**: Tactical advice and planning for military and civilian organizations
@@ -383,7 +383,7 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 - **[[Marine Corps]]**: Training partnership and personnel exchange
 - **[[Intelligence Services]]**: Information sharing and mission coordination
 - **[[Military Medical Corps]]**: Healthcare and trauma treatment support
-- **[[02_Worldbuilding/Lore/The Strategic Command Center]]**: Mission planning and strategic integration
+- **[[02_Worldbuilding/Lore/The Strategic Command Center|02 Worldbuilding/Lore/The Strategic Command Center]]**: Mission planning and strategic integration
 
 ### Government Relations
 **Official Connections**
@@ -505,13 +505,13 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 - [[Commander Reef Shadowstrike]] - Tactical genius and unit founder
 - [[Major Tide Precisestrike]] - Operations coordinator and strategic planner
 - [[Captain Storm Ambushmaster]] - Training specialist and doctrine developer
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential military ally
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] - Potential military ally
 - [[Admiral Thorne Blackwater]] - Navy coordination and support
 
 ### Important Locations
 - [[The Strategic Command Center]] - Mobile headquarters and command facility
 - [[Advanced Training Facilities]] - Specialized education and skill development
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary area of operations
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Primary area of operations
 - [[Equipment Testing Ranges]] - Innovation and development facilities
 - [[International Training Exchanges]] - Allied military cooperation
 
@@ -550,5 +550,5 @@ Legends speak of Shadow Ambush   Optional as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]
 - [[Admiral Thorne Blackwater]]

@@ -21,7 +21,7 @@ world: Both
 
 High stakes, epic consequences. Use with all core systems; expect campaign-shaping outcomes.
 
-### D-L-01: Leviathan Waking
+## D-L-01: Leviathan Waking
 - Trigger: A great one stirs.
 - Stakes: City-scale shockwaves; eco upheaval.
 - Checks: Command DC 18; Helm DC 18; Anchorite DC 17.

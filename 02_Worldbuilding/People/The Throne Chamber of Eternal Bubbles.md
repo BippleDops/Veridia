@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Throne Chamber of Eternal Bubbles]]
+- [[02_Worldbuilding/People/The Throne Chamber of Eternal Bubbles|02 Worldbuilding/People/The Throne Chamber Of Eternal Bubbles]]
 
 <!-- enriched: true -->
 

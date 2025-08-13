@@ -24,24 +24,24 @@ world: Both
 *Where Forbidden Goods Find Willing Buyers*
 
 ## Overview
-The Shadow Markets operate as a vast underground network of illegal trade beneath [[02_Worldbuilding/Places/Port Meridian]], controlled by [[02_Worldbuilding/Groups/The Whisper Syndicate]] and serving as the primary distribution hub for all manner of forbidden goods, from corrupted crystals to stolen artifacts to living beings.
+The Shadow Markets operate as a vast underground network of illegal trade beneath [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], controlled by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] and serving as the primary distribution hub for all manner of forbidden goods, from corrupted crystals to stolen artifacts to living beings.
 
 ## Operations & Connections
-The markets specialize in corrupted crystal trade, stolen artifacts from [[02_Worldbuilding/Places/The Sundered Vaults]], weapons from [[02_Worldbuilding/Places/The Crimson Foundries]], and information brokerage. The network connects to [[02_Worldbuilding/Places/The Bone Colosseum]] via hidden tunnels and serves as money laundering operation for [[02_Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
+The markets specialize in corrupted crystal trade, stolen artifacts from [[02_Worldbuilding/Places/The Sundered Vaults|02 Worldbuilding/Places/The Sundered Vaults]], weapons from [[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]], and information brokerage. The network connects to [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]] via hidden tunnels and serves as money laundering operation for [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Primary controllers and operators
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Ultimate authority over all operations
-- **[[02_Worldbuilding/Places/The Bone Colosseum]]** - Connected via underground tunnels
-- **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]** - Information and intelligence broker
-- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Competing legitimate marketplace
-- **[[02_Worldbuilding/Places/The Crimson Foundries]]** - Source of illegal weapons
-- **[[02_Worldbuilding/People/Memory Merchant Valeria]]** - Trades in memories and experiences
-- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Source of blood-forged metals
-- **[[02_Worldbuilding/Groups/The Carrion Court]]** - Trades in necromantic components
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Primary law enforcement threat
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Transportation and logistics
-- **[[02_Worldbuilding/People/Marcus "The Shade" Blackwood]]** - Security enforcement
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Primary controllers and operators
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]** - Ultimate authority over all operations
+- **[[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]** - Connected via underground tunnels
+- **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information and intelligence broker
+- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins|02 Worldbuilding/Places/The Grand Bazaar Of Echoing Coins]]** - Competing legitimate marketplace
+- **[[02_Worldbuilding/Places/The Crimson Foundries|02 Worldbuilding/Places/The Crimson Foundries]]** - Source of illegal weapons
+- **[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]** - Trades in memories and experiences
+- **[[02_Worldbuilding/Places/The Iron Pits of Malachar|02 Worldbuilding/Places/The Iron Pits Of Malachar]]** - Source of blood-forged metals
+- **[[02_Worldbuilding/Groups/The Carrion Court|02 Worldbuilding/Groups/The Carrion Court]]** - Trades in necromantic components
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]** - Primary law enforcement threat
+- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transportation and logistics
+- **[[02_Worldbuilding/People/Marcus "The Shade" Blackwood|02 Worldbuilding/People/Marcus "The Shade" Blackwood]]** - Security enforcement
 
 ## History
 
@@ -92,6 +92,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Shadow Markets New]]
+- [[02_Worldbuilding/Places/The Shadow Markets New|02 Worldbuilding/Places/The Shadow Markets New]]
 
 <!-- enriched: true -->

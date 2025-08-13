@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Exotic Imports Market]]
+- [[02_Worldbuilding/Places/Exotic Imports Market|02 Worldbuilding/Places/Exotic Imports Market]]
 
 <!-- enriched: true -->
 

@@ -347,8 +347,8 @@ The Tidecrest Marina connects to numerous important elements throughout Aquabyss
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -370,6 +370,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]]
+- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest|02 Worldbuilding/Places/Captain Marlowe Tidecrest]]
 
 <!-- enriched: true -->

@@ -176,6 +176,6 @@ Legends speak of The Last Words as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Words]]
+- [[02_Worldbuilding/Places/The Last Words|02 Worldbuilding/Places/The Last Words]]
 
 <!-- enriched: true -->

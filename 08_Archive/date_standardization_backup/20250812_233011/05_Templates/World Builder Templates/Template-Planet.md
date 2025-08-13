@@ -73,7 +73,7 @@ app.fileManager.processFrontMatter(newFile, fm => {
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Template_Planet_Placeholder.png]]
+>> ![[Template_Planet_Placeholder.png|Template Planet Placeholder.png]]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind
@@ -120,17 +120,17 @@ app.fileManager.processFrontMatter(newFile, fm => {
 
 This is the planet description. 
 
-# Planet Details
+## Planet Details
 
 **Dominant Races:**  
 **Climate:** 
 **Seasons:**
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the region here. 
 
-# Continents
+## Continents
 
 `BUTTON[button_continent]` **Continents**  Large continuous landmasses that contain regions.
 
@@ -141,7 +141,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Sapient Species
+## Sapient Species
 
 `BUTTON[button_species]`  Intelligent species that live on this planet. 
 
@@ -152,7 +152,7 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# Capital Cities
+## Capital Cities
 
 `BUTTON[button_hub]` Groups of people and power - religious, cults, guilds, military
 
@@ -229,4 +229,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Planet_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Planet_Placeholder.png|02 Worldbuilding/Lore/Template Planet Placeholder.png]]

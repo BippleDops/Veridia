@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
 ## Connections

@@ -18,7 +18,7 @@ world: Both
 
 # Vehicle Customization & Progression
 
-Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[02_Worldbuilding/Quests/Aquabyssos]].
+Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 
 ## Modular Upgrade Systems
 - Biological Grafting: Parasite symbionts, coral armor, regenerative sacs
@@ -41,7 +41,7 @@ Mechanic: Each slot holds 1 module; installing adds Power draw and Maintenance b
 - XP for Ships: Earned via journeys, battles, discoveries
 - Evolution Paths: Bio Growth, Crystal Refinement, Memory Awakening, Anchor Sanctification
 - Ship Traits: Gain boons but acquire hungers (e.g., hunger for memories, storms, hymns)
-- Ship Madness: On XP thresholds with high Stress, roll on Ship Madness table (see [[Vessel_Horror_Intensifier]])
+- Ship Madness: On XP thresholds with high Stress, roll on Ship Madness table (see [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]])
 
 ## Example Upgrade Tree: Coral Leviathan
 Tier 1: Coral Plating • Regenerative Pores • Reef Sensors
@@ -72,10 +72,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Crafting_Transcendence]]
+- [[03_Mechanics/Crafting_Transcendence|03 Mechanics/Crafting Transcendence]]
 
 
 ## Connections
 
-- [[Crafting_Transcendence]]
-- [[Player_Handout_Aethermoor_Airships]]
+- [[Crafting_Transcendence|Crafting Transcendence]]
+- [[Player_Handout_Aethermoor_Airships|Player Handout Aethermoor Airships]]

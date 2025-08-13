@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grick-ancient-xmm-grick-ancient-xmm.svg)
 
-# [Grick Ancient](3-Mechanics\CLI\bestiary\aberration/grick-ancient-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/grick-ancient-xmm|Grick Ancient]]
 *Source: Monster Manual (2024) p. 158*  
 
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.
@@ -60,7 +60,7 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -71,11 +71,11 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Slam"
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.\
-      \ If the target is a Large or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from all four tentacles."
     "name": "Tentacles"
 "source":

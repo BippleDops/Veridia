@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-earth-xphb-elemental-spirit-earth-xphb.svg)
 
-# [Elemental Spirit (Earth)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-earth-xphb.md)
+# [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-earth-xphb|Elemental Spirit (Earth)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -44,9 +44,9 @@ world: Both
 "speed": "40 ft., burrow 40 ft."
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "actions":

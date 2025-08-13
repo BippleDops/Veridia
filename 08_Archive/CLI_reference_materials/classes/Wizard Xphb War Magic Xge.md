@@ -18,7 +18,7 @@ world: Both
 ---
 
 # War Magic
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
+*[[./wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -64,7 +64,7 @@ A variety of arcane colleges specialize in training wizards for war. The traditi
 
 Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.
 
-In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) if I die before I can cast it?"
+In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]] if I die before I can cast it?"
 
 ### Arcane Deflection (Level 2)
 
@@ -80,13 +80,13 @@ Starting at 2nd level, your keen ability to assess tactical situations allows yo
 
 Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a power surge.
 
-You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) or [counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md), you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
+You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]] or [[/03_Mechanics/CLI/spells/counterspell-xphb|counterspell]], you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
 
 Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level.
 
 ### Durable Magic (Level 10)
 
-Beginning at 10th level, the magic you channel helps ward off harm. While you maintain [concentration](/03_Mechanics/CLI/conditions.md#Concentration) on a spell, you have a +2 bonus to AC and all saving throws.
+Beginning at 10th level, the magic you channel helps ward off harm. While you maintain [[/03_Mechanics/CLI/conditions#Concentration|concentration]] on a spell, you have a +2 bonus to AC and all saving throws.
 
 ### Deflecting Shroud (Level 14)
 

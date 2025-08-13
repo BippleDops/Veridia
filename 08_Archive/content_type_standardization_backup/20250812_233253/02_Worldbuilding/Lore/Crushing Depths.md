@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
 
 
 ## Connections

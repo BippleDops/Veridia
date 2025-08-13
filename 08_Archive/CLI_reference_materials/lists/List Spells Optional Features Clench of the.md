@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/hold-person-xphb "XPHB"|Hold Person]]
 
 ## Player-Facing Summary
 

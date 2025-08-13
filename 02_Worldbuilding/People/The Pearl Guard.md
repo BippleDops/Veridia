@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures|02 Worldbuilding/Lore/Investigation Procedures]]
 
 
 ## Connections
@@ -30,7 +30,7 @@ world: Both
 - [[Emperor Thalassius the Wise]]
 - [[Envoy Blackwater Jr.]]
 - [[Mayor Thompson]]
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 - [[Senator Marius]]
 - [[The Current Merchants]]
 

@@ -21,36 +21,36 @@ world: Both
 
 The monsters appearing in the adventure are presented in this section in alphabetical order.
 
-- [Ash Zombie](/03_Mechanics/CLI/bestiary/undead/ash-zombie-lmop.md)  
-- [Bugbear](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)  
-- [Commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
-- [Cultist](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md)  
-- [Doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)  
-- [Evil Mage](/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop.md)  
-- [Flameskull](/03_Mechanics/CLI/bestiary/undead/flameskull-xmm.md)  
-- [Ghoul](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  
-- [Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)  
-- [Goblin](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md)  
-- [Grick](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md)  
-- [Gundren Rockseeker](/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop.md)  
-- [Hobgoblin](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md)  
-- [Mormesk the Wraith](/03_Mechanics/CLI/bestiary/npc/mormesk-the-wraith-lmop.md)  
-- [Nezznar the Black Spider](/03_Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop.md)  
-- [Nothic](/03_Mechanics/CLI/bestiary/aberration/nothic-xmm.md)  
-- [Nundro Rockseeker](/03_Mechanics/CLI/bestiary/npc/nundro-rockseeker-lmop.md)  
-- [Ochre Jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md)  
-- [Ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md)  
-- [Orc](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)  
-- [Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)  
-- [Redbrand Ruffian](/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop.md)  
-- [Sildar Hallwinter](/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop.md)  
-- [Skeleton](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md)  
-- [Spectator](/03_Mechanics/CLI/bestiary/aberration/spectator-xmm.md)  
-- [Stirge](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)  
-- [Twig Blight](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md)  
-- [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
-- [Young Green Dragon](/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md) ([Venomfang](/03_Mechanics/CLI/bestiary/npc/venomfang-lmop.md))  
-- [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)
+- [[/03_Mechanics/CLI/bestiary/undead/ash-zombie-lmop|Ash Zombie]]  
+- [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbear]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|Commoner]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultist]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelganger]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|Evil Mage]]  
+- [[/03_Mechanics/CLI/bestiary/undead/flameskull-xmm|Flameskull]]  
+- [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|Ghoul]]  
+- [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant Spider]]  
+- [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|Grick]]  
+- [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]  
+- [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|Hobgoblin]]  
+- [[/03_Mechanics/CLI/bestiary/npc/mormesk-the-wraith-lmop|Mormesk the Wraith]]  
+- [[/03_Mechanics/CLI/bestiary/npc/nezznar-the-black-spider-lmop|Nezznar the Black Spider]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|Nothic]]  
+- [[/03_Mechanics/CLI/bestiary/npc/nundro-rockseeker-lmop|Nundro Rockseeker]]  
+- [[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm|Ochre Jelly]]  
+- [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm|Owlbear]]  
+- [[/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand Ruffian]]  
+- [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]]  
+- [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeleton]]  
+- [[/03_Mechanics/CLI/bestiary/aberration/spectator-xmm|Spectator]]  
+- [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|Stirge]]  
+- [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|Twig Blight]]  
+- [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|Wolf]]  
+- [[/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm|Young Green Dragon]] ([[/03_Mechanics/CLI/bestiary/npc/venomfang-lmop|Venomfang]])  
+- [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombie]]
 
 ## Player-Facing Summary
 

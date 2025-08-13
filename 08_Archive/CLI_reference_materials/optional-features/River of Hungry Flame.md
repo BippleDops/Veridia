@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md).
+You can spend 5 ki points to cast [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|wall of fire]].
 
 ## Player-Facing Summary
 

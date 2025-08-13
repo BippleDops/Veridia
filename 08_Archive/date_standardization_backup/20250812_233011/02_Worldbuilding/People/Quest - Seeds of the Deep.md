@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - Seeds of the Deep]]
+- [[02_Worldbuilding/People/Quest - Seeds of the Deep|02 Worldbuilding/People/Quest Seeds Of The Deep]]
 
 <!-- enriched: true -->

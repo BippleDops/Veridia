@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/speak-with-animals-xphb "XPHB"|Speak with Animals]]
 
 ## Player-Facing Summary
 

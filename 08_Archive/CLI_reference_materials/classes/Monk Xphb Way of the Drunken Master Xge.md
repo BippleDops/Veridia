@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Way of the Drunken Master
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[./monk-xphb|Monk]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 33*  
 
 > [!tldr] Class and Feature Progression
@@ -66,11 +66,11 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this tradition at 3rd level, you gain proficiency in the [Performance](/03_Mechanics/CLI/skills.md#Performance) skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [brewer's supplies](/03_Mechanics/CLI/items/brewers-supplies-xphb.md) if you don't already have it.
+When you choose this tradition at 3rd level, you gain proficiency in the [[/03_Mechanics/CLI/skills#Performance|Performance]] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with [[/03_Mechanics/CLI/items/brewers-supplies-xphb|brewer's supplies]] if you don't already have it.
 
 ### Drunken Technique (Level 3)
 
-At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) action, and your walking speed increases by 10 feet until the end of the current turn.
+At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the [[/03_Mechanics/CLI/actions#Disengage|Disengage]] action, and your walking speed increases by 10 feet until the end of the current turn.
 
 ### Tipsy Sway (Level 6)
 
@@ -78,7 +78,7 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 
 - **Leap to Your Feet**  
 
-    When you're [prone](/03_Mechanics/CLI/conditions.md#Prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
+    When you're [[/03_Mechanics/CLI/conditions#Prone|prone]], you can stand up by spending 5 feet of movement, rather than half your speed.  
 
 - **Redirect Attack**  
 

@@ -204,7 +204,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Key Relationships
 
 ### Parliamentary Allies
-**[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**
+**[[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]**
 - Close working relationship on environmental issues
 - Cassia becoming concerned about Cordelia's recent authoritarian votes
 - Still trusts her personally but questioning her judgment
@@ -217,7 +217,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 - May become opposition if replacement becomes more obvious
 
 ### Shadow Connections (Unknown to Her)
-**[[02_Worldbuilding/People/Senator Glaucus]]** (Shadow-Replaced)
+**[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]** (Shadow-Replaced)
 - Coordinates shadow agenda through parliamentary channels
 - She believes their recent policy alignment is natural evolution
 - He subtly guides her shadow-influenced decisions
@@ -230,7 +230,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 - Never direct communication—always feels like her own thoughts
 
 ### Opposition and Skeptics
-**[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**
+**[[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]**
 - Military leader suspicious of Senator's recent policy shifts
 - Concerned about security measures that could threaten civil liberties
 - Beginning to investigate shadow influence in parliament
@@ -456,10 +456,10 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Growing concerned ally
-- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow coordinator
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Suspicious opponent
-- [[02_Worldbuilding/People/Tenebrarum]] - Diplomatic complications
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]] - Growing concerned ally
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Shadow coordinator
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]] - Suspicious opponent
+- [[02_Worldbuilding/People/Tenebrarum|02 Worldbuilding/People/Tenebrarum]] - Diplomatic complications
 - [[The Whispered Voice]] - Shadow handler
 
 ### Locations
@@ -497,7 +497,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -509,7 +509,7 @@ Legends speak of The Senator as a nexus where past and present converge. Locals 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Senator|02 Worldbuilding/People/The Senator]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

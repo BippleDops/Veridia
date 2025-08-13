@@ -228,7 +228,7 @@ The richness of these character relationships provides endless opportunities for
 - [[Vex Shadowthorn]]
 - [[Captain Marina Saltborn]]
 - [[Memory Merchant Valeria Siltweave]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 - [[The Seven Shards]]
 - [[The Deep Mother]]
 - [[Crystal Corruption]]

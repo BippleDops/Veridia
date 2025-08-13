@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse|02 Worldbuilding/Quests/The Whispering Expanse]]
 
 
 ## Connections

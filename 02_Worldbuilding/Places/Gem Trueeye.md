@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gem Trueeye]]
+- [[02_Worldbuilding/Places/Gem Trueeye|02 Worldbuilding/Places/Gem Trueeye]]
 
 <!-- enriched: true -->
 

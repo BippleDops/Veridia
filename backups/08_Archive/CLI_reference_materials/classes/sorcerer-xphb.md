@@ -60,10 +60,10 @@ world: Both
 ## Starting Sorcerer
 
 - **Saving Throw Proficiencies**: Charisma, Constitution
-- **Skill Proficiencies**: *Choose 2:* [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [Deception](/03_Mechanics/CLI/skills.md#Deception), [Insight](/03_Mechanics/CLI/skills.md#Insight), [Intimidation](/03_Mechanics/CLI/skills.md#Intimidation), [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion), or [Religion](/03_Mechanics/CLI/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#Deception|Deception]], [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]], [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]], or [[/03_Mechanics/CLI/skills#Religion|Religion]]
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) [Spear](/03_Mechanics/CLI/items/spear-xphb.md), 2 [Daggers](/03_Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](/03_Mechanics/CLI/items/arcane-focus-xphb.md) ([crystal](/03_Mechanics/CLI/items/crystal-xphb.md)), [Dungeoneer's Pack](/03_Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[/03_Mechanics/CLI/items/spear-xphb|Spear]], 2 [[/03_Mechanics/CLI/items/dagger-xphb|Daggers]], [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] ([[/03_Mechanics/CLI/items/crystal-xphb|crystal]]), [[/03_Mechanics/CLI/items/dungeoneers-pack-xphb|Dungeoneer's Pack]], and 28 GP; or (B) 50 GP
 
 
 ## Sorcerer
@@ -82,17 +82,17 @@ Drawing from your innate magic, you can cast spells. See "chapter 7" for the rul
 
 #### Cantrips
 
-You know four Sorcerer cantrips of your choice. [Light](/03_Mechanics/CLI/spells/light-xphb.md), [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md), [Shocking Grasp](/03_Mechanics/CLI/spells/shocking-grasp-xphb.md), and [Sorcerous Burst](/03_Mechanics/CLI/spells/sorcerous-burst-xphb.md) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+You know four Sorcerer cantrips of your choice. [[/03_Mechanics/CLI/spells/light-xphb|Light]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|Prestidigitation]], [[/03_Mechanics/CLI/spells/shocking-grasp-xphb|Shocking Grasp]], and [[/03_Mechanics/CLI/spells/sorcerous-burst-xphb|Sorcerous Burst]] are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
 #### Spell Slots
 
-The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) and [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [[/03_Mechanics/CLI/spells/burning-hands-xphb|Burning Hands]] and [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]] are recommended.
 
 The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
@@ -108,22 +108,22 @@ Charisma is your spellcasting ability for your Sorcerer spells.
 
 #### Spellcasting Focus
 
-You can use an [Arcane Focus](/03_Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Sorcerer spells.
+You can use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] for your Sorcerer spells.
 
 ### Innate Sorcery (Level 1)
 
-An event in your past left an indelible mark on you, infusing you with simmering magic. As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can unleash that magic for 1 minute, during which you gain the following benefits:
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.  
-- You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on the attack rolls of Sorcerer spells you cast.  
+- You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the attack rolls of Sorcerer spells you cast.  
 
-You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this feature twice, and you regain all expended uses of it when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Font of Magic (Level 2)
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
@@ -133,9 +133,9 @@ You can expend a spell slot to gain a number of Sorcery Points equal to the slot
 
 #### Creating Spell Slots
 
-As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
-Any spell slot you create with this feature vanishes when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+Any spell slot you create with this feature vanishes when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 **Creating Spell Slots**
 
@@ -150,7 +150,7 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 
 ### Metamagic (Level 2)
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[Optional features from [Metamagic](/03_Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[[/03_Mechanics/CLI/lists/list-optfeaturetype-mm|Optional features from [Metamagic]]; defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
@@ -166,11 +166,11 @@ You gain a Sorcerer subclass of your choice. A subclass is a specialization that
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 ### Sorcerous Restoration (Level 5)
 
-When you finish a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md), you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]], you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Subclass Feature (Level 6)
 
@@ -178,17 +178,17 @@ You gain a feature from your Sorcerer subclass.
 
 ### Sorcery Incarnate (Level 7)
 
-If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to activate it.
+If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to activate it.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic options](/03_Mechanics/CLI/lists/list-optfeaturetype-mm.md) on each spell you cast.
+In addition, while your Innate Sorcery feature is active, you can use up to two of your [[/03_Mechanics/CLI/lists/list-optfeaturetype-mm|Metamagic options]] on each spell you cast.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Metamagic (Level 10)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/03_Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[[/03_Mechanics/CLI/lists/list-optfeaturetype-mm|Optional features from [Metamagic]]; defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -196,7 +196,7 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -204,11 +204,11 @@ You gain a feature from your Sorcerer subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Metamagic (Level 17)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/03_Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[[/03_Mechanics/CLI/lists/list-optfeaturetype-mm|Optional features from [Metamagic]]; defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -220,7 +220,7 @@ You gain a feature from your Sorcerer subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](/03_Mechanics/CLI/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[/03_Mechanics/CLI/feats/boon-of-dimensional-travel-xphb|Boon of Dimensional Travel]] is recommended.
 
 ### Arcane Apotheosis (Level 20)
 
@@ -229,7 +229,7 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 ## Optional Features
 
 > [!example]- Optional Features: Metamagic
-> ![Metamagic](/03_Mechanics/CLI/lists/list-optfeaturetype-mm.md#Metamagic)
+> ![[/03_Mechanics/CLI/lists/list-optfeaturetype-mm#Metamagic|Metamagic]]
 ^list-optfeature-mm
 
 ## Player-Facing Summary

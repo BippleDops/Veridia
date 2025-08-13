@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[reports/bidirectional_links]]
+- [[reports/bidirectional_links|Reports/bidirectional Links]]
 
 ## Player-Facing Summary
 

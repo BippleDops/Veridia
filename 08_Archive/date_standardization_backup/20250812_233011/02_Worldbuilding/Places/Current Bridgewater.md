@@ -36,6 +36,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Bridgewater]]
+- [[02_Worldbuilding/Places/Current Bridgewater|02 Worldbuilding/Places/Current Bridgewater]]
 
 <!-- enriched: true -->

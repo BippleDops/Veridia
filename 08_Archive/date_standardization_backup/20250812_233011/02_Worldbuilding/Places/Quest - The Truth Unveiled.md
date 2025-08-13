@@ -114,7 +114,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 **[[Lady Catherine Mourning]]** - A widow whose husband was among the disappeared, driving her to conduct her own investigation that has uncovered important clues. She serves as both an information source and a potential victim requiring protection.
 
-**[[02_Worldbuilding/Lore/Underground Network]]** - A loose association of individuals from various walks of life who have noticed something wrong and are willing to help the investigation. They provide eyes and ears throughout the city but require careful management to avoid exposure.
+**[[02_Worldbuilding/Lore/Underground Network|02 Worldbuilding/Lore/Underground Network]]** - A loose association of individuals from various walks of life who have noticed something wrong and are willing to help the investigation. They provide eyes and ears throughout the city but require careful management to avoid exposure.
 
 **[[The Puppet Master]]** - The true leader of The Shadow Parliament, whose identity remains hidden until the final confrontation. They have manipulated events for decades while remaining completely above suspicion through a carefully constructed false identity.
 
@@ -343,7 +343,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled|02 Worldbuilding/Places/Quest The Truth Unveiled]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

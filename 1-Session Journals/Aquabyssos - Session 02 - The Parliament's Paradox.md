@@ -6,12 +6,12 @@ date_played: null
 depth: 1,800 feet
 estimated_time: 4 hours
 level: 5
-location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Debate Chambers'
 npcs_featured:
 - '[[Senator Glaucus]]'
 - '[[The Forgotten Representative]]'
 - '[[Time-Lost Delegate Chronus]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
 obsidianUIMode: preview
 quests_advanced:
 - '[[Shadow Conspiracy Investigation]]'
@@ -287,7 +287,7 @@ During the night, the party witnesses their shadows having a meeting without the
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

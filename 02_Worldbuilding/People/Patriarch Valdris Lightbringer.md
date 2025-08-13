@@ -235,18 +235,18 @@ world: Both
 Patriarch Valdris Lightbringer serves as the senior religious authority for ocean-based faiths, coordinating theological responses to maritime threats while maintaining delicate diplomatic relationships with underwater kingdoms and surface political powers.
 
 ## Key Connections
-- **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Primary religious authority
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Close theological cooperation
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Diplomatic liaison and cultural exchange
-- **[[02_Worldbuilding/Groups/The Leviathan Cult]]** - Primary theological opposition
-- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Ideological enemy
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval blessing and protection provider
-- **[[02_Worldbuilding/Places/The Sorrow Current]]** - Spiritual guardian and healing coordinator
-- **[[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]** - Interfaith cooperation
-- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Provides religious services
+- **[[02_Worldbuilding/Places/The Temple of Eternal Tides|02 Worldbuilding/Places/The Temple Of Eternal Tides]]** - Primary religious authority
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Close theological cooperation
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]** - Diplomatic liaison and cultural exchange
+- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary theological opposition
+- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller|02 Worldbuilding/People/High Priest Dagon Deepcaller]]** - Ideological enemy
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval blessing and protection provider
+- **[[02_Worldbuilding/Places/The Sorrow Current|02 Worldbuilding/Places/The Sorrow Current]]** - Spiritual guardian and healing coordinator
+- **[[02_Worldbuilding/People/Archbishop Mordecai Stormwright|02 Worldbuilding/People/Archbishop Mordecai Stormwright]]** - Interfaith cooperation
+- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios|02 Worldbuilding/Places/The Floating Markets Of Nereidios]]** - Provides religious services
 - **[[Crystal Wardens]]** - Mutual cooperation against corruption
-- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Blesses commercial voyages
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Spiritual counselor for ocean affinity
+- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium|02 Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Blesses commercial voyages
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Spiritual counselor for ocean affinity
 
 ## Appearance
 
@@ -297,7 +297,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Patriarch Valdris Lightbringer]]
+- [[02_Worldbuilding/People/Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]
 
 <!-- enriched: true -->
 

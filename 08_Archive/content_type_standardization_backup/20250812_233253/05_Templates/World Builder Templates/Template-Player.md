@@ -73,7 +73,7 @@ _%>
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Template_Player_Placeholder.png]]
+>> ![[Template_Player_Placeholder.png|Template Player Placeholder.png]]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
@@ -174,11 +174,11 @@ items:
     value: long-rest
 ```
 
-# Description
+## Description
 
 This is the persons description. 
 
-# Configure
+## Configure
 
 %% MODIFY OPTIONS IN SETTINGS > COMMUNITY PLUGINS > META-BIND > EDIT TEMPLATES > template-name %%
 
@@ -196,11 +196,11 @@ This is the persons description.
 | Modifier | `INPUT[number:modifier]`     |
 
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Skills
+## Skills
 
 %% COMPONENTS BELOW ARE PART OF THE 'DND UI TOOLKIT' PLUGIN. NOT RELEASED, CURRENTLY INSTALLED VIA BRAT
 %% PLUGIN URL: https://github.com/hay-kot/obsidian-dnd-ui-toolkit %%
@@ -231,7 +231,7 @@ proficiencies:
 ```
 
 
-# Traits
+## Traits
 
 ### Luck Points
 ```consumable
@@ -271,7 +271,7 @@ Usually, this information comes from a library, scriptorium, university, or a sa
 
 Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 
-# Spell Book
+## Spell Book
 
 ## Spell Slots
 
@@ -311,14 +311,14 @@ items:
 > [!NOTE]+ Known
 > List Spells Here
 
-# Inventory
+## Inventory
 
 The following items belong to `= this.file.name`.
 
 Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
-#### Ring of Investigation
+### Ring of Investigation
 ```consumable
 label: ""
 state_key: din_items__ring_of_investigation
@@ -327,7 +327,7 @@ uses: 3
 
 _May the ability to see also provide you with a clear vision" Grants +1 to Investigation Roles_
 
-# Connections
+## Connections
 Is the person linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
@@ -336,7 +336,7 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
 
-# Relationships
+## Relationships
 
 List important relationships here. 
 

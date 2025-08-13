@@ -19,7 +19,7 @@ world: Both
 
 # Sky Events Pack E — Legendary Tier (12)
 
-### S-L-01: Star Anchor Coronation
+## S-L-01: Star Anchor Coronation
 - Stakes: Realm unity.
 - Checks: Anchorite DC 18; Performance DC 17.
 - Outcomes: Success: Integrity +3; mandate of sky. Partial: PR scrape. Fail: Anchor cracks; crisis.

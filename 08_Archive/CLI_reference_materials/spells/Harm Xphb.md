@@ -30,9 +30,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum below 1.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum below 1.
 
-**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

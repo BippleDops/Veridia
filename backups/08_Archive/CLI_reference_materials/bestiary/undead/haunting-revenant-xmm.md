@@ -23,7 +23,7 @@ updated: '2025-08-12T23:37:35.592651'
 world: Both
 ---
 
-# [Haunting Revenant](3-Mechanics\CLI\bestiary\undead/haunting-revenant-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/haunting-revenant-xmm|Haunting Revenant]]
 *Source: Monster Manual (2024) p. 260*  
 
 Haunting revenants possess ruins and forsaken places connected with their deaths—such as abandoned buildings, wrecked ships, or junk heaps. These revenants lurk in plain sight, waiting for their foes to near, then trap their victims within their massive bodies. Those inside a revenant might be battered by animate furnishings or more unsettling manifestations of the revenant's hatred.
@@ -61,11 +61,11 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
 "senses": "truesight 60 ft., passive Perception 14"
 "languages": "Common plus two other languages"
 "cr": "10"
@@ -73,27 +73,27 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "desc": "Constitution Saving Throw: DC 17, any creature that casts a spell while\
       \ inside the revenant's space. Failure: The spell fails and is wasted."
     "name": "Haunted Zone"
-  - "desc": "If the revenant dies, it revives 24 hours later unless [Dispel Evil and\
-      \ Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast on its\
+  - "desc": "If the revenant dies, it revives 24 hours later unless [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil and\
+      \ Good]] is cast on its\
       \ remains. If it revives, it animates another Gargantuan object or structure\
       \ elsewhere on the same plane of existence; it now looks different but uses\
-      \ the same stat block and returns with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ the same stat block and returns with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
     "name": "Undead Restoration"
 "actions":
-  - "desc": "The revenant makes two [Object](/03_Mechanics/CLI/variant-rules/object-xphb.md)\
+  - "desc": "The revenant makes two [[/03_Mechanics/CLI/variant-rules/object-xphb|Object]]\
       \ Slam attacks and uses Invitation."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Attack Roll: +9 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "Melee  or Ranged Attack Roll: +9 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ if the target is inside the revenant's space), reach 10 ft. or range 30/90\
       \ ft. Hit: 27 (5d8 + 5) Bludgeoning damage."
     "name": "Object Slam"
-  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is teleported inside the revenant's space and swallowed.\
-      \ A swallowed creature has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ A swallowed creature has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]]\
       \ against attacks and other effects outside the revenant.\n\nWhile the revenant\
-      \ has [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), a swallowed\
+      \ has [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], a swallowed\
       \ creature can leave the revenant's space only by using magic that enables planar\
-      \ travel, such as the [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ travel, such as the [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]]\
       \ spell."
     "name": "Invitation"
 "source":

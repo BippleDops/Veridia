@@ -53,6 +53,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mediator Supreme Cora Peaceweaver]]
+- [[02_Worldbuilding/Places/Mediator Supreme Cora Peaceweaver|02 Worldbuilding/Places/Mediator Supreme Cora Peaceweaver]]
 
 <!-- enriched: true -->

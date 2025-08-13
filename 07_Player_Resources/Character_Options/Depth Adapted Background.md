@@ -120,10 +120,10 @@ Consider how your depth-adapted background affects your interaction with:
 - Ancient ruins at your maximum depth contain secrets about pre-Drowning civilization
 
 ## Connected Lore
-- [[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]] - Social structure details
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Mechanical effects
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Capital showcasing depth hierarchy
-- [[02_Worldbuilding/Lore/The Deep Mother]] - Entity of the deepest depths
+- [[02_Worldbuilding/Lore/Aquabyssos Depth Caste System|02 Worldbuilding/Lore/Aquabyssos Depth Caste System]] - Social structure details
+- [[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]] - Mechanical effects
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Capital showcasing depth hierarchy
+- [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] - Entity of the deepest depths
 
 ## Player-Facing Summary
 
@@ -141,4 +141,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[07_Player_Resources/INDEX]]
+- [[07_Player_Resources/INDEX|07 Player Resources/INDEX]]

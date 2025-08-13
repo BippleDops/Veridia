@@ -20,33 +20,33 @@ world: Both
 
 ## Cantrip
 
-- [Light](/03_Mechanics/CLI/spells/light-xphb.md "XPHB") at class level 3
-- [Sacred Flame](/03_Mechanics/CLI/spells/sacred-flame-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] at class level 3
+- [[/03_Mechanics/CLI/spells/sacred-flame-xphb "XPHB"|Sacred Flame]] at class level 3
 
 ## 1st Level
 
-- [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 3
-- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/cure-wounds-xphb "XPHB"|Cure Wounds]] at class level 3
+- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] at class level 3
 
 ## 2nd Level
 
-- [Aid](/03_Mechanics/CLI/spells/aid-xphb.md "XPHB") at class level 3
-- [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/aid-xphb "XPHB"|Aid]] at class level 3
+- [[/03_Mechanics/CLI/spells/lesser-restoration-xphb "XPHB"|Lesser Restoration]] at class level 3
 
 ## 3rd Level
 
-- [Daylight](/03_Mechanics/CLI/spells/daylight-xphb.md "XPHB") at class level 3
-- [Revivify](/03_Mechanics/CLI/spells/revivify-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/daylight-xphb "XPHB"|Daylight]] at class level 3
+- [[/03_Mechanics/CLI/spells/revivify-xphb "XPHB"|Revivify]] at class level 3
 
 ## 4th Level
 
-- [Guardian of Faith](/03_Mechanics/CLI/spells/guardian-of-faith-xphb.md "XPHB") at class level 3
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/guardian-of-faith-xphb "XPHB"|Guardian of Faith]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]] at class level 3
 
 ## 5th Level
 
-- [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB") at class level 3
-- [Summon Celestial](/03_Mechanics/CLI/spells/summon-celestial-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/greater-restoration-xphb "XPHB"|Greater Restoration]] at class level 3
+- [[/03_Mechanics/CLI/spells/summon-celestial-xphb "XPHB"|Summon Celestial]] at class level 3
 
 ## Player-Facing Summary
 

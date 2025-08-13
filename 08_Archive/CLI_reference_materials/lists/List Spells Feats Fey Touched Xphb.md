@@ -20,30 +20,30 @@ world: Both
 
 ## 1st Level
 
-- [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
-- [Bane](/03_Mechanics/CLI/spells/bane-xphb.md "XPHB") 
-- [Beast Bond](/03_Mechanics/CLI/spells/beast-bond-xge.md "XGE") 
-- [Bless](/03_Mechanics/CLI/spells/bless-xphb.md "XPHB") 
-- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") 
-- [Command](/03_Mechanics/CLI/spells/command-xphb.md "XPHB") 
-- [Compelled Duel](/03_Mechanics/CLI/spells/compelled-duel-xphb.md "XPHB") 
-- [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB") 
-- [Detect Evil and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md "XPHB") 
-- [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
-- [Detect Poison and Disease](/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb.md "XPHB") 
-- [Dissonant Whispers](/03_Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB") 
-- [Heroism](/03_Mechanics/CLI/spells/heroism-xphb.md "XPHB") 
-- [Hex](/03_Mechanics/CLI/spells/hex-xphb.md "XPHB") 
-- [Hunter's Mark](/03_Mechanics/CLI/spells/hunters-mark-xphb.md "XPHB") 
-- [Identify](/03_Mechanics/CLI/spells/identify-xphb.md "XPHB") 
-- [Silvery Barbs](/03_Mechanics/CLI/spells/silvery-barbs-scc.md "SCC") 
-- [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md "XPHB") 
-- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
-- [Tasha's Hideous Laughter](/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") 
+- [[/03_Mechanics/CLI/spells/animal-friendship-xphb "XPHB"|Animal Friendship]] 
+- [[/03_Mechanics/CLI/spells/bane-xphb "XPHB"|Bane]] 
+- [[/03_Mechanics/CLI/spells/beast-bond-xge "XGE"|Beast Bond]] 
+- [[/03_Mechanics/CLI/spells/bless-xphb "XPHB"|Bless]] 
+- [[/03_Mechanics/CLI/spells/charm-person-xphb "XPHB"|Charm Person]] 
+- [[/03_Mechanics/CLI/spells/command-xphb "XPHB"|Command]] 
+- [[/03_Mechanics/CLI/spells/compelled-duel-xphb "XPHB"|Compelled Duel]] 
+- [[/03_Mechanics/CLI/spells/comprehend-languages-xphb "XPHB"|Comprehend Languages]] 
+- [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb "XPHB"|Detect Evil and Good]] 
+- [[/03_Mechanics/CLI/spells/detect-magic-xphb "XPHB"|Detect Magic]] 
+- [[/03_Mechanics/CLI/spells/detect-poison-and-disease-xphb "XPHB"|Detect Poison and Disease]] 
+- [[/03_Mechanics/CLI/spells/dissonant-whispers-xphb "XPHB"|Dissonant Whispers]] 
+- [[/03_Mechanics/CLI/spells/heroism-xphb "XPHB"|Heroism]] 
+- [[/03_Mechanics/CLI/spells/hex-xphb "XPHB"|Hex]] 
+- [[/03_Mechanics/CLI/spells/hunters-mark-xphb "XPHB"|Hunter's Mark]] 
+- [[/03_Mechanics/CLI/spells/identify-xphb "XPHB"|Identify]] 
+- [[/03_Mechanics/CLI/spells/silvery-barbs-scc "SCC"|Silvery Barbs]] 
+- [[/03_Mechanics/CLI/spells/sleep-xphb "XPHB"|Sleep]] 
+- [[/03_Mechanics/CLI/spells/speak-with-animals-xphb "XPHB"|Speak with Animals]] 
+- [[/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb "XPHB"|Tasha's Hideous Laughter]] 
 
 ## 2nd Level
 
-- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]]
 
 ## Player-Facing Summary
 

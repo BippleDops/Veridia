@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Azure Shard]]
+- [[02_Worldbuilding/People/Azure Shard|02 Worldbuilding/People/Azure Shard]]
 
 
 ## Connections

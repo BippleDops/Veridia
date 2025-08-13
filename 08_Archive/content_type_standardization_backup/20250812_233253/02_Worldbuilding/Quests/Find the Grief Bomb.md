@@ -28,13 +28,13 @@ updated: '2025-08-13T01:18:34.507522+00:00'
 
 **Type:** Investigation/Horror  
 **Level:** 8-12  
-**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]], [[02_Worldbuilding/Places/The Archive of Unremembered Things]]  
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]], [[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
 **Duration:** 3-4 sessions  
 **Threat:** Psychological warfare device threatens to destroy collective memory
 
-**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Places/Shadow Market Canals]]  
-**Related Groups:** [[02_Worldbuilding/Groups/Order of the Drowned Star]], [[02_Worldbuilding/Groups/Shadow Surgeons Collective]], [[02_Worldbuilding/Groups/Memory Farmers]]  
-**Key Themes:** Psychological warfare, [[02_Worldbuilding/Lore/The Seven Shards]], memory manipulation, [[02_Worldbuilding/Lore/The Deep Mother]]
+**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], [[02_Worldbuilding/Places/Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]  
+**Related Groups:** [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]], [[02_Worldbuilding/Groups/Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]], [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]  
+**Key Themes:** Psychological warfare, [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], memory manipulation, [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 
 ## Overview
 The [[Order of the Drowned Star]] has developed a horrifying weapon called the "Grief Bomb" - a crystalline device that forces entire populations to experience profound, paralyzing sorrow. Intelligence suggests it's hidden somewhere in the [[Abyssos Prime - Inverse Palace]], designed to be detonated during a major political gathering to cripple [[Aquabyssos]]'s leadership permanently.
@@ -43,12 +43,12 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 [[High Inquisitor Maltheos]] discovered plans for the Grief Bomb in captured [[Shadow Surgeons Collective]] documents. The weapon works by amplifying traumatic memories and projecting them into the minds of everyone within a 2-mile radius. Victims become catatonic with grief, reliving their worst losses on an endless loop.
 
 ## Key NPCs
-- **[[02_Worldbuilding/People/Anti-Priest Nullus]]**: Fanatical creator of the Grief Bomb, believes suffering purifies
-- **[[02_Worldbuilding/People/Memory Merchant Zephyr Mindweaver]]**: Has crucial intelligence about memory-based weapons
-- **[[02_Worldbuilding/People/Vault Keeper Eternal]]**: Knows the location of emotion-dampening artifacts
-- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus]]**: Witnessed similar weapons in other timelines
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Lead investigator who discovered the plot
-- **[[02_Worldbuilding/People/Palace Guard Captain Ironclad]]**: Security expert coordinating palace defenses
+- **[[02_Worldbuilding/People/Anti-Priest Nullus|02 Worldbuilding/People/Anti Priest Nullus]]**: Fanatical creator of the Grief Bomb, believes suffering purifies
+- **[[02_Worldbuilding/People/Memory Merchant Zephyr Mindweaver|02 Worldbuilding/People/Memory Merchant Zephyr Mindweaver]]**: Has crucial intelligence about memory-based weapons
+- **[[02_Worldbuilding/People/Vault Keeper Eternal|02 Worldbuilding/People/Vault Keeper Eternal]]**: Knows the location of emotion-dampening artifacts
+- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus|02 Worldbuilding/People/Time Lost Delegate Chronus]]**: Witnessed similar weapons in other timelines
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Lead investigator who discovered the plot
+- **[[02_Worldbuilding/People/Palace Guard Captain Ironclad|02 Worldbuilding/People/Palace Guard Captain Ironclad]]**: Security expert coordinating palace defenses
 
 ## Investigation Phases
 
@@ -57,11 +57,11 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 **Objective:** Learn about the weapon and its potential hiding places
 
 **Key Locations:**
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Contains research on emotional manipulation magic
-- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling "extracted sorrows"
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Infiltrate to access classified reports
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Understanding the psychological impact of memory weapons
-- **[[02_Worldbuilding/Places/Temple District]]**: Religious perspectives on grief and healing
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]**: Contains research on emotional manipulation magic
+- **[[02_Worldbuilding/Places/Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling "extracted sorrows"
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Infiltrate to access classified reports
+- **[[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]**: Understanding the psychological impact of memory weapons
+- **[[02_Worldbuilding/Places/Temple District|02 Worldbuilding/Places/Temple District]]**: Religious perspectives on grief and healing
 
 **Clues to Find:**
 1. **Crystalline Resonance Patterns**: The bomb uses modified [[Seven Shards]] fragments
@@ -136,7 +136,7 @@ When activated, all creatures in range must make DC 20 Wisdom saves or be affect
 **Challenge Rating** 11 (7,200 XP)  
 **Proficiency Bonus** +4
 
-#### Special Abilities
+### Special Abilities
 **Grief Aura.** All creatures within 30 feet of Nullus have disadvantage on saving throws against fear and charm effects. Additionally, any creature that starts its turn in the aura must succeed on a DC 19 Wisdom saving throw or be overwhelmed with sorrow, reducing their movement speed by half until the start of their next turn.
 
 **Sorrow Empowerment.** Nullus gains power from others' suffering. For each creature within 60 feet that is frightened, charmed, or has been reduced to half hit points or fewer, Nullus gains +1 to attack rolls, damage rolls, and spell save DCs (maximum +5).
@@ -152,7 +152,7 @@ When activated, all creatures in range must make DC 20 Wisdom saves or be affect
 
 **Manifestation of Regret (Recharge 5-6).** Nullus creates illusory manifestations of the party's greatest regrets and losses. Each creature within 60 feet must make a DC 19 Wisdom saving throw. On failure: 27 (6d8) psychic damage and the creature is frightened for 1 minute (can repeat save at end of each turn). On success: Half damage and not frightened.
 
-**Activate Grief Bomb (1/Day).** If Nullus is within 30 feet of the [[02_Worldbuilding/Items/Grief Bomb]], he can spend his action to begin activating it. This requires 3 consecutive rounds of concentration. If successful, the bomb detonates (see Grief Bomb effects). The activation can be interrupted by breaking his concentration or moving him more than 30 feet from the device.
+**Activate Grief Bomb (1/Day).** If Nullus is within 30 feet of the [[02_Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]], he can spend his action to begin activating it. This requires 3 consecutive rounds of concentration. If successful, the bomb detonates (see Grief Bomb effects). The activation can be interrupted by breaking his concentration or moving him more than 30 feet from the device.
 
 **Emotional Vampire (3/Day).** Nullus drains the emotional energy from a creature within 60 feet. The target must make a DC 19 Charisma saving throw. On failure, the target takes 22 (4d10) necrotic damage and Nullus regains the same amount as hit points. The target's maximum hit points are reduced by half the damage taken.
 
@@ -179,11 +179,11 @@ Nullus is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sa
 #### Equipment
 - **Robes of Eternal Sorrow**: AS 17, grants immunity to fear and charm while attuned
 - **Staff of Memory Drain**: +2 spellcasting focus that can store extracted memories
-- **[[02_Worldbuilding/Items/Grief Bomb]] Activation Crystal**: Allows remote activation of the device
+- **[[02_Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]] Activation Crystal**: Allows remote activation of the device
 - **Vial of Concentrated Despair**: Can be thrown to create a 20-foot radius area of magical despair
 - **Memory Extraction Tools**: Surgical implements for harvesting traumatic experiences
 
-**Tactics:** Nullus focuses on emotional manipulation and psychological warfare rather than direct damage. He attempts to activate the [[02_Worldbuilding/Items/Grief Bomb]] while using the party's own memories and regrets against them. He prioritizes spellcasters and leaders, seeking to break their will through targeted emotional attacks.
+**Tactics:** Nullus focuses on emotional manipulation and psychological warfare rather than direct damage. He attempts to activate the [[02_Worldbuilding/Items/Grief Bomb|02 Worldbuilding/Items/Grief Bomb]] while using the party's own memories and regrets against them. He prioritizes spellcasters and leaders, seeking to break their will through targeted emotional attacks.
 
 ## Rewards
 
@@ -213,18 +213,18 @@ Nullus is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sa
 - The party must live with the knowledge that they could have prevented immense suffering
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Quests/Stop the Shadow Harvest]]**: The Grief Bomb was meant to weaken defenses for this larger plot
-- **[[02_Worldbuilding/Quests/Investigate Shadow Surgeons]]**: Leads to understanding how the weapon was created
-- **[[02_Worldbuilding/Groups/Memory Farmers]]**: These NPCs become important allies for healing aftermath
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Location holds keys to preventing similar weapons
-- **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**: Larger conspiracy behind the psychological weapon
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Connection between grief and divine consciousness
-- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Religious perspective on suffering and purification
-- **[[02_Worldbuilding/Lore/The Seven Shards]]**: Crystalline components powering the emotional weapon
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Understanding collective psychological trauma
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Dimensional implications of mass consciousness manipulation
-- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus]]**: Temporal perspectives on preventing similar attacks
-- **[[02_Worldbuilding/Groups/The Purist Coalition]]**: Opposition to memory and emotion manipulation
+- **[[02_Worldbuilding/Quests/Stop the Shadow Harvest|02 Worldbuilding/Quests/Stop The Shadow Harvest]]**: The Grief Bomb was meant to weaken defenses for this larger plot
+- **[[02_Worldbuilding/Quests/Investigate Shadow Surgeons|02 Worldbuilding/Quests/Investigate Shadow Surgeons]]**: Leads to understanding how the weapon was created
+- **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]**: These NPCs become important allies for healing aftermath
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]**: Location holds keys to preventing similar weapons
+- **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**: Larger conspiracy behind the psychological weapon
+- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Connection between grief and divine consciousness
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched|02 Worldbuilding/People/Sister Thalassa The Depth Touched]]**: Religious perspective on suffering and purification
+- **[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]**: Crystalline components powering the emotional weapon
+- **[[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]**: Understanding collective psychological trauma
+- **[[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]**: Dimensional implications of mass consciousness manipulation
+- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus|02 Worldbuilding/People/Time Lost Delegate Chronus]]**: Temporal perspectives on preventing similar attacks
+- **[[02_Worldbuilding/Groups/The Purist Coalition|02 Worldbuilding/Groups/The Purist Coalition]]**: Opposition to memory and emotion manipulation
 
 ## DM Notes
 
@@ -265,7 +265,7 @@ Legends speak of Find the Grief Bomb as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace|02 Worldbuilding/Places/Throne Room Heart Of Palace]]
 
 
 ## Connections

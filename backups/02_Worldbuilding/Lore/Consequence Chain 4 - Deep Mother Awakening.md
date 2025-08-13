@@ -39,11 +39,11 @@ primary_sessions:
 - Established ongoing communication protocols with a being older than civilization
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first time
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
+- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first time
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
 - **Party members**: Permanently altered by psychic contact with primordial consciousness
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
-- **[[02_Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
+- **[[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
 - **Reality itself**: Cosmic awareness now includes understanding of mortal experience
 
 **Immediate visible results:**
@@ -221,8 +221,8 @@ primary_sessions:
 - [[Campaign Consequence Tracking Framework]]
 - [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
 - [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
-- [[02_Worldbuilding/People/The Deep Mother]]
-- [[03_Mechanics/Deep_Mother_Subsystem]]
+- [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]
+- [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 - [[Cosmic Consciousness Ethics]]
 - [[Reality Stability Protocols]]
 - [[Political Intrigue Master Index]]

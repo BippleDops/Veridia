@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index|02 Worldbuilding/Lore/Location Index]]
 
 
 ## Connections
@@ -29,7 +29,7 @@ tags:
 - [[Memory Farmers]]
 - [[Mourning Depths]]
 - [[Parliament of Echoes]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 

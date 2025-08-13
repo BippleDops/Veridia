@@ -17,19 +17,19 @@ tags:
 # Session Packet — Aquabyssos 01
 
 handouts:
-  - [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines]]
-  - [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]
-  - [[04_Resources/Handouts/Encounters/D-005_Shadow_Bloom_Player]]
-  - [[04_Resources/Handouts/Encounters/D-010_Pirate_Shadow_Net_Player]]
-  - [[04_Resources/Handouts/Encounters/D-019_Oracle_Whale_Player]]
+  - [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|04 Resources/Handouts/Ships/Player Handout Aquabyssos Submarines]]
+  - [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+  - [[04_Resources/Handouts/Encounters/D-005_Shadow_Bloom_Player|04 Resources/Handouts/Encounters/D 005 Shadow Bloom Player]]
+  - [[04_Resources/Handouts/Encounters/D-010_Pirate_Shadow_Net_Player|04 Resources/Handouts/Encounters/D 010 Pirate Shadow Net Player]]
+  - [[04_Resources/Handouts/Encounters/D-019_Oracle_Whale_Player|04 Resources/Handouts/Encounters/D 019 Oracle Whale Player]]
 
 gm_sheets:
-  - [[06_GM_Resources/Travel/Encounter_Sheets/D-005_Shadow_Bloom]]
-  - [[06_GM_Resources/Travel/Encounter_Sheets/D-010_Pirate_Shadow_Net]]
-  - [[06_GM_Resources/Travel/Encounter_Sheets/D-019_Oracle_Whale]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/D-005_Shadow_Bloom|06 GM Resources/Travel/Encounter Sheets/D 005 Shadow Bloom]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/D-010_Pirate_Shadow_Net|06 GM Resources/Travel/Encounter Sheets/D 010 Pirate Shadow Net]]
+  - [[06_GM_Resources/Travel/Encounter_Sheets/D-019_Oracle_Whale|06 GM Resources/Travel/Encounter Sheets/D 019 Oracle Whale]]
 
 assets:
-  - [[03_Mechanics/Vehicles/Vehicles_Index]]
+  - [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
 
 ## Player Handouts
 ```dataviewjs

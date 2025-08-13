@@ -35,15 +35,15 @@ world: Both
 - **Components:** V, S, M (a miniature hand sculpted from clay)
 - **Duration:** Concentration, up to 1 minute
 
-You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes `2d6` bludgeoning damage and is [restrained](/03_Mechanics/CLI/conditions.md#Restrained) for the spell's duration.
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes `2d6` bludgeoning damage and is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] for the spell's duration.
 
-As an action, you can cause the hand to crush the [restrained](/03_Mechanics/CLI/conditions.md#Restrained) target, which must make a Strength saving throw. The target takes `2d6` bludgeoning damage on a failed save, or half as much damage on a successful one.
+As an action, you can cause the hand to crush the [[/03_Mechanics/CLI/conditions#Restrained|restrained]] target, which must make a Strength saving throw. The target takes `2d6` bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-To break out, the [restrained](/03_Mechanics/CLI/conditions.md#Restrained) target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer [restrained](/03_Mechanics/CLI/conditions.md#Restrained) by the hand.
+To break out, the [[/03_Mechanics/CLI/conditions#Restrained|restrained]] target can use its action to make a Strength check against your spell save DC. On a success, the target escapes and is no longer [[/03_Mechanics/CLI/conditions#Restrained|restrained]] by the hand.
 
-As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a [restrained](/03_Mechanics/CLI/conditions.md#Restrained) target if you do either.
+As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a [[/03_Mechanics/CLI/conditions#Restrained|restrained]] target if you do either.
 
-**Classes**: [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 161*
 

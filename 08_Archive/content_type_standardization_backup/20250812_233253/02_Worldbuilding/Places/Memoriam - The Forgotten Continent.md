@@ -214,6 +214,6 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
+- [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent|02 Worldbuilding/Places/Memoriam The Forgotten Continent]]
 
 <!-- enriched: true -->

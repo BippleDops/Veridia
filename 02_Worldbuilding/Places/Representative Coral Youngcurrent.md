@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Representative Coral Youngcurrent]]
+- [[02_Worldbuilding/Places/Representative Coral Youngcurrent|02 Worldbuilding/Places/Representative Coral Youngcurrent]]
 
 <!-- enriched: true -->
 

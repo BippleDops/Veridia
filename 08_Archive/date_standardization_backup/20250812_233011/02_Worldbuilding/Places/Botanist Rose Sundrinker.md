@@ -31,7 +31,7 @@ accessibility:
 
 # Botanist Rose Sundrinker
 
-![Botanist Rose Sundrinker Portrait](04_Resources/Assets/Art/Places/Botanist_Rose_Sundrinker.png)
+![[04_Resources/Assets/Art/Places/Botanist_Rose_Sundrinker.png|Botanist Rose Sundrinker Portrait]]
 
 ## Overview
 Botanist Rose Sundrinker is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -53,7 +53,7 @@ Botanist Rose Sundrinker is a living crossroads where memory-currents and trade 
 
 ## Threads to the Main Campaign
 - Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos]].
+- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 - An information broker with ties to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
@@ -63,7 +63,7 @@ Botanist Rose Sundrinker is a living crossroads where memory-currents and trade 
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary

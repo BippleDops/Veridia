@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bio-Tech Supervisor Reef Lifeweaver]]
+- [[02_Worldbuilding/Places/Bio-Tech Supervisor Reef Lifeweaver|02 Worldbuilding/Places/Bio Tech Supervisor Reef Lifeweaver]]
 
 <!-- enriched: true -->
 

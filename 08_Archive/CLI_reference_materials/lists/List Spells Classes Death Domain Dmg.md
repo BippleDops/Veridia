@@ -20,35 +20,35 @@ world: Both
 
 ## Cantrip
 
-- [Chill Touch](/03_Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") at class level 5
-- [Poison Spray](/03_Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") at class level 5
-- [Spare the Dying](/03_Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB") at class level 5
-- [Toll the Dead](/03_Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/chill-touch-xphb "XPHB"|Chill Touch]] at class level 5
+- [[/03_Mechanics/CLI/spells/poison-spray-xphb "XPHB"|Poison Spray]] at class level 5
+- [[/03_Mechanics/CLI/spells/spare-the-dying-xphb "XPHB"|Spare the Dying]] at class level 5
+- [[/03_Mechanics/CLI/spells/toll-the-dead-xphb "XPHB"|Toll the Dead]] at class level 5
 
 ## 1st Level
 
-- [False Life](/03_Mechanics/CLI/spells/false-life-xphb.md "XPHB") at class level 5
-- [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/false-life-xphb "XPHB"|False Life]] at class level 5
+- [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb "XPHB"|Ray of Sickness]] at class level 5
 
 ## 2nd Level
 
-- [Blindness/Deafness](/03_Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 5
-- [Ray of Enfeeblement](/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/blindness-deafness-xphb "XPHB"|Blindness/Deafness]] at class level 5
+- [[/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb "XPHB"|Ray of Enfeeblement]] at class level 5
 
 ## 3rd Level
 
-- [Animate Dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 5
-- [Vampiric Touch](/03_Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/animate-dead-xphb "XPHB"|Animate Dead]] at class level 5
+- [[/03_Mechanics/CLI/spells/vampiric-touch-xphb "XPHB"|Vampiric Touch]] at class level 5
 
 ## 4th Level
 
-- [Blight](/03_Mechanics/CLI/spells/blight-xphb.md "XPHB") at class level 5
-- [Death Ward](/03_Mechanics/CLI/spells/death-ward-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/blight-xphb "XPHB"|Blight]] at class level 5
+- [[/03_Mechanics/CLI/spells/death-ward-xphb "XPHB"|Death Ward]] at class level 5
 
 ## 5th Level
 
-- [Antilife Shell](/03_Mechanics/CLI/spells/antilife-shell-xphb.md "XPHB") at class level 5
-- [Cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/antilife-shell-xphb "XPHB"|Antilife Shell]] at class level 5
+- [[/03_Mechanics/CLI/spells/cloudkill-xphb "XPHB"|Cloudkill]] at class level 5
 
 ## Player-Facing Summary
 

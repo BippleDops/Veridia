@@ -42,7 +42,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-Crystallium stands as [[Aquabyssos]]'s premier scientific research facility, a gleaming complex of crystal-glass laboratories and pressure chambers built 8,000 feet beneath the surface. Here, [[Master Crystallographer Aurora Prismheart]] leads the [[Crystal Academy Council]] in unlocking the secrets of crystal formation, pressure magic, and the mysterious interaction between [[02_Worldbuilding/Places/Aethermoor]]'s shattered [[Crown of Stars]] and the deep ocean environment.
+Crystallium stands as [[Aquabyssos]]'s premier scientific research facility, a gleaming complex of crystal-glass laboratories and pressure chambers built 8,000 feet beneath the surface. Here, [[Master Crystallographer Aurora Prismheart]] leads the [[Crystal Academy Council]] in unlocking the secrets of crystal formation, pressure magic, and the mysterious interaction between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s shattered [[Crown of Stars]] and the deep ocean environment.
 
 The facility serves as both research institute and strategic resource, developing new technologies for [[Aquabyssos]] while maintaining extensive trade relationships with the surface world. Its discoveries have revolutionized underwater construction, deep-pressure medicine, and the understanding of how magic adapts to extreme environments.
 
@@ -52,7 +52,7 @@ The facility serves as both research institute and strategic resource, developin
 **[[The Prismatic Core]]**
 - Central research chamber containing samples from every known crystal type
 - Pressure simulation systems that can replicate conditions from surface to [[The Hadal Depths]]
-- Direct communication array linking to [[02_Worldbuilding/Places/Crystalhaven]] and other crystal facilities
+- Direct communication array linking to [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] and other crystal facilities
 - [[Master Crystallographer Aurora Prismheart]]'s personal laboratory and office complex
 
 ### Research Wings
@@ -90,7 +90,7 @@ The facility serves as both research institute and strategic resource, developin
 - Emergency evacuation systems connecting to [[Abyssos Prime]]
 
 **[[The Visiting Scholar Complex]]**
-- Temporary housing for researchers from [[02_Worldbuilding/Places/Crystalhaven]] and other surface locations
+- Temporary housing for researchers from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] and other surface locations
 - Cultural exchange areas and meeting spaces
 - Specialized laboratories for collaborative projects
 - Diplomatic quarters for inter-realm negotiations
@@ -144,7 +144,7 @@ The facility serves as both research institute and strategic resource, developin
 - **[[Pressure Specialist Dr. Marina Deepcurrent]]** - Expert in extreme depth effects
 - **[[Bio-Integration Researcher Coral Lifeshaper]]** - Studies crystal-biological interfaces
 - **[[Memory Crystal Archivist Nautilus Storykeeper]]** - Preserves knowledge in crystalline form
-- **[[Surface Liaison Captain Reed Bridgewater]]** - Coordinates with [[02_Worldbuilding/Places/Aethermoor]] researchers
+- **[[Surface Liaison Captain Reed Bridgewater]]** - Coordinates with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] researchers
 
 ### Support Staff
 - **[[Security Chief Marcus Depthguard]]** - Protects facility from threats and espionage
@@ -242,14 +242,14 @@ While at Crystallium, characters experience:
 ## Connections to Other Locations
 
 ### Research Partners
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Joint crystal research projects and technology exchange
-- **[[02_Worldbuilding/Places/Ironhold]]** - Crystal-resistant technology development
+- **[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]** - Joint crystal research projects and technology exchange
+- **[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]** - Crystal-resistant technology development
 - **[[The Lock]]** - Providing critical barrier maintenance and enhancement
 - **[[Abyssos Prime]]** - Primary funding source and administrative oversight
 
 ### Trade Relationships
 - **[[Port Meridian - Merchant Quarter]]** - Export of pressure pearls and deep-sea materials
-- **[[02_Worldbuilding/Places/Sylvanheart]]** - Exchange of natural and crystal-based magical research
+- **[[02_Worldbuilding/Places/Sylvanheart|02 Worldbuilding/Places/Sylvanheart]]** - Exchange of natural and crystal-based magical research
 - **[[Nereidios]]** - Academic cooperation and knowledge sharing
 
 ---
@@ -263,7 +263,7 @@ While at Crystallium, characters experience:
 - [[Continental Connections & Story Weave]]
 - [[Nereidios]]
 - [[Aether Crystals]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Aquabyssos - Session 05 - Descent into Darkness]]
 - [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
@@ -288,7 +288,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

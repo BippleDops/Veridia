@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Pressure Forges]]
+- [[02_Worldbuilding/Lore/The Pressure Forges|02 Worldbuilding/Lore/The Pressure Forges]]
 
 
 ## Connections

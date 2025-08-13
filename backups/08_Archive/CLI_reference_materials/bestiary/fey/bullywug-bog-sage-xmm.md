@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg)
 
-# [Bullywug Bog Sage](3-Mechanics\CLI\bestiary\fey/bullywug-bog-sage-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/bullywug-bog-sage-xmm|Bullywug Bog Sage]]
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug bog sages channel the magic of the swamp to sicken foes and speak with plants.
@@ -61,9 +61,9 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - "wisdom": !!int "5"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
+  - "name": "[[/03_Mechanics/CLI/skills#Nature|Nature]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Bullywug, Common"
@@ -76,17 +76,17 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
     "name": "Speak with Frogs and Toads"
 "actions":
   - "desc": "The bullywug makes two Bog Staff attacks. It can replace any attack with\
-      \ a use of Spellcasting to cast [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md)."
+      \ a use of Spellcasting to cast [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Bog Staff"
   - "desc": "The bullywug casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-      \ [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md),\
-      \ [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n1/day\
-      \ each: [Speak with Plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md),\
-      \ [Vitriolic Sphere](/03_Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
+      \ [[/03_Mechanics/CLI/spells/dancing-lights-xphb|Dancing Lights]], [[/03_Mechanics/CLI/spells/druidcraft-xphb|Druidcraft]],\
+      \ [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]]\n\n1/day\
+      \ each: [[/03_Mechanics/CLI/spells/speak-with-plants-xphb|Speak with Plants]],\
+      \ [[/03_Mechanics/CLI/spells/vitriolic-sphere-xphb|Vitriolic Sphere]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."

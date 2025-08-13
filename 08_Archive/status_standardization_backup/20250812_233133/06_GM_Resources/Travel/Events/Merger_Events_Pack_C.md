@@ -23,7 +23,7 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 
 ---
 
-### M-201: Event Horizon Shear
+## M-201: Event Horizon Shear
 - Type: Paradox • Category: Physics
 - Trigger: Horizon ring slices rigging from reality.
 - Checks: Anchorite DC 16; Engineer DC 16; Sanity DC 15.

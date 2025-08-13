@@ -38,7 +38,7 @@ updated: 2025-08-11
 
 ## Organization Overview
 
-The Shadow Harvest operates as both industrial enterprise and religious cult, dedicated to the extraction, refinement, and distribution of pure shadow energy throughout [[02_Worldbuilding/Places/Aquabyssos]]. What began as a practical response to the growing demand for shadow-based resources has evolved into an obsessive organization whose members believe that shadow energy represents the ultimate evolutionary force for all life in the depths.
+The Shadow Harvest operates as both industrial enterprise and religious cult, dedicated to the extraction, refinement, and distribution of pure shadow energy throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. What began as a practical response to the growing demand for shadow-based resources has evolved into an obsessive organization whose members believe that shadow energy represents the ultimate evolutionary force for all life in the depths.
 
 Unlike organizations that merely use shadow abilities, the Harvest treats shadow energy as a finite resource to be carefully extracted, processed, and sold to the highest bidder. Their techniques allow them to drain shadow essence from the environment, from willing (and sometimes unwilling) shadow-touched individuals, and from the mysterious shadow phenomena that occur naturally throughout Aquabyssos.
 
@@ -322,35 +322,35 @@ The organization's primary processing facilities use a combination of alchemical
 
 ### Commercial Partnerships
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**
 **Relationship**: Tense Business Partnership
 The Consortium requires shadow energy for various operations but disapproves of the Harvest's methods. They maintain a profitable but ethically uncomfortable business relationship.
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Competitive Cooperation
 Both organizations serve shadow-touched communities but have different approaches. The Warren focuses on community support while the Harvest emphasizes individual enhancement and profit.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Deepwater Trading Consortium]]**
+#### **[[02_Worldbuilding/Groups/Deepwater Trading Consortium|02 Worldbuilding/Groups/Deepwater Trading Consortium]]**
 **Relationship**: Professional Distance
 The Trading Consortium occasionally facilitates shadow energy trade but maintains careful distance from the Harvest's more questionable activities.
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes]]**
+#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 **Relationship**: Regulated Tolerance
 The government tolerates legal shadow energy trade while actively investigating and prosecuting illegal Harvest activities.
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**
+#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Philosophical Opposition
 The Order views the Harvest's exploitation of shadow energy as corruption of natural phenomena that should be studied and respected rather than exploited.
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Active Enemies
 The Coalition views the Harvest as representing everything wrong with shadow energy use and actively works to shut down their operations.
 
-#### **[[02_Worldbuilding/Groups/Church of the Tidal Throne]]**
+#### **[[02_Worldbuilding/Groups/Church of the Tidal Throne|02 Worldbuilding/Groups/Church Of The Tidal Throne]]**
 **Relationship**: Religious Opposition
 The Church considers shadow energy worship heretical and works to counter the Harvest's influence in religious communities.
 
@@ -546,10 +546,10 @@ Secret agreements with organizations in other realms provide access to different
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Order of the Drowned Star]]
+- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
 
 **Key Locations**:
 - [[The Void Refineries]]
@@ -597,4 +597,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]

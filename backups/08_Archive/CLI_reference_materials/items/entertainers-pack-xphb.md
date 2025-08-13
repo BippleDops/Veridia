@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 58.5 lbs.
 
-An Entertainer's Pack contains the following items: [Backpack](/03_Mechanics/CLI/items/backpack-xphb.md), [Bedroll](/03_Mechanics/CLI/items/bedroll-xphb.md), [Bell](/03_Mechanics/CLI/items/bell-xphb.md), [Bullseye Lantern](/03_Mechanics/CLI/items/bullseye-lantern-xphb.md), 3 [Costumes](/03_Mechanics/CLI/items/costume-xphb.md), [Mirror](/03_Mechanics/CLI/items/mirror-xphb.md), 8 flasks of [Oil](/03_Mechanics/CLI/items/oil-xphb.md), 9 days of [Rations](/03_Mechanics/CLI/items/rations-xphb.md), [Tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md), and [Waterskin](/03_Mechanics/CLI/items/waterskin-xphb.md).
+An Entertainer's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], [[/03_Mechanics/CLI/items/bell-xphb|Bell]], [[/03_Mechanics/CLI/items/bullseye-lantern-xphb|Bullseye Lantern]], 3 [[/03_Mechanics/CLI/items/costume-xphb|Costumes]], [[/03_Mechanics/CLI/items/mirror-xphb|Mirror]], 8 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 9 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]], and [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Kelp Forest Constituencies]]
+- [[02_Worldbuilding/Places/Kelp Forest Constituencies|02 Worldbuilding/Places/Kelp Forest Constituencies]]
 
 <!-- enriched: true -->
 

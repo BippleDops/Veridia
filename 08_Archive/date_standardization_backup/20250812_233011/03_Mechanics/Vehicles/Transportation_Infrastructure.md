@@ -45,7 +45,7 @@ Macro-systems that make journeys strategic. Connects to economies, factions, and
 
 ## Logistics & Control
 - Faction Control of Routes: Tolling, patrols, piracy, and privateering
-- Trade Lanes: Risk/Reward tables (see [[Journey_Event_Compiler]])
+- Trade Lanes: Risk/Reward tables (see [[Journey_Event_Compiler|Journey Event Compiler]])
 - Infrastructure Sabotage: Target anchors, beacons, stations to shift strategic balance
 
 ## Player-Facing Summary
@@ -70,14 +70,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/Travel/Encounter_Sheets/X-105_Crown_Council_Summit_Convoy]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-105_Crown_Council_Summit_Convoy|06 GM Resources/Travel/Encounter Sheets/X 105 Crown Council Summit Convoy]]
 
 
 ## Connections
 
-- [[Economic_Warfare_Simulator]]
-- [[Ecosystem_Simulation_Engine]]
-- [[Aquabyssos_Submarines]]
-- [[Fleet_Dynamics_Generator]]
-- [[Journey_Event_Compiler]]
-- [[X-105_Crown_Council_Summit_Convoy]]
+- [[Economic_Warfare_Simulator|Economic Warfare Simulator]]
+- [[Ecosystem_Simulation_Engine|Ecosystem Simulation Engine]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
+- [[Journey_Event_Compiler|Journey Event Compiler]]
+- [[X-105_Crown_Council_Summit_Convoy|X 105 Crown Council Summit Convoy]]

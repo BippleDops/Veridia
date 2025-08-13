@@ -23,16 +23,16 @@ world: Both
 
 | Item | Rarity | Cost |
 |------|--------|------|
-| [Bottle of Boundless Coffee](/03_Mechanics/CLI/items/bottle-of-boundless-coffee-scc.md) | Common | 100 gp |
-| [Cuddly Strixhaven Mascot](/03_Mechanics/CLI/items/cuddly-strixhaven-mascot-scc.md) | Common | 100 gp |
-| [Lorehold Primer](/03_Mechanics/CLI/items/lorehold-primer-scc.md) | Uncommon | 300 gp |
-| [Prismari Primer](/03_Mechanics/CLI/items/prismari-primer-scc.md) | Uncommon | 300 gp |
-| [Quandrix Primer](/03_Mechanics/CLI/items/quandrix-primer-scc.md) | Uncommon | 300 gp |
-| [Silverquill Primer](/03_Mechanics/CLI/items/silverquill-primer-scc.md) | Uncommon | 300 gp |
-| [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg.md) (1st-Level Spell; "DMG") | Common | 50 gp |
-| [Strixhaven Pennant](/03_Mechanics/CLI/items/strixhaven-pennant-scc.md) | Common | 100 gp |
-| [Weapon, +1](/03_Mechanics/CLI/items/1-weapon-xdmg.md) ("DMG") | Uncommon | 300 gp |
-| [Witherbloom Primer](/03_Mechanics/CLI/items/witherbloom-primer-scc.md) | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/bottle-of-boundless-coffee-scc|Bottle of Boundless Coffee]] | Common | 100 gp |
+| [[/03_Mechanics/CLI/items/cuddly-strixhaven-mascot-scc|Cuddly Strixhaven Mascot]] | Common | 100 gp |
+| [[/03_Mechanics/CLI/items/lorehold-primer-scc|Lorehold Primer]] | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/prismari-primer-scc|Prismari Primer]] | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/quandrix-primer-scc|Quandrix Primer]] | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/silverquill-primer-scc|Silverquill Primer]] | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
+| [[/03_Mechanics/CLI/items/strixhaven-pennant-scc|Strixhaven Pennant]] | Common | 100 gp |
+| [[/03_Mechanics/CLI/items/1-weapon-xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
+| [[/03_Mechanics/CLI/items/witherbloom-primer-scc|Witherbloom Primer]] | Uncommon | 300 gp |
 ^magic-items-for-sale
 
 ## Player-Facing Summary

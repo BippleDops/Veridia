@@ -28,7 +28,7 @@ world: Aquabyssos
 
 # The Drowning Truth
 
-![The Drowning Truth Portrait](04_Resources/Assets/Art/Places/The_Drowning_Truth.png)
+![[04_Resources/Assets/Art/Places/The_Drowning_Truth.png|The Drowning Truth Portrait]]
 
 *Where honesty becomes lethal and lies sustain life*
 
@@ -406,11 +406,11 @@ The sphere raises questions:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Philosophy of Truth]]
-- [[02_Worldbuilding/Groups/Truth Keepers]]
-- [[02_Worldbuilding/People/Veritas the Drowned]]
-- [[03_Mechanics/Honesty_Mechanics]]
-- [[02_Worldbuilding/Places/The Philosophical Depths]]
+- [[02_Worldbuilding/Lore/Philosophy of Truth|02 Worldbuilding/Lore/Philosophy Of Truth]]
+- [[02_Worldbuilding/Groups/Truth Keepers|02 Worldbuilding/Groups/Truth Keepers]]
+- [[02_Worldbuilding/People/Veritas the Drowned|02 Worldbuilding/People/Veritas The Drowned]]
+- [[03_Mechanics/Honesty_Mechanics|03 Mechanics/Honesty Mechanics]]
+- [[02_Worldbuilding/Places/The Philosophical Depths|02 Worldbuilding/Places/The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
 
@@ -424,7 +424,7 @@ Legends speak of The Drowning Truth as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Drowning Truth]]
+- [[02_Worldbuilding/Places/The Drowning Truth|02 Worldbuilding/Places/The Drowning Truth]]
 
 <!-- enriched: true -->
 

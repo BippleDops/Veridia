@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pegasus-xmm-pegasus-xmm.svg)
 
-# [Pegasus](3-Mechanics\CLI\bestiary\celestial/pegasus-xmm.md)
+# [[3-Mechanics\CLI\bestiary\celestial/pegasus-xmm|Pegasus]]
 *Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Pegasus
@@ -83,7 +83,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"

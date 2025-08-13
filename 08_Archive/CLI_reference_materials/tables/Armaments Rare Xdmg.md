@@ -25,42 +25,42 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Ammunition, +2](/03_Mechanics/CLI/items/2-ammunition-xdmg.md) |
-| 04–07 | [Armor, +1](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 08–10 | [Armor of Resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 11–13 | [Armor of Vulnerability](/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg.md) |
-| 14–15 | [Arrow-Catching Shield](/03_Mechanics/CLI/items/arrow-catching-shield-xdmg.md) |
-| 16–18 | [Belt of Giant Strength (hill)](/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg.md) |
-| 19–20 | [Berserker Axe](/03_Mechanics/CLI/items/berserker-axe-xdmg.md) |
-| 21–22 | [Daern's Instant Fortress](/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) |
-| 23–25 | [Dagger of Venom](/03_Mechanics/CLI/items/dagger-of-venom-xdmg.md) |
-| 26–28 | [Dragon Slayer](/03_Mechanics/CLI/items/dragon-slayer-xdmg.md) |
-| 29–31 | [Elven Chain](/03_Mechanics/CLI/items/elven-chain-xdmg.md) |
-| 32–34 | [Enspelled Armor](/03_Mechanics/CLI/items/enspelled-armor-xdmg.md) (level 2 or 3 spell) |
-| 35–37 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (level 2 or 3 spell) |
-| 38–40 | [Flame Tongue](/03_Mechanics/CLI/items/flame-tongue-xdmg.md) |
-| 41–43 | [Giant Slayer](/03_Mechanics/CLI/items/giant-slayer-xdmg.md) |
-| 44–46 | [Horn of Blasting](/03_Mechanics/CLI/items/horn-of-blasting-xdmg.md) |
-| 47–48 | [Horn of Valhalla](/03_Mechanics/CLI/items/horn-of-valhalla-xdmg.md) ([brass](/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg.md) or [silver](/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md)) |
-| 49–51 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([protection](/03_Mechanics/CLI/items/ioun-stone-protection-xdmg.md)) |
-| 52–54 | [Mace of Disruption](/03_Mechanics/CLI/items/mace-of-disruption-xdmg.md) |
-| 55–57 | [Mace of Smiting](/03_Mechanics/CLI/items/mace-of-smiting-xdmg.md) |
-| 58–60 | [Mace of Terror](/03_Mechanics/CLI/items/mace-of-terror-xdmg.md) |
-| 61–63 | [Potion of Giant Strength (fire)](/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md) |
-| 64–66 | [Potion of Giant Strength](/03_Mechanics/CLI/items/potion-of-giant-strength-xdmg.md) ([frost](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md) or [stone](/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg.md)) |
-| 67–69 | [Potion of Heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md) |
-| 70–72 | [Potion of Invulnerability](/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg.md) |
-| 73–75 | [Ring of Protection](/03_Mechanics/CLI/items/ring-of-protection-xdmg.md) |
-| 76–78 | [Ring of the Ram](/03_Mechanics/CLI/items/ring-of-the-ram-xdmg.md) |
-| 79–81 | [Shield, +2](/03_Mechanics/CLI/items/2-shield-xdmg.md) |
-| 82–84 | [Shield of Missile Attraction](/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg.md) |
-| 85–86 | [Sun Blade](/03_Mechanics/CLI/items/sun-blade-xdmg.md) |
-| 87–88 | [Sword of Life Stealing](/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg.md) |
-| 89–90 | [Sword of Wounding](/03_Mechanics/CLI/items/sword-of-wounding-xdmg.md) |
-| 91–92 | [Tentacle Rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md) |
-| 93–94 | [Vicious Weapon](/03_Mechanics/CLI/items/vicious-weapon-xdmg.md) |
-| 95–97 | [Weapon, +2](/03_Mechanics/CLI/items/2-weapon-xdmg.md) |
-| 98–00 | [Wraps of Unarmed Power, +2](/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg.md) |
+| 01–03 | [[/03_Mechanics/CLI/items/2-ammunition-xdmg|Ammunition, +2]] |
+| 04–07 | [[/03_Mechanics/CLI/items/1-armor-xdmg|Armor, +1]] |
+| 08–10 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Armor of Resistance]] |
+| 11–13 | [[/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg|Armor of Vulnerability]] |
+| 14–15 | [[/03_Mechanics/CLI/items/arrow-catching-shield-xdmg|Arrow-Catching Shield]] |
+| 16–18 | [[/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg|Belt of Giant Strength (hill)]] |
+| 19–20 | [[/03_Mechanics/CLI/items/berserker-axe-xdmg|Berserker Axe]] |
+| 21–22 | [[/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg|Daern's Instant Fortress]] |
+| 23–25 | [[/03_Mechanics/CLI/items/dagger-of-venom-xdmg|Dagger of Venom]] |
+| 26–28 | [[/03_Mechanics/CLI/items/dragon-slayer-xdmg|Dragon Slayer]] |
+| 29–31 | [[/03_Mechanics/CLI/items/elven-chain-xdmg|Elven Chain]] |
+| 32–34 | [[/03_Mechanics/CLI/items/enspelled-armor-xdmg|Enspelled Armor]] (level 2 or 3 spell) |
+| 35–37 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (level 2 or 3 spell) |
+| 38–40 | [[/03_Mechanics/CLI/items/flame-tongue-xdmg|Flame Tongue]] |
+| 41–43 | [[/03_Mechanics/CLI/items/giant-slayer-xdmg|Giant Slayer]] |
+| 44–46 | [[/03_Mechanics/CLI/items/horn-of-blasting-xdmg|Horn of Blasting]] |
+| 47–48 | [[/03_Mechanics/CLI/items/horn-of-valhalla-xdmg|Horn of Valhalla]] ([[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|brass]] or [[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|silver]]) |
+| 49–51 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-protection-xdmg|protection]]) |
+| 52–54 | [[/03_Mechanics/CLI/items/mace-of-disruption-xdmg|Mace of Disruption]] |
+| 55–57 | [[/03_Mechanics/CLI/items/mace-of-smiting-xdmg|Mace of Smiting]] |
+| 58–60 | [[/03_Mechanics/CLI/items/mace-of-terror-xdmg|Mace of Terror]] |
+| 61–63 | [[/03_Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg|Potion of Giant Strength (fire)]] |
+| 64–66 | [[/03_Mechanics/CLI/items/potion-of-giant-strength-xdmg|Potion of Giant Strength]] ([[/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg|frost]] or [[/03_Mechanics/CLI/items/potion-of-stone-giant-strength-xdmg|stone]]) |
+| 67–69 | [[/03_Mechanics/CLI/items/potion-of-heroism-xdmg|Potion of Heroism]] |
+| 70–72 | [[/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg|Potion of Invulnerability]] |
+| 73–75 | [[/03_Mechanics/CLI/items/ring-of-protection-xdmg|Ring of Protection]] |
+| 76–78 | [[/03_Mechanics/CLI/items/ring-of-the-ram-xdmg|Ring of the Ram]] |
+| 79–81 | [[/03_Mechanics/CLI/items/2-shield-xdmg|Shield, +2]] |
+| 82–84 | [[/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg|Shield of Missile Attraction]] |
+| 85–86 | [[/03_Mechanics/CLI/items/sun-blade-xdmg|Sun Blade]] |
+| 87–88 | [[/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg|Sword of Life Stealing]] |
+| 89–90 | [[/03_Mechanics/CLI/items/sword-of-wounding-xdmg|Sword of Wounding]] |
+| 91–92 | [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|Tentacle Rod]] |
+| 93–94 | [[/03_Mechanics/CLI/items/vicious-weapon-xdmg|Vicious Weapon]] |
+| 95–97 | [[/03_Mechanics/CLI/items/2-weapon-xdmg|Weapon, +2]] |
+| 98–00 | [[/03_Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg|Wraps of Unarmed Power, +2]] |
 ^armaments-rare
 
 ## Player-Facing Summary

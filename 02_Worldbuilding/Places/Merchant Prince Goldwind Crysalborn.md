@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard|02 Worldbuilding/Places/Harbormaster Erik Saltbeard]]
 
 
 ## Connections

@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[02_Worldbuilding/Places/Temple Ward|02 Worldbuilding/Places/Temple Ward]]
 
 
 ## Connections

@@ -48,9 +48,9 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 - **Finn Gamma**: Third duplicate focusing on underground magical experiments
 - **[[Memory Merchant Zara Mindweave]]**: Information broker who first noticed the discrepancies
 - **Captain Sterling Wavebreak**: [[Kelp Highway Security Forces]] officer investigating merchant fraud
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage tracking magical signature anomalies
-- **Madame Mirage**: [[02_Worldbuilding/Lore/The Shadow Exchange]] leader coordinating the identity theft network
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Legitimate trader who's been competing with the fake Finns
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage tracking magical signature anomalies
+- **Madame Mirage**: [[02_Worldbuilding/Lore/The Shadow Exchange|02 Worldbuilding/Lore/The Shadow Exchange]] leader coordinating the identity theft network
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Legitimate trader who's been competing with the fake Finns
 - **The Duplicate Detector**: Mysterious figure who claims to know how to identify the real from fake
 - **Archivist Coral Memory**: Record keeper who has documentation of the original Finn
 - **Dr. Synthesis Echo**: Magical researcher studying consciousness transfer methods
@@ -85,7 +85,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 
 **Evidence Collection:**
 - **Transaction Records**: Pattern analysis reveals impossible travel times
-- **Magical Forensics**: [[02_Worldbuilding/Quests/Aquabyssos]] detects multiple overlapping aura signatures
+- **Magical Forensics**: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] detects multiple overlapping aura signatures
 - **Document Analysis**: Handwriting shows microscopic variations suggesting copying or forgery
 - **Inventory Tracking**: Items supposedly sold by Finn appear in multiple markets simultaneously
 - **Communication Logs**: Messages sent "from Finn" originate from different locations at impossible times
@@ -397,10 +397,10 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 - **[[The Cerulean Trench]]**: Where the original Finn disappeared
 
 ### Connected Adventures
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: The Shadow Exchange may be involved in other smuggling operations
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research connects to multiple investigations
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: The Shadow Exchange may be involved in other smuggling operations
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research connects to multiple investigations
 - **[[Memory Merchant Zara Mindweave]]**: Information broker with connections to consciousness-related crimes
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Legitimate trader who competes with criminal operations
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Legitimate trader who competes with criminal operations
 - **[[Admiral Thorne Blackwater]]**: Military concern about security implications
 - **[[The Crystal Festival]]**: Event where multiple criminal plots converge
 
@@ -456,9 +456,9 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 ## Connections
 
 - [[Ambush Point]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Smuggler]]
 
 ## Player-Facing Summary
@@ -479,7 +479,7 @@ Legends speak of Traveling Merchant Finn as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Ambush Point|02 Worldbuilding/Quests/Ambush Point]]
 - [[The Crystal Festival]]
 - [[Admiral Thorne Blackwater]]
 - [[Abyssos Prime]]

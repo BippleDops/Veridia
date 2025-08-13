@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart|02 Worldbuilding/People/Commander Typhoon Blackheart]]
 
 
 ## Connections

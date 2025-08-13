@@ -284,7 +284,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - Diplomatic agreements with entities from [[The Hadal Depths]]
 - Methods for severing connection to [[Aethermoor]] permanently
 - Protocols for awakening ancient [[Leviathan]] guardians
-- Doomsday device targeting the [[02_Worldbuilding/Lore/The World Tree]] roots
+- Doomsday device targeting the [[02_Worldbuilding/Lore/The World Tree|02 Worldbuilding/Lore/The World Tree]] roots
 - Emergency alliance treaties with [[The Crystal Throne]]
 - Backup consciousness storage for critical personnel in [[Memory Farmers]] archives
 
@@ -358,7 +358,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Intelligence Hub**: Merchants provide information about activities throughout [[Aquabyssos]]
 **Economic Protection**: Military ensures safe passage for critical trade routes
 
-### [[02_Worldbuilding/Lore/The Coral Gardens]]
+### [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]]
 **Recruitment**: Source of new personnel with natural aquatic abilities
 **Strategic Resources**: Coral-based construction materials and biological defenses
 **Cultural Relations**: Maintaining positive relationships with nature-aligned communities
@@ -468,7 +468,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - [[Abyssos Prime Docks]]
 - [[Blood Current Express]]
 - [[Merchant Viktor Geargrind]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[Royal Palace]]
 - [[Seamstress Coral Silkweaver]]
 - [[The Crystal Wardens]]
@@ -481,8 +481,8 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - [[The Neutral Ground]]
 - [[Void Currents]]
 - [[Aether Crystals]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -500,7 +500,7 @@ Legends speak of Azure Citadel as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Azure Citadel|02 Worldbuilding/Places/Azure Citadel]]
 
 <!-- enriched: true -->
 riched: true -->

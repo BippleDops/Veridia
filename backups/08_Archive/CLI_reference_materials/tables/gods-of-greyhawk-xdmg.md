@@ -23,33 +23,33 @@ world: Both
 
 | Name and Epithet | Home Plane | Typical Worshipers | Symbol |
 |------------------|------------|--------------------|--------|
-| [Beory](/03_Mechanics/CLI/deities/greyhawk-beory-xdmg.md), Heart of Oerth* | "Material Plane" | Farmers, herders | Green disk |
-| [Berei](/03_Mechanics/CLI/deities/greyhawk-berei-xdmg.md) of the Hearth | "Bytopia" | Families, farmers | Sheaf of wheat stalks |
-| [Boccob](/03_Mechanics/CLI/deities/greyhawk-boccob-xdmg.md) the Uncaring, Archmage of the Gods* | "Outlands" | Sages, spellcasters, seers | Eye within a pentagram |
-| [Celestian](/03_Mechanics/CLI/deities/greyhawk-celestian-xdmg.md), the Far Wanderer | "Astral Plane" | Wanderers, astronomers | Arc of seven stars inside a circle |
-| [Cuthbert](/03_Mechanics/CLI/deities/greyhawk-cuthbert-xdmg.md) of the Cudgel | "Arcadia" | Practical, honest folk | Circle at the center of a starburst of lines |
-| [Ehlonna](/03_Mechanics/CLI/deities/greyhawk-ehlonna-xdmg.md) of the Forests | "Beastlands" | Hunters, foragers | Unicorn horn |
-| [Erythnul](/03_Mechanics/CLI/deities/greyhawk-erythnul-xdmg.md), the Many | "Pandemonium" | Raiders, bandits, berserkers | Blood drop |
-| [Fharlanghn](/03_Mechanics/CLI/deities/greyhawk-fharlanghn-xdmg.md), the Dweller on the Horizon | "Outlands" | Travelers | Circle crossed by a curved horizon line |
-| [Heironeous](/03_Mechanics/CLI/deities/greyhawk-heironeous-xdmg.md) the Invincible | "Mount Celestia" | Knights, soldiers | Lightning bolt |
-| [Hextor](/03_Mechanics/CLI/deities/greyhawk-hextor-xdmg.md), Scourge of Battle | "Acheron" | Soldiers, tyrants | Six down-pointing arrows in a fan |
-| [Incabulos](/03_Mechanics/CLI/deities/greyhawk-incabulos-xdmg.md), the Black Rider* | "Hades" | Necromancers, those who seek to ward off illness | Reptilian eye within a horizontal diamond |
-| [Istus](/03_Mechanics/CLI/deities/greyhawk-istus-xdmg.md), Weaver of Our Fate* | "Mechanus" | Seers, advisers | Spindle with three strands |
-| [Iuz](/03_Mechanics/CLI/deities/greyhawk-iuz-xdmg.md) the Evil† | "Material Plane" | His subjects and allies | Grinning human skull |
-| [Kord](/03_Mechanics/CLI/deities/greyhawk-kord-xdmg.md), the Brawler | "Ysgard" | Athletes, berserkers | Spears and maces radiating from a point |
-| [Nerull](/03_Mechanics/CLI/deities/greyhawk-nerull-xdmg.md), the Reaper* | "Carceri" | Murderers, necromancers | Skull with a scythe |
-| [Obad-Hai](/03_Mechanics/CLI/deities/greyhawk-obad-hai-xdmg.md), the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
-| [Olidammara](/03_Mechanics/CLI/deities/greyhawk-olidammara-xdmg.md), the Laughing Rogue | "Ysgard" | Revelers, gamblers, pranksters | Laughing mask |
-| [Pelor](/03_Mechanics/CLI/deities/greyhawk-pelor-xdmg.md), the Radiant Sun* | "Elysium" | Healers, the compassionate | Sun |
-| [Pholtus](/03_Mechanics/CLI/deities/greyhawk-pholtus-xdmg.md) of the Blinding Light | "Arcadia" | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |
-| [Ralishaz](/03_Mechanics/CLI/deities/greyhawk-ralishaz-xdmg.md), the Unlooked For | "Limbo" | Gamblers | Three bone fate-casting sticks |
-| [Rao](/03_Mechanics/CLI/deities/greyhawk-rao-xdmg.md), the Mediator* | "Mount Celestia" | Mediators, sages, scientists | White heart |
-| [Syrul](/03_Mechanics/CLI/deities/greyhawk-syrul-xdmg.md) Oathbreaker | "Gehenna" | Liars, charlatans, traitors | Forked tongue |
-| [Tharizdun](/03_Mechanics/CLI/deities/greyhawk-tharizdun-xdmg.md), the Eater of Worlds | Imprisoned in a demiplane | Nihilistic cultists | Spiral rune |
-| [Trithereon](/03_Mechanics/CLI/deities/greyhawk-trithereon-xdmg.md), the Summoner | "Arborea" | Rebels, individualists | Triskelion |
-| [Ulaa](/03_Mechanics/CLI/deities/greyhawk-ulaa-xdmg.md), the Bejeweled | "Arcadia" | Miners, jewelers, quarriers | Ruby-hearted mountain |
-| [Vecna](/03_Mechanics/CLI/deities/greyhawk-vecna-xdmg.md), the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
-| [Wee Jas](/03_Mechanics/CLI/deities/greyhawk-wee-jas-xdmg.md), the Witch | "Acheron" | Spellcasters, advisers | Red skull in front of fireball |
+| [[/03_Mechanics/CLI/deities/greyhawk-beory-xdmg|Beory]], Heart of Oerth* | "Material Plane" | Farmers, herders | Green disk |
+| [[/03_Mechanics/CLI/deities/greyhawk-berei-xdmg|Berei]] of the Hearth | "Bytopia" | Families, farmers | Sheaf of wheat stalks |
+| [[/03_Mechanics/CLI/deities/greyhawk-boccob-xdmg|Boccob]] the Uncaring, Archmage of the Gods* | "Outlands" | Sages, spellcasters, seers | Eye within a pentagram |
+| [[/03_Mechanics/CLI/deities/greyhawk-celestian-xdmg|Celestian]], the Far Wanderer | "Astral Plane" | Wanderers, astronomers | Arc of seven stars inside a circle |
+| [[/03_Mechanics/CLI/deities/greyhawk-cuthbert-xdmg|Cuthbert]] of the Cudgel | "Arcadia" | Practical, honest folk | Circle at the center of a starburst of lines |
+| [[/03_Mechanics/CLI/deities/greyhawk-ehlonna-xdmg|Ehlonna]] of the Forests | "Beastlands" | Hunters, foragers | Unicorn horn |
+| [[/03_Mechanics/CLI/deities/greyhawk-erythnul-xdmg|Erythnul]], the Many | "Pandemonium" | Raiders, bandits, berserkers | Blood drop |
+| [[/03_Mechanics/CLI/deities/greyhawk-fharlanghn-xdmg|Fharlanghn]], the Dweller on the Horizon | "Outlands" | Travelers | Circle crossed by a curved horizon line |
+| [[/03_Mechanics/CLI/deities/greyhawk-heironeous-xdmg|Heironeous]] the Invincible | "Mount Celestia" | Knights, soldiers | Lightning bolt |
+| [[/03_Mechanics/CLI/deities/greyhawk-hextor-xdmg|Hextor]], Scourge of Battle | "Acheron" | Soldiers, tyrants | Six down-pointing arrows in a fan |
+| [[/03_Mechanics/CLI/deities/greyhawk-incabulos-xdmg|Incabulos]], the Black Rider* | "Hades" | Necromancers, those who seek to ward off illness | Reptilian eye within a horizontal diamond |
+| [[/03_Mechanics/CLI/deities/greyhawk-istus-xdmg|Istus]], Weaver of Our Fate* | "Mechanus" | Seers, advisers | Spindle with three strands |
+| [[/03_Mechanics/CLI/deities/greyhawk-iuz-xdmg|Iuz]] the Evil† | "Material Plane" | His subjects and allies | Grinning human skull |
+| [[/03_Mechanics/CLI/deities/greyhawk-kord-xdmg|Kord]], the Brawler | "Ysgard" | Athletes, berserkers | Spears and maces radiating from a point |
+| [[/03_Mechanics/CLI/deities/greyhawk-nerull-xdmg|Nerull]], the Reaper* | "Carceri" | Murderers, necromancers | Skull with a scythe |
+| [[/03_Mechanics/CLI/deities/greyhawk-obad-hai-xdmg|Obad-Hai]], the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
+| [[/03_Mechanics/CLI/deities/greyhawk-olidammara-xdmg|Olidammara]], the Laughing Rogue | "Ysgard" | Revelers, gamblers, pranksters | Laughing mask |
+| [[/03_Mechanics/CLI/deities/greyhawk-pelor-xdmg|Pelor]], the Radiant Sun* | "Elysium" | Healers, the compassionate | Sun |
+| [[/03_Mechanics/CLI/deities/greyhawk-pholtus-xdmg|Pholtus]] of the Blinding Light | "Arcadia" | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |
+| [[/03_Mechanics/CLI/deities/greyhawk-ralishaz-xdmg|Ralishaz]], the Unlooked For | "Limbo" | Gamblers | Three bone fate-casting sticks |
+| [[/03_Mechanics/CLI/deities/greyhawk-rao-xdmg|Rao]], the Mediator* | "Mount Celestia" | Mediators, sages, scientists | White heart |
+| [[/03_Mechanics/CLI/deities/greyhawk-syrul-xdmg|Syrul]] Oathbreaker | "Gehenna" | Liars, charlatans, traitors | Forked tongue |
+| [[/03_Mechanics/CLI/deities/greyhawk-tharizdun-xdmg|Tharizdun]], the Eater of Worlds | Imprisoned in a demiplane | Nihilistic cultists | Spiral rune |
+| [[/03_Mechanics/CLI/deities/greyhawk-trithereon-xdmg|Trithereon]], the Summoner | "Arborea" | Rebels, individualists | Triskelion |
+| [[/03_Mechanics/CLI/deities/greyhawk-ulaa-xdmg|Ulaa]], the Bejeweled | "Arcadia" | Miners, jewelers, quarriers | Ruby-hearted mountain |
+| [[/03_Mechanics/CLI/deities/greyhawk-vecna-xdmg|Vecna]], the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
+| [[/03_Mechanics/CLI/deities/greyhawk-wee-jas-xdmg|Wee Jas]], the Witch | "Acheron" | Spellcasters, advisers | Red skull in front of fireball |
 ^gods-of-greyhawk
 
 *Greater god

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-construct-spirit-xphb-construct-spirit-xphb.svg)
 
-# [Construct Spirit](3-Mechanics\CLI\bestiary\construct/construct-spirit-xphb.md)
+# [[3-Mechanics\CLI\bestiary\construct/construct-spirit-xphb|Construct Spirit]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "traits":
@@ -55,7 +55,7 @@ world: Both
   - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
       \ can target it with magical energy if the spirit can see it. Wisdom Saving\
       \ Throw: DC equals your spell save DC, the target. Failure: Until the start\
-      \ of its next turn, the target can't make [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack),\
+      \ of its next turn, the target can't make [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and its Speed is halved."
     "name": "Stony Lethargy (Stone Only)"
 "actions":
@@ -68,7 +68,7 @@ world: Both
 "reactions":
   - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
       \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ up to half its Speed toward that creature without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Berserk Lashing (Clay Only)"
 "source":
   - "XPHB"

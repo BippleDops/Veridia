@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Places/The Sinking Atoll|02 Worldbuilding/Places/The Sinking Atoll]]
 
 
 ## Connections

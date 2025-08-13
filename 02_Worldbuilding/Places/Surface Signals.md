@@ -27,7 +27,7 @@ world: Aquabyssos
 
 # Surface Signals
 
-![Surface Signals Portrait](04_Resources/Assets/Art/Places/Surface_Signals.png)
+![[04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
 
 *The crackling voices from the world above the waves*
 
@@ -441,11 +441,11 @@ Surface Signals serves as:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Groups/The Signal Keepers]]
-- [[02_Worldbuilding/Lore/The Frequency Wars]]
-- [[02_Worldbuilding/Places/The Twilight Reaches]]
-- [[03_Mechanics/Communication_Systems]]
-- [[02_Worldbuilding/Lore/Surface World Theories]]
+- [[02_Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
+- [[02_Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
+- [[02_Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
+- [[03_Mechanics/Communication_Systems|03 Mechanics/Communication Systems]]
+- [[02_Worldbuilding/Lore/Surface World Theories|02 Worldbuilding/Lore/Surface World Theories]]
 
 *"In Surface Signals, we hear the voices of worlds that were, worlds that might be, and worlds that never should exist—all calling to us through the crushing darkness of the deep."*
 
@@ -459,6 +459,6 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Signals]]
+- [[02_Worldbuilding/Places/Surface Signals|02 Worldbuilding/Places/Surface Signals]]
 
 <!-- enriched: true -->

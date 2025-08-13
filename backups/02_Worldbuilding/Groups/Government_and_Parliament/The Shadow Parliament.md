@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled|02 Worldbuilding/Places/Quest The Truth Unveiled]]
 
 
 ## Connections

@@ -37,7 +37,7 @@ world: Both Worlds
 *The Ultimate Conspiracy That Determines the Fate of Two Worlds*
 
 > *"In the end, all conspiracies converge into a single moment of ultimate decision. Every hidden plot, every secret organization, every whispered plan has been building toward this: The Final Choice. Will we preserve what remains, transform everything, or risk total annihilation to create something entirely new? The answer lies not with gods or kings, but with those who have seen the truth behind all the lies."*
-> — [[02_Worldbuilding/Quests/Aquabyssos]], The Hidden Keeper of Final Secrets
+> — [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], The Hidden Keeper of Final Secrets
 
 ## Overview
 
@@ -180,7 +180,7 @@ The conspiracy is directed by the **Convergence Council**, a collective of entit
 - Controls networks of former believers and power-seeking individuals
 - Offers path leading toward renewed divine hierarchy
 
-**[[02_Worldbuilding/Quests/Aquabyssos]] - The Memory Keeper:**
+**[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - The Memory Keeper:**
 - Custodian of dangerous knowledge that threatens reality stability
 - Preserves information about the conspiracy while serving its goals
 - Controls academic institutions and knowledge-hoarding organizations
@@ -405,7 +405,7 @@ Perhaps most importantly, The Final Choice requires moral clarity about:
 - [[Silverscale Emergency Bunker]] - Fallback location for conspiracy coordination
 
 ### Important Figures
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Keeper of Final Choice knowledge and conspiracy historian
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Keeper of Final Choice knowledge and conspiracy historian
 - [[Director Hadrian Silverscale]] - Economic control agent unknowingly serving larger plan
 - [[Queen Seraphina Lumengarde]] - Cultural manipulation agent preparing population for change
 - [[The Crimson Sage]] - Divine remnant seeking restoration or revenge through Choice outcome
@@ -455,7 +455,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
 - [[Aetheron]]
 - [[Memory Alteration Consequences]]
 - [[Reality Merge Zones]]

@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Command](/03_Mechanics/CLI/spells/command-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] at class level 3
+- [[/03_Mechanics/CLI/spells/command-xphb "XPHB"|Command]] at class level 3
 
 ## 2nd Level
 
-- [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
-- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/scorching-ray-xphb "XPHB"|Scorching Ray]] at class level 3
+- [[/03_Mechanics/CLI/spells/suggestion-xphb "XPHB"|Suggestion]] at class level 3
 
 ## 3rd Level
 
-- [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md "XPHB") at class level 3
-- [Stinking Cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/fireball-xphb "XPHB"|Fireball]] at class level 3
+- [[/03_Mechanics/CLI/spells/stinking-cloud-xphb "XPHB"|Stinking Cloud]] at class level 3
 
 ## 4th Level
 
-- [Fire Shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") at class level 3
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/fire-shield-xphb "XPHB"|Fire Shield]] at class level 3
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]] at class level 3
 
 ## 5th Level
 
-- [Geas](/03_Mechanics/CLI/spells/geas-xphb.md "XPHB") at class level 3
-- [Insect Plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/geas-xphb "XPHB"|Geas]] at class level 3
+- [[/03_Mechanics/CLI/spells/insect-plague-xphb "XPHB"|Insect Plague]] at class level 3
 
 ## Player-Facing Summary
 

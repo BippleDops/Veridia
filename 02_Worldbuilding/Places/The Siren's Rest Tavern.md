@@ -90,7 +90,7 @@ Smaller rooms designed for intimate conversations or romantic encounters. Despit
 The top floor serves as Morgana's private domain and the tavern's intelligence center. Officially, it's her personal residence and office space. In reality, it's a sophisticated surveillance and coordination hub for maritime criminal activities throughout the region.
 
 **The Map Room**
-Contains the most comprehensive collection of nautical charts in Port Crystalfall, including detailed maps of shipping routes, underwater hazards, and the locations of known [[02_Worldbuilding/Places/Trade Union]] deposits. Many of these charts show information not available to legitimate navigators, marking hidden bases, safe harbors, and profitable raiding locations.
+Contains the most comprehensive collection of nautical charts in Port Crystalfall, including detailed maps of shipping routes, underwater hazards, and the locations of known [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]] deposits. Many of these charts show information not available to legitimate navigators, marking hidden bases, safe harbors, and profitable raiding locations.
 
 **The Crystal Chamber**
 A magically warded room containing Morgana's communication network - a collection of synchronized shadow crystals that allow her to maintain contact with affiliated operations throughout Aethermoor. The crystals are arranged in a circular pattern around a central focusing stone that amplifies signals and filters out unwanted interference.
@@ -198,7 +198,7 @@ Using her accumulated wealth and reputation, she won the tavern in the legendary
 ### The Core Staff
 
 **"Driftwood" Danny McReary** - *Bartender and Information Broker*
-A grizzled former sailor who lost his right arm to a [[02_Worldbuilding/Places/Trade Union]]-corrupted sea creature. Danny can mix any drink known to maritime culture and several that probably shouldn't exist. He maintains the tavern's most extensive collection of rumors, gossip, and useful intelligence, trading information as skillfully as he pours ale.
+A grizzled former sailor who lost his right arm to a [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]]-corrupted sea creature. Danny can mix any drink known to maritime culture and several that probably shouldn't exist. He maintains the tavern's most extensive collection of rumors, gossip, and useful intelligence, trading information as skillfully as he pours ale.
 
 **The Tidecaller Twins - Reef and Coral** - *Servers and Security*
 Identical twin sisters of sea elf heritage who handle most of the tavern's day-to-day service. Despite their diminutive appearance, both are skilled fighters trained by Morgana personally. They possess an almost supernatural ability to anticipate trouble before it starts, often defusing situations through strategic drink placement and careful crowd management.
@@ -218,7 +218,7 @@ A thin, nondescript man who seems to blend into crowds and disappear from memory
 Leader of the most successful pirate crew currently operating out of Port Crystalfall. Rodriguez maintains an uneasy truce with local authorities by providing intelligence about larger threats in exchange for limited operational freedom. She typically occupies Booth 7 (The Anchor) every Thursday evening.
 
 **The Gentleman Scholar**
-A well-dressed individual of unclear identity who appears periodically to purchase specific types of information. Pays in rare coins from across both realms and always knows more about current events than seems reasonable for a tavern patron. Some suspect he represents the [[02_Worldbuilding/Lore/The Crystal Council]], while others believe he works for [[The Forgotten Court]].
+A well-dressed individual of unclear identity who appears periodically to purchase specific types of information. Pays in rare coins from across both realms and always knows more about current events than seems reasonable for a tavern patron. Some suspect he represents the [[02_Worldbuilding/Lore/The Crystal Council|02 Worldbuilding/Lore/The Crystal Council]], while others believe he works for [[The Forgotten Court]].
 
 **"Crosscurrent" Sally**
 A smuggler specializing in moving people rather than cargo. Sally helps individuals disappear or assume new identities, and she maintains contacts throughout both legitimate and criminal communities. Her services are expensive but reliable, and she has never lost a client to pursuit or betrayal.
@@ -247,7 +247,7 @@ A retired lighthouse keeper who comes to the tavern every evening to drink exact
 **Signature Drinks**
 
 **The Siren's Call** (5 sp)
-A potent blue-green cocktail made with smuggled spirits and a dash of diluted [[02_Worldbuilding/Places/Trade Union]] essence. Provides enhanced night vision for 2d4 hours but requires a DC 12 Constitution save or suffer one level of exhaustion the next day.
+A potent blue-green cocktail made with smuggled spirits and a dash of diluted [[02_Worldbuilding/Places/Trade Union|02 Worldbuilding/Places/Trade Union]] essence. Provides enhanced night vision for 2d4 hours but requires a DC 12 Constitution save or suffer one level of exhaustion the next day.
 
 **Blackwater's Revenge** (3 sp)
 A dark rum mixture that Morgana claims contains water from the deepest ocean trenches. Provides temporary resistance to psychic damage for 1 hour.
@@ -334,13 +334,13 @@ Monthly contests where patrons compete to tell the most entertaining, outrageous
 
 3. **Memory Plague** - Sailors returning from deep water report experiencing memories that aren't their own, particularly involving ancient underwater civilizations.
 
-4. **Council Corruption** - At least three [[02_Worldbuilding/Lore/The Crystal Council]] members are suspected of involvement in illegal crystal trafficking.
+4. **Council Corruption** - At least three [[02_Worldbuilding/Lore/The Crystal Council|02 Worldbuilding/Lore/The Crystal Council]] members are suspected of involvement in illegal crystal trafficking.
 
 5. **The Deep Trader** - An Aquabyssos merchant has been seeking surface agents for a major cross-realm operation involving "items of historical significance."
 
 6. **Warden Investigation** - The [[Crystal Wardens]] are conducting a comprehensive review of shipping manifests from the past six months.
 
-7. **Pirate Alliance** - Several independent pirate crews are considering forming a confederation to challenge the [[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]'s dominance.
+7. **Pirate Alliance** - Several independent pirate crews are considering forming a confederation to challenge the [[02_Worldbuilding/Groups/The Shadowhawk Syndicate|02 Worldbuilding/Groups/The Shadowhawk Syndicate]]'s dominance.
 
 8. **Haunted Waters** - Multiple vessels report spectral encounters near the site of a major naval battle from decades past.
 
@@ -422,7 +422,7 @@ A protection racket is targeting businesses in the port district, including the 
 Patrons of the tavern are losing specific memories - always related to valuable information or dangerous secrets. The party must track down a rogue memory mage while dealing with clients who can't remember what they've lost.
 
 **Syndicate War**
-The [[02_Worldbuilding/Groups/The Shadowhawk Syndicate]] and a rival organization engage in open warfare, using the Siren's Rest as neutral ground for negotiations. The party becomes involved when the talks break down and they must prevent the conflict from consuming the entire port district.
+The [[02_Worldbuilding/Groups/The Shadowhawk Syndicate|02 Worldbuilding/Groups/The Shadowhawk Syndicate]] and a rival organization engage in open warfare, using the Siren's Rest as neutral ground for negotiations. The party becomes involved when the talks break down and they must prevent the conflict from consuming the entire port district.
 
 **The Crystal Conspiracy**
 Evidence suggests that several Crystal Council members are using the tavern as a meeting place for illegal activities. The party must gather proof while avoiding detection by both corrupt officials and their criminal partners.
@@ -564,7 +564,7 @@ Summer represents peak activity for both legitimate and criminal maritime operat
 
 ### Faction Relationships
 
-**[[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]**
+**[[02_Worldbuilding/Groups/The Shadowhawk Syndicate|02 Worldbuilding/Groups/The Shadowhawk Syndicate]]**
 The tavern serves as an unofficial neutral meeting ground for syndicate operations. Morgana maintains careful independence while providing services that benefit the organization's activities.
 
 **[[Crystal Wardens]]**
@@ -613,7 +613,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern|02 Worldbuilding/Places/The Siren's Rest Tavern]]
 
 <!-- enriched: true -->
 - [[Crystal Wardens]]

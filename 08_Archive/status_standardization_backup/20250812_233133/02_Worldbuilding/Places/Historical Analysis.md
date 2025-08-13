@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Historical Analysis]]
+- [[02_Worldbuilding/Places/Historical Analysis|02 Worldbuilding/Places/Historical Analysis]]
 
 <!-- enriched: true -->
 

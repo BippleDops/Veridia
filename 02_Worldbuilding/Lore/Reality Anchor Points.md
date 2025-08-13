@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
 
 
 ## Connections

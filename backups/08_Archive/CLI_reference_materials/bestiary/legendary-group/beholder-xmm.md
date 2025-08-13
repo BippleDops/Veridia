@@ -28,8 +28,8 @@ _Source: Monster Manual (2024)_
 
 The region containing a beholder's lair is twisted by its presence, creating the following effects:
 
-- **Scopophobia.** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the beholder and its allies) that finishes a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) while within 1 mile of the lair must succeed on a DC 13 Wisdom saving throw or gain no benefit from that rest.  
-- **Warping Terrain.** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md) and rolls a 1 has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.  
+- **Scopophobia.** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the beholder and its allies) that finishes a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]] while within 1 mile of the lair must succeed on a DC 13 Wisdom saving throw or gain no benefit from that rest.  
+- **Warping Terrain.** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]] and rolls a 1 has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition.  
 
 If the beholder dies or moves its lair elsewhere, these effects end immediately.
 

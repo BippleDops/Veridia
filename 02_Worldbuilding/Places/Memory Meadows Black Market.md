@@ -151,7 +151,7 @@ This market explores themes of identity, the value of experience, and the ethics
 - [[Memory Farmer Thane]]
 - [[Diplomatic Tides]]
 - [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 
 ## History
@@ -193,6 +193,6 @@ Legends speak of Memory Meadows Black Market as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- [[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]
 
 <!-- enriched: true -->

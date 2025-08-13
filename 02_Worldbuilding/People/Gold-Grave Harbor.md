@@ -18,7 +18,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
+- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
 
 ## Player-Facing Summary
 

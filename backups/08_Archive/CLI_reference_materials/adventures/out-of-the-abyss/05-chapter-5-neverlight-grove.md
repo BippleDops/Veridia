@@ -31,11 +31,11 @@ However, this particular myconid haven isn't as safe as it might appear. One of 
 
 Because so few Underdark travelers have ever stumbled upon Neverlight Grove, it rarely appears on any maps. Nearly all the routes leading to it are dangerous and difficult to navigate, although many streams flow into and through the grove. If the characters enter the general area of the grove and stay close to—or travel along—these waterways, they eventually find their way here. Alternatively, three of the party's companions can guide them to Neverlight Grove.
 
-[Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md), the characters' fellow prisoner from chapter 1, is a myconid sprout from the grove, captured by the drow before Zuggtmoy began exerting her influence over the myconids here. Although not knowledgeable about the Underdark, [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) has an innate sense of where its home lies and can guide the party toward it. Upon its return, [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) is greatly disturbed by the changes it encounters in the grove. It isn't well acquainted with either sovereign, but finds itself drawn toward Basidia.
+[[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]], the characters' fellow prisoner from chapter 1, is a myconid sprout from the grove, captured by the drow before Zuggtmoy began exerting her influence over the myconids here. Although not knowledgeable about the Underdark, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] has an innate sense of where its home lies and can guide the party toward it. Upon its return, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is greatly disturbed by the changes it encounters in the grove. It isn't well acquainted with either sovereign, but finds itself drawn toward Basidia.
 
-The former drow prisoner [Sarith Kzekarit](/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota.md) might also become the party's guide, owing to his extensive knowledge of the Underdark. Though the party doesn't realize it, Sarith is infected with Zuggtmoy's spores, which now control his mind. He tries to steer the party toward Neverlight Grove, citing it as a place of safety in which the adventurers can decide their next move. In reality, he unknowingly leads the characters to become slaves of the Demon Queen of Fungi.
+The former drow prisoner [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]] might also become the party's guide, owing to his extensive knowledge of the Underdark. Though the party doesn't realize it, Sarith is infected with Zuggtmoy's spores, which now control his mind. He tries to steer the party toward Neverlight Grove, citing it as a place of safety in which the adventurers can decide their next move. In reality, he unknowingly leads the characters to become slaves of the Demon Queen of Fungi.
 
-If the characters already visited Gracklstugh, Sarith might have gone with the infected myconids in the Whorlstone Tunnels, leaving [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) with the party. A myconid sprout traveling with a troupe of infected myconids, [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) has avoided infection and can also lead characters to the grove. He also expresses concern that the corrupted spores of its previous traveling companions might have also infected its home.
+If the characters already visited Gracklstugh, Sarith might have gone with the infected myconids in the Whorlstone Tunnels, leaving [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] with the party. A myconid sprout traveling with a troupe of infected myconids, [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] has avoided infection and can also lead characters to the grove. He also expresses concern that the corrupted spores of its previous traveling companions might have also infected its home.
 
 ### Random Encounters
 
@@ -49,8 +49,8 @@ Characters traveling to and from Neverlight Grove encounter evidence of Zuggtmoy
 |-----------|-----------|
 | 1–8 | No encounter |
 | 9–16 | Fungi patch (see below) |
-| 17–18 | `d4` [nothics](/03_Mechanics/CLI/bestiary/aberration/nothic-xmm.md) |
-| 19–20 | 1 [chasme](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md) demon crawling on the ceiling or 1 [vrock](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md) demon perched on a ledge (your choice) |
+| 17–18 | `d4` [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|nothics]] |
+| 19–20 | 1 [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|chasme]] demon crawling on the ceiling or 1 [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrock]] demon perched on a ledge (your choice) |
 ^encounter
 
 #### Fungi Patch
@@ -67,22 +67,22 @@ See "Fungi of the Underdark" in chapter 2 for more information on edible and exo
 |-----------|--------------------|
 | 1 | `d6` barrelstalks |
 | 2 | `2d6` bluecaps |
-| 3 | `d3` [carrion crawlers](/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) |
-| 4 | `d4` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md)* (see appendix C) and `d4` [quaggoth spore servants](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md)* |
+| 3 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawlers]] |
+| 4 | `d4` [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]]* (see appendix C) and `d4` [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]]* |
 | 5 | Fire lichen growing near a thermal vent |
-| 6 | `3d6` [giant fire beetles](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) |
-| 7 | `d4` [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md)* |
+| 6 | `3d6` [[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm|giant fire beetles]] |
+| 7 | `d4` [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]]* |
 | 8 | `d6` nightlights |
-| 9 | 1 [otyugh](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) hidden under a mound of offal |
+| 9 | 1 [[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm|otyugh]] hidden under a mound of offal |
 | 10 | Patch of brown mold (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*) |
-| 11 | `d4` [awakened zurkhwoods](/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md)* (see appendix C) |
+| 11 | `d4` [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|awakened zurkhwoods]]* (see appendix C) |
 | 12 | `2d4` sheets of ripplebark growing on the walls |
-| 13 | `d4` [shriekers](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md)* |
+| 13 | `d4` [[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm|shriekers]]* |
 | 14 | `2d4` timmasks |
 | 15 | `d6` tongues of madness |
 | 16 | `2d6` torchstalks |
 | 17 | `2d6` trillimacs |
-| 18 | `d4` [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 18 | `d4` [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]] |
 | 19 | `2d4` waterorbs growing near a freshwater spring |
 | 20 | `d4` zurkhwoods* |
 ^fungi-or-creatures
@@ -101,11 +101,11 @@ These giant animated mushrooms guard the fungi patch, attacking if they are harm
 
 ##### Shriekers
 
-The shrieking of these fungi has a 50 percent of attracting a nearby [chasme](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md) or [vrock](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md) demon (your choice), which arrives `1d6 + 4` rounds later and fights until killed.
+The shrieking of these fungi has a 50 percent of attracting a nearby [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|chasme]] or [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrock]] demon (your choice), which arrives `1d6 + 4` rounds later and fights until killed.
 
 ##### Zurkhwoods
 
-There is a 50 percent chance that one of the zurkhwoods has `1d4 + 4` [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) nesting in its cap. The stirges are drawn to light sources.
+There is a 50 percent chance that one of the zurkhwoods has `1d4 + 4` [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]] nesting in its cap. The stirges are drawn to light sources.
 
 ## Arriving at the Grove
 
@@ -117,7 +117,7 @@ On the other side of this exotic forest, the cavern narrows into a ravine. In a 
 
 ### Drow Pursuit in Neverlight Grove
 
-Though the characters don't know it yet, a [drow scout](/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota.md) patrol arrived in Neverlight Grove ahead of them, anticipating that the escaped adventurers might seek shelter among the myconids. Unfortunately for the drow scouts, an encounter with one of Zuggtmoy's servants led them to a grisly fate. See area 5, "The Garden of Welcome," for more information.
+Though the characters don't know it yet, a [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|drow scout]] patrol arrived in Neverlight Grove ahead of them, anticipating that the escaped adventurers might seek shelter among the myconids. Unfortunately for the drow scouts, an encounter with one of Zuggtmoy's servants led them to a grisly fate. See area 5, "The Garden of Welcome," for more information.
 
 While the characters remain in Neverlight Grove, their pursuit level remains unchanged, as Ilvara waits to hear from the missing patrol. The drow pursuit resumes when the party leaves the grove. See chapter 2 for more information.
 
@@ -133,18 +133,18 @@ The adventurers might interact with the following characters and creatures in Ne
 | **Sovereign Basidia** | The other ruler of Neverlight Grove, free of Zuggtmoy's influence and suspicious of Phylo |
 | **Loobamub** | Leader of the Circle of Hunters, loyal to Basidia, with tasks for the party |
 | **Rasharoo** | Leader of the Circle of Explorers and loyal to Basidia; knows of routes to the surface world |
-| [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) | Mutated leader of the Circle of Masters and Zuggtmoy's monstrous servant |
-| **Xinaya** | [Drow scout](/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota.md) trapped in a horrible fate |
+| [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] | Mutated leader of the Circle of Masters and Zuggtmoy's monstrous servant |
+| **Xinaya** | [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|Drow scout]] trapped in a horrible fate |
 
 ### A Day in Neverlight Grove
 
 The myconid way of life is simple, contemplative, and cyclical. Myconids work for eight hours farming their fungi fields, scouting for resources, and maintaining their defenses. After their labors, they spend eight hours in telepathic communion with each other in what they call "melding." They then rest for eight hours before starting the cycle anew.
 
-Many of the myconids in the grove are more extroverted than might be expected of their normally shy species. Characters who communicate with the myconids by way of their rapport spores note that the creatures seem to be preparing for a celebration of some sort, proclaiming "The day of joy is nigh!" and exhorting others to "Rejoice in the true union that will meld us all!" These are the myconids affected by Zuggtmoy, and their behavior is cause for concern among the unaffected, including [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) and its allies.
+Many of the myconids in the grove are more extroverted than might be expected of their normally shy species. Characters who communicate with the myconids by way of their rapport spores note that the creatures seem to be preparing for a celebration of some sort, proclaiming "The day of joy is nigh!" and exhorting others to "Rejoice in the true union that will meld us all!" These are the myconids affected by Zuggtmoy, and their behavior is cause for concern among the unaffected, including [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] and its allies.
 
 ### Two Sovereigns
 
-Myconid communities normally have only a single sovereign—the largest among them, who stands alone and outside of any circle (see below). Two years ago, [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) arrived in the grove with its two circles, and Sovereign Phylo welcomed the new myconids gladly, grateful for Basidia's offer to share the burdens of leading all the circles in the grove. The two sovereigns have been close friends ever since, sharing authority and responsibilities with no conflict. Each knows that an individual myconid has only so much time in the cycle of life, and that when both have passed, a single sovereign will take their place after their bodies are returned to nourish the soil.
+Myconid communities normally have only a single sovereign—the largest among them, who stands alone and outside of any circle (see below). Two years ago, [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] arrived in the grove with its two circles, and Sovereign Phylo welcomed the new myconids gladly, grateful for Basidia's offer to share the burdens of leading all the circles in the grove. The two sovereigns have been close friends ever since, sharing authority and responsibilities with no conflict. Each knows that an individual myconid has only so much time in the cycle of life, and that when both have passed, a single sovereign will take their place after their bodies are returned to nourish the soil.
 
 ### Circles
 
@@ -156,7 +156,7 @@ After becoming enthralled by Zuggtmoy, Phylo decided the myconids would meld exc
 
 Basidia believes that Phylo's separation of the circles is contrary to the unity and harmony of the myconid way of life, and that this segregation isolates individuals from the experiences of others outside their circle. Basidia has likewise expressed concern about the unnaturalness of the Inner Circle and the Circle of Masters. However, Basidia's views are either dismissed or ignored by Phylo and its allies, who zealously claim that exciting changes are coming for the grove.
 
-A more recent development has Basidia even more disturbed when the adventurers arrive in Neverlight Grove. [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md), the leader of the Circle of Masters, has not attended an Inner Circle melding for several days now, instead sending a representative (see "The Circle of Masters" in area 5). Times in Neverlight Grove are strange and worrisome indeed.
+A more recent development has Basidia even more disturbed when the adventurers arrive in Neverlight Grove. [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]], the leader of the Circle of Masters, has not attended an Inner Circle melding for several days now, instead sending a representative (see "The Circle of Masters" in area 5). Times in Neverlight Grove are strange and worrisome indeed.
 
 > [!note] Roleplaying the Myconids
 > 
@@ -217,8 +217,8 @@ Upon her arrival in the Underdark, Zuggtmoy found Neverlight Grove and took up r
 ^neverlight-grove-general-features
 
 > [!gallery]
-> ![Map 5.1: Neverlight Grove](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/047-05-01.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/048-neverlight-grove-player-version.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/047-05-01.webp#gallery|Map 5.1: Neverlight Grove]]
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/048-neverlight-grove-player-version.webp#gallery|Player Version]]
 
 ## 1. Fungal Wilds
 
@@ -237,7 +237,7 @@ A circle mound sits at the edge of the wilds but still inside them. It belongs t
 
 The circle leader of the hunters, this tall and lean myconid shares Basidia's concerns about Phylo's new way, though it is still capable of resisting Phylo's corrupted meldings when it joins with the Inner Circle. Loobamub keeps its opinions to itself, but its wariness spreads to the other hunters when they meld, cementing their loyalty to Basidia. Loobamub redirects the spore servants and awakened zurkhwoods Phylo creates away from its circle's territory.
 
-Loobamub is happy to enlist the party's aid in dealing with a few unwelcome monsters that have found their way into the fungal wilds. In particular, the circle leader asks the adventurers to kill a [grick alpha](/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and then take its carcass to Basidia for reanimation. A [shambling mound](/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md) is also exhausting the soil in the grove and needs to be put down for the good of the colony. These encounters can occur wherever you wish.
+Loobamub is happy to enlist the party's aid in dealing with a few unwelcome monsters that have found their way into the fungal wilds. In particular, the circle leader asks the adventurers to kill a [[/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm|grick alpha]] and then take its carcass to Basidia for reanimation. A [[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm|shambling mound]] is also exhausting the soil in the grove and needs to be put down for the good of the colony. These encounters can occur wherever you wish.
 
 ## 2. Northern Terraces
 
@@ -277,11 +277,11 @@ This depression in the cavern floor is the main part of the myconid colony. The 
 
 ### Inner Circle
 
-The central mound is the base of the colony's two [myconid sovereigns](/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm.md), Phylo and Basidia. They hold court together with three [myconid adult](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) councilors named Brelup, Posbara, and Breberil. Ten [awakened zurkhwoods](/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) (see appendix C) protect the mound and obey either of the sovereigns.
+The central mound is the base of the colony's two [[/03_Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm|myconid sovereigns]], Phylo and Basidia. They hold court together with three [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adult]] councilors named Brelup, Posbara, and Breberil. Ten [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|awakened zurkhwoods]] (see appendix C) protect the mound and obey either of the sovereigns.
 
 #### Sovereign Phylo
 
-The sovereign towers above the other myconids, its multiple caps swaying with the sinuous shifting of its thick stalk as it moves. Once it spreads its rapport spores, Phylo welcomes the characters with honest enthusiasm—doubly so if they have returned [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) and [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) to their home.
+The sovereign towers above the other myconids, its multiple caps swaying with the sinuous shifting of its thick stalk as it moves. Once it spreads its rapport spores, Phylo welcomes the characters with honest enthusiasm—doubly so if they have returned [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] and [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] to their home.
 
 > [!readaloud] 
 > 
@@ -294,7 +294,7 @@ Phylo goes on about how "the Great Seeder" who lives beyond the garden can answe
 
 #### Sovereign Basidia
 
-A successful DC 12 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check reveals that [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) is uncomfortable with Phylo's behavior. [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) and [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) can easily discern that the harmony between Phylo and Basidia is off. At the earliest opportunity, Basidia volunteers to show the characters around, or finds another opportunity to rapport with them privately.
+A successful DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check reveals that [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] is uncomfortable with Phylo's behavior. [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] and [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] can easily discern that the harmony between Phylo and Basidia is off. At the earliest opportunity, Basidia volunteers to show the characters around, or finds another opportunity to rapport with them privately.
 
 When alone with the characters, Basidia warns them about staying in Neverlight Grove too long. It tells them another group of "softers" (the name myconids use for fleshy creatures) arrived not too many cycles ago and accepted Phylo's offer. They were taken to the Garden of Welcome and Basidia hasn't seen them since, nor has Phylo made any further mention of them (see "Questions for the Sovereigns"). Basidia also tells the characters that the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.
 
@@ -304,19 +304,19 @@ If Basidia rapports with Sarith or any other non-myconid infected with Zuggtmoy'
 
 If the characters ask the sovereigns to help them return to the surface world, both are apologetic that they know of no routes. However, Basidia notes that during its colony's migration, the many travelers from the surface world they encountered were mostly merchants on their way to or from Blingdenstone, Gracklstugh, or Menzoberranzan.
 
-If the adventurers ask the sovereigns about any drow in the area, Basidia tells them about a drow patrol that just recently arrived. However, Phylo immediately interrupts, telling the characters that the drow were here a few days ago, but left shortly after Phylo showed them the Garden of Welcome. A successful DC 12 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check reveals that Basidia seems puzzled by Phylo's answer. If pressed, Basidia simply says it didn't know the drow had already left.
+If the adventurers ask the sovereigns about any drow in the area, Basidia tells them about a drow patrol that just recently arrived. However, Phylo immediately interrupts, telling the characters that the drow were here a few days ago, but left shortly after Phylo showed them the Garden of Welcome. A successful DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check reveals that Basidia seems puzzled by Phylo's answer. If pressed, Basidia simply says it didn't know the drow had already left.
 
 #### Quest: Into the Garden
 
 Basidia offers to give the party a guided tour of all the circles in areas 1 through 4, where it introduces them to the respective circle leaders, pointing out which leaders support it, and which ones support Sovereign Phylo. Basidia uses this time away from Phylo to express its fear that Phylo has contracted some sort of "diseased spore." Basidia thinks that a clue to the spore's nature might be found in the Garden of Welcome. Basidia asks the characters to investigate the garden, fearing to do so itself in case it also falls victim to Phylo's disease.
 
-As a sign of friendship, Basidia gives the characters a moldy scroll case containing a [scroll of protection](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md) against fiends. Basidia promises an additional reward (see "Treasure") if the characters investigate the Garden of Welcome on its behalf. Basidia can also brew potions out of the different molds and fungi in the grove, storing them in hollow gourd-like mushrooms. Basidia can craft a common or uncommon potion in eight hours, or a rare potion in two days.
+As a sign of friendship, Basidia gives the characters a moldy scroll case containing a [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|scroll of protection]] against fiends. Basidia promises an additional reward (see "Treasure") if the characters investigate the Garden of Welcome on its behalf. Basidia can also brew potions out of the different molds and fungi in the grove, storing them in hollow gourd-like mushrooms. Basidia can craft a common or uncommon potion in eight hours, or a rare potion in two days.
 
 ### Treasure
 
 If the characters complete Basidia's quest, the myconid sovereign digs up a small box buried in the earth and gives it to them. The box contains curiosities Basidia has collected from dead travelers over the years. The box is unlocked, made of fine wood inlaid with silver, and worth 25 gp by itself. It contains three amethysts (100 gp each), four small diamonds (50 gp each), and one large diamond (500 gp).
 
-If the characters kill the grick alpha, the umber hulk, or the shambling mound in the Fungal Wilds and bring the carcasses to Basidia, the sovereign rewards each character with a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) stored in a hollow gourd-like mushroom.
+If the characters kill the grick alpha, the umber hulk, or the shambling mound in the Fungal Wilds and bring the carcasses to Basidia, the sovereign rewards each character with a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]] stored in a hollow gourd-like mushroom.
 
 ### Circle of Sporers
 
@@ -326,13 +326,13 @@ This circle mound is devoted to sporing new myconids. Freshly spored myconids ar
 
 The circle leader is infected by Zuggtmoy's madness. It is always swaying to music only it can hear, but those in rapport with Yrberop can hear a faint echo of its internal cacophony. Yrberop is enthusiastic about Phylo's plan to spread the happiness brought by the Great Seeder to everyone in the Underdark and beyond. For that to happen, the colony needs many more sprouts.
 
-If the characters confer with Basidia, [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md), or [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md), these myconids tell them this push to expand the population is unusual, given the balance that the myconids have endeavored to maintain in Neverlight Grove for so long.
+If the characters confer with Basidia, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]], or [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]], these myconids tell them this push to expand the population is unusual, given the balance that the myconids have endeavored to maintain in Neverlight Grove for so long.
 
-Yrberop loses track of any conversation after a short while and begins talking to the newly spored myconids instead. Characters who communicate with Yrberop in rapport and succeed on a DC 13 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check can make out some of the words and impressions in the circle leader's lullaby. It sings of the Great Seeder and "her" wedding to the Great Body, and how every myconid is invited, bringing joy to all in the world below and above.
+Yrberop loses track of any conversation after a short while and begins talking to the newly spored myconids instead. Characters who communicate with Yrberop in rapport and succeed on a DC 13 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check can make out some of the words and impressions in the circle leader's lullaby. It sings of the Great Seeder and "her" wedding to the Great Body, and how every myconid is invited, bringing joy to all in the world below and above.
 
 #### Chuul Spore Servants
 
-Behind the myconid breeding grounds is a narrow path leading up to a plateau and the Garden of Welcome (area 5). Two [chuul spore servants](/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota.md) (see appendix C) guard this path. They don't allow anyone to pass without Yrberop's permission, which the circle leader doesn't grant, even at Basidia's request.
+Behind the myconid breeding grounds is a narrow path leading up to a plateau and the Garden of Welcome (area 5). Two [[/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota|chuul spore servants]] (see appendix C) guard this path. They don't allow anyone to pass without Yrberop's permission, which the circle leader doesn't grant, even at Basidia's request.
 
 ## 4. Southern Terraces
 
@@ -387,11 +387,11 @@ As the characters enter the garden, they make a frightening discovery.
 > One voice calls out loudly in Undercommon—a female drow fighting to speak. "Please... for your gods of light... kill me!" She manages to stir within her living grave, raising a spider medallion half-embedded in the bloated growth that was once her hand. Half her face is rotten and pustulate, a bed for the sprouting of scores of tiny mushrooms. "The Great Seeder... trap... she's here... the Lady of Decay... Zuggtmoy..."
 ^24e
 
-The drow is Xinaya, a young acolyte of Lolth. She was leading a routine scouting patrol out of Velkynvelve before Ilvara contacted her with a [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell. The patrol was ordered to search near the grove for the characters, anticipating that the escapees might seek shelter among the peaceful mushroom folk.
+The drow is Xinaya, a young acolyte of Lolth. She was leading a routine scouting patrol out of Velkynvelve before Ilvara contacted her with a [[/03_Mechanics/CLI/spells/sending-xphb|sending]] spell. The patrol was ordered to search near the grove for the characters, anticipating that the escapees might seek shelter among the peaceful mushroom folk.
 
 Upon her arrival, Xinaya made the mistake of accepting Phylo's invitation to visit the Garden of Welcome, where she and her patrol quickly became victims of the myconids' madness. She begs the adventurers to end her suffering and warn her people about the presence of the Demon Queen of Fungi in the Underdark, unaware of the madness that has already erupted in Menzoberranzan and throughout the Underdark (see chapter 15). Xinaya is too far gone to be saved, and any amount of damage kills her.
 
-After the characters speak with Xinaya, [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) appears (see appendix C). The master of the foul garden takes delight in toying with trespassers.
+After the characters speak with Xinaya, [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] appears (see appendix C). The master of the foul garden takes delight in toying with trespassers.
 
 > [!readaloud] 
 > 
@@ -400,23 +400,23 @@ After the characters speak with Xinaya, [Yestabrod](/03_Mechanics/CLI/bestiary/n
 > "Welcome, travelers." The aberrant myconid's voice gurgles and spits as it speaks both aloud and in your minds at once. "Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!"
 ^24f
 
-As the garden comes alive with screams from its buried victims, [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) raises two [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C). At the same time, two [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) from the Circle of Masters emerge from the surrounding growth, all of the creatures following the circle leader as he attacks.
+As the garden comes alive with screams from its buried victims, [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] raises two [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] (see appendix C). At the same time, two [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]] from the Circle of Masters emerge from the surrounding growth, all of the creatures following the circle leader as he attacks.
 
-If [Sarith Kzekarit](/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota.md) (see chapter 1) is still with the party, he screams in agony as [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) attacks. The characters can only watch as the drow's head splits open, releasing a cloud of infecting spores and turning him into another [drow spore servant](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) that joins the fight.
+If [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]] (see chapter 1) is still with the party, he screams in agony as [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] attacks. The characters can only watch as the drow's head splits open, releasing a cloud of infecting spores and turning him into another [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servant]] that joins the fight.
 
-If [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) is slain and there are still drow spore servants active, they go limp and stop attacking, at which point the myconids from the Circle of Masters attempt to flee.
+If [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] is slain and there are still drow spore servants active, they go limp and stop attacking, at which point the myconids from the Circle of Masters attempt to flee.
 
 ### Treasure
 
-Xinaya's equipment is piled in a heap not far from where she was buried. Characters searching the pile find a suit of [+2 studded leather armor](/03_Mechanics/CLI/items/2-armor-xdmg.md), a [+2 shortsword](/03_Mechanics/CLI/items/2-weapon-xdmg.md), and a [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md) containing two [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) and [spider climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md)), 40 days of rations, and 320 sp. The drow spore servants wear chain shirts and carry shortswords. All of the armor and weapons found here are of drow construction (see the "Drowcraft Items" sidebar in appendix B).
+Xinaya's equipment is piled in a heap not far from where she was buried. Characters searching the pile find a suit of [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 studded leather armor]], a [[/03_Mechanics/CLI/items/2-weapon-xdmg|+2 shortsword]], and a [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bag of holding]] containing two [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scrolls]] ([[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] and [[/03_Mechanics/CLI/spells/spider-climb-xphb|spider climb]]), 40 days of rations, and 320 sp. The drow spore servants wear chain shirts and carry shortswords. All of the armor and weapons found here are of drow construction (see the "Drowcraft Items" sidebar in appendix B).
 
 ### XP Awards
 
-In addition to the normal creature XP for this encounter, the characters earn a special award of 1,000 XP (divided equally among all party members) for defeating [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) and its minions.
+In addition to the normal creature XP for this encounter, the characters earn a special award of 1,000 XP (divided equally among all party members) for defeating [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] and its minions.
 
 ## Wedding Rehearsal
 
-After the confrontation with [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md), the characters can hear sound and movement from the cavern to the northeast. Read the following boxed text if the characters investigate.
+After the confrontation with [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]], the characters can hear sound and movement from the cavern to the northeast. Read the following boxed text if the characters investigate.
 
 > [!readaloud] 
 > 
@@ -447,15 +447,15 @@ After the confrontation with [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabro
 > *Hail! Hail! Hail*!
 ^253
 
-The entourage is composed of twelve [bridesmaids of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md) and six [chamberlains of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota.md)(see appendix C for both), all of which are lost in their own reverie. They are in the midst of conducting an obscene ritual of some sort—like a parody of a wedding ceremony.
+The entourage is composed of twelve [[/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota|bridesmaids of Zuggtmoy]] and six [[/03_Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota|chamberlains of Zuggtmoy]](see appendix C for both), all of which are lost in their own reverie. They are in the midst of conducting an obscene ritual of some sort—like a parody of a wedding ceremony.
 
-Zuggtmoy's thralls make their way to [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md)'s garden, attacking only if the characters stand in their way.
+Zuggtmoy's thralls make their way to [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]]'s garden, attacking only if the characters stand in their way.
 
-Any character reduced to 0 hit points in this encounter is knocked [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) rather than killed. If all the characters are knocked [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious), the party wakes up in a fungi-filled cave `1d6 + 4` miles away from Neverlight Grove, with or without their NPC companions (at your discretion). Their drow pursuit level decreases by 1, and each character is infested with Zuggtmoy's spores (see the "Neverlight Grove: General Features" sidebar).
+Any character reduced to 0 hit points in this encounter is knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] rather than killed. If all the characters are knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]], the party wakes up in a fungi-filled cave `1d6 + 4` miles away from Neverlight Grove, with or without their NPC companions (at your discretion). Their drow pursuit level decreases by 1, and each character is infested with Zuggtmoy's spores (see the "Neverlight Grove: General Features" sidebar).
 
 ### Development
 
-If left alone, the thralls enact a mock wedding, with a chamberlain and a bridesmaid standing in for Araumycos and Zuggtmoy. [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md), if alive, assumes the role of priest to preside over the vows. If [Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md) is dead, three spore servants rise from the garden and carry its corpse, moving it like a puppet to play out the part of priest. At this point of the ceremony, any onlookers experience a vision.
+If left alone, the thralls enact a mock wedding, with a chamberlain and a bridesmaid standing in for Araumycos and Zuggtmoy. [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]], if alive, assumes the role of priest to preside over the vows. If [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] is dead, three spore servants rise from the garden and carry its corpse, moving it like a puppet to play out the part of priest. At this point of the ceremony, any onlookers experience a vision.
 
 > [!readaloud] 
 > 
@@ -476,7 +476,7 @@ When Zuggtmoy arrived in the Underdark, she was immediately drawn to Neverlight 
 
 Conveniently secluded from the rest of the Underdark, Yggmorgus is a perfect base of operations for the Demon Queen of Fungi. She has completely enthralled Phylo, and the hapless sovereign is growing a myconid and spore servant army for her. Zuggtmoy has also become aware of Araumycos, the largest fungal life form—and possibly the largest creature of any kind—in the world. Araumycos is a vast fungus colony with a single mind, which fills the caverns and tunnels of the Underdark in an area the size of the High Forest. Araumycos is so interwoven with the fabric of the world that control of it would grant Zuggtmoy nearly unlimited power in her new home.
 
-Though Yggmorgus can't be seen clearly from the main cavern of Neverlight Grove, the unholy lights and sounds there can be discerned and sometimes even felt. Characters who ask the myconids about it receive mixed responses. Sovereign Phylo and those loyal to it enter a state of near bliss when they speak about Yggmorgus, as if it was a paradise. [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) and its followers give wary answers. Phylo's secrecy means that they aren't sure what lies beyond the ravine.
+Though Yggmorgus can't be seen clearly from the main cavern of Neverlight Grove, the unholy lights and sounds there can be discerned and sometimes even felt. Characters who ask the myconids about it receive mixed responses. Sovereign Phylo and those loyal to it enter a state of near bliss when they speak about Yggmorgus, as if it was a paradise. [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] and its followers give wary answers. Phylo's secrecy means that they aren't sure what lies beyond the ravine.
 
 ### Giant Mushroom Tower
 
@@ -489,7 +489,7 @@ The cavern around Yggmorgus is huge, and the giant mushroom nearly fills it from
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/050-ooa05-05.webp#center)
 
-[Yestabrod](/03_Mechanics/CLI/bestiary/npc/yestabrod-oota.md)'s Garden of Welcome is a pale reflection of the true horrors surrounding Yggmorgus. A 20-foot-high crescent-shaped ledge hugs the cavern wall and gradually slopes down to the lower basin. The ledge is covered with a carpet of moss and fungi, scores of variously sized lumps, and pockmarks where pools of vile fluids suppurate and ooze, some drying out and scabbing over. The entire ledge is difficult terrain. Characters venturing this close to Yggmorgus must succeed on a DC 11 Wisdom saving throw or gain one level of madness (see "Madness" in chapter 2).
+[[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]]'s Garden of Welcome is a pale reflection of the true horrors surrounding Yggmorgus. A 20-foot-high crescent-shaped ledge hugs the cavern wall and gradually slopes down to the lower basin. The ledge is covered with a carpet of moss and fungi, scores of variously sized lumps, and pockmarks where pools of vile fluids suppurate and ooze, some drying out and scabbing over. The entire ledge is difficult terrain. Characters venturing this close to Yggmorgus must succeed on a DC 11 Wisdom saving throw or gain one level of madness (see "Madness" in chapter 2).
 
 Characters can discern the shapes of writhing creatures inside each lump. Most of these are humanoids, though a few of the lumps are occupied by what appear to be gricks, nothics, and giant spiders. This is the Great Garden of Rot, nourished both by the creatures subsumed within it and the *faerzress* pervading this cavern.
 
@@ -503,25 +503,25 @@ Characters who descend to the cavern's lower basin witness the next spectacle of
 
 Scores of deformed creatures dance around the base of the giant fungal tower. The revelers are a motley collection of humanoids and various other creatures, all sporting tumors, cankers, and putrid patches of flesh all over their bodies. They are joined by dancing fungi vaguely shaped and twisted into forms resembling humanoids. Some of these creatures are spore servants enthralled to the Demon Queen of Fungi. Others are myconids and other fungal life forms infested with Zuggtmoy's spores.
 
-The dancing creatures pay no attention to trespassers unless they are attacked. In that event, `d6` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) and `d6` [hook horror spore servants](/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md) (see appendix C for both) stop dancing and turn on their attackers.
+The dancing creatures pay no attention to trespassers unless they are attacked. In that event, `d6` [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] and `d6` [[/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota|hook horror spore servants]] (see appendix C for both) stop dancing and turn on their attackers.
 
 Voices can be heard cackling and chatting amiably about Sovereign Phylo's success at "bringing so many new guests to attend the party!" The characters see drow dancing as if their bones were melting, duergar roaring with mock merriment and vomiting slime, and even nothics laughing madly as they leap and caper.
 
-If the characters observe the mad dance for a few rounds, they see a form rising up out of the fungal muck. It is the [drow scout](/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota.md) whose terrible end they just witnessed, wading out to join the other revelers in their mad dance. A character who witnesses this grotesque moment must succeed on a DC 15 Wisdom saving throw or gain one level of madness.
+If the characters observe the mad dance for a few rounds, they see a form rising up out of the fungal muck. It is the [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|drow scout]] whose terrible end they just witnessed, wading out to join the other revelers in their mad dance. A character who witnesses this grotesque moment must succeed on a DC 15 Wisdom saving throw or gain one level of madness.
 
 #### Great Palace
 
 Yggmorgus is the home that Zuggtmoy, the Demon Queen of Fungi, has carved for herself inside the great mushroom. The general layout is simple enough, with the hollowed stalk of the mushroom making a towering central hall in which Zuggtmoy floats, surrounded by spiraling balconies where her growing number of bridesmaids attend her, singing as they weave her bridal gown to prepare for the fateful wedding day.
 
-If the adventurers enter Yggmorgus, they come face to face with [Zuggtmoy](/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm.md) (see appendix D), attended by twelve [bridesmaids of Zuggtmoy](/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md) (see appendix C). Fortunately for them, Zuggtmoy is deep in meditation as her gown and veil are being prepared. She doesn't move, although she can speak and use her other abilities. Her bridesmaids attempt to chase off intruders, wailing and scolding them about how it is unlucky for them to see the bride before it is time. If the characters don't withdraw immediately, Zuggtmoy awakens and uses her Mind Control Spores ability to send them away, using her Infestation Spores only if the characters insist on engaging the demon lord here and now.
+If the adventurers enter Yggmorgus, they come face to face with [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]] (see appendix D), attended by twelve [[/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota|bridesmaids of Zuggtmoy]] (see appendix C). Fortunately for them, Zuggtmoy is deep in meditation as her gown and veil are being prepared. She doesn't move, although she can speak and use her other abilities. Her bridesmaids attempt to chase off intruders, wailing and scolding them about how it is unlucky for them to see the bride before it is time. If the characters don't withdraw immediately, Zuggtmoy awakens and uses her Mind Control Spores ability to send them away, using her Infestation Spores only if the characters insist on engaging the demon lord here and now.
 
 Dozens of spore servants and myconids respond to Zuggtmoy's telepathic call if their mistress is in danger, attacking the characters heedless of their own safety. Any attack that successfully deals damage to Zuggtmoy damages her gown, driving the demon queen into a rage to attack the intruders.
 
 ## Leaving Neverlight Grove
 
-Leaving the myconid enclave is easier than finding it. Whether they politely avoid Phylo's invitation or flee for their lives and sanity from the Demon Queen of Fungi, the adventurers can easily receive the aid of [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) and the circles still loyal to it. Where the characters go next is up to them—a decision dependent upon where they have been, the pursuing drow, and whatever they have acquired (food, potions, treasure from the doomed drow patrol, and so on) during their visit to the grove.
+Leaving the myconid enclave is easier than finding it. Whether they politely avoid Phylo's invitation or flee for their lives and sanity from the Demon Queen of Fungi, the adventurers can easily receive the aid of [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] and the circles still loyal to it. Where the characters go next is up to them—a decision dependent upon where they have been, the pursuing drow, and whatever they have acquired (food, potions, treasure from the doomed drow patrol, and so on) during their visit to the grove.
 
-Depending on how the characters interacted with the myconids and what tasks they accomplished for their hosts, they might depart in the company of a myconid guide, or even two whole circles of myconids fleeing the grove before Zuggtmoy's madness takes them. Sovereign Phylo doesn't stop the characters or [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) from leaving, still convinced the cause it embraces is one of joy and prosperity for its people.
+Depending on how the characters interacted with the myconids and what tasks they accomplished for their hosts, they might depart in the company of a myconid guide, or even two whole circles of myconids fleeing the grove before Zuggtmoy's madness takes them. Sovereign Phylo doesn't stop the characters or [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] from leaving, still convinced the cause it embraces is one of joy and prosperity for its people.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/051-ooa05-06.webp#center)
 
@@ -531,7 +531,7 @@ Regardless of how many battles the characters might have had inside Neverlight G
 
 If the adventurers simply passed through the grove and enjoyed the hospitality of the doomed myconids, they leave with only suspicions about their odd behavior, which can help them later in piecing together the greater mystery in the Underdark.
 
-If the adventurers learned nothing about the presence of Zuggtmoy or her plans, you might pass the information on to them by having a friendly myconid such as [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) or [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) come to them just as they are leaving. The myconid enters rapport and shows them a vision of the Garden of Welcome and Yggmorgus, saying these images come from the minds of other myconids in the grove, and asking what these "strange dreams" mean.
+If the adventurers learned nothing about the presence of Zuggtmoy or her plans, you might pass the information on to them by having a friendly myconid such as [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] or [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] come to them just as they are leaving. The myconid enters rapport and shows them a vision of the Garden of Welcome and Yggmorgus, saying these images come from the minds of other myconids in the grove, and asking what these "strange dreams" mean.
 
 ## Player-Facing Summary
 

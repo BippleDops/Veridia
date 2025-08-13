@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] at class level 3
 
 ## 1st Level
 
-- [Jump](/03_Mechanics/CLI/spells/jump-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/jump-xphb "XPHB"|Jump]] at class level 3
 
 ## 2nd Level
 
-- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]] at class level 3
 
 ## Player-Facing Summary
 

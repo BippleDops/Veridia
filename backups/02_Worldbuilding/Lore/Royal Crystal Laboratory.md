@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood|02 Worldbuilding/People/Commander Thrace Ironwood]]
 
 
 ## Connections

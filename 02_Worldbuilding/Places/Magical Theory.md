@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Magical Theory]]
+- [[02_Worldbuilding/Places/Magical Theory|02 Worldbuilding/Places/Magical Theory]]
 
 <!-- enriched: true -->
 

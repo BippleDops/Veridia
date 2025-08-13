@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Royal Palace|02 Worldbuilding/Places/Royal Palace]]
 
 
 ## Connections

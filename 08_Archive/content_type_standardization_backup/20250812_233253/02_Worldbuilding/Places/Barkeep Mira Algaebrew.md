@@ -718,7 +718,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew|02 Worldbuilding/Places/Barkeep Mira Algaebrew]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

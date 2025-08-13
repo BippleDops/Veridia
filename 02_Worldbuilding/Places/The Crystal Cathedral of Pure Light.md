@@ -29,17 +29,17 @@ The Crystal Cathedral serves as the spiritual headquarters of the [[Crystal Ward
 
 ## Key Connections
 - **[[Crystal Wardens]]** - Primary occupants and spiritual guardians
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
-- **[[02_Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
-- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Primary enemy corrupting crystal trade
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure requiring careful monitoring
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient purification techniques
-- **[[02_Worldbuilding/Places/The Screaming Battleground]]** - Site of major consecration efforts
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
-- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Target for liberation and purification missions
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
+- **[[02_Worldbuilding/Places/The Crystal Hive Collective|02 Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
+- **[[02_Worldbuilding/Places/The Crystal Stock Exchange|02 Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Primary enemy corrupting crystal trade
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]** - Mysterious figure requiring careful monitoring
+- **[[02_Worldbuilding/Places/The Sundered Vaults|02 Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient purification techniques
+- **[[02_Worldbuilding/Places/The Screaming Battleground|02 Worldbuilding/Places/The Screaming Battleground]]** - Site of major consecration efforts
+- **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
+- **[[02_Worldbuilding/Places/The Iron Pits of Malachar|02 Worldbuilding/Places/The Iron Pits Of Malachar]]** - Target for liberation and purification missions
 
 ## History
 
@@ -90,7 +90,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
+- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light|02 Worldbuilding/Places/The Crystal Cathedral Of Pure Light]]
 
 <!-- enriched: true -->
 

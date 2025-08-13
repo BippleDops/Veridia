@@ -23,7 +23,7 @@ Use with [[Complete Reality Merger System]], [[03_Mechanics/Vehicles/Merger_Hybr
 
 ---
 
-### M-001: Physics Denial
+## M-001: Physics Denial
 - Type: Overlapping → Paradox • Category: Reality/Horror
 - Trigger: Gravity points inward; floors become walls.
 - Checks: Anchorite DC 15 align; Helm DC 15 reorient; Group Sanity DC 15.

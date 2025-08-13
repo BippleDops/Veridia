@@ -43,7 +43,7 @@ The adamantine version of ten pieces of ammunition costs 500 gp more than the no
 - [Adamantine Needle](#Adamantine%20Needle)
 - [Adamantine Sling Bullet](#Adamantine%20Sling%20Bullet)
 
-### Adamantine Arrow
+## Adamantine Arrow
 
 - **Weight**: 0.05 lbs.
 

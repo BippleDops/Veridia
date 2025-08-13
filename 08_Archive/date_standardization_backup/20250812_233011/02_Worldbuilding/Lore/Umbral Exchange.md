@@ -478,16 +478,16 @@ Involvement with Exchange operations provides numerous opportunities for charact
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location hosting Exchange operations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary interdimensional trading partner
-- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
-- [[02_Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]] - Major Exchange trading partner
-- [[02_Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
-- [[02_Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
-- [[02_Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
-- [[02_Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
-- [[02_Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Primary location hosting Exchange operations
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Primary interdimensional trading partner
+- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices|02 Worldbuilding/Lore/Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
+- [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
+- [[02_Worldbuilding/Groups/The Liminal Trading Company|02 Worldbuilding/Groups/The Liminal Trading Company]] - Major Exchange trading partner
+- [[02_Worldbuilding/People/Prime Shadow Trader Whisper Voidwright|02 Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
+- [[02_Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper|02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
+- [[02_Worldbuilding/People/Portal Engineer Shade Linkwright|02 Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
+- [[02_Worldbuilding/People/Cultural Liaison Twilight Bridgewalker|02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
+- [[02_Worldbuilding/People/Market Analyst Dream Trendwatcher|02 Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
 
 The Umbral Exchange represents more than a technological achievement or economic infrastructure—it embodies Aquabyssos' bold vision of a future where the boundaries between dimensions become pathways for cooperation, understanding, and mutual prosperity. Through this remarkable system, the very concept of reality becomes fluid, commerce transcends physical limitations, and the impossible becomes merely another commodity in the marketplace of infinite possibility.
 
@@ -526,5 +526,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Crimson Hand|02 Worldbuilding/Lore/The Crimson Hand]]
 - [[Aethermoor]]

@@ -41,9 +41,9 @@ When you set out to create a dungeon, think about its distinctive qualities. For
 
 You can use the Dungeon Location table to determine the locale of your dungeon. You can roll on the table or choose an entry that inspires you.
 
-![Dungeon Location](/03_Mechanics/CLI/tables/dungeon-location.md)
+![[/03_Mechanics/CLI/tables/dungeon-location|Dungeon Location]]
 
-![Dungeon Location; Exotic Location](/03_Mechanics/CLI/tables/dungeon-location-exotic-location.md)
+![[/03_Mechanics/CLI/tables/dungeon-location-exotic-location|Dungeon Location; Exotic Location]]
 
 #### Dungeon Creator
 
@@ -53,19 +53,19 @@ Details bring a dungeon setting's personality to life. Great bearded faces might
 
 The Dungeon Creator table includes creatures that typically build dungeons. You can choose a creator from the table or roll randomly, or choose some other dungeon builder appropriate for your campaign.
 
-![Dungeon Creator](/03_Mechanics/CLI/tables/dungeon-creator.md)
+![[/03_Mechanics/CLI/tables/dungeon-creator|Dungeon Creator]]
 
-![Dungeon Creator; Cults and Religions](/03_Mechanics/CLI/tables/dungeon-creator-cults-and-religions.md)
+![[/03_Mechanics/CLI/tables/dungeon-creator-cults-and-religions|Dungeon Creator; Cults and Religions]]
 
-![Dungeon Creator; NPC Alignment](/03_Mechanics/CLI/tables/dungeon-creator-npc-alignment.md)
+![[/03_Mechanics/CLI/tables/dungeon-creator-npc-alignment|Dungeon Creator; NPC Alignment]]
 
-![Dungeon Creator; NPC Class](/03_Mechanics/CLI/tables/dungeon-creator-npc-class.md)
+![[/03_Mechanics/CLI/tables/dungeon-creator-npc-class|Dungeon Creator; NPC Class]]
 
 #### Dungeon Purpose
 
 Except in the case of a natural cavern, a dungeon is crafted and inhabited for a specific purpose that influences its design and features. You can choose a purpose from the Dungeon Purpose table, roll one at random, or use your own ideas.
 
-![Dungeon Purpose](/03_Mechanics/CLI/tables/dungeon-purpose.md)
+![[/03_Mechanics/CLI/tables/dungeon-purpose|Dungeon Purpose]]
 
 ##### Death Trap
 
@@ -109,7 +109,7 @@ In most cases, the original architects of a dungeon are long gone, and the quest
 
 The Dungeon History table notes key events that can transform a site from its original purpose into a dungeon for adventurers to explore. Particularly old dungeons can have a history that consists of multiple events, each of which transformed the site in some way.
 
-![Dungeon History](/03_Mechanics/CLI/tables/dungeon-history.md)
+![[/03_Mechanics/CLI/tables/dungeon-history|Dungeon History]]
 
 ### Dungeon Inhabitants
 
@@ -178,7 +178,7 @@ Dungeon doors often become stuck when not used frequently. Opening a stuck door 
 
 ##### Locked Doors
 
-Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
+Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
 
 ##### Barred Doors
 
@@ -190,17 +190,17 @@ A secret door is crafted to blend into the wall that surrounds it. Sometimes fai
 
 ##### Detecting a Secret Door
 
-Use the characters' passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores to determine whether anyone in the party notices a secret door without actively searching for it. Characters can also find a secret door by actively searching the location where the door is hidden and succeeding on a Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. To set an appropriate DC for the check, see chapter 8.
+Use the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to determine whether anyone in the party notices a secret door without actively searching for it. Characters can also find a secret door by actively searching the location where the door is hidden and succeeding on a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. To set an appropriate DC for the check, see chapter 8.
 
 ##### Opening a Secret Door
 
-Once a secret door is detected, a successful Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check might be required to determine how to open it if the opening mechanism isn't obvious. Set the DC according to the difficulty guidelines in chapter 8.
+Once a secret door is detected, a successful Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check might be required to determine how to open it if the opening mechanism isn't obvious. Set the DC according to the difficulty guidelines in chapter 8.
 
 If adventurers can't determine how to open a secret door, breaking it down is always an option. Treat it as a locked door made of the same material as the surrounding wall, and use the guidelines in chapter 8 to determine appropriate DCs or statistics.
 
 #### Concealed Doors
 
-A concealed door is a normal door that is hidden from view. A secret door is carefully crafted to blend into its surrounding surface, whereas a concealed door is most often hidden by mundane means. It might be covered by a tapestry, covered with plaster, or (in the case of a concealed trapdoor) hidden under a rug. Normally, no ability check is required to find a concealed door. A character need only look in the right place or take the right steps to reveal the door. However, you can use the characters' passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores to determine whether any of them notices tracks or signs of a tapestry or rug having been recently disturbed.
+A concealed door is a normal door that is hidden from view. A secret door is carefully crafted to blend into its surrounding surface, whereas a concealed door is most often hidden by mundane means. It might be covered by a tapestry, covered with plaster, or (in the case of a concealed trapdoor) hidden under a rug. Normally, no ability check is required to find a concealed door. A character need only look in the right place or take the right steps to reveal the door. However, you can use the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to determine whether any of them notices tracks or signs of a tapestry or rug having been recently disturbed.
 
 #### Portcullises
 
@@ -230,7 +230,7 @@ The hazards described here are but a few examples of the environmental dangers f
 
 #### Detecting a Hazard
 
-No ability check is required to spot a hazard unless it is hidden. A hazard that resembles something benign, such as a patch of slime or mold, can be correctly identified with a successful Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
+No ability check is required to spot a hazard unless it is hidden. A hazard that resembles something benign, such as a patch of slime or mold, can be correctly identified with a successful Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
 
 #### Hazard Severity
 
@@ -304,7 +304,7 @@ If you expect the characters to explore a monster's lair, you'll need to find or
 
 In places where civilization rules or once ruled, adventurers might find monuments built to honor great leaders, gods, and cultures. Use the Monuments table for inspiration, or randomly roll to determine what monument the adventurers stumble upon.
 
-![Monuments](/03_Mechanics/CLI/tables/monuments.md)
+![[/03_Mechanics/CLI/tables/monuments|Monuments]]
 
 #### Ruins
 
@@ -324,7 +324,7 @@ Strongholds provide the local population with protection in times of trouble. Th
 
 Weird locales make the fantastic and the supernatural an intrinsic part of your wilderness adventures.
 
-![Weird Locales](/03_Mechanics/CLI/tables/weird-locales.md)
+![[/03_Mechanics/CLI/tables/weird-locales|Weird Locales]]
 
 ## Wilderness Survival
 
@@ -334,31 +334,31 @@ Adventuring in the wilderness presents a host of perils beyond the threats of mo
 
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 
-![Weather](/03_Mechanics/CLI/tables/weather.md)
+![[/03_Mechanics/CLI/tables/weather|Weather]]
 
-![Weather; Wind](/03_Mechanics/CLI/tables/weather-wind.md)
+![[/03_Mechanics/CLI/tables/weather-wind|Weather; Wind]]
 
-![Weather; Precipitation](/03_Mechanics/CLI/tables/weather-precipitation.md)
+![[/03_Mechanics/CLI/tables/weather-precipitation|Weather; Precipitation]]
 
 #### Extreme Cold
 
-Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
+Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
 
 #### Extreme Heat
 
-When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). The DC is 5 for the first hour and increases by 1 for each additional hour.
+When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. The DC is 5 for the first hour and increases by 1 for each additional hour.
 
 Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.
 
 #### Strong Wind
 
-A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall.
+A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall.
 
-A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight.
 
 #### Heavy Precipitation
 
-Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on hearing.
+Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on hearing.
 
 ### High Altitude
 
@@ -372,23 +372,23 @@ This section describes a few examples of hazards that adventurers might encounte
 
 Some hazards, such as slippery ice and razorvine, require no ability check to spot. Others, such as defiled ground, are undetectable by normal senses.
 
-The other hazards presented here can be identified with a successful Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
+The other hazards presented here can be identified with a successful Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
 
 #### Desecrated Ground
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|detect evil and good]] spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [holy water](/03_Mechanics/CLI/items/holy-water-xphb.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](/03_Mechanics/CLI/spells/hallow-xphb.md) spell purifies desecrated ground within its area.
+A vial of [[/03_Mechanics/CLI/items/holy-water-xphb|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[/03_Mechanics/CLI/spells/hallow-xphb|hallow]] spell purifies desecrated ground within its area.
 
 #### Frigid Water
 
-A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `1d4+1` feet into the quicksand and becomes [restrained](/03_Mechanics/CLI/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `d4` feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `1d4+1` feet into the quicksand and becomes [[/03_Mechanics/CLI/conditions#Restrained|restrained]]. At the start of each of the creature's turns, it sinks another `d4` feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -400,7 +400,7 @@ When a creature comes into direct contact with razorvine for the first time on a
 
 #### Slippery Ice
 
-Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check or fall [prone](/03_Mechanics/CLI/conditions.md#Prone).
+Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check or fall [[/03_Mechanics/CLI/conditions#Prone|prone]].
 
 #### Thin Ice
 
@@ -408,9 +408,9 @@ Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. 
 
 ### Foraging
 
-Characters can gather food and water as the party travels at a normal or slow pace. A foraging character makes a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check whenever you call for it, with the DC determined by the abundance of food and water in the region.
+Characters can gather food and water as the party travels at a normal or slow pace. A foraging character makes a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check whenever you call for it, with the DC determined by the abundance of food and water in the region.
 
-![Foraging DCs](/03_Mechanics/CLI/tables/foraging-dcs.md)
+![[/03_Mechanics/CLI/tables/foraging-dcs|Foraging DCs]]
 
 If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `d6` + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
@@ -418,15 +418,15 @@ If multiple characters forage, each character makes a separate check. A foraging
 
 The food and water requirements noted in the Player's Handbook are for characters. Horses and other creatures require different quantities of food and water per day based on their size. Water needs are doubled if the weather is hot.
 
-![Food and Water Needs](/03_Mechanics/CLI/tables/food-and-water-needs.md)
+![[/03_Mechanics/CLI/tables/food-and-water-needs|Food and Water Needs]]
 
 ### Becoming Lost
 
-Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
+Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `d6` hours trying to get back on course.
+If the Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `d6` hours trying to get back on course.
 
-![Becoming Lost; Wilderness Navigation](/03_Mechanics/CLI/tables/becoming-lost-wilderness-navigation.md)
+![[/03_Mechanics/CLI/tables/becoming-lost-wilderness-navigation|Becoming Lost; Wilderness Navigation]]
 
 ## Settlement
 
@@ -438,15 +438,15 @@ When creating a settlement for your campaign, focus on the locations that are mo
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
 
-![Random Settlements; Race Relations](/03_Mechanics/CLI/tables/random-settlements-race-relations.md)
+![[/03_Mechanics/CLI/tables/random-settlements-race-relations|Random Settlements; Race Relations]]
 
-![Random Settlements; Ruler's Status](/03_Mechanics/CLI/tables/random-settlements-rulers-status.md)
+![[/03_Mechanics/CLI/tables/random-settlements-rulers-status|Random Settlements; Ruler's Status]]
 
-![Random Settlements; Notable Traits](/03_Mechanics/CLI/tables/random-settlements-notable-traits.md)
+![[/03_Mechanics/CLI/tables/random-settlements-notable-traits|Random Settlements; Notable Traits]]
 
-![Random Settlements; Known For Its...](/03_Mechanics/CLI/tables/random-settlements-known-for-its.md)
+![[/03_Mechanics/CLI/tables/random-settlements-known-for-its|Random Settlements; Known For Its...]]
 
-![Random Settlements; Current Calamity](/03_Mechanics/CLI/tables/random-settlements-current-calamity.md)
+![[/03_Mechanics/CLI/tables/random-settlements-current-calamity|Random Settlements; Current Calamity]]
 
 ## Random Buildings
 
@@ -454,19 +454,19 @@ Pulse-pounding chases and harrowing escapes within the confines of a town or cit
 
 If a roll makes no sense considering where the characters are (such as a lavish mansion in a rundown part of town), you can always roll again or simply choose another result. However, such unexpected results can prompt creativity and memorable locations that help make your urban encounters distinct.
 
-![Random Buildings; Building Type](/03_Mechanics/CLI/tables/random-buildings-building-type.md)
+![[/03_Mechanics/CLI/tables/random-buildings-building-type|Random Buildings; Building Type]]
 
-![Random Buildings; Residence](/03_Mechanics/CLI/tables/random-buildings-residence.md)
+![[/03_Mechanics/CLI/tables/random-buildings-residence|Random Buildings; Residence]]
 
-![Random Buildings; Religious Building](/03_Mechanics/CLI/tables/random-buildings-religious-building.md)
+![[/03_Mechanics/CLI/tables/random-buildings-religious-building|Random Buildings; Religious Building]]
 
-![Random Buildings; Tavern](/03_Mechanics/CLI/tables/random-buildings-tavern.md)
+![[/03_Mechanics/CLI/tables/random-buildings-tavern|Random Buildings; Tavern]]
 
-![Random Buildings; Tavern Name Generator](/03_Mechanics/CLI/tables/random-buildings-tavern-name-generator.md)
+![[/03_Mechanics/CLI/tables/random-buildings-tavern-name-generator|Random Buildings; Tavern Name Generator]]
 
-![Random Buildings; Warehouse](/03_Mechanics/CLI/tables/random-buildings-warehouse.md)
+![[/03_Mechanics/CLI/tables/random-buildings-warehouse|Random Buildings; Warehouse]]
 
-![Random Buildings; Shop](/03_Mechanics/CLI/tables/random-buildings-shop.md)
+![[/03_Mechanics/CLI/tables/random-buildings-shop|Random Buildings; Shop]]
 
 ## Mapping a Settlement
 
@@ -498,7 +498,7 @@ A settlement might have a jail to hold accused criminals awaiting trial, but few
 
 The Random Urban Encounters table is useful for city—and town—based adventures. Check for a random encounter at least once per day, and once at night if the characters are out and about. Reroll the result if it doesn't make sense given the time of day.
 
-![Random Urban Encounters](/03_Mechanics/CLI/tables/random-urban-encounters.md)
+![[/03_Mechanics/CLI/tables/random-urban-encounters|Random Urban Encounters]]
 
 #### Animals on the Loose
 
@@ -544,7 +544,7 @@ A fire breaks out, and the characters have a chance to help put out the flames b
 
 The characters find a random trinket.
 
-You can determine the trinket by rolling on the [Trinkets table](/03_Mechanics/CLI/items/trinket-xphb.md) in the *Player's Handbook*.
+You can determine the trinket by rolling on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets table]] in the *Player's Handbook*.
 
 #### Guard Harassment
 
@@ -554,7 +554,7 @@ The adventurers are cornered by `1d4 + 1` guards eager to throw their weight aro
 
 A thief (use the spy statistics in the Monster Manual) tries to steal from a random character.
 
-Characters whose passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores are equal to or greater than the thief's Dexterity ([Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check total catch the theft in progress.
+Characters whose passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores are equal to or greater than the thief's Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check total catch the theft in progress.
 
 #### Procession
 
@@ -592,25 +592,25 @@ See chapter 9 of the Player's Handbook for rules on underwater combat.
 
 You can check for random undersea encounters as often as you would check for them on land (see chapter 3). The Random Undersea Encounters table presents several intriguing options. You can either roll on the table for a random result or choose whichever one works best.
 
-![Random Undersea Encounters](/03_Mechanics/CLI/tables/random-undersea-encounters.md)
+![[/03_Mechanics/CLI/tables/random-undersea-encounters|Random Undersea Encounters]]
 
 #### Swimming
 
-Unless aided by magic, a character can't swim for a full 8 hours per day. After each hour of swimming, a character must succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
+Unless aided by magic, a character can't swim for a full 8 hours per day. After each hour of swimming, a character must succeed on a DC 10 Constitution saving throw or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
 
 A creature that has a swimming speed—including a character with a ring of swimming or similar magic—can swim all day without penalty and uses the normal forced march rules in the *Player's Handbook*.
 
-Swimming through deep water is similar to traveling at high altitudes, because of the water's pressure and cold temperature. For a creature without a swimming speed, each hour spent swimming at a depth greater than 100 feet counts as 2 hours for the purpose of determining [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). Swimming for an hour at a depth greater than 200 feet counts as 4 hours.
+Swimming through deep water is similar to traveling at high altitudes, because of the water's pressure and cold temperature. For a creature without a swimming speed, each hour spent swimming at a depth greater than 100 feet counts as 2 hours for the purpose of determining [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. Swimming for an hour at a depth greater than 200 feet counts as 4 hours.
 
 #### Underwater Visibility
 
 Visibility underwater depends on water clarity and the available light. Unless the characters have light sources, use the Underwater Encounter Distance table to determine the distance at which characters underwater become aware of a possible encounter.
 
-![Underwater Encounter Distance](/03_Mechanics/CLI/tables/underwater-encounter-distance.md)
+![[/03_Mechanics/CLI/tables/underwater-encounter-distance|Underwater Encounter Distance]]
 
 ### The Sea
 
-Characters can row a boat for 8 hours per day, or can row longer at the risk of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) (as per the rules for a forced march in chapter 8 of the Player's Handbook). A fully crewed sailing vessel can sail all day, assuming its sailors work in shifts.
+Characters can row a boat for 8 hours per day, or can row longer at the risk of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (as per the rules for a forced march in chapter 8 of the Player's Handbook). A fully crewed sailing vessel can sail all day, assuming its sailors work in shifts.
 
 #### Navigation
 
@@ -631,7 +631,7 @@ Use the Wilderness Navigation table below to determine whether a ship veers off 
 
 You can check for random encounters at sea as often as you would check for them on land (see chapter 3 for more information). The Random Encounters at Sea table presents a number of options and ideas
 
-![Random Encounters at Sea](/03_Mechanics/CLI/tables/random-encounters-at-sea.md)
+![[/03_Mechanics/CLI/tables/random-encounters-at-sea|Random Encounters at Sea]]
 
 #### Weather at Sea
 
@@ -675,7 +675,7 @@ A ship has immunity to all damage unless it takes an amount of damage equal to o
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
 
-![Owning a Ship; Airborne and Waterborne Vehicles](/03_Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles.md)
+![[/03_Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles|Owning a Ship; Airborne and Waterborne Vehicles]]
 
 ### The Sky
 
@@ -705,9 +705,9 @@ Most traps are triggered when a creature goes somewhere or touches something tha
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check for a character to deduce what needs to be done, followed by a Dexterity check using [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) to perform the necessary sabotage.
+A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check for a character to deduce what needs to be done, followed by a Dexterity check using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] to perform the necessary sabotage.
 
-Any character can attempt an Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
+Any character can attempt an Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
 
 In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
 
@@ -725,9 +725,9 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
 
-![Trap Effects; Trap Save DCs and Attack Bonuses](/03_Mechanics/CLI/tables/trap-effects-trap-save-dcs-and-attack-bonuses.md)
+![[/03_Mechanics/CLI/tables/trap-effects-trap-save-dcs-and-attack-bonuses|Trap Effects; Trap Save DCs and Attack Bonuses]]
 
-![Trap Effects; Damage Severity by Level](/03_Mechanics/CLI/tables/trap-effects-damage-severity-by-level.md)
+![[/03_Mechanics/CLI/tables/trap-effects-damage-severity-by-level|Trap Effects; Damage Severity by Level]]
 
 #### Complex Traps
 

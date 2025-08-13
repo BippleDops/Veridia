@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
-- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/charm-person-xphb "XPHB"|Charm Person]] at class level 3
+- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] at class level 3
 
 ## 2nd Level
 
-- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
-- [Pass without Trace](/03_Mechanics/CLI/spells/pass-without-trace-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/invisibility-xphb "XPHB"|Invisibility]] at class level 3
+- [[/03_Mechanics/CLI/spells/pass-without-trace-xphb "XPHB"|Pass without Trace]] at class level 3
 
 ## 3rd Level
 
-- [Hypnotic Pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 3
-- [Nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/hypnotic-pattern-xphb "XPHB"|Hypnotic Pattern]] at class level 3
+- [[/03_Mechanics/CLI/spells/nondetection-xphb "XPHB"|Nondetection]] at class level 3
 
 ## 4th Level
 
-- [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 3
-- [Dimension Door](/03_Mechanics/CLI/spells/dimension-door-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]] at class level 3
+- [[/03_Mechanics/CLI/spells/dimension-door-xphb "XPHB"|Dimension Door]] at class level 3
 
 ## 5th Level
 
-- [Dominate Person](/03_Mechanics/CLI/spells/dominate-person-xphb.md "XPHB") at class level 3
-- [Modify Memory](/03_Mechanics/CLI/spells/modify-memory-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/dominate-person-xphb "XPHB"|Dominate Person]] at class level 3
+- [[/03_Mechanics/CLI/spells/modify-memory-xphb "XPHB"|Modify Memory]] at class level 3
 
 ## Player-Facing Summary
 

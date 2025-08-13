@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lizardfolk-geomancer-xmm-lizardfolk-geomancer-xmm.svg)
 
-# [Lizardfolk Geomancer](3-Mechanics\CLI\bestiary\elemental/lizardfolk-geomancer-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/lizardfolk-geomancer-xmm|Lizardfolk Geomancer]]
 *Source: Monster Manual (2024) p. 197*  
 
 Lizardfolk geomancers draw magic from the natural world, using it to protect their people and territories.
@@ -58,11 +58,11 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - !!int "8"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
+  - "name": "[[/03_Mechanics/CLI/skills#Nature|Nature]]"
     "desc": "+2"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
@@ -74,17 +74,17 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
       \ 9 (2d6 + 2) Bludgeoning damage."
     "name": "Earth Burst"
   - "desc": "Constitution Saving Throw: DC 12, each creature in a 20-foot-radius,\
-      \ 40-foot-high [Cylinder](/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ 40-foot-high [[/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb|Cylinder]]\
       \ centered on a point the lizardfolk can see within 60 feet. Failure: 15 (6d4)\
-      \ Bludgeoning damage, and the target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ Bludgeoning damage, and the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Hail of Stone (Recharge 5-6)"
   - "desc": "The lizardfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md)\n\
-      \n1/day each: [Meld into Stone](/03_Mechanics/CLI/spells/meld-into-stone-xphb.md),\
-      \ [Speak with Plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md), [Spike\
-      \ Growth](/03_Mechanics/CLI/spells/spike-growth-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/elementalism-xphb|Elementalism]]\n\
+      \n1/day each: [[/03_Mechanics/CLI/spells/meld-into-stone-xphb|Meld into Stone]],\
+      \ [[/03_Mechanics/CLI/spells/speak-with-plants-xphb|Speak with Plants]], [[/03_Mechanics/CLI/spells/spike-growth-xphb|Spike\
+      \ Growth]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

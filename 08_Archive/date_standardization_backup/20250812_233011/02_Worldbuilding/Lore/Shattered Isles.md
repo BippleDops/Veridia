@@ -278,7 +278,7 @@ Emergency response technology development creates tools for surviving catastroph
 
 Several government and academic organizations conduct authorized research in the Shattered Isles despite the extreme dangers, contributing valuable scientific knowledge while developing practical applications.
 
-The [[02_Worldbuilding/Groups/Royal Academy of Magical Science]] maintains a permanent research station on the Nexus Fragment while conducting long-term studies of reality distortion and corruption effects.
+The [[02_Worldbuilding/Groups/Royal Academy of Magical Science|02 Worldbuilding/Groups/Royal Academy Of Magical Science]] maintains a permanent research station on the Nexus Fragment while conducting long-term studies of reality distortion and corruption effects.
 
 The [[United Councils of Both Worlds]] sponsor joint expeditions that combine surface and underwater expertise while developing comprehensive understanding of threats that affect both civilizations.
 
@@ -361,12 +361,12 @@ Strategic resource recovery missions require characters to obtain specific items
 Disaster prevention scenarios involve characters in preventing or mitigating catastrophic events that could affect both worlds while working under severe time pressure.
 
 ## Connected Locations and Threats
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary realm containing the Shattered Isles
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major corruption source affecting the region
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]] - Primary exploration and security force
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for research efforts
-- [[02_Worldbuilding/People/Navigator Deep Current]] - Leading expert on Shattered Isles navigation
-- [[02_Worldbuilding/Groups/Royal Academy of Magical Science]] - Primary research organization
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary realm containing the Shattered Isles
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Major corruption source affecting the region
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet|02 Worldbuilding/Lore/Eastern Kingdom Fleet]] - Primary exploration and security force
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Coordination authority for research efforts
+- [[02_Worldbuilding/People/Navigator Deep Current|02 Worldbuilding/People/Navigator Deep Current]] - Leading expert on Shattered Isles navigation
+- [[02_Worldbuilding/Groups/Royal Academy of Magical Science|02 Worldbuilding/Groups/Royal Academy Of Magical Science]] - Primary research organization
 
 
 ## Connections
@@ -396,6 +396,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[02_Worldbuilding/Quests/Quest - The Lost Expedition|02 Worldbuilding/Quests/Quest The Lost Expedition]]
 - [[Eastern Kingdom Fleet]]
 - [[United Councils of Both Worlds]]

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Valdris Goldvault]]
+- [[02_Worldbuilding/Places/Keeper Valdris Goldvault|02 Worldbuilding/Places/Keeper Valdris Goldvault]]
 
 <!-- enriched: true -->
 

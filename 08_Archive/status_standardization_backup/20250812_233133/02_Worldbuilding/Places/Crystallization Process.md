@@ -184,6 +184,6 @@ Legends speak of Crystallization Process as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallization Process]]
+- [[02_Worldbuilding/Places/Crystallization Process|02 Worldbuilding/Places/Crystallization Process]]
 
 <!-- enriched: true -->

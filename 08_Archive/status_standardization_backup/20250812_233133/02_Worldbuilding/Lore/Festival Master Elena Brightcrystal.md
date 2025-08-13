@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crystal Festival]]
+- [[02_Worldbuilding/Lore/The Crystal Festival|02 Worldbuilding/Lore/The Crystal Festival]]
 
 
 ## Connections

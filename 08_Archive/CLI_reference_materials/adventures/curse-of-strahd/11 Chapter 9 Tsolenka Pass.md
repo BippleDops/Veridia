@@ -23,7 +23,7 @@ world: Both
 
 Tsolenka Pass is a gravel road that hugs Mount Ghakis, climbing to great heights. The road starts at the Raven River crossroads (chapter 2, area R) and travels seven miles to a gatehouse (areas T1–T3) and a guard tower (areas T4–T6), as well as a stone bridge (areas T7–T9) that spans the Luna River. Wind and snow make the journey treacherous. Without some way to keep warm, characters who aren't dressed for cold weather suffer the effects of extreme cold at night (see ""Weather"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
-> [!quote] A quote from [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > The road curved and climbed, making a lengthy switchback into this edge of Mount Ghakis. The air grew colder, not warmer, and patches of snow became more frequent until they were unbroken.
 
@@ -32,8 +32,8 @@ Tsolenka Pass is a gravel road that hugs Mount Ghakis, climbing to great heights
 The following areas correspond to labels on the map of the Tsolenka Pass below. These structures are made of tightly fitted stone and can't be scaled without the aid of magic or a climber's kit.
 
 > [!gallery]
-> ![Map 9.1: Tsolenka Pass (Area T)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/095-025.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/096-cos901.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/095-025.webp#gallery|Map 9.1: Tsolenka Pass (Area T)]]
+> ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/096-cos901.webp#gallery|Player Version]]
 
 ### T1. Gatehouse Portcullis
 
@@ -52,17 +52,17 @@ If the characters approach within 10 feet of the portcullis, it shrieks with the
 
 ### T2. Demon Statues
 
-These statues are actually two [petrified](/03_Mechanics/CLI/conditions.md#Petrified) [vrocks](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md). If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
+These statues are actually two [[/03_Mechanics/CLI/conditions#Petrified|petrified]] [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrocks]]. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.
 
 ### T3. Curtain of Green Flame
 
 A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (`6d10`) fire damage.
 
-A successful casting of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).
+A successful casting of [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]] (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]].
 
 ### T4. Guard Tower, Ground Floor
 
-The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 > [!readaloud] 
 > 
@@ -104,12 +104,12 @@ If your card reading reveals that a treasure is here, read:
 > The swirling snow assumes the forms of thin, young women. The wind howls, "Begone! The treasure is ours!"
 ^53e
 
-The forms are six [snow maidens](/03_Mechanics/CLI/bestiary/undead/snow-maiden-cos.md). Use the [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) statistics, with the following modifications:
+The forms are six [[/03_Mechanics/CLI/bestiary/undead/snow-maiden-cos|snow maidens]]. Use the [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specter]] statistics, with the following modifications:
 
 - The snow maidens have immunity to cold damage.  
 - The snow maidens' Life Drain attack deals cold damage instead of necrotic damage.  
 
-The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [snow maiden](/03_Mechanics/CLI/bestiary/undead/snow-maiden-cos.md) is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
+The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last [[/03_Mechanics/CLI/bestiary/undead/snow-maiden-cos|snow maiden]] is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
 
 ### T7. Western Arch
 
@@ -129,7 +129,7 @@ The western arch contains empty guard posts, one on each side of the bridge. The
 > The low walls that enclose the stone bridge have fallen away in a couple of places, but the bridge appears intact. A black-cloaked rider on a charcoal-colored horse guards the middle of the bridge.
 ^542
 
-The cloaked rider is a manifestation of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)—a grim warning to proceed no further. If the characters interact with the manifestation in any way, the rider and horse disperse like ash in the wind.
+The cloaked rider is a manifestation of [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]—a grim warning to proceed no further. If the characters interact with the manifestation in any way, the rider and horse disperse like ash in the wind.
 
 Five hundred feet below the bridge is the Luna River, barely visible through the fog. Though slippery in a few places, the 10-foot-wide, 90-foot-long bridge is safe to cross.
 
@@ -150,7 +150,7 @@ You can use one or both of the following events as the characters make their way
 
 ### Roc of Mount Ghakis
 
-As the characters cross the stone bridge (area T8) from east to west—possibly on their way back from the Amber Temple (chapter 13)—they are spotted by a [roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) that has survived in the mountains for thousands of years. The roc has a great nest on the top of Mount Ghakis to the southeast and feeds on fish in the nearby lake.
+As the characters cross the stone bridge (area T8) from east to west—possibly on their way back from the Amber Temple (chapter 13)—they are spotted by a [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|roc]] that has survived in the mountains for thousands of years. The roc has a great nest on the top of Mount Ghakis to the southeast and feeds on fish in the nearby lake.
 
 When the Roc of Mount Ghakis appears, read:
 
@@ -165,21 +165,21 @@ The roc attacks a random creature on the bridge, snatching up a horse or a mule,
 
 ### Bloodhorn's Charge
 
-As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [Sangzor](/03_Mechanics/CLI/bestiary/npc/sangzor-cos.md) ("Bloodhorn"):
+As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [[/03_Mechanics/CLI/bestiary/npc/sangzor-cos|Sangzor]] ("Bloodhorn"):
 
 > [!readaloud] 
 > 
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
-If no character has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 16 or higher, the party is [surprised](/03_Mechanics/CLI/conditions.md#Surprised). Otherwise, read:
+If no character has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 16 or higher, the party is [[/03_Mechanics/CLI/conditions#Surprised|surprised]]. Otherwise, read:
 
 > [!readaloud] 
 > 
 > A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside. It lowers its head, and malice glimmers in its eyes.
 ^54a
 
-[Sangzor](/03_Mechanics/CLI/bestiary/npc/sangzor-cos.md) is a [giant goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) known for its supernatural resilience and evil disposition. Mountain folk have been hunting it for years. Modify its statistics as follows:
+[[/03_Mechanics/CLI/bestiary/npc/sangzor-cos|Sangzor]] is a [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|giant goat]] known for its supernatural resilience and evil disposition. Mountain folk have been hunting it for years. Modify its statistics as follows:
 
 - It has an Intelligence of 6 (−2 modifier) and is chaotic evil.  
 - It has 33 hit points.  
@@ -192,7 +192,7 @@ The goat flees if it takes 10 damage or more. The mist and snowfall prevent seei
 
 #### Development
 
-A character who wears [Sangzor](/03_Mechanics/CLI/bestiary/npc/sangzor-cos.md)'s pelt can command the respect of the berserkers who inhabit Strahd's domain. They will not attack the character or that character's companions unless provoked.
+A character who wears [[/03_Mechanics/CLI/bestiary/npc/sangzor-cos|Sangzor]]'s pelt can command the respect of the berserkers who inhabit Strahd's domain. They will not attack the character or that character's companions unless provoked.
 
 ## Player-Facing Summary
 

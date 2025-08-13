@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-choker-mpmm-choker-mpmm.svg)
 
-# [Choker](3-Mechanics\CLI\bestiary\aberration/choker-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/choker-mpmm|Choker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -59,7 +59,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
@@ -78,8 +78,8 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5\
       \ (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it\
-      \ is [grappled](/03_Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until\
-      \ this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+      \ is [[/03_Mechanics/CLI/conditions#Grappled|grappled]] (escape DC 15). Until\
+      \ this grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
       \ and the choker can't use this tentacle on another target. The choker has two\
       \ tentacles. If this attack is a critical hit, the target also can't breathe\
       \ or speak until the grapple ends."

@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Places/Aquabyssos]] Government'
+affiliation: '[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Government'
 created: '2025-08-09'
 created_by: Claude
 founded: 2987
@@ -35,7 +35,7 @@ world: Aquabyssos
 *Elite Sentinels Against the Darkness Below*
 
 ## Overview
-The Deepwatch Guard serves as Aquabyssos's most specialized military unit, trained specifically to combat shadow corruption, deep-sea aberrations, and threats that emerge from the darkest depths of the realm. Unlike the regular [[The Depth Wardens]], who focus on general military defense, the Deepwatch Guard specializes in enemies that conventional forces cannot effectively engage—creatures of living shadow, manifestations of [[02_Worldbuilding/Lore/The Deep Mother]]'s influence, and horrors that defy normal military tactics. They represent the last line of defense against threats that could corrupt or destroy civilization from within.
+The Deepwatch Guard serves as Aquabyssos's most specialized military unit, trained specifically to combat shadow corruption, deep-sea aberrations, and threats that emerge from the darkest depths of the realm. Unlike the regular [[The Depth Wardens]], who focus on general military defense, the Deepwatch Guard specializes in enemies that conventional forces cannot effectively engage—creatures of living shadow, manifestations of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s influence, and horrors that defy normal military tactics. They represent the last line of defense against threats that could corrupt or destroy civilization from within.
 
 ## History & Foundation
 ### The Shadow Crisis of 2987
@@ -64,7 +64,7 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 - **Expanded Operations**: Proactive investigations and preventive measures
 - **Research Integration**: Partnership with academic institutions studying shadow phenomena
 - **Cross-Realm Activity**: Occasional operations in dimensional boundary zones
-- **Current Mission**: Preparing for potential [[02_Worldbuilding/Lore/The Deep Mother]] awakening effects
+- **Current Mission**: Preparing for potential [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] awakening effects
 
 ## Organizational Structure
 ### Command Hierarchy
@@ -315,8 +315,8 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 - **Impact**: Led to permanent Deepwatch advisors for major shipping companies
 
 ### The Deep Mother Probe (2998)
-- **Mission**: Investigation of increased activity in [[02_Worldbuilding/Places/Shadow Wells]]
-- **Discovery**: Evidence of [[02_Worldbuilding/Lore/The Deep Mother]] approaching consciousness
+- **Mission**: Investigation of increased activity in [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]
+- **Discovery**: Evidence of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] approaching consciousness
 - **Intelligence**: Critical information about potential awakening timeline
 - **Cost**: 3 Shadow Walkers permanently lost to deep shadow dimensions
 - **Value**: Allowed preparation for escalating shadow activity
@@ -345,7 +345,7 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 - **Burnout**: Psychological toll of constant supernatural threat exposure
 
 ### Future Preparations
-#### [[02_Worldbuilding/Lore/The Deep Mother]] Awakening
+#### [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] Awakening
 - **Intelligence Analysis**: Studying patterns to predict awakening timeline
 - **Force Expansion**: Recruiting and training additional personnel for major crisis
 - **Equipment Development**: Creating tools effective against divine-level shadow power
@@ -380,7 +380,7 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 **Level**: 10-15  
 **Hook**: Assigned to investigate mysterious deep-sea signals suggesting major shadow activity  
 **Exploration**: Journey into unexplored regions with unknown dangers  
-**Discovery**: Encounter evidence of [[02_Worldbuilding/Lore/The Deep Mother]]'s increasing influence  
+**Discovery**: Encounter evidence of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s increasing influence  
 **Challenge**: Survive long enough to report findings back to Deepwatch command  
 **Consequence**: Information gathered determines preparation for coming crisis
 
@@ -393,12 +393,12 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 **Epic**: Success or failure determines fate of thousands of civilians and future shadow resistance
 
 ## Connected Elements
-- Direct relationship with [[02_Worldbuilding/Lore/The Deep Mother]] as primary threat focus
-- Connected to [[02_Worldbuilding/Places/Shadow Wells]] through investigation and containment duties
+- Direct relationship with [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] as primary threat focus
+- Connected to [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]] through investigation and containment duties
 - Associated with [[The Depth Wardens]] as sister military organization
-- Links to [[02_Worldbuilding/People/Commander Typhoon Blackheart]] through military cooperation
+- Links to [[02_Worldbuilding/People/Commander Typhoon Blackheart|02 Worldbuilding/People/Commander Typhoon Blackheart]] through military cooperation
 - Connected to government through funding and operational authority
-- Associated with [[02_Worldbuilding/Places/Parliament of Echoes]] through policy coordination
+- Associated with [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] through policy coordination
 - Links to research institutions studying shadow phenomena
 - Connected to international defense cooperation efforts
 
@@ -413,7 +413,7 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 ### Using the Deepwatch
 - Emphasize elite nature and specialized training of members
 - Show psychological cost of constant supernatural threat exposure
-- Use organization to provide exposition on shadow corruption and [[02_Worldbuilding/Lore/The Deep Mother]]
+- Use organization to provide exposition on shadow corruption and [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 - Create opportunities for players to develop anti-shadow combat expertise
 - Balance military discipline with need for creative problem-solving
 
@@ -432,7 +432,7 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 - [[Stop the Shadow Harvest]]
 - [[Tidal Chambers]]
 - [[The Memory Storm Fields]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -452,5 +452,5 @@ Legends speak of The Deepwatch Guard as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]
 - [[The Depth Wardens]]

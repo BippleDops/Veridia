@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
 
-# [Helmed Horror](3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm|Helmed Horror]]
 *Source: Monster Manual (2024) p. 166*  
 
 ## Helmed Horror
@@ -71,25 +71,25 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
   - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-  - "desc": "The helmed horror has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The helmed horror has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [Heat Metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md),\
-      \ [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md), and [Magic\
-      \ Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md)."
+      \ choices include [[/03_Mechanics/CLI/spells/heat-metal-xphb|Heat Metal]],\
+      \ [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]], and [[/03_Mechanics/CLI/spells/magic-missile-xphb|Magic\
+      \ Missile]]."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The helmed horror makes two Arcane Sword attacks."

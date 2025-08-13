@@ -25,7 +25,7 @@ world: Aquabyssos
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/Master Index]]
+- [[02_Worldbuilding/Lore/Master Index|02 Worldbuilding/Lore/Master Index]]
 
 ## References
 

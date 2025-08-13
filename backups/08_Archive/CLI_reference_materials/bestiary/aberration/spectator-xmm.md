@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spectator-xmm-spectator-xmm.svg)
 
-# [Spectator](3-Mechanics\CLI\bestiary\aberration/spectator-xmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/spectator-xmm|Spectator]]
 *Source: Monster Manual (2024) p. 289*  
 
 ## Spectator
@@ -60,10 +60,10 @@ At the end of its service, a spectator might discorporate back into nothingness 
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "3"
@@ -80,11 +80,11 @@ At the end of its service, a spectator might discorporate back into nothingness 
       \ can't move, and it uses its action to make a melee or ranged attack against\
       \ a randomly determined creature within range. If the target can't attack, it\
       \ does nothing on that turn.  \n- 2 Paralyzing Ray. Constitution Saving\
-      \ Throw: DC 12. Failure: The target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ Throw: DC 12. Failure: The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 3 Fear Ray. Wisdom Saving Throw: DC 12. Failure: 5 (2d4) Psychic\
-      \ damage, and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
       \ condition until the end of its next turn.  \n- 4 Wounding Ray. Constitution\
       \ Saving Throw: DC 12. Failure: 16 (3d10) Necrotic damage. Success: Half\
       \ damage.  "

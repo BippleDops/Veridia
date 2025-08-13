@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/speak-with-dead-xphb "XPHB"|Speak with Dead]]
 
 ## Player-Facing Summary
 

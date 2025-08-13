@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Vote Vaults|02 Worldbuilding/Places/Vote Vaults]]
 
 
 ## Connections

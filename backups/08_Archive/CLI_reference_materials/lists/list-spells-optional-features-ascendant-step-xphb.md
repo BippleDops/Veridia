@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/levitate-xphb "XPHB"|Levitate]]
 
 ## Player-Facing Summary
 

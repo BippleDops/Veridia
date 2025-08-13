@@ -20,13 +20,13 @@ world: Both
 ---
 
 # Ironfang
-*Weapon ([war pick](/03_Mechanics/CLI/items/war-pick-xphb.md)), legendary (requires attunement)*  
+*Weapon ([[/03_Mechanics/CLI/items/war-pick-xphb|war pick]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ironfang.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
 
-A [war pick](/03_Mechanics/CLI/items/war-pick-xphb.md) forged from a single piece of iron, Ironfang has a fang-like head inscribed with ancient runes. The pick is heavy in the hand, but when the wielder swings the pick in anger, the weapon seems almost weightless. This weapon is immune to any form of rust, acid, or corrosion—nothing seems to mark it. Ironfang contains a spark of [Ogrémoch](/03_Mechanics/CLI/bestiary/npc/ogremoch-pota.md), the Prince of Evil Earth.
+A [[/03_Mechanics/CLI/items/war-pick-xphb|war pick]] forged from a single piece of iron, Ironfang has a fang-like head inscribed with ancient runes. The pick is heavy in the hand, but when the wielder swings the pick in anger, the weapon seems almost weightless. This weapon is immune to any form of rust, acid, or corrosion—nothing seems to mark it. Ironfang contains a spark of [[/03_Mechanics/CLI/bestiary/npc/ogremoch-pota|Ogrémoch]], the Prince of Evil Earth.
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the target takes an extra `d8` thunder damage.
 
@@ -36,17 +36,17 @@ You gain the following benefits while you hold Ironfang:
 
 - You can speak Terran fluently.  
 - You have resistance to acid damage.  
-- You have [tremorsense](/03_Mechanics/CLI/senses.md#Tremorsense) out to a range of 60 feet.  
+- You have [[/03_Mechanics/CLI/senses#Tremorsense|tremorsense]] out to a range of 60 feet.  
 - You can sense the presence of precious metals and stones within 60 feet of you, but not their exact location.  
-- You can cast [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md) (save DC 17) on an [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md). Once you have done so, Ironfang can't be used this way again until the next dawn.  
+- You can cast [[/03_Mechanics/CLI/spells/dominate-monster-xphb|dominate monster]] (save DC 17) on an [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth elemental]]. Once you have done so, Ironfang can't be used this way again until the next dawn.  
 
 ## Shatter
 
-Ironfang has 3 charges. You can use your action to expend 1 charge and cast the 2nd-level version of [shatter](/03_Mechanics/CLI/spells/shatter-xphb.md) (DC 17). Ironfang regains `d3` expended charges daily at dawn.
+Ironfang has 3 charges. You can use your action to expend 1 charge and cast the 2nd-level version of [[/03_Mechanics/CLI/spells/shatter-xphb|shatter]] (DC 17). Ironfang regains `d3` expended charges daily at dawn.
 
 ## The Rumbling
 
-While inside an earth node, you can perform a ritual called the Rumbling, using Ironfang to create a [devastation orb of earth](/03_Mechanics/CLI/items/devastation-orb-of-earth-pota.md). Once you perform the ritual, Ironfang can't be used to perform the ritual again until the next dawn.
+While inside an earth node, you can perform a ritual called the Rumbling, using Ironfang to create a [[/03_Mechanics/CLI/items/devastation-orb-of-earth-pota|devastation orb of earth]]. Once you perform the ritual, Ironfang can't be used to perform the ritual again until the next dawn.
 
 ## Flaw
 

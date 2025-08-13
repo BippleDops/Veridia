@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Deep Sea Explorer Captain Abyss]]
+- [[02_Worldbuilding/People/Deep Sea Explorer Captain Abyss|02 Worldbuilding/People/Deep Sea Explorer Captain Abyss]]
 
 <!-- enriched: true -->

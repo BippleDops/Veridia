@@ -14,14 +14,14 @@ government: Ancient Custodianship
 location_name: The Silent Watcher Observatory
 location_type: Ancient Sentinel Complex
 notable_npcs:
-- '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
+- '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
 - '[[Echo-Scribe Matthias]]'
 - '[[Observation Tender Clara]]'
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 1
 pressure_effects: Extreme
-ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
+ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
 services:
 - Universal Surveillance
 - Historical Record Access
@@ -206,10 +206,10 @@ The Watcher's perfect memory and observation capabilities make it an ultimate ar
 The Silent Watcher has been tracking the expansion of shadow entities throughout [[Abyssos Prime]] and warns that the phenomenon represents a threat to the fundamental nature of reality.
 
 ### Temporal Instability
-Increasing temporal anomalies throughout [[Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[02_Worldbuilding/Places/The Recursion Cult]].
+Increasing temporal anomalies throughout [[Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[02_Worldbuilding/Places/The Recursion Cult|02 Worldbuilding/Places/The Recursion Cult]].
 
 ### The Memory Crisis
-The Watcher observes that the widespread trading and manipulation of memories by [[02_Worldbuilding/Groups/Memory Farmers]] is creating dangerous instabilities in individual and collective consciousness.
+The Watcher observes that the widespread trading and manipulation of memories by [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] is creating dangerous instabilities in individual and collective consciousness.
 
 ### Surface World Stirrings
 Recent observations suggest significant changes occurring in the surface world, including attempts to contact the deep civilization.
@@ -254,14 +254,14 @@ The Watcher possesses knowledge about the ultimate fate of reality itself, inclu
 ## Connected Locations
 
 ### Information Networks
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Information sharing and comparison
-- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine]]:** Prophetic consultation exchange
-- **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Cross-referencing historical records
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]:** Information sharing and comparison
+- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Prophetic consultation exchange
+- **[[02_Worldbuilding/Lore/Aethermoor Archives|02 Worldbuilding/Lore/Aethermoor Archives]]:** Cross-referencing historical records
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Strategic intelligence provision
-- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Counsel to the Scattered Emperor
-- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Historical verification services
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Strategic intelligence provision
+- **[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]:** Counsel to the Scattered Emperor
+- **[[02_Worldbuilding/Places/The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]:** Historical verification services
 
 ### Observation Points
 - **[[Observatory Network Nodes]]:** Extended viewing points throughout the deep
@@ -399,7 +399,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/The Silent Watcher|02 Worldbuilding/Places/The Silent Watcher]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

@@ -786,7 +786,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 ### Related Mechanics
 - **[[Environmental Hazards]]**: Phase-based environmental complications
 - **[[Initiative Tracker]]**: Managing complex multi-phase turn orders
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Psychological effects of reality-warping phase transitions
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Psychological effects of reality-warping phase transitions
 - **[[Memory Alterations]]**: Memory-based phase triggers and effects
 - **[[Temporal Distortion Zones]]**: Time-manipulation phase mechanics
 
@@ -795,7 +795,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **[[The Crystal Sovereign]]**: Aethermoor's corrupted ruler multi-phase fight
 - **[[The Convergence Entity]]**: Reality-merger final boss encounter
 - **[[Marina's True Form]]**: Identity revelation multi-phase sequence
-- **[[02_Worldbuilding/Lore/Shadow Collective]]**: Multiple interconnected phase bosses
+- **[[02_Worldbuilding/Lore/Shadow Collective|02 Worldbuilding/Lore/Shadow Collective]]**: Multiple interconnected phase bosses
 
 ### Supporting Systems
 - **[[Boss Monster Creation Guidelines]]**: Framework for designing multi-phase bosses
@@ -836,5 +836,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Temporal Distortion Zones]]

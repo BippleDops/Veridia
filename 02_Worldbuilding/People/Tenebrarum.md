@@ -38,7 +38,7 @@ world: Aquabyssos
 *The Void Ambassador, Speaker for the Spaces Between, The Negotiating Dark*
 
 ## Overview
-Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding/Places/Aquabyssos]], representing entities that exist in the spaces between reality. Neither malevolent nor benevolent from mortal perspectives, they conduct diplomacy for beings whose very existence challenges conventional understanding of life, death, and meaning. Their embassy exists in a pocket of controlled nothingness within the Deep Parliament District, where they negotiate treaties that most senators don't fully understand.
+Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], representing entities that exist in the spaces between reality. Neither malevolent nor benevolent from mortal perspectives, they conduct diplomacy for beings whose very existence challenges conventional understanding of life, death, and meaning. Their embassy exists in a pocket of controlled nothingness within the Deep Parliament District, where they negotiate treaties that most senators don't fully understand.
 
 ## Physical Manifestation
 
@@ -164,17 +164,17 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ## Relationships
 
 ### Parliamentary Contacts
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: Frequent negotiation partner (original, not shadow)
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Appreciates their precision
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Professional courtesy, mutual respect
+- **[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]**: Frequent negotiation partner (original, not shadow)
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Appreciates their precision
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]**: Professional courtesy, mutual respect
 - **Parliament Speaker Depths-Walker**: Direct superior for void-related matters
 - **The Shadow Senators**: Complex relationship—they represent different unrealities
 
 ### International Relations
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Negotiating crystal-void interactions
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mutual fascination with impossible knowledge
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Negotiating crystal-void interactions
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Mutual fascination with impossible knowledge
 - **Surface Diplomatic Corps**: Patient teacher of interdimensional law
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Occasional negotiations over deep-void boundaries
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]**: Occasional negotiations over deep-void boundaries
 - **The Deep Mothers**: Represent competing interests in reality structuring
 
 ### Personal Connections
@@ -354,11 +354,11 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - Primary negotiation partner
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Admires precision
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] - Professional peer
-- [[02_Worldbuilding/People/The Crimson Sage]] - Philosophical discussions
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Territorial negotiations
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Primary negotiation partner
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]] - Admires precision
+- [[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]] - Professional peer
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Philosophical discussions
+- [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]] - Territorial negotiations
 
 ### Locations
 - [[Embassy of Emptiness]] - Primary residence and workplace
@@ -408,6 +408,6 @@ Legends speak of Tenebrarum as a nexus where past and present converge. Locals d
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
 
 <!-- enriched: true -->

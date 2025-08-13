@@ -35,7 +35,7 @@ world: Both
 - Fail: Scandal/attack; faction -2 with one; pursuit or crisis scene
 
 ## Integrations
-- [[Complete Faction Warfare System]]; [[Transportation_Infrastructure]]; event chains across packs
+- [[Complete Faction Warfare System]]; [[Transportation_Infrastructure|Transportation Infrastructure]]; event chains across packs
 
 ## Quick-Run
 - Tactics→Helm→Diplomacy; apply standing/reward; trigger follow-up if failed

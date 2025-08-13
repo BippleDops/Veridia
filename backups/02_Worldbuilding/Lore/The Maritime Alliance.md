@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy|02 Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
 
 
 ## Connections

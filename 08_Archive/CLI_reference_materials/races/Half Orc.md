@@ -41,7 +41,7 @@ Thanks to your orc blood, you have superior vision in dark and dim conditions. Y
 
 ### Menacing
 
-You gain proficiency in the [Intimidation](/03_Mechanics/CLI/skills.md#Intimidation) skill.
+You gain proficiency in the [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]] skill.
 
 ### Relentless Endurance
 

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-oota-ixitxachitl-oota.svg)
 
-# [Ixitxachitl](3-Mechanics\CLI\bestiary\aberration/ixitxachitl-oota.md)
+# [[3-Mechanics\CLI\bestiary\aberration/ixitxachitl-oota|Ixitxachitl]]
 *Source: Out of the Abyss p. 225*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.

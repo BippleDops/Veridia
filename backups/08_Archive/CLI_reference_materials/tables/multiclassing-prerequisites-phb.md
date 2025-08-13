@@ -23,18 +23,18 @@ world: Both
 
 | Class | Ability Score Minimum |
 |-------|-----------------------|
-| [Barbarian](/03_Mechanics/CLI/classes/barbarian-xphb.md) | Strength 13 |
-| [Bard](/03_Mechanics/CLI/classes/bard-xphb.md) | Charisma 13 |
-| [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md) | Wisdom 13 |
-| [Druid](/03_Mechanics/CLI/classes/druid-xphb.md) | Wisdom 13 |
-| [Fighter](/03_Mechanics/CLI/classes/fighter-xphb.md) | Strength 13 or Dexterity 13 |
-| [Monk](/03_Mechanics/CLI/classes/monk-xphb.md) | Dexterity 13 and Wisdom 13 |
-| [Paladin](/03_Mechanics/CLI/classes/paladin-xphb.md) | Strength 13 and Charisma 13 |
-| [Ranger](/03_Mechanics/CLI/classes/ranger-xphb.md) | Dexterity 13 and Wisdom 13 |
-| [Rogue](/03_Mechanics/CLI/classes/rogue-xphb.md) | Dexterity 13 |
-| [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) | Charisma 13 |
-| [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | Charisma 13 |
-| [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | Intelligence 13 |
+| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | Strength 13 |
+| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | Charisma 13 |
+| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | Wisdom 13 |
+| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | Wisdom 13 |
+| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | Strength 13 or Dexterity 13 |
+| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | Dexterity 13 and Wisdom 13 |
+| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | Strength 13 and Charisma 13 |
+| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | Dexterity 13 and Wisdom 13 |
+| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | Dexterity 13 |
+| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | Charisma 13 |
+| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | Charisma 13 |
+| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | Intelligence 13 |
 ^multiclassing-prerequisites
 
 ## Player-Facing Summary

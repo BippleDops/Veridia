@@ -177,7 +177,7 @@ session_notes:              # Session-specific annotations
 
 ### Primary Categories
 ```yaml
-# Content Type Tags (✅ APPLIED TO 10,545 FILES)
+## Content Type Tags (✅ APPLIED TO 10,545 FILES)
 - content/adventure     # Adventures, quests, scenarios
 - content/npc           # Non-player characters, people
 - content/location      # Places, sites, settlements
@@ -187,20 +187,20 @@ session_notes:              # Session-specific annotations
 - content/mechanics     # Rules, systems, stats
 - content/template      # Frameworks, structures
 
-# World Tags (✅ APPLIED TO 10,545 FILES)
+## World Tags (✅ APPLIED TO 10,545 FILES)
 - world/aethermoor          # Crystal realm, sky cities, aerial magic
 - world/aquabyssos          # Deep sea realm, pressure magic, underwater
 - world/both                # Cross-world content, universal themes
 - world/surface             # Land-based, terrestrial content
 
-# Campaign Tags (✅ APPLIED TO 10,545 FILES)
+## Campaign Tags (✅ APPLIED TO 10,545 FILES)
 - campaign/session          # Session-ready content, encounters
 - campaign/arc               # Campaign storylines, plot arcs
 - campaign/hook              # Adventure hooks, leads, opportunities
 - campaign/objective         # Goals, missions, targets
 - campaign/consequence       # Results, aftermath, impacts
 
-# Status Tags (✅ APPLIED TO 10,545 FILES)
+## Status Tags (✅ APPLIED TO 10,545 FILES)
 - status/complete           # Finished, done, completed
 - status/draft              # Initial creation, work-in-progress
 - status/in-progress        # Actively being developed, ongoing
@@ -208,19 +208,19 @@ session_notes:              # Session-specific annotations
 - status/archived           # Old, deprecated, legacy content
 - status/stub               # Placeholder, minimal, outline
 
-# Importance Tags (✅ APPLIED TO 10,545 FILES)
+## Importance Tags (✅ APPLIED TO 10,545 FILES)
 - importance/critical       # Vital, essential, crucial content
 - importance/major          # Important, significant, key content
 - importance/minor          # Secondary, supporting, peripheral
 - importance/core           # Central, primary, main content
 
-# Access Tags (✅ APPLIED TO 10,545 FILES)
+## Access Tags (✅ APPLIED TO 10,545 FILES)
 - access/public             # Open, player-facing, visible
 - access/restricted         # Limited, controlled, private
 - access/secret             # Hidden, classified, confidential
 - access/dm-only            # GM-only, spoiler, behind-scenes
 
-# Mechanics Tags (✅ APPLIED TO 10,545 FILES)
+## Mechanics Tags (✅ APPLIED TO 10,545 FILES)
 - mechanics/combat          # Battle, fight, conflict systems
 - mechanics/social          # Diplomacy, negotiation, interaction
 - mechanics/exploration     # Discovery, investigation, search
@@ -386,7 +386,7 @@ cssclasses:
 
 ### Universal Section Headers
 ```markdown
-# [Content Title]
+## [Content Title]
 *Brief descriptive subtitle*
 
 ## Overview
@@ -409,7 +409,7 @@ cssclasses:
 
 #### Adventure Structure
 ```markdown
-# [Adventure Title]
+## [Adventure Title]
 *Brief hook and tone*
 
 ## Adventure Overview
@@ -421,9 +421,9 @@ cssclasses:
 ## Player Handouts
 ```
 
-#### NPC Structure
+### NPC Structure
 ```markdown
-# [NPC Name]
+## [NPC Name]
 *Brief description and role*
 
 ## Character Overview
@@ -435,9 +435,9 @@ cssclasses:
 ## Notes and Secrets
 ```
 
-#### Location Structure
+### Location Structure
 ```markdown
-# [Location Name]
+## [Location Name]
 *Brief description and significance*
 
 ## Location Overview
@@ -453,14 +453,14 @@ cssclasses:
 
 ### Link Formatting
 ```markdown
-# Standard link format
+## Standard link format
 [[Target File|Display Text]]
 
-# Content type prefixes for clarity
-[[02_Worldbuilding/NPCs/Character Name]]
-[[03_Mechanics/Rules/System Name]]
+## Content type prefixes for clarity
+[[02_Worldbuilding/NPCs/Character Name|02 Worldbuilding/NPCs/Character Name]]
+[[03_Mechanics/Rules/System Name|03 Mechanics/Rules/System Name]]
 
-# Contextual links with descriptions
+## Contextual links with descriptions
 - [[Location Name]] - Brief context why it's relevant
 - [[NPC Name]] - Their role or relationship
 ```

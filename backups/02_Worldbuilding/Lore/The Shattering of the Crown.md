@@ -572,7 +572,7 @@ These questions continue to resonate through Aethermoor culture, politics, and i
 - [[The Great Convergence Prophecies]]
 - [[The Great Crystallization]]
 - [[The Seven Shards]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -596,7 +596,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[The Crown of Stars]]
 - [[The Seven Betrayers]]
 - [[The Crimson Sage]]

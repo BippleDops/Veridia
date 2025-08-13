@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kruthik-hive-lord-mpmm-kruthik-hive-lord-mpmm.svg)
 
-# [Kruthik Hive Lord](3-Mechanics\CLI\bestiary\monstrosity/kruthik-hive-lord-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/kruthik-hive-lord-mpmm|Kruthik Hive Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -71,7 +71,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "10"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 18"
 "languages": "Kruthik"
@@ -79,7 +79,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
+      \ ally isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 10-foot-diameter tunnel in its wake."

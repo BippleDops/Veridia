@@ -19,7 +19,7 @@ world: Both
 
 # Vehicle Core Rules
 
-These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
+These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
 
 ## 1) Vehicle Stat Block
 - Class: Scout, Frigate, Cruiser, Carrier, Leviathan
@@ -84,7 +84,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 - Anchors: Mounted devices increase RSB; each anchor reduces merger event severity by 1 step within range
 
 ## 9) Faction Doctrines & Mod Slots
-- Each faction grants one mod slot and one doctrine bonus to ships they sponsor (see [[Fleet_Dynamics_Generator]])
+- Each faction grants one mod slot and one doctrine bonus to ships they sponsor (see [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]])
 
 ## 10) Crew Roles (Examples)
 - Captain: Command economy, morale
@@ -144,12 +144,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Campaign_Dashboard]]
+- [[Campaign_Dashboard|Campaign Dashboard]]
 
 
 ## Connections
 
-- [[Mass_Combat_Evolution]]
-- [[Aquabyssos_Submarines]]
-- [[Player_Handout_Aquabyssos_Submarines]]
-- [[Pressure_Weather_Events]]
+- [[Mass_Combat_Evolution|Mass Combat Evolution]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Player_Handout_Aquabyssos_Submarines|Player Handout Aquabyssos Submarines]]
+- [[Pressure_Weather_Events|Pressure Weather Events]]

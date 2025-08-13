@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sanctuary Safeharbor]]
+- [[02_Worldbuilding/Places/Sanctuary Safeharbor|02 Worldbuilding/Places/Sanctuary Safeharbor]]
 
 <!-- enriched: true -->
 

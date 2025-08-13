@@ -15,7 +15,7 @@ role: Master Crystal Artificer
 affiliation: Aetherian Guild of Artificers
 age: '67'
 race: Human (Aethermoor Native)
-location: '[[02_Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
+location: '[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
 created_by: auto-stub
 created: 2025-08-08 - Category/People
 MyContainer: None
@@ -34,7 +34,7 @@ updated: '2025-08-11T00:00:00+00:00'
 *Master Crystal Artificer of Aethermoor, Pioneer of Living Crystal Technology*
 
 ## Overview
-Maestra Luminara Crystalweave stands as Aethermoor's foremost crystal artificer, dedicating her life to unlocking the deepest secrets of living crystal technology. Her workshop in the [[02_Worldbuilding/Places/Crystal Gardens]] serves as both laboratory and sanctuary, where she pushes the boundaries between magical crystal growing and mechanical engineering. Known throughout Aethermoor for innovations that have transformed everything from skyship navigation to agricultural automation, Luminara represents the pinnacle of Aethermoor's unique crystalline civilization.
+Maestra Luminara Crystalweave stands as Aethermoor's foremost crystal artificer, dedicating her life to unlocking the deepest secrets of living crystal technology. Her workshop in the [[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] serves as both laboratory and sanctuary, where she pushes the boundaries between magical crystal growing and mechanical engineering. Known throughout Aethermoor for innovations that have transformed everything from skyship navigation to agricultural automation, Luminara represents the pinnacle of Aethermoor's unique crystalline civilization.
 
 ## Description
 - **Appearance**: Tall and elegant with silver hair streaked with crystal dust that seems to shimmer with its own light
@@ -102,7 +102,7 @@ Luminara's workshop represents the cutting edge of Aethermoor crystal technology
 
 ### Current Major Projects
 **The Convergence Crystal Project**: Developing crystals that can bridge dimensional boundaries
-- Collaboration with [[02_Worldbuilding/Groups/The Convergence Seekers]] studying reality manipulation
+- Collaboration with [[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]] studying reality manipulation
 - Testing crystal formations that resonate with dimensional energy
 - Safety protocols for handling unstable dimensional interfaces
 - Potential applications for inter-dimensional communication and travel
@@ -129,16 +129,16 @@ Luminara's workshop represents the cutting edge of Aethermoor crystal technology
 - **Archive Keeper Memoriam**: Maintains the guild's crystalline knowledge storage and research records
 
 ### Cross-Guild Collaborations
-- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Joint projects combining crystal technology with botanical cultivation
-- **[[02_Worldbuilding/Groups/Cloud Shepherd Guild]]**: Development of crystal weather prediction and sky current navigation systems
+- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow|02 Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Joint projects combining crystal technology with botanical cultivation
+- **[[02_Worldbuilding/Groups/Cloud Shepherd Guild|02 Worldbuilding/Groups/Cloud Shepherd Guild]]**: Development of crystal weather prediction and sky current navigation systems
 - **[[Wind Riders Union]]**: Creating enhanced crystal systems for wind-powered transportation
 - **Merchant Aviation Consortium**: Commercial applications of crystal navigation and cargo management systems
 
 ### External Partnerships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Direct advisor on crystal technology development for royal projects
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Controversial collaboration on dimensional crystal research
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Direct advisor on crystal technology development for royal projects
+- **[[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]**: Controversial collaboration on dimensional crystal research
 - **Inter-District Engineering Council**: Coordination of crystal technology standards across all Aethermoor districts
-- **[[02_Worldbuilding/Places/Aethermoor Archives]]**: Research partnerships accessing ancient crystal lore and techniques
+- **[[02_Worldbuilding/Places/Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]**: Research partnerships accessing ancient crystal lore and techniques
 
 ### Personal Relationships
 - **Partner Resonance Silverwind**: Fellow artificer specializing in crystal music and harmony applications
@@ -229,7 +229,7 @@ The city-wide crystal network Luminara designed has begun exhibiting signs of co
 - **Evolution**: Potential for partnership with a city-scale conscious entity or conflict if negotiations fail
 
 ### 4. The Convergence Crisis (Level 14-20)
-Luminara's dimensional crystal research has accidentally created a permanent portal to [[02_Worldbuilding/Places/Aquabyssos]], and entities from the deep-sea realm are beginning to emerge.
+Luminara's dimensional crystal research has accidentally created a permanent portal to [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], and entities from the deep-sea realm are beginning to emerge.
 - **Dimensional Hazards**: Managing threats from creatures adapted to crushing ocean depths
 - **Reality Instability**: The portal is causing unpredictable effects on local reality
 - **Diplomatic Complications**: First contact situation with Aquabyssos entities
@@ -259,7 +259,7 @@ A disease is affecting Aethermoor's crystal networks, causing them to grow chaot
 - **Resource Allocation Overseer**: Manages distribution of rare crystal materials among guild members
 
 ### City-State Political Involvement
-- **Royal Technology Advisor**: Direct consultation relationship with [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- **Royal Technology Advisor**: Direct consultation relationship with [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]
 - **Infrastructure Planning Committee**: Member of the council overseeing Aethermoor's technological development
 - **Emergency Response Coordinator**: Leads technological crisis response efforts
 - **Trade Regulation Advisory**: Consults on policies affecting crystal technology commerce
@@ -550,6 +550,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - Crystal Innovation]]
+- [[02_Worldbuilding/People/Quest - Crystal Innovation|02 Worldbuilding/People/Quest Crystal Innovation]]
 
 <!-- enriched: true -->

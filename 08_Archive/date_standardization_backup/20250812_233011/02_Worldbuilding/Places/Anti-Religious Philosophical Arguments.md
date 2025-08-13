@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Anti-Religious Philosophical Arguments]]
+- [[02_Worldbuilding/Places/Anti-Religious Philosophical Arguments|02 Worldbuilding/Places/Anti Religious Philosophical Arguments]]
 
 <!-- enriched: true -->
 

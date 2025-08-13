@@ -10,7 +10,7 @@ tags:
 - undead
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
-parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 sub_locations:
 - '[[The Spectral Gallery]]'
 - '[[Chamber of Eternal Debate]]'
@@ -20,7 +20,7 @@ sub_locations:
 depth: 2200-2400 feet
 population: 144
 government: Undead Parliamentary Democracy
-ruler: '[[02_Worldbuilding/People/The Eternal Speaker]]'
+ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
 factions:
 - '[[The Original Senators]]'
 - '[[Shadow Replacements]]'
@@ -36,8 +36,8 @@ services:
 - Spectral Legal Consultation
 - Death Transition Counseling
 notable_npcs:
-- '[[02_Worldbuilding/People/The Eternal Speaker]]'
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
+- '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
 - '[[The Clerk of Souls]]'
 current_state: Active undead parliament
@@ -68,7 +68,7 @@ type: Location
 
 ## Overview
 
-The Eternal Senate Chamber represents the paradoxical heart of [[Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[02_Worldbuilding/Places/Parliament of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
+The Eternal Senate Chamber represents the paradoxical heart of [[Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
 
 The chamber itself is a marvel of necromantic architecture, built within what was once the grand cathedral of the surface capital. Massive bone buttresses support a vaulted ceiling decorated with the preserved remains of pre-drowning stained glass, now telling stories of transformation and undeath rather than divine salvation. The entire complex operates on the principle that consciousness, not biology, determines citizenship rights.
 
@@ -157,7 +157,7 @@ Senators whose original consciousness has been replaced by shadow entities, thou
 - Shadow integration into society
 - Expanding shadow rights and recognition
 - Reforming laws that discriminate against shadow entities
-- Secret coordination with [[02_Worldbuilding/Groups/The Shadow Trade Network]]
+- Secret coordination with [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]
 
 #### The Transcended
 Politicians who have evolved beyond simple undeath into more complex forms of post-mortem existence. They advocate for progressive policies and societal evolution.
@@ -214,7 +214,7 @@ Debate over whether to continue the ban on contact with surface world survivors,
 ## Notable Senators
 
 ### The Undead Leadership
-**[[02_Worldbuilding/People/Senator Glaucus]]** - Veteran politician (Shadow replacement)
+**[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]** - Veteran politician (Shadow replacement)
 - Former living senator now operated by shadow entity
 - Chairs the Foreign Relations Committee
 - Suspected of having secret agenda beyond official duties
@@ -302,7 +302,7 @@ The emotional intensity of undead political passion creates psychic effects:
 A secret faction of living senators is working to gradually reduce undead political power, believing that death should disqualify political participation.
 
 ### The Memory Merchants
-Several senators are secretly selling their pre-drowning memories to [[02_Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
+Several senators are secretly selling their pre-drowning memories to [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]], compromising their ability to represent their original constituencies.
 
 ### The Resurrection Clause
 Buried in parliamentary procedure is a clause that would dissolve the entire undead government if a way to resurrect all drowning victims were discovered.
@@ -313,19 +313,19 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 ## Connected Locations
 
 ### Government Complex
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Broader parliamentary complex
-- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Executive branch seat
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Broader parliamentary complex
+- **[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]:** Executive branch seat
 - **[[Parliamentary Archives]]:** Historical government records
 - **[[Undead Services Bureau]]:** Citizen services for the deceased
 
 ### Allied Institutions
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Undead spiritual support
+- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Undead spiritual support
 - **[[Undead Rights Organization HQ]]:** Advocacy and legal support
 - **[[The Transition Centers]]:** Death preparation and adaptation services
 
 ### Opposition Sites
 - **[[Living Supremacist Enclaves]]:** Anti-undead political movements
-- **[[02_Worldbuilding/Groups/The Leviathan Cult]]:** Religious opposition to undead governance
+- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Religious opposition to undead governance
 - **[[Surface Loyalist Safe Houses]]:** Pro-surface political resistance
 
 ## Adventure Hooks
@@ -428,7 +428,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[02_Worldbuilding/Places/The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]
 
 <!-- enriched: true -->
 

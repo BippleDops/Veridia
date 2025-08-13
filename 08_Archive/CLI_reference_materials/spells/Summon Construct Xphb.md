@@ -33,13 +33,13 @@ world: Both
 - **Components:** V, S, M (a lockbox worth 400+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the [Construct Spirit](/03_Mechanics/CLI/bestiary/construct/construct-spirit-xphb.md) stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) or when the spell ends.
+You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the [[/03_Mechanics/CLI/bestiary/construct/construct-spirit-xphb|Construct Spirit]] stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [Dodge](/03_Mechanics/CLI/actions.md#Dodge) action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[/03_Mechanics/CLI/actions#Dodge|Dodge]] action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/03_Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 324*
 

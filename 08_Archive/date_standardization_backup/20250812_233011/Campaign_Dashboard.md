@@ -282,11 +282,11 @@ SORT file.name ASC
 - [[Sanity Horror Framework]] - Madness tracking
 
 ### Resource Management
-- [[04_Resources/Assets]] - Visual materials
-- [[04_Resources/Handouts]] - Player handouts
-- [[04_Resources/Random_Tables]] - Generation tables
-- [[07_Player_Resources]] - Player references
-- [[02_Worldbuilding/Lore/GM Resources]] - GM materials
+- [[04_Resources/Assets|04 Resources/Assets]] - Visual materials
+- [[04_Resources/Handouts|04 Resources/Handouts]] - Player handouts
+- [[04_Resources/Random_Tables|04 Resources/Random Tables]] - Generation tables
+- [[07_Player_Resources|07 Player Resources]] - Player references
+- [[02_Worldbuilding/Lore/GM Resources|02 Worldbuilding/Lore/GM Resources]] - GM materials
 
 ## 🎯 Session Preparation Checklist
 
@@ -377,7 +377,7 @@ if (daysSinceUpdate > 7) {
 - [[Master Index]] - Complete vault navigation
 - [[World Bible]] - Comprehensive lore reference  
 - [[Campaign Index]] - Session archive
-- [[Quick_Start_Guide]] - New player onboarding
+- [[Quick_Start_Guide|Quick Start Guide]] - New player onboarding
 - [[GM Resources]] - Gamemaster tools
 
 ---
@@ -388,13 +388,13 @@ if (daysSinceUpdate > 7) {
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/GM Resources]]
-- [[07_Player_Resources]]
+- [[02_Worldbuilding/Lore/GM Resources|02 Worldbuilding/Lore/GM Resources]]
+- [[07_Player_Resources|07 Player Resources]]
 - [[Complete Pressure Adaptation System]]
 - [[Complete Reality Merger System]]
 - [[Encounter Builder]]
@@ -404,6 +404,6 @@ if (daysSinceUpdate > 7) {
 - [[Sanity Horror Framework]]
 - [[Session Planning Toolkit]]
 - [[World Bible]]
-- [[Vehicle_Core_Rules]]
-- [[Travel_Event_Table]]
-- [[Quick_Start_Guide]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]
+- [[Travel_Event_Table|Travel Event Table]]
+- [[Quick_Start_Guide|Quick Start Guide]]

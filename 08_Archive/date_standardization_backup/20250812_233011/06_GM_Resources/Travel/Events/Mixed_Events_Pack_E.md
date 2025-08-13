@@ -19,7 +19,7 @@ world: Both
 
 # Mixed Events Pack E — Legendary Tier (12)
 
-### X-L-01: The Two Thrones Summit
+## X-L-01: The Two Thrones Summit
 - Stakes: Dual-world governance.
 - Checks: Diplomacy DC 18; Law DC 18; Tactics DC 17 security.
 - Outcomes: Success: Unified charter; war clocks reset. Partial: Fragile pact. Fail: Assassination arc.

@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pilgrimage Master Depth Guide Melancholy]]
+- [[02_Worldbuilding/Places/Pilgrimage Master Depth Guide Melancholy|02 Worldbuilding/Places/Pilgrimage Master Depth Guide Melancholy]]
 
 <!-- enriched: true -->

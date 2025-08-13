@@ -25,16 +25,16 @@ world: Both
 
 | dice: d10 | Stone Description |
 |-----------|-------------------|
-| 1 | [Amber](/03_Mechanics/CLI/items/amber-xdmg.md) (transparent watery gold to rich gold) |
-| 2 | [Amethyst](/03_Mechanics/CLI/items/amethyst-xdmg.md) (transparent deep purple) |
-| 3 | [Chrysoberyl](/03_Mechanics/CLI/items/chrysoberyl-xdmg.md) (transparent yellow-green to pale green) |
-| 4 | [Coral](/03_Mechanics/CLI/items/coral-xdmg.md) (opaque crimson) |
-| 5 | [Garnet](/03_Mechanics/CLI/items/garnet-xdmg.md) (transparent red, brown-green, or violet) |
-| 6 | [Jade](/03_Mechanics/CLI/items/jade-xdmg.md) (translucent light green, deep green, or white) |
-| 7 | [Jet](/03_Mechanics/CLI/items/jet-xdmg.md) (opaque deep black) |
-| 8 | [Pearl](/03_Mechanics/CLI/items/pearl-xdmg.md) (opaque lustrous white, yellow, or pink) |
-| 9 | [Spinel](/03_Mechanics/CLI/items/spinel-xdmg.md) (transparent red, red-brown, or deep green) |
-| 10 | [Tourmaline](/03_Mechanics/CLI/items/tourmaline-xdmg.md) (transparent pale green, blue, brown, or red) |
+| 1 | [[/03_Mechanics/CLI/items/amber-xdmg|Amber]] (transparent watery gold to rich gold) |
+| 2 | [[/03_Mechanics/CLI/items/amethyst-xdmg|Amethyst]] (transparent deep purple) |
+| 3 | [[/03_Mechanics/CLI/items/chrysoberyl-xdmg|Chrysoberyl]] (transparent yellow-green to pale green) |
+| 4 | [[/03_Mechanics/CLI/items/coral-xdmg|Coral]] (opaque crimson) |
+| 5 | [[/03_Mechanics/CLI/items/garnet-xdmg|Garnet]] (transparent red, brown-green, or violet) |
+| 6 | [[/03_Mechanics/CLI/items/jade-xdmg|Jade]] (translucent light green, deep green, or white) |
+| 7 | [[/03_Mechanics/CLI/items/jet-xdmg|Jet]] (opaque deep black) |
+| 8 | [[/03_Mechanics/CLI/items/pearl-xdmg|Pearl]] (opaque lustrous white, yellow, or pink) |
+| 9 | [[/03_Mechanics/CLI/items/spinel-xdmg|Spinel]] (transparent red, red-brown, or deep green) |
+| 10 | [[/03_Mechanics/CLI/items/tourmaline-xdmg|Tourmaline]] (transparent pale green, blue, brown, or red) |
 ^100-gp-gemstones
 
 ## Player-Facing Summary

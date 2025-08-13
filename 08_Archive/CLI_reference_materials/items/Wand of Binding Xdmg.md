@@ -36,8 +36,8 @@ While holding the wand, you can cast one of the spells (save DC 17) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) | 5 |
-| [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md) | 2 |
+| [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]] | 5 |
+| [[/03_Mechanics/CLI/spells/hold-person-xphb|Hold Person]] | 2 |
 ^spell-charge-cost
 
 ## Regaining Charges

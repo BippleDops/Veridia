@@ -19,7 +19,7 @@ world: Both
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 
 
-![You don't need a magical g...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp#center "You don't need a magical game table to play D&D, but wouldn't it be fun?")
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp#center "You don't need a magical game table to play D&D, but wouldn't it be fun?"|You don't need a magical g...]]
 
 Dungeons & Dragons is a game in which you and your friends take on roles and tell a shared story. While the "Player's Handbook" teaches you how to play the game and how to create characters who are the heroes of the story, the *Dungeon Master's Guide* is written for the player who presides over the game and makes sure everyone is having fun. This player is the Dungeon Master, or DM. Being a Dungeon Master is a fun, empowering, and rewarding experience, and this chapter walks you through the basics.
 
@@ -117,7 +117,7 @@ Lots of digital dice rollers exist. Simple, browser-based dice rollers are easil
 
 ### Note-Taking Materials
 
-Everyone needs some way to take notes. During every round of combat, someone needs to keep track of [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), conditions, and other information. Players often like to take notes about what happens in the adventure, and at least one of them should record any clues and treasure the characters collect.
+Everyone needs some way to take notes. During every round of combat, someone needs to keep track of [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]], [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], conditions, and other information. Players often like to take notes about what happens in the adventure, and at least one of them should record any clues and treasure the characters collect.
 
 #### Character Sheets
 
@@ -153,7 +153,7 @@ Many software tools designed to facilitate online D&D play provide a battle grid
 
 Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
 
-![What do you do when a die ...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp#center "What do you do when a die lands cocked? See the end of this chapter for advice")
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp#center "What do you do when a die lands cocked? See the end of this chapter for advice"|What do you do when a die ...]]
 
 ## Preparing a Session
 
@@ -172,7 +172,7 @@ A D&D game session usually starts with some out-of-game chatter as everyone sett
 
 A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own.
 
-![Like Zuggtmoy, the Demon Q...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp#center "Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!")
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp#center "Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!"|Like Zuggtmoy, the Demon Q...]]
 
 ### Preparation Time
 
@@ -248,8 +248,8 @@ Sometimes the players might give you a group answer: "We go through the door." O
 After the players describe their characters' actions, it's the DM's job to resolve those actions, guided by the rules and the adventure you've prepared. So how do you decide? Think through these possibilities:
 
 - **No Rules Required.** Sometimes, resolving a situation is easy. If an adventurer wants to cross an empty room and open a door, you can just say that the door opens and describe what lies beyond (perhaps referencing your map or notes).  
-- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md), usually an ability check. For example, a successful Dexterity ([Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md) and other tools to determine the results of characters' actions.  
-- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md), [Indifferent](/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md), or [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md). Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
+- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]], usually an ability check. For example, a successful Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check might be needed to pick the lock, while a successful Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]] and other tools to determine the results of characters' actions.  
+- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [[/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb|Friendly]], [[/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb|Indifferent]], or [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]]. Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
 - **One Action at a Time.** The "rules about actions" in the "Player's Handbook" limit how many things a character can do at once. Keeping those rules in mind can help you adjudicate situations.  
 - **Combat.** In combat, many situations involve attack rolls or saving throws. The rules of combat can help you determine the effectiveness of a character's actions. The ""Running Combat"" section in "chapter 2" offers advice on combat.  
 - **Spellcasting.** If a character casts a spell, you can usually let the player tell you what the spell does and how to resolve it. If questions arise, read the text of the spell yourself—how a spell is supposed to work is usually pretty clear. The general "rules of spellcasting" in the "Player's Handbook" are also essential for resolving a spell's effects.  
@@ -272,7 +272,7 @@ Expect players to discuss the events of the game, spend time planning, and engag
 
 ### Ending a Session
 
-Try not to end a game session in the middle of an encounter. It's difficult to keep track of information such as [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) order and other round-by-round details between sessions. An exception to this guideline is when you purposely end a session with a cliffhanger, where the story pauses just as something monumental happens or some surprising turn of events occurs. A cliffhanger can keep players intrigued and excited until the next session.
+Try not to end a game session in the middle of an encounter. It's difficult to keep track of information such as [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] order and other round-by-round details between sessions. An exception to this guideline is when you purposely end a session with a cliffhanger, where the story pauses just as something monumental happens or some surprising turn of events occurs. A cliffhanger can keep players intrigued and excited until the next session.
 
 If a player missed a session and you had that player's character leave the party for a while, make sure that there's a way to bring the character back when the player returns. Sometimes a cliffhanger can serve this purpose: the character charges in to help their beleaguered companions.
 
@@ -284,7 +284,7 @@ These pages present a short example of play, similar to the ones in the "Player'
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
-![Sinister shapes lurk near ...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp#center "Sinister shapes lurk near the cave entrance as the adventurers approach")
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp#center "Sinister shapes lurk near the cave entrance as the adventurers approach"|Sinister shapes lurk near ...]]
 
 - **Jared (as DM).** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?  
 - **Amy.** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.  
@@ -331,7 +331,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!note] 3
 > 
-> The DM rolls [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the ""Running Combat"" section in "chapter 2" for advice about rolling and tracking Initiative.
+> The DM rolls [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the ""Running Combat"" section in "chapter 2" for advice about rolling and tracking Initiative.
 ^3
 
 > [!note] 4
@@ -346,7 +346,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!note] 6
 > 
-> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [Vulnerability](/03_Mechanics/CLI/variant-rules/vulnerability-xphb.md) to Fire damage (because they're just dry shrubs) and so few [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) that they'll die no matter what they roll.
+> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [[/03_Mechanics/CLI/variant-rules/vulnerability-xphb|Vulnerability]] to Fire damage (because they're just dry shrubs) and so few [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] that they'll die no matter what they roll.
 ^6
 
 > [!note] 7
@@ -358,7 +358,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 - **Jared.** There are three on your side of the stream and three on the other side. You can get either group in your Cone.  
 
-- **Maeve.** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md)!  
+- **Maeve.** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. [[/03_Mechanics/CLI/spells/burning-hands-xphb|Burning Hands]]!  
 
 - **Jared.** OK, what do I need to do?  
 
@@ -370,7 +370,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 - **Maeve.** My work here is done. *(She mimes blowing smoke away from her fingertips.)*  
 - **Jared.** Gareth, you're up next.  
-- **Phillip.** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting [Toll the Dead](/03_Mechanics/CLI/spells/toll-the-dead-xphb.md). The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.  
+- **Phillip.** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting [[/03_Mechanics/CLI/spells/toll-the-dead-xphb|Toll the Dead]]. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.  
 - **Jared.** Well, I rolled a 1.  
 - **Phillip.** It takes 7 Necrotic damage!  
 - **Jared.** Whatever moisture was in this "bundle of kindling" seems to dry up, and the thing keels over dead. Anything else, Gareth?  
@@ -384,7 +384,7 @@ The DM starts by asking the players to recap the action of the previous session,
 - **Jared.** That hits! What's your damage?  
 - **Amy.** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.  
 - **Jared.** It's felled! Mirabella, the last one is running away. Will you let it escape?  
-- **Maeve.** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast [Fire Bolt](/03_Mechanics/CLI/spells/fire-bolt-xphb.md), getting a 14 to hit.  
+- **Maeve.** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast [[/03_Mechanics/CLI/spells/fire-bolt-xphb|Fire Bolt]], getting a 14 to hit.  
 - **Jared.** You nailed it.  
 - **Maeve.** It takes 10 Fire damage!  
 - **Jared.** Yeah, the last shrub is incinerated. Well done!  
@@ -470,7 +470,7 @@ Telling players what to expect prepares them as they imagine what sorts of chara
 
 Being clear about your expectations and making sure you understand your players' expectations in return can help ensure a smooth game. Take your players' opinions and desires seriously, and make sure they take yours just as seriously. Ideally, you'll find a style of play that suits everyone.
 
-![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp#center)
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp#center|Download PDF]]
 
 > [!note] Using the Game Expectations Sheet
 > 
@@ -502,7 +502,7 @@ Common in-game limits apply to topics such as intra-party romance, sex, exploita
 
 That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn't a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see ""Death"" in "chapter 3" for suggestions).
 
-![Conflicts between characte...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp#center "Conflicts between characters aren't always bad, but they can get in the way of the game")
+![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp#center "Conflicts between characters aren't always bad, but they can get in the way of the game"|Conflicts between characte...]]
 
 ##### Communicating Limits
 
@@ -602,7 +602,7 @@ Work out a policy about rules discussions at the table. Some groups don't mind p
 
 Some players like to use the rules to argue against your decisions. While such players can be helpful when you're stuck or make a rules mistake that's easily corrected, players who argue the rules too often can disrupt the flow of the game.
 
-If a player wants to pause play to find a specific rule or reference, you can invite the player to search for it while you and the rest of the players continue the game. That player's character essentially steps out of the game for as long as it takes. Monsters don't attack the character, and the character takes the [Dodge](/03_Mechanics/CLI/actions.md#Dodge) action in combat until the player rejoins the group. This solution allows the other players to keep playing instead of letting one player stop the game.
+If a player wants to pause play to find a specific rule or reference, you can invite the player to search for it while you and the rest of the players continue the game. That player's character essentially steps out of the game for as long as it takes. Monsters don't attack the character, and the character takes the [[/03_Mechanics/CLI/actions#Dodge|Dodge]] action in combat until the player rejoins the group. This solution allows the other players to keep playing instead of letting one player stop the game.
 
 #### Character Knowledge
 
@@ -628,7 +628,7 @@ Some players enjoy poring over the D&D rules and looking for optimal combination
 
 Setting clear expectations is essential when dealing with this kind of rules exploitation. Bear these principles in mind:
 
-- **Rules Aren't Physics.** The rules of the game are meant to provide a fun game experience, not to describe the laws of physics in the worlds of D&D, let alone the real world. Don't let players argue that a bucket brigade of ordinary people can accelerate a spear to light speed by all using the [Ready](/03_Mechanics/CLI/actions.md#Ready) action to pass the spear to the next person in line. The Ready action facilitates heroic action; it doesn't define the physical limitations of what can happen in a 6-second combat round.  
+- **Rules Aren't Physics.** The rules of the game are meant to provide a fun game experience, not to describe the laws of physics in the worlds of D&D, let alone the real world. Don't let players argue that a bucket brigade of ordinary people can accelerate a spear to light speed by all using the [[/03_Mechanics/CLI/actions#Ready|Ready]] action to pass the spear to the next person in line. The Ready action facilitates heroic action; it doesn't define the physical limitations of what can happen in a 6-second combat round.  
 - **The Game Is Not an Economy.** The rules of the game aren't intended to model a realistic economy, and players who look for loopholes that let them generate infinite wealth using combinations of spells are exploiting the rules.  
 - **Combat Is for Enemies.** Some rules apply only during combat or while a character is acting in Initiative order. Don't let players attack each other or helpless creatures to activate those rules.  
 - **Rules Rely on Good-Faith Interpretation.** The rules assume that everyone reading and interpreting the rules has the interests of the group's fun at heart and is reading the rules in that light.  

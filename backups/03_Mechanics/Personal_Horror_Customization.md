@@ -22,7 +22,7 @@ Tailored nightmares, breaking points, transformations, madness, whispers, and pe
 - Capture fears, bonds, memories; opt-in boundaries
 
 ## Breaking Points
-- Threshold mechanics that trigger short/long/indefinite effects (see [[02_Worldbuilding/Quests/Aquabyssos]])
+- Threshold mechanics that trigger short/long/indefinite effects (see [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]])
 
 ## Tailored Transformations
 - Map fear to transformation path (pressure, crystal, parasite, void)
@@ -55,10 +55,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Phase_Omega_Enhanced_Index]]
+- [[03_Mechanics/Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
 
 
 ## See Also
 
-- [[02_Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index]] - Campaign overview
+- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
+- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview

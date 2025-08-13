@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ancient Treasury of Tides]]
+- [[02_Worldbuilding/Places/Ancient Treasury of Tides|02 Worldbuilding/Places/Ancient Treasury Of Tides]]
 
 <!-- enriched: true -->
 

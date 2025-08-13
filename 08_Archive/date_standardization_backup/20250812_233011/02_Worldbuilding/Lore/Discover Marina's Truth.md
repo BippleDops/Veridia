@@ -157,7 +157,7 @@ Some evidence suggests all Marina iterations are controlled by a master consciou
 **Revelation**: Marina fragmented herself to prevent realm-ending catastrophe
 
 **Evidence Locations**:
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Marina's hidden research
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Marina's hidden research
 - [[Crystal Spires]] - Proof of coming convergence
 - [[The Deepmind]] - Neural network showing Marina's connected consciousness
 
@@ -348,7 +348,7 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 - Leave some mysteries for post-campaign speculation
 
 ## Connected Elements
-- Central to the [[02_Worldbuilding/Quests/Aquabyssos]]
+- Central to the [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - Key to understanding [[The Convergence Crisis]]
 - Explains inconsistencies in [[Parliament of Echoes]] records
 - Reveals true purpose of [[Memory Merchant Zephyr Mindweaver]]
@@ -356,8 +356,8 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -381,7 +381,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 - [[Crystal Wardens]]
 - [[Purist Coalition]]
 - [[The Crown Authority]]

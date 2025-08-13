@@ -19,7 +19,7 @@ danger_level: Moderate
 # The Vanishing Depths
 
 ## Overview
-The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[02_Worldbuilding/Places/Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
+The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
 
 ## The Nature of the Instability
 
@@ -75,7 +75,7 @@ Creatures that have adapted to feed on reality distortions themselves. These inc
 **Possibility Spiders**: Web-spinning entities that trap potential futures in crystalline nets
 
 ### The Lost Expedition
-An entire research team from [[02_Worldbuilding/Places/New Tethys]] that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
+An entire research team from [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
 
 ## Hazards and Dangers
 
@@ -157,23 +157,23 @@ Pearls that contain entire pocket dimensions where refugees from collapsed reali
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/The Primordial Vaults]]
+### [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
 Some believe the Vanishing Depths are connected to the deepest levels of the Vaults, where reality was first damaged. Temporal explorers occasionally report finding passages that lead between the two locations.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 The city's research institutions send regular (though carefully planned) expeditions to study the Depths. The knowledge gained has advanced their understanding of memory magic and dimensional theory significantly.
 
-### [[02_Worldbuilding/Places/Aethermoor]]  
+### [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]  
 Reality tears occasionally connect the Depths to the surface world, creating brief portals that allow limited travel between realms. These connections are unpredictable and extremely dangerous to use.
 
-### [[02_Worldbuilding/Places/The Hadal Depths]]
+### [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]]
 The boundary between the Vanishing Depths and the Hadal Depths is unclear, as both locations exist partially outside normal reality. Some scholars believe they may be the same place viewed from different dimensional perspectives.
 
 ## Quest Hooks and Adventures
 
 ### The Stabilization Project
 **Level**: 13-17  
-[[02_Worldbuilding/Places/New Tethys]] scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
+[[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
 
 ### The Paradox Investigation  
 **Level**: 11-15  
@@ -208,7 +208,7 @@ A valuable artifact was lost in the Depths decades ago, but temporal distortions
 ## Research Value and Scientific Interest
 
 ### Dimensional Studies
-The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [[02_Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
+The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
 - Planar mechanics and dimensional travel
 - The relationship between magic and reality
 - Time travel theory and temporal paradox resolution
@@ -258,6 +258,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Vanishing Depths]]
+- [[02_Worldbuilding/Places/The Vanishing Depths|02 Worldbuilding/Places/The Vanishing Depths]]
 
 <!-- enriched: true -->

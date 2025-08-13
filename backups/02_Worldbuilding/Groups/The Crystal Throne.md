@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aether Crystals]]
+- [[02_Worldbuilding/Quests/Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
 
 
 ## Connections

@@ -34,7 +34,7 @@ accessibility:
 
 # Quest - Into the Wastes
 
-![Quest - Into the Wastes Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Into_the_Wastes.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_Into_the_Wastes.png|Quest - Into the Wastes Portrait]]
 
 ## Role and Motive
 Quest - Into the Wastes moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

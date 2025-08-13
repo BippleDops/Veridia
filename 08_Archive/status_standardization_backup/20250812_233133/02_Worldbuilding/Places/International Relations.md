@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/International Relations]]
+- [[02_Worldbuilding/Places/International Relations|02 Worldbuilding/Places/International Relations]]
 
 <!-- enriched: true -->
 

@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Whisper-Touched William]]
+- [[02_Worldbuilding/Places/Whisper-Touched William|02 Worldbuilding/Places/Whisper Touched William]]
 
 
 ## Connections

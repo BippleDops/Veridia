@@ -25,17 +25,17 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | 1 [sahuagin baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) with `d4` [sahuagin priestesses](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md) and `2d10` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 11-35 | `d10` [killer whales](/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) |
-| 36-40 | A ghost ship passing overhead, containing `2d6 + 10` [ghosts](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) |
-| 41-60 | `d6` [giant sharks](/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm.md) |
+| 01-10 | 1 [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm|sahuagin baron]] with `d4` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm|sahuagin priestesses]] and `2d10` [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|sahuagin]] |
+| 11-35 | `d10` [[/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm|killer whales]] |
+| 36-40 | A ghost ship passing overhead, containing `2d6 + 10` [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghosts]] |
+| 41-60 | `d6` [[/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm|giant sharks]] |
 | 61-65 | A 1-mile-radius sphere of effervescent water that allows air-breathing creatures to breathe water while in the sphere |
-| 66-75 | `d10` [water elementals](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
+| 66-75 | `d10` [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elementals]] |
 | 76-80 | A shimmering, blue-green portal to the Elemental Plane of Water |
-| 81-90 | `d4` [marids](/03_Mechanics/CLI/bestiary/elemental/marid-xmm.md) |
-| 91-96 | `d3` [storm giants](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
-| 97-99 | 1 [dragon turtle](/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) |
-| 00 | 1 [kraken](/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) |
+| 81-90 | `d4` [[/03_Mechanics/CLI/bestiary/elemental/marid-xmm|marids]] |
+| 91-96 | `d3` [[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm|storm giants]] |
+| 97-99 | 1 [[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm|dragon turtle]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|kraken]] |
 ^underwater-encounters-levels-1120
 
 ## Player-Facing Summary

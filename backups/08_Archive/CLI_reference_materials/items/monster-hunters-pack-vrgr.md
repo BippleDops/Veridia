@@ -30,17 +30,17 @@ world: Both
 
 Includes:
 
-- a [chest](/03_Mechanics/CLI/items/chest-xphb.md)  
-- a [crowbar](/03_Mechanics/CLI/items/crowbar-xphb.md)  
-- a [hammer](/03_Mechanics/CLI/items/hammer.md)  
+- a [[/03_Mechanics/CLI/items/chest-xphb|chest]]  
+- a [[/03_Mechanics/CLI/items/crowbar-xphb|crowbar]]  
+- a [[/03_Mechanics/CLI/items/hammer|hammer]]  
 - three wooden stakes  
-- a [holy symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md)  
-- a [flask of holy water](/03_Mechanics/CLI/items/holy-water-xphb.md)  
-- a set of [manacles](/03_Mechanics/CLI/items/manacles-xphb.md)  
-- a [steel mirror](/03_Mechanics/CLI/items/mirror-xphb.md)  
-- a [flask of oil](/03_Mechanics/CLI/items/oil-xphb.md)  
-- a [tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md)  
-- 3 [torches](/03_Mechanics/CLI/items/torch-xphb.md)  
+- a [[/03_Mechanics/CLI/items/holy-symbol-xphb|holy symbol]]  
+- a [[/03_Mechanics/CLI/items/holy-water-xphb|flask of holy water]]  
+- a set of [[/03_Mechanics/CLI/items/manacles-xphb|manacles]]  
+- a [[/03_Mechanics/CLI/items/mirror-xphb|steel mirror]]  
+- a [[/03_Mechanics/CLI/items/oil-xphb|flask of oil]]  
+- a [[/03_Mechanics/CLI/items/tinderbox-xphb|tinderbox]]  
+- 3 [[/03_Mechanics/CLI/items/torch-xphb|torches]]  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*
 

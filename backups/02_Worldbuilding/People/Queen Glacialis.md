@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Queen Glacialis]]
+- [[02_Worldbuilding/People/Queen Glacialis|02 Worldbuilding/People/Queen Glacialis]]
 
 <!-- enriched: true -->
 

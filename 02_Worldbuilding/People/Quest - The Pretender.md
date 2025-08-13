@@ -32,7 +32,7 @@ world: Aethermoor
 
 # Quest - The Pretender
 
-![Quest - The Pretender Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Pretender.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_The_Pretender.png|Quest - The Pretender Portrait]]
 
 ## Role and Motive
 Quest - The Pretender moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

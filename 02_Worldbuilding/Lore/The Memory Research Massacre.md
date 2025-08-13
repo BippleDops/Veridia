@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb|02 Worldbuilding/Lore/The Forgetting Bomb]]
 
 
 ## Connections

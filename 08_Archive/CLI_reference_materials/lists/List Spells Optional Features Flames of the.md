@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/fireball-xphb "XPHB"|Fireball]]
 
 ## Player-Facing Summary
 

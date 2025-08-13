@@ -9,7 +9,7 @@ tags:
 - npc
 - whisper-syndicate
 type: NPC
-location: Mobile (Currently [[02_Worldbuilding/Places/Port Meridian]])
+location: Mobile (Currently [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]])
 faction: Independent (Former Crystal Wardens)
 race: Human (Crystal-Touched)
 class: Fighter/Blood Hunter
@@ -73,15 +73,15 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 - **Crystal Warden Badge:** Scratched out but still carries it
 
 ## Relationships
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
 - **Sister Morwyn Veilkeeper**: Warned him about his eventual fate if corruption continues
 
 ## Current Activities
-- Hunting a crystal-infected cult in [[02_Worldbuilding/Places/Port Meridian]]'s quarantine zone
+- Hunting a crystal-infected cult in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'s quarantine zone
 - Investigating reports of "living crystals" that move with purpose
 - Secretly documenting stages of crystal infection for personal research
 - Building a network of other infected individuals who refuse to give in
@@ -145,6 +145,6 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]
+- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]
 
 <!-- enriched: true -->

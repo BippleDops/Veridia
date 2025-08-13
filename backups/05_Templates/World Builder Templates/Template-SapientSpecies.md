@@ -93,7 +93,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!note|no-title]
->> ![[Template_Species_Placeholder.png]]
+>> ![[Template_Species_Placeholder.png|Template Species Placeholder.png]]
 >
 >> [!note|div-m] Place Name
 >> ~~~meta-bind
@@ -152,7 +152,7 @@ setTimeout(() => {
 
 Enter description of the sapient species here. 
 
-# Goals
+## Goals
 
 - Defining Features
 - Commonly Spoken Languages:
@@ -164,14 +164,14 @@ Enter description of the sapient species here.
 - Weaknesses
 
 
-# Membership
+## Membership
 To join the group, a PC must spend X week 'doing' something, or 'something else'.
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
-# Hierarchy
+## Hierarchy
 
 `BUTTON[button_person]` List important relationships here. 
 
@@ -228,12 +228,12 @@ dv.paragraph(
 > | --- | --- | 
 > | `INPUT[list:members]`    | `INPUT[list:initiates]`    |
 
-# Enemies/Allies
+## Enemies/Allies
 **Enemies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyEnemies]`
 
 **Allies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyAllies]`
 
-# People
+## People
 
 The following people are members of this group.  
 
@@ -299,7 +299,7 @@ views:
 ```
 
 
-# Services
+## Services
 
 Services offered. 
 
@@ -316,7 +316,7 @@ Services offered.
 > | Service 1 | 1gp  | L      |
 > | Service 2 | 1cp  | -      |
 
-# Ranks
+## Ranks
 
 Ranks listed here
 
@@ -361,4 +361,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Species_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Species_Placeholder.png|02 Worldbuilding/Lore/Template Species Placeholder.png]]

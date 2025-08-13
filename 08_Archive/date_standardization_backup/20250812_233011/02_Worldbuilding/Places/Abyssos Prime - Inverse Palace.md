@@ -31,7 +31,7 @@ danger_level: Moderate
 
 ## Overview
 
-The [[Inverse Palace]] stands as the most paradoxical structure in all of [[Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[02_Worldbuilding/Lore/The Abyssal Court]] and the primary residence of [[The Deep Sovereign]].
+The [[Inverse Palace]] stands as the most paradoxical structure in all of [[Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[02_Worldbuilding/Lore/The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]] and the primary residence of [[The Deep Sovereign]].
 
 What makes the palace "inverse" is its fundamental rejection of directional reality - corridors flow upward into deeper waters, stairs descend toward surface pressures, and gravity itself seems negotiable within its coral-wrought halls. The structure exists in a state of perpetual architectural rebellion, where the concept of "up" and "down" become matters of political allegiance rather than physical law.
 
@@ -157,11 +157,11 @@ Many of the palace's passages are actually enormous, dormant creatures from the 
 
 ### The Ascension Plot
 
-A growing faction within the [[02_Worldbuilding/Lore/The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
+A growing faction within the [[02_Worldbuilding/Lore/The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
 
 - Create permanent [[Pressure Portals]] to surface waters
 - Establish [[Inverse Colonies]] on the ocean floor
-- Convert surface-dwelling sea creatures to serve the [[02_Worldbuilding/Lore/The Deep Sovereign]]
+- Convert surface-dwelling sea creatures to serve the [[02_Worldbuilding/Lore/The Deep Sovereign|02 Worldbuilding/Lore/The Deep Sovereign]]
 - Ultimately transform all oceans into extensions of [[Aquabyssos]]
 
 ### The Deep Purists
@@ -175,7 +175,7 @@ Opposing the Ascension Plot are the **Deep Purists**, traditionalists who believ
 
 ### The Temporal Rebellion
 
-A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
+A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
 
 - Find timelines where the [[Great Sundering]] never occurred
 - Retrieve lost knowledge from destroyed realities
@@ -186,7 +186,7 @@ A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Tem
 
 ### The Diplomatic Mission
 
-The party is chosen as neutral representatives to negotiate a trade agreement between the surface kingdoms and the [[02_Worldbuilding/Lore/The Abyssal Court]]. However, they must navigate:
+The party is chosen as neutral representatives to negotiate a trade agreement between the surface kingdoms and the [[02_Worldbuilding/Lore/The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]]. However, they must navigate:
 
 - Complex etiquette involving gravitational orientation
 - Political intrigue between competing factions
@@ -248,14 +248,14 @@ The party is hired to steal specific knowledge from the [[Whisper Archives]], bu
 
 The [[Inverse Palace]] serves as a nexus point connecting to numerous other significant locations:
 
-- **[[02_Worldbuilding/Lore/Crushing Depths]]**: The palace's primary domain and source of power
+- **[[02_Worldbuilding/Lore/Crushing Depths|02 Worldbuilding/Lore/Crushing Depths]]**: The palace's primary domain and source of power
 - **[[Pressure Territories]]**: Regions under the palace's direct control
-- **[[The Sunken Cities]]**: Ancient civilizations now serving the [[02_Worldbuilding/Lore/The Abyssal Court]]
+- **[[The Sunken Cities]]**: Ancient civilizations now serving the [[02_Worldbuilding/Lore/The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]]
 - **[[The Coral Throne]]**: The actual seat of The Deep Sovereign's power
 - **[[Deep Current Networks]]**: Transportation systems connecting the palace to distant realms
-- **[[02_Worldbuilding/Lore/Void Between Pressures]]**: The space between realities where the palace anchors
+- **[[02_Worldbuilding/Lore/Void Between Pressures|02 Worldbuilding/Lore/Void Between Pressures]]**: The space between realities where the palace anchors
 - **[[Surface Breach Points]]**: Hidden entrances to the surface oceans
-- **[[02_Worldbuilding/Lore/Elder Deep]]**: The primordial realm from which the palace draws its power
+- **[[02_Worldbuilding/Lore/Elder Deep|02 Worldbuilding/Lore/Elder Deep]]**: The primordial realm from which the palace draws its power
 - **[[Temporal Anchor Points]]**: Locations where time flows differently
 - **[[The Whispering Chambers]]**: Communication centers throughout [[Aquabyssos]]
 
@@ -297,7 +297,7 @@ The [[Inverse Palace]] stands as both a marvel of impossible architecture and a 
 ## Connections
 
 - [[Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Find the Grief Bomb]]
 
 ## Player-Facing Summary
@@ -314,6 +314,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
 
 <!-- enriched: true -->

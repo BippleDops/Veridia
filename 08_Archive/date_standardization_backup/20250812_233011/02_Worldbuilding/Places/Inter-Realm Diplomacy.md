@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/Surface Tensions|02 Worldbuilding/Places/Surface Tensions]]
 
 
 ## Connections

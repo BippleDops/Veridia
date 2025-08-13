@@ -23,18 +23,18 @@ world: Both
 
 | Class | Proficiencies Gained |
 |-------|----------------------|
-| [Barbarian](/03_Mechanics/CLI/classes/barbarian-xphb.md) | Shields, simple weapons, martial weapons |
-| [Bard](/03_Mechanics/CLI/classes/bard-xphb.md) | Light armor, one skill of your choice, one musical instrument of your choice |
-| [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md) | Light armor, medium armor, shields |
-| [Druid](/03_Mechanics/CLI/classes/druid-xphb.md) | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [Fighter](/03_Mechanics/CLI/classes/fighter-xphb.md) | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [Monk](/03_Mechanics/CLI/classes/monk-xphb.md) | Simple weapons, shortswords |
-| [Paladin](/03_Mechanics/CLI/classes/paladin-xphb.md) | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [Ranger](/03_Mechanics/CLI/classes/ranger-xphb.md) | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [Rogue](/03_Mechanics/CLI/classes/rogue-xphb.md) | Light armor, one skill from the class's skill list, [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) |
-| [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) | — |
-| [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | Light armor, simple weapons |
-| [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | — |
+| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | Shields, simple weapons, martial weapons |
+| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
+| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | Light armor, medium armor, shields |
+| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | Simple weapons, shortswords |
+| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | Light armor, one skill from the class's skill list, [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] |
+| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | — |
+| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | Light armor, simple weapons |
+| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | — |
 ^multiclassing-proficiencies
 
 ## Player-Facing Summary

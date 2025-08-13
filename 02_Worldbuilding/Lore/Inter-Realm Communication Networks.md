@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Parliament-of-Shadows-Campaign]]
+- [[02_Worldbuilding/Groups/Parliament-of-Shadows-Campaign|02 Worldbuilding/Groups/Parliament Of Shadows Campaign]]
 
 
 ## Connections

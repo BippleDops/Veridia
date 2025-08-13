@@ -165,6 +165,6 @@ Legends speak of Chef Amara Tastecurrent as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chef Amara Tastecurrent]]
+- [[02_Worldbuilding/Places/Chef Amara Tastecurrent|02 Worldbuilding/Places/Chef Amara Tastecurrent]]
 
 <!-- enriched: true -->

@@ -36,6 +36,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/High Tide Keeper Nautilus Primordial]]
+- [[02_Worldbuilding/Places/High Tide Keeper Nautilus Primordial|02 Worldbuilding/Places/High Tide Keeper Nautilus Primordial]]
 
 <!-- enriched: true -->

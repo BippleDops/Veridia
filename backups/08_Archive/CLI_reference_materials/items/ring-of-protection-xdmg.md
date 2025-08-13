@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
 
-You gain a +1 bonus to [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md) and saving throws while wearing this ring.
+You gain a +1 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] and saving throws while wearing this ring.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

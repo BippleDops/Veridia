@@ -25,34 +25,34 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `2d8` [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) or `2d8` [phase spiders](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) |
-| 02-04 | `d6` [green hags](/03_Mechanics/CLI/bestiary/fey/green-hag-xmm.md) with `d6` [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) |
-| 05-07 | 1 [hobgoblin captain](/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) with 1 [hill giant](/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) and `4d10` [hobgoblins](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 08-10 | `2d6 + 3` [werewolves](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) |
-| 11-14 | `1d6 + 2` [ettins](/03_Mechanics/CLI/bestiary/giant/ettin-xmm.md) |
-| 15-18 | `d3` [bulettes](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md) |
-| 19-22 | `d4` [werebears](/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md) |
+| 01 | `2d8` [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|manticores]] or `2d8` [[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm|phase spiders]] |
+| 02-04 | `d6` [[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm|green hags]] with `d6` [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] |
+| 05-07 | 1 [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captain]] with 1 [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|hill giant]] and `4d10` [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] |
+| 08-10 | `2d6 + 3` [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]] |
+| 11-14 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettins]] |
+| 15-18 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulettes]] |
+| 19-22 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm|werebears]] |
 | 23-24 | A stream of smoke emerging from a small chimney in the hillside |
-| 25-28 | `d4` [wyverns](/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) |
-| 29-32 | `1d8 + 1` [wereboars](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) |
-| 33-36 | `d3` [revenants](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md) |
+| 25-28 | `d4` [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyverns]] |
+| 29-32 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm|wereboars]] |
+| 33-36 | `d3` [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenants]] |
 | 37-38 | A mild earthquake that shakes the region for `d20` seconds |
-| 39-42 | `d3` [chimeras](/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md) |
-| 43-46 | `d4` [gorgons](/03_Mechanics/CLI/bestiary/construct/gorgon-xmm.md) |
-| 47-50 | `1d6 + 2` [gnoll fangs of Yeenoghu](/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) |
-| 51-54 | `d4` [hill giants](/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) |
-| 55-58 | 1 [young red dragon](/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md) |
-| 59-62 | `1d3 + 1` [galeb duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) |
-| 63-65 | `2d10` dwarf miners ([commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), whistling as they march toward their mine |
-| 66-69 | `d3` [young copper dragons](/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md) |
-| 70-73 | `d4` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
-| 74-77 | `d3` [cyclopes](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 78-80 | `d3` [nobles](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with `d4` [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) prospecting for gold |
-| 81-85 | 1 [adult copper dragon](/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) |
-| 86-90 | `2d4` [stone giants](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) |
-| 91-96 | `d4` [rocs](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
-| 97-99 | 1 [adult red dragon](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) |
-| 00 | 1 [ancient copper dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md) |
+| 39-42 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|chimeras]] |
+| 43-46 | `d4` [[/03_Mechanics/CLI/bestiary/construct/gorgon-xmm|gorgons]] |
+| 47-50 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
+| 51-54 | `d4` [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|hill giants]] |
+| 55-58 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm|young red dragon]] |
+| 59-62 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm|galeb duhr]] |
+| 63-65 | `2d10` dwarf miners ([[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]), whistling as they march toward their mine |
+| 66-69 | `d3` [[/03_Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm|young copper dragons]] |
+| 70-73 | `d4` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
+| 74-77 | `d3` [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclopes]] |
+| 78-80 | `d3` [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|nobles]] with `d4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] prospecting for gold |
+| 81-85 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm|adult copper dragon]] |
+| 86-90 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]] |
+| 91-96 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|rocs]] |
+| 97-99 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|adult red dragon]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm|ancient copper dragon]] |
 ^hill-encounters-levels-1116
 
 ## Player-Facing Summary

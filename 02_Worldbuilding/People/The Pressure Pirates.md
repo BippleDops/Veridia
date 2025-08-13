@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
 
 
 ## Connections

@@ -56,7 +56,7 @@ You have a +2 bonus to AC while wearing this armor. This armor loses its enchant
 - [Drow +2 Splint Armor](#Drow%20+2%20Splint%20Armor)
 - [Drow +2 Studded Leather Armor](#Drow%20+2%20Studded%20Leather%20Armor)
 
-### Drow +2 Breastplate
+## Drow +2 Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

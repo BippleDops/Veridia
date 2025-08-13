@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goristro-xmm-goristro-xmm.svg)
 
-# [Goristro](3-Mechanics\CLI\bestiary\fiend/goristro-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/goristro-xmm|Goristro]]
 *Source: Monster Manual (2024) p. 150*  
 
 ## Goristro
@@ -69,22 +69,22 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   - "constitution": !!int "13"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
+  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
   - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The goristro has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The goristro has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The goristro deals double damage to objects and structures."
@@ -94,14 +94,14 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 40 (6d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
-      \ feet straight away from the goristro and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ feet straight away from the goristro and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Brutal Gore"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 29 (4d10 + 7) Bludgeoning\
       \ damage."
     "name": "Slam"
 "bonus_actions":
-  - "desc": "The goristro moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "The goristro moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":

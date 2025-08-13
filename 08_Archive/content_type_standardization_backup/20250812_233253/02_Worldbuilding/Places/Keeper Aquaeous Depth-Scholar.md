@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]]
+- [[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar|02 Worldbuilding/Places/Keeper Aquaeous Depth Scholar]]
 
 <!-- enriched: true -->
 

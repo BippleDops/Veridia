@@ -325,10 +325,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
+- [[Master_Campaign_Index|Master Campaign Index]]
 
 
 ## See Also
 
-- [[02_Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index]] - Campaign overview
+- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
+- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview

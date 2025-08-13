@@ -36,7 +36,7 @@ world: Aethermoor
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*
 
 ## Organization Overview and Purpose
-The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[02_Worldbuilding/Places/Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]].
+The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]].
 
 The Guild operates through a complex network of master weavers, silk farmers, magical enchanters, merchant traders, and diplomatic representatives who ensure that their products reach the highest echelons of society in both realms. Members of the Guild are renowned not only for their technical expertise in textile production but also for their business acumen, cultural sophistication, and ability to navigate the intricate social hierarchies that determine luxury market success.
 
@@ -247,8 +247,8 @@ The Guild receives a prestigious commission to create textiles for a major royal
 - [[Merchant Princes]]
 - [[Port Meridian]]
 - [[The Grand Bazaar of Echoing Coins]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -272,5 +272,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_People_Index]]
+- [[Master_People_Index|Master People Index]]
 - [[Silverscale Consortium]]

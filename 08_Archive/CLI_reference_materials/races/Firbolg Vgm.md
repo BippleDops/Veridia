@@ -38,11 +38,11 @@ Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your
 
 ### Firbolg Magic
 
-You can cast [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) and [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+You can cast [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] and [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]] with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]], you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [invisible](/03_Mechanics/CLI/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
+As a bonus action, you can magically turn [[/03_Mechanics/CLI/conditions#Invisible|invisible]] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 ### Powerful Build
 

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Establish New World Order]]
+- [[02_Worldbuilding/Groups/Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
 
 
 ## Connections

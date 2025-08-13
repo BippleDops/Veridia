@@ -22,10 +22,10 @@ world: Both
 # Economic Warfare and Trade Sanctions
 *When Gold Becomes the Deadliest Weapon*
 
-> *"Armies conquer territory, but merchants conquer souls. A man will fight you if you threaten his life, but he will serve you if you control his livelihood."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"Armies conquer territory, but merchants conquer souls. A man will fight you if you threaten his life, but he will serve you if you control his livelihood."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Overview
-Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] represents the evolution of conflict beyond traditional military engagement. Through sophisticated manipulation of trade routes, currency systems, and resource distribution, the major powers wage wars that can topple governments, starve populations, or enrich allies without firing a single shot. This invisible battlefield determines the fate of nations through ledgers rather than swords.
+Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] represents the evolution of conflict beyond traditional military engagement. Through sophisticated manipulation of trade routes, currency systems, and resource distribution, the major powers wage wars that can topple governments, starve populations, or enrich allies without firing a single shot. This invisible battlefield determines the fate of nations through ledgers rather than swords.
 
 ## Theoretical Framework
 
@@ -34,7 +34,7 @@ Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[0
 #### The Flow Theory
 **Core Concept**: All power flows like water - block the source and control the destination
 **Application**: Controlling resource origins and distribution points grants ultimate authority
-**Practitioners**: [[02_Worldbuilding/Groups/Major Trading Companies]], [[02_Worldbuilding/Groups/Merchant Princes]]
+**Practitioners**: [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]], [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]
 **Countermeasures**: Diversification, stockpiling, alternative supply development
 
 #### The Pressure Point Doctrine
@@ -80,7 +80,7 @@ Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[0
 ### Surface Realm Economic Warfare
 
 #### The Crystal Monopoly Strategy
-**Architect**: [[Lord Aurelius Goldwave]] and [[02_Worldbuilding/Groups/Merchant Princes]]
+**Architect**: [[Lord Aurelius Goldwave]] and [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]
 **Objective**: Control all crystal trade to manipulate both magical and economic power
 **Methods**:
 - **Supply Control**: Acquiring or destroying competing crystal sources
@@ -121,7 +121,7 @@ Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[0
 ### Deep-Sea Economic Warfare
 
 #### The Current Control Paradigm
-**Architect**: [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+**Architect**: [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
 **Objective**: Monopolize underwater transportation through magical current manipulation
 **Methods**:
 - **Current Engineering**: Artificially enhancing natural ocean currents for exclusive use
@@ -134,7 +134,7 @@ Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[0
 **Opportunities**: Expansion to surface realm, technological advancement, environmental partnership
 
 #### The Financial Dominance Strategy
-**Architect**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Architect**: [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 **Objective**: Control both realms' economies through banking and currency manipulation
 **Methods**:
 - **Currency Manipulation**: Artificially controlling exchange rates between realms
@@ -277,7 +277,7 @@ Economic warfare in the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[0
 Widespread crystal corruption threatened to undermine the magical and economic foundations of both realms. Traditional crystal-based industries faced potential collapse, creating opportunity for economic manipulation.
 
 #### Economic Warfare Elements
-**Market Manipulation**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]] cornered the market on stable currency alternatives
+**Market Manipulation**: [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]] cornered the market on stable currency alternatives
 **Information Control**: Suppressing news about cure research to maintain crisis conditions
 **Political Pressure**: Lobbying against government intervention in favor of private solutions
 **Competition Elimination**: Using crisis conditions to acquire failing competitor businesses
@@ -300,7 +300,7 @@ Widespread crystal corruption threatened to undermine the magical and economic f
 Military conflicts disrupted major trade routes, creating massive supply shortages and transportation crises throughout both realms.
 
 #### Economic Warfare Strategies
-**Route Control**: [[02_Worldbuilding/People/The Current Merchants]] used military chaos to eliminate competing transportation networks
+**Route Control**: [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] used military chaos to eliminate competing transportation networks
 **Supply Manipulation**: Hoarding essential goods during shortages to maximize profits
 **Government Contracting**: Securing exclusive contracts for war supply transportation
 **Reconstruction Positioning**: Positioning for major profits during post-war rebuilding
@@ -325,7 +325,7 @@ Coordinated law enforcement raids destroyed major criminal financial networks, d
 #### Economic Warfare Aspects
 **Information Warfare**: Law enforcement vs. criminal intelligence networks
 **Financial Disruption**: Money laundering systems collapsed, affecting cash flow for many legitimate businesses
-**Market Reconstruction**: [[02_Worldbuilding/Groups/The Whisper Syndicate]] rebuilt operations with more sophisticated methods
+**Market Reconstruction**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] rebuilt operations with more sophisticated methods
 **Legitimacy Blending**: Criminal and legitimate businesses became more closely integrated to protect against future raids
 
 #### Outcomes
@@ -524,13 +524,13 @@ Coordinated law enforcement raids destroyed major criminal financial networks, d
 7-8: **Personal Vendetta** - Economic warfare driven by personal revenge or justice seeking
 
 ## Connected Systems and Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]] - Infrastructure targeted in economic warfare
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Financial weapons and targets
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Primary practitioners of economic warfare
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Council coordinating surface economic warfare
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Master of financial warfare tactics
-- [[03_Mechanics/Living_Economy_Syste]] - Mechanical systems for economic manipulation
-- [[03_Mechanics/Economic_Warfare_Simulator]] - Detailed mechanical framework for economic conflicts
+- [[02_Worldbuilding/Lore/The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] - Infrastructure targeted in economic warfare
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Financial weapons and targets
+- [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Primary practitioners of economic warfare
+- [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Council coordinating surface economic warfare
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]] - Master of financial warfare tactics
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical systems for economic manipulation
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Detailed mechanical framework for economic conflicts
 
 ## Player-Facing Summary
 

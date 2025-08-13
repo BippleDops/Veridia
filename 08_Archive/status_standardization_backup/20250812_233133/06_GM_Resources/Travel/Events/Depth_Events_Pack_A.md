@@ -25,7 +25,7 @@ Format per event: Trigger • Setup • Checks • Outcomes • Rewards/Conseque
 
 ---
 
-### D-001: Pressure Surge Wall
+## D-001: Pressure Surge Wall
 - Zone: Pressure (DC 14) • Category: Environment
 - Trigger: A cold front compresses a moving wall of overpressure.
 - Setup: The surge sweeps across the convoy path within 3 rounds.

@@ -301,7 +301,7 @@ Remember that breaches are inherently unstable - they should feel dangerous even
 - [[Avatar Manifestations]]
 - [[Temporal Mechanics]]
 - [[Void Shepherds]]
-- [[02_Worldbuilding/Groups/The Memory Merchants Guild]]
+- [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]]
 
 ## Lore Details
 

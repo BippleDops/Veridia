@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-allip-mpmm-allip-mpmm.png)
 
-# [Allip](3-Mechanics\CLI\bestiary\undead/allip-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/allip-mpmm|Allip]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*  
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -58,18 +58,18 @@ An allip might attempt to share its lore to escape its curse and enter the after
   - "intelligence": !!int "6"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "the languages it knew in life"
 "cr": "5"
@@ -86,9 +86,9 @@ An allip might attempt to share its lore to escape its curse and enter the after
     "name": "Maddening Touch"
   - "desc": "Each creature within 30 feet of the allip that can hear it must make\
       \ a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3)\
-      \ psychic damage, and it is [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
+      \ psychic damage, and it is [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
       \ until the end of its next turn. On a successful save, it takes half as much\
-      \ damage and isn't [stunned](/03_Mechanics/CLI/conditions.md#Stunned). Constructs\
+      \ damage and isn't [[/03_Mechanics/CLI/conditions#Stunned|stunned]]. Constructs\
       \ and Undead are immune to this effect."
     "name": "Howling Babble (Recharge 6)"
   - "desc": "The allip chooses up to three creatures it can see within 60 feet of\

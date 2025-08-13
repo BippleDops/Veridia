@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace|02 Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 
 
 ## Connections

@@ -25,7 +25,7 @@ world: Aethermoor
 
 # Infected Experiments
 
-![Infected Experiments Portrait](04_Resources/Assets/Art/Lore/Infected_Experiments.png)
+![[04_Resources/Assets/Art/Lore/Infected_Experiments.png|Infected Experiments Portrait]]
 
 ## Summary
 Infected Experiments describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

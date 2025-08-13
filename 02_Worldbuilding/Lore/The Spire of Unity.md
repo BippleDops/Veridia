@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Places/Cathedral of Light|02 Worldbuilding/Places/Cathedral Of Light]]
 
 
 ## Connections

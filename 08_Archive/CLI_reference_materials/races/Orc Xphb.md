@@ -30,17 +30,17 @@ world: Both
 
 ### Adrenaline Rush
 
-You can take the [Dash](/03_Mechanics/CLI/actions.md#Dash) action as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md).
+You can take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. When you do so, you gain a number of [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]].
 
-You can use this trait a number of times equal to your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this trait a number of times equal to your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ### Darkvision
 
-You have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
+You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Relentless Endurance
 
-When you are reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] but not killed outright, you can drop to 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
 
 ## Description
 

@@ -28,7 +28,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[02_Worldbuilding/Places/Aquabyssos]].
+The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]].
 
 ## Technical Specifications
 
@@ -68,7 +68,7 @@ Recent versions incorporate shadow corruption to make effects more thorough:
 
 ### Origin Project: "Clean Slate"
 **Years 580-585 AS (After Submersion):**
-The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[02_Worldbuilding/Lore/The Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
+The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[02_Worldbuilding/Lore/The Memory Research Institute|02 Worldbuilding/Lore/The Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
 
 **Initial Breakthrough:**
 - Discovery that memory-disrupting crystals could be "charged" with anti-memories
@@ -78,7 +78,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 
 ### Military Weaponization
 **Years 585-590 AS:**
-The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -92,14 +92,14 @@ The potential military applications became obvious to [[02_Worldbuilding/Lore/Th
 The first and only combat deployment of a Forgetting Bomb created an international crisis:
 
 **The Meridian District Catastrophe:**
-- Terrorist organization detonated prototype device in [[02_Worldbuilding/Places/Port Meridian]]
+- Terrorist organization detonated prototype device in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 - 50,000 people within blast radius suffered complete amnesia
 - Entire district's social structure collapsed overnight
 - Emergency response teams also affected, hampering rescue efforts
-- Economic and social chaos spread throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- Economic and social chaos spread throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 
 **International Response:**
-- Emergency session of [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Emergency session of [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 - International treaties attempting to ban Forgetting Bomb development
 - Mass protests against memory weapon research
 - Academic and religious condemnation of the technology
@@ -110,7 +110,7 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 Despite international condemnation and treaty obligations, multiple organizations continue developing Forgetting Bomb technology:
 
 **Known Developers:**
-- **[[02_Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
+- **[[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
 - **[[The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
 - **[[Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally
@@ -326,7 +326,7 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### The Memory Plague Vector
 > [!warning] Hidden Knowledge
-> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
+> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
 
 ## Adventure Hooks and Campaign Integration
 
@@ -369,7 +369,7 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### Related Events
 - [[The Great Forgetting Incident]] - First combat use creating international crisis
-- [[02_Worldbuilding/Lore/Meridian Accords]] - International treaty banning the weapons
+- [[02_Worldbuilding/Lore/Meridian Accords|02 Worldbuilding/Lore/Meridian Accords]] - International treaty banning the weapons
 - [[The Memory Research Massacre]] - Attack on original development team
 - [[The Convergence Cleansing]] - Potential future use during reality merger
 - [[The Final Forgetting]] - Ultimate deployment threatening all memory
@@ -414,7 +414,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 - [[Memory Alteration Consequences]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]

@@ -45,8 +45,8 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 
 | Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
-| — | + | + | + | + | — | + | + | — | + | Killed [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md) |
-| + | + | — | + | + | + | + | + | + | + | Captured [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md) |
+| — | + | + | + | + | — | + | + | — | + | Killed [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] |
+| + | + | — | + | + | + | + | + | + | + | Captured [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] |
 | + | — | + | + | + |  | + | + | + | + | Arcane Brotherhood joins alliance |
 | + | + | + | + | + | +/+ | + | + | + | + | Arauthator killed or driven from lair |
 ^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
@@ -55,7 +55,7 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 
 | Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
-| — | + | + | + | + | — | + | + | — | + | Killed [Neronvain](/03_Mechanics/CLI/bestiary/npc/neronvain-rot.md) |
+| — | + | + | + | + | — | + | + | — | + | Killed [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] |
 | + | + | — | + | + | + | + | + | + | + | Captured Neronvein |
 | + | + | + | + | + | +/+ | +/+ | + | + | + | Chuth killed or driven from lair |
 | + | +/+ | +/+ | + | + | +/+ | +/+ | + | + | + | Rallied metallic dragons |

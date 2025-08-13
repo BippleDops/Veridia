@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Pressure Angel Benthia]]
+- [[02_Worldbuilding/People/Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
 
 
 ## Connections

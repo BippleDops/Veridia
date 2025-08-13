@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Defense Captain Ironguard]]
+- [[02_Worldbuilding/People/Defense Captain Ironguard|02 Worldbuilding/People/Defense Captain Ironguard]]
 
 <!-- enriched: true -->
 

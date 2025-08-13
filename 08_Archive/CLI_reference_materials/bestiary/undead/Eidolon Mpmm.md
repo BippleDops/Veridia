@@ -30,10 +30,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-eidolon-mpmm-eidolon-mpmm.svg)
 
-# [Eidolon](3-Mechanics\CLI\bestiary\undead/eidolon-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/eidolon-mpmm|Eidolon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm|eidolon]] plunges into a [[/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
 "name": "Eidolon (MPMM)"
@@ -55,27 +55,27 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "saves":
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
+  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "the languages it knew in life"
 "cr": "12"
 "traits":
   - "desc": "The eidolon can move through other creatures and objects as if they were\
       \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
-      \ an object other than a [sacred statue](/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md)."
+      \ an object other than a [[/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm|sacred statue]]."
     "name": "Incorporeal Movement"
-  - "desc": "When the eidolon moves into a space occupied by a [sacred statue](/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md),\
+  - "desc": "When the eidolon moves into a space occupied by a [[/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm|sacred statue]],\
       \ the eidolon can disappear, causing the statue to become a creature under the\
-      \ eidolon's control. The eidolon uses the [sacred statue's stat block](/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md)\
+      \ eidolon's control. The eidolon uses the [[/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm|sacred statue's stat block]]\
       \ in place of its own."
     "name": "Sacred Animation (Recharge 5-6)"
   - "desc": "The eidolon has advantage on saving throws against any effect that turns\
@@ -85,13 +85,13 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
     "name": "Unusual Nature"
 "actions":
   - "desc": "Each creature within 60 feet of the eidolon that can see it must succeed\
-      \ on a DC 15 Wisdom saving throw or be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
-      \ of it for 1 minute. While [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
-      \ in this way, the creature must take the [Dash](/03_Mechanics/CLI/actions.md#Dash)\
+      \ on a DC 15 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ of it for 1 minute. While [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ in this way, the creature must take the [[/03_Mechanics/CLI/actions#Dash|Dash]]\
       \ action and move away from the eidolon by the safest available route at the\
       \ start of each of its turns, unless there is nowhere for it to move, in which\
-      \ case the creature also becomes [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
-      \ until it can move again. A [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ case the creature also becomes [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
+      \ until it can move again. A [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's saving throw is successful\
       \ or the effect ends for it, the target is immune to any eidolon's Divine Dread\

@@ -115,7 +115,7 @@ Comprehensive linguistic system covering the rich variety of speech patterns, di
 - [[Depth Adaptation System]] - How physical changes affect speech
 - [[Faction Relationship Tracker]] - Language skills impact social standing
 - [[Cultural Exchange Society]] - Inter-realm communication specialists
-- [[Master_Campaign_Index]] - Integration with ongoing storylines
+- [[Master_Campaign_Index|Master Campaign Index]] - Integration with ongoing storylines
 
 ## Player-Facing Summary
 

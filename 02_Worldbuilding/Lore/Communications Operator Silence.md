@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Strike Team]]
+- [[02_Worldbuilding/Groups/Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
 
 
 ## Connections

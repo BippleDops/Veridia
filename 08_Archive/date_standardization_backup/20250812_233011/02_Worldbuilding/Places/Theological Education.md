@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Theological Education]]
+- [[02_Worldbuilding/Places/Theological Education|02 Worldbuilding/Places/Theological Education]]
 
 <!-- enriched: true -->
 

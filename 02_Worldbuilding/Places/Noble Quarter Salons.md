@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Blackmail Papers|02 Worldbuilding/Places/Quest The Blackmail Papers]]
 
 
 ## Connections

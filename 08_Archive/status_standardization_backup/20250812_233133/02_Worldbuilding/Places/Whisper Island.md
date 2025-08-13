@@ -15,7 +15,7 @@ status: completed
 world: Both Aethermoor and Aquabyssos
 type: Location
 danger_level: 9
-location: '[[02_Worldbuilding/Places/The Azure Coast]] waters'
+location: '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] waters'
 population: Unknown (Estimated 200-500)
 government: None (Anarchic)
 climate: Temperate, frequently shrouded in mist
@@ -23,9 +23,9 @@ size: 12 square miles
 created: '2025-08-09'
 updated: '2025-08-13T01:18:36.395958+00:00'
 related_entities:
-- '[[02_Worldbuilding/Groups/The Shadow Conspiracy]]'
-- '[[02_Worldbuilding/Lore/Memory Alterations]]'
-- '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
+- '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
 ---
 
 
@@ -41,7 +41,7 @@ related_entities:
 
 ## Overview
 
-Whisper Island sits in disputed waters between [[02_Worldbuilding/Places/The Azure Coast]] and the deeper territories of [[Aquabyssos]], shrouded in perpetual mist and surrounded by unnaturally calm waters. This enigmatic landmass serves as a neutral ground for those engaged in the most clandestine activities - a place where secrets are traded, memories are altered, and identities can be completely rewritten.
+Whisper Island sits in disputed waters between [[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] and the deeper territories of [[Aquabyssos]], shrouded in perpetual mist and surrounded by unnaturally calm waters. This enigmatic landmass serves as a neutral ground for those engaged in the most clandestine activities - a place where secrets are traded, memories are altered, and identities can be completely rewritten.
 
 Neither surface nor underwater authorities claim jurisdiction over Whisper Island, making it a haven for criminals, conspirators, spies, and others who prefer to operate beyond the reach of conventional law. The island's most disturbing feature is its tendency to make visitors forget certain experiences while simultaneously preserving other memories with supernatural clarity.
 
@@ -81,7 +81,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Rarely interact directly with visitors
 - Appear to possess complete knowledge of everything that occurs on the island
 - May not be entirely human anymore
-- Rumored to be connected to [[02_Worldbuilding/Places/Memory Farmers]]
+- Rumored to be connected to [[02_Worldbuilding/Places/Memory Farmers|02 Worldbuilding/Places/Memory Farmers]]
 
 ### Regular Visitors
 **Intelligence Operatives**: Spies from various surface and underwater governments
@@ -114,7 +114,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Magical preservation ensures recordings remain intact indefinitely
 - Access controlled by complex agreement systems
 - Contains evidence of major conspiracies across both realms
-- Rumored to hold the true names and locations of [[02_Worldbuilding/Groups/The Shadow Conspiracy]] leadership
+- Rumored to hold the true names and locations of [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] leadership
 
 ### The Forgotten Market
 *Bazaar dealing in lost and stolen memories*
@@ -122,7 +122,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Customers can browse memories before purchase
 - Quality and authenticity vary wildly
 - Some memories contain embedded traps or compulsions
-- Connected to larger [[02_Worldbuilding/Places/Memory Meadows Black Market]] network
+- Connected to larger [[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]] network
 
 ## Supernatural Effects
 
@@ -173,7 +173,7 @@ Constitution saves required to maintain physical coherence:
 ## Major Storylines & Conspiracies
 
 ### The Shadow Parliament
-Secret meeting location for [[02_Worldbuilding/Groups/The Shadow Conspiracy]] leadership:
+Secret meeting location for [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] leadership:
 - Major decisions affecting both realms are made here
 - Members' true identities remain hidden even from each other
 - Agenda includes manipulation of surface-underwater relations
@@ -190,7 +190,7 @@ Ongoing conflict between different memory merchant factions:
 Investigation into missing persons whose identities have been completely erased:
 - Victims include important political figures from multiple governments
 - Evidence suggests coordinated operation spanning decades
-- May be connected to larger conspiracy involving [[02_Worldbuilding/Lore/Aboleth Mind Mazes]]
+- May be connected to larger conspiracy involving [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Potential threat to stability of both surface and underwater governments
 
 ## Quest Hooks
@@ -230,7 +230,7 @@ Investigation into missing persons whose identities have been completely erased:
 
 ### Territorial Disputes
 Neither surface nor underwater governments claim Whisper Island:
-- [[02_Worldbuilding/Places/The Azure Coast]] authorities avoid the area entirely
+- [[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] authorities avoid the area entirely
 - [[Aquabyssos]] considers it "cursed waters" outside their territory
 - Various criminal organizations compete for informal control
 - International law becomes meaningless in island's waters
@@ -279,6 +279,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Whisper Island]]
+- [[02_Worldbuilding/Places/Whisper Island|02 Worldbuilding/Places/Whisper Island]]
 
 <!-- enriched: true -->

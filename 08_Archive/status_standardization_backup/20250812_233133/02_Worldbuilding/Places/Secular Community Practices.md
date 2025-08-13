@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Secular Community Practices]]
+- [[02_Worldbuilding/Places/Secular Community Practices|02 Worldbuilding/Places/Secular Community Practices]]
 
 <!-- enriched: true -->
 

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge|02 Worldbuilding/Places/Master Smith Vulcan Deepforge]]
 
 
 ## Connections

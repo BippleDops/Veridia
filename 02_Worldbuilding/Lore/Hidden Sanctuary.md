@@ -309,11 +309,11 @@ Treatment of crystal-influenced individuals raises questions about rehabilitatio
 Community leadership challenges require balancing individual needs against group welfare, creating opportunities for characters to explore different approaches to social organization and responsibility.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aethermoor]] - The corrupted kingdom the sanctuary opposes
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Primary enemy threatening the surface world
-- [[02_Worldbuilding/Lore/Resistance Leader Thane Freeheart]] - Commander of the sanctuary operations
-- [[02_Worldbuilding/Lore/Crystal Garden]] - Corrupted area from which many refugees fled
-- [[02_Worldbuilding/Lore/The Transformed Citizens]] - Population the resistance seeks to liberate
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - The corrupted kingdom the sanctuary opposes
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Primary enemy threatening the surface world
+- [[02_Worldbuilding/Lore/Resistance Leader Thane Freeheart|02 Worldbuilding/Lore/Resistance Leader Thane Freeheart]] - Commander of the sanctuary operations
+- [[02_Worldbuilding/Lore/Crystal Garden|02 Worldbuilding/Lore/Crystal Garden]] - Corrupted area from which many refugees fled
+- [[02_Worldbuilding/Lore/The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]] - Population the resistance seeks to liberate
 
 ## Player-Facing Summary
 
@@ -337,7 +337,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
 
 
 ## Connections

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-copper-dragon-wyrmling-xmm-copper-dragon-wyrmling-xmm.svg)
 
-# [Copper Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/copper-dragon-wyrmling-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/copper-dragon-wyrmling-xmm|Copper Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
@@ -67,9 +67,9 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "dexterity": !!int "3"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -79,12 +79,12 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 18 (4d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: The target can't take Reactions; its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ is halved; and it can take either an action or a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target can't take Reactions; its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ is halved; and it can take either an action or a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both. This effect lasts until the end of its next turn."
     "name": "Slowing Breath"
 "source":

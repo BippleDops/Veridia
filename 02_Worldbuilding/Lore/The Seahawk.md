@@ -25,7 +25,7 @@ world: Aethermoor
 
 # The Seahawk
 
-![The Seahawk Portrait](04_Resources/Assets/Art/Lore/The_Seahawk.png)
+![[04_Resources/Assets/Art/Lore/The_Seahawk.png|The Seahawk Portrait]]
 
 ## Summary
 The Seahawk describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

@@ -174,6 +174,6 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
+- [[02_Worldbuilding/Places/Political Intrigue of Meridian|02 Worldbuilding/Places/Political Intrigue Of Meridian]]
 
 <!-- enriched: true -->

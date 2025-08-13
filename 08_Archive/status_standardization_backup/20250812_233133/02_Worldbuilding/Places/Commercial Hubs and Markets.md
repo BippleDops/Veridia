@@ -23,7 +23,7 @@ type: Places
 > *"Every coin has two sides, every market has two faces. The wise merchant learns to profit from both."* - Market Proverb
 
 ## Overview
-The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] serve as the vital organs of inter-realm commerce, where fortunes are made and lost, where cultures blend and clash, and where the invisible hands of [[02_Worldbuilding/Groups/Major Trading Companies]] shape the destiny of nations through careful manipulation of supply and demand.
+The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] serve as the vital organs of inter-realm commerce, where fortunes are made and lost, where cultures blend and clash, and where the invisible hands of [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] shape the destiny of nations through careful manipulation of supply and demand.
 
 ## Surface Realm Commercial Centers
 
@@ -165,7 +165,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 #### The Flowing Market
 **Location**: Central Current District, built around natural oceanic flows
-**Innovation**: [[02_Worldbuilding/People/The Current Merchants]]' revolutionary current-riding commerce
+**Innovation**: [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]]' revolutionary current-riding commerce
 **Architecture**: Structures that move and adapt to oceanic currents
 **Atmosphere**: Constant motion and change, reflecting the nature of water itself
 
@@ -185,7 +185,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 #### The Deep Vault Financial District
 **Location**: Secured depths beneath the main city
-**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 **Security**: Pressure-sealed vaults and magical protections
 **Function**: Cross-realm banking and currency manipulation
 
@@ -273,7 +273,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 - **Emergency Response Centers**: Medical and safety services for both environments
 
 ### Shadow Market Networks
-**Controller**: [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+**Controller**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 **Location**: Hidden throughout both realms
 **Function**: Illegal commerce and contraband trading
 **Access**: Criminal connections and underworld contacts required
@@ -504,20 +504,20 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 ## Connected NPCs and Systems
 - [[Lord Aurelius Goldwave]] - Central figure in surface commercial networks
-- [[02_Worldbuilding/People/The Current Merchants]] - Deep-sea commercial innovation leader
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial system controller
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Surface commercial coordination council
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal commercial operations
+- [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] - Deep-sea commercial innovation leader
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]] - Financial system controller
+- [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Surface commercial coordination council
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal commercial operations
 - [[Lady Venetia Silkwind]] - Luxury goods specialist
 - [[Master Chen Wei]] - Cultural and exotic goods expert
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks connecting markets
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Financial frameworks supporting commerce
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Corporate entities controlling commerce
-- [[02_Worldbuilding/Lore/Economic Warfare and Trade Sanctions]] - Conflicts affecting market operations
-- [[03_Mechanics/Living_Economy_Syste]] - Mechanical framework for dynamic commerce
-- [[03_Mechanics/Economic_Warfare_Simulator]] - Tools for economic conflict simulation
+- [[02_Worldbuilding/Lore/The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks connecting markets
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Financial frameworks supporting commerce
+- [[02_Worldbuilding/Groups/Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Corporate entities controlling commerce
+- [[02_Worldbuilding/Lore/Economic Warfare and Trade Sanctions|02 Worldbuilding/Lore/Economic Warfare And Trade Sanctions]] - Conflicts affecting market operations
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical framework for dynamic commerce
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for economic conflict simulation
 
 ## Player-Facing Summary
 

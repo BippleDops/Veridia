@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pearl Markets]]
+- [[02_Worldbuilding/Places/The Pearl Markets|02 Worldbuilding/Places/The Pearl Markets]]
 
 <!-- enriched: true -->
 

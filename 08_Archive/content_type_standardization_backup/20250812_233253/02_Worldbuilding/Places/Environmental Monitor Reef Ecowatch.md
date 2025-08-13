@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Environmental Monitor Reef Ecowatch]]
+- [[02_Worldbuilding/Places/Environmental Monitor Reef Ecowatch|02 Worldbuilding/Places/Environmental Monitor Reef Ecowatch]]
 
 <!-- enriched: true -->
 

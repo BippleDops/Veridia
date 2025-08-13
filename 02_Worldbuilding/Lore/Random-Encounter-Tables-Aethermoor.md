@@ -25,7 +25,7 @@ world: Aethermoor
 
 # Random-Encounter-Tables-Aethermoor
 
-![Random-Encounter-Tables-Aethermoor Portrait](04_Resources/Assets/Art/Lore/Random-Encounter-Tables-Aethermoor.png)
+![[04_Resources/Assets/Art/Lore/Random-Encounter-Tables-Aethermoor.png|Random-Encounter-Tables-Aethermoor Portrait]]
 
 ## Summary
 Random-Encounter-Tables-Aethermoor describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

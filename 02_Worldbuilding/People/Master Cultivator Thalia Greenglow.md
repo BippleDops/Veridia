@@ -23,7 +23,7 @@ world: Both
 *The Bridge-Builder, She Who Grows in Dark Waters, Guardian of the Synthesis*
 
 ## Overview
-Master Cultivator Thalia Greenglow represents one of the most extraordinary achievements of the combined worlds: a druid who has successfully merged surface plant magic with deep-sea cultivation techniques, creating entirely new forms of life that can thrive in both realms. Working in the miraculous [[02_Worldbuilding/Places/The Synthesis Gardens]] between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], she cultivates plants that bridge the gap between crystal magic and natural growth, offering hope for cooperation between the two worlds.
+Master Cultivator Thalia Greenglow represents one of the most extraordinary achievements of the combined worlds: a druid who has successfully merged surface plant magic with deep-sea cultivation techniques, creating entirely new forms of life that can thrive in both realms. Working in the miraculous [[02_Worldbuilding/Places/The Synthesis Gardens|02 Worldbuilding/Places/The Synthesis Gardens]] between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], she cultivates plants that bridge the gap between crystal magic and natural growth, offering hope for cooperation between the two worlds.
 
 ## Appearance
 - **Build**: Tall and willowy at 5'9", moves with plant-like grace
@@ -58,9 +58,9 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - **Seed Vault**: Preserves genetic material from both worlds
 
 ### Cross-Realm Connections
-- **Surface Druids**: Maintains contact with [[02_Worldbuilding/Groups/The Verdant Accord]] above
+- **Surface Druids**: Maintains contact with [[02_Worldbuilding/Groups/The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]] above
 - **Deep Cultivators**: Aquabyssos farmers and kelp-herders
-- **Crystal Researchers**: Collaborates with [[02_Worldbuilding/Groups/Crystal Wardens]]
+- **Crystal Researchers**: Collaborates with [[02_Worldbuilding/Groups/Crystal Wardens|02 Worldbuilding/Groups/Crystal Wardens]]
 - **Diplomatic Immunity**: Both realms protect her work
 
 ## Relationships
@@ -72,31 +72,31 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - **Young Sprout Echo** - Her apprentice, shows promise in both magics
 
 ### Political Allies
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Supports her research quietly
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Recognizes value of food production
-- [[02_Worldbuilding/Groups/The Verdant Accord]] - Official faction alignment
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Supports her research quietly
+- [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]] - Recognizes value of food production
+- [[02_Worldbuilding/Groups/The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]] - Official faction alignment
 - Various healers and researchers from both realms
 
 ### Research Partners
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Crystal magic theory
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Spiritual aspects of growth
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]] - Crystal magic theory
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]] - Spiritual aspects of growth
 - Surface world agricultural specialists
 - Deep-sea biologists and kelp farmers
 
 ### Opponents & Skeptics
-- [[02_Worldbuilding/Groups/Purist Coalition]] - View her work as corruption
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - View her work as corruption
 - Traditional druids who oppose crystal integration
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Suspicious of hybrid magic
+- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] - Suspicious of hybrid magic
 - Conservative Aquabyssos factions opposed to surface influence
 
 ## Secrets
 > [!warning] DM Only
 > - Her plant-crystal hybrids are slowly evolving consciousness
 > - Has successfully created plants that can process the corruption from both realms
-> - Maintains a secret grove where she's growing [[02_Worldbuilding/Lore/The Seven Shards]]-influenced plants
+> - Maintains a secret grove where she's growing [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]-influenced plants
 > - Her life is sustained by a symbiotic relationship with a crystal-kelp hybrid
 > - Some of her experiments have produced sentient plant creatures
-> - Has found a way to communicate with the [[02_Worldbuilding/Lore/Deep Mother]] through root networks
+> - Has found a way to communicate with the [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] through root networks
 > - Is working on a "healing vine" that could cure crystal corruption
 
 ## Current Activities
@@ -157,19 +157,19 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - Her eventual death could trigger ecological crisis unless apprentices are ready
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret supporter
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Recognizes her value
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Research partner
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret supporter
+- [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]] - Recognizes her value
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]] - Research partner
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Synthesis Gardens]] - Her life's work
-- [[02_Worldbuilding/Groups/The Verdant Accord]] - Faction base
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Original homeland
+- [[02_Worldbuilding/Places/The Synthesis Gardens|02 Worldbuilding/Places/The Synthesis Gardens]] - Her life's work
+- [[02_Worldbuilding/Groups/The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]] - Faction base
+- [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Original homeland
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Her expertise needed
-- [[02_Worldbuilding/Quests/The Depth Accords]] - Provides agricultural solutions
-- [[02_Worldbuilding/Quests/Aquabyssos]] - May have the cure
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]] - Her expertise needed
+- [[02_Worldbuilding/Quests/The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]] - Provides agricultural solutions
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - May have the cure
 
 
 ## Connections
@@ -194,6 +194,6 @@ Legends speak of Master Cultivator Thalia Greenglow as a nexus where past and pr
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]
+- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow|02 Worldbuilding/People/Master Cultivator Thalia Greenglow]]
 
 <!-- enriched: true -->

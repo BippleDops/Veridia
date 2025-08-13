@@ -467,27 +467,27 @@ Aethermoor Social Customs represent the sophisticated cultural framework of a ci
 
 ## Connected NPCs
 - [[Master Wind Rider Zephyr Stormcaller]] - Cultural expert and keeper of aerial traditions
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader maintaining wind-spirit traditions
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader maintaining wind-spirit traditions
 - [[Weather Warden Storm Wisdom]] - Professional expert in atmospheric cultural practices
 - [[Elder Sky-Singer Melody Windvoice]] - Community leader and keeper of aerial cultural knowledge
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary homeland where these customs are practiced
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Primary homeland where these customs are practiced
 - [[The Sky Academy]] - Educational institution teaching aerial cultural traditions
 - [[The Wind-Rider Cultural Center]] - Museum and preservation site for aerial cultural artifacts
 - [[The Community Sky-Platforms]] - Social gathering spaces for aerial cultural celebrations
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
+- [[02_Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
 - [[The Wind-Rider Cultural Society]] - Organization dedicated to preserving sky-bound customs
 - [[The Weather Wardens Council]] - Professional body coordinating atmospheric cultural practices
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]]
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]]
-- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]]
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]]
+- [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]]
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]]
+- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions|02 Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
 
 ## Player-Facing Summary
 

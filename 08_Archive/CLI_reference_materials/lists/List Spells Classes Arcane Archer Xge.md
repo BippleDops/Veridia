@@ -20,8 +20,8 @@ world: Both
 
 ## Cantrip
 
-- [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") as cantrip, at class level 3
-- [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") as cantrip, at class level 3
+- [[/03_Mechanics/CLI/spells/druidcraft-xphb "XPHB"|Druidcraft]] as cantrip, at class level 3
+- [[/03_Mechanics/CLI/spells/prestidigitation-xphb "XPHB"|Prestidigitation]] as cantrip, at class level 3
 
 ## Player-Facing Summary
 

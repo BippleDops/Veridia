@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rhinoceros-xmm-rhinoceros-xmm.svg)
 
-# [Rhinoceros](3-Mechanics\CLI\bestiary\beast/rhinoceros-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/rhinoceros-xmm|Rhinoceros]]
 *Source: Monster Manual (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Rhinoceros (XMM)"
@@ -56,7 +56,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage.\
       \ If target is a Large or smaller creature and the rhinoceros moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
+      \ (2d8) Piercing damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
       \ condition."
     "name": "Gore"
 "source":

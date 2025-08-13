@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Integration Research]]
+- [[02_Worldbuilding/Places/Void Integration Research|02 Worldbuilding/Places/Void Integration Research]]
 
 <!-- enriched: true -->
 

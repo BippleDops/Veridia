@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Transportation Pods]]
+- [[02_Worldbuilding/Places/Transportation Pods|02 Worldbuilding/Places/Transportation Pods]]
 
 <!-- enriched: true -->
 

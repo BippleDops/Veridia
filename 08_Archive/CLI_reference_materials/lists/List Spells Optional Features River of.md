@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]]
 
 ## Player-Facing Summary
 

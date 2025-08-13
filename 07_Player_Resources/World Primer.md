@@ -395,7 +395,7 @@ What will you do when the tide turns?
 
 ## Connections
 
-- [[Quick_Start_Guide]]
+- [[Quick_Start_Guide|Quick Start Guide]]
 
 ## Player-Facing Summary
 
@@ -419,4 +419,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Campaign_Index]]
+- [[Master_Campaign_Index|Master Campaign Index]]

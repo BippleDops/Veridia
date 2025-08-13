@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[02_Worldbuilding/Lore/Royal Embassy|02 Worldbuilding/Lore/Royal Embassy]]
 
 
 ## Connections

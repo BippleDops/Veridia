@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Codex of Forgotten Depths]]
+- [[02_Worldbuilding/Places/Codex of Forgotten Depths|02 Worldbuilding/Places/Codex Of Forgotten Depths]]
 
 <!-- enriched: true -->
 

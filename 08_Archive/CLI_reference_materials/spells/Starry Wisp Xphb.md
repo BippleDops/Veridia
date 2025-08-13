@@ -34,11 +34,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition.
+You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes `d8` Radiant damage, and until the end of your next turn, it emits [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid (Circle of the Moon)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

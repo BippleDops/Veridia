@@ -25,7 +25,7 @@ world: Both
 *Where Earth Meets Sky and Crystal*
 
 ## Overview
-The Sundered Peaks form [[02_Worldbuilding/Places/Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[02_Worldbuilding/Lore/The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
+The Sundered Peaks form [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
 
 ## Geography
 
@@ -54,7 +54,7 @@ Where the Azure Shard struck:
 - Mental enhancement effects
 
 ### Mining Operations
-- **Royal Mines**: [[02_Worldbuilding/Groups/The Crystal Throne]] controlled
+- **Royal Mines**: [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] controlled
 - **Free Mines**: Independent operators
 - **Dwarven Depths**: Traditional deep mining
 - **Smuggler Holes**: Illegal operations
@@ -117,7 +117,7 @@ Sacred site at 15,000 feet:
 ## Current Conflicts
 
 ### The Mining Wars
-- [[02_Worldbuilding/Groups/The Crystal Throne]] vs. Free Miners
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] vs. Free Miners
 - Claim disputes
 - Smuggling operations
 - Worker strikes
@@ -133,8 +133,8 @@ Sacred site at 15,000 feet:
 ### Political Tensions
 - Dwarves want independence
 - Humans demand more mines
-- [[02_Worldbuilding/Groups/Purist Coalition]] sabotage
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] infiltration
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] sabotage
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] infiltration
 
 ## The Deep Roads
 
@@ -222,17 +222,17 @@ Pre-Shattering tunnel system:
 - Captain Orik Stoneward
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Part of continent
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Part of continent
 - [[Ironhold]] - Major city
-- [[02_Worldbuilding/Places/Crystalhaven]] - Trade partner
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Northern border
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Trade partner
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Northern border
 - The Deep Roads - Underground
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Claims sovereignty
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] - Claims sovereignty
 - [[Crystal Wardens]] - Garrison forces
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Control trade
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
+- [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Control trade
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
 
 ## DM Notes
 - Balance tradition vs. progress
@@ -247,8 +247,8 @@ Pre-Shattering tunnel system:
 
 - [[Establish the New Order]]
 - [[The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[Campaign_Relationship_Matrix]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -260,7 +260,7 @@ Legends speak of The Sundered Peaks as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]
 
 <!-- enriched: true -->
 - [[Crystal Wardens]]

@@ -25,20 +25,20 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–07 | [Ammunition, +3](/03_Mechanics/CLI/items/3-ammunition-xdmg.md) |
-| 08–14 | [Bag of Devouring](/03_Mechanics/CLI/items/bag-of-devouring-xdmg.md) |
-| 15–21 | [Carpet of Flying](/03_Mechanics/CLI/items/carpet-of-flying-xdmg.md) |
-| 22–28 | [Enspelled Weapon](/03_Mechanics/CLI/items/enspelled-weapon-xdmg.md) (level 4 or 5 spell) |
-| 29–35 | [Horseshoes of a Zephyr](/03_Mechanics/CLI/items/horseshoes-of-a-zephyr-xdmg.md) |
-| 36–42 | [Instrument of the Bards (Anstruth harp)](/03_Mechanics/CLI/items/instrument-of-the-bards-anstruth-harp-xdmg.md) |
-| 43–49 | [Ioun Stone](/03_Mechanics/CLI/items/ioun-stone-xdmg.md) ([agility](/03_Mechanics/CLI/items/ioun-stone-agility-xdmg.md)) |
-| 50–56 | [Lute of Thunderous Thumping](/03_Mechanics/CLI/items/lute-of-thunderous-thumping-xdmg.md) |
-| 57–63 | [Manual of Quickness of Action](/03_Mechanics/CLI/items/manual-of-quickness-of-action-xdmg.md) |
-| 64–70 | [Nolzur's Marvelous Pigments](/03_Mechanics/CLI/items/nolzurs-marvelous-pigments-xdmg.md) |
-| 71–77 | [Potion of Flying](/03_Mechanics/CLI/items/potion-of-flying-xdmg.md) |
-| 78–86 | [Potion of Healing (supreme)](/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) |
-| 87–93 | [Potion of Speed](/03_Mechanics/CLI/items/potion-of-speed-xdmg.md) |
-| 94–00 | [Tome of Leadership and Influence](/03_Mechanics/CLI/items/tome-of-leadership-and-influence-xdmg.md) |
+| 01–07 | [[/03_Mechanics/CLI/items/3-ammunition-xdmg|Ammunition, +3]] |
+| 08–14 | [[/03_Mechanics/CLI/items/bag-of-devouring-xdmg|Bag of Devouring]] |
+| 15–21 | [[/03_Mechanics/CLI/items/carpet-of-flying-xdmg|Carpet of Flying]] |
+| 22–28 | [[/03_Mechanics/CLI/items/enspelled-weapon-xdmg|Enspelled Weapon]] (level 4 or 5 spell) |
+| 29–35 | [[/03_Mechanics/CLI/items/horseshoes-of-a-zephyr-xdmg|Horseshoes of a Zephyr]] |
+| 36–42 | [[/03_Mechanics/CLI/items/instrument-of-the-bards-anstruth-harp-xdmg|Instrument of the Bards (Anstruth harp)]] |
+| 43–49 | [[/03_Mechanics/CLI/items/ioun-stone-xdmg|Ioun Stone]] ([[/03_Mechanics/CLI/items/ioun-stone-agility-xdmg|agility]]) |
+| 50–56 | [[/03_Mechanics/CLI/items/lute-of-thunderous-thumping-xdmg|Lute of Thunderous Thumping]] |
+| 57–63 | [[/03_Mechanics/CLI/items/manual-of-quickness-of-action-xdmg|Manual of Quickness of Action]] |
+| 64–70 | [[/03_Mechanics/CLI/items/nolzurs-marvelous-pigments-xdmg|Nolzur's Marvelous Pigments]] |
+| 71–77 | [[/03_Mechanics/CLI/items/potion-of-flying-xdmg|Potion of Flying]] |
+| 78–86 | [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Potion of Healing (supreme)]] |
+| 87–93 | [[/03_Mechanics/CLI/items/potion-of-speed-xdmg|Potion of Speed]] |
+| 94–00 | [[/03_Mechanics/CLI/items/tome-of-leadership-and-influence-xdmg|Tome of Leadership and Influence]] |
 ^implements-very-rare
 
 ## Player-Facing Summary

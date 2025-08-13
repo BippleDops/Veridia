@@ -23,7 +23,7 @@ world: Aethermoor
 
 # Save Queen Seraphina
 
-![Save Queen Seraphina Portrait](04_Resources/Assets/Art/Lore/Save_Queen_Seraphina.png)
+![[04_Resources/Assets/Art/Lore/Save_Queen_Seraphina.png|Save Queen Seraphina Portrait]]
 
 ## Summary
 Save Queen Seraphina describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

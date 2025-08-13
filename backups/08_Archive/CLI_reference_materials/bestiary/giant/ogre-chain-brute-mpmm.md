@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-chain-brute-mpmm-ogre-chain-brute-mpmm.svg)
 
-# [Ogre Chain Brute](3-Mechanics\CLI\bestiary\giant/ogre-chain-brute-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/ogre-chain-brute-mpmm|Ogre Chain Brute]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
@@ -42,7 +42,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](/03_Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/hide-armor-xphb|hide armor]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -63,15 +63,15 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
     "name": "Fist"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13\
       \ (2d8 + 4) bludgeoning damage, and the target must make a DC 14 Constitution\
-      \ saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) for 1\
+      \ saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] for 1\
       \ minute. The target repeats the saving throw if it takes damage and at the\
       \ end of each of its turns, ending the effect on itself on a success."
     "name": "Chain Smash (Recharge 6)"
   - "desc": "The ogre swings its chain, and every creature within 10 feet of it must\
       \ make a DC 14 Dexterity saving throw. On a failed saving throw, a creature\
-      \ takes 8 (1d8 + 4) bludgeoning damage and is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone).\
+      \ takes 8 (1d8 + 4) bludgeoning damage and is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]].\
       \ On a successful save, the creature takes half as much damage and isn't knocked\
-      \ [prone](/03_Mechanics/CLI/conditions.md#Prone)."
+      \ [[/03_Mechanics/CLI/conditions#Prone|prone]]."
     "name": "Chain Sweep"
 "source":
   - "MPMM"

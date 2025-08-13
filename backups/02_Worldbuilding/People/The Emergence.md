@@ -137,6 +137,6 @@ Legends speak of The Emergence as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emergence]]
+- [[02_Worldbuilding/People/The Emergence|02 Worldbuilding/People/The Emergence]]
 
 <!-- enriched: true -->

@@ -3,7 +3,7 @@ affiliation: Independent (Multiple Factions)
 created: '2025-08-08'
 created_by: auto-stub
 influence: Extensive
-location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
+location: '[[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]]'
 role: Shadow Network
 secrecy_level: Maximum
 size: Unknown (Estimated 500-2000 Members)
@@ -35,11 +35,11 @@ world: Aquabyssos
 *The Network That Doesn't Exist*
 
 > *"We are the whispers between the shadows, the eyes that see all, the hands that shape fate without touching it. You cannot fight what does not exist, yet we are everywhere."*
-> — Anonymous message found in [[02_Worldbuilding/People/Admiral Thorne Blackwater]]'s private chambers
+> — Anonymous message found in [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]'s private chambers
 
 ## Overview
 
-The Shadow Conspiracy is not a single organization but a loose network of information brokers, spies, assassins, and shadow-touched individuals who operate in the liminal spaces of [[02_Worldbuilding/Places/Aquabyssos]] society. What makes them truly dangerous is not their individual capabilities, but their ability to coordinate actions across multiple factions while maintaining absolute deniability. They exist in the spaces between official organizations, exploiting the gaps in oversight and authority.
+The Shadow Conspiracy is not a single organization but a loose network of information brokers, spies, assassins, and shadow-touched individuals who operate in the liminal spaces of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] society. What makes them truly dangerous is not their individual capabilities, but their ability to coordinate actions across multiple factions while maintaining absolute deniability. They exist in the spaces between official organizations, exploiting the gaps in oversight and authority.
 
 Unlike traditional spy networks that serve a single master, the Shadow Conspiracy serves information itself. They believe that secrets, not power or wealth, are the true currency of civilization. Members trade in blackmail, insider knowledge, political intelligence, and strategic advantages. They sell their services to the highest bidder, but their ultimate loyalty is to the principle that information should flow to where it can do the most "good" - though their definition of "good" often conflicts with conventional morality.
 
@@ -151,7 +151,7 @@ A significant percentage of Shadow Conspiracy members are shadow-touched, either
 ### Political Intelligence Networks
 
 **Parliament Infiltration:**
-The Shadow Conspiracy maintains extensive surveillance of the [[02_Worldbuilding/Places/Parliament of Echoes]], with members placed as:
+The Shadow Conspiracy maintains extensive surveillance of the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], with members placed as:
 - **Staffers and Clerks**: Providing access to documents and meeting schedules
 - **Security Personnel**: Monitoring visitor access and providing protection intelligence
 - **Family Connections**: Relationships with parliamentarians' relatives and close associates
@@ -166,7 +166,7 @@ Every major noble house in Aquabyssos has been infiltrated through:
 
 **Government Agency Penetration:**
 Key government institutions compromised include:
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Intelligence on law enforcement activities and investigations
+- **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Intelligence on law enforcement activities and investigations
 - **Royal Treasury**: Access to financial records and budget information
 - **Military Commands**: Strategic intelligence and troop movement information
 - **Diplomatic Corps**: Foreign intelligence and negotiation strategies
@@ -266,22 +266,22 @@ Systematic collection and deployment of compromising information on:
 
 ### Known Associates (Suspected)
 
-**[[02_Worldbuilding/People/Shadow Broker Mist]]** - Information Broker
+**[[02_Worldbuilding/People/Shadow Broker Mist|02 Worldbuilding/People/Shadow Broker Mist]]** - Information Broker
 *Relationship: Competitive Cooperation*
 Mist operates independently but frequently trades information with the Shadow Conspiracy. Her shadow-touch abilities make her valuable for operations requiring supernatural infiltration capabilities. The relationship is mutually beneficial but tense, as both parties recognize the other as a potential threat.
 
-**[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]** - Independent Information Broker
+**[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Independent Information Broker
 *Relationship: Strategic Rivalry*
 Flint's crude but effective information network occasionally conflicts with Shadow Conspiracy operations. While not formally allied, they maintain unofficial agreements to avoid destructive competition. Some conspiracy members suspect Flint may be an unwitting Echo asset.
 
-**[[02_Worldbuilding/People/Vex Shadowthorn]]** - Crime Boss
+**[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]** - Crime Boss
 *Relationship: Business Partnership*
 Shadowthorn's criminal organization provides valuable services including money laundering, elimination of problems, and access to underground networks. The Shadow Conspiracy provides intelligence that helps Shadowthorn avoid law enforcement while maintaining profitable operations.
 
 ### Government Infiltration (Suspected)
 
 **Parliament Members:**
-At least 6-8 members of the [[02_Worldbuilding/Places/Parliament of Echoes]] are believed to be either conspiracy members or compromised Echoes. Their identities are so well-protected that even other conspiracy members don't know who they are.
+At least 6-8 members of the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] are believed to be either conspiracy members or compromised Echoes. Their identities are so well-protected that even other conspiracy members don't know who they are.
 
 **Military Leadership:**
 Several high-ranking officers in various military organizations provide strategic intelligence and early warning of government operations targeting the conspiracy.
@@ -355,8 +355,8 @@ Conspiracy members within academic institutions provide:
 ### External Threats
 
 **Government Investigation:**
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] has launched multiple investigations
-- [[02_Worldbuilding/Groups/The Depth Wardens]] have created a special conspiracy investigation unit
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] has launched multiple investigations
+- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] have created a special conspiracy investigation unit
 - Parliamentary committees are demanding increased oversight of shadow activities
 
 **Rival Organizations:**
@@ -492,16 +492,16 @@ The most disturbing possibility is that the conspiracy is working to alter funda
 ## Connected Organizations and Locations
 
 ### Primary Connections
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Primary operational base
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Key information broker ally
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Major infiltration target
-- [[02_Worldbuilding/Groups/The Depth Wardens]] - Primary law enforcement threat
+- [[02_Worldbuilding/Places/The Shadow Markets|02 Worldbuilding/Places/The Shadow Markets]] - Primary operational base
+- [[02_Worldbuilding/People/Shadow Broker Mist|02 Worldbuilding/People/Shadow Broker Mist]] - Key information broker ally
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Major infiltration target
+- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] - Primary law enforcement threat
 
 ### Secondary Connections
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Military investigation threat
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal organization ally
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Operational support network
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Major operational theater
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Military investigation threat
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Criminal organization ally
+- [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Operational support network
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Major operational theater
 
 
 ## Connections
@@ -530,6 +530,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Conspiracy]]
+- [[02_Worldbuilding/People/Shadow Conspiracy|02 Worldbuilding/People/Shadow Conspiracy]]
 
 <!-- enriched: true -->

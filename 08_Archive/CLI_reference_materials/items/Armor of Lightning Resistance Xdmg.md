@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to lightning damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to lightning damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Lightning Resistance](#Breastplate%20of%20Lightning%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to lig
 - [Splint Armor of Lightning Resistance](#Splint%20Armor%20of%20Lightning%20Resistance)
 - [Studded Leather Armor of Lightning Resistance](#Studded%20Leather%20Armor%20of%20Lightning%20Resistance)
 
-### Breastplate of Lightning Resistance
+## Breastplate of Lightning Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

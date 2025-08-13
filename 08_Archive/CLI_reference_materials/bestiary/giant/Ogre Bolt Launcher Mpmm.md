@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-bolt-launcher-mpmm-ogre-bolt-launcher-mpmm.svg)
 
-# [Ogre Bolt Launcher](3-Mechanics\CLI\bestiary\giant/ogre-bolt-launcher-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\giant/ogre-bolt-launcher-mpmm|Ogre Bolt Launcher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
@@ -42,7 +42,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](/03_Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[[/03_Mechanics/CLI/items/hide-armor-xphb|hide armor]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "1"

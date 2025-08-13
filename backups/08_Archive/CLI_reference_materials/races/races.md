@@ -16,62 +16,62 @@ status: active
 
 # Index of Races
 
-- [Aarakocra](./aarakocra-dmg.md)
-- [Aasimar](./aasimar-xphb.md)
-- [Bugbear](./bugbear-vgm.md)
-- [Bullywug](./bullywug-dmg.md)
-- [Dragonborn](./dragonborn-xphb.md)
-- [Dwarf (Duergar)](./dwarf-duergar-mtf.md)
-- [Dwarf](./dwarf-xphb.md)
-- [Elf (Eladrin)](./elf-eladrin-dmg.md)
-- [Elf (Eladrin)](./elf-eladrin-mtf.md)
-- [Elf (Sea)](./elf-sea-mtf.md)
-- [Elf (Shadar-kai)](./elf-shadar-kai-mtf.md)
-- [Elf](./elf-xphb.md)
-- [Firbolg](./firbolg-vgm.md)
-- [Gith (Githyanki)](./gith-githyanki-mtf.md)
-- [Gith (Githzerai)](./gith-githzerai-mtf.md)
-- [Gith](./gith-mtf.md)
-- [Gnoll](./gnoll-dmg.md)
-- [Gnome (Deep)](./gnome-deep-dmg.md)
-- [Gnome (Deep)](./gnome-deep-mtf.md)
-- [Gnome](./gnome-xphb.md)
-- [Goblin](./goblin-dmg.md)
-- [Goblin](./goblin-vgm.md)
-- [Goliath](./goliath-xphb.md)
-- [Grimlock](./grimlock-dmg.md)
-- [Half-Elf](./half-elf.md)
-- [Half-Orc](./half-orc.md)
-- [Halfling](./halfling-xphb.md)
-- [Hobgoblin](./hobgoblin-dmg.md)
-- [Hobgoblin](./hobgoblin-vgm.md)
-- [Human](./human-xphb.md)
-- [Kenku](./kenku-dmg.md)
-- [Kenku](./kenku-vgm.md)
-- [Kobold](./kobold-dmg.md)
-- [Kobold](./kobold-vgm.md)
-- [Kuo-Toa](./kuo-toa-dmg.md)
-- [Lizardfolk](./lizardfolk-dmg.md)
-- [Lizardfolk](./lizardfolk-vgm.md)
-- [Merfolk](./merfolk-dmg.md)
-- [Orc](./orc-xphb.md)
-- [Owlin](./owlin-scc.md)
-- [Skeleton](./skeleton-dmg.md)
-- [Tabaxi](./tabaxi-vgm.md)
-- [Tiefling (Asmodeus)](./tiefling-asmodeus-mtf.md)
-- [Tiefling (Baalzebul)](./tiefling-baalzebul-mtf.md)
-- [Tiefling (Dispater)](./tiefling-dispater-mtf.md)
-- [Tiefling (Fierna)](./tiefling-fierna-mtf.md)
-- [Tiefling (Glasya)](./tiefling-glasya-mtf.md)
-- [Tiefling (Levistus)](./tiefling-levistus-mtf.md)
-- [Tiefling (Mammon)](./tiefling-mammon-mtf.md)
-- [Tiefling (Mephistopheles)](./tiefling-mephistopheles-mtf.md)
-- [Tiefling](./tiefling-xphb.md)
-- [Tiefling (Zariel)](./tiefling-zariel-mtf.md)
-- [Triton](./triton-vgm.md)
-- [Troglodyte](./troglodyte-dmg.md)
-- [Yuan-ti Pureblood](./yuan-ti-pureblood-vgm.md)
-- [Zombie](./zombie-dmg.md)
+- [[./aarakocra-dmg|Aarakocra]]
+- [[./aasimar-xphb|Aasimar]]
+- [[./bugbear-vgm|Bugbear]]
+- [[./bullywug-dmg|Bullywug]]
+- [[./dragonborn-xphb|Dragonborn]]
+- [[./dwarf-duergar-mtf|Dwarf (Duergar)]]
+- [[./dwarf-xphb|Dwarf]]
+- [[./elf-eladrin-dmg|Elf (Eladrin)]]
+- [[./elf-eladrin-mtf|Elf (Eladrin)]]
+- [[./elf-sea-mtf|Elf (Sea)]]
+- [[./elf-shadar-kai-mtf|Elf (Shadar-kai)]]
+- [[./elf-xphb|Elf]]
+- [[./firbolg-vgm|Firbolg]]
+- [[./gith-githyanki-mtf|Gith (Githyanki)]]
+- [[./gith-githzerai-mtf|Gith (Githzerai)]]
+- [[./gith-mtf|Gith]]
+- [[./gnoll-dmg|Gnoll]]
+- [[./gnome-deep-dmg|Gnome (Deep)]]
+- [[./gnome-deep-mtf|Gnome (Deep)]]
+- [[./gnome-xphb|Gnome]]
+- [[./goblin-dmg|Goblin]]
+- [[./goblin-vgm|Goblin]]
+- [[./goliath-xphb|Goliath]]
+- [[./grimlock-dmg|Grimlock]]
+- [[./half-elf|Half-Elf]]
+- [[./half-orc|Half-Orc]]
+- [[./halfling-xphb|Halfling]]
+- [[./hobgoblin-dmg|Hobgoblin]]
+- [[./hobgoblin-vgm|Hobgoblin]]
+- [[./human-xphb|Human]]
+- [[./kenku-dmg|Kenku]]
+- [[./kenku-vgm|Kenku]]
+- [[./kobold-dmg|Kobold]]
+- [[./kobold-vgm|Kobold]]
+- [[./kuo-toa-dmg|Kuo-Toa]]
+- [[./lizardfolk-dmg|Lizardfolk]]
+- [[./lizardfolk-vgm|Lizardfolk]]
+- [[./merfolk-dmg|Merfolk]]
+- [[./orc-xphb|Orc]]
+- [[./owlin-scc|Owlin]]
+- [[./skeleton-dmg|Skeleton]]
+- [[./tabaxi-vgm|Tabaxi]]
+- [[./tiefling-asmodeus-mtf|Tiefling (Asmodeus)]]
+- [[./tiefling-baalzebul-mtf|Tiefling (Baalzebul)]]
+- [[./tiefling-dispater-mtf|Tiefling (Dispater)]]
+- [[./tiefling-fierna-mtf|Tiefling (Fierna)]]
+- [[./tiefling-glasya-mtf|Tiefling (Glasya)]]
+- [[./tiefling-levistus-mtf|Tiefling (Levistus)]]
+- [[./tiefling-mammon-mtf|Tiefling (Mammon)]]
+- [[./tiefling-mephistopheles-mtf|Tiefling (Mephistopheles)]]
+- [[./tiefling-xphb|Tiefling]]
+- [[./tiefling-zariel-mtf|Tiefling (Zariel)]]
+- [[./triton-vgm|Triton]]
+- [[./troglodyte-dmg|Troglodyte]]
+- [[./yuan-ti-pureblood-vgm|Yuan-ti Pureblood]]
+- [[./zombie-dmg|Zombie]]
 
 ## Player-Facing Summary
 

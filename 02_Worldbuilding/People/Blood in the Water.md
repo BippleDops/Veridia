@@ -87,8 +87,8 @@ Use "Blood in the Water" as both literal environmental hazard and metaphor for e
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 
 ## Appearance
@@ -130,6 +130,6 @@ Legends speak of Blood in the Water as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Blood in the Water]]
+- [[02_Worldbuilding/People/Blood in the Water|02 Worldbuilding/People/Blood In The Water]]
 
 <!-- enriched: true -->

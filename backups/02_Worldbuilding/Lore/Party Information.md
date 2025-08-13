@@ -107,4 +107,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos|02 Worldbuilding/Lore/Session 0 Aquabyssos]]

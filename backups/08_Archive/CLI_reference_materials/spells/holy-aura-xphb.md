@@ -30,9 +30,9 @@ world: Both
 - **Components:** V, S, M (a reliquary worth 1,000+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, you emit an aura in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). While in the aura, creatures of your choice have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on all saving throws, and other creatures have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) condition until the end of its next turn.
+For the duration, you emit an aura in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. While in the aura, creatures of your choice have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on all saving throws, and other creatures have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition until the end of its next turn.
 
-**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

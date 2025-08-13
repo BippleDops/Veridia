@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] at class level 5
 
 ## 1st Level
 
-- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] at class level 5
 
 ## 2nd Level
 
-- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]] at class level 5
 
 ## Player-Facing Summary
 

@@ -34,7 +34,7 @@ accessibility:
 
 # Quest - The Missing Guards
 
-![Quest - The Missing Guards Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Missing_Guards.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_The_Missing_Guards.png|Quest - The Missing Guards Portrait]]
 
 ## Role and Motive
 Quest - The Missing Guards moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

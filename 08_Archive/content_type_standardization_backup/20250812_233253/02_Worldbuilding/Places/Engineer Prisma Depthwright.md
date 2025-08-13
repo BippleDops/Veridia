@@ -536,7 +536,7 @@ The Depthwright Laboratory represents the pinnacle of underwater engineering inn
 ## Connections
 
 - [[Depth Adaptation Points]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -558,6 +558,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]
+- [[02_Worldbuilding/Places/Engineer Prisma Depthwright|02 Worldbuilding/Places/Engineer Prisma Depthwright]]
 
 <!-- enriched: true -->

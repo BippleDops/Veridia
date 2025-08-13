@@ -24,7 +24,7 @@ accessibility:
 
 # Confront the Possessed Queen
 
-![Confront the Possessed Queen Portrait](04_Resources/Assets/Art/Lore/Confront_the_Possessed_Queen.png)
+![[04_Resources/Assets/Art/Lore/Confront_the_Possessed_Queen.png|Confront the Possessed Queen Portrait]]
 
 ## Summary
 Confront the Possessed Queen describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

@@ -40,7 +40,7 @@ danger_level: High
 *Where nature and crystal become one abomination*
 
 ## Overview
-Hidden deep within [[02_Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
+Hidden deep within [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[02_Worldbuilding/People/Sorrow-Root Nightbloom|02 Worldbuilding/People/Sorrow Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
 
 ## Description
 The Gardens exist in a two-mile radius of corrupted forest where the boundaries between plant, crystal, and flesh blur. Trees with crystalline bark pulse with internal light, while crystal formations sprout leaves and bleed sap. The air itself shimmers with pollen that carries corruption, and the ground shifts between soil, crystal, and something disturbingly in-between.
@@ -67,17 +67,17 @@ Mass graves of failed experiments that have merged into shambling mounds of crys
 Corrupted trees whose branches have fused into bridges and platforms. The [[Withered Court]] uses these as highways, while crystal fruit hanging from branches grants temporary abilities at the cost of corruption.
 
 ## Inhabitants
-- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom]]** - Master of the Gardens
+- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom|02 Worldbuilding/People/Sorrow Root Nightbloom]]** - Master of the Gardens
 - **Withered Court Druids** - 20-30 corrupted nature worshippers
 - **Thornlings** - Humanoid plant-crystal hybrids (former druids)
 - **The Gardeners** - Shambling mounds that tend the experiments
 - **Crystal Dryads** - Once-beautiful fey now made of living crystal
 
 ## Connections
-- **[[02_Worldbuilding/Places/The Verdant Reach]]**: Hidden in the deepest, most corrupted section
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Constantly sends scouts to monitor the Gardens
-- **[[02_Worldbuilding/Places/The Drowned Embassy]]**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] secretly funds experiments
-- **[[02_Worldbuilding/Places/Port Meridian]]**: Source of unwilling test subjects via [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- **[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]**: Hidden in the deepest, most corrupted section
+- **[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]**: Constantly sends scouts to monitor the Gardens
+- **[[02_Worldbuilding/Places/The Drowned Embassy|02 Worldbuilding/Places/The Drowned Embassy]]**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]] secretly funds experiments
+- **[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]**: Source of unwilling test subjects via [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 
 ## Environmental Hazards
 
@@ -107,7 +107,7 @@ Corrupted trees whose branches have fused into bridges and platforms. The [[With
 > The Gardens are becoming sentient. Each experiment adds to a collective consciousness that's beginning to act independently of Sorrow-Root. It may soon decide it doesn't need any master.
 
 > [!danger] The Root Network
-> The Gardens' root system extends for miles underground, slowly corrupting [[02_Worldbuilding/Places/The Verdant Reach]] from below. These roots are approaching [[Ironhold]] and could destabilize the dwarven city's foundations.
+> The Gardens' root system extends for miles underground, slowly corrupting [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] from below. These roots are approaching [[Ironhold]] and could destabilize the dwarven city's foundations.
 
 > [!info] Hidden Cure
 > Ironically, one of Sorrow-Root's failed experiments (Batch 7-Alpha) actually reverses crystal corruption. They destroyed most samples, but one grows in the deepest chamber, guarded by their most trusted lieutenants.
@@ -148,7 +148,7 @@ An underground chamber with artificial moonlight that accelerates growth. One ho
 - Find the hidden corruption cure
 - Stop the root network from reaching [[Ironhold]]
 - Infiltrate a Withered Court gathering
-- Prevent alliance between Sorrow-Root and [[02_Worldbuilding/People/Ambassador Korvin Blacktide]]
+- Prevent alliance between Sorrow-Root and [[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]
 - [[Quest - The Root Network]]
 
 
@@ -201,7 +201,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Synthesis Gardens]]
+- [[02_Worldbuilding/Places/The Synthesis Gardens|02 Worldbuilding/Places/The Synthesis Gardens]]
 
 <!-- enriched: true -->
 - [[Ironhold]]

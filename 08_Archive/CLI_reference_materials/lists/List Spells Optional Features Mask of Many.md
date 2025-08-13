@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]]
 
 ## Player-Facing Summary
 

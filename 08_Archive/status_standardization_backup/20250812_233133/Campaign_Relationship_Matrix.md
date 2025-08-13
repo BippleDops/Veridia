@@ -112,8 +112,8 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **The Umbral Exchange (Aquabyssos) - Shadow Market Center**
 **Criminal Leadership:**
-- [[02_Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
-- [[02_Worldbuilding/Groups/Master Trader Darkmarke]] - Daily operations management
+- [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]] - Daily operations management
 - [[Commander Shadowguard]] - Security and enforcement
 
 **Service Providers:**
@@ -958,11 +958,11 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 ---
 
 ## Related Master Indexes
-- **[[Master_Places_Index]]** - Location details and categorization
-- **[[Master_Lore_Index]]** - Historical and cultural information
-- **[[Master_People_Index]]** - Character details and relationships
-- **[[Master_Groups_Index]]** - Organization structure and influence
-- **[[Campaign_Quick_Reference_Sheets]]** - Session-ready reference materials
+- **[[Master_Places_Index|Master Places Index]]** - Location details and categorization
+- **[[Master_Lore_Index|Master Lore Index]]** - Historical and cultural information
+- **[[Master_People_Index|Master People Index]]** - Character details and relationships
+- **[[Master_Groups_Index|Master Groups Index]]** - Organization structure and influence
+- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready reference materials
 
 ---
 
@@ -974,11 +974,11 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 ## Connections
 
-- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 - [[Ancient Mer-Folk Empire]]
 - [[Captain Rodrigo Ironanchor]]
 - [[Crystal Wardens]]
@@ -1004,7 +1004,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - [[Commander Shadowguard]]
 - [[Crystal Corruption Taboos]]
 - [[Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Groups/Master Trader Darkmarke]]
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]]
 - [[Merged Reality Zones]]
 - [[Multiple Recursion Levels]]
 - [[Pressure Adaptation System]]
@@ -1018,7 +1018,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - [[The Lighthouse of Storms]]
 - [[The Seven Betrayers]]
 - [[The Seven Shards]]
-- [[02_Worldbuilding/Groups/The Shadow Merchant Prim]]
+- [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]]
 - [[The Shattering of the Crown]]
 - [[The Silverscale Conspiracy]]
 - [[Tidal Memory Ceremonies]]

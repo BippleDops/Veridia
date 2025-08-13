@@ -40,7 +40,7 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[C
 ## Quick Build Procedure
 1 Pick Doctrine → 2 Assign Fleet Points → 3 Choose Admirals → 4 Place Bases → 5 Define Objectives
 
-Use with: [[Transportation_Infrastructure]], [[Journey_Event_Compiler]].
+Use with: [[Transportation_Infrastructure|Transportation Infrastructure]], [[Journey_Event_Compiler|Journey Event Compiler]].
 
 ## Player-Facing Summary
 
@@ -64,14 +64,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/Vehicles/New_Fleet_Template]]
+- [[05_Templates/Vehicles/New_Fleet_Template|05 Templates/Vehicles/New Fleet Template]]
 
 
 ## Connections
 
-- [[Economic_Warfare_Simulator]]
-- [[Mass_Combat_Evolution]]
-- [[Aethermoor_Airships]]
-- [[Aquabyssos_Submarines]]
-- [[Vehicle_Core_Rules]]
-- [[New_Fleet_Template]]
+- [[Economic_Warfare_Simulator|Economic Warfare Simulator]]
+- [[Mass_Combat_Evolution|Mass Combat Evolution]]
+- [[Aethermoor_Airships|Aethermoor Airships]]
+- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
+- [[Vehicle_Core_Rules|Vehicle Core Rules]]
+- [[New_Fleet_Template|New Fleet Template]]

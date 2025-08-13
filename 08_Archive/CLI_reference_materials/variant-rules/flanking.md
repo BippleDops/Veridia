@@ -21,7 +21,7 @@ world: Both
 
 If you regularly use miniatures, flanking gives combatants a simple way to gain advantage on attack rolls against a common enemy.
 
-A creature can't flank an enemy that it can't see. A creature also can't flank while it is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). A Large or larger creature is flanking as long as at least one square or hex of its space qualifies for flanking.
+A creature can't flank an enemy that it can't see. A creature also can't flank while it is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. A Large or larger creature is flanking as long as at least one square or hex of its space qualifies for flanking.
 
 ## Flanking on Squares
 

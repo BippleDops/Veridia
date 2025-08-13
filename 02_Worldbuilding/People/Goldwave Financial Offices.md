@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Goldwave Financial Offices]]
+- [[02_Worldbuilding/People/Goldwave Financial Offices|02 Worldbuilding/People/Goldwave Financial Offices]]
 
 <!-- enriched: true -->
 

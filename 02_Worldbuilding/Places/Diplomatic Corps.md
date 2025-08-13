@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Diplomatic Corps]]
+- [[02_Worldbuilding/Places/Diplomatic Corps|02 Worldbuilding/Places/Diplomatic Corps]]
 
 <!-- enriched: true -->
 

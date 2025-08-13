@@ -37,7 +37,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Organization Overview
 
-Establish New World Order represents the moderate political reform movement within [[02_Worldbuilding/Places/Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
+Establish New World Order represents the moderate political reform movement within [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
 
 The organization believes that crystal transformation has created new possibilities for governance, decision-making, and social organization that current institutions cannot fully utilize. However, they advocate for careful, methodical reform that preserves stability while incorporating the benefits of crystal consciousness and enhanced human capabilities.
 
@@ -341,7 +341,7 @@ The organization's signature approach to governmental reform:
 
 ### Government Relations
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]**
 **Relationship**: Constructive Engagement
 Works with existing government to implement reforms through legitimate political processes while maintaining independence and advocating for citizen interests.
 
@@ -351,7 +351,7 @@ Collaborates with government employees on administrative reform while respecting
 
 ### Political Movements
 
-#### **[[02_Worldbuilding/Groups/Rewrite the World Order]]**
+#### **[[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]**
 **Relationship**: Ideological Disagreement
 Shares some reform goals but strongly disagrees with revolutionary methods and radical approaches to change.
 
@@ -361,7 +361,7 @@ Works with traditional political groups on specific issues while disagreeing abo
 
 ### Community Organizations
 
-#### **[[02_Worldbuilding/Groups/The Artisans' Collective]]**
+#### **[[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
 **Relationship**: Economic Partnership
 Collaborates on economic policy development and supports policies benefiting creative and entrepreneurial communities.
 
@@ -533,10 +533,10 @@ Securing adequate funding and support for comprehensive reform initiatives.
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Groups/Rewrite the World Order]]
-- [[02_Worldbuilding/Groups/The Artisans' Collective]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
+- [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
 
 **Key Locations**:
 - [[The Crystal Governance Institute]]

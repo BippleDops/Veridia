@@ -657,7 +657,7 @@ Some succession-era issues remain unresolved:
 - [[The Depth Councils]] - Regional governmental bodies created during crisis
 - [[The Sacred Senate]] - Religious advisory institution integrated into democracy
 - [[The Constitution of Depths]] - Founding document establishing current government
-- [[02_Worldbuilding/Groups/The Battle of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
+- [[02_Worldbuilding/Groups/The Battle of Parliament Dee|02 Worldbuilding/Groups/The Battle Of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
 - [[The Mercy Accords]] - Post-conflict reconciliation agreements
 - [[The Great Thermal Shift]] - Natural disaster that tested early democratic government
 
@@ -696,6 +696,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Aboleth Prime Yoth]]
 - [[Emperor Thalassius]]

@@ -119,6 +119,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Runaway Golem]]
+- [[02_Worldbuilding/People/Quest - The Runaway Golem|02 Worldbuilding/People/Quest The Runaway Golem]]
 
 <!-- enriched: true -->

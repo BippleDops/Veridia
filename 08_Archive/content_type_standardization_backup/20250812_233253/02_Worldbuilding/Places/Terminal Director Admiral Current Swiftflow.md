@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Terminal Director Admiral Current Swiftflow]]
+- [[02_Worldbuilding/Places/Terminal Director Admiral Current Swiftflow|02 Worldbuilding/Places/Terminal Director Admiral Current Swiftflow]]
 
 <!-- enriched: true -->
 

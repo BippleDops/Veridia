@@ -123,7 +123,7 @@ Select Category: `INPUT[template-place-category][:MyCategory]`
 
 This is the places description. 
 
-# NPCs
+## NPCs
 
 `BUTTON[button_person]` The following people are associated with this place.
 
@@ -135,12 +135,12 @@ WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
 
-# GM Notes
+## GM Notes
 
 Make notes of what you need to track in the town here. 
 
 
-# Selling
+## Selling
 
 The following items are available for purchase. 
 
@@ -169,7 +169,7 @@ dv.table(
 );
 ```
 
-# Buying
+## Buying
 
 List of things this merchant will purchase. 
 
@@ -178,7 +178,7 @@ List of things this merchant will purchase.
 | Item 1 | 1gp  | L      |
 | Item 2 | 1cp  | -      |
 
-# Services
+## Services
 
 Services offered. 
 
@@ -187,11 +187,11 @@ Services offered.
 | Service 1 | 1gp  | L      |
 | Service 2 | 1cp  | -      |
 
-# Rumours
+## Rumours
 
 Anything the party might over hear?
 
-# Image
+## Image
 ![[Template_Place_Placeholder.png|500]]
 
 
@@ -232,4 +232,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Template_Place_Placeholder.png]]
+- [[02_Worldbuilding/Lore/Template_Place_Placeholder.png|02 Worldbuilding/Lore/Template Place Placeholder.png]]

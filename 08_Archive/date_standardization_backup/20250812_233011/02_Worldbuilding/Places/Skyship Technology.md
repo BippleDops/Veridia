@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Skyship Technology]]
+- [[02_Worldbuilding/Places/Skyship Technology|02 Worldbuilding/Places/Skyship Technology]]
 
 <!-- enriched: true -->
 

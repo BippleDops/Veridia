@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/invisibility-xphb "XPHB"|Invisibility]]
 
 ## Player-Facing Summary
 

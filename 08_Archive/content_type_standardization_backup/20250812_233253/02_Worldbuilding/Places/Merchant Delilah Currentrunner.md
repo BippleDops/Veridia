@@ -177,6 +177,6 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner|02 Worldbuilding/Places/Merchant Delilah Currentrunner]]
 
 <!-- enriched: true -->

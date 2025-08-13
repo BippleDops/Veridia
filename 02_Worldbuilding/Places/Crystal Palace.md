@@ -228,7 +228,7 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
 - [[Crystal Wardens]]

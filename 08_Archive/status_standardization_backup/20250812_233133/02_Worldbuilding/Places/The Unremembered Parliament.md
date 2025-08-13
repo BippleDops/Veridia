@@ -163,6 +163,6 @@ Legends speak of The Unremembered Parliament as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Unremembered Parliament]]
+- [[02_Worldbuilding/Places/The Unremembered Parliament|02 Worldbuilding/Places/The Unremembered Parliament]]
 
 <!-- enriched: true -->

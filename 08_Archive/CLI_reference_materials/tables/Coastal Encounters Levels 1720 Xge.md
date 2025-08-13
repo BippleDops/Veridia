@@ -25,19 +25,19 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | 1 [roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
-| 11-20 | 1 [storm giant](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
-| 21-25 | An [adult bronze dragon](/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md) fighting an [adult blue dragon](/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) to the death |
-| 26-40 | `2d4` [cyclopes](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 41-50 | 1 [adult bronze dragon](/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md) or 1 [adult blue dragon](/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) |
-| 51-60 | `d3` [djinni](/03_Mechanics/CLI/bestiary/elemental/djinni-xmm.md) or `d3` [marids](/03_Mechanics/CLI/bestiary/elemental/marid-xmm.md) |
-| 61-70 | 1 [dragon turtle](/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) |
-| 71-75 | `d3` [rocs](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
+| 01-10 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|roc]] |
+| 11-20 | 1 [[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm|storm giant]] |
+| 21-25 | An [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|adult bronze dragon]] fighting an [[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm|adult blue dragon]] to the death |
+| 26-40 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclopes]] |
+| 41-50 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|adult bronze dragon]] or 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm|adult blue dragon]] |
+| 51-60 | `d3` [[/03_Mechanics/CLI/bestiary/elemental/djinni-xmm|djinni]] or `d3` [[/03_Mechanics/CLI/bestiary/elemental/marid-xmm|marids]] |
+| 61-70 | 1 [[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm|dragon turtle]] |
+| 71-75 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|rocs]] |
 | 76-80 | `1d6 + 2` waterspouts that dance on the water before stopping abruptly |
-| 81-90 | `d6` [young blue dragons](/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) |
-| 91-96 | 1 [ancient bronze dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md) |
-| 97-99 | 1 [ancient blue dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md) |
-| 00 | `1d3 + 1` [storm giants](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
+| 81-90 | `d6` [[/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm|young blue dragons]] |
+| 91-96 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm|ancient bronze dragon]] |
+| 97-99 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm|ancient blue dragon]] |
+| 00 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm|storm giants]] |
 ^coastal-encounters-levels-1720
 
 ## Player-Facing Summary

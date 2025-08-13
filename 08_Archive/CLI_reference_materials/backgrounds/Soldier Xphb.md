@@ -22,10 +22,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/soldier.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
-- **Feat.** [Savage Attacker](/03_Mechanics/CLI/feats/savage-attacker-xphb.md)  
-- **Skill Proficiencies.** [Athletics](/03_Mechanics/CLI/skills.md#Athletics), [Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)  
-- **Tool Proficiency.** Choose one kind of [Gaming Set](/03_Mechanics/CLI/items/gaming-set-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Spear](/03_Mechanics/CLI/items/spear-xphb.md), [Shortbow](/03_Mechanics/CLI/items/shortbow-xphb.md), [20 Arrows](/03_Mechanics/CLI/items/arrow-xphb.md), [Gaming Set](/03_Mechanics/CLI/items/gaming-set-xphb.md) (same as above), [Healer's Kit](/03_Mechanics/CLI/items/healers-kit-xphb.md), [Quiver](/03_Mechanics/CLI/items/quiver-xphb.md), [Traveler's Clothes](/03_Mechanics/CLI/items/travelers-clothes-xphb.md), 14 GP; or (B) 50 GP  
+- **Feat.** [[/03_Mechanics/CLI/feats/savage-attacker-xphb|Savage Attacker]]  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Athletics|Athletics]], [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]  
+- **Tool Proficiency.** Choose one kind of [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]]  
+- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/spear-xphb|Spear]], [[/03_Mechanics/CLI/items/shortbow-xphb|Shortbow]], [[/03_Mechanics/CLI/items/arrow-xphb|20 Arrows]], [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]] (same as above), [[/03_Mechanics/CLI/items/healers-kit-xphb|Healer's Kit]], [[/03_Mechanics/CLI/items/quiver-xphb|Quiver]], [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]], 14 GP; or (B) 50 GP  
 
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 

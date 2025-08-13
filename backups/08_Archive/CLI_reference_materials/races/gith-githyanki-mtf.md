@@ -50,13 +50,13 @@ You learn one language of your choice, and you are proficient with one skill or 
 
 ### Martial Prodigy
 
-You are proficient with light and medium armor and with [shortswords](/03_Mechanics/CLI/items/shortsword-xphb.md), [longswords](/03_Mechanics/CLI/items/longsword-xphb.md), and [greatswords](/03_Mechanics/CLI/items/greatsword-xphb.md).
+You are proficient with light and medium armor and with [[/03_Mechanics/CLI/items/shortsword-xphb|shortswords]], [[/03_Mechanics/CLI/items/longsword-xphb|longswords]], and [[/03_Mechanics/CLI/items/greatsword-xphb|greatswords]].
 
 ### Githyanki Psionics
 
-You know the [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](/03_Mechanics/CLI/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]] cantrip, and the hand is [[/03_Mechanics/CLI/conditions#Invisible|invisible]] when you cast the cantrip with this trait.
 
-When you reach 3rd level, you can cast [jump](/03_Mechanics/CLI/spells/jump-xphb.md) once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md) spell once with this trait, and you regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast [[/03_Mechanics/CLI/spells/jump-xphb|jump]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/03_Mechanics/CLI/spells/misty-step-xphb|misty step]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 

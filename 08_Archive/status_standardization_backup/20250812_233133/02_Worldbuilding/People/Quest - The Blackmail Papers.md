@@ -33,7 +33,7 @@ accessibility:
 
 # Quest - The Blackmail Papers
 
-![Quest - The Blackmail Papers Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Blackmail_Papers.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_The_Blackmail_Papers.png|Quest - The Blackmail Papers Portrait]]
 
 ## Role and Motive
 Quest - The Blackmail Papers moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

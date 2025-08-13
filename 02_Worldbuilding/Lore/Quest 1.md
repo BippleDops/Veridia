@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[05_Templates/Templater/New Session]]
+- [[05_Templates/Templater/New Session|05 Templates/Templater/New Session]]
 
 
 ## Connections

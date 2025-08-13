@@ -173,6 +173,6 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden|02 Worldbuilding/Places/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->

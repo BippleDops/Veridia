@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention|02 Worldbuilding/Quests/Quest Divine Intervention]]
 
 
 ## Connections

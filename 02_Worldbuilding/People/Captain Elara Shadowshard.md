@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth|02 Worldbuilding/Lore/Discover Marina's Truth]]
 
 
 ## Connections

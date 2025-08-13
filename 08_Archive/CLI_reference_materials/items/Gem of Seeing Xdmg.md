@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/gem-of-seeing.webp#right)
 
 
-This gem has 3 charges. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can expend 1 charge. For the next 10 minutes, you have [Truesight](/03_Mechanics/CLI/senses.md#Truesight) out to 120 feet when you peer through the gem.
+This gem has 3 charges. As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can expend 1 charge. For the next 10 minutes, you have [[/03_Mechanics/CLI/senses#Truesight|Truesight]] out to 120 feet when you peer through the gem.
 
 The gem regains `d3` expended charges daily at dawn.
 

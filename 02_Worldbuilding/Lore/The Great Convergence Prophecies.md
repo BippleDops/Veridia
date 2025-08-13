@@ -632,7 +632,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 - [[The Lighthouse of Storms]]
 - [[The Restoration Movement]]
 - [[The Silverscale Conspiracy]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -656,7 +656,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[The Convergence Point]]
 - [[The Seven Betrayers]]
 - [[The Shattering of the Crown]]

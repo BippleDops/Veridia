@@ -150,6 +150,6 @@ Legends speak of The Leviathan Prophets as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Leviathan Prophets]]
+- [[02_Worldbuilding/People/The Leviathan Prophets|02 Worldbuilding/People/The Leviathan Prophets]]
 
 <!-- enriched: true -->

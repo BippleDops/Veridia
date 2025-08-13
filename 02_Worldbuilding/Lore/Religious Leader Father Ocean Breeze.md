@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds|02 Worldbuilding/Lore/Marriage Between Worlds]]
 
 
 ## Connections

@@ -250,11 +250,11 @@ Conjuration magic works synergistically with other magical traditions:
 - **Resource Logistics**: Balancing the convenience of conjuration with magical energy costs
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protective magic for summoning safety
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-divination]] - Locating and identifying summoning targets
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Anchor points for permanent transportation
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Source of void space connections
-- [[02_Worldbuilding/Lore/Deep Current Academy]] - Primary institution for conjuration study
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Abjuration]] - Protective magic for summoning safety
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-divination|02 Worldbuilding/Lore/Ω System CLI Spells School Divination]] - Locating and identifying summoning targets
+- [[02_Worldbuilding/Lore/The Crystal Networks|02 Worldbuilding/Lore/The Crystal Networks]] - Anchor points for permanent transportation
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Source of void space connections
+- [[02_Worldbuilding/Lore/Deep Current Academy|02 Worldbuilding/Lore/Deep Current Academy]] - Primary institution for conjuration study
 
 ## Player-Facing Summary
 
@@ -278,7 +278,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation]]
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation|02 Worldbuilding/Lore/Ω System CLI Spells School Transmutation]]
 
 
 ## Connections

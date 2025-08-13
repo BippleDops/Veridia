@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") at class level 5
-- [Shield of Faith](/03_Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] at class level 5
+- [[/03_Mechanics/CLI/spells/shield-of-faith-xphb "XPHB"|Shield of Faith]] at class level 5
 
 ## 2nd Level
 
-- [Magic Weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") at class level 5
-- [Spiritual Weapon](/03_Mechanics/CLI/spells/spiritual-weapon-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/magic-weapon-xphb "XPHB"|Magic Weapon]] at class level 5
+- [[/03_Mechanics/CLI/spells/spiritual-weapon-xphb "XPHB"|Spiritual Weapon]] at class level 5
 
 ## 3rd Level
 
-- [Crusader's Mantle](/03_Mechanics/CLI/spells/crusaders-mantle-xphb.md "XPHB") at class level 5
-- [Spirit Guardians](/03_Mechanics/CLI/spells/spirit-guardians-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/crusaders-mantle-xphb "XPHB"|Crusader's Mantle]] at class level 5
+- [[/03_Mechanics/CLI/spells/spirit-guardians-xphb "XPHB"|Spirit Guardians]] at class level 5
 
 ## 4th Level
 
-- [Fire Shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") at class level 5
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/fire-shield-xphb "XPHB"|Fire Shield]] at class level 5
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] at class level 5
 
 ## 5th Level
 
-- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 5
-- [Steel Wind Strike](/03_Mechanics/CLI/spells/steel-wind-strike-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/hold-monster-xphb "XPHB"|Hold Monster]] at class level 5
+- [[/03_Mechanics/CLI/spells/steel-wind-strike-xphb "XPHB"|Steel Wind Strike]] at class level 5
 
 ## Player-Facing Summary
 

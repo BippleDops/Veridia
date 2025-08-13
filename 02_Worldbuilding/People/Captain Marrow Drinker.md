@@ -18,7 +18,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Kraken's Harbor]]
+- [[02_Worldbuilding/Places/The Kraken's Harbor|02 Worldbuilding/Places/The Kraken's Harbor]]
 
 ## Player-Facing Summary
 

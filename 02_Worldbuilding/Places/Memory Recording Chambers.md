@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/The Silent Watcher|02 Worldbuilding/Places/The Silent Watcher]]
 
 
 ## Connections

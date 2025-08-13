@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Finn Goodtide]]
+- [[02_Worldbuilding/Places/Finn Goodtide|02 Worldbuilding/Places/Finn Goodtide]]
 
 <!-- enriched: true -->

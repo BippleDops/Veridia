@@ -25,10 +25,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rothe-vgm-rothe-vgm.svg)
 
-# [Rothé](3-Mechanics\CLI\bestiary\beast/rothe-vgm.md)
+# [[3-Mechanics\CLI\bestiary\beast/rothe-vgm|Rothé]]
 *Source: Volo's Guide to Monsters p. 208*  
 
-Ordinary rothé resemble musk oxen and have [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 30 feet.
+Ordinary rothé resemble musk oxen and have [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 30 feet.
 
 ```statblock
 "name": "Rothé (VGM)"

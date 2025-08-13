@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Free Current|02 Worldbuilding/Places/Free Current]]
 
 
 ## Connections

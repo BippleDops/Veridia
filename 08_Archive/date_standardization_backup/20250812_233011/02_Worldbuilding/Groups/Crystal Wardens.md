@@ -297,7 +297,7 @@ Only 1 in 10 aspirants complete training, and of those, 30% don't survive the bo
 - [[Quest - Nature's Balance]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -319,6 +319,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens|02 Worldbuilding/People/Crystal Wardens]]
 
 <!-- enriched: true -->

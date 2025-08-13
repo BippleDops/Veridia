@@ -23,9 +23,9 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/stonespeaker-crystal.webp#right)
 
 
-Created by the stone giant librarians of Gravenhollow, this nineteen-inch-long shard of quartz grants you advantage on Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) checks while it is on your person.
+Created by the stone giant librarians of Gravenhollow, this nineteen-inch-long shard of quartz grants you advantage on Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) checks while it is on your person.
 
-The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: [speak with animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md) (2 charges), [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) (4 charges), or [speak with plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md) (3 charges).
+The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|speak with animals]] (2 charges), [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|speak with dead]] (4 charges), or [[/03_Mechanics/CLI/spells/speak-with-plants-xphb|speak with plants]] (3 charges).
 
 When you cast a divination spell, you can use the crystal in place of one material component that would normally be consumed by the spell, at a cost of 1 charge per level of the spell. The crystal is not consumed when used in this way.
 

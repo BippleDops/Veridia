@@ -394,7 +394,7 @@ The pressure tube network directly connects the terminal to major locations thro
 - **[[The Phosphor Markets]]**: Commercial route for trade and economic activity
 - **[[Azure Citadel]]**: Military route for government and defense operations
 - **[[Parliament of Echoes]]**: Government route for political and administrative functions
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Academic route for research and education
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Academic route for research and education
 - **Deep Research Stations**: Specialized routes to extreme depth facilities
 
 ### Economic Impact
@@ -439,7 +439,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal|02 Worldbuilding/Places/Abyssos Prime Pressure Terminal]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

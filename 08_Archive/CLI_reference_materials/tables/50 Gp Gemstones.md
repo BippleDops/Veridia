@@ -25,18 +25,18 @@ world: Both
 
 | dice: d12 | Stone Description |
 |-----------|-------------------|
-| 1 | [Bloodstone](/03_Mechanics/CLI/items/bloodstone-xdmg.md) (opaque dark gray with red flecks) |
-| 2 | [Carnelian](/03_Mechanics/CLI/items/carnelian-xdmg.md) (opaque orange to red-brown) |
-| 3 | [Chalcedony](/03_Mechanics/CLI/items/chalcedony-xdmg.md) (opaque white) |
-| 4 | [Chrysoprase](/03_Mechanics/CLI/items/chrysoprase-xdmg.md) (translucent green) |
-| 5 | [Citrine](/03_Mechanics/CLI/items/citrine-xdmg.md) (transparent pale yellow-brown) |
-| 6 | [Jasper](/03_Mechanics/CLI/items/jasper-xdmg.md) (opaque blue, black, or brown) |
-| 7 | [Moonstone](/03_Mechanics/CLI/items/moonstone-xdmg.md) (translucent white with pale blue glow) |
-| 8 | [Onyx](/03_Mechanics/CLI/items/onyx-xdmg.md) (opaque bands of black and white, or pure black or white) |
-| 9 | [Quartz](/03_Mechanics/CLI/items/quartz-xdmg.md) (transparent white, smoky gray, or yellow) |
-| 10 | [Sardonyx](/03_Mechanics/CLI/items/sardonyx-xdmg.md) (opaque bands of red and white) |
-| 11 | [Star rose quartz](/03_Mechanics/CLI/items/star-rose-quartz-xdmg.md) (translucent rosy stone with white star-shaped center) |
-| 12 | [Zircon](/03_Mechanics/CLI/items/zircon-xdmg.md) (transparent pale blue-green) |
+| 1 | [[/03_Mechanics/CLI/items/bloodstone-xdmg|Bloodstone]] (opaque dark gray with red flecks) |
+| 2 | [[/03_Mechanics/CLI/items/carnelian-xdmg|Carnelian]] (opaque orange to red-brown) |
+| 3 | [[/03_Mechanics/CLI/items/chalcedony-xdmg|Chalcedony]] (opaque white) |
+| 4 | [[/03_Mechanics/CLI/items/chrysoprase-xdmg|Chrysoprase]] (translucent green) |
+| 5 | [[/03_Mechanics/CLI/items/citrine-xdmg|Citrine]] (transparent pale yellow-brown) |
+| 6 | [[/03_Mechanics/CLI/items/jasper-xdmg|Jasper]] (opaque blue, black, or brown) |
+| 7 | [[/03_Mechanics/CLI/items/moonstone-xdmg|Moonstone]] (translucent white with pale blue glow) |
+| 8 | [[/03_Mechanics/CLI/items/onyx-xdmg|Onyx]] (opaque bands of black and white, or pure black or white) |
+| 9 | [[/03_Mechanics/CLI/items/quartz-xdmg|Quartz]] (transparent white, smoky gray, or yellow) |
+| 10 | [[/03_Mechanics/CLI/items/sardonyx-xdmg|Sardonyx]] (opaque bands of red and white) |
+| 11 | [[/03_Mechanics/CLI/items/star-rose-quartz-xdmg|Star rose quartz]] (translucent rosy stone with white star-shaped center) |
+| 12 | [[/03_Mechanics/CLI/items/zircon-xdmg|Zircon]] (transparent pale blue-green) |
 ^50-gp-gemstones
 
 ## Player-Facing Summary

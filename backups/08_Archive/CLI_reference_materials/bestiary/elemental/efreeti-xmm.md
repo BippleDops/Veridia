@@ -23,7 +23,7 @@ updated: '2025-08-12T23:37:35.417121'
 world: Both
 ---
 
-# [Efreeti](3-Mechanics\CLI\bestiary\elemental/efreeti-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/efreeti-xmm|Efreeti]]
 *Source: Monster Manual (2024) p. 109. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Efreeti
@@ -69,13 +69,13 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 "cr": "11"
 "traits":
   - "desc": "If the efreeti dies outside the Elemental Plane of Fire, its body dissolves\
-      \ into ash, and it gains a new body in d4 days, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ into ash, and it gains a new body in d4 days, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ somewhere on the Plane of Fire."
     "name": "Elemental Restoration"
-  - "desc": "The efreeti has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The efreeti has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The efreeti has a 30 percent chance of knowing the [Wish](/03_Mechanics/CLI/spells/wish-xphb.md)\
+  - "desc": "The efreeti has a 30 percent chance of knowing the [[/03_Mechanics/CLI/spells/wish-xphb|Wish]]\
       \ spell. If the efreeti knows it, the efreeti can cast it only on behalf of\
       \ a non-genie creature who communicates a wish in a way the efreeti can understand.\
       \ If the efreeti casts the spell for the creature, the efreeti suffers none\
@@ -93,11 +93,11 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
     "name": "Hurl Flame"
   - "desc": "The efreeti casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md)\n\n1/day each:\
-      \ [Gaseous Form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [Major Image](/03_Mechanics/CLI/spells/major-image-xphb.md), [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md), [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md)\
+      \nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/elementalism-xphb|Elementalism]]\n\n1/day each:\
+      \ [[/03_Mechanics/CLI/spells/gaseous-form-xphb|Gaseous Form]], [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]],\
+      \ [[/03_Mechanics/CLI/spells/major-image-xphb|Major Image]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]],\
+      \ [[/03_Mechanics/CLI/spells/tongues-xphb|Tongues]], [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|Wall of Fire]]\
       \ (level 7 version)"
     "name": "Spellcasting"
 "source":

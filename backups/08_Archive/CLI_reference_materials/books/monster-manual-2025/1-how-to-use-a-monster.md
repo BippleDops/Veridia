@@ -48,7 +48,7 @@ A monster has a stat block that contains the rules necessary to use it in the ga
 
 - **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.  
 
-- **Combat Highlights.** [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md), [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md), and [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) are provided here.  
+- **Combat Highlights.** [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]], [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]], and [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] are provided here.  
 
 - **Ability Scores.** A monster's ability scores, ability modifiers, and saving throws are listed here.  
 
@@ -95,7 +95,7 @@ Each entry includes at least one stat block. Stat blocks are explored in the nex
 
 ## Parts of a Stat Block
 
-The rules for a [stat block](/03_Mechanics/CLI/variant-rules/stat-block-xphb.md) are detailed in the rules glossary of the "Player's Handbook" and in this section.
+The rules for a [[/03_Mechanics/CLI/variant-rules/stat-block-xphb|stat block]] are detailed in the rules glossary of the "Player's Handbook" and in this section.
 
 ### Size
 
@@ -134,29 +134,29 @@ The "Player's Handbook" describes the "nine alignments" and "unaligned creatures
 
 ### Armor Class
 
-A monster's [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md) (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md).
+A monster's [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]].
 
 ### Initiative
 
-The [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) entry specifies the monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) modifier followed by the monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) score in parentheses. Use the modifier when you roll to determine a monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md). A monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md), applied to that number.
+The [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] entry specifies the monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] modifier followed by the monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] score in parentheses. Use the modifier when you roll to determine a monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]]. A monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]], applied to that number.
 
-If you don't want to roll a monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), use the [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) score as the monster's [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) in combat. [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) is further detailed in the "Player's Handbook".
+If you don't want to roll a monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]], use the [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] score as the monster's [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] in combat. [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] is further detailed in the "Player's Handbook".
 
 ### Hit Points
 
-A monster's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) are presented as a number followed by parentheses, where the monster's [Hit Point Dice](/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb.md) are provided, along with any contribution from its Constitution. Either use the number for the monster's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) or roll the die expression in parentheses to determine the monster's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) randomly; don't use both.
+A monster's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] are presented as a number followed by parentheses, where the monster's [[/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb|Hit Point Dice]] are provided, along with any contribution from its Constitution. Either use the number for the monster's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or roll the die expression in parentheses to determine the monster's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] randomly; don't use both.
 
-A monster's size typically determines the die used to calculate its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), as shown in the Hit Dice by [Size](/03_Mechanics/CLI/variant-rules/size-xphb.md) table.
+A monster's size typically determines the die used to calculate its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], as shown in the Hit Dice by [[/03_Mechanics/CLI/variant-rules/size-xphb|Size]] table.
 
-![Parts of a Stat Block; Hit Dice by Size](/03_Mechanics/CLI/tables/parts-of-a-stat-block-hit-dice-by-size-xmm.md)
+![[/03_Mechanics/CLI/tables/parts-of-a-stat-block-hit-dice-by-size-xmm|Parts of a Stat Block; Hit Dice by Size]]
 
-A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) (average 11).
+A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] (average 11).
 
-For more on [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), see the "Player's Handbook".
+For more on [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], see the "Player's Handbook".
 
 ### Speed
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [Burrow](/03_Mechanics/CLI/variant-rules/burrow-speed-xphb.md), [Climb](/03_Mechanics/CLI/variant-rules/climb-speed-xphb.md), [Fly](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md), [Swim](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md). Rules for [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) and these specials speeds appear in the "Player's Handbook".
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [[/03_Mechanics/CLI/variant-rules/burrow-speed-xphb|Burrow]], [[/03_Mechanics/CLI/variant-rules/climb-speed-xphb|Climb]], [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly]], [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim]]. Rules for [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] and these specials speeds appear in the "Player's Handbook".
 
 ### Ability Scores
 
@@ -164,15 +164,15 @@ Every monster has six ability scores along with corresponding ability score modi
 
 ### Skills
 
-The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) and Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md). Other modifiers might apply.
+The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) and Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]]. Other modifiers might apply.
 
 ### Resistances and Vulnerabilities
 
-These entries list a monster's [Resistances](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) and [Vulnerabilities](/03_Mechanics/CLI/variant-rules/vulnerability-xphb.md), if any. See the "Player's Handbook" for more information.
+These entries list a monster's [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistances]] and [[/03_Mechanics/CLI/variant-rules/vulnerability-xphb|Vulnerabilities]], if any. See the "Player's Handbook" for more information.
 
 ### Immunities
 
-This entry lists the monster's [Immunities](/03_Mechanics/CLI/variant-rules/immunity-xphb.md), if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
+This entry lists the monster's [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunities]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
 
 ### Gear
 
@@ -190,11 +190,11 @@ A monster that requires ammunition to make ranged attacks carries the necessary 
 
 You may equip monsters with additional gear however you like, using the equipment chapter of the "Player's Handbook" for inspiration. You decide how much of a monster's equipment is recoverable after the creature is slain and whether any of that equipment is still usable.
 
-Beware of giving a monster combat-oriented magic items, since those might alter the monster's [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md). If you do give a monster a magic item, the monster can have [Attunement](/03_Mechanics/CLI/variant-rules/attunement-xphb.md) with magic items as noted in the "Player's Handbook". A monster with a class tag after its creature type is considered a member of that class for [Attunement](/03_Mechanics/CLI/variant-rules/attunement-xphb.md) purposes.
+Beware of giving a monster combat-oriented magic items, since those might alter the monster's [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]]. If you do give a monster a magic item, the monster can have [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] with magic items as noted in the "Player's Handbook". A monster with a class tag after its creature type is considered a member of that class for [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] purposes.
 
 > [!note] Running a Monster
 > 
-> To ensure a monster acts in accordance with its [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md), follow these rules during combat:
+> To ensure a monster acts in accordance with its [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]], follow these rules during combat:
 > 
 > - **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.  
 > - **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.  
@@ -203,7 +203,7 @@ Beware of giving a monster combat-oriented magic items, since those might alter 
 
 ### Senses
 
-The Senses entry specifies a monster's [Passive Perception](/03_Mechanics/CLI/variant-rules/passive-perception-xphb.md) score, as well as any special senses the monster possesses. [Passive Perception](/03_Mechanics/CLI/variant-rules/passive-perception-xphb.md) and "special senses" are described in the "Player's Handbook".
+The Senses entry specifies a monster's [[/03_Mechanics/CLI/variant-rules/passive-perception-xphb|Passive Perception]] score, as well as any special senses the monster possesses. [[/03_Mechanics/CLI/variant-rules/passive-perception-xphb|Passive Perception]] and "special senses" are described in the "Player's Handbook".
 
 ### Languages
 
@@ -211,25 +211,25 @@ This entry lists languages that the monster can use to communicate. Sometimes a 
 
 #### Telepathy
 
-[Telepathy](/03_Mechanics/CLI/variant-rules/telepathy-xphb.md) is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
+[[/03_Mechanics/CLI/variant-rules/telepathy-xphb|Telepathy]] is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
 
 ### Challenge Rating
 
-[Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) is defined in the "Player's Handbook", while guidance on using CR to plan potential combat encounters is in the "Dungeon Master's Guide". Lists of monsters organized by [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) appear in "appendix B".
+[[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]] is defined in the "Player's Handbook", while guidance on using CR to plan potential combat encounters is in the "Dungeon Master's Guide". Lists of monsters organized by [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]] appear in "appendix B".
 
 #### Experience Points
 
-The number of [Experience Points](/03_Mechanics/CLI/variant-rules/experience-points-xphb.md) (XP) a monster is worth is based on its CR, as detailed in the [Experience Points](/03_Mechanics/CLI/variant-rules/experience-points-xphb.md) by [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) table. XP is awarded for defeating the monster in combat or otherwise neutralizing it.
+The number of [[/03_Mechanics/CLI/variant-rules/experience-points-xphb|Experience Points]] (XP) a monster is worth is based on its CR, as detailed in the [[/03_Mechanics/CLI/variant-rules/experience-points-xphb|Experience Points]] by [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]] table. XP is awarded for defeating the monster in combat or otherwise neutralizing it.
 
 Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
 
-![Experience Points by Challenge Rating](/03_Mechanics/CLI/tables/experience-points-by-challenge-rating-xmm.md)
+![[/03_Mechanics/CLI/tables/experience-points-by-challenge-rating-xmm|Experience Points by Challenge Rating]]
 
 #### Proficiency Bonus
 
-A monster's [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) (PB) is determined by its CR, as shown in the [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) by [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
+A monster's [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]] (PB) is determined by its CR, as shown in the [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]] by [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]] table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
-![Proficiency Bonus by Challenge Rating](/03_Mechanics/CLI/tables/proficiency-bonus-by-challenge-rating-xmm.md)
+![[/03_Mechanics/CLI/tables/proficiency-bonus-by-challenge-rating-xmm|Proficiency Bonus by Challenge Rating]]
 
 ### Traits
 
@@ -267,13 +267,13 @@ A stat block usually provides both a number and a die expression for each instan
 
 #### Multiattack
 
-Some creatures can make more than one attack when they take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [Attack](/03_Mechanics/CLI/actions.md#Attack) action.
+Some creatures can make more than one attack when they take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [[/03_Mechanics/CLI/actions#Attack|Attack]] action.
 
 #### Spellcasting
 
 If a monster can cast any spells, its stat block lists the spells and provides the monster's spellcasting ability, spell save DC (if any spells require a saving throw), and spell attack bonus (if any spells require an attack roll). Unless noted otherwise, a spell of level 1 or higher is always cast at its lowest possible level and can't be cast at a higher level.
 
-A monster's spell can have special rules or restrictions. For example, a [green slaad](/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) can cast the [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) spell, but the spell has a "self only" restriction, which means the spell affects only the slaad.
+A monster's spell can have special rules or restrictions. For example, a [[/03_Mechanics/CLI/bestiary/aberration/green-slaad-xmm|green slaad]] can cast the [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]] spell, but the spell has a "self only" restriction, which means the spell affects only the slaad.
 
 ##### Spell Components
 
@@ -281,19 +281,19 @@ The Spellcasting trait notes whether the monster's spellcasting ignores the need
 
 ##### Casting Times of 1+ Minutes
 
-If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [Magic](/03_Mechanics/CLI/actions.md#Magic) action on each of its turns and maintain [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) to cast the spell, as described in the "Player's Handbook".
+If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [[/03_Mechanics/CLI/actions#Magic|Magic]] action on each of its turns and maintain [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] to cast the spell, as described in the "Player's Handbook".
 
 ### Bonus Action
 
-If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [Bonus Actions](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Actions]].
 
 ### Reactions
 
-If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [Reactions](/03_Mechanics/CLI/variant-rules/reaction-xphb.md).
+If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reactions]].
 
 ### Legendary Actions
 
-If the monster has Legendary Action options, those are listed in this section. A Legendary Action is an action that a monster can take immediately after another creature's turn. Only one of these actions can be taken at a time and only after another creature's turn ends. The monster can't take a Legendary Action if it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition or is otherwise unable to take actions.
+If the monster has Legendary Action options, those are listed in this section. A Legendary Action is an action that a monster can take immediately after another creature's turn. Only one of these actions can be taken at a time and only after another creature's turn ends. The monster can't take a Legendary Action if it has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition or is otherwise unable to take actions.
 
 The monster has a limited number of Legendary Action uses, and that number is specified in the stat block. The monster expends one use whenever it takes a Legendary Action, and it regains all expended uses at the start of each of its turns.
 
@@ -301,9 +301,9 @@ The monster has a limited number of Legendary Action uses, and that number is sp
 
 Some parts of a stat block have restrictions on the number of times they can be used. Here are the most common ways that usage is limited:
 
-- **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to regain expended uses. For example, a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) that includes "1/Day" means the [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) can be taken once and that the monster must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to take it again.  
-- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `d6`.  
-- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to use it again.
+- **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] to regain expended uses. For example, a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] that includes "1/Day" means the [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] can be taken once and that the monster must finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] to take it again.  
+- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `d6`.  
+- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] to use it again.
 
 ## Player-Facing Summary
 

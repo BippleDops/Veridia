@@ -34,13 +34,13 @@ access_restriction: Public Infrastructure
 
 ## Overview
 
-Underwater Breathing represents the collective term for the sophisticated life support technologies that enable human habitation in [[02_Worldbuilding/Places/Aquabyssos]]. These systems combine magical enhancement, biological adaptation, technological innovation, and environmental manipulation to allow citizens to breathe naturally in aquatic environments while maintaining the physiological functions necessary for normal human life.
+Underwater Breathing represents the collective term for the sophisticated life support technologies that enable human habitation in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. These systems combine magical enhancement, biological adaptation, technological innovation, and environmental manipulation to allow citizens to breathe naturally in aquatic environments while maintaining the physiological functions necessary for normal human life.
 
 The technology encompasses personal breathing apparatus, city-wide atmospheric management, emergency life support systems, and biological enhancement procedures that work together to create breathable environments throughout the underwater city. These systems integrate closely with the [[Pressure Adaptation System]] to provide comprehensive life support that addresses both pressure and respiratory needs.
 
 Modern underwater breathing systems have evolved far beyond simple air supply mechanisms to include oxygen extraction from seawater, carbon dioxide processing, atmospheric composition management, and emergency backup systems that ensure citizen survival even during major system failures. The technology has become so integral to daily life that most Aquabyssos citizens give it no more thought than surface dwellers consider breathing air.
 
-Recent innovations have focused on improving efficiency, reducing maintenance requirements, accommodating visitors from [[02_Worldbuilding/Places/Aethermoor]], and preparing for the challenges of reality convergence where breathing systems may need to function across dimensional boundaries.
+Recent innovations have focused on improving efficiency, reducing maintenance requirements, accommodating visitors from [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], and preparing for the challenges of reality convergence where breathing systems may need to function across dimensional boundaries.
 
 ## Technical Systems and Components
 
@@ -269,7 +269,7 @@ Movement between different areas requires breathing system coordination:
 - **Environmental Variations**: Adaptation to different water conditions and quality
 - **Emergency Situations**: Breathing support during transportation emergencies
 - **Extended Travel**: Long-distance breathing support for prolonged journeys
-- **Cross-Realm Travel**: Breathing system preparation for visits to [[02_Worldbuilding/Places/Aethermoor]]
+- **Cross-Realm Travel**: Breathing system preparation for visits to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 ## Potential Problems and Safety Concerns
 
@@ -490,14 +490,14 @@ Understanding breathing systems helps characters navigate Aquabyssos society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing underwater breathing technology
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Complementary life support technology
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Source of breathing enhancement crystals
-- [[02_Worldbuilding/Lore/The Deep Harvest]] - Economic system dependent on breathing-adapted workers
-- [[02_Worldbuilding/People/Master Respiratory Engineer Marina Gillwright]] - Breathing systems director
-- [[02_Worldbuilding/People/Chief Manufacturing Engineer Tide Breathwright]] - Production facility leader
-- [[02_Worldbuilding/Groups/Respiratory Engineering Guild]] - Professional organization supporting breathing systems
-- [[02_Worldbuilding/Groups/Underwater Medical Society]] - Healthcare professionals specializing in breathing medicine
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing underwater breathing technology
+- [[02_Worldbuilding/Lore/Pressure Adaptation System|02 Worldbuilding/Lore/Pressure Adaptation System]] - Complementary life support technology
+- [[02_Worldbuilding/Lore/Crystal Forest|02 Worldbuilding/Lore/Crystal Forest]] - Source of breathing enhancement crystals
+- [[02_Worldbuilding/Lore/The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]] - Economic system dependent on breathing-adapted workers
+- [[02_Worldbuilding/People/Master Respiratory Engineer Marina Gillwright|02 Worldbuilding/People/Master Respiratory Engineer Marina Gillwright]] - Breathing systems director
+- [[02_Worldbuilding/People/Chief Manufacturing Engineer Tide Breathwright|02 Worldbuilding/People/Chief Manufacturing Engineer Tide Breathwright]] - Production facility leader
+- [[02_Worldbuilding/Groups/Respiratory Engineering Guild|02 Worldbuilding/Groups/Respiratory Engineering Guild]] - Professional organization supporting breathing systems
+- [[02_Worldbuilding/Groups/Underwater Medical Society|02 Worldbuilding/Groups/Underwater Medical Society]] - Healthcare professionals specializing in breathing medicine
 
 
 ## Connections
@@ -531,5 +531,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Depth Chart]]
+- [[02_Worldbuilding/Lore/The Depth Chart|02 Worldbuilding/Lore/The Depth Chart]]
 - [[Pressure Tubes]]

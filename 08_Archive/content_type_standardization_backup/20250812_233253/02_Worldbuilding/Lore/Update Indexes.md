@@ -93,7 +93,7 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - [[Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
-- [[Relationship_Web.canvas]] - Visual faction and character connections
+- [[Relationship_Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
 - [[Continental Connections Map]] - Geographic relationship mapping
 - [[Faction Relationship Tracker]] - Organizational standing matrix
 
@@ -124,4 +124,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]

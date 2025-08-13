@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]]
 
 
 ## Connections

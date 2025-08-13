@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-umbral-lord-xmm-v1-vampire-umbral-lord-xmm.svg)
 
-# [Vampire Umbral Lord](3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm|Vampire Umbral Lord]]
 *Source: Monster Manual (2024) p. 318*  
 
 Vampire umbral lords embrace their ties to the darkness, devoting themselves to sinister powers in exchange for access to forbidden magic.
@@ -88,35 +88,35 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+13"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+9"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]"
 "senses": "blindsight 120 ft., passive Perception 23"
 "languages": "Common plus three other languages"
 "cr": "15"
 "traits":
   - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the vampire drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "If the vampire drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
       \ outside its resting place, it teleports into its resting place unless it is\
       \ in running water or sunlight. If it can't teleport, it is destroyed. Once\
-      \ inside its resting place, it has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
-      \ condition for 1 hour, after which it regains 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ inside its resting place, it has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
+      \ condition for 1 hour, after which it regains 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]."
     "name": "Shadow Escape"
   - "desc": "The vampire has these weaknesses:\n\n- Forbiddance. The vampire can't\
       \ enter a residence without an invitation from an occupant.  \n- Running Water.\
       \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
       - Stake to the Heart. If a weapon that deals Piercing damage is driven into\
-      \ the vampire's heart while the vampire has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
-      \ condition in its resting place, the vampire has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ the vampire's heart while the vampire has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ condition in its resting place, the vampire has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
       \ condition until the weapon is removed.  \n- Sunlight. The vampire takes\
       \ 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it\
-      \ has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on\
+      \ has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on\
       \ attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
@@ -127,26 +127,26 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ plus 13 (3d8) Necrotic damage."
     "name": "Grave Strike"
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 16 (2d10 + 5) Necrotic\
-      \ damage, and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the start of the vampire's next turn."
     "name": "Sickening Ray"
-  - "desc": "The vampire casts [Hunger of Hadar](/03_Mechanics/CLI/spells/hunger-of-hadar-xphb.md)\
+  - "desc": "The vampire casts [[/03_Mechanics/CLI/spells/hunger-of-hadar-xphb|Hunger of Hadar]]\
       \ (level 5 version), requiring no spell components and using Charisma as the\
       \ spellcasting ability (spell save DC 18).\n"
     "name": "Hunger of Hadar (Recharge 5-6)"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: DC 18, one creature the vampire can see\
       \ within 30 feet that isn't a Construct or an Undead. Failure: 14 (4d6) Necrotic\
-      \ damage. The target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ damage. The target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken, and the vampire\
-      \ regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal\
+      \ regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal\
       \ to that amount."
     "name": "Sanguine Drain"
 "legendary_actions":
-  - "desc": "The vampire moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The vampire moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it makes one Grave Strike or Sickening Ray attack."
     "name": "Umbral Strike"
-  - "desc": "The vampire casts [Command](/03_Mechanics/CLI/spells/command-xphb.md),\
+  - "desc": "The vampire casts [[/03_Mechanics/CLI/spells/command-xphb|Command]],\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 18). The vampire can't take this action again until the start\
       \ of its next turn.\n"
@@ -156,13 +156,13 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ the following effects:"
     "name": ""
   - "desc": "- Children of the Night. The vampire exerts influence over the animals\
-      \ in its domain. From dusk until dawn, Medium or smaller Beasts have the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ in its domain. From dusk until dawn, Medium or smaller Beasts have the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
       \ condition while within 1 mile of the lair.  \n- Looming Shadows. Shadows\
       \ within 1 mile of the lair seem to move as if alive. Any creature (excluding\
-      \ the vampire and its allies) that finishes a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+      \ the vampire and its allies) that finishes a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]]\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  \n- Mists. The area within 1 mile\
-      \ of the lair is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
+      \ of the lair is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]]\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  "
     "name": ""

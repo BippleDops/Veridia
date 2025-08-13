@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
 
 
 ## Connections

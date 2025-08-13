@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [Searing Smite](/03_Mechanics/CLI/spells/searing-smite-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/searing-smite-xphb "XPHB"|Searing Smite]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Shining Smite](/03_Mechanics/CLI/spells/shining-smite-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/shining-smite-xphb "XPHB"|Shining Smite]] as 2nd-level, at class level 3
 
 ## Player-Facing Summary
 

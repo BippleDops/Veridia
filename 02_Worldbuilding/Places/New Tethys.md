@@ -43,13 +43,13 @@ Built within and around the drowned spires of the ancient surface capital, New T
 The largest air-filled dome, housing the [[02_Worldbuilding/People/Archon Meredith Saltweaver|Archon's]] palace and the [[Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
 
 ### The Merchant Depths
-Flooded commercial district where [[02_Worldbuilding/People/Captain Garrett Stormcutter]] maintains his trading post. Connected to [[02_Worldbuilding/Places/The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
+Flooded commercial district where [[02_Worldbuilding/People/Captain Garrett Stormcutter|02 Worldbuilding/People/Captain Garrett Stormcutter]] maintains his trading post. Connected to [[02_Worldbuilding/Places/The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
 
 ### Scholar's Spiral
-A partially flooded tower complex housing the local branch of the [[Abyssal Academy]]. [[02_Worldbuilding/People/Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
+A partially flooded tower complex housing the local branch of the [[Abyssal Academy]]. [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
 
 ### The Reef Gardens
-Living coral shaped into residential structures, primarily housing the adapted population. [[02_Worldbuilding/People/Duke Cyrus Reefheart]] maintains a manor here as the [[Coral Courts]] embassy.
+Living coral shaped into residential structures, primarily housing the adapted population. [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] maintains a manor here as the [[Coral Courts]] embassy.
 
 ### The Pressure Slums
 Deepest inhabited section where [[The Free Current]] operates in shadows. Those who can't afford pressure protection magic cluster here, often showing signs of depth-related mutations.
@@ -66,10 +66,10 @@ Massive magical barriers controlling water flow between districts. Controlled by
 A weekly market that occurs when merchants gather their buoyant stalls. [[Merchant Delilah Currentrunner]] coordinates vendors and manages disputes.
 
 ### Temple of Dual Breath
-The main temple of the [[Church of the Tidal Throne]], where [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
+The main temple of the [[Church of the Tidal Throne]], where [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
 
 ### The Pressure Academy
-Training ground for the [[Depth Wardens]], where [[02_Worldbuilding/People/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
+Training ground for the [[Depth Wardens]], where [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
 
 ## Services & Shops
 
@@ -107,7 +107,7 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 - Main exports: Preserved surface artifacts, translation services, magical adaptations
 - Main imports: Depth crystals, glowkelp, pearlsteel
 - Currency: Tethyan Drops (magical water pearls)
-- Major trade partner with [[02_Worldbuilding/Places/Lumengarde]] and [[02_Worldbuilding/Places/Pressure's End]]
+- Major trade partner with [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] and [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 
 ## Current Events
 1. Archon Saltweaver has announced new taxation on depth travelers
@@ -137,11 +137,11 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 10. Messenger with urgent summons from the Archon
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Ruler
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]] - Major merchant
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Academy representative
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious leader
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Coral Courts ambassador
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]] - Ruler
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter|02 Worldbuilding/People/Captain Garrett Stormcutter]] - Major merchant
+- [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] - Academy representative
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious leader
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] - Coral Courts ambassador
 - [[Keeper Elara Mindwell]] - Memory conservator
 - [[Enforcer Chief Mako Ironjaw]] - Law enforcement
 - [[Tavern Keeper Finn Splitlung]] - Information broker
@@ -212,7 +212,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]
 
 <!-- enriched: true -->
 - [[Abyssal Academy]]

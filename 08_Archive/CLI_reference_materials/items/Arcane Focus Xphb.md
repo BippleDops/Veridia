@@ -29,11 +29,11 @@ world: Both
 
 **Items in this group:**
 
-- [Crystal](/03_Mechanics/CLI/items/crystal-xphb.md)
-- [Orb](/03_Mechanics/CLI/items/orb-xphb.md)
-- [Rod](/03_Mechanics/CLI/items/rod-xphb.md)
-- [Staff](/03_Mechanics/CLI/items/staff-xphb.md)
-- [Wand](/03_Mechanics/CLI/items/wand-xphb.md)
+- [[/03_Mechanics/CLI/items/crystal-xphb|Crystal]]
+- [[/03_Mechanics/CLI/items/orb-xphb|Orb]]
+- [[/03_Mechanics/CLI/items/rod-xphb|Rod]]
+- [[/03_Mechanics/CLI/items/staff-xphb|Staff]]
+- [[/03_Mechanics/CLI/items/wand-xphb|Wand]]
 
 *Source: Player's Handbook (2024) p. 224*
 

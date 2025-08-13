@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [[02_Worldbuilding/Places/Void Currents|02 Worldbuilding/Places/Void Currents]]
 
 
 ## Connections

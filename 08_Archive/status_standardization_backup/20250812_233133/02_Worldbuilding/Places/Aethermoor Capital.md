@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor Capital]]
+- [[02_Worldbuilding/Places/Aethermoor Capital|02 Worldbuilding/Places/Aethermoor Capital]]
 
 <!-- enriched: true -->
 

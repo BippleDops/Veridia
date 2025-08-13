@@ -45,7 +45,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown|02 Worldbuilding/Quests/Quest The Pretender's Crown]]
 
 
 ## Connections

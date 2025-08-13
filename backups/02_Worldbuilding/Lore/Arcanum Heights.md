@@ -15,9 +15,9 @@ tags:
 - tower-district
 world: Aethermoor
 danger_level: 5
-parent_location: '[[02_Worldbuilding/Places/Crystalhaven]]'
+parent_location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 elevation: Upper Crystal Spires
-government: '[[02_Worldbuilding/Places/Crystalhaven]] Council of Mages'
+government: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] Council of Mages'
 population: 12000
 specialties:
 - Advanced Magic Research
@@ -28,9 +28,9 @@ founded: Early Crystal Age
 created: '2025-08-09'
 updated: '2025-08-13T01:18:35.804454+00:00'
 related_entities:
-- '[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]'
-- '[[02_Worldbuilding/Places/Crystal Gardens]]'
-- '[[02_Worldbuilding/Lore/Abyssal Academy]]'
+- '[[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]]'
+- '[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]'
+- '[[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
 ---
 
 
@@ -42,9 +42,9 @@ related_entities:
 
 ## Overview
 
-Suspended high above [[02_Worldbuilding/Places/Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[02_Worldbuilding/Places/Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[02_Worldbuilding/Lore/Abyssal Academy]] in the depths of [[Aquabyssos]].
+Suspended high above [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]] in the depths of [[Aquabyssos]].
 
-The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[02_Worldbuilding/Lore/The Great Drowning]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
+The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
 
 ## Architecture & Layout
 
@@ -112,7 +112,7 @@ Seven major towers hover at different altitudes above Crystalhaven, each dedicat
 **The Failure Archive**: Documentation of magical disasters and their causes
 
 ### Dangerous Research Projects
-**Project Convergence**: Attempting to replicate [[02_Worldbuilding/Lore/Convergence Point]] phenomena
+**Project Convergence**: Attempting to replicate [[02_Worldbuilding/Lore/Convergence Point|02 Worldbuilding/Lore/Convergence Point]] phenomena
 **The Weather Engine**: Large-scale climate modification experiments
 **Dimensional Gateway Research**: Creating stable portals to other planes
 **Consciousness Transfer Studies**: Moving minds between bodies and constructs
@@ -144,13 +144,13 @@ Students and faculty can access:
 
 ### The Convergence Observatory
 *Facility studying connections between realms*
-- Monitors magical flux between [[02_Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]]
-- Contains communication array for contacting [[02_Worldbuilding/Lore/Abyssal Academy]]
-- Research into [[02_Worldbuilding/Lore/The Great Drowning]] magical causes
+- Monitors magical flux between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]]
+- Contains communication array for contacting [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]
+- Research into [[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]] magical causes
 - Potential source of warnings about dimensional instabilities
 
 ### The Innovation Laboratory
-*Where [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] conducts research*
+*Where [[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]] conducts research*
 - Focuses on practical applications of crystal magic
 - Develops new magical items for commercial use
 - Contains prototype devices of incredible power
@@ -199,16 +199,16 @@ Recent experiments have produced concerning results:
 - Increasing number of planar intrusions
 
 ### Academic Rivalries
-**Surface vs. Deep Knowledge**: Tension between Heights and [[02_Worldbuilding/Lore/Abyssal Academy]]
+**Surface vs. Deep Knowledge**: Tension between Heights and [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]
 **Traditional vs. Innovation**: Conservative faculty resist experimental approaches
 **Resource Competition**: Limited funding creates conflicts between departments
 **Publication Disputes**: Competing claims over magical discoveries
 
 ### Political Pressures
-- [[02_Worldbuilding/Places/Crystalhaven]] government wants militarily useful research
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] government wants militarily useful research
 - Other cities demand access to Heights discoveries
 - International pressure over dangerous experimental programs
-- [[02_Worldbuilding/Groups/Purist Coalition]] infiltration attempts
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] infiltration attempts
 
 ## Quest Hooks
 
@@ -217,7 +217,7 @@ Recent experiments have produced concerning results:
 3. **The Artifact Heist**: Thieves steal dangerous magical items from the vault
 4. **The Academic Sabotage**: Someone is causing magical accidents to discredit the Heights
 5. **The Ethical Investigation**: Characters investigate reports of illegal magical experimentation
-6. **The Diplomatic Mission**: Negotiate academic exchange program with [[02_Worldbuilding/Lore/Abyssal Academy]]
+6. **The Diplomatic Mission**: Negotiate academic exchange program with [[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]
 7. **The Planar Invasion**: Conjuration experiments accidentally open gateway for hostile entities
 8. **The Time Loop**: Temporal research creates repeating time loop trapping the Heights
 9. **The Knowledge War**: Rival institutions compete to steal Heights research
@@ -226,7 +226,7 @@ Recent experiments have produced concerning results:
 ## Economic & Cultural Impact
 
 ### Innovation Hub
-Arcanum Heights drives magical innovation across [[02_Worldbuilding/Places/Aethermoor]]:
+Arcanum Heights drives magical innovation across [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]:
 - New spell development and refinement
 - Magical item design and mass production
 - Training for court wizards and magical advisors
@@ -239,7 +239,7 @@ Arcanum Heights drives magical innovation across [[02_Worldbuilding/Places/Aethe
 - Publication of magical research journals
 
 ### Economic Influence
-- Major employer in [[02_Worldbuilding/Places/Crystalhaven]]
+- Major employer in [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
 - Attracts wealthy students and their families
 - Drives demand for rare magical components
 - Patents and licensing for magical innovations
@@ -283,4 +283,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index|02 Worldbuilding/Lore/Location Index]]

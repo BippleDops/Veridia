@@ -255,7 +255,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[The Resonance Cathedral]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|New Thalassopolis]]
 - [[Acoustic Dead Zones]]
-- [[02_Worldbuilding/Groups/Mobile Terror Platform]]
+- [[02_Worldbuilding/Groups/Mobile Terror Platform|02 Worldbuilding/Groups/Mobile Terror Platform]]
 
 **Historical Events**:
 - [[The Silence Experiments]]
@@ -269,7 +269,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Bass-Echo Rumble Deepshake]]
 - [[Mid-Echo Shriek Nerveshatter]]
 - [[Treble-Echo Whistle Brainsplitter]]
-- [[02_Worldbuilding/Groups/Void-Echo Silence Deafmake]]
+- [[02_Worldbuilding/Groups/Void-Echo Silence Deafmake|02 Worldbuilding/Groups/Void Echo Silence Deafmake]]
 - [[Chaos-Echo Discord Mindmelter]]
 
 **Specialized Equipment**:
@@ -282,9 +282,9 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 **Cult Techniques**:
 - [[Acoustic Infection]]
 - [[The Great Resonance]]
-- [[02_Worldbuilding/Groups/Resonance Cascade Attack]]
+- [[02_Worldbuilding/Groups/Resonance Cascade Attack|02 Worldbuilding/Groups/Resonance Cascade Attack]]
 - [[Silent Zone Creation]]
-- [[02_Worldbuilding/Groups/Harmonic Mind Contro]]
+- [[02_Worldbuilding/Groups/Harmonic Mind Contro|02 Worldbuilding/Groups/Harmonic Mind Contro]]
 
 ## Player-Facing Summary
 
@@ -308,4 +308,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]

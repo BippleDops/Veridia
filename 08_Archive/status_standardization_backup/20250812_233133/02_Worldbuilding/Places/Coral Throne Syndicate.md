@@ -100,7 +100,7 @@ The syndicate's influence now extends throughout [[Aquabyssos]], with operations
 #### "The Harvester" Keth Reefrender
 *Medium humanoid (triton), lawful evil*
 - **Role:** Illegal Coral Operations
-- **Base:** Hidden facility in [[02_Worldbuilding/Places/Living Reef]]
+- **Base:** Hidden facility in [[02_Worldbuilding/Places/Living Reef|02 Worldbuilding/Places/Living Reef]]
 - **Specialty:** Coral cultivation and processing
 
 ## Notable Operations & Services
@@ -215,7 +215,7 @@ The Coral Throne Syndicate's operations intersect with major campaign elements i
 - [[Shadow Surgeons Collective]]
 - [[Current Riders Guild]]
 - [[Memoriam]]
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 - [[The Depth Plague]]
 - [[The Free Current]]
 - [[The Neutral Ground]]
@@ -242,6 +242,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate|02 Worldbuilding/Places/Coral Throne Syndicate]]
 
 <!-- enriched: true -->

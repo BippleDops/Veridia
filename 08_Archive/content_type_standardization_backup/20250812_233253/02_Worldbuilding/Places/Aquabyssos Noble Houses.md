@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Noble Houses]]
+- [[02_Worldbuilding/Places/Aquabyssos Noble Houses|02 Worldbuilding/Places/Aquabyssos Noble Houses]]
 
 <!-- enriched: true -->
 

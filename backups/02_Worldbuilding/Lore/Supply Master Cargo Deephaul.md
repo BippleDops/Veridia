@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ|02 Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 
 ## Connections

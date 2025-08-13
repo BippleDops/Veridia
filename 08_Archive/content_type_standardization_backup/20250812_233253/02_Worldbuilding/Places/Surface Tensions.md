@@ -664,7 +664,7 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -686,6 +686,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/Surface Tensions|02 Worldbuilding/Places/Surface Tensions]]
 
 <!-- enriched: true -->

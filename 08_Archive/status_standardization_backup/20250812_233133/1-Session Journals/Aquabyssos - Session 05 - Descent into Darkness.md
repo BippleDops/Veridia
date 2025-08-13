@@ -74,7 +74,7 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 **Discoveries**:
 - Shadows are considered separate legal entities here
 - A shadow court has issued warrants for the party
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] has immunity but won't extend it
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] has immunity but won't extend it
 - The checkpoint has holding cells full of separated shadows
 
 **Roleplay Challenge**:
@@ -88,9 +88,9 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 **Conflict**: Party's shadows are put up for bidding  
 **Discoveries**:
 - Child shadows being illegally harvested
-- [[02_Worldbuilding/People/The Silhouette Surgeon Prime]] run a shadow breeding program
+- [[02_Worldbuilding/People/The Silhouette Surgeon Prime|02 Worldbuilding/People/The Silhouette Surgeon Prime]] run a shadow breeding program
 - Shadows can be modified like genetics
-- Someone's been buying all shadows from [[02_Worldbuilding/Places/Abyssos Prime]]
+- Someone's been buying all shadows from [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 
 **Combat/Heist**:
 - **Option A**: Steal back shadows (stealth mission)
@@ -153,15 +153,15 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - Shadow Modification Kit (one-time use)
 - Map of Tenebrarum's surgical facilities
 - Shadow Broker contact information
-- Encrypted message from [[02_Worldbuilding/People/The Crimson Sage]]
+- Encrypted message from [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]
 - Temporary Shadow Independence Charm (24 hours)
 
 ## 🔍 Secrets & Clues
 1. The Shadow Harvest has already begun in minor settlements
-2. [[02_Worldbuilding/People/Shadow Duchess Nyx]] is hunting her original shadow
+2. [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] is hunting her original shadow
 3. The surgeons have been creating hybrid beings for years
 4. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|Marina's]] shadow is actually the original Marina
-5. The [[02_Worldbuilding/Places/Parliament of Echoes]] has a shadow duplicate parliament
+5. The [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] has a shadow duplicate parliament
 6. Someone in the party has been marked for priority harvest
 7. The [[Fear Farms]] are producing weapons-grade nightmares
 8. [[Crystallium]] is broadcasting shadow control frequencies
@@ -197,7 +197,7 @@ The party must choose who to trust as shadow enforcers surround their location.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

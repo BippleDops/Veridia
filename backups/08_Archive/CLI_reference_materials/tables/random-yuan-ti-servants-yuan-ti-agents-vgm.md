@@ -25,14 +25,14 @@ world: Both
 
 | dice: d100 | Agents |
 |------------|--------|
-| 1-20 | [Cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) |
-| 21-30 | [Cult Fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) |
-| 31-34 | [Doppelgangers](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) |
-| 35-50 | [Guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| 51-60 | [Nobles](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) |
-| 61-72 | [Priests](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) |
-| 73-86 | [Scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
-| 87-100 | [Spies](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
+| 1-20 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
+| 21-30 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] |
+| 31-34 | [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelgangers]] |
+| 35-50 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
+| 51-60 | [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Nobles]] |
+| 61-72 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |
+| 73-86 | [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Scouts]] |
+| 87-100 | [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Spies]] |
 ^yuan-ti-agents
 
 ## Player-Facing Summary

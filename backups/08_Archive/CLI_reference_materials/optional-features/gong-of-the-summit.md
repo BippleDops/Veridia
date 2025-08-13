@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [shatter](/03_Mechanics/CLI/spells/shatter-xphb.md).
+You can spend 3 ki points to cast [[/03_Mechanics/CLI/spells/shatter-xphb|shatter]].
 
 ## Player-Facing Summary
 

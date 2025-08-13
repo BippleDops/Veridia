@@ -254,11 +254,11 @@ Divination magic works synergistically with other magical traditions:
 - **Knowledge Integration**: Processing large amounts of magical information effectively
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment]] - Mental influence using divined knowledge
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protecting against divination and mental intrusion
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Ancient information storage and communication
-- [[02_Worldbuilding/Lore/Parliament of Echoes]] - Government body relying on prophetic guidance
-- [[02_Worldbuilding/Lore/The Observatory of Depths]] - Research institution for cosmic divination
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment|02 Worldbuilding/Lore/Ω System CLI Spells School Enchantment]] - Mental influence using divined knowledge
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Abjuration]] - Protecting against divination and mental intrusion
+- [[02_Worldbuilding/Lore/The Crystal Networks|02 Worldbuilding/Lore/The Crystal Networks]] - Ancient information storage and communication
+- [[02_Worldbuilding/Lore/Parliament of Echoes|02 Worldbuilding/Lore/Parliament Of Echoes]] - Government body relying on prophetic guidance
+- [[02_Worldbuilding/Lore/The Observatory of Depths|02 Worldbuilding/Lore/The Observatory Of Depths]] - Research institution for cosmic divination
 
 ## Player-Facing Summary
 
@@ -282,7 +282,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]]
+- [[02_Worldbuilding/Lore/Oracle Pelagic Deepgaze|02 Worldbuilding/Lore/Oracle Pelagic Deepgaze]]
 
 
 ## Connections

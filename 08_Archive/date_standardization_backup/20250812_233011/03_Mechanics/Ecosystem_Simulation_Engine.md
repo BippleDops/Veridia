@@ -23,7 +23,7 @@ Simulates food chains, migrations, predator-prey, weather, symbiosis, and extinc
 - Each chain provides encounter baselines and resource yields
 
 ## Seasonal Migration (50+ species scaffold)
-- Define routes on [[Transportation_Infrastructure]] networks
+- Define routes on [[Transportation_Infrastructure|Transportation Infrastructure]] networks
 - Events: Stampedes, feeding frenzies, spawning grounds
 
 ## Predator–Prey Mechanics
@@ -40,7 +40,7 @@ Simulates food chains, migrations, predator-prey, weather, symbiosis, and extinc
 - Thresholds: Overuse, merger shifts, Deep Mother pulses
 - Evolution grants new traits; extinction creates voids filled by horrors
 
-Integration: Affects trade goods, travel safety, and faction stability. Hooks into [[Journey_Event_Compiler]].
+Integration: Affects trade goods, travel safety, and faction stability. Hooks into [[Journey_Event_Compiler|Journey Event Compiler]].
 
 ## Player-Facing Summary
 
@@ -64,4 +64,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Phase_Omega_Enhanced_Index]]
+- [[03_Mechanics/Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]

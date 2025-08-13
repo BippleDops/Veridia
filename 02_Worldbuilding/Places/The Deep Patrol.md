@@ -174,6 +174,6 @@ Legends speak of The Deep Patrol as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deep Patrol]]
+- [[02_Worldbuilding/Places/The Deep Patrol|02 Worldbuilding/Places/The Deep Patrol]]
 
 <!-- enriched: true -->

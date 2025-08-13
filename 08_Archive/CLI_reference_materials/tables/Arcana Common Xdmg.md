@@ -25,42 +25,42 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–02 | [Bead of Nourishment](/03_Mechanics/CLI/items/bead-of-nourishment-xdmg.md) |
-| 03–04 | [Bead of Refreshment](/03_Mechanics/CLI/items/bead-of-refreshment-xdmg.md) |
-| 05–07 | [Candle of the Deep](/03_Mechanics/CLI/items/candle-of-the-deep-xdmg.md) |
-| 08–10 | [Cloak of Billowing](/03_Mechanics/CLI/items/cloak-of-billowing-xdmg.md) |
-| 11–13 | [Cloak of Many Fashions](/03_Mechanics/CLI/items/cloak-of-many-fashions-xdmg.md) |
-| 14–15 | [Clothes of Mending](/03_Mechanics/CLI/items/clothes-of-mending-xdmg.md) |
-| 16–17 | [Dark Shard Amulet](/03_Mechanics/CLI/items/dark-shard-amulet-xdmg.md) |
-| 18–19 | [Enduring Spellbook](/03_Mechanics/CLI/items/enduring-spellbook-xdmg.md) |
-| 20–21 | [Ersatz Eye](/03_Mechanics/CLI/items/ersatz-eye-xdmg.md) |
-| 22–24 | [Hat of Vermin](/03_Mechanics/CLI/items/hat-of-vermin-xdmg.md) |
-| 25–27 | [Hat of Wizardry](/03_Mechanics/CLI/items/hat-of-wizardry-xdmg.md) |
-| 28–29 | [Heward's Handy Spice Pouch](/03_Mechanics/CLI/items/hewards-handy-spice-pouch-xdmg.md) |
-| 30–31 | [Horn of Silent Alarm](/03_Mechanics/CLI/items/horn-of-silent-alarm-xdmg.md) |
-| 32–33 | [Instrument of Illusions](/03_Mechanics/CLI/items/instrument-of-illusions-xdmg.md) |
-| 34–35 | [Instrument of Scribing](/03_Mechanics/CLI/items/instrument-of-scribing-xdmg.md) |
-| 36–37 | [Lock of Trickery](/03_Mechanics/CLI/items/lock-of-trickery-xdmg.md) |
-| 38–40 | [Mystery Key](/03_Mechanics/CLI/items/mystery-key-xdmg.md) |
-| 41–42 | [Orb of Direction](/03_Mechanics/CLI/items/orb-of-direction-xdmg.md) |
-| 43–44 | [Orb of Time](/03_Mechanics/CLI/items/orb-of-time-xdmg.md) |
-| 45–46 | [Perfume of Bewitching](/03_Mechanics/CLI/items/perfume-of-bewitching-xdmg.md) |
-| 47–49 | [Pipe of Smoke Monsters](/03_Mechanics/CLI/items/pipe-of-smoke-monsters-xdmg.md) |
-| 50–52 | [Potion of Climbing](/03_Mechanics/CLI/items/potion-of-climbing-xdmg.md) |
-| 53–55 | [Potion of Comprehension](/03_Mechanics/CLI/items/potion-of-comprehension-xdmg.md) |
-| 56–58 | [Pot of Awakening](/03_Mechanics/CLI/items/pot-of-awakening-xdmg.md) |
-| 59–60 | [Prosthetic Limb](/03_Mechanics/CLI/items/prosthetic-limb-xdmg.md) |
-| 61–64 | [Rival Coin](/03_Mechanics/CLI/items/rival-coin-xdmg.md) |
-| 65–66 | [Rope of Mending](/03_Mechanics/CLI/items/rope-of-mending-xdmg.md) |
-| 67–68 | [Ruby of the War Mage](/03_Mechanics/CLI/items/ruby-of-the-war-mage-xdmg.md) |
-| 69–82 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([cantrip](/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg.md) or [level 1](/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg.md) spell) |
-| 83–84 | [Staff of Adornment](/03_Mechanics/CLI/items/staff-of-adornment-xdmg.md) |
-| 85–86 | [Staff of Birdcalls](/03_Mechanics/CLI/items/staff-of-birdcalls-xdmg.md) |
-| 87–89 | [Staff of Flowers](/03_Mechanics/CLI/items/staff-of-flowers-xdmg.md) |
-| 90–92 | [Talking Doll](/03_Mechanics/CLI/items/talking-doll-xdmg.md) |
-| 93–94 | [Tankard of Sobriety](/03_Mechanics/CLI/items/tankard-of-sobriety-xdmg.md) |
-| 95–97 | [Wand of Conducting](/03_Mechanics/CLI/items/wand-of-conducting-xdmg.md) |
-| 98–00 | [Wand of Pyrotechnics](/03_Mechanics/CLI/items/wand-of-pyrotechnics-xdmg.md) |
+| 01–02 | [[/03_Mechanics/CLI/items/bead-of-nourishment-xdmg|Bead of Nourishment]] |
+| 03–04 | [[/03_Mechanics/CLI/items/bead-of-refreshment-xdmg|Bead of Refreshment]] |
+| 05–07 | [[/03_Mechanics/CLI/items/candle-of-the-deep-xdmg|Candle of the Deep]] |
+| 08–10 | [[/03_Mechanics/CLI/items/cloak-of-billowing-xdmg|Cloak of Billowing]] |
+| 11–13 | [[/03_Mechanics/CLI/items/cloak-of-many-fashions-xdmg|Cloak of Many Fashions]] |
+| 14–15 | [[/03_Mechanics/CLI/items/clothes-of-mending-xdmg|Clothes of Mending]] |
+| 16–17 | [[/03_Mechanics/CLI/items/dark-shard-amulet-xdmg|Dark Shard Amulet]] |
+| 18–19 | [[/03_Mechanics/CLI/items/enduring-spellbook-xdmg|Enduring Spellbook]] |
+| 20–21 | [[/03_Mechanics/CLI/items/ersatz-eye-xdmg|Ersatz Eye]] |
+| 22–24 | [[/03_Mechanics/CLI/items/hat-of-vermin-xdmg|Hat of Vermin]] |
+| 25–27 | [[/03_Mechanics/CLI/items/hat-of-wizardry-xdmg|Hat of Wizardry]] |
+| 28–29 | [[/03_Mechanics/CLI/items/hewards-handy-spice-pouch-xdmg|Heward's Handy Spice Pouch]] |
+| 30–31 | [[/03_Mechanics/CLI/items/horn-of-silent-alarm-xdmg|Horn of Silent Alarm]] |
+| 32–33 | [[/03_Mechanics/CLI/items/instrument-of-illusions-xdmg|Instrument of Illusions]] |
+| 34–35 | [[/03_Mechanics/CLI/items/instrument-of-scribing-xdmg|Instrument of Scribing]] |
+| 36–37 | [[/03_Mechanics/CLI/items/lock-of-trickery-xdmg|Lock of Trickery]] |
+| 38–40 | [[/03_Mechanics/CLI/items/mystery-key-xdmg|Mystery Key]] |
+| 41–42 | [[/03_Mechanics/CLI/items/orb-of-direction-xdmg|Orb of Direction]] |
+| 43–44 | [[/03_Mechanics/CLI/items/orb-of-time-xdmg|Orb of Time]] |
+| 45–46 | [[/03_Mechanics/CLI/items/perfume-of-bewitching-xdmg|Perfume of Bewitching]] |
+| 47–49 | [[/03_Mechanics/CLI/items/pipe-of-smoke-monsters-xdmg|Pipe of Smoke Monsters]] |
+| 50–52 | [[/03_Mechanics/CLI/items/potion-of-climbing-xdmg|Potion of Climbing]] |
+| 53–55 | [[/03_Mechanics/CLI/items/potion-of-comprehension-xdmg|Potion of Comprehension]] |
+| 56–58 | [[/03_Mechanics/CLI/items/pot-of-awakening-xdmg|Pot of Awakening]] |
+| 59–60 | [[/03_Mechanics/CLI/items/prosthetic-limb-xdmg|Prosthetic Limb]] |
+| 61–64 | [[/03_Mechanics/CLI/items/rival-coin-xdmg|Rival Coin]] |
+| 65–66 | [[/03_Mechanics/CLI/items/rope-of-mending-xdmg|Rope of Mending]] |
+| 67–68 | [[/03_Mechanics/CLI/items/ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
+| 69–82 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg|cantrip]] or [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|level 1]] spell) |
+| 83–84 | [[/03_Mechanics/CLI/items/staff-of-adornment-xdmg|Staff of Adornment]] |
+| 85–86 | [[/03_Mechanics/CLI/items/staff-of-birdcalls-xdmg|Staff of Birdcalls]] |
+| 87–89 | [[/03_Mechanics/CLI/items/staff-of-flowers-xdmg|Staff of Flowers]] |
+| 90–92 | [[/03_Mechanics/CLI/items/talking-doll-xdmg|Talking Doll]] |
+| 93–94 | [[/03_Mechanics/CLI/items/tankard-of-sobriety-xdmg|Tankard of Sobriety]] |
+| 95–97 | [[/03_Mechanics/CLI/items/wand-of-conducting-xdmg|Wand of Conducting]] |
+| 98–00 | [[/03_Mechanics/CLI/items/wand-of-pyrotechnics-xdmg|Wand of Pyrotechnics]] |
 ^arcana-common
 
 ## Player-Facing Summary

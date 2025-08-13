@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]]
+- [[02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought|02 Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]]
 
 <!-- enriched: true -->
 

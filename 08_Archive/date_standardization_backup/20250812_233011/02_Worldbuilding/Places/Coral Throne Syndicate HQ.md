@@ -15,16 +15,16 @@ type: Location
 category: Fortress/Stronghold
 depth: 1800-2200 feet
 difficulty: Levels 8-15
-controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
+controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 ruler: '[[Coral Empress Scarletina]]'
 danger_level: Very High
 population: 500+ (guards, staff, prisoners)
 created: 2025-08-10
 updated: 2025-08-11
 related_entities:
-- '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
+- '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02_Worldbuilding/Places/The Crimson Reef]]'
+- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]]'
 ---
 
 > [!figure] View
@@ -38,9 +38,9 @@ related_entities:
 
 ## Overview
 
-The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[02_Worldbuilding/Places/Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[Coral Empress Scarletina]].
+The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[Coral Empress Scarletina]].
 
-Located in the depths of [[02_Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
+Located in the depths of [[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
 
 The headquarters represents the perfect synthesis of natural beauty and criminal pragmatism. The syndicate has learned to work with the living coral rather than against it, creating a fortress that grows and adapts over time, healing from damage and expanding to meet operational needs. This symbiotic relationship between criminal organization and living reef has created something unprecedented in the criminal underworld - a truly living stronghold.
 
@@ -119,13 +119,13 @@ Beneath the scientific veneer lies the true nature of the complex:
 
 ##### Command & Control
 **The Strategic Operations Room**: Where syndicate leadership plans and coordinates criminal activities:
-- **Intelligence Center**: Information gathering and analysis from across [[02_Worldbuilding/Places/Aquabyssos]]
+- **Intelligence Center**: Information gathering and analysis from across [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - **Mission Planning**: Detailed preparation for heists, smuggling runs, and territorial expansion
 - **Communication Hub**: Encrypted channels to all syndicate operations throughout the realm
 - **Threat Monitoring**: Surveillance of law enforcement and rival criminal organizations
 
 **Operations Staff**:
-- [[02_Worldbuilding/Lore/Intelligence Chief Shadow Knowal]] - Master spy with informants throughout the realm
+- [[02_Worldbuilding/Lore/Intelligence Chief Shadow Knowal|02 Worldbuilding/Lore/Intelligence Chief Shadow Knowal]] - Master spy with informants throughout the realm
 - [[Planning Director Strategy Deepthink]] - Brilliant tactical mind behind major operations
 - [[Communications Master Signal Cryptkeeper]] - Manages all encrypted syndicate communications
 
@@ -204,7 +204,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Architectural Coral**: Specimens designed to grow into specific structural shapes
 
 **Research Staff**:
-- [[02_Worldbuilding/Groups/Master Cultivator Polyp Growe]] - Expert in coral biology and selective breeding
+- [[02_Worldbuilding/Groups/Master Cultivator Polyp Growe|02 Worldbuilding/Groups/Master Cultivator Polyp Growe]] - Expert in coral biology and selective breeding
 - [[Toxin Specialist Venom Reef]] - Develops coral-based poisons and paralytic agents
 - [[Architect Coral Builder]] - Designs living structures that grow themselves
 
@@ -290,7 +290,7 @@ The fortress employs various coral creatures as security:
 **Secure Networks**: Protected channels for coordinating defensive responses:
 - **Encrypted Magical Messaging**: Instant communication throughout the facility
 - **Emergency Alerts**: Rapid warning systems for different types of threats
-- **External Coordination**: Secure links to syndicate operations throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **External Coordination**: Secure links to syndicate operations throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - **Information Sharing**: Real-time intelligence updates from informants and spies
 
 ## Personnel & Inhabitants
@@ -315,7 +315,7 @@ The fortress employs various coral creatures as security:
 
 **[[Navigator Slyph Currentwhisper]]**: Maritime operations coordinator
 - **Responsibilities**: Smuggling routes, ship operations, naval intelligence
-- **Expertise**: Knows every current, reef, and secret passage in [[02_Worldbuilding/Places/Aquabyssos]]
+- **Expertise**: Knows every current, reef, and secret passage in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - **Assets**: Fleet of modified vessels, network of corrupt port officials
 - **Innovation**: Constantly develops new smuggling techniques and routes
 
@@ -400,7 +400,7 @@ The fortress employs various coral creatures as security:
 
 #### Intelligence Gathering
 **Information Networks**: Comprehensive knowledge acquisition systems:
-- **Informant Networks**: Paid sources throughout [[02_Worldbuilding/Places/Aquabyssos]] society
+- **Informant Networks**: Paid sources throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] society
 - **Surveillance Operations**: Active monitoring of targets and competitors
 - **Counter-Intelligence**: Protection against enemy information gathering
 - **Analysis Division**: Processing raw intelligence into actionable plans
@@ -502,7 +502,7 @@ The fortress employs various coral creatures as security:
 **Mission**: Lead coordinated attack on criminal headquarters
 **Challenges**: Multiple defensive systems, hundreds of guards, living fortress
 **Allies**: Government forces, rival criminals, or vigilante organizations
-**Consequences**: Success reshapes criminal landscape of [[02_Worldbuilding/Places/Aquabyssos]]
+**Consequences**: Success reshapes criminal landscape of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 
 #### The Coral Empress Confrontation
 **Build-up**: Long campaign culminating in direct challenge to syndicate leadership
@@ -605,7 +605,7 @@ The fortress employs various coral creatures as security:
 - **Impact**: Party actions reshape criminal landscape permanently
 - **Scope**: Fortress becomes base for broader campaigns
 - **Consequences**: Success creates power vacuum requiring management
-- **Legacy**: Long-term effects on [[02_Worldbuilding/Places/Aquabyssos]] society
+- **Legacy**: Long-term effects on [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] society
 
 ### Running Fortress Encounters
 
@@ -683,6 +683,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ|02 Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 <!-- enriched: true -->

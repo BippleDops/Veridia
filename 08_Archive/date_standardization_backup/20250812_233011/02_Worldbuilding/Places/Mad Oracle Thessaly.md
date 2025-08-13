@@ -480,7 +480,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

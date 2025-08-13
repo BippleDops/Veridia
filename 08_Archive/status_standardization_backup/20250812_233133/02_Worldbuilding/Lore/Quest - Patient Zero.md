@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons]]
+- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
 
 
 ## Connections

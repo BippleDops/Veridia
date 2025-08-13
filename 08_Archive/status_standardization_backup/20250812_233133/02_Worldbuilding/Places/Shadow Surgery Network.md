@@ -19,7 +19,7 @@ updated: '2025-08-13T01:18:36.065434+00:00'
 
 ## Overview
 
-The Shadow Surgery Network represents the most horrifying achievement of [[02_Worldbuilding/People/The Shadow Conspiracy]] - a continent-spanning web of clandestine medical facilities designed to harvest, separate, and replace human consciousness with shadow duplicates. Operating in the depths of Aquabyssos's most forgotten places, these surgical sanctums perform the impossible: complete identity transplantation while keeping the original alive for study.
+The Shadow Surgery Network represents the most horrifying achievement of [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]] - a continent-spanning web of clandestine medical facilities designed to harvest, separate, and replace human consciousness with shadow duplicates. Operating in the depths of Aquabyssos's most forgotten places, these surgical sanctums perform the impossible: complete identity transplantation while keeping the original alive for study.
 
 What makes these facilities particularly insidious is their integration with legitimate medical infrastructure. Shadow surgeries often occur beneath respected hospitals, using stolen equipment and corrupted staff. Patients who enter for routine procedures may find themselves experiencing unexplained memory gaps, while their shadows begin living separate lives above.
 
@@ -348,18 +348,18 @@ Direct assault on primary facility requires heroes to navigate surgical horrors 
 
 ### Key Figures
 
-#### [[02_Worldbuilding/People/The Silhouette Surgeon Prime]]
+#### [[02_Worldbuilding/People/The Silhouette Surgeon Prime|02 Worldbuilding/People/The Silhouette Surgeon Prime]]
 The network's chief medical officer and primary architect of shadow surgery techniques. Actually composed of twelve different shadow personalities sharing one body, representing the ultimate evolution of consciousness splicing procedures.
 
-#### [[02_Worldbuilding/People/Dr. Marina Coralheart - Shadow]]
-A shadow replacement of [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
+#### [[02_Worldbuilding/People/Dr. Marina Coralheart - Shadow|02 Worldbuilding/People/Dr. Marina Coralheart Shadow]]
+A shadow replacement of [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
 
-#### [[02_Worldbuilding/People/Vex Shadowthorn]]
+#### [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]
 Provides funding and political protection for network operations while using surgical services to maintain control over criminal organization through strategic personality modifications.
 
 ### Opposing Forces
 
-#### [[02_Worldbuilding/Groups/Investigate Shadow Surgeons]]
+#### [[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
 The legitimate medical organization working to counter shadow surgical procedures, led by [[Chief Surgeon Nerissa Tideheart]]. Their research into shadow corruption detection methods poses significant threat to network security.
 
 #### The Preservation Society
@@ -367,10 +367,10 @@ Underground resistance movement formed by families of replacement victims, dedic
 
 ### Supporting Organizations
 
-#### [[02_Worldbuilding/Groups/Parliament of Echoes - Shadow Chamber]]
+#### [[02_Worldbuilding/Groups/Parliament of Echoes - Shadow Chamber|02 Worldbuilding/Groups/Parliament Of Echoes Shadow Chamber]]
 Provides legal cover and government protection for network operations while ensuring replaced officials maintain positions of authority.
 
-#### [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+#### [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 Supplies network with black market medical equipment, test subjects, and disposal services for failed procedures, while receiving enhanced shadow operatives for criminal activities.
 
 ---
@@ -413,6 +413,6 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Surgery Network]]
+- [[02_Worldbuilding/Places/Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Network]]
 
 <!-- enriched: true -->

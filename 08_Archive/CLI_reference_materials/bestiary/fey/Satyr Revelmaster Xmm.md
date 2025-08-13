@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
 
-# [Satyr Revelmaster](3-Mechanics\CLI\bestiary\fey/satyr-revelmaster-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fey/satyr-revelmaster-xmm|Satyr Revelmaster]]
 *Source: Monster Manual (2024) p. 268*  
 
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
@@ -62,35 +62,35 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]"
     "desc": "+7"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Performance](/03_Mechanics/CLI/skills.md#Performance)"
+  - "name": "[[/03_Mechanics/CLI/skills#Performance|Performance]]"
     "desc": "+9"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"
 "traits":
-  - "desc": "The satyr has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The satyr has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The satyr makes three Prance attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-      \ damage, and the target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
       \ condition until the start of the satyr's next turn."
     "name": "Prance"
   - "desc": "The satyr conjures a charming or frightening song. Wisdom Saving Throw:\
-      \ DC 14, each enemy in a 60-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ DC 14, each enemy in a 60-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the satyr. Failure: The target is subjected to the song's\
-      \ effect:\n\n- Charming. The target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
-      \ condition for 1 minute. While [Charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-      \ the target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ effect:\n\n- Charming. The target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+      \ condition for 1 minute. While [[/03_Mechanics/CLI/conditions#Charmed|Charmed]],\
+      \ the target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition and uses all its movement to dance in place. The effect ends on\
       \ the target if it takes any damage.  \n- Frightening. 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
       \ condition for 1 minute. If the target ends its turn out of line of sight from\
       \ the satyr, the condition ends on it.  "
     "name": "Fey Melody (Recharge 4-6)"

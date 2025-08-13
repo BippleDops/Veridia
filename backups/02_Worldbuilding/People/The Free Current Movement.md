@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Free Current Movement]]
+- [[02_Worldbuilding/People/The Free Current Movement|02 Worldbuilding/People/The Free Current Movement]]
 
 <!-- enriched: true -->
 

@@ -20,7 +20,7 @@ world: Both
 
 ## 2nd Level
 
-- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/shatter-xphb "XPHB"|Shatter]]
 
 ## Player-Facing Summary
 

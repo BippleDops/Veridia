@@ -19,8 +19,8 @@ world: Both
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
-- [Dueling](/03_Mechanics/CLI/feats/dueling-xphb.md)
-- [Two-Weapon Fighting](/03_Mechanics/CLI/feats/two-weapon-fighting-xphb.md)
+- [[/03_Mechanics/CLI/feats/dueling-xphb|Dueling]]
+- [[/03_Mechanics/CLI/feats/two-weapon-fighting-xphb|Two-Weapon Fighting]]
 
 ## Player-Facing Summary
 

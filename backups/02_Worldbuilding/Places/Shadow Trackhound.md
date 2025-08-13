@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/Harbor District Customs House|02 Worldbuilding/Places/Harbor District Customs House]]
 
 
 ## Connections

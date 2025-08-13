@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/High-Speed Transportation]]
+- [[02_Worldbuilding/Places/High-Speed Transportation|02 Worldbuilding/Places/High Speed Transportation]]
 
 <!-- enriched: true -->
 

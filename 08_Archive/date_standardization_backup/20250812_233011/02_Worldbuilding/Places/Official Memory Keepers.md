@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Official Memory Keepers]]
+- [[02_Worldbuilding/Places/Official Memory Keepers|02 Worldbuilding/Places/Official Memory Keepers]]
 
 <!-- enriched: true -->
 

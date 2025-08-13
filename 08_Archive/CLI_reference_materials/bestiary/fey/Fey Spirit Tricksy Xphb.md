@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-tricksy-xphb-fey-spirit-tricksy-xphb.svg)
 
-# [Fey Spirit (Tricksy)](3-Mechanics\CLI\bestiary\fey/fey-spirit-tricksy-xphb.md)
+# [[3-Mechanics\CLI\bestiary\fey/fey-spirit-tricksy-xphb|Fey Spirit (Tricksy)]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -42,7 +42,7 @@ world: Both
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":

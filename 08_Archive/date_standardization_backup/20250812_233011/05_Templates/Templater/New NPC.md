@@ -69,4 +69,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[reports/bidirectional_links]]
+- [[reports/bidirectional_links|Reports/bidirectional Links]]

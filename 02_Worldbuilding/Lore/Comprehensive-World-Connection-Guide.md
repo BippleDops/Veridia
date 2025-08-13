@@ -90,10 +90,10 @@ LIMIT 5
 | Aethermoor Location | Aquabyssos Location | Merge Type | Navigation |
 |-------------------|-------------------|------------|------------|
 | [[Port Meridian Harbor]] | [[Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
-| [[Crystal Gardens]] | [[02_Worldbuilding/Places/Screaming Gardens]] | Emotional Resonance | Shared suffering |
-| [[Royal Palace]] | [[02_Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
+| [[Crystal Gardens]] | [[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]] | Emotional Resonance | Shared suffering |
+| [[Royal Palace]] | [[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
 | [[Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
-| [[The Forgotten Archive]] | [[02_Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
+| [[The Forgotten Archive]] | [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
 
 #### Merge Mechanics
 - **Tide-Locked**: Changes every 12 hours with tides
@@ -144,9 +144,9 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Identity crisis for citizens
 
 **Key NPCs Affected**:
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] ↔ [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] ↔ [[02_Worldbuilding/People/Senator Glaucus]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] (exists in both)
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] ↔ [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] ↔ [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] (exists in both)
 
 #### 2. Arcanum Heights ↔ Nereidios
 **Connection**: Centers of knowledge and magic
@@ -275,28 +275,28 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Memory keepers of Abyssos Prime
 **Bloodline Gift**: Can breathe in both worlds for 1 hour/day
 **Curse**: Dreams always show the other world
-**Key NPCs**: [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], [[Lord Aurelius Goldwave]]
+**Key NPCs**: [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]], [[Lord Aurelius Goldwave]]
 
 #### House Lumengarde-Deepshine
 **Surface Branch**: Royal family of Aethermoor
 **Depth Branch**: The Scattered Emperor's original form
 **Bloodline Gift**: Natural resistance to possession
 **Curse**: Shadows act independently after puberty
-**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor]]
+**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
 
 #### House Shadowthorn-Voidheart
 **Surface Branch**: Crimson Hand leadership
 **Depth Branch**: Void current navigators
 **Bloodline Gift**: Can manipulate shadow/void
 **Curse**: Slowly losing physical form
-**Key NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn]], [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+**Key NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]], [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]
 
 #### House Steelbane-Irondeep
 **Surface Branch**: Church of Light warriors
 **Depth Branch**: Depth pressure survivors
 **Bloodline Gift**: Immunity to transformation
 **Curse**: Cannot use magic properly
-**Key NPCs**: [[Brother Marcus Steelbane]], [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+**Key NPCs**: [[Brother Marcus Steelbane]], [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]
 
 #### House Flint-Forgotten
 **Surface Branch**: Information brokers
@@ -310,14 +310,14 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Current weavers
 **Bloodline Gift**: Control over tides/currents
 **Curse**: Must touch water daily or wither
-**Key NPCs**: Captain Blackwater, [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+**Key NPCs**: Captain Blackwater, [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]]
 
 #### House Brightshield-Dawnguard
 **Surface Branch**: Royal guard leadership
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
+**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 
@@ -731,7 +731,7 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 ---
 
 **Related Documents**:
-- [[03_Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Depth Adaptation System|03 Mechanics/Depth Adaptation System]]
 - [[Crystal Plague Progression]]
 - [[Shadow Separation Mechanics]]
 - [[The Seven Shards Mystery]]
@@ -760,7 +760,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

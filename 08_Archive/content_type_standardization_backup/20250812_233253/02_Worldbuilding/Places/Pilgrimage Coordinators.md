@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pilgrimage Coordinators]]
+- [[02_Worldbuilding/Places/Pilgrimage Coordinators|02 Worldbuilding/Places/Pilgrimage Coordinators]]
 
 <!-- enriched: true -->
 

@@ -12,7 +12,7 @@ tags:
 - order-of-shattered-crown
 - shadowmere
 type: NPC
-location: '[[02_Worldbuilding/Places/The Shadowmere]]'
+location: '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
 faction: '[[Order of the Shattered Crown]]'
 race: Half-Elf
 class: Shadow Oracle
@@ -39,7 +39,7 @@ created: 2025-08-11
 # Sister Morwyn Veilkeeper
 
 ## Overview
-A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[02_Worldbuilding/Places/The Shadowmere]], where the boundary between reality and shadow grows thin.
+A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]], where the boundary between reality and shadow grows thin.
 
 ## Appearance
 - Age: 47 (appears younger due to shadow exposure)
@@ -73,10 +73,10 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 - 1st-5th level: Shadow spells and divination magic
 
 ## Relationships
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
 - **Ambassador Nerida Deepcurrent**: Secret correspondence about underwater omens
 
 ## Current Activities
@@ -134,6 +134,6 @@ Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]
+- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]
 
 <!-- enriched: true -->

@@ -223,7 +223,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 ## Supporting NPCs & Monsters
 
-### [[02_Worldbuilding/Groups/Void-touched Crew Member]] (6-8 remaining)
+### [[02_Worldbuilding/Groups/Void-touched Crew Member|02 Worldbuilding/Groups/Void Touched Crew Member]] (6-8 remaining)
 *Medium humanoid (various), chaotic neutral*
 **AC** 14, **HP** 52 each, **Speed** 30 ft.
 **Challenge Rating:** 4 each
@@ -235,7 +235,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 **Roleplay:** Retain memories and personalities but struggle with alien thoughts and compulsions
 
-### [[02_Worldbuilding/Quests/Aquabyssos]] (Construct)
+### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] (Construct)
 *Large construct, neutral*  
 **AC** 18, **HP** 142, **Speed** 30 ft.  
 **Challenge Rating:** 10
@@ -291,7 +291,7 @@ Ancient defense systems reactivated by the corruption. Attack anything that thre
 ## Connections
 
 - [[Captain Thaddeus Blackwater]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -315,6 +315,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Shattered Isles]]
 - [[Aethermoor]]

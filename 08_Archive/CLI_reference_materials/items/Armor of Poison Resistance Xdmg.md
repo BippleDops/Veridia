@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to poison damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Poison Resistance](#Breastplate%20of%20Poison%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to poi
 - [Splint Armor of Poison Resistance](#Splint%20Armor%20of%20Poison%20Resistance)
 - [Studded Leather Armor of Poison Resistance](#Studded%20Leather%20Armor%20of%20Poison%20Resistance)
 
-### Breastplate of Poison Resistance
+## Breastplate of Poison Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

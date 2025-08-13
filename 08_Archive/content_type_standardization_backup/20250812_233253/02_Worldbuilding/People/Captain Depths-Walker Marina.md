@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Depths-Walker Marina]]
+- [[02_Worldbuilding/People/Captain Depths-Walker Marina|02 Worldbuilding/People/Captain Depths Walker Marina]]
 
 <!-- enriched: true -->

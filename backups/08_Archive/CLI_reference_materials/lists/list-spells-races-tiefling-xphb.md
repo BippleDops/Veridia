@@ -20,7 +20,7 @@ world: Both
 
 ## Cantrip
 
-- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
+- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] as cantrip
 
 ## Player-Facing Summary
 

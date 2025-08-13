@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sahuagin-priest-xmm-sahuagin-priest-xmm.svg)
 
-# [Sahuagin Priest](3-Mechanics\CLI\bestiary\fiend/sahuagin-priest-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/sahuagin-priest-xmm|Sahuagin Priest]]
 *Source: Monster Manual (2024) p. 265*  
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
@@ -65,17 +65,17 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
+  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
     "desc": "+3"
 "damage_resistances": "acid, cold"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -91,13 +91,13 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Spectral Jaws"
   - "desc": "The sahuagin casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
-      2/day each: [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
+      \nAt will: [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]]\n\n\
+      2/day each: [[/03_Mechanics/CLI/spells/hold-person-xphb|Hold Person]],\
+      \ [[/03_Mechanics/CLI/spells/tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The sahuagin casts [Bless](/03_Mechanics/CLI/spells/bless-xphb.md) or\
-      \ [Healing Word](/03_Mechanics/CLI/spells/healing-word-xphb.md), using the same\
+  - "desc": "The sahuagin casts [[/03_Mechanics/CLI/spells/bless-xphb|Bless]] or\
+      \ [[/03_Mechanics/CLI/spells/healing-word-xphb|Healing Word]], using the same\
       \ spellcasting ability as Spellcasting.\n"
     "name": "Fiendish Aid (2/Day)"
 "source":

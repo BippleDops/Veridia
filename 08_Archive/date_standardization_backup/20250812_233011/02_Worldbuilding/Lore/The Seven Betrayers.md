@@ -45,7 +45,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[02_Worldbuilding/Places/Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[The Crown of Stars]] - directly caused [[The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
+The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[The Crown of Stars]] - directly caused [[The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
 
 ## The Divine Court Before the Betrayal
 
@@ -543,7 +543,7 @@ These questions have no easy answers, making the legacy of the Seven Betrayers a
 - [[The Silverscale Conspiracy]]
 - [[The Threshold]]
 - [[Lord Aurelius Goldwave]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -567,7 +567,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[The Crown of Stars]]
 - [[Queen Seraphina Lumengarde]]
 - [[The Crimson Sage]]

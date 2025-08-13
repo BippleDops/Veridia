@@ -212,10 +212,10 @@ Net_Profit: "120,000 gold"
 
 ### Primary Enemies
 
-#### [[02_Worldbuilding/Groups/Merchants Guild]] - Economic War
+#### [[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]] - Economic War
 - **Conflict Type**: Economic competition and territorial disputes
 - **Flashpoints**: Smuggling undercuts Guild pricing, protection rackets target Guild members
-- **Recent Escalations**: Guild hired [[02_Worldbuilding/Groups/Investigators Anonymous]] to probe Ring activities
+- **Recent Escalations**: Guild hired [[02_Worldbuilding/Groups/Investigators Anonymous|02 Worldbuilding/Groups/Investigators Anonymous]] to probe Ring activities
 - **Future Predictions**: Open conflict likely within 6 months without intervention
 
 #### Captain Helena Stormwatch - Law Enforcement Vendetta
@@ -224,7 +224,7 @@ Net_Profit: "120,000 gold"
 - **Current Status**: Active investigation with growing evidence
 - **Threat Level**: High - could expose significant operations if successful
 
-#### [[02_Worldbuilding/Groups/Temple of Divine Order]] - Moral Opposition  
+#### [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]] - Moral Opposition  
 - **Conflict Type**: Religious organization opposes vice and corruption
 - **Leader**: High Priestess Seraphina Lightbringer
 - **Activities**: Public sermons against corruption, supporting honest merchants
@@ -238,7 +238,7 @@ Net_Profit: "120,000 gold"
 - **Vulnerability**: If exposed, could bring down both Ring and Councillor
 - **Maintenance**: Monthly payments of 2,000 gold plus "special considerations"
 
-#### [[02_Worldbuilding/Groups/Dockworkers Union]] - Partial Infiltration
+#### [[02_Worldbuilding/Groups/Dockworkers Union|02 Worldbuilding/Groups/Dockworkers Union]] - Partial Infiltration
 - **Relationship**: Several union leaders secretly work for Ring
 - **Benefits**: Information about cargo manifests, assistance moving contraband
 - **Limitations**: Not all workers are compromised, honest members remain
@@ -348,9 +348,9 @@ if (ringSessions.length > 0) {
 - **Councillor Marcus Greywind** - Secret Ally
 
 ### Connected Organizations
-- **[[02_Worldbuilding/Groups/Merchants Guild]]** - Primary Rival
-- **[[02_Worldbuilding/Groups/Bexley Port Authority]]** - Law Enforcement Opposition
-- **[[02_Worldbuilding/Groups/Dockworkers Union]]** - Partial Infiltration Target
+- **[[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]** - Primary Rival
+- **[[02_Worldbuilding/Groups/Bexley Port Authority|02 Worldbuilding/Groups/Bexley Port Authority]]** - Law Enforcement Opposition
+- **[[02_Worldbuilding/Groups/Dockworkers Union|02 Worldbuilding/Groups/Dockworkers Union]]** - Partial Infiltration Target
 
 ### Relevant Locations
 - **The Gilded Serpent Tavern** - Headquarters
@@ -388,7 +388,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Lord Vexton Shadowmere]]
+- [[02_Worldbuilding/Groups/Lord Vexton Shadowmere|02 Worldbuilding/Groups/Lord Vexton Shadowmere]]
 
 
 ## Connections

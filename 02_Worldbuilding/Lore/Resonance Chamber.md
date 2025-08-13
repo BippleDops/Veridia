@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[Master_Places_Index]]
+- [[Master_Places_Index|Master Places Index]]
 
 
 ## Connections
@@ -28,7 +28,7 @@ world: Both
 - [[United Councils of Both Worlds]]
 - [[Aethermoor]]
 - [[Royal Palace]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

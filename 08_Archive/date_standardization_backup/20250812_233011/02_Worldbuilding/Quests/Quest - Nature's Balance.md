@@ -382,6 +382,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention|02 Worldbuilding/Quests/Quest Divine Intervention]]
 - [[Crystal Wardens]]
 - [[Aethermoor]]

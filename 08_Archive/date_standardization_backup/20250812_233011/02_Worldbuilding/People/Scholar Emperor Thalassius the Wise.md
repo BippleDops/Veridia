@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius|02 Worldbuilding/Places/The Sunken Library Of Thalassius]]
 
 
 ## Connections

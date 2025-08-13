@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Parliament of Nobody]]
+- [[02_Worldbuilding/Groups/The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
 
 
 ## Connections

@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] at class level 5
 
 ## 1st Level
 
-- [Shield](/03_Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/shield-xphb "XPHB"|Shield]] at class level 5
 
 ## 2nd Level
 
-- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
+- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]] at class level 5
 
 ## Player-Facing Summary
 

@@ -22,7 +22,7 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 
 ---
 
-### X-201: Synchronized Festival Across Worlds
+## X-201: Synchronized Festival Across Worlds
 - Trigger: Shared holiday; parallel parades.
 - Checks: Diplomacy DC 15; Tactics DC 14 for crowd control; Sanity DC 13 vs. crowd dreams.
 - Outcomes: Success: Faction +2; Sanity +1. Partial: Minor scuffle. Fail: Riot; scandal risk.

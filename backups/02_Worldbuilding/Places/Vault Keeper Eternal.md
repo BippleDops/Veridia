@@ -155,7 +155,7 @@ A mysterious figure known only as [[The Collector]] has been attempting to acqui
 - [[Rescue Senator Glaucus]]
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -177,6 +177,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[02_Worldbuilding/Places/Vault Keeper Eternal|02 Worldbuilding/Places/Vault Keeper Eternal]]
 
 <!-- enriched: true -->

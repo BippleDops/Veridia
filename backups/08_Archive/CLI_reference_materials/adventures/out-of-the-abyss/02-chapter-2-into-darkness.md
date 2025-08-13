@@ -29,15 +29,15 @@ This chapter presents guidelines for the characters' travels between the various
 
 The players' first question upon escaping from Velkynvelve is likely, "Where do we go next?" The adventurers must find a way out of the Underdark and back to the surface world. Their NPC companions have destinations of their own in mind, and are the ones best able to navigate the subterranean realms. As such, the adventurers will be dependent on their guidance. The NPCs can offer directions and suggestions as follows:
 
-- [Buppido](/03_Mechanics/CLI/bestiary/npc/buppido-oota.md) knows how to reach Gracklstugh from the southern route out of Velkynvelve. He can also find a route to Gracklstugh from the Darklake. [Buppido](/03_Mechanics/CLI/bestiary/npc/buppido-oota.md) urges the characters to go to Gracklstugh to acquire better equipment, and out of a desire to return to his people. He also intends to murder the characters one by one along the way, believing them to be divine offerings delivered into his hands.  
-- [Prince Derendil](/03_Mechanics/CLI/bestiary/npc/prince-derendil-oota.md), the delusional quaggoth, can't offer any useful directions, but he gladly accompanies the party, eager to go to the surface world.  
-- [Eldeth Feldrun](/03_Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) is unfamiliar with this region of the Underdark and can't navigate, but she has a +5 bonus on Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) checks and can help out in that regard.  
-- [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) can guide the party to Blingdenstone from the north route out of Velkynvelve. The svirfneblin city will give the characters access to the surface, although [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) is fine with visiting other interesting places along the way, as well as taking [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) back to its home.  
-- [Ront](/03_Mechanics/CLI/bestiary/npc/ront-oota.md) is unfamiliar with the Underdark and can't navigate. He's willing to stick with the adventurers as long as they seek a destination that gets him back to the surface world.  
-- [Sarith Kzekarit](/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota.md) is the best potential guide in the group, but also the most deceptive. He can navigate to any region of the Underdark shown on the map, but will encourage the characters to travel to Neverlight Grove (see chapter 5). He claims to want to take advantage of [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md)'s offer of sanctuary, but it is actually the influence of Zuggtmoy's demon-tainted spores upon his mind.  
+- [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] knows how to reach Gracklstugh from the southern route out of Velkynvelve. He can also find a route to Gracklstugh from the Darklake. [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] urges the characters to go to Gracklstugh to acquire better equipment, and out of a desire to return to his people. He also intends to murder the characters one by one along the way, believing them to be divine offerings delivered into his hands.  
+- [[/03_Mechanics/CLI/bestiary/npc/prince-derendil-oota|Prince Derendil]], the delusional quaggoth, can't offer any useful directions, but he gladly accompanies the party, eager to go to the surface world.  
+- [[/03_Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota|Eldeth Feldrun]] is unfamiliar with this region of the Underdark and can't navigate, but she has a +5 bonus on Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) checks and can help out in that regard.  
+- [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]] can guide the party to Blingdenstone from the north route out of Velkynvelve. The svirfneblin city will give the characters access to the surface, although [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]] is fine with visiting other interesting places along the way, as well as taking [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] back to its home.  
+- [[/03_Mechanics/CLI/bestiary/npc/ront-oota|Ront]] is unfamiliar with the Underdark and can't navigate. He's willing to stick with the adventurers as long as they seek a destination that gets him back to the surface world.  
+- [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]] is the best potential guide in the group, but also the most deceptive. He can navigate to any region of the Underdark shown on the map, but will encourage the characters to travel to Neverlight Grove (see chapter 5). He claims to want to take advantage of [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]]'s offer of sanctuary, but it is actually the influence of Zuggtmoy's demon-tainted spores upon his mind.  
 - Shuushar can navigate through the Darklake once the party is within three miles of any part of it. He's willing to travel with the characters and guide them, and suggests visiting the kuo-toa town of Sloobludop to acquire boats. Shuushar wishes to return to his own people in hopes of guiding them to the enlightenment he has achieved.  
-- [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) can't navigate and has no knowledge of the local area, but it desperately wants to return home to Neverlight Grove, pleading with the characters to take it there. It claims that its people will be grateful and offer the party shelter and aid, and describes its sovereign as wise in the hidden ways of the Underdark.  
-- [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md) and [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) can navigate to Blingdenstone, but they're reluctant to do so. As such, they are likely to support any suggestion that will not take them to their former home. Once they feel safer, they're likely to strike out on their own, just as they were before the drow captured them.  
+- [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] can't navigate and has no knowledge of the local area, but it desperately wants to return home to Neverlight Grove, pleading with the characters to take it there. It claims that its people will be grateful and offer the party shelter and aid, and describes its sovereign as wise in the hidden ways of the Underdark.  
+- [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] and [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]] can navigate to Blingdenstone, but they're reluctant to do so. As such, they are likely to support any suggestion that will not take them to their former home. Once they feel safer, they're likely to strike out on their own, just as they were before the drow captured them.  
 
 > [!note] On Their Own
 > 
@@ -58,9 +58,9 @@ Travel pace in the Underdark is significantly slower than for overland travel. N
 
 | Pace | Miles Per Day | Effect |
 |------|---------------|--------|
-| Fast | 8 | −5 penalty to passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores; no foraging |
+| Fast | 8 | −5 penalty to passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores; no foraging |
 | Normal | 6 | — |
-| Slow | 4 | Improved foraging, or able to use [Stealth](/03_Mechanics/CLI/skills.md#Stealth) |
+| Slow | 4 | Improved foraging, or able to use [[/03_Mechanics/CLI/skills#Stealth|Stealth]] |
 ^pace-miles-per-day-effect
 
 A fast pace makes it harder to spot ambushes or items of interest and prevents the characters from foraging, while a slow pace allows the characters to travel stealthily enough to surprise or sneak past creatures they encounter, and improves their chances of successful foraging for food and water.
@@ -79,7 +79,7 @@ The Underdark Travel Times table shows the time to travel between the locations 
 | Menzoberranzan | 26 days | 20 days | 27 days | 24 days | 8 days | — |
 ^location-velkynvelve-sloobludop-gracklstugh-neverlight-grove-blingdenstone-menzoberranzan
 
-![Map 2.1: The Underdark](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/008-02-05.webp#center)
+![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/008-02-05.webp#center|Map 2.1: The Underdark]]
 
 ### Encounter Setup
 
@@ -95,16 +95,16 @@ Roll a `d6` to determine how an encounter area is illuminated. On a roll of 1–
 
 ### Noticing Threats
 
-The passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores of characters in the party count toward noticing hidden threats only if both the following conditions are met:
+The passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of characters in the party count toward noticing hidden threats only if both the following conditions are met:
 
-- The characters are able to see the threat (due to illumination or [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)) or otherwise perceive it.  
+- The characters are able to see the threat (due to illumination or [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]) or otherwise perceive it.  
 - The characters aren't engaged in other activities, including navigating or foraging.  
 
-A fast pace imposes a −5 penalty to passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) scores to notice threats. You might also decide that only characters in a particular rank of the marching order are able to notice a specific threat.
+A fast pace imposes a −5 penalty to passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to notice threats. You might also decide that only characters in a particular rank of the marching order are able to notice a specific threat.
 
 #### Surprise
 
-When an encounter occurs, determine if the adventurers or their foes are [surprised](/03_Mechanics/CLI/conditions.md#Surprised), as normal. The adventurers can achieve surprise only if all the following conditions are met:
+When an encounter occurs, determine if the adventurers or their foes are [[/03_Mechanics/CLI/conditions#Surprised|surprised]], as normal. The adventurers can achieve surprise only if all the following conditions are met:
 
 - The encounter occurs while the party is moving (not stopped or camped).  
 - The party elected the stealth option while moving at a slow pace.  
@@ -114,7 +114,7 @@ When an encounter occurs, determine if the adventurers or their foes are [surpri
 
 Becoming lost is a serious risk in the twisting tunnels of the Underdark, and travelers can wander in circles without knowing it. Creatures unfamiliar with a given region of the Underdark are automatically lost, wandering in a random direction for every 4 hours of travel until they encounter an area they are familiar with (which could be a very long time).
 
-Even creatures that know the routes of the Underdark aren't immune. For each day of travel, and any time the characters set out again after finishing a short or long rest, the party's navigator makes a DC 10 Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, while a fast pace imposes a −5 penalty. A failed check result means the characters become lost, wandering in a random direction for `d6` hours before the navigator can make a new check to find the right path.
+Even creatures that know the routes of the Underdark aren't immune. For each day of travel, and any time the characters set out again after finishing a short or long rest, the party's navigator makes a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, while a fast pace imposes a −5 penalty. A failed check result means the characters become lost, wandering in a random direction for `d6` hours before the navigator can make a new check to find the right path.
 
 ### Mapping
 
@@ -122,9 +122,9 @@ A character not focused on any other task—including watching for danger while 
 
 ### Foraging
 
-Unless they obtain a supply of food and water, the adventurers must forage to survive on their journey. Finding sustenance in the Underdark is difficult but not impossible. Characters can gather food and water if the party travels at a normal or slow pace. A foraging character makes a Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check. The DC is typically 15, but might be as high as 20 in some parts of the Underdark. Food and water requirements for characters are described in chapter 8, ""Adventuring"," of the *Player's Handbook*.
+Unless they obtain a supply of food and water, the adventurers must forage to survive on their journey. Finding sustenance in the Underdark is difficult but not impossible. Characters can gather food and water if the party travels at a normal or slow pace. A foraging character makes a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check. The DC is typically 15, but might be as high as 20 in some parts of the Underdark. Food and water requirements for characters are described in chapter 8, ""Adventuring"," of the *Player's Handbook*.
 
-In addition to foraging, spells such as [create food and water](/03_Mechanics/CLI/spells/create-food-and-water-xphb.md) and [goodberry](/03_Mechanics/CLI/spells/goodberry-xphb.md) can help provision the party, and there's always a chance for the characters to encounter others from whom they can buy or steal provisions. Additionally, many creatures the adventurers might meet and kill can be butchered, but the meat they yield spoils after a single day if uneaten. Eating spoiled meat might require a Constitution saving throw to keep the meal down, a Wisdom saving throw to avoid acquiring a level of madness from the awful experience (see "Madness" later in this chapter), or both.
+In addition to foraging, spells such as [[/03_Mechanics/CLI/spells/create-food-and-water-xphb|create food and water]] and [[/03_Mechanics/CLI/spells/goodberry-xphb|goodberry]] can help provision the party, and there's always a chance for the characters to encounter others from whom they can buy or steal provisions. Additionally, many creatures the adventurers might meet and kill can be butchered, but the meat they yield spoils after a single day if uneaten. Eating spoiled meat might require a Constitution saving throw to keep the meal down, a Wisdom saving throw to avoid acquiring a level of madness from the awful experience (see "Madness" later in this chapter), or both.
 
 #### Creature Food Yield
 
@@ -136,7 +136,7 @@ In addition to foraging, spells such as [create food and water](/03_Mechanics/CL
 | Large | 32 lb. |
 ^creature-size-food-gained
 
-The characters' need to forage and acquire supplies serves as a motivator to drive them to explore and visit different parts of the Underdark. The more desperate their need becomes—as levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) rack up—the more risk players will likely be willing to take.
+The characters' need to forage and acquire supplies serves as a motivator to drive them to explore and visit different parts of the Underdark. The more desperate their need becomes—as levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] rack up—the more risk players will likely be willing to take.
 
 ### Time-Keeping
 
@@ -150,10 +150,10 @@ Areas suffused with *faerzress* can range in size from a few dozen feet across t
 
 - Areas suffused with *faerzress* are always filled with dim light.  
 - A creature in an area suffused with *faerzress* has advantage on saving throws against any divination spells. If a divination spell doesn't allow a saving throw, the caster must succeed on a DC 15 Constitution saving throw to cast the spell. Failing this save means the spell is wasted and has no effect.  
-- Any creature attempting to teleport into, within, or out of a *faerzress-*suffused area must succeed on a DC 15 Constitution saving throw. On a failed save, the creature takes `d10` force damage and the teleportation attempt fails. Even if the save succeeds, the teleportation attempt can suffer a mishap as if the destination was known only by description, regardless of how familiar the destination actually is. See the table in the [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) spell for more information.  
-- Areas suffused with *faerzress* have become tainted by the chaos of the demon lords. When a spell is cast in a *faerzress*-suffused area, the caster rolls a `d20`. On a roll of 1, the spell has an additional effect, determined by rolling on the Wild Magic Surge table in chapter 3, "[Classes](/03_Mechanics/CLI/tables/wild-magic-surge-phb.md)," of the *Player's Handbook*.  
+- Any creature attempting to teleport into, within, or out of a *faerzress-*suffused area must succeed on a DC 15 Constitution saving throw. On a failed save, the creature takes `d10` force damage and the teleportation attempt fails. Even if the save succeeds, the teleportation attempt can suffer a mishap as if the destination was known only by description, regardless of how familiar the destination actually is. See the table in the [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] spell for more information.  
+- Areas suffused with *faerzress* have become tainted by the chaos of the demon lords. When a spell is cast in a *faerzress*-suffused area, the caster rolls a `d20`. On a roll of 1, the spell has an additional effect, determined by rolling on the Wild Magic Surge table in chapter 3, "[[/03_Mechanics/CLI/tables/wild-magic-surge-phb|Classes]]," of the *Player's Handbook*.  
 
-Though *faerzress* can't be dispelled, its effects are temporarily suppressed in the area of an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).
+Though *faerzress* can't be dispelled, its effects are temporarily suppressed in the area of an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]].
 
 ## Equipment
 
@@ -192,15 +192,15 @@ A creature's madness level starts at 0. When the creature fails a madness saving
 
 If a creature with level 3 madness fails a madness saving throw, its madness level becomes 1. In this way, characters can potentially accumulate multiple forms of madness.
 
-Bouts of short- and long-term madness can be cured as described in the *Dungeon Master's Guide*. Given the demonic source of the madness, [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) and [dispel evil](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) are also effective as cures. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell or more powerful magic is needed to cure indefinite madness and also resets a creature's madness level to 0.
+Bouts of short- and long-term madness can be cured as described in the *Dungeon Master's Guide*. Given the demonic source of the madness, [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] and [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|dispel evil]] are also effective as cures. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell or more powerful magic is needed to cure indefinite madness and also resets a creature's madness level to 0.
 
 ## Death
 
 Allowing the chips to fall where they may in combat emphasizes the challenging nature of this adventure. However, if the characters start falling just as fast, you might want to give the players some opportunities to return dead characters to life during the lower levels of their progress through *Out of the Abyss.*
 
-- A [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) can turn up among some treasure, either when it is needed or for the characters to save for later. A successful DC 15 spellcasting ability check is required for a lower-level character to use such a scroll.  
+- A [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scroll]] of [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] can turn up among some treasure, either when it is needed or for the characters to save for later. A successful DC 15 spellcasting ability check is required for a lower-level character to use such a scroll.  
 - A strange *faerzress* effect can bring a fallen character back to life, but not without a cost. The restored character's madness level increases by 1 upon being restored to life (see "Madness" earlier in this chapter).  
-- If a fallen character's body is lost or left behind, the party's drow pursuers find it. The drow high priestess casts [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) on the corpse so that the character can be questioned. The character might escape later, or can be reunited with the other adventurers in a later chapter of the adventure when the drow catch up to them.  
+- If a fallen character's body is lost or left behind, the party's drow pursuers find it. The drow high priestess casts [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] on the corpse so that the character can be questioned. The character might escape later, or can be reunited with the other adventurers in a later chapter of the adventure when the drow catch up to them.  
 
 If a player character is permanently slain, think about the ways a player might introduce a new character to the party in the midst of a journey through the Underdark.
 
@@ -213,7 +213,7 @@ If a player character is permanently slain, think about the ways a player might 
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/009-ooa02-03.webp#center)
 
-The Underdark is home to a tremendous variety of fungi with a variety of different uses. Characters can encounter different examples of the Underdark's flora in their travels. Identifying a species of fungi and its potential uses requires a successful DC 15 Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) check, but Underdark inhabitants are familiar with many of these species automatically.
+The Underdark is home to a tremendous variety of fungi with a variety of different uses. Characters can encounter different examples of the Underdark's flora in their travels. Identifying a species of fungi and its potential uses requires a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check, but Underdark inhabitants are familiar with many of these species automatically.
 
 ### Edible Fungi
 
@@ -257,7 +257,7 @@ A nightlight is a tall and tube-shaped bioluminescent mushroom that grows to a h
 
 #### Nilhogg's Nose
 
-A Nilhogg's nose is a small mushroom that grants any creature that eats it advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks based on smell for `d4` hours. However, the creature suffers disadvantage on saving throws against effects based on smell for the same amount of time.
+A Nilhogg's nose is a small mushroom that grants any creature that eats it advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks based on smell for `d4` hours. However, the creature suffers disadvantage on saving throws against effects based on smell for the same amount of time.
 
 #### Ormu
 
@@ -265,11 +265,11 @@ A bioluminescent green moss that grows in warm and damp areas, ormu is particula
 
 #### Timmask
 
-Also known as "the devil's mushroom," a timmask is a two-foot-tall toadstool with orange and red stripes across its beige cap. Uprooting or destroying a timmask causes it to expel a 15-foot-radius cloud of poisonous spores. Creatures in the area must succeed at a DC 14 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). While [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way, the creature is under the effect of a [confusion](/03_Mechanics/CLI/spells/confusion-xphb.md) spell with a duration of 1 minute. When the spell effect ends, the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition also ends.
+Also known as "the devil's mushroom," a timmask is a two-foot-tall toadstool with orange and red stripes across its beige cap. Uprooting or destroying a timmask causes it to expel a 15-foot-radius cloud of poisonous spores. Creatures in the area must succeed at a DC 14 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]. While [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way, the creature is under the effect of a [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] spell with a duration of 1 minute. When the spell effect ends, the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] condition also ends.
 
 #### Tongue of Madness
 
-Tongue of madness is an edible fungus that looks somewhat like a large human tongue. A creature that eats a tongue of madness must succeed on a DC 12 Constitution saving throw or compulsively speak aloud its every thought for the next hour. The effect can be ended with a [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic.
+Tongue of madness is an edible fungus that looks somewhat like a large human tongue. A creature that eats a tongue of madness must succeed on a DC 12 Constitution saving throw or compulsively speak aloud its every thought for the next hour. The effect can be ended with a [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]] spell or similar magic.
 
 #### Torchstalk
 
@@ -287,7 +287,7 @@ Second, the Underdark is an exotic, alien landscape unlike anything found on the
 
 A party of drow from Velkynvelve pursue their escaped prisoners into the Underdark. The drow priestess Ilvara becomes increasingly obsessed with the adventurers, believing they are involved in some secret conspiracy, or perhaps some test of her worthiness. The longer the pursuit, the more determined she is to retake them and have the opportunity to teach them the error of defying her.
 
-The drow party consists of Ilvara ([drow priestess of Lolth](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md)), the [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) Jorlan and Shoor, and the junior priestess [Asha Vandree](/03_Mechanics/CLI/bestiary/npc/asha-vandree-oota.md) (use the [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) stat block in the *Monster Manual*, but add the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of the [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) stat block). The hunting party also includes four [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors who serve as forward scouts. If any of the drow NPCs did not survive chapter 1, replace them with newly arrived reinforcements from Menzoberranzan under the command of Ilvara, or another priestess of her caliber.
+The drow party consists of Ilvara ([[/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm|drow priestess of Lolth]]), the [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]] Jorlan and Shoor, and the junior priestess [[/03_Mechanics/CLI/bestiary/npc/asha-vandree-oota|Asha Vandree]] (use the [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] stat block in the *Monster Manual*, but add the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of the [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] stat block). The hunting party also includes four [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] warriors who serve as forward scouts. If any of the drow NPCs did not survive chapter 1, replace them with newly arrived reinforcements from Menzoberranzan under the command of Ilvara, or another priestess of her caliber.
 
 ### Tracking the Party
 
@@ -300,7 +300,7 @@ The closeness of the drow pursuit is measured by a pursuit level. It begins at 4
 Characters can increase or decrease the pursuit level in the following ways:
 
 - Decrease the pursuit level by 1 for each day the party travels at a fast pace.  
-- Decrease the pursuit level by 1 if a character spends time covering up the party's trail that day, requiring a successful DC 16 Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check.  
+- Decrease the pursuit level by 1 if a character spends time covering up the party's trail that day, requiring a successful DC 16 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check.  
 - Decrease the pursuit level by 1 each time the characters cross or traverse some feature that obscures their trail, such as a subterranean river.  
 - Decrease the pursuit level by 1 if the party splits into two or more groups. Each group becomes a separate party for purposes of determining random encounters and whether or not the group becomes lost.  
 - Increase the pursuit level by 1 each time the party has a random encounter with one or more creatures, unless the encounter is bypassed or avoided entirely.  
@@ -332,7 +332,7 @@ If the adventurers lower the pursuit level to 0, the drow lose the trail unless 
 
 ### Capture
 
-The drow try to capture the escaped prisoners if at all possible, since Ilvara wants the pleasure of teaching them a lesson about disobedience. If the dark elves reduce any characters to 0 hit points, those characters are knocked out rather than dying (see ""Knocking a Creature Out"" in chapter 9 of the *Player's Handbook*). Even if one or more of the characters are accidentally killed, Ilvara is obsessed enough to cast [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) to restore them to life (assuming the character's soul is willing to return).
+The drow try to capture the escaped prisoners if at all possible, since Ilvara wants the pleasure of teaching them a lesson about disobedience. If the dark elves reduce any characters to 0 hit points, those characters are knocked out rather than dying (see ""Knocking a Creature Out"" in chapter 9 of the *Player's Handbook*). Even if one or more of the characters are accidentally killed, Ilvara is obsessed enough to cast [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] to restore them to life (assuming the character's soul is willing to return).
 
 Captured characters are disarmed, their hands bound with spider silk rope, and gagged. The drow march them back to Velkynvelve unless Menzoberranzan is closer, in which case Ilvara takes them there instead. The characters will need to come up with a new plan of escape, ideally before Ilvara has the opportunity to torture them or sell them into slavery in the City of Spiders. If they escape her clutches again, the drow priestess continues her pursuit until she is dead or the party leaves the Underdark (see chapter 7).
 
@@ -395,19 +395,19 @@ When the party enters a boneyard, roll a `d20` and consult the table to determin
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–14 | No encounter |
-| 15–18 | `3d4` [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
-| 19–20 | `d3` [minotaur skeleton](/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) |
+| 15–18 | `3d4` [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]] |
+| 19–20 | `d3` [[/03_Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm|minotaur skeleton]] |
 ^encounter
 
 #### Cliff and Ladder
 
-A cliff `2d4 × 10` feet high blocks the party's passage, but a rolled-up rope ladder is visible at the top. If someone can climb the cliff—requiring a successful DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check—and toss down the ladder, the characters can proceed. Otherwise, they lose a day's travel finding another route. If the characters remove the ladder once they are at the top, they decrease the drow pursuit level by 1.
+A cliff `2d4 × 10` feet high blocks the party's passage, but a rolled-up rope ladder is visible at the top. If someone can climb the cliff—requiring a successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check—and toss down the ladder, the characters can proceed. Otherwise, they lose a day's travel finding another route. If the characters remove the ladder once they are at the top, they decrease the drow pursuit level by 1.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/010-ooa02-04.webp#center)
 
 #### Crystal Clusters
 
-The adventurers pass through a *faerzress*-suffused area containing fist-sized chunks of quartz that shed dim light in a 10-foot radius. A sharp blow to one of the crystals, including throwing it so it impacts a hard surface, causes it to burst in a 10-foot-radius flash of blinding light. Any creature within the radius must succeed on a DC 10 Constitution saving throw or be [blinded](/03_Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature [blinded](/03_Mechanics/CLI/conditions.md#Blinded) by this effect repeats the Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [blinded](/03_Mechanics/CLI/conditions.md#Blinded).
+The adventurers pass through a *faerzress*-suffused area containing fist-sized chunks of quartz that shed dim light in a 10-foot radius. A sharp blow to one of the crystals, including throwing it so it impacts a hard surface, causes it to burst in a 10-foot-radius flash of blinding light. Any creature within the radius must succeed on a DC 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Blinded|blinded]] for 1 minute. A creature [[/03_Mechanics/CLI/conditions#Blinded|blinded]] by this effect repeats the Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[/03_Mechanics/CLI/conditions#Blinded|blinded]].
 
 The characters can harvest up to twelve of the crystals in total, but taking the time to do so increases the drow pursuit level by 1.
 
@@ -417,7 +417,7 @@ The adventurers stumble upon a cavern filled with fungi and mushrooms of all siz
 
 #### Gas Leak
 
-The adventurers come upon a cavern with a dangerous natural gas leak. Any member of the party with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 14 or higher detects signs of the gas. The characters' travel pace for the day is slowed by half as they circumvent the area, but there are no ill effects. If the gas goes undetected, each character in the area must make a DC 12 Constitution saving throw, taking 5 (`d10`) poison damage on a failed save, or half as much damage on a successful one. Any open flames brought into the area cause the gas to explode. Each creature in the explosion must make a DC 15 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+The adventurers come upon a cavern with a dangerous natural gas leak. Any member of the party with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 14 or higher detects signs of the gas. The characters' travel pace for the day is slowed by half as they circumvent the area, but there are no ill effects. If the gas goes undetected, each character in the area must make a DC 12 Constitution saving throw, taking 5 (`d10`) poison damage on a failed save, or half as much damage on a successful one. Any open flames brought into the area cause the gas to explode. Each creature in the explosion must make a DC 15 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 #### Gorge
 
@@ -441,7 +441,7 @@ The adventurers must wade through a broad, 3-foot-deep pit of slimy muck. The mu
 
 #### Rockfall
 
-As the adventurers make their way through a long, twisting cavern, a tremor sets off a rockfall. Each party member must attempt three DC 12 Dexterity saving throws, taking 10 (`3d6`) bludgeoning damage on each failed save. Any [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) creature not moved out of the area is buried under rubble, taking an additional `d6` bludgeoning damage at the end of each of its turns until the creature is dug out or dead. Decrease the drow pursuit level by 1.
+As the adventurers make their way through a long, twisting cavern, a tremor sets off a rockfall. Each party member must attempt three DC 12 Dexterity saving throws, taking 10 (`3d6`) bludgeoning damage on each failed save. Any [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] creature not moved out of the area is buried under rubble, taking an additional `d6` bludgeoning damage at the end of each of its turns until the creature is dug out or dead. Decrease the drow pursuit level by 1.
 
 #### Rope Bridge
 
@@ -457,7 +457,7 @@ The party stumbles upon a cave that is sheltered and easily defended. If the cha
 
 #### Sinkhole
 
-One random party member steps on and collapses a sinkhole, and must succeed on a DC 12 Dexterity saving throw to avoid falling into a 20-foot-deep pit and taking 7 (`2d6`) bludgeoning damage. Climbing out of the pit requires a successful DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
+One random party member steps on and collapses a sinkhole, and must succeed on a DC 12 Dexterity saving throw to avoid falling into a 20-foot-deep pit and taking 7 (`2d6`) bludgeoning damage. Climbing out of the pit requires a successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
 
 #### Slime or Mold
 
@@ -486,7 +486,7 @@ A waterway `2d4 × 5` feet wide cuts across the party's path. The stream is shal
 
 #### Warning Sign
 
-The characters enter a cavern dotted with stalagmites and stalactites. Those with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 11 or higher spot the sigil to the right carved into one of the stalagmites.
+The characters enter a cavern dotted with stalagmites and stalactites. Those with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 11 or higher spot the sigil to the right carved into one of the stalagmites.
 
 The sigil is a drow warning sign that means "Demons ahead!" Any non-drow creature that touches the symbol must make a DC 10 Wisdom saving throw. On a failed save, the creature's madness level increases by 1.
 
@@ -499,16 +499,16 @@ If the characters take a long rest within one mile of the warning sign, roll a `
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–14 | No encounter |
-| 15–16 | 1 [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [barlgura](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
-| 17–18 | `3d4` [dretches](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md) |
-| 19–20 | `d2` [shadow demons](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) |
+| 15–16 | 1 [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|barlgura]] |
+| 17–18 | `3d4` [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|dretches]] |
+| 19–20 | `d2` [[/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm|shadow demons]] |
 ^encounter
 
 #### Webs
 
 Sticky webs fills a passage (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). The webs extend for hundreds of feet. Unless the characters come up with a plan for clearing the webs quickly, the party's travel pace for the day is halved as the characters are forced to cut their way through or find an alternate route.
 
-Check for an encounter when the party enters the webs. On a roll of 1–2 on a `d6`, the characters encounter `d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) lurking among the webs.
+Check for an encounter when the party enters the webs. On a roll of 1–2 on a `d6`, the characters encounter `d4` [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] lurking among the webs.
 
 ### Creature Encounters
 
@@ -541,13 +541,13 @@ One or more creatures attempt to ambush the party as it makes its way through th
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–2 | 1 [chuul](/03_Mechanics/CLI/bestiary/aberration/chuul-xmm.md) lurking in a pool of water |
-| 3 | `d6` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) clinging to the walls or ceiling |
-| 4–5 | 1 [grell](/03_Mechanics/CLI/bestiary/aberration/grell-xmm.md) floating near the high ceiling |
-| 6–9 | `d4` [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) hiding in a crevice or fissure |
-| 10–15 | `d4` [orogs](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) perching on ledges |
-| 16–17 | `d6` [piercers](/03_Mechanics/CLI/bestiary/aberration/piercer-xmm.md) masquerading as stalactites |
-| 18–20 | 1 [umber hulk](/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) bursting out of a nearby wall |
+| 1–2 | 1 [[/03_Mechanics/CLI/bestiary/aberration/chuul-xmm|chuul]] lurking in a pool of water |
+| 3 | `d6` [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] clinging to the walls or ceiling |
+| 4–5 | 1 [[/03_Mechanics/CLI/bestiary/aberration/grell-xmm|grell]] floating near the high ceiling |
+| 6–9 | `d4` [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|gricks]] hiding in a crevice or fissure |
+| 10–15 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] perching on ledges |
+| 16–17 | `d6` [[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm|piercers]] masquerading as stalactites |
+| 18–20 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm|umber hulk]] bursting out of a nearby wall |
 ^encounter
 
 If the ambush occurs in the monster's lair, there is a chance that characters searching the area find something of interest or value. Roll a `d20` and consult the table below to see what, if anything, they find.
@@ -568,9 +568,9 @@ If the ambush occurs in the monster's lair, there is a chance that characters se
 
 #### Carrion Crawler
 
-The characters encounter a [carrion crawler](/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) scouring tunnels and caves for food.
+The characters encounter a [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawler]] scouring tunnels and caves for food.
 
-There is a 25 percent chance that the crawler is domesticated and outfitted with a leather saddle and harness, though there's no sign of the rider. A character can approach and mount the carrion crawler without being attacked by succeeding on a DC 13 Wisdom ([Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling)) check. While in the saddle and harness, a rider can remain mounted on the carrion crawler as it crawls across walls and ceilings.
+There is a 25 percent chance that the crawler is domesticated and outfitted with a leather saddle and harness, though there's no sign of the rider. A character can approach and mount the carrion crawler without being attacked by succeeding on a DC 13 Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) check. While in the saddle and harness, a rider can remain mounted on the carrion crawler as it crawls across walls and ceilings.
 
 #### Escaped Slaves
 
@@ -580,10 +580,10 @@ These slaves have been wandering the Underdark since their escape from Gracklstu
 
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | `d2` moon elf [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 2 | `d3` shield dwarf [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 3 | `d4` human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 4 | `d6` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
+| 1 | `d2` moon elf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
+| 2 | `d3` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
+| 3 | `d4` human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
+| 4 | `d6` [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] |
 ^encounter
 
 #### Fungi
@@ -594,9 +594,9 @@ Roll a `d6` and consult the table to determine what kinds of fungi the character
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1–2 | `d4` [gas spores](/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md) |
-| 3–4 | `d4` [shriekers](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) |
-| 5–6 | `d4` [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 1–2 | `d4` [[/03_Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm|gas spores]] |
+| 3–4 | `d4` [[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm|shriekers]] |
+| 5–6 | `d4` [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]] |
 ^encounter
 
 There's a 25 percent chance that a gas spore carries a memory fragment from a dead beholder in its spores (see the gas spore's description in the "Fungi" entry of *Monster Manual*). This memory can be of anything you wish, or you can roll a `d4` and consult the Beholder Memories table.
@@ -615,28 +615,28 @@ There's a 25 percent chance that a gas spore carries a memory fragment from a de
 
 #### Giant Fire Beetles
 
-The characters encounter `3d6` [giant fire beetles](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) scouring tunnels and caves for food. Characters in need of light sources can harvest the glowing glands of slain beetles.
+The characters encounter `3d6` [[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm|giant fire beetles]] scouring tunnels and caves for food. Characters in need of light sources can harvest the glowing glands of slain beetles.
 
 #### Giant "Rocktopus"
 
-This creature is a [giant octopus](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md) that has evolved to live and thrive on land. It can alter its coloration to appear as a rock formation, and it tends to lurk in crevices and fissures, attacking smaller creatures that wander near. It has a walking speed of 20 feet and a climbing speed of 10 feet, loses its Hold Breath feature, and replaces its Underwater Camouflage feature with the following feature:
+This creature is a [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|giant octopus]] that has evolved to live and thrive on land. It can alter its coloration to appear as a rock formation, and it tends to lurk in crevices and fissures, attacking smaller creatures that wander near. It has a walking speed of 20 feet and a climbing speed of 10 feet, loses its Hold Breath feature, and replaces its Underwater Camouflage feature with the following feature:
 
 ##### Camouflage
 
-The octopus has advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks.
+The octopus has advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks.
 
 #### Mad Creature
 
-The party encounters a creature driven insane by the influence of the demon lords. Roll a `d4` and consult the table to determine what appears. Then roll on the [Indefinite Madness](/03_Mechanics/CLI/tables/indefinite-madness.md) table in chapter 8 of the *Dungeon Master's Guide* to determine the nature of the creature's madness. If cured of its madness, the creature behaves in accordance with its alignment.
+The party encounters a creature driven insane by the influence of the demon lords. Roll a `d4` and consult the table to determine what appears. Then roll on the [[/03_Mechanics/CLI/tables/indefinite-madness|Indefinite Madness]] table in chapter 8 of the *Dungeon Master's Guide* to determine the nature of the creature's madness. If cured of its madness, the creature behaves in accordance with its alignment.
 
 `dice: [](02-chapter-2-into-darkness.md#^encounter)`
 
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | 1 [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) |
-| 2 | 1 [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 3 | 1 [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
-| 4 | 1 [stone giant](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) |
+| 1 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] |
+| 2 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
+| 3 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
+| 4 | 1 [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giant]] |
 ^encounter
 
 There is a chance that the mad creature has something of interest or value in its possession. Roll a `d20` and consult the table below to see what, if anything, it has. The creature doesn't part with the item willingly.
@@ -657,7 +657,7 @@ There is a chance that the mad creature has something of interest or value in it
 
 #### Ochre Jelly
 
-As the characters move through a series of caves, they attract the attention of a [ochre jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md). The ooze follows the characters, attacking when they stop to take their next rest. Characters in the back rank of the marching order who have a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 14 or higher spot the ooze following them.
+As the characters move through a series of caves, they attract the attention of a [[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm|ochre jelly]]. The ooze follows the characters, attacking when they stop to take their next rest. Characters in the back rank of the marching order who have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 14 or higher spot the ooze following them.
 
 #### Raiders
 
@@ -667,9 +667,9 @@ This group of raiders from the surface ventured into the Underdark looking for r
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1–2 | `d6` human [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) and 1 human [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) |
-| 3–4 | `2d4` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and 1 [goblin boss](/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) |
-| 5–6 | `d6` [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) and 1 [orc Eye of Gruumsh](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) |
+| 1–2 | `d6` human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] and 1 human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] |
+| 3–4 | `2d4` [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] and 1 [[/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm|goblin boss]] |
+| 5–6 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] and 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] |
 ^encounter
 
 There is a chance that the leader of the group has something of interest or value. Roll a `d20` and consult the table below to see what, if anything, the leader of the raiders has in its possession.
@@ -696,12 +696,12 @@ Each of these groups is in the Underdark on a secret mission. Roll a `d6` and co
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1–2 | 1 [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 3–4 | `d4` [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) |
-| 5–6 | `d6` shield dwarf [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
+| 1–2 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
+| 3–4 | `d4` [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]] |
+| 5–6 | `d6` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
 ^encounter
 
-The [drow scout](/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota.md) is searching for escaped slaves. If he spots the party, he'll attempt to avoid notice and take away information regarding the group's location (see "Drow Pursuit").
+The [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|drow scout]] is searching for escaped slaves. If he spots the party, he'll attempt to avoid notice and take away information regarding the group's location (see "Drow Pursuit").
 
 The myconid scouts are indifferent toward the party and unwilling to discuss their mission or their travels with the adventurers.
 
@@ -715,18 +715,18 @@ The characters stumble upon a member of the Society of Brilliance, a sect of hig
 
 | dice: d10 | Encounter |
 |-----------|-----------|
-| 1–2 | [Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md) the [derro savant](/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm.md) (see appendix C) |
-| 3–4 | [Blurg](/03_Mechanics/CLI/bestiary/npc/blurg-oota.md) the [orog](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
-| 5–6 | [Grazilaxx](/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota.md) the [mind flayer](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) |
-| 7–8 | [Skriss](/03_Mechanics/CLI/bestiary/npc/skriss-oota.md) the [troglodyte](/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) |
-| 9–10 | [Sloopidoop](/03_Mechanics/CLI/bestiary/npc/sloopidoop-oota.md) the [kuo-toa archpriest](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md) |
+| 1–2 | [[/03_Mechanics/CLI/bestiary/npc/y-oota|Y]] the [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]] (see appendix C) |
+| 3–4 | [[/03_Mechanics/CLI/bestiary/npc/blurg-oota|Blurg]] the [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orog]] |
+| 5–6 | [[/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota|Grazilaxx]] the [[/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm|mind flayer]] |
+| 7–8 | [[/03_Mechanics/CLI/bestiary/npc/skriss-oota|Skriss]] the [[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm|troglodyte]] |
+| 9–10 | [[/03_Mechanics/CLI/bestiary/npc/sloopidoop-oota|Sloopidoop]] the [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm|kuo-toa archpriest]] |
 ^encounter
 
-Every member of the Society of Brilliance has an alignment of neutral, an Intelligence of 18 (+4), and fluency in multiple languages including Dwarvish, Elvish, and Undercommon (although [Grazilaxx](/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota.md) prefers to communicate using telepathy). Its statistics are unchanged otherwise. Members are erudite and talkative, preferring diplomacy and debate over violence (though they defend themselves if attacked).
+Every member of the Society of Brilliance has an alignment of neutral, an Intelligence of 18 (+4), and fluency in multiple languages including Dwarvish, Elvish, and Undercommon (although [[/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota|Grazilaxx]] prefers to communicate using telepathy). Its statistics are unchanged otherwise. Members are erudite and talkative, preferring diplomacy and debate over violence (though they defend themselves if attacked).
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/012-02-01.webp#center)
 
-Each society member can cast the [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) spell once per day, but the intended destination must be within 30 feet of another society member. This teleport effect can be disrupted (see "Faerzress" earlier in the chapter), which is how society members sometimes end up in far corners of the Underdark, separated from their fellows.
+Each society member can cast the [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] spell once per day, but the intended destination must be within 30 feet of another society member. This teleport effect can be disrupted (see "Faerzress" earlier in the chapter), which is how society members sometimes end up in far corners of the Underdark, separated from their fellows.
 
 Members of the Society of Brilliance are aware that paths to the surface world exist but haven't explored any of them (their concerns are with the Underdark, after all). If the characters seem intent on reaching the surface, a society member might suggest they look for a guide in one of the Underdark's larger settlements, such as Blingdenstone or Gracklstugh. The society member can provide detailed verbal directions that characters can follow to reach whichever Underdark settlement they desire. However, the society member can't guarantee that the route is safe. If characters are searching for something else, the society member provides whatever assistance it can.
 
@@ -738,10 +738,10 @@ One or more creatures killed and reanimated by Zuggtmoy's spores observe the cha
 
 | dice: d10 | Encounter |
 |-----------|-----------|
-| 1–3 | `d4` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
-| 4–6 | `d6` [duergar spore servants](/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota.md) (see appendix C) |
-| 7–8 | `d4` [hook horror spore servants](/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md) (see appendix C) |
-| 9–10 | `d8` [quaggoth spore servants](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md) |
+| 1–3 | `d4` [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|drow spore servants]] (see appendix C) |
+| 4–6 | `d6` [[/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota|duergar spore servants]] (see appendix C) |
+| 7–8 | `d4` [[/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota|hook horror spore servants]] (see appendix C) |
+| 9–10 | `d8` [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]] |
 ^encounter
 
 #### Traders
@@ -752,13 +752,13 @@ These traders ply the tunnels of the Underdark, traveling from settlement to set
 
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | `2d4` [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) |
-| 2 | `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 3 | `2d4` [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
-| 4 | `2d4` [kuo-toa](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) |
+| 1 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]] |
+| 2 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
+| 3 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
+| 4 | `2d4` [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm|kuo-toa]] |
 ^encounter
 
-Deep gnome and drow traders have a 50 percent chance of having half their number in [giant lizards](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) as mounts and pack animals. Duergar traders have a 50 percent chance of having half their number in [male steeders](/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm.md) (see appendix C) as pack animals. If there are male steeders present, there is a 50 percent chance that the traders are escorted by a [duergar kavalrachni](/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md) astride a [female steeder](/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (see appendix C for both).
+Deep gnome and drow traders have a 50 percent chance of having half their number in [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] as mounts and pack animals. Duergar traders have a 50 percent chance of having half their number in [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|male steeders]] (see appendix C) as pack animals. If there are male steeders present, there is a 50 percent chance that the traders are escorted by a [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|duergar kavalrachni]] astride a [[/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm|female steeder]] (see appendix C for both).
 
 The traders carry goods worth `5d4 × 10` gp plus ten days of provisions per member of their party; they are willing to sell up to 20 percent of either. If drow traders see the adventurers and have the opportunity to report it, increase the drow pursuit level by 1.
 
@@ -782,19 +782,19 @@ The chasm has numerous passages at varying heights leading away from it. It is r
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/013-02-02.webp#center)
 
-The Web Runners are a pair of thrill-seeking [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named [Yuk Yuk](/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota.md) and [Spiderbait](/03_Mechanics/CLI/bestiary/npc/spiderbait-oota.md). They have lived in the Underdark for as long as either can remember, with much of their time spent treasure hunting and surviving in the Silken Paths. The goblins are prone to daring (and often foolish) stunts. That either of them is still alive is a testament to their luck and skill. Modify their statistics as follows:
+The Web Runners are a pair of thrill-seeking [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] named [[/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota|Yuk Yuk]] and [[/03_Mechanics/CLI/bestiary/npc/spiderbait-oota|Spiderbait]]. They have lived in the Underdark for as long as either can remember, with much of their time spent treasure hunting and surviving in the Silken Paths. The goblins are prone to daring (and often foolish) stunts. That either of them is still alive is a testament to their luck and skill. Modify their statistics as follows:
 
 - Both goblins are neutral.  
-- Add [Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics) +6 and [Athletics](/03_Mechanics/CLI/skills.md#Athletics) +3 to the goblins' list of skills.  
-- The goblins have advantage on checks made to avoid being [surprised](/03_Mechanics/CLI/conditions.md#Surprised).  
+- Add [[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]] +6 and [[/03_Mechanics/CLI/skills#Athletics|Athletics]] +3 to the goblins' list of skills.  
+- The goblins have advantage on checks made to avoid being [[/03_Mechanics/CLI/conditions#Surprised|surprised]].  
 
-The goblins notice the adventurers as they approach the Silken Paths and are willing to act as guides and helpers—for a fee, of course. They'll settle for 2 gp per day each, but [Yuk Yuk](/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota.md) (who does all the negotiating) is just as likely to ask for something flashy belonging to one of the characters. He might also ask for some unspecified favor, to be paid when the goblins and the adventurers get to wherever they're going and part ways. He might ask for first pick of any loot the party uncovers in the Silken Paths, and will expect and ask for a share of the treasure regardless.
+The goblins notice the adventurers as they approach the Silken Paths and are willing to act as guides and helpers—for a fee, of course. They'll settle for 2 gp per day each, but [[/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota|Yuk Yuk]] (who does all the negotiating) is just as likely to ask for something flashy belonging to one of the characters. He might also ask for some unspecified favor, to be paid when the goblins and the adventurers get to wherever they're going and part ways. He might ask for first pick of any loot the party uncovers in the Silken Paths, and will expect and ask for a share of the treasure regardless.
 
-[Yuk Yuk](/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota.md) and [Spiderbait](/03_Mechanics/CLI/bestiary/npc/spiderbait-oota.md) each carry a gourd of grease, which they apply to their feet so that they can "surf the webs." While sliding down webs, they move at twice their normal walking speed.
+[[/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota|Yuk Yuk]] and [[/03_Mechanics/CLI/bestiary/npc/spiderbait-oota|Spiderbait]] each carry a gourd of grease, which they apply to their feet so that they can "surf the webs." While sliding down webs, they move at twice their normal walking speed.
 
-The Web Runners are as good as their word when it comes to their services, and they can teach the characters a thing or two. While they travel with the two goblins, the characters have advantage on checks made to avoid being [surprised](/03_Mechanics/CLI/conditions.md#Surprised). The goblins know the Silken Paths well enough not to become lost in them.
+The Web Runners are as good as their word when it comes to their services, and they can teach the characters a thing or two. While they travel with the two goblins, the characters have advantage on checks made to avoid being [[/03_Mechanics/CLI/conditions#Surprised|surprised]]. The goblins know the Silken Paths well enough not to become lost in them.
 
-If the adventurers make a good impression on the Web Runners and if the party's goals appear to offer interesting opportunities to do new and dangerous things, the goblins offer to stay on after crossing the Silken Paths, and to help guide the characters through the Underdark. The two won't leave the Underdark, however. [Yuk Yuk](/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota.md) will try to negotiate a suitable fee, but the goblins might simply tag along, content to earn any fair share of whatever the party acquires.
+If the adventurers make a good impression on the Web Runners and if the party's goals appear to offer interesting opportunities to do new and dangerous things, the goblins offer to stay on after crossing the Silken Paths, and to help guide the characters through the Underdark. The two won't leave the Underdark, however. [[/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota|Yuk Yuk]] will try to negotiate a suitable fee, but the goblins might simply tag along, content to earn any fair share of whatever the party acquires.
 
 > [!note] Silken Paths: General Features
 > 
@@ -802,7 +802,7 @@ If the adventurers make a good impression on the Web Runners and if the party's 
 > 
 > **Difficult Terrain.** Any creature with a climbing speed can walk along the webs at that speed. For all other creatures, the webs are difficult terrain. Any creature that falls can potentially become entangled in the webs (see "Falling").
 > 
-> **Falling.** Whenever a creature takes damage while traversing the Silken Paths, or whenever the webs upon which it is walking break, the creature must make a DC 15 Dexterity saving throw. On a successful save, the creature manages to avoid a fall by grabbing nearby web strands. On a failure, the creature falls `1d10 × 10` feet. If the distance fallen is less than the distance to the chasm floor, the creature becomes entangled in webs and [restrained](/03_Mechanics/CLI/conditions.md#Restrained); otherwise, it hits the floor and takes damage from the fall as normal. A [restrained](/03_Mechanics/CLI/conditions.md#Restrained) creature can make a DC 12 Strength saving throw at the end of each of its turns, freeing itself and ending the [restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition on a success. Another creature can use its action to help a [restrained](/03_Mechanics/CLI/conditions.md#Restrained) creature within its reach, granting advantage on that creature's next saving throw to end the effect.
+> **Falling.** Whenever a creature takes damage while traversing the Silken Paths, or whenever the webs upon which it is walking break, the creature must make a DC 15 Dexterity saving throw. On a successful save, the creature manages to avoid a fall by grabbing nearby web strands. On a failure, the creature falls `1d10 × 10` feet. If the distance fallen is less than the distance to the chasm floor, the creature becomes entangled in webs and [[/03_Mechanics/CLI/conditions#Restrained|restrained]]; otherwise, it hits the floor and takes damage from the fall as normal. A [[/03_Mechanics/CLI/conditions#Restrained|restrained]] creature can make a DC 12 Strength saving throw at the end of each of its turns, freeing itself and ending the [[/03_Mechanics/CLI/conditions#Restrained|restrained]] condition on a success. Another creature can use its action to help a [[/03_Mechanics/CLI/conditions#Restrained|restrained]] creature within its reach, granting advantage on that creature's next saving throw to end the effect.
 > 
 > **Light.** The chasm is dark. Carrying a light source attracts hostile creatures, increasing the chance of an encounter to 1–3 on a `d6`.
 > 
@@ -818,19 +818,19 @@ For every 500 feet the party travels through the webs, check for a random encoun
 | dice: d12 | Encounter |
 |-----------|-----------|
 | 1 | Cocooned lightfoot halfling |
-| 2 | `d4` [darkmantles](/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md) |
-| 3 | `d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and `d4` [quaggoth](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) slaves |
-| 4–8 | `2d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 9 | 1 [mimic](/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) |
-| 10 | 1 [spectator](/03_Mechanics/CLI/bestiary/aberration/spectator-xmm.md) |
+| 2 | `d4` [[/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm|darkmantles]] |
+| 3 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] and `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|quaggoth]] slaves |
+| 4–8 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] |
+| 9 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm|mimic]] |
+| 10 | 1 [[/03_Mechanics/CLI/bestiary/aberration/spectator-xmm|spectator]] |
 | 11–12 | Web break |
 ^encounter
 
 #### Cocooned Halfling
 
-The characters find a still-living lightfoot halfling cocooned in webbing. He is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) and [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for the next hour.
+The characters find a still-living lightfoot halfling cocooned in webbing. He is [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] and [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] for the next hour.
 
-Fargas Rumblefoot was a member of an adventuring band looking for a long-lost tomb when they were attacked by a pack of mad gnolls. Fargas escaped, got lost in the Silken Paths, and was attacked by the spiders. If rescued, he promises to show the characters the way to the tomb in exchange for a share of its treasures (see "Lost Tomb of Khaem" later in this chapter). Fargas is a chaotic good halfling [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md). In addition to his armor and weapons, he carries a [potion of invisibility](/03_Mechanics/CLI/items/potion-of-invisibility-xdmg.md).
+Fargas Rumblefoot was a member of an adventuring band looking for a long-lost tomb when they were attacked by a pack of mad gnolls. Fargas escaped, got lost in the Silken Paths, and was attacked by the spiders. If rescued, he promises to show the characters the way to the tomb in exchange for a share of its treasures (see "Lost Tomb of Khaem" later in this chapter). Fargas is a chaotic good halfling [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]]. In addition to his armor and weapons, he carries a [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|potion of invisibility]].
 
 #### Darkmantles
 
@@ -838,17 +838,17 @@ These subterranean hunters swoop down and attack the party.
 
 #### Drow and Quaggoth Slaves
 
-These hateful [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and their murderous [quaggoth](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) slaves are navigating the Silken Paths on their way through the Underdark. If Derendil is with the party, he can use an action to make a DC 15 Charisma check, turning the quaggoth slaves against their drow masters on a success. If the drow are disposed of, Derendil can repeat the check to turn the surviving quaggoths into his followers. Should Derendil perish, these quaggoths can't be controlled and fight to the death.
+These hateful [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] and their murderous [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|quaggoth]] slaves are navigating the Silken Paths on their way through the Underdark. If Derendil is with the party, he can use an action to make a DC 15 Charisma check, turning the quaggoth slaves against their drow masters on a success. If the drow are disposed of, Derendil can repeat the check to turn the surviving quaggoths into his followers. Should Derendil perish, these quaggoths can't be controlled and fight to the death.
 
 If any drow escape the encounter, increase the pursuit level of the party's drow pursuers by 1.
 
 #### Giant Spiders
 
-[Giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) are the most common inhabitants of the Silken Paths, and they are drawn to vibrations in the webs that indicate potential prey.
+[[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant spiders]] are the most common inhabitants of the Silken Paths, and they are drawn to vibrations in the webs that indicate potential prey.
 
 #### Mimic
 
-This creature pretends to be an iron chest entangled in the webs. When the characters draw close to examine it, the [mimic](/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) attacks.
+This creature pretends to be an iron chest entangled in the webs. When the characters draw close to examine it, the [[/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm|mimic]] attacks.
 
 #### Spectator
 
@@ -874,18 +874,18 @@ The adventurers wander into the area from a second entrance to the caverns (area
 ^hook-horror-lair-general-features
 
 > [!gallery]
-> ![Map 2.2: The Hook Horror Lair](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/014-02-06.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/015-hook-horror-map-player-version.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/014-02-06.webp#gallery|Map 2.2: The Hook Horror Lair]]
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/015-hook-horror-map-player-version.webp#gallery|Player Version]]
 
 ### 1. Hook Horrors
 
-The characters hear clacking noises as they approach this point in the passageway. Suddenly, two [hook horrors](/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md) dash from the side passage, moving from area 2A toward area 3. The hook horrors attack only in self-defense and are more afraid of the giggling, rampaging gnolls than they are of the characters.
+The characters hear clacking noises as they approach this point in the passageway. Suddenly, two [[/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm|hook horrors]] dash from the side passage, moving from area 2A toward area 3. The hook horrors attack only in self-defense and are more afraid of the giggling, rampaging gnolls than they are of the characters.
 
 The gnolls are two chambers behind the hook horrors, reaching this point on the following round, unless the characters move toward them (in which case the two groups converge in area 2A).
 
 ### 2A. Gnoll Hunters
 
-Four [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) move into this area the round after the hook horrors move past the party, then follow their quarry into area 1 on the following round.
+Four [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] move into this area the round after the hook horrors move past the party, then follow their quarry into area 1 on the following round.
 
 The gnolls can't resist attacking any other creatures that cross their path while shrieking "Sacrifices for Yeenoghu!" in their own tongue. (Even if no one in the party speaks Gnoll, the name of the demon lord is clearly recognizable.)
 
@@ -895,7 +895,7 @@ Sounds of combat or calls from the gnolls might attract their pack mates in area
 
 ### 2B. Gnoll Hunters
 
-The rest of the gnoll hunters race through these caverns in search of the hook horrors. Unless they are drawn elsewhere, four [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and a [gnoll pack lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) are here.
+The rest of the gnoll hunters race through these caverns in search of the hook horrors. Unless they are drawn elsewhere, four [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] and a [[/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm|gnoll pack lord]] are here.
 
 #### Treasure
 
@@ -905,13 +905,13 @@ The gnoll pack lord carries two bloodstones worth 50 gp each and a brown tourmal
 
 The fleeing hook horrors make their way here, where they wait in ambush for any creatures that follow them. The passage is narrow enough that Medium creatures must move single file through it. The cave appears to be a dead end, and the hook horrors fight to the death against any creatures that enter.
 
-Characters who take the time to search the cave spot a hole in the 10-foot-high ceiling (marked C on the map), which requires a successful DC 12 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to climb up into. It leads to area 4.
+Characters who take the time to search the cave spot a hole in the 10-foot-high ceiling (marked C on the map), which requires a successful DC 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to climb up into. It leads to area 4.
 
 ### 4. Hook Horror Nest
 
 The sandy floor of this cavern holds a clutch of four 1-foot-diameter eggs with rocky outer shells, all half-buried in a shallow pit. These are hook horror eggs, and any character that touches an egg can feel it trembling.
 
-Each hour, there is a 10 percent chance that one of the eggs hatches. The [infant hook horror](/03_Mechanics/CLI/bestiary/monstrosity/infant-hook-horror-oota.md) that emerges imprints on the first creature it sees. It thereafter follows that creature around like its parent, demanding to be fed. If the characters manage to keep the hook horror alive, it eventually reaches adulthood after six months. Track its growth using the Hook Horror Maturation table.
+Each hour, there is a 10 percent chance that one of the eggs hatches. The [[/03_Mechanics/CLI/bestiary/monstrosity/infant-hook-horror-oota|infant hook horror]] that emerges imprints on the first creature it sees. It thereafter follows that creature around like its parent, demanding to be fed. If the characters manage to keep the hook horror alive, it eventually reaches adulthood after six months. Track its growth using the Hook Horror Maturation table.
 
 #### Hook Horror Maturation
 
@@ -927,7 +927,7 @@ Each hour, there is a 10 percent chance that one of the eggs hatches. The [infan
 
 The gnolls have a small camp set up here to prevent the hook horrors from fleeing in this direction.
 
-Three [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) guard the camp and attack any creatures emerging from the tunnels that are not of their kind.
+Three [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] guard the camp and attack any creatures emerging from the tunnels that are not of their kind.
 
 ## The Oozing Temple
 
@@ -941,16 +941,16 @@ A tremor causes a cave-in and traps the adventurers in a maze of tunnels with no
 > 
 > **Air.** The air is stale and perceptibly thin. The temple contains enough air for the oozes, plus 160 hours of breathable air for one creature, divided by the number of creatures present. For example, a party of four adventurers has 40 hours of air. Characters who are at rest and not undertaking activities such as moving or fighting consume half as much air.
 > 
-> Once half of the breathable air is consumed, the characters suffer one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) (see "appendix A" of the *Player's Handbook*). For each additional 10 percent of the air used up, the characters suffer one additional level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion). At 90 percent, the characters are unable to move. When the air is used up, they die. Once the first level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) sets in, the characters become aware that they are running out of air, and know roughly how much they have left.
+> Once half of the breathable air is consumed, the characters suffer one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see "appendix A" of the *Player's Handbook*). For each additional 10 percent of the air used up, the characters suffer one additional level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. At 90 percent, the characters are unable to move. When the air is used up, they die. Once the first level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] sets in, the characters become aware that they are running out of air, and know roughly how much they have left.
 > 
-> A lit torch or its equivalent uses up air as a character does. Briefer but hotter magical effects consume 1 hour of air per die of fire damage per round. For example, a [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) spell that deals `8d6` fire damage consumes 8 hours of air, while a [fire bolt](/03_Mechanics/CLI/spells/fire-bolt-xphb.md) that deals `d10` fire damage consumes 1 hour of air per use.
+> A lit torch or its equivalent uses up air as a character does. Briefer but hotter magical effects consume 1 hour of air per die of fire damage per round. For example, a [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]] spell that deals `8d6` fire damage consumes 8 hours of air, while a [[/03_Mechanics/CLI/spells/fire-bolt-xphb|fire bolt]] that deals `d10` fire damage consumes 1 hour of air per use.
 > 
 > **Water.** In addition to running low on air, the characters become aware that the tunnels and chambers are filling with water flowing in from area 6. The water rises at a rate of 1 foot per hour, meaning most of the tunnels and chambers will be completely flooded within 10 hours. Areas filled with waist-deep water are difficult terrain for the characters. Once the water is over their heads, they have to swim.
 ^the-oozing-temple-general-features
 
 > [!gallery]
-> ![Map 2.3: The Oozing Temple](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/016-02-07.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/017-oozing-temple-player-version.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/016-02-07.webp#gallery|Map 2.3: The Oozing Temple]]
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/017-oozing-temple-player-version.webp#gallery|Player Version]]
 
 ### 1. Boxed In
 
@@ -962,7 +962,7 @@ Once the dust clears, the characters realize that fallen rock has buried both en
 
 Whether finished stone or rough rock, the walls of these 10-foot-high areas glisten with dark, dripping water.
 
-Each of these keyed areas holds a [gray ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) that pours through cracks in the ceiling to attack any creatures that enter.
+Each of these keyed areas holds a [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray ooze]] that pours through cracks in the ceiling to attack any creatures that enter.
 
 ### 3. Glabbagool
 
@@ -970,15 +970,15 @@ Each of these keyed areas holds a [gray ooze](/03_Mechanics/CLI/bestiary/ooze/gr
 
 This area contains the skeletal remains of a drow, along with a dark metal mace and a scattering of coins. However, the characters are quick to notice that these items appear to hover above the stone floor.
 
-All the visible items are trapped within the body of a [gelatinous cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) named [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md)—or at least, that's what it has chosen to call itself. Unlike most gelatinous cubes, this monster has an Intelligence of 10 (+0) and telepathy out to a range of 60 feet (see the *Monster Manual* introduction for telepathy rules).
+All the visible items are trapped within the body of a [[/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm|gelatinous cube]] named [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]]—or at least, that's what it has chosen to call itself. Unlike most gelatinous cubes, this monster has an Intelligence of 10 (+0) and telepathy out to a range of 60 feet (see the *Monster Manual* introduction for telepathy rules).
 
-Juiblex's arrival in the Underdark has granted [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) sentience and awareness. The ooze is genuinely curious about other creatures and wants to learn more about the world. It defends itself if attacked, but doesn't otherwise try to harm the characters, instead asking who they are, where they come from, and why they have come to the temple.
+Juiblex's arrival in the Underdark has granted [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]] sentience and awareness. The ooze is genuinely curious about other creatures and wants to learn more about the world. It defends itself if attacked, but doesn't otherwise try to harm the characters, instead asking who they are, where they come from, and why they have come to the temple.
 
-Other oozes won't attack [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md), so it can block a passageway to help the adventurers fend them off. However, the cube can't safely move past characters in a passageway. [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) might ask to accompany the adventurers if it likes or is intrigued by them. Unfortunately, the ooze's speed of 15 feet means that characters accompanied by it can travel only at a slow place (see "Travel Pace" at the beginning of this chapter).
+Other oozes won't attack [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]], so it can block a passageway to help the adventurers fend them off. However, the cube can't safely move past characters in a passageway. [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]] might ask to accompany the adventurers if it likes or is intrigued by them. Unfortunately, the ooze's speed of 15 feet means that characters accompanied by it can travel only at a slow place (see "Travel Pace" at the beginning of this chapter).
 
 #### Treasure
 
-[Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md)'s body contains a mace along with 14 ep and the mostly digested body of a drow. It will disgorge the items for the characters if they win its trust.
+[[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]]'s body contains a mace along with 14 ep and the mostly digested body of a drow. It will disgorge the items for the characters if they win its trust.
 
 The mace is a common magic item. While attuned the weapon, its wielder can use an action to make the head of the mace alight with green flame, or use an action to extinguish the flame. While the mace is "lit," it glows as brightly as a torch and deals an extra 1 fire damage on a hit.
 
@@ -988,21 +988,21 @@ This chamber is divided into four hallways and floored with heavy flagstones, th
 
 #### Trap
 
-The squares marked on the map have been undermined, leaving a 10-foot-deep pit beneath each one. A successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check enables a character to notice that the stone is weakened.
+The squares marked on the map have been undermined, leaving a 10-foot-deep pit beneath each one. A successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check enables a character to notice that the stone is weakened.
 
-More than 50 pounds of weight on an undermined area causes it to collapse. A creature standing in the area must succeed on a DC 11 Dexterity saving throw to grab the edge of the pit, after which the creature must succeed on a DC 11 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to scramble out. On a failed saving throw or a failed check, the creature falls into the pit and takes `d6` bludgeoning damage.
+More than 50 pounds of weight on an undermined area causes it to collapse. A creature standing in the area must succeed on a DC 11 Dexterity saving throw to grab the edge of the pit, after which the creature must succeed on a DC 11 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to scramble out. On a failed saving throw or a failed check, the creature falls into the pit and takes `d6` bludgeoning damage.
 
-At the bottom of each pit is a [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md), which attacks any creature that falls in. If denied a victim, or if it devours a fallen creature quickly, the pudding climbs up the sides to attack any dangling creatures, or to move into the hallway in search of prey.
+At the bottom of each pit is a [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|black pudding]], which attacks any creature that falls in. If denied a victim, or if it devours a fallen creature quickly, the pudding climbs up the sides to attack any dangling creatures, or to move into the hallway in search of prey.
 
 ### 5. Fountain of Madness
 
 This room contains a stone fountain with a raised edge. The basin contains shallow, brackish water. At the center of the pool, the rubble of a broken statue rest atop a pedestal. All that remains recognizable are a pair of clawed stone feet clutching the pedestal's top. Carved into the walls are seven niches. Water seeps into one niche through a crack in the wall. The two niches that flank it are empty. Strange, formless sculptures occupy the four remaining niches.
 
-The "sculptures" are actually four [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) held in magical stasis. They liquefy and attack when any one of them is touched or damaged.
+The "sculptures" are actually four [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray oozes]] held in magical stasis. They liquefy and attack when any one of them is touched or damaged.
 
 #### Treasure
 
-Hidden beneath the dark waters of the fountain are 112 sp, 41 gp, three green-gold bracelets worth 25 gp each, a drow [+1 dagger](/03_Mechanics/CLI/items/1-weapon-xdmg.md) (the hilt has a spider design), a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), and a vial containing [oil of slipperiness](/03_Mechanics/CLI/items/oil-of-slipperiness-xdmg.md).
+Hidden beneath the dark waters of the fountain are 112 sp, 41 gp, three green-gold bracelets worth 25 gp each, a drow [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 dagger]] (the hilt has a spider design), a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]], and a vial containing [[/03_Mechanics/CLI/items/oil-of-slipperiness-xdmg|oil of slipperiness]].
 
 ### 6. Water Chamber
 
@@ -1012,7 +1012,7 @@ The water rises at a rate of 1 foot per hour until the tunnels are completely fl
 
 #### Development
 
-If [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) is with the party, the intelligent gelatinous cube floats upward as the water rises and squeezes through a crack in the ceiling to escape the flooded temple and remain with the characters.
+If [[/03_Mechanics/CLI/bestiary/npc/glabbagool-oota|Glabbagool]] is with the party, the intelligent gelatinous cube floats upward as the water rises and squeezes through a crack in the ceiling to escape the flooded temple and remain with the characters.
 
 ## Lost Tomb of Khaem
 
@@ -1033,16 +1033,16 @@ The characters receive an impression of the direction to the entrance of the tom
 > 
 > **Ceilings.** Room ceilings are 15 feet high. The hallways connecting them are 10 feet high.
 > 
-> **Doors.** Each door in the tomb is a 10-foot-by-10-foot slab of solid marble encased in a thin layer of beaten bronze. The bronze has turned green with age. The door pivots on a central axis, creating narrow openings on either side while open. The door is also heavy and tight-fitting, requiring a DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to open or close.
+> **Doors.** Each door in the tomb is a 10-foot-by-10-foot slab of solid marble encased in a thin layer of beaten bronze. The bronze has turned green with age. The door pivots on a central axis, creating narrow openings on either side while open. The door is also heavy and tight-fitting, requiring a DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to open or close.
 > 
 > **Light.** Except as otherwise noted, the interior of the tomb is dark.
 > 
-> **Chaotic Magic.** The tomb was crafted during an age of high magic, and it has become suffused with *faerzress*. The ancient and chaotic energy now permeating the structure causes any spell cast within the tomb to trigger a roll on the Wild Magic Surge table in chapter 3, "[Classes](/03_Mechanics/CLI/tables/wild-magic-surge-phb.md)," of the *Player's Handbook*.
+> **Chaotic Magic.** The tomb was crafted during an age of high magic, and it has become suffused with *faerzress*. The ancient and chaotic energy now permeating the structure causes any spell cast within the tomb to trigger a roll on the Wild Magic Surge table in chapter 3, "[[/03_Mechanics/CLI/tables/wild-magic-surge-phb|Classes]]," of the *Player's Handbook*.
 ^lost-tomb-of-khaem-general-features
 
 > [!gallery]
-> ![Map 2.4: The Lost Tomb](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/019-02-08.webp#gallery)
-> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/020-the-lost-tomb-player-version.webp#gallery)
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/019-02-08.webp#gallery|Map 2.4: The Lost Tomb]]
+> ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/020-the-lost-tomb-player-version.webp#gallery|Player Version]]
 
 ### 1. Entrance Room
 
@@ -1056,15 +1056,15 @@ Across from the entrance, empty stone torch sconces flank a dusty staircase desc
 
 The stairs lead down to this shrine, where shreds of dusty tapestries lie scattered across the floor. Friezes on the walls are defaced with deep gouges, making them unrecognizable. An altar of pale gray marble stands gouged and cracked against one wall.
 
-A successful DC 13 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check reveals that the damage to this room is relatively recent, and that the creatures that caused it left no tracks of any kind in the layer of dust on the floor.
+A successful DC 13 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check reveals that the damage to this room is relatively recent, and that the creatures that caused it left no tracks of any kind in the layer of dust on the floor.
 
 ### 3. Servants' Sarcophagi
 
-Four stone sarcophagi mark the resting places of Brysis's most faithful servants. The lid of each sarcophagus bears the sculpted image of a robed human figure in repose. Brysis's four servants have arisen at her command as [specters](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md). If anyone touches or otherwise disturbs a sarcophagus, all four specters emerge from their sarcophagi, howling in fury, and attack. The specters can pursue their prey beyond the confines of the tomb, if necessary.
+Four stone sarcophagi mark the resting places of Brysis's most faithful servants. The lid of each sarcophagus bears the sculpted image of a robed human figure in repose. Brysis's four servants have arisen at her command as [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specters]]. If anyone touches or otherwise disturbs a sarcophagus, all four specters emerge from their sarcophagi, howling in fury, and attack. The specters can pursue their prey beyond the confines of the tomb, if necessary.
 
 Opening a sarcophagus lid requires a successful DC 17 Strength check and reveals treasure within (see "Treasure").
 
-A character inspecting the northeast sarcophagus and succeeding on a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check notices that the sarcophagus is built on hidden stone rollers. It can be moved aside with a successful DC 10 Strength check to reveal a 4-foot-square hole in the floor, and in the ceiling of a similarly sized chamber directly below this one (area 5). If the characters move the sarcophagus but leave the chamber without exploring the tomb below, they hear the same telepathic voice that called out to them initially, saying, "Please! Don't leave! I'm here, below!"
+A character inspecting the northeast sarcophagus and succeeding on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check notices that the sarcophagus is built on hidden stone rollers. It can be moved aside with a successful DC 10 Strength check to reveal a 4-foot-square hole in the floor, and in the ceiling of a similarly sized chamber directly below this one (area 5). If the characters move the sarcophagus but leave the chamber without exploring the tomb below, they hear the same telepathic voice that called out to them initially, saying, "Please! Don't leave! I'm here, below!"
 
 #### Treasure
 
@@ -1082,19 +1082,19 @@ The southeast sarcophagus contains a gold censer with platinum filigree worth 25
 
 Stone blocks standing against the western and eastern walls are carved with niches, inside which rest a dozen clay canopic jars containing desiccated organs. These organs belong to Brysis's servants, who are entombed in area 4.
 
-In the middle of the room rests a wide stone sarcophagus atop a black marble bier. The lid of the sarcophagus is inlaid with dust-covered mosaics depicting great floating cities high above a beautiful landscape. The lid of the sarcophagus looks incredibly heavy but is made lighter by an ancient spell that has survived to this day. The lid can be pushed aside with a successful DC 10 Strength check. The sarcophagus contains a life-sized statue of Brysis, sculpted and painted to make it appear that she is sleeping comfortably. The statue is affixed to the inside of the sarcophagus with [sovereign glue](/03_Mechanics/CLI/items/sovereign-glue-xdmg.md) and can't be moved. There is no treasure to be found.
+In the middle of the room rests a wide stone sarcophagus atop a black marble bier. The lid of the sarcophagus is inlaid with dust-covered mosaics depicting great floating cities high above a beautiful landscape. The lid of the sarcophagus looks incredibly heavy but is made lighter by an ancient spell that has survived to this day. The lid can be pushed aside with a successful DC 10 Strength check. The sarcophagus contains a life-sized statue of Brysis, sculpted and painted to make it appear that she is sleeping comfortably. The statue is affixed to the inside of the sarcophagus with [[/03_Mechanics/CLI/items/sovereign-glue-xdmg|sovereign glue]] and can't be moved. There is no treasure to be found.
 
 #### Trap
 
-Opening the sarcophagus triggers a [magic mouth](/03_Mechanics/CLI/spells/magic-mouth-xphb.md) spell that calls out in a booming voice, "You have disturbed the tomb of Brysis of Khaem! Accursed are you, most miserable of creatures!" Each creature in the room, whether it hears the booming voice or not, must make a DC 15 Charisma saving throw. On a failure, the creature is cursed with disadvantage on attack rolls and saving throws. The creature can repeat the saving throw after 24 hours have elapsed, ending the effect on itself with a successful save. Otherwise, a [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell ends this effect, as does destroying the wraith in area 5.
+Opening the sarcophagus triggers a [[/03_Mechanics/CLI/spells/magic-mouth-xphb|magic mouth]] spell that calls out in a booming voice, "You have disturbed the tomb of Brysis of Khaem! Accursed are you, most miserable of creatures!" Each creature in the room, whether it hears the booming voice or not, must make a DC 15 Charisma saving throw. On a failure, the creature is cursed with disadvantage on attack rolls and saving throws. The creature can repeat the saving throw after 24 hours have elapsed, ending the effect on itself with a successful save. Otherwise, a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell ends this effect, as does destroying the wraith in area 5.
 
-If Brysis's wraith is destroyed, both the [magic mouth](/03_Mechanics/CLI/spells/magic-mouth-xphb.md) and the curse on the sarcophagus cease to function.
+If Brysis's wraith is destroyed, both the [[/03_Mechanics/CLI/spells/magic-mouth-xphb|magic mouth]] and the curse on the sarcophagus cease to function.
 
 ### 5. True Tomb
 
-Brysis's true tomb is hidden below area 3 and has murals on the walls decorated with rich pigments and inlays of semiprecious stones. A gilded sarcophagus stands atop a stone bier along the west wall. An [invisible](/03_Mechanics/CLI/conditions.md#Invisible) stone chest rests at the foot of the sarcophagus. Characters searching the area thoroughly locate the chest. The chest becomes visible within an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md), and a successful [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) also ends the [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) effect.
+Brysis's true tomb is hidden below area 3 and has murals on the walls decorated with rich pigments and inlays of semiprecious stones. A gilded sarcophagus stands atop a stone bier along the west wall. An [[/03_Mechanics/CLI/conditions#Invisible|invisible]] stone chest rests at the foot of the sarcophagus. Characters searching the area thoroughly locate the chest. The chest becomes visible within an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]], and a successful [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]] (DC 19) also ends the [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] effect.
 
-Brysis of Khaem has arisen as a murderous [wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md), bound to her tomb until she can steal enough life force to leave it. She arises from within the sarcophagus and attacks when creatures enter this chamber. She gloats about how the characters' deaths will free her from this prison, and how her victims will serve her even in death.
+Brysis of Khaem has arisen as a murderous [[/03_Mechanics/CLI/bestiary/undead/wraith-xmm|wraith]], bound to her tomb until she can steal enough life force to leave it. She arises from within the sarcophagus and attacks when creatures enter this chamber. She gloats about how the characters' deaths will free her from this prison, and how her victims will serve her even in death.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/021-ooa02-15.webp#center)
 
@@ -1102,9 +1102,9 @@ On initiative count 1 in the round in which Brysis attacks, the characters hear 
 
 #### Treasure
 
-The thin gold sheath covering Brysis's sarcophagus can be pried loose and is worth 250 gp. Inside the stone sarcophagus, lying atop Brysis's withered and mummified corpse, is a magic sword called [Dawnbringer](/03_Mechanics/CLI/items/dawnbringer-oota.md) (see appendix B). This intelligent weapon is the source of the telepathic messages.
+The thin gold sheath covering Brysis's sarcophagus can be pried loose and is worth 250 gp. Inside the stone sarcophagus, lying atop Brysis's withered and mummified corpse, is a magic sword called [[/03_Mechanics/CLI/items/dawnbringer-oota|Dawnbringer]] (see appendix B). This intelligent weapon is the source of the telepathic messages.
 
-The stone chest is unlocked and contains the other treasures Brysis took with her into the afterlife: 4,000 sp, 1,200 gp, eleven zircons (worth 50 gp each), a [necklace of fireballs](/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg.md), a [philter of love](/03_Mechanics/CLI/items/philter-of-love-xdmg.md), and a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
+The stone chest is unlocked and contains the other treasures Brysis took with her into the afterlife: 4,000 sp, 1,200 gp, eleven zircons (worth 50 gp each), a [[/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg|necklace of fireballs]], a [[/03_Mechanics/CLI/items/philter-of-love-xdmg|philter of love]], and a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]].
 
 ## Player-Facing Summary
 

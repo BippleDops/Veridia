@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution|02 Worldbuilding/Lore/Temporal Anomaly Resolution]]
 
 
 ## Connections

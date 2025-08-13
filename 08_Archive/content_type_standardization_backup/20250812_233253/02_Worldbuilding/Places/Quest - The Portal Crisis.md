@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Portal Crisis]]
+- [[02_Worldbuilding/Places/Quest - The Portal Crisis|02 Worldbuilding/Places/Quest The Portal Crisis]]
 
 <!-- enriched: true -->
 

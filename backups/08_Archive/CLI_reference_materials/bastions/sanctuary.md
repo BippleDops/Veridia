@@ -24,7 +24,7 @@ status: active
 # Sanctuary
 *Level 5 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: craft
@@ -33,11 +33,11 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 
 ## Sanctuary Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [Charm](/03_Mechanics/CLI/rewards/sanctuary-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Healing Word](/03_Mechanics/CLI/spells/healing-word-xphb.md) once without expending a spell slot. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[/03_Mechanics/CLI/rewards/sanctuary-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[/03_Mechanics/CLI/spells/healing-word-xphb|Healing Word]] once without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Craft: Sacred Focus
 
-When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) ([wooden staff](/03_Mechanics/CLI/items/wooden-staff-xphb.md)) or a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
+When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] ([[/03_Mechanics/CLI/items/wooden-staff-xphb|wooden staff]]) or a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]]. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
 *Source: Dungeon Master's Guide (2024) p. 345*
 

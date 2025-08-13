@@ -166,6 +166,6 @@ Legends speak of Vault Maintenance Checklist as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Maintenance Checklist]]
+- [[02_Worldbuilding/Places/Vault Maintenance Checklist|02 Worldbuilding/Places/Vault Maintenance Checklist]]
 
 <!-- enriched: true -->

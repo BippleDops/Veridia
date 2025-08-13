@@ -22,10 +22,10 @@ established: Ancient natural phenomenon, organized 400+ years ago
 created: 2025-08-08
 updated: 2025-08-11
 related_entities:
-- '[[02_Worldbuilding/Groups/Current Riders Guild]]'
-- '[[02_Worldbuilding/Places/Abyssos Prime]]'
-- '[[02_Worldbuilding/Places/New Tethys]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]'
+- '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
+- '[[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
 ---
 
 > [!figure] View
@@ -40,27 +40,27 @@ related_entities:
 
 ## Overview
 
-Free Current represents the largest and most important transportation network in [[02_Worldbuilding/Places/Aquabyssos]], a vast system of interconnected underwater currents that serves as both highway and community for the realm's inhabitants. Unlike the controlled and monitored transportation systems of major cities, Free Current operates on principles of mutual aid, collective governance, and open access to all who respect its customs and contribute to its maintenance.
+Free Current represents the largest and most important transportation network in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], a vast system of interconnected underwater currents that serves as both highway and community for the realm's inhabitants. Unlike the controlled and monitored transportation systems of major cities, Free Current operates on principles of mutual aid, collective governance, and open access to all who respect its customs and contribute to its maintenance.
 
-More than just a series of water flows, Free Current has evolved into a unique society unto itself - a mobile civilization of traders, travelers, refugees, adventurers, and free spirits who have chosen the nomadic life of the eternal journey over the settled existence of the great cities. The Current flows through nearly every major region of [[02_Worldbuilding/Places/Aquabyssos]], connecting disparate communities and serving as a vital conduit for commerce, communication, and cultural exchange.
+More than just a series of water flows, Free Current has evolved into a unique society unto itself - a mobile civilization of traders, travelers, refugees, adventurers, and free spirits who have chosen the nomadic life of the eternal journey over the settled existence of the great cities. The Current flows through nearly every major region of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], connecting disparate communities and serving as a vital conduit for commerce, communication, and cultural exchange.
 
 The name "Free Current" reflects both its political independence from any major power and its foundational principle that movement through the depths should be available to all, regardless of social status, political affiliation, or economic means. This philosophy has created a remarkable experiment in underwater democracy and communal living that continues to thrive after four centuries of operation.
 
 ## Geographic Scope & Layout
 
 ### The Great Circle Route
-The primary flow of Free Current forms an enormous circular pattern that encompasses most of [[02_Worldbuilding/Places/Aquabyssos]], connecting major population centers while maintaining enough independence to avoid direct government control.
+The primary flow of Free Current forms an enormous circular pattern that encompasses most of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], connecting major population centers while maintaining enough independence to avoid direct government control.
 
 #### Northern Loop
 **Distance**: ~600 miles  
-**Key Stops**: [[02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/New Tethys]], The Kelp Highway junction
+**Key Stops**: [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]], The Kelp Highway junction
 **Characteristics**: Fastest-flowing section, heavily traveled by commercial traffic
 **Depth Range**: 800-1,200 feet below surface
 **Hazards**: Occasional pressure variations, heavy traffic congestion
 
 #### Eastern Reach  
 **Distance**: ~500 miles
-**Key Stops**: [[02_Worldbuilding/Places/The Memory Meadows]], Whisper Island trading posts, Coral Court territories
+**Key Stops**: [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]], Whisper Island trading posts, Coral Court territories
 **Characteristics**: Meandering flow through scenic underwater landscapes
 **Depth Range**: 600-1,000 feet below surface  
 **Features**: Memory crystal formations, artistic underwater sculptures, meditation zones
@@ -74,7 +74,7 @@ The primary flow of Free Current forms an enormous circular pattern that encompa
 
 #### Western Deep
 **Distance**: ~450 miles  
-**Key Stops**: Ancient ruins, [[02_Worldbuilding/Lore/The Deep Mother]] shrine sites, research outposts
+**Key Stops**: Ancient ruins, [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] shrine sites, research outposts
 **Characteristics**: Mysterious and spiritual, lowest traffic volume
 **Depth Range**: 1,200-2,000+ feet below surface
 **Dangers**: Unpredictable depth changes, ancient guardian entities, reality distortions
@@ -190,7 +190,7 @@ Smaller governing bodies for specific sections of the current:
 - Supply depot for emergency situations
 
 ###### Memory Falls Junction
-**Location**: Near [[02_Worldbuilding/Places/The Memory Meadows]]
+**Location**: Near [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]
 **Population**: 600 permanent residents, 150-300 daily visitors
 **Specialties**: Cultural exchange, artistic collaboration, memory-based services
 **Features**:
@@ -245,7 +245,7 @@ Smaller governing bodies for specific sections of the current:
 **Contents**: 
 - Historical records of current development and governance
 - Technical manuals for current maintenance and navigation
-- Cultural archives from communities throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- Cultural archives from communities throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Research materials on underwater ecology and current dynamics
 **Access**: Open to all, maintained by volunteer librarians
 
@@ -272,7 +272,7 @@ Smaller governing bodies for specific sections of the current:
 ### External Pressures
 
 #### Government Interference
-Various [[02_Worldbuilding/Places/Aquabyssos]] city-states and political entities occasionally attempt to regulate or tax Free Current operations:
+Various [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] city-states and political entities occasionally attempt to regulate or tax Free Current operations:
 - **Trade Restrictions**: Requirements for permits and documentation
 - **Territorial Claims**: Disputes over current routes passing through claimed waters
 - **Military Presence**: Naval patrols monitoring current traffic
@@ -329,7 +329,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 **Bulk Goods**: Large-scale transport of raw materials and commodities
 **Specialized Freight**: Dangerous, fragile, or time-sensitive cargo
 **Personal Effects**: Moving services for individuals relocating
-**Mail Delivery**: Communication services throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Mail Delivery**: Communication services throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 
 ### Support Industries
 
@@ -394,7 +394,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 #### Professional Services
 **Navigation Guidance**: 5-20 gold per day depending on route complexity
 **Emergency Rescue**: Available at cost, payment often in form of future service
-**Communication Services**: Message delivery throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Communication Services**: Message delivery throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 **Technical Expertise**: Consultation on current-related engineering problems
 
 #### Accommodation and Supplies
@@ -479,19 +479,19 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 ## Connected Elements
 
 ### Direct Connections
-- **[[02_Worldbuilding/Groups/Current Riders Guild]]**: Professional organization providing navigation services
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Major destination connected by Northern Loop
-- **[[02_Worldbuilding/Places/New Tethys]]**: Important stop along primary current route
-- **[[02_Worldbuilding/Places/The Memory Meadows]]**: Cultural exchange point on Eastern Reach
+- **[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]**: Professional organization providing navigation services
+- **[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]**: Major destination connected by Northern Loop
+- **[[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]**: Important stop along primary current route
+- **[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]**: Cultural exchange point on Eastern Reach
 
 ### Secondary Connections  
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Government body that occasionally regulates Current activities
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Spiritual sites along Western Deep attract religious pilgrims
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Monitoring stations provide early warning for dangerous phenomena
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Commercial competition for transportation services
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Government body that occasionally regulates Current activities
+- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Spiritual sites along Western Deep attract religious pilgrims
+- **[[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]**: Monitoring stations provide early warning for dangerous phenomena
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Commercial competition for transportation services
 
 ### Cultural Connections
-- **Migration Routes**: Free Current facilitates movement between all major [[02_Worldbuilding/Places/Aquabyssos]] communities
+- **Migration Routes**: Free Current facilitates movement between all major [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] communities
 - **Trade Networks**: Essential infrastructure for inter-regional commerce
 - **Communication Systems**: Primary method for long-distance message delivery
 - **Cultural Exchange**: Promotes understanding between diverse underwater cultures
@@ -501,7 +501,7 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 ### Campaign Integration
 - **Travel Hub**: Perfect mechanism for connecting disparate adventure locations
 - **Social Laboratory**: Explores themes of democracy, cooperation, and freedom
-- **Cultural Melting Pot**: Introduces characters from throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Cultural Melting Pot**: Introduces characters from throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - **Mobile Base**: Can serve as headquarters for traveling adventuring parties
 - **Political Neutral Ground**: Safe space for negotiations and diplomatic meetings
 
@@ -549,6 +549,6 @@ Legends speak of Free Current as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Free Current|02 Worldbuilding/Places/Free Current]]
 
 <!-- enriched: true -->

@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Marcus Clausewright]]
+- [[02_Worldbuilding/Places/Marcus Clausewright|02 Worldbuilding/Places/Marcus Clausewright]]
 
 <!-- enriched: true -->

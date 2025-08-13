@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark|02 Worldbuilding/People/Elder Whisper In The Dark]]
 
 
 ## Connections

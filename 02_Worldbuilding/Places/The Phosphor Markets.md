@@ -32,10 +32,10 @@ The Phosphor Markets are a massive floating collection of bioluminescent platfor
 Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
 
 ### The Glow Gardens
-Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[02_Worldbuilding/Places/Lumengarde]].
+Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]].
 
 ### The Deep Bazaar
-Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[02_Worldbuilding/Places/The Cerulean Trench]] and [[The Hadal Depths]].
+Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]] and [[The Hadal Depths]].
 
 ### The Memory Lane
 Section dedicated to pre-drowning artifacts and memories. [[Antiquarian Eliza Tidecaller]] authenticates items while [[Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
@@ -83,7 +83,7 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 ### Black Market Goods
 - Deepmind artifacts
 - Forbidden metamorphosis procedures
-- Weapons from [[02_Worldbuilding/Places/Pressure's End]]
+- Weapons from [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 - Stolen religious relics
 - Slaves (officially banned, still happens)
 
@@ -96,10 +96,10 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 
 ## The Mobile Nature
 The market moves on a semi-predictable route:
-1. Near [[02_Worldbuilding/Places/New Tethys]] - Days 1-7
-2. [[02_Worldbuilding/Places/Lumengarde]] vicinity - Days 8-14
+1. Near [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Days 1-7
+2. [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] vicinity - Days 8-14
 3. Open water trading - Days 15-21
-4. Near [[02_Worldbuilding/Places/The Wandering Atoll]] - Days 22-28
+4. Near [[02_Worldbuilding/Places/The Wandering Atoll|02 Worldbuilding/Places/The Wandering Atoll]] - Days 22-28
 5. Deep water mysterious stop - Day 29-30
 
 ## Demographics
@@ -193,10 +193,10 @@ The market moves on a semi-predictable route:
 **Epic Level (16-20)**: Handle reality-bending economics, divine intervention, and multidimensional commerce
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/New Tethys]] - Major trading partner
-- [[02_Worldbuilding/Places/Lumengarde]] - Biological goods source
-- [[02_Worldbuilding/Places/The Wandering Atoll]] - Occasional meeting point
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Source of rare goods
+- [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] - Major trading partner
+- [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]] - Biological goods source
+- [[02_Worldbuilding/Places/The Wandering Atoll|02 Worldbuilding/Places/The Wandering Atoll]] - Occasional meeting point
+- [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]] - Source of rare goods
 
 ## Environmental Hazards & Challenges
 
@@ -434,7 +434,7 @@ Secret level where illegal goods are processed and distributed:
 
 - [[Abyssos Prime - Pressure Terminal]]
 - [[Amnesia Gallery]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -456,7 +456,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]]
 
 <!-- enriched: true -->
 - [[Banker Titus Goldcurrent]]

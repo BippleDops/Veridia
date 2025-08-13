@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
+- [[02_Worldbuilding/Groups/Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
 
 
 ## Connections

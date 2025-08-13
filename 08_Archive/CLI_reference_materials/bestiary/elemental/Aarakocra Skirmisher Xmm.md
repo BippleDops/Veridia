@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-skirmisher-xmm-aarakocra-skirmisher-xmm.svg)
 
-# [Aarakocra Skirmisher](3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm|Aarakocra Skirmisher]]
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra skirmishers are adept at fighting aerial foes amid the clouds. They often attack land-bound threats with diving strikes from above.
@@ -59,7 +59,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Aarakocra, Primordial (Auran)"

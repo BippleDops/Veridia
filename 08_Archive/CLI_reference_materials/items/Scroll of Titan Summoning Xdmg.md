@@ -28,32 +28,32 @@ world: Both
 
 
 
-When you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below.
+When you take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below.
 
-The titan is [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The titan is [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 `dice: [](scroll-of-titan-summoning-xdmg.md#^1-titan)`
 
 | dice: 1d100 | Titan |
 |-------------|-------|
-| 01-15 | [Animal Lord](/03_Mechanics/CLI/items/scroll-of-titan-summoning-animal-lord-xdmg.md) |
-| 16-30 | [Blob of Annihilation](/03_Mechanics/CLI/items/scroll-of-titan-summoning-blob-of-annihilation-xdmg.md) |
-| 31-45 | [Colossus](/03_Mechanics/CLI/items/scroll-of-titan-summoning-colossus-xdmg.md) |
-| 46-60 | [Elemental Cataclysm](/03_Mechanics/CLI/items/scroll-of-titan-summoning-elemental-cataclysm-xdmg.md) |
-| 61-75 | [Empyrean](/03_Mechanics/CLI/items/scroll-of-titan-summoning-empyrean-xdmg.md) |
-| 76-90 | [Kraken](/03_Mechanics/CLI/items/scroll-of-titan-summoning-kraken-xdmg.md) (a kraken requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted) |
-| 91-100 | [Tarrasque](/03_Mechanics/CLI/items/scroll-of-titan-summoning-tarrasque-xdmg.md) |
+| 01-15 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-animal-lord-xdmg|Animal Lord]] |
+| 16-30 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-blob-of-annihilation-xdmg|Blob of Annihilation]] |
+| 31-45 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-colossus-xdmg|Colossus]] |
+| 46-60 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-elemental-cataclysm-xdmg|Elemental Cataclysm]] |
+| 61-75 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-empyrean-xdmg|Empyrean]] |
+| 76-90 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-kraken-xdmg|Kraken]] (a kraken requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted) |
+| 91-100 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-tarrasque-xdmg|Tarrasque]] |
 ^1-titan
 
 **Items in this group:**
 
-- [Scroll of Titan Summoning (Animal Lord)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-animal-lord-xdmg.md)
-- [Scroll of Titan Summoning (Blob of Annihilation)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-blob-of-annihilation-xdmg.md)
-- [Scroll of Titan Summoning (Colossus)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-colossus-xdmg.md)
-- [Scroll of Titan Summoning (Elemental Cataclysm)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-elemental-cataclysm-xdmg.md)
-- [Scroll of Titan Summoning (Empyrean)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-empyrean-xdmg.md)
-- [Scroll of Titan Summoning (Kraken)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-kraken-xdmg.md)
-- [Scroll of Titan Summoning (Tarrasque)](/03_Mechanics/CLI/items/scroll-of-titan-summoning-tarrasque-xdmg.md)
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-animal-lord-xdmg|Scroll of Titan Summoning (Animal Lord)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-blob-of-annihilation-xdmg|Scroll of Titan Summoning (Blob of Annihilation)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-colossus-xdmg|Scroll of Titan Summoning (Colossus)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-elemental-cataclysm-xdmg|Scroll of Titan Summoning (Elemental Cataclysm)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-empyrean-xdmg|Scroll of Titan Summoning (Empyrean)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-kraken-xdmg|Scroll of Titan Summoning (Kraken)]]
+- [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-tarrasque-xdmg|Scroll of Titan Summoning (Tarrasque)]]
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

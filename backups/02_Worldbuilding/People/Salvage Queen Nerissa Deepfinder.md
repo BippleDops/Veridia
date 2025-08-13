@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Salvage Queen Nerissa Deepfinder]]
+- [[02_Worldbuilding/People/Salvage Queen Nerissa Deepfinder|02 Worldbuilding/People/Salvage Queen Nerissa Deepfinder]]
 
 <!-- enriched: true -->

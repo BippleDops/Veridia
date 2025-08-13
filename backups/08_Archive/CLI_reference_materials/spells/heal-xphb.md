@@ -31,11 +31,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded), [Deafened](/03_Mechanics/CLI/conditions.md#Deafened), and [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) conditions on the target.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. This spell also ends the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] conditions on the target.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

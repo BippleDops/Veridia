@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood|02 Worldbuilding/People/Commander Thrace Ironwood]]
 
 
 ## Connections

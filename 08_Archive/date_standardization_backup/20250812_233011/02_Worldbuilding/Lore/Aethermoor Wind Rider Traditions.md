@@ -360,19 +360,19 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 8. **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal dealing with cultural integration challenges
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Craftsman creating hybrid technologies
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal dealing with cultural integration challenges
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Craftsman creating hybrid technologies
 - [[Master Wind Rider Zephyr Stormcaller]] - Elite Sky Knight and cultural ambassador
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary homeland of wind rider culture
-- [[02_Worldbuilding/Places/Crystalhaven]] - Joint settlement showcasing cultural integration
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Primary homeland of wind rider culture
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Joint settlement showcasing cultural integration
 - [[The Wind Shrine Archipelago]] - Sacred sites scattered across aerial territories
 - [[Storm's End Citadel]] - Military fortress and Sky Knight training center
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
+- [[02_Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
 - [[The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
 - [[The Weather Wardens Council]] - Governmental organization managing atmospheric safety
 
@@ -400,4 +400,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Wind Shrine Archipelago]]
+- [[02_Worldbuilding/Lore/The Wind Shrine Archipelago|02 Worldbuilding/Lore/The Wind Shrine Archipelago]]

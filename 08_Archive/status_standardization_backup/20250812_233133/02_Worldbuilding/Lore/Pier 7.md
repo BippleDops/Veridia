@@ -26,7 +26,7 @@ accessibility:
 
 # Pier 7
 
-![Pier 7 Portrait](04_Resources/Assets/Art/Lore/Pier_7.png)
+![[04_Resources/Assets/Art/Lore/Pier_7.png|Pier 7 Portrait]]
 
 ## Summary
 Pier 7 describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

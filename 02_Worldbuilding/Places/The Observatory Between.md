@@ -26,7 +26,7 @@ world: Both
 
 ## Overview
 
-The Observatory Between exists in the liminal space where [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] meet—a crystalline dome suspended in the crushing depths yet somehow touching the sky. Built by the collaboration of the greatest minds from both realms before their tragic separation, this facility serves as the only place where representatives from both worlds can meet safely, though "safely" is relative when reality itself bends around the structure.
+The Observatory Between exists in the liminal space where [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] meet—a crystalline dome suspended in the crushing depths yet somehow touching the sky. Built by the collaboration of the greatest minds from both realms before their tragic separation, this facility serves as the only place where representatives from both worlds can meet safely, though "safely" is relative when reality itself bends around the structure.
 
 The Observatory functions as both a physical meeting place and a temporal-spatial anchor, preventing the two realms from drifting further apart in dimensional space. Here, underwater breathing apparatus work alongside atmospheric suits, crystal technology resonates with pressure-magic, and conversations occur between beings who should not be able to exist in the same space.
 
@@ -241,18 +241,18 @@ Multiple contingency plans for different types of reality failure, each requirin
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/The Great Separation]] - Historical event that created the need for this facility
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols used here
-- [[02_Worldbuilding/Lore/Dimensional Magic Theory]] - Scientific principles behind the Observatory's function
-- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater realm with representatives here
-- [[02_Worldbuilding/Places/Aethermoor]] - Aerial realm with representatives here
+- [[02_Worldbuilding/Lore/The Great Separation|02 Worldbuilding/Lore/The Great Separation]] - Historical event that created the need for this facility
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]] - Diplomatic protocols used here
+- [[02_Worldbuilding/Lore/Dimensional Magic Theory|02 Worldbuilding/Lore/Dimensional Magic Theory]] - Scientific principles behind the Observatory's function
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Underwater realm with representatives here
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Aerial realm with representatives here
 
 ## References
 
-- [[02_Worldbuilding/People/The Keeper of Between]] - Facility administrator
-- [[02_Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
-- [[02_Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
-- [[02_Worldbuilding/Lore/Master Index]] - General world information
+- [[02_Worldbuilding/People/The Keeper of Between|02 Worldbuilding/People/The Keeper Of Between]] - Facility administrator
+- [[02_Worldbuilding/Groups/The Reunification Coalition|02 Worldbuilding/Groups/The Reunification Coalition]] - Political faction favoring rejoining the realms
+- [[02_Worldbuilding/Groups/The Preservation Protocol|02 Worldbuilding/Groups/The Preservation Protocol]] - Political faction favoring continued separation
+- [[02_Worldbuilding/Lore/Master Index|02 Worldbuilding/Lore/Master Index]] - General world information
 
 ---
 

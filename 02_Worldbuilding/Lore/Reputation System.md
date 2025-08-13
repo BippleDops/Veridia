@@ -29,7 +29,7 @@ world: Both
 
 ## Overview
 
-The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
+The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
 
 Reputation affects everything from prices in shops to access to restricted areas, availability of services, quest opportunities, and survival during political crises. In the merged realms, reputation with one faction can dramatically affect standing with their allies or enemies, creating complex webs of social consequence.
 
@@ -621,7 +621,7 @@ Faction relationships create complex political networks:
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental effects can impact reputation management
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects can impact reputation management
 - **[[Investigation Procedures]]**: Research faction interests and relationships
 - **[[Memory Alterations]]**: Faction memories can be modified to affect reputation
 - **[[Social Navigation Protocols]]**: Formal procedures for reputation management
@@ -639,7 +639,7 @@ Faction relationships create complex political networks:
 - **[[Social Intelligence Network]]**: Reputation monitoring and analysis
 - **[[Cross-Realm Cultural Exchange]]**: Reputation building between realms
 - **[[Reputation Recovery Services]]**: Professional reputation rehabilitation
-- **[[02_Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
+- **[[02_Worldbuilding/Groups/Political Consulting Guil|02 Worldbuilding/Groups/Political Consulting Guil]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
 
@@ -675,7 +675,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Crystal Festival Grounds]]
 - [[Investigation Procedures]]
 - [[Royal Embassy]]

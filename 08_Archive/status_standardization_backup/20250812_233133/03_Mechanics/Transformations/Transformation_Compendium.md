@@ -219,10 +219,10 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 ---
 
 ## See Also
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[03_Mechanics/Conditions]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+- [[03_Mechanics/Conditions|03 Mechanics/Conditions]]
 
 *"Every gift has its price. Every change leaves a scar. Every transformation tells a story."*
 
@@ -248,4 +248,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Transformations/Crystal/Crystal_Bloom]]
+- [[03_Mechanics/Transformations/Crystal/Crystal_Bloom|03 Mechanics/Transformations/Crystal/Crystal Bloom]]

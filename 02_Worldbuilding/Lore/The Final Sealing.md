@@ -25,7 +25,7 @@ world: Aethermoor
 
 # The Final Sealing
 
-![The Final Sealing Portrait](04_Resources/Assets/Art/Lore/The_Final_Sealing.png)
+![[04_Resources/Assets/Art/Lore/The_Final_Sealing.png|The Final Sealing Portrait]]
 
 ## Summary
 The Final Sealing describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

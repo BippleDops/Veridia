@@ -25,31 +25,31 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `1d8 + 1` [basilisks](/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) |
-| 03-04 | `2d4` [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) |
-| 05-06 | `d3` [chimeras](/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md) |
-| 07-08 | 1 [galeb duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) |
-| 09-10 | `2d6` [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 11-15 | 1 [young silver dragon](/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md) |
-| 16-20 | `2d4` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 01-02 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm|basilisks]] |
+| 03-04 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]] |
+| 05-06 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|chimeras]] |
+| 07-08 | 1 [[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm|galeb duhr]] |
+| 09-10 | `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veterans]] |
+| 11-15 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm|young silver dragon]] |
+| 16-20 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
 | 21-25 | 1 red dragon gliding through the sky above the highest mountaintops |
-| 26-30 | `1d8 + 1` [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
-| 31-35 | `d4` [cyclopes](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
+| 26-30 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|manticores]] |
+| 31-35 | `d4` [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclopes]] |
 | 36-40 | Heavy snowfall that lasts for `d6` hours |
-| 41-45 | `d10` [air elementals](/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) |
-| 46-50 | `1d6 + 2` [bulettes](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md) |
-| 51-55 | `d4` [stone giants](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) |
-| 56-60 | 1 [fire giant](/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) |
-| 61-65 | 2 [stone giants](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) playing catch with a boulder a few hundred feet away |
-| 66-70 | `1d8 + 1` [ettins](/03_Mechanics/CLI/bestiary/giant/ettin-xmm.md) |
-| 71-75 | `d3` [frost giants](/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) |
+| 41-45 | `d10` [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air elementals]] |
+| 46-50 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulettes]] |
+| 51-55 | `d4` [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]] |
+| 56-60 | 1 [[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm|fire giant]] |
+| 61-65 | 2 [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]] playing catch with a boulder a few hundred feet away |
+| 66-70 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettins]] |
+| 71-75 | `d3` [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost giants]] |
 | 76-80 | A wide crevasse, its depths shrouded in mist |
-| 81-85 | `d4` [cloud giants](/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) |
-| 86-90 | 1 [adult silver dragon](/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md) |
-| 91-96 | 1 [adult red dragon](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) |
-| 97-98 | `d4` [rocs](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
-| 99 | 1 [ancient silver dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md) |
-| 00 | 1 [ancient red dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md) |
+| 81-85 | `d4` [[/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm|cloud giants]] |
+| 86-90 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm|adult silver dragon]] |
+| 91-96 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|adult red dragon]] |
+| 97-98 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|rocs]] |
+| 99 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm|ancient silver dragon]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm|ancient red dragon]] |
 ^mountain-encounters-levels-1116
 
 ## Player-Facing Summary

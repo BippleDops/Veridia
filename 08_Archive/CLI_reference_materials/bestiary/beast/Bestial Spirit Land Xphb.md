@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-land-xphb-bestial-spirit-land-xphb.svg)
 
-# [Bestial Spirit (Land)](3-Mechanics\CLI\bestiary\beast/bestial-spirit-land-xphb.md)
+# [[3-Mechanics\CLI\bestiary\beast/bestial-spirit-land-xphb|Bestial Spirit (Land)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -47,7 +47,7 @@ world: Both
 "traits":
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\

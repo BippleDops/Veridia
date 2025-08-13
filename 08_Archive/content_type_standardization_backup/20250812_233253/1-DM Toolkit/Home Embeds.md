@@ -63,9 +63,9 @@ views:
 
 ```
 
-# Create New
+## Create New
 
-#### Player Elements
+### Player Elements
 
 - `BUTTON[button_player]` – Create a new Player Character note
     
@@ -103,7 +103,7 @@ views:
 - `BUTTON[button_item]` – Create a new Item – gear, artifacts, treasures, relics, or magical items
     
 
-# Recently Modified
+## Recently Modified
 
 ```base
 formulas:
@@ -332,7 +332,7 @@ views:
 
 
 
-# Session Journals
+## Session Journals
 
 ```base
 views:
@@ -349,7 +349,7 @@ views:
 
 ```
 
-# Vault Graph
+## Vault Graph
 
 ![[Vault Report]]
 

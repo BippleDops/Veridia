@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)
 
-# [Fractal Mascot](3-Mechanics\CLI\bestiary\construct/fractal-mascot-scc.md)
+# [[3-Mechanics\CLI\bestiary\construct/fractal-mascot-scc|Fractal Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  
 
 To an untrained eye, a fractal mascot looks like a creature made from facets of hard light. But arithmancers know that these fractals are actually living equations: artificial life forms created by extrapolating magic from the mathematical patterns in nature.
@@ -49,7 +49,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"

@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Judge Tidal Fairweather]]
+- [[02_Worldbuilding/Places/Judge Tidal Fairweather|02 Worldbuilding/Places/Judge Tidal Fairweather]]
 
 <!-- enriched: true -->
 

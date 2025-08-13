@@ -25,7 +25,7 @@ world: Both
 *The Last Green Heart of Aethermoor*
 
 ## Overview
-The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[02_Worldbuilding/People/Archdruid Thornweaver]] and the [[02_Worldbuilding/People/The Verdant Accord]], these ancient woods represent the world as it was before [[02_Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
+The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] and the [[02_Worldbuilding/People/The Verdant Accord|02 Worldbuilding/People/The Verdant Accord]], these ancient woods represent the world as it was before [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
 
 ### Sensory Immersion: The Last Green Sanctuary
 
@@ -47,7 +47,7 @@ The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Pl
 - **The Darkwood**: Dense canopy, dangerous, full of secrets
 
 ### Sacred Sites
-- **The Heart Grove**: [[02_Worldbuilding/People/Archdruid Thornweaver]]'s seat of power
+- **The Heart Grove**: [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'s seat of power
 - **The Moonwell**: Pool of pure, uncorrupted water
 - **The Standing Stones**: Pre-Shattering druid circle
 - **The World-Tree**: Hidden, connects to all forests
@@ -76,7 +76,7 @@ The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Pl
 ## Inhabitants
 
 ### The Verdant Accord
-- **Leader**: [[02_Worldbuilding/People/Archdruid Thornweaver]]
+- **Leader**: [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]
 - **Druids**: 500 various circles
 - **Rangers**: 2,000 forest protectors
 - **Allies**: Treants, dryads, forest spirits
@@ -105,7 +105,7 @@ The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Pl
 - Controlled burns to create firebreaks
 - Druid rituals to strengthen remaining forest
 - Ranger patrols eliminating corrupted creatures
-- Diplomatic attempts with [[02_Worldbuilding/Groups/The Crystal Throne]]
+- Diplomatic attempts with [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 
 ## Resources
 
@@ -138,13 +138,13 @@ The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Pl
 ## Current Crisis
 
 ### The Dying Season
-Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[02_Worldbuilding/People/Archdruid Thornweaver]] grows desperate.
+Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] grows desperate.
 
 ### The Refugee Problem
 Thousands fleeing crystal expansion overwhelm forest resources. Tension between preservation and compassion.
 
 ### The Alliance Question
-Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against crystals, but their extremism troubles many druids.
+Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] against crystals, but their extremism troubles many druids.
 
 ## Key Locations
 
@@ -157,7 +157,7 @@ Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against cryst
 ### The Heart Grove
 - Center of druidic power
 - The Heart Tree (500+ years old)
-- Where [[02_Worldbuilding/People/Archdruid Thornweaver]] communes with forest
+- Where [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] communes with forest
 - Hidden entrance to World-Root tunnels
 
 ### The Moonwell
@@ -193,7 +193,7 @@ Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against cryst
 > - The Green Shard is hidden in the Heart Tree
 > - [[Aria Lumengarde]] lives in [[Sylvanheart]]
 > - The World-Tree is becoming sentient
-> - [[02_Worldbuilding/People/Archdruid Thornweaver]] plans the Great Withering
+> - [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] plans the Great Withering
 > - Ancient evil sleeps beneath the Darkwood
 > - The forest contains a portal to the Feywild
 
@@ -214,21 +214,21 @@ Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against cryst
 - **Extremists**: Support Great Withering
 
 ### External Relations
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Tense negotiations
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Natural alliance
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Trade for necessities
+- **[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]**: Tense negotiations
+- **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**: Natural alliance
+- **[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]**: Trade for necessities
 - **[[The Verdant Accord]]**: Governing body
 
 ## NPCs
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Supreme leader
+- [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] - Supreme leader
 - Elder Moonwhisper - [[Sylvanheart]] leader
 - [[Aria Lumengarde]] - Hidden princess
 - Various druids and rangers
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Part of continent
-- [[02_Worldbuilding/Places/Crystalhaven]] - Opposed expansion
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Encroaching threat
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Part of continent
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Opposed expansion
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Encroaching threat
 - [[Sylvanheart]] - Major settlement
 
 ## Related Quests
@@ -260,7 +260,7 @@ Legends speak of The Verdant Reach as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]
 
 <!-- enriched: true -->
 - [[Quest - The Dying Forest]]

@@ -23,7 +23,7 @@ type: NPC
 *The Iron Monk, Guardian of the Sacred Flame*
 
 ## Overview
-Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[02_Worldbuilding/Places/Aethermoor]], serving the [[02_Worldbuilding/Groups/Order of the Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
+Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], serving the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
 
 ## Appearance
 - **Build**: Powerfully built at 6'1", muscled from years of smithing and training
@@ -43,7 +43,7 @@ Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[
 - **Quirk**: Always carries prayer beads made from cooled forge slag
 
 ## Background
-Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[02_Worldbuilding/Groups/Order of the Crystal Flame]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
+Born **Marcus Ironwright** in the Forge District, he was destined to follow his father's trade until a terrible accident at age 19. A crystal-enhanced furnace exploded, leaving him scarred and his father dead. In his grief and pain, Marcus was drawn to the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]], where he found peace and purpose. He took the name "Steelbane" to honor his past while embracing his new calling as a warrior against corruption.
 
 ## Abilities & Resources
 
@@ -78,26 +78,26 @@ Born **Marcus Ironwright** in the Forge District, he was destined to follow his 
 ## Relationships
 
 ### Brotherhood
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual mentor and guide
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual mentor and guide
 - **Brother Thomas Lightkeeper** - Best friend and sparring partner
 - **Sister Catherine Flameweaver** - Fellow crystal researcher
 - **Abbot Maximillan Emberward** - Monastery leader, father figure
 - The temple novices - Teaching meditation and martial arts
 
 ### Allies
-- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Mutual respect for dedication
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Appreciates craftsmanship
+- [[02_Worldbuilding/People/Sir Theron Crystalward|02 Worldbuilding/People/Sir Theron Crystalward]] - Mutual respect for dedication
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Appreciates craftsmanship
 - **Captain Aldric Stormguard** - Guards temple precincts
 - Local blacksmiths - Still maintains professional relationships
 
 ### Complicated Relations
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows of past indiscretions (blackmail potential)
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Knows of past indiscretions (blackmail potential)
 - **Elena Ironwright** - Estranged sister who blames him for father's death
-- [[02_Worldbuilding/People/Doctor Helena Voidwalker]] - Philosophical disagreements about healing
+- [[02_Worldbuilding/People/Doctor Helena Voidwalker|02 Worldbuilding/People/Doctor Helena Voidwalker]] - Philosophical disagreements about healing
 - Former forge workers - Some resent his "abandonment" of the trade
 
 ### Enemies
-- [[02_Worldbuilding/Groups/Shadow Parliament]] - Opposes their corruption actively
+- [[02_Worldbuilding/Groups/Shadow Parliament|02 Worldbuilding/Groups/Shadow Parliament]] - Opposes their corruption actively
 - **The Defiled Flame Cult** - Heretical sect that perverts crystal fire magic
 - **Forge Master Grimjaw** - Former employer who exploited workers
 - Crystal smugglers who threaten sacred sites
@@ -191,21 +191,21 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - Represents the theme of redemption and second chances
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual superior
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows compromising information
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Professional respect
-- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Fellow guardian of sacred sites
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual superior
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Knows compromising information
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Professional respect
+- [[02_Worldbuilding/People/Sir Theron Crystalward|02 Worldbuilding/People/Sir Theron Crystalward]] - Fellow guardian of sacred sites
 
 ## Connected Locations  
-- [[02_Worldbuilding/Places/Crystal Spires]] - Primary residence and workplace
-- [[02_Worldbuilding/Places/The Crystal Temple]] - Center of worship and training
-- [[02_Worldbuilding/Places/Forge District]] - Birthplace and source of trauma
-- [[02_Worldbuilding/Places/Order of the Crystal Flame Monastery]] - Religious community
+- [[02_Worldbuilding/Places/Crystal Spires|02 Worldbuilding/Places/Crystal Spires]] - Primary residence and workplace
+- [[02_Worldbuilding/Places/The Crystal Temple|02 Worldbuilding/Places/The Crystal Temple]] - Center of worship and training
+- [[02_Worldbuilding/Places/Forge District|02 Worldbuilding/Places/Forge District]] - Birthplace and source of trauma
+- [[02_Worldbuilding/Places/Order of the Crystal Flame Monastery|02 Worldbuilding/Places/Order Of The Crystal Flame Monastery]] - Religious community
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Sacred Flame]] - Protecting crystal fire sites
-- [[02_Worldbuilding/Quests/Quest - Corruption in the Temple]] - Internal investigation
-- [[02_Worldbuilding/Quests/Quest - The Forge of Memory]] - Confronting his past
+- [[02_Worldbuilding/Quests/Quest - The Sacred Flame|02 Worldbuilding/Quests/Quest The Sacred Flame]] - Protecting crystal fire sites
+- [[02_Worldbuilding/Quests/Quest - Corruption in the Temple|02 Worldbuilding/Quests/Quest Corruption In The Temple]] - Internal investigation
+- [[02_Worldbuilding/Quests/Quest - The Forge of Memory|02 Worldbuilding/Quests/Quest The Forge Of Memory]] - Confronting his past
 
 
 ## Connections
@@ -223,12 +223,12 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - [[Crystalhaven]]
 - [[Port Meridian]]
 - [[Quest - Diplomatic Immunity]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Aethermoor - Session 01 Blood in the Harbor]]
 - [[Aethermoor - Session 03 Council of Shadows]]
 - [[Aethermoor - Session 07 The Festival of Transformation]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -246,6 +246,6 @@ Legends speak of Brother Marcus Steelbane as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane|02 Worldbuilding/People/Brother Marcus Steelbane]]
 
 <!-- enriched: true -->

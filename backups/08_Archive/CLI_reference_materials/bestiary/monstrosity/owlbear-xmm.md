@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-owlbear-xmm-owlbear-xmm.svg)
 
-# [Owlbear](3-Mechanics\CLI\bestiary\monstrosity/owlbear-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/owlbear-xmm|Owlbear]]
 *Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
@@ -71,7 +71,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""

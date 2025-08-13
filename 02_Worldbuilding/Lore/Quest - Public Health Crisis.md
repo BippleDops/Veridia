@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons]]
+- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
 
 
 ## Connections

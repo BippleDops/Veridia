@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-violet-fungus-necrohulk-xmm-v1-violet-fungus-necrohulk-xmm.svg)
 
-# [Violet Fungus Necrohulk](3-Mechanics\CLI\bestiary\plant/violet-fungus-necrohulk-xmm.md)
+# [[3-Mechanics\CLI\bestiary\plant/violet-fungus-necrohulk-xmm|Violet Fungus Necrohulk]]
 *Source: Monster Manual (2024) p. 126*  
 
 A violet fungus necrohulk forms when a violet fungus colony infests and animates an ample heap of decay. This necrohulk attacks prey and spreads fungal spores for the colony.
@@ -57,9 +57,9 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "10"
 "speed": "40 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 12"
 "languages": ""
 "cr": "7"
@@ -70,24 +70,24 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
       \ damage plus 7 (2d6) Necrotic damage."
     "name": "Rotting Slam"
   - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot-radius\
-      \ [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered\
       \ on a point the necrohulk can see within 60 feet. Failure: 28 (8d6) Necrotic\
-      \ damage, and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the start of the necrohulk's next turn. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ condition until the start of the necrohulk's next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
       \ Success: Half damage only."
     "name": "Spore Bomb (Recharge 5-6)"
 "bonus_actions":
   - "desc": "Strength Saving Throw: DC 15, one Medium or Small creature the necrohulk\
       \ can see within 5 feet. Failure: The target is pulled into the necrohulk's\
       \ space and becomes grafted to its body. The necrohulk can have only one target\
-      \ grafted at a time.\n\nWhile grafted, the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
-      \ condition and [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ grafted at a time.\n\nWhile grafted, the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ condition and [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on Constitution saving throws. When the necrohulk moves, the grafted target\
       \ moves with it. If the target dies while grafted, its body is destroyed, and\
-      \ the necrohulk regains 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\n\
+      \ the necrohulk regains 10 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\n\
       \nThe grafted target or a creature within 5 feet of the necrohulk can take an\
-      \ action to make a DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics))\
+      \ action to make a DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
       \ check. On a successful check, the target is no longer grafted and moves to\
       \ an unoccupied space within 5 feet of the necrohulk."
     "name": "Absorb Body"

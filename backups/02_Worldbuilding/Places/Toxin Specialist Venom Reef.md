@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ|02 Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 
 ## Connections

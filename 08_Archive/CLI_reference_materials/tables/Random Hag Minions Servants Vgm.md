@@ -25,14 +25,14 @@ world: Both
 
 | dice: d8 | Servant(s) |
 |----------|------------|
-| 1 | [Flameskulls](/03_Mechanics/CLI/bestiary/undead/flameskull-xmm.md) |
-| 2 | [Flesh Golems](/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) |
-| 3 | [Helmed Horrors](/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md) |
-| 4 | [Rug of Smothering](/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) |
-| 5 | [Scarecrows](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) |
-| 6 | [Shadow Mastiffs](/03_Mechanics/CLI/bestiary/monstrosity/shadow-mastiff-alpha-mpmm.md) |
-| 7 | `2d4` [swarms of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) or [swarms of rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) |
-| 8 | [Yeth Hounds](/03_Mechanics/CLI/bestiary/fey/yeth-hound-mpmm.md) |
+| 1 | [[/03_Mechanics/CLI/bestiary/undead/flameskull-xmm|Flameskulls]] |
+| 2 | [[/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm|Flesh Golems]] |
+| 3 | [[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm|Helmed Horrors]] |
+| 4 | [[/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm|Rug of Smothering]] |
+| 5 | [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|Scarecrows]] |
+| 6 | [[/03_Mechanics/CLI/bestiary/monstrosity/shadow-mastiff-alpha-mpmm|Shadow Mastiffs]] |
+| 7 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarms of insects]] or [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]] |
+| 8 | [[/03_Mechanics/CLI/bestiary/fey/yeth-hound-mpmm|Yeth Hounds]] |
 ^servants
 
 ## Player-Facing Summary

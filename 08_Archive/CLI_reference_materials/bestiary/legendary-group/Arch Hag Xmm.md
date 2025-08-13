@@ -28,8 +28,8 @@ _Source: Monster Manual (2024)_
 
 The region containing an arch-hag's lair is altered by its presence, creating the following effects:
 
-- **Lapsus Linguae.** Creatures (excluding the hag and its allies) within 1 mile of the lair subtract `d10` from any ability check they make when they take the [Influence](/03_Mechanics/CLI/actions.md#Influence) action.  
-- **Meddlesome Magic.** Whenever a creature other than the hag or its allies finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) while within 1 mile of the lair, the next time that creature casts a spell using a spell slot, it also casts [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md) centered on itself. The spell uses the creature's spellcasting ability and doesn't require [Concentration](/03_Mechanics/CLI/conditions.md#Concentration).  
+- **Lapsus Linguae.** Creatures (excluding the hag and its allies) within 1 mile of the lair subtract `d10` from any ability check they make when they take the [[/03_Mechanics/CLI/actions#Influence|Influence]] action.  
+- **Meddlesome Magic.** Whenever a creature other than the hag or its allies finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] while within 1 mile of the lair, the next time that creature casts a spell using a spell slot, it also casts [[/03_Mechanics/CLI/spells/confusion-xphb|Confusion]] centered on itself. The spell uses the creature's spellcasting ability and doesn't require [[/03_Mechanics/CLI/conditions#Concentration|Concentration]].  
 
 If the arch-hag is destroyed or moves its lair elsewhere, these effects end immediately.
 

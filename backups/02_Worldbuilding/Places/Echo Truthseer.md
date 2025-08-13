@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Echo Truthseer]]
+- [[02_Worldbuilding/Places/Echo Truthseer|02 Worldbuilding/Places/Echo Truthseer]]
 
 <!-- enriched: true -->
 

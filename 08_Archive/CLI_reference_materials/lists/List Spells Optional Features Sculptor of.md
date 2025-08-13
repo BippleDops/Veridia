@@ -20,7 +20,7 @@ world: Both
 
 ## 4th Level
 
-- [Polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/polymorph-xphb "XPHB"|Polymorph]]
 
 ## Player-Facing Summary
 

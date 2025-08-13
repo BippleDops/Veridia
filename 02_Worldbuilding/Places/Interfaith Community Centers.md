@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[02_Worldbuilding/Places/Theological Warfare|02 Worldbuilding/Places/Theological Warfare]]
 
 
 ## Connections

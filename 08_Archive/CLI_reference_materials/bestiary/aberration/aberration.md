@@ -20,73 +20,73 @@ world: Both
 
 # Index of Aberration
 
-- [Aberrant Spirit (Beholderkin)](./aberrant-spirit-beholderkin-xphb.md)
-- [Aberrant Spirit (Slaad)](./aberrant-spirit-slaad-xphb.md)
-- [Aberrant Spirit (Star Spawn)](./aberrant-spirit-star-spawn-xphb.md)
-- [Aberrant Spirit](./aberrant-spirit-xphb.md)
-- [Aboleth](./aboleth-xmm.md)
-- [Balhannoth](./balhannoth-mpmm.md)
-- [Beholder](./beholder-xmm.md)
-- [Berbalang](./berbalang-mpmm.md)
-- [Blue Slaad](./blue-slaad-xmm.md)
-- [Choker](./choker-mpmm.md)
-- [Chuul](./chuul-xmm.md)
-- [Cloaker](./cloaker-xmm.md)
-- [Cranium Rat](./cranium-rat-mpmm.md)
-- [Darkmantle](./darkmantle-xmm.md)
-- [Death Kiss](./death-kiss-mpmm.md)
-- [Death Slaad](./death-slaad-xmm.md)
-- [Derro](./derro-mpmm.md)
-- [Derro Savant](./derro-savant-mpmm.md)
-- [Elder Brain](./elder-brain-mpmm.md)
-- [Flumph](./flumph-xmm.md)
-- [Gauth](./gauth-mpmm.md)
-- [Gazer](./gazer-mpmm.md)
-- [Gibbering Mouther](./gibbering-mouther-xmm.md)
-- [Githyanki Dracomancer](./githyanki-dracomancer-xmm.md)
-- [Githyanki Knight](./githyanki-knight-xmm.md)
-- [Githyanki Warrior](./githyanki-warrior-xmm.md)
-- [Githzerai Monk](./githzerai-monk-xmm.md)
-- [Githzerai Psion](./githzerai-psion-xmm.md)
-- [Githzerai Zerth](./githzerai-zerth-xmm.md)
-- [Gray Slaad](./gray-slaad-xmm.md)
-- [Green Slaad](./green-slaad-xmm.md)
-- [Grell](./grell-xmm.md)
-- [Grick Ancient](./grick-ancient-xmm.md)
-- [Grick](./grick-xmm.md)
-- [Grimlock](./grimlock-xmm.md)
-- [Intellect Devourer](./intellect-devourer-xmm.md)
-- [Ixitxachitl Cleric](./ixitxachitl-cleric-oota.md)
-- [Ixitxachitl](./ixitxachitl-oota.md)
-- [Kuo-toa Archpriest](./kuo-toa-archpriest-xmm.md)
-- [Kuo-toa Monitor](./kuo-toa-monitor-xmm.md)
-- [Kuo-toa Whip](./kuo-toa-whip-xmm.md)
-- [Kuo-toa](./kuo-toa-xmm.md)
-- [Mind Flayer Arcanist](./mind-flayer-arcanist-xmm.md)
-- [Mind Flayer Psion](./mind-flayer-psion-vgm.md)
-- [Mind Flayer](./mind-flayer-xmm.md)
-- [Mindwitness](./mindwitness-mpmm.md)
-- [Morkoth](./morkoth-mpmm.md)
-- [Neogi Hatchling](./neogi-hatchling-mpmm.md)
-- [Neogi Master](./neogi-master-mpmm.md)
-- [Neogi](./neogi-mpmm.md)
-- [Neothelid](./neothelid-mpmm.md)
-- [Nothic](./nothic-xmm.md)
-- [Otyugh](./otyugh-xmm.md)
-- [Piercer](./piercer-xmm.md)
-- [Red Slaad](./red-slaad-xmm.md)
-- [Roper](./roper-xmm.md)
-- [Slaad Tadpole](./slaad-tadpole-xmm.md)
-- [Spectator](./spectator-xmm.md)
-- [Star Spawn Grue](./star-spawn-grue-mpmm.md)
-- [Star Spawn Hulk](./star-spawn-hulk-mpmm.md)
-- [Star Spawn Larva Mage](./star-spawn-larva-mage-mpmm.md)
-- [Star Spawn Mangler](./star-spawn-mangler-mpmm.md)
-- [Star Spawn Seer](./star-spawn-seer-mpmm.md)
-- [Swarm of Cranium Rats](./swarm-of-cranium-rats-mpmm.md)
-- [Ulitharid](./ulitharid-mpmm.md)
-- [Vampiric Ixitxachitl Cleric](./vampiric-ixitxachitl-cleric-oota.md)
-- [Vampiric Ixitxachitl](./vampiric-ixitxachitl-oota.md)
+- [[./aberrant-spirit-beholderkin-xphb|Aberrant Spirit (Beholderkin)]]
+- [[./aberrant-spirit-slaad-xphb|Aberrant Spirit (Slaad)]]
+- [[./aberrant-spirit-star-spawn-xphb|Aberrant Spirit (Star Spawn)]]
+- [[./aberrant-spirit-xphb|Aberrant Spirit]]
+- [[./aboleth-xmm|Aboleth]]
+- [[./balhannoth-mpmm|Balhannoth]]
+- [[./beholder-xmm|Beholder]]
+- [[./berbalang-mpmm|Berbalang]]
+- [[./blue-slaad-xmm|Blue Slaad]]
+- [[./choker-mpmm|Choker]]
+- [[./chuul-xmm|Chuul]]
+- [[./cloaker-xmm|Cloaker]]
+- [[./cranium-rat-mpmm|Cranium Rat]]
+- [[./darkmantle-xmm|Darkmantle]]
+- [[./death-kiss-mpmm|Death Kiss]]
+- [[./death-slaad-xmm|Death Slaad]]
+- [[./derro-mpmm|Derro]]
+- [[./derro-savant-mpmm|Derro Savant]]
+- [[./elder-brain-mpmm|Elder Brain]]
+- [[./flumph-xmm|Flumph]]
+- [[./gauth-mpmm|Gauth]]
+- [[./gazer-mpmm|Gazer]]
+- [[./gibbering-mouther-xmm|Gibbering Mouther]]
+- [[./githyanki-dracomancer-xmm|Githyanki Dracomancer]]
+- [[./githyanki-knight-xmm|Githyanki Knight]]
+- [[./githyanki-warrior-xmm|Githyanki Warrior]]
+- [[./githzerai-monk-xmm|Githzerai Monk]]
+- [[./githzerai-psion-xmm|Githzerai Psion]]
+- [[./githzerai-zerth-xmm|Githzerai Zerth]]
+- [[./gray-slaad-xmm|Gray Slaad]]
+- [[./green-slaad-xmm|Green Slaad]]
+- [[./grell-xmm|Grell]]
+- [[./grick-ancient-xmm|Grick Ancient]]
+- [[./grick-xmm|Grick]]
+- [[./grimlock-xmm|Grimlock]]
+- [[./intellect-devourer-xmm|Intellect Devourer]]
+- [[./ixitxachitl-cleric-oota|Ixitxachitl Cleric]]
+- [[./ixitxachitl-oota|Ixitxachitl]]
+- [[./kuo-toa-archpriest-xmm|Kuo-toa Archpriest]]
+- [[./kuo-toa-monitor-xmm|Kuo-toa Monitor]]
+- [[./kuo-toa-whip-xmm|Kuo-toa Whip]]
+- [[./kuo-toa-xmm|Kuo-toa]]
+- [[./mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]
+- [[./mind-flayer-psion-vgm|Mind Flayer Psion]]
+- [[./mind-flayer-xmm|Mind Flayer]]
+- [[./mindwitness-mpmm|Mindwitness]]
+- [[./morkoth-mpmm|Morkoth]]
+- [[./neogi-hatchling-mpmm|Neogi Hatchling]]
+- [[./neogi-master-mpmm|Neogi Master]]
+- [[./neogi-mpmm|Neogi]]
+- [[./neothelid-mpmm|Neothelid]]
+- [[./nothic-xmm|Nothic]]
+- [[./otyugh-xmm|Otyugh]]
+- [[./piercer-xmm|Piercer]]
+- [[./red-slaad-xmm|Red Slaad]]
+- [[./roper-xmm|Roper]]
+- [[./slaad-tadpole-xmm|Slaad Tadpole]]
+- [[./spectator-xmm|Spectator]]
+- [[./star-spawn-grue-mpmm|Star Spawn Grue]]
+- [[./star-spawn-hulk-mpmm|Star Spawn Hulk]]
+- [[./star-spawn-larva-mage-mpmm|Star Spawn Larva Mage]]
+- [[./star-spawn-mangler-mpmm|Star Spawn Mangler]]
+- [[./star-spawn-seer-mpmm|Star Spawn Seer]]
+- [[./swarm-of-cranium-rats-mpmm|Swarm of Cranium Rats]]
+- [[./ulitharid-mpmm|Ulitharid]]
+- [[./vampiric-ixitxachitl-cleric-oota|Vampiric Ixitxachitl Cleric]]
+- [[./vampiric-ixitxachitl-oota|Vampiric Ixitxachitl]]
 
 ## Player-Facing Summary
 

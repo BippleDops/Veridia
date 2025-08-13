@@ -360,7 +360,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index|02 Worldbuilding/Lore/Location Index]]
 - [[Reality Merge Zones]]
 - [[Temporal Distortion Zones]]
 - [[The Crown of Stars]]

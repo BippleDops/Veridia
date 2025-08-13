@@ -107,7 +107,7 @@ This traumatic event awakened her to the fragile nature of memory and experience
 ## Current Motivations
 
 - **Preserve Lost Histories:** Collecting memories of extinct civilizations and vanished cultures
-- **Understand the Memory Plague:** Investigating reports of a strange affliction causing mass amnesia in the [[02_Worldbuilding/Lore/The Coral Gardens]]
+- **Understand the Memory Plague:** Investigating reports of a strange affliction causing mass amnesia in the [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]]
 - **Find Her Friend's Soul:** Seeking a way to restore her lost research partner using their preserved memories
 - **Protect Memory Sanctity:** Opposing those who would use memory magic for evil purposes
 
@@ -135,7 +135,7 @@ This traumatic event awakened her to the fragile nature of memory and experience
 
 **[[Captain Hadal Drake]]** - Trades information with this deep-sea explorer, exchanging navigation memories for funding and protection during her travels.
 
-**[[02_Worldbuilding/Groups/Memory Thieves Guild]]** - Actively opposes this criminal organization that steals and sells memories without consent.
+**[[02_Worldbuilding/Groups/Memory Thieves Guild|02 Worldbuilding/Groups/Memory Thieves Guild]]** - Actively opposes this criminal organization that steals and sells memories without consent.
 
 **[[Temple Guardian Marcus the Drowned]]** - Complicated relationship. Marcus seeks to retrieve memories stolen from his temple, while Zephyr claims they came to her legitimately.
 
@@ -158,7 +158,7 @@ Currently, she is investigating strange reports of memories being "eaten" by som
 
 1. **The Lost Memory:** A powerful noble's memories of a hidden treasure vault have been stolen, and they hire the party to retrieve them from Zephyr's collection.
 
-2. **Memory Plague Investigation:** Strange amnesia is spreading through the [[02_Worldbuilding/Lore/The Coral Gardens]]. Zephyr needs the party's help to investigate its source in dangerous deep-sea locations.
+2. **Memory Plague Investigation:** Strange amnesia is spreading through the [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]]. Zephyr needs the party's help to investigate its source in dangerous deep-sea locations.
 
 3. **The Perfect Crime:** Someone is using stolen memories to frame innocents for crimes they never committed. The party must help Zephyr track down the memory thief.
 
@@ -186,7 +186,7 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 
 - [[Crystal Wardens]]
 - [[Discover Marina's Truth]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Emperor Thalassius the Wise]]
 - [[Hidden Smuggler's Cove]]
 - [[The Phosphor Markets]]
@@ -195,7 +195,7 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 - [[Quest - The Pretender's Crown]]
 - [[Rescue Senator Glaucus]]
 - [[The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -217,7 +217,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver|02 Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 
 <!-- enriched: true -->
 - [[Doctor Coral Shapeshift]]

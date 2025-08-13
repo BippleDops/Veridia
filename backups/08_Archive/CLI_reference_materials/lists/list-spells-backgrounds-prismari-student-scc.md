@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Chromatic Orb](/03_Mechanics/CLI/spells/chromatic-orb-xphb.md "XPHB") with access to 1st-level spells
-- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/chromatic-orb-xphb "XPHB"|Chromatic Orb]] with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/thunderwave-xphb "XPHB"|Thunderwave]] with access to 1st-level spells
 
 ## 2nd Level
 
-- [Flaming Sphere](/03_Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB") with access to 1st-level spells
-- [Kinetic Jaunt](/03_Mechanics/CLI/spells/kinetic-jaunt-scc.md "SCC") with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/flaming-sphere-xphb "XPHB"|Flaming Sphere]] with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/kinetic-jaunt-scc "SCC"|Kinetic Jaunt]] with access to 1st-level spells
 
 ## 3rd Level
 
-- [Haste](/03_Mechanics/CLI/spells/haste-xphb.md "XPHB") with access to 1st-level spells
-- [Water Walk](/03_Mechanics/CLI/spells/water-walk-xphb.md "XPHB") with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/haste-xphb "XPHB"|Haste]] with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/water-walk-xphb "XPHB"|Water Walk]] with access to 1st-level spells
 
 ## 4th Level
 
-- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") with access to 1st-level spells
-- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB") with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb "XPHB"|Freedom of Movement]] with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/wall-of-fire-xphb "XPHB"|Wall of Fire]] with access to 1st-level spells
 
 ## 5th Level
 
-- [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB") with access to 1st-level spells
-- [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/cone-of-cold-xphb "XPHB"|Cone of Cold]] with access to 1st-level spells
+- [[/03_Mechanics/CLI/spells/conjure-elemental-xphb "XPHB"|Conjure Elemental]] with access to 1st-level spells
 
 ## Player-Facing Summary
 

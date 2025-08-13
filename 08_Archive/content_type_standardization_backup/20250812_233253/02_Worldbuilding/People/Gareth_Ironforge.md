@@ -30,7 +30,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 
 ## Relationships
 ### Allies
-- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Regular customer and friend
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Regular customer and friend
 - **[[Mayor Thompson]]** - Political ally
 
 ### Business Partners
@@ -43,7 +43,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 - Training his son in the craft
 
 ## Quest Hooks
-- **[[02_Worldbuilding/Quests/Aquabyssos]]** - His shipment has gone missing
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - His shipment has gone missing
 - **[[The Stolen Anvil]]** - Family heirloom was taken
 
 
@@ -96,7 +96,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Gareth_Ironforge]]
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]
 
 <!-- enriched: true -->
 

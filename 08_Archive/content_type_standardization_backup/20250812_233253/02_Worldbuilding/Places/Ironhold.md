@@ -15,7 +15,7 @@ world: Aethermoor
 type: Location
 population: 280000
 government: Council of Forgemasters
-leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge]]'
+leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]'
 specialties:
 - Metalworking
 - Engineering
@@ -26,9 +26,9 @@ climate: Alpine, Cold Winters
 created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
 related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Places/The Sundered Peaks]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
 danger_level: Moderate
 ---
 
@@ -44,9 +44,9 @@ danger_level: Moderate
 
 ## Overview
 
-Carved into the living rock of [[02_Worldbuilding/Places/The Sundered Peaks]], Ironhold stands as [[02_Worldbuilding/Places/Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
+Carved into the living rock of [[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]], Ironhold stands as [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
 
-The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[02_Worldbuilding/Lore/Ancient Siege Tunnels|tunnel networks]] that played a crucial role during [[02_Worldbuilding/Lore/Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
+The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[02_Worldbuilding/Lore/Ancient Siege Tunnels|tunnel networks]] that played a crucial role during [[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
 
 ### Sensory Immersion: The Mountain's Heart
 
@@ -120,7 +120,7 @@ Supreme governing body composed of master craftsmen:
 
 ### Engineering Services
 **Fortification Design**: Military architecture consulting for other cities
-**Tunnel Construction**: Extension and maintenance of [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+**Tunnel Construction**: Extension and maintenance of [[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]
 **Bridge Building**: Spanning mountain valleys and connecting remote settlements
 **Water Management**: Aqueducts, drainage systems, and hydraulic engineering
 
@@ -139,7 +139,7 @@ Supreme governing body composed of master craftsmen:
 **Supply Caches**: Hidden stockpiles ensuring long-term siege resistance
 
 ### Military Innovation
-During [[02_Worldbuilding/Lore/Continental War]], Ironhold developed:
+During [[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]], Ironhold developed:
 - Advanced siege warfare techniques
 - Improved tunnel construction methods
 - Revolutionary defensive architecture
@@ -186,7 +186,7 @@ During [[02_Worldbuilding/Lore/Continental War]], Ironhold developed:
 **Rune-Smith Magic-Binder**: Specialist in magically enhanced metalworking
 
 ### Historical Heroes
-**General Iron-Wall**: Defender during the [[02_Worldbuilding/Lore/Continental War]]
+**General Iron-Wall**: Defender during the [[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]
 **Master Builder Stone-Shaper**: Architect of the current fortification system
 **Admiral Deep-Strike**: Naval commander who revolutionized ship armor
 **Explorer Peak-Walker**: Discovered many of the mountain's mineral deposits
@@ -223,7 +223,7 @@ Growing population strain on city resources:
 ### International Relations
 Ironhold's role in continental politics:
 - Military cooperation agreements with other major powers
-- Competition with [[02_Worldbuilding/Places/Crystalhaven]] over technological development
+- Competition with [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] over technological development
 - Trade relationships requiring diplomatic balance
 - Defense obligations under mutual protection treaties
 
@@ -246,7 +246,7 @@ Balancing extraction with sustainability:
 1. **The Mine Collapse**: Rescue operation in dangerous deep mining tunnel
 2. **The Stolen Blueprints**: Recover stolen engineering plans for critical fortification
 3. **The Master's Test**: Help aspiring craftsman complete trial for promotion
-4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]
 5. **The Trade Dispute**: Mediate conflict between Ironhold and international customer
 6. **The Sabotage Investigation**: Find who is causing "accidents" in critical facilities
 7. **The Diplomatic Crisis**: Prevent international incident over military technology sharing
@@ -272,7 +272,7 @@ Balancing extraction with sustainability:
 
 **The Grand Forge Operations**: The heart of Ironhold's economy operates as a coordinated symphony of industrial production. Master smiths direct teams of specialists working on weapons, tools, and architectural elements while apprentices maintain furnace operations and material preparation. The constant hammering creates rhythmic patterns that experienced workers read like music to coordinate their activities without verbal communication.
 
-**Engineering Excellence**: **The Engineering Corps** designs and maintains the complex systems that keep mountain civilization functioning - water management, structural support, ventilation systems, and mechanical transportation. These technical specialists work on projects ranging from expanding the [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] to developing new defensive technologies for trade with other settlements.
+**Engineering Excellence**: **The Engineering Corps** designs and maintains the complex systems that keep mountain civilization functioning - water management, structural support, ventilation systems, and mechanical transportation. These technical specialists work on projects ranging from expanding the [[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]] to developing new defensive technologies for trade with other settlements.
 
 **Council of Forgemasters Governance**: The governing council meets daily in chambers carved from living rock, where acoustic properties ensure every member's voice carries clearly despite the space's grand scale. Decisions require consensus among all master craftsmen, leading to debates that focus on practical implementation rather than abstract principles. All discussions are recorded in metal plate archives that preserve decisions for future reference.
 
@@ -310,7 +310,7 @@ Balancing extraction with sustainability:
 
 **Market Days**: Weekly trade sessions bring merchants from other settlements to exchange goods and negotiate contracts for major projects. These events require careful preparation including security arrangements, quality inspections, and cultural accommodations for visitors unfamiliar with mountain life. Trade negotiations often involve demonstrating craftsmanship techniques and touring production facilities.
 
-**Guild Assembly Meetings**: Professional organizations meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
+**Guild Assembly Meetings**: Professional organizations meet weekly to coordinate standards, training programs, and resource allocation for major projects. These gatherings follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]] adapted for the unique challenges of mountain industrial life, including safety protocols and technical innovation requirements.
 
 **Military Training Cycles**: Regular combat drills and defensive exercises ensure all citizens maintain combat readiness for potential sieges. These training sessions include tunnel fighting techniques, fortification defense, and coordination with engineering systems that provide tactical advantages. Citizens rotate through different defensive specializations to maintain comprehensive capabilities.
 
@@ -320,7 +320,7 @@ Balancing extraction with sustainability:
 - **Summer**: Optimal conditions for major construction projects, trade expeditions, and military exercises. Extended daylight hours allow for increased surface activities and maintenance of external fortifications.
 - **Autumn**: Intensive preparation for winter including food preservation, fuel stockpiling, and completing critical maintenance projects before weather deteriorates. Harvest activities focus on preserving resources through extended cold periods.
 
-**Festival Celebrations**: Annual observances from the [[02_Worldbuilding/Lore/Festival Calendar Complete]] include the Hammer's Day celebrating master craftsmanship, the Mountain's Strength commemorating successful defenses, and the Forge Light festival marking the longest night with displays of metalworking artistry. These celebrations showcase community achievements while reinforcing cultural values.
+**Festival Celebrations**: Annual observances from the [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]] include the Hammer's Day celebrating master craftsmanship, the Mountain's Strength commemorating successful defenses, and the Forge Light festival marking the longest night with displays of metalworking artistry. These celebrations showcase community achievements while reinforcing cultural values.
 
 **International Relations**: Regular diplomatic and trade relationships require coordination with other major settlements. Ironhold's representatives travel to negotiate contracts, share technical knowledge, and maintain alliance relationships that provide mutual defense agreements and resource exchange opportunities.
 
@@ -342,7 +342,7 @@ Ironhold provides:
 - [[Lord Commander Gareth Steelborn]]
 - [[The Sundered Peaks]]
 - [[The Synthesis Gardens]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -364,6 +364,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ironhold]]
+- [[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]
 
 <!-- enriched: true -->

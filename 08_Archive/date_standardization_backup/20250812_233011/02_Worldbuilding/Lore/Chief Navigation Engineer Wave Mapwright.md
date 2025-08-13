@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Depth Chart]]
+- [[02_Worldbuilding/Lore/The Depth Chart|02 Worldbuilding/Lore/The Depth Chart]]
 
 
 ## Connections

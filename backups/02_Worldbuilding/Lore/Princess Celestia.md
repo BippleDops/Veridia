@@ -26,7 +26,7 @@ accessibility:
 
 # Princess Celestia
 
-![Princess Celestia Portrait](04_Resources/Assets/Art/Lore/Princess_Celestia.png)
+![[04_Resources/Assets/Art/Lore/Princess_Celestia.png|Princess Celestia Portrait]]
 
 ## Summary
 Princess Celestia describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

@@ -173,6 +173,6 @@ Legends speak of Temporal Rescue as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Rescue]]
+- [[02_Worldbuilding/Places/Temporal Rescue|02 Worldbuilding/Places/Temporal Rescue]]
 
 <!-- enriched: true -->

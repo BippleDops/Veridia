@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thrace Deeprunner]]
+- [[02_Worldbuilding/People/Captain Thrace Deeprunner|02 Worldbuilding/People/Captain Thrace Deeprunner]]
 
 <!-- enriched: true -->
 

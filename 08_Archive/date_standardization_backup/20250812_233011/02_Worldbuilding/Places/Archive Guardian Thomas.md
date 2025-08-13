@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archive Guardian Thomas]]
+- [[02_Worldbuilding/Places/Archive Guardian Thomas|02 Worldbuilding/Places/Archive Guardian Thomas]]
 
 <!-- enriched: true -->
 

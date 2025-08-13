@@ -234,7 +234,7 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

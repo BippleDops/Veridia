@@ -92,7 +92,7 @@ statHP: 200
     \ (2d8 + 9) bludgeoning damage."
   "name": "Tail"
 - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)\
+    \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [[/2-Mechanics/CLI/rules/conditions#frightened|frightened]]\
     \ for 1 minute. A creature can repeat the saving throw at the end of each of its\
     \ turns, ending the effect on itself on a success. If a creature's saving throw\
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
@@ -103,14 +103,14 @@ statHP: 200
     \ lightning damage on a failed save, or half as much damage on a successful one."
   "name": "Lightning Breath (Recharge 5-6)"
 "legendary_actions":
-- "desc": "The dragon makes a Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
+- "desc": "The dragon makes a Wisdom ([[/2-Mechanics/CLI/rules/skills#Perception|Perception]])\
     \ check."
   "name": "Detect"
 - "desc": "The dragon makes a tail attack."
   "name": "Tail Attack"
 - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
     \ must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning\
-    \ damage and be knocked [prone](/2-Mechanics/CLI/rules/conditions.md#prone). The\
+    \ damage and be knocked [[/2-Mechanics/CLI/rules/conditions#prone|prone]]. The\
     \ dragon can then fly up to half its flying speed."
   "name": "Wing Attack (Costs 2 Actions)"
 "source":

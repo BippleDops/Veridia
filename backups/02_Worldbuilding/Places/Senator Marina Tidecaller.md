@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator Marina Tidecaller]]
+- [[02_Worldbuilding/Places/Senator Marina Tidecaller|02 Worldbuilding/Places/Senator Marina Tidecaller]]
 
 <!-- enriched: true -->
 

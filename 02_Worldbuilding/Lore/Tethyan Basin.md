@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning|02 Worldbuilding/Lore/Timeline Of The Drowning]]
 
 
 ## Connections

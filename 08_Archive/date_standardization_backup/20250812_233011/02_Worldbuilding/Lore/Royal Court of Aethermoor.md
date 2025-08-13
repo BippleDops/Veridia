@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind|02 Worldbuilding/Groups/Lady Venetia Silkwind]]
 
 
 ## Connections

@@ -339,7 +339,7 @@ Use the concentric circle structure to provide different levels of opposition an
 - [[Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
 - [[Shadow Corruption]]
-- [[02_Worldbuilding/Groups/Order of the Silver Ancho]]
+- [[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]
 - [[Scholars of Divine Lore]]
 - [[Temple of the Sunken Cathedral]]
 - [[Void Shepherds]]

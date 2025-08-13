@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Tide Temples]]
+- [[02_Worldbuilding/Places/The Living Tide Temples|02 Worldbuilding/Places/The Living Tide Temples]]
 
 <!-- enriched: true -->

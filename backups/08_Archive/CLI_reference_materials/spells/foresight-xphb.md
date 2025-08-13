@@ -32,9 +32,9 @@ world: Both
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]], and other creatures have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/03_Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-diviner-xphb "subclass=XPHB;class=XPHB"|Wizard (Diviner)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

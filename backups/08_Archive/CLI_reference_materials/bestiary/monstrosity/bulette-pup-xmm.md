@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulette-pup-xmm-bulette-pup-xmm.svg)
 
-# [Bulette Pup](3-Mechanics\CLI\bestiary\monstrosity/bulette-pup-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/bulette-pup-xmm|Bulette Pup]]
 *Source: Monster Manual (2024) p. 63*  
 
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
@@ -59,7 +59,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": ""

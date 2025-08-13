@@ -34,7 +34,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
 
 
 ## Connections
@@ -43,7 +43,7 @@ tags:
 - [[Captain Lyanna Brightshield]]
 - [[Crystalhaven]]
 - [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

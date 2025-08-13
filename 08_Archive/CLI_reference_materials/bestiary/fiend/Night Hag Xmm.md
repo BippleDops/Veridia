@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-night-hag-xmm-night-hag-xmm.svg)
 
-# [Night Hag](3-Mechanics\CLI\bestiary\fiend/night-hag-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/night-hag-xmm|Night Hag]]
 *Source: Monster Manual (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Night Hag
@@ -58,16 +58,16 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
@@ -75,18 +75,18 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 14): [Augury](/03_Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md),\
-      \ [Identify](/03_Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md),\
-      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ save DC 14): [[/03_Mechanics/CLI/spells/augury-xphb|Augury]], [[/03_Mechanics/CLI/spells/find-familiar-xphb|Find Familiar]],\
+      \ [[/03_Mechanics/CLI/spells/identify-xphb|Identify]], [[/03_Mechanics/CLI/spells/locate-object-xphb|Locate Object]],\
+      \ [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]], or [[/03_Mechanics/CLI/spells/unseen-servant-xphb|Unseen Servant]].\
+      \ The hag must finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
-  - "desc": "The hag has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The hag has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The hag has a soul bag. While holding or carrying the bag, the hag can\
-      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md)\
-      \ to all damage. The bag turns to dust if reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]]\
+      \ to all damage. The bag turns to dust if reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
       \ If the bag is destroyed, any souls the bag is holding are released. The hag\
       \ can create a new bag after 7 days."
     "name": "Soul Bag"
@@ -97,19 +97,19 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      At will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Etherealness](/03_Mechanics/CLI/spells/etherealness-xphb.md),\
-      \ [Magic Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md) (level 4 version)\n\
-      \n2/day each: [Phantasmal Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md),\
-      \ [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+      At will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]], [[/03_Mechanics/CLI/spells/etherealness-xphb|Etherealness]],\
+      \ [[/03_Mechanics/CLI/spells/magic-missile-xphb|Magic Missile]] (level 4 version)\n\
+      \n2/day each: [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb|Phantasmal Killer]],\
+      \ [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]] (self only)"
     "name": "Spellcasting"
-  - "desc": "While on the Ethereal Plane, the hag casts [Dream](/03_Mechanics/CLI/spells/dream-xphb.md),\
+  - "desc": "While on the Ethereal Plane, the hag casts [[/03_Mechanics/CLI/spells/dream-xphb|Dream]],\
       \ using the same spellcasting ability as Spellcasting. Only the hag can serve\
       \ as the spell's messenger, and the target must be a creature the hag can see\
       \ on the Material Plane. The spell fails and is wasted if the target is under\
-      \ the effect of the [Protection from Evil and Good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
-      \ spell or within a [Magic Circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md)\
-      \ spell.\n\nIf the target takes damage from the [Dream](/03_Mechanics/CLI/spells/dream-xphb.md)\
-      \ spell, the target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ the effect of the [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb|Protection from Evil and Good]]\
+      \ spell or within a [[/03_Mechanics/CLI/spells/magic-circle-xphb|Magic Circle]]\
+      \ spell.\n\nIf the target takes damage from the [[/03_Mechanics/CLI/spells/dream-xphb|Dream]]\
+      \ spell, the target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to that damage. If the spell kills the\
       \ target, its soul is trapped in the hag's soul bag, and the target can't be\
       \ raised from the dead until its soul is released.\n"

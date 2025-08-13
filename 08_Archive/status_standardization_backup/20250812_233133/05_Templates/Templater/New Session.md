@@ -35,10 +35,10 @@ session_date: <% sessionDate %>
 ## Session Summary
 
 ## Players
-- [[02_Worldbuilding/Lore/Player 7]]
+- [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]
 - [[Player 2]]
-- [[02_Worldbuilding/Lore/Player 7]]
-- [[02_Worldbuilding/Lore/Player 7]]
+- [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]
+- [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]
 
 ## Quests
 - [[Quest 1]]
@@ -47,7 +47,7 @@ session_date: <% sessionDate %>
 - [[NPC 1]]
 
 ## Locations
-- [[02_Worldbuilding/Lore/Location]]
+- [[02_Worldbuilding/Lore/Location|02 Worldbuilding/Lore/Location]]
 
 ## GM Notes
 
@@ -73,4 +73,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Player 7]]
+- [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]

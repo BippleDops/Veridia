@@ -324,7 +324,7 @@ Legends speak of The Current Merchants as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]]
 
 <!-- enriched: true -->
 - [[Emperor Thalassius the Wise]]

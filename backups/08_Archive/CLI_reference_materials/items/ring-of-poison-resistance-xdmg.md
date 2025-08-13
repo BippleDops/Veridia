@@ -27,7 +27,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to poison damage while wearing this ring. The ring is set with amethyst.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to poison damage while wearing this ring. The ring is set with amethyst.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

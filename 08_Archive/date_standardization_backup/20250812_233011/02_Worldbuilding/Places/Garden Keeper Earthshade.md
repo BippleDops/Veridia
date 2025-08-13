@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Garden Keeper Earthshade]]
+- [[02_Worldbuilding/Places/Garden Keeper Earthshade|02 Worldbuilding/Places/Garden Keeper Earthshade]]
 
 <!-- enriched: true -->
 

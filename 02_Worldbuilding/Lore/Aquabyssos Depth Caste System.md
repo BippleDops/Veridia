@@ -15,7 +15,7 @@ world: Aquabyssos
 
 ## Cross-References
 
-- [[07_Player_Resources/Character_Options/Depth_Adapted_Background]]
+- [[07_Player_Resources/Character_Options/Depth_Adapted_Background|07 Player Resources/Character Options/Depth Adapted Background]]
 
 
 ## Connections
@@ -23,7 +23,7 @@ world: Aquabyssos
 - [[Kraken Territories]]
 - [[The Restoration Movement]]
 - [[The Silverscale Conspiracy]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 

@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
+- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions|02 Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
 
 
 ## Connections

@@ -163,7 +163,7 @@ The parliamentary system where living senators debate alongside ghost-senators, 
 
 ### Social Customs
 
-The sophisticated culture of Aquabyssos blends pre-submersion traditions with adaptations necessary for underwater life. Citizens follow etiquette protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]], including pressure-based greeting customs, current-flow conversation patterns, and depth-appropriate social behaviors. Throughout the year, communities celebrate festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], with unique underwater adaptations like the Festival of Deep Currents and the Celebration of Pressure Harmony. Professional guilds maintain traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], modified for aquatic conditions and pressure-zone specializations.
+The sophisticated culture of Aquabyssos blends pre-submersion traditions with adaptations necessary for underwater life. Citizens follow etiquette protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]], including pressure-based greeting customs, current-flow conversation patterns, and depth-appropriate social behaviors. Throughout the year, communities celebrate festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]], with unique underwater adaptations like the Festival of Deep Currents and the Celebration of Pressure Harmony. Professional guilds maintain traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]], modified for aquatic conditions and pressure-zone specializations.
 
 ### Language and Communication
 
@@ -332,22 +332,22 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/The Great Submersion]] - Historical event that created Aquabyssos
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Cultural traditions and customs
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs and practices
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols with other realms
-- [[02_Worldbuilding/Places/The Observatory Between]] - Diplomatic contact point with surface realms
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Capital city details
+- [[02_Worldbuilding/Lore/The Great Submersion|02 Worldbuilding/Lore/The Great Submersion]] - Historical event that created Aquabyssos
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Cultural traditions and customs
+- [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs and practices
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]] - Diplomatic protocols with other realms
+- [[02_Worldbuilding/Places/The Observatory Between|02 Worldbuilding/Places/The Observatory Between]] - Diplomatic contact point with surface realms
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Capital city details
 
 ## References
 
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Political leader
-- [[02_Worldbuilding/People/Senator Glaucus]] - Political figure
-- [[02_Worldbuilding/Groups/The Eternal Senate]] - Governing body
-- [[02_Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
-- [[02_Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
-- [[02_Worldbuilding/Lore/Master Index]] - General world information
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Political leader
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Political figure
+- [[02_Worldbuilding/Groups/The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
+- [[02_Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
+- [[02_Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
+- [[02_Worldbuilding/Lore/Master Index|02 Worldbuilding/Lore/Master Index]] - General world information
 
 ---
 

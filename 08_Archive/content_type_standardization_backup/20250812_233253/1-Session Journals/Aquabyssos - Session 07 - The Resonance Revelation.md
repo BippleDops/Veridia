@@ -171,10 +171,10 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 
 ## 🔍 Secrets & Clues
 1. The Singers Beyond have consumed twelve realities already
-2. [[02_Worldbuilding/People/Shadow Duchess Nyx]] knew about Singers all along
-3. The [[02_Worldbuilding/People/The Scattered Emperor]] fragmented to avoid Singer detection
+2. [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] knew about Singers all along
+3. The [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] fragmented to avoid Singer detection
 4. Every shadow is a survival instinct made manifest
-5. The Crystal Festival in [[02_Worldbuilding/Places/Aethermoor]] was Singer reconnaissance
+5. The Crystal Festival in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] was Singer reconnaissance
 6. Children born post-Cataclysm can't be seen by Singers
 7. The [[Deep Mother]] is the last Singer trapped in this reality
 8. Harmonization is irreversible after 24 hours
@@ -202,7 +202,7 @@ As the party makes their choice about the resonance, reality cracks. Through the
 
 The Prophet gasps: "It sees us. The camouflage has failed. We have minutes, not hours." 
 
-Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[02_Worldbuilding/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
+Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
 
 The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I came to warn you, but I fell in love with this world. With all of you."
 
@@ -225,7 +225,7 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

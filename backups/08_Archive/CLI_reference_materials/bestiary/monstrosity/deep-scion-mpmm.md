@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deep-scion-mpmm-deep-scion-mpmm.svg)
 
-# [Deep Scion](3-Mechanics\CLI\bestiary\monstrosity/deep-scion-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/deep-scion-mpmm|Deep Scion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -56,13 +56,13 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
+  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+3"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
@@ -85,7 +85,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
     "name": "Claw (Hybrid Form Only)"
   - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
       \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-      \ or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until the end of the\
+      \ or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] until the end of the\
       \ deep scion's next turn. In water, the psychic screech also telepathically\
       \ transmits the deep scion's memories of the last 24 hours to its master, regardless\
       \ of distance, so long as it and its master are in the same body of water."

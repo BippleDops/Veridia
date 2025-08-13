@@ -10,7 +10,7 @@ danger_level: 8
 date: null
 duration_hours: 4
 encounters:
-- '[[02_Worldbuilding/Lore/The Crystal Guard Elite]]'
+- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
 - '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
 gold_gained: 0
@@ -27,10 +27,10 @@ locations_visited:
 - '[[Throne Room]]'
 - '[[Royal Vault]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 - '[[Princess Celestia]] (revealed)'
 obsidianUIMode: preview
 players: []
@@ -406,7 +406,7 @@ This session establishes:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

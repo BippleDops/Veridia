@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Host Torrent Welcomeall]]
+- [[02_Worldbuilding/Places/Master Host Torrent Welcomeall|02 Worldbuilding/Places/Master Host Torrent Welcomeall]]
 
 <!-- enriched: true -->

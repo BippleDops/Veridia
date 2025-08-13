@@ -66,7 +66,7 @@ This comprehensive index organizes all 101 completed NPCs and characters across 
 - **Level**: 18 (Wizard/Noble)
 - **Alignment**: Lawful Neutral
 - **Status**: Alive (Political pressure)
-- **Key Locations**: [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos]]
+- **Key Locations**: [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - **Major Conflicts**: Parliament tensions, shadow conspiracy, succession questions
 - **Political Challenges**: Parliamentary pressure, constitutional monarchy
 - **Campaign Role**: Political patron, authority figure, quest giver
@@ -1095,11 +1095,11 @@ Each NPC provides:
 ---
 
 ## Related Master Indexes
-- **[[Master_Places_Index]]** - Location-NPC relationship mapping
-- **[[Master_Lore_Index]]** - Historical and cultural NPC connections
-- **[[Master_Groups_Index]]** - Faction-NPC organizational relationships
-- **[[Campaign_Relationship_Matrix]]** - Comprehensive relationship mapping system
-- **[[Campaign_Quick_Reference_Sheets]]** - Session-ready NPC reference materials
+- **[[Master_Places_Index|Master Places Index]]** - Location-NPC relationship mapping
+- **[[Master_Lore_Index|Master Lore Index]]** - Historical and cultural NPC connections
+- **[[Master_Groups_Index|Master Groups Index]]** - Faction-NPC organizational relationships
+- **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Comprehensive relationship mapping system
+- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready NPC reference materials
 
 ---
 
@@ -1111,4 +1111,4 @@ Each NPC provides:
 
 ## Cross-References
 
-- [[Vault_Navigation_Hub]]
+- [[Vault_Navigation_Hub|Vault Navigation Hub]]

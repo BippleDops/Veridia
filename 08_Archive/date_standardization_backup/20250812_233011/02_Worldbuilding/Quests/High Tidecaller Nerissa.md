@@ -330,9 +330,9 @@ The High Tidecaller Nerissa quest offers players the chance to explore themes of
 
 ## Connections
 
-- [[The_Crimson_Pearl]]
-- [[Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[The_Crimson_Pearl|The Crimson Pearl]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -356,4 +356,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]

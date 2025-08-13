@@ -25,7 +25,7 @@ updated: '2025-08-13T01:18:37.148241+00:00'
 connections:
 - '[[Deep Mother Lore]]'
 - '[[Deep Mother Cult Practices]]'
-- '[[Sanity_Horror_Framework]]'
+- '[[Sanity_Horror_Framework|Sanity Horror Framework]]'
 ---
 
 
@@ -120,7 +120,7 @@ This adventure contains themes and imagery involving:
 
 ### Sanity System Implementation
 
-This adventure uses the [[Sanity_Horror_Framework]] with the following modifications and additions:
+This adventure uses the [[Sanity_Horror_Framework|Sanity Horror Framework]] with the following modifications and additions:
 
 #### Void Corruption Rules
 
@@ -334,7 +334,7 @@ Remember that the greatest horror comes not from the unknown, but from the momen
 
 ---
 
-**Next:** Begin with [[Session_1_Strange_Tidings]] to start the investigation.
+**Next:** Begin with [[Session_1_Strange_Tidings|Session 1 Strange Tidings]] to start the investigation.
 
 ## Player-Facing Summary
 

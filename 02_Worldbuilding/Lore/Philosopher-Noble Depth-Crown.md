@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]
 
 
 ## Connections

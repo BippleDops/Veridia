@@ -23,7 +23,7 @@ world: Both
 *The First Voice, She Who Speaks the Deep Truths, The Maddened Oracle*
 
 ## Overview
-Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to hear [[02_Worldbuilding/Lore/The Deep Mother]]'s whispers from the oceanic abyss. Once a respected prophet and spiritual guide, three centuries of exposure to the Deep Mother's influence has transformed her into something between divine oracle and maddened cultist. She speaks truths that shouldn't be known and prophecies that always come to pass, but her words come wrapped in riddles, shadow imagery, and half-mad ravings.
+Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to hear [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s whispers from the oceanic abyss. Once a respected prophet and spiritual guide, three centuries of exposure to the Deep Mother's influence has transformed her into something between divine oracle and maddened cultist. She speaks truths that shouldn't be known and prophecies that always come to pass, but her words come wrapped in riddles, shadow imagery, and half-mad ravings.
 
 ## Appearance
 - **Ancient Form**: Appears to be over 300 years old (actually 157)
@@ -100,9 +100,9 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 - **Secret Communications**: Maintains contact with major political figures
 
 ### Political Connections
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Secretly consults her prophecies
-- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Receives cryptic warnings
-- **[[02_Worldbuilding/People/Duke Cyrus Reefheart]]** - Uses her predictions for trade advantage
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Secretly consults her prophecies
+- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]** - Receives cryptic warnings
+- **[[02_Worldbuilding/People/Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]]** - Uses her predictions for trade advantage
 - **High Court Officials** - Several secretly fund her operations
 
 ### Supernatural Resources
@@ -120,19 +120,19 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 - **The Silent Ones** - Mute cultists who communicate only through shared visions
 
 ### Political Contacts (Secret)
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military intelligence and deep threat warnings
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]]** - Military intelligence and deep threat warnings
 - **Spymaster Leviathan** - Information broker who values her predictions
 - **Senator Marcus Shadowfin** - Uses prophecies for political maneuvering
 - **Trade Prince Oceanus** - Pays handsomely for market predictions
 
 ### Complicated Relationships
-- **[[02_Worldbuilding/People/High Tidecaller Nerissa]]** - Former friend before her transformation
-- **[[02_Worldbuilding/People/The Oracle of Bathyal Palace]]** - Rival oracle who fears her power
-- **[[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]** - Church leader trying to "save" her
+- **[[02_Worldbuilding/People/High Tidecaller Nerissa|02 Worldbuilding/People/High Tidecaller Nerissa]]** - Former friend before her transformation
+- **[[02_Worldbuilding/People/The Oracle of Bathyal Palace|02 Worldbuilding/People/The Oracle Of Bathyal Palace]]** - Rival oracle who fears her power
+- **[[02_Worldbuilding/People/Archbishop Mordecai Stormwright|02 Worldbuilding/People/Archbishop Mordecai Stormwright]]** - Church leader trying to "save" her
 - **Her Former Self** - Constantly battles against the person she used to be
 
 ## Current Activities
-- Receiving and interpreting increasingly urgent whispers from [[02_Worldbuilding/Lore/The Deep Mother]]
+- Receiving and interpreting increasingly urgent whispers from [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 - Training new cultists in the art of "listening to the depths"
 - Providing cryptic but accurate intelligence to various political factions
 - Studying ancient texts about the time before the Great Drowning
@@ -226,7 +226,7 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 
 ## Adventure Hooks
 1. **The Dire Prophecy**: She prophesies doom for the party unless they undertake a specific quest
-2. **The Truth Seeker**: Party needs information only she possesses about [[02_Worldbuilding/Lore/The Seven Shards]]
+2. **The Truth Seeker**: Party needs information only she possesses about [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
 3. **The Corruption Crisis**: Her unique knowledge of shadow corruption makes her essential for a cure
 4. **The Deep Mother's Will**: She tasks party with preventing or causing a prophesied event
 5. **The Sanity Gambit**: Party must help her break free from the Deep Mother's influence
@@ -235,10 +235,10 @@ Elder Whisper-In-The-Dark is an ancient triton oracle who was among the first to
 
 ## Secrets & Hidden Knowledge
 > [!warning] DM Only
-> - Knows the true location of three of [[02_Worldbuilding/Lore/The Seven Shards]]
-> - Has seen visions of [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]'s true nature
-> - Prophesied the return of [[02_Worldbuilding/People/Emperor Thalassius the Wise]] centuries ago
-> - Knows that [[02_Worldbuilding/People/Admiral Thorne Blackwater]] is dying from pressure poisoning
+> - Knows the true location of three of [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
+> - Has seen visions of [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]'s true nature
+> - Prophesied the return of [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]] centuries ago
+> - Knows that [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] is dying from pressure poisoning
 > - Has foreseen a catastrophic war between surface and depths within 5 years
 > - The Deep Mother is not evil but is trying to prevent an even greater cosmic threat
 > - She maintains a fragment of her original sanity hidden deep in her psyche
@@ -296,9 +296,9 @@ The area within 3 miles of the Whispering Chamber has the following effects:
 
 ## Connected Elements
 - Central to [[The Void Watchers]] organization and philosophy
-- Key to understanding [[02_Worldbuilding/Lore/The Deep Mother]]'s true nature and goals
+- Key to understanding [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s true nature and goals
 - Links prophecy and divination to the broader shadow corruption themes
-- Provides historical context for events leading to [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- Provides historical context for events leading to [[02_Worldbuilding/Lore/Aquabyssos World Overview|02 Worldbuilding/Lore/Aquabyssos World Overview]]
 - Connection point between political intrigue and cosmic horror elements
 
 ## DM Notes
@@ -312,19 +312,19 @@ The area within 3 miles of the Whispering Chamber has the following effects:
 - Her connection to the Deep Mother can introduce cosmic horror elements gradually
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Secret military consultant
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]] - Subject of her most important prophecies
-- [[02_Worldbuilding/People/High Tidecaller Nerissa]] - Former friend and current concern
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Prophesied his return long ago
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] - Secret military consultant
+- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]] - Subject of her most important prophecies
+- [[02_Worldbuilding/People/High Tidecaller Nerissa|02 Worldbuilding/People/High Tidecaller Nerissa]] - Former friend and current concern
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]] - Prophesied his return long ago
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Whispering Depths]] - Her primary domain
+- [[02_Worldbuilding/Places/The Whispering Depths|02 Worldbuilding/Places/The Whispering Depths]] - Her primary domain
 - [[The Void Watchers' Shrines]] - Network of temples throughout Aquabyssos
-- [[02_Worldbuilding/Places/The Bathyal Palace]] - Where powerful figures secretly consult her
+- [[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] - Where powerful figures secretly consult her
 - [[Deep Mother's Domain]] - The source of her power and corruption
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Discover Marina]] - Her prophecies are central to understanding Marina's nature
+- [[02_Worldbuilding/Quests/Discover Marina|02 Worldbuilding/Quests/Discover Marina]] - Her prophecies are central to understanding Marina's nature
 - [[Quest - The Deep Mother's Truth]] - Investigating her patron's real agenda
 - [[Quest - The Prophecy Fulfilled]] - Preventing or enabling her dire predictions
 - [[Quest - The Cure for Madness]] - Helping her break free from corruption
@@ -340,8 +340,8 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
-- [[02_Worldbuilding/Places/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark|02 Worldbuilding/People/Elder Whisper In The Dark]]
+- [[02_Worldbuilding/Places/Elder Whisper-In-The-Dark|02 Worldbuilding/Places/Elder Whisper In The Dark]]
 
 <!-- enriched: true -->
 

@@ -39,7 +39,7 @@ Vertical cliff faces lined with glowing crystalline formations. [[The Trencher F
 A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[The Deepmind]] here.
 
 ### The Void Gardens (12000-15000 feet)
-Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[02_Worldbuilding/Places/Lumengarde]].
+Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[02_Worldbuilding/Places/Lumengarde|02 Worldbuilding/Places/Lumengarde]].
 
 ### The Unknown Deep (15000+ feet)
 No one who has descended below 15000 feet has returned sane. Expedition logs speak of "singing stones" and "the dreaming city."
@@ -47,7 +47,7 @@ No one who has descended below 15000 feet has returned sane. Expedition logs spe
 ## Notable Features
 
 ### The Drowning Gate
-Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[02_Worldbuilding/People/Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
+Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
 
 ### The Memory Streams
 Currents of pure Cerulean Breath that show visions of the past to those who swim through them. Highly addictive and mentally dangerous.
@@ -110,7 +110,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - Trencher Folk offering to guide party for mysterious payment
 - Missing [[Depth Wardens]] patrol needs rescue
 - Rare component only found in Void Gardens needed
-- Visions in [[02_Worldbuilding/Places/New Tethys]] pointing to something in the trench
+- Visions in [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] pointing to something in the trench
 
 ## Random Encounters (d12)
 1. Trencher Folk trading party, speaking in whispers
@@ -131,13 +131,13 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - [[Scout Captain Vera Deepwatch]] - Depth Warden commander
 - [[Mad Prophet Silas the Depth-Touched]] - Receives visions
 - [[Doctor Silas Voidtouch]] - Harvests specimens
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Studies the anomaly
+- [[02_Worldbuilding/People/Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] - Studies the anomaly
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Pressure's End]] - Monitors the trench
-- [[02_Worldbuilding/Places/The Primordial Vaults]] - May connect at deepest levels
+- [[02_Worldbuilding/Places/Pressure's End|02 Worldbuilding/Places/Pressure's End]] - Monitors the trench
+- [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]] - May connect at deepest levels
 - [[The Hadal Depths]] - Overlapping territory
-- [[02_Worldbuilding/Places/The Wandering Atoll]] - Floats above occasionally
+- [[02_Worldbuilding/Places/The Wandering Atoll|02 Worldbuilding/Places/The Wandering Atoll]] - Floats above occasionally
 
 ## Associated Quests
 - [[Into the Blue]] - Investigate the increasing glow
@@ -150,7 +150,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 ## Connections
 
 - [[Forge of War]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
 - [[Rescue Senator Glaucus]]
 - [[The Maw of Darkness]]
@@ -206,7 +206,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]]
 
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]

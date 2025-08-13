@@ -1,9 +1,9 @@
 ---
-affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Centrist Faction'
+affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Centrist Faction'
 age: '48'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Central Chamber'
 race: Human
 role: Parliamentary Tribune
 status: complete
@@ -31,7 +31,7 @@ world: Aquabyssos
 *Voice of Pragmatic Governance, The Compromise Builder*
 
 ## Overview
-Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuilding/Places/Parliament of Echoes]], serving as one of Aquabyssos's most influential political figures. In a government torn between loyalists to [[02_Worldbuilding/People/The Scattered Emperor]] and various extremist factions, she represents the practical middle ground—focusing on keeping society functional while navigating the increasingly dangerous political currents of a realm facing shadow corruption and potential cosmic upheaval.
+Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], serving as one of Aquabyssos's most influential political figures. In a government torn between loyalists to [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] and various extremist factions, she represents the practical middle ground—focusing on keeping society functional while navigating the increasingly dangerous political currents of a realm facing shadow corruption and potential cosmic upheaval.
 
 ## Description
 - **Appearance**: Distinguished woman with graying hair and intelligent dark eyes
@@ -42,7 +42,7 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 
 ## Background
 ### Political Rise
-- Born to middle-class family in [[02_Worldbuilding/Places/Abyssos Prime]]
+- Born to middle-class family in [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
 - Started career as civil servant in municipal government
 - Rose through ranks by successfully managing complex administrative challenges
 - Elected to Parliament 12 years ago on platform of practical governance
@@ -65,7 +65,7 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 
 ### Current Challenges
 - Shadow corruption requires coordinated response beyond factional politics
-- [[02_Worldbuilding/People/The Scattered Emperor]]'s fragmentation creates power vacuum
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'s fragmentation creates power vacuum
 - Extremist factions threaten parliamentary democracy
 - Economic pressures demand practical solutions over political posturing
 - Need to balance tradition with necessary reforms
@@ -102,21 +102,21 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 
 ## Relationships
 ### Political Allies
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Maintains respectful relationship despite his fragmentation
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Maintains respectful relationship despite his fragmentation
 - **Moderate Parliament Members**: Core constituency of practical politicians
 - **Civil Service Leaders**: Works closely with government administrators
 - **Business Community**: Advocates for policies supporting economic stability
 - **Citizens' Groups**: Responsive to genuine grassroots concerns
 
 ### Political Opponents
-- **[[02_Worldbuilding/Groups/The Drowned Prophets]]**: Views their extremism as threat to democracy
+- **[[02_Worldbuilding/Groups/The Drowned Prophets|02 Worldbuilding/Groups/The Drowned Prophets]]**: Views their extremism as threat to democracy
 - **Authoritarian Factions**: Opposes attempts to concentrate power
 - **[[Shadow Liberation Front]]**: Considers their methods too radical
 - **Isolationist Parties**: Disagrees with their withdrawal from external engagement
 - **Corruption Profiteers**: Works to expose and eliminate corrupt practices
 
 ### Complex Relations
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Respects religious authority while maintaining secular governance
+- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Respects religious authority while maintaining secular governance
 - **[[Memory Farmers]]**: Supports regulation without destroying legitimate commerce
 - **[[The Liminal Trading Company]]**: Sees value in cross-realm trade with proper oversight
 - **Military Leaders**: Balances security needs with civilian authority
@@ -175,7 +175,7 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 - Connections to local and regional government officials
 
 ## Connected Elements
-- Central figure for [[02_Worldbuilding/Places/Parliament of Echoes]] political storylines
+- Central figure for [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] political storylines
 - Represents democratic governance facing extraordinary challenges
 - Links political themes to shadow corruption and cosmic threat storylines
 - Key figure for any adventures involving government response to crisis
@@ -209,7 +209,7 @@ Legends speak of Tribune Cassia Deepcurrent as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent|02 Worldbuilding/People/Tribune Cassia Deepcurrent]]
 
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]

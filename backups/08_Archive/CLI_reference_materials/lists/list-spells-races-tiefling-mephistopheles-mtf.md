@@ -20,15 +20,15 @@ world: Both
 
 ## Cantrip
 
-- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Flame Blade](/03_Mechanics/CLI/spells/flame-blade-xphb.md "XPHB") as 2nd-level, at class level 3
+- [[/03_Mechanics/CLI/spells/flame-blade-xphb "XPHB"|Flame Blade]] as 2nd-level, at class level 3
 
 ## Player-Facing Summary
 

@@ -67,10 +67,10 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 - **Surface Tethys**: A version that never drowned, exists in dreams
 
 ## Relationships
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
 - **The Tidal Council**: Fear and worship her in equal measure
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
 - **The Things That Dwell Beneath**: Her true masters, or perhaps her children
 
 ## Powers & Abilities
@@ -96,7 +96,7 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 ## Current Schemes
 1. **The Great Convergence**: Reuniting all versions of herself
 2. **The Surface Mirror**: Creating reflection of Aquabyssos above water
-3. **The Shard Drowning**: Acquiring one of Aethermoor's [[02_Worldbuilding/Lore/The Seven Shards]]
+3. **The Shard Drowning**: Acquiring one of Aethermoor's [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
 4. **The Memory Harvest**: Collecting all drowned memories into herself
 5. **The Final Transformation**: Becoming a Thing That Dwells Beneath
 
@@ -188,6 +188,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]
+- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]
 
 <!-- enriched: true -->

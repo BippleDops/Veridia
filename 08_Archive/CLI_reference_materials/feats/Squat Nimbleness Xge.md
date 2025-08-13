@@ -20,14 +20,14 @@ world: Both
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Dwarf](/03_Mechanics/CLI/races/dwarf-xphb.md) or a Small race
+**Prerequisite**: [[/03_Mechanics/CLI/races/dwarf-xphb|Dwarf]] or a Small race
 
 You are uncommonly nimble for your race. You gain the following benefits:
 
 - Increase your Strength or Dexterity by 1, to a maximum of 20.  
 - Increase your walking speed by 5 feet.  
-- You gain proficiency in the [Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics) or [Athletics](/03_Mechanics/CLI/skills.md#Athletics) skill (your choice).  
-- You have advantage on any Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check you make to escape from being [grappled](/03_Mechanics/CLI/conditions.md#Grappled).
+- You gain proficiency in the [[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]] or [[/03_Mechanics/CLI/skills#Athletics|Athletics]] skill (your choice).  
+- You have advantage on any Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check you make to escape from being [[/03_Mechanics/CLI/conditions#Grappled|grappled]].
 
 ## Player-Facing Summary
 

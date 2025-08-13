@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Wave Traderwind]]
+- [[02_Worldbuilding/Places/Wave Traderwind|02 Worldbuilding/Places/Wave Traderwind]]
 
 <!-- enriched: true -->

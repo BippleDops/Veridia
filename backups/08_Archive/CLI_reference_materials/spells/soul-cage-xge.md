@@ -46,13 +46,13 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](/03_Mechanics/CLI/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[/03_Mechanics/CLI/conditions#Concentration|concentrating]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [see invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md) or [truesight](/03_Mechanics/CLI/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [[/03_Mechanics/CLI/spells/see-invisibility-xphb|see invisibility]] or [[/03_Mechanics/CLI/senses#Truesight|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 165*
 

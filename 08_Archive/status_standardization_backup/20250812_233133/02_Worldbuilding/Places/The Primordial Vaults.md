@@ -123,10 +123,10 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The vaults are slowly rising toward the surface
 
 ## Connections to Other Areas
-- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[02_Worldbuilding/Places/The Cerulean Trench]]
+- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars|02 Worldbuilding/Places/The Sunken Cathedral Of Stars]] crypts
+- Overlaps with deepest parts of [[02_Worldbuilding/Places/The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[02_Worldbuilding/Places/New Tethys]] Conservatory of Memory
+- Memory streams connect to [[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 1. No one may speak their true name within
@@ -189,7 +189,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
 
 <!-- enriched: true -->
 - [[Order of the Sunken Crown]]

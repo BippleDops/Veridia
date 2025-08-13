@@ -64,7 +64,7 @@ world: Both
 > ———. *Van Richten's Monster Hunter's Compendium, Volume Three*. 2000.
 ^326
 
-![On the Cover: the master o...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds.")
+![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds."|On the Cover: the master o...]]
 
 ## Player-Facing Summary
 

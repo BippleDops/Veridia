@@ -295,12 +295,12 @@ The Temple maintains religious facilities in every major settlement:
 - [[Blessed Mother Thalassa the Transformed]]
 - [[Depth Cardinal Mercy Tidebringer]]
 - [[Depth Cardinal Justice Currentkeeper]]
-- [[02_Worldbuilding/Groups/Depth Cardinal Wisdom Voidseeke]]
+- [[02_Worldbuilding/Groups/Depth Cardinal Wisdom Voidseeke|02 Worldbuilding/Groups/Depth Cardinal Wisdom Voidseeke]]
 
 **Religious Concepts**:
 - [[The Architects of Depths]]
 - [[Sacred Texts of Transformation]]
-- [[02_Worldbuilding/Groups/Divine Transformation Theolog]]
+- [[02_Worldbuilding/Groups/Divine Transformation Theolog|02 Worldbuilding/Groups/Divine Transformation Theolog]]
 - [[Depth Spirituality]]
 - [[Interfaith Relations in Aquabyssos]]
 
@@ -309,7 +309,7 @@ The Temple maintains religious facilities in every major settlement:
 - [[Religious Education Programs]]
 - [[Community Support Networks]]
 - [[Transformation Assistance]]
-- [[02_Worldbuilding/Groups/Crisis Response Service]]
+- [[02_Worldbuilding/Groups/Crisis Response Service|02 Worldbuilding/Groups/Crisis Response Service]]
 
 ## Connections
 
@@ -320,7 +320,7 @@ The Temple maintains religious facilities in every major settlement:
 - [[Stop the Shadow Harvest]]
 - [[Anti-Priest Nullus]]
 - [[Temple Guardian Marcus the Drowned]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -344,4 +344,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]

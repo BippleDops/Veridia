@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard|02 Worldbuilding/People/Verdant Shard]]
 
 
 ## Connections

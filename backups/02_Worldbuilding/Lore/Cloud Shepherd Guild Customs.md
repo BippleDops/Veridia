@@ -14,7 +14,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Sky Burial Traditions]]
+- [[02_Worldbuilding/Lore/Sky Burial Traditions|02 Worldbuilding/Lore/Sky Burial Traditions]]
 
 ## Player-Facing Summary
 

@@ -42,11 +42,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/03_Mechanics/CLI/skills.md#Perception) skill.
+You have proficiency in the [[/03_Mechanics/CLI/skills#Perception|Perception]] skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put you to sleep.
 
 ### Trance
 
@@ -61,11 +61,11 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [longsword](/03_Mechanics/CLI/items/longsword-xphb.md), [shortsword](/03_Mechanics/CLI/items/shortsword-xphb.md), [shortbow](/03_Mechanics/CLI/items/shortbow-xphb.md), and [longbow](/03_Mechanics/CLI/items/longbow-xphb.md).
+You have proficiency with the [[/03_Mechanics/CLI/items/longsword-xphb|longsword]], [[/03_Mechanics/CLI/items/shortsword-xphb|shortsword]], [[/03_Mechanics/CLI/items/shortbow-xphb|shortbow]], and [[/03_Mechanics/CLI/items/longbow-xphb|longbow]].
 
 ### Fey Step
 
-You can cast the [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md) spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+You can cast the [[/03_Mechanics/CLI/spells/misty-step-xphb|misty step]] spell once using this trait. You regain the ability to do so when you finish a short or long rest.
 
 ## Player-Facing Summary
 

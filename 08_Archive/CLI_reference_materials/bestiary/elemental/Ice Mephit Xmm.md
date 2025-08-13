@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-mephit-xmm-ice-mephit-xmm.svg)
 
-# [Ice Mephit](3-Mechanics\CLI\bestiary\elemental/ice-mephit-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/ice-mephit-xmm|Ice Mephit]]
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
@@ -65,20 +65,20 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Primordial (Aquan, Auran)"
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ each creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -86,10 +86,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Claw"
-  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
       \ Failure: 7 (3d4) Cold damage. Success: Half damage."
     "name": "Frost Breath (Recharge 6)"
-  - "desc": "The mephit casts [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md),\
+  - "desc": "The mephit casts [[/03_Mechanics/CLI/spells/fog-cloud-xphb|Fog Cloud]],\
       \ requiring no spell components and using Charisma as the spellcasting ability.\n"
     "name": "Fog Cloud (1/Day)"
 "source":

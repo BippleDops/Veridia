@@ -623,7 +623,7 @@ Characters specialized in different depth ranges develop unique capabilities:
 - **[[Tidal Chambers]]** - Depth-variable environmental chambers
 
 ### Supporting Organizations
-- **[[02_Worldbuilding/Groups/Depth Safety Authorit]]** - Regulatory body for depth-related safety
+- **[[02_Worldbuilding/Groups/Depth Safety Authorit|02 Worldbuilding/Groups/Depth Safety Authorit]]** - Regulatory body for depth-related safety
 - **[[Deep Water Rescue Service]]** - Emergency response for depth incidents
 - **[[Pressure Equipment Guild]]** - Manufacturers and maintenance specialists
 - **[[Marine Environmental Institute]]** - Research organization studying depth effects
@@ -658,7 +658,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Crystal Forest]]
 - [[Pressure Crush Zones]]
 - [[Reality Merge Zones]]

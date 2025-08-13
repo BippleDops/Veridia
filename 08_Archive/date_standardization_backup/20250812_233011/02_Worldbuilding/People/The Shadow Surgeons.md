@@ -173,7 +173,7 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Shadow Surgeons]]
+- [[02_Worldbuilding/People/The Shadow Surgeons|02 Worldbuilding/People/The Shadow Surgeons]]
 
 <!-- enriched: true -->
 nriched: true -->

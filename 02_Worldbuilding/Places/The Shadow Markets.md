@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/Quests/Smuggler|02 Worldbuilding/Quests/Smuggler]]
 
 
 ## Connections

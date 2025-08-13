@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Mayor's Manor]]
+- [[02_Worldbuilding/People/Mayor's Manor|02 Worldbuilding/People/Mayor's Manor]]
 
 <!-- enriched: true -->
 

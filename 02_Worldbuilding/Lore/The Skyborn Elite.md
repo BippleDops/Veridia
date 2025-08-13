@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[02_Worldbuilding/Quests/Quest - Hearts and Minds|02 Worldbuilding/Quests/Quest Hearts And Minds]]
 
 
 ## Connections

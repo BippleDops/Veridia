@@ -20,11 +20,11 @@ world: Both
 
 ## Cantrip
 
-- [Guidance](/03_Mechanics/CLI/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
+- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]] as cantrip, at class level 3
 
 ## 1st Level
 
-- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") as cantrip, at class level 3
+- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] as cantrip, at class level 3
 
 ## Player-Facing Summary
 

@@ -57,6 +57,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Warehouse District]]
+- [[02_Worldbuilding/Places/Warehouse District|02 Worldbuilding/Places/Warehouse District]]
 
 <!-- enriched: true -->

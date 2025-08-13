@@ -25,94 +25,94 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-11 | [+2 weapon](/03_Mechanics/CLI/items/2-weapon-xdmg.md) |
+| 01-11 | [[/03_Mechanics/CLI/items/2-weapon-xdmg|+2 weapon]] |
 | 12-14 | `dice: [](magic-item-table-g.md#^figurine-of-wondrous-power)` |
-| 15 | [Adamantine breastplate](/03_Mechanics/CLI/items/adamantine-armor-xdmg.md) |
-| 16 | [Adamantine splint armor](/03_Mechanics/CLI/items/adamantine-armor-xdmg.md) |
-| 17 | [Amulet of health](/03_Mechanics/CLI/items/amulet-of-health-xdmg.md) |
-| 18 | [Armor of vulnerability](/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg.md) |
-| 19 | [Arrow-catching shield](/03_Mechanics/CLI/items/arrow-catching-shield-xdmg.md) |
-| 20 | [Belt of dwarvenkind](/03_Mechanics/CLI/items/belt-of-dwarvenkind-xdmg.md) |
-| 21 | [Belt of hill giant strength](/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg.md) |
-| 22 | [Berserker axe](/03_Mechanics/CLI/items/berserker-axe-xdmg.md) |
-| 23 | [Boots of levitation](/03_Mechanics/CLI/items/boots-of-levitation-xdmg.md) |
-| 24 | [Boots of speed](/03_Mechanics/CLI/items/boots-of-speed-xdmg.md) |
-| 25 | [Bowl of commanding water elementals](/03_Mechanics/CLI/items/bowl-of-commanding-water-elementals-xdmg.md) |
-| 26 | [Bracers of defense](/03_Mechanics/CLI/items/bracers-of-defense-xdmg.md) |
-| 27 | [Brazier of commanding fire elementals](/03_Mechanics/CLI/items/brazier-of-commanding-fire-elementals-xdmg.md) |
-| 28 | [Cape of the mountebank](/03_Mechanics/CLI/items/cape-of-the-mountebank-xdmg.md) |
-| 29 | [Censer of controlling air elementals](/03_Mechanics/CLI/items/censer-of-controlling-air-elementals-xdmg.md) |
-| 30 | [+1 chain mail](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 31 | [Chain mail of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 32 | [+1 chain shirt](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 33 | [Chain shirt of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 34 | [Cloak of displacement](/03_Mechanics/CLI/items/cloak-of-displacement-xdmg.md) |
-| 35 | [Cloak of the bat](/03_Mechanics/CLI/items/cloak-of-the-bat-xdmg.md) |
-| 36 | [Cube of force](/03_Mechanics/CLI/items/cube-of-force-xdmg.md) |
-| 37 | [Daern's instant fortress](/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) |
-| 38 | [Dagger of venom](/03_Mechanics/CLI/items/dagger-of-venom-xdmg.md) |
-| 39 | [Dimensional shackles](/03_Mechanics/CLI/items/dimensional-shackles-xdmg.md) |
-| 40 | [Dragon slayer](/03_Mechanics/CLI/items/dragon-slayer-xdmg.md) |
-| 41 | [Elven chain](/03_Mechanics/CLI/items/elven-chain-xdmg.md) |
-| 42 | [Flame tongue](/03_Mechanics/CLI/items/flame-tongue-xdmg.md) |
-| 43 | [Gem of seeing](/03_Mechanics/CLI/items/gem-of-seeing-xdmg.md) |
-| 44 | [Giant slayer](/03_Mechanics/CLI/items/giant-slayer-xdmg.md) |
-| 45 | [Glamoured studded leather](/03_Mechanics/CLI/items/glamoured-studded-leather-xdmg.md) |
-| 46 | [Helm of teleportation](/03_Mechanics/CLI/items/helm-of-teleportation-xdmg.md) |
-| 47 | [Horn of blasting](/03_Mechanics/CLI/items/horn-of-blasting-xdmg.md) |
-| 48 | Horn of Valhalla ([Silver](/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md) or [Brass](/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg.md)) |
-| 49 | [Instrument of the bards, Canaith mandolin](/03_Mechanics/CLI/items/instrument-of-the-bards-canaith-mandolin-xdmg.md) |
-| 50 | [Instrument of the bards, cli lyre](/03_Mechanics/CLI/items/instrument-of-the-bards-cli-lyre-xdmg.md) |
-| 51 | [Ioun stone, awareness](/03_Mechanics/CLI/items/ioun-stone-awareness-xdmg.md) |
-| 52 | [Ioun stone, protection](/03_Mechanics/CLI/items/ioun-stone-protection-xdmg.md) |
-| 53 | [Ioun stone, reserve](/03_Mechanics/CLI/items/ioun-stone-reserve-xdmg.md) |
-| 54 | [Ioun stone, sustenance](/03_Mechanics/CLI/items/ioun-stone-sustenance-xdmg.md) |
-| 55 | [Iron bands of Bilarro](/03_Mechanics/CLI/items/iron-bands-of-bilarro-xdmg.md) |
-| 56 | [+1 leather armor](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 57 | [Leather armor of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 58 | [Mace of disruption](/03_Mechanics/CLI/items/mace-of-disruption-xdmg.md) |
-| 59 | [Mace of smiting](/03_Mechanics/CLI/items/mace-of-smiting-xdmg.md) |
-| 60 | [Mace of terror](/03_Mechanics/CLI/items/mace-of-terror-xdmg.md) |
-| 61 | [Mantle of spell resistance](/03_Mechanics/CLI/items/mantle-of-spell-resistance-xdmg.md) |
-| 62 | [Necklace of prayer beads](/03_Mechanics/CLI/items/necklace-of-prayer-beads-xdmg.md) |
-| 63 | [Periapt of proof against poison](/03_Mechanics/CLI/items/periapt-of-proof-against-poison-xdmg.md) |
-| 64 | [Ring of animal influence](/03_Mechanics/CLI/items/ring-of-animal-influence-xdmg.md) |
-| 65 | [Ring of evasion](/03_Mechanics/CLI/items/ring-of-evasion-xdmg.md) |
-| 66 | [Ring of feather falling](/03_Mechanics/CLI/items/ring-of-feather-falling-xdmg.md) |
-| 67 | [Ring of free action](/03_Mechanics/CLI/items/ring-of-free-action-xdmg.md) |
-| 68 | [Ring of protection](/03_Mechanics/CLI/items/ring-of-protection-xdmg.md) |
-| 69 | [Ring of resistance](/03_Mechanics/CLI/items/ring-of-resistance-xdmg.md) |
-| 70 | [Ring of spell storing](/03_Mechanics/CLI/items/ring-of-spell-storing-xdmg.md) |
-| 71 | [Ring of the ram](/03_Mechanics/CLI/items/ring-of-the-ram-xdmg.md) |
-| 72 | [Ring of x-ray vision](/03_Mechanics/CLI/items/ring-of-x-ray-vision-xdmg.md) |
-| 73 | [Robe of eyes](/03_Mechanics/CLI/items/robe-of-eyes-xdmg.md) |
-| 74 | [Rod of rulership](/03_Mechanics/CLI/items/rod-of-rulership-xdmg.md) |
-| 75 | [+2 rod of the pact keeper](/03_Mechanics/CLI/items/2-rod-of-the-pact-keeper-xdmg.md) |
-| 76 | [Rope of entanglement](/03_Mechanics/CLI/items/rope-of-entanglement-xdmg.md) |
-| 77 | [+1 scale mail](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 78 | [Scale mail of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 79 | [+2 shield](/03_Mechanics/CLI/items/2-shield-xdmg.md) |
-| 80 | [Shield of missile attraction](/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg.md) |
-| 81 | [Staff of charming](/03_Mechanics/CLI/items/staff-of-charming-xdmg.md) |
-| 82 | [Staff of healing](/03_Mechanics/CLI/items/staff-of-healing-xdmg.md) |
-| 83 | [Staff of swarming insects](/03_Mechanics/CLI/items/staff-of-swarming-insects-xdmg.md) |
-| 84 | [Staff of the woodlands](/03_Mechanics/CLI/items/staff-of-the-woodlands-xdmg.md) |
-| 85 | [Staff of withering](/03_Mechanics/CLI/items/staff-of-withering-xdmg.md) |
-| 86 | [Stone of controlling earth elementals](/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md) |
-| 87 | [Sun blade](/03_Mechanics/CLI/items/sun-blade-xdmg.md) |
-| 88 | [Sword of life stealing](/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg.md) |
-| 89 | [Sword of wounding](/03_Mechanics/CLI/items/sword-of-wounding-xdmg.md) |
-| 90 | [Tentacle rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md) |
-| 91 | [Vicious weapon](/03_Mechanics/CLI/items/vicious-weapon-xdmg.md) |
-| 92 | [Wand of binding](/03_Mechanics/CLI/items/wand-of-binding-xdmg.md) |
-| 93 | [Wand of enemy detection](/03_Mechanics/CLI/items/wand-of-enemy-detection-xdmg.md) |
-| 94 | [Wand of fear](/03_Mechanics/CLI/items/wand-of-fear-xdmg.md) |
-| 95 | [Wand of fireballs](/03_Mechanics/CLI/items/wand-of-fireballs-xdmg.md) |
-| 96 | [Wand of lightning bolts](/03_Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md) |
-| 97 | [Wand of paralysis](/03_Mechanics/CLI/items/wand-of-paralysis-xdmg.md) |
-| 98 | [+2 wand of the war mage](/03_Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg.md) |
-| 99 | [Wand of wonder](/03_Mechanics/CLI/items/wand-of-wonder-xdmg.md) |
-| 00 | [Wings of flying](/03_Mechanics/CLI/items/wings-of-flying-xdmg.md) |
+| 15 | [[/03_Mechanics/CLI/items/adamantine-armor-xdmg|Adamantine breastplate]] |
+| 16 | [[/03_Mechanics/CLI/items/adamantine-armor-xdmg|Adamantine splint armor]] |
+| 17 | [[/03_Mechanics/CLI/items/amulet-of-health-xdmg|Amulet of health]] |
+| 18 | [[/03_Mechanics/CLI/items/armor-of-vulnerability-xdmg|Armor of vulnerability]] |
+| 19 | [[/03_Mechanics/CLI/items/arrow-catching-shield-xdmg|Arrow-catching shield]] |
+| 20 | [[/03_Mechanics/CLI/items/belt-of-dwarvenkind-xdmg|Belt of dwarvenkind]] |
+| 21 | [[/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg|Belt of hill giant strength]] |
+| 22 | [[/03_Mechanics/CLI/items/berserker-axe-xdmg|Berserker axe]] |
+| 23 | [[/03_Mechanics/CLI/items/boots-of-levitation-xdmg|Boots of levitation]] |
+| 24 | [[/03_Mechanics/CLI/items/boots-of-speed-xdmg|Boots of speed]] |
+| 25 | [[/03_Mechanics/CLI/items/bowl-of-commanding-water-elementals-xdmg|Bowl of commanding water elementals]] |
+| 26 | [[/03_Mechanics/CLI/items/bracers-of-defense-xdmg|Bracers of defense]] |
+| 27 | [[/03_Mechanics/CLI/items/brazier-of-commanding-fire-elementals-xdmg|Brazier of commanding fire elementals]] |
+| 28 | [[/03_Mechanics/CLI/items/cape-of-the-mountebank-xdmg|Cape of the mountebank]] |
+| 29 | [[/03_Mechanics/CLI/items/censer-of-controlling-air-elementals-xdmg|Censer of controlling air elementals]] |
+| 30 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 chain mail]] |
+| 31 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Chain mail of resistance]] |
+| 32 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 chain shirt]] |
+| 33 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Chain shirt of resistance]] |
+| 34 | [[/03_Mechanics/CLI/items/cloak-of-displacement-xdmg|Cloak of displacement]] |
+| 35 | [[/03_Mechanics/CLI/items/cloak-of-the-bat-xdmg|Cloak of the bat]] |
+| 36 | [[/03_Mechanics/CLI/items/cube-of-force-xdmg|Cube of force]] |
+| 37 | [[/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg|Daern's instant fortress]] |
+| 38 | [[/03_Mechanics/CLI/items/dagger-of-venom-xdmg|Dagger of venom]] |
+| 39 | [[/03_Mechanics/CLI/items/dimensional-shackles-xdmg|Dimensional shackles]] |
+| 40 | [[/03_Mechanics/CLI/items/dragon-slayer-xdmg|Dragon slayer]] |
+| 41 | [[/03_Mechanics/CLI/items/elven-chain-xdmg|Elven chain]] |
+| 42 | [[/03_Mechanics/CLI/items/flame-tongue-xdmg|Flame tongue]] |
+| 43 | [[/03_Mechanics/CLI/items/gem-of-seeing-xdmg|Gem of seeing]] |
+| 44 | [[/03_Mechanics/CLI/items/giant-slayer-xdmg|Giant slayer]] |
+| 45 | [[/03_Mechanics/CLI/items/glamoured-studded-leather-xdmg|Glamoured studded leather]] |
+| 46 | [[/03_Mechanics/CLI/items/helm-of-teleportation-xdmg|Helm of teleportation]] |
+| 47 | [[/03_Mechanics/CLI/items/horn-of-blasting-xdmg|Horn of blasting]] |
+| 48 | Horn of Valhalla ([[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|Silver]] or [[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|Brass]]) |
+| 49 | [[/03_Mechanics/CLI/items/instrument-of-the-bards-canaith-mandolin-xdmg|Instrument of the bards, Canaith mandolin]] |
+| 50 | [[/03_Mechanics/CLI/items/instrument-of-the-bards-cli-lyre-xdmg|Instrument of the bards, cli lyre]] |
+| 51 | [[/03_Mechanics/CLI/items/ioun-stone-awareness-xdmg|Ioun stone, awareness]] |
+| 52 | [[/03_Mechanics/CLI/items/ioun-stone-protection-xdmg|Ioun stone, protection]] |
+| 53 | [[/03_Mechanics/CLI/items/ioun-stone-reserve-xdmg|Ioun stone, reserve]] |
+| 54 | [[/03_Mechanics/CLI/items/ioun-stone-sustenance-xdmg|Ioun stone, sustenance]] |
+| 55 | [[/03_Mechanics/CLI/items/iron-bands-of-bilarro-xdmg|Iron bands of Bilarro]] |
+| 56 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 leather armor]] |
+| 57 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Leather armor of resistance]] |
+| 58 | [[/03_Mechanics/CLI/items/mace-of-disruption-xdmg|Mace of disruption]] |
+| 59 | [[/03_Mechanics/CLI/items/mace-of-smiting-xdmg|Mace of smiting]] |
+| 60 | [[/03_Mechanics/CLI/items/mace-of-terror-xdmg|Mace of terror]] |
+| 61 | [[/03_Mechanics/CLI/items/mantle-of-spell-resistance-xdmg|Mantle of spell resistance]] |
+| 62 | [[/03_Mechanics/CLI/items/necklace-of-prayer-beads-xdmg|Necklace of prayer beads]] |
+| 63 | [[/03_Mechanics/CLI/items/periapt-of-proof-against-poison-xdmg|Periapt of proof against poison]] |
+| 64 | [[/03_Mechanics/CLI/items/ring-of-animal-influence-xdmg|Ring of animal influence]] |
+| 65 | [[/03_Mechanics/CLI/items/ring-of-evasion-xdmg|Ring of evasion]] |
+| 66 | [[/03_Mechanics/CLI/items/ring-of-feather-falling-xdmg|Ring of feather falling]] |
+| 67 | [[/03_Mechanics/CLI/items/ring-of-free-action-xdmg|Ring of free action]] |
+| 68 | [[/03_Mechanics/CLI/items/ring-of-protection-xdmg|Ring of protection]] |
+| 69 | [[/03_Mechanics/CLI/items/ring-of-resistance-xdmg|Ring of resistance]] |
+| 70 | [[/03_Mechanics/CLI/items/ring-of-spell-storing-xdmg|Ring of spell storing]] |
+| 71 | [[/03_Mechanics/CLI/items/ring-of-the-ram-xdmg|Ring of the ram]] |
+| 72 | [[/03_Mechanics/CLI/items/ring-of-x-ray-vision-xdmg|Ring of x-ray vision]] |
+| 73 | [[/03_Mechanics/CLI/items/robe-of-eyes-xdmg|Robe of eyes]] |
+| 74 | [[/03_Mechanics/CLI/items/rod-of-rulership-xdmg|Rod of rulership]] |
+| 75 | [[/03_Mechanics/CLI/items/2-rod-of-the-pact-keeper-xdmg|+2 rod of the pact keeper]] |
+| 76 | [[/03_Mechanics/CLI/items/rope-of-entanglement-xdmg|Rope of entanglement]] |
+| 77 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 scale mail]] |
+| 78 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Scale mail of resistance]] |
+| 79 | [[/03_Mechanics/CLI/items/2-shield-xdmg|+2 shield]] |
+| 80 | [[/03_Mechanics/CLI/items/shield-of-missile-attraction-xdmg|Shield of missile attraction]] |
+| 81 | [[/03_Mechanics/CLI/items/staff-of-charming-xdmg|Staff of charming]] |
+| 82 | [[/03_Mechanics/CLI/items/staff-of-healing-xdmg|Staff of healing]] |
+| 83 | [[/03_Mechanics/CLI/items/staff-of-swarming-insects-xdmg|Staff of swarming insects]] |
+| 84 | [[/03_Mechanics/CLI/items/staff-of-the-woodlands-xdmg|Staff of the woodlands]] |
+| 85 | [[/03_Mechanics/CLI/items/staff-of-withering-xdmg|Staff of withering]] |
+| 86 | [[/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg|Stone of controlling earth elementals]] |
+| 87 | [[/03_Mechanics/CLI/items/sun-blade-xdmg|Sun blade]] |
+| 88 | [[/03_Mechanics/CLI/items/sword-of-life-stealing-xdmg|Sword of life stealing]] |
+| 89 | [[/03_Mechanics/CLI/items/sword-of-wounding-xdmg|Sword of wounding]] |
+| 90 | [[/03_Mechanics/CLI/items/tentacle-rod-xdmg|Tentacle rod]] |
+| 91 | [[/03_Mechanics/CLI/items/vicious-weapon-xdmg|Vicious weapon]] |
+| 92 | [[/03_Mechanics/CLI/items/wand-of-binding-xdmg|Wand of binding]] |
+| 93 | [[/03_Mechanics/CLI/items/wand-of-enemy-detection-xdmg|Wand of enemy detection]] |
+| 94 | [[/03_Mechanics/CLI/items/wand-of-fear-xdmg|Wand of fear]] |
+| 95 | [[/03_Mechanics/CLI/items/wand-of-fireballs-xdmg|Wand of fireballs]] |
+| 96 | [[/03_Mechanics/CLI/items/wand-of-lightning-bolts-xdmg|Wand of lightning bolts]] |
+| 97 | [[/03_Mechanics/CLI/items/wand-of-paralysis-xdmg|Wand of paralysis]] |
+| 98 | [[/03_Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg|+2 wand of the war mage]] |
+| 99 | [[/03_Mechanics/CLI/items/wand-of-wonder-xdmg|Wand of wonder]] |
+| 00 | [[/03_Mechanics/CLI/items/wings-of-flying-xdmg|Wings of flying]] |
 ^magic-item-table-g
 
 **Figurine of Wondrous Power**
@@ -121,13 +121,13 @@ world: Both
 
 | dice: d8 | Magic Item |
 |----------|------------|
-| 01 | [Figurine of wondrous power, bronze griffon](/03_Mechanics/CLI/items/figurine-of-wondrous-power-bronze-griffon-xdmg.md) |
-| 02 | [Figurine of wondrous power, ebony fly](/03_Mechanics/CLI/items/figurine-of-wondrous-power-ebony-fly-xdmg.md) |
-| 03 | [Figurine of wondrous power, golden lions](/03_Mechanics/CLI/items/figurine-of-wondrous-power-golden-lions-xdmg.md) |
-| 04 | [Figurine of wondrous power, ivory goats](/03_Mechanics/CLI/items/figurine-of-wondrous-power-ivory-goats-xdmg.md) |
-| 05 | [Figurine of wondrous power, marble elephant](/03_Mechanics/CLI/items/figurine-of-wondrous-power-marble-elephant-xdmg.md) |
-| 06-07 | [Figurine of wondrous power, onyx dog](/03_Mechanics/CLI/items/figurine-of-wondrous-power-onyx-dog-xdmg.md) |
-| 08 | [Figurine of wondrous power, serpentine owl](/03_Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md) |
+| 01 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-bronze-griffon-xdmg|Figurine of wondrous power, bronze griffon]] |
+| 02 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-ebony-fly-xdmg|Figurine of wondrous power, ebony fly]] |
+| 03 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-golden-lions-xdmg|Figurine of wondrous power, golden lions]] |
+| 04 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-ivory-goats-xdmg|Figurine of wondrous power, ivory goats]] |
+| 05 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-marble-elephant-xdmg|Figurine of wondrous power, marble elephant]] |
+| 06-07 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-onyx-dog-xdmg|Figurine of wondrous power, onyx dog]] |
+| 08 | [[/03_Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg|Figurine of wondrous power, serpentine owl]] |
 ^figurine-of-wondrous-power
 
 ## Player-Facing Summary

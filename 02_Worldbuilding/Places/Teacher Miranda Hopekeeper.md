@@ -175,7 +175,7 @@ Final exams are approaching, but the testing chambers have been corrupted. Stude
 - **[[The Ironlung Tavern]]**: Safe meeting place for academy contacts
 - **[[Crystal Caves of Aethermoor]]**: Source of purification crystals
 - **[[Memory Coral Reefs]]**: Natural repository of pre-corruption knowledge  
-- **[[02_Worldbuilding/Lore/Deep Trenches]]**: Dangerous research location
+- **[[02_Worldbuilding/Lore/Deep Trenches|02 Worldbuilding/Lore/Deep Trenches]]**: Dangerous research location
 - **[[The Corrupted Admiralty]]**: Primary opposition to academy's mission
 - **[[Port Shadowmere]]**: Where academy alumni often work undercover
 
@@ -227,7 +227,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper|02 Worldbuilding/Places/Teacher Miranda Hopekeeper]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

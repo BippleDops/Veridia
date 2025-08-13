@@ -34,11 +34,11 @@ world: Both
 - **Components:** V, S, M (a morsel of food)
 - **Duration:** 24 hours
 
-Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
 **Using a Higher-Level Spell Slot.** You can target one additional Beast for each spell slot level above 1.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -30,7 +30,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in the convergence crisis, these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in the wake of cosmic forces beyond their understanding or control.
+The Transformed Citizens represent the most human and tragic aspect of the approaching [[The Convergence Point]] - ordinary people throughout both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] who are undergoing involuntary changes as dimensional barriers weaken and realities begin to merge. Unlike those who deliberately seek power or consciously choose sides in the convergence crisis, these are farmers, shopkeepers, children, and elderly citizens who simply find themselves caught in the wake of cosmic forces beyond their understanding or control.
 
 These transformations manifest in countless ways: crystal growths appearing on Aethermoor citizens, aquatic adaptations developing in landlocked communities, memory bleeds causing people to remember lives they never lived, and reality sickness affecting those exposed to [[Merged Reality Zones]]. Their stories represent the human cost of cosmic conflict and the incredible adaptability of ordinary people facing extraordinary circumstances.
 
@@ -39,7 +39,7 @@ These transformations manifest in countless ways: crystal growths appearing on A
 ### Physical Mutations
 
 **Crystal Integration (Aethermoor Citizens):**
-As [[02_Worldbuilding/People/The Crimson Sage]]'s influence spreads through crystal networks, many citizens develop crystalline growths:
+As [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s influence spreads through crystal networks, many citizens develop crystalline growths:
 - **Early Stage**: Small crystal formations appearing on fingernails, teeth, or in hair
 - **Progressive Stage**: Larger crystals growing from skin, particularly on arms and face
 - **Advanced Stage**: Major organs partially crystallized, enhanced magical sensitivity
@@ -47,7 +47,7 @@ As [[02_Worldbuilding/People/The Crimson Sage]]'s influence spreads through crys
 - **Terminal Stage**: Complete crystal transformation, consciousness integrated into network
 
 *Case Study: [[Baker's Daughter Crysa]]*
-A 12-year-old girl from [[02_Worldbuilding/Places/Crystalhaven]] whose family bakery sits above crystal veins developed small crystal formations in her eyes that allow her to see magical auras. While the transformation is beneficial, her parents fear what will happen as it progresses.
+A 12-year-old girl from [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] whose family bakery sits above crystal veins developed small crystal formations in her eyes that allow her to see magical auras. While the transformation is beneficial, her parents fear what will happen as it progresses.
 
 **Aquatic Adaptation (Aquabyssos Citizens):**
 Influenced by [[The Deep Mother]]'s expanding consciousness, some develop water-breathing abilities:
@@ -58,7 +58,7 @@ Influenced by [[The Deep Mother]]'s expanding consciousness, some develop water-
 - **Terminal Stage**: Complete aquatic transformation, loss of surface-world memories
 
 *Case Study: [[Merchant Family Tidewalker]]*
-An entire family of surface traders in [[02_Worldbuilding/Places/Port Meridian]] developed aquatic adaptations after their youngest child nearly drowned. They can now dive to incredible depths to recover sunken treasure, but struggle to relate to their unchanged neighbors.
+An entire family of surface traders in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] developed aquatic adaptations after their youngest child nearly drowned. They can now dive to incredible depths to recover sunken treasure, but struggle to relate to their unchanged neighbors.
 
 **Hybrid Mutations (Reality Bleed Exposure):**
 Citizens exposed to [[Merged Reality Zones]] develop characteristics from both worlds:
@@ -79,7 +79,7 @@ Citizens experiencing memories from their alternate-reality selves:
 - **Consciousness Merger**: Gradual integration of both sets of memories
 
 *Case Study: [[Blacksmith Cross-Hammer Grendel]]*
-A weapons maker from [[02_Worldbuilding/Places/Aethermoor]] began experiencing memories of being a deep-sea pressure engineer. His metalworking improved dramatically, but he now speaks to his tools as if they were living creatures and has nightmares about drowning.
+A weapons maker from [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] began experiencing memories of being a deep-sea pressure engineer. His metalworking improved dramatically, but he now speaks to his tools as if they were living creatures and has nightmares about drowning.
 
 **Reality Sensitivity:**
 Enhanced awareness of dimensional phenomena:
@@ -108,7 +108,7 @@ Non-magical citizens gaining supernatural abilities:
 - **Reality Shifting**: Temporarily altering local physical laws
 
 **Divine Touch:**
-Citizens touched directly by [[02_Worldbuilding/People/The Crimson Sage]] or [[The Deep Mother]]:
+Citizens touched directly by [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] or [[The Deep Mother]]:
 - **Oracle Symptoms**: Receiving prophetic visions about convergence
 - **Divine Communication**: Ability to speak with crystalline or aquatic consciousnesses
 - **Miracle Working**: Performing small-scale reality alterations
@@ -128,7 +128,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 ### Aethermoor Transformation Patterns
 
 **High Transformation Zones:**
-- **[[02_Worldbuilding/Places/Crystalhaven]]**: 40% of population showing some crystal integration
+- **[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]**: 40% of population showing some crystal integration
 - **[[Ancient Mining Communities]]**: 60% transformation rate due to crystal exposure
 - **[[Royal Crystal Gardens]]**: 80% of workers developing magical sensitivities
 - **[[Border Reality Zones]]**: Mixed transformations affecting 70% of residents
@@ -162,7 +162,7 @@ Some citizens develop natural defenses against [[Shadow Corruption]]:
 ### The Hopeful Transformations
 
 **[[The Crystal-Touched Teacher, Miss Luminara]]:**
-A schoolteacher in [[02_Worldbuilding/Places/Crystalhaven]] developed small crystal formations around her eyes that allow her to see the inner light in every student. She uses this ability to identify children who need extra help and has revolutionized her teaching methods. While her appearance has changed, her gift has made her more beloved in her community.
+A schoolteacher in [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] developed small crystal formations around her eyes that allow her to see the inner light in every student. She uses this ability to identify children who need extra help and has revolutionized her teaching methods. While her appearance has changed, her gift has made her more beloved in her community.
 
 **[[The Depth-Blessed Fisherman, Captain Sal Deepcurrent]]:**
 An Aquabyssos fisherman whose family was killed in a pressure accident developed the ability to breathe underwater and communicate with deep-sea creatures. He now leads rescue operations in areas too dangerous for normal divers and has saved dozens of lives. His transformation gave his life new meaning after devastating loss.
@@ -173,7 +173,7 @@ A librarian who began experiencing memories from both worlds has become a living
 ### The Tragic Transformations
 
 **[[The Lost Mother, Seaweed Sarah]]:**
-A mother of three in [[02_Worldbuilding/Places/Aquabyssos]] developed advanced aquatic adaptations and can no longer survive on land for more than a few hours. She must live in special water tanks and can barely communicate with her unchanged children. The family struggles with the emotional and financial burden of her needs.
+A mother of three in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] developed advanced aquatic adaptations and can no longer survive on land for more than a few hours. She must live in special water tanks and can barely communicate with her unchanged children. The family struggles with the emotional and financial burden of her needs.
 
 **[[The Crystal-Consumed Merchant, Trader Glass-Eye Gorvin]]:**
 A successful merchant whose crystal integration progressed too rapidly. Most of his body has crystallized, leaving him with enhanced magical abilities but unable to move freely or maintain normal human relationships. He serves as an oracle for his community but has lost his individual identity.
@@ -197,7 +197,7 @@ A town leader whose exposure to [[Merged Reality Zones]] left him existing parti
 ### Acceptance and Integration Communities
 
 **[[The Crystal Harmony Collective]]:**
-A community in [[02_Worldbuilding/Places/Aethermoor]] that has embraced crystal transformation as evolution:
+A community in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] that has embraced crystal transformation as evolution:
 - Established crystal cultivation gardens to guide transformations safely
 - Created new art forms using crystal-enhanced abilities  
 - Developed education programs for crystal-touched children
@@ -368,7 +368,7 @@ Corruption specifically targets and exploits transformation processes:
 
 ### The Divine Plan
 > [!warning] DM Only
-> All transformations are part of [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]'s preparation for reunion. The divine lovers are unconsciously modifying their followers to be capable of surviving in a merged reality. The transformations are not random mutations but deliberate adaptations for post-convergence existence.
+> All transformations are part of [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]'s preparation for reunion. The divine lovers are unconsciously modifying their followers to be capable of surviving in a merged reality. The transformations are not random mutations but deliberate adaptations for post-convergence existence.
 
 ### The Selection Process
 > [!warning] DM Secret
@@ -407,7 +407,7 @@ Corruption specifically targets and exploits transformation processes:
 - [[Baker's Daughter Crysa]] - Child with beneficial crystal transformation
 - [[The Lost Mother, Seaweed Sarah]] - Tragic aquatic adaptation case
 - [[Scholar Echo-Thought]] - Memory integration success story
-- [[02_Worldbuilding/Lore/The Shadow-Touched Farmer, Blight-Heart Maddox]] - Corruption-tainted transformation
+- [[02_Worldbuilding/Lore/The Shadow-Touched Farmer, Blight-Heart Maddox|02 Worldbuilding/Lore/The Shadow Touched Farmer, Blight Heart Maddox]] - Corruption-tainted transformation
 - [[Transformation Specialist Doctor Prism-Current]] - Medical expert treating transformed citizens
 
 ### Important Locations
@@ -427,7 +427,7 @@ Corruption specifically targets and exploits transformation processes:
 ### Essential Items
 - [[The Adaptation Guide]] - Manual for managing transformation safely
 - [[The Transformation Tracker]] - Device monitoring change progression
-- [[02_Worldbuilding/Lore/Identity Anchor]] - Tool for maintaining self-awareness during changes
+- [[02_Worldbuilding/Lore/Identity Anchor|02 Worldbuilding/Lore/Identity Anchor]] - Tool for maintaining self-awareness during changes
 - [[The Community Bridge]] - Artifact helping unchanged and transformed coexist
 - [[The Evolution Catalyst]] - Item that can trigger or control transformation
 
@@ -464,7 +464,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 - [[Deep Mother Influence]]
 - [[Merged Reality Zones]]
 - [[The Convergence Point]]

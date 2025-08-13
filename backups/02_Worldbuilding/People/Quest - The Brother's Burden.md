@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Brother's Burden]]
+- [[02_Worldbuilding/People/Quest - The Brother's Burden|02 Worldbuilding/People/Quest The Brother's Burden]]
 
 <!-- enriched: true -->
 

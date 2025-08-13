@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
 created: '2025-08-09'
 created_by: auto-stub
 danger_level: Moderate
@@ -29,7 +29,7 @@ world: Aquabyssos
 *Where the Mother's Nightmares Surface*
 
 ## Overview
-Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[02_Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
+Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
 
 ## Nature & Properties
 ### Physical Characteristics
@@ -49,7 +49,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 ## Geographic Distribution
 ### Primary Well Clusters
 #### The Despair Depths
-**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths]]  
+**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]]  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -112,7 +112,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 
 ### Notable Shadow Entities
 #### The Drowning Fear
-- **Origin**: Well near [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Origin**: Well near [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 - **Nature**: Manifestation of society's fear of losing democracy
 - **Appearance**: Massive humanoid figure made of crushing water
 - **Behavior**: Appears during political crises, attempts to "drown" dissent
@@ -257,7 +257,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - **Connection Network**: Do Wells communicate with each other across distances?
 
 ## Connected Elements
-- Direct manifestations of [[02_Worldbuilding/Lore/The Deep Mother]]'s unconscious mind
+- Direct manifestations of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s unconscious mind
 - Source of materials and services for shadow-based magic and therapy
 - Location for [[The Shadow Singer Naia]]'s spiritual work
 - Sites visited by [[Sister Thalassa the Depth-Touched]] and other Deep Mother servants
@@ -286,10 +286,10 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - [[Environmental Hazards]]
 - [[Initiative Tracker]]
 - [[Random Encounters]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Shadow Singer Naia]]
 - [[Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -307,6 +307,6 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Places/Shadow Wells|02 Worldbuilding/Places/Shadow Wells]]
 
 <!-- enriched: true -->

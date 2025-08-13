@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers|02 Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 
 ## Connections

@@ -20,28 +20,28 @@ world: Both
 
 ## 1st Level
 
-- [Ensnaring Strike](/03_Mechanics/CLI/spells/ensnaring-strike-xphb.md "XPHB") at class level 17
-- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") at class level 17
+- [[/03_Mechanics/CLI/spells/ensnaring-strike-xphb "XPHB"|Ensnaring Strike]] at class level 17
+- [[/03_Mechanics/CLI/spells/speak-with-animals-xphb "XPHB"|Speak with Animals]] at class level 17
 
 ## 2nd Level
 
-- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 17
-- [Moonbeam](/03_Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 17
+- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]] at class level 17
+- [[/03_Mechanics/CLI/spells/moonbeam-xphb "XPHB"|Moonbeam]] at class level 17
 
 ## 3rd Level
 
-- [Plant Growth](/03_Mechanics/CLI/spells/plant-growth-xphb.md "XPHB") at class level 17
-- [Protection from Energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB") at class level 17
+- [[/03_Mechanics/CLI/spells/plant-growth-xphb "XPHB"|Plant Growth]] at class level 17
+- [[/03_Mechanics/CLI/spells/protection-from-energy-xphb "XPHB"|Protection from Energy]] at class level 17
 
 ## 4th Level
 
-- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 17
-- [Stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md "XPHB") at class level 17
+- [[/03_Mechanics/CLI/spells/ice-storm-xphb "XPHB"|Ice Storm]] at class level 17
+- [[/03_Mechanics/CLI/spells/stoneskin-xphb "XPHB"|Stoneskin]] at class level 17
 
 ## 5th Level
 
-- [Commune with Nature](/03_Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB") at class level 17
-- [Tree Stride](/03_Mechanics/CLI/spells/tree-stride-xphb.md "XPHB") at class level 17
+- [[/03_Mechanics/CLI/spells/commune-with-nature-xphb "XPHB"|Commune with Nature]] at class level 17
+- [[/03_Mechanics/CLI/spells/tree-stride-xphb "XPHB"|Tree Stride]] at class level 17
 
 ## Player-Facing Summary
 

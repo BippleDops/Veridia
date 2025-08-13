@@ -37,7 +37,7 @@ world: Both
 AC ; HP ; Saves ; Traits ; Effects
 
 ## Integrations
-- [[02_Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[Complete Faction Warfare System]] • [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Rules]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[Complete Faction Warfare System]] • [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Rules]]
 
 ## Scaling
 - [Changes by zone/band]
@@ -70,4 +70,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[reports/bidirectional_links]]
+- [[reports/bidirectional_links|Reports/bidirectional Links]]

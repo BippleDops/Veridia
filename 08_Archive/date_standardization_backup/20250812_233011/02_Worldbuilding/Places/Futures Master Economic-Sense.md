@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Futures Master Economic-Sense]]
+- [[02_Worldbuilding/Places/Futures Master Economic-Sense|02 Worldbuilding/Places/Futures Master Economic Sense]]
 
 <!-- enriched: true -->
 

@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper|02 Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
 
 
 ## Connections

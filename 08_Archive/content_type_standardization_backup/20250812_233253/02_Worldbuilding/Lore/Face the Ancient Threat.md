@@ -26,7 +26,7 @@ accessibility:
 
 # Face the Ancient Threat
 
-![Face the Ancient Threat Portrait](04_Resources/Assets/Art/Lore/Face_the_Ancient_Threat.png)
+![[04_Resources/Assets/Art/Lore/Face_the_Ancient_Threat.png|Face the Ancient Threat Portrait]]
 
 ## Summary
 Face the Ancient Threat describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.

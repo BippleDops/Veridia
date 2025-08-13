@@ -23,7 +23,7 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 
 ---
 
-### S-201: Eclipse Raid Window
+## S-201: Eclipse Raid Window
 - Band: High • Category: Reality/Stealth
 - Trigger: Eclipse lowers detection.
 - Checks: Stealth DC 16; Anchorite DC 15 to keep Integrity.

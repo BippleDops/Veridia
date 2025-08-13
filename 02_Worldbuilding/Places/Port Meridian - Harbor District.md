@@ -30,7 +30,7 @@ world: Aethermoor
 
 # Port Meridian - Harbor District
 
-![Port Meridian - Harbor District Portrait](04_Resources/Assets/Art/Places/Port_Meridian_-_Harbor_District.png)
+![[04_Resources/Assets/Art/Places/Port_Meridian_-_Harbor_District.png|Port Meridian - Harbor District Portrait]]
 
 ## Overview
 Port Meridian - Harbor District is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.

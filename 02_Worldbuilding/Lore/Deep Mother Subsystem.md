@@ -41,9 +41,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Complete_Reality_Merger_System]]
+- [[03_Mechanics/Complete_Reality_Merger_System|03 Mechanics/Complete Reality Merger System]]
 
 
 ## Connections
 
-- [[Complete_Reality_Merger_System]]
+- [[Complete_Reality_Merger_System|Complete Reality Merger System]]

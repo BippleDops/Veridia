@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis|02 Worldbuilding/Lore/Evidence Chain Analysis]]
 
 
 ## Connections

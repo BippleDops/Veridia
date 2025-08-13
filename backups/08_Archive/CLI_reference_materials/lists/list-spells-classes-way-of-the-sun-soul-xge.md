@@ -20,7 +20,7 @@ world: Both
 
 ## 1st Level
 
-- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 6
+- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] at class level 6
 
 ## Player-Facing Summary
 

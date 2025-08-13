@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memorial Current]]
+- [[02_Worldbuilding/Places/Memorial Current|02 Worldbuilding/Places/Memorial Current]]
 
 <!-- enriched: true -->
 

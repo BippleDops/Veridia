@@ -192,7 +192,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 ## Connections
 
 ### To Aethermoor
-The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
+The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
 ### To Other Districts
 - **Parliament of Echoes**: Executions performed here end in the gardens
@@ -225,15 +225,15 @@ The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
 - [[Gallery of Frozen Waves]]
-- [[02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]
 
 **Related NPCs**:
 - [[The Conductor]]
-- [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]
 
 **Related Mechanics**:
 - [[Scream Saturation Rules]]
@@ -256,6 +256,6 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]
 
 <!-- enriched: true -->

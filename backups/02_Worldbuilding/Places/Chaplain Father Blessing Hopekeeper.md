@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chaplain Father Blessing Hopekeeper]]
+- [[02_Worldbuilding/Places/Chaplain Father Blessing Hopekeeper|02 Worldbuilding/Places/Chaplain Father Blessing Hopekeeper]]
 
 <!-- enriched: true -->
 

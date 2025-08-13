@@ -20,7 +20,7 @@ world: Both
 # Rush of the Gale Spirits
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md).
+You can spend 2 ki points to cast [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|gust of wind]].
 
 ## Player-Facing Summary
 

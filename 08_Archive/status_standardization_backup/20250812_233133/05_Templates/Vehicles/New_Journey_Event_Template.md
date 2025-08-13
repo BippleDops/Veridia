@@ -22,7 +22,7 @@ world: Both
 - Checks/Saves:
 - Consequences:
 - Rewards/Clues:
-- Integration: [[02_Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Trading Economy]] • [[Complete Faction Warfare System]] • [[Complete Pressure Adaptation System]]
+- Integration: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Trading Economy]] • [[Complete Faction Warfare System]] • [[Complete Pressure Adaptation System]]
 - Escalation Variant:
 - Recovery/Bypass Options:
 
@@ -48,4 +48,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Vehicles/Vehicles_Index]]
+- [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]

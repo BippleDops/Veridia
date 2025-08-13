@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Aldric Thornwhisper]]
+- [[02_Worldbuilding/People/Lord Aldric Thornwhisper|02 Worldbuilding/People/Lord Aldric Thornwhisper]]
 
 <!-- enriched: true -->
 

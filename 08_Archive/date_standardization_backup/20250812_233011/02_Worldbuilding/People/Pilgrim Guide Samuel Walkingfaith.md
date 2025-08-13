@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Pilgrim Guide Samuel Walkingfaith]]
+- [[02_Worldbuilding/People/Pilgrim Guide Samuel Walkingfaith|02 Worldbuilding/People/Pilgrim Guide Samuel Walkingfaith]]
 
 <!-- enriched: true -->
 

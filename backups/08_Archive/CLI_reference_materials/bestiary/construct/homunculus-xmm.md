@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-homunculus-xmm-homunculus-xmm.svg)
 
-# [Homunculus](3-Mechanics\CLI\bestiary\construct/homunculus-xmm.md)
+# [[3-Mechanics\CLI\bestiary\construct/homunculus-xmm|Homunculus]]
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Homunculus
@@ -76,7 +76,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
   - "wisdom": !!int "2"
   - "charisma": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
@@ -87,11 +87,11 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage, and the\
       \ target is subjected to the following effect. Constitution Saving Throw:\
-      \ DC 12. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ DC 12. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the end of the homunculus's next turn. By 5th Failure: The\
-      \ target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
-      \ for 1 minute. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the\
-      \ target has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) condition,\
+      \ target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
+      \ for 1 minute. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the\
+      \ target has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]] condition,\
       \ which ends early if the target takes any damage."
     "name": "Bite"
 "source":

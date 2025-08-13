@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png)
 
-# [Salamander](3-Mechanics\CLI\bestiary\elemental/salamander-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/salamander-xmm|Salamander]]
 *Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
@@ -72,7 +72,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the salamander takes 7 (2d6) Fire damage."
     "name": "Fire Aura"
 "actions":
@@ -86,8 +86,8 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     "name": "Flame Spear"
   - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
       \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\
-      \ (2d6) Fire damage. The target has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ (2d6) Fire damage. The target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14), and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Constrict"
 "source":

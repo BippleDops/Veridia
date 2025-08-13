@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/Templater/New Session]]
+- [[05_Templates/Templater/New Session|05 Templates/Templater/New Session]]
 
 
 ## Connections

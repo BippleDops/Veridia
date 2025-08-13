@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
+- [[02_Worldbuilding/Places/Acolyte Sister Tidal Deepfaith|02 Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
 
 <!-- enriched: true -->
 

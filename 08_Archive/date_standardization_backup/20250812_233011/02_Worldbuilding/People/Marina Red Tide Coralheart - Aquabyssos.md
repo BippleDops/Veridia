@@ -15,7 +15,7 @@ race: Human (Depth-Adapted)
 class: Ranger/Druid
 level: 10
 alignment: Neutral Good
-location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 faction: Independent (Former [[Depth Guard]])
 status_condition: Switching with Shadow
 created_by: auto-stub
@@ -38,7 +38,7 @@ obsidianUIMode: preview
 *The Adapted Guide, Shadow Switcher, Depth Walker*
 
 ## Overview
-Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[02_Worldbuilding/Places/Aquabyssos]], having undergone extreme depth adaptation that allows her to survive at any pressure. What makes her unique—and dangerous—is her conscious partnership with her shadow, regularly switching control of their shared body. She's one of the few beings who maintains independence from both the [[02_Worldbuilding/Groups/The Shadow Conspiracy]] and the original authorities, walking a careful line between both worlds.
+Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], having undergone extreme depth adaptation that allows her to survive at any pressure. What makes her unique—and dangerous—is her conscious partnership with her shadow, regularly switching control of their shared body. She's one of the few beings who maintains independence from both the [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] and the original authorities, walking a careful line between both worlds.
 
 ## Appearance
 
@@ -97,7 +97,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 
 ### Early Life
 **Surface Origins**
-- Born in coastal [[02_Worldbuilding/Places/Aethermoor]] village
+- Born in coastal [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] village
 - Father was deep-sea explorer
 - Mother died in first drowning wave
 - Survived by diving deeper
@@ -153,17 +153,17 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 ## Relationships
 
 ### Allies
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Provides information
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Provides information
 - **[[Captain Thrace Deeprunner]]**: Former Depth Guard commander
 - **[[The Kelp Witches]]**: Taught her adaptation magic
 - **Surface Refugees**: Guides them to safety
 - **Prism**: Octopus companion, only true friend
 
 ### Complicated
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: Knows he's replaced
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual wariness
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Resists but fears
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Neither enemy nor ally
+- **[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]**: Knows he's replaced
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual wariness
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]**: Resists but fears
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Neither enemy nor ally
 - **Party Members**: Trust must be earned
 
 ### Enemies
@@ -202,14 +202,14 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 ### What Marina Knows
 - Location of 3 transformation facilities
 - Identity of 12 replaced officials
-- [[02_Worldbuilding/People/Original Glaucus]]'s prison location
-- Safe routes through [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/People/Original Glaucus|02 Worldbuilding/People/Original Glaucus]]'s prison location
+- Safe routes through [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]]
 - Counter-ritual for shadow separation
 
 ### What Her Shadow Knows
 - Full shadow conspiracy structure
 - The Dark Harvest timeline
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s involvement
+- [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'s involvement
 - Which shadows have empathy
 - How to kill shadows permanently
 
@@ -218,7 +218,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 - Soon one must dominate
 - Love for someone impossible
 - Location of depth cure research
-- The [[02_Worldbuilding/Lore/Deep Mother]] stirring
+- The [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] stirring
 
 ## Combat Statistics
 
@@ -261,7 +261,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 2. **Adaptation Research**: Find cure documents
 3. **Rescue Mission**: Save adapted prisoners
 4. **Facility Raid**: Destroy transformation center
-5. **Deep Dive**: Guide to [[02_Worldbuilding/Places/The Hadal Depths]]
+5. **Deep Dive**: Guide to [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]]
 
 ### Marina as Focus
 1. **The Switching Cure**: Stop acceleration
@@ -358,17 +358,17 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Information source
-- [[02_Worldbuilding/People/Senator Glaucus]] - Knows truth about
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Complicated rival
-- [[02_Worldbuilding/People/Original Glaucus]] - Could rescue
+- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Information source
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Knows truth about
+- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Complicated rival
+- [[02_Worldbuilding/People/Original Glaucus|02 Worldbuilding/People/Original Glaucus]] - Could rescue
 - [[Captain Thrace Deeprunner]] - Former commander
 
 ### Important Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Base of operations
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Knows location
+- [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] - Base of operations
+- [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] - Knows location
 - [[Transformation Facilities]] - Sabotage targets
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Can navigate
+- [[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Can navigate
 - [[Depth Guard Sanctuary]] - Hidden refuge
 
 ### Related Quests
@@ -380,7 +380,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 
 ### Organizations
 - [[Depth Guard]] - Former member
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy]] - Complicated relationship
+- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] - Complicated relationship
 - [[Adapted Refugees]] - Protects
 - [[The Kelp Witches]] - Trained by
 - [[Surface Seekers]] - Guides
@@ -415,7 +415,7 @@ Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past a
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos|02 Worldbuilding/People/Marina Red Tide Coralheart Aquabyssos]]
 
 <!-- enriched: true -->
 - [[Memory Farmers]]

@@ -14,7 +14,7 @@ government: Memorial Custodianship
 location_name: The First Failure - Prototype Salvation Site
 location_type: Ruined Magical Laboratory
 notable_npcs:
-- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
+- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
 - '[[Archivist Elena Sorrowkeeper]]'
 - '[[Ghost of Dr. Thaddeus Brightwater]]'
 - '[[Memorial Tender Sarah]]'
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 12
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
+ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
 services:
 - Historical Research
 - Magical Failure Analysis
@@ -85,7 +85,7 @@ The complex consists of the ruins of what was once the most advanced magical res
 Fifty years before The Great Drowning, seers and prophets across the realm began reporting visions of a catastrophic flood that would consume civilization. These warnings grew more frequent and detailed over time, describing massive tidal waves, cities sinking beneath the waves, and the transformation of the world into an underwater realm.
 
 ### The Brightwater Initiative
-Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and professor at the [[02_Worldbuilding/Groups/Royal Academy of Arcane Arts - Ruin]], assembled a team of the brightest minds to develop a solution. The Brightwater Initiative, as it came to be known, was funded by the crown and given unlimited resources to prevent the prophesied catastrophe.
+Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and professor at the [[02_Worldbuilding/Groups/Royal Academy of Arcane Arts - Ruin|02 Worldbuilding/Groups/Royal Academy Of Arcane Arts Ruin]], assembled a team of the brightest minds to develop a solution. The Brightwater Initiative, as it came to be known, was funded by the crown and given unlimited resources to prevent the prophesied catastrophe.
 
 **Team Members:**
 - Dr. Thaddeus Brightwater - Project Leader (Transmutation Specialist)
@@ -222,19 +222,19 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ## Connected Locations
 
 ### Research Networks
-- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Current magical research center
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary memorial archive
+- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light|02 Worldbuilding/Places/The Crystal Cathedral Of Pure Light]]:** Current magical research center
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]:** Complementary memorial archive
 - **[[Royal Academy of Arcane Arts - Ruins]]:** Pre-drowning educational institution
 
 ### Memorial Sites
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
+- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
 - **[[Memorial District of Abyssos Prime]]:** Broader commemorative area
 - **[[Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
 
 ### Hostile Relations
-- **[[02_Worldbuilding/Groups/The Leviathan Cult]]:** Believes the drowning was divine will
+- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Believes the drowning was divine will
 - **[[Progress Through Power Faction]]:** Wants to suppress failure records
-- **[[02_Worldbuilding/Groups/Memory Farmers]]:** Seeks to harvest traumatic memories from the site
+- **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]:** Seeks to harvest traumatic memories from the site
 
 ## Adventure Hooks
 
@@ -251,7 +251,7 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ### Moral Dilemmas
 5. **The Redemption Experiment:** Dr. Brightwater's ghost offers to teach the players his complete research, claiming he's found a way to undo The Great Drowning. However, the ritual would require sacrificing the lives that have been built in the post-drowning world.
 
-6. **The Suppression Order:** Powerful figures in [[02_Worldbuilding/Places/Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
+6. **The Suppression Order:** Powerful figures in [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
 
 ### Personal Growth
 7. **The Guilt Workshop:** One of the players is struggling with the consequences of a past decision that caused harm. Keeper Marcus offers to help them work through their guilt using the lessons of the First Failure, but the process requires confronting painful truths.
@@ -367,7 +367,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The First Failure]]
+- [[02_Worldbuilding/Places/The First Failure|02 Worldbuilding/Places/The First Failure]]
 
 <!-- enriched: true -->
 - [[Marina Red Tide Coralheart - Aquabyssos]]

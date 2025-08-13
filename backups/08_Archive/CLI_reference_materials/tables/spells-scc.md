@@ -23,11 +23,11 @@ world: Both
 
 | Level | Spell | School | Class |
 |-------|-------|--------|-------|
-| 1st | [Silvery Barbs](/03_Mechanics/CLI/spells/silvery-barbs-scc.md) | Enchantment | [Bard](/03_Mechanics/CLI/classes/bard-xphb.md), [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md), [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) |
-| 2nd | [Borrowed Knowledge](/03_Mechanics/CLI/spells/borrowed-knowledge-scc.md) | Divination | [Bard](/03_Mechanics/CLI/classes/bard-xphb.md), [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md), [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md), [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) |
-| 2nd | [Kinetic Jaunt](/03_Mechanics/CLI/spells/kinetic-jaunt-scc.md) | Transmutation | Artificer,* [Bard](/03_Mechanics/CLI/classes/bard-xphb.md), [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md), [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) |
-| 2nd | [Vortex Warp](/03_Mechanics/CLI/spells/vortex-warp-scc.md) | Conjuration | Artificer,* [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md), [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) |
-| 2nd | [Wither and Bloom](/03_Mechanics/CLI/spells/wither-and-bloom-scc.md) | Necromancy | [Druid](/03_Mechanics/CLI/classes/druid-xphb.md), [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md), [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) |
+| 1st | [[/03_Mechanics/CLI/spells/silvery-barbs-scc|Silvery Barbs]] | Enchantment | [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
+| 2nd | [[/03_Mechanics/CLI/spells/borrowed-knowledge-scc|Borrowed Knowledge]] | Divination | [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]], [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
+| 2nd | [[/03_Mechanics/CLI/spells/kinetic-jaunt-scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
+| 2nd | [[/03_Mechanics/CLI/spells/vortex-warp-scc|Vortex Warp]] | Conjuration | Artificer,* [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
+| 2nd | [[/03_Mechanics/CLI/spells/wither-and-bloom-scc|Wither and Bloom]] | Necromancy | [[/03_Mechanics/CLI/classes/druid-xphb|Druid]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
 ^spells
 
 *The artificer class appears in "Tasha's Cauldron of Everything" and "Eberron: Rising from the Last War".

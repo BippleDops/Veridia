@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Foundation Depths|02 Worldbuilding/Places/The Foundation Depths]]
 
 
 ## Connections

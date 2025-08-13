@@ -363,11 +363,11 @@ Trade route establishment missions require characters to develop safe commercial
 International cooperation projects involve characters in collaborative efforts that require coordination between different governments and organizations.
 
 ## Connected Locations and Services
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater realm connected by merged zone navigation
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface realm connected by merged zone navigation
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for cross-realm navigation standards
-- [[02_Worldbuilding/People/Master Navigator Tidal Crosscurrent]] - Leading expert in merged zone navigation
-- [[02_Worldbuilding/Lore/Guild of Cross-Realm Navigators]] - Professional organization for navigation specialists
+- [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary underwater realm connected by merged zone navigation
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Primary surface realm connected by merged zone navigation
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]] - Coordination authority for cross-realm navigation standards
+- [[02_Worldbuilding/People/Master Navigator Tidal Crosscurrent|02 Worldbuilding/People/Master Navigator Tidal Crosscurrent]] - Leading expert in merged zone navigation
+- [[02_Worldbuilding/Lore/Guild of Cross-Realm Navigators|02 Worldbuilding/Lore/Guild Of Cross Realm Navigators]] - Professional organization for navigation specialists
 
 
 ## Connections
@@ -396,5 +396,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]

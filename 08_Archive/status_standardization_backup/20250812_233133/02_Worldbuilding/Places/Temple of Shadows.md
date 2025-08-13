@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of Shadows]]
+- [[02_Worldbuilding/Places/Temple of Shadows|02 Worldbuilding/Places/Temple Of Shadows]]
 
 <!-- enriched: true -->
 

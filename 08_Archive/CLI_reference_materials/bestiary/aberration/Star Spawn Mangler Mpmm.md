@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
 
-# [Star Spawn Mangler](3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  
@@ -80,12 +80,12 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "dexterity": !!int "7"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "5"
@@ -100,10 +100,10 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
       \ 7 (2d6) psychic damage."
     "name": "Claw"
   - "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
-      \ it can move up to its speed without provoking [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ it can move up to its speed without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the mangler takes the [Hide](/03_Mechanics/CLI/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the mangler takes the [[/03_Mechanics/CLI/actions#Hide|Hide]]\
       \ action."
     "name": "Shadow Stealth"
 "source":

@@ -23,26 +23,26 @@ world: Both
 
 | Race | Feat |
 |------|------|
-| Dragonborn | [Dragon Fear](/03_Mechanics/CLI/feats/dragon-fear-xge.md) |
-| Dragonborn | [Dragon Hide](/03_Mechanics/CLI/feats/dragon-hide-xge.md) |
-| Dwarf | [Dwarven Fortitude](/03_Mechanics/CLI/feats/dwarven-fortitude-xge.md) |
-| Dwarf | [Squat Nimbleness](/03_Mechanics/CLI/feats/squat-nimbleness-xge.md) |
-| Elf | [Elven Accuracy](/03_Mechanics/CLI/feats/elven-accuracy-xge.md) |
-| Elf (drow) | [Drow High Magic](/03_Mechanics/CLI/feats/drow-high-magic-xge.md) |
-| Elf (high) | [Fey Teleportation](/03_Mechanics/CLI/feats/fey-teleportation-xge.md) |
-| Elf (wood) | [Wood Elf Magic](/03_Mechanics/CLI/feats/wood-elf-magic-xge.md) |
-| Gnome | [Fade Away](/03_Mechanics/CLI/feats/fade-away-xge.md) |
-| Gnome | [Squat Nimbleness](/03_Mechanics/CLI/feats/squat-nimbleness-xge.md) |
-| Half-elf | [Elven Accuracy](/03_Mechanics/CLI/feats/elven-accuracy-xge.md) |
-| Half-elf | [Prodigy](/03_Mechanics/CLI/feats/prodigy-xge.md) |
-| Half-orc | [Orcish Fury](/03_Mechanics/CLI/feats/orcish-fury-xge.md) |
-| Half-orc | [Prodigy](/03_Mechanics/CLI/feats/prodigy-xge.md) |
-| Halfling | [Bountiful Luck](/03_Mechanics/CLI/feats/bountiful-luck-xge.md) |
-| Halfling | [Second Chance](/03_Mechanics/CLI/feats/second-chance-xge.md) |
-| Halfling | [Squat Nimbleness](/03_Mechanics/CLI/feats/squat-nimbleness-xge.md) |
-| Human | [Prodigy](/03_Mechanics/CLI/feats/prodigy-xge.md) |
-| Tiefling | [Flames of Phlegethos](/03_Mechanics/CLI/feats/flames-of-phlegethos-xge.md) |
-| Tiefling | [Infernal Constitution](/03_Mechanics/CLI/feats/infernal-constitution-xge.md) |
+| Dragonborn | [[/03_Mechanics/CLI/feats/dragon-fear-xge|Dragon Fear]] |
+| Dragonborn | [[/03_Mechanics/CLI/feats/dragon-hide-xge|Dragon Hide]] |
+| Dwarf | [[/03_Mechanics/CLI/feats/dwarven-fortitude-xge|Dwarven Fortitude]] |
+| Dwarf | [[/03_Mechanics/CLI/feats/squat-nimbleness-xge|Squat Nimbleness]] |
+| Elf | [[/03_Mechanics/CLI/feats/elven-accuracy-xge|Elven Accuracy]] |
+| Elf (drow) | [[/03_Mechanics/CLI/feats/drow-high-magic-xge|Drow High Magic]] |
+| Elf (high) | [[/03_Mechanics/CLI/feats/fey-teleportation-xge|Fey Teleportation]] |
+| Elf (wood) | [[/03_Mechanics/CLI/feats/wood-elf-magic-xge|Wood Elf Magic]] |
+| Gnome | [[/03_Mechanics/CLI/feats/fade-away-xge|Fade Away]] |
+| Gnome | [[/03_Mechanics/CLI/feats/squat-nimbleness-xge|Squat Nimbleness]] |
+| Half-elf | [[/03_Mechanics/CLI/feats/elven-accuracy-xge|Elven Accuracy]] |
+| Half-elf | [[/03_Mechanics/CLI/feats/prodigy-xge|Prodigy]] |
+| Half-orc | [[/03_Mechanics/CLI/feats/orcish-fury-xge|Orcish Fury]] |
+| Half-orc | [[/03_Mechanics/CLI/feats/prodigy-xge|Prodigy]] |
+| Halfling | [[/03_Mechanics/CLI/feats/bountiful-luck-xge|Bountiful Luck]] |
+| Halfling | [[/03_Mechanics/CLI/feats/second-chance-xge|Second Chance]] |
+| Halfling | [[/03_Mechanics/CLI/feats/squat-nimbleness-xge|Squat Nimbleness]] |
+| Human | [[/03_Mechanics/CLI/feats/prodigy-xge|Prodigy]] |
+| Tiefling | [[/03_Mechanics/CLI/feats/flames-of-phlegethos-xge|Flames of Phlegethos]] |
+| Tiefling | [[/03_Mechanics/CLI/feats/infernal-constitution-xge|Infernal Constitution]] |
 ^racial-feats
 
 ## Player-Facing Summary

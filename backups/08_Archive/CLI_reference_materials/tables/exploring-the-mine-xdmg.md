@@ -23,11 +23,11 @@ world: Both
 
 | dice: 1d6 | Encounter |
 |-----------|-----------|
-| 1 | Four [Violet Fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) and one [Rust Monster](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md) |
-| 2 | One [Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) and two [Swarms of Insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) (spiders) |
-| 3 | One [Darkmantle](/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md) and three [Piercers](/03_Mechanics/CLI/bestiary/aberration/piercer-xmm.md) |
+| 1 | Four [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|Violet Fungi]] and one [[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm|Rust Monster]] |
+| 2 | One [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant Spider]] and two [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|Swarms of Insects]] (spiders) |
+| 3 | One [[/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm|Darkmantle]] and three [[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm|Piercers]] |
 | 4 | A patch of "yellow mold" (see ""Hazards"" in "chapter 3") on a miner's remains |
-| 5 | One [Gelatinous Cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) |
+| 5 | One [[/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm|Gelatinous Cube]] |
 | 6 | Sounds of Terror (see below) |
 ^1-encounter
 

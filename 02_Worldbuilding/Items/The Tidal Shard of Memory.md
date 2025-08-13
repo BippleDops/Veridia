@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]]'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 created: '2025-08-09'
 created_by: Claude
 current_location: Unknown (Hidden)
@@ -26,7 +26,7 @@ world: Aquabyssos
 *Crystalline Keeper of All That Was*
 
 ## Overview
-The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Shards]], representing the fundamental power of memory, experience, and the continuity of consciousness across time. This deep blue-green crystal pulses with the rhythm of tides and contains within its faceted depths the accumulated memories of countless beings. Unlike simple memory storage, the Shard represents living memory—experiences that continue to grow, evolve, and influence reality even after their original owners have passed on.
+The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], representing the fundamental power of memory, experience, and the continuity of consciousness across time. This deep blue-green crystal pulses with the rhythm of tides and contains within its faceted depths the accumulated memories of countless beings. Unlike simple memory storage, the Shard represents living memory—experiences that continue to grow, evolve, and influence reality even after their original owners have passed on.
 
 ## Physical Description
 ### Appearance
@@ -193,7 +193,7 @@ The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Sha
 - **Elimination**: Requires experienced memory healers and careful extraction
 
 ### Shadow Integration
-- **Connection**: Shard's power can attract [[02_Worldbuilding/Lore/The Deep Mother]]'s attention
+- **Connection**: Shard's power can attract [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s attention
 - **Corruption**: Nightmares and fears begin mixing with positive memories
 - **Progression**: Gradual transformation of memory collection toward traumatic focus
 - **Danger**: Shard could become source of fear and despair rather than wisdom
@@ -201,16 +201,16 @@ The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Sha
 
 ## Current Status & Location
 ### Hidden Sanctuary
-- **Location**: Secret vault beneath [[02_Worldbuilding/Places/Memory Meadows]]
-- **Guardian**: [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] (suspected)
+- **Location**: Secret vault beneath [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]
+- **Guardian**: [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]] (suspected)
 - **Protection**: Layers of memory-warding and consciousness-shielding magic
 - **Access**: Known only to select members of reformed [[Memory Farmers]]
 - **Condition**: Fully functional but dormant, waiting for worthy wielder
 
 ### Active Seekers
 - **[[The Convergence Seekers]]**: Want Shard to access pre-Sundering unification knowledge
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Seek to monetize memory-trading capabilities
-- **[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Believes Shard holds key to ethical memory work
+- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Seek to monetize memory-trading capabilities
+- **[[02_Worldbuilding/People/Memory Harvester Kythara|02 Worldbuilding/People/Memory Harvester Kythara]]**: Believes Shard holds key to ethical memory work
 - **Government Factions**: Various groups want access to historical intelligence
 - **Scholar Networks**: Academic institutions seeking ultimate research tool
 
@@ -262,12 +262,12 @@ The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Sha
 **Epic Choice**: Personal sacrifice for greater good or finding alternative solution
 
 ## Connected Elements
-- One of [[02_Worldbuilding/Lore/The Seven Shards]], connecting to overarching cosmic magic system
+- One of [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], connecting to overarching cosmic magic system
 - Links to [[Memory Farmers]] through shared focus on memory manipulation and preservation
-- Connected to [[02_Worldbuilding/Places/Memory Meadows]] as likely hiding place
-- Associated with [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] as potential guardian
+- Connected to [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as likely hiding place
+- Associated with [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten|02 Worldbuilding/People/Archivist Mnemonic The Forgotten]] as potential guardian
 - Relevant to [[The Convergence Seekers]] seeking pre-Sundering knowledge
-- Connected to [[02_Worldbuilding/Lore/The Deep Mother]] through memory of original trauma
+- Connected to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] through memory of original trauma
 - Links to all major historical events through accumulated witness accounts
 
 ## DM Notes
@@ -304,7 +304,7 @@ Legends speak of The Tidal Shard of Memory as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Recursion Cult]]
+- [[02_Worldbuilding/Places/The Recursion Cult|02 Worldbuilding/Places/The Recursion Cult]]
 
 
 ## Connections

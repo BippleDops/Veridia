@@ -24,7 +24,7 @@ world: Both
 *Gold Flows Like Water, Power Follows the Current*
 
 ## Overview
-The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[02_Worldbuilding/Places/Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
+The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
 
 ## The Council of Five
 
@@ -78,7 +78,7 @@ The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor]]'s economy th
 > [!warning] DM Only
 > - Funding both sides of conflicts
 > - Crystal addiction for profit
-> - Collaborating with [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+> - Collaborating with [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 > - Hiding [[Lord Aurelius Goldwave]]'s embezzlement
 > - Planning economic coup
 
@@ -101,7 +101,7 @@ The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor]]'s economy th
 ## Relationships
 
 ### Allies
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Mutual dependence
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] - Mutual dependence
 - International trade partners
 - Mercenary companies
 - Some noble houses
@@ -112,9 +112,9 @@ The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor]]'s economy th
 - Foreign kingdoms - Business only
 
 ### Opponents
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Threatens profit
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Competition/cooperation
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Destabilizing influence
+- [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Threatens profit
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Competition/cooperation
+- [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]] - Destabilizing influence
 - Pirates and raiders
 
 ## Current Schemes
@@ -218,7 +218,7 @@ Attempting to control all crystal trade:
 - No refunds or exceptions
 
 ## The Five Towers
-Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
+Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]:
 - **Gold Tower**: [[Lord Aurelius Goldwave]]
 - **Silk Tower**: [[Lady Venetia Silkwind]]
 - **Jade Tower**: [[Master Chen Wei]]
@@ -227,8 +227,8 @@ Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
 
 ## Secret Agreements
 > [!warning] DM Only
-> - Deal with [[02_Worldbuilding/People/Vex Shadowthorn]] for smuggling
-> - Funding [[02_Worldbuilding/People/Prince Caspian Duskwater]] (hedging bets)
+> - Deal with [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] for smuggling
+> - Funding [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]] (hedging bets)
 > - Agreement with foreign invasion force
 > - Plan to establish merchant republic
 > - Control over Queen's personal finances
@@ -241,20 +241,20 @@ Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
 - Their collapse would cause economic disaster
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Economic partnership
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Complex relationship
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] - Economic partnership
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Complex relationship
 - [[Crystal Wardens]] - Provide security
 - International trade guilds
 
 ## Connected NPCs
 - [[Lord Aurelius Goldwave]] - Chairman
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Major client
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Secret deals
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Major client
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Secret deals
 - [[Admiral Cassandra Stormwind]] - Naval cooperation
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Headquarters
-- [[02_Worldbuilding/Places/Crystalhaven]] - Major market
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Headquarters
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Major market
 - [[The Azure Coast]] - Shipping routes
 - International ports
 
@@ -275,7 +275,7 @@ Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
 - [[The Forsaken Consortium Collective]]
 - [[The Shadow Trade Network]]
 - [[Tenebrarum Ambassadors]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -295,7 +295,7 @@ Legends speak of Merchant Princes as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]
 - [[Captain Rodrigo Ironanchor]]
 - [[Crystal Wardens]]
 - [[Lady Venetia Silkwind]]

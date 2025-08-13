@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bodak-mpmm-bodak-mpmm.svg)
 
-# [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-mpmm.md)
+# [[3-Mechanics\CLI\bestiary\undead/bodak-mpmm|Bodak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -57,26 +57,26 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, the languages it knew in life"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see the bodak's eyes starts its turn within\
       \ 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution\
-      \ saving throw if the bodak isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ saving throw if the bodak isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
       \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is reduced to 0 hit points unless it is immune to the [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ is reduced to 0 hit points unless it is immune to the [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed\
-      \ save.\n\nUnless [surprised](/03_Mechanics/CLI/conditions.md#Surprised), a creature\
+      \ save.\n\nUnless [[/03_Mechanics/CLI/conditions#Surprised|surprised]], a creature\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ the creature does so, it has disadvantage on attack rolls against the bodak\
       \ until the start of its next turn. If the creature looks at the bodak in the\

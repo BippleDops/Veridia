@@ -50,7 +50,7 @@ setTimeout(() => {
 
 > [!column]
 >> [!div-m|no-title]
->> ![[Template_Lore_Placeholder.png]]
+>> ![[Template_Lore_Placeholder.png|Template Lore Placeholder.png]]
 >
 >> [!div-m|no-title] Lore Controls
 >> ~~~meta-bind
@@ -83,20 +83,20 @@ setTimeout(() => {
 # Summary
 Provide a concise in-world account players or NPCs might know.
 
-# Context
+## Context
 - Origins
 - Spread and adoption
 - Present-day implications
 
-# At the Table
+## At the Table
 - Investigation: actionable clues, DCs, and outcomes
 - Social: rites, codes, or leverage the party can use
 - Exploration: travel, navigation, or resource effects
 
-# Threads
+## Threads
 - Links: `INPUT[inlineListSuggester(optionQuery(#Category/Place),optionQuery(#Category/Quest),optionQuery(#Category/People),optionQuery(#Category/Group))]`
 
-# GM Notes
+## GM Notes
 Secrets, clocks, complications, and twist levers.
 <!-- ENHANCED_TEMPLATE_FOOTER -->
 

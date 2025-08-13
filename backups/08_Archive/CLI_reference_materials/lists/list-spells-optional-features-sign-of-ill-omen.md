@@ -20,7 +20,7 @@ world: Both
 
 ## 3rd Level
 
-- [Bestow Curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")
+- [[/03_Mechanics/CLI/spells/bestow-curse-xphb "XPHB"|Bestow Curse]]
 
 ## Player-Facing Summary
 

@@ -23,36 +23,36 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/armor-of-resistance.webp#right)
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
 `dice: [](armor-of-resistance-xdmg.md#^damage-type)`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
-| 1 | [Acid](/03_Mechanics/CLI/items/armor-of-acid-resistance-xdmg.md) |
-| 2 | [Cold](/03_Mechanics/CLI/items/armor-of-cold-resistance-xdmg.md) |
-| 3 | [Fire](/03_Mechanics/CLI/items/armor-of-fire-resistance-xdmg.md) |
-| 4 | [Force](/03_Mechanics/CLI/items/armor-of-force-resistance-xdmg.md) |
-| 5 | [Lightning](/03_Mechanics/CLI/items/armor-of-lightning-resistance-xdmg.md) |
-| 6 | [Necrotic](/03_Mechanics/CLI/items/armor-of-necrotic-resistance-xdmg.md) |
-| 7 | [Poison](/03_Mechanics/CLI/items/armor-of-poison-resistance-xdmg.md) |
-| 8 | [Psychic](/03_Mechanics/CLI/items/armor-of-psychic-resistance-xdmg.md) |
-| 9 | [Radiant](/03_Mechanics/CLI/items/armor-of-radiant-resistance-xdmg.md) |
-| 10 | [Thunder](/03_Mechanics/CLI/items/armor-of-thunder-resistance-xdmg.md) |
+| 1 | [[/03_Mechanics/CLI/items/armor-of-acid-resistance-xdmg|Acid]] |
+| 2 | [[/03_Mechanics/CLI/items/armor-of-cold-resistance-xdmg|Cold]] |
+| 3 | [[/03_Mechanics/CLI/items/armor-of-fire-resistance-xdmg|Fire]] |
+| 4 | [[/03_Mechanics/CLI/items/armor-of-force-resistance-xdmg|Force]] |
+| 5 | [[/03_Mechanics/CLI/items/armor-of-lightning-resistance-xdmg|Lightning]] |
+| 6 | [[/03_Mechanics/CLI/items/armor-of-necrotic-resistance-xdmg|Necrotic]] |
+| 7 | [[/03_Mechanics/CLI/items/armor-of-poison-resistance-xdmg|Poison]] |
+| 8 | [[/03_Mechanics/CLI/items/armor-of-psychic-resistance-xdmg|Psychic]] |
+| 9 | [[/03_Mechanics/CLI/items/armor-of-radiant-resistance-xdmg|Radiant]] |
+| 10 | [[/03_Mechanics/CLI/items/armor-of-thunder-resistance-xdmg|Thunder]] |
 ^damage-type
 
 **Items in this group:**
 
-- [Armor of Acid Resistance](/03_Mechanics/CLI/items/armor-of-acid-resistance-xdmg.md)
-- [Armor of Cold Resistance](/03_Mechanics/CLI/items/armor-of-cold-resistance-xdmg.md)
-- [Armor of Fire Resistance](/03_Mechanics/CLI/items/armor-of-fire-resistance-xdmg.md)
-- [Armor of Force Resistance](/03_Mechanics/CLI/items/armor-of-force-resistance-xdmg.md)
-- [Armor of Lightning Resistance](/03_Mechanics/CLI/items/armor-of-lightning-resistance-xdmg.md)
-- [Armor of Necrotic Resistance](/03_Mechanics/CLI/items/armor-of-necrotic-resistance-xdmg.md)
-- [Armor of Poison Resistance](/03_Mechanics/CLI/items/armor-of-poison-resistance-xdmg.md)
-- [Armor of Psychic Resistance](/03_Mechanics/CLI/items/armor-of-psychic-resistance-xdmg.md)
-- [Armor of Radiant Resistance](/03_Mechanics/CLI/items/armor-of-radiant-resistance-xdmg.md)
-- [Armor of Thunder Resistance](/03_Mechanics/CLI/items/armor-of-thunder-resistance-xdmg.md)
+- [[/03_Mechanics/CLI/items/armor-of-acid-resistance-xdmg|Armor of Acid Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-cold-resistance-xdmg|Armor of Cold Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-fire-resistance-xdmg|Armor of Fire Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-force-resistance-xdmg|Armor of Force Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-lightning-resistance-xdmg|Armor of Lightning Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-necrotic-resistance-xdmg|Armor of Necrotic Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-poison-resistance-xdmg|Armor of Poison Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-psychic-resistance-xdmg|Armor of Psychic Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-radiant-resistance-xdmg|Armor of Radiant Resistance]]
+- [[/03_Mechanics/CLI/items/armor-of-thunder-resistance-xdmg|Armor of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

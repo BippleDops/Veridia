@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-reef-shark-xmm-reef-shark-xmm.svg)
 
-# [Reef Shark](3-Mechanics\CLI\bestiary\beast/reef-shark-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/reef-shark-xmm|Reef Shark]]
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Reef Shark (XMM)"
@@ -50,15 +50,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "5 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "blindsight 30 ft., passive Perception 12"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The shark has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The shark has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the shark's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
   - "desc": "The shark can breathe only underwater."

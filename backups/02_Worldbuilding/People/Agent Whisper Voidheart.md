@@ -13,8 +13,8 @@ race: Human (Shadow-Enhanced)
 class: Rogue/Warlock
 level: 11
 alignment: Lawful Evil
-faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
-location: '[[02_Worldbuilding/Places/Crystallium]]'
+faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
+location: '[[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]'
 hierarchy_rank: Shadow Agent (6th Sphere)
 specialization: Government Infiltration
 created: '2025-08-12'
@@ -30,11 +30,11 @@ updated: '2025-08-12T00:00:00+00:00'
 
 ## Overview
 
-Agent Whisper Voidheart represents the epitome of successful shadow conspiracy infiltration - a dedicated operative who has spent seven years embedded within the [[02_Worldbuilding/Places/Parliament of Echoes]] while maintaining perfect cover as a trusted administrative assistant. Her success stems not from exceptional deception, but from her genuine belief that shadow-human integration represents beneficial evolution for both species.
+Agent Whisper Voidheart represents the epitome of successful shadow conspiracy infiltration - a dedicated operative who has spent seven years embedded within the [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] while maintaining perfect cover as a trusted administrative assistant. Her success stems not from exceptional deception, but from her genuine belief that shadow-human integration represents beneficial evolution for both species.
 
 Unlike many shadow operatives who struggle with the moral implications of their work, Whisper embraces her role as bridge between human and shadow consciousness. She views her infiltration not as betrayal of humanity, but as service to a greater vision of unified existence where the artificial barriers between species dissolve into cooperative synthesis.
 
-Currently assigned to the office of Senator [[Elena Truelight]], a member of [[02_Worldbuilding/Groups/The Light Preservation Society]], Whisper has spent two years carefully gathering intelligence on resistance operations while providing subtle guidance that steers the Senator's investigations away from critical shadow conspiracy vulnerabilities.
+Currently assigned to the office of Senator [[Elena Truelight]], a member of [[02_Worldbuilding/Groups/The Light Preservation Society|02 Worldbuilding/Groups/The Light Preservation Society]], Whisper has spent two years carefully gathering intelligence on resistance operations while providing subtle guidance that steers the Senator's investigations away from critical shadow conspiracy vulnerabilities.
 
 ## Physical Appearance
 
@@ -172,7 +172,7 @@ Placement as administrative assistant in parliamentary facilities, rotating thro
 
 **Intelligence Gathering Activities**:
 - Monitoring Senator Truelight's investigation into government irregularities
-- Documenting [[02_Worldbuilding/Groups/The Light Preservation Society]] contacts and activities
+- Documenting [[02_Worldbuilding/Groups/The Light Preservation Society|02 Worldbuilding/Groups/The Light Preservation Society]] contacts and activities
 - Tracking resistance network communications and coordination
 - Identifying other government officials with anti-shadow sentiments
 - Assessing security vulnerabilities in parliamentary facilities
@@ -180,7 +180,7 @@ Placement as administrative assistant in parliamentary facilities, rotating thro
 ## Shadow Conspiracy Role and Operations
 
 ### Current Mission Parameters
-**Primary Objective**: Monitor and subtly influence Senator [[Elena Truelight]]'s resistance activities while gathering intelligence on [[02_Worldbuilding/Groups/The Light Preservation Society]] operations.
+**Primary Objective**: Monitor and subtly influence Senator [[Elena Truelight]]'s resistance activities while gathering intelligence on [[02_Worldbuilding/Groups/The Light Preservation Society|02 Worldbuilding/Groups/The Light Preservation Society]] operations.
 
 **Secondary Objectives**:
 - Document resistance network membership and communication methods
@@ -192,7 +192,7 @@ Placement as administrative assistant in parliamentary facilities, rotating thro
 - Maintain perfect cover - exposure would compromise broader parliamentary infiltration
 - Minimize harm to Senator Truelight and office staff while fulfilling mission requirements
 - Balance intelligence gathering with subtle influence to avoid detection
-- Regular reporting to [[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]] without compromising communication security
+- Regular reporting to [[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]] without compromising communication security
 
 ### Intelligence Reporting and Communication
 
@@ -461,6 +461,6 @@ Legends speak of Agent Whisper Voidheart as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Agent Whisper Voidheart]]
+- [[02_Worldbuilding/People/Agent Whisper Voidheart|02 Worldbuilding/People/Agent Whisper Voidheart]]
 
 <!-- enriched: true -->

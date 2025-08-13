@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Law Enforcement Medical Support]]
+- [[02_Worldbuilding/Places/Law Enforcement Medical Support|02 Worldbuilding/Places/Law Enforcement Medical Support]]
 
 <!-- enriched: true -->
 

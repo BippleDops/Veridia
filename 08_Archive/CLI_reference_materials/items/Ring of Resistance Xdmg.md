@@ -27,36 +27,36 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
 
 `dice: [](ring-of-resistance-xdmg.md#^damage-type-gem)`
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|
-| 1 | [Acid](/03_Mechanics/CLI/items/ring-of-acid-resistance-xdmg.md) | Pearl |
-| 2 | [Cold](/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md) | Tourmaline |
-| 3 | [Fire](/03_Mechanics/CLI/items/ring-of-fire-resistance-xdmg.md) | Garnet |
-| 4 | [Force](/03_Mechanics/CLI/items/ring-of-force-resistance-xdmg.md) | Sapphire |
-| 5 | [Lightning](/03_Mechanics/CLI/items/ring-of-lightning-resistance-xdmg.md) | Citrine |
-| 6 | [Necrotic](/03_Mechanics/CLI/items/ring-of-necrotic-resistance-xdmg.md) | Jet |
-| 7 | [Poison](/03_Mechanics/CLI/items/ring-of-poison-resistance-xdmg.md) | Amethyst |
-| 8 | [Psychic](/03_Mechanics/CLI/items/ring-of-psychic-resistance-xdmg.md) | Jade |
-| 9 | [Radiant](/03_Mechanics/CLI/items/ring-of-radiant-resistance-xdmg.md) | Topaz |
-| 10 | [Thunder](/03_Mechanics/CLI/items/ring-of-thunder-resistance-xdmg.md) | Spinel |
+| 1 | [[/03_Mechanics/CLI/items/ring-of-acid-resistance-xdmg|Acid]] | Pearl |
+| 2 | [[/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg|Cold]] | Tourmaline |
+| 3 | [[/03_Mechanics/CLI/items/ring-of-fire-resistance-xdmg|Fire]] | Garnet |
+| 4 | [[/03_Mechanics/CLI/items/ring-of-force-resistance-xdmg|Force]] | Sapphire |
+| 5 | [[/03_Mechanics/CLI/items/ring-of-lightning-resistance-xdmg|Lightning]] | Citrine |
+| 6 | [[/03_Mechanics/CLI/items/ring-of-necrotic-resistance-xdmg|Necrotic]] | Jet |
+| 7 | [[/03_Mechanics/CLI/items/ring-of-poison-resistance-xdmg|Poison]] | Amethyst |
+| 8 | [[/03_Mechanics/CLI/items/ring-of-psychic-resistance-xdmg|Psychic]] | Jade |
+| 9 | [[/03_Mechanics/CLI/items/ring-of-radiant-resistance-xdmg|Radiant]] | Topaz |
+| 10 | [[/03_Mechanics/CLI/items/ring-of-thunder-resistance-xdmg|Thunder]] | Spinel |
 ^damage-type-gem
 
 **Items in this group:**
 
-- [Ring of Acid Resistance](/03_Mechanics/CLI/items/ring-of-acid-resistance-xdmg.md)
-- [Ring of Cold Resistance](/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md)
-- [Ring of Fire Resistance](/03_Mechanics/CLI/items/ring-of-fire-resistance-xdmg.md)
-- [Ring of Force Resistance](/03_Mechanics/CLI/items/ring-of-force-resistance-xdmg.md)
-- [Ring of Lightning Resistance](/03_Mechanics/CLI/items/ring-of-lightning-resistance-xdmg.md)
-- [Ring of Necrotic Resistance](/03_Mechanics/CLI/items/ring-of-necrotic-resistance-xdmg.md)
-- [Ring of Poison Resistance](/03_Mechanics/CLI/items/ring-of-poison-resistance-xdmg.md)
-- [Ring of Psychic Resistance](/03_Mechanics/CLI/items/ring-of-psychic-resistance-xdmg.md)
-- [Ring of Radiant Resistance](/03_Mechanics/CLI/items/ring-of-radiant-resistance-xdmg.md)
-- [Ring of Thunder Resistance](/03_Mechanics/CLI/items/ring-of-thunder-resistance-xdmg.md)
+- [[/03_Mechanics/CLI/items/ring-of-acid-resistance-xdmg|Ring of Acid Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg|Ring of Cold Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-fire-resistance-xdmg|Ring of Fire Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-force-resistance-xdmg|Ring of Force Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-lightning-resistance-xdmg|Ring of Lightning Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-necrotic-resistance-xdmg|Ring of Necrotic Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-poison-resistance-xdmg|Ring of Poison Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-psychic-resistance-xdmg|Ring of Psychic Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-radiant-resistance-xdmg|Ring of Radiant Resistance]]
+- [[/03_Mechanics/CLI/items/ring-of-thunder-resistance-xdmg|Ring of Thunder Resistance]]
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

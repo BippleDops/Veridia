@@ -23,7 +23,7 @@ world: Aquabyssos
 
 # Unite the Recursions
 
-![Unite the Recursions Portrait](04_Resources/Assets/Art/Lore/Unite_the_Recursions.png)
+![[04_Resources/Assets/Art/Lore/Unite_the_Recursions.png|Unite the Recursions Portrait]]
 
 *The ultimate quest to merge all recursive realities into one stable existence*
 
@@ -485,11 +485,11 @@ The real question isn't whether to unite the recursions, but whether the party w
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/The Reality Engine]]
-- [[02_Worldbuilding/Groups/The Convergence Cult]]
-- [[03_Mechanics/Recursion_Travel_System]]
-- [[02_Worldbuilding/Lore/The Seventeen Attempts]]
-- [[02_Worldbuilding/Places/The Recursion Nexus]]
+- [[02_Worldbuilding/Lore/The Reality Engine|02 Worldbuilding/Lore/The Reality Engine]]
+- [[02_Worldbuilding/Groups/The Convergence Cult|02 Worldbuilding/Groups/The Convergence Cult]]
+- [[03_Mechanics/Recursion_Travel_System|03 Mechanics/Recursion Travel System]]
+- [[02_Worldbuilding/Lore/The Seventeen Attempts|02 Worldbuilding/Lore/The Seventeen Attempts]]
+- [[02_Worldbuilding/Places/The Recursion Nexus|02 Worldbuilding/Places/The Recursion Nexus]]
 
 *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"*
 

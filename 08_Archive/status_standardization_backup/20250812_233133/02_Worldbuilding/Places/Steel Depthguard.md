@@ -54,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Steel Depthguard]]
+- [[02_Worldbuilding/Places/Steel Depthguard|02 Worldbuilding/Places/Steel Depthguard]]
 
 <!-- enriched: true -->
 

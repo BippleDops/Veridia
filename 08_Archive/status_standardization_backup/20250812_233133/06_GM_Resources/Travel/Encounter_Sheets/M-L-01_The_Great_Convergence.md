@@ -36,7 +36,7 @@ world: Both
 - Fail: Catastrophic split; survival arc; draw map of fractures
 
 ## Integrations
-- All core systems; update [[Master_Campaign_Index]] status and maps
+- All core systems; update [[Master_Campaign_Index|Master Campaign Index]] status and maps
 
 ## Quick-Run
 - Run node skill challenges over scenes; track Integrity; set final state

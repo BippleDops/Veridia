@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
 
-# [Knight of the Order](3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos.md)
+# [[3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos|Knight of the Order]]
 *Source: Curse of Strahd p. 139*  
 
 ```statblock
@@ -52,9 +52,9 @@ world: Both
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
@@ -66,7 +66,7 @@ world: Both
     "name": "Regeneration"
   - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [wish](/03_Mechanics/CLI/spells/wish-xphb.md)\
+      \ existence and regains all its hit points. While the soul is bodiless, a [[/03_Mechanics/CLI/spells/wish-xphb|wish]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The knight is immune to effects that turn undead."
@@ -91,12 +91,12 @@ world: Both
     "name": "Fist"
   - "desc": "The knight targets one creature it can see within 30 feet of it and against\
       \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-      \ On a failure, the target is [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ On a failure, the target is [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
       \ until the knight deals damage to it, or until the end of the knight's next\
-      \ turn. When the paralysis ends, the target is [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
-      \ of the knight for 1 minute. The [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ turn. When the paralysis ends, the target is [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ of the knight for 1 minute. The [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if it can see the knight, ending the [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ if it can see the knight, ending the [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
       \ condition on itself on a success."
     "name": "Vengeful Glare"
 "source":

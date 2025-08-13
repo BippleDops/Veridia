@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Places/The Threshold Chambers|02 Worldbuilding/Places/The Threshold Chambers]]
 
 
 ## Connections

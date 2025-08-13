@@ -45,7 +45,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/Templater/New Location]]
+- [[05_Templates/Templater/New Location|05 Templates/Templater/New Location]]
 
 
 ## Connections

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-putrid-xphb-undead-spirit-putrid-xphb.svg)
 
-# [Undead Spirit (Putrid)](3-Mechanics\CLI\bestiary\undead/undead-spirit-putrid-xphb.md)
+# [[3-Mechanics\CLI\bestiary\undead/undead-spirit-putrid-xphb|Undead Spirit (Putrid)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -43,15 +43,15 @@ world: Both
   - !!int "9"
 "speed": "30 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "Constitution Saving Throw: DC equals your spell save DC, any creature\
       \ (other than you) that starts its turn within a 5-foot Emanation originating\
-      \ from the spirit. Failure: The creature has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ from the spirit. Failure: The creature has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the start of its next turn."
     "name": "Festering Aura"
 "actions":
@@ -60,8 +60,8 @@ world: Both
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d6 + 3 + the spell's level Slashing damage. If the target has\
-      \ the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition, it has\
-      \ the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition until\
+      \ the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition, it has\
+      \ the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition until\
       \ the end of its next turn."
     "name": "Rotting Claw"
 "source":

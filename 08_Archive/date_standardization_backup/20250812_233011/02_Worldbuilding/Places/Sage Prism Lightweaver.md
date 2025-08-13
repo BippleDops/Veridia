@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sage Prism Lightweaver]]
+- [[02_Worldbuilding/Places/Sage Prism Lightweaver|02 Worldbuilding/Places/Sage Prism Lightweaver]]
 
 <!-- enriched: true -->
 

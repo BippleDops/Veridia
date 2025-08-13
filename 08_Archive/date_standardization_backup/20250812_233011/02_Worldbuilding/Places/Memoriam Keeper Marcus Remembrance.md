@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]
+- [[02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance|02 Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]
 
 <!-- enriched: true -->
 

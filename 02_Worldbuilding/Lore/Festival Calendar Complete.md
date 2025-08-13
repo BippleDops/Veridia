@@ -19,11 +19,11 @@ world: Both
 # Festival Calendar Complete
 *"In the rhythm of seasons and tides, both realms find their heartbeat - celebrating what connects us to the eternal cycles of water and wind."*
 
-> *"Festivals are the soul of a civilization made visible. In our celebrations, we reveal not just what we value, but who we truly are when joy and tradition unite us beyond the boundaries of depth and sky."* - [[02_Worldbuilding/People/Festival Coordinator Luna Celebration]]
+> *"Festivals are the soul of a civilization made visible. In our celebrations, we reveal not just what we value, but who we truly are when joy and tradition unite us beyond the boundaries of depth and sky."* - [[02_Worldbuilding/People/Festival Coordinator Luna Celebration|02 Worldbuilding/People/Festival Coordinator Luna Celebration]]
 
 ## Overview
 
-The Festival Calendar Complete chronicles the rich tapestry of celebrations, observances, and sacred seasons that mark time across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. From ancient religious festivals honoring the elemental forces to modern civic celebrations of unity and achievement, these events provide the cultural rhythm that defines life in both realms. This comprehensive calendar serves as both historical record and practical guide for understanding the temporal patterns that shape social, religious, and economic life across the interconnected worlds.
+The Festival Calendar Complete chronicles the rich tapestry of celebrations, observances, and sacred seasons that mark time across both [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. From ancient religious festivals honoring the elemental forces to modern civic celebrations of unity and achievement, these events provide the cultural rhythm that defines life in both realms. This comprehensive calendar serves as both historical record and practical guide for understanding the temporal patterns that shape social, religious, and economic life across the interconnected worlds.
 
 ## Chapter I: Universal Calendar System and Temporal Framework
 
@@ -617,27 +617,27 @@ The Festival Calendar Complete chronicles the rich tapestry of celebrations, obs
 4. **The Festival Alliance**: Diplomatic developments that emerge from cultural celebrations
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Festival Coordinator Luna Celebration]] - Master of festival organization and cultural celebration
-- [[02_Worldbuilding/People/High Priestess Tidal Blessing]] - Religious leader overseeing spiritual festivals
+- [[02_Worldbuilding/People/Festival Coordinator Luna Celebration|02 Worldbuilding/People/Festival Coordinator Luna Celebration]] - Master of festival organization and cultural celebration
+- [[02_Worldbuilding/People/High Priestess Tidal Blessing|02 Worldbuilding/People/High Priestess Tidal Blessing]] - Religious leader overseeing spiritual festivals
 - [[Cultural Ambassador Bridge-Builder]] - Specialist in cross-cultural festival integration
 - [[Master Wind Singer Melody Tradition]] - Keeper of musical festival traditions
 
 ## Connected Locations
 - [[The Great Festival Grounds]] - Primary location for major inter-realm celebrations
-- [[02_Worldbuilding/Places/The Community Feast Halls]] - Social spaces for cultural gatherings
+- [[02_Worldbuilding/Places/The Community Feast Halls|02 Worldbuilding/Places/The Community Feast Halls]] - Social spaces for cultural gatherings
 - [[The Sacred Convergence Plaza]] - Special location for spiritual and unity festivals
 - [[The Festival Archives]] - Repository of festival traditions and celebration records
 
 ## Connected Organizations
 - [[The Festival Council]] - Governing body for community celebration planning
-- [[02_Worldbuilding/Groups/The Cultural Heritage Society]] - Organization preserving festival traditions
+- [[02_Worldbuilding/Groups/The Cultural Heritage Society|02 Worldbuilding/Groups/The Cultural Heritage Society]] - Organization preserving festival traditions
 - [[The Inter-Realm Celebration Committee]] - Group coordinating cross-cultural festivals
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
-- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs|02 Worldbuilding/Lore/Aethermoor Social Customs]]
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]]
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]]
 
 ## Player-Facing Summary
 

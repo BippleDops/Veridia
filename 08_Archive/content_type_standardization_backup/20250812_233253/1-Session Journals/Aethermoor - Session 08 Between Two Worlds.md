@@ -4,11 +4,11 @@ type: Lore
 status: complete
 session_number: 8
 date_played: null
-location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]'
+location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'
 npcs_featured:
 - '[[The Drowned God]] (True Form)'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
 - '[[Ancient Aquabyssos Rulers]]'
 quests_advanced:
 - '[[Rewrite the World Order]]'
@@ -44,7 +44,7 @@ created: '2025-08-11'
 
 ## 🎬 Strong Start
 
-Reality fractures. The party exists simultaneously in [[02_Worldbuilding/Places/Port Meridian]] and [[Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
+Reality fractures. The party exists simultaneously in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] and [[Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
 
 ## 📍 Scenes
 
@@ -78,7 +78,7 @@ Reality fractures. The party exists simultaneously in [[02_Worldbuilding/Places/
 2. Aquabyssos's magic could solve Aethermoor's problems
 3. The entity feeds on isolation between worlds
 4. Ancient Aquabyssos had peaceful surface relations
-5. [[02_Worldbuilding/People/The Crimson Sage]] is burning her life force as fuel
+5. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] is burning her life force as fuel
 6. The Queen's love for her people can break the possession
 7. Time is circular in this space - endings create beginnings
 8. The Festival was always meant to be a bridge ceremony
@@ -142,11 +142,11 @@ Reality fractures. The party exists simultaneously in [[02_Worldbuilding/Places/
 
 ## 🎭 Cliffhanger Ending
 
-The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[Aquabyssos]] rises but as floating districts above [[02_Worldbuilding/Places/Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
+The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[Aquabyssos]] rises but as floating districts above [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
 
 ## 🔗 Connected Notes
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview|02 Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]
 - [[Reality Merge Zones]]
 - [[The Drowned God]]
 - [[Dual World Mechanics]]
@@ -174,4 +174,4 @@ Key Mechanics:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Drowned God]]
+- [[02_Worldbuilding/Lore/The Drowned God|02 Worldbuilding/Lore/The Drowned God]]

@@ -219,11 +219,11 @@ Abjuration study follows structured progressions:
 - **Resource Management**: Balancing protective needs with magical energy
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation]] - Complementary offensive magic
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation]] - Environmental adaptation spells
-- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
-- [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]] - Complementary offensive magic
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation|02 Worldbuilding/Lore/Ω System CLI Spells School Transmutation]] - Environmental adaptation spells
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking|02 Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
 
 
 ## Connections
@@ -252,5 +252,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Spell Components]]
+- [[02_Worldbuilding/Lore/Spell Components|02 Worldbuilding/Lore/Spell Components]]
 - [[Aethermoor]]

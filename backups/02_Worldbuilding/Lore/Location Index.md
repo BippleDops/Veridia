@@ -49,7 +49,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[Royal Vault]] - Secure storage and treasury
 - [[Harbor District]] - Extended port facilities
 - [[Harbor District Customs House]] - Trade regulation offices
-- [[Market_District]] - Expanded commercial zone
+- [[Market_District|Market District]] - Expanded commercial zone
 - [[Noble Quarter]] - Elite living areas
 
 #### Other Major Settlements
@@ -57,7 +57,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[New Thalassopolis]] - Ancient mer-folk settlement ruins
 - [[Crystalhaven]] - Crystal-focused trading post
 - [[Goldspire Port]] - Wealthy merchant harbor town
-- [[Pearl_Harbor_City]] - Pearl diving and trade center
+- [[Pearl_Harbor_City|Pearl Harbor City]] - Pearl diving and trade center
 - [[Nereidios]] - Sea-elf cultural center
 - [[Ironhold]] - Industrial and manufacturing hub
 - [[Lumengarde]] - Sky-touching lighthouse city
@@ -77,7 +77,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 
 #### Commercial & Economic
 - [[The Grand Bazaar of Echoing Coins]] - Massive marketplace
-- [[02_Worldbuilding/Lore/pat]] - Mobile trading platform
+- [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]] - Mobile trading platform
 - [[The Floating Markets of Nereidios]] - Sea-elf commerce center
 - [[The Sunken Markets]] - Underwater trading district
 - [[The Tidepool Markets]] - Tidal zone commerce
@@ -104,7 +104,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[Aethermoor Archives]] - Historical record repository
 - [[The Forgotten Archive]] - Lost knowledge storage
 - [[The Archive of Unremembered Things]] - Memory-focused library
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Ancient underwater library
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Ancient underwater library
 - [[Abyssal Academy]] - Deep-sea learning institution
 
 ### Natural & Mystical Locations
@@ -211,7 +211,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[Pressure Tube Terminal]] - Pneumatic transport station
 - [[Pressure Tubes]] - Transportation tunnel network
 - [[Dream Rails]] - Mystical transport system
-- [[02_Worldbuilding/Lore/NPC ]] - Natural underwater roadway
+- [[02_Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]] - Natural underwater roadway
 - [[Surface Portal Alpha]] - Primary surface-depth gateway
 - [[Blood Current Express]] - Rapid transport system
 
@@ -295,4 +295,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Update Indexes]]
+- [[02_Worldbuilding/Lore/Update Indexes|02 Worldbuilding/Lore/Update Indexes]]

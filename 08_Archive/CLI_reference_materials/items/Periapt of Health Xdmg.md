@@ -24,9 +24,9 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-While wearing this pendant, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to regain `2d4 + 2` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). Once used, this property can't be used again until the next dawn.
+While wearing this pendant, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to regain `2d4 + 2` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. Once used, this property can't be used again until the next dawn.
 
-In addition, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition while you wear this pendant.
+In addition, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws to avoid or end the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition while you wear this pendant.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

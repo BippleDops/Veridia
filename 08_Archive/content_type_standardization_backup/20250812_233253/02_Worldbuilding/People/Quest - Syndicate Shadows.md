@@ -34,7 +34,7 @@ accessibility:
 
 # Quest - Syndicate Shadows
 
-![Quest - Syndicate Shadows Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Syndicate_Shadows.png)
+![[04_Resources/Assets/Art/NPCs/Quest_-_Syndicate_Shadows.png|Quest - Syndicate Shadows Portrait]]
 
 ## Role and Motive
 Quest - Syndicate Shadows moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.

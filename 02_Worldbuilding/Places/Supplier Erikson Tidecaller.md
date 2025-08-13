@@ -164,7 +164,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
+- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller|02 Worldbuilding/Places/Supplier Erikson Tidecaller]]
 
 <!-- enriched: true -->
 - [[Abyssos Prime]]

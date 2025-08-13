@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spined-devil-xmm-spined-devil-xmm.svg)
 
-# [Spined Devil](3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm|Spined Devil]]
 *Source: Monster Manual (2024) p. 296*  
 
 ## Spined Devil
@@ -72,8 +72,8 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"senses": "darkvision 120 ft. (unimpeded by magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]),\
   \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
@@ -81,7 +81,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
   - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The devil has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

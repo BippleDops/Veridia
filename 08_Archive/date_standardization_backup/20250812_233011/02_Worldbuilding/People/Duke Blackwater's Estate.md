@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duke Blackwater's Estate]]
+- [[02_Worldbuilding/People/Duke Blackwater's Estate|02 Worldbuilding/People/Duke Blackwater's Estate]]
 
 <!-- enriched: true -->
 

@@ -177,7 +177,7 @@ session_notes:              # Session-specific annotations
 
 ### Primary Categories
 ```yaml
-# Content Type Tags
+## Content Type Tags
 - content/adventure
 - content/npc
 - content/location
@@ -187,30 +187,30 @@ session_notes:              # Session-specific annotations
 - content/mechanics
 - content/template
 
-# World Tags
+## World Tags
 - world/aethermoor
 - world/aquabyssos
 - world/both
 - world/universal
 
-# Campaign Tags
+## Campaign Tags
 - campaign/active
 - campaign/archived
 - campaign/planning
 
-# Status Tags
+## Status Tags
 - status/draft
 - status/complete
 - status/published
 - status/needs-review
 
-# Importance Tags
+## Importance Tags
 - importance/critical
 - importance/major
 - importance/minor
 - importance/background
 
-# Access Tags
+## Access Tags
 - access/player
 - access/gm-only
 - access/public
@@ -285,7 +285,7 @@ cssclasses:
 
 ### Universal Section Headers
 ```markdown
-# [Content Title]
+## [Content Title]
 *Brief descriptive subtitle*
 
 ## Overview
@@ -308,7 +308,7 @@ cssclasses:
 
 #### Adventure Structure
 ```markdown
-# [Adventure Title]
+## [Adventure Title]
 *Brief hook and tone*
 
 ## Adventure Overview
@@ -320,9 +320,9 @@ cssclasses:
 ## Player Handouts
 ```
 
-#### NPC Structure
+### NPC Structure
 ```markdown
-# [NPC Name]
+## [NPC Name]
 *Brief description and role*
 
 ## Character Overview
@@ -334,9 +334,9 @@ cssclasses:
 ## Notes and Secrets
 ```
 
-#### Location Structure
+### Location Structure
 ```markdown
-# [Location Name]
+## [Location Name]
 *Brief description and significance*
 
 ## Location Overview
@@ -352,14 +352,14 @@ cssclasses:
 
 ### Link Formatting
 ```markdown
-# Standard link format
+## Standard link format
 [[Target File|Display Text]]
 
-# Content type prefixes for clarity
-[[02_Worldbuilding/NPCs/Character Name]]
-[[03_Mechanics/Rules/System Name]]
+## Content type prefixes for clarity
+[[02_Worldbuilding/NPCs/Character Name|02 Worldbuilding/NPCs/Character Name]]
+[[03_Mechanics/Rules/System Name|03 Mechanics/Rules/System Name]]
 
-# Contextual links with descriptions
+## Contextual links with descriptions
 - [[Location Name]] - Brief context why it's relevant
 - [[NPC Name]] - Their role or relationship
 ```

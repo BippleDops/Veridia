@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-black-dragon-xmm-adult-black-dragon-xmm.svg)
 
-# [Adult Black Dragon](3-Mechanics\CLI\bestiary\dragon/adult-black-dragon-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/adult-black-dragon-xmm|Adult Black Dragon]]
 *Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
@@ -69,9 +69,9 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "acid"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
@@ -84,34 +84,34 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Melf's Acid Arrow](/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb.md)\
+      \ use of Spellcasting to cast [[/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
       \ (level 3 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage\
       \ plus 4 (d8) Acid damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
       \ 54 (12d8) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit\
-      \ with spell attacks):\n\nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Fear](/03_Mechanics/CLI/spells/fear-xphb.md), [Melf's Acid Arrow](/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb.md)\
-      \ (level 3 version)\n\n1/day each: [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md),\
-      \ [Vitriolic Sphere](/03_Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
+      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
+      \ [[/03_Mechanics/CLI/spells/fear-xphb|Fear]], [[/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
+      \ (level 3 version)\n\n1/day each: [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|Speak with Dead]],\
+      \ [[/03_Mechanics/CLI/spells/vitriolic-sphere-xphb|Vitriolic Sphere]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "Dexterity Saving Throw: DC 17, one creature the dragon can see within\
-      \ 120 feet. Failure: 22 (4d10) Poison damage, and the target has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on saving throws to maintain [Concentration](/03_Mechanics/CLI/conditions.md#Concentration)\
+      \ 120 feet. Failure: 22 (4d10) Poison damage, and the target has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ on saving throws to maintain [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]\
       \ until the end of its next turn. Failure or Success: The dragon can't take\
       \ this action again until the start of its next turn."
     "name": "Cloud of Insects"
-  - "desc": "The dragon uses Spellcasting to cast [Fear](/03_Mechanics/CLI/spells/fear-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/fear-xphb|Fear]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Frightful Presence"
-  - "desc": "The dragon can move up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon can move up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -119,11 +119,11 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ by its presence, creating the following effects:"
     "name": ""
   - "desc": "- Acrid Haze. Odorous and stifling fog covers the area within 1 mile\
-      \ of the lair, rendering that area [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md).\
+      \ of the lair, rendering that area [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]].\
       \ Travel for creatures other than the dragon and its allies takes twice the\
       \ usual time in that area.  \n- Foul Water. Water sources within 1 mile\
       \ of the lair are supernaturally fouled. A creature that drinks such water must\
-      \ succeed on a DC 15 Constitution saving throw or have the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ succeed on a DC 15 Constitution saving throw or have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition for 1 hour.  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."

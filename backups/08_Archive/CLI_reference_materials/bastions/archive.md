@@ -29,17 +29,17 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 
 ## Research: Helpful Lore
 
-When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md) spell, then shares this knowledge with you the next time you speak with them.
+When you issue the "Research" order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [[/03_Mechanics/CLI/spells/legend-lore-xphb|Legend Lore]] spell, then shares this knowledge with you the next time you speak with them.
 
 ## Reference Book
 
 Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. You can choose one of the following options (your DM might make more options available):
 
-- **Bigby's Handy Arcana Codex.** You have Advantage on any Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check you make when you take the [Study](/03_Mechanics/CLI/actions.md#Study) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.  
-- **The Chronepsis Chronicles.** You have Advantage on any Intelligence ([History](/03_Mechanics/CLI/skills.md#History)) check you make when you take the Study action to recall lore about historical events, legendary people, ancient kingdoms, past disputes, wars, and lost civilizations.  
-- **Investigations of the Inquisitive.** You have Advantage on any Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check you make when you take the Study action to make deductions based on clues or evidence or to recall lore about traps, ciphers, riddles, and gadgetry.  
-- **Material Musings on the Nature of the World.** You have Advantage on any Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) check you make when you take the Study action to recall lore about terrain, plants, animals, and the weather.  
-- **The Old Faith and Other Religions.** You have Advantage on any Intelligence ([Religion](/03_Mechanics/CLI/skills.md#Religion)) check you make when you take the Study action to recall lore about deities, rites and prayers, hierarchies, holy symbols, and the practices of secret cults.  
+- **Bigby's Handy Arcana Codex.** You have Advantage on any Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check you make when you take the [[/03_Mechanics/CLI/actions#Study|Study]] action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.  
+- **The Chronepsis Chronicles.** You have Advantage on any Intelligence ([[/03_Mechanics/CLI/skills#History|History]]) check you make when you take the Study action to recall lore about historical events, legendary people, ancient kingdoms, past disputes, wars, and lost civilizations.  
+- **Investigations of the Inquisitive.** You have Advantage on any Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check you make when you take the Study action to make deductions based on clues or evidence or to recall lore about traps, ciphers, riddles, and gadgetry.  
+- **Material Musings on the Nature of the World.** You have Advantage on any Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check you make when you take the Study action to recall lore about terrain, plants, animals, and the weather.  
+- **The Old Faith and Other Religions.** You have Advantage on any Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check you make when you take the Study action to recall lore about deities, rites and prayers, hierarchies, holy symbols, and the practices of secret cults.  
 
 ## Enlarging the Facility
 

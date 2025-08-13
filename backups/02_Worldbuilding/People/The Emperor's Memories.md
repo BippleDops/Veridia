@@ -59,6 +59,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emperor's Memories]]
+- [[02_Worldbuilding/People/The Emperor's Memories|02 Worldbuilding/People/The Emperor's Memories]]
 
 <!-- enriched: true -->

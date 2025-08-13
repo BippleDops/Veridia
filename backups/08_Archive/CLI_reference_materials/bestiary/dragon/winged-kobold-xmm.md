@@ -33,7 +33,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winged-kobold-xmm-v1-winged-kobold-xmm.svg)
 
-# [Winged Kobold](3-Mechanics\CLI\bestiary\dragon/winged-kobold-xmm.md)
+# [[3-Mechanics\CLI\bestiary\dragon/winged-kobold-xmm|Winged Kobold]]
 *Source: Monster Manual (2024) p. 185*  
 
 Some kobolds are born with wings. Called urds by others of their kind, these kobolds are thought to be blessed by a dragon or Tiamat, the Dragon Queen. Despite their favored status, winged kobolds are as cowardly as their brethren and use their flight mostly to keep out of reach of their foes.
@@ -70,12 +70,12 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-  - "desc": "The kobold has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The kobold has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the kobold's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kobold has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":

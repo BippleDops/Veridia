@@ -1296,7 +1296,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/NPC Quick Reference Guide]]
+- [[06_GM_Resources/NPC Quick Reference Guide|06 GM Resources/NPC Quick Reference Guide]]
 
 
 ## Connections

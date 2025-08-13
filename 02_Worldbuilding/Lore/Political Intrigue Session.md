@@ -15,12 +15,12 @@ world: Both
 
 ## Cross-References
 
-- [[03_Mechanics/Complete_Faction_Warfare_System]]
+- [[03_Mechanics/Complete_Faction_Warfare_System|03 Mechanics/Complete Faction Warfare System]]
 
 
 ## Connections
 
-- [[Complete_Faction_Warfare_System]]
+- [[Complete_Faction_Warfare_System|Complete Faction Warfare System]]
 
 ## Player-Facing Summary
 

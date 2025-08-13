@@ -82,9 +82,9 @@ Early smugglers discovered that shadow magic could:
 - Rumored to be consortium of multiple wealthy individuals
 
 #### The Umbral Board of Directors (5 Senior Leaders)
-- **Director of Operations** - [[02_Worldbuilding/Groups/Master Trader Darkmarke]]: Daily business management and coordination
+- **Director of Operations** - [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]]: Daily business management and coordination
 - **Director of Security** - [[Commander Shadowguard]]: Protection, enforcement, and counter-intelligence  
-- **Director of Magic** - [[02_Worldbuilding/Groups/Arcane Master Voidweav]]: Shadow magic research and applications
+- **Director of Magic** - [[02_Worldbuilding/Groups/Arcane Master Voidweav|02 Worldbuilding/Groups/Arcane Master Voidweav]]: Shadow magic research and applications
 - **Director of Finance** - [[Treasurer Goldenshadow]]: Money management, laundering, and investment
 - **Director of Expansion** - [[Ambassador Blacktrade]]: New territory development and external relations
 
@@ -528,10 +528,10 @@ Early smugglers discovered that shadow magic could:
 - [[Merchant Princes]] - Legitimate business competition and potential money laundering partners
 
 ## Connected NPCs
-- [[02_Worldbuilding/Groups/The Shadow Merchant Prim]] - Supreme leader and strategic director
-- [[02_Worldbuilding/Groups/Master Trader Darkmarke]] - Operations director and daily business manager
+- [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Supreme leader and strategic director
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]] - Operations director and daily business manager
 - [[Commander Shadowguard]] - Security chief and enforcement coordinator
-- [[02_Worldbuilding/Groups/Arcane Master Voidweav]] - Shadow magic research and applications specialist
+- [[02_Worldbuilding/Groups/Arcane Master Voidweav|02 Worldbuilding/Groups/Arcane Master Voidweav]] - Shadow magic research and applications specialist
 - [[Treasurer Goldenshadow]] - Financial management and money laundering expert
 - [[Ambassador Blacktrade]] - External relations and expansion coordinator
 - **Regional Managers** - Territorial supervisors for different areas of [[Aquabyssos]]
@@ -545,8 +545,8 @@ Early smugglers discovered that shadow magic could:
 - **Shadow Storage Vaults** - Secure warehouses for contraband and illegal goods
 
 ## Related Quests
-- [[02_Worldbuilding/Groups/Quest - The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Characters interact with Network shipping and transportation operations
+- [[02_Worldbuilding/Groups/Quest - The Shadow Conspiracy Investigatio|02 Worldbuilding/Groups/Quest The Shadow Conspiracy Investigatio]] - Investigating Network connections to broader shadow magic conspiracy
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Characters interact with Network shipping and transportation operations
 - **The Corruption Investigation** - Exposing Network influence within government institutions
 - **The Shadow Market Infiltration** - Characters infiltrate Network operations for law enforcement or personal reasons
 - **The Legitimization Negotiation** - Attempting to transform Network into legitimate business organization
@@ -556,7 +556,7 @@ EOF < /dev/null
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -580,7 +580,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]
 - [[Crystal Wardens]]
 - [[Independent Smugglers]]
 - [[Merchant Princes]]

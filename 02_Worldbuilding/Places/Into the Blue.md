@@ -176,6 +176,6 @@ Legends speak of Into the Blue as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Into the Blue]]
+- [[02_Worldbuilding/Places/Into the Blue|02 Worldbuilding/Places/Into The Blue]]
 
 <!-- enriched: true -->

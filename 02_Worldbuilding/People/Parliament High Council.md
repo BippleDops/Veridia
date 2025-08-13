@@ -98,7 +98,7 @@ The Parliament High Council provides excellent political intrigue opportunities.
 
 ## Connections
 
-- [[Senator_Glaucus_Brain]]
+- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
 
 
 ## Appearance
@@ -134,7 +134,7 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Parliament High Council]]
+- [[02_Worldbuilding/People/Parliament High Council|02 Worldbuilding/People/Parliament High Council]]
 
 <!-- enriched: true -->
 nriched: true -->

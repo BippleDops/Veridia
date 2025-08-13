@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrow-xmm-merrow-xmm.svg)
 
-# [Merrow](3-Mechanics\CLI\bestiary\monstrosity/merrow-xmm.md)
+# [[3-Mechanics\CLI\bestiary\monstrosity/merrow-xmm|Merrow]]
 *Source: Monster Manual (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Merrow
@@ -72,7 +72,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
   - "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage,\
-      \ and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
       \ condition until the end of the merrow's next turn."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage."

@@ -27,11 +27,11 @@ updated: '2025-08-13T01:18:36.533048+00:00'
 
 ## Overview
 
-The Umbral Nexus serves as the supreme headquarters of [[02_Worldbuilding/People/The Shadow Conspiracy]], a reality-bending facility that exists simultaneously in the physical depths of Aquabyssos and the shadow realm itself. Located 6,800 feet beneath the continental shelf in a natural void formed by intersecting dimensional barriers, the Nexus represents the ultimate achievement of shadow-human cooperative construction.
+The Umbral Nexus serves as the supreme headquarters of [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]], a reality-bending facility that exists simultaneously in the physical depths of Aquabyssos and the shadow realm itself. Located 6,800 feet beneath the continental shelf in a natural void formed by intersecting dimensional barriers, the Nexus represents the ultimate achievement of shadow-human cooperative construction.
 
 Unlike other shadow conspiracy facilities that hide within or beneath human structures, the Umbral Nexus exists as a purpose-built cathedral to shadow evolution, where the boundaries between consciousness and architecture blur into a unified vision of transcendent possibility. The facility serves not merely as command center, but as living demonstration of what shadow-human integration can achieve when freed from conventional limitations.
 
-The Nexus houses the [[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'s First and Second Sphere leadership, containing the continental consciousness network that coordinates shadow operations across thousands of miles. Here, strategy becomes meditation, command becomes communion, and the artificial divisions between individual consciousness dissolve into collective purpose.
+The Nexus houses the [[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'s First and Second Sphere leadership, containing the continental consciousness network that coordinates shadow operations across thousands of miles. Here, strategy becomes meditation, command becomes communion, and the artificial divisions between individual consciousness dissolve into collective purpose.
 
 ## Dimensional Architecture
 
@@ -85,7 +85,7 @@ The chamber exists as a sphere of absolute darkness suspended within crystalline
 **Security**: Multiple authentication levels and consciousness pattern verification
 
 **Research Facilities**:
-- **The Synthesis Chambers**: Advanced consciousness transfer and integration equipment surpassing anything in the [[02_Worldbuilding/Places/Shadow Surgery Network]]
+- **The Synthesis Chambers**: Advanced consciousness transfer and integration equipment surpassing anything in the [[02_Worldbuilding/Places/Shadow Surgery Network|02 Worldbuilding/Places/Shadow Surgery Network]]
 - **Dimensional Research Array**: Equipment for studying shadow realm physics and consciousness properties
 - **The Prototype Studios**: Development space for new shadow integration techniques and consciousness manipulation procedures
 - **Memory Forge**: Specialized equipment for creating and modifying consciousness matrices with perfect authenticity
@@ -182,7 +182,7 @@ The chamber exists as a sphere of absolute darkness suspended within crystalline
 - **Project Manifestation**: Reality alteration through concentrated consciousness and shadow essence manipulation
 
 #### Technology Development
-**Equipment Innovation**: Advancement of consciousness manipulation technology beyond current [[02_Worldbuilding/Lore/Consciousness Manipulation Technology]] capabilities
+**Equipment Innovation**: Advancement of consciousness manipulation technology beyond current [[02_Worldbuilding/Lore/Consciousness Manipulation Technology|02 Worldbuilding/Lore/Consciousness Manipulation Technology]] capabilities
 
 **Prototype Development**: Testing of new consciousness transfer, modification, and enhancement equipment
 
@@ -403,6 +403,6 @@ Legends speak of The Umbral Nexus as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Umbral Nexus]]
+- [[02_Worldbuilding/Places/The Umbral Nexus|02 Worldbuilding/Places/The Umbral Nexus]]
 
 <!-- enriched: true -->

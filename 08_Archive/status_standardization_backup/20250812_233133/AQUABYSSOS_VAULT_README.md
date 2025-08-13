@@ -19,9 +19,9 @@ world: Aquabyssos
 This vault contains worldbuilding, mechanics, assets, canvases, and tools for running campaigns across Aquabyssos (undersea) and Aethermoor (sky) realms.
 
 ## Getting started
-- Open the canvas: [[04_Resources/Assets/Canvas/Vault_Overview.canvas]]
-- Browse visual assets via [[04_Resources/Assets/Galleries/Index.md]]
-- Explore the interactive world map: [[04_Resources/Maps/Aquabyssos_World_Map.md]] and overlays [[04_Resources/Assets/Maps/World_Map_Layers.md]]
+- Open the canvas: [[04_Resources/Assets/Canvas/Vault_Overview.canvas|04 Resources/Assets/Canvas/Vault Overview.canvas]]
+- Browse visual assets via [[04_Resources/Assets/Galleries/Index.md|04 Resources/Assets/Galleries/Index.md]]
+- Explore the interactive world map: [[04_Resources/Maps/Aquabyssos_World_Map.md|04 Resources/Maps/Aquabyssos World Map.md]] and overlays [[04_Resources/Assets/Maps/World_Map_Layers.md|04 Resources/Assets/Maps/World Map Layers.md]]
 
 ## Key directories
 - People/Groups/Places: `02_Worldbuilding/`
@@ -31,8 +31,8 @@ This vault contains worldbuilding, mechanics, assets, canvases, and tools for ru
 - Player materials: `07_Player_Resources/`
 
 ## Canvases
-- Vault Overview: [[04_Resources/Assets/Canvas/Vault_Overview.canvas]]
-- World Map & Regions: [[04_Resources/Assets/Canvas/World_Map_and_Regions.canvas]]
+- Vault Overview: [[04_Resources/Assets/Canvas/Vault_Overview.canvas|04 Resources/Assets/Canvas/Vault Overview.canvas]]
+- World Map & Regions: [[04_Resources/Assets/Canvas/World_Map_and_Regions.canvas|04 Resources/Assets/Canvas/World Map And Regions.canvas]]
 
 ## Asset generation pipeline
 1) Build prompts: `node scripts/build_prompts.js`
@@ -43,8 +43,8 @@ This vault contains worldbuilding, mechanics, assets, canvases, and tools for ru
 Outputs are written to `04_Resources/Assets/**` with JSON sidecars in `Generated/metadata`.
 
 ## Map standards
-- Battle maps: 140 px grid, no embedded text, icons only; see [[04_Resources/Assets/Maps/Battle_Map_Descriptions.md]]
-- World overlays: political, routes, depth, faction, magic, hidden; see [[04_Resources/Assets/Maps/World_Map_Layers.md]]
+- Battle maps: 140 px grid, no embedded text, icons only; see [[04_Resources/Assets/Maps/Battle_Map_Descriptions.md|04 Resources/Assets/Maps/Battle Map Descriptions.md]]
+- World overlays: political, routes, depth, faction, magic, hidden; see [[04_Resources/Assets/Maps/World_Map_Layers.md|04 Resources/Assets/Maps/World Map Layers.md]]
 - Markers link directly to place notes under `02_Worldbuilding/Places/`
 
 ## Git and remote
@@ -60,9 +60,9 @@ This README is the stable entry point; update canvases and galleries as content 
 
 ## Cross-References
 
-- [[04_Resources/Maps/Aquabyssos_World_Map]]
+- [[04_Resources/Maps/Aquabyssos_World_Map|04 Resources/Maps/Aquabyssos World Map]]
 
 
 ## Connections
 
-- [[Aquabyssos_World_Map]]
+- [[Aquabyssos_World_Map|Aquabyssos World Map]]

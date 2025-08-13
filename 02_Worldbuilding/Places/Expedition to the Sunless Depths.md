@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Expedition to the Sunless Depths]]
+- [[02_Worldbuilding/Places/Expedition to the Sunless Depths|02 Worldbuilding/Places/Expedition To The Sunless Depths]]
 
 <!-- enriched: true -->
 

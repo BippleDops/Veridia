@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Experimental Medical Ethics]]
+- [[02_Worldbuilding/Places/Experimental Medical Ethics|02 Worldbuilding/Places/Experimental Medical Ethics]]
 
 <!-- enriched: true -->
 

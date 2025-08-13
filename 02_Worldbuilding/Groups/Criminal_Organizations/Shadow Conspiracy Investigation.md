@@ -33,7 +33,7 @@ world: Aquabyssos
 *The Light Brigade, Truth Seekers, Those Who Remember*
 
 ## Overview
-The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization dedicated to uncovering, documenting, and ultimately dismantling [[02_Worldbuilding/Groups/The Shadow Conspiracy]]. Born from the growing suspicions of several high-ranking officials who noticed inconsistencies in their colleagues' behavior, the SCI operates in complete secrecy, knowing that discovery would mean certain death or replacement. They are the thin line of light standing against the encroaching darkness that threatens to consume all of [[02_Worldbuilding/Places/Aquabyssos]].
+The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization dedicated to uncovering, documenting, and ultimately dismantling [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]. Born from the growing suspicions of several high-ranking officials who noticed inconsistencies in their colleagues' behavior, the SCI operates in complete secrecy, knowing that discovery would mean certain death or replacement. They are the thin line of light standing against the encroaching darkness that threatens to consume all of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]].
 
 ## Origins & History
 
@@ -64,7 +64,7 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 ### Modern Operations (Last 3 Years)
 **Active Resistance**
 - Documented over 200 confirmed replacements
-- Rescued 47 originals from [[02_Worldbuilding/Places/The Memory Meadows]]
+- Rescued 47 originals from [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]
 - Prevented 12 high-profile replacement attempts
 - Built evidence database of conspiracy activities
 - Prepared for eventual public revelation
@@ -135,11 +135,11 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 #### Advanced Detection
 **Technical Methods**
-- **[[02_Worldbuilding/Items/Lightstone Scanners]]**: Devices that reveal shadow nature
-- **[[02_Worldbuilding/Items/Memory Resonators]]**: Tools that detect false memories
-- **[[02_Worldbuilding/Items/Truth Crystals]]**: Artifacts that compel honesty
-- **[[02_Worldbuilding/Items/Original Trackers]]**: Locate imprisoned real versions
-- **[[02_Worldbuilding/Items/Shadow Dampeners]]**: Suppress shadow abilities temporarily
+- **[[02_Worldbuilding/Items/Lightstone Scanners|02 Worldbuilding/Items/Lightstone Scanners]]**: Devices that reveal shadow nature
+- **[[02_Worldbuilding/Items/Memory Resonators|02 Worldbuilding/Items/Memory Resonators]]**: Tools that detect false memories
+- **[[02_Worldbuilding/Items/Truth Crystals|02 Worldbuilding/Items/Truth Crystals]]**: Artifacts that compel honesty
+- **[[02_Worldbuilding/Items/Original Trackers|02 Worldbuilding/Items/Original Trackers]]**: Locate imprisoned real versions
+- **[[02_Worldbuilding/Items/Shadow Dampeners|02 Worldbuilding/Items/Shadow Dampeners]]**: Suppress shadow abilities temporarily
 
 ### Infiltration Techniques
 
@@ -221,9 +221,9 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 - **[[Merchant Truth Society]]**: Traders monitoring suspicious business activity
 
 ### Allied Organizations
-- **[[02_Worldbuilding/Groups/The Crown Authority]]**: Some members suspect the truth
-- **[[02_Worldbuilding/Lore/Depth Guard]]**: Military unit with shared concerns
-- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Religious order maintaining authentic memories
+- **[[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]**: Some members suspect the truth
+- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]**: Military unit with shared concerns
+- **[[02_Worldbuilding/Places/Keepers of Memory|02 Worldbuilding/Places/Keepers Of Memory]]**: Religious order maintaining authentic memories
 - **[[Truth Seekers Guild]]**: Philosophers dedicated to reality
 - **[[The Unshadowed]]**: Support group for replacement survivors
 
@@ -237,14 +237,14 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 - **Medical Facilities**: Treatment for rescued originals (6 clinics)
 
 ### Technology & Equipment
-- **[[02_Worldbuilding/Items/Shadow Revealing Lamps]]**: Expose hidden shadow nature
-- **[[02_Worldbuilding/Items/Memory Verification Devices]]**: Detect false memories
-- **[[02_Worldbuilding/Items/Original DNA Scanners]]**: Confirm true identity
-- **[[02_Worldbuilding/Items/Anti-Shadow Weapons]]**: Combat effectiveness against replacements
-- **[[02_Worldbuilding/Items/Secure Communication Arrays]]**: Shadow-proof messaging
-- **[[02_Worldbuilding/Items/Invisibility Cloaks]]**: Avoid shadow detection
-- **[[02_Worldbuilding/Items/Thermal Shields]]**: Hide body heat signatures
-- **[[02_Worldbuilding/Items/Truth Serums]]**: Extract information from captures
+- **[[02_Worldbuilding/Items/Shadow Revealing Lamps|02 Worldbuilding/Items/Shadow Revealing Lamps]]**: Expose hidden shadow nature
+- **[[02_Worldbuilding/Items/Memory Verification Devices|02 Worldbuilding/Items/Memory Verification Devices]]**: Detect false memories
+- **[[02_Worldbuilding/Items/Original DNA Scanners|02 Worldbuilding/Items/Original DNA Scanners]]**: Confirm true identity
+- **[[02_Worldbuilding/Items/Anti-Shadow Weapons|02 Worldbuilding/Items/Anti Shadow Weapons]]**: Combat effectiveness against replacements
+- **[[02_Worldbuilding/Items/Secure Communication Arrays|02 Worldbuilding/Items/Secure Communication Arrays]]**: Shadow-proof messaging
+- **[[02_Worldbuilding/Items/Invisibility Cloaks|02 Worldbuilding/Items/Invisibility Cloaks]]**: Avoid shadow detection
+- **[[02_Worldbuilding/Items/Thermal Shields|02 Worldbuilding/Items/Thermal Shields]]**: Hide body heat signatures
+- **[[02_Worldbuilding/Items/Truth Serums|02 Worldbuilding/Items/Truth Serums]]**: Extract information from captures
 
 ### Intelligence Assets
 - Complete database of suspected replacements (500+ entries)
@@ -392,11 +392,11 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 ## Services & Capabilities
 
 ### What They Offer
-- **Shadow Detection Services**: Identify replaced individuals using [[02_Worldbuilding/Techniques/Advanced Shadow Recognition]]
-- **Original Rescue Operations**: Extract imprisoned real people from [[02_Worldbuilding/Locations/Conspiracy Prison Facilities]]
-- **Counter-Shadow Protection**: Security against replacement attempts via [[02_Worldbuilding/Equipment/Anti-Shadow Technology]]
-- **Intelligence Reports**: Information about [[02_Worldbuilding/Activities/Shadow Conspiracy Operations]]
-- **Safe Harbor**: Protection for those threatened by [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+- **Shadow Detection Services**: Identify replaced individuals using [[02_Worldbuilding/Techniques/Advanced Shadow Recognition|02 Worldbuilding/Techniques/Advanced Shadow Recognition]]
+- **Original Rescue Operations**: Extract imprisoned real people from [[02_Worldbuilding/Locations/Conspiracy Prison Facilities|02 Worldbuilding/Locations/Conspiracy Prison Facilities]]
+- **Counter-Shadow Protection**: Security against replacement attempts via [[02_Worldbuilding/Equipment/Anti-Shadow Technology|02 Worldbuilding/Equipment/Anti Shadow Technology]]
+- **Intelligence Reports**: Information about [[02_Worldbuilding/Activities/Shadow Conspiracy Operations|02 Worldbuilding/Activities/Shadow Conspiracy Operations]]
+- **Safe Harbor**: Protection for those threatened by [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 - **Evidence Documentation**: Legal proof of shadow replacement crimes
 - **Identity Verification**: Confirm authenticity of suspected individuals
 - **Rehabilitation Services**: Help recovered originals readjust to life
@@ -418,28 +418,28 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 ## Faction Items & Equipment
 
 ### Anti-Shadow Technology
-- **[[02_Worldbuilding/Items/Brightwater Detection Array]]**: Comprehensive shadow identification system
-- **[[02_Worldbuilding/Items/Original Verification Scanner]]**: Confirms true identity vs. replacement
-- **[[02_Worldbuilding/Items/Shadow Nullification Field]]**: Temporarily disables shadow abilities
-- **[[02_Worldbuilding/Items/Memory Authentication Device]]**: Identifies false vs. authentic memories
-- **[[02_Worldbuilding/Items/Thermal Truth Detector]]**: Reveals abnormal body temperature
-- **[[02_Worldbuilding/Items/Light-Based Weapons]]**: Combat equipment effective against shadows
-- **[[02_Worldbuilding/Items/Secure Communication Crystals]]**: Shadow-proof messaging system
-- **[[02_Worldbuilding/Items/Identity Preservation Kit]]**: Protect against memory extraction
+- **[[02_Worldbuilding/Items/Brightwater Detection Array|02 Worldbuilding/Items/Brightwater Detection Array]]**: Comprehensive shadow identification system
+- **[[02_Worldbuilding/Items/Original Verification Scanner|02 Worldbuilding/Items/Original Verification Scanner]]**: Confirms true identity vs. replacement
+- **[[02_Worldbuilding/Items/Shadow Nullification Field|02 Worldbuilding/Items/Shadow Nullification Field]]**: Temporarily disables shadow abilities
+- **[[02_Worldbuilding/Items/Memory Authentication Device|02 Worldbuilding/Items/Memory Authentication Device]]**: Identifies false vs. authentic memories
+- **[[02_Worldbuilding/Items/Thermal Truth Detector|02 Worldbuilding/Items/Thermal Truth Detector]]**: Reveals abnormal body temperature
+- **[[02_Worldbuilding/Items/Light-Based Weapons|02 Worldbuilding/Items/Light Based Weapons]]**: Combat equipment effective against shadows
+- **[[02_Worldbuilding/Items/Secure Communication Crystals|02 Worldbuilding/Items/Secure Communication Crystals]]**: Shadow-proof messaging system
+- **[[02_Worldbuilding/Items/Identity Preservation Kit|02 Worldbuilding/Items/Identity Preservation Kit]]**: Protect against memory extraction
 
 ### Investigation Equipment
-- **[[02_Worldbuilding/Items/Evidence Archive System]]**: Comprehensive documentation storage
-- **[[02_Worldbuilding/Items/Surveillance Detection Gear]]**: Counter-intelligence equipment
-- **[[02_Worldbuilding/Items/Pattern Analysis Matrix]]**: Track conspiracy behavior patterns
-- **[[02_Worldbuilding/Items/Secure Meeting Generator]]**: Create safe spaces for sensitive discussions
-- **[[02_Worldbuilding/Items/Truth Verification Serum]]**: Extract reliable information
+- **[[02_Worldbuilding/Items/Evidence Archive System|02 Worldbuilding/Items/Evidence Archive System]]**: Comprehensive documentation storage
+- **[[02_Worldbuilding/Items/Surveillance Detection Gear|02 Worldbuilding/Items/Surveillance Detection Gear]]**: Counter-intelligence equipment
+- **[[02_Worldbuilding/Items/Pattern Analysis Matrix|02 Worldbuilding/Items/Pattern Analysis Matrix]]**: Track conspiracy behavior patterns
+- **[[02_Worldbuilding/Items/Secure Meeting Generator|02 Worldbuilding/Items/Secure Meeting Generator]]**: Create safe spaces for sensitive discussions
+- **[[02_Worldbuilding/Items/Truth Verification Serum|02 Worldbuilding/Items/Truth Verification Serum]]**: Extract reliable information
 
 ### Rescue Equipment
-- **[[02_Worldbuilding/Items/Prison Break Tools]]**: Specialized equipment for facility infiltration
-- **[[02_Worldbuilding/Items/Medical Restoration Kit]]**: Treat trauma from shadow separation
-- **[[02_Worldbuilding/Items/Identity Reconstruction Database]]**: Help originals prove who they are
-- **[[02_Worldbuilding/Items/Psychological Recovery System]]**: Mental health support technology
-- **[[02_Worldbuilding/Items/Safe Transport Vehicle]]**: Armored evacuation for rescued originals
+- **[[02_Worldbuilding/Items/Prison Break Tools|02 Worldbuilding/Items/Prison Break Tools]]**: Specialized equipment for facility infiltration
+- **[[02_Worldbuilding/Items/Medical Restoration Kit|02 Worldbuilding/Items/Medical Restoration Kit]]**: Treat trauma from shadow separation
+- **[[02_Worldbuilding/Items/Identity Reconstruction Database|02 Worldbuilding/Items/Identity Reconstruction Database]]**: Help originals prove who they are
+- **[[02_Worldbuilding/Items/Psychological Recovery System|02 Worldbuilding/Items/Psychological Recovery System]]**: Mental health support technology
+- **[[02_Worldbuilding/Items/Safe Transport Vehicle|02 Worldbuilding/Items/Safe Transport Vehicle]]**: Armored evacuation for rescued originals
 
 ## Secret Agendas & Internal Politics
 
@@ -466,7 +466,7 @@ A radical wing led by survivors of replacement attempts advocates for immediate 
 ## Campaign Integration
 
 ### Connection to Main Themes
-- Represents resistance against [[02_Worldbuilding/Themes/Shadow Corruption]]
+- Represents resistance against [[02_Worldbuilding/Themes/Shadow Corruption|02 Worldbuilding/Themes/Shadow Corruption]]
 - Explores themes of identity, truth, and paranoia
 - Links to broader questions about what makes someone "real"
 - Provides moral complexity in treatment of shadow beings
@@ -521,13 +521,13 @@ A radical wing led by survivors of replacement attempts advocates for immediate 
 - [[Investigator Supreme Lucian Brightwater]] - Organization leader
 - [[Research Director Nerissa Clearwater]] - Chief analyst
 - [[Field Operations Chief Marcus Ironheart]] - Action specialist
-- [[02_Worldbuilding/People/Senator Glaucus]] - Major target of investigation
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential ally
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - Major target of investigation
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] - Potential ally
 
 ### Important Locations
 - [[The Obsidian Archive]] - Secret headquarters
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Primary rescue target
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Major infiltration site
+- [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] - Primary rescue target
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Major infiltration site
 - [[Safe House Network]] - Underground railroad
 - [[Investigation Laboratories]] - Anti-shadow research
 
@@ -539,7 +539,7 @@ A radical wing led by survivors of replacement attempts advocates for immediate 
 - [[Quest - Protect the Truth]] - Counter-intelligence
 
 ### Opposing Organizations
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy]] - Primary enemy
+- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] - Primary enemy
 - [[Shadow Parliament]] - Infiltrated government
 - [[Memory Farmers]] - Conspiracy collaborators
 - [[The Shadowless]] - Elite shadow enforcers
@@ -561,7 +561,7 @@ Legends speak of Shadow Conspiracy Investigation as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

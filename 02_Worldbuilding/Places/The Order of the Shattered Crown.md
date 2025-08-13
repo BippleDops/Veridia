@@ -181,7 +181,7 @@ The Order provides opportunities for redemption-themed adventures, charitable mi
 - [[The Azure Prophet Nerissa]]
 - [[Port Meridian]]
 - [[The Living Weapon]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -193,6 +193,6 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
 
 <!-- enriched: true -->

@@ -25,13 +25,13 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-30 | [Spell scroll (8th level)](/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg.md) |
-| 31-55 | [Potion of storm giant strength](/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg.md) |
-| 56-70 | [Potion of supreme healing](/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) |
-| 71-85 | [Spell scroll (9th level)](/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg.md) |
-| 86-93 | [Universal solvent](/03_Mechanics/CLI/items/universal-solvent-xdmg.md) |
-| 94-98 | [Arrow of slaying](/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg.md) |
-| 99-100 | [Sovereign glue](/03_Mechanics/CLI/items/sovereign-glue-xdmg.md) |
+| 01-30 | [[/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg|Spell scroll (8th level)]] |
+| 31-55 | [[/03_Mechanics/CLI/items/potion-of-storm-giant-strength-xdmg|Potion of storm giant strength]] |
+| 56-70 | [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Potion of supreme healing]] |
+| 71-85 | [[/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg|Spell scroll (9th level)]] |
+| 86-93 | [[/03_Mechanics/CLI/items/universal-solvent-xdmg|Universal solvent]] |
+| 94-98 | [[/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg|Arrow of slaying]] |
+| 99-100 | [[/03_Mechanics/CLI/items/sovereign-glue-xdmg|Sovereign glue]] |
 ^magic-item-table-e
 
 ## Player-Facing Summary

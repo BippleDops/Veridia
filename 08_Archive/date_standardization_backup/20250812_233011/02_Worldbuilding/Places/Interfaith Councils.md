@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Interfaith Councils]]
+- [[02_Worldbuilding/Places/Interfaith Councils|02 Worldbuilding/Places/Interfaith Councils]]
 
 <!-- enriched: true -->
 

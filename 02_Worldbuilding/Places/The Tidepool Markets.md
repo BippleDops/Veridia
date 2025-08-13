@@ -116,7 +116,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - **Cultural Programs**: Educational experiences and historical preservation
 
 #### The Crystal Workshop District
-- **Focus**: Items incorporating [[02_Worldbuilding/Lore/The Seven Shards]] energy or crystal technology
+- **Focus**: Items incorporating [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] energy or crystal technology
 - **Craftsmen**: Specialists in crystal manipulation and enhancement
 - **Raw Materials**: Fragments and components for magical item creation
 - **Research Services**: Analysis and identification of unknown magical items
@@ -345,7 +345,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - **Protection**: Community commitment to preserving natural environment
 
 #### Crystal Formations
-- **Natural Crystals**: Small [[02_Worldbuilding/Lore/The Seven Shards]] fragments in tidepool rock formations
+- **Natural Crystals**: Small [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] fragments in tidepool rock formations
 - **Enhancement**: Crystals naturally improve preservation of goods and materials
 - **Navigation**: Glowing crystals provide navigation aids during low light
 - **Research**: Scientists study connection between crystals and tidal patterns
@@ -391,9 +391,9 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 ## Connected Elements
 - Central hub for [[The Liminal Trading Company]] operations
 - Connected to all major settlements and factions through trade relationships
-- Links to [[02_Worldbuilding/Lore/The Seven Shards]] through crystal formations and crystal-based commerce
+- Links to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] through crystal formations and crystal-based commerce
 - Associated with reformed [[Memory Farmers]] through ethical memory trading
-- Connected to [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] through tidal prediction needs
+- Connected to [[02_Worldbuilding/People/Oracle Nerida the Tidereader|02 Worldbuilding/People/Oracle Nerida The Tidereader]] through tidal prediction needs
 - Links to international trade and cross-realm commerce
 - Associated with maritime industries and deep-sea resource exploitation
 - Connected to cultural and educational institutions through diverse merchant knowledge
@@ -440,7 +440,7 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Tidepool Markets]]
+- [[02_Worldbuilding/Places/The Tidepool Markets|02 Worldbuilding/Places/The Tidepool Markets]]
 
 <!-- enriched: true -->
 - [[The Liminal Trading Company]]

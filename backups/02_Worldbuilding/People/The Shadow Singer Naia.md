@@ -32,7 +32,7 @@ updated: '2025-08-11T00:00:00+00:00'
 *Voice of the Mother's Sorrow, Keeper of Lamentations*
 
 ## Overview
-Naia was born from the intersection of shadow and song, manifesting when a grieving mother's lament resonated with the [[02_Worldbuilding/Lore/The Deep Mother]]'s own sorrow at the world's pain. She embodies the Deep Mother's sadness made manifest, leading [[The Sorrow Singers]] in their sacred duty to give voice to all the grief, loss, and melancholy that the sleeping goddess feels for her suffering children. Her songs can heal emotional wounds or drive listeners to despair.
+Naia was born from the intersection of shadow and song, manifesting when a grieving mother's lament resonated with the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s own sorrow at the world's pain. She embodies the Deep Mother's sadness made manifest, leading [[The Sorrow Singers]] in their sacred duty to give voice to all the grief, loss, and melancholy that the sleeping goddess feels for her suffering children. Her songs can heal emotional wounds or drive listeners to despair.
 
 ## Description
 - **Appearance**: Ethereal young woman with silver-white hair that flows like liquid shadow
@@ -106,7 +106,7 @@ Naia was born from the intersection of shadow and song, manifesting when a griev
 - **[[Sister Thalassa the Depth-Touched]]**: Shares devotion but different methods
 - **[[Memory Harvester Kythara]]**: Collaborates on preserving emotional memories
 - **[[Captain Nautilus the Deep Wanderer]]**: He provides context for her visions
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological discussions about suffering's purpose
+- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream|02 Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological discussions about suffering's purpose
 - **The Dream Shepherds**: Network of those who tend to sleeping minds
 
 ### Those She Heals
@@ -117,7 +117,7 @@ Naia was born from the intersection of shadow and song, manifesting when a griev
 - **The Lonely**: Isolated individuals drowning in despair
 
 ### Complex Relations
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: He fears her songs might restore his painful memories
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: He fears her songs might restore his painful memories
 - **[[The Forgetting Cult]]**: Opposes her work because she helps people remember pain
 - **Entertainment Venues**: Some see her as competition for emotional engagement
 - **Government Officials**: Worry her healing work encourages political dissent
@@ -168,7 +168,7 @@ Naia was born from the intersection of shadow and song, manifesting when a griev
 - Protected by shadows that respond to her emotional state
 
 ## Connected Elements
-- Central to [[02_Worldbuilding/Lore/The Deep Mother]] emotional aspects
+- Central to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] emotional aspects
 - Links music and emotion to cosmic horror themes
 - Represents healing approach to trauma and shadow corruption
 - Bridge between individual psychology and divine empathy
@@ -202,7 +202,7 @@ Naia was born from the intersection of shadow and song, manifesting when a griev
 
 **Legendary Resistance (3/Day).** If Naia fails a saving throw, she can choose to succeed instead.
 
-**Deep Mother's Conduit.** Naia has a direct connection to [[02_Worldbuilding/Lore/The Deep Mother]]. She can sense the emotional state of any creature within 1 mile and knows instinctively how to ease their suffering.
+**Deep Mother's Conduit.** Naia has a direct connection to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]. She can sense the emotional state of any creature within 1 mile and knows instinctively how to ease their suffering.
 
 **Shadow Integration.** Shadows cling to Naia like living silk. As a bonus action, she can become incorporeal until the start of her next turn, allowing her to move through objects and creatures.
 
@@ -233,7 +233,7 @@ Naia was born from the intersection of shadow and song, manifesting when a griev
 
 **Memory Melody (Recharge 5-6).** Naia sings a song that helps listeners remember lost loved ones. All creatures within 60 feet must make a DC 21 Wisdom saving throw. On a failure, they become overwhelmed with memories and are stunned for 1 round but gain advantage on their next attack or ability check as the memories inspire them. Undead in the area take 27 (6d8) radiant damage instead.
 
-**The Great Lament (1/Day).** Naia channels the [[02_Worldbuilding/Lore/The Deep Mother]]'s cosmic sadness. All creatures within 120 feet must make a DC 21 Charisma saving throw. Enemies that fail take 36 (8d8) psychic damage and are frightened for 1 minute. Allies that fail are filled with profound empathy and gain resistance to all damage for 1 minute. All creatures feel the weight of universal suffering.
+**The Great Lament (1/Day).** Naia channels the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s cosmic sadness. All creatures within 120 feet must make a DC 21 Charisma saving throw. Enemies that fail take 36 (8d8) psychic damage and are frightened for 1 minute. Allies that fail are filled with profound empathy and gain resistance to all damage for 1 minute. All creatures feel the weight of universal suffering.
 
 ### Legendary Actions (3 per turn)
 Naia can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn.
@@ -253,7 +253,7 @@ When encountered at the [[Shadow Wells]] or another site sacred to [[The Sorrow 
 
 **Shadow Sanctuary.** Shadows in the lair become protective. All allies gain half cover from ranged attacks, and enemies have disadvantage on attack rolls against Naia.
 
-**Deep Mother's Presence.** The emotional weight of the [[02_Worldbuilding/Lore/The Deep Mother]]'s attention fills the space. All creatures must make a DC 18 Charisma saving throw or be overwhelmed by empathy, becoming unable to attack creatures with lower hit points than themselves until initiative count 20 of the next round.
+**Deep Mother's Presence.** The emotional weight of the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s attention fills the space. All creatures must make a DC 18 Charisma saving throw or be overwhelmed by empathy, becoming unable to attack creatures with lower hit points than themselves until initiative count 20 of the next round.
 
 ---
 
@@ -264,20 +264,20 @@ When encountered at the [[Shadow Wells]] or another site sacred to [[The Sorrow 
 - **[[The Emerald Sage Willowbark]]**: Shares understanding of ancient burdens and cosmic responsibility  
 - **[[Gareth Goldenheart, The Chosen Vessel]]**: Feels maternal protection toward the divine child, sings lullabies in his dreams
 - **[[The Azure Prophet Nerissa]]**: Fellow prophet who understands the weight of divine visions
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees the Crystal Shard's corruption eating at the queen's soul
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees the Crystal Shard's corruption eating at the queen's soul
 
 ### Cross-World Connections
-- **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: Her songs can calm the chaotic emotional energies
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: They seek her knowledge of deep emotional truths
-- **[[02_Worldbuilding/Lore/Convergence Point]]**: Senses the approaching convergence through increasing universal sorrow
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May be connected to Aetheron's fragmented consciousness
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Opposes their nihilistic philosophy with healing hope
-- **[[02_Worldbuilding/Places/The Tidepool Markets]]**: Occasional pilgrimages to help traumatized traders
-- **[[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]**: Senses its connection to oceanic divine power
-- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Her positive shadow work conflicts with their corruption
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Could help restore lost emotional connections
-- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Key figure in managing emotional fallout
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Her shadow-touched nature bridges different power sources
+- **[[02_Worldbuilding/Places/The Memory Storm Fields|02 Worldbuilding/Places/The Memory Storm Fields]]**: Her songs can calm the chaotic emotional energies
+- **[[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]**: They seek her knowledge of deep emotional truths
+- **[[02_Worldbuilding/Lore/Convergence Point|02 Worldbuilding/Lore/Convergence Point]]**: Senses the approaching convergence through increasing universal sorrow
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: May be connected to Aetheron's fragmented consciousness
+- **[[02_Worldbuilding/Groups/The Void Watchers|02 Worldbuilding/Groups/The Void Watchers]]**: Opposes their nihilistic philosophy with healing hope
+- **[[02_Worldbuilding/Places/The Tidepool Markets|02 Worldbuilding/Places/The Tidepool Markets]]**: Occasional pilgrimages to help traumatized traders
+- **[[02_Worldbuilding/Items/Crown of Tidal Sovereignty|02 Worldbuilding/Items/Crown Of Tidal Sovereignty]]**: Senses its connection to oceanic divine power
+- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**: Her positive shadow work conflicts with their corruption
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Could help restore lost emotional connections
+- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]**: Key figure in managing emotional fallout
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Her shadow-touched nature bridges different power sources
 
 ### Prophecies & Divine Wisdom
 
@@ -291,11 +291,11 @@ When encountered at the [[Shadow Wells]] or another site sacred to [[The Sorrow 
 *"The Deep Mother's sorrow is not endless sadness, but endless compassion. She weeps not for her own pain, but for every child who suffers. Her awakening depends not on power gathered, but on whether her children have learned to heal each other's wounds."*
 
 #### Current Visions
-Naia's connection to the [[02_Worldbuilding/Lore/The Deep Mother]] grants her prophetic dreams:
+Naia's connection to the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] grants her prophetic dreams:
 - Visions of [[Gareth Goldenheart, The Chosen Vessel]] surrounded by golden light, singing with a voice that could heal or shatter worlds
 - Dreams of all Seven Shard bearers standing in a circle, their combined light either creating or destroying everything
-- Glimpses of the [[02_Worldbuilding/Lore/The Deep Mother]] rising from her depths, her expression either infinite love or cosmic rage depending on her children's choices
-- Scenes of [[02_Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]] merging at the [[02_Worldbuilding/Lore/Convergence Point]], with emotions becoming visible as flowing light
+- Glimpses of the [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] rising from her depths, her expression either infinite love or cosmic rage depending on her children's choices
+- Scenes of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]] merging at the [[02_Worldbuilding/Lore/Convergence Point|02 Worldbuilding/Lore/Convergence Point]], with emotions becoming visible as flowing light
 
 ### Services for Shard Seekers
 
@@ -347,7 +347,7 @@ Legends speak of The Shadow Singer Naia as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia|02 Worldbuilding/People/The Shadow Singer Naia]]
 
 <!-- enriched: true -->
 - [[Captain Nautilus the Deep Wanderer]]

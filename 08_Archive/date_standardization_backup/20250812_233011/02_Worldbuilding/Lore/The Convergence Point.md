@@ -30,7 +30,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Convergence Point represents the ultimate culmination of mounting dimensional instabilities between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. It is both a prophetic event and a physical location where the barriers between the two realities will ultimately collapse, forcing a merger of incompatible worlds. Ancient texts from both realms speak of this inevitable crisis, though their interpretations differ wildly on whether convergence represents salvation or apocalypse.
+The Convergence Point represents the ultimate culmination of mounting dimensional instabilities between [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. It is both a prophetic event and a physical location where the barriers between the two realities will ultimately collapse, forcing a merger of incompatible worlds. Ancient texts from both realms speak of this inevitable crisis, though their interpretations differ wildly on whether convergence represents salvation or apocalypse.
 
 ## The Nature of Convergence
 
@@ -65,7 +65,7 @@ Where pressure meets the singing stone,
 Two peoples stand as one alone."*
 
 ### The Seven Convergence Signs
-According to [[02_Worldbuilding/People/The Crimson Sage]] and [[Aboleth Prime Yoth]], seven signs herald the approaching convergence:
+According to [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] and [[Aboleth Prime Yoth]], seven signs herald the approaching convergence:
 
 1. **Shadow Independence**: Shadows acting without owners *(completed)*
 2. **Memory Cross-Contamination**: Dreams of other-world lives *(occurring)*
@@ -82,7 +82,7 @@ The Convergence Point manifests differently depending on which world views it:
 
 **From Aethermoor:**
 - Appears as a massive crystal formation that seems to extend infinitely downward
-- Located in the disputed territory between [[02_Worldbuilding/Places/Crystalhaven]] and [[The Shadowmere]]
+- Located in the disputed territory between [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] and [[The Shadowmere]]
 - Surrounded by increasingly volatile magical energy
 - [[The Seven Shards]] are drawn to orbit this location
 
@@ -108,17 +108,17 @@ At the exact center exists a space that belongs fully to neither world:
 **Expected Result**: A new reality with both crystal magic and pressure adaptation, ruled by unified wisdom
 
 ### The Dominance Theory
-**Proponents**: [[02_Worldbuilding/Groups/The Crystal Throne]], [[The Depth Lords]], [[The Purist Coalition]]
+**Proponents**: [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]], [[The Depth Lords]], [[The Purist Coalition]]
 **Belief**: One world must consume the other for stability
 **Expected Result**: Total victory of one reality, complete erasure of the other
 
 ### The Annihilation Theory
-**Proponents**: [[The Reality Purists]], [[The Void Scholars]], [[02_Worldbuilding/People/Vex Shadowthorn]]
+**Proponents**: [[The Reality Purists]], [[The Void Scholars]], [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]
 **Belief**: Two incompatible realities cannot coexist—convergence means mutual destruction
 **Expected Result**: Collapse into primordial void, requiring complete recreation
 
 ### The Transcendence Theory
-**Proponents**: [[02_Worldbuilding/People/The Crimson Sage]], [[The Remembrancer General]], [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+**Proponents**: [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]], [[The Remembrancer General]], [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]]
 **Belief**: Convergence will birth an entirely new form of existence beyond current understanding
 **Expected Result**: Reality evolution into something unrecognizable but potentially glorious
 
@@ -257,7 +257,7 @@ Key choices facing heroes:
 
 ### The Crimson Sage's Truth
 > [!warning] DM Only
-> [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) knows that convergence was always planned. The separation into two worlds was temporary, designed to allow different aspects of existence to evolve separately before reuniting. The shadow corruption is his own consciousness expanding to reconnect with his lover, [[The Deep Mother]]. Convergence represents divine reunion, not cosmic accident.
+> [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Aetheron) knows that convergence was always planned. The separation into two worlds was temporary, designed to allow different aspects of existence to evolve separately before reuniting. The shadow corruption is his own consciousness expanding to reconnect with his lover, [[The Deep Mother]]. Convergence represents divine reunion, not cosmic accident.
 
 ### The Deep Mother's Dream
 > [!warning] DM Secret
@@ -316,11 +316,11 @@ Key choices facing heroes:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/The Crimson Sage]] - Orchestrating convergence
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Orchestrating convergence
 - [[The Deep Mother]] - Dreaming both realities
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Corrupted by crystal power
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Corrupted by crystal power
 - [[The Scattered Emperor]] - Seeking to prevent/control merger
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Seeing convergence visions
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Seeing convergence visions
 
 ### Critical Locations
 - [[The Reality Nexus]] - Where worlds are thinnest
@@ -352,7 +352,7 @@ Key choices facing heroes:
 
 - [[Crystal Festival]]
 - [[Crystal Garden]]
-- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Desperate Plague Victim]]
 - [[Healing Two Worlds]]
@@ -375,7 +375,7 @@ Key choices facing heroes:
 - [[The Transformed Citizens]]
 - [[Throne Room]]
 - [[Timeline of the Drowning]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -393,7 +393,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Places_Index]]
+- [[Master_Places_Index|Master Places Index]]
 - [[Deep Mother]]
 - [[The Crown of Stars]]
 - [[The Great Crystallization]]

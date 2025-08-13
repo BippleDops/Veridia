@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide|02 Worldbuilding/Lore/Comprehensive World Connection Guide]]
 
 
 ## Connections

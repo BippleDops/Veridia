@@ -310,11 +310,11 @@ Corruption resistance measures provide mechanical benefits for rewritten rituals
 Collaboration bonuses reward teamwork between characters with different magical specializations, encouraging cooperative approaches to complex modification projects while reflecting realistic requirements for advanced work.
 
 ## Connected Lore and Organizations
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Primary corruption threat requiring ritual adaptation
-- [[02_Worldbuilding/Lore/Council of Mages]] - Primary institution developing rewriting techniques
-- [[02_Worldbuilding/Lore/Aethermoor]] - Setting where ritual rewriting is most critically needed
-- [[02_Worldbuilding/People/Archmage Lyralei Voidward]] - Leading expert in ritual rewriting theory
-- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]] - Related system for managing corruption effects
+- [[02_Worldbuilding/Lore/The Crystal Influence|02 Worldbuilding/Lore/The Crystal Influence]] - Primary corruption threat requiring ritual adaptation
+- [[02_Worldbuilding/Lore/Council of Mages|02 Worldbuilding/Lore/Council Of Mages]] - Primary institution developing rewriting techniques
+- [[02_Worldbuilding/Lore/Aethermoor|02 Worldbuilding/Lore/Aethermoor]] - Setting where ritual rewriting is most critically needed
+- [[02_Worldbuilding/People/Archmage Lyralei Voidward|02 Worldbuilding/People/Archmage Lyralei Voidward]] - Leading expert in ritual rewriting theory
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking|02 Worldbuilding/Lore/Corruption Exposure Tracking]] - Related system for managing corruption effects
 
 ## Player-Facing Summary
 
@@ -338,7 +338,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Cassia Lightweaver]]
+- [[02_Worldbuilding/Lore/Cassia Lightweaver|02 Worldbuilding/Lore/Cassia Lightweaver]]
 
 
 ## Connections

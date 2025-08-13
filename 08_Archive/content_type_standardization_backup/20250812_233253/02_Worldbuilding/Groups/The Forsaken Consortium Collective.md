@@ -93,13 +93,13 @@ The founding document established:
 - Open meetings welcome community members and visitors
 
 #### The Foreman Council (Executive Leadership)
-- **Foreman Prime** - [[02_Worldbuilding/Groups/Salvage Master Ironwork]]: Overall coordination and external relations
+- **Foreman Prime** - [[02_Worldbuilding/Groups/Salvage Master Ironwork|02 Worldbuilding/Groups/Salvage Master Ironwork]]: Overall coordination and external relations
 - **Production Foreman** - [[Manufacturing Chief Gearwright]]: Industrial operations and quality control
-- **Resource Foreman** - [[02_Worldbuilding/Groups/Supply Master Stockpil]]: Materials allocation and waste management
+- **Resource Foreman** - [[02_Worldbuilding/Groups/Supply Master Stockpil|02 Worldbuilding/Groups/Supply Master Stockpil]]: Materials allocation and waste management
 - **Security Foreman** - [[Defense Captain Ironguard]]: Site protection and conflict resolution
-- **Innovation Foreman** - [[02_Worldbuilding/Groups/Inventor Chief Adaptatio]]: Research and development of new techniques
-- **Trade Foreman** - [[02_Worldbuilding/Groups/Commerce Manager Fairdealin]]: External business relationships
-- **Community Foreman** - [[02_Worldbuilding/Groups/Welfare Director Caretake]]: Member services and social support
+- **Innovation Foreman** - [[02_Worldbuilding/Groups/Inventor Chief Adaptatio|02 Worldbuilding/Groups/Inventor Chief Adaptatio]]: Research and development of new techniques
+- **Trade Foreman** - [[02_Worldbuilding/Groups/Commerce Manager Fairdealin|02 Worldbuilding/Groups/Commerce Manager Fairdealin]]: External business relationships
+- **Community Foreman** - [[02_Worldbuilding/Groups/Welfare Director Caretake|02 Worldbuilding/Groups/Welfare Director Caretake]]: Member services and social support
 
 ### Regional Operations
 
@@ -569,16 +569,16 @@ Massive warehouse and manufacturing complex originally built by the [[Silverscal
 - [[The Whisper Syndicate]] - Information trading and underground connections
 
 ## Connected NPCs
-- [[02_Worldbuilding/Groups/Foreman Prime Salvage Maste]] - Overall leader and external relations coordinator
+- [[02_Worldbuilding/Groups/Foreman Prime Salvage Maste|02 Worldbuilding/Groups/Foreman Prime Salvage Maste]] - Overall leader and external relations coordinator
 - [[Manufacturing Chief Gearwright]] - Industrial operations and quality control
-- [[02_Worldbuilding/Groups/Supply Master Stockpil]] - Resource allocation and waste management
+- [[02_Worldbuilding/Groups/Supply Master Stockpil|02 Worldbuilding/Groups/Supply Master Stockpil]] - Resource allocation and waste management
 - [[Defense Captain Ironguard]] - Security and protection operations
-- [[02_Worldbuilding/Groups/Inventor Chief Adaptatio]] - Innovation and development of new techniques
-- [[02_Worldbuilding/Groups/Commerce Manager Fairdealin]] - Trade relationships and business development
-- [[02_Worldbuilding/Groups/Welfare Director Caretake]] - Community services and member support
+- [[02_Worldbuilding/Groups/Inventor Chief Adaptatio|02 Worldbuilding/Groups/Inventor Chief Adaptatio]] - Innovation and development of new techniques
+- [[02_Worldbuilding/Groups/Commerce Manager Fairdealin|02 Worldbuilding/Groups/Commerce Manager Fairdealin]] - Trade relationships and business development
+- [[02_Worldbuilding/Groups/Welfare Director Caretake|02 Worldbuilding/Groups/Welfare Director Caretake]] - Community services and member support
 
 ## Connected Locations
-- [[02_Worldbuilding/Groups/The Grand Abandonment - Central Warehouse Comple]] - Primary headquarters and governance center
+- [[02_Worldbuilding/Groups/The Grand Abandonment - Central Warehouse Comple|02 Worldbuilding/Groups/The Grand Abandonment Central Warehouse Comple]] - Primary headquarters and governance center
 - **The Iron Works Complex** - Major manufacturing and steel production facility
 - **The Crystal Processing Plant** - Waste reclamation and alternative crystal applications
 - **The Port Reclamation Zone** - Shipping, storage, and maritime operations
@@ -586,7 +586,7 @@ Massive warehouse and manufacturing complex originally built by the [[Silverscal
 - **Cooperative Farms** - Agricultural operations supporting community food security
 
 ## Related Quests
-- [[02_Worldbuilding/Groups/Quest - The Crystal Innovatio]] - Developing new crystal applications and technologies
+- [[02_Worldbuilding/Groups/Quest - The Crystal Innovatio|02 Worldbuilding/Groups/Quest The Crystal Innovatio]] - Developing new crystal applications and technologies
 - [[Quest - Nature's Balance]] - Environmental restoration and sustainable development
 - **The Recognition Campaign** - Achieving formal government acknowledgment and legal status
 - **The Hostile Takeover** - Defending against corporate attempts to reclaim facilities
@@ -597,7 +597,7 @@ EOF < /dev/null
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -621,7 +621,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]
 - [[Crystal Wardens]]
 - [[Independent Smugglers]]
 - [[Merchant Princes]]

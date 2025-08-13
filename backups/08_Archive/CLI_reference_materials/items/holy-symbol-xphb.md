@@ -29,9 +29,9 @@ world: Both
 
 **Items in this group:**
 
-- [Amulet](/03_Mechanics/CLI/items/amulet-xphb.md)
-- [Emblem](/03_Mechanics/CLI/items/emblem-xphb.md)
-- [Reliquary](/03_Mechanics/CLI/items/reliquary-xphb.md)
+- [[/03_Mechanics/CLI/items/amulet-xphb|Amulet]]
+- [[/03_Mechanics/CLI/items/emblem-xphb|Emblem]]
+- [[/03_Mechanics/CLI/items/reliquary-xphb|Reliquary]]
 
 *Source: Player's Handbook (2024) p. 226*
 

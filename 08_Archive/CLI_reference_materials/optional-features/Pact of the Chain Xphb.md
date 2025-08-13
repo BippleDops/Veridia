@@ -20,11 +20,11 @@ world: Both
 # Pact of the Chain
 *Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-You learn the [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md) spell and can cast it as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action without expending a spell slot.
+You learn the [[/03_Mechanics/CLI/spells/find-familiar-xphb|Find Familiar]] spell and can cast it as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action without expending a spell slot.
 
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](/03_Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md), [Quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md), [Skeleton](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md), [Slaad Tadpole](/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md), [Sphinx of Wonder](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md), [Sprite](/03_Mechanics/CLI/bestiary/fey/sprite-xmm.md), or [Venomous Snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) (see appendix B for the familiar's stat block).
+When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|Imp]], [[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm|Pseudodragon]], [[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm|Quasit]], [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeleton]], [[/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm|Slaad Tadpole]], [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm|Sphinx of Wonder]], [[/03_Mechanics/CLI/bestiary/fey/sprite-xmm|Sprite]], or [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Venomous Snake]] (see appendix B for the familiar's stat block).
 
-Additionally, when you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md).
+Additionally, when you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]].
 
 ## Player-Facing Summary
 

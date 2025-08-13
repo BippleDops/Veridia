@@ -468,8 +468,8 @@ The facility's most closely guarded secret is a device preventing reality distor
 
 - [[Shadow Market Canals]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
-- [[Campaign_Quick_Reference_Sheets]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -491,7 +491,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater|02 Worldbuilding/Places/Reflection Pools Surgical Theater]]
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]

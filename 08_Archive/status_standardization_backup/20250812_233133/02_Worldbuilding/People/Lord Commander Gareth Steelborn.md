@@ -24,7 +24,7 @@ type: NPC
 *The Crystal Shield, Defender of the Realm*
 
 ## Overview
-Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
+Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
 
 ## Appearance
 - **Build**: Imposing, 6'3", muscular
@@ -276,7 +276,7 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 ### Military Command
 - Commands 10,000 [[Crystal Wardens]]
 - Elite personal guard: "The Crystalline Guard"
-- Network of fortresses across [[02_Worldbuilding/Places/Aethermoor]]
+- Network of fortresses across [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - Access to military intelligence
 
 ### Combat Abilities
@@ -293,39 +293,39 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 ## Relationships
 
 ### Loyalties
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
 - [[Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
 
 ### Allies
 - [[Admiral Cassandra Stormwind]] - Military cooperation
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
 - [[High Priestess Celeste Dawnbringer]] - Provides healing for troops
 
 ### Tensions
-- [[02_Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
+- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
+- [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
+- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
 
 ### Respected Opponents
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
+- [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
+- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
 
 ## Secrets
 > [!warning] DM Only
 > - Has noticed Queen's behavioral changes but attributes to stress
-> - Secretly loves [[02_Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
-> - Possesses evidence that could expose [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+> - Secretly loves [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
+> - Possesses evidence that could expose [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 > - His brother [[Marcus "The Shade" Blackwood]] works for the Syndicate
 > - Would turn against the Queen if he knew about her corruption
 > - Has been having prophetic dreams about a great betrayal
 
 ## Current Activities
 - Training new Crystal Warden recruits
-- Investigating [[02_Worldbuilding/Groups/Purist Coalition]] terrorist cells
+- Investigating [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] terrorist cells
 - Planning defenses for Crystal Festival
-- Searching for [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
-- Monitoring [[02_Worldbuilding/Places/The Crystalline Wastes]] border
+- Searching for [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
+- Monitoring [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] border
 
 ## Motivations
 1. **Primary**: Protect the innocent and maintain order
@@ -358,7 +358,7 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 1. Needs help investigating corruption in the Wardens
 2. Secret mission to retrieve stolen crystal weapons
 3. Find evidence about his brother's criminal activities
-4. Rescue captured Wardens from [[02_Worldbuilding/Places/The Crystalline Wastes]]
+4. Rescue captured Wardens from [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]
 5. Test party's worthiness to join elite unit
 
 ## Speaking Style
@@ -384,27 +384,27 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 - Critical figure in preventing/causing civil war
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
 - [[Marcus "The Shade" Blackwood]] - Estranged brother
 - [[Brother Marcus Steelbane]] - Former student
 - [[Admiral Cassandra Stormwind]] - Military ally
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
+- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Base of operations
 - [[Crystal Wardens]] Fortress - Military headquarters
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
-- [[02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
+- [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
+- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Reinforcement duties
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Military support
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Military support
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]] - Security detail
 - [[Quest - The Traitor Within]] - Investigating corruption
 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -422,7 +422,7 @@ Legends speak of Lord Commander Gareth Steelborn as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]
 
 <!-- enriched: true -->
 - [[Crystal Wardens]]

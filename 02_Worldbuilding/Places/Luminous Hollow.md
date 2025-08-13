@@ -446,7 +446,7 @@ Luminous Hollow represents one of [[Aquabyssos]]'s most spectacular natural wond
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -468,7 +468,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[02_Worldbuilding/Places/Luminous Hollow|02 Worldbuilding/Places/Luminous Hollow]]
 
 <!-- enriched: true -->
 - [[Aethermoor]]

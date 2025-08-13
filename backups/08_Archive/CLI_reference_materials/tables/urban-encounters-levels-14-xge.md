@@ -25,73 +25,73 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1d6 [cats](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md) |
-| 02-03 | 1 [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with 1d6 [goats](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md) |
-| 04-05 | 2d10 [rats](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md) |
-| 06 | 1 [raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md) perched on a signpost |
-| 07 | 1 [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) on a [draft horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) |
-| 08 | 2d4 [mastiffs](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md) |
-| 09 | 1d2 [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) leading 1d4 [mules](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md) or 1d4 [ponies](/03_Mechanics/CLI/bestiary/beast/pony-xmm.md) |
-| 10 | 1 [pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) |
-| 11 | 1 [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
-| 12-13 | 1d8 + 1 [acolytes](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 14 | 1d6 + 6 [flying snakes](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md) |
-| 15 | 3d6 [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 16 | 2d4 [giant centipedes](/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md) |
-| 17 | 1d8 + 1 [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
-| 18-19 | 1d6 + 2 [swarms of rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) |
-| 20 | 1d12 [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) |
+| 01 | 1d6 [[/03_Mechanics/CLI/bestiary/beast/cat-xmm|cats]] |
+| 02-03 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] with 1d6 [[/03_Mechanics/CLI/bestiary/beast/goat-xmm|goats]] |
+| 04-05 | 2d10 [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|rats]] |
+| 06 | 1 [[/03_Mechanics/CLI/bestiary/beast/raven-xmm|raven]] perched on a signpost |
+| 07 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] on a [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horse]] |
+| 08 | 2d4 [[/03_Mechanics/CLI/bestiary/beast/mastiff-xmm|mastiffs]] |
+| 09 | 1d2 [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] leading 1d4 [[/03_Mechanics/CLI/bestiary/beast/mule-xmm|mules]] or 1d4 [[/03_Mechanics/CLI/bestiary/beast/pony-xmm|ponies]] |
+| 10 | 1 [[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm|pseudodragon]] |
+| 11 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]] |
+| 12-13 | 1d8 + 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
+| 14 | 1d6 + 6 [[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm|flying snakes]] |
+| 15 | 3d6 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
+| 16 | 2d4 [[/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm|giant centipedes]] |
+| 17 | 1d8 + 1 [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]] |
+| 18-19 | 1d6 + 2 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]] |
+| 20 | 1d12 [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]] |
 | 21-25 | A peddler weighed down with a load of pots, pans, and other basic supplies |
-| 26 | 1 [giant wasp](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md) |
-| 27-28 | 1 [warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md) |
-| 29 | 2d8 [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) |
-| 30-31 | 3d4 [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) |
-| 32 | 2d8 [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 33 | 1d3 + 2 [giant poisonous snakes](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md) |
-| 34 | 1d4 + 2 [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) |
-| 35 | 2d4 [winged kobolds](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) |
+| 26 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm|giant wasp]] |
+| 27-28 | 1 [[/03_Mechanics/CLI/bestiary/beast/warhorse-xmm|warhorse]] |
+| 29 | 2d8 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] |
+| 30-31 | 3d4 [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|giant rats]] |
+| 32 | 2d8 [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]] |
+| 33 | 1d3 + 2 [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|giant poisonous snakes]] |
+| 34 | 1d4 + 2 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|swarms of bats]] |
+| 35 | 2d4 [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] |
 | 36-40 | A wagon loaded with apples that has a broken wheel and holds up traffic |
-| 41 | 1 [crocodile](/03_Mechanics/CLI/bestiary/beast/crocodile-xmm.md) |
-| 42-43 | 1 [swarm of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) |
-| 44-45 | 3d6 [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 46-47 | 1d3 + 2 [nobles](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) on [riding horses](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) with an escort of 1d10 [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| 48 | 2d4 [kenku](/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) |
-| 49 | 1d6 + 2 [smoke mephits](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md) |
-| 50 | 1d8 + 1 [swarms of ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) |
-| 51-52 | 1 [wererat](/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) |
-| 53-54 | 1d3 [half-ogres](/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) |
-| 55-56 | 1 [mimic](/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) |
-| 57-58 | 1d4 [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 59-60 | 1d4 [specters](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) |
-| 61-62 | 1d10 [shadows](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
+| 41 | 1 [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|crocodile]] |
+| 42-43 | 1 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects]] |
+| 44-45 | 3d6 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 46-47 | 1d3 + 2 [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|nobles]] on [[/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm|riding horses]] with an escort of 1d10 [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] |
+| 48 | 2d4 [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] |
+| 49 | 1d6 + 2 [[/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm|smoke mephits]] |
+| 50 | 1d8 + 1 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarms of ravens]] |
+| 51-52 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm|wererat]] |
+| 53-54 | 1d3 [[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm|half-ogres]] |
+| 55-56 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/mimic-xmm|mimic]] |
+| 57-58 | 1d4 [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
+| 59-60 | 1d4 [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specters]] |
+| 61-62 | 1d10 [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|shadows]] |
 | 63-65 | Someone empties a chamber pot onto the street from a second-floor window |
-| 66-67 | 1 [ghast](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md) |
-| 68-69 | 1 [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) |
-| 70-71 | 1 [will-o'-wisp](/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) |
-| 72-73 | 1d3 [giant-spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 74-75 | 1d4 [yuan-ti purebloods](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) |
-| 76-77 | 2d4 [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
+| 66-67 | 1 [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|ghast]] |
+| 68-69 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] |
+| 70-71 | 1 [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisp]] |
+| 72-73 | 1d3 [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant-spiders]] |
+| 74-75 | 1d4 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
+| 76-77 | 2d4 [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thugs]] |
 | 78-80 | A doomsayer who preaches the end of the world from a street corner |
-| 81 | 1 [cambion](/03_Mechanics/CLI/bestiary/fiend/cambion-xmm.md) |
-| 82 | 1 [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
-| 83 | 1 [couatl](/03_Mechanics/CLI/bestiary/celestial/couatl-xmm.md) |
-| 84 | 1 [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) |
-| 85 | 1 [succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md) or 1 [incubus](/03_Mechanics/CLI/bestiary/fiend/incubus-xmm.md) |
-| 86 | 1 [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with 3d6 [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 87 | 1d4 + 1 [cult fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) |
-| 88 | 1 [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) or 1 [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 89 | 1 [water weird](/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) |
-| 90 | 1 [wight](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) |
-| 91 | 1 [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) |
-| 92 | 1 [shield guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) |
-| 93 | 1 [gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) |
-| 94 | 1 [revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md) |
-| 95 | 2d4 [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| 96 | 1d4 [doppelgangers](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) |
-| 97 | 1 [oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md) |
-| 98 | 1 [invisible stalker](/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) |
-| 99 | 1d3 + 1 [phase spiders](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) |
-| 00 | 1 [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) |
+| 81 | 1 [[/03_Mechanics/CLI/bestiary/fiend/cambion-xmm|cambion]] |
+| 82 | 1 [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] |
+| 83 | 1 [[/03_Mechanics/CLI/bestiary/celestial/couatl-xmm|couatl]] |
+| 84 | 1 [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] |
+| 85 | 1 [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|succubus]] or 1 [[/03_Mechanics/CLI/bestiary/fiend/incubus-xmm|incubus]] |
+| 86 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with 3d6 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 87 | 1d4 + 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
+| 88 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]] or 1 [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|veteran]] |
+| 89 | 1 [[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm|water weird]] |
+| 90 | 1 [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wight]] |
+| 91 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] |
+| 92 | 1 [[/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm|shield guardian]] |
+| 93 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|gladiator]] |
+| 94 | 1 [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] |
+| 95 | 2d4 [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
+| 96 | 1d4 [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|doppelgangers]] |
+| 97 | 1 [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|oni]] |
+| 98 | 1 [[/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm|invisible stalker]] |
+| 99 | 1d3 + 1 [[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm|phase spiders]] |
+| 00 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassin]] |
 ^urban-encounters-levels-14
 
 ## Player-Facing Summary

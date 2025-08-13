@@ -161,6 +161,6 @@ Legends speak of The Thirteen Keys as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Thirteen Keys]]
+- [[02_Worldbuilding/Places/The Thirteen Keys|02 Worldbuilding/Places/The Thirteen Keys]]
 
 <!-- enriched: true -->

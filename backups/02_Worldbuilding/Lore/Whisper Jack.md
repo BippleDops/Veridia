@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[05_Templates/Text Generator Templates/Generate Campaign NPCs]]
+- [[05_Templates/Text Generator Templates/Generate Campaign NPCs|05 Templates/Text Generator Templates/Generate Campaign NPCs]]
 
 
 ## Connections

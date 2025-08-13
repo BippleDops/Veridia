@@ -33,7 +33,7 @@ world: Both
 | 61-70 | As 51-60 above, except the spell is 5th level. |
 | 71-80 | As 51-60 above, except the spell is 6th level. |
 | 81-90 | As 51-60 above, except the spell is 7th level. |
-| 91-00 | While attuned to the artifact, you can't be [blinded](/03_Mechanics/CLI/conditions.md#Blinded), [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [petrified](/03_Mechanics/CLI/conditions.md#Petrified), or [stunned](/03_Mechanics/CLI/conditions.md#Stunned). |
+| 91-00 | While attuned to the artifact, you can't be [[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]], or [[/03_Mechanics/CLI/conditions#Stunned|stunned]]. |
 ^major-beneficial-properties
 
 ## Player-Facing Summary

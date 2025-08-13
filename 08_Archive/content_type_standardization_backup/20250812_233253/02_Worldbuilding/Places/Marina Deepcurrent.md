@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Marina Deepcurrent]]
+- [[02_Worldbuilding/Places/Marina Deepcurrent|02 Worldbuilding/Places/Marina Deepcurrent]]
 
 <!-- enriched: true -->
 

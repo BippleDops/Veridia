@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks|02 Worldbuilding/Places/Abyssos Prime Docks]]
 
 
 ## Connections

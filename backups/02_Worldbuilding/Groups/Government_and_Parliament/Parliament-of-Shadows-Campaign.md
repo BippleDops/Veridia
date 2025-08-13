@@ -42,7 +42,7 @@ updated: '2025-08-13T01:18:36.761500+00:00'
 
 ## Organization Overview
 
-The Parliament-of-Shadows-Campaign represents a groundbreaking political movement working to establish formal political representation for shadow-touched individuals across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. This unprecedented cross-realm political campaign addresses the unique challenges faced by individuals whose transformation connects them to both worlds while often leaving them without adequate representation in either.
+The Parliament-of-Shadows-Campaign represents a groundbreaking political movement working to establish formal political representation for shadow-touched individuals across both [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]. This unprecedented cross-realm political campaign addresses the unique challenges faced by individuals whose transformation connects them to both worlds while often leaving them without adequate representation in either.
 
 Unlike single-realm political movements, this organization recognizes that shadow transformation creates communities and interests that transcend traditional geographical and political boundaries. Shadow-touched individuals often face similar challenges regardless of which realm they inhabit, while also possessing unique perspectives and capabilities that could benefit governance in both worlds.
 
@@ -375,27 +375,27 @@ Works with broader civil rights movement while addressing unique aspects of shad
 
 ### Shadow Community Relations
 
-#### **[[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]**
+#### **[[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]**
 **Relationship**: Community Coordination
 Coordinates with shadow community self-regulation efforts while focusing on external political representation.
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Grassroots Partnership
 Collaborates on community organizing while focusing on political rather than social service activities.
 
 ### Government Relations
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes]]** (Aquabyssos)
+#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** (Aquabyssos)
 **Relationship**: Advocacy Target
 Lobbies for shadow representation and rights while working within existing governmental structures.
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]** (Aethermoor)
+#### **[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]** (Aethermoor)
 **Relationship**: Political Engagement
 Works with existing government to ensure shadow interests are represented in policy making.
 
 ### Opposition Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Political Opposition
 Counters anti-shadow political movements through democratic organizing and advocacy.
 
@@ -517,10 +517,10 @@ The organization's headquarters spans both realms through magical transportation
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines]]
-- [[02_Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
 
 **Key Locations**:
 - [[The Inter-Realm Council Chambers]]
@@ -563,4 +563,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[reports/bidirectional_links]]
+- [[reports/bidirectional_links|Reports/bidirectional Links]]

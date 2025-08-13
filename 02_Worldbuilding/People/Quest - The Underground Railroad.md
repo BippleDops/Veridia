@@ -56,7 +56,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Underground Railroad]]
+- [[02_Worldbuilding/People/Quest - The Underground Railroad|02 Worldbuilding/People/Quest The Underground Railroad]]
 
 <!-- enriched: true -->
 

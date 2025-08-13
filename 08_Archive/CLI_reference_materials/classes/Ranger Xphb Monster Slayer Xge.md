@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Monster Slayer
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
+*[[./ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Xanathar's Guide to Everything p. 43*  
 
 > [!tldr] Class and Feature Progression
@@ -70,11 +70,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
-| 5th | [zone of truth](/03_Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 9th | [magic circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md) |
-| 13th | [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md) |
-| 17th | [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) |
+| 3rd | [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb|protection from evil and good]] |
+| 5th | [[/03_Mechanics/CLI/spells/zone-of-truth-xphb|zone of truth]] |
+| 9th | [[/03_Mechanics/CLI/spells/magic-circle-xphb|magic circle]] |
+| 13th | [[/03_Mechanics/CLI/spells/banishment-xphb|banishment]] |
+| 17th | [[/03_Mechanics/CLI/spells/hold-monster-xphb|hold monster]] |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

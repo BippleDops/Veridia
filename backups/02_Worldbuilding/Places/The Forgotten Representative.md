@@ -139,6 +139,6 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[02_Worldbuilding/Places/The Forgotten Representative|02 Worldbuilding/Places/The Forgotten Representative]]
 
 <!-- enriched: true -->

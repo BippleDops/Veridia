@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Divine Magic]]
+- [[02_Worldbuilding/Places/Divine Magic|02 Worldbuilding/Places/Divine Magic]]
 
 <!-- enriched: true -->
 

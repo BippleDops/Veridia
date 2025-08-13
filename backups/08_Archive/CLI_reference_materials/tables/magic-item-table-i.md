@@ -25,59 +25,59 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-05 | [Defender](/03_Mechanics/CLI/items/defender-xdmg.md) |
-| 06-10 | [Hammer of thunderbolts](/03_Mechanics/CLI/items/hammer-of-thunderbolts-xdmg.md) |
-| 11-15 | [Luck blade](/03_Mechanics/CLI/items/luck-blade-xdmg.md) |
-| 16-20 | [Sword of answering](/03_Mechanics/CLI/items/sword-of-answering-xdmg.md) |
-| 21-23 | [Holy avenger](/03_Mechanics/CLI/items/holy-avenger-xdmg.md) |
-| 24-26 | [Ring of djinni summoning](/03_Mechanics/CLI/items/ring-of-djinni-summoning-xdmg.md) |
-| 27-29 | [Ring of invisibility](/03_Mechanics/CLI/items/ring-of-invisibility-xdmg.md) |
-| 30-32 | [Ring of spell turning](/03_Mechanics/CLI/items/ring-of-spell-turning-xdmg.md) |
-| 33-35 | [Rod of lordly might](/03_Mechanics/CLI/items/rod-of-lordly-might-xdmg.md) |
-| 36-38 | [Staff of the magi](/03_Mechanics/CLI/items/staff-of-the-magi-xdmg.md) |
-| 39-41 | [Vorpal sword](/03_Mechanics/CLI/items/vorpal-sword-xdmg.md) |
-| 42-43 | [Belt of cloud giant strength](/03_Mechanics/CLI/items/belt-of-cloud-giant-strength-xdmg.md) |
-| 44-45 | [+2 breastplate](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 46-47 | [+3 chain mail](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 48-49 | [+3 chain shirt](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 50-51 | [Cloak of invisibility](/03_Mechanics/CLI/items/cloak-of-invisibility-xdmg.md) |
-| 52-53 | [Crystal ball (legendary version)](/03_Mechanics/CLI/items/crystal-ball-legendary-version.md) |
-| 54-55 | [+1 half plate armor](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 56-57 | [Iron flask](/03_Mechanics/CLI/items/iron-flask-xdmg.md) |
-| 58-59 | [+3 leather armor](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 60-61 | [+1 plate armor](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 62-63 | [Robe of the archmagi](/03_Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md) |
-| 64-65 | [Rod of resurrection](/03_Mechanics/CLI/items/rod-of-resurrection-xdmg.md) |
-| 66-67 | [+1 scale mail](/03_Mechanics/CLI/items/1-armor-xdmg.md) |
-| 68-69 | [Scarab of protection](/03_Mechanics/CLI/items/scarab-of-protection-xdmg.md) |
-| 70-71 | [+2 splint armor](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 72-73 | [+2 studded leather armor](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 74-75 | [Well of many worlds](/03_Mechanics/CLI/items/well-of-many-worlds-xdmg.md) |
+| 01-05 | [[/03_Mechanics/CLI/items/defender-xdmg|Defender]] |
+| 06-10 | [[/03_Mechanics/CLI/items/hammer-of-thunderbolts-xdmg|Hammer of thunderbolts]] |
+| 11-15 | [[/03_Mechanics/CLI/items/luck-blade-xdmg|Luck blade]] |
+| 16-20 | [[/03_Mechanics/CLI/items/sword-of-answering-xdmg|Sword of answering]] |
+| 21-23 | [[/03_Mechanics/CLI/items/holy-avenger-xdmg|Holy avenger]] |
+| 24-26 | [[/03_Mechanics/CLI/items/ring-of-djinni-summoning-xdmg|Ring of djinni summoning]] |
+| 27-29 | [[/03_Mechanics/CLI/items/ring-of-invisibility-xdmg|Ring of invisibility]] |
+| 30-32 | [[/03_Mechanics/CLI/items/ring-of-spell-turning-xdmg|Ring of spell turning]] |
+| 33-35 | [[/03_Mechanics/CLI/items/rod-of-lordly-might-xdmg|Rod of lordly might]] |
+| 36-38 | [[/03_Mechanics/CLI/items/staff-of-the-magi-xdmg|Staff of the magi]] |
+| 39-41 | [[/03_Mechanics/CLI/items/vorpal-sword-xdmg|Vorpal sword]] |
+| 42-43 | [[/03_Mechanics/CLI/items/belt-of-cloud-giant-strength-xdmg|Belt of cloud giant strength]] |
+| 44-45 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 breastplate]] |
+| 46-47 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 chain mail]] |
+| 48-49 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 chain shirt]] |
+| 50-51 | [[/03_Mechanics/CLI/items/cloak-of-invisibility-xdmg|Cloak of invisibility]] |
+| 52-53 | [[/03_Mechanics/CLI/items/crystal-ball-legendary-version|Crystal ball (legendary version)]] |
+| 54-55 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 half plate armor]] |
+| 56-57 | [[/03_Mechanics/CLI/items/iron-flask-xdmg|Iron flask]] |
+| 58-59 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 leather armor]] |
+| 60-61 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 plate armor]] |
+| 62-63 | [[/03_Mechanics/CLI/items/robe-of-the-archmagi-xdmg|Robe of the archmagi]] |
+| 64-65 | [[/03_Mechanics/CLI/items/rod-of-resurrection-xdmg|Rod of resurrection]] |
+| 66-67 | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 scale mail]] |
+| 68-69 | [[/03_Mechanics/CLI/items/scarab-of-protection-xdmg|Scarab of protection]] |
+| 70-71 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 splint armor]] |
+| 72-73 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 studded leather armor]] |
+| 74-75 | [[/03_Mechanics/CLI/items/well-of-many-worlds-xdmg|Well of many worlds]] |
 | 76 | `dice: [](magic-item-table-i.md#^magic-armor)` |
-| 77 | [Apparatus of Kwalish](/03_Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md) |
-| 78 | [Armor of invulnerability](/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg.md) |
-| 79 | [Belt of storm giant strength](/03_Mechanics/CLI/items/belt-of-storm-giant-strength-xdmg.md) |
-| 80 | [Cubic gate](/03_Mechanics/CLI/items/cubic-gate-xdmg.md) |
-| 81 | [Deck of many things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md) |
-| 82 | [Efreeti chain](/03_Mechanics/CLI/items/efreeti-chain-xdmg.md) |
-| 83 | [Half plate armor of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 84 | [Horn of valhalla, iron](/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg.md) |
-| 85 | [Instrument of the bards, Ollamh harp](/03_Mechanics/CLI/items/instrument-of-the-bards-ollamh-harp-xdmg.md) |
-| 86 | [Ioun stone, greater absorption](/03_Mechanics/CLI/items/ioun-stone-greater-absorption-xdmg.md) |
-| 87 | [Ioun stone, mastery](/03_Mechanics/CLI/items/ioun-stone-mastery-xdmg.md) |
-| 88 | [Ioun stone, regeneration](/03_Mechanics/CLI/items/ioun-stone-regeneration-xdmg.md) |
-| 89 | [Plate armor of etherealness](/03_Mechanics/CLI/items/plate-armor-of-etherealness-xdmg.md) |
-| 90 | [Plate armor of resistance](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md) |
-| 91 | [Ring of air elemental command](/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg.md) |
-| 92 | [Ring of earth elemental command](/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md) |
-| 93 | [Ring of fire elemental command](/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg.md) |
-| 94 | [Ring of three wishes](/03_Mechanics/CLI/items/ring-of-three-wishes-xdmg.md) |
-| 95 | [Ring of water elemental command](/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg.md) |
-| 96 | [Sphere of annihilation](/03_Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) |
-| 97 | [Talisman of pure good](/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg.md) |
-| 98 | [Talisman of the sphere](/03_Mechanics/CLI/items/talisman-of-the-sphere-xdmg.md) |
-| 99 | [Talisman of ultimate evil](/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg.md) |
-| 00 | [Tome of the stilled tongue](/03_Mechanics/CLI/items/tome-of-the-stilled-tongue-xdmg.md) |
+| 77 | [[/03_Mechanics/CLI/items/apparatus-of-kwalish-xdmg|Apparatus of Kwalish]] |
+| 78 | [[/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg|Armor of invulnerability]] |
+| 79 | [[/03_Mechanics/CLI/items/belt-of-storm-giant-strength-xdmg|Belt of storm giant strength]] |
+| 80 | [[/03_Mechanics/CLI/items/cubic-gate-xdmg|Cubic gate]] |
+| 81 | [[/03_Mechanics/CLI/items/deck-of-many-things-xdmg|Deck of many things]] |
+| 82 | [[/03_Mechanics/CLI/items/efreeti-chain-xdmg|Efreeti chain]] |
+| 83 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Half plate armor of resistance]] |
+| 84 | [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Horn of valhalla, iron]] |
+| 85 | [[/03_Mechanics/CLI/items/instrument-of-the-bards-ollamh-harp-xdmg|Instrument of the bards, Ollamh harp]] |
+| 86 | [[/03_Mechanics/CLI/items/ioun-stone-greater-absorption-xdmg|Ioun stone, greater absorption]] |
+| 87 | [[/03_Mechanics/CLI/items/ioun-stone-mastery-xdmg|Ioun stone, mastery]] |
+| 88 | [[/03_Mechanics/CLI/items/ioun-stone-regeneration-xdmg|Ioun stone, regeneration]] |
+| 89 | [[/03_Mechanics/CLI/items/plate-armor-of-etherealness-xdmg|Plate armor of etherealness]] |
+| 90 | [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|Plate armor of resistance]] |
+| 91 | [[/03_Mechanics/CLI/items/ring-of-elemental-command-air-xdmg|Ring of air elemental command]] |
+| 92 | [[/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg|Ring of earth elemental command]] |
+| 93 | [[/03_Mechanics/CLI/items/ring-of-elemental-command-fire-xdmg|Ring of fire elemental command]] |
+| 94 | [[/03_Mechanics/CLI/items/ring-of-three-wishes-xdmg|Ring of three wishes]] |
+| 95 | [[/03_Mechanics/CLI/items/ring-of-elemental-command-water-xdmg|Ring of water elemental command]] |
+| 96 | [[/03_Mechanics/CLI/items/sphere-of-annihilation-xdmg|Sphere of annihilation]] |
+| 97 | [[/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg|Talisman of pure good]] |
+| 98 | [[/03_Mechanics/CLI/items/talisman-of-the-sphere-xdmg|Talisman of the sphere]] |
+| 99 | [[/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg|Talisman of ultimate evil]] |
+| 00 | [[/03_Mechanics/CLI/items/tome-of-the-stilled-tongue-xdmg|Tome of the stilled tongue]] |
 ^magic-item-table-i
 
 **Magic armor**
@@ -86,13 +86,13 @@ world: Both
 
 | dice: 1d12 |  |
 |------------|--|
-| 1-2 | [+2 half plate armor](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 3-4 | [+2 plate armor](/03_Mechanics/CLI/items/2-armor-xdmg.md) |
-| 5-6 | [+3 studded leather armor](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 7-8 | [+3 breastplate](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 9-10 | [+3 splint armor](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 11 | [+3 half plate armor](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 12 | [+3 plate armor](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
+| 1-2 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 half plate armor]] |
+| 3-4 | [[/03_Mechanics/CLI/items/2-armor-xdmg|+2 plate armor]] |
+| 5-6 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 studded leather armor]] |
+| 7-8 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 breastplate]] |
+| 9-10 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 splint armor]] |
+| 11 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 half plate armor]] |
+| 12 | [[/03_Mechanics/CLI/items/3-armor-xdmg|+3 plate armor]] |
 ^magic-armor
 
 ## Player-Facing Summary

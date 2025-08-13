@@ -19,18 +19,18 @@ world: Both
 
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  
-![A Quandrix student magical...](/03_Mechanics/CLI/backgrounds/img/quandrix-student.webp#right "A Quandrix student magically gazes into the intricate patterns of nature")
+![[/03_Mechanics/CLI/backgrounds/img/quandrix-student.webp#right "A Quandrix student magically gazes into the intricate patterns of nature"|A Quandrix student magical...]]
 
-- **Skill Proficiencies.** [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [Nature](/03_Mechanics/CLI/skills.md#Nature)  
+- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#Nature|Nature]]  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A [bottle of black ink](/03_Mechanics/CLI/items/ink-xphb.md), an [ink pen](/03_Mechanics/CLI/items/ink-pen-xphb.md), an [abacus](/03_Mechanics/CLI/items/abacus.md), a book of arcane theory, a school uniform, and a [pouch](/03_Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** A [[/03_Mechanics/CLI/items/ink-xphb|bottle of black ink]], an [[/03_Mechanics/CLI/items/ink-pen-xphb|ink pen]], an [[/03_Mechanics/CLI/items/abacus|abacus]], a book of arcane theory, a school uniform, and a [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 15 gp  
 
 In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
 
 ## Feature: Quandrix Initiate
 
-You gain the [Strixhaven Initiate](/03_Mechanics/CLI/feats/strixhaven-initiate-scc.md) feat and must choose Quandrix within it.
+You gain the [[/03_Mechanics/CLI/feats/strixhaven-initiate-scc|Strixhaven Initiate]] feat and must choose Quandrix within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Quandrix Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -38,18 +38,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [Entangle](/03_Mechanics/CLI/spells/entangle-xphb.md), [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md) |
-| 2nd | [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md), [Vortex Warp](/03_Mechanics/CLI/spells/vortex-warp-scc.md) |
-| 3rd | [Aura of Vitality](/03_Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Haste](/03_Mechanics/CLI/spells/haste-xphb.md) |
-| 4th | [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md), [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 5th | [Circle of Power](/03_Mechanics/CLI/spells/circle-of-power-xphb.md), [Passwall](/03_Mechanics/CLI/spells/passwall-xphb.md) |
+| 1st | [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]], [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]] |
+| 2nd | [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|Enlarge/Reduce]], [[/03_Mechanics/CLI/spells/vortex-warp-scc|Vortex Warp]] |
+| 3rd | [[/03_Mechanics/CLI/spells/aura-of-vitality-xphb|Aura of Vitality]], [[/03_Mechanics/CLI/spells/haste-xphb|Haste]] |
+| 4th | [[/03_Mechanics/CLI/spells/control-water-xphb|Control Water]], [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb|Freedom of Movement]] |
+| 5th | [[/03_Mechanics/CLI/spells/circle-of-power-xphb|Circle of Power]], [[/03_Mechanics/CLI/spells/passwall-xphb|Passwall]] |
 ^quandrix-spells
 
 Consider customizing how your spells look when you cast them. Your Quandrix spells might manifest amid kaleidoscopic swirls of fractal patterns, amplifying the tiniest movements of your somatic components. When your magic creates or alters creatures, it might briefly surround the targets with shimmering fractal designs or tessellated patterns.
 
 ## Building a Quandrix Character
 
-Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [Abjuration](/03_Mechanics/CLI/classes/wizard-xphb-abjurer-xphb.md), [Illusion](/03_Mechanics/CLI/classes/wizard-xphb-illusionist-xphb.md), or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the Knowledge or Nature domains, study in Quandrix as well.
+Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [[/03_Mechanics/CLI/classes/wizard-xphb-abjurer-xphb|Abjuration]], [[/03_Mechanics/CLI/classes/wizard-xphb-illusionist-xphb|Illusion]], or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the Knowledge or Nature domains, study in Quandrix as well.
 
 Aside from traditional spellcasters, a few characters of other classes find homes in Quandrix. Some fighters, monks, rangers, and rogues study here, using Quandrix principles to train their minds.
 
@@ -73,7 +73,7 @@ With subjects ranging from the physical and tangible to the paradoxical and stra
 
 ### Quandrix Trinkets
 
-When you make your character, you may roll once on the [Quandrix Trinkets](/03_Mechanics/CLI/items/quandrix-trinket-scc.md) table, instead of on the [Trinkets table](/03_Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [[/03_Mechanics/CLI/items/quandrix-trinket-scc|Quandrix Trinkets]] table, instead of on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
 
 ## Player-Facing Summary
 

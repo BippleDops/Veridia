@@ -34,13 +34,13 @@ world: Both
 *Cursed item, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/demon-armor.webp#right)
 
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 
-While wearing this armor, you gain a +1 bonus to [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
+While wearing this armor, you gain a +1 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]], and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `d8` Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
 
 ## Curse
 
-Once you don this cursed armor, you can't doff it unless you are targeted by a [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. While wearing the armor, you have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against demons and on saving throws against their spells and special abilities.
+Once you don this cursed armor, you can't doff it unless you are targeted by a [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] spell or similar magic. While wearing the armor, you have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against demons and on saving throws against their spells and special abilities.
 
 **Variants**:
 - [Demon Breastplate](#Demon%20Breastplate)
@@ -59,13 +59,13 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Breastplate
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 20.0 lbs.
 
 ### Demon Chain Mail
 
 - **Armor Class**: 16
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Strength**: Requires 13 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
@@ -73,39 +73,39 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Chain Shirt
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 20.0 lbs.
 
 ### Demon Half Plate Armor
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
 
 ### Demon Hide Armor
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 12.0 lbs.
 
 ### Demon Leather Armor
 
 - **Armor Class**: 11 + Dex modifier
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 10.0 lbs.
 
 ### Demon Padded Armor
 
 - **Armor Class**: 11 + Dex modifier
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 8.0 lbs.
 
 ### Demon Plate Armor
 
 - **Armor Class**: 18
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
@@ -113,21 +113,21 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Ring Mail
 
 - **Armor Class**: 14
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
 
 ### Demon Scale Mail
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
 
 ### Demon Splint Armor
 
 - **Armor Class**: 17
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
@@ -135,7 +135,7 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 ### Demon Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
-- **Properties**: [Cursed](/03_Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 13.0 lbs.
 
 

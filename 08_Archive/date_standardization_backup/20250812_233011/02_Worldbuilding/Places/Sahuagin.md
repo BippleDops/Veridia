@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Current Riders Guild|02 Worldbuilding/Places/Current Riders Guild]]
 
 
 ## Connections

@@ -20,8 +20,8 @@ locations_visited:
 - '[[Harbor District Customs House]]'
 - '[[Lamplight Alley]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
 - "[[02_Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
 - '[[Brother Marcus Steelbane]]'
 encounters:
@@ -77,8 +77,8 @@ The party witnesses a crystallized corpse being pulled from Port Meridian's harb
 - [[Purist Coalition Thugs]] (optional)
 
 ### NPCs to Include
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Quest giver, lawful good authority
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Information broker with hidden depths
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] - Quest giver, lawful good authority
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] - Information broker with hidden depths
 - [[Brother Marcus Steelbane]] - Healer desperately seeking cure
 
 ## Session Timeline
@@ -95,7 +95,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
-**NPCs:** [[02_Worldbuilding/People/Captain Lyanna Brightshield]], [[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]
+**NPCs:** [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]], [[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]
 **Outcome:** 
 - Party learns corpse wore Meridian Navy uniform
 - Sailor identified as missing for 3 weeks
@@ -104,7 +104,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 2: Information Gathering at the Siren's Rest
 **Location:** [[The Siren's Rest Tavern]]
-**NPCs:** [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], various smugglers
+**NPCs:** [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]], various smugglers
 **Outcome:**
 - Marina trades information for favors
 - Bar brawl between Silverscale traders and fishermen
@@ -144,8 +144,8 @@ Investigation reveals all clues point to the abandoned [[Lighthouse of Storms]] 
 ### Social
 | NPC | Location | Purpose | Outcome |
 |-----|----------|---------|---------|
-| [[02_Worldbuilding/People/Captain Lyanna Brightshield]] | [[Pier 7]] | Quest giver | Investigate plague |
-| [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] | [[The Siren's Rest Tavern]] | Information | Map and connections |
+| [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] | [[Pier 7]] | Quest giver | Investigate plague |
+| [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] | [[The Siren's Rest Tavern]] | Information | Map and connections |
 | [[Brother Marcus Steelbane]] | [[Customs House]] | Medical aid | Plague insights |
 
 ## Quest Progress
@@ -164,8 +164,8 @@ None this session
 | Item | Found Where | Given To | Value |
 |------|-------------|----------|-------|
 | Vial of purple liquid | Cult initiates | Party | Magical reagent |
-| Map fragment | [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] | Party | Shows shipping routes |
-| Letter of introduction | [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] | Party | Social tool |
+| Map fragment | [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] | Party | Shows shipping routes |
+| Letter of introduction | [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] | Party | Social tool |
 | 2 potions of lesser restoration | [[Brother Marcus Steelbane]] | Party | 100gp each |
 
 ### Gold
@@ -188,8 +188,8 @@ Per Player: 150-188 (depending on party size)
 - Building relationship with key NPCs
 
 ### Relationship Changes
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Disposition +1 if helped with investigation
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Disposition +2 if impressed, -1 if aggressive
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] - Disposition +1 if helped with investigation
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] - Disposition +2 if impressed, -1 if aggressive
 - [[Brother Marcus Steelbane]] - Disposition +1 if showed compassion
 
 ## World Changes
@@ -238,7 +238,7 @@ Track each character's exposure level (0-6 scale)
 - [ ] Prepare [[The Seahawk]] ship exploration
 - [ ] Design lighthouse puzzle/challenges
 - [ ] Create [[Jasper Three-Eyes Flint]] NPC
-- [ ] Plan [[02_Worldbuilding/People/The Crimson Sage]] appearance
+- [ ] Plan [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] appearance
 
 ## Crystal Plague Mechanics
 ### Exposure Levels
@@ -256,7 +256,7 @@ Track each character's exposure level (0-6 scale)
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[02_Worldbuilding/Lore/Customs House|02 Worldbuilding/Lore/Customs House]]
 
 
 ## Connections

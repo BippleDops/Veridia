@@ -35,7 +35,7 @@ world: Aquabyssos
 *The Port City Administration, Gateway to the Depths, The Merchant's Harbor*
 
 ## Overview
-Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port city and represents a model of municipal government that balances traditional civic administration with the unique challenges of shadow-touched governance. As both a major commercial hub and entry point for interdimensional trade, Bexley's government manages complex relationships between conventional citizens, shadow-touched residents, and various factions while maintaining the delicate infrastructure that keeps the city prosperous and stable.
+Bexley serves as [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s most important port city and represents a model of municipal government that balances traditional civic administration with the unique challenges of shadow-touched governance. As both a major commercial hub and entry point for interdimensional trade, Bexley's government manages complex relationships between conventional citizens, shadow-touched residents, and various factions while maintaining the delicate infrastructure that keeps the city prosperous and stable.
 
 ## History
 
@@ -49,11 +49,11 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 
 ### Growth Period (200-100 Years Ago)
 **Commercial Expansion**
-- Rapid growth as major trading hub for [[02_Worldbuilding/Places/Aquabyssos]]
+- Rapid growth as major trading hub for [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
 - Development of extensive port facilities and commercial districts
 - Incorporation as official city with formal municipal government
 - Creation of city departments and professional administration
-- Establishment of trade relationships with [[02_Worldbuilding/Places/Aethermoor]]
+- Establishment of trade relationships with [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 ### The Shadow Integration (100-50 Years Ago)
 **Dimensional Commerce Era**
@@ -259,9 +259,9 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 ## Relationships & Politics
 
 ### Regional Government
-- **[[02_Worldbuilding/Places/Aquabyssos]] Central Government**: Cooperative relationship with regional authority
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Respectful but independent municipal governance
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Lobbying for municipal interests and local representation
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Central Government**: Cooperative relationship with regional authority
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]**: Respectful but independent municipal governance
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Lobbying for municipal interests and local representation
 - **Regional Planning Authority**: Coordination on transportation and development
 - **Provincial Government**: Partnership on shared services and regional issues
 
@@ -269,19 +269,19 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 - **[[Port Authority]]**: Partnership on harbor operations and development
 - **Local Business Community**: Support for economic development and regulation
 - **Tourism Industry**: Cooperation on visitor attraction and hospitality
-- **[[02_Worldbuilding/Groups/Shadow Bazaar]]**: Regulated partnership on interdimensional commerce
+- **[[02_Worldbuilding/Groups/Shadow Bazaar|02 Worldbuilding/Groups/Shadow Bazaar]]**: Regulated partnership on interdimensional commerce
 - **Shipping Companies**: Service provision and regulatory relationship
 
 ### Community Organizations
-- **[[02_Worldbuilding/Groups/Shadow Vale]]**: Coordination on shadow-touched services and integration
+- **[[02_Worldbuilding/Groups/Shadow Vale|02 Worldbuilding/Groups/Shadow Vale]]**: Coordination on shadow-touched services and integration
 - **Neighborhood Associations**: Citizen participation and community input
 - **Cultural Organizations**: Support for arts, heritage, and community events
 - **Environmental Groups**: Partnership on sustainability and conservation
 - **Civic Organizations**: Volunteer coordination and community service
 
 ### Complex Relationships
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Surveillance and careful neutrality
-- **[[02_Worldbuilding/Groups/Shadow Marina]]**: Regulated cooperation on maritime operations
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Surveillance and careful neutrality
+- **[[02_Worldbuilding/Groups/Shadow Marina|02 Worldbuilding/Groups/Shadow Marina]]**: Regulated cooperation on maritime operations
 - **Labor Unions**: Collective bargaining and worker advocacy
 - **Regional Competitors**: Economic competition with other port cities
 - **Federal Agencies**: Coordination on trade, security, and regulation
@@ -322,7 +322,7 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 - **[[Public Works Director Boris Bridgewright]]** - Infrastructure and maintenance
 - **[[Police Chief Sarah Lawkeeper]]** - Public safety and law enforcement
 - **[[Fire Chief Michael Rescuer]]** - Emergency services and fire protection
-- **[[02_Worldbuilding/Lore/Economic Development Director Carmen Commerc]]** - Business attraction and growth
+- **[[02_Worldbuilding/Lore/Economic Development Director Carmen Commerc|02 Worldbuilding/Lore/Economic Development Director Carmen Commerc]]** - Business attraction and growth
 - **[[Community Services Director Helen Helpinghand]]** - Social programs and citizen support
 
 ### Council Leaders
@@ -438,13 +438,13 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 ### Key NPCs
 - **[[Mayor Cornelius Tidecrest]]** - Municipal chief executive and political leader
 - **[[Victoria Harbormane]]** - Deputy mayor and administrative specialist
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Regional authority relationship
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]** - Regional authority relationship
 - **[[Administrator Marcus Protocols]]** - City manager and operations expert
 - **[[Treasurer Elena Goldflow]]** - Financial management and budget specialist
 
 ### Related Locations
 - **[[Bexley City Hall]]** - Government center and civic headquarters
-- **[[02_Worldbuilding/Places/Aquabyssos]]** - Regional context and higher government
+- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]** - Regional context and higher government
 - **[[Municipal Services Complex]]** - Citizen service facilities
 - **[[Harbor Facilities]]** - Port infrastructure and maritime operations
 - **[[Community Center Network]]** - Public facilities and services
@@ -484,4 +484,4 @@ Legends speak of Bexley as a nexus where past and present converge. Locals descr
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley Port Authority]]
+- [[02_Worldbuilding/Groups/Bexley Port Authority|02 Worldbuilding/Groups/Bexley Port Authority]]

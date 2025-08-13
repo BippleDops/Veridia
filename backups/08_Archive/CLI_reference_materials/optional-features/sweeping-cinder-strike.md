@@ -20,7 +20,7 @@ world: Both
 # Sweeping Cinder Strike
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md).
+You can spend 2 ki points to cast [[/03_Mechanics/CLI/spells/burning-hands-xphb|burning hands]].
 
 ## Player-Facing Summary
 

@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-constrictor-snake-xmm-constrictor-snake-xmm.svg)
 
-# [Constrictor Snake](3-Mechanics\CLI\bestiary\beast/constrictor-snake-xmm.md)
+# [[3-Mechanics\CLI\bestiary\beast/constrictor-snake-xmm|Constrictor Snake]]
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Constrictor Snake (XMM)"
@@ -53,9 +53,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "blindsight 10 ft., passive Perception 12"
 "languages": ""
@@ -65,7 +65,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
   - "desc": "Strength Saving Throw: DC 12, one Medium or smaller creature the snake\
       \ can see within 5 feet. Failure: 7 (3d4) Bludgeoning damage, and the target\
-      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
       \ DC 12)."
     "name": "Constrict"
 "source":

@@ -20,11 +20,11 @@ world: Both
 
 ## Cantrip
 
-- [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/minor-illusion-xphb "XPHB"|Minor Illusion]] at class level 3
 
 ## 2nd Level
 
-- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
+- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 3
 
 ## Player-Facing Summary
 

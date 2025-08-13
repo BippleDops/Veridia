@@ -188,6 +188,6 @@ Legends speak of The First Truth as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The First Truth]]
+- [[02_Worldbuilding/Places/The First Truth|02 Worldbuilding/Places/The First Truth]]
 
 <!-- enriched: true -->

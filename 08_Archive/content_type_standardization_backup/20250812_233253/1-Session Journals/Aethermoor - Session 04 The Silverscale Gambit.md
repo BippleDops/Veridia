@@ -20,10 +20,10 @@ locations_visited:
 - '[[Silverscale Emergency Bunker]]'
 - '[[Abandoned Consortium Warehouse]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
 - '[[Director Hadrian Silverscale]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
 encounters:
 - '[[Crimson Hand Strike Team]]'
 - '[[Vex Shadowthorn Boss Fight]]'
@@ -346,7 +346,7 @@ This session establishes:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections

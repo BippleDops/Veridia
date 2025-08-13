@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[02_Worldbuilding/Lore/Legal System of Aquabyssos|02 Worldbuilding/Lore/Legal System Of Aquabyssos]]
 
 
 ## Connections

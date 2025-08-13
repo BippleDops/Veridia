@@ -30,7 +30,7 @@ world: Both
 - Specials:
 - Doctrines/Faction Mods:
 - Required AP / Substitution Rules:
-- Notes on [[02_Worldbuilding/Quests/Aquabyssos]] hooks:
+- Notes on [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] hooks:
 - Notes on [[Complete Reality Merger System]] interactions:
 - Memory Charts Required / Risks:
 - Deep Mother Influence Triggers:
@@ -57,4 +57,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Vehicles/Aquabyssos_Submarines_Catalog]]
+- [[03_Mechanics/Vehicles/Aquabyssos_Submarines_Catalog|03 Mechanics/Vehicles/Aquabyssos Submarines Catalog]]

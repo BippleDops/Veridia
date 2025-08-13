@@ -23,7 +23,7 @@ These blend depth, sky, and merger motifs. Use all core systems (Pressure/Altitu
 
 ---
 
-### X-001: Trench-to-Cloud Transfer
+## X-001: Trench-to-Cloud Transfer
 - Trigger: Use a merger portal to emerge above Aethermoor mid-storm.
 - Checks: Anchorite DC 15 stabilize; Helm DC 15 adapt controls from sub → airship profile.
 - Outcomes: Success: Seamless transition; no time loss. Partial: Turbulence (1d6); -1 Maneuver 1 hour. Fail: Stall/spin; crew Con DC 14 vs. vertigo.

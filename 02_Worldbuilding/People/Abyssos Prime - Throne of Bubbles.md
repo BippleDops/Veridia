@@ -138,7 +138,7 @@ Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and pre
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles]]
+- [[02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles|02 Worldbuilding/People/Abyssos Prime Throne Of Bubbles]]
 
 <!-- enriched: true -->
 nriched: true -->

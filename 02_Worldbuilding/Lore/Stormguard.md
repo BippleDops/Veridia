@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/Maelstrom Palace|02 Worldbuilding/Places/Maelstrom Palace]]
 
 
 ## Connections

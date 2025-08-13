@@ -15,7 +15,7 @@ role: Surface Ambassador
 affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
 race: Human (Air-breathing)
-location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+location: '[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
 created_by: auto-stub
 created: '2025-08-09'
 updated: '2025-08-11T00:00:00+00:00'
@@ -87,8 +87,8 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 - **[[The Academic Consortium]]**: Fascinated by aquatic magical and scientific knowledge
 
 ### Aquabyssos Political Navigation
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Formal diplomatic recognition but limited practical authority
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Real political power requiring careful cultivation
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Formal diplomatic recognition but limited practical authority
+- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Real political power requiring careful cultivation
 - **[[Tribune Cassia Deepcurrent]]**: Key ally for progressive reform initiatives
 - **Local Power Brokers**: Various faction leaders whose support is essential
 - **[[The Deep Mother]] Faithful**: Religious authorities who influence public opinion
@@ -146,7 +146,7 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 - **Ambassador Corps**: Peer relationships with other diplomatic representatives
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Formal respect despite practical limitations
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**: Formal respect despite practical limitations
 - **Religious Authorities**: Careful diplomacy around [[The Deep Mother]] worship
 - **Military Leaders**: Professional respect tempered by potential conflict concerns
 - **Economic Competitors**: Those who see his mission as threat to their interests
@@ -329,7 +329,7 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 ## Embassy Operations and Staff
 
 ### The Surface Embassy Complex
-**Location**: [[02_Worldbuilding/Places/The Diplomatic Quarter]], specially constructed building
+**Location**: [[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]], specially constructed building
 **Architecture**: Hybrid design accommodating both air-breathing and aquatic visitors
 - **Air-filled quarters** for surface staff with magical environmental controls
 - **Aquatic reception areas** with flowing water chambers for Aquabyssos visitors  
@@ -388,14 +388,14 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 - **Policy Coordination**: Ensuring surface trade doesn't undermine Aquabyssos social progress
 - **Personal Friendship**: Genuine respect grown into trusted partnership
 
-**Navigation of [[02_Worldbuilding/People/The Scattered Emperor]]'s Complex Rule**
+**Navigation of [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'s Complex Rule**
 - **Formal Recognition**: Maintains diplomatic protocols despite Emperor's limitations
 - **Practical Governance**: Works with Parliament while respecting Imperial authority
 - **Memory Considerations**: Adapts communication to account for Emperor's scattered consciousness
 - **Historical Context**: Studies past Imperial decisions for policy guidance
 - **Succession Planning**: Discrete preparation for potential changes in leadership
 
-**Engagement with [[02_Worldbuilding/Places/Parliament of Echoes]]**
+**Engagement with [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**
 - **Multi-party Diplomacy**: Maintains relationships across political spectrum
 - **Committee Testimony**: Regular briefings on surface world developments
 - **Legislative Advocacy**: Supports bills beneficial to surface-Aquabyssos relations
@@ -508,7 +508,7 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 ## Connected Campaign Elements
 
 ### Integration with Aquabyssos Politics
-- Regular source of information about [[02_Worldbuilding/Places/Parliament of Echoes]] developments
+- Regular source of information about [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] developments
 - Can facilitate party access to high-level Aquabyssos political figures
 - Provides context for how surface world events affect local politics
 - Offers diplomatic solutions to conflicts involving government authorities
@@ -546,7 +546,7 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 
 ## Connections
 
-- [[Nerissa_Deepcurrent]]
+- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 - [[Senator]]
 
 ## Player-Facing Summary
@@ -559,7 +559,7 @@ Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and pre
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy|02 Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
 
 <!-- enriched: true -->
 - [[Memory Merchant Valeria Siltweave]]

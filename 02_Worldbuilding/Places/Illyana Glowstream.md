@@ -127,7 +127,7 @@ Illyana serves as both a technical resource and an emotional anchor for the part
 
 ## Connections
 
-- [[Pearl_Harbor_City]]
+- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 
 ## History
@@ -175,6 +175,6 @@ Legends speak of Illyana Glowstream as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Illyana Glowstream]]
+- [[02_Worldbuilding/Places/Illyana Glowstream|02 Worldbuilding/Places/Illyana Glowstream]]
 
 <!-- enriched: true -->

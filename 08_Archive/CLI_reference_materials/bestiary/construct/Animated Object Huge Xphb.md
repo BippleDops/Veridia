@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-object-huge-xphb-animated-object-huge-xphb.svg)
 
-# [Animated Object (Huge)](3-Mechanics\CLI\bestiary\construct/animated-object-huge-xphb.md)
+# [[3-Mechanics\CLI\bestiary\construct/animated-object-huge-xphb|Animated Object (Huge)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

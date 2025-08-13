@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to psychic damage while you wear this armor.
+You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to psychic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Psychic Resistance](#Breastplate%20of%20Psychic%20Resistance)
@@ -55,7 +55,7 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to psy
 - [Splint Armor of Psychic Resistance](#Splint%20Armor%20of%20Psychic%20Resistance)
 - [Studded Leather Armor of Psychic Resistance](#Studded%20Leather%20Armor%20of%20Psychic%20Resistance)
 
-### Breastplate of Psychic Resistance
+## Breastplate of Psychic Resistance
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

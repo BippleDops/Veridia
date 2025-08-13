@@ -16,7 +16,7 @@ world: Both
 # New Fleet Template
 
 - Faction:
-- Doctrine (see [[Fleet_Dynamics_Generator]]):
+- Doctrine (see [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]):
 - Admiral Personality:
 - Objectives:
 - Bases & Supply Nodes:
@@ -54,4 +54,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Vehicles/Vehicles_Index]]
+- [[03_Mechanics/Vehicles/Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]

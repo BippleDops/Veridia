@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster Judith Supplycurrent]]
+- [[02_Worldbuilding/Places/Quartermaster Judith Supplycurrent|02 Worldbuilding/Places/Quartermaster Judith Supplycurrent]]
 
 <!-- enriched: true -->
 

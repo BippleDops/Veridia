@@ -121,6 +121,6 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace|02 Worldbuilding/Places/Party Quarters Inverse Palace]]
 
 <!-- enriched: true -->

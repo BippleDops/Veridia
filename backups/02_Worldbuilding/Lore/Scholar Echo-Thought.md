@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
 
 
 ## Connections

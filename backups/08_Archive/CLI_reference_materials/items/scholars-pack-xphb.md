@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 22.0 lbs.
 
-A Scholar's Pack contains the following items: [Backpack](/03_Mechanics/CLI/items/backpack-xphb.md), [Book](/03_Mechanics/CLI/items/book-xphb.md), [Ink](/03_Mechanics/CLI/items/ink-xphb.md), [Ink Pen](/03_Mechanics/CLI/items/ink-pen-xphb.md), [Lamp](/03_Mechanics/CLI/items/lamp-xphb.md), 10 flasks of [Oil](/03_Mechanics/CLI/items/oil-xphb.md), 10 sheets of [Parchment](/03_Mechanics/CLI/items/parchment-xphb.md), and [Tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md).
+A Scholar's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/book-xphb|Book]], [[/03_Mechanics/CLI/items/ink-xphb|Ink]], [[/03_Mechanics/CLI/items/ink-pen-xphb|Ink Pen]], [[/03_Mechanics/CLI/items/lamp-xphb|Lamp]], 10 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 10 sheets of [[/03_Mechanics/CLI/items/parchment-xphb|Parchment]], and [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

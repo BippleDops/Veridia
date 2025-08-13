@@ -59,15 +59,15 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 - Has developed a drinking problem to cope with crystal-whispers
 
 ## Relationships
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Secretly receives philosophical guidance from him
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
+- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Secretly receives philosophical guidance from him
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
 - **Ambassador [[Korvin Blacktide]]**: Suspects the Ambassador is corrupting Order members
 
 ## Current Activities
 - Training new Order recruits while subtly teaching them to think independently
-- Investigating disappearances of Order members in [[02_Worldbuilding/Places/The Shadowmere]]
+- Investigating disappearances of Order members in [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]
 - Maintaining a secret ledger of "unofficial" crystal distributions to the desperate
 - Searching for evidence of corruption within the Order's leadership
 
@@ -96,7 +96,7 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 
 ## Plot Hooks
 - Approaches party to investigate Order members who've gone too deep into crystal experimentation
-- Needs help smuggling refugees out of [[02_Worldbuilding/Places/Port Meridian]] before a Purist Coalition purge
+- Needs help smuggling refugees out of [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] before a Purist Coalition purge
 - Offers to train party members in anti-corruption techniques
 - Seeks allies to expose Order corruption without triggering a civil war
 
@@ -132,7 +132,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
+- [[02_Worldbuilding/People/Sir Marcus Dawnforge|02 Worldbuilding/People/Sir Marcus Dawnforge]]
 
 <!-- enriched: true -->
 

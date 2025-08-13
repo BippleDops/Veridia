@@ -33,7 +33,7 @@ world: Aquabyssos
 *The Reflection Syndicate, Masters of Information Mirrors, Those Who See All Faces*
 
 ## Overview
-The Shadow Broker Mirrors is a specialized information syndicate that uses enchanted mirrors and reflection magic to gather, trade, and manipulate information throughout [[02_Worldbuilding/Places/Aquabyssos]]. Operating from [[The Reflection Chamber]]—a hidden facility lined with thousands of scrying mirrors—they have built the most comprehensive intelligence network in the realm by exploiting the fact that every reflection can become a window into secrets. Unlike traditional spy networks, they use mirror magic to literally see and hear conversations reflected in any polished surface, making privacy nearly impossible for those who don't understand their capabilities.
+The Shadow Broker Mirrors is a specialized information syndicate that uses enchanted mirrors and reflection magic to gather, trade, and manipulate information throughout [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Operating from [[The Reflection Chamber]]—a hidden facility lined with thousands of scrying mirrors—they have built the most comprehensive intelligence network in the realm by exploiting the fact that every reflection can become a window into secrets. Unlike traditional spy networks, they use mirror magic to literally see and hear conversations reflected in any polished surface, making privacy nearly impossible for those who don't understand their capabilities.
 
 ## Origins & History
 
@@ -127,11 +127,11 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 #### Reflection Scrying
 **Remote Viewing Magic**
-- **[[02_Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
-- **[[02_Worldbuilding/Spells/Echo Reflection]]**: Capture and replay past conversations near mirrors
-- **[[02_Worldbuilding/Spells/Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
-- **[[02_Worldbuilding/Spells/Memory Mirror]]**: Show important memories of people who look into them
-- **[[02_Worldbuilding/Spells/Future Glimpse]]**: Brief visions of possible futures through scrying
+- **[[02_Worldbuilding/Spells/Mirror Window|02 Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
+- **[[02_Worldbuilding/Spells/Echo Reflection|02 Worldbuilding/Spells/Echo Reflection]]**: Capture and replay past conversations near mirrors
+- **[[02_Worldbuilding/Spells/Truth Reflection|02 Worldbuilding/Spells/Truth Reflection]]**: Mirrors that reveal hidden truths about viewers
+- **[[02_Worldbuilding/Spells/Memory Mirror|02 Worldbuilding/Spells/Memory Mirror]]**: Show important memories of people who look into them
+- **[[02_Worldbuilding/Spells/Future Glimpse|02 Worldbuilding/Spells/Future Glimpse]]**: Brief visions of possible futures through scrying
 
 #### Mirror Network
 **Infrastructure-Based Intelligence**
@@ -234,10 +234,10 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 ## Services & Capabilities
 
 ### Intelligence Services
-- **Comprehensive Surveillance**: Monitor any location through reflective surfaces using [[02_Worldbuilding/Networks/Mirror Scrying Web]]
-- **Information Trading**: Buy and sell valuable intelligence via [[02_Worldbuilding/Markets/The Truth Exchange]]
+- **Comprehensive Surveillance**: Monitor any location through reflective surfaces using [[02_Worldbuilding/Networks/Mirror Scrying Web|02 Worldbuilding/Networks/Mirror Scrying Web]]
+- **Information Trading**: Buy and sell valuable intelligence via [[02_Worldbuilding/Markets/The Truth Exchange|02 Worldbuilding/Markets/The Truth Exchange]]
 - **Background Investigation**: Detailed research on individuals or organizations
-- **Predictive Analysis**: Forecast political and social developments through [[02_Worldbuilding/Techniques/Pattern Mirror Divination]]
+- **Predictive Analysis**: Forecast political and social developments through [[02_Worldbuilding/Techniques/Pattern Mirror Divination|02 Worldbuilding/Techniques/Pattern Mirror Divination]]
 - **Counter-Intelligence**: Protect clients from enemy surveillance and information gathering
 - **Truth Verification**: Authenticate information using magical truth-detection mirrors
 - **Strategic Consultation**: Expert advice based on comprehensive intelligence gathering
@@ -247,7 +247,7 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 
 ### Mirror Magic Services
 - **Scrying Consultations**: Remote viewing services for specific targets or locations
-- **Memory Recovery**: Extract lost or suppressed memories using [[02_Worldbuilding/Devices/Memory Reflection Mirrors]]
+- **Memory Recovery**: Extract lost or suppressed memories using [[02_Worldbuilding/Devices/Memory Reflection Mirrors|02 Worldbuilding/Devices/Memory Reflection Mirrors]]
 - **Truth Revelation**: Force honesty through specialized interrogation mirrors
 - **Identity Verification**: Confirm true identity using reflection analysis
 - **Future Glimpsing**: Limited precognitive abilities through mirror divination
@@ -301,7 +301,7 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - **[[Counter-Mirror Task Force]]**: Specialized unit targeting reflection surveillance
 - **[[Anti-Scrying Division]]**: Government department developing counter-surveillance
 - **[[Privacy Protection Agency]]**: Civilian organization opposing mirror surveillance
-- **[[02_Worldbuilding/Lore/Legal Reform Movemen]]**: Politicians working to ban mirror spying
+- **[[02_Worldbuilding/Lore/Legal Reform Movemen|02 Worldbuilding/Lore/Legal Reform Movemen]]**: Politicians working to ban mirror spying
 - **[[Traditional Spy Networks]]**: Government intelligence angry about being outperformed
 
 ### Rival Information Organizations
@@ -424,37 +424,37 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 ## Faction Items & Equipment
 
 ### Surveillance Mirrors
-- **[[02_Worldbuilding/Items/All-Seeing Mirrors]]**: Devices that can view any location
-- **[[02_Worldbuilding/Items/Truth Reflection Glass]]**: Mirrors that reveal hidden secrets
-- **[[02_Worldbuilding/Items/Memory Echo Mirrors]]**: Show past events that occurred nearby
-- **[[02_Worldbuilding/Items/Portable Scrying Mirrors]]**: Hand-held surveillance devices
-- **[[02_Worldbuilding/Items/Invisible Observation Glass]]**: Mirrors that can't be detected by targets
-- **[[02_Worldbuilding/Items/Sound Capture Mirrors]]**: Record conversations and replay them
-- **[[02_Worldbuilding/Items/Emotional Reflection Mirrors]]**: Show true feelings and motivations
-- **[[02_Worldbuilding/Items/Future Glimpse Glass]]**: Provide limited precognitive visions
+- **[[02_Worldbuilding/Items/All-Seeing Mirrors|02 Worldbuilding/Items/All Seeing Mirrors]]**: Devices that can view any location
+- **[[02_Worldbuilding/Items/Truth Reflection Glass|02 Worldbuilding/Items/Truth Reflection Glass]]**: Mirrors that reveal hidden secrets
+- **[[02_Worldbuilding/Items/Memory Echo Mirrors|02 Worldbuilding/Items/Memory Echo Mirrors]]**: Show past events that occurred nearby
+- **[[02_Worldbuilding/Items/Portable Scrying Mirrors|02 Worldbuilding/Items/Portable Scrying Mirrors]]**: Hand-held surveillance devices
+- **[[02_Worldbuilding/Items/Invisible Observation Glass|02 Worldbuilding/Items/Invisible Observation Glass]]**: Mirrors that can't be detected by targets
+- **[[02_Worldbuilding/Items/Sound Capture Mirrors|02 Worldbuilding/Items/Sound Capture Mirrors]]**: Record conversations and replay them
+- **[[02_Worldbuilding/Items/Emotional Reflection Mirrors|02 Worldbuilding/Items/Emotional Reflection Mirrors]]**: Show true feelings and motivations
+- **[[02_Worldbuilding/Items/Future Glimpse Glass|02 Worldbuilding/Items/Future Glimpse Glass]]**: Provide limited precognitive visions
 
 ### Communication Equipment
-- **[[02_Worldbuilding/Items/Mirror Portal Networks]]**: Instant communication across distances
-- **[[02_Worldbuilding/Items/Encrypted Reflection Messages]]**: Secure communication mirrors
-- **[[02_Worldbuilding/Items/Group Conference Mirrors]]**: Multi-way communication devices
-- **[[02_Worldbuilding/Items/Emergency Signal Mirrors]]**: Distress communication systems
-- **[[02_Worldbuilding/Items/Coded Reflection Language]]**: Secret communication through mirror symbols
+- **[[02_Worldbuilding/Items/Mirror Portal Networks|02 Worldbuilding/Items/Mirror Portal Networks]]**: Instant communication across distances
+- **[[02_Worldbuilding/Items/Encrypted Reflection Messages|02 Worldbuilding/Items/Encrypted Reflection Messages]]**: Secure communication mirrors
+- **[[02_Worldbuilding/Items/Group Conference Mirrors|02 Worldbuilding/Items/Group Conference Mirrors]]**: Multi-way communication devices
+- **[[02_Worldbuilding/Items/Emergency Signal Mirrors|02 Worldbuilding/Items/Emergency Signal Mirrors]]**: Distress communication systems
+- **[[02_Worldbuilding/Items/Coded Reflection Language|02 Worldbuilding/Items/Coded Reflection Language]]**: Secret communication through mirror symbols
 
 ### Specialized Equipment
-- **[[02_Worldbuilding/Items/Counter-Scrying Mirrors]]**: Protection against enemy surveillance
-- **[[02_Worldbuilding/Items/Information Storage Crystals]]**: Data storage using reflection magic
-- **[[02_Worldbuilding/Items/Identity Verification Mirrors]]**: Confirm true identity of individuals
-- **[[02_Worldbuilding/Items/Truth Compulsion Glass]]**: Force honesty during interrogation
-- **[[02_Worldbuilding/Items/Memory Alteration Mirrors]]**: Modify or implant memories
-- **[[02_Worldbuilding/Items/Illusion Generation Mirrors]]**: Create false images for deception
-- **[[02_Worldbuilding/Items/Transportation Portal Mirrors]]**: Travel instantly between locations
-- **[[02_Worldbuilding/Items/Evidence Recording Glass]]**: Document events for legal purposes
+- **[[02_Worldbuilding/Items/Counter-Scrying Mirrors|02 Worldbuilding/Items/Counter Scrying Mirrors]]**: Protection against enemy surveillance
+- **[[02_Worldbuilding/Items/Information Storage Crystals|02 Worldbuilding/Items/Information Storage Crystals]]**: Data storage using reflection magic
+- **[[02_Worldbuilding/Items/Identity Verification Mirrors|02 Worldbuilding/Items/Identity Verification Mirrors]]**: Confirm true identity of individuals
+- **[[02_Worldbuilding/Items/Truth Compulsion Glass|02 Worldbuilding/Items/Truth Compulsion Glass]]**: Force honesty during interrogation
+- **[[02_Worldbuilding/Items/Memory Alteration Mirrors|02 Worldbuilding/Items/Memory Alteration Mirrors]]**: Modify or implant memories
+- **[[02_Worldbuilding/Items/Illusion Generation Mirrors|02 Worldbuilding/Items/Illusion Generation Mirrors]]**: Create false images for deception
+- **[[02_Worldbuilding/Items/Transportation Portal Mirrors|02 Worldbuilding/Items/Transportation Portal Mirrors]]**: Travel instantly between locations
+- **[[02_Worldbuilding/Items/Evidence Recording Glass|02 Worldbuilding/Items/Evidence Recording Glass]]**: Document events for legal purposes
 
 ## Secret Agendas & Conspiracies
 
 ### The Prime Reflection's True Nature
 **Hidden Identity**
-The Prime Reflection is actually a manifestation of [[02_Worldbuilding/Lore/The Deep Mother]]'s consciousness, using the mirror network to observe and influence events throughout Aquabyssos for mysterious purposes.
+The Prime Reflection is actually a manifestation of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s consciousness, using the mirror network to observe and influence events throughout Aquabyssos for mysterious purposes.
 
 ### Total Information Control
 **Ultimate Goal**
@@ -462,7 +462,7 @@ Beyond simple information trading, the organization plans to achieve complete in
 
 ### Cross-Realm Surveillance
 **International Expansion**
-Secret partnerships with mirror mages in [[02_Worldbuilding/Places/Aethermoor]] are building comprehensive surveillance network spanning both realms for unknown coordinated purpose.
+Secret partnerships with mirror mages in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] are building comprehensive surveillance network spanning both realms for unknown coordinated purpose.
 
 ### Government Puppet Masters
 **Political Control**
@@ -531,13 +531,13 @@ Advanced mirror magic research is developing ability to trap people's consciousn
 - [[The Prime Reflection]] - Mysterious leader and master of mirrors
 - [[Mirror Duchess Silviana]] - Intelligence operations coordinator
 - [[Narcissus Silverwater]] - Founder and mirror magic innovator
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential surveillance target
-- [[02_Worldbuilding/People/Senator Glaucus]] - High-value intelligence target
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]] - Potential surveillance target
+- [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] - High-value intelligence target
 
 ### Important Locations
 - [[The Reflection Chamber]] - Hidden headquarters filled with scrying mirrors
 - [[Mirror Network Nodes]] - Surveillance hubs throughout major cities
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Primary surveillance target
+- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Primary surveillance target
 - [[The Truth Exchange]] - Information trading marketplace
 - [[Counter-Mirror Safe Houses]] - Locations protected from surveillance
 
@@ -576,4 +576,4 @@ Legends speak of Shadow Broker Mirrors as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Party Shadows]]
+- [[02_Worldbuilding/Groups/Party Shadows|02 Worldbuilding/Groups/Party Shadows]]

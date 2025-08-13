@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Duchess Duel]]
+- [[02_Worldbuilding/Groups/The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
 
 
 ## Connections

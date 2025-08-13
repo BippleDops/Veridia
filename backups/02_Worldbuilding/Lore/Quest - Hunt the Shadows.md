@@ -41,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation]]
+- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
 
 
 ## Connections

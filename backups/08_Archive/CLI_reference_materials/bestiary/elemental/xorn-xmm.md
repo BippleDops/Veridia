@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xorn-xmm-v1-xorn-xmm.svg)
 
-# [Xorn](3-Mechanics\CLI\bestiary\elemental/xorn-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/xorn-xmm|Xorn]]
 *Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Xorn
@@ -79,13 +79,13 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -104,8 +104,8 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The xorn moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ or [Burrow Speed](/03_Mechanics/CLI/variant-rules/burrow-speed-xphb.md) straight\
+  - "desc": "The xorn moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ or [[/03_Mechanics/CLI/variant-rules/burrow-speed-xphb|Burrow Speed]] straight\
       \ toward an enemy it can sense."
     "name": "Charge"
 "source":

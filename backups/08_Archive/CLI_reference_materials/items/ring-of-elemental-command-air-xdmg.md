@@ -26,18 +26,18 @@ world: Both
 
 The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Every Ring of Elemental Command has the following two properties:
 
-- **Elemental Bane.** While wearing the ring, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against Elementals and they have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against you.  
-- **Elemental Compulsion.** While wearing the ring, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
+- **Elemental Bane.** While wearing the ring, you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack rolls against Elementals and they have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against you.  
+- **Elemental Compulsion.** While wearing the ring, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
 
 ## Elemental Focus
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Air.** You know Auran, you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Lightning damage, and you have a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) and can hover.  
+- **Air.** You know Auran, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Lightning damage, and you have a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] and can hover.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [Chain Lightning](/03_Mechanics/CLI/spells/chain-lightning-xphb.md) (3 charges), [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md) (0 charges), [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md) (2 charges), [Wind Wall](/03_Mechanics/CLI/spells/wind-wall-xphb.md) (1 charge)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[/03_Mechanics/CLI/spells/chain-lightning-xphb|Chain Lightning]] (3 charges), [[/03_Mechanics/CLI/spells/feather-fall-xphb|Feather Fall]] (0 charges), [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]] (2 charges), [[/03_Mechanics/CLI/spells/wind-wall-xphb|Wind Wall]] (1 charge)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

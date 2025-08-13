@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oni-xmm-oni-xmm.svg)
 
-# [Oni](3-Mechanics\CLI\bestiary\fiend/oni-xmm.md)
+# [[3-Mechanics\CLI\bestiary\fiend/oni-xmm|Oni]]
 *Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Oni
@@ -75,19 +75,19 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
     "desc": "+8"
-  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The oni regains 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The oni regains 10 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
@@ -97,7 +97,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
       \ plus 9 (2d8) Necrotic damage."
     "name": "Claw"
   - "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage,\
-      \ and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
       \ condition until the start of the oni's next turn."
     "name": "Nightmare Ray"
   - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
@@ -106,12 +106,12 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
     "name": "Shape-Shift"
   - "desc": "The oni casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
-      \ each: [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md) (level\
-      \ 2 version), [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [Gaseous\
-      \ Form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md)"
+      \ each: [[/03_Mechanics/CLI/spells/charm-person-xphb|Charm Person]] (level\
+      \ 2 version), [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]], [[/03_Mechanics/CLI/spells/gaseous-form-xphb|Gaseous\
+      \ Form]], [[/03_Mechanics/CLI/spells/sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The oni casts [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)\
+  - "desc": "The oni casts [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Invisibility"

@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal|02 Worldbuilding/Lore/Biomancer Corvus Intestinal]]
 
 
 ## Connections

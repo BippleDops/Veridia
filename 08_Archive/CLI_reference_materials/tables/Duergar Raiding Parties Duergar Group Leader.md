@@ -25,9 +25,9 @@ world: Both
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [Duergar Stone Guard](/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) |
-| 2-4 | [Duergar Warlord](/03_Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm.md) |
-| 5-6 | [Duergar Despot](/03_Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm.md) |
+| 1 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar Stone Guard]] |
+| 2-4 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm|Duergar Warlord]] |
+| 5-6 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm|Duergar Despot]] |
 ^duergar-group-leader
 
 ## Player-Facing Summary

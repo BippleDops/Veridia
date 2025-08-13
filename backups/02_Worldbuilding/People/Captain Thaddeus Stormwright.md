@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thaddeus Stormwright]]
+- [[02_Worldbuilding/People/Captain Thaddeus Stormwright|02 Worldbuilding/People/Captain Thaddeus Stormwright]]
 
 <!-- enriched: true -->
 

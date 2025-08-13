@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Surface Dweller Adaptation]]
+- [[02_Worldbuilding/Lore/Surface Dweller Adaptation|02 Worldbuilding/Lore/Surface Dweller Adaptation]]
 
 
 ## Connections

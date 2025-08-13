@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Current Flowmaster]]
+- [[02_Worldbuilding/Places/Deep Current Flowmaster|02 Worldbuilding/Places/Deep Current Flowmaster]]
 
 <!-- enriched: true -->
 

@@ -21,17 +21,17 @@ tags:
 # Major Trading Companies
 *The Corporate Powers Behind Two Realms*
 
-> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue]]
+> *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
 
 ## Overview
-The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
+The major trading companies of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
 
 ## The Surface Trading Powerhouses
 
 ### Goldwave Commercial Empire
 **Supreme Director**: [[Lord Aurelius Goldwave]]
 **Founded**: 30 years ago from inherited family wealth
-**Primary Headquarters**: The Golden Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Golden Tower, [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 2.5+ million gold pieces
 **Workforce**: 3,000+ direct employees, 15,000+ affiliated workers
 
@@ -77,7 +77,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ### Silkwind Luxury Enterprises
 **Chief Executive**: [[Lady Venetia Silkwind]]  
 **Founded**: 18 years ago through strategic marriages and acquisitions
-**Primary Headquarters**: The Silk Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Silk Tower, [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 1.8+ million gold pieces
 **Workforce**: 2,200+ direct employees
 
@@ -107,7 +107,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ### Chen Wei Import/Export Consortium
 **Managing Director**: [[Master Chen Wei]]
 **Founded**: 25 years ago with foreign backing
-**Primary Headquarters**: The Jade Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Jade Tower, [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 1.5+ million gold pieces  
 **Workforce**: 1,800+ direct employees
 
@@ -133,7 +133,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ### Ironanchor Maritime Corporation
 **Fleet Admiral**: [[Captain Rodrigo Ironanchor]]
 **Founded**: 35 years ago from military privateer background
-**Primary Headquarters**: The Iron Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Iron Tower, [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 2.1+ million gold pieces
 **Workforce**: 4,500+ sailors, marines, and support staff
 
@@ -158,7 +158,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ### Goldleaf Financial Services
 **Chief Financial Officer**: [[Madame Rosalind Goldleaf]]
 **Founded**: 22 years ago through banking consolidation
-**Primary Headquarters**: The Rose Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Rose Tower, [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 3.2+ million gold pieces (mostly in loans and investments)
 **Workforce**: 1,200+ financial professionals
 
@@ -184,9 +184,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ## The Deep-Sea Corporate Giants
 
 ### Deep Current Trading Company
-**Supreme Navigator**: [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+**Supreme Navigator**: [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
 **Founded**: 48 years ago through current-magic innovation
-**Primary Headquarters**: The Flowing Market, [[02_Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Flowing Market, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 2.8+ million pearl equivalents
 **Workforce**: 3,000+ current-riders, navigators, and support staff
 
@@ -209,9 +209,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 **Public Relations**: Extensive environmental education and community outreach
 
 ### Goldcurrent Banking Consortium
-**Chief Executive**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Chief Executive**: [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 **Founded**: 15 years ago during the Crystal Currency Crisis
-**Primary Headquarters**: The Deep Vault, [[02_Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Headquarters**: The Deep Vault, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 5.1+ million pearl equivalents
 **Workforce**: 800+ financial professionals
 
@@ -566,17 +566,17 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 - [[Lord Aurelius Goldwave]] - Goldwave Commercial Empire leader
 - [[Lady Venetia Silkwind]] - Silkwind Luxury Enterprises executive
 - [[Master Chen Wei]] - Chen Wei Import/Export director
-- [[02_Worldbuilding/People/The Current Merchants]] - Deep Current Trading Company navigator
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Goldcurrent Banking Consortium controller
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Surface corporate council
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal competition
+- [[02_Worldbuilding/People/The Current Merchants|02 Worldbuilding/People/The Current Merchants]] - Deep Current Trading Company navigator
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]] - Goldcurrent Banking Consortium controller
+- [[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Surface corporate council
+- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal competition
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]]
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
-- [[03_Mechanics/Living_Economy_Syste]]
-- [[03_Mechanics/Economic_Warfare_Simulator]]
+- [[02_Worldbuilding/Lore/The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]]
+- [[02_Worldbuilding/Lore/Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]]
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]]
+- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
+- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
 
 ## Player-Facing Summary
 

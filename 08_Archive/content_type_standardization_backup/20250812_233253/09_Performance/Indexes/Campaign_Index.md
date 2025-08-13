@@ -138,7 +138,7 @@ SORT population DESC
 - 🏛️ Ironhold Fortress - Military stronghold
 
 #### Islands & Regions
-- 🏝️ [[02_Worldbuilding/Places/The Cerulean Archipelago]] - World overview
+- 🏝️ [[02_Worldbuilding/Places/The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]] - World overview
 - 🏝️ Island of Skulls - Dangerous waters
 - 🏝️ Merchant's Rest Island - Safe harbor
 - 🏝️ Whisper Rock Lighthouse - Strategic point
@@ -201,7 +201,7 @@ SORT file.mtime DESC
 
 ### Combat
 - [[Combat Actions]]
-- [[03_Mechanics/CLI/conditions]]
+- [[03_Mechanics/CLI/conditions|03 Mechanics/CLI/conditions]]
 - [[Initiative Tracker]]
 
 ### Magic

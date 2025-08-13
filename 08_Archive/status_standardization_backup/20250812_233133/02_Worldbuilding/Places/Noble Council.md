@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Council]]
+- [[02_Worldbuilding/Places/Noble Council|02 Worldbuilding/Places/Noble Council]]
 
 <!-- enriched: true -->
 

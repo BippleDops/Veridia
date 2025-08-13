@@ -270,7 +270,7 @@ The character can grow and develop alongside party members, making them suitable
 ## Connections
 
 - [[Madame Rosalind Goldleaf]]
-- [[Market_District]]
+- [[Market_District|Market District]]
 
 ## Player-Facing Summary
 
@@ -292,6 +292,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
+- [[02_Worldbuilding/Places/Pip Goldleaf|02 Worldbuilding/Places/Pip Goldleaf]]
 
 <!-- enriched: true -->

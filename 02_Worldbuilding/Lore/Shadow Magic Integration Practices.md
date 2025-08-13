@@ -630,22 +630,22 @@ Integration research creates opportunities for characters to participate in cutt
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Lore/Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
-- [[02_Worldbuilding/Lore/The Threshold]] - Dimensional nexus where shadow magic integration became necessary
-- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
-- [[02_Worldbuilding/Places/Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
-- [[02_Worldbuilding/Groups/Integration Institute]] - Primary research and educational organization
-- [[02_Worldbuilding/Groups/Shadow Harmonists Guild]] - Professional organization for integration specialists
-- [[02_Worldbuilding/Groups/Cultural Bridge Alliance]] - Organization facilitating cooperation between traditional and integrated communities
-- [[02_Worldbuilding/People/Master Shadow Harmonist Penumbra Duskweaver]] - Leading authority on integration practices
-- [[02_Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper]] - Specialist in integration safety protocols
-- [[02_Worldbuilding/People/Community Integration Leader Echo Bridgewright]] - Expert in community-level integration projects
+- [[02_Worldbuilding/Lore/Umbral Exchange|02 Worldbuilding/Lore/Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
+- [[02_Worldbuilding/Lore/The Threshold|02 Worldbuilding/Lore/The Threshold]] - Dimensional nexus where shadow magic integration became necessary
+- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
+- [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
+- [[02_Worldbuilding/Groups/Integration Institute|02 Worldbuilding/Groups/Integration Institute]] - Primary research and educational organization
+- [[02_Worldbuilding/Groups/Shadow Harmonists Guild|02 Worldbuilding/Groups/Shadow Harmonists Guild]] - Professional organization for integration specialists
+- [[02_Worldbuilding/Groups/Cultural Bridge Alliance|02 Worldbuilding/Groups/Cultural Bridge Alliance]] - Organization facilitating cooperation between traditional and integrated communities
+- [[02_Worldbuilding/People/Master Shadow Harmonist Penumbra Duskweaver|02 Worldbuilding/People/Master Shadow Harmonist Penumbra Duskweaver]] - Leading authority on integration practices
+- [[02_Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper|02 Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper]] - Specialist in integration safety protocols
+- [[02_Worldbuilding/People/Community Integration Leader Echo Bridgewright|02 Worldbuilding/People/Community Integration Leader Echo Bridgewright]] - Expert in community-level integration projects
 
 ## Connections
 
 - [[Silver Mask]]
 - [[The Deep Mother]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -669,5 +669,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Master_Lore_Index]]
+- [[Master_Lore_Index|Master Lore Index]]
 - [[Aethermoor]]

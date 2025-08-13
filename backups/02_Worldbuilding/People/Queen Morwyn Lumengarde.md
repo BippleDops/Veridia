@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Queen Morwyn Lumengarde]]
+- [[02_Worldbuilding/People/Queen Morwyn Lumengarde|02 Worldbuilding/People/Queen Morwyn Lumengarde]]
 
 <!-- enriched: true -->
 

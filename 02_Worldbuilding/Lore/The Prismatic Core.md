@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]
 
 
 ## Connections

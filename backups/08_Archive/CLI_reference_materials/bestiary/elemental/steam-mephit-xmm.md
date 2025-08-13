@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-steam-mephit-xmm-steam-mephit-xmm.svg)
 
-# [Steam Mephit](3-Mechanics\CLI\bestiary\elemental/steam-mephit-xmm.md)
+# [[3-Mechanics\CLI\bestiary\elemental/steam-mephit-xmm|Steam Mephit]]
 *Source: Monster Manual (2024) p. 208. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 These arrogant mephits are made of heat and vaporous water. They often trick creatures into doing them favors, then renege on promised rewards.
@@ -65,21 +65,21 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan, Ignan)"
 "cr": "1/4"
 "traits":
-  - "desc": "Attack rolls against the mephit are made with [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ unless the mephit has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Attack rolls against the mephit are made with [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ unless the mephit has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Blurred Form"
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
-      \ creature in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mephit. Failure: 5 (2d4) Fire damage. Success: Half\
       \ damage."
     "name": "Death Burst"
@@ -87,10 +87,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (d4) Slashing damage plus\
       \ 2 (d4) Fire damage."
     "name": "Claw"
-  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: 5 (2d4) Fire damage, and the target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ Failure: 5 (2d4) Fire damage, and the target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of the mephit's next turn. Success: Half\
-      \ damage only. Failure or Success: Being underwater doesn't grant [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md)\
+      \ damage only. Failure or Success: Being underwater doesn't grant [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 6)"
 "source":

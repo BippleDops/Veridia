@@ -25,17 +25,17 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [Armor of Invulnerability](/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg.md) |
-| 09–18 | [Armor, +3](/03_Mechanics/CLI/items/3-armor-xdmg.md) |
-| 19–27 | [Enspelled Staff](/03_Mechanics/CLI/items/enspelled-staff-xdmg.md) (level 6, 7, or 8 spell) |
-| 28–36 | [Holy Avenger](/03_Mechanics/CLI/items/holy-avenger-xdmg.md) |
-| 37–45 | [Horn of Valhalla (iron)](/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg.md) |
-| 46–54 | [Rod of Resurrection](/03_Mechanics/CLI/items/rod-of-resurrection-xdmg.md) |
-| 55–63 | [Scarab of Protection](/03_Mechanics/CLI/items/scarab-of-protection-xdmg.md) |
-| 64–72 | [Scroll of Titan Summoning](/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg.md) |
-| 73–80 | [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([level 9](/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg.md) spell) |
-| 81–90 | [Talisman of Pure Good](/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg.md) |
-| 91–00 | [Talisman of Ultimate Evil](/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg.md) |
+| 01–08 | [[/03_Mechanics/CLI/items/armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
+| 09–18 | [[/03_Mechanics/CLI/items/3-armor-xdmg|Armor, +3]] |
+| 19–27 | [[/03_Mechanics/CLI/items/enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–36 | [[/03_Mechanics/CLI/items/holy-avenger-xdmg|Holy Avenger]] |
+| 37–45 | [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Horn of Valhalla (iron)]] |
+| 46–54 | [[/03_Mechanics/CLI/items/rod-of-resurrection-xdmg|Rod of Resurrection]] |
+| 55–63 | [[/03_Mechanics/CLI/items/scarab-of-protection-xdmg|Scarab of Protection]] |
+| 64–72 | [[/03_Mechanics/CLI/items/scroll-of-titan-summoning-xdmg|Scroll of Titan Summoning]] |
+| 73–80 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-level-9-xdmg|level 9]] spell) |
+| 81–90 | [[/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg|Talisman of Pure Good]] |
+| 91–00 | [[/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]] |
 ^relics-legendary
 
 ## Player-Facing Summary

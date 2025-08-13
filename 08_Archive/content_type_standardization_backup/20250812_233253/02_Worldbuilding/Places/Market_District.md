@@ -43,7 +43,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 **Population:** 3,000 (during market days: 5,000+)
 **Primary Race:** Human (60%), Dwarf (20%), Halfling (15%), Other (5%)
 **Government:** Merchant Council
-**Controlling Faction:** [[02_Worldbuilding/Groups/Merchants Guild]]
+**Controlling Faction:** [[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]
 
 ## Notable NPCs
 ### Leaders
@@ -51,16 +51,16 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 - [[Guildmaster Harwick]] - Merchant's Guild leader
 
 ### Merchants
-- [[02_Worldbuilding/People/Gareth_Ironforge]] - Master blacksmith
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Magical goods
+- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Master blacksmith
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Magical goods
 - [[Pip Goldleaf]] - General goods
 
 ## Available Services
 ### Shops
 | Shop Name | Type | Owner | Notable Items |
 |-----------|------|-------|---------------|
-| Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge]] | Masterwork weapons |
-| Starweaver's Arcana | Magic | [[02_Worldbuilding/Quests/Aquabyssos]] | Potions, scrolls |
+| Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] | Masterwork weapons |
+| Starweaver's Arcana | Magic | [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] | Potions, scrolls |
 | The Golden Goose | Inn | [[Martha Hillbrook]] | Comfortable rooms |
 
 ## Current Events
@@ -122,7 +122,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market_District]]
+- [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
 
 <!-- enriched: true -->
 

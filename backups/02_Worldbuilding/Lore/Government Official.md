@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf|02 Worldbuilding/Places/Madame Rosalind Goldleaf]]
 
 
 ## Connections

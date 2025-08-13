@@ -58,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Syncretist Mediators]]
+- [[02_Worldbuilding/Places/Syncretist Mediators|02 Worldbuilding/Places/Syncretist Mediators]]
 
 <!-- enriched: true -->
 

@@ -169,6 +169,6 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Parasite Infection]]
+- [[02_Worldbuilding/Places/Memory Parasite Infection|02 Worldbuilding/Places/Memory Parasite Infection]]
 
 <!-- enriched: true -->

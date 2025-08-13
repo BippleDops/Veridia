@@ -60,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Embassy of Eternal Shadows]]
+- [[02_Worldbuilding/People/Embassy of Eternal Shadows|02 Worldbuilding/People/Embassy Of Eternal Shadows]]
 
 <!-- enriched: true -->
 

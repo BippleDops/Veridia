@@ -712,7 +712,7 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 ## Connections
 
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Ω_System-CLI-spells-school-conjuration]]
+- [[Ω_System-CLI-spells-school-conjuration|Ω System CLI Spells School Conjuration]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
 
 ## Player-Facing Summary
@@ -735,6 +735,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mourning Depths]]
+- [[02_Worldbuilding/Places/Mourning Depths|02 Worldbuilding/Places/Mourning Depths]]
 
 <!-- enriched: true -->

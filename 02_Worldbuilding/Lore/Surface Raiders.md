@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Breathing Stone]]
+- [[02_Worldbuilding/Lore/The Breathing Stone|02 Worldbuilding/Lore/The Breathing Stone]]
 
 
 ## Connections

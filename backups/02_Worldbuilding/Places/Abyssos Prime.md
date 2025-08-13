@@ -12,10 +12,10 @@ location_name: Abyssos Prime
 location_type: Sunken Capital
 parent_location: '[[Aquabyssos]]'
 sub_locations:
-- '[[02_Worldbuilding/Places/The Inverse Palace]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[02_Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
 - '[[Reflection Pools]]'
 - '[[Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
@@ -23,9 +23,9 @@ sub_locations:
 depth: 1000-3000 feet
 population: 2000000
 government: '[[The Eternal Senate]]'
-ruler: '[[02_Worldbuilding/People/The Scattered Emperor]]'
+ruler: '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
 factions:
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
 - '[[Shadow Conspiracy]]'
 - '[[Depth Merchants]]'
 - '[[Memory Farmers]]'
@@ -39,8 +39,8 @@ services:
 - Depth Adaptation
 - Political Intrigue
 notable_npcs:
-- '[[02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 current_state: Shadow conspiracy active
 temporal_stability: 85
@@ -308,7 +308,7 @@ Undead parliament that continues debating despite having no living constituents.
 6. **The Forgotten** (memory-lost)
 
 ### Cultural Customs and Traditions
-The sophisticated culture of Abyssos Prime reflects the unique challenges of underwater civilization combined with the trauma of the Great Drowning. Citizens follow the elaborate protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]], including depth-based greeting customs, pressure-dining etiquette, and memorial traditions for the drowned. Throughout the year, the city observes festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], including the Deep Mother's Calling and the Festival of Memory Preservation. Professional guilds maintain ancient traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], though adapted for underwater life and the presence of shadow-replacements.
+The sophisticated culture of Abyssos Prime reflects the unique challenges of underwater civilization combined with the trauma of the Great Drowning. Citizens follow the elaborate protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]], including depth-based greeting customs, pressure-dining etiquette, and memorial traditions for the drowned. Throughout the year, the city observes festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]], including the Deep Mother's Calling and the Festival of Memory Preservation. Professional guilds maintain ancient traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]], though adapted for underwater life and the presence of shadow-replacements.
 
 ### Daily Life
 - **Work Cycles:** Based on tides, not day/night
@@ -384,16 +384,16 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 - **[[Void Currents]]:** Dangerous but fast
 
 ## See Also
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]] - Port facilities
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Upper city areas
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]] - Transportation hub
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]] - Palace details
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Underground network
+- [[02_Worldbuilding/Places/Abyssos Prime Docks|02 Worldbuilding/Places/Abyssos Prime Docks]] - Port facilities
+- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts|02 Worldbuilding/Places/Abyssos Prime Upper Districts]] - Upper city areas
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal|02 Worldbuilding/Places/Abyssos Prime Pressure Terminal]] - Transportation hub
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]] - Palace details
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace|02 Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Underground network
 
 ### Allied Locations
-- **[[02_Worldbuilding/Places/Tenebrarum]]:** Shadow trade partner
-- **[[02_Worldbuilding/Places/Nereidios]]:** Knowledge exchange
-- **[[02_Worldbuilding/Places/Crystallium]]:** Crystal trade
+- **[[02_Worldbuilding/Places/Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]:** Shadow trade partner
+- **[[02_Worldbuilding/Places/Nereidios|02 Worldbuilding/Places/Nereidios]]:** Knowledge exchange
+- **[[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]:** Crystal trade
 
 ### Enemy Territories
 - **[[The Mourning Depths]]:** Sorrow competition
@@ -439,14 +439,14 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 ## Important NPCs
 
 ### Permanent Residents
-- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Distributed consciousness ruler
-- **[[02_Worldbuilding/People/Senator Glaucus]]** - Shadow replacement
+- **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]** - Distributed consciousness ruler
+- **[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]** - Shadow replacement
 - **[[The Conductor]]** - Controls Screaming Gardens
 - **[[Memory Farmer Thane]]** - Kelp cultivation master
 - **[[Reflection Broker Mirrors]]** - Identity trader
 
 ### Frequent Visitors
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Tenebrarum investigator
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]** - Tenebrarum investigator
 - **[[Marina Red Tide Coralheart - Aquabyssos]]** - Adapted guide
 - **[[The Forgotten Representative]]** - Amnesia victim
 
@@ -495,7 +495,7 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 ### Work Day Activities (Tide Shift to Deep Current)
 
-**The Eternal Senate Sessions**: **[[02_Worldbuilding/People/The Scattered Emperor]]**'s fractured consciousness conducts government business across multiple throne chambers simultaneously. Senate debates occur with mixed representation of living senators, ghost participants, and shadow replacements creating complex negotiations where identity verification becomes as important as policy discussion. Recording crystals capture proceedings while magical analysis attempts to distinguish authentic participants from imposters.
+**The Eternal Senate Sessions**: **[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]**'s fractured consciousness conducts government business across multiple throne chambers simultaneously. Senate debates occur with mixed representation of living senators, ghost participants, and shadow replacements creating complex negotiations where identity verification becomes as important as policy discussion. Recording crystals capture proceedings while magical analysis attempts to distinguish authentic participants from imposters.
 
 **Memory Cultivation Operations**: **[[Memory Farmer Thane]]** oversees massive kelp forests where memories grow like crops, requiring careful tending to prevent corruption while maximizing emotional intensity. Workers rotate shifts to prevent memory contamination while maintaining production quotas for both legal and black market memory trade. Specialized teams harvest different memory types - joy, sorrow, fear, love - each requiring unique preservation techniques.
 
@@ -511,7 +511,7 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 **Parliamentary Observation Hours**: Citizens gather in the Parliament galleries to witness political debates while practicing their civic duty to monitor for shadow replacements among their representatives. These sessions provide transparency in government while serving as community entertainment and political education opportunities.
 
-**Cultural Identity Preservation**: **[[02_Worldbuilding/People/The Forgotten Representative]]** leads evening sessions where citizens practice pre-drowning traditions adapted for underwater life. These gatherings help maintain cultural continuity while adapting historical customs to current environmental and political realities.
+**Cultural Identity Preservation**: **[[02_Worldbuilding/People/The Forgotten Representative|02 Worldbuilding/People/The Forgotten Representative]]** leads evening sessions where citizens practice pre-drowning traditions adapted for underwater life. These gatherings help maintain cultural continuity while adapting historical customs to current environmental and political realities.
 
 **Memory Trading Social Hours**: Citizens gather in designated areas to share, trade, or sell personal memories, creating a complex social economy where experience becomes currency. These interactions require careful negotiation and magical verification to ensure fair exchanges while maintaining personal identity boundaries.
 
@@ -543,9 +543,9 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 **Parliamentary Assembly Cycles**: Weekly full senate sessions require elaborate preparation including shadow detection sweeps, memory protection protocols, and temporal stabilization procedures. These crucial political events coordinate government policy while managing the complex challenges of representing a population that includes multiple states of existence.
 
-**Memory Tide Management**: Regular tidal events require city-wide coordination of protective measures, emergency response systems, and community support services. Citizens prepare through neighborhood organizations that follow protocols from the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] for maintaining identity and community stability during challenging periods.
+**Memory Tide Management**: Regular tidal events require city-wide coordination of protective measures, emergency response systems, and community support services. Citizens prepare through neighborhood organizations that follow protocols from the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]] for maintaining identity and community stability during challenging periods.
 
-**Cultural Observance Adaptations**: Traditional celebrations from the [[02_Worldbuilding/Lore/Festival Calendar Complete]] require significant modification for underwater life and political constraints. Festival planning involves complex logistics to accommodate different states of existence while maintaining cultural significance under challenging circumstances.
+**Cultural Observance Adaptations**: Traditional celebrations from the [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]] require significant modification for underwater life and political constraints. Festival planning involves complex logistics to accommodate different states of existence while maintaining cultural significance under challenging circumstances.
 
 **Seasonal Pressure Adaptations**:
 - **Deep Current Season**: Increased pressure requires enhanced protection systems and reduced surface contact. Citizens adapt daily routines for survival while maintaining essential community functions.
@@ -553,9 +553,9 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 - **Memory Storm Season**: Frequent temporal anomalies require enhanced protective measures and community coordination to prevent widespread identity loss and political destabilization.
 - **Shadow Season**: Peak shadow replacement activity requires intensive security measures and community vigilance to maintain population integrity and political stability.
 
-**Guild Coordination Meetings**: Professional organizations adapted from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]] coordinate essential services while managing the unique challenges of underwater civilization and shadow infiltration. These meetings maintain professional standards while adapting to constantly changing political and environmental conditions.
+**Guild Coordination Meetings**: Professional organizations adapted from the [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]] coordinate essential services while managing the unique challenges of underwater civilization and shadow infiltration. These meetings maintain professional standards while adapting to constantly changing political and environmental conditions.
 
-**International Relations**: Diplomatic activities with surface settlements and other underwater communities require complex preparation involving pressure adaptation, cultural translation, and security measures from the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] modified for underwater diplomacy and shadow detection protocols.
+**International Relations**: Diplomatic activities with surface settlements and other underwater communities require complex preparation involving pressure adaptation, cultural translation, and security measures from the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]] modified for underwater diplomacy and shadow detection protocols.
 
 ## Quick Reference
 
@@ -632,17 +632,17 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 - [[Theological Warfare]]
 - [[Void Currents]]
 - [[Whisper-Touched William]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
 - [[Smuggler]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
-- [[Campaign_Quick_Reference_Sheets]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -658,10 +658,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Underwater cultural traditions and customs
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs adapted for underwater life
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols with surface dwellers
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex|02 Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Underwater cultural traditions and customs
+- [[02_Worldbuilding/Lore/Festival Calendar Complete|02 Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium|02 Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs adapted for underwater life
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide|02 Worldbuilding/Lore/Cross Realm Etiquette Guide]] - Diplomatic protocols with surface dwellers
 
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]

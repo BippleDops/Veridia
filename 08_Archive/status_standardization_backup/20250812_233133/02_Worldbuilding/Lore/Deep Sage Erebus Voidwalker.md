@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
 
 
 ## Connections

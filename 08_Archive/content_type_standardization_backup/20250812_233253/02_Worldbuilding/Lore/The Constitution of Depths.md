@@ -42,7 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession|02 Worldbuilding/Lore/The Bathyal Succession]]
 
 
 ## Connections

@@ -7,9 +7,9 @@ estimated_time: 3-4 hours
 level: 5
 location: New Meridian - The Merged City
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
 - '[[Aquabyssos Ambassadors]]'
 - '[[The Transformed Citizens]]'
 obsidianUIMode: preview
@@ -51,7 +51,7 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 ### Scene 1: The Citizens' Choice
 - **Location**: Various districts of merged Meridian
 - **Situation**: Help confused citizens choose their form
-- **Conflict**: [[02_Worldbuilding/Groups/Purist Coalition]] attempts violent separation
+- **Conflict**: [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] attempts violent separation
 - **Discovery**: Some citizens thrive in dual form
 
 ### Scene 2: The Ambassador's Arrival
@@ -78,11 +78,11 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 2. Some transformed citizens prefer their new forms
 3. Aquabyssos technology could revolutionize Aethermoor
 4. The Entity left seeds of itself in some citizens
-5. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s bloodline can speak for Aquabyssos
-6. The Queen and [[02_Worldbuilding/People/Captain Lyanna Brightshield]] share a soul-bond
+5. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'s bloodline can speak for Aquabyssos
+6. The Queen and [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] share a soul-bond
 7. Time moves differently in merged zones
 8. Children adapt to the merge most easily
-9. [[02_Worldbuilding/People/The Crimson Sage]] left one final message
+9. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] left one final message
 10. Perfect unity is impossible but harmony is achievable
 
 ## 👥 NPCs
@@ -136,7 +136,7 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 
 ## 🎭 Cliffhanger Ending
 
-As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[02_Worldbuilding/People/The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
+As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
 
 ## 🔗 Connected Notes
 - New Meridian Districts
@@ -168,4 +168,4 @@ Political Balance:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]

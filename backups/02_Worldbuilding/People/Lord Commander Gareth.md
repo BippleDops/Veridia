@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Commander Gareth]]
+- [[02_Worldbuilding/People/Lord Commander Gareth|02 Worldbuilding/People/Lord Commander Gareth]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

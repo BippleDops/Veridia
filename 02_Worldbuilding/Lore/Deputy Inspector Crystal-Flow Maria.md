@@ -15,7 +15,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[02_Worldbuilding/Lore/Customs House|02 Worldbuilding/Lore/Customs House]]
 
 
 ## Connections

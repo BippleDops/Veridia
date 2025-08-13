@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate|02 Worldbuilding/Places/Coral Throne Syndicate]]
 
 
 ## Connections

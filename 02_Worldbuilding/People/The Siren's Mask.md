@@ -19,7 +19,7 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[02_Worldbuilding/People/The Siren|02 Worldbuilding/People/The Siren]]
 
 
 ## Connections

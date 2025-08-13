@@ -178,6 +178,6 @@ Legends speak of Market Mystery as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market Mystery]]
+- [[02_Worldbuilding/Places/Market Mystery|02 Worldbuilding/Places/Market Mystery]]
 
 <!-- enriched: true -->

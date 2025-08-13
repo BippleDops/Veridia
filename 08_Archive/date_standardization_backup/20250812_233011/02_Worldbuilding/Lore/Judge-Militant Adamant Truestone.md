@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Places/The Crystal Wardens|02 Worldbuilding/Places/The Crystal Wardens]]
 
 
 ## Connections

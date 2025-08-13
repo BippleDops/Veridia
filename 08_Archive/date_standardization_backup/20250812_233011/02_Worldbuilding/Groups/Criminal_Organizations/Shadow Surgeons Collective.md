@@ -244,7 +244,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 - **Research Outposts**: 4 facilities in remote areas studying advanced shadow surgery techniques
 
 #### Notable Locations
-- **The Forgotten Ward**: Hospital wing in [[02_Worldbuilding/Lore/The Coral Gardens]] serving as recruitment center
+- **The Forgotten Ward**: Hospital wing in [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]] serving as recruitment center
 - **Shadowbane Clinic**: Facility in [[Aethermoor]] providing services to [[Independent Smugglers]]
 - **The Void Sanctum**: Secret facility in [[Parliament of Echoes]] district for political operations
 - **Umbral Archives**: Hidden library beneath [[Aquabyssos University]] containing forbidden research
@@ -282,7 +282,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 **[[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater]]
 **[[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
 **[[Memory Farmers]]**: Direct competition in memory-related criminal services  
-**[[02_Worldbuilding/Groups/Order of the Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
+**[[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
 **[[Reformed Surgeons Alliance]]**: Former members exposing operations and helping victims
 **[[Citizens Protection Bureau]]**: Government agency investigating medical crimes
 
@@ -324,7 +324,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 - **Sanctum Raid**: Assault on the primary facility to rescue kidnapped [[Parliament of Echoes]] member
 - **Shadow Ship Chase**: Pursuing memory thieves through [[Aquabyssos]] submarine networks
 - **The Living Weapon**: Combat with surgically enhanced assassins who can't feel pain or fear
-- **Festival of Shadows**: Preventing mass memory extraction during major [[02_Worldbuilding/Lore/The Coral Gardens]] celebration
+- **Festival of Shadows**: Preventing mass memory extraction during major [[02_Worldbuilding/Lore/The Coral Gardens|02 Worldbuilding/Lore/The Coral Gardens]] celebration
 - **Dimensional Breach**: Stopping shadow surgery that's tearing holes between material plane and [[Shadowfell]]
 
 ### Political Intrigue
@@ -387,10 +387,10 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 - [[Crystalline Depths]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
-- [[Campaign_Relationship_Matrix]]
+- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -410,7 +410,7 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 
 ## Cross-References
 
-- [[Master_Groups_Index]]
+- [[Master_Groups_Index|Master Groups Index]]
 - [[Independent Smugglers]]
 - [[Merchants Guild]]
 - [[The Whisper Syndicate]]

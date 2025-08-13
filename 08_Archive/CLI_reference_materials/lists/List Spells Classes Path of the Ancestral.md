@@ -20,11 +20,11 @@ world: Both
 
 ## 2nd Level
 
-- [Augury](/03_Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 10
+- [[/03_Mechanics/CLI/spells/augury-xphb "XPHB"|Augury]] at class level 10
 
 ## 3rd Level
 
-- [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 10
+- [[/03_Mechanics/CLI/spells/clairvoyance-xphb "XPHB"|Clairvoyance]] at class level 10
 
 ## Player-Facing Summary
 

@@ -220,6 +220,6 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Harvest]]
+- [[02_Worldbuilding/Places/Temporal Harvest|02 Worldbuilding/Places/Temporal Harvest]]
 
 <!-- enriched: true -->

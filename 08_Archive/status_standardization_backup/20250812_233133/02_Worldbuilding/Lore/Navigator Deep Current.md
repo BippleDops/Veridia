@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Shattered Isles]]
+- [[02_Worldbuilding/Lore/Shattered Isles|02 Worldbuilding/Lore/Shattered Isles]]
 
 
 ## Connections

@@ -35,21 +35,21 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [Aasimar](/03_Mechanics/CLI/races/aasimar-xphb.md) |
-| 2 | [Dragonborn](/03_Mechanics/CLI/races/dragonborn-xphb.md) |
-| 3 | [Dwarf](/03_Mechanics/CLI/races/dwarf-xphb.md) |
-| 4 | [Elf](/03_Mechanics/CLI/races/elf-xphb.md) |
-| 5 | [Gnome](/03_Mechanics/CLI/races/gnome-xphb.md) |
-| 6 | [Goliath](/03_Mechanics/CLI/races/goliath-xphb.md) |
-| 7 | [Halfling](/03_Mechanics/CLI/races/halfling-xphb.md) |
-| 8 | [Human](/03_Mechanics/CLI/races/human-xphb.md) |
-| 9 | [Orc](/03_Mechanics/CLI/races/orc-xphb.md) |
-| 10 | [Tiefling](/03_Mechanics/CLI/races/tiefling-xphb.md) |
+| 1 | [[/03_Mechanics/CLI/races/aasimar-xphb|Aasimar]] |
+| 2 | [[/03_Mechanics/CLI/races/dragonborn-xphb|Dragonborn]] |
+| 3 | [[/03_Mechanics/CLI/races/dwarf-xphb|Dwarf]] |
+| 4 | [[/03_Mechanics/CLI/races/elf-xphb|Elf]] |
+| 5 | [[/03_Mechanics/CLI/races/gnome-xphb|Gnome]] |
+| 6 | [[/03_Mechanics/CLI/races/goliath-xphb|Goliath]] |
+| 7 | [[/03_Mechanics/CLI/races/halfling-xphb|Halfling]] |
+| 8 | [[/03_Mechanics/CLI/races/human-xphb|Human]] |
+| 9 | [[/03_Mechanics/CLI/races/orc-xphb|Orc]] |
+| 10 | [[/03_Mechanics/CLI/races/tiefling-xphb|Tiefling]] |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

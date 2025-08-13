@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.862879'
 world: Both
 ---
 
-# [Animated Object (Large)](3-Mechanics\CLI\bestiary\construct/animated-object-large-xphb.md)
+# [[3-Mechanics\CLI\bestiary\construct/animated-object-large-xphb|Animated Object (Large)]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

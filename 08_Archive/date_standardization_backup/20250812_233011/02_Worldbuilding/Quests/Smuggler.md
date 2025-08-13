@@ -308,7 +308,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **[[Abyssos Prime]]**: Government center coordinating official response
 
 ### Connected Adventures
-- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Other criminal operations that may involve Marcus's network
+- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Other criminal operations that may involve Marcus's network
 - **[[Traveling Merchant Finn]]**: Legitimate trader with connections to smuggling operations
 - **[[The Crystal Throne]]**: Political implications of faction involvement in fragment theft
 - **[[Rescue Senator Glaucus]]**: Government instability that criminals exploit
@@ -374,7 +374,7 @@ Legends speak of Smuggler as a nexus where past and present converge. Locals des
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 
 
 ## Connections

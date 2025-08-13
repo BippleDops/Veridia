@@ -19,7 +19,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/Senator|02 Worldbuilding/People/Senator]]
 
 
 ## Connections

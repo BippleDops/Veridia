@@ -15,7 +15,7 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal|02 Worldbuilding/Lore/Aquabyssos Trade Seal]]
 
 
 ## Connections

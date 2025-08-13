@@ -40,7 +40,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth|02 Worldbuilding/Lore/Discover Marina's Truth]]
 
 
 ## Connections

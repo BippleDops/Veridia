@@ -9,8 +9,8 @@ tags:
 - npc
 - wealthy
 type: NPC
-location: '[[02_Worldbuilding/Places/Port Meridian]]'
-faction: '[[02_Worldbuilding/Groups/Merchant Princes]]'
+location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+faction: '[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]'
 race: Gnome
 class: Rogue/Wizard
 level: 7
@@ -74,18 +74,18 @@ Third-generation head of the Ironledger Trading House, Castellan has transformed
 - **Portable Portal Device:** Single-use emergency escape to his vault
 
 ## Relationships
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Primary competitor and occasional partner in smuggling operations
-- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Finances his expeditions for exclusive trade rights
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides economic intelligence in exchange for trade monopolies
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Silent partner in crystal technology patents
+- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Primary competitor and occasional partner in smuggling operations
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]**: Finances his expeditions for exclusive trade rights
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides economic intelligence in exchange for trade monopolies
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Silent partner in crystal technology patents
 - **Ambassador Nerida Deepcurrent**: Negotiating exclusive distribution rights for Aquabyssos goods
 - **Marcus "Shardbreaker" Grimm**: Pays for information about crystal black markets
 - **Sister Morwyn Veilkeeper**: Trades prophecies for shadow-touched artifacts
 
 ## Business Empire
 ### The Ironledger Trading House
-- Primary warehouse in [[02_Worldbuilding/Places/Port Meridian]] with hidden basement levels
-- Secondary offices in [[02_Worldbuilding/Places/Crystalhaven]], [[Ironhold]], and three foreign cities
+- Primary warehouse in [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] with hidden basement levels
+- Secondary offices in [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], [[Ironhold]], and three foreign cities
 - Fleet of 12 merchant vessels with hidden compartments
 - Network of 200+ informants across Aethermoor
 
@@ -108,7 +108,7 @@ Third-generation head of the Ironledger Trading House, Castellan has transformed
 > - Has detailed files on every major NPC including their weaknesses
 > - Knows the location of a pre-Shattering vault containing ancient contracts
 > - Discovered that someone is manipulating crystal prices to cause economic collapse
-> - Has proof of [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption but keeps it for leverage
+> - Has proof of [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption but keeps it for leverage
 > - Maintains a deadman's switch that would release all secrets if he's killed
 > - Is actually the fourth Castellan—he eliminated his predecessor and took the name
 > - Has made a deal with entities from Aquabyssos for emergency extraction
@@ -176,7 +176,7 @@ Legends speak of Castellan Ironledger III as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Castellan Ironledger III]]
+- [[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]
 
 <!-- enriched: true -->
 - [[Ironhold]]

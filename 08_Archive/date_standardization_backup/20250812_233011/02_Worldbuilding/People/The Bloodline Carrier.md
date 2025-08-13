@@ -194,7 +194,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[02_Worldbuilding/People/The Bloodline Carrier|02 Worldbuilding/People/The Bloodline Carrier]]
 
 <!-- enriched: true -->
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]

@@ -24,11 +24,11 @@ world: Both
 | Item | Cost |
 |------|------|
 | *Ale* |  |
-| &emsp;[Gallon](/03_Mechanics/CLI/items/ale-gallon.md) | 2 sp |
-| &emsp;[Mug](/03_Mechanics/CLI/items/ale-mug-xphb.md) | 4 cp |
+| &emsp;[[/03_Mechanics/CLI/items/ale-gallon|Gallon]] | 2 sp |
+| &emsp;[[/03_Mechanics/CLI/items/ale-mug-xphb|Mug]] | 4 cp |
 | Banquet (per person) | 10 gp |
-| [Bread, loaf](/03_Mechanics/CLI/items/bread-loaf-xphb.md) | 2 cp |
-| [Cheese, hunk](/03_Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 sp |
+| [[/03_Mechanics/CLI/items/bread-loaf-xphb|Bread, loaf]] | 2 cp |
+| [[/03_Mechanics/CLI/items/cheese-wedge-xphb|Cheese, hunk]] | 1 sp |
 | *Inn stay (per day)* |  |
 | &emsp;Squalid | 7 cp |
 | &emsp;Poor | 1 sp |
@@ -43,10 +43,10 @@ world: Both
 | &emsp;Comfortable | 5 sp |
 | &emsp;Wealthy | 8 sp |
 | &emsp;Aristocratic | 2 gp |
-| [Meat, chunk](/03_Mechanics/CLI/items/chunk-of-meat.md) | 3 sp |
+| [[/03_Mechanics/CLI/items/chunk-of-meat|Meat, chunk]] | 3 sp |
 | *Wine* |  |
-| &emsp;[Common (pitcher)](/03_Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 sp |
-| &emsp;[Fine (bottle)](/03_Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 gp |
+| &emsp;[[/03_Mechanics/CLI/items/common-wine-bottle-xphb|Common (pitcher)]] | 2 sp |
+| &emsp;[[/03_Mechanics/CLI/items/fine-wine-bottle-xphb|Fine (bottle)]] | 10 gp |
 ^food-drink-and-lodging
 
 ## Player-Facing Summary

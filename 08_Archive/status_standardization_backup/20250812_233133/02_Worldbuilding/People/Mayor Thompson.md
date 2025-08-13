@@ -252,11 +252,11 @@ His character represents the theme that evil often wears a friendly face and tha
 
 ## Connections
 
-- [[Gareth_Ironforge]]
+- [[Gareth_Ironforge|Gareth Ironforge]]
 - [[Jasper Three-Eyes Flint]]
 - [[The Pearl Guard]]
-- [[Market_District]]
-- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[Market_District|Market District]]
+- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -272,7 +272,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson|02 Worldbuilding/People/Mayor Thompson]]
 
 <!-- enriched: true -->
 - [[Ambassador Nerida Deepcurrent]]

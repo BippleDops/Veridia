@@ -20,7 +20,7 @@ world: Both
 # Evasive Footwork
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die and take the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) action. You also roll the die and add the number rolled to your AC until the start of your next turn.
+As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can expend one Superiority Die and take the [[/03_Mechanics/CLI/actions#Disengage|Disengage]] action. You also roll the die and add the number rolled to your AC until the start of your next turn.
 
 ## Player-Facing Summary
 

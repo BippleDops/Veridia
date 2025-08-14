@@ -316,3 +316,22 @@
 ✅ Total generated: 6 assets
 
 📦 Auto-committing changes...
+Commit failed: stdout maxBuffer length exceeded
+
+🎯 Batch 19: Generating locations...
+
+🎨 Generating 10 locations...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 locations
+✅ Total generated: 6 assets
+
+📦 Auto-committing changes...

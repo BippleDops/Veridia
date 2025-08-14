@@ -30,10 +30,13 @@ async function comfyGet(path){
 }
 
 function buildPromptGraph({ prompt, width = 512, height = 512, steps = 20, cfg = 6.5, seed = 0, ckpt }){
+  // Use the actual checkpoint name if not provided
+  const checkpoint = ckpt || 'v1-5-pruned-emaonly-fp16.safetensors';
+  
   // Simple graph adapted for SD1.5-like models
   return {
     '3': { // CheckpointLoaderSimple
-      'inputs': { 'ckpt_name': ckpt },
+      'inputs': { 'ckpt_name': checkpoint },
       'class_type': 'CheckpointLoaderSimple'
     },
     '4': { // CLIPTextEncode (positive)
@@ -75,8 +78,9 @@ function buildPromptGraph({ prompt, width = 512, height = 512, steps = 20, cfg =
 }
 
 async function generateImageViaComfy({ prompt, width, height, seed = Math.floor(Math.random()*1e9), ckpt }){
-  if (!ckpt) throw new Error('comfy: COMFY_CKPT not set');
-  const graph = buildPromptGraph({ prompt, width, height, seed, ckpt });
+  // Use default checkpoint if not provided
+  const checkpoint = ckpt || 'v1-5-pruned-emaonly-fp16.safetensors';
+  const graph = buildPromptGraph({ prompt, width, height, seed, ckpt: checkpoint });
   const enqueue = await comfyPost('/prompt', { prompt: graph });
   const promptId = enqueue && enqueue.prompt_id;
   if (!promptId) throw new Error('comfy: no prompt_id');

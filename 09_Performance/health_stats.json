@@ -1,0 +1,12 @@
+{
+  "uptime": 87,
+  "totalGenerated": 6,
+  "queueLength": 0,
+  "memory": {
+    "rss": 146554880,
+    "heapTotal": 13139968,
+    "heapUsed": 8615000,
+    "external": 3716195,
+    "arrayBuffers": 256208
+  }
+}

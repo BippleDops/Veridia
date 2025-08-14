@@ -199,3 +199,21 @@
 ❌ Stability generation failed: Stability API error: Too Many Requests
 ✅ Generated 0/10 scenes
 ✅ Total generated: 6 assets
+
+🎯 Batch 12: Generating portraits...
+
+🎨 Generating 10 portraits...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 portraits
+✅ Total generated: 6 assets
+
+📦 Auto-committing changes...

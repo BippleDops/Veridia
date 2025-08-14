@@ -40151,3 +40151,251 @@ Parsed 120 prompts, wrote 6 assets (real-only).
  - 04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png
  - 04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png
  - 04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-v1-the-lighthouse-keeper-s-ghost.png
+[gen-error] type=location name=Crown of Eternal Ice size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Martha Hillbrook size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Crown of Eternal Ice size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Martha Hillbrook size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Restorative Justice size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Victoria Harbormane size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Restorative Justice size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Luminous Hollow size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Luminous Hollow size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Victoria Harbormane size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Middle Harbor size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Middle Harbor size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Vault Breach size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Magical Services size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Vault Breach size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Magical Services size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Chronicle Keeper Sage Deepmemory size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Chronicle Keeper Sage Deepmemory size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=The Floating Markets of Nereidios size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Trade Union size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Trade Union size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=The Floating Markets of Nereidios size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Garden Keeper Earthshade size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Golden Coral size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Garden Keeper Earthshade size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Golden Coral size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Age of Wonders size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Age of Wonders size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Courier Chief Swift Currentrider size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Crystal-Powered Vessels size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}
+[gen-error] type=location name=Crystal-Powered Vessels size=2:3/2048x3072 msg=OpenAI error 400: {
+  "error": {
+    "message": "Billing hard limit has been reached.",
+    "type": "image_generation_user_error",
+    "param": null,
+    "code": "billing_hard_limit_reached"
+  }
+}

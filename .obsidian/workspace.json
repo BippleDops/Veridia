@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Adventures/01 Chapter 1 Prisoners of the Drow.md",
+                "file": "02_Worldbuilding/Lore/A Day in Aquabyssos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Chapter 1 Prisoners of the Drow"
+              "title": "A Day in Aquabyssos"
             }
           }
         ]
@@ -308,12 +308,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "6329ab96154d8f42",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "e340849072bad9c1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "6329ab96154d8f42",
+            "id": "381296e9bd43fb2b",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -368,8 +388,16 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "bb21e6fb9beae31a",
+  "active": "e17f13f3405f76f1",
   "lastOpenFiles": [
+    "scripts/cleanup_and_phase1_complete.py",
+    "reports/phase1_steps_1_30_20250814_170140.json",
+    "00_Indexes/Quest_Tracker.md",
+    "00_Indexes/Relationship_Web.md",
+    "00_Indexes/Campaign_Center.md",
+    "00_Indexes/Navigation_Hub.md",
+    "scripts/phase1_navigation.py",
+    "scripts/dynamic_index_builder.py",
     "scripts/intelligent_link_fixer.py",
     "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Rules_Reference/action-options.md",
     "03_Mechanics/CLI/actions.md",
@@ -396,16 +424,8 @@
     "03_Mechanics/Activate the Grief Bomb.md",
     "04_Resources/Assets/Location_Prompts/Cities.md",
     "02_Worldbuilding/People/Admiral Cassandra Stormwind.md",
-    "02_Worldbuilding/Places/Port Meridian.md",
-    "Master_People_Index.md",
-    "03_Mechanics/CLI/bestiary/giant/ogre-xmm.md",
     "scripts/build_prompts.js",
-    "03_Mechanics/CLI/books/monster-manual-2014/1-introduction.md",
     "09_Performance/Monster Gallery.base",
-    "09_Performance/Location Tracker.base",
-    "09_Performance/Image Library.base",
-    "09_Performance/Faction_Tracker.base",
-    "09_Performance/Combat Tracker.base",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
     "Ω_Assets/Pasted image 20250121213204.png",

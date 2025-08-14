@@ -4007,5 +4007,35 @@
 ## portrait_void_1755203601731
 ![](04_Resources/Assets/Portraits/portrait_void_1755203601731.png)
 
+## portraits_aethermoor_1755205548450
+![](04_Resources/Assets/Portraits/portraits_aethermoor_1755205548450.png)
+
+## portraits_aethermoor_1755205553079
+![](04_Resources/Assets/Portraits/portraits_aethermoor_1755205553079.png)
+
+## portraits_aethermoor_1755205562047
+![](04_Resources/Assets/Portraits/portraits_aethermoor_1755205562047.png)
+
+## portraits_aethermoor_1755205568006
+![](04_Resources/Assets/Portraits/portraits_aethermoor_1755205568006.png)
+
 ## portraits_aquabyssos_1755205542799
 ![](04_Resources/Assets/Portraits/portraits_aquabyssos_1755205542799.png)
+
+## portraits_aquabyssos_1755205548076
+![](04_Resources/Assets/Portraits/portraits_aquabyssos_1755205548076.png)
+
+## portraits_aquabyssos_1755205558105
+![](04_Resources/Assets/Portraits/portraits_aquabyssos_1755205558105.png)
+
+## portraits_aquabyssos_1755205563596
+![](04_Resources/Assets/Portraits/portraits_aquabyssos_1755205563596.png)
+
+## portraits_void_1755205553655
+![](04_Resources/Assets/Portraits/portraits_void_1755205553655.png)
+
+## portraits_void_1755205556957
+![](04_Resources/Assets/Portraits/portraits_void_1755205556957.png)
+
+## portraits_void_1755205566541
+![](04_Resources/Assets/Portraits/portraits_void_1755205566541.png)

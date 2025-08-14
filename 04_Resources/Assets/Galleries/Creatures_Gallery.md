@@ -406,3 +406,21 @@
 
 ## creature_void_1755203608747
 ![](04_Resources/Assets/Creatures/creature_void_1755203608747.png)
+
+## creatures_aethermoor_1755205552671
+![](04_Resources/Assets/Creatures/creatures_aethermoor_1755205552671.png)
+
+## creatures_aethermoor_1755205565709
+![](04_Resources/Assets/Creatures/creatures_aethermoor_1755205565709.png)
+
+## creatures_aquabyssos_1755205548077
+![](04_Resources/Assets/Creatures/creatures_aquabyssos_1755205548077.png)
+
+## creatures_aquabyssos_1755205561317
+![](04_Resources/Assets/Creatures/creatures_aquabyssos_1755205561317.png)
+
+## creatures_void_1755205556754
+![](04_Resources/Assets/Creatures/creatures_void_1755205556754.png)
+
+## creatures_void_1755205571185
+![](04_Resources/Assets/Creatures/creatures_void_1755205571185.png)

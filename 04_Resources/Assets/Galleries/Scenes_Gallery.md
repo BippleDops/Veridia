@@ -277,3 +277,15 @@
 
 ## scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn
 ![](04_Resources/Assets/Scenes/scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn.svg)
+
+## scenes_aethermoor_1755205553415
+![](04_Resources/Assets/Scenes/scenes_aethermoor_1755205553415.png)
+
+## scenes_aquabyssos_1755205548077
+![](04_Resources/Assets/Scenes/scenes_aquabyssos_1755205548077.png)
+
+## scenes_aquabyssos_1755205567371
+![](04_Resources/Assets/Scenes/scenes_aquabyssos_1755205567371.png)
+
+## scenes_void_1755205557744
+![](04_Resources/Assets/Scenes/scenes_void_1755205557744.png)

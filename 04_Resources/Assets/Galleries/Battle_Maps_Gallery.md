@@ -353,5 +353,20 @@
 ## map-world-layer-world-political-boundaries-world-political-boundaries
 ![](04_Resources/Assets/Maps/map-world-layer-world-political-boundaries-world-political-boundaries.svg)
 
+## maps_aethermoor_1755205553168
+![](04_Resources/Assets/Maps/maps_aethermoor_1755205553168.png)
+
+## maps_aethermoor_1755205565352
+![](04_Resources/Assets/Maps/maps_aethermoor_1755205565352.png)
+
+## maps_aquabyssos_1755205548077
+![](04_Resources/Assets/Maps/maps_aquabyssos_1755205548077.png)
+
+## maps_aquabyssos_1755205560398
+![](04_Resources/Assets/Maps/maps_aquabyssos_1755205560398.png)
+
+## maps_void_1755205556824
+![](04_Resources/Assets/Maps/maps_void_1755205556824.png)
+
 ## world-map
 ![](04_Resources/Assets/Maps/world-map.png)

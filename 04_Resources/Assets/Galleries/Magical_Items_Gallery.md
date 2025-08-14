@@ -316,3 +316,18 @@
 
 ## item-artifact-windvane-pota-windvane-pota
 ![](04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png)
+
+## items_aethermoor_1755205552891
+![](04_Resources/Assets/Items/items_aethermoor_1755205552891.png)
+
+## items_aethermoor_1755205566451
+![](04_Resources/Assets/Items/items_aethermoor_1755205566451.png)
+
+## items_aquabyssos_1755205548077
+![](04_Resources/Assets/Items/items_aquabyssos_1755205548077.png)
+
+## items_aquabyssos_1755205562148
+![](04_Resources/Assets/Items/items_aquabyssos_1755205562148.png)
+
+## items_void_1755205557853
+![](04_Resources/Assets/Items/items_void_1755205557853.png)

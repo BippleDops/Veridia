@@ -6805,3 +6805,18 @@
 
 ## location_void_1755203022407
 ![](04_Resources/Assets/Locations/location_void_1755203022407.png)
+
+## locations_aethermoor_1755205554710
+![](04_Resources/Assets/Locations/locations_aethermoor_1755205554710.png)
+
+## locations_aethermoor_1755205567731
+![](04_Resources/Assets/Locations/locations_aethermoor_1755205567731.png)
+
+## locations_aquabyssos_1755205548077
+![](04_Resources/Assets/Locations/locations_aquabyssos_1755205548077.png)
+
+## locations_aquabyssos_1755205563272
+![](04_Resources/Assets/Locations/locations_aquabyssos_1755205563272.png)
+
+## locations_void_1755205559048
+![](04_Resources/Assets/Locations/locations_void_1755205559048.png)

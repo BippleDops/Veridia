@@ -25,27 +25,24 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-original-palace-the-original-palace.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-original-palace-the-original-palace.svg]]
 
 
 # The Original Palace
 
-*The ancestral seat of the [[02_Worldbuilding/Places/Deep Ones]] and the architectural marvel that served as the model for all subsequent underwater royal residences, the Original Palace stands as a testament to the ancient mastery of aquatic civilization.*
+*The ancestral seat of the [[Deep Ones]] and the architectural marvel that served as the model for all subsequent underwater royal residences, the Original Palace stands as a testament to the ancient mastery of aquatic civilization.*
 
 ## Overview
 
-Deep within the [[02_Worldbuilding/Lore/Midnight Trenches]] of [[02_Worldbuilding/Places/Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[02_Worldbuilding/Lore/The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
+Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
 
 The palace exists in a state of constant, gentle motion, its living coral walls breathing with the rhythm of the deep currents. Bioluminescent organisms integrated into the architecture provide an ethereal glow that shifts through the spectrum of deep-sea colors: blues, purples, and the occasional flash of silver or gold.
 
 ## Architectural Marvel
 
 ### The Living Foundation
-Unlike surface palaces built from dead stone, the Original Palace grows from a massive [[02_Worldbuilding/Lore/Titan Coral]] formation that has been carefully cultivated for millennia. The coral continues to grow and adapt, incorporating new chambers and passages as needed. The foundation extends deep into the sea floor, its roots intertwining with underwater volcanic vents that provide both heat and mineral nutrients.
+Unlike surface palaces built from dead stone, the Original Palace grows from a massive [[Titan Coral]] formation that has been carefully cultivated for millennia. The coral continues to grow and adapt, incorporating new chambers and passages as needed. The foundation extends deep into the sea floor, its roots intertwining with underwater volcanic vents that provide both heat and mineral nutrients.
 
 **Key Architectural Features:**
 - **Self-repairing walls:** Damaged sections regenerate over time
@@ -54,12 +51,12 @@ Unlike surface palaces built from dead stone, the Original Palace grows from a m
 - **Expansion potential:** New wings can be grown as needed
 
 ### The Five Spires
-The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[02_Worldbuilding/Places/Trade Union]] culture:
+The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[Trade Union]] culture:
 
 **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
 - **Function:** Throne rooms and formal audience chambers
-- **Notable Features:** The original [[02_Worldbuilding/Lore/The Coral Throne]], now empty but still resonant with ancient magic
+- **Notable Features:** The original [[The Coral Throne]], now empty but still resonant with ancient magic
 - **Architecture:** Spiral chambers following the pattern of ocean currents
 
 **The Spire of Depths** (Northern Tower)
@@ -71,7 +68,7 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Whispers** (Eastern Tower)
 - **Height:** 350 feet
 - **Function:** Libraries, archives, and scholarly pursuits
-- **Notable Features:** The [[02_Worldbuilding/Lore/Archive of Forgotten Depths]], crystal communication arrays
+- **Notable Features:** The [[Archive of Forgotten Depths]], crystal communication arrays
 - **Architecture:** Honeycomb of study chambers and meditation pools
 
 **The Spire of Tides** (Western Tower)
@@ -83,49 +80,49 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Pearls** (Southern Tower)
 - **Height:** 300 feet
 - **Function:** Treasury, ceremonial chambers, and temple spaces
-- **Notable Features:** Vaults containing the realm's greatest treasures, shrine to [[02_Worldbuilding/Lore/Leviathan the Deep]]
+- **Notable Features:** Vaults containing the realm's greatest treasures, shrine to [[Leviathan the Deep]]
 - **Architecture:** Crystalline formations that amplify magical energies
 
 ### The Connecting Bridges
-Between the spires, graceful bridges of woven [[02_Worldbuilding/Lore/Sea Silk]] and reinforced coral create pathways that undulate with the current. These bridges can be retracted in times of danger, isolating each spire for defense.
+Between the spires, graceful bridges of woven [[Sea Silk]] and reinforced coral create pathways that undulate with the current. These bridges can be retracted in times of danger, isolating each spire for defense.
 
 ## Current Inhabitants
 
 ### The Royal Court
-Though the throne stands empty following the events of [[02_Worldbuilding/Quests/The Depth Accords]], the palace remains home to a significant population:
+Though the throne stands empty following the events of [[The Depth Accords]], the palace remains home to a significant population:
 
-**[[02_Worldbuilding/Lore/Regent Thalassa]]** (Ancient Deep One Noble)
+**[[Regent Thalassa]]** (Ancient Deep One Noble)
 - **Role:** Current caretaker of the palace and regent in the absence of a crowned ruler
 - **Description:** An ancient Deep One who has overseen the palace for over 800 years
 - **Personality:** Deeply traditionalist but pragmatic about the changing times
 - **Daily Routine:** Morning meditation in the Spire of Currents, afternoon administrative duties, evening consultations with court advisors
 
 **The Palace Guard**
-- **Commander:** [[02_Worldbuilding/People/Captain Nerion Deepward]]
-- **Strength:** 200 elite [[02_Worldbuilding/Lore/Depth Guardians]]
-- **Equipment:** Weapons forged from [[02_Worldbuilding/Lore/Abyssal Steel]], armor incorporating living coral plates
+- **Commander:** [[Captain Nerion Deepward]]
+- **Strength:** 200 elite [[Depth Guardians]]
+- **Equipment:** Weapons forged from [[Abyssal Steel]], armor incorporating living coral plates
 - **Responsibilities:** Palace security, ceremonial duties, protection of ancient artifacts
 
 **The Court Scholars**
-- **Chief Archivist:** [[02_Worldbuilding/Lore/Master Koralith]]
+- **Chief Archivist:** [[Master Koralith]]
 - **Number:** 50 scholars, scribes, and loremasters
-- **Specialty:** Maintaining the [[02_Worldbuilding/Lore/Archive of Forgotten Depths]] and studying ancient texts
+- **Specialty:** Maintaining the [[Archive of Forgotten Depths]] and studying ancient texts
 - **Current Projects:** Researching the connection between the palace and other underwater realms
 
 ### The Service Staff
 The palace requires a vast staff to maintain its complex systems:
 
-**[[02_Worldbuilding/Places/Reef Tenders]]** (30 individuals)
+**[[Reef Tenders]]** (30 individuals)
 - **Role:** Maintain the living coral systems
 - **Skills:** Coral cultivation, marine biology, basic magic
-- **Tools:** Specially trained [[02_Worldbuilding/Lore/Cleaning Fish]], magical nutrients, growth catalysts
+- **Tools:** Specially trained [[Cleaning Fish]], magical nutrients, growth catalysts
 
-**[[02_Worldbuilding/Lore/Current Weavers]]** (20 individuals)
+**[[Current Weavers]]** (20 individuals)
 - **Role:** Manage water flow and temperature throughout the palace
 - **Skills:** Water magic, engineering, environmental control
 - **Responsibilities:** Ensuring proper circulation, maintaining comfortable conditions
 
-**[[02_Worldbuilding/Lore/Pearl Divers]]** (15 individuals)
+**[[Pearl Divers]]** (15 individuals)
 - **Role:** Harvest materials needed for palace maintenance
 - **Skills:** Deep-sea diving, creature handling, pearl cultivation
 - **Territory:** The [[Abyssal Gardens]] surrounding the palace
@@ -133,7 +130,7 @@ The palace requires a vast staff to maintain its complex systems:
 ## Notable Features and Services
 
 ### The Hall of Echoing Depths
-The palace's main audience chamber, where the acoustics have been designed to carry whispers across vast distances while allowing private conversations to remain unheard just feet away. The ceiling rises 200 feet and is decorated with a living mural that depicts the history of the [[02_Worldbuilding/Places/Deep Ones]] through bioluminescent coral formations.
+The palace's main audience chamber, where the acoustics have been designed to carry whispers across vast distances while allowing private conversations to remain unheard just feet away. The ceiling rises 200 feet and is decorated with a living mural that depicts the history of the [[Deep Ones]] through bioluminescent coral formations.
 
 **Acoustic Properties:**
 - Whispers can carry across the 300-foot length of the hall
@@ -160,28 +157,28 @@ Scattered throughout the palace are over 100 meditation pools, each fed by diffe
 The palace's treasury consists of chambers whose coral walls have been specially cultivated to respond only to authorized individuals. These vaults contain:
 
 **Ancient Artifacts**
-- The [[02_Worldbuilding/Lore/Scepter of Tidal Command]]: Controls ocean currents within a 100-mile radius
-- [[02_Worldbuilding/People/Armor of the First Deep King]]: Provides immunity to pressure and cold
-- The [[02_Worldbuilding/Lore/Crown of Pearls Eternal]]: Grants telepathic communication with all sea life
-- [[02_Worldbuilding/Lore/Scrolls of the Primordial Depths]]: Contain spells unknown to surface magic
+- The [[Scepter of Tidal Command]]: Controls ocean currents within a 100-mile radius
+- [[Armor of the First Deep King]]: Provides immunity to pressure and cold
+- The [[Crown of Pearls Eternal]]: Grants telepathic communication with all sea life
+- [[Scrolls of the Primordial Depths]]: Contain spells unknown to surface magic
 
 **Wealth Beyond Measure**
-- Thousands of perfectly spherical [[02_Worldbuilding/Lore/Abyssal Pearls]]
-- Veins of [[02_Worldbuilding/Lore/Deepwater Gold]] that run through the palace walls
-- Collections of rare [[02_Worldbuilding/Lore/Pressure Diamonds]] formed in the deepest trenches
-- Stockpiles of [[02_Worldbuilding/Lore/Sea Silk]] fine enough to be worn by royalty
+- Thousands of perfectly spherical [[Abyssal Pearls]]
+- Veins of [[Deepwater Gold]] that run through the palace walls
+- Collections of rare [[Pressure Diamonds]] formed in the deepest trenches
+- Stockpiles of [[Sea Silk]] fine enough to be worn by royalty
 
 ### The Communication Networks
-The palace serves as the hub for an ancient communication system that connects to deep-sea installations across [[02_Worldbuilding/Places/Aquabyssos]]:
+The palace serves as the hub for an ancient communication system that connects to deep-sea installations across [[Aquabyssos]]:
 
 **Crystal Resonators**
 - Networks of specially tuned crystals that carry messages instantly across vast distances
-- Maintained by [[02_Worldbuilding/Lore/Master Resonants]] who understand the ancient techniques
+- Maintained by [[Master Resonants]] who understand the ancient techniques
 - Can reach other major deep-sea cities and outposts
 - Occasionally picks up communications from other planes of existence
 
 **The Calling Chambers**
-- Specialized rooms where [[02_Worldbuilding/Places/Trade Union]] nobles can communicate with surface contacts
+- Specialized rooms where [[Trade Union]] nobles can communicate with surface contacts
 - Protected by magical wards that prevent eavesdropping
 - Equipped with translation magic for cross-species communication
 - Used for diplomatic correspondence and intelligence gathering
@@ -208,7 +205,7 @@ The living coral that forms the palace's foundation has begun showing signs of a
 
 **Investigation Elements:**
 - Analysis of affected coral samples
-- Interviews with the [[02_Worldbuilding/Places/Reef Tenders]]
+- Interviews with the [[Reef Tenders]]
 - Exploration of the deep foundation chambers
 - Encounters with creatures that may be causing or affected by the blight
 
@@ -228,7 +225,7 @@ Representatives from multiple surface kingdoms arrive simultaneously at the pala
 **Level Range:** 9-14  
 **Type:** Epic Adventure
 
-Something stirs in the deepest chambers of the palace—chambers that have been sealed since its construction. Ancient guardians that were thought to be decorative have begun to move, and voices speaking in the [[02_Worldbuilding/Lore/Old Tongue]] echo through the halls. Characters must uncover what ancient power is awakening and whether it represents salvation or doom for the palace and its inhabitants.
+Something stirs in the deepest chambers of the palace—chambers that have been sealed since its construction. Ancient guardians that were thought to be decorative have begun to move, and voices speaking in the [[Old Tongue]] echo through the halls. Characters must uncover what ancient power is awakening and whether it represents salvation or doom for the palace and its inhabitants.
 
 **Epic Elements:**
 - Encounters with primordial creatures
@@ -240,7 +237,7 @@ Something stirs in the deepest chambers of the palace—chambers that have been 
 **Level Range:** 4-7  
 **Type:** Exploration & Problem-Solving
 
-A coded map has been discovered that allegedly leads to a hidden treasure vault within the palace—one that even [[02_Worldbuilding/Lore/Regent Thalassa]] doesn't know about. Characters must decipher the ancient clues while avoiding the palace's security systems and discovering whether the treasure is worth the risks involved.
+A coded map has been discovered that allegedly leads to a hidden treasure vault within the palace—one that even [[Regent Thalassa]] doesn't know about. Characters must decipher the ancient clues while avoiding the palace's security systems and discovering whether the treasure is worth the risks involved.
 
 **Puzzle Elements:**
 - Ancient codes and cipher systems
@@ -250,13 +247,13 @@ A coded map has been discovered that allegedly leads to a hidden treasure vault 
 
 ## Connections to Other Locations
 
-### The [[02_Worldbuilding/Lore/The Coral Throne]] Chamber
-The destroyed throne that sparked [[02_Worldbuilding/Quests/The Depth Accords]] quest was a newer creation, modeled after the Original Palace's design. Pieces of the original throne remain here, and they may hold the key to creating a permanent replacement.
+### The [[The Coral Throne]] Chamber
+The destroyed throne that sparked [[The Depth Accords]] quest was a newer creation, modeled after the Original Palace's design. Pieces of the original throne remain here, and they may hold the key to creating a permanent replacement.
 
 ### The [[Abyssal Courts]]
 The three courts that figure prominently in major diplomatic quests maintain permanent embassies within the palace. These embassy chambers serve as neutral ground for inter-court negotiations.
 
-### The [[02_Worldbuilding/Lore/Midnight Trenches]]
+### The [[Midnight Trenches]]
 The palace sits at the heart of this vast underwater canyon system, which contains numerous other points of interest, ruins, and dangerous creatures that can serve as additional adventure sites.
 
 ### Surface Connections
@@ -269,29 +266,29 @@ Though deep beneath the waves, the palace maintains secret connections to surfac
 ## Secrets and Hidden Knowledge
 
 ### The True Purpose
-While most believe the Original Palace was built purely as a royal residence, ancient texts suggest it serves a more fundamental purpose: it's a massive magical focus that helps maintain the barrier between the material plane and the [[02_Worldbuilding/Lore/Far Realms]]. The increasing instability following recent political upheavals may weaken this barrier.
+While most believe the Original Palace was built purely as a royal residence, ancient texts suggest it serves a more fundamental purpose: it's a massive magical focus that helps maintain the barrier between the material plane and the [[Far Realms]]. The increasing instability following recent political upheavals may weaken this barrier.
 
 ### The Missing Rooms
 Palace maps from different eras show chambers that no longer exist or can't be found. Some scholars believe these rooms exist in a state of temporal flux, occasionally appearing and disappearing. Characters who find these chambers may encounter inhabitants from the past or future.
 
 ### The Listening Walls
-The coral walls of the palace have been absorbing conversations for thousands of years. Master [[02_Worldbuilding/Places/Reef Tenders]] know how to coax memories from the coral, potentially revealing ancient secrets, forgotten plots, or valuable information about long-dead rulers.
+The coral walls of the palace have been absorbing conversations for thousands of years. Master [[Reef Tenders]] know how to coax memories from the coral, potentially revealing ancient secrets, forgotten plots, or valuable information about long-dead rulers.
 
 ### The Deep Foundations
-The palace's roots extend far deeper than most realize, connecting to an underground network of caverns that may predate the [[02_Worldbuilding/Places/Deep Ones]] themselves. These caverns contain evidence of even more ancient civilizations and powers that once ruled the depths.
+The palace's roots extend far deeper than most realize, connecting to an underground network of caverns that may predate the [[Deep Ones]] themselves. These caverns contain evidence of even more ancient civilizations and powers that once ruled the depths.
 
 ## Visiting the Palace
 
 ### Access Requirements
 - Official diplomatic credentials or invitation from the [[Abyssal Courts]]
 - Ability to survive at crushing depths (magic or natural adaptation required)
-- Respect for [[02_Worldbuilding/Places/Trade Union]] customs and protocols
+- Respect for [[Trade Union]] customs and protocols
 - Payment of appropriate tribute or demonstration of worthy purpose
 
 ### Cultural Protocols
 - Never swim directly above a Deep One noble without permission
 - Gifts of surface light (specially prepared magical illumination) are highly valued
-- Speaking in the [[02_Worldbuilding/Lore/Old Tongue]] is considered a sign of respect
+- Speaking in the [[Old Tongue]] is considered a sign of respect
 - Weapons must be declared and peace-bonded upon entry
 
 ### Practical Considerations
@@ -300,12 +297,12 @@ The palace's roots extend far deeper than most realize, connecting to an undergr
 - Communication with palace inhabitants may require translation magic
 - The palace's day/night cycle follows deep-sea patterns, not surface rhythms
 
-The Original Palace stands not just as an architectural wonder, but as a living piece of history that continues to shape the political and magical landscape of [[02_Worldbuilding/Places/Aquabyssos]]. Its ancient halls have witnessed the rise and fall of dynasties, the forging of treaties that shaped continents, and the preservation of secrets that could change the fate of multiple worlds.
+The Original Palace stands not just as an architectural wonder, but as a living piece of history that continues to shape the political and magical landscape of [[Aquabyssos]]. Its ancient halls have witnessed the rise and fall of dynasties, the forging of treaties that shaped continents, and the preservation of secrets that could change the fate of multiple worlds.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[Find the Grief Bomb]]
 
 ## Player-Facing Summary
 
@@ -327,8 +324,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[The Original Palace]]
 
 <!-- enriched: true -->
 riched: true -->
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[The Depth Accords]]

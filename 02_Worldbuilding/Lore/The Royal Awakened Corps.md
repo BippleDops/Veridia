@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[12_Research/D&D_References/Bloodline Awakening Powers]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[12_Research/D&D_References/Bloodline Awakening Powers]]
 
 ## Player-Facing Summary
 

@@ -3,6 +3,10 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- aquatic
 - both
 - complete
 - content/location
@@ -15,28 +19,25 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-depth-market-the-depth-market.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-depth-market-the-depth-market.svg]]
 
 
 # The Depth Market
+
 *Where the Abyss Yields Its Treasures*
 
 > *"Down here, in the crushing dark where pressure makes diamonds and cold preserves wonders, you can find anything - if you're willing to pay the price. Just remember: in the depths, everything costs more than money."*
-> — [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
+> — [[12_Research/D&D_References/Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
 
 ## Overview
 
-The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
+The Depth Market stands as [[12_Research/D&D_References/Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
 
 ## History and Foundation
 
 ### The Deep Prospector Era
+
 **Period**: 350 years ago, discovery by deep-sea prospectors  
 **Discovery**: Rich mineral deposits and unique deep-sea resources  
 **Pioneers**: Small groups of adventurous merchants and miners  
@@ -44,13 +45,15 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Beginning**: Informal trading posts established near resource sites
 
 ### The Consortium Formation
+
 **Timeline**: 300-280 years ago, organization of independent traders  
 **Need**: Coordination required for survival and mutual protection  
-**Leadership**: [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] and founding merchants  
+**Leadership**: [[12_Research/D&D_References/Master Trader Abyss Currentbinder]] and founding merchants  
 **Governance**: Development of basic trading laws and mutual defense agreements  
 **Growth**: Expansion from temporary camps to permanent installations
 
 ### The Great Excavation
+
 **Era**: 250-200 years ago, major expansion and construction  
 **Engineering**: Massive excavation project creating the main market chambers  
 **Innovation**: Development of deep-pressure construction techniques  
@@ -58,6 +61,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Result**: Transformation into major trading hub
 
 ### The Creature Wars
+
 **Period**: 180-150 years ago, conflicts with deep-sea creatures  
 **Threat**: Territorial disputes with intelligent abyssal creatures  
 **Defense**: Development of specialized defense systems and tactics  
@@ -65,6 +69,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Understanding**: Deeper understanding of abyssal ecosystem and politics
 
 ### The Isolation Crisis
+
 **Timeline**: 120-100 years ago, breakdown of surface connections  
 **Problem**: Political conflicts cutting off surface trade routes  
 **Adaptation**: Development of independent economy and governance  
@@ -72,6 +77,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Resilience**: Proof of market's ability to survive independently
 
 ### The Modern Boom
+
 **Current**: Recent surge in demand for deep-sea goods  
 **Growth**: Rapid expansion of facilities and trading volume  
 **Technology**: Integration of advanced deep-sea technologies  
@@ -83,6 +89,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### The Great Bazaar
 
 #### The Central Trading Floor
+
 **Scale**: Enormous cavern with multiple levels of trading platforms  
 **Lighting**: Bioluminescent and crystal lighting creating ethereal atmosphere  
 **Organization**: Different sections for different types of goods and services  
@@ -90,6 +97,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Acoustics**: Complex acoustics allowing communication across vast space
 
 #### The Exotic Goods Quarter
+
 **Specialization**: Rare and unique items from the deepest parts of the ocean  
 **Security**: Enhanced security for extremely valuable goods  
 **Expertise**: Specialist merchants with knowledge of exotic materials  
@@ -97,6 +105,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Authentication**: Rigorous authentication procedures for rare items
 
 #### The Artifact Halls
+
 **Purpose**: Display and trade of ancient artifacts and archaeological finds  
 **Knowledge**: Scholars and experts providing authentication and historical context  
 **Mystery**: Many artifacts of unknown origin and purpose  
@@ -106,6 +115,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Specialized Trading Areas
 
 #### The Crystal Mines Market
+
 **Resources**: Direct access to nearby abyssal crystal formations  
 **Mining**: Active mining operations integrated with trading activities  
 **Varieties**: Dozens of different crystal types unique to deep-sea environments  
@@ -113,6 +123,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Export**: Major export hub for deep-sea crystals
 
 #### The Creature Exchange
+
 **Trading**: Live and preserved specimens from deep-sea creatures  
 **Ethics**: Ethical guidelines for creature trading and preservation  
 **Research**: Scientific research opportunities through creature study  
@@ -120,6 +131,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Conservation**: Balance between trade and conservation of rare species
 
 #### The Pressure Forge District
+
 **Manufacturing**: Specialized manufacturing using extreme pressure conditions  
 **Unique Products**: Goods that can only be created under deep-sea conditions  
 **Technology**: Advanced pressure-resistant technology and equipment  
@@ -129,6 +141,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Support Infrastructure
 
 #### The Depths Inn Complex
+
 **Accommodation**: Specialized lodging for traders and visitors  
 **Atmosphere**: Pressure-controlled environments for different physiologies  
 **Services**: Full hospitality services adapted to deep-sea environment  
@@ -136,6 +149,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Community**: Social hub for the trading community
 
 #### The Pressure Transit Hub
+
 **Transportation**: Specialized vehicles for deep-sea travel  
 **Safety**: Advanced safety systems for extreme-depth transportation  
 **Maintenance**: Vehicle maintenance and emergency repair services  
@@ -143,6 +157,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Emergency**: Emergency rescue and evacuation capabilities
 
 #### The Deep Communications Center
+
 **Technology**: Long-range communication systems adapted for deep-sea use  
 **Networks**: Communication networks connecting to surface and other deep settlements  
 **Information**: Commercial intelligence and market information services  
@@ -154,6 +169,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Extreme Conditions
 
 #### Crushing Pressure
+
 **Challenge**: Water pressure 500 times greater than surface pressure  
 **Equipment**: Specialized pressure suits and reinforced structures required  
 **Health**: Gradual adaptation needed to prevent decompression sickness  
@@ -161,6 +177,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Technology**: Advanced pressure equalization systems throughout complex
 
 #### Perpetual Darkness
+
 **Environment**: Complete absence of natural light at market depths  
 **Lighting**: Bioluminescent organisms and artificial crystal lighting  
 **Navigation**: Specialized navigation equipment and techniques required  
@@ -168,6 +185,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Energy**: High energy costs for maintaining adequate lighting
 
 #### Extreme Cold
+
 **Temperature**: Near-freezing water temperatures year-round  
 **Insulation**: Advanced thermal insulation for all structures and equipment  
 **Health**: Risk of hypothermia and cold-related injuries  
@@ -177,6 +195,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Biological Hazards
 
 #### Abyssal Predators
+
 **Creatures**: Massive deep-sea predators territorial about the area  
 **Size**: Creatures ranging from house-sized to ship-sized  
 **Intelligence**: Some predators display intelligence and memory  
@@ -184,6 +203,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Warning Systems**: Early warning networks for dangerous creature activity
 
 #### Toxic Organisms
+
 **Danger**: Venomous and poisonous deep-sea creatures  
 **Symptoms**: Paralysis, hallucinations, and death from various toxins  
 **Antidotes**: Limited antidotes available from specialized healers  
@@ -191,6 +211,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Research**: Ongoing research into toxins for both danger and potential value
 
 #### Disease Vectors
+
 **Isolation**: Isolated environment creates unique disease risks  
 **Quarantine**: Strict quarantine procedures for newcomers  
 **Treatment**: Limited medical facilities adapted to unique conditions  
@@ -200,6 +221,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Geological Hazards
 
 #### Seismic Activity
+
 **Risk**: Earthquakes and underwater landslides  
 **Damage**: Potential for catastrophic structural damage  
 **Warning**: Monitoring systems providing advance warning  
@@ -207,6 +229,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Construction**: Earthquake-resistant construction techniques
 
 #### Thermal Vents
+
 **Hazard**: Superheated water and toxic gases from ocean floor vents  
 **Benefits**: Geothermal energy source for market operations  
 **Danger**: Risk of scalding and chemical poisoning  
@@ -214,6 +237,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Protective**: Protective equipment required for vent area work
 
 #### Current Storms
+
 **Phenomenon**: Powerful deep-sea currents creating dangerous conditions  
 **Navigation**: Transportation extremely dangerous during current storms  
 **Duration**: Storms can last days or weeks  
@@ -225,6 +249,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Unique Deep-Sea Resources
 
 #### Abyssal Crystals
+
 **Formation**: Crystals formed under extreme pressure with unique properties  
 **Varieties**: Pressure diamonds, thermal crystals, bioluminescent crystals  
 **Applications**: Advanced magical research, deep-sea technology, luxury goods  
@@ -232,6 +257,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Harvesting**: Extremely dangerous harvesting requiring specialized equipment and expertise
 
 #### Prehistoric Specimens
+
 **Source**: Creatures and plants preserved in deep-sea conditions  
 **Age**: Some specimens millions of years old, perfectly preserved  
 **Value**: Invaluable for research and magical component creation  
@@ -239,6 +265,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Authentication**: Complex authentication procedures for genuine specimens
 
 #### Ancient Artifacts
+
 **Origin**: Recovered from ruins of civilizations that sank beneath the waves  
 **Technology**: Evidence of advanced ancient technologies  
 **Magic**: Many artifacts contain powerful magical enchantments  
@@ -246,6 +273,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Danger**: Some artifacts pose significant dangers to handlers
 
 #### Extremophile Cultures
+
 **Nature**: Microorganisms adapted to extreme deep-sea conditions  
 **Applications**: Biotechnology, medicine, alchemical research  
 **Cultivation**: Specialized cultivation techniques required  
@@ -255,6 +283,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Economic Structure
 
 #### Barter Economy
+
 **System**: Complex barter system with goods, services, and favors as currency  
 **Values**: Values determined by rarity, danger of acquisition, and utility  
 **Negotiation**: All trades subject to extensive negotiation  
@@ -262,6 +291,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Credit**: Credit systems based on trust and past performance
 
 #### Risk Premium
+
 **Pricing**: All goods carry significant risk premiums  
 **Insurance**: Insurance markets for dangerous expeditions  
 **Investment**: Investment opportunities in high-risk, high-reward ventures  
@@ -269,6 +299,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Diversification**: Traders diversify across multiple risk categories
 
 #### Information Economy
+
 **Value**: Information about new discoveries, dangers, and opportunities  
 **Trading**: Active trading in maps, creature behavioral data, and market intelligence  
 **Secrecy**: Some information kept secret to maintain competitive advantages  
@@ -279,21 +310,24 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 
 ### The Depth Merchant's Consortium
 
-#### Master Trader [[02_Worldbuilding/Places/Abyss Currentbinder]]
+#### Master Trader [[12_Research/D&D_References/Abyss Currentbinder]]
+
 **Leadership**: Founding leader and current head of the merchant consortium  
 **Experience**: 40 years of deep-sea trading and exploration  
 **Reputation**: Legendary for successful expeditions to the deepest known areas  
 **Vision**: Architect of the market's growth from small outpost to major trading hub  
 **Network**: Extensive contacts throughout the deep-sea trading world
 
-#### Trade Coordinator [[02_Worldbuilding/Places/Deep Current Flowmaster]]
+#### Trade Coordinator [[12_Research/D&D_References/Deep Current Flowmaster]]
+
 **Role**: Day-to-day operational management of market activities  
 **Skills**: Expert logistics coordinator and negotiator  
 **Efficiency**: Responsible for the complex scheduling that keeps the market running  
 **Diplomacy**: Key diplomatic contact with various trading factions  
 **Innovation**: Developer of improved trading procedures and safety protocols
 
-#### Security Chief [[02_Worldbuilding/Places/Pressure Guard Steelwall]]
+#### Security Chief [[12_Research/D&D_References/Pressure Guard Steelwall]]
+
 **Background**: Former military specialist in deep-sea operations  
 **Responsibility**: Overall security and emergency response for the market  
 **Expertise**: Combat tactics adapted to deep-sea environments  
@@ -303,21 +337,24 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Specialist Trader Guilds
 
 #### The Crystal Seekers Guild
-**Leader**: [[02_Worldbuilding/Places/Gem Deepseeker]], master crystal identifier  
+
+**Leader**: [[12_Research/D&D_References/Gem Deepseeker]], master crystal identifier  
 **Specialization**: Deep-sea crystal mining, processing, and trading  
 **Membership**: Elite crystal specialists with advanced technical knowledge  
 **Resources**: Advanced crystal detection and processing equipment  
 **Reputation**: Most trusted source for authenticated deep-sea crystals
 
 #### The Artifact Hunters Society
-**Leadership**: [[02_Worldbuilding/Places/Ancient Echo Truthfinder]], archaeological trading expert  
+
+**Leadership**: [[12_Research/D&D_References/Ancient Echo Truthfinder]], archaeological trading expert  
 **Focus**: Recovery and trading of ancient artifacts and archaeological materials  
 **Exploration**: Organizes expeditions to newly discovered ruins  
 **Scholarship**: Combines trading expertise with serious archaeological research  
 **Ethics**: Maintains ethical standards for archaeological recovery and trading
 
 #### The Specimen Exchange
-**Director**: [[02_Worldbuilding/Places/Specimen Careful Lifeguard]], biological trading specialist  
+
+**Director**: [[12_Research/D&D_References/Specimen Careful Lifeguard]], biological trading specialist  
 **Mission**: Ethical trading in biological specimens and live creatures  
 **Conservation**: Strong commitment to conservation and sustainable harvesting  
 **Research**: Collaboration with surface researchers and institutions  
@@ -326,6 +363,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Independent Operators
 
 #### The Deep Runners
+
 **Service**: Independent transportation and courier services  
 **Risk**: Specialize in high-risk, high-reward transportation missions  
 **Reputation**: Known for getting through when others can't  
@@ -333,6 +371,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Competition**: Friendly competition driving innovation and efficiency
 
 #### Information Brokers
+
 **Role**: Trading in maps, intelligence, and market information  
 **Sources**: Networks of contacts throughout the deep-sea regions  
 **Verification**: Expertise in verifying and evaluating information quality  
@@ -344,6 +383,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Survival Culture
 
 #### Mutual Aid Tradition
+
 **Principle**: Strong tradition of helping fellow traders in emergencies  
 **Practice**: Sharing resources, equipment, and knowledge for survival  
 **Reciprocity**: Understanding that today's favor may be tomorrow's lifeline  
@@ -351,6 +391,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Honor**: Failure to provide aid when possible results in social exile
 
 #### Risk Assessment Obsession
+
 **Culture**: Constant evaluation and discussion of risks and opportunities  
 **Learning**: Continuous learning from successes and failures  
 **Stories**: Rich tradition of stories teaching risk management lessons  
@@ -358,6 +399,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Respect**: Respect for those who take calculated risks successfully
 
 #### Adaptation Necessity
+
 **Flexibility**: Constant adaptation to changing conditions and circumstances  
 **Innovation**: Creative problem-solving essential for survival  
 **Learning**: Quick learning and adoption of new techniques and technologies  
@@ -367,6 +409,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Social Structure
 
 #### Merit-Based Hierarchy
+
 **Status**: Status based on trading success, expertise, and contributions to community  
 **Mobility**: High social mobility based on demonstrated competence  
 **Respect**: Respect earned through actions rather than inherited position  
@@ -374,6 +417,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Equality**: Relative equality of opportunity regardless of background
 
 #### Professional Specialization
+
 **Expertise**: High value placed on specialized knowledge and skills  
 **Training**: Extensive apprenticeship and training programs  
 **Innovation**: Encouragement of innovation within specialization areas  
@@ -383,6 +427,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Community Events
 
 #### The Deep Festival
+
 **Timing**: Annual celebration marking the market's founding  
 **Activities**: Trading competitions, storytelling, and community feasting  
 **Unity**: Brings together all factions and specialists in celebration  
@@ -390,6 +435,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Innovation**: Showcases new innovations and achievements
 
 #### Memorial Ceremonies
+
 **Purpose**: Remembering traders lost to the dangers of the deep  
 **Respect**: Honoring the sacrifices made by those who didn't return  
 **Learning**: Learning from tragedies to prevent future losses  
@@ -397,6 +443,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Motivation**: Motivation to continue the work of those who are gone
 
 #### Discovery Celebrations
+
 **Events**: Celebrations of significant discoveries and achievements  
 **Sharing**: Sharing knowledge and excitement of new discoveries  
 **Recognition**: Recognizing the efforts of successful explorers and traders  
@@ -408,6 +455,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Environmental Hazards
 
 #### Pressure Zones
+
 **Mechanics**: Different pressure zones requiring specific equipment or magic  
 **Damage**: Taking damage from pressure changes without proper protection  
 **Equipment**: Specialized equipment providing protection but limiting mobility  
@@ -415,6 +463,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Emergency**: Emergency procedures for pressure-related emergencies
 
 #### Darkness and Navigation
+
 **Challenge**: Navigation in complete darkness requiring special abilities or equipment  
 **Light Sources**: Limited light sources that may attract dangerous creatures  
 **Getting Lost**: Risk of becoming permanently lost in the maze-like environment  
@@ -422,6 +471,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Panic**: Psychological effects of darkness and isolation
 
 #### Extreme Cold
+
 **Effects**: Constitution saves against cold damage and hypothermia  
 **Equipment**: Specialized cold weather gear and magical protection  
 **Exhaustion**: Risk of exhaustion from prolonged cold exposure  
@@ -431,6 +481,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Creature Encounters
 
 #### Abyssal Predators
+
 **Challenge**: Massive creatures with unique abilities adapted to deep-sea environment  
 **Tactics**: Three-dimensional combat in water environment  
 **Intelligence**: Some creatures intelligent enough for negotiation  
@@ -438,6 +489,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Surprise**: Ambush predators using darkness and pressure to their advantage
 
 #### Toxic Specimens
+
 **Danger**: Creatures with various toxins causing different conditions  
 **Antidotes**: Limited antidotes requiring specialized knowledge to create  
 **Symptoms**: Paralysis, hallucinations, disease, and death from various toxins  
@@ -447,6 +499,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Trading Encounters
 
 #### Complex Negotiations
+
 **Skills**: Multiple skills required for successful trading negotiations  
 **Information**: Need for accurate information about goods, markets, and risks  
 **Reputation**: Trading success affecting future opportunities and prices  
@@ -454,6 +507,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Risk**: High-risk, high-reward trading opportunities
 
 #### Authentication Challenges
+
 **Expertise**: Specialized knowledge required to authenticate rare goods  
 **Fraud**: Risk of counterfeit or misrepresented goods  
 **Investigation**: Investigation skills needed to verify claims and stories  
@@ -463,6 +517,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Exploration Adventures
 
 #### Archaeological Expeditions
+
 **Discovery**: Exploring newly discovered ruins and archaeological sites  
 **Danger**: Ancient traps, guardians, and environmental hazards  
 **Knowledge**: Historical and magical knowledge from successful exploration  
@@ -470,6 +525,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Ethics**: Ethical considerations about archaeological recovery and preservation
 
 #### Resource Surveys
+
 **Exploration**: Surveying new areas for valuable resources  
 **Mapping**: Creating accurate maps of dangerous and valuable areas  
 **Samples**: Collecting samples for analysis and potential trading  
@@ -479,6 +535,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Special Mechanics
 
 #### Pressure Adaptation
+
 **System**: Mechanical system for adapting to extreme pressure environments  
 **Benefits**: Improved performance at depth but penalties at normal pressure  
 **Time**: Gradual adaptation process taking weeks or months  
@@ -486,6 +543,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Equipment**: Reduced dependence on pressure equipment with adaptation
 
 #### Deep-Sea Trading
+
 **Economy**: Unique economic system with barter, risk premiums, and information trading  
 **Reputation**: Reputation system affecting access to goods and opportunities  
 **Specialization**: Benefits for characters with relevant knowledge and skills  
@@ -497,6 +555,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Major Campaign Arcs
 
 #### The Lost City Discovery
+
 **Level**: 12-18  
 **Discovery**: Discovery of intact ancient city in previously unexplored trench  
 **Exploration**: Extensive exploration of dangerous archaeological site  
@@ -505,6 +564,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Knowledge**: Revolutionary discoveries about pre-flood civilizations
 
 #### The Abyssal War
+
 **Level**: 10-16  
 **Conflict**: War between different factions of intelligent deep-sea creatures  
 **Sides**: Choosing sides or trying to maintain neutrality for continued trade  
@@ -513,6 +573,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Stakes**: Future of deep-sea trading and market survival
 
 #### The Pressure Plague
+
 **Level**: 8-14  
 **Crisis**: Mysterious disease affecting deep-sea traders and creatures  
 **Investigation**: Investigating the source and nature of the disease  
@@ -523,6 +584,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Medium Adventures
 
 #### The Missing Expedition
+
 **Level**: 6-10  
 **Problem**: Valuable trading expedition disappears in dangerous deep-sea region  
 **Rescue**: Organizing and conducting dangerous rescue mission  
@@ -531,6 +593,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Competition**: Competition with other groups also searching for the expedition
 
 #### The Artifact Theft
+
 **Level**: 7-11  
 **Crime**: Valuable ancient artifact stolen from secure market vault  
 **Investigation**: Complex investigation with multiple suspects and motives  
@@ -539,6 +602,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Justice**: Bringing criminals to justice while navigating market politics
 
 #### The New Route
+
 **Level**: 5-9  
 **Opportunity**: Opportunity to establish new, safer trading route to surface  
 **Exploration**: Surveying and mapping potential route through unknown areas  
@@ -549,6 +613,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ### Short Adventures
 
 #### The Counterfeit Crisis
+
 **Level**: 4-7  
 **Problem**: Fake deep-sea crystals appearing in market, threatening reputation  
 **Investigation**: Tracking down source of counterfeit goods  
@@ -557,6 +622,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Resolution**: Protecting market integrity and trader reputations
 
 #### The Diplomatic Mission
+
 **Level**: 6-9  
 **Task**: Diplomatic mission to intelligent deep-sea creature colony  
 **Preparation**: Learning about creature culture and preparing appropriate gifts  
@@ -565,6 +631,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 **Relationships**: Building long-term relationships with non-human trading partners
 
 #### The Equipment Failure
+
 **Level**: 3-6  
 **Crisis**: Critical life support equipment failure threatening market operations  
 **Urgency**: Time-sensitive repairs before catastrophic failure  
@@ -574,28 +641,32 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[12_Research/D&D_References/Abyssos Prime]]
+
 **Trade**: Major supplier of exotic goods to the capital city  
 **Independence**: Maintains independence while respecting royal authority  
 **Intelligence**: Exchange of information about deep-sea threats and opportunities  
 **Support**: Informal support arrangements during major crises  
 **Taxation**: Negotiations over taxation of deep-sea trade
 
-### [[02_Worldbuilding/Places/The Free Current]]
+### [[12_Research/D&D_References/The Free Current]]
+
 **Philosophy**: Shared commitment to free trade and minimal government interference  
 **Cooperation**: Cooperation on trade routes and mutual defense  
 **Exchange**: Exchange of trading techniques and market intelligence  
 **Competition**: Some competition for independent trading opportunities  
 **Alliances**: Natural allies in maintaining trading independence
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[12_Research/D&D_References/Parliament of Echoes]]
+
 **Politics**: Complex political relationship with parliamentary authority  
 **Regulation**: Resistance to regulatory oversight of deep-sea trading  
 **Representation**: Questions about political representation and voting rights  
 **Taxation**: Disputes over taxation and fees on deep-sea trade  
 **Autonomy**: Desire to maintain autonomy while participating in broader economy
 
-### [[02_Worldbuilding/Places/Azure Citadel]]
+### [[12_Research/D&D_References/Azure Citadel]]
+
 **Security**: Cooperation on security threats affecting all of Aquabyssos  
 **Intelligence**: Limited sharing of intelligence about deep-sea threats  
 **Protection**: Emergency protection arrangements during existential threats  
@@ -605,7 +676,7 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Deep Pact
-> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
+> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[12_Research/D&D_References/Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
 
 > [!secret] DM Secret - The Living Market
 > The market complex itself is partially alive, grown rather than built using ancient biotechnology discovered in the ruins. The "walls" are actually a massive, slow-growing organism that responds to the needs of the inhabitants by creating new chambers and passages. Only a few of the oldest traders know this secret, and they've been carefully nurturing the growth while keeping it hidden. The organism requires specific nutrients and conditions to remain healthy, and its death would cause the entire market to collapse.
@@ -616,31 +687,31 @@ The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangero
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/The Free Current]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/The Free Current]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Azure Citadel]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]]
-- [[02_Worldbuilding/Places/Deep Current Flowmaster]]
-- [[02_Worldbuilding/Places/Pressure Guard Steelwall]]
-- [[02_Worldbuilding/Places/Gem Deepseeker]]
+- [[12_Research/D&D_References/Master Trader Abyss Currentbinder]]
+- [[12_Research/D&D_References/Deep Current Flowmaster]]
+- [[12_Research/D&D_References/Pressure Guard Steelwall]]
+- [[12_Research/D&D_References/Gem Deepseeker]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Abyssal Crystals]]
-- [[02_Worldbuilding/Lore/Deep-Sea Artifacts]]
-- [[02_Worldbuilding/Places/Pressure Technology]]
-- [[02_Worldbuilding/Places/Depth Merchant's Consortium]]
+- [[12_Research/D&D_References/Abyssal Crystals]]
+- [[12_Research/D&D_References/Deep-Sea Artifacts]]
+- [[12_Research/D&D_References/Pressure Technology]]
+- [[12_Research/D&D_References/Depth Merchant's Consortium]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
-- [[02_Worldbuilding/Places/The Inverse Palace]]
-- [[02_Worldbuilding/Places/The Sinking Atoll]]
-- [[02_Worldbuilding/Places/Void Currents]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[12_Research/D&D_References/The Frozen Throne]]
+- [[12_Research/D&D_References/The Inverse Palace]]
+- [[12_Research/D&D_References/The Sinking Atoll]]
+- [[12_Research/D&D_References/Void Currents]]
+- [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -662,6 +733,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[12_Research/D&D_References/The Depth Market]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

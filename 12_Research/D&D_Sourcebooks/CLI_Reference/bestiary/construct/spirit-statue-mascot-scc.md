@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/spirit-statue-mascot-scc|Spirit Statue Mascot]]
+# [[spirit-statue-mascot-scc|Spirit Statue Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  
 
 To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living.
@@ -50,11 +50,11 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "any languages it knew in life"

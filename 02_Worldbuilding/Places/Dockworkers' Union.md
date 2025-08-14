@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dockworkers' Union]]
+- [[Dockworkers' Union]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]

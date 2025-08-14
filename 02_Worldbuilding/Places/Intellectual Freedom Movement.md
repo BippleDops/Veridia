@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-intellectual-freedom-movement-intellectual-freedom-movement.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-intellectual-freedom-movement-intellectual-freedom-movement.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Intellectual Freedom Movement]]
+- [[Intellectual Freedom Movement]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
+- [[Anti-Priest Nullus]]

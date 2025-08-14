@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archdruid-marina-kelpweaver-archdruid-marina-kelpweaver.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archdruid Marina Kelpweaver]]
+- [[12_Research/D&D_References/Archdruid Marina Kelpweaver]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[12_Research/D&D_Statblocks/Temple Ward]]

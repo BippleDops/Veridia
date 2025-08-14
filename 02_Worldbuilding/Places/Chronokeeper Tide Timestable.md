@@ -16,12 +16,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-chronokeeper-tide-timestable-chronokeeper-tide-timestable.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chronokeeper-tide-timestable-chronokeeper-tide-timestable.svg]]
 
 
 ## Overview
@@ -63,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chronokeeper Tide Timestable]]
+- [[Chronokeeper Tide Timestable]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[Temporal Navigation Hazards]]

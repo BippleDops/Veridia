@@ -20,7 +20,7 @@ world: Both
 # Bountiful Luck
 *Source: Xanathar's Guide to Everything p. 73*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/races/halfling-xphb|Halfling]]
+**Prerequisite**: [[halfling-xphb|Halfling]]
 
 Your people have extraordinary luck, which you have learned to mystically lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favor!
 

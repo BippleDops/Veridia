@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/location
@@ -15,12 +16,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl Harbor City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[12_Research/D&D_References/Stop the Shadow Harvest]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

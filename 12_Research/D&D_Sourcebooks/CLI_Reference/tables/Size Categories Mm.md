@@ -26,12 +26,12 @@ world: Both
 
 | Size | Space | Examples |
 |------|-------|----------|
-| Tiny | 2½ by 2½ ft. | [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|Imp]], [[/03_Mechanics/CLI/bestiary/fey/sprite-xmm|sprite]] |
-| Small | 5 by 5 ft. | [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|Giant rat]], [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblin]] |
-| Medium | 5 by 5 ft. | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]], [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] |
-| Large | 10 by 10 ft. | [[/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm|Hippogriff]], [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] |
-| Huge | 15 by 15 ft. | [[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm|Fire giant]], [[/03_Mechanics/CLI/bestiary/plant/treant-xmm|treant]] |
-| Gargantuan | 20 by 20 ft. or larger | [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|Kraken]], [[/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm|purple worm]] |
+| Tiny | 2½ by 2½ ft. | [[imp-xmm|Imp]], [[sprite-xmm|sprite]] |
+| Small | 5 by 5 ft. | [[giant-rat-xmm|Giant rat]], [[goblin-warrior-xmm|goblin]] |
+| Medium | 5 by 5 ft. | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]], [[werewolf-xmm|werewolf]] |
+| Large | 10 by 10 ft. | [[hippogriff-xmm|Hippogriff]], [[ogre-xmm|ogre]] |
+| Huge | 15 by 15 ft. | [[fire-giant-xmm|Fire giant]], [[treant-xmm|treant]] |
+| Gargantuan | 20 by 20 ft. or larger | [[kraken-xmm|Kraken]], [[purple-worm-xmm|purple worm]] |
 ^size-categories
 
 ## Player-Facing Summary

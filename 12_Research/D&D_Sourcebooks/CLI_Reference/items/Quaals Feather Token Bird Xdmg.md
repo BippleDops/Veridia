@@ -28,7 +28,7 @@ world: Both
 
 This object looks like a feather.
 
-You can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|Roc]], but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. You can dismiss the bird as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action.
+You can take a [[actions#Magic|Magic]] action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a [[roc-xmm|Roc]], but it can't attack. It obeys your simple commands and can carry up to 500 pounds while flying at its maximum speed (16 miles per hour for a maximum of 144 miles per day, with a 1-hour rest for every 3 hours of flying) or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 [[hit-points-xphb|Hit Points]]. You can dismiss the bird as a [[actions#Magic|Magic]] action.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Bird") and the Free Rules (2024)*
 

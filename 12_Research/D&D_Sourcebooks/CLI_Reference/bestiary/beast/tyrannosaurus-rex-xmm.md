@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tyrannosaurus-rex-xmm-tyrannosaurus-rex-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/tyrannosaurus-rex-xmm|Tyrannosaurus Rex]]
+# [[tyrannosaurus-rex-xmm|Tyrannosaurus Rex]]
 *Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Tyrannosaurus Rex (XMM)"
@@ -54,7 +54,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "strength": !!int "10"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -63,13 +63,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The tyrannosaurus makes one Bite attack and one Tail attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 33 (4d12 + 7) Piercing\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 17). While [[/03_Mechanics/CLI/conditions#Grappled|Grappled]],\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 17). While [[conditions#Grappled|Grappled]],\
+      \ the target has the [[conditions#Restrained|Restrained]]\
       \ condition and can't be targeted by the tyrannosaurus's Tail."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +10, reach 15 ft. Hit: 25 (4d8 + 7) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tail"
 "source":

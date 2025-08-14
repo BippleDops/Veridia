@@ -14,18 +14,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 
 
 ## Connections
 
 - [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 

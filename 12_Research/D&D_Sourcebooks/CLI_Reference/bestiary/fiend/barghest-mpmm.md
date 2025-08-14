@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barghest-mpmm-barghest-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/barghest-mpmm|Barghest]]
+# [[barghest-mpmm|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -59,18 +59,18 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
@@ -98,10 +98,10 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]], [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor\
-      \ illusion]], [[/03_Mechanics/CLI/spells/pass-without-trace-xphb|pass without trace]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]],\
-      \ [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]], [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]]"
+      \nAt will: [[levitate-xphb|levitate]], [[minor-illusion-xphb|minor\
+      \ illusion]], [[pass-without-trace-xphb|pass without trace]]\n\
+      \n1/day each: [[charm-person-xphb|charm person]],\
+      \ [[dimension-door-xphb|dimension door]], [[suggestion-xphb|suggestion]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\

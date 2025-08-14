@@ -25,16 +25,16 @@ world: Both
 
 | dice: d10 | Object |
 |-----------|--------|
-| 1 | [[/03_Mechanics/CLI/items/fine-gold-chain-set-with-a-fire-opal-xdmg|Fine gold chain set with a fire opal]] |
-| 2 | [[/03_Mechanics/CLI/items/old-masterpiece-painting-xdmg|Old masterpiece painting]] |
-| 3 | [[/03_Mechanics/CLI/items/embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg|Embroidered silk and velvet mantle set with numerous moonstones]] |
-| 4 | [[/03_Mechanics/CLI/items/platinum-bracelet-set-with-an-emerald-xdmg|Platinum bracelet set with a sapphire]] |
-| 5 | [[/03_Mechanics/CLI/items/embroidered-glove-set-with-jewel-chips-xdmg|Embroidered glove set with jewel chips]] |
-| 6 | [[/03_Mechanics/CLI/items/jeweled-anklet-xdmg|Jeweled anklet]] |
-| 7 | [[/03_Mechanics/CLI/items/gold-music-box-xdmg|Gold music box]] |
-| 8 | [[/03_Mechanics/CLI/items/gold-circlet-set-with-four-aquamarines-xdmg|Gold circlet set with four aquamarines]] |
-| 9 | [[/03_Mechanics/CLI/items/eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg|Eye patch with a mock eye set in blue sapphire and moonstone]] |
-| 10 | A [[/03_Mechanics/CLI/items/necklace-string-of-small-pink-pearls-xdmg|necklace string of small pink pearls]] |
+| 1 | [[fine-gold-chain-set-with-a-fire-opal-xdmg|Fine gold chain set with a fire opal]] |
+| 2 | [[old-masterpiece-painting-xdmg|Old masterpiece painting]] |
+| 3 | [[embroidered-silk-and-velvet-mantle-set-with-numerous-moonstones-xdmg|Embroidered silk and velvet mantle set with numerous moonstones]] |
+| 4 | [[platinum-bracelet-set-with-an-emerald-xdmg|Platinum bracelet set with a sapphire]] |
+| 5 | [[embroidered-glove-set-with-jewel-chips-xdmg|Embroidered glove set with jewel chips]] |
+| 6 | [[jeweled-anklet-xdmg|Jeweled anklet]] |
+| 7 | [[gold-music-box-xdmg|Gold music box]] |
+| 8 | [[gold-circlet-set-with-four-aquamarines-xdmg|Gold circlet set with four aquamarines]] |
+| 9 | [[eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg|Eye patch with a mock eye set in blue sapphire and moonstone]] |
+| 10 | A [[necklace-string-of-small-pink-pearls-xdmg|necklace string of small pink pearls]] |
 ^2500-gp-art-objects
 
 ## Player-Facing Summary

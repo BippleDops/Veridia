@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-garden-keeper-earthshade-garden-keeper-earthshade.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-garden-keeper-earthshade-garden-keeper-earthshade.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Garden Keeper Earthshade]]
+- [[12_Research/D&D_References/Garden Keeper Earthshade]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
+- [[12_Research/D&D_References/Shadow Vale]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

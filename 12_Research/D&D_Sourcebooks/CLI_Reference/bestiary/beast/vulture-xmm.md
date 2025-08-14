@@ -27,12 +27,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-vulture-xmm-giant-vulture-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/vulture-xmm|Vulture]]
+# [[vulture-xmm|Vulture]]
 *Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Vulture (XMM)"
@@ -52,15 +52,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The vulture has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The vulture has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the vulture's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

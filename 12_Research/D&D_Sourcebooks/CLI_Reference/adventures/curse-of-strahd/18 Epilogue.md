@@ -22,7 +22,7 @@ world: Both
 # Epilogue
 *Source: Curse of Strahd, p. 207* 
 
-Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the [[/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]] and the [[/03_Mechanics/CLI/items/sunsword-cos|Sunsword]], they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.
+Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the [[holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]] and the [[sunsword-cos|Sunsword]], they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.
 
 The outcome of the final showdown between Strahd and the characters determines how the adventure ends.
 
@@ -38,13 +38,13 @@ With the characters out of the way, Strahd shifts his attention back to making [
 
 ## Strahd Dies
 
-When [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd]] is reduced to 0 hit points, he turns to mist and retreats to his coffin (see the Misty Escape feature in the [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]] stat block). The vampire must be in his resting place to be utterly destroyed.
+When [[strahd-von-zarovich-cos|Strahd]] is reduced to 0 hit points, he turns to mist and retreats to his coffin (see the Misty Escape feature in the [[vampire-xmm|vampire]] stat block). The vampire must be in his resting place to be utterly destroyed.
 
 If the characters finish off Strahd in his coffin, read:
 
 > [!readaloud] 
 > 
-> Strahd can't hide his surprise as death takes him into the black abyss. Surprise turns to rage, and the Pillarstone of Ravenloft trembles with fury, shaking dust from the ceiling of the vampire's tomb. The shudders abate as Strahd's burning hatred melts away, replaced at last with relief. The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you. In a matter of moments, only bones, dust, and noble garb remain. [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]], the dark lord of Barovia, is dead and gone.
+> Strahd can't hide his surprise as death takes him into the black abyss. Surprise turns to rage, and the Pillarstone of Ravenloft trembles with fury, shaking dust from the ceiling of the vampire's tomb. The shudders abate as Strahd's burning hatred melts away, replaced at last with relief. The dark orbs of his eyes wither and sink into his skull as his corpse deteriorates before you. In a matter of moments, only bones, dust, and noble garb remain. [[strahd-von-zarovich-cos|Strahd von Zarovich]], the dark lord of Barovia, is dead and gone.
 ^6af
 
 ### Rahadin's Revenge
@@ -105,7 +105,7 @@ If he is still alive, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rudolph van 
 
 #### Consorts Unleashed
 
-Upon his death, Strahd's [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] are freed from his control, and each seeks a new destiny. [[/03_Mechanics/CLI/bestiary/npc/escher-cos|Escher]], in particular, leaves the realm, in search of new experiences and a way to become a vampire lord himself.
+Upon his death, Strahd's [[vampire-spawn-xmm|vampire spawn]] are freed from his control, and each seeks a new destiny. [[/03_Mechanics/CLI/bestiary/npc/escher-cos|Escher]], in particular, leaves the realm, in search of new experiences and a way to become a vampire lord himself.
 
 If [[/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos|Patrina Velikovna]] lives, she begins to plunder arcane knowledge from Castle Ravenloft and the Amber Temple and prepares to become Barovia's new master.
 

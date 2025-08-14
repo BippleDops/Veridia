@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
 
 
 ## Overview

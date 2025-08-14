@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Embassy Quarter]]
+- [[12_Research/D&D_References/Embassy Quarter]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[12_Research/D&D_References/Marriage Between Worlds]]

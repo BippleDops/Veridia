@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Symbiont]]
+- [[12_Research/D&D_References/Pressure Symbiont]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]

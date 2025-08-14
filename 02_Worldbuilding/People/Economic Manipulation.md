@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-economic-manipulation-economic-manipulation.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-economic-manipulation-economic-manipulation.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Economic Manipulation]]
+- [[Economic Manipulation]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[Aurelius Goldwave]]

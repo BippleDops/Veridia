@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-great-cataloguing-the-great-cataloguing.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-great-cataloguing-the-great-cataloguing.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[Merchant's Covenant]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[Merchant's Covenant]]
 
 ## Player-Facing Summary
 

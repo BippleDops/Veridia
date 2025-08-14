@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chorus Master Melodia Depthsong]]
+- [[12_Research/D&D_References/Chorus Master Melodia Depthsong]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Singing Trenches]]
+- [[12_Research/D&D_References/The Singing Trenches]]

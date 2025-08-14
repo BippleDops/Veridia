@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-hopekeeper-academy-the-hopekeeper-academy.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-hopekeeper-academy-the-hopekeeper-academy.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Hopekeeper Academy]]
+- [[The Hopekeeper Academy]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [[Lady Vivienne the Unfrozen]]

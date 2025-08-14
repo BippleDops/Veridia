@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-golden-stag-hotdq-golden-stag-hotdq.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/golden-stag-hotdq|Golden Stag]]
+# [[golden-stag-hotdq|Golden Stag]]
 *Source: Hoard of the Dragon Queen p. 35*  
 
 ```statblock
@@ -54,13 +54,13 @@ world: Both
   - "desc": "If the elk moves at least 20 feet straight toward a target and then hits\
       \ it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage.\
       \ If the target is a creature, it must succeed on a DC 13 Strength saving throw\
-      \ or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ or be knocked [[conditions#Prone|prone]]."
     "name": "Charge"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one [[/03_Mechanics/CLI/conditions#Prone|prone]]\
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one [[conditions#Prone|prone]]\
       \ creature. Hit: 8 (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":

@@ -1,0 +1,51 @@
+# TTRPG Asset Generation System - Deployment Report
+Generated: Thu Aug 14 15:32:03 CDT 2025
+
+## System Status
+
+| Component | Status | Port | PID |
+|-----------|--------|------|-----|
+| ComfyUI | running | 8188 | N/A |
+| Orchestrator | stopped | 5679 | N/A |
+
+## Asset Statistics
+
+- Total PNGs:      583
+- Total Videos:        0
+- Recent (1hr):      583
+
+## Recent Generations
+
+```
+/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Pasted image 20240607151510.png
+/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Pasted image 20240627201658.png
+/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Pasted image 20240630204305.png
+/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Pasted image 20240630203442.png
+/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Assets/Pasted Image 20240630230819_217.png
+```
+
+## Logs
+
+- ComfyUI: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/logs/comfyui.log
+- Orchestrator: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/logs/orchestrator.log
+- Security Audit: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/security_audit_report.json
+- Quality Tests: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/09_Performance/test_report.json
+
+## Quick Commands
+
+```bash
+# Generate batch of images
+node scripts/simple_batch_gen.js 5
+
+# Run security audit
+node scripts/security_audit.js
+
+# Run quality tests
+node scripts/test_comfyui_quality.js
+
+# Generate video from image
+node scripts/video_generation.js --image path/to/image.png
+
+# Check system status
+curl http://127.0.0.1:8188/system_stats | jq
+```

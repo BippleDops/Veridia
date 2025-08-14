@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,13 +54,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]
+- [[12_Research/D&D_References/Countess Argentum Vaultkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[12_Research/D&D_Statblocks/Lady Jade Clawgrip]]
+- [[12_Research/D&D_Statblocks/The Nameless Auditor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

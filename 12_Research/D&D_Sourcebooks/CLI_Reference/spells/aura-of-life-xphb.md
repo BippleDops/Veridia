@@ -33,9 +33,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Necrotic damage, and your [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]].
+An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance-xphb|Resistance]] to Necrotic damage, and your [[hit-points-xphb|Hit Point]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb|Hit Points]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb|Hit Point]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

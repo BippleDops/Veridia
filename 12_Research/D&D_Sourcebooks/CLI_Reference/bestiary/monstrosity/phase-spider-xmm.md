@@ -32,7 +32,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phase-spider-xmm-phase-spider-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/phase-spider-xmm|Phase Spider]]
+# [[phase-spider-xmm|Phase Spider]]
 *Source: Monster Manual (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Phase Spider
@@ -69,7 +69,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
@@ -88,11 +88,11 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - "desc": "The spider makes two Bite attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage\
-      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
-      \ the target becomes [[/03_Mechanics/CLI/variant-rules/stable-xphb|Stable]],\
-      \ and it has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
-      \ for 1 hour. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the\
-      \ target also has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
+      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [[hit-points-xphb|Hit Points]],\
+      \ the target becomes [[stable-xphb|Stable]],\
+      \ and it has the [[conditions#Poisoned|Poisoned]] condition\
+      \ for 1 hour. While [[conditions#Poisoned|Poisoned]], the\
+      \ target also has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition."
     "name": "Bite"
 "bonus_actions":

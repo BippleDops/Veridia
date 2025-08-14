@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phoenix-mpmm-phoenix-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/phoenix-mpmm|Phoenix]]
+# [[phoenix-mpmm|Phoenix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  
@@ -57,11 +57,11 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
   - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "16"
@@ -83,7 +83,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \nWith a touch, the phoenix can also ignite flammable objects that aren't worn\
       \ or carried (no action required)."
     "name": "Fire Form"
-  - "desc": "The phoenix doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]\
+  - "desc": "The phoenix doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "The phoenix sheds bright light in a 60-foot radius and dim light for\

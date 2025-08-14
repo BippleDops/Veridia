@@ -15,25 +15,19 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-noble-quarter-noble-quarter.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-noble-quarter-noble-quarter.svg]]
 
 
 # Noble Quarter
 ## The Crown Jewel of Aquabyssos Society
 
 > *"Here, beneath the crushing depths, we have built palaces to rival any surface kingdom. Power flows like the tide, and the current always favors those who know how to navigate it."*
-> — [[02_Worldbuilding/Places/Duchess Cordelia Pearlheart]], Head of the Noble Council
+> — [[Duchess Cordelia Pearlheart]], Head of the Noble Council
 
 ## Overview
 
-The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabyssos]] society, where the kingdom's most powerful and wealthy families maintain their elaborate residences and conduct the intricate dance of underwater politics. Built upon an elevated plateau of living coral that rises 300 feet above the rest of [[02_Worldbuilding/Places/Port Meridian]], this exclusive district houses the ancient bloodlines, merchant princes, and political powerbrokers who shape the destiny of the underwater realm. Every building gleams with bioluminescent decorations, precious metals, and the finest craftsmanship that pressure-resistant engineering can achieve.
+The Noble Quarter represents the pinnacle of [[Aquabyssos]] society, where the kingdom's most powerful and wealthy families maintain their elaborate residences and conduct the intricate dance of underwater politics. Built upon an elevated plateau of living coral that rises 300 feet above the rest of [[Port Meridian]], this exclusive district houses the ancient bloodlines, merchant princes, and political powerbrokers who shape the destiny of the underwater realm. Every building gleams with bioluminescent decorations, precious metals, and the finest craftsmanship that pressure-resistant engineering can achieve.
 
 ## History and Foundation
 
@@ -46,8 +40,8 @@ The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabysso
 
 ### The Coral Wars
 **Period**: 300 years ago when competing families fought for territorial expansion  
-**Catalyst**: Discovery of rare [[02_Worldbuilding/Places/Singing Coral]] formations that enhanced magical power  
-**Conflict**: Three-way war between [[02_Worldbuilding/Places/House Depthguard]], [[02_Worldbuilding/Places/House Crimsontiide]], and [[02_Worldbuilding/Places/House Pressureborn]]  
+**Catalyst**: Discovery of rare [[Singing Coral]] formations that enhanced magical power  
+**Conflict**: Three-way war between [[House Depthguard]], [[House Crimsontiide]], and [[House Pressureborn]]  
 **Resolution**: Royal intervention established current territorial boundaries and building codes  
 **Legacy**: Many current family rivalries trace back to these ancient conflicts
 
@@ -151,7 +145,7 @@ The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabysso
 **Function**: Official residence for royal family members visiting Port Meridian  
 **Architecture**: Most magnificent building in the district, showcasing royal power  
 **Diplomacy**: Neutral ground where competing noble houses meet for formal occasions  
-**Security**: Heavily guarded by [[02_Worldbuilding/Places/Royal Guard]] and diplomatic security forces  
+**Security**: Heavily guarded by [[Royal Guard]] and diplomatic security forces  
 **Symbolism**: Constant reminder of royal authority overseeing noble activities
 
 ### The Noble Assembly Hall
@@ -191,55 +185,55 @@ The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabysso
 **Specialty**: Military leadership and territorial defense  
 **Holdings**: Extensive lands, military contracts, mining operations  
 **Reputation**: Honorable, traditional, somewhat inflexible  
-**Current Leader**: [[02_Worldbuilding/People/Duke Theron Depthguard]], veteran military commander
+**Current Leader**: [[Duke Theron Depthguard]], veteran military commander
 
 #### House Crimsontide  
 **Motto**: "Flow with Power"  
 **Specialty**: Political manipulation and diplomatic intrigue  
 **Holdings**: Information networks, diplomatic contracts, luxury goods  
 **Reputation**: Clever, ambitious, potentially untrustworthy  
-**Current Leader**: [[02_Worldbuilding/Places/Duchess Seraphina Crimsontide]], master negotiator
+**Current Leader**: [[Duchess Seraphina Crimsontide]], master negotiator
 
 #### House Pressureborn
 **Motto**: "Forged in the Deep"  
 **Specialty**: Engineering, construction, and technological innovation  
 **Holdings**: Construction companies, engineering firms, infrastructure contracts  
 **Reputation**: Practical, reliable, focused on progress over tradition  
-**Current Leader**: [[02_Worldbuilding/Places/Count Viktor Pressureborn]], renowned engineer
+**Current Leader**: [[Count Viktor Pressureborn]], renowned engineer
 
 #### House Pearlheart
 **Motto**: "Beauty in the Depths"  
 **Specialty**: Arts, culture, and social influence  
 **Holdings**: Artistic patronage, cultural institutions, luxury entertainment  
 **Reputation**: Sophisticated, cultured, influential in social matters  
-**Current Leader**: [[02_Worldbuilding/Places/Duchess Cordelia Pearlheart]], patron of the arts
+**Current Leader**: [[Duchess Cordelia Pearlheart]], patron of the arts
 
 #### House Goldcurrent
 **Motto**: "Wealth Flows Like Water"  
 **Specialty**: Banking, finance, and commercial enterprise  
 **Holdings**: Major banks, trading companies, commercial real estate  
 **Reputation**: Wealthy, pragmatic, focused on profit over politics  
-**Current Leader**: [[02_Worldbuilding/Places/Marquis Aldwin Goldcurrent]], financial genius
+**Current Leader**: [[Marquis Aldwin Goldcurrent]], financial genius
 
 #### House Stormcrest
 **Motto**: "Through Tempest to Glory"  
 **Specialty**: Exploration, discovery, and maritime ventures  
 **Holdings**: Exploration fleets, trading expeditions, colonial enterprises  
 **Reputation**: Adventurous, risk-taking, often absent on distant ventures  
-**Current Leader**: [[02_Worldbuilding/Places/Countess Marina Stormcrest]], famous explorer
+**Current Leader**: [[Countess Marina Stormcrest]], famous explorer
 
 #### House Crystalvein
 **Motto**: "Pure Light, Clear Vision"  
 **Specialty**: Magical research, crystal cultivation, and arcane studies  
 **Holdings**: Magical laboratories, crystal mines, arcane libraries  
 **Reputation**: Scholarly, mysterious, potentially dangerous  
-**Current Leader**: [[02_Worldbuilding/People/Duke Lysander Crystalvein]], powerful wizard
+**Current Leader**: [[Duke Lysander Crystalvein]], powerful wizard
 
 ### Rising Merchant Houses
-**[[02_Worldbuilding/Places/House Mercurial]]**: Recently elevated shipping magnates challenging traditional hierarchies  
-**[[02_Worldbuilding/Places/House Deepforge]]**: Master crafters whose weapons and tools are sought throughout the kingdom  
-**[[02_Worldbuilding/Places/House Tidecaller]]**: Magical specialists whose services are essential to kingdom operations  
-**[[02_Worldbuilding/Places/House Voidwhisper]]**: Information brokers whose knowledge networks rival those of ancient houses  
+**[[House Mercurial]]**: Recently elevated shipping magnates challenging traditional hierarchies  
+**[[House Deepforge]]**: Master crafters whose weapons and tools are sought throughout the kingdom  
+**[[House Tidecaller]]**: Magical specialists whose services are essential to kingdom operations  
+**[[House Voidwhisper]]**: Information brokers whose knowledge networks rival those of ancient houses  
 **Social Tension**: Traditional nobility resents these newcomers who buy their way into power
 
 ### The Noble Council
@@ -501,28 +495,28 @@ The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabysso
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]] - Royal Capital
+### [[Abyssos Prime]] - Royal Capital
 **Political**: Noble Quarter representatives regularly travel to capital for court functions  
 **Economic**: Many noble families maintain residences and business interests in capital  
 **Cultural**: Fashion and social trends flow between the two aristocratic centers  
 **Marriage**: Inter-marriage between Port Meridian and capital noble families  
 **Competition**: Friendly rivalry over which location truly sets kingdom trends
 
-### [[02_Worldbuilding/Places/Harbor District]] - Commercial Center
+### [[Harbor District]] - Commercial Center
 **Economic**: Noble families control much of the shipping and trade infrastructure  
 **Investment**: Major financial backing for harbor improvements and expansion  
 **Labor**: Employment of thousands of workers through noble-controlled businesses  
 **Politics**: Economic influence translates into significant political leverage  
 **Transportation**: Private facilities for noble shipping and passenger transport
 
-### [[02_Worldbuilding/Places/Pressure Terminal]] - Transportation Hub
+### [[Pressure Terminal]] - Transportation Hub
 **Private Access**: Exclusive platforms and services for noble passengers  
 **Investment**: Noble families helped fund and continue to support terminal operations  
 **Security**: Special arrangements for protecting noble travelers and cargo  
 **Speed**: Rapid communication and transport enabling far-flung business operations  
 **Control**: Influence over scheduling and priority access during busy periods
 
-### [[02_Worldbuilding/Places/Royal Palace]] - Seat of Government
+### [[Royal Palace]] - Seat of Government
 **Court Functions**: Regular attendance at royal ceremonies and state functions  
 **Political Influence**: Direct access to royal family and senior government officials  
 **Administrative**: Many nobles serve in government positions or advisory roles  
@@ -569,30 +563,30 @@ The Noble Quarter represents the pinnacle of [[02_Worldbuilding/Places/Aquabysso
 ---
 
 **Related Locations**:  
-- [[02_Worldbuilding/Places/Port Meridian]]  
-- [[02_Worldbuilding/Places/Abyssos Prime]]  
-- [[02_Worldbuilding/Places/Harbor District]]  
-- [[02_Worldbuilding/Places/Royal Palace]]  
-- [[02_Worldbuilding/Places/Pressure Terminal]]  
+- [[Port Meridian]]  
+- [[Abyssos Prime]]  
+- [[Harbor District]]  
+- [[Royal Palace]]  
+- [[Pressure Terminal]]  
 
 **Related NPCs**:  
-- [[02_Worldbuilding/Places/Duchess Cordelia Pearlheart]]  
-- [[02_Worldbuilding/Places/The Seven Founding Houses]]  
-- [[02_Worldbuilding/Places/Noble Council]]  
-- [[02_Worldbuilding/People/House Guard Captains]]  
+- [[Duchess Cordelia Pearlheart]]  
+- [[The Seven Founding Houses]]  
+- [[Noble Council]]  
+- [[House Guard Captains]]  
 
 **Related Items and Concepts**:  
-- [[02_Worldbuilding/Places/Noble Titles and Ranks]]  
-- [[02_Worldbuilding/Places/The Noble Compact]]  
-- [[02_Worldbuilding/Places/Living Coral Architecture]]  
-- [[02_Worldbuilding/Places/Political Alliances]]
+- [[Noble Titles and Ranks]]  
+- [[The Noble Compact]]  
+- [[Living Coral Architecture]]  
+- [[Political Alliances]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Seamstress Coral Silkweaver]]
-- [[02_Worldbuilding/Places/Temple Ward]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[Seamstress Coral Silkweaver]]
+- [[Temple Ward]]
+- [[Quest - The Pretender's Crown]]
 
 ## Player-Facing Summary
 
@@ -614,10 +608,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[Abyssos Prime]]
+- [[Port Meridian]]
+- [[Pressure Terminal]]
+- [[Royal Palace]]

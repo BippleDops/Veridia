@@ -23,7 +23,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\fey/fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
+# [[fey-spirit-mirthful-xphb|Fey Spirit (Mirthful)]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -41,7 +41,7 @@ world: Both
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
@@ -54,7 +54,7 @@ world: Both
 "bonus_actions":
   - "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
       \ can see. Wisdom Saving Throw: DC equals your spell save DC, one creature\
-      \ the spirit can see within 10 feet of itself. Failure: The target is [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+      \ the spirit can see within 10 feet of itself. Failure: The target is [[conditions#Charmed|Charmed]]\
       \ by you and the spirit for 1 minute or until the target takes any damage."
     "name": "Fey Step"
 "source":

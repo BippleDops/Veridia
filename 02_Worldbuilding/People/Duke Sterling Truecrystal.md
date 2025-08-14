@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-duke-sterling-truecrystal-duke-sterling-truecrystal.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duke-sterling-truecrystal-duke-sterling-truecrystal.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duke Sterling Truecrystal]]
+- [[Duke Sterling Truecrystal]]
 
 <!-- enriched: true -->

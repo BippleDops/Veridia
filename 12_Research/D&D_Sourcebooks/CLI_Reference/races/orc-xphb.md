@@ -30,17 +30,17 @@ world: Both
 
 ### Adrenaline Rush
 
-You can take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. When you do so, you gain a number of [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]].
+You can take the [[actions#Dash|Dash]] action as a [[bonus-action-xphb|Bonus Action]]. When you do so, you gain a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your [[proficiency-xphb|Proficiency Bonus]].
 
-You can use this trait a number of times equal to your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You can use this trait a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 ### Darkvision
 
-You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 120 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Relentless Endurance
 
-When you are reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] but not killed outright, you can drop to 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+When you are reduced to 0 [[hit-points-xphb|Hit Points]] but not killed outright, you can drop to 1 [[hit-points-xphb|Hit Point]] instead. Once you use this trait, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
 
 ## Description
 

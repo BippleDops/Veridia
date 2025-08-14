@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hadrosaurus-mpmm-hadrosaurus-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/hadrosaurus-mpmm|Hadrosaurus]]
+# [[hadrosaurus-mpmm|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -51,7 +51,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""

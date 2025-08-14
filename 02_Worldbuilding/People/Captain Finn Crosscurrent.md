@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-finn-crosscurrent-captain-finn-crosscurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-finn-crosscurrent-captain-finn-crosscurrent.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Finn Crosscurrent]]
+- [[Captain Finn Crosscurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[Smuggler's Cove]]

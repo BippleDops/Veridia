@@ -42,15 +42,15 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ## Enlarge
 
-The target's size increases by one category—from Medium to Large, for example. The target also has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `d4` damage on a hit.
+The target's size increases by one category—from Medium to Large, for example. The target also has [[advantage-xphb|Advantage]] on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `d4` damage on a hit.
 
 ## Reduce
 
-The target's size decreases by one category—from Medium to Small, for example. The target also has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `d4` less damage on a hit (this can't reduce the damage below 1).
+The target's size decreases by one category—from Medium to Small, for example. The target also has [[disadvantage-xphb|Disadvantage]] on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `d4` less damage on a hit (this can't reduce the damage below 1).
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

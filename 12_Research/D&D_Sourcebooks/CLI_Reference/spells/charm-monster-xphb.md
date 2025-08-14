@@ -35,11 +35,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] creature is [[/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with [[advantage-xphb|Advantage]] if you or your allies are fighting it. On a failed save, the target has the [[conditions#Charmed|Charmed]] condition until the spell ends or until you or your allies damage it. The [[conditions#Charmed|Charmed]] creature is [[friendly-attitude-xphb|Friendly]] to you. When the spell ends, the target knows it was [[conditions#Charmed|Charmed]] by you.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
 
 *Source: Player's Handbook (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -25,16 +25,16 @@ This appendix presents new monsters and NPCs encountered in this adventure.
 
 | Monster | Challenge |
 |---------|-----------|
-| [[/03_Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]] | 1/8 |
-| [[/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota|Drow spore servant]] | 1/8 |
-| [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|Derro]] | 1/4 |
-| [[/03_Mechanics/CLI/bestiary/aberration/ixitxachitl-oota|Ixitxachitl]] | 1/4 |
-| [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|Male steeder]] | 1/4 |
-| [[/03_Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota|Duergar spore servant]] | 1/2 |
+| [[bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]] | 1/8 |
+| [[drow-spore-servant-oota|Drow spore servant]] | 1/8 |
+| [[derro-mpmm|Derro]] | 1/4 |
+| [[ixitxachitl-oota|Ixitxachitl]] | 1/4 |
+| [[male-steeder-mpmm|Male steeder]] | 1/4 |
+| [[duergar-spore-servant-oota|Duergar spore servant]] | 1/2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|Duergar soulblade]] | 1 |
-| [[/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm|Female steeder]] | 1 |
-| [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|Awakened zurkhwood]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]] | 2 |
+| [[female-steeder-mpmm|Female steeder]] | 1 |
+| [[awakened-zurkhwood-oota|Awakened zurkhwood]] | 2 |
+| [[chamberlain-of-zuggtmoy-oota|Chamberlain of Zuggtmoy]] | 2 |
 | [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (NPC) | 2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota|Duergar darkhaft]] | 2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | 2 |
@@ -43,11 +43,11 @@ This appendix presents new monsters and NPCs encountered in this adventure.
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|Duergar xarrorn]] | 2 |
 | [[/03_Mechanics/CLI/bestiary/npc/grisha-oota|Grisha]] (NPC) | 2 |
 | [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] (NPC) | 2 |
-| [[/03_Mechanics/CLI/bestiary/aberration/vampiric-ixitxachitl-oota|Vampiric ixitxachitl]] | 2 |
-| [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|Derro savant]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota|Hook horror spore servant]] | 3 |
+| [[vampiric-ixitxachitl-oota|Vampiric ixitxachitl]] | 2 |
+| [[derro-savant-mpmm|Derro savant]] | 3 |
+| [[hook-horror-spore-servant-oota|Hook horror spore servant]] | 3 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota|Troglodyte champion of Laogzed]] | 3 |
-| [[/03_Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota|Chuul spore servant]] | 4 |
+| [[chuul-spore-servant-oota|Chuul spore servant]] | 4 |
 | [[/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota|The Pudding King]] (NPC) | 4 |
 | [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] (NPC) | 4 |
 ^monster-challenge

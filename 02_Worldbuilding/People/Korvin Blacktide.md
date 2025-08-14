@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
+- [[Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
+- [[Admiral Thorne Blackwater]]
+- [[Emperor Thalassius the Wise]]
+- [[Sir Marcus Dawnforge]]
 - [[Envoy Blackwater Jr.]]
 
 ## Player-Facing Summary

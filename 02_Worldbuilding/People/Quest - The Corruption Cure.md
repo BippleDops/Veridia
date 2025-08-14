@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-cure-quest-the-corruption-cure.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-cure-quest-the-corruption-cure.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Corruption Cure]]
+- [[Quest - The Corruption Cure]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[High Priestess Celeste Dawnbringer]]

@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-grief-harvester-melancholy-grief-harvester-melancholy.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Grief Harvester Melancholy]]
+- [[12_Research/D&D_References/Grief Harvester Melancholy]]
 
 <!-- enriched: true -->

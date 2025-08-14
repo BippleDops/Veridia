@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-depth-lords-the-depth-lords.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-depth-lords-the-depth-lords.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Depth Lords]]
+- [[The Depth Lords]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]

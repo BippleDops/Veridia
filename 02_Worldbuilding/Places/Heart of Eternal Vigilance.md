@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-heart-of-eternal-vigilance-heart-of-eternal-vigilance.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-heart-of-eternal-vigilance-heart-of-eternal-vigilance.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[Vault Keeper Eternal]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[Vault Keeper Eternal]]
 
 ## Player-Facing Summary
 

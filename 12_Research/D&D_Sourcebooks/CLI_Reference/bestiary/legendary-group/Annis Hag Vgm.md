@@ -48,13 +48,13 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [[conditions#Charmed|charmed]] by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful annis hag creates one or more of the following additional regional effects within 1 mile of her lair:
 
 - The gravel stones on a safe-looking path, road, or trails occasionally become sharp for 100-foot intervals. Walking on these areas is like walking on caltrops.  
-- Small avalanches of rock intermittently fall, blocking a path or burying intruders. A buried creature is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] and has to hold its breath until it is dug out.  
+- Small avalanches of rock intermittently fall, blocking a path or burying intruders. A buried creature is [[conditions#Restrained|restrained]] and has to hold its breath until it is dug out.  
 - Strange laughter, sounding like that of children or the hag herself, occasionally pierces the silence.  
 - Small cairns appear along the route of travelers, containing anything from mysterious bones to nothing at all. These cairns might be haunted by skeletons, specters, or hostile fey.
 

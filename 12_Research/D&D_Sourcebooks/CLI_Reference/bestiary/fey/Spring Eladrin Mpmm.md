@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spring-eladrin-mpmm-spring-eladrin-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/spring-eladrin-mpmm|Spring Eladrin]]
+# [[spring-eladrin-mpmm|Spring Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -50,7 +50,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Spring Eladrin (MPMM)"
@@ -72,9 +72,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+8"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -83,10 +83,10 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the eladrin for 1 minute.\
+      \ [[conditions#Charmed|charmed]] by the eladrin for 1 minute.\
       \ On a successful save, the creature becomes immune to any eladrin's Joyful\
-      \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
-      \ creature, the [[/03_Mechanics/CLI/conditions#Charmed|charmed]] creature can\
+      \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [[conditions#Charmed|charmed]]\
+      \ creature, the [[conditions#Charmed|charmed]] creature can\
       \ repeat the saving throw, ending the effect on itself on a success."
     "name": "Joyful Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
@@ -105,9 +105,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb|Tasha's hideous laughter]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/major-image-xphb|major image]],\
-      \ [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]]"
+      \nAt will: [[tashas-hideous-laughter-xphb|Tasha's hideous laughter]]\n\
+      \n1/day each: [[major-image-xphb|major image]],\
+      \ [[suggestion-xphb|suggestion]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

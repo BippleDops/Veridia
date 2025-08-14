@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-void-watchers-shrines-the-void-watchers-shrines.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-void-watchers-shrines-the-void-watchers-shrines.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark]]
 
 ## Player-Facing Summary
 

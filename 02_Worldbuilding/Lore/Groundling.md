@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[12_Research/D&D_Statblocks/Quest - Hearts and Minds]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[12_Research/D&D_Statblocks/Quest - Hearts and Minds]]
 
 ## Player-Facing Summary
 

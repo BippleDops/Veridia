@@ -25,7 +25,7 @@ Whereas "chapters 1" and "2" teach the essentials of being a Dungeon Master, thi
 
 ## Alignment
 
-As described in the "Player's Handbook", [[/03_Mechanics/CLI/variant-rules/alignment-xphb|alignment]] is a roleplaying tool. It is a quick way to describe a creature's moral and ethical orientation. Like other elements of the game, it's meant to be a tool to serve you and your game, not a constraint or burden. Alignment can help your game in three ways: as a tool for player characters, as a descriptor of a creature's demeanor, and as a summary of an organization's ethos.
+As described in the "Player's Handbook", [[alignment-xphb|alignment]] is a roleplaying tool. It is a quick way to describe a creature's moral and ethical orientation. Like other elements of the game, it's meant to be a tool to serve you and your game, not a constraint or burden. Alignment can help your game in three ways: as a tool for player characters, as a descriptor of a creature's demeanor, and as a summary of an organization's ethos.
 
 ### Character Alignment
 
@@ -55,11 +55,11 @@ Alignment can help you determine how a creature behaves in your game in two simp
 
 #### Starting Attitude
 
-A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]], while a Lawful Good one is more likely to have a [[/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb|Friendly]] attitude, ready to help those in need.
+A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [[hostile-attitude-xphb|Hostile]], while a Lawful Good one is more likely to have a [[friendly-attitude-xphb|Friendly]] attitude, ready to help those in need.
 
 #### Personality
 
-"Chapter 2" of the "Player's Handbook" offers a [[/03_Mechanics/CLI/tables/alignment-and-personality-personality-traits-by-alignment-xphb|table of brief personality traits]] linked to alignment that can inspire you in playing an NPC or another monster in your game.
+"Chapter 2" of the "Player's Handbook" offers a [[alignment-and-personality-personality-traits-by-alignment-xphb|table of brief personality traits]] linked to alignment that can inspire you in playing an NPC or another monster in your game.
 
 ### Organization Ethos
 
@@ -73,41 +73,41 @@ An organization's ethos doesn't dictate the alignment of its members or even the
 
 The rules for movement in combat don't translate to every situation. In particular, they can make a potentially thrilling chase seem dull and predictable. Faster creatures always catch up to slower ones, while creatures with the same Speed never close the distance between each other. Use the following rules to introduce random elements that make chases more exciting.
 
-Know the capabilities of the characters in your party before you make a chase an important feature of an adventure. A character with a high Speed or the right spell (such as [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]], [[/03_Mechanics/CLI/spells/fly-xphb|Fly]], or [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]]) can often end a chase before it begins.
+Know the capabilities of the characters in your party before you make a chase an important feature of an adventure. A character with a high Speed or the right spell (such as [[dimension-door-xphb|Dimension Door]], [[fly-xphb|Fly]], or [[hold-monster-xphb|Hold Monster]]) can often end a chase before it begins.
 
 ### Beginning a Chase
 
-A chase requires at least one quarry and at least one pursuer. Any participants not already in [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] order must roll Initiative as the chase begins. As in combat, each participant in the chase can take one action and move on its turn.
+A chase requires at least one quarry and at least one pursuer. Any participants not already in [[initiative-xphb|Initiative]] order must roll Initiative as the chase begins. As in combat, each participant in the chase can take one action and move on its turn.
 
 When a chase begins, determine the starting distance between the quarry and the pursuers. Track the distance between them, and designate the pursuer closest to the quarry as the lead. The lead pursuer might change from round to round.
 
 ### Running the Chase
 
-Participants in the chase are strongly motivated to take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
+Participants in the chase are strongly motivated to take the [[actions#Dash|Dash]] action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
 
 #### Dashing
 
-A chase participant can take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] level. A participant drops out of the chase if it has 5 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] levels. A creature can remove the [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] levels it gained during the chase by finishing a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+A chase participant can take the [[actions#Dash|Dash]] action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [[conditions#Exhaustion|Exhaustion]] level. A participant drops out of the chase if it has 5 [[conditions#Exhaustion|Exhaustion]] levels. A creature can remove the [[conditions#Exhaustion|Exhaustion]] levels it gained during the chase by finishing a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 #### Spells and Attacks
 
 A chase participant can make attacks and cast spells against other creatures within range.
 
-Chase participants can't normally make [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]] against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]] from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]] from the ruffians.
+Chase participants can't normally make [[actions#Opportunity%20Attack|Opportunity Attacks]] against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of [[actions#Opportunity%20Attack|Opportunity Attacks]] from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke [[actions#Opportunity%20Attack|Opportunity Attacks]] from the ruffians.
 
 ### Ending a Chase
 
 A chase ends when one side or the other stops, when each quarry escapes, or when the pursuers are close enough to their quarry to catch it.
 
-If neither side gives up the chase, the quarry makes a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[/03_Mechanics/CLI/variant-rules/passive-perception-xphb|Passive Perception]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
+If neither side gives up the chase, the quarry makes a Dexterity ([[skills#Stealth|Stealth]]) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[passive-perception-xphb|Passive Perception]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
 
-The quarry can gain [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] or [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on its check based on the circumstances, as shown in the Escape Factors table.
+The quarry can gain [[advantage-xphb|Advantage]] or [[disadvantage-xphb|Disadvantage]] on its check based on the circumstances, as shown in the Escape Factors table.
 
-![[/03_Mechanics/CLI/tables/ending-a-chase-escape-factors-xdmg|Ending a Chase; Escape Factors]]
+![[ending-a-chase-escape-factors-xdmg|Ending a Chase; Escape Factors]]
 
-Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[/03_Mechanics/CLI/spells/faerie-fire-xphb|Faerie Fire]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
+Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[faerie-fire-xphb|Faerie Fire]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
 
-If the total of the quarry's check is greater than the highest [[/03_Mechanics/CLI/variant-rules/passive-perception-xphb|Passive Perception]] score of the pursuers, the quarry escapes. If not, the chase continues for another round. Escape doesn't necessarily mean the quarry has outpaced its pursuers. For example, in a city, escape might mean the quarry ducked into a crowd or slipped around a corner, leaving no clue as to where it went.
+If the total of the quarry's check is greater than the highest [[passive-perception-xphb|Passive Perception]] score of the pursuers, the quarry escapes. If not, the chase continues for another round. Escape doesn't necessarily mean the quarry has outpaced its pursuers. For example, in a city, escape might mean the quarry ducked into a crowd or slipped around a corner, leaving no clue as to where it went.
 
 #### Designing Your Own Chase Tables
 
@@ -135,11 +135,11 @@ A map of a chase can be linear or have many branches, depending on the nature of
 
 Unexpected complications make a chase more exciting. The accompanying Urban Chase Complications table and Wilderness Chase Complications table provide several examples. Each participant in the chase rolls `d12` at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the Initiative order, not the participant who rolled the die.
 
-Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [[/03_Mechanics/CLI/spells/web-xphb|Web]] spell in a narrow alleyway). Adjudicate these at your discretion.
+Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [[web-xphb|Web]] spell in a narrow alleyway). Adjudicate these at your discretion.
 
-![[/03_Mechanics/CLI/tables/urban-chase-complications-xdmg|Urban Chase Complications]]
+![[urban-chase-complications-xdmg|Urban Chase Complications]]
 
-![[/03_Mechanics/CLI/tables/wilderness-chase-complications-xdmg|Wilderness Chase Complications]]
+![[wilderness-chase-complications-xdmg|Wilderness Chase Complications]]
 
 ## Creating a Background
 
@@ -186,25 +186,25 @@ You can change the superficial details of a creature's appearance however you li
 
 #### Size and Creature Type
 
-You can alter a creature's size and creature type as you please. For example, you can use an [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]] stat block for a human bully—just make it a Medium Humanoid instead of a Large Giant.
+You can alter a creature's size and creature type as you please. For example, you can use an [[ogre-xmm|Ogre]] stat block for a human bully—just make it a Medium Humanoid instead of a Large Giant.
 
 #### Ability Scores
 
-You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|Black Pudding]] stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]], or [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], which in turn can alter its [[/03_Mechanics/CLI/variant-rules/challenge-rating-xphb|Challenge Rating]].
+You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [[black-pudding-xmm|Black Pudding]] stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [[armor-class-xphb|Armor Class]], or [[hit-points-xphb|Hit Points]], which in turn can alter its [[challenge-rating-xphb|Challenge Rating]].
 
 #### Languages
 
-You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[/03_Mechanics/CLI/variant-rules/telepathy-xphb|telepathy]] or other forms of communication.
+You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[telepathy-xphb|telepathy]] or other forms of communication.
 
 #### Proficiencies
 
-You can give a creature any skill proficiencies you want and give it [[/03_Mechanics/CLI/variant-rules/expertise-xphb|Expertise]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [[/03_Mechanics/CLI/skills#Perception|Perception]] skill. (You can also increase its Wisdom, as noted above.)
+You can give a creature any skill proficiencies you want and give it [[expertise-xphb|Expertise]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [[skills#Stealth|Stealth]] skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [[skills#Perception|Perception]] skill. (You can also increase its Wisdom, as noted above.)
 
 You can also swap a monster's saving throw proficiencies. If it has none, you can add one or two.
 
 #### Senses
 
-[[/03_Mechanics/CLI/senses#Blindsight|Blindsight]], [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]], [[/03_Mechanics/CLI/senses#Tremorsense|Tremorsense]], and [[/03_Mechanics/CLI/senses#Truesight|Truesight]] have no bearing on a creature's Challenge Rating. You can add or remove them freely.
+[[senses#Blindsight|Blindsight]], [[senses#Darkvision|Darkvision]], [[senses#Tremorsense|Tremorsense]], and [[senses#Truesight|Truesight]] have no bearing on a creature's Challenge Rating. You can add or remove them freely.
 
 #### Spells
 
@@ -212,42 +212,42 @@ If a stat block has spells, you can replace any of its spells with a different s
 
 #### Attacks
 
-You can freely change the name and flavor of an attack, as well as its damage type. For example, you can turn an ordinary [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeleton]] into an ice skeleton that deals Cold damage as it accosts characters with a blade of ice or hurls shards of ice at them.
+You can freely change the name and flavor of an attack, as well as its damage type. For example, you can turn an ordinary [[skeleton-xmm|Skeleton]] into an ice skeleton that deals Cold damage as it accosts characters with a blade of ice or hurls shards of ice at them.
 
 #### Resistances and Immunities
 
-If a creature doesn't have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] or [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
+If a creature doesn't have [[resistance-xphb|Resistance]] or [[immunity-xphb|Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
 
 ### Traits
 
 You can add traits to a creature's stat block to communicate aspects of the creature's nature. See the Creature Traits list for sample traits.
 
-You can also use traits from other stat blocks in the "Monster Manual", provided you don't add traits that alter a creature's Hit Points, confer [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]], or change the amount of damage the creature deals to other creatures.
+You can also use traits from other stat blocks in the "Monster Manual", provided you don't add traits that alter a creature's Hit Points, confer [[temporary-hit-points-xphb|Temporary Hit Points]], or change the amount of damage the creature deals to other creatures.
 
 #### Creature Traits
 
-- **Aversion to Fire.** If the creature takes Fire damage, it has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls and ability checks until the end of its next turn.  
-- **Battle Ready.** The creature has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] rolls.  
+- **Aversion to Fire.** If the creature takes Fire damage, it has [[disadvantage-xphb|Disadvantage]] on attack rolls and ability checks until the end of its next turn.  
+- **Battle Ready.** The creature has [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.  
 - **Beast Whisperer.** The creature can communicate with Beasts as if they shared a common language.  
-- **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [[/03_Mechanics/CLI/spells/bane-xphb|Bane]] spell (save DC 13), which lasts for its full duration.  
-- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
-- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|Imp]] in the same space.  
+- **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [[bane-xphb|Bane]] spell (save DC 13), which lasts for its full duration.  
+- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
+- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[hostile-attitude-xphb|Hostile]] [[imp-xmm|Imp]] in the same space.  
 - **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
-- **Emissary of Juiblex.** When the creature dies, its body disgorges a [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] [[/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm|Ochre Jelly]] in the same space.  
-- **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition, and magic can't put it to sleep.  
+- **Emissary of Juiblex.** When the creature dies, its body disgorges a [[hostile-attitude-xphb|Hostile]] [[ochre-jelly-xmm|Ochre Jelly]] in the same space.  
+- **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [[conditions#Charmed|Charmed]] condition, and magic can't put it to sleep.  
 - **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
-- **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. Other creatures in that area have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on Charisma checks and Charisma saving throws.  
-- **Light.** The creature sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet. As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
-- **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check.  
-- **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition.  
+- **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]. Other creatures in that area have [[disadvantage-xphb|Disadvantage]] on Charisma checks and Charisma saving throws.  
+- **Light.** The creature sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet. As a [[bonus-action-xphb|Bonus Action]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
+- **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[skills#Insight|Insight]]) check.  
+- **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [[conditions#Poisoned|Poisoned]] condition.  
 - **Resonant Connection.** The creature has a supernatural connection to another creature or an object and knows the most direct route to it, provided the two are within 1 mile of each other.  
 - **Siege Monster.** The creature deals double damage to objects and structures.  
-- **Slaad Host.** When the creature dies, a [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] [[/03_Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm|Slaad Tadpole]] bursts from its innards in the same space.  
-- **Steadfast.** The creature has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition while it can see an ally within 30 feet of itself.  
+- **Slaad Host.** When the creature dies, a [[hostile-attitude-xphb|Hostile]] [[slaad-tadpole-xmm|Slaad Tadpole]] bursts from its innards in the same space.  
+- **Steadfast.** The creature has [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition while it can see an ally within 30 feet of itself.  
 - **Telepathic Bond.** The creature is linked psychically to another creature. While both are on the same plane of existence, they can communicate telepathically with each other.  
 - **Telepathic Shroud.** The creature is immune to any effect that would sense its emotions or read its thoughts, as well as to spells from the school of Divination. As a Bonus Action, the creature can suppress this trait or reactivate it.  
 - **Ventriloquism.** Whenever the creature speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.  
-- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]] creature.  
+- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [[bloodied-xphb|Bloodied]] creature.  
 - **Wild Talent.** Choose one cantrip; the creature can cast that cantrip without spell components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.  
 
 ## Creating a Magic Item
@@ -262,19 +262,19 @@ You can create a new magic item by tweaking one or more existing ones. Suggestio
 
 #### Altered Capabilities
 
-One capability can replace a similar one. For example, a [[/03_Mechanics/CLI/items/potion-of-climbing-xdmg|Potion of Climbing]] could become a *Potion of Swimming*.
+One capability can replace a similar one. For example, a [[potion-of-climbing-xdmg|Potion of Climbing]] could become a *Potion of Swimming*.
 
 #### Altered Form
 
-You can alter a magic item's form while leaving its properties intact. For example, you can turn a [[/03_Mechanics/CLI/items/ring-of-the-ram-xdmg|Ring of the Ram]] into a wand or a [[/03_Mechanics/CLI/items/cloak-of-protection-xdmg|Cloak of Protection]] into some other worn object (such as a circlet) without altering the item's properties.
+You can alter a magic item's form while leaving its properties intact. For example, you can turn a [[ring-of-the-ram-xdmg|Ring of the Ram]] into a wand or a [[cloak-of-protection-xdmg|Cloak of Protection]] into some other worn object (such as a circlet) without altering the item's properties.
 
 #### Altered Damage Types
 
-An item that deals damage of one type could instead deal damage of another type. For example, a [[/03_Mechanics/CLI/items/flame-tongue-xdmg|Flame Tongue]] sword could deal Lightning damage instead of Fire damage.
+An item that deals damage of one type could instead deal damage of another type. For example, a [[flame-tongue-xdmg|Flame Tongue]] sword could deal Lightning damage instead of Fire damage.
 
 #### Combining Items
 
-You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]]. For example, you could combine the properties of a [[/03_Mechanics/CLI/items/helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]] with those of a [[/03_Mechanics/CLI/items/helm-of-telepathy-xdmg|Helm of Telepathy]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
+You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[attunement-xphb|Attunement]]. For example, you could combine the properties of a [[helm-of-comprehending-languages-xdmg|Helm of Comprehending Languages]] with those of a [[helm-of-telepathy-xdmg|Helm of Telepathy]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
 
 #### Special Features and Sentience
 
@@ -284,7 +284,7 @@ You can merge the properties of two magic items of the same rarity into a single
 
 If modifying an item doesn't quite fulfill the need, you can create one from scratch.
 
-A magic item should either let a character do something they couldn't do before or improve the character's ability to do something they can do already. For example, a [[/03_Mechanics/CLI/items/ring-of-jumping-xdmg|Ring of Jumping]] lets its wearer jump greater distances, thus augmenting what a character can already do. A [[/03_Mechanics/CLI/items/ring-of-the-ram-xdmg|Ring of the Ram]], however, gives a character the ability to deal Force damage.
+A magic item should either let a character do something they couldn't do before or improve the character's ability to do something they can do already. For example, a [[ring-of-jumping-xdmg|Ring of Jumping]] lets its wearer jump greater distances, thus augmenting what a character can already do. A [[ring-of-the-ram-xdmg|Ring of the Ram]], however, gives a character the ability to deal Force damage.
 
 The simpler your approach, the easier it is for a character to use the item in play. Giving the item charges is fine, especially if it has several different abilities, but simply deciding that an item is always active or can be used a fixed number of times per day might be easier to manage.
 
@@ -294,7 +294,7 @@ If you make an item that lets a character kill whatever they hit with it, that i
 
 Use the Magic Item Power by Rarity table as a guide to help you determine how powerful a magic item should be based on its rarity.
 
-![[/03_Mechanics/CLI/tables/power-level-magic-item-power-by-rarity-xdmg|Power Level; Magic Item Power by Rarity]]
+![[power-level-magic-item-power-by-rarity-xdmg|Power Level; Magic Item Power by Rarity]]
 
 ##### Maximum Spell Level
 
@@ -314,7 +314,7 @@ If having all the characters in a party pass an item around to gain its lasting 
 
 ##### Limit Stacking
 
-If the item grants a bonus that other items also grant, it's a good idea to require [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] so characters don't try to collect too many of those items.
+If the item grants a bonus that other items also grant, it's a good idea to require [[attunement-xphb|Attunement]] so characters don't try to collect too many of those items.
 
 ## Creating a Spell
 
@@ -334,7 +334,7 @@ For any spell that deals damage, use the Spell Damage table to determine approxi
 
 You can use different damage dice than the ones in the table if the average damage is about the same. For example, you could change a cantrip's damage from `d10` (average 5.5) to `2d4` (average 5), reducing the maximum damage and making an average result more likely.
 
-![[/03_Mechanics/CLI/tables/spell-damage-xdmg|Spell Damage]]
+![[spell-damage-xdmg|Spell Damage]]
 
 ### Healing Spells
 
@@ -354,7 +354,7 @@ Every curse has rules that govern it. A curse typically takes one of the forms d
 
 #### Bestow Curse
 
-The simplest curses are created by the [[/03_Mechanics/CLI/spells/bestow-curse-xphb|Bestow Curse]] spell. The effects of such curses are limited and can be ended by the [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] spell.
+The simplest curses are created by the [[bestow-curse-xphb|Bestow Curse]] spell. The effects of such curses are limited and can be ended by the [[remove-curse-xphb|Remove Curse]] spell.
 
 *Bestow Curse* provides useful benchmarks for gauging the potency of other curses. A curse that lasts for 1 minute equates to a level 3 spell, while one that lasts until dispelled equates to a level 9 spell.
 
@@ -362,7 +362,7 @@ The simplest curses are created by the [[/03_Mechanics/CLI/spells/bestow-curse-x
 
 Some monsters are associated with curses, whether as part of their origins or due to their ability to spread curses—werewolves being a prime example.
 
-You decide how a spell like [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting *Remove Curse* on its corpse.
+You decide how a spell like [[remove-curse-xphb|Remove Curse]] affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting *Remove Curse* on its corpse.
 
 #### Cursed Magic Items
 
@@ -372,7 +372,7 @@ Cursed magic items are created deliberately or originate as the result of supern
 
 A curse might manifest during an adventure when a creature's violation of a taboo warrants supernatural punishment, such as breaking a vow, defiling a tomb, or murdering an innocent. Such a curse can have any effects you design, or it might be a customized version of another type of curse discussed in this section.
 
-A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] affects a curse that's part of your adventure is up to you—the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign.
+A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like [[remove-curse-xphb|Remove Curse]] affects a curse that's part of your adventure is up to you—the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign.
 
 #### Environmental Curses
 
@@ -382,9 +382,9 @@ Some locations are so suffused with evil that anyone who lingers there is burden
 
 Demonic Possession arises from the chaos and evil of the "Abyss" and commonly besets creatures that interact with demonic objects or linger in desecrated locations, where demonic spirits await victims.
 
-A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]], the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
+A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a [[d20-test-xphb|D20 Test]], the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
 
-After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil and Good]] spell or any magic that removes a curse also ends the effect on it.
+After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A [[dispel-evil-and-good-xphb|Dispel Evil and Good]] spell or any magic that removes a curse also ends the effect on it.
 
 ### Magical Contagions
 
@@ -392,15 +392,15 @@ Alchemists, potion brewers, and areas of wild magic are credited with creating t
 
 #### Rest and Recuperation
 
-If a creature infected with a magical contagion spends 3 days recuperating, engaging in no activities that would interrupt a Long Rest, the creature makes a DC 15 Constitution saving throw at the end of the recuperation period. On a successful save, the creature has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws to fight off the magical contagion for the next 24 hours.
+If a creature infected with a magical contagion spends 3 days recuperating, engaging in no activities that would interrupt a Long Rest, the creature makes a DC 15 Constitution saving throw at the end of the recuperation period. On a successful save, the creature has [[advantage-xphb|Advantage]] on saving throws to fight off the magical contagion for the next 24 hours.
 
 #### Example Contagions
 
 The following examples show how magical contagions can work. Feel free to alter the saving throw DCs, effects, and other characteristics of these contagions to suit your campaign.
 
-- [[/03_Mechanics/CLI/diseases#Cackle%20Fever|Cackle Fever]]  
-- [[/03_Mechanics/CLI/diseases#Sewer%20Plague|Sewer Plague]]  
-- [[/03_Mechanics/CLI/diseases#Sight%20Rot|Sight Rot]]  
+- [[diseases#Cackle%20Fever|Cackle Fever]]  
+- [[diseases#Sewer%20Plague|Sewer Plague]]  
+- [[diseases#Sight%20Rot|Sight Rot]]  
 
 ## Death
 
@@ -427,7 +427,7 @@ If you and your players agree to avoid character death in your game, you might c
 
 ##### Comatose
 
-The character has 1 Hit Point and the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]] condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] spell or experience a sudden awakening (see below).
+The character has 1 Hit Point and the [[conditions#Unconscious|Unconscious]] condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[greater-restoration-xphb|Greater Restoration]] spell or experience a sudden awakening (see below).
 
 ##### Sudden Awakening
 
@@ -435,12 +435,12 @@ After finishing a Long Rest, the character makes a DC 20 Constitution saving thr
 
 ### Death Scenes
 
-When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [[/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb|Death Saving Throws]]. One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
+When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [[death-saving-throw-xphb|Death Saving Throws]]. One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
 
 - **On a Successful Death Save.** A memory that inspires hope and courage. A beloved person who would urge the character to cling to life. A thought of something to live for. A favorite childhood memory.  
 - **On a Failed Death Save.** A memory that stirs up shame or grief. A beloved person who is already dead, beckoning the character to join them. An experience of weariness or despair.  
 
-You can also reward a player who describes a memory or something else occupying the dying character's thoughts with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the Death Save.
+You can also reward a player who describes a memory or something else occupying the dying character's thoughts with [[advantage-xphb|Advantage]] on the Death Save.
 
 When a character dies, either from failed Death Saves or from an effect that kills the character outright, consider giving the player some ownership over the character's final moments by asking what the character's last words are or how the character greets death.
 
@@ -448,7 +448,7 @@ When a character dies, either from failed Death Saves or from an effect that kil
 
 When a character dies, consult with the players to decide what happens next. Some players are perfectly happy to make new characters, especially when they're eager to try out new options. A new party member should start at the same level as the other characters in the party and have gear of similar value.
 
-It's also possible for dead characters to be brought back to life. The most common way is through spells such as [[/03_Mechanics/CLI/spells/revivify-xphb|Revivify]] and [[/03_Mechanics/CLI/spells/raise-dead-xphb|Raise Dead]]. It's up to you to decide how easy it is for characters to access those spells if they can't cast them. The "Player's Handbook" offers suggested prices for [[/03_Mechanics/CLI/tables/spellcasting-services-xphb|spellcasting services]].
+It's also possible for dead characters to be brought back to life. The most common way is through spells such as [[revivify-xphb|Revivify]] and [[raise-dead-xphb|Raise Dead]]. It's up to you to decide how easy it is for characters to access those spells if they can't cast them. The "Player's Handbook" offers suggested prices for [[spellcasting-services-xphb|spellcasting services]].
 
 ### What If Everyone Dies?
 
@@ -472,7 +472,7 @@ The characters wake up in cells, kept alive and imprisoned by their foes for som
 
 #### Raised by Another
 
-A powerful individual finds the adventurers' bodies and has them raised from the dead, putting the adventurers in the debt of their rescuer. What if the adventurers wake up decades after their death, returned to life by a [[/03_Mechanics/CLI/spells/resurrection-xphb|Resurrection]] spell cast by someone who believed they had an important role to play in this future era?
+A powerful individual finds the adventurers' bodies and has them raised from the dead, putting the adventurers in the debt of their rescuer. What if the adventurers wake up decades after their death, returned to life by a [[resurrection-xphb|Resurrection]] spell cast by someone who believed they had an important role to play in this future era?
 
 #### Rescue Mission
 
@@ -486,31 +486,31 @@ Adventurers interact with doors often in a D&D campaign. This section gives rule
 
 The Doors table provides the AC and Hit Points for common doors, which are Medium objects.
 
-With the [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
+With the [[actions#Utilize|Utilize]] action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([[skills#Athletics|Athletics]]) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
 
-![[/03_Mechanics/CLI/tables/doors-xdmg|Doors]]
+![[doors-xdmg|Doors]]
 
 #### Barred Door
 
-A barred door has no lock. A creature on the barred side of the door can take the [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action to lift the bar from its braces, allowing the door to be opened.
+A barred door has no lock. A creature on the barred side of the door can take the [[actions#Utilize|Utilize]] action to lift the bar from its braces, allowing the door to be opened.
 
 #### Locked Door
 
-Characters who don't have the key to a locked door can try to pick the lock using [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' Tools]]. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
+Characters who don't have the key to a locked door can try to pick the lock using [[thieves-tools-xphb|Thieves' Tools]]. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
 
-![[/03_Mechanics/CLI/tables/locked-door-lock-complexity-xdmg|Locked Door; Lock Complexity]]
+![[locked-door-lock-complexity-xdmg|Locked Door; Lock Complexity]]
 
-![[/03_Mechanics/CLI/tables/locked-door-lock-quality-xdmg|Locked Door; Lock Quality]]
+![[locked-door-lock-quality-xdmg|Locked Door; Lock Quality]]
 
 ### Secret Doors
 
 A secret door is crafted to blend into the wall that surrounds it. Sometimes faint cracks in the wall or scuff marks on the floor betray the secret door's presence. Other than the fact that it's hidden, a secret door is similar to a common door.
 
-With the [[/03_Mechanics/CLI/actions#Search|Search]] action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
+With the [[actions#Search|Search]] action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([[skills#Perception|Perception]]) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
 
-You can instead call for an Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See ""Perception"" in "chapter 2" for more advice.
+You can instead call for an Intelligence ([[skills#Investigation|Investigation]]) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See ""Perception"" in "chapter 2" for more advice.
 
-![[/03_Mechanics/CLI/tables/secret-doors-xdmg|Secret Doors]]
+![[secret-doors-xdmg|Secret Doors]]
 
 #### Secret Door Etiquette
 
@@ -518,11 +518,11 @@ Adventurers often fail to locate secret doors. For this reason, don't hide impor
 
 ### Portcullises
 
-Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[/03_Mechanics/CLI/tables/cover-xphb|Three-Quarters Cover]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
+Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[cover-xphb|Three-Quarters Cover]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
 
-Winching a portcullis up or down requires the Utilize action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action and a successful Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
+Winching a portcullis up or down requires the Utilize action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [[actions#Utilize|Utilize]] action and a successful Strength ([[skills#Athletics|Athletics]]) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
-![[/03_Mechanics/CLI/tables/portcullises-xdmg|Portcullises]]
+![[portcullises-xdmg|Portcullises]]
 
 ## Dungeons
 
@@ -530,7 +530,7 @@ Some dungeons are old strongholds abandoned by the folk who built them. Others a
 
 You can use the Dungeon Quirks table to add distinctive character to a dungeon you're creating or one in a published adventure. The quirks on the table reflect the characteristics of a dungeon's creator, its intended purpose, its location, or some (often catastrophic) event in its history. You can use a single quirk or combine quirks as you see fit, and roll or choose a result that inspires you.
 
-![[/03_Mechanics/CLI/tables/dungeons-dungeon-quirks-xdmg|Dungeons; Dungeon Quirks]]
+![[dungeons-dungeon-quirks-xdmg|Dungeons; Dungeon Quirks]]
 
 ### Mapping a Dungeon
 
@@ -588,7 +588,7 @@ Crypt builders who are worried about undead rising from the grave lock and trap 
 
 Sapient, social denizens of the dungeon generally guard the entrances to their shared spaces. A guard post may just be a room with a table where bored sentries play a dice game, or it might be a pair of iron golems backed up by spellcasters hiding in balconies overhead.
 
-When you design a guard post, decide how many guards are on duty, note their [[/03_Mechanics/CLI/variant-rules/passive-perception-xphb|Passive Perception]] scores, and decide what they do when they notice intruders (see ""Monster Behavior"" in "chapter 4"). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
+When you design a guard post, decide how many guards are on duty, note their [[passive-perception-xphb|Passive Perception]] scores, and decide what they do when they notice intruders (see ""Monster Behavior"" in "chapter 4"). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
 
 #### Living Quarters
 
@@ -608,13 +608,13 @@ A vault contains treasure and is usually sealed behind a locked or secret door. 
 
 #### Work Areas
 
-Sapient creatures often have laboratories, workshops, libraries, forges, and studios. Because such areas tend to contain valuable equipment, their doors are often locked and sometimes even warded by [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|Glyph of Warding]] spells and similar effects.
+Sapient creatures often have laboratories, workshops, libraries, forges, and studios. Because such areas tend to contain valuable equipment, their doors are often locked and sometimes even warded by [[glyph-of-warding-xphb|Glyph of Warding]] spells and similar effects.
 
 ### Dungeon Decay
 
 The States of Ruin table can help you determine the general conditions of a dungeon area.
 
-![[/03_Mechanics/CLI/tables/dungeon-decay-states-of-ruin-xdmg|Dungeon Decay; States of Ruin]]
+![[dungeon-decay-states-of-ruin-xdmg|Dungeon Decay; States of Ruin]]
 
 ## Environmental Effects
 
@@ -622,18 +622,18 @@ The States of Ruin table can help you determine the general conditions of a dung
 
 Characters crossing a frigid tundra might suffer the effects of extreme cold, while a visit to a cloud giant's castle might subject characters to the effects of high altitude. The following sections provide rules for handling these and other environmental effects.
 
-- [[/03_Mechanics/CLI/traps-hazards/dead-magic-zone-xdmg|Dead Magic Zone]]  
-- [[/03_Mechanics/CLI/traps-hazards/deep-water-xdmg|Deep Water]]  
-- [[/03_Mechanics/CLI/traps-hazards/extreme-cold-xdmg|Extreme Cold]]  
-- [[/03_Mechanics/CLI/traps-hazards/extreme-heat-xdmg|Extreme Heat]]  
-- [[/03_Mechanics/CLI/traps-hazards/frigid-water-xdmg|Frigid Water]]  
-- [[/03_Mechanics/CLI/traps-hazards/heavy-precipitation-xdmg|Heavy Precipitation]]  
-- [[/03_Mechanics/CLI/traps-hazards/high-altitude-xdmg|High Altitude]]  
-- [[/03_Mechanics/CLI/traps-hazards/planar-effects-xdmg|Planar Effects]]  
-- [[/03_Mechanics/CLI/traps-hazards/slippery-ice-xdmg|Slippery Ice]]  
-- [[/03_Mechanics/CLI/traps-hazards/strong-wind-xdmg|Strong Wind]]  
-- [[/03_Mechanics/CLI/traps-hazards/thin-ice-xdmg|Thin Ice]]  
-- [[/03_Mechanics/CLI/traps-hazards/wild-magic-zone-xdmg|Wild Magic Zone]]  
+- [[dead-magic-zone-xdmg|Dead Magic Zone]]  
+- [[deep-water-xdmg|Deep Water]]  
+- [[extreme-cold-xdmg|Extreme Cold]]  
+- [[extreme-heat-xdmg|Extreme Heat]]  
+- [[frigid-water-xdmg|Frigid Water]]  
+- [[heavy-precipitation-xdmg|Heavy Precipitation]]  
+- [[high-altitude-xdmg|High Altitude]]  
+- [[planar-effects-xdmg|Planar Effects]]  
+- [[slippery-ice-xdmg|Slippery Ice]]  
+- [[strong-wind-xdmg|Strong Wind]]  
+- [[thin-ice-xdmg|Thin Ice]]  
+- [[wild-magic-zone-xdmg|Wild Magic Zone]]  
 
 ## Fear and Mental Stress
 
@@ -643,16 +643,16 @@ If you plan to use any of these rules, discuss them with your players at the sta
 
 ### Fear Effects
 
-Whenever the characters encounter something that is supernaturally frightful, use the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
+Whenever the characters encounter something that is supernaturally frightful, use the [[conditions#Frightened|Frightened]] condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
 
-![[/03_Mechanics/CLI/tables/fear-effects-sample-fear-dcs-xdmg|Fear Effects; Sample Fear DCs]]
+![[fear-effects-sample-fear-dcs-xdmg|Fear Effects; Sample Fear DCs]]
 
-Typically, a [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Typically, a [[conditions#Frightened|Frightened]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
 
-- The Frightened creature must take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action on each of its turns and uses its movement to get farther away from the source of its fear.  
-- Attack rolls against the Frightened creature have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]].  
+- The Frightened creature must take the [[actions#Dash|Dash]] action on each of its turns and uses its movement to get farther away from the source of its fear.  
+- Attack rolls against the Frightened creature have [[advantage-xphb|Advantage]].  
 - The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.  
 
 ### Mental Stress Effects
@@ -661,7 +661,7 @@ When a character is subjected to an effect that causes intense mental stress, Ps
 
 The Sample Mental Stress Effects table provides a few examples of such effects, with suggested saving throw DCs and damage. Mental stress can usually be resisted with a successful Wisdom save, but sometimes an Intelligence or Charisma save is more appropriate. On a successful save, a character might take half as much damage instead of no damage, at your discretion.
 
-![[/03_Mechanics/CLI/tables/sample-mental-stress-effects-xdmg|Sample Mental Stress Effects]]
+![[sample-mental-stress-effects-xdmg|Sample Mental Stress Effects]]
 
 #### Prolonged Effects
 
@@ -669,15 +669,15 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]], [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]], or [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition for `d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[/03_Mechanics/CLI/spells/calm-emotions-xphb|Calm Emotions]] spell or removed by the [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]] spell.
+The character has the [[conditions#Frightened|Frightened]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Stunned|Stunned]] condition for `d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[calm-emotions-xphb|Calm Emotions]] spell or removed by the [[lesser-restoration-xphb|Lesser Restoration]] spell.
 
 ##### Long-Term Effects
 
-The character has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on some or all ability checks for `1d10 × 10` hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the Calm Emotions spell or removed by the Lesser Restoration spell.
+The character has [[disadvantage-xphb|Disadvantage]] on some or all ability checks for `1d10 × 10` hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the Calm Emotions spell or removed by the Lesser Restoration spell.
 
 ##### Indefinite Effects
 
-An indefinite effect is a long-term effect (see above) that lasts until removed by a [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] spell. It can be suppressed by a Calm Emotions spell.
+An indefinite effect is a long-term effect (see above) that lasts until removed by a [[greater-restoration-xphb|Greater Restoration]] spell. It can be suppressed by a Calm Emotions spell.
 
 ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp#center|Fight, flight, or freeze?]]
 
@@ -697,7 +697,7 @@ Some weapons in the Firearms table have the following properties, in addition to
 
 #### Burst Fire
 
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube-area-of-effect-xphb|Cube]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 #### Reload
 
@@ -705,25 +705,25 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 
 #### Ammunition
 
-Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[/03_Mechanics/CLI/items/energy-cell-xdmg|Energy Cell]] weighs 1/2 lb.
+Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[energy-cell-xdmg|Energy Cell]] weighs 1/2 lb.
 
-![[/03_Mechanics/CLI/tables/firearms-xdmg|Firearms]]
+![[firearms-xdmg|Firearms]]
 
-![[/03_Mechanics/CLI/tables/firearms-xdmg|Firearms]]
+![[firearms-xdmg|Firearms]]
 
 ### Explosives
 
 The Explosives table has examples of explosives. If no cost is given for an explosive, it can't typically be bought. If you make these explosives available for purchase, treat them as Rare magic items. Rules for explosives are given below.
 
-![[/03_Mechanics/CLI/tables/explosives-xdmg|Explosives]]
+![[explosives-xdmg|Explosives]]
 
 #### Bomb
 
-As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
 
 #### Dynamite Stick
 
-An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
+An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
 
 It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `d6` (to a maximum of `10d6`) and the effect's radius by 5 feet (to a maximum of 20 feet).
 
@@ -731,23 +731,23 @@ It takes 1 minute to rig dynamite with a longer fuse so it explodes after a long
 
 #### Grenades and Grenade Launchers
 
-As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]].
+As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]].
 
 #### Fragmentation Grenade
 
-Each creature in the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
+Each creature in the [[sphere-area-of-effect-xphb|Sphere]] makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
 
 #### Smoke Grenade
 
-The area of the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] is [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]] spell) disperses the smoke.
+The area of the [[sphere-area-of-effect-xphb|Sphere]] is [[heavily-obscured-xphb|Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[gust-of-wind-xphb|Gust of Wind]] spell) disperses the smoke.
 
 #### Gunpowder
 
-Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
+Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
 
 ### Alien Technology
 
-When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the check or succeeds on the check automatically (your choice).
+When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([[skills#Investigation|Investigation]]) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([[skills#Investigation|Investigation]]) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[advantage-xphb|Advantage]] on the check or succeeds on the check automatically (your choice).
 
 ## Gods and Other Powers
 
@@ -765,7 +765,7 @@ Quasi-deities have a divine origin, but they don't receive or answer prayers. Th
 
 **Demigods** are divine beings with mortal origin. Some were born mortal and attained godhood, while others were born from the union of a deity and a mortal. Their mortal parentage makes demigods.
 
-**Titans** are the creations of deities. They might be manufactured on a divine forge, born from the blood spilled by a god, or otherwise brought about through divine will or substance. Some titans, including [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|krakens]] and the [[/03_Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm|tarrasque]], appear in the "Monster Manual".
+**Titans** are the creations of deities. They might be manufactured on a divine forge, born from the blood spilled by a god, or otherwise brought about through divine will or substance. Some titans, including [[kraken-xmm|krakens]] and the [[tarrasque-xmm|tarrasque]], appear in the "Monster Manual".
 
 **Vestiges** are deities who have lost nearly all their worshipers and are considered dead from a mortal perspective. Esoteric rituals can sometimes contact vestiges and draw on their latent power.
 
@@ -781,11 +781,11 @@ Divine magic—which includes the spells cast by Clerics, Druids, Paladins, and 
 
 For game purposes, wielding divine power isn't dependent on the gods' ongoing approval or the strength of a character's devotion. The power is a gift offered to a select few; once given, it can't be rescinded.
 
-That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin class description]] in the "Player's Handbook" offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears.
+That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The [[paladin-xphb|Paladin class description]] in the "Player's Handbook" offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears.
 
 ### Divine Knowledge
 
-The [[/03_Mechanics/CLI/spells/commune-xphb|Commune]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[/03_Mechanics/CLI/spells/augury-xphb|Augury]] and [[/03_Mechanics/CLI/spells/divination-xphb|Divination]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
+The [[commune-xphb|Commune]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[augury-xphb|Augury]] and [[divination-xphb|Divination]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
 
 ### Divine Intervention
 
@@ -825,7 +825,7 @@ Cities and large towns can host numerous temples dedicated to individual gods im
 
 ## Hazards
 
-The "Player's Handbook" describes common hazards that adventurers encounter, such as [[/03_Mechanics/CLI/traps-hazards/falling-xphb|falling]] and [[/03_Mechanics/CLI/traps-hazards/dehydration-xphb|dehydration]]. This section details some more unusual hazards you can add to a location to make it more challenging.
+The "Player's Handbook" describes common hazards that adventurers encounter, such as [[falling-xphb|falling]] and [[dehydration-xphb|dehydration]]. This section details some more unusual hazards you can add to a location to make it more challenging.
 
 ### Severity and Level
 
@@ -837,18 +837,18 @@ Use caution when introducing a hazard to characters of a level lower than the ha
 
 Hazards are presented in alphabetical order.
 
-- [[/03_Mechanics/CLI/traps-hazards/brown-mold-xdmg|Brown Mold]]  
-- [[/03_Mechanics/CLI/traps-hazards/fireball-fungus-xdmg|Fireball Fungus]]  
-- [[/03_Mechanics/CLI/traps-hazards/green-slime-xdmg|Green Slime]]  
-- [[/03_Mechanics/CLI/traps-hazards/inferno-xdmg|Inferno]]  
-- [[/03_Mechanics/CLI/traps-hazards/poisonous-gas-xdmg|Poisonous Gas]]  
-- [[/03_Mechanics/CLI/traps-hazards/quicksand-pit-xdmg|Quicksand Pit]]  
-- [[/03_Mechanics/CLI/traps-hazards/razorvine-xdmg|Razorvine]]  
-- [[/03_Mechanics/CLI/traps-hazards/river-styx-xdmg|River Styx]]  
-- [[/03_Mechanics/CLI/traps-hazards/rockslide-xdmg|Rockslide]]  
-- [[/03_Mechanics/CLI/traps-hazards/vicious-vine-xdmg|Vicious Vine]]  
-- [[/03_Mechanics/CLI/traps-hazards/webs-xdmg|Webs]]  
-- [[/03_Mechanics/CLI/traps-hazards/yellow-mold-xdmg|Yellow Mold]]  
+- [[brown-mold-xdmg|Brown Mold]]  
+- [[fireball-fungus-xdmg|Fireball Fungus]]  
+- [[green-slime-xdmg|Green Slime]]  
+- [[inferno-xdmg|Inferno]]  
+- [[poisonous-gas-xdmg|Poisonous Gas]]  
+- [[quicksand-pit-xdmg|Quicksand Pit]]  
+- [[razorvine-xdmg|Razorvine]]  
+- [[river-styx-xdmg|River Styx]]  
+- [[rockslide-xdmg|Rockslide]]  
+- [[vicious-vine-xdmg|Vicious Vine]]  
+- [[webs-xdmg|Webs]]  
+- [[yellow-mold-xdmg|Yellow Mold]]  
 
 ![](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/035-02-015-spiders.webp#center)
 
@@ -864,7 +864,7 @@ A fortification is a reward usually given to seasoned adventurers who demonstrat
 
 The individual bequeathing the fortification might offer to pay its maintenance costs for one or more months, after which the characters inherit that responsibility. The type of fortification determines its maintenance costs, as shown in the Maintenance Costs table.
 
-![[/03_Mechanics/CLI/tables/fortifications-maintenance-costs-xdmg|Fortifications; Maintenance Costs]]
+![[fortifications-maintenance-costs-xdmg|Fortifications; Maintenance Costs]]
 
 ### Letters of Recommendation
 
@@ -932,36 +932,36 @@ Follow these tips to smooth a combat encounter with a large number of monsters:
 
 ### Average Results
 
-Whenever you would otherwise make a number of [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]] for identical monsters, the Mob Results table can help you determine the number of successful [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]] the monsters get without having to roll dice. Follow these steps:
+Whenever you would otherwise make a number of [[d20-test-xphb|D20 Tests]] for identical monsters, the Mob Results table can help you determine the number of successful [[d20-test-xphb|D20 Tests]] the monsters get without having to roll dice. Follow these steps:
 
-- **Step 1.** Determine the minimum `d20` roll the monsters need to succeed on the [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]] using the following formula:  
+- **Step 1.** Determine the minimum `d20` roll the monsters need to succeed on the [[d20-test-xphb|D20 Test]] using the following formula:  
 
 **Roll needed** = target number−monster's bonus
 
-- **Step 2.** Find the roll needed on the Mob Results table. If all the monsters have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] (for example, if they're attacking a creature protected by the [[/03_Mechanics/CLI/spells/blur-xphb|Blur]] spell), use the With Disadvantage column. Otherwise, use the Normal column.  
-- **Step 3.** Read across the table to find a fractional number of successes you can easily apply to the group of monsters. That's the fraction of monsters that succeed on the [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]].  
+- **Step 2.** Find the roll needed on the Mob Results table. If all the monsters have [[advantage-xphb|Advantage]] on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have [[disadvantage-xphb|Disadvantage]] (for example, if they're attacking a creature protected by the [[blur-xphb|Blur]] spell), use the With Disadvantage column. Otherwise, use the Normal column.  
+- **Step 3.** Read across the table to find a fractional number of successes you can easily apply to the group of monsters. That's the fraction of monsters that succeed on the [[d20-test-xphb|D20 Test]].  
 
-![[/03_Mechanics/CLI/tables/average-results-mob-results-xdmg|Average Results; Mob Results]]
+![[average-results-mob-results-xdmg|Average Results; Mob Results]]
 
 ### Adjudicating Areas of Effect
 
-When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]] spell or some other area of effect?
+When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's [[fireball-xphb|Fireball]] spell or some other area of effect?
 
 The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `d3`. If they're bunched up, you can increase the number by `d3`. Of course, an area can't encompass more creatures than are present in an encounter.
 
-Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[/03_Mechanics/CLI/spells/shatter-xphb|Shatter]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] includes only three creatures.
+Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[shatter-xphb|Shatter]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]] includes only three creatures.
 
-![[/03_Mechanics/CLI/tables/adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg|Adjudicating Areas of Effect; Targets in Area of Effect]]
+![[adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg|Adjudicating Areas of Effect; Targets in Area of Effect]]
 
 ### Examples
 
 The following scenario shows examples of how you as the DM can apply the guidelines described in the rest of this section.
 
-Eight [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombies]] surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18−3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
+Eight [[zombie-xmm|Zombies]] surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18−3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
 
-After seeing the Fighter mauled by zombies, the Bard casts [[/03_Mechanics/CLI/spells/shatter-xphb|Shatter]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
+After seeing the Fighter mauled by zombies, the Bard casts [[shatter-xphb|Shatter]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
-Seeing a larger crowd of zombies in the distance, the Wizard casts [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]]. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
+Seeing a larger crowd of zombies in the distance, the Wizard casts [[fireball-xphb|Fireball]]. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
 ## Nonplayer Characters
 
@@ -979,17 +979,17 @@ Flesh out NPCs who play prominent roles in your adventures. You can use the acco
 
 You'll need a name for any NPC who plays a prominent role in your campaign. You can pick a given name and a surname from any of the accompanying tables; a name can include options from different tables. If you like, you can roll `d6` to determine which table to choose a name from, then roll `d12` to get a name. You can also alter or combine names, pull from a book of names, or use a name inspired by a movie or book.
 
-![[/03_Mechanics/CLI/tables/1-common-names-xdmg|1: Common Names]]
+![[1-common-names-xdmg|1: Common Names]]
 
-![[/03_Mechanics/CLI/tables/2-guttural-names-xdmg|2: Guttural Names]]
+![[2-guttural-names-xdmg|2: Guttural Names]]
 
-![[/03_Mechanics/CLI/tables/3-lyrical-names-xdmg|3: Lyrical Names]]
+![[3-lyrical-names-xdmg|3: Lyrical Names]]
 
-![[/03_Mechanics/CLI/tables/4-monosyllabic-names-xdmg|4: Monosyllabic Names]]
+![[4-monosyllabic-names-xdmg|4: Monosyllabic Names]]
 
-![[/03_Mechanics/CLI/tables/5-sinister-names-xdmg|5: Sinister Names]]
+![[5-sinister-names-xdmg|5: Sinister Names]]
 
-![[/03_Mechanics/CLI/tables/6-whimsical-names-xdmg|6: Whimsical Names]]
+![[6-whimsical-names-xdmg|6: Whimsical Names]]
 
 #### Stat Block
 
@@ -999,25 +999,25 @@ Choose a stat block from the "Monster Manual" to represent the NPC's game statis
 
 #### Alignment
 
-Choose the NPC's [[/03_Mechanics/CLI/variant-rules/alignment-xphb|alignment]], which can help you sketch the outlines of an NPC's behavior and personality. See the "Player's Handbook" and ""Alignment"" in this chapter for more information.
+Choose the NPC's [[alignment-xphb|alignment]], which can help you sketch the outlines of an NPC's behavior and personality. See the "Player's Handbook" and ""Alignment"" in this chapter for more information.
 
 #### Personality
 
 With the NPC's alignment and ability scores as a starting point, use the guidelines in the "Player's Handbook" to pick a few words that describe the NPC's personality. You can choose or randomly determine one personality trait associated with each element of the NPC's alignment, or with the NPC's highest and lowest ability scores, and combine them to inspire a persona.
 
-For example, if you find the adventurers unexpectedly arguing with a Lawful Neutral guard, you might create a cooperative but laconic guard who is happy to help the adventurers but speaks curtly, hoping to end the conversation as quickly as possible. Or, looking at the [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|Imp]] stat block in the "Player's Handbook" and noting its highest ability (Dexterity) and its lowest (Strength), you might decide that the little devil is fidgety and indirect, constantly on the move and talking in circles to get to its point
+For example, if you find the adventurers unexpectedly arguing with a Lawful Neutral guard, you might create a cooperative but laconic guard who is happy to help the adventurers but speaks curtly, hoping to end the conversation as quickly as possible. Or, looking at the [[imp-xmm|Imp]] stat block in the "Player's Handbook" and noting its highest ability (Dexterity) and its lowest (Strength), you might decide that the little devil is fidgety and indirect, constantly on the move and talking in circles to get to its point
 
 #### Appearance
 
 Briefly describe the NPC's most distinctive physical features. You can start with the basics—skin, hair, and eye colors, as well as the NPC's species. The NPC Appearance table can also help you identify one or two things that stand out about the character's appearance.
 
-![[/03_Mechanics/CLI/tables/npc-appearance-xdmg|NPC Appearance]]
+![[npc-appearance-xdmg|NPC Appearance]]
 
 #### Secret
 
 Describe a secret the NPC is trying to hide or protect. The NPC Secrets table provides several ideas.
 
-![[/03_Mechanics/CLI/tables/npc-secrets-xdmg|NPC Secrets]]
+![[npc-secrets-xdmg|NPC Secrets]]
 
 ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/039-02-019-npc-tracker-sheet.webp#center|Download PDF]]
 
@@ -1043,7 +1043,7 @@ Here are some NPC archetypes that work well as supporting characters in an adven
 - **Comic Relief.** A comic relief NPC helps lighten the mood of an adventure or game session, perhaps with an occasional display of ineptness or a gift for puns.  
 - **Curmudgeon.** A curmudgeon NPC is quick to complain humorously about the characters' terrible choices and bad planning. You can occasionally use this NPC to suggest legitimate courses of action or share insights.  
 - **Dutiful Assistant.** A dutiful assistant NPC is good at carrying equipment and looking after the party's horses and other belongings. Such an NPC might be entirely devoted to their duty, or they might be using this easily overlooked position to pursue goals of their own.  
-- **Milquetoast Healer.** Absent a healer of their own, the characters might love an NPC healer whose personality matters less than the healer's devotion to the party and ability to cast [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]] or [[/03_Mechanics/CLI/spells/revivify-xphb|Revivify]] when needed.  
+- **Milquetoast Healer.** Absent a healer of their own, the characters might love an NPC healer whose personality matters less than the healer's devotion to the party and ability to cast [[cure-wounds-xphb|Cure Wounds]] or [[revivify-xphb|Revivify]] when needed.  
 - **Walking Textbook.** A walking textbook NPC is knowledgeable about a particular field of expertise and can be a useful source of information, but they can't be relied on to make wise decisions or hold up their end in battle.  
 - **Wallflower Warrior.** A wallflower warrior NPC is good at fading into the background, doesn't usually chat or engage unless approached, and eagerly avoids the spotlight. Their primary purpose is to give monsters another target to attack.  
 
@@ -1073,7 +1073,7 @@ An NPC with a Loyalty Score of 10 or higher risks anything to help fellow party 
 
 ##### Crew Loyalty and Mutiny
 
-If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [[hostile-attitude-xphb|Hostile]] and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
 
 ## Poison
 
@@ -1084,8 +1084,8 @@ Given their insidious and deadly nature, poisons are a favorite tool among assas
 Poisons come in the following four types:
 
 - **Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.  
-- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the saving throw or dealing only half as much damage on a failed save.  
-- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
+- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[advantage-xphb|Advantage]] on the saving throw or dealing only half as much damage on a failed save.  
+- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[cube-area-of-effect-xphb|Cube]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
 - **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.  
 
 ### Purchasing Poison
@@ -1094,26 +1094,26 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition. The effort takes `d6` minutes, after which the character makes a DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check using a [[/03_Mechanics/CLI/items/poisoners-kit-xphb|Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [[conditions#Incapacitated|Incapacitated]] condition. The effort takes `d6` minutes, after which the character makes a DC 20 Intelligence ([[skills#Nature|Nature]]) check using a [[poisoners-kit-xphb|Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ### Sample Poisons
 
 Example poisons are detailed here in alphabetical order. Each poison's description includes the suggested price for a single dose of the poison, its type (contact, ingested, inhaled, or injury), and a description of the poison's debilitating effects.
 
-- [[/03_Mechanics/CLI/items/assassins-blood-xdmg|Assassin's Blood]]  
-- [[/03_Mechanics/CLI/items/burnt-othur-fumes-xdmg|Burnt Othur Fumes]]  
-- [[/03_Mechanics/CLI/items/carrion-crawler-mucus-xdmg|Carrion Crawler Mucus]]  
-- [[/03_Mechanics/CLI/items/essence-of-ether-xdmg|Essence of Ether]]  
-- [[/03_Mechanics/CLI/items/lolths-sting-xdmg|Lolth's Sting]]  
-- [[/03_Mechanics/CLI/items/malice-xdmg|Malice]]  
-- [[/03_Mechanics/CLI/items/midnight-tears-xdmg|Midnight Tears]]  
-- [[/03_Mechanics/CLI/items/oil-of-taggit-xdmg|Oil of Taggit]]  
-- [[/03_Mechanics/CLI/items/pale-tincture-xdmg|Pale Tincture]]  
-- [[/03_Mechanics/CLI/items/purple-worm-poison-xdmg|Purple Worm Poison]]  
-- [[/03_Mechanics/CLI/items/serpent-venom-xdmg|Serpent Venom]]  
-- [[/03_Mechanics/CLI/items/torpor-xdmg|Torpor]]  
-- [[/03_Mechanics/CLI/items/truth-serum-xdmg|Truth Serum]]  
-- [[/03_Mechanics/CLI/items/wyvern-poison-xdmg|Wyvern Poison]]  
+- [[assassins-blood-xdmg|Assassin's Blood]]  
+- [[burnt-othur-fumes-xdmg|Burnt Othur Fumes]]  
+- [[carrion-crawler-mucus-xdmg|Carrion Crawler Mucus]]  
+- [[essence-of-ether-xdmg|Essence of Ether]]  
+- [[lolths-sting-xdmg|Lolth's Sting]]  
+- [[malice-xdmg|Malice]]  
+- [[midnight-tears-xdmg|Midnight Tears]]  
+- [[oil-of-taggit-xdmg|Oil of Taggit]]  
+- [[pale-tincture-xdmg|Pale Tincture]]  
+- [[purple-worm-poison-xdmg|Purple Worm Poison]]  
+- [[serpent-venom-xdmg|Serpent Venom]]  
+- [[torpor-xdmg|Torpor]]  
+- [[truth-serum-xdmg|Truth Serum]]  
+- [[wyvern-poison-xdmg|Wyvern Poison]]  
 
 ## Renown
 
@@ -1156,7 +1156,7 @@ Disagreements with members of a group aren't enough to cause a loss of renown wi
 
 If you want to use the benefits of renown without tracking Renown Scores, you can use a character's level as a shorthand for the character's Renown Score with a group, assuming the character has worked with or for that group for most of the character's career. The Level-Based Renown table shows equivalencies between Renown Score and character level.
 
-![[/03_Mechanics/CLI/tables/level-based-renown-xdmg|Level-Based Renown]]
+![[level-based-renown-xdmg|Level-Based Renown]]
 
 ## Settlements
 
@@ -1164,9 +1164,9 @@ If you want to use the benefits of renown without tracking Renown Scores, you ca
 
 Your campaign world is likely to include settlements that characters can visit. The characters might even adopt one of these settlements as a home base, in or near which they can build their Bastions when they are of high enough level to do so (see "chapter 8").
 
-The Settlements by Size table provides population ranges for villages, towns, and cities as well as the value of the most expensive item the settlement is likely to have for sale. Adjust these numbers as you wish to account for special circumstances. For example, a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]] (which costs 50 GP) is too expensive an item to purchase in most villages, but a village that happens to have an alchemist, an herbalist, or a potion brewer might have one or more such potions for sale.
+The Settlements by Size table provides population ranges for villages, towns, and cities as well as the value of the most expensive item the settlement is likely to have for sale. Adjust these numbers as you wish to account for special circumstances. For example, a [[potion-of-healing-xdmg|Potion of Healing]] (which costs 50 GP) is too expensive an item to purchase in most villages, but a village that happens to have an alchemist, an herbalist, or a potion brewer might have one or more such potions for sale.
 
-![[/03_Mechanics/CLI/tables/settlements-by-size-xdmg|Settlements by Size]]
+![[settlements-by-size-xdmg|Settlements by Size]]
 
 > [!note] Do I Need a Settlement Map?
 > 
@@ -1179,17 +1179,17 @@ The Settlements by Size table provides population ranges for villages, towns, an
 
 The following tables allow you to flesh out details about a settlement. You can use the accompanying Settlement Tracker to record important information about a village, town, or city in your campaign.
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-defining-traits-xdmg|Settlement Tables and Tracker; Defining Traits]]
+![[settlement-tables-and-tracker-defining-traits-xdmg|Settlement Tables and Tracker; Defining Traits]]
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-claims-to-fame-xdmg|Settlement Tables and Tracker; Claims to Fame]]
+![[settlement-tables-and-tracker-claims-to-fame-xdmg|Settlement Tables and Tracker; Claims to Fame]]
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-current-calamities-xdmg|Settlement Tables and Tracker; Current Calamities]]
+![[settlement-tables-and-tracker-current-calamities-xdmg|Settlement Tables and Tracker; Current Calamities]]
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-local-leaders-xdmg|Settlement Tables and Tracker; Local Leaders]]
+![[settlement-tables-and-tracker-local-leaders-xdmg|Settlement Tables and Tracker; Local Leaders]]
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-tavern-names-xdmg|Settlement Tables and Tracker; Tavern Names]]
+![[settlement-tables-and-tracker-tavern-names-xdmg|Settlement Tables and Tracker; Tavern Names]]
 
-![[/03_Mechanics/CLI/tables/settlement-tables-and-tracker-random-shops-xdmg|Settlement Tables and Tracker; Random Shops]]
+![[settlement-tables-and-tracker-random-shops-xdmg|Settlement Tables and Tracker; Random Shops]]
 
 ![](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/043-02-023-flagon-with-coins.webp#center)
 
@@ -1199,15 +1199,15 @@ The following tables allow you to flesh out details about a settlement. You can 
 
 Siege equipment includes objects designed to assail castles and other walled fortifications. Most siege weapons require creatures to move them, as well as to load, aim, and fire them.
 
-- [[/03_Mechanics/CLI/objects/ballista-xdmg|Ballista]]  
-- [[/03_Mechanics/CLI/objects/cannon-xdmg|Cannon]]  
-- [[/03_Mechanics/CLI/objects/flamethrower-coach-xdmg|Flamethrower Coach]]  
-- [[/03_Mechanics/CLI/objects/lightning-cannon-xdmg|Lightning Cannon]]  
-- [[/03_Mechanics/CLI/objects/mangonel-xdmg|Mangonel]]  
-- [[/03_Mechanics/CLI/objects/ram-xdmg|Ram]]  
-- [[/03_Mechanics/CLI/objects/siege-tower-xdmg|Siege Tower]]  
-- [[/03_Mechanics/CLI/objects/suspended-cauldron-xdmg|Suspended Cauldron]]  
-- [[/03_Mechanics/CLI/objects/trebuchet-xdmg|Trebuchet]]  
+- [[ballista-xdmg|Ballista]]  
+- [[cannon-xdmg|Cannon]]  
+- [[flamethrower-coach-xdmg|Flamethrower Coach]]  
+- [[lightning-cannon-xdmg|Lightning Cannon]]  
+- [[mangonel-xdmg|Mangonel]]  
+- [[ram-xdmg|Ram]]  
+- [[siege-tower-xdmg|Siege Tower]]  
+- [[suspended-cauldron-xdmg|Suspended Cauldron]]  
+- [[trebuchet-xdmg|Trebuchet]]  
 
 ## Supernatural Gifts
 
@@ -1238,13 +1238,13 @@ There is no limit on the number of Blessings a character can receive, but it sho
 
 You can easily create more Blessings by mimicking the properties of a Wondrous Item.
 
-- [[/03_Mechanics/CLI/rewards/blessing-of-health-xdmg|Blessing of Health]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-magic-resistance-xdmg|Blessing of Magic Resistance]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-protection-xdmg|Blessing of Protection]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-understanding-xdmg|Blessing of Understanding]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-valhalla-xdmg|Blessing of Valhalla]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-weapon-enhancement-xdmg|Blessing of Weapon Enhancement]]  
-- [[/03_Mechanics/CLI/rewards/blessing-of-wound-closure-xdmg|Blessing of Wound Closure]]  
+- [[blessing-of-health-xdmg|Blessing of Health]]  
+- [[blessing-of-magic-resistance-xdmg|Blessing of Magic Resistance]]  
+- [[blessing-of-protection-xdmg|Blessing of Protection]]  
+- [[blessing-of-understanding-xdmg|Blessing of Understanding]]  
+- [[blessing-of-valhalla-xdmg|Blessing of Valhalla]]  
+- [[blessing-of-weapon-enhancement-xdmg|Blessing of Weapon Enhancement]]  
+- [[blessing-of-wound-closure-xdmg|Blessing of Wound Closure]]  
 
 ### Charms
 
@@ -1252,17 +1252,17 @@ Charms can be received in many different ways. For example, a Wizard who finds a
 
 Some Charms can be used only once; others can be used a specific number of times before vanishing. If a Charm lets a character cast a spell, the character can do so without expending a spell slot or providing any spell components. Unless otherwise stated, the spell uses its normal casting time, range, and duration; if the spell requires Concentration, the character must concentrate.
 
-A Charm can't be removed from a creature by anything short of divine intervention or a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] spell. A character can't benefit from multiple instances of a Charm at the same time.
+A Charm can't be removed from a creature by anything short of divine intervention or a [[wish-xphb|Wish]] spell. A character can't benefit from multiple instances of a Charm at the same time.
 
 A typical Charm mimics the effects of a Potion or spell, so it is easy to create more Charms of your own.
 
-- [[/03_Mechanics/CLI/rewards/charm-of-animal-conjuring-xdmg|Charm of Animal Conjuring]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-darkvision-xdmg|Charm of Darkvision]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-feather-falling-xdmg|Charm of Feather Falling]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-heroism-xdmg|Charm of Heroism]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-restoration-xdmg|Charm of Restoration]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-the-slayer-xdmg|Charm of the Slayer]]  
-- [[/03_Mechanics/CLI/rewards/charm-of-vitality-xdmg|Charm of Vitality]]  
+- [[charm-of-animal-conjuring-xdmg|Charm of Animal Conjuring]]  
+- [[charm-of-darkvision-xdmg|Charm of Darkvision]]  
+- [[charm-of-feather-falling-xdmg|Charm of Feather Falling]]  
+- [[charm-of-heroism-xdmg|Charm of Heroism]]  
+- [[charm-of-restoration-xdmg|Charm of Restoration]]  
+- [[charm-of-the-slayer-xdmg|Charm of the Slayer]]  
+- [[charm-of-vitality-xdmg|Charm of Vitality]]  
 
 ## Traps
 
@@ -1284,14 +1284,14 @@ Use caution when introducing a trap to characters of a level lower than the trap
 
 Traps are presented in alphabetical order.
 
-- [[/03_Mechanics/CLI/traps-hazards/collapsing-roof-xdmg|Collapsing Roof]]  
-- [[/03_Mechanics/CLI/traps-hazards/falling-net-xdmg|Falling Net]]  
-- [[/03_Mechanics/CLI/traps-hazards/fire-casting-statue-xdmg|Fire-Casting Statue]]  
-- [[/03_Mechanics/CLI/traps-hazards/hidden-pit-xdmg|Hidden Pit]]  
-- [[/03_Mechanics/CLI/traps-hazards/poisoned-darts-xdmg|Poisoned Darts]]  
-- [[/03_Mechanics/CLI/traps-hazards/poisoned-needle-xdmg|Poisoned Needle]]  
-- [[/03_Mechanics/CLI/traps-hazards/rolling-stone-xdmg|Rolling Stone]]  
-- [[/03_Mechanics/CLI/traps-hazards/spiked-pit-xdmg|Spiked Pit]]  
+- [[collapsing-roof-xdmg|Collapsing Roof]]  
+- [[falling-net-xdmg|Falling Net]]  
+- [[fire-casting-statue-xdmg|Fire-Casting Statue]]  
+- [[hidden-pit-xdmg|Hidden Pit]]  
+- [[poisoned-darts-xdmg|Poisoned Darts]]  
+- [[poisoned-needle-xdmg|Poisoned Needle]]  
+- [[rolling-stone-xdmg|Rolling Stone]]  
+- [[spiked-pit-xdmg|Spiked Pit]]  
 
 ### Building Your Own Traps
 
@@ -1299,7 +1299,7 @@ When designing your own traps, use the Building a Trap table to determine an app
 
 If the trap requires an attack roll or allows a saving throw, use the appropriate columns on the table to determine the attack bonus or an appropriate save DC.
 
-![[/03_Mechanics/CLI/tables/building-your-own-traps-building-a-trap-xdmg|Building Your Own Traps; Building a Trap]]
+![[building-your-own-traps-building-a-trap-xdmg|Building Your Own Traps; Building a Trap]]
 
 ## Player-Facing Summary
 

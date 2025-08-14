@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-duke-blackwater-s-estate-duke-blackwater-s-estate.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duke-blackwater-s-estate-duke-blackwater-s-estate.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duke Blackwater's Estate]]
+- [[Duke Blackwater's Estate]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[Quest - The Pretender]]

@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
+- [[Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Rewrite the World Order]]
+- [[12_Research/D&D_References/Rewrite the World Order]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

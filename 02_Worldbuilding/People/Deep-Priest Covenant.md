@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-deep-priest-covenant.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-deep-priest-covenant.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Deep-Priest Covenant]]
+- [[Deep-Priest Covenant]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[The Restoration Movement]]

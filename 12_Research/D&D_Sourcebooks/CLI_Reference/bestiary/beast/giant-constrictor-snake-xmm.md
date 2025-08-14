@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-constrictor-snake-xmm-giant-constrictor-snake-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-constrictor-snake-xmm|Giant Constrictor Snake]]
+# [[giant-constrictor-snake-xmm|Giant Constrictor Snake]]
 *Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Constrictor Snake (XMM)"
@@ -53,7 +53,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "blindsight 10 ft., passive Perception 12"
 "languages": ""
@@ -65,7 +65,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
   - "desc": "Strength Saving Throw: DC 14, one Large or smaller creature the snake\
       \ can see within 10 feet. Failure: 13 (2d8 + 4) Bludgeoning damage, and the\
-      \ target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition\
+      \ target has the [[conditions#Grappled|Grappled]] condition\
       \ (escape DC 14)."
     "name": "Constrict"
 "source":

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-thundercall-keeper-thundercall.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

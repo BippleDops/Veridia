@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

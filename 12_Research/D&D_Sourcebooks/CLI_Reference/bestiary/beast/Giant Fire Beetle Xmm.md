@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-fire-beetle-xmm-giant-fire-beetle-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-fire-beetle-xmm|Giant Fire Beetle]]
+# [[giant-fire-beetle-xmm|Giant Fire Beetle]]
 *Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Fire Beetle (XMM)"
@@ -57,8 +57,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The beetle sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The beetle sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

@@ -57,7 +57,7 @@ world: Both
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon.
 
-The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]]. For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]]. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
+The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [[armor-class-xphb|Armor Class]]. For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [[armor-class-xphb|Armor Class]]. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
 
 **Variants**:
 - [Defender Battleaxe](#Defender%20Battleaxe)
@@ -94,20 +94,20 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Defender Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Defender Flail
@@ -118,58 +118,58 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Defender Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Defender Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Defender Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Defender Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Defender Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Defender Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Longsword
@@ -177,7 +177,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Defender Mace
@@ -188,7 +188,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Defender Morningstar
@@ -199,7 +199,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Defender Quarterstaff
@@ -207,31 +207,31 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Defender Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Defender Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Spear
@@ -240,7 +240,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Defender Trident
@@ -249,7 +249,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Defender War Pick
@@ -257,7 +257,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Defender Warhammer
@@ -265,13 +265,13 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Defender Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 

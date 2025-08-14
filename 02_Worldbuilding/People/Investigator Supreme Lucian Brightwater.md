@@ -15,8 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg]]
 
 
 # Investigator Supreme Lucian Brightwater
@@ -29,7 +28,7 @@ world: Aquabyssos
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/Master Index]]
+- [[Master Index]]
 
 ## References
 

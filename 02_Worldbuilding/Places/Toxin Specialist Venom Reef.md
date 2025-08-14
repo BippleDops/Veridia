@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-toxin-specialist-venom-reef.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-toxin-specialist-venom-reef.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ]]
 
 ## Player-Facing Summary
 

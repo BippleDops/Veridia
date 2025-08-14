@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-environmental-monitor-reef-ecowatch.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-environmental-monitor-reef-ecowatch.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Environmental Monitor Reef Ecowatch]]
+- [[Environmental Monitor Reef Ecowatch]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[The Deep Harvest]]

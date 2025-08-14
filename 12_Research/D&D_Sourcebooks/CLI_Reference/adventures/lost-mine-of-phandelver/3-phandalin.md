@@ -176,7 +176,7 @@ The proprietor is Elmar Barthen, a lean and balding human male shopkeeper of fif
 
 ### Delivering the Supplies
 
-If the characters began play with the "Meet Me in Phandalin" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Barthen pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell him of [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]'s capture, Barthen is saddened by the news and encourages the party to find and rescue the dwarf. He considers Gundren a friend and was excited by talk of discovering the lost mine of the Phandelver's Pact in the nearby hills. If the party hasn't already learned details of the mine from [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], a character who succeeds on a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#History|History]]) check can relate the information from the first two paragraphs of the "Background" section at the start of the adventure.
+If the characters began play with the "Meet Me in Phandalin" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Barthen pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell him of [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]]'s capture, Barthen is saddened by the news and encourages the party to find and rescue the dwarf. He considers Gundren a friend and was excited by talk of discovering the lost mine of the Phandelver's Pact in the nearby hills. If the party hasn't already learned details of the mine from [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], a character who succeeds on a DC 15 Intelligence ([[skills#History|History]]) check can relate the information from the first two paragraphs of the "Background" section at the start of the adventure.
 
 Barthen also mentions that two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town. Barthen hasn't seen them in a tenday and expects the brothers to return "any day now" to resupply. What Barthen doesn't know is that Tharden is dead and Nundro is a prisoner in the mine. See part 4, the "Wave Echo Cave" section, for more information.
 
@@ -227,7 +227,7 @@ Halia doesn't know the location of Cragmaw Castle, but she has heard that the Re
 
 ### Quest: Halia's Job Offer
 
-If approached by characters she believes she can control, Halia explains that the Redbrands are a problem. She tells how the ruffians loiter around the Sleeping Giant tap house and have a base under Tresendar Manor, on the east edge of town. She then offers the characters 100 gp to eliminate the Redbrand leader, whom the outlaws call Glasstaff, and bring her any correspondence found in the leader's quarters. Halia doesn't reveal that she wants to take over the Redbrand operation herself. A DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check indicates she has ulterior motives for wanting the Redbrand leader dead.
+If approached by characters she believes she can control, Halia explains that the Redbrands are a problem. She tells how the ruffians loiter around the Sleeping Giant tap house and have a base under Tresendar Manor, on the east edge of town. She then offers the characters 100 gp to eliminate the Redbrand leader, whom the outlaws call Glasstaff, and bring her any correspondence found in the leader's quarters. Halia doesn't reveal that she wants to take over the Redbrand operation herself. A DC 15 Wisdom ([[skills#Insight|Insight]]) check indicates she has ulterior motives for wanting the Redbrand leader dead.
 
 ### Joining the Zhentarim
 
@@ -334,13 +334,13 @@ If the Redbrands confront the characters in the street, read:
 > "Time for you to move on, strangers. Give us your stuff, and be on your way."
 ^redbrand-ruffian
 
-Continue the insults and baiting as long as you like. The Redbrands attack in a round or two if the characters don't. Neither side is [[/03_Mechanics/CLI/conditions#Surprised|surprised]], because it's obvious that a fight is brewing.
+Continue the insults and baiting as long as you like. The Redbrands attack in a round or two if the characters don't. Neither side is [[conditions#Surprised|surprised]], because it's obvious that a fight is brewing.
 
 The group consists of four [[/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand ruffians]]. If three of them are defeated, the last one flees toward Tresendar Manor.
 
 ### Developments
 
-Redbrands who are captured or [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the characters can impart useful information. (See the "What the Redbrands Know" in the link below.) Townmaster Harbin Wester won't want to keep Redbrand prisoners until he knows the whole gang has been defeated, but the characters can easily persuade or intimidate him into locking up any prisoners they capture for at least a few days.
+Redbrands who are captured or [[conditions#Charmed|charmed]] by the characters can impart useful information. (See the "What the Redbrands Know" in the link below.) Townmaster Harbin Wester won't want to keep Redbrand prisoners until he knows the whole gang has been defeated, but the characters can easily persuade or intimidate him into locking up any prisoners they capture for at least a few days.
 
 If the characters kill the ruffians, most members of the town are grateful. One exception is the townmaster, who fears Redbrand retaliation. Harbin doesn't punish the characters but warns them not to cause trouble.
 
@@ -374,13 +374,13 @@ Passages and chambers are 10 feet high unless otherwise indicated.
 
 All doors are made of wood with iron handles, hinges, and built-in locks. They are unlocked unless the text states otherwise. Iarno Albrek (12) and a bugbear named Mosk (9) each carry an iron key that can lock or unlock every door in the complex.
 
-A locked door can be picked with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. A door can also be broken down with a successful DC 20 Strength check.
+A locked door can be picked with [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. A door can also be broken down with a successful DC 20 Strength check.
 
 #### Secret Doors
 
 An "S" on the Redbrand Hideout map indicates the location of a secret door.
 
-Secret doors are made of stone and blend in with the surrounding walls. Spotting a secret door from a distance of no more than 10 feet without actively searching for it requires a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher, whereas a character who takes the time to search the wall can find the secret door with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Secret doors swing open on hidden iron hinges and are not locked.
+Secret doors are made of stone and blend in with the surrounding walls. Spotting a secret door from a distance of no more than 10 feet without actively searching for it requires a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher, whereas a character who takes the time to search the wall can find the secret door with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. Secret doors swing open on hidden iron hinges and are not locked.
 
 #### Light
 
@@ -414,7 +414,7 @@ The barrels contain salted pork and beef, flour, sugar, apples, and ale. Moving 
 
 This rectangular reservoir is clean and filled with cold, fresh water. It is 10 feet deep with a rim 2 feet higher than the surrounding floor (so that the bottom of the cistern is 8 feet below the floor). Drain pipes from the roof of the old manor above fill the cistern with water.
 
-A waterproof satchel hangs from a submerged rope attached along the south wall of the cistern, about 2 feet below the surface of the water. It's not visible from above the water, but can be found with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check or automatically by a character probing the cistern with a pole or jumping in. The satchel contains some valuable items (see the "Treasure" section).
+A waterproof satchel hangs from a submerged rope attached along the south wall of the cistern, about 2 feet below the surface of the water. It's not visible from above the water, but can be found with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check or automatically by a character probing the cistern with a pole or jumping in. The satchel contains some valuable items (see the "Treasure" section).
 
 ### Secret Door
 
@@ -426,7 +426,7 @@ No monsters or villains are found in this area, but the ruffians in 2 take notic
 
 ### Treasure
 
-The satchel hidden in the cistern is waterproof and contains a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]], a [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|potion of invisibility]], 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Iarno keeps here in case of an emergency.
+The satchel hidden in the cistern is waterproof and contains a [[potion-of-healing-xdmg|potion of healing]], a [[potion-of-invisibility-xdmg|potion of invisibility]], 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Iarno keeps here in case of an emergency.
 
 ## 2. Barracks
 
@@ -458,9 +458,9 @@ This area was part of Tresendar Manor's original cellars. The Redbrands dug out 
 > Thick dust covers the flagstones of this somber hallway. The walls are decorated with faux columns every ten feet, and the double doors at the west end of the hall are sheathed in copper plate, now green with age. A relief carving of a mournful angel graces the doors.
 ^086
 
-The pit trap in the middle of the hallway is hidden under a false floor consisting of loose stone tiles laid atop breakaway timbers. The tiles and timbers collapse under 100 or more pounds of weight. A character searching the hall for traps can spot the covered pit with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. A successful check also reveals narrow ledges on the north and south sides of the pit. A creature attempting to skirt around the pit using one of these ledges must succeed on a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check.
+The pit trap in the middle of the hallway is hidden under a false floor consisting of loose stone tiles laid atop breakaway timbers. The tiles and timbers collapse under 100 or more pounds of weight. A character searching the hall for traps can spot the covered pit with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check. A successful check also reveals narrow ledges on the north and south sides of the pit. A creature attempting to skirt around the pit using one of these ledges must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
-A creature that triggers the trap or fails the Dexterity check to skirt around the edge of the pit must attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `2d6` bludgeoning damage and landing [[/03_Mechanics/CLI/conditions#Prone|prone]].
+A creature that triggers the trap or fails the Dexterity check to skirt around the edge of the pit must attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `2d6` bludgeoning damage and landing [[conditions#Prone|prone]].
 
 ### Awarding Experience Points
 
@@ -475,7 +475,7 @@ The elders of the long-gone Tresendar family were once laid to rest in this maus
 > Three large stone sarcophagi stand within this dusty crypt, and propped up against each sarcophagus is a human skeleton clad in bits of rusty mail. False columns along the walls are carved in the image of spreading oak trees. The double doors in the southeast corner are sheathed in tarnished copper plate.
 ^089
 
-The three [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]] are animated and attack any creature that comes within 10 feet of the door leading to 5 or the door leading to 6, unless that creature is wearing the scarlet cloak of the Redbrands or speaks the password "Illefarn" (the name of an ancient elven nation, which once spread across much of the Sword Coast).
+The three [[skeleton-xmm|skeletons]] are animated and attack any creature that comes within 10 feet of the door leading to 5 or the door leading to 6, unless that creature is wearing the scarlet cloak of the Redbrands or speaks the password "Illefarn" (the name of an ancient elven nation, which once spread across much of the Sword Coast).
 
 The stone lid of each sarcophagus is carved to depict the person entombed within—two human males and one human female, all of noble bearing. If opened, the tombs contain mostly moldering bones and scraps of clothing, but see the "Treasure" section.
 
@@ -508,7 +508,7 @@ The heap of clothing belongs to the various captives who have been housed here o
 
 ### Cell Doors
 
-The cell doors feature simple locks requiring [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check to pick. The doors can also be wrenched open by brute force with a successful DC 22 Strength check.
+The cell doors feature simple locks requiring [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check to pick. The doors can also be wrenched open by brute force with a successful DC 22 Strength check.
 
 ### Captives
 
@@ -563,21 +563,21 @@ The characters arrive here by one of three routes: the tunnel from 1, the storer
 > A cold breeze fills this large natural cavern, carrying with it the faint scent of decaying flesh. A crevasse divides the cavern and is flanked by two rough stone columns that support the twenty-foot-high ceiling. Two arched wooden bridges span the chasm.
 ^099
 
-The guardian of this cave is a [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|nothic]], an insane subterranean monster that hungers for flesh. The creature, lured by a faint magical effect emanating from the crevasse, was occupying the area when the Redbrands moved in. Iarno managed to strike a bargain with the monster, convincing it to help guard the stronghold in exchange for treasure and the occasional gift of fresh meat. Still, the nothic is untrustworthy.
+The guardian of this cave is a [[nothic-xmm|nothic]], an insane subterranean monster that hungers for flesh. The creature, lured by a faint magical effect emanating from the crevasse, was occupying the area when the Redbrands moved in. Iarno managed to strike a bargain with the monster, convincing it to help guard the stronghold in exchange for treasure and the occasional gift of fresh meat. Still, the nothic is untrustworthy.
 
-The nothic lurks near the west ends of the two bridges. If it notices intruders entering the cave, it hides behind one of the large stone columns and watches them, attempting to use its Weird Insight (see the creature's [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|stat block]]) to discern the characters' secrets.
+The nothic lurks near the west ends of the two bridges. If it notices intruders entering the cave, it hides behind one of the large stone columns and watches them, attempting to use its Weird Insight (see the creature's [[nothic-xmm|stat block]]) to discern the characters' secrets.
 
 The nothic communicates using telepathy. If detected, it prefers to negotiate and isn't above betraying the Redbrands for the right incentive, such as the promise of food. When roleplaying the nothic, consider speaking in whispers and throwing in some mad cackles and bits of gibberish. Also be sure to mention that the creature isn't actually talking but rather filling the characters' heads with its foul murmurings and demands for food. The nothic knows everything the Redbrands know; see the "What the Redbrands Know" sidebar on page 20.
 
 ### Bridges
 
-These bridges are made of wooden planks and have no rails. The south one is rigged to collapse when a creature weighing more than 50 pounds moves across it. A character next to the bridge can discern that the construction is faulty with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check. Any creature can use an action to dislodge one end of either bridge, dropping it into the crevasse.
+These bridges are made of wooden planks and have no rails. The south one is rigged to collapse when a creature weighing more than 50 pounds moves across it. A character next to the bridge can discern that the construction is faulty with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. Any creature can use an action to dislodge one end of either bridge, dropping it into the crevasse.
 
 ### Crevasse
 
-This steep-sided fissure is 5 to 10 feet wide and 20 feet deep. Its rough walls are easily climbed without an ability check. A creature that falls into the crevasse takes `2d6` bludgeoning damage and lands [[/03_Mechanics/CLI/conditions#Prone|prone]] in a jumble of rubble that is difficult terrain (see "Difficult Terrain" in the rulebook).
+This steep-sided fissure is 5 to 10 feet wide and 20 feet deep. Its rough walls are easily climbed without an ability check. A creature that falls into the crevasse takes `2d6` bludgeoning damage and lands [[conditions#Prone|prone]] in a jumble of rubble that is difficult terrain (see "Difficult Terrain" in the rulebook).
 
-The bottom of the crevasse feels unnaturally cold. When viewed with a [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] spell, the area emanates a faint necromantic aura. The magic causes all organic matter in the crevasse to age and decompose at half the normal rate.
+The bottom of the crevasse feels unnaturally cold. When viewed with a [[detect-magic-xphb|detect magic]] spell, the area emanates a faint necromantic aura. The magic causes all organic matter in the crevasse to age and decompose at half the normal rate.
 
 Currently heaped at the bottom among broken and well-gnawed bones is the half-eaten body of Thel Dendrar, the woodcarver of Phandalin who was murdered by the Redbrands. The outlaws left his corpse here for the nothic to feed on.
 
@@ -585,7 +585,7 @@ Currently heaped at the bottom among broken and well-gnawed bones is the half-ea
 
 The nothic keeps its hoard in a battered wooden chest hidden in a cubbyhole at the bottom of the crevasse, under the north bridge. The chest can't be seen from the edge of the crevasse, but is obvious to any character who descends into the fissure. The chest contains 160 sp, 120 gp, five malachite gems (15 gp each), two potions of healing, and a scroll of augury.
 
-The chest also holds a +1 longsword in a silver-chased scabbard. The sword is inscribed with the name "Talon," and its hilt is worked in the shape of a bird of prey with outspread wings. It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk. A character who succeeds on a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#History|History]]) check recognizes the sword and recalls this lore.
+The chest also holds a +1 longsword in a silver-chased scabbard. The sword is inscribed with the name "Talon," and its hilt is worked in the shape of a bird of prey with outspread wings. It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk. A character who succeeds on a DC 15 Intelligence ([[skills#History|History]]) check recognizes the sword and recalls this lore.
 
 Sir Aldith died fighting off the orcs that attacked through the hidden caverns below his manor. Talon was lost here until the nothic found it.
 
@@ -595,18 +595,18 @@ Divide 450 XP equally among the characters if the party defeats the nothic or ne
 
 ## 9. Guard Barracks
 
-A character who listens at this door with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check hears several gruff voices issuing demeaning commands in the Goblin tongue. Examples include "Lick the floor!" and "Roll like a dog!" The bugbears here are bullying their goblin slave.
+A character who listens at this door with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check hears several gruff voices issuing demeaning commands in the Goblin tongue. Examples include "Lick the floor!" and "Roll like a dog!" The bugbears here are bullying their goblin slave.
 
 > [!readaloud] 
 > 
 > This barracks contains four roughly built wooden bunks, with heaped-up blankets and dirty dishes scattered about. A strong smell of unwashed bodies and rotten meat fills the air. Three tall, furry humanoids are lounging among the mess, barking orders at a sad little goblin that demeans itself for their amusement. Your sudden appearance causes the goblin to faint.
 ^09f
 
-Three [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] and one [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblin]] are present. The goblin, Droop, falls [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] at the sight of the party, but another creature can use an action to wake him. Otherwise, Droop remains [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] for `d10` minutes.
+Three [[bugbear-warrior-xmm|bugbears]] and one [[goblin-warrior-xmm|goblin]] are present. The goblin, Droop, falls [[conditions#Unconscious|unconscious]] at the sight of the party, but another creature can use an action to wake him. Otherwise, Droop remains [[conditions#Unconscious|unconscious]] for `d10` minutes.
 
 The bugbears work for the Black Spider and were sent here to help Iarno keep the Redbrands and the citizens of Phandalin in line. The leader is named Mosk. He wears a jeweled eye patch even though he has both his eyes. Mosk wears the eye patch because he thinks it's fancy.
 
-The bugbears avoid the human members of the Redbrands. If the characters are wearing scarlet cloaks taken from elsewhere, the bugbears assume that they serve Iarno. Clever characters might even persuade the bugbears to help deal with "traitors" or "impostors" elsewhere in the dungeon. If you don't think the players are doing a great job roleplaying the deception, you can have the character who is doing most of the talking make a DC 15 Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) check to convince the bugbears to do what the party wants.
+The bugbears avoid the human members of the Redbrands. If the characters are wearing scarlet cloaks taken from elsewhere, the bugbears assume that they serve Iarno. Clever characters might even persuade the bugbears to help deal with "traitors" or "impostors" elsewhere in the dungeon. If you don't think the players are doing a great job roleplaying the deception, you can have the character who is doing most of the talking make a DC 15 Charisma ([[skills#Deception|Deception]]) check to convince the bugbears to do what the party wants.
 
 ### Role Playing Droop
 
@@ -624,7 +624,7 @@ Characters might be inclined to keep Droop around for a while. See the "NPC Part
 
 The bugbears are the only ones in the Redbrand hideout who know the location of Wave Echo Cave. They won't willingly divulge this information, since they fear the Black Spider more than they fear the characters.
 
-The bugbears also know the location of Cragmaw Castle. but again, they don't share this information readily. A character who interrogates a captured bugbear can pry the information loose with a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check.
+The bugbears also know the location of Cragmaw Castle. but again, they don't share this information readily. A character who interrogates a captured bugbear can pry the information loose with a successful DC 15 Charisma ([[skills#Intimidation|Intimidation]]) check.
 
 ### Treasure
 
@@ -638,7 +638,7 @@ Divide 600 XP equally among the characters if the party defeats the bugbears.
 
 This area serves as the headquarters and meeting room for the Redbrands. When there is no official business to discuss, it doubles as a common room where the stronghold guards can relax while off duty.
 
-A character who listens at the door with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check hears the villains within engaged in a game of knucklebones. This makes for a mysterious rattling sound, followed by shouts and groans and a sudden gabble of voices as wagers are paid. If the characters burst into the room, they automatically surprise its occupants.
+A character who listens at the door with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check hears the villains within engaged in a game of knucklebones. This makes for a mysterious rattling sound, followed by shouts and groans and a sudden gabble of voices as wagers are paid. If the characters burst into the room, they automatically surprise its occupants.
 
 > [!readaloud] 
 > 
@@ -647,9 +647,9 @@ A character who listens at the door with a successful DC 10 Wisdom ([[/03_Mechan
 > Four tough-looking human warriors wearing scarlet cloaks are gathered around one of the tables. A stack of coins and trinkets is heaped upon the tabletop between them.
 ^0a5
 
-Four [[/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand ruffians]] are drinking and playing knucklebones when the characters enter. The game isn't far from turning acrimonious, as most of them do. The dice are loaded, and the ruffian to which they belong is naturally winning. All four have been drinking heavily, and they are [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] (see the appendix in the rulebook for the effects of being [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]).
+Four [[/03_Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-lmop|Redbrand ruffians]] are drinking and playing knucklebones when the characters enter. The game isn't far from turning acrimonious, as most of them do. The dice are loaded, and the ruffian to which they belong is naturally winning. All four have been drinking heavily, and they are [[conditions#Poisoned|poisoned]] (see the appendix in the rulebook for the effects of being [[conditions#Poisoned|poisoned]]).
 
-The Redbrands immediately recognize characters wearing scarlet cloaks as impostors. However, fast-talking characters might still be able to pass themselves off as "new recruits," especially if they offer to join the game. If you don't think the players are doing a great job roleplaying the deception, you can have the character who is doing most of the talking make a DC 10 Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) check to fool the Redbrands.
+The Redbrands immediately recognize characters wearing scarlet cloaks as impostors. However, fast-talking characters might still be able to pass themselves off as "new recruits," especially if they offer to join the game. If you don't think the players are doing a great job roleplaying the deception, you can have the character who is doing most of the talking make a DC 10 Charisma ([[skills#Deception|Deception]]) check to fool the Redbrands.
 
 ### Treasure
 
@@ -661,7 +661,7 @@ Divide 400 XP equally among the characters if the party defeats the Redbrands in
 
 ## 11. Wizard's Workshop
 
-Faint bubbling and dripping sounds can be heard through either door of this room with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+Faint bubbling and dripping sounds can be heard through either door of this room with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
 > [!readaloud] 
 > 
@@ -674,9 +674,9 @@ If the characters leave the rat unharmed, it follows them around as though curio
 
 ### Books and Notes
 
-Iarno is trying to master the art of brewing potions and concocting alchemical mixtures. The books and notes scattered around the room are basic texts on alchemy. Any character proficient in [[/03_Mechanics/CLI/skills#Arcana|Arcana]] can see that Iarno's apparatus appears to be set up to brew [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|potions of invisibility]], not that he has succeeded so far.
+Iarno is trying to master the art of brewing potions and concocting alchemical mixtures. The books and notes scattered around the room are basic texts on alchemy. Any character proficient in [[skills#Arcana|Arcana]] can see that Iarno's apparatus appears to be set up to brew [[potion-of-invisibility-xdmg|potions of invisibility]], not that he has succeeded so far.
 
-Among the books is a tome written in Dwarvish. The journal of an adventurer named Urmon, it describes the history of the Lost Mine of Phandelver and the Forge of Spells. (Share the information in the first and second paragraph of the "Background" section if you have not already done so.) In addition, Urmon records that a magic mace named [[/03_Mechanics/CLI/items/lightbringer-lmop|Lightbringer]] was commissioned by priests of Lathander, the god of dawn, from the mages working with the gnomes and dwarves of the Phandelver's Pact. The mace was lost when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in part 4, "Wave Echo Cave.")
+Among the books is a tome written in Dwarvish. The journal of an adventurer named Urmon, it describes the history of the Lost Mine of Phandelver and the Forge of Spells. (Share the information in the first and second paragraph of the "Background" section if you have not already done so.) In addition, Urmon records that a magic mace named [[lightbringer-lmop|Lightbringer]] was commissioned by priests of Lathander, the god of dawn, from the mages working with the gnomes and dwarves of the Phandelver's Pact. The mace was lost when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in part 4, "Wave Echo Cave.")
 
 ### Developments
 
@@ -695,16 +695,16 @@ If the characters approach this room through the secret passage from 7, they can
 > The walls of this bedchamber are covered with drapes of scarlet cloth. The furnishings include a small writing desk with matching chair, a comfortable-looking bed, and a wooden chest at the foot of the bed.
 ^0ae
 
-If Iarno is [[/03_Mechanics/CLI/conditions#Surprised|surprised]], add the following paragraph:
+If Iarno is [[conditions#Surprised|surprised]], add the following paragraph:
 
 > [!readaloud] 
 > 
 > Sitting at the desk is a short, dark-bearded human male in robes, studying a tome. He wears a princely mantle of ermine. A beautiful glass staff leans against his chair, within easy reach.
 ^0af
 
-If the rat in 11 warns him that trouble is approaching, Iarno the [[/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|evil mage]] grabs his [[/03_Mechanics/CLI/items/staff-of-defense-lmop|staff of defense]] and the scrolls in his chest (see the "Treasure" section), and flees through the secret door in the northeast corner of the room. In his haste, Iarno leaves behind a letter from the Black Spider (see the "Developments" section) and neglects to make sure the secret door is closed all the way. Characters gain advantage on ability checks made to find the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For more information on secret doors, see the "General Features" section (page 20).
+If the rat in 11 warns him that trouble is approaching, Iarno the [[/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|evil mage]] grabs his [[staff-of-defense-lmop|staff of defense]] and the scrolls in his chest (see the "Treasure" section), and flees through the secret door in the northeast corner of the room. In his haste, Iarno leaves behind a letter from the Black Spider (see the "Developments" section) and neglects to make sure the secret door is closed all the way. Characters gain advantage on ability checks made to find the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For more information on secret doors, see the "General Features" section (page 20).
 
-If he manages to escape, Iarno flees to 1 (through areas 7 and 8) and grabs the satchel hidden in the cistern there. If the nothic is still alive in 8, Iarno instructs it to waylay any pursuers. If the characters catch up to him, Iarno quaffs the [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|potion of invisibility]] in the satchel and flees the hideout. At your discretion, he could reappear later in the adventure.
+If he manages to escape, Iarno flees to 1 (through areas 7 and 8) and grabs the satchel hidden in the cistern there. If the nothic is still alive in 8, Iarno instructs it to waylay any pursuers. If the characters catch up to him, Iarno quaffs the [[potion-of-invisibility-xdmg|potion of invisibility]] in the satchel and flees the hideout. At your discretion, he could reappear later in the adventure.
 
 ### Roleplaying Iarno
 
@@ -714,7 +714,7 @@ Iarno knew of the Black Spider through his contacts in the Lords' Alliance and b
 
 Iarno puts on airs of gentility and courteous manners, addressing his ruffians as "my good gentlemen," and referring to sordid acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He refers to the characters as "guests" and expresses regret that he cannot provide suitable entertainment for their visit. Beneath his genteel demeanor, however, Iarno is just as thuggish and arrogant as any Redbrand outlaws.
 
-If threatened, Iarno uses his [[/03_Mechanics/CLI/items/staff-of-defense-lmop|staff of defense]] to cast [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]] on himself. He then casts offensive spells at enemies he can see. Iarno's stat block contains a list of the spells he has prepared. For descriptions of those spells and their effects, see the rulebook. Iarno uses the shield power of his staff for added protection.
+If threatened, Iarno uses his [[staff-of-defense-lmop|staff of defense]] to cast [[mage-armor-xphb|mage armor]] on himself. He then casts offensive spells at enemies he can see. Iarno's stat block contains a list of the spells he has prepared. For descriptions of those spells and their effects, see the rulebook. Iarno uses the shield power of his staff for added protection.
 
 If he is reduced to 8 or fewer hit points and has no avenues of escape, Iarno surrenders. He values his life more than anything, and he remains a model prisoner in the hopes that the Black Spider will somehow learn of his predicament and "arrange for his freedom."
 
@@ -746,7 +746,7 @@ If Iarno is taken into custody, [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwint
 
 At the foot of Iarno's bed is a sturdy, unlocked wooden chest holding the best pickings of the Redbrands' loot over the last two months. It contains 180 sp, 130 gp, and a silk pouch containing five carnelians (10 gp each), two peridots (15 gp each), and one pearl (100 gp). It also contains two magic items that Iarno brought with him from Neverwinter: a scroll of charm person and a scroll of fireball.
 
-Iarno also wields a [[/03_Mechanics/CLI/items/staff-of-defense-lmop|staff of defense]].
+Iarno also wields a [[staff-of-defense-lmop|staff of defense]].
 
 ### Awarding Experience Points
 

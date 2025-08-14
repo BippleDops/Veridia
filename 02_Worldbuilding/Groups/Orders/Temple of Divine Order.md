@@ -14,13 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-temple-of-divine-order-temple-of-divine-order.svg)
-
-
-
 
 
 # Temple of Divine Order
@@ -28,11 +23,11 @@ world: Both
 
 ## Organization Overview
 
-The Temple of Divine Order represents the dominant religious organization in [[02_Worldbuilding/Lore/Aquabyssos World Overview]], serving as both spiritual guide and moral authority for the transformed inhabitants of the depths. Unlike surface religions that mourned the [[02_Worldbuilding/Lore/Aquabyssos World Overview]], the Temple embraces the transformation as divine will, teaching that the depths represent a higher spiritual state achieved through divine judgment and mercy.
+The Temple of Divine Order represents the dominant religious organization in [[Aquabyssos World Overview]], serving as both spiritual guide and moral authority for the transformed inhabitants of the depths. Unlike surface religions that mourned the [[Aquabyssos World Overview]], the Temple embraces the transformation as divine will, teaching that the depths represent a higher spiritual state achieved through divine judgment and mercy.
 
 Founded during the chaotic early years following the Great Drowning, the Temple provided crucial psychological and social stability for traumatized survivors struggling to understand their transformed existence. The organization developed a sophisticated theology that reframes the catastrophe as divine evolution, positioning the transformed inhabitants as chosen beings elevated above their former surface-dwelling limitations.
 
-The Temple operates as both religious institution and social service organization, providing healing, education, community support, and spiritual guidance throughout all [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Their influence extends from individual spiritual counseling to advising the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] on matters of law and ethics, making them one of the most powerful non-governmental organizations in Aquabyssos.
+The Temple operates as both religious institution and social service organization, providing healing, education, community support, and spiritual guidance throughout all [[Aquabyssos World Overview]]. Their influence extends from individual spiritual counseling to advising the [[Aquabyssos World Overview]] on matters of law and ethics, making them one of the most powerful non-governmental organizations in Aquabyssos.
 
 ## History and Foundation
 
@@ -78,7 +73,7 @@ Oversees religious ceremonies, manages temple facilities, coordinates major reli
 Manages relationships with other religious groups, coordinates with surface world spiritual organizations, and handles diplomatic relations with other factions.
 
 #### **Depth Cardinal Mystery Abysscaller** (Deep Theology)
-Studies the most profound theological questions about [[02_Worldbuilding/Lore/Aquabyssos World Overview]] spirituality, conducts research into the nature of deep transformation, and maintains connections with the most extremely transformed faithful.
+Studies the most profound theological questions about [[Aquabyssos World Overview]] spirituality, conducts research into the nature of deep transformation, and maintains connections with the most extremely transformed faithful.
 
 ### Clerical Hierarchy
 
@@ -174,11 +169,11 @@ Rather than authoritarian control, Temple leadership works collaboratively with 
 
 ### Strong Alliances
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Official Partnership
 The Temple provides spiritual legitimacy for the government while receiving official recognition and support. Many government officials are practicing faithful, and Temple guidance influences policy decisions on social and ethical issues.
 
-#### [[02_Worldbuilding/Groups/Merchant's Covenant]]
+#### [[Merchant's Covenant]]
 **Relationship**: Educational Cooperation
 The Temple's schools and educational programs complement the Covenant's knowledge-preservation efforts. Both organizations value learning and cultural continuity, leading to extensive collaboration on educational initiatives.
 
@@ -188,31 +183,31 @@ The Temple works closely with local community groups, professional associations,
 
 ### Complex Relationships
 
-#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+#### [[Order of the Drowned Star|Order of the Drowned Star]]
 **Relationship**: Respectful Disagreement
 While both organizations serve positive social functions, they disagree on fundamental questions about transformation and destiny. The Temple accepts current transformation as divine will, while the Order seeks cosmic realignment to return to surface.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Compassionate Opposition
 The Temple sympathizes with the pain that drives Surface Seekers but considers their goals spiritually misguided. They provide counseling and support while gently discouraging transformation reversal attempts.
 
 ### Hostile Relationships
 
-#### [[02_Worldbuilding/Groups/Cult of Screams|Cult of Screams]]
+#### [[Cult of Screams|Cult of Screams]]
 **Relationship**: Absolute Opposition
 The Temple considers the Cult's terrorism and forced madness to be blasphemous perversions of spiritual transformation. Temple healers specialize in treating Cult victims, and Temple security forces actively assist law enforcement in anti-Cult operations.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Theological Conflict  
 While both groups embrace transformation, the Deep Dreamers' nihilistic philosophy directly conflicts with the Temple's teaching about divine purpose and community responsibility. The Temple considers Dreamer activities spiritually dangerous.
 
 ### Cautious Engagement
 
-#### [[02_Worldbuilding/Groups/Investigators Anonymous]]
+#### [[Investigators Anonymous]]
 **Relationship**: Ethical Cooperation
 The Temple supports truth-seeking and justice but worries about Anonymous methods that prioritize truth over community harmony. Occasional cooperation on cases involving Temple interests or clerical corruption.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Spiritual Concern
 The Temple believes Void Touched individuals represent extreme transformation that may be approaching divine transcendence, but they worry about the psychological and social costs. They provide support while studying the theological implications.
 
@@ -277,53 +272,53 @@ The Temple maintains religious facilities in every major settlement:
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
-- [[02_Worldbuilding/Groups/Cult of Screams|Cult of Screams]]
+- [[Aquabyssos World Overview]]
+- [[Merchant's Covenant]]
+- [[Order of the Drowned Star|Order of the Drowned Star]]
+- [[Cult of Screams|Cult of Screams]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Perfect Order]]
-- [[02_Worldbuilding/Places/Community Temple Network]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/Groups/The Contemplation Abyss]]
+- [[The Sunken Cathedral of Perfect Order]]
+- [[Community Temple Network]]
+- [[Aquabyssos World Overview]]
+- [[The Contemplation Abyss]]
 
 **Historical Events**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/Groups/The Divine Revelation]]
-- [[02_Worldbuilding/Groups/The Great Recognition]]
-- [[02_Worldbuilding/Groups/The Schism and Reconciliation]]
+- [[Aquabyssos World Overview]]
+- [[The Divine Revelation]]
+- [[The Great Recognition]]
+- [[The Schism and Reconciliation]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
+- [[High Oracle Serenity Deepcall]]
 - [[Blessed Mother Thalassa the Transformed]]
 - [[Depth Cardinal Mercy Tidebringer]]
-- [[02_Worldbuilding/Places/Depth Cardinal Justice Currentkeeper]]
-- [[02_Worldbuilding/Groups/Depth Cardinal Wisdom Voidseeke]]
+- [[Depth Cardinal Justice Currentkeeper]]
+- [[Depth Cardinal Wisdom Voidseeke]]
 
 **Religious Concepts**:
-- [[02_Worldbuilding/Groups/The Architects of Depths]]
-- [[02_Worldbuilding/Groups/Sacred Texts of Transformation]]
-- [[02_Worldbuilding/Groups/Divine Transformation Theolog]]
-- [[02_Worldbuilding/Lore/Depth Spirituality]]
+- [[The Architects of Depths]]
+- [[Sacred Texts of Transformation]]
+- [[Divine Transformation Theolog]]
+- [[Depth Spirituality]]
 - [[Interfaith Relations in Aquabyssos]]
 
 **Temple Services**:
-- [[02_Worldbuilding/Groups/Healing Ministries]]
+- [[Healing Ministries]]
 - [[Religious Education Programs]]
-- [[02_Worldbuilding/Places/Community Support Networks]]
-- [[02_Worldbuilding/Groups/Transformation Assistance]]
-- [[02_Worldbuilding/Groups/Crisis Response Service]]
+- [[Community Support Networks]]
+- [[Transformation Assistance]]
+- [[Crisis Response Service]]
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[Establish the New Order]]
+- [[Lord Vexton Shadowmere]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Anti-Priest Nullus]]
+- [[Temple Guardian Marcus the Drowned]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

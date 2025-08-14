@@ -15,14 +15,12 @@ world: Both
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg)
-
-
+![[04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]
 
 ## Player-Facing Summary
 

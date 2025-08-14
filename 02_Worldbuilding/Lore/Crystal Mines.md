@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - complete
 - content/faction
@@ -16,10 +17,7 @@ world: Aethermoor
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg)
-
-
-
+![[04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg]]
 
 
 ## Overview
@@ -46,6 +44,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Mines]]
+- [[12_Research/D&D_References/Crystal Mines]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

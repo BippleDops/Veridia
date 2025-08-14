@@ -2,6 +2,12 @@
 type: Lore
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - active merger possibility
 - active-merger-possibility
 - aethermoor
@@ -23,16 +29,14 @@ world: Both
 ---
 
 
-
-
-
-
 # Comprehensive World Connection Guide
+
 ## Aquabyssos & Aethermoor: The Convergence Codex
 
 > *"Two worlds separated by catastrophe, bound by blood, destined for convergence or mutual annihilation."*
 
 ## 🌊 Quick Navigation
+
 - The Three States of Reality
 - Continental Parallels
 - Bloodline Connections
@@ -49,40 +53,45 @@ TABLE
   depth as "Current Depth", 
   corruption_exposure as "Crystal Level",
   ap_gained as "Adaptation Points"
-FROM #session
+FROM # session
+
 WHERE campaign = "Aethermoor - The Plague of Crystals" 
   OR campaign = "The Parliament of Shadows"
 SORT session_number DESC
 LIMIT 5
 ```
-
 ---
 
 ## The Three States of Reality
 
 ### 🔒 State 1: Complete Separation (Historical Default)
+
 **Timeline**: 300 years ago to campaign start
 **Barrier**: The Surface Seal - a metaphysical membrane
 
 #### Aethermoor Side
+
 - Develops independently with crystal magic
 - Seven noble houses unknowingly guard shard sites
 - Lighthouses mark dimensional weak points
 - Crystal plague begins weakening barrier
 
 #### Aquabyssos Side  
+
 - Evolves bizarre underwater civilization
 - Shadow independence movement grows
 - Memory tides carry surface dreams
 - Depth adaptation becomes hereditary
 
 #### Hidden Connections
+
 - Bloodlines intermarried before separation
 - Shared architectural styles in ruins
 - Parallel magical development
 - Dreams bleeding between worlds
 
 ### 🔓 State 2: Partial Merger (Current Campaign State)
+
 **Timeline**: Post-Crystal Festival events
 **Barrier**: Selectively permeable, reality bleeds
 
@@ -90,13 +99,14 @@ LIMIT 5
 
 | Aethermoor Location | Aquabyssos Location | Merge Type | Navigation |
 |-------------------|-------------------|------------|------------|
-| [[02_Worldbuilding/Places/Port Meridian Harbor]] | [[02_Worldbuilding/Places/Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
-| [[02_Worldbuilding/Places/Crystal Gardens]] | [[02_Worldbuilding/Places/Screaming Gardens]] | Emotional Resonance | Shared suffering |
-| [[02_Worldbuilding/Places/Royal Palace]] | [[02_Worldbuilding/Places/The Inverse Palace]] | Authority Convergence | Gravity confusion |
-| [[02_Worldbuilding/Lore/Lighthouse of Storms]] | [[02_Worldbuilding/Places/Pressure Terminal]] | Transport Hub | Direct portal |
-| [[02_Worldbuilding/Lore/The Forgotten Archive]] | [[02_Worldbuilding/Places/The Memory Meadows]] | Information Bleed | Thought exchange |
+| [[12_Research/D&D_References/Port Meridian Harbor]] | [[12_Research/D&D_References/Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
+| [[12_Research/D&D_Statblocks/Crystal Gardens]] | [[12_Research/D&D_References/Screaming Gardens]] | Emotional Resonance | Shared suffering |
+| [[12_Research/D&D_References/Royal Palace]] | [[12_Research/D&D_References/The Inverse Palace]] | Authority Convergence | Gravity confusion |
+| [[12_Research/D&D_References/Lighthouse of Storms]] | [[12_Research/D&D_Statblocks/Pressure Terminal]] | Transport Hub | Direct portal |
+| [[12_Research/D&D_Statblocks/The Forgotten Archive]] | [[12_Research/D&D_Statblocks/The Memory Meadows]] | Information Bleed | Thought exchange |
 
 #### Merge Mechanics
+
 - **Tide-Locked**: Changes every 12 hours with tides
 - **Emotion-Triggered**: Strong feelings cause overlap
 - **Blood-Activated**: Bloodline carriers can force merger
@@ -105,18 +115,21 @@ LIMIT 5
 ### 🌐 State 3: Full Convergence (Possible Endings)
 
 #### Version A: Harmonious Integration
+
 - Floating Aquabyssos districts above Aethermoor
 - Shared atmosphere (breathable water/air hybrid)
 - Dual citizenship and governance
 - Cultural exchange and evolution
 
 #### Version B: Hostile Takeover
+
 - One world consumes the other
 - Survivors adapt or perish
 - New hybrid civilization emerges
 - Original cultures lost
 
 #### Version C: Parallel Coexistence
+
 - Permanent portals but separate worlds
 - Trade and diplomatic relations
 - Controlled visitation rights
@@ -131,6 +144,7 @@ LIMIT 5
 Each continent has a counterpart, connected by ancient ley lines and bloodline memories:
 
 #### 1. Port Meridian ↔ Abyssos Prime
+
 **Connection**: Political and economic centers
 **Shared Elements**:
 - Parliamentary governance structures
@@ -145,11 +159,12 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Identity crisis for citizens
 
 **Key NPCs Affected**:
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] ↔ [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] ↔ [[02_Worldbuilding/People/Senator Glaucus]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] (exists in both)
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] ↔ [[12_Research/D&D_References/The Scattered Emperor]]
+- [[12_Research/D&D_References/Captain Lyanna Brightshield]] ↔ [[12_Research/D&D_References/Senator Glaucus]]
+- [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]] (exists in both)
 
 #### 2. Arcanum Heights ↔ Nereidios
+
 **Connection**: Centers of knowledge and magic
 **Shared Elements**:
 - Living libraries that consume readers
@@ -170,6 +185,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Temporal loops in study halls
 
 #### 3. Crystal Forest ↔ Corallion
+
 **Connection**: Living ecosystems with consciousness
 **Shared Elements**:
 - Sentient environment
@@ -190,6 +206,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Competing consciousness networks
 
 #### 4. Shattered Isles ↔ Vorthak
+
 **Connection**: Fragmented realities with unstable physics
 **Shared Elements**:
 - Multiple timeline convergence
@@ -210,6 +227,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Maps that change while reading them
 
 #### 5. Shadow Vale ↔ Tenebrarum
+
 **Connection**: Darkness domains and shadow magic
 **Shared Elements**:
 - Shadow independence movements
@@ -230,6 +248,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Inheritance disputes between shadows and originals
 
 #### 6. Resonance Peaks ↔ Crystallium
+
 **Connection**: Harmonic centers and frequency magic
 **Shared Elements**:
 - Reality tuning through sound
@@ -250,6 +269,7 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - The "True Song" might merge or separate worlds
 
 #### 7. Sorrow's End ↔ Mourning Depths
+
 **Connection**: Emotional extremes made physical
 **Shared Elements**:
 - Emotion as currency/resource
@@ -272,53 +292,60 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 Each bloodline carries keys to merger or separation:
 
 #### House Tethys-Meridian
+
 **Surface Branch**: Merchant princes of Port Meridian
 **Depth Branch**: Memory keepers of Abyssos Prime
 **Bloodline Gift**: Can breathe in both worlds for 1 hour/day
 **Curse**: Dreams always show the other world
-**Key NPCs**: [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+**Key NPCs**: [[12_Research/D&D_References/Marina-Red-Tide-Coralheart]], [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
 
 #### House Lumengarde-Deepshine
+
 **Surface Branch**: Royal family of Aethermoor
 **Depth Branch**: The Scattered Emperor's original form
 **Bloodline Gift**: Natural resistance to possession
 **Curse**: Shadows act independently after puberty
-**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor]]
+**Key NPCs**: [[12_Research/D&D_References/Queen Seraphina]], [[12_Research/D&D_References/Princess Celestia]], [[12_Research/D&D_References/The Scattered Emperor]]
 
 #### House Shadowthorn-Voidheart
+
 **Surface Branch**: Crimson Hand leadership
 **Depth Branch**: Void current navigators
 **Bloodline Gift**: Can manipulate shadow/void
 **Curse**: Slowly losing physical form
-**Key NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn]], [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+**Key NPCs**: [[12_Research/D&D_References/Vex Shadowthorn]], [[12_Research/D&D_References/Shadow Duchess Nyx]]
 
 #### House Steelbane-Irondeep
+
 **Surface Branch**: Church of Light warriors
 **Depth Branch**: Depth pressure survivors
 **Bloodline Gift**: Immunity to transformation
 **Curse**: Cannot use magic properly
-**Key NPCs**: [[02_Worldbuilding/People/Brother Marcus Steelbane]], [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+**Key NPCs**: [[12_Research/D&D_References/Brother Marcus Steelbane]], [[12_Research/D&D_References/High Inquisitor Maltheos]]
 
 #### House Flint-Forgotten
+
 **Surface Branch**: Information brokers
 **Depth Branch**: The Forgotten Ones
 **Bloodline Gift**: Perfect memory across timelines
 **Curse**: Everyone forgets them eventually
-**Key NPCs**: [[Jasper Three-Eyes Flint]], [[02_Worldbuilding/Places/The Forgotten Representative]]
+**Key NPCs**: [[Jasper Three-Eyes Flint]], [[12_Research/D&D_References/The Forgotten Representative]]
 
 #### House Saltweaver-Tidesinger
+
 **Surface Branch**: Coastal nobility
 **Depth Branch**: Current weavers
 **Bloodline Gift**: Control over tides/currents
 **Curse**: Must touch water daily or wither
-**Key NPCs**: Captain Blackwater, [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+**Key NPCs**: Captain Blackwater, [[12_Research/D&D_References/Archon Meredith Saltweaver]]
 
 #### House Brightshield-Dawnguard
+
 **Surface Branch**: Royal guard leadership
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield]], [[02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
+**Key NPCs**: [[12_Research/D&D_References/Captain Lyanna Brightshield]], [[12_Research/D&D_References/Dawn-Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 
@@ -343,7 +370,8 @@ Each bloodline carries keys to merger or separation:
 ### 🚇 Inter-World Transportation
 
 #### The Lighthouse Network
-**Primary Hub**: [[02_Worldbuilding/Lore/Lighthouse of Storms]]
+
+**Primary Hub**: [[12_Research/D&D_References/Lighthouse of Storms]]
 **Secondary Nodes**: Seven lesser lighthouses
 **Activation**: Requires crystal shard or bloodline carrier
 **Travel Time**: Instantaneous but temporally displaced
@@ -355,6 +383,7 @@ Each bloodline carries keys to merger or separation:
 - Shadows may arrive separately
 
 #### Pressure Tube Terminals
+
 **Aethermoor Side**: Hidden in major city sewers
 **Aquabyssos Side**: Public transportation hubs
 **Method**: Molecular liquification and reconstitution
@@ -367,6 +396,7 @@ Each bloodline carries keys to merger or separation:
 - Shadows sometimes refuse reconstitution
 
 #### Memory Streams
+
 **Entry Points**: Libraries, archives, memory pools
 **Travel**: Consciousness only, body remains
 **Duration**: 1d4 hours maximum
@@ -379,6 +409,7 @@ Each bloodline carries keys to merger or separation:
 - Access restricted areas as memory
 
 #### Dream Rails
+
 **Stations**: Major population centers' collective unconscious
 **Schedule**: Only during sleep
 **Tickets**: Nightmares or cherished dreams
@@ -391,6 +422,7 @@ Each bloodline carries keys to merger or separation:
 - Time passes differently
 
 #### Blood Current Express
+
 **Routes**: Through massive creatures spanning both worlds
 **Method**: Shrinking and injection into bloodstream
 **Speed**: Varies with creature's heartbeat
@@ -408,6 +440,7 @@ Each bloodline carries keys to merger or separation:
 ### 🤝 Cross-World Organizations
 
 #### The Depth Concordat ↔ Crystal Council
+
 **Shared Goals**: Control merger pace, maintain status quo
 **Conflicts**: Degree of acceptable integration
 **Secret**: Leadership includes beings from both worlds
@@ -420,6 +453,7 @@ Each bloodline carries keys to merger or separation:
 - Reality stabilization efforts
 
 #### Surface Seekers ↔ Purist Coalition
+
 **Opposition**: Philosophical enemies
 **Surface Seekers**: Return to air breathing
 **Purist Coalition**: Prevent all transformation
@@ -432,12 +466,14 @@ Each bloodline carries keys to merger or separation:
 - Definition of "human"
 
 #### The Memory Guard ↔ Forgotten Ones
+
 **Shared Purpose**: Preserve lost knowledge
 **Method Difference**: Remember vs. forget
 **Paradox**: Remembering them makes them disappear
 **Alliance**: Exchange memories for forgetting
 
 #### Shadow Parliament ↔ Crimson Hand
+
 **Power Structure**: Shadow control vs. magical supremacy
 **Overlap**: Some members belong to both
 **Goal**: Transform reality to suit their nature
@@ -450,6 +486,7 @@ Each bloodline carries keys to merger or separation:
 ### 🎭 Starting Points
 
 #### Path A: Plague Investigation (Aethermoor Start)
+
 1. Begin with crystal plague mystery
 2. Discover Aquabyssos connection session 3-4
 3. First contact with depth dwellers session 5-6
@@ -457,6 +494,7 @@ Each bloodline carries keys to merger or separation:
 5. Deal with consequences in sequel campaign
 
 #### Path B: Shadow Politics (Aquabyssos Start)
+
 1. Begin with Parliament intrigue
 2. Discover surface world manipulation session 3-4
 3. First surface dweller encounter session 5-6
@@ -464,6 +502,7 @@ Each bloodline carries keys to merger or separation:
 5. Establish new world order in sequel
 
 #### Path C: Simultaneous Campaigns
+
 1. Run two groups in parallel worlds
 2. Actions in one affect the other
 3. Groups meet at merger moment
@@ -471,6 +510,7 @@ Each bloodline carries keys to merger or separation:
 5. Sequel deals with integrated party
 
 #### Path D: Bloodline Awakening
+
 1. Start with bloodline carrier discovery
 2. Pulled between both worlds
 3. Become bridge or barrier
@@ -498,6 +538,7 @@ Each bloodline carries keys to merger or separation:
 ### ⚙️ System Interactions
 
 #### Crystal Corruption + Depth Adaptation
+
 | Combined Level | Effect | Stability |
 |---------------|--------|-----------|
 | 0-25 both | Choose dominant | Stable |
@@ -506,12 +547,14 @@ Each bloodline carries keys to merger or separation:
 | 76+ both | Transcendent | Beyond mortal |
 
 #### Shadow Separation + Crystal Growth
+
 - Shadows become crystalline
 - Can exist in both worlds simultaneously
 - Immune to normal damage
 - Vulnerable to light/depth
 
 #### Memory Tides + Time Streams
+
 - Past/future memories accessible
 - Can change history through memory
 - Risk temporal paradox
@@ -520,6 +563,7 @@ Each bloodline carries keys to merger or separation:
 ### 🎲 Unified Mechanics
 
 #### Environmental Pressure
+
 **Surface**: Social/political pressure
 **Depth**: Physical/transformation pressure
 **Merged**: Reality pressure (existence saves)
@@ -529,8 +573,8 @@ Each bloodline carries keys to merger or separation:
 0 -------- 25 -------- 50 -------- 75 -------- 100
 Normal    Changed    Hybrid    Transformed   Transcendent
 ```
-
 #### Sanity/Identity System
+
 - Surface: Lose self to corruption
 - Depth: Lose self to collective
 - Merged: Choose new identity
@@ -542,24 +586,28 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 ### 📖 Major Plot Lines
 
 #### The Seven Shards Mystery
+
 **Aethermoor View**: Contain the plague
 **Aquabyssos View**: Keys to freedom
 **Truth**: Both and neither
 **Resolution**: Shards are choice mechanisms
 
 #### The Deep Mother Threat
+
 **Surface**: Unknown cosmic horror
 **Depth**: Imprisoned ancestor
 **Reality**: Universe's immune response
 **Solution**: Negotiation, not combat
 
 #### Shadow Independence
+
 **Surface**: Dangerous corruption
 **Depth**: Civil rights movement
 **Truth**: Evolution of consciousness
 **Resolution**: Separate but equal existence
 
 #### Bloodline Prophecy
+
 **Surface**: Chosen one saves world
 **Depth**: Bloodline damns world
 **Reality**: Choice, not destiny
@@ -568,18 +616,21 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 ### 🔮 Future Campaign Seeds
 
 #### After Harmonious Merger
+
 - Cultural integration challenges
 - Hybrid children's rights
 - New magic/technology development
 - External threats to merged world
 
 #### After Hostile Takeover
+
 - Resistance movements
 - Cultural preservation efforts
 - Revenge of the conquered
 - Slow integration/rebellion
 
 #### After Separation Reinforced
+
 - Permanent ambassadors
 - Border conflicts
 - Smuggling operations
@@ -590,6 +641,7 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 ## 📚 Quick Reference Tables
 
 ### Merger Progression Tracker
+
 | Session | Merger % | Stability | Reversible? |
 |---------|----------|-----------|-------------|
 | 1-2 | 0-5% | Stable | Yes |
@@ -599,6 +651,7 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 | 9-10 | 65-100% | New Normal | Never |
 
 ### NPC Alignment Shifts
+
 | NPC | Pre-Merger | During | Post-Merger |
 |-----|------------|--------|-------------|
 | Marina | Neutral Good | Chaotic Good | True Neutral |
@@ -607,6 +660,7 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 | Nyx | Lawful Neutral | True Neutral | Chaotic Good |
 
 ### Resource Exchange Rates
+
 | Aethermoor | Aquabyssos | Exchange |
 |------------|------------|----------|
 | Gold | Sorrow Pearls | 1:10 |
@@ -621,30 +675,35 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 ### Endings Based on Choices
 
 #### Merger Accepted + Peaceful
+
 - New hybrid civilization
 - Cultural renaissance
 - Magical evolution
 - External threats unite worlds
 
 #### Merger Accepted + Violent
+
 - One culture dominates
 - Resistance movements
 - Gradual integration
 - Generational trauma
 
 #### Merger Rejected + Successful
+
 - Permanent separation
 - Limited contact
 - Mutual suspicion
 - Lost opportunities
 
 #### Merger Rejected + Failed
+
 - Chaotic partial merger
 - Reality instability
 - Constant conflict
 - No resolution
 
 #### Third Option Discovery
+
 - Alternative dimension created
 - Both worlds preserved separately
 - Bridge beings maintain connection
@@ -655,6 +714,7 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 ## 📝 Session Zero Guidance
 
 ### Questions for Players
+
 1. Comfort with transformation horror?
 2. Interest in political intrigue?
 3. Preference for action vs. negotiation?
@@ -662,12 +722,14 @@ Normal    Changed    Hybrid    Transformed   Transcendent
 5. Interest in playing transformed characters?
 
 ### Safety Tools
+
 - X-Card for transformation scenes
 - Lines/Veils for body horror
 - Consent for shadow separation
 - Check-ins for identity changes
 
 ### Expectation Setting
+
 - No perfect solutions exist
 - Character transformation likely
 - Both worlds have valid viewpoints
@@ -686,29 +748,30 @@ TABLE
   corruption_exposure as "Crystal",
   ap_gained as "Adaptation",
   shadow_level_change as "Shadow"
-FROM #session
+FROM # session
+
 WHERE campaign contains "Aethermoor" OR campaign contains "Aquabyssos"
 ```
-
 #### NPC Relationship Web
 ```dataview
 LIST
-FROM #npc
+FROM # npc
+
 WHERE contains(tags, "aquabyssos") OR contains(tags, "aethermoor")
 SORT faction
 ```
-
 #### Location Merger Status
 ```dataview
 TABLE
   depth as "Depth",
   merge_status as "Status",
   stability as "Stability"
-FROM #location
+FROM # location
+
 WHERE world = "Aquabyssos" OR world = "Aethermoor"
 ```
-
 ### Linking Best Practices
+
 - Use aliases for NPCs with multiple names
 - Tag sessions with both world names when merged
 - Create merger notes linking parallel locations
@@ -732,12 +795,12 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 ---
 
 **Related Documents**:
-- [[03_Mechanics/Depth Adaptation System]]
-- [[03_Mechanics/Crystal Plague Progression]]
-- [[03_Mechanics/Shadow Separation Mechanics]]
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
-- [[02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[Session Planning Guide]]
+- [[12_Research/D&D_References/Depth Adaptation System]]
+- [[12_Research/D&D_References/Crystal Plague Progression]]
+- [[12_Research/D&D_References/Shadow Separation Mechanics]]
+- [[12_Research/D&D_References/The Seven Shards Mystery]]
+- [[12_Research/D&D_References/Deep Mother Lore]]
+- [[12_Research/D&D_References/Session Planning Guide]]
 
 ## Player-Facing Summary
 
@@ -761,18 +824,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
+- [[Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[12_Research/D&D_References/Dawn-Echo Sentinel]]
+- [[12_Research/D&D_References/Brother Marcus Steelbane]]
 - [[Jasper Three-Eyes Flint]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Royal Palace]]
-- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- [[12_Research/D&D_References/Port Meridian Harbor]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]
+- [[12_Research/D&D_References/Royal Palace]]
+- [[12_Research/D&D_References/The Forgotten Representative]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

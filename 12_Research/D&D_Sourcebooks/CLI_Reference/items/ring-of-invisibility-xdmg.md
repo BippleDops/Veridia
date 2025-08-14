@@ -24,7 +24,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
 
-While wearing this ring, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to give yourself the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition. You remain [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] until the ring is removed or until you take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to become visible again.
+While wearing this ring, you can take a [[actions#Magic|Magic]] action to give yourself the [[conditions#Invisible|Invisible]] condition. You remain [[conditions#Invisible|Invisible]] until the ring is removed or until you take a [[bonus-action-xphb|Bonus Action]] to become visible again.
 
 *Source: Dungeon Master's Guide (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

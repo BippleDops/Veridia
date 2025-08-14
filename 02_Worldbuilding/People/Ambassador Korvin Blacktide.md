@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-ambassador-korvin-blacktide-ambassador-korvin-blacktide.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ambassador-korvin-blacktide-ambassador-korvin-blacktide.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Green Death]]
+- [[The Green Death]]
 
 
 ## Connections
 
 - [[Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/People/Knight]]
-- [[02_Worldbuilding/People/Lighthouse Keeper]]
-- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[Knight]]
+- [[Lighthouse Keeper]]
+- [[Quest - The Pretender]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

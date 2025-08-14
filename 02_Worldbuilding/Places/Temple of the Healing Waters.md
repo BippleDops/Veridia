@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-of-the-healing-waters-temple-of-the-healing-waters.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-of-the-healing-waters-temple-of-the-healing-waters.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of the Healing Waters]]
+- [[Temple of the Healing Waters]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[Shadow Surgeons Collective]]

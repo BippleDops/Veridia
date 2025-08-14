@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-tidal-priest-marina-deepcurrent-tidal-priest-marina-deepcurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-tidal-priest-marina-deepcurrent-tidal-priest-marina-deepcurrent.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tidal Priest Marina Deepcurrent]]
+- [[Tidal Priest Marina Deepcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[Tidal Memory Ceremonies]]

@@ -5,6 +5,10 @@ created_by: auto-stub
 significance: Social Foundation
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - campaign/consequence
 - complete
@@ -27,15 +31,13 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Memory Alteration Consequences
+
 *The Hidden Price of Changing the Mind*
 
 ## Overview
 
-Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[02_Worldbuilding/Lore/Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
+Memory alteration in [[12_Research/D&D_References/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[12_Research/D&D_References/Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
 
 ## Categories of Consequences
 
@@ -652,14 +654,16 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 
 ## Connection to Campaign Elements
 
-### Relationship to [[02_Worldbuilding/Lore/The Convergence Point]]
+### Relationship to [[12_Research/D&D_References/The Convergence Point]]
+
 **Memory Alteration and Reality Merger:**
 - Widespread memory alterations may affect how individuals experience convergence
 - False memories could determine which version of merged reality becomes dominant
 - Memory chaos could make convergence process more unpredictable and dangerous
 - Resolution of convergence might eliminate memory alteration problems or make them worse
 
-### Impact on [[02_Worldbuilding/Lore/The Real Marina]]
+### Impact on [[12_Research/D&D_References/The Real Marina]]
+
 **Marina's Memory Integration:**
 - Her multidimensional memories might be interpreted as memory alteration consequences
 - Treatment for memory alteration might interfere with her natural integration process
@@ -667,6 +671,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 - Her choice about integration could affect how memory works in merged reality
 
 ### Shadow Corruption Connection
+
 **Memory and Shadow Interaction:**
 - Shadow corruption might be spreading through corrupted memories
 - Memory alterations might make individuals more vulnerable to shadow infection
@@ -676,20 +681,24 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 ## DM Secrets and Hidden Information
 
 ### The Ultimate Consequence
+
 > [!warning] DM Only
-> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[02_Worldbuilding/Lore/The Convergence Point]] and making it more chaotic.
+> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[12_Research/D&D_References/The Convergence Point]] and making it more chaotic.
 
 ### The Deep Mother's Influence
+
 > [!warning] DM Secret
-> [[02_Worldbuilding/Lore/The Deep Mother]] has been subtly influencing the development of memory alteration technology through dreams. She wants the population to become comfortable with altered consciousness as preparation for merger into collective awareness. The memory alteration consequences are part of her awakening process.
+> [[12_Research/D&D_References/The Deep Mother]] has been subtly influencing the development of memory alteration technology through dreams. She wants the population to become comfortable with altered consciousness as preparation for merger into collective awareness. The memory alteration consequences are part of her awakening process.
 
 ### The True Cure
+
 > [!warning] Hidden Knowledge
-> The only way to fully resolve memory alteration consequences is to restore the original unified reality before the dimensional split. This is why [[02_Worldbuilding/Lore/The Real Marina]]'s integration is so important—she holds the key to healing not just individual memories, but the fundamental nature of memory itself.
+> The only way to fully resolve memory alteration consequences is to restore the original unified reality before the dimensional split. This is why [[12_Research/D&D_References/The Real Marina]]'s integration is so important—she holds the key to healing not just individual memories, but the fundamental nature of memory itself.
 
 ## Adventure Hooks and Campaign Integration
 
 ### Early Campaign
+
 - Investigate family affected by memory alteration consequences
 - Help establish support group for memory alteration victims
 - Uncover illegal memory modification operation
@@ -697,6 +706,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 - Assist individual trying to recover authentic memories
 
 ### Mid Campaign
+
 - Prevent memory weapon attack that would cause mass consequences
 - Navigate political crisis caused by memory alteration effects
 - Establish memory authentication service for community
@@ -704,6 +714,7 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 - Investigate connection between memory problems and shadow corruption
 
 ### Late Campaign
+
 - Choose how to resolve memory problems in context of convergence
 - Deal with society-threatening memory cascade event
 - Use understanding of memory consequences to guide convergence outcome
@@ -718,17 +729,17 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Festival]]
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Fear Farms]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Crystal Festival]]
+- [[12_Research/D&D_References/Evidence Types Guide]]
+- [[12_Research/D&D_References/Fear Farms]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Forgetting Bomb]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -752,6 +763,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

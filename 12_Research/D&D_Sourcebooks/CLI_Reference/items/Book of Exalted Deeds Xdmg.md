@@ -33,13 +33,13 @@ The Book of Exalted Deeds rarely lingers in one place. As soon as the book is re
 
 A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits.
 
-Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] and [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] to it ends.
+Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[resistance-xphb|Resistance]] and [[immunity-xphb|Immunity]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[hit-points-xphb|Hit Points]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[attunement-xphb|Attunement]] to it ends.
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
 ## Celestial Calm
 
-While attuned to the book, you have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] and [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] conditions and [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions and [[resistance-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 
@@ -51,14 +51,14 @@ After you spend the requisite amount of time reading and studying the book, any 
 
 ## Halo
 
-After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet. You can dismiss or manifest the halo as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. While present, the halo gives you [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) checks. In addition, Fiends and Undead within the halo's [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] make attack rolls against you with [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]].
+After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet. You can dismiss or manifest the halo as a [[bonus-action-xphb|Bonus Action]]. While present, the halo gives you [[advantage-xphb|Advantage]] on Charisma ([[skills#Persuasion|Persuasion]]) checks. In addition, Fiends and Undead within the halo's [[bright-light-xphb|Bright Light]] make attack rolls against you with [[disadvantage-xphb|Disadvantage]].
 
 ## Random Properties
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [[/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
-- 2 [[/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg|major beneficial]] properties  
+- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
+- 2 [[artifact-properties-major-beneficial-properties-xdmg|major beneficial]] properties  
 
 ## Destroying the Book
 

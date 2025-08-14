@@ -28,7 +28,7 @@ world: Both
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Cost**: 15 gp
 - **Weight**: 5.0 lbs.
 

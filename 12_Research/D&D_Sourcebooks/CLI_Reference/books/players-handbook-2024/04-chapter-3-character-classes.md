@@ -29,10 +29,10 @@ Character class provides a character's most exciting capabilities. This chapter 
 
 Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...
 
-- [[/03_Mechanics/CLI/classes/barbarian-xphb-path-of-the-berserker-xphb|Path of the Berserker]] to unleash raw violence.  
-- [[/03_Mechanics/CLI/classes/barbarian-xphb-path-of-the-wild-heart-xphb|Path of the Wild Heart]] to manifest kinship with animals.  
-- [[/03_Mechanics/CLI/classes/barbarian-xphb-path-of-the-world-tree-xphb|Path of the World Tree]] to tap into cosmic vitality.  
-- [[/03_Mechanics/CLI/classes/barbarian-xphb-path-of-the-zealot-xphb|Path of the Zealot]] to rage in union with a god.  
+- [[barbarian-xphb-path-of-the-berserker-xphb|Path of the Berserker]] to unleash raw violence.  
+- [[barbarian-xphb-path-of-the-wild-heart-xphb|Path of the Wild Heart]] to manifest kinship with animals.  
+- [[barbarian-xphb-path-of-the-world-tree-xphb|Path of the World Tree]] to tap into cosmic vitality.  
+- [[barbarian-xphb-path-of-the-zealot-xphb|Path of the Zealot]] to rage in union with a god.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/027-03-003-bard-symbol.webp#center)
 
@@ -40,10 +40,10 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 
 Perform spells that inspire and heal allies or beguile foes. Then join the College of...
 
-- [[/03_Mechanics/CLI/classes/bard-xphb-college-of-dance-xphb|College of Dance]] to harness agility in battle.  
-- [[/03_Mechanics/CLI/classes/bard-xphb-college-of-glamour-xphb|College of Glamour]] to weave beguiling Feywild magic.  
-- [[/03_Mechanics/CLI/classes/bard-xphb-college-of-lore-xphb|College of Lore]] to collect knowledge and magical secrets.  
-- [[/03_Mechanics/CLI/classes/bard-xphb-college-of-valor-xphb|College of Valor]] to wield weapons with spells.  
+- [[bard-xphb-college-of-dance-xphb|College of Dance]] to harness agility in battle.  
+- [[bard-xphb-college-of-glamour-xphb|College of Glamour]] to weave beguiling Feywild magic.  
+- [[bard-xphb-college-of-lore-xphb|College of Lore]] to collect knowledge and magical secrets.  
+- [[bard-xphb-college-of-valor-xphb|College of Valor]] to wield weapons with spells.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/028-03-004-cleric-symbol.webp#center)
 
@@ -51,10 +51,10 @@ Perform spells that inspire and heal allies or beguile foes. Then join the Colle
 
 Invoke divine magic to heal, bolster, and smite. Then harness the...
 
-- [[/03_Mechanics/CLI/classes/cleric-xphb-life-domain-xphb|Life Domain]] to be a master of healing.  
-- [[/03_Mechanics/CLI/classes/cleric-xphb-light-domain-xphb|Light Domain]] to wield searing, warding light.  
-- [[/03_Mechanics/CLI/classes/cleric-xphb-trickery-domain-xphb|Trickery Domain]] to bedevil foes with mischief.  
-- [[/03_Mechanics/CLI/classes/cleric-xphb-war-domain-xphb|War Domain]] to inspire valor and chastise foes.  
+- [[cleric-xphb-life-domain-xphb|Life Domain]] to be a master of healing.  
+- [[cleric-xphb-light-domain-xphb|Light Domain]] to wield searing, warding light.  
+- [[cleric-xphb-trickery-domain-xphb|Trickery Domain]] to bedevil foes with mischief.  
+- [[cleric-xphb-war-domain-xphb|War Domain]] to inspire valor and chastise foes.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/029-03-005-druid-symbol.webp#center)
 
@@ -62,10 +62,10 @@ Invoke divine magic to heal, bolster, and smite. Then harness the...
 
 Channel nature magic to heal, shape-shift, and control the elements. Then join the Circle of the...
 
-- [[/03_Mechanics/CLI/classes/druid-xphb-circle-of-the-land-xphb|Circle of the Land]] to draw on the magic of the environment.  
-- [[/03_Mechanics/CLI/classes/druid-xphb-circle-of-the-moon-xphb|Circle of the Moon]] to adopt powerful animal forms.  
-- [[/03_Mechanics/CLI/classes/druid-xphb-circle-of-the-sea-xphb|Circle of the Sea]] to channel tides and storms.  
-- [[/03_Mechanics/CLI/classes/druid-xphb-circle-of-the-stars-xphb|Circle of the Stars]] to gain powers in a starry form.  
+- [[druid-xphb-circle-of-the-land-xphb|Circle of the Land]] to draw on the magic of the environment.  
+- [[druid-xphb-circle-of-the-moon-xphb|Circle of the Moon]] to adopt powerful animal forms.  
+- [[druid-xphb-circle-of-the-sea-xphb|Circle of the Sea]] to channel tides and storms.  
+- [[druid-xphb-circle-of-the-stars-xphb|Circle of the Stars]] to gain powers in a starry form.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/030-03-006-fighter-symbol.webp#center)
 
@@ -73,10 +73,10 @@ Channel nature magic to heal, shape-shift, and control the elements. Then join t
 
 Master all weapons and armor. Then embody the...
 
-- [[/03_Mechanics/CLI/classes/fighter-xphb-battle-master-xphb|Battle Master]] to use special combat maneuvers.  
-- [[/03_Mechanics/CLI/classes/fighter-xphb-champion-xphb|Champion]] to strive for peak combat prowess.  
-- [[/03_Mechanics/CLI/classes/fighter-xphb-eldritch-knight-xphb|Eldritch Knight]] to learn spells to aid in combat.  
-- [[/03_Mechanics/CLI/classes/fighter-xphb-psi-warrior-xphb|Psi Warrior]] to augment attacks with psionic power.  
+- [[fighter-xphb-battle-master-xphb|Battle Master]] to use special combat maneuvers.  
+- [[fighter-xphb-champion-xphb|Champion]] to strive for peak combat prowess.  
+- [[fighter-xphb-eldritch-knight-xphb|Eldritch Knight]] to learn spells to aid in combat.  
+- [[fighter-xphb-psi-warrior-xphb|Psi Warrior]] to augment attacks with psionic power.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/031-03-007-monk-symbol.webp#center)
 
@@ -84,10 +84,10 @@ Master all weapons and armor. Then embody the...
 
 Dart in and out of melee while striking fast and hard. Then become a Warrior of...
 
-- [[/03_Mechanics/CLI/classes/monk-xphb-warrior-of-mercy-xphb|Warrior of Mercy]] to heal or harm with a touch.  
-- [[/03_Mechanics/CLI/classes/monk-xphb-warrior-of-shadow-xphb|Warrior of Shadow]] to employ shadows for subterfuge.  
-- [[/03_Mechanics/CLI/classes/monk-xphb-warrior-of-the-elements-xphb|Warrior of the Elements]] to wield elemental power.  
-- [[/03_Mechanics/CLI/classes/monk-xphb-warrior-of-the-open-hand-xphb|Warrior of the Open Hand]] to master unarmed combat.  
+- [[monk-xphb-warrior-of-mercy-xphb|Warrior of Mercy]] to heal or harm with a touch.  
+- [[monk-xphb-warrior-of-shadow-xphb|Warrior of Shadow]] to employ shadows for subterfuge.  
+- [[monk-xphb-warrior-of-the-elements-xphb|Warrior of the Elements]] to wield elemental power.  
+- [[monk-xphb-warrior-of-the-open-hand-xphb|Warrior of the Open Hand]] to master unarmed combat.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/032-03-008-paladin-symbol.webp#center)
 
@@ -95,10 +95,10 @@ Dart in and out of melee while striking fast and hard. Then become a Warrior of.
 
 Smite foes and shield allies with divine and martial might. Then swear the Oath of...
 
-- [[/03_Mechanics/CLI/classes/paladin-xphb-oath-of-devotion-xphb|Oath of Devotion]] to emulate the angels of justice.  
-- [[/03_Mechanics/CLI/classes/paladin-xphb-oath-of-glory-xphb|Oath of Glory]] to reach the heights of heroism.  
-- [[/03_Mechanics/CLI/classes/paladin-xphb-oath-of-the-ancients-xphb|Oath of the Ancients]] to preserve life, joy, and nature.  
-- [[/03_Mechanics/CLI/classes/paladin-xphb-oath-of-vengeance-xphb|Oath of Vengeance]] to hunt down evildoers.  
+- [[paladin-xphb-oath-of-devotion-xphb|Oath of Devotion]] to emulate the angels of justice.  
+- [[paladin-xphb-oath-of-glory-xphb|Oath of Glory]] to reach the heights of heroism.  
+- [[paladin-xphb-oath-of-the-ancients-xphb|Oath of the Ancients]] to preserve life, joy, and nature.  
+- [[paladin-xphb-oath-of-vengeance-xphb|Oath of Vengeance]] to hunt down evildoers.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/033-03-009-ranger-symbol.webp#center)
 
@@ -106,10 +106,10 @@ Smite foes and shield allies with divine and martial might. Then swear the Oath 
 
 Weave together martial prowess, nature magic, and survival skills. Then embody the...
 
-- [[/03_Mechanics/CLI/classes/ranger-xphb-beast-master-xphb|Beast Master]] to bond with a primal beast.  
-- [[/03_Mechanics/CLI/classes/ranger-xphb-fey-wanderer-xphb|Fey Wanderer]] to manifest fey mirth and fury.  
-- [[/03_Mechanics/CLI/classes/ranger-xphb-gloom-stalker-xphb|Gloom Stalker]] to hunt foes that lurk in darkness.  
-- [[/03_Mechanics/CLI/classes/ranger-xphb-hunter-xphb|Hunter]] to protect nature with martial versatility.  
+- [[ranger-xphb-beast-master-xphb|Beast Master]] to bond with a primal beast.  
+- [[ranger-xphb-fey-wanderer-xphb|Fey Wanderer]] to manifest fey mirth and fury.  
+- [[ranger-xphb-gloom-stalker-xphb|Gloom Stalker]] to hunt foes that lurk in darkness.  
+- [[ranger-xphb-hunter-xphb|Hunter]] to protect nature with martial versatility.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/034-03-010-rogue-symbol.webp#center)
 
@@ -117,10 +117,10 @@ Weave together martial prowess, nature magic, and survival skills. Then embody t
 
 Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the...
 
-- [[/03_Mechanics/CLI/classes/rogue-xphb-arcane-trickster-xphb|Arcane Trickster]] to enhance stealth with spells.  
-- [[/03_Mechanics/CLI/classes/rogue-xphb-assassin-xphb|Assassin]] to deliver ambushes and poison.  
-- [[/03_Mechanics/CLI/classes/rogue-xphb-soulknife-xphb|Soulknife]] to strike foes with psi blades.  
-- [[/03_Mechanics/CLI/classes/rogue-xphb-thief-xphb|Thief]] to master infiltration and treasure hunting.  
+- [[rogue-xphb-arcane-trickster-xphb|Arcane Trickster]] to enhance stealth with spells.  
+- [[rogue-xphb-assassin-xphb|Assassin]] to deliver ambushes and poison.  
+- [[rogue-xphb-soulknife-xphb|Soulknife]] to strike foes with psi blades.  
+- [[rogue-xphb-thief-xphb|Thief]] to master infiltration and treasure hunting.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/035-03-011-sorcerer-symbol.webp#center)
 
@@ -128,10 +128,10 @@ Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the
 
 Wield magic innate to your being, shaping the power to your will. Then channel...
 
-- [[/03_Mechanics/CLI/classes/sorcerer-xphb-aberrant-sorcery-xphb|Aberrant Sorcery]] to use strange psionic magic.  
-- [[/03_Mechanics/CLI/classes/sorcerer-xphb-clockwork-sorcery-xphb|Clockwork Sorcery]] to harness cosmic forces of order.  
-- [[/03_Mechanics/CLI/classes/sorcerer-xphb-draconic-sorcery-xphb|Draconic Sorcery]] to breathe the magic of dragons.  
-- [[/03_Mechanics/CLI/classes/sorcerer-xphb-wild-magic-sorcery-xphb|Wild Magic Sorcery]] to unleash chaos magic.  
+- [[sorcerer-xphb-aberrant-sorcery-xphb|Aberrant Sorcery]] to use strange psionic magic.  
+- [[sorcerer-xphb-clockwork-sorcery-xphb|Clockwork Sorcery]] to harness cosmic forces of order.  
+- [[sorcerer-xphb-draconic-sorcery-xphb|Draconic Sorcery]] to breathe the magic of dragons.  
+- [[sorcerer-xphb-wild-magic-sorcery-xphb|Wild Magic Sorcery]] to unleash chaos magic.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/036-03-012-warlock-symbol.webp#center)
 
@@ -139,10 +139,10 @@ Wield magic innate to your being, shaping the power to your will. Then channel..
 
 Cast spells derived from occult knowledge. Then form a pact with the...
 
-- [[/03_Mechanics/CLI/classes/warlock-xphb-archfey-patron-xphb|Archfey Patron]] to teleport and wield fey magic.  
-- [[/03_Mechanics/CLI/classes/warlock-xphb-celestial-patron-xphb|Celestial Patron]] to heal with heavenly magic.  
-- [[/03_Mechanics/CLI/classes/warlock-xphb-fiend-patron-xphb|Fiend Patron]] to call on sinister powers.  
-- [[/03_Mechanics/CLI/classes/warlock-xphb-great-old-one-patron-xphb|Great Old One Patron]] to delve into forbidden lore.  
+- [[warlock-xphb-archfey-patron-xphb|Archfey Patron]] to teleport and wield fey magic.  
+- [[warlock-xphb-celestial-patron-xphb|Celestial Patron]] to heal with heavenly magic.  
+- [[warlock-xphb-fiend-patron-xphb|Fiend Patron]] to call on sinister powers.  
+- [[warlock-xphb-great-old-one-patron-xphb|Great Old One Patron]] to delve into forbidden lore.  
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/037-03-013-wizard-symbol.webp#center)
 
@@ -150,10 +150,10 @@ Cast spells derived from occult knowledge. Then form a pact with the...
 
 Study arcane magic and master spells for every purpose. Then embody the...
 
-- [[/03_Mechanics/CLI/classes/wizard-xphb-abjurer-xphb|Abjurer]] to shield allies and banish foes.  
-- [[/03_Mechanics/CLI/classes/wizard-xphb-diviner-xphb|Diviner]] to learn the multiverse's secrets.  
-- [[/03_Mechanics/CLI/classes/wizard-xphb-evoker-xphb|Evoker]] to create explosive effects.  
-- [[/03_Mechanics/CLI/classes/wizard-xphb-illusionist-xphb|Illusionist]] to weave spells of deception.
+- [[wizard-xphb-abjurer-xphb|Abjurer]] to shield allies and banish foes.  
+- [[wizard-xphb-diviner-xphb|Diviner]] to learn the multiverse's secrets.  
+- [[wizard-xphb-evoker-xphb|Evoker]] to create explosive effects.  
+- [[wizard-xphb-illusionist-xphb|Illusionist]] to weave spells of deception.
 
 ## Player-Facing Summary
 

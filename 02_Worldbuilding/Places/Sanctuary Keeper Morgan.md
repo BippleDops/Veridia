@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[Purist Coalition Thugs]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[Purist Coalition Thugs]]
 
 ## Player-Facing Summary
 

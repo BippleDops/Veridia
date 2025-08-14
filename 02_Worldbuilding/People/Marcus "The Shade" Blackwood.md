@@ -12,27 +12,25 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[The Bone Colosseum]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[Shadow Independence Levels]]
+- [[The Whisper Syndicate]]
+- [[Captain Lyanna Brightshield]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Vex Shadowthorn]]
+- [[Crystalhaven]]
+- [[The Bone Colosseum]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

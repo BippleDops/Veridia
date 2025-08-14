@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Martial Arts Order
 headquarters: '[[The Temple of Flowing Waters]]'
 influence: Regional (Martial arts community and spiritual seekers)
-leader: '[[02_Worldbuilding/Groups/Master Chen Wei]]'
+leader: '[[Master Chen Wei]]'
 members: ~150 monks, students, and initiates
 obsidianUIMode: preview
 status: complete
@@ -29,18 +29,15 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 
 
 # The Order of the Flowing Current
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*
 
 ## Organization Overview and Purpose
-The Order of the Flowing Current represents the most prestigious martial arts organization in [[02_Worldbuilding/Places/Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
+The Order of the Flowing Current represents the most prestigious martial arts organization in [[Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
 
 The Order operates through a comprehensive system that integrates martial training, spiritual meditation, scholarly study, and community service to develop practitioners who serve not only as formidable warriors but as teachers, mediators, and guardians of peace. Members of the Order are distinguished by their exceptional combat skills, profound inner discipline, commitment to justice and protection of the innocent, and the ability to find peaceful solutions to conflicts through wisdom and understanding rather than force alone.
 
@@ -251,9 +248,9 @@ Master Chen Wei undertakes a dangerous spiritual journey to seek ancient wisdom 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[Merchant Princes]]
+- [[Port Meridian]]
+- [[The Grand Bazaar of Echoing Coins]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

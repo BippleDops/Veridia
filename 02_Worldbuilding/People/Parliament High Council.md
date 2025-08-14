@@ -19,12 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg]]
 
 
 # Parliament High Council
@@ -138,7 +134,7 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Parliament High Council]]
+- [[Parliament High Council]]
 
 <!-- enriched: true -->
 nriched: true -->

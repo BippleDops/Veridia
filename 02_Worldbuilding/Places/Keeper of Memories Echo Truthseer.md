@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of Memories Echo Truthseer]]
+- [[Keeper of Memories Echo Truthseer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[Mediator Serenity Stillwater]]

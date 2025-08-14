@@ -4,6 +4,7 @@ status: complete
 updated: '2025-08-13T01:18:35.146003+00:00'
 created: '2025-08-11'
 tags:
+- quest
 - aethermoor
 - category/lore
 - complete
@@ -21,35 +22,37 @@ accessibility:
 ---
 
 
-
-
-
 # Princess Celestia
 
 ![[04_Resources/Assets/Art/Lore/Princess_Celestia.png|Princess Celestia Portrait]]
 
 ## Summary
+
 Princess Celestia describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
 
 ## Historical Context
+
 - Origin: Scribal disputes escalated into pressure-lock conflicts.
 - Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
 - Present: Competing narratives justify new taxes, oaths, and contraband routes.
 
 ## What It Means at the Table
+
 - Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
 - Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
+
+- Records implicate agents tied to [[12_Research/D&D_References/The Lighthouse of Storms]].
 - A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/Quests/Elena Starweaver]] financed a pivotal bribe.
+- Testimony suggests [[12_Research/D&D_References/Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
 - [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
-- [[02_Worldbuilding/Quests/Elena Starweaver]]
+- [[12_Research/D&D_References/Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -74,5 +77,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Reputation System]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Reputation System]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

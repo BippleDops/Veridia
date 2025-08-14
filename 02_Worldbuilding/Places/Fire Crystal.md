@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-fire-crystal-fire-crystal.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-fire-crystal-fire-crystal.svg]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Fire Crystal]]
+- [[12_Research/D&D_References/Fire Crystal]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[12_Research/D&D_Statblocks/The Crystalline Foundry]]

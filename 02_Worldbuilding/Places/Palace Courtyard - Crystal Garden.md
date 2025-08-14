@@ -15,27 +15,21 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-palace-courtyard-crystal-garden-palace-courtyard-crystal-garden.svg)
-
-
-
 
 
 # Palace Courtyard - Crystal Garden
 *Where Nature and Magic Bloom in Perfect Harmony*
 
 > *"In these sacred grounds where crystal meets chlorophyll, where ancient magic nurtures new growth, we witness the perfect marriage of natural beauty and supernatural wonder. Every bloom tells a story, every crystal sings a song of harmony between worlds."*
-> — [[02_Worldbuilding/Places/Master Gardener Sage Harmony Bloomtender]], Keeper of the Living Crystal
+> — [[Master Gardener Sage Harmony Bloomtender]], Keeper of the Living Crystal
 
 ## Overview
 
-The Palace Courtyard's Crystal Garden represents the pinnacle of [[02_Worldbuilding/Places/Aethermoor]]'s mastery over both natural cultivation and magical enhancement, creating a unique botanical wonderland where living plants and crystalline formations exist in perfect symbiosis. This extraordinary garden serves as both a showcase of the kingdom's advanced magical agriculture and a peaceful retreat for royal contemplation and diplomatic discourse.
+The Palace Courtyard's Crystal Garden represents the pinnacle of [[Aethermoor]]'s mastery over both natural cultivation and magical enhancement, creating a unique botanical wonderland where living plants and crystalline formations exist in perfect symbiosis. This extraordinary garden serves as both a showcase of the kingdom's advanced magical agriculture and a peaceful retreat for royal contemplation and diplomatic discourse.
 
-The garden combines traditional landscaping with innovative magical techniques that allow crystal formations to support and enhance plant growth while creating displays of beauty that transcend anything possible through purely natural means. The space serves multiple functions: royal private garden, diplomatic meeting space, center for magical botanical research, and symbol of [[02_Worldbuilding/Places/Aethermoor]]'s harmony with both natural and supernatural forces.
+The garden combines traditional landscaping with innovative magical techniques that allow crystal formations to support and enhance plant growth while creating displays of beauty that transcend anything possible through purely natural means. The space serves multiple functions: royal private garden, diplomatic meeting space, center for magical botanical research, and symbol of [[Aethermoor]]'s harmony with both natural and supernatural forces.
 
 ## Atmospheric Description
 
@@ -109,10 +103,10 @@ An accident in the research conservatory releases magically altered organisms in
 ## Secrets and Lore
 
 ### The Underwater Connection
-Hidden sections of the garden connect to underwater growing systems that allow collaboration with [[02_Worldbuilding/Places/Aquabyssos]] agricultural specialists, sharing techniques and species between surface and underwater realms.
+Hidden sections of the garden connect to underwater growing systems that allow collaboration with [[Aquabyssos]] agricultural specialists, sharing techniques and species between surface and underwater realms.
 
 ### The Shard Influence Research
-Secret experiments investigate whether [[02_Worldbuilding/Places/Seven Shards]] corruption affects plant growth, using the garden as a testing ground for detecting and countering supernatural threats to agriculture.
+Secret experiments investigate whether [[Seven Shards]] corruption affects plant growth, using the garden as a testing ground for detecting and countering supernatural threats to agriculture.
 
 ### The Royal Family Retreat
 The garden contains private areas where royal family members can escape court pressures and political demands, providing sanctuary spaces that even highest-ranking officials cannot access without explicit invitation.
@@ -195,11 +189,11 @@ Access to garden facilities for conducting sensitive negotiations.
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[02_Worldbuilding/Places/The Royal Palace]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[Crystal Gardens]]
+- [[The Crystalline Foundry]]
+- [[The Royal Palace]]
+- [[Find the Grief Bomb]]
+- [[Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -221,7 +215,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[Palace Courtyard - Crystal Garden]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[Aethermoor]]

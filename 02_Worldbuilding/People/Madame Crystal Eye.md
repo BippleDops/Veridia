@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-madame-crystal-eye-madame-crystal-eye.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-madame-crystal-eye-madame-crystal-eye.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Madame Crystal Eye]]
+- [[Madame Crystal Eye]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors]]

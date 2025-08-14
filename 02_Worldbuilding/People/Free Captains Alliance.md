@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Free Captains Alliance]]
+- [[Free Captains Alliance]]
 
 <!-- enriched: true -->

@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
+- shadow-touched
 - aethermoor
 - complete
 - content/location
@@ -15,12 +17,8 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.png]]
 
 
 ## Overview
@@ -62,11 +60,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of Shadows]]
+- [[12_Research/D&D_References/Temple of Shadows]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[12_Research/D&D_Statblocks/Quest - The Truth Unveiled]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

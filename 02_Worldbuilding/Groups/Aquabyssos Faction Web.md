@@ -14,9 +14,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg)
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg]]
 
 ## Player-Facing Summary
 

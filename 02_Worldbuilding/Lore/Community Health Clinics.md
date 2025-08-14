@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
+- [[Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
+- [[12_Research/D&D_References/Investigate Shadow Surgeons]]
 
 ## Player-Facing Summary
 

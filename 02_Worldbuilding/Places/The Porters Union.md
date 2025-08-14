@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-porters-union-the-porters-union.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-porters-union-the-porters-union.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Porters Union]]
+- [[The Porters Union]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter]]

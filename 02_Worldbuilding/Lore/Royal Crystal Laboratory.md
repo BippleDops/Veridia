@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - complete
 - content/lore
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.995847+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

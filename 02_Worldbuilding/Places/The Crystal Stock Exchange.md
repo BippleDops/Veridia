@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -15,38 +16,36 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-crystal-stock-exchange-the-crystal-stock-exchange.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-stock-exchange-the-crystal-stock-exchange.svg]]
 
 
 # The Crystal Stock Exchange
+
 *Where Crystal Futures Shape the World's Fortune*
 
 ## Overview
-The Crystal Stock Exchange is the premier financial institution for crystal commodity trading, located in the heart of [[02_Worldbuilding/Places/Crystalhaven]]. This magnificent crystal-and-glass structure houses the most sophisticated trading systems for crystal futures, magical energy derivatives, and enchantment-backed securities. The Exchange sets global crystal prices and serves as the backbone of the magical economy, with connections to every major merchant house, magical academy, and government treasury.
+
+The Crystal Stock Exchange is the premier financial institution for crystal commodity trading, located in the heart of [[12_Research/D&D_References/Crystalhaven]]. This magnificent crystal-and-glass structure houses the most sophisticated trading systems for crystal futures, magical energy derivatives, and enchantment-backed securities. The Exchange sets global crystal prices and serves as the backbone of the magical economy, with connections to every major merchant house, magical academy, and government treasury.
 
 ## Trading Operations
-The Exchange operates complex markets for standard crystals, corrupted variants, magical energy futures, and enchantment insurance. Major traders include [[02_Worldbuilding/People/Banker Titus Goldcurrent]], [[02_Worldbuilding/People/Lord Aurelius Goldwave]], and representatives from [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operating through shell companies. Daily trading volumes exceed 100,000 gold pieces, with prices affecting everything from magical research to military campaigns.
+
+The Exchange operates complex markets for standard crystals, corrupted variants, magical energy futures, and enchantment insurance. Major traders include [[12_Research/D&D_References/Banker Titus Goldcurrent]], [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]], and representatives from [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operating through shell companies. Daily trading volumes exceed 100,000 gold pieces, with prices affecting everything from magical research to military campaigns.
 
 ## Key Connections
-- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Primary retail distribution partner
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Major institutional investors
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Regulatory oversight and quality control
-- **[[02_Worldbuilding/Places/The Crimson Foundries]]** - Major crystal consumer for weapons
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research market analyst
-- **[[02_Worldbuilding/Groups/The Crystal Hive Collective|02 Worldbuilding/Groups/The Crystal Hive Collective]]** - Uncontrolled supply disruption
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Ancient crystal discoveries affecting prices
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Manipulates markets through insider knowledge
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Shipping and logistics coordination
-- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Gray market crystal distribution
-- **[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]** - Specialized crystal-enhanced services
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Investigating corruption in crystal trade
+
+- **[[12_Research/D&D_References/The Grand Bazaar of Echoing Coins]]** - Primary retail distribution partner
+- **[[12_Research/D&D_References/Merchant Princes]]** - Major institutional investors
+- **[[12_Research/D&D_Statblocks/Crystal Wardens]]** - Regulatory oversight and quality control
+- **[[12_Research/D&D_Statblocks/The Crimson Foundries]]** - Major crystal consumer for weapons
+- **[[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]]** - Research market analyst
+- **[[The Crystal Hive Collective|02 Worldbuilding/Groups/The Crystal Hive Collective]]** - Uncontrolled supply disruption
+- **[[12_Research/D&D_References/The Sundered Vaults]]** - Ancient crystal discoveries affecting prices
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]** - Manipulates markets through insider knowledge
+- **[[12_Research/D&D_References/Port Meridian]]** - Shipping and logistics coordination
+- **[[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Gray market crystal distribution
+- **[[Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]** - Specialized crystal-enhanced services
+- **[[12_Research/D&D_References/High Inquisitor Maltheos]]** - Investigating corruption in crystal trade
 
 ## History
 
@@ -97,12 +96,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Stock Exchange]]
+- [[12_Research/D&D_References/The Crystal Stock Exchange]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

@@ -14,9 +14,6 @@ world: Aethermoor
 ---
 
 
-
-
-
 ## Overview
 
 TODO

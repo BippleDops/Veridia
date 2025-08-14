@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-kingpin-s-fall-quest-the-kingpin-s-fall.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-kingpin-s-fall-quest-the-kingpin-s-fall.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Kingpin's Fall]]
+- [[Quest - The Kingpin's Fall]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]

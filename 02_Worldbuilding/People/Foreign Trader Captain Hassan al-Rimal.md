@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-foreign-trader-captain-hassan-al-rimal.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-foreign-trader-captain-hassan-al-rimal.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Foreign Trader Captain Hassan al-Rimal]]
+- [[Foreign Trader Captain Hassan al-Rimal]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter]]

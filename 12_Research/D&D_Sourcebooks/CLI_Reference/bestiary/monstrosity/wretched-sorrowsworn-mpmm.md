@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wretched-sorrowsworn-mpmm-wretched-sorrowsworn-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/wretched-sorrowsworn-mpmm|Wretched Sorrowsworn]]
+# [[wretched-sorrowsworn-mpmm|Wretched Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -61,7 +61,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "traits":
   - "desc": "The sorrowsworn has advantage on an attack roll against a creature if\
       \ at least one of the sorrowsworn's allies is within 5 feet of the creature\
-      \ and the ally isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].\
+      \ and the ally isn't [[conditions#Incapacitated|incapacitated]].\
       \ The sorrowsworn otherwise has disadvantage on attack rolls."
     "name": "Wretched Pack Tactics"
 "actions":

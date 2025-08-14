@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-depths-walker-marina-captain-depths-walker-marina.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-depths-walker-marina-captain-depths-walker-marina.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Depths-Walker Marina]]
+- [[Captain Depths-Walker Marina]]
 
 <!-- enriched: true -->

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-sommelier-bacchus-deepbottle-sommelier-bacchus-deepbottle.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sommelier-bacchus-deepbottle-sommelier-bacchus-deepbottle.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[Chef Gastropod]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[Chef Gastropod]]
 
 ## Player-Facing Summary
 

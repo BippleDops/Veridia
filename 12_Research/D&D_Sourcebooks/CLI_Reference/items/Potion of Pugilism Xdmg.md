@@ -27,7 +27,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-After you drink this potion, each [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]] you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
+After you drink this potion, each [[unarmed-strike-xphb|Unarmed Strike]] you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
 
 This potion is a thick green fluid that tastes like spinach.
 

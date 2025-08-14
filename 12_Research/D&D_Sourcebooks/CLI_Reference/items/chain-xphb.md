@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 5 gp
 - **Weight**: 10.0 lbs.
 
-As a [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]], [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]], or [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition if you succeed on a DC 13 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. If the creature's legs are bound, the creature has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check as an action. Bursting the Chain requires a successful DC 20 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check as an action.
+As a [[actions#Utilize|Utilize]] action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [[conditions#Grappled|Grappled]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]] condition if you succeed on a DC 13 Strength ([[skills#Athletics|Athletics]]) check. If the creature's legs are bound, the creature has the [[conditions#Restrained|Restrained]] condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([[skills#Acrobatics|Acrobatics]]) check as an action. Bursting the Chain requires a successful DC 20 Strength ([[skills#Athletics|Athletics]]) check as an action.
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

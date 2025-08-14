@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg]]
 
 
 # The Deepmind Conspiracy
@@ -103,9 +99,9 @@ The Deepmind Conspiracy works whether true or false. If real, it provides shadow
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[Archon Meredith Saltweaver]]
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
 
 
 ## Appearance
@@ -147,6 +143,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
+- [[The Deepmind Conspiracy]]
 
 <!-- enriched: true -->

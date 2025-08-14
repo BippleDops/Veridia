@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blue-dragon-wyrmling-xmm-blue-dragon-wyrmling-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]
+# [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Blue dragon wyrmlings often serve other powerful creatures, learning the ways of control and establishing fearful reputations among weaker creatures. Many wyrmlings initially serve loyally, but as their powers grow to match their ambitions, they eventually betray or abandon their associates. These wyrmlings tempt small groups of creatures into their service, rewarding them with modest treasures and promises of future power.
@@ -70,9 +70,9 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -85,7 +85,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ plus 3 (d6) Lightning damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 21 (6d6) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "source":

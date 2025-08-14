@@ -6788,40 +6788,20 @@
 ## location-city-world-map-world-map
 ![](04_Resources/Assets/Locations/location-city-world-map-world-map.svg)
 
-## Culture & Daily Life
+## location_aethermoor_1755203001361
+![](04_Resources/Assets/Locations/location_aethermoor_1755203001361.png)
 
-Life in Locations Gallery follows the rhythms of mixed culture, with the community's large scale creating diverse professional specializations and complex social hierarchies.
+## location_aethermoor_1755203594713
+![](04_Resources/Assets/Locations/location_aethermoor_1755203594713.png)
 
-### Daily Rhythms
+## location_aquabyssos_1755202980318
+![](04_Resources/Assets/Locations/location_aquabyssos_1755202980318.png)
 
-- **Trade Activities**: Trade good inspection and valuation by certified assessors
-- **Environmental Activities**: Environmental transition assistance for inter-world travelers
-- **Diplomatic Activities**: Diplomatic protocol observances for inter-world relations
+## location_aquabyssos_1755203573661
+![](04_Resources/Assets/Locations/location_aquabyssos_1755203573661.png)
 
-### Cultural Practices
+## location_production_1755203948735
+![](04_Resources/Assets/Locations/location_production_1755203948735.png)
 
-- **Cultural**: Cultural fusion ceremonies blending aquabyssos and aethermoor customs
-- **Art**: Art exhibitions showcasing techniques from both worlds
-
-### Economic Life
-
-- **Diplomatic**: Diplomatic escort services for inter-world delegations
-- **Exchange**: Exchange rate monitoring and currency conversion services
-- **Technology**: Technology adaptation workshops for cross-world innovations
-
-### Social Organization
-
-- **Community Interaction**: Celebration planning incorporating traditions from both worlds
-- **Community Interaction**: Cultural sensitivity training for community leaders
-
-### Environmental Adaptation
-
-- **Survival Practice**: Multi-environment safety training for diverse conditions
-- **Survival Practice**: Emergency protocols for cross-dimensional incidents
-
-### Community Calendar
-
-**Daily Cycle**: Community activities follow natural rhythms with peak activity periods and rest times
-**Weekly Patterns**: Regular market days, cultural events, and community gatherings
-**Seasonal Celebrations**: Traditional festivals and ceremonies marking significant periods
-**Special Events**: Unique local celebrations and important community milestones
+## location_void_1755203022407
+![](04_Resources/Assets/Locations/location_void_1755203022407.png)

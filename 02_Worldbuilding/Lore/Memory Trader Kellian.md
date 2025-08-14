@@ -11,6 +11,8 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- shadow-touched
 - aquabyssos
 - complete
 - content/lore
@@ -23,36 +25,37 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 # Memory Trader Kellian
 
 ![[04_Resources/Assets/Art/Lore/Memory_Trader_Kellian.png|Memory Trader Kellian Portrait]]
 
 ## Summary
+
 Memory Trader Kellian describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
 
 ## Historical Context
+
 - Origin: Scribal disputes escalated into pressure-lock conflicts.
 - Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
 - Present: Competing narratives justify new taxes, oaths, and contraband routes.
 
 ## What It Means at the Table
+
 - Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
 - Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
+
+- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
+- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -77,6 +80,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[12_Research/D&D_Statblocks/Archivist Mnemonic the Forgotten]]
+- [[12_Research/D&D_Statblocks/Memory Harvester Kythara]]
+- [[12_Research/D&D_Statblocks/Memory Merchant Valeria Siltweave]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-trade-union-trade-union.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-trade-union-trade-union.svg]]
 
 
 ## Overview
@@ -43,7 +40,7 @@ TODO
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[Corallion]]
 
 ## Player-Facing Summary
 

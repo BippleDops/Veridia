@@ -13,10 +13,6 @@ updated: '2025-08-13T01:18:35.178916+00:00'
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -43,10 +39,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+- [[Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[Quest - The Convergence Crisis]]
+- [[12_Research/D&D_References/The Void Watchers]]
+- [[12_Research/D&D_Statblocks/Quest - The Convergence Crisis]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -27,7 +27,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\celestial/ki-rin-mpmm|Ki-rin]]
+# [[ki-rin-mpmm|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -65,14 +65,14 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -97,20 +97,20 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
     "name": "Sacred Fire"
   - "desc": "The ki-rin casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\nAt will:\
-      \ [[/03_Mechanics/CLI/spells/light-xphb|light]], [[/03_Mechanics/CLI/spells/major-image-xphb|major image]]\
-      \ (6th-level version), [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]]\n\
-      \n3/day each: [[/03_Mechanics/CLI/spells/cure-wounds-xphb|cure wounds]],\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]],\
-      \ [[/03_Mechanics/CLI/spells/sending-xphb|sending]]\n\n1/day each: [[/03_Mechanics/CLI/spells/banishment-xphb|banishment]],\
-      \ [[/03_Mechanics/CLI/spells/calm-emotions-xphb|calm emotions]], [[/03_Mechanics/CLI/spells/create-food-and-water-xphb|create food\
-      \ and water]], [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater\
-      \ restoration]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane\
-      \ shift]], [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb|protection from evil\
+      \ [[light-xphb|light]], [[major-image-xphb|major image]]\
+      \ (6th-level version), [[thaumaturgy-xphb|thaumaturgy]]\n\
+      \n3/day each: [[cure-wounds-xphb|cure wounds]],\
+      \ [[dispel-magic-xphb|dispel magic]], [[lesser-restoration-xphb|lesser restoration]],\
+      \ [[sending-xphb|sending]]\n\n1/day each: [[banishment-xphb|banishment]],\
+      \ [[calm-emotions-xphb|calm emotions]], [[create-food-and-water-xphb|create food\
+      \ and water]], [[greater-restoration-xphb|greater\
+      \ restoration]], [[plane-shift-xphb|plane\
+      \ shift]], [[protection-from-evil-and-good-xphb|protection from evil\
       \ and good]],\
-      \ [[/03_Mechanics/CLI/spells/revivify-xphb|revivify]], [[/03_Mechanics/CLI/spells/wind-walk-xphb|wind walk]]"
+      \ [[revivify-xphb|revivify]], [[wind-walk-xphb|wind walk]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The ki-rin moves up to half its speed without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity\
+  - "desc": "The ki-rin moves up to half its speed without provoking [[actions#Opportunity%20Attack|opportunity\
       \ attacks]]."
     "name": "Move"
   - "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."

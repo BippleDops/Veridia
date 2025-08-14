@@ -32,7 +32,7 @@ _Source: Mordenkainen's Tome of Foes_
 On Initiative count 20 (losing initiative ties), Demogorgon can take a lair action to cause one of the following effects: Demogorgon can't use the same effect two rounds in a row:
 
 - Demogorgon creates an illusory duplicate of himself, which appears in his own space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or object interacts physically with Demogorgon (for example, hitting him with an attack), there is a 50 percent chance that it is the illusory duplicate that is being affected, not Demogorgon himself, in which case the illusion disappears.  
-- Demogorgon casts the [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.  
+- Demogorgon casts the [[darkness-xphb|darkness]] spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

@@ -12,9 +12,6 @@ updated: '2025-08-13T01:18:34.549502+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -41,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Azure Shard]]
+- [[12_Research/D&D_References/Azure Shard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Azure Shard]]
-- [[02_Worldbuilding/People/Verdant Shard]]
+- [[12_Research/D&D_References/Azure Shard]]
+- [[12_Research/D&D_References/Verdant Shard]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

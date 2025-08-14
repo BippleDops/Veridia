@@ -10,6 +10,9 @@ significance: Critical Safety Infrastructure
 specialization_required: Temporal Engineering Certification
 status: complete
 tags:
+- crystal-enhanced
+- aerial
+- aquatic
 - advanced-physics
 - anomaly-resolution
 - both
@@ -33,18 +36,16 @@ world: Both
 ---
 
 
-
-
-
 # Temporal Anomaly Resolution
+
 *Restoring Order to the Flow of Time*
 
 > *"When time itself becomes wounded, when cause follows effect down impossible paths, when yesterday threatens to devour tomorrow—that is when we step forward. We are the surgeons of causality, the healers of broken moments, the guardians who ensure that the river of time continues to flow toward its proper destination."*
-> — [[02_Worldbuilding/Lore/Master Temporal Engineer Chronos Fieldwright]], Director of Temporal Anomaly Resolution Services
+> — [[12_Research/D&D_References/Master Temporal Engineer Chronos Fieldwright]], Director of Temporal Anomaly Resolution Services
 
 ## Overview
 
-Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
+Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
 
 The service operates through a network of highly trained temporal engineers, chronological researchers, and reality stabilization specialists who work around the clock to monitor temporal flows across both realms. Using advanced detection equipment and specialized containment techniques, these teams respond to everything from minor temporal hiccups to major causality crises that could threaten the fundamental structure of time itself.
 
@@ -614,32 +615,36 @@ Working with Temporal Anomaly Resolution provides unique character development o
 ## Connected Systems and Cross-References
 
 ### Related Environmental Systems
-- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Controlled areas where temporal manipulation is conducted
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Broader category including temporal hazards among other environmental dangers
-- **[[02_Worldbuilding/Lore/Reality Merge Zones]]**: Areas where temporal anomalies interact with dimensional instabilities
-- **[[02_Worldbuilding/Lore/Convergence Point]]**: Ultimate location where temporal and dimensional effects combine
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Parallel system addressing physical rather than temporal environmental challenges
+
+- **[[12_Research/D&D_References/Temporal Distortion Zones]]**: Controlled areas where temporal manipulation is conducted
+- **[[12_Research/D&D_References/Environmental Hazards]]**: Broader category including temporal hazards among other environmental dangers
+- **[[12_Research/D&D_References/Reality Merge Zones]]**: Areas where temporal anomalies interact with dimensional instabilities
+- **[[12_Research/D&D_References/Convergence Point]]**: Ultimate location where temporal and dimensional effects combine
+- **[[12_Research/D&D_References/Pressure Adaptation System]]**: Parallel system addressing physical rather than temporal environmental challenges
 
 ### Key Locations
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
-- **[[02_Worldbuilding/Places/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
-- **[[02_Worldbuilding/Lore/Temporal Engineering Institute]]**: Primary research and training facility for temporal anomaly resolution
-- **[[02_Worldbuilding/Lore/Crisis Command Center]]**: Coordination facility for major temporal emergencies
-- **[[02_Worldbuilding/Lore/Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms
+
+- **[[12_Research/D&D_References/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
+- **[[12_Research/D&D_References/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
+- **[[12_Research/D&D_References/Temporal Engineering Institute]]**: Primary research and training facility for temporal anomaly resolution
+- **[[12_Research/D&D_References/Crisis Command Center]]**: Coordination facility for major temporal emergencies
+- **[[12_Research/D&D_References/Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms
 
 ### Important Organizations
-- **[[02_Worldbuilding/Groups/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
-- **[[02_Worldbuilding/Lore/International Temporal Safety Council]]**: Government organization overseeing temporal engineering
+
+- **[[12_Research/D&D_References/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
+- **[[12_Research/D&D_References/International Temporal Safety Council]]**: Government organization overseeing temporal engineering
 - **[[Emergency Response Corps]]**: Specialized teams handling temporal crises
-- **[[02_Worldbuilding/Lore/Temporal Research Institute]]**: Scientific organization advancing temporal understanding
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]**: Diplomatic organization managing international temporal projects
+- **[[12_Research/D&D_References/Temporal Research Institute]]**: Scientific organization advancing temporal understanding
+- **[[12_Research/D&D_References/Cross-Realm Cooperation Authority]]**: Diplomatic organization managing international temporal projects
 
 ### Key Personnel
-- **[[02_Worldbuilding/Lore/Master Temporal Engineer Chronos Fieldwright]]**: Director of Temporal Anomaly Resolution Services
+
+- **[[12_Research/D&D_References/Master Temporal Engineer Chronos Fieldwright]]**: Director of Temporal Anomaly Resolution Services
 - **[[Grand Chronarch Echo Causality]]**: Overall leader of international temporal safety efforts
-- **[[02_Worldbuilding/Lore/Emergency Response Coordinator Time Guardian]]**: Manager of temporal crisis response operations
-- **[[02_Worldbuilding/Lore/Research Director Past Future]]**: Leader of temporal research and development programs
-- **[[02_Worldbuilding/Lore/Training Supervisor Learning Moment]]**: Director of temporal engineering education programs
+- **[[12_Research/D&D_References/Emergency Response Coordinator Time Guardian]]**: Manager of temporal crisis response operations
+- **[[12_Research/D&D_References/Research Director Past Future]]**: Leader of temporal research and development programs
+- **[[12_Research/D&D_References/Training Supervisor Learning Moment]]**: Director of temporal engineering education programs
 
 Temporal Anomaly Resolution represents humanity's most ambitious attempt to master time itself, not for personal gain or power, but for the protection and preservation of causality itself. Through these dedicated services, the natural order of cause and effect is maintained, paradoxes are prevented, and the flow of time continues toward its intended destination. As the convergence between realms creates increasingly complex temporal challenges, these brave specialists stand as guardians of the very foundation of reality—ensuring that tomorrow will arrive as it should, and yesterday remains where it belongs.
 
@@ -671,7 +676,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Convergence Point]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Convergence Point]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]

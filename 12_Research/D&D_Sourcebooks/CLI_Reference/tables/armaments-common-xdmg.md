@@ -25,16 +25,16 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–10 | [[/03_Mechanics/CLI/items/armor-of-gleaming-xdmg|Armor of Gleaming]] |
-| 11–20 | [[/03_Mechanics/CLI/items/cast-off-armor-xdmg|Cast-Off Armor]] |
-| 21–30 | [[/03_Mechanics/CLI/items/dread-helm-xdmg|Dread Helm]] |
-| 31–40 | [[/03_Mechanics/CLI/items/moon-touched-sword-xdmg|Moon-Touched Sword]] |
-| 41–50 | [[/03_Mechanics/CLI/items/shield-of-expression-xdmg|Shield of Expression]] |
-| 51–60 | [[/03_Mechanics/CLI/items/silvered-weapon-xdmg|Silvered Weapon]] |
-| 61–70 | [[/03_Mechanics/CLI/items/smoldering-armor-xdmg|Smoldering Armor]] |
-| 71–80 | [[/03_Mechanics/CLI/items/sylvan-talon-xdmg|Sylvan Talon]] |
-| 81–90 | [[/03_Mechanics/CLI/items/veterans-cane-xdmg|Veteran's Cane]] |
-| 91–00 | [[/03_Mechanics/CLI/items/walloping-ammunition-xdmg|Walloping Ammunition]] |
+| 01–10 | [[armor-of-gleaming-xdmg|Armor of Gleaming]] |
+| 11–20 | [[cast-off-armor-xdmg|Cast-Off Armor]] |
+| 21–30 | [[dread-helm-xdmg|Dread Helm]] |
+| 31–40 | [[moon-touched-sword-xdmg|Moon-Touched Sword]] |
+| 41–50 | [[shield-of-expression-xdmg|Shield of Expression]] |
+| 51–60 | [[silvered-weapon-xdmg|Silvered Weapon]] |
+| 61–70 | [[smoldering-armor-xdmg|Smoldering Armor]] |
+| 71–80 | [[sylvan-talon-xdmg|Sylvan Talon]] |
+| 81–90 | [[veterans-cane-xdmg|Veteran's Cane]] |
+| 91–00 | [[walloping-ammunition-xdmg|Walloping Ammunition]] |
 ^armaments-common
 
 ## Player-Facing Summary

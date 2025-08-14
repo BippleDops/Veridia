@@ -15,35 +15,28 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-old-valdris-old-valdris.svg)
-
-
-
-
 
 
 # Old Valdris - The Preserved City
 
 ## Overview
-Old Valdris exists in a massive air bubble, perfectly preserved as it was in the moments before [[02_Worldbuilding/Places/The Great Drowning]]. The city's 50,000 inhabitants are frozen in time, caught mid-action in their daily lives, turned to living crystal. The bubble is maintained by the collective dying wish of the population, and walking through the streets means witnessing the last moments of a civilization. Time moves strangely here - visitors age rapidly in some areas while becoming frozen in others.
+Old Valdris exists in a massive air bubble, perfectly preserved as it was in the moments before [[The Great Drowning]]. The city's 50,000 inhabitants are frozen in time, caught mid-action in their daily lives, turned to living crystal. The bubble is maintained by the collective dying wish of the population, and walking through the streets means witnessing the last moments of a civilization. Time moves strangely here - visitors age rapidly in some areas while becoming frozen in others.
 
 ## City Districts
 
 ### The Merchant Quarter
-Traders frozen mid-transaction, coins hanging in the air between hands. [[02_Worldbuilding/Places/The Crystal Merchant]] still moves, somehow immune to the freezing, trading in temporal fragments.
+Traders frozen mid-transaction, coins hanging in the air between hands. [[The Crystal Merchant]] still moves, somehow immune to the freezing, trading in temporal fragments.
 
 ### The Noble Heights
-Wealthy district where a grand ball was in progress. Dancers frozen mid-step, musicians with instruments raised. [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]] still dances alone among the statues.
+Wealthy district where a grand ball was in progress. Dancers frozen mid-step, musicians with instruments raised. [[Lady Vivienne the Unfrozen]] still dances alone among the statues.
 
 ### The Common Wells
 Working class area where people were drawing the last water before the flood. The water in the wells shows visions of what could have been.
 
 ### The Temple District
-Priests frozen in prayer, some reaching toward the ceiling as if seeing the water coming. [[02_Worldbuilding/Places/The Last Priest]] kneels at the altar, tears of crystal on his face.
+Priests frozen in prayer, some reaching toward the ceiling as if seeing the water coming. [[The Last Priest]] kneels at the altar, tears of crystal on his face.
 
 ### The Scholar's Row
 Library and academy where students and teachers are frozen reading books about avoiding catastrophe. The books still turn their own pages.
@@ -97,16 +90,16 @@ A messenger frozen mid-sprint, mouth open in a shout of warning that never finis
 10. The bubble wall flickering
 
 ## Quests Available
-- [[02_Worldbuilding/Places/The Frozen Throne]] - Retrieve King Marcus's crown
-- [[02_Worldbuilding/Lore/Time's Mercy]] - Free specific frozen citizens
-- [[02_Worldbuilding/Places/The Last Dance]] - Discover Lady Vivienne's truth
-- [[02_Worldbuilding/Places/Temporal Harvest]] - Stop the Crystal Merchant
-- [[02_Worldbuilding/Places/Bubble Burst]] - Prevent or cause the bubble's collapse
+- [[The Frozen Throne]] - Retrieve King Marcus's crown
+- [[Time's Mercy]] - Free specific frozen citizens
+- [[The Last Dance]] - Discover Lady Vivienne's truth
+- [[Temporal Harvest]] - Stop the Crystal Merchant
+- [[Bubble Burst]] - Prevent or cause the bubble's collapse
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Time's Mercy]]
+- [[Time's Mercy]]
 
 
 ## History
@@ -158,12 +151,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[Old Valdris]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Bubble Burst]]
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
-- [[02_Worldbuilding/Places/Temporal Harvest]]
-- [[02_Worldbuilding/Places/The Crystal Merchant]]
-- [[02_Worldbuilding/Places/The Frozen Throne]]
-- [[02_Worldbuilding/Places/The Last Priest]]
+- [[Bubble Burst]]
+- [[Lady Vivienne the Unfrozen]]
+- [[Temporal Harvest]]
+- [[The Crystal Merchant]]
+- [[The Frozen Throne]]
+- [[The Last Priest]]

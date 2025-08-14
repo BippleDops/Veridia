@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armanite-mpmm-armanite-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/armanite-mpmm|Armanite]]
+# [[armanite-mpmm|Armanite]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -55,7 +55,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "speed": "60 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "7"
@@ -72,7 +72,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 16 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ it must succeed on a DC 16 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Hooves"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) slashing damage."

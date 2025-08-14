@@ -14,19 +14,16 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bubble Burst]]
+- [[12_Research/D&D_References/Bubble Burst]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
-- [[02_Worldbuilding/Places/Bubble Burst]]
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[12_Research/D&D_References/Angels and Depths]]
+- [[12_Research/D&D_References/Bubble Burst]]
+- [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]
 
 ## Player-Facing Summary
 

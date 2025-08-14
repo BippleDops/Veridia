@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crown-jewels-crown-jewels.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crown-jewels-crown-jewels.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crown Jewels]]
+- [[Crown Jewels]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[Royal Palace]]

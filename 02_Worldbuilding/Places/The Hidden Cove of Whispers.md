@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
+- aquatic
 - both
 - complete
 - content/location
@@ -15,34 +17,32 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-hidden-cove-of-whispers-the-hidden-cove-of-whispers.svg]]
 
 
 # The Hidden Cove of Whispers
+
 *Where Secrets Dock and Silence Rules*
 
 ## Overview
-The Hidden Cove of Whispers serves as the secret headquarters for [[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]], featuring concealed docks, underwater storage facilities, and sophisticated communication networks that enable the Brotherhood's sophisticated smuggling and intelligence operations.
+
+The Hidden Cove of Whispers serves as the secret headquarters for [[12_Research/D&D_References/The Brotherhood of the Black Anchor]], featuring concealed docks, underwater storage facilities, and sophisticated communication networks that enable the Brotherhood's sophisticated smuggling and intelligence operations.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Primary headquarters and operations base
-- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Coordination hub and safe harbor
-- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Distribution network for stolen goods
-- **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information broker and intelligence coordinator
-- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Rival criminal organization and territorial competitor
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval threat requiring concealment
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Major operations target and infiltration site
-- **[[02_Worldbuilding/People/The Tidecaller]]** - Mysterious patron providing protection
-- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Regular infiltration target
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation and competition
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator seeking cove location
-- **[[02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competing criminal operation
+
+- **[[12_Research/D&D_References/The Brotherhood of the Black Anchor]]** - Primary headquarters and operations base
+- **[[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Coordination hub and safe harbor
+- **[[12_Research/D&D_References/The Shadow Markets New]]** - Distribution network for stolen goods
+- **[[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information broker and intelligence coordinator
+- **[[12_Research/D&D_References/The Crimson Fleet]]** - Rival criminal organization and territorial competitor
+- **[[12_Research/D&D_References/Admiral Cassandra Stormwind]]** - Primary naval threat requiring concealment
+- **[[12_Research/D&D_References/Port Meridian]]** - Major operations target and infiltration site
+- **[[12_Research/D&D_References/The Tidecaller]]** - Mysterious patron providing protection
+- **[[12_Research/D&D_References/The Floating Markets of Nereidios]]** - Regular infiltration target
+- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation and competition
+- **[[12_Research/D&D_References/Captain Lyanna Brightshield]]** - Active investigator seeking cove location
+- **[[12_Research/D&D_References/The Slave Markets of Tethys]]** - Competing criminal operation
 
 ## History
 
@@ -93,6 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Hidden Cove of Whispers]]
+- [[12_Research/D&D_References/The Hidden Cove of Whispers]]
 
 <!-- enriched: true -->

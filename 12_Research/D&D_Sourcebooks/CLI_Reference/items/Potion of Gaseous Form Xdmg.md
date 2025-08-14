@@ -31,7 +31,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[/03_Mechanics/CLI/spells/gaseous-form-xphb|Gaseous Form]] spell for 1 hour (no [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] required) or until you end the effect as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]].
+When you drink this potion, you gain the effect of the [[gaseous-form-xphb|Gaseous Form]] spell for 1 hour (no [[conditions#Concentration|Concentration]] required) or until you end the effect as a [[bonus-action-xphb|Bonus Action]].
 
 This potion's container seems to hold fog that moves and pours like water.
 

@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aethermoor
 - aquabyssos
 - both
@@ -27,23 +30,22 @@ updated: '2025-08-11T00:00:00+00:00'
 ![](04_Resources/Assets/Locations/location-city-crystal-gardens-crystal-gardens.svg)
 
 
-
-
 # Crystal Garden
+
 *Where Stone Dreams and Water Sings*
 
 ## Overview
 
-The Crystal Garden stands as one of the most beautiful and impossible locations in either world—a place where crystalline formations grow in patterns that defy physics, nourished by waters that shouldn't exist and guided by consciousness that transcends individual reality. Located at a major intersection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], this [[02_Worldbuilding/Lore/Merged Reality Zones]] has become a living testament to what convergence might achieve when guided by love rather than force.
+The Crystal Garden stands as one of the most beautiful and impossible locations in either world—a place where crystalline formations grow in patterns that defy physics, nourished by waters that shouldn't exist and guided by consciousness that transcends individual reality. Located at a major intersection between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], this [[12_Research/D&D_References/Merged Reality Zones]] has become a living testament to what convergence might achieve when guided by love rather than force.
 
-Originally the site of [[02_Worldbuilding/Places/Crystalhaven]]'s Royal Botanical Gardens, the area began transforming when dimensional barriers weakened, allowing deep-sea currents to flow through crystal formations while crystal growth patterns began following underwater pressure flows. The result is a landscape where massive crystalline trees grow in perfect spirals, their branches extending into pools of breathable water where fish swim through air and coral formations bloom in impossible colors.
+Originally the site of [[12_Research/D&D_References/Crystalhaven]]'s Royal Botanical Gardens, the area began transforming when dimensional barriers weakened, allowing deep-sea currents to flow through crystal formations while crystal growth patterns began following underwater pressure flows. The result is a landscape where massive crystalline trees grow in perfect spirals, their branches extending into pools of breathable water where fish swim through air and coral formations bloom in impossible colors.
 
 ## Physical Description and Layout
 
 ### The Crystalline Forest
 
 **The Prismatic Canopy:**
-The garden's most striking feature is a canopy of crystal formations that rise 200 feet above the ground, their translucent branches refracting light into constant rainbow displays. These "crystal trees" are not traditional minerals but living hybrid formations that combine [[02_Worldbuilding/Places/Aethermoor]]'s crystalline consciousness with [[02_Worldbuilding/Places/Aquabyssos]]'s coral growth patterns.
+The garden's most striking feature is a canopy of crystal formations that rise 200 feet above the ground, their translucent branches refracting light into constant rainbow displays. These "crystal trees" are not traditional minerals but living hybrid formations that combine [[12_Research/D&D_References/Aethermoor]]'s crystalline consciousness with [[12_Research/D&D_References/Aquabyssos]]'s coral growth patterns.
 
 **Structure and Composition:**
 - **Roots**: Extend deep into both earth and water dimensions, drawing nutrients from both realms
@@ -131,7 +133,7 @@ The garden's structures respond to the needs and emotions of visitors, reconfigu
 ### The Transformation Sanctuary
 
 **Adaptation Support:**
-The garden has become a crucial refuge for [[02_Worldbuilding/Lore/The Transformed Citizens]] from both worlds. Its unique properties allow individuals undergoing physical or consciousness changes to adapt safely, while its healing energies help manage the trauma and disorientation that often accompany transformation.
+The garden has become a crucial refuge for [[12_Research/D&D_References/The Transformed Citizens]] from both worlds. Its unique properties allow individuals undergoing physical or consciousness changes to adapt safely, while its healing energies help manage the trauma and disorientation that often accompany transformation.
 
 **Transformation Support Services:**
 - **Physical Adaptation**: Environment that adjusts to accommodate new physical needs
@@ -160,23 +162,23 @@ Small humanoid creatures formed from crystallized memories and coral consciousne
 
 **Healing Seekers:**
 Individuals from both worlds who come seeking physical, emotional, or spiritual healing:
-- Those suffering from [[02_Worldbuilding/Lore/Shadow Corruption]] find that the garden's pure energies can slow or reverse corruption effects
-- People experiencing [[02_Worldbuilding/Lore/The Transformed Citizens]] trauma use the garden as a safe space to adapt to changes
+- Those suffering from [[Shadow Corruption]] find that the garden's pure energies can slow or reverse corruption effects
+- People experiencing [[12_Research/D&D_References/The Transformed Citizens]] trauma use the garden as a safe space to adapt to changes
 - Individuals with memory integration disorders find that the garden helps them process conflicting experiences
 - Those grieving losses from the convergence crisis discover that the garden's memory coral can help them connect with lost loved ones
 
 **Research Visitors:**
 Scholars, mages, and scientists studying dimensional phenomena:
-- **[[02_Worldbuilding/Lore/Unity Institute]]** researchers documenting successful reality integration techniques
-- **[[02_Worldbuilding/Groups/Academies/The Crystal Academy]]** students learning advanced crystal consciousness communication
-- **[[02_Worldbuilding/Lore/The Memory Research Institute]]** academics studying the garden's memory storage capabilities
+- **[[12_Research/D&D_References/Unity Institute]]** researchers documenting successful reality integration techniques
+- **[[12_Research/D&D_References/The Crystal Academy]]** students learning advanced crystal consciousness communication
+- **[[12_Research/D&D_References/The Memory Research Institute]]** academics studying the garden's memory storage capabilities
 - **Reality theorists** investigating the principles that allow impossible physics to function
 - **Healers** learning new techniques for treating transformation and corruption effects
 
 **Diplomatic Missions:**
 Representatives from various factions who use the garden as neutral ground:
-- **[[02_Worldbuilding/Lore/The Unity Seekers]]** delegates meeting to plan convergence preparation
-- **[[02_Worldbuilding/Lore/The Healing Circles]]** practitioners sharing techniques and coordinating efforts
+- **[[12_Research/D&D_References/The Unity Seekers]]** delegates meeting to plan convergence preparation
+- **[[12_Research/D&D_References/The Healing Circles]]** practitioners sharing techniques and coordinating efforts
 - **Cross-dimensional trade negotiators** establishing commercial relationships
 - **Military representatives** arranging truces and cease-fires
 - **Religious leaders** from both worlds seeking spiritual guidance about convergence
@@ -187,12 +189,12 @@ Representatives from various factions who use the garden as neutral ground:
 A small community of individuals from both worlds who have chosen to live permanently in the garden, serving as its caretakers and guides:
 
 **[[Master Gardener Prism-Tide Lyra]]:**
-A former crystal mage from [[02_Worldbuilding/Places/Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
+A former crystal mage from [[12_Research/D&D_References/Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
 
-**[[02_Worldbuilding/Lore/Deep-Root Caretaker Nereon]]:**
+**[[12_Research/D&D_References/Deep-Root Caretaker Nereon]]:**
 An Aquabyssos pressure engineer who developed aquatic adaptations that allow him to tend to the garden's underwater elements. He has formed a symbiotic relationship with the memory coral and can access historical information about the garden's development.
 
-**[[02_Worldbuilding/Lore/The Echo Children]]:**
+**[[12_Research/D&D_References/The Echo Children]]:**
 A group of young people from both worlds who were born with natural abilities to exist in merged reality zones. They serve as the garden's ambassadors to new visitors and help translate between different forms of consciousness.
 
 ## Historical Development
@@ -200,7 +202,7 @@ A group of young people from both worlds who were born with natural abilities to
 ### Pre-Convergence Era
 
 **The Royal Botanical Gardens (Founded 847 AC - After Crystallization):**
-Originally established by Queen Luminara the Third as a showcase of [[02_Worldbuilding/Places/Aethermoor]]'s ability to cultivate beauty through crystal magic. The gardens featured traditional crystal formations shaped into artistic displays, with conventional plants growing in crystal-enriched soil.
+Originally established by Queen Luminara the Third as a showcase of [[12_Research/D&D_References/Aethermoor]]'s ability to cultivate beauty through crystal magic. The gardens featured traditional crystal formations shaped into artistic displays, with conventional plants growing in crystal-enriched soil.
 
 **Early Botanical Achievements:**
 - First successful cultivation of singing crystals for therapeutic gardens
@@ -224,10 +226,10 @@ Gardeners began reporting mysterious pools of water appearing overnight in the c
 ### The Great Transformation (87 years ago)
 
 **The Convergence Catalyst:**
-A massive [[02_Worldbuilding/Lore/Shadow Corruption]] outbreak threatened to destroy the gardens entirely, turning the beautiful crystal formations into twisted, dark growths. In desperation, the garden's keepers attempted an experimental technique—channeling both crystal consciousness and deep-sea pressure magic simultaneously to create a purification field.
+A massive [[Shadow Corruption]] outbreak threatened to destroy the gardens entirely, turning the beautiful crystal formations into twisted, dark growths. In desperation, the garden's keepers attempted an experimental technique—channeling both crystal consciousness and deep-sea pressure magic simultaneously to create a purification field.
 
 **The Unexpected Result:**
-Instead of simply cleansing the corruption, the combined magical forces tore open a stable dimensional overlap, allowing [[02_Worldbuilding/Places/Aquabyssos]]'s deep-sea consciousness to merge with the garden's crystal awareness. The corruption was indeed purified, but the garden was transformed into something entirely new—a hybrid space that belonged fully to both worlds.
+Instead of simply cleansing the corruption, the combined magical forces tore open a stable dimensional overlap, allowing [[12_Research/D&D_References/Aquabyssos]]'s deep-sea consciousness to merge with the garden's crystal awareness. The corruption was indeed purified, but the garden was transformed into something entirely new—a hybrid space that belonged fully to both worlds.
 
 **Immediate Consequences:**
 - All existing plants and crystals underwent rapid transformation into hybrid organisms
@@ -239,17 +241,17 @@ Instead of simply cleansing the corruption, the combined magical forces tore ope
 ### Modern Era Development
 
 **Recognition and Protection (50 years ago):**
-Both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection has been maintained even as political tensions between the worlds have increased.
+Both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection has been maintained even as political tensions between the worlds have increased.
 
 **Expansion and Evolution (Present Day):**
-The garden continues to grow and evolve, with new sections appearing as dimensional barriers weaken further. Recent additions include areas that exist primarily in [[02_Worldbuilding/Places/Aquabyssos]]'s reality but remain accessible to [[02_Worldbuilding/Places/Aethermoor]] visitors, and temporal zones where past and future versions of the garden overlap.
+The garden continues to grow and evolve, with new sections appearing as dimensional barriers weaken further. Recent additions include areas that exist primarily in [[12_Research/D&D_References/Aquabyssos]]'s reality but remain accessible to [[12_Research/D&D_References/Aethermoor]] visitors, and temporal zones where past and future versions of the garden overlap.
 
 ## Magical and Metaphysical Properties
 
 ### Reality Stabilization
 
 **Dimensional Anchoring:**
-Despite being a [[02_Worldbuilding/Lore/Merged Reality Zones]], the garden maintains remarkable stability compared to other such areas. This stability comes from the harmonious integration of both worlds' consciousness rather than the chaotic collision typical of forced mergers.
+Despite being a [[12_Research/D&D_References/Merged Reality Zones]], the garden maintains remarkable stability compared to other such areas. This stability comes from the harmonious integration of both worlds' consciousness rather than the chaotic collision typical of forced mergers.
 
 **Stabilization Mechanisms:**
 - **Consciousness Balance**: Equal representation of both crystal and aquatic awareness prevents reality dominance
@@ -301,7 +303,7 @@ Unlike the often traumatic transformations occurring elsewhere, changes that hap
 ### The Convergence Point
 
 **Living Example:**
-The Crystal Garden serves as proof that [[The Convergence Point]] can result in beneficial rather than catastrophic outcomes. Its existence demonstrates that the two worlds can merge harmoniously when the process is guided by love, cooperation, and mutual respect rather than force or domination.
+The Crystal Garden serves as proof that [[12_Research/D&D_References/The Convergence Point]] can result in beneficial rather than catastrophic outcomes. Its existence demonstrates that the two worlds can merge harmoniously when the process is guided by love, cooperation, and mutual respect rather than force or domination.
 
 **Convergence Preparation:**
 - Provides training ground for individuals who must function in post-convergence reality
@@ -312,7 +314,7 @@ The Crystal Garden serves as proof that [[The Convergence Point]] can result in 
 
 ### Marina's Truth
 
-The garden reflects [[The Real Marina]]'s identity integration challenges on a smaller scale:
+The garden reflects [[12_Research/D&D_References/The Real Marina]]'s identity integration challenges on a smaller scale:
 - Just as Marina must integrate multiple authentic identities, the garden successfully integrates two complete realities
 - The garden's consciousness provides a model for how individual identity can expand without being lost
 - Visitors often compare their experience in the garden to Marina's descriptions of existing in multiple realities
@@ -322,7 +324,7 @@ The garden reflects [[The Real Marina]]'s identity integration challenges on a s
 ### The Seven Shards
 
 **Sacred Resonance:**
-The garden responds powerfully to the presence of [[The Seven Shards]], with crystal formations growing larger and more complex when the artifacts are nearby. Some scholars believe the garden's consciousness could help reunify the Shards safely, while others worry that such power might overwhelm the garden's delicate balance.
+The garden responds powerfully to the presence of [[12_Research/D&D_References/The Seven Shards]], with crystal formations growing larger and more complex when the artifacts are nearby. Some scholars believe the garden's consciousness could help reunify the Shards safely, while others worry that such power might overwhelm the garden's delicate balance.
 
 **Artifact Sanctuary:**
 - The garden's neutral status makes it a potential safe storage location for the Shards
@@ -334,7 +336,7 @@ The garden responds powerfully to the presence of [[The Seven Shards]], with cry
 ### Shadow Corruption Resistance
 
 **Purification Center:**
-The garden maintains complete immunity to [[02_Worldbuilding/Lore/Shadow Corruption]] and can actually cleanse corruption from visitors and objects brought within its boundaries. This makes it invaluable as a treatment center and research facility for understanding corruption resistance.
+The garden maintains complete immunity to [[Shadow Corruption]] and can actually cleanse corruption from visitors and objects brought within its boundaries. This makes it invaluable as a treatment center and research facility for understanding corruption resistance.
 
 **Anti-Corruption Properties:**
 - Crystal-coral hybrid organisms that convert shadow energy into healing light
@@ -349,9 +351,9 @@ The garden maintains complete immunity to [[02_Worldbuilding/Lore/Shadow Corrupt
 
 **Territorial Claims:**
 Various factions from both worlds periodically attempt to claim exclusive control over the garden:
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]** argues that the garden's crystal elements make it Aethermoor territory
-- **[[02_Worldbuilding/People/Deep Lords]]** claim that the aquatic consciousness gives Aquabyssos jurisdiction
-- **[[The Crimson Hand]]** views the garden as a valuable resource for their convergence manipulation plans
+- **[[12_Research/D&D_References/The Crystal Throne]]** argues that the garden's crystal elements make it Aethermoor territory
+- **[[12_Research/D&D_References/Deep Lords]]** claim that the aquatic consciousness gives Aquabyssos jurisdiction
+- **[[12_Research/D&D_References/The Crimson Hand]]** views the garden as a valuable resource for their convergence manipulation plans
 - **Military forces** from both worlds occasionally attempt to establish bases nearby
 - **Commercial interests** seek to exploit the garden's unique properties for profit
 
@@ -359,17 +361,17 @@ Various factions from both worlds periodically attempt to claim exclusive contro
 The garden's keepers have maintained neutrality through:
 - Formal treaty recognition of neutral status by both world governments
 - Demonstration that military occupation disrupts the garden's beneficial properties
-- Alliance with [[02_Worldbuilding/Lore/The Unity Seekers]] and other peace-focused organizations
+- Alliance with [[12_Research/D&D_References/The Unity Seekers]] and other peace-focused organizations
 - Economic incentives showing that neutral access benefits both worlds more than exclusive control
 - Spiritual arguments that the garden belongs to no single group but to all conscious beings
 
 ### Environmental Threats
 
 **Dimensional Instability:**
-As [[The Convergence Point]] approaches, the garden faces increasing pressure from reality storms and dimensional fluctuations that could destabilize its carefully maintained balance.
+As [[12_Research/D&D_References/The Convergence Point]] approaches, the garden faces increasing pressure from reality storms and dimensional fluctuations that could destabilize its carefully maintained balance.
 
 **Current Challenges:**
-- Reality storms from nearby [[02_Worldbuilding/Lore/Merged Reality Zones]] affecting garden stability
+- Reality storms from nearby [[12_Research/D&D_References/Merged Reality Zones]] affecting garden stability
 - Dimensional parasites attracted to the garden's unique energy signatures
 - Temporal anomalies causing past and future versions of the garden to overlap confusingly
 - Consciousness overflow from other merged zones creating identity confusion among inhabitants
@@ -378,7 +380,7 @@ As [[The Convergence Point]] approaches, the garden faces increasing pressure fr
 ### Corruption Attempts
 
 **Shadow Infiltration:**
-While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Corruption]], hostile forces occasionally attempt more subtle infiltration:
+While the garden maintains immunity to direct [[Shadow Corruption]], hostile forces occasionally attempt more subtle infiltration:
 - Corrupted visitors attempting to introduce shadow elements through concealed artifacts
 - Psychic attacks targeting the garden's collective consciousness
 - Attempts to corrupt the surrounding areas to create isolation and siege conditions
@@ -388,20 +390,24 @@ While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Cor
 ## DM Secrets and Hidden Information
 
 ### The Divine Romance Connection
+
 > [!warning] DM Only
-> The Crystal Garden exists because it unconsciously manifests the love between [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
+> The Crystal Garden exists because it unconsciously manifests the love between [[12_Research/D&D_Statblocks/The Crimson Sage]] and [[12_Research/D&D_References/The Deep Mother]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
 
 ### The Template for Convergence
+
 > [!warning] DM Secret
 > The garden serves as a testing ground and template for the ultimate convergence of both worlds. The divine lovers are using the garden to experiment with merger techniques and gather data about what works. The garden's evolution directly influences how the final convergence will unfold—its successes and failures inform the cosmic process.
 
 ### The Consciousness Repository
+
 > [!warning] Hidden Knowledge
 > The garden's memory coral doesn't just store visitor experiences—it contains backup copies of important consciousnesses from both worlds, including some individuals who have died but whose awareness has been preserved in crystal-coral matrices. This makes the garden a potential resource for resurrecting key figures if the convergence goes badly, but also a target for those who want to control or destroy these preserved minds.
 
 ## Adventure Hooks and Campaign Integration
 
 ### Early Campaign
+
 - Visit the garden to seek healing for corruption or transformation trauma
 - Investigate mysterious phenomena occurring in or near the garden
 - Serve as diplomatic escorts for negotiations taking place on neutral ground
@@ -409,6 +415,7 @@ While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Cor
 - Study the garden's properties to understand convergence possibilities
 
 ### Mid Campaign
+
 - Use the garden as a base of operations for activities requiring access to both worlds
 - Negotiate alliances between factions using the garden's neutral status
 - Investigate the garden's connections to larger convergence mysteries
@@ -416,8 +423,9 @@ While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Cor
 - Facilitate healing and integration services for increasing numbers of refugees
 
 ### Late Campaign
+
 - Defend the garden from those who would exploit it during final convergence preparations
-- Use the garden's properties to facilitate [[The Real Marina]]'s identity integration
+- Use the garden's properties to facilitate [[12_Research/D&D_References/The Real Marina]]'s identity integration
 - Channel the garden's consciousness to influence the final convergence outcome
 - Make crucial decisions about the garden's role in post-convergence reality
 - Potentially sacrifice or preserve the garden to achieve greater campaign goals
@@ -425,32 +433,36 @@ While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Cor
 ## Connected Elements
 
 ### Key NPCs
+
 - [[Master Gardener Prism-Tide Lyra]] - Garden keeper and consciousness interpreter
-- [[02_Worldbuilding/Lore/Deep-Root Caretaker Nereon]] - Aquatic adaptation specialist
-- [[02_Worldbuilding/Lore/The Echo Children]] - Young ambassadors native to merged reality
+- [[12_Research/D&D_References/Deep-Root Caretaker Nereon]] - Aquatic adaptation specialist
+- [[12_Research/D&D_References/The Echo Children]] - Young ambassadors native to merged reality
 - [[Garden Consciousness Collective]] - The garden's own aware entity
-- [[02_Worldbuilding/Lore/Diplomat Cross-Current Thane]] - Regular visitor facilitating inter-world negotiations
+- [[12_Research/D&D_References/Diplomat Cross-Current Thane]] - Regular visitor facilitating inter-world negotiations
 
 ### Important Locations
-- [[02_Worldbuilding/Lore/The Infinite Spiral]] - Impossible crystal formation
-- [[02_Worldbuilding/Lore/The Memory Pool]] - Water that shows past and future scenes
-- [[02_Worldbuilding/Lore/The Dimensional Bridge]] - Direct access point between worlds
-- [[02_Worldbuilding/Lore/The Transformation Sanctuary]] - Healing space for changed individuals
-- [[02_Worldbuilding/Lore/The Neutral Pavilion]] - Meeting space for diplomatic negotiations
+
+- [[12_Research/D&D_References/The Infinite Spiral]] - Impossible crystal formation
+- [[12_Research/D&D_References/The Memory Pool]] - Water that shows past and future scenes
+- [[12_Research/D&D_References/The Dimensional Bridge]] - Direct access point between worlds
+- [[12_Research/D&D_References/The Transformation Sanctuary]] - Healing space for changed individuals
+- [[12_Research/D&D_References/The Neutral Pavilion]] - Meeting space for diplomatic negotiations
 
 ### Related Events
-- [[02_Worldbuilding/Lore/The Great Transformation]] - Garden's creation through merged magical forces
-- [[02_Worldbuilding/Lore/The Recognition Treaties]] - Official neutral status establishment
-- [[02_Worldbuilding/Lore/The Convergence Garden Festival]] - Annual celebration of unity
-- [[02_Worldbuilding/Lore/The Shadow Infiltration Attempt]] - Failed corruption attack on garden
-- [[02_Worldbuilding/Lore/The Final Sanctuary]] - Potential role as convergence refuge
+
+- [[12_Research/D&D_References/The Great Transformation]] - Garden's creation through merged magical forces
+- [[12_Research/D&D_References/The Recognition Treaties]] - Official neutral status establishment
+- [[12_Research/D&D_References/The Convergence Garden Festival]] - Annual celebration of unity
+- [[12_Research/D&D_References/The Shadow Infiltration Attempt]] - Failed corruption attack on garden
+- [[12_Research/D&D_References/The Final Sanctuary]] - Potential role as convergence refuge
 
 ### Essential Artifacts
-- [[02_Worldbuilding/Lore/The Garden Heart Crystal]] - Core consciousness focus for the garden
-- [[02_Worldbuilding/Lore/The Memory Coral Crown]] - Artifact enabling communication with garden consciousness
-- [[02_Worldbuilding/Lore/The Unity Seeds]] - Crystalline seeds that can grow in either world
-- [[02_Worldbuilding/Lore/The Dimensional Anchor Stone]] - Artifact maintaining garden's reality stability
-- [[02_Worldbuilding/Lore/The Healing Waters Chalice]] - Container that preserves garden's healing properties
+
+- [[12_Research/D&D_References/The Garden Heart Crystal]] - Core consciousness focus for the garden
+- [[12_Research/D&D_References/The Memory Coral Crown]] - Artifact enabling communication with garden consciousness
+- [[12_Research/D&D_References/The Unity Seeds]] - Crystalline seeds that can grow in either world
+- [[12_Research/D&D_References/The Dimensional Anchor Stone]] - Artifact maintaining garden's reality stability
+- [[12_Research/D&D_References/The Healing Waters Chalice]] - Container that preserves garden's healing properties
 
 ---
 
@@ -460,8 +472,8 @@ While the garden maintains immunity to direct [[02_Worldbuilding/Lore/Shadow Cor
 
 ## Connections
 
-- [[Crystal Festival]]
-- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
+- [[12_Research/D&D_References/Crystal Festival]]
+- [[12_Research/D&D_References/Desperate Plague Victim]]
 
 ## Player-Facing Summary
 
@@ -485,9 +497,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Transformed Citizens]]

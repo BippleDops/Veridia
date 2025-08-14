@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
+- [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Harvest]]
+- [[12_Research/D&D_References/The Shadow Harvest]]
 
 ## Player-Facing Summary
 

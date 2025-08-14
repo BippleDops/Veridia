@@ -30,7 +30,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\dragon/guard-drake-mpmm|Guard Drake]]
+# [[guard-drake-mpmm|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -60,7 +60,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"

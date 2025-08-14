@@ -22,7 +22,7 @@ world: Both
 
 
 # Mace of Smiting
-*Weapon ([[/03_Mechanics/CLI/items/mace-xphb|mace]]), rare*  
+*Weapon ([[mace-xphb|mace]]), rare*  
 ![](/03_Mechanics/CLI/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -30,7 +30,7 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. The bonus increases to +3 when you use the weapon to attack a Construct.
 
-When you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 Bludgeoning damage, or 14 Bludgeoning damage if it's a Construct. If a Construct has 25 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or fewer after taking this damage, it is destroyed.
+When you roll a 20 on an attack roll made with this weapon, the target takes an extra 7 Bludgeoning damage, or 14 Bludgeoning damage if it's a Construct. If a Construct has 25 [[hit-points-xphb|Hit Points]] or fewer after taking this damage, it is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

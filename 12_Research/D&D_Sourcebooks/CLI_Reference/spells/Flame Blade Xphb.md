@@ -35,15 +35,15 @@ world: Both
 - **Components:** V, S, M (a sumac leaf)
 - **Duration:** Concentration, up to 10 minutes
 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]].
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a [[bonus-action-xphb|Bonus Action]].
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can make a melee spell attack with the fiery blade. On a hit, the target takes Fire damage equal to `3d6` plus your spellcasting ability modifier.
+As a [[actions#Magic|Magic]] action, you can make a melee spell attack with the fiery blade. On a hit, the target takes Fire damage equal to `3d6` plus your spellcasting ability modifier.
 
-The flaming blade sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet.
+The flaming blade sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 2.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-xmm-kraken-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/kraken-xmm|Kraken]]
+# [[kraken-xmm|Kraken]]
 *Source: Monster Manual (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Kraken
@@ -90,14 +90,14 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
   - "constitution": !!int "15"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_immunities": "cold, lightning"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "understands Abyssal, Celestial, Infernal, and Primordial but can't speak;\
   \ telepathy 120 ft."
@@ -114,44 +114,44 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ or Swallow."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +17, reach 30 ft. Hit: 24 (4d6 + 10) Bludgeoning\
-      \ damage. The target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 20) from one of ten tentacles, and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ damage. The target has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 20) from one of ten tentacles, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Tentacle"
-  - "desc": "The kraken throws a Large or smaller creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+  - "desc": "The kraken throws a Large or smaller creature [[conditions#Grappled|Grappled]]\
       \ by it to a space it can see within 60 feet of itself that isn't in the air.\
       \ Dexterity Saving Throw: DC 25, the creature thrown and each creature in\
       \ the destination space. Failure: 18 (4d8) Bludgeoning damage, and the target\
-      \ has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. Success:\
+      \ has the [[conditions#Prone|Prone]] condition. Success:\
       \ Half damage only."
     "name": "Fling"
   - "desc": "Dexterity Saving Throw: DC 23, one creature the kraken can see within\
       \ 120 feet. Failure: 33 (6d10) Lightning damage. Success: Half damage."
     "name": "Lightning Strike"
-  - "desc": "Dexterity Saving Throw: DC 25, one creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+  - "desc": "Dexterity Saving Throw: DC 25, one creature [[conditions#Grappled|Grappled]]\
       \ by the kraken (it can have up to four creatures swallowed at a time). Failure:\
       \ 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed\
-      \ and no longer [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]. A swallowed\
-      \ creature has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition,\
-      \ has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]] against attacks\
+      \ and no longer [[conditions#Grappled|Grappled]]. A swallowed\
+      \ creature has the [[conditions#Restrained|Restrained]] condition,\
+      \ has [[cover-xphb|Total Cover]] against attacks\
       \ and other effects outside the kraken, and takes 24 (7d6) Acid damage at the\
       \ start of each of its turns.\n\nIf the kraken takes 50 damage or more on a\
       \ single turn from a creature inside it, the kraken must succeed on a DC 25\
       \ Constitution saving throw at the end of that turn or regurgitate all swallowed\
       \ creatures, each of which falls in a space within 10 feet of the kraken with\
-      \ the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. If the kraken\
-      \ dies, any swallowed creature no longer has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ the [[conditions#Prone|Prone]] condition. If the kraken\
+      \ dies, any swallowed creature no longer has the [[conditions#Restrained|Restrained]]\
       \ condition and can escape from the corpse using 15 feet of movement, exiting\
-      \ [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
+      \ [[conditions#Prone|Prone]]."
     "name": "Swallow"
 "legendary_actions":
   - "desc": "The kraken uses Lightning Strike."
     "name": "Storm Bolt"
-  - "desc": "Constitution Saving Throw: DC 23, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Constitution Saving Throw: DC 23, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the kraken while it is underwater. Failure: The target\
-      \ has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ has the [[conditions#Blinded|Blinded]] and [[conditions#Poisoned|Poisoned]]\
       \ conditions until the end of the kraken's next turn. The kraken then moves\
-      \ up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]. Failure\
+      \ up to its [[speed-xphb|Speed]]. Failure\
       \ or Success: The kraken can't take this action again until the start of its\
       \ next turn."
     "name": "Toxic Ink"
@@ -160,9 +160,9 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ the following effects:"
     "name": ""
   - "desc": "- Ocean Tyrant. The kraken exerts its dominance over animals in its\
-      \ domain. All Beasts within 1 mile of the lair have the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+      \ domain. All Beasts within 1 mile of the lair have the [[conditions#Charmed|Charmed]]\
       \ condition while in that area.  \n- Sea and Storms. While in its lair,\
-      \ the kraken can cast [[/03_Mechanics/CLI/spells/control-weather-xphb|Control Weather]],\
+      \ the kraken can cast [[control-weather-xphb|Control Weather]],\
       \ requiring no spell components and using Intelligence as the spellcasting ability.\
       \  "
     "name": ""

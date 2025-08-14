@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg)
-
+![[04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg]]
 
 
 ## Overview
@@ -49,9 +45,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[12_Research/D&D_References/Angels and Depths]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[12_Research/D&D_References/Angels and Depths]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

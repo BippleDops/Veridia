@@ -26,7 +26,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\construct/retriever-mpmm|Retriever]]
+# [[retriever-mpmm|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -56,15 +56,15 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
   - "constitution": !!int "10"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
 "cr": "14"
@@ -88,18 +88,18 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
       \ on a failed save, or half as much damage on a successful one."
     "name": "Force Beam"
   - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-      \ target must succeed on a DC 18 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
-      \ for 1 minute. The [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] target\
+      \ target must succeed on a DC 18 Constitution saving throw or be [[conditions#Paralyzed|paralyzed]]\
+      \ for 1 minute. The [[conditions#Paralyzed|paralyzed]] target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.\n\nIf the [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
+      \ on itself on a success.\n\nIf the [[conditions#Paralyzed|paralyzed]]\
       \ creature is Medium or smaller, the retriever can pick it up as part of the\
       \ retriever's move and walk or climb with it at full speed."
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n3/day each: [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane shift]]\
+      \n3/day each: [[plane-shift-xphb|plane shift]]\
       \ (only self and up to one incapacitated creature, which is considered willing\
-      \ for the spell), [[/03_Mechanics/CLI/spells/web-xphb|web]]"
+      \ for the spell), [[web-xphb|web]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

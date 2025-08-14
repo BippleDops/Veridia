@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-vanguard-captain-crystalla-shardstrike-v1-vanguard-captain-crystalla-shardstrike.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-vanguard-captain-crystalla-shardstrike-v1-vanguard-captain-crystalla-shardstrike.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Vanguard Captain Crystalla Shardstrike]]
+- [[Vanguard Captain Crystalla Shardstrike]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[The Crystal Wardens]]

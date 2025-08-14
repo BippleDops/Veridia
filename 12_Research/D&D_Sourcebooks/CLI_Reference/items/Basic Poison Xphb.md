@@ -29,10 +29,10 @@ world: Both
 *Adventuring gear, poison*  
 
 
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Poison|Poison]]
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 100 gp
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra `d4` Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
+As a [[bonus-action-xphb|Bonus Action]], you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra `d4` Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
 
 *Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

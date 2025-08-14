@@ -10,6 +10,9 @@ primary_location: Port Meridian and Noble Quarter
 quest_type: Social Intrigue/Heist Adventure
 status: complete
 tags:
+- combat
+- quest
+- shadow-touched
 - access/secret
 - aethermoor
 - blackmail
@@ -30,22 +33,20 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg]]
 
 
 # Quest - The Blackmail Papers
+
 *When Secrets Become Weapons and Trust Becomes Currency*
 
 > *"Every powerful person in this city has something to hide. The question isn't whether they have secrets—it's whether someone else knows them, and more importantly, what they're willing to do to keep them buried."*
-> — [[02_Worldbuilding/Lore/Master Spy Shadows]], briefing his agents
+> — [[12_Research/D&D_References/Master Spy Shadows]], briefing his agents
 
 ## Quest Overview
 
-The Blackmail Papers is a social intrigue and heist adventure that plunges the party into a dangerous game of secrets, leverage, and moral ambiguity. When a cache of incriminating documents disappears from a secure location, multiple factions race to recover them before their own dark secrets are exposed. The party must navigate shifting alliances, double-crosses, and moral dilemmas while uncovering a web of corruption that reaches the highest levels of [[02_Worldbuilding/Places/Aethermoor]] society.
+The Blackmail Papers is a social intrigue and heist adventure that plunges the party into a dangerous game of secrets, leverage, and moral ambiguity. When a cache of incriminating documents disappears from a secure location, multiple factions race to recover them before their own dark secrets are exposed. The party must navigate shifting alliances, double-crosses, and moral dilemmas while uncovering a web of corruption that reaches the highest levels of [[12_Research/D&D_References/Aethermoor]] society.
 
 This quest emphasizes social skills, investigation, and strategic thinking as players must decide not just how to recover the documents, but what to do with the explosive information they contain. Every choice has far-reaching consequences, and the party must balance justice, pragmatism, and survival in a world where information is the most dangerous weapon of all.
 
@@ -53,11 +54,11 @@ This quest emphasizes social skills, investigation, and strategic thinking as pl
 
 ### The Document Cache
 
-For fifteen years, [[Master Blackmailer Cornelius Darkquill]] operated from the shadows of [[02_Worldbuilding/Places/Port Meridian]], gathering compromising information on nobles, merchants, politicians, and other influential figures. His network of informants, thieves, and corrupt officials fed him a steady stream of secrets that he used to build wealth and influence while remaining virtually unknown to his victims.
+For fifteen years, [[Master Blackmailer Cornelius Darkquill]] operated from the shadows of [[12_Research/D&D_References/Port Meridian]], gathering compromising information on nobles, merchants, politicians, and other influential figures. His network of informants, thieves, and corrupt officials fed him a steady stream of secrets that he used to build wealth and influence while remaining virtually unknown to his victims.
 
-The Blackmail Papers represent the culmination of his work: a comprehensive collection of documents, letters, magical recordings, and testimony that could destroy dozens of prominent careers and destabilize entire institutions. The cache includes evidence of corruption, adultery, criminal activity, treason, and magical malpractice involving some of [[02_Worldbuilding/Places/Aethermoor]]'s most powerful citizens.
+The Blackmail Papers represent the culmination of his work: a comprehensive collection of documents, letters, magical recordings, and testimony that could destroy dozens of prominent careers and destabilize entire institutions. The cache includes evidence of corruption, adultery, criminal activity, treason, and magical malpractice involving some of [[12_Research/D&D_References/Aethermoor]]'s most powerful citizens.
 
-Darkquill stored these documents in a magically protected vault beneath his legitimate business, a rare book shop in the [[02_Worldbuilding/Places/Merchant Quarter]]. Multiple layers of security, including magical wards, mechanical traps, and mundane concealment, protected the cache from discovery while allowing Darkquill to access specific documents when needed for his operations.
+Darkquill stored these documents in a magically protected vault beneath his legitimate business, a rare book shop in the [[12_Research/D&D_References/Merchant Quarter]]. Multiple layers of security, including magical wards, mechanical traps, and mundane concealment, protected the cache from discovery while allowing Darkquill to access specific documents when needed for his operations.
 
 ### The Theft
 
@@ -69,7 +70,7 @@ Since the theft, several of Darkquill's former victims have received anonymous m
 
 ### Rising Panic
 
-Word of the theft has spread through [[02_Worldbuilding/Places/Port Meridian]]'s upper circles, creating a climate of fear and suspicion among the city's elite. Nobody knows exactly what information was stolen, but everyone who had dealings with Darkquill assumes their secrets are at risk. This uncertainty has led to increasingly desperate attempts to locate and destroy the documents before they can be used.
+Word of the theft has spread through [[12_Research/D&D_References/Port Meridian]]'s upper circles, creating a climate of fear and suspicion among the city's elite. Nobody knows exactly what information was stolen, but everyone who had dealings with Darkquill assumes their secrets are at risk. This uncertainty has led to increasingly desperate attempts to locate and destroy the documents before they can be used.
 
 The situation has been complicated by multiple factions launching their own recovery efforts, often working at cross-purposes and interfering with each other's operations. Some seek to destroy the documents, others want to use them for their own purposes, and a few hope to expose the corruption they contain regardless of the consequences.
 
@@ -101,73 +102,73 @@ The party becomes involved when one of these factions approaches them for assist
 
 ### Quest Givers and Contacts
 
-**[[02_Worldbuilding/People/Lady Catherine Mourning]]** - A noble widow whose late husband's financial irregularities are documented in the papers. She hires the party ostensibly to recover the documents but may have her own agenda for their contents.
+**[[12_Research/D&D_References/Lady Catherine Mourning]]** - A noble widow whose late husband's financial irregularities are documented in the papers. She hires the party ostensibly to recover the documents but may have her own agenda for their contents.
 
 **[[Judge Helena Fairscale]]** - A judicial official who wants to use the documents to expose corruption in the legal system, but who also fears that her own minor indiscretions could be revealed.
 
-**[[02_Worldbuilding/Lore/Merchant Prince Marcus Goldflow]]** - A wealthy trader whose business practices are extensively documented in the papers. He claims to want them destroyed but may secretly plan to use them against competitors.
+**[[12_Research/D&D_References/Merchant Prince Marcus Goldflow]]** - A wealthy trader whose business practices are extensively documented in the papers. He claims to want them destroyed but may secretly plan to use them against competitors.
 
-**[[02_Worldbuilding/People/Captain Sarah Ironheart]]** - A military officer investigating connections between the document theft and recent security breaches, providing law enforcement perspective and resources.
+**[[12_Research/D&D_References/Captain Sarah Ironheart]]** - A military officer investigating connections between the document theft and recent security breaches, providing law enforcement perspective and resources.
 
 ### Primary Suspects
 
-**[[02_Worldbuilding/Lore/Master Spy Shadows]]** - A professional information broker who had business relationships with Darkquill and who possesses the skills and connections necessary to penetrate his security systems.
+**[[12_Research/D&D_References/Master Spy Shadows]]** - A professional information broker who had business relationships with Darkquill and who possesses the skills and connections necessary to penetrate his security systems.
 
 **[[Guildmaster Victoria Silvertongue]]** - Leader of the Merchant's Guild whose corruption is extensively documented and who has both motive and resources to steal the papers for self-protection.
 
-**[[02_Worldbuilding/People/Lord Aldric Blackwater]]** - A noble whose political ambitions could be advanced by using the documents against rivals, while his own secrets give him motive to control their distribution.
+**[[12_Research/D&D_References/Lord Aldric Blackwater]]** - A noble whose political ambitions could be advanced by using the documents against rivals, while his own secrets give him motive to control their distribution.
 
-**[[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]** - A religious leader whose involvement in morally questionable activities is documented, and whose temple resources could support a sophisticated theft operation.
+**[[12_Research/D&D_References/High Priest Daemon Shadowprayer]]** - A religious leader whose involvement in morally questionable activities is documented, and whose temple resources could support a sophisticated theft operation.
 
 ### Supporting Characters
 
-**[[02_Worldbuilding/Lore/Fence Simon Quickfingers]]** - A criminal intermediary who handles the sale of stolen goods and who may have been contacted by the document thieves seeking to monetize their theft.
+**[[12_Research/D&D_References/Fence Simon Quickfingers]]** - A criminal intermediary who handles the sale of stolen goods and who may have been contacted by the document thieves seeking to monetize their theft.
 
-**[[02_Worldbuilding/Places/Scribe Master Elena Truthkeeper]]** - A document authentication expert who can verify the papers' authenticity and provide insight into their creation and magical protections.
+**[[12_Research/D&D_References/Scribe Master Elena Truthkeeper]]** - A document authentication expert who can verify the papers' authenticity and provide insight into their creation and magical protections.
 
-**[[02_Worldbuilding/Places/Tavern Keeper Finn Splitlung]]** - A well-connected information gatherer whose establishment serves as a neutral meeting ground for various factions involved in the search.
+**[[12_Research/D&D_References/Tavern Keeper Finn Splitlung]]** - A well-connected information gatherer whose establishment serves as a neutral meeting ground for various factions involved in the search.
 
-**[[02_Worldbuilding/Lore/Private Investigator Rex Coldcase]]** - An independent detective who was investigating Darkquill's activities before his death and who may have uncovered clues about the murder and theft.
+**[[12_Research/D&D_References/Private Investigator Rex Coldcase]]** - An independent detective who was investigating Darkquill's activities before his death and who may have uncovered clues about the murder and theft.
 
 ### The Mysterious Players
 
-**[[02_Worldbuilding/Lore/The Shadow Client]]** - An unknown figure who appears to be coordinating the current blackmail operations using the stolen documents, communicating only through intermediaries and encrypted messages.
+**[[12_Research/D&D_References/The Shadow Client]]** - An unknown figure who appears to be coordinating the current blackmail operations using the stolen documents, communicating only through intermediaries and encrypted messages.
 
-**[[02_Worldbuilding/Lore/The Whistleblower]]** - Someone within the current operation who has begun selectively leaking information, possibly out of conscience or as part of a power struggle among the thieves.
+**[[12_Research/D&D_References/The Whistleblower]]** - Someone within the current operation who has begun selectively leaking information, possibly out of conscience or as part of a power struggle among the thieves.
 
-**[[02_Worldbuilding/Lore/The Original Target]]** - A highly placed individual whose destruction was the primary motive for the entire operation, with the other documents serving as cover or additional leverage.
+**[[12_Research/D&D_References/The Original Target]]** - A highly placed individual whose destruction was the primary motive for the entire operation, with the other documents serving as cover or additional leverage.
 
 ## Key Locations
 
 ### Investigation Sites
 
-**[[02_Worldbuilding/Lore/Darkquill's Rare Books]]** - The legitimate business that served as cover for the blackmail operation, containing hidden passages, secret compartments, and clues about the security system and the method of the theft.
+**[[12_Research/D&D_References/Darkquill's Rare Books]]** - The legitimate business that served as cover for the blackmail operation, containing hidden passages, secret compartments, and clues about the security system and the method of the theft.
 
-**[[02_Worldbuilding/Lore/The Underground Vault]]** - The original storage location for the documents, now empty but containing forensic evidence about the thieves, their methods, and possibly overlooked materials.
+**[[12_Research/D&D_References/The Underground Vault]]** - The original storage location for the documents, now empty but containing forensic evidence about the thieves, their methods, and possibly overlooked materials.
 
-**[[02_Worldbuilding/Lore/The Paper Trail]]** - Various locations throughout [[02_Worldbuilding/Places/Port Meridian]] where documents were originally acquired, including government offices, private residences, and business establishments.
+**[[12_Research/D&D_References/The Paper Trail]]** - Various locations throughout [[12_Research/D&D_References/Port Meridian]] where documents were originally acquired, including government offices, private residences, and business establishments.
 
-**[[02_Worldbuilding/Lore/Darkquill's Safe House]]** - A secondary location where the blackmailer stored backup copies of his most sensitive materials, which may have been missed by the thieves.
+**[[12_Research/D&D_References/Darkquill's Safe House]]** - A secondary location where the blackmailer stored backup copies of his most sensitive materials, which may have been missed by the thieves.
 
 ### Social Venues
 
-**[[02_Worldbuilding/Places/Noble Quarter Salons]]** - High-society gathering places where rumors spread, alliances form, and the social consequences of the document theft play out among the city's elite.
+**[[12_Research/D&D_References/Noble Quarter Salons]]** - High-society gathering places where rumors spread, alliances form, and the social consequences of the document theft play out among the city's elite.
 
-**[[02_Worldbuilding/Places/Merchant Quarter Guildhalls]]** - Business meeting locations where economic implications of the theft are discussed and commercial interests coordinate their responses.
+**[[12_Research/D&D_References/Merchant Quarter Guildhalls]]** - Business meeting locations where economic implications of the theft are discussed and commercial interests coordinate their responses.
 
-**[[02_Worldbuilding/Lore/The Neutral Tavern]]** - A establishment known for facilitating discreet meetings between parties who need to communicate without acknowledging their connections.
+**[[12_Research/D&D_References/The Neutral Tavern]]** - A establishment known for facilitating discreet meetings between parties who need to communicate without acknowledging their connections.
 
-**[[02_Worldbuilding/Lore/The Underground Market]]** - Criminal gathering places where stolen goods are sold and information is traded, potentially including access to the stolen documents.
+**[[12_Research/D&D_References/The Underground Market]]** - Criminal gathering places where stolen goods are sold and information is traded, potentially including access to the stolen documents.
 
 ### Confrontation Locations
 
-**[[02_Worldbuilding/Lore/The Exchange Point]]** - Various locations where document handoffs, ransom payments, and other crucial transactions take place, requiring careful surveillance and potential intervention.
+**[[12_Research/D&D_References/The Exchange Point]]** - Various locations where document handoffs, ransom payments, and other crucial transactions take place, requiring careful surveillance and potential intervention.
 
-**[[02_Worldbuilding/Lore/Safe House Network]]** - Hidden locations used by the current document holders for planning, storage, and protection from rivals seeking to recover the materials.
+**[[12_Research/D&D_References/Safe House Network]]** - Hidden locations used by the current document holders for planning, storage, and protection from rivals seeking to recover the materials.
 
-**[[02_Worldbuilding/Lore/The Final Vault]]** - The ultimate secure location where the documents are currently stored, requiring significant planning and resources to penetrate.
+**[[12_Research/D&D_References/The Final Vault]]** - The ultimate secure location where the documents are currently stored, requiring significant planning and resources to penetrate.
 
-**[[02_Worldbuilding/Lore/The Revelation Chamber]]** - A public or semi-public location where the final confrontation and resolution take place, potentially exposing the truth to a wider audience.
+**[[12_Research/D&D_References/The Revelation Chamber]]** - A public or semi-public location where the final confrontation and resolution take place, potentially exposing the truth to a wider audience.
 
 ## Social Mechanics and Challenges
 
@@ -301,7 +302,7 @@ The party becomes involved when one of these factions approaches them for assist
 
 **Political Connections** - Relationships with grateful or impressed political figures provide ongoing benefits for legal activities and government interactions.
 
-**Information Network** - Access to ongoing intelligence gathering capabilities and contacts throughout [[02_Worldbuilding/Places/Port Meridian]]'s various social circles.
+**Information Network** - Access to ongoing intelligence gathering capabilities and contacts throughout [[12_Research/D&D_References/Port Meridian]]'s various social circles.
 
 **Social Reputation** - Enhanced standing in society that provides benefits for social encounters but may also attract unwanted attention and expectations.
 
@@ -309,7 +310,7 @@ The party becomes involved when one of these factions approaches them for assist
 
 ### Long-Term Campaign Effects
 
-**Political Reform** - The resolution affects the level of corruption and transparency in [[02_Worldbuilding/Places/Aethermoor]]'s government and commercial institutions.
+**Political Reform** - The resolution affects the level of corruption and transparency in [[12_Research/D&D_References/Aethermoor]]'s government and commercial institutions.
 
 **Social Dynamics** - Changes in how secrets are kept and exposed influence future social encounters and the party's relationships with various factions.
 
@@ -371,7 +372,7 @@ Regardless of the specific resolution, the adventure should leave lasting impact
 
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -393,7 +394,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

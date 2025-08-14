@@ -20,7 +20,7 @@ world: Both
 # Beast Speech
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-You can cast [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|speak with animals]] at will, without expending a spell slot.
+You can cast [[speak-with-animals-xphb|speak with animals]] at will, without expending a spell slot.
 
 ## Player-Facing Summary
 

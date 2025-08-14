@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
 
 ## Player-Facing Summary
 

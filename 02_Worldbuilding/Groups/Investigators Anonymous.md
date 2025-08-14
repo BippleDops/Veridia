@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-investigators-anonymous-investigators-anonymous.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-investigators-anonymous-investigators-anonymous.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
+- [[Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[Stop the Shadow Harvest]]
 
 ## Player-Facing Summary
 

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -15,12 +16,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
-
+![[04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg]]
 
 
 ## Overview
@@ -49,9 +46,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
+- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[12_Research/D&D_References/Party Shadows]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

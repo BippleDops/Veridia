@@ -2,6 +2,9 @@
 created: '2025-08-11'
 status: complete
 tags:
+- session-notes
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,28 +17,25 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[12_Research/D&D_References/Investigation Procedures]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Corruption Tracking]]
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/People/The Shadow Surgeons]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]]
+- [[12_Research/D&D_References/Corruption Tracking]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Investigation Procedures]]
+- [[12_Research/D&D_References/Memory Alteration Consequences]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/The Shadow Surgeons]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Aquabyssos - Session 05 - Descent into Darkness]]
 
 ## Player-Facing Summary
 
@@ -56,3 +56,9 @@ Legends speak of Fear Farms as a nexus where past and present converge. Locals d
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

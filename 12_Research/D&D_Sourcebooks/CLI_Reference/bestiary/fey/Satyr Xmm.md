@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-xmm-satyr-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/satyr-xmm|Satyr]]
+# [[satyr-xmm|Satyr]]
 *Source: Monster Manual (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
@@ -62,17 +62,17 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Performance|Performance]]"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-  - "desc": "The satyr has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The satyr has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

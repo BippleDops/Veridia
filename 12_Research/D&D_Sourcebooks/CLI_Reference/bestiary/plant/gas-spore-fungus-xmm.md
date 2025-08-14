@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gas-spore-fungus-xmm-gas-spore-fungus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/gas-spore-fungus-xmm|Gas Spore Fungus]]
+# [[gas-spore-fungus-xmm|Gas Spore Fungus]]
 *Source: Monster Manual (2024) p. 125*  
 
 Gas spores are floating, orbicular fungi with rhizome growths and protuberances that resemble the stalks and eyes of beholders. If destroyed, a gas spore explodes in a poisonous burst that can infect creatures and slay them in hours. Infected corpses spawn more gas spores that grow to full size in a matter of days.
@@ -57,26 +57,26 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "1"
 "speed": "5 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]]"
 "senses": "blindsight 30 ft., passive Perception 5"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The gas spore bursts when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 20-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the gas spore. Failure: The target takes 10 (3d6) Poison\
-      \ damage and has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
-      \ for d12 hours. Unless the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ damage and has the [[conditions#Poisoned|Poisoned]] condition\
+      \ for d12 hours. Unless the [[conditions#Poisoned|Poisoned]]\
       \ condition is removed, the target dies at the end of that time and sprouts\
-      \ 2d4 Tiny Gas Spore Fungi (each with 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]).\
-      \ After 2d6 days, they become Large and have 13 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
+      \ 2d4 Tiny Gas Spore Fungi (each with 1 [[hit-points-xphb|Hit Point]]).\
+      \ After 2d6 days, they become Large and have 13 [[hit-points-xphb|Hit Points]]."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +0, reach 5 ft. Hit: 3 (d6) Poison damage, and\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
+      \ the target has the [[conditions#Poisoned|Poisoned]] condition\
       \ until the end of its next turn."
     "name": "Tendril"
 "source":

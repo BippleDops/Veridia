@@ -22,7 +22,7 @@ world: Both
 
 
 # Wand of Orcus
-*Weapon ([[/03_Mechanics/CLI/items/mace-xphb|mace]]), wand, artifact (requires attunement)*  
+*Weapon ([[mace-xphb|mace]]), wand, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -32,26 +32,26 @@ Crafted and wielded by [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]], this
 
 The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All Holy Water within 10 feet of the wand is destroyed.
 
-Any creature besides Orcus that tries to attune to the wand makes a DC 17 Constitution saving throw. On a successful save, the creature takes `10d6` Necrotic damage. On a failed save, the creature dies and, if it is a Humanoid, turns into a [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombie]].
+Any creature besides Orcus that tries to attune to the wand makes a DC 17 Constitution saving throw. On a successful save, the creature takes `10d6` Necrotic damage. On a failed save, the creature dies and, if it is a Humanoid, turns into a [[zombie-xmm|Zombie]].
 
 ## Magic Weapon
 
-You can wield the wand as a magic [[/03_Mechanics/CLI/items/mace-xphb|Mace]] that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra `2d12` Necrotic damage on a hit.
+You can wield the wand as a magic [[mace-xphb|Mace]] that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra `2d12` Necrotic damage on a hit.
 
 ## Random Properties
 
 The Wand of Orcus has the following random properties:
 
-- 2 [[/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
-- 1 [[/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg|major beneficial]] property  
-- 2 [[/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] properties  
-- 1 [[/03_Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
+- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
+- 1 [[artifact-properties-major-beneficial-properties-xdmg|major beneficial]] property  
+- 2 [[artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] properties  
+- 1 [[artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
 
 The detrimental properties of the Wand of Orcus are suppressed while the wand is attuned to Orcus.
 
 ## Protection
 
-You gain a +3 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] while holding the wand.
+You gain a +3 bonus to [[armor-class-xphb|Armor Class]] while holding the wand.
 
 ## Spells
 
@@ -59,25 +59,25 @@ The wand has 7 charges and regains `1d4 + 3` expended charges daily at dawn. Whi
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[/03_Mechanics/CLI/spells/animate-dead-xphb|Animate Dead]] | 1 |
-| [[/03_Mechanics/CLI/spells/blight-xphb|Blight]] | 2 |
-| [[/03_Mechanics/CLI/spells/circle-of-death-xphb|Circle of Death]] | 3 |
-| [[/03_Mechanics/CLI/spells/finger-of-death-xphb|Finger of Death]] | 3 |
-| [[/03_Mechanics/CLI/spells/power-word-kill-xphb|Power Word Kill]] | 4 |
-| [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|Speak with Dead]] | 1 |
+| [[animate-dead-xphb|Animate Dead]] | 1 |
+| [[blight-xphb|Blight]] | 2 |
+| [[circle-of-death-xphb|Circle of Death]] | 3 |
+| [[finger-of-death-xphb|Finger of Death]] | 3 |
+| [[power-word-kill-xphb|Power Word Kill]] | 4 |
+| [[speak-with-dead-xphb|Speak with Dead]] | 1 |
 ^spell-charge-cost
 
 While attuned to the wand, Orcus or a follower blessed by him can cast each of the wand's spells using 2 fewer charges (minimum of 0).
 
 ## Call Undead
 
-While holding the wand, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to conjure 15 [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeletons]] and 15 [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombies]]. These Undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of you and obey your commands until they are destroyed or until the next dawn, when they collapse into inanimate piles of bones and rotting corpses. Once you use this property, you can't use it again until the next dawn.
+While holding the wand, you can take a [[actions#Magic|Magic]] action to conjure 15 [[skeleton-xmm|Skeletons]] and 15 [[zombie-xmm|Zombies]]. These Undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of you and obey your commands until they are destroyed or until the next dawn, when they collapse into inanimate piles of bones and rotting corpses. Once you use this property, you can't use it again until the next dawn.
 
 While holding the wand, Orcus can summon any kind of Undead, not just skeletons and zombies. These Undead don't perish at dawn the following day, remaining until Orcus dismisses them.
 
 ## Sentience
 
-The Wand of Orcus is a sentient Chaotic Evil item with an Intelligence of 16, a Wisdom of 12, and a Charisma of 16. It has hearing and [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] out to 120 feet.
+The Wand of Orcus is a sentient Chaotic Evil item with an Intelligence of 16, a Wisdom of 12, and a Charisma of 16. It has hearing and [[senses#Darkvision|Darkvision]] out to 120 feet.
 
 The wand communicates telepathically with its wielder and speaks Abyssal and Common.
 

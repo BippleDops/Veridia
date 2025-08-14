@@ -2,6 +2,12 @@
 type: Lore
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - cosmic-entity
@@ -21,18 +27,19 @@ updated: '2025-08-11T00:00:00+00:00'
 
 
 > [!figure] Scene
-![](04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png)
-
-
+![[04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png]]
 
 
 # The Deep Mother
+
 *She Who Dreams Beneath, The Primordial Womb, Mother of Shadows and Sorrows*
 
 ## Overview
-The Deep Mother is the primordial entity believed to slumber in the deepest trenches beneath [[02_Worldbuilding/Places/Aquabyssos]]. According to ancient [[02_Worldbuilding/People/Aboleth Prime Yoth]] memories and the teachings of [[02_Worldbuilding/Lore/The Drowned Prophets]], she is the source of all water, darkness, and dreams in the world. Her endless slumber generates the reality of Aquabyssos itself—the underwater realm exists within her dreaming consciousness.
+
+The Deep Mother is the primordial entity believed to slumber in the deepest trenches beneath [[12_Research/D&D_References/Aquabyssos]]. According to ancient [[12_Research/D&D_References/Aboleth Prime Yoth]] memories and the teachings of [[12_Research/D&D_References/The Drowned Prophets]], she is the source of all water, darkness, and dreams in the world. Her endless slumber generates the reality of Aquabyssos itself—the underwater realm exists within her dreaming consciousness.
 
 ## Divine Portfolio
+
 - **Domains**: Dreams, Depths, Shadows, Memory, Transformation, Sorrow
 - **Sacred Elements**: Dark water, pressure, luminescent creatures, shadow
 - **Holy Symbol**: A spiral of darkness with a single eye at its center
@@ -41,42 +48,47 @@ The Deep Mother is the primordial entity believed to slumber in the deepest tren
 ## Creation Mythology
 
 ### The First Dream
+
 Before time, before light, there was only the Deep Mother floating in the primordial void. Her first dream created water, her second created darkness, and her third created the potential for life. As she descended into deeper slumber, her dreams became more complex, birthing:
 
 1. **The Depths**: Physical layers of reality corresponding to sleep stages
 2. **The Aboleths**: First children, born from her memories
 3. **Shadows**: Fragments of her unconscious mind
 4. **Pressure**: Her embrace holding reality together
-5. **The [[02_Worldbuilding/Places/Hadal Depths|02 Worldbuilding/Places/Hadal Depths]]**: Where her physical form rests
+5. **The [[Hadal Depths|02 Worldbuilding/Places/Hadal Depths]]**: Where her physical form rests
 
 ### The Great Awakening (Prophecy)
+
 Multiple conflicting prophecies describe what will happen if the Deep Mother awakens:
-- **[[02_Worldbuilding/Lore/The Drowned Prophets]]**: She will remake reality as paradise
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: All will merge into singular consciousness
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: The world will dissolve back into void
-- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: She already awakens through the shadows
+- **[[12_Research/D&D_References/The Drowned Prophets]]**: She will remake reality as paradise
+- **[[12_Research/D&D_References/Aboleth Prime Yoth]]**: All will merge into singular consciousness
+- **[[12_Research/D&D_References/The Scattered Emperor]]**: The world will dissolve back into void
+- **[[12_Research/D&D_References/Prophet Nerida Voidgazer]]**: She already awakens through the shadows
 
 ## Physical Manifestations
 
 ### The Sleeping Form
-Deep beneath the [[02_Worldbuilding/Places/Hadal Depths|02 Worldbuilding/Places/Hadal Depths]], explorers claim to have seen:
+
+Deep beneath the [[Hadal Depths|02 Worldbuilding/Places/Hadal Depths]], explorers claim to have seen:
 - Mountain ranges that are actually her coiled body
 - Abyssal trenches that are spaces between her tentacles
 - Volcanic vents that are her slow breaths
 - Bioluminescent zones marking her dreams
-- The [[02_Worldbuilding/Lore/Depth Pulse]]: Her heartbeat felt throughout Aquabyssos
+- The [[12_Research/D&D_References/Depth Pulse]]: Her heartbeat felt throughout Aquabyssos
 
 ### Dream Emanations
+
 Her dreams manifest physically as:
 - **Shadow Creatures**: Nightmares given form
 - **Memory Currents**: Streams of collective unconscious
 - **Pressure Zones**: Emotional weight made physical
 - **Temporal Distortions**: Dreams where time flows differently
-- **The [[02_Worldbuilding/Lore/Shadow Convergence]]**: Her approaching awakening
+- **The [[12_Research/D&D_References/Shadow Convergence]]**: Her approaching awakening
 
 ## Religious Practices
 
 ### The Drowned Prophets
+
 Primary cult worshipping the Deep Mother:
 - Ritual drowning to experience her embrace
 - Memory sacrifices to feed her dreams
@@ -85,6 +97,7 @@ Primary cult worshipping the Deep Mother:
 - Dream journals documenting her messages
 
 ### Orthodox Worship
+
 Mainstream acknowledgment includes:
 - **Depth Day**: Annual descent ceremonies
 - **Dream Tides**: Monthly shadow observations
@@ -93,6 +106,7 @@ Mainstream acknowledgment includes:
 - **Pressure Psalms**: Hymns sung while descending
 
 ### Heretical Sects
+
 - **The Awakeners**: Actively trying to wake her
 - **The Dreamkeepers**: Believe they must keep her asleep
 - **Shadow Shepherds**: Claim shadows are her true children
@@ -102,13 +116,15 @@ Mainstream acknowledgment includes:
 ## Divine Connections
 
 ### Relationship with Other Powers
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May know her true nature
-- **[[02_Worldbuilding/Places/Aethermoor]] Deities**: Fear her awakening
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Claims to be her first dream
-- **The [[02_Worldbuilding/People/Seventh Shard]]**: Supposedly can pierce her slumber
-- **[[02_Worldbuilding/Groups/The Crown]]**: Uses her name for legitimacy
+
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]**: May know her true nature
+- **[[12_Research/D&D_References/Aethermoor]] Deities**: Fear her awakening
+- **[[12_Research/D&D_References/Aboleth Prime Yoth]]**: Claims to be her first dream
+- **The [[12_Research/D&D_References/Seventh Shard]]**: Supposedly can pierce her slumber
+- **[[12_Research/D&D_References/The Crown]]**: Uses her name for legitimacy
 
 ### Shadow Connection
+
 The shadow corruption spreading through Aquabyssos is believed to be:
 - Her nightmares becoming stronger
 - Preparation for her awakening
@@ -119,13 +135,15 @@ The shadow corruption spreading through Aquabyssos is believed to be:
 ## Sacred Sites
 
 ### Primary Locations
-1. **[[02_Worldbuilding/Places/The Deepmind]]**: Where her thoughts pool
-2. **[[02_Worldbuilding/Lore/The Dreaming Trench]]**: Deepest known point
-3. **[[02_Worldbuilding/Places/Shadow Wells]]**: Where her nightmares emerge
-4. **[[Memory Meadows]]**: Her pleasant dreams manifest
-5. **[[02_Worldbuilding/Places/Pressure Palace]]**: Built atop her resting place
+
+1. **[[12_Research/D&D_Statblocks/The Deepmind]]**: Where her thoughts pool
+2. **[[12_Research/D&D_References/The Dreaming Trench]]**: Deepest known point
+3. **[[12_Research/D&D_References/Shadow Wells]]**: Where her nightmares emerge
+4. **[[12_Research/D&D_References/Memory Meadows]]**: Her pleasant dreams manifest
+5. **[[12_Research/D&D_References/Pressure Palace]]**: Built atop her resting place
 
 ### Pilgrimage Routes
+
 - **The Descent Path**: Surface to Hadal Depths
 - **Dream Current**: Following underwater ley lines
 - **Shadow Roads**: Traveling through connected darkness
@@ -135,6 +153,7 @@ The shadow corruption spreading through Aquabyssos is believed to be:
 ## Theological Debates
 
 ### Central Questions
+
 1. **Is she conscious or truly sleeping?**
 2. **Are inhabitants separate or part of her dream?**
 3. **Will awakening destroy or transform reality?**
@@ -142,6 +161,7 @@ The shadow corruption spreading through Aquabyssos is believed to be:
 5. **Is the shadow corruption her will or sickness?**
 
 ### Competing Interpretations
+
 - **Literalists**: She physically exists in the depths
 - **Metaphorists**: She represents the ocean itself
 - **Consciousness Theorists**: Reality is her dream
@@ -151,6 +171,7 @@ The shadow corruption spreading through Aquabyssos is believed to be:
 ## Powers & Influence
 
 ### Passive Effects
+
 All of Aquabyssos experiences:
 - **Dream Bleed**: Sleeping minds touch hers
 - **Pressure Presence**: Her weight on reality
@@ -159,6 +180,7 @@ All of Aquabyssos experiences:
 - **Depth Calling**: Urge to descend toward her
 
 ### Active Interventions (Rare)
+
 - **Dream Sendings**: Direct visions to chosen
 - **Pressure Miracles**: Impossible survivals at depth
 - **Shadow Birthings**: Creating new beings
@@ -166,15 +188,17 @@ All of Aquabyssos experiences:
 - **Depth Madness**: Punishment for blasphemy
 
 ### Divine Servants
-- **[[02_Worldbuilding/Lore/Dream Leviathans]]**: Massive creatures from her deep dreams
-- **[[02_Worldbuilding/Lore/Shadow Saints]]**: Mortals transformed by her touch
-- **[[02_Worldbuilding/Lore/Pressure Angels]]**: Beings of pure depth and force
-- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Entities maintaining her thoughts
-- **[[02_Worldbuilding/Lore/The Sorrow Singers]]**: Voices of her sadness
+
+- **[[12_Research/D&D_References/Dream Leviathans]]**: Massive creatures from her deep dreams
+- **[[12_Research/D&D_References/Shadow Saints]]**: Mortals transformed by her touch
+- **[[12_Research/D&D_References/Pressure Angels]]**: Beings of pure depth and force
+- **[[12_Research/D&D_References/Keepers of Memory]]**: Entities maintaining her thoughts
+- **[[12_Research/D&D_References/The Sorrow Singers]]**: Voices of her sadness
 
 ## Prophecies & Omens
 
 ### Signs of Stirring
+
 Recent events suggesting she stirs:
 1. Increased shadow independence
 2. Pressure zones shifting unexpectedly
@@ -183,6 +207,7 @@ Recent events suggesting she stirs:
 5. Time distortions increasing
 
 ### The Seven Seals of Slumber
+
 Ancient prophecy of her awakening:
 1. **First Seal**: Shadows gain independence *(broken)*
 2. **Second Seal**: The Scattered Emperor unifies *(in progress)*
@@ -195,12 +220,14 @@ Ancient prophecy of her awakening:
 ## Game Mechanics
 
 ### Divine Intervention
+
 - **Prayer DC**: 25 (she rarely notices)
 - **Favor Range**: -10 to +10 (neutral start)
 - **Intervention Effects**: Reality-altering but unpredictable
 - **Attention Danger**: Being noticed risks madness
 
 ### Blessings of the Deep Mother
+
 Devoted followers may receive:
 - **Pressure Adaptation**: Immunity to depth effects
 - **Dream Sight**: See through illusions and lies
@@ -209,6 +236,7 @@ Devoted followers may receive:
 - **Depth Speaker**: Communicate with sea life
 
 ### Curses of the Deep Mother
+
 Those who offend her suffer:
 - **Pressure Nightmares**: Exhaustion from dreams
 - **Shadow Rejection**: Own shadow becomes enemy
@@ -219,15 +247,17 @@ Those who offend her suffer:
 ## DM Secrets
 
 ### The Truth About the Deep Mother
+
 > [!warning] Ultimate Campaign Secret
 > The Deep Mother is actually:
 > - The original ocean deity who chose to sleep rather than fight in the god wars
 > - Dreaming Aquabyssos as an escape from divine politics
-> - Connected to [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) - they were lovers
+> - Connected to [[12_Research/D&D_Statblocks/The Crimson Sage]] (Aetheron) - they were lovers
 > - The shadow corruption is her beginning to wake due to Aetheron's proximity
 > - Her awakening would merge Aquabyssos and Aethermoor into something new
 
 ### Using in Campaign
+
 - Keep her nature mysterious and contradictory
 - Use dreams and visions for exposition
 - Make her influence felt but not seen
@@ -237,6 +267,7 @@ Those who offend her suffer:
 ## Cultural Impact
 
 ### Art & Literature
+
 - **The Depth Cantos**: Epic poems of her dreams
 - **Shadow Plays**: Theater using living shadows
 - **Pressure Sculptures**: Art that changes with depth
@@ -244,6 +275,7 @@ Those who offend her suffer:
 - **Sorrow Songs**: Mourning hymns that please her
 
 ### Daily Life Influences
+
 - "By the Mother's Dreams" - Common oath
 - "Don't wake the Mother" - Warning phrase
 - "Deep dreams" - Blessing for good sleep
@@ -251,6 +283,7 @@ Those who offend her suffer:
 - "Shadow take you" - Curse
 
 ### Festivals & Observances
+
 - **The Deepening**: Annual descent festival
 - **Dream Tide**: When shadows are strongest
 - **Sorrow's End**: Mourning celebration
@@ -260,32 +293,36 @@ Those who offend her suffer:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Claims first child status
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees her true form
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Channel for her will
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Knows her ancient names
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Born from her nightmares
+
+- [[12_Research/D&D_References/Aboleth Prime Yoth]] - Claims first child status
+- [[12_Research/D&D_References/Prophet Nerida Voidgazer]] - Sees her true form
+- [[12_Research/D&D_References/High Priestess Scylla Deepdream]] - Channel for her will
+- [[12_Research/D&D_References/The Scattered Emperor]] - Knows her ancient names
+- [[12_Research/D&D_References/Shadow Duchess Nyx]] - Born from her nightmares
 
 ### Important Locations
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Her resting place
-- [[02_Worldbuilding/Places/The Deepmind]] - Her consciousness pooled
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Built to manage her dreams
-- [[Memory Meadows]] - Her peaceful dreams
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Her nightmares trading
+
+- [[12_Research/D&D_References/The Hadal Depths]] - Her resting place
+- [[12_Research/D&D_Statblocks/The Deepmind]] - Her consciousness pooled
+- [[12_Research/D&D_References/Parliament of Echoes]] - Built to manage her dreams
+- [[12_Research/D&D_References/Memory Meadows]] - Her peaceful dreams
+- [[12_Research/D&D_References/The Shadow Markets]] - Her nightmares trading
 
 ### Related Quests
-- [[02_Worldbuilding/Lore/Quest - The Deep Mother Rises]]
-- [[02_Worldbuilding/Lore/Quest - The Seven Seals]]
-- [[02_Worldbuilding/Lore/Quest - Dream Thieves]]
-- [[02_Worldbuilding/Lore/Quest - The Awakening Ritual]]
-- [[02_Worldbuilding/Lore/Quest - Mother's Mercy]]
+
+- [[12_Research/D&D_References/Quest - The Deep Mother Rises]]
+- [[12_Research/D&D_References/Quest - The Seven Seals]]
+- [[12_Research/D&D_References/Quest - Dream Thieves]]
+- [[12_Research/D&D_References/Quest - The Awakening Ritual]]
+- [[12_Research/D&D_References/Quest - Mother's Mercy]]
 
 ### Artifacts
-- [[02_Worldbuilding/Lore/Tears of the Deep Mother]] - Crystallized sorrow
-- [[02_Worldbuilding/Lore/The Dream Compass]] - Points to her thoughts
-- [[02_Worldbuilding/Lore/Shadow Womb Shard]] - Fragment of her essence
-- [[02_Worldbuilding/Lore/The First Pearl]] - Created from her first tear
-- [[02_Worldbuilding/Lore/Depth's Embrace]] - Armor of living pressure
+
+- [[12_Research/D&D_References/Tears of the Deep Mother]] - Crystallized sorrow
+- [[12_Research/D&D_References/The Dream Compass]] - Points to her thoughts
+- [[12_Research/D&D_References/Shadow Womb Shard]] - Fragment of her essence
+- [[12_Research/D&D_References/The First Pearl]] - Created from her first tear
+- [[12_Research/D&D_References/Depth's Embrace]] - Armor of living pressure
 
 ---
 
@@ -294,29 +331,29 @@ Those who offend her suffer:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother Cult Practices]]
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/Lore/Marina's Echo]]
-- [[02_Worldbuilding/Places/Aquabyssos]]
-- [[The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Crown of Stars]]
-- [[The Deserter's Tale]]
-- [[02_Worldbuilding/Lore/The Dream Shepherds]]
-- [[02_Worldbuilding/Lore/The Drowned God]]
-- [[The Drowning Welcome]]
-- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[The Forgotten Isles]]
-- [[02_Worldbuilding/Lore/The Senator's Last Stand]]
-- [[Tide Turner's Trident]]
-- [[02_Worldbuilding/Lore/Tide Turner]]
-- [[02_Worldbuilding/Lore/Time's Mercy]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Lord Flux the Inconsistent]]
-- [[02_Worldbuilding/Places/Senator's Private Chambers]]
-- [[02_Worldbuilding/Places/The Foundation Depths]]
-- [[02_Worldbuilding/Places/The Neutral Ground]]
-- [[02_Worldbuilding/Places/Vault Breach]]
-- [[1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[12_Research/D&D_References/Deep Mother Cult Practices]]
+- [[12_Research/D&D_References/Discover Marina's Truth]]
+- [[12_Research/D&D_References/Marina's Echo]]
+- [[12_Research/D&D_References/Aquabyssos]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crown of Stars]]
+- [[12_Research/D&D_References/The Deserter's Tale]]
+- [[12_Research/D&D_References/The Dream Shepherds]]
+- [[12_Research/D&D_References/The Drowned God]]
+- [[12_Research/D&D_References/The Drowning Welcome]]
+- [[12_Research/D&D_References/The Emperor's Gambit]]
+- [[12_Research/D&D_References/The Forgotten Isles]]
+- [[12_Research/D&D_References/The Senator's Last Stand]]
+- [[12_Research/D&D_References/Tide Turner's Trident]]
+- [[12_Research/D&D_References/Tide Turner]]
+- [[12_Research/D&D_References/Time's Mercy]]
+- [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]]
+- [[12_Research/D&D_References/Lord Flux the Inconsistent]]
+- [[12_Research/D&D_Statblocks/Senator's Private Chambers]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]
+- [[12_Research/D&D_References/The Neutral Ground]]
+- [[12_Research/D&D_References/Vault Breach]]
+- [[12_Research/D&D_References/Aquabyssos - Session 07 - The Resonance Revelation]]
 - [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
 
 ## Player-Facing Summary
@@ -341,16 +378,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[06_GM_Resources/Travel/Encounter_Sheets/X L-12 the Deep Mothers Bridge of Dreams]]
-- [[01_Adventures/The_Sunken_Conspiracy/Introduction]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Shadow Wells]]
-- [[03_Mechanics/Complete Temporal Mechanics System]]
-- [[03_Mechanics/Vehicles - Aethermoor Airships]]
-- [[03_Mechanics/Vehicles - Aquabyssos Submarines]]
-- [[03_Mechanics/Vehicles - Merger Hybrid Vehicles]]
-- [[03_Mechanics/Vehicles - Vehicle Core Rules]]
-- [[03_Mechanics/Vehicles - Vessel Horror Intensifier]]
+- [[04_Resources/Handouts/Encounters/X L-12 the Deep Mothers Bridge of Dreams]]
+- [[12_Research/D&D_Sourcebooks/Introduction]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Shadow Wells]]
+- [[12_Research/D&D_References/Complete Temporal Mechanics System]]
+- [[12_Research/D&D_References/Vehicles - Aethermoor Airships]]
+- [[12_Research/D&D_References/Vehicles - Aquabyssos Submarines]]
+- [[12_Research/D&D_References/Vehicles - Merger Hybrid Vehicles]]
+- [[12_Research/D&D_References/Vehicles - Vehicle Core Rules]]
+- [[12_Research/D&D_References/Vehicles - Vessel Horror Intensifier]]
 - [[06_GM_Resources/Travel/Encounter_Sheets/D L-03 Deep Mother Dream Tide]]
 - [[06_GM_Resources/Travel/Encounter_Sheets/M L-05 the Dream Sovereign]]
-- [[06_GM_Resources/Travel/Encounter_Sheets/X L-12 the Deep Mothers Bridge of Dreams]]
+- [[04_Resources/Handouts/Encounters/X L-12 the Deep Mothers Bridge of Dreams]]

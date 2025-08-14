@@ -33,7 +33,7 @@ world: Both
 
 
 
-When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit-points-xphb|Hit Points]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 **Variants**:
 - [Glaive of Wounding](#Glaive%20of%20Wounding)
@@ -46,13 +46,13 @@ When you hit a creature with an attack using this magic weapon, the target takes
 ## Glaive of Wounding
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Wounding
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Wounding
@@ -60,25 +60,25 @@ When you hit a creature with an attack using this magic weapon, the target takes
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Wounding
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Wounding
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Wounding
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

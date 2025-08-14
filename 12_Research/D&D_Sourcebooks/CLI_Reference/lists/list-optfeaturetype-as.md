@@ -19,14 +19,14 @@ world: Both
 # Arcane Shot
 *Source: Xanathar's Guide to Everything* 
 
-- [[/03_Mechanics/CLI/optional-features/banishing-arrow-xge|Banishing Arrow]]
-- [[/03_Mechanics/CLI/optional-features/beguiling-arrow-xge|Beguiling Arrow]]
-- [[/03_Mechanics/CLI/optional-features/bursting-arrow-xge|Bursting Arrow]]
-- [[/03_Mechanics/CLI/optional-features/enfeebling-arrow-xge|Enfeebling Arrow]]
-- [[/03_Mechanics/CLI/optional-features/grasping-arrow-xge|Grasping Arrow]]
-- [[/03_Mechanics/CLI/optional-features/piercing-arrow-xge|Piercing Arrow]]
-- [[/03_Mechanics/CLI/optional-features/seeking-arrow-xge|Seeking Arrow]]
-- [[/03_Mechanics/CLI/optional-features/shadow-arrow-xge|Shadow Arrow]]
+- [[banishing-arrow-xge|Banishing Arrow]]
+- [[beguiling-arrow-xge|Beguiling Arrow]]
+- [[bursting-arrow-xge|Bursting Arrow]]
+- [[enfeebling-arrow-xge|Enfeebling Arrow]]
+- [[grasping-arrow-xge|Grasping Arrow]]
+- [[piercing-arrow-xge|Piercing Arrow]]
+- [[seeking-arrow-xge|Seeking Arrow]]
+- [[shadow-arrow-xge|Shadow Arrow]]
 
 ## Player-Facing Summary
 

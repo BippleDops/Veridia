@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-lost-expedition-the-lost-expedition.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-lost-expedition-the-lost-expedition.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 ## Player-Facing Summary
 

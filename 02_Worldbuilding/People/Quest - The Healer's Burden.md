@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-healer-s-burden-quest-the-healer-s-burden.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[High Priestess Celeste Dawnbringer]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[High Priestess Celeste Dawnbringer]]
 
 # Quest - The Healer's Burden
 

@@ -6,6 +6,9 @@ created_by: auto-stub
 significance: Critical Safety System
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- aquatic
 - aethermoor
 - complete
 - content/lore
@@ -26,20 +29,18 @@ world: Aethermoor
 ---
 
 
-
-
-
 # Crystal-Corruption-Tracking-Sheet
+
 *The Silent Guardian Against Crystalline Corruption*
 
 > *"The Tracking Sheet doesn't just record corruption—it predicts it, maps it, and gives us the intelligence we need to fight back. Without this technology, we'd be fighting blind against an enemy that moves faster than we can see."*
-> — [[02_Worldbuilding/Lore/Chief Corruption Analyst Prism Datascribe]], Director of Corruption Intelligence
+> — [[12_Research/D&D_References/Chief Corruption Analyst Prism Datascribe]], Director of Corruption Intelligence
 
 ## Overview
 
-The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[02_Worldbuilding/Places/Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-time detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
+The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[12_Research/D&D_References/Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-time detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
 
-Developed in response to the accelerating spread of [[02_Worldbuilding/Places/Crystal Corruption]], the Tracking Sheet system provides early warning capabilities, enables rapid response deployment, supports research into corruption patterns, and facilitates international cooperation in anti-corruption efforts. The technology has become essential infrastructure for protecting both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] populations.
+Developed in response to the accelerating spread of [[12_Research/D&D_References/Crystal Corruption]], the Tracking Sheet system provides early warning capabilities, enables rapid response deployment, supports research into corruption patterns, and facilitates international cooperation in anti-corruption efforts. The technology has become essential infrastructure for protecting both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] populations.
 
 The system operates through a network of detection nodes, analytical processing centers, and communication relays that work together to create real-time maps of corruption activity. Advanced magical algorithms process detection data to identify patterns, predict spread directions, and recommend response strategies based on historical data and current conditions.
 
@@ -105,7 +106,7 @@ Comprehensive communication networks ensure corruption intelligence reaches appr
 - **Emergency Alert Systems**: Immediate notification of critical corruption threats
 - **Routine Reporting Networks**: Regular updates on corruption status and trends
 - **Inter-Agency Coordination**: Communication links between different anti-corruption organizations
-- **Cross-Realm Information Sharing**: Networks enabling intelligence sharing with [[02_Worldbuilding/Places/Aquabyssos]]
+- **Cross-Realm Information Sharing**: Networks enabling intelligence sharing with [[12_Research/D&D_References/Aquabyssos]]
 - **Public Warning Systems**: Citizen notification systems for corruption emergencies
 
 **Reporting Formats:**
@@ -132,11 +133,11 @@ Specialized manufacturing facility producing all components of the Tracking Shee
 **Engineering Specializations:**
 Production requires expertise in multiple technical disciplines:
 
-- **Detection Engineering**: Specialists in corruption sensing technology ([[02_Worldbuilding/Lore/Detection Specialist Gleam Corruptwatch]])
-- **Magical Analysis Programming**: Experts in corruption pattern recognition software ([[02_Worldbuilding/Lore/Analysis Programmer Spark Dataweave]])
-- **Communication Network Design**: Specialists in intelligence distribution systems ([[02_Worldbuilding/Lore/Network Designer Flow Linkwright]])
-- **Field Deployment Engineering**: Experts in sensor installation and maintenance ([[02_Worldbuilding/Lore/Field Engineer Stone Installwrigh]])
-- **Quality Assurance**: Specialists ensuring detection system accuracy ([[02_Worldbuilding/Lore/Quality Inspector Gem Precisiontest]])
+- **Detection Engineering**: Specialists in corruption sensing technology ([[12_Research/D&D_References/Detection Specialist Gleam Corruptwatch]])
+- **Magical Analysis Programming**: Experts in corruption pattern recognition software ([[12_Research/D&D_References/Analysis Programmer Spark Dataweave]])
+- **Communication Network Design**: Specialists in intelligence distribution systems ([[12_Research/D&D_References/Network Designer Flow Linkwright]])
+- **Field Deployment Engineering**: Experts in sensor installation and maintenance ([[12_Research/D&D_References/Field Engineer Stone Installwrigh]])
+- **Quality Assurance**: Specialists ensuring detection system accuracy ([[12_Research/D&D_References/Quality Inspector Gem Precisiontest]])
 
 ### Resource Requirements and Supply Chain
 
@@ -144,11 +145,11 @@ Production requires expertise in multiple technical disciplines:
 Corruption tracking systems require specialized resources from various suppliers:
 
 **Primary Materials:**
-- **Detection Crystals**: Specialized crystals sensitive to corruption, harvested from [[02_Worldbuilding/Lore/Crystal Forest]] facilities
-- **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[02_Worldbuilding/Groups/Magical Component Manufacturers Guil]]
-- **Communication Infrastructure**: Networks and transmission equipment from [[02_Worldbuilding/Lore/Communication Systems Consortium]]
+- **Detection Crystals**: Specialized crystals sensitive to corruption, harvested from [[12_Research/D&D_References/Crystal Forest]] facilities
+- **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[12_Research/D&D_References/Magical Component Manufacturers Guil]]
+- **Communication Infrastructure**: Networks and transmission equipment from [[12_Research/D&D_References/Communication Systems Consortium]]
 - **Environmental Monitoring Equipment**: Sensors for air, water, and soil analysis from [[Environmental Systems Suppliers]]
-- **Data Storage Systems**: Magical and technological storage for corruption intelligence from [[02_Worldbuilding/Lore/Information Systems Alliance]]
+- **Data Storage Systems**: Magical and technological storage for corruption intelligence from [[12_Research/D&D_References/Information Systems Alliance]]
 
 **Supply Chain Challenges:**
 - Limited availability of corruption-sensitive crystals
@@ -201,11 +202,11 @@ Corruption tracking systems require continuous monitoring and routine maintenanc
 - **Maintenance Scheduling**: Planning and coordination of routine system upkeep
 
 **Operational Personnel:**
-- **System Operators**: Personnel monitoring tracking system status and data ([[02_Worldbuilding/Lore/System Operator Tide Watchwright]])
-- **Data Analysts**: Specialists interpreting corruption detection information ([[02_Worldbuilding/Lore/Data Analyst Current Patternweave]])
-- **Communication Coordinators**: Personnel managing information distribution ([[02_Worldbuilding/Lore/Communications Coordinator Wave Messagewright]])
-- **Maintenance Technicians**: Specialists performing system upkeep and repairs ([[02_Worldbuilding/Places/Maintenance Tech Reef Fixwright]])
-- **Emergency Response Coordinators**: Personnel managing crisis response ([[02_Worldbuilding/Lore/Emergency Coordinator Storm Responsewrigh]])
+- **System Operators**: Personnel monitoring tracking system status and data ([[12_Research/D&D_References/System Operator Tide Watchwright]])
+- **Data Analysts**: Specialists interpreting corruption detection information ([[12_Research/D&D_References/Data Analyst Current Patternweave]])
+- **Communication Coordinators**: Personnel managing information distribution ([[12_Research/D&D_References/Communications Coordinator Wave Messagewright]])
+- **Maintenance Technicians**: Specialists performing system upkeep and repairs ([[12_Research/D&D_References/Maintenance Tech Reef Fixwright]])
+- **Emergency Response Coordinators**: Personnel managing crisis response ([[12_Research/D&D_References/Emergency Coordinator Storm Responsewrigh]])
 
 ## Common Applications and Use Cases
 
@@ -348,7 +349,7 @@ Ongoing research promises significant improvements to corruption tracking capabi
 ### Cross-Realm Integration Projects
 
 **Collaborative Monitoring Networks:**
-Cooperation with [[02_Worldbuilding/Places/Aquabyssos]] creates opportunities for enhanced corruption tracking:
+Cooperation with [[12_Research/D&D_References/Aquabyssos]] creates opportunities for enhanced corruption tracking:
 
 **Joint Development Projects:**
 - **Unified Detection Networks**: Integrated monitoring systems covering both realms
@@ -383,21 +384,21 @@ Corruption tracking technology creates various commercial possibilities:
 **Connected Technologies:**
 Corruption tracking integrates with other monitoring and security systems:
 
-- **[[02_Worldbuilding/Lore/Resonance Chamber]]**: Research facility using tracking data for corruption analysis
-- **[[02_Worldbuilding/Lore/Crystal Forest]]**: Resource production requiring corruption monitoring protection
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Life support systems needing corruption contamination alerts
-- **[[02_Worldbuilding/Lore/The Deep Harvest]]**: Economic activities requiring corruption safety monitoring
-- **[[02_Worldbuilding/Lore/Underwater Breathing]]**: Life support systems requiring contamination warnings
+- **[[12_Research/D&D_References/Resonance Chamber]]**: Research facility using tracking data for corruption analysis
+- **[[12_Research/D&D_References/Crystal Forest]]**: Resource production requiring corruption monitoring protection
+- **[[12_Research/D&D_References/Pressure Adaptation System]]**: Life support systems needing corruption contamination alerts
+- **[[12_Research/D&D_References/The Deep Harvest]]**: Economic activities requiring corruption safety monitoring
+- **[[12_Research/D&D_References/Underwater Breathing]]**: Life support systems requiring contamination warnings
 
 ### Professional Networks and Organizations
 
 **Supporting Institutions:**
 Various organizations work with corruption tracking systems:
 
-- **[[02_Worldbuilding/Lore/Corruption Intelligence Agency]]**: Primary user of tracking system data
-- **[[02_Worldbuilding/Lore/Anti-Corruption Research Institute]]**: Research organization using tracking information
+- **[[12_Research/D&D_References/Corruption Intelligence Agency]]**: Primary user of tracking system data
+- **[[12_Research/D&D_References/Anti-Corruption Research Institute]]**: Research organization using tracking information
 - **[[Emergency Response Coordination]]**: Crisis management using tracking system alerts
-- **[[02_Worldbuilding/Groups/Environmental Protection Authorit]]**: Agency using tracking data for environmental safety
+- **[[12_Research/D&D_References/Environmental Protection Authorit]]**: Agency using tracking data for environmental safety
 - **[[International Corruption Monitoring Consortium]]**: Cross-realm cooperation organization
 
 ### Research and Development Partnerships
@@ -405,10 +406,10 @@ Various organizations work with corruption tracking systems:
 **Collaborative Institutions:**
 Multiple organizations contribute to tracking system advancement:
 
-- **[[02_Worldbuilding/Lore/Aethermoor Technical University]]**: Academic research and technical training
-- **[[02_Worldbuilding/Lore/Corruption Studies Research Institute]]**: Specialized corruption research and analysis
-- **[[02_Worldbuilding/Lore/Detection Technology Laboratory]]**: Advanced sensor and monitoring system development
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]**: International collaboration on corruption threats
+- **[[12_Research/D&D_References/Aethermoor Technical University]]**: Academic research and technical training
+- **[[12_Research/D&D_References/Corruption Studies Research Institute]]**: Specialized corruption research and analysis
+- **[[12_Research/D&D_References/Detection Technology Laboratory]]**: Advanced sensor and monitoring system development
+- **[[12_Research/D&D_References/Cross-Realm Cooperation Authority]]**: International collaboration on corruption threats
 - **[[Emergency Technology Development Foundation]]**: Crisis response and public safety advancement
 
 ## Campaign Integration and Adventure Opportunities
@@ -473,22 +474,22 @@ Understanding tracking systems helps navigate society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary setting utilizing corruption tracking technology
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Research facility using tracking data for analysis
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Resource production facility requiring protection monitoring
-- [[02_Worldbuilding/Places/Aquabyssos]] - Allied realm sharing corruption intelligence
-- [[02_Worldbuilding/People/Chief Corruption Analyst Prism Datascribe|02 Worldbuilding/People/Chief Corruption Analyst Prism Datascribe]] - System director and intelligence leader
+- [[12_Research/D&D_References/Aethermoor]] - Primary setting utilizing corruption tracking technology
+- [[12_Research/D&D_References/Resonance Chamber]] - Research facility using tracking data for analysis
+- [[12_Research/D&D_References/Crystal Forest]] - Resource production facility requiring protection monitoring
+- [[12_Research/D&D_References/Aquabyssos]] - Allied realm sharing corruption intelligence
+- [[Chief Corruption Analyst Prism Datascribe|02 Worldbuilding/People/Chief Corruption Analyst Prism Datascribe]] - System director and intelligence leader
 - [[02_Worldbuilding/People/Master Detection Engineer Crystal Sensorwright|02 Worldbuilding/People/Master Detection Engineer Crystal Sensorwright]] - Manufacturing facility director
-- [[02_Worldbuilding/Groups/Corruption Intelligence Agency|02 Worldbuilding/Groups/Corruption Intelligence Agency]] - Primary user organization
-- [[02_Worldbuilding/Groups/Anti-Corruption Research Institute|02 Worldbuilding/Groups/Anti Corruption Research Institute]] - Research partner using tracking data
+- [[Corruption Intelligence Agency|02 Worldbuilding/Groups/Corruption Intelligence Agency]] - Primary user organization
+- [[Anti-Corruption Research Institute|02 Worldbuilding/Groups/Anti Corruption Research Institute]] - Research partner using tracking data
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Environmental Hazards]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Lore/The Depth Chart]]
+- [[12_Research/D&D_References/Environmental Hazards]]
+- [[12_Research/D&D_References/Initiative Tracker]]
+- [[12_Research/D&D_Statblocks/Random Encounters]]
+- [[12_Research/D&D_References/The Depth Chart]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -514,7 +515,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[12_Research/D&D_References/The Deep Harvest]]
+- [[12_Research/D&D_References/Underwater Breathing]]

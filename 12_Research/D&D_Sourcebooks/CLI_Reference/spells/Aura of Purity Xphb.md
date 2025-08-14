@@ -34,9 +34,9 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Poison damage and [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws to avoid or end effects that include the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Charmed|Charmed]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Frightened|Frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], or [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition.
+An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and your allies have [[resistance-xphb|Resistance]] to Poison damage and [[advantage-xphb|Advantage]] on saving throws to avoid or end effects that include the [[conditions#Blinded|Blinded]], [[conditions#Charmed|Charmed]], [[conditions#Deafened|Deafened]], [[conditions#Frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 244*
 

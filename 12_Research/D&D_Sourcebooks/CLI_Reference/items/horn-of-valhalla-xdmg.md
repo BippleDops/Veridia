@@ -23,28 +23,28 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/horn-of-valhalla.webp#right)
 
 
-You can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. The spirits look like living, breathing warriors, and they have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] and [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
+You can take a [[actions#Magic|Magic]] action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] stat block and returns to Ysgard after 1 hour or when it drops to 0 [[hit-points-xphb|Hit Points]]. The spirits look like living, breathing warriors, and they have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions. Once you use the horn, it can't be used again until 7 days have passed.
 
 Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many spirits it summons, as well as the requirement for its use. The DM chooses the horn's type or determines it randomly by rolling on the following table. If you blow the horn without meeting its requirement, the summoned spirits attack you.
 
-If you meet the requirement, they are [[/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb|Friendly]] to you and your allies and follow your commands.
+If you meet the requirement, they are [[friendly-attitude-xphb|Friendly]] to you and your allies and follow your commands.
 
 `dice: [](horn-of-valhalla-xdmg.md#^1-horn-type-spirits-requirement)`
 
 | dice: 1d100 | Horn Type | Spirits | Requirement |
 |-------------|-----------|---------|-------------|
-| 01-40 | [[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|Silver]] | 2 | None |
-| 41-75 | [[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|Brass]] | 3 | [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency]] with all Simple weapons |
-| 76-90 | [[/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg|Bronze]] | 4 | Training with all Medium armor |
-| 91-00 | [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Iron]] | 5 | [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency]] with all Martial weapons |
+| 01-40 | [[horn-of-valhalla-silver-xdmg|Silver]] | 2 | None |
+| 41-75 | [[horn-of-valhalla-brass-xdmg|Brass]] | 3 | [[proficiency-xphb|Proficiency]] with all Simple weapons |
+| 76-90 | [[horn-of-valhalla-bronze-xdmg|Bronze]] | 4 | Training with all Medium armor |
+| 91-00 | [[horn-of-valhalla-iron-xdmg|Iron]] | 5 | [[proficiency-xphb|Proficiency]] with all Martial weapons |
 ^1-horn-type-spirits-requirement
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/horn-of-valhalla-brass-xdmg|Horn of Valhalla, Brass]]
-- [[/03_Mechanics/CLI/items/horn-of-valhalla-bronze-xdmg|Horn of Valhalla, Bronze]]
-- [[/03_Mechanics/CLI/items/horn-of-valhalla-iron-xdmg|Horn of Valhalla, Iron]]
-- [[/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg|Horn of Valhalla, Silver]]
+- [[horn-of-valhalla-brass-xdmg|Horn of Valhalla, Brass]]
+- [[horn-of-valhalla-bronze-xdmg|Horn of Valhalla, Bronze]]
+- [[horn-of-valhalla-iron-xdmg|Horn of Valhalla, Iron]]
+- [[horn-of-valhalla-silver-xdmg|Horn of Valhalla, Silver]]
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

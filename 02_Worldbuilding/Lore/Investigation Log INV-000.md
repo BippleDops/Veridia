@@ -14,11 +14,6 @@ world: Both Worlds
 ---
 
 
-
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +40,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[12_Research/D&D_References/The Final Choice]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[12_Research/D&D_References/The Final Choice]]

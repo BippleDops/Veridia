@@ -9,6 +9,9 @@ obsidianUIMode: preview
 security_level: extreme
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
 - access/secret
 - aquabyssos
 - complete
@@ -26,11 +29,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deepmind-conspiracy-deepmind-conspiracy.svg)
-
-
 
 
 # Deepmind Conspiracy
@@ -46,7 +46,8 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## The Network Structure
 
 ### The Core Mind
-**Controller**: [[02_Worldbuilding/Lore/Overmind Depth-Thought Eternal]]
+
+**Controller**: [[12_Research/D&D_References/Overmind Depth-Thought Eternal]]
 **Function**: Central processing unit for all intelligence operations
 **Capacity**: Can maintain mental links with up to 500 individuals simultaneously
 
@@ -59,7 +60,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ### The Five Specialized Minds
 
-**The Watcher Mind**: [[02_Worldbuilding/Lore/Psychic Observer All-Seeing Echo]]
+**The Watcher Mind**: [[12_Research/D&D_References/Psychic Observer All-Seeing Echo]]
 - Specialty: Surveillance and information gathering
 - Network: 80-100 enhanced perception specialists
 - Operations: Continuous monitoring of targets
@@ -74,7 +75,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Network: 20-30 precognitive individuals
 - Operations: Strategic forecasting and timeline analysis
 
-**The Whisper Mind**: [[02_Worldbuilding/Lore/Thought-Speaker Silent]]
+**The Whisper Mind**: [[12_Research/D&D_References/Thought-Speaker Silent]]
 - Specialty: Long-distance telepathic communication
 - Network: 60-80 telepathic communicators
 - Operations: Instant messaging across realms
@@ -87,26 +88,30 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Physical Locations
 
 ### The Deep Meditation Chamber
+
 - Location: 200 feet beneath the city
 - Purpose: Physical anchor for the psychic network
 - Features: Sensory deprivation pools, psychic amplification crystals
 - Security: Guarded by mind-controlled sentinels
 
 ### The Memory Archive
-- Location: Hidden within [[02_Worldbuilding/Places/The Shadow Markets]]
+
+- Location: Hidden within [[12_Research/D&D_References/The Shadow Markets]]
 - Purpose: Physical storage for dangerous extracted memories
 - Technology: Crystal matrices containing crystallized thoughts
 - Capacity: Memories from approximately 10,000 individuals
 
 ### Communication Nodes
+
 - Multiple hidden chambers throughout the city
-- Connected to [[02_Worldbuilding/Places/Vote Vaults]], [[02_Worldbuilding/Places/Shadow Market Canals]], and other locations
+- Connected to [[12_Research/D&D_References/Vote Vaults]], [[12_Research/D&D_References/Shadow Market Canals]], and other locations
 - Equipment: Magical amplifiers for psychic abilities
 - Personnel: 8-12 psychic operators per location
 
 ## Intelligence Operations
 
 ### Information Gathering Methods
+
 - **Thought Skimming**: Reading surface thoughts without detection
 - **Memory Diving**: Accessing deep memories during sleep
 - **Emotional Monitoring**: Detecting stress, lies, and motivations
@@ -114,6 +119,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - **Subconscious Planting**: Installing suggestions for information gathering
 
 ### Target Categories
+
 - **Political Figures**: All levels of government and military
 - **Criminal Networks**: Organized crime leaders and operations
 - **Cross-Realm Contacts**: Agents in other dimensional realms
@@ -121,6 +127,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - **Temporal Anomalies**: Time-affected individuals and reality shifters
 
 ### Services Offered
+
 - **Standard Intelligence Package** (1,000-5,000 gp): Complete psychological profiles
 - **Deep Analysis** (5,000-15,000 gp): Lifetime memory extraction
 - **Memory Modification** (2,000-10,000 gp): Selective memory alteration
@@ -130,13 +137,15 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Network Connections
 
 ### Primary Partners
-- **[[02_Worldbuilding/Places/Vote Vaults]]**: Political manipulation coordination
-- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Criminal intelligence sharing
-- **[[02_Worldbuilding/Places/Secret Vault Beneath Throne]]**: Royal intelligence operations
-- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Transportation security
-- **[[02_Worldbuilding/Places/The Silent Watcher]]**: Surveillance coordination
+
+- **[[12_Research/D&D_References/Vote Vaults]]**: Political manipulation coordination
+- **[[12_Research/D&D_References/The Shadow Markets]]**: Criminal intelligence sharing
+- **[[12_Research/D&D_References/Secret Vault Beneath Throne]]**: Royal intelligence operations
+- **[[12_Research/D&D_References/Shadow Market Canals]]**: Transportation security
+- **[[12_Research/D&D_References/The Silent Watcher]]**: Surveillance coordination
 
 ### Intelligence Sharing
+
 - Real-time threat assessment and warning systems
 - Coordinated operations across multiple criminal organizations
 - Cross-realm intelligence gathering and verification
@@ -146,6 +155,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Security and Vulnerabilities
 
 ### Protection Methods
+
 - Multiple layers of psychic defenses
 - Compartmentalized information to limit exposure
 - False memory implantation in operatives
@@ -153,6 +163,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Psychic early warning systems
 
 ### Primary Threats
+
 - Counter-psychic organizations and individuals
 - Magical wards interfering with telepathic abilities
 - Law enforcement anti-telepathy units
@@ -160,6 +171,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Internal conflicts between different Minds
 
 ### Operational Hazards
+
 - **Reality Dissociation**: Loss of connection to physical reality
 - **Identity Fragmentation**: Exposure to multiple minds causing personality breakdown
 - **Psychic Burnout**: Mental exhaustion from constant network activity
@@ -169,6 +181,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Notable NPCs
 
 ### Overmind Depth-Thought Eternal
+
 *Unknown entity, neutral evil*
 - Supreme controller of the psychic network
 - May exist as collective consciousness rather than individual
@@ -176,6 +189,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Never uses verbal communication, speaks directly into minds
 
 ### Network Operatives
+
 - **Surface Agents**: 40-60 individuals with normal jobs and basic telepathy
 - **Deep Infiltrators**: 20-30 high-level government and criminal organization plants
 - **Extraction Specialists**: 15-20 combat telepaths for hostile operations
@@ -183,16 +197,19 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Adventure Hooks
 
 ### Low-Level (1-4)
+
 - Party experiences memory gaps and strange dreams
 - Investigation of innocent person accused based on manipulated memories
 - Party member develops telepathic abilities and becomes recruitment target
 
 ### Mid-Level (5-9)
+
 - Conflict between psychic organizations affecting civilians
 - Investigation of systematic memory manipulation in politics
 - Discovery that party member's identity may be artificially constructed
 
 ### High-Level (10+)
+
 - Network breakdown threatening mass insanity
 - Confrontation with the true nature of the Overmind
 - City-wide effort to free citizens from psychic manipulation
@@ -200,12 +217,14 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Secrets
 
 ### Hidden Truths
+
 - Originally created to protect against otherworldly mental threats
 - Controlled by ancient artifact that feeds on psychic energy
 - Extracted memories retain consciousness and resist storage
 - Hidden protocol exists to shut down network (at cost of mass insanity)
 
 ### Mysteries
+
 - Missing network members with no trace in physical or psychic space
 - Unknown consciousness occasionally communicating through network
 - Memory entities that seem to have independent existence
@@ -218,11 +237,11 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[02_Worldbuilding/Places/Shadow Market Canals]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
+- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[12_Research/D&D_References/Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -238,7 +257,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[12_Research/D&D_References/Deepmind Conspiracy]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[12_Research/D&D_References/The Silent Watcher]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/hat-of-disguise.webp#right)
 
 
-While wearing this hat, you can cast the [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise Self]] spell. The spell ends if the hat is removed.
+While wearing this hat, you can cast the [[disguise-self-xphb|Disguise Self]] spell. The spell ends if the hat is removed.
 
 *Source: Dungeon Master's Guide (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

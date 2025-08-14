@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-fuming-xphb-fey-spirit-fuming-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/fey-spirit-fuming-xphb|Fey Spirit (Fuming)]]
+# [[fey-spirit-fuming-xphb|Fey Spirit (Fuming)]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -45,7 +45,7 @@ world: Both
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":

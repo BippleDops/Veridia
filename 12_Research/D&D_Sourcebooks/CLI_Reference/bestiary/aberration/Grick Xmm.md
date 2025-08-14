@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grick-xmm-grick-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/grick-xmm|Grick]]
+# [[grick-xmm|Grick]]
 *Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
@@ -63,7 +63,7 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -74,7 +74,7 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12) from all four tentacles."
     "name": "Tentacles"
 "source":

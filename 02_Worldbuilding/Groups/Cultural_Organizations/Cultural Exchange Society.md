@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[Port Meridian - Market Square]]
 
 ## Player-Facing Summary
 

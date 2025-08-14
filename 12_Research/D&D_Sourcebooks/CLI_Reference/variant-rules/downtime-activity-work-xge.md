@@ -27,15 +27,15 @@ Performing a job requires one workweek of effort.
 
 ## Resolution
 
-To determine how much money a character earns, the character makes an ability check: Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]), Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]), Intelligence using a set of tools, Charisma ([[/03_Mechanics/CLI/skills#Performance|Performance]]), or Charisma using a [[/03_Mechanics/CLI/items/musical-instrument-xphb|musical instrument]]. Consult the Wages table to see how much money is generated according to the total of the check.
+To determine how much money a character earns, the character makes an ability check: Strength ([[skills#Athletics|Athletics]]), Dexterity ([[skills#Acrobatics|Acrobatics]]), Intelligence using a set of tools, Charisma ([[skills#Performance|Performance]]), or Charisma using a [[musical-instrument-xphb|musical instrument]]. Consult the Wages table to see how much money is generated according to the total of the check.
 
-![[/03_Mechanics/CLI/tables/work-wages-xge|Work; Wages]]
+![[work-wages-xge|Work; Wages]]
 
 ## Complications
 
 Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10 percent chance that a character encounters a complication.
 
-![[/03_Mechanics/CLI/tables/work-complications-xge|Work Complications]]
+![[work-complications-xge|Work Complications]]
 
 ## Player-Facing Summary
 

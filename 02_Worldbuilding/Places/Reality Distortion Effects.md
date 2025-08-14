@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-reality-distortion-effects-reality-distortion-effects.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reality-distortion-effects-reality-distortion-effects.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reality Distortion Effects]]
+- [[Reality Distortion Effects]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [[Void Currents]]

@@ -34,7 +34,7 @@ world: Both
 
 - **Ability.** Wisdom  
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]], [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]]  
+- **Craft.** [[druidic-focus-xphb|Druidic Focus]], [[holy-symbol-xphb|Holy Symbol]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

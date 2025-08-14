@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-axe-beak-xmm-axe-beak-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/axe-beak-xmm|Axe Beak]]
+# [[axe-beak-xmm|Axe Beak]]
 *Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.

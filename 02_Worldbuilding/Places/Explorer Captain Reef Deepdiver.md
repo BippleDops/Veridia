@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]]
+- [[12_Research/D&D_References/Explorer Captain Reef Deepdiver]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[12_Research/D&D_References/The Frozen Throne]]

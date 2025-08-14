@@ -16,10 +16,7 @@ world: Universal
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-facilities-port-facilities.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-facilities-port-facilities.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port facilities]]
+- [[12_Research/D&D_References/Port facilities]]
 
 <!-- enriched: true -->

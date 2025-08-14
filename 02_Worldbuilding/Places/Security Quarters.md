@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Security Quarters]]
+- [[12_Research/D&D_References/Security Quarters]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[12_Research/D&D_References/Inverted Ballroom Wing]]

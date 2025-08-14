@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-needle-blight-xmm-needle-blight-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/needle-blight-xmm|Needle Blight]]
+# [[needle-blight-xmm|Needle Blight]]
 *Source: Monster Manual (2024) p. 43*  
 
 Needle blights have vaguely bipedal forms, with gaunt, misshapen limbs. Whether standing unnaturally still or lurching with their awkward gaits, these blights can't pass as either normal plants or woodland travelers. Once they spot foes, needle blights attack using their thorn-covered claws or by rapidly growing and flinging volleys of serrated, needlelike projectiles.
@@ -61,7 +61,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "8"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Deafened|deafened]]"
+"condition_immunities": "[[conditions#Deafened|deafened]]"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"

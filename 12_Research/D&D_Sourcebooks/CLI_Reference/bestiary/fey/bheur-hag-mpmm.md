@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/bheur-hag-mpmm|Bheur Hag]]
+# [[bheur-hag-mpmm|Bheur Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -57,20 +57,20 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Nature|Nature]]"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The hag can cast the [[/03_Mechanics/CLI/spells/control-weather-xphb|control weather]]\
+  - "desc": "The hag can cast the [[control-weather-xphb|control weather]]\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (1/Day)"
@@ -96,9 +96,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
       \ the past minute. Each creature of the hag's choice that is within 60 feet\
       \ and able to see the feeding must succeed on a DC 15 Wisdom saving throw or\
-      \ be [[/03_Mechanics/CLI/conditions#Frightened|frightened]] of the hag for\
-      \ 1 minute. While [[/03_Mechanics/CLI/conditions#Frightened|frightened]] in\
-      \ this way, a creature is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]],\
+      \ be [[conditions#Frightened|frightened]] of the hag for\
+      \ 1 minute. While [[conditions#Frightened|frightened]] in\
+      \ this way, a creature is [[conditions#Incapacitated|incapacitated]],\
       \ can't understand what others say, can't read, and speaks only in gibberish.\
       \ A creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
@@ -107,9 +107,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Horrific Feast"
   - "desc": "While holding or riding the graystaff, the hag casts one of the following\
       \ spells, requiring no material components and using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]],\
-      \ [[/03_Mechanics/CLI/spells/ice-storm-xphb|ice storm]], [[/03_Mechanics/CLI/spells/wall-of-ice-xphb|wall of ice]]"
+      \ ability (spell save DC 14):\n\nAt will: [[hold-person-xphb|hold person]]\n\
+      \n1/day each: [[cone-of-cold-xphb|cone of cold]],\
+      \ [[ice-storm-xphb|ice storm]], [[wall-of-ice-xphb|wall of ice]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

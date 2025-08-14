@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-professor-reef-growthseeker-professor-reef-growthseeker.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-professor-reef-growthseeker-professor-reef-growthseeker.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Professor Reef Growthseeker]]
+- [[12_Research/D&D_References/Professor Reef Growthseeker]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]

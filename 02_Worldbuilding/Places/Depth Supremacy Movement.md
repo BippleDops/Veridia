@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-depth-supremacy-movement-depth-supremacy-movement.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-supremacy-movement-depth-supremacy-movement.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[12_Research/D&D_References/Abyssos Prime]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[12_Research/D&D_References/Abyssos Prime]]
 
 ## Player-Facing Summary
 

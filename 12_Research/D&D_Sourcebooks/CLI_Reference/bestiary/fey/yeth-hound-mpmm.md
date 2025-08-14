@@ -27,12 +27,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yeth-hound-mpmm-v1-yeth-hound-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/yeth-hound-mpmm|Yeth Hound]]
+# [[yeth-hound-mpmm|Yeth Hound]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 
-A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]], [[/03_Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm|necromancer]], or [[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm|hag]].
+A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [[vampire-xmm|vampire]], [[/03_Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm|necromancer]], or [[green-hag-xmm|hag]].
 
 ```statblock
 "name": "Yeth Hound (MPMM)"
@@ -53,12 +53,12 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
   - !!int "7"
 "speed": "40 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with silvered weapons"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"
@@ -79,12 +79,12 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
     "name": "Telepathic Bond"
 "actions":
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
-      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[/03_Mechanics/CLI/conditions#Frightened|frightened]]."
+      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[conditions#Frightened|frightened]]."
     "name": "Bite"
   - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
-      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
       \ of the hound until the end of the hound's next turn or until the hound is\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. A [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ [[conditions#Incapacitated|incapacitated]]. A [[conditions#Frightened|frightened]]\
       \ target that starts its turn within 30 feet of the hound must use all its movement\
       \ on that turn to get as far from the hound as possible, must finish the move\
       \ before taking an action, and must take the most direct route, even if hazards\

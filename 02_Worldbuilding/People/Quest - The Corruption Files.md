@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-files-quest-the-corruption-files.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-corruption-files-quest-the-corruption-files.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Corruption Files]]
+- [[Quest - The Corruption Files]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]

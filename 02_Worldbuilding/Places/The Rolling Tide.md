@@ -14,8 +14,6 @@ world: Both
 ---
 
 
-
-
 ## Player-Facing Summary
 
 The Rolling Tide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -36,6 +34,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Rolling Tide]]
+- [[The Rolling Tide]]
 
 <!-- enriched: true -->

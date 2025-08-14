@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ankheg-xmm-ankheg-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/ankheg-xmm|Ankheg]]
+# [[ankheg-xmm|Ankheg]]
 *Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ankheg
@@ -86,18 +86,18 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ankheg can burrow through solid rock at half its [[/03_Mechanics/CLI/variant-rules/burrow-speed-xphb|Burrow Speed]]\
+  - "desc": "The ankheg can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ if the target is [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] by the\
+  - "desc": "Melee Attack Roll: +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ ankheg), reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 3 (d6) Acid\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13)."
     "name": "Bite"
   - "desc": "Dexterity Saving Throw: DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 14 (4d6) Acid damage. Success: Half damage."
     "name": "Acid Spray (Recharge 6)"
 "source":

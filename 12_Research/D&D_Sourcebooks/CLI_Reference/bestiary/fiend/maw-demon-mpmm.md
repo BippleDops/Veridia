@@ -23,9 +23,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\fiend/maw-demon-mpmm|Maw Demon]]
+# [[maw-demon-mpmm|Maw Demon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Tasha  
@@ -75,8 +75,8 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
@@ -85,7 +85,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
       \ (2d8 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
-      \ on a DC 11 Dexterity saving throw or take 11 (2d10) acid damage and fall [[/03_Mechanics/CLI/conditions#Prone|prone]]\
+      \ on a DC 11 Dexterity saving throw or take 11 (2d10) acid damage and fall [[conditions#Prone|prone]]\
       \ in the spew."
     "name": "Disgorge (Recharge 6)"
 "source":

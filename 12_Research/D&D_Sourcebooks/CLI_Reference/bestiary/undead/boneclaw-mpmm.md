@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-boneclaw-mpmm-boneclaw-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/boneclaw-mpmm|Boneclaw]]
+# [[boneclaw-mpmm|Boneclaw]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -61,14 +61,14 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, necrotic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"
@@ -85,7 +85,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20\
       \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
       \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
-      \ and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]] (escape\
+      \ and the target is [[conditions#Grappled|grappled]] (escape\
       \ DC 14). The boneclaw has two claws. While a claw grapples a target, the claw\
       \ can attack only that target."
     "name": "Piercing Claw"
@@ -98,7 +98,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
       \ be in dim light or darkness."
     "name": "Shadow Jump (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the boneclaw takes the [[/03_Mechanics/CLI/actions#Hide|Hide]]\
+  - "desc": "While in dim light or darkness, the boneclaw takes the [[actions#Hide|Hide]]\
       \ action."
     "name": "Shadow Stealth"
 "reactions":

@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-doctor-helena-voidwalker-doctor-helena-voidwalker.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-doctor-helena-voidwalker-doctor-helena-voidwalker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[The Bone Colosseum]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 

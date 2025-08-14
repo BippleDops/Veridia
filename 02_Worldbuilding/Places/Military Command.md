@@ -15,22 +15,19 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-military-command-military-command.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-military-command-military-command.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Military Command]]
+- [[12_Research/D&D_References/Military Command]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/The Crown Authority]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 

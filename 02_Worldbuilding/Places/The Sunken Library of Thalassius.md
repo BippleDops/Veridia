@@ -6,16 +6,20 @@ current_state: Partially Flooded Ruins
 danger_level: Moderate-High
 depth: 2500-3000 feet
 difficulty: Levels 6-12
-original_builder: '[[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
+original_builder: '[[12_Research/D&D_References/Scholar Emperor Thalassius the Wise]]'
 population: 50+ (scholars, guardians, spirits)
 related_entities:
-- '[[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
+- '[[12_Research/D&D_References/Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant|02 Worldbuilding/Groups/The Scribes''
   Covenant]]'
-- '[[02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]'
-- '[[02_Worldbuilding/Lore/Deep Archives]]'
+- '[[12_Research/D&D_References/Order of Preserved Knowledge]]'
+- '[[12_Research/D&D_References/Deep Archives]]'
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- aquatic
 - ancient-wisdom
 - aquabyssos
 - campaign/arc
@@ -35,18 +39,16 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]]
 
 
 # The Sunken Library of Thalassius
+
 *Where Knowledge Sleeps Beneath the Waves*
 
 ## Overview
 
-The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[02_Worldbuilding/Places/Aquabyssos]]. Once the crown jewel of [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
+The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[12_Research/D&D_References/Aquabyssos]]. Once the crown jewel of [[12_Research/D&D_References/Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
 
 Built originally as a surface library complex spanning over 12 city blocks, the library was miraculously preserved when the Great Drowning occurred. Through a combination of hasty protective magic and fortunate architecture, large portions of the structure maintained air-filled chambers and preserved their precious contents. Today, it exists as a partially flooded maze of chambers, halls, and towers where scholars from across the realm come to study forbidden knowledge and recover lost wisdom.
 
@@ -57,6 +59,7 @@ The library serves multiple purposes in the modern underwater world: it function
 ### Original Surface Structure
 
 #### The Grand Design
+
 Before the Great Drowning, the Library of Thalassius was an architectural marvel designed to both inspire learning and protect knowledge:
 
 **The Central Dome**: A magnificent structure 200 feet in diameter and 150 feet high, originally housing the most precious and dangerous magical texts. The dome was constructed with special crystal windows that filtered and focused natural light to prevent document decay.
@@ -76,6 +79,7 @@ Before the Great Drowning, the Library of Thalassius was an architectural marvel
 ### Post-Drowning Transformation
 
 #### Current Physical State
+
 The Great Drowning transformed the library complex in dramatic and sometimes beneficial ways:
 
 **Partial Submersion**: The lower three floors of most structures are completely flooded, while upper floors maintain air pockets through magical preservation or structural accidents.
@@ -93,6 +97,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Level 1: The Flooded Foundations (2500-2800 feet depth)
 
 #### The Arrival Chambers
+
 **The Grand Foyer**: Once an impressive entrance hall, now a vast underwater space where visitors must navigate between massive columns and floating debris. Ancient reception desks serve as coral gardens, while the original information directories have been replaced by bioluminescent signs maintained by current residents.
 
 **Navigation Challenges**:
@@ -102,6 +107,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Magical Residue**: Unstable magic from destroyed protective wards
 
 #### The Flooded Stacks
+
 **The Aquatic Archives**: Massive chambers filled with water-sealed book cases designed to protect contents from flood damage:
 
 **Preservation Technology**: Ancient magical systems maintain perfect environmental conditions:
@@ -117,6 +123,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Specialist Services**: Professional scholars provide research and retrieval services
 
 #### The Vault Levels
+
 **The Secure Archives**: The most protected areas of the original library:
 
 **The Sealed Chambers**: Rooms that were magically locked during the Drowning and remain inaccessible:
@@ -134,6 +141,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Level 2: The Tidal Chambers (2000-2500 feet depth)
 
 #### The Transition Zones
+
 **Semi-Flooded Areas**: Chambers that cycle between dry and flooded states based on tidal patterns and magical fluctuations:
 
 **The Tidal Reading Rooms**: Spaces where scholars work during low-tide periods:
@@ -149,6 +157,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Access Authorization**: Security clearance for sensitive or dangerous materials
 
 #### The Laboratory Complex
+
 **The Research Facilities**: Where scholars conduct experiments and analysis:
 
 **The Alchemical Labs**: Specialized spaces for magical research:
@@ -166,6 +175,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Level 3: The Air Chambers (1500-2000 feet depth)
 
 #### The Great Dome
+
 **The Crown Jewel**: The massive central dome maintains a perfect air environment:
 
 **The Grand Reading Hall**: A cathedral-like space with soaring ceilings and magnificent architecture:
@@ -176,7 +186,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **The Restricted Collection**: The most valuable and dangerous books in the library:
 - **The Arcane Codex**: Original spell research by legendary wizards
-- **The Imperial Library**: Personal collection of [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]
+- **The Imperial Library**: Personal collection of [[12_Research/D&D_References/Scholar Emperor Thalassius the Wise]]
 - **The Forbidden Knowledge**: Books too dangerous for unrestricted access
 - **The Living Texts**: Books that have achieved a form of sentience
 
@@ -187,6 +197,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Moral Testing**: Ethical challenges that determine worthiness for dangerous knowledge
 
 #### The Scholars' Quarters
+
 **Living Accommodations**: Where current residents and long-term visitors stay:
 
 **The Residential Wings**: Comfortable apartments for scholars and researchers:
@@ -204,6 +215,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Level 4: The Tower Archives (500-1500 feet depth)
 
 #### The Spire Collections
+
 **Specialized Knowledge Centers**: Each of the six original towers maintains unique collections:
 
 **The Arcane Spire**: 
@@ -225,6 +237,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Agricultural Guides**: Farming, animal husbandry, and food production
 
 #### The Observatory Levels
+
 **The Astronomical Chambers**: Tower tops modified for underwater observation:
 
 **Current Usage**: Adapted for studying underwater phenomena rather than stars:
@@ -236,6 +249,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Level 5: The Surface Interface (0-500 feet depth)
 
 #### The Emergency Levels
+
 **Above-Water Sections**: Parts of towers that still break the ocean surface:
 
 **The Beacon Chamber**: A lighthouse-like structure that serves as navigation aid:
@@ -255,36 +269,38 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### The Living Scholars
 
 #### The Keeper's Circle
+
 **Current Library Leadership**: A council of dedicated scholars who coordinate operations:
 
-**[[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]]**: Chief Librarian and overall administrator
+**[[12_Research/D&D_References/Keeper Aquaeous Depth-Scholar]]**: Chief Librarian and overall administrator
 - **Background**: Former surface academic who adapted to underwater life
 - **Expertise**: Specializes in pre-Drowning history and cultural preservation
 - **Authority**: Makes decisions about access permissions and research priorities
 - **Residence**: Private chambers in the Grand Dome with extensive personal library
 
-**[[02_Worldbuilding/Lore/Archivist Coral-Mind Preserver]]**: Head of collections and cataloguing
+**[[12_Research/D&D_References/Archivist Coral-Mind Preserver]]**: Head of collections and cataloguing
 - **Species**: Sea elf with natural adaptation to underwater environment
 - **Role**: Manages organization and preservation of all library materials
 - **Innovation**: Developed new magical techniques for underwater book storage
 - **Projects**: Currently working on comprehensive catalog of entire collection
 
-**[[02_Worldbuilding/Lore/Research Director Current-Thought]]**: Coordinates active research projects
+**[[12_Research/D&D_References/Research Director Current-Thought]]**: Coordinates active research projects
 - **Background**: Former adventurer who settled into scholarly life
-- **Connections**: Maintains relationships with researchers throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Connections**: Maintains relationships with researchers throughout [[12_Research/D&D_References/Aquabyssos]]
 - **Services**: Matches researchers with appropriate resources and collaborators
 - **Expertise**: Specializes in practical applications of academic knowledge
 
 #### The Scholar Community
+
 **Resident Researchers**: 20+ individuals who have made the library their permanent home:
 
-**[[02_Worldbuilding/Lore/Sage Marina Deeptext]]**: Expert in magical theory and spell research
+**[[12_Research/D&D_References/Sage Marina Deeptext]]**: Expert in magical theory and spell research
 - **Specialty**: Develops new spells adapted for underwater environments
 - **Location**: Maintains laboratory in the Arcane Spire
 - **Services**: Teaches magic to qualified students and creates custom spells
 - **Research**: Currently investigating how the Drowning changed magical laws
 
-**[[02_Worldbuilding/Lore/Historian Kelp Chronicler]]**: Specialist in pre-Drowning civilizations
+**[[12_Research/D&D_References/Historian Kelp Chronicler]]**: Specialist in pre-Drowning civilizations
 - **Project**: Writing comprehensive history of the Great Drowning
 - **Sources**: Has access to eyewitness accounts and government documents
 - **Network**: Corresponding scholars throughout the underwater realm
@@ -292,11 +308,12 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **[[Engineer Pressure-Smith]]**: Studies ancient construction techniques
 - **Focus**: How pre-Drowning buildings were adapted for underwater use
-- **Practical Work**: Consults on construction projects throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Practical Work**: Consults on construction projects throughout [[12_Research/D&D_References/Aquabyssos]]
 - **Innovation**: Develops new building methods combining old and new techniques
 - **Teaching**: Trains architects and engineers in flood-resistant construction
 
 #### Visiting Researchers
+
 **Temporary Residents**: 15-30 scholars who stay for extended research periods:
 - **Government Officials**: Representatives seeking historical precedents
 - **Academic Delegations**: University groups conducting research projects
@@ -306,27 +323,29 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### The Undead Guardians
 
 #### The Eternal Librarians
+
 **Ghostly Staff**: Spirits of librarians who died during the Great Drowning but continue their work:
 
-**[[02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]]**: Guardian of the Restricted Collection
+**[[12_Research/D&D_References/Spectral Librarian Reverent Bookmark]]**: Guardian of the Restricted Collection
 - **Death**: Died trying to protect the most dangerous magical texts
 - **Current Role**: Tests visitors to determine if they can safely access forbidden knowledge
 - **Abilities**: Can phase through walls, read minds, and manipulate magical energy
 - **Personality**: Stern but fair, genuinely concerned with preventing magical catastrophes
 
-**[[02_Worldbuilding/Lore/Phantom Archivist Silent Catalogue]]**: Maintains the ghostly filing system
+**[[12_Research/D&D_References/Phantom Archivist Silent Catalogue]]**: Maintains the ghostly filing system
 - **Background**: Memorized the location of every book before dying
 - **Services**: Can locate any text in the library instantly
 - **Communication**: Speaks only through writing that appears in the air
 - **Limitation**: Cannot interact with physical objects but can guide living people
 
-**[[02_Worldbuilding/Lore/Wraith Curator Ancient-Wisdom]]**: Protects historical documents
+**[[12_Research/D&D_References/Wraith Curator Ancient-Wisdom]]**: Protects historical documents
 - **Obsession**: Preserving accurate historical records
 - **Behavior**: Becomes hostile when people attempt to alter or destroy historical texts
 - **Knowledge**: Remembers events that occurred before the Drowning
 - **Weakness**: Can be calmed by demonstrating respect for historical accuracy
 
 #### The Bound Guardians
+
 **Summoned Protectors**: Magical creatures bound to protect specific collections:
 
 **The Knowledge Dragons**: Three small dragons each guarding a tower:
@@ -343,6 +362,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### The Sea Creature Inhabitants
 
 #### The Kelp Forest Dwellers
+
 **Natural Guardians**: Sea creatures that have made the library complex their home:
 
 **The Sage Octopi**: Highly intelligent creatures that have learned to read:
@@ -368,6 +388,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Research Access
 
 #### Membership Levels
+
 **The Scribes' Covenant**: Formal organization governing library access:
 
 **Novice Researchers** (50 gp annual dues):
@@ -395,6 +416,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - Lifetime residence privileges if desired
 
 #### Research Services
+
 **Professional Support**: Comprehensive assistance for serious researchers:
 
 **Document Location**: Expert librarians help find relevant materials:
@@ -418,6 +440,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Specialized Collections
 
 #### The Magical Archives
+
 **Arcane Knowledge Repository**: Comprehensive magical education resources:
 
 **Spell Research**: Development of new magical techniques:
@@ -433,6 +456,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Safety Protocols**: Proper handling of dangerous or unstable magical items
 
 #### The Historical Collections
+
 **Comprehensive Historical Record**: Pre- and post-Drowning documentation:
 
 **Government Archives**: Official records from historical civilizations:
@@ -448,6 +472,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Family Histories**: Genealogies and personal family records
 
 #### The Technical Archives
+
 **Practical Knowledge Repository**: Engineering, crafts, and applied sciences:
 
 **Construction Techniques**: Building and engineering knowledge:
@@ -467,6 +492,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Water-Related Dangers
 
 #### Pressure Hazards
+
 **Depth-Related Risks**: The library's extreme depth creates multiple challenges:
 
 **Decompression Sickness**: Rapid depth changes can be fatal:
@@ -482,6 +508,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Access Limitation**: Some areas require magical assistance to survive
 
 #### Flooding Risks
+
 **Water Level Changes**: Tidal and magical effects alter accessible areas:
 
 **Tidal Cycles**: Regular patterns of flooding and drainage:
@@ -499,6 +526,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Magical Hazards
 
 #### Unstable Enchantments
+
 **Degraded Magical Systems**: Ancient magic creates unpredictable effects:
 
 **Ward Failures**: Protective spells may malfunction:
@@ -514,6 +542,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Consciousness Effects**: Minds may be affected by ambient magical energy
 
 #### Cursed Materials
+
 **Dangerous Knowledge**: Some texts and artifacts carry supernatural hazards:
 
 **Cursed Books**: Texts that harm those who read them:
@@ -531,6 +560,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Structural Dangers
 
 #### Building Instability
+
 **Architectural Hazards**: The flooded structure presents multiple safety risks:
 
 **Structural Damage**: Water damage has weakened building integrity:
@@ -550,6 +580,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Knowledge Quests (Levels 6-10)
 
 #### The Lost Prophecy
+
 **Background**: Ancient predictions about the Great Drowning may contain information about future catastrophes
 **Challenge**: The prophecy is scattered across multiple texts hidden in different sections
 **Obstacles**: Some texts are in areas controlled by hostile guardians
@@ -557,11 +588,12 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Revelation**: The prophecy suggests the Drowning was intentionally caused
 
 **Key Locations**: The Sealed Prophecy Vaults, Guardian Dragon lairs, Ghostly archivist territories
-**Important NPCs**: [[02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]], [[02_Worldbuilding/Lore/Sage Marina Deeptext]], [[02_Worldbuilding/Lore/The Scholar of Eight Arms]]
+**Important NPCs**: [[12_Research/D&D_References/Spectral Librarian Reverent Bookmark]], [[12_Research/D&D_References/Sage Marina Deeptext]], [[12_Research/D&D_References/The Scholar of Eight Arms]]
 **Rewards**: Knowledge of future threats, historical insights, potentially world-changing information
 
 #### The Emperor's Secret Collection
-**Hook**: [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]] hid his personal magical research somewhere in the library
+
+**Hook**: [[12_Research/D&D_References/Scholar Emperor Thalassius the Wise]] hid his personal magical research somewhere in the library
 **Mystery**: The collection's location is protected by a complex series of riddles and tests
 **Danger**: The Emperor's experiments may have been too dangerous to survive
 **Politics**: Multiple factions want access to the Emperor's magical innovations
@@ -570,6 +602,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Rescue Missions (Levels 4-8)
 
 #### The Trapped Scholars
+
 **Crisis**: A section of the library has flooded unexpectedly, trapping researchers
 **Time Pressure**: Victims have limited air supply and medical needs
 **Obstacles**: Navigating flooded passages while carrying unconscious people
@@ -577,7 +610,8 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Resolution**: Successful rescue improves party reputation with scholarly community
 
 #### The Missing Expedition
-**Background**: Academic delegation from [[02_Worldbuilding/Places/New Tethys]] has disappeared in the library
+
+**Background**: Academic delegation from [[12_Research/D&D_References/New Tethys]] has disappeared in the library
 **Investigation**: Trail leads to dangerous areas controlled by hostile guardians
 **Discovery**: Expedition triggered ancient security systems and is held prisoner
 **Negotiation**: Guardians may release prisoners in exchange for specific services
@@ -586,6 +620,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Exploration Adventures (Levels 8-12)
 
 #### The Sealed Chambers
+
 **Opportunity**: Previously inaccessible areas of the library have become reachable
 **Challenge**: Disabling complex magical locks without destroying contents
 **Danger**: Ancient traps and guardians protect the most sensitive materials
@@ -593,6 +628,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Consequences**: Knowledge gained may attract attention from powerful entities
 
 #### The Deep Vaults
+
 **Location**: Deepest levels of the library complex, never fully explored
 **Environment**: Extreme pressure, magical anomalies, and hostile creatures
 **Objective**: Recover specific artifacts or information from the deepest archives
@@ -602,13 +638,15 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Political Intrigue (Levels 10-15)
 
 #### The Knowledge War
+
 **Conflict**: Different factions seek to control access to the library's resources
 **Sides**: Government agencies, academic institutions, criminal organizations
 **Stakes**: Control of historical records that could legitimize political claims
 **Party Role**: Choose sides or attempt to maintain library neutrality
-**Resolution**: Outcome affects scholarly freedom throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Resolution**: Outcome affects scholarly freedom throughout [[12_Research/D&D_References/Aquabyssos]]
 
 #### The Censorship Crisis
+
 **Issue**: Authorities demand removal of certain historical records
 **Resistance**: Librarians refuse to destroy or hide important documents
 **Escalation**: Government threatens to shut down library operations
@@ -618,6 +656,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Supernatural Encounters (Levels 6-14)
 
 #### The Awakening Archives
+
 **Phenomenon**: Some books in the library are becoming sentient
 **Investigation**: Determining cause of spontaneous consciousness emergence
 **Communication**: Attempting to negotiate with living texts
@@ -625,6 +664,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Resolution**: Finding ways to coexist with conscious knowledge
 
 #### The Spectral Scholars
+
 **Event**: Ghost librarians are becoming more active and visible
 **Mystery**: Understanding what has changed to increase spectral activity
 **Interaction**: Communicating with spirits who have valuable knowledge
@@ -634,13 +674,15 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Research-Based Adventures (Levels 5-12)
 
 #### The Academic Conference
-**Event**: Scholars from across [[02_Worldbuilding/Places/Aquabyssos]] gather for major conference
+
+**Event**: Scholars from across [[12_Research/D&D_References/Aquabyssos]] gather for major conference
 **Organization**: Party helps coordinate complex logistics and security
 **Politics**: Different academic and political factions create tension
 **Crisis**: Sabotage attempts or attacks on prominent scholars
 **Networking**: Opportunities to form alliances and gather information
 
 #### The Collaborative Project
+
 **Goal**: Multiple research institutions cooperate on major historical study
 **Coordination**: Managing complex logistics and conflicting methodologies
 **Discovery**: Research uncovers information with major political implications
@@ -652,27 +694,29 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Academic Relationships
 
 #### Partner Institutions
-**Allied Organizations**: Other scholarly groups throughout [[02_Worldbuilding/Places/Aquabyssos]]:
 
-**[[02_Worldbuilding/Lore/The Scribes' Covenant]]**: Professional organization for librarians and archivists
+**Allied Organizations**: Other scholarly groups throughout [[12_Research/D&D_References/Aquabyssos]]:
+
+**[[12_Research/D&D_References/The Scribes' Covenant]]**: Professional organization for librarians and archivists
 - **Membership**: Many library staff belong to this organization
 - **Services**: Professional development, resource sharing, standardized practices
 - **Advocacy**: Political representation for scholarly interests
 - **Networking**: Connections between libraries and archives throughout the realm
 
-**[[02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]**: Religious organization dedicated to protecting information
+**[[12_Research/D&D_References/Order of Preserved Knowledge]]**: Religious organization dedicated to protecting information
 - **Philosophy**: Believes knowledge preservation is sacred duty
 - **Cooperation**: Provides funding and personnel for important projects
 - **Protection**: Offers security services for threatened collections
 - **Ritual Services**: Blessing ceremonies for new acquisitions and major projects
 
-**[[02_Worldbuilding/Lore/University of Depth Studies]]**: Major academic institution in [[02_Worldbuilding/Places/New Tethys]]
+**[[12_Research/D&D_References/University of Depth Studies]]**: Major academic institution in [[12_Research/D&D_References/New Tethys]]
 - **Student Exchange**: Advanced students study at the library
 - **Faculty Collaboration**: Joint research projects and publication efforts
 - **Resource Sharing**: Interlibrary loan and document exchange programs
 - **Funding**: Financial support for library operations and expansions
 
 #### Research Networks
+
 **Scholarly Connections**: Individual relationships that facilitate knowledge sharing:
 
 **The Correspondence Circle**: Informal network of researchers who exchange letters
@@ -684,9 +728,10 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Political Connections
 
 #### Government Relations
+
 **Official Status**: The library's relationship with various governmental entities:
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**: The central government of [[02_Worldbuilding/Places/Aquabyssos]]
+**[[12_Research/D&D_References/Parliament of Echoes]]**: The central government of [[12_Research/D&D_References/Aquabyssos]]
 - **Legal Status**: Official recognition as educational institution
 - **Funding**: Government grants for specific research projects
 - **Access Rights**: Parliamentary investigators have special library privileges
@@ -699,6 +744,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Economic Impact**: Recognition of library's contribution to local economy
 
 #### International Relationships
+
 **Inter-Realm Connections**: Relationships with surface world and other underwater realms:
 
 **Surface World Survivors**: Descendants of pre-Drowning civilizations
@@ -716,9 +762,10 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Commercial Relationships
 
 #### Economic Networks
+
 **Financial Connections**: The library's role in the broader economy:
 
-**[[02_Worldbuilding/Lore/The Merchant's Covenant]]**: Trading organization that values historical information
+**[[12_Research/D&D_References/The Merchant's Covenant]]**: Trading organization that values historical information
 - **Market Research**: Historical data helps predict economic trends
 - **Authentication Services**: Verification of artifact age and origin
 - **Investment Decisions**: Historical precedents inform business strategies
@@ -731,6 +778,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Revenue Sharing**: Financial arrangements for commercializing library resources
 
 #### Service Providers
+
 **Support Businesses**: Companies that provide essential services to the library:
 
 **Magical Equipment Suppliers**: Providers of specialized research tools
@@ -750,6 +798,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Using the Library as Adventure Hub
 
 #### Research-Driven Campaigns
+
 **Academic Adventures**: Campaigns focused on discovery and investigation:
 
 **Mystery Solving**: Using historical research to understand current problems
@@ -765,6 +814,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Personal History**: Family secrets and individual origins
 
 #### Multi-Level Storytelling
+
 **Layered Adventures**: Stories that work on multiple complexity levels:
 
 **Surface Level**: Straightforward research and exploration missions
@@ -775,6 +825,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Scaling for Different Party Levels
 
 #### Low Level (1-5): Library Orientation
+
 **Introduction**: Learning to navigate the library and its culture
 - **Simple Errands**: Delivering messages and retrieving common books
 - **Cultural Education**: Understanding underwater scholarly customs
@@ -782,6 +833,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Relationship Building**: Establishing connections with library staff
 
 #### Mid Level (6-10): Serious Research
+
 **Substantial Projects**: Taking on meaningful research challenges
 - **Historical Investigation**: Solving mysteries that require extensive research
 - **Magical Studies**: Learning new spells or magical techniques
@@ -789,6 +841,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Dangerous Exploration**: Accessing restricted or hazardous areas
 
 #### High Level (11-15): Major Discoveries
+
 **Significant Impact**: Research that changes understanding of the world
 - **World-Changing Knowledge**: Discoveries that affect entire civilizations
 - **Magical Innovation**: Developing new spells or magical techniques
@@ -796,6 +849,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Historical Revision**: Discoveries that change accepted historical narratives
 
 #### Epic Level (16-20): Transformative Research
+
 **Realm-Shaping Consequences**: Knowledge that fundamentally alters reality
 - **Reality Manipulation**: Information that allows changing the nature of existence
 - **Divine Knowledge**: Understanding the actions and motivations of gods
@@ -805,6 +859,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Roleplaying Opportunities
 
 #### Scholar Culture
+
 **Academic Environment**: Encouraging intellectual roleplay:
 
 **Debate and Discussion**: Scholarly arguments about interpretation and methodology
@@ -813,6 +868,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Intellectual Curiosity**: Pursuing knowledge for its own sake rather than material reward
 
 #### Moral Complexity
+
 **Ethical Dilemmas**: Complex questions about knowledge and power:
 
 **Information Ethics**: Whether certain knowledge should be preserved or destroyed
@@ -823,6 +879,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Environmental Storytelling
 
 #### Atmosphere Creation
+
 **Sensory Description**: Building immersive underwater scholarly environment:
 
 **Visual Elements**: Bioluminescent lighting, floating books, coral growth patterns
@@ -831,6 +888,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Emotional Atmosphere**: Wonder at preserved knowledge, tension from environmental dangers
 
 #### Symbolic Elements
+
 **Thematic Reinforcement**: Using environment to support story themes:
 
 **Preservation vs. Decay**: Contrast between protected and deteriorating materials
@@ -841,16 +899,16 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ---
 
 *"In the depths where knowledge sleeps, every book is a message in a bottle from a drowned world. Here, the past speaks to the present through words that survived when cities fell and civilizations ended."*  
-— [[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]], Chief Librarian
+— [[12_Research/D&D_References/Keeper Aquaeous Depth-Scholar]], Chief Librarian
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[12_Research/D&D_References/Discover Marina's Truth]]
+- [[12_Research/D&D_References/Aboleth Adjunct Yzz]]
+- [[12_Research/D&D_References/Abyssos Prime - Pressure Terminal]]
+- [[12_Research/D&D_References/Amnesia Gallery]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -872,6 +930,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

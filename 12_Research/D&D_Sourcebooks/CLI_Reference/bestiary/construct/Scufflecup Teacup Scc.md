@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-scufflecup-teacup-scc-scufflecup-teacup-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/scufflecup-teacup-scc|Scufflecup Teacup]]
+# [[scufflecup-teacup-scc|Scufflecup Teacup]]
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  
 
 Scufflecup is a game students created after finding a box of teacups in a nearby building's storage room. The students discovered that pouring hot tea into the cups animates them for 10 minutes and causes them to sprout little arms and legs.
@@ -50,8 +50,8 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "0"

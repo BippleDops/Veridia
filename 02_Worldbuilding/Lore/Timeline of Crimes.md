@@ -7,6 +7,7 @@ scope: Multiversal - tracking conspiracy development across both worlds and time
 status: complete
 system_type: Chronological Investigation Framework
 tags:
+- shadow-touched
 - access/secret
 - both worlds
 - chronological-crimes
@@ -29,28 +30,25 @@ world: Both Worlds
 ---
 
 
-
-
-
-
-
 # Timeline of Crimes
+
 *Chronological Framework for Understanding Conspiracy Development Across History*
 
 > *"Crime is not a single moment of transgression - it is a pattern that extends across time, connecting past injustices to present conspiracies and future catastrophes. The Timeline of Crimes reveals that what we call 'history' is often nothing more than the winner's account of successful criminal enterprises, while the true patterns of conspiracy and corruption remain hidden beneath layers of official narrative and deliberate misdirection."*
-> — [[02_Worldbuilding/Places/Master Chronologist Temporal Truthkeeper]], "Patterns in Time: How Criminal Conspiracies Shape History"
+> — [[12_Research/D&D_References/Master Chronologist Temporal Truthkeeper]], "Patterns in Time: How Criminal Conspiracies Shape History"
 
 ## Overview
 
-The Timeline of Crimes serves as the comprehensive chronological framework for understanding how conspiracy activities have developed across the history of both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Unlike conventional historical timelines that focus on official events, political developments, and cultural achievements, this framework tracks the hidden patterns of criminal conspiracy, secret manipulation, and covert operations that have shaped the true course of events in both worlds.
+The Timeline of Crimes serves as the comprehensive chronological framework for understanding how conspiracy activities have developed across the history of both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]. Unlike conventional historical timelines that focus on official events, political developments, and cultural achievements, this framework tracks the hidden patterns of criminal conspiracy, secret manipulation, and covert operations that have shaped the true course of events in both worlds.
 
 This timeline recognizes that many supposedly independent historical events are actually connected elements of long-term conspiracy activities, with some criminal enterprises spanning centuries or millennia. By organizing these hidden activities chronologically, investigators can identify recurring patterns, understand how past crimes enable present conspiracies, and predict likely future criminal developments.
 
-The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [[02_Worldbuilding/Lore/The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the evidence patterns it created for future investigation.
+The framework encompasses everything from individual criminal acts to vast multi-generational conspiracies like [[12_Research/D&D_References/The Final Choice]], providing investigators with the temporal context needed to understand how current criminal activities fit within larger historical patterns. Each entry includes not only the criminal act itself, but also its connections to other conspiracy activities, its long-term consequences, and the evidence patterns it created for future investigation.
 
 ## Pre-History Period (Before -3000 BGC)
 
 ### The Primordial Crimes
+
 **Time Period: Unknown - Before Recorded History**
 
 The earliest criminal activities occurred during the establishment of the fundamental structures that would later enable organized conspiracy activities across both worlds.
@@ -70,10 +68,11 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Perpetrators**: Entity coalition seeking to control the development of mortal civilizations
 - **Description**: Systematic suppression of dangerous knowledge and manipulation of early cultural development to create populations vulnerable to later exploitation
 - **Evidence**: Consistent gaps in early historical records, similar missing knowledge across unconnected civilizations
-- **Connections**: Establishes the pattern of knowledge control used by later conspiracies like [[02_Worldbuilding/Lore/The Final Choice]]
+- **Connections**: Establishes the pattern of knowledge control used by later conspiracies like [[12_Research/D&D_References/The Final Choice]]
 - **Long-term Impact**: Creates the foundation for information-based conspiracy activities
 
 ### The Formation of Criminal Networks
+
 **Time Period: -3000 to -2000 BGC**
 
 **The Shadow Pacts**
@@ -82,15 +81,15 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Perpetrators**: Founding families of what would become major conspiracy bloodlines
 - **Description**: Secret agreements between influential families to share information, resources, and criminal opportunities across generations
 - **Evidence**: Recurring family names in unrelated criminal activities, similar criminal methods across different time periods
-- **Connections**: Direct predecessor to modern conspiracy networks like [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- **Connections**: Direct predecessor to modern conspiracy networks like [[12_Research/D&D_References/The Silverscale Conspiracy]]
 - **Long-term Impact**: Establishes the hereditary nature of major conspiracy participation
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Evidence Types Guide]]
+- [[12_Research/D&D_References/Silver Mask]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -116,6 +115,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

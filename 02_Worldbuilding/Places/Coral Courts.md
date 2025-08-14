@@ -14,31 +14,28 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-coral-courts-coral-courts.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-courts-coral-courts.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[12_Research/D&D_References/Queen Seraphina]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[02_Worldbuilding/Places/Angels and Depths]]
-- [[02_Worldbuilding/Places/Chef Gastropod]]
-- [[02_Worldbuilding/Places/Lumengarde]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Mothercoral Crisis]]
-- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[12_Research/D&D_References/Queen Seraphina]]
+- [[12_Research/D&D_References/Duke Cyrus Reefheart]]
+- [[12_Research/D&D_References/Angels and Depths]]
+- [[12_Research/D&D_References/Chef Gastropod]]
+- [[12_Research/D&D_References/Lumengarde]]
+- [[12_Research/D&D_References/New Tethys]]
+- [[12_Research/D&D_References/Port Meridian Harbor]]
+- [[12_Research/D&D_References/Tethyan Hegemony]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[12_Research/D&D_References/The Mothercoral Crisis]]
+- [[12_Research/D&D_References/The Royal Palace]]
 
 ## Player-Facing Summary
 

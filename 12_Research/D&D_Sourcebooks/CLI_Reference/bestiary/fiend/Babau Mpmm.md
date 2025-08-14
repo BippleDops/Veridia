@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-babau-mpmm-babau-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/babau-mpmm|Babau]]
+# [[babau-mpmm|Babau]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -60,14 +60,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal"
 "cr": "4"
@@ -86,9 +86,9 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-      \ [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
-      \ [[/03_Mechanics/CLI/spells/fear-xphb|fear]], [[/03_Mechanics/CLI/spells/heat-metal-xphb|heat metal]],\
-      \ [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]]"
+      \ [[darkness-xphb|darkness]], [[dispel-magic-xphb|dispel magic]],\
+      \ [[fear-xphb|fear]], [[heat-metal-xphb|heat metal]],\
+      \ [[levitate-xphb|levitate]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

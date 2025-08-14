@@ -21,10 +21,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg]]
 
 
 # Vault Maintenance Checklist
@@ -170,6 +167,6 @@ Legends speak of Vault Maintenance Checklist as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Maintenance Checklist]]
+- [[Vault Maintenance Checklist]]
 
 <!-- enriched: true -->

@@ -14,12 +14,8 @@ world: Universal
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]
 
 
 ## Overview
@@ -64,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Commander Gareth]]
+- [[Lord Commander Gareth]]
 
 <!-- enriched: true -->
 

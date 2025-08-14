@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-leviathan-prophet-thalassa-leviathan-prophet-thalassa.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-leviathan-prophet-thalassa-leviathan-prophet-thalassa.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Leviathan Prophet Thalassa]]
+- [[12_Research/D&D_References/Leviathan Prophet Thalassa]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[12_Research/D&D_References/Theological Warfare]]

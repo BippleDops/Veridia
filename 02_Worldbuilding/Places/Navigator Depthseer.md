@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-navigator-depthseer-navigator-depthseer.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-navigator-depthseer-navigator-depthseer.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Navigator Depthseer]]
+- [[12_Research/D&D_References/Navigator Depthseer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[12_Research/D&D_References/Current Riders Guild]]

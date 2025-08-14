@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,10 +41,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [[12_Research/D&D_References/Lady Vivienne the Unfrozen]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[12_Research/D&D_References/Lady Vivienne the Unfrozen]]
+- [[12_Research/D&D_References/Teacher Miranda Hopekeeper]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

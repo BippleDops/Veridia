@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-maritime-quarter-the-maritime-quarter.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-maritime-quarter-the-maritime-quarter.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]
 
 ## Player-Facing Summary
 

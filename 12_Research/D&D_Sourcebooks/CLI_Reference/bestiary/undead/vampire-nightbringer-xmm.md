@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-nightbringer-xmm-v1-vampire-nightbringer-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm|Vampire Nightbringer]]
+# [[vampire-nightbringer-xmm|Vampire Nightbringer]]
 *Source: Monster Manual (2024) p. 316*  
 
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
@@ -86,36 +86,36 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
   - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-      \ While in sunlight, it has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ While in sunlight, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks."
     "name": "Sunlight Hypersensitivity"
 "actions":
   - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
-      \ plus 10 (3d6) Necrotic damage. The target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ plus 10 (3d6) Necrotic damage. The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ vampire regains [[hit-points-xphb|Hit Points]]\
       \ equal to that amount."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\
       \ plus 14 (4d6) Cold damage."
     "name": "Shadow Strike"
 "bonus_actions":
-  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
-      \ or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the vampire\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the vampire\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

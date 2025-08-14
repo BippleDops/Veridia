@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydra-xmm-hydra-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/hydra-xmm|Hydra]]
+# [[hydra-xmm|Hydra]]
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hydra
@@ -75,11 +75,11 @@ While many hydras claim their own territories, wicked deities might use them to 
   - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"
@@ -91,11 +91,11 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ dead. At the end of each of its turns when it has at least one living head,\
       \ the hydra grows two heads for each of its heads that died since its last turn,\
       \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] when it grows\
+      \ [[hit-points-xphb|Hit Points]] when it grows\
       \ new heads."
     "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]]\
-      \ that can be used only for [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]."
+  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction-xphb|Reaction]]\
+      \ that can be used only for [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Reactive Heads"
 "actions":
   - "desc": "The hydra makes as many Bite attacks as it has heads."

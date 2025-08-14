@@ -21,7 +21,7 @@ world: Both
 
 
 # Samurai
-*[[./fighter-xphb|Fighter]]: Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 31*  
 
 > [!tldr] Class and Feature Progression
@@ -67,7 +67,7 @@ The Samurai is a fighter who draws on an implacable fighting spirit to overcome 
 
 ### Bonus Proficiency (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: [[/03_Mechanics/CLI/skills#History|History]], [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Performance|Performance]], or [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]. Alternatively, you learn one language of your choice.
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: [[skills#History|History]], [[skills#Insight|Insight]], [[skills#Performance|Performance]], or [[skills#Persuasion|Persuasion]]. Alternatively, you learn one language of your choice.
 
 ### Fighting Spirit (Level 3)
 
@@ -77,7 +77,7 @@ You can use this feature three times, and you regain all expended uses of it whe
 
 ### Elegant Courtier (Level 7)
 
-Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, you gain a bonus to the check equal to your Wisdom modifier.
+Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma ([[skills#Persuasion|Persuasion]]) check, you gain a bonus to the check equal to your Wisdom modifier.
 
 Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
 
@@ -87,11 +87,11 @@ Starting at 10th level, when you roll initiative and have no uses of Fighting Sp
 
 ### Rapid Strike (Level 15)
 
-Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
+Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the [[actions#Attack|Attack]] action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 
 ### Strength before Death (Level 18)
 
-Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]], and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] if you still have 0 hit points.
+Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [[conditions#Unconscious|unconscious]], and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall [[conditions#Unconscious|unconscious]] if you still have 0 hit points.
 
 Once you use this feature, you can't use it again until you finish a long rest.
 

@@ -37,7 +37,7 @@ world: Both
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [[/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb|Cylinders]], [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Spheres]].
+*Use this column for [[cylinder-area-of-effect-xphb|Cylinders]], [[emanation-area-of-effect-xphb|Emanations]] (using the size of the Emanation rather than its radius), and [[sphere-area-of-effect-xphb|Spheres]].
 
 ## Player-Facing Summary
 

@@ -30,25 +30,21 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 # Quest - The Root Network
 
-![[04_Resources/Assets/Art/NPCs/Quest_-_The_Root_Network.png|Quest - The Root Network Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/Quest_-_The_Root_Network.png|Quest - The Root Network Portrait]]
 
 ## Role and Motive
 Quest - The Root Network moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- Bond: A family archive tied to [[The Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
 - Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]].
-- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/The Whispering Expanse]] if negotiations sour.
+- Contingency: Keeps a sealed route toward [[The Whispering Expanse]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -61,13 +57,13 @@ Quest - The Root Network moves information and influence like currency. Publicly
 - Verdant Accord observer: -1 (ideological friction)
 
 ## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/The Whispering Expanse]].
+- Offers a map shard pointing toward [[The Lighthouse of Storms]].
+- Brokers a ceasefire to enable [[The Whispering Expanse]].
 - Sells a rumor naming [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] as the true buyer behind a recent theft.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[The Lighthouse of Storms]]
+- [[The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
@@ -93,9 +89,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/People/Archdruid Thornweaver]]
-- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
-- [[02_Worldbuilding/Places/The Crystalline Wastes]]
-- [[02_Worldbuilding/Places/The Synthesis Gardens]]
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[The Great Crystallization]]
+- [[Archdruid Thornweaver]]
+- [[Sorrow-Root Nightbloom]]
+- [[The Crystalline Wastes]]
+- [[The Synthesis Gardens]]
+- [[The Verdant Reach]]

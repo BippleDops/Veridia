@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-transformation-specialist-anemone-flowshift.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-transformation-specialist-anemone-flowshift.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Transformation Specialist Anemone Flowshift]]
+- [[12_Research/D&D_References/Transformation Specialist Anemone Flowshift]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[12_Research/D&D_References/Doctor Coral Shapeshift]]

@@ -15,27 +15,21 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg]]
 
 
 # Throne Room - Heart of Palace
 *Where Crown and Crystal Meet Divine Authority*
 
 > *"In this hallowed hall where sea-crystal meets sky-light, where ancient power flows through living stone, the crown speaks with voice of ages past and futures yet unborn. Here, mortal authority touches the divine, and every royal decree echoes with the weight of destiny."*
-> — [[02_Worldbuilding/Places/Court Herald Master Proclamation Crownvoice]], Keeper of Royal Ceremony
+> — [[Court Herald Master Proclamation Crownvoice]], Keeper of Royal Ceremony
 
 ## Overview
 
-The Throne Room serves as the magnificent centerpiece of [[02_Worldbuilding/Places/Aethermoor]]'s [[02_Worldbuilding/Places/Royal Palace]], a breathtaking ceremonial hall where the monarch conducts the most important affairs of state. This grand chamber represents the pinnacle of royal power and divine authority, combining architectural splendor with mystical elements that demonstrate the crown's connection to both earthly governance and supernatural legitimacy.
+The Throne Room serves as the magnificent centerpiece of [[Aethermoor]]'s [[Royal Palace]], a breathtaking ceremonial hall where the monarch conducts the most important affairs of state. This grand chamber represents the pinnacle of royal power and divine authority, combining architectural splendor with mystical elements that demonstrate the crown's connection to both earthly governance and supernatural legitimacy.
 
-Built around a naturally occurring convergence of ley lines that channel mystical energy from both surface and underwater realms, the throne room serves as a bridge between worlds and a focus point for the kingdom's magical and political power. The chamber hosts coronations, major diplomatic receptions, important legal judgments, and ceremonial events that shape the course of [[02_Worldbuilding/Places/Aethermoor]]'s history.
+Built around a naturally occurring convergence of ley lines that channel mystical energy from both surface and underwater realms, the throne room serves as a bridge between worlds and a focus point for the kingdom's magical and political power. The chamber hosts coronations, major diplomatic receptions, important legal judgments, and ceremonial events that shape the course of [[Aethermoor]]'s history.
 
 ## Atmospheric Description
 
@@ -82,7 +76,7 @@ Advanced magical systems that allow the throne room to serve as a command center
 ### Diplomatic Protocol Master Ambassador Formal Graceflow
 **Role**: Director of Court Diplomacy and International Relations Coordinator
 **Personality**: Sophisticated negotiator with expertise in international protocol and cultural sensitivity
-**Goals**: Advancing [[02_Worldbuilding/Places/Aethermoor]]'s interests while maintaining respectful relationships with other realms
+**Goals**: Advancing [[Aethermoor]]'s interests while maintaining respectful relationships with other realms
 
 ### Chief Court Recorder Scribe Chronicle Truthkeeper
 **Role**: Official Historian and Keeper of Royal Records
@@ -109,7 +103,7 @@ Someone attempts to steal or corrupt the magical foundations of royal authority,
 ## Secrets and Lore
 
 ### The Underwater Connection
-Hidden passages connect the throne room to underwater diplomatic channels, allowing secret communication and negotiation with [[02_Worldbuilding/Places/Aquabyssos]] representatives without public knowledge.
+Hidden passages connect the throne room to underwater diplomatic channels, allowing secret communication and negotiation with [[Aquabyssos]] representatives without public knowledge.
 
 ### The Divine Mandate Verification
 The throne room's mystical systems can verify the divine legitimacy of royal authority, but they also record every royal decision and could potentially be used to challenge or validate specific monarchs.
@@ -118,7 +112,7 @@ The throne room's mystical systems can verify the divine legitimacy of royal aut
 Secret protocols allow the throne room to serve as a crisis command center with enhanced magical and communication capabilities that transcend normal governmental limitations.
 
 ### The Shard Influence Monitoring
-Subtle magical systems monitor the throne room for signs of [[02_Worldbuilding/Places/Seven Shards]] corruption or influence, providing early warning of supernatural threats to royal authority.
+Subtle magical systems monitor the throne room for signs of [[Seven Shards]] corruption or influence, providing early warning of supernatural threats to royal authority.
 
 ### The Historical Memory Archive
 The throne room itself stores mystical records of every important decision made within its walls, creating a comprehensive historical archive that exists in both magical and political dimensions.
@@ -189,9 +183,9 @@ Permission to wear or use items associated with court ceremony.
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Royal Palace]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[The Royal Palace]]
+- [[Find the Grief Bomb]]
+- [[Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -213,8 +207,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+- [[Throne Room - Heart of Palace]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[Aethermoor]]
+- [[Royal Palace]]

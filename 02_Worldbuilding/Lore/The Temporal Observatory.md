@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,10 +40,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[12_Research/D&D_References/The Convergence Point]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Places/The Memory Storm Fields]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Memory Storm Fields]]

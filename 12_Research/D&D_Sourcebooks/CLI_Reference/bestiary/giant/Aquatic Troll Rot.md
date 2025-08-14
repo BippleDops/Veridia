@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/aquatic-troll-rot|Aquatic Troll]]
+# [[aquatic-troll-rot|Aquatic Troll]]
 *Source: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88*  
 
 ```statblock
@@ -49,14 +49,14 @@ world: Both
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "The troll has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+  - "desc": "The troll has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\

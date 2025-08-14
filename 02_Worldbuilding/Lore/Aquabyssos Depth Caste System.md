@@ -14,9 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 ## Cross-References
 
 - [[07_Player_Resources/Character_Options/Depth_Adapted_Background|07 Player Resources/Character Options/Depth Adapted Background]]
@@ -24,9 +21,9 @@ world: Aquabyssos
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -48,3 +45,7 @@ Legends speak of Aquabyssos Depth Caste System as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

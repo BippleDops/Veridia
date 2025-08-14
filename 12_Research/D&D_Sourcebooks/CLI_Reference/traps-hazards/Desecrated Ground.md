@@ -23,11 +23,11 @@ world: Both
 # Desecrated Ground
 *Wilderness Hazard*  
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|detect evil and good]] spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[detect-evil-and-good-xphb|detect evil and good]] spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [[/03_Mechanics/CLI/items/holy-water-xphb|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[/03_Mechanics/CLI/spells/hallow-xphb|hallow]] spell purifies desecrated ground within its area.
+A vial of [[holy-water-xphb|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[hallow-xphb|hallow]] spell purifies desecrated ground within its area.
 
 *Source: Dungeon Master's Guide p. 110*
 

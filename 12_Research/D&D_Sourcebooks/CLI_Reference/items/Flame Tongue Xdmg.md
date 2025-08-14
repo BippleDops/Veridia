@@ -54,7 +54,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/flame-tongue.webp#right)
 
 
-While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 40-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 40 feet. While the weapon is ablaze, it deals an extra `2d6` Fire damage on a hit. The flames last until you take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to issue the command again or until you drop, stow, or sheathe the weapon.
+While holding this magic weapon, you can take a [[bonus-action-xphb|Bonus Action]] and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [[bright-light-xphb|Bright Light]] in a 40-foot radius and [[dim-light-xphb|Dim Light]] for an additional 40 feet. While the weapon is ablaze, it deals an extra `2d6` Fire damage on a hit. The flames last until you take a [[bonus-action-xphb|Bonus Action]] to issue the command again or until you drop, stow, or sheathe the weapon.
 
 **Variants**:
 - [Flame Tongue Battleaxe](#Flame%20Tongue%20Battleaxe)
@@ -91,20 +91,20 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Flame Tongue Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Flame Tongue Flail
@@ -115,58 +115,58 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 ### Flame Tongue Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Flame Tongue Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Flame Tongue Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Flame Tongue Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Flame Tongue Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Flame Tongue Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Flame Tongue Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Longsword
@@ -174,7 +174,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Flame Tongue Mace
@@ -185,7 +185,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 ### Flame Tongue Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Flame Tongue Morningstar
@@ -196,7 +196,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 ### Flame Tongue Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Flame Tongue Quarterstaff
@@ -204,31 +204,31 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Flame Tongue Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Flame Tongue Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Spear
@@ -237,7 +237,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Flame Tongue Trident
@@ -246,7 +246,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Flame Tongue War Pick
@@ -254,7 +254,7 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Flame Tongue Warhammer
@@ -262,13 +262,13 @@ While holding this magic weapon, you can take a [[/03_Mechanics/CLI/variant-rule
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Flame Tongue Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 

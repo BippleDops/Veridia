@@ -16,7 +16,6 @@ world: Both Worlds
 ---
 
 
-
 ## Overview
 
 The **Cross-Dimensional Transit Authority** (CDTA) serves as the primary hub for regulated travel between Aquabyssos and Aethermoor. This massive facility combines cutting-edge reality-manipulation technology with strict security protocols to ensure safe passage while preventing unauthorized crossings and dimensional contamination.
@@ -288,11 +287,11 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Point Settlement]]
+- [[Pressure Point Settlement]]
 - [[Inter-Realm Diplomatic Corps]]
 - [[Guild of Cross-Realm Navigators]]
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
-- [[02_Worldbuilding/Lore/Cross-Realm Conspiracy Networks]]
+- [[Reality Anchor Network]]
+- [[Cross-Realm Conspiracy Networks]]
 - [[Inter-Realm Trade Routes]]
 
 ## Player-Facing Summary
@@ -305,6 +304,6 @@ Legends speak of Cross Dimensional Transit Authority as a nexus where past and p
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[Cross-Dimensional Transit Authority]]
 
 <!-- enriched: true -->

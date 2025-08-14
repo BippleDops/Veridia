@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter]]
 
 ## Player-Facing Summary
 

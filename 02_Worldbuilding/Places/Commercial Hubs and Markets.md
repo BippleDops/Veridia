@@ -27,7 +27,7 @@ world: Both
 > *"Every coin has two sides, every market has two faces. The wise merchant learns to profit from both."* - Market Proverb
 
 ## Overview
-The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] serve as the vital organs of inter-realm commerce, where fortunes are made and lost, where cultures blend and clash, and where the invisible hands of [[02_Worldbuilding/Groups/Major Trading Companies]] shape the destiny of nations through careful manipulation of supply and demand.
+The commercial hubs and markets of [[Aethermoor]] and [[Aquabyssos]] serve as the vital organs of inter-realm commerce, where fortunes are made and lost, where cultures blend and clash, and where the invisible hands of [[Major Trading Companies]] shape the destiny of nations through careful manipulation of supply and demand.
 
 ## Surface Realm Commercial Centers
 
@@ -54,7 +54,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 - **The Archive Vault**: Secure storage for contracts, deeds, and financial documents
 
 **Key Personnel**:
-- **Exchange Director**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]] (Chairman of the Board)
+- **Exchange Director**: [[Lord Aurelius Goldwave]] (Chairman of the Board)
 - **Chief Crystal Assessor**: Master [[Prism Truthweight]]
 - **Currency Control Manager**: [[Financial Officer Golden Calculations]]
 - **Security Chief**: [[Captain Sterling Coinguard]]
@@ -68,7 +68,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 **Market Sections**:
 - **Crystal Row**: 50+ vendors specializing in magical crystals and components
-- **Textile Quarter**: Finest fabrics from [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]'s network
+- **Textile Quarter**: Finest fabrics from [[Lady Venetia Silkwind]]'s network
 - **Spice Gardens**: Aromatic maze of culinary and magical ingredients
 - **The Curiosity Corners**: Unusual items, antiques, and mysterious artifacts
 - **Deep Goods District**: Underwater-realm products and pressure-forged items
@@ -106,7 +106,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 #### The Crystal Stock Exchange
 **Location**: Central Palace District, beneath the Crystal Throne
 **Function**: Official government-sanctioned crystal trading
-**Regulation**: Heavily controlled by the Crown and [[02_Worldbuilding/People/Crystal Wardens]]
+**Regulation**: Heavily controlled by the Crown and [[Crystal Wardens]]
 **Specialization**: High-grade magical crystals and government contracts
 
 **Trading Categories**:
@@ -169,7 +169,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 #### The Flowing Market
 **Location**: Central Current District, built around natural oceanic flows
-**Innovation**: [[02_Worldbuilding/People/The Current Merchants]]' revolutionary current-riding commerce
+**Innovation**: [[The Current Merchants]]' revolutionary current-riding commerce
 **Architecture**: Structures that move and adapt to oceanic currents
 **Atmosphere**: Constant motion and change, reflecting the nature of water itself
 
@@ -189,7 +189,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 
 #### The Deep Vault Financial District
 **Location**: Secured depths beneath the main city
-**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Controller**: [[Banker Titus Goldcurrent]]
 **Security**: Pressure-sealed vaults and magical protections
 **Function**: Cross-realm banking and currency manipulation
 
@@ -277,7 +277,7 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 - **Emergency Response Centers**: Medical and safety services for both environments
 
 ### Shadow Market Networks
-**Controller**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+**Controller**: [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 **Location**: Hidden throughout both realms
 **Function**: Illegal commerce and contraband trading
 **Access**: Criminal connections and underworld contacts required
@@ -507,21 +507,21 @@ The commercial hubs and markets of [[02_Worldbuilding/Places/Aethermoor]] and [[
 **Counter-Intelligence**: Opposition efforts to prevent information gathering
 
 ## Connected NPCs and Systems
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Central figure in surface commercial networks
-- [[02_Worldbuilding/People/The Current Merchants]] - Deep-sea commercial innovation leader
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial system controller
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Surface commercial coordination council
-- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal commercial operations
-- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]] - Luxury goods specialist
-- [[02_Worldbuilding/Groups/Master Chen Wei]] - Cultural and exotic goods expert
+- [[Lord Aurelius Goldwave]] - Central figure in surface commercial networks
+- [[The Current Merchants]] - Deep-sea commercial innovation leader
+- [[Banker Titus Goldcurrent]] - Financial system controller
+- [[Merchant Princes]] - Surface commercial coordination council
+- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal commercial operations
+- [[Lady Venetia Silkwind]] - Luxury goods specialist
+- [[Master Chen Wei]] - Cultural and exotic goods expert
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks connecting markets
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Financial frameworks supporting commerce
-- [[02_Worldbuilding/Groups/Major Trading Companies]] - Corporate entities controlling commerce
-- [[02_Worldbuilding/Lore/Economic Warfare and Trade Sanctions]] - Conflicts affecting market operations
+- [[The Grand Trade Routes]] - Transportation networks connecting markets
+- [[Economic Systems and Currency]] - Financial frameworks supporting commerce
+- [[Major Trading Companies]] - Corporate entities controlling commerce
+- [[Economic Warfare and Trade Sanctions]] - Conflicts affecting market operations
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical framework for dynamic commerce
-- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for economic conflict simulation
+- [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for economic conflict simulation
 
 ## Player-Facing Summary
 

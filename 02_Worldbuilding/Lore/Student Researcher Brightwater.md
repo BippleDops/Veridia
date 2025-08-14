@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]
 
 ## Player-Facing Summary
 

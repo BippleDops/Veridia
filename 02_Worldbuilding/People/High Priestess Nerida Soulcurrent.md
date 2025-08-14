@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-nerida-soulcurrent-high-priestess-nerida-soulcurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-nerida-soulcurrent-high-priestess-nerida-soulcurrent.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Nerida Soulcurrent]]
+- [[High Priestess Nerida Soulcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[Temple Ward]]

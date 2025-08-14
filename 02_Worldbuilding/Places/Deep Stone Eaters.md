@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-stone-eaters-deep-stone-eaters.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deep-stone-eaters-deep-stone-eaters.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Stone Eaters]]
+- [[Deep Stone Eaters]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[The Foundation Depths]]

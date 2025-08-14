@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[12_Research/D&D_References/Teacher Miranda Hopekeeper]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[12_Research/D&D_References/Teacher Miranda Hopekeeper]]
 
 ## Player-Facing Summary
 

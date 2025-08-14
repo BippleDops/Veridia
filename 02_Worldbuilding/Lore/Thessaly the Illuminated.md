@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[12_Research/D&D_Statblocks/Luminous Hollow]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[12_Research/D&D_Statblocks/Luminous Hollow]]
 
 ## Player-Facing Summary
 

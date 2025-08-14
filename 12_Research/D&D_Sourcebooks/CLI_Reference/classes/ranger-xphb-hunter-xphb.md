@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Hunter
-*[[./ranger-xphb|Ranger]]: Ranger Subclass*  
+*[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -63,11 +63,11 @@ You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to p
 
 ### Hunter's Prey (Level 3)
 
-You gain one of the following feature options of your choice. Whenever you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]], you can replace the chosen option with the other one.
 
 #### Colossus Slayer
 
-Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `d8` damage to the target if it's missing any of its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. You can deal this extra damage only once per turn.
+Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `d8` damage to the target if it's missing any of its [[hit-points-xphb|Hit Points]]. You can deal this extra damage only once per turn.
 
 #### Horde Breaker
 
@@ -79,15 +79,15 @@ You can call on the forces of nature to reveal certain strengths and weaknesses 
 
 ### Defensive Tactics (Level 7)
 
-You gain one of the following feature options of your choice. Whenever you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]], you can replace the chosen option with the other one.
 
 #### Escape the Horde
 
-[[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]] have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] against you.
+[[actions#Opportunity%20Attack|Opportunity Attacks]] have [[disadvantage-xphb|Disadvantage]] against you.
 
 #### Multiattack Defense
 
-When a creature hits you with an attack roll, that creature has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on all other attack rolls against you this turn.
+When a creature hits you with an attack roll, that creature has [[disadvantage-xphb|Disadvantage]] on all other attack rolls against you this turn.
 
 ### Superior Hunter's Prey (Level 11)
 
@@ -95,7 +95,7 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 
 ### Superior Hunter's Defense (Level 15)
 
-When you take damage, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to give yourself [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to that damage and any other damage of the same type until the end of the current turn.
+When you take damage, you can take a [[reaction-xphb|Reaction]] to give yourself [[resistance-xphb|Resistance]] to that damage and any other damage of the same type until the end of the current turn.
 
 ## Player-Facing Summary
 

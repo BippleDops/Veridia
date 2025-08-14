@@ -14,12 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-merchant-s-covenant.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-merchant-s-covenant.svg]]
 
 
 # Merchant's Covenant
@@ -27,16 +23,16 @@ world: Both
 
 ## Organization Overview
 
-The Merchant's Covenant represents a revolutionary fusion of commerce and scholarship unique to the depths of [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Founded by drowned traders and scholars who recognized that information had become more valuable than gold in the transformed world, the Covenant operates as both a merchant consortium and an academic institution.
+The Merchant's Covenant represents a revolutionary fusion of commerce and scholarship unique to the depths of [[Aquabyssos World Overview]]. Founded by drowned traders and scholars who recognized that information had become more valuable than gold in the transformed world, the Covenant operates as both a merchant consortium and an academic institution.
 
 Unlike surface merchants who deal in physical goods, the Covenant trades primarily in **Knowledge, Memory, and Experience** - the three currencies of the deep. They maintain the largest mobile library in Aquabyssos aboard their flagship **The Repository Barge**, and their merchant-scholars are respected throughout the depths as both shrewd negotiators and learned researchers.
 
-The Covenant emerged from the practical need to catalog and preserve the overwhelming changes brought by the [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. As traditional trade goods became useless underwater, enterprising merchants pivoted to trading in navigational knowledge, transformation techniques, survival methods, and preserved pre-Drowning information.
+The Covenant emerged from the practical need to catalog and preserve the overwhelming changes brought by the [[Aquabyssos World Overview]]. As traditional trade goods became useless underwater, enterprising merchants pivoted to trading in navigational knowledge, transformation techniques, survival methods, and preserved pre-Drowning information.
 
 ## History and Foundation
 
 ### The Great Cataloguing (420 years post-Drowning)
-In the chaos following the establishment of the [[02_Worldbuilding/Lore/Aquabyssos World Overview]], a consortium of twelve merchant houses united under the leadership of **Master Ledger Tidewell the Rememberer**. These houses had each specialized in preserving different types of knowledge: trade routes, cultural practices, technological methods, magical techniques, historical records, and survival strategies.
+In the chaos following the establishment of the [[Aquabyssos World Overview]], a consortium of twelve merchant houses united under the leadership of **Master Ledger Tidewell the Rememberer**. These houses had each specialized in preserving different types of knowledge: trade routes, cultural practices, technological methods, magical techniques, historical records, and survival strategies.
 
 ### The First Repository (415 years post-Drowning)
 The Covenant commissioned the construction of **The Repository Barge**, a massive floating library-warehouse that could travel safely between all three depth levels. Using salvaged materials from drowned universities and merchant guilds, they created the first mobile center of learning in the post-Drowning world.
@@ -170,11 +166,11 @@ The Covenant actively funds research into new techniques, technologies, and magi
 
 ### Valued Clients
 
-#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+#### [[Order of the Drowned Star|Order of the Drowned Star]]
 **Relationship**: Scholarly Partnership
 The Covenant provides historical and astronomical knowledge to the Order, while receiving navigation data and star-charts. Both organizations value knowledge preservation and maintain close scholarly cooperation.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Official Consultants
 The Covenant serves as information consultants to the government, providing intelligence reports, cultural analysis, and policy recommendations. They maintain careful political neutrality while serving state interests.
 
@@ -184,21 +180,21 @@ The Covenant partners with individual scholars throughout Aquabyssos, providing 
 
 ### Complex Relationships
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Cautious Commerce
 While philosophically opposed to the Deep Dreamers' goals, the Covenant trades with them for unique Hadean Depth knowledge. They're careful not to provide information that could accelerate dangerous transformations.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Necessary Neutrality
 The Resurgent Tide distrusts the Covenant's surface contacts but needs their services for intelligence and logistics. The Covenant maintains strict confidentiality to preserve this difficult relationship.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Sympathetic Support
 Many Covenant members are personally sympathetic to the Surface Seekers' goals, and they provide significant research support for transformation reversal studies, while maintaining public neutrality.
 
 ### Challenging Relationships
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Dangerous Clients
 The Void Touched pay extremely well for Hadean Depth intelligence, but their transformations make them increasingly difficult to understand and trust. Some Covenant members fear they're enabling dangerous experiments.
 
@@ -242,7 +238,7 @@ The Covenant maintains trading posts at every major depth boundary:
 
 2. **The Knowledge Heist**: Corporate espionage against the Covenant's Sealed Vaults. Investigate the breach and recover stolen information before it destabilizes multiple factions.
 
-3. **The Deep Research**: The Covenant is funding a dangerous research expedition into the [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Serve as guards and advisors for the scholar-traders involved.
+3. **The Deep Research**: The Covenant is funding a dangerous research expedition into the [[Aquabyssos World Overview]]. Serve as guards and advisors for the scholar-traders involved.
 
 ### For Neutral Parties
 4. **The Information War**: Two factions are paying the Covenant for intelligence about each other. Help navigate the ethical and practical complexities of this situation.
@@ -272,7 +268,7 @@ The Covenant sits at the center of complex intelligence networks that would riva
 
 #### Triple Agent Networks
 - **[[02_Worldbuilding/Personnel/The Deep Listeners|02 Worldbuilding/Personnel/The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
-- **[[02_Worldbuilding/Personnel/Memory Merchants|02 Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
+- **[[Memory Merchants|02 Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
 - **[[02_Worldbuilding/Personnel/Cultural Bridges|02 Worldbuilding/Personnel/Cultural Bridges]]**: Operatives maintaining relations with surface world governments
 - **[[02_Worldbuilding/Personnel/Truth Weavers|02 Worldbuilding/Personnel/Truth Weavers]]**: Specialists in creating believable false intelligence
 - **[[02_Worldbuilding/Personnel/Loyalty Monitors|02 Worldbuilding/Personnel/Loyalty Monitors]]**: Internal security tracking member allegiances
@@ -414,7 +410,7 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 #### Influence Operations
 - **[[02_Worldbuilding/Operations/Leadership Profiling|02 Worldbuilding/Operations/Leadership Profiling]]**: Detailed psychological analysis of decision-makers
 - **[[02_Worldbuilding/Operations/Succession Planning|02 Worldbuilding/Operations/Succession Planning]]**: Subtle influence on leadership transitions
-- **[[02_Worldbuilding/Operations/Crisis Management|02 Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
+- **[[Crisis Management|02 Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
 - **[[02_Worldbuilding/Operations/Alliance Facilitation|02 Worldbuilding/Operations/Alliance Facilitation]]**: Encouraging beneficial political partnerships
 - **[[02_Worldbuilding/Operations/Opposition Research|02 Worldbuilding/Operations/Opposition Research]]**: Intelligence gathering on political rivals
 
@@ -461,46 +457,46 @@ The Covenant has negotiated quasi-governmental status with major depth authoriti
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]] - Academic partners
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - Cautious clients
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - Government consultants
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - Sympathetic support
-- [[02_Worldbuilding/Groups/Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
-- [[02_Worldbuilding/Groups/The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]] - Information about non-existent citizens
+- [[Order of the Drowned Star|Order of the Drowned Star]] - Academic partners
+- [[Aquabyssos World Overview]] - Cautious clients
+- [[Aquabyssos World Overview]] - Government consultants
+- [[Aquabyssos World Overview]] - Sympathetic support
+- [[Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
+- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]] - Information about non-existent citizens
 
 **Key Locations**:
-- [[02_Worldbuilding/Groups/The Repository Barge]] - Mobile headquarters and primary library
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - Operational environment
+- [[The Repository Barge]] - Mobile headquarters and primary library
+- [[Aquabyssos World Overview]] - Operational environment
 - [[Depth Transition Posts]] - Strategic trading locations
-- [[02_Worldbuilding/Places/The Memory Palace]] - Specialized consciousness research facility
-- [[02_Worldbuilding/Groups/The Neutral Current]] - Diplomatic vessel
-- [[02_Worldbuilding/Groups/Information Exchanges]] - Trading posts at major settlements
+- [[The Memory Palace]] - Specialized consciousness research facility
+- [[The Neutral Current]] - Diplomatic vessel
+- [[Information Exchanges]] - Trading posts at major settlements
 
 **Historical Events**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - Foundational catastrophe
-- [[02_Worldbuilding/Groups/The Memory Wars]] - Period establishing Covenant neutrality
-- [[02_Worldbuilding/Groups/The Deep Expansion]] - Territorial and operational growth
-- [[02_Worldbuilding/Groups/The Great Cataloguing]] - Organizational founding
-- [[02_Worldbuilding/Groups/The Succession Crisis]] - Current leadership transition
+- [[Aquabyssos World Overview]] - Foundational catastrophe
+- [[The Memory Wars]] - Period establishing Covenant neutrality
+- [[The Deep Expansion]] - Territorial and operational growth
+- [[The Great Cataloguing]] - Organizational founding
+- [[The Succession Crisis]] - Current leadership transition
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Groups/Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
-- [[02_Worldbuilding/Groups/Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
-- [[02_Worldbuilding/Places/Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
-- [[02_Worldbuilding/Places/Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
-- [[02_Worldbuilding/Groups/Information Broker Whisper Goldtongu]] - Intelligence operations chief
-- [[02_Worldbuilding/Groups/Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
+- [[Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
+- [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
+- [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
+- [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
+- [[Information Broker Whisper Goldtongu]] - Intelligence operations chief
+- [[Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
 - [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
 
 **Knowledge Categories**:
-- [[02_Worldbuilding/Groups/Navigation & Geography]] - Physical world information
-- [[02_Worldbuilding/Groups/Transformation Techniques]] - Biological and psychological adaptation
+- [[Navigation & Geography]] - Physical world information
+- [[Transformation Techniques]] - Biological and psychological adaptation
 - [[Pre-Drowning History]] - Ancient world records and cultural preservation
-- [[02_Worldbuilding/Groups/Faction Intelligence]] - Contemporary political and military information
-- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Practices]] - Social customs and behavioral analysis
-- [[02_Worldbuilding/Groups/Economic Intelligence]] - Market analysis and financial forecasting
-- [[02_Worldbuilding/Groups/Military Intelligence]] - Strategic and tactical information
-- [[02_Worldbuilding/Groups/Diplomatic Intelligence]] - Political relationships and negotiation data
+- [[Faction Intelligence]] - Contemporary political and military information
+- [[Cultural Practices]] - Social customs and behavioral analysis
+- [[Economic Intelligence]] - Market analysis and financial forecasting
+- [[Military Intelligence]] - Strategic and tactical information
+- [[Diplomatic Intelligence]] - Political relationships and negotiation data
 
 ## Player-Facing Summary
 
@@ -524,4 +520,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Northgate]]
+- [[Northgate]]

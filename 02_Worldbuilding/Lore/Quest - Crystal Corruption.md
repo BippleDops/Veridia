@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -12,9 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.891340+00:00'
 world: Both
 ---
-
-
-
 
 
 ## Overview

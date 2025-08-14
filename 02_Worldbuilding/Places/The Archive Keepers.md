@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-archive-keepers-the-archive-keepers.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-archive-keepers-the-archive-keepers.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Archive Keepers]]
+- [[12_Research/D&D_References/The Archive Keepers]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[12_Research/D&D_References/Legal System of Aquabyssos]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

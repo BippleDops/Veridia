@@ -27,7 +27,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-The medallion has 5 charges. While wearing it, you can expend 1 charge to cast [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]] (save DC 13) from it. The medallion regains `d4` expended charges daily at dawn.
+The medallion has 5 charges. While wearing it, you can expend 1 charge to cast [[detect-thoughts-xphb|Detect Thoughts]] (save DC 13) from it. The medallion regains `d4` expended charges daily at dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

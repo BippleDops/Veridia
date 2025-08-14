@@ -11,6 +11,9 @@ obsidianUIMode: preview
 population: 35000 - Category/Place
 status: complete
 tags:
+- combat
+- quest
+- aquatic
 - both
 - complete
 - content/location
@@ -25,83 +28,94 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pressure-s-end-pressure-s-end.svg)
-
-
-
-
 
 
 # Pressure's End - The Iron Deep
 
 ## Overview
-Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. This fortress-city serves as headquarters for the [[02_Worldbuilding/Places/Depth Wardens]] and stands as the last major defense against the horrors rising from [[02_Worldbuilding/Places/The Hadal Depths]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
+
+Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[12_Research/D&D_References/Aquabyssos World Overview]]. This fortress-city serves as headquarters for the [[12_Research/D&D_References/Depth Wardens]] and stands as the last major defense against the horrors rising from [[12_Research/D&D_References/The Hadal Depths]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
 
 ## Districts
 
 ### The Garrison Deeps
-Military quarter housing the [[02_Worldbuilding/Places/Depth Wardens]]' barracks, training grounds, and armories. [[02_Worldbuilding/People/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
+
+Military quarter housing the [[12_Research/D&D_References/Depth Wardens]]' barracks, training grounds, and armories. [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
 
 ### The Forge Trenches
-Industrial district where [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[02_Worldbuilding/Places/The Great Drowning]].
+
+Industrial district where [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[12_Research/D&D_Statblocks/The Great Drowning]].
 
 ### Civilian Shelf
-Terraced residential area for non-military citizens. [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]] manages supplies and ensures military families are provided for.
+
+Terraced residential area for non-military citizens. [[12_Research/D&D_References/Quartermaster Judith Steadfast]] manages supplies and ensures military families are provided for.
 
 ### The Lock
-High-security prison carved deeper into the cliff, where dangerous criminals and deep-creatures are held. [[02_Worldbuilding/Places/Warden Marcus Stonehand]] maintains order through brutal efficiency.
+
+High-security prison carved deeper into the cliff, where dangerous criminals and deep-creatures are held. [[12_Research/D&D_References/Warden Marcus Stonehand]] maintains order through brutal efficiency.
 
 ### The Watchtower Depths
+
 Observation posts extending into the darkness below, staffed by scouts and diviners watching for threats from the deep.
 
 ## Notable Locations
 
 ### The War College
-Training academy for elite Depth Wardens. [[02_Worldbuilding/Places/Commander Drake Pressureborn]] instructs in deep combat techniques and psychological resistance to [[02_Worldbuilding/Places/The Deepmind]].
+
+Training academy for elite Depth Wardens. [[12_Research/D&D_References/Commander Drake Pressureborn]] instructs in deep combat techniques and psychological resistance to [[12_Research/D&D_Statblocks/The Deepmind]].
 
 ### The Depth Chapel
-Fortified temple where [[02_Worldbuilding/Places/Battle Priest Cassius Depthshield]] blesses weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
+
+Fortified temple where [[12_Research/D&D_References/Battle Priest Cassius Depthshield]] blesses weapons and soldiers before deep patrols. Dedicated to gods of war and protection.
 
 ### The Pressure Chamber
-Medical and experimental facility where [[02_Worldbuilding/People/Doctor Helena Voidwalker]] studies the effects of extreme depth on body and mind. Also used for interrogation.
+
+Medical and experimental facility where [[12_Research/D&D_References/Doctor Helena Voidwalker]] studies the effects of extreme depth on body and mind. Also used for interrogation.
 
 ### The Strategic Archive
-Military intelligence center containing maps of the deep trenches and records of every deep incursion. [[02_Worldbuilding/Places/Spymaster Crow]] coordinates intelligence operations from here.
+
+Military intelligence center containing maps of the deep trenches and records of every deep incursion. [[12_Research/D&D_References/Spymaster Crow]] coordinates intelligence operations from here.
 
 ### The Titan Dock
-Massive bay housing the city's war-leviathans, giant creatures trained for deep combat. [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]] maintains these living weapons.
+
+Massive bay housing the city's war-leviathans, giant creatures trained for deep combat. [[12_Research/D&D_References/Beast Master Krell Chainbreaker]] maintains these living weapons.
 
 ## Services & Shops
 
 ### The Drowned Soldier Tavern
-Veterans' gathering place run by [[02_Worldbuilding/Places/Retired Captain Bron Saltbeard]]. Information about deep threats traded freely here.
+
+Veterans' gathering place run by [[12_Research/D&D_References/Retired Captain Bron Saltbeard]]. Information about deep threats traded freely here.
 
 ### Irondeep Supplies
-[[02_Worldbuilding/Places/Merchant Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance groups opposing military rule.
+
+[[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]] sells military-grade equipment to authorized buyers. Secretly supplies resistance groups opposing military rule.
 
 ### The Pressure Seal
-Inn catering to deep scouts and travelers, run by [[02_Worldbuilding/Places/Innkeeper Mara Ironlung]]. Each room can be pressurized to match any depth.
+
+Inn catering to deep scouts and travelers, run by [[12_Research/D&D_References/Innkeeper Mara Ironlung]]. Each room can be pressurized to match any depth.
 
 ### Deepguard Provisions
-[[02_Worldbuilding/Places/Supplier Erikson Tidecaller]] provides specialized equipment for deep expeditions, including pressure suits and emergency ascent magic.
+
+[[12_Research/D&D_References/Supplier Erikson Tidecaller]] provides specialized equipment for deep expeditions, including pressure suits and emergency ascent magic.
 
 ## Government & Law
-- Military dictatorship under [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- Martial law enforced by the [[02_Worldbuilding/Places/Depth Wardens]]
+
+- Military dictatorship under [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]]
+- Martial law enforced by the [[12_Research/D&D_References/Depth Wardens]]
 - Civilian council exists but has little power
 - Justice is swift and harsh, with execution common
 
 ## Demographics
+
 - 65% Military personnel and families
 - 20% Support staff and craftsmen
 - 10% Researchers and scholars
 - 5% Prisoners and "guests"
 
 ## Defenses
+
 - Impenetrable cliff fortifications
 - Trained war-leviathans
 - Pressure mines in approach routes
@@ -109,19 +123,22 @@ Inn catering to deep scouts and travelers, run by [[02_Worldbuilding/Places/Innk
 - Ancient ward stones preventing deep creature approach
 
 ## Trade & Economy
+
 - Main exports: Military services, refined pearlsteel, deep-sea resources
 - Main imports: Food, raw materials, recruits
 - Currency: Service Marks (military scrip)
 - Limited trade due to military priorities
 
 ## Current Events
-1. Increased activity detected in [[02_Worldbuilding/Places/The Hadal Depths]]
-2. Conflict with [[02_Worldbuilding/Places/Lumengarde]] over bioweapon development
+
+1. Increased activity detected in [[12_Research/D&D_References/The Hadal Depths]]
+2. Conflict with [[12_Research/D&D_References/Lumengarde]] over bioweapon development
 3. Several scout patrols have failed to return
 4. Political pressure to expand military control
-5. Discovery of massive creature movement in [[02_Worldbuilding/Places/The Cerulean Trench]]
+5. Discovery of massive creature movement in [[12_Research/D&D_References/The Cerulean Trench]]
 
 ## Secrets
+
 > [!warning] DM Only
 > - Admiral Blackwater is building a secret weapon to destroy the Deepmind
 > - The Lock contains a captured herald of the Deepmind
@@ -130,6 +147,7 @@ Inn catering to deep scouts and travelers, run by [[02_Worldbuilding/Places/Innk
 > - The ward stones are weakening and will soon fail
 
 ## Random Encounters (d10)
+
 1. Military patrol demanding papers
 2. Press gang recruiting "volunteers"
 3. Wounded scout warning of deep movement
@@ -142,34 +160,37 @@ Inn catering to deep scouts and travelers, run by [[02_Worldbuilding/Places/Innk
 10. Veterans protesting treatment
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Supreme Commander
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]] - Chief Armorer
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]] - Training Master
-- [[02_Worldbuilding/Places/Warden Marcus Stonehand]] - Prison Commander
-- [[02_Worldbuilding/People/Doctor Helena Voidwalker]] - Pressure Researcher
-- [[02_Worldbuilding/Places/Battle Priest Cassius Depthshield]] - Military Chaplain
-- [[02_Worldbuilding/Places/Spymaster Crow]] - Intelligence Chief
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]] - Leviathan Handler
-- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]] - Supply Chief
+
+- [[12_Research/D&D_Statblocks/Admiral Thorne Blackwater]] - Supreme Commander
+- [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]] - Chief Armorer
+- [[12_Research/D&D_References/Commander Drake Pressureborn]] - Training Master
+- [[12_Research/D&D_References/Warden Marcus Stonehand]] - Prison Commander
+- [[12_Research/D&D_References/Doctor Helena Voidwalker]] - Pressure Researcher
+- [[12_Research/D&D_References/Battle Priest Cassius Depthshield]] - Military Chaplain
+- [[12_Research/D&D_References/Spymaster Crow]] - Intelligence Chief
+- [[12_Research/D&D_References/Beast Master Krell Chainbreaker]] - Leviathan Handler
+- [[12_Research/D&D_References/Quartermaster Judith Steadfast]] - Supply Chief
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Bathyal Palace]] - Uneasy alliance
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Primary threat
-- [[02_Worldbuilding/Places/New Tethys]] - Military contracts
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Patrol area
-- [[02_Worldbuilding/Places/The Lock]] - Prison complex
+
+- [[12_Research/D&D_References/The Bathyal Palace]] - Uneasy alliance
+- [[12_Research/D&D_References/The Hadal Depths]] - Primary threat
+- [[12_Research/D&D_References/New Tethys]] - Military contracts
+- [[12_Research/D&D_References/The Cerulean Trench]] - Patrol area
+- [[12_Research/D&D_References/The Lock]] - Prison complex
 
 ## Quests Available
-- [[02_Worldbuilding/Places/The Deep Patrol]] - Scout the increasing threats
-- [[02_Worldbuilding/Lore/The Deserter's Tale]] - Track down missing soldiers
-- [[02_Worldbuilding/Places/Forge of War]] - Acquire rare materials for weapons
-- [[02_Worldbuilding/Places/Breaking the Deep]] - Assault on deep creature stronghold
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]] - Uncover the coup plot
+
+- [[12_Research/D&D_References/The Deep Patrol]] - Scout the increasing threats
+- [[12_Research/D&D_References/The Deserter's Tale]] - Track down missing soldiers
+- [[12_Research/D&D_Statblocks/Forge of War]] - Acquire rare materials for weapons
+- [[12_Research/D&D_References/Breaking the Deep]] - Assault on deep creature stronghold
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]] - Uncover the coup plot
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[12_Research/D&D_Statblocks/The Lock Saboteur]]
 
 ## Player-Facing Summary
 
@@ -191,21 +212,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[12_Research/D&D_References/Pressure's End]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
-- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]]
-- [[02_Worldbuilding/Places/Spymaster Crow]]
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
-- [[02_Worldbuilding/Places/The Deep Patrol]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
-- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
+- [[12_Research/D&D_References/Beast Master Krell Chainbreaker]]
+- [[12_Research/D&D_References/Commander Drake Pressureborn]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_Statblocks/Forge of War]]
+- [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]]
+- [[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]]
+- [[12_Research/D&D_References/Quartermaster Judith Steadfast]]
+- [[12_Research/D&D_References/Spymaster Crow]]
+- [[12_Research/D&D_References/Supplier Erikson Tidecaller]]
+- [[12_Research/D&D_References/The Deep Patrol]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+- [[12_Research/D&D_References/The Hadal Depths]]
+- [[12_Research/D&D_References/The Lock]]
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]]
+- [[12_Research/D&D_References/Warden Marcus Stonehand]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

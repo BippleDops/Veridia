@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Keeper Aurelia Crownguard]]
+- [[12_Research/D&D_References/Vault Keeper Aurelia Crownguard]]
 
 <!-- enriched: true -->

@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-border-territories-border-territories.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-border-territories-border-territories.svg]]
 
 
 ## Overview
@@ -63,10 +59,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[Ambush Point]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
-- [[02_Worldbuilding/Quests/Smuggler]]
+- [[Ambush Point]]
+- [[Smuggler]]

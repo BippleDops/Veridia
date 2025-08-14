@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-myrmidon-mpmm-earth-elemental-myrmidon-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/earth-elemental-myrmidon-mpmm|Earth Elemental Myrmidon]]
+# [[earth-elemental-myrmidon-mpmm|Earth Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
 
 ## Elemental Myrmidons
@@ -40,7 +40,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate]]"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "0"
@@ -54,8 +54,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Terran, one language of its creator's choice"
 "cr": "7"
@@ -67,7 +67,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Maul"
   - "desc": "The myrmidon makes one Maul attack. On a hit, the target takes an extra\
       \ 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Thunderous Strike (Recharge 6)"
 "source":
   - "MPMM"

@@ -14,9 +14,6 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
 - [[Master_Places_Index|Master Places Index]]
@@ -24,13 +21,13 @@ world: Both
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[12_Research/D&D_Statblocks/Aurelius Goldwave]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Order of the Sunken Crown]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[12_Research/D&D_References/The Abyss Beneath Aquabyssos]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Seven Shards]]
 
 ## Player-Facing Summary
 
@@ -51,3 +48,8 @@ Legends speak of Leviathan Graveyard as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

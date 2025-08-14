@@ -11,19 +11,17 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+- [[The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[The Final Choice]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

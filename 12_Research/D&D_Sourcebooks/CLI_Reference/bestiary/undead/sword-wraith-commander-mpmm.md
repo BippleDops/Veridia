@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-commander-mpmm-sword-wraith-commander-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm|Sword Wraith Commander]]
+# [[sword-wraith-commander-mpmm|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -41,7 +41,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[/03_Mechanics/CLI/items/breastplate-xphb|breastplate]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
+"ac_class": "[[breastplate-xphb|breastplate]], [[shield-xphb|shield]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -54,13 +54,13 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
@@ -80,7 +80,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
   - "desc": "If the commander has taken damage during this combat, it gives itself\
-      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[/03_Mechanics/CLI/bestiary/undead/sword-wraith-warrior-mpmm|sword\
+      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[sword-wraith-warrior-mpmm|sword\
       \ wraith warriors]]\
       \ appear in unoccupied spaces within 30 feet of it. The warriors last until\
       \ they drop to 0 hit points, and they take their turns immediately after the\

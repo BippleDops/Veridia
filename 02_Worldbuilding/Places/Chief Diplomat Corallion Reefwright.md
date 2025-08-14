@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[12_Research/D&D_References/Tethyan Hegemony]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[12_Research/D&D_References/Tethyan Hegemony]]
 
 ## Player-Facing Summary
 

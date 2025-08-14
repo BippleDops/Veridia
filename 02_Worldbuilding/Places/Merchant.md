@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg]]
 
 
 # Merchant
@@ -182,6 +179,6 @@ Legends speak of Merchant as a nexus where past and present converge. Locals des
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant]]
+- [[Merchant]]
 
 <!-- enriched: true -->

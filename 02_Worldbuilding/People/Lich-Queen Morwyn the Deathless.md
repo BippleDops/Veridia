@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lich-queen-morwyn-the-deathless-lich-queen-morwyn-the-deathless.svg]]
 
 
 ## Overview
@@ -64,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]
+- [[Lich-Queen Morwyn the Deathless]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Carrion Court]]
-- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[The Carrion Court]]
+- [[The Bone Palace of Sorrows]]

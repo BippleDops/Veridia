@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-cure-for-madness-quest-the-cure-for-madness.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-cure-for-madness-quest-the-cure-for-madness.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Cure for Madness]]
+- [[Quest - The Cure for Madness]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark]]

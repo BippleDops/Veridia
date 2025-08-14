@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-merchant-prince-goldwind-crysalborn-merchant-prince-goldwind-crysalborn.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-prince-goldwind-crysalborn-merchant-prince-goldwind-crysalborn.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]
 
 ## Player-Facing Summary
 

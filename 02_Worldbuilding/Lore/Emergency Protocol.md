@@ -14,9 +14,6 @@ world: Aethermoor
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -44,3 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Emergency Protocols 2|02 Worldbuilding/Places/Emergency Protocols 2]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

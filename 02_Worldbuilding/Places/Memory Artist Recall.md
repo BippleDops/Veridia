@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 

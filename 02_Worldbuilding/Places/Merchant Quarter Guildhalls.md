@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
 
 ## Player-Facing Summary
 

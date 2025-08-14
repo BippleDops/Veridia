@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-bio-adaptation-crisis-quest-the-bio-adaptation-crisis.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Bio-Adaptation Crisis]]
+- [[Quest - The Bio-Adaptation Crisis]]
 
 <!-- enriched: true -->

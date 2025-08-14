@@ -15,24 +15,19 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.png)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.png]]
 
 
 # The Glowmind Archives
 *Repository of Accumulated Wisdom*
 
 > *"Knowledge is the only currency that appreciates when shared. Here in these halls, every scroll, every tome, every fragment of wisdom preserved is a light against the darkness of ignorance. We are not merely librarians - we are guardians of civilization's memory."*
-> — [[02_Worldbuilding/Places/Archivist Vera Glowmind]], Chief Archivist and Keeper of Knowledge
+> — [[Archivist Vera Glowmind]], Chief Archivist and Keeper of Knowledge
 
 ## Overview
 
-The Glowmind Archives stand as [[02_Worldbuilding/Places/Aquabyssos]]'s premier repository of knowledge, where [[02_Worldbuilding/Places/Archivist Vera Glowmind]] leads a dedicated team of scholars and archivists in preserving, organizing, and providing access to the accumulated wisdom of underwater civilization. This vast complex houses millions of documents, artifacts, and records spanning centuries of underwater history, scientific discovery, magical research, and cultural development. The archives serve as both a public resource and a specialized research institution, where scholars from throughout the realm come to access rare materials and conduct advanced research into every conceivable aspect of underwater existence.
+The Glowmind Archives stand as [[Aquabyssos]]'s premier repository of knowledge, where [[Archivist Vera Glowmind]] leads a dedicated team of scholars and archivists in preserving, organizing, and providing access to the accumulated wisdom of underwater civilization. This vast complex houses millions of documents, artifacts, and records spanning centuries of underwater history, scientific discovery, magical research, and cultural development. The archives serve as both a public resource and a specialized research institution, where scholars from throughout the realm come to access rare materials and conduct advanced research into every conceivable aspect of underwater existence.
 
 ## History and Foundation
 
@@ -55,7 +50,7 @@ The Glowmind Archives stand as [[02_Worldbuilding/Places/Aquabyssos]]'s premier 
 **Design**: Architecture specifically designed for long-term document preservation  
 **Technology**: Advanced environmental controls and security systems  
 **Organization**: Revolutionary organizational systems for knowledge management  
-**Opening**: Grand opening with transfer of materials from throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Opening**: Grand opening with transfer of materials from throughout [[Aquabyssos]]
 
 ### Growth and Expansion
 **Period**: Continuous expansion over 140 years of operation  
@@ -69,7 +64,7 @@ The Glowmind Archives stand as [[02_Worldbuilding/Places/Aquabyssos]]'s premier 
 **Innovation**: Continuous innovation in knowledge preservation and access technology  
 **Services**: Comprehensive services supporting research throughout underwater realm  
 **Collection**: World's most comprehensive collection of underwater civilization knowledge  
-**Impact**: Significant impact on scholarship and research throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Impact**: Significant impact on scholarship and research throughout [[Aquabyssos]]
 
 ## Architecture and Collections
 
@@ -276,7 +271,7 @@ The Glowmind Archives stand as [[02_Worldbuilding/Places/Aquabyssos]]'s premier 
 ## Connected Elements
 
 ### Academic Networks
-**Universities**: Relationships with educational institutions throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Universities**: Relationships with educational institutions throughout [[Aquabyssos]]  
 **Research**: Supporting research institutions and individual researchers  
 **Scholars**: Network of scholars and experts in various fields  
 **Knowledge**: Participation in broader knowledge community  
@@ -326,17 +321,17 @@ The Glowmind Archives stand as [[02_Worldbuilding/Places/Aquabyssos]]'s premier 
 **Connections**: Connections to broader campaign themes and elements  
 **Development**: Supporting campaign development through information access
 
-The Glowmind Archives represent the intellectual heart of [[02_Worldbuilding/Places/Aquabyssos]], where [[02_Worldbuilding/Places/Archivist Vera Glowmind]]'s dedication to knowledge preservation ensures that the wisdom of ages remains available to scholars, researchers, and citizens throughout the realm. Through comprehensive collections, professional services, and unwavering commitment to intellectual freedom, this institution serves as a beacon of learning that illuminates the depths with the light of accumulated human wisdom and experience.
+The Glowmind Archives represent the intellectual heart of [[Aquabyssos]], where [[Archivist Vera Glowmind]]'s dedication to knowledge preservation ensures that the wisdom of ages remains available to scholars, researchers, and citizens throughout the realm. Through comprehensive collections, professional services, and unwavering commitment to intellectual freedom, this institution serves as a beacon of learning that illuminates the depths with the light of accumulated human wisdom and experience.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]]
-- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
-- [[02_Worldbuilding/Places/Lumengarde]]
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[Thalassius the Wise]]
+- [[Sage Lysander Deepthought]]
+- [[Keeper Elara Mindwell]]
+- [[Lumengarde]]
+- [[The Archive of Unremembered Things]]
+- [[The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -358,6 +353,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archivist Vera Glowmind]]
+- [[Archivist Vera Glowmind]]
 
 <!-- enriched: true -->

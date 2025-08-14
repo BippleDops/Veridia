@@ -12,9 +12,6 @@ updated: '2025-08-13T01:18:34.621748+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -41,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temporal Navigation]]
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

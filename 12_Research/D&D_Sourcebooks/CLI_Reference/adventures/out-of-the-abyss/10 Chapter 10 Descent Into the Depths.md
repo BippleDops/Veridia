@@ -51,11 +51,11 @@ The marching order affects where and how different encounters might occur, parti
 
 The pace of Underdark travel remains as outlined in chapter 2, and the characters move no slower for traveling with a larger party. Although a portion of the expeditionary force might be mounted on giant lizards, the lizards travel at the pace of the rest of the party unless they move out ahead.
 
-As noted in chapter 2, a fast pace makes it harder for characters to spot ambushers or items of interest, and prevents characters from foraging. A slow pace improves chances of foraging. However, even while traveling at a slow pace, the characters and the NPCs can't use stealth, since they are too large a group to go unnoticed. [[/03_Mechanics/CLI/skills#Stealth|Stealth]] is an option only for a smaller scouting party traveling away from the main force (see "Scouting").
+As noted in chapter 2, a fast pace makes it harder for characters to spot ambushers or items of interest, and prevents characters from foraging. A slow pace improves chances of foraging. However, even while traveling at a slow pace, the characters and the NPCs can't use stealth, since they are too large a group to go unnoticed. [[skills#Stealth|Stealth]] is an option only for a smaller scouting party traveling away from the main force (see "Scouting").
 
 ### Navigating
 
-While traveling as part of a larger group, the characters have an easier time navigating their way through the Underdark than they did during their initial escape. The characters' own experience, plus that of their followers, along with maps and other information they might have acquired in Gauntlgrym or elsewhere, give all members of the expanded party advantage on any Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) checks to avoid becoming lost (see chapter 5, ""Adventure Environments"," of the *Dungeon Master's Guide*).
+While traveling as part of a larger group, the characters have an easier time navigating their way through the Underdark than they did during their initial escape. The characters' own experience, plus that of their followers, along with maps and other information they might have acquired in Gauntlgrym or elsewhere, give all members of the expanded party advantage on any Wisdom ([[skills#Survival|Survival]]) checks to avoid becoming lost (see chapter 5, ""Adventure Environments"," of the *Dungeon Master's Guide*).
 
 ### Scouting
 
@@ -128,7 +128,7 @@ For the rules on madness, see chapter 2 of this adventure and chapter 8, ""Runni
 | 10–11 | Discipline problem |
 | 12–13 | Disease |
 | 14–15 | Madness |
-| 16–17 | [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] NPCs |
+| 16–17 | [[conditions#Poisoned|Poisoned]] NPCs |
 | 18–19 | Spoiled supplies |
 | 20 | Vanishing NPCs |
 ^event
@@ -143,12 +143,12 @@ The party stumbles upon the remains of one or more creatures slaughtered by ramp
 
 | dice: d10 | Corpse Present |
 |-----------|----------------|
-| 1 | 1 dead [[/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm|behir]] |
-| 2–3 | `d4` dead [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] and `d4`−1 dead [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] |
-| 4–5 | `3d8` dead [[/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm|giant fire beetles]] (their glands are no longer glowing) |
-| 6–7 | `2d4` dead [[/03_Mechanics/CLI/bestiary/aberration/grick-xmm|gricks]] |
-| 8–9 | `2d4` dead [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm|kuo-toa]] |
-| 10 | 1 dead [[/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm|purple worm]] |
+| 1 | 1 dead [[behir-xmm|behir]] |
+| 2–3 | `d4` dead [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] and `d4`−1 dead [[giant-lizard-xmm|giant lizards]] |
+| 4–5 | `3d8` dead [[giant-fire-beetle-xmm|giant fire beetles]] (their glands are no longer glowing) |
+| 6–7 | `2d4` dead [[grick-xmm|gricks]] |
+| 8–9 | `2d4` dead [[kuo-toa-xmm|kuo-toa]] |
+| 10 | 1 dead [[purple-worm-xmm|purple worm]] |
 ^corpse-present
 
 Roll a `d6` and consult the Scavengers table to determine what scavengers, if any, are feasting on the remains.
@@ -159,10 +159,10 @@ Roll a `d6` and consult the Scavengers table to determine what scavengers, if an
 
 | dice: d6 | Scavengers |
 |----------|------------|
-| 1–2 | `d3` [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|black puddings]] |
-| 3–4 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawlers]] |
-| 5 | `d6` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] and `d6` [[/03_Mechanics/CLI/bestiary/beast/hyena-xmm|hyenas]] |
-| 6 | 1 [[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm|otyugh]] |
+| 1–2 | `d3` [[black-pudding-xmm|black puddings]] |
+| 3–4 | `d4` [[carrion-crawler-xmm|carrion crawlers]] |
+| 5 | `d6` [[gnoll-warrior-xmm|gnolls]] and `d6` [[hyena-xmm|hyenas]] |
+| 6 | 1 [[otyugh-xmm|otyugh]] |
 ^scavengers
 
 ### Creature Encounter
@@ -179,11 +179,11 @@ Roll a `d20` and consult the Demon Encounters table to determine what appears. I
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–4 | `d4` [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|barlguras]] |
-| 5–8 | `d4` [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|chasmes]] |
-| 9–10 | `d2` [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|hezrous]] |
-| 11–14 | `d4` [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|shadow]] demons |
-| 15–18 | `d3` [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrocks]] |
+| 1–4 | `d4` [[barlgura-xmm|barlguras]] |
+| 5–8 | `d4` [[chasme-xmm|chasmes]] |
+| 9–10 | `d2` [[hezrou-xmm|hezrous]] |
+| 11–14 | `d4` [[shadow-xmm|shadow]] demons |
+| 15–18 | `d3` [[vrock-xmm|vrocks]] |
 | 19–20 | [[/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm|Juiblex]] (see appendix D) |
 ^encounter
 
@@ -233,11 +233,11 @@ One NPC party member goes mad. To determine the kind of madness, roll a `d6` and
 
 ### Poisoned NPCs
 
-One or more NPC party members are [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `d12` to determine how many NPCs are [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way.
+One or more NPC party members are [[conditions#Poisoned|poisoned]] for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `d12` to determine how many NPCs are [[conditions#Poisoned|poisoned]] in this way.
 
 ### Spoiled Supplies
 
-The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [[/03_Mechanics/CLI/spells/purify-food-and-drink-xphb|purify food and drink]] or similar magic, the party must dispose of `3d6` days of rations.
+The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [[purify-food-and-drink-xphb|purify food and drink]] or similar magic, the party must dispose of `3d6` days of rations.
 
 ### Vanishing NPCs
 
@@ -292,7 +292,7 @@ If [[/03_Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota|Shuushar the Awak
 
 ### Gracklstugh
 
-If the characters visited Gracklstugh previously, the duergar response to their return is dictated by the gray dwarves' prior experience with the characters. The duergar are cautious—if not downright alarmed—at the sight of an armed expeditionary force from the surface world at their gates. They likely refuse entry to the full party, allowing only a select few characters into the Darklake District. [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] duergar guards keep watch on characters in the city at all times, and might even infiltrate the expeditionary force, attempting to eavesdrop on conversations to learn the adventurers' intentions.
+If the characters visited Gracklstugh previously, the duergar response to their return is dictated by the gray dwarves' prior experience with the characters. The duergar are cautious—if not downright alarmed—at the sight of an armed expeditionary force from the surface world at their gates. They likely refuse entry to the full party, allowing only a select few characters into the Darklake District. [[conditions#Invisible|Invisible]] duergar guards keep watch on characters in the city at all times, and might even infiltrate the expeditionary force, attempting to eavesdrop on conversations to learn the adventurers' intentions.
 
 #### Chaos in the City
 
@@ -321,21 +321,21 @@ The characters might decide to visit Menzoberranzan before heading to Gravenholl
 If the characters advance their expeditionary force toward the drow city, word of their approach reaches Menzoberranzan two days before their arrival, and the drow dispatch a well-armed defense force to destroy the surface dwellers. Racing ahead of this drow force is a high elf from Silverymoon named [[/03_Mechanics/CLI/bestiary/npc/khalessa-draga-oota|Khalessa Draga]]. A deep cover agent of the Lords' Alliance, Khalessa has been spying on the drow for years—so long, in fact, that her superiors are beginning to wonder if she's a defector. [[/03_Mechanics/CLI/bestiary/npc/khalessa-draga-oota|Khalessa]] is a loyal alliance [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]] with the following statistical modifications:
 
 - Khalessa's alignment is neutral.  
-- She has [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 60 feet.  
+- She has [[senses#Darkvision|darkvision]] out to a range of 60 feet.  
 - She speaks Common, Elvish, and Undercommon.  
-- Khalessa's fey ancestry gives her advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put her to sleep.  
-- She can cast the [[/03_Mechanics/CLI/spells/dancing-lights-xphb|dancing lights]] cantrip at will.  
-- She owns a [[/03_Mechanics/CLI/items/hat-of-disguise-xdmg|hat of disguise]], which she uses to appear as a female drow while in the company of drow, and she wears a [[/03_Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota|piwafwi]] (see appendix B).  
+- Khalessa's fey ancestry gives her advantage on saving throws against being [[conditions#Charmed|charmed]], and magic can't put her to sleep.  
+- She can cast the [[dancing-lights-xphb|dancing lights]] cantrip at will.  
+- She owns a [[hat-of-disguise-xdmg|hat of disguise]], which she uses to appear as a female drow while in the company of drow, and she wears a [[piwafwi-cloak-of-elvenkind-oota|piwafwi]] (see appendix B).  
 
 Khalessa urges the characters to turn back. If they don't, she fears that the drow force will overwhelm them. Having blown her cover to warn the characters, she asks to stay with them until they reach Gauntlgrym or an alliance settlement.
 
-The leaders of the drow force are a female [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warrior]] named Ryzliir Symryvvin and her consort, a male [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mage]] named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]] of the Order of the Gauntlet named [[/03_Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota|Aljanor Keenblade]]. Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [[/03_Mechanics/CLI/conditions#Surprised|surprised]]; they assumed he had been killed.
+The leaders of the drow force are a female [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warrior]] named Ryzliir Symryvvin and her consort, a male [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mage]] named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|knight]] of the Order of the Gauntlet named [[aljanor-keenblade-oota|Aljanor Keenblade]]. Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [[conditions#Surprised|surprised]]; they assumed he had been killed.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/086-ooa10-04.webp#center)
 
 Ryzliir vows to execute Aljanor unless the characters withdraw their expeditionary force immediately. Under no circumstances will she willingly release her prisoner. If the characters refuse to turn back, Ryzliir kills Aljanor and orders her own force to attack. If the characters leave Aljanor behind or allow him to die, members of the party's expeditionary force in league with the Order of the Gauntlet who make it back to Gauntlgrym report the incident to Sir Lanniver Strayl (see chapter 8).
 
-Ryzliir and Velgor are mounted on [[/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota|giant riding lizards]] (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] warriors, twelve [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbear]] slaves, and sixty [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblin]] slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
+Ryzliir and Velgor are mounted on [[giant-riding-lizard-oota|giant riding lizards]] (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] warriors, twelve [[bugbear-warrior-xmm|bugbear]] slaves, and sixty [[goblin-warrior-xmm|goblin]] slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
 
 Sir Aljanor has made his peace with Tyr and expects to die. He is disappointed if good lives are lost in a foolish attempt to rescue him. If he survives, he accepts any offer to join the party's expeditionary force and is quick to assume a leadership role.
 
@@ -343,9 +343,9 @@ Sir Aljanor has made his peace with Tyr and expects to die. He is disappointed i
 
 If the characters return to Neverlight Grove, myconids loyal to [[/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota|Sovereign Basidia]] (including [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] and [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] if they remained behind) try to intercept them before their arrival and warn them off. The myconids say that matters have become grave, and that the characters should avoid the grove at all costs.
 
-If the adventurers don't leave immediately, six [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]], four [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]], and four [[/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota|awakened zurkhwoods]] (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
+If the adventurers don't leave immediately, six [[myconid-adult-xmm|myconid adults]], four [[myconid-spore-servant-xmm|quaggoth spore servants]], and four [[awakened-zurkhwood-oota|awakened zurkhwoods]] (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
 
-Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]. Each creature that consumes the food or drink must succeed on a DC 13 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for 8 hours. The creature is also [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] while [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way. Any creature that remains [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in chapter 5.
+Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are [[conditions#Poisoned|poisoned]]. Each creature that consumes the food or drink must succeed on a DC 13 Constitution saving throw or become [[conditions#Poisoned|poisoned]] for 8 hours. The creature is also [[conditions#Unconscious|unconscious]] while [[conditions#Poisoned|poisoned]] in this way. Any creature that remains [[conditions#Unconscious|unconscious]] in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in chapter 5.
 
 If the characters take Basidia's advice and turn back, the myconid sovereign promises to contact them again when "the time is right to oppose Zuggtmoy" (as described in chapter 16, "The Fetid Wedding").
 

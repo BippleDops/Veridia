@@ -14,18 +14,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[05_Templates/World Builder Templates/Template-Hub|05 Templates/World Builder Templates/Template Hub]]
+- [[Template-Hub|05 Templates/World Builder Templates/Template Hub]]
 
 
 ## Connections
 
-- [[Template-Hub]]
-- [[Template-PointofInterest]]
+- [[12_Research/D&D_References/Template-Hub]]
+- [[12_Research/D&D_References/Template-PointofInterest]]
 
 ## Player-Facing Summary
 

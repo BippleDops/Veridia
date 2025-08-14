@@ -37,7 +37,7 @@ world: Both
 
 A shimmering wall of bright light appears at a point you choose within range. The wall appears in any orientation you choose: horizontally, vertically, or diagonally. It can be free floating, or it can rest on a solid surface. The wall can be up to 60 feet long, 10 feet high, and 5 feet thick. The wall blocks line of sight, but creatures and objects can pass through it. It emits bright light out to 120 feet and dim light for an additional 120 feet.
 
-When the wall appears, each creature in its area must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [[/03_Mechanics/CLI/conditions#Blinded|blinded]] for 1 minute. On a successful save, it takes half as much damage and isn't [[/03_Mechanics/CLI/conditions#Blinded|blinded]]. A [[/03_Mechanics/CLI/conditions#Blinded|blinded]] creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+When the wall appears, each creature in its area must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [[conditions#Blinded|blinded]] for 1 minute. On a successful save, it takes half as much damage and isn't [[conditions#Blinded|blinded]]. A [[conditions#Blinded|blinded]] creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 A creature that ends its turn in the wall's area takes `4d8` radiant damage.
 
@@ -45,7 +45,7 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `d8` for each slot level above 5th.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*
 

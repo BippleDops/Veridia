@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,13 +54,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Corruption]]
+- [[Crystal Corruption]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Ancient Tunnels Beneath Palace]]

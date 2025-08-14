@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- shadow-touched
+- aquatic
 - aquabyssos
 - black_market
 - complete
@@ -23,11 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-black-market-deal-black-market-deal.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-black-market-deal-black-market-deal.svg]]
 
 
 # Black Market Deal
@@ -45,24 +45,28 @@ The black market serves multiple functions: providing necessary goods during sho
 ## Quest Structure
 
 ### Phase 1: Introduction to the Underground
+
 **Objective**: Make contact with black market operators
 - PCs are approached by a desperate merchant, faction representative, or private citizen needing something unavailable through legal channels
 - Introduction to the complex network of signals, passwords, and meeting protocols
 - First contact with low-level brokers who evaluate the PCs' trustworthiness and capabilities
 
 ### Phase 2: Proving Worthiness
+
 **Objective**: Complete a trial transaction to establish credibility
 - PCs must successfully complete a relatively simple deal to prove they can handle black market protocols
 - Opportunities to demonstrate discretion, capability, and reliability
 - Introduction to the various types of goods, services, and information available
 
 ### Phase 3: The Major Deal
+
 **Objective**: Facilitate or participate in a significant black market transaction
 - High-stakes deal involving valuable or dangerous items that could affect the city's political balance
 - Multiple complications: rival bidders, faction interference, security threats, or betrayals
 - Moral choices about supporting various sides or maintaining neutrality
 
 ### Phase 4: Consequences and Connections
+
 **Objective**: Deal with the aftermath of the major transaction
 - Investigation by authorities or rival factions
 - New opportunities or threats based on the PCs' actions
@@ -71,12 +75,14 @@ The black market serves multiple functions: providing necessary goods during sho
 ## Key NPCs
 
 ### The Broker Network
+
 - **Whisper-Touch Mira**: Information specialist who trades in secrets rather than goods
 - **Captain Finn Darkwater**: Smuggler with connections to surface world suppliers
 - **The Coral Fence**: Anonymous dealer in magical items and artifacts
 - **Madame Pearlweaver**: Upscale broker catering to wealthy clients seeking discretion
 
 ### Potential Clients
+
 - **Faction Representatives**: Seeking items their organization officially cannot acquire
 - **Desperate Citizens**: Needing medicine, food, or supplies during shortages
 - **Foreign Agents**: Surface dwellers or other underwater realm representatives
@@ -85,20 +91,25 @@ The black market serves multiple functions: providing necessary goods during sho
 ## Locations
 
 ### The Neutral Depths
+
 Abandoned sections of the city's lower levels where faction control is minimal and black market activity flourishes.
 
 ### The Shifting Market
+
 Mobile trading posts that move location regularly to avoid detection, using coded signals to inform customers of new meeting points.
 
 ### Safe Houses
+
 Secure locations where high-value transactions can take place with reduced risk of interference.
 
 ### The Drop Points
+
 Hidden caches throughout the city where goods and payments can be left for later collection.
 
 ## Available Goods and Services
 
 ### Physical Goods
+
 - Weapons and armor restricted by faction agreements
 - Rare magical components and artifacts
 - Surface world luxury items and technological devices
@@ -106,6 +117,7 @@ Hidden caches throughout the city where goods and payments can be left for later
 - Restricted alchemical substances
 
 ### Information
+
 - Faction movement reports and strategic intelligence
 - Personal secrets of prominent citizens
 - Maps of restricted areas and hidden passages
@@ -113,6 +125,7 @@ Hidden caches throughout the city where goods and payments can be left for later
 - Background information on specific individuals
 
 ### Services
+
 - Document forgery and identity creation
 - Discrete transportation and smuggling
 - Professional services from exiled or criminal specialists
@@ -122,16 +135,19 @@ Hidden caches throughout the city where goods and payments can be left for later
 ## Complications and Risks
 
 ### Law Enforcement
+
 - City guards conducting sweeps of suspected meeting areas
 - Faction security forces investigating their members' unauthorized activities
 - Undercover agents attempting to infiltrate the black market network
 
 ### Criminal Competition
+
 - Rival smuggling organizations competing for territory and customers
 - Protection rackets demanding payment from black market operators
 - Theft and betrayal within the underground community
 
 ### Political Pressure
+
 - Faction pressure to use black market connections for political advantage
 - Attempts by various groups to control or eliminate black market activities
 - International incidents caused by smuggling operations
@@ -173,7 +189,7 @@ Use the Black Market Deal structure to:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -185,6 +201,10 @@ Legends speak of Black Market Deal as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Black Market Deal]]
+- [[12_Research/D&D_References/Black Market Deal]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

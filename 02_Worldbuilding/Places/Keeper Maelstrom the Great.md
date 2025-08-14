@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Maelstrom the Great]]
+- [[Keeper Maelstrom the Great]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]

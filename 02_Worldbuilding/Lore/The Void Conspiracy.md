@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,11 +15,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)
-
+![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
 
 
 ## Overview

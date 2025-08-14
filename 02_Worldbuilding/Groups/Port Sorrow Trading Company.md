@@ -20,12 +20,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg]]
 
 
 # Port Sorrow Trading Company
@@ -63,4 +59,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Dr. Siphon Gillwater|02 Worldbuilding/Quests/Dr. Siphon Gillwater]]
+- [[Dr. Siphon Gillwater|02 Worldbuilding/Quests/Dr. Siphon Gillwater]]

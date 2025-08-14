@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ankylosaurus-xmm-ankylosaurus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/ankylosaurus-xmm|Ankylosaurus]]
+# [[ankylosaurus-xmm|Ankylosaurus]]
 *Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Ankylosaurus (XMM)"
@@ -62,7 +62,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The ankylosaurus makes two Tail attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tail"
 "source":

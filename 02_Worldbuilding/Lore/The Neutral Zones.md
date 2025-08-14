@@ -2,6 +2,8 @@
 type: Lore
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - active
 - both
 - lore
@@ -9,9 +11,6 @@ world: Both
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.204147+00:00'
 ---
-
-
-
 
 
 ## Overview
@@ -40,10 +39,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
+- [[Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
-- [[Diplomatic Tides]]
+- [[12_Research/D&D_References/Crystal Corruption Taboos]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]

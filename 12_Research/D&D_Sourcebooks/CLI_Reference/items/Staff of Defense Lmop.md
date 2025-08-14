@@ -32,14 +32,14 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 This slender, hollow staff is made of glass yet is as strong as oak. It weighs 3 pounds. You must be attuned to the staff to gain its benefits and cast its spells.
 
 While holding the staff, you have a +1 bonus to your Armor Class.
 
-The staff has 10 charges, which are used to fuel the spells within it. With the staff in hand, you can use your action to cast one of the following spells from the staff if the spell is on your class's spell list: [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]] (1 charge) or [[/03_Mechanics/CLI/spells/shield-xphb|shield]] (2 charges). No components are required.
+The staff has 10 charges, which are used to fuel the spells within it. With the staff in hand, you can use your action to cast one of the following spells from the staff if the spell is on your class's spell list: [[mage-armor-xphb|mage armor]] (1 charge) or [[shield-xphb|shield]] (2 charges). No components are required.
 
 The staff regains `1d6 + 4` expended charges each day at dawn. If you expend the staff's last charge, roll a `d20`. On a 1, the staff shatters and is destroyed.
 

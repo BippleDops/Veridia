@@ -3,6 +3,11 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - both
 - complete
 - content/location
@@ -15,16 +20,12 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg]]
 
 
 # Pearl Harbor City
+
 *Gateway Between Worlds*
 
 ## Overview
@@ -36,30 +37,35 @@ Pearl Harbor City stands as Aquathys's primary connection to the surface world, 
 ### Districts
 
 #### **The Locks District**
+
 A marvel of magical engineering, this area contains massive pressure-adjustment chambers that allow surface dwellers to safely descend and deep dwellers to ascend. Each lock takes 4 hours to fully cycle.
-- **Lock Master:** [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]
-- **Security Chief:** [[02_Worldbuilding/Places/Captain Trawl Netcaster]]
-- Notable: Black market pressure suits sold by [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
+- **Lock Master:** [[12_Research/D&D_References/Engineer Prisma Depthwright]]
+- **Security Chief:** [[12_Research/D&D_References/Captain Trawl Netcaster]]
+- Notable: Black market pressure suits sold by [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 #### **The Float Quarter**
+
 Suspended platforms connected by bridges where air-breathing merchants can trade without full submersion. Magical air bubbles maintain breathable atmosphere.
-- **Market Overseer:** [[02_Worldbuilding/Places/Merchant Prince Akula]]
-- **Harbor Master:** [[02_Worldbuilding/Places/Old Sally Seasprayer]]
+- **Market Overseer:** [[12_Research/D&D_References/Merchant Prince Akula]]
+- **Harbor Master:** [[12_Research/D&D_References/Old Sally Seasprayer]]
 - Features: Emergency surface portals, translation services
 
 #### **Smuggler's Reef**
-Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[02_Worldbuilding/Places/Coral Throne Syndicate]] runs everything here.
+
+Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[12_Research/D&D_References/Coral Throne Syndicate]] runs everything here.
 - **Shadow Boss:** Whisper Jack
-- **Fence:** [[02_Worldbuilding/People/The Barnacle]]
+- **Fence:** [[12_Research/D&D_Statblocks/The Barnacle]]
 - Password: "The tide always turns"
 
 #### **Embassy Row**
-Diplomatic quarters for various factions and surface nations. Heavily warded and patrolled by [[02_Worldbuilding/People/The Depth Wardens]].
-- **Surface Ambassador:** [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
-- **Deep Ambassador:** [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- Neutral Ground: [[02_Worldbuilding/Places/The Neutral Current Tavern]]
+
+Diplomatic quarters for various factions and surface nations. Heavily warded and patrolled by [[12_Research/D&D_References/The Depth Wardens]].
+- **Surface Ambassador:** [[12_Research/D&D_References/Lord Reginald Seaworthy]]
+- **Deep Ambassador:** [[12_Research/D&D_References/Aboleth Adjunct Yzz]]
+- Neutral Ground: [[12_Research/D&D_References/The Neutral Current Tavern]]
 
 ## Demographics
+
 - **Tritons:** 30%
 - **Sea Elves:** 25%
 - **Merfolk:** 20%
@@ -69,74 +75,82 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 ## Current Events
 
 ### The Pressure Pirates
-A group of raiders has been attacking ships in the transition zone between surface and city. [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] has posted bounties.
+
+A group of raiders has been attacking ships in the transition zone between surface and city. [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] has posted bounties.
 
 ### The Surface Plague Scare
-Rumors that surface diseases are spreading through the locks. [[02_Worldbuilding/Places/Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] seeks adventurers to investigate.
+
+Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] seeks adventurers to investigate.
 
 ### The Missing Shipment
-A crucial delivery of [[02_Worldbuilding/Places/Pressure Crystals]] from [[02_Worldbuilding/Places/Luminous Hollow]] never arrived. Both [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[02_Worldbuilding/Places/Master Smith Coral-Hammer]] are desperate to find it.
+
+A crucial delivery of [[12_Research/D&D_References/Pressure Crystals]] from [[12_Research/D&D_Statblocks/Luminous Hollow]] never arrived. Both [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[12_Research/D&D_References/Master Smith Coral-Hammer]] are desperate to find it.
 
 ### Political Tensions
-[[02_Worldbuilding/Quests/High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
+
+[[12_Research/D&D_Statblocks/High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
 
 ## Notable NPCs
 
 ### Permanent Residents
-- [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] - Syndicate leader
-- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]] - Runs portal transits
-- [[02_Worldbuilding/Places/Taverner Bubbles McGill]] - Information broker
-- [[02_Worldbuilding/Places/Master Smith Coral-Hammer]] - Pressure-forge specialist
-- [[02_Worldbuilding/Places/Illyana Glowstream]] - Bioluminescent enchantments
+
+- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] - Syndicate leader
+- [[12_Research/D&D_References/Captain Marlowe Tidecrest]] - Runs portal transits
+- [[12_Research/D&D_References/Taverner Bubbles McGill]] - Information broker
+- [[12_Research/D&D_References/Master Smith Coral-Hammer]] - Pressure-forge specialist
+- [[12_Research/D&D_References/Illyana Glowstream]] - Bioluminescent enchantments
 
 ### Frequent Visitors
-- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Monthly metal trades
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Seeks underwater spell components
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Security inspections
+
+- [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Monthly metal trades
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Seeks underwater spell components
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Security inspections
 
 ## Available Services
 
 ### Transportation
+
 | Service | Provider | Cost | Destination |
 |---------|----------|------|-------------|
-| Surface Portal | [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]] | 50gp | [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] |
-| Deep Current | [[02_Worldbuilding/Places/Navigator Flux]] | 100gp | [[02_Worldbuilding/Places/Azure Citadel]] |
-| Kelp Highway | [[02_Worldbuilding/Places/Current Riders Guild]] | 25gp | Various depths |
+| Surface Portal | [[12_Research/D&D_References/Captain Marlowe Tidecrest]] | 50gp | [[Market_District|02 Worldbuilding/Places/Market District]] |
+| Deep Current | [[12_Research/D&D_References/Navigator Flux]] | 100gp | [[12_Research/D&D_References/Azure Citadel]] |
+| Kelp Highway | [[12_Research/D&D_References/Current Riders Guild]] | 25gp | Various depths |
 | Smuggler's Run | Whisper Jack | 200gp | Anywhere, no questions |
 
 ### Specialty Shops
+
 | Shop | Specialty | Owner | Notable Items |
 |------|-----------|-------|---------------|
-| The Pressure Forge | Depth-resistant armor | [[02_Worldbuilding/Places/Master Smith Coral-Hammer]] | +1 Pressure Suits |
-| Biolume Boutique | Glowing items | [[02_Worldbuilding/Places/Illyana Glowstream]] | Everglow Pearls |
-| Depth Delights | Exotic foods | [[02_Worldbuilding/Places/Chef Gastropod]] | Surface/Deep fusion |
-| The Current Exchange | Currency/Information | [[02_Worldbuilding/Places/The Banker Fish]] | All denominations |
+| The Pressure Forge | Depth-resistant armor | [[12_Research/D&D_References/Master Smith Coral-Hammer]] | +1 Pressure Suits |
+| Biolume Boutique | Glowing items | [[12_Research/D&D_References/Illyana Glowstream]] | Everglow Pearls |
+| Depth Delights | Exotic foods | [[12_Research/D&D_References/Chef Gastropod]] | Surface/Deep fusion |
+| The Current Exchange | Currency/Information | [[12_Research/D&D_References/The Banker Fish]] | All denominations |
 
 ## Quest Hooks
 
-1. **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - The Syndicate needs a sensitive package delivered
-2. **[[02_Worldbuilding/Quests/The Lock Saboteur]]** - Someone's trying to destroy the pressure system
-3. **[[02_Worldbuilding/Places/Surface Tensions]]** - Diplomatic mission to establish new trade route
-4. **[[02_Worldbuilding/Places/The Deep Fugitive]]** - An escaped prisoner from [[02_Worldbuilding/Quests/The Maw of Darkness]] is hiding here
+1. **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - The Syndicate needs a sensitive package delivered
+2. **[[12_Research/D&D_Statblocks/The Lock Saboteur]]** - Someone's trying to destroy the pressure system
+3. **[[12_Research/D&D_References/Surface Tensions]]** - Diplomatic mission to establish new trade route
+4. **[[12_Research/D&D_References/The Deep Fugitive]]** - An escaped prisoner from [[12_Research/D&D_Statblocks/The Maw of Darkness]] is hiding here
 
 ## Random Encounters (d20)
 
 1-5: No encounter
-6-8: [[02_Worldbuilding/Places/Syndicate Enforcers]] shaking down merchant
-9-11: [[02_Worldbuilding/Places/Surface Traders]] lost and confused
-12-13: [[02_Worldbuilding/Places/Depth Warden Patrol]] checking papers
-14-15: [[02_Worldbuilding/Places/Street Urchin Gang]] offers information
-16-17: [[02_Worldbuilding/Places/Pressure Suit Malfunction]] - someone needs help!
-18-19: [[02_Worldbuilding/Places/Black Market Deal]] going wrong
-20: [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] personally appears
+6-8: [[12_Research/D&D_References/Syndicate Enforcers]] shaking down merchant
+9-11: [[12_Research/D&D_References/Surface Traders]] lost and confused
+12-13: [[12_Research/D&D_Statblocks/Depth Warden Patrol]] checking papers
+14-15: [[12_Research/D&D_References/Street Urchin Gang]] offers information
+16-17: [[12_Research/D&D_References/Pressure Suit Malfunction]] - someone needs help!
+18-19: [[12_Research/D&D_References/Black Market Deal]] going wrong
+20: [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] personally appears
 
 ## Secrets
 
-- The Syndicate has a secret tunnel to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
-- [[02_Worldbuilding/People/The Barnacle]] is actually three gnomes in a diving suit
+- The Syndicate has a secret tunnel to [[Market_District|02 Worldbuilding/Places/Market District]]
+- [[12_Research/D&D_Statblocks/The Barnacle]] is actually three gnomes in a diving suit
 - The city was built on a sleeping titan
 - Portal Alpha can reach other planes, not just the surface
-- [[02_Worldbuilding/Places/Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] experiments on pressure adaptation
+- [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] experiments on pressure adaptation
 
 ## Historical Significance
 
@@ -145,9 +159,11 @@ Pearl Harbor City was the first successful surface-depth hybrid settlement, esta
 ## GM Notes
 
 ### Power Level
+
 Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontation.
 
 ### Themes
+
 - Cultural clash and adaptation
 - Trade and economics
 - Law vs. crime
@@ -155,7 +171,8 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 - Pressure (literal and figurative)
 
 ### Connections
-- Links to surface campaign through [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
+
+- Links to surface campaign through [[Market_District|02 Worldbuilding/Places/Market District]]
 - Gateway to deeper Aquathys adventures
 - Syndicate connections span both worlds
 - Diplomatic intrigue affects all levels
@@ -163,7 +180,7 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 ---
 
 *"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."* 
-- [[02_Worldbuilding/Places/Taverner Bubbles McGill]]
+- [[12_Research/D&D_References/Taverner Bubbles McGill]]
 
 ## Player-Facing Summary
 
@@ -185,32 +202,36 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Barnacle]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Black Market Deal]]
-- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]]
-- [[02_Worldbuilding/Places/Chef Gastropod]]
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Current Riders Guild]]
-- [[02_Worldbuilding/Places/Depth Warden Patrol]]
-- [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]
-- [[02_Worldbuilding/Places/Illyana Glowstream]]
-- [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
-- [[02_Worldbuilding/Places/Luminous Hollow]]
-- [[02_Worldbuilding/Places/Pressure Suit Malfunction]]
-- [[02_Worldbuilding/Places/Street Urchin Gang]]
-- [[02_Worldbuilding/Places/Surface Tensions]]
-- [[02_Worldbuilding/Places/Surface Traders]]
-- [[02_Worldbuilding/Places/The Banker Fish]]
-- [[02_Worldbuilding/Places/The Deep Fugitive]]
-- [[02_Worldbuilding/Quests/High Tidecaller Nerissa]]
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[12_Research/D&D_Statblocks/The Barnacle]]
+- [[12_Research/D&D_References/The Depth Wardens]]
+- [[12_Research/D&D_References/Azure Citadel]]
+- [[12_Research/D&D_References/Black Market Deal]]
+- [[12_Research/D&D_References/Captain Marlowe Tidecrest]]
+- [[12_Research/D&D_References/Chef Gastropod]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Current Riders Guild]]
+- [[12_Research/D&D_Statblocks/Depth Warden Patrol]]
+- [[12_Research/D&D_References/Engineer Prisma Depthwright]]
+- [[12_Research/D&D_References/Illyana Glowstream]]
+- [[12_Research/D&D_References/Lord Reginald Seaworthy]]
+- [[12_Research/D&D_Statblocks/Luminous Hollow]]
+- [[12_Research/D&D_References/Pressure Suit Malfunction]]
+- [[12_Research/D&D_References/Street Urchin Gang]]
+- [[12_Research/D&D_References/Surface Tensions]]
+- [[12_Research/D&D_References/Surface Traders]]
+- [[12_Research/D&D_References/The Banker Fish]]
+- [[12_Research/D&D_References/The Deep Fugitive]]
+- [[12_Research/D&D_Statblocks/High Tidecaller Nerissa]]
+- [[12_Research/D&D_Statblocks/The Lock Saboteur]]
+- [[12_Research/D&D_Statblocks/The Maw of Darkness]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

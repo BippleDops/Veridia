@@ -52,7 +52,7 @@ Vizeran's tower is a enormous stalagmite, carved with a spiraling series of cham
 > - **Level 6** is Vizeran's sanctum at the tower's peak, where he spends his time in contemplation and study.  
 ^416
 
-The sanctum features a permanent [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] that Vizeran can use to return to his home if his need is great. (He uses it only as a last resort, however, given the risks involved in teleporting in the Underdark; see "Faerzress" in chapter 2.) Vizeran doesn't reveal this circle's existence to outsiders unless absolutely necessary, and he never gives away its sigil sequence.
+The sanctum features a permanent [[teleportation-circle-xphb|teleportation circle]] that Vizeran can use to return to his home if his need is great. (He uses it only as a last resort, however, given the risks involved in teleporting in the Underdark; see "Faerzress" in chapter 2.) Vizeran doesn't reveal this circle's existence to outsiders unless absolutely necessary, and he never gives away its sigil sequence.
 
 > [!note] Vizeran's Tower: General Features
 > 
@@ -60,9 +60,9 @@ The sanctum features a permanent [[/03_Mechanics/CLI/spells/teleportation-circle
 > 
 > **Light.** The cavern outside the tower is dark, for the inhabitants of Araj require no light. Inside the tower, occasional *driftglobes* shed dim light, with the rest of the place in darkness.
 > 
-> **Guards and Wards.** The interior of the tower is under the effect of a permanent [[/03_Mechanics/CLI/spells/guards-and-wards-xphb|guards and wards]] spell to thwart intruders. Vizeran suspends the spell's effects for his guests, allowing them to enter unhindered, but those trying to sneak into the tower must deal with the spell's effects (see "Stealing into Araj"). Additionally, the tower is warded against scrying. Divination spells cast from outside cannot cross the tower's walls unless Vizeran allows it, and he immediately knows if the tower's wards thwart a divination spell.
+> **Guards and Wards.** The interior of the tower is under the effect of a permanent [[guards-and-wards-xphb|guards and wards]] spell to thwart intruders. Vizeran suspends the spell's effects for his guests, allowing them to enter unhindered, but those trying to sneak into the tower must deal with the spell's effects (see "Stealing into Araj"). Additionally, the tower is warded against scrying. Divination spells cast from outside cannot cross the tower's walls unless Vizeran allows it, and he immediately knows if the tower's wards thwart a divination spell.
 > 
-> **Levitation Shaft.** The central shaft of the tower has a permanent [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]] spell in effect, such that any creature that steps into the shaft (or that falls off the stairs) is suspended in midair. A creature that speaks the command word *aluhal'kafion* ("descend") drops 20 feet per round until it reaches the bottom of the shaft. If the word *ku'lam* ("rise") is spoken, a creature rises 20 feet per round until reaching the top level. Movement stops immediately if the creature says *ilkalik* ("halt"). While in the tower, Vizeran can deactivate or reactivate the levitation effect as an action.
+> **Levitation Shaft.** The central shaft of the tower has a permanent [[levitate-xphb|levitate]] spell in effect, such that any creature that steps into the shaft (or that falls off the stairs) is suspended in midair. A creature that speaks the command word *aluhal'kafion* ("descend") drops 20 feet per round until it reaches the bottom of the shaft. If the word *ku'lam* ("rise") is spoken, a creature rises 20 feet per round until reaching the top level. Movement stops immediately if the creature says *ilkalik* ("halt"). While in the tower, Vizeran can deactivate or reactivate the levitation effect as an action.
 ^vizerans-tower-general-features
 
 ## Meeting with Vizeran
@@ -95,15 +95,15 @@ Vizeran makes a powerful but dangerous ally. His plans and goals are entirely se
 [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran]] is an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] with the following statistical modifications:
 
 - Vizeran's alignment is neutral evil.  
-- Vizeran's fey ancestry gives him advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put him to sleep.  
-- Vizeran can innately cast the following spells, requiring no material components: [[/03_Mechanics/CLI/spells/dancing-lights-xphb|dancing lights]] at will, [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] once per day, [[/03_Mechanics/CLI/spells/faerie-fire-xphb|faerie fire]] once per day (spell save DC 15), and [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]] (self only) once per day.  
-- While in sunlight, Vizeran has disadvantage on attack rolls, as well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight.  
+- Vizeran's fey ancestry gives him advantage on saving throws against being [[conditions#Charmed|charmed]], and magic can't put him to sleep.  
+- Vizeran can innately cast the following spells, requiring no material components: [[dancing-lights-xphb|dancing lights]] at will, [[darkness-xphb|darkness]] once per day, [[faerie-fire-xphb|faerie fire]] once per day (spell save DC 15), and [[levitate-xphb|levitate]] (self only) once per day.  
+- While in sunlight, Vizeran has disadvantage on attack rolls, as well as on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.  
 
 ### Kleve
 
-Vizeran holds the control gem of a [[/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm|death slaad]] he calls "Kleve." The slaad serves as the archmage's bodyguard, and is close by at all times. Kleve can change its form to appear as any Small or Medium humanoid, sometimes taking on the appearance of a deep gnome servant or a drow assistant to Vizeran if it wants to blend in. It can also cast [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] to observe silently from hiding, and relies on its true form when it wants to intimidate other creatures. Although cruel by nature, Kleve takes no action to harm anyone without Vizeran's permission.
+Vizeran holds the control gem of a [[death-slaad-xmm|death slaad]] he calls "Kleve." The slaad serves as the archmage's bodyguard, and is close by at all times. Kleve can change its form to appear as any Small or Medium humanoid, sometimes taking on the appearance of a deep gnome servant or a drow assistant to Vizeran if it wants to blend in. It can also cast [[invisibility-xphb|invisibility]] to observe silently from hiding, and relies on its true form when it wants to intimidate other creatures. Although cruel by nature, Kleve takes no action to harm anyone without Vizeran's permission.
 
-Kleve's control gem is a smoky crystal that Vizeran wears on a chain around his neck, beneath his robes. As long as Vizeran possesses the gem, the death slaad must obey him and can't be [[/03_Mechanics/CLI/conditions#Charmed|charmed]].
+Kleve's control gem is a smoky crystal that Vizeran wears on a chain around his neck, beneath his robes. As long as Vizeran possesses the gem, the death slaad must obey him and can't be [[conditions#Charmed|charmed]].
 
 ### Grin Ousstyl
 
@@ -115,13 +115,13 @@ Grin is loyal to his master but not well suited to such a solitary existence. He
 
 No other living creatures dwell in Araj, but the tower features a number of magical inhabitants the adventurers might interact with.
 
-Each level of the tower has a permanent [[/03_Mechanics/CLI/spells/unseen-servant-xphb|unseen servant]] in effect to attend to Vizeran, Grin, and the archmage's guests. Two dozen decorative suits of armor are also on display throughout the tower, all of which are suits of [[/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm|animated armor]] that move and fight at Vizeran's command. Between one and three suits guard each room and corridor of the tower. If Vizeran is threatened, he uses them to run interference, buying him time to escape or counterattack.
+Each level of the tower has a permanent [[unseen-servant-xphb|unseen servant]] in effect to attend to Vizeran, Grin, and the archmage's guests. Two dozen decorative suits of armor are also on display throughout the tower, all of which are suits of [[animated-armor-xmm|animated armor]] that move and fight at Vizeran's command. Between one and three suits guard each room and corridor of the tower. If Vizeran is threatened, he uses them to run interference, buying him time to escape or counterattack.
 
-A character who pokes around the tower and succeeds on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check notes signs that other humanoid creatures were recently present in Araj, including discarded clothing, moldering foodstuffs, and chains and manacles embedded into the walls in some of the tower's rooms. Vizeran dismisses any questions about such matters, but Grin Ousstyl confides to the characters that Vizeran once kept bound minor demons and humanoid slaves in his service. Vizeran banished the demons with the arrival of the demon lords in the Underdark, fearing some hidden connection between the creatures of the Abyss. The slaves held by the drow archmage (most of them acquired from Gracklstugh) are all dead—either lost to madness and killed by Vizeran, or sacrificed as part of the preparations for the archmage's dark ritual. Grin Ousstyl doesn't speak directly of that latter fate, saying only that Vizeran's work can be hard on his assistants.
+A character who pokes around the tower and succeeds on a DC 15 Wisdom ([[skills#Perception|Perception]]) check notes signs that other humanoid creatures were recently present in Araj, including discarded clothing, moldering foodstuffs, and chains and manacles embedded into the walls in some of the tower's rooms. Vizeran dismisses any questions about such matters, but Grin Ousstyl confides to the characters that Vizeran once kept bound minor demons and humanoid slaves in his service. Vizeran banished the demons with the arrival of the demon lords in the Underdark, fearing some hidden connection between the creatures of the Abyss. The slaves held by the drow archmage (most of them acquired from Gracklstugh) are all dead—either lost to madness and killed by Vizeran, or sacrificed as part of the preparations for the archmage's dark ritual. Grin Ousstyl doesn't speak directly of that latter fate, saying only that Vizeran's work can be hard on his assistants.
 
 ## Vizeran's Scheme
 
-[[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] invites guests to settle into his study while [[/03_Mechanics/CLI/spells/unseen-servant-xphb|unseen servants]] bring trays of dried mushrooms, smoked rothé meat, and goblets of spicy liquor. The drow archmage takes a cup for himself and makes a point of drinking first, although he scoffs at any suggestion that he would try to poison his guests, given all the trouble he has taken to arrange their meeting.
+[[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] invites guests to settle into his study while [[unseen-servant-xphb|unseen servants]] bring trays of dried mushrooms, smoked rothé meat, and goblets of spicy liquor. The drow archmage takes a cup for himself and makes a point of drinking first, although he scoffs at any suggestion that he would try to poison his guests, given all the trouble he has taken to arrange their meeting.
 
 Within the safe haven of his tower, Vizeran continues the discussion he began with the characters back at Gravenhollow, speaking more on what he knows of the demon lords.
 
@@ -138,7 +138,7 @@ Vizeran answers questions from the characters as best he can, then makes his pro
 
 ### What Vizeran Knows
 
-The characters can learn the following information from Vizeran by asking the right questions; he doles out information sparingly, but a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check might yield additional information if the archmage becomes cagey:
+The characters can learn the following information from Vizeran by asking the right questions; he doles out information sparingly, but a successful DC 20 Wisdom ([[skills#Insight|Insight]]) check might yield additional information if the archmage becomes cagey:
 
 - Lolth is behind the plot to bring the demon lords to the Underdark through her manipulation of Gromph Baenre. The Spider Queen is using the drow as pawns in her schemes to dispose of her demonic rivals and seize power in the Abyss.  
 - The demon lords of the Abyss—along with many of their lesser servants and legions—have been set loose in the Underdark following Gromph's ritual.  
@@ -159,8 +159,8 @@ Vizeran wants desperately to destroy his old rival. But even more so, the archma
 
 [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] offers the adventurers his insight, his arcane power, and various magical resources that can help them deal with the demon lords. This includes the following benefits:
 
-- Vizeran offers each character a drow [[/03_Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota|piwafwi]] (see appendix B).  
-- Each character will be provided with an amulet that can be used one time as a [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|scroll of protection from fiends]].  
+- Vizeran offers each character a drow [[piwafwi-cloak-of-elvenkind-oota|piwafwi]] (see appendix B).  
+- Each character will be provided with an amulet that can be used one time as a [[scroll-of-protection-xdmg|scroll of protection from fiends]].  
 - Vizeran offers the use of Araj as a safe haven in the Underdark, as long as his alliance with the characters lasts. The archmage won't countenance an army being housed within his home, but he opens it to the adventurers and their allies as they need it.  
 - Most important of all, Vizeran can offer a plan to defeat the demon lords—but he needs the adventurers' help to make it happen (see "Vizeran's Plan").  
 
@@ -213,13 +213,13 @@ If the characters don't take warmly to Vizeran's initial offer, they might want 
 
 ### Wards
 
-Getting to the tower undetected is all but impossible. Vizeran knows whenever the secret door accessing the passage to Araj opens, by way of a permanent magical effect similar to a powerful [[/03_Mechanics/CLI/spells/alarm-xphb|alarm]] spell. Intruders also have to deal with the [[/03_Mechanics/CLI/spells/guards-and-wards-xphb|guards and wards]] spell active within the tower, which places [[/03_Mechanics/CLI/spells/arcane-lock-xphb|arcane lock]] spells on all the doors and sets [[/03_Mechanics/CLI/spells/web-xphb|web]] spells across the central shaft and stairways. Doors within the Tower of Vengeance (including the main door) have AC 16, 25 hit points, a damage threshold of 5, resistance to thunder damage, and immunity to poison and psychic damage.
+Getting to the tower undetected is all but impossible. Vizeran knows whenever the secret door accessing the passage to Araj opens, by way of a permanent magical effect similar to a powerful [[alarm-xphb|alarm]] spell. Intruders also have to deal with the [[guards-and-wards-xphb|guards and wards]] spell active within the tower, which places [[arcane-lock-xphb|arcane lock]] spells on all the doors and sets [[web-xphb|web]] spells across the central shaft and stairways. Doors within the Tower of Vengeance (including the main door) have AC 16, 25 hit points, a damage threshold of 5, resistance to thunder damage, and immunity to poison and psychic damage.
 
-A [[/03_Mechanics/CLI/spells/magic-mouth-xphb|magic mouth]] spell at the entrance to the tower activates when intruders try to open the door, shouting: "You dare to enter here unbidden? Flee for your lives now, while you still can!" Another [[/03_Mechanics/CLI/spells/magic-mouth-xphb|magic mouth]] placed outside Vizeran's sanctum repeatedly calls out: "Intruders! Beware!" when any intruder approaches within 20 feet of the sanctum door.
+A [[magic-mouth-xphb|magic mouth]] spell at the entrance to the tower activates when intruders try to open the door, shouting: "You dare to enter here unbidden? Flee for your lives now, while you still can!" Another [[magic-mouth-xphb|magic mouth]] placed outside Vizeran's sanctum repeatedly calls out: "Intruders! Beware!" when any intruder approaches within 20 feet of the sanctum door.
 
-The tower's twenty-four suits of [[/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm|animated armor]] attack anyone who enters Araj without Vizeran's permission, and continue attacking until they are destroyed or he calls them off. At the first sign of trouble, the [[/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm|death slaad]] Kleve stalks intruders invisibly and attempts to attack with surprise. If Kleve is reduced to half its hit points, it retreats to its master's side.
+The tower's twenty-four suits of [[animated-armor-xmm|animated armor]] attack anyone who enters Araj without Vizeran's permission, and continue attacking until they are destroyed or he calls them off. At the first sign of trouble, the [[death-slaad-xmm|death slaad]] Kleve stalks intruders invisibly and attempts to attack with surprise. If Kleve is reduced to half its hit points, it retreats to its master's side.
 
-Vizeran casts his protective spells before entering combat, along with [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] (renewing the death slaad's [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] as well if he has time). As a last-ditch escape, Vizeran casts [[/03_Mechanics/CLI/spells/time-stop-xphb|time stop]] and uses the opportunity to flee or make a risky [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] attempt to a bolt-hole shelter he has hidden in another Underdark location of your choice.
+Vizeran casts his protective spells before entering combat, along with [[invisibility-xphb|invisibility]] (renewing the death slaad's [[invisibility-xphb|invisibility]] as well if he has time). As a last-ditch escape, Vizeran casts [[time-stop-xphb|time stop]] and uses the opportunity to flee or make a risky [[teleport-xphb|teleport]] attempt to a bolt-hole shelter he has hidden in another Underdark location of your choice.
 
 In the event the characters have the opportunity to loot Araj, they find the items listed under "What Vizeran Offers," along with other treasure suitable for a foe of the archmage's power. See chapter 7, ""Treasure"," of the *Dungeon Master's Guide* for guidelines on creating Vizeran's treasury, keeping in mind that the wily drow has likely trapped his most powerful magic items. If he survives and escapes, Vizeran adds those who dare to threaten him and loot his home to the list of people who will suffer his revenge.
 

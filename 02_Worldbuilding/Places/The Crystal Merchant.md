@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-crystal-merchant-the-crystal-merchant.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-merchant-the-crystal-merchant.svg]]
 
 
 # The Crystal Merchant
@@ -163,7 +159,7 @@ Prism serves as both shop keeper and quest giver, providing magical items and in
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -175,6 +171,6 @@ Legends speak of The Crystal Merchant as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Crystal Merchant]]
+- [[The Crystal Merchant]]
 
 <!-- enriched: true -->

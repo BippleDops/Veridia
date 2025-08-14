@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
-
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Manta Ray]]
+- [[12_Research/D&D_References/Manta Ray]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[12_Research/D&D_References/Current Riders Guild]]

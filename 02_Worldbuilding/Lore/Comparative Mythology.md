@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -53,9 +49,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]

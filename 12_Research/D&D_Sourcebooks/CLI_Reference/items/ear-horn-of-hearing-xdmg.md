@@ -27,7 +27,7 @@ world: Both
 
 
 
-While held up to your ear, this horn suppresses the effects of the [[/03_Mechanics/CLI/conditions#Deafened|Deafened]] condition on you.
+While held up to your ear, this horn suppresses the effects of the [[conditions#Deafened|Deafened]] condition on you.
 
 *Source: Dungeon Master's Guide (2024) p. 256*
 

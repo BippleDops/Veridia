@@ -13,12 +13,8 @@ world: dual
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg)
-
+![[04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg]]
 
 
 ## Overview
@@ -47,10 +43,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Deserter's Tale]]
+- [[12_Research/D&D_References/The Deserter's Tale]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Deserter's Tale]]
-- [[02_Worldbuilding/Lore/Tide Turner's Trident]]
+- [[12_Research/D&D_References/The Deserter's Tale]]
+- [[12_Research/D&D_References/Tide Turner's Trident]]

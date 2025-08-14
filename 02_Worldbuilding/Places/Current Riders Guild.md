@@ -15,15 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg]]
 
 
 # Current Riders Guild
@@ -32,17 +25,17 @@ world: Both
 
 ## Physical Description & Atmosphere
 
-The Current Riders Guild headquarters rises from the [[02_Worldbuilding/Lore/The Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[02_Worldbuilding/Places/Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
+The Current Riders Guild headquarters rises from the [[The Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
 
-The main hall features a massive central pool connected to the open ocean via protected channels, allowing [[02_Worldbuilding/Places/Sea Horse]], [[02_Worldbuilding/Places/Dolphin]], and other aquatic mounts to enter directly. Carved [[02_Worldbuilding/Places/Pearlshell]] panels display the guild's motto in flowing Aquan script: *"Swift as the current, reliable as the tide."*
+The main hall features a massive central pool connected to the open ocean via protected channels, allowing [[Sea Horse]], [[Dolphin]], and other aquatic mounts to enter directly. Carved [[Pearlshell]] panels display the guild's motto in flowing Aquan script: *"Swift as the current, reliable as the tide."*
 
-The atmosphere buzzes with constant activity - riders checking in from distant deliveries, stable hands tending to mounts, and guild clerks coordinating complex delivery routes across the [[02_Worldbuilding/Places/Abyssal Territories]].
+The atmosphere buzzes with constant activity - riders checking in from distant deliveries, stable hands tending to mounts, and guild clerks coordinating complex delivery routes across the [[Abyssal Territories]].
 
 ## History & Significance
 
-Founded three centuries ago by the legendary [[02_Worldbuilding/Places/Tidal Runner Nerissa]], the Current Riders Guild emerged from the need for reliable communication across Aquabyssos's vast underwater territories. What began as a small collective of [[02_Worldbuilding/Places/Triton]] messengers has grown into the realm's most trusted courier service.
+Founded three centuries ago by the legendary [[Tidal Runner Nerissa]], the Current Riders Guild emerged from the need for reliable communication across Aquabyssos's vast underwater territories. What began as a small collective of [[Triton]] messengers has grown into the realm's most trusted courier service.
 
-The guild played a crucial role during the [[02_Worldbuilding/Places/War of Crushing Depths]], maintaining communication lines between allied settlements despite enemy blockades. Their heroic delivery of crucial intelligence to [[02_Worldbuilding/Places/Fort Nautilus]] is credited with turning the tide of the war's final battle.
+The guild played a crucial role during the [[War of Crushing Depths]], maintaining communication lines between allied settlements despite enemy blockades. Their heroic delivery of crucial intelligence to [[Fort Nautilus]] is credited with turning the tide of the war's final battle.
 
 ## Current Leadership & Inhabitants
 
@@ -74,22 +67,22 @@ The guild played a crucial role during the [[02_Worldbuilding/Places/War of Crus
 - **Trident.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands.
 
 ### Notable Staff
-- **[[02_Worldbuilding/Places/Marina Swiftfin]]** - Deputy Guildmaster and Route Coordinator
-- **[[02_Worldbuilding/Places/Keeper Brinescale]]** - Master of Mounts and Stable Operations  
-- **[[02_Worldbuilding/Places/Courier Pelagic]]** - Senior Rider specializing in dangerous deliveries
-- **[[02_Worldbuilding/Places/Navigator Depthseer]]** - Expedition planner for deep-ocean routes
+- **[[Marina Swiftfin]]** - Deputy Guildmaster and Route Coordinator
+- **[[Keeper Brinescale]]** - Master of Mounts and Stable Operations  
+- **[[Courier Pelagic]]** - Senior Rider specializing in dangerous deliveries
+- **[[Navigator Depthseer]]** - Expedition planner for deep-ocean routes
 
 ## Notable Features & Services
 
 ### The Great Tide Pool
-A massive circular pool at the guild's heart, magically connected to major waterways across [[02_Worldbuilding/Places/Aquabyssos]]. Serves as both mount stable and rapid-transit hub for urgent deliveries.
+A massive circular pool at the guild's heart, magically connected to major waterways across [[Aquabyssos]]. Serves as both mount stable and rapid-transit hub for urgent deliveries.
 
 ### Mount Breeding Facilities
 The guild maintains extensive breeding programs for:
-- **[[02_Worldbuilding/Places/Giant Sea Horse]]** - Standard courier mounts
-- **[[02_Worldbuilding/Places/Reef Shark]]** - For dangerous territory navigation
-- **[[02_Worldbuilding/Places/Manta Ray]]** - Long-distance cargo transport
-- **[[02_Worldbuilding/Places/Electric Eel]]** - Specialized defense and combat support
+- **[[Giant Sea Horse]]** - Standard courier mounts
+- **[[Reef Shark]]** - For dangerous territory navigation
+- **[[Manta Ray]]** - Long-distance cargo transport
+- **[[Electric Eel]]** - Specialized defense and combat support
 
 ### Services Offered
 - **Standard Delivery** - 5 gp per 100 miles
@@ -101,13 +94,13 @@ The guild maintains extensive breeding programs for:
 ## Adventure Hooks & Encounters
 
 ### The Missing Courier (Level 3-5)
-[[02_Worldbuilding/Places/Courier Ripplestone]] vanished while delivering sensitive documents to [[02_Worldbuilding/Places/Port Abyssos]]. Investigation reveals signs of [[02_Worldbuilding/Places/Sahuagin]] ambush near the [[02_Worldbuilding/Places/Kelp Maze]]. The documents contain intelligence about [[02_Worldbuilding/Places/Coral Throne Syndicate]] operations.
+[[Courier Ripplestone]] vanished while delivering sensitive documents to [[Port Abyssos]]. Investigation reveals signs of [[Sahuagin]] ambush near the [[Kelp Maze]]. The documents contain intelligence about [[Coral Throne Syndicate]] operations.
 
 ### The Sabotaged Race (Level 5-7)
-During the annual [[02_Worldbuilding/Places/Pelagic Cup]] racing competition, several guild mounts fall ill with mysterious symptoms. Players must investigate potential sabotage by rival courier services or uncover connections to [[02_Worldbuilding/Places/The Depth Plague]].
+During the annual [[Pelagic Cup]] racing competition, several guild mounts fall ill with mysterious symptoms. Players must investigate potential sabotage by rival courier services or uncover connections to [[The Depth Plague]].
 
 ### Diplomatic Emergency (Level 7-9)
-War threatens between [[02_Worldbuilding/Places/Triton]] city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [[02_Worldbuilding/Places/Deep Ones]] and deliver peace negotiations to [[02_Worldbuilding/Places/The Sunken Senate]].
+War threatens between [[Triton]] city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [[Deep Ones]] and deliver peace negotiations to [[The Sunken Senate]].
 
 ## D&D 5e Mechanics
 
@@ -131,15 +124,15 @@ Characters who join the Current Riders Guild (requires proficiency in Animal Han
 - **Emergency Beacons** - Magical sending stones for distress calls
 
 ## Connected Locations
-The Current Riders Guild maintains outposts in [[02_Worldbuilding/Places/Port Abyssos]], [[02_Worldbuilding/Places/The Twilight Gardens]], [[02_Worldbuilding/Places/Fort Nautilus]], and [[02_Worldbuilding/Places/The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos.
+The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight Gardens]], [[Fort Nautilus]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Coral Throne Syndicate]]
+- [[Pearl_Harbor_City]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Rescue Senator Glaucus]]
 
 
 ## Overview
@@ -197,7 +190,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[The Depth Plague]]

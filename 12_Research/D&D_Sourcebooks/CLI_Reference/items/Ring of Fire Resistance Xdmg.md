@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-resistance.webp#right)
 
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to fire damage while wearing this ring. The ring is set with garnet.
+You have [[resistance-xphb|Resistance]] to fire damage while wearing this ring. The ring is set with garnet.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

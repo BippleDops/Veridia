@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Intelligence Network
 headquarters: '[[The Shadowmeld Sanctum]]'
 influence: Citywide (Information networks throughout Aquabyssos)
-leader: '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]]'
+leader: '[[Shadow Nyx]]'
 members: ~300 operatives and informants
 obsidianUIMode: preview
 status: complete
@@ -29,18 +29,15 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-nyx-shadow-nyx.svg)
-
-
 
 
 # The Shadow Network
 *Eyes in Every Corner, The Information Web, Whispers in the Dark*
 
 ## Organization Overview and Purpose
-The Shadow Network represents the most sophisticated intelligence gathering operation in [[02_Worldbuilding/Places/Aquabyssos]], specializing in the collection, analysis, and strategic deployment of information that influences political, economic, and social developments throughout the underwater realm. Under the enigmatic leadership of Shadow Nyx, the Network has evolved from a small group of shadow-touched informants into a comprehensive intelligence organization that maintains surveillance operations, conducts espionage missions, and provides information services to clients ranging from government officials to criminal organizations.
+The Shadow Network represents the most sophisticated intelligence gathering operation in [[Aquabyssos]], specializing in the collection, analysis, and strategic deployment of information that influences political, economic, and social developments throughout the underwater realm. Under the enigmatic leadership of Shadow Nyx, the Network has evolved from a small group of shadow-touched informants into a comprehensive intelligence organization that maintains surveillance operations, conducts espionage missions, and provides information services to clients ranging from government officials to criminal organizations.
 
 The Network operates through a decentralized cell structure that ensures operational security while enabling comprehensive coverage of Aquabyssos society. Members include shadow-touched operatives who can access normally inaccessible locations, conventional spies who blend into everyday society, technical specialists who intercept communications and documents, and analysts who transform raw information into actionable intelligence. The organization's shadow-touched capabilities provide unique advantages in stealth, infiltration, and information gathering that conventional intelligence operations cannot match.
 
@@ -254,7 +251,7 @@ A former Network operative has gone rogue and is selling sensitive intelligence 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -278,4 +275,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Nyx|02 Worldbuilding/Groups/Shadow Nyx]]
+- [[Shadow Nyx|02 Worldbuilding/Groups/Shadow Nyx]]

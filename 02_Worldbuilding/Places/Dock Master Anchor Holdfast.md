@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-dock-master-anchor-holdfast-dock-master-anchor-holdfast.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-dock-master-anchor-holdfast-dock-master-anchor-holdfast.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dock Master Anchor Holdfast]]
+- [[Dock Master Anchor Holdfast]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]

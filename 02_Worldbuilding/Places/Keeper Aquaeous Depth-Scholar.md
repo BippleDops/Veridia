@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-aquaeous-depth-scholar-keeper-aquaeous-depth-scholar.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-aquaeous-depth-scholar-keeper-aquaeous-depth-scholar.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]]
+- [[12_Research/D&D_References/Keeper Aquaeous Depth-Scholar]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

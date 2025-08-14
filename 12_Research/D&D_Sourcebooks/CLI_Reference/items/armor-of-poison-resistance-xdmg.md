@@ -39,7 +39,7 @@ world: Both
 
 
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to poison damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to poison damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Poison Resistance](#Breastplate%20of%20Poison%20Resistance)

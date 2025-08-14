@@ -15,14 +15,12 @@ world: Both
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-law-enforcement-law-enforcement.svg)
-
-
+![[04_Resources/Assets/Locations/location-city-law-enforcement-law-enforcement.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[12_Research/D&D_References/Purist Coalition Thugs]]
 
 ## Player-Facing Summary
 

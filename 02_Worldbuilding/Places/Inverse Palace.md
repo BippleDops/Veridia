@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
-
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inverse Palace]]
+- [[Inverse Palace]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Temporal Navigation]]

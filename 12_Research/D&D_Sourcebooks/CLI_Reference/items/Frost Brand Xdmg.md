@@ -32,9 +32,9 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/frost-brand.webp#right)
 
 
-When you hit with an attack roll using this magic weapon, the target takes an extra `d6` Cold damage. In addition, while you hold the weapon, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Fire damage.
+When you hit with an attack roll using this magic weapon, the target takes an extra `d6` Cold damage. In addition, while you hold the weapon, you have [[resistance-xphb|Resistance]] to Fire damage.
 
-In freezing temperatures, the weapon sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 10 feet.
+In freezing temperatures, the weapon sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet.
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of yourself. Once used, this property can't be used again for 1 hour.
 
@@ -49,13 +49,13 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 ## Frost Brand Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Frost Brand Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Frost Brand Longsword
@@ -63,25 +63,25 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Frost Brand Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Frost Brand Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Frost Brand Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

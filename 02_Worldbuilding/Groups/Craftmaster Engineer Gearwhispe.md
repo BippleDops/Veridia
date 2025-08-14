@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-craftmaster-engineer-gearwhispe-craftmaster-engineer-gearwhispe.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-craftmaster-engineer-gearwhispe-craftmaster-engineer-gearwhispe.svg]]
 
 
 ## Overview

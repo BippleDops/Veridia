@@ -1,9 +1,9 @@
 ---
-affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing'
+affiliation: '[[Purist Coalition]] - Military Wing'
 age: '43'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+location: '[[The Verdant Reach]] - Coalition Military Base'
 race: Human
 role: Military Commander
 status: complete
@@ -22,18 +22,15 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg]]
 
 
 # Commander Thrace Ironwood
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
 
 ## Overview
-Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Groups/Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
+Commander Thrace Ironwood leads the military wing of the [[Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
 
 ## Description
 - **Appearance**: Scarred, weathered man with steel-gray hair and haunted blue eyes
@@ -60,7 +57,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 ### The Conversion
 - Resigned from Crystal Wardens immediately after incident
 - Spent months in isolation, consumed by guilt and rage
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] found him and offered purpose
+- [[High Inquisitor Maltheos]] found him and offered purpose
 - Joined Coalition believing only total crystal destruction could prevent recurrence
 - Rose quickly through Coalition ranks due to military expertise
 
@@ -96,17 +93,17 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 
 ## Relationships
 ### Coalition Leadership
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
-- **[[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]**: Respects his supernatural resilience
-- **[[02_Worldbuilding/People/Brother Marcus Steelbane]]**: Growing concern about his wavering commitment
+- **[[High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
+- **[[Brother Matthias the Amber Bearer]]**: Respects his supernatural resilience
+- **[[Brother Marcus Steelbane]]**: Growing concern about his wavering commitment
 - **Coalition Moderates**: Tensions over increasingly violent methods
 - **Purifier Corps**: Complete devotion from soldiers under his command
 
 ### External Relations
 - **Former Crystal Warden Colleagues**: Complex mix of guilt, anger, and residual affection
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
+- **[[Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
 - **Crystal Industry Leaders**: Prime targets for assassination or capture
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Strategic enemy controlling crystal trade
+- **[[Silverscale Consortium]]**: Strategic enemy controlling crystal trade
 - **Coalition Sympathizers**: Network of supporters providing intelligence and resources
 
 ## Personal Struggles
@@ -182,7 +179,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 - Ultimately becomes the tyrannical leader he once opposed
 
 ## Connected Elements
-- Central military figure for [[02_Worldbuilding/Groups/Purist Coalition]] storylines
+- Central military figure for [[Purist Coalition]] storylines
 - Links Crystal Warden organization to Coalition through personal history
 - Represents themes of trauma, revenge, and political extremism
 - Key figure in Coalition's evolution from protesters to paramilitary force
@@ -255,7 +252,7 @@ Thrace can take 3 legendary actions, choosing from the options below. Only one l
 **Command (Costs 2 Actions).** Thrace casts a spell of 2nd level or lower, or uses Inspiring Command if available.
 
 ### Lair Actions
-When encountered at a [[02_Worldbuilding/Groups/Purist Coalition]] stronghold or during a major military operation, Thrace can take lair actions on initiative count 20:
+When encountered at a [[Purist Coalition]] stronghold or during a major military operation, Thrace can take lair actions on initiative count 20:
 
 **Coordinated Strike.** All Coalition forces in the area can immediately make one weapon attack against enemies within range.
 
@@ -284,7 +281,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 - **Emergency Response**: Crisis management for supernatural disasters
 
 ### The Corruption Incident - Full Account
-**Location**: [[02_Worldbuilding/Places/The Whispering Caverns]] - Experimental research facility
+**Location**: [[The Whispering Caverns]] - Experimental research facility
 **Date**: Three years ago, during routine inspection patrol
 **Discovery**: Illegal experiments combining crystal technology with shadow magic
 **Catastrophic Failure**: Containment breach released waves of corrupting energy
@@ -325,14 +322,14 @@ Thrace's former Crystal Warden unit before the corruption incident:
 ## Current Operations & Strategic Plans
 
 ### Operation Cleansing Storm
-**Objective**: Simultaneous attacks on 12 major crystal facilities across [[02_Worldbuilding/Places/Aethermoor]]
-**Timeline**: Planned for [[02_Worldbuilding/Lore/Crystal Festival]] when security will be focused on celebrations
+**Objective**: Simultaneous attacks on 12 major crystal facilities across [[Aethermoor]]
+**Timeline**: Planned for [[Crystal Festival]] when security will be focused on celebrations
 **Forces**: 1,200 Purifier Corps troops plus 300 civilian sympathizers
 **Targets**: 
-- **[[02_Worldbuilding/Lore/Central Crystal Processing Plant]]**: Primary industrial facility
-- **[[02_Worldbuilding/Lore/Royal Crystal Laboratory]]**: Government research center
-- **[[02_Worldbuilding/Groups/Academy of Crystalline Art|02 Worldbuilding/Groups/Academy Of Crystalline Art]]**: Educational institution training crystal mages
-- **[[02_Worldbuilding/Lore/Silverscale Crystal Warehouses]]**: Corporate storage and distribution centers
+- **[[Central Crystal Processing Plant]]**: Primary industrial facility
+- **[[Royal Crystal Laboratory]]**: Government research center
+- **[[Academy of Crystalline Art|02 Worldbuilding/Groups/Academy Of Crystalline Art]]**: Educational institution training crystal mages
+- **[[Silverscale Crystal Warehouses]]**: Corporate storage and distribution centers
 
 ### The Warden Recruitment
 **Goal**: Convert former Crystal Warden colleagues to Coalition cause
@@ -343,7 +340,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 - **Protection Offers**: Guaranteeing safety for families of defectors
 
 ### Defensive Preparations
-**The Pure Sanctuary**: Fortified territory in [[02_Worldbuilding/Places/The Verdant Reach]]
+**The Pure Sanctuary**: Fortified territory in [[The Verdant Reach]]
 - **Crystal-Free Zone**: All crystal technology banned within 50-mile radius
 - **Early Warning Network**: Scouts monitoring for crystal-powered threats
 - **Refugee Centers**: Safe havens for crystal corruption victims
@@ -351,7 +348,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 
 ### Intelligence Operations
 **The Truth Seekers**: Coalition intelligence network gathering evidence of:
-- **Corporate Cover-ups**: [[02_Worldbuilding/Groups/Silverscale Consortium]] hiding corruption incidents
+- **Corporate Cover-ups**: [[Silverscale Consortium]] hiding corruption incidents
 - **Government Corruption**: Officials taking bribes to ignore crystal dangers
 - **Research Violations**: Illegal experiments with dangerous crystal applications
 - **International Threats**: Foreign powers using crystal technology as weapons
@@ -374,7 +371,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 **Identity Crisis**: Questions whether he's become the monster he fights against
 **Legacy Fears**: Worried that history will remember him as a terrorist rather than hero
 
-### Relationship with [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+### Relationship with [[High Inquisitor Maltheos]]
 **Mentor Dependency**: Views Maltheos as father figure who saved him from despair
 **Absolute Loyalty**: Would follow Maltheos into any battle without question
 **Philosophical Agreement**: Shares belief that all crystal technology must be destroyed
@@ -393,14 +390,14 @@ Thrace's former Crystal Warden unit before the corruption incident:
 **Crystal Warden Families**: Mixed reactions from families of his former colleagues
 
 ### Government Relations
-**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Views him as dangerous terrorist threat
-**[[02_Worldbuilding/Lore/Minister of Defense]]**: Considers Coalition military capabilities with growing concern
+**[[Queen Seraphina Lumengarde]]**: Views him as dangerous terrorist threat
+**[[Minister of Defense]]**: Considers Coalition military capabilities with growing concern
 **Royal Intelligence**: Actively working to infiltrate and undermine Coalition operations
 **Local Governors**: Torn between fear of Coalition and sympathy for anti-corruption message
 
 ### Corporate Opposition
-**[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Primary enemy, symbol of crystal exploitation
-**[[02_Worldbuilding/People/Lady Jade Clawgrip]]**: Represents everything he despises about crystal commerce
+**[[Silverscale Consortium]]**: Primary enemy, symbol of crystal exploitation
+**[[Lady Jade Clawgrip]]**: Represents everything he despises about crystal commerce
 **Industrial Leaders**: Fear Coalition attacks will destroy their businesses
 **Corporate Security**: Hiring mercenaries to protect crystal facilities from raids
 
@@ -473,7 +470,7 @@ Thrace's former Crystal Warden commander requests a meeting to discuss peace ter
 - **Complications**: Both sides have extremists who want negotiations to fail violently
 
 ### 5. The Final Strike (Level 14-18)
-Thrace plans a massive assault on the [[02_Worldbuilding/Lore/Crystal Festival]] that could kill thousands. The party must choose to help, hinder, or redirect this climactic operation.
+Thrace plans a massive assault on the [[Crystal Festival]] that could kill thousands. The party must choose to help, hinder, or redirect this climactic operation.
 - **Rewards**: Massive reputation changes depending on choice, Access to crystal or anti-crystal technology
 - **Complications**: Success or failure will reshape the kingdom's political landscape
 
@@ -481,26 +478,26 @@ Thrace plans a massive assault on the [[02_Worldbuilding/Lore/Crystal Festival]]
 
 ## Connected Campaign Elements
 
-### Links to [[02_Worldbuilding/Groups/Purist Coalition]] Development
+### Links to [[Purist Coalition]] Development
 - His military leadership transformed Coalition from protesters to paramilitary force
 - Personal trauma drives increasingly extreme Coalition policies
 - Strategic planning makes Coalition credible threat to established order
 - Military discipline creates internal Coalition power structure
 
-### Integration with [[02_Worldbuilding/Lore/Crystal Technology]] Storylines
+### Integration with [[Crystal Technology]] Storylines
 - Deep knowledge of crystal systems allows him to exploit weaknesses
 - Former Warden status provides insider perspective on crystal industry
 - Anti-crystal weapons development threatens crystal-dependent economy
 - Personal vendetta against crystal technology drives larger conflicts
 
-### Connection to [[02_Worldbuilding/Places/Aethermoor]] Political Tensions
+### Connection to [[Aethermoor]] Political Tensions
 - Coalition military strength forces government to take defensive measures
 - His former Warden status creates divisions within security forces
 - Planned attacks threaten economic and political stability
 - International implications if Coalition actions affect foreign crystal trade
 
 ### Royal Court Implications
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] must balance security with avoiding authoritarian measures
+- [[Queen Seraphina Lumengarde]] must balance security with avoiding authoritarian measures
 - Coalition sympathizers within government create information security risks
 - Military response to Coalition could trigger civil war
 - Success could lead to overthrow of current political system
@@ -520,10 +517,10 @@ Thrace plans a massive assault on the [[02_Worldbuilding/Lore/Crystal Festival]]
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Establish the New Order]]
+- [[Quest - The Convergence Crisis]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -535,14 +532,14 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[Commander Thrace Ironwood]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[Purist Coalition]]
+- [[Silverscale Consortium]]
+- [[Brother Marcus Steelbane]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Lady Jade Clawgrip]]
+- [[Queen Seraphina Lumengarde]]
+- [[Aethermoor]]
+- [[The Verdant Reach]]

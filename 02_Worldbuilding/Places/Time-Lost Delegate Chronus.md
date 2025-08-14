@@ -15,25 +15,22 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-time-lost-delegate-chronus-time-lost-delegate-chronus.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-time-lost-delegate-chronus-time-lost-delegate-chronus.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[The Lock Saboteur]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Recursion Oracle]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[The Recursion Oracle]]
+- [[Parliament of Echoes]]
+- [[Find the Grief Bomb]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 

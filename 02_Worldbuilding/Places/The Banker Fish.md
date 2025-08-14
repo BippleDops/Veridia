@@ -24,9 +24,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg]]
 
 
 # The Aquatic Bank - Underwater Financial Institution
@@ -364,7 +362,7 @@ The Aquatic Bank connects to numerous important elements throughout Aquabyssos a
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -386,6 +384,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Banker Fish]]
+- [[The Banker Fish]]
 
 <!-- enriched: true -->

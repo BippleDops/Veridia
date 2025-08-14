@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-abishai-mpmm-green-abishai-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/green-abishai-mpmm|Green Abishai]]
+# [[green-abishai-mpmm|Green Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -64,23 +64,23 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "intelligence": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the abishai's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -92,17 +92,17 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) force damage. If the target is a creature, it must succeed on a\
       \ DC 16 Constitution saving throw or take 16 (3d10) poison damage and become\
-      \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for 1 minute. The [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
+      \ [[conditions#Poisoned|poisoned]] for 1 minute. The [[conditions#Poisoned|poisoned]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/alter-self-xphb|alter self]], [[/03_Mechanics/CLI/spells/major-image-xphb|major\
-      \ image]]\n\n3/day each: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm\
-      \ person]], [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]],\
-      \ [[/03_Mechanics/CLI/spells/fear-xphb|fear]]\n\n1/day each: [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]],\
-      \ [[/03_Mechanics/CLI/spells/dominate-person-xphb|dominate person]], [[/03_Mechanics/CLI/spells/mass-suggestion-xphb|mass\
+      \nAt will: [[alter-self-xphb|alter self]], [[major-image-xphb|major\
+      \ image]]\n\n3/day each: [[charm-person-xphb|charm\
+      \ person]], [[detect-thoughts-xphb|detect thoughts]],\
+      \ [[fear-xphb|fear]]\n\n1/day each: [[confusion-xphb|confusion]],\
+      \ [[dominate-person-xphb|dominate person]], [[mass-suggestion-xphb|mass\
       \ suggestion]]"
     "name": "Spellcasting"
 "source":

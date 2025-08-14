@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-insect-xphb|Giant Insect]]
+# [[giant-insect-xphb|Giant Insect]]
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
@@ -61,7 +61,7 @@ world: Both
     "name": "Web Bolt (Spider Only)"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: Your spell save DC, one creature the insect\
-      \ can see within 10 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ can see within 10 feet. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":

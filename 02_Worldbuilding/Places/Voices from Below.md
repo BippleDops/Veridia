@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
 
 ## Player-Facing Summary
 

@@ -25,14 +25,14 @@ world: Both
 
 | dice: d8 | Object |
 |----------|--------|
-| 1 | [[/03_Mechanics/CLI/items/jeweled-gold-crown-xdmg|Jeweled gold crown]] |
-| 2 | [[/03_Mechanics/CLI/items/jeweled-platinum-ring-xdmg|Jeweled platinum ring]] |
-| 3 | [[/03_Mechanics/CLI/items/gold-statuette-set-with-rubies-xdmg|Small gold statuette set with rubies]] |
-| 4 | [[/03_Mechanics/CLI/items/gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]] |
-| 5 | [[/03_Mechanics/CLI/items/gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]] |
-| 6 | [[/03_Mechanics/CLI/items/set-of-gold-nesting-dolls-xdmg|Painted gold child's sarcophagus]] |
-| 7 | [[/03_Mechanics/CLI/items/jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with solid gold playing pieces]] |
-| 8 | [[/03_Mechanics/CLI/items/bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]] |
+| 1 | [[jeweled-gold-crown-xdmg|Jeweled gold crown]] |
+| 2 | [[jeweled-platinum-ring-xdmg|Jeweled platinum ring]] |
+| 3 | [[gold-statuette-set-with-rubies-xdmg|Small gold statuette set with rubies]] |
+| 4 | [[gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]] |
+| 5 | [[gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]] |
+| 6 | [[set-of-gold-nesting-dolls-xdmg|Painted gold child's sarcophagus]] |
+| 7 | [[jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with solid gold playing pieces]] |
+| 8 | [[bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]] |
 ^7500-gp-art-objects
 
 ## Player-Facing Summary

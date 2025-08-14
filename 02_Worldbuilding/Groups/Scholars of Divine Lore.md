@@ -21,8 +21,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg]]
 
 
 # Scholars of Divine Lore
@@ -442,15 +441,15 @@ Official agencies see the Scholars as:
 ## Cross-References
 
 - [[Complete Deep Mother Subsystem]]
-- [[02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[02_Worldbuilding/Items/Forbidden Tomes of Deep Mother]]
-- [[03_Mechanics/Deep Mother Sanity System]]
-- [[02_Worldbuilding/Places/Reality Breach Locations]]
-- [[02_Worldbuilding/Groups/Orders/Order of the Silver Anchor]]
+- [[Deep Mother Lore]]
+- [[Forbidden Tomes of Deep Mother]]
+- [[Deep Mother Sanity System]]
+- [[Reality Breach Locations]]
+- [[Order of the Silver Anchor]]
 - [[Academy of Deep Understanding]]
 - [[Crystal Guardian Orders]]
 - [[Chief Scholar Meridian Deepcurrent]]
-- [[02_Worldbuilding/Lore/Reality Anchors]]
+- [[Reality Anchors]]
 
 ## Player-Facing Summary
 

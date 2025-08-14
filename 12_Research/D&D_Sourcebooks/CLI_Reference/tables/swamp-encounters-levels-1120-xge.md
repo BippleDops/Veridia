@@ -25,23 +25,23 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | `d4` [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|giant crocodiles]] |
+| 01-10 | `d4` [[giant-crocodile-xmm|giant crocodiles]] |
 | 11-15 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
-| 16-20 | `1d6 + 1` [[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm|green hags]] |
+| 16-20 | `1d6 + 1` [[green-hag-xmm|green hags]] |
 | 21-25 | A large, spreading tree from which `2d6` armored knights hang by the neck |
-| 26-30 | `2d4` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
+| 26-30 | `2d4` [[wight-xmm|wights]] |
 | 31-35 | `1d8 + 1` yuan-ti malisons: [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
 | 36-40 | Fog that rolls across the terrain, making the area within `d3` miles heavily obscured for `d4` hours |
-| 41-45 | `d4` [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenants]] |
-| 46-50 | `d6` [[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm|shambling mounds]] |
-| 51-55 | `d10` [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elementals]] |
-| 56-60 | `d4` [[/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm|young black dragons]] |
+| 41-45 | `d4` [[revenant-xmm|revenants]] |
+| 46-50 | `d6` [[shambling-mound-xmm|shambling mounds]] |
+| 51-55 | `d10` [[water-elemental-xmm|water elementals]] |
+| 56-60 | `d4` [[young-black-dragon-xmm|young black dragons]] |
 | 61-65 | An eerie, bat-headed idol almost completely covered by vines |
-| 66-70 | `1d8 + 2` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
-| 71-75 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|hydras]] |
+| 66-70 | `1d8 + 2` [[troll-xmm|trolls]] |
+| 71-75 | `d3` [[hydra-xmm|hydras]] |
 | 76-80 | The sound of drums beating several miles away |
-| 81-96 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm|adult black dragon]] |
-| 97-00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm|ancient black dragon]] |
+| 81-96 | 1 [[adult-black-dragon-xmm|adult black dragon]] |
+| 97-00 | 1 [[ancient-black-dragon-xmm|ancient black dragon]] |
 ^swamp-encounters-levels-1120
 
 ## Player-Facing Summary

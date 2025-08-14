@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord General Harrison Ironhold]]
+- [[Lord General Harrison Ironhold]]
 
 <!-- enriched: true -->

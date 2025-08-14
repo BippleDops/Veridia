@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,10 +41,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-exotic-emporium-the-exotic-emporium.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-exotic-emporium-the-exotic-emporium.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Exotic Emporium]]
+- [[12_Research/D&D_References/The Exotic Emporium]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[12_Research/D&D_References/Port Meridian]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]

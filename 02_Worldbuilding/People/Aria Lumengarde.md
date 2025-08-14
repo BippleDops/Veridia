@@ -14,29 +14,26 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-aria-lumengarde-aria-lumengarde.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-aria-lumengarde-aria-lumengarde.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[The Seven Shards]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
-- [[02_Worldbuilding/People/Knight]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Quest - The Pretender]]
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[Establish the New Order]]
+- [[The Seven Shards]]
+- [[Captain Thaddeus Blackwater]]
+- [[Knight]]
+- [[Lord Aurelius Goldwave]]
+- [[Prince Caspian Duskwater]]
+- [[Queen Seraphina Lumengarde]]
+- [[Quest - The Pretender]]
+- [[The Verdant Reach]]
 
 ## Player-Facing Summary
 

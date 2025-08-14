@@ -40,13 +40,13 @@ world: Both
 
 You touch a creature and magically remove one of the following effects from it:
 
-- 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] level  
-- The [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] or [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] condition  
-- A curse, including the target's [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] to a cursed magic item  
+- 1 [[conditions#Exhaustion|Exhaustion]] level  
+- The [[conditions#Charmed|Charmed]] or [[conditions#Petrified|Petrified]] condition  
+- A curse, including the target's [[attunement-xphb|Attunement]] to a cursed magic item  
 - Any reduction to one of the target's ability scores  
-- Any reduction to the target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum  
+- Any reduction to the target's [[hit-points-xphb|Hit Point]] maximum  
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Celestial Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Clockwork Sorcery)]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

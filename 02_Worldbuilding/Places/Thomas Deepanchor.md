@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-thomas-deepanchor-thomas-deepanchor.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-thomas-deepanchor-thomas-deepanchor.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Thomas Deepanchor]]
+- [[Thomas Deepanchor]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]

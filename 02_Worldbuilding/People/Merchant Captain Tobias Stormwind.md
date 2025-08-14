@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[The Whispering Peaks]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[The Whispering Peaks]]
 
 ## Player-Facing Summary
 

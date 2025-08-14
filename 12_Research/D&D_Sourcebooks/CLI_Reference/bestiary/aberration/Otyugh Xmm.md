@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otyugh-xmm-otyugh-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/otyugh-xmm|Otyugh]]
+# [[otyugh-xmm|Otyugh]]
 *Source: Monster Manual (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Otyugh
@@ -81,22 +81,22 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
   - "desc": "The otyugh makes one Bite attack and two Tentacle attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage,\
-      \ and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition. Whenever the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ target finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
+      \ and the target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition. Whenever the [[conditions#Poisoned|Poisoned]]\
+      \ target finishes a [[long-rest-xphb|Long Rest]],\
       \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-      \ Failure: The target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
-      \ maximum decreases by 5 (d10) and doesn't return to normal until the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition ends on the target. Success: The [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ Failure: The target's [[hit-points-xphb|Hit Point]]\
+      \ maximum decreases by 5 (d10) and doesn't return to normal until the [[conditions#Poisoned|Poisoned]]\
+      \ condition ends on the target. Success: The [[conditions#Poisoned|Poisoned]]\
       \ condition ends."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13) from one of two tentacles."
     "name": "Tentacle"
-  - "desc": "Constitution Saving Throw: DC 14, each creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+  - "desc": "Constitution Saving Throw: DC 14, each creature [[conditions#Grappled|Grappled]]\
       \ by the otyugh. Failure: 16 (3d8 + 3) Bludgeoning damage, and the target\
-      \ has the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition until\
+      \ has the [[conditions#Stunned|Stunned]] condition until\
       \ the start of the otyugh's next turn. Success: Half damage only."
     "name": "Tentacle Slam"
 "source":

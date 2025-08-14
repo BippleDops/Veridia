@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-hulk-mpmm-star-spawn-hulk-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/star-spawn-hulk-mpmm|Star Spawn Hulk]]
+# [[star-spawn-hulk-mpmm|Star Spawn Hulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
@@ -75,10 +75,10 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "dexterity": !!int "3"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech"
 "cr": "10"
@@ -90,7 +90,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
   - "desc": "The hulk makes two Slam attacks. If both attacks hit the same target,\
       \ the target also takes 9 (2d8) psychic damage and must succeed on a DC 17 Constitution\
-      \ saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] until\
+      \ saving throw or be [[conditions#Stunned|stunned]] until\
       \ the end of the target's next turn."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14\
@@ -98,7 +98,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The hulk makes a separate Slam attack against each creature within 10\
       \ feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity\
-      \ saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Reaping Arms (Recharge 5-6)"
 "source":
   - "MPMM"

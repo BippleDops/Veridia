@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memorial Wall of Names]]
+- [[Memorial Wall of Names]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The First Failure]]
+- [[The First Failure]]

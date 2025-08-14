@@ -20,10 +20,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg]]
 
 
 # Memory Meadows Black Market
@@ -152,9 +149,9 @@ This market explores themes of identity, the value of experience, and the ethics
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Memory Farmer Thane]]
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Memory Farmer Thane]]
+- [[Diplomatic Tides]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 
@@ -197,6 +194,6 @@ Legends speak of Memory Meadows Black Market as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- [[Memory Meadows Black Market]]
 
 <!-- enriched: true -->

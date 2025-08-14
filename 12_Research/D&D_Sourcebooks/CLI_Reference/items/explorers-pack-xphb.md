@@ -20,7 +20,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png)
+![[04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png]]
 
 # Explorer's Pack
 *Adventuring gear*  
@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 55.0 lbs.
 
-An Explorer's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], 2 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 10 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/rope-xphb|Rope]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]], 10 [[/03_Mechanics/CLI/items/torch-xphb|Torches]], and [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]].
+An Explorer's Pack contains the following items: [[backpack-xphb|Backpack]], [[bedroll-xphb|Bedroll]], 2 flasks of [[oil-xphb|Oil]], 10 days of [[rations-xphb|Rations]], [[rope-xphb|Rope]], [[tinderbox-xphb|Tinderbox]], 10 [[torch-xphb|Torches]], and [[waterskin-xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-inquisitor-mordecai-truthseeker-inquisitor-mordecai-truthseeker.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-inquisitor-mordecai-truthseeker-inquisitor-mordecai-truthseeker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
 
 ## Player-Facing Summary
 

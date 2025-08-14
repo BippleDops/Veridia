@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-water-xphb-elemental-spirit-water-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-water-xphb|Elemental Spirit (Water)]]
+# [[elemental-spirit-water-xphb|Elemental Spirit (Water)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -47,9 +47,9 @@ world: Both
 "speed": "40 ft., swim 40 ft."
 "damage_resistances": "acid"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":

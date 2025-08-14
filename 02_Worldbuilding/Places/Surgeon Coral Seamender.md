@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surgeon Coral Seamender]]
+- [[12_Research/D&D_References/Surgeon Coral Seamender]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[12_Research/D&D_References/The Phosphor Markets]]

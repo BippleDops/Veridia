@@ -35,7 +35,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-meazel-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/meazel-mpmm|Meazel]]
+# [[meazel-mpmm|Meazel]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -62,9 +62,9 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common"
@@ -72,7 +72,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target of the meazel's\
       \ size or smaller. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is\
-      \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]] (escape DC 13 with disadvantage).\
+      \ [[conditions#Grappled|grappled]] (escape DC 13 with disadvantage).\
       \ Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at\
       \ the start of each of the meazel's turns. The meazel can't make weapon attacks\
       \ while grappling a creature in this way."
@@ -86,14 +86,14 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ The destination must be a place the meazel has seen before, but it need not\
       \ be within line of sight. If the destination space is occupied, the teleportation\
       \ leads to the nearest unoccupied space.\n\nAny other creature the meazel teleports\
-      \ becomes cursed for 1 hour or until the curse is ended by [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]]\
-      \ or [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]].\
+      \ becomes cursed for 1 hour or until the curse is ended by [[remove-curse-xphb|remove curse]]\
+      \ or [[greater-restoration-xphb|greater restoration]].\
       \ Until this curse ends, every Undead and every creature native to the Shadowfell\
       \ within 300 feet of the cursed creature can sense it, which prevents that creature\
       \ from hiding from them."
     "name": "Shadow Teleport (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the meazel takes the [[/03_Mechanics/CLI/actions#Hide|Hide]]\
+  - "desc": "While in dim light or darkness, the meazel takes the [[actions#Hide|Hide]]\
       \ action."
     "name": "Shadow Stealth"
 "source":

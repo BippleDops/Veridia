@@ -42,7 +42,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 ### Innate Spellcasting
 
-You know the [[/03_Mechanics/CLI/spells/poison-spray-xphb|poison spray]] cantrip. You can cast [[/03_Mechanics/CLI/spells/animal-friendship-xphb|animal friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[poison-spray-xphb|poison spray]] cantrip. You can cast [[animal-friendship-xphb|animal friendship]] an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [[suggestion-xphb|suggestion]] with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Magic Resistance
 
@@ -50,7 +50,7 @@ You have advantage on saving throws against spells and other magical effects.
 
 ### Poison Immunity
 
-You are immune to poison damage and the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] condition.
+You are immune to poison damage and the [[conditions#Poisoned|poisoned]] condition.
 
 ### Languages
 

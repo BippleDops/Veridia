@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-squid-xmm-giant-squid-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-squid-xmm|Giant Squid]]
+# [[giant-squid-xmm|Giant Squid]]
 *Source: Monster Manual (2024) p. 360*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Squid (XMM)"
@@ -56,7 +56,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "strength": !!int "9"
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": ""
@@ -70,16 +70,16 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 28 (4d10 + 6) Piercing damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 19 (3d8 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 16) from one of two tentacles, and the squid can pull\
       \ the target up to 10 feet straight toward itself."
     "name": "Tentacle"
 "reactions":
   - "desc": "Trigger: The squid takes damage while underwater. _Response:_ The squid\
-      \ releases ink that fills a 15-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
-      \ centered on itself, and the squid moves up to its [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]].\
-      \ The [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] is\
-      \ [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]]\
+      \ releases ink that fills a 15-foot [[cube-area-of-effect-xphb|Cube]]\
+      \ centered on itself, and the squid moves up to its [[swim-speed-xphb|Swim Speed]].\
+      \ The [[cube-area-of-effect-xphb|Cube]] is\
+      \ [[heavily-obscured-xphb|Heavily Obscured]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":

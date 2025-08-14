@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-government-leader-capable-government-leader-capable.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-government-leader-capable-government-leader-capable.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[12_Research/D&D_References/Royal Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[12_Research/D&D_References/Royal Palace]]
 
 ## Player-Facing Summary
 

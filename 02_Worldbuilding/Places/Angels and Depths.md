@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths.svg]]
 
 
 # Angels and Depths
@@ -36,11 +32,11 @@ world: Aquabyssos
 
 ## Overview
 
-The **Angels and Depths** stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most storied taverns, built into the carved remains of an ancient [[02_Worldbuilding/Lore/Leviathan]] skeleton that washed ashore centuries ago. Located in the [[02_Worldbuilding/Places/Port Quarter]], this establishment serves as neutral ground for [[02_Worldbuilding/Lore/Pirates]], [[02_Worldbuilding/Lore/Merfolk]] diplomats, and [[02_Worldbuilding/Groups/Cults_and_Movements/Deep Sea Cultists]] alike. The massive ribcage forms the main dining hall, while smaller chambers carved from vertebrae serve as private booths and guest rooms.
+The **Angels and Depths** stands as one of [[Aquabyssos]]'s most storied taverns, built into the carved remains of an ancient [[Leviathan]] skeleton that washed ashore centuries ago. Located in the [[Port Quarter]], this establishment serves as neutral ground for [[Pirates]], [[Merfolk]] diplomats, and [[Deep Sea Cultists]] alike. The massive ribcage forms the main dining hall, while smaller chambers carved from vertebrae serve as private booths and guest rooms.
 
 ## Atmosphere & Description
 
-The tavern's interior is a marvel of nautical architecture. Bioluminescent coral growths provide ethereal blue-green lighting, while the polished bone walls are adorned with salvaged treasures from countless shipwrecks. The air carries the perpetual scent of sea salt, aged rum, and the mysterious depths. At high tide, seawater laps at the lower windows, creating an otherworldly ambiance as [[02_Worldbuilding/Lore/Abyssal Fish]] swim past the glass.
+The tavern's interior is a marvel of nautical architecture. Bioluminescent coral growths provide ethereal blue-green lighting, while the polished bone walls are adorned with salvaged treasures from countless shipwrecks. The air carries the perpetual scent of sea salt, aged rum, and the mysterious depths. At high tide, seawater laps at the lower windows, creating an otherworldly ambiance as [[Abyssal Fish]] swim past the glass.
 
 The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from crystallized tentacles that pulses with faint magical energy. Local legend claims it grants prophetic dreams to those who sleep beneath it, though the visions often come with a price.
 
@@ -48,7 +44,7 @@ The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from cr
 
 ### Lodging
 - **Surface Rooms** (5 gp/night): Traditional chambers with standard amenities
-- **Tidal Pools** (8 gp/night): Partially flooded rooms preferred by [[02_Worldbuilding/Lore/Merfolk]] and [[02_Worldbuilding/Lore/Sea Elves]]
+- **Tidal Pools** (8 gp/night): Partially flooded rooms preferred by [[Merfolk]] and [[Sea Elves]]
 - **The Deep Suite** (20 gp/night): Luxurious underwater chamber accessible only at high tide
 
 ### Dining & Drink
@@ -58,10 +54,10 @@ The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from cr
 - **Depth Walker's Brew**: Grants water breathing for 30 minutes (50 gp)
 
 ### Special Services
-- **Message Delivery**: Via trained [[02_Worldbuilding/Lore/Giant Seahorses]] to underwater settlements
+- **Message Delivery**: Via trained [[Giant Seahorses]] to underwater settlements
 - **Equipment Rental**: Diving gear, water breathing apparatus, and submarine vessels
 - **Information Brokerage**: News from the seven seas and deeper realms
-- **Sanctuary**: Neutral ground protected by ancient [[02_Worldbuilding/Places/Sea Witch]] magic
+- **Sanctuary**: Neutral ground protected by ancient [[Sea Witch]] magic
 
 ## Notable NPCs
 
@@ -74,7 +70,7 @@ The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from cr
 - **Skills**: Intimidation +5, Perception +6, Insight +6
 - **Senses**: Blindsight 60 ft. (magical glass eye)
 
-Former pirate captain who lost her crew to the [[02_Worldbuilding/Lore/Abyssal Depths]]. Her replacement eye is a crystalline orb that can see through illusions and detect lies. She maintains the tavern's neutrality through a combination of respect, fear, and her network of contacts throughout [[02_Worldbuilding/Places/Aquabyssos]].
+Former pirate captain who lost her crew to the [[Abyssal Depths]]. Her replacement eye is a crystalline orb that can see through illusions and detect lies. She maintains the tavern's neutrality through a combination of respect, fear, and her network of contacts throughout [[Aquabyssos]].
 
 ### Thalassos the Tide-Speaker
 *Male Merfolk, Diplomatic Envoy*
@@ -95,20 +91,20 @@ Permanent resident who serves as unofficial ambassador between surface and deep-
 
 ## Plot Hooks
 
-1. **The Singing Bones**: The Leviathan skeleton has begun humming an ancient song that drives listeners to seek out the [[02_Worldbuilding/Places/Sunken Palace of Tides]]. Characters must discover why the bones have awakened.
+1. **The Singing Bones**: The Leviathan skeleton has begun humming an ancient song that drives listeners to seek out the [[Sunken Palace of Tides]]. Characters must discover why the bones have awakened.
 
-2. **Neutral Ground Violated**: A murder occurs within the tavern's protected walls, breaking centuries of tradition. The [[02_Worldbuilding/Places/Sea Witch]]'s protection is failing, and supernatural chaos threatens to engulf the establishment.
+2. **Neutral Ground Violated**: A murder occurs within the tavern's protected walls, breaking centuries of tradition. The [[Sea Witch]]'s protection is failing, and supernatural chaos threatens to engulf the establishment.
 
-3. **The Deep Caller**: Strange dreams plague guests in the Tidal Pool rooms, all featuring the same mysterious figure beckoning them to the [[02_Worldbuilding/Lore/The Abyssal Trenches]]. Are these prophetic visions or something more sinister?
+3. **The Deep Caller**: Strange dreams plague guests in the Tidal Pool rooms, all featuring the same mysterious figure beckoning them to the [[The Abyssal Trenches]]. Are these prophetic visions or something more sinister?
 
 4. **Smuggler's Moon**: The tavern serves as a front for smuggling operations moving goods between surface and sea. Characters might be recruited for a dangerous run or tasked with shutting down the operation.
 
-5. **The Last Voyage**: Captain Marrows receives a message in a bottle from her supposedly dead crew, claiming they're trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet]]. She seeks brave souls to venture into the supernatural seas to rescue or lay them to rest.
+5. **The Last Voyage**: Captain Marrows receives a message in a bottle from her supposedly dead crew, claiming they're trapped in the [[The Phantom Fleet]]. She seeks brave souls to venture into the supernatural seas to rescue or lay them to rest.
 
 ## Detailed Layout & Architecture
 
 ### The Leviathan Frame
-The tavern's foundation is built within the massive skeleton of an ancient [[02_Worldbuilding/Lore/Leviathan the Deep]], creating a unique architectural marvel:
+The tavern's foundation is built within the massive skeleton of an ancient [[Leviathan the Deep]], creating a unique architectural marvel:
 
 #### The Ribcage Hall (Main Dining Area)
 **Dimensions**: 120 feet long, 80 feet wide, 60 feet high
@@ -146,7 +142,7 @@ The tavern's foundation is built within the massive skeleton of an ancient [[02_
 **Starboard Fin**: Guest accommodations and special facilities
 - **Tidal Pool Suites**: Partially flooded rooms preferred by aquatic guests
 - **Dry Chambers**: Air-filled rooms for surface visitors
-- **The Healing Grotto**: Medical facility staffed by [[02_Worldbuilding/Lore/Sister Marina Tidehealer]]
+- **The Healing Grotto**: Medical facility staffed by [[Sister Marina Tidehealer]]
 - **Equipment Storage**: Diving gear, underwater vehicles, and adventure supplies
 
 #### The Tail Section
@@ -241,7 +237,7 @@ The tavern's foundation is built within the massive skeleton of an ancient [[02_
 #### Transportation Services
 **Message Delivery**:
 - **Local Delivery** (2 gp): Within 50 miles via trained seahorses
-- **Long Distance** (10 gp): Anywhere in [[02_Worldbuilding/Places/Aquabyssos]] via dolphin courier
+- **Long Distance** (10 gp): Anywhere in [[Aquabyssos]] via dolphin courier
 - **Express Service** (25 gp): Priority delivery within 24 hours
 - **Discrete Delivery** (50 gp): Anonymous messaging for sensitive communications
 
@@ -252,7 +248,7 @@ The tavern's foundation is built within the massive skeleton of an ancient [[02_
 - **Specialized Gear** (varies): Custom equipment for specific missions
 
 **Transportation Booking**:
-- **Current Passage**: Arrangements for travel via [[02_Worldbuilding/Places/Free Current]]
+- **Current Passage**: Arrangements for travel via [[Free Current]]
 - **Private Charter**: Hiring vessels for specific destinations
 - **Group Transport**: Coordinating travel for large parties
 - **Emergency Evacuation**: Rapid extraction services
@@ -260,12 +256,12 @@ The tavern's foundation is built within the massive skeleton of an ancient [[02_
 #### Information Services
 **The Bulletin Reef**: Central information exchange area
 - **Job Postings**: Employment opportunities and crew recruitment
-- **News Updates**: Current events from across [[02_Worldbuilding/Places/Aquabyssos]]
+- **News Updates**: Current events from across [[Aquabyssos]]
 - **Weather Reports**: Sea conditions and travel advisories
 - **Missing Persons**: Notices for lost sailors and adventurers
 
 **Intelligence Brokerage**:
-- **[[02_Worldbuilding/Lore/Whispers]]' Network**: Access to the mysterious information broker's services
+- **[[Whispers]]' Network**: Access to the mysterious information broker's services
 - **Local Knowledge**: Information about nearby areas and hazards
 - **Political Updates**: Current tensions and diplomatic developments
 - **Criminal Intelligence**: Information about pirate activities and smuggling routes
@@ -276,7 +272,7 @@ The tavern's foundation is built within the massive skeleton of an ancient [[02_
 *Female Human, Tavern Keeper*
 
 **Enhanced Background**:
-Cordelia's transformation from feared pirate captain to tavern keeper hides a complex past. Her ship, the *Crimson Depths*, was lost in an expedition to map [[02_Worldbuilding/Lore/The Abyssal Trenches]]. She was the sole survivor, rescued three days later floating unconscious near the surface. Her crew's fate remains unknown, and she refuses to discuss what happened in the deepest waters.
+Cordelia's transformation from feared pirate captain to tavern keeper hides a complex past. Her ship, the *Crimson Depths*, was lost in an expedition to map [[The Abyssal Trenches]]. She was the sole survivor, rescued three days later floating unconscious near the surface. Her crew's fate remains unknown, and she refuses to discuss what happened in the deepest waters.
 
 **The Crystalline Eye**: Her replacement eye is carved from a rare deep-sea crystal that grants several abilities:
 - **Truth Sight**: Can detect lies and see through illusions
@@ -300,7 +296,7 @@ Cordelia's transformation from feared pirate captain to tavern keeper hides a co
 *Male Merfolk, Diplomatic Envoy*
 
 **Extended Background**:
-Thalassos serves as unofficial ambassador between the surface world and deep-sea communities. Born in the [[02_Worldbuilding/Places/Coral Courts]], he chose exile to pursue diplomatic work after witnessing the destruction caused by inter-factional conflicts. His song-magic is particularly powerful, capable of calming even the most violent disputes.
+Thalassos serves as unofficial ambassador between the surface world and deep-sea communities. Born in the [[Coral Courts]], he chose exile to pursue diplomatic work after witnessing the destruction caused by inter-factional conflicts. His song-magic is particularly powerful, capable of calming even the most violent disputes.
 
 **Diplomatic Services**:
 - **Conflict Mediation**: Resolves disputes between different species and cultures
@@ -330,7 +326,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - **Future Favors**: Contracts for services to be rendered later
 - **Traditional Currency**: Accepted but at premium rates
 
-**The Whisper Network**: Maintains informants throughout [[02_Worldbuilding/Places/Aquabyssos]], from high-ranking officials to street-level criminals
+**The Whisper Network**: Maintains informants throughout [[Aquabyssos]], from high-ranking officials to street-level criminals
 
 ### Additional Staff & Regulars
 
@@ -400,14 +396,14 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ### The Singing Bones Mystery (Levels 3-6)
 **Initial Hook**: The leviathan skeleton begins humming an ancient melody that affects patrons' dreams
-**Investigation Phase**: Research reveals the song is a map to the [[02_Worldbuilding/Places/Sunken Palace of Tides]]
+**Investigation Phase**: Research reveals the song is a map to the [[Sunken Palace of Tides]]
 **Complication**: Multiple factions want to follow the map for different reasons
 **Resolution Options**:
 - Lead an expedition to discover what activated the bones
 - Prevent others from exploiting the musical map
 - Solve the mystery of why the bones awakened now
 
-**Key NPCs**: [[02_Worldbuilding/Lore/Ancient Leviathan Spirit]], [[02_Worldbuilding/Lore/Dream Scholar Memoriam]], [[02_Worldbuilding/Lore/Treasure Hunter Goldseeker]]
+**Key NPCs**: [[Ancient Leviathan Spirit]], [[Dream Scholar Memoriam]], [[Treasure Hunter Goldseeker]]
 **Rewards**: Access to the Sunken Palace, magical items, reputation with multiple factions
 
 ### The Neutral Ground Crisis (Levels 5-8)
@@ -415,7 +411,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 **Investigation**: Victim is a diplomatic courier carrying important peace treaty documents
 **Complications**: 
 - Multiple suspects with political motives
-- The [[02_Worldbuilding/Places/Sea Witch]]'s protection magic is failing
+- The [[Sea Witch]]'s protection magic is failing
 - Outside forces pressure the tavern to close
 - Different factions blame each other, threatening wider conflict
 
@@ -426,7 +422,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ### The Deep Caller Visions (Levels 6-10)
 **Phenomenon**: Guests in tidal pool rooms experience shared nightmares
-**Common Elements**: Dark figure beckoning toward [[02_Worldbuilding/Lore/The Abyssal Trenches]]
+**Common Elements**: Dark figure beckoning toward [[The Abyssal Trenches]]
 **Investigation Reveals**: The dreams are memories from Cordelia's lost crew
 **Truth**: Her crew didn't die—they were transformed and are calling for rescue/revenge
 
@@ -448,7 +444,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ### The Last Voyage Haunting (Levels 8-12)
 **Trigger**: Message in a bottle arrives claiming to be from Cordelia's dead crew
-**Message Content**: Crew claims to be trapped in the [[02_Worldbuilding/Lore/The Phantom Fleet]]
+**Message Content**: Crew claims to be trapped in the [[The Phantom Fleet]]
 **Investigation**: Supernatural sea phenomena and ghost ship sightings increase
 **Reality**: The crew exists in a state between life and death, serving an ancient sea goddess
 
@@ -471,22 +467,22 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 ## Connected Locations & Networks
 
 ### Direct Connections
-**[[02_Worldbuilding/Lore/The Phantom Fleet]]**: Supernatural naval phenomenon linked to Cordelia's past
-**[[02_Worldbuilding/Lore/The Abyssal Trenches]]**: Mysterious deep-sea location where Cordelia's crew was lost
-**[[02_Worldbuilding/Places/Sunken Palace of Tides]]**: Ancient ruins that may hold answers to the leviathan's song
-**[[02_Worldbuilding/Places/Free Current]]**: Transportation network with regular stops at the tavern
+**[[The Phantom Fleet]]**: Supernatural naval phenomenon linked to Cordelia's past
+**[[The Abyssal Trenches]]**: Mysterious deep-sea location where Cordelia's crew was lost
+**[[Sunken Palace of Tides]]**: Ancient ruins that may hold answers to the leviathan's song
+**[[Free Current]]**: Transportation network with regular stops at the tavern
 
 ### Network Relationships
-**[[02_Worldbuilding/Groups/Guilds/Tide Runners Guild]]**: Professional sailors who use the tavern as meeting place
-**[[02_Worldbuilding/Lore/Deep Current Pirates]]**: Criminal organization with members who frequent the establishment
-**[[02_Worldbuilding/Lore/The Merchant's Covenant]]**: Trading guild that respects tavern neutrality
-**[[02_Worldbuilding/Lore/Abyssal Covenant]]**: Mysterious cult with occasional representatives
+**[[Tide Runners Guild]]**: Professional sailors who use the tavern as meeting place
+**[[Deep Current Pirates]]**: Criminal organization with members who frequent the establishment
+**[[The Merchant's Covenant]]**: Trading guild that respects tavern neutrality
+**[[Abyssal Covenant]]**: Mysterious cult with occasional representatives
 
 ### Political Connections
-**[[02_Worldbuilding/Lore/Surface Coalition]]**: Surface-world governments seeking underwater intelligence
-**[[02_Worldbuilding/Lore/Depths Alliance]]**: Deep-sea political entity maintaining diplomatic presence
-**[[02_Worldbuilding/Places/New Tethys]]**: Major city-state with official relationships to the tavern
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Political body that recognizes tavern's neutral status
+**[[Surface Coalition]]**: Surface-world governments seeking underwater intelligence
+**[[Depths Alliance]]**: Deep-sea political entity maintaining diplomatic presence
+**[[New Tethys]]**: Major city-state with official relationships to the tavern
+**[[Parliament of Echoes]]**: Political body that recognizes tavern's neutral status
 
 ## DM Guidance & Campaign Integration
 
@@ -495,7 +491,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - Gathering rumors and plot hooks
 - Meeting NPCs from diverse backgrounds
 - Conducting business without factional interference
-- Learning about opportunities throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- Learning about opportunities throughout [[Aquabyssos]]
 
 **Social Roleplay**: Emphasize the tavern's unique social dynamics:
 - Enemies forced to coexist peacefully
@@ -515,7 +511,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - Constant sensation of water pressure and movement
 - Mixing of air-breathing and water-breathing patrons
 
-**Cultural Diversity**: Showcase the variety of [[02_Worldbuilding/Places/Aquabyssos]] inhabitants:
+**Cultural Diversity**: Showcase the variety of [[Aquabyssos]] inhabitants:
 - Different species with unique customs and needs
 - Varying levels of adaptation to underwater life
 - Cultural exchanges and conflicts
@@ -542,7 +538,7 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -564,10 +560,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[Angels and Depths]]
 
 <!-- enriched: true -->
 riched: true -->
-- [[02_Worldbuilding/Places/Free Current]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Free Current]]
+- [[New Tethys]]
+- [[Parliament of Echoes]]

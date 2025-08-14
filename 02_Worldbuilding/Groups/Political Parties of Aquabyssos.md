@@ -20,8 +20,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg]]
 
 
 # Political Parties of Aquabyssos

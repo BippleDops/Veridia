@@ -27,7 +27,7 @@ world: Both
 
 
 
-This lustrous black gem allows a [[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm|night hag]] to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
+This lustrous black gem allows a [[night-hag-xmm|night hag]] to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
 
 *Source: Monster Manual p. 179*
 

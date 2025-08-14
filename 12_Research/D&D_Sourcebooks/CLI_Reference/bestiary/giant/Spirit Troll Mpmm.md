@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-troll-mpmm-spirit-troll-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/spirit-troll-mpmm|Spirit Troll]]
+# [[spirit-troll-mpmm|Spirit Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -65,14 +65,14 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"
 "cr": "11"
@@ -91,8 +91,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
       \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
-      \ throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] for 1 minute.\
-      \ The [[/03_Mechanics/CLI/conditions#Stunned|stunned]] target can repeat the\
+      \ throw or be [[conditions#Stunned|stunned]] for 1 minute.\
+      \ The [[conditions#Stunned|stunned]] target can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Bite"

@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-crystalfall-port-crystalfall.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Crystalfall]]
+- [[Port Crystalfall]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[Hidden Smuggler's Cove]]
+- [[The Siren's Rest Tavern]]

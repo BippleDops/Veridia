@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-warrior-xmm-bullywug-warrior-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/bullywug-warrior-xmm|Bullywug Warrior]]
+# [[bullywug-warrior-xmm|Bullywug Warrior]]
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
@@ -60,7 +60,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Bullywug, Common"

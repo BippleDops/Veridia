@@ -33,7 +33,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-zaratan-mpmm-v1-zaratan-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/zaratan-mpmm|Zaratan]]
+# [[zaratan-mpmm|Zaratan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
@@ -62,9 +62,9 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
 "languages": ""
 "cr": "22"
@@ -89,26 +89,26 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
   - "desc": "The zaratan exhales rocky debris in a 90-foot cube. Each creature in\
       \ that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10)\
       \ bludgeoning damage on a failed save, or half as much damage on a successful\
-      \ one. A creature that fails the save by 5 or more is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ one. A creature that fails the save by 5 or more is knocked [[conditions#Prone|prone]]."
     "name": "Spew Debris (Recharge 5-6)"
 "bonus_actions":
   - "desc": "After moving at least 10 feet on the ground, the zaratan sends a shock\
       \ wave through the ground in a 120-foot-radius circle centered on itself. That\
       \ area becomes difficult terrain for 1 minute. Each creature on the ground that\
-      \ is [[/03_Mechanics/CLI/conditions#Concentration|concentrating]] must succeed\
-      \ on a DC 25 Constitution saving throw or the creature's [[/03_Mechanics/CLI/conditions#Concentration|concentration]]\
+      \ is [[conditions#Concentration|concentrating]] must succeed\
+      \ on a DC 25 Constitution saving throw or the creature's [[conditions#Concentration|concentration]]\
       \ is broken. The shock wave deals 100 thunder damage to all structures in contact\
       \ with the ground in the area. If a creature is near a structure that collapses,\
       \ the creature might be buried; a creature within half the distance of the structure's\
       \ height must make a DC 25 Dexterity saving throw. On a failed save, the creature\
-      \ takes 17 (5d6) bludgeoning damage, is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-      \ and is trapped in the rubble. A trapped creature is [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-      \ requiring a successful DC 20 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
+      \ takes 17 (5d6) bludgeoning damage, is knocked [[conditions#Prone|prone]],\
+      \ and is trapped in the rubble. A trapped creature is [[conditions#Restrained|restrained]],\
+      \ requiring a successful DC 20 Strength ([[skills#Athletics|Athletics]])\
       \ check as an action to escape. Another creature within 5 feet of the buried\
       \ creature can use its action to clear rubble and grant advantage on the check.\
       \ If three creatures use their actions in this way, the check is an automatic\
       \ success. On a successful save, the creature takes half as much damage and\
-      \ doesn't fall [[/03_Mechanics/CLI/conditions#Prone|prone]] or become trapped."
+      \ doesn't fall [[conditions#Prone|prone]] or become trapped."
     "name": "Earth-Shaking Movement"
 "legendary_actions":
   - "desc": "The zaratan makes one Stomp attack."
@@ -118,7 +118,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
   - "desc": "The zaratan makes one Spit Rock attack."
     "name": "Spit (Costs 2 Actions)"
   - "desc": "The zaratan retracts into its shell. Until it takes its Emerge action,\
-      \ it has resistance to all damage, and it is [[/03_Mechanics/CLI/conditions#Restrained|restrained]].\
+      \ it has resistance to all damage, and it is [[conditions#Restrained|restrained]].\
       \ The next time it takes a legendary action, it must take its Revitalize or\
       \ Emerge action."
     "name": "Retract (Costs 2 Actions)"

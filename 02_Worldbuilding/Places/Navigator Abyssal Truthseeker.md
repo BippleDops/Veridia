@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-navigator-abyssal-truthseeker-navigator-abyssal-truthseeker.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-navigator-abyssal-truthseeker-navigator-abyssal-truthseeker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [[12_Research/D&D_References/Void Currents]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [[12_Research/D&D_References/Void Currents]]
 
 ## Player-Facing Summary
 

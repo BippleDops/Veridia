@@ -15,20 +15,15 @@ world: Both
 ---
 
 
-
-
-
-
-
 # The Null Cathedral
 *Sanctuary of Reason Against Divinity*
 
 > *"Where others build altars to imaginary gods, we construct monuments to the power of rational thought. Here, in the depths where superstition drowns, we celebrate the only truth worth knowing - that we are the masters of our own destiny, accountable to nothing but reason itself."*
-> — [[02_Worldbuilding/Places/Anti-Priest Nullus]], *Foundations of Rational Thought*
+> — [[Anti-Priest Nullus]], *Foundations of Rational Thought*
 
 ## Overview
 
-The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most controversial and intellectually provocative institution, a magnificent structure dedicated not to the worship of gods, but to their systematic rejection through philosophy, reason, and scientific inquiry. Located in the progressive [[02_Worldbuilding/Places/Harbor District]], this imposing edifice serves as both sanctuary and symbol for those who have rejected traditional religious beliefs in favor of rational materialism and humanistic philosophy. Under the leadership of the enigmatic Anti-Priest Nullus, the cathedral has become a gathering place for freethinkers, philosophers, scientists, and anyone seeking alternatives to the divine explanations that dominate much of Aquabyssos society. The institution represents a radical departure from conventional religious practice, offering instead a structured approach to living without gods while maintaining the community, ritual, and meaning that many seek from organized belief systems.
+The Null Cathedral stands as [[Aquabyssos]]'s most controversial and intellectually provocative institution, a magnificent structure dedicated not to the worship of gods, but to their systematic rejection through philosophy, reason, and scientific inquiry. Located in the progressive [[Harbor District]], this imposing edifice serves as both sanctuary and symbol for those who have rejected traditional religious beliefs in favor of rational materialism and humanistic philosophy. Under the leadership of the enigmatic Anti-Priest Nullus, the cathedral has become a gathering place for freethinkers, philosophers, scientists, and anyone seeking alternatives to the divine explanations that dominate much of Aquabyssos society. The institution represents a radical departure from conventional religious practice, offering instead a structured approach to living without gods while maintaining the community, ritual, and meaning that many seek from organized belief systems.
 
 ## Atmospheric Description
 
@@ -86,7 +81,7 @@ The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most contr
 
 **Personality**: Brilliant and articulate, Nullus combines passionate commitment to rational thought with genuine compassion for those struggling with questions of meaning and purpose. They speak with precise logic and extensive knowledge, but avoid the arrogance that sometimes accompanies intellectual achievement. Despite rejecting divine authority, they maintain deep respect for the human need for meaning, community, and ethical guidance, working to provide these through rational rather than supernatural means.
 
-**Background**: Once a traditional priest in [[02_Worldbuilding/Places/Abyssos Prime]], Nullus underwent a philosophical transformation after years of studying both religious doctrine and natural philosophy. Their rejection of divine belief was gradual and carefully reasoned rather than reactionary, leading to the development of comprehensive alternatives to religious thinking. They established the Null Cathedral as a demonstration that rational worldviews can provide the community, meaning, and ethical guidance traditionally supplied by religion.
+**Background**: Once a traditional priest in [[Abyssos Prime]], Nullus underwent a philosophical transformation after years of studying both religious doctrine and natural philosophy. Their rejection of divine belief was gradual and carefully reasoned rather than reactionary, leading to the development of comprehensive alternatives to religious thinking. They established the Null Cathedral as a demonstration that rational worldviews can provide the community, meaning, and ethical guidance traditionally supplied by religion.
 
 ### Chief Philosopher Marina Clearpool - Intellectual Coordinator
 **Role**: Oversees the cathedral's educational and intellectual programs, ensuring that philosophical discussions maintain high standards of logical rigor while remaining accessible to visitors from diverse backgrounds. Her extensive knowledge of both classical and contemporary philosophy allows her to guide discussions and debates in productive directions.
@@ -101,7 +96,7 @@ The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most contr
 ### Community Coordinator Kelp Bondweaver - Social Organization
 **Function**: Organizes the cathedral's social activities, secular ceremonies, and community support programs. Her work demonstrates that rational worldviews can provide the social cohesion and mutual support traditionally associated with religious communities, creating alternatives to faith-based social structures.
 
-**Innovation**: Develops new forms of secular ceremony and community celebration that provide emotional significance and social bonding without supernatural elements. Her programs have become models for rational communities throughout [[02_Worldbuilding/Places/Aquabyssos]] and beyond.
+**Innovation**: Develops new forms of secular ceremony and community celebration that provide emotional significance and social bonding without supernatural elements. Her programs have become models for rational communities throughout [[Aquabyssos]] and beyond.
 
 ### Counselor Anemone Depthwise - Personal Guidance
 **Purpose**: Provides individual counseling and guidance for people transitioning away from religious beliefs or seeking to develop rational approaches to personal challenges. Her work addresses the psychological and emotional aspects of philosophical transformation, helping individuals find meaning and purpose through reason-based frameworks.
@@ -112,7 +107,7 @@ The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most contr
 
 ### The Religious Uprising Crisis
 **Level**: 7-13  
-**Conflict**: Traditional religious leaders have organized a campaign to shut down the Null Cathedral, claiming that its influence is undermining social stability and moral behavior throughout [[02_Worldbuilding/Places/Aquabyssos]]. Tensions are escalating toward potential violence as both sides gather supporters and the government struggles to maintain peace between conflicting worldviews.
+**Conflict**: Traditional religious leaders have organized a campaign to shut down the Null Cathedral, claiming that its influence is undermining social stability and moral behavior throughout [[Aquabyssos]]. Tensions are escalating toward potential violence as both sides gather supporters and the government struggles to maintain peace between conflicting worldviews.
 
 **Investigation**: Characters must navigate complex social and political tensions while investigating claims and counterclaims from both religious and rational communities. They may need to gather evidence about the actual social effects of the cathedral's teachings, mediate between hostile groups, or protect individuals threatened by extremists on either side.
 
@@ -142,13 +137,13 @@ The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most contr
 
 ### The Scientific Revolution Discovery
 **Level**: 8-14  
-**Breakthrough**: Cathedral researchers have made a revolutionary scientific discovery that challenges fundamental assumptions about the nature of reality, potentially supporting either rational or supernatural interpretations depending on how it is understood and presented. The discovery could transform [[02_Worldbuilding/Places/Aquabyssos]] society, but different groups want to use it to support their own worldviews.
+**Breakthrough**: Cathedral researchers have made a revolutionary scientific discovery that challenges fundamental assumptions about the nature of reality, potentially supporting either rational or supernatural interpretations depending on how it is understood and presented. The discovery could transform [[Aquabyssos]] society, but different groups want to use it to support their own worldviews.
 
 **Protection**: Characters must protect the research and researchers from various groups seeking to suppress, steal, or misuse the discovery for their own purposes. This may involve defending against religious extremists, government agents, foreign spies, or commercial interests seeking to profit from the knowledge.
 
 **Ethics**: The adventure explores ethical questions about the responsibilities that come with revolutionary knowledge, the proper relationship between scientific discovery and social change, and the dangers of using knowledge as a weapon in ideological conflicts.
 
-**Impact**: The resolution of this adventure could significantly affect the balance between rational and religious worldviews throughout [[02_Worldbuilding/Places/Aquabyssos]], establishing new precedents for how society deals with revolutionary knowledge and intellectual freedom.
+**Impact**: The resolution of this adventure could significantly affect the balance between rational and religious worldviews throughout [[Aquabyssos]], establishing new precedents for how society deals with revolutionary knowledge and intellectual freedom.
 
 ## Secrets and Lore
 
@@ -242,35 +237,35 @@ The Null Cathedral stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most contr
 ### Social Integration Challenges
 **Belief Transition**: Characters adopting rational worldviews may face social challenges that require careful management of relationships with religious NPCs, traditional communities, or family members who disagree with their philosophical development.
 
-**Community Building**: Characters can work to build rational communities, establish new philosophical institutions, or promote intellectual freedom throughout [[02_Worldbuilding/Places/Aquabyssos]], providing opportunities for political and social influence.
+**Community Building**: Characters can work to build rational communities, establish new philosophical institutions, or promote intellectual freedom throughout [[Aquabyssos]], providing opportunities for political and social influence.
 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[Harbor District]]
+- [[Parliament of Echoes]]
+- [[Temple of Divine Order]]
+- [[Abyssos Prime]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Chief Philosopher Marina Clearpool]]
-- [[02_Worldbuilding/Places/Librarian Scholar Reef Documentcurrent]]
-- [[02_Worldbuilding/Places/Community Coordinator Kelp Bondweaver]]
+- [[Anti-Priest Nullus]]
+- [[Chief Philosopher Marina Clearpool]]
+- [[Librarian Scholar Reef Documentcurrent]]
+- [[Community Coordinator Kelp Bondweaver]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Rational Philosophy Framework]]
-- [[02_Worldbuilding/Places/Secular Community Practices]]
-- [[02_Worldbuilding/Places/Intellectual Freedom Movement]]
-- [[02_Worldbuilding/Places/Anti-Religious Philosophical Arguments]]
+- [[Rational Philosophy Framework]]
+- [[Secular Community Practices]]
+- [[Intellectual Freedom Movement]]
+- [[Anti-Religious Philosophical Arguments]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[Prophet Nerida Voidgazer]]
+- [[The Primordial Vaults]]
+- [[Find the Grief Bomb]]
+- [[The Maw of Darkness]]
 
 ## Player-Facing Summary
 
@@ -292,6 +287,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
+- [[Anti-Priest Nullus]]
 
 <!-- enriched: true -->

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-aquabyssos-government-aquabyssos-government.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-aquabyssos-government-aquabyssos-government.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Government]]
+- [[12_Research/D&D_References/Aquabyssos Government]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

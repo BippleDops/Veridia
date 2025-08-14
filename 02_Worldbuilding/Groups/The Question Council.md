@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-question-council-the-question-council.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-question-council-the-question-council.svg]]
 
 
 ## Overview

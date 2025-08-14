@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
 
 
 ## Overview
@@ -62,20 +58,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Seven Shards]]
+- [[Seven Shards]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[02_Worldbuilding/Places/The Foundation Depths]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Surface Portal Alpha]]
+- [[The Foundation Depths]]
+- [[The Gilded Shard]]
+- [[Throne Room - Heart of Palace]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

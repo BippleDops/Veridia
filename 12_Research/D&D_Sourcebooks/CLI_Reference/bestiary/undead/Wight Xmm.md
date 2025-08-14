@@ -29,7 +29,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\undead/wight-xmm|Wight]]
+# [[wight-xmm|Wight]]
 *Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Wight
@@ -79,19 +79,19 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
-  - "desc": "While in sunlight, the wight has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in sunlight, the wight has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -105,9 +105,9 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
       \ damage plus 4 (d8) Necrotic damage."
     "name": "Necrotic Bow"
   - "desc": "Constitution Saving Throw: DC 13, one creature within 5 feet. Failure:\
-      \ 6 (1d8 + 2) Necrotic damage, and the target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ 6 (1d8 + 2) Necrotic damage, and the target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombie]]\
+      \ by this attack rises 24 hours later as a [[zombie-xmm|Zombie]]\
       \ under the wight's control, unless the Humanoid is restored to life or its\
       \ body is destroyed. The wight can have no more than twelve zombies under its\
       \ control at a time."

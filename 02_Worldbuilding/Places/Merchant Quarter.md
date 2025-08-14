@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -15,21 +16,18 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-merchant-quarter-merchant-quarter.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-quarter-merchant-quarter.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_Statblocks/Quest - The Truth Unveiled]]
 
 ## Player-Facing Summary
 

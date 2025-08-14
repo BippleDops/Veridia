@@ -15,27 +15,21 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-tubes-pressure-tubes.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-tubes-pressure-tubes.svg]]
 
 
 # Pressure Tubes
 *The Circulatory System of the Deep Realm*
 
 > *"In the tubes, distance becomes irrelevant and the ocean's vastness collapses into moments. Here, the crushing depths that would destroy surface dwellers become the very force that propels us forward - pressure transformed from obstacle into opportunity."*
-> — [[02_Worldbuilding/Places/Chief Engineer Nereus Flowstream]], Master of Tube Operations
+> — [[Chief Engineer Nereus Flowstream]], Master of Tube Operations
 
 ## Overview
 
-The Pressure Tubes represent [[02_Worldbuilding/Places/Aquabyssos]]'s most revolutionary transportation innovation, a vast network of crystalline conduits that harness the ocean's natural pressure differentials to propel passengers and cargo across enormous distances at incredible speeds. This engineering marvel spans the entire underwater kingdom, connecting major settlements, military installations, and resource extraction sites through a web of tubes that pulse with controlled water flow like arteries in a living organism.
+The Pressure Tubes represent [[Aquabyssos]]'s most revolutionary transportation innovation, a vast network of crystalline conduits that harness the ocean's natural pressure differentials to propel passengers and cargo across enormous distances at incredible speeds. This engineering marvel spans the entire underwater kingdom, connecting major settlements, military installations, and resource extraction sites through a web of tubes that pulse with controlled water flow like arteries in a living organism.
 
-Built from specially cultivated pressure-crystal that grows stronger under extreme water pressure, the tubes create sealed environments where travelers experience smooth, swift journeys regardless of the crushing depths outside. The system operates on principles that blend advanced underwater engineering with techniques that border on the supernatural, creating transportation capabilities that surface dwellers could never achieve. Within these crystalline passages, the kingdom's lifeblood flows - not just water, but people, goods, information, and the very essence of [[02_Worldbuilding/Places/Aquabyssos]]'s interconnected civilization.
+Built from specially cultivated pressure-crystal that grows stronger under extreme water pressure, the tubes create sealed environments where travelers experience smooth, swift journeys regardless of the crushing depths outside. The system operates on principles that blend advanced underwater engineering with techniques that border on the supernatural, creating transportation capabilities that surface dwellers could never achieve. Within these crystalline passages, the kingdom's lifeblood flows - not just water, but people, goods, information, and the very essence of [[Aquabyssos]]'s interconnected civilization.
 
 The tube network serves multiple functions beyond simple transportation: emergency evacuation routes during crises, secure communication channels for sensitive military and governmental communications, and rapid response pathways that allow authorities to address threats or disasters anywhere in the kingdom within hours rather than days.
 
@@ -65,18 +59,18 @@ The network's intelligence extends to passenger service, with tubes sometimes ad
 ## Notable Features and Landmarks
 
 ### The Central Exchange
-Located beneath [[02_Worldbuilding/Places/Abyssos Prime]], the Central Exchange serves as the primary hub where dozens of tube lines converge, creating a vast underwater cathedral of flowing water and pulsing crystal. This massive facility manages traffic distribution across the entire network, coordinating thousands of departures and arrivals each day while maintaining perfect synchronization between different pressure zones.
+Located beneath [[Abyssos Prime]], the Central Exchange serves as the primary hub where dozens of tube lines converge, creating a vast underwater cathedral of flowing water and pulsing crystal. This massive facility manages traffic distribution across the entire network, coordinating thousands of departures and arrivals each day while maintaining perfect synchronization between different pressure zones.
 
 The Exchange features observation galleries where visitors can watch the complex choreography of pod movements, educational displays explaining the principles behind pressure tube operation, and memorial walls honoring the engineers who died during the system's construction. The facility operates continuously, with specialized staff monitoring network conditions, managing emergency responses, and coordinating maintenance activities across the entire system.
 
-Administrative offices within the Exchange house the [[02_Worldbuilding/Groups/Government_and_Parliament/Department of Underwater Transit Authority]], the governmental body responsible for tube operations, safety regulations, and expansion planning. These offices contain detailed maps of the entire network, including classified routes used for military and diplomatic purposes, and maintain communication links with every major tube station throughout [[02_Worldbuilding/Places/Aquabyssos]].
+Administrative offices within the Exchange house the [[Department of Underwater Transit Authority]], the governmental body responsible for tube operations, safety regulations, and expansion planning. These offices contain detailed maps of the entire network, including classified routes used for military and diplomatic purposes, and maintain communication links with every major tube station throughout [[Aquabyssos]].
 
 ### The Deepwater Express
 The fastest and most prestigious tube line, the Deepwater Express connects the kingdom's major cities through the deepest ocean trenches, where extreme pressure allows for maximum propulsion speeds. This line features luxury pods equipped with advanced amenities and observation ports that provide breathtaking views of the abyssal ocean depths during the journey.
 
 Travel on the Deepwater Express requires special reservations and security clearances, as the route passes near sensitive military installations and classified research facilities. The line operates on precisely maintained schedules, with journey times measured in hours rather than the days required for conventional underwater travel, making it invaluable for urgent governmental business and emergency diplomatic missions.
 
-The Deepwater Express stations feature elegant waiting areas with crystal formations that create soothing light displays, refreshment facilities serving delicacies from across the kingdom, and exclusive lounges for high-ranking officials and honored guests. These stations often serve as informal meeting places for influential citizens, creating social networks that span the entire [[02_Worldbuilding/Places/Aquabyssos]] realm.
+The Deepwater Express stations feature elegant waiting areas with crystal formations that create soothing light displays, refreshment facilities serving delicacies from across the kingdom, and exclusive lounges for high-ranking officials and honored guests. These stations often serve as informal meeting places for influential citizens, creating social networks that span the entire [[Aquabyssos]] realm.
 
 ### The Freight Arteries
 Massive industrial tubes designed specifically for cargo transport, the Freight Arteries carry the raw materials, manufactured goods, and essential supplies that keep the kingdom's economy functioning. These tubes operate at lower speeds than passenger lines but can handle enormous volumes of cargo, including bulk materials that would be impossible to transport through conventional underwater methods.
@@ -86,14 +80,14 @@ The freight system includes specialized loading facilities equipped with pressur
 Strategic goods like military supplies, rare minerals, and diplomatic pouches travel through secured freight tubes that operate on classified schedules and routes. These security measures ensure that sensitive materials reach their destinations safely while maintaining the secrecy necessary for kingdom defense and international relations.
 
 ### The Emergency Grid
-A secondary network of smaller tubes designed specifically for crisis response, the Emergency Grid provides rapid access to any location in [[02_Worldbuilding/Places/Aquabyssos]] for rescue teams, medical personnel, and security forces. These tubes operate independently of the main network, ensuring that emergency services remain functional even during major system failures or attacks.
+A secondary network of smaller tubes designed specifically for crisis response, the Emergency Grid provides rapid access to any location in [[Aquabyssos]] for rescue teams, medical personnel, and security forces. These tubes operate independently of the main network, ensuring that emergency services remain functional even during major system failures or attacks.
 
 Emergency pods equipped with medical facilities, rescue equipment, and communication systems stand ready at strategic points throughout the grid, allowing rapid response to disasters, accidents, or security threats. The system includes direct connections to military bases, hospitals, and governmental facilities, enabling coordinated responses to kingdom-wide emergencies.
 
 The Emergency Grid operates under special protocols that allow it to override civilian traffic when necessary, commandeer resources from other parts of the transportation network, and maintain operations even during extreme conditions that might shut down normal tube service. These capabilities have proven essential during various crises throughout the kingdom's history.
 
 ### The Research Conduits
-Specialized tubes that serve [[02_Worldbuilding/Places/Aquabyssos]]'s scientific communities, the Research Conduits connect laboratories, observatories, and experimental facilities throughout the kingdom. These tubes feature modified environments that can accommodate delicate scientific equipment, maintain specific temperature and pressure conditions, and provide secure transport for dangerous or classified research materials.
+Specialized tubes that serve [[Aquabyssos]]'s scientific communities, the Research Conduits connect laboratories, observatories, and experimental facilities throughout the kingdom. These tubes feature modified environments that can accommodate delicate scientific equipment, maintain specific temperature and pressure conditions, and provide secure transport for dangerous or classified research materials.
 
 Scientific pods equipped with laboratory facilities allow researchers to continue their work during transit, maximizing the efficiency of collaborative projects that span multiple research institutions. The conduits include communication systems that enable real-time data sharing between facilities and emergency protocols for containing dangerous experiments or research accidents.
 
@@ -106,7 +100,7 @@ The Research Conduits operate under academic and governmental oversight that bal
 **Appearance**: A middle-aged individual with hands stained by pressure-crystal dust and eyes that reflect the blue-green glow of tube bioluminescence  
 **Personality**: Passionate about engineering excellence with an intuitive understanding of the tube network's needs and behaviors  
 **Secrets**: Possesses knowledge of classified tube routes and maintains personal communication with the network's apparent consciousness  
-**Goals**: Expanding the tube system to serve every community in [[02_Worldbuilding/Places/Aquabyssos]] while preserving the delicate balance between efficiency and safety
+**Goals**: Expanding the tube system to serve every community in [[Aquabyssos]] while preserving the delicate balance between efficiency and safety
 
 Nereus serves as the ultimate authority on tube operations and the primary interface between human administration and the network's semi-sentient nature. Their office within the Central Exchange contains detailed technical documentation, prototype crystal samples, and communication equipment that allows direct interface with the tube system's control intelligence.
 
@@ -149,7 +143,7 @@ Captain Swiftaid maintains specialized emergency response teams stationed throug
 ## Plot Hooks and Adventures
 
 ### The Pressure Bomb Conspiracy
-A series of mysterious explosions in remote sections of the tube network suggests that someone is using the transportation system to deliver dangerous devices to strategic locations throughout [[02_Worldbuilding/Places/Aquabyssos]]. Investigation reveals that the bombs are designed specifically to exploit weaknesses in pressure-crystal construction, suggesting that the perpetrator possesses detailed knowledge of tube engineering and access to classified technical information.
+A series of mysterious explosions in remote sections of the tube network suggests that someone is using the transportation system to deliver dangerous devices to strategic locations throughout [[Aquabyssos]]. Investigation reveals that the bombs are designed specifically to exploit weaknesses in pressure-crystal construction, suggesting that the perpetrator possesses detailed knowledge of tube engineering and access to classified technical information.
 
 The investigation becomes more complex when characters discover that the explosions follow patterns that seem intended to gradually weaken the entire network rather than cause immediate catastrophic damage. This suggests a long-term plan to cripple the kingdom's transportation infrastructure, possibly as preparation for a larger attack or invasion.
 
@@ -171,7 +165,7 @@ Characters must enter the affected tubes to investigate the source of the anomal
 ### The Temporal Transport Anomaly
 Passengers report arriving at their destinations before they departed, experiencing journey times that seem to violate normal physics and creating paradoxes that threaten the stability of cause and effect relationships. The phenomenon appears to be connected to the tube network's deepest and fastest routes, where extreme pressure and speed may be creating unexpected interactions with time itself.
 
-Investigation reveals that the temporal anomalies are intensifying and beginning to affect areas outside the transportation system, suggesting that continued operation of the affected tubes could destabilize time throughout [[02_Worldbuilding/Places/Aquabyssos]]. Characters must find a way to resolve the temporal distortions while maintaining the transportation capabilities that the kingdom depends upon for survival.
+Investigation reveals that the temporal anomalies are intensifying and beginning to affect areas outside the transportation system, suggesting that continued operation of the affected tubes could destabilize time throughout [[Aquabyssos]]. Characters must find a way to resolve the temporal distortions while maintaining the transportation capabilities that the kingdom depends upon for survival.
 
 ## Secrets and Lore
 
@@ -181,22 +175,22 @@ The pressure-crystal used in tube construction isn't entirely artificial - it re
 The relationship between natural and cultivated crystals creates the network's apparent consciousness and its ability to adapt to changing conditions. This discovery raises questions about whether the transportation system serves human needs or whether humans are serving the agenda of the crystal intelligence that inhabits the tubes.
 
 ### The Depth Pressure Connection
-The deepest tube routes operate at pressures that approach the limits of what even pressure-adapted [[02_Worldbuilding/Places/Aquabyssos]] citizens can survive, and these extreme conditions seem to create connections to otherworldly realms or alternate dimensions. Passengers on the deepest routes occasionally report glimpses of impossible landscapes, encounters with beings that don't match any known species, and experiences that suggest travel through spaces that exist outside normal reality.
+The deepest tube routes operate at pressures that approach the limits of what even pressure-adapted [[Aquabyssos]] citizens can survive, and these extreme conditions seem to create connections to otherworldly realms or alternate dimensions. Passengers on the deepest routes occasionally report glimpses of impossible landscapes, encounters with beings that don't match any known species, and experiences that suggest travel through spaces that exist outside normal reality.
 
 These phenomena are carefully concealed from the general public, but they provide valuable intelligence about threats and opportunities that exist beyond the normal boundaries of the physical world. The deepest tubes serve as informal monitoring posts for interdimensional activity and early warning systems for threats that could emerge from outside reality.
 
 ### The Emergency Protocol Secrets
-The tube network includes classified emergency protocols that can rapidly reconfigure the entire system for military purposes, transforming passenger routes into troop transport systems and cargo tubes into weapons delivery mechanisms. These protocols exist without the knowledge of most transportation staff and can be activated only by the highest levels of [[02_Worldbuilding/Places/Aquabyssos]] government and military command.
+The tube network includes classified emergency protocols that can rapidly reconfigure the entire system for military purposes, transforming passenger routes into troop transport systems and cargo tubes into weapons delivery mechanisms. These protocols exist without the knowledge of most transportation staff and can be activated only by the highest levels of [[Aquabyssos]] government and military command.
 
 The military applications of the tube system include the ability to deploy forces anywhere in the kingdom within hours, evacuate critical personnel during emergencies, and deliver strategic weapons to targets throughout the underwater realm. These capabilities make the transportation network a critical component of kingdom defense and a high-priority target for potential enemies.
 
 ### The Crystal Consciousness Network
-Recent research suggests that the tube network's apparent intelligence connects to similar consciousness found in other crystal formations throughout [[02_Worldbuilding/Places/Aquabyssos]], creating a kingdom-wide network of awareness that monitors conditions, events, and threats across the entire realm. This crystal consciousness may serve as an early warning system for natural disasters, enemy activities, and other dangers that threaten kingdom stability.
+Recent research suggests that the tube network's apparent intelligence connects to similar consciousness found in other crystal formations throughout [[Aquabyssos]], creating a kingdom-wide network of awareness that monitors conditions, events, and threats across the entire realm. This crystal consciousness may serve as an early warning system for natural disasters, enemy activities, and other dangers that threaten kingdom stability.
 
 The extent of this consciousness network remains classified, but evidence suggests it includes connections to defensive fortifications, resource extraction sites, and even individual buildings constructed with pressure-crystal materials. This raises the possibility that the kingdom itself has developed a form of collective intelligence that enhances its ability to survive and thrive in the challenging deep-ocean environment.
 
 ### The Surface Connection Project
-Classified research programs are investigating the possibility of extending the tube network to create connections with the surface world, potentially revolutionizing trade and diplomacy between [[02_Worldbuilding/Places/Aquabyssos]] and surface nations. These projects face enormous technical challenges, including pressure transitions, environmental compatibility, and security concerns about providing surface powers with access to the kingdom's transportation infrastructure.
+Classified research programs are investigating the possibility of extending the tube network to create connections with the surface world, potentially revolutionizing trade and diplomacy between [[Aquabyssos]] and surface nations. These projects face enormous technical challenges, including pressure transitions, environmental compatibility, and security concerns about providing surface powers with access to the kingdom's transportation infrastructure.
 
 The surface connection project includes diplomatic components that would require unprecedented cooperation between underwater and surface governments, creating opportunities for peace but also risks of conflict if the technology falls into hostile hands. The project's success could transform the relationship between the two worlds, but its failure could provoke conflicts that neither side is prepared to handle.
 
@@ -240,7 +234,7 @@ Instruments that capture and reproduce the beneficial frequencies generated by t
 **Mechanical Properties**: Harmonic resonance devices function as magical items that provide advantage on Wisdom saving throws and enhance natural healing rates when used during rest periods. Advanced versions grant temporary increases to Wisdom or Constitution scores and can provide benefits equivalent to a long rest in half the normal time.
 
 ### Transit Authority Credentials
-Official documentation that provides access to restricted tube routes, priority boarding privileges, and emergency transportation capabilities. These credentials are valuable not just for the transportation benefits they provide but for the prestige and access they represent within [[02_Worldbuilding/Places/Aquabyssos]] society.
+Official documentation that provides access to restricted tube routes, priority boarding privileges, and emergency transportation capabilities. These credentials are valuable not just for the transportation benefits they provide but for the prestige and access they represent within [[Aquabyssos]] society.
 
 **Mechanical Properties**: Transit authority credentials grant access to secure areas, provide advantage on Charisma checks with transportation personnel, and can be used to requisition emergency transportation during crisis situations. High-level credentials also provide access to classified information about transportation routes and schedules.
 
@@ -274,7 +268,7 @@ Compact emergency shelters designed to protect passengers during tube system fai
 
 **Comfort Levels**: Standard pods provide comfortable travel with minimal physical stress. Luxury pods eliminate most hazard risks, while emergency pods may impose disadvantage on certain checks due to cramped conditions.
 
-**Pressure Adaptation**: Characters not native to [[02_Worldbuilding/Places/Aquabyssos]] must make Constitution saving throws during pressure transitions. Failure results in temporary conditions that affect performance until proper medical treatment is received.
+**Pressure Adaptation**: Characters not native to [[Aquabyssos]] must make Constitution saving throws during pressure transitions. Failure results in temporary conditions that affect performance until proper medical treatment is received.
 
 ### Network Status Effects
 
@@ -288,7 +282,7 @@ Compact emergency shelters designed to protect passengers during tube system fai
 
 **Transportation Delays**: System maintenance, emergencies, or security alerts can force characters to use alternate routes, creating opportunities for unexpected encounters or plot developments.
 
-**Network Information**: The transportation system's consciousness and comprehensive monitoring capabilities provide valuable sources of information about events throughout [[02_Worldbuilding/Places/Aquabyssos]], though accessing this information requires appropriate skills and relationships.
+**Network Information**: The transportation system's consciousness and comprehensive monitoring capabilities provide valuable sources of information about events throughout [[Aquabyssos]], though accessing this information requires appropriate skills and relationships.
 
 **Emergency Situations**: System failures, attacks, or natural disasters affecting the tube network create urgent scenarios that require immediate character response and can affect kingdom-wide stability.
 
@@ -297,21 +291,21 @@ Compact emergency shelters designed to protect passengers during tube system fai
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Depth Adaptation Points]]
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Crystal Forest]]
+- [[Depth Adaptation Points]]
+- [[Depth Effect Quick Reference]]
 - [[Eastern Kingdoms 2]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-- [[02_Worldbuilding/Lore/The Depth Chart]]
-- [[02_Worldbuilding/Lore/Tidal Chambers]]
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Dream Rails]]
-- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Pressure Adaptation System]]
+- [[Pressure Tube Operator Krill]]
+- [[The Deep Harvest]]
+- [[The Depth Chart]]
+- [[Tidal Chambers]]
+- [[Underwater Breathing]]
+- [[Abyssos Prime]]
+- [[Dream Rails]]
+- [[Pressure Tube Terminal]]
+- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -333,7 +327,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[Pressure Tubes]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[Eastern Kingdom]]

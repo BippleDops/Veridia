@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-countess-marina-stormcrest-countess-marina-stormcrest.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-countess-marina-stormcrest-countess-marina-stormcrest.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Countess Marina Stormcrest]]
+- [[Countess Marina Stormcrest]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]

@@ -25,9 +25,9 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/bag-of-tricks-gray-xdmg|Bag of Tricks, Gray]]
-- [[/03_Mechanics/CLI/items/bag-of-tricks-rust-xdmg|Bag of Tricks, Rust]]
-- [[/03_Mechanics/CLI/items/bag-of-tricks-tan-xdmg|Bag of Tricks, Tan]]
+- [[bag-of-tricks-gray-xdmg|Bag of Tricks, Gray]]
+- [[bag-of-tricks-rust-xdmg|Bag of Tricks, Rust]]
+- [[bag-of-tricks-tan-xdmg|Bag of Tricks, Tan]]
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

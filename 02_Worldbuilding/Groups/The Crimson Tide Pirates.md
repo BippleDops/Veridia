@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[Ancient Mer-Folk Empire]]
 
 ## Player-Facing Summary
 

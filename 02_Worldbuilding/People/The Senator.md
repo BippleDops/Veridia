@@ -14,8 +14,6 @@ world: Both
 ---
 
 
-
-
 mysterious
 - npc
 - parliamentary
@@ -41,10 +39,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-senator-the-senator.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-senator-the-senator.svg]]
 
 
 # The Senator
@@ -208,7 +203,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Key Relationships
 
 ### Parliamentary Allies
-**[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**
+**[[Tribune Cassia Deepcurrent]]**
 - Close working relationship on environmental issues
 - Cassia becoming concerned about Cordelia's recent authoritarian votes
 - Still trusts her personally but questioning her judgment
@@ -221,7 +216,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 - May become opposition if replacement becomes more obvious
 
 ### Shadow Connections (Unknown to Her)
-**[[02_Worldbuilding/People/Senator Glaucus]]** (Shadow-Replaced)
+**[[Senator Glaucus]]** (Shadow-Replaced)
 - Coordinates shadow agenda through parliamentary channels
 - She believes their recent policy alignment is natural evolution
 - He subtly guides her shadow-influenced decisions
@@ -234,7 +229,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 - Never direct communication—always feels like her own thoughts
 
 ### Opposition and Skeptics
-**[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**
+**[[Admiral Cassandra Stormwind]]**
 - Military leader suspicious of Senator's recent policy shifts
 - Concerned about security measures that could threaten civil liberties
 - Beginning to investigate shadow influence in parliament
@@ -460,39 +455,39 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Growing concerned ally
-- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow coordinator
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Suspicious opponent
-- [[02_Worldbuilding/People/Tenebrarum]] - Diplomatic complications
-- [[02_Worldbuilding/Lore/The Whispered Voice]] - Shadow handler
+- [[Tribune Cassia Deepcurrent]] - Growing concerned ally
+- [[Senator Glaucus]] - Shadow coordinator
+- [[Admiral Cassandra Stormwind]] - Suspicious opponent
+- [[Tenebrarum]] - Diplomatic complications
+- [[The Whispered Voice]] - Shadow handler
 
 ### Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Primary workplace
-- [[02_Worldbuilding/Lore/The Senator's Office]] - Seat of influence
-- [[02_Worldbuilding/Places/Tidal District]] - Home constituency
-- [[02_Worldbuilding/Lore/Citizens Council Chambers]] - Regular meetings
-- [[02_Worldbuilding/Places/The Progressive Coalition Headquarters]] - Political base
+- [[Parliament of Echoes]] - Primary workplace
+- [[The Senator's Office]] - Seat of influence
+- [[Tidal District]] - Home constituency
+- [[Citizens Council Chambers]] - Regular meetings
+- [[The Progressive Coalition Headquarters]] - Political base
 
 ### Organizations
-- [[02_Worldbuilding/Lore/The Progressive Coalition]] - Political party
-- [[02_Worldbuilding/Lore/Citizens Rights Advocacy Group]] - Grassroots supporters
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]] - Unwitting membership
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Ethics Committee]] - Chairwoman role
+- [[The Progressive Coalition]] - Political party
+- [[Citizens Rights Advocacy Group]] - Grassroots supporters
+- [[The Shadow Parliament]] - Unwitting membership
+- [[Parliamentary Ethics Committee]] - Chairwoman role
 - [[Deep Academy Alumni Association]] - Professional network
 
 ### Items & Concepts
-- [[02_Worldbuilding/Lore/The Citizens Protection Act]] - Shadow-influenced legislation
-- [[02_Worldbuilding/Places/Progressive Policy Portfolio]] - Her genuine reform agenda
-- [[02_Worldbuilding/Lore/The Senator's Voting Record]] - Evidence of changes
-- [[02_Worldbuilding/Lore/Shadow Replacement Procedures]] - How she was transformed
-- [[02_Worldbuilding/Lore/Political Immunity Privileges]] - Legal protections
+- [[The Citizens Protection Act]] - Shadow-influenced legislation
+- [[Progressive Policy Portfolio]] - Her genuine reform agenda
+- [[The Senator's Voting Record]] - Evidence of changes
+- [[Shadow Replacement Procedures]] - How she was transformed
+- [[Political Immunity Privileges]] - Legal protections
 
 ### Related Plots
 - [[The Shadow Parliament Investigation]] - Larger conspiracy
-- [[02_Worldbuilding/Lore/Progressive Movement Infiltration]] - Systematic corruption
-- [[02_Worldbuilding/Lore/The Authentication Crisis]] - Who can be trusted
-- [[02_Worldbuilding/Lore/Democratic Erosion]] - Systemic governmental changes
-- [[02_Worldbuilding/Lore/The Purification Protocols]] - Potential cure for replacement
+- [[Progressive Movement Infiltration]] - Systematic corruption
+- [[The Authentication Crisis]] - Who can be trusted
+- [[Democratic Erosion]] - Systemic governmental changes
+- [[The Purification Protocols]] - Potential cure for replacement
 
 ---
 
@@ -513,7 +508,7 @@ Legends speak of The Senator as a nexus where past and present converge. Locals 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[The Senator]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]

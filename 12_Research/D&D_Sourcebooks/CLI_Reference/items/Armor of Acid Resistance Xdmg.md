@@ -42,7 +42,7 @@ world: Both
 
 
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to acid damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

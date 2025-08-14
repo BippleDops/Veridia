@@ -385,3 +385,24 @@
 
 ## creature-creature-young-green-dragon-xmm-young-green-dragon-xmm
 ![](04_Resources/Assets/Creatures/creature-creature-young-green-dragon-xmm-young-green-dragon-xmm.png)
+
+## creature_aethermoor_1755202994345
+![](04_Resources/Assets/Creatures/creature_aethermoor_1755202994345.png)
+
+## creature_aethermoor_1755203587693
+![](04_Resources/Assets/Creatures/creature_aethermoor_1755203587693.png)
+
+## creature_aquabyssos_1755202973301
+![](04_Resources/Assets/Creatures/creature_aquabyssos_1755202973301.png)
+
+## creature_aquabyssos_1755203566645
+![](04_Resources/Assets/Creatures/creature_aquabyssos_1755203566645.png)
+
+## creature_production_1755203942719
+![](04_Resources/Assets/Creatures/creature_production_1755203942719.png)
+
+## creature_void_1755203015390
+![](04_Resources/Assets/Creatures/creature_void_1755203015390.png)
+
+## creature_void_1755203608747
+![](04_Resources/Assets/Creatures/creature_void_1755203608747.png)

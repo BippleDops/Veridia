@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-tridrone-xmm-modron-tridrone-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/modron-tridrone-xmm|Modron Tridrone]]
+# [[modron-tridrone-xmm|Modron Tridrone]]
 *Source: Monster Manual (2024) p. 217*  
 
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
@@ -91,7 +91,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/2"

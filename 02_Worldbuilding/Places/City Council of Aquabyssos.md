@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-city-council-of-aquabyssos-city-council-of-aquabyssos.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-city-council-of-aquabyssos-city-council-of-aquabyssos.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/City Council of Aquabyssos]]
+- [[12_Research/D&D_References/City Council of Aquabyssos]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

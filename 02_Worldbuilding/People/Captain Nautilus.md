@@ -14,11 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Nautilus]]
+- [[Captain Nautilus]]
 
 <!-- enriched: true -->

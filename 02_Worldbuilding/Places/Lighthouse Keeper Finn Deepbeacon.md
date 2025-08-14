@@ -15,9 +15,6 @@ world: Both
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -57,6 +54,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lighthouse Keeper Finn Deepbeacon]]
+- [[12_Research/D&D_References/Lighthouse Keeper Finn Deepbeacon]]
 
 <!-- enriched: true -->

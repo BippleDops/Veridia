@@ -23,13 +23,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg]]
 
 
 # Find the Shadow Cure
@@ -140,6 +135,6 @@ Legends speak of Find the Shadow Cure as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Find the Shadow Cure]]
+- [[Find the Shadow Cure]]
 
 <!-- enriched: true -->

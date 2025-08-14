@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg]]
 
 
 # Blood in the Water
@@ -92,7 +88,7 @@ Use "Blood in the Water" as both literal environmental hazard and metaphor for e
 ## Connections
 
 - [[The_Crimson_Pearl|The Crimson Pearl]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 
 ## Appearance
@@ -134,6 +130,6 @@ Legends speak of Blood in the Water as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Blood in the Water]]
+- [[Blood in the Water]]
 
 <!-- enriched: true -->

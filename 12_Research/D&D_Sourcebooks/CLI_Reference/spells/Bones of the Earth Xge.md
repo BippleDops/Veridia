@@ -36,11 +36,11 @@ You cause up to six pillars of stone to burst from places on the ground that you
 
 If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
 
-If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes `6d6` bludgeoning damage and is [[/03_Mechanics/CLI/conditions#Restrained|restrained]], pinched between the pillar and the obstacle. The [[/03_Mechanics/CLI/conditions#Restrained|restrained]] creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [[/03_Mechanics/CLI/conditions#Restrained|restrained]] and must either move off the pillar or fall off it.
+If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes `6d6` bludgeoning damage and is [[conditions#Restrained|restrained]], pinched between the pillar and the obstacle. The [[conditions#Restrained|restrained]] creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [[conditions#Restrained|restrained]] and must either move off the pillar or fall off it.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 150*
 

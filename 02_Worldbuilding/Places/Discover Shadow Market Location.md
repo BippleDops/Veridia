@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg)
-
-
-
 
 
 # Discover Shadow Market Location
@@ -84,7 +80,7 @@ Emphasize the cat-and-mouse nature of the investigation. The market should feel 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 
 
 ## History
@@ -126,6 +122,6 @@ Legends speak of Discover Shadow Market Location as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Discover Shadow Market Location]]
+- [[Discover Shadow Market Location]]
 
 <!-- enriched: true -->

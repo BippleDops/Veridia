@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-reef-shark-xmm-reef-shark-xmm.svg)
-
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reef Shark]]
+- [[12_Research/D&D_References/Reef Shark]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[12_Research/D&D_References/Current Riders Guild]]

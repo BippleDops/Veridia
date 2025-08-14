@@ -24,7 +24,7 @@ world: Both
 
 ![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/020-tod-14-01.webp#center)
 
-When the Cult of the Dragon sounded the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]], its tremors were felt across the North. In response, many metallic dragons began to investigate what the sounding meant, and to gather what information they could on the cult from nearby humanoid cultures.
+When the Cult of the Dragon sounded the [[draakhorn-rot|Draakhorn]], its tremors were felt across the North. In response, many metallic dragons began to investigate what the sounding meant, and to gather what information they could on the cult from nearby humanoid cultures.
 
 One of those dragons, an ancient gold wyrm named Protanther, invoked an ancient draconic rite of council, summoning ambassadors from among the metallic dragons. Meeting in the Nether Mountains, the council will determine what metallic dragons should do in the face of the looming threat of [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]].
 
@@ -160,11 +160,11 @@ Neutral. If any character is a dragonborn, Tazmikella is instead cautious. If th
 
 #### Concession
 
-Pick one magic item owned by a member of the party, and which was found during a previous adventure. That item turns out to have once belonged to Tazmikella, and was part of a hoard she took from an ancient black dragon she defeated. ([[/03_Mechanics/CLI/spells/legend-lore-xphb|Legend lore]] or similar magic used on the item confirms this story.) The item holds sentimental value to her—or it did until a thief stole it from her hoard. Returning the item to her with an apology improves Tazmikella's attitude.
+Pick one magic item owned by a member of the party, and which was found during a previous adventure. That item turns out to have once belonged to Tazmikella, and was part of a hoard she took from an ancient black dragon she defeated. ([[legend-lore-xphb|Legend lore]] or similar magic used on the item confirms this story.) The item holds sentimental value to her—or it did until a thief stole it from her hoard. Returning the item to her with an apology improves Tazmikella's attitude.
 
 > [!note] A Relic for Just Such an Occasion
 > 
-> Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons—for example, bringing all five dragons up to an attitude of friendly—or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 [[/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg|arrows of slaying (dragons)]], or [[/03_Mechanics/CLI/items/armor-of-resistance-xdmg|armor of resistance (lightning)]]. Either will prove useful against the cult, especially if the characters have yet to play through chapter 15. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)
+> Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons—for example, bringing all five dragons up to an attitude of friendly—or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 [[ammunition-of-slaying-xdmg|arrows of slaying (dragons)]], or [[armor-of-resistance-xdmg|armor of resistance (lightning)]]. Either will prove useful against the cult, especially if the characters have yet to play through chapter 15. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)
 ^a-relic-for-just-such-an-occasion
 
 ### General Concessions

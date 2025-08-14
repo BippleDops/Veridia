@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-weighted-representation-pressure-weighted-representation.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-weighted-representation-pressure-weighted-representation.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure-Weighted Representation]]
+- [[Pressure-Weighted Representation]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[Tethyan Hegemony]]

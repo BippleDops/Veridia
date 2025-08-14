@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -60,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow-touched Communities]]
+- [[Shadow-touched Communities]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[Tenebrarum Ambassadors]]

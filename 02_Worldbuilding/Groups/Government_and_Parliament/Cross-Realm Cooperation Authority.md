@@ -14,18 +14,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[Temporal Anomaly Resolution]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Temporal Anomaly Resolution]]
 
 ## Player-Facing Summary
 

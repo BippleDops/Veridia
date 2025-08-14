@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-official-memory-keepers-official-memory-keepers.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-official-memory-keepers-official-memory-keepers.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Official Memory Keepers]]
+- [[Official Memory Keepers]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[The Parliament of Nobody]]

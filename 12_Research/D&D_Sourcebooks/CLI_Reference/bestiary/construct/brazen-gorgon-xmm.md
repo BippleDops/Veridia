@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/brazen-gorgon-xmm|Brazen Gorgon]]
+# [[brazen-gorgon-xmm|Brazen Gorgon]]
 *Source: Monster Manual (2024) p. 149*  
 
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
@@ -45,7 +45,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[/03_Mechanics/CLI/conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [[conditions#Petrified|petrified]] trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -84,20 +84,20 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
 "damage_immunities": "fire"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Petrified|petrified]]"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": ""
 "cr": "9"
 "traits":
-  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the gorgon takes 13 (3d8) Fire damage."
     "name": "Flame Aura"
-  - "desc": "The gorgon sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The gorgon sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -106,17 +106,17 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
       \ plus 10 (3d6) Fire damage."
     "name": "Gore"
-  - "desc": "The gorgon moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
-      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
+  - "desc": "The gorgon moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ and can move through the spaces of Medium or smaller creatures. Each time\
       \ the gorgon enters a creature's space for the first time during this move,\
       \ that target is subjected to the following effect. Dexterity Saving Throw:\
       \ DC 16. Failure: 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
-      \ and the target is pulled into the gorgon's space and has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 14); if the gorgon already has a creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]],\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition\
-      \ instead. Until the grapple ends, the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
-      \ condition. When the gorgon moves, the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ and the target is pulled into the gorgon's space and has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14); if the gorgon already has a creature [[conditions#Grappled|Grappled]],\
+      \ the target has the [[conditions#Prone|Prone]] condition\
+      \ instead. Until the grapple ends, the target has the [[conditions#Restrained|Restrained]]\
+      \ condition. When the gorgon moves, the [[conditions#Grappled|Grappled]]\
       \ target moves with it, costing no extra movement."
     "name": "Smelting Charge (Recharge 5-6)"
 "source":

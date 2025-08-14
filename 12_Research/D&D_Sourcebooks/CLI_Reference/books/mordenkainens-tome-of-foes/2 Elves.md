@@ -254,7 +254,7 @@ Surface elves, and other elves who dwell in the light, revere these entities for
 
 The Elf Deities table enumerates the members of the Seldarine. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described in this section.
 
-![[/03_Mechanics/CLI/tables/elf-deities-the-seldarine-mtf|Elf Deities (The Seldarine)]]
+![[elf-deities-the-seldarine-mtf|Elf Deities (The Seldarine)]]
 
 ### Corellon Larethian
 
@@ -513,7 +513,7 @@ Lolth demands the lion's share of worship from the drow, according to her wishes
 
 The Drow Deities table lists the members of the Dark Seldarine. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. The gods in the table are described below.
 
-![[/03_Mechanics/CLI/tables/drow-deities-the-dark-seldarine-mtf|Drow Deities (The Dark Seldarine)]]
+![[drow-deities-the-dark-seldarine-mtf|Drow Deities (The Dark Seldarine)]]
 
 > [!note] Drow Trance: Entering the Void
 > 
@@ -755,13 +755,13 @@ Shadar-kai are very interested in the magical silt at the bottom of the River St
 
 At the DM's discretion, you have access to more subraces for elf characters, in addition to the subraces in the *Player's Handbook.* When you choose the subrace of your elf, you can choose one of the following options: eladrin, sea elf, or shadar-kai.
 
-- [[/03_Mechanics/CLI/races/elf-eladrin-mtf|Elf (Eladrin)]]  
-- [[/03_Mechanics/CLI/races/elf-sea-mtf|Elf (Sea)]]  
-- [[/03_Mechanics/CLI/races/elf-shadar-kai-mtf|Elf (Shadar-kai)]]  
+- [[elf-eladrin-mtf|Elf (Eladrin)]]  
+- [[elf-sea-mtf|Elf (Sea)]]  
+- [[elf-shadar-kai-mtf|Elf (Shadar-kai)]]  
 
 ### Elf Random Height and Weight
 
-![[/03_Mechanics/CLI/tables/elf-random-height-and-weight-mtf|Elf Random Height and Weight]]
+![[elf-random-height-and-weight-mtf|Elf Random Height and Weight]]
 
 Height = Base Height + Height Modifier (in inches)
 
@@ -772,15 +772,15 @@ Weight = Base Weight + Height Modifier (in pounds) × Weight Modifier
 This section provides tables for players and DMs who want to choose or randomly generate details about elves
 
 > [!embed-item]- Elven Trinket
-> ![[/03_Mechanics/CLI/items/elven-trinket-mtf|Elven Trinket]]
+> ![[elven-trinket-mtf|Elven Trinket]]
 
-![[/03_Mechanics/CLI/tables/elf-tables-elf-non-drow-adventurer-story-hooks-mtf|Elf Tables; Elf (Non-drow) Adventurer Story Hooks]]
+![[elf-tables-elf-non-drow-adventurer-story-hooks-mtf|Elf Tables; Elf (Non-drow) Adventurer Story Hooks]]
 
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315616_cn_wmask.webp#center)
 
-![[/03_Mechanics/CLI/tables/elf-tables-drow-adventurer-story-hooks-mtf|Elf Tables; Drow Adventurer Story Hooks]]
+![[elf-tables-drow-adventurer-story-hooks-mtf|Elf Tables; Drow Adventurer Story Hooks]]
 
-![[/03_Mechanics/CLI/tables/elf-tables-drow-house-specialty-mtf|Elf Tables; Drow House Specialty]]
+![[elf-tables-drow-house-specialty-mtf|Elf Tables; Drow House Specialty]]
 
 ## Player-Facing Summary
 

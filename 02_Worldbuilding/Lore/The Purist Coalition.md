@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,21 +15,18 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[12_Research/D&D_Statblocks/Ambush Point]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/The Crimson Shard Guardian]]
+- [[12_Research/D&D_Statblocks/Ambush Point]]
 
 ## Player-Facing Summary
 
@@ -49,3 +47,8 @@ Legends speak of The Purist Coalition as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

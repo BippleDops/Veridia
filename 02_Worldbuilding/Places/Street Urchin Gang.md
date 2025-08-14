@@ -19,12 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg]]
 
 
 # Street Urchin Gang
@@ -90,7 +86,7 @@ Use this gang to add moral complexity - they're criminals but sympathetic. They 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Pearl_Harbor_City]]
 
 
 ## History
@@ -132,6 +128,6 @@ Legends speak of Street Urchin Gang as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Street Urchin Gang]]
+- [[Street Urchin Gang]]
 
 <!-- enriched: true -->

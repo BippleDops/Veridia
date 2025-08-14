@@ -30,12 +30,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-vulture-xmm-giant-vulture-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/giant-vulture-xmm|Giant Vulture]]
+# [[giant-vulture-xmm|Giant Vulture]]
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Vulture (XMM)"
@@ -55,21 +55,21 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_resistances": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The vulture has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The vulture has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the vulture's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage,\
-      \ and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Gouge"
 "source":

@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action on your turn.
+You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[actions#Attack|Attack]] action on your turn.
 
 ## Player-Facing Summary
 

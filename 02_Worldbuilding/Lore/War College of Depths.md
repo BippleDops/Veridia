@@ -14,9 +14,6 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]]

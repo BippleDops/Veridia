@@ -2,6 +2,9 @@
 type: Lore
 status: draft
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
 - available
 - both
 - economic
@@ -22,25 +25,24 @@ created: '2025-08-11'
 ---
 
 
-
-
-
-
 # Economic Warfare
 
 *The conquest without swords - Aethermoor's sovereignty hangs in the balance*
 
 ## Quest Overview
-The [[02_Worldbuilding/Places/Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[02_Worldbuilding/People/Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
+
+The [[12_Research/D&D_References/Goldspire Confederacy]] is orchestrating Aethermoor's economic collapse to force annexation. With [[12_Research/D&D_References/Zephyr Goldwhisper]] as their primary agent and multiple crises weakening the kingdom, the party must expose and counter this bloodless invasion while navigating international politics and moral compromises.
 
 ## Quest Giver
+
 Multiple possible sources:
-- **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** notices foreign interference in black markets
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
-- **Anonymous note** revealing Confederate plans (from guilty [[02_Worldbuilding/People/Zephyr Goldwhisper]])
+- **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** discovers financial irregularities in Order supplies
+- **[[12_Research/D&D_References/Vex Shadowthorn]]** notices foreign interference in black markets
+- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** secretly requests help with mounting debts
+- **Anonymous note** revealing Confederate plans (from guilty [[12_Research/D&D_References/Zephyr Goldwhisper]])
 
 ## Background
+
 The Goldspire Confederacy has been systematically:
 - Buying up Aethermoor's debts through shell companies
 - Creating artificial supply shortages
@@ -51,41 +53,47 @@ The Goldspire Confederacy has been systematically:
 ## Objectives
 
 ### Primary Objectives
+
 1. Expose the Confederate economic manipulation
 2. Prevent or negotiate the debt crisis
-3. Decide [[02_Worldbuilding/People/Zephyr Goldwhisper]]'s fate
+3. Decide [[12_Research/D&D_References/Zephyr Goldwhisper]]'s fate
 4. Stop or redirect Operation Goldfall
 
 ### Optional Objectives
+
 - Turn Zephyr into a double agent
-- Steal null-technology from [[02_Worldbuilding/Places/Goldspire Port]]
+- Steal null-technology from [[12_Research/D&D_References/Goldspire Port]]
 - Rally international support against Confederacy
 - Create economic counter-offensive
 - Expose or protect Confederate spy network
 
 ## Key NPCs Involved
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Confederate spy with growing conscience
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
-- **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Controls black market, key to economic independence
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
-- **Trade Prince Aurelius Gilt** - Confederate leader in [[02_Worldbuilding/Places/Goldspire Port]]
+
+- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Confederate spy with growing conscience
+- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** - Desperate ruler considering surrender
+- **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** - Organizes resistance through underground networks
+- **[[12_Research/D&D_References/Vex Shadowthorn]]** - Controls black market, key to economic independence
+- **[[12_Research/D&D_References/Ambassador Korvin Blacktide]]** - Potential unlikely ally against Confederacy
+- **Trade Prince Aurelius Gilt** - Confederate leader in [[12_Research/D&D_References/Goldspire Port]]
 
 ## Investigation Threads
 
 ### Follow the Money
+
 - Shell companies traced to Confederate banks
-- Suspicious trading patterns in [[02_Worldbuilding/Places/Port Meridian]]
+- Suspicious trading patterns in [[12_Research/D&D_References/Port Meridian]]
 - Order supply contracts with inflated prices
 - Noble debts being consolidated by single creditor
 
 ### The Spy Network
+
 - Zephyr's shop contains coded communications
 - Confederate agents embedded in major guilds
-- Refugee quarter in [[02_Worldbuilding/Places/Goldspire Port]] recruiting dissidents
+- Refugee quarter in [[12_Research/D&D_References/Goldspire Port]] recruiting dissidents
 - Admiral Brass Hookhand's fleet movements
 
 ### The Null Weapons
+
 - Technology that completely neutralizes crystal energy
 - Weapons capable of rendering Aethermoor defenseless
 - Plans to deploy if crystal corruption spreads
@@ -94,31 +102,36 @@ The Goldspire Confederacy has been systematically:
 ## Paths to Resolution
 
 ### The Diplomatic Solution
+
 - Negotiate directly with Trade Prince Aurelius Gilt
 - Offer controlled crystal trade in exchange for debt relief
-- Propose Aethermoor as buffer state against [[02_Worldbuilding/Places/Aquabyssos]]
+- Propose Aethermoor as buffer state against [[12_Research/D&D_References/Aquabyssos]]
 - Risk: Partial loss of sovereignty
 
 ### The Economic Counter
-- Unite [[02_Worldbuilding/Groups/Merchant Princes]] against foreign takeover
-- Use [[02_Worldbuilding/People/Vex Shadowthorn]]'s network for smuggling operation
-- Create alternative trade routes through [[02_Worldbuilding/Places/Aquabyssos]]
+
+- Unite [[12_Research/D&D_References/Merchant Princes]] against foreign takeover
+- Use [[12_Research/D&D_References/Vex Shadowthorn]]'s network for smuggling operation
+- Create alternative trade routes through [[12_Research/D&D_References/Aquabyssos]]
 - Risk: Economic war escalation
 
 ### The Espionage Option
+
 - Turn Zephyr and feed false intelligence
-- Infiltrate [[02_Worldbuilding/Places/Goldspire Port]] to steal null-technology
+- Infiltrate [[12_Research/D&D_References/Goldspire Port]] to steal null-technology
 - Sabotage Confederate fleet preparations
 - Risk: International incident if caught
 
 ### The Revolutionary Path
+
 - Expose everything publicly, cause popular uprising
 - Default on all foreign debts, economic isolation
 - Nationalize crystal production and trade
 - Risk: Complete economic collapse
 
 ### The Dark Alliance
-- Ally with [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] against Confederacy
+
+- Ally with [[12_Research/D&D_References/Ambassador Korvin Blacktide]] against Confederacy
 - Threaten to spread corruption internationally
 - Use Green Death threat as leverage
 - Risk: Becoming the villain
@@ -126,16 +139,19 @@ The Goldspire Confederacy has been systematically:
 ## Moral Complexities
 
 ### Zephyr's Dilemma
+
 Zephyr has genuinely grown fond of several Aethermoor citizens and is increasingly conflicted. They possess:
 - Complete Confederate invasion plans
-- Null bomb locations in [[02_Worldbuilding/Places/Port Meridian]]
+- Null bomb locations in [[12_Research/D&D_References/Port Meridian]]
 - Codes for Confederate spy network
 - Personal friendship with Trade Prince
 
 ### The Refugee Question
-Many Aethermoor refugees in [[02_Worldbuilding/Places/Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
+
+Many Aethermoor refugees in [[12_Research/D&D_References/Goldspire Port]] support annexation, believing it's better than corruption. They're not wrong - Confederate rule might save lives.
 
 ### The Economic Reality
+
 Aethermoor genuinely cannot pay its debts without Confederate help. Default means:
 - No foreign trade
 - Medical supply shortages
@@ -143,6 +159,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 - Military collapse
 
 ## DM Secrets
+
 > [!warning] The Ticking Clock
 > - 10 days until debt payment due
 > - 7 days until Confederate fleet "training exercise"
@@ -158,12 +175,14 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 ## Encounters
 
 ### Social Challenges
+
 - **Negotiation with Trade Prince** (CHA checks, multiple stages)
 - **Merchant Prince Summit** (convince 5 different factions)
 - **Spy Network Infiltration** (Deception and Investigation)
 - **Public Opinion Campaign** (Performance and Persuasion)
 
 ### Combat Encounters (if escalated)
+
 - **Confederate Agents** (CR 5, assassin stats)
 - **Null-Tech Soldiers** (CR 4, immunity to magic)
 - **Zephyr's Gadgets** (CR 9, if hostile)
@@ -172,6 +191,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 ## Rewards
 
 ### Success (Full)
+
 - Economic independence maintained
 - Confederate tech samples (null devices)
 - 15,000 gp in recovered assets
@@ -180,6 +200,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 - Trade agreements on equal terms
 
 ### Success (Partial)
+
 - Delayed annexation
 - Some debt relief
 - 7,500 gp in resources
@@ -187,6 +208,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 - Conditional sovereignty
 
 ### Failure
+
 - Aethermoor becomes Confederate protectorate
 - Party labeled as insurgents or heroes
 - Foreign administrators control government
@@ -196,24 +218,28 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 ## Consequences & Follow-ups
 
 ### Economic Independence
+
 - Must still solve crystal crisis
 - Other nations may attempt similar tactics
 - Internal economic reform needed
 - Strengthened merchant class
 
 ### Confederate Alliance
+
 - Access to null technology
 - Foreign troops in Aethermoor
 - Cultural influence increases
 - Protected from other threats
 
 ### Economic Collapse
+
 - Barter economy emerges
 - Regional warlords rise
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] controls trade
+- [[12_Research/D&D_Statblocks/The Whisper Syndicate]] controls trade
 - Survival campaign focus
 
 ## Connected Quests
+
 - Connects to: "The Tide Rises" (competing foreign interests)
 - Relates to: "The Green Death" (Confederate resources for cure)
 - Leads to: "Sovereignty's End" (if failed)
@@ -222,7 +248,7 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[12_Research/D&D_Statblocks/Aurelius Goldwave]]
 
 ## Player-Facing Summary
 
@@ -246,5 +272,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos]]
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+- [[12_Research/D&D_References/Aquabyssos]]
+- [[12_Research/D&D_References/Goldspire Confederacy]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

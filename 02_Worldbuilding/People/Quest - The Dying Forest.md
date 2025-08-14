@@ -23,13 +23,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg]]
 
 
 # Quest - The Dying Forest
@@ -115,8 +110,8 @@ This quest explores environmental themes and offers multiple problem-solving app
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archdruid Thornweaver]]
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[Archdruid Thornweaver]]
+- [[The Verdant Reach]]
 
 
 ## Overview
@@ -170,6 +165,6 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Dying Forest]]
+- [[Quest - The Dying Forest]]
 
 <!-- enriched: true -->

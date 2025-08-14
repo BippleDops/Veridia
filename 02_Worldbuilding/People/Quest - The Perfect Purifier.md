@@ -22,13 +22,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg]]
 
 
 # Quest - The Perfect Purifier
@@ -126,7 +121,7 @@ This quest explores themes of scientific ethics, unintended consequences, and th
 
 ## Connections
 
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[Master Artificer Korvin Gearwright]]
 
 
 ## Overview
@@ -180,6 +175,6 @@ Legends speak of Quest   The Perfect Purifier as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Perfect Purifier]]
+- [[Quest - The Perfect Purifier]]
 
 <!-- enriched: true -->

@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - aquabyssos
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-master-cultivator-reef-growstone-master-cultivator-reef-growstone.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-master-cultivator-reef-growstone-master-cultivator-reef-growstone.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Cultivator Reef Growstone]]
+- [[12_Research/D&D_References/Master Cultivator Reef Growstone]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal Forest]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

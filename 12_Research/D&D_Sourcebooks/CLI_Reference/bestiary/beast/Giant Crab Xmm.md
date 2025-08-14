@@ -29,12 +29,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-crab-xmm-giant-crab-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-crab-xmm|Giant Crab]]
+# [[giant-crab-xmm|Giant Crab]]
 *Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Crab (XMM)"
@@ -54,7 +54,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
@@ -64,7 +64,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Amphibious"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 11) from one of two claws."
     "name": "Claw"
 "source":

@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-axe-beak-xmm-giant-axe-beak-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/giant-axe-beak-xmm|Giant Axe Beak]]
+# [[giant-axe-beak-xmm|Giant Axe Beak]]
 *Source: Monster Manual (2024) p. 24*  
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
@@ -69,7 +69,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -82,7 +82,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
       \ Slashing damage."
     "name": "Sharpened Beak"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Talons"
 "source":

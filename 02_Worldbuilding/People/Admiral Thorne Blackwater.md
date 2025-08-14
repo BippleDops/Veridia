@@ -18,13 +18,13 @@ obsidianUIMode: preview
 race: Pressure-Adapted Human
 relationships:
 - strength: 3
-  target: '[[02_Worldbuilding/People/Captain Garrett Stormcutter]]'
+  target: '[[Captain Garrett Stormcutter]]'
   type: rival
 - strength: 4
-  target: '[[02_Worldbuilding/Groups/The Crystal Throne]]'
+  target: '[[The Crystal Throne]]'
   type: ally
 - strength: 2
-  target: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+  target: '[[Queen Seraphina Lumengarde]]'
   type: subordinate
 status: complete
 tags:
@@ -43,18 +43,14 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg]]
 
 
 # Admiral Thorne Blackwater
 
 ## Overview
-Admiral Thorne Blackwater commands the [[02_Worldbuilding/Places/Depth Wardens]] from [[02_Worldbuilding/Places/Pressure's End]], standing as the primary military force between [[02_Worldbuilding/Lore/Aquabyssos World Overview]] and the horrors of [[02_Worldbuilding/Places/The Hadal Depths]]. A veteran of over 200 deep patrols, his body bears scars from encounters with creatures that shouldn't exist. Pressure adaptation has made him massive - nearly 8 feet tall with dense muscle and bone structure. His eyes are completely black, adapted to see in the absolute darkness of the deep.
+Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[Pressure's End]], standing as the primary military force between [[Aquabyssos World Overview]] and the horrors of [[The Hadal Depths]]. A veteran of over 200 deep patrols, his body bears scars from encounters with creatures that shouldn't exist. Pressure adaptation has made him massive - nearly 8 feet tall with dense muscle and bone structure. His eyes are completely black, adapted to see in the absolute darkness of the deep.
 
 ## Personality
 - **Command Presence**: Inspires absolute loyalty through competence and courage
@@ -74,31 +70,31 @@ Admiral Thorne Blackwater commands the [[02_Worldbuilding/Places/Depth Wardens]]
 ## Relationships
 
 ### Military Hierarchy
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]] - Trusted second-in-command
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]] - Leviathan corps leader
-- [[02_Worldbuilding/Places/Scout Captain Vera Deepwatch]] - Eyes in the trenches
-- [[02_Worldbuilding/Places/Battle Priest Cassius Depthshield]] - Spiritual advisor
+- [[Commander Drake Pressureborn]] - Trusted second-in-command
+- [[Beast Master Krell Chainbreaker]] - Leviathan corps leader
+- [[Scout Captain Vera Deepwatch]] - Eyes in the trenches
+- [[Battle Priest Cassius Depthshield]] - Spiritual advisor
 
 ### Political Tensions
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Resents her civilian authority
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Disputes over bioweapon accusations
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]] - Respects but frustrated by neutrality
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.|Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
+- [[Archon Meredith Saltweaver]] - Resents her civilian authority
+- [[Duke Cyrus Reefheart]] - Disputes over bioweapon accusations
+- [[Mediator Serenity Stillwater]] - Respects but frustrated by neutrality
+ - [[Envoy Blackwater Jr.|Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
+ - [[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
 
 ### Secret Allies
-- [[02_Worldbuilding/Places/Spymaster Crow]] - Provides intelligence on all factions
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]] - Creating secret weapons
-- [[02_Worldbuilding/People/Doctor Helena Voidwalker]] - Researching anti-Deepmind technology
+- [[Spymaster Crow]] - Provides intelligence on all factions
+- [[Master Smith Vulcan Deepforge]] - Creating secret weapons
+- [[Doctor Helena Voidwalker]] - Researching anti-Deepmind technology
 
 ## History
 Born in the early years after the drowning, Thorne joined the Depth Wardens at 14 after his family was killed by a deep incursion. Rose through ranks by surviving missions others couldn't. Led the successful defense during the "Night of Ascending Horrors" 20 years ago. Has commanded Pressure's End for the last decade.
 
 ## Current Activities
-1. Preparing for massive assault from [[02_Worldbuilding/Places/The Hadal Depths]]
-2. Building secret weapon to destroy [[02_Worldbuilding/Places/The Deepmind]]
+1. Preparing for massive assault from [[The Hadal Depths]]
+2. Building secret weapon to destroy [[The Deepmind]]
 3. Training new generation of depth-resistant soldiers
-4. Investigating disappearances in [[02_Worldbuilding/Places/The Cerulean Trench]]
+4. Investigating disappearances in [[The Cerulean Trench]]
 5. Planning potential coup if civilians fail to act
 
 ## Secrets
@@ -125,7 +121,7 @@ Has personally killed:
 
 ## Plot Hooks
 - Recruiting exceptional individuals for suicide mission
-- Needs rare materials from [[02_Worldbuilding/Places/The Primordial Vaults]]
+- Needs rare materials from [[The Primordial Vaults]]
 - Investigating traitors within the Depth Wardens
 - Seeking alliance against common threat
 - Testing party's capability for deep operations
@@ -214,11 +210,11 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - **Treatment**: No known cure, only pain management and symptom delay
 
 ### The Cover-up
-- Only [[02_Worldbuilding/People/Doctor Helena Voidwalker]] knows the full extent of his condition
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]] suspects something but hasn't been told
+- Only [[Doctor Helena Voidwalker]] knows the full extent of his condition
+- [[Commander Drake Pressureborn]] suspects something but hasn't been told
 - The Admiral continues full duties to maintain morale and security
 - Secret contingency plans exist for succession and command transfer
-- Has been consulting [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] about prophesied solutions
+- Has been consulting [[Elder Whisper-In-The-Dark]] about prophesied solutions
 
 ## The Deep Fortress Network
 ### Pressure's End - Primary Command
@@ -259,7 +255,7 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 
 ## The Deepmind Conspiracy
 ### The Ancient Enemy
-[[02_Worldbuilding/Places/The Deepmind]] represents a collective consciousness of ancient sea horrors that seeks to corrupt and control all ocean life. The Admiral has spent decades studying this threat and developing countermeasures.
+[[The Deepmind]] represents a collective consciousness of ancient sea horrors that seeks to corrupt and control all ocean life. The Admiral has spent decades studying this threat and developing countermeasures.
 
 ### Known Intelligence
 - **Origin**: Predates the Great Drowning by millennia
@@ -270,44 +266,44 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 
 ### The Secret Weapon Project
 - **Project Depth Bane**: Development of weapon capable of disrupting the Deepmind's collective consciousness
-- **Research Team**: [[02_Worldbuilding/People/Doctor Helena Voidwalker]], [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]], and captured deep priests
-- **Components**: Requires materials from [[02_Worldbuilding/Places/The Primordial Vaults]] and other dangerous locations
+- **Research Team**: [[Doctor Helena Voidwalker]], [[Master Smith Vulcan Deepforge]], and captured deep priests
+- **Components**: Requires materials from [[The Primordial Vaults]] and other dangerous locations
 - **Timeline**: Must be completed before the Admiral's death or major deep incursion
 - **Risks**: Testing could alert the Deepmind to the weapon's existence
 
 ## Personal Relationships - Expanded
 ### Family Tragedy and Legacy
 - **Lost Family**: Parents and siblings killed in deep incursion when he was 14
-- **[[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]**: Son who rejected military life, secretly works for [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]]
-- **Inherited Duty**: Feels responsible for protecting all [[02_Worldbuilding/Places/Aquabyssos]] citizens as his family
+- **[[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]**: Son who rejected military life, secretly works for [[Free Current|02 Worldbuilding/Groups/Free Current]]
+- **Inherited Duty**: Feels responsible for protecting all [[Aquabyssos]] citizens as his family
 - **Succession Plans**: Training multiple potential replacements despite having living heir
 - **Family Guilt**: Blames himself for son's rebellion and lack of understanding
 
 ## Associates & Military Network
 
 ### The Deep Command Structure
-- **[[02_Worldbuilding/Places/Commander Drake Pressureborn]]** - Second-in-command and trusted deputy
-- **[[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]** - Leader of the War-Leviathan Corps
-- **[[02_Worldbuilding/Places/Scout Captain Vera Deepwatch]]** - Intelligence and reconnaissance commander
-- **[[02_Worldbuilding/Places/Battle Priest Cassius Depthshield]]** - Military chaplain and spiritual advisor
+- **[[Commander Drake Pressureborn]]** - Second-in-command and trusted deputy
+- **[[Beast Master Krell Chainbreaker]]** - Leader of the War-Leviathan Corps
+- **[[Scout Captain Vera Deepwatch]]** - Intelligence and reconnaissance commander
+- **[[Battle Priest Cassius Depthshield]]** - Military chaplain and spiritual advisor
 
 ### Political Relations
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ultimate imperial authority, complex loyalty
-- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Suspected threat requiring monitoring
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Potential ally against shadow threats
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Respected guide with valuable shadow intelligence
+- **[[Emperor Thalassius the Wise]]** - Ultimate imperial authority, complex loyalty
+- **[[Duchess Marina Ever-Drowning]]** - Suspected threat requiring monitoring
+- **[[Shadow Duchess Nyx]]** - Potential ally against shadow threats
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Respected guide with valuable shadow intelligence
 
 ### The Shadow Council
-- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]**: Secretly consults her prophecies about deep threats
-- **[[02_Worldbuilding/Places/Spymaster Crow]]**: Shares intelligence about political and military threats
-- **[[02_Worldbuilding/People/Doctor Helena Voidwalker]]**: His personal physician and research partner
-- **[[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]**: Creates specialized weapons and equipment
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Respects her competence despite political differences
+- **[[Elder Whisper-In-The-Dark]]**: Secretly consults her prophecies about deep threats
+- **[[Spymaster Crow]]**: Shares intelligence about political and military threats
+- **[[Doctor Helena Voidwalker]]**: His personal physician and research partner
+- **[[Master Smith Vulcan Deepforge]]**: Creates specialized weapons and equipment
+- **[[Harbor Master Luna Freedrift]]**: Respects her competence despite political differences
 
 ### Political Complexities
-- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]**: Suspects her true nature poses threat to Aquabyssos
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**: Rival who commands surface naval forces
-- **[[02_Worldbuilding/People/High Tidecaller Nerissa|02 Worldbuilding/People/High Tidecaller Nerissa]]**: Religious leader who provides spiritual guidance
+- **[[Duchess Marina Ever-Drowning]]**: Suspects her true nature poses threat to Aquabyssos
+- **[[Admiral Cassandra Stormwind]]**: Rival who commands surface naval forces
+- **[[High Tidecaller Nerissa|02 Worldbuilding/People/High Tidecaller Nerissa]]**: Religious leader who provides spiritual guidance
 - **Parliament War Hawks**: Politicians who want to use his forces for expansion rather than defense
 
 ## Combat Tactics - Advanced
@@ -326,15 +322,15 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - **Last Stand Mentality**: Will sacrifice everything to protect Aquabyssos
 
 ## Adventure Hooks - Expanded
-1. **The Deep Incursion**: Massive assault from [[02_Worldbuilding/Places/The Hadal Depths]] requires party assistance
+1. **The Deep Incursion**: Massive assault from [[The Hadal Depths]] requires party assistance
 2. **The Pressure Cure**: Search for treatment for the Admiral's fatal condition
 3. **The Deepmind Weapon**: Retrieve components for the secret anti-Deepmind device
 4. **The Traitor Hunt**: Investigate suspected spies within the Depth Wardens
-5. **The Son's Rebellion**: Navigate family conflict between Admiral and [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
+5. **The Son's Rebellion**: Navigate family conflict between Admiral and [[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
 6. **The Ancient Ally**: Make contact with the mysterious force opposing the Deepmind
 7. **The Succession Crisis**: Prepare replacement leadership before the Admiral's death
 8. **The Political Coup**: Prevent or assist the Admiral's potential military takeover
-9. **The Deep Expedition**: Lead mission to gather intelligence in [[02_Worldbuilding/Places/The Hadal Depths]]
+9. **The Deep Expedition**: Lead mission to gather intelligence in [[The Hadal Depths]]
 10. **The War Council**: Mediate between Admiral and civilian leadership during crisis
 
 ## Speaking Style - Expanded
@@ -371,55 +367,55 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 
 ## Connected Elements - Expanded
 - Central figure in all deep-sea and military storylines
-- Key to understanding the threat of [[02_Worldbuilding/Places/The Deepmind]] and [[02_Worldbuilding/Places/The Hadal Depths]]
+- Key to understanding the threat of [[The Deepmind]] and [[The Hadal Depths]]
 - Links military themes to political intrigue and family drama
 - Represents themes of duty, sacrifice, and the cost of leadership
 - Connection point between surface politics and deep-sea horror
 
 ## Locations
-- Primary: [[02_Worldbuilding/Places/Pressure's End]] - Strategic Depth Chamber
-- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - During military summits
-- Patrols: [[02_Worldbuilding/Places/The Cerulean Trench]], [[02_Worldbuilding/Places/The Hadal Depths]]
-- Secret: [[02_Worldbuilding/Places/The Lock]] - Hidden prison for captured deep horrors
-- Command: [[02_Worldbuilding/People/Deep Fortress Network]] - Military installations throughout the depths
+- Primary: [[Pressure's End]] - Strategic Depth Chamber
+- Secondary: [[The Bathyal Palace]] - During military summits
+- Patrols: [[The Cerulean Trench]], [[The Hadal Depths]]
+- Secret: [[The Lock]] - Hidden prison for captured deep horrors
+- Command: [[Deep Fortress Network]] - Military installations throughout the depths
 
 ## Connected NPCs - Expanded
-- **[[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]** - Estranged son working for [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]]
-- **[[02_Worldbuilding/People/Doctor Helena Voidwalker]]** - Personal physician hiding his terminal condition
-- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Oracle providing prophetic guidance about deep threats
-- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Suspected threat he monitors for imperial security
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Respected rival with different loyalties but shared competence
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Source of historical knowledge about deep threats
+- **[[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]** - Estranged son working for [[Free Current|02 Worldbuilding/Groups/Free Current]]
+- **[[Doctor Helena Voidwalker]]** - Personal physician hiding his terminal condition
+- **[[Elder Whisper-In-The-Dark]]** - Oracle providing prophetic guidance about deep threats
+- **[[Duchess Marina Ever-Drowning]]** - Suspected threat he monitors for imperial security
+- **[[Harbor Master Luna Freedrift]]** - Respected rival with different loyalties but shared competence
+- **[[Archivist Mnemonic the Forgotten]]** - Source of historical knowledge about deep threats
 
 ## Involved Quests
-- [[02_Worldbuilding/People/Quest - The Deep Incursion]] - Defending against major assault from the depths
-- [[02_Worldbuilding/People/Quest - The Pressure Cure]] - Finding treatment for the Admiral's fatal condition
-- [[02_Worldbuilding/People/Quest - The Deepmind Weapon]] - Completing the secret anti-Deepmind device
-- [[02_Worldbuilding/People/Quest - The Succession Crisis]] - Preparing for leadership transition
-- [[02_Worldbuilding/Quests/Discover Marina]] - Investigating Marina's true nature and threat level
-- [[02_Worldbuilding/Groups/Quest - The Family Reconciliatio]] - Healing the rift with his son
+- [[Quest - The Deep Incursion]] - Defending against major assault from the depths
+- [[Quest - The Pressure Cure]] - Finding treatment for the Admiral's fatal condition
+- [[Quest - The Deepmind Weapon]] - Completing the secret anti-Deepmind device
+- [[Quest - The Succession Crisis]] - Preparing for leadership transition
+- [[Discover Marina]] - Investigating Marina's true nature and threat level
+- [[Quest - The Family Reconciliatio]] - Healing the rift with his son
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[02_Worldbuilding/People/Captain Elara Shadowshard]]
+- [[Shadow Ambush - Optional]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Trade Network]]
+- [[Captain Elara Shadowshard]]
 - [[Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/People/Korvin Blacktide]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Korvin Blacktide]]
+- [[Azure Citadel]]
+- [[Shadow Merchant Riptide]]
+- [[The Lock]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Crystalline Depths]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Traveling Merchant Finn]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -442,15 +438,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[Admiral Thorne Blackwater]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[02_Worldbuilding/Places/Spymaster Crow]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[Beast Master Krell Chainbreaker]]
+- [[Commander Drake Pressureborn]]
+- [[Depth Wardens]]
+- [[Harbor Master Luna Freedrift]]
+- [[Master Smith Vulcan Deepforge]]
+- [[Mediator Serenity Stillwater]]
+- [[Spymaster Crow]]
+- [[The Deepmind]]
+- [[The Hadal Depths]]

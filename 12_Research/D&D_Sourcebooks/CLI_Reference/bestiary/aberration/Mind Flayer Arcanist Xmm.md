@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-arcanist-xmm-mind-flayer-arcanist-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]
+# [[mind-flayer-arcanist-xmm|Mind Flayer Arcanist]]
 *Source: Monster Manual (2024) p. 214*  
 
 Mind flayer arcanists enhance their psionic abilities with magic. Other mind flayers view those that undertake such experiments with disgust and fear.
@@ -85,21 +85,21 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "11"
 "traits":
-  - "desc": "The mind flayer has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The mind flayer has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -109,27 +109,27 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
       \ 27 (4d10 + 5) Psychic damage, and the mind flayer can teleport the target\
       \ up to 30 feet to an unoccupied space the mind flayer can see on a surface\
       \ or liquid large enough to support the target. If this damage reduces the target\
-      \ to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], the\
+      \ to 0 [[hit-points-xphb|Hit Points]], the\
       \ mind flayer kills it and magically devours its brain."
     "name": "Arcane Tentacles"
-  - "desc": "Intelligence Saving Throw: DC 17, each creature in a 40-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Intelligence Saving Throw: DC 17, each creature in a 40-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mind flayer. Failure: 41 (8d8 + 5) Psychic damage,\
-      \ and the target has the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition\
+      \ and the target has the [[conditions#Stunned|Stunned]] condition\
       \ until the end of the mind flayer's next turn. Success: Half damage only."
     "name": "Mind Burst (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise\
-      \ Self]], [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day each: [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]],\
-      \ [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]], [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]]\
-      \ (level 5 version), [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]]\
-      \ (level 5 version), [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]]\
-      \ (self only), [[/03_Mechanics/CLI/spells/sending-xphb|Sending]]"
+      \ DC 17):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\
+      \ Self]], [[mage-hand-xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n1/day each: [[clairvoyance-xphb|Clairvoyance]],\
+      \ [[dimension-door-xphb|Dimension Door]], [[fireball-xphb|Fireball]]\
+      \ (level 5 version), [[lightning-bolt-xphb|Lightning Bolt]]\
+      \ (level 5 version), [[plane-shift-xphb|Plane Shift]]\
+      \ (self only), [[sending-xphb|Sending]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The mind flayer casts [[/03_Mechanics/CLI/spells/shield-xphb|Shield]]\
+  - "desc": "The mind flayer casts [[shield-xphb|Shield]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Shield (2/Day)"

@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ambush-drake-hotdq-ambush-drake-hotdq.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/ambush-drake-hotdq|Ambush Drake]]
+# [[ambush-drake-hotdq|Ambush Drake]]
 *Source: Hoard of the Dragon Queen p. 88*  
 
 ```statblock
@@ -49,9 +49,9 @@ world: Both
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 14"
@@ -60,7 +60,7 @@ world: Both
 "traits":
   - "desc": "The drake has advantage on an attack roll against a creature if at least\
       \ one of the drake's allies is within 5 feet of the creature and the ally isn't\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "If the drake surprises a creature and hits it with an attack during the\
       \ first round of combat, the target takes an extra 7 (2d6) damage from the attack."

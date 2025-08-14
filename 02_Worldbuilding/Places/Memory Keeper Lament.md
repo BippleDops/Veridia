@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-keeper-lament-memory-keeper-lament.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-keeper-lament-memory-keeper-lament.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Keeper Lament]]
+- [[Memory Keeper Lament]]
 
 <!-- enriched: true -->

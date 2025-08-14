@@ -22,7 +22,7 @@ updated: '2025-08-12T23:37:35.839243'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\construct/modron-pentadrone-xmm|Modron Pentadrone]]
+# [[modron-pentadrone-xmm|Modron Pentadrone]]
 *Source: Monster Manual (2024) p. 218*  
 
 Pentadrones oversee and protect contingents of lesser modrons. They're quick to call lengthy meetings with other modrons when making decisions.
@@ -85,9 +85,9 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"
@@ -103,8 +103,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning\
       \ damage."
     "name": "Electrical Discharge"
-  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
+  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralysis Gas (Recharge 5-6)"

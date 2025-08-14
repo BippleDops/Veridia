@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-emergency-life-support-research-foundation-emergency-life-support-research-foundation.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-emergency-life-support-research-foundation-emergency-life-support-research-foundation.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Emergency Life Support Research Foundation]]
+- [[12_Research/D&D_References/Emergency Life Support Research Foundation]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [[12_Research/D&D_References/Underwater Breathing]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

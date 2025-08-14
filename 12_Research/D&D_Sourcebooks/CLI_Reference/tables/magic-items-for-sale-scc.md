@@ -23,16 +23,16 @@ world: Both
 
 | Item | Rarity | Cost |
 |------|--------|------|
-| [[/03_Mechanics/CLI/items/bottle-of-boundless-coffee-scc|Bottle of Boundless Coffee]] | Common | 100 gp |
-| [[/03_Mechanics/CLI/items/cuddly-strixhaven-mascot-scc|Cuddly Strixhaven Mascot]] | Common | 100 gp |
-| [[/03_Mechanics/CLI/items/lorehold-primer-scc|Lorehold Primer]] | Uncommon | 300 gp |
-| [[/03_Mechanics/CLI/items/prismari-primer-scc|Prismari Primer]] | Uncommon | 300 gp |
-| [[/03_Mechanics/CLI/items/quandrix-primer-scc|Quandrix Primer]] | Uncommon | 300 gp |
-| [[/03_Mechanics/CLI/items/silverquill-primer-scc|Silverquill Primer]] | Uncommon | 300 gp |
-| [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
-| [[/03_Mechanics/CLI/items/strixhaven-pennant-scc|Strixhaven Pennant]] | Common | 100 gp |
-| [[/03_Mechanics/CLI/items/1-weapon-xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
-| [[/03_Mechanics/CLI/items/witherbloom-primer-scc|Witherbloom Primer]] | Uncommon | 300 gp |
+| [[bottle-of-boundless-coffee-scc|Bottle of Boundless Coffee]] | Common | 100 gp |
+| [[cuddly-strixhaven-mascot-scc|Cuddly Strixhaven Mascot]] | Common | 100 gp |
+| [[lorehold-primer-scc|Lorehold Primer]] | Uncommon | 300 gp |
+| [[prismari-primer-scc|Prismari Primer]] | Uncommon | 300 gp |
+| [[quandrix-primer-scc|Quandrix Primer]] | Uncommon | 300 gp |
+| [[silverquill-primer-scc|Silverquill Primer]] | Uncommon | 300 gp |
+| [[spell-scroll-level-1-xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
+| [[strixhaven-pennant-scc|Strixhaven Pennant]] | Common | 100 gp |
+| [[1-weapon-xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
+| [[witherbloom-primer-scc|Witherbloom Primer]] | Uncommon | 300 gp |
 ^magic-items-for-sale
 
 ## Player-Facing Summary

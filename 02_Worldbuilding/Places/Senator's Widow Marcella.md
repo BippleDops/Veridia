@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-senator-s-widow-marcella-senator-s-widow-marcella.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-senator-s-widow-marcella-senator-s-widow-marcella.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator's Widow Marcella]]
+- [[12_Research/D&D_References/Senator's Widow Marcella]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[12_Research/D&D_References/Sister Morwyn]]

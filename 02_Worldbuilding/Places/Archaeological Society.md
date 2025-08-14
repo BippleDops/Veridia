@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archaeological-society-archaeological-society.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archaeological-society-archaeological-society.svg]]
 
 
 ## Overview
@@ -62,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archaeological Society]]
+- [[Archaeological Society]]
 
 <!-- enriched: true -->
 

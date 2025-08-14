@@ -16,10 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-harbor-deep-harbor.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deep-harbor-deep-harbor.svg]]
 
 
 ## Overview
@@ -61,6 +58,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Harbor]]
+- [[12_Research/D&D_References/Deep Harbor]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

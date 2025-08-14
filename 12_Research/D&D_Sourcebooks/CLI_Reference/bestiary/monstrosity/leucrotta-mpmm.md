@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-leucrotta-mpmm-leucrotta-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/leucrotta-mpmm|Leucrotta]]
+# [[leucrotta-mpmm|Leucrotta]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -58,9 +58,9 @@ A leucrotta's stench would normally warn away prey long before the creature coul
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Gnoll"
@@ -68,11 +68,11 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "traits":
   - "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature\
       \ that hears the sounds can tell they are imitations only with a successful\
-      \ DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check."
+      \ DC 14 Wisdom ([[skills#Insight|Insight]]) check."
     "name": "Mimicry"
   - "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
       \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw\
-      \ or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] until the start\
+      \ or be [[conditions#Poisoned|poisoned]] until the start\
       \ of the creature's next turn. On a successful saving throw, the creature is\
       \ immune to the Stench of all leucrottas for 1 hour."
     "name": "Stench"
@@ -87,7 +87,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
 "bonus_actions":
-  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[/03_Mechanics/CLI/actions#Disengage|Disengage]]\
+  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [[actions#Disengage|Disengage]]\
       \ action."
     "name": "Kicking Retreat"
 "source":

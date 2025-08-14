@@ -62,21 +62,21 @@ If you are using the "Meet Me in Phandalin" adventure hook, then any character w
 > The saddlebags have been looted. Nearby lies an empty leather map case.
 ^010
 
-Four [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] are hiding in the woods, two on each side of the road. They wait until someone approaches the bodies and then attack.
+Four [[goblin-warrior-xmm|goblins]] are hiding in the woods, two on each side of the road. They wait until someone approaches the bodies and then attack.
 
 This will likely be the first of many combat encounters in the adventure. Here are the steps you should follow to run it effectively:
 
-- Review the goblin stat block in appendix B. Since the goblins are hiding, you'll need to know their [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skill modifier: +6.  
-- Check to see who, if anyone, is [[/03_Mechanics/CLI/conditions#Surprised|surprised]]. The party cannot surprise the goblins, but the goblins might surprise some or all the characters. Make a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check for the goblins, rolling once for all of them. Roll a `d20`, add the goblins' [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skill modifier (+6) to the roll, and compare the result to the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores. Any character whose score is lower than the goblins' check result is [[/03_Mechanics/CLI/conditions#Surprised|surprised]] and loses his or her turn during the first round of combat (see "Surprise" in the rulebook).  
+- Review the goblin stat block in appendix B. Since the goblins are hiding, you'll need to know their [[skills#Stealth|Stealth]] skill modifier: +6.  
+- Check to see who, if anyone, is [[conditions#Surprised|surprised]]. The party cannot surprise the goblins, but the goblins might surprise some or all the characters. Make a Dexterity ([[skills#Stealth|Stealth]]) check for the goblins, rolling once for all of them. Roll a `d20`, add the goblins' [[skills#Stealth|Stealth]] skill modifier (+6) to the roll, and compare the result to the characters' passive Wisdom ([[skills#Perception|Perception]]) scores. Any character whose score is lower than the goblins' check result is [[conditions#Surprised|surprised]] and loses his or her turn during the first round of combat (see "Surprise" in the rulebook).  
 - Use the initiative rules in the rulebook to determine who acts first, second, third, and so on. Keep track of everyone's initiative count in the margins of this book or on a separate piece of paper.  
 - When the time comes for the goblins to act, two of them rush forward and make melee attacks while two goblins stand 30 feet away from the party and make ranged attacks. The goblins' stat block contains the information you need to resolve these attacks. For more information on what the goblins can do on their turn, see chapter 2, "Combat," in the rulebook.  
 - When three goblins are defeated, the last goblin attempts to flee, heading for the goblin trail.  
 
 **Developments**
 
-In the unlikely event that the goblins defeat the adventurers, they leave them [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]], loot them and the wagon, then head back to the Cragmaw hideout. The characters can continue on to Phandalin, buy new gear at Barthen's Provisions, return to the ambush site, and find the goblins' trail.
+In the unlikely event that the goblins defeat the adventurers, they leave them [[conditions#Unconscious|unconscious]], loot them and the wagon, then head back to the Cragmaw hideout. The characters can continue on to Phandalin, buy new gear at Barthen's Provisions, return to the ambush site, and find the goblins' trail.
 
-The characters might capture one or more goblins by knocking them [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] instead of killing them. A character can use any melee weapon to knock a goblin [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]], succeeding if the attack deals enough damage to drop the goblin to 0 hit points. Once it regains consciousness after a few minutes, a captured goblin can be convinced to share what it knows (see the "What the Goblins Know" sidebar on page 8). A goblin can also be persuaded to lead the party to the Cragmaw hideout while avoiding traps along the way (see the "Goblin Trail" section).
+The characters might capture one or more goblins by knocking them [[conditions#Unconscious|unconscious]] instead of killing them. A character can use any melee weapon to knock a goblin [[conditions#Unconscious|unconscious]], succeeding if the attack deals enough damage to drop the goblin to 0 hit points. Once it regains consciousness after a few minutes, a captured goblin can be convinced to share what it knows (see the "What the Goblins Know" sidebar on page 8). A goblin can also be persuaded to lead the party to the Cragmaw hideout while avoiding traps along the way (see the "Goblin Trail" section).
 
 The characters might not find the goblin trail, or they could decide to continue to Phandalin. In that case, skip ahead to part 2, "Phandalin." Elmar Barthen (the owner of Barthen's Provisions) seeks out the characters and informs them that [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]] never arrived. He recounts the goblin troubles and suggests that the characters return to the ambush site to investigate further (after they rest). Barthen also tells the party that Linene Graywind of the Lionshield Coster (see page 16) can provide more information on the goblin attacks.
 
@@ -86,15 +86,15 @@ The party might need to rest after the goblin ambush, depending on how the battl
 
 ### Goblin Trail
 
-After the characters defeat the goblins, any inspection of the area reveals that the creatures have been using this place to stage ambushes for some time. A trail hidden behind thickets on the north side of the road leads northwest. A character who succeeds on a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check recognizes that about a dozen goblins have come and gone along the trail, as well as signs of two human-sized bodies being hauled away from the ambush site.
+After the characters defeat the goblins, any inspection of the area reveals that the creatures have been using this place to stage ambushes for some time. A trail hidden behind thickets on the north side of the road leads northwest. A character who succeeds on a DC 10 Wisdom ([[skills#Survival|Survival]]) check recognizes that about a dozen goblins have come and gone along the trail, as well as signs of two human-sized bodies being hauled away from the ambush site.
 
 The party can easily steer the wagon away from the road and tie off the oxen while the group pursues the goblins.
 
 The trail leads five miles northwest and ends at the Cragmaw hideout (see that section). Ask the players to determine the party's marching order as the characters move down the trail. The order is important, because the goblins have set two traps to thwart pursuers.
 
-**Snare.** About 10 minutes after heading down the trail, a party on the path encounters a hidden snare. If the characters are searching for traps, the character in the lead spots the trap automatically if his or her passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score is 12 or higher. Otherwise, the character must succeed on a DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice the trap. If the character fails to notice the trap, he or she triggers the snare and must succeed on a DC 10 Dexterity saving throw. On a failure, the character is suspended upside down 10 feet above the ground. The character is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] until 1 or more slashing damage is dealt to the snare's cord. (See the appendix in the rulebook for the effect of being [[/03_Mechanics/CLI/conditions#Restrained|restrained]].) A character who isn't carefully lowered down takes `d6` bludgeoning damage from the fall.
+**Snare.** About 10 minutes after heading down the trail, a party on the path encounters a hidden snare. If the characters are searching for traps, the character in the lead spots the trap automatically if his or her passive Wisdom ([[skills#Perception|Perception]]) score is 12 or higher. Otherwise, the character must succeed on a DC 12 Wisdom ([[skills#Perception|Perception]]) check to notice the trap. If the character fails to notice the trap, he or she triggers the snare and must succeed on a DC 10 Dexterity saving throw. On a failure, the character is suspended upside down 10 feet above the ground. The character is [[conditions#Restrained|restrained]] until 1 or more slashing damage is dealt to the snare's cord. (See the appendix in the rulebook for the effect of being [[conditions#Restrained|restrained]].) A character who isn't carefully lowered down takes `d6` bludgeoning damage from the fall.
 
-**Pit.** Another 10 minutes down the trail is a pit the goblins have camouflaged. The pit is 6 feet wide, 10 feet deep, and it triggers when a creature moves across it. The character in the lead spots the hidden pit automatically if his or her passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score is 15 or higher. Otherwise, the character must succeed on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to spot the hidden pit. If the trap isn't detected, the lead character must succeed on a DC 10 Dexterity saving throw or fall in, taking `d6` bludgeoning damage. The pit's walls are not steep, so no ability check is required to scramble out.
+**Pit.** Another 10 minutes down the trail is a pit the goblins have camouflaged. The pit is 6 feet wide, 10 feet deep, and it triggers when a creature moves across it. The character in the lead spots the hidden pit automatically if his or her passive Wisdom ([[skills#Perception|Perception]]) score is 15 or higher. Otherwise, the character must succeed on a DC 15 Wisdom ([[skills#Perception|Perception]]) check to spot the hidden pit. If the trap isn't detected, the lead character must succeed on a DC 10 Dexterity saving throw or fall in, taking `d6` bludgeoning damage. The pit's walls are not steep, so no ability check is required to scramble out.
 
 **Awarding Experience Points**
 
@@ -135,7 +135,7 @@ Most of the caves and passages have steeply sloping ceilings that create stalact
 
 #### Light
 
-Areas 1 and 2 are outside. The rest of the complex is dark unless stated otherwise. The boxed text for those locations assumes that the characters have [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] or a light source.
+Areas 1 and 2 are outside. The rest of the complex is dark unless stated otherwise. The boxed text for those locations assumes that the characters have [[senses#Darkvision|darkvision]] or a light source.
 
 #### Rubble
 
@@ -143,7 +143,7 @@ Areas of crumbling rock and gravel are difficult terrain (see "Difficult Terrain
 
 #### Sound
 
-The sound of water in the cave muffles noises to any creatures that aren't listening carefully. Creatures can make a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to attempt to hear activity in nearby chambers.
+The sound of water in the cave muffles noises to any creatures that aren't listening carefully. Creatures can make a DC 15 Wisdom ([[skills#Perception|Perception]]) check to attempt to hear activity in nearby chambers.
 
 #### Stalagmites
 
@@ -187,9 +187,9 @@ When the characters cross to the east side of the stream, they can see around th
 > On the east side of the stream flowing from the cave mouth, a small area in the briar thickets has been hollowed out to form a lookout post or blind. Wooden planks flatten out the briars and provide room for guards to lie hidden and watch the area—including a pair of goblins lurking there right now!
 ^01f
 
-Two [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] are stationed here. If the goblins notice intruders in 1, they open fire with their bows, shooting through the thickets and probably catching the characters by surprise. If the goblins don't notice the adventurers in 1, they spot them when they splash across the stream, and neither side is [[/03_Mechanics/CLI/conditions#Surprised|surprised]].
+Two [[goblin-warrior-xmm|goblins]] are stationed here. If the goblins notice intruders in 1, they open fire with their bows, shooting through the thickets and probably catching the characters by surprise. If the goblins don't notice the adventurers in 1, they spot them when they splash across the stream, and neither side is [[conditions#Surprised|surprised]].
 
-Characters moving carefully or scouting ahead might be able to surprise the goblin lookouts. Have each character who moves ahead make a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check contested by the goblins' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score to avoid being [[/03_Mechanics/CLI/conditions#Surprised|surprised]]. See the rulebook for more information on ability check contests.
+Characters moving carefully or scouting ahead might be able to surprise the goblin lookouts. Have each character who moves ahead make a Dexterity ([[skills#Stealth|Stealth]]) check contested by the goblins' passive Wisdom ([[skills#Perception|Perception]]) score to avoid being [[conditions#Surprised|surprised]]. See the rulebook for more information on ability check contests.
 
 #### Thickets
 
@@ -204,13 +204,13 @@ The Cragmaws keep a kennel of foul-tempered wolves that they are training for ba
 > Just inside the cave mouth, a few uneven stone steps lead up to a small, dank chamber on the east side of the passage. The cave narrows to a steep fissure at the far end, and is filled with the stench of animals. Savage snarls and the sounds of rattling chains greet your ears where three wolves are chained up just inside the opening. Each wolf's chain leads to an iron rod driven into the base of a stalagmite.
 ^022
 
-Three [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] are confined here. They can't reach targets standing on the steps, but all three attack any creature except a goblin that moves into the room (see the "Developments" section). Goblins in nearby caves ignore the sounds of fighting wolves, since they constantly snap and snarl at each other.
+Three [[wolf-xmm|wolves]] are confined here. They can't reach targets standing on the steps, but all three attack any creature except a goblin that moves into the room (see the "Developments" section). Goblins in nearby caves ignore the sounds of fighting wolves, since they constantly snap and snarl at each other.
 
-A character who tries to calm the animals can attempt a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) check. On a success, the wolves allow the character to move throughout the room. If the wolves are given food, the DC drops to 10.
+A character who tries to calm the animals can attempt a DC 15 Wisdom ([[skills#Animal%20Handling|Animal Handling]]) check. On a success, the wolves allow the character to move throughout the room. If the wolves are given food, the DC drops to 10.
 
 #### Fissure
 
-A narrow opening in the east wall leads to a natural chimney that climbs 30 feet to 8. At the base of the fissure is rubbish that's been discarded through the opening above. A character attempting to ascend or descend the chimney shaft must make a DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[/03_Mechanics/CLI/conditions#Prone|prone]] at the base of the shaft.
+A narrow opening in the east wall leads to a natural chimney that climbs 30 feet to 8. At the base of the fissure is rubbish that's been discarded through the opening above. A character attempting to ascend or descend the chimney shaft must make a DC 10 Strength ([[skills#Athletics|Athletics]]) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#Prone|prone]] at the base of the shaft.
 
 #### Developments
 
@@ -220,29 +220,29 @@ A goblin or bugbear can use its action to release one wolf from its chain.
 
 ### 4. Steep Passage
 
-From this point on, characters without [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] will need light to see their surroundings.
+From this point on, characters without [[senses#Darkvision|darkvision]] will need light to see their surroundings.
 
 > [!readaloud] 
 > 
 > The main passage from the cave mouth climbs steeply upward, the stream plunging and splashing down its west side. In the shadows, a side passage leads west across the other side of the stream.
 ^026
 
-Characters using light or [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] to look farther up the passage spot the bridge at 5. Add:
+Characters using light or [[senses#Darkvision|darkvision]] to look farther up the passage spot the bridge at 5. Add:
 
 > [!readaloud] 
 > 
 > In the shadows of the ceiling to the north, you can just make out the dim shape of a rickety bridge of wood and rope crossing over the passage ahead of you. Another passage intersects this one, twenty feet above the floor.
 ^027
 
-Any character who can see the bridge in 5 might also notice the goblin guarding the bridge. Doing so requires a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check contested by the goblin's Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check result.
+Any character who can see the bridge in 5 might also notice the goblin guarding the bridge. Doing so requires a Wisdom ([[skills#Perception|Perception]]) check contested by the goblin's Dexterity ([[skills#Stealth|Stealth]]) check result.
 
-The goblin notices the characters if they carry any light or don't use stealth as they approach the bridge. The goblin does not attack. Instead, it attempts to sneak away to the east to inform its companions in 7 to release a flood (see the "Flood!" section of 5). The goblin moves undetected if its Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check exceeds the passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of any character who might notice its movements.
+The goblin notices the characters if they carry any light or don't use stealth as they approach the bridge. The goblin does not attack. Instead, it attempts to sneak away to the east to inform its companions in 7 to release a flood (see the "Flood!" section of 5). The goblin moves undetected if its Dexterity ([[skills#Stealth|Stealth]]) check exceeds the passive Wisdom ([[skills#Perception|Perception]]) score of any character who might notice its movements.
 
 #### Western Passage
 
 This passage is choked with rubble and has steep escarpments. Treat the area as difficult terrain (see "Difficult Terrain" in the rulebook).
 
-The ledge between the two escarpments is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 10 Dexterity saving throw, taking `2d6` bludgeoning damage on a failure, or half as much damage on a success. The creature also falls [[/03_Mechanics/CLI/conditions#Prone|prone]] on a failed save (see "Being Prone" in the rulebook).
+The ledge between the two escarpments is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 10 Dexterity saving throw, taking `2d6` bludgeoning damage on a failure, or half as much damage on a success. The creature also falls [[conditions#Prone|prone]] on a failed save (see "Being Prone" in the rulebook).
 
 ### 5. Overpass
 
@@ -260,15 +260,15 @@ If the characters didn't spot the bridge while navigating 4, they spot it now. A
 > A rickety bridge spans the passage, connecting two tunnels that are 20 feet above the stream.
 ^02b
 
-One [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblin]] stands watch on the bridge. It is hiding, and characters can spot it by succeeding on a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check contested by the goblin's Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check. This guard is lazy and inattentive. If no characters are using light sources, each character can attempt a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check against the goblin's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score to creep by without being noticed.
+One [[goblin-warrior-xmm|goblin]] stands watch on the bridge. It is hiding, and characters can spot it by succeeding on a Wisdom ([[skills#Perception|Perception]]) check contested by the goblin's Dexterity ([[skills#Stealth|Stealth]]) check. This guard is lazy and inattentive. If no characters are using light sources, each character can attempt a Dexterity ([[skills#Stealth|Stealth]]) check against the goblin's passive Wisdom ([[skills#Perception|Perception]]) score to creep by without being noticed.
 
 If the goblin spots the adventurers, it signals the goblins in 7 to release a flood (see the "Flood!" section), then throws javelins down at the characters.
 
 #### Bridge
 
-This bridge spans the passage 20 feet above the stream. It's possible to climb up the cavern walls from the lower passage to the bridge. The 20-foot-high walls are rough but slick with spray, requiring a successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to climb.
+This bridge spans the passage 20 feet above the stream. It's possible to climb up the cavern walls from the lower passage to the bridge. The 20-foot-high walls are rough but slick with spray, requiring a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check to climb.
 
-The bridge has an Armor Class (AC) of 5 and 10 hit points. If the bridge is reduced to 0 hit points, it collapses. Creatures on the collapsing bridge must succeed on a DC 10 Dexterity saving throw or fall, taking `2d6` bludgeoning damage and landing [[/03_Mechanics/CLI/conditions#Prone|prone]] (see "Being Prone" in the rulebook). Those who succeed hold onto the bridge and must climb it to safety.
+The bridge has an Armor Class (AC) of 5 and 10 hit points. If the bridge is reduced to 0 hit points, it collapses. Creatures on the collapsing bridge must succeed on a DC 10 Dexterity saving throw or fall, taking `2d6` bludgeoning damage and landing [[conditions#Prone|prone]] (see "Being Prone" in the rulebook). Those who succeed hold onto the bridge and must climb it to safety.
 
 #### Flood!
 
@@ -279,7 +279,7 @@ The large pools in 7 have collapsible walls that can be yanked out of place to r
 > The passage is suddenly filled with a mighty roar, as a huge surge of rushing water pours down from above!
 ^02e
 
-The flood threatens all creatures in the tunnel. (Creatures on the bridge at 5 are out of danger, as are any characters successfully climbing the cavern walls.) Any creature within 10 feet of the disused passage at 4 or the steps leading up to 3 can attempt a DC 10 Dexterity saving throw to avoid being swept away. A creature that fails to get out of the way can attempt a DC 15 Strength saving throw to hold on. On a failed save, the character is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]] and washed down to 1, taking `d6` bludgeoning damage along the way.
+The flood threatens all creatures in the tunnel. (Creatures on the bridge at 5 are out of danger, as are any characters successfully climbing the cavern walls.) Any creature within 10 feet of the disused passage at 4 or the steps leading up to 3 can attempt a DC 10 Dexterity saving throw to avoid being swept away. A creature that fails to get out of the way can attempt a DC 15 Strength saving throw to hold on. On a failed save, the character is knocked [[conditions#Prone|prone]] and washed down to 1, taking `d6` bludgeoning damage along the way.
 
 The goblins in 7 can release a second flood by opening the second pool, but they don't do this unless the goblin on the bridge tells them to. The goblin on the bridge waits to see if the first flood got rid of all the intruders before calling for the second to be released.
 
@@ -292,7 +292,7 @@ The Cragmaw raiders stationed in the hideout use this area as a common room and 
 > This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
 ^030
 
-Six [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
+Six [[goblin-warrior-xmm|goblins]] inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
 
 [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], a human warrior, is held prisoner in this chamber. He is securely bound on the southern ledge of the cavern. The goblins have been beating and tormenting him, so he is weak and at 1 hit point.
 
@@ -347,7 +347,7 @@ If the goblins have drained either pool to flood the passage, adjust the followi
 > This cavern is half filled with two large pools of water. A narrow waterfall high in the eastern wall feeds the pool, which drains out the western end of the chamber to form the stream that flows out of the cave mouth below. Low fieldstone walls serve as dams holding the water in. A wide exit stands to the south, while two smaller passages lead west. The sound of the waterfall echoes through the cavern, making it difficult to hear.
 ^035
 
-Three [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] guard this cave. If the goblin in 5 spotted the characters and warned the goblins here, they are ready for trouble. The noise of the waterfall means that the creatures in 8 can't hear any fighting that takes place here, and vice versa. Therefore, as soon as a fight breaks out here, one goblin flees to 8 to warn Klarg.
+Three [[goblin-warrior-xmm|goblins]] guard this cave. If the goblin in 5 spotted the characters and warned the goblins here, they are ready for trouble. The noise of the waterfall means that the creatures in 8 can't hear any fighting that takes place here, and vice versa. Therefore, as soon as a fight breaks out here, one goblin flees to 8 to warn Klarg.
 
 #### Rock Dams
 
@@ -362,11 +362,11 @@ The leader of the goblinoids insists on keeping the bulk of the raiders' stolen 
 > Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.
 ^038
 
-Klarg the [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbear]] shares this cave with his mangy pet [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolf]], Ripper, and two [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]]. The bugbear is filled with delusions of grandeur and views himself as a mighty warlord just beginning his career of conquest. He is not entirely sane, referring to himself in the third person ("Who dares defy Klarg?" or "Klarg will build a throne from your bones, puny ones!"). The goblins under his command resent his bullying.
+Klarg the [[bugbear-warrior-xmm|bugbear]] shares this cave with his mangy pet [[wolf-xmm|wolf]], Ripper, and two [[goblin-warrior-xmm|goblins]]. The bugbear is filled with delusions of grandeur and views himself as a mighty warlord just beginning his career of conquest. He is not entirely sane, referring to himself in the third person ("Who dares defy Klarg?" or "Klarg will build a throne from your bones, puny ones!"). The goblins under his command resent his bullying.
 
 #### Fire Pit
 
-The hot coals in the central fire pit deal 1 fire damage to any creature that enters the fire pit, or `d6` fire damage to any creature that falls [[/03_Mechanics/CLI/conditions#Prone|prone]] there. A creature can take each type of damage only once per round.
+The hot coals in the central fire pit deal 1 fire damage to any creature that enters the fire pit, or `d6` fire damage to any creature that falls [[conditions#Prone|prone]] there. A creature can take each type of damage only once per round.
 
 #### Natural Chimney
 

@@ -26,18 +26,18 @@ world: Both
 
 | Class | Likes... | Primary Ability | Complexity |
 |-------|----------|-----------------|------------|
-| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | Battle | Strength | Average |
-| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | Performing | Charisma | High |
-| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | Gods | Wisdom | Average |
-| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | Nature | Wisdom | High |
-| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
-| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
-| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | Defense | Strength and Charisma | Average |
-| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
-| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | Stealth | Dexterity | Low |
-| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | Power | Charisma | High |
-| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | Occult lore | Charisma | High |
-| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | Spellbooks | Intelligence | Average |
+| [[barbarian-xphb|Barbarian]] | Battle | Strength | Average |
+| [[bard-xphb|Bard]] | Performing | Charisma | High |
+| [[cleric-xphb|Cleric]] | Gods | Wisdom | Average |
+| [[druid-xphb|Druid]] | Nature | Wisdom | High |
+| [[fighter-xphb|Fighter]] | Weapons | Strength or Dexterity | Low |
+| [[monk-xphb|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[paladin-xphb|Paladin]] | Defense | Strength and Charisma | Average |
+| [[ranger-xphb|Ranger]] | Survival | Dexterity and Wisdom | Average |
+| [[rogue-xphb|Rogue]] | Stealth | Dexterity | Low |
+| [[sorcerer-xphb|Sorcerer]] | Power | Charisma | High |
+| [[warlock-xphb|Warlock]] | Occult lore | Charisma | High |
+| [[wizard-xphb|Wizard]] | Spellbooks | Intelligence | Average |
 ^class-overview
 
 ## Player-Facing Summary

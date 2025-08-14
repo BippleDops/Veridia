@@ -14,11 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]
 
 
 ## Overview

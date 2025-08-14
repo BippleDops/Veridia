@@ -28,7 +28,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|Comprehend Languages]] spell for 1 hour.
+When you drink this potion, you gain the effect of the [[comprehend-languages-xphb|Comprehend Languages]] spell for 1 hour.
 
 This potion's liquid is a clear concoction with bits of salt and soot swirling in it.
 

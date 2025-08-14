@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg]]
 
 
 # Spy Games
@@ -175,7 +172,7 @@ Spy Games emphasizes roleplay, investigation, and moral choices over combat. Kee
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [[The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -187,6 +184,6 @@ Legends speak of Spy Games as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Spy Games]]
+- [[Spy Games]]
 
 <!-- enriched: true -->

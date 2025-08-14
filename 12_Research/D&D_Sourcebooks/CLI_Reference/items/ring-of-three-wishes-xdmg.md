@@ -24,7 +24,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
 
 
-While wearing this ring, you can expend 1 of its 3 charges to cast [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] from it. The ring becomes nonmagical when you use the last charge.
+While wearing this ring, you can expend 1 of its 3 charges to cast [[wish-xphb|Wish]] from it. The ring becomes nonmagical when you use the last charge.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

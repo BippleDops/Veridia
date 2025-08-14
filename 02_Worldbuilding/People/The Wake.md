@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-wake-the-wake.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-wake-the-wake.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[High Priestess Scylla Deepdream]]
 
 ## Player-Facing Summary
 

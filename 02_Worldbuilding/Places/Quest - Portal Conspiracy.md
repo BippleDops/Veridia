@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
 - aethermoor
 - complete
 - content/location
@@ -16,10 +17,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quest-portal-conspiracy-quest-portal-conspiracy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quest-portal-conspiracy-quest-portal-conspiracy.svg]]
 
 
 ## Overview
@@ -61,6 +59,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - Portal Conspiracy]]
+- [[12_Research/D&D_References/Quest - Portal Conspiracy]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

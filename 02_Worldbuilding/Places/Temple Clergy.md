@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-clergy-temple-clergy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-clergy-temple-clergy.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[Temple Ward]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[Temple Ward]]
 
 ## Player-Facing Summary
 

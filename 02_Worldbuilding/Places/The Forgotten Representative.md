@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- session-notes
 - aquabyssos
 - complete
 - content/location
@@ -24,13 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg]]
 
 
 # The Forgotten Representative
@@ -50,6 +47,7 @@ The Forgotten Representative appears as a figure of average height wearing simpl
 Their voice carries strange harmonics, as if multiple people were speaking simultaneously. They move with quiet dignity and always carry a small, weathered book that contains names, dates, and stories of the forgotten.
 
 ## Statistics
+
 **Medium humanoid (?), lawful good**
 - **AS** 15 (Natural Armor)
 - **HP** 78 (12d8 + 24)
@@ -62,6 +60,7 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 - **Challenge** 5 (1,800 XP)
 
 ### Special Abilities
+
 **Collective Memory.** The Representative can access memories and knowledge of anyone who has ever lived in Aquabyssos, particularly those who have been forgotten or erased from records.
 
 **Voice of the Forgotten.** When the Representative speaks about injustices or forgotten sacrifices, listeners must make a DC 16 Wisdom save or be compelled to acknowledge the truth and feel genuine remorse.
@@ -69,6 +68,7 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 **Historical Witness.** The Representative cannot be affected by memory-altering magic and always remembers events as they truly occurred.
 
 ### Actions
+
 **Memory Staff.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 14 (4d6) psychic damage as forgotten memories overwhelm the target.
 
 **Revelation of Truth (3/day).** The Representative can force one creature within 60 feet to confront a forgotten truth about themselves or their actions. The target must make a DC 16 Wisdom save or be stunned for 1 round by the revelation.
@@ -82,20 +82,22 @@ The Representative has become increasingly active during the current political c
 They seem particularly focused on ensuring that any resolution to the crisis acknowledges the contributions and sacrifices of marginalized groups whose voices might otherwise be overlooked in peace negotiations.
 
 ## Quest Hooks
+
 1. The Representative approaches the party with evidence of historical injustices that might hold the key to resolving current conflicts.
 2. Someone is trying to silence the Representative permanently, and the party must investigate who wants certain memories to remain buried.
 3. The Representative asks the party to help recover stolen historical records that could vindicate forgotten heroes.
 
 ## DM Notes
+
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 
 ## History
@@ -143,6 +145,11 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[12_Research/D&D_References/The Forgotten Representative]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

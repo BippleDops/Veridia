@@ -14,20 +14,15 @@ world: Both
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg]]
 
 
 # Banker Titus Goldcurrent
 *The Pearl Counter, Master of Depths Finance, The Pressure Baron*
 
 ## Overview
-Titus Goldcurrent controls the largest financial institution in [[02_Worldbuilding/Places/Aquabyssos]], the **Deep Vault Banking Consortium**. From his coral-carved office in the financial district, he orchestrates loans, investments, and currency exchanges that shape the economic fate of both realms. Behind his respectable facade lies a cunning manipulator who uses debt as a weapon and financial leverage as chains, ensuring that anyone who needs capital eventually finds themselves dancing to his tune.
+Titus Goldcurrent controls the largest financial institution in [[Aquabyssos]], the **Deep Vault Banking Consortium**. From his coral-carved office in the financial district, he orchestrates loans, investments, and currency exchanges that shape the economic fate of both realms. Behind his respectable facade lies a cunning manipulator who uses debt as a weapon and financial leverage as chains, ensuring that anyone who needs capital eventually finds themselves dancing to his tune.
 
 ## Appearance
 - **Build**: Compact and rotund at 4'8", moves with surprising grace underwater
@@ -82,25 +77,25 @@ Born into a modest merchant family, Titus showed early aptitude for numbers and 
 ## Relationships
 
 ### Business Partners
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Surface realm financial ally and competitor
+- [[Lord Aurelius Goldwave]] - Surface realm financial ally and competitor
 - **Madame Coral Deepsafe** - Rival banker who manages smaller institutions
-- [[02_Worldbuilding/Groups/The Current Merchants|02 Worldbuilding/Groups/The Current Merchants]] - Guild president and primary political connection
+- [[The Current Merchants|02 Worldbuilding/Groups/The Current Merchants]] - Guild president and primary political connection
 - **Captain Barnacle Ironwealth** - Shipping magnate and investment partner
 
 ### Political Connections
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Regular loans to the imperial treasury
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Funds her diplomatic missions
+- [[Emperor Thalassius the Wise]] - Regular loans to the imperial treasury
+- [[Ambassador Nerida Deepcurrent]] - Funds her diplomatic missions
 - **Senator Goldscale** - Purchased political influence
 - Various Parliament members - Financial leverage over voting
 
 ### Criminal Associates
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Money laundering operations
+- [[Vex Shadowthorn]] - Money laundering operations
 - **The Tide Breaker Syndicate** - Enforcement and collection services
 - **Smuggler Captain Blackwater** - Illegal currency transportation
 - Shadow market dealers - Financing black market operations
 
 ### Enemies and Debtors
-- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]] - Opposes his environmental practices
+- [[Master Cultivator Thalia Greenglow]] - Opposes his environmental practices
 - **The Debtor's Collective** - Group of his victims seeking revenge
 - **Magistrate Coralheart** - Investigating his corruption
 - Hundreds of individuals crushed by predatory loans
@@ -116,7 +111,7 @@ Born into a modest merchant family, Titus showed early aptitude for numbers and 
 > - Has a hidden vault containing enough wealth to buy a small kingdom
 
 ## Current Operations
-- Negotiating massive loan to fund [[02_Worldbuilding/Places/Aethermoor]] crystal infrastructure
+- Negotiating massive loan to fund [[Aethermoor]] crystal infrastructure
 - Systematically buying up failing businesses at discount prices
 - Laundering money for criminal organizations through shell companies
 - Financing political campaigns to ensure favorable banking legislation
@@ -210,16 +205,16 @@ His main banking facility features:
 - Connection to both realms makes him useful for cross-realm plots
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Business partner and rival
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Major debtor
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal money laundering partner
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Financial relationship
+- [[Lord Aurelius Goldwave]] - Business partner and rival
+- [[Emperor Thalassius the Wise]] - Major debtor
+- [[Vex Shadowthorn]] - Criminal money laundering partner
+- [[Ambassador Nerida Deepcurrent]] - Financial relationship
 
 ## Connected Locations
 - [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]] - Main base of operations
-- [[02_Worldbuilding/Places/The Deep Vault|02 Worldbuilding/Places/The Deep Vault]] - Primary banking facility
+- [[The Deep Vault|02 Worldbuilding/Places/The Deep Vault]] - Primary banking facility
 - [[02_Worldbuilding/Places/Financial District|02 Worldbuilding/Places/Financial District]] - Controls most businesses here
-- [[02_Worldbuilding/Places/Port Meridian]] - Surface realm branch office
+- [[Port Meridian]] - Surface realm branch office
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Quest - The Economic Conspiracy|02 Worldbuilding/Quests/Quest The Economic Conspiracy]] - His market manipulation
@@ -229,10 +224,10 @@ His main banking facility features:
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/People/Senator]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Senator]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -250,6 +245,6 @@ Legends speak of Banker Titus Goldcurrent as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- [[Banker Titus Goldcurrent]]
 
 <!-- enriched: true -->

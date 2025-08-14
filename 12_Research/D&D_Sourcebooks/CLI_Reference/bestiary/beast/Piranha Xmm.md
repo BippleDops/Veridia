@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-piranha-xmm-piranha-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/piranha-xmm|Piranha]]
+# [[piranha-xmm|Piranha]]
 *Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Piranha (XMM)"
@@ -59,8 +59,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The piranha can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ if the target doesn't have all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]),\
+  - "desc": "Melee Attack Roll: +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target doesn't have all its [[hit-points-xphb|Hit Points]]),\
       \ reach 5 ft. Hit: 1 Piercing damage."
     "name": "Bite"
 "source":

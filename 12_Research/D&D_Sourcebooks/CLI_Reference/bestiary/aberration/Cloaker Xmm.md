@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloaker-xmm-cloaker-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/cloaker-xmm|Cloaker]]
+# [[cloaker-xmm|Cloaker]]
 *Source: Monster Manual (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Cloaker
@@ -62,15 +62,15 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
   - !!int "7"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
 "traits":
-  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]],\
-      \ the cloaker has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+  - "desc": "While in [[bright-light-xphb|Bright Light]],\
+      \ the cloaker has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls."
     "name": "Light Sensitivity"
 "actions":
@@ -78,25 +78,25 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (3d6 + 3) Piercing damage.\
       \ If the target is a Large or smaller creature, the cloaker attaches to it.\
-      \ While the cloaker is attached, the target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ While the cloaker is attached, the target has the [[conditions#Blinded|Blinded]]\
       \ condition, and the cloaker can't make Attach attacks against other targets.\
       \ In addition, the cloaker halves the damage it takes (round down), and the\
       \ target takes the same amount of damage.\n\nThe cloaker can detach itself by\
       \ spending 5 feet of movement. The target or a creature within 5 feet of it\
       \ can take an action to try to detach the cloaker, doing so by succeeding on\
-      \ a DC 14 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check."
+      \ a DC 14 Strength ([[skills#Athletics|Athletics]]) check."
     "name": "Attach"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage."
     "name": "Tail"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the cloaker. Failure: The target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the cloaker. Failure: The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of the cloaker's next turn. Success: The target\
       \ is immune to this cloaker's Moan for the next 24 hours."
     "name": "Moan"
-  - "desc": "The cloaker casts the [[/03_Mechanics/CLI/spells/mirror-image-xphb|Mirror Image]]\
+  - "desc": "The cloaker casts the [[mirror-image-xphb|Mirror Image]]\
       \ spell, requiring no spell components and using Wisdom as the spellcasting\
-      \ ability. The spell ends early if the cloaker starts or ends its turn in [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright\
+      \ ability. The spell ends early if the cloaker starts or ends its turn in [[bright-light-xphb|Bright\
       \ Light]].\n"
     "name": "Phantasms (Recharge after a Short or Long Rest)"
 "source":

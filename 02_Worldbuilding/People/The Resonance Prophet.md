@@ -27,12 +27,8 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-resonance-prophet-the-resonance-prophet.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-resonance-prophet-the-resonance-prophet.svg]]
 
 
 # The Resonance Prophet
@@ -184,10 +180,10 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 - *"Truth has a frequency. Lies create static. Why choose discord?"*
 
 ## 🔗 Relationships
-- **[[02_Worldbuilding/People/The Silhouette Surgeon Prime]]**: Finds their work "off-key"
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
-- **[[02_Worldbuilding/People/The Sorrowmaster]]**: Their emotional resonance is fascinating
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Too many frequencies at once
+- **[[The Silhouette Surgeon Prime]]**: Finds their work "off-key"
+- **[[Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
+- **[[The Sorrowmaster]]**: Their emotional resonance is fascinating
+- **[[The Scattered Emperor]]**: Too many frequencies at once
 
 ## 🏠 Lair: The Singing Citadel
 
@@ -281,11 +277,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Resonance Prophet]]
+- [[The Resonance Prophet]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[The Sorrowmaster]]

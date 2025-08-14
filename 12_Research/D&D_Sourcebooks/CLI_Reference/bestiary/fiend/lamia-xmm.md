@@ -21,7 +21,7 @@ updated: '2025-08-12T23:37:35.570190'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\fiend/lamia-xmm|Lamia]]
+# [[lamia-xmm|Lamia]]
 *Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Lamia
@@ -67,11 +67,11 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
   - !!int "16"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
@@ -85,15 +85,15 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Claw"
   - "desc": "Wisdom Saving Throw: DC 13, one creature the lamia can see within 5\
       \ feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour.\
-      \ Until the curse ends, the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
-      \ and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] conditions."
+      \ Until the curse ends, the target has the [[conditions#Charmed|Charmed]]\
+      \ and [[conditions#Poisoned|Poisoned]] conditions."
     "name": "Corrupting Touch"
   - "desc": "The lamia casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise Self]] (can\
-      \ appear as a Large or Medium biped), [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/geas-xphb|Geas]], [[/03_Mechanics/CLI/spells/major-image-xphb|Major Image]],\
-      \ [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]]"
+      \ will: [[disguise-self-xphb|Disguise Self]] (can\
+      \ appear as a Large or Medium biped), [[minor-illusion-xphb|Minor Illusion]]\n\
+      \n1/day each: [[geas-xphb|Geas]], [[major-image-xphb|Major Image]],\
+      \ [[scrying-xphb|Scrying]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."

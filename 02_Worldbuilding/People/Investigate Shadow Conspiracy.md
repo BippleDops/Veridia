@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Rescue Senator Glaucus]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/People/Original Glaucus]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[The Shadow Conspiracy]]
+- [[Original Glaucus]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 

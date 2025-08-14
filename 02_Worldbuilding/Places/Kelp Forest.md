@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Map
-![](04_Resources/Assets/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Kelp Forest]]
+- [[Kelp Forest]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[The Depth Plague]]

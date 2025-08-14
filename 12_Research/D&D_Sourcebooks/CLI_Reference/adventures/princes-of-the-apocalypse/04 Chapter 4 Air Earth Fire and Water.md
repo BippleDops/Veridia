@@ -36,7 +36,7 @@ Ultimately, the natural disasters, monster incursions, and upswing in raider act
 
 Early in this part of the adventure, one or more characters receive messages from their factions, asking for help with other dangers in the area. This opportunity allows you to introduce the players to one of the side treks described in chapter 6.
 
-The summons could be a verbal message entrusted to an NPC waiting in the characters' base town. A messenger might brave the wilds to find the characters at their campsite. Magic might be used, such as a [[/03_Mechanics/CLI/spells/sending-xphb|sending]] spell. Whether the party chooses to respond or continue on their current course is up to the players.
+The summons could be a verbal message entrusted to an NPC waiting in the characters' base town. A messenger might brave the wilds to find the characters at their campsite. Magic might be used, such as a [[sending-xphb|sending]] spell. Whether the party chooses to respond or continue on their current course is up to the players.
 
 ### The Spy's Letter
 
@@ -48,7 +48,7 @@ If confronted, Justran Daehl denies the charge vehemently. He claims that any le
 
 #### Poisoned Ale
 
-Justran might take it upon himself to eliminate the characters. When the characters gather for dinner one evening after they return to Red Larch, he arranges to serve them poisoned ale. This has the same effect as a [[/03_Mechanics/CLI/items/potion-of-poison-xdmg|potion of poison]], but the characters have advantage on their saving throws because Justran has to dilute the poison among several flagons. (The dilution also makes the poison unlikely to be lethal; Justran is better at making ale than he is at making poison.)
+Justran might take it upon himself to eliminate the characters. When the characters gather for dinner one evening after they return to Red Larch, he arranges to serve them poisoned ale. This has the same effect as a [[potion-of-poison-xdmg|potion of poison]], but the characters have advantage on their saving throws because Justran has to dilute the poison among several flagons. (The dilution also makes the poison unlikely to be lethal; Justran is better at making ale than he is at making poison.)
 
 A brief investigation reveals that the poisoned flagons came from the taproom of the Helm at Highsun, and Justran Daehl personally delivered and poured the ale.
 
@@ -88,10 +88,10 @@ It's dangerous to linger in a stronghold without defeating that dungeon's prophe
 
 Groups sent up from lower levels of the dungeon include the following:
 
-- Air cult: [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]] and four [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]]  
-- Water cult: [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and four [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]]  
-- Earth cult: [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] and two [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]]  
-- Fire cult: [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]] and four [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]]  
+- Air cult: [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]] and four [[kenku-xmm|kenku]]  
+- Water cult: [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and four [[bugbear-warrior-xmm|bugbears]]  
+- Earth cult: [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] and two [[ogre-xmm|ogres]]  
+- Fire cult: [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]] and four [[hobgoblin-warrior-xmm|hobgoblins]]  
 
 See chapter 7 for each priest's statistics.
 
@@ -101,7 +101,7 @@ Likewise, it isn't safe to camp in a cleared Haunted Keep. The elemental prophet
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/040-poa04-02.webp#center)
 
-The eradication of one or more of the surface outposts of the elemental cults marks the characters as dangerous enemies. As the party continues the assault on cult strongholds in Tyar-Besil, the elemental prophets look for ways to hit back hard, using their [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orbs]].
+The eradication of one or more of the surface outposts of the elemental cults marks the characters as dangerous enemies. As the party continues the assault on cult strongholds in Tyar-Besil, the elemental prophets look for ways to hit back hard, using their [[devastation-orb-pota|devastation orbs]].
 
 The timing of these retaliatory encounters coincides with the party's progress in overcoming the four temple complexes. A temple is overcome when its prophet is defeated or the monsters in its shrine are eliminated.
 
@@ -109,11 +109,11 @@ The timing of these retaliatory encounters coincides with the party's progress i
 - After the characters force a second cult to abandon its shrine, run the "Reckless Hate" encounter when the party returns to a settlement.  
 - After the characters force the third cult to abandon its shrine, run the "Race to Destruction" encounter.  
 
-Parties that stay in the dungeon and choose not to return to town might be oblivious to the villains' retaliations. If the characters never leave, assume the cultists' effort to destroy a town in "Reckless Hate" causes great damage without the characters on hand to stop it. When "Race to Destruction" is triggered, the characters receive a [[/03_Mechanics/CLI/spells/sending-xphb|sending]] or similar warning from a faction NPC that a town is in great danger, providing them with a chance to stop the event.
+Parties that stay in the dungeon and choose not to return to town might be oblivious to the villains' retaliations. If the characters never leave, assume the cultists' effort to destroy a town in "Reckless Hate" causes great damage without the characters on hand to stop it. When "Race to Destruction" is triggered, the characters receive a [[sending-xphb|sending]] or similar warning from a faction NPC that a town is in great danger, providing them with a chance to stop the event.
 
 ### Dire Tidings
 
-While the characters were busy in ruined Tyar-Besil, elemental cultists used a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] to attack one of the towns in the area. The party learns the news when they arrive at any settlement in the Sumber Hills region. If the characters don't venture anywhere near civilization, NPCs the party meets in the wilderness deliver the news.
+While the characters were busy in ruined Tyar-Besil, elemental cultists used a [[devastation-orb-pota|devastation orb]] to attack one of the towns in the area. The party learns the news when they arrive at any settlement in the Sumber Hills region. If the characters don't venture anywhere near civilization, NPCs the party meets in the wilderness deliver the news.
 
 A caravaner tells the characters of seeing silent pilgrims on their way to the settlement in question. She describes the pilgrims' garb well enough for the characters to know the pilgrims were elemental cultists. They carried a box, which had elemental symbols worked into it. The caravaner and her servants then witnessed the devastation but were too far away to lend any aid.
 
@@ -121,7 +121,7 @@ If the characters visit the wrecked town, they can confirm the scope of the dama
 
 ### Reckless Hate
 
-When the characters defeat a second elemental temple, the offended cult strikes back. Through divinations, spy reports, or visions bestowed by the Elder Elemental Eye, the cultists learn which settlement the player characters are using for a base and send a small force with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] to ravage that settlement—preferably with the characters in it. While the characters rest, trouble arrives on their doorstep.
+When the characters defeat a second elemental temple, the offended cult strikes back. Through divinations, spy reports, or visions bestowed by the Elder Elemental Eye, the cultists learn which settlement the player characters are using for a base and send a small force with a [[devastation-orb-pota|devastation orb]] to ravage that settlement—preferably with the characters in it. While the characters rest, trouble arrives on their doorstep.
 
 If the characters make camp outside of town, this encounter occurs when the characters spot the cultist group traveling to a settlement they intend to attack. The cultists' path brings them close to wherever the characters happen to be staying. For example, if the characters are camped out near one of the Haunted Keeps, they spot the group as it exits the passage connecting the keep to the dungeon levels.
 
@@ -137,20 +137,20 @@ When the characters investigate, add the following information.
 > Several strangely dressed people stand in the street. One who looks like a priest chants as the others open a large box engraved with a recurring elemental symbol. Inside, a magical orb resembling a crystal ball pulses and thrums with power. The priest holds the orb aloft and continues to chant while the others kneel before it.
 ^2a4
 
-The object is a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]], and it's ready to explode. The cultists remove the device from its case and wait for it to detonate. See chapter 7 for descriptions of the devastation orbs and statistics for the cultists. The group's composition depends on which cult is involved:
+The object is a [[devastation-orb-pota|devastation orb]], and it's ready to explode. The cultists remove the device from its case and wait for it to detonate. See chapter 7 for descriptions of the devastation orbs and statistics for the cultists. The group's composition depends on which cult is involved:
 
-- One [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and eight [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] armed with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] of air  
-- One [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]], two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]], and four [[/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monks]] armed with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] of earth  
-- One [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]], three [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], and one [[/03_Mechanics/CLI/bestiary/humanoid/flamewrath-pota|flamewrath]] armed with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] of fire  
-- One [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and six [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] armed with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] of water  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priest]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and eight [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] armed with a [[devastation-orb-pota|devastation orb]] of air  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]], two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]], and four [[/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monks]] armed with a [[devastation-orb-pota|devastation orb]] of earth  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]], three [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], and one [[/03_Mechanics/CLI/bestiary/humanoid/flamewrath-pota|flamewrath]] armed with a [[devastation-orb-pota|devastation orb]] of fire  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and six [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] armed with a [[devastation-orb-pota|devastation orb]] of water  
 
 ### Race to Destruction
 
-After the characters despoil the third shrine in the Temple of Elemental Evil, the remaining cult sends a powerful force with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] from the Fane of the Eye (see chapter 5) to destroy another town in the Dessarin Valley. The cultists taunt the party with their intentions, hoping to lure the characters into rushing to stop them, thus being caught in the destruction. Choose a target the characters have to travel to reach and allow enough time that the party can get there just in time.
+After the characters despoil the third shrine in the Temple of Elemental Evil, the remaining cult sends a powerful force with a [[devastation-orb-pota|devastation orb]] from the Fane of the Eye (see chapter 5) to destroy another town in the Dessarin Valley. The cultists taunt the party with their intentions, hoping to lure the characters into rushing to stop them, thus being caught in the destruction. Choose a target the characters have to travel to reach and allow enough time that the party can get there just in time.
 
 #### The Warning
 
-While the characters rest, the cultists use a [[/03_Mechanics/CLI/spells/dream-xphb|dream]] spell to contact the most prominent or recognizable character in the party.
+While the characters rest, the cultists use a [[dream-xphb|dream]] spell to contact the most prominent or recognizable character in the party.
 
 > [!readaloud] 
 > 
@@ -159,12 +159,12 @@ While the characters rest, the cultists use a [[/03_Mechanics/CLI/spells/dream-x
 > A new vista forms in your dream. You are standing on a hillside above a small town. A circle of shadowy cultists stands nearby, gazing at a glowing orb in the center of the circle. The orb pulses, and you awaken with a start.
 ^2a8
 
-The threat to Beliard is real. The cultists wait a couple of miles outside of town, staying out of sight until the specified time of the attack. If the characters search the outskirts of town, they can engage the cultists away from the target. Otherwise, the cultists march on the town with a [[/03_Mechanics/CLI/items/devastation-orb-pota|devastation orb]] an hour before sunset. The group depends on which cult is involved.
+The threat to Beliard is real. The cultists wait a couple of miles outside of town, staying out of sight until the specified time of the attack. If the characters search the outskirts of town, they can engage the cultists away from the target. Otherwise, the cultists march on the town with a [[devastation-orb-pota|devastation orb]] an hour before sunset. The group depends on which cult is involved.
 
-- Two [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knights]] mounted on [[/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm|hippogriffs]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and five [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]]  
-- One [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] mounted on a [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|giant crocodile]], one [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|fathomer]], one [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and six [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]]  
-- One [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] mounted on a [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulette]], and two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]]  
-- Three [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], two [[/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm|minotaurs]], and four [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]]  
+- Two [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knights]] mounted on [[hippogriff-xmm|hippogriffs]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and five [[bugbear-warrior-xmm|bugbears]]  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] mounted on a [[giant-crocodile-xmm|giant crocodile]], one [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|fathomer]], one [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and six [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]]  
+- One [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] mounted on a [[bulette-xmm|bulette]], and two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]]  
+- Three [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], two [[minotaur-of-baphomet-xmm|minotaurs]], and four [[hell-hound-xmm|hell hounds]]  
 
 These cultists are willing to annihilate themselves in the process of carrying out their mission. The cultists are also under orders to make sure they catch the characters in the blast, so if they are intercepted away from town, they still try to set off the orb (see chapter 7).
 
@@ -181,7 +181,7 @@ The Cult of the Howling Hatred established its temple in the southwest quarter o
 
 ### Temple Features
 
-Beneath a high cavern ceiling, streets connect a number of spacious plazas where wealthy dwarven families built estates. With the aid of a captive djinni, the air cult works to restore the Tyar-Besil palace and transform it into [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]]'s new Temple of Howling Hatred. The area has the following features. Any exceptions are noted in areas to which they apply.
+Beneath a high cavern ceiling, streets connect a number of spacious plazas where wealthy dwarven families built estates. With the aid of a captive djinni, the air cult works to restore the Tyar-Besil palace and transform it into [[aerisi-kalinoth-pota|Aerisi Kalinoth]]'s new Temple of Howling Hatred. The area has the following features. Any exceptions are noted in areas to which they apply.
 
 #### Ceilings
 
@@ -218,7 +218,7 @@ Although air cultists rarely do, many denizens of the air temple carry small amo
 > The carved reliefs of two dwarves face one another in profile to complete an arch beyond the ledge. Through the arch, the blocky contours of a lost dwarven city sprawl in the subterranean night. From somewhere within comes an agonized wail, followed by a breathless ramble of whimpering pleas. Then the whole city seems to join the chorus with the screams of creatures mad from torment.
 ^2b4
 
-The tormented screams actually come from four [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] lurking inside the gatehouse (area A2).
+The tormented screams actually come from four [[kenku-xmm|kenku]] lurking inside the gatehouse (area A2).
 
 ### A2. Gatehouse
 
@@ -227,7 +227,7 @@ The tormented screams actually come from four [[/03_Mechanics/CLI/bestiary/monst
 > A squat stone gatehouse stands at the entrance to the dwarven city. Beyond the open gates, an arched corridor zigzags past sturdy stone walls where arrow slits squint from every angle. At the far end of this murderous hallway stands the entrance to this lost dwarven city.
 ^2b6
 
-Four [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] occupy the gatehouse structure, hidden behind the arrow slits. They don't reveal themselves to the characters unless the characters discover and attack them through the arrow slits. They torment the characters by replicating the screams and pleas of the tormented victims of the kenku torturer (area A12).
+Four [[kenku-xmm|kenku]] occupy the gatehouse structure, hidden behind the arrow slits. They don't reveal themselves to the characters unless the characters discover and attack them through the arrow slits. They torment the characters by replicating the screams and pleas of the tormented victims of the kenku torturer (area A12).
 
 #### Arrow Slit Corners
 
@@ -244,7 +244,7 @@ The gatehouse was designed in a zigzag pattern to provide cover for dwarf defend
 
 Two [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priests]] (see chapter 7) supervise as five [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] slowly turn the westernmost wheel (see "Stone Wheels" below). After completing one revolution, they stop and await further instructions.
 
-The commoners are cultists on the brink of becoming initiates. The priests lash these cultists to break their will before final initiation into the cult. If the characters attack, the priests order the commoners to fight to the death. A commoner can be [[/03_Mechanics/CLI/conditions#Frightened|frightened]] into surrendering with a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check.
+The commoners are cultists on the brink of becoming initiates. The priests lash these cultists to break their will before final initiation into the cult. If the characters attack, the priests order the commoners to fight to the death. A commoner can be [[conditions#Frightened|frightened]] into surrendering with a successful DC 15 Charisma ([[skills#Intimidation|Intimidation]]) check.
 
 #### Stone Wheels
 
@@ -257,17 +257,17 @@ The stone wheels operate an elaborate mechanism beneath the floor in this dungeo
 > A stone fountain stands in the middle of a grand plaza, its sides sculpted into the shapes of dwarves bearing drums and horns. Near the fountain, several figures in feathered attire play a shrill, discordant tune on flutes made of bone.
 ^2be
 
-The figures gathered by the fountain are the Windwyrds, a musical group consisting of [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]]'s minstrel, [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], and five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7 for both). None of the initiates possesses an ounce of musical talent.
+The figures gathered by the fountain are the Windwyrds, a musical group consisting of [[aerisi-kalinoth-pota|Aerisi Kalinoth]]'s minstrel, [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], and five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7 for both). None of the initiates possesses an ounce of musical talent.
 
 If the characters approach the Windwyrds peacefully, the cultists stop playing. Frustrated with the mediocre initiates, [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] asks if the characters are skilled musicians and if they would like to audition for the band.
 
-If a bard character or a character proves his or her ability to [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], he recruits the characters into the band and offers them the initiates' robes and flutes. [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] doesn't tell the characters what happens to minstrels who displease [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]].
+If a bard character or a character proves his or her ability to [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], he recruits the characters into the band and offers them the initiates' robes and flutes. [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] doesn't tell the characters what happens to minstrels who displease [[aerisi-kalinoth-pota|Aerisi Kalinoth]].
 
 If the characters adopt the garments and instruments of the Windwyrds, they stand a chance of passing through the air cult's domain without difficulty.
 
 #### Bone Flutes
 
-The minstrels' flutes are the hollowed and carved bones of former Windwyrds who failed to please [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] with their music. A character can tell the instruments are humanoid bones with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]]) check.
+The minstrels' flutes are the hollowed and carved bones of former Windwyrds who failed to please [[aerisi-kalinoth-pota|Aerisi Kalinoth]] with their music. A character can tell the instruments are humanoid bones with a successful DC 10 Wisdom ([[skills#Medicine|Medicine]]) check.
 
 #### Development
 
@@ -280,7 +280,7 @@ If caught in a fight he knows he's going to lose, [[/03_Mechanics/CLI/bestiary/n
 > The proprietors of these shops are long gone, but carvings above the doors indicate the owners' former professions: tailor, jeweler, smith, baker. All that remains of these places now are small, rubble-strewn rooms.
 ^2c3
 
-A [[/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm|cloaker]] that hunts in the old Tyar-Besil shops moved into the area as soon as a food source (the cult) arrived. Whenever the characters enter one of the shops, they have a twenty-five percent chance of encountering the cloaker. The creature is either disguised in plain sight as a cloak or hiding on the ceiling. The cloaker uses hit-and-run tactics against the characters, rather than risking itself in a drawn-out fight.
+A [[cloaker-xmm|cloaker]] that hunts in the old Tyar-Besil shops moved into the area as soon as a food source (the cult) arrived. Whenever the characters enter one of the shops, they have a twenty-five percent chance of encountering the cloaker. The creature is either disguised in plain sight as a cloak or hiding on the ceiling. The cloaker uses hit-and-run tactics against the characters, rather than risking itself in a drawn-out fight.
 
 #### Treasure
 
@@ -293,7 +293,7 @@ The cloaker has collected all the valuables left in the area, as well as the wea
 > The worn image of a smiling dwarf on the face of a coin is stamped into the flagstones that pave this plaza. An old sign bearing this same image hangs above the door of a large hall in the center of the plaza.
 ^2c6
 
-Seven [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] wander the lane behind the hall, searching through the rubble for treasure. As the characters near the lane, the kenku hide and attempt to frighten the party away with ghostly sounds from the gloom.
+Seven [[kenku-xmm|kenku]] wander the lane behind the hall, searching through the rubble for treasure. As the characters near the lane, the kenku hide and attempt to frighten the party away with ghostly sounds from the gloom.
 
 ### A7. Plaza of Moradin
 
@@ -302,7 +302,7 @@ Seven [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] wander the lane
 > Several streets converge on a plaza, in the center of which stands a thirty-foot-tall granite statue of Moradin grasping a great stone lantern in an outstretched fist. A bright light emanates from the lantern, revealing ruined shops around the plaza, their inner chambers extending into the rock.
 ^2c8
 
-Two [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], and two [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] are stationed here to watch for incursions by Underdark predators. (See chapter 7 for the cultists' statistics.)
+Two [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], and two [[kenku-xmm|kenku]] are stationed here to watch for incursions by Underdark predators. (See chapter 7 for the cultists' statistics.)
 
 #### North Tunnel
 
@@ -310,7 +310,7 @@ The bent tunnel to the north leads to area E27 of the Temple of Eternal Flame.
 
 #### Statue
 
-The statue of Moradin is made of solid granite except for its eyes and the panels of the lantern, which are fashioned from quartz. A [[/03_Mechanics/CLI/spells/continual-flame-xphb|continual flame]] spell cast within the lantern's hollow interior brightly lights this plaza.
+The statue of Moradin is made of solid granite except for its eyes and the panels of the lantern, which are fashioned from quartz. A [[continual-flame-xphb|continual flame]] spell cast within the lantern's hollow interior brightly lights this plaza.
 
 ### A8. Ruined Villa
 
@@ -319,11 +319,11 @@ The statue of Moradin is made of solid granite except for its eyes and the panel
 > The freestanding buildings in this part of the city are little more than crumbling shells and heaps of rubble. Deep holes split the cobblestone streets and buildings gape wide open, walls turned to rubble. Motes of dust float in the air, and in the silent gloom something scratches at the stones.
 ^2cd
 
-An [[/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm|umber hulk]] lairs here among the broken buildings. The air cult drove its usual prey away, and now the umber hulk feasts on cultists that wander into its territory. The umber hulk strikes from behind rock walls to seize its prey before burrowing away again. The air cult suffers at least one loss each week to the umber hulk, which is devious enough to cover its tunnels.
+An [[umber-hulk-xmm|umber hulk]] lairs here among the broken buildings. The air cult drove its usual prey away, and now the umber hulk feasts on cultists that wander into its territory. The umber hulk strikes from behind rock walls to seize its prey before burrowing away again. The air cult suffers at least one loss each week to the umber hulk, which is devious enough to cover its tunnels.
 
 #### Treasure
 
-Searching through the ruined villa uncovers 92 gp, a miniature electrum anvil with etchings of funerary rites in honor of Moradin (150 gp), and an [[/03_Mechanics/CLI/items/immovable-rod-xdmg|immovable rod]].
+Searching through the ruined villa uncovers 92 gp, a miniature electrum anvil with etchings of funerary rites in honor of Moradin (150 gp), and an [[immovable-rod-xdmg|immovable rod]].
 
 ### A9. Tombs
 
@@ -343,7 +343,7 @@ Opening the doors requires removing the wedged spikes, which takes a few minutes
 > Beyond the doors, the floor declines toward a great chasm. The tombs and crypts of dwarves sprawl like a city in miniature before the chasm's edge. Emaciated figures appear from behind these tombs and fix their hungry eyes upon you.
 ^2d1
 
-Seven [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] prowl the grounds and attack as soon as they realize the doors have opened. If any cultists remain in area A7, the hear the fighting and retreat to the palace (area A18).
+Seven [[ghoul-xmm|ghouls]] prowl the grounds and attack as soon as they realize the doors have opened. If any cultists remain in area A7, the hear the fighting and retreat to the palace (area A18).
 
 #### Treasure
 
@@ -356,7 +356,7 @@ If the characters loot the tombs of the Tyar-Besil, they find `3d10` figurines, 
 > A deep moat surrounds a plaza consisting of a step pyramid encircled by a stone walkway. Stone colonnades to the north and east span the moat and connect the plaza to other parts of the ruined dwarven enclave. A short bridge spans the moat to the south. Holding up the bridge and colonnades are enormous statues of dwarves submerged up to their necks. Perched atop the pyramid and watching over the vault is a humanoid figure in a feathered cloak mounted on a large, draconic creature. The water in the moat flows west before plunging over a waterfall into a dark abyss. The sound of rushing water echoes like thunder within this vault, the ceiling of which glitters with mineral deposits like a perpetual starry night.
 ^2d4
 
-A [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]] (see chapter 7) named Kaz Hanar and his [[/03_Mechanics/CLI/bestiary/dragon/wyvern-xmm|wyvern]] mount perch atop the pyramid, guarding the plaza. They swoop down to attack anyone who isn't dressed as an air cultist.
+A [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]] (see chapter 7) named Kaz Hanar and his [[wyvern-xmm|wyvern]] mount perch atop the pyramid, guarding the plaza. They swoop down to attack anyone who isn't dressed as an air cultist.
 
 If the characters are disguised as air cultists, Kaz lands upon the nearest bridge or colonnade and asks them where they are going. Kaz doesn't care much about their answers; he's bored and looking for an excuse to exert his authority. If disguised, the characters must provide a halfway compelling story to convince Kaz to let them pass. If they fail to convince Kaz, he and his wyvern refuse to let them pass.
 
@@ -368,11 +368,11 @@ The pillared colonnade that spans the moat north of the plaza leads to area A7. 
 
 Walls of smoothly chiseled stone enclose this 20-foot-deep moat. An underground stream pours into the moat, filling it with water. Valves opened and closed by the stone wheels in area A3 control the amount of water that flows into the moat. Shutting the valves empties the moat as the remaining water flows over the waterfall to the west. Characters with light sources who examine the moat notice the glint of golden coins and the sheen of steel weapons and armor at the bottom (see "Treasure" below).
 
-A [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|stone golem]] shaped like a 12-foot-tall, 9-foot-wide dwarf patrols the moat by walking along its floor, attacking any creatures that fall into it. When the moat is full, the golem is hidden under dark waters. As the moat drains, the golem is revealed. The golem never leaves the moat. The Besilmer dwarves knew the command words to control the golem; those words have been lost.
+A [[stone-golem-xmm|stone golem]] shaped like a 12-foot-tall, 9-foot-wide dwarf patrols the moat by walking along its floor, attacking any creatures that fall into it. When the moat is full, the golem is hidden under dark waters. As the moat drains, the golem is revealed. The golem never leaves the moat. The Besilmer dwarves knew the command words to control the golem; those words have been lost.
 
 #### Waterfall
 
-A large gap in the west wall leads to a 200-foot-deep chasm. Water from the moat drains into this chasm, forming a waterfall. At the start of its turn, a creature swimming in the westernmost stretch of the moat is pulled 20 feet toward the chasm by the current unless it succeeds on a DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
+A large gap in the west wall leads to a 200-foot-deep chasm. Water from the moat drains into this chasm, forming a waterfall. At the start of its turn, a creature swimming in the westernmost stretch of the moat is pulled 20 feet toward the chasm by the current unless it succeeds on a DC 15 Strength ([[skills#Athletics|Athletics]]) check.
 
 #### Treasure
 
@@ -385,7 +385,7 @@ Over the ages, many unfortunate creatures have met their deaths in the moat, lea
 > Frescoes cover two walls of this chamber, one depicting the creation of the dwarves by Moradin, the other a massive battle between orcs and dwarves. The far wall is pocked and pitted with holes in the masonry where gemstones once surrounded an altar in the shape of an anvil. Now only the chipped remnants of garnets and agates remain. In the middle of the room, three bird-headed creatures torment a group of shackled prisoners.
 ^2da
 
-This room contains three [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] and five bound and shackled human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]. One kenku tortures the prisoners while the other two mimic the prisoners' cries of agony.
+This room contains three [[kenku-xmm|kenku]] and five bound and shackled human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]. One kenku tortures the prisoners while the other two mimic the prisoners' cries of agony.
 
 #### Prisoners
 
@@ -402,11 +402,11 @@ If the prisoners are returned to their homes, their families offer a reward of 5
 > This building was once a dwarven hall for feasting. Old wooden tables lay scattered and broken throughout the long main room, and three gigantic casks line the wall behind what was once a beautiful oak bar. Behind the casks are doors for loading and unloading the casks.
 ^2df
 
-The air cult uses the hall as a meditation area. At any time, five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]] can be found here, levitating above the ground and chanting. See chapter 7 for the cultists' statistics. The hurricane carries a [[/03_Mechanics/CLI/items/storm-boomerang-pota|storm boomerang]] (see chapter 7) and gains the following action option:
+The air cult uses the hall as a meditation area. At any time, five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]] can be found here, levitating above the ground and chanting. See chapter 7 for the cultists' statistics. The hurricane carries a [[storm-boomerang-pota|storm boomerang]] (see chapter 7) and gains the following action option:
 
 > [!note] 
 > 
-> **Storm Boomerang.** *Ranged Weapon Attack:* +5 to hit; range 60/120 ft., one target. *Hit*: 4 (`1d4 + 2`) bludgeoning damage plus 7 (`3d4`) thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] until the end of its next turn. *Miss*: The boomerang returns to the hurricane's hand.
+> **Storm Boomerang.** *Ranged Weapon Attack:* +5 to hit; range 60/120 ft., one target. *Hit*: 4 (`1d4 + 2`) bludgeoning damage plus 7 (`3d4`) thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be [[conditions#Stunned|stunned]] until the end of its next turn. *Miss*: The boomerang returns to the hurricane's hand.
 ^2e0
 
 #### Casks
@@ -434,7 +434,7 @@ Check for a random encounter when the characters enter one of the apartments and
 | 3 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricanes]] (see area A20) |
 | 4 | `d2` [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweavers]] (see area A20) |
 | 5 | `d2` [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priests]] (see area A3) |
-| 6 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|kenku]] (see area A12) |
+| 6 | 1 [[kenku-xmm|kenku]] (see area A12) |
 | 7–20 | None |
 ^encounter
 
@@ -449,17 +449,17 @@ This tunnel leads east to area C20 of the Temple of the Crushing Wave.
 > Cracked flagstones of ultramarine marble pave this plaza. An avenue to the east ends at a wall of fallen masonry and stone. To the west, a pillared colonnade stretches across a moat to a step pyramid.
 ^2ea
 
-Ahtayir, a [[/03_Mechanics/CLI/bestiary/elemental/djinni-xmm|djinni]] in a torn vest and ragged pantaloons, labors here. His noble countenance bears a stoic expression as he carves a boulder with stone carving tools.
+Ahtayir, a [[djinni-xmm|djinni]] in a torn vest and ragged pantaloons, labors here. His noble countenance bears a stoic expression as he carves a boulder with stone carving tools.
 
 Torhild Flametongue, king of the Besilmer dwarves, possessed a horn that could summon Ahtayir once every one hundred and one years. By the power of the horn, the summoned djinni was obligated to complete a single service or task. Torhild tasked the djinni with the daunting task of keeping the palace quarter in good repair–a task he has been performing now for centuries.
 
-When [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] arrived, she took possession of the horn but refused to free the djinni from his previously assigned task. Ahtayir works endlessly at this task, carving stone masonry and statuary and flying them through the cavern, reconstructing the city block by block. He resents this duty, but he can't escape it.
+When [[aerisi-kalinoth-pota|Aerisi Kalinoth]] arrived, she took possession of the horn but refused to free the djinni from his previously assigned task. Ahtayir works endlessly at this task, carving stone masonry and statuary and flying them through the cavern, reconstructing the city block by block. He resents this duty, but he can't escape it.
 
-If Ahtayir likes the characters or trusts in their ability to succeed against the air cult, he counsels them to attack [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] in hopes that she summons him, releasing him from his task.
+If Ahtayir likes the characters or trusts in their ability to succeed against the air cult, he counsels them to attack [[aerisi-kalinoth-pota|Aerisi Kalinoth]] in hopes that she summons him, releasing him from his task.
 
 #### Treasure
 
-If the characters befriend Ahtayir and sunder the horn that summons him, the djinni brings each character a flask of [[/03_Mechanics/CLI/items/bottled-breath-pota|bottled breath]] (see chapter 7) from his palace on the Plane of Air.
+If the characters befriend Ahtayir and sunder the horn that summons him, the djinni brings each character a flask of [[bottled-breath-pota|bottled breath]] (see chapter 7) from his palace on the Plane of Air.
 
 ### A16. Obelisk Row
 
@@ -468,7 +468,7 @@ If the characters befriend Ahtayir and sunder the horn that summons him, the dji
 > Three tapered obelisks, their sides inscribed with ancient pictographs, stand in a row, their peaks scraping the fifteen-foot-high ceiling. Each obelisk has a gaunt human tied to its base. Around the obelisks, a colored cobblestone mosaic depicts Moradin, a huge warhammer slung over his shoulder.
 ^2ed
 
-The obelisks are made of granite. They stand 15 feet tall and are 4 feet wide at the base. Lashed to the obelisks with thick ropes are three [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7) suffering from extreme starvation. They suffer from level 4 [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see appendix A, "[[/03_Mechanics/CLI/conditions#Exhaustion|Conditions]]," in the *Player's Handbook*). Beneath their hollow rib cages, their bellies are little more than concave spaces where the flesh stretches thin across their bones. Their arms, legs, and faces are similarly skeletal, and terrible welts cover their bodies.
+The obelisks are made of granite. They stand 15 feet tall and are 4 feet wide at the base. Lashed to the obelisks with thick ropes are three [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7) suffering from extreme starvation. They suffer from level 4 [[conditions#Exhaustion|exhaustion]] (see appendix A, "[[conditions#Exhaustion|Conditions]]," in the *Player's Handbook*). Beneath their hollow rib cages, their bellies are little more than concave spaces where the flesh stretches thin across their bones. Their arms, legs, and faces are similarly skeletal, and terrible welts cover their bodies.
 
 The initiates wear cult garb and are being tested. If the characters try to free them, they protest, claiming that their cult masters are teaching them how to "survive on air alone."
 
@@ -495,7 +495,7 @@ The creatures atop the step pyramid are Kaz Hanar and his wyvern mount (see area
 > Two rows of pillars support the twenty-foot-high ceiling of this marble hall. The pillars are sculpted to resemble dwarves locked in solemn stares. Each one clutches a stone axe. East of the pillars are two ascending marble staircases without handrails. In the middle of the room, several cultists in gray feathered robes levitate a few feet above the floor while chanting a hymn. Howling air rises from a pit in the middle of the floor.
 ^2f2
 
-One [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], and five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7 for statistics) guard this room, levitating three feet above the floor as they chant a hymn to [[/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota|Yan-C-Bin]]. The levitation effect ends on a cultist if he or she moves or takes damage. Each initiate carries two [[/03_Mechanics/CLI/items/seeker-dart-pota|seeker darts]] (see chapter 7) and gains the following attack option:
+One [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], and five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7 for statistics) guard this room, levitating three feet above the floor as they chant a hymn to [[yan-c-bin-pota|Yan-C-Bin]]. The levitation effect ends on a cultist if he or she moves or takes damage. Each initiate carries two [[seeker-dart-pota|seeker darts]] (see chapter 7) and gains the following attack option:
 
 > [!note] 
 > 
@@ -506,7 +506,7 @@ If the characters are disguised as air cultists, the cultists stationed here ign
 
 #### Pit
 
-The pit is actually a 10-foot-square vertical shaft of smooth stone that descends to the Howling Caves (see chapter 5). The updraft slows the descent of any creature that leaps or falls into the pit, as if a [[/03_Mechanics/CLI/spells/feather-fall-xphb|feather fall]] spell had been cast on it. Air cultists are trained to ascend the shaft by catching the wind with their cloaks and wingwear.
+The pit is actually a 10-foot-square vertical shaft of smooth stone that descends to the Howling Caves (see chapter 5). The updraft slows the descent of any creature that leaps or falls into the pit, as if a [[feather-fall-xphb|feather fall]] spell had been cast on it. Air cultists are trained to ascend the shaft by catching the wind with their cloaks and wingwear.
 
 ### A19. Temple of Elemental Air
 
@@ -519,9 +519,9 @@ The pit is actually a 10-foot-square vertical shaft of smooth stone that descend
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/043-poa04-03.webp#center)
 
-This chamber once served as a seat of power for the dwarf king of Besilmer and his war council. Engraved on the floor is a map of the ancient dwarven kingdom. The air cult has turned it into a den of vice and depravity. If this is the first of the elemental temples the characters explore, the air prophet [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] sits upon the high throne overseeing her court, her illusory wings gently fanning the air. She keeps her magic spear, [[/03_Mechanics/CLI/items/windvane-pota|Windvane]] (see chapter 7), close to her at all times. If Aerisi is here, her ever-watchful [[/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm|invisible stalker]] companion, Whisper, glides through the chamber unseen. If he escaped from area A4, [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] is here as well, kneeling or sitting at Aerisi's feet. Ten [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] lay drugged behind the curtains that hang between the pillars to the north and south. Aerisi can command them to attack intruders, but they are effectively [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]. See chapter 7 for the cultists' statistics.
+This chamber once served as a seat of power for the dwarf king of Besilmer and his war council. Engraved on the floor is a map of the ancient dwarven kingdom. The air cult has turned it into a den of vice and depravity. If this is the first of the elemental temples the characters explore, the air prophet [[aerisi-kalinoth-pota|Aerisi Kalinoth]] sits upon the high throne overseeing her court, her illusory wings gently fanning the air. She keeps her magic spear, [[windvane-pota|Windvane]] (see chapter 7), close to her at all times. If Aerisi is here, her ever-watchful [[invisible-stalker-xmm|invisible stalker]] companion, Whisper, glides through the chamber unseen. If he escaped from area A4, [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]] is here as well, kneeling or sitting at Aerisi's feet. Ten [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] lay drugged behind the curtains that hang between the pillars to the north and south. Aerisi can command them to attack intruders, but they are effectively [[conditions#Poisoned|poisoned]]. See chapter 7 for the cultists' statistics.
 
-If Aerisi isn't here, a [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrock]], whose service was a gift from a demonic envoy, guards the temple alone. It lurks behind the throne and attacks any non-cultists that enter the hall. The drug-addled initiates don't aid the vrock and fight only in self-defense.
+If Aerisi isn't here, a [[vrock-xmm|vrock]], whose service was a gift from a demonic envoy, guards the temple alone. It lurks behind the throne and attacks any non-cultists that enter the hall. The drug-addled initiates don't aid the vrock and fight only in self-defense.
 
 #### Roleplaying Aerisi Kalinoth
 
@@ -537,13 +537,13 @@ Etchings of cloudy landscapes encircle the horn, where a pyramid palace seems to
 
 #### Treasure
 
-Aerisi wears a platinum torc (worth 1,600 gp), gold and sapphire rings (four, each worth 1,000 gp), and a diadem (6,400 gp) from Evereska. She carries [[/03_Mechanics/CLI/items/windvane-pota|Windvane]] (see chapter 7) and a spellbook containing all of the spells she has prepared (see her statistics in chapter 7).
+Aerisi wears a platinum torc (worth 1,600 gp), gold and sapphire rings (four, each worth 1,000 gp), and a diadem (6,400 gp) from Evereska. She carries [[windvane-pota|Windvane]] (see chapter 7) and a spellbook containing all of the spells she has prepared (see her statistics in chapter 7).
 
 #### Development
 
 If the characters defeat the djinni and her cultists, Aerisi (and [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]], if he is present) flee to the Howling Caves via the shaft in area A18.
 
-The first time [[/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota|Aerisi Kalinoth]] drops to 0 hit points, she vanishes in a screaming gust of wind, leaving *Windvane behind*.
+The first time [[aerisi-kalinoth-pota|Aerisi Kalinoth]] drops to 0 hit points, she vanishes in a screaming gust of wind, leaving *Windvane behind*.
 
 ### A20. Worm's Tunnel
 
@@ -562,7 +562,7 @@ If Aerisi is defeated, the air cultists in the Temple of Howling Hatred scatter 
 
 The Cult of the Crushing Wave maintains its headquarters in the southeast quarter of ancient Tyar-Besil. Long ago, this portion of Tyar-Besil contained storehouses. The Dark Stream provided a safe, navigable waterway linking the stronghold with the Dessarin River and the surface dominions of the realm.
 
-[[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]], the Prophet of Water, instructed his followers to claim as much of the quarter as they could and to entice monsters friendly to the cult's cause to establish lairs nearby.
+[[gar-shatterkeel-pota|Gar Shatterkeel]], the Prophet of Water, instructed his followers to claim as much of the quarter as they could and to entice monsters friendly to the cult's cause to establish lairs nearby.
 
 ### The Dark Stream
 
@@ -576,12 +576,12 @@ Each time the characters travel the Dark Stream to or from the Temple of the Cru
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1 | `d6` [[/03_Mechanics/CLI/bestiary/aberration/darkmantle-xmm|darkmantles]] |
-| 2 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/aberration/piercer-xmm|piercers]] |
-| 3 | `1d4 + 4` [[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm|troglodytes]] |
-| 4 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|shadows]] |
-| 5 | 1 [[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm|water weird]] |
-| 6 | 1 [[/03_Mechanics/CLI/bestiary/aberration/chuul-xmm|chuul]] |
+| 1 | `d6` [[darkmantle-xmm|darkmantles]] |
+| 2 | `1d4 + 1` [[piercer-xmm|piercers]] |
+| 3 | `1d4 + 4` [[troglodyte-xmm|troglodytes]] |
+| 4 | `1d4 + 1` [[shadow-xmm|shadows]] |
+| 5 | 1 [[water-weird-xmm|water weird]] |
+| 6 | 1 [[chuul-xmm|chuul]] |
 | 7–20 | None |
 ^encounter
 
@@ -609,7 +609,7 @@ A character who falls into a canal finds that the sides are smooth and slippery.
 
 #### Light
 
-Cultists illuminate areas they use frequently with [[/03_Mechanics/CLI/spells/continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
+Cultists illuminate areas they use frequently with [[continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
 
 #### Quays
 
@@ -643,7 +643,7 @@ If the characters find their way here from other parts of the dungeon, read the 
 
 The quay leading to area C4 might or might not be visible, depending on which direction the party approaches from. It isn't illuminated and hard to see in the darkness.
 
-The landing at the east end of the cavern is guarded by four [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] and one [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|fathomer]] commanded by a [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] named Eyon (see chapter 7 for the cultists' statistics). Eyon's mount, a [[/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm|hunter shark]], swims in the lake nearby. The cultists challenge any strange boats that approach from the east and attack unless the characters convince them to parley.
+The landing at the east end of the cavern is guarded by four [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] and one [[/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota|fathomer]] commanded by a [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] named Eyon (see chapter 7 for the cultists' statistics). Eyon's mount, a [[hunter-shark-xmm|hunter shark]], swims in the lake nearby. The cultists challenge any strange boats that approach from the east and attack unless the characters convince them to parley.
 
 #### Roleplaying Eyon
 
@@ -653,7 +653,7 @@ The reavers know that most enemies are at a serious disadvantage in the water. I
 
 #### Treasure
 
-Eyon has a waterproofed leather pouch on her belt that contains 15 gp, 6 pp, five delicately carved coral gemstones worth 80 gp each, and a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]].
+Eyon has a waterproofed leather pouch on her belt that contains 15 gp, 6 pp, five delicately carved coral gemstones worth 80 gp each, and a [[potion-of-healing-xdmg|potion of healing]].
 
 #### Development
 
@@ -678,11 +678,11 @@ Aquatic creatures wander the canals. Check for a random encounter once every per
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] (see area C4) |
+| 1 | `1d4 + 1` [[ghoul-xmm|ghouls]] (see area C4) |
 | 2–3 | `1d4 + 4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] (see area C13) |
-| 4 | `d2` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] (see area C12) |
-| 5 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|giant octopus]] (see area C3) |
-| 6 | 1 [[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm|dragon turtle]] (see area C21) |
+| 4 | `d2` [[troll-xmm|trolls]] (see area C12) |
+| 5 | 1 [[giant-octopus-xmm|giant octopus]] (see area C3) |
+| 6 | 1 [[dragon-turtle-xmm|dragon turtle]] (see area C21) |
 | 7–20 | None |
 ^encounter
 
@@ -697,7 +697,7 @@ The giant octopus attacks any small group it encounters. Other monsters attack p
 
 The ceiling of this cavern is a dome, at its highest point almost 50 feet above the water. The lake is 20 feet deep near the cavern walls, dropping to 60 feet in the middle. The lake earns its name from a trick of acoustics. A mere whisper spoken in area C1 can easily be heard in area C19, and vice versa.
 
-The lake is home to small blind cave fish. A [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|giant octopus]] lurks in a grotto to the south, behind a column of rock that supports the cavern ceiling. The creature attacks swimmers or boaters who approach within 30 feet of its lair.
+The lake is home to small blind cave fish. A [[giant-octopus-xmm|giant octopus]] lurks in a grotto to the south, behind a column of rock that supports the cavern ceiling. The creature attacks swimmers or boaters who approach within 30 feet of its lair.
 
 ### C4. Drowning Chambers
 
@@ -708,9 +708,9 @@ The lake is home to small blind cave fish. A [[/03_Mechanics/CLI/bestiary/beast/
 
 Long ago this chamber served as the harbormaster's post, but the Crushing Wave cult rededicated it as a place to ceremonially drown captives. Each of the pools is 10 feet deep. The stones average about 50 pounds, and the ropes are used to bind a victim's feet together before pushing him or her into the pool.
 
-Twelve aquatic [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] (which have a swimming speed of 30 feet) lurk in this chamber—previous victims of the cult's obscene rite. Eight are submerged in the pools where they died, and four more skulk in the shadows of the ruined enclosure at the west end of the room. The monsters hide so they can surprise intruders.
+Twelve aquatic [[ghoul-xmm|ghouls]] (which have a swimming speed of 30 feet) lurk in this chamber—previous victims of the cult's obscene rite. Eight are submerged in the pools where they died, and four more skulk in the shadows of the ruined enclosure at the west end of the room. The monsters hide so they can surprise intruders.
 
-If the ghouls succeed in paralyzing a character, the nearest one uses an action to tie one of the heavy stones to the [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] character's feet. On the following turn, the ghoul shoves the [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] character into one of the drowning pools. Swimming to the surface with a tethered stone requires a successful DC 20 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check, and wriggling free of the tether in the confined space requires a successful DC 15 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check.
+If the ghouls succeed in paralyzing a character, the nearest one uses an action to tie one of the heavy stones to the [[conditions#Paralyzed|paralyzed]] character's feet. On the following turn, the ghoul shoves the [[conditions#Paralyzed|paralyzed]] character into one of the drowning pools. Swimming to the surface with a tethered stone requires a successful DC 20 Strength ([[skills#Athletics|Athletics]]) check, and wriggling free of the tether in the confined space requires a successful DC 15 Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
 ### C5. Gaol
 
@@ -721,7 +721,7 @@ An iron hasp-and-pin arrangement secures the door to this room. The lock can't b
 > This room evidently serves as a prison. A half-dozen straw pallets covered by threadbare blankets are spread out on the floor, and a cask of water leans against one wall. A dark, slit-like window looks out to the west.
 ^31e
 
-The cultists currently hold no prisoners in this makeshift jail. If the characters are defeated in the temple, they are stripped of their gear and confined here while [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] decides how best to dispose of them.
+The cultists currently hold no prisoners in this makeshift jail. If the characters are defeated in the temple, they are stripped of their gear and confined here while [[gar-shatterkeel-pota|Gar Shatterkeel]] decides how best to dispose of them.
 
 ### C6. Victory Bridge
 
@@ -778,7 +778,7 @@ This guard post is manned by a [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-sh
 
 #### Treasure
 
-Khalt has a pouch containing 30 gp, 12 pp, four garnets worth 100 gp each, and two [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potions of greater healing]].
+Khalt has a pouch containing 30 gp, 12 pp, four garnets worth 100 gp each, and two [[potion-of-greater-healing-xdmg|potions of greater healing]].
 
 #### Development
 
@@ -791,7 +791,7 @@ If the characters defeat these cultists and then leave this level of the dungeon
 > This chamber has been badly damaged. Several collapsed columns and buckling walls speak to the passage of many long years, but one feature remains curiously intact: a stone fountain in the middle of the west wall. It consists of a ten-foot-wide semicircular stone basin of water, with a grinning gargoyle perched on a pedestal jutting out from the wall. Stone doors exit to the north and the south.
 ^32b
 
-Two [[/03_Mechanics/CLI/bestiary/aberration/nothic-xmm|nothics]] occupy the room, hiding behind the broken columns and rubble choking the eastern part of the chamber. The nothics took up residence here in the hopes that unwary cult members might be easy prey for an ambush or unwittingly yield secrets of power to the monsters' weird insight. They let large and well-armed parties pass through unmolested, but then attempt to pick off a character bringing up the rear.
+Two [[nothic-xmm|nothics]] occupy the room, hiding behind the broken columns and rubble choking the eastern part of the chamber. The nothics took up residence here in the hopes that unwary cult members might be easy prey for an ambush or unwittingly yield secrets of power to the monsters' weird insight. They let large and well-armed parties pass through unmolested, but then attempt to pick off a character bringing up the rear.
 
 #### Gargoyle Fountain
 
@@ -819,7 +819,7 @@ The ceiling in this chamber is 30 feet high. Vandalism to the decorations on the
 > This room is filthy. The walls are crumbling and crooked, and the heaps of uncured pelts and hides strewn across the floor form a crude, foul-smelling carpet. Gnawed bones and broken crockery are scattered about, along with a few odd pieces of armor, most bent, twisted, or badly scored by claw marks. Doors lead to the north and the west.
 ^332
 
-This room is the lair of three aquatic [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]], which have a swimming speed of 40 feet and the ability to breathe underwater. Only two are here, since one troll guards area C15 at any given time.
+This room is the lair of three aquatic [[troll-xmm|trolls]], which have a swimming speed of 40 feet and the ability to breathe underwater. Only two are here, since one troll guards area C15 at any given time.
 
 The trolls—named Gorgebelly, Marrowsucker, and Ninetooth—ignore goings-on in the dungeon around them, and they grudgingly answer any summons for help. Characters disguised as water cultists, or characters who insist they are doing the cult's business, can easily convince the trolls to stay here and do nothing, or bribe them to cause trouble somewhere else.
 
@@ -847,17 +847,17 @@ If the lizardfolk lose at least two of their number in a fight here, [[/03_Mecha
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/046-poa04-05.webp#center)
 
-A [[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm|sea hag]] named Thuluna Maah and two [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] that serve as her bodyguards live in this room. The two ogres stand watch in the outer portion of the room, while Thuluna lurks behind the curtain in the northwest alcove, her personal bedchamber. If the hour is late, Thuluna and her guards are asleep.
+A [[sea-hag-xmm|sea hag]] named Thuluna Maah and two [[ogre-xmm|ogres]] that serve as her bodyguards live in this room. The two ogres stand watch in the outer portion of the room, while Thuluna lurks behind the curtain in the northwest alcove, her personal bedchamber. If the hour is late, Thuluna and her guards are asleep.
 
 #### Roleplaying Thuluna
 
-Thuluna Maah is the second-in-command of the temple, answering only to [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]]. She is a sly, calculating creature, quick to offer bargains and make deals that she can later turn to her advantage. The hag wields great influence over the cult's nonhuman members, mostly because the ogres and trolls do anything she tells them to. Thuluna would like to unseat Shatterkeel and purge the cult of its human fathomers and one-eyed shivers, but she is patient. For now, she tries to convince Shatterkeel to strike against the rival cults, hoping that the air or fire cultists kill him for her and clear the way for her to take over the Crushing Wave cult.
+Thuluna Maah is the second-in-command of the temple, answering only to [[gar-shatterkeel-pota|Gar Shatterkeel]]. She is a sly, calculating creature, quick to offer bargains and make deals that she can later turn to her advantage. The hag wields great influence over the cult's nonhuman members, mostly because the ogres and trolls do anything she tells them to. Thuluna would like to unseat Shatterkeel and purge the cult of its human fathomers and one-eyed shivers, but she is patient. For now, she tries to convince Shatterkeel to strike against the rival cults, hoping that the air or fire cultists kill him for her and clear the way for her to take over the Crushing Wave cult.
 
 If she knows a fight is coming, Thuluna grabs the potions out of her wooden chest. She hates beauty, so she targets the best-looking character. If the fight goes against her, she pleads for mercy and offers to show the characters a great treasure if they spare her. Thuluna then leads them to [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume's]] lair in area C21.
 
 #### Treasure
 
-Four chairs are worth 80 gp each but weigh 30 pounds apiece. A wooden chest in the northwest alcove contains 190 gp, 8 pp, a [[/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg|potion of hill giant strength]], and a [[/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg|potion of fire resistance]]. Near the hag's bedding is a [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 longsword]] made of dragon bone and with a dragon-leather grip. It has rubies in its pommel and hilt. The sword grows warm and the rubies glow slightly when the sword is within 120 feet of a dragon. The sword is warm and its rubies are glowing while here because the weapon is within 120 feet of the dragon turtle in area C21.
+Four chairs are worth 80 gp each but weigh 30 pounds apiece. A wooden chest in the northwest alcove contains 190 gp, 8 pp, a [[potion-of-hill-giant-strength-xdmg|potion of hill giant strength]], and a [[potion-of-fire-resistance-xdmg|potion of fire resistance]]. Near the hag's bedding is a [[1-weapon-xdmg|+1 longsword]] made of dragon bone and with a dragon-leather grip. It has rubies in its pommel and hilt. The sword grows warm and the rubies glow slightly when the sword is within 120 feet of a dragon. The sword is warm and its rubies are glowing while here because the weapon is within 120 feet of the dragon turtle in area C21.
 
 ### C15. Dragon Bridge
 
@@ -868,7 +868,7 @@ Four chairs are worth 80 gp each but weigh 30 pounds apiece. A wooden chest in t
 
 On the west side of the canal, passages lead to the west and to the north. On the east side of the canal, one passage leads east.
 
-One aquatic [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|troll]] from area C12 lurks in the canal underneath the bridge, keeping watch for intruders. The troll surfaces to challenge anyone moving through the area by boat or attempting to cross the bridge. It can be fooled by almost any claim that sounds remotely plausible, although it attacks any intruders who look like they expect a fight. If the characters are in a boat, the troll begins the battle by trying to capsize the vessel, which requires an action and a successful DC 20 Strength check.
+One aquatic [[troll-xmm|troll]] from area C12 lurks in the canal underneath the bridge, keeping watch for intruders. The troll surfaces to challenge anyone moving through the area by boat or attempting to cross the bridge. It can be fooled by almost any claim that sounds remotely plausible, although it attacks any intruders who look like they expect a fight. If the characters are in a boat, the troll begins the battle by trying to capsize the vessel, which requires an action and a successful DC 20 Strength check.
 
 ### C16. Thunderhammer Brewery
 
@@ -877,7 +877,7 @@ One aquatic [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|troll]] from area C12 l
 > Sealed copper vats stand in two rows in the middle of this large room. The vats are old and completely covered in verdigris. Most of the paint on the walls peeled away long ago, but a few hints of murals remain, showing dwarves working in fields and tending hop vines. Three new, backpack-sized glass tanks with carrying harnesses are stacked neatly at the end of the row of vats. Doors exit to the west, east, and south.
 ^33d
 
-Most of the vats are empty, but three currently hold [[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm|water weirds]] drained from the three empty [[/03_Mechanics/CLI/items/weird-tank-pota|weird tanks]] (see chapter 7) stacked on the floor. The vats holding water weirds are cold and clammy to the touch, and sound half-full if rapped on. A weird can attack only if someone opens the hatch at the top of the vat in which it is contained.
+Most of the vats are empty, but three currently hold [[water-weird-xmm|water weirds]] drained from the three empty [[weird-tank-pota|weird tanks]] (see chapter 7) stacked on the floor. The vats holding water weirds are cold and clammy to the touch, and sound half-full if rapped on. A weird can attack only if someone opens the hatch at the top of the vat in which it is contained.
 
 Any commotion in here (for example, characters banging on copper vats or fighting one or more water weirds) alerts the monsters in area C17.
 
@@ -892,9 +892,9 @@ The northernmost door leading into this area is secured from inside by a bronze 
 
 Doors lead out to the south and the east, and another door leads east from the bedchamber area.
 
-A [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|one-eyed shiver]] named Morbeoth makes his home in these rooms. He commands the western portion of the temple and defends it against incursions from the Howling Hatred cultists. Prepared for battle, he carries a [[/03_Mechanics/CLI/items/potion-of-gaseous-form-xdmg|potion of gaseous form]] and a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]]. Six [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] serve as his personal guards.
+A [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|one-eyed shiver]] named Morbeoth makes his home in these rooms. He commands the western portion of the temple and defends it against incursions from the Howling Hatred cultists. Prepared for battle, he carries a [[potion-of-gaseous-form-xdmg|potion of gaseous form]] and a [[potion-of-healing-xdmg|potion of healing]]. Six [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] serve as his personal guards.
 
-Morbeoth has experimented with devices that rely on elemental power. The device on the table is a disassembled [[/03_Mechanics/CLI/items/weird-tank-pota|weird tank]] (see chapter 7). A character with proficiency in [[/03_Mechanics/CLI/skills#Arcana|Arcana]] who makes a careful study of the workshop and the stored ingredients can determine that items powered by the energy of elemental water are assembled here.
+Morbeoth has experimented with devices that rely on elemental power. The device on the table is a disassembled [[weird-tank-pota|weird tank]] (see chapter 7). A character with proficiency in [[skills#Arcana|Arcana]] who makes a careful study of the workshop and the stored ingredients can determine that items powered by the energy of elemental water are assembled here.
 
 #### Roleplaying Morbeoth
 
@@ -919,7 +919,7 @@ The monsters in this room post a sentry by the arrow slit looking out into the h
 > The ceiling in this chamber is twenty feet high, and a ten-foot-high loft covers the west half of the room. Piles of crumbling brick in the middle of the floor mark spots where ovens once stood. Filthy, flea-infested straw pallets are arranged on the floor, alongside a water barrel and casks of provisions. An arrow slit looks out over the hallway to the east, and doors exit to the east and the north.
 ^345
 
-This chamber once served as the hop silo for the nearby Thunderhammer brewery. It now is a guard post manned by five [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] who protect the Temple of the Crushing Wave against any incursion from the west.
+This chamber once served as the hop silo for the nearby Thunderhammer brewery. It now is a guard post manned by five [[bugbear-warrior-xmm|bugbears]] who protect the Temple of the Crushing Wave against any incursion from the west.
 
 One bugbear always watches at the arrow slit in the northeast part of the room. The bugbear on watch notes groups passing through the corridor outside. If intruders try to slip past the guard post, the bugbears in this room storm out to attack them from the rear. Any fighting here alerts Morbeoth and his guards (area C17). They respond to the attack by joining the battle.
 
@@ -936,7 +936,7 @@ If the bugbears are defeated, they are replaced within a day by the trolls from 
 > This natural cavern widens and descends toward a pebble-covered lakeshore. Several rotted wooden skiffs are drawn up on the shore. To the east, a large subterranean lake stretches into the darkness. To the west, passages lead west and north.
 ^349
 
-Three old boats wait by the shore. They are far newer than the rest of the dungeon, having been left here less than a hundred years ago by a previous band of explorers. One is in good enough shape that it could be repaired with an hour's work by stripping planks off the other boats. Any sustained activity in this area attracts the attention of the [[/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm|giant octopus]] that lives in area C3. The monster can haul itself up onto the shore in search of a tasty-looking meal.
+Three old boats wait by the shore. They are far newer than the rest of the dungeon, having been left here less than a hundred years ago by a previous band of explorers. One is in good enough shape that it could be repaired with an hour's work by stripping planks off the other boats. Any sustained activity in this area attracts the attention of the [[giant-octopus-xmm|giant octopus]] that lives in area C3. The monster can haul itself up onto the shore in search of a tasty-looking meal.
 
 ### C20. Gated Passage
 
@@ -960,7 +960,7 @@ This passage continues west to area A14 in the Temple of Howling Hatred.
 
 The ceiling is 50 feet above water level. Its "stars" are small patches of luminescent lichen. Each patch is an inch in diameter and one-tenth as bright as a candle. If removed, a lichen's glow persists for `d3` days.
 
-The lake averages 40 feet deep, shallowing to 10 feet near the east end. It houses the strongest monster in the Crushing Wave cult: a [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|dragon turtle]] with 220 hit points named [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]]. Young and impressionable, she was lured to the Temple of the Crushing Wave by [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]]'s offer of riches. [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]] stays out of sight in the western end of the lake, waiting for the water prophet to decide the time is right to seize control of the river. Due to her reduced hit points, [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]] has a challenge rating of 13 (10,000 XP).
+The lake averages 40 feet deep, shallowing to 10 feet near the east end. It houses the strongest monster in the Crushing Wave cult: a [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|dragon turtle]] with 220 hit points named [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]]. Young and impressionable, she was lured to the Temple of the Crushing Wave by [[gar-shatterkeel-pota|Gar Shatterkeel]]'s offer of riches. [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]] stays out of sight in the western end of the lake, waiting for the water prophet to decide the time is right to seize control of the river. Due to her reduced hit points, [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]] has a challenge rating of 13 (10,000 XP).
 
 If a boat ventures into her half of the lake, [[/03_Mechanics/CLI/bestiary/npc/bronzefume-pota|Bronzefume]] surfaces to investigate. She also answers if the gong in area C22 is struck. The dragon turtle attacks only if she's sure those she meets are intruders, such as if she sees water cultists fighting the characters.
 
@@ -993,9 +993,9 @@ Each time the characters pass through this area, roll a `d20` on the following t
 |-----------|-----------|
 | 1 | `1d4 + 4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] (see area C13) |
 | 2–3 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] (see area C7) |
-| 4 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] (see area C18) |
+| 4 | `1d3 + 1` [[bugbear-warrior-xmm|bugbears]] (see area C18) |
 | 5 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] (see area C27) |
-| 6 | [[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm|Thuluna Maah]] and 2 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] (see area C14) |
+| 6 | [[sea-hag-xmm|Thuluna Maah]] and 2 [[ogre-xmm|ogres]] (see area C14) |
 | 7–20 | None |
 ^encounter
 
@@ -1023,15 +1023,15 @@ Any loud fighting in this room alerts the cultists in area C22, who investigate 
 > West and east of the bridge, and level with it, culverts carved in the shape of huge, yawning dwarven faces discharge streams of water into the canal. The small waterfalls make a lot of noise in the vicinity of the bridge. A hallway leads south from the quay on the south side of the canal.
 ^359
 
-The mark on the door is the water cult's symbol. The doors leading to area C25 are unlocked but protected by a [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]]. Any creature that opens either door without first making the hand sign of the water cult (an "X" of the forefingers, with thumbs overlapping) triggers the trap. A character searching the door for a trap finds the glyph with a successful DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The glyph deals `5d8` thunder damage on a failed DC 14 Dexterity saving throw or half as much damage on a successful one. Any explosion makes enough noise to alert all of the creatures in the Temple of the Crushing Wave.
+The mark on the door is the water cult's symbol. The doors leading to area C25 are unlocked but protected by a [[glyph-of-warding-xphb|glyph of warding]]. Any creature that opens either door without first making the hand sign of the water cult (an "X" of the forefingers, with thumbs overlapping) triggers the trap. A character searching the door for a trap finds the glyph with a successful DC 14 Wisdom ([[skills#Perception|Perception]]) check. The glyph deals `5d8` thunder damage on a failed DC 14 Dexterity saving throw or half as much damage on a successful one. Any explosion makes enough noise to alert all of the creatures in the Temple of the Crushing Wave.
 
 #### Culverts
 
-It's possible to enter area C25 through the culverts. Reaching a culvert requires a DC 20 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to climb 15 feet up the wet, smooth masonry from the canal level. The culverts are about 4 feet high, and the stream is only 1 foot deep where it crosses over the lip. A character who climbs into the culvert mouth can easily crouch and wade forward into area C25, potentially surprising the villains there.
+It's possible to enter area C25 through the culverts. Reaching a culvert requires a DC 20 Strength ([[skills#Athletics|Athletics]]) check to climb 15 feet up the wet, smooth masonry from the canal level. The culverts are about 4 feet high, and the stream is only 1 foot deep where it crosses over the lip. A character who climbs into the culvert mouth can easily crouch and wade forward into area C25, potentially surprising the villains there.
 
 ### C25. Temple of Elemental Water
 
-A [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]] (see area C24) protects the double doors at the south end of the room.
+A [[glyph-of-warding-xphb|glyph of warding]] (see area C24) protects the double doors at the south end of the room.
 
 > [!readaloud] 
 > 
@@ -1042,9 +1042,9 @@ In the southern half of the room, two ten-foot-wide channels run along the east 
 
 The moat is 10 feet deep, and the water level is almost even with the floor. However, the smaller spillways that carry water south to the culverts are only 2 feet deep. In the middle of the eastern wall, a submerged culvert leads to area C26.
 
-This shrine was once dedicated to dwarven gods, but the Crushing Wave cultists rededicated it to [[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]]. Five [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] warriors of the Blackmaw tribe stand guard in the southern part of the shrine.
+This shrine was once dedicated to dwarven gods, but the Crushing Wave cultists rededicated it to [[olhydra-pota|Olhydra]]. Five [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] warriors of the Blackmaw tribe stand guard in the southern part of the shrine.
 
-If this is the first elemental temple the characters explore, they find [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] (see chapter 7) here, standing next to the altar in the northern part of the room. Otherwise, he has retreated down to the Fane of the Eye (see chapter 5). In that case, a [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|hezrou]] demon is on guard with the lizardfolk. The demon lurks in the deep moat in the middle of the shrine.
+If this is the first elemental temple the characters explore, they find [[gar-shatterkeel-pota|Gar Shatterkeel]] (see chapter 7) here, standing next to the altar in the northern part of the room. Otherwise, he has retreated down to the Fane of the Eye (see chapter 5). In that case, a [[hezrou-xmm|hezrou]] demon is on guard with the lizardfolk. The demon lurks in the deep moat in the middle of the shrine.
 
 #### Roleplaying Gar Shatterkeel
 
@@ -1054,7 +1054,7 @@ Shatterkeel hears out those who claim to bring news or gifts, and he might be pe
 
 #### Treasure
 
-Gar carries [[/03_Mechanics/CLI/items/drown-pota|Drown]] (see chapter 7). The water cultists bring treasure here and heap it on the altar. At the moment, only 25 sp, 12 gp, and six small agates worth 10 gp each are strewn across the altar. Shatterkeel regularly gathers the offerings and secures them in area C26.
+Gar carries [[drown-pota|Drown]] (see chapter 7). The water cultists bring treasure here and heap it on the altar. At the moment, only 25 sp, 12 gp, and six small agates worth 10 gp each are strewn across the altar. Shatterkeel regularly gathers the offerings and secures them in area C26.
 
 ### C26. Vault
 
@@ -1065,11 +1065,11 @@ To reach this area, a character must swim through the submerged tunnel leading f
 > A clear, deep spring fills most of this natural cavern. A dry ledge makes up part of the south side of the chamber.
 ^362
 
-This pool is almost 80 feet deep and fed by an aquifer through porous rock at the bottom. It is the source of the Dark Stream, and it fills the canals and lakes on this level. Its inaccessibility makes it an ideal place for [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] to hoard the better part of the water cult's treasure. He is beyond such cares, but he realizes that wealth is a motivation for some who aren't entirely committed to the tenets of the Crushing Wave cult.
+This pool is almost 80 feet deep and fed by an aquifer through porous rock at the bottom. It is the source of the Dark Stream, and it fills the canals and lakes on this level. Its inaccessibility makes it an ideal place for [[gar-shatterkeel-pota|Gar Shatterkeel]] to hoard the better part of the water cult's treasure. He is beyond such cares, but he realizes that wealth is a motivation for some who aren't entirely committed to the tenets of the Crushing Wave cult.
 
 #### Treasure
 
-Several rusty iron coffers lie on the dry ledge at the south edge of the chamber. Two contain 730 gp, 900 sp, a silver ewer, a scroll of [[/03_Mechanics/CLI/spells/tidal-wave-xge|tidal wave]], and a scroll of [[/03_Mechanics/CLI/spells/vitriolic-sphere-xphb|vitriolic sphere]] (see appendix B for both spells). Two more hold waterproofed leather satchels that contain nearly fifty heavy old tomes written in Dethek (the Dwarvish script). These are the missing books of Bruldenthar, the sage from Mirabar. The sage is held in the mines below the Sacred Stone Monastery.
+Several rusty iron coffers lie on the dry ledge at the south edge of the chamber. Two contain 730 gp, 900 sp, a silver ewer, a scroll of [[tidal-wave-xge|tidal wave]], and a scroll of [[vitriolic-sphere-xphb|vitriolic sphere]] (see appendix B for both spells). Two more hold waterproofed leather satchels that contain nearly fifty heavy old tomes written in Dethek (the Dwarvish script). These are the missing books of Bruldenthar, the sage from Mirabar. The sage is held in the mines below the Sacred Stone Monastery.
 
 ### C27. Priests' Quarters
 
@@ -1080,7 +1080,7 @@ Several rusty iron coffers lie on the dry ledge at the south edge of the chamber
 
 This room serves as the personal quarters of the cult priests: two [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priests]] (see chapter 7) and four [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]]. The priests see themselves as the most important members of the cult, and they make sure to look after their creature comforts. They intermittently take care of the Temple of Elemental Water.
 
-On the rare occasions when [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] retires to rest for a few hours, he sleeps here. Otherwise, he is found in area C25, attempting to discern the will of [[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]] or instructing others in the lore and philosophy of the cult.
+On the rare occasions when [[gar-shatterkeel-pota|Gar Shatterkeel]] retires to rest for a few hours, he sleeps here. Otherwise, he is found in area C25, attempting to discern the will of [[olhydra-pota|Olhydra]] or instructing others in the lore and philosophy of the cult.
 
 The priests and cultists know the answers to the mezzoloth's riddles in area C28, but resist divulging them to strangers.
 
@@ -1093,9 +1093,9 @@ The priests and cultists know the answers to the mezzoloth's riddles in area C28
 
 The stairway leads down to area F6 of the Fane of the Eye (see chapter 5).
 
-The Crushing Wave cultists summoned a [[/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm|mezzoloth]] and ordered it to destroy any intruders seeking to use the stairs. To determine whether someone is an intruder, the mezzoloth asks three questions:
+The Crushing Wave cultists summoned a [[mezzoloth-xmm|mezzoloth]] and ordered it to destroy any intruders seeking to use the stairs. To determine whether someone is an intruder, the mezzoloth asks three questions:
 
-*What do you serve?* The answer should be "[[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]]," "the Princess of Evil Water," or "water."
+*What do you serve?* The answer should be "[[olhydra-pota|Olhydra]]," "the Princess of Evil Water," or "water."
 
 *What are you*? The proper answer is "I am nothing."
 
@@ -1111,7 +1111,7 @@ If Shatterkeel is defeated or retreats to the deeper levels and the characters d
 
 When the elemental prophets were drawn to Tyar-Besil, the servants of elemental earth took control of the northeast quarter of the dwarven ruins. Long ago, this area served as Tyar-Besil's main entrance, a well-fortified gate complex with barracks, guardrooms, armories, and stables. Enemies that managed to fight their way down the Ancient Stair from the surface above were stopped in their tracks by the daunting defenses of the gate quarter. More than one reckless attack by orcs, trolls, or giants was driven back from the gate. In time, those savage foes found other ways to attack the dwarves of the Sumber Hills, and the stronghold was finally abandoned. The gates of Tyar-Besil lie in ruin now, broken not by the siege engines of enemies but instead by the tremors produced by the nearby elemental node.
 
-Unlike the members of the other three cults, the Black Earth cultists have easy access to the surface. This quarter of the temple complex lies almost directly underneath the Sacred Stone Monastery, linked by the Ancient Stair. Earth cult raiders can strike at the surrounding settlements and retreat to the safety of the Black Earth temple with ease. [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]], the Prophet of Earth, chose the long-wrecked fortifications of Tyar-Besil as the headquarters of his cult for this very reason.
+Unlike the members of the other three cults, the Black Earth cultists have easy access to the surface. This quarter of the temple complex lies almost directly underneath the Sacred Stone Monastery, linked by the Ancient Stair. Earth cult raiders can strike at the surrounding settlements and retreat to the safety of the Black Earth temple with ease. [[marlos-urnrayle-pota|Marlos Urnrayle]], the Prophet of Earth, chose the long-wrecked fortifications of Tyar-Besil as the headquarters of his cult for this very reason.
 
 ### The Ancient Stair
 
@@ -1139,7 +1139,7 @@ Large chasms or rifts zigzag through this part of ancient Tyar-Besil. Chasms ave
 
 #### Light
 
-Cultists illuminate areas they use frequently with [[/03_Mechanics/CLI/spells/continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
+Cultists illuminate areas they use frequently with [[continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
 
 #### Treasure
 
@@ -1158,7 +1158,7 @@ Many denizens of the temple carry small amounts of treasure. Creatures that own 
 > The passage leads to a subterranean chasm spanned by a zigzagging, ten-foot-wide stone bridge without railings. The bridge links tunnels leading north and south. The chasm floor is fifty feet below the bridge and consists of a jumbled mass of boulders. To the west, the chasm narrows and continues for some distance.
 ^374
 
-Three [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] guard the area, lurking on ledges in the shadowy upper reaches of this cavern, the ceiling of which is 50 feet higher than the bridge and 100 feet above the cavern floor. Characters with torches or [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] spot the gargoyles if they have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher. The gargoyles ignore groups exiting the Temple of Black Earth. They attack any strangers approaching from the north unless the strangers pause at the bridge to either give the hand sign of the cult (a triangle formed with thumbs and forefingers of both hands) or call out, "I serve the Black Earth!"
+Three [[gargoyle-xmm|gargoyles]] guard the area, lurking on ledges in the shadowy upper reaches of this cavern, the ceiling of which is 50 feet higher than the bridge and 100 feet above the cavern floor. Characters with torches or [[senses#Darkvision|darkvision]] spot the gargoyles if they have a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher. The gargoyles ignore groups exiting the Temple of Black Earth. They attack any strangers approaching from the north unless the strangers pause at the bridge to either give the hand sign of the cult (a triangle formed with thumbs and forefingers of both hands) or call out, "I serve the Black Earth!"
 
 In combat, the gargoyles look for opportunities to push characters off the bridge. If two gargoyles are defeated, the third retreats, flying to area B2 to hide.
 
@@ -1182,7 +1182,7 @@ If the characters are standing on the ledge at area B6 or B21, use the following
 > Beyond the ledge lies a cavern with a ceiling of hanging stalactites fifty feet overhead and a rubble-strewn floor fifty feet below. Five feet below you, a narrow ledge hugs the wall, wrapping nearly halfway around the cavern.
 ^379
 
-[[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] used [[/03_Mechanics/CLI/spells/stone-shape-xphb|stone shape]] spells to create a narrow ledge that hugs the walls of the cavern. This ledge isn't visible from the cavern floor, and it starts 5 feet below the ledge leading to area B6 and ends at an arrow slit, beyond which lies area B22. The arrow slit is 4 feet tall but only 6 inches wide.
+[[marlos-urnrayle-pota|Marlos Urnrayle]] used [[stone-shape-xphb|stone shape]] spells to create a narrow ledge that hugs the walls of the cavern. This ledge isn't visible from the cavern floor, and it starts 5 feet below the ledge leading to area B6 and ends at an arrow slit, beyond which lies area B22. The arrow slit is 4 feet tall but only 6 inches wide.
 
 ### B3. Ruined Gates
 
@@ -1191,7 +1191,7 @@ If the characters are standing on the ledge at area B6 or B21, use the following
 > A massive pair of stone doors lies broken just south of this small plaza, flanking by iron torches that brightly illuminate the area. One door lists unevenly on its bottom hinge, and the other lies shattered on the ground. The standing door is carved with a pastoral scene of grain fields and rolling hills, worn and pitted by the centuries. A large, dimly lit hall waits beyond the broken gates. Arrow slits are carved into the west and east walls.
 ^37b
 
-This was formerly the front gate of the stronghold of Tyar-Besil, but many years ago an earthquake finished the destruction begun by orcs and giants. The ceiling here is 30 feet high, and the gate stands 15 feet tall. [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] intends to repair it, but he has not yet found anyone sufficiently skilled to do the work.
+This was formerly the front gate of the stronghold of Tyar-Besil, but many years ago an earthquake finished the destruction begun by orcs and giants. The ceiling here is 30 feet high, and the gate stands 15 feet tall. [[marlos-urnrayle-pota|Marlos Urnrayle]] intends to repair it, but he has not yet found anyone sufficiently skilled to do the work.
 
 #### Arrow Slits
 
@@ -1210,7 +1210,7 @@ If the characters attack the Temple of Black Earth and retreat, the cultists rei
 
 The same earth tremors that shattered the gate marred the walls and floors with cracks, and patches of the 30-foot-high ceiling have fallen as well.
 
-Four [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]], a [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] named Nartham (see chapter 7), and Nartham's [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulette]] mount guard the Hall of the Gate. Nartham is a violent, short-tempered fellow. If the characters attempt to talk their way into the temple, they need to talk fast, because Nartham craves an excuse to kill.
+Four [[hobgoblin-warrior-xmm|hobgoblins]], a [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] named Nartham (see chapter 7), and Nartham's [[bulette-xmm|bulette]] mount guard the Hall of the Gate. Nartham is a violent, short-tempered fellow. If the characters attempt to talk their way into the temple, they need to talk fast, because Nartham craves an excuse to kill.
 
 The cooking fire and bedrolls belong to the hobgoblins, who have not yet been allocated better quarters in the temple. They hang back and pelt the characters with arrows while Nartham and his bulette tear into the party. The hobgoblins are mercenaries, hoping to earn enough loot to return to their tribe and take it over.
 
@@ -1220,7 +1220,7 @@ The duergar in area B5 and the cultists in area B7 hear any battle in this room.
 
 #### Development
 
-If the characters defeat the guards here and depart the temple, [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] replaces the guards in a few hours with the cultists from area B14. In a few days, he augments this force with two ogres.
+If the characters defeat the guards here and depart the temple, [[marlos-urnrayle-pota|Marlos Urnrayle]] replaces the guards in a few hours with the cultists from area B14. In a few days, he augments this force with two ogres.
 
 ### B5. East Guardroom
 
@@ -1240,7 +1240,7 @@ If alerted by serious fighting or unusual activity outside, two duergar take lig
 > A large pile of rubble from a partially collapsed wall fills the southeast corner of this guardroom, while a narrow fissure mars the wall to the north. Despite these failings, the room serves as a barracks and guardroom. Four plain wooden bunks are arrayed around the room, each with a small footlocker. At the back of an alcove in the northeast wall is an arrow slit.
 ^387
 
-This room served as a guardroom for the Hall of the Gate, but tremors collapsed the doorway that once linked the two rooms and formed the tunnel leading to area B2. A [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|stonemelder]] named Yarsha and her two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see chapter 7 for both) dwell here. In addition to normal gear, Yarsha carries a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]], and the guards have light crossbows (+3 to hit, `d8` piercing damage) if they need to defend area B3, but they don't keep a watch posted at the arrow slit.
+This room served as a guardroom for the Hall of the Gate, but tremors collapsed the doorway that once linked the two rooms and formed the tunnel leading to area B2. A [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|stonemelder]] named Yarsha and her two [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see chapter 7 for both) dwell here. In addition to normal gear, Yarsha carries a [[potion-of-greater-healing-xdmg|potion of greater healing]], and the guards have light crossbows (+3 to hit, `d8` piercing damage) if they need to defend area B3, but they don't keep a watch posted at the arrow slit.
 
 Yarsha is murderous, and she has set her sights on assassinating [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] and taking his place as the cult's second-in-command. If she and her guards are on the verge of defeat, she turns on her own guards and finishes them off so she can try to strike a deal with the characters. Yarsha tells the party that Miraj is the earth prophet, and where they can find him (area B8). She asks nothing for herself other than a temporary truce.
 
@@ -1248,7 +1248,7 @@ The cultists don't know about the ledge in area B2 that links the northern tunne
 
 #### Treasure
 
-An iron coffer under Yarsha's bunk contains 210 sp, 140 ep, a pouch with six obsidian flakes worth 10 gp each, and a [[/03_Mechanics/CLI/items/potion-of-water-breathing-xdmg|potion of water breathing]].
+An iron coffer under Yarsha's bunk contains 210 sp, 140 ep, a pouch with six obsidian flakes worth 10 gp each, and a [[potion-of-water-breathing-xdmg|potion of water breathing]].
 
 ### B7. Gatewarden's Quarters
 
@@ -1279,21 +1279,21 @@ The interior of the chamber can be described as follows:
 > Large stone statues carved to look like scowling dwarf warriors line the walls of this large chamber. Each statue has spiky maces in place of hands. However, several of the statues are melted or deformed. The flagstones in the middle of the room have been removed to reveal a surface of natural rock. Several worktables and shelves full of alchemical reagents are tucked up against the walls between the statues.
 ^38e
 
-This is the lair and workroom of [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] (see chapter 7), an earth genasi and second in command of the Cult of the Black Earth. The statues were once animated constructs, though the magic that powered them faded long ago. Miraj managed to reactivate two of the stone warriors. One now stands watch in area B24, and the other is here. The ancient construct is equivalent to a [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|stone golem]] with 102 hit points and no Multiattack action (challenge rating 4 instead of 8).
+This is the lair and workroom of [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] (see chapter 7), an earth genasi and second in command of the Cult of the Black Earth. The statues were once animated constructs, though the magic that powered them faded long ago. Miraj managed to reactivate two of the stone warriors. One now stands watch in area B24, and the other is here. The ancient construct is equivalent to a [[stone-golem-xmm|stone golem]] with 102 hit points and no Multiattack action (challenge rating 4 instead of 8).
 
 #### Roleplaying Miraj Vizann
 
 Miraj is rational, deliberate, and slow to anger. He supports the cult because it deepens his understanding of elemental magic. If challenged, he attempts to persuade his attackers to turn their efforts against the fire cult. Miraj isn't above offering a bribe to entice enemies, then reneging on the deal if they come back to collect.
 
-Miraj calls himself a "mud sorcerer" because he practices earth and water magic, and he reveres both [[/03_Mechanics/CLI/bestiary/npc/ogremoch-pota|Ogrémoch]] and [[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]]. He bears the water cultists no ill will and sometimes acts as an advocate or emissary on their behalf.
+Miraj calls himself a "mud sorcerer" because he practices earth and water magic, and he reveres both [[ogremoch-pota|Ogrémoch]] and [[olhydra-pota|Olhydra]]. He bears the water cultists no ill will and sometimes acts as an advocate or emissary on their behalf.
 
-In battle, Miraj commands the golem to defend him. He then retreats to the back of the room to cast spells. Miraj turns [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and flees if death seems imminent.
+In battle, Miraj commands the golem to defend him. He then retreats to the back of the room to cast spells. Miraj turns [[conditions#Invisible|invisible]] and flees if death seems imminent.
 
 The worktables and shelves hold common alchemical ingredients and notebooks, including unusual mineral salts and solutions. The notes indicate that the melted statues are golems that Miraj experimented on without success.
 
 #### Treasure
 
-A wooden chest stowed under one of the worktables holds a small hoard of 220 gp, nine strange black crystals worth 50 gp each, and a [[/03_Mechanics/CLI/items/potion-of-water-breathing-xdmg|potion of water breathing]].
+A wooden chest stowed under one of the worktables holds a small hoard of 220 gp, nine strange black crystals worth 50 gp each, and a [[potion-of-water-breathing-xdmg|potion of water breathing]].
 
 ### B9. Broken Hall
 
@@ -1302,7 +1302,7 @@ A wooden chest stowed under one of the worktables holds a small hoard of 220 gp,
 > Some long-ago, a seismic event devastated this great hall. A deep chasm splits the chamber in two, leaving a wide gap between the room's northern and southern halves. Freestanding pillars of rock to the east create natural "stepping stones" across the chasm. The chasm continues beyond the west wall, and a narrow ledge hugs the south wall of the expanse. Six huge stone pillars still stand in this chamber, and the ceiling here is almost fifty feet high. Each of the pillars anchors heavy iron chains with links as big as a warrior's hand.
 ^393
 
-The warriors of Tyar-Besil assembled here to practice with arms. The Cult of the Black Earth now uses the room as a stable for their prized mounts: three [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulettes]]. One belongs to Dynath in area B7. The other two were recently caught and haven't yet been broken. The bulettes are being held here until the monsters can be bonded with cultists.
+The warriors of Tyar-Besil assembled here to practice with arms. The Cult of the Black Earth now uses the room as a stable for their prized mounts: three [[bulette-xmm|bulettes]]. One belongs to Dynath in area B7. The other two were recently caught and haven't yet been broken. The bulettes are being held here until the monsters can be bonded with cultists.
 
 Each bulette is chained securely to one of the big pillars in the room (the northeast, center west, and southeast pillars, specifically). The chains keep the bulettes within 15 feet of the pillars, but they can move freely otherwise. The bulettes spend most of their time dozing, but they are light sleepers. A bulette can break it chain with a successful DC 20 Strength check, but the chain to the northeast (holding the trained bulette) is weaker, requiring only a successful DC 15 Strength check to break.
 
@@ -1321,9 +1321,9 @@ If the smiths still work in area B15, hammering and clattering chains can be hea
 
 The ledges and stone bridge are 100 feet above the chasm floor and 100 feet below the chasm roof. Area B15 is visible from the bridge and at the same level.
 
-Creatures that make a lot of noise in the vicinity of the natural bridge disturb a [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|swarm of bats]] roosting on the bridge's underside.
+Creatures that make a lot of noise in the vicinity of the natural bridge disturb a [[swarm-of-bats-xmm|swarm of bats]] roosting on the bridge's underside.
 
-The bridge is narrow and uneven. Any creature that takes damage while standing on the bridge must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature falls into the chasm. On any other failed result, the creature slips and falls [[/03_Mechanics/CLI/conditions#Prone|prone]] on edge of the bridge.
+The bridge is narrow and uneven. Any creature that takes damage while standing on the bridge must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature falls into the chasm. On any other failed result, the creature slips and falls [[conditions#Prone|prone]] on edge of the bridge.
 
 ### B11. South Passage
 
@@ -1345,7 +1345,7 @@ Use the following text to describe the room's interior:
 > Crumbling masonry, huge uncured pelts, and heaps of picked-over bones and refuse fill this large room. It looks like it used to be a kitchen or bakery: huge ancient brick ovens stand in the middle of the chamber, although most are crumbling heaps of red rubble now.
 ^39b
 
-This room was the main kitchen for the dwarven soldiers stationed in this part of Tyar-Besil. It is now the lair of Broog and Norb—the two heads of a particularly large and grumpy [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettin]]. Broog-Norb has 130 hit points.
+This room was the main kitchen for the dwarven soldiers stationed in this part of Tyar-Besil. It is now the lair of Broog and Norb—the two heads of a particularly large and grumpy [[ettin-xmm|ettin]]. Broog-Norb has 130 hit points.
 
 Broog-Norb isn't a follower of the Cult of the Black Earth. He found a way down into the ruins of Tyar-Besil months ago. The ettin has a tenuous truce with the earth cultists, who are careful to stay out of his way. He attacks intruders who make it clear that they aren't part of the earth cult, but only threatens intruders who present themselves as cult members. Broog-Norb has no idea who is a cultist and who isn't.
 
@@ -1386,11 +1386,11 @@ The captives locked in the cages include the following:
 - Wulgreda, a hapless female dwarf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] who was captured while prospecting in the hills near the Sacred Stone Monastery. She warns the party that Orna is a Black Earth guard.  
 - Gervor, a male half-elf [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]] who is all that is left of an adventuring company ambushed by the cult a month ago in the Sumber Hills. He is badly injured and has 1 hit point remaining.  
 
-Wulgreda and Gervor are happy just to be released, although they ask the party to help them get to safety. Orna wants to go her own way, but she is willing to trade information for her freedom. She's willing to guide the characters to [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] (area B21).
+Wulgreda and Gervor are happy just to be released, although they ask the party to help them get to safety. Orna wants to go her own way, but she is willing to trade information for her freedom. She's willing to guide the characters to [[marlos-urnrayle-pota|Marlos Urnrayle]] (area B21).
 
 #### Treasure
 
-Hedorm keeps the best pickings from the prisoners in a locked wooden chest (the key is in his pocket). His trove includes 230 sp, a pouch of six azurites worth 10 gp each, Orna's plate armor, Gervor's studded leather armor and longsword, and a [[/03_Mechanics/CLI/items/wand-of-magic-missiles-xdmg|wand of magic missiles]] (fully charged) left behind by a previous victim.
+Hedorm keeps the best pickings from the prisoners in a locked wooden chest (the key is in his pocket). His trove includes 230 sp, a pouch of six azurites worth 10 gp each, Orna's plate armor, Gervor's studded leather armor and longsword, and a [[wand-of-magic-missiles-xdmg|wand of magic missiles]] (fully charged) left behind by a previous victim.
 
 ### B15. Stone Forge
 
@@ -1401,17 +1401,17 @@ Characters approaching this area hear the ringing of hammers on anvils before th
 > A forge stands in the middle of this room, surrounded by piles of firewood. Two big anvils stand close by, and hammers, tongs, and other smithing tools are scattered around several workbenches along the chamber's walls. There are doorways to the west and the south, but the eastern end of the room opens up onto a dark chasm.
 ^3a6
 
-Black Earth cultists have turned this former barracks into a forge where they create elemental devices. The master of the forge is a [[/03_Mechanics/CLI/bestiary/elemental/dao-xmm|dao]] named Xharva Deem. Two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] assist her.
+Black Earth cultists have turned this former barracks into a forge where they create elemental devices. The master of the forge is a [[dao-xmm|dao]] named Xharva Deem. Two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] assist her.
 
 #### Roleplaying the Dao
 
-Xharva Deem has no interest in fighting, because her bargain with [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] requires her to make implements of elemental power for the cult. That is the extent of her promise. If the characters ask why she is standing aside, she answers, "Urnrayle has not paid me to fight puny mortals. He can look after his own slaves."
+Xharva Deem has no interest in fighting, because her bargain with [[marlos-urnrayle-pota|Marlos Urnrayle]] requires her to make implements of elemental power for the cult. That is the extent of her promise. If the characters ask why she is standing aside, she answers, "Urnrayle has not paid me to fight puny mortals. He can look after his own slaves."
 
 She doesn't defend her duergar assistants, although she fights back with indignant fury if any mortal dares to attack her. Xharva Deem also intervenes if characters attempt to vandalize her forge, take her tools, or remove objects she is working on, although she issues a sharply worded warning first.
 
 #### Treasure
 
-Xharva Deem is well paid indeed. Two iron coffers by her forge contain a total of 600 gp, two gold bracelets worth 100 gp each, a gold necklace with a ruby pendant worth 750 gp, and a bag with a dozen malachites worth 25 gp each. In addition, the dao has completed one set of [[/03_Mechanics/CLI/items/claws-of-the-umber-hulk-pota|claws of the umber hulk]] for the cult (see chapter 7). The claws sit on a singed square of leather on one of the workbenches.
+Xharva Deem is well paid indeed. Two iron coffers by her forge contain a total of 600 gp, two gold bracelets worth 100 gp each, a gold necklace with a ruby pendant worth 750 gp, and a bag with a dozen malachites worth 25 gp each. In addition, the dao has completed one set of [[claws-of-the-umber-hulk-pota|claws of the umber hulk]] for the cult (see chapter 7). The claws sit on a singed square of leather on one of the workbenches.
 
 ### B16. Armory
 
@@ -1422,7 +1422,7 @@ Xharva Deem is well paid indeed. Two iron coffers by her forge contain a total o
 
 Doors lead to the east and the southwest.
 
-This room serves as a guard post for the Black Earth cult. It also provides a good place from which the earth cultists can keep an eye on the Cult of the Eternal Flame. To guard this point of access, [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] has assigned a garrison of five [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] with orders to let no one enter from the west without giving the pass sign of the earth cult (a triangle formed by thumbs and forefingers). The ogres have no orders to prevent people from leaving, although they challenge strangers who don't look like members of the cult.
+This room serves as a guard post for the Black Earth cult. It also provides a good place from which the earth cultists can keep an eye on the Cult of the Eternal Flame. To guard this point of access, [[marlos-urnrayle-pota|Marlos Urnrayle]] has assigned a garrison of five [[ogre-xmm|ogres]] with orders to let no one enter from the west without giving the pass sign of the earth cult (a triangle formed by thumbs and forefingers). The ogres have no orders to prevent people from leaving, although they challenge strangers who don't look like members of the cult.
 
 #### Southwest Tunnel
 
@@ -1430,7 +1430,7 @@ This corridor connects to area E30 in the Temple of Eternal Flame.
 
 #### Development
 
-If the ogres are defeated, [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] replaces them with an [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-myrmidon-mpmm|earth elemental myrmidon]] (see chapter 7) after `d4` days.
+If the ogres are defeated, [[marlos-urnrayle-pota|Marlos Urnrayle]] replaces them with an [[earth-elemental-myrmidon-mpmm|earth elemental myrmidon]] (see chapter 7) after `d4` days.
 
 ### B17. Chasm Staircase
 
@@ -1441,7 +1441,7 @@ If the characters approach this area from the east, read the following text:
 > A great chasm opens before you, its ceiling thirty feet overhead. In the middle of the chasm is a square pillar of black rock. A stone bridge leads to a staircase that wraps around this pillar. The chasm, the staircase, and the pillar descend into darkness.
 ^3b0
 
-An [[/03_Mechanics/CLI/spells/alarm-xphb|alarm]] spell has been cast on the middle of the bridge. If the characters trigger the alarm, read:
+An [[alarm-xphb|alarm]] spell has been cast on the middle of the bridge. If the characters trigger the alarm, read:
 
 > [!readaloud] 
 > 
@@ -1470,7 +1470,7 @@ Two light crossbows are positioned near the arrow slit, so the guards can fire o
 > Three hallways meet at this room. An alcove in the middle of the west wall holds a ten-foot-tall statue depicting a crude humanoid form composed of earth, boulders, and sharp crystals. One massive, rocky fist is raised above its blunt head. Shattered rubble from an older statue lies heaped around the pedestal on which this figure stands.
 ^3b5
 
-The statue depicts [[/03_Mechanics/CLI/bestiary/npc/ogremoch-pota|Ogrémoch]], the Prince of Evil Earth. [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] sculpted it.
+The statue depicts [[ogremoch-pota|Ogrémoch]], the Prince of Evil Earth. [[marlos-urnrayle-pota|Marlos Urnrayle]] sculpted it.
 
 ### B20. Mess Hall
 
@@ -1492,7 +1492,7 @@ The mess hall sees a good deal of traffic, and characters who linger here are li
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–2 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] (see area B5) |
-| 3 | `d4` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] (see area B16) |
+| 3 | `d4` [[ogre-xmm|ogres]] (see area B16) |
 | 4 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|stonemelder]] and 2 [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see area B6) |
 | 5 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] (see area B7) |
 | 6 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see area B18) |
@@ -1507,7 +1507,7 @@ The mess hall sees a good deal of traffic, and characters who linger here are li
 > This cavern has formations of flowstone, stalagmites, and stalactites everywhere. A stone building is anchored in the north wall, and a stone door stands in a masonry wall to the south. A natural gap in the cavern wall to the east reveals a chasm beyond. Numerous lifelike statues have been arranged among the rock formations. The statues depict creatures in poses suggesting shock, fear, or agony.
 ^3bb
 
-If this is the first of the elemental temples the characters explore, [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]] (see chapter 7) is here. Visions have warned the medusa of the characters' arrival, and he prefers to meet visitors in this area. A [[/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm|shadow demon]] that serves as Marlos's messenger and majordomo lurks nearby.
+If this is the first of the elemental temples the characters explore, [[marlos-urnrayle-pota|Marlos Urnrayle]] (see chapter 7) is here. Visions have warned the medusa of the characters' arrival, and he prefers to meet visitors in this area. A [[shadow-demon-xmm|shadow demon]] that serves as Marlos's messenger and majordomo lurks nearby.
 
 If he isn't here, Marlos has retreated down to the Fane of the Eye or the Black Geode (see chapter 5).
 
@@ -1515,15 +1515,15 @@ If he isn't here, Marlos has retreated down to the Fane of the Eye or the Black 
 
 An unrelenting narcissist, Marlos loves talking about himself. If they forget they're talking to a medusa and take a good look at him, he is happy to make a permanent record of their astonishment. Marlos enjoys fine things and showing off. He gloats about how he has discovered power to shake the foundations of the earth. Very soon, he intends to pay back everyone who ever defied or insulted him.
 
-In combat, Marlos relies on his petrifying gaze to keep him safe from ranged attacks or spells, as he closes in to use [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]] and his snaky hair. When the battle turns against him, Marlos flees to area B22 and makes his getaway through the hidden path in area B2.
+In combat, Marlos relies on his petrifying gaze to keep him safe from ranged attacks or spells, as he closes in to use [[ironfang-pota|Ironfang]] and his snaky hair. When the battle turns against him, Marlos flees to area B22 and makes his getaway through the hidden path in area B2.
 
 #### Statues
 
-The statues are the [[/03_Mechanics/CLI/conditions#Petrified|petrified]] remains of earth cultists who displeased Urnrayle.
+The statues are the [[conditions#Petrified|petrified]] remains of earth cultists who displeased Urnrayle.
 
 #### Treasure
 
-Marlos carries [[/03_Mechanics/CLI/items/ironfang-pota|Ironfang]] (see chapter 7).
+Marlos carries [[ironfang-pota|Ironfang]] (see chapter 7).
 
 ### B22. Earth Prophet's Sanctum
 
@@ -1536,7 +1536,7 @@ Marlos has carefully prepared the alcove with the arrow slit to function as a me
 
 #### Treasure
 
-In the urns, Marlos has stored 1,100 sp and 130 pp. Within the room are a beautiful tapestry of a flying dragon (worth 400 gp), a carved lyre worth 250 gp, and an embroidered silk robe worth 80 gp. A suit of [[/03_Mechanics/CLI/items/elven-chain-xdmg|elven chain]] is folded inside a wooden chest.
+In the urns, Marlos has stored 1,100 sp and 130 pp. Within the room are a beautiful tapestry of a flying dragon (worth 400 gp), a carved lyre worth 250 gp, and an embroidered silk robe worth 80 gp. A suit of [[elven-chain-xdmg|elven chain]] is folded inside a wooden chest.
 
 ### B23. Shrine of Bleeding Stone
 
@@ -1549,13 +1549,13 @@ In the urns, Marlos has stored 1,100 sp and 130 pp. Within the room are a beauti
 
 A [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] (see chapter 7) named Erione is establishing a shrine here atop the wreckage of an ancient dwarven chapel. She is joined by four cultists.
 
-Erione resents the fact that few priests hold high places in the cult, and she intends to demonstrate that worship can bring even greater power. She has coaxed a [[/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm|black pudding]] into the porous rock obelisk. It seeps forth on her command.
+Erione resents the fact that few priests hold high places in the cult, and she intends to demonstrate that worship can bring even greater power. She has coaxed a [[black-pudding-xmm|black pudding]] into the porous rock obelisk. It seeps forth on her command.
 
 Erione has manacled a female [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] named Rukhelmoth "Rukh" Glitterstone to the stone post at the foot of the obelisk and intends to offer him as a sacrifice to the black pudding. When the pudding emerges, it seeps out of the obelisk like thick black blood and attacks the gnome first. Only after the gnome has been consumed does it pay attention to the characters.
 
 Rukh is an explorer who was captured as she tried to sneak into the Fane of the Eye. She hasn't explored the Temple of Black Earth but has seen areas B17 and B21. If rescued, she gladly shares the following information:
 
-- The leader of the earth cult is a medusa named [[/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota|Marlos Urnrayle]]. He lairs in a cavern to the northeast.  
+- The leader of the earth cult is a medusa named [[marlos-urnrayle-pota|Marlos Urnrayle]]. He lairs in a cavern to the northeast.  
 - A staircase to the south leads down to an ancient drow temple that has been overrun by elemental cultists.  
 - The cultists have created elemental nodes in the dungeons below. (Rukh speculates that these nodes are the source of the cultists' weird elemental powers.)  
 
@@ -1566,7 +1566,7 @@ Rukh is an explorer who was captured as she tried to sneak into the Fane of the 
 > Four massive, square columns support the ceiling of this ancient hall. Passages lead out to the northwest and southeast. In the middle of the hall stands the ten-foot statue of a stern dwarf warrior with spiked balls instead of hands.
 ^3c6
 
-The statue is a [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|stone golem]] reactivated by [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] (see area B8) and placed here. It has 102 hit points and no Multiattack action. (It has a challenge rating 4 instead of 8.)
+The statue is a [[stone-golem-xmm|stone golem]] reactivated by [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] (see area B8) and placed here. It has 102 hit points and no Multiattack action. (It has a challenge rating 4 instead of 8.)
 
 The stone golem responds only to attacks and creatures entering the hall from the west. If intruders make a triangular handsign by touching thumbs and forefingers, or if they speak the pass phrase "I serve the Black Earth," the golem allows them to continue. Otherwise, it attacks.
 
@@ -1582,7 +1582,7 @@ If the characters defeat Marlos and Miraj, or both flee the dungeon, Yarsha (see
 
 During the height of ancient Tyar-Besil, the northwest quarter of the ancient dwarven fortress served as its manufacturing center, where great forges and foundries butted up against all the natural resources necessary to craft weapons and armor both beautiful and deadly. Lava from the volcanic rock below provided heat and material, and where the lava had flowed and then sank away again, rich veins of ore and gems were left behind in the natural tubes for the dwarves to discover and mine. For many centuries, the dwarves beneath the Sumber Hills forged weapons, hardware, and magnificent treasures. The best of these they kept for themselves. The rest traveled to the surface world, where merchants carried the dwarves' work far afield. In time, as the city was abandoned, the forges grew quiet, the foundries cooled, and the dwarven masters left their workbenches to darkness and departed to other realms.
 
-When [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] was first drawn to the complex, she instructed her minions to stake claims in and around the abandoned foundries. The tiefling knows that controlling the ability to craft the tools of warfare gives her cult a leg up on the others, and she fervently believes that she can use this power to bring the other elemental temples to heel, allowing her to rule over all.
+When [[vanifer-pota|Vanifer]] was first drawn to the complex, she instructed her minions to stake claims in and around the abandoned foundries. The tiefling knows that controlling the ability to craft the tools of warfare gives her cult a leg up on the others, and she fervently believes that she can use this power to bring the other elemental temples to heel, allowing her to rule over all.
 
 ### Lava Tubes
 
@@ -1604,7 +1604,7 @@ Double doors have iron hinges and swing open in one direction or the other, like
 
 #### Light
 
-Cultists illuminate areas they use frequently with [[/03_Mechanics/CLI/spells/continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
+Cultists illuminate areas they use frequently with [[continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
 
 #### Treasure
 
@@ -1627,7 +1627,7 @@ Read the following text when the characters reach the chamber at the top of the 
 > The passage widens at this point, with two large alcoves flanking the hallway. Loose piles of stone form barricades at the front of each alcove, angled to defend against intrusion from the west. A path between the barricades leads to a wide, descending staircase to the east.
 ^3d4
 
-Four [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] and one [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captain]] stand guard here, dressed in flame-red tabards with the symbol of elemental fire on the chest. They challenge anyone approaching from the west, but they pay little attention to anyone heading in that direction.
+Four [[hobgoblin-warrior-xmm|hobgoblins]] and one [[hobgoblin-captain-xmm|hobgoblin captain]] stand guard here, dressed in flame-red tabards with the symbol of elemental fire on the chest. They challenge anyone approaching from the west, but they pay little attention to anyone heading in that direction.
 
 Visitors heading east must make the handsign of the fire cult (one hand in a fist, thumb up, with the other hand over the fist) or state the pass phrase, which is "Fire is eternal!" Otherwise, visitors must convince the hobgoblins that they must talk to temple leaders. The hobgoblins attack if none of these things happens. If the characters talk their way past the hobgoblins, two hobgoblins escort the party to area E2.
 
@@ -1654,7 +1654,7 @@ If the characters come here without raising an alarm, read the following text:
 
 Two [[/03_Mechanics/CLI/bestiary/humanoid/razerblast-pota|razerblasts]] (see chapter 7) keep to the sides of the chamber. How these guards react depends on how the characters arrive. If characters come from within the fire temple and act like they belong there, the guards pay them little mind. Characters who arrive escorted by hobgoblins must convince the guards to let them pass. If they do, one of the razerblasts escorts the party.
 
-If a fight breaks out, one of the razerblasts shouts, "[[/03_Mechanics/CLI/bestiary/npc/imix-pota|Imix]] defend us!" When this happens, read the following text aloud:
+If a fight breaks out, one of the razerblasts shouts, "[[imix-pota|Imix]] defend us!" When this happens, read the following text aloud:
 
 > [!readaloud] 
 > 
@@ -1678,11 +1678,11 @@ The shadowy forms are statues of dwarven warriors, carved long ago as an honor g
 
 #### Tripwire Trap
 
-A tripwire stretches across the floor between the westernmost pair of niches. Characters with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher notice it automatically. Otherwise, a character searching the floor for traps spots the tripwire with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. If the wire is tripped, a spring-loaded greataxe disguised to look like part of the southern statue snaps across the hallway and makes an attack against the creature that triggered the trap (+10 to hit; `1d12 + 5` slashing damage on a hit). The clanging of the axe alerts the guards in area E2, who investigate.
+A tripwire stretches across the floor between the westernmost pair of niches. Characters with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher notice it automatically. Otherwise, a character searching the floor for traps spots the tripwire with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. If the wire is tripped, a spring-loaded greataxe disguised to look like part of the southern statue snaps across the hallway and makes an attack against the creature that triggered the trap (+10 to hit; `1d12 + 5` slashing damage on a hit). The clanging of the axe alerts the guards in area E2, who investigate.
 
 #### Secret Door
 
-A secret door is hidden behind the south-easternmost statue. It can be found with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+A secret door is hidden behind the south-easternmost statue. It can be found with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
 ### E4. Hidden Vault
 
@@ -1712,7 +1712,7 @@ Once the dwarves learn about an entrance to Tyar-Besil, they begin mounting expe
 > This partially collapsed chamber is L-shaped. The floor is covered in shards of rock and bone. A rough five-foot wall separates the two halves of the room.
 ^3e7
 
-Two [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] in plate armor (AC 17) and four [[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm|half-ogres]] challenge anyone coming from outside the temple. Those seeking entrance must make signs like those described in E1. If the characters instead ask to speak with the temple's leaders, one ogre leaves and returns with a razerblast from area E2.
+Two [[ogre-xmm|ogres]] in plate armor (AC 17) and four [[ogrillon-ogre-xmm|half-ogres]] challenge anyone coming from outside the temple. Those seeking entrance must make signs like those described in E1. If the characters instead ask to speak with the temple's leaders, one ogre leaves and returns with a razerblast from area E2.
 
 #### East Tunnel
 
@@ -1720,7 +1720,7 @@ This tunnel leads to area B24 in the Temple of Black Earth.
 
 #### Treasure
 
-The ogres and half-ogres have collected a small trove, which they keep in a silver-and-mother-of-pearl box that they've buried in the rubble in the northeast corner of the chamber. A successful DC 10 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check allows a character to uncover it due to telltale signs the rubble has been disturbed recently. The box is worth 150 gp and contains 35 gp, 17 pp, four alexandrites worth 30 gp each, a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]], and a [[/03_Mechanics/CLI/items/potion-of-diminution-xdmg|potion of diminution]].
+The ogres and half-ogres have collected a small trove, which they keep in a silver-and-mother-of-pearl box that they've buried in the rubble in the northeast corner of the chamber. A successful DC 10 Intelligence ([[skills#Investigation|Investigation]]) check allows a character to uncover it due to telltale signs the rubble has been disturbed recently. The box is worth 150 gp and contains 35 gp, 17 pp, four alexandrites worth 30 gp each, a [[potion-of-greater-healing-xdmg|potion of greater healing]], and a [[potion-of-diminution-xdmg|potion of diminution]].
 
 #### Development
 
@@ -1741,7 +1741,7 @@ This is the lair and study of a fire genasi named [[/03_Mechanics/CLI/bestiary/n
 
 #### Roleplaying Bastian
 
-Bastian is suspicious of anyone he doesn't already know and assumes any intruders are enemies. He's calculating enough to engage in conversation, trying to learn what the characters are capable of and why they're here. Bastian tries to convince the characters to go after [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]], and he promises an immense (and fictitious) reward if the characters bring him *Tinderstrike*. If the characters seem agreeable and competent, he provides them with directions to get them to area E26. He also describes of what they might encounter along the way. In so doing, he minimizes the dangers of the intervening rooms.
+Bastian is suspicious of anyone he doesn't already know and assumes any intruders are enemies. He's calculating enough to engage in conversation, trying to learn what the characters are capable of and why they're here. Bastian tries to convince the characters to go after [[vanifer-pota|Vanifer]], and he promises an immense (and fictitious) reward if the characters bring him *Tinderstrike*. If the characters seem agreeable and competent, he provides them with directions to get them to area E26. He also describes of what they might encounter along the way. In so doing, he minimizes the dangers of the intervening rooms.
 
 #### Reinforcements
 
@@ -1749,7 +1749,7 @@ The cultists in E7 and E8 come to Bastian's aid if he's attacked here.
 
 #### Secret Door
 
-A secret door in the north wall can be found with a successful a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. It opens into a tunnel that travels north for 40 feet before ending at an arrow slit that looks out into a lava tube (see area E1).
+A secret door in the north wall can be found with a successful a DC 15 Wisdom ([[skills#Perception|Perception]]) check. It opens into a tunnel that travels north for 40 feet before ending at an arrow slit that looks out into a lava tube (see area E1).
 
 ### E7. Barracks
 
@@ -1777,7 +1777,7 @@ This room has been claimed by three cult priests. At any given time, two [[/03_M
 
 #### Treasure
 
-One of the priests carries a [[/03_Mechanics/CLI/items/potion-of-fire-breath-xdmg|potion of fire breath]]. The footlockers contain a total of 36 sp and 19 gp.
+One of the priests carries a [[potion-of-fire-breath-xdmg|potion of fire breath]]. The footlockers contain a total of 36 sp and 19 gp.
 
 ### E9. Ogre Den
 
@@ -1792,7 +1792,7 @@ If the characters make a racket here, the guards in area E7 investigate. The hob
 
 #### Treasure
 
-One ogre has hidden a small pouch in a pocket of a fur-lined cloak piled amid its bedding. The pouch contains several shiny rocks as well as one blue quartz (5 gp), one hematite (5 gp), and one piece of obsidian (10 gp). One of the shiny rocks is actually a [[/03_Mechanics/CLI/items/stone-of-good-luck-xdmg|stone of good luck (luckstone)]].
+One ogre has hidden a small pouch in a pocket of a fur-lined cloak piled amid its bedding. The pouch contains several shiny rocks as well as one blue quartz (5 gp), one hematite (5 gp), and one piece of obsidian (10 gp). One of the shiny rocks is actually a [[stone-of-good-luck-xdmg|stone of good luck (luckstone)]].
 
 ### E10. Hobgoblin Lair
 
@@ -1803,9 +1803,9 @@ The characters can smell the meat cooking here from the stairway to the east and
 > This unusually shaped chamber smells of cooking meat. A number of sleeping pallets lie along the walls, and an open fire ring sits in the center. Meat sizzles on a spit there.
 ^3fd
 
-Hobgoblins that serve the fire temple bunk here. Six [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] and one [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captain]] are present. Unless they have reason not to be, four hobgoblins are sleeping, while the other two are sitting at the fire with their captain. Sleeping hobgoblins wake and spend their first turn standing and arming themselves, joining the fight on their next turns. Lacking time to don armor, each has AC 13 (shield).
+Hobgoblins that serve the fire temple bunk here. Six [[hobgoblin-warrior-xmm|hobgoblins]] and one [[hobgoblin-captain-xmm|hobgoblin captain]] are present. Unless they have reason not to be, four hobgoblins are sleeping, while the other two are sitting at the fire with their captain. Sleeping hobgoblins wake and spend their first turn standing and arming themselves, joining the fight on their next turns. Lacking time to don armor, each has AC 13 (shield).
 
-If the hobgoblin captain is reduced to half its hit point maximum, it spends one turn drinking a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]] (see "Treasure").
+If the hobgoblin captain is reduced to half its hit point maximum, it spends one turn drinking a [[potion-of-greater-healing-xdmg|potion of greater healing]] (see "Treasure").
 
 #### Reinforcements
 
@@ -1817,7 +1817,7 @@ The stairs to the south descend 30 feet to a wide, torchlit hallway west of area
 
 #### Treasure
 
-The hobgoblin captain has a small, polished oak box containing three [[/03_Mechanics/CLI/items/potion-of-fire-resistance-xdmg|potions of fire resistance]] and a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]].
+The hobgoblin captain has a small, polished oak box containing three [[potion-of-fire-resistance-xdmg|potions of fire resistance]] and a [[potion-of-greater-healing-xdmg|potion of greater healing]].
 
 ### E11. Cellblock
 
@@ -1839,15 +1839,15 @@ The symbol on the tapestry is the symbol of fire; show it to the players. Each f
 
 #### Secret Door Cell
 
-The cell in the southeast corner of the hall is empty. A secret door in the south wall can be found with a successful a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+The cell in the southeast corner of the hall is empty. A secret door in the south wall can be found with a successful a DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
 #### Prison Cells
 
 The doors of the unfurnished cells—aside from the one with the secret door—are uncomfortably warm to the touch.
 
-Each unfurnished cell north of the hall contains a [[/03_Mechanics/CLI/bestiary/elemental/salamander-xmm|salamander]]—four salamanders total. If offered freedom, the salamanders can be convinced to fight the fire cultists. If forced to fight alongside azers, however, the salamanders have a twenty-five percent chance each round of turning on the azers during a fight.
+Each unfurnished cell north of the hall contains a [[salamander-xmm|salamander]]—four salamanders total. If offered freedom, the salamanders can be convinced to fight the fire cultists. If forced to fight alongside azers, however, the salamanders have a twenty-five percent chance each round of turning on the azers during a fight.
 
-Each unfurnished cell south of the hall (not counting the easternmost cell, which is empty) contains two [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|azers]]—six azers total. They are eager to fight the fire cultists and the efreeti slaver (see area E13), but they need weapons. If the salamanders attack the azers, the azers fight the salamanders until one side or the other is defeated. If the characters don't help the azers fight the salamanders, the azers turn on the characters as well.
+Each unfurnished cell south of the hall (not counting the easternmost cell, which is empty) contains two [[azer-sentinel-xmm|azers]]—six azers total. They are eager to fight the fire cultists and the efreeti slaver (see area E13), but they need weapons. If the salamanders attack the azers, the azers fight the salamanders until one side or the other is defeated. If the characters don't help the azers fight the salamanders, the azers turn on the characters as well.
 
 ### E12. Lava Chasm
 
@@ -1878,7 +1878,7 @@ The temperature rises noticeably as one approaches this room, and characters can
 > Noise, light, and heat issue from this massive chamber. Runnels of lava flow from holes in the west wall into bronze troughs. Heat shimmers, smoke, and steam rise toward the domed ceiling, escaping through vents. Staircases rise at opposite ends of the room, and a smaller passage exits to the east. An efreeti drives azers and salamanders to make armaments here while fire cultists strand guard.
 ^40e
 
-This chamber is the heart of the fire cult's domain, the great foundry where they forge weapons and armor. Noise here drowns out any fighting taking place outside the immediate vicinity. An [[/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm|efreeti]] aided by one [[/03_Mechanics/CLI/bestiary/humanoid/razerblast-pota|razerblast]] and two [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]] (see chapter 7 for both) drives a [[/03_Mechanics/CLI/bestiary/elemental/salamander-xmm|salamander]] and three [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|azers]], forcing them to work the forges.
+This chamber is the heart of the fire cult's domain, the great foundry where they forge weapons and armor. Noise here drowns out any fighting taking place outside the immediate vicinity. An [[efreeti-xmm|efreeti]] aided by one [[/03_Mechanics/CLI/bestiary/humanoid/razerblast-pota|razerblast]] and two [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]] (see chapter 7 for both) drives a [[salamander-xmm|salamander]] and three [[azer-sentinel-xmm|azers]], forcing them to work the forges.
 
 As soon as any disturbance happens here, the slaves turn on the efreeti. The efreeti then focuses his attention on corralling his charges, leaving the cultists to deal with the characters. If it becomes obvious that the fight is going badly for the cultists, the efreeti retreats to his lair in the fire node (see chapter 5) via area E14.
 
@@ -1916,7 +1916,7 @@ All of the weapons and armor are ruined except for the shield hanging on the wal
 
 #### Treasure
 
-The hanging shield is a [[/03_Mechanics/CLI/items/1-shield-xdmg|+1 shield]] with a sprocket on its front that slowly turns clockwise, making one rotation per hour.
+The hanging shield is a [[1-shield-xdmg|+1 shield]] with a sprocket on its front that slowly turns clockwise, making one rotation per hour.
 
 ### E16. Well
 
@@ -1945,7 +1945,7 @@ This mechanism operates the canal and lock system that runs between areas E12 an
 > A faint odor emanates from this dark place, which holds the chill of the grave. Strange mounds run the length of the room and look like furrows for planting.
 ^41a
 
-The mounds are the decayed remains of bookshelves and tomes that used to run in neat, orderly rows. When the cultists arrived here, they discovered the patch of brown mold that has taken up residence here. After unsuccessfully trying to burn it (which caused it to double in size), they decided to avoid the place. The brown mold (see chapter 5, "[[/03_Mechanics/CLI/traps-hazards/brown-mold-xdmg|Adventure Environments]]," in the *Dungeon Master's Guide*) fills the 20-foot-square section in the southeast corner.
+The mounds are the decayed remains of bookshelves and tomes that used to run in neat, orderly rows. When the cultists arrived here, they discovered the patch of brown mold that has taken up residence here. After unsuccessfully trying to burn it (which caused it to double in size), they decided to avoid the place. The brown mold (see chapter 5, "[[brown-mold-xdmg|Adventure Environments]]," in the *Dungeon Master's Guide*) fills the 20-foot-square section in the southeast corner.
 
 ### E19. Kennel
 
@@ -1956,7 +1956,7 @@ The door is locked with a hasp-and-pin mechanism.
 > This hot chamber smells of sulfur and meat.
 ^41c
 
-Four [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]] lair here. They attack if whoever opened the door isn't Lyzzie (area E29), their mistress.
+Four [[hell-hound-xmm|hell hounds]] lair here. They attack if whoever opened the door isn't Lyzzie (area E29), their mistress.
 
 ### E20 and E21. Storage Rooms
 
@@ -2027,7 +2027,7 @@ Eight [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and two [[/03
 
 #### Reinforcements
 
-Lyzzie and her magmins (area E29) investigate any commotion here. If appropriate, Lyzzie uses [[/03_Mechanics/CLI/spells/sending-xphb|sending]] to contact the chimera in area E30. The chimera moves to help Lyzzie as soon as it can.
+Lyzzie and her magmins (area E29) investigate any commotion here. If appropriate, Lyzzie uses [[sending-xphb|sending]] to contact the chimera in area E30. The chimera moves to help Lyzzie as soon as it can.
 
 ### E26. Fire Temple
 
@@ -2036,17 +2036,17 @@ Lyzzie and her magmins (area E29) investigate any commotion here. If appropriate
 > This room has a wide alcove in the east wall. A raised dais with an altar fills the alcove. Flanking the dais are two smoking braziers and two flickering torches in sconces. Rich tapestries decorate the walls. The tapestry behind the dais is adorned with a stylized cauldron symbol.
 ^431
 
-If this is the first of the elemental temples the characters explore, [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] (see chapter 7) is kneeling before the altar, contemplating the higher meaning of her faith. The braziers are receptacles holding two [[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm|fire elementals]] under [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]]'s command. They appear and attack as soon as their mistress orders them to.
+If this is the first of the elemental temples the characters explore, [[vanifer-pota|Vanifer]] (see chapter 7) is kneeling before the altar, contemplating the higher meaning of her faith. The braziers are receptacles holding two [[fire-elemental-xmm|fire elementals]] under [[vanifer-pota|Vanifer]]'s command. They appear and attack as soon as their mistress orders them to.
 
 #### Roleplaying Vanifer
 
-[[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] is willing to talk, but only to size up the characters. If the characters seem amenable to conversation, she vows to take her cult far away from the Sumber Hills if they do her the favor of killing [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] and delivering his claw as proof of his demise. She honors no such deal.
+[[vanifer-pota|Vanifer]] is willing to talk, but only to size up the characters. If the characters seem amenable to conversation, she vows to take her cult far away from the Sumber Hills if they do her the favor of killing [[gar-shatterkeel-pota|Gar Shatterkeel]] and delivering his claw as proof of his demise. She honors no such deal.
 
-In combat, [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] commands the elementals to engage the characters while she casts spells. If the fight seems to be going badly, [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] flees to the shaft (area E14) and down into the fire node.
+In combat, [[vanifer-pota|Vanifer]] commands the elementals to engage the characters while she casts spells. If the fight seems to be going badly, [[vanifer-pota|Vanifer]] flees to the shaft (area E14) and down into the fire node.
 
 #### Secret Door
 
-A secret door is hidden behind one of the tapestries on the east end of the south wall. A character who searches the wall and succeeds on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check locates it. Beyond lies a flight of stairs leading down to area E31.
+A secret door is hidden behind one of the tapestries on the east end of the south wall. A character who searches the wall and succeeds on a DC 15 Wisdom ([[skills#Perception|Perception]]) check locates it. Beyond lies a flight of stairs leading down to area E31.
 
 ### E27. Barricades
 
@@ -2055,7 +2055,7 @@ A secret door is hidden behind one of the tapestries on the east end of the sout
 > The passage emerges into an oddly shaped room. A loose pile of stone forms a barricade across the route, angled to defend intrusion from the south.
 ^436
 
-Six [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] stand guard here, dressed in flame-red tabards with the symbol of elemental fire on the chest. They challenge anyone approaching from the south, but they pay little attention to anyone heading in that direction.
+Six [[hobgoblin-warrior-xmm|hobgoblins]] stand guard here, dressed in flame-red tabards with the symbol of elemental fire on the chest. They challenge anyone approaching from the south, but they pay little attention to anyone heading in that direction.
 
 #### Gaining Passage
 
@@ -2076,11 +2076,11 @@ If the characters defeat these hobgoblins, the guards are replaced by the hobgob
 > This foul smelling, oddly shaped room contains a number of sleeping pallets.
 ^43c
 
-The hobgoblins who serve Lyzzie (area E29) dwell here. Four [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] and a [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captain]] are currently relaxing. Unless the characters look like cultists, the hobgoblins attack.
+The hobgoblins who serve Lyzzie (area E29) dwell here. Four [[hobgoblin-warrior-xmm|hobgoblins]] and a [[hobgoblin-captain-xmm|hobgoblin captain]] are currently relaxing. Unless the characters look like cultists, the hobgoblins attack.
 
 #### Treasure
 
-The hobgoblin captain carries a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]] and a pouch containing 60 sp.
+The hobgoblin captain carries a [[potion-of-healing-xdmg|potion of healing]] and a pouch containing 60 sp.
 
 ### E29. Lyzzie's Quarters
 
@@ -2089,7 +2089,7 @@ The hobgoblin captain carries a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg
 > Scorch marks and charred furnishings litter this chamber, and a burned tapestry spans the east wall. Dancing about the room are four small humanoids made of magma.
 ^43f
 
-The dancing creatures are four [[/03_Mechanics/CLI/bestiary/elemental/magmin-xmm|magmins]]. They are curious to know who the characters are and playfully try to set them on fire. If they are harmed, the magmins hiss loud enough to alert their mistress, [[/03_Mechanics/CLI/bestiary/npc/lyzandra-lyzzie-calderos-pota|Lyzandra "Lyzzie" Calderos]]. She is a human [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] with [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|wall of fire]] and [[/03_Mechanics/CLI/spells/immolation-xge|immolation]] (see appendix B) prepared instead of [[/03_Mechanics/CLI/spells/ice-storm-xphb|ice storm]] and [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]]. When the characters first arrive, Lyzzie is relaxing in a smaller room behind the burnt tapestry. Lyzzie's room contains several scorched bunk beds, a charred desk, but nothing of value.
+The dancing creatures are four [[magmin-xmm|magmins]]. They are curious to know who the characters are and playfully try to set them on fire. If they are harmed, the magmins hiss loud enough to alert their mistress, [[/03_Mechanics/CLI/bestiary/npc/lyzandra-lyzzie-calderos-pota|Lyzandra "Lyzzie" Calderos]]. She is a human [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] with [[wall-of-fire-xphb|wall of fire]] and [[immolation-xge|immolation]] (see appendix B) prepared instead of [[ice-storm-xphb|ice storm]] and [[cone-of-cold-xphb|cone of cold]]. When the characters first arrive, Lyzzie is relaxing in a smaller room behind the burnt tapestry. Lyzzie's room contains several scorched bunk beds, a charred desk, but nothing of value.
 
 #### Reinforcements
 
@@ -2104,7 +2104,7 @@ The hobgoblins in area E28 are drawn to sounds of combat here.
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/052-poa04-09.webp#center)
 
-A [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|chimera]] loyal to the fire cult lounges in the western alcove. It emerges from its alcove to taunt and threaten the characters, pacing and snarling. If the characters attack it or try to plunder its hoard, it retaliates. Otherwise, it lets them pass through its lair unmolested.
+A [[chimera-xmm|chimera]] loyal to the fire cult lounges in the western alcove. It emerges from its alcove to taunt and threaten the characters, pacing and snarling. If the characters attack it or try to plunder its hoard, it retaliates. Otherwise, it lets them pass through its lair unmolested.
 
 #### East Tunnel
 
@@ -2112,7 +2112,7 @@ This tunnel leads to area B16 in the Temple of Black Earth.
 
 #### Treasure
 
-Scattered in the western alcove—among broken bones and scraps of clothing—is the chimera's hoard of 517 cp, 1,048 sp, 432 gp, five polished moonstones (50 gp each), a [[/03_Mechanics/CLI/items/potion-of-water-breathing-xdmg|potion of water breathing]], and a tiny red silk pouch that contains fine sand ([[/03_Mechanics/CLI/items/dust-of-disappearance-xdmg|dust of disappearance]]).
+Scattered in the western alcove—among broken bones and scraps of clothing—is the chimera's hoard of 517 cp, 1,048 sp, 432 gp, five polished moonstones (50 gp each), a [[potion-of-water-breathing-xdmg|potion of water breathing]], and a tiny red silk pouch that contains fine sand ([[dust-of-disappearance-xdmg|dust of disappearance]]).
 
 ### E31. Vanifer's Chamber
 
@@ -2121,15 +2121,15 @@ Scattered in the western alcove—among broken bones and scraps of clothing—is
 > Throw rugs, privacy screens, a couch, and a quartet of comfortable chairs have created a cozy space here. Gossamer fabrics are draped across a four poster bed, and a desk sits in the southeastern corner.
 ^448
 
-[[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] spends very little time here.
+[[vanifer-pota|Vanifer]] spends very little time here.
 
 #### Treasure
 
-A search of the desk reveals a scroll of [[/03_Mechanics/CLI/spells/melfs-minute-meteors-xge|Melf's minute meteors]] and a scroll of [[/03_Mechanics/CLI/spells/wall-of-sand-xge|wall of sand]] (see appendix B for descriptions of both spells).
+A search of the desk reveals a scroll of [[melfs-minute-meteors-xge|Melf's minute meteors]] and a scroll of [[wall-of-sand-xge|wall of sand]] (see appendix B for descriptions of both spells).
 
 ### Conclusion
 
-Three key leaders keep the Cult of the Eternal Flame organized: [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]], [[/03_Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]], and Lyzzie Calderos. If any of these leaders survive after the characters leave the temple, the cultists reorganize their defenses and fight off further incursions. If [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] retreats to the deeper levels and the characters defeat Bastian and Lyzzie, the Eternal Flame cult loses its cohesion, and the surviving cultists abandon this level. Some retreat to the Fane of the Eye or the Weeping Colossus, while others flee the temple altogether. A few monsters might remain, such as the chimera, which rounds up as much loot as it can and takes to hunting stray cultists once their leaders are all gone.
+Three key leaders keep the Cult of the Eternal Flame organized: [[vanifer-pota|Vanifer]], [[/03_Mechanics/CLI/bestiary/npc/bastian-thermandar-pota|Bastian Thermandar]], and Lyzzie Calderos. If any of these leaders survive after the characters leave the temple, the cultists reorganize their defenses and fight off further incursions. If [[vanifer-pota|Vanifer]] retreats to the deeper levels and the characters defeat Bastian and Lyzzie, the Eternal Flame cult loses its cohesion, and the surviving cultists abandon this level. Some retreat to the Fane of the Eye or the Weeping Colossus, while others flee the temple altogether. A few monsters might remain, such as the chimera, which rounds up as much loot as it can and takes to hunting stray cultists once their leaders are all gone.
 
 ## Player-Facing Summary
 

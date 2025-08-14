@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-established-family-communities-established-family-communities.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-established-family-communities-established-family-communities.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 ## Player-Facing Summary
 

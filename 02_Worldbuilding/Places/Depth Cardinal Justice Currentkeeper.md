@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-depth-cardinal-justice-currentkeeper-depth-cardinal-justice-currentkeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-cardinal-justice-currentkeeper-depth-cardinal-justice-currentkeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Cardinal Justice Currentkeeper]]
+- [[12_Research/D&D_References/Depth Cardinal Justice Currentkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[12_Research/D&D_References/Temple of Divine Order]]

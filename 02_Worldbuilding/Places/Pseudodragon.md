@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pseudodragon-xmm-pseudodragon-xmm.svg)
-
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pseudodragon]]
+- [[Pseudodragon]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]

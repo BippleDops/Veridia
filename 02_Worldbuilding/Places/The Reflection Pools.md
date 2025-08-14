@@ -15,6 +15,10 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - aquabyssos
 - complete
 - content/location
@@ -27,12 +31,9 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # The Reflection Pools
 
-![[04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
 
 *Where every choice not taken shimmers in the water*
 
@@ -45,6 +46,7 @@ The Pools predate recorded history, possibly existing before water itself. They 
 ## Physical Description
 
 ### The Approach
+
 Reaching the Reflection Pools requires navigating the Corridor of Choices, a winding tunnel where each fork represents a significant decision in the visitor's life:
 - **Length**: 3 miles of branching passages
 - **Branches**: Unique to each visitor
@@ -54,78 +56,91 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 ### The Thirteen Pools
 
 #### Pool of What Was Never Born
+
 **Diameter**: 30 feet
 **Depth**: 3 inches (appears infinite)
 **Reveals**: Children never conceived, ideas never spoken
 **Danger**: Viewers may become obsessed with impossible offspring
 
 #### Pool of Roads Not Taken  
+
 **Diameter**: 45 feet
 **Depth**: Variable (changes with regret)
 **Reveals**: Lives shaped by different choices
 **Danger**: Temporal paradox if viewer tries to change past
 
 #### Pool of Words Unspoken
+
 **Diameter**: 20 feet
 **Depth**: Silent
 **Reveals**: Conversations that should have happened
 **Danger**: Compulsion to speak everything always
 
 #### Pool of Wars Unfought
+
 **Diameter**: 100 feet
 **Depth**: Blood-warm
 **Reveals**: Conflicts avoided or unleashed
 **Danger**: Tactical knowledge that shouldn't exist
 
 #### Pool of Love Unrequited
+
 **Diameter**: Two interlinked circles
 **Depth**: Tear-salt concentration
 **Reveals**: Relationships that never began
 **Danger**: Heartbreak can be literally fatal
 
 #### Pool of Deaths Unchosen
+
 **Diameter**: 6 feet (coffin-shaped)
 **Depth**: Unknown
 **Reveals**: How you could have died
 **Danger**: May show your actual death
 
 #### Pool of Lies Unbelieved
+
 **Diameter**: Constantly shifting
 **Depth**: Deceptive
 **Reveals**: Falsehoods that could have been accepted as truth
 **Danger**: Cannot distinguish truth from lies afterward
 
 #### Pool of Gods Unworshipped
+
 **Diameter**: 77 feet
 **Depth**: Devotion-deep
 **Reveals**: Deities that might have been
 **Danger**: May create new gods through observation
 
 #### Pool of Crimes Uncommitted
+
 **Diameter**: 13 feet
 **Depth**: Guilty conscience
 **Reveals**: Evil acts narrowly avoided
 **Danger**: Phantom guilt for things never done
 
 #### Pool of Kindness Unshown
+
 **Diameter**: Expanding slowly
 **Depth**: Warm embrace
 **Reveals**: Moments where compassion failed
 **Danger**: Overwhelming empathy paralysis
 
 #### Pool of Knowledge Unlearned
+
 **Diameter**: Library-vast
 **Depth**: Scholar-deep
 **Reveals**: Information that could have been known
 **Danger**: Brain cannot hold all possibilities
 
 #### Pool of Courage Unfound
+
 **Diameter**: Shrinking when observed
 **Depth**: Fear-frozen
 **Reveals**: Bravery that failed to manifest
 **Danger**: Permanent cowardice or reckless bravery
 
 #### The Central Pool (The Mirror of Maybe)
+
 **Diameter**: Perfect circle, 50 feet
 **Depth**: Reflects the viewer
 **Reveals**: The self that could be
@@ -208,6 +223,7 @@ Serendipity can take 3 legendary actions, choosing from the options below.
 - **Prophesy (Costs 2 Actions).** Serendipity speaks a prophecy about one creature she can see. For the next minute, whenever that creature rolls a 1, they can reroll and must use the new result.
 
 ### Mirror Novices
+
 Young oracles in training who tend the pools:
 - Blindfolded to prevent madness
 - Navigate by possibility currents
@@ -215,6 +231,7 @@ Young oracles in training who tend the pools:
 - Age backwards when they make accurate prophecies
 
 ### The Reflected
+
 Beings pulled from the pools—versions that could have been:
 - Partially translucent
 - Speak of histories that never happened
@@ -222,6 +239,7 @@ Beings pulled from the pools—versions that could have been:
 - Sometimes replace their "real" versions
 
 ### Pool Guardians
+
 Elemental beings of crystallized possibility:
 
 **Possibility Elemental** (CR 9)
@@ -347,41 +365,50 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 ## Adventure Hooks
 
 ### The Stolen Timeline
+
 Someone has been using the pools to steal favorable outcomes from other timelines, causing reality distortions. The party must track the thief through multiple possibilities and stop them before reality collapses.
 
 ### The Prophet's Paradox
+
 A young oracle has seen their own death in every pool—except one that shows them destroying the Reflection Pools. The party must protect them while investigating if the prophecy is true or a manipulation.
 
 ### The Reflected Invasion
+
 Alternate versions of significant NPCs have been emerging from the pools and replacing their originals. The party must determine which are real and why the barriers between possibilities are weakening.
 
 ### The Impossible Child
+
 A child who was never born has emerged from the Pool of What Was Never Born, claiming to be the offspring of a party member. Their existence is causing reality paradoxes that threaten to unravel causality.
 
 ### The Council of Selves
+
 A powerful wizard has gathered versions of themselves from twelve different timelines to form a council. They seek to use the Reflection Pools to merge all timelines where they exist into one where they are god-emperor.
 
 ## Treasures
 
 ### The Probability Compass
+
 *Wondrous item, very rare (requires attunement)*
 - Always points toward the most favorable outcome
 - Three times per day, can reroll any d20 roll
 - Cursed: Sometimes shows what you want, not what's best
 
 ### Mirrors of Maybe
+
 *Wondrous item, rare*
 - Set of 7 hand mirrors, each showing different possibility
 - Can communicate with alternate selves
 - Breaking a mirror may trap you in that possibility
 
 ### The Certainty Stone
+
 *Wondrous item, legendary*
 - Makes one declared action inevitable
 - Single use, then crumbles
 - The action WILL happen, regardless of consequences
 
 ### Schrodinger's Box
+
 *Wondrous item, uncommon*
 - Contents exist in superposition until opened
 - 50% chance of containing what you need most
@@ -390,21 +417,25 @@ A powerful wizard has gathered versions of themselves from twelve different time
 ## Environmental Hazards
 
 ### Probability Storms
+
 - Random events from other timelines manifest
 - Duration: 1d10 minutes
 - Effects: Roll on wild magic table every round
 
 ### Temporal Whirlpools
+
 - Drain years from those caught within
 - Can age or de-age victims
 - Sometimes transport to other timelines
 
 ### Reality Fractures
+
 - Cracks where possibilities leak through
 - Stepping through leads to alternate timeline
 - May close suddenly, trapping travelers
 
 ### Quantum Locks
+
 - Areas where no choices can be made
 - All actions become predetermined
 - Free will returns after leaving area
@@ -412,12 +443,15 @@ A powerful wizard has gathered versions of themselves from twelve different time
 ## The Deep Secrets
 
 ### The Truth of the Pools
+
 Unknown to most, the Reflection Pools are not natural phenomena but prison cells. Each pool contains a trapped god from a timeline that was prevented from existing. The reflections are their attempts to escape into reality.
 
 ### The Thirteenth Pool's Purpose
+
 The central pool doesn't show possibilities—it creates them. Every reflection that forms there becomes real somewhere. The Order of Mirrors actually works to prevent too many possibilities from spawning.
 
 ### The Price of Prophecy
+
 Each prophecy made drains possibility from the future, making reality more rigid and predetermined. Too much divination could lock the timeline into an inescapable fate.
 
 ## DM Notes
@@ -442,12 +476,14 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Campaign-ending paradoxes should be telegraphed
 
 ### Scaling Encounters
+
 - **Level 1-5**: Simple consultations, minor visions
 - **Level 6-10**: Deep viewing, meeting alternates
 - **Level 11-15**: Timeline manipulation, major prophecies
 - **Level 16-20**: Reality-altering possibilities
 
 ### Integration Ideas
+
 - Make the pools a recurring element
 - Have NPCs reference consulting them
 - Use them to foreshadow campaign events
@@ -456,6 +492,7 @@ Each prophecy made drains possibility from the future, making reality more rigid
 ---
 
 ## See Also
+
 - [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
 - [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
 - [[02_Worldbuilding/Places/The Twilight Depths|02 Worldbuilding/Places/The Twilight Depths]]
@@ -474,11 +511,15 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Reflection Pools]]
+- [[12_Research/D&D_Statblocks/The Reflection Pools]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[12_Research/D&D_References/Reflection Pools - Surgical Theater]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

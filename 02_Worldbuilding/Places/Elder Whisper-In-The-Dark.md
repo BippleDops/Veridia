@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)
 
 
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[12_Research/D&D_References/The Primordial Vaults]]
 
 ## Player-Facing Summary
 

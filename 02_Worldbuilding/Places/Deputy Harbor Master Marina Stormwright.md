@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[Harbormaster Erik Saltbeard]]
 
 ## Player-Facing Summary
 

@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lady-victoria-pennworth-lady-victoria-pennworth.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lady-victoria-pennworth-lady-victoria-pennworth.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Victoria Pennworth]]
+- [[Lady Victoria Pennworth]]
 
 <!-- enriched: true -->

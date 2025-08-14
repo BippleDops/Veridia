@@ -22,18 +22,18 @@ world: Both
 | Race | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |------|-------------|-------------|-----------------|-----------------|
 | Aasimar | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
-| [[/03_Mechanics/CLI/races/bugbear-vgm|Bugbear]] | 6'0" | 200 lb. | +`2d12` | × (`2d6`) lb. |
-| [[/03_Mechanics/CLI/races/firbolg-vgm|Firbolg]] | 6'2" | 175 lb. | +`2d12` | × (`2d6`) lb. |
-| [[/03_Mechanics/CLI/races/goblin-vgm|Goblin]] | 3'5" | 35 lb. | +`2d4` | × 1 lb. |
-| [[/03_Mechanics/CLI/races/goliath-xphb|Goliath]] | 6'2" | 200 lb. | +`2d10` | × (`2d6`) lb. |
-| [[/03_Mechanics/CLI/races/hobgoblin-vgm|Hobgoblin]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
-| [[/03_Mechanics/CLI/races/kenku-vgm|Kenku]] | 4'4" | 50 lb. | +`2d8` | × (`d6`) lb. |
-| [[/03_Mechanics/CLI/races/kobold-vgm|Kobold]] | 2'1" | 25 lb. | +`2d4` | × 1 lb. |
-| [[/03_Mechanics/CLI/races/lizardfolk-vgm|Lizardfolk]] | 4'9" | 120 lb. | +`2d10` | × (`2d6`) lb. |
-| [[/03_Mechanics/CLI/races/orc-xphb|Orc]] | 5'4" | 175 lb. | +`2d8` | × (`2d6`) lb. |
-| [[/03_Mechanics/CLI/races/tabaxi-vgm|Tabaxi]] | 4'10" | 90 lb. | +`2d10` | × (`2d4`) lb. |
-| [[/03_Mechanics/CLI/races/triton-vgm|Triton]] | 4'6" | 90 lb. | +`2d10` | × (`2d4`) lb. |
-| [[/03_Mechanics/CLI/races/yuan-ti-pureblood-vgm|Yuan-ti Pureblood]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
+| [[bugbear-vgm|Bugbear]] | 6'0" | 200 lb. | +`2d12` | × (`2d6`) lb. |
+| [[firbolg-vgm|Firbolg]] | 6'2" | 175 lb. | +`2d12` | × (`2d6`) lb. |
+| [[goblin-vgm|Goblin]] | 3'5" | 35 lb. | +`2d4` | × 1 lb. |
+| [[goliath-xphb|Goliath]] | 6'2" | 200 lb. | +`2d10` | × (`2d6`) lb. |
+| [[hobgoblin-vgm|Hobgoblin]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
+| [[kenku-vgm|Kenku]] | 4'4" | 50 lb. | +`2d8` | × (`d6`) lb. |
+| [[kobold-vgm|Kobold]] | 2'1" | 25 lb. | +`2d4` | × 1 lb. |
+| [[lizardfolk-vgm|Lizardfolk]] | 4'9" | 120 lb. | +`2d10` | × (`2d6`) lb. |
+| [[orc-xphb|Orc]] | 5'4" | 175 lb. | +`2d8` | × (`2d6`) lb. |
+| [[tabaxi-vgm|Tabaxi]] | 4'10" | 90 lb. | +`2d10` | × (`2d4`) lb. |
+| [[triton-vgm|Triton]] | 4'6" | 90 lb. | +`2d10` | × (`2d4`) lb. |
+| [[yuan-ti-pureblood-vgm|Yuan-ti Pureblood]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
 ^race-base-height-base-weight-height-modifier-weight-modifier
 
 ## Player-Facing Summary

@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lost-sorrowsworn-mpmm-lost-sorrowsworn-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/lost-sorrowsworn-mpmm|Lost Sorrowsworn]]
+# [[lost-sorrowsworn-mpmm|Lost Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -61,7 +61,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 8"
@@ -74,14 +74,14 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
       \ (2d10 + 3) piercing damage."
     "name": "Arm Spike"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25\
-      \ (4d10 + 3) piercing damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (4d10 + 3) piercing damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-      \ the target is [[/03_Mechanics/CLI/conditions#Frightened|frightened]], and\
+      \ the target is [[conditions#Frightened|frightened]], and\
       \ it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn\
       \ can grapple only one creature at a time."
     "name": "Embrace (Recharge 4-6)"
 "reactions":
-  - "desc": "If the sorrowsworn takes damage, the creature [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+  - "desc": "If the sorrowsworn takes damage, the creature [[conditions#Grappled|grappled]]\
       \ by Embrace takes 18 (4d8) psychic damage."
     "name": "Tightening Embrace"
 "source":

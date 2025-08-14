@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-suit-malfunction-pressure-suit-malfunction.svg]]
 
 
 # Pressure Suit Malfunction
@@ -165,7 +162,7 @@ This crisis provides opportunities for rescue missions, investigation adventures
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -183,6 +180,6 @@ Legends speak of Pressure Suit Malfunction as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Suit Malfunction]]
+- [[Pressure Suit Malfunction]]
 
 <!-- enriched: true -->

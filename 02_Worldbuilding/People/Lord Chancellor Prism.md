@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-lord-chancellor-prism.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Queen]]
+- [[The Queen]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Queen]]
+- [[The Queen]]
 
 ## Player-Facing Summary
 

@@ -146,14 +146,14 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Enspelled (Cantrip) Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Burst%20Fire|Burst Fire]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Enspelled (Cantrip) Battleaxe
@@ -161,40 +161,40 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Enspelled (Cantrip) Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
 - **Weight**: 1.0 lbs.
 
 ### Enspelled (Cantrip) Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 ### Enspelled (Cantrip) Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 0.25 lbs.
 
 ### Enspelled (Cantrip) Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
 - **Weight**: 6.0 lbs.
 
 ### Enspelled (Cantrip) Flail
@@ -205,127 +205,127 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 ### Enspelled (Cantrip) Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Enspelled (Cantrip) Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Enspelled (Cantrip) Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Enspelled (Cantrip) Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Enspelled (Cantrip) Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Enspelled (Cantrip) Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Enspelled (Cantrip) Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 8.0 lbs.
 
 ### Enspelled (Cantrip) Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Weight**: 6.0 lbs.
 
 ### Enspelled (Cantrip) Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Enspelled (Cantrip) Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Enspelled (Cantrip) Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 5.0 lbs.
 
 ### Enspelled (Cantrip) Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Longsword
@@ -333,7 +333,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Mace
@@ -344,7 +344,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 ### Enspelled (Cantrip) Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Enspelled (Cantrip) Morningstar
@@ -356,20 +356,20 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 ### Enspelled (Cantrip) Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
 ### Enspelled (Cantrip) Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Quarterstaff
@@ -377,66 +377,66 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Enspelled (Cantrip) Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Enspelled (Cantrip) Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]]
 
 ### Enspelled (Cantrip) Spear
 
@@ -444,7 +444,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Staff
@@ -452,7 +452,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Enspelled (Cantrip) Trident
@@ -461,7 +461,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Enspelled (Cantrip) War Pick
@@ -469,7 +469,7 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 2.0 lbs.
 
 ### Enspelled (Cantrip) Warhammer
@@ -477,13 +477,13 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 5.0 lbs.
 
 ### Enspelled (Cantrip) Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
 ### Enspelled (Cantrip) Wooden Staff
@@ -491,14 +491,14 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Enspelled (Cantrip) Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
 

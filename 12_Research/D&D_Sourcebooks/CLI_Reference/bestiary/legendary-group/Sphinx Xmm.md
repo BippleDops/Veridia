@@ -22,7 +22,7 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.png]]
 
 # Sphinx
 
@@ -31,8 +31,8 @@ _Source: Monster Manual (2024)_
 
 The region containing a sphinx of lore's or sphinx of valor's lair is altered by its presence, creating the following effects:
 
-- **Distant Sight.** While in its lair, the sphinx can cast [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]], requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile.  
-- **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes a [[/03_Mechanics/CLI/actions#Study|Study]] action while within 1 mile of the lair, it adds `d6` to any ability check it makes for that action.  
+- **Distant Sight.** While in its lair, the sphinx can cast [[clairvoyance-xphb|Clairvoyance]], requiring no spell components and using the same spellcasting ability as its Spellcasting action. When cast this way, the spell's range is 1 mile.  
+- **Infusion of Knowledge.** Whenever the sphinx or one of its allies takes a [[actions#Study|Study]] action while within 1 mile of the lair, it adds `d6` to any ability check it makes for that action.  
 
 If the sphinx dies or moves its lair elsewhere, these effects end immediately.
 

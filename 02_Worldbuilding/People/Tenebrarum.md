@@ -32,17 +32,14 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg]]
 
 
 # Tenebrarum
 *The Void Ambassador, Speaker for the Spaces Between, The Negotiating Dark*
 
 ## Overview
-Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding/Places/Aquabyssos]], representing entities that exist in the spaces between reality. Neither malevolent nor benevolent from mortal perspectives, they conduct diplomacy for beings whose very existence challenges conventional understanding of life, death, and meaning. Their embassy exists in a pocket of controlled nothingness within the Deep Parliament District, where they negotiate treaties that most senators don't fully understand.
+Tenebrarum is the official ambassador from the Void Realms to [[Aquabyssos]], representing entities that exist in the spaces between reality. Neither malevolent nor benevolent from mortal perspectives, they conduct diplomacy for beings whose very existence challenges conventional understanding of life, death, and meaning. Their embassy exists in a pocket of controlled nothingness within the Deep Parliament District, where they negotiate treaties that most senators don't fully understand.
 
 ## Physical Manifestation
 
@@ -168,17 +165,17 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ## Relationships
 
 ### Parliamentary Contacts
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: Frequent negotiation partner (original, not shadow)
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Appreciates their precision
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Professional courtesy, mutual respect
+- **[[Senator Glaucus]]**: Frequent negotiation partner (original, not shadow)
+- **[[Tribune Cassia Deepcurrent]]**: Appreciates their precision
+- **[[Ambassador Korvin Blacktide]]**: Professional courtesy, mutual respect
 - **Parliament Speaker Depths-Walker**: Direct superior for void-related matters
 - **The Shadow Senators**: Complex relationship—they represent different unrealities
 
 ### International Relations
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Negotiating crystal-void interactions
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mutual fascination with impossible knowledge
+- **[[Queen Seraphina Lumengarde]]**: Negotiating crystal-void interactions
+- **[[The Crimson Sage]]**: Mutual fascination with impossible knowledge
 - **Surface Diplomatic Corps**: Patient teacher of interdimensional law
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Occasional negotiations over deep-void boundaries
+- **[[Aboleth Prime Yoth]]**: Occasional negotiations over deep-void boundaries
 - **The Deep Mothers**: Represent competing interests in reality structuring
 
 ### Personal Connections
@@ -358,32 +355,32 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - Primary negotiation partner
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Admires precision
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] - Professional peer
-- [[02_Worldbuilding/People/The Crimson Sage]] - Philosophical discussions
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Territorial negotiations
+- [[Senator Glaucus]] - Primary negotiation partner
+- [[Tribune Cassia Deepcurrent]] - Admires precision
+- [[Ambassador Korvin Blacktide]] - Professional peer
+- [[The Crimson Sage]] - Philosophical discussions
+- [[Aboleth Prime Yoth]] - Territorial negotiations
 
 ### Locations
-- [[02_Worldbuilding/Lore/Embassy of Emptiness]] - Primary residence and workplace
-- [[02_Worldbuilding/Places/Parliament Deep District]] - Official diplomatic quarter
-- [[02_Worldbuilding/Lore/The Negotiation Void]] - Specialized meeting space
-- [[02_Worldbuilding/Lore/Void Realm Territories]] - Represented constituencies
-- [[02_Worldbuilding/Lore/Reality Anchor Points]] - Diplomatic meeting locations
+- [[Embassy of Emptiness]] - Primary residence and workplace
+- [[Parliament Deep District]] - Official diplomatic quarter
+- [[The Negotiation Void]] - Specialized meeting space
+- [[Void Realm Territories]] - Represented constituencies
+- [[Reality Anchor Points]] - Diplomatic meeting locations
 
 ### Organizations
-- [[02_Worldbuilding/Lore/The Void Realms]] - Represented government
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Local government relations
+- [[The Void Realms]] - Represented government
+- [[Parliament of Echoes]] - Local government relations
 - [[Interdimensional Diplomatic Corps]] - Professional network
-- [[02_Worldbuilding/Lore/Reality Stability Commission]] - Cooperative oversight
-- [[02_Worldbuilding/Lore/The Shadow Integration Committee]] - Joint project
+- [[Reality Stability Commission]] - Cooperative oversight
+- [[The Shadow Integration Committee]] - Joint project
 
 ### Items & Concepts
-- [[02_Worldbuilding/Lore/Void Realm Treaties]] - Binding agreements
-- [[02_Worldbuilding/Lore/Diplomatic Immunity Crystals]] - Physical protection tokens
-- [[02_Worldbuilding/Lore/Reality Stabilization Anchors]] - Negotiation aids
-- [[02_Worldbuilding/Lore/The Cosmic Constants]] - Universal laws
-- [[02_Worldbuilding/Lore/Quantum Compromise Protocols]] - Negotiation techniques
+- [[Void Realm Treaties]] - Binding agreements
+- [[Diplomatic Immunity Crystals]] - Physical protection tokens
+- [[Reality Stabilization Anchors]] - Negotiation aids
+- [[The Cosmic Constants]] - Universal laws
+- [[Quantum Compromise Protocols]] - Negotiation techniques
 
 ---
 
@@ -392,15 +389,15 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Continental Connections & Story Weave]]
-- [[02_Worldbuilding/People/Senator Glaucus]]
-- [[02_Worldbuilding/Places/Dream Rails]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
-- [[1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]]
+- [[The Shadow Conspiracy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Senator Glaucus]]
+- [[Dream Rails]]
+- [[Parliament of Echoes]]
+- [[Diplomatic Tides]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
 
 ## Player-Facing Summary
 
@@ -412,6 +409,6 @@ Legends speak of Tenebrarum as a nexus where past and present converge. Locals d
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tenebrarum]]
+- [[Tenebrarum]]
 
 <!-- enriched: true -->

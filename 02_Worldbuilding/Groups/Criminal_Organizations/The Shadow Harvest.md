@@ -5,9 +5,9 @@ alignment: Neutral Evil (Obsessive Collectors)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Energy Harvesting Cult
-headquarters: '[[02_Worldbuilding/Lore/The Void Refineries]]'
+headquarters: '[[The Void Refineries]]'
 influence: Underground Economy, Shadow Energy Trade
-leader: '[[02_Worldbuilding/Lore/High Harvester Umbros Shadowdrain]]'
+leader: '[[High Harvester Umbros Shadowdrain]]'
 members: ~200 active harvesters, ~500 shadow-touched workers
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -34,14 +34,12 @@ world: Aquabyssos
 ![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)
 
 
-
-
 # The Shadow Harvest
 *Reapers of the Void, Masters of Shadow Essence, The Darkest Addiction*
 
 ## Organization Overview
 
-The Shadow Harvest operates as both industrial enterprise and religious cult, dedicated to the extraction, refinement, and distribution of pure shadow energy throughout [[02_Worldbuilding/Places/Aquabyssos]]. What began as a practical response to the growing demand for shadow-based resources has evolved into an obsessive organization whose members believe that shadow energy represents the ultimate evolutionary force for all life in the depths.
+The Shadow Harvest operates as both industrial enterprise and religious cult, dedicated to the extraction, refinement, and distribution of pure shadow energy throughout [[Aquabyssos]]. What began as a practical response to the growing demand for shadow-based resources has evolved into an obsessive organization whose members believe that shadow energy represents the ultimate evolutionary force for all life in the depths.
 
 Unlike organizations that merely use shadow abilities, the Harvest treats shadow energy as a finite resource to be carefully extracted, processed, and sold to the highest bidder. Their techniques allow them to drain shadow essence from the environment, from willing (and sometimes unwilling) shadow-touched individuals, and from the mysterious shadow phenomena that occur naturally throughout Aquabyssos.
 
@@ -50,7 +48,7 @@ The organization operates with the efficiency of a business and the fervor of a 
 ## History and Foundation
 
 ### The First Distillation (75 years ago)
-The organization began when an obsessive alchemist named [[02_Worldbuilding/Lore/Umbros Shadowdrain]] discovered methods for extracting and concentrating shadow energy into crystalline form. His early experiments were purely academic, focused on understanding the nature of shadow corruption and its effects on transformed individuals.
+The organization began when an obsessive alchemist named [[Umbros Shadowdrain]] discovered methods for extracting and concentrating shadow energy into crystalline form. His early experiments were purely academic, focused on understanding the nature of shadow corruption and its effects on transformed individuals.
 
 ### The Revelation of Purity (60 years ago)
 Shadowdrain's breakthrough came when he successfully created **Pure Shadow Crystals** – crystallized shadow energy so concentrated that it could grant temporary shadow abilities to non-shadow-touched individuals. The implications were staggering: shadow energy could be commodified, traded, and used to reshape society.
@@ -325,35 +323,35 @@ The organization's primary processing facilities use a combination of alchemical
 
 ### Commercial Partnerships
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[Silverscale Consortium]]**
 **Relationship**: Tense Business Partnership
 The Consortium requires shadow energy for various operations but disapproves of the Harvest's methods. They maintain a profitable but ethically uncomfortable business relationship.
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Competitive Cooperation
 Both organizations serve shadow-touched communities but have different approaches. The Warren focuses on community support while the Harvest emphasizes individual enhancement and profit.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Deepwater Trading Consortium|02 Worldbuilding/Groups/Deepwater Trading Consortium]]**
+#### **[[Deepwater Trading Consortium|02 Worldbuilding/Groups/Deepwater Trading Consortium]]**
 **Relationship**: Professional Distance
 The Trading Consortium occasionally facilitates shadow energy trade but maintains careful distance from the Harvest's more questionable activities.
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
+#### **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 **Relationship**: Regulated Tolerance
 The government tolerates legal shadow energy trade while actively investigating and prosecuting illegal Harvest activities.
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
+#### **[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Philosophical Opposition
 The Order views the Harvest's exploitation of shadow energy as corruption of natural phenomena that should be studied and respected rather than exploited.
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[Purist Coalition]]**
 **Relationship**: Active Enemies
 The Coalition views the Harvest as representing everything wrong with shadow energy use and actively works to shut down their operations.
 
-#### **[[02_Worldbuilding/Groups/Church of the Tidal Throne|02 Worldbuilding/Groups/Church Of The Tidal Throne]]**
+#### **[[Church of the Tidal Throne|02 Worldbuilding/Groups/Church Of The Tidal Throne]]**
 **Relationship**: Religious Opposition
 The Church considers shadow energy worship heretical and works to counter the Harvest's influence in religious communities.
 
@@ -549,34 +547,34 @@ Secret agreements with organizations in other realms provide access to different
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
+- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[Silverscale Consortium]]
+- [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Void Refineries]]
-- [[02_Worldbuilding/Lore/Shadow Energy Extraction Sites]]
-- [[02_Worldbuilding/Lore/Underground Distribution Networks]]
-- [[02_Worldbuilding/Lore/Shadow Energy Processing Facilities]]
+- [[The Void Refineries]]
+- [[Shadow Energy Extraction Sites]]
+- [[Underground Distribution Networks]]
+- [[Shadow Energy Processing Facilities]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Lore/High Harvester Umbros Shadowdrain]]
-- [[02_Worldbuilding/Lore/Void Technician Prima Nullbane]]
-- [[02_Worldbuilding/Lore/Shadow Broker Maximian Darkmarket]]
-- [[02_Worldbuilding/Lore/Corruption Mystic Serafina Shadowheart]]
+- [[High Harvester Umbros Shadowdrain]]
+- [[Void Technician Prima Nullbane]]
+- [[Shadow Broker Maximian Darkmarket]]
+- [[Corruption Mystic Serafina Shadowheart]]
 
 **Important Items and Concepts**:
-- [[02_Worldbuilding/Lore/Pure Shadow Crystals]]
-- [[02_Worldbuilding/Lore/Shadow Enhancement Elixirs]]
-- [[02_Worldbuilding/Lore/The Final Darkening]]
-- [[02_Worldbuilding/Lore/Shadow Energy Addiction]]
-- [[02_Worldbuilding/Lore/Void-Touched Equipment]]
+- [[Pure Shadow Crystals]]
+- [[Shadow Enhancement Elixirs]]
+- [[The Final Darkening]]
+- [[Shadow Energy Addiction]]
+- [[Void-Touched Equipment]]
 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -600,4 +598,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]

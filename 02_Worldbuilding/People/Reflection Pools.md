@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg]]
 
 
 # Reflection Pools
@@ -91,8 +87,8 @@ Use the Reflection Pools as plot devices to provide information, foreshadow even
 
 ## Connections
 
-- [[02_Worldbuilding/People/Original Glaucus]]
-- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[Original Glaucus]]
+- [[Senator Glaucus]]
 
 
 ## Appearance
@@ -134,6 +130,6 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Reflection Pools]]
+- [[Reflection Pools]]
 
 <!-- enriched: true -->

@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-rat-xmm-giant-rat-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/rat-xmm|Rat]]
+# [[rat-xmm|Rat]]
 *Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Rat (XMM)"
@@ -53,13 +53,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The rat doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
+  - "desc": "The rat doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it moves out of an enemy's reach."
     "name": "Agile"
 "actions":

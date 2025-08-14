@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/wings-of-flying.webp#right)
 
 
-While wearing this cloak, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action. The wings give you a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can't use them again for `d12` hours.
+While wearing this cloak, you can take a [[actions#Magic|Magic]] action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a [[actions#Magic|Magic]] action. The wings give you a [[fly-speed-xphb|Fly Speed]] of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can't use them again for `d12` hours.
 
 *Source: Dungeon Master's Guide (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/velociraptor-mpmm|Velociraptor]]
+# [[velociraptor-mpmm|Velociraptor]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
@@ -51,7 +51,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -59,7 +59,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "traits":
   - "desc": "The velociraptor has advantage on an attack roll against a creature if\
       \ at least one of the velociraptor's allies is within 5 feet of the creature\
-      \ and the ally isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ and the ally isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The velociraptor makes one Bite attack and one Claw attack."

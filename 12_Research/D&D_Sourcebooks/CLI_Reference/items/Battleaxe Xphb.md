@@ -28,7 +28,7 @@ world: Both
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Cost**: 10 gp
 - **Weight**: 4.0 lbs.
 

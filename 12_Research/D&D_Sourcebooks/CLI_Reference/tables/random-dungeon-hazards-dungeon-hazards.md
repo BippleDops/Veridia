@@ -25,12 +25,12 @@ world: Both
 
 | dice: d20 | Hazard |
 |-----------|--------|
-| 1-3 | [[/03_Mechanics/CLI/traps-hazards/brown-mold-xdmg|Brown mold]] |
-| 4-8 | [[/03_Mechanics/CLI/traps-hazards/green-slime-xdmg|Green slime]] |
-| 9-10 | [[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm|Shrieker]] |
-| 11-15 | [[/03_Mechanics/CLI/traps-hazards/webs-xdmg|Spiderwebs]] |
-| 16-17 | [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|Violet fungus]] |
-| 18-20 | [[/03_Mechanics/CLI/traps-hazards/yellow-mold-xdmg|Yellow mold]] |
+| 1-3 | [[brown-mold-xdmg|Brown mold]] |
+| 4-8 | [[green-slime-xdmg|Green slime]] |
+| 9-10 | [[shrieker-fungus-xmm|Shrieker]] |
+| 11-15 | [[webs-xdmg|Spiderwebs]] |
+| 16-17 | [[violet-fungus-xmm|Violet fungus]] |
+| 18-20 | [[yellow-mold-xdmg|Yellow mold]] |
 ^dungeon-hazards
 
 ## Player-Facing Summary

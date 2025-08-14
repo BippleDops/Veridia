@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-eladrin-mpmm-v1-winter-eladrin-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/winter-eladrin-mpmm|Winter Eladrin]]
+# [[winter-eladrin-mpmm|Winter Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -47,7 +47,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Winter Eladrin (MPMM)"
@@ -78,14 +78,14 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Magic Resistance"
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the eladrin for 1 minute.\
-      \ While [[/03_Mechanics/CLI/conditions#Charmed|charmed]] in this way, the creature\
-      \ has disadvantage on ability checks and saving throws. The [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ [[conditions#Charmed|charmed]] by the eladrin for 1 minute.\
+      \ While [[conditions#Charmed|charmed]] in this way, the creature\
+      \ has disadvantage on ability checks and saving throws. The [[conditions#Charmed|charmed]]\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
       \ or the effect ends for it, the creature is immune to any eladrin's Sorrowful\
       \ Presence for the next 24 hours.\n\nWhenever the eladrin deals damage to the\
-      \ [[/03_Mechanics/CLI/conditions#Charmed|charmed]] creature, the [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ [[conditions#Charmed|charmed]] creature, the [[conditions#Charmed|charmed]]\
       \ creature can repeat the saving throw, ending the effect on itself on a success."
     "name": "Sorrowful Presence"
 "actions":
@@ -101,8 +101,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[/03_Mechanics/CLI/spells/fog-cloud-xphb|fog cloud]],\
-      \ [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|gust of wind]], [[/03_Mechanics/CLI/spells/sleet-storm-xphb|sleet storm]]"
+      \ DC 16):\n\nAt will: [[fog-cloud-xphb|fog cloud]],\
+      \ [[gust-of-wind-xphb|gust of wind]], [[sleet-storm-xphb|sleet storm]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\

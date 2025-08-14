@@ -35,14 +35,14 @@ world: Both
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]] (self only)  
-- **1/day each.** [[/03_Mechanics/CLI/spells/blindness-deafness-xphb|blindness/deafness]], [[/03_Mechanics/CLI/spells/blur-xphb|blur]], [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]]  
+- **At will.** [[nondetection-xphb|nondetection]] (self only)  
+- **1/day each.** [[blindness-deafness-xphb|blindness/deafness]], [[blur-xphb|blur]], [[disguise-self-xphb|disguise self]]  
 
 Intelligence is your spellcasting ability for these spells.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks to hide in rocky terrain.
+You have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks to hide in rocky terrain.
 
 ### Gnome Cunning
 

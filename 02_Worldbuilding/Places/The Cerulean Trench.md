@@ -3,6 +3,10 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- aquatic
 - both
 - complete
 - content/location
@@ -15,62 +19,68 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-cerulean-trench-the-cerulean-trench.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-cerulean-trench-the-cerulean-trench.svg]]
 
 
 # The Cerulean Trench - The Drowning Scar
 
 ## Overview
-The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[02_Worldbuilding/Places/The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[02_Worldbuilding/People/The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[02_Worldbuilding/Lore/Aquabyssos World Overview]].
+
+The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[12_Research/D&D_Statblocks/The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[12_Research/D&D_Statblocks/The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[12_Research/D&D_References/Aquabyssos World Overview]].
 
 ## Regions
 
 ### The Azure Shelf (5000-7000 feet)
-The "shallow" entry area where [[02_Worldbuilding/Places/Depth Wardens]] maintain observation posts. [[02_Worldbuilding/Places/Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
+
+The "shallow" entry area where [[12_Research/D&D_References/Depth Wardens]] maintain observation posts. [[12_Research/D&D_References/Scout Captain Vera Deepwatch]] leads expeditions from Outpost Sigma, the last "safe" structure before the true trench.
 
 ### The Luminous Drop (7000-10000 feet)
-Vertical cliff faces lined with glowing crystalline formations. [[02_Worldbuilding/Places/The Trencher Folk]] have settlements carved into the walls here, led by [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]].
+
+Vertical cliff faces lined with glowing crystalline formations. [[12_Research/D&D_References/The Trencher Folk]] have settlements carved into the walls here, led by [[12_Research/D&D_References/Elder Whisper-In-The-Dark]].
 
 ### The Pressure Cathedral (10000-12000 feet)
-A region where water pressure creates natural formations resembling gothic architecture. [[02_Worldbuilding/Places/Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[02_Worldbuilding/Places/The Deepmind]] here.
+
+A region where water pressure creates natural formations resembling gothic architecture. [[12_Research/D&D_References/Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[12_Research/D&D_Statblocks/The Deepmind]] here.
 
 ### The Void Gardens (12000-15000 feet)
-Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[02_Worldbuilding/Places/Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[02_Worldbuilding/Places/Lumengarde]].
+
+Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[12_Research/D&D_References/Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[12_Research/D&D_References/Lumengarde]].
 
 ### The Unknown Deep (15000+ feet)
+
 No one who has descended below 15000 feet has returned sane. Expedition logs speak of "singing stones" and "the dreaming city."
 
 ## Notable Features
 
 ### The Drowning Gate
-Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[02_Worldbuilding/People/Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
+
+Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[12_Research/D&D_References/Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
 
 ### The Memory Streams
+
 Currents of pure Cerulean Breath that show visions of the past to those who swim through them. Highly addictive and mentally dangerous.
 
 ### The Titan's Graveyard
-Collection of massive skeletons from creatures that shouldn't exist. [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]] claims one skeleton is still partially alive.
+
+Collection of massive skeletons from creatures that shouldn't exist. [[12_Research/D&D_References/Beast Master Krell Chainbreaker]] claims one skeleton is still partially alive.
 
 ### The Echo Chamber
-Natural formation that amplifies sound across impossible distances. [[02_Worldbuilding/Places/The Free Current]] uses it to send coded messages.
+
+Natural formation that amplifies sound across impossible distances. [[12_Research/D&D_References/The Free Current]] uses it to send coded messages.
 
 ### The First Temple
+
 Partially collapsed structure that predates the drowning by millennia. Contains references to "the sleeping one" and "the necessary flood."
 
 ## Inhabitants
 
 ### The Trencher Folk
+
 Humans who have adapted to extreme depths through disturbing modifications. They worship the trench itself and trade depth-crystals for supplies.
 
 ### Cerulean Spawn
+
 Creatures mutated by concentrated exposure to the Cerulean Breath. Includes:
 - Glass eels that can phase through matter
 - Pressure sharks that implode their prey
@@ -78,9 +88,11 @@ Creatures mutated by concentrated exposure to the Cerulean Breath. Includes:
 - Depth angels (origin unknown, possibly hallucinations)
 
 ### The Lost Expeditions
+
 Various groups that went too deep and never returned, occasionally spotted as ghostly figures in the blue glow.
 
 ## Hazards
+
 - **Pressure Cascades**: Sudden pressure changes that can crush or explode victims
 - **Cerulean Poisoning**: Overexposure causing physical and mental transformation
 - **Depth Madness**: Psychological condition causing suicidal desire to descend
@@ -88,6 +100,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - **The Call**: Psychic summons drawing victims deeper
 
 ## Resources
+
 - **Depth Crystals**: Formed under extreme pressure, store massive magical energy
 - **Cerulean Pearls**: Concentrated Cerulean Breath in solid form
 - **Pressure Wood**: Compressed ancient trees, harder than steel
@@ -95,13 +108,15 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - **Void Kelp**: Alchemical component for depth resistance potions
 
 ## Current Activity
+
 1. Increased creature migrations toward the surface
 2. The blue glow intensifying over past months
-3. [[02_Worldbuilding/Lore/Order of the Sunken Crown]] expedition hasn't returned
+3. [[12_Research/D&D_References/Order of the Sunken Crown]] expedition hasn't returned
 4. Tremors suggesting something massive moving below
 5. Trencher Folk fleeing upward, refusing to say why
 
 ## Secrets
+
 > [!warning] DM Only
 > - The trench is the prison of the entity that caused the drowning
 > - The Cerulean Breath is the entity's blood/essence
@@ -110,13 +125,15 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 > - The Drowning Gate is counting down to something
 
 ## Exploration Hooks
+
 - Ancient map showing safe path to 12000 feet
 - Trencher Folk offering to guide party for mysterious payment
-- Missing [[02_Worldbuilding/Places/Depth Wardens]] patrol needs rescue
+- Missing [[12_Research/D&D_References/Depth Wardens]] patrol needs rescue
 - Rare component only found in Void Gardens needed
-- Visions in [[02_Worldbuilding/Places/New Tethys]] pointing to something in the trench
+- Visions in [[12_Research/D&D_References/New Tethys]] pointing to something in the trench
 
 ## Random Encounters (d12)
+
 1. Trencher Folk trading party, speaking in whispers
 2. School of glass eels phasing through area
 3. Depth Warden observation post, abandoned
@@ -131,34 +148,37 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 12. Something massive moving in the darkness below
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Trencher Folk leader
-- [[02_Worldbuilding/Places/Scout Captain Vera Deepwatch]] - Depth Warden commander
-- [[02_Worldbuilding/Places/Mad Prophet Silas the Depth-Touched]] - Receives visions
-- [[02_Worldbuilding/Places/Doctor Silas Voidtouch]] - Harvests specimens
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Studies the anomaly
+
+- [[12_Research/D&D_References/Elder Whisper-In-The-Dark]] - Trencher Folk leader
+- [[12_Research/D&D_References/Scout Captain Vera Deepwatch]] - Depth Warden commander
+- [[12_Research/D&D_References/Mad Prophet Silas the Depth-Touched]] - Receives visions
+- [[12_Research/D&D_References/Doctor Silas Voidtouch]] - Harvests specimens
+- [[12_Research/D&D_References/Sage Lysander Deepthought]] - Studies the anomaly
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Pressure's End]] - Monitors the trench
-- [[02_Worldbuilding/Places/The Primordial Vaults]] - May connect at deepest levels
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Overlapping territory
-- [[02_Worldbuilding/Places/The Wandering Atoll]] - Floats above occasionally
+
+- [[12_Research/D&D_References/Pressure's End]] - Monitors the trench
+- [[12_Research/D&D_References/The Primordial Vaults]] - May connect at deepest levels
+- [[12_Research/D&D_References/The Hadal Depths]] - Overlapping territory
+- [[12_Research/D&D_References/The Wandering Atoll]] - Floats above occasionally
 
 ## Associated Quests
-- [[02_Worldbuilding/Places/Into the Blue]] - Investigate the increasing glow
-- [[02_Worldbuilding/Places/The Lost Expedition]] - Find missing explorers
-- [[02_Worldbuilding/Places/Depth Crystal Harvest]] - Gather rare resources
-- [[02_Worldbuilding/Places/The Drowning Truth]] - Discover what really happened
-- [[02_Worldbuilding/Places/Voices from Below]] - Investigate the Call
+
+- [[12_Research/D&D_References/Into the Blue]] - Investigate the increasing glow
+- [[12_Research/D&D_References/The Lost Expedition]] - Find missing explorers
+- [[12_Research/D&D_References/Depth Crystal Harvest]] - Gather rare resources
+- [[12_Research/D&D_Statblocks/The Drowning Truth]] - Discover what really happened
+- [[12_Research/D&D_References/Voices from Below]] - Investigate the Call
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[12_Research/D&D_Statblocks/Forge of War]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[12_Research/D&D_Statblocks/Crystalline Depths]]
+- [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
+- [[12_Research/D&D_Statblocks/The Maw of Darkness]]
+- [[12_Research/D&D_Statblocks/Traveling Merchant Finn]]
 
 
 ## History
@@ -210,16 +230,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[02_Worldbuilding/People/The Cerulean Breath]]
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
-- [[02_Worldbuilding/Places/Depth Crystal Harvest]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Into the Blue]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Free Current]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[12_Research/D&D_References/Fortress of the Deeps]]
+- [[12_Research/D&D_References/Order of the Sunken Crown]]
+- [[12_Research/D&D_Statblocks/The Cerulean Breath]]
+- [[12_Research/D&D_References/Beast Master Krell Chainbreaker]]
+- [[12_Research/D&D_References/Depth Crystal Harvest]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_References/Into the Blue]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+- [[12_Research/D&D_References/The Free Current]]
+- [[12_Research/D&D_References/The Hadal Depths]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

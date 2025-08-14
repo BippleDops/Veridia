@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flameskull-xmm-flameskull-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/flameskull-xmm|Flameskull]]
+# [[flameskull-xmm|Flameskull]]
 *Source: Monster Manual (2024) p. 120*  
 
 ## Flameskull
@@ -76,27 +76,27 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
   - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
-  - "desc": "The flameskull sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 15-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The flameskull sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 15-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 15 feet."
     "name": "Illumination"
-  - "desc": "The flameskull has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The flameskull has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "If the flameskull is destroyed, it regains all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ in 1 hour unless Holy Water is sprinkled on its remains or the [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil\
+  - "desc": "If the flameskull is destroyed, it regains all its [[hit-points-xphb|Hit Points]]\
+      \ in 1 hour unless Holy Water is sprinkled on its remains or the [[dispel-evil-and-good-xphb|Dispel Evil\
       \ and Good]] spell is cast\
       \ on them."
     "name": "Undead Restoration"
@@ -108,9 +108,9 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
     "name": "Fire Ray"
   - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
       \ or Material components and using Intelligence as the spellcasting ability\
-      \ (spell save DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]]\n\
-      \n2/day: [[/03_Mechanics/CLI/spells/magic-missile-xphb|Magic Missile]]\
-      \ (level 2 version)\n\n1/day: [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]]"
+      \ (spell save DC 13):\n\nAt will: [[mage-hand-xphb|Mage Hand]]\n\
+      \n2/day: [[magic-missile-xphb|Magic Missile]]\
+      \ (level 2 version)\n\n1/day: [[fireball-xphb|Fireball]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -3,6 +3,9 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- crystal-enhanced
+- aerial
+- aquatic
 - both
 - complete
 - content/lore
@@ -20,10 +23,10 @@ world: Both
 ---
 
 
-
 # Name Etymology Guide
 
 ## Summary
+
 A comprehensive guide to naming conventions, linguistic origins, and cultural significance of personal names, place names, and institutional titles across both Aquabyssos and Aethermoor.
 
 ## Aquabyssos Naming Conventions
@@ -31,6 +34,7 @@ A comprehensive guide to naming conventions, linguistic origins, and cultural si
 ### **Personal Names**
 
 #### **Depth-Based Names**
+
 Names reflecting the underwater environment and pressure adaptation:
 
 **Given Names:**
@@ -49,6 +53,7 @@ Names reflecting the underwater environment and pressure adaptation:
 - **Currentborn** - Family with water navigation heritage
 
 #### **Pressure and Current Terminology**
+
 Names incorporating underwater physics and navigation:
 
 **Technical Heritage:**
@@ -64,6 +69,7 @@ Names incorporating underwater physics and navigation:
 - **Depth** markers: Shallowborn, Middepth, Deepreach
 
 #### **Memory and Knowledge Names**
+
 Reflecting the importance of preserved wisdom:
 
 **Memory-Based:**
@@ -76,6 +82,7 @@ Reflecting the importance of preserved wisdom:
 ### **Titles and Honorifics**
 
 #### **Depth Rank System**
+
 Social hierarchy reflected in naming conventions:
 
 **Surface Tier:**
@@ -94,6 +101,7 @@ Social hierarchy reflected in naming conventions:
 - **Depth-** prefix (Depth-Lord, Depth-Keeper)
 
 #### **Professional Titles**
+
 Guild and occupation-based naming:
 
 **Mining Guild:**
@@ -114,6 +122,7 @@ Guild and occupation-based naming:
 ### **Place Names**
 
 #### **Aquabyssos Geographic Naming**
+
 Environmental features determining location names:
 
 **Depth References:**
@@ -135,6 +144,7 @@ Environmental features determining location names:
 ### **Personal Names**
 
 #### **Wind and Sky-Based Names**
+
 Names reflecting aerial environment and atmospheric phenomena:
 
 **Given Names:**
@@ -153,6 +163,7 @@ Names reflecting aerial environment and atmospheric phenomena:
 - **Crystalline** - Family associated with crystal technology
 
 #### **Crystal and Resonance Terminology**
+
 Names incorporating crystal technology and harmonic principles:
 
 **Technical Heritage:**
@@ -168,6 +179,7 @@ Names incorporating crystal technology and harmonic principles:
 - **-tone** suffix: Puretone, Brightone, Windtone
 
 #### **Altitude and Flight Names**
+
 Reflecting sky-based culture and elevation mastery:
 
 **Height References:**
@@ -179,6 +191,7 @@ Reflecting sky-based culture and elevation mastery:
 ### **Titles and Honorifics**
 
 #### **Altitude Rank System**
+
 Social hierarchy based on elevation capability:
 
 **Ground Level:**
@@ -197,6 +210,7 @@ Social hierarchy based on elevation capability:
 - **Celestial-** prefix (Celestial-Blessed, Celestial-Born)
 
 #### **Professional Titles**
+
 Guild and occupation-based naming:
 
 **Crystal Engineering:**
@@ -217,6 +231,7 @@ Guild and occupation-based naming:
 ### **Place Names**
 
 #### **Aethermoor Geographic Naming**
+
 Atmospheric and elevation-based location names:
 
 **Wind References:**
@@ -237,6 +252,7 @@ Atmospheric and elevation-based location names:
 ## Cross-Realm and Mixed Heritage Naming
 
 ### **Inter-Realm Family Names**
+
 Names reflecting cross-cultural marriages and mixed communities:
 
 **Compound Heritage:**
@@ -252,6 +268,7 @@ Names reflecting cross-cultural marriages and mixed communities:
 - **-bond** suffix: Crossbond, Unitybond, Harmonybond
 
 ### **Professional Cross-Realm Titles**
+
 Occupations requiring expertise in both realms:
 
 **Translation Services:**
@@ -274,6 +291,7 @@ Occupations requiring expertise in both realms:
 ### **Aquabyssos Regional Names**
 
 #### **Hadal Depths Region**
+
 Names reflecting extreme depth culture:
 
 **Personal Names:**
@@ -287,6 +305,7 @@ Names reflecting extreme depth culture:
 - **Deep-** extreme locations: Deep Sanctuary, Deep Contemplation, Deep Mystery
 
 #### **Thermal Vent Regions**
+
 Names incorporating geothermal features:
 
 **Personal Names:**
@@ -302,6 +321,7 @@ Names incorporating geothermal features:
 ### **Aethermoor Regional Names**
 
 #### **Northern Highland Region**
+
 Names reflecting mountain and high-altitude culture:
 
 **Personal Names:**
@@ -315,6 +335,7 @@ Names reflecting mountain and high-altitude culture:
 - **Stone** features: Stone Plaza, Echo Stone, Wind Stone Gardens
 
 #### **Crystal Valley Communities**
+
 Names incorporating heavy crystal technology integration:
 
 **Personal Names:**
@@ -332,6 +353,7 @@ Names incorporating heavy crystal technology integration:
 ### **Forbidden Name Elements**
 
 #### **Aquabyssos Taboos**
+
 Names considered unlucky or dangerous:
 
 **Void References:**
@@ -345,6 +367,7 @@ Names considered unlucky or dangerous:
 - Memorial names only used for honoring specific dead
 
 #### **Aethermoor Taboos**
+
 Names considered inappropriate or dangerous:
 
 **Fall References:**
@@ -360,6 +383,7 @@ Names considered inappropriate or dangerous:
 ### **Sacred Name Restrictions**
 
 #### **Religious Protections**
+
 Names reserved for religious contexts:
 
 **Aquabyssos Sacred Names:**
@@ -373,6 +397,7 @@ Names reserved for religious contexts:
 - **Sacred Storm** names limited to weather-mage colleges
 
 #### **Royal and Noble Restrictions**
+
 Names indicating high social status:
 
 **Exclusive Titles:**
@@ -388,18 +413,21 @@ Names indicating high social status:
 ## Practical Applications
 
 ### **For Dungeon Masters**
+
 - Use naming conventions to quickly establish character backgrounds
 - Name complexity indicates education level and social status
 - Regional name variations help establish geographic origins
 - Professional naming helps identify guild affiliations and expertise
 
 ### **For Players**
+
 - Character names should reflect cultural background and depth/altitude adaptation
 - Name changes can indicate character development or cultural adoption
 - Professional titles unlock social recognition and guild access
 - Mixed heritage names create interesting roleplay opportunities
 
 ### **Campaign Integration**
+
 - Important NPCs should have names reflecting their cultural significance
 - Place names provide immediate environmental and cultural context
 - Professional naming creates realistic social hierarchies
@@ -411,12 +439,12 @@ Names indicating high social status:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
-- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[02_Worldbuilding/Lore/Professional Terminology]]
-- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]]
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[12_Research/D&D_References/Depth Speak Variations]]
+- [[12_Research/D&D_References/Wind Song Linguistic Guide]]
+- [[12_Research/D&D_References/Common Idioms and Sayings]]
+- [[12_Research/D&D_References/Professional Terminology]]
+- [[12_Research/D&D_References/Cultural Exchange Society]]
+- [[12_Research/D&D_References/Marriage Between Worlds]]
 
 ## Player-Facing Summary
 
@@ -437,3 +465,9 @@ Legends speak of Name Etymology Guide as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-community-support-networks-community-support-networks.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-community-support-networks-community-support-networks.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Community Support Networks]]
+- [[12_Research/D&D_References/Community Support Networks]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[12_Research/D&D_References/Temple of Divine Order]]

@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg]]
 
 
 # Market Mystery
@@ -170,7 +167,7 @@ This investigation should emphasize deductive reasoning over combat. Provide mul
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -182,6 +179,6 @@ Legends speak of Market Mystery as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market Mystery]]
+- [[Market Mystery]]
 
 <!-- enriched: true -->

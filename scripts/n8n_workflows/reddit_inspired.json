@@ -1,0 +1,52 @@
+{
+  "name": "Reddit-Inspired Asset Generation",
+  "nodes": [
+    {
+      "parameters": {
+        "url": "https://www.reddit.com/r/DnDBehindTheScreen/top.json?limit=10",
+        "options": {
+          "response": {
+            "responseFormat": "json"
+          }
+        }
+      },
+      "name": "Reddit DnD",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "functionCode": "\n// Extract creative ideas from Reddit posts\nconst posts = items[0].json.data.children;\nconst ideas = posts.map(post => ({\n  title: post.data.title,\n  score: post.data.score,\n  prompt: `Fantasy scene inspired by: ${post.data.title}`\n}));\nreturn ideas.slice(0, 5).map(idea => ({ json: idea }));\n            "
+      },
+      "name": "Process Reddit",
+      "type": "n8n-nodes-base.function",
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:8188/prompt",
+        "method": "POST",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "={{$json}}"
+            }
+          ]
+        }
+      },
+      "name": "Generate in ComfyUI",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        650,
+        300
+      ]
+    }
+  ]
+}

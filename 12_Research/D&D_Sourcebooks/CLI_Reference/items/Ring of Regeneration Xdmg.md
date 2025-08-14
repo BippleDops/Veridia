@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/ring-of-regeneration.webp#right)
 
 
-While wearing this ring, you regain `d6` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] every 10 minutes if you have at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] the whole time.
+While wearing this ring, you regain `d6` [[hit-points-xphb|Hit Points]] every 10 minutes if you have at least 1 [[hit-points-xphb|Hit Point]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [[hit-points-xphb|Hit Point]] the whole time.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-reef-communities-the-reef-communities.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-reef-communities-the-reef-communities.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Reef Communities]]
+- [[12_Research/D&D_References/The Reef Communities]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[12_Research/D&D_References/The Festival of Rising Tides]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

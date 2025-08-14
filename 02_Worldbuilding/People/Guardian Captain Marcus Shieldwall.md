@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Guardian Captain Marcus Shieldwall]]
+- [[Guardian Captain Marcus Shieldwall]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[Cathedral of Light]]

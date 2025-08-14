@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]
 
 ## Player-Facing Summary
 

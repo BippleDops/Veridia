@@ -21,12 +21,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg]]
 
 
 # The Tidal Council
@@ -116,9 +112,9 @@ The Tidal Council provides excellent opportunities for environmental adventures,
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[02_Worldbuilding/People/The Current Merchants]]
-- [[02_Worldbuilding/People/The Tidecaller]]
+- [[The Emperor's Gambit]]
+- [[The Current Merchants]]
+- [[The Tidecaller]]
 
 
 ## Appearance
@@ -160,6 +156,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Tidal Council]]
+- [[The Tidal Council]]
 
 <!-- enriched: true -->

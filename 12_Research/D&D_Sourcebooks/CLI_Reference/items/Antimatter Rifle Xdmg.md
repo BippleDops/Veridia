@@ -31,7 +31,7 @@ world: Both
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Reload|Reload]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*

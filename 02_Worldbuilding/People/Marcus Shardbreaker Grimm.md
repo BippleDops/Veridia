@@ -11,13 +11,8 @@ tags:
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg]]
 
 
 # Marcus "Shardbreaker" Grimm
@@ -60,15 +55,15 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 - **Crystal Warden Badge:** Scratched out but still carries it
 
 ## Relationships
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
+- **[[Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
+- **[[Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
+- **[[Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
+- **[[High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
+- **[[Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
 - **Sister Morwyn Veilkeeper**: Warned him about his eventual fate if corruption continues
 
 ## Current Activities
-- Hunting a crystal-infected cult in [[02_Worldbuilding/Places/Port Meridian]]'s quarantine zone
+- Hunting a crystal-infected cult in [[Port Meridian]]'s quarantine zone
 - Investigating reports of "living crystals" that move with purpose
 - Secretly documenting stages of crystal infection for personal research
 - Building a network of other infected individuals who refuse to give in
@@ -132,6 +127,6 @@ Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]
+- [[Marcus Shardbreaker Grimm]]
 
 <!-- enriched: true -->

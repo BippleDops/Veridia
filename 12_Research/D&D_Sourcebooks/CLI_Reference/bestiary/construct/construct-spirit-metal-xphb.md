@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-metal-xphb-construct-spirit-metal-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/construct-spirit-metal-xphb|Construct Spirit (Metal)]]
+# [[construct-spirit-metal-xphb|Construct Spirit (Metal)]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "traits":

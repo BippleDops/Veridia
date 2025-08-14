@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-bathysmal-lord-bathysmal.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-bathysmal-lord-bathysmal.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace]]
 
 ## Player-Facing Summary
 

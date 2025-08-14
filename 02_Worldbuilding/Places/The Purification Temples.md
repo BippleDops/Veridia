@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -15,20 +16,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-purification-temples-the-purification-temples.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-purification-temples-the-purification-temples.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[12_Research/D&D_References/Crystal Corruption Taboos]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[12_Research/D&D_References/Crystal Corruption Taboos]]
 
 ## Player-Facing Summary
 

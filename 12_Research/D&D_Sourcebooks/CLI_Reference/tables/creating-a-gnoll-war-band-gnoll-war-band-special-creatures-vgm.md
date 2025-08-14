@@ -25,16 +25,16 @@ status: active
 
 | dice: d20 | Special Creatures |
 |-----------|-------------------|
-| 1 | 1 [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|Barlgura]] |
-| 2-5 | `3d6` [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|Dretches]] |
-| 6-8 | `2d6` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|Ghouls]] |
-| 9-10 | `2d6` [[/03_Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm|Gnoll Witherlings]] |
-| 11 | 1 [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|Hezrou]] |
-| 12-13 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/leucrotta-mpmm|Leucrottas]] |
-| 14-16 | `2d6` [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|Manes]] |
-| 17-18 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/maw-demon-mpmm|Maw Demons]] |
-| 19 | 1 [[/03_Mechanics/CLI/bestiary/fiend/shoosuva-mpmm|Shoosuva]] |
-| 20 | `d3` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Trolls]] |
+| 1 | 1 [[barlgura-xmm|Barlgura]] |
+| 2-5 | `3d6` [[dretch-xmm|Dretches]] |
+| 6-8 | `2d6` [[ghoul-xmm|Ghouls]] |
+| 9-10 | `2d6` [[gnoll-witherling-mpmm|Gnoll Witherlings]] |
+| 11 | 1 [[hezrou-xmm|Hezrou]] |
+| 12-13 | `d4` [[leucrotta-mpmm|Leucrottas]] |
+| 14-16 | `2d6` [[manes-xmm|Manes]] |
+| 17-18 | `2d4` [[maw-demon-mpmm|Maw Demons]] |
+| 19 | 1 [[shoosuva-mpmm|Shoosuva]] |
+| 20 | `d3` [[troll-xmm|Trolls]] |
 ^gnoll-war-band-special-creatures
 
 ## Player-Facing Summary

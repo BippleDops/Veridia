@@ -28,7 +28,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]] spell (no [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain the effect of the [[clairvoyance-xphb|Clairvoyance]] spell (no [[conditions#Concentration|Concentration]] required).
 
 An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.
 

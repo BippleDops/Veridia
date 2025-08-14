@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-church-of-the-tidal-throne-church-of-the-tidal-throne.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-church-of-the-tidal-throne-church-of-the-tidal-throne.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
+- [[The Bathyal Palace]]
 
 ## Player-Facing Summary
 

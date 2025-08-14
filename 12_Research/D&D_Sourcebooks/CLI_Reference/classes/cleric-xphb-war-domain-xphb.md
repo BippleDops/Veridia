@@ -19,7 +19,7 @@ world: Both
 ---
 
 # War Domain
-*[[./cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression
@@ -72,27 +72,27 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]], [[/03_Mechanics/CLI/spells/magic-weapon-xphb|Magic Weapon]], [[/03_Mechanics/CLI/spells/shield-of-faith-xphb|Shield of Faith]], [[/03_Mechanics/CLI/spells/spiritual-weapon-xphb|Spiritual Weapon]] |
-| 5th | [[/03_Mechanics/CLI/spells/crusaders-mantle-xphb|Crusader's Mantle]], [[/03_Mechanics/CLI/spells/spirit-guardians-xphb|Spirit Guardians]] |
-| 7th | [[/03_Mechanics/CLI/spells/fire-shield-xphb|Fire Shield]], [[/03_Mechanics/CLI/spells/freedom-of-movement-xphb|Freedom of Movement]] |
-| 9th | [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]], [[/03_Mechanics/CLI/spells/steel-wind-strike-xphb|Steel Wind Strike]] |
+| 3rd | [[guiding-bolt-xphb|Guiding Bolt]], [[magic-weapon-xphb|Magic Weapon]], [[shield-of-faith-xphb|Shield of Faith]], [[spiritual-weapon-xphb|Spiritual Weapon]] |
+| 5th | [[crusaders-mantle-xphb|Crusader's Mantle]], [[spirit-guardians-xphb|Spirit Guardians]] |
+| 7th | [[fire-shield-xphb|Fire Shield]], [[freedom-of-movement-xphb|Freedom of Movement]] |
+| 9th | [[hold-monster-xphb|Hold Monster]], [[steel-wind-strike-xphb|Steel Wind Strike]] |
 ^war-domain-spells
 
 ### War Priest (Level 3)
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can make one attack with a weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]]. You can use this [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+As a [[bonus-action-xphb|Bonus Action]], you can make one attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]]. You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
 ### Guided Strike (Level 3)
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[reaction-xphb|Reaction]] to do so.
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [[/03_Mechanics/CLI/spells/shield-of-faith-xphb|Shield of Faith]] or [[/03_Mechanics/CLI/spells/spiritual-weapon-xphb|Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition, or die.
+You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb|Shield of Faith]] or [[spiritual-weapon-xphb|Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[conditions#Concentration|Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[conditions#Incapacitated|Incapacitated]] condition, or die.
 
 ### Avatar of Battle (Level 17)
 
-You gain [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
+You gain [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
 
 ## Player-Facing Summary
 

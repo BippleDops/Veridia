@@ -28,18 +28,18 @@ world: Both
 
 | dice: d12 | Brute(s) |
 |-----------|----------|
-| 1 | [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbears]] |
-| 2 | [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelgangers]] |
-| 3 | [[/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm|Ettercaps]] |
-| 4 | [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|Gargoyles]] |
-| 5 | [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|Jackalweres]] |
-| 6 | [[/03_Mechanics/CLI/bestiary/monstrosity/kenku-xmm|Kenku]] |
-| 7 | [[/03_Mechanics/CLI/bestiary/fey/meenlock-mpmm|Meenlocks]] |
-| 8 | [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|Oni]] |
-| 9 | [[/03_Mechanics/CLI/bestiary/fey/quickling-mpmm|Quicklings]] |
-| 10 | [[/03_Mechanics/CLI/bestiary/fey/redcap-mpmm|Redcaps]] |
-| 11 | [[/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm|Wererats]] |
-| 12 | [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|Werewolves]] |
+| 1 | [[bugbear-warrior-xmm|Bugbears]] |
+| 2 | [[doppelganger-xmm|Doppelgangers]] |
+| 3 | [[ettercap-xmm|Ettercaps]] |
+| 4 | [[gargoyle-xmm|Gargoyles]] |
+| 5 | [[jackalwere-xmm|Jackalweres]] |
+| 6 | [[kenku-xmm|Kenku]] |
+| 7 | [[meenlock-mpmm|Meenlocks]] |
+| 8 | [[oni-xmm|Oni]] |
+| 9 | [[quickling-mpmm|Quicklings]] |
+| 10 | [[redcap-mpmm|Redcaps]] |
+| 11 | [[wererat-xmm|Wererats]] |
+| 12 | [[werewolf-xmm|Werewolves]] |
 ^brutes
 
 ## Player-Facing Summary

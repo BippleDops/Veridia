@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - aquabyssos
 - complete
 - content/location
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.118049+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deepmind]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Deepmind]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

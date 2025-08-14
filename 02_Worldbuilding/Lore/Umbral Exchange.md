@@ -9,6 +9,8 @@ operational_status: Active with Restrictions
 significance: Critical Economic Infrastructure
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
 - aquabyssos
 - complete
 - content/lore
@@ -31,24 +33,22 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Umbral Exchange
+
 *The Shadow Market of Dimensional Commerce*
 
 > *"The Exchange exists in the spaces between spaces, where shadow meets substance and possibility becomes commodity. Here, traders don't simply exchange goods—they exchange fragments of reality itself, pieces of worlds that exist in the twilight between dimensions. But remember: in the realm of shadows, every transaction leaves its mark, and some debts can only be paid in darkness."*
-> — [[02_Worldbuilding/Lore/Prime Shadow Trader Whisper Voidwright]], Director of Umbral Commerce Operations
+> — [[12_Research/D&D_References/Prime Shadow Trader Whisper Voidwright]], Director of Umbral Commerce Operations
 
 ## Overview
 
 The Umbral Exchange represents Aquabyssos' most sophisticated venture into dimensional commerce—a complex technological and magical infrastructure that enables trade and communication across the boundaries between different planes of existence. This revolutionary system harnesses shadow magic and dimensional manipulation to create stable interfaces with parallel realities, alternate dimensions, and pocket realms, opening unprecedented opportunities for economic growth and cultural exchange.
 
-Located in the deepest, most magically stable areas of [[02_Worldbuilding/Places/Aquabyssos]], the Exchange consists of multiple interconnected facilities that process, store, and facilitate transactions involving goods, services, and even abstract concepts that exist across dimensional boundaries. The technology combines advanced magical theory with practical engineering to create what amounts to a permanent portal network dedicated to commercial activities.
+Located in the deepest, most magically stable areas of [[12_Research/D&D_References/Aquabyssos]], the Exchange consists of multiple interconnected facilities that process, store, and facilitate transactions involving goods, services, and even abstract concepts that exist across dimensional boundaries. The technology combines advanced magical theory with practical engineering to create what amounts to a permanent portal network dedicated to commercial activities.
 
 The system operates by creating controlled "umbral spaces"—areas where normal physical laws become flexible and dimensional boundaries can be safely manipulated. Within these spaces, traders can interact with entities and markets from other dimensions while maintaining the security and stability necessary for reliable commerce.
 
-Recent expansions have focused on establishing connections with [[02_Worldbuilding/Places/Aethermoor]] and other known dimensional neighbors, creating a growing network of inter-dimensional trade relationships that promise to transform the economic landscape of both participating civilizations while presenting new challenges and opportunities for regulation, security, and cultural integration.
+Recent expansions have focused on establishing connections with [[12_Research/D&D_References/Aethermoor]] and other known dimensional neighbors, creating a growing network of inter-dimensional trade relationships that promise to transform the economic landscape of both participating civilizations while presenting new challenges and opportunities for regulation, security, and cultural integration.
 
 ## Technical Infrastructure and Architecture
 
@@ -181,7 +181,7 @@ Sophisticated systems monitor compliance with interdimensional commerce regulati
 The Exchange maintains active commercial relationships with several dimensional partners:
 
 **Active Dimensional Markets:**
-- **[[02_Worldbuilding/Places/Aethermoor]] Connection**: The most developed interdimensional trading relationship, focusing on technological and cultural exchange
+- **[[12_Research/D&D_References/Aethermoor]] Connection**: The most developed interdimensional trading relationship, focusing on technological and cultural exchange
 - **The Twilight Markets**: Shadow-realm commerce specializing in abstract concepts and philosophical commodities
 - **The Crystal Dimensions**: Trade in crystalline technologies and energy-based products
 - **The Time-Stream Merchants**: Limited trade in temporal effects and time-manipulation services
@@ -481,12 +481,12 @@ Involvement with Exchange operations provides numerous opportunities for charact
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location hosting Exchange operations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary interdimensional trading partner
-- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
-- [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]] - Major Exchange trading partner
-- [[02_Worldbuilding/People/Prime Shadow Trader Whisper Voidwright|02 Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
+- [[12_Research/D&D_References/Aquabyssos]] - Primary location hosting Exchange operations
+- [[12_Research/D&D_References/Aethermoor]] - Primary interdimensional trading partner
+- [[12_Research/D&D_References/Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
+- [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
+- [[12_Research/D&D_References/The Liminal Trading Company]] - Major Exchange trading partner
+- [[Prime Shadow Trader Whisper Voidwright|02 Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
 - [[02_Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper|02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
 - [[02_Worldbuilding/People/Portal Engineer Shade Linkwright|02 Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
 - [[02_Worldbuilding/People/Cultural Liaison Twilight Bridgewalker|02 Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
@@ -497,15 +497,15 @@ The Umbral Exchange represents more than a technological achievement or economic
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Festival]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Crystal Festival]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Deep Harvest]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Memory Weapon Arms Race]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -529,5 +529,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
 
 
-You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws against spells while you wear this cloak.
+You have [[advantage-xphb|Advantage]] on saving throws against spells while you wear this cloak.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

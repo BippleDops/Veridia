@@ -19,7 +19,7 @@ world: Both
 ---
 
 # Grave Domain
-*[[./cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 19*  
 
 > [!tldr] Class and Feature Progression
@@ -61,24 +61,24 @@ world: Both
 
 ### Grave Domain (Level 3)
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [[/03_Mechanics/CLI/deities/eberron-the-undying-court|the Undying Court]], [[/03_Mechanics/CLI/deities/greek-hades|Hades]], [[/03_Mechanics/CLI/deities/egyptian-anubis|Anubis]], and [[/03_Mechanics/CLI/deities/egyptian-osiris|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [[eberron-the-undying-court|the Undying Court]], [[greek-hades|Hades]], [[egyptian-anubis|Anubis]], and [[egyptian-osiris|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
 **Grave Domain Spells**
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/03_Mechanics/CLI/spells/bane-xphb|bane]], [[/03_Mechanics/CLI/spells/false-life-xphb|false life]] |
-| 3rd | [[/03_Mechanics/CLI/spells/gentle-repose-xphb|gentle repose]], [[/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb|ray of enfeeblement]] |
-| 5th | [[/03_Mechanics/CLI/spells/revivify-xphb|revivify]], [[/03_Mechanics/CLI/spells/vampiric-touch-xphb|vampiric touch]] |
-| 7th | [[/03_Mechanics/CLI/spells/blight-xphb|blight]], [[/03_Mechanics/CLI/spells/death-ward-xphb|death ward]] |
-| 9th | [[/03_Mechanics/CLI/spells/antilife-shell-xphb|antilife shell]], [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] |
+| 1st | [[bane-xphb|bane]], [[false-life-xphb|false life]] |
+| 3rd | [[gentle-repose-xphb|gentle repose]], [[ray-of-enfeeblement-xphb|ray of enfeeblement]] |
+| 5th | [[revivify-xphb|revivify]], [[vampiric-touch-xphb|vampiric touch]] |
+| 7th | [[blight-xphb|blight]], [[death-ward-xphb|death ward]] |
+| 9th | [[antilife-shell-xphb|antilife shell]], [[raise-dead-xphb|raise dead]] |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [[/03_Mechanics/CLI/spells/spare-the-dying-xphb|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [[spare-the-dying-xphb|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -100,7 +100,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[conditions#Incapacitated|incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
 
 ## Player-Facing Summary
 

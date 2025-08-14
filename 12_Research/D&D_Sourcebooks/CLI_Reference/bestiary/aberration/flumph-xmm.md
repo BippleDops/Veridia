@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/flumph-xmm|Flumph]]
+# [[flumph-xmm|Flumph]]
 *Source: Monster Manual (2024) p. 122*  
 
 ## Flumph
@@ -95,11 +95,11 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 12"
@@ -109,10 +109,10 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - "desc": "The flumph perceives the content of any telepathic communication within\
       \ 60 feet of it."
     "name": "Advanced Telepathy"
-  - "desc": "If the flumph receives the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
-      \ condition, roll a die. On an odd number, it has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "If the flumph receives the [[conditions#Prone|Prone]]\
+      \ condition, roll a die. On an odd number, it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
-      \ saving throw, ending the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ saving throw, ending the [[conditions#Incapacitated|Incapacitated]]\
       \ condition on a success."
     "name": "Prone Deficiency"
   - "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
@@ -123,12 +123,12 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
     "name": "Tentacle"
   - "desc": "Dexterity Saving Throw: DC 10, one creature the flumph can see within\
       \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes\
-      \ a stench for d4 hours, and has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition while the stench lasts. Other creatures have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition while in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ a stench for d4 hours, and has the [[conditions#Poisoned|Poisoned]]\
+      \ condition while the stench lasts. Other creatures have the [[conditions#Poisoned|Poisoned]]\
+      \ condition while in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the coated target. The target can remove the stench on itself\
-      \ if it bathes during a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]]\
-      \ or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]."
+      \ if it bathes during a [[short-rest-xphb|Short]]\
+      \ or [[long-rest-xphb|Long Rest]]."
     "name": "Stench Spray (1/Day)"
 "source":
   - "XMM"

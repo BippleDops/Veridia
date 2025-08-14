@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-planetar-xmm-planetar-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/planetar-xmm|Planetar]]
+# [[planetar-xmm|Planetar]]
 *Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Planetar
@@ -81,11 +81,11 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_resistances": "radiant"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all; telepathy 120 ft."
 "cr": "16"
@@ -93,10 +93,10 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "The planetar knows if it hears a lie."
     "name": "Divine Awareness"
   - "desc": "If the planetar dies outside Mount Celestia, its body disappears, and\
-      \ it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The planetar has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The planetar has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -105,21 +105,21 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "Melee Attack Roll: +12, reach 10 ft. Hit: 14 (2d6 + 7) Slashing damage\
       \ plus 18 (4d8) Radiant damage."
     "name": "Radiant Sword"
-  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the planetar can see within 120 feet. Failure: 24 (7d6)\
       \ Radiant damage. Success: Half damage."
     "name": "Holy Burst"
   - "desc": "The planetar casts one of the following spells, requiring no Material\
       \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|Detect Evil and Good]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/commune-xphb|Commune]], [[/03_Mechanics/CLI/spells/control-weather-xphb|Control\
-      \ Weather]], [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil and\
-      \ Good]], [[/03_Mechanics/CLI/spells/raise-dead-xphb|Raise Dead]]"
+      \nAt will: [[detect-evil-and-good-xphb|Detect Evil and Good]]\n\
+      \n1/day each: [[commune-xphb|Commune]], [[control-weather-xphb|Control\
+      \ Weather]], [[dispel-evil-and-good-xphb|Dispel Evil and\
+      \ Good]], [[raise-dead-xphb|Raise Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The planetar casts [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]], [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]],\
-      \ or [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]], using the\
+  - "desc": "The planetar casts [[cure-wounds-xphb|Cure Wounds]],\
+      \ [[invisibility-xphb|Invisibility]], [[lesser-restoration-xphb|Lesser Restoration]],\
+      \ or [[remove-curse-xphb|Remove Curse]], using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

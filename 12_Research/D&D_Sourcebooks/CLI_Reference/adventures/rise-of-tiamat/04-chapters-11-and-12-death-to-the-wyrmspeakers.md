@@ -74,10 +74,10 @@ Lizardfolk and nagas, trolls and giants, and the treacherous yuan-ti all lurk in
 |----------|-----------|
 | 1 | Humanoids (`d6`) |
 | 2 | Herd mammals (`5d6`) |
-| 3 | [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|Hill giants]] (`d2`) |
+| 3 | [[hill-giant-xmm|Hill giants]] (`d2`) |
 | 4 | Unmarked grave |
 | 5 | Shrine |
-| 6 | [[/03_Mechanics/CLI/bestiary/beast/vulture-xmm|Vultures]] (`3d6`) |
+| 6 | [[vulture-xmm|Vultures]] (`3d6`) |
 | 7 | Ruined settlement |
 | 8 | [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Lizardfolk]] (`2d8`) |
 ^encounter
@@ -92,11 +92,11 @@ Packs of goats, antelope, and other herd mammals range across the Serpent Hills.
 
 #### Hill Giants
 
-The party comes across one or two [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|hill giants]] gorging on a fallen herd animal. When the giants notice the adventurers, they see the opportunity for another meal. A hill giant retreats when reduced to half its hit points or fewer, preferring prey that does not fight back.
+The party comes across one or two [[hill-giant-xmm|hill giants]] gorging on a fallen herd animal. When the giants notice the adventurers, they see the opportunity for another meal. A hill giant retreats when reduced to half its hit points or fewer, preferring prey that does not fight back.
 
 #### Unmarked Grave
 
-A low rise covered in hastily collected rocks marks the resting place of one of the many explorers to have fallen in the Serpent Hills. At your discretion, an unmarked grave at night could become an encounter with a [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] or other restless undead.
+A low rise covered in hastily collected rocks marks the resting place of one of the many explorers to have fallen in the Serpent Hills. At your discretion, an unmarked grave at night could become an encounter with a [[ghost-xmm|ghost]] or other restless undead.
 
 #### Shrine
 
@@ -136,7 +136,7 @@ Unless specified otherwise, there is no light inside the tomb.
 
 #### Regional Effects
 
-When [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] died, those who honored him in life transformed him into a special [[/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm|mummy lord]] whose magic pervades his tomb. Since [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] is neutral rather than evil, the area lacks dark magic common to other mummy-lord tombs. A few chambers of the tomb have the appearance of opulent and well-kept rooms suitable for a noble archmage. This effect is an illusion, however, failing to cover the rank scent of dust and decay. [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s magic also guides those who show proper respect.
+When [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] died, those who honored him in life transformed him into a special [[mummy-lord-xmm|mummy lord]] whose magic pervades his tomb. Since [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] is neutral rather than evil, the area lacks dark magic common to other mummy-lord tombs. A few chambers of the tomb have the appearance of opulent and well-kept rooms suitable for a noble archmage. This effect is an illusion, however, failing to cover the rank scent of dust and decay. [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s magic also guides those who show proper respect.
 
 > [!gallery]
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/012-map-11-1-tomb-of-diderius.webp#gallery|Map 11.1: Tomb of Diderius]]
@@ -176,7 +176,7 @@ Any response other than "knowledge" or "wisdom" that is not in some way flatteri
 
 [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]]'s cultists have made camp in the plaza near the ruined fountain. A campfire is burning down here, and three bedrolls show where the rearguard cultists are camped. Seven shallow graves have been dug east of the campsite—casualties from the cultists' exploration.
 
-The guards are dead, having been dragged off and eaten by trolls living in the tunnels beneath the well. Those sewers remain largely intact, and the 3 [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] that dwell there have discovered that using them to move between the crypt and the plaza makes for good foraging in the area. If the party rests here or in area 5, the trolls attack in the night. A troll fights until reduced to one-third or fewer of its hit points before retreating to the safety of the well.
+The guards are dead, having been dragged off and eaten by trolls living in the tunnels beneath the well. Those sewers remain largely intact, and the 3 [[troll-xmm|trolls]] that dwell there have discovered that using them to move between the crypt and the plaza makes for good foraging in the area. If the party rests here or in area 5, the trolls attack in the night. A troll fights until reduced to one-third or fewer of its hit points before retreating to the safety of the well.
 
 The entrance to the tunnels is too narrow for even a Small character to squeeze through. The trolls dislocate their hips and shoulders to pass through, taking 10 bludgeoning damage that they quickly regenerate.
 
@@ -192,7 +192,7 @@ Characters who chose well when speaking with the statues in area 1 are struck by
 
 #### Statue Trap
 
-When the first adventurer passes the halfway point of the room, the sound of grinding stone announces the statues turning their cowled heads to follow the characters' movements. The characters must not look into the darkness in the statues' hoods. Any character who does must make a DC 15 Wisdom saving throw against a [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] spell. Success indicates that the character shrugs off the statue's magic, while failure indicates the character is held by the dark gaze within the stony cowl for 1 round. During this time, the statue whispers impossible secrets to the character, which carry both benefit and burden.
+When the first adventurer passes the halfway point of the room, the sound of grinding stone announces the statues turning their cowled heads to follow the characters' movements. The characters must not look into the darkness in the statues' hoods. Any character who does must make a DC 15 Wisdom saving throw against a [[suggestion-xphb|suggestion]] spell. Success indicates that the character shrugs off the statue's magic, while failure indicates the character is held by the dark gaze within the stony cowl for 1 round. During this time, the statue whispers impossible secrets to the character, which carry both benefit and burden.
 
 The character must then make a DC 15 Intelligence saving throw. On a failed save, the character cannot grasp the secrets it was shown, and there is no effect. On a success, the character understands the world more accurately, gaining advantage on Intelligence checks for the next 24 hours. However, the character is also driven temporarily insane for 1 minute. An insane creature can't take actions or reactions, can't understand what other creatures say, can't read, and speaks only in gibberish. You control the creature's movement, which is erratic.
 
@@ -200,9 +200,9 @@ The character must then make a DC 15 Intelligence saving throw. On a failed save
 
 This chamber is a high vaulted dome with a deep inset ledge circling the room, 10 feet wide and 15 feet up. The floor here is set with a beautiful tile mosaic showing a knight in plate armor wielding a glowing sword against a chimera. The word "SAFE" is written in chalk on the door leading to area 5, marking that chamber as a resting place used by the cultists.
 
-When the first character enters this room, the tile chimera begins to slowly shift. With a successful DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check, a character notices this movement and is not [[/03_Mechanics/CLI/conditions#Surprised|surprised]] as the tiles shoot up and the chimera seemingly claws its way out of the mosaic.
+When the first character enters this room, the tile chimera begins to slowly shift. With a successful DC 14 Wisdom ([[skills#Perception|Perception]]) check, a character notices this movement and is not [[conditions#Surprised|surprised]] as the tiles shoot up and the chimera seemingly claws its way out of the mosaic.
 
-The [[/03_Mechanics/CLI/bestiary/monstrosity/animated-tile-chimera-rot|tile chimera]] acts as a normal [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|chimera]] magically animated and customized per the sidebar. It makes a clacking noise as it moves, and when injured, it sprays tiles instead of bleeding. It is thin in one dimension and can use that fact to its advantage in combat. The creature flies up to the ledge to use its fire breath at range, flying down to attack in melee until it can breathe again.
+The [[animated-tile-chimera-rot|tile chimera]] acts as a normal [[chimera-xmm|chimera]] magically animated and customized per the sidebar. It makes a clacking noise as it moves, and when injured, it sprays tiles instead of bleeding. It is thin in one dimension and can use that fact to its advantage in combat. The creature flies up to the ledge to use its fire breath at range, flying down to attack in melee until it can breathe again.
 
 > [!note] Customization: Animated Tile Creature
 > 
@@ -212,7 +212,7 @@ The [[/03_Mechanics/CLI/bestiary/monstrosity/animated-tile-chimera-rot|tile chim
 > 
 > **Damage Immunities** poison, psychic
 > 
-> **Condition Immunities** [[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]
+> **Condition Immunities** [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]
 > 
 > A tile creature gains the following trait.
 > 
@@ -225,7 +225,7 @@ The [[/03_Mechanics/CLI/bestiary/monstrosity/animated-tile-chimera-rot|tile chim
 
 #### Mosaic Sun
 
-The sun is depicted in the mosaic near the hallway that is area 6—and is actually a sliding circular plate that reveals the bone boulder trap in that area. The plate is only apparent with a successful DC 24 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check or a DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check.
+The sun is depicted in the mosaic near the hallway that is area 6—and is actually a sliding circular plate that reveals the bone boulder trap in that area. The plate is only apparent with a successful DC 24 Wisdom ([[skills#Perception|Perception]]) check or a DC 18 Intelligence ([[skills#Investigation|Investigation]]) check.
 
 #### Door Hazard
 
@@ -243,21 +243,21 @@ The cultists used this room as a forward campsite during their short expedition.
 
 #### Trolls
 
-The well here connects to the reservoir that feeds the fountain in the plaza outside. The [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] in that area sometimes come here when their hunting goes poorly and feed on the liver mushrooms. Though the cultists did not encounter them before being taken by the yuan-ti, the trolls attack in the middle of the night if the party uses this area for resting. As on the plaza, the trolls flee down the well if badly injured.
+The well here connects to the reservoir that feeds the fountain in the plaza outside. The [[troll-xmm|trolls]] in that area sometimes come here when their hunting goes poorly and feed on the liver mushrooms. Though the cultists did not encounter them before being taken by the yuan-ti, the trolls attack in the middle of the night if the party uses this area for resting. As on the plaza, the trolls flee down the well if badly injured.
 
 ### 6. Hallway
 
-This hallway slants down sharply towards area 7, dropping 15 feet over its full length. Any character who takes a moment to poke around and succeeds on a DC 17 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check notices a secret panel halfway down the hallway, large enough for a Small creature to fit through, or a Medium creature that is squeezing. The panel reveals a narrow shaft that once housed a dumbwaiter, which drops down 30 feet to the stairwell leading to area 11. (The cultists discovered this shaft and used it to enter areas 10 and 11, though no sign can be found of their passage.)
+This hallway slants down sharply towards area 7, dropping 15 feet over its full length. Any character who takes a moment to poke around and succeeds on a DC 17 Intelligence ([[skills#Investigation|Investigation]]) check notices a secret panel halfway down the hallway, large enough for a Small creature to fit through, or a Medium creature that is squeezing. The panel reveals a narrow shaft that once housed a dumbwaiter, which drops down 30 feet to the stairwell leading to area 11. (The cultists discovered this shaft and used it to enter areas 10 and 11, though no sign can be found of their passage.)
 
 #### Bone Boulder Trap
 
-At 15 feet beyond the shaft entrance, a mechanical plate installed in the floor triggers a rolling boulder trap. A successful DC 22 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check by one of the characters in the first rank of the marching order is required to notice this trigger without activating the pressure plate.
+At 15 feet beyond the shaft entrance, a mechanical plate installed in the floor triggers a rolling boulder trap. A successful DC 22 Wisdom ([[skills#Perception|Perception]]) check by one of the characters in the first rank of the marching order is required to notice this trigger without activating the pressure plate.
 
 If the plate is activated, the circular mosaic pattern that appears as the sun on the floor in area 4 slides back and a 7-foot-diameter sphere made of hundreds of skeletal bodies rises magically from the floor. This bone boulder tilts toward area 6 and rolls down the sloping hallway before crashing against the wall in area 7.
 
 As it rolls through, the bone boulder crushes and slashes at any creature in area 6, dealing 18 (`4d8`) bludgeoning damage and 18 (`4d8`) slashing damage, or half as much damage with a successful DC 17 Dexterity saving throw. Any creature that fails this first save is grabbed by skeletal hands and pulled into the sphere, which continues to roll over any other creatures in the hallway.
 
-A creature trapped in the bone boulder can attempt a DC 17 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to break free before the boulder slams into the wall in area 7. Any creature that fails to escape is inside the boulder when it hits, and is caught in an explosion of bones and stone, taking 14 (`4d6`) bludgeoning damage and 14 (`4d6`) slashing damage.
+A creature trapped in the bone boulder can attempt a DC 17 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check to break free before the boulder slams into the wall in area 7. Any creature that fails to escape is inside the boulder when it hits, and is caught in an explosion of bones and stone, taking 14 (`4d6`) bludgeoning damage and 14 (`4d6`) slashing damage.
 
 ### Tomb of Diderius (areas 7-13)
 
@@ -265,31 +265,31 @@ A creature trapped in the bone boulder can attempt a DC 17 Strength ([[/03_Mecha
 
 The smell of incense fills this room, and rich tapestries cover the walls. On the south wall, a chute large enough only for a Small character to squeeze through lets in light from outside.
 
-If the characters spoke properly to the statues in area 1, an unfamiliar voice is heard to whisper as they enter this area: "Humility proffered in the manner of Mystril shelters those opening the way to seeking knowledge." A successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check reminds a character of a holy gesture among adherents of the fallen goddess Mystril, involving turning the head downward and raising the hands as if holding a lamp. Characters who make this gesture while opening the double doors to the north can pass without difficulty.
+If the characters spoke properly to the statues in area 1, an unfamiliar voice is heard to whisper as they enter this area: "Humility proffered in the manner of Mystril shelters those opening the way to seeking knowledge." A successful DC 15 Intelligence ([[skills#Religion|Religion]]) check reminds a character of a holy gesture among adherents of the fallen goddess Mystril, involving turning the head downward and raising the hands as if holding a lamp. Characters who make this gesture while opening the double doors to the north can pass without difficulty.
 
 #### Sarcophagi
 
-Six sarcophagi are embedded in the walls behind the tapestries, holding the mummified remains of [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s household guards. A character who opens the north double doors without making the proper gesture, or who tampers with a sarcophagus, awakens the 6 [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|mummies]], which lurch forth and attack.
+Six sarcophagi are embedded in the walls behind the tapestries, holding the mummified remains of [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s household guards. A character who opens the north double doors without making the proper gesture, or who tampers with a sarcophagus, awakens the 6 [[mummy-xmm|mummies]], which lurch forth and attack.
 
 ### 8. Throne Room
 
-A throne on a massive dais resembles a floating cloud concealing a golden sun. Seated on the throne is a twelve-foot-tall, regal and well-muscled humanoid male with a flowing white beard and purple toga—in reality, a [[/03_Mechanics/CLI/bestiary/construct/clay-golem-xmm|clay golem]] that [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] used to receive favored guests in this area.
+A throne on a massive dais resembles a floating cloud concealing a golden sun. Seated on the throne is a twelve-foot-tall, regal and well-muscled humanoid male with a flowing white beard and purple toga—in reality, a [[clay-golem-xmm|clay golem]] that [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] used to receive favored guests in this area.
 
-The golem has been imbued with castings of [[/03_Mechanics/CLI/spells/magic-mouth-xphb|magic mouth]]. When any character first approaches it, the creature speaks in a soothing, magnificent voice, saying, "Ye who seek [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s insight must first furnish tribute, that [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] might work his mighty magic. Lay such tribute at my feet or depart."
+The golem has been imbued with castings of [[magic-mouth-xphb|magic mouth]]. When any character first approaches it, the creature speaks in a soothing, magnificent voice, saying, "Ye who seek [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s insight must first furnish tribute, that [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] might work his mighty magic. Lay such tribute at my feet or depart."
 
 [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] was not a greedy wizard, and he accepted even meek offerings from the poor in the town. As long as each party member places something more valuable than a clay cup in the treasure pile, the characters are allowed to pass. If the adventurers attempt to steal any of the treasure or to use the door to area 10 without leaving treasure, the golem attacks.
 
 #### Treasure
 
-At the foot of the throne is a pile of treasure containing 250 sp, six fine silver necklaces worth 50 gp each, and a [[/03_Mechanics/CLI/items/potion-of-fire-breath-xdmg|potion of fire breath]]. Even with a quick glance, characters can see that the pile also contains hundreds of copper pieces and worthless bits of jewelry and pottery.
+At the foot of the throne is a pile of treasure containing 250 sp, six fine silver necklaces worth 50 gp each, and a [[potion-of-fire-breath-xdmg|potion of fire breath]]. Even with a quick glance, characters can see that the pile also contains hundreds of copper pieces and worthless bits of jewelry and pottery.
 
 ### 9. Study and Library
 
 The room east of the throne room antechamber was [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s study and library, in which he would meet with sages and travelers. Its dusty shelves and tables are now empty, the scrolls and tomes once held here having been looted long ago. However, the area's unwitting guardian remains.
 
-Ilda is a neutral good [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] who was once one of [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s apprentices. She worshiped her master, but was mistakenly banished as a thief when one of his prize tomes was misplaced. Ilda died not long after [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]], and her spirit returned here to act as caretaker to his great stores of knowledge.
+Ilda is a neutral good [[ghost-xmm|ghost]] who was once one of [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s apprentices. She worshiped her master, but was mistakenly banished as a thief when one of his prize tomes was misplaced. Ilda died not long after [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]], and her spirit returned here to act as caretaker to his great stores of knowledge.
 
-Ilda is not violent except to those who would steal from [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]. She manifests when the characters enter this area, demanding to know why they have come and threatening them if they plan to loot the library. If the characters point out that there's nothing left in the library to steal, Ilda is overcome by a fit of misery as she agonizes over her failures. A successful DC 14 Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check reveals that Ilda can be released from her sojourn here if any volumes from the lost library are returned (see area 11).
+Ilda is not violent except to those who would steal from [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]. She manifests when the characters enter this area, demanding to know why they have come and threatening them if they plan to loot the library. If the characters point out that there's nothing left in the library to steal, Ilda is overcome by a fit of misery as she agonizes over her failures. A successful DC 14 Intelligence ([[skills#Religion|Religion]]) check reveals that Ilda can be released from her sojourn here if any volumes from the lost library are returned (see area 11).
 
 Although Ilda is not evil, the confrontation with her should still be harrowing. This is a creature whose spirit is tied to the world out of anguish, and any interaction with Ilda should be a precarious process of talking to a character who might fly off the handle at any moment. She might vanish into thin air for no reason, then return in a fury if the characters try to call her back.
 
@@ -304,7 +304,7 @@ If the party manages to converse with Ilda, they might learn that yuan-ti dwell 
 
 Two long tables of plain stone stand at the south end of this dining hall, while a long marble table stands to the north. The door up the stairs leading to area 8 has "? DANGER" written in chalk on it. The door down the southern stairs is spiked shut, and has "DANGER" scrawled on it in chalk.
 
-Five [[/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm|bearded devils]] are seated at the marble table—the last survivors of [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]]'s expedition. When his cultist followers were routed investigating area 11, [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] left the devils here with instructions to guard against any creatures coming out of that area. The devils take their orders seriously, which means they all but ignore the adventurers unless the characters attack.
+Five [[bearded-devil-xmm|bearded devils]] are seated at the marble table—the last survivors of [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]]'s expedition. When his cultist followers were routed investigating area 11, [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] left the devils here with instructions to guard against any creatures coming out of that area. The devils take their orders seriously, which means they all but ignore the adventurers unless the characters attack.
 
 If the devils are questioned politely, they tell the characters only that they were ordered to remain here. They admit that their master is [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]], and speak of great treasure down the stairs to the south. The dwarf has been gone for some time, but they have no idea what happened to him.
 
@@ -320,7 +320,7 @@ While [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] lived, this area 
 
 The dumbwaiter shaft from area 6 to the stairwell in front of the vault was once used to bypass the long walk from the bedchamber to the upper parts of the complex for [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s servants. The dumbwaiter's ropes and rotted wooden platform are strewn across the stairs.
 
-This area is guarded by 3 [[/03_Mechanics/CLI/bestiary/undead/wraith-xmm|wraiths]]  and 3 [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specters]]. The wraiths are the spirits of warriors who pledged their souls to [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] in exchange for the wizard's exotic knowledge. They can be defeated in combat, but their spirits are bound to the room by ancient magic, causing them to manifest again 24 hours after being destroyed. The undead are the reanimated souls of three cultists who died here and of three yuan-ti that died exploring the ruins. They do not manifest again if destroyed.
+This area is guarded by 3 [[wraith-xmm|wraiths]]  and 3 [[specter-xmm|specters]]. The wraiths are the spirits of warriors who pledged their souls to [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] in exchange for the wizard's exotic knowledge. They can be defeated in combat, but their spirits are bound to the room by ancient magic, causing them to manifest again 24 hours after being destroyed. The undead are the reanimated souls of three cultists who died here and of three yuan-ti that died exploring the ruins. They do not manifest again if destroyed.
 
 #### Treasure
 
@@ -330,21 +330,21 @@ The silver ewer and four goblets next to the bed are magical. If a character pou
 
 The airtight chest holds seven silk robes kept free from rot, and worth 50 gp each if sold.
 
-The chest also holds an amethyst-set [[/03_Mechanics/CLI/items/ring-of-poison-resistance-xdmg|ring of resistance (poison)]] and two [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scrolls]] of [[/03_Mechanics/CLI/spells/protection-from-energy-xphb|protection from energy]].
+The chest also holds an amethyst-set [[ring-of-poison-resistance-xdmg|ring of resistance (poison)]] and two [[spell-scroll-xdmg|spell scrolls]] of [[protection-from-energy-xphb|protection from energy]].
 
 ### 12. Divination Pool
 
 This long gallery holds the magic pool that was the source of [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s power. The double doors to the south have no markings on them, but they feature the same hazard as the doors in area 4.
 
-Broken arrows, bloodstains, and a dead cultist are strewn across the floor of the chamber. A DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check reveals that the arrows were shot from the north doorway leading into area 13. The arrows are carved of stone and their heads are in the shape of fangs, set with the symbol of a cobra with a crown above it. A DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check recognizes the symbol of the yuan-ti god Merrshaulk.
+Broken arrows, bloodstains, and a dead cultist are strewn across the floor of the chamber. A DC 12 Intelligence ([[skills#Investigation|Investigation]]) check reveals that the arrows were shot from the north doorway leading into area 13. The arrows are carved of stone and their heads are in the shape of fangs, set with the symbol of a cobra with a crown above it. A DC 18 Intelligence ([[skills#Religion|Religion]]) check recognizes the symbol of the yuan-ti god Merrshaulk.
 
-If a character inspects the body, it is revealed that the cultist died not from arrows but from a dagger wound. A successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check reveals that a [[/03_Mechanics/CLI/items/dragontooth-dagger-rot|dragontooth dagger]] (See appendix C) was the killing weapon. This was the unlucky cultist the duplicitous [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] sacrificed when he used the pool.
+If a character inspects the body, it is revealed that the cultist died not from arrows but from a dagger wound. A successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check reveals that a [[dragontooth-dagger-rot|dragontooth dagger]] (See appendix C) was the killing weapon. This was the unlucky cultist the duplicitous [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] sacrificed when he used the pool.
 
 #### Pool
 
 The pool is currently empty. [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] had only just completed the pool's divination ritual when the yuan-ti attacked and hauled him off. A stone sluice runs from the southern wall to empty into the pool. If the characters can fill the basin in area 5  and release the sluice quickly enough, the water pours into the pool before it has a chance to evaporate. Alternatively, the pool can be activated with a flask of holy water, which is not subject to the mummy lord's lair effects.
 
-When any water hits the pool, it spreads out and flares with a black light. Any character who received Ilda's warning (or who remembers the statues words in area 3) will hopefully declare that he or she looks away from the pool. Otherwise, a character must make a DC 20 Wisdom saving throw against a [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] spell. On a failed save, the character is compelled to gaze into the divination pool. unless another character immediately pulls the curious victim away from the pool (and avoids gazing into it as he or she does so). If not pulled away, a gazing character is driven temporarily insane for 1 minute (see area 3). A character pulled away from the pool does not suffer insanity but is [[/03_Mechanics/CLI/conditions#Stunned|stunned]] for 1 minute.
+When any water hits the pool, it spreads out and flares with a black light. Any character who received Ilda's warning (or who remembers the statues words in area 3) will hopefully declare that he or she looks away from the pool. Otherwise, a character must make a DC 20 Wisdom saving throw against a [[suggestion-xphb|suggestion]] spell. On a failed save, the character is compelled to gaze into the divination pool. unless another character immediately pulls the curious victim away from the pool (and avoids gazing into it as he or she does so). If not pulled away, a gazing character is driven temporarily insane for 1 minute (see area 3). A character pulled away from the pool does not suffer insanity but is [[conditions#Stunned|stunned]] for 1 minute.
 
 #### Using the Pool
 
@@ -354,11 +354,11 @@ The divination pool has always required that a user make a personal sacrifice to
 
 ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/014-tod-11-02.webp#center|Varram]]
 
-[[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s final resting place is a 20-foot-high chamber lit by braziers imbued with [[/03_Mechanics/CLI/spells/continual-flame-xphb|continual flame]]. A massive stone sarcophagus sits atop a stepped stone dais at center. The walls are decorated with life-sized frescoes showing the lost gods of Netheril and Anauria. If the party benefits from the boon granted in area 1, all the characters sense it would be disrespectful to disturb anything here—everything should remain as it is.
+[[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s final resting place is a 20-foot-high chamber lit by braziers imbued with [[continual-flame-xphb|continual flame]]. A massive stone sarcophagus sits atop a stepped stone dais at center. The walls are decorated with life-sized frescoes showing the lost gods of Netheril and Anauria. If the party benefits from the boon granted in area 1, all the characters sense it would be disrespectful to disturb anything here—everything should remain as it is.
 
 #### Frescoes
 
-Characters who examine the frescoes can attempt a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check to discover thin plaster on four of them. If any such fresco is broken open, a [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|mummy]] hidden behind it attacks. The other three hidden mummies, all once [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s advisers, smash free to attack thereafter.
+Characters who examine the frescoes can attempt a DC 15 Intelligence ([[skills#Investigation|Investigation]]) check to discover thin plaster on four of them. If any such fresco is broken open, a [[mummy-xmm|mummy]] hidden behind it attacks. The other three hidden mummies, all once [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s advisers, smash free to attack thereafter.
 
 #### Sarcophagus
 
@@ -368,22 +368,22 @@ If the adventurers spoke well to the statues in area 1, the voice says, "Yuan-ti
 
 Those who didn't speak well in area 1 must ask [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] about [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] to gain information about his whereabouts. Failure to do so respectfully causes [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] to say, "Leave me to my rest or face your doom." [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] opens the way only for those who are particularly decorous in this exchange.
 
-If the adventurers try to open the sarcophagus, [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] warns them. If they persist, he attacks. The [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|mummies]] behind the frescoes also smash free and attack. None of the monsters pursue those who flee this room, which soon returns to its original state.
+If the adventurers try to open the sarcophagus, [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] warns them. If they persist, he attacks. The [[mummy-xmm|mummies]] behind the frescoes also smash free and attack. None of the monsters pursue those who flee this room, which soon returns to its original state.
 
 [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] can use mummy lord legendary actions, but he is unusual because he casts wizard spells. He uses his 18 Intelligence as his spellcasting ability (his Wisdom remains 18) and has the following wizard spells prepared:
 
-- Cantrips (at will): [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]], [[/03_Mechanics/CLI/spells/ray-of-frost-xphb|ray of frost]]  
-- 1st level (4 slots): [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]], [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/shield-xphb|shield]], [[/03_Mechanics/CLI/spells/thunderwave-xphb|thunderwave]]  
-- 2nd level (3 slots): [[/03_Mechanics/CLI/spells/cloud-of-daggers-xphb|cloud of daggers]], [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]], [[/03_Mechanics/CLI/spells/see-invisibility-xphb|see invisibility]]  
-- 3rd level (3 slots): [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]]  
-- 4th level (3 slots): [[/03_Mechanics/CLI/spells/fire-shield-xphb|fire shield]], [[/03_Mechanics/CLI/spells/greater-invisibility-xphb|greater invisibility]]  
-- 5th level (2 slots): [[/03_Mechanics/CLI/spells/cloudkill-xphb|cloudkill]], [[/03_Mechanics/CLI/spells/wall-of-stone-xphb|wall of stone]]  
+- Cantrips (at will): [[minor-illusion-xphb|minor illusion]], [[ray-of-frost-xphb|ray of frost]]  
+- 1st level (4 slots): [[charm-person-xphb|charm person]], [[detect-magic-xphb|detect magic]], [[shield-xphb|shield]], [[thunderwave-xphb|thunderwave]]  
+- 2nd level (3 slots): [[cloud-of-daggers-xphb|cloud of daggers]], [[hold-person-xphb|hold person]], [[see-invisibility-xphb|see invisibility]]  
+- 3rd level (3 slots): [[animate-dead-xphb|animate dead]], [[dispel-magic-xphb|dispel magic]]  
+- 4th level (3 slots): [[fire-shield-xphb|fire shield]], [[greater-invisibility-xphb|greater invisibility]]  
+- 5th level (2 slots): [[cloudkill-xphb|cloudkill]], [[wall-of-stone-xphb|wall of stone]]  
 
 A canopic jar in the sarcophagus contains [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s withered heart.
 
 #### Secret Door
 
-In the northern wall is a secret door that requires a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to find. Knocking on the stone wall reveals a hollow echo beyond, but the mechanism for opening the door is on the other side. A [[/03_Mechanics/CLI/spells/knock-xphb|knock]] or [[/03_Mechanics/CLI/spells/stone-shape-xphb|stone shape]] spell can open it, or the door can be forced with a successful DC 20 Strength check.
+In the northern wall is a secret door that requires a successful DC 20 Wisdom ([[skills#Perception|Perception]]) check to find. Knocking on the stone wall reveals a hollow echo beyond, but the mechanism for opening the door is on the other side. A [[knock-xphb|knock]] or [[stone-shape-xphb|stone shape]] spell can open it, or the door can be forced with a successful DC 20 Strength check.
 
 ## Ss'tck'al
 
@@ -421,17 +421,17 @@ The eastern stairs descend 30 feet before coming to the bridge in area 15.
 
 The steep stairs from area 14 lead to a 40-foot-long stone bridge extending over a dark pit. The west end of the bridge is 10 feet higher than the eastern edge.
 
-Moisture drips down from the high ceiling, covering the bridge in slick moss that hangs over the edge in green curtains. Any creature moving along of the bridge must succeed on a DC 14 Dexterity saving throw or fall. On a failed saving throw, a creature can attempt a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to cling to the bridge rather than fall off into the darkness.
+Moisture drips down from the high ceiling, covering the bridge in slick moss that hangs over the edge in green curtains. Any creature moving along of the bridge must succeed on a DC 14 Dexterity saving throw or fall. On a failed saving throw, a creature can attempt a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to cling to the bridge rather than fall off into the darkness.
 
-The pit over which the bridge extends is 60 feet deep at the top of the bridge (to the west) and 50 feet deep at the foot of the bridge (to the east). The area below the bridge is a feeding chamber for the snakelike yuan-ti young (see area 19), which crawl between the two areas through holes in the wall. Any characters or lizardfolk that fall off the bridge take appropriate falling damage, then are attacked by the yuan-ti young. Climbing back up to where the bridge meets either set of stairs requires three successful DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) checks.
+The pit over which the bridge extends is 60 feet deep at the top of the bridge (to the west) and 50 feet deep at the foot of the bridge (to the east). The area below the bridge is a feeding chamber for the snakelike yuan-ti young (see area 19), which crawl between the two areas through holes in the wall. Any characters or lizardfolk that fall off the bridge take appropriate falling damage, then are attacked by the yuan-ti young. Climbing back up to where the bridge meets either set of stairs requires three successful DC 15 Strength ([[skills#Athletics|Athletics]]) checks.
 
-Any lizardfolk that retreated from area 14 attempt to hold the party off here. In addition, 6 more [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] crouch on the bridge to reinforce the area, hoping that characters trying to fight their way past fall off into the darkness below. They are supported by 2 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons (type 1)]] armed with bows, which attack from the eastern stairs. The malisons also use [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] spells to tell characters that a fellow party member has been replaced by a yuan-ti spy and should be attacked.
+Any lizardfolk that retreated from area 14 attempt to hold the party off here. In addition, 6 more [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] crouch on the bridge to reinforce the area, hoping that characters trying to fight their way past fall off into the darkness below. They are supported by 2 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons (type 1)]] armed with bows, which attack from the eastern stairs. The malisons also use [[suggestion-xphb|suggestion]] spells to tell characters that a fellow party member has been replaced by a yuan-ti spy and should be attacked.
 
 ### 16. Meditation Chamber
 
 In this large chamber, the yuan-ti meditate in the name of their dark gods and discuss their own plans and schemes. The northeast and southwest walls of this chamber feature statue shrines to the yuan-ti deities Merrshaulk and Sseth. The other two walls have statues of yuan-ti high priests carved into them, with suits of plate armor arranged as offerings at their feet.
 
-When the characters arrive here, hundreds of snakes begin to slither out of holes in the statues and the corners of the room. Though they are not a threat by themselves, the snakes fill the suits of armor, which rise up to attack as 2 [[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm|helmed horrors]] with poisoned longswords.The target of a [[/03_Mechanics/CLI/bestiary/construct/snake-horror-rot|snake horror]]'s successful longsword attack must make a DC 12 Constitution saving throw, taking 9 (`2d8`) poison damage on a failed save, or half as much damage on a successful one. The horrors won't leave this room.
+When the characters arrive here, hundreds of snakes begin to slither out of holes in the statues and the corners of the room. Though they are not a threat by themselves, the snakes fill the suits of armor, which rise up to attack as 2 [[helmed-horror-xmm|helmed horrors]] with poisoned longswords.The target of a [[snake-horror-rot|snake horror]]'s successful longsword attack must make a DC 12 Constitution saving throw, taking 9 (`2d8`) poison damage on a failed save, or half as much damage on a successful one. The horrors won't leave this room.
 
 #### Treasure
 
@@ -445,11 +445,11 @@ This room is presently guarded by 3 [[/03_Mechanics/CLI/bestiary/humanoid/scout-
 
 #### Dart Trap
 
-The secret door in the hallway leading to area 21 is marked by an archway scribed into the wall. However, a pressure plate is set 10 feet before the archway, revealed by a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check. When any creature steps on the pressure plate, darts shoot out from the walls along the length of the hallway, targeting all creatures in the area: +8 to hit, 3 (`d6`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or take 10 (`3d6`) poison damage and be [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] for 1 minute.
+The secret door in the hallway leading to area 21 is marked by an archway scribed into the wall. However, a pressure plate is set 10 feet before the archway, revealed by a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. When any creature steps on the pressure plate, darts shoot out from the walls along the length of the hallway, targeting all creatures in the area: +8 to hit, 3 (`d6`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or take 10 (`3d6`) poison damage and be [[conditions#Paralyzed|paralyzed]] for 1 minute.
 
 #### Treasure
 
-Characters who search the sleeping holes can find 600 copper pieces, 200 silver pieces, and 150 gold pieces, as well as a [[/03_Mechanics/CLI/items/potion-of-poison-xdmg|potion of poison]].
+Characters who search the sleeping holes can find 600 copper pieces, 200 silver pieces, and 150 gold pieces, as well as a [[potion-of-poison-xdmg|potion of poison]].
 
 ### 18. Long Hallway
 
@@ -459,9 +459,9 @@ When the characters reach the turn in the hallway, 4 [[/03_Mechanics/CLI/bestiar
 
 ### 19. Hatchery
 
-The floor of this room is 20 feet below the floor of the adjoining hallways, which are reached by tall ladders. The walls of this yuan-ti hatchery drip with slime, and the floor literally writhes with the room's occupants. Yuan-ti produce copious young, which are consumed by their siblings so that only the strongest survive. A swarm of these young (use the [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]]) crawl through piles of eggs and crushed egg shells littering the floor, and are watched over by 1 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] and 3 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]].
+The floor of this room is 20 feet below the floor of the adjoining hallways, which are reached by tall ladders. The walls of this yuan-ti hatchery drip with slime, and the floor literally writhes with the room's occupants. Yuan-ti produce copious young, which are consumed by their siblings so that only the strongest survive. A swarm of these young (use the [[swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]]) crawl through piles of eggs and crushed egg shells littering the floor, and are watched over by 1 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] and 3 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]].
 
-At the first sign of the party, the yuan-ti use [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] as they apologize for any previous strife, stating that their kin meant no harm to the characters. As a show of good faith, the abomination invites the characters to descend the ladders and join the yuan-ti for a feast.
+At the first sign of the party, the yuan-ti use [[suggestion-xphb|suggestion]] as they apologize for any previous strife, stating that their kin meant no harm to the characters. As a show of good faith, the abomination invites the characters to descend the ladders and join the yuan-ti for a feast.
 
 If the characters are completely swayed, the yuan-ti wait until they descend, then they and the swarms attack. If the characters flee, the yuan-ti pursue. If they are attacked from above, the yuan-ti ascend the ladders to fight. The abomination flees any fight if reduced to half its hit points or fewer.
 
@@ -485,17 +485,17 @@ The yuan-ti and lizardfolk stand in the shadows of the flickering green flames, 
 
 #### Dealing for the Dwarf
 
-If the characters have made any mention of their search for [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] during their previous battles with the yuan-ti or lizardfolk, the yuan-ti abomination priestess holds [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]]'s [[/03_Mechanics/CLI/items/dragontooth-dagger-rot|dragontooth dagger]] to the dwarf's neck. The priestess has heard of the characters' mission, though she does not know or care why they seek the dwarf.
+If the characters have made any mention of their search for [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] during their previous battles with the yuan-ti or lizardfolk, the yuan-ti abomination priestess holds [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]]'s [[dragontooth-dagger-rot|dragontooth dagger]] to the dwarf's neck. The priestess has heard of the characters' mission, though she does not know or care why they seek the dwarf.
 
 If the yuan-ti have no idea why the characters have attacked, the priestess knows only that [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] has been begging for his life by promising the yuan-ti great wealth if he is freed. The priestess plans to bargain with the characters by offering them the hypothetical wealth the dwarf has promised her.
 
 Either way, if the characters want [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] alive, the priestess demands that the party leave the complex without killing any more yuan-ti. She is willing to turn over the dwarf, but explains that his soul has been temporarily drawn from his body by powerful yuan-ti magic. When the characters have left the enclave, it will be returned. (The priestess is lying—[[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] is in his present semiconscious state because of the brutal treatment he's received at the hands of the yuan-ti.)
 
-If the characters refuse her offer, the priestess attempts to use [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] to sway whomever she perceives as the party's leader. If that fails and combat breaks out, she slays [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] (he has only 3 hit points remaining), then attacks with her followers.
+If the characters refuse her offer, the priestess attempts to use [[suggestion-xphb|suggestion]] to sway whomever she perceives as the party's leader. If that fails and combat breaks out, she slays [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] (he has only 3 hit points remaining), then attacks with her followers.
 
 #### Developments
 
-A successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check reveals a secret space and a passage beneath one of the serpent statues in the temple. Within the space is the enclave's treasure hoard, comprising 800 gold pieces, 100 pp, 2 cloudy emeralds worth 500 gp each, a necklace of 22 crysoprase beads worth 20 gp each, and 2 [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scrolls]], one of [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]] and the other of [[/03_Mechanics/CLI/spells/call-lightning-xphb|call lightning]]. The passage leads to the exit the yuan-ti use to leave the complex without passing through the crypt. The exit is carefully hidden behind a screen of rocks and scrub trees a hundred yards away from the plaza entrance to the ruins.
+A successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check reveals a secret space and a passage beneath one of the serpent statues in the temple. Within the space is the enclave's treasure hoard, comprising 800 gold pieces, 100 pp, 2 cloudy emeralds worth 500 gp each, a necklace of 22 crysoprase beads worth 20 gp each, and 2 [[spell-scroll-xdmg|spell scrolls]], one of [[levitate-xphb|levitate]] and the other of [[call-lightning-xphb|call lightning]]. The passage leads to the exit the yuan-ti use to leave the complex without passing through the crypt. The exit is carefully hidden behind a screen of rocks and scrub trees a hundred yards away from the plaza entrance to the ruins.
 
 ## Conclusion
 
@@ -554,19 +554,19 @@ In response to any question about Galin, the characters are directed to his resi
 > Stepping into a modest dwelling suspended among iron-strong boughs, you enter a cozy sitting room. A slim elf sits at a desk, standing to greet you with a forced smile as a raven perched in a nearby cage caws hideously. "Welcome to our village," the elf says. "How can I be of service?"
 ^133
 
-Galin answers any questions the characters put to him, but his responses echo only what the other survivors know. He claims to have not seen the dragon rider and disbelieves those who say they did, dismissing such reports as the result of fear and chaos during the raid. A successful DC 18 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check reveals that the elf warden is withholding information. If he is pressed on this, he admits that he saw the dragon kill his wife and is wracked by guilt that he could not save her. A follow-up successful DC 16 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check reveals that even this isn't the whole truth, but Galin takes umbrage if the character ply him with any more questions.
+Galin answers any questions the characters put to him, but his responses echo only what the other survivors know. He claims to have not seen the dragon rider and disbelieves those who say they did, dismissing such reports as the result of fear and chaos during the raid. A successful DC 18 Wisdom ([[skills#Insight|Insight]]) check reveals that the elf warden is withholding information. If he is pressed on this, he admits that he saw the dragon kill his wife and is wracked by guilt that he could not save her. A follow-up successful DC 16 Wisdom ([[skills#Insight|Insight]]) check reveals that even this isn't the whole truth, but Galin takes umbrage if the character ply him with any more questions.
 
 ### Silent Witnesses
 
-Where the humanoid witnesses to the attack are limited in their knowledge, the characters have other potential resources to draw on. By using [[/03_Mechanics/CLI/spells/speak-with-plants-xphb|speak with plants]], the characters can draw on the impressions and memories of the trees themselves. Though the spell allows only for impressions of the previous 24 hours to be recalled by its subjects, the trees of Altand can report that late the previous night, they witnessed Galin sneaking out of the village and disappearing into the woods, accompanied by his pet raven. Galin has been making this sojourn most nights since the attack, giving [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] information on other elven settlements, which the wyrmspeaker is using to plan his next round of assaults.
+Where the humanoid witnesses to the attack are limited in their knowledge, the characters have other potential resources to draw on. By using [[speak-with-plants-xphb|speak with plants]], the characters can draw on the impressions and memories of the trees themselves. Though the spell allows only for impressions of the previous 24 hours to be recalled by its subjects, the trees of Altand can report that late the previous night, they witnessed Galin sneaking out of the village and disappearing into the woods, accompanied by his pet raven. Galin has been making this sojourn most nights since the attack, giving [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] information on other elven settlements, which the wyrmspeaker is using to plan his next round of assaults.
 
-If the characters use [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|speak with animals]] to question the raven, they learn that Galin walked a mile or more into the woods and came face to face with the green dragon Chuth and his rider the previous night. Remember that an animal intelligence is not as articulate as a humanoid, and it might take subtle coaxing to get the raven to describe a scene that likely frightened it.
+If the characters use [[speak-with-animals-xphb|speak with animals]] to question the raven, they learn that Galin walked a mile or more into the woods and came face to face with the green dragon Chuth and his rider the previous night. Remember that an animal intelligence is not as articulate as a humanoid, and it might take subtle coaxing to get the raven to describe a scene that likely frightened it.
 
 The characters might also choose to watch and follow Galin on one of his late night excursions. [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] does not show up that night, but the warden's prearranged meeting place is a spot of flattened brush where a dragon has clearly landed more than once.
 
 ### Confronting Galin
 
-If confronted with evidence against him, Galin accuses the adventurers (publicly if necessary) of being in league with the cult and attempting to break the resolve of Altand's survivors. If the characters have access to [[/03_Mechanics/CLI/spells/zone-of-truth-xphb|zone of truth]] or similar magic, he flatly refuses to take part in any further questioning.
+If confronted with evidence against him, Galin accuses the adventurers (publicly if necessary) of being in league with the cult and attempting to break the resolve of Altand's survivors. If the characters have access to [[zone-of-truth-xphb|zone of truth]] or similar magic, he flatly refuses to take part in any further questioning.
 
 Galin will not respond to intimidation. However, effective roleplaying can be used to tap into his guilt. If he is offered commiseration for his wife's death—as opposed to accusations—the warden eventually breaks down. He confesses that after seeing his wife killed, he found himself face to face with [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] in the thick of battle and begged for his life, offering anything in return. [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] took the warden up on his offer, agreeing to spare Galin and leave Altand intact in exchange for information on other settlements that would become the targets of the cult's next round of raids.
 
@@ -582,7 +582,7 @@ the dragon flying off on a course due southeast and he has noticed that the wyrm
 
 As the characters travel through the forest, they hear the crunch of a large tree breaking, followed by a female voice crying out. If they investigate, they see a venerable woman with her leg trapped under a heavy fallen tree. She calls out for help when she sees the party. This [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] is the caretaker of this part of the forest.
 
-Three [[/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm|awakened trees]] are hidden among the other trees nearby—one of which has intentionally and harmlessly fallen across the druid, allowing her to feign injury and draw the characters to her. She guesses correctly that the group are seeking the dragon, and wishes to give them a boon to aid their fight against this scourge of her forest, but she wishes to test their strength of character first. She will not help those who do not help others.
+Three [[awakened-tree-xmm|awakened trees]] are hidden among the other trees nearby—one of which has intentionally and harmlessly fallen across the druid, allowing her to feign injury and draw the characters to her. She guesses correctly that the group are seeking the dragon, and wishes to give them a boon to aid their fight against this scourge of her forest, but she wishes to test their strength of character first. She will not help those who do not help others.
 
 If the characters help the druid without reservation, read the following.
 
@@ -595,7 +595,7 @@ If the characters help the druid without reservation, read the following.
 > The woman picks flowers from her hair that you swear were not there a moment ago, then twists her fingers to weave them into garlands as if by magic. She lays a garland around each of your necks, then suddenly transforms into an owl. Her awakened tree servants stomp after her into the forest.
 ^138
 
-As long as the characters wear these garlands, they are [[/03_Mechanics/CLI/conditions#Invisible|invisible]] to Chuth's animal spies (part of the magic imbued into the area around the dragon's lair) as they approach [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]'s stronghold. In addition, the first time a character wearing a garland is confronted by Chuth, he or she feels a stirring warmth from the garland and automatically succeeds on the saving throw against the dragon's Frightful Presence.
+As long as the characters wear these garlands, they are [[conditions#Invisible|invisible]] to Chuth's animal spies (part of the magic imbued into the area around the dragon's lair) as they approach [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]'s stronghold. In addition, the first time a character wearing a garland is confronted by Chuth, he or she feels a stirring warmth from the garland and automatically succeeds on the saving throw against the dragon's Frightful Presence.
 
 If the characters ignore the druid, she calls out pitifully for help as they move away, offering a last lament against their cowardice as they disappear. If the adventurers attack the druid, the awakened trees attack. They fight to the death as the druid turns into an owl and flies away.
 
@@ -603,7 +603,7 @@ If the characters ignore the druid, she calls out pitifully for help as they mov
 
 A quarter of a mile from Chuth's lair, thin strands of spiderweb begin to be seen, hanging nearly invisible in the misty air. The webs mark the overlap between the dragon's lair and the hunting grounds of a brood of spiders. The webbing combines with the dense mist of the forest to make the area around the lair heavily obscured and difficult terrain, up to when the party reaches the pool (area 1). Because the webs are moist, they do not burn away easily. The direct application of fire destroys webs, but fire doesn't spread among them. A character with a torch can use an action to clear the webs within reach.
 
-As the characters advance, the webbing becomes thicker and shows birds and animals trapped within it. Any movement through the webbing alerts the 3 [[/03_Mechanics/CLI/bestiary/monstrosity/ettercap-xmm|ettercaps]] and 7 [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] lurking nearby. The ettercaps attack with web garrotes, while the spiders use the webs to drop into the party's midst. If two ettercaps or five spiders are slain, the rest flee.
+As the characters advance, the webbing becomes thicker and shows birds and animals trapped within it. Any movement through the webbing alerts the 3 [[ettercap-xmm|ettercaps]] and 7 [[giant-spider-xmm|giant spiders]] lurking nearby. The ettercaps attack with web garrotes, while the spiders use the webs to drop into the party's midst. If two ettercaps or five spiders are slain, the rest flee.
 
 ## Neronvain's Stronghold
 
@@ -611,7 +611,7 @@ The Green Wyrmspeaker has established a stronghold for himself and Chuth within 
 
 [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is served by a group of cultist bodyguards, while Chuth has won the service of a number of ettins to help guard the stronghold. The dragon also controls a terrified group of elf prisoners [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] brought back from one of their raids, who fight for the dragon and the wyrmspeaker unless they can be convinced to flee.
 
-Chuth is an [[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm|adult green dragon]]. Statistics for [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] can be found in appendix D.
+Chuth is an [[adult-green-dragon-xmm|adult green dragon]]. Statistics for [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] can be found in appendix D.
 
 > [!note] No One Home
 > 
@@ -624,7 +624,7 @@ Chuth is an [[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm|adult gre
 
 #### Secret Doors
 
-Secret doors inside the stronghold are little more than cracks between chambers, just large enough for Medium creatures to squeeze through. They are obscured behind loose rocks or other cover, and require a DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice.
+Secret doors inside the stronghold are little more than cracks between chambers, just large enough for Medium creatures to squeeze through. They are obscured behind loose rocks or other cover, and require a DC 14 Wisdom ([[skills#Perception|Perception]]) check to notice.
 
 #### Light
 
@@ -640,15 +640,15 @@ The stronghold is dark unless otherwise noted.
 
 The pool at the foot of the waterfall is 20 feet deep at its center, its surface obscured by an emerald haze that marks this place as a green dragon's lair.
 
-A steep slope descends from the cave behind the waterfall to the entrance to area 2, its surface slick from billowing mist. A character must succeed on a DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check or a DC 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to climb or crawl down the slope. Failure indicates that the character tumbles 40 feet down the slope, taking 9 (`2d8`) bludgeoning damage. Characters using a rope to descend the slope can do so safely.
+A steep slope descends from the cave behind the waterfall to the entrance to area 2, its surface slick from billowing mist. A character must succeed on a DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check or a DC 12 Strength ([[skills#Athletics|Athletics]]) check to climb or crawl down the slope. Failure indicates that the character tumbles 40 feet down the slope, taking 9 (`2d8`) bludgeoning damage. Characters using a rope to descend the slope can do so safely.
 
 #### Dragon Attack
 
 If the characters wear the garlands given to them by the druid, Chuth has no idea of their approach, allowing them to safely pass through this area and into the caves.
 
-If the adventurers did not receive the garlands, or if they took them off for any reason while within a quarter mile of Chuth's lair, the dragon's many animal spies alert him to the party's approach. He waits at the mouth of the cave, clinging to the wall near the entrance. A character who succeeds on a DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check notices movement inside the cave but can't tell what it is (or how large a creature it might be).
+If the adventurers did not receive the garlands, or if they took them off for any reason while within a quarter mile of Chuth's lair, the dragon's many animal spies alert him to the party's approach. He waits at the mouth of the cave, clinging to the wall near the entrance. A character who succeeds on a DC 20 Wisdom ([[skills#Perception|Perception]]) check notices movement inside the cave but can't tell what it is (or how large a creature it might be).
 
-Chuth uses his [[/03_Mechanics/CLI/senses#Blindsight|blindsight]] to detect when the characters are approaching the entrance to the cave. He then dives through the waterfall, soaring above the characters as he uses his Poison Breath, attacking with surprise if no one in the party noticed him. Characters not wearing the garlands are also exposed to the dragon's Frightful Presence. Characters who fail their saving throws against Frightful Presence likely flee back into the woods, where spiders might be waiting. On the dragon's next turn, it retreats back to area 2 to await the heroes' next move.
+Chuth uses his [[senses#Blindsight|blindsight]] to detect when the characters are approaching the entrance to the cave. He then dives through the waterfall, soaring above the characters as he uses his Poison Breath, attacking with surprise if no one in the party noticed him. Characters not wearing the garlands are also exposed to the dragon's Frightful Presence. Characters who fail their saving throws against Frightful Presence likely flee back into the woods, where spiders might be waiting. On the dragon's next turn, it retreats back to area 2 to await the heroes' next move.
 
 ### 2. Island Chamber
 
@@ -664,21 +664,21 @@ Any fight here draws the creatures in areas 3, 4, and 5, which fight as describe
 
 #### Dragon Attack
 
-If the characters were attacked by [[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm|Chuth]] at the pool, the dragon clings to the ceiling in this area, using his breath weapon on the characters as soon as they enter the caves. He then crashes down on the party, focusing on elves over any other humanoids with his melee attacks. Chuth refrains from using his breath weapon if doing so might hurt or hinder his allies.
+If the characters were attacked by [[adult-green-dragon-xmm|Chuth]] at the pool, the dragon clings to the ceiling in this area, using his breath weapon on the characters as soon as they enter the caves. He then crashes down on the party, focusing on elves over any other humanoids with his melee attacks. Chuth refrains from using his breath weapon if doing so might hurt or hinder his allies.
 
-The dragon's roar signals the start of the fight for the servants of Chuth and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] lying in wait for the adventurers. The elves fire bows from atop the bluff of area 4, while the [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettins]] and cultists wade into melee beside their master. See areas 3, 4, and 5 for creature stats and information. [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] attacks at range from behind the cultists, staying close to the entrance to areas 5 and 6.
+The dragon's roar signals the start of the fight for the servants of Chuth and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] lying in wait for the adventurers. The elves fire bows from atop the bluff of area 4, while the [[ettin-xmm|ettins]] and cultists wade into melee beside their master. See areas 3, 4, and 5 for creature stats and information. [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] attacks at range from behind the cultists, staying close to the entrance to areas 5 and 6.
 
 If the characters kill or incapacitate all of [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] and Chuth's servants, the dragon hides in the pool and emerges each time his breath weapon recharges. While hiding in the water, the dragon is heavily obscured.Chuth is amphibious and can use any of his attacks underwater, as well as his lair actions. Characters swimming through the underwater passage might be suddenly restrained by underwater vines, making them easy targets for the dragon's breath weapon, or putting them at risk of drowning if they cannot free themselves.
 
-If [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is reduced to 54 hit points, he summons Chuth to his side and consumes a [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potion of healing]]. If Chuth is reduced to 78 hit points, he likewise seeks out [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] in the fight. The two then fall back to area 10 through the pool.
+If [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is reduced to 54 hit points, he summons Chuth to his side and consumes a [[potion-of-healing-xdmg|potion of healing]]. If Chuth is reduced to 78 hit points, he likewise seeks out [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] in the fight. The two then fall back to area 10 through the pool.
 
 ### 3. Ettin Lair
 
-This filthy chamber features only three huge trash mounds piled against the west walls. This place is home to 3 [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettins]], all of which hate each other. If the adventurers make it this far undetected, the ettins assume them to be more stupid human cultists doing stupid human things. They ignore the characters as they go back to pushing each other around.
+This filthy chamber features only three huge trash mounds piled against the west walls. This place is home to 3 [[ettin-xmm|ettins]], all of which hate each other. If the adventurers make it this far undetected, the ettins assume them to be more stupid human cultists doing stupid human things. They ignore the characters as they go back to pushing each other around.
 
 With a bit of clever roleplaying, the characters might be able to incite the ettins to fight one another. This costs each ettin 21 hit points and keeps them busy for 10 minutes as they wrestle and shout.
 
-The leader of the ettins is a female named Grunda-Gurga. She has a [[/03_Mechanics/CLI/items/belt-of-hill-giant-strength-xdmg|belt of hill giant strength]] but wears it improperly as a sash, receiving none of its benefits and having no awareness of its magical potential.
+The leader of the ettins is a female named Grunda-Gurga. She has a [[belt-of-hill-giant-strength-xdmg|belt of hill giant strength]] but wears it improperly as a sash, receiving none of its benefits and having no awareness of its magical potential.
 
 ### 4. Elf Quarters
 
@@ -688,13 +688,13 @@ The tunnel leading to this area rises 20 feet to end in a rickety wooden door, c
 
 If the characters have entered the caverns undetected, any elves not on guard duty (see area 2) are here. As long as no alarm has been raised, the elves are hesitant to attack possible guests of [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] or Chuth, but they remain suspicious.
 
-The elves are terrified of Chuth, and the cunning dragon has convinced them that he will free them in time if they are loyal. It takes convincing roleplaying and a DC 17 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to convince the elves to flee rather than wait around for the dragon to eventually tire of and eat them. If the characters received the garlands from the druid and place them on the elves, this automatically convinces them to safely flee.
+The elves are terrified of Chuth, and the cunning dragon has convinced them that he will free them in time if they are loyal. It takes convincing roleplaying and a DC 17 Charisma ([[skills#Persuasion|Persuasion]]) check to convince the elves to flee rather than wait around for the dragon to eventually tire of and eat them. If the characters received the garlands from the druid and place them on the elves, this automatically convinces them to safely flee.
 
 #### Forgotten Shrine
 
-An ancient shrine stands in the southwest corner of the cavern, showing a young female human holding a basin. A successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check recognizes the shrine of Eldath, goddess of waterfalls. Water flows from cracks in the ceiling and onto the statue's head, then into the basin. The long years have etched thin white lines resembling the tracks of tears across the statue's face.
+An ancient shrine stands in the southwest corner of the cavern, showing a young female human holding a basin. A successful DC 15 Intelligence ([[skills#Religion|Religion]]) check recognizes the shrine of Eldath, goddess of waterfalls. Water flows from cracks in the ceiling and onto the statue's head, then into the basin. The long years have etched thin white lines resembling the tracks of tears across the statue's face.
 
-The goddess Eldath still listens at this shrine. Characters who pray for her assistance in fighting the dragon can receive a boon at your discretion, including [[/03_Mechanics/CLI/spells/water-breathing-xphb|water breathing]], [[/03_Mechanics/CLI/spells/bless-xphb|bless]], or other useful spells.
+The goddess Eldath still listens at this shrine. Characters who pray for her assistance in fighting the dragon can receive a boon at your discretion, including [[water-breathing-xphb|water breathing]], [[bless-xphb|bless]], or other useful spells.
 
 ### 5. Cultist Common Room
 
@@ -722,7 +722,7 @@ The food is mostly common fare, but [[/03_Mechanics/CLI/bestiary/npc/neronvain-r
 
 [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] has created a lush living space in this rough-walled cavern, decorating it with select art and craftworks from his raids. Rich carpets and tapestries cover the floor and walls of the cavern, which features a hewn-log bed, a large mirror, and a trunk.
 
-The entrance tunnel to this chamber is protected by a [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]] attuned to [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]. A DC 14 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check notices the glyph. If anyone but [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] steps within 5 feet of the glyph, it erupts.All creatures within 20 feet of the glyph must make a DC 14 Dexterity saving throw, taking 22 (`5d8`) acid damage on a failed save, or half as much damage on a successful save.
+The entrance tunnel to this chamber is protected by a [[glyph-of-warding-xphb|glyph of warding]] attuned to [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]. A DC 14 Intelligence ([[skills#Investigation|Investigation]]) check notices the glyph. If anyone but [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] steps within 5 feet of the glyph, it erupts.All creatures within 20 feet of the glyph must make a DC 14 Dexterity saving throw, taking 22 (`5d8`) acid damage on a failed save, or half as much damage on a successful save.
 
 If [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is in the stronghold, he is found in this area only if the characters have managed to come this far without engaging in any combat or causing any alert to be sounded. He is otherwise encountered when he enters the fight against the characters.
 
@@ -730,19 +730,19 @@ If [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is in the strongho
 
 If the characters can collect all the furniture, carpets, tapestries, and art objects from this area, the lot is worth a total of 1,500 gp. However, it should occur to the characters that these goods are the rightful property of the elves they were stolen from.
 
-The trunk is protected by a poisoned needle trap, which can be detected with a successful DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check. If the trap is triggered, it makes an attack: +10 to hit, 1 piercing damage, and the character is subject to an unusual poison and must attempt a DC 16 Constitution saving throw. On a success, the affected area (usually the hand struck by the needle) becomes numb in 30 minutes, then becomes transparent 1 hour later. After another 2 hours, the affected area painfully returns to normal as the victim takes 27 (`6d8`) poison damage. If the saving throw is failed, the effect progresses as above but the victim takes 54 (`12d8`) poison damage.
+The trunk is protected by a poisoned needle trap, which can be detected with a successful DC 18 Intelligence ([[skills#Investigation|Investigation]]) check. If the trap is triggered, it makes an attack: +10 to hit, 1 piercing damage, and the character is subject to an unusual poison and must attempt a DC 16 Constitution saving throw. On a success, the affected area (usually the hand struck by the needle) becomes numb in 30 minutes, then becomes transparent 1 hour later. After another 2 hours, the affected area painfully returns to normal as the victim takes 27 (`6d8`) poison damage. If the saving throw is failed, the effect progresses as above but the victim takes 54 (`12d8`) poison damage.
 
 ### 9. Secret Passage
 
 This secret room is for [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]'s personal use only. A small shrine to Fenmarel Mestarine—the elven god of outcasts, scapegoats, and solitude—resembles a pair of white eyes peering out from the dark wall above a small basin.
 
-Also present here is a journal that reveals [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]'s relationship to King Melandrach, whom [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] refers to frequently as "my poor father." The journal also reveals that the Green Dragon Mask is already at the Well of Dragons, under [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s protection and ready to be assembled into the [[/03_Mechanics/CLI/items/mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]].
+Also present here is a journal that reveals [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]]'s relationship to King Melandrach, whom [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] refers to frequently as "my poor father." The journal also reveals that the Green Dragon Mask is already at the Well of Dragons, under [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s protection and ready to be assembled into the [[mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]].
 
 ### 10. Chuth's Lair
 
 No one but the dragon and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] are allowed in this area. Along the east wall is Chuth's portion of the hoard collected from the elves of the Misty Forest, though this pales in comparison to what the cult claimed for [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] and what the dragon possesses in his other lairs. The vaulted ceiling is 60 feet high here.
 
-If Chuth is in the stronghold, he is initially found here only if the characters have come this far without engaging in any combat or sounding any alarm, or if he and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] have retreated to the lair. If [[/03_Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm|Chuth]] is encountered here, he uses his breath weapon, legendary actions, and lair actions indiscriminately. He tries to push powerful melee combatants back to the walls, then creates a wall of thorns to fence them in.
+If Chuth is in the stronghold, he is initially found here only if the characters have come this far without engaging in any combat or sounding any alarm, or if he and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] have retreated to the lair. If [[adult-green-dragon-xmm|Chuth]] is encountered here, he uses his breath weapon, legendary actions, and lair actions indiscriminately. He tries to push powerful melee combatants back to the walls, then creates a wall of thorns to fence them in.
 
 Because this is only a small portion of his total hoard, Chuth has no interest in dying to protect it. He flees when he is reduced to half his hit points or fewer. [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] fights until similarly reduced, then makes his way to Chuth and convinces the dragon to flee the caverns.
 

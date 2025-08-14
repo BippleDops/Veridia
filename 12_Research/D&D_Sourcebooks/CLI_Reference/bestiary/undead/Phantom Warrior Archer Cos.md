@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-archer-cos-phantom-warrior-archer-cos.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/phantom-warrior-archer-cos|Phantom Warrior (Archer)]]
+# [[phantom-warrior-archer-cos|Phantom Warrior (Archer)]]
 *Source: Curse of Strahd p. 142*  
 
 ```statblock
@@ -48,17 +48,17 @@ world: Both
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"

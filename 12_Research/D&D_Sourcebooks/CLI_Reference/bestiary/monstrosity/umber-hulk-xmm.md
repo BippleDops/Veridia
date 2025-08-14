@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-umber-hulk-xmm-umber-hulk-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/umber-hulk-xmm|Umber Hulk]]
+# [[umber-hulk-xmm|Umber Hulk]]
 *Source: Monster Manual (2024) p. 312*  
 
 ## Umber Hulk
@@ -60,7 +60,7 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
-  - "desc": "The umber hulk can burrow through solid rock at half its [[/03_Mechanics/CLI/variant-rules/burrow-speed-xphb|Burrow Speed]]\
+  - "desc": "The umber hulk can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
@@ -69,11 +69,11 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage."
     "name": "Rend"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Wisdom Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target can't take Reactions until the start of the umber hulk's\
       \ next turn, and the target rolls d8 to determine what it does on its next turn:\n\
       \n- 1-4. The target does nothing.  \n- 5-6. The target takes no action\
-      \ or [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] and\
+      \ or [[bonus-action-xphb|Bonus Action]] and\
       \ uses all its movement to move in a random direction.  \n- 7-8. The target\
       \ makes a melee attack against a random creature within its reach or does nothing\
       \ if it can't make such an attack.  "

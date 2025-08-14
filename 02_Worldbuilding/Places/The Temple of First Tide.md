@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Temple of First Tide]]
+- [[The Temple of First Tide]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[Timeline of the Drowning]]

@@ -25,10 +25,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/sage.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Wisdom  
-- **Feat.** [[/03_Mechanics/CLI/feats/magic-initiate-xphb|Magic Initiate]] (Wizard)  
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#History|History]]  
-- **Tool Proficiency.** [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]]  
-- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]], [[/03_Mechanics/CLI/items/book-xphb|Book]] (history), [[/03_Mechanics/CLI/items/parchment-xphb|Parchment]] (8 sheets), [[/03_Mechanics/CLI/items/robe-xphb|Robe]], 8 GP; or (B) 50 GP  
+- **Feat.** [[magic-initiate-xphb|Magic Initiate]] (Wizard)  
+- **Skill Proficiencies.** [[skills#Arcana|Arcana]], [[skills#History|History]]  
+- **Tool Proficiency.** [[calligraphers-supplies-xphb|Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[quarterstaff-xphb|Quarterstaff]], [[calligraphers-supplies-xphb|Calligrapher's Supplies]], [[book-xphb|Book]] (history), [[parchment-xphb|Parchment]] (8 sheets), [[robe-xphb|Robe]], 8 GP; or (B) 50 GP  
 
 You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
 

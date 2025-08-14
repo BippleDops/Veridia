@@ -11,9 +11,6 @@ updated: '2025-08-13T01:18:34.840668+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -40,10 +37,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[The Convergence Point]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/The Convergence Point]]

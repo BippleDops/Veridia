@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stench-kow-mpmm-stench-kow-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/stench-kow-mpmm|Stench Kow]]
+# [[stench-kow-mpmm|Stench Kow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
@@ -60,7 +60,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "traits":
   - "desc": "Any creature other than a stench kow that starts its turn within 5 feet\
       \ of the stench kow must succeed on a DC 12 Constitution saving throw or be\
-      \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] until the start of the\
+      \ [[conditions#Poisoned|poisoned]] until the start of the\
       \ creature's next turn. On a successful saving throw, the creature is immune\
       \ to the Stench of all stench kows for 1 hour."
     "name": "Stench"

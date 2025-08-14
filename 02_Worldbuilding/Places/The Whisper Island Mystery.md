@@ -20,12 +20,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png]]
 
 
 # The Whisper Island Mystery
@@ -129,7 +125,7 @@ This mystery emphasizes investigation and roleplay over combat. The supernatural
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 
 ## History
@@ -171,6 +167,6 @@ Legends speak of The Whisper Island Mystery as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whisper Island Mystery]]
+- [[The Whisper Island Mystery]]
 
 <!-- enriched: true -->

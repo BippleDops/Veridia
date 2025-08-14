@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-seventh-shard-seventh-shard.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-seventh-shard-seventh-shard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[Deep Mother]]
+- [[Aboleth Prime Yoth]]
 
 ## Player-Facing Summary
 

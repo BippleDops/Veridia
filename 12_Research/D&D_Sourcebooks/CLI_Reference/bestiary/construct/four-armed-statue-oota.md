@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-statue-oota-four-armed-statue-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/four-armed-statue-oota|Four-Armed Statue]]
+# [[four-armed-statue-oota|Four-Armed Statue]]
 *Source: Out of the Abyss p. 206*  
 
 ```statblock
@@ -47,9 +47,9 @@ world: Both
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"

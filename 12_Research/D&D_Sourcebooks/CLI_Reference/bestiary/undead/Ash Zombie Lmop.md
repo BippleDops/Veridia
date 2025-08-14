@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/ash-zombie-lmop|Ash Zombie]]
+# [[ash-zombie-lmop|Ash Zombie]]
 *Source: Lost Mine of Phandelver p. 31*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -60,7 +60,7 @@ The first time the zombie takes damage, any living creature within 5 feet of the
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"

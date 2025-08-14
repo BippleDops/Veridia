@@ -20,10 +20,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg]]
 
 
 # Royal Palace of Meridian
@@ -143,7 +140,7 @@ The Royal Palace serves as center for political adventures, diplomatic missions,
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[The Royal Palace]]
 
 
 ## History
@@ -185,6 +182,6 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Palace of Meridian]]
+- [[Royal Palace of Meridian]]
 
 <!-- enriched: true -->

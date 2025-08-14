@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[12_Research/D&D_References/Vote Vaults]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[12_Research/D&D_References/Vote Vaults]]
 
 ## Player-Facing Summary
 

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Prophet Nullus the Erased]]
+- [[12_Research/D&D_References/Void Prophet Nullus the Erased]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[12_Research/D&D_Statblocks/The Void Touched Depths]]

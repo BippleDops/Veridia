@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/cloak-of-the-manta-ray.webp#right)
 
 
-While wearing this cloak, you can breathe underwater, and you have a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] of 60 feet.
+While wearing this cloak, you can breathe underwater, and you have a [[swim-speed-xphb|Swim Speed]] of 60 feet.
 
 *Source: Dungeon Master's Guide (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

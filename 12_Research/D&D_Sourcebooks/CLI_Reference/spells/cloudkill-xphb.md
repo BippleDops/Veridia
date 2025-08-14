@@ -34,15 +34,15 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You create a 20-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]]) disperses it, ending the spell. Its area is [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]].
+You create a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]] of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[gust-of-wind-xphb|Gust of Wind]]) disperses it, ending the spell. Its area is [[heavily-obscured-xphb|Heavily Obscured]].
 
-Each creature in the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] makes a Constitution saving throw, taking `5d8` Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] moves into its space and when it enters the [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] or ends its turn there. A creature makes this save only once per turn.
+Each creature in the [[sphere-area-of-effect-xphb|Sphere]] makes a Constitution saving throw, taking `5d8` Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the [[sphere-area-of-effect-xphb|Sphere]] moves into its space and when it enters the [[sphere-area-of-effect-xphb|Sphere]] or ends its turn there. A creature makes this save only once per turn.
 
-The [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] moves 10 feet away from you at the start of each of your turns.
+The [[sphere-area-of-effect-xphb|Sphere]] moves 10 feet away from you at the start of each of your turns.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 5.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

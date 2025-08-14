@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clay-golem-xmm-clay-golem-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/clay-golem-xmm|Clay Golem]]
+# [[clay-golem-xmm|Clay Golem]]
 *Source: Monster Manual (2024) p. 72. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Clay Golem
@@ -70,27 +70,27 @@ These golems obey their creators' orders and protect what their makers value mos
 "speed": "20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common plus one other language"
 "cr": "9"
 "traits":
   - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
-      \ instead regains a number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ instead regains a number of [[hit-points-xphb|Hit Points]]\
       \ equal to the Acid damage dealt."
     "name": "Acid Absorption"
-  - "desc": "Whenever the golem starts its turn [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]],\
+  - "desc": "Whenever the golem starts its turn [[bloodied-xphb|Bloodied]],\
       \ roll d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
       \ goes berserk, it continues to be berserk until it is destroyed or it is no\
-      \ longer [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]]."
+      \ longer [[bloodied-xphb|Bloodied]]."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The golem has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -98,7 +98,7 @@ These golems obey their creators' orders and protect what their makers value mos
       \ used Hasten this turn."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (1d10 + 5) Bludgeoning\
-      \ damage plus 6 (d12) Acid damage, and the target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ damage plus 6 (d12) Acid damage, and the target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Acid damage taken."
     "name": "Slam"
 "bonus_actions":

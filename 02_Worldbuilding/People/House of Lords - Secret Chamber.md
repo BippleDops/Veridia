@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-house-of-lords-secret-chamber-house-of-lords-secret-chamber.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-house-of-lords-secret-chamber-house-of-lords-secret-chamber.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[Quest - The Crystal Festival]]
 
 ## Player-Facing Summary
 

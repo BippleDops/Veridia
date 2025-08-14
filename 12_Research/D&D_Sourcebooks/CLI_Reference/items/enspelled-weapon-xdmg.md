@@ -29,15 +29,15 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/enspelled-weapon-cantrip-xdmg|Enspelled Weapon (Cantrip)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-1-xdmg|Enspelled Weapon (Level 1)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-2-xdmg|Enspelled Weapon (Level 2)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-3-xdmg|Enspelled Weapon (Level 3)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-4-xdmg|Enspelled Weapon (Level 4)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-5-xdmg|Enspelled Weapon (Level 5)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-6-xdmg|Enspelled Weapon (Level 6)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-7-xdmg|Enspelled Weapon (Level 7)]]
-- [[/03_Mechanics/CLI/items/enspelled-weapon-level-8-xdmg|Enspelled Weapon (Level 8)]]
+- [[enspelled-weapon-cantrip-xdmg|Enspelled Weapon (Cantrip)]]
+- [[enspelled-weapon-level-1-xdmg|Enspelled Weapon (Level 1)]]
+- [[enspelled-weapon-level-2-xdmg|Enspelled Weapon (Level 2)]]
+- [[enspelled-weapon-level-3-xdmg|Enspelled Weapon (Level 3)]]
+- [[enspelled-weapon-level-4-xdmg|Enspelled Weapon (Level 4)]]
+- [[enspelled-weapon-level-5-xdmg|Enspelled Weapon (Level 5)]]
+- [[enspelled-weapon-level-6-xdmg|Enspelled Weapon (Level 6)]]
+- [[enspelled-weapon-level-7-xdmg|Enspelled Weapon (Level 7)]]
+- [[enspelled-weapon-level-8-xdmg|Enspelled Weapon (Level 8)]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*
 

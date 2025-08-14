@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-coral-reefs-memory-coral-reefs.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-coral-reefs-memory-coral-reefs.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Coral Reefs]]
+- [[Memory Coral Reefs]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[Lady Vivienne the Unfrozen]]
+- [[Teacher Miranda Hopekeeper]]

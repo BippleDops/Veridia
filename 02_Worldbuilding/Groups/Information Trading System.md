@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-information-trading-system-information-trading-system.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-information-trading-system-information-trading-system.svg]]
 
 
 ## Player-Facing Summary

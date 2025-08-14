@@ -23,7 +23,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\elemental/water-elemental-myrmidon-mpmm|Water Elemental Myrmidon]]
+# [[water-elemental-myrmidon-mpmm|Water Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -36,7 +36,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate]]"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "2"
@@ -50,8 +50,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft., swim 40 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Aquan, one language of its creator's choice"
 "cr": "7"

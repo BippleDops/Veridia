@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/dhergoloth-mpmm|Dhergoloth]]
+# [[dhergoloth-mpmm|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
 
 > [!quote] A quote from Mordenkainen  
@@ -62,7 +62,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "7"
@@ -85,7 +85,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/fear-xphb|fear]]"
+      \nAt will: [[darkness-xphb|darkness]], [[fear-xphb|fear]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

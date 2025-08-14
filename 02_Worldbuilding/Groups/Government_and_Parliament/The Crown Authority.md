@@ -5,9 +5,9 @@ alignment: Lawful Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Royal Administration
-headquarters: '[[02_Worldbuilding/Places/The Administrative Palace]]'
+headquarters: '[[The Administrative Palace]]'
 influence: Kingdom-wide
-leader: '[[02_Worldbuilding/Lore/High Administrator Cornelius Protocols]]'
+leader: '[[High Administrator Cornelius Protocols]]'
 members: ~15,000 civil servants, clerks, and administrators
 obsidianUIMode: preview
 status: complete
@@ -27,18 +27,15 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-crown-authority-the-crown-authority.svg)
-
-
 
 
 # The Crown Authority
 *The Royal Administration, The Bureaucratic Crown, Servants of Order*
 
 ## Overview
-The Crown Authority is the vast bureaucratic apparatus that actually governs [[02_Worldbuilding/Places/Aethermoor]] on a daily basis, serving as the administrative backbone beneath the royal pageantry. While [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] and [[02_Worldbuilding/Groups/The Crown]] provide symbolic leadership and grand policy direction, the Crown Authority handles the mundane but essential work of tax collection, law enforcement coordination, infrastructure maintenance, and civil administration. They are the silent machinery that keeps the kingdom functioning, often overlooked but absolutely indispensable.
+The Crown Authority is the vast bureaucratic apparatus that actually governs [[Aethermoor]] on a daily basis, serving as the administrative backbone beneath the royal pageantry. While [[Queen Seraphina Lumengarde]] and [[The Crown]] provide symbolic leadership and grand policy direction, the Crown Authority handles the mundane but essential work of tax collection, law enforcement coordination, infrastructure maintenance, and civil administration. They are the silent machinery that keeps the kingdom functioning, often overlooked but absolutely indispensable.
 
 ## History
 
@@ -47,29 +44,29 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - Established by King Aurelius I to professionalize royal administration
 - Replaced feudal personal loyalty system with merit-based bureaucracy
 - Created standardized procedures for all government functions
-- Established the [[02_Worldbuilding/Lore/The Administrative Code]] as foundation of civil service
+- Established the [[The Administrative Code]] as foundation of civil service
 - Built first centralized record-keeping systems
 
 ### The Crystal Integration (250 Years Ago)
 **Magical Modernization**
-- Incorporated [[02_Worldbuilding/Places/Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] into administrative processes
+- Incorporated [[Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] into administrative processes
 - Developed crystal communication networks between regional offices
 - Created magical filing systems and data processing methods
-- Established [[02_Worldbuilding/Lore/The Bureau of Crystal Regulation]]
+- Established [[The Bureau of Crystal Regulation]]
 - Pioneered supernatural audit and verification procedures
 
 ### The Corruption Crisis (100 Years Ago)
 **Shadow in the System**
 - First documented cases of shadow corruption affecting administrators
-- Discovered [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration attempts
+- Discovered [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration attempts
 - Implemented enhanced security and loyalty protocols
-- Created [[02_Worldbuilding/Lore/Internal Affairs Divisio]] to monitor civil servants
+- Created [[Internal Affairs Divisio]] to monitor civil servants
 - Established procedures for detecting supernatural influence
 
 ### Modern Efficiency (Last 50 Years)
 **Peak Bureaucracy**
 - Reached maximum organizational complexity and efficiency
-- Integrated with [[02_Worldbuilding/Places/Aquabyssos]] diplomatic protocols
+- Integrated with [[Aquabyssos]] diplomatic protocols
 - Developed crisis management procedures for reality anomalies
 - Created specialized departments for supernatural governance
 - Maintains stability despite increasing political pressures
@@ -78,12 +75,12 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 
 ### The Administrative Council
 **Executive Leadership**
-- **High Administrator**: [[02_Worldbuilding/Lore/High Administrator Cornelius Protocols]] - Supreme bureaucrat
-- **Deputy of Internal Affairs**: [[02_Worldbuilding/People/Lady Penelope Procedure]] - Security and compliance
-- **Treasurer General**: [[02_Worldbuilding/Places/Master Goldwin Ledgerkeeper]] - Financial administration
-- **Records Paramount**: [[02_Worldbuilding/Lore/Archivist Supreme Indexa]] - Information management
-- **Protocol Master**: [[02_Worldbuilding/People/Sir Ruben Redtape]] - Ceremonial and diplomatic procedures
-- **Regional Coordinator**: [[02_Worldbuilding/Lore/Chancellor Marcus Provinces]] - Local government liaison
+- **High Administrator**: [[High Administrator Cornelius Protocols]] - Supreme bureaucrat
+- **Deputy of Internal Affairs**: [[Lady Penelope Procedure]] - Security and compliance
+- **Treasurer General**: [[Master Goldwin Ledgerkeeper]] - Financial administration
+- **Records Paramount**: [[Archivist Supreme Indexa]] - Information management
+- **Protocol Master**: [[Sir Ruben Redtape]] - Ceremonial and diplomatic procedures
+- **Regional Coordinator**: [[Chancellor Marcus Provinces]] - Local government liaison
 
 ### The Great Departments
 
@@ -208,32 +205,32 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Relationships & Politics
 
 ### Institutional Partners
-- **[[02_Worldbuilding/Groups/The Crown]]**: Primary authority served
-- **[[02_Worldbuilding/Places/Royal Guard]]**: Security and enforcement coordination
-- **[[02_Worldbuilding/Lore/Provincial Governments]]**: Local administration integration
-- **[[02_Worldbuilding/Lore/Judicial System]]**: Legal process support and coordination
-- **[[02_Worldbuilding/Places/Military Command]]**: Logistical and administrative support
+- **[[The Crown]]**: Primary authority served
+- **[[Royal Guard]]**: Security and enforcement coordination
+- **[[Provincial Governments]]**: Local administration integration
+- **[[Judicial System]]**: Legal process support and coordination
+- **[[Military Command]]**: Logistical and administrative support
 
 ### Regulated Entities
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic oversight and taxation
-- **[[02_Worldbuilding/Groups/Guilds/Guild Organizations]]**: Professional regulation and licensing
-- **[[02_Worldbuilding/Groups/Orders/Religious Orders]]**: Institutional registration and tax exempt status
-- **[[02_Worldbuilding/Lore/Foreign Merchants]]**: Trade regulation and customs administration
-- **[[02_Worldbuilding/Lore/Magic Users]]**: Supernatural ability registration and monitoring
+- **[[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic oversight and taxation
+- **[[Guild Organizations]]**: Professional regulation and licensing
+- **[[Religious Orders]]**: Institutional registration and tax exempt status
+- **[[Foreign Merchants]]**: Trade regulation and customs administration
+- **[[Magic Users]]**: Supernatural ability registration and monitoring
 
 ### Institutional Rivals
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic influence vs. regulatory authority
-- **[[02_Worldbuilding/Lore/Provincial Nobility]]**: Local power vs. central administration
-- **[[02_Worldbuilding/Lore/Independent Contractors]]**: Efficiency competition and service alternatives
-- **[[02_Worldbuilding/Lore/Criminal Organizations]]**: Law enforcement and revenue protection
-- **[[02_Worldbuilding/Lore/Corruption Networks]]**: Integrity maintenance and system protection
+- **[[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic influence vs. regulatory authority
+- **[[Provincial Nobility]]**: Local power vs. central administration
+- **[[Independent Contractors]]**: Efficiency competition and service alternatives
+- **[[Criminal Organizations]]**: Law enforcement and revenue protection
+- **[[Corruption Networks]]**: Integrity maintenance and system protection
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Loyal service but policy disagreements
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Cooperation with jurisdictional tensions
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Members]]**: Administrative support with political complications
-- **[[02_Worldbuilding/Lore/Common Citizens]]**: Service providers but also regulators and tax collectors
-- **[[02_Worldbuilding/Lore/Shadow-Touched Individuals]]**: Administrative challenges with supernatural complications
+- **[[Queen Seraphina Lumengarde]]**: Loyal service but policy disagreements
+- **[[High Inquisitor Maltheos]]**: Cooperation with jurisdictional tensions
+- **[[Parliament Members]]**: Administrative support with political complications
+- **[[Common Citizens]]**: Service providers but also regulators and tax collectors
+- **[[Shadow-Touched Individuals]]**: Administrative challenges with supernatural complications
 
 ## Administrative Culture
 
@@ -261,34 +258,34 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Notable Members
 
 ### Senior Leadership
-- **[[02_Worldbuilding/Lore/High Administrator Cornelius Protocols]]** - Supreme bureaucrat and organizational genius
-- **[[02_Worldbuilding/People/Lady Penelope Procedure]]** - Internal affairs expert and corruption hunter
-- **[[02_Worldbuilding/Places/Master Goldwin Ledgerkeeper]]** - Financial administrator and tax policy expert
-- **[[02_Worldbuilding/Lore/Archivist Supreme Indexa]]** - Information management and records security
-- **[[02_Worldbuilding/People/Sir Ruben Redtape]]** - Protocol master and diplomatic procedure expert
+- **[[High Administrator Cornelius Protocols]]** - Supreme bureaucrat and organizational genius
+- **[[Lady Penelope Procedure]]** - Internal affairs expert and corruption hunter
+- **[[Master Goldwin Ledgerkeeper]]** - Financial administrator and tax policy expert
+- **[[Archivist Supreme Indexa]]** - Information management and records security
+- **[[Sir Ruben Redtape]]** - Protocol master and diplomatic procedure expert
 
 ### Department Chiefs
-- **[[02_Worldbuilding/Lore/Tax Commissioner Merion Goldcount]]** - Revenue collection specialist
+- **[[Tax Commissioner Merion Goldcount]]** - Revenue collection specialist
 - **[[Legal Coordinator Martha Lawbinder]]** - Judicial administration expert
 - **[[Infrastructure Manager Boris Bridgewright]]** - Public works and maintenance
-- **[[02_Worldbuilding/Lore/Security Chief Valdris Watchful]]** - Administrative protection and investigation
-- **[[02_Worldbuilding/Lore/Diplomatic Liaison Cordelia Treatywriter]]** - International relations coordination
+- **[[Security Chief Valdris Watchful]]** - Administrative protection and investigation
+- **[[Diplomatic Liaison Cordelia Treatywriter]]** - International relations coordination
 
 ### Rising Stars
 - **[[Junior Administrator Elena Efficient]]** - Process optimization expert
-- **[[02_Worldbuilding/Places/Clerk Supreme Marcus Filekeeper]]** - Record management prodigy
-- **[[02_Worldbuilding/Lore/Protocol Specialist Sarah Ceremonial]]** - Diplomatic procedure innovation
-- **[[02_Worldbuilding/Lore/Audit Investigator Thomas Truthseeker]]** - Fraud detection and prevention
-- **[[02_Worldbuilding/Lore/Crystal Technician Prisma Dataflow]]** - Magical administration technology
+- **[[Clerk Supreme Marcus Filekeeper]]** - Record management prodigy
+- **[[Protocol Specialist Sarah Ceremonial]]** - Diplomatic procedure innovation
+- **[[Audit Investigator Thomas Truthseeker]]** - Fraud detection and prevention
+- **[[Crystal Technician Prisma Dataflow]]** - Magical administration technology
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[02_Worldbuilding/Places/The Administrative Palace]]**: Central government complex with 200+ offices
-- **[[02_Worldbuilding/Lore/The Great Archive]]**: Massive document storage and retrieval facility
-- **[[02_Worldbuilding/Lore/Crystal Communication Center]]**: Government-wide information coordination hub
-- **[[02_Worldbuilding/Lore/Training Institute of Civil Service]]**: Professional development and education
-- **[[02_Worldbuilding/Lore/The Audit Tower]]**: Financial oversight and investigation headquarters
+- **[[The Administrative Palace]]**: Central government complex with 200+ offices
+- **[[The Great Archive]]**: Massive document storage and retrieval facility
+- **[[Crystal Communication Center]]**: Government-wide information coordination hub
+- **[[Training Institute of Civil Service]]**: Professional development and education
+- **[[The Audit Tower]]**: Financial oversight and investigation headquarters
 
 ### Regional Infrastructure
 - **Provincial Administrative Centers**: Government offices in major cities
@@ -307,9 +304,9 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - Resistance to change hampers innovation and improvement
 
 ### External Threats
-- [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] economic manipulation and bribery
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] infiltration and corruption
-- Political pressure from [[02_Worldbuilding/Groups/The Crown]] for policy changes
+- [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] economic manipulation and bribery
+- [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] infiltration and corruption
+- Political pressure from [[The Crown]] for policy changes
 - Public criticism and anti-government sentiment
 - Resource limitations during economic or military crises
 
@@ -346,11 +343,11 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Campaign Integration
 
 ### Long-Term Storylines
-- Gradual discovery of [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration
+- Gradual discovery of [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] infiltration
 - Evolution of administrative procedures to handle supernatural challenges
 - Growing tension between efficiency and accountability
 - Development of new administrative technologies and methods
-- Integration challenges with [[02_Worldbuilding/Places/Aquabyssos]] governmental systems
+- Integration challenges with [[Aquabyssos]] governmental systems
 
 ### Political Ramifications
 - Administrative decisions affecting kingdom-wide policy
@@ -378,30 +375,30 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ## Connected Elements
 
 ### Key NPCs
-- **[[02_Worldbuilding/Lore/High Administrator Cornelius Protocols]]** - Supreme bureaucrat
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Ultimate authority served
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Judicial coordination partner
-- **[[02_Worldbuilding/People/Lady Penelope Procedure]]** - Internal security specialist
-- **[[02_Worldbuilding/Places/Master Goldwin Ledgerkeeper]]** - Financial administration expert
+- **[[High Administrator Cornelius Protocols]]** - Supreme bureaucrat
+- **[[Queen Seraphina Lumengarde]]** - Ultimate authority served
+- **[[High Inquisitor Maltheos]]** - Judicial coordination partner
+- **[[Lady Penelope Procedure]]** - Internal security specialist
+- **[[Master Goldwin Ledgerkeeper]]** - Financial administration expert
 
 ### Related Locations
-- **[[02_Worldbuilding/Places/The Administrative Palace]]** - Primary headquarters
+- **[[The Administrative Palace]]** - Primary headquarters
 - **[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]]** - Royal authority location
-- **[[02_Worldbuilding/Lore/The Great Archive]]** - Information storage facility
-- **[[02_Worldbuilding/Lore/Provincial Administrative Centers]]** - Regional offices
-- **[[02_Worldbuilding/Lore/Crystal Communication Center]]** - Government coordination hub
+- **[[The Great Archive]]** - Information storage facility
+- **[[Provincial Administrative Centers]]** - Regional offices
+- **[[Crystal Communication Center]]** - Government coordination hub
 
 ### Associated Quests
-- **[[02_Worldbuilding/Quests/Quest - Foreign Interests]]** - Diplomatic administration
-- **[[02_Worldbuilding/Lore/Quest - The Great Census]]** - Administrative project
-- **[[02_Worldbuilding/Lore/Quest - The Corruption Investigation]]** - Internal security
-- **[[02_Worldbuilding/Lore/Quest - The System Reform]]** - Administrative improvement
-- **[[02_Worldbuilding/Lore/Quest - The Service Expansion]]** - Government growth
+- **[[Quest - Foreign Interests]]** - Diplomatic administration
+- **[[Quest - The Great Census]]** - Administrative project
+- **[[Quest - The Corruption Investigation]]** - Internal security
+- **[[Quest - The System Reform]]** - Administrative improvement
+- **[[Quest - The Service Expansion]]** - Government growth
 
 ### Important Items
-- **[[02_Worldbuilding/Lore/The Administrative Code]]** - Fundamental procedures manual
+- **[[The Administrative Code]]** - Fundamental procedures manual
 - **[[Government Seal of Authority]]** - Official power symbol
-- **[[02_Worldbuilding/Lore/Crystal Communication Array]]** - Administrative coordination technology
+- **[[Crystal Communication Array]]** - Administrative coordination technology
 - **[[Master Personnel Files]]** - Complete government employee records
 - **[[Emergency Protocol Manual]]** - Crisis response procedures
 
@@ -412,12 +409,12 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Discover Marina's Truth]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

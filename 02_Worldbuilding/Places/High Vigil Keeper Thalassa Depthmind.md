@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-high-vigil-keeper-thalassa-depthmind-high-vigil-keeper-thalassa-depthmind.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-high-vigil-keeper-thalassa-depthmind-high-vigil-keeper-thalassa-depthmind.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind]]
+- [[High Vigil Keeper Thalassa Depthmind]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
+- [[The Abyss Beneath Aquabyssos]]

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aerial
 - aethermoor
 - complete
 - content/lore
@@ -12,9 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.375592+00:00'
 world: Aethermoor
 ---
-
-
-
 
 
 ## Overview
@@ -40,3 +38,7 @@ Legends speak of Sky City Councils as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

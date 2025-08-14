@@ -28,7 +28,7 @@ The village of Barovia is the saddest place in the land, its residents so terrif
 
 Until recently, Strahd had been paying nightly visits to [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]], the adopted daughter of the village burgomaster. Ireena carries the soul of Strahd's beloved Tatyana and looks exactly like her. Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 
-> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > Same voice, same face, same graceful body, she was Tatyana come back to life again. I was absolutely witless from astonishment.
 
@@ -56,9 +56,9 @@ If the characters explore a residence other than [[/03_Mechanics/CLI/bestiary/np
 | dice: d20 | Occupants |
 |-----------|-----------|
 | 1–3 | None |
-| 4–8 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]] |
+| 4–8 | `2d4` [[swarm-of-rats-xmm|swarms of rats]] |
 | 9–16 | Barovian villagers |
-| 17–20 | `2d4` [[/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos|Strahd zombies]] (see appendix D) |
+| 17–20 | `2d4` [[strahd-zombie-cos|Strahd zombies]] (see appendix D) |
 ^occupants-of-houses-in-barovia
 
 #### Rats
@@ -153,9 +153,9 @@ The malformed doll has a strange leer and wears a sackcloth dress. It belonged t
 > A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.
 ^14f
 
-Characters who survey the grounds can, with a successful DC 11 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control.
+Characters who survey the grounds can, with a successful DC 11 Wisdom ([[skills#Perception|Perception]]) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control.
 
-[[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]] (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]] with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]] or [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, or if Ismark is with them, she opens the door and invites them in.
+[[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]] (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]] with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma ([[skills#Deception|Deception]] or [[skills#Persuasion|Persuasion]]) check, or if Ismark is with them, she opens the door and invites them in.
 
 If the characters enter the mansion, read:
 
@@ -287,7 +287,7 @@ Once Kolyan is put in the ground, [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/021-cos03-08.webp#center|Doru]]
 
-The shape is [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]], a [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] sent by Strahd to torment [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|Donavich]] and cast down the church. [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
+The shape is [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]], a [[vampire-spawn-xmm|vampire spawn]] sent by Strahd to torment [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|Donavich]] and cast down the church. [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]] is starved for blood and brave enough to attack a lone character. If the characters approach as a group, he does his best to avoid them while hissing, "I can smell your blood!" If they cut off his escape, he lunges forth and attacks.
 
 If the characters restrain [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]] and either promise him blood or threaten to destroy him, or if they kill him and then raise him from the dead, he recounts the events that led to his downfall (see area E5f).
 
@@ -334,7 +334,7 @@ This event occurs as the characters make their way through the village.
 > You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
 ^16d
 
-[[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]], a [[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm|night hag]] in the guise of an old woman, has come to the village from Old Bonegrinder to sell her dream pastries for 1 gp apiece (see chapter 6 for a description of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucian Jarov (LG male human noncombatant). Lucian's parents plead with [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to Old Bonegrinder.
+[[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]], a [[night-hag-xmm|night hag]] in the guise of an old woman, has come to the village from Old Bonegrinder to sell her dream pastries for 1 gp apiece (see chapter 6 for a description of the pastries). She goes from house to house, knocking on doors. Most of the time, no one answers. When someone does, [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] tries to peddle her wares, offering customers an escape from the misery and despair of everyday Barovian life. If the characters shadow her for a while, she collects payment from one household in the form of a seven-year-old boy named Lucian Jarov (LG male human noncombatant). Lucian's parents plead with [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] not to take their boy, but she snatches the crying child from their grasp, stuffs him in a sack, straps him down to her peddler's cart, and casually makes her way back to Old Bonegrinder.
 
 [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] recognizes that the characters are strangers and does her best to avoid them. If the characters demand the release of the child, she grudgingly complies, knowing that she can always come back for the boy later. She fights only in self-defense and offers the following information in exchange for her life:
 

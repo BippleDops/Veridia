@@ -28,14 +28,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/mindwitness-mpmm|Mindwitness]]
+# [[mindwitness-mpmm|Mindwitness]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
 
-If a beholder is [[/03_Mechanics/CLI/conditions#Stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
+If a beholder is [[conditions#Stunned|stunned]] and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 
 A mindwitness's primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
-If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[/03_Mechanics/CLI/bestiary/aberration/flumph-xmm|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
+If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [[flumph-xmm|flumphs]] and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 ```statblock
 "name": "Mindwitness (MPMM)"
@@ -59,9 +59,9 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
   - "intelligence": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Deep Speech, Undercommon, telepathy 600 ft."
 "cr": "5"
@@ -78,9 +78,9 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
       \ (4d6 + 2) piercing damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit:\
-      \ 20 (4d8 + 2) psychic damage. If the target is Large or smaller, it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ 20 (4d8 + 2) psychic damage. If the target is Large or smaller, it is [[conditions#Grappled|grappled]]\
       \ (escape DC 13), and it must succeed on a DC 13 Intelligence saving throw or\
-      \ be [[/03_Mechanics/CLI/conditions#Restrained|restrained]] until this grapple\
+      \ be [[conditions#Restrained|restrained]] until this grapple\
       \ ends."
     "name": "Tentacles"
   - "desc": "The mindwitness shoots one magical eye ray at random (roll a d6, and\
@@ -90,7 +90,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
       \ disadvantage on attack rolls for 1 minute. The target can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success.\
       \  \n- 2 Fear Ray. The targeted creature must succeed on a DC 13 Wisdom\
-      \ saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ saving throw or be [[conditions#Frightened|frightened]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- 3 Psychic Ray.\
       \ The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8)\
@@ -100,14 +100,14 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
       \ either an action or a bonus action on its turn but not both. The creature\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success.  \n- 5 Stunning Ray. The targeted creature must\
-      \ succeed on a DC 13 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
+      \ succeed on a DC 13 Constitution saving throw or be [[conditions#Stunned|stunned]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- 6 Telekinetic\
       \ Ray. If the target is a creature, it must make a DC 13 Strength saving throw.\
       \ On a failed save, the mindwitness moves it up to 30 feet in any direction,\
-      \ and it is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] by the ray's\
+      \ and it is [[conditions#Restrained|restrained]] by the ray's\
       \ telekinetic grip until the start of the mindwitness's next turn or until the\
-      \ mindwitness is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].\
+      \ mindwitness is [[conditions#Incapacitated|incapacitated]].\
       \  \n\n    If the target is an object weighing 300 pounds or less that isn't\
       \ being worn or carried, it is telekinetically moved up to 30 feet in any direction.\
       \ The mindwitness can also exert fine control on objects with this ray, such\

@@ -34,7 +34,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [[/03_Mechanics/CLI/items/musket-xphb|Musket]], [[/03_Mechanics/CLI/items/pistol-xphb|Pistol]], [[/03_Mechanics/CLI/items/bell-xphb|Bell]], [[/03_Mechanics/CLI/items/bullseye-lantern-xphb|Bullseye Lantern]], [[/03_Mechanics/CLI/items/flask-xphb|Flask]], [[/03_Mechanics/CLI/items/hooded-lantern-xphb|Hooded Lantern]], [[/03_Mechanics/CLI/items/hunting-trap-xphb|Hunting Trap]], [[/03_Mechanics/CLI/items/lock-xphb|Lock]], [[/03_Mechanics/CLI/items/manacles-xphb|Manacles]], [[/03_Mechanics/CLI/items/mirror-xphb|Mirror]], [[/03_Mechanics/CLI/items/shovel-xphb|Shovel]], [[/03_Mechanics/CLI/items/signal-whistle-xphb|Signal Whistle]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]]  
+- **Craft.** [[musket-xphb|Musket]], [[pistol-xphb|Pistol]], [[bell-xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], [[flask-xphb|Flask]], [[hooded-lantern-xphb|Hooded Lantern]], [[hunting-trap-xphb|Hunting Trap]], [[lock-xphb|Lock]], [[manacles-xphb|Manacles]], [[mirror-xphb|Mirror]], [[shovel-xphb|Shovel]], [[signal-whistle-xphb|Signal Whistle]], [[tinderbox-xphb|Tinderbox]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

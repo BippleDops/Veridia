@@ -26,9 +26,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-flying-sword-xmm|Animated Flying Sword]]
+# [[animated-flying-sword-xmm|Animated Flying Sword]]
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
@@ -86,10 +86,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 7"
 "languages": ""
 "cr": "1/4"

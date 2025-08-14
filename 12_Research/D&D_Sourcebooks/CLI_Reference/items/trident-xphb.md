@@ -26,7 +26,7 @@ world: Both
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 

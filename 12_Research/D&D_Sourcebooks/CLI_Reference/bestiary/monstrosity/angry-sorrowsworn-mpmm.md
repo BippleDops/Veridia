@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-angry-sorrowsworn-mpmm-angry-sorrowsworn-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/angry-sorrowsworn-mpmm|Angry Sorrowsworn]]
+# [[angry-sorrowsworn-mpmm|Angry Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
@@ -54,17 +54,17 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common"
 "cr": "13"
 "traits":
-  - "desc": "The sorrowsworn has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Blinded|blinded]],\
-      \ [[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-      \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]],\
-      \ or knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]."
+  - "desc": "The sorrowsworn has advantage on saving throws against being [[conditions#Blinded|blinded]],\
+      \ [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+      \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]],\
+      \ or knocked [[conditions#Unconscious|unconscious]]."
     "name": "Two Heads"
   - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
       \ attack rolls have advantage until the end of its next turn, and the first\

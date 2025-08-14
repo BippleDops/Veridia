@@ -38,11 +38,11 @@ world: Both
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.
+Objects in a 20-foot [[cube-area-of-effect-xphb|Cube]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[cube-area-of-effect-xphb|Cube]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[dim-light-xphb|Dim Light]] in a 10-foot radius and can't benefit from the [[conditions#Invisible|Invisible]] condition.
 
-[[/03_Mechanics/CLI/actions#Attack|Attack]] rolls against an affected creature or object have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] if the attacker can see it.
+[[actions#Attack|Attack]] rolls against an affected creature or object have [[advantage-xphb|Advantage]] if the attacker can see it.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Archfey Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-light-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Light Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

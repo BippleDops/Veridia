@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-devourer-mpmm-devourer-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/devourer-mpmm|Devourer]]
+# [[devourer-mpmm|Devourer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  
 
 Of all the abominations unleashed by [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 
-A lesser demon that proves itself to Orcus might be granted the privilege of becoming a devourer. The Prince of Undeath transforms such a demon into an 8-foot-tall, desiccated biped with a hollowed-out ribcage, then fills the new creature with a hunger for souls. Orcus grants each new devourer the essence of a less fortunate demon to power the devourer's first foray into the planes. Most devourers remain in the Abyss or on the Astral or Ethereal Plane, pursuing Orcus's schemes and interests in those realms. When Orcus sends devourers to the Material Plane, he often sets them on a mission to create, control, and lead a plague of Undead. [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeletons]], [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]], [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]], [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|ghasts]], and [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|shadows]] are particularly attracted to the presence of a devourer.
+A lesser demon that proves itself to Orcus might be granted the privilege of becoming a devourer. The Prince of Undeath transforms such a demon into an 8-foot-tall, desiccated biped with a hollowed-out ribcage, then fills the new creature with a hunger for souls. Orcus grants each new devourer the essence of a less fortunate demon to power the devourer's first foray into the planes. Most devourers remain in the Abyss or on the Astral or Ethereal Plane, pursuing Orcus's schemes and interests in those realms. When Orcus sends devourers to the Material Plane, he often sets them on a mission to create, control, and lead a plague of Undead. [[skeleton-xmm|Skeletons]], [[zombie-xmm|zombies]], [[ghoul-xmm|ghouls]], [[ghast-xmm|ghasts]], and [[shadow-xmm|shadows]] are particularly attracted to the presence of a devourer.
 
 Devourers hunt Humanoids with the intent of consuming them body and soul. After a devourer brings a target to the brink of death, it pulls the victim's body in and traps the creature within its own ribcage. As the victim tries to stave off death (usually without success), the devourer tortures its soul with telepathic noise. When the victim expires, it undergoes a horrible transformation, springing forth from the devourer's body to begin its new existence as an Undead servitor of the monster that spawned it.
 
@@ -54,7 +54,7 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
@@ -71,14 +71,14 @@ Devourers hunt Humanoids with the intent of consuming them body and soul. After 
   - "desc": "The devourer chooses a living Humanoid with 0 hit points that it can\
       \ see within 30 feet of it. That creature is teleported inside the devourer's\
       \ ribcage and imprisoned there. While imprisoned in this way, the creature is\
-      \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]] and has disadvantage\
+      \ [[conditions#Restrained|restrained]] and has disadvantage\
       \ on death saving throws. If the creature dies while imprisoned, the devourer\
       \ regains 25 hit points and immediately recharges Soul Rend. Additionally, at\
       \ the start of its next turn, the devourer regurgitates the slain creature as\
       \ a bonus action, and the creature becomes an undead. If the victim had 2 or\
-      \ fewer Hit Dice, it becomes a [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombie]].\
-      \ If it had 3 to 5 Hit Dice, it becomes a [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghoul]].\
-      \ Otherwise, it becomes a [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wight]].\
+      \ fewer Hit Dice, it becomes a [[zombie-xmm|zombie]].\
+      \ If it had 3 to 5 Hit Dice, it becomes a [[ghoul-xmm|ghoul]].\
+      \ Otherwise, it becomes a [[wight-xmm|wight]].\
       \ A devourer can imprison only one creature at a time."
     "name": "Imprison Soul"
   - "desc": "The devourer creates a vortex of life-draining energy in a 20-foot radius\

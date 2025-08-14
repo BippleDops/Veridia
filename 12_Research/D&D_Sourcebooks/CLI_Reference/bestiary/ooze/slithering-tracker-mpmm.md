@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-slithering-tracker-mpmm-slithering-tracker-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/slithering-tracker-mpmm|Slithering Tracker]]
+# [[slithering-tracker-mpmm|Slithering Tracker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -55,17 +55,17 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+6"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
@@ -73,7 +73,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - "desc": "If the slithering tracker is motionless at the start of combat, it has\
       \ advantage on its initiative roll. Moreover, if a creature hasn't observed\
       \ the slithering tracker move or act, that creature must succeed on a DC 18\
-      \ Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check\
+      \ Intelligence ([[skills#Investigation|Investigation]]) check\
       \ to discern that the slithering tracker isn't a puddle."
     "name": "False Appearance"
   - "desc": "The slithering tracker can enter an enemy's space and stop there. It\
@@ -87,17 +87,17 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
       \ + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "One Large or smaller creature that the slithering tracker can see within\
-      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 13). Until this grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
-      \ and unable to breathe unless it can breathe water. In addition, the [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [[conditions#Grappled|grappled]]\
+      \ (escape DC 13). Until this grapple ends, the target is [[conditions#Restrained|restrained]]\
+      \ and unable to breathe unless it can breathe water. In addition, the [[conditions#Grappled|grappled]]\
       \ target takes 16 (3d10) necrotic damage at the start of each of its turns.\
       \ The slithering tracker can grapple only one target at a time.\n\nWhile grappling\
       \ the target, the slithering tracker takes only half any damage dealt to it\
       \ (rounded down), and the target takes the other half."
     "name": "Life Leech"
 "bonus_actions":
-  - "desc": "If underwater, the slithering tracker takes the [[/03_Mechanics/CLI/actions#Hide|Hide]]\
-      \ action, and it makes the Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]])\
+  - "desc": "If underwater, the slithering tracker takes the [[actions#Hide|Hide]]\
+      \ action, and it makes the Dexterity ([[skills#Stealth|Stealth]])\
       \ check with advantage."
     "name": "Watery Stealth"
 "source":

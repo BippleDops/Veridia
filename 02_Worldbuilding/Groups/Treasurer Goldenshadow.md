@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-treasurer-goldenshadow.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-treasurer-goldenshadow.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]
+- [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[The Shadow Trade Network]]
 
 ## Player-Facing Summary
 

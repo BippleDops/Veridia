@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Terminal Director Admiral Current Swiftflow]]
+- [[12_Research/D&D_References/Terminal Director Admiral Current Swiftflow]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
+- [[12_Research/D&D_References/Pressure Tube Terminal]]

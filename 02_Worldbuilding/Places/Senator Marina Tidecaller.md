@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-senator-marina-tidecaller-senator-marina-tidecaller.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-senator-marina-tidecaller-senator-marina-tidecaller.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator Marina Tidecaller]]
+- [[12_Research/D&D_References/Senator Marina Tidecaller]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[12_Research/D&D_References/The Eternal Senate]]

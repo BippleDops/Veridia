@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-observation-tender-clara-observation-tender-clara.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Observation Tender Clara]]
+- [[12_Research/D&D_References/Observation Tender Clara]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[12_Research/D&D_References/The Silent Watcher]]

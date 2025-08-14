@@ -39,20 +39,20 @@ You create a magical restraint to hold a creature that you can see within range.
 Until the spell ends, the target is also affected by one of the following effects of your choice:
 
 - **Burial.** The target is entombed beneath the earth in a hollow globe of magical force that is just large enough to contain the target. Nothing can pass into or out of the globe.  
-- **Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and can't be moved by any means.  
+- **Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the [[conditions#Restrained|Restrained]] condition and can't be moved by any means.  
 - **Hedged Prison.** The target is trapped in a demiplane that is warded against teleportation and planar travel. The demiplane is your choice of a labyrinth, a cage, a tower, or the like.  
 - **Minimus Containment.** The target becomes 1 inch tall and is trapped inside an indestructible gemstone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.  
-- **Slumber.** The target has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]] condition and can't be awoken.  
+- **Slumber.** The target has the [[conditions#Unconscious|Unconscious]] condition and can't be awoken.  
 
 ## Ending the Spell
 
 When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
 
-A [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel Magic]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
+A [[dispel-magic-xphb|Dispel Magic]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

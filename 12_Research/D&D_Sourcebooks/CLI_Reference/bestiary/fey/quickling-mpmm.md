@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quickling-mpmm-quickling-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/quickling-mpmm|Quickling]]
+# [[quickling-mpmm|Quickling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -58,24 +58,24 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
   - !!int "7"
 "speed": "120 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "Attack rolls against the quickling have disadvantage unless it is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
+  - "desc": "Attack rolls against the quickling have disadvantage unless it is [[conditions#Incapacitated|incapacitated]]\
       \ or its speed is 0."
     "name": "Blurred Movement"
   - "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw and only half damage if it fails, provided it isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ on the saving throw and only half damage if it fails, provided it isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Evasion"
 "actions":
   - "desc": "The quickling makes three Dagger attacks."

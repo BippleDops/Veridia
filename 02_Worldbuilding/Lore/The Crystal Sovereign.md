@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
 
 ## Player-Facing Summary
 

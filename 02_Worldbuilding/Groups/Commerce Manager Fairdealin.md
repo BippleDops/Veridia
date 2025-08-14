@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-commerce-manager-fairdealin-commerce-manager-fairdealin.svg]]
 
 
 ## Overview

@@ -19,9 +19,9 @@ world: Both
 # Rockslide
 *Generic Hazard*  
 
-When a rockslide occurs, every creature in its path makes a DC 15 Dexterity saving throw. On a failed save, a creature takes 11 (`2d10`) Bludgeoning damage, has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition, and moves with the rockslide. On a successful save, a creature takes half as much damage only.
+When a rockslide occurs, every creature in its path makes a DC 15 Dexterity saving throw. On a failed save, a creature takes 11 (`2d10`) Bludgeoning damage, has the [[conditions#Prone|Prone]] condition, and moves with the rockslide. On a successful save, a creature takes half as much damage only.
 
-When the rockslide stops, its space becomes [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]], and all Prone creatures in its space are buried under rocks and debris. A creature buried in this way has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and has [[/03_Mechanics/CLI/tables/cover-xphb|Total Cover]]. As an action, a creature can try to crawl out from under the rock pile. If the creature succeeds on a DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check, it is no longer Restrained; instead, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition and is atop the rock pile. If the check fails, the creature remains buried and gains 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] level.
+When the rockslide stops, its space becomes [[difficult-terrain-xphb|Difficult Terrain]], and all Prone creatures in its space are buried under rocks and debris. A creature buried in this way has the [[conditions#Restrained|Restrained]] condition and has [[cover-xphb|Total Cover]]. As an action, a creature can try to crawl out from under the rock pile. If the creature succeeds on a DC 15 Strength ([[skills#Athletics|Athletics]]) check, it is no longer Restrained; instead, it has the [[conditions#Prone|Prone]] condition and is atop the rock pile. If the check fails, the creature remains buried and gains 1 [[conditions#Exhaustion|Exhaustion]] level.
 
 A creature that has neither the Incapacitated nor the Restrained condition can spend 1 minute freeing another creature buried by the rockslide.
 

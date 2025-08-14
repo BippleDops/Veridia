@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-stolen-anvil-the-stolen-anvil.svg)
-
-
-
 
 
 # The Stolen Anvil
@@ -165,7 +161,7 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Stolen Anvil]]
+- [[The Stolen Anvil]]
 
 <!-- enriched: true -->
 iched: true -->

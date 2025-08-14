@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[12_Research/D&D_References/The Depth Market]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[12_Research/D&D_References/The Depth Market]]
 
 ## Player-Facing Summary
 

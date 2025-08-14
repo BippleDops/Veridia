@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-depth-wardens-depth-wardens.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-wardens-depth-wardens.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Warden]]
+- [[12_Research/D&D_References/Depth Warden]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Deserter's Tale]]
+- [[12_Research/D&D_References/The Deserter's Tale]]

@@ -23,13 +23,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg]]
 
 
 # Quest - The Traitor Within
@@ -127,7 +122,7 @@ This quest explores themes of loyalty, family, and moral complexity in wartime. 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[Lord Commander Gareth Steelborn]]
 
 
 ## Appearance
@@ -175,6 +170,6 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Traitor Within]]
+- [[Quest - The Traitor Within]]
 
 <!-- enriched: true -->

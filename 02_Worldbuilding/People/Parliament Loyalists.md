@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-parliament-loyalists-parliament-loyalists.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-parliament-loyalists-parliament-loyalists.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Senator]]
+- [[Senator]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Assassin]]
-- [[02_Worldbuilding/People/Senator]]
+- [[Assassin]]
+- [[Senator]]
 
 ## Player-Facing Summary
 

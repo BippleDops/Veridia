@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-priest-absence-high-priest-absence.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priest-absence-high-priest-absence.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
+- [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[The Shadow Conspiracy]]
 
 ## Player-Facing Summary
 

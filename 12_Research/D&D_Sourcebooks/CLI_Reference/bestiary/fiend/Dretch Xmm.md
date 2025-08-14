@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dretch-xmm-dretch-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/dretch-xmm|Dretch]]
+# [[dretch-xmm|Dretch]]
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
@@ -68,7 +68,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
@@ -76,10 +76,10 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the dretch. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition until the end of its next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
-      \ the creature can take either an action or a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the dretch. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the end of its next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the creature can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Cloud (1/Day)"
 "source":

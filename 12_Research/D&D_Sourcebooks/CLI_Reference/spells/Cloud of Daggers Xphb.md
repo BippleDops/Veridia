@@ -39,13 +39,13 @@ world: Both
 - **Components:** V, S, M (a sliver of glass)
 - **Duration:** Concentration, up to 1 minute
 
-You conjure spinning daggers in a 5-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] centered on a point within range. Each creature in that area takes `4d4` Slashing damage. A creature also takes this damage if it enters the [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] or ends its turn there or if the [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] moves into its space. A creature takes this damage only once per turn.
+You conjure spinning daggers in a 5-foot [[cube-area-of-effect-xphb|Cube]] centered on a point within range. Each creature in that area takes `4d4` Slashing damage. A creature also takes this damage if it enters the [[cube-area-of-effect-xphb|Cube]] or ends its turn there or if the [[cube-area-of-effect-xphb|Cube]] moves into its space. A creature takes this damage only once per turn.
 
-On your later turns, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to teleport the [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] up to 30 feet.
+On your later turns, you can take a [[actions#Magic|Magic]] action to teleport the [[cube-area-of-effect-xphb|Cube]] up to 30 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d4` for each spell slot level above 2.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 251*
 

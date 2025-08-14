@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg]]
 
 
 # Quieting the Depths
@@ -157,7 +153,7 @@ This quest combines Lovecraftian horror with heroic fantasy. Build tension gradu
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[The Whispering Depths]]
 
 
 ## History
@@ -199,6 +195,6 @@ Legends speak of Quieting the Depths as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quieting the Depths]]
+- [[Quieting the Depths]]
 
 <!-- enriched: true -->

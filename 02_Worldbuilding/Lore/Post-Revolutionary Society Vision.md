@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
+- [[Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Rewrite the World Order]]
+- [[12_Research/D&D_References/Rewrite the World Order]]
 
 ## Player-Facing Summary
 

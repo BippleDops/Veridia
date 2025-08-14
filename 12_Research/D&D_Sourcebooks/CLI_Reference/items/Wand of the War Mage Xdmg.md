@@ -29,9 +29,9 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg|+1 Wand of the War Mage]]
-- [[/03_Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg|+2 Wand of the War Mage]]
-- [[/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg|+3 Wand of the War Mage]]
+- [[1-wand-of-the-war-mage-xdmg|+1 Wand of the War Mage]]
+- [[2-wand-of-the-war-mage-xdmg|+2 Wand of the War Mage]]
+- [[3-wand-of-the-war-mage-xdmg|+3 Wand of the War Mage]]
 
 *Source: Dungeon Master's Guide (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

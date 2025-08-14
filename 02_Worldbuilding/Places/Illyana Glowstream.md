@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -24,13 +27,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg]]
 
 
 # Illyana Glowstream
@@ -52,12 +50,14 @@ Illyana is a striking water genasi in her early thirties, with skin that shifts 
 She wears robes woven from bioluminescent fibers that pulse gently with her heartbeat, creating an aura of warmth and comfort around her. Her staff, carved from crystallized sea foam, serves as both a focus for her magic and a portable light source.
 
 ## Personality
+
 - Eternally optimistic despite the challenges facing the city
 - Deeply empathetic and skilled at helping others find hope
 - Perfectionist in her magical work but patient with others' mistakes
 - Believes strongly in the power of cooperation and shared illumination
 
 ## Statistics
+
 **Medium humanoid (water genasi), neutral good**
 - **AS** 14 (Mage Armor)
 - **HP** 72 (16d6 + 16)
@@ -70,6 +70,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 - **Challenge** 6 (2,300 XP)
 
 ### Special Abilities
+
 **Amphibious.** Illyana can breathe air and water.
 
 **Master of Light.** Illyana can cast *light*, *dancing lights*, and *daylight* at will without expending spell slots. Her light spells last twice as long as normal and can be dismissed or modified as a bonus action.
@@ -79,6 +80,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 **Beacon of Hope.** Creatures within 30 feet of Illyana have advantage on saving throws against fear and despair effects.
 
 ### Actions
+
 **Crystal Staff.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) radiant damage.
 
 **Blinding Flash (Recharge 5-6).** Illyana creates a brilliant flash of light in a 30-foot radius. All creatures in the area must make a DC 15 Constitution saving throw or be blinded for 1 minute.
@@ -107,6 +109,7 @@ As political tensions rise, Illyana has noticed increased stress on the city's l
 She's also been providing informal counseling services, using her light magic to help lift the depression and despair that's spreading throughout the city alongside the political unrest.
 
 ## Relationships
+
 - **All Factions**: Neutral service provider essential to city operations
 - **Engineering Corps**: Valued colleague and technical innovator
 - **Citizens**: Beloved figure who literally brightens their daily lives
@@ -114,6 +117,7 @@ She's also been providing informal counseling services, using her light magic to
 - **Clerics and Healers**: Collaborates on therapeutic applications of light magic
 
 ## Secrets
+
 - Has detected magical interference with the city's lighting that suggests coordinated sabotage
 - Maintains emergency light sources that could illuminate the entire city if needed
 - Her light magic allows her to see through illusions and deceptions
@@ -121,17 +125,19 @@ She's also been providing informal counseling services, using her light magic to
 - Possesses an ancient artifact that could create permanent daylight underwater
 
 ## Quest Hooks
+
 1. Mysterious darkness is spreading through sections of the city, and Illyana needs the party's help to investigate its supernatural source.
 2. The party requires specialized light magic for a mission, leading them to seek Illyana's assistance and expertise.
 3. Saboteurs have targeted critical illumination infrastructure, and Illyana needs protection while making dangerous repairs.
 
 ## DM Notes
+
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 
 ## History
@@ -179,6 +185,10 @@ Legends speak of Illyana Glowstream as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Illyana Glowstream]]
+- [[12_Research/D&D_References/Illyana Glowstream]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

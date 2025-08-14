@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scarlet-torrent-scarlet-torrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scarlet-torrent-scarlet-torrent.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Scarlet Torrent]]
+- [[12_Research/D&D_References/Scarlet Torrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[12_Research/D&D_References/Blood Current Express]]

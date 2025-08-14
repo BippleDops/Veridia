@@ -11,20 +11,18 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 
 
 ## Connections
 
-- [[Deep Mother]]
-- [[02_Worldbuilding/Lore/The Crown of Stars]]
-- [[02_Worldbuilding/Lore/The Sundering]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_References/The Crown of Stars]]
+- [[12_Research/D&D_References/The Sundering]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Memory Farmers]]
 
 ## Player-Facing Summary
 
@@ -45,3 +43,8 @@ Legends speak of The Forgotten Isles as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

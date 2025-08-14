@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-giant-sea-horse-giant-sea-horse.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-giant-sea-horse-giant-sea-horse.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Giant Sea Horse]]
+- [[Giant Sea Horse]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]

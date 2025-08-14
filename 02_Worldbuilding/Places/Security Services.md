@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-security-services-security-services.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-security-services-security-services.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[Inverted Ballroom Wing]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 

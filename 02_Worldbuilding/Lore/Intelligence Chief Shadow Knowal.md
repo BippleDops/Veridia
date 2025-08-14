@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.904763+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -42,3 +39,7 @@ Legends speak of Intelligence Chief Shadow Knowall 2 as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

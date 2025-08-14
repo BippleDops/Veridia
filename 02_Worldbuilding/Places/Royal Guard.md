@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Guard]]
+- [[Royal Guard]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[The Crown Authority]]
+- [[Noble Quarter]]

@@ -20,11 +20,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-artificer-artificer.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-artificer-artificer.svg]]
 
 
 # Artificer
@@ -189,6 +186,6 @@ Legends speak of Artificer as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Artificer]]
+- [[Artificer]]
 
 <!-- enriched: true -->

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-elemental-myrmidon-mpmm-fire-elemental-myrmidon-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/fire-elemental-myrmidon-mpmm|Fire Elemental Myrmidon]]
+# [[fire-elemental-myrmidon-mpmm|Fire Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -37,7 +37,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate]]"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "modifier": !!int "4"
@@ -51,8 +51,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Ignan, one language of its creator's choice"
 "cr": "7"

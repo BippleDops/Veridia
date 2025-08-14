@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Tethyan Hegemony]]
+- [[The Tethyan Hegemony]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Tethyan Hegemony]]
+- [[The Tethyan Hegemony]]
 
 ## Player-Facing Summary
 

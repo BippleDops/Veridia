@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quetzalcoatlus-mpmm-quetzalcoatlus-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/quetzalcoatlus-mpmm|Quetzalcoatlus]]
+# [[quetzalcoatlus-mpmm|Quetzalcoatlus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
@@ -52,13 +52,13 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
   - !!int "5"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The quetzalcoatlus doesn't provoke an [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attack]]\
+  - "desc": "The quetzalcoatlus doesn't provoke an [[actions#Opportunity%20Attack|opportunity attack]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

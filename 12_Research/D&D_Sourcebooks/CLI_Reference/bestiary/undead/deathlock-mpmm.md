@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mpmm-deathlock-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/deathlock-mpmm|Deathlock]]
+# [[deathlock-mpmm|Deathlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -60,15 +60,15 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
@@ -88,11 +88,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
-      \ [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]],\
-      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]]\n\n1/day each:\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/hunger-of-hadar-xphb|hunger of Hadar]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]], [[/03_Mechanics/CLI/spells/spider-climb-xphb|spider climb]]"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[detect-magic-xphb|detect magic]],\
+      \ [[disguise-self-xphb|disguise self]], [[mage-armor-xphb|mage armor]],\
+      \ [[mage-hand-xphb|mage hand]]\n\n1/day each:\
+      \ [[dispel-magic-xphb|dispel magic]], [[hunger-of-hadar-xphb|hunger of Hadar]],\
+      \ [[invisibility-xphb|invisibility]], [[spider-climb-xphb|spider climb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

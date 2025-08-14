@@ -22,12 +22,12 @@ world: Both
 
 
 # Dragontooth Dagger
-*Weapon ([[/03_Mechanics/CLI/items/dagger-xphb|dagger]]), rare*  
+*Weapon ([[dagger-xphb|dagger]]), rare*  
 ![](/03_Mechanics/CLI/items/img/dragontooth-dagger.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 1.0 lbs.
 
 A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator's tooth, the handle is leather wrapped around the root of the tooth, and there is no crossguard.

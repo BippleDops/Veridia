@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-community-leaders-community-leaders.svg]]
 
 
 ## Overview
@@ -62,13 +59,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Community Leaders]]
+- [[12_Research/D&D_References/Community Leaders]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Shadow Ambush - Optional]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]

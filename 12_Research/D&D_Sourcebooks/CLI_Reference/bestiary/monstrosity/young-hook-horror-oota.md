@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-hook-horror-oota-v1-young-hook-horror-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/young-hook-horror-oota|Young Hook Horror]]
+# [[young-hook-horror-oota|Young Hook Horror]]
 *Source: Out of the Abyss p. 34*  
 
 ```statblock
@@ -46,15 +46,15 @@ world: Both
   - !!int "7"
 "speed": "15 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "1/4"
 "traits":
-  - "desc": "The hook horror can't use its blindsight while [[/03_Mechanics/CLI/conditions#Deafened|deafened]]."
+  - "desc": "The hook horror can't use its blindsight while [[conditions#Deafened|deafened]]."
     "name": "Echolocation"
-  - "desc": "The hook horror has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+  - "desc": "The hook horror has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":

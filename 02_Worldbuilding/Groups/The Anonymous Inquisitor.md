@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-anonymous-inquisitor-the-anonymous-inquisitor.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-anonymous-inquisitor-the-anonymous-inquisitor.svg]]
 
 
 ## Player-Facing Summary

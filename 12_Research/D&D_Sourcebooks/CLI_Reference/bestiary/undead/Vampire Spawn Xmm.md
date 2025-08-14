@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-spawn-xmm-vampire-spawn-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/vampire-spawn-xmm|Vampire Spawn]]
+# [[vampire-spawn-xmm|Vampire Spawn]]
 *Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
@@ -89,9 +89,9 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
@@ -105,25 +105,25 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ enter a residence without an invitation from an occupant.  \n- Running Water.\
       \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
       - Stake to the Heart. The vampire is destroyed if a weapon that deals Piercing\
-      \ damage is driven into the vampire's heart while the vampire has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ damage is driven into the vampire's heart while the vampire has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition.  \n- Sunlight. The vampire takes 20 Radiant damage if it starts\
-      \ its turn in sunlight. While in sunlight, it has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ its turn in sunlight. While in sunlight, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
   - "desc": "The vampire makes two Claw attacks and uses Bite."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (2d4 + 3) Slashing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13) from one of two claws."
     "name": "Claw"
   - "desc": "Constitution Saving Throw: DC 14, one creature within 5 feet that is\
-      \ willing or that has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]],\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]], or [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ willing or that has the [[conditions#Grappled|Grappled]],\
+      \ [[conditions#Incapacitated|Incapacitated]], or [[conditions#Restrained|Restrained]]\
       \ condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage.\
-      \ The target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ vampire regains [[hit-points-xphb|Hit Points]]\
       \ equal to that amount."
     "name": "Bite"
 "bonus_actions":

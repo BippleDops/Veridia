@@ -22,7 +22,7 @@ world: Both
 # Ability Check
 *Source: Player's Handbook (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-An ability check is a [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]] that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
+An ability check is a [[d20-test-xphb|D20 Test]] that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
 
 ## Player-Facing Summary
 

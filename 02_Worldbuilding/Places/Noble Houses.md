@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,15 +54,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Houses]]
+- [[Noble Houses]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]
 - [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[Mad Oracle Thessaly]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Vault Keeper Eternal]]

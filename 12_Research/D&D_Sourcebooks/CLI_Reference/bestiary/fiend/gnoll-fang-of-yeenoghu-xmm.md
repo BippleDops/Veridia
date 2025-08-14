@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]
+# [[gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]]
 *Source: Monster Manual (2024) p. 141*  
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
@@ -75,14 +75,14 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "The gnoll makes one Bite attack and two Bone Flail attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage\
-      \ plus 7 (2d6) Poison damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ plus 7 (2d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the gnoll's next turn."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 7 (1d8 + 3) Piercing damage."
     "name": "Bone Flail"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Bite attack."
     "name": "Rampage (2/Day)"
 "source":

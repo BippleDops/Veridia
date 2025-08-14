@@ -41,7 +41,7 @@ Thanks to your wings, you have a flying speed equal to your walking speed. You c
 
 ### Silent Feathers
 
-You have proficiency in the [[/03_Mechanics/CLI/skills#Stealth|Stealth]] skill.
+You have proficiency in the [[skills#Stealth|Stealth]] skill.
 
 ## Description
 

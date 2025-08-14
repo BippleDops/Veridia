@@ -6,9 +6,9 @@ class: Noble
 created: '2025-08-08'
 created_by: auto-stub
 danger_level: Low
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Diplomatic Corps'
+faction: '[[Parliament of Echoes]] - Diplomatic Corps'
 influence: High
-location: '[[02_Worldbuilding/Places/Royal Palace]] - Diplomatic Wing'
+location: '[[Royal Palace]] - Diplomatic Wing'
 obsidianUIMode: preview
 race: Human
 status: complete
@@ -33,27 +33,21 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]
 
 
 # Lord Reginald Seaworthy
 *Bridge Between Two Worlds*
 
-> *"Diplomacy is not about agreeing on everything, but about finding the common ground where both parties can stand with dignity. Between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], that ground may be small, but it exists."*
+> *"Diplomacy is not about agreeing on everything, but about finding the common ground where both parties can stand with dignity. Between [[Aquabyssos]] and [[Aethermoor]], that ground may be small, but it exists."*
 > — Lord Reginald Seaworthy, addressing the diplomatic corps
 
 ## Overview
 
-**Lord Reginald Seaworthy** serves as [[02_Worldbuilding/Places/Aquabyssos]]' primary diplomatic liaison with surface realms, particularly [[02_Worldbuilding/Places/Aethermoor]], bringing decades of experience in inter-realm relations and cultural mediation to his position. As one of the few surface-born individuals to achieve high rank in [[02_Worldbuilding/Places/Aquabyssos]] government, his unique perspective and cultural fluency make him invaluable for navigating the complex relationships between aquatic and aerial civilizations.
+**Lord Reginald Seaworthy** serves as [[Aquabyssos]]' primary diplomatic liaison with surface realms, particularly [[Aethermoor]], bringing decades of experience in inter-realm relations and cultural mediation to his position. As one of the few surface-born individuals to achieve high rank in [[Aquabyssos]] government, his unique perspective and cultural fluency make him invaluable for navigating the complex relationships between aquatic and aerial civilizations.
 
-Originally from a maritime merchant family, Reginald came to [[02_Worldbuilding/Places/Aquabyssos]] thirty years ago as a trade representative and gradually evolved into a diplomatic specialist as relations between the realms became more complex. His success in preventing several potential conflicts through skilled negotiation earned him noble title and his current position as head of inter-realm diplomatic affairs.
+Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thirty years ago as a trade representative and gradually evolved into a diplomatic specialist as relations between the realms became more complex. His success in preventing several potential conflicts through skilled negotiation earned him noble title and his current position as head of inter-realm diplomatic affairs.
 
 ## Physical Description and Background
 
@@ -69,10 +63,10 @@ Originally from a maritime merchant family, Reginald came to [[02_Worldbuilding/
 ## Diplomatic Role and Responsibilities
 
 ### Primary Functions
-**Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [[02_Worldbuilding/Places/Aquabyssos]] and surface realms  
+**Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [[Aquabyssos]] and surface realms  
 **Cultural Interpretation**: Helping both sides understand cultural context and avoiding misunderstandings  
 **Crisis Management**: Mediating disputes and preventing minor conflicts from escalating into major problems  
-**Policy Development**: Advising [[02_Worldbuilding/Places/Aquabyssos]] government on foreign relations strategy and implementation  
+**Policy Development**: Advising [[Aquabyssos]] government on foreign relations strategy and implementation  
 
 ### Key Achievements
 **Trade Agreement Expansion**: Successfully negotiated multiple beneficial trade deals increasing commerce between realms  
@@ -94,20 +88,20 @@ Originally from a maritime merchant family, Reginald came to [[02_Worldbuilding/
 ## Adventure Hooks
 
 ### The Diplomatic Crisis (Levels 4-6)
-A major misunderstanding threatens to derail crucial negotiations between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Lord Seaworthy needs the party's help to investigate the true cause and find a solution that preserves both honor and practical interests.
+A major misunderstanding threatens to derail crucial negotiations between [[Aquabyssos]] and [[Aethermoor]]. Lord Seaworthy needs the party's help to investigate the true cause and find a solution that preserves both honor and practical interests.
 
 ### The Cultural Exchange (Levels 2-4)
 Seaworthy is organizing a major cultural festival to improve relations between the realms, but various complications threaten the event. The party must help resolve logistical, political, and cultural challenges to ensure success.
 
 ### The Secret Alliance (Levels 6-8)
-Lord Seaworthy discovers evidence of a secret alliance forming against both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. He needs discrete agents to investigate while maintaining diplomatic relations and gathering intelligence about the threat.
+Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aquabyssos]] and [[Aethermoor]]. He needs discrete agents to investigate while maintaining diplomatic relations and gathering intelligence about the threat.
 
 ## Professional Network
 
-**Government Contacts**: [[02_Worldbuilding/Places/Parliament of Echoes]] leadership, foreign ministry officials, intelligence services  
-**Diplomatic Corps**: [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]], embassy staff, cultural attachés  
+**Government Contacts**: [[Parliament of Echoes]] leadership, foreign ministry officials, intelligence services  
+**Diplomatic Corps**: [[Ambassador Lysandra Silvertonge]], embassy staff, cultural attachés  
 **Surface Connections**: Former colleagues, merchant contacts, political allies in various realms  
-**Local Relationships**: [[02_Worldbuilding/Places/Aquabyssos]] nobility, cultural leaders, academic institutions  
+**Local Relationships**: [[Aquabyssos]] nobility, cultural leaders, academic institutions  
 
 ---
 
@@ -117,8 +111,8 @@ Lord Seaworthy discovers evidence of a secret alliance forming against both [[02
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Merchant Code of Ethics]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[The Merchant Code of Ethics]]
+- [[Pearl_Harbor_City]]
 
 
 ## History
@@ -164,9 +158,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
+- [[Lord Reginald Seaworthy]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Aethermoor]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Parliament of Echoes]]

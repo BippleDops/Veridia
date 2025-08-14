@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-sorrowmaster-the-sorrowmaster.svg)
-
-
-
 
 
 # Morteus Grieveheart, the Sorrowmaster
@@ -104,21 +98,21 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/The Parasite Priests]]** - His order of death-worshippers who serve the cycle of entropy
-- **[[02_Worldbuilding/People/Shadow Parliament]]** - They appreciate his ability to silence opposition permanently
-- **[[02_Worldbuilding/People/The Biomancers]]** - Trade information about life and death magic
+- **[[The Parasite Priests]]** - His order of death-worshippers who serve the cycle of entropy
+- **[[Shadow Parliament]]** - They appreciate his ability to silence opposition permanently
+- **[[The Biomancers]]** - Trade information about life and death magic
 - **Widow's Circle** - A secret society of grieving nobles who seek his services
 
 **Enemies:**
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]** - Views his practices as perversions of natural death
-- **[[02_Worldbuilding/People/The Waking Prophets]]** - His undead interfere with their communion with the living
+- **[[High Priestess Scylla Deepdream]]** - Views his practices as perversions of natural death
+- **[[The Waking Prophets]]** - His undead interfere with their communion with the living
 - **The Resurrection Cult** - Fanatics who believe death should always be reversed
 - **Life Domain Clerics** - See him as an abomination to be destroyed
 
 **Complicated:**
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Officially condemns him but secretly uses his services
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Morteus knows dark secrets about the prince's family
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - They compete for contracts involving the recently deceased
+- **[[Emperor Thalassius the Wise]]** - Officially condemns him but secretly uses his services
+- **[[Prince Caspian Duskwater]]** - Morteus knows dark secrets about the prince's family
+- **[[Memory Merchant Valeria Siltweave]]** - They compete for contracts involving the recently deceased
 
 ## Quest Hooks
 
@@ -136,7 +130,7 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 - **The First Death**: Morteus was once a healer who accidentally caused a patient's death. His grief was so profound it attracted the attention of death entities who offered him power.
 - **The Soul Tax**: Every resurrection he performs costs him a piece of his own soul. He's dangerously close to becoming undead himself.
-- **The Emperor's Secret**: He knows that [[02_Worldbuilding/People/Emperor Thalassius the Wise]] died three years ago and has been maintaining an elaborate illusion to hide this fact.
+- **The Emperor's Secret**: He knows that [[Emperor Thalassius the Wise]] died three years ago and has been maintaining an elaborate illusion to hide this fact.
 - **The Grief Engine**: Deep beneath his gardens lies a massive necromantic device that converts sorrow into raw magical energy, powered by the tears of the bereaved.
 - **The Final Service**: He has prepared his own funeral rites and knows exactly when and how he will die—information he guards more carefully than any other secret.
 
@@ -169,9 +163,9 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Resonance Prophet]]
-- [[02_Worldbuilding/Places/The Mourning Depths]]
-- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[The Resonance Prophet]]
+- [[The Mourning Depths]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]
 
 ## Player-Facing Summary
 
@@ -193,12 +187,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[The Sorrowmaster]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[02_Worldbuilding/People/The Parasite Priests]]
-- [[02_Worldbuilding/People/The Waking Prophets]]
+- [[Emperor Thalassius the Wise]]
+- [[High Priestess Scylla Deepdream]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Prince Caspian Duskwater]]
+- [[The Parasite Priests]]
+- [[The Waking Prophets]]

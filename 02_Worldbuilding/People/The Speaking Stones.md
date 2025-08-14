@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-speaking-stones-the-speaking-stones.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-speaking-stones-the-speaking-stones.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[The Emerald Sage Willowbark]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[The Emerald Sage Willowbark]]
 
 ## Player-Facing Summary
 

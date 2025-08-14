@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-cartographer-quest-the-deep-cartographer.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-cartographer-quest-the-deep-cartographer.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Deep Cartographer]]
+- [[Quest - The Deep Cartographer]]
 
 <!-- enriched: true -->

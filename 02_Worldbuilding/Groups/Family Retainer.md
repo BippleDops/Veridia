@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-family-retainer.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-family-retainer.svg]]
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
+- [[Pip Goldleaf]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
+- [[Pip Goldleaf]]

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-bronze-dragon-xmm-v1-young-bronze-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon-xmm|Young Bronze Dragon]]
+# [[young-bronze-dragon-xmm|Young Bronze Dragon]]
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
@@ -70,11 +70,11 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
@@ -90,12 +90,12 @@ Bronze dragons usually make their homes near or under the sea.
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 15, each creature in a 60-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 49 (9d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 40 feet straight away from the dragon\
-      \ and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#Prone|Prone]] condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"

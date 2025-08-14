@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-smuggler-s-den-the-smuggler-s-den.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-smuggler-s-den-the-smuggler-s-den.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[Mayor Thompson]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[Mayor Thompson]]
 
 ## Player-Facing Summary
 

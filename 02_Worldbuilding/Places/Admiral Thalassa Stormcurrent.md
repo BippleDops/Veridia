@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-admiral-thalassa-stormcurrent-admiral-thalassa-stormcurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-admiral-thalassa-stormcurrent-admiral-thalassa-stormcurrent.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Admiral Thalassa Stormcurrent]]
+- [[12_Research/D&D_References/Admiral Thalassa Stormcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[12_Research/D&D_References/Tethyan Hegemony]]

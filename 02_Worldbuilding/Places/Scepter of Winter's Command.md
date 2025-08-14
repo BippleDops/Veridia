@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scepter-of-winter-s-command-scepter-of-winter-s-command.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scepter-of-winter-s-command-scepter-of-winter-s-command.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[12_Research/D&D_References/The Frozen Throne]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[12_Research/D&D_References/The Frozen Throne]]
 
 ## Player-Facing Summary
 

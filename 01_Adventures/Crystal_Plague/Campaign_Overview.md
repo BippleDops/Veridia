@@ -2,6 +2,10 @@
 created: '2025-08-13'
 status: active
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
 - campaign/crystal-plague
 - medical-mystery
 - corruption
@@ -14,6 +18,7 @@ world: Both
 ---
 
 # Crystal Plague Cure: Medical Mystery Campaign
+
 *A Race Against Time to Save Queen Seraphina and Stop the Crystal Corruption*
 
 > [!warning] Campaign Themes
@@ -128,6 +133,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 ## Session Structure
 
 ### Session 1: The Crystal Discovery
+
 *First cases appear in the capital*
 
 **Opening**: Public festival interrupted by crystallizing citizen
@@ -137,6 +143,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 **Cliffhanger**: Multiple infection sites discovered
 
 ### Session 2: The Research Race
+
 *Gathering scientific resources and knowledge*
 
 **Locations**: 
@@ -151,6 +158,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Time pressure
 
 ### Session 3: The First Cure Attempt
+
 *Testing experimental treatments*
 
 **Medical Trials**:
@@ -162,6 +170,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 **Complication**: Cure makes some patients explode into crystal shards
 
 ### Session 4: The Plague Source
+
 *Journey to the origin point*
 
 **Location**: Abandoned Silverscale Mine
@@ -173,6 +182,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Corporate cover-up evidence
 
 ### Session 5: The Living Cure
+
 *A person immune to the plague holds the key*
 
 **The Immune**: Young child with natural immunity
@@ -184,6 +194,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Find alternative method?
 
 ### Session 6: Political Complications
+
 *Cure becomes political weapon*
 
 **Faction Conflicts**:
@@ -193,6 +204,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Diplomatic leverage
 
 ### Session 7: The Mass Production
+
 *Manufacturing and distributing cure*
 
 **Challenges**:
@@ -202,6 +214,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Equal distribution
 
 ### Session 8: The Crystal Prophet
+
 *Final confrontation with plague's ultimate form*
 
 **Boss**: Fully crystallized being with plague control
@@ -213,12 +226,10 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 ### Research Points System
 
 Players need 20 Research Points to develop the cure.
-
 ```meta-bind
 INPUT[progressBar(minValue(0), maxValue(20)):research-points]
 LABEL[Research Points Accumulated]
 ```
-
 ### Research Sources
 
 **Medical Examination** (1-2 points)
@@ -259,24 +270,28 @@ LABEL[Research Points Accumulated]
 ## Cure Development Stages
 
 ### Stage 1: Understanding (Research 0-5)
+
 - Identify transmission vectors
 - Map progression stages
 - Understand crystal structure
 - **Reward**: Slow progression treatments
 
 ### Stage 2: Intervention (Research 6-10)
+
 - Develop progression blockers
 - Create temporary suppressants
 - Identify key components
 - **Reward**: Stop advancement drugs
 
 ### Stage 3: Reversal (Research 11-15)
+
 - Reverse early stage infection
 - Restore partial humanity
 - Develop delivery methods
 - **Reward**: Stage 1-2 cure
 
 ### Stage 4: Complete Cure (Research 16-20)
+
 - Full restoration possible
 - Mass production viable
 - Permanent immunity option
@@ -312,12 +327,14 @@ LABEL[Research Points Accumulated]
 ## Moral Dilemmas
 
 ### The Volunteer Dilemma
+
 Desperate infected volunteer for dangerous experiments:
 - **Allow**: Fast research but possible death
 - **Refuse**: Slower progress but ethical
 - **Compromise**: Limited testing with safeguards
 
 ### The Triage Choice
+
 Limited cure supplies available:
 - **Save the Queen**: Political stability
 - **Save the Children**: Future generation
@@ -325,12 +342,14 @@ Limited cure supplies available:
 - **Equal Distribution**: Fair but insufficient
 
 ### The Crystal Harvest
+
 Crystallized victims contain valuable materials:
 - **Harvest**: Fund research but desecrate dead
 - **Preserve**: Respect dead but lack resources
 - **Selective**: Volunteer donors only
 
 ### The Immune Child
+
 Child has natural immunity in their blood:
 - **Extract Aggressively**: Fast cure but harm child
 - **Protect Completely**: No cure but child safe
@@ -339,24 +358,28 @@ Child has natural immunity in their blood:
 ## Faction Responses
 
 ### Government Position
+
 - Public: "Situation under control"
 - Private: "Panic barely contained"
 - Action: Quarantine and information control
 - Goal: Maintain stability
 
 ### Religious Response
+
 - Public: "Divine test of faith"
 - Private: "Prophecy fulfillment"
 - Action: Prayer and traditional healing
 - Goal: Spiritual interpretation
 
 ### Economic Forces
+
 - Public: "Temporary market adjustment"
 - Private: "Profit opportunity"
 - Action: Control cure resources
 - Goal: Maximize gain
 
 ### Academic Community
+
 - Public: "Fascinating phenomenon"
 - Private: "Career-defining discovery"
 - Action: Research competition
@@ -365,7 +388,6 @@ Child has natural immunity in their blood:
 ## Obsidian Plugin Integration
 
 ### Dataview Tracking
-
 ```dataview
 TABLE 
   infection-stage as "Stage",
@@ -376,21 +398,16 @@ FROM "Crystal_Plague"
 WHERE contains(tags, "infected-npc")
 SORT infection-stage DESC
 ```
-
 ### Meta-bind Controls
-
 ```meta-bind
 INPUT[slider(minValue(0), maxValue(100)):plague-spread]
 LABEL[Regional Infection Rate %]
 ```
-
 ```meta-bind
 INPUT[slider(minValue(0), maxValue(5)):queen-infection-stage]
 LABEL[Queen Seraphina's Infection Stage]
 ```
-
 ### Initiative Tracker: Crystal Cult Ambush
-
 ```initiative-tracker
 - name: Crystal Prophet
   hp: 120
@@ -408,10 +425,10 @@ LABEL[Queen Seraphina's Infection Stage]
   initiative: 16
   tags: ["summoned", "magical"]
 ```
-
 ## Resource Management
 
 ### Required Cure Components
+
 1. **Pure Water**: From uncontaminated source
 2. **Memory Moss**: Grows in ancient ruins
 3. **Solar Crystals**: Charged with sunlight
@@ -421,6 +438,7 @@ LABEL[Queen Seraphina's Infection Stage]
 7. **Storm Glass**: From perpetual tempests
 
 ### Component Gathering Missions
+
 Each component requires a mini-adventure:
 - Combat challenges
 - Environmental hazards
@@ -431,6 +449,7 @@ Each component requires a mini-adventure:
 ## Victory Conditions
 
 ### Complete Success
+
 - Universal cure developed
 - Queen Seraphina saved
 - Plague eliminated
@@ -438,6 +457,7 @@ Each component requires a mini-adventure:
 - Economy stabilized
 
 ### Partial Success
+
 - Limited cure available
 - Queen saved but changed
 - Plague controlled not eliminated
@@ -445,6 +465,7 @@ Each component requires a mini-adventure:
 - Economic disruption
 
 ### Pyrrhic Victory
+
 - Cure requires terrible sacrifice
 - Queen survives but abdicates
 - Plague defeated at great cost
@@ -452,6 +473,7 @@ Each component requires a mini-adventure:
 - Social restructuring
 
 ### Failure States
+
 - No cure developed
 - Queen crystallizes
 - Plague spreads unchecked
@@ -461,6 +483,7 @@ Each component requires a mini-adventure:
 ---
 
 ## Connected Resources
+
 - [[Crystal Plague Infection Tracking]]
 - [[Medical Research Rules]]
 - [[Cure Component Locations]]
@@ -471,3 +494,7 @@ Each component requires a mini-adventure:
 ---
 
 *"In crystal's embrace, we find perfection's curse"* - Dr. Coral Mindbridge's journal
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

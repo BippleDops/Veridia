@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-bridesmaid-of-zuggtmoy-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]]
+# [[bridesmaid-of-zuggtmoy-oota|Bridesmaid of Zuggtmoy]]
 *Source: Out of the Abyss p. 230*  
 
 ```statblock
@@ -58,8 +58,8 @@ world: Both
 "actions":
   - "desc": "The bridesmaid ejects spores at one creature it can see within 5 feet\
       \ of it. The target must succeed on a DC 10 Constitution saving throw or be\
-      \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for 1 minute. While [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
-      \ in this way, the target is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].\
+      \ [[conditions#Poisoned|poisoned]] for 1 minute. While [[conditions#Poisoned|poisoned]]\
+      \ in this way, the target is [[conditions#Incapacitated|incapacitated]].\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Hallucination Spores"

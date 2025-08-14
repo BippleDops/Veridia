@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- combat
+- quest
+- aquatic
 - aquabyssos
 - complete
 - interrogation
@@ -16,48 +19,54 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
-
 # Interrogation Techniques
 
 *"Truth flows like water - apply the right pressure and it will find its way out."*
 
 ## Overview
+
 Interrogation Techniques in the dual-realm world have evolved to account for the unique challenges of questioning suspects who may come from radically different cultural backgrounds, possess magical abilities, or have been affected by inter-dimensional phenomena. These methods combine traditional investigative approaches with specialized techniques for magical subjects and cross-cultural communication.
 
 ## Mechanics
+
 ### Requirements
+
 - Training in both surface and underwater interrogation methods
 - Magical detection and protection capabilities
 - Cultural sensitivity training for inter-realm subjects
 - Proper legal authorization and oversight
 
 ### Effects
+
 - **Truth Extraction**: Obtaining accurate information from subjects
 - **Cultural Navigation**: Avoiding misunderstandings due to different customs
 - **Magical Countermeasures**: Dealing with enchanted or corrupted subjects
 - **Legal Compliance**: Maintaining admissible evidence standards
 
 ### Duration
+
 Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
 
 ## Adventure Hooks
+
 1. **Interrogation Training**: Characters learn advanced questioning techniques
 2. **Resistant Subject**: Interview someone with unusual magical or cultural protections
 3. **False Information**: Determine truth when multiple suspects give conflicting stories
 
 ## Campaign Use
+
 Provides framework for investigation scenes and adds realism to law enforcement encounters.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Evidence Types Guide]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -76,3 +85,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -14,12 +14,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
-
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
+- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[Party Shadows]]

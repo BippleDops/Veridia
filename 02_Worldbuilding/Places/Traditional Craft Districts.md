@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-traditional-craft-districts-traditional-craft-districts.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-traditional-craft-districts-traditional-craft-districts.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[The Festival of Rising Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[The Festival of Rising Tides]]
 
 ## Player-Facing Summary
 

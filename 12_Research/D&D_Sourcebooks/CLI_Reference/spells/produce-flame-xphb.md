@@ -32,13 +32,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 20-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 20 feet. The spell ends if you cast it again.
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet. The spell ends if you cast it again.
 
-Until the spell ends, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes `d8` Fire damage.
+Until the spell ends, you can take a [[actions#Magic|Magic]] action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes `d8` Fire damage.
 
 **Cantrip Upgrade.** The damage increases by `d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

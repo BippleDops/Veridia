@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-elena-recordkeeper-elena-recordkeeper.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-elena-recordkeeper-elena-recordkeeper.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Elena Recordkeeper]]
+- [[12_Research/D&D_References/Elena Recordkeeper]]
 
 <!-- enriched: true -->

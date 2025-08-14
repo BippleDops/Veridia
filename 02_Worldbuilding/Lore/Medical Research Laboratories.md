@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]
+- [[Shadow Surgeon Apprentice|02 Worldbuilding/Groups/Shadow Surgeon Apprentice]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Apprentice]]
+- [[12_Research/D&D_References/Shadow Surgeon Apprentice]]
 
 ## Player-Facing Summary
 

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[12_Research/D&D_Statblocks/Temple Ward]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[12_Research/D&D_Statblocks/Temple Ward]]
 
 ## Player-Facing Summary
 

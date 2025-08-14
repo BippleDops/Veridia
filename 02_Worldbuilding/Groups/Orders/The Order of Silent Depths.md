@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]
 
 ## Player-Facing Summary
 

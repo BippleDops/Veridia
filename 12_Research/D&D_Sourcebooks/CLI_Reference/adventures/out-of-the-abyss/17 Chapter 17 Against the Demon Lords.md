@@ -30,7 +30,7 @@ Over the course of their adventures, the characters have collected the component
 
 - The intact and unhatched egg of a purple worm (from the worm hatchery in chapter 13)  
 - The central eye of a beholder (from Karazikar in the Vast Oblivium in chapter 13, or some other source).  
-- Six feathers from six different angels (from the [[/03_Mechanics/CLI/conditions#Petrified|petrified]] angels in the Labyrinth in chapter 14)  
+- Six feathers from six different angels (from the [[conditions#Petrified|petrified]] angels in the Labyrinth in chapter 14)  
 - The heart of a goristro (from the demon slain by Yeenoghu in chapter 14)  
 - Thirteen timmasks sprouted from the footprint of a greater demon (from Araumycos's cavern in chapter 16, or elsewhere)  
 - Gromph Baenre's grimoire (from Sorcere in chapter 15)  
@@ -42,7 +42,7 @@ After [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] uses t
 
 ## Enacting the Plan
 
-Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [[/03_Mechanics/CLI/spells/sending-xphb|sending]] spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [[/03_Mechanics/CLI/spells/sending-xphb|sending]], Vizeran can provide the spell on a *spell scroll*).
+Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [[sending-xphb|sending]] spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [[sending-xphb|sending]], Vizeran can provide the spell on a *spell scroll*).
 
 Vizeran (assisted by Grin if the apprentice is available), performs the complex ritual in the sanctum of his tower. The ritual causes the *dark heart* to radiate a summons throughout the Underdark using the *faerzress*—an irresistible call drawing the demons toward it. When the ritual reaches its conclusion at the end of nine hours, portals of *faerzress* form. All the demons and demon lords in the Underdark are drawn through those portals, appearing together in the area around the *dark heart* talisman.
 
@@ -54,7 +54,7 @@ Enraged by being forcibly summoned yet again by a ritual, the demons fly into a 
 > 
 > This kind of moral dilemma can add significant drama to the story. However, it can also be played out as a red herring—by having it be something Vizeran asks for even though it's not necessary. The drow archmage might be testing the characters to see how far they'll go, or he could be afflicted with madness that makes him believe such a sacrifice is necessary even though it isn't.
 > 
-> A character can figure out the truth with a DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check, or by consulting Gromph Baenre's grimoire (see chapter 15). Alternatively, Grin Ousstyl can tell the characters the truth, enraging his master as a result.
+> A character can figure out the truth with a DC 20 Intelligence ([[skills#Arcana|Arcana]]) check, or by consulting Gromph Baenre's grimoire (see chapter 15). Alternatively, Grin Ousstyl can tell the characters the truth, enraging his master as a result.
 ^option-the-lesser-of-two-evils
 
 ### Let This Be Their Battlefield
@@ -99,7 +99,7 @@ The demon lords are some of the most powerful foes a party of adventurers could 
 
 #### Allied Forces
 
-Vizeran is needed to perform the ritual, placing him far from the battle and leaving him with three levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see appendix A of the "Player's Handbook") once the ritual is completed. He is thus unwilling to aid the characters during the fight. The archmage prefers to keep Grin Ousstyl to assist him, so the drow mage is likewise unable to assist. However, the adventurers have a number of other allies willing to fight alongside them in this last battle.
+Vizeran is needed to perform the ritual, placing him far from the battle and leaving him with three levels of [[conditions#Exhaustion|exhaustion]] (see appendix A of the "Player's Handbook") once the ritual is completed. He is thus unwilling to aid the characters during the fight. The archmage prefers to keep Grin Ousstyl to assist him, so the drow mage is likewise unable to assist. However, the adventurers have a number of other allies willing to fight alongside them in this last battle.
 
 Most of the heroes' allies are of limited use against the demon lords—creatures immune to many forms of attack, including nonmagical weapons. Rather than dealing with the ineffectual attacks of allies or a dozen or more additional actions each round, give characters backed up by a group of allies the following benefits.
 
@@ -159,15 +159,15 @@ Rampaging lesser demons discover one or more of the characters where they wait o
 
 | dice: d4 | Demon Sortie |
 |----------|--------------|
-| 1 | 4 [[/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm|barlguras]] |
-| 2 | 4 [[/03_Mechanics/CLI/bestiary/fiend/chasme-xmm|chasmes]] |
-| 3 | 2 [[/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm|hezrous]] |
-| 4 | 3 [[/03_Mechanics/CLI/bestiary/fiend/vrock-xmm|vrocks]] |
+| 1 | 4 [[barlgura-xmm|barlguras]] |
+| 2 | 4 [[chasme-xmm|chasmes]] |
+| 3 | 2 [[hezrou-xmm|hezrous]] |
+| 4 | 3 [[vrock-xmm|vrocks]] |
 ^demon-sortie
 
 #### Demon Thief
 
-An [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm|quasit]] tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
+An [[conditions#Invisible|invisible]] [[quasit-xmm|quasit]] tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([[skills#Perception|Perception]]) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
 
 #### Endangered Allies
 
@@ -177,7 +177,7 @@ If any of the player characters' allies are accompanying them, a demon sortie (s
 > 
 > Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from appendix D, then play out the conflict between them.
 > 
-> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [[/03_Mechanics/CLI/bestiary/fiend/balor-xmm|balors]] or other powerful demons to round out their numbers.
+> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [[balor-xmm|balors]] or other powerful demons to round out their numbers.
 > 
 > The players control the demons in their battle to the death, with the only restriction being that they can't withdraw from the combat. Brief tactical retreats are permissible, but Vizeran's ritual has filled the demon lords with the rage to do battle.
 > 
@@ -193,13 +193,13 @@ The battle between the demon lords shifts dangerously close to the characters. R
 | dice: d6 | Event |
 |----------|-------|
 | 1–2 | **Explosion**. Each creature within 20 feet of a point you choose must make a DC 13 Dexterity saving throw. On a failure, the creature takes `3d6` fire damage, or half as much damage on a success. |
-| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [[/03_Mechanics/CLI/conditions#Prone|prone]] on a failure. |
+| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [[conditions#Prone|prone]] on a failure. |
 | 5–6 | **Close Call**. A character you choose must make a successful DC 13 Dexterity saving throw to dodge a stray attack. On a failed save, the character takes `3d6` bludgeoning damage. |
 ^event
 
 #### Threatened Bystanders
 
-If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|dretches]] or [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|manes]] (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
+If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [[dretch-xmm|dretches]] or [[manes-xmm|manes]] (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
 
 ## Against Demogorgon
 
@@ -218,14 +218,14 @@ Demogorgon has been wounded during the fight, giving the characters an edge in t
 
 - Demogorgon has 290 hit points remaining and can't regain hit points due to the disruptive nature of Vizeran's *faerzress*-empowered ritual.  
 - He has only one use of Legendary Resistance remaining for the day.  
-- His [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]] innate spell is expended, as are all but one use each of [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/fear-xphb|fear]], and [[/03_Mechanics/CLI/spells/telekinesis-xphb|telekinesis]].  
+- His [[befuddlement-xphb|feeblemind]] innate spell is expended, as are all but one use each of [[dispel-magic-xphb|dispel magic]], [[fear-xphb|fear]], and [[telekinesis-xphb|telekinesis]].  
 - With all the other demon lords banished back to the Abyss, Demogorgon becomes the focus of the disruptive power of Vizeran's ritual. This imposes a −5 penalty to his attack rolls, ability checks, and saving throws.  
 
 Even in his weakened state, the demon lord remains a terrifying opponent, attacking the adventurers in a howling fury as battle is joined.
 
 ### Wand of Orcus
 
-When Orcus is defeated, he drops the [[/03_Mechanics/CLI/items/wand-of-orcus-xdmg|Wand of Orcus]] (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [[/03_Mechanics/CLI/items/wand-of-orcus-xdmg|Wand of Orcus]] tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
+When Orcus is defeated, he drops the [[wand-of-orcus-xdmg|Wand of Orcus]] (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [[wand-of-orcus-xdmg|Wand of Orcus]] tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
 
 ### Destroying Demogorgon
 

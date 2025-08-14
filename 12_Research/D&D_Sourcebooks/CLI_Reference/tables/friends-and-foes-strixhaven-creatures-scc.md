@@ -23,27 +23,27 @@ world: Both
 
 | Creature | Creature Type | CR |
 |----------|---------------|----|
-| [[/03_Mechanics/CLI/bestiary/celestial/archaic-scc|Archaic]] | Celestial | 18 |
-| [[/03_Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc|Art Elemental Mascot]] | Elemental | 1/4 |
+| [[archaic-scc|Archaic]] | Celestial | 18 |
+| [[art-elemental-mascot-scc|Art Elemental Mascot]] | Elemental | 1/4 |
 | [[/03_Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc|Beledros Witherbloom]] | Dragon | 24 |
-| [[/03_Mechanics/CLI/bestiary/plant/brackish-trudge-scc|Brackish Trudge]] | Plant | 3 |
-| [[/03_Mechanics/CLI/bestiary/construct/cogwork-archivist-scc|Cogwork Archivist]] | Construct | 4 |
-| [[/03_Mechanics/CLI/bestiary/fiend/daemogoth-scc|Daemogoth]] | Fiend | 10 |
-| [[/03_Mechanics/CLI/bestiary/fiend/daemogoth-titan-scc|Daemogoth Titan]] | Fiend | 16 |
+| [[brackish-trudge-scc|Brackish Trudge]] | Plant | 3 |
+| [[cogwork-archivist-scc|Cogwork Archivist]] | Construct | 4 |
+| [[daemogoth-scc|Daemogoth]] | Fiend | 10 |
+| [[daemogoth-titan-scc|Daemogoth Titan]] | Fiend | 16 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/first-year-student-scc|First-Year Student]] | Humanoid | 1/2 |
-| [[/03_Mechanics/CLI/bestiary/construct/fractal-mascot-scc|Fractal Mascot]] | Construct | 1/4 |
+| [[fractal-mascot-scc|Fractal Mascot]] | Construct | 1/4 |
 | [[/03_Mechanics/CLI/bestiary/npc/galazeth-prismari-scc|Galazeth Prismari]] | Dragon | 23 |
-| [[/03_Mechanics/CLI/bestiary/plant/groff-scc|Groff]] | Plant | 4 |
-| [[/03_Mechanics/CLI/bestiary/ooze/inkling-mascot-scc|Inkling Mascot]] | Ooze | 1/4 |
+| [[groff-scc|Groff]] | Plant | 4 |
+| [[inkling-mascot-scc|Inkling Mascot]] | Ooze | 1/4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc|Lorehold Apprentice]] | Humanoid | 2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage-scc|Lorehold Pledgemage]] | Humanoid | 4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-chaos-scc|Lorehold Professor of Chaos]] | Humanoid | 7 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-order-scc|Lorehold Professor of Order]] | Humanoid | 7 |
-| [[/03_Mechanics/CLI/bestiary/monstrosity/mage-hunter-scc|Mage Hunter]] | Monstrosity | 5 |
+| [[mage-hunter-scc|Mage Hunter]] | Monstrosity | 5 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc|Oracle of Strixhaven]] | Humanoid | 15 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/oriq-blood-mage-scc|Oriq Blood Mage]] | Humanoid | 9 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/oriq-recruiter-scc|Oriq Recruiter]] | Humanoid | 4 |
-| [[/03_Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc|Pest Mascot]] | Monstrosity | 1/4 |
+| [[pest-mascot-scc|Pest Mascot]] | Monstrosity | 1/4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/prismari-apprentice-scc|Prismari Apprentice]] | Humanoid | 2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/prismari-pledgemage-scc|Prismari Pledgemage]] | Humanoid | 4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/prismari-professor-of-expression-scc|Prismari Professor of Expression]] | Humanoid | 7 |
@@ -52,15 +52,15 @@ world: Both
 | [[/03_Mechanics/CLI/bestiary/humanoid/quandrix-pledgemage-scc|Quandrix Pledgemage]] | Humanoid | 4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc|Quandrix Professor of Substance]] | Humanoid | 7 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-theory-scc|Quandrix Professor of Theory]] | Humanoid | 7 |
-| [[/03_Mechanics/CLI/bestiary/beast/relic-sloth-scc|Relic Sloth]] | Beast | 2 |
-| [[/03_Mechanics/CLI/bestiary/construct/ruin-grinder-scc|Ruin Grinder]] | Construct | 5 |
+| [[relic-sloth-scc|Relic Sloth]] | Beast | 2 |
+| [[ruin-grinder-scc|Ruin Grinder]] | Construct | 5 |
 | [[/03_Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc|Shadrix Silverquill]] | Dragon | 22 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/silverquill-apprentice-scc|Silverquill Apprentice]] | Humanoid | 2 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/silverquill-pledgemage-scc|Silverquill Pledgemage]] | Humanoid | 4 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc|Silverquill Professor of Radiance]] | Humanoid | 7 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-shadow-scc|Silverquill Professor of Shadow]] | Humanoid | 7 |
-| [[/03_Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc|Spirit Statue Mascot]] | Construct | 1/4 |
-| [[/03_Mechanics/CLI/bestiary/construct/strixhaven-campus-guide-scc|Strixhaven Campus Guide]] | Construct | 1 |
+| [[spirit-statue-mascot-scc|Spirit Statue Mascot]] | Construct | 1/4 |
+| [[strixhaven-campus-guide-scc|Strixhaven Campus Guide]] | Construct | 1 |
 | [[/03_Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc|Tanazir Quandrix]] | Dragon | 24 |
 | [[/03_Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc|Velomachus Lorehold]] | Dragon | 25 |
 | [[/03_Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc|Witherbloom Apprentice]] | Humanoid | 2 |

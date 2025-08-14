@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/sling-xphb|Sling]], [[/03_Mechanics/CLI/items/whip-xphb|Whip]], [[/03_Mechanics/CLI/items/hide-armor-xphb|Hide Armor]], [[/03_Mechanics/CLI/items/leather-armor-xphb|Leather Armor]], [[/03_Mechanics/CLI/items/studded-leather-armor-xphb|Studded Leather Armor]], [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/crossbow-bolt-case-xphb|Crossbow Bolt Case]], [[/03_Mechanics/CLI/items/map-or-scroll-case-xphb|Map or Scroll Case]], [[/03_Mechanics/CLI/items/parchment-xphb|Parchment]], [[/03_Mechanics/CLI/items/pouch-xphb|Pouch]], [[/03_Mechanics/CLI/items/quiver-xphb|Quiver]], [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]]  
+- **Craft.** [[sling-xphb|Sling]], [[whip-xphb|Whip]], [[hide-armor-xphb|Hide Armor]], [[leather-armor-xphb|Leather Armor]], [[studded-leather-armor-xphb|Studded Leather Armor]], [[backpack-xphb|Backpack]], [[crossbow-bolt-case-xphb|Crossbow Bolt Case]], [[map-or-scroll-case-xphb|Map or Scroll Case]], [[parchment-xphb|Parchment]], [[pouch-xphb|Pouch]], [[quiver-xphb|Quiver]], [[waterskin-xphb|Waterskin]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

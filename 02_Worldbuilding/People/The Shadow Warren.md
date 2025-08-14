@@ -24,9 +24,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-warren-the-shadow-warren.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-shadow-warren-the-shadow-warren.svg]]
 
 
 # The Shadow Warren
@@ -339,10 +337,10 @@ Warren's story can evolve throughout a campaign:
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[The Whisper Syndicate]]
+- [[Investigation Procedures]]
+- [[Vex Shadowthorn]]
+- [[Ancient Tunnels Beneath Palace]]
 
 ## Player-Facing Summary
 
@@ -364,6 +362,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Shadow Warren]]
+- [[The Shadow Warren]]
 
 <!-- enriched: true -->

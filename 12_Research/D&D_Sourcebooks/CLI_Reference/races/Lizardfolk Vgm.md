@@ -48,7 +48,7 @@ Your fanged maw is a natural weapon, which you can use to make unarmed strikes. 
 
 ### Cunning Artisan
 
-As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [[/03_Mechanics/CLI/items/shield-xphb|shield]], a [[/03_Mechanics/CLI/items/club-xphb|club]], a [[/03_Mechanics/CLI/items/javelin-xphb|javelin]], or `d4` [[/03_Mechanics/CLI/items/dart-xphb|darts]] or [[/03_Mechanics/CLI/items/needle-xphb|blowgun needles]]. To use this trait, you need a blade, such as a [[/03_Mechanics/CLI/items/dagger-xphb|dagger]], or appropriate artisan's tools, such as [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|leatherworker's tools]].
+As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [[shield-xphb|shield]], a [[club-xphb|club]], a [[javelin-xphb|javelin]], or `d4` [[dart-xphb|darts]] or [[needle-xphb|blowgun needles]]. To use this trait, you need a blade, such as a [[dagger-xphb|dagger]], or appropriate artisan's tools, such as [[leatherworkers-tools-xphb|leatherworker's tools]].
 
 ### Hold Breath
 
@@ -56,7 +56,7 @@ You can hold your breath for up to 15 minutes at a time.
 
 ### Hunter's Lore
 
-You gain proficiency with two of the following skills of your choice: [[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]], [[/03_Mechanics/CLI/skills#Nature|Nature]], [[/03_Mechanics/CLI/skills#Perception|Perception]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]], and [[/03_Mechanics/CLI/skills#Survival|Survival]].
+You gain proficiency with two of the following skills of your choice: [[skills#Animal%20Handling|Animal Handling]], [[skills#Nature|Nature]], [[skills#Perception|Perception]], [[skills#Stealth|Stealth]], and [[skills#Survival|Survival]].
 
 ### Natural Armor
 

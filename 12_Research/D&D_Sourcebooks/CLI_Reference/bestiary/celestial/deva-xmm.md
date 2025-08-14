@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deva-xmm-deva-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/deva-xmm|Deva]]
+# [[deva-xmm|Deva]]
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Deva
@@ -76,22 +76,22 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "radiant"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all; telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The deva has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The deva has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -102,17 +102,17 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
     "name": "Holy Mace"
   - "desc": "The deva casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[/03_Mechanics/CLI/spells/shapechange-xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[/03_Mechanics/CLI/spells/commune-xphb|Commune]],\
-      \ [[/03_Mechanics/CLI/spells/raise-dead-xphb|Raise Dead]]"
+      \ will: [[detect-evil-and-good-xphb|Detect Evil and Good]],\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n1/day each: [[commune-xphb|Commune]],\
+      \ [[raise-dead-xphb|Raise Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The deva casts [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]],\
-      \ [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]],\
-      \ or [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]], using the\
+  - "desc": "The deva casts [[cure-wounds-xphb|Cure Wounds]],\
+      \ [[lesser-restoration-xphb|Lesser Restoration]],\
+      \ or [[remove-curse-xphb|Remove Curse]], using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":

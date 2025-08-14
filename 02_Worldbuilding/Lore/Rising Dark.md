@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
 
 ## Player-Facing Summary
 

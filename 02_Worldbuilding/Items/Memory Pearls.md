@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Places/Memory Farmers]] (Primary Creators)'
+affiliation: '[[Memory Farmers]] (Primary Creators)'
 created: '2025-08-10'
 created_by: Claude
 current_location: Various Markets and Collections Throughout Aquabyssos
@@ -31,7 +31,7 @@ world: Aquabyssos
 *Crystallized Experience in Lustrous Form*
 
 ## Overview
-Memory Pearls represent the pinnacle of [[02_Worldbuilding/Places/Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
+Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
 
 ## Physical Description
 ### Basic Characteristics
@@ -243,8 +243,8 @@ Memory Pearls represent the pinnacle of [[02_Worldbuilding/Places/Memory Farmers
 - **Black Market**: Illegal or restricted memories sold underground
 
 #### Regional Variations
-- **[[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]**: Largest legitimate marketplace
-- **[[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**: Black market hub
+- **[[Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]**: Largest legitimate marketplace
+- **[[Hidden Smuggler's Cove]]**: Black market hub
 - **Noble Districts**: Exclusive boutiques catering to aristocracy
 - **Academic Quarters**: Specialized dealers serving researchers
 - **Rural Areas**: Limited selection, focus on practical memories
@@ -396,11 +396,11 @@ Memory Pearls represent the pinnacle of [[02_Worldbuilding/Places/Memory Farmers
 - **Regulation: Navigate complex legal framework surrounding memory trade
 
 ## Connected Elements
-- Primary connection to [[02_Worldbuilding/Places/Memory Farmers]] as creators and cultivators
-- Links to [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as major marketplace
-- Associated with [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] black markets
-- Connected to [[02_Worldbuilding/People/Memory Harvester Kythara]] as master practitioner
-- Related to [[02_Worldbuilding/Lore/The Tidal Shard of Memory|02 Worldbuilding/Lore/The Tidal Shard Of Memory]] through memory magic
+- Primary connection to [[Memory Farmers]] as creators and cultivators
+- Links to [[Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as major marketplace
+- Associated with [[Hidden Smuggler's Cove]] black markets
+- Connected to [[Memory Harvester Kythara]] as master practitioner
+- Related to [[The Tidal Shard of Memory|02 Worldbuilding/Lore/The Tidal Shard Of Memory]] through memory magic
 - Links to therapeutic and educational institutions throughout Aquabyssos
 - Associated with wealthy collectors and aristocratic patrons
 
@@ -435,9 +435,9 @@ Memory Pearls represent the pinnacle of [[02_Worldbuilding/Places/Memory Farmers
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Memory Farmer Thane]]
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/Places/The Recursion Cult]]
+- [[Memory Farmer Thane]]
+- [[Sister Morwyn]]
+- [[The Recursion Cult]]
 
 ## Player-Facing Summary
 
@@ -457,5 +457,5 @@ Legends speak of Memory Pearls as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[Sister Morwyn]]
+- [[Memory Farmers]]

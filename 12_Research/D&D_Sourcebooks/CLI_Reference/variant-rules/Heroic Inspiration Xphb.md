@@ -22,9 +22,9 @@ world: Both
 # Heroic Inspiration
 *Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-If you ([[/03_Mechanics/CLI/variant-rules/player-character-xphb|a player character]]) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
+If you ([[player-character-xphb|a player character]]) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
-If you gain Heroic Inspiration but already have it, it's lost unless you give it to a [[/03_Mechanics/CLI/variant-rules/player-character-xphb|player character]] who lacks it.
+If you gain Heroic Inspiration but already have it, it's lost unless you give it to a [[player-character-xphb|player character]] who lacks it.
 
 ## Player-Facing Summary
 

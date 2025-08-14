@@ -26,9 +26,9 @@ world: Both
 | dice: d10 | Ally |
 |-----------|------|
 | 1-3 | No special Allies |
-| 4-5 | [[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm|Githyanki Knights]] |
-| 6-7 | [[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm|Knights]] and [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] |
-| 8-9 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] and [[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm|Knights]] |
+| 4-5 | [[githyanki-knight-xmm|Githyanki Knights]] |
+| 6-7 | [[githyanki-knight-xmm|Knights]] and [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] |
+| 8-9 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Gish]] and [[githyanki-knight-xmm|Knights]] |
 | 10 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Kith'rak]] |
 ^githyanki-special-allies
 

@@ -34,9 +34,9 @@ world: Both
 - **Components:** V, S, M (ashes from burned mistletoe)
 - **Duration:** Concentration, up to 1 hour
 
-You radiate a concealing aura in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks and leave no tracks.
+You radiate a concealing aura in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([[skills#Stealth|Stealth]]) checks and leave no tracks.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Trickery Domain)]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

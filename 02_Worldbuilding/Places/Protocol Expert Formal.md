@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-protocol-expert-formal-protocol-expert-formal.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-protocol-expert-formal-protocol-expert-formal.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Protocol Expert Formal]]
+- [[12_Research/D&D_References/Protocol Expert Formal]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[12_Research/D&D_References/Royal Palace]]

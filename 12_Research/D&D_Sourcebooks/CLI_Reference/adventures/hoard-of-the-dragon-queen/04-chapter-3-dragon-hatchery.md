@@ -36,7 +36,7 @@ The monk doesn't believe it's essential that the characters head back to the cam
 
 ## Abandoned Camp
 
-When characters return to the camp area, they find it mostly abandoned. (If they stayed, they witnessed the rapid packing up and abandonment of the camp.) The stinking huts of the kobolds (those on level 1) have been burned, but the level 2 huts and both guard towers remain. Anyone can determine from tracks that the cultists trekked away in small groups in all directions. A successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check reveals that most of the camp's wagons and pack animals moved in a train toward the west.
+When characters return to the camp area, they find it mostly abandoned. (If they stayed, they witnessed the rapid packing up and abandonment of the camp.) The stinking huts of the kobolds (those on level 1) have been burned, but the level 2 huts and both guard towers remain. Anyone can determine from tracks that the cultists trekked away in small groups in all directions. A successful DC 10 Wisdom ([[skills#Perception|Perception]]) check reveals that most of the camp's wagons and pack animals moved in a train toward the west.
 
 Still left in the camp are some hunters, the kobolds who tend the dragon nursery in the caves, [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]], her guards, and [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]]. Only the hunters still use the huts. All others live in the hatchery cave. The activity and guards around the cave mouth should be the top draw on the characters' attention.
 
@@ -44,7 +44,7 @@ On most mornings, hunters fan out onto the grassland to hunt for antelope and ot
 
 They are a taciturn bunch, so they won't be much help to inquisitive characters. They converse more freely with rangers, but to most strangers they merely nod, point, shake their heads, scowl, and utter one- or two-word answers. If characters converse with them, these hunters can relate how the camp dissolved within hours after the discovery of the captured half-elf's escape. Crates carried from the cave were loaded onto wagons or animals and hauled to the west. A few raiders remain in the cave: the Wearer of Purple (Mondath), the "dragon-man" (Cyanwrath), the better warriors, and the "dragon-dogs" (kobolds). As long as the cultists pay well for fresh meat, the trackers continue hunting for them. Whatever else the cave holds is none of their concern.
 
-A thorough search of the camp takes about ten man-hours. Allow characters to make a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check after the first hour. A successful roll means the character realizes that while quite a bit of material has been left behind, it's all trash: cracked pottery, rusty knives, soiled clothing and bedding, cheap cookware, and wine that's gone to vinegar. Some of it might be of use to the people of Greenest who lost everything in fires, but it has no value as treasure.
+A thorough search of the camp takes about ten man-hours. Allow characters to make a Wisdom ([[skills#Perception|Perception]]) check after the first hour. A successful roll means the character realizes that while quite a bit of material has been left behind, it's all trash: cracked pottery, rusty knives, soiled clothing and bedding, cheap cookware, and wine that's gone to vinegar. Some of it might be of use to the people of Greenest who lost everything in fires, but it has no value as treasure.
 
 ## Dragon Hatchery
 
@@ -74,12 +74,12 @@ Kobolds move freely through the caverns, going about their business. Characters 
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1 | 4 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
-| 2 | 6 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and 2 [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] |
-| 3 | 3 [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] |
-| 4 | 5 [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] |
-| 5 | 2 [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] and 1 [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drake]] (appendix D) |
-| 6 | 2 [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drakes]] (appendix D) |
+| 1 | 4 [[kobold-warrior-xmm|kobolds]] |
+| 2 | 6 [[kobold-warrior-xmm|kobolds]] and 2 [[winged-kobold-xmm|winged kobolds]] |
+| 3 | 3 [[winged-kobold-xmm|winged kobolds]] |
+| 4 | 5 [[winged-kobold-xmm|winged kobolds]] |
+| 5 | 2 [[winged-kobold-xmm|winged kobolds]] and 1 [[guard-drake-mpmm|guard drake]] (appendix D) |
+| 6 | 2 [[ambush-drake-hotdq|ambush drakes]] (appendix D) |
 ^encounter
 
 > [!gallery]
@@ -96,30 +96,30 @@ If characters approach openly through the camp, the dragonclaws spot them automa
 
 If the guards at the entrance spotted the characters' approach, they wait here until the characters come into view, then try to spring an ambush. Determine surprise normally.
 
-The passage at the end of this alcove is deeply shadowed and hidden by a cleverly cut fold in the rock. It's obvious to anyone who walks to the end of the alcove, but from elsewhere in the cavern, it can be spotted only with a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+The passage at the end of this alcove is deeply shadowed and hidden by a cleverly cut fold in the rock. It's obvious to anyone who walks to the end of the alcove, but from elsewhere in the cavern, it can be spotted only with a successful DC 20 Wisdom ([[skills#Perception|Perception]]) check.
 
 The stairs down to area 3 are trapped. See that area's description for details.
 
 ### 3. Fungus Garden
 
-The kobolds cultivate fungus in this cavern to supplement the meat brought in by the hunters. Mixed in among the mundane fungi are [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]]. The drop-off from area 2 is 10 feet high. The stairs are trapped; see below.
+The kobolds cultivate fungus in this cavern to supplement the meat brought in by the hunters. Mixed in among the mundane fungi are [[violet-fungus-xmm|violet fungi]]. The drop-off from area 2 is 10 feet high. The stairs are trapped; see below.
 
 > [!readaloud] 
 > 
 > The entrance to the cave ends here at a 10-foot drop-off. To your right, broad steps are roughly hewn into a natural stone ramp. The cavern below is carpeted with a profusion of fungi ranging from a few inches high to nearly as tall as a human adult. Two paths lead through the fungi: one on the right and one on the left.
 ^0b2
 
-Nothing distinguishes the paths to casual inspection. The path on the right is flanked by four [[/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm|violet fungi]], while the path on the left is free of these dangerous growths. The violet fungi can be spotted among all the other mushrooms with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check, but only from the base of the steps, not from atop the ledge. Likewise, a careful inspection of the path reveals that only the left trail sees heavy use.
+Nothing distinguishes the paths to casual inspection. The path on the right is flanked by four [[violet-fungus-xmm|violet fungi]], while the path on the left is free of these dangerous growths. The violet fungi can be spotted among all the other mushrooms with a successful DC 15 Intelligence ([[skills#Nature|Nature]]) check, but only from the base of the steps, not from atop the ledge. Likewise, a careful inspection of the path reveals that only the left trail sees heavy use.
 
 #### Trapped Stairs
 
-The stairs are constructed so that the lowest steps collapse into a ramp that dumps a character right at the base of the violet fungi. Roll any die as each character descends the steps; on an odd roll, the character triggers the trap. A character who is actively looking for a trap on the stairs can find the trapped step with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The kobolds and guards know where to avoid stepping, of course.
+The stairs are constructed so that the lowest steps collapse into a ramp that dumps a character right at the base of the violet fungi. Roll any die as each character descends the steps; on an odd roll, the character triggers the trap. A character who is actively looking for a trap on the stairs can find the trapped step with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check. The kobolds and guards know where to avoid stepping, of course.
 
 ### 4. Stirge Lair
 
-Some fungus from area 3 dots this area, but chiefly it is the lair of a colony of bats. Hidden among the bats are ten [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]]. The bats are present only from sunrise to sundown, but the stirges are always here. Normally the stirges prey on the plentiful bats and leave the cave's other residents alone, but not always.
+Some fungus from area 3 dots this area, but chiefly it is the lair of a colony of bats. Hidden among the bats are ten [[stirge-xmm|stirges]]. The bats are present only from sunrise to sundown, but the stirges are always here. Normally the stirges prey on the plentiful bats and leave the cave's other residents alone, but not always.
 
-Characters notice dead bats on the floor (victims of the stirges). If that causes someone to look up, describe how the ceiling is carpeted with bats with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. To avoid startling the bats, characters must proceed very quietly. This requires a successful DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check. If three or more characters fail the check, the bats are alarmed by the noise, drop from the ceiling, and fly through the cavern in a blinding cloud of flapping and squeaking rodents. The bats present no danger, but their racket drowns out other noise and makes it impossible to see more than 5 feet. It also alerts the stirges, and the opportunistic bloodsuckers attack in the confusion. The stirges gain a +2 bonus to AC in the bat storm.
+Characters notice dead bats on the floor (victims of the stirges). If that causes someone to look up, describe how the ceiling is carpeted with bats with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. To avoid startling the bats, characters must proceed very quietly. This requires a successful DC 10 Dexterity ([[skills#Stealth|Stealth]]) check. If three or more characters fail the check, the bats are alarmed by the noise, drop from the ceiling, and fly through the cavern in a blinding cloud of flapping and squeaking rodents. The bats present no danger, but their racket drowns out other noise and makes it impossible to see more than 5 feet. It also alerts the stirges, and the opportunistic bloodsuckers attack in the confusion. The stirges gain a +2 bonus to AC in the bat storm.
 
 The bats calm down and return to their roosts on the ceiling after five minutes of quiet in area 4.
 
@@ -131,7 +131,7 @@ The floor drops down 10 feet at each ledge.
 
 Kobolds use this portion of the cave as a trash dump. Along with normal sorts of refuse, such as broken pottery, rotted baskets, and mouse-chewed rope, they've also thrown out items that appear useful from a distance: discarded clothes, worn boots, tattered books, cracked lamps, and so forth. Some of these items came from prisoners who died, and others were taken in treasure raids and later deemed to be unworthy of Tiamat. Characters viewing this area from the ledge see tantalizing glints of metal (belt buckles without belts) and parchment (books rendered illegible by water damage).
 
-A strong, foul smell hangs in the air. Troglodytes that live deeper beneath the ground have made incursions into the cave through narrow crevices (not displayed on the map). If characters give this area a cursory look and then leave, nothing happens here. If they spend time searching, then four [[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm|troglodytes]] attack. The crevices are a potential area for characters to explore if you'd like to expand this dungeon for further adventures. If not, then declare that they're too tight for characters to squeeze through, or eliminate them and the troglodytes entirely.
+A strong, foul smell hangs in the air. Troglodytes that live deeper beneath the ground have made incursions into the cave through narrow crevices (not displayed on the map). If characters give this area a cursory look and then leave, nothing happens here. If they spend time searching, then four [[troglodyte-xmm|troglodytes]] attack. The crevices are a potential area for characters to explore if you'd like to expand this dungeon for further adventures. If not, then declare that they're too tight for characters to squeeze through, or eliminate them and the troglodytes entirely.
 
 #### Treasure
 
@@ -159,27 +159,27 @@ This cave contains nothing of value.
 
 Hidden amid the leather strips of the curtain are hundreds of metal barbs coated with poison. Anyone who brushes through the curtain must succeed on a DC 10 Dexterity saving throw or take 5 (`d10`) poison damage, and the target's hit point maximum is reduced by 5 This reduction lasts until the target finishes a long rest.
 
-A careful inspection of the leather strips coupled with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check finds barbs; they can't be noticed otherwise. When kobolds use this stairway, they bring the ruined spear that's kept in area 4. With it, they sweep the leather strips to the left side of the corridor and wedge the end of the spear shaft into an angled socket in the floor just inside area 6. This holds the leather strips safely out of the way while they move in and out of the chamber.
+A careful inspection of the leather strips coupled with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check finds barbs; they can't be noticed otherwise. When kobolds use this stairway, they bring the ruined spear that's kept in area 4. With it, they sweep the leather strips to the left side of the corridor and wedge the end of the spear shaft into an angled socket in the floor just inside area 6. This holds the leather strips safely out of the way while they move in and out of the chamber.
 
 ### 7. Drake Nursery
 
-The short, wide passage between areas 4 and 7 is trapped. See "Spike Trap" below for details. Simple oil lamps provide dim, flickering light. This chamber contains four [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and one [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobold]]. These creatures are in the upper part of the chamber.
+The short, wide passage between areas 4 and 7 is trapped. See "Spike Trap" below for details. Simple oil lamps provide dim, flickering light. This chamber contains four [[kobold-warrior-xmm|kobolds]] and one [[winged-kobold-xmm|winged kobold]]. These creatures are in the upper part of the chamber.
 
 The lower area is where cultists conducted the rituals to create their guard drakes and then housed the creatures. The ledge is a sharp 10-foot drop-off. Wooden stairs descend at the right end of the ledge. A stout cage made of iron bars surrounds these steps to a height of 10 feet to prevent untrained drakes from escaping up the steps. A key hangs on a peg at the top of the steps; it opens the locked gate at the bottom.
 
 A rack along the southwest wall holds implements used in training the drakes: long poles with lassos at the end, used for snaring and controlling young drakes; leashes and collars; sharp prods; mock weapons made of wood; human-sized dummies stitched out of sailcloth and stuffed with straw, with ridiculous expressions painted on their faces.
 
-The lower area is heavily shadowed. Currently it holds three [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] that are near the end of their training. Being not quite fully developed, they have only 33 hit points each. Spotting these drakes from the ledge requires a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check; sweeping the pit with a bullseye lantern grants advantage on this check. If characters bring some raw meat to the ledge, the drakes think they're about to be fed and advance into the light. If characters enter the pit, either by descending the steps or climbing down the ledge, the drakes attack.
+The lower area is heavily shadowed. Currently it holds three [[guard-drake-mpmm|guard drakes]] that are near the end of their training. Being not quite fully developed, they have only 33 hit points each. Spotting these drakes from the ledge requires a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check; sweeping the pit with a bullseye lantern grants advantage on this check. If characters bring some raw meat to the ledge, the drakes think they're about to be fed and advance into the light. If characters enter the pit, either by descending the steps or climbing down the ledge, the drakes attack.
 
-If the drakes are spotted and attacked by characters on the ledge, they set up a howl that draws six [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and three [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] from area 8. At least one of these try to get past the characters and unlock the gate at the bottom of the steps, letting the guard drakes join the battle as they've been trained to do.
+If the drakes are spotted and attacked by characters on the ledge, they set up a howl that draws six [[kobold-warrior-xmm|kobolds]] and three [[winged-kobold-xmm|winged kobolds]] from area 8. At least one of these try to get past the characters and unlock the gate at the bottom of the steps, letting the guard drakes join the battle as they've been trained to do.
 
 #### Spike Trap
 
-A portion of the floor between areas 4 and 7 has been replaced with a sheet of parchment cleverly painted to resemble the surrounding stone. It can be spotted with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check, or automatically by someone who is systematically tapping the floor ahead with a pole or other tool. Beneath the parchment sheet is a shallow pit (about 2 feet deep) lined with poisoned spikes. Each time a character moves between areas 4 and 7, roll a `d10`. On a roll of 1 or 2, that character's foot has gone through the trap. The character takes `d4` piercing damage from the spikes and must make a DC 10 Constitution saving throw against poison. On a failed save, the character is affected as by a [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] spell for one minute (10 rounds). On a successful save, the character is affected as by a [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] spell for 1 round. The effect is not magical.
+A portion of the floor between areas 4 and 7 has been replaced with a sheet of parchment cleverly painted to resemble the surrounding stone. It can be spotted with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check, or automatically by someone who is systematically tapping the floor ahead with a pole or other tool. Beneath the parchment sheet is a shallow pit (about 2 feet deep) lined with poisoned spikes. Each time a character moves between areas 4 and 7, roll a `d10`. On a roll of 1 or 2, that character's foot has gone through the trap. The character takes `d4` piercing damage from the spikes and must make a DC 10 Constitution saving throw against poison. On a failed save, the character is affected as by a [[confusion-xphb|confusion]] spell for one minute (10 rounds). On a successful save, the character is affected as by a [[confusion-xphb|confusion]] spell for 1 round. The effect is not magical.
 
 ### 8. Kobold Barracks
 
-The steps down from area 7 are trapped; see "Collapsing Trap" below for details. Area 8 is the kobolds' living quarters. It was a natural cavern, but it has been enlarged and smoothed in a crude manner. Unless they already responded to noise in area 7, this area contains six [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and six [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]]. They are off duty, so they aren't being especially alert. Use their passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to determine whether they react to noises. Flickering oil lamps provide dim illumination.
+The steps down from area 7 are trapped; see "Collapsing Trap" below for details. Area 8 is the kobolds' living quarters. It was a natural cavern, but it has been enlarged and smoothed in a crude manner. Unless they already responded to noise in area 7, this area contains six [[kobold-warrior-xmm|kobolds]] and six [[winged-kobold-xmm|winged kobolds]]. They are off duty, so they aren't being especially alert. Use their passive Wisdom ([[skills#Perception|Perception]]) scores to determine whether they react to noises. Flickering oil lamps provide dim illumination.
 
 > [!readaloud] 
 > 
@@ -190,7 +190,7 @@ The steps down from area 7 are trapped; see "Collapsing Trap" below for details.
 
 The top step is rigged to drop a portion of the ceiling in area 7. As each character enters the staircase, roll any die. On an odd roll, the character steps in the wrong spot and triggers the trap. The ceiling collapses above the next character in line (the one behind the character who triggered the trap). That character takes `4d4` bludgeoning damage from falling rocks; the damage is halved if the character makes a successful DC 15 Dexterity saving throw. Every character within 5 feet takes `2d4` bludgeoning damage, or half that with a successful saving throw.
 
-A character who is actively looking for a trap on the stairs can find the trapped step with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The collapsible ceiling is spotted incidentally with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+A character who is actively looking for a trap on the stairs can find the trapped step with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. The collapsible ceiling is spotted incidentally with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
 The kobolds in areas 8 and 9 hear the commotion if the trap is set off.
 
@@ -229,9 +229,9 @@ The creatures in area 10 are not drawn to this fight. They hide and wait to see 
 
 The five-headed dragon is Tiamat, and the volcano is the Well of Dragons, where the Cult of the Dragon intends to bring Tiamat into the world. The Well of Dragons is located at the northern extreme of the Sunset Mountains. Most characters should recognize Tiamat from folktales and know she was banished to the Nine Hells long ago and remains imprisoned there. There is no way to tell from the carvings where the volcano is located, or to know if it's meant to be a prediction of events to come or just a birth metaphor for the queen of evil dragons.
 
-The chest is locked and trapped; see "Acid Trap" below for details. Characters can open it with the key from area 11, or the lock can be picked with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. Unless the Dexterity roll is 15 or higher, however, it sets off the trap when the chest opens.
+The chest is locked and trapped; see "Acid Trap" below for details. Characters can open it with the key from area 11, or the lock can be picked with [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. Unless the Dexterity roll is 15 or higher, however, it sets off the trap when the chest opens.
 
-If characters spend 10 minutes or more studying the carvings, they can learn two things. First, black dragons are overrepresented. Almost half the dragons shown appear to be black dragons. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Wyrmspeaker Rezmir]] favors them over all other types. Second, a detailed search coupled with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check spots that many of the black dragon carvings have holes in their mouths.
+If characters spend 10 minutes or more studying the carvings, they can learn two things. First, black dragons are overrepresented. Almost half the dragons shown appear to be black dragons. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Wyrmspeaker Rezmir]] favors them over all other types. Second, a detailed search coupled with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check spots that many of the black dragon carvings have holes in their mouths.
 
 A passage in the southwest corner of the shrine chamber leads to a chute that rises 30 feet up to area 11. A rope ladder is fixed at the top; a rug covers the opening.
 
@@ -269,21 +269,21 @@ From the ledge, characters can just make out the shapes of large eggs (each egg 
 
 This area is warm and humid. After characters look closely at the floor, they can determine that the stains are blood, and some of them are fresh. They come from the meat the kobolds toss down here.
 
-Huddled in the shadows at the far edges of the room or behind the natural columns are two [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] trained to protect the dragon eggs. They don't attack as soon as characters come through the gate but wait until the characters have moved into the chamber. The drakes' first priority is to protect the eggs. Their second priority is to get between the intruders and the steps to prevent them from escaping. Unless characters climb down into 10A without using the stairs, they trigger the kobolds' attack before exploring this area.
+Huddled in the shadows at the far edges of the room or behind the natural columns are two [[guard-drake-mpmm|guard drakes]] trained to protect the dragon eggs. They don't attack as soon as characters come through the gate but wait until the characters have moved into the chamber. The drakes' first priority is to protect the eggs. Their second priority is to get between the intruders and the steps to prevent them from escaping. Unless characters climb down into 10A without using the stairs, they trigger the kobolds' attack before exploring this area.
 
-Mixed in among the stalactites near the southeast corner of the room is an unusual [[/03_Mechanics/CLI/bestiary/aberration/roper-xmm|roper]] that can speak Common. It doesn't attack the kobolds or guard drakes because the kobolds feed it spoiled meat that the guard drakes won't eat. If attacked, it fights back (and it's very dangerous to 3rd-level characters!). It can reach anywhere in area 10 with its tentacles, and it can also move at speed 10. It is currently full and curious about strangers, however, so it's not averse to talking. Its only real concern is food. If told about the supply of meat in area 6 and brought some as proof, It leaves the characters along while it creeps away to investigate the larder.
+Mixed in among the stalactites near the southeast corner of the room is an unusual [[roper-xmm|roper]] that can speak Common. It doesn't attack the kobolds or guard drakes because the kobolds feed it spoiled meat that the guard drakes won't eat. If attacked, it fights back (and it's very dangerous to 3rd-level characters!). It can reach anywhere in area 10 with its tentacles, and it can also move at speed 10. It is currently full and curious about strangers, however, so it's not averse to talking. Its only real concern is food. If told about the supply of meat in area 6 and brought some as proof, It leaves the characters along while it creeps away to investigate the larder.
 
-A total of three dragon eggs are spread throughout the area. Each is about three feet tall and weighs 150 pounds. Two of them are easy to spot just by walking through the room with a light source. The third is tucked into a pile of similar-colored stones behind one of the columns, making it easy to miss. When characters search the room, have everyone make a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Only a character who rolls 15 or higher notices the egg in its camouflaged nest. Looking at a dragon egg, a character can determine the color of dragon with a successful DC 10 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check.
+A total of three dragon eggs are spread throughout the area. Each is about three feet tall and weighs 150 pounds. Two of them are easy to spot just by walking through the room with a light source. The third is tucked into a pile of similar-colored stones behind one of the columns, making it easy to miss. When characters search the room, have everyone make a Wisdom ([[skills#Perception|Perception]]) check. Only a character who rolls 15 or higher notices the egg in its camouflaged nest. Looking at a dragon egg, a character can determine the color of dragon with a successful DC 10 Intelligence ([[skills#Nature|Nature]]) check.
 
 If the eggs are left here, they hatch in less than a week. If they are taken away, whether they hatch depends on how they are stored and treated. Away from a warm, humid environment such as this chamber, their progress halts until they are again in a suitable incubator. The dragons can be killed easily if the eggs are smashed, crushed, or stabbed. If an egg is simply cracked open, the infant dragon struggles for breath, cries and squirms like a human baby for a few minutes, and then dies.
 
 #### 10B. Kobolds in Hiding
 
-The floor of this area is about 10 feet below the ledge. The four [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] who tend the eggs hid in this depression when they heard the fight break out in area 9. When characters approach within 25 feet of the ledge overlooking 10B (when they come in line with the top of the stairs to 10A), two kobolds toss glue bombs and the other two toss fire bombs. They do the same thing on the next round. Then they wait a round or two, if possible, while the roper in area 10A drags characters into its tentacles, bites them, or drops them 20 feet to the guard drakes.
+The floor of this area is about 10 feet below the ledge. The four [[kobold-warrior-xmm|kobolds]] who tend the eggs hid in this depression when they heard the fight break out in area 9. When characters approach within 25 feet of the ledge overlooking 10B (when they come in line with the top of the stairs to 10A), two kobolds toss glue bombs and the other two toss fire bombs. They do the same thing on the next round. Then they wait a round or two, if possible, while the roper in area 10A drags characters into its tentacles, bites them, or drops them 20 feet to the guard drakes.
 
 ##### Glue Bomb
 
-Each creature within 10 feet of the bomb's target point must succeed on a DC 11 Dexterity saving throw or be [[/03_Mechanics/CLI/conditions#Restrained|restrained]]. The target or another creature within reach of it can use an action to make a DC 11 Strength check; if the check succeeds, the effect on the target ends.
+Each creature within 10 feet of the bomb's target point must succeed on a DC 11 Dexterity saving throw or be [[conditions#Restrained|restrained]]. The target or another creature within reach of it can use an action to make a DC 11 Strength check; if the check succeeds, the effect on the target ends.
 
 ##### Fire Bomb
 
@@ -295,7 +295,7 @@ If all else fails, the kobolds scramble up their makeshift ladder and attack wit
 
 [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] (see appendix D) moved into this simple but comfortable chamber when the camp was abandoned. If no fight has occurred with the guards in area 12 and characters enter this chamber from area 9, then Mondath is here when they arrive. Guards in area 12 hear whatever happens in this chamber and respond dutifully.
 
-The chamber contains a writing desk and stool, several tables with books and papers, and a mirror on a floor stand. Light comes from two oil lamps. Thick rugs completely cover the floor, including an open chute that drops down to area 9. A rope ladder is fixed in the chute for climbing up and down, but nothing marks the position of the open, 3-foot-wide hole when it is covered by rugs. The slight depression it causes in the rug can be noticed with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. If someone steps on the chute without knowing it's there, the character must make a DC 10 Dexterity saving throw. Success means the character hops off the rug before it collapses through the hole, or grabs the top of ladder as he or she falls; failure means the character plunges 30 feet down the chute into area 9, taking `3d6` bludgeoning damage from the fall.
+The chamber contains a writing desk and stool, several tables with books and papers, and a mirror on a floor stand. Light comes from two oil lamps. Thick rugs completely cover the floor, including an open chute that drops down to area 9. A rope ladder is fixed in the chute for climbing up and down, but nothing marks the position of the open, 3-foot-wide hole when it is covered by rugs. The slight depression it causes in the rug can be noticed with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. If someone steps on the chute without knowing it's there, the character must make a DC 10 Dexterity saving throw. Success means the character hops off the rug before it collapses through the hole, or grabs the top of ladder as he or she falls; failure means the character plunges 30 feet down the chute into area 9, taking `3d6` bludgeoning damage from the fall.
 
 > [!readaloud] 
 > 

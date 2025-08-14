@@ -26,7 +26,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Concentration Breaker.** When you damage a creature that is [[/03_Mechanics/CLI/conditions#Concentration|Concentrating]], it has Disadvantage on the saving throw it makes to maintain [[/03_Mechanics/CLI/conditions#Concentration|Concentration]].
+**Concentration Breaker.** When you damage a creature that is [[conditions#Concentration|Concentrating]], it has Disadvantage on the saving throw it makes to maintain [[conditions#Concentration|Concentration]].
 
 **Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
 

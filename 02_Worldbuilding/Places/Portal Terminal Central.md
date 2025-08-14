@@ -15,11 +15,8 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png]]
 
 
 ## Overview
@@ -61,6 +58,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Portal Terminal Central]]
+- [[12_Research/D&D_References/Portal Terminal Central]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-duke-theron-depthguard-duke-theron-depthguard.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duke-theron-depthguard-duke-theron-depthguard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 ## Player-Facing Summary
 

@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -60,11 +56,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Armor of the First Deep King]]
+- [[Armor of the First Deep King]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[The Original Palace]]

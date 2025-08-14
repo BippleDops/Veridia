@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-emergency-protocols-emergency-protocols.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-emergency-protocols-emergency-protocols.svg]]
 
 
 ## Overview
@@ -62,13 +58,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Emergency Protocols]]
+- [[12_Research/D&D_References/Emergency Protocols]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[12_Research/D&D_References/Royal Embassy]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]
+- [[12_Research/D&D_Statblocks/The Whispering Expanse]]

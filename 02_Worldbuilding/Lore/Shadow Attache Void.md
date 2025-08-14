@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- shadow-touched
 - aethermoor
 - complete
 - content/adventure
@@ -13,10 +15,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.192815+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +43,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aethermoor
 - complete
 - content/adventure
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.890957+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Goldspire Confederacy]]
+- [[12_Research/D&D_References/Goldspire Confederacy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+- [[12_Research/D&D_References/Goldspire Confederacy]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

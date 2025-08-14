@@ -11,17 +11,15 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Queen|02 Worldbuilding/Lore/The Queen]]
+- [[The Queen|02 Worldbuilding/Lore/The Queen]]
 
 
 ## Connections
 
-- [[The Queen]]
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_References/The Transformed Citizens]]
 
 ## Player-Facing Summary
 

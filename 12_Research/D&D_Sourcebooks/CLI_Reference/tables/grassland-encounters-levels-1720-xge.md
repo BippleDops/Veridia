@@ -25,20 +25,20 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-10 | `2d6` [[/03_Mechanics/CLI/bestiary/beast/triceratops-xmm|triceratopses]] |
-| 11-20 | `d10` [[/03_Mechanics/CLI/bestiary/construct/gorgon-xmm|gorgons]] |
-| 21-25 | `2d6` [[/03_Mechanics/CLI/bestiary/beast/hyena-xmm|hyenas]] feeding on the carcass of a dead dinosaur |
-| 26-35 | `3d6` [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulettes]] |
+| 01-10 | `2d6` [[triceratops-xmm|triceratopses]] |
+| 11-20 | `d10` [[gorgon-xmm|gorgons]] |
+| 21-25 | `2d6` [[hyena-xmm|hyenas]] feeding on the carcass of a dead dinosaur |
+| 26-35 | `3d6` [[bulette-xmm|bulettes]] |
 | 36-40 | A fiery chariot that races across the sky |
-| 41-50 | `d3` [[/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm|young gold dragons]] |
-| 51-60 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclopes]] |
+| 41-50 | `d3` [[young-gold-dragon-xmm|young gold dragons]] |
+| 51-60 | `2d4` [[cyclops-sentry-xmm|cyclopes]] |
 | 61-65 | A valley where all the grass has died and the ground is littered with stumps and fallen tree trunks, all petrified |
-| 66-75 | `2d10` [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] |
+| 66-75 | `2d10` [[wolf-xmm|wolves]] |
 | 76-80 | A friendly adventuring party of `1d6 + 1` characters of varying races, classes, and levels (average level `1d6 + 2`). They share information about their recent travels. |
-| 81-90 | `d12` [[/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm|chimeras]] |
-| 91-96 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm|tyrannosaurus rexes]] |
-| 97-99 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm|adult gold dragon]] |
-| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm|ancient gold dragon]] |
+| 81-90 | `d12` [[chimera-xmm|chimeras]] |
+| 91-96 | `1d6 + 2` [[tyrannosaurus-rex-xmm|tyrannosaurus rexes]] |
+| 97-99 | 1 [[adult-gold-dragon-xmm|adult gold dragon]] |
+| 00 | 1 [[ancient-gold-dragon-xmm|ancient gold dragon]] |
 ^grassland-encounters-levels-1720
 
 ## Player-Facing Summary

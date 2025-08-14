@@ -28,11 +28,11 @@ world: Both
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
-When you take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
+When you take a [[actions#Magic|Magic]] action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb|Attunement]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
 This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 4 levels of spells at a time. When found, it contains `d4` levels of stored spells chosen by the DM.
 

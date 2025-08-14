@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-alkilith-mpmm-alkilith-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/alkilith-mpmm|Alkilith]]
+# [[alkilith-mpmm|Alkilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -61,13 +61,13 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
   - "dexterity": !!int "8"
   - "constitution": !!int "10"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "acid; cold; fire; lightning; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
@@ -81,15 +81,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
     "name": "Amorphous"
   - "desc": "If the alkilith is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the alkilith\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]])\
+      \ move or act, that creature must succeed on a DC 18 Intelligence ([[skills#Investigation|Investigation]])\
       \ check to discern that the alkilith isn't ordinary slime or fungus."
     "name": "False Appearance"
   - "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]]\
-      \ spell for 1 minute (no [[/03_Mechanics/CLI/conditions#Concentration|concentration]]\
+      \ fails by 5 or more, the creature is instead subjected to the [[confusion-xphb|confusion]]\
+      \ spell for 1 minute (no [[conditions#Concentration|concentration]]\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
     "name": "Foment Confusion"

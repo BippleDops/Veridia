@@ -24,7 +24,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-white-dragon-xmm|Young White Dragon]]
+# [[young-white-dragon-xmm|Young White Dragon]]
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
@@ -66,9 +66,9 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "3"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
@@ -76,7 +76,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "6"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]\
+      \ make an ability check. Additionally, [[difficult-terrain-xphb|Difficult Terrain]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
 "actions":
@@ -85,7 +85,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 9 (2d4 + 4) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 40 (9d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

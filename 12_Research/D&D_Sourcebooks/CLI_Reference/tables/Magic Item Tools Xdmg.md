@@ -26,15 +26,15 @@ world: Both
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|Leatherworker's Tools]], [[/03_Mechanics/CLI/items/smiths-tools-xphb|Smith's Tools]], or [[/03_Mechanics/CLI/items/weavers-tools-xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [[/03_Mechanics/CLI/items/alchemists-supplies-xphb|Alchemist's Supplies]] or [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism Kit]] |
-| Ring | [[/03_Mechanics/CLI/items/jewelers-tools-xphb|Jeweler's Tools]] |
-| Rod | [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Scroll | [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|Calligrapher's Supplies]] |
-| Staff | [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Wand | [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]] |
-| Weapon | [[/03_Mechanics/CLI/items/leatherworkers-tools-xphb|Leatherworker's Tools]], [[/03_Mechanics/CLI/items/smiths-tools-xphb|Smith's Tools]], or [[/03_Mechanics/CLI/items/woodcarvers-tools-xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [[/03_Mechanics/CLI/items/tinkers-tools-xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[weavers-tools-xphb|Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[alchemists-supplies-xphb|Alchemist's Supplies]] or [[herbalism-kit-xphb|Herbalism Kit]] |
+| Ring | [[jewelers-tools-xphb|Jeweler's Tools]] |
+| Rod | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Scroll | [[calligraphers-supplies-xphb|Calligrapher's Supplies]] |
+| Staff | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Wand | [[woodcarvers-tools-xphb|Woodcarver's Tools]] |
+| Weapon | [[leatherworkers-tools-xphb|Leatherworker's Tools]], [[smiths-tools-xphb|Smith's Tools]], or [[woodcarvers-tools-xphb|Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[tinkers-tools-xphb|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools
 
 ## Player-Facing Summary

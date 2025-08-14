@@ -24,7 +24,7 @@ world: Both
 
 Volo has encountered many monsters in his day, few as odious or as ornery as the ones described herein. This chapter takes several iconic D&D monsters and provides additional information about their origins, their dispositions and behaviors, and their lairs-above and beyond what is written in the *Monster Manual.* To give every monster such grand treatment would require too many pages to count, so we winnowed down the list to nine groups of creatures that have a lot going for them and tend to get used often in D&D campaigns:
 
-![[/03_Mechanics/CLI/tables/monster-lore-vgm|Monster Lore]]
+![[monster-lore-vgm|Monster Lore]]
 
 If you plunder this chapter for ideas and maps the next time you create an adventure or a villain, then this material has served its purpose. We hope that, as you explore each monster section, you'll come up with new ways to challenge and entertain your players, as well as find new things that you can borrow for your own D&D campaign. Let each entry spark your imagination!
 
@@ -102,43 +102,43 @@ As a byproduct of their unique method of propagation, beholders in one part of t
 
 Use the following tables to produce a variety of different appearances for beholders if you desire.
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-body-diameter-vgm|Physical Characteristics; Beholder Body Diameter]]
+![[physical-characteristics-beholder-body-diameter-vgm|Physical Characteristics; Beholder Body Diameter]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-skin-color-vgm|Physical Characteristics; Beholder Skin Color]]
+![[physical-characteristics-beholder-skin-color-vgm|Physical Characteristics; Beholder Skin Color]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-skin-texture-vgm|Physical Characteristics; Beholder Skin Texture]]
+![[physical-characteristics-beholder-skin-texture-vgm|Physical Characteristics; Beholder Skin Texture]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-eye-color-vgm|Physical Characteristics; Beholder Eye Color]]
+![[physical-characteristics-beholder-eye-color-vgm|Physical Characteristics; Beholder Eye Color]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-iris-shape-vgm|Physical Characteristics; Beholder Iris Shape]]
+![[physical-characteristics-beholder-iris-shape-vgm|Physical Characteristics; Beholder Iris Shape]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-eye-size-vgm|Physical Characteristics; Beholder Eye Size]]
+![[physical-characteristics-beholder-eye-size-vgm|Physical Characteristics; Beholder Eye Size]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-eyestalk-texture-vgm|Physical Characteristics; Beholder Eyestalk Texture]]
+![[physical-characteristics-beholder-eyestalk-texture-vgm|Physical Characteristics; Beholder Eyestalk Texture]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-eyestalk-shape-vgm|Physical Characteristics; Beholder Eyestalk Shape]]
+![[physical-characteristics-beholder-eyestalk-shape-vgm|Physical Characteristics; Beholder Eyestalk Shape]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-mouth-shape-and-size-vgm|Physical Characteristics; Beholder Mouth Shape and Size]]
+![[physical-characteristics-beholder-mouth-shape-and-size-vgm|Physical Characteristics; Beholder Mouth Shape and Size]]
 
-![[/03_Mechanics/CLI/tables/physical-characteristics-beholder-teeth-shape-vgm|Physical Characteristics; Beholder Teeth Shape]]
+![[physical-characteristics-beholder-teeth-shape-vgm|Physical Characteristics; Beholder Teeth Shape]]
 
 ### Roleplaying a Beholder
 
 When you're roleplaying a beholder, the following tables contain possible inspiration. They suggest characteristics that a beholder might possess.
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-beholder-beholder-personality-traits-vgm|Roleplaying a Beholder; Beholder Personality Traits]]
+![[roleplaying-a-beholder-beholder-personality-traits-vgm|Roleplaying a Beholder; Beholder Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-beholder-beholder-ideals-vgm|Roleplaying a Beholder; Beholder Ideals]]
+![[roleplaying-a-beholder-beholder-ideals-vgm|Roleplaying a Beholder; Beholder Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-beholder-beholder-bonds-vgm|Roleplaying a Beholder; Beholder Bonds]]
+![[roleplaying-a-beholder-beholder-bonds-vgm|Roleplaying a Beholder; Beholder Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-beholder-beholder-flaws-vgm|Roleplaying a Beholder; Beholder Flaws]]
+![[roleplaying-a-beholder-beholder-flaws-vgm|Roleplaying a Beholder; Beholder Flaws]]
 
 ### Beholder Names
 
 A beholder picks its own name, piecing together sounds and syllables that have significance and meaning to it.
 
-![[/03_Mechanics/CLI/tables/beholder-names-vgm|Beholder Names]]
+![[beholder-names-vgm|Beholder Names]]
 
 ### Battle Tactics
 
@@ -242,17 +242,17 @@ This section provides several alternative spell effects for a beholder's eye. Ea
 
 Unless otherwise indicated, an alternative ability has the same range as the eye ray it is replacing, and it affects only one creature per use (even if the ability is based on a spell that normally affects an area or multiple targets). The saving throw for an alternative ability uses the same DC and the same ability score as the spell the eye ray is based on.
 
-- **Antimagic Cone.** [[/03_Mechanics/CLI/spells/mirage-arcane-xphb|mirage arcane]], [[/03_Mechanics/CLI/spells/power-word-stun-xphb|power word stun]] (affecting the weakest non-stunned target in the cone each round)  
-- **Charm Ray.** [[/03_Mechanics/CLI/spells/banishment-xphb|banishment]] (1 minute), [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] (1 minute)  
-- **Death Ray.** [[/03_Mechanics/CLI/spells/circle-of-death-xphb|circle of death]] (10-foot-radius sphere; `4d6` necrotic damage to all creatures in the area), [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]]  
-- **Disintegration Ray.** [[/03_Mechanics/CLI/spells/chain-lightning-xphb|chain lightning]] (primary target takes `6d8` lightning damage; two secondary targets within 30 feet of the primary target take `3d8` lightning damage each), [[/03_Mechanics/CLI/spells/eyebite-xphb|eyebite]] (sickened effect; 1 minute)  
-- **Enervation Ray.** [[/03_Mechanics/CLI/spells/create-undead-xphb|create undead]] (usable regardless of the time of day), [[/03_Mechanics/CLI/spells/polymorph-xphb|polymorph]] (1 minute)  
-- **Fear Ray.** [[/03_Mechanics/CLI/spells/gaseous-form-xphb|gaseous form]] (self or willing creature only), [[/03_Mechanics/CLI/spells/moonbeam-xphb|moonbeam]]  
-- **Paralyzing Ray.** [[/03_Mechanics/CLI/spells/modify-memory-xphb|modify memory]], [[/03_Mechanics/CLI/spells/silence-xphb|silence]] (1 minute)  
-- **Petrification Ray.** [[/03_Mechanics/CLI/spells/ottos-irresistible-dance-xphb|Otto's irresistible dance]] (1 minute), [[/03_Mechanics/CLI/spells/wall-of-ice-xphb|wall of ice]] (1 minute; one 10-foot-square panel)  
-- **Sleep Ray.** [[/03_Mechanics/CLI/spells/blindness-deafness-xphb|blindness/deafness]], [[/03_Mechanics/CLI/spells/misty-step-xphb|misty step]] (self or willing creature only)   
-- **Slowing Ray.** [[/03_Mechanics/CLI/spells/bestow-curse-xphb|bestow curse]] (1 minute), [[/03_Mechanics/CLI/spells/sleet-storm-xphb|sleet storm]] (one 10-foot-cube)  
-- **Telekinesis Ray.** [[/03_Mechanics/CLI/spells/geas-xphb|geas]] (1 hour), [[/03_Mechanics/CLI/spells/wall-of-force-xphb|wall of force]] (1 minute; one 10-foot-square panel)  
+- **Antimagic Cone.** [[mirage-arcane-xphb|mirage arcane]], [[power-word-stun-xphb|power word stun]] (affecting the weakest non-stunned target in the cone each round)  
+- **Charm Ray.** [[banishment-xphb|banishment]] (1 minute), [[confusion-xphb|confusion]] (1 minute)  
+- **Death Ray.** [[circle-of-death-xphb|circle of death]] (10-foot-radius sphere; `4d6` necrotic damage to all creatures in the area), [[befuddlement-xphb|feeblemind]]  
+- **Disintegration Ray.** [[chain-lightning-xphb|chain lightning]] (primary target takes `6d8` lightning damage; two secondary targets within 30 feet of the primary target take `3d8` lightning damage each), [[eyebite-xphb|eyebite]] (sickened effect; 1 minute)  
+- **Enervation Ray.** [[create-undead-xphb|create undead]] (usable regardless of the time of day), [[polymorph-xphb|polymorph]] (1 minute)  
+- **Fear Ray.** [[gaseous-form-xphb|gaseous form]] (self or willing creature only), [[moonbeam-xphb|moonbeam]]  
+- **Paralyzing Ray.** [[modify-memory-xphb|modify memory]], [[silence-xphb|silence]] (1 minute)  
+- **Petrification Ray.** [[ottos-irresistible-dance-xphb|Otto's irresistible dance]] (1 minute), [[wall-of-ice-xphb|wall of ice]] (1 minute; one 10-foot-square panel)  
+- **Sleep Ray.** [[blindness-deafness-xphb|blindness/deafness]], [[misty-step-xphb|misty step]] (self or willing creature only)   
+- **Slowing Ray.** [[bestow-curse-xphb|bestow curse]] (1 minute), [[sleet-storm-xphb|sleet storm]] (one 10-foot-cube)  
+- **Telekinesis Ray.** [[geas-xphb|geas]] (1 hour), [[wall-of-force-xphb|wall of force]] (1 minute; one 10-foot-square panel)  
 
 ### Beholder Lairs
 
@@ -376,11 +376,11 @@ A beholder's greater minions are formidable opponents. In the lair, they might b
 
 A beholder often has one or more pets in its lair, mainly because (for whatever reason) it enjoys the company of such creatures. Pets are usually of low intelligence and are kept around because of their combat abilities, entertainment value, or trophy status.
 
-![[/03_Mechanics/CLI/tables/pets-beholder-lesser-minions-vgm|Pets; Beholder Lesser Minions]]
+![[pets-beholder-lesser-minions-vgm|Pets; Beholder Lesser Minions]]
 
-![[/03_Mechanics/CLI/tables/pets-beholder-greater-minions-vgm|Pets; Beholder Greater Minions]]
+![[pets-beholder-greater-minions-vgm|Pets; Beholder Greater Minions]]
 
-![[/03_Mechanics/CLI/tables/beholder-pets-vgm|Beholder Pets]]
+![[beholder-pets-vgm|Beholder Pets]]
 
 ### The Xanathar Guild
 
@@ -669,19 +669,19 @@ Giants live at a slower pace than humans do. In the space of four heartbeats for
 
 The life spans of the various types of giants are generally in keeping with their place in the ordning; the lowliest giants have the shortest life spans, and the noblest giants are the longest-lived. Stone giants are the exception. Because of their long life spans, despite their low position in the ordning, other giants consider stone giants to be the wisest of all giant types, just as Skoraeus Stonebones is often seen as the wisest of all the giant gods.
 
-![[/03_Mechanics/CLI/tables/living-the-giant-life-giant-life-spans-vgm|Living the Giant Life; Giant Life Spans]]
+![[living-the-giant-life-giant-life-spans-vgm|Living the Giant Life; Giant Life Spans]]
 
 ### Roleplaying a Giant
 
 Giving a giant a personality trait, an ideal, a bond, and a flaw helps to create a more vibrant NPC. You can also give a character background to a giant. The noble background, for example, could apply to a cloud giant.
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-giant-giant-personality-traits-vgm|Roleplaying a Giant; Giant Personality Traits]]
+![[roleplaying-a-giant-giant-personality-traits-vgm|Roleplaying a Giant; Giant Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-giant-giant-ideals-vgm|Roleplaying a Giant; Giant Ideals]]
+![[roleplaying-a-giant-giant-ideals-vgm|Roleplaying a Giant; Giant Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-giant-giant-bonds-vgm|Roleplaying a Giant; Giant Bonds]]
+![[roleplaying-a-giant-giant-bonds-vgm|Roleplaying a Giant; Giant Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-giant-giant-flaws-vgm|Roleplaying a Giant; Giant Flaws]]
+![[roleplaying-a-giant-giant-flaws-vgm|Roleplaying a Giant; Giant Flaws]]
 
 ### Cloud Giants
 
@@ -1083,7 +1083,7 @@ When gnoll leaders must share complex concepts with each other, they use a broke
 
 When you're roleplaying a cultist or gnoll of Yeenoghu, the following tables contain possible inspiration. They suggest characteristics that the NPC might possess.
 
-![[/03_Mechanics/CLI/tables/roleplaying-gnolls-and-cultists-of-yeenoghu|Roleplaying Gnolls and Cultists of Yeenoghu]]
+![[roleplaying-gnolls-and-cultists-of-yeenoghu|Roleplaying Gnolls and Cultists of Yeenoghu]]
 
 ### Gnoll Names
 
@@ -1091,7 +1091,7 @@ As befits creatures with a language that is little more than whines, growls, and
 
 Use the following tables to create a Gnoll along with Personality traits and physical characteristics or choose each characteristic individually.
 
-![[/03_Mechanics/CLI/tables/gnoll-names-vgm|Gnoll Names]]
+![[gnoll-names-vgm|Gnoll Names]]
 
 ### Anatomy of a War Band
 
@@ -1213,19 +1213,19 @@ The War Band Composition table determines how many gnolls and hyenas the band co
 
 Roll once on the Special Creatures table to see which special creature is part of the war band and in what numbers. The Shared Physical Trait and Notable Behavior or Tactics tables add some distinctive flavor to the war band. Finally, the Demonic Influence table adds an abyssal tinge to the group: owing to the gnolls' supernatural link with the Abyss, their advance toward a community might be heralded by strange effects that afflict the area or the people in it a day or so before they strike the settlement.
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-gnoll-war-band-name-vgm|Creating a Gnoll War Band; Gnoll War Band Name]]
+![[creating-a-gnoll-war-band-gnoll-war-band-name-vgm|Creating a Gnoll War Band; Gnoll War Band Name]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-gnoll-war-band-composition-vgm|Creating a Gnoll War Band; Gnoll War Band Composition]]
+![[creating-a-gnoll-war-band-gnoll-war-band-composition-vgm|Creating a Gnoll War Band; Gnoll War Band Composition]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-war-band-leadership-vgm|Creating a Gnoll War Band; War Band Leadership]]
+![[creating-a-gnoll-war-band-war-band-leadership-vgm|Creating a Gnoll War Band; War Band Leadership]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-gnoll-war-band-special-creatures-vgm|Creating a Gnoll War Band; Gnoll War Band Special Creatures]]
+![[creating-a-gnoll-war-band-gnoll-war-band-special-creatures-vgm|Creating a Gnoll War Band; Gnoll War Band Special Creatures]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-shared-physical-trait-vgm|Creating a Gnoll War Band; Shared Physical Trait]]
+![[creating-a-gnoll-war-band-shared-physical-trait-vgm|Creating a Gnoll War Band; Shared Physical Trait]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm|Creating a Gnoll War Band; Notable Behavior or Tactics]]
+![[creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm|Creating a Gnoll War Band; Notable Behavior or Tactics]]
 
-![[/03_Mechanics/CLI/tables/creating-a-gnoll-war-band-demonic-influence-vgm|Creating a Gnoll War Band; Demonic Influence]]
+![[creating-a-gnoll-war-band-demonic-influence-vgm|Creating a Gnoll War Band; Demonic Influence]]
 
 ## Goblinoids: The Conquering Host
 
@@ -1288,7 +1288,7 @@ Some goblin families are the lowest of the low, composed of the most dimwitted, 
 
 Goblins love symbols of authority, and thus the tribe's boss often has such trappings wherever he or she goes. Such a symbol can take a typical form, perhaps a crown or a throne, but also can be a more distinctive objects like a high-backed wolf saddle or colorful boots. The castes in a tribe also adopt symbols to indicate membership or kinship, but the symbols used are rarely the same between different tribes and often make little sense to other creatures. Some possible status symbols are given in the Status Symbols table. A caste or a boss might display more than one of these items.
 
-![[/03_Mechanics/CLI/tables/status-symbols-vgm|Status Symbols]]
+![[status-symbols-vgm|Status Symbols]]
 
 #### Booyahgs
 
@@ -1304,7 +1304,7 @@ This goblin served under a hobgoblin wizard, stole a look at its master's spellb
 
 ##### Booyahg Wielder
 
-This goblin found a magic item (a [[/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg|necklace of fireballs]], a [[/03_Mechanics/CLI/items/circlet-of-blasting-xdmg|circlet of blasting]], or the like) and learned how to use it.
+This goblin found a magic item (a [[necklace-of-fireballs-xdmg|necklace of fireballs]], a [[circlet-of-blasting-xdmg|circlet of blasting]], or the like) and learned how to use it.
 
 ##### Booyahg Whip
 
@@ -1316,7 +1316,7 @@ This goblin warlock serves a patron who can extract payment in flesh if the gobl
 
 ##### Booyahg Booyahg Booyahg
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[/03_Mechanics/CLI/tables/wild-magic-surge-phb|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[wild-magic-surge-phb|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
 
 > [!note] Who's the Boss?
 > 
@@ -1406,7 +1406,7 @@ Bugbears have no use for priests or shamans. No one needs to tell them what thei
 
 In an act of worship that also sometimes attracts favorable attention from their gods, bugbears sever the heads of defeated foes, cut away or stitch open the eyelids, and leave the mouths hanging open. The heads are then placed on spikes or hung from cords around a bugbear den. The heads themselves are trophies that honor Hruggek, and their ever-staring eyes are an homage to sleepless Grankhul.
 
-The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|speak with dead]] spell).
+The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [[speak-with-dead-xphb|speak with dead]] spell).
 
 ![](/03_Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-13.webp#center)
 
@@ -1436,7 +1436,7 @@ Hobgoblins don't build temples to their gods, lest they displease Maglubiyet, bu
 
 As in any strict military hierarchy, every hobgoblin in a legion has a rank, from the warlord down through a cadre of officers to the soldiers that make up most of its number. These ranks, using the titles most often applied to them, are as follows:
 
-![[/03_Mechanics/CLI/tables/rank-status-and-title-vgm|Rank, Status, and Title]]
+![[rank-status-and-title-vgm|Rank, Status, and Title]]
 
 A legion is organized into units called banners, each one made up of a group of interrelated families.
 
@@ -1740,13 +1740,13 @@ If a hag's life is threatened, she will pretend to be weak and helpless if she t
 
 Hags prefer to cajole and bargain rather than confront someone with actual violence; they reserve their aggressive outbursts for situations where they are overwhelmingly more powerful than their opponents (such as when attacking children) or have an unfair advantage (such as when their enemy is asleep). Although a hag can always resort to attacking with her claws, if it comes to that then something has gone very wrong with her plans.
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-hag-hag-personality-traits-vgm|Roleplaying a Hag; Hag Personality Traits]]
+![[roleplaying-a-hag-hag-personality-traits-vgm|Roleplaying a Hag; Hag Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-hag-hag-ideals-vgm|Roleplaying a Hag; Hag Ideals]]
+![[roleplaying-a-hag-hag-ideals-vgm|Roleplaying a Hag; Hag Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-hag-hag-bonds-vgm|Roleplaying a Hag; Hag Bonds]]
+![[roleplaying-a-hag-hag-bonds-vgm|Roleplaying a Hag; Hag Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-hag-hag-flaws-vgm|Roleplaying a Hag; Hag Flaws]]
+![[roleplaying-a-hag-hag-flaws-vgm|Roleplaying a Hag; Hag Flaws]]
 
 ### Hag Names
 
@@ -1756,7 +1756,7 @@ The Hag Names table allows you to generate a hag's name. You can also select fro
 
 Hags always have a title followed by a first name, or a first name followed by a last name. You can randomly determine (equal chance of either) whether a hag has a title or a last name.
 
-![[/03_Mechanics/CLI/tables/hag-names-vgm|Hag Names]]
+![[hag-names-vgm|Hag Names]]
 
 ### Weird Magic
 
@@ -1764,7 +1764,7 @@ Over the course of a seemingly endless lifetime, a hag typically discovers or cr
 
 A grandmother or some other hag of great age and renown might know unique rituals that can temporarily or permanently alter or transform a creature, bring back the dead for a limited time, rewrite memories, or siphon emotions. At the other end of the spectrum, even a hag without lofty status is likely to have strange, single-use items that don't emulate common spells or even follow the normal rules of magic. For inspiration in devising the effects of such weird items, see "Charms" in chapter 7 of the *Dungeon Master's Guide.*
 
-If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [[/03_Mechanics/CLI/spells/cloud-of-daggers-xphb|cloud of daggers]] (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [[/03_Mechanics/CLI/spells/cure-wounds-xphb|cure wounds]] (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] (a 2nd-level spell).
+If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [[cloud-of-daggers-xphb|cloud of daggers]] (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [[cure-wounds-xphb|cure wounds]] (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [[darkness-xphb|darkness]] (a 2nd-level spell).
 
 A hag carefully shepherds her use of weird magic because the items in her repertoire are often impossible to duplicate or replace. To reflect this fact, a hag should be able to use weird magic only once or twice per encounter in her lair, or only once per encounter if she is elsewhere. A hag who is expecting a fight might be better prepared and able (or willing) to use weird magic one additional time per encounter.
 
@@ -1839,34 +1839,34 @@ Some covens gather for a specific purpose, such as to defeat a champion of good,
 
 For a coven whose members are obsessed with death and the ability to manipulate it, an appropriate spell list would be:
 
-1st level (4 slots): [[/03_Mechanics/CLI/spells/false-life-xphb|false life]], [[/03_Mechanics/CLI/spells/inflict-wounds-xphb|inflict wounds]]  
-2nd level (3 slots): [[/03_Mechanics/CLI/spells/gentle-repose-xphb|gentle repose]], [[/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb|ray of enfeeblement]]  
-3rd level (3 slots): [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]] [[/03_Mechanics/CLI/spells/revivify-xphb|revivify]], [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|speak with dead]]  
-4th level (3 slots): [[/03_Mechanics/CLI/spells/blight-xphb|blight]], [[/03_Mechanics/CLI/spells/death-ward-xphb|death ward]]  
-5th level (2 slots): [[/03_Mechanics/CLI/spells/contagion-xphb|contagion]], [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]]  
-6th level (1 slot): [[/03_Mechanics/CLI/spells/circle-of-death-xphb|circle of death]]  
+1st level (4 slots): [[false-life-xphb|false life]], [[inflict-wounds-xphb|inflict wounds]]  
+2nd level (3 slots): [[gentle-repose-xphb|gentle repose]], [[ray-of-enfeeblement-xphb|ray of enfeeblement]]  
+3rd level (3 slots): [[animate-dead-xphb|animate dead]] [[revivify-xphb|revivify]], [[speak-with-dead-xphb|speak with dead]]  
+4th level (3 slots): [[blight-xphb|blight]], [[death-ward-xphb|death ward]]  
+5th level (2 slots): [[contagion-xphb|contagion]], [[raise-dead-xphb|raise dead]]  
+6th level (1 slot): [[circle-of-death-xphb|circle of death]]  
 
 ##### Nature
 
 Hags might seek to exert control over their environment and the creatures in it by mastering the following group of spells:
 
-1st level (4 slots): [[/03_Mechanics/CLI/spells/entangle-xphb|entangle]], [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|speak with animals]]  
-2nd level (3 slots): [[/03_Mechanics/CLI/spells/flaming-sphere-xphb|flaming sphere]], [[/03_Mechanics/CLI/spells/moonbeam-xphb|moonbeam]], [[/03_Mechanics/CLI/spells/spike-growth-xphb|spike growth]]  
-3rd level (3 slots): [[/03_Mechanics/CLI/spells/call-lightning-xphb|call lightning]], [[/03_Mechanics/CLI/spells/plant-growth-xphb|plant growth]]  
-4th level (3 slots): [[/03_Mechanics/CLI/spells/dominate-beast-xphb|dominate beast]], [[/03_Mechanics/CLI/spells/grasping-vine-xphb|grasping vine]]  
-5th level (2 slots): [[/03_Mechanics/CLI/spells/insect-plague-xphb|insect plague]], [[/03_Mechanics/CLI/spells/tree-stride-xphb|tree stride]]  
-6th level (1 slot): [[/03_Mechanics/CLI/spells/wall-of-thorns-xphb|wall of thorns]]  
+1st level (4 slots): [[entangle-xphb|entangle]], [[speak-with-animals-xphb|speak with animals]]  
+2nd level (3 slots): [[flaming-sphere-xphb|flaming sphere]], [[moonbeam-xphb|moonbeam]], [[spike-growth-xphb|spike growth]]  
+3rd level (3 slots): [[call-lightning-xphb|call lightning]], [[plant-growth-xphb|plant growth]]  
+4th level (3 slots): [[dominate-beast-xphb|dominate beast]], [[grasping-vine-xphb|grasping vine]]  
+5th level (2 slots): [[insect-plague-xphb|insect plague]], [[tree-stride-xphb|tree stride]]  
+6th level (1 slot): [[wall-of-thorns-xphb|wall of thorns]]  
 
 ##### Prophecy
 
 The power to affect the future or perceive things out of the norm could make these spells attractive to a coven:
 
-1st level (4 slots): [[/03_Mechanics/CLI/spells/bane-xphb|bane]], [[/03_Mechanics/CLI/spells/bless-xphb|bless]]  
-2nd level (3 slots): [[/03_Mechanics/CLI/spells/augury-xphb|augury]], [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]]  
-3rd level (3 slots): [[/03_Mechanics/CLI/spells/clairvoyance-xphb|clairvoyance]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]]  
-4th level (3 slots): [[/03_Mechanics/CLI/spells/arcane-eye-xphb|arcane eye]], [[/03_Mechanics/CLI/spells/locate-creature-xphb|locate creature]]  
-5th level (2 slots): [[/03_Mechanics/CLI/spells/geas-xphb|geas]], [[/03_Mechanics/CLI/spells/legend-lore-xphb|legend lore]]  
-6th level (1 slot): [[/03_Mechanics/CLI/spells/true-seeing-xphb|true seeing]]  
+1st level (4 slots): [[bane-xphb|bane]], [[bless-xphb|bless]]  
+2nd level (3 slots): [[augury-xphb|augury]], [[detect-thoughts-xphb|detect thoughts]]  
+3rd level (3 slots): [[clairvoyance-xphb|clairvoyance]], [[dispel-magic-xphb|dispel magic]], [[nondetection-xphb|nondetection]]  
+4th level (3 slots): [[arcane-eye-xphb|arcane eye]], [[locate-creature-xphb|locate creature]]  
+5th level (2 slots): [[geas-xphb|geas]], [[legend-lore-xphb|legend lore]]  
+6th level (1 slot): [[true-seeing-xphb|true seeing]]  
 
 > [!note] The Rule of Three
 > 
@@ -1998,9 +1998,9 @@ The Servants table includes faithful, trusted helpers that a hag uses to protect
 
 The Brutes table gives examples of the muscle a hag might employ, mercenaries that serve the hag only so long as it benefits them. These creatures run errands and take care of roughing up enemies or patrolling areas that the hag considers beneath her personal attention. Hags prefer to employ clever, cruel creatures rather than dumb oafs.
 
-![[/03_Mechanics/CLI/tables/random-hag-minions-servants-vgm|Random Hag Minions; Servants]]
+![[random-hag-minions-servants-vgm|Random Hag Minions; Servants]]
 
-![[/03_Mechanics/CLI/tables/random-hag-minions-brutes-vgm|Random Hag Minions; Brutes]]
+![[random-hag-minions-brutes-vgm|Random Hag Minions; Brutes]]
 
 ### Treasure
 
@@ -2016,7 +2016,7 @@ Treasure-seekers are likely to fare better if they consider a hag's booty to be 
 
 Above and beyond the items of obvious value a hag has accumulated, she also has a few bizarre and unique items in her collection. The Hag Objects table provides a way to quickly add such weird items to a hag's home.
 
-![[/03_Mechanics/CLI/tables/one-of-a-kind-objects-hag-objects-vgm|One-of-a-Kind Objects; Hag Objects]]
+![[one-of-a-kind-objects-hag-objects-vgm|One-of-a-Kind Objects; Hag Objects]]
 
 ## Kobolds: Little Dragons
 
@@ -2122,7 +2122,7 @@ Kobolds reside most commonly in hilly or mountainous terrain. Such locations usu
 
 Kobold names are derived from the Draconic tongue and usually relate to a characteristic of the owner, such as scale color, distinctive body parts, or typical behavior. For example, "Red Foot," "White Claw," and "Scurry" are Common translations of often-used names. A kobold might change its name when it becomes an adult, or add additional word-syllables after important events such as completing its first hunt, laying its first egg, or surviving its first battle. The Kobold Names table presents kobold names suitable for any campaign.
 
-![[/03_Mechanics/CLI/tables/kobold-names-vgm|Kobold Names]]
+![[kobold-names-vgm|Kobold Names]]
 
 ### Physical Variations
 
@@ -2134,9 +2134,9 @@ Use the Scale Color table to randomly determine the  predominant appearance of k
 
 Us the tables below to generate a Kobold Name and scale color.
 
-![[/03_Mechanics/CLI/tables/physical-variations-scale-color-vgm|Physical Variations; Scale Color]]
+![[physical-variations-scale-color-vgm|Physical Variations; Scale Color]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-scale-pattern-vgm|Physical Variations; Scale Pattern]]
+![[physical-variations-scale-pattern-vgm|Physical Variations; Scale Pattern]]
 
 ### Tactics
 
@@ -2386,13 +2386,13 @@ Many of the esoteric research topics pursued by a colony reflect the ambitions a
 
 When you're roleplaying a mind flayer, the following tables contain possible inspiration. They suggest characteristics that a mind flayer might possess.
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-mind-flayer-mind-flayer-personality-traits-vgm|Roleplaying a Mind Flayer; Mind Flayer Personality Traits]]
+![[roleplaying-a-mind-flayer-mind-flayer-personality-traits-vgm|Roleplaying a Mind Flayer; Mind Flayer Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-mind-flayer-mind-flayer-ideals-vgm|Roleplaying a Mind Flayer; Mind Flayer Ideals]]
+![[roleplaying-a-mind-flayer-mind-flayer-ideals-vgm|Roleplaying a Mind Flayer; Mind Flayer Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-mind-flayer-mind-flayer-bonds-vgm|Roleplaying a Mind Flayer; Mind Flayer Bonds]]
+![[roleplaying-a-mind-flayer-mind-flayer-bonds-vgm|Roleplaying a Mind Flayer; Mind Flayer Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-mind-flayer-mind-flayer-flaws-vgm|Roleplaying a Mind Flayer; Mind Flayer Flaws]]
+![[roleplaying-a-mind-flayer-mind-flayer-flaws-vgm|Roleplaying a Mind Flayer; Mind Flayer Flaws]]
 
 ### Mind Flayer Names
 
@@ -2402,7 +2402,7 @@ Telepathic communication with a mind flayer is frequently  accompanied by a ment
 
 An illithid might adopt a name that is easier for minions and allies to speak or that makes it seem more fearsome to enemies, but each begins its life with a thought-name such as the examples in the Mind Flayer Names table, which are suitable for any campaign.
 
-![[/03_Mechanics/CLI/tables/mind-flayer-names-vgm|Mind Flayer Names]]
+![[mind-flayer-names-vgm|Mind Flayer Names]]
 
 ### Speech
 
@@ -2412,7 +2412,7 @@ The physiology of mind flayers doesn't leave them well equipped for typical huma
 
 The "writing" of mind flayers, known as Qualith, isn't as simple as a set of symbols representing sounds or ideas. An inscription in Qualith captures the thoughts of its creator and psionically transmits the thoughts to a mind flayer who later reads the inscription by touching it with its tentacles. Mind flayers write in Qualith by psionically imprinting their messages on nonmagical, nonliving material they grasp or caress with their tentacles. The imprinting causes imperceptible surface changes to the object, and abrasion or degradation of the material can cause the inscription to fade and fail.
 
-An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]] spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
+An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [[comprehend-languages-xphb|comprehend languages]] spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
 
 ### Mind Flayer Thralls
 
@@ -2635,7 +2635,7 @@ Each set of flensing claws is designed for a specific creature and can't be used
 
 This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
 
-A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [[/03_Mechanics/CLI/spells/cloudkill-xphb|cloudkill]] spell, a [[/03_Mechanics/CLI/spells/stinking-cloud-xphb|stinking cloud]] spell, inhaled poisons, and the breath weapons of some dragons).
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [[cloudkill-xphb|cloudkill]] spell, a [[stinking-cloud-xphb|stinking cloud]] spell, inhaled poisons, and the breath weapons of some dragons).
 
 ### Treasure
 
@@ -2667,12 +2667,12 @@ Deep within the den of a tribe, far away from the war-hearth where warriors gath
 
 Serving as the bridge between the two parts of the tribe are the priestesses of Luthic, the orc goddess who represents both life and the grave. It is her worshipers that raise young orcs to be warriors, and then, at the end of their lives, take them to Yurtrus and Shargaas to be carried into death and the great unknown.
 
-- [[/03_Mechanics/CLI/deities/orc-gruumsh-vgm|Gruumsh, "He Who Watches"]]  
-- [[/03_Mechanics/CLI/deities/orc-ilneval-vgm|Ilneval, "the War Maker"]]  
-- [[/03_Mechanics/CLI/deities/orc-bahgtru-vgm|Bahgtru, "the Leg Breaker"]]  
-- [[/03_Mechanics/CLI/deities/orc-luthic-vgm|Luthic, "the Cave Mother"]]  
-- [[/03_Mechanics/CLI/deities/orc-yurtrus-vgm|Yurtrus, "the White Hand"]]  
-- [[/03_Mechanics/CLI/deities/orc-shargaas-vgm|Shargaas, "the Night Lord"]]  
+- [[orc-gruumsh-vgm|Gruumsh, "He Who Watches"]]  
+- [[orc-ilneval-vgm|Ilneval, "the War Maker"]]  
+- [[orc-bahgtru-vgm|Bahgtru, "the Leg Breaker"]]  
+- [[orc-luthic-vgm|Luthic, "the Cave Mother"]]  
+- [[orc-yurtrus-vgm|Yurtrus, "the White Hand"]]  
+- [[orc-shargaas-vgm|Shargaas, "the Night Lord"]]  
 
 ### Life in the Tribe
 
@@ -2778,23 +2778,23 @@ The unwritten laws that govern the status of individual orcs within a tribe are 
 
 When you're roleplaying an orc, the following tables contain possible inspiration. They suggest characteristics that an orc might possess.
 
-![[/03_Mechanics/CLI/tables/roleplaying-an-orc-orc-personality-traits-vgm|Roleplaying an Orc; Orc Personality Traits]]
+![[roleplaying-an-orc-orc-personality-traits-vgm|Roleplaying an Orc; Orc Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-an-orc-orc-ideals-vgm|Roleplaying an Orc; Orc Ideals]]
+![[roleplaying-an-orc-orc-ideals-vgm|Roleplaying an Orc; Orc Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-an-orc-orc-bonds-vgm|Roleplaying an Orc; Orc Bonds]]
+![[roleplaying-an-orc-orc-bonds-vgm|Roleplaying an Orc; Orc Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-an-orc-orc-flaws-vgm|Roleplaying an Orc; Orc Flaws]]
+![[roleplaying-an-orc-orc-flaws-vgm|Roleplaying an Orc; Orc Flaws]]
 
 ### Orc Names
 
 Orc names don't always have meaning in the Orc language, and most noteworthy orcs are given epithets by their tribe mates.
 
-![[/03_Mechanics/CLI/tables/orc-names-orc-male-names-vgm|Orc Names; Orc Male Names]]
+![[orc-names-orc-male-names-vgm|Orc Names; Orc Male Names]]
 
-![[/03_Mechanics/CLI/tables/orc-names-orc-female-names-vgm|Orc Names; Orc Female Names]]
+![[orc-names-orc-female-names-vgm|Orc Names; Orc Female Names]]
 
-![[/03_Mechanics/CLI/tables/orc-names-orc-epithets-vgm|Orc Names; Orc Epithets]]
+![[orc-names-orc-epithets-vgm|Orc Names; Orc Epithets]]
 
 ### Orogs
 
@@ -2890,7 +2890,7 @@ Each orc warrior carries its personal loot from the raid in a sack. These are th
 
 The Orc Trophies table provides a selection of items that might be found in an orc's loot sack.
 
-![[/03_Mechanics/CLI/tables/treasure-orc-trophies-vgm|Treasure; Orc Trophies]]
+![[treasure-orc-trophies-vgm|Treasure; Orc Trophies]]
 
 ## Yuan-ti: Snake People
 
@@ -3059,25 +3059,25 @@ No two yuan-ti look exactly the same. Both the snakelike and the humanlike porti
 
 Use the tables below to create descriptions and other details for different Yuan-ti types.
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-snake-body-type-vgm|Physical Variations; Yuan-ti Snake Body Type]]
+![[physical-variations-yuan-ti-snake-body-type-vgm|Physical Variations; Yuan-ti Snake Body Type]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-humanoid-skin-color-vgm|Physical Variations; Yuan-ti Humanoid Skin Color]]
+![[physical-variations-yuan-ti-humanoid-skin-color-vgm|Physical Variations; Yuan-ti Humanoid Skin Color]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-scale-color-vgm|Physical Variations; Yuan-ti Scale Color]]
+![[physical-variations-yuan-ti-scale-color-vgm|Physical Variations; Yuan-ti Scale Color]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-scale-pattern-vgm|Physical Variations; Yuan-ti Scale Pattern]]
+![[physical-variations-yuan-ti-scale-pattern-vgm|Physical Variations; Yuan-ti Scale Pattern]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-tongue-color-vgm|Physical Variations; Yuan-ti Tongue Color]]
+![[physical-variations-yuan-ti-tongue-color-vgm|Physical Variations; Yuan-ti Tongue Color]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-pureblood-characteristics-vgm|Physical Variations; Pureblood Characteristics]]
+![[physical-variations-pureblood-characteristics-vgm|Physical Variations; Pureblood Characteristics]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-eye-color-vgm|Physical Variations; Yuan-ti Eye Color]]
+![[physical-variations-yuan-ti-eye-color-vgm|Physical Variations; Yuan-ti Eye Color]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-yuan-ti-snake-head-shape-vgm|Physical Variations; Yuan-ti Snake Head Shape]]
+![[physical-variations-yuan-ti-snake-head-shape-vgm|Physical Variations; Yuan-ti Snake Head Shape]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-type-2-malison-arms-vgm|Physical Variations; Type 2 Malison: Arms]]
+![[physical-variations-type-2-malison-arms-vgm|Physical Variations; Type 2 Malison: Arms]]
 
-![[/03_Mechanics/CLI/tables/physical-variations-type-4-malison-lower-body-vgm|Physical Variations; Type 4 Malison: Lower Body]]
+![[physical-variations-type-4-malison-lower-body-vgm|Physical Variations; Type 4 Malison: Lower Body]]
 
 ### Unusual Abilities
 
@@ -3121,19 +3121,19 @@ Recharge 6). The yuan-ti targets a creature it can see within 60 feet of it. The
 
 ##### Sticks to Snakes (Abomination or Malison Only;
 
-Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]]. The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
+Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [[swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]]. The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
 
 ### Roleplaying a Yuan-ti
 
 When you're roleplaying a yuan-ti, the following tables contain possible inspiration. They suggest characteristics that a yuan-ti might possess.
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm|Roleplaying a Yuan-ti; Yuan-ti Personality Traits]]
+![[roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm|Roleplaying a Yuan-ti; Yuan-ti Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-yuan-ti-yuan-ti-ideals-vgm|Roleplaying a Yuan-ti; Yuan-ti Ideals]]
+![[roleplaying-a-yuan-ti-yuan-ti-ideals-vgm|Roleplaying a Yuan-ti; Yuan-ti Ideals]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-yuan-ti-yuan-ti-bonds-vgm|Roleplaying a Yuan-ti; Yuan-ti Bonds]]
+![[roleplaying-a-yuan-ti-yuan-ti-bonds-vgm|Roleplaying a Yuan-ti; Yuan-ti Bonds]]
 
-![[/03_Mechanics/CLI/tables/roleplaying-a-yuan-ti-yuan-ti-flaws-vgm|Roleplaying a Yuan-ti; Yuan-ti Flaws]]
+![[roleplaying-a-yuan-ti-yuan-ti-flaws-vgm|Roleplaying a Yuan-ti; Yuan-ti Flaws]]
 
 ### Yuan-ti Names
 
@@ -3143,7 +3143,7 @@ Some yuan-ti add more sibilants to their birth names to create an exaggerated hi
 
 The Yuan-ti Names table provides yuan-ti birth names suitable for any campaign.
 
-![[/03_Mechanics/CLI/tables/yuan-ti-names-vgm|Yuan-ti Names]]
+![[yuan-ti-names-vgm|Yuan-ti Names]]
 
 ### Yuan-ti Cities
 
@@ -3205,9 +3205,9 @@ Yuan-ti have been controlling and manipulating lesser creatures for hundreds of 
 
 Yuan-ti employ a variety of creatures as spies and protectors. The Yuan-ti Agents table lists groups of creatures that work for the yuan-ti, representing their masters' interests. Agents of the serpent folk might roam the countryside on a specific mission or operate secretly inside a humanoid community. The Yuan-ti Protectors table includes creatures that serve as guardians either within a yuan-ti city or in a yuan-ti hideout inside a humanoid city.
 
-![[/03_Mechanics/CLI/tables/random-yuan-ti-servants-yuan-ti-agents-vgm|Random Yuan-ti Servants; Yuan-ti Agents]]
+![[random-yuan-ti-servants-yuan-ti-agents-vgm|Random Yuan-ti Servants; Yuan-ti Agents]]
 
-![[/03_Mechanics/CLI/tables/random-yuan-ti-servants-yuan-ti-protectors-vgm|Random Yuan-ti Servants; Yuan-ti Protectors]]
+![[random-yuan-ti-servants-yuan-ti-protectors-vgm|Random Yuan-ti Servants; Yuan-ti Protectors]]
 
 ![](/03_Mechanics/CLI/books/volos-guide-to-monsters/img/c1-10.webp#center)
 

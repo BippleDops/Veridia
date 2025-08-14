@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-seal-keepers-seal-keepers.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Seal Keepers]]
+- [[12_Research/D&D_References/Seal Keepers]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[12_Research/D&D_References/Aquabyssos Trade Seal]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

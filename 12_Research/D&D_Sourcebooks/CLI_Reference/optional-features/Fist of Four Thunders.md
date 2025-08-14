@@ -23,7 +23,7 @@ world: Both
 # Fist of Four Thunders
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [[/03_Mechanics/CLI/spells/thunderwave-xphb|thunderwave]].
+You can spend 2 ki points to cast [[thunderwave-xphb|thunderwave]].
 
 ## Player-Facing Summary
 

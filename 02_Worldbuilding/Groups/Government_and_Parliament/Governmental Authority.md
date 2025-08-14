@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[Aquabyssos Trade Seal]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[Aquabyssos Trade Seal]]
 
 ## Player-Facing Summary
 

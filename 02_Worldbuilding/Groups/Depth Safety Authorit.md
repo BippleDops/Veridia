@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg]]
 
 
 ## Overview

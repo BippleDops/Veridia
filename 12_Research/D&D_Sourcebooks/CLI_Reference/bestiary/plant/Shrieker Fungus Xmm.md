@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/shrieker-fungus-xmm|Shrieker Fungus]]
+# [[shrieker-fungus-xmm|Shrieker Fungus]]
 *Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
@@ -59,13 +59,13 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]]"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
+  - "desc": "Trigger: A creature or a source of [[bright-light-xphb|Bright Light]]\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"

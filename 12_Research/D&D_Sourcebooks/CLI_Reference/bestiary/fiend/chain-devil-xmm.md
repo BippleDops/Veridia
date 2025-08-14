@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chain-devil-xmm-chain-devil-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/chain-devil-xmm|Chain Devil]]
+# [[chain-devil-xmm|Chain Devil]]
 *Source: Monster Manual (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Chain Devil
@@ -75,30 +75,30 @@ Along with psychological threats and physical harm, a chain devil uses its unner
   - "wisdom": !!int "4"
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]),\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
   \ passive Perception 11"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The devil makes two Chain attacks and uses Conjure Infernal Chain."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage.\
-      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 14) from one of two chains, and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 14) from one of two chains, and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Chain"
   - "desc": "The devil conjures a fiery chain to bind a creature. Dexterity Saving\
       \ Throw: DC 15, one creature the devil can see within 60 feet. Failure: 9\
-      \ (2d4 + 4) Fire damage, and the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ (2d4 + 4) Fire damage, and the target has the [[conditions#Restrained|Restrained]]\
       \ condition until the end of the devil's next turn, at which point the chain\
       \ disappears. If the target is Large or smaller, the devil moves the target\
       \ up to 30 feet straight toward itself. Success: The chain disappears."
@@ -106,7 +106,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "reactions":
   - "desc": "Trigger: A creature the devil can see starts its turn within 30 feet\
       \ of the devil and can see the devil. _Response—_Wisdom Saving Throw: DC 15,\
-      \ the triggering creature. Failure: The target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+      \ the triggering creature. Failure: The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of its turn. Success: The target is immune to this\
       \ devil's Unnerving Gaze for 24 hours."
     "name": "Unnerving Gaze"

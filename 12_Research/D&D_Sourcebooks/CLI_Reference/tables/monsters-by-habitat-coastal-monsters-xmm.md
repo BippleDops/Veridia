@@ -23,26 +23,26 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[/03_Mechanics/CLI/bestiary/beast/crab-xmm|Crab]], [[/03_Mechanics/CLI/bestiary/beast/eagle-xmm|Eagle]], [[/03_Mechanics/CLI/bestiary/beast/hawk-xmm|Hawk]], [[/03_Mechanics/CLI/bestiary/beast/lizard-xmm|Lizard]] |
-| 1/8 | [[/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm|Blood Hawk]], [[/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm|Giant Crab]], [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold Warrior]], [[/03_Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm|Merfolk Skirmisher]], [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Venomous Snake]] |
-| 1/4 | [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|Giant Lizard]], [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|Giant Venomous Snake]], [[/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm|Giant Wolf Spider]], [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm|Kuo-toa]], [[/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm|Pseudodragon]], [[/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm|Pteranodon]], [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|Winged Kobold]] |
-| 1/2 | [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|Crocodile]], [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm|Sahuagin Warrior]] |
-| 1 | [[/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm|Giant Eagle]], [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|Giant Toad]], [[/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm|Harpy]], [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm|Kuo-toa Whip]] |
-| 2 | [[/03_Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]], [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|Griffon]], [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|Merrow]], [[/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm|Plesiosaurus]], [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm|Sahuagin Priest]], [[/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm|Sea Hag]], [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]] |
-| 3 | [[/03_Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]], [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm|Kuo-toa Monitor]], [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|Manticore]] |
-| 4 | [[/03_Mechanics/CLI/bestiary/aberration/chuul-xmm|Chuul]] |
-| 5 | [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|Giant Crocodile]], [[/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm|Sahuagin Baron]], [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|Water Elemental]] |
-| 6 | [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|Cyclops Sentry]], [[/03_Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm|Kuo-toa Archpriest]], [[/03_Mechanics/CLI/bestiary/elemental/merfolk-wavebender-xmm|Merfolk Wavebender]] |
-| 8 | [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|Hydra]], [[/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm|Young Bronze Dragon]] |
-| 9 | [[/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm|Young Blue Dragon]] |
-| 10 | [[/03_Mechanics/CLI/bestiary/giant/cyclops-oracle-xmm|Cyclops Oracle]] |
-| 11 | [[/03_Mechanics/CLI/bestiary/elemental/djinni-xmm|Djinni]], [[/03_Mechanics/CLI/bestiary/elemental/marid-xmm|Marid]], [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|Roc]] |
-| 13 | [[/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm|Storm Giant]] |
-| 15 | [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|Adult Bronze Dragon]] |
-| 16 | [[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm|Adult Blue Dragon]] |
-| 17 | [[/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm|Dragon Turtle]] |
-| 22 | [[/03_Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm|Ancient Bronze Dragon]] |
-| 23 | [[/03_Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm|Ancient Blue Dragon]] |
+| 0 | [[crab-xmm|Crab]], [[eagle-xmm|Eagle]], [[hawk-xmm|Hawk]], [[lizard-xmm|Lizard]] |
+| 1/8 | [[blood-hawk-xmm|Blood Hawk]], [[giant-crab-xmm|Giant Crab]], [[kobold-warrior-xmm|Kobold Warrior]], [[merfolk-skirmisher-xmm|Merfolk Skirmisher]], [[venomous-snake-xmm|Venomous Snake]] |
+| 1/4 | [[giant-lizard-xmm|Giant Lizard]], [[giant-venomous-snake-xmm|Giant Venomous Snake]], [[giant-wolf-spider-xmm|Giant Wolf Spider]], [[kuo-toa-xmm|Kuo-toa]], [[pseudodragon-xmm|Pseudodragon]], [[pteranodon-xmm|Pteranodon]], [[winged-kobold-xmm|Winged Kobold]] |
+| 1/2 | [[crocodile-xmm|Crocodile]], [[sahuagin-warrior-xmm|Sahuagin Warrior]] |
+| 1 | [[giant-eagle-xmm|Giant Eagle]], [[giant-toad-xmm|Giant Toad]], [[harpy-xmm|Harpy]], [[kuo-toa-whip-xmm|Kuo-toa Whip]] |
+| 2 | [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]], [[griffon-xmm|Griffon]], [[merrow-xmm|Merrow]], [[plesiosaurus-xmm|Plesiosaurus]], [[sahuagin-priest-xmm|Sahuagin Priest]], [[sea-hag-xmm|Sea Hag]], [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]] |
+| 3 | [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]], [[kuo-toa-monitor-xmm|Kuo-toa Monitor]], [[manticore-xmm|Manticore]] |
+| 4 | [[chuul-xmm|Chuul]] |
+| 5 | [[giant-crocodile-xmm|Giant Crocodile]], [[sahuagin-baron-xmm|Sahuagin Baron]], [[water-elemental-xmm|Water Elemental]] |
+| 6 | [[cyclops-sentry-xmm|Cyclops Sentry]], [[kuo-toa-archpriest-xmm|Kuo-toa Archpriest]], [[merfolk-wavebender-xmm|Merfolk Wavebender]] |
+| 8 | [[hydra-xmm|Hydra]], [[young-bronze-dragon-xmm|Young Bronze Dragon]] |
+| 9 | [[young-blue-dragon-xmm|Young Blue Dragon]] |
+| 10 | [[cyclops-oracle-xmm|Cyclops Oracle]] |
+| 11 | [[djinni-xmm|Djinni]], [[marid-xmm|Marid]], [[roc-xmm|Roc]] |
+| 13 | [[storm-giant-xmm|Storm Giant]] |
+| 15 | [[adult-bronze-dragon-xmm|Adult Bronze Dragon]] |
+| 16 | [[adult-blue-dragon-xmm|Adult Blue Dragon]] |
+| 17 | [[dragon-turtle-xmm|Dragon Turtle]] |
+| 22 | [[ancient-bronze-dragon-xmm|Ancient Bronze Dragon]] |
+| 23 | [[ancient-blue-dragon-xmm|Ancient Blue Dragon]] |
 ^coastal-monsters
 
 ## Player-Facing Summary

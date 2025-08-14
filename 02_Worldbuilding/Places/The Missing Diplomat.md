@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-missing-diplomat-the-missing-diplomat.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-missing-diplomat-the-missing-diplomat.svg]]
 
 
 # The Missing Diplomat
@@ -141,7 +137,7 @@ This investigation combines political intrigue with detective work. Focus on the
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 
 ## History
@@ -183,6 +179,6 @@ Legends speak of The Missing Diplomat as a nexus where past and present converge
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Missing Diplomat]]
+- [[The Missing Diplomat]]
 
 <!-- enriched: true -->

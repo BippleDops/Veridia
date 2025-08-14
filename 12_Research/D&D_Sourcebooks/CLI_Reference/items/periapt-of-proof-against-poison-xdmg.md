@@ -28,7 +28,7 @@ world: Both
 
 - **Weight**: 1.0 lbs.
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition and Poison damage
+This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition and Poison damage
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -31,7 +31,7 @@ Though he has no particular bond with dragons, Rath Modar believes that when [[/
 
 At the start of this chapter, the characters are summoned to a secret meeting by someone they trust on the Council of Waterdeep. At the meeting, they learn that the council has been approached by a [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] of Thay named Nyh Ilmichh. Ilmichh has extended an invitation to the council to send an envoy to Thay, to discuss ways in which Thay and the Sword Coast might aid each other during the current crisis. The adventurers have been specifically requested to represent the Sword Coast at this meeting, after which the characters will be returned to Waterdeep unharmed.
 
-The visit to the embassy will last only a few days, but the location of the meeting is not negotiable. The duties of the tharchion (a Thayan governor) the characters will meet precludes her leaving her post. The characters' council contact tells them that Ilmichh has been carefully questioned and subjected to a [[/03_Mechanics/CLI/spells/zone-of-truth-xphb|zone of truth]], and that all she said has been confirmed.
+The visit to the embassy will last only a few days, but the location of the meeting is not negotiable. The duties of the tharchion (a Thayan governor) the characters will meet precludes her leaving her post. The characters' council contact tells them that Ilmichh has been carefully questioned and subjected to a [[zone-of-truth-xphb|zone of truth]], and that all she said has been confirmed.
 
 The characters should understand that without the Red Wizards, [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s plans are severely compromised. Moreover, it is common knowledge that Szass Tam wants all exiled Red Wizards dead in the worst possible way. Despite reservations from some on the council, most believe that since the factions and Szass Tam have a common goal, the invitation is worth accepting.
 
@@ -39,7 +39,7 @@ The final decision is up to the characters, of course. No one will compel them t
 
 ### A Dark and Forbidding Land
 
-Thay is an isolated and arid windswept plateau some twenty-five hundred miles east of Waterdeep, its dark skies constantly clouded by volcanic ash. This land is defined by the prevalence of undead within its borders. The supreme leader of Thay is the lich Szass Tam, whose council of advisers—the zulkirs—are powerful liches themselves. Everyone of consequence in Thay is a spellcaster, and necromancers are common there. Undead servants are everywhere, and many of the commanders in Thay's armies are the free-thinking undead soldiers (use the [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wight]] statistics).
+Thay is an isolated and arid windswept plateau some twenty-five hundred miles east of Waterdeep, its dark skies constantly clouded by volcanic ash. This land is defined by the prevalence of undead within its borders. The supreme leader of Thay is the lich Szass Tam, whose council of advisers—the zulkirs—are powerful liches themselves. Everyone of consequence in Thay is a spellcaster, and necromancers are common there. Undead servants are everywhere, and many of the commanders in Thay's armies are the free-thinking undead soldiers (use the [[wight-xmm|wight]] statistics).
 
 Travelers to this land must be wary of its dark politics—rampant paranoia, a police-state mentality, and necromancers commanding the top of the social order—as much as the threats of the undead and Red Wizards that dwell here. Thay is a place filled with extraordinary danger.
 
@@ -57,7 +57,7 @@ Nethwatch Keep is under the command of Tharchion Eseldra Yeth. She has been thar
 
 At the fortress, the characters are assigned to luxurious individual rooms, though the doors have no locks. Nyh Ilmichh tells anyone who asks that they are utterly safe in the tharchion's keep. The adventurers see no other living creatures until their audience with Eseldra Yeth. All the servants and staff are undead, but the food and comforts of the fortress are of excellent quality and entirely safe.
 
-Tharchion Eseldra Yeth is a female human [[/03_Mechanics/CLI/bestiary/undead/vampire-xmm|vampire]] spellcaster. In the audience chamber where the meeting takes place, she is accompanied by 10 Red Wizards (use [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] statistics if necessary) and 5 [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]]. Eseldra Yeth reviews the characters' warrants briefly, then delivers a prepared message.
+Tharchion Eseldra Yeth is a female human [[vampire-xmm|vampire]] spellcaster. In the audience chamber where the meeting takes place, she is accompanied by 10 Red Wizards (use [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] statistics if necessary) and 5 [[wight-xmm|wights]]. Eseldra Yeth reviews the characters' warrants briefly, then delivers a prepared message.
 
 > [!readaloud] 
 > 
@@ -72,14 +72,14 @@ Tharchion Eseldra Yeth is a female human [[/03_Mechanics/CLI/bestiary/undead/vam
 
 The tharchion waits for the characters' response, and engages them in a discussion of what is known of the plot to release [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] and the Red Wizards aiding that plot. Her questions are straightforward and intelligent, and offer little opportunity for sly or clever responses. If a character is less than truthful, Eseldra Yeth probes for more information. She addresses questions to specific characters, never to the group in general. If she detects a lie (see below), she never addresses that character again.
 
-Toward the end of the audience, each character must make a DC 20 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check. (To maintain an aura of menace, ask for the check without revealing the DC.) The following modifiers apply to the check:
+Toward the end of the audience, each character must make a DC 20 Charisma ([[skills#Persuasion|Persuasion]]) check. (To maintain an aura of menace, ask for the check without revealing the DC.) The following modifiers apply to the check:
 
 - Arcane spellcasters gain a +6 bonus.  
 - Characters who openly worship a deity associated with death gain a +4 bonus.  
 - Clerics and paladins of good-aligned deities take a–6 penalty.  
 - Other characters wearing visible signs of worshiping any good-aligned deity take a–4 penalty.  
 - A character takes a–4 penalty each time he or she addresses Eseldra Yeth without using her title of tharchion.  
-- Any character who lies to Eseldra Yeth takes a–8 penalty, unless he or she succeeds on a DC 18 Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) check for each lie. (Don't reveal the DC of this check.)  
+- Any character who lies to Eseldra Yeth takes a–8 penalty, unless he or she succeeds on a DC 18 Charisma ([[skills#Deception|Deception]]) check for each lie. (Don't reveal the DC of this check.)  
 
 Feel free to introduce additional modifiers based on specific arguments the characters present and their overall behavior. Sincere (or at least convincing) praise for necromancy and for Thay's twisted social order might earn a +2 or +4 bonus. Insincere praise, obvious hollow flattery, or outright hostility should invoke a penalty.
 
@@ -89,15 +89,15 @@ At the end of the audience, the characters are dismissed. Before being returned 
 
 ### Dreams and Nightmares
 
-That night, each of the adventurers are targeted by a customized version of the [[/03_Mechanics/CLI/spells/dream-xphb|dream]] spell, cast and crafted by [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] illusionists. Each character is confronted in a vision by a pale [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] who says, "We have further questions for you." Elves and other creatures that do not sleep are not subject to this effect.
+That night, each of the adventurers are targeted by a customized version of the [[dream-xphb|dream]] spell, cast and crafted by [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] illusionists. Each character is confronted in a vision by a pale [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] who says, "We have further questions for you." Elves and other creatures that do not sleep are not subject to this effect.
 
 Each character must make a DC 18 Wisdom saving throw with disadvantage. On a successful save, a character remembers vague, disturbing dreams in the morning, but suffers no other effects.
 
-Each character who fails the saving throw experiences a similar nightmare. He or she is [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] and magically bound within a mystic cauldron among animated chains and tentacles. A dozen Red Wizards observe placidly while three more Red Wizards subject the helpless character to agonizing tortures. The character is questioned about why the party came to Thay, about [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s plots, about Rath Modar, about his or her own past and the lives of the other adventurers, about the party's attitude toward Szass Tam, and anything else you care to ask.
+Each character who fails the saving throw experiences a similar nightmare. He or she is [[conditions#Paralyzed|paralyzed]] and magically bound within a mystic cauldron among animated chains and tentacles. A dozen Red Wizards observe placidly while three more Red Wizards subject the helpless character to agonizing tortures. The character is questioned about why the party came to Thay, about [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s plots, about Rath Modar, about his or her own past and the lives of the other adventurers, about the party's attitude toward Szass Tam, and anything else you care to ask.
 
-Each answer the character gives must be accompanied by a DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check if the character answers truthfully, or a DC 15 Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) check if the response is even partially false. A character who succeeded on the Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check made during the audience has advantage on each of these checks. On each failed check, a character suffers excruciating pain as a [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] shouts out a tally of the character's failed answers. Refusing to answer is treated the same as failing the check.
+Each answer the character gives must be accompanied by a DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check if the character answers truthfully, or a DC 15 Charisma ([[skills#Deception|Deception]]) check if the response is even partially false. A character who succeeded on the Charisma ([[skills#Persuasion|Persuasion]]) check made during the audience has advantage on each of these checks. On each failed check, a character suffers excruciating pain as a [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] shouts out a tally of the character's failed answers. Refusing to answer is treated the same as failing the check.
 
-A character who struggles against the bonds or who tries to cast a spell or use some other ability not hindered by physical restraint is struck by pain so severe that he or she is briefly [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. That character's next Charisma check made within the dream takes a–2 penalty.
+A character who struggles against the bonds or who tries to cast a spell or use some other ability not hindered by physical restraint is struck by pain so severe that he or she is briefly [[conditions#Incapacitated|incapacitated]]. That character's next Charisma check made within the dream takes a–2 penalty.
 
 The nightmare ends when a character answers five questions successfully or eight questions in total. If the last question was answered successfully, the character sleeps fitfully the rest of the night. If the last question was answered unsuccessfully, the character wakes up screaming and drenched in sweat. Blood stains the bed sheets, though the character has no visible wounds. The character also takes 10 (`3d6`) psychic damage and does not gain the benefit of a long rest from the night's sleep.
 
@@ -107,13 +107,13 @@ In the morning, any character who underwent this questioning has a deathly pallo
 
 In the morning, after another delicious meal, the characters are ushered back to the audience chamber. Eseldra Yeth is not there. Instead, they're greeted by Nyh Ilmichh and one of the Red Wizards present at the audience the previous day. Only Nyh Ilmichh speaks.
 
-What she says is determined by the number of characters who answered five questions successfully during the dream. If that number accounts for more than half the non-elven party (that is, elves don't count toward the party total, because they cannot be affected by the Red Wizards' [[/03_Mechanics/CLI/spells/dream-xphb|dream]] spell), Nyh Ilmichh informs the characters that the Red Wizards have agreed to aid the factions of the Sword Coast, and that she will accompany them as Thay's ambassador to the council. When the characters have gathered their belongings, the [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] teleports with them back to Waterdeep.
+What she says is determined by the number of characters who answered five questions successfully during the dream. If that number accounts for more than half the non-elven party (that is, elves don't count toward the party total, because they cannot be affected by the Red Wizards' [[dream-xphb|dream]] spell), Nyh Ilmichh informs the characters that the Red Wizards have agreed to aid the factions of the Sword Coast, and that she will accompany them as Thay's ambassador to the council. When the characters have gathered their belongings, the [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] teleports with them back to Waterdeep.
 
-If the tally is half the number of non-elven characters in the party or fewer, Nyh Ilmichh states that Tharchion Yeth thanks them for their information, but that Thay's attention is commanded by matters within its own borders and the Red Wizards cannot help. Before the characters can react, the other [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] waves his hand and a previously [[/03_Mechanics/CLI/conditions#Invisible|invisible]] magic circle on the floor around the characters flares to life. A moment later, the adventurers are standing in an abandoned and ruined farmhouse a mile north of Waterdeep. The barely visible outline of a Thayan teleportation circle fades around them and their neatly packed belongings.
+If the tally is half the number of non-elven characters in the party or fewer, Nyh Ilmichh states that Tharchion Yeth thanks them for their information, but that Thay's attention is commanded by matters within its own borders and the Red Wizards cannot help. Before the characters can react, the other [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] waves his hand and a previously [[conditions#Invisible|invisible]] magic circle on the floor around the characters flares to life. A moment later, the adventurers are standing in an abandoned and ruined farmhouse a mile north of Waterdeep. The barely visible outline of a Thayan teleportation circle fades around them and their neatly packed belongings.
 
 ## Conclusion
 
-If the mission to Thay was a success, it benefits the factions during chapter 17. Additionally, hidden in a backpack or pocket, each character finds a human finger bone tied to a loop of dried gut. Each bone acts as a [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|scroll of protection (undead)]] that is activated and spent by snapping it in half.
+If the mission to Thay was a success, it benefits the factions during chapter 17. Additionally, hidden in a backpack or pocket, each character finds a human finger bone tied to a loop of dried gut. Each bone acts as a [[scroll-of-protection-xdmg|scroll of protection (undead)]] that is activated and spent by snapping it in half.
 
 If you choose, the characters gain a level at the end of this chapter.
 

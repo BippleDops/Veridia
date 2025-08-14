@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archivist-reef-bookkeeper-archivist-reef-bookkeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archivist-reef-bookkeeper-archivist-reef-bookkeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archivist Reef Bookkeeper]]
+- [[12_Research/D&D_References/Archivist Reef Bookkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[12_Research/D&D_References/Smuggler's Cove]]

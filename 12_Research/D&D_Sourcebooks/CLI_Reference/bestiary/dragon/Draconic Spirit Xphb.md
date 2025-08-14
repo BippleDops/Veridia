@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb|Draconic Spirit]]
+# [[draconic-spirit-xphb|Draconic Spirit]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -46,8 +46,8 @@ world: Both
   - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":

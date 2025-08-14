@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunio-quest-the-family-reunio.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reunio-quest-the-family-reunio.svg]]
 
 
 ## Player-Facing Summary

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[12_Research/D&D_Statblocks/The Pressure Conspiracy]]
 
 ## Player-Facing Summary
 

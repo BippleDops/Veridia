@@ -25,10 +25,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/noble.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Charisma  
-- **Feat.** [[/03_Mechanics/CLI/feats/skilled-xphb|Skilled]]  
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#History|History]], [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]  
-- **Tool Proficiency.** Choose one kind of [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]]  
-- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]] (same as above), [[/03_Mechanics/CLI/items/fine-clothes-xphb|Fine Clothes]], [[/03_Mechanics/CLI/items/perfume-xphb|Perfume]], 29 GP; or (B) 50 GP  
+- **Feat.** [[skilled-xphb|Skilled]]  
+- **Skill Proficiencies.** [[skills#History|History]], [[skills#Persuasion|Persuasion]]  
+- **Tool Proficiency.** Choose one kind of [[gaming-set-xphb|Gaming Set]]  
+- **Equipment.** Choose A or B: (A) [[gaming-set-xphb|Gaming Set]] (same as above), [[fine-clothes-xphb|Fine Clothes]], [[perfume-xphb|Perfume]], 29 GP; or (B) 50 GP  
 
 You were raised in a castle, surrounded by wealth, power, and privilege. Your family of minor aristocrats ensured that you received a first-class education, some of which you appreciated and some of which you resented. Your time in the castle, especially the many hours you spent observing your family at court, also taught you a great deal about leadership.
 

@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +16,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[12_Research/D&D_References/Shadow Broker Mirrors]]
 
 ## Player-Facing Summary
 

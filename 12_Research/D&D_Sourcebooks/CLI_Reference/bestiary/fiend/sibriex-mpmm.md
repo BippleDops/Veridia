@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-sibriex-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/sibriex-mpmm|Sibriex]]
+# [[sibriex-mpmm|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -57,16 +57,16 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "intelligence": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"
@@ -96,23 +96,23 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "desc": "The sibriex targets up to three creatures it can see within 120 feet\
       \ of it. Each target must make a DC 20 Constitution saving throw. On a successful\
       \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-      \ save, the target is [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], which\
-      \ causes it to also gain 1 level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].\
-      \ While [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way, the\
+      \ save, the target is [[conditions#Poisoned|poisoned]], which\
+      \ causes it to also gain 1 level of [[conditions#Exhaustion|exhaustion]].\
+      \ While [[conditions#Poisoned|poisoned]] in this way, the\
       \ target must repeat the saving throw at the start of each of its turns. Three\
       \ successful saves against the poison end it, and ending the poison removes\
-      \ any levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] caused\
-      \ by it. Each failed save causes the target to gain another level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].\
-      \ Once the target reaches 6 levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-      \ it dies and instantly transforms into a living [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|manes]]\
+      \ any levels of [[conditions#Exhaustion|exhaustion]] caused\
+      \ by it. Each failed save causes the target to gain another level of [[conditions#Exhaustion|exhaustion]].\
+      \ Once the target reaches 6 levels of [[conditions#Exhaustion|exhaustion]],\
+      \ it dies and instantly transforms into a living [[manes-xmm|manes]]\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell."
+      \ only by a [[wish-xphb|wish]] spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/command-xphb|command]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
-      \ [[/03_Mechanics/CLI/spells/hold-monster-xphb|hold monster]]\n\n1/day:\
-      \ [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]]"
+      \nAt will: [[command-xphb|command]], [[dispel-magic-xphb|dispel magic]],\
+      \ [[hold-monster-xphb|hold monster]]\n\n1/day:\
+      \ [[befuddlement-xphb|feeblemind]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sibriex uses Spellcasting."

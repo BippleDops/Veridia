@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-weird-xmm-v1-water-weird-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/water-weird-xmm|Water Weird]]
+# [[water-weird-xmm|Water Weird]]
 *Source: Monster Manual (2024) p. 323*  
 
 ## Water Weird
@@ -67,16 +67,16 @@ Water weirds might protect a site for generations and learn much about their sur
 "speed": "5 ft., swim 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Primordial but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The water weird has the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]]\
+  - "desc": "The water weird has the [[conditions#Invisible|Invisible]]\
       \ condition while fully immersed in water."
     "name": "Invisible in Water"
   - "desc": "The water weird dies if it leaves the water to which it is bound or if\
@@ -84,8 +84,8 @@ Water weirds might protect a site for generations and learn much about their sur
     "name": "Water Bound"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 13 (3d6 + 3) Cold damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 13), and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 13), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Surge"
 "source":

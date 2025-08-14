@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[12_Research/D&D_References/The Siren]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[12_Research/D&D_References/The Siren]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

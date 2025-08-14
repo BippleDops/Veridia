@@ -23,9 +23,6 @@ world: Aquabyssos
 ![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
 
 
-
-
-
 # Party Quarters - Inverse Palace
 
 *"Where up becomes down and revelry defies gravity itself."*
@@ -89,7 +86,7 @@ This location provides unique tactical challenges and memorable social encounter
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 
 ## History
@@ -125,6 +122,6 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+- [[Party Quarters - Inverse Palace]]
 
 <!-- enriched: true -->

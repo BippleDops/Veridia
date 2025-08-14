@@ -11,6 +11,10 @@ parent_location: Parliament of Echoes
 population: 200-800 visitors daily
 status: complete
 tags:
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
 - access/public
 - aquabyssos
 - civic
@@ -31,11 +35,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png]]
 
 
 # Parliament of Echoes - Public Gallery
@@ -44,7 +45,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Public Gallery of the [[02_Worldbuilding/Places/Parliament of Echoes]] represents one of [[02_Worldbuilding/Places/Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
+The Public Gallery of the [[12_Research/D&D_References/Parliament of Echoes]] represents one of [[12_Research/D&D_References/Aquabyssos]]'s most progressive democratic innovations - a magnificent observation space where citizens can witness their representatives in action and participate in the political process. This architectural marvel, built into the soaring upper reaches of the Parliament complex, provides seating for up to 800 observers while offering unobstructed views of the legislative chambers below.
 
 More than a mere spectator area, the Public Gallery serves as the beating heart of Aquabyssos democracy, where public opinion is shaped, political movements are born, and the ancient tradition of citizen engagement with government continues to evolve. The Gallery's unique acoustic design allows visitors to hear every word spoken in the chambers below, while advanced magical dampening fields ensure that disruptions from above cannot interfere with parliamentary proceedings.
 
@@ -67,21 +68,21 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Enhanced comfort with padded seats and personal writing surfaces
 - Priority access during debates affecting trade and commerce
 - Semi-private entrance reducing interaction with general public
-- Used by [[02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild]], [[02_Worldbuilding/Lore/Artisan Collective]], and similar organizations
+- Used by [[12_Research/D&D_References/The Deep Merchants Guild]], [[12_Research/D&D_References/Artisan Collective]], and similar organizations
 
 **Scholars' Tier (Level 3)** - 150 seats
 - Academic seating for researchers, students, and educational groups
 - Equipped with note-taking surfaces and reference material storage
 - Enhanced acoustic systems for detailed study of proceedings
 - Access to transcription services and parliamentary archives
-- Frequently occupied by students from the [[02_Worldbuilding/Groups/Academies/Imperial Academy]]
+- Frequently occupied by students from the [[12_Research/D&D_References/Imperial Academy]]
 
 **Press Gallery (Level 4)** - 100 seats
 - Exclusive access for authorized journalists and public chroniclers
 - Advanced magical communication systems for rapid news transmission
 - Soundproof booth sections for commentary and discussion
 - Direct connection to printing facilities and message distribution
-- Staffed by reporters from [[02_Worldbuilding/Lore/The Depth Herald]] and other publications
+- Staffed by reporters from [[12_Research/D&D_References/The Depth Herald]] and other publications
 
 **Diplomatic Tier (Level 5)** - 80 seats
 - Reserved for foreign ambassadors and diplomatic observers
@@ -94,11 +95,11 @@ The Gallery is constructed as a magnificent amphitheater with seven ascending ti
 - Exclusive seating for non-parliamentary nobility and their guests
 - Ornate private boxes with climate control and service areas
 - Traditional privilege maintained while ensuring public transparency
-- Often used by [[02_Worldbuilding/Places/Noble Houses]] to monitor legislation affecting their interests
+- Often used by [[12_Research/D&D_References/Noble Houses]] to monitor legislation affecting their interests
 - Semi-private entrances and exclusive amenities
 
 **Royal Box (Level 7)** - 10 seats
-- Supreme viewing position for the [[02_Worldbuilding/People/Emperor]] and immediate family
+- Supreme viewing position for the [[12_Research/D&D_References/Emperor]] and immediate family
 - Ceremonial importance during state openings and major addresses
 - Bulletproof crystal barriers and comprehensive security systems
 - Rarely occupied, serving more as symbol of royal oversight
@@ -128,7 +129,7 @@ The Gallery employs sophisticated magical and architectural techniques to ensure
 - Multiple emergency exits on each tier with rapid evacuation capability
 - Magical crowd-calming fields that can be activated during disturbances
 - Discrete but comprehensive surveillance throughout all seating areas
-- Rapid response stations staffed by [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards]] on each level
+- Rapid response stations staffed by [[12_Research/D&D_References/Parliament Guards]] on each level
 - Automated lockdown systems to isolate Gallery from parliament floor if needed
 
 **Security Screening**
@@ -249,7 +250,8 @@ The Gallery has been the birthplace of numerous significant political movements:
 
 ## Notable NPCs and Staff
 
-### [[02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]]
+### [[12_Research/D&D_References/Master of the Gallery Cornelius Publicvoice]]
+
 - **Role**: Chief administrator responsible for all Gallery operations
 - **Background**: Former parliamentary clerk with 25 years experience
 - **Responsibilities**: Staffing, security coordination, public access policies
@@ -257,6 +259,7 @@ The Gallery has been the birthplace of numerous significant political movements:
 - **Philosophy**: Believes maximum public access consistent with parliamentary function
 
 ### Deputy Gallery Managers (3 positions)
+
 - **Shifts**: Each manager supervises one of three daily operational periods
 - **Specialization**: Morning (routine sessions), Afternoon (committee work), Evening (special events)
 - **Training**: Extensive knowledge of parliamentary procedure and public service
@@ -264,6 +267,7 @@ The Gallery has been the birthplace of numerous significant political movements:
 - **Coordination**: Work closely with Parliament Guards and technical staff
 
 ### Gallery Guides (15 full-time, 25 part-time)
+
 - **Selection**: Chosen for knowledge of parliamentary procedure and communication skills
 - **Training**: Intensive program covering politics, history, and customer service
 - **Languages**: Collectively speak all major languages of Aquabyssos and neighboring kingdoms
@@ -271,6 +275,7 @@ The Gallery has been the birthplace of numerous significant political movements:
 - **Career Path**: Many guides advance to parliamentary staff or political careers
 
 ### Security Personnel (30 assigned)
+
 - **Training**: Specialized in crowd control and threat detection
 - **Equipment**: Non-lethal restraint tools and communication equipment
 - **Protocol**: Discrete intervention prioritizing public safety without disrupting proceedings
@@ -326,25 +331,28 @@ Regular hosting of foreign parliamentary observers:
 ## Connections and Cross-References
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - The main parliamentary complex
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Government quarter
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Political intelligence trading
-- [[02_Worldbuilding/Places/Vote Vaults]] - Electoral administration
-- [[02_Worldbuilding/Groups/Academies/Imperial Academy]] - Civic education
+
+- [[12_Research/D&D_References/Parliament of Echoes]] - The main parliamentary complex
+- [[12_Research/D&D_References/Abyssos Prime Upper Districts]] - Government quarter
+- [[12_Research/D&D_References/The Shadow Markets]] - Political intelligence trading
+- [[12_Research/D&D_References/Vote Vaults]] - Electoral administration
+- [[12_Research/D&D_References/Imperial Academy]] - Civic education
 
 ### Associated Organizations
-- [[02_Worldbuilding/Groups/Guilds/The Deep Merchants Guild]] - Guild tier regular occupants
-- [[02_Worldbuilding/Lore/The Depth Herald]] - Press gallery journalists
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Guards]] - Security and protection
-- [[02_Worldbuilding/Lore/Citizens' Budget Review]] - Grassroots movement born in Gallery
-- [[02_Worldbuilding/Lore/Transparency Coalition]] - Government accountability advocates
+
+- [[12_Research/D&D_References/The Deep Merchants Guild]] - Guild tier regular occupants
+- [[12_Research/D&D_References/The Depth Herald]] - Press gallery journalists
+- [[12_Research/D&D_References/Parliament Guards]] - Security and protection
+- [[12_Research/D&D_References/Citizens' Budget Review]] - Grassroots movement born in Gallery
+- [[12_Research/D&D_References/Transparency Coalition]] - Government accountability advocates
 
 ### Key Figures
-- [[02_Worldbuilding/Lore/Master of the Gallery Cornelius Publicvoice]] - Chief administrator
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Occasional Royal Box occupant
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Speaker]] - Gallery policy coordinator
-- [[02_Worldbuilding/Lore/The Opposition Leader]] - Regular Gallery interaction
-- [[02_Worldbuilding/People/Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
+
+- [[12_Research/D&D_References/Master of the Gallery Cornelius Publicvoice]] - Chief administrator
+- [[12_Research/D&D_References/Emperor Thalassius]] - Occasional Royal Box occupant
+- [[12_Research/D&D_References/Parliamentary Speaker]] - Gallery policy coordinator
+- [[12_Research/D&D_References/The Opposition Leader]] - Regular Gallery interaction
+- [[12_Research/D&D_References/Gallery Guide Captain Marina Civicvoice]] - Senior visitor services
 
 ## Adventure Hooks and Quest Opportunities
 
@@ -375,6 +383,7 @@ Evidence suggests hostile foreign power has systematically infiltrated Gallery o
 ## Secrets and Hidden Aspects
 
 ### The Observation Archive
+
 Beyond public knowledge, Gallery operations include sophisticated intelligence gathering:
 - **Visitor Analysis**: Detailed records of all Gallery visitors used for political intelligence
 - **Behavioral Monitoring**: Advanced magical systems analyze visitor reactions and emotional responses
@@ -383,6 +392,7 @@ Beyond public knowledge, Gallery operations include sophisticated intelligence g
 - **Predictive Analysis**: Using Gallery observation data to predict political movements and public opinion
 
 ### Political Manipulation
+
 Some Gallery operations serve hidden political purposes:
 - **Crowd Engineering**: Subtle techniques for influencing Gallery composition to create desired political atmosphere
 - **Information Seeding**: Carefully placed "observers" who introduce specific information into Gallery discussions
@@ -397,7 +407,7 @@ Some Gallery operations serve hidden political purposes:
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[12_Research/D&D_Statblocks/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 
@@ -419,10 +429,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Emperor Thalassius]]
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[12_Research/D&D_References/Emperor Thalassius]]
+- [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Vote Vaults]]

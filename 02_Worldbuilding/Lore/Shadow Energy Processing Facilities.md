@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/lore
@@ -12,10 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.338257+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -53,9 +50,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
+- [[The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Harvest]]
+- [[12_Research/D&D_References/The Shadow Harvest]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

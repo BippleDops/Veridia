@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xvart-mpmm-v1-xvart-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/xvart-mpmm|Xvart]]
+# [[xvart-mpmm|Xvart]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -43,7 +43,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather-armor-xphb|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -56,15 +56,15 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can communicate with ordinary [[/03_Mechanics/CLI/bestiary/beast/bat-xmm|bats]]\
-      \ and [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|rats]], as well as [[/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm|giant\
-      \ bats]] and [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|giant rats]]."
+  - "desc": "The xvart can communicate with ordinary [[bat-xmm|bats]]\
+      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\
+      \ bats]] and [[giant-rat-xmm|giant rats]]."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
@@ -76,7 +76,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "bonus_actions":
-  - "desc": "The xvart takes the [[/03_Mechanics/CLI/actions#Disengage|Disengage]]\
+  - "desc": "The xvart takes the [[actions#Disengage|Disengage]]\
       \ action."
     "name": "Low Cunning"
 "source":

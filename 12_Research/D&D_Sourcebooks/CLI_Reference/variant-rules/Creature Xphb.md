@@ -22,7 +22,7 @@ world: Both
 # Creature
 *Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Any being in the game, including a [[/03_Mechanics/CLI/variant-rules/player-character-xphb|a player's character]], is a creature.
+Any being in the game, including a [[player-character-xphb|a player's character]], is a creature.
 
 ## Player-Facing Summary
 

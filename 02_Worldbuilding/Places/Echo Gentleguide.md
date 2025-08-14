@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 

@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brontosaurus-mpmm-brontosaurus-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/brontosaurus-mpmm|Brontosaurus]]
+# [[brontosaurus-mpmm|Brontosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
@@ -58,7 +58,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "actions":
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27\
       \ (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Stomp"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32\
       \ (6d8 + 5) bludgeoning damage"

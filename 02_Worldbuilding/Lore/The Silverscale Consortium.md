@@ -2,6 +2,7 @@
 type: Lore
 status: complete
 tags:
+- crystal-enhanced
 - active
 - both
 - lore
@@ -9,9 +10,6 @@ world: Both
 created: '2025-08-11'
 updated: '2025-08-13T01:18:35.188808+00:00'
 ---
-
-
-
 
 
 ## Overview
@@ -40,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 
 
 ## Connections
 
-- [[The Convergence Point]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

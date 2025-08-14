@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-artist-wave-creator-artist-wave-creator.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-artist-wave-creator-artist-wave-creator.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Artist Wave Creator]]
+- [[Artist Wave Creator]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[The Free Current]]

@@ -32,10 +32,10 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/dice-set-xphb|Dice Set]]
-- [[/03_Mechanics/CLI/items/dragonchess-set-xphb|Dragonchess Set]]
-- [[/03_Mechanics/CLI/items/playing-cards-xphb|Playing Cards]]
-- [[/03_Mechanics/CLI/items/three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
+- [[dice-set-xphb|Dice Set]]
+- [[dragonchess-set-xphb|Dragonchess Set]]
+- [[playing-cards-xphb|Playing Cards]]
+- [[three-dragon-ante-set-xphb|Three-Dragon Ante Set]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

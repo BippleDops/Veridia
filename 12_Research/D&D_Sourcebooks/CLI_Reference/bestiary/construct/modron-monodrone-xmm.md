@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-monodrone-xmm-modron-monodrone-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/modron-monodrone-xmm|Modron Monodrone]]
+# [[modron-monodrone-xmm|Modron Monodrone]]
 *Source: Monster Manual (2024) p. 216*  
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
@@ -88,7 +88,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"

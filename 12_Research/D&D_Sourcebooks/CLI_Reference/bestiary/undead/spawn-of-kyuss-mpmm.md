@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spawn-of-kyuss-mpmm-spawn-of-kyuss-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/spawn-of-kyuss-mpmm|Spawn of Kyuss]]
+# [[spawn-of-kyuss-mpmm|Spawn of Kyuss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -55,8 +55,8 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "saves":
   - "wisdom": !!int "1"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"

@@ -10,6 +10,9 @@ scope: Cross-Realm Environmental Zones
 significance: Critical Infrastructure
 status: complete
 tags:
+- combat
+- quest
+- session-notes
 - both worlds
 - complete
 - content/lore
@@ -31,32 +34,29 @@ world: Both Worlds
 ---
 
 
-
-
-
-
 # Reality Merge Zones
+
 *Where Two Worlds Become One, and Survival Demands Adaptation*
 
 > *"In the Merge Zones, the very air might drown you and the water may refuse to wet your skin. Physics becomes negotiable, magic becomes unpredictable, and survival depends not just on what you know, but on how quickly you can adapt to rules that change with every step."*
-> — [[02_Worldbuilding/Lore/Master Environmental Specialist Tidal Convergence]], Reality Merge Zone Survival Expert
+> — [[12_Research/D&D_References/Master Environmental Specialist Tidal Convergence]], Reality Merge Zone Survival Expert
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[02_Worldbuilding/Lore/Environmental Hazards]]
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Threshold]]
-- [[02_Worldbuilding/Places/Compass Quest]]
+- [[12_Research/D&D_References/The Parliament of Nobody]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Environmental Hazards]]
+- [[12_Research/D&D_References/Evidence Types Guide]]
+- [[12_Research/D&D_References/Initiative Tracker]]
+- [[12_Research/D&D_Statblocks/Random Encounters]]
+- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
+- [[12_Research/D&D_References/The Bloom Fields]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Threshold]]
+- [[12_Research/D&D_References/Compass Quest]]
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -83,3 +83,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

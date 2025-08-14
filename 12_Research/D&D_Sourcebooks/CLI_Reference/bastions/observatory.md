@@ -19,12 +19,12 @@ status: active
 
 
 > [!figure] Map
-![](04_Resources/Assets/Maps/map-map-shattered-observatory-shattered-observatory.svg)
+![[04_Resources/Assets/Maps/map-map-shattered-observatory-shattered-observatory.svg]]
 
 # Observatory
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]]
+- **Prerequisites**: Ability to use a [[spellcasting-focus-xphb|Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: empower
@@ -33,7 +33,7 @@ Situated atop your Bastion, your Observatory contains a telescope aimed at the n
 
 ## Observatory Charm
 
-You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical [[/03_Mechanics/CLI/rewards/observatory-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[/03_Mechanics/CLI/spells/contact-other-plane-xphb|Contact Other Plane]] without expending a spell slot. You can't gain this Charm again while you still have it.
+You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical [[observatory-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[contact-other-plane-xphb|Contact Other Plane]] without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Empower: Eldritch Discovery
 

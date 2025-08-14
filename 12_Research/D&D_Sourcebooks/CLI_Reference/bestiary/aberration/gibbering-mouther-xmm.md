@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gibbering-mouther-xmm-gibbering-mouther-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/gibbering-mouther-xmm|Gibbering Mouther]]
+# [[gibbering-mouther-xmm|Gibbering Mouther]]
 *Source: Monster Manual (2024) p. 133. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Gibbering Mouther
@@ -75,19 +75,19 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
   - !!int "10"
   - !!int "6"
 "speed": "20 ft., swim 20 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ground in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the mouther is [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]."
+  - "desc": "The ground in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the mouther is [[difficult-terrain-xphb|Difficult Terrain]]."
     "name": "Aberrant Ground"
-  - "desc": "The mouther babbles incoherently while it doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "The mouther babbles incoherently while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. Wisdom Saving Throw: DC 10, any creature that starts its turn\
       \ within 20 feet of the mouther while it is babbling. Failure: The target\
       \ rolls d8 to determine what it does during the current turn:\n\n- 1-4.\
-      \ The target does nothing.  \n- 5-6. The target takes no action or [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus\
+      \ The target does nothing.  \n- 5-6. The target takes no action or [[bonus-action-xphb|Bonus\
       \ Action]] and uses all\
       \ its movement to move in a random direction.  \n- 7-8. The target makes\
       \ a melee attack against a randomly determined creature within its reach or\
@@ -95,14 +95,14 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
     "name": "Gibbering"
 "actions":
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
-      \ condition. The target dies if it is reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ condition. The target dies if it is reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this attack. Its body is then absorbed into the mouther, leaving only equipment\
       \ behind."
     "name": "Bite"
-  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point within 30 feet. Failure: 7 (2d6) Radiant damage, and\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition\
+      \ the target has the [[conditions#Blinded|Blinded]] condition\
       \ until the end of the mouther's next turn."
     "name": "Blinding Spittle (Recharge 5-6)"
 "source":

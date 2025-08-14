@@ -32,9 +32,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-goblin-warrior-xmm-goblin-warrior-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-goblin-warrior-xmm-goblin-warrior-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\fey/goblin-warrior-xmm|Goblin Warrior]]
+# [[goblin-warrior-xmm|Goblin Warrior]]
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin warriors excel at causing mischief. Those in service to Maglubiyet have greater discipline and are likely to withdraw to set up ambushes.
@@ -76,17 +76,17 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-      \ plus 2 (d4) Slashing damage if the attack roll had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]."
+      \ plus 2 (d4) Slashing damage if the attack roll had [[advantage-xphb|Advantage]]."
     "name": "Scimitar"
   - "desc": "Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (d4) Piercing damage if the attack roll had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]."
+      \ damage, plus 2 (d4) Piercing damage if the attack roll had [[advantage-xphb|Advantage]]."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The goblin takes the Disengage or Hide action."

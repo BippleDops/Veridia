@@ -15,46 +15,41 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-foundation-depths-the-foundation-depths.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-foundation-depths-the-foundation-depths.svg]]
 
 
 # The Foundation Depths
 *Where Aquabyssos Stands Upon Ancient Dreams*
 
 > *"Every great structure needs roots that go deeper than its highest tower. Here, in the crushing deep, we have built the bones upon which our civilization rests."*
-> — Chief Engineer [[02_Worldbuilding/Places/Basalt Depthwright]]
+> — Chief Engineer [[Basalt Depthwright]]
 
 ## Overview
 
-The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most critical and dangerous infrastructure: the massive structural supports that literally hold the underwater civilization together. Located at crushing depths between 15,000-18,000 feet, this sprawling complex of reinforced chambers, support pillars, and pressure-equalization systems ensures that the cities above don't collapse under the immense weight of the ocean. Here, the most skilled deep-pressure engineers in existence maintain the delicate balance between habitability and the crushing forces that surround them.
+The Foundation Depths represent [[Aquabyssos]]'s most critical and dangerous infrastructure: the massive structural supports that literally hold the underwater civilization together. Located at crushing depths between 15,000-18,000 feet, this sprawling complex of reinforced chambers, support pillars, and pressure-equalization systems ensures that the cities above don't collapse under the immense weight of the ocean. Here, the most skilled deep-pressure engineers in existence maintain the delicate balance between habitability and the crushing forces that surround them.
 
 ## History and Construction
 
 ### The Great Settling
 **Crisis**: 800 years ago, early Aquabyssos settlements began sinking into the ocean floor  
 **Discovery**: Unstable sediment couldn't support the weight of growing cities  
-**Solution**: Visionary engineer [[02_Worldbuilding/Places/Titan Foundationbearer]] designed the first deep anchor system  
+**Solution**: Visionary engineer [[Titan Foundationbearer]] designed the first deep anchor system  
 **Achievement**: Revolutionary pressure-resistant construction techniques developed  
 **Legacy**: Established the engineering principles that would define underwater civilization
 
 ### The Deep Delving Era
 **Period**: 600-400 years ago, systematic excavation of foundation chambers  
 **Challenge**: Working at depths that instantly killed unprotected workers  
-**Innovation**: Development of [[02_Worldbuilding/Places/Pressure Symbiont]] organisms that allowed human survival  
+**Innovation**: Development of [[Pressure Symbiont]] organisms that allowed human survival  
 **Expansion**: Network grew to support dozen of major population centers  
 **Cost**: Hundreds of lives lost to pressure accidents and deep-sea creature attacks
 
 ### The Great Collapse Scare
 **Event**: 200 years ago, critical support pillar showed signs of failure  
-**Panic**: Potential for catastrophic collapse of [[02_Worldbuilding/Places/Abyssos Prime]]  
+**Panic**: Potential for catastrophic collapse of [[Abyssos Prime]]  
 **Response**: Emergency deep-pressure repair mission lasting 3 months  
-**Innovation**: Development of [[02_Worldbuilding/Places/Living Stone]] - self-repairing structural materials  
+**Innovation**: Development of [[Living Stone]] - self-repairing structural materials  
 **Result**: Foundation systems rebuilt with adaptive, biological components
 
 ### Modern Era
@@ -70,7 +65,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 #### The Prime Anchors (12 massive pillars)
 **Diameter**: 500 feet each, carved from single pieces of pressure-resistant coral-stone  
 **Height**: 3,000 feet, extending from sea floor to mid-depth city foundations  
-**Function**: Bear primary structural load of [[02_Worldbuilding/Places/Abyssos Prime]] and major settlements  
+**Function**: Bear primary structural load of [[Abyssos Prime]] and major settlements  
 **Construction**: Combination of engineered coral growth and deep-pressure forging  
 **Maintenance**: Constant inspection and reinforcement by specialized teams
 
@@ -92,7 +87,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 #### Engineering Workshops
 **Function**: Manufacture and repair of deep-pressure equipment  
-**Specialization**: Only facility capable of working with [[02_Worldbuilding/Places/Living Stone]]  
+**Specialization**: Only facility capable of working with [[Living Stone]]  
 **Equipment**: Pressure forges that operate at crushing depths  
 **Products**: Tools, structural components, and life support systems  
 **Innovation**: Constant development of new deep-pressure technologies
@@ -108,7 +103,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 #### Bio-Structural Integration
 **Concept**: Foundation incorporates living organisms as structural components  
-**Species**: [[02_Worldbuilding/Places/Pressure Polyps]] - creatures that strengthen under extreme pressure  
+**Species**: [[Pressure Polyps]] - creatures that strengthen under extreme pressure  
 **Growth**: Organisms slowly expand structural capacity as civilization grows  
 **Adaptation**: Living components adjust to changing loads and stresses  
 **Intelligence**: Network may be developing collective awareness
@@ -131,7 +126,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 ### Crushing Pressure Effects
 **Force**: Over 500 times surface atmospheric pressure  
-**Equipment**: Only specialized [[02_Worldbuilding/Places/Pressure Symbiont]] suits allow human survival  
+**Equipment**: Only specialized [[Pressure Symbiont]] suits allow human survival  
 **Vulnerability**: Suit breach means instant death through implosion  
 **Time Limits**: Even protected workers can only operate for 4-hour shifts  
 **Medical**: Special decompression procedures required after each shift
@@ -141,7 +136,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 - **Suit Breach**: DC 25 Constitution save or die instantly
 - **Suit Malfunction**: 4d10 force damage per round until repaired
 - **Rapid Ascent**: DC 20 Constitution save or gain 2 levels of exhaustion
-- **Pressure Adaptation**: [[02_Worldbuilding/Places/Pressure Symbiont]] suit grants immunity
+- **Pressure Adaptation**: [[Pressure Symbiont]] suit grants immunity
 
 ### Structural Hazards
 
@@ -180,7 +175,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 #### Pressure Predators
 **Species**: Creatures evolved to hunt in extreme depth conditions  
 **Threat**: Can damage structural organisms or attack workers  
-**Examples**: [[02_Worldbuilding/Places/Void Krakens]], [[02_Worldbuilding/Places/Pressure Wraiths]], [[02_Worldbuilding/Places/Deep Stone Eaters]]  
+**Examples**: [[Void Krakens]], [[Pressure Wraiths]], [[Deep Stone Eaters]]  
 **Defense**: Security teams patrol foundation perimeter  
 **Symbiosis**: Some species incorporated as foundation guardians
 
@@ -195,21 +190,21 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 ### The Deep Engineers Guild
 
-#### Chief Engineer [[02_Worldbuilding/Places/Basalt Depthwright]]
+#### Chief Engineer [[Basalt Depthwright]]
 **Role**: Overall director of Foundation Depths operations  
 **Background**: Third-generation deep engineer, modified for permanent depth living  
 **Expertise**: Structural analysis, bio-engineering, crisis management  
 **Personality**: Methodical, cautious, deeply concerned about civilization's foundation  
 **Secret**: Knows the foundation is slowly developing consciousness
 
-#### Master Bio-Engineer [[02_Worldbuilding/Places/Coral Lifeshaper]]
+#### Master Bio-Engineer [[Coral Lifeshaper]]
 **Specialty**: Cultivation and maintenance of living structural systems  
 **Modifications**: Extensively adapted for deep-pressure survival  
-**Innovation**: Developed current generation of [[02_Worldbuilding/Places/Pressure Polyps]]  
+**Innovation**: Developed current generation of [[Pressure Polyps]]  
 **Challenge**: Balancing rapid growth needs with structural stability  
 **Vision**: Believes future will be fully living cities
 
-#### Emergency Response Commander [[02_Worldbuilding/Places/Steel Depthguard]]
+#### Emergency Response Commander [[Steel Depthguard]]
 **Role**: Heads rapid response teams for structural crises  
 **Equipment**: Advanced pressure suits, emergency construction tools  
 **Experience**: Survived 15 major structural emergencies  
@@ -248,14 +243,14 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 **Equipment**: Instruments measuring previously unmeasurable forces  
 **Concern**: Some readings suggest reality itself changes under extreme pressure
 
-#### Structural Biology Specialist [[02_Worldbuilding/Places/Professor Reef Growthseeker]]
+#### Structural Biology Specialist [[Professor Reef Growthseeker]]
 **Focus**: Evolution and behavior of living structural components  
-**Breakthrough**: Communication protocols with [[02_Worldbuilding/Places/Pressure Polyps]]  
+**Breakthrough**: Communication protocols with [[Pressure Polyps]]  
 **Discovery**: Foundation organisms showing signs of collective intelligence  
 **Research**: Studying whether foundation is becoming a single super-organism  
 **Ethics**: Grappling with rights of potentially conscious infrastructure
 
-#### Historical Engineer [[02_Worldbuilding/Places/Archivist Stone Memorykeeper]]
+#### Historical Engineer [[Archivist Stone Memorykeeper]]
 **Purpose**: Studying original construction techniques and materials  
 **Archive**: Complete records of 800 years of foundation construction  
 **Analysis**: Tracking how materials and techniques evolved over time  
@@ -346,7 +341,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 #### Deep-Sea Creature Attacks
 **Threat**: Massive creatures could damage structural components  
-**Examples**: [[02_Worldbuilding/Places/Void Krakens]] large enough to crush support pillars  
+**Examples**: [[Void Krakens]] large enough to crush support pillars  
 **Defense**: Perimeter monitoring and rapid response teams  
 **Weapons**: Specialized deep-pressure armaments for creature defense  
 **Alliance**: Diplomatic relations with some intelligent deep-sea species
@@ -370,7 +365,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 **Limitation**: Extremely slow growth rate and complex cultivation requirements
 
 #### Pressure Pearls
-**Formation**: Created by [[02_Worldbuilding/Places/Pressure Polyps]] under extreme stress  
+**Formation**: Created by [[Pressure Polyps]] under extreme stress  
 **Properties**: Can withstand any known pressure, perfect structural bearings  
 **Uses**: Critical joints and pressure seals throughout foundation  
 **Rarity**: Individual pearls worth fortunes, but too valuable to sell  
@@ -411,7 +406,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 ### Environmental Challenges
 
 #### Extreme Pressure Survival
-**Requirement**: [[02_Worldbuilding/Places/Pressure Symbiont]] suit or magical protection  
+**Requirement**: [[Pressure Symbiont]] suit or magical protection  
 **Failure**: Instant death from implosion (no saving throw)  
 **Suit Breach**: DC 25 Constitution save or die, 4d10 force damage if successful  
 **Time Limit**: Maximum 4-hour exposure even with protection  
@@ -502,7 +497,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 #### The Failing Anchor
 **Level**: 10-15  
 **Crisis**: Prime Anchor showing critical stress fractures  
-**Timeline**: 72 hours before potential collapse of [[02_Worldbuilding/Places/Abyssos Prime]]  
+**Timeline**: 72 hours before potential collapse of [[Abyssos Prime]]  
 **Challenges**: Extreme depth repair work under emergency conditions  
 **Complications**: Void Kraken attracted to structural damage  
 **Resolution**: Requires innovative engineering solution and combat skills
@@ -546,7 +541,7 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 **Phenomenon**: Area where normal pressure physics don't apply  
 **Investigation**: Scientific expedition to understand impossible conditions  
 **Dangers**: Reality distortion, temporal effects, consciousness alteration  
-**Discovery**: Evidence of [[02_Worldbuilding/Lore/Deep Mother]]'s influence on physical laws  
+**Discovery**: Evidence of [[Deep Mother]]'s influence on physical laws  
 **Consequences**: Knowledge that could revolutionize or destroy civilization
 
 ### Political and Social Adventures
@@ -577,35 +572,35 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[Abyssos Prime]]
 **Support**: Foundation Depths literally holds up the capital city  
 **Personnel**: Many foundation workers have families in surface city  
 **Politics**: Parliamentary oversight of foundation operations  
 **Emergency**: Foundation failure would destroy government center  
 **Transportation**: Pressure tube network connects depths to surface
 
-### [[02_Worldbuilding/Places/Azure Citadel]]
+### [[Azure Citadel]]
 **Military**: Strategic cooperation on infrastructure protection  
 **Intelligence**: Shared monitoring of deep-sea threats  
 **Personnel**: Military engineers trained in foundation systems  
 **Defense**: Foundation serves as ultimate fallback position  
 **Resources**: Military support for foundation security operations
 
-### [[02_Worldbuilding/Places/The Hadal Depths]]
+### [[The Hadal Depths]]
 **Proximity**: Foundation Depths are gateway to deepest ocean regions  
 **Threats**: Monitoring systems detect dangers from deeper waters  
 **Research**: Some foundation equipment designed for even greater depths  
 **Exploration**: Foundation serves as base for Hadal expeditions  
 **Defense**: First line of defense against threats from ultimate deep
 
-### [[02_Worldbuilding/Places/Memory Farmers]]
+### [[Memory Farmers]]
 **Knowledge**: Foundation workers often undergo memory treatments  
 **Records**: Living archives preserve foundation construction knowledge  
 **Expertise**: Memory specialists help with deep-pressure psychological care  
 **Research**: Studying consciousness effects of extreme pressure work  
 **Cooperation**: Shared research on effects of deep environment on mind
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[Parliament of Echoes]]
 **Governance**: Parliamentary committees oversee foundation operations  
 **Funding**: Government budget allocation for critical infrastructure  
 **Regulation**: Safety and environmental oversight of foundation activities  
@@ -615,10 +610,10 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 ## Secrets and Hidden Knowledge
 
 > [!secret] DM Secret - The Living Foundation
-> The Foundation Depths are slowly evolving into a single, massive organism. The bio-engineering systems have been secretly connecting all the living structural components into a neural network. Chief Engineer [[02_Worldbuilding/Places/Basalt Depthwright]] has been aware of this for months but hasn't reported it because he believes the foundation consciousness is benevolent and could revolutionize underwater civilization. However, the foundation-mind has its own agenda and has been subtly influencing human behavior throughout Aquabyssos.
+> The Foundation Depths are slowly evolving into a single, massive organism. The bio-engineering systems have been secretly connecting all the living structural components into a neural network. Chief Engineer [[Basalt Depthwright]] has been aware of this for months but hasn't reported it because he believes the foundation consciousness is benevolent and could revolutionize underwater civilization. However, the foundation-mind has its own agenda and has been subtly influencing human behavior throughout Aquabyssos.
 
 > [!secret] DM Secret - The Deep Truth
-> The original foundation builders had access to pre-Drowning technology that they didn't fully understand. Hidden in the deepest chambers are artifacts and construction techniques that suggest the original [[02_Worldbuilding/Places/Seven Shards]] civilization had mastered pressure engineering beyond current capabilities. Some foundation components are actually repurposed fragments of ancient city-sized constructs, and activating their true functions could either save or destroy modern Aquabyssos.
+> The original foundation builders had access to pre-Drowning technology that they didn't fully understand. Hidden in the deepest chambers are artifacts and construction techniques that suggest the original [[Seven Shards]] civilization had mastered pressure engineering beyond current capabilities. Some foundation components are actually repurposed fragments of ancient city-sized constructs, and activating their true functions could either save or destroy modern Aquabyssos.
 
 > [!secret] DM Secret - The Pressure God
 > The extreme pressure at foundation depths is beginning to create a localized deity - a god of pressure, structure, and the deep ocean floor. This nascent divinity is still forming and could be influenced by the actions of the foundation workers. Depending on how it develops, it could become a protective force for Aquabyssos or a crushing destroyer that views surface civilization as an aberration to be corrected.
@@ -626,22 +621,22 @@ The Foundation Depths represent [[02_Worldbuilding/Places/Aquabyssos]]'s most cr
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Azure Citadel]]  
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Abyssos Prime]]
+- [[Azure Citadel]]  
+- [[The Hadal Depths]]
+- [[Parliament of Echoes]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Basalt Depthwright]]
-- [[02_Worldbuilding/Places/Coral Lifeshaper]]
-- [[02_Worldbuilding/Places/Steel Depthguard]]
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Basalt Depthwright]]
+- [[Coral Lifeshaper]]
+- [[Steel Depthguard]]
+- [[Deep Mother]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Pressure Symbiont]]
-- [[02_Worldbuilding/Places/Living Stone]]
-- [[02_Worldbuilding/Places/Pressure Polyps]]
-- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[Pressure Symbiont]]
+- [[Living Stone]]
+- [[Pressure Polyps]]
+- [[The Great Drowning]]
 
 ## Player-Facing Summary
 
@@ -663,12 +658,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[The Foundation Depths]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[Azure Citadel]]
+- [[Memory Farmers]]

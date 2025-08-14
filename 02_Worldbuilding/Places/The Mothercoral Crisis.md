@@ -10,7 +10,7 @@ duration: 3-5 sessions
 level_range: 5-8
 obsidianUIMode: preview
 party_size: 4-6 characters
-primary_location: '[[02_Worldbuilding/Places/Coral Courts]] and surrounding reef systems'
+primary_location: '[[Coral Courts]] and surrounding reef systems'
 quest_type: Investigation/Environmental Rescue
 status: complete
 tags:
@@ -34,11 +34,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-the-mothercoral-crisis.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-the-mothercoral-crisis.svg]]
 
 
 # The Mothercoral Crisis
@@ -49,14 +46,14 @@ world: Aquabyssos
 
 ## Quest Overview
 
-The Mothercoral Crisis presents players with an urgent environmental disaster that threatens the fundamental ecosystem supporting [[02_Worldbuilding/Places/Aquabyssos]] civilization. The massive Mothercoral organism, which has served as the foundation for reef-building and water purification throughout the realm for over a millennium, is showing signs of rapid deterioration and possible death, putting the entire aquatic civilization at risk.
+The Mothercoral Crisis presents players with an urgent environmental disaster that threatens the fundamental ecosystem supporting [[Aquabyssos]] civilization. The massive Mothercoral organism, which has served as the foundation for reef-building and water purification throughout the realm for over a millennium, is showing signs of rapid deterioration and possible death, putting the entire aquatic civilization at risk.
 
-This quest combines investigation, scientific problem-solving, political negotiation, and time-sensitive action as players race to identify the cause of the crisis and implement a solution before the cascading environmental collapse becomes irreversible. The stakes affect not just local communities but the survival of [[02_Worldbuilding/Places/Aquabyssos]] itself.
+This quest combines investigation, scientific problem-solving, political negotiation, and time-sensitive action as players race to identify the cause of the crisis and implement a solution before the cascading environmental collapse becomes irreversible. The stakes affect not just local communities but the survival of [[Aquabyssos]] itself.
 
 ## Background and Context
 
 ### The Mothercoral System
-The **Mothercoral** is a unique magical organism that serves as the cornerstone of [[02_Worldbuilding/Places/Aquabyssos]]' ecosystem, a massive coral colony spanning over 50 square miles that:
+The **Mothercoral** is a unique magical organism that serves as the cornerstone of [[Aquabyssos]]' ecosystem, a massive coral colony spanning over 50 square miles that:
 - Purifies water throughout the realm's territories  
 - Provides foundation structure for reef communities
 - Maintains magical currents that support underwater civilization
@@ -70,7 +67,7 @@ Three weeks ago, marine biologists noticed unusual discoloration in sections of 
 - Structural weakening of reef-based communities
 
 ### Growing Panic
-As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabyssos]] society:
+As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 - Refugee communities fleeing affected areas
 - Political pressure to find immediate solutions
 - Economic disruption as trade routes become unusable
@@ -97,7 +94,7 @@ As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabys
 **Challenges**: Toxic environment, unstable magical fields, dangerous pressure changes  
 **Important Features**: Central nervous system of the organism, ancient magical anchors  
 
-### [[02_Worldbuilding/Places/Coral Courts]]
+### [[Coral Courts]]
 **Description**: Major reef city built into the Mothercoral system, now partially evacuated  
 **Challenges**: Structural instability, panicking population, political tensions  
 **Important NPCs**: Local officials, marine biologists, community leaders  
@@ -228,7 +225,7 @@ As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabys
 **Saving the Mothercoral**: Major reputation increase, government honors, substantial monetary reward  
 **Scientific Discovery**: Access to new magical knowledge, research funding, academic recognition  
 **Political Influence**: Connections with government officials, input on environmental policy  
-**Community Gratitude**: Free services, discounted goods, widespread respect throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Community Gratitude**: Free services, discounted goods, widespread respect throughout [[Aquabyssos]]  
 
 ### Partial Success
 **Slowing the Crisis**: Temporary solution requiring ongoing maintenance and monitoring  
@@ -237,7 +234,7 @@ As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabys
 **Political Compromise**: Solution that addresses crisis but involves difficult political trade-offs  
 
 ### Failure Consequences  
-**Ecosystem Collapse**: Major environmental disaster affecting entire [[02_Worldbuilding/Places/Aquabyssos]] civilization  
+**Ecosystem Collapse**: Major environmental disaster affecting entire [[Aquabyssos]] civilization  
 **Mass Migration**: Refugee crisis as populations flee uninhabitable areas  
 **Political Upheaval**: Government instability as leadership fails to address crisis  
 **Economic Collapse**: Trade disruption and resource shortages affecting daily life  
@@ -251,7 +248,7 @@ As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabys
 ### Alternative Outcomes
 **Prevention**: Party discovers early warning signs and prevents crisis through proactive action  
 **Adaptation**: Crisis cannot be stopped but society adapts to new environmental conditions  
-**Migration**: Solution involves relocating [[02_Worldbuilding/Places/Aquabyssos]] civilization to new territory  
+**Migration**: Solution involves relocating [[Aquabyssos]] civilization to new territory  
 
 ### Long-term Campaign Integration
 - Environmental monitoring becomes ongoing campaign element
@@ -267,7 +264,7 @@ As the crisis escalates, panic spreads through [[02_Worldbuilding/Places/Aquabys
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 
@@ -289,6 +286,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Mothercoral Crisis]]
+- [[The Mothercoral Crisis]]
 
 <!-- enriched: true -->

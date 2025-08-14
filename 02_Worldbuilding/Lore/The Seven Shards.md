@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
 - active
 - artifact
 - both
@@ -16,26 +19,24 @@ updated: '2025-08-13T01:18:34.945029+00:00'
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
-
-
-
+![[04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
 
 
 # The Seven Shards
+
 *Fragments of Godhood Scattered Across the World*
 
 > **For the Table:** The Seven Shards are your campaign's nuclear option - use them to escalate stakes, corrupt heroes, or offer terrible choices. Each shard should feel like handling unstable dynamite that whispers promises.
 
 ## Overview
-When the Crown of Stars shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron)'s divine essence. These Shards are the most powerful artifacts in [[02_Worldbuilding/Places/Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[The Convergence Point]] between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]].
+
+When the Crown of Stars shattered during [[12_Research/D&D_References/The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[12_Research/D&D_Statblocks/The Crimson Sage]] (Aetheron)'s divine essence. These Shards are the most powerful artifacts in [[12_Research/D&D_References/Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[12_Research/D&D_References/The Convergence Point]] between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]].
 
 ## The Nature of Shards
 
 ### Divine Properties
+
 - Contain fragments of Aetheron's consciousness
 - Grant divine-level magical abilities
 - Corrupt mortals who wield them
@@ -43,6 +44,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 - Alter reality in their vicinity
 
 ### Physical Properties
+
 - Indestructible by mortal means
 - Size of a human fist
 - Glow with inner light
@@ -52,12 +54,13 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Individual Shards
 
 ### The Clear Shard (Crystal Throne)
-**Location**: [[02_Worldbuilding/Places/Crystalhaven]] - IS the Crystal Throne
+
+**Location**: [[12_Research/D&D_References/Crystalhaven]] - IS the Crystal Throne
 **Power**: Pure magical energy, authority
-**Guardian**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+**Guardian**: [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
 **Effect**: Grants rulership, accelerates corruption
 **Secret**: Slowly merging with Queen
-**Connections**: May influence [[Crystal Festival]] displays, [[02_Worldbuilding/Groups/The Crystal Throne]] faction activities
+**Connections**: May influence [[12_Research/D&D_References/Crystal Festival]] displays, [[12_Research/D&D_References/The Crystal Throne]] faction activities
 
 > **For the Table - Running the Clear Shard:**
 > - **Corruption Check:** Anyone sitting on throne must make DC 18 WIS save or gain 1 corruption point
@@ -66,44 +69,49 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 > - **Escalation:** Each use makes Queen 5% more crystalline
 
 ### The Crimson Shard (Blood)
-**Location**: [[02_Worldbuilding/Places/Port Meridian]] harbor (sunken ship)
+
+**Location**: [[12_Research/D&D_References/Port Meridian]] harbor (sunken ship)
 **Power**: Life and death, necromancy
 **Guardian**: Corrupted Elemental
 **Effect**: Creates plague, animates dead
 **Status**: Causing crystal plague
-**Connections**: May be connected to [[02_Worldbuilding/Lore/Infected Experiments]], [[The Crimson Hand]] interest, [[Hybrid Abominations]]
+**Connections**: May be connected to [[12_Research/D&D_References/Infected Experiments]], [[12_Research/D&D_References/The Crimson Hand]] interest, [[12_Research/D&D_References/Hybrid Abominations]]
 
 ### The Amber Shard (Earth)
-**Location**: [[02_Worldbuilding/People/High Inquisitor Maltheos]]'s possession
+
+**Location**: [[12_Research/D&D_References/High Inquisitor Maltheos]]'s possession
 **Power**: Physical might, endurance
-**Guardian**: [[02_Worldbuilding/Lore/The Purist Coalition]]
+**Guardian**: [[12_Research/D&D_References/The Purist Coalition]]
 **Effect**: Grants unbreakable will
 **Secret**: Maltheos doesn't know its true nature
-**Connections**: Influences [[Order of the Sunken Crown]] activities, [[Interrogation Techniques]]
+**Connections**: Influences [[12_Research/D&D_References/Order of the Sunken Crown]] activities, [[12_Research/D&D_References/Interrogation Techniques]]
 
 ### The Emerald Shard (Nature)
-**Location**: Heart Tree in [[02_Worldbuilding/Places/The Verdant Reach]]
+
+**Location**: Heart Tree in [[12_Research/D&D_References/The Verdant Reach]]
 **Power**: Natural magic, growth, healing
-**Guardian**: [[02_Worldbuilding/People/Archdruid Thornweaver]]
+**Guardian**: [[12_Research/D&D_Statblocks/Archdruid Thornweaver]]
 **Effect**: Accelerates plant growth
 **Secret**: Tree becoming sentient
-**Connections**: May influence [[02_Worldbuilding/Lore/Crystal Forest]], [[02_Worldbuilding/Lore/The Bloom Fields]], [[02_Worldbuilding/Lore/Screaming Tree Guardians]]
+**Connections**: May influence [[12_Research/D&D_References/Crystal Forest]], [[12_Research/D&D_References/The Bloom Fields]], [[12_Research/D&D_References/Screaming Tree Guardians]]
 
 ### The Azure Shard (Ocean)
-**Location**: Sunken temple, [[02_Worldbuilding/Places/The Azure Coast]]
+
+**Location**: Sunken temple, [[12_Research/D&D_References/The Azure Coast]]
 **Power**: Emotional control, water
 **Guardian**: Sea monsters
 **Effect**: Controls tides and storms
 **Status**: Undiscovered by factions
-**Connections**: May be connected to [[The Deep Mother]], [[02_Worldbuilding/Lore/Memory Tide Events]], [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]], [[Leviathan Graveyard]]
+**Connections**: May be connected to [[12_Research/D&D_References/The Deep Mother]], [[12_Research/D&D_References/Memory Tide Events]], [[12_Research/D&D_References/Tidal Memory Ceremonies]], [[12_Research/D&D_References/Leviathan Graveyard]]
 
 ### The Obsidian Shard (Shadow)
-**Location**: [[02_Worldbuilding/Places/The Shadowmere]] depths
+
+**Location**: [[12_Research/D&D_References/The Shadowmere]] depths
 **Power**: Shadow, fear, nightmares
 **Guardian**: The Shadowmere itself
 **Effect**: Corrupts entire region
 **Secret**: Creating shadow realm
-**Connections**: Source of [[02_Worldbuilding/Lore/Shadow Corruption]], connected to [[The Crimson Hand]] power, [[02_Worldbuilding/Lore/Fear Farms]]
+**Connections**: Source of [[Shadow Corruption]], connected to [[12_Research/D&D_References/The Crimson Hand]] power, [[12_Research/D&D_References/Fear Farms]]
 
 > **For the Table - Shadow Shard Encounters:**
 > - **Discovery Scene:** "The water turns black as ink. Your reflection shows your deepest fear made flesh."
@@ -112,16 +120,18 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 > - **Recovery Option:** Can be calmed (not controlled) through genuine self-acceptance ritual
 
 ### The Golden Shard (Divine Heart)
-**Location**: Within [[02_Worldbuilding/People/Aria Lumengarde]]
+
+**Location**: Within [[12_Research/D&D_References/Aria Lumengarde]]
 **Power**: Divine authority, transformation
 **Guardian**: The child herself
 **Effect**: Creating new form of divinity
 **Secret**: Most important piece
-**Connections**: May be key to resolving [[The Convergence Point]], connected to [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+**Connections**: May be key to resolving [[12_Research/D&D_References/The Convergence Point]], connected to [[12_Research/D&D_References/Bloodline Awakening Powers]]
 
 ## Properties When Wielded
 
 ### Initial Benefits
+
 - Immunity to normal weapons
 - Command over related element
 - Divine spellcasting ability
@@ -129,12 +139,14 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 - Reality manipulation (limited)
 
 ### Progressive Corruption
+
 **Stage 1** (Days): Enhanced abilities, minor physical changes
 **Stage 2** (Weeks): Personality alteration, crystal growths
 **Stage 3** (Months): Loss of humanity, become avatar
 **Stage 4** (Years): Complete transformation to divine servant
 
 ### Multiple Shards
+
 - Two Shards: Regional reality control
 - Three Shards: Continental influence
 - Four Shards: Planar manipulation
@@ -145,12 +157,14 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## The Reunification
 
 ### Natural Pull
+
 - Shards attract each other
 - Bearers feel compulsion to gather others
 - Reality weakens between Shard locations
 - Dreams and visions increase
 
 ### The Convergence
+
 > [!warning] DM Only
 > When all seven gather in one place:
 > 1. Reality tears open
@@ -161,6 +175,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Historical Attempts
 
 ### Past Seekers
+
 - **The First Emperor** (300 years ago): Found three, went mad
 - **The Crystal Prophets** (150 years ago): Religious cult, destroyed
 - **The Merchant Kings** (75 years ago): Economic manipulation, failed
@@ -169,6 +184,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Methods of Control
 
 ### Containing a Shard
+
 - Divine wards (temporary)
 - Opposing Shard negation
 - Willing sacrifice of bearer
@@ -176,6 +192,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 - Crystal resonance chambers
 
 ### Destroying a Shard
+
 > [!warning] DM Only - Possible Methods
 > - Unite all seven, then choose destruction
 > - Divine intervention (true god)
@@ -186,25 +203,28 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Faction Knowledge
 
 ### Who Knows What
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Knows of 4 Shards
-- **[[02_Worldbuilding/Lore/The Purist Coalition]]**: Has 1, knows of 3
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows all locations
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Knows of 5
-- **[[02_Worldbuilding/Places/The Order of the Shattered Crown]]**: Seeks all
-- **[[The Crimson Hand]]**: Actively seeking multiple Shards
-- **[[02_Worldbuilding/Lore/Silverscale Banking House]]**: Funding Shard acquisition attempts
-- **[[02_Worldbuilding/Lore/Aurelius Goldwave]]**: Using financial networks to track Shard movements
+
+- **[[12_Research/D&D_References/The Crystal Throne]]**: Knows of 4 Shards
+- **[[12_Research/D&D_References/The Purist Coalition]]**: Has 1, knows of 3
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]**: Knows all locations
+- **[[12_Research/D&D_References/Vex Shadowthorn]]**: Knows of 5
+- **[[12_Research/D&D_References/The Order of the Shattered Crown]]**: Seeks all
+- **[[12_Research/D&D_References/The Crimson Hand]]**: Actively seeking multiple Shards
+- **[[12_Research/D&D_References/Silverscale Banking House]]**: Funding Shard acquisition attempts
+- **[[12_Research/D&D_Statblocks/Aurelius Goldwave]]**: Using financial networks to track Shard movements
 - **Common People**: Myth and legend only
 
 ## Prophecies
 
 ### The Restoration Prophecy
+
 *"Seven lights that fell from grace,*
 *Seven powers time won't erase,*
 *When united in one hand,*
 *Gods shall walk upon the land."*
 
 ### The Warning
+
 *"Beware the crown reformed in haste,*
 *For power gained is humanity waste,*
 *The price of godhood, mortals learn,*
@@ -221,16 +241,19 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Campaign Integration
 
 ### Early Campaign
+
 - Rumors and legends
 - Minor Shard effects noticed
 - Factions seeking information
 
 ### Mid Campaign
+
 - First Shard discovered
 - Race begins
 - Corruption spreading
 
 ### Late Campaign
+
 - Multiple Shards in play
 - Reality destabilizing
 - Final choices approaching
@@ -238,18 +261,21 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## DM Guidance
 
 ### Flexible Power Levels
+
 - Scale to party strength
 - Not instant win buttons
 - Corruption balances power
 - Require attunement time
 
 ### Story Tools
+
 - Drive faction conflict
 - Create moral dilemmas
 - Provide campaign goals
 - Enable multiple endings
 
 ### The Ultimate Choice
+
 If party gathers all seven:
 1. **Destroy**: Save world, lose magic
 2. **Reform**: New god rises
@@ -259,69 +285,74 @@ If party gathers all seven:
 ## Related Lore
 
 ### Origin and History
-- [[The Great Crystallization]] - Origin event that shattered the Crown
-- [[02_Worldbuilding/Lore/The Crown of Stars]] - Original divine artifact
-- [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's current form, creator of the Shards
-- [[02_Worldbuilding/Lore/The Sundering]] - Related dimensional catastrophe
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Detailed account of the breaking
+
+- [[12_Research/D&D_References/The Great Crystallization]] - Origin event that shattered the Crown
+- [[12_Research/D&D_References/The Crown of Stars]] - Original divine artifact
+- [[12_Research/D&D_Statblocks/The Crimson Sage]] - Aetheron's current form, creator of the Shards
+- [[12_Research/D&D_References/The Sundering]] - Related dimensional catastrophe
+- [[12_Research/D&D_References/The Shattering of the Crown]] - Detailed account of the breaking
 
 ### Current Seekers and Guardians
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Major faction controlling Clear Shard
-- [[02_Worldbuilding/Lore/The Purist Coalition]] - Guardians of Amber Shard
-- [[The Crimson Hand]] - Actively seeking multiple Shards
-- [[02_Worldbuilding/Lore/Silverscale Banking House]] - Funding acquisition operations
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]] - Dedicated to reunification
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Guardian of Clear Shard
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Unknowing bearer of Amber Shard
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Guardian of Emerald Shard
+
+- [[12_Research/D&D_References/The Crystal Throne]] - Major faction controlling Clear Shard
+- [[12_Research/D&D_References/The Purist Coalition]] - Guardians of Amber Shard
+- [[12_Research/D&D_References/The Crimson Hand]] - Actively seeking multiple Shards
+- [[12_Research/D&D_References/Silverscale Banking House]] - Funding acquisition operations
+- [[12_Research/D&D_References/The Order of the Shattered Crown]] - Dedicated to reunification
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Guardian of Clear Shard
+- [[12_Research/D&D_References/High Inquisitor Maltheos]] - Unknowing bearer of Amber Shard
+- [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] - Guardian of Emerald Shard
 
 ### Related Phenomena and Consequences
-- [[02_Worldbuilding/Lore/Shadow Corruption]] - Spreading from Obsidian Shard
-- [[Crystal Festival]] - Shards sometimes displayed or referenced
-- [[The Convergence Point]] - May be accelerated by Shard activity
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]] - Connected to Golden Shard
-- [[02_Worldbuilding/Lore/Memory Tide Events]] - Possibly influenced by Azure Shard
-- [[02_Worldbuilding/Lore/Infected Experiments]] - May be connected to Crimson Shard
-- [[02_Worldbuilding/Lore/Crystal Mimics]] - Artificial Shard fragments
+
+- [[Shadow Corruption]] - Spreading from Obsidian Shard
+- [[12_Research/D&D_References/Crystal Festival]] - Shards sometimes displayed or referenced
+- [[12_Research/D&D_References/The Convergence Point]] - May be accelerated by Shard activity
+- [[12_Research/D&D_References/Bloodline Awakening Powers]] - Connected to Golden Shard
+- [[12_Research/D&D_References/Memory Tide Events]] - Possibly influenced by Azure Shard
+- [[12_Research/D&D_References/Infected Experiments]] - May be connected to Crimson Shard
+- [[12_Research/D&D_References/Crystal Mimics]] - Artificial Shard fragments
 
 ### Strategic Interests
-- [[02_Worldbuilding/Places/Aquabyssos]] - The ongoing search
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]] - Using financial networks to track Shards
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Major information holder
+
+- [[12_Research/D&D_References/Aquabyssos]] - The ongoing search
+- [[12_Research/D&D_Statblocks/Aurelius Goldwave]] - Using financial networks to track Shards
+- [[12_Research/D&D_References/Vex Shadowthorn]] - Major information holder
 - [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] - Security forces protecting Shards
-- [[02_Worldbuilding/Lore/Reality Merge Zones]] - Areas where Shard power weakens barriers
+- [[12_Research/D&D_References/Reality Merge Zones]] - Areas where Shard power weakens barriers
 
 ## DM Secrets
+
 > [!warning] Ultimate Truth
 > The Shards aren't just fragments—they're Aetheron's attempt to experience mortality through division. Each represents an aspect of divinity experiencing mortal existence. The Golden Shard in Aria is his heart, experiencing innocence and growth. Reunification means choosing between godhood's power and mortality's meaning.
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
-- [[Crystal Festival]]
-- [[Crystal Garden]]
+- [[12_Research/D&D_References/Aetheron]]
+- [[12_Research/D&D_References/Aquabyssos Trade Seal]]
+- [[12_Research/D&D_References/Crystal Festival]]
+- [[12_Research/D&D_References/Crystal Garden]]
 - [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
-- [[Customs House]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[Possessed Noble Coterie]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[Thalassius the Wise]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Final Choice]]
-- [[The Queen]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Lore/Throne Room]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[Ambush Point]]
-- [[Crystalline Depths]]
-- [[02_Worldbuilding/Places/Aquabyssos]]
-- [[The Maw of Darkness]]
-- [[02_Worldbuilding/Places/Aquabyssos]]
+- [[12_Research/D&D_References/Customs House]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/Possessed Noble Coterie]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Throne Room]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- [[12_Research/D&D_References/Smuggler's Cove]]
+- [[12_Research/D&D_References/The Gilded Shard]]
+- [[12_Research/D&D_References/Aether Crystals]]
+- [[12_Research/D&D_Statblocks/Ambush Point]]
+- [[12_Research/D&D_Statblocks/Crystalline Depths]]
+- [[12_Research/D&D_References/Aquabyssos]]
+- [[12_Research/D&D_Statblocks/The Maw of Darkness]]
+- [[12_Research/D&D_References/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -346,28 +377,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal Mimics]]
-- [[Interrogation Techniques]]
-- [[Order of the Sunken Crown]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Lore/Screaming Tree Guardians]]
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
-- [[02_Worldbuilding/Lore/The Crown of Stars]]
-- [[The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
-- [[02_Worldbuilding/Lore/The Sundering]]
-- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
-- [[02_Worldbuilding/People/Archdruid Thornweaver]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/The Crimson Sage]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Azure Coast]]
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
-- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[12_Research/D&D_References/Aether Crystals]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[12_Research/D&D_Statblocks/Aurelius Goldwave]]
+- [[12_Research/D&D_References/Bloodline Awakening Powers]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal Mimics]]
+- [[12_Research/D&D_References/Interrogation Techniques]]
+- [[12_Research/D&D_References/Order of the Sunken Crown]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Screaming Tree Guardians]]
+- [[12_Research/D&D_References/The Bloom Fields]]
+- [[12_Research/D&D_References/The Crown of Stars]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Shattering of the Crown]]
+- [[12_Research/D&D_References/The Sundering]]
+- [[12_Research/D&D_References/Tidal Memory Ceremonies]]
+- [[12_Research/D&D_Statblocks/Archdruid Thornweaver]]
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
+- [[12_Research/D&D_Statblocks/The Crimson Sage]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Crystalhaven]]
+- [[12_Research/D&D_References/Port Meridian]]
+- [[12_Research/D&D_References/The Azure Coast]]
+- [[12_Research/D&D_References/The Order of the Shattered Crown]]
+- [[12_Research/D&D_References/The Verdant Reach]]

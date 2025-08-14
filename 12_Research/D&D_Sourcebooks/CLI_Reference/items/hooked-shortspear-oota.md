@@ -27,10 +27,10 @@ world: Both
 
 
 - **Damage**: 1d4 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
-On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall [[/03_Mechanics/CLI/conditions#Prone|prone]]. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
+On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall [[conditions#Prone|prone]]. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
 
 *Source: Out of the Abyss p. 224*
 

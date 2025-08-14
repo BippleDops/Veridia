@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg]]
 
 
 # Surface Traders
@@ -154,7 +150,7 @@ Surface Traders provide adventure opportunities involving smuggling, diplomacy, 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Pearl_Harbor_City]]
 
 
 ## History
@@ -196,6 +192,6 @@ Legends speak of Surface Traders as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Traders]]
+- [[Surface Traders]]
 
 <!-- enriched: true -->

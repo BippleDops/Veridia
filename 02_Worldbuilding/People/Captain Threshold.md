@@ -15,12 +15,7 @@ world: Both Aethermoor & Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-threshold-captain-threshold.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-threshold-captain-threshold.svg]]
 
 
 ## Overview
@@ -65,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Threshold]]
+- [[Captain Threshold]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[The Liminal Trading Company]]
+- [[Quest - The Convergence Crisis]]

@@ -49,7 +49,7 @@ You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
 ## Sensory Effect
 
-You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]].
+You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[cube-area-of-effect-xphb|Cube]].
 
 ## Fire Play
 
@@ -57,7 +57,7 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge "subclass=XGE;class=XPHB"|Fighter (Arcane Archer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge "subclass=XGE;class=XPHB"|Fighter (Arcane Archer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

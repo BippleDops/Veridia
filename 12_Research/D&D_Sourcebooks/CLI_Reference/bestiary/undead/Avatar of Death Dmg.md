@@ -27,10 +27,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-avatar-of-death-dmg-avatar-of-death-dmg.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/avatar-of-death-dmg|Avatar of Death]]
+# [[avatar-of-death-dmg|Avatar of Death]]
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Summoned by the "Skull" card from the [[/03_Mechanics/CLI/items/deck-of-many-things-xdmg|Deck of Many Things]].
+Summoned by the "Skull" card from the [[deck-of-many-things-xdmg|Deck of Many Things]].
 
 ```statblock
 "name": "Avatar of Death (DMG)"
@@ -48,9 +48,9 @@ Summoned by the "Skull" card from the [[/03_Mechanics/CLI/items/deck-of-many-thi
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":

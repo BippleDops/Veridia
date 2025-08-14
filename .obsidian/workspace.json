@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72ce2c354e126ca6",
+        "id": "ea6c15f7fb617cec",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b6f60864e8b42a",
+            "id": "e17f13f3405f76f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Adventures/01 Chapter 1 Prisoners of the Drow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01 Chapter 1 Prisoners of the Drow"
             }
           }
         ]
@@ -163,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12_Research/D&D_Sourcebooks/CLI_Reference/backgrounds/Acolyte Xphb.md",
+                "file": "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Adventures/01 Chapter 1 Prisoners of the Drow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acolyte Xphb"
+              "title": "Outline of 01 Chapter 1 Prisoners of the Drow"
             }
           },
           {
@@ -188,8 +192,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -319,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "1daf628a52fe86ef",
@@ -364,8 +368,15 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "bb21e6fb9beae31a",
   "lastOpenFiles": [
+    "scripts/intelligent_link_fixer.py",
+    "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Rules_Reference/action-options.md",
+    "03_Mechanics/CLI/actions.md",
+    "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Rules_Reference/action-xphb.md",
+    "03_Mechanics/CLI",
+    "12_Research/D&D_Sourcebooks/5e_Organized_Reference/Rules_Reference/bonus-action-xphb.md",
+    "12_Research/D&D_Sourcebooks/Baldur's_Gate_Descent_into_Avernus/INDEX.md",
     "02_Worldbuilding/Lore/Crystal Caverns.md",
     "02_Worldbuilding/Lore/Port Meridian.md",
     "12_Research/D&D_Sourcebooks/CLI_Reference/item-mastery.md",
@@ -395,13 +406,6 @@
     "09_Performance/Image Library.base",
     "09_Performance/Faction_Tracker.base",
     "09_Performance/Combat Tracker.base",
-    "04_Player_Resources/Character_Options/Depth_Adapted_Background.md",
-    "03_Mechanics/Vault_Self_Improvement_Engine.md",
-    "03_Mechanics/Weather_And_Seasons.md",
-    "03_Mechanics/Travel Rules.md",
-    "03_Mechanics/Memory Absorption Rules.md",
-    "03_Mechanics/Language_Evolution_Tracker.md",
-    "Combat Tracker.base",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
     "Ω_Assets/Pasted image 20250121213204.png",

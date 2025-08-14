@@ -24,9 +24,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-elara-moonwhisper-keeper-elara-moonwhisper.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-elara-moonwhisper-keeper-elara-moonwhisper.svg]]
 
 
 # The Moonwhisper Archives - Repository of Lunar Knowledge
@@ -414,12 +412,12 @@ The Moonwhisper Archives connect to numerous important elements throughout Aethe
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Sorrow Pearls]]
+- [[Captain Lyanna Brightshield]]
+- [[Crystalhaven]]
+- [[Port Meridian]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -441,6 +439,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
+- [[Keeper Elara Moonwhisper]]
 
 <!-- enriched: true -->

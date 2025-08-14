@@ -24,9 +24,8 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harbor-district-harbor-district.svg)
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harbor-district-harbor-district.svg]]
 
 # Harbor District
 *Where All Currents Meet*
@@ -261,7 +260,7 @@ Increased smuggling activity and foreign intelligence operations have necessitat
 ## Notable NPCs
 
 ### Harbor Authority Leadership
-- **[[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]** - Traditionalist leader struggling to maintain balance between competing interests
+- **[[Harbormaster Erik Saltbeard]]** - Traditionalist leader struggling to maintain balance between competing interests
 - **Harbor Master Luna Freedrift** - Rising political figure advocating for worker rights and economic justice
 - **Deputy Harbor Master Marcus Stormcurrent** - Security specialist managing intelligence and smuggling concerns
 
@@ -299,31 +298,31 @@ Increased smuggling activity and foreign intelligence operations have necessitat
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Pearl Diving Honor Culture]]
-- [[02_Worldbuilding/Places/Harbor Authority]]
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
-- [[02_Worldbuilding/Places/Harbor Defense Grid]]
-- [[02_Worldbuilding/Places/Harbor Master's Tower]]
+- [[Pearl Diving Honor Culture]]
+- [[Harbor Authority]]
+- [[Harbor District Customs House]]
+- [[Harbor Defense Grid]]
+- [[Harbor Master's Tower]]
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
-- [[02_Worldbuilding/Places/Chef Gastropod]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[02_Worldbuilding/Places/Noble Quarter]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
-- [[02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
-- [[02_Worldbuilding/Places/Temple Ward]]
-- [[02_Worldbuilding/Places/The Deep Patrol]]
+- [[Abyssos Prime]]
+- [[Anti-Priest Nullus]]
+- [[Barkeep Mira Algaebrew]]
+- [[Chef Gastropod]]
+- [[Depth Wardens]]
+- [[Doctor Coral Shapeshift]]
+- [[Harbormaster Erik Saltbeard]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Mediator Serenity Stillwater]]
+- [[Noble Quarter]]
+- [[Port Meridian]]
+- [[Pressure Terminal]]
+- [[Supplier Erikson Tidecaller]]
+- [[Surface Portal Alpha]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Temple Ward]]
+- [[The Deep Patrol]]
 
 ## Player-Facing Summary
 

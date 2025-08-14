@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Lighthouse Keeper's Ghost]]
+- [[12_Research/D&D_References/The Lighthouse Keeper's Ghost]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[12_Research/D&D_References/The Whispering Peaks]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

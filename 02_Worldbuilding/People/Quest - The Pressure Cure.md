@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-pressure-cure-quest-the-pressure-cure.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-pressure-cure-quest-the-pressure-cure.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[Admiral Thorne Blackwater]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[Admiral Thorne Blackwater]]
 
 ## Player-Facing Summary
 

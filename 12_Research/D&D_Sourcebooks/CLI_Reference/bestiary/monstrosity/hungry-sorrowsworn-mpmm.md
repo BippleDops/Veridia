@@ -23,7 +23,7 @@ updated: '2025-08-12T23:37:34.972384'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/hungry-sorrowsworn-mpmm|Hungry Sorrowsworn]]
+# [[hungry-sorrowsworn-mpmm|Hungry Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
@@ -67,8 +67,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
       \ + 4) piercing damage plus 13 (3d8) necrotic damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18\
-      \ (4d6 + 4) slashing damage. If the target is Medium or smaller, it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 16), and it is [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
+      \ (4d6 + 4) slashing damage. If the target is Medium or smaller, it is [[conditions#Grappled|grappled]]\
+      \ (escape DC 16), and it is [[conditions#Restrained|restrained]]\
       \ until the grapple ends. While grappling a creature, the sorrowsworn can't\
       \ make a Claw attack."
     "name": "Claw"

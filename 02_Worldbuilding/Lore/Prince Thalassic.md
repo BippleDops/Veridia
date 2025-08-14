@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[12_Research/D&D_References/The Depth Accords]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[12_Research/D&D_References/The Depth Accords]]
 
 ## Player-Facing Summary
 

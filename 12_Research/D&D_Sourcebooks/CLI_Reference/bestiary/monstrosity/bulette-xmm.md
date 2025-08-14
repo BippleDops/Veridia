@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulette-xmm-bulette-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/bulette-xmm|Bulette]]
+# [[bulette-xmm|Bulette]]
 *Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bulettes range under vast territories. They often threaten animal herds, and they can wipe out whole farming communities.
@@ -59,7 +59,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., tremorsense 120 ft., passive Perception 16"
 "languages": ""
@@ -72,7 +72,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - "desc": "The bulette spends 5 feet of movement to jump to a space within 15 feet\
       \ that contains one or more Large or smaller creatures. Dexterity Saving Throw:\
       \ DC 15, each creature in the bulette's destination space. Failure: 19 (3d12)\
-      \ Bludgeoning damage, and the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ Bludgeoning damage, and the target has the [[conditions#Prone|Prone]]\
       \ condition. Success: Half damage, and the target is pushed 5 feet straight\
       \ away from the bulette."
     "name": "Deadly Leap"

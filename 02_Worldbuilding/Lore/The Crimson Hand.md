@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - aethermoor
 - aquabyssos
 - both
@@ -24,20 +28,20 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
-
-
 # The Crimson Hand
+
 *Masters of Shadow and Convergence*
 
 ## Overview
 
-The Crimson Hand is a secretive organization that operates across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], making them unique among the factions vying for power as [[The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
+The Crimson Hand is a secretive organization that operates across both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], making them unique among the factions vying for power as [[12_Research/D&D_References/The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
 
 ## Origins and History
 
 ### The Founding Vision
+
 **Pre-Convergence Formation (approximately 50 years ago):**
-The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
+The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
 
 **Founding Principles:**
 - Convergence is inevitable and should be embraced rather than resisted
@@ -47,10 +51,11 @@ The Crimson Hand was founded by a cabal of individuals who experienced prophetic
 - Unity between worlds requires strong leadership unbound by old loyalties
 
 ### Early Development
+
 **The Shadow Awakening (Years 1-10):**
 - Discovery that shadow corruption could be controlled and weaponized
 - Recruitment of individuals with natural resistance or affinity to shadows
-- Establishment of communication networks between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], utilizing [[02_Worldbuilding/Lore/Crystal Forest]] resonance and [[02_Worldbuilding/Lore/Umbral Exchange]] shadow channels
+- Establishment of communication networks between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], utilizing [[12_Research/D&D_References/Crystal Forest]] resonance and [[12_Research/D&D_References/Umbral Exchange]] shadow channels
 - Development of memory manipulation techniques for recruitment and infiltration
 - Creation of safe houses and hidden sanctuaries in both worlds
 
@@ -69,30 +74,32 @@ The Crimson Hand was founded by a cabal of individuals who experienced prophetic
 - Positioning for ultimate control over merged reality
 
 ### Current Operations
+
 **The Final Phase (Present):**
 With convergence approaching rapidly, the Crimson Hand has moved from covert preparation to active manipulation of events. They now openly work to shape the convergence process, eliminate threats to their plans, and ensure their vision of post-merger reality becomes dominant.
 
 ## Organizational Structure
 
 ### The Inner Circle
+
 **The Crimson Triumvirate:**
 Three supreme leaders, each representing different aspects of the organization:
 
-**[[02_Worldbuilding/Lore/The Shadow Architect]]** (Aethermoor):
+**[[12_Research/D&D_References/The Shadow Architect]]** (Aethermoor):
 - Master of reality manipulation and dimensional engineering
 - Believes convergence can be controlled through precise reality surgery
 - Oversees technical aspects of convergence preparation
 - Commands shadow-enhanced crystal technology networks
 - Identity unknown even to most Crimson Hand members
 
-**[[02_Worldbuilding/Lore/The Memory Weaver]]** (Aquabyssos):
+**[[12_Research/D&D_References/The Memory Weaver]]** (Aquabyssos):
 - Expert in consciousness manipulation and collective psychology
 - Believes control over memory means control over reality itself
 - Oversees infiltration, recruitment, and information warfare
 - Commands networks of memory traders and consciousness manipulators
 - May be multiple individuals sharing collective identity
 
-**[[02_Worldbuilding/Lore/The Convergence Oracle]]** (Dimensional Entity):
+**[[12_Research/D&D_References/The Convergence Oracle]]** (Dimensional Entity):
 - Prophetic entity existing partially in both worlds
 - Provides visions and guidance for long-term planning
 - Oversees spiritual and mystical aspects of organization
@@ -102,21 +109,21 @@ Three supreme leaders, each representing different aspects of the organization:
 ### Regional Commands
 
 **Aethermoor Division - "The Crystal Shadows":**
-- **Commander**: High Shadow [[02_Worldbuilding/People/Vex Shadowthorn]] (publicly known as crystal merchant)
+- **Commander**: High Shadow [[12_Research/D&D_References/Vex Shadowthorn]] (publicly known as crystal merchant)
 - **Specialization**: Crystal technology corruption, political infiltration
 - **Membership**: ~2,000 active agents, 8,000 sympathizers
-- **Operations**: Manipulation of [[The Seven Shards]] seekers, corruption of [[02_Worldbuilding/Groups/The Crystal Throne]]
+- **Operations**: Manipulation of [[12_Research/D&D_References/The Seven Shards]] seekers, corruption of [[12_Research/D&D_References/The Crystal Throne]]
 - **Resources**: Corrupted crystal networks, shadow-enhanced magic items
 
 **Aquabyssos Division - "The Depth Whispers":**
-- **Commander**: Deep Voice [[02_Worldbuilding/Lore/Nyx Thalassic]] (publicly known as memory merchant)
+- **Commander**: Deep Voice [[12_Research/D&D_References/Nyx Thalassic]] (publicly known as memory merchant)
 - **Specialization**: Memory warfare, pressure-based infiltration
 - **Membership**: ~1,500 active agents, 6,000 sympathizers
-- **Operations**: Manipulation of [[02_Worldbuilding/Lore/Memory Alteration Consequences]] technology, infiltration of [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Operations**: Manipulation of [[12_Research/D&D_References/Memory Alteration Consequences]] technology, infiltration of [[12_Research/D&D_References/Parliament of Echoes]]
 - **Resources**: Shadow-enhanced memory crystals, corrupted depth facilities
 
 **Convergence Division - "The Reality Shapers":**
-- **Commander**: Flux Lord [[02_Worldbuilding/Lore/Zephyr Voidtouch]] (exists in multiple realities simultaneously)
+- **Commander**: Flux Lord [[12_Research/D&D_References/Zephyr Voidtouch]] (exists in multiple realities simultaneously)
 - **Specialization**: Dimensional manipulation, convergence acceleration
 - **Membership**: ~500 active agents with dimensional capabilities
 - **Operations**: Direct manipulation of convergence zones, reality stability undermining
@@ -164,21 +171,21 @@ The Crimson Hand sees themselves as the only group with the vision, knowledge, a
 - Focus on practical control of convergence process
 - Willing to work with existing power structures when beneficial
 - Prefer subtle manipulation to direct confrontation
-- Led by [[02_Worldbuilding/Lore/The Memory Weaver]] and regional commanders
+- Led by [[12_Research/D&D_References/The Memory Weaver]] and regional commanders
 - Approximately 60% of organization membership
 
 **The Transcendence Faction:**
 - Seek fundamental transformation of reality and consciousness
 - Believe convergence is opportunity for evolutionary leap
 - More willing to use dramatic and destructive methods
-- Led by [[02_Worldbuilding/Lore/The Convergence Oracle]] and mystical elements
+- Led by [[12_Research/D&D_References/The Convergence Oracle]] and mystical elements
 - Approximately 25% of organization membership
 
 **The Domination Faction:**
 - Focus on establishing absolute control over post-convergence reality
 - View current conflicts as preparation for ultimate conquest
 - Prefer direct action and overwhelming force
-- Led by [[02_Worldbuilding/Lore/The Shadow Architect]] and military elements
+- Led by [[12_Research/D&D_References/The Shadow Architect]] and military elements
 - Approximately 15% of organization membership
 
 ## Methods and Tactics
@@ -235,14 +242,15 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 ## Resources and Capabilities
 
 ### Financial Assets
+
 **Estimated Total Wealth**: 500+ million pressure-credits equivalent
 - **Legitimate Holdings**: ~40% through front companies and investments
 - **Shadow Economy**: ~35% through illegal activities and black markets
 - **Resource Extraction**: ~25% through direct control of strategic assets
 
 **Major Economic Holdings:**
-- Crystal mining operations in [[02_Worldbuilding/Places/Aethermoor]]
-- Memory trading networks in [[02_Worldbuilding/Places/Aquabyssos]]
+- Crystal mining operations in [[12_Research/D&D_References/Aethermoor]]
+- Memory trading networks in [[12_Research/D&D_References/Aquabyssos]]
 - Cross-dimensional shipping and communication services
 - Shadow-enhanced technology development and manufacturing
 - Financial services and currency exchange operations
@@ -276,7 +284,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - Complete infiltration of at least 40% of major governmental communications
 - Access to ~60% of major commercial and financial information systems
 - Network of informants in virtually every significant organization
-- Prophetic intelligence through [[02_Worldbuilding/Lore/The Convergence Oracle]]'s visions
+- Prophetic intelligence through [[12_Research/D&D_References/The Convergence Oracle]]'s visions
 - Cross-dimensional intelligence gathering capabilities
 
 ## Current Operations and Plans
@@ -284,14 +292,14 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 ### Active Campaigns
 
 **The Shard Manipulation Project:**
-- Objective: Gain control of multiple [[The Seven Shards]] before convergence
+- Objective: Gain control of multiple [[12_Research/D&D_References/The Seven Shards]] before convergence
 - Methods: Corruption of current wielders, manipulation of seeking factions
 - Status: Successfully influenced 3 of 7 Shhard holders, actively pursuing 2 more
 - Timeline: Complete control desired within 18 months
 - Resources: 40% of Aethermoor division committed to this operation
 
 **The Memory Sovereignty Initiative:**
-- Objective: Achieve dominant control over [[02_Worldbuilding/Lore/Memory Alteration Consequences]] technology
+- Objective: Achieve dominant control over [[12_Research/D&D_References/Memory Alteration Consequences]] technology
 - Methods: Infiltration of research facilities, corruption of key scientists
 - Status: Significant influence over 65% of memory technology development
 - Timeline: Market dominance expected within 12 months
@@ -308,7 +316,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 **Short-term Goals (6-12 months):**
 - Eliminate or corrupt key opposition leaders in both worlds
-- Achieve majority control over [[The Seven Shards]]
+- Achieve majority control over [[12_Research/D&D_References/The Seven Shards]]
 - Establish dominant position in memory alteration markets
 - Create sufficient reality instability to force rapid convergence
 - Position assets for post-convergence power consolidation
@@ -331,25 +339,25 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 ### Primary Adversaries
 
-**[[02_Worldbuilding/Lore/The Purist Coalition]]:**
+**[[12_Research/D&D_References/The Purist Coalition]]:**
 - **Conflict Nature**: Ideological opposition to shadow corruption integration
 - **Threat Level**: High - significant military and political resources
 - **Crimson Hand Response**: Infiltration, memory manipulation, targeted assassination
 - **Status**: ~30% of Coalition leadership compromised or eliminated
 
-**[[02_Worldbuilding/Lore/The Reality Guards]]:**
+**[[12_Research/D&D_References/The Reality Guards]]:**
 - **Conflict Nature**: Direct opposition to convergence acceleration
 - **Threat Level**: Medium - specialized anti-dimensional capabilities
 - **Crimson Hand Response**: Reality distortion attacks, corruption of equipment
 - **Status**: Significant operational disruption achieved
 
-**[[02_Worldbuilding/Lore/The Unity Seekers]]:**
+**[[12_Research/D&D_References/The Unity Seekers]]:**
 - **Conflict Nature**: Competing vision for convergence management
 - **Threat Level**: Medium - popular support but limited resources
 - **Crimson Hand Response**: Ideological subversion, leadership corruption
 - **Status**: Some success in redirecting Unity Seeker activities
 
-**[[02_Worldbuilding/Lore/The Memory Purist Movement]]:**
+**[[12_Research/D&D_References/The Memory Purist Movement]]:**
 - **Conflict Nature**: Opposition to consciousness manipulation
 - **Threat Level**: Low-Medium - grassroots opposition with moral authority
 - **Crimson Hand Response**: Counter-propaganda, selective elimination
@@ -377,7 +385,8 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 ## Connection to Campaign Elements
 
-### Relationship to [[The Convergence Point]]
+### Relationship to [[12_Research/D&D_References/The Convergence Point]]
+
 **Central Role:**
 The Crimson Hand views itself as the architect of convergence, actively working to control and direct the process. Their actions directly influence:
 - Speed and nature of convergence acceleration
@@ -386,7 +395,8 @@ The Crimson Hand views itself as the architect of convergence, actively working 
 - Integration of shadow corruption into new civilization
 - Response of other factions to convergence threat
 
-### Impact on [[The Real Marina]]
+### Impact on [[12_Research/D&D_References/The Real Marina]]
+
 **Target of Interest:**
 Marina's unique nature as dimensional anchor makes her extremely valuable to Crimson Hand objectives:
 - They recognize her as key to controlling convergence outcomes
@@ -395,9 +405,10 @@ Marina's unique nature as dimensional anchor makes her extremely valuable to Cri
 - Shadow corruption exposure to make her more amenable to their influence
 - Potential recruitment as ultimate prize for organization
 
-### Connection to [[The Seven Shards]]
+### Connection to [[12_Research/D&D_References/The Seven Shards]]
+
 **Active Manipulation:**
-The organization views [[The Seven Shards]] as essential tools for convergence control:
+The organization views [[12_Research/D&D_References/The Seven Shards]] as essential tools for convergence control:
 - Systematic corruption of current Shard wielders
 - Attempts to gather multiple Shards under organization control
 - Shadow enhancement of Shard effects to increase power
@@ -405,6 +416,7 @@ The organization views [[The Seven Shards]] as essential tools for convergence c
 - Long-term goal of unifying Shards under Crimson Hand authority
 
 ### Shadow Corruption Mastery
+
 **Unique Understanding:**
 The Crimson Hand's mastery of shadow corruption gives them advantages over other factions:
 - Understanding of corruption's true nature and purpose
@@ -416,24 +428,29 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ## DM Secrets and Hidden Information
 
 ### The Ultimate Truth
+
 > [!warning] DM Only
-> The Crimson Hand was originally founded by a fragment of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) that separated during [[The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
+> The Crimson Hand was originally founded by a fragment of [[12_Research/D&D_Statblocks/The Crimson Sage]] (Aetheron) that separated during [[12_Research/D&D_References/The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
 
 ### The Shadow Corruption Source
+
 > [!warning] DM Secret
-> The shadow corruption that the Crimson Hand manipulates so effectively is actually memories and consciousness fragments from [[The Deep Mother]]'s dreams bleeding through dimensional barriers. Their "mastery" of shadows is really a form of communion with divine unconsciousness. This connection makes them simultaneously more powerful and more unstable than they realize.
+> The shadow corruption that the Crimson Hand manipulates so effectively is actually memories and consciousness fragments from [[12_Research/D&D_References/The Deep Mother]]'s dreams bleeding through dimensional barriers. Their "mastery" of shadows is really a form of communion with divine unconsciousness. This connection makes them simultaneously more powerful and more unstable than they realize.
 
 ### The Convergence Oracle's Nature
+
 > [!warning] Hidden Knowledge
-> [[02_Worldbuilding/Lore/The Convergence Oracle]] is actually a collective consciousness formed from individuals who died during convergence experiments. Their prophetic abilities come from existing partially outside time in the spaces between dimensions. They genuinely want to help guide convergence successfully but have been gradually corrupted by the same divine fragment that founded the organization.
+> [[12_Research/D&D_References/The Convergence Oracle]] is actually a collective consciousness formed from individuals who died during convergence experiments. Their prophetic abilities come from existing partially outside time in the spaces between dimensions. They genuinely want to help guide convergence successfully but have been gradually corrupted by the same divine fragment that founded the organization.
 
 ### The Memory Weaver's Identity
+
 > [!warning] Secret Truth
-> [[02_Worldbuilding/Lore/The Memory Weaver]] is not multiple individuals sharing identity, but rather [[02_Worldbuilding/Lore/Memory Merchant Valeria]] who has been using memory technology to create multiple personality aspects and distribute her consciousness. She maintains control over the Aquabyssos division by literally being multiple trusted leaders simultaneously, though the process is slowly fragmenting her original personality.
+> [[12_Research/D&D_References/The Memory Weaver]] is not multiple individuals sharing identity, but rather [[12_Research/D&D_References/Memory Merchant Valeria]] who has been using memory technology to create multiple personality aspects and distribute her consciousness. She maintains control over the Aquabyssos division by literally being multiple trusted leaders simultaneously, though the process is slowly fragmenting her original personality.
 
 ## Adventure Hooks and Campaign Integration
 
 ### Early Campaign
+
 - Investigate mysterious shadow corruption incidents with organized patterns
 - Encounter Crimson Hand recruitment attempts or front organizations
 - Deal with memory manipulation affecting community members
@@ -441,13 +458,15 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 - Prevent sabotage operations targeting reality stabilization efforts
 
 ### Mid Campaign
+
 - Infiltrate Crimson Hand cells to gather intelligence
 - Protect key individuals from corruption or recruitment attempts
-- Disrupt major operations targeting [[The Seven Shards]] or convergence acceleration
+- Disrupt major operations targeting [[12_Research/D&D_References/The Seven Shards]] or convergence acceleration
 - Navigate complex moral choices about working with or against the organization
 - Confront corrupted authority figures revealed to be Crimson Hand operatives
 
 ### Late Campaign
+
 - Direct confrontation with regional commanders or Inner Circle members
 - Race to prevent Crimson Hand from achieving control over convergence process
 - Make crucial decisions about the organization's fate during convergence
@@ -457,32 +476,36 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Aethermoor regional commander
-- [[02_Worldbuilding/Lore/The Shadow Architect]] - Inner Circle member and master reality manipulator
-- [[02_Worldbuilding/Lore/The Memory Weaver]] - Inner Circle member controlling Aquabyssos operations
-- [[02_Worldbuilding/Lore/The Convergence Oracle]] - Prophetic entity guiding organization strategy
-- [[02_Worldbuilding/Lore/Nyx Thalassic]] - Aquabyssos division commander
+
+- [[12_Research/D&D_References/Vex Shadowthorn]] - Aethermoor regional commander
+- [[12_Research/D&D_References/The Shadow Architect]] - Inner Circle member and master reality manipulator
+- [[12_Research/D&D_References/The Memory Weaver]] - Inner Circle member controlling Aquabyssos operations
+- [[12_Research/D&D_References/The Convergence Oracle]] - Prophetic entity guiding organization strategy
+- [[12_Research/D&D_References/Nyx Thalassic]] - Aquabyssos division commander
 
 ### Important Locations
-- [[02_Worldbuilding/Lore/The Shadow Nexus]] - Hidden cross-dimensional command center
-- [[02_Worldbuilding/Lore/Corruption Gardens]] - Research and weaponization facilities
-- [[02_Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
-- [[02_Worldbuilding/Lore/Reality Laboratories]] - Convergence research installations
-- [[02_Worldbuilding/Lore/The Crimson Sanctuaries]] - Safe houses and recruitment centers
+
+- [[12_Research/D&D_References/The Shadow Nexus]] - Hidden cross-dimensional command center
+- [[12_Research/D&D_References/Corruption Gardens]] - Research and weaponization facilities
+- [[12_Research/D&D_References/The Memory Vaults]] - Consciousness storage and manipulation centers
+- [[12_Research/D&D_References/Reality Laboratories]] - Convergence research installations
+- [[12_Research/D&D_References/The Crimson Sanctuaries]] - Safe houses and recruitment centers
 
 ### Related Events
-- [[02_Worldbuilding/Lore/The Great Infiltration]] - Organization's expansion into both worlds
-- [[02_Worldbuilding/Lore/The Shadow Awakening]] - Discovery of corruption control techniques
-- [[02_Worldbuilding/Lore/The Reality Destabilization Campaign]] - Current convergence acceleration efforts
-- [[02_Worldbuilding/Lore/The Shard Manipulation Project]] - Attempts to control divine artifacts
-- [[02_Worldbuilding/Lore/The Final Convergence]] - Organization's ultimate goal achievement
+
+- [[12_Research/D&D_References/The Great Infiltration]] - Organization's expansion into both worlds
+- [[12_Research/D&D_References/The Shadow Awakening]] - Discovery of corruption control techniques
+- [[12_Research/D&D_References/The Reality Destabilization Campaign]] - Current convergence acceleration efforts
+- [[12_Research/D&D_References/The Shard Manipulation Project]] - Attempts to control divine artifacts
+- [[12_Research/D&D_References/The Final Convergence]] - Organization's ultimate goal achievement
 
 ### Strategic Assets
-- [[02_Worldbuilding/Lore/Shadow Blade Networks]] - Dimensional weaponry systems
-- [[02_Worldbuilding/Lore/Memory Disruptor Arrays]] - Consciousness warfare technology
-- [[02_Worldbuilding/Lore/Reality Anchor Bombs]] - Dimensional manipulation devices
-- [[02_Worldbuilding/Lore/The Corruption Codex]] - Master guide to shadow manipulation
-- [[02_Worldbuilding/Lore/The Convergence Prophecies]] - Oracle's visions and predictions
+
+- [[12_Research/D&D_References/Shadow Blade Networks]] - Dimensional weaponry systems
+- [[12_Research/D&D_References/Memory Disruptor Arrays]] - Consciousness warfare technology
+- [[12_Research/D&D_References/Reality Anchor Bombs]] - Dimensional manipulation devices
+- [[12_Research/D&D_References/The Corruption Codex]] - Master guide to shadow manipulation
+- [[12_Research/D&D_References/The Convergence Prophecies]] - Oracle's visions and predictions
 
 ---
 
@@ -492,24 +515,24 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 
 ## Connections
 
-- [[Crystal Festival]]
-- [[Crystal Garden]]
-- [[Customs House]]
-- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
-- [[Healing Two Worlds]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[Possessed Noble Coterie]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[The Convergence Point]]
-- [[The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
-- [[The Real Marina]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Lore/Throne Room]]
+- [[12_Research/D&D_References/Crystal Festival]]
+- [[12_Research/D&D_References/Crystal Garden]]
+- [[12_Research/D&D_References/Customs House]]
+- [[12_Research/D&D_References/Desperate Plague Victim]]
+- [[12_Research/D&D_References/Healing Two Worlds]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/Possessed Noble Coterie]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/Temple of the First Tide]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Forgetting Bomb]]
+- [[12_Research/D&D_References/The Memory Weapon Arms Race]]
+- [[12_Research/D&D_References/The Real Marina]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Throne Room]]
 
 ## Player-Facing Summary
 
@@ -534,9 +557,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[The Great Crystallization]]
-- [[02_Worldbuilding/Lore/Umbral Exchange]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Memory Alteration Consequences]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/Umbral Exchange]]
+- [[12_Research/D&D_References/Aethermoor]]

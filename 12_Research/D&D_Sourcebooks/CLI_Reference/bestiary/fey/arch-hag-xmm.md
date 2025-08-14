@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-arch-hag-xmm-arch-hag-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/arch-hag-xmm|Arch-hag]]
+# [[arch-hag-xmm|Arch-hag]]
 *Source: Monster Manual (2024) p. 21*  
 
 ## Arch-hag
@@ -90,15 +90,15 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "dexterity": !!int "9"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+14"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+21"
 "damage_resistances": "cold, fire, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 21"
 "languages": "all"
 "cr": "21"
@@ -106,23 +106,23 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 19): [[/03_Mechanics/CLI/spells/augury-xphb|Augury]], [[/03_Mechanics/CLI/spells/find-familiar-xphb|Find Familiar]],\
-      \ [[/03_Mechanics/CLI/spells/identify-xphb|Identify]], [[/03_Mechanics/CLI/spells/locate-object-xphb|Locate Object]],\
-      \ [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]], or [[/03_Mechanics/CLI/spells/unseen-servant-xphb|Unseen Servant]].\
-      \ The hag must finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]\
+      \ save DC 19): [[augury-xphb|Augury]], [[find-familiar-xphb|Find Familiar]],\
+      \ [[identify-xphb|Identify]], [[locate-object-xphb|Locate Object]],\
+      \ [[scrying-xphb|Scrying]], or [[unseen-servant-xphb|Unseen Servant]].\
+      \ The hag must finish a [[long-rest-xphb|Long Rest]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "If the hag fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
-  - "desc": "The hag has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The hag has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "When the hag drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
+  - "desc": "When the hag drops to 0 [[hit-points-xphb|Hit Points]],\
       \ it dies only if it is within 30 feet of its anathema (a thing the DM chooses\
-      \ as the hag's most hated thing). Otherwise, the hag drops to 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ as the hag's most hated thing). Otherwise, the hag drops to 1 [[hit-points-xphb|Hit Point]]\
       \ and teleports to a harmless demiplane, and it can't return to the plane it\
       \ left for 2d6 days. When the hag teleports away, each creature within 60 feet\
-      \ of the space it left is cursed. Until the curse ends, a creature has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ of the space it left is cursed. Until the curse ends, a creature has [[disadvantage-xphb|Disadvantage]]\
       \ on ability checks and saving throws, and the hag knows its location anywhere\
       \ in the multiverse."
     "name": "Spiteful Escape"
@@ -131,27 +131,27 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +14, reach 10 ft. or range 60 ft. Hit:\
       \ 17 (3d6 + 7) Force damage. If the target is a Large or smaller creature, it\
-      \ has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
+      \ has the [[conditions#Prone|Prone]] condition."
     "name": "Spectral Claw"
-  - "desc": "Dexterity Saving Throw: DC 22, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 22, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 32 (5d12) Lightning damage. Success: Half damage. Failure or\
       \ Success: The target is cursed until the end of the hag's next turn. The target\
       \ can't take Reactions until the curse ends."
     "name": "Crackling Wave"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel\
-      \ Magic]], [[/03_Mechanics/CLI/spells/hypnotic-pattern-xphb|Hypnotic Pattern]]\n\
-      \n2/day each: [[/03_Mechanics/CLI/spells/mass-suggestion-xphb|Mass Suggestion]],\
-      \ [[/03_Mechanics/CLI/spells/modify-memory-xphb|Modify Memory]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]]"
+      \ will: [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[dimension-door-xphb|Dimension Door]], [[dispel-magic-xphb|Dispel\
+      \ Magic]], [[hypnotic-pattern-xphb|Hypnotic Pattern]]\n\
+      \n2/day each: [[mass-suggestion-xphb|Mass Suggestion]],\
+      \ [[modify-memory-xphb|Modify Memory]], [[plane-shift-xphb|Plane Shift]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Each creature cursed by the hag and within 60 feet of it takes 14 (4d6)\
       \ Lightning damage."
     "name": "Witch Strike"
 "reactions":
-  - "desc": "The hag casts [[/03_Mechanics/CLI/spells/counterspell-xphb|Counterspell]]\
+  - "desc": "The hag casts [[counterspell-xphb|Counterspell]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting. If the target fails its saving throw, it is cursed until the\
       \ end of its next turn. Until the curse ends, the target can't cast spells with\
@@ -160,8 +160,8 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
 "legendary_actions":
   - "desc": "The hag makes one Spectral Claw attack."
     "name": "Hag's Swipe"
-  - "desc": "The hag uses Spellcasting to cast [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]]\
-      \ or [[/03_Mechanics/CLI/spells/hypnotic-pattern-xphb|Hypnotic Pattern]]. The\
+  - "desc": "The hag uses Spellcasting to cast [[dimension-door-xphb|Dimension Door]]\
+      \ or [[hypnotic-pattern-xphb|Hypnotic Pattern]]. The\
       \ hag can't take this action again until the start of its next turn."
     "name": "Malicious Magic"
 "regional_effects":
@@ -170,13 +170,13 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
     "name": ""
   - "desc": "- Lapsus Linguae. Creatures (excluding the hag and its allies) within\
       \ 1 mile of the lair subtract d10 from any ability check they make when they\
-      \ take the [[/03_Mechanics/CLI/actions#Influence|Influence]] action.  \n- Meddlesome\
-      \ Magic. Whenever a creature other than the hag or its allies finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long\
+      \ take the [[actions#Influence|Influence]] action.  \n- Meddlesome\
+      \ Magic. Whenever a creature other than the hag or its allies finishes a [[long-rest-xphb|Long\
       \ Rest]] while within 1 mile\
       \ of the lair, the next time that creature casts a spell using a spell slot,\
-      \ it also casts [[/03_Mechanics/CLI/spells/confusion-xphb|Confusion]] centered\
+      \ it also casts [[confusion-xphb|Confusion]] centered\
       \ on itself. The spell uses the creature's spellcasting ability and doesn't\
-      \ require [[/03_Mechanics/CLI/conditions#Concentration|Concentration]].  "
+      \ require [[conditions#Concentration|Concentration]].  "
     "name": ""
   - "desc": "If the arch-hag is destroyed or moves its lair elsewhere, these effects\
       \ end immediately."

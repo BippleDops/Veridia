@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-institute-for-reality-studies-researchers-institute-for-reality-studies-researchers.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-institute-for-reality-studies-researchers-institute-for-reality-studies-researchers.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Institute for Reality Studies Researchers]]
+- [[Institute for Reality Studies Researchers]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Void Currents]]
+- [[Void Currents]]

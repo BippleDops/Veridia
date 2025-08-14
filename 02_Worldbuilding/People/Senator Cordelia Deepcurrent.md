@@ -15,22 +15,19 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-senator-cordelia-deepcurrent-senator-cordelia-deepcurrent.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-senator-cordelia-deepcurrent-senator-cordelia-deepcurrent.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
+- [[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
 
 
 ## Connections
 
 - [[Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/People/Mayor Thompson]]
-- [[02_Worldbuilding/People/Senator Marius]]
+- [[Mayor Thompson]]
+- [[Senator Marius]]
 
 ## Player-Facing Summary
 

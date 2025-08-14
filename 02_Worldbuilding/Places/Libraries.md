@@ -15,15 +15,12 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-libraries-libraries.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-libraries-libraries.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
+- [[Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
 
 
 ## Connections

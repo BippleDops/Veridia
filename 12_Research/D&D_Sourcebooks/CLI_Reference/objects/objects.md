@@ -16,17 +16,17 @@ status: active
 
 # Index of Objects
 
-- [[./ballista-xdmg|Ballista]]
-- [[./cannon-xdmg|Cannon]]
-- [[./flamethrower-coach-xdmg|Flamethrower Coach]]
-- [[./generic-object|Generic Object]]
-- [[./keg-launcher-xdmg|Keg Launcher]]
-- [[./lightning-cannon-xdmg|Lightning Cannon]]
-- [[./mangonel-xdmg|Mangonel]]
-- [[./ram-xdmg|Ram]]
-- [[./siege-tower-xdmg|Siege Tower]]
-- [[./suspended-cauldron-xdmg|Suspended Cauldron]]
-- [[./trebuchet-xdmg|Trebuchet]]
+- [[ballista-xdmg|Ballista]]
+- [[cannon-xdmg|Cannon]]
+- [[flamethrower-coach-xdmg|Flamethrower Coach]]
+- [[generic-object|Generic Object]]
+- [[keg-launcher-xdmg|Keg Launcher]]
+- [[lightning-cannon-xdmg|Lightning Cannon]]
+- [[mangonel-xdmg|Mangonel]]
+- [[ram-xdmg|Ram]]
+- [[siege-tower-xdmg|Siege Tower]]
+- [[suspended-cauldron-xdmg|Suspended Cauldron]]
+- [[trebuchet-xdmg|Trebuchet]]
 
 ## Player-Facing Summary
 

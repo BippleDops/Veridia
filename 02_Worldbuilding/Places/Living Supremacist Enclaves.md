@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-living-supremacist-enclaves-living-supremacist-enclaves.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-living-supremacist-enclaves-living-supremacist-enclaves.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Living Supremacist Enclaves]]
+- [[12_Research/D&D_References/Living Supremacist Enclaves]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[12_Research/D&D_References/The Eternal Senate]]

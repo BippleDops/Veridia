@@ -15,11 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
-
 ## Overview
 
 TODO
@@ -46,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

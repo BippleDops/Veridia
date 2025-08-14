@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/antitoxin-xphb|Antitoxin]], [[/03_Mechanics/CLI/items/candle-xphb|Candle]], [[/03_Mechanics/CLI/items/healers-kit-xphb|Healer's Kit]], [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]]  
+- **Craft.** [[antitoxin-xphb|Antitoxin]], [[candle-xphb|Candle]], [[healers-kit-xphb|Healer's Kit]], [[potion-of-healing-xdmg|Potion of Healing]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

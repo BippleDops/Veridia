@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mage-hunter-scc-mage-hunter-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/mage-hunter-scc|Mage Hunter]]
+# [[mage-hunter-scc|Mage Hunter]]
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  
 
 Mage hunters are hideous spider-legged creatures employed by the Oriq to pursue magic-wielders. These creatures can naturally sense magic via the glowing purple spines on their backs.
@@ -54,13 +54,13 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
   - "wisdom": !!int "6"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Prone|prone]]"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 19"
 "languages": "understands Common but can't speak"
 "cr": "5"
@@ -78,15 +78,15 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
       \ (2d10 + 4) slashing damage."
     "name": "Claw (Hunter Form Only)"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22\
-      \ (4d8 + 4) piercing damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 15). Until this grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
+      \ (4d8 + 4) piercing damage, and the target is [[conditions#Grappled|grappled]]\
+      \ (escape DC 15). Until this grapple ends, the target is [[conditions#Restrained|restrained]],\
       \ and the hunter can't make a Tail attack against another target."
     "name": "Tail"
   - "desc": "The hunter emits a pulse of energy that helps it better locate its magical\
       \ quarry. Each creature within 120 feet of the hunter that has the ability to\
       \ cast spells must succeed on a DC 14 Wisdom saving throw or be mystically marked\
       \ by the hunter for 1 hour.\n\nWhile marked, a creature can't become hidden\
-      \ from the hunter and gains no benefit from the [[/03_Mechanics/CLI/conditions#Invisible|invisible]]\
+      \ from the hunter and gains no benefit from the [[conditions#Invisible|invisible]]\
       \ condition against the hunter. Additionally, while a marked creature is on\
       \ the same plane of existence as the hunter, the hunter always knows the distance\
       \ and direction to the creature."

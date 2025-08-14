@@ -46,13 +46,13 @@ Mind flayers can turn any nonmagical sword into a mind blade. Only one creature 
 ## Mind Blade Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
 - **Weight**: 6.0 lbs.
 
 ### Mind Blade Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Mind Blade Longsword
@@ -60,25 +60,25 @@ Mind flayers can turn any nonmagical sword into a mind blade. Only one creature 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Mind Blade Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Mind Blade Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Mind Blade Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

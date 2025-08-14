@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,18 +15,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_References/The Crown]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

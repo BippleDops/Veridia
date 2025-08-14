@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-theological-education-theological-education.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-theological-education-theological-education.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Theological Education]]
+- [[Theological Education]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]

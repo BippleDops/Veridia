@@ -23,26 +23,26 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[/03_Mechanics/CLI/deities/dwarven-abbathor-mtf|Abbathor]] | NE | Greed | Trickery | Jeweled dagger, point down |
-| [[/03_Mechanics/CLI/deities/dwarven-berronar-truesilver-mtf|Berronar Truesilver]] | LG | Hearth, home, truth | Life, Light | Intertwined silver rings |
-| [[/03_Mechanics/CLI/deities/dwarven-clangeddin-silverbeard-mtf|Clangeddin Silverbeard]] | LG | War, strategy | War | Crossed silver battleaxes |
-| [[/03_Mechanics/CLI/deities/dwarven-dugmaren-brightmantle-mtf|Dugmaren Brightmantle]] | CG | Discovery | Knowledge | Open book |
-| [[/03_Mechanics/CLI/deities/dwarven-dumathoin-mtf|Dumathoin]] | N | Buried secrets | Grave,* Knowledge | Gemstone in a mountain |
-| [[/03_Mechanics/CLI/deities/dwarven-gorm-gulthyn-mtf|Gorm Gulthyn]] | LG | Vigilance | War | Bronze half-mask |
-| [[/03_Mechanics/CLI/deities/dwarven-haela-brightaxe-mtf|Haela Brightaxe]] | CG | Combat prowess, luck in battle | War | Upright sword with blade sheathed in flame |
-| [[/03_Mechanics/CLI/deities/dwarven-hanseath-mtf|Hanseath]] | CN | Festivity, brewing, song | Trickery, War | Beer stein |
-| [[/03_Mechanics/CLI/deities/dwarven-marthammor-duin-mtf|Marthammor Duin]] | NG | Explorers, wanderers, the lost | Nature, Trickery | Upright mace in front of a tall boot |
-| [[/03_Mechanics/CLI/deities/dwarven-moradin-mtf|Moradin]] | LG | Primary deity of dwarves | Forge,* Knowledge | Hammer and anvil |
-| [[/03_Mechanics/CLI/deities/dwarven-muamman-duathal-mtf|Muamman Duathal]] | NG | Storms, travel | Tempest | Mace held in gauntlets |
-| [[/03_Mechanics/CLI/deities/dwarven-mya-mtf|Mya]] | NG | Clan, family, wisdom | Knowledge, Life | A faceless mother figure |
-| [[/03_Mechanics/CLI/deities/dwarven-roknar-mtf|Roknar]] | NE | Lies, intrigue | Trickery | Hands filled with coins |
-| [[/03_Mechanics/CLI/deities/dwarven-sharindlar-mtf|Sharindlar]] | CG | Healing, love | Life | Burning needle |
-| [[/03_Mechanics/CLI/deities/dwarven-thard-harr-mtf|Thard Harr]] | CG | Wilderness, hunting | Nature | Two clawed gauntlets |
-| [[/03_Mechanics/CLI/deities/dwarven-tharmekhul-mtf|Tharmekhûl]] | N | Fire, forges, molten rock | Forge,* Light | Fiery axe |
-| [[/03_Mechanics/CLI/deities/dwarven-thautam-mtf|Thautam]] | N | Mysteries, darkness, lost treasures | Knowledge, Trickery | Blindfold |
-| [[/03_Mechanics/CLI/deities/dwarven-ulaa-mtf|Ulaa]] | LG | Mining, quarrying | Forge* | A miner's pick |
-| [[/03_Mechanics/CLI/deities/dwarven-valkauna-mtf|Valkauna]] | LN | Oaths, birth, aging, death | Grave,* Life | A silver ewer |
-| [[/03_Mechanics/CLI/deities/dwarven-vergadain-mtf|Vergadain]] | N | Luck, wealth | Trickery | Gold coin bearing a dwarf's face |
+| [[dwarven-abbathor-mtf|Abbathor]] | NE | Greed | Trickery | Jeweled dagger, point down |
+| [[dwarven-berronar-truesilver-mtf|Berronar Truesilver]] | LG | Hearth, home, truth | Life, Light | Intertwined silver rings |
+| [[dwarven-clangeddin-silverbeard-mtf|Clangeddin Silverbeard]] | LG | War, strategy | War | Crossed silver battleaxes |
+| [[dwarven-dugmaren-brightmantle-mtf|Dugmaren Brightmantle]] | CG | Discovery | Knowledge | Open book |
+| [[dwarven-dumathoin-mtf|Dumathoin]] | N | Buried secrets | Grave,* Knowledge | Gemstone in a mountain |
+| [[dwarven-gorm-gulthyn-mtf|Gorm Gulthyn]] | LG | Vigilance | War | Bronze half-mask |
+| [[dwarven-haela-brightaxe-mtf|Haela Brightaxe]] | CG | Combat prowess, luck in battle | War | Upright sword with blade sheathed in flame |
+| [[dwarven-hanseath-mtf|Hanseath]] | CN | Festivity, brewing, song | Trickery, War | Beer stein |
+| [[dwarven-marthammor-duin-mtf|Marthammor Duin]] | NG | Explorers, wanderers, the lost | Nature, Trickery | Upright mace in front of a tall boot |
+| [[dwarven-moradin-mtf|Moradin]] | LG | Primary deity of dwarves | Forge,* Knowledge | Hammer and anvil |
+| [[dwarven-muamman-duathal-mtf|Muamman Duathal]] | NG | Storms, travel | Tempest | Mace held in gauntlets |
+| [[dwarven-mya-mtf|Mya]] | NG | Clan, family, wisdom | Knowledge, Life | A faceless mother figure |
+| [[dwarven-roknar-mtf|Roknar]] | NE | Lies, intrigue | Trickery | Hands filled with coins |
+| [[dwarven-sharindlar-mtf|Sharindlar]] | CG | Healing, love | Life | Burning needle |
+| [[dwarven-thard-harr-mtf|Thard Harr]] | CG | Wilderness, hunting | Nature | Two clawed gauntlets |
+| [[dwarven-tharmekhul-mtf|Tharmekhûl]] | N | Fire, forges, molten rock | Forge,* Light | Fiery axe |
+| [[dwarven-thautam-mtf|Thautam]] | N | Mysteries, darkness, lost treasures | Knowledge, Trickery | Blindfold |
+| [[dwarven-ulaa-mtf|Ulaa]] | LG | Mining, quarrying | Forge* | A miner's pick |
+| [[dwarven-valkauna-mtf|Valkauna]] | LN | Oaths, birth, aging, death | Grave,* Life | A silver ewer |
+| [[dwarven-vergadain-mtf|Vergadain]] | N | Luck, wealth | Trickery | Gold coin bearing a dwarf's face |
 ^dwarf-deities-the-mordinsamman
 
 *Appears in *Xanathar's Guide to Everything*

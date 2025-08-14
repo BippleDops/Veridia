@@ -21,12 +21,12 @@ status: active
 ## Blindsight
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]] even if you have the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition or are in [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]. Moreover, in that range, you can see something that has the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[cover-xphb|Total Cover]] even if you have the [[conditions#Blinded|Blinded]] condition or are in [[darkness-xphb|Darkness]]. Moreover, in that range, you can see something that has the [[conditions#Invisible|Invisible]] condition.
 
 ## Darkvision
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-If you have Darkvision, you can see in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] within a specified range as if it were [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] and in [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] within that range as if it were [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]. You discern colors in that [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] only as shades of gray.
+If you have Darkvision, you can see in [[dim-light-xphb|Dim Light]] within a specified range as if it were [[bright-light-xphb|Bright Light]] and in [[darkness-xphb|Darkness]] within that range as if it were [[dim-light-xphb|Dim Light]]. You discern colors in that [[darkness-xphb|Darkness]] only as shades of gray.
 
 ## Tremorsense
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -40,9 +40,9 @@ _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems 
 
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-- **Darkness.** You can see in normal and magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]].  
-- **Invisibility.** You see creatures and objects that have the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition.  
-- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throws]] against them.  
+- **Darkness.** You can see in normal and magical [[darkness-xphb|Darkness]].  
+- **Invisibility.** You see creatures and objects that have the [[conditions#Invisible|Invisible]] condition.  
+- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [[saving-throw-xphb|saving throws]] against them.  
 - **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  
 - **Ethereal Plane.** You see into the Ethereal Plane.
 

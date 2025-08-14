@@ -21,7 +21,7 @@ world: Both
 
 
 # Way of the Kensei
-*[[./monk-xphb|Monk]]: Monk Subclass*  
+*[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
@@ -78,7 +78,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Agile Parry**  
 
-    If you make an unarmed strike as part of the [[/03_Mechanics/CLI/actions#Attack|Attack]] action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].  
+    If you make an unarmed strike as part of the [[actions#Attack|Attack]] action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [[conditions#Incapacitated|incapacitated]].  
 
 - **Kensei's Shot**  
 
@@ -87,7 +87,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 #### Way of the Brush
 _Source: Xanathar's Guide to Everything_
 
-You gain proficiency with your choice of [[/03_Mechanics/CLI/items/calligraphers-supplies-xphb|calligrapher's supplies]] or [[/03_Mechanics/CLI/items/painters-supplies-xphb|painter's supplies]].
+You gain proficiency with your choice of [[calligraphers-supplies-xphb|calligrapher's supplies]] or [[painters-supplies-xphb|painter's supplies]].
 
 ### One with the Blade (Level 6)
 

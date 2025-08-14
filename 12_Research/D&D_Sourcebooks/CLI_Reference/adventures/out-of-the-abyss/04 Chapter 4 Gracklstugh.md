@@ -44,13 +44,13 @@ It's also possible the party arrives at Gracklstugh involuntarily. Duergar slave
 
 ### Gracklstugh and Drow Pursuit
 
-Taking refuge in Gracklstugh has its advantages. Each day they spend in the duergar capital, the characters can attempt a DC 16 group Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check to move around cautiously, with success indicating that they avoid drawing attention to themselves. The characters can also attempt a DC 13 group Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check to assess the mood in the city, with success allowing them to avoid trouble before it starts. Characters who lie low for the day have advantage on this Wisdom check.
+Taking refuge in Gracklstugh has its advantages. Each day they spend in the duergar capital, the characters can attempt a DC 16 group Dexterity ([[skills#Stealth|Stealth]]) check to move around cautiously, with success indicating that they avoid drawing attention to themselves. The characters can also attempt a DC 13 group Wisdom ([[skills#Insight|Insight]]) check to assess the mood in the city, with success allowing them to avoid trouble before it starts. Characters who lie low for the day have advantage on this Wisdom check.
 
 Success with either check reduces the party's pursuit level by 1 (see "Drow Pursuit" in chapter 2).
 
 ### Arriving in Gracklstugh
 
-The Darklake District is a likely entry point to the city for the characters, whether they arrive via the water or travel one of the many tunnels leading to the district's gates. Non-duergar arriving from tunnels that lead to other districts are stopped and escorted to the Darklake District under heavy guard, as every other district is normally off limits to outsiders, and trespassers risk being confronted by an [[/03_Mechanics/CLI/conditions#Invisible|invisible]] patrol of four duergar.
+The Darklake District is a likely entry point to the city for the characters, whether they arrive via the water or travel one of the many tunnels leading to the district's gates. Non-duergar arriving from tunnels that lead to other districts are stopped and escorted to the Darklake District under heavy guard, as every other district is normally off limits to outsiders, and trespassers risk being confronted by an [[conditions#Invisible|invisible]] patrol of four duergar.
 
 The party's fellow escapees know that trying to enter through the main entrances is a sure way to get enslaved, unless one of the characters is an epic liar who can convince the guards the party is a legitimate diplomatic or trade delegation. Anyone with a merchant or criminal background has heard rumors that the Zhentarim trade in the Underdark, but posing as Zhentarim has its own risks, as such claims are bound to be questioned. A character who is actually a member of the Zhentarim can buy the adventurers a couple of days inside the city before the duergar slavers start taking their measure.
 
@@ -62,14 +62,14 @@ Arriving by way of the Darklake Docks is easier and more discreet. If the charac
 > 
 > **Light.** Gracklstugh's glowing forges and smithies operate continuously. Most of the city is dimly lit by a hellish red glow, with patches of darkness here and there.
 > 
-> **Noise.** The clanging and clacking of hammers and machinery echoes constantly throughout the city. Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks made to listen in Gracklstugh have disadvantage.
+> **Noise.** The clanging and clacking of hammers and machinery echoes constantly throughout the city. Wisdom ([[skills#Perception|Perception]]) checks made to listen in Gracklstugh have disadvantage.
 > 
 > **Smoke and Haze.** Despite vents dug into the walls and ceiling of the city's great cavern, fumes from smelters and forges linger at ground level (as does the gas tapped in Laduguer's Furrow). Visitors might contract the illness known as grackle-lung (see the Grackle-lung sidebar).
 ^gracklstugh-general-features
 
 ### Random Encounters
 
-With routine patrols of heavily armed gray dwarves who can turn [[/03_Mechanics/CLI/conditions#Invisible|invisible]], Gracklstugh is a relatively safe place for those who know where they belong and stay there. However, tensions are rising because of the influence of Demogorgon, and the characters have many opportunities to participate in events unfolding in the city. At the end of each long rest, roll a `d20`; on a roll of 17–20, an encounter takes place. Roll another `d20` and consult the Random Encounters in Gracklstugh table; if the characters are outside the Darklake District, treat any entry marked with an asterisk as a "Duergar Patrol" encounter instead.
+With routine patrols of heavily armed gray dwarves who can turn [[conditions#Invisible|invisible]], Gracklstugh is a relatively safe place for those who know where they belong and stay there. However, tensions are rising because of the influence of Demogorgon, and the characters have many opportunities to participate in events unfolding in the city. At the end of each long rest, roll a `d20`; on a roll of 17–20, an encounter takes place. Roll another `d20` and consult the Random Encounters in Gracklstugh table; if the characters are outside the Darklake District, treat any entry marked with an asterisk as a "Duergar Patrol" encounter instead.
 
 #### Random Encounters in Gracklstugh
 
@@ -79,7 +79,7 @@ With routine patrols of heavily armed gray dwarves who can turn [[/03_Mechanics/
 |-----------|-----------|
 | 1–2 | Abusive [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards |
 | 3–4 | [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome (svirfneblin)]] merchant* |
-| 5–7 | [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] rioters* |
+| 5–7 | [[derro-mpmm|derro]] rioters* |
 | 8–9 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] emissary* |
 | 10–12 | [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] patrol |
 | 13–14 | Mad [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
@@ -91,13 +91,13 @@ With routine patrols of heavily armed gray dwarves who can turn [[/03_Mechanics/
 
 #### Abusive Duergar Guards
 
-The characters come upon two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards beating a duergar merchant and shouting accusations of heresy. Any Underdark native accompanying the party urges the characters not to intervene on the merchant's behalf, telling them this isn't their business and warning them that any interference might get them arrested or killed. Bystanders look a little surprised or concerned but don't intervene, not even to aid the [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] merchant once the guards leave.
+The characters come upon two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards beating a duergar merchant and shouting accusations of heresy. Any Underdark native accompanying the party urges the characters not to intervene on the merchant's behalf, telling them this isn't their business and warning them that any interference might get them arrested or killed. Bystanders look a little surprised or concerned but don't intervene, not even to aid the [[conditions#Unconscious|unconscious]] merchant once the guards leave.
 
 If the characters investigate the circumstances leading to the assault, bystanders tell them that one of the guards noticed a golden pin the merchant was wearing inside his collar. Though adornment for adornment's sake is something duergar society frowns upon, the guards' violent response was unnatural—a hint of the growing madness festering inside the City of Blades.
 
 #### Deep Gnome Merchant
 
-A female [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] named Ariana and her [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth elemental]] bodyguard approach the party. Ariana aims to deliver a cargo of gemstones, but she can't find the duergar merchant she's supposed to meet. She assumes the characters are smugglers and tries to unload her goods: ten sparkly garnets worth 100 gp each. Ariana keeps the gems in a [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bag of holding]], which isn't for sale.
+A female [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] named Ariana and her [[earth-elemental-xmm|earth elemental]] bodyguard approach the party. Ariana aims to deliver a cargo of gemstones, but she can't find the duergar merchant she's supposed to meet. She assumes the characters are smugglers and tries to unload her goods: ten sparkly garnets worth 100 gp each. Ariana keeps the gems in a [[bag-of-holding-xdmg|bag of holding]], which isn't for sale.
 
 The merchant whom Ariana is looking for was recently arrested and executed for selling stolen jewelry. You can decide whether Ariana's interest in the characters attracts the attention of a duergar patrol.
 
@@ -105,11 +105,11 @@ Subsequent occurrences of this encounter are with other deep gnome merchants who
 
 #### Derro Rioters
 
-A mob of [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] (see appendix C) rampages through the streets. Five of them detach from the mob to attack the characters. Four duergar patrols (see "Duergar Patrol") arrive when the characters kill the last derro, but they simply nod at the characters before repressing the rest of the mob. Word quickly spreads that the characters helped the city guard control the unruly derro scum. At your discretion, give the characters advantage on checks made to interact with any duergar in the city until such time as the benefit no longer seems appropriate.
+A mob of [[derro-mpmm|derro]] (see appendix C) rampages through the streets. Five of them detach from the mob to attack the characters. Four duergar patrols (see "Duergar Patrol") arrive when the characters kill the last derro, but they simply nod at the characters before repressing the rest of the mob. Word quickly spreads that the characters helped the city guard control the unruly derro scum. At your discretion, give the characters advantage on checks made to interact with any duergar in the city until such time as the benefit no longer seems appropriate.
 
 #### Drow Emissary
 
-A [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] proudly wearing the insignia of a drow house travels with an entourage of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|quaggoth]] slaves. The drow is in Gracklstugh to retrieve a cargo of duergar metalwork and knows nothing about the recent events in Velkynvelve. Roll a `d6` and consult the Drow House Loyalty table to determine the house to which the drow is affiliated.
+A [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] proudly wearing the insignia of a drow house travels with an entourage of `1d4 + 1` [[quaggoth-xmm|quaggoth]] slaves. The drow is in Gracklstugh to retrieve a cargo of duergar metalwork and knows nothing about the recent events in Velkynvelve. Roll a `d6` and consult the Drow House Loyalty table to determine the house to which the drow is affiliated.
 
 #### Drow House Loyalty
 
@@ -139,7 +139,7 @@ House Baenre and House Xorlarrin are current allies of House Mizzrym. A drow emi
 
 #### Duergar Patrol
 
-A patrol consists of `1d4 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]], all but two of whom are [[/03_Mechanics/CLI/conditions#Invisible|invisible]]. [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] duergar can sneak up on a character by making a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check with advantage, contested by the character's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score.
+A patrol consists of `1d4 + 2` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]], all but two of whom are [[conditions#Invisible|invisible]]. [[conditions#Invisible|Invisible]] duergar can sneak up on a character by making a Dexterity ([[skills#Stealth|Stealth]]) check with advantage, contested by the character's passive Wisdom ([[skills#Perception|Perception]]) score.
 
 #### Mad Duergar
 
@@ -173,18 +173,18 @@ The characters come across a group of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/hum
 | 1–2 | `2d4` human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 3–4 | `3d4` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 5–6 | `2d4` strongheart halfling [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
-| 7–8 | `3d6` [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] |
-| 9–10 | `2d6` [[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm|grimlocks]] |
-| 11–12 | `3d6` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
+| 7–8 | `3d6` [[goblin-warrior-xmm|goblins]] |
+| 9–10 | `2d6` [[grimlock-xmm|grimlocks]] |
+| 11–12 | `3d6` [[kobold-warrior-xmm|kobolds]] |
 ^slaves
 
 #### Steeder Handlers
 
-A group of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] teamsters herd a clutch of `2d6` [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|male steeders]] (see appendix C). There is a 50 percent chance that `d4` of the steeders attack nearby characters or bystanders. The duergar keep the rest of the clutch in check, but they clamor for the characters' arrest if even one of the arachnids is killed. A nearby patrol (see "Duergar Patrol") hears the teamsters' clamor and arrives `d6` rounds later.
+A group of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] teamsters herd a clutch of `2d6` [[male-steeder-mpmm|male steeders]] (see appendix C). There is a 50 percent chance that `d4` of the steeders attack nearby characters or bystanders. The duergar keep the rest of the clutch in check, but they clamor for the characters' arrest if even one of the arachnids is killed. A nearby patrol (see "Duergar Patrol") hears the teamsters' clamor and arrives `d6` rounds later.
 
 #### Themberchaud
 
-The [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|adult red dragon]] is out on his regular rounds, keeping the city's forges aflame. [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] has long been keeping his eye out for mercenaries in the city that could be bent to his service. If he spots the characters, he might take an interest in them. See "[[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s Lair" for information on the Wyrmsmith's motivations and possible setups for an additional encounter with the red dragon.
+The [[adult-red-dragon-xmm|adult red dragon]] is out on his regular rounds, keeping the city's forges aflame. [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] has long been keeping his eye out for mercenaries in the city that could be bent to his service. If he spots the characters, he might take an interest in them. See "[[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s Lair" for information on the Wyrmsmith's motivations and possible setups for an additional encounter with the red dragon.
 
 ### Important NPCs
 
@@ -203,7 +203,7 @@ The characters might encounter one or more of the following NPCs during their st
 | [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] | Male derro courier in the employ of both the Gray Ghosts and the Council of Savants, and the subject of different possible side quests |
 | **Werz Saltbaron** | Male duergar merchant with a mission for the party |
 | **Stonespeaker Hgraam** | Male stone giant leader with a side quest for the party |
-| [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] | Male [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]], junior member of the Council of Savants and leader of a cult dedicated to Demogorgon |
+| [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] | Male [[derro-savant-mpmm|derro savant]], junior member of the Council of Savants and leader of a cult dedicated to Demogorgon |
 
 ### Factions of Gracklstugh
 
@@ -271,11 +271,11 @@ Despite reports that the darkhafts and the Stone Guards have received about the 
 
 > [!note] Grackle-Lung
 > 
-> The constant smog in Gracklstugh causes grackle-lung in living, breathing creatures, resulting in persistent, wracking coughs and the spewing of thick, black phlegm. Whenever a living, breathing creature finishes a long rest in Gracklstugh, it must make a DC 11 Constitution saving throw. On each failed save, the creature gains one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] as its airways become increasingly clogged. A creature that reaches level 6 [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] dies, as normal.
+> The constant smog in Gracklstugh causes grackle-lung in living, breathing creatures, resulting in persistent, wracking coughs and the spewing of thick, black phlegm. Whenever a living, breathing creature finishes a long rest in Gracklstugh, it must make a DC 11 Constitution saving throw. On each failed save, the creature gains one level of [[conditions#Exhaustion|exhaustion]] as its airways become increasingly clogged. A creature that reaches level 6 [[conditions#Exhaustion|exhaustion]] dies, as normal.
 > 
-> A creature with one or more levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] brought on by grackle-lung must succeed on a Constitution check to take the [[/03_Mechanics/CLI/actions#Dash|Dash]] action. If the check fails, the action cannot be attempted. If the creature attempts to cast a spell with a verbal component, it must succeed on a Constitution check or be unable to complete the spell, causing the spell to fail with no effect. The DC for each check is 10 + the creature's current [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] level.
+> A creature with one or more levels of [[conditions#Exhaustion|exhaustion]] brought on by grackle-lung must succeed on a Constitution check to take the [[actions#Dash|Dash]] action. If the check fails, the action cannot be attempted. If the creature attempts to cast a spell with a verbal component, it must succeed on a Constitution check or be unable to complete the spell, causing the spell to fail with no effect. The DC for each check is 10 + the creature's current [[conditions#Exhaustion|exhaustion]] level.
 > 
-> If a creature's [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] brought on by the affliction.
+> If a creature's [[conditions#Exhaustion|exhaustion]] level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of [[conditions#Exhaustion|exhaustion]] brought on by the affliction.
 ^grackle-lung
 
 #### Clan Cairngorm
@@ -292,7 +292,7 @@ The Keepers of the Flame are currently distracted by their ongoing vendetta agai
 
 #### Themberchaud the Wyrmsmith
 
-This [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|adult red dragon]] keeps the city's smelters and forges ablaze, receiving treasure, free meals, and constant pampering in exchange. [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] doesn't know that, like other Wyrmsmiths before him, he is doomed to be slain before he grows too strong, replaced by a new red hatchling. However, the line of succession was interrupted when the Gray Ghosts stole a red dragon egg from the Keepers of the Flame.
+This [[adult-red-dragon-xmm|adult red dragon]] keeps the city's smelters and forges ablaze, receiving treasure, free meals, and constant pampering in exchange. [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] doesn't know that, like other Wyrmsmiths before him, he is doomed to be slain before he grows too strong, replaced by a new red hatchling. However, the line of succession was interrupted when the Gray Ghosts stole a red dragon egg from the Keepers of the Flame.
 
 The Wyrmsmith is beginning to chafe under the Keepers' control. He now wonders why he is content with a mere trickle of gold and a paltry handful of slaves, when he could simply force the entire city to bend knee to him and give him everything he desires. For now, his actions are limited by how little he cares about the duergar and how much the Keepers speak "on his behalf." But he has begun taking an interest in the affairs of Gracklstugh and the opportunity to recruit new servants from outside the Keepers of the Flame, using his outings to rekindle forges and smelters as a means to keep an eye out for promising subjects.
 
@@ -363,7 +363,7 @@ Stone giants revere the King of the Rock, god of buried things, whose clerics ca
 
 #### Law and Order
 
-Minor crime is relatively rare in Gracklstugh. The duergar live by a strict code of honor, and their laws are few, simple, and practical. Both guards and regular citizens can be [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and watching, which keeps any potential criminals and dissenters uncertain and fearful. A laird may punish any member of his or her clan who commits a crime, but offenses between clans are immediately brought before the Council of Lairds, which resolves matters swiftly and harshly. The code of punishment is simple. Because dishonor, mutilation and imprisonment are a waste of resources and create weakness in society, a duergar who intentionally commits any crime receives a death sentence. Accidental crime by a duergar is compensated by goods or work equivalent to the damages. Derro, slaves or outsiders caught committing any crime can be executed on the spot by any duergar present.
+Minor crime is relatively rare in Gracklstugh. The duergar live by a strict code of honor, and their laws are few, simple, and practical. Both guards and regular citizens can be [[conditions#Invisible|invisible]] and watching, which keeps any potential criminals and dissenters uncertain and fearful. A laird may punish any member of his or her clan who commits a crime, but offenses between clans are immediately brought before the Council of Lairds, which resolves matters swiftly and harshly. The code of punishment is simple. Because dishonor, mutilation and imprisonment are a waste of resources and create weakness in society, a duergar who intentionally commits any crime receives a death sentence. Accidental crime by a duergar is compensated by goods or work equivalent to the damages. Derro, slaves or outsiders caught committing any crime can be executed on the spot by any duergar present.
 
 ## Gracklstugh
 
@@ -401,7 +401,7 @@ The pragmatic nature of the duergar means that all Gracklstugh's entrance gates 
 
 When the characters first reached the road, six [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] watching invisibly started following them at a safe distance. Twelve more [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] soldiers are stationed in guardhouses concealed within the rocky walls of the cavern, all of them aiming heavy crossbows at the party.
 
-The duergar are hostile, and the guard who spoke follows up on every answer the characters give. One character can take the lead in the interrogation by speaking for the party and making a DC 15 Charisma check ([[/03_Mechanics/CLI/skills#Deception|Deception]] and [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]] apply; [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]] or [[/03_Mechanics/CLI/skills#Performance|Performance]] are met with scorn). Depending on how believable the party's story is and how the other adventurers behave during the questioning, you might allow the character to make the check with advantage or impose disadvantage.
+The duergar are hostile, and the guard who spoke follows up on every answer the characters give. One character can take the lead in the interrogation by speaking for the party and making a DC 15 Charisma check ([[skills#Deception|Deception]] and [[skills#Persuasion|Persuasion]] apply; [[skills#Intimidation|Intimidation]] or [[skills#Performance|Performance]] are met with scorn). Depending on how believable the party's story is and how the other adventurers behave during the questioning, you might allow the character to make the check with advantage or impose disadvantage.
 
 The guard grudgingly lets the characters pass if the check succeeds, and refuses them entrance if it fails. If the check fails by 5 or more, the guard gives the order to arrest the characters, announcing that they are now slaves of the duergar (see "Getting Captured" below).
 
@@ -414,13 +414,13 @@ The first time the characters are allowed inside the city or turned away from a 
 > The duergar waits for your answer, his gaze touching on each of you in turn as he smiles in anticipation.
 ^172
 
-If they are with the party, [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] and [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]], [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]], [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]], and [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] can whisper to the characters that few duergar are so blatantly corrupt as Gorglak seems to be. A successful DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check lets a character notice that Gorglak is eying the adventurers' weapons (especially any drow weapons or magic weapons they might have), and that there's something odd about his behavior. The madness creeping into Gracklstugh has made Gorglak obsessed with rare weapons. He's willing to go to great extents to acquire new weapons of exquisite design for his growing collection.
+If they are with the party, [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] and [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]], [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]], [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]], and [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] can whisper to the characters that few duergar are so blatantly corrupt as Gorglak seems to be. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check lets a character notice that Gorglak is eying the adventurers' weapons (especially any drow weapons or magic weapons they might have), and that there's something odd about his behavior. The madness creeping into Gracklstugh has made Gorglak obsessed with rare weapons. He's willing to go to great extents to acquire new weapons of exquisite design for his growing collection.
 
-Offering Gorglak a worthy weapon for his collection gets the characters through the gate. Any other bribe requires one of the characters to succeed on a DC 13 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, or Gorglak is insulted and has the party arrested. If the characters are too open about the negotiation, Gorglak has them arrested and pretends he didn't say anything.
+Offering Gorglak a worthy weapon for his collection gets the characters through the gate. Any other bribe requires one of the characters to succeed on a DC 13 Charisma ([[skills#Persuasion|Persuasion]]) check, or Gorglak is insulted and has the party arrested. If the characters are too open about the negotiation, Gorglak has them arrested and pretends he didn't say anything.
 
 If Gorglak finds the characters' bribe appealing, he refuses to accept it then and there, instead directing them to find one Werz Saltbaron in the Darklake Docks and hand the bribe to him. Gorglak tells the characters that he will check with Werz at the end of his shift, and will find the characters and arrest them if they have not paid by then.
 
-Characters allowed through the gate are escorted to the Darklake District by four [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards, two of whom are [[/03_Mechanics/CLI/conditions#Invisible|invisible]]. Once the party reaches the edge of the district, the guards leave and return to the posts.
+Characters allowed through the gate are escorted to the Darklake District by four [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards, two of whom are [[conditions#Invisible|invisible]]. Once the party reaches the edge of the district, the guards leave and return to the posts.
 
 > [!note] Buppido's Escape
 > 
@@ -438,7 +438,7 @@ Arriving at the Darklake Docks requires a combination of skill, ingenuity, and l
 > Firelight illuminates massive columns with structures built around their bases. The cold air of the Underdark is becoming warmer even at this distance, and you can now see a variety of piers made from zurkhwood, stone, and plain rock jutting out along the edge of a huge cavern.
 ^175
 
-As the characters draw closer, they can see that the eastern docks are the least crowded. If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is with them, he guides them to a natural rock pier on the eastern edge of the cavern. Otherwise, the characters must make a successful DC 14 group Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check or a DC 15 group Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check to guide their boat safely and inconspicuously to an empty dock. If the group check fails, nearby guards notice the characters but don't immediately identify them as a threat. However, you can choose to impose disadvantage on any checks the characters make to remain inconspicuous during their first day in Gracklstugh.
+As the characters draw closer, they can see that the eastern docks are the least crowded. If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is with them, he guides them to a natural rock pier on the eastern edge of the cavern. Otherwise, the characters must make a successful DC 14 group Dexterity ([[skills#Stealth|Stealth]]) check or a DC 15 group Wisdom ([[skills#Survival|Survival]]) check to guide their boat safely and inconspicuously to an empty dock. If the group check fails, nearby guards notice the characters but don't immediately identify them as a threat. However, you can choose to impose disadvantage on any checks the characters make to remain inconspicuous during their first day in Gracklstugh.
 
 > [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/031-04-01.webp#gallery|Map 4.1: Gracklstugh]]
@@ -478,9 +478,9 @@ This encounter triggers possible side quests through which the characters can le
 > The rhythmic hammering of the city's forges is drowned for a second by a thundering roar and the sound of crumbling rock. Duergar and visitors alike turn to look as a two-headed, gray-skinned giant bursts through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.
 ^17a
 
-A [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giant]] from Cairngorm Cavern has succumbed to a demonic curse that has caused him to grow a disfigured second head. A successful DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check reveals that the giant is crazed and terrified. Use the stone giant stat block with the following modifications:
+A [[stone-giant-xmm|stone giant]] from Cairngorm Cavern has succumbed to a demonic curse that has caused him to grow a disfigured second head. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check reveals that the giant is crazed and terrified. Use the stone giant stat block with the following modifications:
 
-- The giant has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks and on saving throws against being [[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]], or knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]].  
+- The giant has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], or knocked [[conditions#Unconscious|unconscious]].  
 - The giant is unarmed. As an action, it can make two unarmed strikes (+9 to hit, reach 10 ft., one target). On a hit, the giant deals 13 (`2d6 + 6`) bludgeoning damage.  
 
 The rampage happens in a broad plaza, so there is plenty of space for the different combatants to maneuver.
@@ -499,11 +499,11 @@ The guards who fought alongside the characters explain the situation, neither do
 
 If the party was not previously arrested and didn't participate in the fight, the Stone Guards start questioning bystanders, who eventually point out the characters as new arrivals to the city.
 
-If the characters knocked Rihuud [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] instead of dealing a lethal blow, a grateful Dorhun asks them to visit Cairngorm Cavern before they leave the city, informing the Stone Guards of this. The importance of the Stonespeaker means that the Stone Guards will escort the party across the city to meet with him, though they don't hide their displeasure at doing so.
+If the characters knocked Rihuud [[conditions#Unconscious|unconscious]] instead of dealing a lethal blow, a grateful Dorhun asks them to visit Cairngorm Cavern before they leave the city, informing the Stone Guards of this. The importance of the Stonespeaker means that the Stone Guards will escort the party across the city to meet with him, though they don't hide their displeasure at doing so.
 
 > [!note] Flashing Badges
 > 
-> Working for either the Stone Guard or the Keepers of the Flame grants characters a degree of freedom in Gracklstugh, as they can show the insignia given to them by each faction if they are detained. At least one character in the party must succeed on a DC 14 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to convince duergar not to detain the party any longer, but characters who show the insignia have advantage on the check.
+> Working for either the Stone Guard or the Keepers of the Flame grants characters a degree of freedom in Gracklstugh, as they can show the insignia given to them by each faction if they are detained. At least one character in the party must succeed on a DC 14 Charisma ([[skills#Persuasion|Persuasion]]) check to convince duergar not to detain the party any longer, but characters who show the insignia have advantage on the check.
 ^flashing-badges
 
 #### XP Awards
@@ -520,7 +520,7 @@ From this point, the adventure can take different paths depending on how you wan
 - The characters can continue to Overlake Hold and meet with Captain Errde Blackskull (see "Overlake Hold").  
 - The [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|drow scout]] Xalith approaches the Stone Guards, claiming the characters as escaped property of her mistress, Ilvara (see "Signs of Pursuit" in the "Blade Bazaar" section). The Stone Guards arrest the characters and take them to Overlake Hold, pending negotiations with the drow. At this point, they also meet Captain Errde Blackskull.  
 - [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (see "[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]" in the "Blade Bazaar" section) accidentally bumps into the patrol, creating a distraction that allows the characters to escape.  
-- A successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check convinces the Stone Guards not to arrest the characters, provided the characters agree to visit Overlake Hold once their business in Gracklstugh is concluded. The party remains under watch at all times by an [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|duergar Stone Guard]](see appendix C). If it seems like the characters have done what they came to do, the [[/03_Mechanics/CLI/conditions#Invisible|invisible]] duergar reminds them to make good on their promise to visit Overlake Hold.  
+- A successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check convinces the Stone Guards not to arrest the characters, provided the characters agree to visit Overlake Hold once their business in Gracklstugh is concluded. The party remains under watch at all times by an [[conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|duergar Stone Guard]](see appendix C). If it seems like the characters have done what they came to do, the [[conditions#Invisible|invisible]] duergar reminds them to make good on their promise to visit Overlake Hold.  
 
 ### Blade Bazaar
 
@@ -534,9 +534,9 @@ Characters who look around the bazaar notice a number of odd things:
 
 - A duergar merchant can't stop insulting customers when they are trying to sell something, but becomes a picture of politeness when they want to buy.  
 - A number of duergar merchants give different prices to buy or sell every time they are asked about the same items, and insist that the characters dealing with them are the ones changing their terms.  
-- A duergar merchant suddenly turns [[/03_Mechanics/CLI/conditions#Invisible|invisible]] in the middle of a transaction, but keeps speaking as if nothing has happened.  
+- A duergar merchant suddenly turns [[conditions#Invisible|invisible]] in the middle of a transaction, but keeps speaking as if nothing has happened.  
 - A duergar merchant threatens to kill the characters as a haggling technique, then denies ever saying so.  
-- A duergar merchant constantly asks the opinion of a nonexistent twin brother, claiming that he is [[/03_Mechanics/CLI/conditions#Invisible|invisible]].  
+- A duergar merchant constantly asks the opinion of a nonexistent twin brother, claiming that he is [[conditions#Invisible|invisible]].  
 
 #### Ylsa's Deal
 
@@ -550,7 +550,7 @@ Ylsa invites the characters into her well-guarded office, where she shows them a
 
 Attentive characters can spot a curious figure darting between the stalls and shops of the Blade Bazaar. Every time they roam the market, they have a 20 percent chance to see a derro dressed in rags styled as an imitation of a fancy jacket, wearing a wide-brimmed hat with two tentacles from a displacer beast sewn into the hat's crown. A large satchel hangs from his shoulder, and he's always muttering to himself.
 
-Duergar merchants glare scornfully at this derro, and none will discuss him with the characters. If a character asks about him in the Ghohlbrorn's Lair, a successful DC 12 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check yields up the name "[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]," and identifies the wily derro as a courier and supplier of goods who works for disreputable employers.
+Duergar merchants glare scornfully at this derro, and none will discuss him with the characters. If a character asks about him in the Ghohlbrorn's Lair, a successful DC 12 Charisma ([[skills#Persuasion|Persuasion]]) check yields up the name "[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]," and identifies the wily derro as a courier and supplier of goods who works for disreputable employers.
 
 Catching [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (see appendix C) is the objective of quests from Errde Blackskull (see "Overlake Hold") and Gartokkar Xundorn (see "[[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s Lair"), but if the characters pursue the courier openly, he flees for the West Cleft District. Pursuing characters quickly lose sight of the derro as he vanishes into the crowd. See "Finding [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]" in the "Whorlstone Tunnels" section for more information on what [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is carrying if the characters catch him.
 
@@ -565,7 +565,7 @@ Catching [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (see appendix C) is
 
 If the characters arrive in Gracklstugh with a drow pursuit level of 3 or higher (see "Drow Pursuit" in chapter 2), Ilvara has already sent a party ahead of them, guessing correctly that the escaped prisoners might seek refuge with the duergar.
 
-Characters with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher spot six [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] watching them in the Blade Bazaar. One of them is Xalith Masq'il'yr, a female drow allied with House Mizzrym. Any of the party's NPC companions who know the duergar well can guess that these drow won't want to attract the duergar's attention to their "lost property." Doing so would likely involve having to pay the gray dwarves a reward for the adventurers' capture. This gives the characters a chance to evade their pursuers, but they need to stay out of sight.
+Characters with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher spot six [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] watching them in the Blade Bazaar. One of them is Xalith Masq'il'yr, a female drow allied with House Mizzrym. Any of the party's NPC companions who know the duergar well can guess that these drow won't want to attract the duergar's attention to their "lost property." Doing so would likely involve having to pay the gray dwarves a reward for the adventurers' capture. This gives the characters a chance to evade their pursuers, but they need to stay out of sight.
 
 Xalith speaks to the duergar only if the characters are arrested. Otherwise, she sends a messenger to Ilvara and makes sure the characters don't go anywhere without her knowing. If the characters fail to lose themselves in the city (see "Gracklstugh and Drow Pursuit" earlier in this chapter), their pursuit level increases by 1 every `d4` days until Ilvara arrives.
 
@@ -573,7 +573,7 @@ Alternatively, the adventurers might decide to turn the tables on the drow. Char
 
 ### Darklake Brewery
 
-This huge, ramshackle brewery is built of stone blocks stacked to make walls between the [[/03_Mechanics/CLI/conditions#Petrified|petrified]] stems of a small forest of gigantic mushrooms. Big copper vats steam within, filling the air with a heavy, yeasty stink. Dozens of copper kegs stand nearby, and burly gray dwarves swarm over the place, mashing fungus, mixing fermenting masses, and filling casks with freshly brewed ale. This complex is the workplace and home of Clan Muzgardt, the duergar clan in charge of brewing Darklake Stout and in control of the brewing and importation of other spirits. Non-duergar aren't welcome inside the brewery.
+This huge, ramshackle brewery is built of stone blocks stacked to make walls between the [[conditions#Petrified|petrified]] stems of a small forest of gigantic mushrooms. Big copper vats steam within, filling the air with a heavy, yeasty stink. Dozens of copper kegs stand nearby, and burly gray dwarves swarm over the place, mashing fungus, mixing fermenting masses, and filling casks with freshly brewed ale. This complex is the workplace and home of Clan Muzgardt, the duergar clan in charge of brewing Darklake Stout and in control of the brewing and importation of other spirits. Non-duergar aren't welcome inside the brewery.
 
 ### Darklake Docks
 
@@ -583,15 +583,15 @@ The characters land at the easternmost inlet if they arrive at Gracklstugh by wa
 
 #### Assassins Interrupted
 
-The characters spot a male duergar merchant at the end of a pier. Suddenly, two [[/03_Mechanics/CLI/conditions#Invisible|invisible]] duergar appear next to him and stab him viciously with glowing swords. The assassins' faces are masked and hooded. The characters have 2 rounds to distract the two [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] (see appendix C) before they finish off the merchant.
+The characters spot a male duergar merchant at the end of a pier. Suddenly, two [[conditions#Invisible|invisible]] duergar appear next to him and stab him viciously with glowing swords. The assassins' faces are masked and hooded. The characters have 2 rounds to distract the two [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] (see appendix C) before they finish off the merchant.
 
-The merchant is Werz Saltbaron. If the characters save him, he is grudgingly grateful and says he has no idea why the assassins targeted him. A successful DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check suggests he's lying. He flees the scene, but not before telling the characters to meet him at the Shattered Spire the following day so he can reward them properly.
+The merchant is Werz Saltbaron. If the characters save him, he is grudgingly grateful and says he has no idea why the assassins targeted him. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check suggests he's lying. He flees the scene, but not before telling the characters to meet him at the Shattered Spire the following day so he can reward them properly.
 
 The characters have 1 minute to search the assassins before a patrol of four [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] arrives. The glowing weapons wielded by the assassins are nowhere to be found, but one of the assassins has a piece of fish-skin parchment bearing Werz's likeness drawn in charcoal.
 
 #### Access to the Whorlstone Tunnels
 
-Hidden next to the easternmost pier, a disabled drainage pipe is the Gray Ghosts' access point to a secret cavern system beneath Gracklstugh (see "Whorlstone Tunnels"). It takes a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice the pipe beneath piles of refuse. Within, loose bars block the 5-foot-wide passage, but removing them activates an alarm that warns the Gray Ghosts inside the caverns. A character can notice the alarm's trigger—a thin wire connected to the top of one of the bars—with a successful DC 14 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check, and can disable it with a successful DC 12 Dexterity check using thieves' tools.
+Hidden next to the easternmost pier, a disabled drainage pipe is the Gray Ghosts' access point to a secret cavern system beneath Gracklstugh (see "Whorlstone Tunnels"). It takes a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check to notice the pipe beneath piles of refuse. Within, loose bars block the 5-foot-wide passage, but removing them activates an alarm that warns the Gray Ghosts inside the caverns. A character can notice the alarm's trigger—a thin wire connected to the top of one of the bars—with a successful DC 14 Wisdom ([[skills#Perception|Perception]]) check, and can disable it with a successful DC 12 Dexterity check using thieves' tools.
 
 Nearly 100 feet into the pipe, a hatch on the floor opens into a rough-hewn well. A ladder extends down 80 feet to another hatch on the floor, which leads to area 8 in the Whorlstone Tunnels.
 
@@ -612,13 +612,13 @@ If the characters are arrested, they are taken to the hold's dungeons, where the
 
 ##### Search for Droki
 
-Errde explains that her guards have been tracking the movements of a derro named [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]. Despite his presence in the Darklake District, the derro has managed to avoid capture, as if he somehow knows in advance where the duergar patrols will be—[[/03_Mechanics/CLI/conditions#Invisible|invisible]] or otherwise. All the Stone Guards know is that [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] lives in the West Cleft District, a place the duergar enter only in force and where their presence would likely provoke a chaotic uprising. Errde wants the characters to follow [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], see what he does and where he goes, and report back. Or if they see an opportunity, seize him and either bring him in for questioning, or kill him and bring back evidence of his activities.
+Errde explains that her guards have been tracking the movements of a derro named [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]. Despite his presence in the Darklake District, the derro has managed to avoid capture, as if he somehow knows in advance where the duergar patrols will be—[[conditions#Invisible|invisible]] or otherwise. All the Stone Guards know is that [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] lives in the West Cleft District, a place the duergar enter only in force and where their presence would likely provoke a chaotic uprising. Errde wants the characters to follow [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], see what he does and where he goes, and report back. Or if they see an opportunity, seize him and either bring him in for questioning, or kill him and bring back evidence of his activities.
 
 Errde's tone turns dark as she voices her suspicions that [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is linked to a conspiracy involving the Council of Savants, and maybe even elements among the clan lairds. She describes in detail how discovering the conspiracy and purging the corrupt will earn her great favor with the Deepking. Errde swears (truthfully) that she will arrange for the characters to get safe passage out of Gracklstugh if they do as she asks.
 
 ##### Search for Corruption
 
-Errde's suspicions of conspiracy have her looking for signs of corruption creeping among the people of Gracklstugh. She rewards the characters if they bring her evidence of such corruption that has escaped the eyes of her warriors. The characters can build a case if they witness odd events throughout Gracklstugh, such as some of the random encounters and the behavior of merchants in the Blade Bazaar. For every three such events they report, the characters can attempt a DC 15 group Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, but they only need to succeed once to convince Errde and complete this quest. Errde then promises to outfit the characters with supplies and gear when they leave Gracklstugh, from the Stone Guards' own armory. Each character can claim a total of 350 gp worth of equipment, including weapons, armor, and common potions and scrolls.
+Errde's suspicions of conspiracy have her looking for signs of corruption creeping among the people of Gracklstugh. She rewards the characters if they bring her evidence of such corruption that has escaped the eyes of her warriors. The characters can build a case if they witness odd events throughout Gracklstugh, such as some of the random encounters and the behavior of merchants in the Blade Bazaar. For every three such events they report, the characters can attempt a DC 15 group Charisma ([[skills#Persuasion|Persuasion]]) check, but they only need to succeed once to convince Errde and complete this quest. Errde then promises to outfit the characters with supplies and gear when they leave Gracklstugh, from the Stone Guards' own armory. Each character can claim a total of 350 gp worth of equipment, including weapons, armor, and common potions and scrolls.
 
 #### Development
 
@@ -640,7 +640,7 @@ If the characters rescued Werz Saltbaron from the assassins (see "Darklake Docks
 
 #### Bar Fight
 
-While the characters are in the tavern, two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] who had been just talking business suddenly fly into a rage and start brawling. If the characters don't intervene to stop the fight, other patrons do. No guards appear unless weapons or spells come out, and the fight stops as soon as any of the brawlers is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] or knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]. Neither of the duergar remember why they started fighting.
+While the characters are in the tavern, two [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] who had been just talking business suddenly fly into a rage and start brawling. If the characters don't intervene to stop the fight, other patrons do. No guards appear unless weapons or spells come out, and the fight stops as soon as any of the brawlers is [[conditions#Restrained|restrained]] or knocked [[conditions#Unconscious|unconscious]]. Neither of the duergar remember why they started fighting.
 
 ### The Ghohlbrorn's Lair
 
@@ -648,7 +648,7 @@ This inn is the only establishment in Gracklstugh that accepts non-duergar guest
 
 #### Rumor Mill
 
-The inn's dining hall gives characters a chance to mingle with non-duergar who are visiting Gracklstugh. Characters seeking information can, with a successful DC 10 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) or Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check, find out the following information, or you can simply roleplay their interactions with random patrons.
+The inn's dining hall gives characters a chance to mingle with non-duergar who are visiting Gracklstugh. Characters seeking information can, with a successful DC 10 Charisma ([[skills#Persuasion|Persuasion]]) or Intelligence ([[skills#Investigation|Investigation]]) check, find out the following information, or you can simply roleplay their interactions with random patrons.
 
 The general gist of the information is that trade routes out of Gracklstugh have become more dangerous recently. The fauna and more primitive denizens of the Underdark are all riled up about something. Among the tales told by the travelers, second-hand stories about demons attacking isolated settlements are common.
 
@@ -664,7 +664,7 @@ Near the western gate of Laduguer's Furrow, the duergar built a series of guardh
 
 ### Great Gates
 
-The openings that Laduguer's Furrow creates in the walls of Gracklstugh's cavern are blocked by massive structures of bars and scaffolding, each set with several gates. Gates are guarded by two visible [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] soldiers and `1d4 + 3` [[/03_Mechanics/CLI/conditions#Invisible|invisible]] ones.
+The openings that Laduguer's Furrow creates in the walls of Gracklstugh's cavern are blocked by massive structures of bars and scaffolding, each set with several gates. Gates are guarded by two visible [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] soldiers and `1d4 + 3` [[conditions#Invisible|invisible]] ones.
 
 ## West Cleft and East Cleft Districts
 
@@ -681,23 +681,23 @@ The derro are automatically hostile toward anyone entering their warrens, especi
 > As you pass through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot you look at you with a burning hatred.
 ^199
 
-At the end of each hour the adventurers stay inside either derro area, there is a 25 percent chance that `2d4` [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] (see appendix C) attack without warning. If the characters kill any derro, the chance of another attack becomes 50 percent every half hour.
+At the end of each hour the adventurers stay inside either derro area, there is a 25 percent chance that `2d4` [[derro-mpmm|derro]] (see appendix C) attack without warning. If the characters kill any derro, the chance of another attack becomes 50 percent every half hour.
 
-Sneaking through the senseless arrangement of the burrows is relatively easy, as the derro are normally too preoccupied with their own mad scheming to notice a group trying not to attract attention. The characters can attempt a DC 10 group Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check, with success negating the need to roll for a possible attack at the end of each hour or half hour.
+Sneaking through the senseless arrangement of the burrows is relatively easy, as the derro are normally too preoccupied with their own mad scheming to notice a group trying not to attract attention. The characters can attempt a DC 10 group Dexterity ([[skills#Stealth|Stealth]]) check, with success negating the need to roll for a possible attack at the end of each hour or half hour.
 
-Other means of subterfuge such as illusions, climbing along the walls, or using flying or levitation magic automatically avoid detection, but invisibility of any kind activates magical wards placed by derro savants to guard against duergar intrusion. When a ward activates in response to the presence of an [[/03_Mechanics/CLI/conditions#Invisible|invisible]] creature, nearby derro fly into a frenzy, creating a chaotic mob meant to drive away [[/03_Mechanics/CLI/conditions#Invisible|invisible]] duergar patrols. Derro make active Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks contested by the characters' Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks if a ward is activated. Characters using [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] actively can spot the [[/03_Mechanics/CLI/conditions#Invisible|invisible]] sensor of a ward before it activates. Otherwise, [[/03_Mechanics/CLI/conditions#Invisible|invisible]] characters encounter a ward every 15 minutes they move through derro territory.
+Other means of subterfuge such as illusions, climbing along the walls, or using flying or levitation magic automatically avoid detection, but invisibility of any kind activates magical wards placed by derro savants to guard against duergar intrusion. When a ward activates in response to the presence of an [[conditions#Invisible|invisible]] creature, nearby derro fly into a frenzy, creating a chaotic mob meant to drive away [[conditions#Invisible|invisible]] duergar patrols. Derro make active Wisdom ([[skills#Perception|Perception]]) checks contested by the characters' Dexterity ([[skills#Stealth|Stealth]]) checks if a ward is activated. Characters using [[detect-magic-xphb|detect magic]] actively can spot the [[conditions#Invisible|invisible]] sensor of a ward before it activates. Otherwise, [[conditions#Invisible|invisible]] characters encounter a ward every 15 minutes they move through derro territory.
 
 #### Access to the Whorlstone Tunnels
 
 Between a cluster of hovels in West Cleft lies the most well-used entrance to the Whorlstone Tunnels (see "Whorlstone Tunnels"). A narrow fissure in the chasm wall is hidden by scraps of cloth, gray sheets of canvas, and moldy boxes. The fissure is tall and wide enough for a Medium creature to squeeze through the first 10 feet, and then continues for 50 feet at an average 5 feet in width, with a gentle downward slope.
 
-Ever since the foul irruption of the demon lords into the Underdark, the fissure is easier to find, as it sometimes leaks wisps of eerie fog created by *faerzress*. Otherwise, finding it requires careful searching and a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Each character can make this check at the end of each hour the party spends in the West Cleft warrens looking for the Whorlstone Tunnels' entrance.
+Ever since the foul irruption of the demon lords into the Underdark, the fissure is easier to find, as it sometimes leaks wisps of eerie fog created by *faerzress*. Otherwise, finding it requires careful searching and a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check. Each character can make this check at the end of each hour the party spends in the West Cleft warrens looking for the Whorlstone Tunnels' entrance.
 
-Any attempt to question the locals without an effective means of disguise or manipulation, such as enchantment or illusion magic, is doomed to fail, as the derro are more likely to attack the characters than answer their questions. Even then, the derro are often incoherent, and a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check is needed to obtain useful information. A successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check also works, but has a 50 percent chance of inspiring the derro to flee or attack.
+Any attempt to question the locals without an effective means of disguise or manipulation, such as enchantment or illusion magic, is doomed to fail, as the derro are more likely to attack the characters than answer their questions. Even then, the derro are often incoherent, and a successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check is needed to obtain useful information. A successful DC 15 Charisma ([[skills#Intimidation|Intimidation]]) check also works, but has a 50 percent chance of inspiring the derro to flee or attack.
 
 ## Halls of Sacred Spells
 
-The Halls of Sacred Spells comprise a temple of Diirinka carved into a stalagmite in Northfurrow District. Here, the derro Council of Savants meets and plots, living in luxurious quarters and hiding such opulence from their fellow derro. All areas of the Halls of Sacred Spells except the central worship chamber are forbidden to derro who aren't savants. Duergar don't enter this place, whose main doors are false and carved into the rock. The savants enter and leave using spells such as [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]] and [[/03_Mechanics/CLI/spells/passwall-xphb|passwall]], while lesser derro access the worship chamber through secret tunnels from the West Cleft.
+The Halls of Sacred Spells comprise a temple of Diirinka carved into a stalagmite in Northfurrow District. Here, the derro Council of Savants meets and plots, living in luxurious quarters and hiding such opulence from their fellow derro. All areas of the Halls of Sacred Spells except the central worship chamber are forbidden to derro who aren't savants. Duergar don't enter this place, whose main doors are false and carved into the rock. The savants enter and leave using spells such as [[dimension-door-xphb|dimension door]] and [[passwall-xphb|passwall]], while lesser derro access the worship chamber through secret tunnels from the West Cleft.
 
 ## Cairngorm Cavern
 
@@ -722,13 +722,13 @@ This cryptic message refers to the demon lords and the madness their presence is
 
 As the characters prepare to leave, Hgraam calls for his apprentice Dorhun, who arrives bearing a polished crystal the length of a human forearm. Hgraam offers the crystal to the characters as a token of his gratitude, telling them it might be helpful in the future.
 
-The [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B) resonates strongly with conjuration and divination magic. If the characters keep the crystal after escaping the Underdark, it will be of use if they return to deal with the demonic incursion, as it is linked to the mysterious library of Gravenhollow and has additional properties when used there (see chapter 11).
+The [[stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B) resonates strongly with conjuration and divination magic. If the characters keep the crystal after escaping the Underdark, it will be of use if they return to deal with the demonic incursion, as it is linked to the mysterious library of Gravenhollow and has additional properties when used there (see chapter 11).
 
 ## Themberchaud's Lair
 
 At the far southeast corner of Gracklstugh's cavern, the entrance to [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s lair is guarded by the Keepers of the Flame. Not that anyone would be foolish enough to trespass into the Wyrmsmith's home, but ever since the Gray Ghosts stole a red dragon egg meant to hatch [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s successor, the Keepers aren't taking any chances.
 
-For some time now, the Keepers have been actively seeking capable mercenaries in Gracklstugh and taking any opportunity to press them into service. If an agent of the order intervened in the characters' arrest (see "Getting Captured"), the leader of the Keepers of the Flame—Gartokkar Xundorn—is notified by magical messaging. He waits for the characters as they are brought to the dragon's cavern—but [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|Themberchaud]] is watching too.
+For some time now, the Keepers have been actively seeking capable mercenaries in Gracklstugh and taking any opportunity to press them into service. If an agent of the order intervened in the characters' arrest (see "Getting Captured"), the leader of the Keepers of the Flame—Gartokkar Xundorn—is notified by magical messaging. He waits for the characters as they are brought to the dragon's cavern—but [[adult-red-dragon-xmm|Themberchaud]] is watching too.
 
 The dragon speaks Dwarvish to its servants as the characters approach. Read the following:
 
@@ -745,11 +745,11 @@ The dragon speaks Dwarvish to its servants as the characters approach. Read the 
 
 ### Agents of the Wyrmsmith
 
-Like most of his kind, [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] is vain and proud. He's pampered, but also restless. The [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|adult red dragon]] has been aware for several years that his handlers are withholding things from him, but rather than demand disclosure, he has waited and observed. He wants agents of his own, and sees the interest of the Keepers in the adventurers as an opportunity.
+Like most of his kind, [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] is vain and proud. He's pampered, but also restless. The [[adult-red-dragon-xmm|adult red dragon]] has been aware for several years that his handlers are withholding things from him, but rather than demand disclosure, he has waited and observed. He wants agents of his own, and sees the interest of the Keepers in the adventurers as an opportunity.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/034-ooa04-06.webp#center)
 
-The dragon demands to speak with the characters in private, with his nervous duergar handlers having no choice but to acquiesce. When they escort the characters into the dragon's lair, [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] is resting on a mountain of gold. He tells the keepers to leave him alone with the adventurers, hissing that any [[/03_Mechanics/CLI/conditions#Invisible|invisible]] lurkers will be turned to ash. Once alone, he asks the characters their names, backgrounds, how they found themselves in the Underdark, and the events that led them to Gracklstugh.
+The dragon demands to speak with the characters in private, with his nervous duergar handlers having no choice but to acquiesce. When they escort the characters into the dragon's lair, [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] is resting on a mountain of gold. He tells the keepers to leave him alone with the adventurers, hissing that any [[conditions#Invisible|invisible]] lurkers will be turned to ash. Once alone, he asks the characters their names, backgrounds, how they found themselves in the Underdark, and the events that led them to Gracklstugh.
 
 [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] makes the characters an offer: become his agents in Gracklstugh, and gain his protection. Their first mission is to do whatever the Keepers of the Flame ask them to—but to report to [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] before reporting to them.
 
@@ -757,7 +757,7 @@ The dragon doesn't wait for the characters to respond, since his ego can't accep
 
 #### Treasure
 
-The characters might be tempted to inspect [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s hoard from where they stand, as the dragon doesn't allow them to get closer than 60 feet in front of him. The hoard consists of 3,000 pp, 20,000 gp, 45,000 sp, 150,000 cp, six 1,000 gp fire opals, ten 500 gp peridots, thirty 100 gp garnets, a gourd containing [[/03_Mechanics/CLI/items/oil-of-sharpness-xdmg|oil of sharpness]], a [[/03_Mechanics/CLI/items/potion-of-flying-xdmg|potion of flying]], a [[/03_Mechanics/CLI/items/potion-of-longevity-xdmg|potion of longevity]], and a [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|potion of supreme healing]]. The magic items are buried under coins and not visible at a glance. One must dig through the coins to find them.
+The characters might be tempted to inspect [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s hoard from where they stand, as the dragon doesn't allow them to get closer than 60 feet in front of him. The hoard consists of 3,000 pp, 20,000 gp, 45,000 sp, 150,000 cp, six 1,000 gp fire opals, ten 500 gp peridots, thirty 100 gp garnets, a gourd containing [[oil-of-sharpness-xdmg|oil of sharpness]], a [[potion-of-flying-xdmg|potion of flying]], a [[potion-of-longevity-xdmg|potion of longevity]], and a [[potion-of-supreme-healing-xdmg|potion of supreme healing]]. The magic items are buried under coins and not visible at a glance. One must dig through the coins to find them.
 
 A character who tries to get closer receives a friendly warning in the form of a growl, a stare, and claws clicking on the floor. [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]] uses his breath weapon on any character who tries again, or who attempts to sneak past him and fails. Then he calmly carries on as if nothing happened.
 
@@ -791,22 +791,22 @@ There are currently two factions using the tunnels for their own ends. The Gray 
 > 
 > **Faerzress.** The Whorlstone Tunnels are suffused with *faerzress* (see "Faerzress" in chapter 2 for effects). *Faerzress* has also altered the physical appearance of the complex, creating spiral patterns on the walls and ceilings. These spirals are what give the complex its name. Because of these weird spiraling patterns, saving throws to resist *faerzress*-induced madness are made with disadvantage.
 > 
-> **Foul Water.** Water from the Darklake drips from stalactites and trickles through cracks in the walls, forming narrow streams and shallow pools throughout the Whorlstone Tunnels. Any creature that drinks the foul water must succeed on a DC 12 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]. The [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature can repeat the saving throw at the end of each hour to end the effect.
+> **Foul Water.** Water from the Darklake drips from stalactites and trickles through cracks in the walls, forming narrow streams and shallow pools throughout the Whorlstone Tunnels. Any creature that drinks the foul water must succeed on a DC 12 Constitution saving throw or become [[conditions#Poisoned|poisoned]]. The [[conditions#Poisoned|poisoned]] creature can repeat the saving throw at the end of each hour to end the effect.
 > 
-> **Edible Fungi.** Edible fungi (including pygmywort and bigwig) are abundant in the Whorlstone Tunnels. Characters can attempt DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) checks to forage here.
+> **Edible Fungi.** Edible fungi (including pygmywort and bigwig) are abundant in the Whorlstone Tunnels. Characters can attempt DC 10 Wisdom ([[skills#Survival|Survival]]) checks to forage here.
 ^whorlstone-tunnels-general-features
 
 ### Faerzress-Suffused Fungi
 
-The Whorlstone Tunnels are home to two unique kinds of *faerzress*-suffused mushrooms: bigwigs and pygmyworts. Any character who studies these mushrooms can identify their magical effects with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check, an [[/03_Mechanics/CLI/spells/identify-xphb|identify]] spell, or by trial and error. A single nibble of a mushroom alters a character's size by a few inches for 5 minutes, so characters foraging for food might discover the mushrooms' magic by accident. The size-altering effects of eating multiple bigwigs or pygmyworts aren't cumulative, although their durations are. These mushrooms lose their properties if they are taken outside the Whorlstone Tunnels for 1 hour or more.
+The Whorlstone Tunnels are home to two unique kinds of *faerzress*-suffused mushrooms: bigwigs and pygmyworts. Any character who studies these mushrooms can identify their magical effects with a successful DC 15 Intelligence ([[skills#Nature|Nature]]) check, an [[identify-xphb|identify]] spell, or by trial and error. A single nibble of a mushroom alters a character's size by a few inches for 5 minutes, so characters foraging for food might discover the mushrooms' magic by accident. The size-altering effects of eating multiple bigwigs or pygmyworts aren't cumulative, although their durations are. These mushrooms lose their properties if they are taken outside the Whorlstone Tunnels for 1 hour or more.
 
 #### Bigwig
 
-A bigwig is a four-inch-tall mushroom with a thin stem and a wide purple cap. A creature that eats one can choose to make a DC 12 Constitution saving throw to not be affected by the mushroom's magic. If the creature fails or forgoes the saving throw, it grows in size as though under the enlarge effect of an [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|enlarge/reduce]] spell. The effect lasts for 1 hour. Ten minutes before the effect ends, the creature feels a tingling sensation, at which point it can sustain its current size by eating another wurple. The effect ends if the creature eats a pygmywort mushroom or is magically reduced to its normal size (using the reduce effect of an [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|enlarge/reduce]] spell, for example).
+A bigwig is a four-inch-tall mushroom with a thin stem and a wide purple cap. A creature that eats one can choose to make a DC 12 Constitution saving throw to not be affected by the mushroom's magic. If the creature fails or forgoes the saving throw, it grows in size as though under the enlarge effect of an [[enlarge-reduce-xphb|enlarge/reduce]] spell. The effect lasts for 1 hour. Ten minutes before the effect ends, the creature feels a tingling sensation, at which point it can sustain its current size by eating another wurple. The effect ends if the creature eats a pygmywort mushroom or is magically reduced to its normal size (using the reduce effect of an [[enlarge-reduce-xphb|enlarge/reduce]] spell, for example).
 
 #### Pygmywort
 
-A pygmywort is a mushroom with a one-inch-long stem and a stubby blue cap with white dots. A creature that eats one can choose to make a DC 12 Constitution saving throw to not be affected by the mushroom's magic. If the creature fails or forgoes the saving throw, it shrinks in size as though under the reduce effect of an [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|enlarge/reduce]] spell. The effect lasts for 1 hour. Ten minutes before the effect ends, the creature feels a tingling sensation, at which point it can sustain its current size by eating another pygmywort. The effect ends if the creature eats a bigwig mushroom or is magically enlarged to its normal size (using the enlarge effect of an [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|enlarge/reduce]] spell, for example).
+A pygmywort is a mushroom with a one-inch-long stem and a stubby blue cap with white dots. A creature that eats one can choose to make a DC 12 Constitution saving throw to not be affected by the mushroom's magic. If the creature fails or forgoes the saving throw, it shrinks in size as though under the reduce effect of an [[enlarge-reduce-xphb|enlarge/reduce]] spell. The effect lasts for 1 hour. Ten minutes before the effect ends, the creature feels a tingling sensation, at which point it can sustain its current size by eating another pygmywort. The effect ends if the creature eats a bigwig mushroom or is magically enlarged to its normal size (using the enlarge effect of an [[enlarge-reduce-xphb|enlarge/reduce]] spell, for example).
 
 ### Random Encounters
 
@@ -819,32 +819,32 @@ As the characters explore the Whorlstone Tunnels, they can run into various crea
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–10 | No encounter |
-| 11–12 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawler]] |
+| 11–12 | 1 [[carrion-crawler-xmm|carrion crawler]] |
 | 13 | Demon pack |
-| 14 | 1 [[/03_Mechanics/CLI/bestiary/aberration/flumph-xmm|flumph]] |
-| 15 | 1 [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray ooze]] |
-| 16 | `d4` moldy [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]] |
-| 17 | `d4` two-headed [[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm|grimlocks]] |
-| 18 | 1 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects (centipedes)]] |
-| 19 | 1 [[/03_Mechanics/CLI/bestiary/elemental/xorn-xmm|xorn]] |
+| 14 | 1 [[flumph-xmm|flumph]] |
+| 15 | 1 [[gray-ooze-xmm|gray ooze]] |
+| 16 | `d4` moldy [[myconid-spore-servant-xmm|quaggoth spore servants]] |
+| 17 | `d4` two-headed [[grimlock-xmm|grimlocks]] |
+| 18 | 1 [[swarm-of-insects-xmm|swarm of insects (centipedes)]] |
+| 19 | 1 [[xorn-xmm|xorn]] |
 | 20 | Yellow mold |
 ^encounter
 
 #### Carrion Crawler
 
-There's a 50 percent chance that the [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawler]] is feasting on the putrid flesh of a dead grimlock and ignores the party unless disturbed. Otherwise, it is scouring tunnels for food and attacks the party on sight. It prefers to attack while clinging to the ceiling.
+There's a 50 percent chance that the [[carrion-crawler-xmm|carrion crawler]] is feasting on the putrid flesh of a dead grimlock and ignores the party unless disturbed. Otherwise, it is scouring tunnels for food and attacks the party on sight. It prefers to attack while clinging to the ceiling.
 
 #### Demon Pack
 
-This pack consists of a [[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm|quasit]] leading `1d4 + 2` [[/03_Mechanics/CLI/bestiary/fiend/dretch-xmm|dretches]]. The quasit turns [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and tries to escape when only two dretches remain; if it succeeds, the cultists in area 14 are alerted. Replace any subsequent demon pack random encounter with `d4` [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] (see appendix C).
+This pack consists of a [[quasit-xmm|quasit]] leading `1d4 + 2` [[dretch-xmm|dretches]]. The quasit turns [[conditions#Invisible|invisible]] and tries to escape when only two dretches remain; if it succeeds, the cultists in area 14 are alerted. Replace any subsequent demon pack random encounter with `d4` [[derro-mpmm|derro]] (see appendix C).
 
 #### Flumph
 
-This creature telepathically asks the characters to rid the cave complex of the derro cultists (see area 14) because it knows what they're trying to do and wants to stop them. If the characters agree and seem friendly, the [[/03_Mechanics/CLI/bestiary/aberration/flumph-xmm|flumph]] offers to accompany them indefinitely. It will not willingly leave the Underdark, however.
+This creature telepathically asks the characters to rid the cave complex of the derro cultists (see area 14) because it knows what they're trying to do and wants to stop them. If the characters agree and seem friendly, the [[flumph-xmm|flumph]] offers to accompany them indefinitely. It will not willingly leave the Underdark, however.
 
 #### Gray Ooze
 
-There's a 50 percent chance that this ooze has psionic abilities (use the psychic variant of the [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray ooze]], as described in the *Monster Manual*).
+There's a 50 percent chance that this ooze has psionic abilities (use the psychic variant of the [[gray-ooze-xmm|gray ooze]], as described in the *Monster Manual*).
 
 #### Moldy Quaggoth Spore Servants
 
@@ -852,11 +852,11 @@ A patch of yellow mold (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Mas
 
 #### Two-Headed Grimlocks
 
-The [[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm|grimlocks]] living in the Whorlstone Tunnels keep to themselves, feeding on fungi and vermin. The derro have tried to enslave them, without much success. In a weird example of détente, members of the two races have learned to avoid one another. Each grimlock has sprouted a screaming second head, which has no effect on its statistics.
+The [[grimlock-xmm|grimlocks]] living in the Whorlstone Tunnels keep to themselves, feeding on fungi and vermin. The derro have tried to enslave them, without much success. In a weird example of détente, members of the two races have learned to avoid one another. Each grimlock has sprouted a screaming second head, which has no effect on its statistics.
 
 #### Xorn
 
-This creature has been working its way through the rock of the Whorlstone Tunnels, consuming vast amounts of *faerzress*-infused stone. The change in the *faerzress* brought on by the arrival of the demon lords has left the [[/03_Mechanics/CLI/bestiary/elemental/xorn-xmm|xorn]] confused and easily angered. It tries to bargain for metal or gems to eat, and attacks if refused. If the adventurers feed the xorn and can communicate with it, the creature can tell them that it sensed a great planar upheaval recently, though it knows nothing about the demons or their spreading madness.
+This creature has been working its way through the rock of the Whorlstone Tunnels, consuming vast amounts of *faerzress*-infused stone. The change in the *faerzress* brought on by the arrival of the demon lords has left the [[xorn-xmm|xorn]] confused and easily angered. It tries to bargain for metal or gems to eat, and attacks if refused. If the adventurers feed the xorn and can communicate with it, the creature can tell them that it sensed a great planar upheaval recently, though it knows nothing about the demons or their spreading madness.
 
 #### Yellow Mold
 
@@ -868,10 +868,10 @@ The characters notice a patch of yellow mold (see ""Dungeon Hazards"" in chapter
 
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | A humanoid skeleton wearing a [[/03_Mechanics/CLI/items/ring-of-water-walking-xdmg|ring of water walking]] on one bony finger (no ring is found on subsequent occurrences of this encounter) |
+| 1 | A humanoid skeleton wearing a [[ring-of-water-walking-xdmg|ring of water walking]] on one bony finger (no ring is found on subsequent occurrences of this encounter) |
 | 2 | A closed zurkhwood chest containing `1d6 × 100` gp and `d6` 50 gp gems |
 | 3 | A humanoid skeleton in tattered leather armor carrying a rusted shortsword and one of the following: a rotted quiver holding `d20` *+1 arrows*, a leather pouch containing `d10` *+2 sling stones*, or a zurkhwood case containing `d4` *+3 crossbow bolts* |
-| 4 | A [[/03_Mechanics/CLI/items/1-shield-xdmg|+1 shield]] (on subsequent occurrences of this encounter, the shield is rusted and nonmagical) |
+| 4 | A [[1-shield-xdmg|+1 shield]] (on subsequent occurrences of this encounter, the shield is rusted and nonmagical) |
 ^encounter
 
 ### Finding Droki
@@ -887,27 +887,27 @@ If the characters are on a quest to find [[/03_Mechanics/CLI/bestiary/npc/droki-
 
 [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]'s route takes him all around the Whorlstone Tunnels, and he's too scatterbrained to notice anyone following him. [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]'s route is marked with red arrows on the map of the Whorlstone Tunnels. He eats a pygmywort mushroom whenever he needs to navigate a narrow tunnel. As he approaches areas 7 and 8, he eats a bigwig mushroom, reverts to normal size, delivers the Gray Ghost parcel (see "Treasure"), and collects his payment from Lorthio the [[/03_Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota|duergar alchemist]] (see area 8). [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] then heads north to area 9, where he sneaks quietly around the central pool so as not to disturb its occupant. Upon reaching area 11, he greets the derro there before eating another pygmywort mushroom and traveling through the narrow tunnel leading to area 12. He eats another bigwig and reverts to normal size before making his delivery to the cultists in that area. After visiting the cultists, [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] makes his way out of the Whorlstone Tunnels.
 
-If the characters hinder or attack [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], he screams in fright and knocks his feet together, activating his [[/03_Mechanics/CLI/items/boots-of-speed-xdmg|boots of speed]]. If a chase ensues, resolve the outcome using the chase rules in "chapter 8" of the "Dungeon Master's Guide". [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] has advantage in his Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks, as he knows the Whorlstone Tunnels well. If he loses the characters, he resumes his errands as if nothing had happened.
+If the characters hinder or attack [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], he screams in fright and knocks his feet together, activating his [[boots-of-speed-xdmg|boots of speed]]. If a chase ensues, resolve the outcome using the chase rules in "chapter 8" of the "Dungeon Master's Guide". [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] has advantage in his Dexterity ([[skills#Stealth|Stealth]]) checks, as he knows the Whorlstone Tunnels well. If he loses the characters, he resumes his errands as if nothing had happened.
 
-If [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] manages to escape, characters can pick up his trail by searching any area through which the derro passed and succeeding on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check.
+If [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] manages to escape, characters can pick up his trail by searching any area through which the derro passed and succeeding on a DC 15 Wisdom ([[skills#Survival|Survival]]) check.
 
 #### Roleplaying Droki
 
-[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] hates everyone in general and surfacers in particular. He gnashes his teeth if he has to address the characters, taking every opportunity to be insulting and misleading. If the characters look through his satchel while he's still conscious, he throws an epic tantrum and becomes intractable until knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]].
+[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] hates everyone in general and surfacers in particular. He gnashes his teeth if he has to address the characters, taking every opportunity to be insulting and misleading. If the characters look through his satchel while he's still conscious, he throws an epic tantrum and becomes intractable until knocked [[conditions#Unconscious|unconscious]].
 
 [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is also obsessed with things happening where and when they should. If he is captured before he runs his errands in the Whorlstone Tunnels, he constantly complains about the characters altering fate by delaying him, and a good tactic to pressure him is to threaten to hold him indefinitely. He prefers to escape than to fight, except if the characters take his satchel.
 
 #### Treasure
 
-Killing or incapacitating [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] gives the characters the chance to rummage through his belongings. He wears [[/03_Mechanics/CLI/items/boots-of-speed-xdmg|boots of speed]] and a hat that is one of a kind. He sewed two stuffed displacer beast tentacles to the hat in the hopes of them attacking his enemies on their own, a delusion he volunteers if the characters question him. The hat might be worth something to a collector of oddities, but is otherwise worthless.
+Killing or incapacitating [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] gives the characters the chance to rummage through his belongings. He wears [[boots-of-speed-xdmg|boots of speed]] and a hat that is one of a kind. He sewed two stuffed displacer beast tentacles to the hat in the hopes of them attacking his enemies on their own, a delusion he volunteers if the characters question him. The hat might be worth something to a collector of oddities, but is otherwise worthless.
 
 [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]'s satchel is made of stitched darkmantle hide and contains the following items:
 
 - 1 gp and 10 sp  
-- A [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scroll]] of [[/03_Mechanics/CLI/spells/see-invisibility-xphb|see invisibility]]  
-- Two [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]]  
+- A [[spell-scroll-xdmg|spell scroll]] of [[see-invisibility-xphb|see invisibility]]  
+- Two [[potion-of-healing-xdmg|potions of healing]]  
 - A worthless collection of dead vermin (spiders, centipedes, and the like) in various states of decomposition  
-- Pages of lizard-skin parchment held together between two leather covers from two different books. The pages are full of mad scribbles and arcane formulas, but a character proficient in Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) can study them for 1 hour to discover that they constitute a spellbook containing the [[/03_Mechanics/CLI/spells/tensers-floating-disk-xphb|Tenser's floating disk]] and [[/03_Mechanics/CLI/spells/feign-death-xphb|feign death]] spells.  
+- Pages of lizard-skin parchment held together between two leather covers from two different books. The pages are full of mad scribbles and arcane formulas, but a character proficient in Intelligence ([[skills#Arcana|Arcana]]) can study them for 1 hour to discover that they constitute a spellbook containing the [[tensers-floating-disk-xphb|Tenser's floating disk]] and [[feign-death-xphb|feign death]] spells.  
 - A strange lump of black metal, which [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] intends to deliver to the Gray Ghosts (see below)  
 - A scroll in a copper tube and four small pouches containing stone giant toenail clippings and skin flecks, which [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] intends to deliver to the cultists (see below). Each pouch is tagged with a different name, and the scroll contains a list of names matching those on the tags, together with descriptions. One of the names is "Dorhun," with a description corresponding to Stonespeaker Hgraam's apprentice. The rest of the names belong to other stone giants of Clan Cairngorm.  
 
@@ -919,7 +919,7 @@ The derro might have other items depending on whether he is allowed to make his 
 
 ##### Delivery to the Cultists
 
-[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] intends to deliver the scroll and the pouches of stone giant toenail clippings and skin flecks (ritual components) to the derro cultists (see area 12). [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is paid for this delivery with a [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|potion of invisibility]] and an hourglass worth 50 gp.
+[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] intends to deliver the scroll and the pouches of stone giant toenail clippings and skin flecks (ritual components) to the derro cultists (see area 12). [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is paid for this delivery with a [[potion-of-invisibility-xdmg|potion of invisibility]] and an hourglass worth 50 gp.
 
 #### XP Awards
 
@@ -942,7 +942,7 @@ The narrow corridor from the West Cleft opens into a long cavern lined with stal
 
 This place offers many hiding places for characters to lay in ambush. *Faerzress* prevents sounds of combat from being heard outside in the West Cleft or farther into the tunnels.
 
-If the characters wait here for [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], he appears after `2d12` hours. In the middle of that wait, each character must make a DC 14 Wisdom saving throw. On a success, the character feels only a mild discomfort. A character who rolls a natural 20 on the save receives flashes of the future, gaining the benefit of the Lucky feat (see chapter 6, "[[/03_Mechanics/CLI/feats/lucky-xphb|Customization Options]]," in the "Player's Handbook") until the start of his or her next long rest. If the character already has the Lucky feat, he or she gains an extra 3 luck points to spend. On a failed save, a character sees disturbing images within the shimmering *faerzress* light and has disadvantage on ability checks and saving throws until he or she finishes a short rest outside this area.
+If the characters wait here for [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], he appears after `2d12` hours. In the middle of that wait, each character must make a DC 14 Wisdom saving throw. On a success, the character feels only a mild discomfort. A character who rolls a natural 20 on the save receives flashes of the future, gaining the benefit of the Lucky feat (see chapter 6, "[[lucky-xphb|Customization Options]]," in the "Player's Handbook") until the start of his or her next long rest. If the character already has the Lucky feat, he or she gains an extra 3 luck points to spend. On a failed save, a character sees disturbing images within the shimmering *faerzress* light and has disadvantage on ability checks and saving throws until he or she finishes a short rest outside this area.
 
 If the characters caught [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] in Gracklstugh and brought him here, they must make the saving throw at some point during their interrogation. Knowing the power of the cavern, [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] bides his time, giving nonsensical answers and hissing at the characters. He makes his move to escape after the characters make their saving throws, fleeing by the route described in the "Finding [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]" section.
 
@@ -976,15 +976,15 @@ If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] returns to Gracklstug
 
 The humanoid remains on the floor make the entire cavern difficult terrain. Characters can identify the remains as belonging to several derro, deep gnomes, and goblins, as well as a couple grimlocks.
 
-[[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is a typical [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] and attacks the characters regardless of their intentions. On his first turn, he uses a bonus action to channel the power of this "shrine," raising six [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]] to aid him. The undead assemble from the remains on the floor to form shambling, mismatched bodies. Each skeleton has two skulls, although this has no effect on its abilities.
+[[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is a typical [[derro-mpmm|derro]] and attacks the characters regardless of their intentions. On his first turn, he uses a bonus action to channel the power of this "shrine," raising six [[skeleton-xmm|skeletons]] to aid him. The undead assemble from the remains on the floor to form shambling, mismatched bodies. Each skeleton has two skulls, although this has no effect on its abilities.
 
 [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] fights with insane confidence and seems surprised if the party defeats him, screaming incoherent last words about the end of the world. The skeletons fight until destroyed even if [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is defeated first.
 
-If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] was killed in Velkynvelve or at some point in the characters' travels through the Underdark, replace him with a [[/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm|carrion crawler]] feeding on the dead remains.
+If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] was killed in Velkynvelve or at some point in the characters' travels through the Underdark, replace him with a [[carrion-crawler-xmm|carrion crawler]] feeding on the dead remains.
 
 #### Development
 
-When the monsters are defeated, the [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] of a deep gnome named Pelek pokes its head up out of the ground, blinks, and then emerges fully. The ghost is friendly and tells the adventurers that [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] killed him not too long ago, then chopped him into pieces to join the other body parts in the shrine. Pelek explains how he was traveling from Blingdenstone when he fell in with [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]]. He knows little about the Whorlstone Tunnels, but he has observed a shrunken derro with a funny hat ([[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]) entering and leaving the narrow tunnels. Pelek doesn't know about the pygmywort mushrooms.
+When the monsters are defeated, the [[ghost-xmm|ghost]] of a deep gnome named Pelek pokes its head up out of the ground, blinks, and then emerges fully. The ghost is friendly and tells the adventurers that [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] killed him not too long ago, then chopped him into pieces to join the other body parts in the shrine. Pelek explains how he was traveling from Blingdenstone when he fell in with [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]]. He knows little about the Whorlstone Tunnels, but he has observed a shrunken derro with a funny hat ([[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]) entering and leaving the narrow tunnels. Pelek doesn't know about the pygmywort mushrooms.
 
 Pelek asks the characters to take one or more parts of him to Blingdenstone and bury his remains there, so that his spirit can rest. It's impossible to tell which body parts are his, and looking around is a gruesome task that speaks loudly to [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]]'s madness. Pelek recalls that the strange magic that pervades the tunnels animated one of his severed hands, and it scuttled away through one of the narrow tunnels. (Characters might encounter it in area 13.) Pelek points out that characters can recognize the hand because it was wearing an obsidian ring. If the characters need more reasons to go to Blingdenstone, Pelek adds that the svirfneblin who live there know many ways to the surface.
 
@@ -1003,7 +1003,7 @@ This pool is fed by a river that flows from the Darklake. The river carries many
 
 The water is heated by a thermal spring and pleasantly warm. However, the pool is disease-ridden. Any creature that starts its turn in the water must make a DC 13 Constitution saving throw. On a failed save, the creature is infected with cackle fever (see ""Diseases"" in chapter 8 of the "Dungeon Master's Guide"). Gnomes are immune.
 
-The characters can try to get around the pool without swimming it, by using magic or climbing along the walls. Climbing the slippery walls of the cavern requires a successful DC 13 [[/03_Mechanics/CLI/skills#Athletics|Athletics]] check. On a failed check, a character falls into the water.
+The characters can try to get around the pool without swimming it, by using magic or climbing along the walls. Climbing the slippery walls of the cavern requires a successful DC 13 [[skills#Athletics|Athletics]] check. On a failed check, a character falls into the water.
 
 ### 3. Parade of Fools
 
@@ -1014,7 +1014,7 @@ Myconids journeying through the Underdark were attracted to the enriched fungal 
 > The tunnel opens into a natural cave, wherein you see several fungal creatures dancing to a silent tune. Three of them stand five feet tall, while the others are half as tall. One of the small ones stands apart from the rest, its movements not nearly as frantic. Hunched nearby are two larger creatures that resemble apes covered with mushroom growths and yellow mold.
 ^1ce
 
-Characters who know anything about myconids know that myconids don't dance. If [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is with the party, it points this out. This group is composed of three [[/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm|myconid adults]] and five [[/03_Mechanics/CLI/bestiary/plant/myconid-sprout-xmm|myconid sprouts]]. [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] recognizes one of the sprouts—the one not dancing—as his buddy, [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] (see "Development"). The ape-like creatures are two [[/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm|quaggoth spore servants]], and each one is covered with a patch of yellow mold (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide"). Whenever a quaggoth spore servant is touched or takes damage, it releases a cloud of yellow mold spores until its mold patch is destroyed.
+Characters who know anything about myconids know that myconids don't dance. If [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is with the party, it points this out. This group is composed of three [[myconid-adult-xmm|myconid adults]] and five [[myconid-sprout-xmm|myconid sprouts]]. [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] recognizes one of the sprouts—the one not dancing—as his buddy, [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] (see "Development"). The ape-like creatures are two [[myconid-spore-servant-xmm|quaggoth spore servants]], and each one is covered with a patch of yellow mold (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide"). Whenever a quaggoth spore servant is touched or takes damage, it releases a cloud of yellow mold spores until its mold patch is destroyed.
 
 The myconids are too swept up in their silent revelry to notice the characters. If the adventurers attack, the myconid adults fight fiercely while the sprouts run and hide. The spore servants join the fray if either they or the myconids are threatened. Otherwise, they remain motionless.
 
@@ -1032,7 +1032,7 @@ The myconid sprout standing by itself is named [[/03_Mechanics/CLI/bestiary/npc/
 
 #### Development
 
-Voosbur takes no offense if the characters refuse his offer to teach them how to travel "the Lady's dream," simply bidding them farewell as the myconids resume their dancing. If the characters have shown [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] any kindness, it asks their permission to join the party, especially if [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is present. At the same time, Sarith breaks away from the party to join the myconids. The drow turns one last time to give the characters a look of terror and despair before his face loses all expression. He and the dancing myconids then enter a mushroom patch and use the [[/03_Mechanics/CLI/spells/tree-stride-xphb|tree stride]] ability granted by Zuggtmoy's blessing to vanish from sight.
+Voosbur takes no offense if the characters refuse his offer to teach them how to travel "the Lady's dream," simply bidding them farewell as the myconids resume their dancing. If the characters have shown [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] any kindness, it asks their permission to join the party, especially if [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is present. At the same time, Sarith breaks away from the party to join the myconids. The drow turns one last time to give the characters a look of terror and despair before his face loses all expression. He and the dancing myconids then enter a mushroom patch and use the [[tree-stride-xphb|tree stride]] ability granted by Zuggtmoy's blessing to vanish from sight.
 
 #### XP Awards
 
@@ -1055,7 +1055,7 @@ Tiny creatures can move through the thicket at no penalty. For Small and Medium 
 
 Creatures can negate the movement penalty by destroying the fungi before crossing the thicket. Each 5-foot-square area of fungi has AC 10 and 10 hit points. Any attack that deals fire damage has a 50 percent chance of igniting a torchstalk mushroom (see "Fungi of the Underdark" in chapter 2).
 
-The first time a Small or larger character reaches the tunnel intersection, two [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarms of insects]] (centipedes) emerge from nests under the thicket and attack. Two more [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarms of insects]] (spiders) arrive on the second round of combat, plus another [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects]] (centipedes) on the third round.
+The first time a Small or larger character reaches the tunnel intersection, two [[swarm-of-insects-xmm|swarms of insects]] (centipedes) emerge from nests under the thicket and attack. Two more [[swarm-of-insects-xmm|swarms of insects]] (spiders) arrive on the second round of combat, plus another [[swarm-of-insects-xmm|swarm of insects]] (centipedes) on the third round.
 
 #### Treasure
 
@@ -1076,11 +1076,11 @@ The abundance of fungi in the thicket makes it easy to forage here. Among the co
 
 > [!note] Zuggtmoy's Gift
 > 
-> A myconid with Zuggtmoy's gift can, as an action once per day, release a 20-foot-radius cloud of demon-tainted spores. Any other creature within the area that isn't already "blessed" with Zuggtmoy's gift must make a Constitution saving throw, with a save DC of 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. A creature that forgoes or fails the saving throw becomes infected. While infected with Zuggtmoy's gift, the creature gains the ability to cast a special version of the [[/03_Mechanics/CLI/spells/tree-stride-xphb|tree stride]] spell that has no components. This spell allows the infected creature to move through patches of mold and fungi instead of trees. Once it casts this spell, the infected creature can't cast the spell again until it finishes a long rest.
+> A myconid with Zuggtmoy's gift can, as an action once per day, release a 20-foot-radius cloud of demon-tainted spores. Any other creature within the area that isn't already "blessed" with Zuggtmoy's gift must make a Constitution saving throw, with a save DC of 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. A creature that forgoes or fails the saving throw becomes infected. While infected with Zuggtmoy's gift, the creature gains the ability to cast a special version of the [[tree-stride-xphb|tree stride]] spell that has no components. This spell allows the infected creature to move through patches of mold and fungi instead of trees. Once it casts this spell, the infected creature can't cast the spell again until it finishes a long rest.
 > 
 > Any creature infected with Zuggtmoy's gift has disadvantage on attack rolls against plant creatures. In addition, whenever an infected creature finishes a short or long rest, it must make a DC 15 Wisdom saving throw. On a failed save, the creature lapses into a state of euphoric bliss. While in this state, the creature can't take actions, bonus actions, or reactions, and must use all of its movement to dance and twirl about. At the end of its turn, the creature can repeat the saving throw, ending the euphoric bliss effect on a success.
 > 
-> A [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] or [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell rids a creature of Zuggtmoy's gift.
+> A [[remove-curse-xphb|remove curse]] or [[greater-restoration-xphb|greater restoration]] spell rids a creature of Zuggtmoy's gift.
 ^zuggtmoys-gift
 
 ### 5. Raucous Mesa
@@ -1115,12 +1115,12 @@ This small network of tiny grottos leads into one of the dens of the Gray Ghosts
 
 ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/039-ooa04-11.webp#center|Map 4.3: Lair of the Spider King]]
 
-The northeastern cave is the lair of the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]]—a two-headed giant spider warped by demonic influences into a vaguely humanoid shape. This horrific creature uses the [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spider]] stat block with the following modifications:
+The northeastern cave is the lair of the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]]—a two-headed giant spider warped by demonic influences into a vaguely humanoid shape. This horrific creature uses the [[giant-spider-xmm|giant spider]] stat block with the following modifications:
 
-- The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has 44 hit points, a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 14, a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) modifier of +4, and the following saving throw bonuses: Constitution +3, Wisdom +2.  
-- Because of its two heads, the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks and on saving throws against being [[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]], and knocked [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]].  
+- The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has 44 hit points, a passive Wisdom ([[skills#Perception|Perception]]) score of 14, a Wisdom ([[skills#Perception|Perception]]) modifier of +4, and the following saving throw bonuses: Constitution +3, Wisdom +2.  
+- Because of its two heads, the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], and knocked [[conditions#Unconscious|unconscious]].  
 
-The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] senses when intruders enter its domain and can't be [[/03_Mechanics/CLI/conditions#Surprised|surprised]] by them. Along with two normal [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]] (its attendants), the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] waits in ambush. It moves to the entrance of its chamber in an attempt to keep the characters bottled up, while the two giant spiders approach along the walls and ceiling, getting into position above creatures on the floor. The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] and the giant spiders fight to the death, but they don't follow prey that flees.
+The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] senses when intruders enter its domain and can't be [[conditions#Surprised|surprised]] by them. Along with two normal [[giant-spider-xmm|giant spiders]] (its attendants), the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] waits in ambush. It moves to the entrance of its chamber in an attempt to keep the characters bottled up, while the two giant spiders approach along the walls and ceiling, getting into position above creatures on the floor. The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] and the giant spiders fight to the death, but they don't follow prey that flees.
 
 #### Development
 
@@ -1139,9 +1139,9 @@ Double doors blocks the western tunnel. The doors are made of thick zurkhwood an
 
 ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/040-ooa04-10.webp#center|Map 4.4: Gray Ghost Garden]]
 
-Three [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] work here. They are members of the Gray Ghosts who have been assigned gardening duty. They attack as soon as they see intruders. If the characters arrive through the crack in the east wall (see "Fungi Pit"), they can hide among the fungi and try to catch the duergar by surprise. If the characters make a lot of noise in area 6 or force their way through the doors to the west, the duergar turn [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and attack as soon as the characters arrive.
+Three [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] work here. They are members of the Gray Ghosts who have been assigned gardening duty. They attack as soon as they see intruders. If the characters arrive through the crack in the east wall (see "Fungi Pit"), they can hide among the fungi and try to catch the duergar by surprise. If the characters make a lot of noise in area 6 or force their way through the doors to the west, the duergar turn [[conditions#Invisible|invisible]] and attack as soon as the characters arrive.
 
-At the start of combat, two duergar use their Enlarge action while the third opens the valve on the copper tank and aims its nozzle at the characters. During the second round of combat on the same initiative count as the duergar, the [[/03_Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota|duergar alchemist]] from area 8 joins the fight. If the other duergar fall, the alchemist turns [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and tries to escape.
+At the start of combat, two duergar use their Enlarge action while the third opens the valve on the copper tank and aims its nozzle at the characters. During the second round of combat on the same initiative count as the duergar, the [[/03_Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota|duergar alchemist]] from area 8 joins the fight. If the other duergar fall, the alchemist turns [[conditions#Invisible|invisible]] and tries to escape.
 
 #### Fungi Pit
 
@@ -1167,7 +1167,7 @@ A character proficient and equipped with a poisoner's kit can also collect `d6` 
 
 The copper tank is a sprinkler used by the duergar to fertilize the fungi in the pit. The copper pipe that extends from the tank is 10 feet long and can be turned so that its nozzle points in any direction. The nozzle is pointed toward the pit by default.
 
-Any creature can use an action to open or close a valve on the tank, releasing a cloud of pungent fertilizer that fills a 30-foot cube. The cloud grows 10 feet per side each round the valve remains open. The cloud has the same effect as a [[/03_Mechanics/CLI/spells/stinking-cloud-xphb|stinking cloud]] spell (save DC 12), but the effect ends `1d4 + 1` rounds after the valve is closed or the tank runs out of fertilizer. The tank contains enough fertilizer to spray for 10 rounds.
+Any creature can use an action to open or close a valve on the tank, releasing a cloud of pungent fertilizer that fills a 30-foot cube. The cloud grows 10 feet per side each round the valve remains open. The cloud has the same effect as a [[stinking-cloud-xphb|stinking cloud]] spell (save DC 12), but the effect ends `1d4 + 1` rounds after the valve is closed or the tank runs out of fertilizer. The tank contains enough fertilizer to spray for 10 rounds.
 
 As an action or a bonus action, a creature can turn the pipe 90 degrees in any direction.
 
@@ -1177,7 +1177,7 @@ The crates along the north wall are made of zurkhwood and stacked 5 feet high, a
 
 #### Development
 
-If the characters keep any duergar alive for questioning, it takes a successful DC 16 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check to gain an answer to a single question. The characters can ask only three questions total before the surviving duergar become incoherent and start frothing at the mouth—a form of madness brought on by demon-tainted *faerzress*. Any spell or effect that cures indefinite madness also restores a duergar's sanity (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide").
+If the characters keep any duergar alive for questioning, it takes a successful DC 16 Charisma ([[skills#Intimidation|Intimidation]]) check to gain an answer to a single question. The characters can ask only three questions total before the surviving duergar become incoherent and start frothing at the mouth—a form of madness brought on by demon-tainted *faerzress*. Any spell or effect that cures indefinite madness also restores a duergar's sanity (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide").
 
 The duergar stationed here are tasked with protecting the fungi garden and helping the alchemist in his work. They use a trapdoor in area 8 to move between the Whorlstone Tunnels and the Darklake Docks in Gracklstugh. They have been ordered not to explore the rest of the Whorlstone Tunnels, though their leaders sometimes go farther into the tunnels on unknown business.
 
@@ -1211,11 +1211,11 @@ Sounds of combat here alert the duergar in area 7. They use their Enlarge action
 
 #### Treasure
 
-If the characters spend 1 hour ransacking the lab, they can assemble two herbalism kits, one poisoner's kit, and ten healer's kits. In the (unlocked) zurkhwood chests, they find `d6` vials of acid, `d6` flasks of alchemist's fire, two [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]], one [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]], one [[/03_Mechanics/CLI/items/potion-of-fire-breath-xdmg|potion of fire breath]], and one [[/03_Mechanics/CLI/items/potion-of-psychic-resistance-xdmg|potion of psychic resistance]].
+If the characters spend 1 hour ransacking the lab, they can assemble two herbalism kits, one poisoner's kit, and ten healer's kits. In the (unlocked) zurkhwood chests, they find `d6` vials of acid, `d6` flasks of alchemist's fire, two [[potion-of-healing-xdmg|potions of healing]], one [[potion-of-greater-healing-xdmg|potion of greater healing]], one [[potion-of-fire-breath-xdmg|potion of fire breath]], and one [[potion-of-psychic-resistance-xdmg|potion of psychic resistance]].
 
-Depending on whether or not [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] delivered his parcel and took his payment, the desk contains either a lump of black metal or a holy symbol of Laduguer made of mithral (see "Finding [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]"). The desk also holds alchemical recipes scrawled in Dwarvish on torn strips of parchment. A character who studies these scraps for an hour and succeeds on a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check can piece together the formulas for crafting vials of acid and flasks of alchemist's fire. The character can gather enough ingredients in the laboratory to craft `d4` of each. The character who knows the recipe and has the proper ingredients can craft a vial of acid or flask of alchemist's fire in 1 hour.
+Depending on whether or not [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] delivered his parcel and took his payment, the desk contains either a lump of black metal or a holy symbol of Laduguer made of mithral (see "Finding [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]"). The desk also holds alchemical recipes scrawled in Dwarvish on torn strips of parchment. A character who studies these scraps for an hour and succeeds on a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check can piece together the formulas for crafting vials of acid and flasks of alchemist's fire. The character can gather enough ingredients in the laboratory to craft `d4` of each. The character who knows the recipe and has the proper ingredients can craft a vial of acid or flask of alchemist's fire in 1 hour.
 
-A character who searches the desk and succeeds on a DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check also finds a letter hidden in a secret compartment. The letter is written in Dwarvish on a patch of lizard hide:
+A character who searches the desk and succeeds on a DC 12 Intelligence ([[skills#Investigation|Investigation]]) check also finds a letter hidden in a secret compartment. The letter is written in Dwarvish on a patch of lizard hide:
 
 > [!note] 
 > 
@@ -1224,7 +1224,7 @@ A character who searches the desk and succeeds on a DC 12 Intelligence ([[/03_Me
 > –Gorglak
 ^1e8
 
-If the characters capture Lorthio and question him about the letter, he reveals one of the following bits of information each time a character succeeds on a DC 13 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check:
+If the characters capture Lorthio and question him about the letter, he reveals one of the following bits of information each time a character succeeds on a DC 13 Charisma ([[skills#Intimidation|Intimidation]]) check:
 
 - Gorglak is a warrior of the Stone Guard stationed at one of the outer gates near the Darklake District.  
 - Gorglak is an avid collector of weird weapons.  
@@ -1243,11 +1243,11 @@ Foul water from the Darklake spills into this cave, forming a pool. See the "Who
 > The chamber splits into two paths surrounding a large pool, filled by water trickling from stalactites along the ceiling. The western path forms a ramp above the pool's surface, while the eastern path runs level with the water and continues into a tunnel opening. The water turns darker toward the center of the pool, where it transforms from a gentle swirl into a churning vortex.
 ^1eb
 
-A [[/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm|water weird]] bound to the pool years has been corrupted by the demonic influence infecting these tunnels, turning it evil and giving it a dark hunger.
+A [[water-weird-xmm|water weird]] bound to the pool years has been corrupted by the demonic influence infecting these tunnels, turning it evil and giving it a dark hunger.
 
 The western path slopes upward to a maximum height of 60 feet above the pool's surface. If the characters take this upper path, the water weird attacks them when they are 30 feet above the surface of the pool, as it was bound here to protect the path leading to area 16. The water weird can command the pool's water to erupt like a geyser, effectively lifting the water weird up to the characters' level and putting them within its reach. Any character the water weird successfully grapples is dropped in the pool, taking no damage from the fall. The pool is 30 feet deep in the middle and 5 feet deep near the shore.
 
-If the characters follow [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] into this chamber, they see him sneaking carefully along the eastern path. They can attempt to follow him with a group Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check contested by the water weird's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score. If more than half the characters fail the check, the water weird notices them and attacks. If the characters are attacked by the water weird while following [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], the wily derro realizes he's being shadowed and makes a run for it.
+If the characters follow [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] into this chamber, they see him sneaking carefully along the eastern path. They can attempt to follow him with a group Dexterity ([[skills#Stealth|Stealth]]) check contested by the water weird's passive Wisdom ([[skills#Perception|Perception]]) score. If more than half the characters fail the check, the water weird notices them and attacks. If the characters are attacked by the water weird while following [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], the wily derro realizes he's being shadowed and makes a run for it.
 
 ### 10. Cultist Pens
 
@@ -1262,17 +1262,17 @@ A large gate made of iron bars blocks the northwest entrance and is usually lock
 > Two derro stand by a large cauldron in front of a tent near the cave's center. Both are talking while apparently ignoring each other. In the cages, three hulking brown bears appear to be resting.
 ^1ed
 
-The two [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] (see appendix C) are cultists. One of them is complaining about "the master" while the other talks about something he once fished out of the Darklake.
+The two [[derro-mpmm|derro]] (see appendix C) are cultists. One of them is complaining about "the master" while the other talks about something he once fished out of the Darklake.
 
 ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/041-ooa04-12.webp#center|Map 4.5: Cultist Pens]]
 
-The three cave bears (use the [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|polar bear]] statistics) are alert, despite appearances to the contrary. Characters hoping to sneak past them must succeed on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks contested by the bears' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 13. On their first turn, the cultists move to free the bears. Each cage is closed with a simple bolt that can be unlatched with an action. Once the first two bears are set free, the third bear breaks out of its cage on its own.
+The three cave bears (use the [[polar-bear-xmm|polar bear]] statistics) are alert, despite appearances to the contrary. Characters hoping to sneak past them must succeed on Dexterity ([[skills#Stealth|Stealth]]) checks contested by the bears' passive Wisdom ([[skills#Perception|Perception]]) score of 13. On their first turn, the cultists move to free the bears. Each cage is closed with a simple bolt that can be unlatched with an action. Once the first two bears are set free, the third bear breaks out of its cage on its own.
 
 A crack in the south wall leads to a narrow tunnel that wends toward area 12. Medium and larger creatures are too big to fit through this narrow tunnel (see the "Whorlstone Tunnels: General Features" sidebar).
 
 #### Spiral Path
 
-This path helps to channel the ritual magic the cultists use to tame the cave bears. Though the ritual is currently inactive, the area radiates a faint aura of enchantment under the scrutiny of a [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] spell.
+This path helps to channel the ritual magic the cultists use to tame the cave bears. Though the ritual is currently inactive, the area radiates a faint aura of enchantment under the scrutiny of a [[detect-magic-xphb|detect magic]] spell.
 
 #### Treasure
 
@@ -1287,13 +1287,13 @@ Some of the cult's more powerful derro savants keep quasits as familiars, and th
 > The narrow tunnel is lit by the same dim, ambient light found throughout this complex. Ahead, you hear the high-pitched cackling of several creatures.
 ^1f1
 
-Four [[/03_Mechanics/CLI/bestiary/fiend/quasit-xmm|quasits]] are wrestling each other farther along in the tunnel. If they notice the characters, they attack.
+Four [[quasit-xmm|quasits]] are wrestling each other farther along in the tunnel. If they notice the characters, they attack.
 
-When two quasits are reduced to 0 hit points, the two remaining ones turn [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and flee. However, they make enough noise in doing so for the characters to follow them by sound. If any quasit escapes, the cultists in area 12 can't be [[/03_Mechanics/CLI/conditions#Surprised|surprised]] and prepare an ambush.
+When two quasits are reduced to 0 hit points, the two remaining ones turn [[conditions#Invisible|invisible]] and flee. However, they make enough noise in doing so for the characters to follow them by sound. If any quasit escapes, the cultists in area 12 can't be [[conditions#Surprised|surprised]] and prepare an ambush.
 
 #### Development
 
-If the characters manage to capture and interrogate a quasit, the creature readily surrenders the name of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]—the [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]] leading the cultists in the Whorlstone Tunnels (see area 12). In exchange for its life, the quasit reveals that the cult plans to curse Gracklstugh's stone giants with madness as a means to sowing chaos in the city.
+If the characters manage to capture and interrogate a quasit, the creature readily surrenders the name of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]—the [[derro-savant-mpmm|derro savant]] leading the cultists in the Whorlstone Tunnels (see area 12). In exchange for its life, the quasit reveals that the cult plans to curse Gracklstugh's stone giants with madness as a means to sowing chaos in the city.
 
 #### XP Awards
 
@@ -1314,19 +1314,19 @@ West of the cavern is a shrieker that serves as an alarm system (see "Fungi Patc
 
 ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/042-ooa04-13.webp#center|Map 4.6: Cultist Hideout]]
 
-[[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]], a [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]], belongs to a fringe group within the Council of Savants using demonology as a path to power. Since the arrival of the demon lords, he has gathered and bullied several apprentices to participate in rituals aimed to sow chaos in Gracklstugh. [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] knows the stone giants are a pillar of the Deepking's power, and that cursing them with Demogorgon's madness will be an appropriate first step toward delivering the entire city to the demon lord.
+[[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]], a [[derro-savant-mpmm|derro savant]], belongs to a fringe group within the Council of Savants using demonology as a path to power. Since the arrival of the demon lords, he has gathered and bullied several apprentices to participate in rituals aimed to sow chaos in Gracklstugh. [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] knows the stone giants are a pillar of the Deepking's power, and that cursing them with Demogorgon's madness will be an appropriate first step toward delivering the entire city to the demon lord.
 
-The cage by the tunnel holds a [[/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm|death dog]], watched over by a nervous [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] cultist. Atop the platform, [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and four more [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] cultists are performing a ritual around the statue at its center. (Statistics for [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and the derro can be found in appendix C.) The cultists' chanting is punctuated with [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] calling out the name "Demogorgon!" Also atop the platform, resting comfortably in an fungi-filled alcove (and initially out of the party's view), is [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]'s bodyguard—a female [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|ettin]] named Grula-Munga.
+The cage by the tunnel holds a [[death-dog-xmm|death dog]], watched over by a nervous [[derro-mpmm|derro]] cultist. Atop the platform, [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and four more [[derro-mpmm|derro]] cultists are performing a ritual around the statue at its center. (Statistics for [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and the derro can be found in appendix C.) The cultists' chanting is punctuated with [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] calling out the name "Demogorgon!" Also atop the platform, resting comfortably in an fungi-filled alcove (and initially out of the party's view), is [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]'s bodyguard—a female [[ettin-xmm|ettin]] named Grula-Munga.
 
 When intruders appear, the cultists cease their chanting and take up positions along the edge of the platform as Grula-Munga rises to her feet and picks up her weapons. At the same time, the cultist standing next to the cage releases the death dog. [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] continues his part in the ritual until the characters kill the death dog or one of the cultists, at which point he joins the battle. The door to the death dog's cage is held shut with a simple clasp and requires an action to open.
 
-If any of the quasits escaped from area 11, they warn the cultists that intruders are near. Otherwise, the characters might catch the cultists by surprise. The quasits remain [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and stay close to [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]].
+If any of the quasits escaped from area 11, they warn the cultists that intruders are near. Otherwise, the characters might catch the cultists by surprise. The quasits remain [[conditions#Invisible|invisible]] and stay close to [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]].
 
 #### Fungi Patches
 
 Fungi is rampant throughout this area, growing in large patches on the floors and walls.
 
-Two thick fungi patches grow by each wall in the western tunnel. Clinging to the north wall is a [[/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm|shrieker]] that party members can recognize with a successful DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check. The shrieker starts screaming as soon as anyone comes within 30 feet of it.
+Two thick fungi patches grow by each wall in the western tunnel. Clinging to the north wall is a [[shrieker-fungus-xmm|shrieker]] that party members can recognize with a successful DC 12 Intelligence ([[skills#Nature|Nature]]) check. The shrieker starts screaming as soon as anyone comes within 30 feet of it.
 
 The crack in the floor by the east wall is surrounded by a thick fungus patch that is difficult terrain for Small and Medium characters, and provides half cover for Tiny creatures. Growing among the common fungi are `2d6` bigwigs and `2d6` pygmyworts.
 
@@ -1334,9 +1334,9 @@ The crack in the floor by the east wall is surrounded by a thick fungus patch th
 
 The cavern floor rises to form a natural 5-foot-high platform. A glowing ritual circle dominates the top of the platform. Any non-derro that enters or touches the circle must succeed on a DC 13 Wisdom saving throw or gain one level of madness (see "Madness" in chapter 2). Whether the save succeeds or fails, the creature can't be affected by the circle in this way again. In addition, non-evil creatures within the circle have disadvantage on attack rolls and saving throws.
 
-The statue within the ritual circle is 2 feet tall, weighs 100 pounds, and looks vaguely like a crouching stone giant with a lump on its neck where a second head is beginning to form. The statue is engraved with profane symbols, with the name "Dorhun" scribed in Dwarvish into its back. A successful DC 16 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]] or [[/03_Mechanics/CLI/skills#Religion|Religion]]) check allows a character to recognize the profane symbols as being related to Demogorgon.
+The statue within the ritual circle is 2 feet tall, weighs 100 pounds, and looks vaguely like a crouching stone giant with a lump on its neck where a second head is beginning to form. The statue is engraved with profane symbols, with the name "Dorhun" scribed in Dwarvish into its back. A successful DC 16 Intelligence ([[skills#Arcana|Arcana]] or [[skills#Religion|Religion]]) check allows a character to recognize the profane symbols as being related to Demogorgon.
 
-A search of the platform uncovers a similar but broken statue near a locked iron chest and a pile of books (see "Treasure" for more information on the chest and books). The broken statue is similar to the statue in the circle, except it has the name "Rihuud" carved into its back and its second head is fully formed. If Rihuud is dead, the broken statue turns to dust when the characters touch it. If the characters spared Rihuud's life, a successful DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]] or [[/03_Mechanics/CLI/skills#Religion|Religion]]) check reveals that the second head is a conduit for the curse's magic, and that removing it and returning it to Stonespeaker Hgraam in Cairngorm Cavern will allow the elder giant to end Rihuud's curse.
+A search of the platform uncovers a similar but broken statue near a locked iron chest and a pile of books (see "Treasure" for more information on the chest and books). The broken statue is similar to the statue in the circle, except it has the name "Rihuud" carved into its back and its second head is fully formed. If Rihuud is dead, the broken statue turns to dust when the characters touch it. If the characters spared Rihuud's life, a successful DC 12 Intelligence ([[skills#Arcana|Arcana]] or [[skills#Religion|Religion]]) check reveals that the second head is a conduit for the curse's magic, and that removing it and returning it to Stonespeaker Hgraam in Cairngorm Cavern will allow the elder giant to end Rihuud's curse.
 
 #### Trap
 
@@ -1346,9 +1346,9 @@ The tunnel west of this cavern contains a hidden pit (see ""Sample Traps"" in ch
 
 If the characters return the broken statue (or, at the very least, its second head) to Stonespeaker Hgraam, he gives them an emerald worth 500 gp as a reward, as well as his promise to vouch for them in anything they seek to accomplish in Gracklstugh.
 
-[[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] has a key around his neck that opens the lock on the iron chest, which can also be picked with thieves' tools and a successful DC 17 Dexterity check. The chest contains a jar of [[/03_Mechanics/CLI/items/keoghtoms-ointment-xdmg|Keoghtom's ointment]] and a small leather bag containing 45 gp and 15 sp.
+[[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] has a key around his neck that opens the lock on the iron chest, which can also be picked with thieves' tools and a successful DC 17 Dexterity check. The chest contains a jar of [[keoghtoms-ointment-xdmg|Keoghtom's ointment]] and a small leather bag containing 45 gp and 15 sp.
 
-The books have pages made from trillimac caps (see "Fungi of the Underdark" in chapter 2). They contain the mad scribblings of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and his fellow derro savants. A character proficient in [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#Investigation|Investigation]], or [[/03_Mechanics/CLI/skills#Religion|Religion]] can spend 8 hours poring through them; subtract `d4` hours if the character reads Dwarvish. At the end of this time, the character knows that the books outline two rituals: one that causes a one-headed creature to sprout a second head, and another that allows the grafting of a severed head onto a living creature. The notes fail to mention that the ritual's caster must be suffering from some form of madness to perform either ritual successfully.
+The books have pages made from trillimac caps (see "Fungi of the Underdark" in chapter 2). They contain the mad scribblings of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] and his fellow derro savants. A character proficient in [[skills#Arcana|Arcana]], [[skills#Investigation|Investigation]], or [[skills#Religion|Religion]] can spend 8 hours poring through them; subtract `d4` hours if the character reads Dwarvish. At the end of this time, the character knows that the books outline two rituals: one that causes a one-headed creature to sprout a second head, and another that allows the grafting of a severed head onto a living creature. The notes fail to mention that the ritual's caster must be suffering from some form of madness to perform either ritual successfully.
 
 Tucked in one book are two scrolls: one that bears a list of six stone giant names (including Rihuud's and Dorhun's) and another that is actually a letter written in broken Dwarvish:
 
@@ -1374,17 +1374,17 @@ Victims of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]'s experiments a
 > This cavern is one enormous pit that reeks of death and decomposed flesh. The glow of *faerzress* is everywhere, seeming to flow like fog around dark shapes shambling across the pit floor. A single derro watches from atop a 15-foot-high ledge. A crack in the southeast wall of the pit leads to a narrow tunnel and is flanked by mounds of fungi and offal.
 ^1fd
 
-The pit is 15 feet deep, and the ledge that overlooks it is lined with pointy bits of scrap metal to make any climbing attempt perilous. A creature trying to reach the top of the ledge must succeed on a DC 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. On a failed check, a creature takes 3 (`d6`) slashing damage and remains in the pit. The pit's floor is difficult terrain due to the many corpses and body parts strewn around.
+The pit is 15 feet deep, and the ledge that overlooks it is lined with pointy bits of scrap metal to make any climbing attempt perilous. A creature trying to reach the top of the ledge must succeed on a DC 12 Strength ([[skills#Athletics|Athletics]]) check. On a failed check, a creature takes 3 (`d6`) slashing damage and remains in the pit. The pit's floor is difficult terrain due to the many corpses and body parts strewn around.
 
-A single [[/03_Mechanics/CLI/bestiary/aberration/derro-mpmm|derro]] stands on the ledge overlooking the pit, which contains seven shambling [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]]—three duergar and four grimlocks. The grimlock zombies are drawn to noise, while the duergar zombies attack any living creatures they see in the pit. Meanwhile, the derro uses its crossbow to take shots at any living creatures it sees.
+A single [[derro-mpmm|derro]] stands on the ledge overlooking the pit, which contains seven shambling [[zombie-xmm|zombies]]—three duergar and four grimlocks. The grimlock zombies are drawn to noise, while the duergar zombies attack any living creatures they see in the pit. Meanwhile, the derro uses its crossbow to take shots at any living creatures it sees.
 
-A [[/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm|crawling claw]] wearing an obsidian ring on one stubby finger (see "Treasure") lurks amid the offal mounds. These mounds are difficult terrain to Small and Medium creatures, and the fungi growing atop them provide cover to Tiny creatures. The shriveled gray hand once belonged to Pelek the svirfneblin (see "Development").
+A [[crawling-claw-xmm|crawling claw]] wearing an obsidian ring on one stubby finger (see "Treasure") lurks amid the offal mounds. These mounds are difficult terrain to Small and Medium creatures, and the fungi growing atop them provide cover to Tiny creatures. The shriveled gray hand once belonged to Pelek the svirfneblin (see "Development").
 
 The crack in the southeast wall between the mounds leads to a narrow, meandering tunnel, the floor of which is sunk below a foot of foul water. See the "Whorlstone Tunnels: General Features" sidebar for rules on narrow tunnels and foul water.
 
 #### Treasure
 
-*Faerzress* has transformed Pelek's obsidian ring into a single-use magic item. When a living creature puts it on, the ring disappears, and the creature's skin becomes as hard as obsidian for the next hour. For as long as the effect lasts, the creature gains the benefit of a [[/03_Mechanics/CLI/spells/stoneskin-xphb|stoneskin]] spell.
+*Faerzress* has transformed Pelek's obsidian ring into a single-use magic item. When a living creature puts it on, the ring disappears, and the creature's skin becomes as hard as obsidian for the next hour. For as long as the effect lasts, the creature gains the benefit of a [[stoneskin-xphb|stoneskin]] spell.
 
 #### Development
 
@@ -1407,7 +1407,7 @@ The chamber is brightly lit, as if by sunlight. The sunlight is just a natural t
 
 ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/043-ooa04-14.webp#center|Map 4.7: Obelisk Chamber]]
 
-The different levels of the mesa are separated by 10-foot-high cliffs. Climbing a cliff requires a successful DC 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. Pliinki, a mad [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]] (see appendix C), stands atop of the mesa. Hidden on a shelf above the cavern's entrance, a [[/03_Mechanics/CLI/bestiary/aberration/spectator-xmm|spectator]] tasked with guarding this area sees the characters as soon as they walk 15 feet into the cavern. The spectator screeches an alarm and attacks, killing non-derro with glee. As it fights, it projects telepathic ramblings into the characters' minds, mostly dealing with how exciting it is to have intruders to kill and how even more exciting things will be when the obelisk is complete.
+The different levels of the mesa are separated by 10-foot-high cliffs. Climbing a cliff requires a successful DC 12 Strength ([[skills#Athletics|Athletics]]) check. Pliinki, a mad [[derro-savant-mpmm|derro savant]] (see appendix C), stands atop of the mesa. Hidden on a shelf above the cavern's entrance, a [[spectator-xmm|spectator]] tasked with guarding this area sees the characters as soon as they walk 15 feet into the cavern. The spectator screeches an alarm and attacks, killing non-derro with glee. As it fights, it projects telepathic ramblings into the characters' minds, mostly dealing with how exciting it is to have intruders to kill and how even more exciting things will be when the obelisk is complete.
 
 Pliinki shouts crass obscenities at the characters in a raspy voice while commanding the spectator to dispose of them. Both she and the spectator fight to the death.
 
@@ -1415,7 +1415,7 @@ Pliinki shouts crass obscenities at the characters in a raspy voice while comman
 
 Made from a black metal of alien origin, this monolith is perfectly smooth except for the cracks and chipped-off edges where it was splintered by some unknown force. The obelisk is 15 feet per side at its base, stands 50 feet tall, and tapers slowly to a pyramidal cap.
 
-Any character proficient in [[/03_Mechanics/CLI/skills#Arcana|Arcana]] can tell that the obelisk's fractures are leaking quasi-magical energy. The character further understands that feeding magical energy into the obelisk might activate its latent magic. Spending a spell slot of any level while touching the obelisk activates it and teleports everyone on the mesa to a location in the Underdark just outside the northwest gate of Gracklstugh.
+Any character proficient in [[skills#Arcana|Arcana]] can tell that the obelisk's fractures are leaking quasi-magical energy. The character further understands that feeding magical energy into the obelisk might activate its latent magic. Spending a spell slot of any level while touching the obelisk activates it and teleports everyone on the mesa to a location in the Underdark just outside the northwest gate of Gracklstugh.
 
 The character who expended the spell slot knows the teleport effect can be repeated, but that this power is only temporary—a fluke due to the recent disruption of *faerzress* throughout the Underdark. Both the potency and the nature of the effect could change within a week or two, and this teleport effect likely bears no relation to the obelisk's actual purpose.
 
@@ -1423,11 +1423,11 @@ If the characters took the lump of metal from [[/03_Mechanics/CLI/bestiary/npc/d
 
 #### Red Dragon Egg
 
-The egg atop the northeast mesa is an unhatched dragon egg that the Gray Ghosts stole from the Keepers of the Flame. The 4-foot-tall, 3-foot-diameter egg weighs 180 pounds, and without fire to keep it warm, the egg can't hatch. If and when the egg does hatch, a [[/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm|red dragon wyrmling]] emerges and bonds with the first creature it sees.
+The egg atop the northeast mesa is an unhatched dragon egg that the Gray Ghosts stole from the Keepers of the Flame. The 4-foot-tall, 3-foot-diameter egg weighs 180 pounds, and without fire to keep it warm, the egg can't hatch. If and when the egg does hatch, a [[red-dragon-wyrmling-xmm|red dragon wyrmling]] emerges and bonds with the first creature it sees.
 
 #### Treasure
 
-The [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]] carries a single gold coin, a stick of charcoal, and a battered notebook with pages made from trillimac (see "Fungi of the Underdark" in chapter 2). The coin is a shilmaer, an ancient gold coin traded among surface elves. The notebook contains Dwarvish writing, specifically a long list of random items, mostly coins and jewelry. There are no dates, but some entries appear in different handwriting. The last entry describes the "miraculous" appearance of the gold coin.
+The [[derro-savant-mpmm|derro savant]] carries a single gold coin, a stick of charcoal, and a battered notebook with pages made from trillimac (see "Fungi of the Underdark" in chapter 2). The coin is a shilmaer, an ancient gold coin traded among surface elves. The notebook contains Dwarvish writing, specifically a long list of random items, mostly coins and jewelry. There are no dates, but some entries appear in different handwriting. The last entry describes the "miraculous" appearance of the gold coin.
 
 #### Development
 
@@ -1443,7 +1443,7 @@ If the characters describe the obelisk to Gartokkar Xundorn, he assumes that is 
 
 ### 14a. Fungi-Covered Doors
 
-A set of double doors are hidden by a patch of fungi that includes `2d6` bigwigs and `2d6` pygmyworts. Characters west of the doors must succeed on a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice the doors behind the fungi. The doors are fashioned from planks of zurkhwood and barred from the east side. A successful DC 20 Strength check allows a character to break through the doors, but this alerts the [[/03_Mechanics/CLI/bestiary/aberration/derro-savant-mpmm|derro savant]] and the spectator in area 14.
+A set of double doors are hidden by a patch of fungi that includes `2d6` bigwigs and `2d6` pygmyworts. Characters west of the doors must succeed on a DC 15 Wisdom ([[skills#Perception|Perception]]) check to notice the doors behind the fungi. The doors are fashioned from planks of zurkhwood and barred from the east side. A successful DC 20 Strength check allows a character to break through the doors, but this alerts the [[derro-savant-mpmm|derro savant]] and the spectator in area 14.
 
 ## Leaving Gracklstugh
 
@@ -1464,20 +1464,20 @@ The Hold of the Deepking stands south of Laduguer's Furrow and north of [[/03_Me
 > The Hold of the Deepking is a dark and foreboding edifice lodged between two great columns that rise up into thick clouds of smoke that conceal the cavern ceiling. Giant basalt braziers filled with molten lava bathe the palace facade in a hellish glow, and the thick stone walls bristle with iron turrets and battlements.
 ^20a
 
-There appears to be no one guarding the palace, but this is an illusion. All of the palace guards are [[/03_Mechanics/CLI/conditions#Invisible|invisible]], and characters who observe the palace for some time can hear duergar guards in heavy armor marching to and fro.
+There appears to be no one guarding the palace, but this is an illusion. All of the palace guards are [[conditions#Invisible|invisible]], and characters who observe the palace for some time can hear duergar guards in heavy armor marching to and fro.
 
-Two hundred [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|duergar stone guards]] (see appendix C) protect the palace and its king. Fifty stand at attention in perfect rows before the palace, ready to cut down anyone who approaches the palace gates unescorted. Another fifty watch from the turrets and battlements. One hundred more stand guard in the palace and comprise the Deepking's honor guard.
+Two hundred [[conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|duergar stone guards]] (see appendix C) protect the palace and its king. Fifty stand at attention in perfect rows before the palace, ready to cut down anyone who approaches the palace gates unescorted. Another fifty watch from the turrets and battlements. One hundred more stand guard in the palace and comprise the Deepking's honor guard.
 
 ### Audience with the Deepking
 
-Characters who befriend Stonespeaker Hgraam or complete quests for Errde Blackskull or Gartokkar Xundorn can use their newfound influence to gain an audience with the Deepking. Characters escorted to the palace by Hgraam, Errde, or Gartokkar are admitted inside and led past rows of [[/03_Mechanics/CLI/conditions#Invisible|invisible]] duergar guards to the Deepking's throne room.
+Characters who befriend Stonespeaker Hgraam or complete quests for Errde Blackskull or Gartokkar Xundorn can use their newfound influence to gain an audience with the Deepking. Characters escorted to the palace by Hgraam, Errde, or Gartokkar are admitted inside and led past rows of [[conditions#Invisible|invisible]] duergar guards to the Deepking's throne room.
 
 > [!readaloud] 
 > 
 > Lava pours down troughs cut into the black basalt walls of this vast hall. The heat is oppressive, and the air reeks of sulfur. Thick black columns support the heavy ceiling, and at the far end of the hall stands an iron throne atop a polished obsidian dais. A crowned duergar encased in armor sits on the throne. Next to him stands a royal consort wearing a gown made of gold coins.
 ^20c
 
-An [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/spells/wall-of-force-xphb|wall of force]] stands between the Deepking's dais and the characters. Whether the Deepking is of a mind to fight the demon lords is up to you, although like many other duergar in the city, [[/03_Mechanics/CLI/bestiary/npc/deepking-horgar-steelshadow-v-oota|Horgar Steelshadow V]] has been touched by the demon lords' madness. Roll on the Indefinite Madness table in [[/03_Mechanics/CLI/tables/indefinite-madness|chapter 8]] of the "Dungeon Master's Guide" to determine Horgar's flaw.
+An [[conditions#Invisible|invisible]] [[wall-of-force-xphb|wall of force]] stands between the Deepking's dais and the characters. Whether the Deepking is of a mind to fight the demon lords is up to you, although like many other duergar in the city, [[/03_Mechanics/CLI/bestiary/npc/deepking-horgar-steelshadow-v-oota|Horgar Steelshadow V]] has been touched by the demon lords' madness. Roll on the Indefinite Madness table in [[indefinite-madness|chapter 8]] of the "Dungeon Master's Guide" to determine Horgar's flaw.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/044-ooa04-15.webp#center)
 
@@ -1486,13 +1486,13 @@ If the characters attack the Deepking, use the [[/03_Mechanics/CLI/bestiary/huma
 - Horgar is lawful evil.  
 - He speaks Draconic, Giant, and Dwarvish.  
 - He has AC 20 and wears *dwarven plate*.  
-- He has advantage on saving throws against poison, spells, and illusions, as well as to resist being [[/03_Mechanics/CLI/conditions#Charmed|charmed]] or [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]].  
-- While in sunlight, he has disadvantage on attack rolls, as well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight.  
+- He has advantage on saving throws against poison, spells, and illusions, as well as to resist being [[conditions#Charmed|charmed]] or [[conditions#Paralyzed|paralyzed]].  
+- While in sunlight, he has disadvantage on attack rolls, as well as on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.  
 - He has the Enlarge and Invisibility action options of a [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] (see the *Monster Manual*).  
-- He wears [[/03_Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg|gauntlets of ogre power]], giving him a Strength score of 19 (+4).  
-- He wields a [[/03_Mechanics/CLI/items/2-weapon-xdmg|+2 warhammer]] instead of a greatsword: +8 to hit, reach 5 ft., one target. *Hit*: 10 (`1d8 + 6`) bludgeoning damage, or 11 (`1d10 + 6`) bludgeoning damage if used with two hands. While Horgar is enlarged, the damage increases to 15 (`2d8 + 6`) or 17 (`2d10 + 6`) bludgeoning damage, respectively.  
+- He wears [[gauntlets-of-ogre-power-xdmg|gauntlets of ogre power]], giving him a Strength score of 19 (+4).  
+- He wields a [[2-weapon-xdmg|+2 warhammer]] instead of a greatsword: +8 to hit, reach 5 ft., one target. *Hit*: 10 (`1d8 + 6`) bludgeoning damage, or 11 (`1d10 + 6`) bludgeoning damage if used with two hands. While Horgar is enlarged, the damage increases to 15 (`2d8 + 6`) or 17 (`2d10 + 6`) bludgeoning damage, respectively.  
 
-The Deepking's royal consort is a [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|succubus]] in the guise of Shal, a female duergar. The succubus is a loyal servant of the demon lord Graz'zt (see appendix D). Her only task is to make sure no one tries to rid Horgar of his madness. The gown she wears was a gift from Horgar. It weighs 75 pounds and is worth 750 gp.
+The Deepking's royal consort is a [[succubus-xmm|succubus]] in the guise of Shal, a female duergar. The succubus is a loyal servant of the demon lord Graz'zt (see appendix D). Her only task is to make sure no one tries to rid Horgar of his madness. The gown she wears was a gift from Horgar. It weighs 75 pounds and is worth 750 gp.
 
 #### Development
 

@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -25,12 +27,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg]]
 
 
 # Merchant Delilah Currentrunner
@@ -52,12 +49,14 @@ Delilah is a confident triton woman in her early forties, with dark blue-green s
 She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in maritime commerce.
 
 ## Personality
+
 - Entrepreneurial spirit with an eye for profitable opportunities
 - Fiercely independent and resistant to control by larger organizations
 - Loyal to clients who treat her fairly but ruthless toward those who betray her trust
 - Adventurous nature that drives her to explore new trade routes and markets
 
 ## Statistics
+
 **Medium humanoid (triton), neutral**
 - **AS** 15 (Studded Leather + Dex)
 - **HP** 78 (12d8 + 24)
@@ -69,6 +68,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 - **Challenge** 5 (1,800 XP)
 
 ### Special Abilities
+
 **Amphibious.** Delilah can breathe air and water.
 
 **Current Mastery.** Delilah has advantage on all Navigation checks and can predict weather and current changes with 90% accuracy up to 24 hours in advance.
@@ -78,6 +78,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 **Fast Talking.** Once per day, Delilah can make a Persuasion check as a bonus action to distract an enemy, giving allies advantage on their next attack.
 
 ### Actions
+
 **Multiattack.** Delilah makes two attacks with her cutlass or crossbow.
 
 **Enchanted Cutlass +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage.
@@ -89,6 +90,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 **Triton Heritage.** Delilah can cast *fog cloud* once per day without expending a spell slot.
 
 ### Legendary Actions (3 per turn, when conducting business)
+
 **Move.** Delilah moves up to her speed.
 **Quick Deal.** Delilah makes a Persuasion check to negotiate terms or gather information.
 **Evasive Maneuvers (Costs 2 Actions).** Delilah takes the Dash or Dodge action.
@@ -106,6 +108,7 @@ Delilah is busier than ever as the political situation in Aquabyssos creates dem
 She's also investigating reports of interference with shipping lanes and suspicious cargo movements that suggest someone is manipulating trade patterns for political purposes.
 
 ## Relationships
+
 - **All Major Factions**: Independent contractor providing services to various clients
 - **Merchant Marine Association**: Complicated relationship due to her independent status
 - **Port Meridian Officials**: Professional relationship managing shipping schedules and customs
@@ -113,6 +116,7 @@ She's also investigating reports of interference with shipping lanes and suspici
 - **International Contacts**: Network of traders and ship captains throughout the region
 
 ## Secrets
+
 - Has been transporting mysterious cargo for unknown clients with connections to the surface world
 - Maintains hidden caches of supplies and emergency funds throughout her trading routes
 - Knows the locations of several shipwrecks containing valuable cargo
@@ -120,20 +124,22 @@ She's also investigating reports of interference with shipping lanes and suspici
 - Possesses charts showing secret passages and hidden harbors throughout the region
 
 ## Quest Hooks
+
 1. Delilah offers the party high-paying transport work, but the cargo attracts unwanted attention from multiple factions.
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
 3. Attacks on merchant vessels threaten to disrupt Delilah's business, and she needs investigators to identify the perpetrators.
 
 ## DM Notes
+
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/Places/Lumengarde]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[12_Research/D&D_References/Captain Garrett Stormcutter]]
+- [[12_Research/D&D_References/Lumengarde]]
+- [[12_Research/D&D_References/New Tethys]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
 
 
 ## History
@@ -181,6 +187,10 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+- [[12_Research/D&D_References/Merchant Delilah Currentrunner]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

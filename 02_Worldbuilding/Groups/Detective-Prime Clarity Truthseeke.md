@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-detective-prime-clarity-truthseeke-detective-prime-clarity-truthseeke.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-detective-prime-clarity-truthseeke-detective-prime-clarity-truthseeke.svg]]
 
 
 ## Overview

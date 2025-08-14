@@ -28,12 +28,8 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg]]
 
 
 # Quest - The Truth Unveiled
@@ -44,7 +40,7 @@ world: Aethermoor
 
 ## Quest Overview
 
-The Truth Unveiled is an intricate investigation quest that challenges players to uncover a vast conspiracy that threatens the stability of [[02_Worldbuilding/Places/Aethermoor]]'s political and economic systems. What begins as a simple missing persons case evolves into a complex web of political corruption, economic manipulation, and dark magical practices that reaches the highest levels of society.
+The Truth Unveiled is an intricate investigation quest that challenges players to uncover a vast conspiracy that threatens the stability of [[Aethermoor]]'s political and economic systems. What begins as a simple missing persons case evolves into a complex web of political corruption, economic manipulation, and dark magical practices that reaches the highest levels of society.
 
 This quest emphasizes investigation skills, social interaction, and moral complexity as players must navigate a dangerous landscape where allies can become enemies, evidence can be fabricated, and the truth itself becomes a weapon. Success requires not just uncovering the conspiracy, but surviving the political fallout and protecting innocent lives caught in the crossfire.
 
@@ -52,21 +48,21 @@ This quest emphasizes investigation skills, social interaction, and moral comple
 
 ### The Initial Disappearances
 
-Over the past three months, seventeen prominent citizens of [[02_Worldbuilding/Places/Port Meridian]] have vanished without explanation. The missing include merchants, minor nobles, guild representatives, and civil servants - all individuals with access to sensitive information about [[02_Worldbuilding/Places/Aethermoor]]'s political and economic operations.
+Over the past three months, seventeen prominent citizens of [[Port Meridian]] have vanished without explanation. The missing include merchants, minor nobles, guild representatives, and civil servants - all individuals with access to sensitive information about [[Aethermoor]]'s political and economic operations.
 
 Initially dismissed as unrelated incidents, a pattern has emerged connecting the disappearances to a series of political decisions that have benefited certain factions while harming others. Each missing person had either opposed specific policies, possessed information about government activities, or represented interests that conflicted with emerging power structures.
 
 ### The Deeper Conspiracy
 
-The disappearances are merely the visible surface of [[02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]], a secret organization that has been manipulating [[02_Worldbuilding/Places/Aethermoor]]'s government for over two decades. This conspiracy involves coordinated efforts to control information, eliminate opposition, and reshape society according to the hidden agenda of its mysterious leadership.
+The disappearances are merely the visible surface of [[The Shadow Parliament]], a secret organization that has been manipulating [[Aethermoor]]'s government for over two decades. This conspiracy involves coordinated efforts to control information, eliminate opposition, and reshape society according to the hidden agenda of its mysterious leadership.
 
-Members of The Shadow Parliament have infiltrated every major institution, from the [[02_Worldbuilding/Places/Parliament of Echoes]] itself to merchant guilds, religious organizations, and even law enforcement agencies. They use a combination of blackmail, bribery, magical influence, and selective elimination to maintain control while remaining hidden from public view.
+Members of The Shadow Parliament have infiltrated every major institution, from the [[Parliament of Echoes]] itself to merchant guilds, religious organizations, and even law enforcement agencies. They use a combination of blackmail, bribery, magical influence, and selective elimination to maintain control while remaining hidden from public view.
 
 ### Rising Stakes
 
 Recent events have forced the conspiracy to accelerate their timeline, leading to more aggressive tactics and increasing the risk of exposure. A major political transition is approaching that would either cement their control permanently or provide opportunities for their enemies to expose and destroy them.
 
-The players become involved at this critical moment when the conspiracy's desperation makes them both more dangerous and more vulnerable. Every action the party takes will have far-reaching consequences not just for their own survival, but for the future governance of [[02_Worldbuilding/Places/Aethermoor]] itself.
+The players become involved at this critical moment when the conspiracy's desperation makes them both more dangerous and more vulnerable. Every action the party takes will have far-reaching consequences not just for their own survival, but for the future governance of [[Aethermoor]] itself.
 
 ## Quest Objectives
 
@@ -96,53 +92,53 @@ The players become involved at this critical moment when the conspiracy's desper
 
 **[[Investigator Cassandra Reynolds]]** - A dedicated law enforcement professional whose investigation into the disappearances has made her a target. She serves as the primary quest giver and provides official authority for the party's actions, though her position becomes increasingly precarious as the conspiracy's reach is revealed.
 
-**[[02_Worldbuilding/Lore/Chronicler Marcus Truthseeker]]** - An independent journalist whose attempts to report on government corruption have uncovered fragments of the larger conspiracy. He provides research capabilities and public relations support, but his investigative methods sometimes conflict with the party's need for secrecy.
+**[[Chronicler Marcus Truthseeker]]** - An independent journalist whose attempts to report on government corruption have uncovered fragments of the larger conspiracy. He provides research capabilities and public relations support, but his investigative methods sometimes conflict with the party's need for secrecy.
 
-**[[02_Worldbuilding/People/Captain Sarah Ironheart]]** - A military officer whose loyalty to [[02_Worldbuilding/Places/Aethermoor]]'s legitimate government has kept her outside the conspiracy's influence. She can provide security resources and tactical support, but only when the party can prove their claims without compromising ongoing military operations.
+**[[Captain Sarah Ironheart]]** - A military officer whose loyalty to [[Aethermoor]]'s legitimate government has kept her outside the conspiracy's influence. She can provide security resources and tactical support, but only when the party can prove their claims without compromising ongoing military operations.
 
 **[[Judge Helena Fairscale]]** - One of the few judicial officials who has remained completely honest throughout her career. She provides legal guidance and can authorize search warrants and arrests, but requires substantial evidence before taking action that could destabilize the government.
 
 ### Primary Suspects and Antagonists
 
-**[[02_Worldbuilding/People/Lord Blackwater]]** - A powerful noble whose public advocacy for political reform masks his role as a key figure in The Shadow Parliament. His mansion serves as a meeting place for conspiracy members, and his extensive network of social connections provides cover for their activities.
+**[[Lord Blackwater]]** - A powerful noble whose public advocacy for political reform masks his role as a key figure in The Shadow Parliament. His mansion serves as a meeting place for conspiracy members, and his extensive network of social connections provides cover for their activities.
 
 **[[Guildmaster Victoria Silvertongue]]** - Leader of the Merchant's Guild whose economic influence has been used to pressure businesses and individuals into compliance with the conspiracy's goals. Her legitimate business activities provide perfect cover for money laundering and information trafficking.
 
-**[[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]** - A religious leader whose spiritual authority has been corrupted to serve the conspiracy's needs. His temple serves as a sanctuary for conspiracy members and his clerical magic provides protection from divination attempts.
+**[[High Priest Daemon Shadowprayer]]** - A religious leader whose spiritual authority has been corrupted to serve the conspiracy's needs. His temple serves as a sanctuary for conspiracy members and his clerical magic provides protection from divination attempts.
 
-**[[02_Worldbuilding/Places/Chancellor Octavius]]** - A high-ranking government official whose position provides access to sensitive information and the ability to influence policy decisions. His involvement represents the conspiracy's deepest penetration into legitimate government structures.
+**[[Chancellor Octavius]]** - A high-ranking government official whose position provides access to sensitive information and the ability to influence policy decisions. His involvement represents the conspiracy's deepest penetration into legitimate government structures.
 
 ### Supporting Characters
 
-**[[02_Worldbuilding/Lore/The Informant]] (Tavern Keeper Finn Splitlung)** - A nervous individual with connections to the criminal underground who provides crucial information in exchange for protection and payment. Their knowledge comes from overhearing conversations and observing suspicious activities, but they fear for their life if their cooperation is discovered.
+**[[The Informant]] (Tavern Keeper Finn Splitlung)** - A nervous individual with connections to the criminal underground who provides crucial information in exchange for protection and payment. Their knowledge comes from overhearing conversations and observing suspicious activities, but they fear for their life if their cooperation is discovered.
 
-**[[02_Worldbuilding/People/Lady Catherine Mourning]]** - A widow whose husband was among the disappeared, driving her to conduct her own investigation that has uncovered important clues. She serves as both an information source and a potential victim requiring protection.
+**[[Lady Catherine Mourning]]** - A widow whose husband was among the disappeared, driving her to conduct her own investigation that has uncovered important clues. She serves as both an information source and a potential victim requiring protection.
 
-**[[02_Worldbuilding/Lore/Underground Network]]** - A loose association of individuals from various walks of life who have noticed something wrong and are willing to help the investigation. They provide eyes and ears throughout the city but require careful management to avoid exposure.
+**[[Underground Network]]** - A loose association of individuals from various walks of life who have noticed something wrong and are willing to help the investigation. They provide eyes and ears throughout the city but require careful management to avoid exposure.
 
-**[[02_Worldbuilding/Lore/The Puppet Master]]** - The true leader of The Shadow Parliament, whose identity remains hidden until the final confrontation. They have manipulated events for decades while remaining completely above suspicion through a carefully constructed false identity.
+**[[The Puppet Master]]** - The true leader of The Shadow Parliament, whose identity remains hidden until the final confrontation. They have manipulated events for decades while remaining completely above suspicion through a carefully constructed false identity.
 
 ## Investigation Locations
 
 ### Primary Investigation Sites
 
-**[[02_Worldbuilding/Lore/The Archives]]** - The central repository of government documents, where careful examination reveals patterns of document alteration, missing files, and suspicious cross-references. Hidden sections contain evidence of the conspiracy's activities, but accessing this information requires overcoming both magical and mundane security measures.
+**[[The Archives]]** - The central repository of government documents, where careful examination reveals patterns of document alteration, missing files, and suspicious cross-references. Hidden sections contain evidence of the conspiracy's activities, but accessing this information requires overcoming both magical and mundane security measures.
 
-**[[02_Worldbuilding/Places/Noble District]]** - The residential area where many conspiracy members live and conduct their secret meetings. Investigation here requires social infiltration, surveillance techniques, and careful timing to avoid detection while gathering evidence of suspicious activities and connections.
+**[[Noble District]]** - The residential area where many conspiracy members live and conduct their secret meetings. Investigation here requires social infiltration, surveillance techniques, and careful timing to avoid detection while gathering evidence of suspicious activities and connections.
 
-**[[02_Worldbuilding/Lore/Underground Network]]** - A system of tunnels, abandoned buildings, and secret rooms used by the conspiracy for meetings, document storage, and holding prisoners. These locations are heavily trapped and guarded, requiring combat skills and careful exploration to navigate safely.
+**[[Underground Network]]** - A system of tunnels, abandoned buildings, and secret rooms used by the conspiracy for meetings, document storage, and holding prisoners. These locations are heavily trapped and guarded, requiring combat skills and careful exploration to navigate safely.
 
-**[[02_Worldbuilding/Lore/The Whispering Tower]]** - A seemingly innocuous office building that serves as the conspiracy's primary coordination center. It appears to house legitimate businesses, but hidden floors contain communication equipment, planning rooms, and evidence of the organization's true scope.
+**[[The Whispering Tower]]** - A seemingly innocuous office building that serves as the conspiracy's primary coordination center. It appears to house legitimate businesses, but hidden floors contain communication equipment, planning rooms, and evidence of the organization's true scope.
 
 ### Secondary Locations
 
-**[[02_Worldbuilding/Places/Port Meridian - Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals financial connections and transportation methods used by the conspiracy.
+**[[Port Meridian - Harbor District]]** - The commercial heart of the city, where economic manipulation and information trafficking take place under cover of normal business activities. Investigation here reveals financial connections and transportation methods used by the conspiracy.
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]** - The seat of government, where corrupted officials work to advance the conspiracy's agenda through legitimate political processes. Gathering evidence here requires extreme caution to avoid alerting conspiracy members to the investigation.
+**[[Parliament of Echoes]]** - The seat of government, where corrupted officials work to advance the conspiracy's agenda through legitimate political processes. Gathering evidence here requires extreme caution to avoid alerting conspiracy members to the investigation.
 
-**[[02_Worldbuilding/Places/Temple of Shadows]]** - [[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]'s religious facility, which serves as both a spiritual center and conspiracy sanctuary. The temple's sacred protections make direct investigation challenging, requiring creative approaches or inside assistance.
+**[[Temple of Shadows]]** - [[High Priest Daemon Shadowprayer]]'s religious facility, which serves as both a spiritual center and conspiracy sanctuary. The temple's sacred protections make direct investigation challenging, requiring creative approaches or inside assistance.
 
-**[[02_Worldbuilding/Places/Merchant Quarter]]** - The business district where [[Guildmaster Victoria Silvertongue]]'s influence is most apparent. Investigation reveals how economic pressure and market manipulation have been used to support the conspiracy's goals.
+**[[Merchant Quarter]]** - The business district where [[Guildmaster Victoria Silvertongue]]'s influence is most apparent. Investigation reveals how economic pressure and market manipulation have been used to support the conspiracy's goals.
 
 ## Investigation Phases
 
@@ -198,7 +194,7 @@ The players become involved at this critical moment when the conspiracy's desper
 - Confront The Puppet Master and key conspiracy leaders
 - Deal with political aftermath and establish future safeguards
 
-**Key Revelations**: The identity of The Puppet Master, the full extent of institutional corruption, and the long-term consequences of the conspiracy's activities for [[02_Worldbuilding/Places/Aethermoor]]'s future.
+**Key Revelations**: The identity of The Puppet Master, the full extent of institutional corruption, and the long-term consequences of the conspiracy's activities for [[Aethermoor]]'s future.
 
 **Challenges**: Large-scale combat encounters, complex political negotiations, difficult moral choices about justice and mercy, and long-term consequences of actions taken during the confrontation.
 
@@ -254,7 +250,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Successful Resolution Rewards
 
-**Political Recognition** - Permanent positive standing with legitimate [[02_Worldbuilding/Places/Aethermoor]] authorities, providing ongoing benefits for legal activities and government interactions.
+**Political Recognition** - Permanent positive standing with legitimate [[Aethermoor]] authorities, providing ongoing benefits for legal activities and government interactions.
 
 **Information Network** - Access to a network of reformed informants and grateful citizens who provide ongoing intelligence and support for future activities.
 
@@ -274,7 +270,7 @@ The players become involved at this critical moment when the conspiracy's desper
 
 ### Failure Consequences
 
-**Conspiracy Success** - Failure allows The Shadow Parliament to consolidate control, fundamentally changing [[02_Worldbuilding/Places/Aethermoor]]'s political landscape.
+**Conspiracy Success** - Failure allows The Shadow Parliament to consolidate control, fundamentally changing [[Aethermoor]]'s political landscape.
 
 **Personal Consequences** - Failed investigators face exile, imprisonment, or elimination, requiring dramatic escape or rescue scenarios.
 
@@ -325,7 +321,7 @@ Regardless of the specific outcome, the adventure should leave lasting impacts o
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Shattered Sanctum]]
+- [[The Shattered Sanctum]]
 
 ## Player-Facing Summary
 
@@ -347,9 +343,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[Quest - The Truth Unveiled]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[Aethermoor]]
+- [[Parliament of Echoes]]
+- [[Port Meridian]]

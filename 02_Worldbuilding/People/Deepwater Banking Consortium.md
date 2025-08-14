@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-deepwater-banking-consortium-deepwater-banking-consortium.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deepwater-banking-consortium-deepwater-banking-consortium.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[Lady Jade Clawgrip]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

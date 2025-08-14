@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-elder-scribe-marcus-the-lost-elder-scribe-marcus-the-lost.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-elder-scribe-marcus-the-lost-elder-scribe-marcus-the-lost.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Elder Scribe Marcus the Lost]]
+- [[12_Research/D&D_References/Elder Scribe Marcus the Lost]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[12_Research/D&D_References/The Archive of Unremembered Things]]

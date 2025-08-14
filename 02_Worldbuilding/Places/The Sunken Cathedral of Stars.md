@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
+- aquatic
 - both
 - complete
 - content/location
@@ -15,35 +17,32 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg)
 
 
-
-
-
 # The Sunken Cathedral of Stars
+
 *Where Deep Gods Dream and Mortals Transform*
 
 ## Overview
-The Sunken Cathedral of Stars serves as the primary headquarters for [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a massive underwater structure where [[02_Worldbuilding/People/High Priest Dagon Deepcaller]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
+
+The Sunken Cathedral of Stars serves as the primary headquarters for [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a massive underwater structure where [[12_Research/D&D_Statblocks/High Priest Dagon Deepcaller]] conducts transformation rituals and coordinates the cult's campaign to return the world to the sea.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary headquarters and ritual center
-- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme leader and chief ritualist
-- **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Primary theological opposition
-- **[[02_Worldbuilding/People/Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]** - Leading religious enemy
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Complex political relationships with underwater kingdom
-- **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Recruitment coordination base
-- **[[02_Worldbuilding/Places/The Azure Coast]]** - Primary area of cult operations
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval forces seeking to locate cathedral
-- **[[02_Worldbuilding/Places/The Deepwater Current]]** - Cult disrupts underwater trade
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Planning consecration and purification mission
-- **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Potential alliance negotiations
-- **[[02_Worldbuilding/Places/The Sorrow Current]]** - Cathedral draws power from emotional phenomena
+
+- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary headquarters and ritual center
+- **[[12_Research/D&D_Statblocks/High Priest Dagon Deepcaller]]** - Supreme leader and chief ritualist
+- **[[12_Research/D&D_References/The Temple of Eternal Tides]]** - Primary theological opposition
+- **[[Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]** - Leading religious enemy
+- **[[12_Research/D&D_References/Abyssos Prime]]** - Complex political relationships with underwater kingdom
+- **[[Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Recruitment coordination base
+- **[[12_Research/D&D_References/The Azure Coast]]** - Primary area of cult operations
+- **[[12_Research/D&D_References/Admiral Cassandra Stormwind]]** - Naval forces seeking to locate cathedral
+- **[[12_Research/D&D_References/The Deepwater Current]]** - Cult disrupts underwater trade
+- **[[12_Research/D&D_Statblocks/Crystal Wardens]]** - Planning consecration and purification mission
+- **[[12_Research/D&D_References/The Kraken's Harbor]]** - Potential alliance negotiations
+- **[[12_Research/D&D_References/The Sorrow Current]]** - Cathedral draws power from emotional phenomena
 
 ## History
 
@@ -94,11 +93,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
+- [[12_Research/D&D_References/The Sunken Cathedral of Stars]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

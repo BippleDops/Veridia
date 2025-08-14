@@ -34,13 +34,13 @@ world: Both
 - **Components:** V, S, M (a magnifying glass)
 - **Duration:** Concentration, up to 1 minute
 
-You launch a sunbeam in a 5-foot-wide, 60-foot-long [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Each creature in the [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition until the start of your next turn. On a successful save, it takes half as much damage only.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long [[line-area-of-effect-xphb|Line]]. Each creature in the [[line-area-of-effect-xphb|Line]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [[conditions#Blinded|Blinded]] condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
-Until the spell ends, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to create a new [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]] of radiance.
+Until the spell ends, you can take a [[actions#Magic|Magic]] action to create a new [[line-area-of-effect-xphb|Line]] of radiance.
 
-For the duration, a mote of brilliant radiance shines above you. It sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 30-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 30 feet. This light is sunlight.
+For the duration, a mote of brilliant radiance shines above you. It sheds [[bright-light-xphb|Bright Light]] in a 30-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. This light is sunlight.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

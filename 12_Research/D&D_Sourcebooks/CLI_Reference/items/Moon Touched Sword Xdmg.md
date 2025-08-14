@@ -32,7 +32,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/moon-touched-sword.webp#right)
 
 
-In [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 15-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 15 feet.
+In [[darkness-xphb|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[bright-light-xphb|Bright Light]] in a 15-foot radius and [[dim-light-xphb|Dim Light]] for an additional 15 feet.
 
 **Variants**:
 - [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)
@@ -45,13 +45,13 @@ In [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the unsheathed bl
 ## Moon-Touched Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]], [[/03_Mechanics/CLI/item-properties#Special%20Weapons|special]]
+- **Properties**: [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Longsword
@@ -59,25 +59,25 @@ In [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the unsheathed bl
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Weight**: 2.0 lbs.
 
 ### Moon-Touched Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
 
 

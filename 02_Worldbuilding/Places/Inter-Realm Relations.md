@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-inter-realm-relations-inter-realm-relations.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-inter-realm-relations-inter-realm-relations.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inter-Realm Relations]]
+- [[12_Research/D&D_References/Inter-Realm Relations]]
 
 <!-- enriched: true -->

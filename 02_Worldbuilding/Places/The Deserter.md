@@ -14,8 +14,6 @@ world: Both
 ---
 
 
-
-
 ## Cross-References
 
 - [[reports/bidirectional_links|Reports/bidirectional Links]]

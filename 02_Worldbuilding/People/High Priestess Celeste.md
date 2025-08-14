@@ -14,12 +14,8 @@ world: Universal
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg]]
 
 
 ## Overview
@@ -64,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priestess Celeste]]
+- [[High Priestess Celeste]]
 
 <!-- enriched: true -->
 

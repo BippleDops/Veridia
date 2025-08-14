@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[12_Research/D&D_Statblocks/Master Smith Vulcan Deepforge]]
 
 ## Player-Facing Summary
 

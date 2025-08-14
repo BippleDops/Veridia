@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[Royal Embassy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[Royal Embassy]]
 
 ## Player-Facing Summary
 

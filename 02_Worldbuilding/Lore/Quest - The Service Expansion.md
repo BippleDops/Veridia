@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]
+- [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[12_Research/D&D_References/The Crown Authority]]
 
 ## Player-Facing Summary
 

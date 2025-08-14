@@ -31,19 +31,19 @@ world: Both
 - **Components:** V, S, M (powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
 
 ## Break Enchantment
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you touch a creature that is possessed by or has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] or [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition from one or more creatures of the types above. The target is no longer possessed, [[/03_Mechanics/CLI/conditions#Charmed|Charmed]], or [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] by such creatures.
+As a [[actions#Magic|Magic]] action, you touch a creature that is possessed by or has the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition from one or more creatures of the types above. The target is no longer possessed, [[conditions#Charmed|Charmed]], or [[conditions#Frightened|Frightened]] by such creatures.
 
 ## Dismissal
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
+As a [[actions#Magic|Magic]] action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -15,10 +16,7 @@ world: Both
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-crystal-singers-crystal-singers.svg)
-
-
-
+![[04_Resources/Assets/Locations/location-city-crystal-singers-crystal-singers.svg]]
 
 
 ## Overview
@@ -54,6 +52,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Singers]]
+- [[12_Research/D&D_References/Crystal Singers]]
 
 <!-- enriched: true -->

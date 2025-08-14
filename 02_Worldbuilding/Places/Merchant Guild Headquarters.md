@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-merchant-guild-headquarters-merchant-guild-headquarters.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-guild-headquarters-merchant-guild-headquarters.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Guild Headquarters]]
+- [[Merchant Guild Headquarters]]
 
 <!-- enriched: true -->

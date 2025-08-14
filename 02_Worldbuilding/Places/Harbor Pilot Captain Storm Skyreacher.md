@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aerial
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
+- [[12_Research/D&D_References/Harbor Pilot Captain Storm Skyreacher]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]

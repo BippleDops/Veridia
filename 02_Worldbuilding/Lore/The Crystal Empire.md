@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[12_Research/D&D_Statblocks/Surface Ambassador Lord Seaworthy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[12_Research/D&D_Statblocks/Surface Ambassador Lord Seaworthy]]
 
 ## Player-Facing Summary
 

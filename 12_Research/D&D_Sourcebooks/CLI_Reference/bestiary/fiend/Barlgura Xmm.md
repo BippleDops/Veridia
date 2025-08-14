@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barlgura-xmm-barlgura-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/barlgura-xmm|Barlgura]]
+# [[barlgura-xmm|Barlgura]]
 *Source: Monster Manual (2024) p. 31*  
 
 ## Barlgura
@@ -67,19 +67,19 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
 "actions":
@@ -89,14 +89,14 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
       \ plus 13 (2d12) Psychic damage."
     "name": "Tormenting Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Thrash"
   - "desc": "The barlgura casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n2/day each: [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise Self]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]] (self only)\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]], [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb|Phantasmal\
+      \n2/day each: [[disguise-self-xphb|Disguise Self]],\
+      \ [[invisibility-xphb|Invisibility]] (self only)\n\
+      \n1/day each: [[entangle-xphb|Entangle]], [[phantasmal-killer-xphb|Phantasmal\
       \ Killer]] (level 6 version)"
     "name": "Spellcasting"
 "bonus_actions":

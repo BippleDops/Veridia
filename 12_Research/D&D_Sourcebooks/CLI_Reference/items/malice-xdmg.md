@@ -26,10 +26,10 @@ world: Both
 *Adventuring gear, poison (inhaled)*  
 
 
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Poison|Poison]]
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 250 gp
 
-A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition for 1 hour. The creature also has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition while [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] in this way.
+A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. The creature also has the [[conditions#Blinded|Blinded]] condition while [[conditions#Poisoned|Poisoned]] in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

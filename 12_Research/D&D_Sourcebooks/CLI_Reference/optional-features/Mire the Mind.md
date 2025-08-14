@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 5
 
-You can cast [[/03_Mechanics/CLI/spells/slow-xphb|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[slow-xphb|slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## Player-Facing Summary
 

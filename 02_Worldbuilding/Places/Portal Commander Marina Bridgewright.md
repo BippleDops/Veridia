@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Portal Commander Marina Bridgewright]]
+- [[Portal Commander Marina Bridgewright]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[Surface Portal Alpha]]

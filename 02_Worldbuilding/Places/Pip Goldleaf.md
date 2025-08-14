@@ -14,6 +14,9 @@ obsidianUIMode: preview
 occupation: Apprentice Merchant
 status: complete
 tags:
+- combat
+- quest
+- aerial
 - aethermoor
 - apprentice
 - complete
@@ -35,13 +38,11 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg]]
 
 
 # Pip Goldleaf
+
 *The Next Generation of Golden Commerce*
 
 > *"Grandmother says I have the Goldleaf eye for opportunity, but I think I see things she doesn't. The world is changing faster than the old merchants realize, and those who adapt first will profit most."*
@@ -49,7 +50,7 @@ world: Aethermoor
 
 ## Overview
 
-Pip Goldleaf represents the promising future of the Goldleaf Trading House, combining traditional merchant skills with innovative approaches and youthful enthusiasm for exploration and discovery. As apprentice to [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]], Pip is learning the intricate arts of commerce, negotiation, and relationship management while bringing fresh perspectives to family business operations.
+Pip Goldleaf represents the promising future of the Goldleaf Trading House, combining traditional merchant skills with innovative approaches and youthful enthusiasm for exploration and discovery. As apprentice to [[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]], Pip is learning the intricate arts of commerce, negotiation, and relationship management while bringing fresh perspectives to family business operations.
 
 Unlike older generations of merchants who focus primarily on established trade routes and proven methods, Pip shows particular interest in emerging markets, new technologies, and unconventional trading opportunities that others might overlook.
 
@@ -99,7 +100,7 @@ Family expectations are high, but Pip has generally embraced these challenges wh
 
 ### Apprenticeship Training
 
-Formal apprenticeship under [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]] provides comprehensive education in all aspects of merchant operations, from basic accounting to complex international negotiations.
+Formal apprenticeship under [[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]] provides comprehensive education in all aspects of merchant operations, from basic accounting to complex international negotiations.
 
 Hands-on experience includes accompanying experienced merchants on trade missions, managing smaller independent projects, and gradually taking on increased responsibility for family business operations.
 
@@ -191,27 +192,27 @@ Belief that successful merchants have responsibility to contribute positively to
 
 ### Family Relations
 
-**[[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Grandmother and mentor, whose guidance and expectations shape Pip's development while providing access to wisdom and resources.
+**[[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]]** - Grandmother and mentor, whose guidance and expectations shape Pip's development while providing access to wisdom and resources.
 
-**[[02_Worldbuilding/Lore/Marcus Goldleaf]]** - Elder family member specializing in financial operations, whose approval and support are important for career advancement.
+**[[12_Research/D&D_References/Marcus Goldleaf]]** - Elder family member specializing in financial operations, whose approval and support are important for career advancement.
 
-**[[02_Worldbuilding/Groups/Family Retainer]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
+**[[12_Research/D&D_References/Family Retainer]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
 
 ### Professional Contacts
 
 **[[Young Merchant Guild]]** - Network of apprentice and junior merchants who share information, resources, and mutual support for development.
 
-**[[02_Worldbuilding/Lore/Innovative Artisan]]** - Creative craftsperson whose work represents potential new market opportunities for family business.
+**[[12_Research/D&D_References/Innovative Artisan]]** - Creative craftsperson whose work represents potential new market opportunities for family business.
 
-**[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Guide]]** - Local expert in various regions who provides cultural education and practical assistance during travels.
+**[[12_Research/D&D_References/Cultural Guide]]** - Local expert in various regions who provides cultural education and practical assistance during travels.
 
 ### Personal Friendships
 
 **[[Adventure Companion]]** - Friend with complementary skills who sometimes accompanies Pip on more dangerous or unusual commercial ventures.
 
-**[[02_Worldbuilding/Lore/Academic Contact]]** - Scholar or researcher whose knowledge helps Pip understand broader context of commercial opportunities and cultural factors.
+**[[12_Research/D&D_References/Academic Contact]]** - Scholar or researcher whose knowledge helps Pip understand broader context of commercial opportunities and cultural factors.
 
-**[[02_Worldbuilding/Lore/Local Friend]]** - Peer from different social background who provides perspective on how merchant activities affect ordinary people.
+**[[12_Research/D&D_References/Local Friend]]** - Peer from different social background who provides perspective on how merchant activities affect ordinary people.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -272,7 +273,7 @@ The character can grow and develop alongside party members, making them suitable
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[12_Research/D&D_Statblocks/Madame Rosalind Goldleaf]]
 - [[Market_District|Market District]]
 
 ## Player-Facing Summary
@@ -295,6 +296,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pip Goldleaf]]
+- [[12_Research/D&D_Statblocks/Pip Goldleaf]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

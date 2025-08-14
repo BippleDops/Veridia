@@ -29,7 +29,7 @@ world: Both
 
 ### Nimble Escape
 
-You can take the [[/03_Mechanics/CLI/actions#Disengage|Disengage]] or [[/03_Mechanics/CLI/actions#Hide|Hide]] action as a bonus action on each of your turns.
+You can take the [[actions#Disengage|Disengage]] or [[actions#Hide|Hide]] action as a bonus action on each of your turns.
 
 ### Darkvision
 

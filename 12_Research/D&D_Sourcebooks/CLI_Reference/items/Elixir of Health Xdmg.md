@@ -31,7 +31,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]].
+When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Paralyzed|Paralyzed]], and [[conditions#Poisoned|Poisoned]].
 
 The clear, red liquid has tiny bubbles of light in it.
 

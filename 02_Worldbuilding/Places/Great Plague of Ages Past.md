@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-great-plague-of-ages-past-great-plague-of-ages-past.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-great-plague-of-ages-past-great-plague-of-ages-past.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Great Plague of Ages Past]]
+- [[12_Research/D&D_References/Great Plague of Ages Past]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Memoriam]]
+- [[12_Research/D&D_References/Memoriam]]

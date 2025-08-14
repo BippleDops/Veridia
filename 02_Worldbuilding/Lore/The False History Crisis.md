@@ -14,9 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -40,3 +37,7 @@ Legends speak of The False History Crisis as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

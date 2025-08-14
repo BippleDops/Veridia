@@ -24,27 +24,27 @@ world: Both
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
-During sleep, you have the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
+During sleep, you have the [[conditions#Unconscious|Unconscious]] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
 
 ## Benefits of the Rest
 
-To start a Long Rest, you must have at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]. When you finish the rest, you gain the following benefits:
+To start a Long Rest, you must have at least 1 [[hit-points-xphb|Hit Point]]. When you finish the rest, you gain the following benefits:
 
-- **Regain All HP.** You regain all lost [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] and all spent [[/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb|Hit Point Dice]]. If your Hit Point maximum was reduced, it returns to normal.  
+- **Regain All HP.** You regain all lost [[hit-points-xphb|Hit Points]] and all spent [[hit-point-dice-xphb|Hit Point Dice]]. If your Hit Point maximum was reduced, it returns to normal.  
 - **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.  
-- **Exhaustion Reduced.** If you have the [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] condition, its level decreases by 1.  
+- **Exhaustion Reduced.** If you have the [[conditions#Exhaustion|Exhaustion]] condition, its level decreases by 1.  
 - **Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.  
 
 ## Interrupting the Rest
 
 A Long Rest is stopped by the following interruptions:
 
-- Rolling [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]]  
+- Rolling [[initiative-xphb|Initiative]]  
 - Casting a spell other than a cantrip  
 - Taking any damage  
 - 1 hour of walking or other physical exertion.  
 
-If you rested at least 1 hour before the interruption you gain the benefits of a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]].
+If you rested at least 1 hour before the interruption you gain the benefits of a [[short-rest-xphb|Short Rest]].
 
 You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
 

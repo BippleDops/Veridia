@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Mines]]
+- [[Crystal Mines]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[The Crown]]
+- [[Harbormaster Erik Saltbeard]]

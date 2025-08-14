@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-bathyal-succession-bathyal-succession.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-bathyal-succession-bathyal-succession.svg]]
 
 
 # Bathyal Succession
@@ -100,7 +96,7 @@ This succession crisis provides a backdrop for political intrigue, moral choices
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 
 ## History
@@ -142,6 +138,6 @@ Legends speak of Bathyal Succession as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bathyal Succession]]
+- [[Bathyal Succession]]
 
 <!-- enriched: true -->

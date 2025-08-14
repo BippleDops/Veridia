@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hook-horror-xmm-hook-horror-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/hook-horror-xmm|Hook Horror]]
+# [[hook-horror-xmm|Hook Horror]]
 *Source: Monster Manual (2024) p. 173*  
 
 ## Hook Horror
@@ -59,7 +59,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "saves":
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Hook Horror"

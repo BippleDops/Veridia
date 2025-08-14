@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sahuagin-warrior-xmm-sahuagin-warrior-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/sahuagin-warrior-xmm|Sahuagin Warrior]]
+# [[sahuagin-warrior-xmm|Sahuagin Warrior]]
 *Source: Monster Manual (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
@@ -68,15 +68,15 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "acid, cold"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
-  - "desc": "The sahuagin has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ on attack rolls against any creature that doesn't have all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
+  - "desc": "The sahuagin has [[advantage-xphb|Advantage]]\
+      \ on attack rolls against any creature that doesn't have all its [[hit-points-xphb|Hit Points]]."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -90,7 +90,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The sahuagin swims up to its [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]]\
+  - "desc": "The sahuagin swims up to its [[swim-speed-xphb|Swim Speed]]\
       \ straight toward an enemy it can see."
     "name": "Aquatic Charge"
 "source":

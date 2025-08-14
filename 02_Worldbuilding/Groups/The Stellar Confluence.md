@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
+- [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]
+- [[Order of the Drowned Star]]
 
 ## Player-Facing Summary
 

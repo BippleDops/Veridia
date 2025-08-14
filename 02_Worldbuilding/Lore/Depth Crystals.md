@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - aquabyssos
 - complete
 - content/adventure
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.146421+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,11 +42,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_References/Crystallium]]
+- [[12_Research/D&D_References/The Lock]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

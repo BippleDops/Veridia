@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-cultural-districts-cultural-districts.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-cultural-districts-cultural-districts.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cultural Districts]]
+- [[12_Research/D&D_References/Cultural Districts]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[12_Research/D&D_References/Innkeeper Marina Dreamwhisper]]
+- [[12_Research/D&D_References/Mediator Serenity Stillwater]]

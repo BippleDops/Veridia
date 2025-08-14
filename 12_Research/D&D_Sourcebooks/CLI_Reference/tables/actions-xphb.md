@@ -23,18 +23,18 @@ world: Both
 
 | Action | Summary |
 |--------|---------|
-| [[/03_Mechanics/CLI/actions#Attack|Attack]] | Attack with a weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]]. |
-| [[/03_Mechanics/CLI/actions#Dash|Dash]] | For the rest of the turn, give yourself extra movement equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]. |
-| [[/03_Mechanics/CLI/actions#Disengage|Disengage]] | Your movement doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attack]] for the rest of the turn. |
-| [[/03_Mechanics/CLI/actions#Dodge|Dodge]] | Until the start of your next turn, attack rolls against you have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]], and you make Dexterity saving throws with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]. You lose this benefit if you have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition or if your Speed is 0. |
-| [[/03_Mechanics/CLI/actions#Help|Help]] | Help another creature's ability check or attack roll, or administer first aid. |
-| [[/03_Mechanics/CLI/actions#Hide|Hide]] | Make a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check. |
-| [[/03_Mechanics/CLI/actions#Influence|Influence]] | Make a Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]], [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]], [[/03_Mechanics/CLI/skills#Performance|Performance]], or [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) or Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) check to alter a creature's attitude. |
-| [[/03_Mechanics/CLI/actions#Magic|Magic]] | Cast a spell, use a magic item, or use a magical feature. |
-| [[/03_Mechanics/CLI/actions#Ready|Ready]] | Prepare to take an action in response to a trigger you define. |
-| [[/03_Mechanics/CLI/actions#Search|Search]] | Make a Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Medicine|Medicine]], [[/03_Mechanics/CLI/skills#Perception|Perception]], or [[/03_Mechanics/CLI/skills#Survival|Survival]]) check. |
-| [[/03_Mechanics/CLI/actions#Study|Study]] | Make an Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#History|History]], [[/03_Mechanics/CLI/skills#Investigation|Investigation]], [[/03_Mechanics/CLI/skills#Nature|Nature]], or [[/03_Mechanics/CLI/skills#Religion|Religion]]) check. |
-| [[/03_Mechanics/CLI/actions#Utilize|Utilize]] | Use a nonmagical object. |
+| [[actions#Attack|Attack]] | Attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]]. |
+| [[actions#Dash|Dash]] | For the rest of the turn, give yourself extra movement equal to your [[speed-xphb|Speed]]. |
+| [[actions#Disengage|Disengage]] | Your movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attack]] for the rest of the turn. |
+| [[actions#Dodge|Dodge]] | Until the start of your next turn, attack rolls against you have [[disadvantage-xphb|Disadvantage]], and you make Dexterity saving throws with [[advantage-xphb|Advantage]]. You lose this benefit if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your Speed is 0. |
+| [[actions#Help|Help]] | Help another creature's ability check or attack roll, or administer first aid. |
+| [[actions#Hide|Hide]] | Make a Dexterity ([[skills#Stealth|Stealth]]) check. |
+| [[actions#Influence|Influence]] | Make a Charisma ([[skills#Deception|Deception]], [[skills#Intimidation|Intimidation]], [[skills#Performance|Performance]], or [[skills#Persuasion|Persuasion]]) or Wisdom ([[skills#Animal%20Handling|Animal Handling]]) check to alter a creature's attitude. |
+| [[actions#Magic|Magic]] | Cast a spell, use a magic item, or use a magical feature. |
+| [[actions#Ready|Ready]] | Prepare to take an action in response to a trigger you define. |
+| [[actions#Search|Search]] | Make a Wisdom ([[skills#Insight|Insight]], [[skills#Medicine|Medicine]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]]) check. |
+| [[actions#Study|Study]] | Make an Intelligence ([[skills#Arcana|Arcana]], [[skills#History|History]], [[skills#Investigation|Investigation]], [[skills#Nature|Nature]], or [[skills#Religion|Religion]]) check. |
+| [[actions#Utilize|Utilize]] | Use a nonmagical object. |
 ^actions
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]

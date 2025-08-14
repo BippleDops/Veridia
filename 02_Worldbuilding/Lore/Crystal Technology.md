@@ -5,23 +5,22 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:35.266428+00:00'
 world: Both
 tags:
+- crystal-enhanced
 - active
 - both
 - lore
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
+- [[12_Research/D&D_Statblocks/Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

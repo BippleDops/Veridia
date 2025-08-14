@@ -21,7 +21,7 @@ world: Both
 
 
 # Path of the Ancestral Guardian
-*[[./barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 9*  
 
 > [!tldr] Class and Feature Progression
@@ -79,7 +79,7 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[/03_Mechanics/CLI/spells/augury-xphb|augury]] or [[/03_Mechanics/CLI/spells/clairvoyance-xphb|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[/03_Mechanics/CLI/spells/clairvoyance-xphb|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[augury-xphb|augury]] or [[clairvoyance-xphb|clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [[clairvoyance-xphb|clairvoyance]] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

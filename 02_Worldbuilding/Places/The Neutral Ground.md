@@ -14,28 +14,25 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Floating Market]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[Deep Mother]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Azure Citadel]]
+- [[Coral Throne Syndicate]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Mediator Serenity Stillwater]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[The Bathyal Palace]]
+- [[The Floating Market]]
+- [[The Hadal Depths]]
 
 ## Player-Facing Summary
 

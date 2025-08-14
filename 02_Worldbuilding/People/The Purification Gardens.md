@@ -22,12 +22,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
-
-
-
 
 
 # The Purification Gardens
@@ -126,8 +122,8 @@ The Purification Gardens provide excellent opportunities for healing interlude a
 
 ## Connections
 
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[Queen Seraphina Lumengarde]]
+- [[Ancient Tunnels Beneath Palace]]
 
 
 ## Appearance
@@ -163,6 +159,6 @@ Legends speak of The Purification Gardens as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Purification Gardens]]
+- [[The Purification Gardens]]
 
 <!-- enriched: true -->

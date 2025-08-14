@@ -31,14 +31,14 @@ _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
-- The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the [[/03_Mechanics/CLI/spells/spike-growth-xphb|spike growth]] spell and lasts until the dragon uses this lair action again or until the dragon dies.  
-- The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become [[/03_Mechanics/CLI/conditions#Restrained|restrained]]. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the [[/03_Mechanics/CLI/conditions#Restrained|restrained]] condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.  
+- The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the [[spike-growth-xphb|spike growth]] spell and lasts until the dragon uses this lair action again or until the dragon dies.  
+- The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become [[conditions#Restrained|restrained]]. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the [[conditions#Restrained|restrained]] condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.  
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[/03_Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm|adult]] or [[/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm|ancient]]) copper dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[adult-copper-dragon-xmm|adult]] or [[ancient-copper-dragon-xmm|ancient]]) copper dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Laughing Gas.** The dragon chooses a point on the ground that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered on that point. Each creature in that area that fails a DC 15 Wisdom saving throw is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] with laughter until the end of its next turn.  
+- **Laughing Gas.** The dragon chooses a point on the ground that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered on that point. Each creature in that area that fails a DC 15 Wisdom saving throw is [[conditions#Incapacitated|incapacitated]] with laughter until the end of its next turn.  
 - **Torpid Energy.** The dragon chooses a creature it can see within 120 feet of it. If the target fails a DC 15 Constitution saving throw, its speed is halved, and it can't use reactions or bonus actions until the end of its next turn.  
 
 ## Regional effects

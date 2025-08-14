@@ -34,7 +34,7 @@ world: Both
 
 - **Ability.** Wisdom  
 - **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [[/03_Mechanics/CLI/items/rations-xphb|Rations]]  
+- **Craft.** [[rations-xphb|Rations]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

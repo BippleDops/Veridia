@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-of-sacred-dreams-temple-of-sacred-dreams.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-of-sacred-dreams-temple-of-sacred-dreams.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of Sacred Dreams]]
+- [[12_Research/D&D_References/Temple of Sacred Dreams]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[12_Research/D&D_Statblocks/Memory Harvester Kythara]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

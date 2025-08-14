@@ -7,6 +7,11 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - conspiracy
@@ -24,12 +29,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
 
 
 # The Seven Shards Mystery
@@ -55,40 +56,51 @@ The modern understanding of the Seven Shards began fifty years ago when the scho
 ## Known Shards
 
 ### The Azure Shard
+
 Currently held in the treasury of Aethermoor, the Azure Shard appears as a perfectly faceted sapphire that contains swirling patterns of light resembling ocean currents. It grants its wielder control over water and weather patterns but at the cost of gradually draining their life force.
 
 ### The Crimson Shard
+
 Lost approximately thirty years ago during a expedition to the deep trenches, the Crimson Shard was known for its ability to enhance combat abilities and healing magic. Its last known location was aboard the research vessel "Depth's Promise," which disappeared under mysterious circumstances.
 
 ### The Verdant Shard
+
 Held by surface world druids in the Northern Forests, the Verdant Shard promotes incredible plant growth and can commune with natural spirits across vast distances. Its guardians have historically been reluctant to allow scholars access to study it.
 
 ## Missing Shards
 
 ### The Shadow Shard
+
 Descriptions suggest this shard can manipulate darkness and illusion, possibly allowing travel through shadow itself. Last reported sighting was over a century ago.
 
 ### The Golden Shard
+
 Legendary for its ability to transmute materials and enhance magical item creation. Some scholars believe it may be hidden in an ancient dragon's hoard.
 
 ### The Silver Shard
+
 Associated with time magic and prophecy, the Silver Shard supposedly allows its user to glimpse possible futures. Its location has never been confirmed.
 
 ### The Crystal Shard
+
 The theoretical seventh shard, its properties are completely unknown. Some scholars argue it may not exist, while others believe it is the key to understanding the entire mystery.
 
 ## Current Theories
 
 ### The Weapon Theory
+
 The most widely accepted theory proposes that the shards are fragments of an ancient weapon of mass destruction, broken apart to prevent its misuse. Proponents argue that reuniting the shards could grant power sufficient to destroy entire civilizations.
 
 ### The Lock Theory
+
 A competing theory suggests the shards serve as keys or locks for something even more dangerous - perhaps a prison holding an entity of cosmic power, or a gateway to hostile dimensions.
 
 ### The Tool Theory
+
 Some scholars believe the shards were originally components of a beneficial device - perhaps a tool for controlling weather, healing diseases, or facilitating communication between distant realms.
 
 ### The Test Theory
+
 The most esoteric theory proposes that the shards are a test or puzzle left by ancient beings to determine if current civilizations have achieved sufficient wisdom to handle great power responsibly.
 
 ## Recent Developments
@@ -104,11 +116,13 @@ Several concerning developments have brought new urgency to the Seven Shards Mys
 ## Key Figures
 
 ### Current Researchers
+
 - **Archivist Vera Glowmind**: Leading expert on shard history and magical properties
 - **Explorer Captain Thane Deepseeker**: Organizes expeditions to search for missing shards
 - **Mystic Oracle Flowing-Thought**: Claims to receive visions related to the shards' ultimate purpose
 
 ### Historical Figures
+
 - **Magistrate Tidewell**: Established modern shard research methodology (deceased)
 - **The Last Queen of Tides**: Ancient ruler who may have possessed multiple shards
 - **The Shard-Touched**: Mysterious individuals throughout history who claimed to be guided by the artifacts
@@ -155,9 +169,9 @@ This theory is controversial and lacks concrete evidence, but it has gained trac
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
 
 
 ## History
@@ -203,6 +217,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
+- [[12_Research/D&D_References/The Seven Shards Mystery]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

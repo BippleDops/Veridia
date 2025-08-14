@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/flaming-skeleton-xmm|Flaming Skeleton]]
+# [[flaming-skeleton-xmm|Flaming Skeleton]]
 *Source: Monster Manual (2024) p. 283*  
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
@@ -78,19 +78,19 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "3"
 "traits":
   - "desc": "The skeleton explodes when it dies. Dexterity Saving Throw: DC 12,\
-      \ each creature in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the skeleton. Failure: 14 (4d6) Fire damage. Success:\
       \ Half damage."
     "name": "Death Burst"
-  - "desc": "The skeleton sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 15-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The skeleton sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 15-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 15 feet."
     "name": "Illumination"
 "actions":

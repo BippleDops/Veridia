@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -15,20 +16,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystal-powered-vessels-crystal-powered-vessels.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystal-powered-vessels-crystal-powered-vessels.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[12_Research/D&D_Statblocks/Harbormaster Erik Saltbeard]]
 
 ## Player-Facing Summary
 

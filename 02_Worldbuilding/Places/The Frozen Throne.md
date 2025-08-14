@@ -3,6 +3,10 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- aquatic
 - both
 - complete
 - content/location
@@ -15,28 +19,25 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-frozen-throne-the-frozen-throne.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-frozen-throne-the-frozen-throne.svg]]
 
 
 # The Frozen Throne
+
 *Where Winter Never Ends*
 
 > *"In the deepest cold where even the ocean freezes, there sits a throne of ice eternal, waiting for a ruler who will never come. They say the last queen still sits upon it, frozen in the moment of her greatest triumph and most terrible curse."*
-> — [[02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
+> — [[12_Research/D&D_References/Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
 
 ## Overview
 
-The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
+The Frozen Throne stands as one of [[12_Research/D&D_References/Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
 
 ## History and the Fall of the Ice Kingdom
 
 ### The Golden Freeze Era
+
 **Period**: 800-600 years ago, height of the Ice Kingdom's power  
 **Ruler**: Queen Crystalla the Magnificent, master of ice magic and underwater engineering  
 **Territory**: Vast kingdom controlling the deepest, coldest ocean regions  
@@ -44,13 +45,15 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Trade**: Prosperous trade in ice crystals, preserved foods, and cold-forged metals
 
 ### The Warming Wars
+
 **Timeline**: 600-520 years ago, conflicts with expanding warm-water kingdoms  
-**Invasion**: Multiple invasions from [[02_Worldbuilding/People/The Coral Throne Syndicate]] and allied warm-water powers  
+**Invasion**: Multiple invasions from [[12_Research/D&D_References/The Coral Throne Syndicate]] and allied warm-water powers  
 **Resistance**: Fierce resistance using ice magic and cold-environment advantages  
 **Technology**: Advanced ice weapons and defensive systems  
 **Desperation**: Growing desperation as warm-water forces adapted to cold combat
 
 ### The Final Siege
+
 **Period**: 520-500 years ago, the last stand of the Ice Kingdom  
 **Leadership**: Queen Glacialis the Desperate, last monarch of the Ice Kingdom  
 **Situation**: Palace surrounded, kingdom territories lost, allies defeated  
@@ -58,6 +61,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Decision**: Choice to sacrifice everything to prevent kingdom's destruction
 
 ### The Curse of Eternal Winter
+
 **Event**: Queen Glacialis's ultimate magical working  
 **Magic**: Massive ice magic ritual binding her life force to the kingdom's preservation  
 **Effect**: Instant freezing of entire palace and surrounding area  
@@ -65,6 +69,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Cost**: Queen's life and the lives of all subjects trapped in the spell
 
 ### The Frozen Moment
+
 **Result**: Palace and inhabitants frozen at the moment of the curse's casting  
 **State**: Everything preserved exactly as it was 500 years ago  
 **Magic**: Continuous magical effect maintained by queen's trapped soul  
@@ -72,8 +77,9 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Mystery**: Unknown whether inhabitants are dead, sleeping, or something else
 
 ### Modern Rediscovery
+
 **Timeline**: 100 years ago, first modern expedition reached the palace  
-**Explorers**: Brave explorers from various [[02_Worldbuilding/Places/Aquabyssos]] nations  
+**Explorers**: Brave explorers from various [[12_Research/D&D_References/Aquabyssos]] nations  
 **Findings**: Documentation of palace's preserved state and supernatural properties  
 **Losses**: High casualty rate among expeditions due to supernatural dangers  
 **Reputation**: Growing reputation as cursed location best left undisturbed
@@ -83,6 +89,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### The Outer Defenses
 
 #### The Wall of Eternal Ice
+
 **Construction**: Massive wall of supernatural ice surrounding entire palace complex  
 **Height**: 200-foot wall with towers and battlements perfectly preserved  
 **Properties**: Ice that never melts and resists all attempts at destruction  
@@ -90,6 +97,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Gates**: Several gates, all frozen shut but some still partially accessible
 
 #### The Frozen Gardens
+
 **Beauty**: Spectacular ice gardens with crystalline plants and sculptures  
 **Preservation**: Every leaf, flower, and decoration preserved in perfect ice  
 **Paths**: Winding paths through garden maze leading to palace entrances  
@@ -97,6 +105,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Wonder**: Breathtaking beauty that has remained unchanged for centuries
 
 #### The Ice Moat
+
 **Defense**: Deep moat filled with supernatural ice instead of water  
 **Bridge**: Single bridge leading to main palace entrance  
 **Guardians**: Frozen ice elementals patrolling beneath the ice  
@@ -106,6 +115,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### The Palace Proper
 
 #### The Grand Entrance Hall
+
 **Scale**: Massive entrance hall with soaring ice crystal ceiling  
 **Preservation**: Courtiers frozen mid-bow, servants carrying trays, guards at attention  
 **Atmosphere**: Ethereal atmosphere with supernatural cold and blue-white light  
@@ -113,6 +123,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Echo**: Sound echoes strangely, sometimes carrying voices from the past
 
 #### The Throne Room
+
 **Centerpiece**: The Frozen Throne itself, carved from single massive ice crystal  
 **Occupant**: Queen Glacialis frozen on throne, perfectly preserved  
 **Court**: Entire royal court frozen in moment of final ceremony  
@@ -120,6 +131,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Danger**: Most dangerous area due to concentrated magical energies
 
 #### The Royal Chambers
+
 **Privacy**: Queen's private apartments preserved in intimate detail  
 **Personal**: Personal belongings, documents, and artifacts of royal life  
 **Secrets**: Hidden chambers containing royal secrets and magical research  
@@ -129,6 +141,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### The Palace Complex
 
 #### The Ice Forges
+
 **Function**: Magical forges creating ice weapons and cold-forged metal  
 **Workers**: Master smiths frozen at their work  
 **Products**: Incredible weapons and armor using ice kingdom techniques  
@@ -136,6 +149,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Innovation**: Revolutionary techniques lost with kingdom's fall
 
 #### The Crystal Gardens
+
 **Indoor**: Indoor gardens growing ice-adapted plants and crystal formations  
 **Biology**: Unique cold-adapted flora found nowhere else  
 **Magic**: Magical cultivation techniques creating living crystal plants  
@@ -143,6 +157,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Preservation**: Perfect preservation of extinct plant species
 
 #### The Winter Library
+
 **Knowledge**: Vast library containing ice kingdom's accumulated knowledge  
 **Preservation**: Books and scrolls perfectly preserved in magical ice  
 **Subjects**: Magic, history, science, and philosophy from ice kingdom perspective  
@@ -150,6 +165,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Scholars**: Frozen librarians and scholars at their desks
 
 #### The Palace Crypts
+
 **Burial**: Royal burial chambers beneath the palace  
 **Ancestors**: Previous ice kingdom rulers entombed in ice sarcophagi  
 **Artifacts**: Burial goods and ancestral artifacts of immense value  
@@ -161,6 +177,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### The Preservation Magic
 
 #### Temporal Suspension
+
 **Effect**: Time stopped at moment of curse casting  
 **State**: Everything exists in perfect stasis  
 **Consciousness**: Unknown whether frozen inhabitants retain awareness  
@@ -168,6 +185,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Power**: Incredible magical power required to maintain effect
 
 #### Supernatural Cold
+
 **Temperature**: Temperature far below natural freezing point  
 **Range**: Cold effect extends for miles around palace  
 **Resistance**: Cold resists all attempts to warm the area  
@@ -175,6 +193,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Magic**: Magical cold affecting both physical and spiritual elements
 
 #### Ice Generation
+
 **Creation**: Continuous generation of supernatural ice  
 **Growth**: Ice structures slowly growing and expanding  
 **Properties**: Ice harder than steel and resistant to melting  
@@ -184,6 +203,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Supernatural Phenomena
 
 #### Phantom Voices
+
 **Sounds**: Voices from the past echoing through palace halls  
 **Conversations**: Fragments of conversations from day of freezing  
 **Warning**: Sometimes voices warn visitors of dangers  
@@ -191,6 +211,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Communication**: Possible communication with frozen inhabitants through voices
 
 #### Time Echoes
+
 **Visions**: Glimpses of palace life from before the curse  
 **Events**: Replay of significant events from ice kingdom history  
 **Interaction**: Limited interaction with time echo events  
@@ -198,6 +219,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Confusion**: Risk of becoming confused about present vs. past
 
 #### Spiritual Guardians
+
 **Protectors**: Spirits of ice kingdom defenders still guarding palace  
 **Loyalty**: Absolute loyalty to frozen queen and kingdom  
 **Challenge**: Will challenge intruders but may accept worthy visitors  
@@ -205,6 +227,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Power**: Significant spiritual power enhanced by curse magic
 
 #### Living Ice
+
 **Animation**: Some ice structures exhibit signs of life and intelligence  
 **Movement**: Ice sculptures and decorations that move when not watched  
 **Protection**: Living ice protecting palace from damage or intrusion  
@@ -214,6 +237,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Curse Breaking Possibilities
 
 #### The Queen's Release
+
 **Theory**: Breaking curse requires releasing Queen Glacialis from throne  
 **Risk**: Unknown consequences of breaking 500-year-old preservation spell  
 **Method**: Various theories about proper curse-breaking procedures  
@@ -221,6 +245,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Result**: Unknown whether inhabitants would awaken or crumble to dust
 
 #### Gradual Warming
+
 **Approach**: Slowly warming palace to break curse gradually  
 **Challenge**: Supernatural cold resists all warming attempts  
 **Technology**: Would require magical or technological methods  
@@ -228,6 +253,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Time**: Process could take decades or centuries
 
 #### Magical Replacement
+
 **Concept**: Replacing queen's life force with alternative magical power  
 **Source**: Need for equivalent magical power source  
 **Complexity**: Extremely complex magical working  
@@ -239,6 +265,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### The Royal Treasury
 
 #### The Crown of Eternal Ice
+
 **Artifact**: Queen Glacialis's crown, still on her frozen head  
 **Power**: Incredible ice magic powers and cold immunity  
 **Binding**: Magically bound to the throne and curse  
@@ -246,6 +273,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Danger**: Removing crown might break or destabilize curse
 
 #### The Scepter of Winter's Command
+
 **Weapon**: Royal scepter with power over ice and cold  
 **Location**: Held in queen's frozen grip  
 **Abilities**: Can control weather, create ice, and command cold-based creatures  
@@ -253,6 +281,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Legacy**: Symbol of ice kingdom's royal power
 
 #### The Frozen Jewels
+
 **Collection**: Royal jewelry collection preserved in perfect condition  
 **Properties**: Magical properties related to cold and ice magic  
 **Value**: Incredible monetary and magical value  
@@ -262,6 +291,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Ancient Knowledge
 
 #### Ice Magic Techniques
+
 **Knowledge**: Advanced ice magic techniques developed by ice kingdom  
 **Power**: Magic far beyond modern ice magic understanding  
 **Applications**: Military, construction, preservation, and artistic applications  
@@ -269,6 +299,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Recovery**: Possible recovery through study of preserved magical works
 
 #### Cold-Water Technology
+
 **Innovation**: Advanced technology adapted for extreme cold environments  
 **Engineering**: Engineering techniques for building in supernatural cold  
 **Metallurgy**: Cold-forging techniques creating superior metals  
@@ -276,8 +307,9 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Survival**: Advanced survival techniques for extreme cold environments
 
 #### Historical Records
+
 **Documents**: Complete historical records of ice kingdom  
-**Perspective**: Unique perspective on [[02_Worldbuilding/Places/Aquabyssos]] history  
+**Perspective**: Unique perspective on [[12_Research/D&D_References/Aquabyssos]] history  
 **Secrets**: Royal secrets and diplomatic correspondence  
 **Culture**: Detailed records of ice kingdom culture and customs  
 **Value**: Immense historical value for scholars and historians
@@ -285,6 +317,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Hidden Chambers
 
 #### The Secret Laboratory
+
 **Purpose**: Queen's private magical research laboratory  
 **Experiments**: Evidence of experiments leading to final curse  
 **Knowledge**: Research notes and magical formulas  
@@ -292,6 +325,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Discovery**: Hidden behind secret passages in royal chambers
 
 #### The War Room
+
 **Function**: Military planning chamber with strategic maps and documents  
 **Intelligence**: Intelligence reports about enemy forces  
 **Plans**: Military plans and defensive strategies  
@@ -299,6 +333,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Weapons**: Collection of special weapons for final defense
 
 #### The Vault of Souls
+
 **Mystery**: Mysterious chamber containing spiritual artifacts  
 **Souls**: Possible storage location for souls of frozen inhabitants  
 **Power**: Incredible spiritual power concentrated in chamber  
@@ -310,6 +345,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Supernatural Cold
 
 #### Immediate Effects
+
 **Exposure**: Immediate dangerous cold exposure upon entry  
 **Damage**: Continuous cold damage to unprepared visitors  
 **Equipment**: Rapid failure of equipment not designed for extreme cold  
@@ -317,6 +353,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Protection**: Specialized protection required for survival
 
 #### Long-term Exposure
+
 **Frostbite**: Severe frostbite within minutes of exposure  
 **Hypothermia**: Rapid onset of life-threatening hypothermia  
 **Freezing**: Risk of partial or complete freezing  
@@ -326,6 +363,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Magical Hazards
 
 #### Curse Contamination
+
 **Effect**: Exposure to curse magic affecting visitors  
 **Symptoms**: Gradual cooling, slowing of movements, mental fogging  
 **Progression**: Progressive contamination leading to freezing  
@@ -333,6 +371,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Treatment**: Unknown treatment for curse contamination
 
 #### Ice Magic Feedback
+
 **Phenomenon**: Ice magic spells behaving unpredictably  
 **Enhancement**: Some ice magic greatly enhanced  
 **Distortion**: Other magic distorted or blocked entirely  
@@ -340,6 +379,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Unpredictability**: Impossible to predict magical effects
 
 #### Temporal Distortions
+
 **Effect**: Time flowing differently in various palace areas  
 **Confusion**: Visitors losing track of time passage  
 **Aging**: Some areas causing rapid aging or age reversal  
@@ -349,6 +389,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Structural Hazards
 
 #### Ice Instability
+
 **Danger**: Ice structures that appear solid but are actually unstable  
 **Collapse**: Risk of structural collapse from disturbing ice formations  
 **Sharp Ice**: Extremely sharp ice formations creating cutting hazards  
@@ -356,6 +397,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Hidden Gaps**: Hidden gaps and crevasses in ice floors
 
 #### Frozen Mechanisms
+
 **Traps**: Ancient defense mechanisms frozen but potentially functional  
 **Activation**: Risk of accidentally activating frozen traps  
 **Malfunction**: Malfunctioning mechanisms due to 500 years of freezing  
@@ -365,6 +407,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Spiritual Dangers
 
 #### Frozen Souls
+
 **Encounter**: Encountering souls of frozen kingdom inhabitants  
 **Communication**: Attempts at communication with frozen souls  
 **Hostility**: Some souls hostile to living visitors  
@@ -372,6 +415,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Energy Drain**: Some souls attempting to drain life energy from living
 
 #### Spiritual Cold
+
 **Effect**: Cold that affects spirit as well as body  
 **Protection**: Normal cold protection ineffective  
 **Damage**: Spiritual damage that cannot be healed normally  
@@ -383,6 +427,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Environmental Challenges
 
 #### Extreme Cold Survival
+
 **Mechanics**: Constitution saves against extreme cold  
 **Equipment**: Specialized cold weather gear and magical protection  
 **Time Limits**: Limited time before cold exposure becomes fatal  
@@ -390,6 +435,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Resources**: Managing resources while dealing with cold exposure
 
 #### Curse Resistance
+
 **Saves**: Wisdom saves against curse contamination  
 **Progression**: Gradual progression of curse effects  
 **Resistance**: Some character types more resistant to curse  
@@ -397,6 +443,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Protection**: Protective magic and items against curse contamination
 
 #### Navigation Challenges
+
 **Difficulty**: Navigation through maze-like frozen palace  
 **Time Distortion**: Time distortions affecting travel time and direction  
 **Landmarks**: Limited landmarks due to uniform ice appearance  
@@ -406,6 +453,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Combat Encounters
 
 #### Ice Elementals
+
 **Creatures**: Frozen guardians animated by curse magic  
 **Abilities**: Enhanced cold abilities and ice manipulation  
 **Tactics**: Using palace environment to their advantage  
@@ -413,6 +461,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Purpose**: Protecting specific areas or objects
 
 #### Frozen Guardians
+
 **Undead**: Palace guards transformed by curse into undead guardians  
 **Equipment**: Ancient ice kingdom weapons and armor  
 **Tactics**: Military tactics from 500 years ago  
@@ -420,6 +469,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Intelligence**: Retaining intelligence and memories from life
 
 #### Spectral Court
+
 **Spirits**: Ghostly spirits of ice kingdom nobles and courtiers  
 **Social**: Social encounters requiring diplomatic skills  
 **Information**: Valuable information about palace and kingdom  
@@ -429,6 +479,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Exploration Encounters
 
 #### Treasure Hunting
+
 **Discovery**: Finding and recovering valuable artifacts  
 **Traps**: Ancient traps protecting valuable treasures  
 **Curses**: Cursed items requiring careful handling  
@@ -436,6 +487,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Transport**: Safely transporting discoveries out of palace
 
 #### Historical Research
+
 **Investigation**: Researching ice kingdom history and culture  
 **Documents**: Deciphering ancient documents and records  
 **Language**: Learning or translating ancient ice kingdom language  
@@ -443,6 +495,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Knowledge**: Gaining valuable historical and magical knowledge
 
 #### Secret Discovery
+
 **Hidden Areas**: Finding secret chambers and hidden passages  
 **Puzzles**: Solving ancient puzzles and riddles  
 **Keys**: Finding keys and access methods for locked areas  
@@ -452,6 +505,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Social Encounters
 
 #### Communicating with the Frozen
+
 **Challenge**: Attempting communication with frozen inhabitants  
 **Methods**: Various methods for spiritual communication  
 **Information**: Learning about final days of kingdom  
@@ -459,6 +513,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Danger**: Risk of hostile or confused spiritual entities
 
 #### Court Etiquette
+
 **Requirements**: Following ancient court protocols and etiquette  
 **Knowledge**: Learning proper behavior for ancient royal court  
 **Respect**: Showing proper respect to frozen royalty  
@@ -468,6 +523,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Special Mechanics
 
 #### Ice Kingdom Knowledge
+
 **Learning**: Accumulating knowledge about ice kingdom culture and history  
 **Applications**: Applying knowledge to solve problems and overcome challenges  
 **Language**: Learning ice kingdom language and customs  
@@ -475,6 +531,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Respect**: Gaining respect from ice kingdom spirits
 
 #### Curse Progression
+
 **Tracking**: Tracking progression of curse contamination  
 **Stages**: Different stages of curse effects  
 **Treatment**: Methods for treating or slowing curse progression  
@@ -482,6 +539,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Transformation**: Risk of permanent transformation by curse
 
 #### Cold Adaptation
+
 **Adaptation**: Gradual adaptation to supernatural cold  
 **Benefits**: Benefits from successful adaptation  
 **Limits**: Limits on adaptation effectiveness  
@@ -493,6 +551,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Major Campaign Arcs
 
 #### The Curse Breaker
+
 **Level**: 14-20  
 **Mission**: Breaking the Curse of Eternal Winter  
 **Research**: Extensive research into curse origins and breaking methods  
@@ -501,24 +560,27 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Consequences**: Dealing with consequences of successful or failed curse breaking
 
 #### The Ice Crown War
+
 **Level**: 12-18  
 **Conflict**: Multiple factions competing for Crown of Eternal Ice  
 **Politics**: Complex political situation involving multiple kingdoms  
 **Exploration**: Dangerous exploration to reach crown  
 **Combat**: Combat with rival expedition groups  
-**Resolution**: Resolution affecting balance of power in [[02_Worldbuilding/Places/Aquabyssos]]
+**Resolution**: Resolution affecting balance of power in [[12_Research/D&D_References/Aquabyssos]]
 
 #### The Frozen Queen's Return
+
 **Level**: 16-20  
 **Event**: Queen Glacialis awakening from her frozen sleep  
 **Diplomacy**: Diplomatic contact with ancient queen  
 **Conflict**: Potential conflict between ancient and modern powers  
 **Alliance**: Possible alliance with awakened ice kingdom  
-**Change**: Major changes to [[02_Worldbuilding/Places/Aquabyssos]] political and magical landscape
+**Change**: Major changes to [[12_Research/D&D_References/Aquabyssos]] political and magical landscape
 
 ### Medium Adventures
 
 #### The Lost Expedition
+
 **Level**: 8-12  
 **Problem**: Rescue mission for missing exploration team  
 **Investigation**: Tracking expedition through dangerous palace  
@@ -527,6 +589,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Escape**: Dangerous escape from palace with rescued survivors
 
 #### The Ancient Knowledge
+
 **Level**: 9-13  
 **Goal**: Recovering specific magical knowledge from ice kingdom  
 **Research**: Locating information in palace library or laboratories  
@@ -535,6 +598,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Application**: Using recovered knowledge for beneficial purposes
 
 #### The Royal Treasure
+
 **Level**: 7-11  
 **Treasure Hunt**: Hunting for specific royal treasure or artifact  
 **Competition**: Competition with other treasure hunters  
@@ -545,6 +609,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ### Short Adventures
 
 #### The Frozen Message
+
 **Level**: 5-8  
 **Discovery**: Message from outside requesting help from someone in palace  
 **Delivery**: Delivering message to frozen recipient  
@@ -553,6 +618,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Relationship**: Building relationship with palace spirits
 
 #### The Cold Cure
+
 **Level**: 6-9  
 **Problem**: Someone affected by supernatural cold needs cure  
 **Research**: Researching cold-related magical effects and cures  
@@ -561,6 +627,7 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 **Treatment**: Successfully treating cold-related magical affliction
 
 #### The Ice Sculpture
+
 **Level**: 4-7  
 **Commission**: Commissioned to retrieve specific ice sculpture from palace  
 **Location**: Finding sculpture in maze-like palace  
@@ -570,28 +637,32 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[12_Research/D&D_References/Abyssos Prime]]
+
 **Interest**: Royal interest in ice kingdom artifacts and knowledge  
 **Expeditions**: Government-sponsored expeditions to palace  
 **Research**: Royal scholarly interest in historical discoveries  
 **Security**: Security concerns about powerful ancient magic  
 **Politics**: Political implications of ice kingdom discoveries
 
-### [[02_Worldbuilding/Places/The Depth Market]]
+### [[12_Research/D&D_References/The Depth Market]]
+
 **Trade**: Trading in ice kingdom artifacts and knowledge  
 **Demand**: High demand for rare ice kingdom items  
 **Authentication**: Authentication services for ice kingdom artifacts  
 **Information**: Market intelligence about palace expeditions  
 **Risk**: High-risk, high-reward trading in cursed artifacts
 
-### [[02_Worldbuilding/Places/Memory Farmers]]
+### [[12_Research/D&D_References/Memory Farmers]]
+
 **Interest**: Interest in preserved memories and knowledge from palace  
 **Services**: Memory services for expedition survivors  
 **Research**: Research into memory preservation techniques  
 **Knowledge**: Accessing stored memories of kingdom inhabitants  
 **Ethics**: Ethical questions about harvesting memories from frozen souls
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[12_Research/D&D_References/Parliament of Echoes]]
+
 **Policy**: Policies regarding exploration and artifact recovery  
 **Law**: Legal questions about ownership of ancient kingdom property  
 **Research**: Government research into ice kingdom history and magic  
@@ -612,27 +683,27 @@ The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/The Depth Market]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/The Depth Market]]
+- [[12_Research/D&D_References/Memory Farmers]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]]
-- [[02_Worldbuilding/People/Queen Glacialis]] (frozen)
-- [[02_Worldbuilding/People/Ice Kingdom Spirits]]
-- [[02_Worldbuilding/Places/Palace Guardians]]
+- [[12_Research/D&D_References/Explorer Captain Reef Deepdiver]]
+- [[12_Research/D&D_References/Queen Glacialis]] (frozen)
+- [[12_Research/D&D_References/Ice Kingdom Spirits]]
+- [[12_Research/D&D_References/Palace Guardians]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Crown of Eternal Ice]]
-- [[02_Worldbuilding/Places/Scepter of Winter's Command]]
-- [[02_Worldbuilding/Places/Curse of Eternal Winter]]
-- [[02_Worldbuilding/People/Ice Kingdom Magic]]
+- [[12_Research/D&D_References/Crown of Eternal Ice]]
+- [[12_Research/D&D_References/Scepter of Winter's Command]]
+- [[12_Research/D&D_References/Curse of Eternal Winter]]
+- [[12_Research/D&D_References/Ice Kingdom Magic]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[12_Research/D&D_References/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -654,6 +725,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[12_Research/D&D_References/The Frozen Throne]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

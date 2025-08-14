@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pristine-pearl-pristine-pearl.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pristine-pearl-pristine-pearl.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pristine Pearl]]
+- [[Pristine Pearl]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[Coral Throne Syndicate]]
+- [[The Depth Plague]]

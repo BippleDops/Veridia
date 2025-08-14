@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-diplomatic-immunity-diplomatic-immunity.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-diplomatic-immunity-diplomatic-immunity.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Diplomatic Immunity]]
+- [[Diplomatic Immunity]]
 
 <!-- enriched: true -->

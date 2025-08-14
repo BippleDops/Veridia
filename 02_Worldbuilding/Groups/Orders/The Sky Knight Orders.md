@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
+- [[Aethermoor Wind Rider Traditions]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
+- [[Aethermoor Wind Rider Traditions]]
 
 ## Player-Facing Summary
 

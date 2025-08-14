@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - aethermoor
 - complete
 - content/lore
@@ -12,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.292774+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -44,10 +42,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Queen]]
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

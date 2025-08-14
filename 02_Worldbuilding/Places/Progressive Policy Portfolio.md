@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-progressive-policy-portfolio-progressive-policy-portfolio.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[The Senator]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[The Senator]]
 
 ## Player-Facing Summary
 

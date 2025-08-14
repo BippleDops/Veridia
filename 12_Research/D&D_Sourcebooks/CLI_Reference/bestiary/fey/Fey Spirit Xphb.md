@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/fey-spirit-xphb|Fey Spirit]]
+# [[fey-spirit-xphb|Fey Spirit]]
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -45,7 +45,7 @@ world: Both
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
@@ -61,7 +61,7 @@ world: Both
       \ mood:\n\n- Fuming. The spirit has Advantage on the next attack roll it\
       \ makes before the end of this turn.  \n- Mirthful. Wisdom Saving Throw:\
       \ DC equals your spell save DC, one creature the spirit can see within 10 feet\
-      \ of itself. Failure: The target is [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+      \ of itself. Failure: The target is [[conditions#Charmed|Charmed]]\
       \ by you and the spirit for 1 minute or until the target takes any damage. \
       \ \n- Tricksy. The spirit fills a 10-foot Cube within 5 feet of it with\
       \ magical Darkness, which lasts until the end of its next turn.  "

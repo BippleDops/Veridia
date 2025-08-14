@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Magistrate Justice Lawkeeper]]
+- [[12_Research/D&D_References/Magistrate Justice Lawkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[12_Research/D&D_References/Port Meridian - Market Square]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

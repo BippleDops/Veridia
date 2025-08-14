@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gelatinous-cube-xmm-gelatinous-cube-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/gelatinous-cube-xmm|Gelatinous Cube]]
+# [[gelatinous-cube-xmm|Gelatinous Cube]]
 *Source: Monster Manual (2024) p. 129. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Gelatinous Cube
@@ -72,41 +72,41 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
   - !!int "1"
 "speed": "15 ft."
 "damage_immunities": "acid"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Prone|prone]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The cube fills its entire space and is transparent. Other creatures can\
       \ enter that space, but a creature that does so is subjected to the cube's Engulf\
-      \ and has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
-      \ on the saving throw.\n\nCreatures inside the cube have [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]],\
+      \ and has [[disadvantage-xphb|Disadvantage]]\
+      \ on the saving throw.\n\nCreatures inside the cube have [[cover-xphb|Total Cover]],\
       \ and the cube can hold one Large creature or up to four Medium or Small creatures\
       \ inside itself at a time.\n\nAs an action, a creature within 5 feet of the\
       \ cube can pull a creature or an object out of the cube by succeeding on a DC\
-      \ 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check, and\
+      \ 12 Strength ([[skills#Athletics|Athletics]]) check, and\
       \ the puller takes 10 (3d6) Acid damage."
     "name": "Ooze Cube"
   - "desc": "Even when the cube is in plain sight, a creature must succeed on a DC\
-      \ 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to notice\
+      \ 15 Wisdom ([[skills#Perception|Perception]]) check to notice\
       \ the cube if the creature hasn't witnessed the cube move or otherwise act."
     "name": "Transparent"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
-  - "desc": "The cube moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
-      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]].\
+  - "desc": "The cube moves up to its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ The cube can move through the spaces of Large or smaller creatures if it has\
-      \ room inside itself to contain them (see the Ooze [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
+      \ room inside itself to contain them (see the Ooze [[cube-area-of-effect-xphb|Cube]]\
       \ trait). Dexterity Saving Throw: DC 12, each creature whose space the cube\
       \ enters for the first time during this move. Failure: 10 (3d6) Acid damage,\
       \ and the target is engulfed. An engulfed target is suffocating, can't cast\
-      \ spells with a Verbal component, has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ spells with a Verbal component, has the [[conditions#Restrained|Restrained]]\
       \ condition, and takes 10 (3d6) Acid damage at the start of each of the cube's\
       \ turns. When the cube moves, the engulfed target moves with it. An engulfed\
-      \ target can try to escape by taking an action to make a DC 12 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
+      \ target can try to escape by taking an action to make a DC 12 Strength ([[skills#Athletics|Athletics]])\
       \ check. On a successful check, the target escapes and enters the nearest unoccupied\
       \ space. Success: Half damage, and the target moves to an unoccupied space\
       \ within 5 feet of the cube. If there is no unoccupied space, the target fails\

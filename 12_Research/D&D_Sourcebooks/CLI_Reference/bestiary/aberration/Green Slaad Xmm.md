@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-slaad-xmm-green-slaad-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/green-slaad-xmm|Green Slaad]]
+# [[green-slaad-xmm|Green Slaad]]
 *Source: Monster Manual (2024) p. 286*  
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
@@ -47,9 +47,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[/03_Mechanics/CLI/conditions#Charmed|Charmed]].
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
 > 
-> One can obtain a slaad's control gem using a [[/03_Mechanics/CLI/spells/wish-xphb|Wish]] or [[/03_Mechanics/CLI/spells/imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[/03_Mechanics/CLI/spells/imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -75,36 +75,36 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Common, Slaad; telepathy 60 ft."
 "cr": "8"
 "traits":
-  - "desc": "The slaad has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The slaad has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The slaad regains 10 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]."
+  - "desc": "The slaad regains 10 [[hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
 "actions":
   - "desc": "The slaad makes three Chaos Staff attacks."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 10 ft. or range 60 ft. Hit:\
       \ 8 (1d8 + 4) Force damage. Until the start of the slaad's next turn, the target\
-      \ has a condition determined by rolling d4: on a 1, [[/03_Mechanics/CLI/conditions#Charmed|Charmed]];\
-      \ on a 2, [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]; on a 3, [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]];\
-      \ or on a 4, [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]."
+      \ has a condition determined by rolling d4: on a 1, [[conditions#Charmed|Charmed]];\
+      \ on a 2, [[conditions#Frightened|Frightened]]; on a 3, [[conditions#Poisoned|Poisoned]];\
+      \ or on a 4, [[conditions#Incapacitated|Incapacitated]]."
     "name": "Chaos Staff"
   - "desc": "The slaad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14, +6 to hit\
-      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage\
-      \ Hand]]\n\n1/day each: [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]] (self only)"
+      \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[mage-hand-xphb|Mage\
+      \ Hand]]\n\n1/day each: [[fireball-xphb|Fireball]],\
+      \ [[invisibility-xphb|Invisibility]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\

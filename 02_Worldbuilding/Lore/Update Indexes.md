@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - complete
 - index
 - lore
@@ -22,18 +26,21 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## Core Navigation Indexes
 
 ### Campaign Content
-- [[Campaign Index]] - Complete guide to all campaign materials and session content
-- [[Location Index]] - Organized directory of all worldbuilding locations
-- [[02_Worldbuilding/Lore/Quest Index]] - Adventure hooks, quests, and campaign objectives
+
+- [[12_Research/D&D_References/Campaign Index]] - Complete guide to all campaign materials and session content
+- [[12_Research/D&D_References/Location Index]] - Organized directory of all worldbuilding locations
+- [[12_Research/D&D_References/Quest Index]] - Adventure hooks, quests, and campaign objectives
 
 ### Character & People Content
-- [[03_Mechanics/Character Index]] - Player characters and character creation resources
-- [[02_Worldbuilding/Lore/NPC Relationship Web]] - Network of non-player character connections
+
+- [[12_Research/D&D_References/Character Index]] - Player characters and character creation resources
+- [[12_Research/D&D_References/NPC Relationship Web]] - Network of non-player character connections
 - [[NPC Cross-World Connections]] - Links between Aethermoor and Aquabyssos characters
 
 ## Content Categories
 
 ### 📚 Worldbuilding Core
+
 - **Lore** - `/02_Worldbuilding/Lore/` - Historical events, cultural practices, world mechanics
 - **Places** - `/02_Worldbuilding/Places/` - Locations, settlements, geographical features
 - **Groups** - `/02_Worldbuilding/Groups/` - Organizations, factions, guilds, and societies
@@ -43,15 +50,18 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - **Hazards** - `/02_Worldbuilding/Hazards/` - Environmental dangers and challenges
 
 ### 🎲 Campaign Management
+
 - **Session Journals** - `/1-Session Journals/` - Complete session records for both campaigns
 - **Campaign Resources** - `/01_Campaigns/` - Campaign-specific materials and relationship webs
 
 ### ⚙️ Game Mechanics
+
 - **Core Mechanics** - `/03_Mechanics/` - Custom rules, adaptations, survival systems
 - **CLI Reference** - `/03_Mechanics/CLI/` - Complete D&D 5e reference materials
 - **Rules Reference** - `/07_Player_Resources/Rules_Reference.md` - Quick reference guide
 
 ### 🎯 Resources & Tools
+
 - **GM Resources** - `/06_GM_Resources/` - Campaign management, encounter building, session planning
 - **Player Resources** - `/07_Player_Resources/` - Character creation, faction guides, world primers
 - **Assets** - `/04_Resources/Assets/` - Images, maps, handouts, and multimedia content
@@ -59,6 +69,7 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - **Random Tables** - `/04_Resources/Random_Tables/` - Encounter tables, rumor generators
 
 ### 📊 Specialized Indexes
+
 - **Faction Relationship Tracker** - Track standing with organizations
 - **Evidence Chain Analysis** - Investigation and mystery tracking
 - **Timeline Tracker** - Campaign chronology and event sequencing
@@ -68,34 +79,40 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## World-Specific Navigation
 
 ### Aquabyssos Campaign
-- **Core Locations**: [[02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/The Memory Meadows]]
-- **Key Organizations**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Silverscale Consortium]], [[02_Worldbuilding/People/The Shadow Surgeons]]
-- **Major NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], [[02_Worldbuilding/Lore/Marina Red Tide Coralheart]], [[02_Worldbuilding/People/Vex Shadowthorn]]
-- **Core Mechanics**: [[02_Worldbuilding/Lore/Pressure Adaptation System]], [[03_Mechanics/Memory Tide Navigation]], [[03_Mechanics/Shadow Separation Mechanics]]
+
+- **Core Locations**: [[12_Research/D&D_References/Abyssos Prime]], [[12_Research/D&D_References/Port Meridian]], [[12_Research/D&D_Statblocks/The Memory Meadows]]
+- **Key Organizations**: [[12_Research/D&D_References/Parliament of Echoes]], [[12_Research/D&D_References/Silverscale Consortium]], [[12_Research/D&D_References/The Shadow Surgeons]]
+- **Major NPCs**: [[12_Research/D&D_References/Emperor Thalassius]], [[12_Research/D&D_References/Marina Red Tide Coralheart]], [[12_Research/D&D_References/Vex Shadowthorn]]
+- **Core Mechanics**: [[12_Research/D&D_References/Pressure Adaptation System]], [[12_Research/D&D_References/Memory Tide Navigation]], [[12_Research/D&D_References/Shadow Separation Mechanics]]
 
 ### Aethermoor Campaign
-- **Core Locations**: [[02_Worldbuilding/Places/Aethermoor]], [[02_Worldbuilding/Places/Lumengarde]], [[02_Worldbuilding/Places/Crystal Gardens]]
-- **Key Organizations**: [[02_Worldbuilding/Places/The Crystal Wardens]], [[02_Worldbuilding/People/The Harmony Collective]], [[02_Worldbuilding/People/The Verdant Accord]]
-- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier]]
-- **Core Mechanics**: [[03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics]], [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+
+- **Core Locations**: [[12_Research/D&D_References/Aethermoor]], [[12_Research/D&D_References/Lumengarde]], [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- **Key Organizations**: [[12_Research/D&D_References/The Crystal Wardens]], [[12_Research/D&D_References/The Harmony Collective]], [[12_Research/D&D_References/The Verdant Accord]]
+- **Major NPCs**: [[12_Research/D&D_References/Queen Seraphina Lumengarde]], [[12_Research/D&D_References/The Deep Mother]], [[12_Research/D&D_Statblocks/The Bloodline Carrier]]
+- **Core Mechanics**: [[12_Research/D&D_References/Crystal Plague Mechanics]], [[12_Research/D&D_References/Dual World Mechanics]], [[12_Research/D&D_References/Bloodline Awakening Powers]]
 
 ## Quick Access Tools
 
 ### Search Helpers
-- Use Obsidian's search with specific tags: `#complete`, `#stub`, `#aquabyssos`, `#aethermoor`
+
+- Use Obsidian's search with specific tags: `# complete`, `#stub`, `#aquabyssos`, `#aethermoor`
+
 - Filter by status: `status:"complete"` or `status:"stub"`
 - Find by type: `type:"location"`, `type:"npc"`, `type:"quest"`
 
 ### Content Creation
-- [[02_Worldbuilding/Lore/Create New Location]] - Template for new location entries
+
+- [[12_Research/D&D_References/Create New Location]] - Template for new location entries
 - [[Create New NPC]] - Template for new character profiles
-- [[02_Worldbuilding/Lore/Create New Session]] - Session planning and note templates
-- [[Session Planning Guide]] - GM preparation workflows
+- [[12_Research/D&D_References/Create New Session]] - Session planning and note templates
+- [[12_Research/D&D_References/Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
+
 - [[Relationship_Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
-- [[02_Worldbuilding/Lore/Continental Connections Map]] - Geographic relationship mapping
-- [[03_Mechanics/Faction Relationship Tracker]] - Organizational standing matrix
+- [[12_Research/D&D_References/Continental Connections Map]] - Geographic relationship mapping
+- [[12_Research/D&D_References/Faction Relationship Tracker]] - Organizational standing matrix
 
 ---
 
@@ -125,3 +142,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

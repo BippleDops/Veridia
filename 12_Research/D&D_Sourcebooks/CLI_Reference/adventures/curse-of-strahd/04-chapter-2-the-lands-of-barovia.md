@@ -43,7 +43,7 @@ The evergreen trees of the Svalich Woods climb the sides of the mountains that e
 
 A deadly fog surrounds the land of Barovia and engulfs any creature that tries to leave. Even flying creatures are subject to the fog's effects, which are as follows:
 
-- A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] (see "appendix A" in the "Player's Handbook"). This [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] can't be removed while the creature is in the fog.  
+- A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of [[conditions#Exhaustion|exhaustion]] (see "appendix A" in the "Player's Handbook"). This [[conditions#Exhaustion|exhaustion]] can't be removed while the creature is in the fog.  
 - No matter how far a creature travels in the fog, or in which direction it goes, it gets turned around so that it eventually finds itself back in Barovia.  
 - The area within the fog is heavily obscured (see "Vision and Light" in chapter 8 of the "Player's Handbook").  
 
@@ -55,9 +55,9 @@ Nevertheless, Strahd and his vampire spawn tend to stay indoors most of the day 
 
 ## Alterations to Magic
 
-The land of Barovia resides in its own demiplane, isolated from all other planes, including the Material Plane. No spell—not even [[/03_Mechanics/CLI/spells/wish-xphb|wish]]—allows one to escape from Strahd's domain. [[/03_Mechanics/CLI/spells/astral-projection-xphb|Astral projection]], [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane shift]], and similar spells cast for the purpose of leaving Barovia simply fail, as do effects that banish a creature to another plane of existence. These restrictions apply to magic items and artifacts that have properties that transport or banish creatures to other planes. Magic that allows transit to the Border Ethereal, such as the [[/03_Mechanics/CLI/spells/etherealness-xphb|etherealness]] spell and the Etherealness feature of incorporeal undead, is the exception to this rule. A creature that enters the Border Ethereal from Strahd's domain is pulled back into Barovia upon leaving that plane.
+The land of Barovia resides in its own demiplane, isolated from all other planes, including the Material Plane. No spell—not even [[wish-xphb|wish]]—allows one to escape from Strahd's domain. [[astral-projection-xphb|Astral projection]], [[teleport-xphb|teleport]], [[plane-shift-xphb|plane shift]], and similar spells cast for the purpose of leaving Barovia simply fail, as do effects that banish a creature to another plane of existence. These restrictions apply to magic items and artifacts that have properties that transport or banish creatures to other planes. Magic that allows transit to the Border Ethereal, such as the [[etherealness-xphb|etherealness]] spell and the Etherealness feature of incorporeal undead, is the exception to this rule. A creature that enters the Border Ethereal from Strahd's domain is pulled back into Barovia upon leaving that plane.
 
-For the purpose of spells whose effects change across or are blocked by planar boundaries (such as [[/03_Mechanics/CLI/spells/sending-xphb|sending]]), Strahd's domain is considered its own plane. Magic that summons creatures or objects from other planes functions normally in Barovia, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space (such as that created by [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]]) are subject to the same restrictions as magic cast in Barovia.
+For the purpose of spells whose effects change across or are blocked by planar boundaries (such as [[sending-xphb|sending]]), Strahd's domain is considered its own plane. Magic that summons creatures or objects from other planes functions normally in Barovia, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space (such as that created by [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]]) are subject to the same restrictions as magic cast in Barovia.
 
 While in Barovia, characters who receive spells from deities or otherworldly patrons continue to do so. In addition, spells that allow contact with beings from other planes function normally—with one proviso: Strahd can sense when someone in his domain is casting such a spell and can choose to make himself the spell's recipient, so that he becomes the one who is contacted.
 
@@ -67,40 +67,40 @@ At your discretion, a spell can be modified cosmetically to enhance the horrific
 
 > [!note] 
 > 
-> [[/03_Mechanics/CLI/spells/alarm-xphb|Alarm]]: Instead of hearing a mental ping when the alarm is triggered, the caster hears a scream.
+> [[alarm-xphb|Alarm]]: Instead of hearing a mental ping when the alarm is triggered, the caster hears a scream.
 > 
-> [[/03_Mechanics/CLI/spells/bigbys-hand-xphb|Bigby's hand]]: The conjured hand is skeletal.
+> [[bigbys-hand-xphb|Bigby's hand]]: The conjured hand is skeletal.
 > 
-> [[/03_Mechanics/CLI/spells/find-familiar-xphb|Find familiar]]: The familiar is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
+> [[find-familiar-xphb|Find familiar]]: The familiar is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
 > 
-> [[/03_Mechanics/CLI/spells/find-steed-xphb|Find steed]]: The summoned steed is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
+> [[find-steed-xphb|Find steed]]: The summoned steed is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
 > 
-> [[/03_Mechanics/CLI/spells/find-the-path-xphb|Find the path]]: A child's spirit appears and guides the caster to the desired location. The spirit can't be harmed and doesn't speak.
+> [[find-the-path-xphb|Find the path]]: A child's spirit appears and guides the caster to the desired location. The spirit can't be harmed and doesn't speak.
 > 
-> [[/03_Mechanics/CLI/spells/fog-cloud-xphb|Fog cloud]]: Misty, harmless claws form in the fog.
+> [[fog-cloud-xphb|Fog cloud]]: Misty, harmless claws form in the fog.
 > 
-> [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of wind]]: A ghastly moan accompanies the summoned wind.
+> [[gust-of-wind-xphb|Gust of wind]]: A ghastly moan accompanies the summoned wind.
 > 
-> [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage hand]]: The summoned hand is skeletal.
+> [[mage-hand-xphb|Mage hand]]: The summoned hand is skeletal.
 > 
-> [[/03_Mechanics/CLI/spells/maze-xphb|Maze]]: The surfaces of the demiplane's maze are made of mortared skulls and bones.
+> [[maze-xphb|Maze]]: The surfaces of the demiplane's maze are made of mortared skulls and bones.
 > 
-> [[/03_Mechanics/CLI/spells/phantom-steed-xphb|Phantom steed]]: The steed resembles a skeletal horse.
+> [[phantom-steed-xphb|Phantom steed]]: The steed resembles a skeletal horse.
 > 
-> [[/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb|Rary's telepathic bond]]: Characters linked together by the spell can't shake the feeling that something vile is telepathically eavesdropping on them.
+> [[rarys-telepathic-bond-xphb|Rary's telepathic bond]]: Characters linked together by the spell can't shake the feeling that something vile is telepathically eavesdropping on them.
 > 
-> [[/03_Mechanics/CLI/spells/revivify-xphb|Revivify]]: A creature restored to life by a [[/03_Mechanics/CLI/spells/revivify-xphb|revivify]] spell screams upon regaining consciousness, as though waking from some horrible nightmare.
+> [[revivify-xphb|Revivify]]: A creature restored to life by a [[revivify-xphb|revivify]] spell screams upon regaining consciousness, as though waking from some horrible nightmare.
 > 
-> [[/03_Mechanics/CLI/spells/spirit-guardians-xphb|Spirit guardians]]: The spirits appear as ghostly, skeletal warriors.
+> [[spirit-guardians-xphb|Spirit guardians]]: The spirits appear as ghostly, skeletal warriors.
 > 
-> [[/03_Mechanics/CLI/spells/wall-of-stone-xphb|Wall of stone]]: A wall created by the spell has ghastly faces sculpted into it, as though tortured spirits were somehow trapped within the stone.
+> [[wall-of-stone-xphb|Wall of stone]]: A wall created by the spell has ghastly faces sculpted into it, as though tortured spirits were somehow trapped within the stone.
 ^0a7
 
 ### Resurrection Madness
 
 In Barovia, the souls of the dead are as trapped as the souls of the living. They become caught in the mists and can't travel to the afterlife.
 
-When a humanoid who has been dead for at least 24 hours returns to life, either by way of a spell or some supernatural means, it gains a random form of indefinite madness brought on by the realization that its spirit is trapped in Barovia, likely forever. To determine how this madness is expressed, roll on the [[/03_Mechanics/CLI/tables/indefinite-madness|Indefinite Madness]] table in chapter 8 of the "Dungeon Master's Guide".
+When a humanoid who has been dead for at least 24 hours returns to life, either by way of a spell or some supernatural means, it gains a random form of indefinite madness brought on by the realization that its spirit is trapped in Barovia, likely forever. To determine how this madness is expressed, roll on the [[indefinite-madness|Indefinite Madness]] table in chapter 8 of the "Dungeon Master's Guide".
 
 ## Barovians
 
@@ -157,7 +157,7 @@ Typical Barovians know certain facts, or have certain beliefs, about their exist
 
 About Strahd and vampires, the Barovians believe the following:
 
-- [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
+- [[strahd-von-zarovich-cos|Strahd von Zarovich]] is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.  
 - The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)  
 - A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bidding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze.  
 - A vampire can't enter a residence without an invitation from one of the occupants.  
@@ -252,7 +252,7 @@ The Vistani have deep-rooted beliefs and superstitions that they pass down from 
 
 A Vistana, regardless of age, can use an action to utter a curse. The curse targets another creature within 30 feet that the Vistana can see. The Vistana can't utter another such curse before finishing a long rest.
 
-The curse is a repayment for an injustice or a slight. The target must succeed on a Wisdom saving throw to avoid the curse. The saving throw DC is 8 + the Vistana's proficiency bonus + the Vistana's Charisma modifier. The curse lasts until ended with a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell, a [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.
+The curse is a repayment for an injustice or a slight. The target must succeed on a Wisdom saving throw to avoid the curse. The saving throw DC is 8 + the Vistana's proficiency bonus + the Vistana's Charisma modifier. The curse lasts until ended with a [[remove-curse-xphb|remove curse]] spell, a [[greater-restoration-xphb|greater restoration]] spell, or similar magic. It doesn't end when the target dies. If a cursed target is returned to life, the curse remains in effect.
 
 When the curse ends, the Vistana suffers a harmful psychic backlash. The amount of this psychic damage depends on the severity of the curse that was invoked.
 
@@ -264,11 +264,11 @@ The Vistana chooses the curse's effect from the options that follow; other Vista
 - The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes `3d6` psychic damage.  
 - The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes `3d6` psychic damage.  
 - The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the chosen item until the curse ends. When this curse ends, the Vistana takes `5d6` psychic damage.  
-- The target is [[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]], or both. When this curse ends, the Vistana takes `5d6` psychic damage.  
+- The target is [[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]], or both. When this curse ends, the Vistana takes `5d6` psychic damage.  
 
 ### Evil Eye
 
-As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the [[/03_Mechanics/CLI/spells/animal-friendship-xphb|animal friendship]], [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]], or [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]] spell (Vistana's choice), but requires neither somatic nor material components. The spell save DC is 8 + the caster's proficiency bonus + the caster's Charisma modifier. If the target succeeds on the save, the Vistana is [[/03_Mechanics/CLI/conditions#Blinded|blinded]] until the end of the Vistana's next turn.
+As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the [[animal-friendship-xphb|animal friendship]], [[charm-person-xphb|charm person]], or [[hold-person-xphb|hold person]] spell (Vistana's choice), but requires neither somatic nor material components. The spell save DC is 8 + the caster's proficiency bonus + the caster's Charisma modifier. If the target succeeds on the save, the Vistana is [[conditions#Blinded|blinded]] until the end of the Vistana's next turn.
 
 A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours.
 
@@ -294,41 +294,41 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 8 | Skeletal rider |
 | 9 | Trinket |
 | 10 | Hidden bundle |
-| 11 | `d4` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarm of ravens]] (50%) or 1 [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] (see appendix D) in raven form (50%) |
-| 12 | `d6` [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|dire wolves]] |
-| 13 | `3d6` [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] |
+| 11 | `d4` [[swarm-of-ravens-xmm|swarm of ravens]] (50%) or 1 [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] (see appendix D) in raven form (50%) |
+| 12 | `d6` [[dire-wolf-xmm|dire wolves]] |
+| 13 | `3d6` [[wolf-xmm|wolves]] |
 | 14 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] |
 | 15 | Corpse |
-| 16 | `d6` [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]] in human form |
-| 17 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] with `2d6` [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|twig blights]] |
-| 18 | `2d4` [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] |
-| 19 | `d6` [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|scarecrows]] |
-| 20 | 1 [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] |
+| 16 | `d6` [[werewolf-xmm|werewolves]] in human form |
+| 17 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] with `2d6` [[twig-blight-xmm|twig blights]] |
+| 18 | `2d4` [[needle-blight-xmm|needle blights]] |
+| 19 | `d6` [[scarecrow-xmm|scarecrows]] |
+| 20 | 1 [[revenant-xmm|revenant]] |
 ^daytime-random-encounters-in-barovia
 
 **Nighttime Random Encounters in Barovia**
 
 | d12 + d8 | Encounter |
 |----------|-----------|
-| 2 | 1 [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] |
+| 2 | 1 [[ghost-xmm|ghost]] |
 | 3 | Hunting trap |
 | 4 | Grave |
 | 5 | Trinket |
 | 6 | Corpse |
 | 7 | Hidden bundle |
 | 8 | Skeletal rider |
-| 9 | `d8` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|swarm of bats]] |
-| 10 | `d6` [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|dire wolves]] |
-| 11 | `3d6` [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] |
+| 9 | `d8` [[swarm-of-bats-xmm|swarm of bats]] |
+| 10 | `d6` [[dire-wolf-xmm|dire wolves]] |
+| 11 | `3d6` [[wolf-xmm|wolves]] |
 | 12 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] |
-| 13 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and `2d6` [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|twig blights]] |
-| 14 | `2d4` [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] |
-| 15 | `d6` [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]] in wolf form |
-| 16 | `3d6` [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]] |
-| 17 | `d6` [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|scarecrows]] |
-| 18 | `d8` [[/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos|Strahd zombies]] (see appendix D) |
-| 19 | 1 [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisp]] |
-| 20 | 1 [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] |
+| 13 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and `2d6` [[twig-blight-xmm|twig blights]] |
+| 14 | `2d4` [[needle-blight-xmm|needle blights]] |
+| 15 | `d6` [[werewolf-xmm|werewolves]] in wolf form |
+| 16 | `3d6` [[zombie-xmm|zombies]] |
+| 17 | `d6` [[scarecrow-xmm|scarecrows]] |
+| 18 | `d8` [[strahd-zombie-cos|Strahd zombies]] (see appendix D) |
+| 19 | 1 [[will-o-wisp-xmm|will-o'-wisp]] |
+| 20 | 1 [[revenant-xmm|revenant]] |
 ^nighttime-random-encounters-in-barovia
 
 Use the descriptions that follow to help run each random encounter. The table entries are presented in alphabetical order.
@@ -346,7 +346,7 @@ If the characters are moving quietly and not carrying light sources, they can tr
 
 ### Barovian Scouts
 
-If at least one character has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 16 or higher, read:
+If at least one character has a passive Wisdom ([[skills#Perception|Perception]]) score of 16 or higher, read:
 
 > [!readaloud] 
 > 
@@ -361,12 +361,12 @@ These [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] are Barovian hunt
 > 
 > As the undisputed master of Barovia, Strahd has many spies, from swarms of bats to wandering Vistani, who report to him at dawn and dusk each day. These agents constantly patrol the land of Barovia and report everything they see to him.
 > 
-> Every day and night that the characters remain in Barovia, one or more of the vampire's spies check on them and attempt to return to Strahd with a report. When a spy appears, characters who have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score equal to or greater than the spy's Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check notice it. A spy does not constitute an encounter if the characters are unaware of its presence. If they do notice it, the spy's goal is usually escape, not combat. A secondary goal for a spy might be to acquire some physical object—a possession, an article of clothing, or even some part of a character's body such as a lock of hair—that Strahd can use to improve the efficacy of his [[/03_Mechanics/CLI/spells/scrying-xphb|scrying]] spell. If one of Strahd's spies is confronted by the party, the spy attempts to grab some accessible item from a character before fleeing. If Strahd acquires such an item, he uses his [[/03_Mechanics/CLI/spells/scrying-xphb|scrying]] spell to learn as much as he can about the party before planning his next attack, and to verify what his spies have already told him.
+> Every day and night that the characters remain in Barovia, one or more of the vampire's spies check on them and attempt to return to Strahd with a report. When a spy appears, characters who have a passive Wisdom ([[skills#Perception|Perception]]) score equal to or greater than the spy's Dexterity ([[skills#Stealth|Stealth]]) check notice it. A spy does not constitute an encounter if the characters are unaware of its presence. If they do notice it, the spy's goal is usually escape, not combat. A secondary goal for a spy might be to acquire some physical object—a possession, an article of clothing, or even some part of a character's body such as a lock of hair—that Strahd can use to improve the efficacy of his [[scrying-xphb|scrying]] spell. If one of Strahd's spies is confronted by the party, the spy attempts to grab some accessible item from a character before fleeing. If Strahd acquires such an item, he uses his [[scrying-xphb|scrying]] spell to learn as much as he can about the party before planning his next attack, and to verify what his spies have already told him.
 ^strahds-spies
 
 ### Berserkers
 
-These wild mountain folk are covered head to toe in thick gray mud, which makes them hard to see in the fog and well hidden in the mountains they call home. While so camouflaged, they have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to hide. Characters whose passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores are higher than the berserker's Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check can spot the nearest [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserker]].
+These wild mountain folk are covered head to toe in thick gray mud, which makes them hard to see in the fog and well hidden in the mountains they call home. While so camouflaged, they have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide. Characters whose passive Wisdom ([[skills#Perception|Perception]]) scores are higher than the berserker's Dexterity ([[skills#Stealth|Stealth]]) check can spot the nearest [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserker]].
 
 If someone spots the berserker, read:
 
@@ -402,7 +402,7 @@ Roll a `d6` to determine the nature of the corpse:
 > A snarling wolf the size of a grizzly bear steps out of the fog.
 ^0c9
 
-The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[/03_Mechanics/CLI/conditions#Charmed|charmed]] or [[/03_Mechanics/CLI/conditions#Frightened|frightened]].
+The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[dire-wolf-xmm|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
 
 ### Druid and Twig Blights
 
@@ -411,7 +411,7 @@ The area is lightly obscured by fog. If more than one dire wolf is present, the 
 > A gaunt figure with wild hair and bare feet bounds toward you on all fours, wearing a tattered gown of stitched animal skins. You can't tell whether it's a man or a woman. It stops, sniffs the air, and laughs like a lunatic. The ground nearby is crawling with tiny twig monsters.
 ^0cb
 
-The Barovian wilderness is home to [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druids]] who worship Strahd because of his ability to control the weather and the beasts of Barovia. The druids are savage and violent, and each controls a host of [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|twig blights]], which fights until destroyed. If all the twig blights are destroyed or the druid loses more than half of its hit points, the druid flees, heading toward Yester Hill (area Y).
+The Barovian wilderness is home to [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druids]] who worship Strahd because of his ability to control the weather and the beasts of Barovia. The druids are savage and violent, and each controls a host of [[twig-blight-xmm|twig blights]], which fights until destroyed. If all the twig blights are destroyed or the druid loses more than half of its hit points, the druid flees, heading toward Yester Hill (area Y).
 
 ### False Trail
 
@@ -431,7 +431,7 @@ Evil druids left this trail. Following it in either direction leads to a spiked 
 > A baleful apparition appears before you, its hollow eyes dark with anger.
 ^0cf
 
-Many ghosts haunt this land. This particular ghost is all that remains of a person drained of life by Strahd (decide whether it's a man or a woman). It appears and hisses, "No one will ever know you died here." It then attacks. If the [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]] succeeds in possessing a character, it leads its host to the gates of Ravenloft (area J) and hurls the host's body into the chasm.
+Many ghosts haunt this land. This particular ghost is all that remains of a person drained of life by Strahd (decide whether it's a man or a woman). It appears and hisses, "No one will ever know you died here." It then attacks. If the [[ghost-xmm|ghost]] succeeds in possessing a character, it leads its host to the gates of Ravenloft (area J) and hurls the host's body into the chasm.
 
 ### Grave
 
@@ -457,20 +457,20 @@ The characters find a leather-wrapped bundle hidden in the underbrush, stuffed i
 > The bundle contains one set of common clothes sized for a human adult.
 ^0d3
 
-The [[/03_Mechanics/CLI/items/common-clothes|clothes]] have a drab Barovian style to them. They belong to a wereraven or werewolf.
+The [[common-clothes|clothes]] have a drab Barovian style to them. They belong to a wereraven or werewolf.
 
 ### Hunting Trap
 
 This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
 
-Have each of the characters in the front rank of the party's marching order make a DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check. If one or more of them succeeds, read:
+Have each of the characters in the front rank of the party's marching order make a DC 15 Wisdom ([[skills#Survival|Survival]]) check. If one or more of them succeeds, read:
 
 > [!readaloud] 
 > 
 > You spot a wolf trap, its steel jaws caked with rust. Someone has carefully hidden the trap under a thin layer of pine needles and detritus.
 ^0d5
 
-Barovian hunters and trappers set these traps hoping to thin out the wolf population, but Strahd's wolves are too clever to be caught in them. If none of the characters in the front rank spots the hidden trap, one random party member steps on it. Rules for the [[/03_Mechanics/CLI/items/hunting-trap-xphb|hunting trap]] are presented in chapter 5, ""Equipment"," of the "Player's Handbook".
+Barovian hunters and trappers set these traps hoping to thin out the wolf population, but Strahd's wolves are too clever to be caught in them. If none of the characters in the front rank spots the hidden trap, one random party member steps on it. Rules for the [[hunting-trap-xphb|hunting trap]] are presented in chapter 5, ""Equipment"," of the "Player's Handbook".
 
 ### Needle Blights
 
@@ -479,7 +479,7 @@ Barovian hunters and trappers set these traps hoping to thin out the wolf popula
 > Hunched figures lurch through the mist, their gaunt bodies covered in needles.
 ^0d7
 
-The woods crawl with [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
+The woods crawl with [[needle-blight-xmm|needle blights]] that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
 
 ### Revenant
 
@@ -488,9 +488,9 @@ The woods crawl with [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle
 > A figure walks alone with the stride and bearing of one who knows no fear. Clad in rusty armor, it clutches a gleaming longsword in its pale hand and looks ready for a fight.
 ^0d9
 
-From a distance, the [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
+From a distance, the [[revenant-xmm|revenant]] looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([[skills#Insight|Insight]]) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
 
-The revenant was a [[/03_Mechanics/CLI/bestiary/undead/knight-of-the-order-cos|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
+The revenant was a [[knight-of-the-order-cos|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
 
 As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on each hit.
 
@@ -498,14 +498,14 @@ If the characters present themselves as enemies of Strahd, the revenant urges th
 
 ### Scarecrows
 
-If at least one character has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 11 or higher, read:
+If at least one character has a passive Wisdom ([[skills#Perception|Perception]]) score of 11 or higher, read:
 
 > [!readaloud] 
 > 
 > A scarecrow lurches into view. Its sackcloth eyes and rictus are ripe with malevolence, and its gut is stuffed with dead ravens. It has long, rusted knives for claws.
 ^0db
 
-If more than one [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|scarecrow]] is present, the others are close by. If none of the characters has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 11 or higher, the scarecrows catch the party by surprise.
+If more than one [[scarecrow-xmm|scarecrow]] is present, the others are close by. If none of the characters has a passive Wisdom ([[skills#Perception|Perception]]) score of 11 or higher, the scarecrows catch the party by surprise.
 
 [[/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos|Baba Lysaga]] (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and wereravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
 
@@ -516,7 +516,7 @@ If more than one [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|scarecrow]
 > Through the mist comes a skeletal warhorse and rider, both clad in ruined chainmail. The skeletal rider holds up a rusted lantern that sheds no light.
 ^0dd
 
-The human [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeleton]] and [[/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm|warhorse skeleton]] are all that remain of a rider and mount, both of whom perished trying to escape through the fog that surrounds Barovia. They are doomed to ride through the valley in search of another way out, without hope of salvation. The skeletons ignore the characters unless attacked.
+The human [[skeleton-xmm|skeleton]] and [[warhorse-skeleton-xmm|warhorse skeleton]] are all that remain of a rider and mount, both of whom perished trying to escape through the fog that surrounds Barovia. They are doomed to ride through the valley in search of another way out, without hope of salvation. The skeletons ignore the characters unless attacked.
 
 If both the rider and its mount are destroyed, this encounter can't occur again. The destruction of one skeleton doesn't prevent future encounters with the other.
 
@@ -527,7 +527,7 @@ If both the rider and its mount are destroyed, this encounter can't occur again.
 > Not even the cloying fog can hide the stench of death that descends upon you. Something evil approaches, its footsteps betrayed by snapping twigs.
 ^0df
 
-If the characters are moving quietly and not carrying light sources, they can try to hide from the [[/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos|Strahd zombies]]. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
+If the characters are moving quietly and not carrying light sources, they can try to hide from the [[strahd-zombie-cos|Strahd zombies]]. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
 
 ### Swarms of Bats
 
@@ -536,7 +536,7 @@ If the characters are moving quietly and not carrying light sources, they can tr
 > The stillness of the night is shattered by the shriek of bats and the flapping of tiny black wings.
 ^0e1
 
-These [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|bats]] are the servants of Strahd. They attack the characters without provocation.
+These [[swarm-of-bats-xmm|bats]] are the servants of Strahd. They attack the characters without provocation.
 
 ### Swarms of Ravens
 
@@ -552,7 +552,7 @@ The raven doesn't caw or try to communicate with the characters. If they leave i
 > More ravens begin to take an interest in you. Before long, their numbers swell, and soon hundreds of them are watching you.
 ^0e4
 
-The ravens fly away if attacked. If they are left alone, they watch over the party, remaining with the characters until they reach Castle Ravenloft or a settlement. If the characters have a random encounter with hostile creatures, the [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|raven swarms]] aid the characters by attacking and distracting their enemies.
+The ravens fly away if attacked. If they are left alone, they watch over the party, remaining with the characters until they reach Castle Ravenloft or a settlement. If the characters have a random encounter with hostile creatures, the [[swarm-of-ravens-xmm|raven swarms]] aid the characters by attacking and distracting their enemies.
 
 ### Trinket
 
@@ -561,7 +561,7 @@ The ravens fly away if attacked. If they are left alone, they watch over the par
 > You find something on the ground.
 ^0e6
 
-A random character finds a lost trinket. Roll on the [[/03_Mechanics/CLI/items/trinket-cos|Trinkets table]] in appendix A, select a specific trinket from the table, or create one on the fly.
+A random character finds a lost trinket. Roll on the [[trinket-cos|Trinkets table]] in appendix A, select a specific trinket from the table, or create one on the fly.
 
 ### Vistani Bandits
 
@@ -578,7 +578,7 @@ One Vistani bandit carries a pouch that holds `2d4` small gemstones (worth 50 gp
 
 ### Wereraven
 
-This [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] in raven form watches the characters from a distance. Compare its Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check result to the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to see whether it remains hidden from the party.
+This [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] in raven form watches the characters from a distance. Compare its Dexterity ([[skills#Stealth|Stealth]]) check result to the characters' passive Wisdom ([[skills#Perception|Perception]]) scores to see whether it remains hidden from the party.
 
 If one or more characters spot the creature, read:
 
@@ -607,7 +607,7 @@ If the werewolves are in wolf form, read:
 > You hear the howl of a wolf some distance away.
 ^0ee
 
-How the [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]] act depends on the form they have taken.
+How the [[werewolf-xmm|werewolves]] act depends on the form they have taken.
 
 #### Human Form
 
@@ -617,7 +617,7 @@ They try to befriend the characters to see if they are carrying silvered weapons
 
 #### Wolf Form
 
-Werewolves in wolf form follow the party from a safe distance for several hours. If their Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks exceed the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores, the werewolves attack with surprise when the characters decide to take a short or long rest. Otherwise, they wait until the characters are weakened by another random encounter before moving in for the easy kill.
+Werewolves in wolf form follow the party from a safe distance for several hours. If their Dexterity ([[skills#Stealth|Stealth]]) checks exceed the characters' passive Wisdom ([[skills#Perception|Perception]]) scores, the werewolves attack with surprise when the characters decide to take a short or long rest. Otherwise, they wait until the characters are weakened by another random encounter before moving in for the easy kill.
 
 The werewolves' lair is a cave complex that overlooks Lake Baratok (area Z). If you used the "Werewolves in the Mist" adventure hook to lure the characters to Barovia, captured werewolves can be forced to divulge the location of their den, where they keep their prisoners.
 
@@ -637,11 +637,11 @@ If the characters follow the flickering light, read:
 > The torchlight flutters as it moves away from you, but you never lose sight of it. You make your way quickly yet cautiously through the fog until you come upon the shell of a ruined tower. The upper floors of the structure have collapsed, leaving heaps of rubble and shattered timber around the tower's base. The feeble light moves through an open doorway on the ground floor, then flickers and goes out.
 ^0f3
 
-The light is a [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisp]] that enters the ruined tower and becomes [[/03_Mechanics/CLI/conditions#Invisible|invisible]], hoping to lure the characters inside to their doom.
+The light is a [[will-o-wisp-xmm|will-o'-wisp]] that enters the ruined tower and becomes [[conditions#Invisible|invisible]], hoping to lure the characters inside to their doom.
 
-The floor of the tower is made of packed earth. Its interior is [[/03_Mechanics/CLI/traps-hazards/desecrated-ground|desecrated ground]] (see ""Wilderness Hazards"" in chapter 5 of the "Dungeon Master's Guide"). Against the inside wall of the tower, across from the open doorway, is a closed, empty wooden chest.
+The floor of the tower is made of packed earth. Its interior is [[desecrated-ground|desecrated ground]] (see ""Wilderness Hazards"" in chapter 5 of the "Dungeon Master's Guide"). Against the inside wall of the tower, across from the open doorway, is a closed, empty wooden chest.
 
-If the characters disturb the chest, `3d6` [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|zombies]] erupt from the earthen floor and attack. Once the zombies appear, the will-o'-wisp becomes visible and joins the fray.
+If the characters disturb the chest, `3d6` [[zombie-xmm|zombies]] erupt from the earthen floor and attack. Once the zombies appear, the will-o'-wisp becomes visible and joins the fray.
 
 ### Wolves
 
@@ -650,7 +650,7 @@ If the characters disturb the chest, `3d6` [[/03_Mechanics/CLI/bestiary/undead/z
 > This land is home to many wolves, their howls at the moment too close for comfort.
 ^0f5
 
-Characters have a few minutes to steel themselves before these [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] attack. They heed the will of Strahd and can't be [[/03_Mechanics/CLI/conditions#Charmed|charmed]] or [[/03_Mechanics/CLI/conditions#Frightened|frightened]].
+Characters have a few minutes to steel themselves before these [[wolf-xmm|wolves]] attack. They heed the will of Strahd and can't be [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
 
 ### Zombies
 
@@ -659,7 +659,7 @@ Characters have a few minutes to steel themselves before these [[/03_Mechanics/C
 > The ungodly stench of rotting flesh hangs in the air. Up ahead, the walking, moaning corpses of dead men and women lumber about.
 ^0f7
 
-These unfortunate Barovians fell prey to the evils of the land and now shamble from place to place as a [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|ravenous mob]].
+These unfortunate Barovians fell prey to the evils of the land and now shamble from place to place as a [[zombie-xmm|ravenous mob]].
 
 ## Areas of Barovia
 
@@ -701,11 +701,11 @@ If Strahd is defeated, the gates of Barovia swing open, and the road east become
 > 
 > **Doors.** A wooden door can be forced open with a successful DC 10 Strength check, or DC 15 if the door is barred or reinforced in some other manner. Increase the DC by 5 if the door is made of stone, or by 10 if it is made of iron. Decrease the DC by 5 if the door is made of glass or amber, or if the door is weakened in some manner (such as by rot or corrosion).
 > 
-> **Secret Doors.** If there are obvious clues to a secret door's presence, such as scratch marks on a nearby wall or footprints leading to it, a character with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher notices the secret door. Otherwise, finding a secret door requires a search of the area and a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+> **Secret Doors.** If there are obvious clues to a secret door's presence, such as scratch marks on a nearby wall or footprints leading to it, a character with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher notices the secret door. Otherwise, finding a secret door requires a search of the area and a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 > 
 > **Locks.** A creature proficient with thieves' tools can use them to pick a typical lock with a successful DC 15 Dexterity check. A typical padlock can be broken by smashing it with a bludgeoning or slashing weapon and succeeding on a DC 20 Strength check.
 > 
-> **Webs.** Characters can pass through ordinary webs, including thick cobwebs, without fear of being [[/03_Mechanics/CLI/conditions#Restrained|restrained]] or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see ""Dungeon Hazards"" in chapter 5 in the "Dungeon Master's Guide" for rules on giant spider webs.
+> **Webs.** Characters can pass through ordinary webs, including thick cobwebs, without fear of being [[conditions#Restrained|restrained]] or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see ""Dungeon Hazards"" in chapter 5 in the "Dungeon Master's Guide" for rules on giant spider webs.
 ^the-lands-of-barovia-common-features
 
 ### C. Svalich Woods
@@ -717,7 +717,7 @@ If Strahd is defeated, the gates of Barovia swing open, and the road east become
 
 If the characters are traveling in Vistani wagons, they can continue on to the village of Barovia (area E) without incident.
 
-If the characters are following the road on foot, the party member who has the highest passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score notices something:
+If the characters are following the road on foot, the party member who has the highest passive Wisdom ([[skills#Perception|Perception]]) score notices something:
 
 > [!readaloud] 
 > 
@@ -737,7 +737,7 @@ The letter in Dalvan's hand has a large "B" set into its wax seal. The parchment
 
 Dalvan was instructed to place the letter at the gates, in the hope that visitors would find it and turn back.
 
-If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of howling, five [[/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm|dire wolves]] arrive and attack. If the characters are trying to leave Barovia, these dire wolves are joined by a pack of twenty [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]]. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the village of Barovia (area E).
+If the characters linger in the woods, they hear a lone wolf howl far off in the forest. Each round, one more wolf adds its voice to the howling, with the sound getting progressively closer to the party. If the characters are still in the woods after 5 rounds of howling, five [[dire-wolf-xmm|dire wolves]] arrive and attack. If the characters are trying to leave Barovia, these dire wolves are joined by a pack of twenty [[wolf-xmm|wolves]]. The wolves and the dire wolves stop their attack if the characters return to the road and head toward the village of Barovia (area E).
 
 ### D. River Ivlis
 
@@ -795,7 +795,7 @@ If your card reading reveals that a treasure is here, it is buried in one of the
 > The mournful strains of an accordion clash with the singing of several brightly clad figures around bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.
 ^10f
 
-The eight [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horses]] drinking from the river are used to pull the Vistani wagons and aren't easily startled.
+The eight [[draft-horse-xmm|draft horses]] drinking from the river are used to pull the Vistani wagons and aren't easily startled.
 
 If the characters are brought to this camp by the Vistani, their escorts remain at the camp and don't accompany the adventuring party any farther.
 
@@ -847,7 +847,7 @@ For each Vistani tent or wagon that the characters search, roll once on the foll
 | 11–13 | Sack of 100 ep (each coin stamped with Strahd's visage in profile) |
 | 14–16 | Pouch containing `4d6` gemstones worth 100 gp each |
 | 17–19 | Sack containing `3d6` pieces of cheap jewelry worth 25 gp total and `d6` pieces of fine jewelry worth 250 gp each |
-| 20 | One magic item (roll once on [[/03_Mechanics/CLI/tables/magic-item-table-b|Magic Item Table B]] in the "Dungeon Master's Guide") |
+| 20 | One magic item (roll once on [[magic-item-table-b|Magic Item Table B]] in the "Dungeon Master's Guide") |
 ^treasure
 
 #### Fortunes of Ravenloft
@@ -890,7 +890,7 @@ If Strahd has invited the characters to Castle Ravenloft or otherwise wants to s
 > Parked at the fork in the road, pointed east, is a large black carriage drawn by two black horses. The horses snort puffs of steamy breath into the chill mountain air. The side door of the carriage swings open silently.
 ^11b
 
-The two black [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horses]] are under Strahd's control. The horses wait for the characters to pile into the carriage if they so desire. There is room inside for eight of them. If they get into the carriage, the horses draw it down the road to area J. The horses can't be discouraged from their course, not even by a skilled teamster.
+The two black [[draft-horse-xmm|draft horses]] are under Strahd's control. The horses wait for the characters to pile into the carriage if they so desire. There is room inside for eight of them. If they get into the carriage, the horses draw it down the road to area J. The horses can't be discouraged from their course, not even by a skilled teamster.
 
 Characters who don't want to travel east in the carriage can follow the road northwest through a set of iron gates (area B) that open as they approach and close behind them, or the characters can travel south along the winding road to the bridge at Tser Falls (area H).
 
@@ -909,11 +909,11 @@ The drawbridge appears sturdy, but a few of its boards are missing and it creaks
 
 #### Green Slime
 
-A patch of [[/03_Mechanics/CLI/traps-hazards/green-slime-xdmg|green slime]] (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide") clings to the portcullis in the entry tunnel, and can be spotted with a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The slime will not fall on characters entering the castle, but it does fall on the first character who leaves by this route.
+A patch of [[green-slime-xdmg|green slime]] (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide") clings to the portcullis in the entry tunnel, and can be spotted with a successful DC 20 Wisdom ([[skills#Perception|Perception]]) check. The slime will not fall on characters entering the castle, but it does fall on the first character who leaves by this route.
 
 ### K. Castle Ravenloft
 
-Chapter 4 explores Castle Ravenloft, lair of the vampire [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]].
+Chapter 4 explores Castle Ravenloft, lair of the vampire [[strahd-von-zarovich-cos|Strahd von Zarovich]].
 
 ### L. Lake Zarovich
 
@@ -929,7 +929,7 @@ If the characters arrive along the shore north of Vallaki in the daytime, add:
 > Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 ^123
 
-Each rowboat can safely hold five people. The person fishing on the lake is [[/03_Mechanics/CLI/bestiary/npc/bluto-krogarov-cos|Bluto Krogarov]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] (LN female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-commoner-cos|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[/03_Mechanics/CLI/conditions#Prone|prone]] so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is [[/03_Mechanics/CLI/bestiary/npc/bluto-krogarov-cos|Bluto Krogarov]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] (LN female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-commoner-cos|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[conditions#Prone|prone]] so that she can't be seen or heard from the shore.
 
 #### Roleplaying Bluto
 
@@ -941,7 +941,7 @@ Bluto is a hollow shell of a man, barely able to understand his own actions. He 
 
 #### Roleplaying Arabelle
 
-Characters who act quickly can save [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
+Characters who act quickly can save [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] before she drowns. A character on the shore must succeed on a DC 15 Strength ([[skills#Athletics|Athletics]]) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
 
 [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]], will give the characters a reward for doing so.
 
@@ -964,36 +964,36 @@ The Mad Mage has forgotten his name and the world whence he came. In fact, he do
 
 Believing that the characters aim to kill him, the Mad Mage unleashes his destructive magic. As he tears into them, he shouts, "You think my magic has grown weak? Think again!" If he is reduced to 50 hit points or fewer, he shouts, "Tell your dark masters they can break my body, but never my spirit!" He then tries to escape.
 
-Under normal circumstances, a [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] of Oerth and the leader of a powerful group of adventurers called the Circle of Eight. But in this case, the Mad Mage has cast a [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]] spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check. The Mad Mage's [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]] spell has a remaining duration of `3d6` hours, after which his madness can be cured normally.
+Under normal circumstances, a [[greater-restoration-xphb|greater restoration]] spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] of Oerth and the leader of a powerful group of adventurers called the Circle of Eight. But in this case, the Mad Mage has cast a [[mind-blank-xphb|mind blank]] spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence ([[skills#Arcana|Arcana]]) check. The Mad Mage's [[mind-blank-xphb|mind blank]] spell has a remaining duration of `3d6` hours, after which his madness can be cured normally.
 
-The Mad Mage has a different spell list from that of the [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] in the "Monster Manual", and he has already used one 1st-level spell slot to cast [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]] on himself, one 4th-level spell slot to cast [[/03_Mechanics/CLI/spells/polymorph-xphb|polymorph]] on himself, one 7th-level spell slot to cast [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]] on himself.
+The Mad Mage has a different spell list from that of the [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] in the "Monster Manual", and he has already used one 1st-level spell slot to cast [[mage-armor-xphb|mage armor]] on himself, one 4th-level spell slot to cast [[polymorph-xphb|polymorph]] on himself, one 7th-level spell slot to cast [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast [[mind-blank-xphb|mind blank]] on himself.
 
 > [!note] 
 > 
-> Cantrips (at will): [[/03_Mechanics/CLI/spells/fire-bolt-xphb|fire bolt]], [[/03_Mechanics/CLI/spells/light-xphb|light]], [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]], [[/03_Mechanics/CLI/spells/shocking-grasp-xphb|shocking grasp]]
+> Cantrips (at will): [[fire-bolt-xphb|fire bolt]], [[light-xphb|light]], [[mage-hand-xphb|mage hand]], [[prestidigitation-xphb|prestidigitation]], [[shocking-grasp-xphb|shocking grasp]]
 > 
-> 1st level (4 slots): [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]], [[/03_Mechanics/CLI/spells/magic-missile-xphb|magic missile]], [[/03_Mechanics/CLI/spells/shield-xphb|shield]]
+> 1st level (4 slots): [[detect-magic-xphb|detect magic]], [[mage-armor-xphb|mage armor]], [[magic-missile-xphb|magic missile]], [[shield-xphb|shield]]
 > 
-> 2nd level (3 slots): [[/03_Mechanics/CLI/spells/mirror-image-xphb|mirror image]], [[/03_Mechanics/CLI/spells/misty-step-xphb|misty step]], [[/03_Mechanics/CLI/spells/web-xphb|web]]
+> 2nd level (3 slots): [[mirror-image-xphb|mirror image]], [[misty-step-xphb|misty step]], [[web-xphb|web]]
 > 
-> 3rd level (3 slots): [[/03_Mechanics/CLI/spells/counterspell-xphb|counterspell]], [[/03_Mechanics/CLI/spells/fly-xphb|fly]], [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning bolt]]
+> 3rd level (3 slots): [[counterspell-xphb|counterspell]], [[fly-xphb|fly]], [[lightning-bolt-xphb|lightning bolt]]
 > 
-> 4th level (3 slots): [[/03_Mechanics/CLI/spells/mordenkainens-faithful-hound-xphb|Mordenkainen's faithful hound]], [[/03_Mechanics/CLI/spells/polymorph-xphb|polymorph]], [[/03_Mechanics/CLI/spells/stoneskin-xphb|stoneskin]]
+> 4th level (3 slots): [[mordenkainens-faithful-hound-xphb|Mordenkainen's faithful hound]], [[polymorph-xphb|polymorph]], [[stoneskin-xphb|stoneskin]]
 > 
-> 5th level (3 slots): [[/03_Mechanics/CLI/spells/bigbys-hand-xphb|Bigby's hand]], [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]], [[/03_Mechanics/CLI/spells/scrying-xphb|scrying]]
+> 5th level (3 slots): [[bigbys-hand-xphb|Bigby's hand]], [[cone-of-cold-xphb|cone of cold]], [[scrying-xphb|scrying]]
 > 
-> 6th level (1 slot): [[/03_Mechanics/CLI/spells/true-seeing-xphb|true seeing]]
+> 6th level (1 slot): [[true-seeing-xphb|true seeing]]
 > 
-> 7th level (1 slot): [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]]
+> 7th level (1 slot): [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]]
 > 
-> 8th level (1 slot): [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]]
+> 8th level (1 slot): [[mind-blank-xphb|mind blank]]
 > 
-> 9th level (1 slot): [[/03_Mechanics/CLI/spells/time-stop-xphb|time stop]]
+> 9th level (1 slot): [[time-stop-xphb|time stop]]
 ^128
 
 #### The Mad Mage's Mansion
 
-If the characters rescue the [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
+If the characters rescue the [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
 
 Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the Forgotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
 
@@ -1005,7 +1005,7 @@ If your card reading reveals that the Mad Mage is the party's ally in the battle
 
 With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
 
-The [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] has never had his fortune read by [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]] and doesn't care to, but if he is told about the [[/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]], the [[/03_Mechanics/CLI/items/tome-of-strahd-cos|Tome of Strahd]], and the [[/03_Mechanics/CLI/items/sunsword-cos|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+The [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] has never had his fortune read by [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]] and doesn't care to, but if he is told about the [[holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]], the [[tome-of-strahd-cos|Tome of Strahd]], and the [[sunsword-cos|Sunsword]], he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
 
 ### N. Town of Vallaki
 

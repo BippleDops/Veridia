@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-king-torrhen-lumengarde-king-torrhen-lumengarde.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-king-torrhen-lumengarde-king-torrhen-lumengarde.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Pretender]]
+- [[Quest - The Pretender]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[Quest - The Pretender]]
 
 ## Player-Facing Summary
 

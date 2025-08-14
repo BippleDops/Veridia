@@ -30,7 +30,7 @@ Vallaki was founded not long after Strahd's armies conquered the valley by an an
 
 In the last festival, Baron Vallakovich had townsfolk parade through the streets with the severed heads of wolves on pikes. His next event, which the burgomaster has dubbed the Festival of the Blazing Sun, is soon to get under way (see the "Special Events" section at the end of this chapter). Weatherworn garlands from previous festivals still hang from the eaves of Vallaki's buildings, and work has begun on a large wicker sun, to be set ablaze in the town square on the day of the festival. In the days leading up to the festival, Baron Vallakovich has begun arresting local malcontents and throwing them in the stocks so that his efforts aren't ruined by "those of little hope or faith."
 
-> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]  
+> [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]]  
 > 
 > There is no light in the eyes of the men that feed off this land. They are as dead as the dead.
 
@@ -61,7 +61,7 @@ Three tall gates made of iron bars lead into town:
 
 Heavy iron chains with iron padlocks keep the gates shut at night. During the day, the gates are closed but not typically locked.
 
-Two town [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `1d10 + 1` piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to convince the guards to unlock the gate and let them enter.
+Two town [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., `1d10 + 1` piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma ([[skills#Persuasion|Persuasion]]) check to convince the guards to unlock the gate and let them enter.
 
 If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] armed with clubs, daggers, and torches.
 
@@ -74,7 +74,7 @@ If the characters explore a residence other than the burgomaster's mansion (area
 | dice: d20 | Occupant |
 |-----------|----------|
 | 1–3 | None |
-| 4–5 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]] |
+| 4–5 | `2d4` [[swarm-of-rats-xmm|swarms of rats]] |
 | 6–18 | Vallakian townsfolk |
 | 19–20 | Vallakian cultists |
 ^occupant
@@ -126,7 +126,7 @@ This church is dedicated to the Morninglord and named after St. Andral, whose bo
 
 Father Lucian Petrovich (LG male human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]]) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] (see below) tends the grounds and digs graves.
 
-At night, the church is packed with `2d6 + 6` [[/03_Mechanics/CLI/conditions#Frightened|frightened]] Vallakian adults (male and female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) and `2d6` equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with `2d6 + 6` [[conditions#Frightened|frightened]] Vallakian adults (male and female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) and `2d6` equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/049-cos05-03.webp#center|Milivoj]]
 
@@ -143,9 +143,9 @@ Until recently, the church was protected from Strahd's depredations by the bones
 
 The culprit is [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]], whom Father Lucian correctly suspects. But the priest has been reluctant to confront [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
 
-St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] and succeeds on a DC 10 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) check, he admits that Yeska told him about the bones. He also admits to passing along the information to [[/03_Mechanics/CLI/bestiary/npc/henrik-van-der-voort-cos|Henrik van der Voort]], the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
+St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] and succeeds on a DC 10 Charisma ([[skills#Intimidation|Intimidation]]) check, he admits that Yeska told him about the bones. He also admits to passing along the information to [[/03_Mechanics/CLI/bestiary/npc/henrik-van-der-voort-cos|Henrik van der Voort]], the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
 
-The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a [[/03_Mechanics/CLI/spells/hallow-xphb|hallow]] spell.
+The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a [[hallow-xphb|hallow]] spell.
 
 ### N2. Blue Water Inn
 
@@ -236,7 +236,7 @@ The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf
 
 During his stay at the inn, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
 
-[[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] wears a [[/03_Mechanics/CLI/items/hat-of-disguise-xdmg|hat of disguise]] and a [[/03_Mechanics/CLI/items/ring-of-mind-shielding-xdmg|ring of mind shielding]] to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
+[[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] wears a [[hat-of-disguise-xdmg|hat of disguise]] and a [[ring-of-mind-shielding-xdmg|ring of mind shielding]] to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
 
 #### N2d. Wine Storage
 
@@ -271,7 +271,7 @@ The sliding wooden doors on the west wall of this room are held shut by an iron 
 > You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 ^344
 
-Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horse]] named Drusilla, and she likes apples. The horse belongs to [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (see area N2c).
+Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[draft-horse-xmm|draft horse]] named Drusilla, and she likes apples. The horse belongs to [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (see area N2c).
 
 The small door in the east wall can be pulled open to reveal area N2g. The loft is described in area N2h.
 
@@ -286,13 +286,13 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 > Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
 ^347
 
-Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarms of ravens]] and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[/03_Mechanics/CLI/bestiary/npc/urwin-martikov-cos|Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four [[swarm-of-ravens-xmm|swarms of ravens]] and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[/03_Mechanics/CLI/bestiary/npc/urwin-martikov-cos|Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
 
 A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
 
 ##### Treasure
 
-Inside the locked chest are 140 ep, 70 pp, two [[/03_Mechanics/CLI/items/elixir-of-health-xdmg|elixirs of health]], three [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]], and a [[/03_Mechanics/CLI/items/bag-of-tricks-gray-xdmg|gray bag of tricks]]. The coins are embossed with the profiled likeness of [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]].
+Inside the locked chest are 140 ep, 70 pp, two [[elixir-of-health-xdmg|elixirs of health]], three [[potion-of-healing-xdmg|potions of healing]], and a [[bag-of-tricks-gray-xdmg|gray bag of tricks]]. The coins are embossed with the profiled likeness of [[strahd-von-zarovich-cos|Strahd von Zarovich]].
 
 #### N2i. Secret Stairs and Hall
 
@@ -415,7 +415,7 @@ Two trapdoors, clearly visible on the floor, can be pulled open to reveal the be
 
 ##### Treasure
 
-Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]), six pieces of jewelry (worth 250 gp each), and three [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]].
+Urwin carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of [[strahd-von-zarovich-cos|Strahd von Zarovich]]), six pieces of jewelry (worth 250 gp each), and three [[potion-of-healing-xdmg|potions of healing]].
 
 #### Fortunes of Ravenloft
 
@@ -460,7 +460,7 @@ At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG fema
 
 ##### The Baronet
 
-The baron's miserable son, [[/03_Mechanics/CLI/bestiary/npc/victor-vallakovich-cos|Victor Vallakovich]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]]), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] in the hope of escaping Barovia and leaving his parents to their doom.
+The baron's miserable son, [[/03_Mechanics/CLI/bestiary/npc/victor-vallakovich-cos|Victor Vallakovich]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]]), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a [[teleportation-circle-xphb|teleportation circle]] in the hope of escaping Barovia and leaving his parents to their doom.
 
 #### N3a. Entrance Hall and Vestibule
 
@@ -610,7 +610,7 @@ If the burgomaster has not been drawn elsewhere, he is here. Add:
 > Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 ^37f
 
-[[/03_Mechanics/CLI/bestiary/npc/baron-vargas-vallakovich-cos|Baron Vargas Vallakovich]] never goes anywhere without his two [[/03_Mechanics/CLI/bestiary/beast/mastiff-xmm|mastiffs]]. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+[[/03_Mechanics/CLI/bestiary/npc/baron-vargas-vallakovich-cos|Baron Vargas Vallakovich]] never goes anywhere without his two [[mastiff-xmm|mastiffs]]. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
 
 The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[/03_Mechanics/CLI/bestiary/npc/izek-strazni-cos|Izek Strazni]] and assemble his guards to run them out of town.
 
@@ -670,7 +670,7 @@ The white gown stored here belongs to the baroness. It reminds her of happier ti
 
 ##### Magic Mirror
 
-A [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion's current occupants are aware of this fact, because the mirror's magic hasn't been used in generations. Casting an [[/03_Mechanics/CLI/spells/identify-xphb|identify]] spell on the mirror reveals that an assassin's ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
+A [[detect-magic-xphb|detect magic]] spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion's current occupants are aware of this fact, because the mirror's magic hasn't been used in generations. Casting an [[identify-xphb|identify]] spell on the mirror reveals that an assassin's ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
 
 > [!note] 
 > 
@@ -689,13 +689,13 @@ The entity in the mirror is the spirit of a nameless assassin who once belonged 
 
 If the summoner isn't evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassin]] but doesn't speak, and he disappears into the ether if reduced to 0 hit points. The assassin's summoner can command him to kill one living creature within Strahd's domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn't given an appropriate name within 1 round of being summoned, the assassin disappears.
 
-- **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner's neck. The spectral eyes and hands have the statistics of a [[/03_Mechanics/CLI/bestiary/undead/ghost-xmm|ghost]], but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.  
+- **Evil Summoner.** If the summoner is evil, the ghost manifests as a pair of floating, bloodshot eyes and strong, spectral hands. The hands try to wrap themselves around the summoner's neck. The spectral eyes and hands have the statistics of a [[ghost-xmm|ghost]], but without the Etherealness and Possession actions. The ghost attacks its summoner until one or the other drops to 0 hit points, at which point it disappears.  
 
 Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin's spirit to rest, causing the manifestation to disappear if it is present.
 
 The mirror corrupts those who use it to do evil. Summoning the assassin isn't evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25 percent chance that the creature's alignment shifts to neutral evil.
 
-If a character touches the mirror and speaks Strahd's name, there is a 50 percent chance that Strahd takes notice and appears on the mirror's surface. In this form, the vampire can't be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd's smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by Strahd feels compelled to accept the vampire's invitation.
+If a character touches the mirror and speaks Strahd's name, there is a 50 percent chance that Strahd takes notice and appears on the mirror's surface. In this form, the vampire can't be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not, Strahd's smiling visage invites the characters to dine at Castle Ravenloft, then fades away. A creature [[conditions#Charmed|charmed]] by Strahd feels compelled to accept the vampire's invitation.
 
 #### N3q. Bathroom
 
@@ -739,9 +739,9 @@ Victor spends most of his time here, leaving only when he needs food or spell co
 > Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
 ^395
 
-Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]] (`5d8` lightning damage) that triggers if anyone other than Victor opens the door.
+Anyone who inspects the carving and succeeds on a DC 14 Intelligence ([[skills#Investigation|Investigation]]) check notices a small, nearly invisible glyph etched into the skull's forehead. This is a [[glyph-of-warding-xphb|glyph of warding]] (`5d8` lightning damage) that triggers if anyone other than Victor opens the door.
 
-The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check can tell he's badly pronouncing some kind of teleportation spell.
+The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who listens at the door and succeeds on a DC 14 Intelligence ([[skills#Arcana|Arcana]]) check can tell he's badly pronouncing some kind of teleportation spell.
 
 If the characters open the door, read:
 
@@ -750,7 +750,7 @@ If the characters open the door, read:
 > Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
 ^396
 
-If the characters trigger the [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]] or otherwise announce their arrival, Victor casts a [[/03_Mechanics/CLI/spells/greater-invisibility-xphb|greater invisibility]] spell on himself and hides in a corner. Otherwise, he's visible. If the characters can see Victor, read:
+If the characters trigger the [[glyph-of-warding-xphb|glyph of warding]] or otherwise announce their arrival, Victor casts a [[greater-invisibility-xphb|greater invisibility]] spell on himself and hides in a corner. Otherwise, he's visible. If the characters can see Victor, read:
 
 > [!readaloud] 
 > 
@@ -759,25 +759,25 @@ If the characters trigger the [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|g
 
 Victor found a spellbook in his father's library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He's a weird, awkward, and off-putting fellow who is dangerous only if threatened.
 
-For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six cat skeletons (use the [[/03_Mechanics/CLI/bestiary/beast/cat-xmm|cat]] stat block, but give them [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 60 feet and immunity to poison damage, [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], and the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] condition). The skeletons attack only when Victor commands them to.
+For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six cat skeletons (use the [[cat-xmm|cat]] stat block, but give them [[senses#Darkvision|darkvision]] out to a range of 60 feet and immunity to poison damage, [[conditions#Exhaustion|exhaustion]], and the [[conditions#Poisoned|poisoned]] condition). The skeletons attack only when Victor commands them to.
 
 The "children" standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
 
-The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] spell, which he's still trying to master (see "Teleportation Circle" below).
+The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the [[teleportation-circle-xphb|teleportation circle]] spell, which he's still trying to master (see "Teleportation Circle" below).
 
 The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard's robe. Victor started to make the robe for himself but found the work tedious and stopped.
 
 ##### Teleportation Circle
 
-Victor's spellbook contains incomplete text for a [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
+Victor's spellbook contains incomplete text for a [[teleportation-circle-xphb|teleportation circle]] spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
 
-Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] spell. If the circle is used in the casting of a [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]] spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `3d10` force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
+Victor recently inscribed his own version of a teleportation circle on the floor. It's hidden under the rug so that his parents don't find it. In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the [[teleportation-circle-xphb|teleportation circle]] spell. If the circle is used in the casting of a [[teleportation-circle-xphb|teleportation circle]] spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes `3d10` force damage and isn't teleported anywhere. If this damage reduces the creature to 0 hit points, the creature is disintegrated. Any character who studies the circle and succeeds on a DC 15 Intelligence ([[skills#Arcana|Arcana]]) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
 
-Victor has tested his circle on two reluctant servants (compelled by his [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
+Victor has tested his circle on two reluctant servants (compelled by his [[suggestion-xphb|suggestion]] spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook. Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
 
 ##### Treasure
 
-Victor's spellbook contains all the spells Victor has prepared (see the [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stat block in the "Monster Manual") as well as the following spells: [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]], [[/03_Mechanics/CLI/spells/blight-xphb|blight]], [[/03_Mechanics/CLI/spells/cloudkill-xphb|cloudkill]], [[/03_Mechanics/CLI/spells/darkvision-xphb|darkvision]], [[/03_Mechanics/CLI/spells/glyph-of-warding-xphb|glyph of warding]], [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]], [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]], and [[/03_Mechanics/CLI/spells/thunderwave-xphb|thunderwave]].
+Victor's spellbook contains all the spells Victor has prepared (see the [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stat block in the "Monster Manual") as well as the following spells: [[animate-dead-xphb|animate dead]], [[blight-xphb|blight]], [[cloudkill-xphb|cloudkill]], [[darkvision-xphb|darkvision]], [[glyph-of-warding-xphb|glyph of warding]], [[levitate-xphb|levitate]], [[remove-curse-xphb|remove curse]], and [[thunderwave-xphb|thunderwave]].
 
 ### N4. Wachterhaus
 
@@ -798,7 +798,7 @@ Use the following information to roleplay Lady Wachter, her family, and her asso
 
 ##### Lady of the House
 
-[[/03_Mechanics/CLI/bestiary/npc/lady-fiona-wachter-cos|Lady Fiona Wachter]] (LE female human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[/03_Mechanics/CLI/bestiary/npc/baron-vargas-vallakovich-cos|Baron Vargas Vallakovich]] won't give up his birthright without a fight.
+[[/03_Mechanics/CLI/bestiary/npc/lady-fiona-wachter-cos|Lady Fiona Wachter]] (LE female human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that [[strahd-von-zarovich-cos|Strahd von Zarovich]] is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[/03_Mechanics/CLI/bestiary/npc/baron-vargas-vallakovich-cos|Baron Vargas Vallakovich]] won't give up his birthright without a fight.
 
 Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, as part of a plot to gain a foothold in the baron's mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).
 
@@ -806,7 +806,7 @@ Lady Wachter's latest scheme to gain control of Vallaki is far more diabolical. 
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/060-cos05-11.webp#center|Fiona Wachter and Majesto]]
 
-Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts [[/03_Mechanics/CLI/spells/gentle-repose-xphb|gentle repose]] spells on the corpse to keep it from deteriorating.
+Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts [[gentle-repose-xphb|gentle repose]] spells on the corpse to keep it from deteriorating.
 
 If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, [[/03_Mechanics/CLI/bestiary/npc/izek-strazni-cos|Izek Strazni]]. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
 
@@ -814,10 +814,10 @@ Lady Wachter has a different list of prepared spells from that of the [[/03_Mech
 
 > [!note] 
 > 
-> - Cantrips (at will): [[/03_Mechanics/CLI/spells/light-xphb|light]], [[/03_Mechanics/CLI/spells/mending-xphb|mending]], [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]]  
-> - 1st level (4 slots): [[/03_Mechanics/CLI/spells/command-xphb|command]], [[/03_Mechanics/CLI/spells/purify-food-and-drink-xphb|purify food and drink]], [[/03_Mechanics/CLI/spells/sanctuary-xphb|sanctuary]]  
-> - 2nd level (3 slots): [[/03_Mechanics/CLI/spells/augury-xphb|augury]], [[/03_Mechanics/CLI/spells/gentle-repose-xphb|gentle repose]], [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]]  
-> - 3rd level (2 slots): [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]], [[/03_Mechanics/CLI/spells/create-food-and-water-xphb|create food and water]]  
+> - Cantrips (at will): [[light-xphb|light]], [[mending-xphb|mending]], [[thaumaturgy-xphb|thaumaturgy]]  
+> - 1st level (4 slots): [[command-xphb|command]], [[purify-food-and-drink-xphb|purify food and drink]], [[sanctuary-xphb|sanctuary]]  
+> - 2nd level (3 slots): [[augury-xphb|augury]], [[gentle-repose-xphb|gentle repose]], [[hold-person-xphb|hold person]]  
+> - 3rd level (2 slots): [[animate-dead-xphb|animate dead]], [[create-food-and-water-xphb|create food and water]]  
 ^39e
 
 ##### Fiona's Sons
@@ -871,7 +871,7 @@ The back door is locked and similar to the front door (area N4a) in every respec
 > Servants' coats and aprons hang from hooks in this room, and boots are neatly lined up against the wall.
 ^3a9
 
-Anyone who searches the closet and makes a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check finds a secret door in the south wall. The door can be pulled open to reveal a stone staircase (area N4g) that leads to the cellar.
+Anyone who searches the closet and makes a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check finds a secret door in the south wall. The door can be pulled open to reveal a stone staircase (area N4g) that leads to the cellar.
 
 #### N4g. Secret Staircase
 
@@ -955,7 +955,7 @@ The door to this room is locked from both sides, and only Lady Wachter has a key
 > Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. "Little kitty doesn't know you!" she shouts. "Little kitty doesn't like the smell of you!"
 ^3ba
 
-The young woman is [[/03_Mechanics/CLI/bestiary/npc/stella-wachter-cos|Stella Wachter]] (CG female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), Lady Wachter's insane daughter. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1), Father Lucian offers to look after her, and she agrees to stay with him.
+The young woman is [[/03_Mechanics/CLI/bestiary/npc/stella-wachter-cos|Stella Wachter]] (CG female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), Lady Wachter's insane daughter. A [[greater-restoration-xphb|greater restoration]] spell rids her of the madness that makes her think she's a cat. If she is cured of her madness, she blames her mother for treating her horribly and using her as a pawn to seize control of the town. Stella knows none of her mother's secrets, apart from her mother's desire to overthrow the burgomaster. Stella has nothing kind to say about the burgomaster or his son, Victor, whose very name makes her cringe. With her wits restored, Stella feels she has no one in Vallaki she can count on. She latches onto any character who is kind to her. If the party takes her to St. Andral's church (area N1), Father Lucian offers to look after her, and she agrees to stay with him.
 
 #### N4o. Master Bedroom
 
@@ -968,9 +968,9 @@ The door to this room is locked. Lady Wachter and her servants carry keys. A gha
 > Wood paneling covers the walls of the room. A closet and a framed mirror flank a curtained window to the south. To the north, a wide, canopied bed lies pinned between matching end tables with oil lamps. Stretched out on one side of the bed is a man dressed in black, his eyes each covered with a copper piece. He bears a striking resemblance to the father in the painting.
 ^3bc
 
-Lady Wachter's husband, Nikolai, lies in his bed, impeccably dressed, quite deceased, and under the effect of the [[/03_Mechanics/CLI/spells/gentle-repose-xphb|gentle repose]] spell. Nothing of value is on him.
+Lady Wachter's husband, Nikolai, lies in his bed, impeccably dressed, quite deceased, and under the effect of the [[gentle-repose-xphb|gentle repose]] spell. Nothing of value is on him.
 
-The closet contains shelves of fancy footwear and many fine garments, including a black ceremonial robe with a hood (similar to the ones worn by the cult fanatics in area N4t). On a high shelf rests a locked iron chest. Lady Wachter hides the key to the chest on a tiny hook in the fireplace, under the mantel. A character who takes a minute to search the fireplace finds the key with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Use of the key disables a poison needle trap hidden in the lock (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A creature that triggers the trap and fails the saving throw against the needle's poison falls [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] for 1 hour instead of being [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] for 1 hour.
+The closet contains shelves of fancy footwear and many fine garments, including a black ceremonial robe with a hood (similar to the ones worn by the cult fanatics in area N4t). On a high shelf rests a locked iron chest. Lady Wachter hides the key to the chest on a tiny hook in the fireplace, under the mantel. A character who takes a minute to search the fireplace finds the key with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. Use of the key disables a poison needle trap hidden in the lock (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A creature that triggers the trap and fails the saving throw against the needle's poison falls [[conditions#Unconscious|unconscious]] for 1 hour instead of being [[conditions#Poisoned|poisoned]] for 1 hour.
 
 The iron chest is lined with thin sheets of lead and contains the bones of Leo Dilisnya, an enemy of the Wachter family. Leo was one of the soldiers who betrayed and murdered Strahd on the day of Sergei and Tatyana's wedding. He escaped from Castle Ravenloft, only to be hunted down and killed by the vampire Strahd. The Wachters keep his bones under lock and key so that Leo can't be raised from the dead.
 
@@ -987,7 +987,7 @@ The double doors to this room are locked. Lady Wachter and her servants carry ke
 > This room is crawling with cats. Bookshelves hug the walls, but most of the shelves are bare. Other furnishings include a desk, a chair, a table, and a wine cabinet. The room has an irregular shape, and none of its angles seem quite right, as though the shifting of the house has set the whole place on edge.
 ^3bf
 
-Eight [[/03_Mechanics/CLI/bestiary/beast/cat-xmm|cats]] have the run of the library. These family pets have vicious dispositions, attacking anyone who tries to pick them up. Characters who have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 10 or higher notice that one cat has a small key hanging from its collar. The key opens the locked chest in area N4q.
+Eight [[cat-xmm|cats]] have the run of the library. These family pets have vicious dispositions, attacking anyone who tries to pick them up. Characters who have a passive Wisdom ([[skills#Perception|Perception]]) score of 10 or higher notice that one cat has a small key hanging from its collar. The key opens the locked chest in area N4q.
 
 There is a 25 percent chance that one of the maids is here, dusting the bookshelves.
 
@@ -1013,12 +1013,12 @@ The iron chest contains several items:
 - A silk bag containing 180 ep, each coin bearing Strahd's stern visage in profile  
 - A leather bag containing 110 gp  
 - A wooden pipe that has been passed down through many generations of Wachter patriarchs  
-- Five scrolls—notarized deeds for parcels of land given to the Wachter family by Count [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] nearly four centuries ago  
+- Five scrolls—notarized deeds for parcels of land given to the Wachter family by Count [[strahd-von-zarovich-cos|Strahd von Zarovich]] nearly four centuries ago  
 - A supple leather case containing an unbound manuscript titled *The Devil We Know*—a poetic manifesto written by [[/03_Mechanics/CLI/bestiary/npc/lady-fiona-wachter-cos|Lady Fiona Wachter]] attesting that the worship of devils can bring happiness, success, freedom, wealth, and longevity  
 - A blasphemous treatise bound in black leather titled *The Grimoire of the Four Quarters*, written by the infamous diabolist Devostas, who was drawn and quartered for his fell practices yet did not die (this is a forgery; the actual grimoire would drive a reader mad)  
 - A very old letter to Lady Lovina Wachter (an ancestor) from one Lord Vasili von Holtz, thanking Lovina for her hospitality, loyalty, and friendship over the years  
 
-Characters who have the [[/03_Mechanics/CLI/items/tome-of-strahd-cos|Tome of Strahd]] (see appendix C) realize that the handwriting in Lady Lovina's letter is identical to Strahd's handwriting, suggesting that Strahd and Lord Vasili are one and the same.
+Characters who have the [[tome-of-strahd-cos|Tome of Strahd]] (see appendix C) realize that the handwriting in Lady Lovina's letter is identical to Strahd's handwriting, suggesting that Strahd and Lord Vasili are one and the same.
 
 #### N4r. Cellar Entrance
 
@@ -1038,7 +1038,7 @@ The door is unlocked. On the other side of the door are stone steps leading to a
 > This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
 ^3c6
 
-Buried under the earthen floor are eight human [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|skeletons]]—the animated remains of dead Vallakians that were stolen from the church cemetery (area N1) and animated by Lady Wachter. They rise up and attack intruders who cross the floor. The skeletons don't attack anyone who utters the phrase "Let the dead remain at rest" before setting foot on the floor. Only Lady Wachter, her sons, her servants, and her loyal cult fanatics know the pass phrase.
+Buried under the earthen floor are eight human [[skeleton-xmm|skeletons]]—the animated remains of dead Vallakians that were stolen from the church cemetery (area N1) and animated by Lady Wachter. They rise up and attack intruders who cross the floor. The skeletons don't attack anyone who utters the phrase "Let the dead remain at rest" before setting foot on the floor. Only Lady Wachter, her sons, her servants, and her loyal cult fanatics know the pass phrase.
 
 The cots are here for cultists to spend the night.
 
@@ -1051,7 +1051,7 @@ The footprints in the dirt give away the location of a secret door in the center
 > Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Seated in four of the five chairs are men and women in black robes with hoods: a young man who has the face of an angel; a balding hulk of a man; a squat, middle-aged woman; and a taller, younger woman with an unsettling glare. They rise to confront you.
 ^3c8
 
-The four people are town residents (LE male and female human [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]]) whom Lady Wachter has seduced with promises of power, wealth, and long life. They are members of her "book club," eagerly waiting for Lady Wachter to join them, read passages from her manifesto (see area N4q), and maybe conjure up a few coins. Resting on the fifth chair, quietly eavesdropping on the cultists, is the lady's [[/03_Mechanics/CLI/conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/fiend/imp-xmm|imp]], [[/03_Mechanics/CLI/bestiary/npc/majesto-cos|Majesto]].
+The four people are town residents (LE male and female human [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]]) whom Lady Wachter has seduced with promises of power, wealth, and long life. They are members of her "book club," eagerly waiting for Lady Wachter to join them, read passages from her manifesto (see area N4q), and maybe conjure up a few coins. Resting on the fifth chair, quietly eavesdropping on the cultists, is the lady's [[conditions#Invisible|invisible]] [[imp-xmm|imp]], [[/03_Mechanics/CLI/bestiary/npc/majesto-cos|Majesto]].
 
 The cultists are gathered here in secret and attack the characters to protect their identities. They are evil Vallakians of no great importance who are tired of living in fear and poverty. Use the "Barovian Names" sidebar in chapter 2 to generate names for them, if needed.
 
@@ -1081,9 +1081,9 @@ The colorful half-elf bard [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavi
 
 [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
-Inside the wagon is a [[/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm|saber-toothed tiger]] with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
+Inside the wagon is a [[saber-toothed-tiger-xmm|saber-toothed tiger]] with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
 
-The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: "Is No Fun, Is No Blinsky!"
+The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence ([[skills#Investigation|Investigation]]) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: "Is No Fun, Is No Blinsky!"
 
 [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
 
@@ -1093,16 +1093,16 @@ If the tiger is released, it begins stalking through the streets until its keen 
 
 #### Treasure
 
-The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to find and open. The compartment holds several items:
+The front seat of the wagon conceals a secret compartment that requires a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check to find and open. The compartment holds several items:
 
 - An unlocked wooden coffer containing 50 ep bearing Strahd's profile and six gemstones (worth 100 gp each)  
 - A small prayer book (worth 50 gp) with a green leather cover and indecipherable notes in the margins  
-- A [[/03_Mechanics/CLI/items/healers-kit-xphb|healer's kit]]  
-- Three wooden [[/03_Mechanics/CLI/items/holy-symbol-xphb|holy symbols]] inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
-- A silvered [[/03_Mechanics/CLI/items/shortsword-xphb|shortsword]]  
-- A [[/03_Mechanics/CLI/items/hand-crossbow-xphb|hand crossbow]] inlaid with mother-of-pearl (worth 250 gp)  
-- A bundle of twenty silvered [[/03_Mechanics/CLI/items/bolts-20-xphb|crossbow bolts]]  
-- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[/03_Mechanics/CLI/items/holy-water-xphb|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|spell scroll of protection from fiends]] and a [[/03_Mechanics/CLI/items/scroll-of-protection-xdmg|spell scroll of protection from undead]].  
+- A [[healers-kit-xphb|healer's kit]]  
+- Three wooden [[holy-symbol-xphb|holy symbols]] inlaid with silver and in the shape of a sunburst (worth 50 gp each)  
+- A silvered [[shortsword-xphb|shortsword]]  
+- A [[hand-crossbow-xphb|hand crossbow]] inlaid with mother-of-pearl (worth 250 gp)  
+- A bundle of twenty silvered [[bolts-20-xphb|crossbow bolts]]  
+- A worn leather case with gold buckles (worth 100 gp) containing three sharpened wooden stakes, a sack of garlic, a jar of salt, a box of holy wafers, six [[holy-water-xphb|vials of holy water]], a polished steel mirror, and a bone scroll tube with a silver stopper and chain (worth 25 gp). The tube contains a [[scroll-of-protection-xdmg|spell scroll of protection from fiends]] and a [[scroll-of-protection-xdmg|spell scroll of protection from undead]].  
 
 #### Fortunes of Ravenloft
 
@@ -1178,7 +1178,7 @@ Henrik sleeps here, at night and well into the morning. The bookshelf contains a
 
 ##### Treasure
 
-The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]].
+The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check to find. Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of [[strahd-von-zarovich-cos|Strahd von Zarovich]].
 
 #### N6f. Vampire Nest
 
@@ -1187,7 +1187,7 @@ The wardrobe in the southeast corner has a secret compartment in its base, requi
 > This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked "JUNK."
 ^3dd
 
-The two southernmost crates contain old junk that Henrik has accumulated over the years. The six crates in the northern part of the room are packed with earth and serve as resting places for the six [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] that lair here. If the characters open one of the occupied crates, all of the vampire spawn burst forth and attack.
+The two southernmost crates contain old junk that Henrik has accumulated over the years. The six crates in the northern part of the room are packed with earth and serve as resting places for the six [[vampire-spawn-xmm|vampire spawn]] that lair here. If the characters open one of the occupied crates, all of the vampire spawn burst forth and attack.
 
 ##### Teleport Destination
 
@@ -1204,7 +1204,7 @@ Vallaki's toymaker, [[/03_Mechanics/CLI/bestiary/npc/gadof-blinsky-cos|Gadof Bli
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/065-cos05-15.webp#center|Gadof Blinsky and Piccolo]]
 
-Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] gave Blinsky his pet monkey, [[/03_Mechanics/CLI/bestiary/npc/piccolo-cos|Piccolo]] (use the [[/03_Mechanics/CLI/bestiary/beast/baboon-xmm|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[/03_Mechanics/CLI/bestiary/npc/piccolo-cos|Piccolo]] with a custom-tailored ballerina tutu.
+Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] gave Blinsky his pet monkey, [[/03_Mechanics/CLI/bestiary/npc/piccolo-cos|Piccolo]] (use the [[baboon-xmm|baboon]] stat block in the "Monster Manual"). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[/03_Mechanics/CLI/bestiary/npc/piccolo-cos|Piccolo]] with a custom-tailored ballerina tutu.
 
 When he meets new customers, Blinsky recites a well-rehearsed greeting: "Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
 
@@ -1217,7 +1217,7 @@ Blinsky believes the burgomaster is right—that the only way to escape from Bar
 - A set of wooden nesting dolls; the smaller each one gets, the older it gets, until the innermost doll is a mummified corpse (price 9 cp)  
 - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp)  
 - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp)  
-- A ventriloquist's dummy that looks like [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] (price 9 sp)  
+- A ventriloquist's dummy that looks like [[strahd-von-zarovich-cos|Strahd von Zarovich]] (price 9 sp)  
 - A doll that looks remarkably like [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]] (not for sale; see below)  
 
 ##### Ireena Kolyana Dolls
@@ -1311,7 +1311,7 @@ These Vistani have two problems. First, [[/03_Mechanics/CLI/bestiary/npc/luvash-
 
 ##### Dusk Elves
 
-The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to [[/03_Mechanics/CLI/races/elf-xphb|wood elves]] (as described in the "Player's Handbook"). One of Strahd's old brides, [[/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos|Patrina Velikovna]], used to live here. Her brother, [[/03_Mechanics/CLI/bestiary/npc/kasimir-velikov-cos|Kasimir Velikov]], still does.
+The dusk elf race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to [[elf-xphb|wood elves]] (as described in the "Player's Handbook"). One of Strahd's old brides, [[/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos|Patrina Velikovna]], used to live here. Her brother, [[/03_Mechanics/CLI/bestiary/npc/kasimir-velikov-cos|Kasimir Velikov]], still does.
 
 The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]]. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren't safe in Barovia without the Vistani's "protection." Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
 
@@ -1340,7 +1340,7 @@ If the characters seem intent on destroying Strahd, Kasimir tells them about the
 
 ##### Treasure
 
-Kasimir wears a [[/03_Mechanics/CLI/items/ring-of-warmth-xdmg|ring of warmth]] and has a leather-bound spellbook containing all the spells he has prepared (see appendix D) plus the following spells: [[/03_Mechanics/CLI/spells/arcane-lock-xphb|arcane lock]], [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]], [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]], [[/03_Mechanics/CLI/spells/identify-xphb|identify]], [[/03_Mechanics/CLI/spells/locate-object-xphb|locate object]], [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]], [[/03_Mechanics/CLI/spells/polymorph-xphb|polymorph]], [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb|protection from evil and good]], and [[/03_Mechanics/CLI/spells/wall-of-stone-xphb|wall of stone]].
+Kasimir wears a [[ring-of-warmth-xdmg|ring of warmth]] and has a leather-bound spellbook containing all the spells he has prepared (see appendix D) plus the following spells: [[arcane-lock-xphb|arcane lock]], [[comprehend-languages-xphb|comprehend languages]], [[hold-person-xphb|hold person]], [[identify-xphb|identify]], [[locate-object-xphb|locate object]], [[nondetection-xphb|nondetection]], [[polymorph-xphb|polymorph]], [[protection-from-evil-and-good-xphb|protection from evil and good]], and [[wall-of-stone-xphb|wall of stone]].
 
 #### Fortunes of Ravenloft
 
@@ -1370,7 +1370,7 @@ The two men in studded leather armor are the leaders of the Vistani camp—the b
 
 [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]] is punishing a Vistana named Alexei (CN male human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos|bandit]] with 3 hit points remaining) for failing to keep a watchful eye on his daughter. The characters' arrival distracts [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]], and he forgets about Alexei long enough to play the role of host—until such time as the characters become tiresome or threatening. Alexei blames himself for not watching the little brat more closely and has accepted his punishment. If the characters try to rescue him, he screams at them to stop, not wanting to appear weak in front of [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]] and [[/03_Mechanics/CLI/bestiary/npc/arrigal-cos|Arrigal]].
 
-In addition to [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]], [[/03_Mechanics/CLI/bestiary/npc/arrigal-cos|Arrigal]], and Alexei, there are six intoxicated Vistani (CN male and female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos|bandits]]) lying [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
+In addition to [[/03_Mechanics/CLI/bestiary/npc/luvash-cos|Luvash]], [[/03_Mechanics/CLI/bestiary/npc/arrigal-cos|Arrigal]], and Alexei, there are six intoxicated Vistani (CN male and female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos|bandits]]) lying [[conditions#Unconscious|unconscious]] in the tent. A drunk Vistana awakens only if the Vistana takes 5 damage or more and has at least 1 hit point remaining afterward.
 
 ##### Dealing with Luvash
 
@@ -1395,7 +1395,7 @@ If the characters ask something of the Vistani but have not earned [[/03_Mechani
 > The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
 ^3f8
 
-Twenty-four [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horses]] and six [[/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm|riding horses]] are tethered here.
+Twenty-four [[draft-horse-xmm|draft horses]] and six [[riding-horse-xmm|riding horses]] are tethered here.
 
 #### N9e. Luvash's Wagon
 
@@ -1460,7 +1460,7 @@ The wagon contains the following items:
 
 - A wooden chest containing 1,200 ep (each coin stamped with the profiled visage of Strahd)  
 - An iron chest containing 650 gp  
-- An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a [[/03_Mechanics/CLI/items/potion-of-poison-xdmg|potion of poison]] in an unlabeled crystal vial (worth 100 gp)  
+- An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a [[potion-of-poison-xdmg|potion of poison]] in an unlabeled crystal vial (worth 100 gp)  
 - A wooden throne with gold inlay and decorative stones (worth 750 gp)  
 - A rolled-up 10-foot-square rug with an exquisite unicorn motif (worth 750 gp)  
 - A small wooden box containing twelve fake potions in stoppered gourds (the Vistani sell these nonmagical elixirs to naive strangers, claiming that they protect against the deadly fog surrounding Barovia)  
@@ -1508,7 +1508,7 @@ After the burgomaster learns that the tiger belongs to [[/03_Mechanics/CLI/besti
 
 ### Lady Wachter's Wish
 
-Ernst Larnak (see area N4) begins shadowing the characters. Characters who have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to Lady Wachter after he believes he's not being watched or pursued.
+Ernst Larnak (see area N4) begins shadowing the characters. Characters who have a passive Wisdom ([[skills#Perception|Perception]]) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to Lady Wachter after he believes he's not being watched or pursued.
 
 Lady Wachter is looking for powerful allies to help her oust the burgomaster. If Ernst tells her that he thinks the characters fit the bill, Lady Wachter has Ernst or her sons invite the characters to a private dinner at Wachterhaus. During the dinner, Lady Wachter determines whether the characters have the ability and the resolve to crush the baron.
 
@@ -1524,13 +1524,13 @@ Otherwise, a [[/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos|Vistana ba
 
 ### St. Andral's Feast
 
-The characters can prevent this special event from occurring by returning the bones of St. Andral to the church (area N1) or by destroying the vampire spawn hiding in the coffin maker's shop (area N6). If the characters stay in Vallaki for three days or more and don't retrieve the bones or destroy the vampire spawn, [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd]] visits the coffin maker's shop the following evening and orchestrates an attack on the church.
+The characters can prevent this special event from occurring by returning the bones of St. Andral to the church (area N1) or by destroying the vampire spawn hiding in the coffin maker's shop (area N6). If the characters stay in Vallaki for three days or more and don't retrieve the bones or destroy the vampire spawn, [[strahd-von-zarovich-cos|Strahd]] visits the coffin maker's shop the following evening and orchestrates an attack on the church.
 
-The vampire spawn begin the attack that night. They cling to the outer walls and roof of St. Andral's church while four [[/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm|swarms of bats]] enter the church through the belfry and terrify the congregation. As the townsfolk flee the church, the vampire spawn leap down and attack them.
+The vampire spawn begin the attack that night. They cling to the outer walls and roof of St. Andral's church while four [[swarm-of-bats-xmm|swarms of bats]] enter the church through the belfry and terrify the congregation. As the townsfolk flee the church, the vampire spawn leap down and attack them.
 
 During the chaos, Strahd enters the church in bat form, then reverts to vampire form and attacks Father Lucian. Unless the characters intervene, Strahd kills the priest before returning to Castle Ravenloft.
 
-If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] under Strahd's control. If [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
+If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a [[vampire-spawn-xmm|vampire spawn]] under Strahd's control. If [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
 
 #### Development
 

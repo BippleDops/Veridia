@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Vale|02 Worldbuilding/Groups/Shadow Vale]]
+- [[Shadow Vale|02 Worldbuilding/Groups/Shadow Vale]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
+- [[Shadow Vale]]
 
 ## Player-Facing Summary
 

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deepmind]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Deepmind]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
 
 ## Player-Facing Summary
 

@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- shadow-touched
 - active
 - both
 - lore
@@ -11,11 +14,8 @@ updated: '2025-08-13T01:18:35.000640+00:00'
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png)
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
 
 
 ## Overview
@@ -44,12 +44,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[Quest - Nature's Balance]]
-- [[Quest - The Pretender's Crown]]
-- [[The Crown's Burden]]
+- [[12_Research/D&D_References/Discover Marina's Truth]]
+- [[12_Research/D&D_References/Quest - Nature's Balance]]
+- [[12_Research/D&D_Statblocks/Quest - The Pretender's Crown]]
+- [[12_Research/D&D_Statblocks/The Crown's Burden]]

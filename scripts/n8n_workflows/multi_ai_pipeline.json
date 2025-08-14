@@ -1,0 +1,69 @@
+{
+  "name": "Multi-AI Asset Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "url": "https://api.replicate.com/v1/predictions",
+        "authentication": "genericCredentialType",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Token YOUR_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "version",
+              "value": "sdxl-latest"
+            },
+            {
+              "name": "input",
+              "value": "={{ { \"prompt\": $json.prompt } }}"
+            }
+          ]
+        }
+      },
+      "name": "Replicate SDXL",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        450,
+        500
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.deepai.org/api/text-generator",
+        "method": "POST",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "api-key",
+              "value": "YOUR_DEEPAI_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{$json.prompt}}"
+            }
+          ]
+        }
+      },
+      "name": "DeepAI Text",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        650,
+        500
+      ]
+    }
+  ]
+}

@@ -40,7 +40,7 @@ world: Both
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 
-If a creature takes a [[/03_Mechanics/CLI/actions#Study|Study]] action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+If a creature takes a [[actions#Study|Study]] action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[skills#Investigation|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
 ## Sound
 
@@ -48,11 +48,11 @@ If you create a sound, its volume can range from a whisper to a scream. It can b
 
 ## Image
 
-If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot [[cube-area-of-effect-xphb|Cube]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warrior-of-shadow-xphb "subclass=XPHB;class=XPHB"|Monk (Warrior of Shadow)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warrior-of-shadow-xphb "subclass=XPHB;class=XPHB"|Monk (Warrior of Shadow)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

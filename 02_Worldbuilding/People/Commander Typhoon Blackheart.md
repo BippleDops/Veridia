@@ -1,9 +1,9 @@
 ---
-affiliation: '[[02_Worldbuilding/People/The Depth Wardens]] (Military Force)'
+affiliation: '[[The Depth Wardens]] (Military Force)'
 age: '51'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Lore/The Fortress of the Deeps]] - Command Center'
+location: '[[The Fortress of the Deeps]] - Command Center'
 race: Human (Pressure-Adapted)
 role: Military Commander
 status: complete
@@ -22,17 +22,15 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg]]
 
 
 # Commander Typhoon Blackheart
 *Iron Fist of the Depths, Guardian of Order*
 
 ## Overview
-Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]], Aquabyssos's elite military force responsible for maintaining order in the deepest and most dangerous regions of the realm. A career soldier who's spent three decades defending civilization against deep-sea horrors, shadow creatures, and territorial disputes, she represents military professionalism in a world where political authority is fragmenting. Her primary concern is protecting citizens, regardless of the political chaos swirling around her.
+Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite military force responsible for maintaining order in the deepest and most dangerous regions of the realm. A career soldier who's spent three decades defending civilization against deep-sea horrors, shadow creatures, and territorial disputes, she represents military professionalism in a world where political authority is fragmenting. Her primary concern is protecting citizens, regardless of the political chaos swirling around her.
 
 ## Description
 - **Appearance**: Imposing woman with steel-gray hair and scars from deep-sea combat
@@ -62,7 +60,7 @@ Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]]
 - Maintains strict discipline and professional standards
 - Focuses on practical mission accomplishment over political considerations
 - Protects both military and civilian populations from deep-sea threats
-- Operates with semi-autonomous authority due to [[02_Worldbuilding/People/The Scattered Emperor]]'s fragmentation
+- Operates with semi-autonomous authority due to [[The Scattered Emperor]]'s fragmentation
 
 ### Tactical Specializations
 - **Deep Combat Doctrine**: Fighting at pressures that would crush normal humans
@@ -77,7 +75,7 @@ Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]]
 - Deep-sea creatures becoming more aggressive and organized
 - Political instability reducing government support for military
 - Ancient things stirring in deepest parts of ocean
-- Increased reports of [[02_Worldbuilding/Lore/The Deep Mother]] activity
+- Increased reports of [[The Deep Mother]] activity
 
 ### Military Challenges
 - Stretched thin across vast territory with inadequate resources
@@ -103,16 +101,16 @@ Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]]
 
 ## Relationships
 ### Political Relations
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Respectful cooperation with pragmatic politician
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Maintains loyalty to office despite his fragmentation
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Professional relationship with civilian authority
+- **[[Tribune Cassia Deepcurrent]]**: Respectful cooperation with pragmatic politician
+- **[[The Scattered Emperor]]**: Maintains loyalty to office despite his fragmentation
+- **[[Parliament of Echoes]]**: Professional relationship with civilian authority
 - **Regional Governors**: Coordinates with local officials on security matters
 - **Political Extremists**: Opposes any faction threatening civilian safety
 
 ### Military Network
-- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Shares intelligence about deep-ocean threats
-- **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Absolute loyalty from professional soldiers under her command
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Fellow military commander, mutual professional respect
+- **[[Captain Nautilus the Deep Wanderer]]**: Shares intelligence about deep-ocean threats
+- **[[The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Absolute loyalty from professional soldiers under her command
+- **[[Admiral Thorne Blackwater]]**: Fellow military commander, mutual professional respect
 - **Allied Military Forces**: Cooperation with other realm defense organizations
 - **Veterans**: Maintains connections with retired soldiers and their families
 
@@ -126,29 +124,29 @@ Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]]
 - **Medical Corps** - Military healers specializing in pressure-related injuries
 
 ### External Military Relations
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ultimate imperial authority they serve
-- **[[02_Worldbuilding/Groups/The Pearl Guard|02 Worldbuilding/Groups/The Pearl Guard]]** - Imperial elite forces, occasional cooperation
+- **[[Emperor Thalassius the Wise]]** - Ultimate imperial authority they serve
+- **[[The Pearl Guard|02 Worldbuilding/Groups/The Pearl Guard]]** - Imperial elite forces, occasional cooperation
 - **Regional Defense Forces** - Local militias and guard units throughout Aquabyssos
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Coordination on maritime security
+- **[[Harbor Master Luna Freedrift]]** - Coordination on maritime security
 
 ### Complex Relationships
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]** - Unknown infiltration threat requiring vigilance
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Potential ally against shadow threats
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Valuable intelligence source on shadow activities
+- **[[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]** - Unknown infiltration threat requiring vigilance
+- **[[Shadow Duchess Nyx]]** - Potential ally against shadow threats
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Valuable intelligence source on shadow activities
 - **Deep-Sea Researchers** - Scholars studying threats the military faces
 - **Intelligence Services**: Works with various information-gathering agencies
 
 ### Civilians & Others
 - **Deep-Sea Communities**: Protects isolated settlements from various threats
-- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Provides security for legitimate cross-realm commerce
-- **[[02_Worldbuilding/Places/Memory Farmers]]**: Regulates to prevent exploitation while allowing legitimate trade
+- **[[The Liminal Trading Company]]**: Provides security for legitimate cross-realm commerce
+- **[[Memory Farmers]]**: Regulates to prevent exploitation while allowing legitimate trade
 - **Religious Leaders**: Respects various faiths while maintaining secular military authority
 - **Citizens**: Views protection of civilian population as primary duty
 
 ### Merchant & Economic Networks
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Supports ethical business practices and personal rights protection
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Coordinates maritime security and trade route protection
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Provides security services in exchange for intelligence on threats
+- **[[Memory Merchant Valeria Siltweave]]**: Supports ethical business practices and personal rights protection
+- **[[Harbor Master Luna Freedrift]]**: Coordinates maritime security and trade route protection
+- **[[Merchant Princes]]**: Provides security services in exchange for intelligence on threats
 - **Deep-Sea Trading Routes**: Military escorts for vulnerable commercial vessels
 - **Resource Suppliers**: Contracts with businesses providing military equipment and supplies
 
@@ -168,7 +166,7 @@ Commander Typhoon Blackheart leads [[02_Worldbuilding/People/The Depth Wardens]]
 - **Emergency Response Teams**: Rapid deployment forces for immediate crises
 
 ### Strategic Resources
-- **[[02_Worldbuilding/Lore/The Fortress of the Deeps]]**: Primary military base in deep-ocean region
+- **[[The Fortress of the Deeps]]**: Primary military base in deep-ocean region
 - **Forward Observation Posts**: Early warning systems for deep-sea threats
 - **Emergency Supply Caches**: Pre-positioned resources for extended operations
 - **Communication Network**: Military channels independent of civilian infrastructure
@@ -240,20 +238,20 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[02_Worldbuilding/Places/Commander Typhoon Blackheart]]
+- [[Commander Typhoon Blackheart]]
+- [[Commander Typhoon Blackheart]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[The Liminal Trading Company]]
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]
+- [[Captain Garrett Stormcutter]]
+- [[Emperor Thalassius the Wise]]
+- [[Tenebrarum Ambassadors]]
+- [[The Depth Wardens]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Memory Farmers]]

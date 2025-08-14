@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-summer-eladrin-mpmm-summer-eladrin-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/summer-eladrin-mpmm|Summer Eladrin]]
+# [[summer-eladrin-mpmm|Summer Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
@@ -50,7 +50,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [[conditions#Incapacitated|incapacitated]]. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Summer Eladrin (MPMM)"
@@ -72,9 +72,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+8"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 11"
@@ -83,7 +83,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]] of the eladrin for\
+      \ [[conditions#Frightened|frightened]] of the eladrin for\
       \ 1 minute. A creature can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success. If a creature's saving throw\
       \ is successful or the effect ends for it, the creature is immune to any eladrin's\

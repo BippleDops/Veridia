@@ -11,21 +11,19 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Customs House|02 Worldbuilding/Lore/Customs House]]
+- [[Customs House|02 Worldbuilding/Lore/Customs House]]
 
 
 ## Connections
 
-- [[Customs House]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Queen]]
-- [[The Seven Shards]]
-- [[02_Worldbuilding/Lore/Throne Room]]
+- [[12_Research/D&D_References/Customs House]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/Throne Room]]
 
 ## Player-Facing Summary
 
@@ -46,3 +44,7 @@ Legends speak of Possessed Noble Coterie as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

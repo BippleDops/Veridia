@@ -26,51 +26,51 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
-| 02 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|jackalweres]] |
-| 03 | `2d6` [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] |
-| 04 | `1d4 + 3` [[/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm|dust mephits]] |
-| 05 | `d6` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects]] |
-| 06 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|giant constrictor snake]] |
-| 07-08 | 1 [[/03_Mechanics/CLI/bestiary/beast/lion-xmm|lion]] |
-| 09-10 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] |
-| 11-12 | `2d6` [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|giant toads]] |
-| 13-17 | 1 [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|mummy]] |
-| 18-20 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm|giant vultures]] |
+| 02 | `2d4` [[jackalwere-xmm|jackalweres]] |
+| 03 | `2d6` [[hobgoblin-warrior-xmm|hobgoblins]] |
+| 04 | `1d4 + 3` [[dust-mephit-xmm|dust mephits]] |
+| 05 | `d6` [[swarm-of-insects-xmm|swarm of insects]] |
+| 06 | 1 [[giant-constrictor-snake-xmm|giant constrictor snake]] |
+| 07-08 | 1 [[lion-xmm|lion]] |
+| 09-10 | `2d4` [[gnoll-warrior-xmm|gnolls]] |
+| 11-12 | `2d6` [[giant-toad-xmm|giant toads]] |
+| 13-17 | 1 [[mummy-xmm|mummy]] |
+| 18-20 | `1d8 + 1` [[giant-vulture-xmm|giant vultures]] |
 | 21-25 | A stone obelisk partly buried in the sand |
-| 26-28 | 1 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] with `d3` [[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm|half-ogres]] |
-| 29-35 | `d10` [[/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm|giant hyenas]] |
+| 26-28 | 1 [[ogre-xmm|ogre]] with `d3` [[ogrillon-ogre-xmm|half-ogres]] |
+| 29-35 | `d10` [[giant-hyena-xmm|giant hyenas]] |
 | 36-40 | `1d6 + 1` empty tents |
-| 41-43 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm|thri-kreen]] |
+| 41-43 | `1d6 + 2` [[thri-kreen-marauder-xmm|thri-kreen]] |
 | 44-46 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
-| 47-50 | `1d6 + 3` [[/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm|death dogs]] |
-| 51-52 | `d4` [[/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm|giant scorpions]] |
-| 53 | 1 [[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm|fire elemental]] |
-| 54-55 | 1 [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captain]] with `3d4` [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] |
-| 56 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
-| 57-58 | `d4` [[/03_Mechanics/CLI/bestiary/fiend/lamia-xmm|lamias]] |
-| 59-60 | 1 [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air elemental]] |
+| 47-50 | `1d6 + 3` [[death-dog-xmm|death dogs]] |
+| 51-52 | `d4` [[giant-scorpion-xmm|giant scorpions]] |
+| 53 | 1 [[fire-elemental-xmm|fire elemental]] |
+| 54-55 | 1 [[hobgoblin-captain-xmm|hobgoblin captain]] with `3d4` [[hobgoblin-warrior-xmm|hobgoblins]] |
+| 56 | `1d6 + 2` [[ogre-xmm|ogres]] |
+| 57-58 | `d4` [[lamia-xmm|lamias]] |
+| 59-60 | 1 [[air-elemental-xmm|air elemental]] |
 | 61-65 | A meteorite resting at the bottom of a glassy crater |
-| 66 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
-| 67-68 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm|young brass dragon]] |
+| 66 | `1d4 + 1` [[wight-xmm|wights]] |
+| 67-68 | 1 [[young-brass-dragon-xmm|young brass dragon]] |
 | 69-70 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] with `d3` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]] and `3d6` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
-| 71-72 | 1 [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclops]] |
-| 73 | `d4` [[/03_Mechanics/CLI/bestiary/celestial/couatl-xmm|couatls]] |
+| 71-72 | 1 [[cyclops-sentry-xmm|cyclops]] |
+| 73 | `d4` [[couatl-xmm|couatls]] |
 | 74-75 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
 | 76-80 | Strong winds that kick up dust and reduce visibility to `d6` feet for `d4` hours |
-| 81-83 | 1 [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] with `d3` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
-| 84-85 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm|phase spiders]] |
-| 86-87 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm|weretigers]] |
-| 88-90 | `2d4` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
-| 91 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm|young blue dragon]] |
-| 92 | `d4` [[/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm|cyclopes]] |
+| 81-83 | 1 [[revenant-xmm|revenant]] with `d3` [[wight-xmm|wights]] |
+| 84-85 | `1d8 + 1` [[phase-spider-xmm|phase spiders]] |
+| 86-87 | `1d6 + 2` [[weretiger-xmm|weretigers]] |
+| 88-90 | `2d4` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
+| 91 | 1 [[young-blue-dragon-xmm|young blue dragon]] |
+| 92 | `d4` [[cyclops-sentry-xmm|cyclopes]] |
 | 93 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
-| 94 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|medusas]] |
-| 95 | 1 [[/03_Mechanics/CLI/bestiary/celestial/guardian-naga-xmm|guardian naga]] |
-| 96 | `d3` [[/03_Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm|young brass dragons]] |
-| 97 | 1 [[/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm|efreeti]] |
-| 98 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|roc]] |
-| 99 | 1 [[/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm|gynosphinx]] |
-| 00 | 1 [[/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm|adult brass dragon]] |
+| 94 | `d4` [[medusa-xmm|medusas]] |
+| 95 | 1 [[guardian-naga-xmm|guardian naga]] |
+| 96 | `d3` [[young-brass-dragon-xmm|young brass dragons]] |
+| 97 | 1 [[efreeti-xmm|efreeti]] |
+| 98 | 1 [[roc-xmm|roc]] |
+| 99 | 1 [[sphinx-of-lore-xmm|gynosphinx]] |
+| 00 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
 ^desert-encounters-levels-510
 
 ## Player-Facing Summary

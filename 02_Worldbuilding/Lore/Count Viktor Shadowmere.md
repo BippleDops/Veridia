@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aethermoor
 - complete
 - content/location
@@ -13,9 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.698832+00:00'
 world: Aethermoor
 ---
-
-
-
 
 
 ## Overview
@@ -41,3 +39,7 @@ Legends speak of Count Viktor Shadowmere as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

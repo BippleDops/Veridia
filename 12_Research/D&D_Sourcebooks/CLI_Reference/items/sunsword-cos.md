@@ -20,20 +20,20 @@ world: Both
 ---
 
 # Sunsword
-*Weapon ([[/03_Mechanics/CLI/items/longsword-xphb|longsword]]), legendary (requires attunement)*  
+*Weapon ([[longsword-xphb|longsword]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sunsword.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant
   - Two-handed: 1d10 radiant
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Zarovich. In its original form, it had a platinum hilt and guard, and a thin crystal blade as strong as steel.
 
 Strahd employed a powerful wizard named Khazan to destroy the weapon after Sergei's death. The first part of the process required the hilt and the blade to be separated, which Khazan accomplished. While Khazan was busying himself destroying the blade, his apprentice stole the hilt and fled. Khazan later located his apprentice's mutilated corpse in the Svalich Woods, but the hilt was nowhere to be found. To avoid the vampire's wrath, Khazan told Strahd that the entire weapon had been destroyed.
 
-The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [[/03_Mechanics/CLI/items/sun-blade-xdmg|sun blade]]:
+The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [[sun-blade-xdmg|sun blade]]:
 
 - While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the Sunsword.  
 - You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `d8` radiant damage.  

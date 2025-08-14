@@ -19,7 +19,7 @@ world: Both
 # Spell
 *Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A spell is a [[/03_Mechanics/CLI/variant-rules/magical-effect-xphb|magical effect]] that has the characteristics described in "chapter 7".
+A spell is a [[magical-effect-xphb|magical effect]] that has the characteristics described in "chapter 7".
 
 ## Player-Facing Summary
 

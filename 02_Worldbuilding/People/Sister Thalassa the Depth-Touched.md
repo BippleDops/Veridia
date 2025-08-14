@@ -14,33 +14,30 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-sister-thalassa-the-depth-touched-sister-thalassa-the-depth-touched.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sister-thalassa-the-depth-touched-sister-thalassa-the-depth-touched.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[Quest - The Convergence Crisis]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[The Shadow-Crystal Synthesis]]
+- [[Crown of Tidal Sovereignty]]
+- [[Discover Marina's Truth]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Harvester Kythara]]
 - [[Pressure Angel Benthia]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Places/Shadow Wells]]
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[The Depth Wardens]]
+- [[The Shadow Singer Naia]]
+- [[Shadow Wells]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Convergence Crisis]]
 
 ## Player-Facing Summary
 

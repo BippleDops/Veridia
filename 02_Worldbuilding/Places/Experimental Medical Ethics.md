@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-experimental-medical-ethics-experimental-medical-ethics.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-experimental-medical-ethics-experimental-medical-ethics.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Experimental Medical Ethics]]
+- [[12_Research/D&D_References/Experimental Medical Ethics]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[12_Research/D&D_References/Doctor Coral Shapeshift]]

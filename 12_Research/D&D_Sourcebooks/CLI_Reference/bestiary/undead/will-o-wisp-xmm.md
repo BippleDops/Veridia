@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/will-o-wisp-xmm|Will-o'-Wisp]]
+# [[will-o-wisp-xmm|Will-o'-Wisp]]
 *Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Will-o'-Wisp
@@ -74,23 +74,23 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
   - "desc": "The wisp can't wear or carry anything."
     "name": "Ephemeral"
-  - "desc": "The wisp sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 20-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The wisp sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 20-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 20 feet."
     "name": "Illumination"
   - "desc": "The wisp can move through other creatures and objects as if they were\
-      \ [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]].\
+      \ [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -98,11 +98,11 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
     "name": "Shock"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: DC 10, one living creature the wisp can\
-      \ see within 5 feet that has 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
-      \ Failure: The target dies, and the wisp regains 10 (3d6) [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
+      \ see within 5 feet that has 0 [[hit-points-xphb|Hit Points]].\
+      \ Failure: The target dies, and the wisp regains 10 (3d6) [[hit-points-xphb|Hit Points]]."
     "name": "Consume Life"
-  - "desc": "The wisp and its light have the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]]\
-      \ condition until the wisp's [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]\
+  - "desc": "The wisp and its light have the [[conditions#Invisible|Invisible]]\
+      \ condition until the wisp's [[conditions#Concentration|Concentration]]\
       \ ends on this effect, which ends early immediately after the wisp makes an\
       \ attack roll or uses Consume Life."
     "name": "Vanish"

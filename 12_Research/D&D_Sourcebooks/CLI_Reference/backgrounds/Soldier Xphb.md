@@ -25,10 +25,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/soldier.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
-- **Feat.** [[/03_Mechanics/CLI/feats/savage-attacker-xphb|Savage Attacker]]  
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Athletics|Athletics]], [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]  
-- **Tool Proficiency.** Choose one kind of [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]]  
-- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/spear-xphb|Spear]], [[/03_Mechanics/CLI/items/shortbow-xphb|Shortbow]], [[/03_Mechanics/CLI/items/arrow-xphb|20 Arrows]], [[/03_Mechanics/CLI/items/gaming-set-xphb|Gaming Set]] (same as above), [[/03_Mechanics/CLI/items/healers-kit-xphb|Healer's Kit]], [[/03_Mechanics/CLI/items/quiver-xphb|Quiver]], [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]], 14 GP; or (B) 50 GP  
+- **Feat.** [[savage-attacker-xphb|Savage Attacker]]  
+- **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Intimidation|Intimidation]]  
+- **Tool Proficiency.** Choose one kind of [[gaming-set-xphb|Gaming Set]]  
+- **Equipment.** Choose A or B: (A) [[spear-xphb|Spear]], [[shortbow-xphb|Shortbow]], [[arrow-xphb|20 Arrows]], [[gaming-set-xphb|Gaming Set]] (same as above), [[healers-kit-xphb|Healer's Kit]], [[quiver-xphb|Quiver]], [[travelers-clothes-xphb|Traveler's Clothes]], 14 GP; or (B) 50 GP  
 
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 

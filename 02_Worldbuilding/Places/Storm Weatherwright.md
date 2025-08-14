@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[12_Research/D&D_References/Barkeep Mira Algaebrew]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[12_Research/D&D_References/Barkeep Mira Algaebrew]]
 
 ## Player-Facing Summary
 

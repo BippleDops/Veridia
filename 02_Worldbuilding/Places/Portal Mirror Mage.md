@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-portal-mirror-mage-portal-mirror-mage.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-portal-mirror-mage-portal-mirror-mage.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Portal Mirror Mage]]
+- [[Portal Mirror Mage]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors]]

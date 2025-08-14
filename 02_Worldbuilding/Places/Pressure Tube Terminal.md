@@ -15,27 +15,21 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-tube-terminal-pressure-tube-terminal.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-tube-terminal-pressure-tube-terminal.svg]]
 
 
 # Pressure Tube Terminal
 *Gateway to the Underwater Realm*
 
 > *"All currents converge here, all journeys begin and end in these halls of crystal and flowing water. This terminal is not merely a station - it is the beating heart that pumps life and commerce through the arteries of our kingdom."*
-> — [[02_Worldbuilding/Places/Terminal Director Admiral Current Swiftflow]], Master of the Central Hub
+> — [[Terminal Director Admiral Current Swiftflow]], Master of the Central Hub
 
 ## Overview
 
-The Pressure Tube Terminal serves as the central hub for [[02_Worldbuilding/Places/Aquabyssos]]'s revolutionary [[02_Worldbuilding/Places/Pressure Tubes]] transportation network, a magnificent facility where all major tube lines converge to create the kingdom's primary travel and commerce center. This massive complex handles thousands of travelers daily, coordinating the complex scheduling and logistics that keep the underwater realm connected and functioning.
+The Pressure Tube Terminal serves as the central hub for [[Aquabyssos]]'s revolutionary [[Pressure Tubes]] transportation network, a magnificent facility where all major tube lines converge to create the kingdom's primary travel and commerce center. This massive complex handles thousands of travelers daily, coordinating the complex scheduling and logistics that keep the underwater realm connected and functioning.
 
-Built within a naturally occurring underwater valley that provides optimal pressure conditions for tube operations, the terminal combines architectural grandeur with cutting-edge transportation technology. The facility serves not only as a transit point but as a commercial center, diplomatic meeting place, and showcase of [[02_Worldbuilding/Places/Aquabyssos]] engineering prowess.
+Built within a naturally occurring underwater valley that provides optimal pressure conditions for tube operations, the terminal combines architectural grandeur with cutting-edge transportation technology. The facility serves not only as a transit point but as a commercial center, diplomatic meeting place, and showcase of [[Aquabyssos]] engineering prowess.
 
 ## Atmospheric Description
 
@@ -48,7 +42,7 @@ Elegant waiting areas designed for different classes of travel, from basic trans
 ## Notable Features and Landmarks
 
 ### The Central Command Center
-The nerve center of tube operations, where traffic controllers coordinate movements throughout the entire kingdom-wide network. This facility houses the most advanced pressure monitoring equipment and maintains real-time communication with every tube station in [[02_Worldbuilding/Places/Aquabyssos]].
+The nerve center of tube operations, where traffic controllers coordinate movements throughout the entire kingdom-wide network. This facility houses the most advanced pressure monitoring equipment and maintains real-time communication with every tube station in [[Aquabyssos]].
 
 ### The Merchant Exchange
 A bustling commercial area where traders conduct business while waiting for connections, creating an economic hub that rivals the kingdom's traditional markets. The exchange includes secure storage facilities, financial services, and meeting rooms for conducting inter-city commerce.
@@ -92,7 +86,7 @@ Advanced technical facilities where tube maintenance crews service the transport
 ## Plot Hooks and Adventures
 
 ### The Terminal Siege Crisis
-Hostile forces attempt to seize control of the terminal to cripple [[02_Worldbuilding/Places/Aquabyssos]] transportation and communication capabilities, requiring coordinated defense efforts while maintaining civilian evacuations.
+Hostile forces attempt to seize control of the terminal to cripple [[Aquabyssos]] transportation and communication capabilities, requiring coordinated defense efforts while maintaining civilian evacuations.
 
 ### The Scheduling Sabotage Mystery
 Someone is systematically disrupting tube schedules in ways that seem designed to strand specific individuals or prevent certain meetings, suggesting a conspiracy with political implications.
@@ -104,7 +98,7 @@ Unprecedented numbers of travelers converge on the terminal due to crisis condit
 A foreign dignitary disappears while using terminal facilities, creating international tensions and requiring careful investigation to determine whether this was accident, crime, or political conspiracy.
 
 ### The Technical Innovation Theft
-Advanced terminal technology is stolen by parties unknown, threatening not only transportation security but potentially providing enemies with access to [[02_Worldbuilding/Places/Aquabyssos]] engineering secrets.
+Advanced terminal technology is stolen by parties unknown, threatening not only transportation security but potentially providing enemies with access to [[Aquabyssos]] engineering secrets.
 
 ## Secrets and Lore
 
@@ -189,11 +183,11 @@ Authorization to review transportation system technical specifications.
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Citizens of Meridian]]
-- [[02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
-- [[02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Citizens of Meridian]]
+- [[Pressure Tube Operator Krill]]
+- [[Merchant Prince Akula]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -215,7 +209,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
+- [[Pressure Tube Terminal]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[Pressure Tubes]]

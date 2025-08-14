@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-deep-mother-s-truth-quest-the-deep-mother-s-truth.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[Elder Whisper-In-The-Dark]]
 
 ## Player-Facing Summary
 

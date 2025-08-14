@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-last-words-the-last-words.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-last-words-the-last-words.svg]]
 
 
 # The Last Words
@@ -168,7 +165,7 @@ This quest emphasizes puzzle-solving, coalition building, and time management ov
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -180,6 +177,6 @@ Legends speak of The Last Words as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Words]]
+- [[The Last Words]]
 
 <!-- enriched: true -->

@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-artisan-felix-reefwright-artisan-felix-reefwright.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-artisan-felix-reefwright-artisan-felix-reefwright.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Duke Cyrus Reefheart]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 

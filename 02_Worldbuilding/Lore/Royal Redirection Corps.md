@@ -14,10 +14,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,9 +40,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[12_Research/D&D_References/Ritual Redirection Options]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[12_Research/D&D_References/Ritual Redirection Options]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

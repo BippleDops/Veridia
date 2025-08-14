@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Priest Faith Crystalsong]]
+- [[Priest Faith Crystalsong]]
 
 <!-- enriched: true -->

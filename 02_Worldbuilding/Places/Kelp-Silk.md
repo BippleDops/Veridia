@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-kelp-silk-kelp-silk.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-kelp-silk-kelp-silk.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Kelp-Silk]]
+- [[12_Research/D&D_References/Kelp-Silk]]
 
 <!-- enriched: true -->

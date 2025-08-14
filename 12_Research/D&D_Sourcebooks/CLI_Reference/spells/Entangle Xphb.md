@@ -35,11 +35,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]. They disappear when the spell ends.
+Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into [[difficult-terrain-xphb|Difficult Terrain]]. They disappear when the spell ends.
 
-Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition until the spell ends. A [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] creature can take an action to make a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] by them.
+Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [[conditions#Restrained|Restrained]] condition until the spell ends. A [[conditions#Restrained|Restrained]] creature can take an action to make a Strength ([[skills#Athletics|Athletics]]) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [[conditions#Restrained|Restrained]] by them.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

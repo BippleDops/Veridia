@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-xmm-shadow-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/shadow-xmm|Shadow]]
+# [[shadow-xmm|Shadow]]
 *Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shadow
@@ -79,16 +79,16 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
@@ -96,8 +96,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
-      \ on [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]]."
+  - "desc": "While in sunlight, the shadow has [[disadvantage-xphb|Disadvantage]]\
+      \ on [[d20-test-xphb|D20 Tests]]."
     "name": "Sunlight Weakness"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage,\
@@ -106,8 +106,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
       \ the corpse d4 hours later."
     "name": "Draining Swipe"
 "bonus_actions":
-  - "desc": "While in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
-      \ or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], the shadow\
+  - "desc": "While in [[dim-light-xphb|Dim Light]]\
+      \ or [[darkness-xphb|Darkness]], the shadow\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

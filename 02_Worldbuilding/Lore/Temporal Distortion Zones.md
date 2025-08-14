@@ -9,6 +9,8 @@ operational_status: Active Research
 significance: Critical Hazard & Research Infrastructure
 status: complete
 tags:
+- combat
+- aquatic
 - advanced-physics
 - aquabyssos
 - chronoengineering
@@ -31,14 +33,12 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Temporal Distortion Zones
+
 *Where Time Bends to Purpose and Peril*
 
 > *"Within the Zones, yesterday becomes tomorrow, cause follows effect, and the impossible becomes inevitable. We have learned to harness the fundamental forces of time itself, but such power comes with a price that extends beyond mere mortality. Every moment we manipulate echoes through eternity, creating ripples that may one day return as tsunamis of temporal chaos."*
-> — [[02_Worldbuilding/Lore/Chief Temporal Engineer Paradox Timeweaver]], Director of Chronological Research
+> — [[12_Research/D&D_References/Chief Temporal Engineer Paradox Timeweaver]], Director of Chronological Research
 
 ## Overview
 
@@ -48,7 +48,7 @@ Located in the most geologically stable and magically isolated areas of the unde
 
 The Zones operate through sophisticated temporal field generators that create localized alterations in the flow of time, enabling everything from rapid industrial production to long-term research projects that would otherwise require centuries to complete. However, the manipulation of such fundamental forces creates enormous risks and requires constant monitoring to prevent temporal disasters that could affect reality on a cosmic scale.
 
-Recent developments have focused on creating stable interfaces between the Zones and normal temporal flow, enabling controlled access to temporal effects while minimizing the risks of temporal contamination or paradox creation. These advances have made the Zones crucial for addressing the challenges of inter-dimensional integration with [[02_Worldbuilding/Places/Aethermoor]] and preparing for cosmic-scale threats that operate across multiple temporal frameworks.
+Recent developments have focused on creating stable interfaces between the Zones and normal temporal flow, enabling controlled access to temporal effects while minimizing the risks of temporal contamination or paradox creation. These advances have made the Zones crucial for addressing the challenges of inter-dimensional integration with [[12_Research/D&D_References/Aethermoor]] and preparing for cosmic-scale threats that operate across multiple temporal frameworks.
 
 ## Technical Architecture and Temporal Engineering
 
@@ -271,7 +271,7 @@ Research into coordinating temporal effects across dimensional boundaries:
 - **Cultural Exchange**: Cultural programs enabling interaction across temporal and dimensional differences
 
 **Collaborative Research:**
-Joint research programs with [[02_Worldbuilding/Places/Aethermoor]] and other dimensional partners:
+Joint research programs with [[12_Research/D&D_References/Aethermoor]] and other dimensional partners:
 - Shared research into temporal physics and chronological phenomena
 - Collaborative development of safety systems for temporal manipulation
 - Joint investigation of cosmic-scale temporal effects
@@ -306,11 +306,11 @@ Development of temporal technology for broader civilian use:
 Zone operations require highly trained specialists with unique qualifications:
 
 **Primary Specializations:**
-- **Temporal Engineers**: Experts in temporal field generation and control ([[02_Worldbuilding/Lore/Senior Temporal Engineer Chronos Fieldwright]])
-- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([[02_Worldbuilding/Lore/Paradox Analyst Echo Causality]])  
-- **Temporal Safety Officers**: Personnel specializing in temporal hazard management ([[02_Worldbuilding/Lore/Safety Coordinator Time Guardian]])
-- **Chronological Researchers**: Scientists studying temporal physics and applications ([[02_Worldbuilding/Lore/Research Director Past Future]])
-- **Temporal Medical Personnel**: Healthcare providers trained in temporal contamination treatment ([[02_Worldbuilding/Lore/Temporal Physician Healing Moment]])
+- **Temporal Engineers**: Experts in temporal field generation and control ([[12_Research/D&D_References/Senior Temporal Engineer Chronos Fieldwright]])
+- **Paradox Prevention Specialists**: Experts in detecting and preventing temporal contradictions ([[12_Research/D&D_References/Paradox Analyst Echo Causality]])  
+- **Temporal Safety Officers**: Personnel specializing in temporal hazard management ([[12_Research/D&D_References/Safety Coordinator Time Guardian]])
+- **Chronological Researchers**: Scientists studying temporal physics and applications ([[12_Research/D&D_References/Research Director Past Future]])
+- **Temporal Medical Personnel**: Healthcare providers trained in temporal contamination treatment ([[12_Research/D&D_References/Temporal Physician Healing Moment]])
 
 **Training and Certification:**
 Personnel undergo extensive specialized training:
@@ -400,31 +400,31 @@ Involvement with Temporal Distortion Zones provides unique opportunities for cha
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location hosting Temporal Distortion Zone facilities
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional temporal research
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Related facility providing acoustic research supporting temporal studies
-- [[02_Worldbuilding/Lore/Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
-- [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] - Government organization overseeing temporal research
-- [[02_Worldbuilding/People/Chief Temporal Engineer Paradox Timeweaver|02 Worldbuilding/People/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
-- [[02_Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright|02 Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
-- [[02_Worldbuilding/People/Paradox Analyst Echo Causality|02 Worldbuilding/People/Paradox Analyst Echo Causality]] - Paradox prevention expert
-- [[02_Worldbuilding/People/Safety Coordinator Time Guardian|02 Worldbuilding/People/Safety Coordinator Time Guardian]] - Temporal safety management director
-- [[02_Worldbuilding/People/Research Director Past Future|02 Worldbuilding/People/Research Director Past Future]] - Chronological research program leader
-- [[02_Worldbuilding/People/Temporal Physician Healing Moment|02 Worldbuilding/People/Temporal Physician Healing Moment]] - Medical specialist for temporal contamination
+- [[12_Research/D&D_References/Aquabyssos]] - Primary location hosting Temporal Distortion Zone facilities
+- [[12_Research/D&D_References/Aethermoor]] - Partner civilization for cross-dimensional temporal research
+- [[12_Research/D&D_References/Resonance Chamber]] - Related facility providing acoustic research supporting temporal studies
+- [[12_Research/D&D_References/Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
+- [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] - Government organization overseeing temporal research
+- [[Chief Temporal Engineer Paradox Timeweaver|02 Worldbuilding/People/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
+- [[Senior Temporal Engineer Chronos Fieldwright|02 Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
+- [[Paradox Analyst Echo Causality|02 Worldbuilding/People/Paradox Analyst Echo Causality]] - Paradox prevention expert
+- [[Safety Coordinator Time Guardian|02 Worldbuilding/People/Safety Coordinator Time Guardian]] - Temporal safety management director
+- [[Research Director Past Future|02 Worldbuilding/People/Research Director Past Future]] - Chronological research program leader
+- [[Temporal Physician Healing Moment|02 Worldbuilding/People/Temporal Physician Healing Moment]] - Medical specialist for temporal contamination
 
 The Temporal Distortion Zones represent humanity's boldest attempt to master time itself, transforming the fundamental flow of existence into a tool for progress, understanding, and survival. Through these extraordinary facilities, the linear progression of moments becomes fluid, the impossible becomes inevitable, and the future becomes a destination rather than merely a direction. Yet with such power comes responsibility that extends beyond individual lives to encompass the very fabric of reality, demanding wisdom, caution, and cooperation on a cosmic scale.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[02_Worldbuilding/Lore/Environmental Hazards]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[02_Worldbuilding/Lore/The Threshold]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Environmental Hazards]]
+- [[12_Research/D&D_References/Initiative Tracker]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_Statblocks/Random Encounters]]
+- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
+- [[12_Research/D&D_References/The Threshold]]
 
 ## Player-Facing Summary
 
@@ -449,4 +449,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- quest
+- session-notes
+- shadow-touched
 - aquabyssos
 - campaign-consequences
 - complete
@@ -22,6 +25,7 @@ primary_sessions:
 
 
 # Consequence Chain 1: Shadow Conspiracy Exposure
+
 *The Unraveling of the Parliament's Dark Secret*
 
 ## Initial Action
@@ -34,11 +38,11 @@ primary_sessions:
 - Exposed the scope of The Shadow Conspiracy to key government officials
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/People/Original Glaucus]]**: Rescued from Memory Meadows imprisonment
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Plans compromised, forced to accelerate timeline
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]**: Cover blown, operations exposed
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Learned 30% of members are shadow replacements
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Paranoia validated, authority challenged
+- **[[12_Research/D&D_References/Original Glaucus]]**: Rescued from Memory Meadows imprisonment
+- **[[12_Research/D&D_References/Shadow Duchess Nyx]]**: Plans compromised, forced to accelerate timeline
+- **[[12_Research/D&D_References/The Shadow Conspiracy]]**: Cover blown, operations exposed
+- **[[12_Research/D&D_References/Parliament of Echoes]]**: Learned 30% of members are shadow replacements
+- **[[12_Research/D&D_References/The Scattered Emperor]]**: Paranoia validated, authority challenged
 - **Memory Farmers**: Primary income source disrupted, key operatives captured
 
 **Immediate visible results:**
@@ -62,9 +66,9 @@ primary_sessions:
 - Emergency Parliament sessions called to address infiltration
 - Shadow Citizenship Act proposal tabled indefinitely
 - New authentication procedures implemented for all government access
-- Parliamentary Speaker [[02_Worldbuilding/People/Agent Whisper Voidheart]] secretly working to minimize exposure
+- Parliamentary Speaker [[12_Research/D&D_References/Agent Whisper Voidheart]] secretly working to minimize exposure
 - Military command restructured to remove potentially compromised officers
-- [[02_Worldbuilding/People/The Scattered Emperor]] granted emergency security powers
+- [[12_Research/D&D_References/The Scattered Emperor]] granted emergency security powers
 
 **Social changes:**
 - City-wide paranoia about shadow replacements ("Shadow Fever")
@@ -84,18 +88,18 @@ primary_sessions:
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Groups/The Light Preservation Society]]** gained 400% membership increase
-- **[[02_Worldbuilding/Lore/Original Survivor Network]]** emerged from hiding to assist investigations
-- **[[02_Worldbuilding/Lore/Light Bearers]]** militant group formed to hunt shadow replacements
-- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
+- **[[12_Research/D&D_References/The Light Preservation Society]]** gained 400% membership increase
+- **[[12_Research/D&D_References/Original Survivor Network]]** emerged from hiding to assist investigations
+- **[[12_Research/D&D_References/Light Bearers]]** militant group formed to hunt shadow replacements
+- **[[Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
 - Traditional merchant guilds distanced themselves from shadow-associated businesses
-- **[[02_Worldbuilding/Groups/Political Parties of Aquabyssos]]** splintered along shadow/original lines
+- **[[12_Research/D&D_References/Political Parties of Aquabyssos]]** splintered along shadow/original lines
 
 **Trade route changes:**
 - Tenebrarum quarantined, forcing shadow operatives to use alternative smuggling routes
 - Memory kelp cultivation banned, disrupting agricultural districts
 - New trade relationships formed with "verified original" merchant houses
-- Cross-realm trade with [[02_Worldbuilding/Places/Aethermoor]] increased for identity verification services
+- Cross-realm trade with [[12_Research/D&D_References/Aethermoor]] increased for identity verification services
 - Underground shadow economy developed new distribution networks
 
 **Cultural shifts:**
@@ -116,7 +120,7 @@ primary_sessions:
 ## Long-term Consequences (Months/Years)
 
 **Permanent world changes:**
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** restructured with mandatory shadow detection protocols
+- **[[12_Research/D&D_References/Parliament of Echoes]]** restructured with mandatory shadow detection protocols
 - New legal framework established distinguishing shadow/original rights
 - Technological innovation in consciousness detection and identity verification
 - Architectural changes: public buildings redesigned with shadow-revealing light systems
@@ -133,14 +137,14 @@ primary_sessions:
 
 **Unexpected alliances:**
 - Some shadow-original pairs chose cooperation over replacement
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** and original Duchess formed complex partnership
+- **[[12_Research/D&D_References/Shadow Duchess Nyx]]** and original Duchess formed complex partnership
 - Reformed memory farmers became consciousness counselors
 - Light Bearers allied with moderate shadow advocates for peaceful coexistence
 - Cross-realm cooperation emerged between Aquabyssos and Aethermoor security forces
 
 **Future adventure hooks:**
 - Hidden shadow cells operating in other cities across Aquabyssos
-- The identity of **[[02_Worldbuilding/Lore/Quest - The First Shadow]]** remains unknown
+- The identity of **[[12_Research/D&D_References/Quest - The First Shadow]]** remains unknown
 - Memory Meadows prisoners with decades of stolen memories seek restitution
 - Foreign shadow conspiracies may exist in other realms
 - Technology for artificial shadow creation discovered in abandoned facilities
@@ -149,24 +153,28 @@ primary_sessions:
 ## Ongoing Monitoring Points
 
 ### Political Stability Indicators
+
 - **Parliamentary effectiveness**: Reduced 40% due to trust issues and verification procedures
 - **Public confidence in government**: Declined 60% as citizens question official legitimacy
-- **Emergency power usage**: [[02_Worldbuilding/People/The Scattered Emperor]] increasingly relying on martial authority
+- **Emergency power usage**: [[12_Research/D&D_References/The Scattered Emperor]] increasingly relying on martial authority
 - **Regional autonomy**: Outer districts developing independent governance structures
 
 ### Economic Recovery Markers
+
 - **Memory trade revival**: Black market activity suggests ongoing shadow economy
 - **Tourism impact**: Visitors decreased 70% due to safety concerns
 - **Investment confidence**: Foreign trade partners implementing additional verification requirements
 - **Innovation response**: New industries emerging around consciousness verification technology
 
 ### Social Healing Progress
+
 - **Family reunification**: Support services established for replacement-affected families
 - **Identity counseling**: Mental health services expanded for consciousness-related trauma
 - **Cultural adaptation**: Art and literature helping society process identity questions
 - **Generational differences**: Youth more accepting of shadow consciousness than elders
 
 ### Security Status Assessment
+
 - **Detection capabilities**: Estimated 60% effectiveness in identifying shadow replacements
 - **Remaining infiltration**: Unknown number of shadows still in government positions
 - **Counter-intelligence**: Shadow networks developing new concealment techniques
@@ -175,12 +183,14 @@ primary_sessions:
 ## Connected Consequences
 
 ### Links to Other Major Events
+
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's depth guard connections provided crucial intelligence
 - **Cross-realm implications**: Aethermoor authorities investigating potential shadow infiltration
-- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Questions raised about shadow consciousness origin
+- **[[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Questions raised about shadow consciousness origin
 - **Technology transfer**: Shadow detection techniques shared with other realms
 
 ### Unresolved Questions
+
 1. What percentage of the population has been replaced without detection?
 2. Are shadows truly independent beings or extensions of a larger consciousness?
 3. Can shadow-original pairs achieve genuine merger or cooperation?
@@ -190,14 +200,21 @@ primary_sessions:
 ---
 
 *"The day we learned that shadows could think was the day we began questioning whether we ourselves were real. The conspiracy's exposure didn't end the crisis—it made us all philosophers."*
-— [[02_Worldbuilding/People/Original Glaucus]], Testimony to Parliament
+— [[12_Research/D&D_References/Original Glaucus]], Testimony to Parliament
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
+- [[12_Research/D&D_References/The Shadow Conspiracy]]
+- [[12_Research/D&D_References/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[12_Research/D&D_References/Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Shadow Duchess Nyx]]
+- [[12_Research/D&D_References/Political Intrigue Master Index]]
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]]
-- [[02_Worldbuilding/Lore/Political Intrigue Master Index]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

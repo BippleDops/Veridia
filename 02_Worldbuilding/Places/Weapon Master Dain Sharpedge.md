@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-weapon-master-dain-sharpedge-v1-weapon-master-dain-sharpedge.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Weapon Master Dain Sharpedge]]
+- [[Weapon Master Dain Sharpedge]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[Forge of War]]

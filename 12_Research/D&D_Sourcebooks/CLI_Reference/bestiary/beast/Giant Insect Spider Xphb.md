@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-spider-xphb-giant-insect-spider-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-insect-spider-xphb|Giant Insect (Spider)]]
+# [[giant-insect-spider-xphb|Giant Insect (Spider)]]
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock

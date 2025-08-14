@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dracolich-xmm-dracolich-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/dracolich-xmm|Dracolich]]
+# [[dracolich-xmm|Dracolich]]
 *Source: Monster Manual (2024) p. 102*  
 
 ## Dracolich
@@ -92,65 +92,65 @@ A dracolich lurks in a corrupted version of the lair it had in life.
   - "dexterity": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+14"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
   - "desc": "If the dracolich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "Creatures within 60 feet of the dracolich can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
+  - "desc": "Creatures within 60 feet of the dracolich can't regain [[hit-points-xphb|Hit Points]]."
     "name": "Life Suppression"
-  - "desc": "The dracolich has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The dracolich has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dracolich has a magical gem. If the dracolich is destroyed while\
       \ the gem is on the same plane of existence as it, the dracolich gains a new\
-      \ body in d20 days, regaining all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ body in d20 days, regaining all its [[hit-points-xphb|Hit Points]]\
       \ and appearing within 5 feet of the gem.\n\nThe gem is a Tiny object that has\
-      \ AC 20; HP 50; and [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]]\
-      \ to Necrotic, Poison, and Psychic damage. The gem regains all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ at the end of every turn, but it turns to dust if reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
+      \ AC 20; HP 50; and [[immunity-xphb|Immunity]]\
+      \ to Necrotic, Poison, and Psychic damage. The gem regains all its [[hit-points-xphb|Hit Points]]\
+      \ at the end of every turn, but it turns to dust if reduced to 0 [[hit-points-xphb|Hit Points]].\
       \ If the gem is destroyed, the dracolich can create a new one by completing\
       \ an 8-hour ritual using a gem worth 1,000+ GP and by expending 5,000 GP, which\
       \ the ritual consumes."
     "name": "Soul Gem"
 "actions":
   - "desc": "The dracolich makes three Rend attacks. It can replace one attack with\
-      \ a use of Spellcasting to cast [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]]\
+      \ a use of Spellcasting to cast [[ray-of-sickness-xphb|Ray of Sickness]]\
       \ (level 2 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 18 (2d10 + 7) Slashing\
       \ damage plus 4 (d8) Necrotic damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 52 (8d12) Necrotic damage. Success: Half damage."
     "name": "Necrotic Breath (Recharge 5-6)"
   - "desc": "The dracolich casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 19,\
-      \ +11 to hit with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]] (level\
-      \ 2 version)\n\n1/day each: [[/03_Mechanics/CLI/spells/create-undead-xphb|Create Undead]]\
-      \ (level 8 version), [[/03_Mechanics/CLI/spells/finger-of-death-xphb|Finger of Death]]"
+      \ +11 to hit with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[ray-of-sickness-xphb|Ray of Sickness]] (level\
+      \ 2 version)\n\n1/day each: [[create-undead-xphb|Create Undead]]\
+      \ (level 8 version), [[finger-of-death-xphb|Finger of Death]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dracolich moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "The dracolich moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
-  - "desc": "The dracolich uses Spellcasting to cast [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]]\
+  - "desc": "The dracolich uses Spellcasting to cast [[ray-of-sickness-xphb|Ray of Sickness]]\
       \ (level 2 version). The dracolich can't take this action again until the start\
       \ of its next turn."
     "name": "Sickening Ray"
-  - "desc": "Wisdom Saving Throw: DC 19, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 19, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the dracolich. Failure: 11 (2d10) Psychic damage, and the\
-      \ target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition\
+      \ target has the [[conditions#Frightened|Frightened]] condition\
       \ until the end of its next turn. Failure or Success: The dracolich can't\
       \ take this action again until the start of its next turn."
     "name": "Terrifying Presence"
@@ -158,12 +158,12 @@ A dracolich lurks in a corrupted version of the lair it had in life.
   - "desc": "The region containing a dracolich's lair is warped by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- Sapping Mist. The area within 1 mile of the lair is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]]\
+  - "desc": "- Sapping Mist. The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly Obscured]]\
       \ by pale fog. Whenever a creature other than the dracolich or one of its allies\
-      \ finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] in\
+      \ finishes a [[long-rest-xphb|Long Rest]] in\
       \ that area, it must succeed on a DC 15 Constitution saving throw or gain 1\
-      \ [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]] level.  \n- Soul\
-      \ Drain. Creatures within 1 mile of the lair have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ [[conditions#Exhaustion|Exhaustion]] level.  \n- Soul\
+      \ Drain. Creatures within 1 mile of the lair have [[disadvantage-xphb|Disadvantage]]\
       \ on Death Saving Throws.  "
     "name": ""
   - "desc": "If the dracolich is destroyed or moves its lair elsewhere, these effects\

@@ -23,7 +23,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-poisoners-kit-xphb-poisoners-kit-xphb.png)
+![[04_Resources/Assets/Items/item-artifact-poisoners-kit-xphb-poisoners-kit-xphb.png]]
 
 # Poisoner's Kit
 *Tool*  
@@ -34,7 +34,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/basic-poison-xphb|Basic Poison]]  
+- **Craft.** [[basic-poison-xphb|Basic Poison]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

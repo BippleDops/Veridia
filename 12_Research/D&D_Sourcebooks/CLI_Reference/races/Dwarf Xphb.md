@@ -33,21 +33,21 @@ world: Both
 
 ### Darkvision
 
-You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 120 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Poison damage. You also have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition.
+You have [[resistance-xphb|Resistance]] to Poison damage. You also have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Poisoned|Poisoned]] condition.
 
 ### Dwarven Toughness
 
-Your [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your [[hit-points-xphb|Hit Point]] maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ### Stonecunning
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you gain [[/03_Mechanics/CLI/senses#Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[/03_Mechanics/CLI/senses#Tremorsense|Tremorsense]]. The stone can be natural or worked.
+As a [[bonus-action-xphb|Bonus Action]], you gain [[senses#Tremorsense|Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[senses#Tremorsense|Tremorsense]]. The stone can be natural or worked.
 
-You can use this [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] a number of times equal to your [[/03_Mechanics/CLI/variant-rules/proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ## Description
 

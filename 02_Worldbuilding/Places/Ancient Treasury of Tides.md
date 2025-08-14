@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ancient Treasury of Tides]]
+- [[12_Research/D&D_References/Ancient Treasury of Tides]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]

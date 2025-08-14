@@ -15,12 +15,7 @@ world: Both Worlds
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg]]
 
 
 ## Overview
@@ -65,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/God-King Aetheron]]
+- [[God-King Aetheron]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Threshold]]
+- [[The Final Choice]]
+- [[The Threshold]]

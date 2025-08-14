@@ -25,10 +25,10 @@ world: Both
 
 | dice: d20 | Complication |
 |-----------|--------------|
-| 1 | Your path takes you through a rough patch of brush. Make a DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of difficult terrain. |
-| 2 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
-| 3 | You run through a [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects]] (see the Monster Manual for game statistics, with the DM choosing whichever kind of insects makes the most sense). The swarm makes an opportunity attack against you (+3 to hit; `4d4` piercing damage on a hit). |
-| 4 | A stream, ravine, or rock bed blocks your path. Make a DC 10 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of difficult terrain. |
+| 1 | Your path takes you through a rough patch of brush. Make a DC 10 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (your choice) to get past the brush. On a failed check, the brush counts as 5 feet of difficult terrain. |
+| 2 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
+| 3 | You run through a [[swarm-of-insects-xmm|swarm of insects]] (see the Monster Manual for game statistics, with the DM choosing whichever kind of insects makes the most sense). The swarm makes an opportunity attack against you (+3 to hit; `4d4` piercing damage on a hit). |
+| 4 | A stream, ravine, or rock bed blocks your path. Make a DC 10 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (your choice) to cross the impediment. On a failed check, the impediment counts as 10 feet of difficult terrain. |
 | 5 | Make a DC 10 Constitution saving throw. On a failed save, you are blinded by blowing sand, dirt, ash, snow, or pollen until the end of your turn. While blinded in this way, your speed is halved. |
 | 6 | A sudden drop catches you by surprise. Make a DC 10 Dexterity saving throw to navigate the impediment. On a failed save, you fall `1d4 × 5` feet, taking `d6` bludgeoning damage per 10 feet fallen as normal, and land prone. |
 | 7 | You blunder into a hunter's snare. Make a DC 15 Dexterity saving throw to avoid it. On a failed save, you are caught in a net and restrained. See chapter 5 "Equipment," of the Player's Handbook for rules on escaping a net. |

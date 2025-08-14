@@ -14,26 +14,23 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Mourning Depths]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Abyssos Prime]]
+- [[Azure Citadel]]
+- [[Memory Farmers]]
+- [[Mourning Depths]]
+- [[Parliament of Echoes]]
+- [[Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 

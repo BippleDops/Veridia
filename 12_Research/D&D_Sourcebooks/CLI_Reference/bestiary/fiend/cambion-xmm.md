@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cambion-xmm-cambion-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/cambion-xmm|Cambion]]
+# [[cambion-xmm|Cambion]]
 *Source: Monster Manual (2024) p. 65*  
 
 ## Cambion
@@ -82,14 +82,14 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
@@ -103,11 +103,11 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
     "name": "Fire Ray"
   - "desc": "The cambion casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n2/day each: [[/03_Mechanics/CLI/spells/alter-self-xphb|Alter Self]],\
-      \ [[/03_Mechanics/CLI/spells/command-xphb|Command]] (level 3 version), [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect\
-      \ Magic]]\n\n1/day each: [[/03_Mechanics/CLI/spells/dominate-person-xphb|Dominate\
+      \n2/day each: [[alter-self-xphb|Alter Self]],\
+      \ [[command-xphb|Command]] (level 3 version), [[detect-magic-xphb|Detect\
+      \ Magic]]\n\n1/day each: [[dominate-person-xphb|Dominate\
       \ Person]] (level 8 version),\
-      \ [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]] (self only)"
+      \ [[plane-shift-xphb|Plane Shift]] (self only)"
     "name": "Spellcasting"
 "source":
   - "XMM"

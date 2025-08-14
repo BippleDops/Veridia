@@ -157,7 +157,7 @@ Knights and their silver swords are inseparable, and a knight will fight to the 
 
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315596_cn.webp#center)
 
-- [[/03_Mechanics/CLI/items/greater-silver-sword-mtf|Greater Silver Sword]]  
+- [[greater-silver-sword-mtf|Greater Silver Sword]]  
 
 #### Dragon Steeds
 
@@ -407,12 +407,12 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 
 At the DM's option, you can create a gith character, using the following traits.
 
-- [[/03_Mechanics/CLI/races/gith-githyanki-mtf|Gith (Githyanki)]]  
-- [[/03_Mechanics/CLI/races/gith-githzerai-mtf|Gith (Githzerai)]]  
+- [[gith-githyanki-mtf|Gith (Githyanki)]]  
+- [[gith-githzerai-mtf|Gith (Githzerai)]]  
 
 ### Gith Random Height and Weight
 
-![[/03_Mechanics/CLI/tables/gith-random-height-and-weight-mtf|Gith Random Height and Weight]]
+![[gith-random-height-and-weight-mtf|Gith Random Height and Weight]]
 
 **Height** = Base Height + Height Modifier (in inches) **Weight** = Base Weight + Height Modifier (in pounds) × Weight Modifier
 
@@ -420,31 +420,31 @@ At the DM's option, you can create a gith character, using the following traits.
 
 This section provides tables for players and DMs who want to create githzerai and githyanki characters. **Githyanki**
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-names-male-mtf|Gith Tables; Githyanki Names, Male]]
+![[gith-tables-githyanki-names-male-mtf|Gith Tables; Githyanki Names, Male]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-names-female-mtf|Gith Tables; Githyanki Names, Female]]
+![[gith-tables-githyanki-names-female-mtf|Gith Tables; Githyanki Names, Female]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-personality-traits-mtf|Gith Tables; Githyanki Personality Traits]]
+![[gith-tables-githyanki-personality-traits-mtf|Gith Tables; Githyanki Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-ideals-mtf|Gith Tables; Githyanki Ideals]]
+![[gith-tables-githyanki-ideals-mtf|Gith Tables; Githyanki Ideals]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-bonds-mtf|Gith Tables; Githyanki Bonds]]
+![[gith-tables-githyanki-bonds-mtf|Gith Tables; Githyanki Bonds]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githyanki-flaws-mtf|Gith Tables; Githyanki Flaws]]
+![[gith-tables-githyanki-flaws-mtf|Gith Tables; Githyanki Flaws]]
 
 **Githzerai**
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-names-male-mtf|Gith Tables; Githzerai Names, Male]]
+![[gith-tables-githzerai-names-male-mtf|Gith Tables; Githzerai Names, Male]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-names-female-mtf|Gith Tables; Githzerai Names, Female]]
+![[gith-tables-githzerai-names-female-mtf|Gith Tables; Githzerai Names, Female]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-personality-traits-mtf|Gith Tables; Githzerai Personality Traits]]
+![[gith-tables-githzerai-personality-traits-mtf|Gith Tables; Githzerai Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-ideals-mtf|Gith Tables; Githzerai Ideals]]
+![[gith-tables-githzerai-ideals-mtf|Gith Tables; Githzerai Ideals]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-bonds-mtf|Gith Tables; Githzerai Bonds]]
+![[gith-tables-githzerai-bonds-mtf|Gith Tables; Githzerai Bonds]]
 
-![[/03_Mechanics/CLI/tables/gith-tables-githzerai-flaws-mtf|Gith Tables; Githzerai Flaws]]
+![[gith-tables-githzerai-flaws-mtf|Gith Tables; Githzerai Flaws]]
 
 ### Githyanki Raiding Parties
 
@@ -452,15 +452,15 @@ Use the following tables to generate a band of githyanki raiders and some additi
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[/03_Mechanics/CLI/tables/githyanki-raiding-parties-dragon-chance-mtf|Githyanki Raiding Parties; Dragon Chance]]
+![[githyanki-raiding-parties-dragon-chance-mtf|Githyanki Raiding Parties; Dragon Chance]]
 
-![[/03_Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-leader-mtf|Githyanki Raiding Parties; Raiding Party Leader]]
+![[githyanki-raiding-parties-raiding-party-leader-mtf|Githyanki Raiding Parties; Raiding Party Leader]]
 
-![[/03_Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-special-allies-mtf|Githyanki Raiding Parties; Githyanki Special Allies]]
+![[githyanki-raiding-parties-githyanki-special-allies-mtf|Githyanki Raiding Parties; Githyanki Special Allies]]
 
-![[/03_Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-transport-mtf|Githyanki Raiding Parties; Raiding Party Transport]]
+![[githyanki-raiding-parties-raiding-party-transport-mtf|Githyanki Raiding Parties; Raiding Party Transport]]
 
-![[/03_Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-purpose-of-raid-mtf|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
+![[githyanki-raiding-parties-githyanki-purpose-of-raid-mtf|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
 
 ### Githzerai Groups
 
@@ -468,11 +468,11 @@ Use the following tables to generate a band of githzerai and determine their rea
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[/03_Mechanics/CLI/tables/githzerai-groups-githzerai-group-leader-mtf|Githzerai Groups; Githzerai Group Leader]]
+![[githzerai-groups-githzerai-group-leader-mtf|Githzerai Groups; Githzerai Group Leader]]
 
-![[/03_Mechanics/CLI/tables/githzerai-groups-githzerai-special-allies-mtf|Githzerai Groups; Githzerai Special Allies]]
+![[githzerai-groups-githzerai-special-allies-mtf|Githzerai Groups; Githzerai Special Allies]]
 
-![[/03_Mechanics/CLI/tables/githzerai-groups-githzerai-mission-purpose-mtf|Githzerai Groups; Githzerai Mission Purpose]]
+![[githzerai-groups-githzerai-mission-purpose-mtf|Githzerai Groups; Githzerai Mission Purpose]]
 
 ## Player-Facing Summary
 

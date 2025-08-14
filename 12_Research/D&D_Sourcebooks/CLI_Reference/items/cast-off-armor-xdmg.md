@@ -39,7 +39,7 @@ world: Both
 
 
 
-You can doff this armor as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action.
+You can doff this armor as a [[actions#Magic|Magic]] action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)

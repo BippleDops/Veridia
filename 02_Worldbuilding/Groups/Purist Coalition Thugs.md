@@ -5,9 +5,9 @@ alignment: Chaotic Good (extremist methods)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Extremist Movement
-headquarters: '[[02_Worldbuilding/Lore/The Pure Sanctum]]'
+headquarters: '[[The Pure Sanctum]]'
 influence: Regional (Underground network)
-leader: '[[02_Worldbuilding/Lore/Purifier Marcus Steelbane]]'
+leader: '[[Purifier Marcus Steelbane]]'
 members: ~2,000 active militants, 5,000+ sympathizers
 obsidianUIMode: preview
 status: complete
@@ -28,25 +28,21 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]
 
 
 # Purist Coalition Thugs
 *The Clean Blade Movement, Crystal Breakers, Guardians of Natural Order*
 
 ## Overview
-The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Places/Aethermoor]]'s anti-crystal corruption movement, believing that the widespread use of [[02_Worldbuilding/Places/Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] is slowly poisoning both the land and its people. What began as a legitimate philosophical movement questioning magical dependence has evolved into a violent extremist organization that uses terrorism, sabotage, and assassination to "purify" the kingdom from crystal influence. They see themselves as freedom fighters saving civilization from magical addiction, but their methods often harm innocent civilians caught between ideology and pragmatism.
+The Purist Coalition Thugs represent the militant arm of [[Aethermoor]]'s anti-crystal corruption movement, believing that the widespread use of [[Aether Crystals|02 Worldbuilding/Places/Aether Crystals]] is slowly poisoning both the land and its people. What began as a legitimate philosophical movement questioning magical dependence has evolved into a violent extremist organization that uses terrorism, sabotage, and assassination to "purify" the kingdom from crystal influence. They see themselves as freedom fighters saving civilization from magical addiction, but their methods often harm innocent civilians caught between ideology and pragmatism.
 
 ## History
 
 ### The Great Awakening (75 Years Ago)
 **Recognition of the Threat**
-- Founded by [[02_Worldbuilding/People/Brother Marcus Steelbane]], a former crystal miner who witnessed corruption firsthand
+- Founded by [[Brother Marcus Steelbane]], a former crystal miner who witnessed corruption firsthand
 - Initial movement focused on education about crystal addiction dangers
 - Documented cases of crystal sickness and magical dependency syndrome
 - Established support groups for those seeking to reduce magical reliance
@@ -55,7 +51,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### The Radicalization (50 Years Ago)
 **From Philosophy to Violence**
 - Frustrated by government inaction on crystal regulation
-- Witnessed [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] suppression of anti-crystal research
+- Witnessed [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] suppression of anti-crystal research
 - First violent incident: bombing of crystal refinery killing 12 workers
 - Split from mainstream anti-crystal movement
 - Adopted cell-based organization structure for security
@@ -80,12 +76,12 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 
 ### Leadership Council
 **The Pure Circle**
-- **Supreme Purifier**: [[02_Worldbuilding/Lore/Purifier Marcus Steelbane]] - Founding leader and ideological guide
-- **War Chief**: [[02_Worldbuilding/Lore/Commander Elena Crystalbreaker]] - Military operations coordinator
-- **Truth Speaker**: [[02_Worldbuilding/Lore/Prophet Sarah Naturalborn]] - Propaganda and recruitment
-- **Shadow Hand**: [[02_Worldbuilding/Lore/Agent Viktor Cleanslate]] - Intelligence and infiltration
-- **Resource Keeper**: [[02_Worldbuilding/Places/Quartermaster David Simpleton]] - Logistics and supply management
-- **Cell Coordinator**: [[02_Worldbuilding/Lore/Network Master Thomas Nobody]] - Operational security
+- **Supreme Purifier**: [[Purifier Marcus Steelbane]] - Founding leader and ideological guide
+- **War Chief**: [[Commander Elena Crystalbreaker]] - Military operations coordinator
+- **Truth Speaker**: [[Prophet Sarah Naturalborn]] - Propaganda and recruitment
+- **Shadow Hand**: [[Agent Viktor Cleanslate]] - Intelligence and infiltration
+- **Resource Keeper**: [[Quartermaster David Simpleton]] - Logistics and supply management
+- **Cell Coordinator**: [[Network Master Thomas Nobody]] - Operational security
 
 ### Operational Structure
 
@@ -116,7 +112,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ## Resources & Assets
 
 ### Hidden Infrastructure
-- **[[02_Worldbuilding/Lore/The Pure Sanctum]]**: Main headquarters in abandoned mine complex
+- **[[The Pure Sanctum]]**: Main headquarters in abandoned mine complex
 - **Safe House Network**: 50+ locations across kingdom
 - **Weapons Caches**: Hidden armories containing anti-magical equipment
 - **Alchemical Laboratories**: Production facilities for crystal-neutralizing compounds
@@ -151,18 +147,18 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### Specific Targets
 
 #### Primary Objectives
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Primary enemy controlling crystal trade
-- **[[02_Worldbuilding/Lore/Crystal Research Facilities]]**: Scientific institutions studying magical applications
+- **[[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Primary enemy controlling crystal trade
+- **[[Crystal Research Facilities]]**: Scientific institutions studying magical applications
 - **[[Government Crystal Programs]]**: Official policies promoting magical dependence
 - **[[Major Crystal Users]]**: High-profile individuals representing magical corruption
-- **[[02_Worldbuilding/Lore/Crystal Distribution Networks]]**: Infrastructure enabling widespread addiction
+- **[[Crystal Distribution Networks]]**: Infrastructure enabling widespread addiction
 
 #### Secondary Targets
-- **[[02_Worldbuilding/Lore/Crystal-Enhanced Businesses]]**: Companies benefiting from magical technology
+- **[[Crystal-Enhanced Businesses]]**: Companies benefiting from magical technology
 - **[[Magic Schools and Academies]]**: Educational institutions teaching crystal use
-- **[[02_Worldbuilding/Places/Healing Temples]]**: Religious organizations using crystal-based magic
-- **[[02_Worldbuilding/Lore/Luxury Crystal Market]]**: Providers of non-essential magical conveniences
-- **[[02_Worldbuilding/Lore/Foreign Crystal Traders]]**: International suppliers enabling dependency
+- **[[Healing Temples]]**: Religious organizations using crystal-based magic
+- **[[Luxury Crystal Market]]**: Providers of non-essential magical conveniences
+- **[[Foreign Crystal Traders]]**: International suppliers enabling dependency
 
 ## Ideology & Beliefs
 
@@ -194,23 +190,23 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### Ideological Allies
 - **[[02_Worldbuilding/Groups/Natural Order Movemen|02 Worldbuilding/Groups/Natural Order Movemen]]**: Moderate anti-crystal organization (strained relationship)
 - **[[02_Worldbuilding/Groups/Traditional Craftsmen Guil|02 Worldbuilding/Groups/Traditional Craftsmen Guil]]**: Non-magical artisans facing economic pressure
-- **[[02_Worldbuilding/Lore/Rural Resistance]]**: Farming communities opposing magical agriculture
-- **[[02_Worldbuilding/Lore/Religious Purists]]**: Sects believing magic corrupts divine order
+- **[[Rural Resistance]]**: Farming communities opposing magical agriculture
+- **[[Religious Purists]]**: Sects believing magic corrupts divine order
 - **[[Foreign Anti-Magic States]]**: International groups with similar ideologies
 
 ### Primary Enemies
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic powerhouse profiting from crystals
-- **[[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]**: Government enabling magical dependency
-- **[[02_Worldbuilding/Lore/Crystal Research Institutes]]**: Scientific organizations advancing magical technology
-- **[[02_Worldbuilding/Lore/Magic User Associations]]**: Professional organizations of wizards and sorcerers
-- **[[02_Worldbuilding/Places/Law Enforcement]]**: Security forces protecting crystal infrastructure
+- **[[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Economic powerhouse profiting from crystals
+- **[[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]**: Government enabling magical dependency
+- **[[Crystal Research Institutes]]**: Scientific organizations advancing magical technology
+- **[[Magic User Associations]]**: Professional organizations of wizards and sorcerers
+- **[[Law Enforcement]]**: Security forces protecting crystal infrastructure
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Opposed to but not primary target (yet)
-- **[[02_Worldbuilding/Lore/Crystal Addiction Victims]]**: Those they claim to help but often victimize
-- **[[02_Worldbuilding/People/Working Class Citizens]]**: Potential recruits but often harmed by coalition actions
-- **[[02_Worldbuilding/Lore/Anti-Establishment Groups]]**: Potential allies with different motivations
-- **[[02_Worldbuilding/Lore/Foreign Governments]]**: Complicated relationships based on anti-magic politics
+- **[[Queen Seraphina Lumengarde]]**: Opposed to but not primary target (yet)
+- **[[Crystal Addiction Victims]]**: Those they claim to help but often victimize
+- **[[Working Class Citizens]]**: Potential recruits but often harmed by coalition actions
+- **[[Anti-Establishment Groups]]**: Potential allies with different motivations
+- **[[Foreign Governments]]**: Complicated relationships based on anti-magic politics
 
 ### Internal Factions
 - **Hardliners**: Advocate for increasingly extreme tactics and total war
@@ -222,25 +218,25 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ## Notable Members
 
 ### Leadership
-- **[[02_Worldbuilding/Lore/Purifier Marcus Steelbane]]** - Founding leader, former miner, ideological extremist
-- **[[02_Worldbuilding/Lore/Commander Elena Crystalbreaker]]** - Military strategist, former royal guard
-- **[[02_Worldbuilding/Lore/Prophet Sarah Naturalborn]]** - Propaganda expert, charismatic recruiter
-- **[[02_Worldbuilding/Lore/Agent Viktor Cleanslate]]** - Spy master, infiltration specialist
-- **[[02_Worldbuilding/Places/Quartermaster David Simpleton]]** - Logistics coordinator, underground network builder
+- **[[Purifier Marcus Steelbane]]** - Founding leader, former miner, ideological extremist
+- **[[Commander Elena Crystalbreaker]]** - Military strategist, former royal guard
+- **[[Prophet Sarah Naturalborn]]** - Propaganda expert, charismatic recruiter
+- **[[Agent Viktor Cleanslate]]** - Spy master, infiltration specialist
+- **[[Quartermaster David Simpleton]]** - Logistics coordinator, underground network builder
 
 ### Field Operatives
-- **[[02_Worldbuilding/Lore/The Hammer Squad]]** - Elite strike team specializing in crystal facility destruction
-- **[[02_Worldbuilding/Lore/Sister Maria Pure]]** - Assassin disguised as healing temple priestess
-- **[[02_Worldbuilding/Lore/Bomber Bobby Naturals]]** - Explosives expert responsible for major attacks
-- **[[02_Worldbuilding/Lore/The Ghost Walker]]** - Infiltration specialist, identity unknown
-- **[[02_Worldbuilding/Lore/Sergeant Steel Nerves]]** - Training instructor for new recruits
+- **[[The Hammer Squad]]** - Elite strike team specializing in crystal facility destruction
+- **[[Sister Maria Pure]]** - Assassin disguised as healing temple priestess
+- **[[Bomber Bobby Naturals]]** - Explosives expert responsible for major attacks
+- **[[The Ghost Walker]]** - Infiltration specialist, identity unknown
+- **[[Sergeant Steel Nerves]]** - Training instructor for new recruits
 
 ### Support Personnel
 - **[[02_Worldbuilding/Lore/Doctor Emma Herbalist]]** - Medical treatment using non-magical methods
-- **[[02_Worldbuilding/Lore/Scholar Thomas Truthseeker]]** - Research coordinator documenting crystal harm
-- **[[02_Worldbuilding/Lore/Network Node Seven]]** - Communication hub coordinator
-- **[[02_Worldbuilding/Places/Sanctuary Keeper Morgan]]** - Safe house network administrator
-- **[[02_Worldbuilding/Lore/The Equipment Master]]** - Weapons and supplies procurement specialist
+- **[[Scholar Thomas Truthseeker]]** - Research coordinator documenting crystal harm
+- **[[Network Node Seven]]** - Communication hub coordinator
+- **[[Sanctuary Keeper Morgan]]** - Safe house network administrator
+- **[[The Equipment Master]]** - Weapons and supplies procurement specialist
 
 ## Methods & Tactics
 
@@ -276,7 +272,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 
 ### External Threats
 - Government security forces actively hunting coalition members
-- [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] private security and intelligence
+- [[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] private security and intelligence
 - Magical law enforcement with supernatural detection capabilities
 - Public opinion turning against coalition due to civilian casualties
 - International pressure from magic-using allied nations
@@ -346,31 +342,31 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ## Connected Elements
 
 ### Key NPCs
-- **[[02_Worldbuilding/Lore/Purifier Marcus Steelbane]]** - Coalition founder and leader
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Primary consortium target
-- **[[02_Worldbuilding/People/Brother Marcus Steelbane]]** - Religious figure with coalition sympathies
-- **[[02_Worldbuilding/Lore/Commander Elena Crystalbreaker]]** - Military operations coordinator
-- **[[02_Worldbuilding/Lore/Agent Viktor Cleanslate]]** - Intelligence and infiltration specialist
+- **[[Purifier Marcus Steelbane]]** - Coalition founder and leader
+- **[[Zephyr Goldwhisper]]** - Primary consortium target
+- **[[Brother Marcus Steelbane]]** - Religious figure with coalition sympathies
+- **[[Commander Elena Crystalbreaker]]** - Military operations coordinator
+- **[[Agent Viktor Cleanslate]]** - Intelligence and infiltration specialist
 
 ### Related Locations
-- **[[02_Worldbuilding/Lore/The Pure Sanctum]]** - Coalition headquarters
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]** - Primary target organization
-- **[[02_Worldbuilding/Lore/Crystal Refineries]]** - Frequent attack targets
-- **[[02_Worldbuilding/Lore/Safe House Network]]** - Coalition operational infrastructure
-- **[[02_Worldbuilding/Lore/Training Camps]]** - Member preparation facilities
+- **[[The Pure Sanctum]]** - Coalition headquarters
+- **[[The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]** - Primary target organization
+- **[[Crystal Refineries]]** - Frequent attack targets
+- **[[Safe House Network]]** - Coalition operational infrastructure
+- **[[Training Camps]]** - Member preparation facilities
 
 ### Associated Quests
-- **[[02_Worldbuilding/Lore/Quest - The Pure Strike]]** - Stop coalition terrorist attack
-- **[[02_Worldbuilding/Lore/Quest - Crystal Truth]]** - Investigate legitimacy of coalition claims
-- **[[02_Worldbuilding/Lore/Quest - The Defector]]** - Protect coalition member seeking to leave
+- **[[Quest - The Pure Strike]]** - Stop coalition terrorist attack
+- **[[Quest - Crystal Truth]]** - Investigate legitimacy of coalition claims
+- **[[Quest - The Defector]]** - Protect coalition member seeking to leave
 - **Quest - Underground Network** - Infiltrate coalition organization
-- **[[02_Worldbuilding/Lore/Quest - Moral Choices]]** - Navigate complex ethical situation
+- **[[Quest - Moral Choices]]** - Navigate complex ethical situation
 
 ### Important Items
-- **[[02_Worldbuilding/Lore/The Natural Path Manifesto]]** - Coalition founding document
-- **[[02_Worldbuilding/Lore/Crystal Bane Compounds]]** - Anti-magical alchemical weapons
-- **[[02_Worldbuilding/Lore/Pure Weapons Cache]]** - Non-magical armory
-- **[[02_Worldbuilding/Lore/Coalition Communication Codes]]** - Secret message system
+- **[[The Natural Path Manifesto]]** - Coalition founding document
+- **[[Crystal Bane Compounds]]** - Anti-magical alchemical weapons
+- **[[Pure Weapons Cache]]** - Non-magical armory
+- **[[Coalition Communication Codes]]** - Secret message system
 - **[[Evidence of Crystal Harm]]** - Documentation supporting coalition claims
 
 ---
@@ -380,7 +376,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -395,4 +391,4 @@ Legends speak of Purist Coalition Thugs as a nexus where past and present conver
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[Brother Marcus Steelbane]]

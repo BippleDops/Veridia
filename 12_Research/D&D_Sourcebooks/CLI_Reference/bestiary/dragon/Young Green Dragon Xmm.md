@@ -26,9 +26,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-young-green-dragon-xmm-v1-young-green-dragon-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-young-green-dragon-xmm-v1-young-green-dragon-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-green-dragon-xmm|Young Green Dragon]]
+# [[young-green-dragon-xmm|Young Green Dragon]]
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young green dragons frequently control groups of ettercaps, kobolds, thieves, or other cowardly servants. These dragons do so while avoiding other evil dragons, who would sabotage them. Gradually, oppressing weaker creatures and amassing meaningless fortunes bore young green dragons, and they pursue more ambitious ways to indulge their egos.
@@ -70,14 +70,14 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -90,7 +90,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage\
       \ plus 7 (2d6) Poison damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 42 (12d6) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 5-6)"
 "source":

@@ -26,10 +26,10 @@ world: Both
 *Adventuring gear, poison (contact)*  
 
 
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Poison|Poison]]
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 200 gp
 
-A creature subjected to Carrion Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition for 1 minute. The creature also has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition while [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+A creature subjected to Carrion Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 minute. The creature also has the [[conditions#Paralyzed|Paralyzed]] condition while [[conditions#Poisoned|Poisoned]] in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Crawler Mucus (Contact)")*
 

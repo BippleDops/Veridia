@@ -21,12 +21,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg]]
 
 
 # The Harmony Collective
@@ -108,7 +104,7 @@ The Harmony Collective works excellently as both subtle antagonists and moral di
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[Sister Morwyn]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 
@@ -151,6 +147,6 @@ Legends speak of The Harmony Collective as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Harmony Collective]]
+- [[The Harmony Collective]]
 
 <!-- enriched: true -->

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Tenebrarum]]
+- [[12_Research/D&D_References/Tenebrarum]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Tenebrarum]]
+- [[12_Research/D&D_References/Tenebrarum]]
 
 ## Player-Facing Summary
 

@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gray-render-mpmm-gray-render-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/gray-render-mpmm|Gray Render]]
+# [[gray-render-mpmm|Gray Render]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -82,7 +82,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
   - "strength": !!int "8"
   - "constitution": !!int "9"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -92,11 +92,11 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17\
       \ (2d12 + 4) piercing damage. If the target is Medium or smaller, the target\
-      \ must succeed on a DC 16 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ must succeed on a DC 16 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13\
       \ (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target\
-      \ is [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ is [[conditions#Prone|prone]]."
     "name": "Claw"
 "reactions":
   - "desc": "When the gray render takes damage, it makes one Claw attack against a\

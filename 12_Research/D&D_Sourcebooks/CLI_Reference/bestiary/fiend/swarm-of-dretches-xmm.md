@@ -24,9 +24,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\fiend/swarm-of-dretches-xmm|Swarm of Dretches]]
+# [[swarm-of-dretches-xmm|Swarm of Dretches]]
 *Source: Monster Manual (2024) p. 104*  
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
@@ -65,33 +65,33 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, fire, lightning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "4"
 "traits":
   - "desc": "Constitution Saving Throw: DC 12, any creature that starts its turn\
-      \ in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the swarm. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition until the start of its next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
-      \ the target can take either an action or a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]\
+      \ in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the swarm. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the start of its next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can take either an action or a [[bonus-action-xphb|Bonus Action]]\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Aura"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Small creature. The\
-      \ swarm can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ or gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]."
+      \ swarm can't regain [[hit-points-xphb|Hit Points]]\
+      \ or gain [[temporary-hit-points-xphb|Temporary Hit Points]]."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Rend attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Slashing damage,\
-      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]]."
+      \ or 9 (3d4 + 2) Slashing damage if the swarm is [[bloodied-xphb|Bloodied]]."
     "name": "Rend"
 "source":
   - "XMM"

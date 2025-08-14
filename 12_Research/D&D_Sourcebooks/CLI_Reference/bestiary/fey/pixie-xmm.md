@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pixie-xmm-pixie-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/pixie-xmm|Pixie]]
+# [[pixie-xmm|Pixie]]
 *Source: Monster Manual (2024) p. 244*  
 
 Pixies spend their days frolicking and exploring and avoid direct conflict when they can.
@@ -59,29 +59,29 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
   - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
 "cr": "1/4"
 "traits":
-  - "desc": "The pixie has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The pixie has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit:\
-      \ 1 Radiant damage, and the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
-      \ or [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition (pixie's\
+      \ 1 Radiant damage, and the target has the [[conditions#Charmed|Charmed]]\
+      \ or [[conditions#Poisoned|Poisoned]] condition (pixie's\
       \ choice) until the start of the pixie's next turn."
     "name": "Faerie Dust"
   - "desc": "The pixie casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/dancing-lights-xphb|Dancing Lights]],\
-      \ [[/03_Mechanics/CLI/spells/druidcraft-xphb|Druidcraft]], [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]]\
-      \ (self only)\n\n1/day each: [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[/03_Mechanics/CLI/spells/fly-xphb|Fly]], [[/03_Mechanics/CLI/spells/sleep-xphb|Sleep]]"
+      \ will: [[dancing-lights-xphb|Dancing Lights]],\
+      \ [[druidcraft-xphb|Druidcraft]], [[invisibility-xphb|Invisibility]]\
+      \ (self only)\n\n1/day each: [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[fly-xphb|Fly]], [[sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

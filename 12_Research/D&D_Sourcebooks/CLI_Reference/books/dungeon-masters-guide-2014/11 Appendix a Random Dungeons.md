@@ -34,7 +34,7 @@ The Starting Area table produces a chamber or a set of corridors at the entrance
 
 Once you've selected the entrance, roll on the appropriate table for each passage or door leading away from the starting area. Passages each extend 10 feet beyond the starting area. After that point, check on the Passage table for each passage to determine what lies beyond. Use the Beyond a Door table to determine what lies behind doors and secret doors.
 
-![[/03_Mechanics/CLI/tables/starting-area|Starting Area]]
+![[starting-area|Starting Area]]
 
 ## Passages
 
@@ -42,17 +42,17 @@ When generating passages and corridors, roll on the Passage table multiple times
 
 Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `d12` on the Passage Width table. If it comes from a chamber, roll a `d20` on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
 
-![[/03_Mechanics/CLI/tables/passages-passage|Passages; Passage]]
+![[passages-passage|Passages; Passage]]
 
-![[/03_Mechanics/CLI/tables/passages-passage-width|Passages; Passage Width]]
+![[passages-passage-width|Passages; Passage Width]]
 
 ## Doors
 
 Whenever a table roll indicates a door, roll on the Door Type table to determine its nature, then roll on the Beyond a Door table to see what lies on the other side of it. If a door is barred, you decide which side of the door the bar is on. Unlocked doors can also be stuck, at your discretion. See chapter 5, "Adventure Environments," for information on doors and portcullises.
 
-![[/03_Mechanics/CLI/tables/doors-door-type|Doors; Door Type]]
+![[doors-door-type|Doors; Door Type]]
 
-![[/03_Mechanics/CLI/tables/doors-beyond-a-door|Doors; Beyond a Door]]
+![[doors-beyond-a-door|Doors; Beyond a Door]]
 
 ## Chambers
 
@@ -60,19 +60,19 @@ Whenever a roll on a table indicates a chamber, use the Chamber table to define 
 
 Use the tables in the "Stocking a Dungeon" section to determine the contents of a chamber.
 
-![[/03_Mechanics/CLI/tables/chambers-chamber|Chambers; Chamber]]
+![[chambers-chamber|Chambers; Chamber]]
 
-![[/03_Mechanics/CLI/tables/chambers-chamber-exits|Chambers; Chamber Exits]]
+![[chambers-chamber-exits|Chambers; Chamber Exits]]
 
-![[/03_Mechanics/CLI/tables/chambers-exit-location|Chambers; Exit Location]]
+![[chambers-exit-location|Chambers; Exit Location]]
 
-![[/03_Mechanics/CLI/tables/chambers-exit-type|Chambers; Exit Type]]
+![[chambers-exit-type|Chambers; Exit Type]]
 
 ## Stairs
 
 Stairs can include any means of going up and down, including ramps, chimneys, open shafts, elevators, and ladders. If your dungeon has more than one level, the amount of space between levels is up to you. A distance of 30 feet works fine for most dungeons.
 
-![[/03_Mechanics/CLI/tables/stairs|Stairs]]
+![[stairs|Stairs]]
 
 ## Connecting Areas
 
@@ -94,31 +94,31 @@ For each chamber on your dungeon map, establish its purpose or use the tables be
 
 Relying on random rolls to stock an entire dungeon can lead to incongruous results. A tiny room might end up being identified as a temple, while the huge chamber next door serves as storage. It can be fun to try to make sense of such strange design ideas, but make changes as you see fit. You can set aside a few key rooms and create specific contents for them.
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-death-trap|Chamber Purpose; Dungeon: Death Trap]]
+![[chamber-purpose-dungeon-death-trap|Chamber Purpose; Dungeon: Death Trap]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-lair|Chamber Purpose; Dungeon: Lair]]
+![[chamber-purpose-dungeon-lair|Chamber Purpose; Dungeon: Lair]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-maze|Chamber Purpose; Dungeon: Maze]]
+![[chamber-purpose-dungeon-maze|Chamber Purpose; Dungeon: Maze]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-mine|Chamber Purpose; Dungeon: Mine]]
+![[chamber-purpose-dungeon-mine|Chamber Purpose; Dungeon: Mine]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-planar-gate|Chamber Purpose; Dungeon: Planar Gate]]
+![[chamber-purpose-dungeon-planar-gate|Chamber Purpose; Dungeon: Planar Gate]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-stronghold|Chamber Purpose; Dungeon: Stronghold]]
+![[chamber-purpose-dungeon-stronghold|Chamber Purpose; Dungeon: Stronghold]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-temple-or-shrine|Chamber Purpose; Dungeon: Temple or Shrine]]
+![[chamber-purpose-dungeon-temple-or-shrine|Chamber Purpose; Dungeon: Temple or Shrine]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-tomb|Chamber Purpose; Dungeon: Tomb]]
+![[chamber-purpose-dungeon-tomb|Chamber Purpose; Dungeon: Tomb]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-dungeon-treasure-vault|Chamber Purpose; Dungeon: Treasure Vault]]
+![[chamber-purpose-dungeon-treasure-vault|Chamber Purpose; Dungeon: Treasure Vault]]
 
-![[/03_Mechanics/CLI/tables/chamber-purpose-general-dungeon-chambers|Chamber Purpose; General Dungeon Chambers]]
+![[chamber-purpose-general-dungeon-chambers|Chamber Purpose; General Dungeon Chambers]]
 
 ### Current Chamber State
 
 If a dungeon has a tumultuous history, you can roll to determine the current condition of any particular area. Otherwise, if the room is still used for its intended purpose, it remains intact.
 
-![[/03_Mechanics/CLI/tables/current-chamber-state|Current Chamber State]]
+![[current-chamber-state|Current Chamber State]]
 
 ### Chamber Contents
 
@@ -126,7 +126,7 @@ Once you have a sense of the purpose of the various dungeon chambers, you can th
 
 In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the dominant inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
 
-![[/03_Mechanics/CLI/tables/dungeon-chamber-contents|Dungeon Chamber Contents]]
+![[dungeon-chamber-contents|Dungeon Chamber Contents]]
 
 ### Monsters and Motivations
 
@@ -138,13 +138,13 @@ Not all monsters are automatically hostile. When placing monsters in your dungeo
 
 For large groups of monsters encountered across multiple chambers, motivation could apply to the entire group, or each subgroup could have conflicting goals.
 
-![[/03_Mechanics/CLI/tables/monsters-and-motivations-monster-motivation|Monsters and Motivations; Monster Motivation]]
+![[monsters-and-motivations-monster-motivation|Monsters and Motivations; Monster Motivation]]
 
 ### Random Dungeon Hazards
 
 Hazards are rarely found in inhabited areas, because monsters either clear them away or avoid them. Shriekers and violet fungi are described in the *Monster Manual*. The other hazards on the table are described in chapter 5, "Adventure Environments."
 
-![[/03_Mechanics/CLI/tables/random-dungeon-hazards-dungeon-hazards|Random Dungeon Hazards; Dungeon Hazards]]
+![[random-dungeon-hazards-dungeon-hazards|Random Dungeon Hazards; Dungeon Hazards]]
 
 ### Random Obstacles
 
@@ -152,17 +152,17 @@ Obstacles block progress through the dungeon. In some cases, what adventurers co
 
 Obstacles can affect more than one room. A chasm might run through several passages and chambers, or send cracks through the stonework in a wider area around it. An area of battering winds that emanates from a magic altar could stir the air less dangerously for hundreds of feet in all directions.
 
-![[/03_Mechanics/CLI/tables/random-obstacles-obstacles|Random Obstacles; Obstacles]]
+![[random-obstacles-obstacles|Random Obstacles; Obstacles]]
 
 ### Random Traps
 
 If you need a trap quickly or want to drop random traps into a dungeon, use the sample traps presented in chapter 5, "Adventure Environments" or the tables below. If you use the tables, start with the Trap Effects and Trap Trigger tables to decide the type of trap, then use the Trap Damage Severity tables to decide how deadly it should be. For more information on trap damage severity, see chapter 5.
 
-![[/03_Mechanics/CLI/tables/random-traps-trap-trigger|Random Traps; Trap Trigger]]
+![[random-traps-trap-trigger|Random Traps; Trap Trigger]]
 
-![[/03_Mechanics/CLI/tables/random-traps-trap-damage-severity|Random Traps; Trap Damage Severity]]
+![[random-traps-trap-damage-severity|Random Traps; Trap Damage Severity]]
 
-![[/03_Mechanics/CLI/tables/random-traps-trap-effects|Random Traps; Trap Effects]]
+![[random-traps-trap-effects|Random Traps; Trap Effects]]
 
 ### Random Tricks
 
@@ -170,9 +170,9 @@ Tricks are quirkier and less deadly than traps. Some are effects left behind by 
 
 The following tables allow you to generate random tricks. Roll first to determine an object that the trick is placed on, then roll to determine the nature of the trick. Some tricks are permanent effects that can't be dispelled; others are temporary or can be neutralized with a dispel magic spell. You decide which is which.
 
-![[/03_Mechanics/CLI/tables/random-tricks-trick-objects|Random Tricks; Trick Objects]]
+![[random-tricks-trick-objects|Random Tricks; Trick Objects]]
 
-![[/03_Mechanics/CLI/tables/random-tricks-tricks|Random Tricks; Tricks]]
+![[random-tricks-tricks|Random Tricks; Tricks]]
 
 ### Random treasures
 
@@ -190,25 +190,25 @@ The tables in this section provide miscellaneous items and points of interest th
 
 To generate dungeon dressing at random, roll once on each of the following tables: Noises, Air, and Odors. Roll as often as you like on the other tables in this section, or choose appropriate furnishings for the area.
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-noises|Dungeon Dressing; Noises]]
+![[dungeon-dressing-noises|Dungeon Dressing; Noises]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-air|Dungeon Dressing; Air]]
+![[dungeon-dressing-air|Dungeon Dressing; Air]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-odor|Dungeon Dressing; Odor]]
+![[dungeon-dressing-odor|Dungeon Dressing; Odor]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-general-features|Dungeon Dressing; General Features]]
+![[dungeon-dressing-general-features|Dungeon Dressing; General Features]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-general-furnishings-and-appointments|Dungeon Dressing; General Furnishings and Appointments]]
+![[dungeon-dressing-general-furnishings-and-appointments|Dungeon Dressing; General Furnishings and Appointments]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-religious-articles-and-furnishings|Dungeon Dressing; Religious Articles and Furnishings]]
+![[dungeon-dressing-religious-articles-and-furnishings|Dungeon Dressing; Religious Articles and Furnishings]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-mage-furnishings|Dungeon Dressing; Mage Furnishings]]
+![[dungeon-dressing-mage-furnishings|Dungeon Dressing; Mage Furnishings]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-utensils-and-personal-items|Dungeon Dressing; Utensils and Personal Items]]
+![[dungeon-dressing-utensils-and-personal-items|Dungeon Dressing; Utensils and Personal Items]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-container-contents|Dungeon Dressing; Container Contents]]
+![[dungeon-dressing-container-contents|Dungeon Dressing; Container Contents]]
 
-![[/03_Mechanics/CLI/tables/dungeon-dressing-books-scrolls-and-tomes|Dungeon Dressing; Books, Scrolls, and Tomes]]
+![[dungeon-dressing-books-scrolls-and-tomes|Dungeon Dressing; Books, Scrolls, and Tomes]]
 
 ## Player-Facing Summary
 

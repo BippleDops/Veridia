@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[12_Research/D&D_References/The Senator]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Senator]]
+- [[12_Research/D&D_References/The Senator]]
 
 ## Player-Facing Summary
 

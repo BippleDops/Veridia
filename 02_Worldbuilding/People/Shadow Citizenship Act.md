@@ -23,12 +23,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg]]
 
 
 # Shadow Citizenship Act
@@ -116,7 +112,7 @@ The Shadow Citizenship Act provides excellent framework for exploring themes of 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[Senator Glaucus]]
 
 
 ## Appearance
@@ -158,7 +154,7 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Citizenship Act]]
+- [[Shadow Citizenship Act]]
 
 <!-- enriched: true -->
 iched: true -->

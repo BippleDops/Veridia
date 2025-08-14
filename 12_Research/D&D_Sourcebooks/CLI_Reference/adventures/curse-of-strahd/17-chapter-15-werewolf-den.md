@@ -29,7 +29,7 @@ Kiril would arm the children with weapons and force them to fight each other to 
 
 This ideological divide couldn't be reconciled and led to many disagreements. The other werewolves were split between the two camps, and it seemed likely that either Kiril or Emil would die before the conflict could be resolved.
 
-> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > The wolves began to howl. They knew me. All the wolves of Barovia did.
 
@@ -83,11 +83,11 @@ If the characters arrive here with [[/03_Mechanics/CLI/bestiary/npc/emil-toranes
 > Here, the cave splits to the left and right. Standing on a five-foot-high ledge between the divide are two feral-looking women wearing shredded clothing and clutching spears.
 ^695
 
-Aziana and Davanka, two [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]] in human form, stand guard on the ledge. They sound the alarm when they spot intruders. Any loud noise here can be heard throughout the den, bringing quick reinforcements from areas Z3 and Z5. The werewolves fight to the death.
+Aziana and Davanka, two [[werewolf-xmm|werewolves]] in human form, stand guard on the ledge. They sound the alarm when they spot intruders. Any loud noise here can be heard throughout the den, bringing quick reinforcements from areas Z3 and Z5. The werewolves fight to the death.
 
 ### Z3. Wolf Den
 
-Nine [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] and a [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
+Nine [[wolf-xmm|wolves]] and a [[werewolf-xmm|werewolf]] in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
 
 > [!readaloud] 
 > 
@@ -123,19 +123,19 @@ The crates on the eastern ledge contain heaps of adult-sized clothing.
 > A maze of torchlit tunnels and caves expands in front of you. Bones lie strewn upon the floor.
 ^69d
 
-The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to move silently through this area.
+The ceiling here is 10 feet high. The bones on the floor are a warning system. They crunch loudly underfoot, and creatures have disadvantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to move silently through this area.
 
 #### Z5a. South Cave
 
-Bianca, a white-haired [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] in wolf form who is [[/03_Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos|Kiril Stoyanovich]]'s mate, sleeps here. She reacts quickly to sounds of alarm, attacking any intruders she sees.
+Bianca, a white-haired [[werewolf-xmm|werewolf]] in wolf form who is [[/03_Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos|Kiril Stoyanovich]]'s mate, sleeps here. She reacts quickly to sounds of alarm, attacking any intruders she sees.
 
 #### Z5b. North Cave
 
-Wensencia, a [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] in wolf form, sleeps here with Kellen, a ten-year-old werewolf in wolf form. Kellen is a noncombatant with AC 10, 2 hit points, and a werewolf's damage immunities. He hugs a wooden doll that eerily resembles one of the characters, but is painted and dressed to look like a zombie. A tiny slogan etched into the zombie doll reads, "Is No Fun, Is No Blinsky!"
+Wensencia, a [[werewolf-xmm|werewolf]] in wolf form, sleeps here with Kellen, a ten-year-old werewolf in wolf form. Kellen is a noncombatant with AC 10, 2 hit points, and a werewolf's damage immunities. He hugs a wooden doll that eerily resembles one of the characters, but is painted and dressed to look like a zombie. A tiny slogan etched into the zombie doll reads, "Is No Fun, Is No Blinsky!"
 
 When an alarm sounds, Wencensia takes Kellen to area Z7, locks him in one of the empty cages, and tells him to take human form, which he does. She then joins her fellow werewolves in the den's defense.
 
-Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell or a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell on Kellen ends his lycanthropy.
+Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a [[greater-restoration-xphb|greater restoration]] spell or a [[remove-curse-xphb|remove curse]] spell on Kellen ends his lycanthropy.
 
 ### Z6. Kiril's Cave
 
@@ -157,7 +157,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 > A crude wooden statue stands between the cages. It bears the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.
 ^6a3
 
-The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] in human form named [[/03_Mechanics/CLI/bestiary/npc/zuleika-toranescu-cos|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
+The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a [[werewolf-xmm|werewolf]] in human form named [[/03_Mechanics/CLI/bestiary/npc/zuleika-toranescu-cos|Zuleika Toranescu]], who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/129-cos15-03.webp#center|Zuleika Toranescu]]
 
@@ -181,7 +181,7 @@ Anyone who steals from Mother Night is cursed. The werewolves know this, and thu
 
 Any creature that takes treasure from this pile is haunted by horrible dreams every night lasting from dusk until dawn. The curse affects only the creature that did the pilfering and isn't passed on to anyone else who might come into possession of the item. Returning a stolen item to the treasure pile doesn't end the curse.
 
-A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] or a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
+A creature cursed in this way gains no benefit from finishing a short or long rest at night (resting during the day works normally, since the curse is dormant from dawn to dusk). A [[greater-restoration-xphb|greater restoration]] or a [[remove-curse-xphb|remove curse]] spell cast on the creature ends the curse on it. The curse on the creature also ends if it leaves Barovia.
 
 #### Fortunes of Ravenloft
 
@@ -208,7 +208,7 @@ This event doesn't occur if the characters previously encountered and defeated K
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/130-cos15-04.webp#center|Kiril Stoyanovich]]
 
-Every hour the characters spend inside the werewolf den, roll a `d20`. On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[/03_Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos|Kiril Stoyanovich]] (a [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] with 90 hit points), six normal [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolves]], and nine [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]]. All the werewolves arrive in wolf form.
+Every hour the characters spend inside the werewolf den, roll a `d20`. On a roll of 18 or higher, the werewolf hunting party returns, dragging a dead mountain goat. It's a meager feast, at best. The party consists of [[/03_Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos|Kiril Stoyanovich]] (a [[werewolf-xmm|werewolf]] with 90 hit points), six normal [[werewolf-xmm|werewolves]], and nine [[wolf-xmm|wolves]]. All the werewolves arrive in wolf form.
 
 If the wolves can see evidence of an assault on the den (such as if the guards at area Z2 are absent or dead), the werewolves assume hybrid form. Kiril sends three werewolves up the mountainside to area Z8 to enter the den from above while he and the remainder of the hunting party make their way deeper into the den.
 
@@ -226,7 +226,7 @@ If the characters get the children away from the den while Kiril is alive, Kiril
 
 If the characters aren't sure where to take the children, a [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] (see appendix D) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk (chapter 8). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Wizard of Wines winery (chapter 12) and reports what has happened to [[/03_Mechanics/CLI/bestiary/npc/davian-martikov-cos|Davian Martikov]].
 
-The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [[/03_Mechanics/CLI/spells/calm-emotions-xphb|calm emotions]] spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]], [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]], or [[/03_Mechanics/CLI/skills#Deception|Deception]]) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
+The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [[calm-emotions-xphb|calm emotions]] spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([[skills#Intimidation|Intimidation]], [[skills#Persuasion|Persuasion]], or [[skills#Deception|Deception]]) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
 
 If the characters take the children to Krezk, the villagers there look after the children and see that they are fed and properly clothed. If the characters take them to Vallaki instead, the Martikovs allow the children to stay at the Blue Water Inn until the characters return to collect them.
 

@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mammoth-xmm-mammoth-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/mammoth-xmm|Mammoth]]
+# [[mammoth-xmm|Mammoth]]
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Mammoth (XMM)"
@@ -61,11 +61,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature and the mammoth moved\
       \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
+      \ [[conditions#Prone|Prone]] condition."
     "name": "Gore"
 "bonus_actions":
   - "desc": "Dexterity Saving Throw: DC 18, one creature within 5 feet that has\
-      \ the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. Failure: 29\
+      \ the [[conditions#Prone|Prone]] condition. Failure: 29\
       \ (4d10 + 7) Bludgeoning damage. Success: Half damage."
     "name": "Trample"
 "source":

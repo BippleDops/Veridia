@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-white-abishai-mpmm-v1-white-abishai-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/white-abishai-mpmm|White Abishai]]
+# [[white-abishai-mpmm|White Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -66,12 +66,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the abishai's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -97,7 +97,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "In response to taking damage, the abishai makes one Bite attack against\
       \ a random creature within 5 feet of it. If no creature is within reach, the\
       \ abishai moves up to half its speed toward an enemy it can see, without provoking\
-      \ [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]."
+      \ [[actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Vicious Reprisal"
 "source":
   - "MPMM"

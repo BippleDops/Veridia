@@ -24,15 +24,15 @@ world: Both
 *Source: Strixhaven: A Curriculum of Chaos p. 35*  
 
 
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]], [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]  
+- **Skill Proficiencies.** [[skills#Intimidation|Intimidation]], [[skills#Persuasion|Persuasion]]  
 - **Languages.** Two of your choice  
-- **Equipment.** A [[/03_Mechanics/CLI/items/ink-xphb|bottle of black ink]], an [[/03_Mechanics/CLI/items/ink-pen-xphb|ink pen]], a book of poetry, a school uniform, and a [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 15 gp  
+- **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], a book of poetry, a school uniform, and a [[pouch-xphb|pouch]] containing 15 gp  
 
 You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.
 
 ## Feature: Silverquill Initiate
 
-You gain the [[/03_Mechanics/CLI/feats/strixhaven-initiate-scc|Strixhaven Initiate]] feat and must choose Silverquill within it.
+You gain the [[strixhaven-initiate-scc|Strixhaven Initiate]] feat and must choose Silverquill within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Silverquill Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -40,18 +40,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/03_Mechanics/CLI/spells/dissonant-whispers-xphb|Dissonant Whispers]], [[/03_Mechanics/CLI/spells/silvery-barbs-scc|Silvery Barbs]] |
-| 2nd | [[/03_Mechanics/CLI/spells/calm-emotions-xphb|Calm Emotions]], [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]] |
-| 3rd | [[/03_Mechanics/CLI/spells/beacon-of-hope-xphb|Beacon of Hope]], [[/03_Mechanics/CLI/spells/daylight-xphb|Daylight]] |
-| 4th | [[/03_Mechanics/CLI/spells/compulsion-xphb|Compulsion]], [[/03_Mechanics/CLI/spells/confusion-xphb|Confusion]] |
-| 5th | [[/03_Mechanics/CLI/spells/dominate-person-xphb|Dominate Person]], [[/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb|Rary's Telepathic Bond]] |
+| 1st | [[dissonant-whispers-xphb|Dissonant Whispers]], [[silvery-barbs-scc|Silvery Barbs]] |
+| 2nd | [[calm-emotions-xphb|Calm Emotions]], [[darkness-xphb|Darkness]] |
+| 3rd | [[beacon-of-hope-xphb|Beacon of Hope]], [[daylight-xphb|Daylight]] |
+| 4th | [[compulsion-xphb|Compulsion]], [[confusion-xphb|Confusion]] |
+| 5th | [[dominate-person-xphb|Dominate Person]], [[rarys-telepathic-bond-xphb|Rary's Telepathic Bond]] |
 ^silverquill-spells
 
 Consider customizing how your spells look when you cast them. Your Silverquill spells might be accompanied by visual effects resembling splotches of ink or radiating ripples of golden light. Any auditory effects of your spells often sound like amplified echoes of your own voice speaking the spells' verbal components—even amid the crash of lightning or a fiery eruption.
 
 ## Building a Silverquill Character
 
-Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [[/03_Mechanics/CLI/classes/wizard-xphb-illusionist-xphb|Illusion]] and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [[/03_Mechanics/CLI/classes/cleric-xphb-light-domain-xphb|Light]] and [[/03_Mechanics/CLI/classes/cleric-xphb-trickery-domain-xphb|Trickery]] also fit in well among the mages of Silverquill.
+Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [[wizard-xphb-illusionist-xphb|Illusion]] and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [[cleric-xphb-light-domain-xphb|Light]] and [[cleric-xphb-trickery-domain-xphb|Trickery]] also fit in well among the mages of Silverquill.
 
 A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.
 
@@ -75,7 +75,7 @@ With the college's intense standards looming over them, Silverquill students ran
 
 ### Silverquill Trinkets
 
-When you make your character, you may roll once on the [[/03_Mechanics/CLI/items/silverquill-trinket-scc|Silverquill Trinkets]] table, instead of on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [[silverquill-trinket-scc|Silverquill Trinkets]] table, instead of on the [[trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
 
 ## Player-Facing Summary
 

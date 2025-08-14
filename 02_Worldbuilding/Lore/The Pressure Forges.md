@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg)
-
-
-
+![[04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg]]
 
 
 ## Overview
@@ -45,6 +42,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Forges]]
+- [[12_Research/D&D_References/The Pressure Forges]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

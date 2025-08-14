@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
-
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Authority]]
+- [[Port Authority]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]

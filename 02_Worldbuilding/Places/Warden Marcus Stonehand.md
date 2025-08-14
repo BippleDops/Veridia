@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- aquatic
 - aquabyssos
 - campaign/arc
 - complete
@@ -22,11 +25,6 @@ type: Location
 updated: '2025-08-13T12:34:16.695956+00:00'
 world: Aquabyssos
 ---
-
-
-
-
-
 
 
 # Warden Marcus Stonehand
@@ -48,12 +46,14 @@ Marcus is a weathered human in his late forties, with graying hair kept in a mil
 He wears a modified warden's uniform designed for underwater environments, with reinforced materials and pressure-resistant components. His bearing reflects his military background - straight posture, precise movements, and an authoritative presence that commands respect from both staff and prisoners.
 
 ## Personality
+
 - Absolutely committed to fair treatment of all prisoners regardless of their crimes or connections
 - Believes strongly in the possibility of rehabilitation and redemption
 - Maintains strict discipline while showing genuine care for those under his authority
 - Refuses to be influenced by political pressure or factional interests
 
 ## Statistics
+
 **Medium humanoid (human), lawful good**
 - **AS** 17 (Studded Leather + Dex)
 - **HP** 95 (14d10 + 28)
@@ -65,6 +65,7 @@ He wears a modified warden's uniform designed for underwater environments, with 
 - **Challenge** 6 (2,300 XP)
 
 ### Special Abilities
+
 **Stone Hand.** Marcus's prosthetic hand grants him advantage on grappling checks and allows him to punch through stone and metal barriers.
 
 **Warden's Authority.** Marcus has advantage on Intimidation and Persuasion checks when dealing with prisoners or security matters.
@@ -72,6 +73,7 @@ He wears a modified warden's uniform designed for underwater environments, with 
 **Combat Veteran.** Marcus has advantage on initiative rolls and cannot be surprised while conscious.
 
 ### Actions
+
 **Multiattack.** Marcus makes two attacks with his truncheon or one truncheon attack and uses Stone Grip.
 
 **Enchanted Truncheon +1.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage. Target must make DC 15 Constitution save or be stunned until the end of their next turn.
@@ -97,6 +99,7 @@ Marcus is dealing with increased pressure from various factions wanting special 
 He's also investigating reports of attempts to communicate with high-security prisoners and evidence that some inmates may have connections to the broader conspiracy affecting the city.
 
 ## Relationships
+
 - **Prison Staff**: Loyal team that respects his leadership and principles
 - **City Justice System**: Professional relationships with judges and law enforcement
 - **All Factions**: Maintains strict neutrality despite pressure from all sides
@@ -104,6 +107,7 @@ He's also investigating reports of attempts to communicate with high-security pr
 - **Rehabilitation Specialists**: Works with various experts to improve prisoner programs
 
 ## Secrets
+
 - Has evidence that some high-profile prisoners are being secretly contacted by outside agents
 - Maintains detailed intelligence on prison gangs and their connections to city factions
 - Knows the identities of several undercover agents currently serving sentences
@@ -111,17 +115,19 @@ He's also investigating reports of attempts to communicate with high-security pr
 - Possesses information about corruption in the justice system that he's documenting for future action
 
 ## Quest Hooks
+
 1. Marcus approaches the party for help investigating external attempts to influence or extract information from prisoners.
 2. A prisoner with crucial information is targeted for assassination, and Marcus needs protection for them.
 3. The party needs to interview a dangerous prisoner, requiring negotiation with Marcus about security protocols.
 
 ## DM Notes
+
 Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to explore themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[12_Research/D&D_References/Pressure's End]]
 
 
 ## History
@@ -169,6 +175,10 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
+- [[12_Research/D&D_References/Warden Marcus Stonehand]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

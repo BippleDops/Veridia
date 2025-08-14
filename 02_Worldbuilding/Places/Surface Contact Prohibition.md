@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-surface-contact-prohibition-surface-contact-prohibition.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-contact-prohibition-surface-contact-prohibition.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Contact Prohibition]]
+- [[12_Research/D&D_References/Surface Contact Prohibition]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[12_Research/D&D_References/Abyssos Prime]]

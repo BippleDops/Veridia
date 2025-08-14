@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator Abyssos Traditionkeeper]]
+- [[12_Research/D&D_References/Senator Abyssos Traditionkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[12_Research/D&D_References/Tethyan Hegemony]]

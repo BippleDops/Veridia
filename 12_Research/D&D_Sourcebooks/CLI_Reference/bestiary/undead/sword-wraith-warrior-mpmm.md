@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-warrior-mpmm-sword-wraith-warrior-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/sword-wraith-warrior-mpmm|Sword Wraith Warrior]]
+# [[sword-wraith-warrior-mpmm|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -41,7 +41,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[/03_Mechanics/CLI/items/chain-shirt-xphb|chain shirt]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
+"ac_class": "[[chain-shirt-xphb|chain shirt]], [[shield-xphb|shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -55,9 +55,9 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "speed": "30 ft."
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "the languages it knew in life"
 "cr": "3"

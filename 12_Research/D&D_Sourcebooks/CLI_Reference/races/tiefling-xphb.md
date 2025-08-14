@@ -31,26 +31,26 @@ world: Both
 
 ### Darkvision
 
-You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 60 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 ### Fiendish Legacy
 
 You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
 
 **Fiendish Legacies**
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 |--------|---------|---------|---------|
-| Abyssal | You have Resistance to Poison damage. You also know the [[/03_Mechanics/CLI/spells/poison-spray-xphb|Poison Spray]] cantrip. | [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|Ray of Sickness]] | [[/03_Mechanics/CLI/spells/hold-person-xphb|Hold Person]] |
-| Chthonic | You have Resistance to Necrotic damage. You also know the [[/03_Mechanics/CLI/spells/chill-touch-xphb|Chill Touch]] cantrip. | [[/03_Mechanics/CLI/spells/false-life-xphb|False Life]] | [[/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
-| Infernal | You have Resistance to Fire damage. You also know the [[/03_Mechanics/CLI/spells/fire-bolt-xphb|Fire Bolt]] cantrip. | [[/03_Mechanics/CLI/spells/hellish-rebuke-xphb|Hellish Rebuke]] | [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]] |
+| Abyssal | You have Resistance to Poison damage. You also know the [[poison-spray-xphb|Poison Spray]] cantrip. | [[ray-of-sickness-xphb|Ray of Sickness]] | [[hold-person-xphb|Hold Person]] |
+| Chthonic | You have Resistance to Necrotic damage. You also know the [[chill-touch-xphb|Chill Touch]] cantrip. | [[false-life-xphb|False Life]] | [[ray-of-enfeeblement-xphb|Ray of Enfeeblement]] |
+| Infernal | You have Resistance to Fire damage. You also know the [[fire-bolt-xphb|Fire Bolt]] cantrip. | [[hellish-rebuke-xphb|Hellish Rebuke]] | [[darkness-xphb|Darkness]] |
 ^fiendish-legacies
 
 ### Otherworldly Presence
 
-You know the [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+You know the [[thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
 ## Description
 
@@ -73,7 +73,7 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 
 > [!gallery]
 ![[/03_Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling"|Infernal Tiefling, Chthoni...]]
-![](/03_Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp)
+![[12_Research/D&D_Sourcebooks/CLI_Reference/races/img/157-05-028-armored-tiefling.webp]]
 
 ## Player-Facing Summary
 

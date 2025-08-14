@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-xmm-earth-elemental-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/earth-elemental-xmm|Earth Elemental]]
+# [[earth-elemental-xmm|Earth Elemental]]
 *Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Earth Elemental
@@ -85,9 +85,9 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -104,7 +104,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
       \ damage."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Rock Launch"
 "source":

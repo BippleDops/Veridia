@@ -23,21 +23,21 @@ status: active
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[/03_Mechanics/CLI/items/barding|Barding]] | ×4 | ×2 |
-| [[/03_Mechanics/CLI/items/bit-and-bridle|Bit and bridle]] | 2 gp | 1 lb. |
-| [[/03_Mechanics/CLI/items/carriage-xphb|Carriage]] | 100 gp | 600 lb. |
-| [[/03_Mechanics/CLI/items/cart-xphb|Cart]] | 15 gp | 200 lb. |
-| [[/03_Mechanics/CLI/items/chariot-xphb|Chariot]] | 250 gp | 100 lb. |
+| [[barding|Barding]] | ×4 | ×2 |
+| [[bit-and-bridle|Bit and bridle]] | 2 gp | 1 lb. |
+| [[carriage-xphb|Carriage]] | 100 gp | 600 lb. |
+| [[cart-xphb|Cart]] | 15 gp | 200 lb. |
+| [[chariot-xphb|Chariot]] | 250 gp | 100 lb. |
 | Animal Feed (per day) | 5 cp | 10 lb. |
 | *Saddle* |  |  |
-| &emsp;[[/03_Mechanics/CLI/items/exotic-saddle-xphb|Exotic]] | 60 gp | 40 lb. |
-| &emsp;[[/03_Mechanics/CLI/items/military-saddle-xphb|Military]] | 20 gp | 30 lb. |
-| &emsp;[[/03_Mechanics/CLI/items/pack-saddle|Pack]] | 5 gp | 15 lb. |
-| &emsp;[[/03_Mechanics/CLI/items/riding-saddle-xphb|Riding]] | 10 gp | 25 lb. |
-| [[/03_Mechanics/CLI/items/saddlebags|Saddlebags]] | 4 gp | 8 lb. |
-| [[/03_Mechanics/CLI/items/sled-xphb|Sled]] | 20 gp | 300 lb. |
+| &emsp;[[exotic-saddle-xphb|Exotic]] | 60 gp | 40 lb. |
+| &emsp;[[military-saddle-xphb|Military]] | 20 gp | 30 lb. |
+| &emsp;[[pack-saddle|Pack]] | 5 gp | 15 lb. |
+| &emsp;[[riding-saddle-xphb|Riding]] | 10 gp | 25 lb. |
+| [[saddlebags|Saddlebags]] | 4 gp | 8 lb. |
+| [[sled-xphb|Sled]] | 20 gp | 300 lb. |
 | Stabling (per day) | 5 sp | — |
-| [[/03_Mechanics/CLI/items/wagon-xphb|Wagon]] | 35 gp | 400 lb. |
+| [[wagon-xphb|Wagon]] | 35 gp | 400 lb. |
 ^tack-harness-and-drawn-vehicles
 
 ## Player-Facing Summary

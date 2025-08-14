@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-thri-kreen-marauder-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-marauder-xmm|Thri-kreen Marauder]]
+# [[thri-kreen-marauder-xmm|Thri-kreen Marauder]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.
@@ -66,11 +66,11 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Thri-kreen; telepathy 60 ft."

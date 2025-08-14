@@ -24,46 +24,46 @@ world: Both
 | Name | Cost | Damage | Weight | Properties |
 |------|------|--------|--------|------------|
 | *Simple Melee Weapons* |  |  |  |  |
-| &emsp;[[/03_Mechanics/CLI/items/club-xphb|Club]] | 1 sp | 1d4 bludgeoning | 2 lb. | Light |
-| &emsp;[[/03_Mechanics/CLI/items/dagger-xphb|Dagger]] | 2 gp | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) |
-| &emsp;[[/03_Mechanics/CLI/items/greatclub-xphb|Greatclub]] | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/handaxe-xphb|Handaxe]] | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) |
-| &emsp;[[/03_Mechanics/CLI/items/javelin-xphb|Javelin]] | 5 sp | 1d6 piercing | 2 lb. | Thrown (range 30/120) |
-| &emsp;[[/03_Mechanics/CLI/items/light-hammer-xphb|Light hammer]] | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |
-| &emsp;[[/03_Mechanics/CLI/items/mace-xphb|Mace]] | 5 gp | 1d6 bludgeoning | 4 lb. | — |
-| &emsp;[[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]] | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8) |
-| &emsp;[[/03_Mechanics/CLI/items/sickle-xphb|Sickle]] | 1 gp | 1d4 slashing | 2 lb. | Light |
-| &emsp;[[/03_Mechanics/CLI/items/spear-xphb|Spear]] | 1 gp | 1d6 piercing | 3 lb. | Thrown (range 20/60), versatile (1d8) |
+| &emsp;[[club-xphb|Club]] | 1 sp | 1d4 bludgeoning | 2 lb. | Light |
+| &emsp;[[dagger-xphb|Dagger]] | 2 gp | 1d4 piercing | 1 lb. | Finesse, light, thrown (range 20/60) |
+| &emsp;[[greatclub-xphb|Greatclub]] | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed |
+| &emsp;[[handaxe-xphb|Handaxe]] | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (range 20/60) |
+| &emsp;[[javelin-xphb|Javelin]] | 5 sp | 1d6 piercing | 2 lb. | Thrown (range 30/120) |
+| &emsp;[[light-hammer-xphb|Light hammer]] | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (range 20/60) |
+| &emsp;[[mace-xphb|Mace]] | 5 gp | 1d6 bludgeoning | 4 lb. | — |
+| &emsp;[[quarterstaff-xphb|Quarterstaff]] | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8) |
+| &emsp;[[sickle-xphb|Sickle]] | 1 gp | 1d4 slashing | 2 lb. | Light |
+| &emsp;[[spear-xphb|Spear]] | 1 gp | 1d6 piercing | 3 lb. | Thrown (range 20/60), versatile (1d8) |
 | *Simple Ranged Weapons* |  |  |  |  |
-| &emsp;[[/03_Mechanics/CLI/items/light-crossbow-xphb|Crossbow, light]] | 25 gp | 1d8 piercing | 5 lb. | Ammunition (range 80/320), loading, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/dart-xphb|Dart]] | 5 cp | 1d4 piercing | 1/4 lb. | Finesse, thrown (range 20/60) |
-| &emsp;[[/03_Mechanics/CLI/items/shortbow-xphb|Shortbow]] | 25 gp | 1d6 piercing | 2 lb. | Ammunition (range 80/320), two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/sling-xphb|Sling]] | 1 sp | 1d4 bludgeoning | — | Ammunition (range 30/120) |
+| &emsp;[[light-crossbow-xphb|Crossbow, light]] | 25 gp | 1d8 piercing | 5 lb. | Ammunition (range 80/320), loading, two-handed |
+| &emsp;[[dart-xphb|Dart]] | 5 cp | 1d4 piercing | 1/4 lb. | Finesse, thrown (range 20/60) |
+| &emsp;[[shortbow-xphb|Shortbow]] | 25 gp | 1d6 piercing | 2 lb. | Ammunition (range 80/320), two-handed |
+| &emsp;[[sling-xphb|Sling]] | 1 sp | 1d4 bludgeoning | — | Ammunition (range 30/120) |
 | *Martial Melee Weapons* |  |  |  |  |
-| &emsp;[[/03_Mechanics/CLI/items/battleaxe-xphb|Battleaxe]] | 10 gp | 1d8 slashing | 4 lb. | Versatile (1d10) |
-| &emsp;[[/03_Mechanics/CLI/items/flail-xphb|Flail]] | 10 gp | 1d8 bludgeoning | 2 lb. | — |
-| &emsp;[[/03_Mechanics/CLI/items/glaive-xphb|Glaive]] | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/greataxe-xphb|Greataxe]] | 30 gp | 1d12 slashing | 7 lb. | Heavy, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/greatsword-xphb|Greatsword]] | 50 gp | 2d6 slashing | 6 lb. | Heavy, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/halberd-xphb|Halberd]] | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/lance-xphb|Lance]] | 10 gp | 1d12 piercing | 6 lb. | Reach, special |
-| &emsp;[[/03_Mechanics/CLI/items/longsword-xphb|Longsword]] | 15 gp | 1d8 slashing | 3 lb. | Versatile (1d10) |
-| &emsp;[[/03_Mechanics/CLI/items/maul-xphb|Maul]] | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/morningstar-xphb|Morningstar]] | 15 gp | 1d8 piercing | 4 lb. | — |
-| &emsp;[[/03_Mechanics/CLI/items/pike-xphb|Pike]] | 5 gp | 1d10 piercing | 18 lb. | Heavy, reach, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/rapier-xphb|Rapier]] | 25 gp | 1d8 piercing | 2 lb. | Finesse |
-| &emsp;[[/03_Mechanics/CLI/items/scimitar-xphb|Scimitar]] | 25 gp | 1d6 slashing | 3 lb. | Finesse, light |
-| &emsp;[[/03_Mechanics/CLI/items/shortsword-xphb|Shortsword]] | 10 gp | 1d6 piercing | 2 lb. | Finesse, light |
-| &emsp;[[/03_Mechanics/CLI/items/trident-xphb|Trident]] | 5 gp | 1d6 piercing | 4 lb. | Thrown (range 20/60), versatile (1d8) |
-| &emsp;[[/03_Mechanics/CLI/items/war-pick-xphb|War pick]] | 5 gp | 1d8 piercing | 2 lb. | — |
-| &emsp;[[/03_Mechanics/CLI/items/warhammer-xphb|Warhammer]] | 15 gp | 1d8 bludgeoning | 2 lb. | Versatile (1d10) |
-| &emsp;[[/03_Mechanics/CLI/items/whip-xphb|Whip]] | 2 gp | 1d4 slashing | 3 lb. | Finesse, reach |
+| &emsp;[[battleaxe-xphb|Battleaxe]] | 10 gp | 1d8 slashing | 4 lb. | Versatile (1d10) |
+| &emsp;[[flail-xphb|Flail]] | 10 gp | 1d8 bludgeoning | 2 lb. | — |
+| &emsp;[[glaive-xphb|Glaive]] | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
+| &emsp;[[greataxe-xphb|Greataxe]] | 30 gp | 1d12 slashing | 7 lb. | Heavy, two-handed |
+| &emsp;[[greatsword-xphb|Greatsword]] | 50 gp | 2d6 slashing | 6 lb. | Heavy, two-handed |
+| &emsp;[[halberd-xphb|Halberd]] | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
+| &emsp;[[lance-xphb|Lance]] | 10 gp | 1d12 piercing | 6 lb. | Reach, special |
+| &emsp;[[longsword-xphb|Longsword]] | 15 gp | 1d8 slashing | 3 lb. | Versatile (1d10) |
+| &emsp;[[maul-xphb|Maul]] | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed |
+| &emsp;[[morningstar-xphb|Morningstar]] | 15 gp | 1d8 piercing | 4 lb. | — |
+| &emsp;[[pike-xphb|Pike]] | 5 gp | 1d10 piercing | 18 lb. | Heavy, reach, two-handed |
+| &emsp;[[rapier-xphb|Rapier]] | 25 gp | 1d8 piercing | 2 lb. | Finesse |
+| &emsp;[[scimitar-xphb|Scimitar]] | 25 gp | 1d6 slashing | 3 lb. | Finesse, light |
+| &emsp;[[shortsword-xphb|Shortsword]] | 10 gp | 1d6 piercing | 2 lb. | Finesse, light |
+| &emsp;[[trident-xphb|Trident]] | 5 gp | 1d6 piercing | 4 lb. | Thrown (range 20/60), versatile (1d8) |
+| &emsp;[[war-pick-xphb|War pick]] | 5 gp | 1d8 piercing | 2 lb. | — |
+| &emsp;[[warhammer-xphb|Warhammer]] | 15 gp | 1d8 bludgeoning | 2 lb. | Versatile (1d10) |
+| &emsp;[[whip-xphb|Whip]] | 2 gp | 1d4 slashing | 3 lb. | Finesse, reach |
 | *Martial Ranged Weapons* |  |  |  |  |
-| &emsp;[[/03_Mechanics/CLI/items/blowgun-xphb|Blowgun]] | 10 gp | 1 piercing | 1 lb. | Ammunition (range 25/100), loading |
-| &emsp;[[/03_Mechanics/CLI/items/hand-crossbow-xphb|Crossbow, hand]] | 75 gp | 1d6 piercing | 3 lb. | Ammunition (range 30/120), light, loading |
-| &emsp;[[/03_Mechanics/CLI/items/heavy-crossbow-xphb|Crossbow, heavy]] | 50 gp | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/longbow-xphb|Longbow]] | 50 gp | 1d8 piercing | 2 lb. | Ammunition (range 150/600), heavy, two-handed |
-| &emsp;[[/03_Mechanics/CLI/items/net-xphb|Net]] | 1 gp | — | 3 lb. | Special, thrown (range 5/15) |
+| &emsp;[[blowgun-xphb|Blowgun]] | 10 gp | 1 piercing | 1 lb. | Ammunition (range 25/100), loading |
+| &emsp;[[hand-crossbow-xphb|Crossbow, hand]] | 75 gp | 1d6 piercing | 3 lb. | Ammunition (range 30/120), light, loading |
+| &emsp;[[heavy-crossbow-xphb|Crossbow, heavy]] | 50 gp | 1d10 piercing | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
+| &emsp;[[longbow-xphb|Longbow]] | 50 gp | 1d8 piercing | 2 lb. | Ammunition (range 150/600), heavy, two-handed |
+| &emsp;[[net-xphb|Net]] | 1 gp | — | 3 lb. | Special, thrown (range 5/15) |
 ^weapons
 
 ## Player-Facing Summary

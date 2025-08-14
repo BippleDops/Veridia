@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-pirate-captain-blacktide-pirate-captain-blacktide.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pirate-captain-blacktide-pirate-captain-blacktide.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet]]
 
 ## Player-Facing Summary
 

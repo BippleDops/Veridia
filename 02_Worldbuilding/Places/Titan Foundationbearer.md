@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-titan-foundationbearer-titan-foundationbearer.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]
 
 ## Player-Facing Summary
 

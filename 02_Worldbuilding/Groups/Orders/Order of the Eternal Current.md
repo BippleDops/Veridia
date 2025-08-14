@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Tide Turner]]
+- [[Tide Turner]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Tide Turner]]
+- [[Tide Turner]]
 
 ## Player-Facing Summary
 

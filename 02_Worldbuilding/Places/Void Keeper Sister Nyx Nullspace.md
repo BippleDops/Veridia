@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void Keeper Sister Nyx Nullspace]]
+- [[12_Research/D&D_References/Void Keeper Sister Nyx Nullspace]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Lock]]
+- [[12_Research/D&D_References/The Lock]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

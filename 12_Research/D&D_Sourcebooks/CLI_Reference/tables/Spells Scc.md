@@ -26,11 +26,11 @@ world: Both
 
 | Level | Spell | School | Class |
 |-------|-------|--------|-------|
-| 1st | [[/03_Mechanics/CLI/spells/silvery-barbs-scc|Silvery Barbs]] | Enchantment | [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
-| 2nd | [[/03_Mechanics/CLI/spells/borrowed-knowledge-scc|Borrowed Knowledge]] | Divination | [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]], [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
-| 2nd | [[/03_Mechanics/CLI/spells/kinetic-jaunt-scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
-| 2nd | [[/03_Mechanics/CLI/spells/vortex-warp-scc|Vortex Warp]] | Conjuration | Artificer,* [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
-| 2nd | [[/03_Mechanics/CLI/spells/wither-and-bloom-scc|Wither and Bloom]] | Necromancy | [[/03_Mechanics/CLI/classes/druid-xphb|Druid]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]], [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] |
+| 1st | [[silvery-barbs-scc|Silvery Barbs]] | Enchantment | [[bard-xphb|Bard]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
+| 2nd | [[borrowed-knowledge-scc|Borrowed Knowledge]] | Divination | [[bard-xphb|Bard]], [[cleric-xphb|Cleric]], [[warlock-xphb|Warlock]], [[wizard-xphb|Wizard]] |
+| 2nd | [[kinetic-jaunt-scc|Kinetic Jaunt]] | Transmutation | Artificer,* [[bard-xphb|Bard]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
+| 2nd | [[vortex-warp-scc|Vortex Warp]] | Conjuration | Artificer,* [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
+| 2nd | [[wither-and-bloom-scc|Wither and Bloom]] | Necromancy | [[druid-xphb|Druid]], [[sorcerer-xphb|Sorcerer]], [[wizard-xphb|Wizard]] |
 ^spells
 
 *The artificer class appears in "Tasha's Cauldron of Everything" and "Eberron: Rising from the Last War".

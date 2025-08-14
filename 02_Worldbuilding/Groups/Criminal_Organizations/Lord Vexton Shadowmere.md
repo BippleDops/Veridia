@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Shadow Nobility Court
 headquarters: '[[The Umbral Estate]]'
 influence: Regional (Upper District and Shadow Quarter)
-leader: '[[02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]'
+leader: '[[Lord Vexton Shadowmere]]'
 members: ~200 shadow nobles and courtiers
 obsidianUIMode: preview
 status: complete
@@ -29,19 +29,15 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-lord-vexton-shadowmere-lord-vexton-shadowmere.svg)
-
-
 
 
 # The Shadow Court
 *The Umbral Aristocracy, Lords of the Between-Spaces, The Ancient Hierarchy*
 
 ## Organization Overview and Purpose
-The Shadow Court represents the oldest and most influential shadow-touched nobility in [[02_Worldbuilding/Places/Aquabyssos]], tracing their lineage to the first beings who crossed from the shadow realm generations ago. Unlike newer shadow organizations that focus on commerce or political activism, the Shadow Court maintains the traditions, protocols, and hierarchies of their origin realm while wielding considerable influence over both shadow-touched and traditional politics in Aquabyssos.
+The Shadow Court represents the oldest and most influential shadow-touched nobility in [[Aquabyssos]], tracing their lineage to the first beings who crossed from the shadow realm generations ago. Unlike newer shadow organizations that focus on commerce or political activism, the Shadow Court maintains the traditions, protocols, and hierarchies of their origin realm while wielding considerable influence over both shadow-touched and traditional politics in Aquabyssos.
 
 The Court operates as both a social institution and governing body for matters concerning the shadow-touched nobility. They maintain elaborate estates in the liminal spaces between dimensions, host grand ceremonies that blend material and shadow realm customs, and serve as arbiters of disputes involving inter-dimensional law. Members of the Shadow Court are distinguished by their ancient bloodlines, refined shadow manipulation abilities, and strict adherence to codes of conduct that predate Aquabyssos itself.
 
@@ -192,13 +188,13 @@ The Court operates sophisticated intelligence networks throughout Aquabyssos and
 The Shadow Court maintains complex relationships with numerous organizations throughout Aquabyssos, balancing cooperation and competition while advancing their long-term goals of increased influence and formal recognition of shadow nobility.
 
 **Allied Relationships**
-The Court maintains strong relationships with the [[02_Worldbuilding/Groups/Silverscale Consortium]] through shared commercial interests and mutual respect for traditional hierarchies. Both organizations benefit from stable business relationships, coordinated investment strategies, and political cooperation on issues affecting economic prosperity. The Court also works closely with the [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]] on matters involving supernatural oversight and dimensional security, finding common ground in their preference for structured, hierarchical approaches to governance and social organization.
+The Court maintains strong relationships with the [[Silverscale Consortium]] through shared commercial interests and mutual respect for traditional hierarchies. Both organizations benefit from stable business relationships, coordinated investment strategies, and political cooperation on issues affecting economic prosperity. The Court also works closely with the [[Temple of Divine Order]] on matters involving supernatural oversight and dimensional security, finding common ground in their preference for structured, hierarchical approaches to governance and social organization.
 
 **Neutral Partnerships**
-The Court maintains careful neutrality with various shadow-touched organizations including shadow liberation movements and integration advocacy groups. While they disagree with these factions' goals, they avoid direct confrontation and sometimes provide limited support on issues that serve their broader interests. They maintain similar relationships with the [[02_Worldbuilding/Places/Parliament of Echoes]] and other government bodies, participating in official processes while advocating for their specific interests and privileges.
+The Court maintains careful neutrality with various shadow-touched organizations including shadow liberation movements and integration advocacy groups. While they disagree with these factions' goals, they avoid direct confrontation and sometimes provide limited support on issues that serve their broader interests. They maintain similar relationships with the [[Parliament of Echoes]] and other government bodies, participating in official processes while advocating for their specific interests and privileges.
 
 **Rival Relationships**
-The Court competes with newer shadow-touched organizations that challenge their claims to leadership within the shadow community. They view groups like the [[02_Worldbuilding/Lore/Shadow Liberation Front]] as upstarts who lack proper understanding of shadow realm traditions and protocols. Competition also exists with other wealthy factions who compete for similar resources, political influence, and social prestige, though these rivalries usually manifest through economic and political maneuvering rather than direct conflict.
+The Court competes with newer shadow-touched organizations that challenge their claims to leadership within the shadow community. They view groups like the [[Shadow Liberation Front]] as upstarts who lack proper understanding of shadow realm traditions and protocols. Competition also exists with other wealthy factions who compete for similar resources, political influence, and social prestige, though these rivalries usually manifest through economic and political maneuvering rather than direct conflict.
 
 **Government Relations**
 The Shadow Court maintains official diplomatic relationships with Aquabyssos government bodies while privately working to expand their formal recognition and privileges. They lobby for legislation favorable to shadow-touched interests, seek appointments to advisory positions, and provide expertise on inter-dimensional matters. Their ultimate goal involves achieving formal recognition as hereditary nobility with special rights and representation within the government structure.
@@ -247,7 +243,7 @@ Young Court members begin questioning traditional hierarchies and advocating for
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadowhaven Smugglers Ring]]
+- [[The Shadowhaven Smugglers Ring]]
 
 ## Player-Facing Summary
 
@@ -271,7 +267,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]
+- [[Silverscale Consortium]]
+- [[Temple of Divine Order]]
+- [[Parliament of Echoes]]

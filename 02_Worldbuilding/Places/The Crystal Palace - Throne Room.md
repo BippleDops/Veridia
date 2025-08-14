@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -15,21 +17,18 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-crystal-palace-throne-room-the-crystal-palace-throne-room.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-palace-throne-room-the-crystal-palace-throne-room.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 ## Player-Facing Summary
 

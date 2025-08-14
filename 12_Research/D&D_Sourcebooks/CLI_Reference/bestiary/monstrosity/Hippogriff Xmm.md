@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hippogriff-xmm-hippogriff-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/hippogriff-xmm|Hippogriff]]
+# [[hippogriff-xmm|Hippogriff]]
 *Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hippogriff
@@ -76,7 +76,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""

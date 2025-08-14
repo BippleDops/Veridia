@@ -20,7 +20,7 @@ world: Both
 # Flames of Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/races/tiefling-xphb|Tiefling]]
+**Prerequisite**: [[tiefling-xphb|Tiefling]]
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 

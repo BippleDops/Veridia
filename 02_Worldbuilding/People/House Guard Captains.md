@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-house-guard-captains-house-guard-captains.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-house-guard-captains-house-guard-captains.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 ## Player-Facing Summary
 

@@ -19,7 +19,7 @@ status: active
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
+![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png]]
 
 # Pub
 *Level 13 Bastion facility*  
@@ -39,11 +39,11 @@ When you issue the "Research" order to this facility, you commission the Pub's b
 
 The Pub has one magical beverage on tap, chosen from the options below:
 
-- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [[/03_Mechanics/CLI/spells/enlarge-reduce-xphb|Enlarge/Reduce]] spell that has a duration of 24 hours (no saving throw allowed).  
-- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [[/03_Mechanics/CLI/spells/spider-climb-xphb|Spider Climb]] spell that has a duration of 24 hours.  
-- **Moonlight Serenade.** Drinking a pint of this beverage gives you [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
+- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [[enlarge-reduce-xphb|Enlarge/Reduce]] spell that has a duration of 24 hours (no saving throw allowed).  
+- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [[spider-climb-xphb|Spider Climb]] spell that has a duration of 24 hours.  
+- **Moonlight Serenade.** Drinking a pint of this beverage gives you [[senses#Darkvision|Darkvision]] out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
 - **Positive Reinforcement.** Drinking a pint of this beverage gives you Resistance to Necrotic damage for 24 hours.  
-- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition.  
+- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [[conditions#Frightened|Frightened]] condition.  
 
 At the start of a Bastion turn, you can switch to one of the other options. Your DM may create new options. A pint of this magical beverage loses its magic 24 hours after it's poured.
 

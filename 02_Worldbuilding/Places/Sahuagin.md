@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-sahuagin-sahuagin.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sahuagin-sahuagin.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]
 
 ## Player-Facing Summary
 

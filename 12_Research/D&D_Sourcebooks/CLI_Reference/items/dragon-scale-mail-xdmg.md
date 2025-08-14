@@ -19,7 +19,7 @@ world: Both
 ---
 
 # Dragon Scale Mail
-*Medium armor ([[/03_Mechanics/CLI/items/scale-mail-xphb|scale mail]]), very rare (requires attunement)*  
+*Medium armor ([[scale-mail-xphb|scale mail]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -28,16 +28,16 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/black-dragon-scale-mail-xdmg|Black Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/blue-dragon-scale-mail-xdmg|Blue Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/brass-dragon-scale-mail-xdmg|Brass Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/bronze-dragon-scale-mail-xdmg|Bronze Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/copper-dragon-scale-mail-xdmg|Copper Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/gold-dragon-scale-mail-xdmg|Gold Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/green-dragon-scale-mail-xdmg|Green Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/red-dragon-scale-mail-xdmg|Red Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/silver-dragon-scale-mail-xdmg|Silver Dragon Scale Mail]]
-- [[/03_Mechanics/CLI/items/white-dragon-scale-mail-xdmg|White Dragon Scale Mail]]
+- [[black-dragon-scale-mail-xdmg|Black Dragon Scale Mail]]
+- [[blue-dragon-scale-mail-xdmg|Blue Dragon Scale Mail]]
+- [[brass-dragon-scale-mail-xdmg|Brass Dragon Scale Mail]]
+- [[bronze-dragon-scale-mail-xdmg|Bronze Dragon Scale Mail]]
+- [[copper-dragon-scale-mail-xdmg|Copper Dragon Scale Mail]]
+- [[gold-dragon-scale-mail-xdmg|Gold Dragon Scale Mail]]
+- [[green-dragon-scale-mail-xdmg|Green Dragon Scale Mail]]
+- [[red-dragon-scale-mail-xdmg|Red Dragon Scale Mail]]
+- [[silver-dragon-scale-mail-xdmg|Silver Dragon Scale Mail]]
+- [[white-dragon-scale-mail-xdmg|White Dragon Scale Mail]]
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

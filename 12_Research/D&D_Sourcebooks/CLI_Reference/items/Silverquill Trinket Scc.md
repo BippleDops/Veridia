@@ -30,7 +30,7 @@ world: Both
 
 
 
-When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Silverquill Trinkets table, instead of on the [[trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
 
 **Silverquill Trinkets**
 

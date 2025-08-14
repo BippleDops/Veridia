@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg]]
 
 
 # The Emergence
@@ -96,10 +92,10 @@ The Emergence provides flexible framework for introducing major campaign changes
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
 
 
 ## Appearance
@@ -141,6 +137,6 @@ Legends speak of The Emergence as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emergence]]
+- [[The Emergence]]
 
 <!-- enriched: true -->

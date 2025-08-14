@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temporal-rescue-temporal-rescue.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-rescue-temporal-rescue.svg]]
 
 
 # Temporal Rescue
@@ -165,7 +162,7 @@ This quest emphasizes urgency and ethical decision-making. Time travel should fe
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -177,6 +174,6 @@ Legends speak of Temporal Rescue as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Rescue]]
+- [[Temporal Rescue]]
 
 <!-- enriched: true -->

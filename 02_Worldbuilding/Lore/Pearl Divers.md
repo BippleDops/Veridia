@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[12_Research/D&D_References/The Original Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[12_Research/D&D_References/The Original Palace]]
 
 ## Player-Facing Summary
 

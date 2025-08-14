@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-arcane-master-voidweav-arcane-master-voidweav.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-arcane-master-voidweav-arcane-master-voidweav.svg]]
 
 
 ## Overview

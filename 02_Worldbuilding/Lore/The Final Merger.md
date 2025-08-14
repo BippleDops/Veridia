@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
 
 ## Player-Facing Summary
 

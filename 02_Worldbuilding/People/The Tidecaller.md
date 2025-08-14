@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-tidecaller-the-tidecaller.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-tidecaller-the-tidecaller.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[Port Meridian]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[02_Worldbuilding/People/The Tidal Council]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[The Tidal Council]]
+- [[Harbor Master Luna Freedrift]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

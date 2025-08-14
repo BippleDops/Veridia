@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -12,9 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.166509+00:00'
 world: Both
 ---
-
-
-
 
 
 ## Overview

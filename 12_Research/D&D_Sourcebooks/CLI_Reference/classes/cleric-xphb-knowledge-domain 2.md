@@ -22,7 +22,7 @@ world: Both
 
 
 # Knowledge Domain
-*[[./cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook p. 59*  
 
 > [!tldr] Class and Feature Progression
@@ -64,7 +64,7 @@ world: Both
 
 ### Knowledge Domain (Level 3)
 
-The gods of knowledge—including Oghma, Boccob, [[/03_Mechanics/CLI/deities/dragonlance-gilean-phb|Gilean]], [[/03_Mechanics/CLI/deities/eberron-aureon|Aureon]], and [[/03_Mechanics/CLI/deities/egyptian-thoth|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[/03_Mechanics/CLI/deities/dragonlance-reorx-phb|Reorx]], [[/03_Mechanics/CLI/deities/eberron-onatar|Onatar]], [[/03_Mechanics/CLI/deities/nonhuman-moradin|Moradin]], [[/03_Mechanics/CLI/deities/greek-hephaestus|Hephaestus]], and [[/03_Mechanics/CLI/deities/celtic-goibhniu|Goibhniu]].
+The gods of knowledge—including Oghma, Boccob, [[dragonlance-gilean-phb|Gilean]], [[eberron-aureon|Aureon]], and [[egyptian-thoth|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[dragonlance-reorx-phb|Reorx]], [[eberron-onatar|Onatar]], [[nonhuman-moradin|Moradin]], [[greek-hephaestus|Hephaestus]], and [[celtic-goibhniu|Goibhniu]].
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -72,16 +72,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[/03_Mechanics/CLI/spells/command-xphb|command]], [[/03_Mechanics/CLI/spells/identify-xphb|identify]] |
-| 3rd | [[/03_Mechanics/CLI/spells/augury-xphb|augury]], [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] |
-| 5th | [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]], [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|speak with dead]] |
-| 7th | [[/03_Mechanics/CLI/spells/arcane-eye-xphb|arcane eye]], [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] |
-| 9th | [[/03_Mechanics/CLI/spells/legend-lore-xphb|legend lore]], [[/03_Mechanics/CLI/spells/scrying-xphb|scrying]] |
+| 1st | [[command-xphb|command]], [[identify-xphb|identify]] |
+| 3rd | [[augury-xphb|augury]], [[suggestion-xphb|suggestion]] |
+| 5th | [[nondetection-xphb|nondetection]], [[speak-with-dead-xphb|speak with dead]] |
+| 7th | [[arcane-eye-xphb|arcane eye]], [[confusion-xphb|confusion]] |
+| 9th | [[legend-lore-xphb|legend lore]], [[scrying-xphb|scrying]] |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
 
-At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [[/03_Mechanics/CLI/skills#Arcana|Arcana]], [[/03_Mechanics/CLI/skills#History|History]], [[/03_Mechanics/CLI/skills#Nature|Nature]], or [[/03_Mechanics/CLI/skills#Religion|Religion]].
+At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [[skills#Arcana|Arcana]], [[skills#History|History]], [[skills#Nature|Nature]], or [[skills#Religion|Religion]].
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
@@ -97,11 +97,11 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [[suggestion-xphb|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Visions of the Past (Level 17)
 
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [[/03_Mechanics/CLI/conditions#Concentration|concentration]] during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [[conditions#Concentration|concentration]] during that time, as if you were casting a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

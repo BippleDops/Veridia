@@ -19,7 +19,7 @@ status: active
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)
+![[04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]]
 
 # Library
 *Level 5 Bastion facility*  

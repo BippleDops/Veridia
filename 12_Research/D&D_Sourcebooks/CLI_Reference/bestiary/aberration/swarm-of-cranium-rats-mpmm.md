@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-cranium-rats-mpmm-swarm-of-cranium-rats-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/swarm-of-cranium-rats-mpmm|Swarm of Cranium Rats]]
+# [[swarm-of-cranium-rats-mpmm|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat
@@ -53,10 +53,10 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "14"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "5"
@@ -76,9 +76,9 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - "desc": "As long as it has more than half of its hit points remaining, the swarm\
       \ casts one of the following spells, requiring no spell components and using\
       \ Intelligence as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[/03_Mechanics/CLI/spells/command-xphb|command]], [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]],\
-      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]]\n\n1/day\
-      \ each: [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]], [[/03_Mechanics/CLI/spells/dominate-monster-xphb|dominate\
+      \ [[command-xphb|command]], [[comprehend-languages-xphb|comprehend languages]],\
+      \ [[detect-thoughts-xphb|detect thoughts]]\n\n1/day\
+      \ each: [[confusion-xphb|confusion]], [[dominate-monster-xphb|dominate\
       \ monster]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":

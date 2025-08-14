@@ -28,9 +28,9 @@ world: Both
 
 
 
-When you take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to read this scroll, an [[/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm|Elemental Cataclysm]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [[actions#Magic|Magic]] action to read this scroll, an [[elemental-cataclysm-xmm|Elemental Cataclysm]] appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [[/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm|Elemental Cataclysm]] is [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If the [[/03_Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm|Elemental Cataclysm]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[elemental-cataclysm-xmm|Elemental Cataclysm]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[elemental-cataclysm-xmm|Elemental Cataclysm]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

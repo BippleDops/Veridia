@@ -31,15 +31,14 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg]]
 
 
 # The Siren
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths*
 
 ## Overview
-The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]].
+The Siren is [[Aethermoor]]'s most notorious information broker, operating through a network of bardic colleges, taverns, and noble courts. No one knows their true identity—they appear differently to each person, always behind an ornate crystal mask that shifts colors with their mood. Their voice can shatter crystal or mend hearts, and they claim to know every secret worth knowing in both Aethermoor and [[Aquabyssos]].
 
 ## Appearance(s)
 
@@ -106,22 +105,22 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 ## Known Information (Sampling)
 
 ### Political Secrets
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption stage
+- [[Queen Seraphina Lumengarde]]'s corruption stage
 - Location of two of the Seven Shards
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s return date
-- Which nobles are [[02_Worldbuilding/Groups/Silverscale Consortium]] puppets
-- [[02_Worldbuilding/People/The Crimson Sage]]'s meetings with Queen
+- [[Prince Caspian Duskwater]]'s return date
+- Which nobles are [[Silverscale Consortium]] puppets
+- [[The Crimson Sage]]'s meetings with Queen
 
 ### Aquabyssos Intelligence
 - Shadow replacement list in Parliament
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s true plans
-- Location of [[02_Worldbuilding/People/Original Glaucus]]
+- [[Aboleth Prime Yoth]]'s true plans
+- Location of [[Original Glaucus]]
 - The Deep Mother's stirring signs
 - Portal locations between worlds
 
 ### Forbidden Knowledge
 - True cause of the Crystal Shattering
-- [[02_Worldbuilding/People/The Crimson Sage]]'s identity
+- [[The Crimson Sage]]'s identity
 - How to destroy/create Shards
 - The original prophecy complete text
 - What lies beyond the Void
@@ -130,16 +129,16 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 
 ### Professional Contacts
 - **Every Bard**: Part of network, knowing or not
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Trades economic intel
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual respect
-- **[[02_Worldbuilding/Lore/The Whispered Voice]]**: Crown's spymaster rival
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Regular client
+- **[[Zephyr Goldwhisper]]**: Trades economic intel
+- **[[Shadow Duchess Nyx]]**: Mutual respect
+- **[[The Whispered Voice]]**: Crown's spymaster rival
+- **[[Vex Shadowthorn]]**: Regular client
 
 ### Complicated Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Knows too much
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mutual avoidance
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Wants them arrested
-- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Share visions
+- **[[Queen Seraphina Lumengarde]]**: Knows too much
+- **[[The Crimson Sage]]**: Mutual avoidance
+- **[[High Inquisitor Maltheos]]**: Wants them arrested
+- **[[Prophet Nerida Voidgazer]]**: Share visions
 - **The Gods**: May actually be one
 
 ### Protected Individuals
@@ -162,7 +161,7 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 
 ### DM Truth Options
 > [!warning] Choose One or Create Your Own
-> - Actually [[02_Worldbuilding/Lore/Princess Lyralei]], thought dead
+> - Actually [[Princess Lyralei]], thought dead
 > - Fragment of shattered god of knowledge
 > - First Bard, achieved immortality through song
 > - Collective consciousness of all bards
@@ -313,32 +312,32 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Knows her secrets
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mutual avoidance
-- [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Information trade
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Regular client
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Professional respect
+- [[Queen Seraphina Lumengarde]] - Knows her secrets
+- [[The Crimson Sage]] - Mutual avoidance
+- [[Zephyr Goldwhisper]] - Information trade
+- [[Vex Shadowthorn]] - Regular client
+- [[Shadow Duchess Nyx]] - Professional respect
 
 ### Locations
-- [[02_Worldbuilding/Lore/The Shifting Stage]] - Base of operations
-- [[02_Worldbuilding/Lore/Every Tavern]] - Meeting points
-- [[02_Worldbuilding/Lore/Bardic Colleges]] - Network nodes
+- [[The Shifting Stage]] - Base of operations
+- [[Every Tavern]] - Meeting points
+- [[Bardic Colleges]] - Network nodes
 - [[Crystal Resonance Points]] - Communication hubs
-- [[02_Worldbuilding/Lore/The Memory Garden]] - Information storage
+- [[The Memory Garden]] - Information storage
 
 ### Quests
-- [[02_Worldbuilding/Lore/Quest - The Lost Verse]]
-- [[02_Worldbuilding/People/Quest - The Siren's Price]]
-- [[02_Worldbuilding/Lore/Quest - Songs of Power]]
-- [[02_Worldbuilding/Lore/Quest - Information War]]
-- [[02_Worldbuilding/Lore/Quest - The Final Performance]]
+- [[Quest - The Lost Verse]]
+- [[Quest - The Siren's Price]]
+- [[Quest - Songs of Power]]
+- [[Quest - Information War]]
+- [[Quest - The Final Performance]]
 
 ### Items
-- [[02_Worldbuilding/People/The Siren's Mask]] - If ever removed
-- [[02_Worldbuilding/Lore/Song Crystals]] - Recorded information
-- [[02_Worldbuilding/Lore/The Black Note]] - Assassination order
-- [[02_Worldbuilding/Lore/Memory Instruments]] - Play forgotten songs
-- [[02_Worldbuilding/Lore/The Truth Tuning Fork]] - Detects lies
+- [[The Siren's Mask]] - If ever removed
+- [[Song Crystals]] - Recorded information
+- [[The Black Note]] - Assassination order
+- [[Memory Instruments]] - Play forgotten songs
+- [[The Truth Tuning Fork]] - Detects lies
 
 ---
 
@@ -360,6 +359,6 @@ Legends speak of The Siren as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[The Siren]]
 
 <!-- enriched: true -->

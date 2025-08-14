@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-queen-morwyn-lumengarde.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-queen-morwyn-lumengarde.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Queen Morwyn Lumengarde]]
+- [[Queen Morwyn Lumengarde]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[Quest - The Pretender]]

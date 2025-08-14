@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]].
+You can spend 6 ki points to cast [[cone-of-cold-xphb|cone of cold]].
 
 ## Player-Facing Summary
 

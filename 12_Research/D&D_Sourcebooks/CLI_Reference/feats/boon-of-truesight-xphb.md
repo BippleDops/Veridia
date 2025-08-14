@@ -26,7 +26,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Truesight.** You have [[/03_Mechanics/CLI/senses#Truesight|Truesight]] with a range of 60 feet.
+**Truesight.** You have [[senses#Truesight|Truesight]] with a range of 60 feet.
 
 ## Player-Facing Summary
 

@@ -29,9 +29,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\celestial/guardian-naga-xmm|Guardian Naga]]
+# [[guardian-naga-xmm|Guardian Naga]]
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Guardian Naga
@@ -85,21 +85,21 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+11"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+11"
-  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
-  - "desc": "If the naga dies, it returns to life in d6 days and regains all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit\
-      \ Points]] unless [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel\
+  - "desc": "If the naga dies, it returns to life in d6 days and regains all its [[hit-points-xphb|Hit\
+      \ Points]] unless [[dispel-evil-and-good-xphb|Dispel\
       \ Evil and Good]] is cast\
       \ on its remains."
     "name": "Celestial Restoration"
@@ -111,17 +111,17 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
       \ plus 22 (4d10) Poison damage."
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 16, one creature the naga can see within\
-      \ 60 feet. Failure: 31 (7d8) Poison damage, and the target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ 60 feet. Failure: 31 (7d8) Poison damage, and the target has the [[conditions#Blinded|Blinded]]\
       \ condition until the start of the naga's next turn. Success: Half damage\
       \ only."
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]]\n\n\
-      1/day each: [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]],\
-      \ [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]] (level 6 version),\
-      \ [[/03_Mechanics/CLI/spells/flame-strike-xphb|Flame Strike]] (level 6 version),\
-      \ [[/03_Mechanics/CLI/spells/geas-xphb|Geas]], [[/03_Mechanics/CLI/spells/true-seeing-xphb|True Seeing]]"
+      \nAt will: [[thaumaturgy-xphb|Thaumaturgy]]\n\n\
+      1/day each: [[clairvoyance-xphb|Clairvoyance]],\
+      \ [[cure-wounds-xphb|Cure Wounds]] (level 6 version),\
+      \ [[flame-strike-xphb|Flame Strike]] (level 6 version),\
+      \ [[geas-xphb|Geas]], [[true-seeing-xphb|True Seeing]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

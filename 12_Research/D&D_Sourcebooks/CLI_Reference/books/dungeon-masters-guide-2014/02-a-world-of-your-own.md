@@ -101,7 +101,7 @@ This pantheon draws in several nonhuman deities and establishes them as universa
 
 Several of the gods are drawn from other pantheons, sometimes with new names for the gods. Bane comes from the Forgotten Realms. From Greyhawk come Kord, Pelor, Tharizdun, and Vecna. From the Greek pantheon come Athena (renamed Erathis) and Tyche (renamed Avandra), though both are altered. Set (renamed Zehir) comes from the Egyptian pantheon. The Raven Queen is akin to the Norse pantheon's Hel and Greyhawk's Wee Jas. That leaves three gods created from scratch: Ioun, Melora, and Torog.
 
-![[/03_Mechanics/CLI/tables/a-sample-pantheon-dawn-war-deities|A Sample Pantheon; Dawn War Deities]]
+![[a-sample-pantheon-dawn-war-deities|A Sample Pantheon; Dawn War Deities]]
 
 ### Other Religious Systems
 
@@ -334,7 +334,7 @@ The larger a settlement, the more likely that other individuals or organizations
 
 A settlement rarely stands alone. A given town or city might be a theocratic city-state or a prosperous free city governed by a merchant council. More likely, it's part of a feudal kingdom, a bureaucratic empire, or a remote realm ruled by an iron-fisted tyrant. Consider how your settlement fits into the bigger picture of your world or region-who rules its ruler, and what other settlements might also lie under its control.
 
-![[/03_Mechanics/CLI/tables/forms-of-government|Forms of Government]]
+![[forms-of-government|Forms of Government]]
 
 Typical and fantastical forms of government are described below. Choose one or randomly determine a form of government for a nation or city from the Forms of Government table.
 
@@ -414,7 +414,7 @@ Conquerors and representatives of another government wield power, ruling the set
 
 Rulership falls to a direct representative or a collection of agents of a deity. The centers of power in a theocracy are usually located on sacred sites. In the Eberron campaign setting, the nation of Thrane is a theocracy devoted to the Silver Flame, a divine spirit that resides in Thrane's capital of Flamekeep.
 
-![[/03_Mechanics/CLI/tables/government-sample-hierarchy-of-noble-titles|Government; Sample Hierarchy of Noble Titles]]
+![[government-sample-hierarchy-of-noble-titles|Government; Sample Hierarchy of Noble Titles]]
 
 ### Commerce
 
@@ -570,7 +570,7 @@ You can add rank prerequisites. For example, a character affiliated with the Lor
 
 You can set these thresholds of renown to any numbers that work for your game, creating appropriate ranks and titles for the organizations in your campaign.
 
-![[/03_Mechanics/CLI/tables/examples-of-faction-ranks|Examples of Faction Ranks]]
+![[examples-of-faction-ranks|Examples of Faction Ranks]]
 
 ##### Attitudes of Organization Members
 
@@ -729,7 +729,7 @@ You can use this section for ideas and inspiration to expand on world-shaking ev
 
 To get started, select a world-shaking event category or roll on the World-Shaking Events table.
 
-![[/03_Mechanics/CLI/tables/world-shaking-events|World-Shaking Events]]
+![[world-shaking-events|World-Shaking Events]]
 
 #### 1-2. Rise or Fall of a Leader or an Era
 
@@ -737,7 +737,7 @@ Eras are often defined by the prominent leaders, innovators, and tyrants of the 
 
 Determine the kind of leader that influences the new or passing era. You can choose the type of leader or determine one randomly using the Leader Types table.
 
-![[/03_Mechanics/CLI/tables/rise-or-fall-of-a-leader-or-an-era-leader-types|Rise or Fall of a Leader or an Era; Leader Types]]
+![[rise-or-fall-of-a-leader-or-an-era-leader-types|Rise or Fall of a Leader or an Era; Leader Types]]
 
 Political leaders are monarchs, nobles, and chiefs. Religious leaders include deities' avatars, high priests, and messiahs, as well as those in charge of monasteries and leaders of influential religious sects. Major military leaders control the armed forces of countries. They include military dictators, warlords, and the heads of a ruler's war council. Minor military leaders include the heads of local militias, gangs, and other martial organizations. At the broadest scale, a criminal or underworld leader wields power through a network of spies, bribes, and black-market trade. On the smallest scale, these are local gang bosses, pirate captains, and brigands. A leader in art or culture is a virtuoso whose work reflects the spirit of the age and changes the way people think: a prominent playwright, bard, or court fool in whose words, art, or performance the people perceive universal truth. On a smaller scale, this might be an influential local poet, minstrel, satirist, or sculptor.
 
@@ -770,7 +770,7 @@ Earthquake, famine, fire, plague, flood-disasters on a grand scale can eradicate
 
 You can choose the cataclysm or determine one randomly using the Cataclysmic Disasters table.
 
-![[/03_Mechanics/CLI/tables/cataclysmic-disasters|Cataclysmic Disasters]]
+![[cataclysmic-disasters|Cataclysmic Disasters]]
 
 Some of the disasters on the table might not make immediate sense in the context of your campaign world. A flood in the desert? A volcanic eruption on grassy plains? If you randomly determine a disaster that conflicts with your setting, you can reroll, but the challenge of justifying the catastrophe can produce interesting results.
 
@@ -798,7 +798,7 @@ Imagine that part of your campaign world is attacked or invaded. Depending on th
 
 Define the aggressor and whether it represents a known enemy or a previously unknown adversary. Select a threat that already poses a danger to the area you've chosen, or use the Invading Forces table to determine the aggressor.
 
-![[/03_Mechanics/CLI/tables/assault-or-invasion-invading-forces|Assault or Invasion; Invading Forces]]
+![[assault-or-invasion-invading-forces|Assault or Invasion; Invading Forces]]
 
 Now consider these other aspects of the conflict:
 
@@ -829,7 +829,7 @@ You can eliminate a people, place, or thing that previously existed in a certain
 
 What is gone from the world-or the region of the world you've chosen-that once existed there? If the answer isn't immediately evident, consult the Extinction or Depletion table for ideas.
 
-![[/03_Mechanics/CLI/tables/extinction-or-depletion|Extinction or Depletion]]
+![[extinction-or-depletion|Extinction or Depletion]]
 
 Then consider these additional questions:
 
@@ -843,7 +843,7 @@ The foundation of a new order, kingdom, religion, society, cabal, or cult can sh
 
 Perhaps an important new organization arises in one part of your world. It could have humble or auspicious beginnings, but one thing is certain: it is destined to change the world as long as it progresses along its present course. Sometimes an organization's alignment is apparent from inception, but its morality can remain ambiguous until its doctrines, policies, and traditions are revealed over time. Choose the type of organization, or use the New Organizations table to generate ideas.
 
-![[/03_Mechanics/CLI/tables/new-organizations|New Organizations]]
+![[new-organizations|New Organizations]]
 
 Then consider some or all of the following options:
 
@@ -862,7 +862,7 @@ A discovery is particularly impressive when the adventurers in your campaign are
 
 Decide on the type of discovery that is made or use the Discoveries table to generate ideas.
 
-![[/03_Mechanics/CLI/tables/discovery-expansion-invention-discoveries|Discovery, Expansion, Invention; Discoveries]]
+![[discovery-expansion-invention-discoveries|Discovery, Expansion, Invention; Discoveries]]
 
 Once you have determined the type of discovery, flesh it out by deciding exactly what it is, who discovered it, and what potential effect it could have on the world. Ideally, previous adventures in your campaign will help you fill in the blanks, but also keep the following in mind:
 
@@ -929,7 +929,7 @@ Extraordinary events, such as the approach of a comet or a lunar eclipse, make g
 > 
 > The world of the Forgotten Realms uses the Calendar of Harptos, named after the long-dead wizard who invented it. Each year of 365 days is divided into twelve months of thirty days each, which roughly correspond to months in the real-world Gregorian calendar. Each month is divided into three tendays. Five special holidays fall between the months and mark the seasons. Another special holiday, Shieldmeet, is inserted into the calendar after Midsummer every four years, much like leap years in the modern Gregorian calendar.
 > 
-> ![[/03_Mechanics/CLI/tables/the-calendar-of-harptos|The Calendar of Harptos]]
+> ![[the-calendar-of-harptos|The Calendar of Harptos]]
 ^the-calendar-of-harptos
 
 ### Ending a Campaign
@@ -1028,7 +1028,7 @@ The fate of a village might hang on the success or failure of low-level adventur
 
 By the time they reach this tier, adventurers have mastered the basics of their class features, though they continue to improve throughout these levels. They have found their place in the world and have begun to involve themselves in the dangers that surround them.
 
-Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]] and [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning bolt]] spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as [[/03_Mechanics/CLI/spells/teleportation-circle-xphb|teleportation circle]], [[/03_Mechanics/CLI/spells/scrying-xphb|scrying]], [[/03_Mechanics/CLI/spells/flame-strike-xphb|flame strike]], [[/03_Mechanics/CLI/spells/legend-lore-xphb|legend lore]], and [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.
+Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with [[fireball-xphb|fireball]] and [[lightning-bolt-xphb|lightning bolt]] spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as [[teleportation-circle-xphb|teleportation circle]], [[scrying-xphb|scrying]], [[flame-strike-xphb|flame strike]], [[legend-lore-xphb|legend lore]], and [[raise-dead-xphb|raise dead]] can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.
 
 The fate of a region might depend on the adventures that characters of levels 5 to 10 undertake. These adventurers venture into fearsome wilds and ancient ruins, where they confront savage giants, ferocious hydras, fearless golems, evil yuan-ti, scheming devils, bloodthirsty demons, crafty mind flayers, and drow assassins. They might have a chance of defeating a young dragon that has established a lair but not yet extended its reach far into the surrounding territory.
 
@@ -1036,7 +1036,7 @@ The fate of a region might depend on the adventures that characters of levels 5 
 
 By 11th level, characters are shining examples of courage and determination-true paragons in the world, set well apart from the masses. At this tier, adventurers are far more versatile than they were at lower levels, and they can usually find the right tool for a given challenge.
 
-Dedicated spellcasters gain access to 6th-level spells at 11th level, including spells that completely change the way adventurers interact with the world. Their big, flashy spells are significant in combat-[[/03_Mechanics/CLI/spells/disintegrate-xphb|disintegrate]], [[/03_Mechanics/CLI/spells/blade-barrier-xphb|blade barrier]], and [[/03_Mechanics/CLI/spells/heal-xphb|heal]], for example-but behind-the-scenes spells such as [[/03_Mechanics/CLI/spells/word-of-recall-xphb|word of recall]], [[/03_Mechanics/CLI/spells/find-the-path-xphb|find the path]], [[/03_Mechanics/CLI/spells/contingency-xphb|contingency]], [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]], and [[/03_Mechanics/CLI/spells/true-seeing-xphb|true seeing]] alter the way players approach their adventures. Each spell level after that point introduces new effects with an equally large impact. The adventurers find rare magic items (and very rare ones) that bestow similarly powerful abilities.
+Dedicated spellcasters gain access to 6th-level spells at 11th level, including spells that completely change the way adventurers interact with the world. Their big, flashy spells are significant in combat-[[disintegrate-xphb|disintegrate]], [[blade-barrier-xphb|blade barrier]], and [[heal-xphb|heal]], for example-but behind-the-scenes spells such as [[word-of-recall-xphb|word of recall]], [[find-the-path-xphb|find the path]], [[contingency-xphb|contingency]], [[teleport-xphb|teleport]], and [[true-seeing-xphb|true seeing]] alter the way players approach their adventures. Each spell level after that point introduces new effects with an equally large impact. The adventurers find rare magic items (and very rare ones) that bestow similarly powerful abilities.
 
 The fate of a nation or even the world depends on momentous quests that such characters undertake. Adventurers explore uncharted regions and delve into long-forgotten dungeons, where they confront terrible masterminds of the lower planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon that has established a lair and a significant presence in the world.
 
@@ -1046,7 +1046,7 @@ At this tier, adventurers make their mark on the world in a variety of ways, fro
 
 By 17th level, characters have super heroic capabilities, and their deeds and adventures are the stuff of legend. Ordinary people can hardly dream of such heights of power-or such terrible dangers.
 
-Dedicated spellcasters at this tier wield earthshaking 9th-level spells such as [[/03_Mechanics/CLI/spells/wish-xphb|wish]], [[/03_Mechanics/CLI/spells/gate-xphb|gate]], [[/03_Mechanics/CLI/spells/storm-of-vengeance-xphb|storm of vengeance]], and [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]]. Characters have several rare and very rare magic items at their disposal, and begin discovering legendary items such as a [[/03_Mechanics/CLI/items/vorpal-sword-xdmg|vorpal sword]] or a [[/03_Mechanics/CLI/items/staff-of-the-magi-xdmg|staff of the magi]].
+Dedicated spellcasters at this tier wield earthshaking 9th-level spells such as [[wish-xphb|wish]], [[gate-xphb|gate]], [[storm-of-vengeance-xphb|storm of vengeance]], and [[astral-projection-xphb|astral projection]]. Characters have several rare and very rare magic items at their disposal, and begin discovering legendary items such as a [[vorpal-sword-xdmg|vorpal sword]] or a [[staff-of-the-magi-xdmg|staff of the magi]].
 
 Adventures at these levels have far-reaching consequences, possibly determining the fate of millions in the Material Plane and even places beyond. Characters traverse otherworldly realms and explore demiplanes and other extraplanar locales, where they fight savage balor demons, titans, archdevils, lich archmages, and even avatars of the gods themselves. The dragons they encounter are wyrms of tremendous power, whose sleep troubles kingdoms and whose waking threatens existence itself.
 
@@ -1060,7 +1060,7 @@ Experienced players familiar with the capabilities of the character classes and 
 
 Starting equipment for characters above 1st level is entirely at your discretion, since you give out treasure at your own pace. That said, you can use the Starting Equipment table as a guide.
 
-![[/03_Mechanics/CLI/tables/starting-at-higher-level-starting-equipment|Starting at Higher Level; Starting Equipment]]
+![[starting-at-higher-level-starting-equipment|Starting at Higher Level; Starting Equipment]]
 
 ## Flavors of Fantasy
 
@@ -1150,7 +1150,7 @@ A campaign that draws on elements of Asian martial-arts movies is a perfect matc
 
 Similarly, a class doesn't need new rules to reflect a cultural influence; a new name can do the trick. A traditional Chinese wuxia hero might be a paladin who has a sword called the Oath of Vengeance, while a Japanese samurai might be a paladin with a particular Oath of Devotion (bushido) that includes fealty to a lord (daimyo) among its tenets. A ninja is a monk who pursues the Way of Shadow. Whether called a wu jen, a tsukai, or a swami, a wizard, sorcerer, or warlock character works just fine in a game inspired by medieval Asian cultures.
 
-![[/03_Mechanics/CLI/tables/wuxia-weapon-names|Wuxia Weapon Names]]
+![[wuxia-weapon-names|Wuxia Weapon Names]]
 
 Having players refer to a tetsubo or a katana rather than a greatclub or a longsword can enhance the flavor of a wuxia campaign. The Wuxia Weapon Names table lists alternative names for common weapons from the Player's Handbook and identifies their real-world cultural origins. An alternative name changes none of the weapon's properties as they are described in the Player's Handbook.
 

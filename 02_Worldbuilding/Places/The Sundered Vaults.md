@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-sundered-vaults-the-sundered-vaults.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sundered-vaults-the-sundered-vaults.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]
 
 ## Player-Facing Summary
 

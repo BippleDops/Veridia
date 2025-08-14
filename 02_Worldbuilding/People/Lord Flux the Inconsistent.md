@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Deep Mother]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 
 ## Player-Facing Summary
 

@@ -15,14 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-forge-of-war-forge-of-war.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-forge-of-war-forge-of-war.svg]]
 
 
 # The Forge of War
@@ -33,11 +27,11 @@ world: Both
 
 ## Overview
 
-The Forge of War stands as [[02_Worldbuilding/Places/Aquabyssos]]'s primary military industrial complex, a vast network of interconnected workshops, foundries, and testing facilities built into the reinforced caverns beneath [[02_Worldbuilding/Places/Abyssos Prime]]. This massive facility harnesses the crushing pressure of the deep ocean to forge weapons and war machines of unprecedented power, creating armaments that could never be duplicated on the surface.
+The Forge of War stands as [[Aquabyssos]]'s primary military industrial complex, a vast network of interconnected workshops, foundries, and testing facilities built into the reinforced caverns beneath [[Abyssos Prime]]. This massive facility harnesses the crushing pressure of the deep ocean to forge weapons and war machines of unprecedented power, creating armaments that could never be duplicated on the surface.
 
 Unlike conventional smithies that rely on heat and flame, the Forge of War uses the immense pressure of the deep ocean as its primary shaping force, combined with exotic materials and techniques developed specifically for underwater warfare. The facility operates at depths where the pressure alone would instantly crush most surface dwellers, making it both a fortress and a weapon in itself.
 
-The complex serves not just as a manufacturing center, but as the beating heart of [[02_Worldbuilding/Places/Aquabyssos]]'s military might, where new technologies of war are conceived, tested, and mass-produced for the ongoing conflicts that define life in the deep ocean.
+The complex serves not just as a manufacturing center, but as the beating heart of [[Aquabyssos]]'s military might, where new technologies of war are conceived, tested, and mass-produced for the ongoing conflicts that define life in the deep ocean.
 
 ### Key Statistics
 - **Depth Range:** 2,200-2,800 feet below surface
@@ -50,13 +44,13 @@ The complex serves not just as a manufacturing center, but as the beating heart 
 
 ### Origins in Necessity
 
-The Forge of War was established in the early decades following [[02_Worldbuilding/Places/The Great Drowning]], when it became clear that conventional surface-world weapons were inadequate for the challenges of underwater warfare. Traditional metallurgy failed in the crushing depths, conventional siege engines were useless without air, and the strange new enemies emerging from the deepest trenches required entirely new approaches to combat.
+The Forge of War was established in the early decades following [[The Great Drowning]], when it became clear that conventional surface-world weapons were inadequate for the challenges of underwater warfare. Traditional metallurgy failed in the crushing depths, conventional siege engines were useless without air, and the strange new enemies emerging from the deepest trenches required entirely new approaches to combat.
 
-[[02_Worldbuilding/Places/Forge Master Korax Hammerdeep]], then a young but brilliant smith who had survived the drowning of his mountain forge, proposed a revolutionary idea: instead of fighting against the pressure of the depths, they should harness it as a tool. His early experiments with pressure-forging created weapons of incredible durability and sharpness, leading to his appointment as the facility's first Forge Master.
+[[Forge Master Korax Hammerdeep]], then a young but brilliant smith who had survived the drowning of his mountain forge, proposed a revolutionary idea: instead of fighting against the pressure of the depths, they should harness it as a tool. His early experiments with pressure-forging created weapons of incredible durability and sharpness, leading to his appointment as the facility's first Forge Master.
 
 ### Evolution Through War
 
-As conflicts escalated between the various factions of [[02_Worldbuilding/Places/Aquabyssos]], the Forge of War expanded rapidly, incorporating new technologies and techniques developed through necessity and innovation. Each major conflict brought new challenges that demanded new solutions:
+As conflicts escalated between the various factions of [[Aquabyssos]], the Forge of War expanded rapidly, incorporating new technologies and techniques developed through necessity and innovation. Each major conflict brought new challenges that demanded new solutions:
 
 - **The Trench Wars** led to the development of pressure-resistant armor and weapons capable of fighting at crushing depths
 - **The Shadow Rebellion** required weapons that could affect incorporeal enemies
@@ -65,13 +59,13 @@ As conflicts escalated between the various factions of [[02_Worldbuilding/Places
 
 ### Modern Military Complex
 
-Today, the Forge of War represents the pinnacle of [[02_Worldbuilding/Places/Aquabyssos]] military technology, producing not just individual weapons but entire war machines, defensive systems, and experimental technologies that push the boundaries of what's possible in underwater combat. The facility has become so integral to the realm's security that attacking it would be considered an act of war against all of [[02_Worldbuilding/Places/Aquabyssos]].
+Today, the Forge of War represents the pinnacle of [[Aquabyssos]] military technology, producing not just individual weapons but entire war machines, defensive systems, and experimental technologies that push the boundaries of what's possible in underwater combat. The facility has become so integral to the realm's security that attacking it would be considered an act of war against all of [[Aquabyssos]].
 
 ## Architecture and Layout
 
 ### The Pressure Forges
 
-**[[02_Worldbuilding/Places/The Pressure Forges]]**
+**[[The Pressure Forges]]**
 
 The heart of the complex consists of massive chambers where the ocean's pressure is focused and concentrated through crystalline focusing arrays and mechanical amplifiers. These forges can generate pressures far exceeding even the deepest ocean trenches, allowing for the creation of materials with impossible density and strength.
 
@@ -84,7 +78,7 @@ The heart of the complex consists of massive chambers where the ocean's pressure
 
 ### Arsenal of the Deep
 
-The massive storage and distribution center where finished weapons and equipment are catalogued, stored, and distributed to [[02_Worldbuilding/Places/Aquabyssos]]'s various military forces. The arsenal contains weapons ranging from simple pressure-forged swords to complex war machines capable of leveling entire underwater cities.
+The massive storage and distribution center where finished weapons and equipment are catalogued, stored, and distributed to [[Aquabyssos]]'s various military forces. The arsenal contains weapons ranging from simple pressure-forged swords to complex war machines capable of leveling entire underwater cities.
 
 **Storage Systems:**
 - **Weapon Vaults:** Climate-controlled storage for different weapon types
@@ -95,7 +89,7 @@ The massive storage and distribution center where finished weapons and equipment
 
 ### War Machine Assembly Halls
 
-**[[02_Worldbuilding/Places/War Machine Assembly Halls]]**
+**[[War Machine Assembly Halls]]**
 
 Vast manufacturing spaces where the Forge of War's most impressive creations take shape. These halls combine traditional craftsmanship with innovative engineering to produce war machines that are part weapon, part fortress, and part work of art.
 
@@ -173,25 +167,25 @@ The Forge of War has developed numerous exotic materials specifically for underw
 - Experimental weapons using cutting-edge technology
 - Custom weapons for specific missions or individuals
 - Prototype systems for future military applications
-- Classified projects for the highest levels of [[02_Worldbuilding/Places/Aquabyssos]] leadership
+- Classified projects for the highest levels of [[Aquabyssos]] leadership
 
 ## Key Personnel and Factions
 
 ### Leadership Structure
 
-**[[02_Worldbuilding/Places/Forge Master Korax Hammerdeep]]** - Supreme Commander of Production
+**[[Forge Master Korax Hammerdeep]]** - Supreme Commander of Production
 
-A legendary smith whose innovations in pressure-forging revolutionized underwater warfare. Korax combines traditional craftsmanship with visionary engineering, personally overseeing the most important projects while managing the complex politics of military production. His authority within the Forge is absolute, earned through decades of successful innovation and unwavering dedication to [[02_Worldbuilding/Places/Aquabyssos]]'s military supremacy.
+A legendary smith whose innovations in pressure-forging revolutionized underwater warfare. Korax combines traditional craftsmanship with visionary engineering, personally overseeing the most important projects while managing the complex politics of military production. His authority within the Forge is absolute, earned through decades of successful innovation and unwavering dedication to [[Aquabyssos]]'s military supremacy.
 
-**[[02_Worldbuilding/Places/Arsenal Keeper Thane Ironwill]]** - Master of Arms and Distribution
+**[[Arsenal Keeper Thane Ironwill]]** - Master of Arms and Distribution
 
 Responsible for the storage, maintenance, and distribution of all weapons produced by the Forge. Thane maintains detailed records of every weapon created, ensuring that the right equipment reaches the right forces at the right time. His encyclopedic knowledge of the arsenal's contents makes him invaluable for strategic planning and resource allocation.
 
-**[[02_Worldbuilding/Places/Chief Engineer Vera Steamheart]]** - Head of War Machine Development
+**[[Chief Engineer Vera Steamheart]]** - Head of War Machine Development
 
-A brilliant engineer who specializes in the complex mechanical systems that power the Forge's war machines. Vera's innovations in pressure-powered mechanisms have made [[02_Worldbuilding/Places/Aquabyssos]]'s war machines far more sophisticated than anything the surface world could imagine. She leads a team of specialized engineers who push the boundaries of underwater technology.
+A brilliant engineer who specializes in the complex mechanical systems that power the Forge's war machines. Vera's innovations in pressure-powered mechanisms have made [[Aquabyssos]]'s war machines far more sophisticated than anything the surface world could imagine. She leads a team of specialized engineers who push the boundaries of underwater technology.
 
-**[[02_Worldbuilding/Places/Weapon Master Dain Sharpedge]]** - Chief of Quality Control and Testing
+**[[Weapon Master Dain Sharpedge]]** - Chief of Quality Control and Testing
 
 A combat veteran who ensures that every weapon produced meets the rigorous standards required for underwater warfare. Dain personally tests critical weapons and leads the training programs that teach soldiers how to use the Forge's specialized equipment. His approval is required before any new weapon design enters mass production.
 
@@ -207,7 +201,7 @@ The primary labor organization within the Forge of War, representing the skilled
 
 ### War Machine Engineers
 
-**[[02_Worldbuilding/Places/War Machine Engineers]]**
+**[[War Machine Engineers]]**
 
 A highly trained group of specialists who design and build the complex mechanical systems that power the Forge's most advanced creations. These engineers combine magical knowledge with mechanical expertise, creating war machines that blur the line between technology and art.
 
@@ -231,14 +225,14 @@ A semi-religious organization that views pressure as a divine force and the deep
 
 ### Wartime Production Surge
 
-With increasing tensions throughout [[02_Worldbuilding/Places/Aquabyssos]] and growing threats from various factions, the Forge of War has shifted to full wartime production. This means round-the-clock operations, expanded workforce, and priority given to essential military equipment over experimental projects.
+With increasing tensions throughout [[Aquabyssos]] and growing threats from various factions, the Forge of War has shifted to full wartime production. This means round-the-clock operations, expanded workforce, and priority given to essential military equipment over experimental projects.
 
 **Current Production Priorities:**
 1. **Standard Infantry Equipment:** Mass production of basic weapons and armor
 2. **Siege Equipment:** Heavy weapons for potential conflicts with fortified positions
 3. **Naval Vessels:** Submarines and warships for underwater fleet operations
 4. **Specialized Weapons:** Custom equipment for specific military operations
-5. **Defensive Systems:** Fortification equipment for protecting [[02_Worldbuilding/Places/Abyssos Prime]]
+5. **Defensive Systems:** Fortification equipment for protecting [[Abyssos Prime]]
 
 ### The Leviathan Project
 
@@ -255,7 +249,7 @@ A top-secret project to create the ultimate war machine, a massive construct cap
 
 ### Void Integration Research
 
-**[[02_Worldbuilding/Places/Void Integration Research]]**
+**[[Void Integration Research]]**
 
 An experimental program aimed at incorporating void energy into weapon systems, creating armaments capable of affecting incorporeal enemies and penetrating magical defenses. This research is extremely dangerous, as void energy is poorly understood and highly unstable.
 
@@ -267,11 +261,11 @@ An experimental program aimed at incorporating void energy into weapon systems, 
 
 ### Surface World Intelligence
 
-A covert operation to gather information about surface world military capabilities, particularly focusing on [[02_Worldbuilding/Places/Aethermoor]]'s defenses and potential weaknesses. This intelligence is used to develop weapons and strategies for potential future conflicts.
+A covert operation to gather information about surface world military capabilities, particularly focusing on [[Aethermoor]]'s defenses and potential weaknesses. This intelligence is used to develop weapons and strategies for potential future conflicts.
 
 **Intelligence Priorities:**
 - **Surface Military Technology:** Understanding how surface weapons and tactics work
-- **Crystal Corruption Effects:** Studying how [[02_Worldbuilding/Places/Aethermoor]]'s magical corruption might be weaponized
+- **Crystal Corruption Effects:** Studying how [[Aethermoor]]'s magical corruption might be weaponized
 - **Defensive Vulnerabilities:** Identifying weak points in surface fortifications
 - **Political Intelligence:** Understanding surface world conflicts that might be exploited
 
@@ -311,32 +305,32 @@ The intense pressure-forging operations create areas of concentrated magical ene
 
 ### Military Connections
 
-**[[02_Worldbuilding/Lore/Depth Guard]]** - Primary Military Customer
-The Forge of War's most important relationship is with [[02_Worldbuilding/Lore/Depth Guard]], [[02_Worldbuilding/Places/Aquabyssos]]'s primary military force. The Guard provides specifications for needed equipment, field testing for new weapons, and feedback from actual combat situations.
+**[[Depth Guard]]** - Primary Military Customer
+The Forge of War's most important relationship is with [[Depth Guard]], [[Aquabyssos]]'s primary military force. The Guard provides specifications for needed equipment, field testing for new weapons, and feedback from actual combat situations.
 
-**[[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]** - Strategic Defense
-The Forge provides all defensive equipment for the capital city, including the massive war machines that guard the approaches to [[02_Worldbuilding/Places/Abyssos Prime]] and the weapons systems that protect against threats from the deepest trenches.
+**[[Abyssos Prime Upper Districts]]** - Strategic Defense
+The Forge provides all defensive equipment for the capital city, including the massive war machines that guard the approaches to [[Abyssos Prime]] and the weapons systems that protect against threats from the deepest trenches.
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]** - Political Oversight
-While the Forge operates with considerable autonomy, it remains accountable to [[02_Worldbuilding/Places/Aquabyssos]]'s political leadership. The [[02_Worldbuilding/Places/Parliament of Echoes]] sets overall military priorities and approves major projects, though day-to-day operations are left to the Forge's leadership.
+**[[Parliament of Echoes]]** - Political Oversight
+While the Forge operates with considerable autonomy, it remains accountable to [[Aquabyssos]]'s political leadership. The [[Parliament of Echoes]] sets overall military priorities and approves major projects, though day-to-day operations are left to the Forge's leadership.
 
 ### Supply Chain Networks
 
-**[[02_Worldbuilding/Places/The Cerulean Trench]]** - Raw Material Source
-Most of the exotic metals and minerals used in pressure-forging come from the dangerous depths of [[02_Worldbuilding/Places/The Cerulean Trench]], where specialized mining operations extract materials that exist nowhere else in the world.
+**[[The Cerulean Trench]]** - Raw Material Source
+Most of the exotic metals and minerals used in pressure-forging come from the dangerous depths of [[The Cerulean Trench]], where specialized mining operations extract materials that exist nowhere else in the world.
 
-**[[02_Worldbuilding/Places/New Thalassopolis]]** - Secondary Production
-Some components and materials are manufactured in [[02_Worldbuilding/Places/New Thalassopolis]]'s industrial districts, particularly items that don't require the extreme pressure techniques that are the Forge's specialty.
+**[[New Thalassopolis]]** - Secondary Production
+Some components and materials are manufactured in [[New Thalassopolis]]'s industrial districts, particularly items that don't require the extreme pressure techniques that are the Forge's specialty.
 
-**[[02_Worldbuilding/Places/The Memory Meadows]]** - Knowledge Exchange
-The Forge maintains a relationship with [[02_Worldbuilding/Places/The Memory Meadows]], trading weapons and equipment for memories of ancient smithing techniques and lost technological knowledge.
+**[[The Memory Meadows]]** - Knowledge Exchange
+The Forge maintains a relationship with [[The Memory Meadows]], trading weapons and equipment for memories of ancient smithing techniques and lost technological knowledge.
 
 ### Intelligence Networks
 
-**[[02_Worldbuilding/Places/The Drowned Embassy]]** - Surface World Intelligence
-Information gathered by [[02_Worldbuilding/Places/Aquabyssos]]'s agents in [[02_Worldbuilding/Places/Aethermoor]] is regularly shared with the Forge to help develop weapons and strategies for potential conflicts with the surface world.
+**[[The Drowned Embassy]]** - Surface World Intelligence
+Information gathered by [[Aquabyssos]]'s agents in [[Aethermoor]] is regularly shared with the Forge to help develop weapons and strategies for potential conflicts with the surface world.
 
-**[[02_Worldbuilding/Places/The Whispering Depths]]** - Deep Ocean Intelligence
+**[[The Whispering Depths]]** - Deep Ocean Intelligence
 The Forge receives regular reports about threats emerging from the deepest parts of the ocean, allowing them to develop appropriate weapons and defenses.
 
 ## Secrets and Hidden Agendas
@@ -345,21 +339,21 @@ The Forge receives regular reports about threats emerging from the deepest parts
 
 **[DM ONLY - MAJOR CAMPAIGN SECRET]**
 
-The Leviathan Project is not just about creating a powerful war machine—it's actually an attempt to build a vessel capable of breaching the surface world's defenses and establishing a permanent [[02_Worldbuilding/Places/Aquabyssos]] presence on land. The project leaders believe that control of both surface and depths is necessary for long-term survival.
+The Leviathan Project is not just about creating a powerful war machine—it's actually an attempt to build a vessel capable of breaching the surface world's defenses and establishing a permanent [[Aquabyssos]] presence on land. The project leaders believe that control of both surface and depths is necessary for long-term survival.
 
 ### The Void Weapon Conspiracy
 
-**[[02_Worldbuilding/Places/Forge Master Korax Hammerdeep]]** has been secretly incorporating void energy into standard weapons, believing that the threat from void entities is far greater than the official reports suggest. This unauthorized research could have catastrophic consequences if discovered by the wrong parties.
+**[[Forge Master Korax Hammerdeep]]** has been secretly incorporating void energy into standard weapons, believing that the threat from void entities is far greater than the official reports suggest. This unauthorized research could have catastrophic consequences if discovered by the wrong parties.
 
 ### Surface World Collaboration
 
-Despite official hostility between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], there are secret exchanges of military technology between moderate factions on both sides. Some of the Forge's innovations are based on captured or traded surface world technology, while certain surface smiths have access to pressure-forging techniques.
+Despite official hostility between [[Aquabyssos]] and [[Aethermoor]], there are secret exchanges of military technology between moderate factions on both sides. Some of the Forge's innovations are based on captured or traded surface world technology, while certain surface smiths have access to pressure-forging techniques.
 
 ### The Pressure Crown Connection
 
-**[[02_Worldbuilding/Places/The Pressure Crown]]**
+**[[The Pressure Crown]]**
 
-The Forge of War is secretly manufacturing components for [[02_Worldbuilding/Places/The Pressure Crown]], a powerful artifact that could grant unprecedented control over the deep ocean. This project is known only to the highest levels of leadership and represents a potential shift in the balance of power throughout [[02_Worldbuilding/Places/Aquabyssos]].
+The Forge of War is secretly manufacturing components for [[The Pressure Crown]], a powerful artifact that could grant unprecedented control over the deep ocean. This project is known only to the highest levels of leadership and represents a potential shift in the balance of power throughout [[Aquabyssos]].
 
 ### Worker Transformation Program
 
@@ -385,12 +379,12 @@ A classified program has been systematically altering the Forge's workers to bet
 **Level:** 4-8
 **Type:** Investigation/Combat
 
-**The Challenge:** Weapons produced by the Forge have begun failing catastrophically in combat, putting [[02_Worldbuilding/Places/Aquabyssos]] military forces at severe risk. The party must determine whether this is sabotage, quality control failure, or something more sinister.
+**The Challenge:** Weapons produced by the Forge have begun failing catastrophically in combat, putting [[Aquabyssos]] military forces at severe risk. The party must determine whether this is sabotage, quality control failure, or something more sinister.
 
 **Revelations:**
 - Someone has been substituting inferior materials in the supply chain
 - The failures are concentrated in specific weapon types or production batches
-- The sabotage might be connected to a larger plot against [[02_Worldbuilding/Places/Aquabyssos]]
+- The sabotage might be connected to a larger plot against [[Aquabyssos]]
 - Fixing the problem requires dangerous infiltration of production areas
 
 ### The Missing Engineer
@@ -398,7 +392,7 @@ A classified program has been systematically altering the Forge's workers to bet
 **Level:** 5-9
 **Type:** Rescue/Mystery
 
-**The Challenge:** **[[02_Worldbuilding/Places/Chief Engineer Vera Steamheart]]** has disappeared under mysterious circumstances, taking with her critical knowledge about several important projects. The party must find her before her absence severely impacts military production.
+**The Challenge:** **[[Chief Engineer Vera Steamheart]]** has disappeared under mysterious circumstances, taking with her critical knowledge about several important projects. The party must find her before her absence severely impacts military production.
 
 **Complications:**
 - Vera might have been kidnapped by enemies seeking military secrets
@@ -424,7 +418,7 @@ A classified program has been systematically altering the Forge's workers to bet
 **Level:** 10-15
 **Type:** High-Stakes Political/Combat
 
-**The Challenge:** The party discovers that the Forge is manufacturing components for [[02_Worldbuilding/Places/The Pressure Crown]] and must decide whether to help, hinder, or steal the project. Their choice could determine the future balance of power in [[02_Worldbuilding/Places/Aquabyssos]].
+**The Challenge:** The party discovers that the Forge is manufacturing components for [[The Pressure Crown]] and must decide whether to help, hinder, or steal the project. Their choice could determine the future balance of power in [[Aquabyssos]].
 
 **Political Ramifications:**
 - Different factions have conflicting interests in the Crown's completion
@@ -494,7 +488,7 @@ A classified program has been systematically altering the Forge's workers to bet
 
 The Forge of War can serve as a central hub for military-themed campaigns, providing:
 - **Equipment and Upgrades:** Custom weapons and armor for party members
-- **Military Contacts:** Connections with [[02_Worldbuilding/Lore/Depth Guard]] and other military organizations
+- **Military Contacts:** Connections with [[Depth Guard]] and other military organizations
 - **Strategic Resources:** Access to intelligence and military planning
 - **Transportation:** Military vessels and equipment for underwater travel
 
@@ -504,14 +498,14 @@ The facility's importance makes it a focal point for political maneuvering:
 - **Faction Influence:** Different groups try to influence production priorities
 - **Resource Allocation:** Decisions about what to produce and when
 - **Technological Advancement:** Control over new military technologies
-- **Strategic Planning:** Influence over [[02_Worldbuilding/Places/Aquabyssos]]'s military strategy
+- **Strategic Planning:** Influence over [[Aquabyssos]]'s military strategy
 
 ### Economic Impact
 
 The Forge's operations have significant economic implications:
 - **Employment:** Thousands of jobs dependent on military production
 - **Resource Demand:** Massive consumption of raw materials and energy
-- **Trade Relationships:** Economic connections throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Trade Relationships:** Economic connections throughout [[Aquabyssos]]
 - **Technological Innovation:** Developments that benefit civilian sectors
 
 ### Long-Term Story Arcs
@@ -526,7 +520,7 @@ Several ongoing storylines can develop around the Forge:
 
 ### Atmosphere and Tone
 
-The Forge of War should feel like a combination of industrial powerhouse and military fortress, with an undercurrent of danger from both the hostile environment and the powerful weapons being created. The facility represents both [[02_Worldbuilding/Places/Aquabyssos]]'s strength and its commitment to conflict.
+The Forge of War should feel like a combination of industrial powerhouse and military fortress, with an undercurrent of danger from both the hostile environment and the powerful weapons being created. The facility represents both [[Aquabyssos]]'s strength and its commitment to conflict.
 
 **Key Atmospheric Elements:**
 - **Industrial Scale:** Massive machinery and endless production lines
@@ -546,7 +540,7 @@ The Forge can be adapted for different campaign styles and power levels:
 ### Integration with Existing Lore
 
 The Forge of War connects with numerous other locations and storylines:
-- **Military Conflicts:** Provides equipment for all major [[02_Worldbuilding/Places/Aquabyssos]] military operations
+- **Military Conflicts:** Provides equipment for all major [[Aquabyssos]] military operations
 - **Political Struggles:** Different factions compete for influence over production
 - **Technological Development:** Innovations here affect other industries and locations
 - **Economic Systems:** The facility is a major economic driver for the entire realm
@@ -597,7 +591,7 @@ The Forge of War connects with numerous other locations and storylines:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -619,15 +613,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[Forge of War]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/New Thalassopolis]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
-- [[02_Worldbuilding/Places/The Drowned Embassy]]
-- [[02_Worldbuilding/Places/The Memory Meadows]]
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[Abyssos Prime Upper Districts]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Cerulean Trench]]
+- [[The Drowned Embassy]]
+- [[The Memory Meadows]]
+- [[The Whispering Depths]]

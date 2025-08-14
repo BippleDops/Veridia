@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-succubus-xmm-succubus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/succubus-xmm|Succubus]]
+# [[succubus-xmm|Succubus]]
 *Source: Monster Manual (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Succubus
@@ -76,23 +76,23 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "When the succubus finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
-      \ it can shape-shift into an [[/03_Mechanics/CLI/bestiary/fiend/incubus-xmm|Incubus]],\
+  - "desc": "When the succubus finishes a [[long-rest-xphb|Long Rest]],\
+      \ it can shape-shift into an [[incubus-xmm|Incubus]],\
       \ using that stat block instead of this one."
     "name": "Incubus Form"
 "actions":
@@ -101,19 +101,19 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage."
     "name": "Fiendish Touch"
-  - "desc": "The succubus casts [[/03_Mechanics/CLI/spells/dominate-person-xphb|Dominate Person]]\
+  - "desc": "The succubus casts [[dominate-person-xphb|Dominate Person]]\
       \ (level 8 version), requiring no spell components and using Charisma as the\
       \ spellcasting ability (spell save DC 15)."
     "name": "Charm"
-  - "desc": "Constitution Saving Throw: DC 15, one creature [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+  - "desc": "Constitution Saving Throw: DC 15, one creature [[conditions#Charmed|Charmed]]\
       \ by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success:\
-      \ Half damage. Failure or Success: The target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]\
+      \ Half damage. Failure or Success: The target's [[hit-points-xphb|Hit Point]]\
       \ maximum decreases by an amount equal to the damage taken."
     "name": "Draining Kiss"
 "bonus_actions":
   - "desc": "The succubus shape-shifts to resemble a Medium or Small Humanoid or back\
       \ into its true form. Its game statistics are the same in each form, except\
-      \ its [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] is available\
+      \ its [[fly-speed-xphb|Fly Speed]] is available\
       \ only in its true form. Any equipment it's wearing or carrying isn't transformed."
     "name": "Shape-Shift"
 "source":

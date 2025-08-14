@@ -23,20 +23,20 @@ world: Both
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[/03_Mechanics/CLI/bestiary/beast/hawk-xmm|Hawk]], [[/03_Mechanics/CLI/bestiary/beast/owl-xmm|Owl]] |
-| 1/8 | [[/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm|Blood Hawk]], [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold Warrior]] |
-| 1/4 | [[/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm|Axe Beak]], [[/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm|Giant Owl]], [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|Winged Kobold]] |
-| 1/2 | [[/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm|Ice Mephit]] |
-| 1 | [[/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm|Brown Bear]], [[/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm|Ogrillon Ogre]] |
-| 2 | [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|Griffon]], [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]], [[/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm|Polar Bear]], [[/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm|Saber-Toothed Tiger]], [[/03_Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm|White Dragon Wyrmling]] |
-| 3 | [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|Manticore]], [[/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm|Winter Wolf]], [[/03_Mechanics/CLI/bestiary/monstrosity/yeti-xmm|Yeti]] |
-| 5 | [[/03_Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm|Giant Axe Beak]], [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Troll]], [[/03_Mechanics/CLI/bestiary/monstrosity/werebear-xmm|Werebear]], [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|Young Remorhaz]] |
-| 6 | [[/03_Mechanics/CLI/bestiary/beast/mammoth-xmm|Mammoth]], [[/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm|Young White Dragon]] |
-| 8 | [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|Frost Giant]] |
-| 9 | [[/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm|Abominable Yeti]] |
-| 11 | [[/03_Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm|Remorhaz]], [[/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm|Roc]] |
-| 13 | [[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|Adult White Dragon]] |
-| 20 | [[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm|Ancient White Dragon]] |
+| 0 | [[hawk-xmm|Hawk]], [[owl-xmm|Owl]] |
+| 1/8 | [[blood-hawk-xmm|Blood Hawk]], [[kobold-warrior-xmm|Kobold Warrior]] |
+| 1/4 | [[axe-beak-xmm|Axe Beak]], [[giant-owl-xmm|Giant Owl]], [[winged-kobold-xmm|Winged Kobold]] |
+| 1/2 | [[ice-mephit-xmm|Ice Mephit]] |
+| 1 | [[brown-bear-xmm|Brown Bear]], [[ogrillon-ogre-xmm|Ogrillon Ogre]] |
+| 2 | [[griffon-xmm|Griffon]], [[ogre-xmm|Ogre]], [[polar-bear-xmm|Polar Bear]], [[saber-toothed-tiger-xmm|Saber-Toothed Tiger]], [[white-dragon-wyrmling-xmm|White Dragon Wyrmling]] |
+| 3 | [[manticore-xmm|Manticore]], [[winter-wolf-xmm|Winter Wolf]], [[yeti-xmm|Yeti]] |
+| 5 | [[giant-axe-beak-xmm|Giant Axe Beak]], [[troll-xmm|Troll]], [[werebear-xmm|Werebear]], [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|Young Remorhaz]] |
+| 6 | [[mammoth-xmm|Mammoth]], [[young-white-dragon-xmm|Young White Dragon]] |
+| 8 | [[frost-giant-xmm|Frost Giant]] |
+| 9 | [[abominable-yeti-xmm|Abominable Yeti]] |
+| 11 | [[remorhaz-xmm|Remorhaz]], [[roc-xmm|Roc]] |
+| 13 | [[adult-white-dragon-xmm|Adult White Dragon]] |
+| 20 | [[ancient-white-dragon-xmm|Ancient White Dragon]] |
 ^arctic-monsters
 
 ## Player-Facing Summary

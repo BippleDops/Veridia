@@ -22,13 +22,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg]]
 
 
 # Investigate the Crystal Plague
@@ -88,8 +83,8 @@ Balance body horror with investigative mystery. The conscious crystal victims cr
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
-- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 
 ## Appearance
@@ -137,7 +132,7 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Investigate the Crystal Plague]]
+- [[Investigate the Crystal Plague]]
 
 <!-- enriched: true -->
 nriched: true -->

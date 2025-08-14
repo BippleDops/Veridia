@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

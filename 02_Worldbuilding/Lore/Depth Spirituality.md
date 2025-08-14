@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -53,9 +49,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
+- [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[12_Research/D&D_References/Temple of Divine Order]]

@@ -28,53 +28,53 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `d4` [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|poisonous snakes]] |
-| 02-05 | `3d6` [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|rats]] |
-| 06-10 | `2d8` [[/03_Mechanics/CLI/bestiary/beast/raven-xmm|ravens]] |
-| 11-12 | `3d6` [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|giant rats]] |
+| 01 | `d4` [[venomous-snake-xmm|poisonous snakes]] |
+| 02-05 | `3d6` [[rat-xmm|rats]] |
+| 06-10 | `2d8` [[raven-xmm|ravens]] |
+| 11-12 | `3d6` [[giant-rat-xmm|giant rats]] |
 | 13 | `1d10 + 5` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
-| 14-15 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] |
-| 16-17 | 1 [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|crocodile]] |
-| 18-19 | 1 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarm of insects]] |
-| 20 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spider]] |
+| 14-15 | `1d8 + 1` [[giant-lizard-xmm|giant lizards]] |
+| 16-17 | 1 [[crocodile-xmm|crocodile]] |
+| 18-19 | 1 [[swarm-of-insects-xmm|swarm of insects]] |
+| 20 | 1 [[giant-spider-xmm|giant spider]] |
 | 21-22 | `1d4 + 1` mud huts partially sunken in murky water |
-| 23-25 | `2d8 + 1` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
-| 26 | `2d4` [[/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm|mud mephits]] |
-| 27-29 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|giant poisonous snakes]] |
-| 30 | `2d4` [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobolds]] |
+| 23-25 | `2d8 + 1` [[kobold-warrior-xmm|kobolds]] |
+| 26 | `2d4` [[mud-mephit-xmm|mud mephits]] |
+| 27-29 | `1d6 + 2` [[giant-venomous-snake-xmm|giant poisonous snakes]] |
+| 30 | `2d4` [[winged-kobold-xmm|winged kobolds]] |
 | 31-32 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scout]] |
-| 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an [[/03_Mechanics/CLI/items/explorers-pack-xphb|explorer's pack]] and perhaps (50% chance) a random common magic item. |
-| 35-38 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm|giant toad]] |
-| 39-41 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm|constrictor snakes]] |
-| 42-44 | `2d4` [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]] |
-| 45 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]] or `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarms of ravens]] |
-| 46-48 | `2d10` [[/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm|stirges]] |
-| 49-52 | `2d6 + 3` [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] |
+| 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an [[explorers-pack-xphb|explorer's pack]] and perhaps (50% chance) a random common magic item. |
+| 35-38 | 1 [[giant-toad-xmm|giant toad]] |
+| 39-41 | `1d6 + 2` [[constrictor-snake-xmm|constrictor snakes]] |
+| 42-44 | `2d4` [[giant-frog-xmm|giant frogs]] |
+| 45 | `1d8 + 1` [[swarm-of-rats-xmm|swarms of rats]] or `1d6 + 2` [[swarm-of-ravens-xmm|swarms of ravens]] |
+| 46-48 | `2d10` [[stirge-xmm|stirges]] |
+| 49-52 | `2d6 + 3` [[bullywug-warrior-xmm|bullywugs]] |
 | 53-54 | `1d8 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
 | 55-56 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm|yuan-ti purebloods]] |
 | 57 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] |
 | 58-59 | 1 yuan-ti malison: [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
-| 60-62 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|giant constrictor snake]] |
+| 60-62 | 1 [[giant-constrictor-snake-xmm|giant constrictor snake]] |
 | 63-64 | A high-pitched shriek that lasts for `d4` minutes |
 | 65-67 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
-| 68-69 | `d4` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
-| 70-71 | 1 [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisp]] |
-| 72 | 1 [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wight]] |
-| 73 | 1 [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|ghast]] |
-| 74-75 | 1 [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]] |
+| 68-69 | `d4` [[ghoul-xmm|ghouls]] |
+| 70-71 | 1 [[will-o-wisp-xmm|will-o'-wisp]] |
+| 72 | 1 [[wight-xmm|wight]] |
+| 73 | 1 [[ghast-xmm|ghast]] |
+| 74-75 | 1 [[swarm-of-venomous-snakes-xmm|swarm of poisonous snakes]] |
 | 76-77 | A foul stench bubbling up from brackish waters |
-| 78-80 | `1d4 + 2` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
-| 81-83 | 1 [[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm|shambling mound]] |
-| 84-86 | 1 [[/03_Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm|lizardfolk shaman]] with `d6` [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] and `2d10` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
-| 87 | 1 [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|troll]] |
-| 88-89 | `d4` [[/03_Mechanics/CLI/bestiary/fey/green-hag-xmm|green hags]] |
-| 90-91 | 1 [[/03_Mechanics/CLI/bestiary/undead/revenant-xmm|revenant]] |
-| 92-93 | 1 [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|giant crocodile]] |
+| 78-80 | `1d4 + 2` [[ogre-xmm|ogres]] |
+| 81-83 | 1 [[shambling-mound-xmm|shambling mound]] |
+| 84-86 | 1 [[lizardfolk-geomancer-xmm|lizardfolk shaman]] with `d6` [[giant-lizard-xmm|giant lizards]] and `2d10` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
+| 87 | 1 [[troll-xmm|troll]] |
+| 88-89 | `d4` [[green-hag-xmm|green hags]] |
+| 90-91 | 1 [[revenant-xmm|revenant]] |
+| 92-93 | 1 [[giant-crocodile-xmm|giant crocodile]] |
 | 94-95 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d3` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] and `2d6 + 3` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
-| 96-97 | 1 [[/03_Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm|young black dragon]] |
+| 96-97 | 1 [[young-black-dragon-xmm|young black dragon]] |
 | 98 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] |
-| 99 | `d4` [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elementals]] |
-| 00 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|hydra]] |
+| 99 | `d4` [[water-elemental-xmm|water elementals]] |
+| 00 | 1 [[hydra-xmm|hydra]] |
 ^swamp-encounters-levels-14
 
 ## Player-Facing Summary

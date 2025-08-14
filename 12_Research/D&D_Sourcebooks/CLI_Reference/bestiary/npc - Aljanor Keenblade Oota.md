@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-aljanor-keenblade-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\npc/aljanor-keenblade-oota|Aljanor Keenblade]]
+# [[aljanor-keenblade-oota|Aljanor Keenblade]]
 *Source: Out of the Abyss p. 149*  
 
 ```statblock
@@ -55,7 +55,7 @@ world: Both
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "Aljanor has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Frightened|frightened]]."
+  - "desc": "Aljanor has advantage on saving throws against being [[conditions#Frightened|frightened]]."
     "name": "Brave"
 "actions":
   - "desc": "Aljanor makes two melee attacks."
@@ -70,7 +70,7 @@ world: Both
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand Aljanor. A creature can benefit from only one Leadership\
-      \ die at a time. This effect ends if Aljanor is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ die at a time. This effect ends if Aljanor is [[conditions#Incapacitated|incapacitated]]."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "Aljanor adds 2 to its AC against one melee attack that would hit it.\

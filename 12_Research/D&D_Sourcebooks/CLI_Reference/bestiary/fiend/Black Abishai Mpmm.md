@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-black-abishai-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/black-abishai-mpmm|Black Abishai]]
+# [[black-abishai-mpmm|Black Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -64,19 +64,19 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "dexterity": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "acid, fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "7"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the abishai's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -90,13 +90,13 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) force damage."
     "name": "Scimitar"
-  - "desc": "The abishai casts [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]]\
-      \ at a point within 120 feet of it, requiring no spell components or [[/03_Mechanics/CLI/conditions#Concentration|concentration]].\
+  - "desc": "The abishai casts [[darkness-xphb|darkness]]\
+      \ at a point within 120 feet of it, requiring no spell components or [[conditions#Concentration|concentration]].\
       \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
       \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"
     "name": "Creeping Darkness (Recharge 6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the abishai takes the [[/03_Mechanics/CLI/actions#Hide|Hide]]\
+  - "desc": "While in dim light or darkness, the abishai takes the [[actions#Hide|Hide]]\
       \ action."
     "name": "Shadow Stealth"
 "source":

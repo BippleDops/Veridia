@@ -32,12 +32,12 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 You have resistance to cold damage while you hold this staff.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[/03_Mechanics/CLI/spells/cone-of-cold-xphb|cone of cold]] (5 charges), [[/03_Mechanics/CLI/spells/fog-cloud-xphb|fog cloud]] (1 charge), [[/03_Mechanics/CLI/spells/ice-storm-xphb|ice storm]] (4 charges), or [[/03_Mechanics/CLI/spells/wall-of-ice-xphb|wall of ice]] (4 charges).
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[cone-of-cold-xphb|cone of cold]] (5 charges), [[fog-cloud-xphb|fog cloud]] (1 charge), [[ice-storm-xphb|ice storm]] (4 charges), or [[wall-of-ice-xphb|wall of ice]] (4 charges).
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1. the staff turns to water and is destroyed.
 

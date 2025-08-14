@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[12_Research/D&D_References/The Liminal Trading Company]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[12_Research/D&D_References/The Liminal Trading Company]]
 
 ## Player-Facing Summary
 

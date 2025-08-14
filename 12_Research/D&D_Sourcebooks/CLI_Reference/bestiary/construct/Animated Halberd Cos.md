@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-halberd-cos-animated-halberd-cos.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-halberd-cos|Animated Halberd]]
+# [[animated-halberd-cos|Animated Halberd]]
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -51,19 +51,19 @@ world: Both
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The sword is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
+  - "desc": "The sword is [[conditions#Incapacitated|incapacitated]]\
+      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
+      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
       \ the sword must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]\
+      \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\

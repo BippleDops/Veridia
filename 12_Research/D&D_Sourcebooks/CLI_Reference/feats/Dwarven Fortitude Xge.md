@@ -23,12 +23,12 @@ world: Both
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/races/dwarf-xphb|Dwarf]]
+**Prerequisite**: [[dwarf-xphb|Dwarf]]
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
 - Increase your Constitution score by 1, to a maximum of 20.  
-- Whenever you take the [[/03_Mechanics/CLI/actions#Dodge|Dodge]] action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+- Whenever you take the [[actions#Dodge|Dodge]] action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 
 ## Player-Facing Summary
 

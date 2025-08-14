@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-harmonic-mind-contro-harmonic-mind-contro.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-harmonic-mind-contro-harmonic-mind-contro.svg]]
 
 
 ## Overview

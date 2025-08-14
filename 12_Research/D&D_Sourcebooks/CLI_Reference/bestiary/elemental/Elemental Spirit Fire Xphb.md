@@ -23,7 +23,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
+# [[elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
 "speed": "40 ft."
 "damage_resistances": "lightning, thunder (Air only)"
 "damage_immunities": "poison, fire"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":

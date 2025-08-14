@@ -11,21 +11,19 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 
 
 ## Connections
 
-- [[Deep Mother]]
-- [[The Convergence Point]]
-- [[Timeline of the Drowning]]
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_References/High Priestess Scylla Deepdream]]
+- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
+- [[12_Research/D&D_References/The Hadal Depths]]
 
 ## Player-Facing Summary
 
@@ -46,3 +44,7 @@ Legends speak of The Drowning Welcome as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

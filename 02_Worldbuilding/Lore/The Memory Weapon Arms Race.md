@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/Lore/Umbral Exchange]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Forgetting Bomb]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Umbral Exchange]]
+- [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 

@@ -16,10 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-councilor-tidal-balancekeeper-councilor-tidal-balancekeeper.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-councilor-tidal-balancekeeper-councilor-tidal-balancekeeper.svg]]
 
 
 ## Overview
@@ -61,6 +58,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Councilor Tidal Balancekeeper]]
+- [[12_Research/D&D_References/Councilor Tidal Balancekeeper]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Breathing Stone]]
+- [[12_Research/D&D_References/The Breathing Stone]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Breathing Stone]]
+- [[12_Research/D&D_References/The Breathing Stone]]
 
 ## Player-Facing Summary
 

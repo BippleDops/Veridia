@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[The Crimson Sage]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[The Crimson Sage]]
 
 ## Player-Facing Summary
 

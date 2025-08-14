@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-master-chronologist-temporal-truthkeeper-master-chronologist-temporal-truthkeeper.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-master-chronologist-temporal-truthkeeper-master-chronologist-temporal-truthkeeper.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[12_Research/D&D_References/Timeline of Crimes]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[12_Research/D&D_References/Timeline of Crimes]]
 
 ## Player-Facing Summary
 

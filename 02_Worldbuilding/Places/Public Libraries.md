@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-public-libraries-public-libraries.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-public-libraries-public-libraries.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Public Libraries]]
+- [[12_Research/D&D_References/Public Libraries]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]

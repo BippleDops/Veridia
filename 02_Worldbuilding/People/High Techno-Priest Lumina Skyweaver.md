@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-techno-priest-lumina-skyweaver-high-techno-priest-lumina-skyweaver.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-techno-priest-lumina-skyweaver-high-techno-priest-lumina-skyweaver.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Techno-Priest Lumina Skyweaver]]
+- [[High Techno-Priest Lumina Skyweaver]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Skyforged Crystal Worship]]
+- [[Skyforged Crystal Worship]]

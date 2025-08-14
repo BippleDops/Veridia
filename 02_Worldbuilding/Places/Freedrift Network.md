@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-freedrift-network-freedrift-network.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-freedrift-network-freedrift-network.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Freedrift Network]]
+- [[12_Research/D&D_References/Freedrift Network]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]

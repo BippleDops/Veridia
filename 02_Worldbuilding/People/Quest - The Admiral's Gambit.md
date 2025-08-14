@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-admiral-s-gambit-quest-the-admiral-s-gambit.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-admiral-s-gambit-quest-the-admiral-s-gambit.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Admiral's Gambit]]
+- [[Quest - The Admiral's Gambit]]
 
 <!-- enriched: true -->

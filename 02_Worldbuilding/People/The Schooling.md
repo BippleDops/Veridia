@@ -14,16 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-schooling-the-schooling.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-schooling-the-schooling.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
+- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 
 ## Connections

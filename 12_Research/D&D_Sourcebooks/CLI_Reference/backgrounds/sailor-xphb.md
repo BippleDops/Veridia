@@ -22,10 +22,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
-- **Feat.** [[/03_Mechanics/CLI/feats/tavern-brawler-xphb|Tavern Brawler]]  
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]], [[/03_Mechanics/CLI/skills#Perception|Perception]]  
-- **Tool Proficiency.** [[/03_Mechanics/CLI/items/navigators-tools-xphb|Navigator's Tools]]  
-- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/dagger-xphb|Dagger]], [[/03_Mechanics/CLI/items/navigators-tools-xphb|Navigator's Tools]], [[/03_Mechanics/CLI/items/rope-xphb|Rope]], [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]], 20 GP; or (B) 50 GP  
+- **Feat.** [[tavern-brawler-xphb|Tavern Brawler]]  
+- **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Perception|Perception]]  
+- **Tool Proficiency.** [[navigators-tools-xphb|Navigator's Tools]]  
+- **Equipment.** Choose A or B: (A) [[dagger-xphb|Dagger]], [[navigators-tools-xphb|Navigator's Tools]], [[rope-xphb|Rope]], [[travelers-clothes-xphb|Traveler's Clothes]], 20 GP; or (B) 50 GP  
 
 You lived as a seafarer, wind at your back and decks swaying beneath your feet. You've perched on barstools in more ports of call than you can remember, faced mighty storms, and swapped stories with folk who live beneath the waves.
 

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-master-engineer-cordelia-pressurewright-master-engineer-cordelia-pressurewright.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-master-engineer-cordelia-pressurewright-master-engineer-cordelia-pressurewright.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Engineer Cordelia Pressurewright]]
+- [[Master Engineer Cordelia Pressurewright]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[Pressure Terminal]]

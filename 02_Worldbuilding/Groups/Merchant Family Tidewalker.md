@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-family-tidewalker-merchant-family-tidewalker.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-merchant-family-tidewalker-merchant-family-tidewalker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 ## Player-Facing Summary
 

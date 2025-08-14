@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-echo-keeper-selin-echo-keeper-selin.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-echo-keeper-selin-echo-keeper-selin.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[12_Research/D&D_References/Sister Morwyn]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[12_Research/D&D_References/Sister Morwyn]]
 
 ## Player-Facing Summary
 

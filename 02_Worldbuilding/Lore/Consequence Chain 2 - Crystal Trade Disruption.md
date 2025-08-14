@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
 - aethermoor
 - campaign-consequences
 - complete
@@ -21,6 +25,7 @@ primary_sessions:
 
 
 # Consequence Chain 2: Crystal Trade Disruption
+
 *The Silverscale Consortium's Economic Empire Exposed*
 
 ## Initial Action
@@ -29,16 +34,16 @@ primary_sessions:
 - Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in Port Meridian harbor
 - Raided the Silverscale Banking House emergency vault during Crimson Hand operation
 - Recovered critical documents exposing cross-realm excavation operations
-- Confronted [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] and chose to expose rather than accept bribes
-- Defeated [[02_Worldbuilding/People/Vex Shadowthorn]] and discovered connection to Aquabyssos entities
+- Confronted [[12_Research/D&D_References/Director Hadrian Silverscale]] and chose to expose rather than accept bribes
+- Defeated [[12_Research/D&D_References/Vex Shadowthorn]] and discovered connection to Aquabyssos entities
 - Revealed Silverscale's illegal excavation of Aquabyssos ruins for profit
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Core operations exposed, leadership under investigation
-- **[[02_Worldbuilding/Lore/Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
-- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Operations disrupted, forced underground
+- **[[12_Research/D&D_References/Silverscale Consortium]]**: Core operations exposed, leadership under investigation
+- **[[12_Research/D&D_References/Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
+- **[[12_Research/D&D_References/Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
+- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
+- **[[12_Research/D&D_References/Vex Shadowthorn]]**: Operations disrupted, forced underground
 - **Nobles with Silverscale debts**: Financial leverage exposed, political autonomy threatened
 
 **Immediate visible results:**
@@ -63,7 +68,7 @@ primary_sessions:
 - **Emergency Corporate Regulation Act** passed within two weeks
 - **Royal Asset Seizure Decree** allowed Crown to freeze Consortium holdings
 - **Parliamentary Investigation Committee** formed with expanded powers
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
+- **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
 - **Noble debt restructuring**: Crown mediated debt forgiveness for cooperation
 - **Diplomatic crisis**: Aquabyssos demanded reparations for grave robbery
 
@@ -85,12 +90,12 @@ primary_sessions:
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Groups/The Crown]]** authority strengthened through popular anti-corporate campaign
+- **[[12_Research/D&D_References/The Crown]]** authority strengthened through popular anti-corporate campaign
 - **Independent Merchant Guilds** formed alliance to fill Silverscale's market position
-- **[[02_Worldbuilding/People/The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
-- **[[02_Worldbuilding/Places/Noble Houses]]** split between Consortium loyalists and Crown supporters
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
+- **[[12_Research/D&D_References/Noble Houses]]** split between Consortium loyalists and Crown supporters
 - **[[Workers' Liberation Movement]]** emerged from ex-Consortium employee organizing
-- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
+- **[[Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
 
 **Trade route changes:**
 - **Alternative supply networks**: Small merchants collectively replaced Consortium capacity
@@ -152,24 +157,28 @@ primary_sessions:
 ## Ongoing Monitoring Points
 
 ### Economic Recovery Indicators
+
 - **Market stability**: Crystal prices stabilized after 6 months at 40% higher than Consortium era
 - **Employment recovery**: Cooperative organizations absorbed 85% of displaced workers
 - **Innovation metrics**: Patent applications increased 300% after research democratization
 - **Trade volume**: Cross-realm commerce recovered to 90% of pre-crisis levels
 
 ### Political Effectiveness Measures
+
 - **Regulatory compliance**: New corporate oversight preventing concentration of power
 - **Public confidence**: Trust in government increased 120% due to successful intervention
 - **International standing**: Diplomatic reputation enhanced by ethical business practices
 - **Legal precedent**: Corporate accountability laws adopted by neighboring kingdoms
 
 ### Social Transformation Tracking
+
 - **Worker organization**: Union membership increased 400% across all industries
 - **Consumer behavior**: Ethical certification requirements drove market transformation
 - **Educational impact**: Business schools integrated ethics as core curriculum requirement
 - **Cultural production**: Anti-corporate artistic movements became mainstream
 
 ### Security and Stability Assessment
+
 - **Corporate espionage**: Foreign attempts to recreate Consortium model detected and prevented
 - **Asset recovery**: 70% of hidden Consortium wealth located and redistributed
 - **Resistance activity**: Underground Silverscale loyalist cells monitored but minimal threat
@@ -178,12 +187,14 @@ primary_sessions:
 ## Connected Consequences
 
 ### Links to Other Major Events
+
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's Depth Guard status legitimized cross-realm cooperation
-- **[[02_Worldbuilding/Lore/Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
+- **[[12_Research/D&D_References/Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
 - **[[Cross-realm diplomatic relations]]**: Economic cooperation laid foundation for political alliance
 - **[[Worker organization movements]]**: Labor solidarity spread to other realms
 
 ### Systemic Changes Implemented
+
 1. **Corporate Size Limitations**: No single entity may control >20% of any essential market
 2. **Public Research Requirements**: Major discoveries must be shared within 2 years
 3. **Cross-Realm Trade Ethics**: Exploitation of other civilizations criminalized
@@ -191,6 +202,7 @@ primary_sessions:
 5. **Transparency Mandates**: Large organizations must publish detailed financial records
 
 ### Unresolved Questions
+
 1. How many other "Silverscale-type" conspiracies exist in other realms?
 2. What long-term effects will economic democratization have on innovation?
 3. Can cooperative economic models scale to handle complex international trade?
@@ -204,10 +216,14 @@ primary_sessions:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Lore/Economic History of the Realms]]
-- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[12_Research/D&D_References/Campaign Consequence Tracking Framework]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Economic History of the Realms]]
+- [[12_Research/D&D_References/Director Hadrian Silverscale]]
+- [[12_Research/D&D_References/Port Meridian]]
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

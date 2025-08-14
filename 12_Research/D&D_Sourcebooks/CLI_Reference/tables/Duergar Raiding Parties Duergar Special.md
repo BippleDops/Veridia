@@ -28,21 +28,21 @@ world: Both
 
 | dice: d20 | Allies |
 |-----------|--------|
-| 1-3 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm|steeders, female]] |
-| 4-6 | `d3` [[/03_Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm|duergar hammerers]] |
+| 1-3 | `d4` [[female-steeder-mpmm|steeders, female]] |
+| 4-6 | `d3` [[duergar-hammerer-mpmm|duergar hammerers]] |
 | 7 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm|duergar mind master]] |
-| 8 | `d3` [[/03_Mechanics/CLI/bestiary/construct/duergar-screamer-mpmm|duergar screamers]] |
+| 8 | `d3` [[duergar-screamer-mpmm|duergar screamers]] |
 | 9-10 | `d3` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] |
 | 11 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm|duergar xarrorn]] |
-| 12 | `d6` [[/03_Mechanics/CLI/bestiary/fiend/bearded-devil-xmm|bearded devils]] bound to service |
-| 13 | `2d4` allied evil [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|azers]] |
-| 14 | `3d20` enslaved [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] |
-| 15 | `d4` summoned [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth elementals]] |
-| 16 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
-| 17 | `d8` [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]] |
-| 18 | 1 trained [[/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm|rust monster]] |
-| 19 | 1 [[/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm|shield guardian]] bound to group leader |
-| 20 | `d4` enslaved [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
+| 12 | `d6` [[bearded-devil-xmm|bearded devils]] bound to service |
+| 13 | `2d4` allied evil [[azer-sentinel-xmm|azers]] |
+| 14 | `3d20` enslaved [[goblin-warrior-xmm|goblins]] |
+| 15 | `d4` summoned [[earth-elemental-xmm|earth elementals]] |
+| 16 | `1d6 + 2` [[gargoyle-xmm|gargoyles]] |
+| 17 | `d8` [[hell-hound-xmm|hell hounds]] |
+| 18 | 1 trained [[rust-monster-xmm|rust monster]] |
+| 19 | 1 [[shield-guardian-xmm|shield guardian]] bound to group leader |
+| 20 | `d4` enslaved [[troll-xmm|trolls]] |
 ^duergar-special-allies
 
 ## Player-Facing Summary

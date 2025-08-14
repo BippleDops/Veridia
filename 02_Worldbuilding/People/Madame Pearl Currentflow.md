@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[Inverted Ballroom Wing]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 

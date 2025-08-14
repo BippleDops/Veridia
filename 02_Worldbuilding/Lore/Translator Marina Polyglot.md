@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
 
 ## Player-Facing Summary
 

@@ -34,7 +34,7 @@ world: Both
 
 - **Ability.** Intelligence  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[/03_Mechanics/CLI/items/acid-xphb|Acid]], [[/03_Mechanics/CLI/items/alchemists-fire-xphb|Alchemist's Fire]], [[/03_Mechanics/CLI/items/component-pouch-xphb|Component Pouch]], [[/03_Mechanics/CLI/items/oil-xphb|Oil]], [[/03_Mechanics/CLI/items/paper-xphb|Paper]], [[/03_Mechanics/CLI/items/perfume-xphb|Perfume]]  
+- **Craft.** [[acid-xphb|Acid]], [[alchemists-fire-xphb|Alchemist's Fire]], [[component-pouch-xphb|Component Pouch]], [[oil-xphb|Oil]], [[paper-xphb|Paper]], [[perfume-xphb|Perfume]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

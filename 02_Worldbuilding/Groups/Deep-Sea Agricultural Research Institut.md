@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg]]
 
 
 ## Overview

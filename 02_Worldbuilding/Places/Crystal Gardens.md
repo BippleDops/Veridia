@@ -3,6 +3,10 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,17 +19,12 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-gardens-crystal-gardens.svg)
 
 
-
-
-
 # Crystal Gardens
+
 ## The Prismatic Heart of Aethermoor's Wonder
 
 > *"Where light dances eternal and crystal dreams take root in soil made of wishes."*
@@ -33,7 +32,7 @@ world: Both
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuilding/Places/Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[02_Worldbuilding/Items/Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[12_Research/D&D_References/Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[12_Research/D&D_References/Aether Crystals]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -52,27 +51,31 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## History and Origins
 
 ### The First Bloom
-**Founded**: 200 years ago by [[02_Worldbuilding/Places/Sage Prism Lightweaver]]  
+
+**Founded**: 200 years ago by [[12_Research/D&D_References/Sage Prism Lightweaver]]  
 **Original Purpose**: Experimental facility for crystal-plant hybrid cultivation  
-**The Discovery**: First successful growth of [[02_Worldbuilding/Places/Resonance Roses]] - crystals that bloom like flowers  
-**Royal Patronage**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s ancestors made it a crown preserve
+**The Discovery**: First successful growth of [[12_Research/D&D_References/Resonance Roses]] - crystals that bloom like flowers  
+**Royal Patronage**: [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s ancestors made it a crown preserve
 
 ### The Great Crystallization
+
 **Event**: 50 years ago, wild magic surge caused mass crystal growth  
 **Result**: Gardens tripled in size overnight  
 **Consequence**: Some gardeners became partially crystallized but gained plant-speech abilities  
-**Mystery**: The surge's origin remains unknown, but some suspect [[02_Worldbuilding/Lore/The Seven Shards]] involvement
+**Mystery**: The surge's origin remains unknown, but some suspect [[12_Research/D&D_References/The Seven Shards]] involvement
 
 ### Modern Era
+
 **Current Status**: Premier magical research facility and public wonder  
 **Expansion**: Underground crystal caverns discovered beneath original gardens  
-**Integration**: Now connected to the [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]] via crystal bridges
+**Integration**: Now connected to the [[12_Research/D&D_References/Palace Courtyard - Crystal Garden]] via crystal bridges
 
 ## Geography and Layout
 
 ### The Upper Gardens (Surface Level)
 
 #### The Prism Plaza
+
 **Description**: Central gathering area with a massive crystal formation that refracts daylight into rainbow patterns  
 **Features**: Benches of living crystal that adjust to sitter comfort, fountain of liquid light  
 **Purpose**: Public events, crystal light festivals, ceremonial gatherings  
@@ -88,41 +91,47 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 *Atmospheric Enhancement*: Air quality here is extraordinary—each breath feels refreshing and energizing. The magical saturation is highest in the plaza, making spellcasters feel like their abilities are amplified and non-magical individuals experience enhanced physical and mental clarity.
 
 #### The Resonance Rose Groves
+
 **Description**: Carefully cultivated rows of crystal formations that bloom like roses  
 **Colors**: Each row represents a different magical school (red for evocation, blue for abjuration, etc.)  
 **Harvest**: Blooms can be harvested for spell components worth 50-200gp each  
 **Danger**: Wild magic surges if roses are damaged or harvested improperly
 
 #### The Singing Stone Circle
+
 **Description**: Ring of crystal monoliths that hum in harmony with Aethermoor's magical field  
-**Purpose**: Meditation space for [[02_Worldbuilding/People/Crystal Wardens]] and spellcasters  
+**Purpose**: Meditation space for [[12_Research/D&D_Statblocks/Crystal Wardens]] and spellcasters  
 **Effect**: Long rest here grants temporary spell slot (up to 3rd level)  
 **Legend**: Said to predict magical storms through changes in their song
 
 #### The Shimmering Maze
+
 **Description**: Living crystal hedges that grow and shift, creating an ever-changing labyrinth  
 **Challenge**: Navigate to center for rare crystal specimens  
 **Hazard**: Getting lost leads to temporal displacement (1d4 hours lost)  
-**Reward**: [[02_Worldbuilding/Places/Maze Heart Crystal]] - allows casting of *misty step* 3/day
+**Reward**: [[12_Research/D&D_References/Maze Heart Crystal]] - allows casting of *misty step* 3/day
 
 ### The Lower Gardens (Underground Caverns)
 
 #### The Root Vault
+
 **Description**: Massive cavern where crystal root systems spread through mineral-rich soil  
 **Purpose**: Primary growth chamber for rare crystal specimens  
 **Environment**: Constant 68°F, humidity maintained by crystal condensers  
 **Access**: Restricted to Master Cultivators and authorized researchers
 
 #### The Memory Pool
+
 **Description**: Underground lake of crystal-clear water that holds magical memories  
 **Effect**: Drinking grants vision of the Gardens' history (Insight check DC 15 for specific information)  
 **Danger**: Overindulgence causes memory overlap and confusion  
 **Secret**: Contains memories of events that haven't happened yet
 
 #### The Dark Gardens
-**Description**: Section where [[02_Worldbuilding/Places/Shadow Crystals]] grow, requiring special handling  
+
+**Description**: Section where [[12_Research/D&D_References/Shadow Crystals]] grow, requiring special handling  
 **Purpose**: Research into combining light and shadow magic  
-**Guardians**: [[02_Worldbuilding/Places/Crystal Sentinels]] programmed to prevent unauthorized access  
+**Guardians**: [[12_Research/D&D_References/Crystal Sentinels]] programmed to prevent unauthorized access  
 **Products**: Components for spells that manipulate light/darkness boundaries
 
 ## Notable Flora and Crystal Formations
@@ -130,6 +139,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ### Living Crystal Species
 
 #### Resonance Roses
+
 **Appearance**: Crystalline formations shaped like blooming roses, each petal a different faceted gem  
 **Colors**: Vary by magical school - red (evocation), blue (abjuration), green (transmutation), etc.  
 **Growth Cycle**: Bloom every full moon, harvest window of 3 days  
@@ -137,6 +147,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Market Value**: 50-200gp per bloom depending on magical potency
 
 #### Prism Lilies  
+
 **Appearance**: Tall crystal stems topped with flower-shaped light refractions  
 **Special Property**: Each lily shows a different spectrum of magical auras  
 **Purpose**: Detecting magical items, identifying enchantments  
@@ -144,6 +155,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Rarity**: Only 12 exist in the world, all in these Gardens
 
 #### Memory Moss
+
 **Appearance**: Soft, glowing moss that grows on crystal surfaces  
 **Effect**: Touching reveals recent magical events in the area  
 **Applications**: Magical forensics, historical research, enchantment detection  
@@ -151,15 +163,17 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Warning**: Overexposure causes temporary memory absorption and confusion
 
 #### Sentinel Vines
+
 **Appearance**: Crystal vines with thorn-like magical sensors  
 **Purpose**: Garden security system - alerts cultivators to intruders or problems  
 **Behavior**: Can entangle unauthorized visitors, but won't seriously harm  
 **Intelligence**: Limited but growing - some vines have developed personalities  
-**Communication**: Respond to [[02_Worldbuilding/Places/Crystal Speak]] and gentle magical persuasion
+**Communication**: Respond to [[12_Research/D&D_References/Crystal Speak]] and gentle magical persuasion
 
 ### Hybrid Creations
 
 #### Lumina Trees
+
 **Description**: Trees with crystalline bark and leaves that store and release light  
 **Function**: Provide illumination during dark seasons, store solar energy  
 **Harvest**: Bark shavings create light sources lasting 1 week each  
@@ -167,6 +181,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Consciousness**: Debate among scholars about whether they're truly sentient
 
 #### Harmony Hedges
+
 **Description**: Living crystal formations that grow in musical patterns  
 **Sound**: Create ambient magical music that soothes and inspires  
 **Effect**: Reduce stress, improve spellcasting concentration  
@@ -177,21 +192,24 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 
 ### The Crystal Cultivators Guild
 
-#### Master Gardener [[02_Worldbuilding/Places/Sage Iris Crystalbloom]]
+#### Master Gardener [[12_Research/D&D_References/Sage Iris Crystalbloom]]
+
 **Role**: Chief curator and head of research  
 **Specialty**: Creating new hybrid crystal-plant species  
 **Personality**: Obsessively dedicated, speaks more to plants than people  
 **Secret**: Has been partially crystallized for 30 years but hides it from public  
 **Knowledge**: Can identify any crystal by touch, knows location of every specimen
 
-#### Journeyman [[02_Worldbuilding/Places/Basil Prismtender]]
+#### Journeyman [[12_Research/D&D_References/Basil Prismtender]]
+
 **Role**: Day-to-day operations manager  
 **Specialty**: Crystal propagation and maintenance  
 **Personality**: Practical, efficient, secretly romantic about the Garden's beauty  
 **Background**: Former merchant who found calling in crystal cultivation  
 **Skills**: Excellent at training new cultivators and explaining processes to visitors
 
-#### Apprentice [[02_Worldbuilding/Places/Luna Shimmerleaf]]
+#### Apprentice [[12_Research/D&D_References/Luna Shimmerleaf]]
+
 **Role**: Student cultivator and public guide  
 **Age**: 19, extremely enthusiastic about crystal botany  
 **Specialty**: Memory moss cultivation and magical detection  
@@ -200,14 +218,16 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 
 ### The Garden Guards
 
-#### Crystal Warden [[02_Worldbuilding/People/Captain Sterling Lightshield]]
+#### Crystal Warden [[12_Research/D&D_References/Captain Sterling Lightshield]]
+
 **Role**: Head of Garden security  
-**Equipment**: Crystal plate armor, [[02_Worldbuilding/Places/Prism Sword]] that channels multiple damage types  
+**Equipment**: Crystal plate armor, [[12_Research/D&D_References/Prism Sword]] that channels multiple damage types  
 **Responsibility**: Protecting rare specimens and preventing magical accidents  
 **Challenge**: Balancing security needs with public access and research freedom  
 **Connection**: Secretly in love with Master Gardener Iris but too shy to admit it
 
-#### [[02_Worldbuilding/Places/Sentinel Constructs]]
+#### [[12_Research/D&D_References/Sentinel Constructs]]
+
 **Description**: Crystalline guardians infused with garden-awareness  
 **Function**: Patrol gardens 24/7, respond to threats automatically  
 **Personality**: Each has developed unique quirks after years of observation  
@@ -216,14 +236,16 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 
 ### Research Staff
 
-#### Magical Botanist [[Dr. Vera Spectrumseeker]]
+#### Magical Botanist [[12_Research/D&D_References/Dr. Vera Spectrumseeker]]
+
 **Expertise**: Studying connections between crystal growth and magical phenomena  
 **Project**: Investigating whether crystals can develop true consciousness  
 **Method**: Long-term observation of individual specimens' behavior patterns  
 **Discovery**: Some crystals show learning, memory, and possibly emotion  
 **Controversy**: Her theories challenge traditional understanding of life and magic
 
-#### Alchemical Consultant [[02_Worldbuilding/Places/Master Finn Liquidlight]]
+#### Alchemical Consultant [[12_Research/D&D_References/Master Finn Liquidlight]]
+
 **Role**: Processes crystal harvests into useful magical components  
 **Laboratory**: Hidden workshop beneath the Memory Pool  
 **Specialty**: Creating liquid crystal potions and experimental magical substances  
@@ -233,6 +255,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## Daily Operations
 
 ### Cultivation Schedule
+
 **Dawn**: Magical energy assessment and crystal feeding with prepared solutions  
 **Morning**: Public tours, educational programs, and basic maintenance  
 **Midday**: Harvesting operations during peak magical energy hours  
@@ -241,6 +264,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Night**: Advanced cultivation work when magical interference is minimal
 
 ### Visitor Activities
+
 **Public Tours**: Daily at 10 AM and 2 PM, 5 silver per person  
 **Educational Programs**: Classes on crystal botany for children and adults  
 **Research Access**: Scholars can apply for supervised study permissions  
@@ -250,6 +274,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## Environmental Hazards and Challenges
 
 ### Crystal Growth Surges
+
 **Frequency**: Random, 1-3 times per month  
 **Effect**: Rapid, uncontrolled growth that can trap visitors  
 **Warning Signs**: Increased humming from crystals, color changes, temperature drops  
@@ -257,6 +282,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Recovery**: Often creates new specimens worth studying
 
 ### Memory Bleed
+
 **Location**: Areas with high concentrations of Memory Moss  
 **Effect**: Visitors experience random memories from other people/times  
 **Mechanics**: WIS save DC 14 or confused by foreign memories for 1d4 hours  
@@ -264,13 +290,15 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Benefits**: Sometimes provides valuable historical information
 
 ### Magical Feedback Loops
+
 **Cause**: Multiple crystal species resonating together  
 **Effect**: Wild magic surges, spell effects amplified or changed  
 **Detection**: Trained cultivators can predict and usually prevent  
-**Emergency**: [[02_Worldbuilding/Places/Crystal Dampening Stones]] placed throughout gardens  
+**Emergency**: [[12_Research/D&D_References/Crystal Dampening Stones]] placed throughout gardens  
 **Opportunity**: Sometimes produces beneficial magical effects
 
 ### Sentience Emergence
+
 **Phenomenon**: Some crystals develop consciousness and will of their own  
 **Challenges**: Newly aware crystals may be confused, frightened, or angry  
 **Management**: Specialized counselors help newly conscious crystals adapt  
@@ -282,18 +310,21 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ### Harvestable Materials
 
 #### Resonance Rose Petals
+
 **Value**: 50-200gp each depending on magical potency  
 **Uses**: Spell focuses, magical ink components, potion ingredients  
 **Harvest**: Only during 3-day bloom window each month  
 **Preparation**: Must be processed within 24 hours or loses potency
 
 #### Prism Lily Cores
+
 **Rarity**: Extremely rare, only obtained when lily naturally dies  
 **Value**: 1,000-5,000gp each  
 **Power**: Permanent *detect magic* ability when properly attuned  
 **Warning**: Forcible harvest kills the lily and destroys the core
 
 #### Memory Moss Extract
+
 **Collection**: Requires careful alchemical distillation  
 **Effect**: Potion allows limited access to magical location's history  
 **Duration**: Visions last 10 minutes, cover past 1d6 months  
@@ -302,6 +333,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ### Unique Artifacts
 
 #### The Garden Heart
+
 **Description**: Massive central crystal that powers all garden magic  
 **Location**: Deep beneath the Memory Pool, heavily guarded  
 **Power**: Could theoretically power an entire city's magical needs  
@@ -309,12 +341,14 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Secret**: Contains consciousness of the Gardens' original creator
 
 #### Sunlight Prism Array
+
 **Function**: Channels and amplifies natural sunlight into magical energy  
 **Components**: Seven massive crystals arranged in specific geometric pattern  
 **Maintenance**: Must be recalibrated during each solstice  
 **Potential**: Could be weaponized but doing so would destroy the Gardens
 
 #### The First Rose
+
 **Legend**: Original Resonance Rose that led to discovery of crystal cultivation  
 **Status**: Still growing, now size of a small building  
 **Property**: Grants wishes related to growth, beauty, or knowledge (1 per year)  
@@ -324,6 +358,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## D&D 5e Encounters and Mechanics
 
 ### Crystal Garden Guardian
+
 **CR 6** | **Large construct, neutral**  
 **AC**: 17 (Natural Armor) | **HP**: 112 (15d10 + 30)  
 **Speed**: 30 ft., burrow 20 ft. (through crystal only)  
@@ -338,6 +373,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 - **Crystal Growth**: Create difficult terrain in 20-foot radius (stone spikes)
 
 ### Memory Moss Swarm
+
 **CR 3** | **Medium plant swarm, neutral**  
 **AC**: 13 | **HP**: 52 (8d8 + 16)  
 **Speed**: 0 ft., climb 20 ft.  
@@ -351,15 +387,17 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 - **Overwhelming Memories**: All within 20 feet make DC 15 WIS save or stunned for 1 round
 
 ### Environmental Challenge: Crystal Maze Navigation
+
 **Challenge Rating**: Varies by party level  
 **Objective**: Reach center of ever-shifting crystal maze  
 **Mechanics**:
 - Navigation checks (Survival DC 15) every 10 minutes
 - Failed checks trigger encounters or hazards
 - Three failures = temporal displacement (lose 1d4 hours)
-- Success grants access to [[02_Worldbuilding/Places/Maze Heart Crystal]]
+- Success grants access to [[12_Research/D&D_References/Maze Heart Crystal]]
 
 ### Skill Challenge: Cultivating New Crystal Species
+
 **Complexity**: 3 (8 successes before 3 failures)  
 **Primary Skills**: Arcana, Nature, Medicine  
 **Secondary Skills**: Investigation, Insight, Sleight of Hand  
@@ -369,13 +407,15 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## Quest Hooks and Adventures
 
 ### The Wilting Crisis
+
 **Level**: 5-8  
 **Problem**: Crystal formations throughout Gardens are mysteriously dying  
-**Investigation**: Reveals sabotage by [[02_Worldbuilding/Groups/Purist Coalition]] extremists  
+**Investigation**: Reveals sabotage by [[12_Research/D&D_References/Purist Coalition]] extremists  
 **Complications**: Some crystals are becoming hostile before dying  
 **Resolution**: Stop sabotage, find cure, potentially face crystalline undead
 
 ### The Consciousness Awakening  
+
 **Level**: 7-11  
 **Event**: Multiple crystal species develop awareness simultaneously  
 **Challenge**: Newly conscious crystals are confused and potentially dangerous  
@@ -383,6 +423,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Consequence**: Success creates powerful allies, failure creates crystal uprising
 
 ### The Prism Heist
+
 **Level**: 3-6  
 **Crime**: Thieves steal rare crystal specimens during festival  
 **Investigation**: Trail leads through Gardens' underground sections  
@@ -390,6 +431,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Race**: Find thieves before crystals explode or die
 
 ### The Memory Storm
+
 **Level**: 9-13  
 **Phenomenon**: Memory Moss throughout Gardens activates simultaneously  
 **Effect**: Everyone in Gardens experiences overwhelming historical visions  
@@ -397,6 +439,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 **Stakes**: Permanent damage to Garden's memory storage system
 
 ### The Garden Heart Conspiracy
+
 **Level**: 12-16  
 **Discovery**: Someone is slowly siphoning power from the Garden Heart  
 **Investigation**: Reveals complex plot involving multiple factions  
@@ -405,22 +448,26 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+### [[12_Research/D&D_References/Palace Courtyard - Crystal Garden]]
+
 **Link**: Crystal bridges connect the two locations  
 **Function**: Royal family has private access to rarest specimens  
 **Politics**: Sometimes tensions arise over resource allocation
 
-### [[02_Worldbuilding/Places/The Crystalline Foundry]]
+### [[12_Research/D&D_Statblocks/The Crystalline Foundry]]
+
 **Relationship**: Gardens provide raw materials for Foundry's work  
 **Trade**: Regular exchange of specimens for processed magical items  
 **Cooperation**: Joint research projects on industrial crystal applications
 
-### [[02_Worldbuilding/Places/Crystalhaven]]
+### [[12_Research/D&D_References/Crystalhaven]]
+
 **Connection**: Gardens established original crystal cultivation techniques  
 **Rivalry**: Friendly competition over who grows the most impressive specimens  
 **Exchange**: Student cultivators often train at both locations
 
-### [[02_Worldbuilding/Lore/The Seven Shards]]
+### [[12_Research/D&D_References/The Seven Shards]]
+
 **Mystery**: Gardens show unusual activity when Shards are nearby  
 **Theory**: Original Garden Heart might be fragment of pre-Drowning crystal  
 **Investigation**: Ongoing research into historical connections
@@ -428,23 +475,27 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ## DM Resources and Notes
 
 ### Atmosphere Guidelines
+
 **Sensory**: Constant soft chiming, prismatic light patterns, sweet crystal fragrance  
 **Mood**: Wonder and tranquility with underlying magical energy  
 **Contrasts**: Natural beauty with geometric crystal precision  
 **Magic**: Visible as light patterns, audible as harmonic resonances
 
 ### NPC Roleplay Notes
+
 **Crystal Cultivators**: Speak with plant metaphors, very precise about magical theory  
 **Guards**: Professional but awed by their surroundings  
 **Researchers**: Excited about discoveries, sometimes absent-minded  
 **Conscious Crystals**: Curious about biological life, confused by organic limitations
 
 ### Scaling for Different Levels
+
 **Low Level (1-4)**: Focus on wonder, simple cultivation tasks, minor magical phenomena  
 **Mid Level (5-10)**: Complex investigations, moderate magical dangers, research opportunities  
 **High Level (11-16)**: Garden-wide crises, cosmic magical events, reality-altering consequences
 
 ### Adventure Integration
+
 **Urban Campaign**: Social hub, resource location, investigation starting point  
 **Exploration Campaign**: Base of operations, magical preparation site  
 **Dungeon Campaign**: Rest area between adventures, magical item crafting  
@@ -456,35 +507,35 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuildin
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]  
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Palace Courtyard - Crystal Garden]]
+- [[12_Research/D&D_Statblocks/The Crystalline Foundry]]  
+- [[12_Research/D&D_References/Crystalhaven]]
+- [[12_Research/D&D_References/Aethermoor]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Sage Iris Crystalbloom]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_References/Sage Iris Crystalbloom]]
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[02_Worldbuilding/Places/Resonance Roses]]  
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Places/Crystal Speak]]
+- [[12_Research/D&D_References/Aether Crystals]]
+- [[12_Research/D&D_References/Resonance Roses]]  
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/Crystal Speak]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[02_Worldbuilding/Lore/The Queen]]
-- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[12_Research/D&D_References/The Crown]]
+- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[12_Research/D&D_References/Aetheron]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_References/Old Sally Seasprayer]]
+- [[12_Research/D&D_Statblocks/The Crystalline Foundry]]
+- [[12_Research/D&D_References/Quest - Nature's Balance]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -507,7 +558,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[12_Research/D&D_References/Purist Coalition]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

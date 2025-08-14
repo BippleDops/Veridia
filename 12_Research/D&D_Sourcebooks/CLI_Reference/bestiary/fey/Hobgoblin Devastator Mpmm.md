@@ -28,9 +28,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\fey/hobgoblin-devastator-mpmm|Hobgoblin Devastator]]
+# [[hobgoblin-devastator-mpmm|Hobgoblin Devastator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -51,7 +51,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[[/03_Mechanics/CLI/items/studded-leather-armor-xphb|studded leather]]"
+"ac_class": "[[studded-leather-armor-xphb|studded leather]]"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "1"
@@ -64,7 +64,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
@@ -83,14 +83,14 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ hands, plus 13 (3d8) force damage."
     "name": "Quarterstaff"
   - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21\
-      \ (4d8 + 3) force damage, and the target is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ (4d8 + 3) force damage, and the target is knocked [[conditions#Prone|prone]]."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]],\
-      \ [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]\n\n2/day\
-      \ each: [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]], [[/03_Mechanics/CLI/spells/fly-xphb|fly]],\
-      \ [[/03_Mechanics/CLI/spells/fog-cloud-xphb|fog cloud]], [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|gust of wind]],\
-      \ [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning bolt]]"
+      \ the spellcasting ability (spell save DC 13):\n\nAt will: [[mage-hand-xphb|mage hand]],\
+      \ [[prestidigitation-xphb|prestidigitation]]\n\n2/day\
+      \ each: [[fireball-xphb|fireball]], [[fly-xphb|fly]],\
+      \ [[fog-cloud-xphb|fog cloud]], [[gust-of-wind-xphb|gust of wind]],\
+      \ [[lightning-bolt-xphb|lightning bolt]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

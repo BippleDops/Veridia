@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/gnoll-flesh-gnawer-mpmm|Gnoll Flesh Gnawer]]
+# [[gnoll-flesh-gnawer-mpmm|Gnoll Flesh Gnawer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -46,7 +46,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[/03_Mechanics/CLI/items/studded-leather-armor-xphb|studded leather]]"
+"ac_class": "[[studded-leather-armor-xphb|studded leather]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -73,7 +73,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
       \ + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
-      \ it doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]."
+      \ it doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Sudden Rush"
 "bonus_actions":
   - "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\

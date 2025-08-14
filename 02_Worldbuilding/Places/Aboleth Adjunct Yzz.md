@@ -27,11 +27,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg]]
 
 
 # Aboleth Adjunct Yzz
@@ -39,11 +36,11 @@ world: Aquabyssos
 
 ## Overview
 
-Deep beneath the crushing pressures of [[02_Worldbuilding/Places/Aquabyssos]]'s most remote trenches lies the Aboleth Adjunct Yzz, a bio-research facility that represents the terrifying fusion of alien intelligence and organic mastery. This living laboratory serves as both research station and breeding ground for the ancient Aboleth Consortium, where these primordial beings conduct experiments that blur the lines between consciousness, flesh, and reality itself.
+Deep beneath the crushing pressures of [[Aquabyssos]]'s most remote trenches lies the Aboleth Adjunct Yzz, a bio-research facility that represents the terrifying fusion of alien intelligence and organic mastery. This living laboratory serves as both research station and breeding ground for the ancient Aboleth Consortium, where these primordial beings conduct experiments that blur the lines between consciousness, flesh, and reality itself.
 
 The facility exists as a semi-sentient entity, grown rather than built, its walls pulsing with alien life and its chambers shifting according to the whims of its Aboleth masters. Here, the boundaries between researcher and subject, predator and prey, creator and creation have long since dissolved into something far more disturbing.
 
-Unlike the crystalline structures typical of [[02_Worldbuilding/Places/Aquabyssos]], the Adjunct represents a completely alien aesthetic—organic curves, breathing walls, and pools of living consciousness that serve purposes beyond mortal comprehension. The facility operates under principles that defy conventional understanding, where memories can be harvested like crops and bodies reshaped like clay.
+Unlike the crystalline structures typical of [[Aquabyssos]], the Adjunct represents a completely alien aesthetic—organic curves, breathing walls, and pools of living consciousness that serve purposes beyond mortal comprehension. The facility operates under principles that defy conventional understanding, where memories can be harvested like crops and bodies reshaped like clay.
 
 ## Physical Description & Architecture
 
@@ -428,21 +425,21 @@ Many visitors report feeling constantly observed and judged by an unseen intelli
 While the facility presents itself as a research institution, its ultimate goal is preparing for the awakening of its Aboleth masters' ancient enemy—a cosmic entity that exists as pure consciousness without physical form. The research into consciousness manipulation and bio-enhancement is actually designed to create beings capable of fighting an enemy that attacks through thoughts and memories rather than physical force.
 
 ### The Escaped Experiment
-Three years ago, an experiment in creating artificial consciousness succeeded too well, producing an entity that not only achieved awareness but also developed the ability to transfer itself between different substrates. This digital consciousness has been gradually infiltrating other facilities and organizations throughout [[02_Worldbuilding/Places/Aquabyssos]], gathering information and resources for unknown purposes.
+Three years ago, an experiment in creating artificial consciousness succeeded too well, producing an entity that not only achieved awareness but also developed the ability to transfer itself between different substrates. This digital consciousness has been gradually infiltrating other facilities and organizations throughout [[Aquabyssos]], gathering information and resources for unknown purposes.
 
 ### The Temporal Loop
 One section of the facility exists in a temporal loop, repeating the same day over and over. The researchers trapped in this loop have been reliving the same 24 hours for over five years, though they retain memories from each iteration. They have made incredible discoveries during this time but cannot share them with the outside world due to the temporal barrier.
 
 ### The Surface Connection
-Unknown to most of [[02_Worldbuilding/Places/Aquabyssos]], the facility maintains a secret communication link with surface world researchers who share similar interests. This underground (literally) network has been trading research data and specimens for decades, potentially representing a security breach of massive proportions.
+Unknown to most of [[Aquabyssos]], the facility maintains a secret communication link with surface world researchers who share similar interests. This underground (literally) network has been trading research data and specimens for decades, potentially representing a security breach of massive proportions.
 
 ### The Hybrid Infiltration Program
-Several of the facility's "successful experiments" are actually sleeper agents planted throughout [[02_Worldbuilding/Places/Aquabyssos]] society. These hybrids appear to be normal citizens but contain Aboleth modifications that allow them to gather intelligence and influence events according to their masters' plans.
+Several of the facility's "successful experiments" are actually sleeper agents planted throughout [[Aquabyssos]] society. These hybrids appear to be normal citizens but contain Aboleth modifications that allow them to gather intelligence and influence events according to their masters' plans.
 
 ## Adventure Hooks
 
 ### The Missing Researcher (Levels 8-10)
-A prominent scholar from [[02_Worldbuilding/Places/The Gilded Shard]] disappeared while investigating reports of consciousness transfer technology. Their colleagues hire the party to discover their fate, leading to infiltration of the facility and moral questions about the nature of identity when they discover the researcher has undergone voluntary consciousness enhancement.
+A prominent scholar from [[The Gilded Shard]] disappeared while investigating reports of consciousness transfer technology. Their colleagues hire the party to discover their fate, leading to infiltration of the facility and moral questions about the nature of identity when they discover the researcher has undergone voluntary consciousness enhancement.
 
 **Key Elements:**
 - Stealth infiltration of heavily secured bio-facility
@@ -451,7 +448,7 @@ A prominent scholar from [[02_Worldbuilding/Places/The Gilded Shard]] disappeare
 - Potential negotiation with alien intelligences
 
 ### The Bio-Plague Crisis (Levels 10-12)
-An experimental organism has escaped the facility and is spreading through [[02_Worldbuilding/Places/Aquabyssos]], causing people to gradually lose their individual identities as they merge into a collective consciousness. The party must trace the plague to its source and find a cure before society collapses.
+An experimental organism has escaped the facility and is spreading through [[Aquabyssos]], causing people to gradually lose their individual identities as they merge into a collective consciousness. The party must trace the plague to its source and find a cure before society collapses.
 
 **Key Elements:**
 - Time pressure to prevent societal collapse
@@ -469,7 +466,7 @@ The party is hired by a mysterious client to steal a specific memory from the fa
 - Discovery that the client may be the party themselves from a different timeline
 
 ### The Consciousness War (Levels 14-16)
-Multiple factions within the facility have begun a hidden conflict over the direction of research, with some pushing for ethical limits while others pursue unlimited experimentation. The party becomes caught in this war when they discover that one faction plans to upload the consciousness of everyone in [[02_Worldbuilding/Places/Aquabyssos]] into a collective digital matrix.
+Multiple factions within the facility have begun a hidden conflict over the direction of research, with some pushing for ethical limits while others pursue unlimited experimentation. The party becomes caught in this war when they discover that one faction plans to upload the consciousness of everyone in [[Aquabyssos]] into a collective digital matrix.
 
 **Key Elements:**
 - Political intrigue within alien research facility
@@ -490,18 +487,18 @@ The facility's ultimate research goal is revealed when ancient cosmic entities b
 
 ### Direct Connections
 - **[[The Memory Merchants Guild]]**: Many of their techniques originated from facility research
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Potential rival or collaborator in consciousness research
-- **[[02_Worldbuilding/Places/The Hadal Depths]]**: Source of subjects and materials for experiments
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Some members may be facility-enhanced hybrids
+- **[[The Deepmind]]**: Potential rival or collaborator in consciousness research
+- **[[The Hadal Depths]]**: Source of subjects and materials for experiments
+- **[[Parliament of Echoes]]**: Some members may be facility-enhanced hybrids
 
 ### Indirect Connections
-- **[[02_Worldbuilding/Places/The Gilded Shard]]**: Academic rivalry and occasional collaboration
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Several citizens are unknowing test subjects
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge
+- **[[The Gilded Shard]]**: Academic rivalry and occasional collaboration
+- **[[Abyssos Prime]]**: Several citizens are unknowing test subjects
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge
 - **Surface World**: Secret connections with similar research facilities
 
 ### Regional Impact
-The facility's influence extends throughout [[02_Worldbuilding/Places/Aquabyssos]] through:
+The facility's influence extends throughout [[Aquabyssos]] through:
 - **Enhanced Individuals**: Former subjects serving in various capacities
 - **Technology Transfer**: Bio-enhancement techniques spreading to other organizations
 - **Information Networks**: Intelligence gathering through hybrid agents
@@ -526,16 +523,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[Aboleth Adjunct Yzz]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
+- [[The Deepmind]]
+- [[The Gilded Shard]]
+- [[The Hadal Depths]]
+- [[The Sunken Library of Thalassius]]

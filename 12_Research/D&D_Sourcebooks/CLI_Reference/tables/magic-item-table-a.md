@@ -25,14 +25,14 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-50 | [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of healing]] |
-| 51-60 | [[/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg|Spell scroll (cantrip)]] |
-| 61-70 | [[/03_Mechanics/CLI/items/potion-of-climbing-xdmg|Potion of climbing]] |
-| 71-90 | [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|Spell scroll (1st level)]] |
-| 91-94 | [[/03_Mechanics/CLI/items/spell-scroll-level-2-xdmg|Spell scroll (2nd level)]] |
-| 95-98 | [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|Potion of greater healing]] |
-| 99 | [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|Bag of holding]] |
-| 00 | [[/03_Mechanics/CLI/items/driftglobe-xdmg|Driftglobe]] |
+| 01-50 | [[potion-of-healing-xdmg|Potion of healing]] |
+| 51-60 | [[spell-scroll-cantrip-xdmg|Spell scroll (cantrip)]] |
+| 61-70 | [[potion-of-climbing-xdmg|Potion of climbing]] |
+| 71-90 | [[spell-scroll-level-1-xdmg|Spell scroll (1st level)]] |
+| 91-94 | [[spell-scroll-level-2-xdmg|Spell scroll (2nd level)]] |
+| 95-98 | [[potion-of-greater-healing-xdmg|Potion of greater healing]] |
+| 99 | [[bag-of-holding-xdmg|Bag of holding]] |
+| 00 | [[driftglobe-xdmg|Driftglobe]] |
 ^magic-item-table-a
 
 ## Player-Facing Summary

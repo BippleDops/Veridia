@@ -32,11 +32,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] must be contiguous with at least one other [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]. Each creature in the area makes a Dexterity saving throw, taking `7d10` Fire damage on a failed save or half as much damage on a successful one.
+A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each [[cube-area-of-effect-xphb|Cube]] must be contiguous with at least one other [[cube-area-of-effect-xphb|Cube]]. Each creature in the area makes a Dexterity saving throw, taking `7d10` Fire damage on a failed save or half as much damage on a successful one.
 
-Flammable objects in the area that aren't being worn or carried start [[/03_Mechanics/CLI/traps-hazards/burning-xphb|burning]].
+Flammable objects in the area that aren't being worn or carried start [[burning-xphb|burning]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

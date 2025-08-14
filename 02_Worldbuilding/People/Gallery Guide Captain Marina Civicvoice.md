@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-gallery-guide-captain-marina-civicvoice-gallery-guide-captain-marina-civicvoice.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-gallery-guide-captain-marina-civicvoice-gallery-guide-captain-marina-civicvoice.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes - Public Gallery]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 

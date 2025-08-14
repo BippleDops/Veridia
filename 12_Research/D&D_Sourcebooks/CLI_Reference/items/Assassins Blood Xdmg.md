@@ -29,10 +29,10 @@ world: Both
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Poison|Poison]]
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 150 gp
 
-A creature subjected to Assassin's Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (`d12`) Poison damage and has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition for 24 hours. On a successful save, the creature takes half as much damage only.
+A creature subjected to Assassin's Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (`d12`) Poison damage and has the [[conditions#Poisoned|Poisoned]] condition for 24 hours. On a successful save, the creature takes half as much damage only.
 
 *Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

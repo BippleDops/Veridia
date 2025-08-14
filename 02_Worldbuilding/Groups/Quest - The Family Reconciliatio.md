@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-quest-the-family-reconciliatio-quest-the-family-reconciliatio.svg]]
 
 
 ## Overview

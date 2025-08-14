@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 
 ## Player-Facing Summary
 

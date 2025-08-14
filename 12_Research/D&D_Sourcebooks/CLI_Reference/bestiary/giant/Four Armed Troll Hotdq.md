@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-troll-hotdq-four-armed-troll-hotdq.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/four-armed-troll-hotdq|Four-Armed Troll]]
+# [[four-armed-troll-hotdq|Four-Armed Troll]]
 *Source: Hoard of the Dragon Queen p. 65*  
 
 Sometimes when a troll loses a limb, it regenerates two limbs to replace the one it lost. This can result in trolls with multiple arms. A four-armed troll uses the troll stat block, except that it is a Challenge Rating 6 monster (2,300 XP) and has alternate action options to suit.
@@ -51,13 +51,13 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "6"
 "traits":
-  - "desc": "The troll has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+  - "desc": "The troll has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\

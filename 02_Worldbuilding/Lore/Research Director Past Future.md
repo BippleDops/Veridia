@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,10 +40,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

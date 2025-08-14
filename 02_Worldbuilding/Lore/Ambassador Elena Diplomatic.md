@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[12_Research/D&D_References/Cathedral of Light]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[12_Research/D&D_References/Cathedral of Light]]
 
 ## Player-Facing Summary
 

@@ -25,16 +25,16 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell.
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
-| [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]] | 2 |
-| [[/03_Mechanics/CLI/spells/mass-cure-wounds-xphb|Mass Cure Wounds]] | 5 |
+| [[cure-wounds-xphb|Cure Wounds]] | 1 charge per spell level (maximum 4 for a level 4 spell) |
+| [[lesser-restoration-xphb|Lesser Restoration]] | 2 |
+| [[mass-cure-wounds-xphb|Mass Cure Wounds]] | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

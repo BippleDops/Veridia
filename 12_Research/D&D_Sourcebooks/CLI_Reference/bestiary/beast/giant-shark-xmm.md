@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-shark-xmm-giant-shark-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-shark-xmm|Giant Shark]]
+# [[giant-shark-xmm|Giant Shark]]
 *Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Shark (XMM)"
@@ -50,7 +50,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "5"
 "speed": "5 ft., swim 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
@@ -61,8 +61,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "actions":
   - "desc": "The shark makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +9 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ if the target doesn't have all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]),\
+  - "desc": "Melee Attack Roll: +9 (with [[advantage-xphb|Advantage]]\
+      \ if the target doesn't have all its [[hit-points-xphb|Hit Points]]),\
       \ reach 5 ft. Hit: 22 (3d10 + 6) Piercing damage."
     "name": "Bite"
 "source":

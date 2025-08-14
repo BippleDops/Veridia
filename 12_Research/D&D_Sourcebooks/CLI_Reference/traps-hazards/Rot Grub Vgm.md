@@ -28,9 +28,9 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 ## Single Rot Grub
 
-Rot grubs pose a threat both singly and as a swarm. See the [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rot-grubs-mpmm|stat block]] for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
+Rot grubs pose a threat both singly and as a swarm. See the [[swarm-of-rot-grubs-mpmm|stat block]] for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], as the rot grub burrows into the creature. The [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature takes 3 (`d6`) poison damage at the end of each of its turns. Whenever the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [[conditions#Poisoned|poisoned]], as the rot grub burrows into the creature. The [[conditions#Poisoned|poisoned]] creature takes 3 (`d6`) poison damage at the end of each of its turns. Whenever the [[conditions#Poisoned|poisoned]] creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [[conditions#Poisoned|poisoned]] creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 *Source: Volo's Guide to Monsters p. 208*
 

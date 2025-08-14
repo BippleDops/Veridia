@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bone-devil-xmm-bone-devil-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/bone-devil-xmm|Bone Devil]]
+# [[bone-devil-xmm|Bone Devil]]
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Bone Devil
@@ -85,23 +85,23 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft. (unimpeded by magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]),\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
   \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -110,9 +110,9 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
     "name": "Claw"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
-      \ plus 18 (4d8) Poison damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition until the start of the devil's next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
-      \ the target can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]."
+      \ plus 18 (4d8) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition until the start of the devil's next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[hit-points-xphb|Hit Points]]."
     "name": "Infernal Sting"
 "source":
   - "XMM"

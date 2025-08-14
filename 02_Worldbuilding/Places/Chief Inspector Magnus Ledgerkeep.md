@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-chief-inspector-magnus-ledgerkeep-chief-inspector-magnus-ledgerkeep.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chief-inspector-magnus-ledgerkeep-chief-inspector-magnus-ledgerkeep.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]]
+- [[12_Research/D&D_References/Chief Inspector Magnus Ledgerkeep]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[12_Research/D&D_References/Harbor District Customs House]]

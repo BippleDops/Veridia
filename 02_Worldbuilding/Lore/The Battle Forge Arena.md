@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aethermoor
 - complete
 - content/faction
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.051794+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
+- [[Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Vex Shadowthorn Boss Fight]]
+- [[12_Research/D&D_References/Vex Shadowthorn Boss Fight]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

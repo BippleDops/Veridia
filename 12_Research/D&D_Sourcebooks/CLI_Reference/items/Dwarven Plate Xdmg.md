@@ -28,7 +28,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/dwarven-plate.webp#right)
 
 
-While wearing this armor, you gain a +2 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]]. In addition, if an effect moves you against your will along the ground, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to reduce the distance you are moved by up to 10 feet.
+While wearing this armor, you gain a +2 bonus to [[armor-class-xphb|Armor Class]]. In addition, if an effect moves you against your will along the ground, you can take a [[reaction-xphb|Reaction]] to reduce the distance you are moved by up to 10 feet.
 
 **Variants**:
 - [Dwarven Half Plate Armor](#Dwarven%20Half%20Plate%20Armor)

@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-sacred-texts-of-transformatio-sacred-texts-of-transformatio.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-sacred-texts-of-transformatio-sacred-texts-of-transformatio.svg]]
 
 
 ## Overview

@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-border-patrol-unit-border-patrol-unit.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-border-patrol-unit-border-patrol-unit.svg]]
 
 
 ## Player-Facing Summary

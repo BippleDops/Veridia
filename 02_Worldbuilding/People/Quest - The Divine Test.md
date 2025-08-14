@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-divine-test-quest-the-divine-test.svg]]
 
 
 ## Overview
@@ -64,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Divine Test]]
+- [[Quest - The Divine Test]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[The Crimson Sage]]

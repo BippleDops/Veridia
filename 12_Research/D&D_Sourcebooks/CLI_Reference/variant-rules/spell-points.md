@@ -29,13 +29,13 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[/03_Mechanics/CLI/classes/bard-xphb|bards]], [[/03_Mechanics/CLI/classes/cleric-xphb|clerics]], [[/03_Mechanics/CLI/classes/druid-xphb|druids]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|sorcerers]], and [[/03_Mechanics/CLI/classes/wizard-xphb|wizards]]. For a [[/03_Mechanics/CLI/classes/paladin-xphb|paladin]] or [[/03_Mechanics/CLI/classes/ranger-xphb|ranger]], halve the character's level in that class and then consult the table. For a [[/03_Mechanics/CLI/classes/fighter-xphb|fighter (Eldritch Knight)]] or [[/03_Mechanics/CLI/classes/rogue-xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[bard-xphb|bards]], [[cleric-xphb|clerics]], [[druid-xphb|druids]], [[sorcerer-xphb|sorcerers]], and [[wizard-xphb|wizards]]. For a [[paladin-xphb|paladin]] or [[ranger-xphb|ranger]], halve the character's level in that class and then consult the table. For a [[fighter-xphb|fighter (Eldritch Knight)]] or [[rogue-xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![[/03_Mechanics/CLI/tables/variant-spell-points-spell-point-cost|Variant: Spell Points; Spell Point Cost]]
+![[variant-spell-points-spell-point-cost|Variant: Spell Points; Spell Point Cost]]
 
-![[/03_Mechanics/CLI/tables/variant-spell-points-spell-points-by-level|Variant: Spell Points; Spell Points by Level]]
+![[variant-spell-points-spell-points-by-level|Variant: Spell Points; Spell Points by Level]]
 
 ## Player-Facing Summary
 

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-truth-seeker-cornelius-truth-seeker-cornelius.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-truth-seeker-cornelius-truth-seeker-cornelius.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Truth-Seeker Cornelius]]
+- [[Truth-Seeker Cornelius]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Whisper-Touched William]]
+- [[Whisper-Touched William]]

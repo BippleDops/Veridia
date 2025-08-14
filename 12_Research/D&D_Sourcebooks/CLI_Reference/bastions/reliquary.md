@@ -24,7 +24,7 @@ status: active
 # Reliquary
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]]
+- **Prerequisites**: Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]]
 - **Space**: Cramped (4 sq)
 - **Hirelings**: 1
 - **Order**: harvest
@@ -33,7 +33,7 @@ This vault holds sacred objects.
 
 ## Reliquary Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[/03_Mechanics/CLI/rewards/reliquary-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[reliquary-charm-xdmg|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater-restoration-xphb|Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 ## Harvest: Talisman
 

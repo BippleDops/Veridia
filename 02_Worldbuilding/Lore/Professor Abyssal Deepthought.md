@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,9 +40,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[12_Research/D&D_References/Deep Mother Influence]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[12_Research/D&D_References/Deep Mother Influence]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

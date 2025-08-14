@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
 
 ## Player-Facing Summary
 

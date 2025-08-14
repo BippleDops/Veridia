@@ -24,9 +24,9 @@ world: Both
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Deception|Deception]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]]  
-- **Tool Proficiencies.** One type of gaming set, [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]]  
-- **Equipment.** A [[/03_Mechanics/CLI/items/crowbar-xphb|crowbar]], a set of dark [[/03_Mechanics/CLI/items/common-clothes|common clothes]] including a hood, and a belt [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 15 gp  
+- **Skill Proficiencies.** [[skills#Deception|Deception]], [[skills#Stealth|Stealth]]  
+- **Tool Proficiencies.** One type of gaming set, [[thieves-tools-xphb|thieves' tools]]  
+- **Equipment.** A [[crowbar-xphb|crowbar]], a set of dark [[common-clothes|common clothes]] including a hood, and a belt [[pouch-xphb|pouch]] containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
 

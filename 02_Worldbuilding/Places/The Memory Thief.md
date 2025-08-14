@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -23,13 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg]]
 
 
 # The Memory Thief
@@ -56,12 +54,14 @@ Descriptions of the Memory Thief vary wildly and contradictorily. Witnesses have
 The only consistent element across all accounts is that encounters with the Memory Thief feel dreamlike and surreal, with victims often uncertain whether the meeting actually occurred.
 
 ## Personality
+
 - Philosophical about the nature of memory and identity
 - Speaks in riddles and metaphors that suggest deep understanding of consciousness
 - Appears to operate by an incomprehensible personal code of ethics
 - Shows no malice toward victims, treating memory theft as a form of art or service
 
 ## Statistics
+
 **Medium humanoid (?), chaotic neutral**
 - **AS** 17 (Natural Deflection)
 - **HP** 95 (17d8 + 17)
@@ -75,6 +75,7 @@ The only consistent element across all accounts is that encounters with the Memo
 - **Challenge** 9 (5,000 XP)
 
 ### Special Abilities
+
 **Memory Sight.** The Memory Thief can see and read memories as visible auras around creatures within 60 feet. They can identify valuable or significant memories without making contact.
 
 **Shapeshifter.** The Memory Thief can change their appearance at will, including species, gender, and apparent age. This change affects observers' memories of the encounter.
@@ -84,6 +85,7 @@ The only consistent element across all accounts is that encounters with the Memo
 **Ethereal Jaunt.** The Memory Thief can shift to the Ethereal Plane as a bonus action and return as a move action.
 
 ### Actions
+
 **Memory Extraction.** *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* The target must make a DC 17 Wisdom saving throw. On a failure, the Memory Thief extracts one specific memory chosen by them. The target loses all recollection of the extracted memory and related experiences.
 
 **Implanted Memory.** The Memory Thief can implant a false memory in a creature within 30 feet (DC 17 Wisdom save to resist). The implanted memory feels completely real to the target.
@@ -93,6 +95,7 @@ The only consistent element across all accounts is that encounters with the Memo
 **Mind Touch.** *Ranged Spell Attack:* +9 to hit, range 60 ft., one creature. *Hit:* 4d8 + 4 psychic damage, and the target must make a DC 17 Constitution save or have their maximum HP reduced by the damage taken.
 
 ### Legendary Actions (3 per turn)
+
 **Move.** The Memory Thief moves up to their speed without provoking opportunity attacks.
 **Memory Probe.** The Memory Thief attempts to read surface thoughts of a creature within 60 feet.
 **Extract (Costs 2 Actions).** The Memory Thief uses Memory Extraction.
@@ -112,6 +115,7 @@ Recent Memory Thief incidents have focused on individuals connected to the city'
 The entity has also been linked to a growing black market in stolen memories, where wealthy clients pay premium prices for experiences they could never have themselves or knowledge they could never legitimately acquire.
 
 ## Relationships
+
 - **All Factions**: Unknown connections, possibly working with or against any of them
 - **Law Enforcement**: Primary target of ongoing investigation
 - **Victims**: Complex relationship ranging from grateful to vengeful depending on what was stolen
@@ -119,6 +123,7 @@ The entity has also been linked to a growing black market in stolen memories, wh
 - **Academic Community**: Subject of intense study and theoretical speculation
 
 ## Secrets
+
 - The Memory Thief may be multiple entities sharing a collective identity
 - Certain memories seem to be specifically targeted, suggesting knowledge of their importance
 - The entity appears to be collecting memories for a larger purpose involving the city's crisis
@@ -126,6 +131,7 @@ The entity has also been linked to a growing black market in stolen memories, wh
 - The Memory Thief may be seeking specific memories related to ancient events or forbidden knowledge
 
 ## Quest Hooks
+
 1. **The Stolen Secret**: A key witness to a major crime has had their crucial memories stolen, and the party must either recover the memories or find another way to uncover the truth.
 
 2. **The Memory Market**: The party discovers an underground auction where stolen memories are being sold, providing an opportunity to confront the Memory Thief or their agents.
@@ -135,13 +141,14 @@ The entity has also been linked to a growing black market in stolen memories, wh
 4. **The Collector's Purpose**: Evidence suggests the Memory Thief is assembling memories related to a specific historical event or piece of knowledge that could affect the city's fate.
 
 ## DM Notes
+
 The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved.
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
 
 
 ## History
@@ -189,7 +196,11 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Memory Thief]]
+- [[12_Research/D&D_References/The Memory Thief]]
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -36,9 +36,9 @@ world: Both
 
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra `2d8` radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 
-As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [[/03_Mechanics/CLI/conditions#Blinded|blinded]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[/03_Mechanics/CLI/conditions#Blinded|blinded]]. At the end of each of its turns, a [[/03_Mechanics/CLI/conditions#Blinded|blinded]] creature can make a Constitution saving throw, ending the effect on itself on a success.
+As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [[conditions#Blinded|blinded]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[conditions#Blinded|blinded]]. At the end of each of its turns, a [[conditions#Blinded|blinded]] creature can make a Constitution saving throw, ending the effect on itself on a success.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Xanathar's Guide to Everything p. 157*
 

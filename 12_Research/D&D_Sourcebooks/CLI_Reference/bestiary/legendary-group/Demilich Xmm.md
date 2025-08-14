@@ -31,7 +31,7 @@ _Source: Monster Manual (2024)_
 
 The region containing a demilich's lair is twisted by its presence, creating the following effects:
 
-- **Enervating Domain.** Whenever a creature other than the demilich or one of its allies finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] within 1 mile of the lair, the creature must succeed on a DC 20 Constitution saving throw or have its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum reduced by `d4`. This reduction lasts until the creature finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] outside that area.  
+- **Enervating Domain.** Whenever a creature other than the demilich or one of its allies finishes a [[long-rest-xphb|Long Rest]] within 1 mile of the lair, the creature must succeed on a DC 20 Constitution saving throw or have its [[hit-points-xphb|Hit Point]] maximum reduced by `d4`. This reduction lasts until the creature finishes a [[long-rest-xphb|Long Rest]] outside that area.  
 - **Travel Ward.** Creatures can't use teleportation or planar travel to enter or exit the lair.  
 
 If the demilich dies or moves its lair elsewhere, these effects end immediately.

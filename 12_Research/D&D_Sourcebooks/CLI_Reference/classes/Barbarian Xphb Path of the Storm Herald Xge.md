@@ -21,7 +21,7 @@ world: Both
 
 
 # Path of the Storm Herald
-*[[./barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 10*  
 
 > [!tldr] Class and Feature Progression
@@ -117,7 +117,7 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 
 - **Sea**  
 
-    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]], as if struck by a wave.  
+    When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked [[conditions#Prone|prone]], as if struck by a wave.  
 
 - **Tundra**  
 

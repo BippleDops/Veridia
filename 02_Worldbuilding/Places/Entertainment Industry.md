@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-entertainment-industry-entertainment-industry.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-entertainment-industry-entertainment-industry.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Entertainment Industry]]
+- [[12_Research/D&D_References/Entertainment Industry]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[12_Research/D&D_References/Inverted Ballroom Wing]]

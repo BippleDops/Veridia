@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reef Tenders]]
+- [[12_Research/D&D_References/Reef Tenders]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Original Palace]]
+- [[12_Research/D&D_References/The Original Palace]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

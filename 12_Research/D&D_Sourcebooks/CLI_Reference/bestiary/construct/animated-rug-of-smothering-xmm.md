@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-rug-of-smothering-xmm-animated-rug-of-smothering-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-rug-of-smothering-xmm|Animated Rug of Smothering]]
+# [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]]
 *Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Animated rugs of smothering might attack any creature that steps on them, or they might be passed off as superficially similar magic items, such as Carpets of Flying, and attack those who speak a supposed command word. Deadly tapestries, furs, and similar items also use this stat block.
@@ -81,19 +81,19 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 6"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
       \ damage. If the target is a Medium or smaller creature, the rug can give it\
-      \ the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
+      \ the [[conditions#Grappled|Grappled]] condition (escape\
       \ DC 13) instead of dealing damage. Until the grapple ends, the target has the\
-      \ [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ [[conditions#Blinded|Blinded]] and [[conditions#Restrained|Restrained]]\
       \ conditions, is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at the\
       \ start of each of its turns. The rug can smother only one creature at a time.\n\
       \nWhile grappling the target, the rug can't take this action, the rug halves\

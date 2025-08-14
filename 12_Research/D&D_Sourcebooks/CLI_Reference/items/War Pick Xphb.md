@@ -28,7 +28,7 @@ world: Both
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

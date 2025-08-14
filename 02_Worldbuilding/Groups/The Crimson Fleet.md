@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[The Bone Colosseum]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
 
 ## Player-Facing Summary
 

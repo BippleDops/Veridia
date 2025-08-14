@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-mediator-serenity-stillwater-mediator-serenity-stillwater.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-mediator-serenity-stillwater-mediator-serenity-stillwater.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Serenity Stillwater]]
+- [[12_Research/D&D_References/Serenity Stillwater]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[12_Research/D&D_References/Mediator Serenity Stillwater]]

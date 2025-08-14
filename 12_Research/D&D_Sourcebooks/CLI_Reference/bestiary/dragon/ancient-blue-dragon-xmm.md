@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-blue-dragon-xmm-ancient-blue-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon-xmm|Ancient Blue Dragon]]
+# [[ancient-blue-dragon-xmm|Ancient Blue Dragon]]
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ancient blue dragons think beyond dominating groups of short-lived servants. Instead, they seek to claim their places above other dragons and their world's most powerful inhabitants. If world domination seems too tedious or cliché, these dragons might seek to seize control of extraplanar realms, multi-world empires, or forces of reality—like life, storms, or time itself.
@@ -70,9 +70,9 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "7"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+17"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
@@ -83,29 +83,29 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [[/03_Mechanics/CLI/spells/shatter-xphb|Shatter]]\
+      \ use of Spellcasting to cast [[shatter-xphb|Shatter]]\
       \ (level 3 version)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +16, reach 15 ft. Hit: 18 (2d8 + 9) Slashing damage\
       \ plus 11 (2d10) Lightning damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 23, each creature in a 120-foot-long, 10-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 88 (16d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]], [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]],\
-      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]], [[/03_Mechanics/CLI/spells/shatter-xphb|Shatter]]\
-      \ (level 3 version)\n\n1/day each: [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]],\
-      \ [[/03_Mechanics/CLI/spells/sending-xphb|Sending]]"
+      \ will: [[detect-magic-xphb|Detect Magic]], [[invisibility-xphb|Invisibility]],\
+      \ [[mage-hand-xphb|Mage Hand]], [[shatter-xphb|Shatter]]\
+      \ (level 3 version)\n\n1/day each: [[scrying-xphb|Scrying]],\
+      \ [[sending-xphb|Sending]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]]\
-      \ on itself, and it can fly up to half its [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]].\
+  - "desc": "The dragon uses Spellcasting to cast [[invisibility-xphb|Invisibility]]\
+      \ on itself, and it can fly up to half its [[fly-speed-xphb|Fly Speed]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Cloaked Flight"
-  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/shatter-xphb|Shatter]]\
+  - "desc": "The dragon uses Spellcasting to cast [[shatter-xphb|Shatter]]\
       \ (level 3 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Sonic Boom"
@@ -117,11 +117,11 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": ""
   - "desc": "- Sinkholes. Sinkholes form more frequently in the area within 1\
       \ mile of the lair. Whenever a creature in that area other than the dragon and\
-      \ its allies finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
+      \ its allies finishes a [[long-rest-xphb|Long Rest]],\
       \ roll d20. On a 1, a sinkhole opens beneath the creature, and the creature\
       \ must succeed on a DC 15 Dexterity saving throw or fall 2d4 × 10 feet into\
       \ the sinkhole.  \n- Spiteful Storms. Dust devils and thunderstorms rage\
-      \ within 1 mile of the lair. The area is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly Obscured]].\
+      \ within 1 mile of the lair. The area is [[lightly-obscured-xphb|Lightly Obscured]].\
       \  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."

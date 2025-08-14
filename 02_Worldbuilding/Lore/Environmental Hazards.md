@@ -2,6 +2,9 @@
 created: '2025-08-11'
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,32 +17,29 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[12_Research/D&D_References/Temporal Navigation Hazards]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
-- [[02_Worldbuilding/Lore/The Threshold]]
-- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Initiative Tracker]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[12_Research/D&D_Statblocks/Random Encounters]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Temporal Navigation Hazards]]
+- [[12_Research/D&D_References/The Bloom Fields]]
+- [[12_Research/D&D_References/The Threshold]]
+- [[12_Research/D&D_References/Shadow Wells]]
 
 ## Player-Facing Summary
 

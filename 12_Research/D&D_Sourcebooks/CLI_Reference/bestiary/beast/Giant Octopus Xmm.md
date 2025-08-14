@@ -28,12 +28,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-octopus-xmm-giant-octopus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-octopus-xmm|Giant Octopus]]
+# [[giant-octopus-xmm|Giant Octopus]]
 *Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Octopus (XMM)"
@@ -53,9 +53,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "10 ft., swim 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
@@ -66,17 +66,17 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Water Breathing"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 10 (2d6 + 3) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 13) from all eight tentacles. While [[/03_Mechanics/CLI/conditions#Grappled|Grappled]],\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 13) from all eight tentacles. While [[conditions#Grappled|Grappled]],\
+      \ the target has the [[conditions#Restrained|Restrained]]\
       \ condition."
     "name": "Tentacles"
 "reactions":
   - "desc": "Trigger: The octopus takes damage while underwater. _Response:_ The octopus\
-      \ releases ink that fills a 10-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
-      \ centered on itself, and the octopus moves up to its [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]].\
-      \ The [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] is\
-      \ [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]]\
+      \ releases ink that fills a 10-foot [[cube-area-of-effect-xphb|Cube]]\
+      \ centered on itself, and the octopus moves up to its [[swim-speed-xphb|Swim Speed]].\
+      \ The [[cube-area-of-effect-xphb|Cube]] is\
+      \ [[heavily-obscured-xphb|Heavily Obscured]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":

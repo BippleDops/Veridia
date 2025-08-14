@@ -9,16 +9,21 @@ participants:
 - Colonial Administrations
 - Trade Guilds
 related_entities:
-- '[[02_Worldbuilding/Places/Aethermoor]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Lore/The Great Crystallization]]'
-- '[[02_Worldbuilding/Lore/The Bathyal Succession]]'
-- '[[02_Worldbuilding/Places/Aquabyssos]]'
-- '[[02_Worldbuilding/Lore/The Shattering of the Crown]]'
+- '[[12_Research/D&D_References/Aethermoor]]'
+- '[[12_Research/D&D_References/Continental War]]'
+- '[[12_Research/D&D_References/The Great Crystallization]]'
+- '[[12_Research/D&D_References/The Bathyal Succession]]'
+- '[[12_Research/D&D_References/Aquabyssos]]'
+- '[[12_Research/D&D_References/The Shattering of the Crown]]'
 scale: Multi-Continental Empire
 significance: Major Continental Power
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- aquatic
 - aethermoor
 - campaign/arc
 - complete
@@ -38,16 +43,13 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 # Eastern Kingdoms
+
 *The Maritime Empire of the Rising Sun*
 
 ## Overview
 
-The Eastern Kingdoms represent the largest and most influential political entity in the post-[[02_Worldbuilding/Lore/The Great Crystallization]] world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [[02_Worldbuilding/Places/Aethermoor]] or the depth-adapted societies of [[02_Worldbuilding/Places/Aquabyssos]], the Eastern Kingdoms built their power on traditional monarchy, merchant capitalism, and military expansion.
+The Eastern Kingdoms represent the largest and most influential political entity in the post-[[12_Research/D&D_References/The Great Crystallization]] world, controlling vast territories across multiple continents through sophisticated naval power and complex diplomatic networks. Unlike the crystal-focused civilizations of [[12_Research/D&D_References/Aethermoor]] or the depth-adapted societies of [[12_Research/D&D_References/Aquabyssos]], the Eastern Kingdoms built their power on traditional monarchy, merchant capitalism, and military expansion.
 
 Spanning over 4.2 million square miles across seven major continents and countless islands, the Eastern Kingdoms maintain political unity through the **Imperial Throne of the Rising Sun** while allowing significant regional autonomy. Their influence extends far beyond direct territorial control through trade networks, diplomatic alliances, and strategic military interventions that have shaped global politics for over eight centuries.
 
@@ -60,6 +62,7 @@ The Eastern Kingdoms are unique among world powers for their successful adaptati
 The Eastern Kingdoms are organized into seven major territorial divisions, each centered on a different continent or large landmass:
 
 #### The Imperial Heartland (Solaria Major)
+
 **Capital: Aurelia Magna**
 **Population: 47 million**
 **Area: 892,000 square miles**
@@ -79,6 +82,7 @@ The original core of the Eastern Kingdoms, Solaria Major contains the imperial c
 - **Imperial Bureaucracy**: Professional administrators managing daily governance
 
 #### The Northern Domains (Aquilonia)
+
 **Capital: Frosthold**
 **Population: 23 million**
 **Area: 654,000 square miles**
@@ -98,6 +102,7 @@ The harsh northern continent known for military traditions and resource extracti
 - Religious traditions focused on strength and endurance
 
 #### The Southern Archipelago (Meridiana)
+
 **Capital: Coral Harbor**
 **Population: 31 million**
 **Area: 445,000 square miles (scattered across thousands of islands)**
@@ -117,6 +122,7 @@ A vast collection of tropical islands serving as the empire's maritime gateway:
 - Complex inter-island relationships and rivalries
 
 #### The Western Reaches (Occidentalia)
+
 **Capital: Sunset Gate**
 **Population: 19 million**
 **Area: 612,000 square miles**
@@ -136,6 +142,7 @@ The frontier region known for expansion and colonization:
 - Gateway for further westward expansion
 
 #### The Central Trade Lands (Mercatoria)
+
 **Capital: Golden Exchange**
 **Population: 38 million**
 **Area: 567,000 square miles**
@@ -155,6 +162,7 @@ The commercial heart of the empire, specializing in trade and manufacturing:
 - Complex relationship between commercial and traditional nobility
 
 #### The Crystal Borderlands (Crystallia)
+
 **Capital: Shimmer Gate**
 **Population: 12 million**
 **Area: 298,000 square miles**
@@ -174,6 +182,7 @@ The newest domain, territories gained through interaction with crystal-affected 
 - Buffer against magical threats and instability
 
 #### The Outer Territories (Ultima Orientalis)
+
 **Capital: World's End**
 **Population: 8 million**
 **Area: 723,000 square miles**
@@ -195,6 +204,7 @@ The most distant territories, serving as exploration bases and extreme frontier:
 ### Imperial Administration
 
 #### The Throne of the Rising Sun
+
 **Current Ruler: Emperor Aurelius Magnus VII (reigned 478 GC - present)**
 
 The Eastern Kingdoms operate under absolute monarchy tempered by traditional limitations and practical necessities:
@@ -214,6 +224,7 @@ The Eastern Kingdoms operate under absolute monarchy tempered by traditional lim
 - **Popular Expectations**: Informal but powerful expectations of royal behavior
 
 #### The Imperial Council
+
 **The High Administration**
 
 Seven Grand Chancellors advise the emperor and coordinate imperial administration:
@@ -229,6 +240,7 @@ Seven Grand Chancellors advise the emperor and coordinate imperial administratio
 Each Grand Chancellor oversees a vast bureaucracy of professional administrators, regional governors, and specialized agencies.
 
 #### Regional Governance
+
 **Balancing Central Control with Local Autonomy**
 
 **Imperial Governors**: Appointed by the emperor to oversee major regions
@@ -252,9 +264,11 @@ Each Grand Chancellor oversees a vast bureaucracy of professional administrators
 ## Historical Development
 
 ### The Ancient Period (Pre-200 BGC)
+
 **The Age of Unification**
 
 #### The Seven Kingdoms Era (Pre-400 BGC)
+
 Before unification, the regions that became the Eastern Kingdoms were controlled by seven independent monarchies:
 
 **The Kingdom of Solaria**: Agricultural powerhouse controlling the central plains
@@ -268,6 +282,7 @@ Before unification, the regions that became the Eastern Kingdoms were controlled
 These kingdoms maintained complex relationships of alliance, rivalry, and warfare for centuries.
 
 #### The Unification Wars (347-289 BGC)
+
 **The Rise of the First Emperor**
 
 The process of unification began when **King Aurelius the Great** of Solaria launched a systematic campaign to unite all seven kingdoms under single rule:
@@ -306,9 +321,11 @@ The process of unification began when **King Aurelius the Great** of Solaria lau
 Aurelius the Great was crowned as the first **Emperor of the Eastern Kingdoms** in a ceremony attended by representatives from all seven domains, establishing the political structure that continues to the present day.
 
 ### The Early Imperial Period (289 BGC - 200 GC)
+
 **The Age of Expansion**
 
 #### Consolidation and Growth (289-150 BGC)
+
 The first five emperors focused on stabilizing the unified kingdom and establishing imperial institutions:
 
 **Administrative Development**:
@@ -336,6 +353,7 @@ The first five emperors focused on stabilizing the unified kingdom and establish
 - Development of shared cultural practices and celebrations
 
 #### The First Expansion Era (150 BGC - 50 GC)
+
 Following internal consolidation, the Eastern Kingdoms began systematic external expansion:
 
 **Eastern Maritime Expansion**:
@@ -352,15 +370,16 @@ Following internal consolidation, the Eastern Kingdoms began systematic external
 
 **The Crystal Encounter (23-19 BGC)**:
 The Eastern Kingdoms' first major contact with crystal-affected civilizations:
-- Diplomatic missions to territories affected by [[02_Worldbuilding/Lore/The Great Crystallization]]
+- Diplomatic missions to territories affected by [[12_Research/D&D_References/The Great Crystallization]]
 - Military conflicts with crystal-enhanced opponents
 - Technological exchange leading to limited crystal adoption
 - Establishment of the Crystal Borderlands as specialized frontier region
 
 #### The Magical Challenge Period (50 GC - 200 GC)
+
 **Adaptation to a Transformed World**
 
-The period following [[02_Worldbuilding/Lore/The Great Crystallization]] required significant adaptation:
+The period following [[12_Research/D&D_References/The Great Crystallization]] required significant adaptation:
 
 **The Crystal Wars (67-89 GC)**:
 Military conflicts with crystal-enhanced civilizations:
@@ -384,9 +403,11 @@ New approaches to international relations:
 - Alliance negotiations considering magical and non-magical strategic interests
 
 ### The Middle Imperial Period (200-400 GC)
+
 **The Age of Diplomatic Supremacy**
 
 #### The Great Balance (200-267 GC)
+
 The Eastern Kingdoms emerged as a stabilizing force in increasingly complex international relations:
 
 **The Aquabyssos Contact (234 GC)**:
@@ -397,20 +418,21 @@ First diplomatic contact with the underwater civilization:
 - Cultural exchange programs despite environmental barriers
 
 **The Continental War Intervention (234-245 GC)**:
-Participation in [[02_Worldbuilding/Places/Aethermoor]]'s major continental conflict:
+Participation in [[12_Research/D&D_References/Aethermoor]]'s major continental conflict:
 - Military support for traditional monarchist factions
 - Economic aid maintaining alliance relationships
 - Diplomatic pressure promoting peaceful resolution
 - Strategic positioning protecting Eastern Kingdom interests
 
 **The Bathyal Succession Crisis (234-267 GC)**:
-Involvement in [[02_Worldbuilding/Places/Aquabyssos]]'s political transformation:
+Involvement in [[12_Research/D&D_References/Aquabyssos]]'s political transformation:
 - Diplomatic support for traditional monarchy against democratic revolution
 - Military aid to royalist forces during civil war
 - Economic pressure through trade restrictions
 - Ultimate recognition of democratic government following military defeat
 
 #### The Commercial Revolution (267-334 GC)
+
 Transformation of imperial economy through expanded trade:
 
 **Global Trade Networks**:
@@ -432,6 +454,7 @@ Transformation of imperial economy through expanded trade:
 - Integration of magical technologies into traditional manufacturing
 
 #### The Cultural Exchange Era (334-400 GC)
+
 Unprecedented cultural interaction with diverse civilizations:
 
 **Educational Exchange**:
@@ -453,9 +476,11 @@ Unprecedented cultural interaction with diverse civilizations:
 - Creation of interfaith dialogue and cooperation mechanisms
 
 ### The Modern Imperial Period (400 GC - Present)
+
 **The Age of Global Influence**
 
 #### The Convergence Preparation (400-500 GC)
+
 Growing awareness of prophesied world changes:
 
 **Prophetic Research**:
@@ -477,6 +502,7 @@ Growing awareness of prophesied world changes:
 - Investment in infrastructure supporting diverse technological systems
 
 #### Contemporary Challenges (500 GC - Present)
+
 **Modern Eastern Kingdoms Issues**
 
 **The Succession Question**:
@@ -512,6 +538,7 @@ Generational differences in attitudes toward traditional values and world change
 ### The Imperial Forces Structure
 
 #### The Imperial Navy
+
 **The Foundation of Eastern Kingdom Power**
 
 The Eastern Kingdoms maintain the largest and most sophisticated naval force in the world:
@@ -538,6 +565,7 @@ The Eastern Kingdoms maintain the largest and most sophisticated naval force in 
 - Support staff managing logistics, communications, and intelligence
 
 #### The Imperial Army
+
 **Diverse Forces for Varied Challenges**
 
 The Eastern Kingdoms maintain multiple specialized military forces:
@@ -569,6 +597,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Military Doctrine and Strategy
 
 #### Traditional Warfare Principles
+
 **Proven Methods Adapted to Changing World**
 
 **Naval Supremacy**: Control of sea routes as foundation of imperial power
@@ -590,6 +619,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Intelligence networks providing early warning of potential threats
 
 #### Adaptation to Magical Realities
+
 **Military Evolution for Transformed World**
 
 **Anti-Magical Tactics**: Methods for dealing with magically enhanced opponents
@@ -615,6 +645,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Imperial Economic Structure
 
 #### Traditional Economic Foundations
+
 **Agriculture, Mining, and Manufacturing**
 
 **Agricultural Production**:
@@ -644,7 +675,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Financial services supporting commerce through banking, credit, and investment
 
 **International Trade Operations**:
-- Trade relationships with all major civilizations including [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- Trade relationships with all major civilizations including [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]
 - Specialized transportation systems handling goods with unusual requirements
 - Commercial diplomacy managing trade disputes and negotiating agreements
 - Market intelligence providing information about international supply and demand
@@ -658,6 +689,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Financial Systems and Institutions
 
 #### Banking and Investment
+
 **Supporting Commerce and Development**
 
 **Imperial Banking System**:
@@ -679,6 +711,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Economic policy coordination balancing various regional and sectoral interests
 
 #### Economic Policy and Regulation
+
 **Managing Complex Imperial Economy**
 
 **Trade Regulation**:
@@ -704,6 +737,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Imperial Culture and Values
 
 #### Traditional Eastern Kingdom Values
+
 **Core Principles Guiding Imperial Society**
 
 **Order and Hierarchy**: Belief in structured society with clear authority relationships
@@ -767,6 +801,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Regional Diversity and Integration
 
 #### Cultural Variations Across the Empire
+
 **Unity in Diversity**
 
 **Heartland Culture**: Traditional Eastern Kingdom values and practices
@@ -812,6 +847,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Religious traditions emphasizing endurance, discovery, and ultimate purpose
 
 #### Integration Mechanisms
+
 **Maintaining Unity Across Diversity**
 
 **Imperial Education System**: Common educational standards throughout the empire
@@ -843,10 +879,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Relationship with Major Powers
 
 #### Aethermoor Relations
+
 **Complex Partnership with Crystal-Enhanced Civilization**
 
 **Historical Development**:
-- Initial contact during [[02_Worldbuilding/Lore/The Great Crystallization]] period
+- Initial contact during [[12_Research/D&D_References/The Great Crystallization]] period
 - Military conflicts during early crystal expansion phase
 - Gradual development of diplomatic relations and mutual understanding
 - Current status as strategic partners with occasional disagreements
@@ -865,10 +902,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Regional conflicts requiring diplomatic coordination and conflict resolution
 
 #### Aquabyssos Relations
+
 **Underwater-Surface Diplomatic Innovation**
 
 **Historical Development**:
-- First contact during [[02_Worldbuilding/Lore/The Bathyal Succession]] crisis
+- First contact during [[12_Research/D&D_References/The Bathyal Succession]] crisis
 - Military intervention supporting traditional monarchy against democracy
 - Eventual recognition of democratic government following military defeat
 - Development of unique diplomatic protocols for underwater-surface relations
@@ -887,6 +925,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Military coordination requiring adaptation of traditional naval doctrine
 
 #### Relations with Minor Powers
+
 **Managing Complex International System**
 
 **Alliance Relationships**: Formal partnerships with smaller civilizations
@@ -910,6 +949,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ### Diplomatic Doctrine and Methods
 
 #### Core Diplomatic Principles
+
 **Eastern Kingdom Approach to International Relations**
 
 **Balance of Power**: Preventing any single civilization from dominating others
@@ -965,9 +1005,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ## Contemporary Challenges and Future Prospects
 
 ### The Convergence Question
+
 **Responding to Prophesied World Transformation**
 
 #### Political Divisions Over Convergence Response
+
 **Internal Debate About Imperial Strategy**
 
 **Conservative Position**: Maintaining traditional approaches and resisting transformation
@@ -989,6 +1031,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Military regions divided between traditional strength and adaptive flexibility
 
 #### Strategic Planning Challenges
+
 **Preparing for Uncertain Future**
 
 **Intelligence Limitations**: Difficulty gathering information about convergence processes
@@ -1010,9 +1053,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Potential convergence failure requiring continued traditional approaches
 
 ### Economic Transformation Pressures
+
 **Adapting Imperial Economy to Changing World**
 
 #### Technological Competition
+
 **Maintaining Economic Competitiveness**
 
 **Magical Technology Adoption**: Integrating crystal and other magical technologies
@@ -1034,11 +1079,12 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Communication services facilitating international cooperation and trade
 
 #### International Trade Evolution
+
 **Adapting to Changing Global Economy**
 
 **New Trade Relationships**: Developing commerce with transformed civilizations
-- Underwater trade with [[02_Worldbuilding/Places/Aquabyssos]] requiring technological innovation
-- Crystal-enhanced trade with [[02_Worldbuilding/Places/Aethermoor]] requiring adaptation to magical conditions
+- Underwater trade with [[12_Research/D&D_References/Aquabyssos]] requiring technological innovation
+- Crystal-enhanced trade with [[12_Research/D&D_References/Aethermoor]] requiring adaptation to magical conditions
 - Exploration of trade opportunities with other transformed or distant civilizations
 - Development of trade relationships supporting convergence preparation
 
@@ -1055,9 +1101,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Regional economic balance during adaptation to new global conditions
 
 ### Social and Cultural Evolution
+
 **Managing Change While Preserving Identity**
 
 #### Generational Differences
+
 **Bridging Traditional and Modern Values**
 
 **Younger Generations**: Growing up with awareness of world transformation
@@ -1079,6 +1127,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Military regions showing complex generational attitudes toward change and tradition
 
 #### Cultural Integration Challenges
+
 **Managing Increasing Diversity**
 
 **Immigration Pressure**: Managing population movement from transformed regions
@@ -1100,9 +1149,11 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Military and civil service integration reflecting demographic changes
 
 ### Military and Security Challenges
+
 **Maintaining Imperial Defense in Changing World**
 
 #### Technological Military Evolution
+
 **Adapting Imperial Forces for New Threats**
 
 **Magical Threat Assessment**: Understanding and preparing for magical military challenges
@@ -1124,6 +1175,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Doctrine coordination ensuring compatible military approaches and strategies
 
 #### Strategic Security Planning
+
 **Protecting Imperial Interests During World Transformation**
 
 **Border Security**: Protecting imperial territories from transformation-related threats
@@ -1147,6 +1199,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ## Adventure Hooks and Campaign Integration
 
 ### Political Intrigue Adventures
+
 **Imperial Politics and International Relations**
 
 **The Succession Crisis**: Characters become involved in imperial succession planning
@@ -1168,6 +1221,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Territory disputes requiring diplomatic resolution and potential military action
 
 ### Military and Exploration Adventures
+
 **Imperial Service and Frontier Operations**
 
 **The Colonial Expedition**: Characters participate in expansion into new territories
@@ -1189,6 +1243,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Infiltration missions gaining access to restricted information or locations
 
 ### Economic and Commercial Adventures
+
 **Trade, Commerce, and Economic Development**
 
 **The Trade Mission**: Characters facilitate commercial relationships between civilizations
@@ -1210,6 +1265,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Financial instability requiring emergency measures and international cooperation
 
 ### Cultural and Social Adventures
+
 **Identity, Integration, and Cultural Exchange**
 
 **The Cultural Exchange**: Characters participate in international cultural programs
@@ -1233,6 +1289,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 ## Mechanical Implementation
 
 ### Cultural and Social Mechanics
+
 **Eastern Kingdoms Character Options**
 
 **Imperial Service Background**: Characters with experience in imperial military, civil, or diplomatic service
@@ -1254,6 +1311,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Foreign characters integrated into imperial society through various means
 
 ### Economic and Commercial Mechanics
+
 **Trade and Economic Opportunities**
 
 **Imperial Commerce**: Characters engaged in trade and commercial activities
@@ -1275,6 +1333,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - Emergency economic response during crises and disasters
 
 ### Military and Security Mechanics
+
 **Imperial Defense and International Operations**
 
 **Military Service**: Characters serving in various imperial military forces
@@ -1296,6 +1355,7 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 - International crisis response requiring rapid deployment and adaptation
 
 ### Political and Diplomatic Mechanics
+
 **Imperial Government and International Relations**
 
 **Imperial Politics**: Characters participating in imperial governmental processes
@@ -1318,18 +1378,18 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 ## Connected References
 
-- [[02_Worldbuilding/Places/Aethermoor]] - Major ally and strategic partner with complex relationship
-- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization with innovative diplomatic relationship
-- [[02_Worldbuilding/Lore/Continental War]] - Major historical conflict involving Eastern Kingdoms intervention
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - World transformation event affecting imperial policy
-- [[02_Worldbuilding/Lore/The Bathyal Succession]] - Political crisis involving Eastern Kingdoms diplomatic intervention
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Historical event affecting international balance of power
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]] - Prophetic traditions influencing imperial strategic planning
-- [[02_Worldbuilding/Lore/Imperial Navy]] - Primary military force supporting Eastern Kingdoms global influence
-- [[02_Worldbuilding/Lore/Trade Networks]] - Commercial relationships connecting Eastern Kingdoms with global civilization
+- [[12_Research/D&D_References/Aethermoor]] - Major ally and strategic partner with complex relationship
+- [[12_Research/D&D_References/Aquabyssos]] - Underwater civilization with innovative diplomatic relationship
+- [[12_Research/D&D_References/Continental War]] - Major historical conflict involving Eastern Kingdoms intervention
+- [[12_Research/D&D_References/The Great Crystallization]] - World transformation event affecting imperial policy
+- [[12_Research/D&D_References/The Bathyal Succession]] - Political crisis involving Eastern Kingdoms diplomatic intervention
+- [[12_Research/D&D_References/The Shattering of the Crown]] - Historical event affecting international balance of power
+- [[12_Research/D&D_References/The Great Convergence Prophecies]] - Prophetic traditions influencing imperial strategic planning
+- [[12_Research/D&D_References/Imperial Navy]] - Primary military force supporting Eastern Kingdoms global influence
+- [[12_Research/D&D_References/Trade Networks]] - Commercial relationships connecting Eastern Kingdoms with global civilization
 - [[Cultural Exchange Programs]] - Diplomatic and cultural initiatives promoting international understanding
-- [[02_Worldbuilding/Lore/Colonial Administration]] - Governmental systems managing diverse territorial populations
-- [[02_Worldbuilding/Places/Diplomatic Corps]] - Professional international relations service representing imperial interests
+- [[12_Research/D&D_References/Colonial Administration]] - Governmental systems managing diverse territorial populations
+- [[12_Research/D&D_References/Diplomatic Corps]] - Professional international relations service representing imperial interests
 
 ---
 
@@ -1339,9 +1399,9 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[12_Research/D&D_References/Aethermoor - Session 09 The Price of Unity]]
+- [[12_Research/D&D_References/Aethermoor - Session 10 The Deep Mother Rises]]
 
 ## Player-Facing Summary
 
@@ -1366,9 +1426,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Continental War]]
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Continental War]]
+- [[12_Research/D&D_References/The Bathyal Succession]]
+- [[12_Research/D&D_References/The Great Convergence Prophecies]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Shattering of the Crown]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -2,6 +2,7 @@
 type: Lore
 status: complete
 tags:
+- shadow-touched
 - active
 - aethermoor
 - lore
@@ -10,9 +11,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.842633+00:00'
 ---
-
-
-
 
 
 ## Overview
@@ -41,11 +39,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[12_Research/D&D_References/Purist Coalition Thugs]]
+- [[12_Research/D&D_References/Shadow Conspiracy Investigation]]
+- [[12_Research/D&D_References/Quest - The Blackmail Papers]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]

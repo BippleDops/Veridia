@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-dragon-wyrmling-xmm-green-dragon-wyrmling-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/green-dragon-wyrmling-xmm|Green Dragon Wyrmling]]
+# [[green-dragon-wyrmling-xmm|Green Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Green dragon wyrmlings often serve as pawns in older dragons' schemes. By spying on those dragons' agents, wyrmlings learn the art of manipulation. Once they've accumulated influence and lackeys, these wyrmlings depart to claim their own territories and pursue their sinister ambitions.
@@ -70,12 +70,12 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "dexterity": !!int "3"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -88,7 +88,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage\
       \ plus 3 (d6) Poison damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 21 (6d6) Poison damage. Success: Half damage."
     "name": "Poison Breath (Recharge 5-6)"
 "source":

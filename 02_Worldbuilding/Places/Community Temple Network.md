@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
+- [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[Temple of Divine Order]]
 
 ## Player-Facing Summary
 

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
 
 ## Player-Facing Summary
 

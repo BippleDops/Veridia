@@ -16,20 +16,13 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg)
-
-
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg]]
 
 
 # The Whispering Depths - Echo's End
 
 ## Overview
-A region of [[02_Worldbuilding/Lore/Aquabyssos World Overview]] where sound behaves unnaturally, The Whispering Depths is avoided by all but the desperate or insane. Sounds from the past, future, and other dimensions echo through the water, driving visitors mad with constant whispered secrets, lies, and half-truths. The [[02_Worldbuilding/Places/Depth Wardens]] have declared it a quarantine zone after losing three full patrols to "whisper madness."
+A region of [[Aquabyssos World Overview]] where sound behaves unnaturally, The Whispering Depths is avoided by all but the desperate or insane. Sounds from the past, future, and other dimensions echo through the water, driving visitors mad with constant whispered secrets, lies, and half-truths. The [[Depth Wardens]] have declared it a quarantine zone after losing three full patrols to "whisper madness."
 
 ## Zones of Distortion
 
@@ -40,7 +33,7 @@ Currents carrying conversations in unknown languages. Linguists who study them r
 Kelp forests where every plant whispers different secrets. The secrets are always true but knowing them brings only suffering.
 
 ### The Echo Chamber
-Natural amphitheater where sounds from across time converge. [[02_Worldbuilding/Places/Mad Oracle Thessaly]] lives here, sorting through the chaos for prophecies.
+Natural amphitheater where sounds from across time converge. [[Mad Oracle Thessaly]] lives here, sorting through the chaos for prophecies.
 
 ### The Silence Pools
 Pockets of absolute silence that are somehow more terrifying than the whispers. Those who enter often refuse to speak again.
@@ -53,7 +46,7 @@ Waters that compel visitors to speak their darkest secrets aloud, where the whis
 ### Types of Whispers
 - **Memory Whispers**: Past conversations of the drowned
 - **Future Echoes**: Words that haven't been spoken yet
-- **Depth Whispers**: Messages from [[02_Worldbuilding/Places/The Deepmind]]
+- **Depth Whispers**: Messages from [[The Deepmind]]
 - **Truth Whispers**: Unbearable truths about the listener
 - **Lie Whispers**: Convincing falsehoods that seem vital
 
@@ -92,8 +85,8 @@ Perfectly preserved vessel in a silence pool. Crew found dead with expressions o
 ## Current Events
 1. Whispers increasing in volume and frequency
 2. New type of whisper speaking in mathematical equations
-3. [[02_Worldbuilding/Places/Free Current]] operative lost in the Echo Chamber
-4. Reports of whispers being heard in [[02_Worldbuilding/Places/New Tethys]]
+3. [[Free Current]] operative lost in the Echo Chamber
+4. Reports of whispers being heard in [[New Tethys]]
 5. The Silent Ones claiming a "Great Whisper" approaches
 
 ## Secrets
@@ -117,23 +110,23 @@ Perfectly preserved vessel in a silence pool. Crew found dead with expressions o
 10. Complete sensory distortion
 
 ## Connected NPCs
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]] - Echo Chamber resident
-- [[02_Worldbuilding/Places/The Silent Watcher]] - Studies through vibration
-- [[02_Worldbuilding/Places/Whisper-Touched William]] - Guide who's partially mad
-- [[02_Worldbuilding/Places/Captain Echo]] - Lost Free Current operative
+- [[Mad Oracle Thessaly]] - Echo Chamber resident
+- [[The Silent Watcher]] - Studies through vibration
+- [[Whisper-Touched William]] - Guide who's partially mad
+- [[Captain Echo]] - Lost Free Current operative
 
 ## Quests Available
-- [[02_Worldbuilding/Places/Whisper Translation]] - Decode the mathematical whispers
-- [[02_Worldbuilding/Places/The Silent Rescue]] - Save the Free Current operative
-- [[02_Worldbuilding/Places/Truth and Madness]] - Retrieve information from Truth Well
-- [[02_Worldbuilding/Places/Quieting the Depths]] - Investigate spreading whispers
-- [[02_Worldbuilding/Places/The Last Words]] - Record dying messages in whispers
+- [[Whisper Translation]] - Decode the mathematical whispers
+- [[The Silent Rescue]] - Save the Free Current operative
+- [[Truth and Madness]] - Retrieve information from Truth Well
+- [[Quieting the Depths]] - Investigate spreading whispers
+- [[The Last Words]] - Record dying messages in whispers
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Places/Navigator Flux]]
+- [[Forge of War]]
+- [[Navigator Flux]]
 
 
 ## History
@@ -185,15 +178,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[The Whispering Depths]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Free Current]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
-- [[02_Worldbuilding/Places/Quieting the Depths]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Last Words]]
-- [[02_Worldbuilding/Places/The Silent Rescue]]
-- [[02_Worldbuilding/Places/The Silent Watcher]]
-- [[02_Worldbuilding/Places/Whisper-Touched William]]
+- [[Depth Wardens]]
+- [[Free Current]]
+- [[Mad Oracle Thessaly]]
+- [[Quieting the Depths]]
+- [[The Deepmind]]
+- [[The Last Words]]
+- [[The Silent Rescue]]
+- [[The Silent Watcher]]
+- [[Whisper-Touched William]]

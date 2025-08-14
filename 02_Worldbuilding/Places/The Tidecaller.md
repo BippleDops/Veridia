@@ -19,11 +19,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-tidecaller-the-tidecaller.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-tidecaller-the-tidecaller.svg]]
 
 
 # The Tidecaller
@@ -171,7 +168,7 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Tidecaller]]
-- [[02_Worldbuilding/Places/The Tidecaller]]
+- [[The Tidecaller]]
+- [[The Tidecaller]]
 
 <!-- enriched: true -->

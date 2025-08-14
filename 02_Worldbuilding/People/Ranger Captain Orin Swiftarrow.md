@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-ranger-captain-orin-swiftarrow-ranger-captain-orin-swiftarrow.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ranger-captain-orin-swiftarrow-ranger-captain-orin-swiftarrow.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Ranger Captain Orin Swiftarrow]]
+- [[Ranger Captain Orin Swiftarrow]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Root Network]]
+- [[Quest - The Root Network]]

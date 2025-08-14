@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-skirmisher-xmm-merfolk-skirmisher-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/merfolk-skirmisher-xmm|Merfolk Skirmisher]]
+# [[merfolk-skirmisher-xmm|Merfolk Skirmisher]]
 *Source: Monster Manual (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Merfolk skirmishers defend their homes from aquatic monsters and invaders from the surface.
@@ -66,7 +66,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 "actions":
   - "desc": "Melee  or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit:\
       \ 3 (d6) Piercing damage plus 2 (d4) Cold damage. If the target is a creature,\
-      \ its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] decreases by 10\
+      \ its [[speed-xphb|Speed]] decreases by 10\
       \ feet until the end of its next turn. Hit or Miss: The spear magically returns\
       \ to the merfolk's hand immediately after a ranged attack."
     "name": "Ocean Spear"

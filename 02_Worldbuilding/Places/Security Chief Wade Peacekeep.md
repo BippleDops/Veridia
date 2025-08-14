@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-security-chief-wade-peacekeep-security-chief-wade-peacekeep.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-security-chief-wade-peacekeep-security-chief-wade-peacekeep.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Security Chief Wade Peacekeep]]
+- [[12_Research/D&D_References/Security Chief Wade Peacekeep]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[12_Research/D&D_References/Smuggler's Cove]]

@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ox-mpmm-ox-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/ox-mpmm|Ox]]
+# [[ox-mpmm|Ox]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.

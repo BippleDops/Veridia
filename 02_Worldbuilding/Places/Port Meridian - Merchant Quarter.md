@@ -3,12 +3,12 @@ MyCategory: Unknown
 MyContainer: None
 created: '2025-08-11'
 danger_level: 4
-government: '[[02_Worldbuilding/Places/Merchant Council of Port Meridian]]'
-leader: '[[02_Worldbuilding/Lore/Trade Master Silas Goldwater]]'
+government: '[[Merchant Council of Port Meridian]]'
+leader: '[[Trade Master Silas Goldwater]]'
 obsidianUIMode: preview
-parent_location: '[[02_Worldbuilding/Places/Port Meridian]]'
+parent_location: '[[Port Meridian]]'
 population: 85000
-region: '[[02_Worldbuilding/Places/The Azure Coast]]'
+region: '[[The Azure Coast]]'
 specialties:
 - International Trade
 - Crystal Commerce
@@ -33,12 +33,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-meridian-merchant-quarter-port-meridian-merchant-quarter.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-meridian-merchant-quarter-port-meridian-merchant-quarter.svg]]
 
 
 # Port Meridian - Merchant Quarter
@@ -46,9 +42,9 @@ world: Aethermoor
 
 ## Overview
 
-The Merchant Quarter forms the bustling commercial core of [[02_Worldbuilding/Places/Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[02_Worldbuilding/Places/Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[02_Worldbuilding/Places/Crystalhaven]], [[02_Worldbuilding/Places/Ironhold]], [[02_Worldbuilding/Places/Sylvanheart]], and even the mysterious underwater realm of [[02_Worldbuilding/Places/Aquabyssos]] conduct business in a controlled chaos of commerce.
+The Merchant Quarter forms the bustling commercial core of [[Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[Crystalhaven]], [[Ironhold]], [[Sylvanheart]], and even the mysterious underwater realm of [[Aquabyssos]] conduct business in a controlled chaos of commerce.
 
-The Quarter operates under the watchful eye of [[02_Worldbuilding/Lore/Trade Master Silas Goldwater]] and the [[02_Worldbuilding/Places/Merchant Council of Port Meridian]], who ensure that profits flow freely while maintaining enough order to prevent complete anarchy. The district runs on crystal-powered clockwork precision during the day, transforming into a den of deals, schemes, and shadowy negotiations after dark.
+The Quarter operates under the watchful eye of [[Trade Master Silas Goldwater]] and the [[Merchant Council of Port Meridian]], who ensure that profits flow freely while maintaining enough order to prevent complete anarchy. The district runs on crystal-powered clockwork precision during the day, transforming into a den of deals, schemes, and shadowy negotiations after dark.
 
 ## Geography & Layout
 
@@ -56,88 +52,88 @@ The Quarter operates under the watchful eye of [[02_Worldbuilding/Lore/Trade Mas
 Central marketplace covering 20 square blocks, designed in concentric circles:
 
 **The Golden Circle (Center)**
-- **[[02_Worldbuilding/Lore/The Crystal Exchange]]** - Primary crystal trading floor with [[02_Worldbuilding/Places/Crystalhaven]] representatives
-- **[[02_Worldbuilding/Lore/The Scales of Fortune]]** - Largest general trading house, owned by [[02_Worldbuilding/Lore/Merchant Prince Aurelius Goldhand]]
-- **[[02_Worldbuilding/Lore/The Compass Rose]]** - Navigation equipment and ship supplies hub
-- **[[02_Worldbuilding/Lore/The Ledger Hall]]** - Banking and money-changing center run by [[02_Worldbuilding/Lore/Master Banker Cornelius Coinwright]]
+- **[[The Crystal Exchange]]** - Primary crystal trading floor with [[Crystalhaven]] representatives
+- **[[The Scales of Fortune]]** - Largest general trading house, owned by [[Merchant Prince Aurelius Goldhand]]
+- **[[The Compass Rose]]** - Navigation equipment and ship supplies hub
+- **[[The Ledger Hall]]** - Banking and money-changing center run by [[Master Banker Cornelius Coinwright]]
 
 **The Silver Ring (Second Circle)**
-- **[[02_Worldbuilding/Places/Exotic Imports Market]]** - Foreign goods from distant lands
-- **[[02_Worldbuilding/Lore/The Spice Road]]** - Food, seasonings, and culinary supplies
-- **[[02_Worldbuilding/Lore/Artisan's Row]]** - High-quality crafted goods and magical items
-- **[[02_Worldbuilding/Lore/The Information Exchange]]** - News, maps, and intelligence brokerage
+- **[[Exotic Imports Market]]** - Foreign goods from distant lands
+- **[[The Spice Road]]** - Food, seasonings, and culinary supplies
+- **[[Artisan's Row]]** - High-quality crafted goods and magical items
+- **[[The Information Exchange]]** - News, maps, and intelligence brokerage
 
 **The Bronze Circle (Outer Ring)**
-- **[[02_Worldbuilding/Lore/Common Goods Market]]** - Everyday items and bulk supplies
-- **[[02_Worldbuilding/Lore/The Livestock Yards]]** - Animals, mounts, and beast trading
-- **[[02_Worldbuilding/Lore/Scrap & Salvage]]** - Second-hand goods and ship parts
-- **[[02_Worldbuilding/Lore/The Hiring Hall]]** - Labor exchange and mercenary recruitment
+- **[[Common Goods Market]]** - Everyday items and bulk supplies
+- **[[The Livestock Yards]]** - Animals, mounts, and beast trading
+- **[[Scrap & Salvage]]** - Second-hand goods and ship parts
+- **[[The Hiring Hall]]** - Labor exchange and mercenary recruitment
 
 ### The Warehouse District
 
 **Crystal Storage Complex**
-- **[[02_Worldbuilding/Lore/Vault Prime]]** - Highest security for rare crystals, guarded by [[02_Worldbuilding/People/Crystal Wardens]]
-- **[[02_Worldbuilding/Lore/The Safe Houses]]** - Mid-tier secure storage with magical wards
-- **[[02_Worldbuilding/Lore/Common Storage]]** - Bulk goods storage with basic security
-- **[[02_Worldbuilding/Lore/The Deep Vaults]]** - Underground storage connected to [[02_Worldbuilding/Places/Aquabyssos]] trade routes
+- **[[Vault Prime]]** - Highest security for rare crystals, guarded by [[Crystal Wardens]]
+- **[[The Safe Houses]]** - Mid-tier secure storage with magical wards
+- **[[Common Storage]]** - Bulk goods storage with basic security
+- **[[The Deep Vaults]]** - Underground storage connected to [[Aquabyssos]] trade routes
 
 **Specialized Warehouses**
-- **[[02_Worldbuilding/Lore/The Cold Houses]]** - Magically preserved food and perishables
-- **[[02_Worldbuilding/Lore/Dangerous Goods Storage]]** - Explosive, toxic, and cursed items
-- **[[02_Worldbuilding/Places/The Living Quarters]]** - Storage for magical creatures and plants
-- **[[02_Worldbuilding/Lore/The Overflow]]** - Temporary storage for peak trading seasons
+- **[[The Cold Houses]]** - Magically preserved food and perishables
+- **[[Dangerous Goods Storage]]** - Explosive, toxic, and cursed items
+- **[[The Living Quarters]]** - Storage for magical creatures and plants
+- **[[The Overflow]]** - Temporary storage for peak trading seasons
 
 ### The Counting House Row
 
 **Major Financial Institutions**
-- **[[02_Worldbuilding/Lore/The Golden Scales Bank]]** - Primary banking house with branches across [[02_Worldbuilding/Places/Aethermoor]]
+- **[[The Golden Scales Bank]]** - Primary banking house with branches across [[Aethermoor]]
 - **[[Meridian Insurance Company]]** - Shipping and cargo insurance
-- **[[02_Worldbuilding/Groups/Guilds/The Moneylender's Guild]]** - Small loans and currency exchange
+- **[[The Moneylender's Guild]]** - Small loans and currency exchange
 - **[[Foreign Exchange Office]]** - International currency and trade agreements
 
 **Trading Company Headquarters**
-- **[[Goldwater Trading Company]]** - Led by [[02_Worldbuilding/Lore/Trade Master Silas Goldwater]]
-- **[[02_Worldbuilding/Lore/The Azure Fleet Corporation]]** - Largest shipping company
-- **[[02_Worldbuilding/Lore/Crystal Ventures Limited]]** - Specialized in crystal trade
-- **[[02_Worldbuilding/Lore/The Deepwater Consortium]]** - Trade with [[02_Worldbuilding/Places/Aquabyssos]]
+- **[[Goldwater Trading Company]]** - Led by [[Trade Master Silas Goldwater]]
+- **[[The Azure Fleet Corporation]]** - Largest shipping company
+- **[[Crystal Ventures Limited]]** - Specialized in crystal trade
+- **[[The Deepwater Consortium]]** - Trade with [[Aquabyssos]]
 
 ### The Docks Integration
 
 **Commercial Piers**
-- **[[02_Worldbuilding/Lore/The Crystal Pier]]** - Dedicated to crystal shipments from [[02_Worldbuilding/Places/Crystalhaven]]
-- **[[02_Worldbuilding/Lore/Ironhold Dock]]** - Heavy cargo and metal goods from [[02_Worldbuilding/Places/Ironhold]]
-- **[[02_Worldbuilding/Lore/The Exotic Wharf]]** - Foreign and unusual cargo
-- **[[02_Worldbuilding/Lore/The Deepwater Terminal]]** - Mysterious trade with underwater realms
+- **[[The Crystal Pier]]** - Dedicated to crystal shipments from [[Crystalhaven]]
+- **[[Ironhold Dock]]** - Heavy cargo and metal goods from [[Ironhold]]
+- **[[The Exotic Wharf]]** - Foreign and unusual cargo
+- **[[The Deepwater Terminal]]** - Mysterious trade with underwater realms
 
 **Support Facilities**
-- **[[02_Worldbuilding/Places/The Harbormaster's Office]]** - Shipping coordination and scheduling
-- **[[02_Worldbuilding/Lore/Customs House]]** - Import/export documentation and taxation
-- **[[02_Worldbuilding/Lore/The Cargo Inspection Station]]** - Magical and mundane security screening
-- **[[02_Worldbuilding/Lore/Stevedore Union Hall]]** - Labor organization for dock workers
+- **[[The Harbormaster's Office]]** - Shipping coordination and scheduling
+- **[[Customs House]]** - Import/export documentation and taxation
+- **[[The Cargo Inspection Station]]** - Magical and mundane security screening
+- **[[Stevedore Union Hall]]** - Labor organization for dock workers
 
 ## Commerce & Trade
 
 ### Primary Trade Goods
 
-**Crystal Products** (from [[02_Worldbuilding/Places/Crystalhaven]])
+**Crystal Products** (from [[Crystalhaven]])
 - Refined Aether Crystals for energy and magic
 - Crystal-powered devices and tools
 - Magical weapons and armor
 - Crystal jewelry and decorative items
 
-**Metalwork & Minerals** (from [[02_Worldbuilding/Places/Ironhold]])
-- [[02_Worldbuilding/Lore/Sundered Steel]] weapons and tools
+**Metalwork & Minerals** (from [[Ironhold]])
+- [[Sundered Steel]] weapons and tools
 - Precious metals and gems
 - Stone carvings and architectural elements
 - Dwarven ale and spirits
 
-**Natural Products** (from [[02_Worldbuilding/Places/Sylvanheart]])
+**Natural Products** (from [[Sylvanheart]])
 - Rare herbs and magical plants
 - Living wood crafts and furniture
 - Crystal-resistant goods
 - Elven textiles and art
 
-**Exotic Imports** (from [[02_Worldbuilding/Places/Aquabyssos]])
+**Exotic Imports** (from [[Aquabyssos]])
 - Deep-sea pearls and coral
 - Pressure-forged materials
 - Bioluminescent substances
@@ -151,22 +147,22 @@ Central marketplace covering 20 square blocks, designed in concentric circles:
 
 ### Trading Organizations
 
-**[[02_Worldbuilding/Lore/The Merchant Council]]**
+**[[The Merchant Council]]**
 Governing body of the Quarter's major trading houses:
-- **[[02_Worldbuilding/Lore/Trade Master Silas Goldwater]]** - Council Chairman
-- **[[02_Worldbuilding/Lore/Merchant Prince Aurelius Goldhand]]** - Largest trading house
-- **[[02_Worldbuilding/People/Banking Lord Cornelius Coinwright]]** - Financial sector representative
+- **[[Trade Master Silas Goldwater]]** - Council Chairman
+- **[[Merchant Prince Aurelius Goldhand]]** - Largest trading house
+- **[[Banking Lord Cornelius Coinwright]]** - Financial sector representative
 - **[[02_Worldbuilding/Lore/Dock Mistress Marina Saltwind]]** - Shipping and logistics
 - **[[Foreign Trade Envoy Lysander Farreach]]** - International relations
 
-**[[02_Worldbuilding/Groups/Guilds/The Traders Guild]]**
+**[[The Traders Guild]]**
 Professional organization for smaller merchants:
 - Standardized weights and measures
 - Quality control and reputation management
 - Dispute resolution and arbitration
 - Collective bargaining with large customers
 
-**[[02_Worldbuilding/Places/The Porters Union]]**
+**[[The Porters Union]]**
 Labor organization for dock workers and cargo handlers:
 - Controlled hiring and work distribution
 - Safety standards and equipment maintenance
@@ -200,13 +196,13 @@ The beating heart of Aethermoor's crystal trade:
 - Licensed crystal assessors and quality inspectors
 - Secure viewing booths for private negotiations
 
-**[[02_Worldbuilding/Lore/The Crystal Vault]]**
+**[[The Crystal Vault]]**
 - Most secure storage facility in Port Meridian
 - Magical wards preventing theft and corruption
 - Climate-controlled environment for crystal preservation
 - Direct transport tunnel to the docks
 
-**[[02_Worldbuilding/Lore/The Assayers Hall]]**
+**[[The Assayers Hall]]**
 - Expert evaluation of crystal purity and power
 - Certification services for trade verification
 - Research laboratory for new crystal types
@@ -216,24 +212,24 @@ The beating heart of Aethermoor's crystal trade:
 - Crystal energy overload (DC 16 CON save or 2d8 force damage)
 - Magical feedback loops from concentrated crystals
 - Corruption risk from prolonged exposure
-- Theft attempts by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- Theft attempts by [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 
 ### The Information Exchange
 Hub for news, intelligence, and data trading:
 
-**[[02_Worldbuilding/Lore/The Herald's Hall]]**
+**[[The Herald's Hall]]**
 - Official news proclamations and announcements
 - Shipping schedules and arrival notifications
 - Weather reports and navigation warnings
-- Political updates from across [[02_Worldbuilding/Places/Aethermoor]]
+- Political updates from across [[Aethermoor]]
 
-**[[02_Worldbuilding/Lore/The Rumor Mill]]**
+**[[The Rumor Mill]]**
 - Unofficial news and gossip trading post
 - Private information brokerage services
 - Spy network coordination center
 - Blackmail and intelligence auction house
 
-**[[02_Worldbuilding/Lore/The Map Room]]**
+**[[The Map Room]]**
 - Cartographic services and map updates
 - Navigation route planning and consultation
 - Geographic intelligence and exploration reports
@@ -249,10 +245,10 @@ Hub for news, intelligence, and data trading:
 Employment center for all types of services:
 
 **Mercenary Services**
-- **[[02_Worldbuilding/Groups/The Iron Company]]** - Elite mercenary unit led by [[02_Worldbuilding/People/Captain Marcus Ironwill]]
-- **[[02_Worldbuilding/Lore/The Azure Guard]]** - Specialist maritime security force
-- **[[02_Worldbuilding/Lore/The Crystal Hunters]]** - Experts in recovering stolen crystals
-- **[[02_Worldbuilding/Lore/The Debt Collectors]]** - Financial enforcement specialists
+- **[[The Iron Company]]** - Elite mercenary unit led by [[Captain Marcus Ironwill]]
+- **[[The Azure Guard]]** - Specialist maritime security force
+- **[[The Crystal Hunters]]** - Experts in recovering stolen crystals
+- **[[The Debt Collectors]]** - Financial enforcement specialists
 
 **Skilled Labor**
 - Ship crew recruitment and placement
@@ -291,7 +287,7 @@ The fast-paced nature of trade creates unique risks:
 
 ### Criminal Activity
 
-**[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] Operations**
+**[[The Whisper Syndicate]] Operations**
 - Crystal smuggling and black market sales
 - Protection rackets targeting small merchants
 - Information theft and corporate espionage
@@ -306,37 +302,37 @@ The fast-paced nature of trade creates unique risks:
 ## Key NPCs
 
 ### Leadership & Authority
-- **[[02_Worldbuilding/Lore/Trade Master Silas Goldwater]]** - Chairman of Merchant Council, controls largest trading network
-- **[[02_Worldbuilding/Lore/Merchant Prince Aurelius Goldhand]]** - Wealthy trader specializing in luxury goods
-- **[[02_Worldbuilding/People/Banking Lord Cornelius Coinwright]]** - Controls the Quarter's financial systems
+- **[[Trade Master Silas Goldwater]]** - Chairman of Merchant Council, controls largest trading network
+- **[[Merchant Prince Aurelius Goldhand]]** - Wealthy trader specializing in luxury goods
+- **[[Banking Lord Cornelius Coinwright]]** - Controls the Quarter's financial systems
 - **[[02_Worldbuilding/Lore/Dock Mistress Marina Saltwind]]** - Manages shipping and port logistics
-- **[[02_Worldbuilding/People/Watch Captain Roderick Shieldbreaker]]** - Military security for the Quarter
+- **[[Watch Captain Roderick Shieldbreaker]]** - Military security for the Quarter
 
 ### Merchants & Traders
-- **[[02_Worldbuilding/Lore/Crystal Merchant Prism Brightstone]]** - Expert in rare crystal varieties
+- **[[Crystal Merchant Prism Brightstone]]** - Expert in rare crystal varieties
 - **[[Exotic Goods Dealer Zara Farlands]]** - Imports from distant continents
-- **[[02_Worldbuilding/Lore/Weapons Trader Gareth Steelmerchant]]** - Military equipment specialist
+- **[[Weapons Trader Gareth Steelmerchant]]** - Military equipment specialist
 - **[[Information Broker Whisper]]** - Mysterious figure dealing in secrets
 - **[[Livestock Trader Big Ben Beastmaster]]** - Animals and magical creature sales
 
 ### Service Providers
 - **[[Master Appraiser Keen-Eye Korvyn]]** - Expert in evaluating valuable goods
-- **[[02_Worldbuilding/Lore/Translator Polyglot Petra]]** - Speaks 15 languages fluently
-- **[[02_Worldbuilding/People/Captain Marcus Ironwill]]** - Leader of The Iron Company
-- **[[02_Worldbuilding/People/Fence Queen Sticky-Fingers Sal]]** - Handler of stolen goods
-- **[[02_Worldbuilding/Places/Tavern Keep Lucky Jack Goldpouch]]** - Owner of The Merchant's Rest
+- **[[Translator Polyglot Petra]]** - Speaks 15 languages fluently
+- **[[Captain Marcus Ironwill]]** - Leader of The Iron Company
+- **[[Fence Queen Sticky-Fingers Sal]]** - Handler of stolen goods
+- **[[Tavern Keep Lucky Jack Goldpouch]]** - Owner of The Merchant's Rest
 
 ### Foreign Representatives
-- **[[02_Worldbuilding/People/Crystalhaven Envoy Lord Reginald Brightspire]]** - Official trade representative
+- **[[Crystalhaven Envoy Lord Reginald Brightspire]]** - Official trade representative
 - **[[Ironhold Ambassador Thorin Coinbeard]]** - Dwarven trade negotiator
-- **[[02_Worldbuilding/Lore/Sylvanheart Delegate Aerin Leafwhisper]]** - Elven cultural exchange coordinator
-- **[[02_Worldbuilding/Lore/Aquabyssos Contact Agent Coral]]** - Mysterious underwater realm representative
-- **[[02_Worldbuilding/People/Foreign Trader Captain Hassan al-Rimal]]** - From the Southern Desert Kingdoms
+- **[[Sylvanheart Delegate Aerin Leafwhisper]]** - Elven cultural exchange coordinator
+- **[[Aquabyssos Contact Agent Coral]]** - Mysterious underwater realm representative
+- **[[Foreign Trader Captain Hassan al-Rimal]]** - From the Southern Desert Kingdoms
 
 ## Secrets & Mysteries
 
 ### The Deepwater Conspiracy
-Secret alliance between select merchants and [[02_Worldbuilding/Places/Aquabyssos]]:
+Secret alliance between select merchants and [[Aquabyssos]]:
 - Illegal importation of restricted underwater goods
 - Currency manipulation using deep-sea resources
 - Technology exchange violating international treaties
@@ -347,13 +343,13 @@ Hidden organization controlling crystal prices:
 - Artificial scarcity creation through market manipulation
 - Elimination of independent crystal traders
 - Secret storage facilities with massive crystal stockpiles
-- Connections to [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- Connections to [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 
 ### The Foreign Intelligence Network
 Multiple nations operate spy rings within the Quarter:
-- [[02_Worldbuilding/Places/Crystalhaven]] agents monitoring anti-crystal sentiment
-- [[02_Worldbuilding/Places/Ironhold]] spies tracking crystal military applications
-- [[02_Worldbuilding/Places/Sylvanheart]] operatives protecting refugee networks
+- [[Crystalhaven]] agents monitoring anti-crystal sentiment
+- [[Ironhold]] spies tracking crystal military applications
+- [[Sylvanheart]] operatives protecting refugee networks
 - Unknown foreign powers gathering strategic intelligence
 
 ### The Merchant Council's Hidden Agenda
@@ -375,7 +371,7 @@ The governing council has secret goals beyond simple commerce:
 
 **The Great Heist**
 Investigate the theft of an entire warehouse worth of crystals:
-- Inside job with connections to [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- Inside job with connections to [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 - Clues lead to conspiracy involving Merchant Council members
 - Stolen crystals being used to power illegal magical experiments
 - Recovery mission requires infiltration and stealth
@@ -469,7 +465,7 @@ Characters operating in the Merchant Quarter gain access to:
 | Roll | Encounter |
 |------|-----------|
 | 1-2 | Black market dealer offering illegal goods |
-| 3-4 | [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] recruitment attempt |
+| 3-4 | [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] recruitment attempt |
 | 5-6 | Corporate espionage operation in progress |
 | 7-8 | Smuggling operation seeking additional personnel |
 | 9 | High-stakes gambling den with merchant princes |
@@ -478,10 +474,10 @@ Characters operating in the Merchant Quarter gain access to:
 ## Connections to Other Locations
 
 ### Trade Routes
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Primary source of crystal goods and technology
-- **[[02_Worldbuilding/Places/Ironhold]]** - Metalwork, gems, and dwarven crafts
-- **[[02_Worldbuilding/Places/Sylvanheart]]** - Natural goods and crystal-resistant products
-- **[[02_Worldbuilding/Places/Aquabyssos]]** - Exotic underwater goods and mysterious materials
+- **[[Crystalhaven]]** - Primary source of crystal goods and technology
+- **[[Ironhold]]** - Metalwork, gems, and dwarven crafts
+- **[[Sylvanheart]]** - Natural goods and crystal-resistant products
+- **[[Aquabyssos]]** - Exotic underwater goods and mysterious materials
 - **Foreign Ports** - International trade connections across multiple continents
 
 ### Political Relationships
@@ -522,8 +518,8 @@ Characters operating in the Merchant Quarter gain access to:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[Crystallium]]
+- [[Port Meridian - Market Square]]
 
 ## Player-Facing Summary
 
@@ -545,9 +541,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[Port Meridian - Merchant Quarter]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[Crystal Wardens]]
+- [[The Whisper Syndicate]]
+- [[Customs House]]

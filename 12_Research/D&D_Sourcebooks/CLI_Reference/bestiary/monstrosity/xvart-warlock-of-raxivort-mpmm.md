@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xvart-warlock-of-raxivort-mpmm-v1-xvart-warlock-of-raxivort-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/xvart-warlock-of-raxivort-mpmm|Xvart Warlock of Raxivort]]
+# [[xvart-warlock-of-raxivort-mpmm|Xvart Warlock of Raxivort]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -55,7 +55,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "Abyssal"
@@ -64,9 +64,9 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
       \ hit points."
     "name": "Raxivort's Blessing"
-  - "desc": "The xvart can communicate with ordinary [[/03_Mechanics/CLI/bestiary/beast/bat-xmm|bats]]\
-      \ and [[/03_Mechanics/CLI/bestiary/beast/rat-xmm|rats]], as well as [[/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm|giant\
-      \ bats]] and [[/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm|giant rats]]."
+  - "desc": "The xvart can communicate with ordinary [[bat-xmm|bats]]\
+      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\
+      \ bats]] and [[giant-rat-xmm|giant rats]]."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
@@ -79,14 +79,14 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     "name": "Raxivort's Bite"
   - "desc": "The xvart casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage\
-      \ armor]] (self only), [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]],\
-      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/burning-hands-xphb|burning hands]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]]"
+      \ will: [[detect-magic-xphb|detect magic]], [[mage-armor-xphb|mage\
+      \ armor]] (self only), [[mage-hand-xphb|mage hand]],\
+      \ [[minor-illusion-xphb|minor illusion]], [[prestidigitation-xphb|prestidigitation]]\n\
+      \n1/day each: [[burning-hands-xphb|burning hands]],\
+      \ [[invisibility-xphb|invisibility]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The xvart takes the [[/03_Mechanics/CLI/actions#Disengage|Disengage]]\
+  - "desc": "The xvart takes the [[actions#Disengage|Disengage]]\
       \ action."
     "name": "Low Cunning"
 "source":

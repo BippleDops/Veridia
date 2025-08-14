@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-depth-plague-the-depth-plague.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-depth-plague-the-depth-plague.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Plague]]
+- [[12_Research/D&D_References/Depth Plague]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]

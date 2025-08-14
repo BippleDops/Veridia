@@ -24,7 +24,7 @@ world: Both
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 

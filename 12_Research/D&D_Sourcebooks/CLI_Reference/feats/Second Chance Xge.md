@@ -23,7 +23,7 @@ world: Both
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/races/halfling-xphb|Halfling]]
+**Prerequisite**: [[halfling-xphb|Halfling]]
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 

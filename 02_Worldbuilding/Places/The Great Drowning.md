@@ -15,6 +15,10 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -27,12 +31,9 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # The Great Drowning
 
-![[04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait]]
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 
@@ -45,6 +46,7 @@ The site pulses with residual planar energy, creating unpredictable currents tha
 ## Physical Description
 
 ### The Maelstrom
+
 The Great Drowning appears as a colossal whirlpool that defies natural physics:
 - **Diameter**: 3.2 miles at the surface, narrowing to 500 feet at the Event Horizon (1,000 feet down)
 - **Depth**: Unknown—expeditions have descended 5 miles without reaching bottom
@@ -52,6 +54,7 @@ The Great Drowning appears as a colossal whirlpool that defies natural physics:
 - **Water Temperature**: Fluctuates between near-freezing and boiling without warning
 
 ### The Memory Rings
+
 Concentric zones of crystallized water orbit the maelstrom at various depths:
 - **First Ring** (100-200 feet): Contains echoes of the final day
 - **Second Ring** (300-500 feet): Preserves fragments of daily life
@@ -59,6 +62,7 @@ Concentric zones of crystallized water orbit the maelstrom at various depths:
 - **Fourth Ring** (1,200+ feet): Unknown contents—all who enter never return
 
 ### The Temporal Distortion Field
+
 Time flows differently near the Great Drowning:
 - **Outer Edge**: 1 hour = 61 minutes external time
 - **Middle Zone**: 1 hour = 2 hours external time  
@@ -68,9 +72,11 @@ Time flows differently near the Great Drowning:
 ## History
 
 ### The Thalassopolis Experiment (Year 2177)
+
 The mage-council of Thalassopolis attempted to create a permanent portal to the Elemental Plane of Water to solve the city's expansion needs. Led by Archmagus Nereon the Profound, thirteen archmages combined their power in a ritual that had taken decades to prepare.
 
 ### The Breach (Day of Sorrow)
+
 On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 1. **Hour 1**: Portal opened successfully, celebration began
 2. **Hour 3**: Portal began expanding beyond containment circles
@@ -81,6 +87,7 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 7. **Hour 24**: Planar breach stabilized into current maelstrom
 
 ### The Aftermath
+
 - **Immediate**: 300,000 citizens lost, presumed dead or worse
 - **First Year**: Rescue attempts failed, 47 more lives lost
 - **Decade**: Abyssal Senate declared site forbidden
@@ -90,6 +97,7 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 ## Current Inhabitants
 
 ### The Depth Guard
+
 **Commander**: Captain Theron Voidwatcher
 - **Force Size**: 200 elite soldiers
 - **Rotation**: 3-month tours (longer causes madness)
@@ -124,6 +132,7 @@ STR 16 (+3), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 15 (+2), CHA 11 (+0)
 **Depth Charge (Recharge 5-6).** The guard throws an explosive that detonates in water. Each creature within 20 feet must make a DC 14 Constitution saving throw, taking 28 (8d6) thunder damage on a failed save, or half as much on a successful one.
 
 ### The Echo Shepherds
+
 Mysterious beings that emerged from the maelstrom, appearing as translucent humanoids:
 - Guide lost souls through the memory rings
 - Speak only in quotes from the dead
@@ -131,6 +140,7 @@ Mysterious beings that emerged from the maelstrom, appearing as translucent huma
 - Disappear if brought more than a mile from the site
 
 ### The Remnants
+
 Survivors of Thalassopolis transformed by the planar energies:
 - No longer fully human—part water elemental
 - Retain fragments of their former memories
@@ -167,6 +177,7 @@ STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
 ## Notable Features
 
 ### The Archive Stones
+
 Thirteen massive obsidian pillars that orbit the maelstrom:
 - Each contains the final thoughts of one of the thirteen archmages
 - Reading them requires a DC 20 Arcana check
@@ -174,6 +185,7 @@ Thirteen massive obsidian pillars that orbit the maelstrom:
 - Destroying one might weaken the maelstrom—or make it worse
 
 ### The Tide Calendar
+
 A temporal anomaly where past, present, and future overlap:
 - Visitors might encounter their future selves
 - Messages can be left for the past
@@ -181,6 +193,7 @@ A temporal anomaly where past, present, and future overlap:
 - Used by oracles to glimpse possible futures
 
 ### The Sorrow Gardens
+
 Crystallized tears of the victims form underwater gardens:
 - Each crystal contains a victim's last memory
 - Touching one allows experiencing that memory
@@ -206,23 +219,29 @@ Crystallized tears of the victims form underwater gardens:
 ## Adventure Hooks
 
 ### The Thirteenth Hour
+
 The party must enter the maelstrom during a specific temporal alignment to retrieve an artifact from Thalassopolis before the city's destruction. They have exactly 13 hours of subjective time, but each hour deeper they go, the harder it becomes to return.
 
 ### The Last Archmage
+
 Intelligence suggests one of the thirteen archmages survived, transformed into something else entirely. They hide in the deepest parts of the ruins, and might hold the key to either closing the breach forever or controlling it.
 
 ### Memory Thieves
+
 Someone is harvesting the memory crystals from the Sorrow Gardens and selling them on the black market. The Depth Guard needs investigators who can navigate both the physical dangers and the political implications.
 
 ### The Other Side
+
 A message in a bottle emerges from the maelstrom claiming to be from survivors who passed through to another realm. It includes instructions for a ritual to open a stable gateway, but requires components that are themselves dangerous to obtain.
 
 ### Temporal Assassination
+
 The party discovers evidence of someone using the Tide Calendar to send assassins into the past to eliminate key figures. They must navigate the temporal streams to prevent changes to history—or decide if some changes might be for the better.
 
 ## Treasures
 
 ### Memory Pearls
+
 Crystallized memories that can be consumed to gain temporary benefits:
 - **Common** (100 gp): Gain proficiency in one skill for 24 hours
 - **Uncommon** (500 gp): Gain expertise in one skill for 24 hours
@@ -231,12 +250,14 @@ Crystallized memories that can be consumed to gain temporary benefits:
 - **Legendary** (50,000 gp): Gain complete memories of another person permanently
 
 ### Temporal Anchors
+
 Devices that protect against time distortion:
 - **Minor** (750 gp): Advantage on saves vs temporal effects
 - **Major** (7,500 gp): Immunity to time-based attacks
 - **Supreme** (75,000 gp): Control personal timeline
 
 ### Depth Caller's Conch
+
 *Wondrous item, very rare (requires attunement)*
 
 This spiral shell constantly drips with water that never runs dry. While attuned:
@@ -248,18 +269,21 @@ This spiral shell constantly drips with water that never runs dry. While attuned
 ## DM Notes
 
 ### Scaling the Horror
+
 - **Low Level (1-5)**: Focus on the memorial aspects and Depth Guard
 - **Mid Level (6-10)**: Introduce temporal mechanics and Remnants
 - **High Level (11-15)**: Deep exploration and Archive Stones
 - **Epic Level (16-20)**: Attempt to close or control the breach
 
 ### Environmental Hazards
+
 - **Pressure Waves**: CON save DC 15 or stunned 1 round
 - **Temporal Shears**: DEX save DC 17 or age 1d10 years
 - **Memory Storms**: WIS save DC 14 or confused 1 minute
 - **Reality Tears**: INT save DC 16 or teleported 1d100 feet randomly
 
 ### Campaign Integration
+
 The Great Drowning serves as:
 - A cautionary tale about magical hubris
 - A source of temporal plot devices
@@ -270,9 +294,10 @@ The Great Drowning serves as:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Deep Mother]]
+
+- [[12_Research/D&D_References/Deep Mother]]
 - [[02_Worldbuilding/Places/Thalassopolis Ruins|02 Worldbuilding/Places/Thalassopolis Ruins]]
-- [[02_Worldbuilding/Lore/Depth Guard]]
+- [[12_Research/D&D_References/Depth Guard]]
 - [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos|02 Worldbuilding/Lore/Planar Breaches Of Aquabyssos]]
 - [[03_Mechanics/Temporal_Mechanics_System|03 Mechanics/Temporal Mechanics System]]
 
@@ -288,42 +313,48 @@ Legends speak of The Great Drowning as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[12_Research/D&D_Statblocks/The Great Drowning]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
-- [[02_Worldbuilding/Lore/The Breathing Stone]]
-- [[02_Worldbuilding/Lore/Vorthak]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Places/Luminous Hollow]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Old Valdris]]
-- [[02_Worldbuilding/Places/Pressure's End]]
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
-- [[02_Worldbuilding/Places/The Eternal Senate]]
-- [[02_Worldbuilding/Places/The First Failure]]
-- [[02_Worldbuilding/Places/The Foundation Depths]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
-- [[02_Worldbuilding/Places/The Recursion Cult]]
-- [[02_Worldbuilding/Places/The Silent Watcher]]
-- [[02_Worldbuilding/Places/The Singing Trenches]]
-- [[02_Worldbuilding/Places/The Vanishing Depths]]
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
-- [[02_Worldbuilding/Places/Theological Warfare]]
-- [[02_Worldbuilding/Places/Whisper-Touched William]]
+- [[12_Research/D&D_References/Establish the New Order]]
+- [[12_Research/D&D_References/Shadow Independence Levels]]
+- [[12_Research/D&D_References/Aetheron]]
+- [[12_Research/D&D_References/Aquabyssos-Aethermoor Treaties]]
+- [[12_Research/D&D_References/Corallion]]
+- [[12_Research/D&D_References/Queen Seraphina]]
+- [[12_Research/D&D_References/The Breathing Stone]]
+- [[12_Research/D&D_References/Vorthak]]
+- [[12_Research/D&D_References/Prophet Nerida Voidgazer]]
+- [[12_Research/D&D_References/Amnesia Gallery]]
+- [[12_Research/D&D_References/Crystallium]]
+- [[12_Research/D&D_Statblocks/Forge of War]]
+- [[12_Research/D&D_Statblocks/Luminous Hollow]]
+- [[12_Research/D&D_References/New Tethys]]
+- [[12_Research/D&D_References/Old Valdris]]
+- [[12_Research/D&D_References/Pressure's End]]
+- [[12_Research/D&D_References/Sister Morwyn]]
+- [[12_Research/D&D_References/The Archive of Unremembered Things]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Eternal Senate]]
+- [[12_Research/D&D_References/The First Failure]]
+- [[12_Research/D&D_Statblocks/The Foundation Depths]]
+- [[12_Research/D&D_References/The Lock]]
+- [[12_Research/D&D_References/The Primordial Vaults]]
+- [[12_Research/D&D_References/The Recursion Cult]]
+- [[12_Research/D&D_References/The Silent Watcher]]
+- [[12_Research/D&D_References/The Singing Trenches]]
+- [[12_Research/D&D_References/The Vanishing Depths]]
+- [[12_Research/D&D_References/The Whispering Peaks]]
+- [[12_Research/D&D_References/Theological Warfare]]
+- [[12_Research/D&D_References/Whisper-Touched William]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

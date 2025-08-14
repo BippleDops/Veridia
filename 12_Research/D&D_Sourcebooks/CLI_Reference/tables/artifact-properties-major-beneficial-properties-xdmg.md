@@ -33,7 +33,7 @@ status: active
 | 61–70 | As 51–60 above, except the spell is level 5. |
 | 71–80 | As 51–60 above, except the spell is level 6. |
 | 81–90 | As 51–60 above, except the spell is level 7. |
-| 91–00 | While attuned to the Artifact, you have Immunity to the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Petrified|Petrified]], and [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] conditions. |
+| 91–00 | While attuned to the Artifact, you have Immunity to the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], [[conditions#Petrified|Petrified]], and [[conditions#Stunned|Stunned]] conditions. |
 ^major-beneficial-properties
 
 ## Player-Facing Summary

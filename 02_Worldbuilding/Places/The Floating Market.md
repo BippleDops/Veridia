@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Groups/The Liminal Trading Company]]'
+affiliation: '[[The Liminal Trading Company]]'
 created: '2025-08-09'
 created_by: auto-stub
 danger_level: Moderate
@@ -25,19 +25,15 @@ world: Dimensional Nexus (Both Realms)
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-floating-market-the-floating-market.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-floating-market-the-floating-market.svg]]
 
 
 # The Floating Market
 *The Nexus of Worlds, Where All Realities Meet*
 
 ## Overview
-The Floating Market exists in a carefully maintained dimensional pocket that touches both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] while belonging fully to neither. Created and operated by [[02_Worldbuilding/Groups/The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
+The Floating Market exists in a carefully maintained dimensional pocket that touches both [[Aethermoor]] and [[Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
 
 ## Physical Description
 ### The Market Structure
@@ -45,7 +41,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **The Crystal Quarter**: Section optimized for Aethermoor visitors and crystal-based technology
 - **The Depth Sector**: Area modified for Aquabyssos residents with water-filled chambers
 - **Neutral Zones**: Common areas where both realms' inhabitants can interact comfortably
-- **The Administrative Core**: [[02_Worldbuilding/Groups/The Liminal Trading Company]]'s headquarters and coordination center
+- **The Administrative Core**: [[The Liminal Trading Company]]'s headquarters and coordination center
 
 ### Dimensional Properties
 - **Reality Anchor**: Advanced technology maintains stable physical laws
@@ -108,7 +104,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ## Population & Society
 ### Permanent Residents
-- **[[02_Worldbuilding/Groups/The Liminal Trading Company]] Staff**: ~500 employees managing operations
+- **[[The Liminal Trading Company]] Staff**: ~500 employees managing operations
 - **Security Personnel**: ~200 guards and peacekeepers
 - **Service Providers**: ~300 people running shops, restaurants, and support services
 - **Diplomatic Corps**: ~100 representatives from various factions and governments
@@ -122,7 +118,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Researchers**: Scholars studying cross-realm phenomena
 
 ### Social Structure
-- **The Board of Governors**: [[02_Worldbuilding/Groups/The Liminal Trading Company]] executives
+- **The Board of Governors**: [[The Liminal Trading Company]] executives
 - **Merchant Princes**: Wealthy independent traders with significant influence
 - **Guild Representatives**: Spokespersons for various professional organizations
 - **Cultural Ambassadors**: Individuals promoting their realm's interests
@@ -145,7 +141,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ## Security & Governance
 ### The Market Authority
-- **Administrator General**: Senior [[02_Worldbuilding/Groups/The Liminal Trading Company]] executive
+- **Administrator General**: Senior [[The Liminal Trading Company]] executive
 - **Security Chief**: Head of market peacekeeping forces
 - **Diplomatic Coordinator**: Manages relationships with both realms' governments
 - **Trade Regulatory Council**: Oversees commercial standards and practices
@@ -170,7 +166,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Daily Transactions**: Millions of gold pieces worth of commerce
 - **Cross-Realm Imports**: 60% of inter-dimensional trade passes through Market
 - **Employment**: Direct and indirect jobs for thousands in both realms
-- **Tax Revenue**: Significant income for [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- **Tax Revenue**: Significant income for [[The Liminal Trading Company]]
 - **Economic Multiplier**: Market activity stimulates business throughout both worlds
 
 ### Strategic Resources
@@ -184,14 +180,14 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ### The Crystal Quarter
 #### Luminar's Radiant Emporium
-*Owner: [[02_Worldbuilding/Lore/Luminar Brightforge]] - Aethermoor Crystal Artificer*
+*Owner: [[Luminar Brightforge]] - Aethermoor Crystal Artificer*
 - **Specialty**: High-grade crystal focusing stones and illumination devices
 - **Signature Items**: 
   - *Everburning Crystal Lanterns* (50 gp) - Never need fuel, emit bright light 30ft
   - *Crystal of True Sight* (2,500 gp) - Functions as *Gem of Seeing*
   - *Resonance Amplifiers* (750 gp) - Enhance spellcasting focus (+1 to spell attack rolls)
 - **Services**: Custom crystal cutting, enchantment consultations
-- **Notable**: Only vendor authorized to sell [[02_Worldbuilding/Places/Aethermoor]] military-grade crystal arrays
+- **Notable**: Only vendor authorized to sell [[Aethermoor]] military-grade crystal arrays
 
 #### The Prismatic Workshop
 *Proprietor: [[Master Kallan Shimmerstone]] - Renowned Jeweler*
@@ -204,7 +200,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Hook**: Recently discovered shadow-corruption in several crystals
 
 #### Brightward Security Solutions
-*Chief: [[02_Worldbuilding/People/Captain Dara Ironwill]] - Former Aethermoor Guard*
+*Chief: [[Captain Dara Ironwill]] - Former Aethermoor Guard*
 - **Services**: Personal protection, caravan escorts, vault security
 - **Equipment Rental**: Crystal-powered armor, enchanted weapons
 - **Rates**: 10 gp/day per guard, 50 gp/day for elite protection
@@ -212,7 +208,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ### The Depth Sector
 #### Whispers & Memories Emporium
-*Keeper: [[02_Worldbuilding/Lore/Naia Deepcurrent]] - Memory Merchant*
+*Keeper: [[Naia Deepcurrent]] - Memory Merchant*
 - **Specialty**: Ethically-sourced memories and experiences
 - **Inventory**:
   - *Childhood Joy* (25 gp) - Temporary hit points equal to Charisma modifier
@@ -222,7 +218,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Services**: Memory extraction, preservation, custom experiences
 
 #### Shadowsilk & Sundries
-*Proprietress: [[02_Worldbuilding/Lore/Lyra Voidweaver]] - Shadow Silk Artisan*
+*Proprietress: [[Lyra Voidweaver]] - Shadow Silk Artisan*
 - **Specialty**: Clothing and accessories made from processed shadow materials
 - **Signature Items**:
   - *Cloak of Whispers* (800 gp) - Advantage on Stealth, resistance to cold
@@ -232,7 +228,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Warning**: Materials may cause nightmares in sensitive individuals
 
 #### The Abyssal Tavern
-*Host: [[02_Worldbuilding/Lore/Thane Darkwater]] - Former Deep Explorer*
+*Host: [[Thane Darkwater]] - Former Deep Explorer*
 - **Atmosphere**: Dimly lit, water-filled chambers, comfortable for Aquabyssos natives
 - **Specialty Drinks**:
   - *Depth Charge* (5 gp) - Grants darkvision 60ft for 1 hour
@@ -243,7 +239,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ### Grand Bazaar (Neutral Territory)
 #### The Crossroads General Store
-*Manager: [[02_Worldbuilding/Lore/Finn Worldwalker]] - Halfling Merchant*
+*Manager: [[Finn Worldwalker]] - Halfling Merchant*
 - **Inventory**: Basic adventuring gear from both realms
 - **Unique Items**:
   - *Realm Rations* (2 gp/day) - Food adapted for any dimensional physiology
@@ -253,7 +249,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Reputation**: Honest dealing, fair prices, extensive network
 
 #### The Exotic Bazaar
-*Merchant Prince: [[02_Worldbuilding/Lore/Zara al-Zahir]] - Djinn-touched Trader*
+*Merchant Prince: [[Zara al-Zahir]] - Djinn-touched Trader*
 - **Specialty**: Rare goods from across multiple dimensions
 - **Weekly Auctions**: High-value items, starting bids 1,000+ gp
 - **Current Inventory**:
@@ -263,7 +259,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Services**: Appraisals, consignment sales, trade negotiations
 
 #### Madame Cordelia's Curiosities
-*Proprietor: [[02_Worldbuilding/Lore/Cordelia Mysteris]] - Human Fortune Teller*
+*Proprietor: [[Cordelia Mysteris]] - Human Fortune Teller*
 - **Services**: Divination, curse identification, magical consultations
 - **Readings**: 10 gp for simple questions, 50 gp for complex divinations
 - **Signature Items**:
@@ -275,7 +271,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ### Specialty Services
 
 #### The Dimensional Post
-*Postmaster: [[02_Worldbuilding/Lore/Gideon Quickstep]] - Gnome Courier*
+*Postmaster: [[Gideon Quickstep]] - Gnome Courier*
 - **Services**: Message and package delivery across dimensions
 - **Rates**: 1 gp local, 10 gp cross-realm, 50 gp emergency delivery
 - **Guarantees**: 99% delivery rate, insurance available
@@ -300,16 +296,16 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ## Notable NPCs
 
 ### The Market Authority
-#### [[02_Worldbuilding/Lore/Administrator General Vera Crosswind]]
+#### [[Administrator General Vera Crosswind]]
 *Human, age 45, Neutral Good*
-- **Role**: Senior executive of [[02_Worldbuilding/Groups/The Liminal Trading Company]], market overseer
+- **Role**: Senior executive of [[The Liminal Trading Company]], market overseer
 - **Background**: Former diplomat who brokered the original neutrality treaties
 - **Personality**: Pragmatic, diplomatic, deeply committed to market independence
 - **Goals**: Maintain neutrality, expand trade opportunities, prevent conflicts
 - **Resources**: Extensive network of contacts, significant financial backing
 - **Adventure Hooks**: May hire parties for sensitive diplomatic missions
 
-#### [[02_Worldbuilding/Lore/Security Chief Marcus Ironbrand]]
+#### [[Security Chief Marcus Ironbrand]]
 *Dwarf, age 156, Lawful Neutral*
 - **Role**: Head of market security forces, former military officer
 - **Background**: Veteran of conflicts in both realms, chose neutrality over politics
@@ -318,7 +314,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Equipment**: *+2 Warhammer*, *Plate Armor of Diplomatic Immunity*
 - **Forces**: Commands 200 professional guards of various backgrounds
 
-#### [[02_Worldbuilding/Lore/Diplomatic Coordinator Lysandra Starweave]]
+#### [[Diplomatic Coordinator Lysandra Starweave]]
 *Half-Elf, age 128, True Neutral*
 - **Role**: Manages relationships with both realm governments
 - **Background**: Raised in market, considers it her true home
@@ -328,7 +324,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Secret**: Has romantic relationships in both realms, uses for intelligence
 
 ### Merchant Princes
-#### [[02_Worldbuilding/Lore/Goldhorn the Magnificent]]
+#### [[Goldhorn the Magnificent]]
 *Dragonborn, age 89, Chaotic Neutral*
 - **Role**: Wealthiest independent trader, specializes in magical artifacts
 - **Background**: Former adventurer who struck it rich, now builds trading empire
@@ -337,16 +333,16 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Influence**: Can affect market prices through large purchases/sales
 - **Adventure Hook**: Often sponsors expeditions to recover rare artifacts
 
-#### [[02_Worldbuilding/Lore/The Consortium of Five]]
+#### [[The Consortium of Five]]
 *Mixed races and backgrounds*
-- **Members**: [[02_Worldbuilding/Lore/Banker Kess]] (Gnome), [[02_Worldbuilding/People/Lady Shadowmere]] (Tiefling), [[02_Worldbuilding/People/Captain Redbeard]] (Human), [[02_Worldbuilding/Lore/Sage Moonwhisper]] (Elf), [[02_Worldbuilding/Lore/Ironforge]] (Dwarf)
+- **Members**: [[Banker Kess]] (Gnome), [[Lady Shadowmere]] (Tiefling), [[Captain Redbeard]] (Human), [[Sage Moonwhisper]] (Elf), [[Ironforge]] (Dwarf)
 - **Role**: Collective of merchants who coordinate major trade operations
 - **Power**: Combined wealth rivals small nations, significant political influence
 - **Activities**: Price coordination, market manipulation, information sharing
 - **Conflict**: Internal rivalries often spill over into market politics
 
 ### Independent Operators
-#### [[02_Worldbuilding/Lore/The Masked Broker]]
+#### [[The Masked Broker]]
 *Identity Unknown*
 - **Role**: Information merchant dealing in secrets and intelligence
 - **Services**: Sells information, arranges discrete meetings, handles sensitive negotiations
@@ -355,7 +351,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Reputation**: Absolutely reliable, never reveals sources, extremely expensive
 - **Adventure Hook**: May have information crucial to ongoing campaigns
 
-#### [[02_Worldbuilding/Lore/Professor Cogwick Gearspring]]
+#### [[Professor Cogwick Gearspring]]
 *Rock Gnome, age 247, Chaotic Good*
 - **Role**: Inventor and artificer specializing in inter-dimensional technology
 - **Workshop**: "Gearspring's Impossible Inventions" in neutral territory
@@ -364,7 +360,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Personality**: Absent-minded genius, easily excitable, prone to explosions
 - **Adventure Hook**: Inventions sometimes have unexpected side effects
 
-#### [[02_Worldbuilding/Lore/Sister Miriam of the Scales]]
+#### [[Sister Miriam of the Scales]]
 *Human, age 34, Lawful Good*
 - **Role**: Cleric maintaining shrine to deities from both realms
 - **Services**: Spiritual counseling, blessing ceremonies, neutral ground for religious discussions
@@ -376,14 +372,14 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ## Trade Goods & Resources
 
 ### Mundane Goods
-#### From [[02_Worldbuilding/Places/Aethermoor]]
+#### From [[Aethermoor]]
 - **Crystal Components**: Raw crystals (5-50 gp), cut gems (50-500 gp), focusing stones (100-1,000 gp)
 - **Metalwork**: Precision instruments, clockwork devices, mechanical tools
 - **Textiles**: Fine fabrics, weather-resistant materials, ceremonial garments
 - **Literature**: Technical manuals, historical texts, philosophical works
 - **Foodstuffs**: Preserved meats, crystallized fruits, mineral-rich waters
 
-#### From [[02_Worldbuilding/Places/Aquabyssos]]
+#### From [[Aquabyssos]]
 - **Shadow Materials**: Processed shadow silk (100-500 gp/yard), umbral glass, darkness-touched metals
 - **Memory Crystals**: Stored experiences, skill memories, emotional impressions
 - **Deep Minerals**: Rare ores, bioluminescent substances, pressure-resistant materials
@@ -438,8 +434,8 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **Curse**: Wearer has disadvantage on saves vs fear while in bright light
 
 ### Custom Enchantment Services
-#### [[02_Worldbuilding/Lore/The Resonance Workshop]]
-*Master Enchanter: [[02_Worldbuilding/Lore/Arcana Dualweave]] - Tiefling Artificer*
+#### [[The Resonance Workshop]]
+*Master Enchanter: [[Arcana Dualweave]] - Tiefling Artificer*
 - **Services**: Custom enchantments combining Aethermoor and Aquabyssos techniques
 - **Pricing**: Base item cost + 500 gp per +1 enhancement + special material costs
 - **Specialties**: Items that function differently in each realm
@@ -483,7 +479,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 4. **Diplomatic Incident**: Minor violation of neutral protocols needs resolution
 5. **Portal Malfunction**: Dimensional gateway flickering, causing delays and confusion
 6. **Rare Item Auction**: Chance to bid on unique magical items
-7. **Information Broker**: [[02_Worldbuilding/Lore/The Masked Broker]] offers valuable but expensive intelligence
+7. **Information Broker**: [[The Masked Broker]] offers valuable but expensive intelligence
 8. **Security Drill**: Practice evacuation procedures, learn emergency protocols
 9. **Cultural Festival**: Celebration from one realm, educational opportunities
 10. **Smuggler Alert**: Contraband detected, security needs assistance
@@ -517,9 +513,9 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 **Key Events**:
 - Sabotage of portal systems traps merchants in wrong realms
-- [[02_Worldbuilding/Lore/Administrator General Vera Crosswind]] receives ultimatums from both governments
-- [[02_Worldbuilding/Lore/The Consortium of Five]] splits along realm loyalties, destabilizing market economy
-- Discovery of [[02_Worldbuilding/Lore/The Shadow Consortium]] - extremist group orchestrating attacks
+- [[Administrator General Vera Crosswind]] receives ultimatums from both governments
+- [[The Consortium of Five]] splits along realm loyalties, destabilizing market economy
+- Discovery of [[The Shadow Consortium]] - extremist group orchestrating attacks
 
 **Party Objectives**:
 - Investigate attacks, uncover extremist network
@@ -534,11 +530,11 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 #### 2. The Memory Wars
 *Levels 5-9*
-**Background**: Unethical memory harvesting threatens [[02_Worldbuilding/Places/Aquabyssos]] communities, while [[02_Worldbuilding/Lore/Whispers & Memories Emporium]] becomes focal point of investigation into black market memory trade.
+**Background**: Unethical memory harvesting threatens [[Aquabyssos]] communities, while [[Whispers & Memories Emporium]] becomes focal point of investigation into black market memory trade.
 
 **Key Events**:
 - Missing persons reports from Aquabyssos communities
-- [[02_Worldbuilding/Lore/Naia Deepcurrent]] requests help investigating illegal memory harvesting
+- [[Naia Deepcurrent]] requests help investigating illegal memory harvesting
 - Discovery of memory addiction among Aethermoor citizens
 - Confrontation with criminal syndicate operating through market
 
@@ -558,9 +554,9 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 **Background**: Ancient artifacts from both realms are being assembled by unknown forces, with the Market serving as the central hub for mysterious purchases and thefts.
 
 **Key Events**:
-- High-value thefts from [[02_Worldbuilding/Lore/The Exotic Bazaar]] and [[Luminar's Radiant Emporium]]
-- [[02_Worldbuilding/Lore/Professor Cogwick Gearspring]] discovers artifacts are components of reality-altering device
-- [[02_Worldbuilding/Lore/Goldhorn the Magnificent]] reveals he's been unknowingly facilitating purchases for mysterious client
+- High-value thefts from [[The Exotic Bazaar]] and [[Luminar's Radiant Emporium]]
+- [[Professor Cogwick Gearspring]] discovers artifacts are components of reality-altering device
+- [[Goldhorn the Magnificent]] reveals he's been unknowingly facilitating purchases for mysterious client
 - Final confrontation as enemy attempts to use completed artifact to merge or separate the realms permanently
 
 **Party Objectives**:
@@ -577,23 +573,23 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ### Medium Quests
 #### 4. The Disappeared Diplomat
 *Levels 3-6*
-**Hook**: [[02_Worldbuilding/Lore/Diplomatic Coordinator Lysandra Starweave]] asks for discrete investigation into vanishing of important ambassador.
+**Hook**: [[Diplomatic Coordinator Lysandra Starweave]] asks for discrete investigation into vanishing of important ambassador.
 
 **Details**: 
-- Ambassador [[02_Worldbuilding/Lore/Keras Stormwind]] from Aethermoor disappeared during routine trade negotiations
-- Last seen entering [[02_Worldbuilding/Lore/The Abyssal Tavern]] three days ago
-- Host [[02_Worldbuilding/Lore/Thane Darkwater]] claims no knowledge, but seems nervous
+- Ambassador [[Keras Stormwind]] from Aethermoor disappeared during routine trade negotiations
+- Last seen entering [[The Abyssal Tavern]] three days ago
+- Host [[Thane Darkwater]] claims no knowledge, but seems nervous
 - Investigation reveals ambassador discovered information about illegal weapons smuggling
 
 **Resolution**: Ambassador being held by smugglers who fear exposure, party must negotiate release while preserving diplomatic relations.
 
 #### 5. The Counterfeit Crisis
 *Levels 4-7*
-**Hook**: [[02_Worldbuilding/Lore/The Exchange Rate]] financial services reports massive influx of counterfeit currency disrupting market economy.
+**Hook**: [[The Exchange Rate]] financial services reports massive influx of counterfeit currency disrupting market economy.
 
 **Details**:
 - Fake coins so perfect they're passing magical detection
-- [[02_Worldbuilding/Lore/Banker Kess]] of the Consortium suspects inside job
+- [[Banker Kess]] of the Consortium suspects inside job
 - Counterfeiters using combination of Aethermoor crystal tech and Aquabyssos shadow magic
 - Economic stability of entire market at risk
 
@@ -604,9 +600,9 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 **Hook**: Unity Festival celebrating both realms' culture being targeted by extremists trying to cause international incident.
 
 **Details**:
-- Anonymous threats received by [[02_Worldbuilding/Lore/Sister Miriam of the Scales]]
+- Anonymous threats received by [[Sister Miriam of the Scales]]
 - Several "accidents" during festival preparations
-- [[02_Worldbuilding/Lore/Security Chief Marcus Ironbrand]] suspects coordinated effort to disrupt celebrations
+- [[Security Chief Marcus Ironbrand]] suspects coordinated effort to disrupt celebrations
 - Festival represents important symbol of inter-realm cooperation
 
 **Resolution**: Party uncovers plot by faction wanting to restart ancient conflicts between realms, must protect festival while exposing extremists.
@@ -614,17 +610,17 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ### Minor Quests & Side Missions
 #### 7. The Homesick Merchant
 *Levels 1-3*
-**Hook**: Elderly trader [[02_Worldbuilding/Lore/Old Marina Saltwind]] seeks help returning home to family before she dies.
+**Hook**: Elderly trader [[Old Marina Saltwind]] seeks help returning home to family before she dies.
 
 **Details**:
 - Marina has spent 40 years building trading business, now terminally ill
-- Wants to see [[02_Worldbuilding/Places/Aquabyssos]] homeland one more time but lacks travel funds
+- Wants to see [[Aquabyssos]] homeland one more time but lacks travel funds
 - Has valuable information about early market history as payment
 - Journey complicated by her fragile health and dangerous routes
 
 #### 8. The Apprentice's First Sale
 *Levels 1-2*
-**Hook**: Young merchant [[02_Worldbuilding/Lore/Tommy Brightcopper]] needs protection for his first independent trading venture.
+**Hook**: Young merchant [[Tommy Brightcopper]] needs protection for his first independent trading venture.
 
 **Details**:
 - Tommy inherited small trading business from deceased mentor
@@ -634,7 +630,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 #### 9. The Lost Recipe
 *Levels 2-4*
-**Hook**: [[02_Worldbuilding/Lore/Dimensional Delicacies]] restaurant seeks rare ingredients for legendary dish that promotes inter-realm understanding.
+**Hook**: [[Dimensional Delicacies]] restaurant seeks rare ingredients for legendary dish that promotes inter-realm understanding.
 
 **Details**:
 - Recipe requires components only found in dangerous areas of both realms
@@ -644,7 +640,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 #### 10. The Mechanical Mystery
 *Levels 3-5*
-**Hook**: [[02_Worldbuilding/Lore/Professor Cogwick Gearspring]] needs help testing potentially dangerous invention.
+**Hook**: [[Professor Cogwick Gearspring]] needs help testing potentially dangerous invention.
 
 **Details**:
 - Professor created device to stabilize dimensional boundaries
@@ -654,13 +650,13 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 
 ### Ongoing Opportunities
 #### Information Brokerage
-- Regular missions from [[02_Worldbuilding/Lore/The Masked Broker]] to gather intelligence
+- Regular missions from [[The Masked Broker]] to gather intelligence
 - Payment varies from gold to valuable secrets to magical items
 - Assignments range from simple surveillance to complex infiltration
 - Building relationship provides access to exclusive information network
 
 #### Diplomatic Escort Services
-- [[02_Worldbuilding/Lore/Brightward Security Solutions]] subcontracts party for sensitive missions
+- [[Brightward Security Solutions]] subcontracts party for sensitive missions
 - Escort important figures between realms
 - Investigate threats to diplomatic personnel
 - Payment includes reputation boost and connections to influential people
@@ -672,7 +668,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - Success opens doors to more lucrative protection contracts
 
 #### Cultural Exchange Programs
-- [[02_Worldbuilding/Lore/Sister Miriam of the Scales]] sponsors educational missions
+- [[Sister Miriam of the Scales]] sponsors educational missions
 - Promote understanding between realm populations
 - Investigate areas where cooperation is breaking down
 - Rewards include blessing services and divine favor
@@ -681,24 +677,24 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 *The Market connects to numerous other locations and storylines*
 
 ### Direct Connections
-- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Primary operator and financial backer of market
-- **[[02_Worldbuilding/Places/Aethermoor]]**: Source realm for crystal-based goods and technologies
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Source realm for shadow materials and memory magic
-- **[[02_Worldbuilding/Lore/Administrator General Vera Crosswind]]**: Key political figure managing market operations
-- **[[02_Worldbuilding/Lore/The Consortium of Five]]**: Major economic players affecting market conditions
-- **[[02_Worldbuilding/Lore/Security Chief Marcus Ironbrand]]**: Military leader protecting market neutrality
-- **[[02_Worldbuilding/Lore/Professor Cogwick Gearspring]]**: Inventor creating market-sustaining technology
+- **[[The Liminal Trading Company]]**: Primary operator and financial backer of market
+- **[[Aethermoor]]**: Source realm for crystal-based goods and technologies
+- **[[Aquabyssos]]**: Source realm for shadow materials and memory magic
+- **[[Administrator General Vera Crosswind]]**: Key political figure managing market operations
+- **[[The Consortium of Five]]**: Major economic players affecting market conditions
+- **[[Security Chief Marcus Ironbrand]]**: Military leader protecting market neutrality
+- **[[Professor Cogwick Gearspring]]**: Inventor creating market-sustaining technology
 
 ### Secondary Connections
-- **[[02_Worldbuilding/Lore/The Shadow Consortium]]**: Criminal organization threatening market stability
-- **[[02_Worldbuilding/Groups/The Memory Wars]]**: Historical conflict affecting current memory trade
-- **[[02_Worldbuilding/Lore/Crystal Caves of Luminar]]**: Source of high-grade crystals for market trade
-- **[[02_Worldbuilding/Lore/The Deep Reaches]]**: Dangerous areas where shadow materials originate
-- **[[02_Worldbuilding/Lore/Treaty of Neutral Commerce]]**: Legal foundation for market's existence
-- **[[02_Worldbuilding/Places/The Portal Wars]]**: Past conflict over control of dimensional gateways
-- **[[02_Worldbuilding/Lore/Unity Festival]]**: Annual celebration of inter-realm cooperation
-- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]**: Formal embassy district connected to market
-- **[[02_Worldbuilding/Lore/The Exchange Rate Wars]]**: Economic conflicts over currency valuation
+- **[[The Shadow Consortium]]**: Criminal organization threatening market stability
+- **[[The Memory Wars]]**: Historical conflict affecting current memory trade
+- **[[Crystal Caves of Luminar]]**: Source of high-grade crystals for market trade
+- **[[The Deep Reaches]]**: Dangerous areas where shadow materials originate
+- **[[Treaty of Neutral Commerce]]**: Legal foundation for market's existence
+- **[[The Portal Wars]]**: Past conflict over control of dimensional gateways
+- **[[Unity Festival]]**: Annual celebration of inter-realm cooperation
+- **[[The Diplomatic Quarter]]**: Formal embassy district connected to market
+- **[[The Exchange Rate Wars]]**: Economic conflicts over currency valuation
 - **[[Inter-Realm Courier Network]]**: Communication system linking both realms through market
 
 ## Points of Interest
@@ -719,7 +715,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 ## How The Market Moves Between Realms
 
 ### The Dimensional Anchoring System
-The Floating Market exists in a carefully constructed pocket dimension that maintains physical contact points with both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. The market doesn't truly "move" in a conventional sense, but rather shifts its access points between the realms on a precisely timed schedule.
+The Floating Market exists in a carefully constructed pocket dimension that maintains physical contact points with both [[Aethermoor]] and [[Aquabyssos]]. The market doesn't truly "move" in a conventional sense, but rather shifts its access points between the realms on a precisely timed schedule.
 
 #### The Portal Network
 - **Primary Gates**: Two major portals, one connecting to each realm's capital city
@@ -729,9 +725,9 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 - **Reality Buffers**: Transition zones that adapt visitors to dimensional differences
 
 #### Movement Schedule
-**Morning Phase (6 hours)**: Primary access to [[02_Worldbuilding/Places/Aethermoor]]
-- Major portal opens to [[02_Worldbuilding/Lore/The Crystal Metropolis]]
-- Secondary gates connect to [[02_Worldbuilding/Lore/Brightforge]] and [[02_Worldbuilding/Groups/Academies/The Academy of Resonance]]
+**Morning Phase (6 hours)**: Primary access to [[Aethermoor]]
+- Major portal opens to [[The Crystal Metropolis]]
+- Secondary gates connect to [[Brightforge]] and [[The Academy of Resonance]]
 - Aquabyssos access limited to diplomatic channels only
 
 **Afternoon Phase (6 hours)**: Balanced Access
@@ -740,9 +736,9 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 - Cultural exchange programs most active
 - Neutral diplomatic meetings scheduled
 
-**Evening Phase (6 hours)**: Primary access to [[02_Worldbuilding/Places/Aquabyssos]]
-- Major portal opens to [[02_Worldbuilding/Lore/The Memories Nexus]]
-- Secondary gates connect to [[02_Worldbuilding/Places/Shadowport]] and [[02_Worldbuilding/Lore/The Deep Trading Halls]]
+**Evening Phase (6 hours)**: Primary access to [[Aquabyssos]]
+- Major portal opens to [[The Memories Nexus]]
+- Secondary gates connect to [[Shadowport]] and [[The Deep Trading Halls]]
 - Aethermoor access limited to essential services
 
 **Night Phase (6 hours)**: Restricted Access
@@ -752,7 +748,7 @@ The Floating Market exists in a carefully constructed pocket dimension that main
 - Portal energy regeneration period
 
 ### Dimensional Mechanics
-The market maintains its neutral status through a complex system of dimensional anchors powered by [[02_Worldbuilding/Lore/The Great Crystal-Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
+The market maintains its neutral status through a complex system of dimensional anchors powered by [[The Great Crystal-Shadow Engine]], a unique device that harmonizes the opposing energies of both realms.
 
 #### The Crystal-Shadow Engine
 - **Location**: Deep beneath the market in heavily secured facility
@@ -802,7 +798,7 @@ The market maintains its neutral status through a complex system of dimensional 
 - **Technology Failures**: Breakdowns in dimensional anchor or portal systems
 
 ## Connected Elements
-- Central hub for [[02_Worldbuilding/Groups/The Liminal Trading Company]] operations
+- Central hub for [[The Liminal Trading Company]] operations
 - Key location for cross-realm diplomatic and commercial storylines
 - Neutral ground where characters from both realms can meet safely
 - Source of unique equipment and services combining both worlds' capabilities
@@ -818,12 +814,12 @@ The market maintains its neutral status through a complex system of dimensional 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
-- [[02_Worldbuilding/Places/The Free Current]]
-- [[02_Worldbuilding/Places/The Neutral Ground]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Liminal Trading Company]]
+- [[Harbor District Customs House]]
+- [[The Free Current]]
+- [[The Neutral Ground]]
+- [[Quest - The Convergence Crisis]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -841,6 +837,6 @@ Legends speak of The Floating Market as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[The Floating Market]]
 
 <!-- enriched: true -->

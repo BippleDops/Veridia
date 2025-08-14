@@ -31,7 +31,7 @@ world: Both
 | 1 | Hearing and standard vision out to 30 feet |
 | 2 | Hearing and standard vision out to 60 feet |
 | 3 | Hearing and standard vision out to 120 feet |
-| 4 | Hearing and [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] out to 120 feet |
+| 4 | Hearing and [[senses#Darkvision|Darkvision]] out to 120 feet |
 ^sentient-items-senses
 
 ## Player-Facing Summary

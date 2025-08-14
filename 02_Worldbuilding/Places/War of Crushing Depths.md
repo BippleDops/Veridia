@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,12 +54,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/War of Crushing Depths]]
+- [[12_Research/D&D_References/War of Crushing Depths]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
-- [[02_Worldbuilding/Places/Memoriam]]
+- [[12_Research/D&D_References/Current Riders Guild]]
+- [[12_Research/D&D_References/Memoriam]]

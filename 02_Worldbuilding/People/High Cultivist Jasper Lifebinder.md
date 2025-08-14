@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-high-cultivist-jasper-lifebinder.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-high-cultivist-jasper-lifebinder.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Duke Cyrus Reefheart]]
+- [[Prophet Nerida Voidgazer]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 

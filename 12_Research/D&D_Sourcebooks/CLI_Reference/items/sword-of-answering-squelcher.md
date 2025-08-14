@@ -24,13 +24,13 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-squelcher-sword-of-answering-squelcher.svg)
 
 # Sword of Answering (Squelcher)
-*Weapon ([[/03_Mechanics/CLI/items/longsword-xphb|longsword]]), major, legendary (requires attunement by a neutral evil creature)*  
+*Weapon ([[longsword-xphb|longsword]]), major, legendary (requires attunement by a neutral evil creature)*  
 
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as "Final Word." Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.

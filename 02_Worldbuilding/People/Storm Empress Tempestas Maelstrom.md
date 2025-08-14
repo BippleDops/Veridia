@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-storm-empress-tempestas-maelstrom.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-storm-empress-tempestas-maelstrom.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]
+- [[Storm Empress Tempestas Maelstrom]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[Maelstrom Palace]]

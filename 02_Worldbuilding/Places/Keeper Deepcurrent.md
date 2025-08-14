@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-deepcurrent-keeper-deepcurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-deepcurrent-keeper-deepcurrent.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Deepcurrent]]
+- [[12_Research/D&D_References/Keeper Deepcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

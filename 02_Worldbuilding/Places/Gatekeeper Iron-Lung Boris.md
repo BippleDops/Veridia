@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-gatekeeper-iron-lung-boris-gatekeeper-iron-lung-boris.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gatekeeper-iron-lung-boris-gatekeeper-iron-lung-boris.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[12_Research/D&D_References/New Tethys]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[12_Research/D&D_References/New Tethys]]
 
 ## Player-Facing Summary
 

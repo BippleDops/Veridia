@@ -2,6 +2,9 @@
 created: '2025-08-11'
 status: complete
 tags:
+- combat
+- quest
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +17,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
+- [[Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]
+- [[12_Research/D&D_References/Shadow Surgeon Strike Team]]
 
 ## Player-Facing Summary
 

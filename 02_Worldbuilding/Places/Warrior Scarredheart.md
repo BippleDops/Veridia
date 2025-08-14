@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-warrior-scarredheart-v1-warrior-scarredheart.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warrior-scarredheart-v1-warrior-scarredheart.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Warrior Scarredheart]]
+- [[Warrior Scarredheart]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]

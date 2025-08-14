@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-magical-engineer-reef-spellbreath-magical-engineer-reef-spellbreath.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-magical-engineer-reef-spellbreath-magical-engineer-reef-spellbreath.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Magical Engineer Reef Spellbreath]]
+- [[Magical Engineer Reef Spellbreath]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [[Underwater Breathing]]

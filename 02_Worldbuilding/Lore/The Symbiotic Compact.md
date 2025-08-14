@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[12_Research/D&D_References/Corallion]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[12_Research/D&D_References/Corallion]]
 
 ## Player-Facing Summary
 

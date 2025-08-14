@@ -19,7 +19,7 @@ world: Both
 # Save
 *Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Save is another name for a [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throw]].
+Save is another name for a [[saving-throw-xphb|saving throw]].
 
 ## Player-Facing Summary
 

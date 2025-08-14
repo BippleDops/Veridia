@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-healing-temples-healing-temples.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-healing-temples-healing-temples.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Healing Temples]]
+- [[Healing Temples]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[Purist Coalition Thugs]]
+- [[Theological Warfare]]

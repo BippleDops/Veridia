@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Verdant Shard]]
+- [[12_Research/D&D_References/Verdant Shard]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Verdant Shard]]
+- [[12_Research/D&D_References/Verdant Shard]]
 
 ## Player-Facing Summary
 

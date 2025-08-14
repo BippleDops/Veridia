@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [[/03_Mechanics/CLI/items/club-xphb|Club]], [[/03_Mechanics/CLI/items/greatclub-xphb|Greatclub]], [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], [[/03_Mechanics/CLI/items/barrel-xphb|Barrel]], [[/03_Mechanics/CLI/items/chest-xphb|Chest]], [[/03_Mechanics/CLI/items/ladder-xphb|Ladder]], [[/03_Mechanics/CLI/items/pole-xphb|Pole]], [[/03_Mechanics/CLI/items/portable-ram-xphb|Portable Ram]], [[/03_Mechanics/CLI/items/torch-xphb|Torch]]  
+- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], [[barrel-xphb|Barrel]], [[chest-xphb|Chest]], [[ladder-xphb|Ladder]], [[pole-xphb|Pole]], [[portable-ram-xphb|Portable Ram]], [[torch-xphb|Torch]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

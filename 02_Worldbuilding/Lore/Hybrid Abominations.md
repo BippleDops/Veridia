@@ -4,6 +4,8 @@ status: complete
 updated: '2025-08-13T01:18:35.288508+00:00'
 created: '2025-08-11'
 tags:
+- session-notes
+- shadow-touched
 - aquabyssos
 - category/lore
 - complete
@@ -21,35 +23,37 @@ accessibility:
 ---
 
 
-
-
-
 # Hybrid Abominations
 
 ![[04_Resources/Assets/Art/Lore/Hybrid_Abominations.png|Hybrid Abominations Portrait]]
 
 ## Summary
+
 Hybrid Abominations describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
 
 ## Historical Context
+
 - Origin: Scribal disputes escalated into pressure-lock conflicts.
 - Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
 - Present: Competing narratives justify new taxes, oaths, and contraband routes.
 
 ## What It Means at the Table
+
 - Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
 - Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Places/Aquabyssos]].
-- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
+
+- Records implicate agents tied to [[12_Research/D&D_References/The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[12_Research/D&D_References/Aquabyssos]].
+- Testimony suggests [[12_Research/D&D_References/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Places/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/Aquabyssos]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -74,5 +78,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The Seven Shards]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

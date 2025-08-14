@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-mother-spawning-pools-deep-mother-spawning-pools.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deep-mother-spawning-pools-deep-mother-spawning-pools.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Mother Spawning Pools]]
+- [[12_Research/D&D_References/Deep Mother Spawning Pools]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[12_Research/D&D_References/Theological Warfare]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

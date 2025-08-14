@@ -21,7 +21,7 @@ world: Both
 
 
 # Thief
-*[[./rogue-xphb|Rogue]]: Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -66,15 +66,15 @@ A mix of burglar, treasure hunter, and explorer, you are the epitome of an adven
 
 ### Fast Hands (Level 3)
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can do one of the following.
+As a [[bonus-action-xphb|Bonus Action]], you can do one of the following.
 
 #### Sleight of Hand
 
-Make a Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' Tools]] or to pick a pocket.
+Make a Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check to pick a lock or disarm a trap with [[thieves-tools-xphb|Thieves' Tools]] or to pick a pocket.
 
 #### Use an Object
 
-Take the [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action, or take the [[/03_Mechanics/CLI/actions#Magic|Magic]] action to use a magic item that requires that action.
+Take the [[actions#Utilize|Utilize]] action, or take the [[actions#Magic|Magic]] action to use a magic item that requires that action.
 
 ### Second-Story Work (Level 3)
 
@@ -82,7 +82,7 @@ You've trained to get into especially hard-to-reach places, granting you these b
 
 #### Climber
 
-You gain a [[/03_Mechanics/CLI/variant-rules/climb-speed-xphb|Climb Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].
+You gain a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
 
 #### Jumper
 
@@ -94,7 +94,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [[/03_Mechanics/CLI/actions#Hide|Hide]] action's [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[/03_Mechanics/CLI/variant-rules/cover-xphb|Three-Quarters Cover]] or [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]].
+If you have the [[actions#Hide|Hide]] action's [[conditions#Invisible|Invisible]] condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb|Three-Quarters Cover]] or [[cover-xphb|Total Cover]].
 
 ### Use Magic Device (Level 13)
 
@@ -110,11 +110,11 @@ Whenever you use a magic item property that expends charges, roll `d6`. On a rol
 
 #### Scrolls
 
-You can use any [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+You can use any [[spell-scroll-xdmg|Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([[skills#Arcana|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ### Thief's Reflexes (Level 17)
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] and your second turn at your [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] minus 10.
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[initiative-xphb|Initiative]] and your second turn at your [[initiative-xphb|Initiative]] minus 10.
 
 ## Player-Facing Summary
 

@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-communications-master-signal-cryptkeeper-communications-master-signal-cryptkeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-communications-master-signal-cryptkeeper-communications-master-signal-cryptkeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Communications Master Signal Cryptkeeper]]
+- [[12_Research/D&D_References/Communications Master Signal Cryptkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[12_Research/D&D_References/Coral Throne Syndicate HQ]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

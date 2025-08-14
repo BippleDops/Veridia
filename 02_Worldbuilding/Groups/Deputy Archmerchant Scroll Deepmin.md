@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg]]
 
 
 ## Player-Facing Summary

@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-diplomatic-immunity-case-quest-the-diplomatic-immunity-case.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-diplomatic-immunity-case-quest-the-diplomatic-immunity-case.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Diplomatic Immunity Case]]
+- [[Quest - The Diplomatic Immunity Case]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[Tenebrarum Ambassadors]]

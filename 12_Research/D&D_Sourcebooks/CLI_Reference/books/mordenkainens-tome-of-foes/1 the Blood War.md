@@ -122,7 +122,7 @@ Therefore, the demons assault the Nine Hells over and over not only because it i
 
 > [!note] Yugoloths: Fickle Allies
 > 
-> Yugoloths are major players on both sides of the Blood War. The death of a yugoloth is meaningless when it occurs in the Abyss or the Nine Hells, and thus these mercenaries freely give their all in any battle even when it means fighting other yugoloths. Demons and devils both know that a yugoloth's loyalty is constantly for sale-even during a conflict on the battlefield-and a yugoloth never agrees to a contract that prohibits it from seeking a better offer. This set of circumstances prompts hellish and abyssal armies to carry war chests with them in the hope of buying the services of the yugoloths on the other side. The war chests themselves thus become highly prized targets, which in turn leads to protective measures, such as valuables hidden in [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|bags of holding]] or empty treasure containers used to lure the enemy into a trap.
+> Yugoloths are major players on both sides of the Blood War. The death of a yugoloth is meaningless when it occurs in the Abyss or the Nine Hells, and thus these mercenaries freely give their all in any battle even when it means fighting other yugoloths. Demons and devils both know that a yugoloth's loyalty is constantly for sale-even during a conflict on the battlefield-and a yugoloth never agrees to a contract that prohibits it from seeking a better offer. This set of circumstances prompts hellish and abyssal armies to carry war chests with them in the hope of buying the services of the yugoloths on the other side. The war chests themselves thus become highly prized targets, which in turn leads to protective measures, such as valuables hidden in [[bag-of-holding-xdmg|bags of holding]] or empty treasure containers used to lure the enemy into a trap.
 > 
 > Regardless of the side that hires them, yugoloths almost never fight on their home plane of Gehenna despite the fact that both sides sometimes traverse it and many battles of the Blood War are fought there. A yugoloth killed in Gehenna can't be restored to life except through an exceptional ritual, so the sums required to entice one to fight on its home plane are astronomical... and making such a bargain always draws the attention of the ultroloths.
 ^yugoloths-fickle-allies
@@ -147,7 +147,7 @@ From his throne at the bottom of the Nine Hells, Asmodeus commands a sprawling b
 
 Asmodeus and the other archdevils rule over the nine layers that comprise the Hells. The devil lords make up a hierarchy that is both rigid and fragile. Although Asmodeus is more powerful than any other lord, he has to be constantly wary of treachery within his ranks. It could be said that the true ruler of the Nine Hells is the immense body of rules and regulations that dictate how all devils, even Asmodeus, must conduct themselves.
 
-![[/03_Mechanics/CLI/tables/lords-of-the-nine-layers-and-rulers-of-the-nine-hells-mtf|Lords of the Nine; Layers and Rulers of the Nine Hells]]
+![[lords-of-the-nine-layers-and-rulers-of-the-nine-hells-mtf|Lords of the Nine; Layers and Rulers of the Nine Hells]]
 
 ### Asmodeus
 
@@ -550,21 +550,21 @@ As a bonus action, the cambion chooses an other creature that can see or hear it
 
 At the DM's option, you can create a tiefling character who has a special link to one of the Lords of the Nine Hells. This link is represented by a subrace.
 
-- [[/03_Mechanics/CLI/races/tiefling-asmodeus-mtf|Tiefling (Asmodeus)]]  
-- [[/03_Mechanics/CLI/races/tiefling-baalzebul-mtf|Tiefling (Baalzebul)]]  
-- [[/03_Mechanics/CLI/races/tiefling-dispater-mtf|Tiefling (Dispater)]]  
-- [[/03_Mechanics/CLI/races/tiefling-fierna-mtf|Tiefling (Fierna)]]  
-- [[/03_Mechanics/CLI/races/tiefling-glasya-mtf|Tiefling (Glasya)]]  
-- [[/03_Mechanics/CLI/races/tiefling-levistus-mtf|Tiefling (Levistus)]]  
-- [[/03_Mechanics/CLI/races/tiefling-mammon-mtf|Tiefling (Mammon)]]  
-- [[/03_Mechanics/CLI/races/tiefling-mephistopheles-mtf|Tiefling (Mephistopheles)]]  
-- [[/03_Mechanics/CLI/races/tiefling-zariel-mtf|Tiefling (Zariel)]]  
+- [[tiefling-asmodeus-mtf|Tiefling (Asmodeus)]]  
+- [[tiefling-baalzebul-mtf|Tiefling (Baalzebul)]]  
+- [[tiefling-dispater-mtf|Tiefling (Dispater)]]  
+- [[tiefling-fierna-mtf|Tiefling (Fierna)]]  
+- [[tiefling-glasya-mtf|Tiefling (Glasya)]]  
+- [[tiefling-levistus-mtf|Tiefling (Levistus)]]  
+- [[tiefling-mammon-mtf|Tiefling (Mammon)]]  
+- [[tiefling-mephistopheles-mtf|Tiefling (Mephistopheles)]]  
+- [[tiefling-zariel-mtf|Tiefling (Zariel)]]  
 
 ## Devil Customization Tables
 
 This section provides tables useful for DMs who want to create devil NPCs.
 
-![[/03_Mechanics/CLI/tables/devil-customization-tables|Devil Customization Tables]]
+![[devil-customization-tables|Devil Customization Tables]]
 
 ## Princes of the Abyss
 
@@ -854,15 +854,15 @@ In addition, this cambion can use its Innate Spellcasting ability to cast animat
 
 This section provides tables useful for DMs who want to customize certain demons.
 
-![[/03_Mechanics/CLI/tables/demon-customization-tables-demon-personality-traits-mtf|Demon Customization Tables; Demon Personality Traits]]
+![[demon-customization-tables-demon-personality-traits-mtf|Demon Customization Tables; Demon Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/demon-customization-tables-demon-ideals-mtf|Demon Customization Tables; Demon Ideals]]
+![[demon-customization-tables-demon-ideals-mtf|Demon Customization Tables; Demon Ideals]]
 
-![[/03_Mechanics/CLI/tables/demon-customization-tables-demon-bonds-mtf|Demon Customization Tables; Demon Bonds]]
+![[demon-customization-tables-demon-bonds-mtf|Demon Customization Tables; Demon Bonds]]
 
-![[/03_Mechanics/CLI/tables/demon-customization-tables-demon-flaws-mtf|Demon Customization Tables; Demon Flaws]]
+![[demon-customization-tables-demon-flaws-mtf|Demon Customization Tables; Demon Flaws]]
 
-![[/03_Mechanics/CLI/tables/demon-customization-tables-unusual-demon-features-mtf|Demon Customization Tables; Unusual Demon Features]]
+![[demon-customization-tables-unusual-demon-features-mtf|Demon Customization Tables; Unusual Demon Features]]
 
 Use the following template to quickly customize a Demon
 
@@ -872,15 +872,15 @@ The following tables can be used to generate random cults dedicated to fiends. R
 
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315588_cn_wmask.webp#center)
 
-![[/03_Mechanics/CLI/tables/fiendish-cults-cult-goals-mtf|Fiendish Cults; Cult Goals]]
+![[fiendish-cults-cult-goals-mtf|Fiendish Cults; Cult Goals]]
 
-![[/03_Mechanics/CLI/tables/fiendish-cults-cult-resources-mtf|Fiendish Cults; Cult Resources]]
+![[fiendish-cults-cult-resources-mtf|Fiendish Cults; Cult Resources]]
 
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315589_cn.webp#center)
 
-![[/03_Mechanics/CLI/tables/fiendish-cults-cult-organization-mtf|Fiendish Cults; Cult Organization]]
+![[fiendish-cults-cult-organization-mtf|Fiendish Cults; Cult Organization]]
 
-![[/03_Mechanics/CLI/tables/fiendish-cults-cult-hardship-mtf|Fiendish Cults; Cult Hardship]]
+![[fiendish-cults-cult-hardship-mtf|Fiendish Cults; Cult Hardship]]
 
 Use the template linked above to quickly draw up some information on a Fiendish Cult.
 

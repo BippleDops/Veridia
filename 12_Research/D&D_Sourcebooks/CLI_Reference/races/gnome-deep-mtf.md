@@ -53,7 +53,7 @@ Svirfneblin believe that survival depends on avoiding entanglements with other c
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks to hide in rocky terrain.
+You have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks to hide in rocky terrain.
 
 ## Player-Facing Summary
 

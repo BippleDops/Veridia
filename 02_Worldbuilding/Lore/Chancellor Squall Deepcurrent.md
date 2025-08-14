@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[12_Research/D&D_References/Maelstrom Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[12_Research/D&D_References/Maelstrom Palace]]
 
 ## Player-Facing Summary
 

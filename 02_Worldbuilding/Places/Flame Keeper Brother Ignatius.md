@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-flame-keeper-brother-ignatius-flame-keeper-brother-ignatius.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-flame-keeper-brother-ignatius-flame-keeper-brother-ignatius.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Flame Keeper Brother Ignatius]]
+- [[Flame Keeper Brother Ignatius]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[The Whispering Peaks]]

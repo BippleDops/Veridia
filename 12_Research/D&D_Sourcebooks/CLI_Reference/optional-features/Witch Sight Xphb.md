@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 15 Warlock
 
-You have [[/03_Mechanics/CLI/senses#Truesight|Truesight]] with a range of 30 feet.
+You have [[senses#Truesight|Truesight]] with a range of 30 feet.
 
 ## Player-Facing Summary
 

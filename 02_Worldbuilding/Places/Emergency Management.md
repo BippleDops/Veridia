@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-emergency-management-emergency-management.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-emergency-management-emergency-management.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Emergency Management]]
+- [[12_Research/D&D_References/Emergency Management]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]

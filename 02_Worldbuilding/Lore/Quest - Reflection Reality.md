@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -13,10 +15,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.317030+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +43,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[12_Research/D&D_References/Shadow Broker Mirrors]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg)
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg]]
 
 
 ## Overview
@@ -57,10 +54,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[12_Research/D&D_References/Cathedral of Light]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[12_Research/D&D_References/Cathedral of Light]]
+- [[12_Research/D&D_References/The Gilded Shard]]

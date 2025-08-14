@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-captain-thorne-darkwater.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-captain-thorne-darkwater.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thorne Darkwater]]
+- [[Captain Thorne Darkwater]]
 
 <!-- enriched: true -->

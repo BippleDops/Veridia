@@ -15,12 +15,7 @@ world: Both Aethermoor & Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lady-nexus-goldcurrent-lady-nexus-goldcurrent.svg]]
 
 
 ## Overview
@@ -65,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lady Nexus Goldcurrent]]
+- [[Lady Nexus Goldcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[The Liminal Trading Company]]

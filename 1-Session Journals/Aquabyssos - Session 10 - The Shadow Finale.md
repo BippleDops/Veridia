@@ -37,7 +37,7 @@ The party enters the Singer's consciousness to find themselves in a space that d
 - Each reality died differently but felt nothing
 - The Singer preserves everything but understands nothing
 - One reality almost succeeded in teaching it
-- The [[02_Worldbuilding/Lore/Deep Mother]] is here—alive
+- The [[Deep Mother]] is here—alive
 
 **The Deep Mother's Revelation**:
 - She was a Singer who learned to feel
@@ -225,7 +225,7 @@ As reality settles into its new configuration, the party stands at the threshold
 
 Marina (or her echo) speaks one last time: "We did something impossible. We made a god feel. We taught the universe empathy. We proved that even shadows can cast light."
 
-The [[02_Worldbuilding/People/Shadow Duchess Nyx]], original and shadow unified or forever separated based on choices, adds: "The Parliament of Shadows will remember this. All parliaments will. When the next Singer comes—and one will come—we'll be ready."
+The [[Shadow Duchess Nyx]], original and shadow unified or forever separated based on choices, adds: "The Parliament of Shadows will remember this. All parliaments will. When the next Singer comes—and one will come—we'll be ready."
 
 The party looks out at their transformed world. Aquabyssos is forever changed:
 - If floating: Crystal bridges connect to surface
@@ -263,9 +263,22 @@ The last words belong to the party member who sacrificed the most: [Player narra
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[Campaign Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
+
+## Semantic Connections
+*Related concepts and locations:*
+- [[Ambassador-Warden Luna Peacegem]]
+- [[forms-of-government]]
+- [[Ocean Ecosystem Management]]
+- [[Enforcement Authority Charte]]
+- [[protection-from-energy-xphb]]
+- [[potion-of-stone-giant-strength-xdmg]]
+- [[Nurse Nightshade]]
+- [[dark-shard-amulet-xdmg]]
+- [[control-winds-xge]]
+- [[Quest - The Enforcement War]]

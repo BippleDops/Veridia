@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-beholderkin-xphb|Aberrant Spirit (Beholderkin)]]
+# [[aberrant-spirit-beholderkin-xphb|Aberrant Spirit (Beholderkin)]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock

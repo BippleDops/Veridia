@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Prism-Shield Valeria]]
+- [[Captain Prism-Shield Valeria]]
 
 <!-- enriched: true -->

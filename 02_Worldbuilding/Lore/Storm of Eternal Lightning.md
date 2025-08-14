@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[12_Research/D&D_References/Ritual Redirection Options]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[12_Research/D&D_References/Ritual Redirection Options]]
 
 ## Player-Facing Summary
 

@@ -1,7 +1,7 @@
 ---
 MyCategory: NPC
 MyContainer: None
-affiliation: '[[02_Worldbuilding/People/The Depth Wardens]] - Elder Advisor'
+affiliation: '[[The Depth Wardens]] - Elder Advisor'
 age: 2,847
 alignment: Neutral Good
 class: Draconic Sorcerer/Circle of the Land Druid
@@ -30,12 +30,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg]]
 
 
 # The Cerulean Breath
@@ -141,25 +137,25 @@ Maraleth's shell hosts a complex ecosystem that serves multiple purposes:
 ## Relationships
 
 ### Ancient Contemporaries
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - The only other being alive who remembers the realm's founding; complex relationship mixing respect, concern, and shared burden of immortality
+- **[[Emperor Thalassius the Wise]]** - The only other being alive who remembers the realm's founding; complex relationship mixing respect, concern, and shared burden of immortality
 - **The Primordial Waters** - Maintains contact with the fundamental forces that shaped the ocean
 - **Ancient Sea Dragons** - Diplomatic relationships with her more traditional draconic kin
 - **Elder Krakens** - Wary respect with the other apex predators of the deep ocean
 
 ### Current Aquabyssos Leadership
 - **[[High Tidecaller Nerissa Deepcurrent]]** - Serves as advisor and historical consultant; genuinely fond of the younger leader's wisdom
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]** - Provides legal precedents and helps develop fair judicial reforms
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Respected but independent voice in political deliberations
+- **[[Tribune Cassia Deepcurrent]]** - Provides legal precedents and helps develop fair judicial reforms
+- **[[Parliament of Echoes]]** - Respected but independent voice in political deliberations
 - **Military Commanders** - Strategic advisor who helps plan defensive operations
 
 ### Scholarly Circles
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Professional collaboration on memory preservation and historical documentation
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Cross-realm scholarly exchange and magical research cooperation
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Shared interest in ethical knowledge preservation
+- **[[Archivist Mnemonic the Forgotten]]** - Professional collaboration on memory preservation and historical documentation
+- **[[Professor Aldric Crystalweaver]]** - Cross-realm scholarly exchange and magical research cooperation
+- **[[Memory Merchant Valeria Siltweave]]** - Shared interest in ethical knowledge preservation
 - **University Scholars** - Mentors multiple generations of students and researchers
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/The Biomancers]]** - Appreciates their knowledge but opposes their willingness to sacrifice individuals for advancement
+- **[[The Biomancers]]** - Appreciates their knowledge but opposes their willingness to sacrifice individuals for advancement
 - **Surface World** - Curious about the realm above but loyal to Aquabyssos first
 - **Younger Generations** - Balances mentorship with concern about their lack of historical perspective
 - **Her Own Mortality** - Philosophical struggle with the burden of outliving everyone she cares about
@@ -330,9 +326,9 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 
 ## Connections
 
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[Sage Lysander Deepthought]]
+- [[New Tethys]]
+- [[The Cerulean Trench]]
 
 ## Player-Facing Summary
 
@@ -344,12 +340,12 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[The Cerulean Breath]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Professor Aldric Crystalweaver]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Parliament of Echoes]]

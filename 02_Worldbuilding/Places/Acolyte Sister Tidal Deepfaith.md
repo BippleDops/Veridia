@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-acolyte-sister-tidal-deepfaith-acolyte-sister-tidal-deepfaith.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-acolyte-sister-tidal-deepfaith-acolyte-sister-tidal-deepfaith.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
+- [[Acolyte Sister Tidal Deepfaith]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[Temple Guardian Marcus the Drowned]]

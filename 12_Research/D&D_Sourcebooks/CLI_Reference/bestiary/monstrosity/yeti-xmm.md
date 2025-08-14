@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/yeti-xmm|Yeti]]
+# [[yeti-xmm|Yeti]]
 *Source: Monster Manual (2024) p. 339*  
 
 Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
@@ -64,16 +64,16 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Yeti"
 "cr": "3"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+  - "desc": "If the yeti takes Fire damage, it has [[disadvantage-xphb|Disadvantage]]\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -87,8 +87,8 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
       \ damage plus 2 (d4) Cold damage."
     "name": "Ice Throw"
   - "desc": "Constitution Saving Throw: DC 13, one creature the yeti can see within\
-      \ 30 feet. Failure: 5 (2d4) Cold damage, and the target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
-      \ condition until the start of the yeti's next turn unless the target has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]]\
+      \ 30 feet. Failure: 5 (2d4) Cold damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
+      \ condition until the start of the yeti's next turn unless the target has [[immunity-xphb|Immunity]]\
       \ to Cold damage. Success: The target is immune to the Chilling Gaze of all\
       \ yetis (but not abominable yetis) for 1 hour."
     "name": "Chilling Gaze"

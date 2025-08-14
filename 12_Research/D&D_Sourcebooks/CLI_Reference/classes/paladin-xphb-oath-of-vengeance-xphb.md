@@ -18,7 +18,7 @@ world: Both
 ---
 
 # Oath of Vengeance
-*[[./paladin-xphb|Paladin]]: Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
 > [!tldr] Class and Feature Progression
@@ -75,38 +75,38 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[/03_Mechanics/CLI/spells/bane-xphb|Bane]], [[/03_Mechanics/CLI/spells/hunters-mark-xphb|Hunter's Mark]] |
-| 5th | [[/03_Mechanics/CLI/spells/hold-person-xphb|Hold Person]], [[/03_Mechanics/CLI/spells/misty-step-xphb|Misty Step]] |
-| 9th | [[/03_Mechanics/CLI/spells/haste-xphb|Haste]], [[/03_Mechanics/CLI/spells/protection-from-energy-xphb|Protection from Energy]] |
-| 13th | [[/03_Mechanics/CLI/spells/banishment-xphb|Banishment]], [[/03_Mechanics/CLI/spells/dimension-door-xphb|Dimension Door]] |
-| 17th | [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]], [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]] |
+| 3rd | [[bane-xphb|Bane]], [[hunters-mark-xphb|Hunter's Mark]] |
+| 5th | [[hold-person-xphb|Hold Person]], [[misty-step-xphb|Misty Step]] |
+| 9th | [[haste-xphb|Haste]], [[protection-from-energy-xphb|Protection from Energy]] |
+| 13th | [[banishment-xphb|Banishment]], [[dimension-door-xphb|Dimension Door]] |
+| 17th | [[hold-monster-xphb|Hold Monster]], [[scrying-xphb|Scrying]] |
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)
 
-When you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack rolls against the creature for 1 minute or until you use this feature again.
+When you take the [[actions#Attack|Attack]] action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[advantage-xphb|Advantage]] on attack rolls against the creature for 1 minute or until you use this feature again.
 
-If the creature drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
+If the creature drops to 0 [[hit-points-xphb|Hit Points]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 ### Relentless Avenger (Level 7)
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attack]], you can reduce the creature's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] to 0 until the end of the current turn. You can then move up to half your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] as part of the same [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]]. This movement doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]].
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [[actions#Opportunity%20Attack|Opportunity Attack]], you can reduce the creature's [[speed-xphb|Speed]] to 0 until the end of the current turn. You can then move up to half your [[speed-xphb|Speed]] as part of the same [[reaction-xphb|Reaction]]. This movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 ### Soul of Vengeance (Level 15)
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to make a melee attack against that creature if it's within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [[reaction-xphb|Reaction]] to make a melee attack against that creature if it's within range.
 
 ### Avenging Angel (Level 20)
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[bonus-action-xphb|Bonus Action]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Flight
 
-You sprout spectral wings on your back, have a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] of 60 feet, and can hover.
+You sprout spectral wings on your back, have a [[fly-speed-xphb|Fly Speed]] of 60 feet, and can hover.
 
 #### Frightful Aura
 
-Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. [[/03_Mechanics/CLI/actions#Attack|Attack]] rolls against the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] creature have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]].
+Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. [[actions#Attack|Attack]] rolls against the [[conditions#Frightened|Frightened]] creature have [[advantage-xphb|Advantage]].
 
 ## Player-Facing Summary
 

@@ -18,11 +18,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg]]
 
 
 # Scream Saturation Rules
@@ -166,7 +163,7 @@ Consider the narrative impact - areas of supernatural silence can be eerie and m
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[Screaming Gardens]]
 
 ## Player-Facing Summary
 
@@ -188,6 +185,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Scream Saturation Rules]]
+- [[Scream Saturation Rules]]
 
 <!-- enriched: true -->

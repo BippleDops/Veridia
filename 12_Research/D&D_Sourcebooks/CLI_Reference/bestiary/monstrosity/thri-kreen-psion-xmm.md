@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-psion-xmm-thri-kreen-psion-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-psion-xmm|Thri-kreen Psion]]
+# [[thri-kreen-psion-xmm|Thri-kreen Psion]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
@@ -68,9 +68,9 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - "constitution": !!int "5"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 14"
@@ -84,9 +84,9 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Psionic Lance"
   - "desc": "The thri-kreen casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n1/day each: [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[/03_Mechanics/CLI/spells/sending-xphb|Sending]], [[/03_Mechanics/CLI/spells/synaptic-static-xphb|Synaptic Static]]"
+      \ DC 15):\n\nAt will: [[mage-hand-xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n1/day each: [[detect-thoughts-xphb|Detect Thoughts]],\
+      \ [[sending-xphb|Sending]], [[synaptic-static-xphb|Synaptic Static]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

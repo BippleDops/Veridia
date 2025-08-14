@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-assassin-assassin.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-assassin-assassin.svg]]
 
 
 # Vespara "Nightwhisper" Thorne
@@ -84,12 +78,12 @@ She operates from the Shadowblade District, a neutral zone where information flo
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/The Biomancers]]** - Has an uneasy alliance; they occasionally hire her services and she provides them with rare shadow-touched specimens
+- **[[The Biomancers]]** - Has an uneasy alliance; they occasionally hire her services and she provides them with rare shadow-touched specimens
 - **Master Keth** - Her former mentor in the Shadowblade Guild (presumed dead)
 - **Whisper Network** - Information brokers throughout both realms
 
 **Enemies:**
-- **[[02_Worldbuilding/People/Parliament Loyalists]]** - They've placed a massive bounty on her head for assassinating Lord Crystalborn
+- **[[Parliament Loyalists]]** - They've placed a massive bounty on her head for assassinating Lord Crystalborn
 - **The Purification Order** - Zealots who see her shadow corruption as an abomination
 - **House Thorne** - Her own family disowned her after her transformation
 
@@ -105,7 +99,7 @@ She operates from the Shadowblade District, a neutral zone where information flo
 
 3. **Family Reunion** - House Thorne is hosting a grand ball, and Vespara has received an invitation written in her mother's hand. It's obviously a trap, but she can't resist going.
 
-4. **The Biomancer's Gambit** - [[02_Worldbuilding/People/The Biomancers]] have offered Vespara a cure for her shadow corruption, but the price is assassinating someone she's sworn to protect.
+4. **The Biomancer's Gambit** - [[The Biomancers]] have offered Vespara a cure for her shadow corruption, but the price is assassinating someone she's sworn to protect.
 
 5. **Mentor's Legacy** - Master Keth has been spotted alive in the deepest trenches of Aquabyssos, but he's no longer entirely human. Vespara needs a team to help her reach him.
 
@@ -132,9 +126,9 @@ She operates from the Shadowblade District, a neutral zone where information flo
 
 ## Connections
 
-- [[02_Worldbuilding/People/Parliament Loyalists]]
-- [[02_Worldbuilding/People/The Biomancers]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[Parliament Loyalists]]
+- [[The Biomancers]]
+- [[Vex Shadowthorn]]
 
 
 ## Overview
@@ -186,6 +180,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Assassin]]
+- [[Assassin]]
 
 <!-- enriched: true -->

@@ -24,16 +24,16 @@ world: Both
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  
 
 
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Nature|Nature]], [[/03_Mechanics/CLI/skills#Survival|Survival]]  
-- **Tool Proficiencies.** [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism kit]]  
+- **Skill Proficiencies.** [[skills#Nature|Nature]], [[skills#Survival|Survival]]  
+- **Tool Proficiencies.** [[herbalism-kit-xphb|Herbalism kit]]  
 - **Languages.** One of your choice  
-- **Equipment.** A [[/03_Mechanics/CLI/items/ink-xphb|bottle of black ink]], an [[/03_Mechanics/CLI/items/ink-pen-xphb|ink pen]], a book about plant identification, an [[/03_Mechanics/CLI/items/iron-pot-xphb|iron pot]], an [[/03_Mechanics/CLI/items/herbalism-kit-xphb|herbalism kit]], a school uniform, and a [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 15 gp  
+- **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], a book about plant identification, an [[iron-pot-xphb|iron pot]], an [[herbalism-kit-xphb|herbalism kit]], a school uniform, and a [[pouch-xphb|pouch]] containing 15 gp  
 
 You filled your childhood with rudimentary alchemical experiments, all in the hope of becoming a student of Witherbloom College. The life sciences are the focus of your reading, which include biology and necromancy. Brewing strange concoctions with medicinal properties, exploring the anatomies of monsters, and cataloging swamp flora are the kinds of studies you might pursue at Witherbloom College.
 
 ## Feature: Witherbloom Initiate
 
-You gain the [[/03_Mechanics/CLI/feats/strixhaven-initiate-scc|Strixhaven Initiate]] feat and must choose Witherbloom within it.
+You gain the [[strixhaven-initiate-scc|Strixhaven Initiate]] feat and must choose Witherbloom within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Witherbloom Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -41,18 +41,18 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]], [[/03_Mechanics/CLI/spells/inflict-wounds-xphb|Inflict Wounds]] |
-| 2nd | [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]], [[/03_Mechanics/CLI/spells/wither-and-bloom-scc|Wither and Bloom]] |
-| 3rd | [[/03_Mechanics/CLI/spells/revivify-xphb|Revivify]], [[/03_Mechanics/CLI/spells/vampiric-touch-xphb|Vampiric Touch]] |
-| 4th | [[/03_Mechanics/CLI/spells/blight-xphb|Blight]], [[/03_Mechanics/CLI/spells/death-ward-xphb|Death Ward]] |
-| 5th | [[/03_Mechanics/CLI/spells/antilife-shell-xphb|Antilife Shell]], [[/03_Mechanics/CLI/spells/greater-restoration-xphb|Greater Restoration]] |
+| 1st | [[cure-wounds-xphb|Cure Wounds]], [[inflict-wounds-xphb|Inflict Wounds]] |
+| 2nd | [[lesser-restoration-xphb|Lesser Restoration]], [[wither-and-bloom-scc|Wither and Bloom]] |
+| 3rd | [[revivify-xphb|Revivify]], [[vampiric-touch-xphb|Vampiric Touch]] |
+| 4th | [[blight-xphb|Blight]], [[death-ward-xphb|Death Ward]] |
+| 5th | [[antilife-shell-xphb|Antilife Shell]], [[greater-restoration-xphb|Greater Restoration]] |
 ^witherbloom-spells
 
 Consider customizing how your spells look when you cast them. Your Witherbloom spells might rely on material components or a spellcasting focus drawn from the swamp environment of Witherbloom, and your spells might take on an appearance suggesting those natural elements. Spectral shapes of swamp animals or plants might form amid your spell effects.
 
 ## Building a Witherbloom Character
 
-Druids and warlocks make up most of Witherbloom's student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of [[/03_Mechanics/CLI/classes/cleric-xphb-life-domain-xphb|Life]] or Nature) also find their home in Witherbloom.
+Druids and warlocks make up most of Witherbloom's student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of [[cleric-xphb-life-domain-xphb|Life]] or Nature) also find their home in Witherbloom.
 
 A number of rangers and barbarians study at Witherbloom as well, and some rogues learn how to create and use poisons during their studies at this college.
 
@@ -76,7 +76,7 @@ Students of Witherbloom College are equally likely to be found picking herbs for
 
 ### Witherbloom Trinkets
 
-When you make your character, you may roll once on the [[/03_Mechanics/CLI/items/witherbloom-trinket-scc|Witherbloom Trinkets]] table, instead of on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [[witherbloom-trinket-scc|Witherbloom Trinkets]] table, instead of on the [[trinket-xphb|Trinkets table]] in the "Player's Handbook", for your starting trinket.
 
 ## Player-Facing Summary
 

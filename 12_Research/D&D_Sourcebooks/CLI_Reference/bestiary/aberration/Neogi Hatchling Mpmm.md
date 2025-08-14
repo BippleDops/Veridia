@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-hatchling-mpmm-neogi-hatchling-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/neogi-hatchling-mpmm|Neogi Hatchling]]
+# [[neogi-hatchling-mpmm|Neogi Hatchling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  
 
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
@@ -65,8 +65,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The neogi has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
-      \ or [[/03_Mechanics/CLI/conditions#Frightened|frightened]], and magic can't\
+  - "desc": "The neogi has advantage on saving throws against being [[conditions#Charmed|charmed]]\
+      \ or [[conditions#Frightened|frightened]], and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -75,7 +75,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
       \ + 1) piercing damage plus 3 (d6) poison damage, and the target must succeed\
-      \ on a DC 10 Constitution saving throw or become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
+      \ on a DC 10 Constitution saving throw or become [[conditions#Poisoned|poisoned]]\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"

@@ -23,15 +23,15 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-arrow-catching-shield-xdmg-arrow-catching-shield-xdmg.svg)
 
 # Arrow-Catching Shield
-*Armor ([[/03_Mechanics/CLI/items/shield-xphb|shield]]), rare (requires attunement)*  
+*Armor ([[shield-xphb|shield]]), rare (requires attunement)*  
 
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-You gain a +2 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.
+You gain a +2 bonus to [[armor-class-xphb|Armor Class]] against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.
 
-Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to become the target of the attack instead.
+Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a [[reaction-xphb|Reaction]] to become the target of the attack instead.
 
 *Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

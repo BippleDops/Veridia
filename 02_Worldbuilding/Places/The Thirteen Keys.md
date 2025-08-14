@@ -20,12 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-thirteen-keys-the-thirteen-keys.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-thirteen-keys-the-thirteen-keys.svg]]
 
 
 # The Thirteen Keys
@@ -123,7 +119,7 @@ This quest works best as a campaign centerpiece spanning multiple levels. Each k
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[The Primordial Vaults]]
 
 
 ## History
@@ -165,6 +161,6 @@ Legends speak of The Thirteen Keys as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Thirteen Keys]]
+- [[The Thirteen Keys]]
 
 <!-- enriched: true -->

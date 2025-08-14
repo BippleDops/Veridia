@@ -22,7 +22,7 @@ updated: '2025-08-12T23:37:35.756755'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\dragon/dragon-turtle-xmm|Dragon Turtle]]
+# [[dragon-turtle-xmm|Dragon Turtle]]
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Dragon Turtle
@@ -68,16 +68,16 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
       \ Tail attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 15 ft. Hit: 23 (3d10 + 7) Piercing\
-      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]]\
+      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [[resistance-xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tail"
-  - "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 56 (16d6) Fire damage. Success: Half damage. Failure or Success:\
-      \ Being underwater doesn't grant [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]]\
+      \ Being underwater doesn't grant [[resistance-xphb|Resistance]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 5-6)"
 "source":

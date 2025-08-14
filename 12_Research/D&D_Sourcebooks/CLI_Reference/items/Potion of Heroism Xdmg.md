@@ -31,7 +31,7 @@ world: Both
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain 10 [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] that last for 1 hour. For the same duration, you are under the effect of the [[/03_Mechanics/CLI/spells/bless-xphb|Bless]] spell (no [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] required).
+When you drink this potion, you gain 10 [[temporary-hit-points-xphb|Temporary Hit Points]] that last for 1 hour. For the same duration, you are under the effect of the [[bless-xphb|Bless]] spell (no [[conditions#Concentration|Concentration]] required).
 
 This potion's blue liquid bubbles and steams as if boiling.
 

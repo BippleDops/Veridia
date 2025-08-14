@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chitine-mpmm-chitine-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/chitine-mpmm|Chitine]]
+# [[chitine-mpmm|Chitine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
 
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -47,7 +47,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[/03_Mechanics/CLI/items/hide-armor-xphb|hide armor]]"
+"ac_class": "[[hide-armor-xphb|hide armor]]"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "modifier": !!int "2"
@@ -60,19 +60,19 @@ Chitines resemble spiders, but they behave more like social insects such as ants
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Undercommon"
 "cr": "1/2"
 "traits":
-  - "desc": "The chitine has advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
+  - "desc": "The chitine has advantage on saving throws against being [[conditions#Charmed|charmed]],\
       \ and magic can't put the chitine to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks\
+      \ as on Wisdom ([[skills#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "While in contact with a web, the chitine knows the exact location of\

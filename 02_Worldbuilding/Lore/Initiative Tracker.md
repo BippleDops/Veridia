@@ -5,6 +5,12 @@ created_by: auto-stub
 status: complete
 system: D&D 5e
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - both
 - complete
 - content/item
@@ -22,15 +28,12 @@ world: Both
 ---
 
 
-
 > [!figure] Asset
-![](04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png)
-
-
-
+![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png]]
 
 
 # Initiative Tracker
+
 *Advanced Combat Organization for the Merged Realms*
 
 > *"In the chaos of battle between realms, victory belongs to those who can think faster than their enemies can act. Track everything, anticipate everyone, and always know whose turn comes next—even when time itself bends around you."*
@@ -38,11 +41,11 @@ world: Both
 
 ## Overview
 
-The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
+The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
 
 The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resonance that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 
-Beyond basic turn order management, the Initiative Tracker integrates with [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]], [[02_Worldbuilding/Lore/Environmental Hazards]], [[02_Worldbuilding/Lore/Temporal Distortion Zones]], and [[02_Worldbuilding/Lore/Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
+Beyond basic turn order management, the Initiative Tracker integrates with [[12_Research/D&D_References/Multi-Phase Boss Fights]], [[12_Research/D&D_References/Environmental Hazards]], [[12_Research/D&D_References/Temporal Distortion Zones]], and [[12_Research/D&D_References/Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
 
 The tracker includes tools for managing complex initiative modifiers, environmental effects, group actions, delayed actions, and the special timing requirements of spellcasting, multi-attack sequences, and legendary actions in the unique physics of the merged realms.
 
@@ -130,7 +133,7 @@ The tracker includes tools for managing complex initiative modifiers, environmen
 
 ### Multi-Dimensional Initiative
 
-In [[02_Worldbuilding/Lore/Reality Merge Zones]], combatants may exist across multiple dimensional states:
+In [[12_Research/D&D_References/Reality Merge Zones]], combatants may exist across multiple dimensional states:
 
 **Dimensional Initiative States**:
 - **Single State**: Normal initiative in one dimension
@@ -322,7 +325,7 @@ In [[02_Worldbuilding/Lore/Reality Merge Zones]], combatants may exist across mu
 - **Automatic Sorting**: Maintains initiative order automatically
 - **Status Tracking**: Built-in condition and duration management
 - **Environmental Integration**: Handles complex environmental effects
-- **Multi-Phase Support**: Tracks [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- **Multi-Phase Support**: Tracks [[12_Research/D&D_References/Multi-Phase Boss Fights]]
 - **Temporal Handling**: Manages time distortion effects
 
 **Customization Options**:
@@ -428,7 +431,7 @@ In [[02_Worldbuilding/Lore/Reality Merge Zones]], combatants may exist across mu
 
 ### Initiative and Reputation
 
-Initiative performance can affect [[02_Worldbuilding/Lore/Reputation System]] standings:
+Initiative performance can affect [[12_Research/D&D_References/Reputation System]] standings:
 
 **Combat Reputation Factors**:
 - **Consistent High Initiative**: Reputation for quick thinking and reflexes
@@ -459,40 +462,44 @@ Initiative performance can affect [[02_Worldbuilding/Lore/Reputation System]] st
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Environmental effects on initiative
-- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time effects on turn order
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
-- **[[02_Worldbuilding/Lore/Reputation System]]**: Social effects of combat performance
+
+- **[[12_Research/D&D_References/Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
+- **[[12_Research/D&D_References/Environmental Hazards]]**: Environmental effects on initiative
+- **[[12_Research/D&D_References/Temporal Distortion Zones]]**: Time effects on turn order
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
+- **[[12_Research/D&D_References/Reputation System]]**: Social effects of combat performance
 
 ### Combat Integration
-- **[[02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]**: Underwater combat considerations
-- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Pressure effects on reflexes and timing
-- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Corruption effects on initiative
-- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Mental effects affecting combat awareness
-- **[[02_Worldbuilding/Lore/Random Encounters]]**: Initiative management for unexpected encounters
+
+- **[[12_Research/D&D_References/Aquabyssos-Survival-Mechanics]]**: Underwater combat considerations
+- **[[12_Research/D&D_References/Pressure Adaptation System]]**: Pressure effects on reflexes and timing
+- **[[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]**: Corruption effects on initiative
+- **[[12_Research/D&D_References/Memory Alterations]]**: Mental effects affecting combat awareness
+- **[[12_Research/D&D_Statblocks/Random Encounters]]**: Initiative management for unexpected encounters
 
 ### Environmental Systems
-- **[[02_Worldbuilding/Lore/Crystal Forest]]**: Crystal resonance initiative effects
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Darkness and fear effects on reaction time
-- **[[02_Worldbuilding/Lore/Reality Merge Zones]]**: Multi-dimensional initiative challenges
-- **[[02_Worldbuilding/Lore/Pressure Crush Zones]]**: Extreme pressure effects on combat timing
-- **[[02_Worldbuilding/Lore/Tidal Chambers]]**: Variable environment initiative modifications
+
+- **[[12_Research/D&D_References/Crystal Forest]]**: Crystal resonance initiative effects
+- **[[12_Research/D&D_References/Shadow Wells]]**: Darkness and fear effects on reaction time
+- **[[12_Research/D&D_References/Reality Merge Zones]]**: Multi-dimensional initiative challenges
+- **[[12_Research/D&D_References/Pressure Crush Zones]]**: Extreme pressure effects on combat timing
+- **[[12_Research/D&D_References/Tidal Chambers]]**: Variable environment initiative modifications
 
 ### Supporting Tools
-- **[[02_Worldbuilding/Lore/Combat Encounter Design]]**: Framework for creating complex battles
+
+- **[[12_Research/D&D_References/Combat Encounter Design]]**: Framework for creating complex battles
 - **[[Environmental Combat Rules]]**: Detailed rules for unusual environments
 - **[[Mass Combat Systems]]**: Large-scale battle management
-- **[[02_Worldbuilding/Lore/Tactical Combat Options]]**: Advanced combat maneuvers and timing
-- **[[02_Worldbuilding/Lore/Emergency Combat Procedures]]**: Rapid resolution methods for urgent situations
+- **[[12_Research/D&D_References/Tactical Combat Options]]**: Advanced combat maneuvers and timing
+- **[[12_Research/D&D_References/Emergency Combat Procedures]]**: Rapid resolution methods for urgent situations
 
 The Initiative Tracker serves as the foundation for organized, engaging combat that takes full advantage of the unique environmental, temporal, and dimensional challenges present in the merged realms while maintaining clear, manageable gameplay flow.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_Statblocks/Random Encounters]]
 
 ## Player-Facing Summary
 
@@ -517,13 +524,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/Pressure Crush Zones]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Lore/Reputation System]]
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[02_Worldbuilding/Lore/Tidal Chambers]]
-- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[12_Research/D&D_References/Aquabyssos-Survival-Mechanics]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[12_Research/D&D_References/Pressure Crush Zones]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Reputation System]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Tidal Chambers]]
+- [[12_Research/D&D_References/Shadow Wells]]

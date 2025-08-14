@@ -24,7 +24,7 @@ world: Both
 
 ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/027-tod-06-01.webp#center)
 
-The tunnel from the roadhouse emerges in a spot nearby that's screened by trees and brush from the camp. As characters approach through the tunnel, any of them with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 10 or higher hears bestial voices ahead, growling and murmuring indistinctly in Draconic. From there, a trail leads into the Mere of Dead Men, where a mix of swamp denizens and cultists of the dragon vie for power at the ruins of Castle Naerytar.
+The tunnel from the roadhouse emerges in a spot nearby that's screened by trees and brush from the camp. As characters approach through the tunnel, any of them with a passive Wisdom ([[skills#Perception|Perception]]) score of 10 or higher hears bestial voices ahead, growling and murmuring indistinctly in Draconic. From there, a trail leads into the Mere of Dead Men, where a mix of swamp denizens and cultists of the dragon vie for power at the ruins of Castle Naerytar.
 
 This stout, stone castle was the home of a half-elf wizard, but he abandoned it long ago when the swamp claimed the area. For a time, a group of astrologers called the Academy of Stargazers took over the structure, but they vanished mysteriously after a few years. No one knows what became of them. Before the group's destruction, the members modified the castle by building an observatory into the top floor of the keep. Some of their magical viewing equipment is still there.
 
@@ -36,7 +36,7 @@ Castle Naerytar is not just a stone's throw down the road. It sits fifteen miles
 
 ### Day 1
 
-The first day's travel is by foot through tangled marsh. The ground is what passes for dry in the mere: even "solid ground" is soggy, with water very near the surface. Lizardfolk porters carry the cult's contraband on their backs along this portion of the trail, and their tracks can be plainly seen where the path crosses wet ground. Much of the path is through mucky, cold, knee-deep water. On those stretches, blaze marks are cut into trees to keep porters on the right course. No skill checks are needed to avoid getting lost as long as characters stick to the trail. If characters leave the trail, then a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check is needed to find it again. Each check equates to an hour of searching, which calls for a random encounters check.
+The first day's travel is by foot through tangled marsh. The ground is what passes for dry in the mere: even "solid ground" is soggy, with water very near the surface. Lizardfolk porters carry the cult's contraband on their backs along this portion of the trail, and their tracks can be plainly seen where the path crosses wet ground. Much of the path is through mucky, cold, knee-deep water. On those stretches, blaze marks are cut into trees to keep porters on the right course. No skill checks are needed to avoid getting lost as long as characters stick to the trail. If characters leave the trail, then a successful DC 15 Wisdom ([[skills#Survival|Survival]]) check is needed to find it again. Each check equates to an hour of searching, which calls for a random encounters check.
 
 ### Evening 1
 
@@ -51,9 +51,9 @@ After seven miles of progress, characters reach a campsite at the approximate ha
 
 Each canoe has three paddles and is large enough to hold five humans without much gear, or two or three with packs and other gear. Inside the lean-tos are a few baskets containing smoked fish (edible) along with some lizards and birds that have been smashed flat and dried in the sun (very unappetizing to humans but edible).
 
-If characters arrive before dusk, the camp is empty and they can explore it safely. No random encounters bother characters while they're in the campsite. As the sun begins to set, nine [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] paddle up in three canoes. They are traveling from Castle Naerytar to the roadhouse to pick up a load of contraband. The lizardfolk expect no trouble near their camp, so if characters posted a watch, then those characters who are actively on watch notice the approaching lizardfolk automatically and the lizardfolk are [[/03_Mechanics/CLI/conditions#Surprised|surprised]]. If characters lit a fire, however, then the lizardfolk smell the smoke from quite a distance away and know someone is in the camp. They assume it's more of their own kind returning from the work camp with treasure bound for Castle Naerytar, but the mere is filled with potential enemies and one never knows for sure, so their approach is more cautious if they smell smoke. In that case, characters with passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of 10 or higher notice the approaching lizardfolk canoes before the lizardfolk spot the strangers in their camp.
+If characters arrive before dusk, the camp is empty and they can explore it safely. No random encounters bother characters while they're in the campsite. As the sun begins to set, nine [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] paddle up in three canoes. They are traveling from Castle Naerytar to the roadhouse to pick up a load of contraband. The lizardfolk expect no trouble near their camp, so if characters posted a watch, then those characters who are actively on watch notice the approaching lizardfolk automatically and the lizardfolk are [[conditions#Surprised|surprised]]. If characters lit a fire, however, then the lizardfolk smell the smoke from quite a distance away and know someone is in the camp. They assume it's more of their own kind returning from the work camp with treasure bound for Castle Naerytar, but the mere is filled with potential enemies and one never knows for sure, so their approach is more cautious if they smell smoke. In that case, characters with passive Wisdom ([[skills#Perception|Perception]]) scores of 10 or higher notice the approaching lizardfolk canoes before the lizardfolk spot the strangers in their camp.
 
-These lizardfolk won't negotiate or converse with characters. They've been told by the elf who commands operations at Castle Naerytar that strangers in the mere are to be killed or captured but never engaged in conversation. If they are captured and tied up, a successful DC 10 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) or DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check loosens their tongues. If the lizardfolk aren't tied up, characters have disadvantage on these rolls because the lizardfolk think them soft-hearted.
+These lizardfolk won't negotiate or converse with characters. They've been told by the elf who commands operations at Castle Naerytar that strangers in the mere are to be killed or captured but never engaged in conversation. If they are captured and tied up, a successful DC 10 Charisma ([[skills#Intimidation|Intimidation]]) or DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check loosens their tongues. If the lizardfolk aren't tied up, characters have disadvantage on these rolls because the lizardfolk think them soft-hearted.
 
 Lizardfolk know that they're transporting treasure to the castle. The "dragon kneelers" take it into the castle, and the lizardfolk never see it again. They are paid in steel blades (they have no ability to manufacture with metal) and magic talismans. All the lizardfolk wear necklaces and bracelets made of bone, teeth, feathers, carved soft stone, and leather. On close inspection, characters see mixed in among these things traces of civilization: glass beads, coins, costume jewelry, tiny mirrors, and stamped copper and tin amulets of the sort that can be bought for a few pennies at any trinket shop or souvenir stand. None of it is magical.
 
@@ -77,15 +77,15 @@ The Mere of Dead Men is a place filled with dangerous creatures. Roll a `d20` pe
 
 | dice: d12 | Encounter |
 |-----------|-----------|
-| 1–2 | [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|Bullywugs]] (2 or 3 per character) |
-| 3 | [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|Crocodiles]] (2 per character) |
-| 4 | [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|Giant frogs]] (2 per character) |
-| 5 | [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|Giant lizards]] (2 per character) |
-| 6 | [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|Giant spiders]] (1 per character) |
+| 1–2 | [[bullywug-warrior-xmm|Bullywugs]] (2 or 3 per character) |
+| 3 | [[crocodile-xmm|Crocodiles]] (2 per character) |
+| 4 | [[giant-frog-xmm|Giant frogs]] (2 per character) |
+| 5 | [[giant-lizard-xmm|Giant lizards]] (2 per character) |
+| 6 | [[giant-spider-xmm|Giant spiders]] (1 per character) |
 | 7–8 | [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|Lizardfolk]] (3 per 2 characters) |
 | 9 | Quicksand |
-| 10 | [[/03_Mechanics/CLI/bestiary/plant/shambling-mound-xmm|Shambling mound]] |
-| 11 | [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|Will-o'-wisps]] (3) |
+| 10 | [[shambling-mound-xmm|Shambling mound]] |
+| 11 | [[will-o-wisp-xmm|Will-o'-wisps]] (3) |
 | 12 | Yuan-ti hunting party (see below) |
 ^encounter
 
@@ -95,7 +95,7 @@ Bullywugs patrol the mere haphazardly. Before characters reach the midway campsi
 
 ##### Crocodiles
 
-An encounter with crocodiles always occurs in water at least 2 feet deep. The first time characters run into crocodiles in the mere, the creatures have advantage on their [[/03_Mechanics/CLI/skills#Stealth|Stealth]] check.
+An encounter with crocodiles always occurs in water at least 2 feet deep. The first time characters run into crocodiles in the mere, the creatures have advantage on their [[skills#Stealth|Stealth]] check.
 
 ##### Giant Frogs
 
@@ -107,7 +107,7 @@ Giant lizards of the Mere of Dead Men have the Hold Breath trait. There is a 30 
 
 ##### Giant Spiders
 
-The spiders' web is nearly [[/03_Mechanics/CLI/conditions#Invisible|invisible]] in an area of heavy fog. Spiders of the Mere of Dead Men have the Hold Breath trait.
+The spiders' web is nearly [[conditions#Invisible|invisible]] in an area of heavy fog. Spiders of the Mere of Dead Men have the Hold Breath trait.
 
 ##### Lizardfolk
 
@@ -115,7 +115,7 @@ The lizardfolk of the mere are reluctant allies of the cult, mostly because [[/0
 
 ##### Quicksand
 
-A creature that steps into the quicksand must succeed on a DC 11 Dexterity saving throw or sink into the quicksand and be [[/03_Mechanics/CLI/conditions#Restrained|restrained]]. On its turn, as part of its movement, the trapped creature can escape by making a DC 15 Strength check. Another creature can attempt to pull the [[/03_Mechanics/CLI/conditions#Restrained|restrained]] creature out of the quicksand as an action but must succeed on a DC 15 Strength check to do so. As in a movie, the trapped creature is always more than 5 feet from the edge of the quicksand, so rescuers can't just grab the character; they must find a vine, a rope, or a pole and toss it to where the trapped character can reach it.
+A creature that steps into the quicksand must succeed on a DC 11 Dexterity saving throw or sink into the quicksand and be [[conditions#Restrained|restrained]]. On its turn, as part of its movement, the trapped creature can escape by making a DC 15 Strength check. Another creature can attempt to pull the [[conditions#Restrained|restrained]] creature out of the quicksand as an action but must succeed on a DC 15 Strength check to do so. As in a movie, the trapped creature is always more than 5 feet from the edge of the quicksand, so rescuers can't just grab the character; they must find a vine, a rope, or a pole and toss it to where the trapped character can reach it.
 
 ##### Shambling Mound
 
@@ -228,7 +228,7 @@ Snapjaw knows where the lizardfolk pickets are posted about half a mile out from
 - If the heroes have established strong trust between themselves and Snapjaw, he tells the guards that the characters are great warriors come to destroy the Cult of the Dragon, and that now is the time to make their move against the bullywugs. You can either decide for yourself how the guards react to that, or make a DC 10 Charisma check for Snapjaw. If the check succeeds, the guards are persuaded. If the check fails, the characters don't impress them. They won't take action against the bullywugs now, but they won't interfere with the characters, either. If the result is 5 or lower, these guards decide Snapjaw's talk of an uprising is dangerously rash, and they attack him.  
 - If the characters have done nothing to win Snapjaw's trust or they've treated him no better than bullywugs would have, then he tells the guards that the characters are nothing but trouble, and the lizardfolk attack.  
 
-If Snapjaw is not with the characters, they still have a chance to detect the guard outpost on their own. Characters with passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of 15 or higher catch whiffs of wood smoke. Also make a single Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check for the lizardfolk guards, with advantage (they've had plenty of time to conceal themselves). Compare their result to the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to see whether any of the characters notice the lizardfolk in hiding.
+If Snapjaw is not with the characters, they still have a chance to detect the guard outpost on their own. Characters with passive Wisdom ([[skills#Perception|Perception]]) scores of 15 or higher catch whiffs of wood smoke. Also make a single Dexterity ([[skills#Stealth|Stealth]]) check for the lizardfolk guards, with advantage (they've had plenty of time to conceal themselves). Compare their result to the characters' passive Wisdom ([[skills#Perception|Perception]]) scores to see whether any of the characters notice the lizardfolk in hiding.
 
 If the lizardfolk go undetected, they send two fast swimmers ahead by a secondary route to alert bullywugs at the castle. Two more scouts follow the characters while the last two remain at their post and continue keeping watch.
 
@@ -248,7 +248,7 @@ A half-dozen dugout canoes are pulled up onto land here. Three to five paddles l
 
 ### 2. Animal Stockade
 
-The lizardfolk keep their giant lizards penned here. The five-foot-high wall of the stockade is made from sturdy logs driven into the earth, spaced about six inches apart, and bound together with twisted fiber. The lizards can carry or drag loads that are too massive for the lizardfolk, such as large timbers or impressive crocodiles. They are also used to raise stone onto the castle battlements through ropes and pulleys—technology that never ceases to amaze the lizardfolk. There are `2d4` [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] in the pen at any given time. They are ill-tempered and attack anyone who comes within reach if their handlers aren't present to keep them under control. If set loose, they most likely romp away into the swamp. If the goal is to have the lizards rampage through the camp, someone needs to rile them up first. Poking them through the stockade wall with spears will do the trick.
+The lizardfolk keep their giant lizards penned here. The five-foot-high wall of the stockade is made from sturdy logs driven into the earth, spaced about six inches apart, and bound together with twisted fiber. The lizards can carry or drag loads that are too massive for the lizardfolk, such as large timbers or impressive crocodiles. They are also used to raise stone onto the castle battlements through ropes and pulleys—technology that never ceases to amaze the lizardfolk. There are `2d4` [[giant-lizard-xmm|giant lizards]] in the pen at any given time. They are ill-tempered and attack anyone who comes within reach if their handlers aren't present to keep them under control. If set loose, they most likely romp away into the swamp. If the goal is to have the lizards rampage through the camp, someone needs to rile them up first. Poking them through the stockade wall with spears will do the trick.
 
 ### 3. Longhouses
 
@@ -276,11 +276,11 @@ The bullywugs live in huts, which are crudely built.
 
 The interiors of the bullywugs' huts are the complete opposite of the lizardfolk's longhouses: wet, filthy, sloppily made, and reeking. The floors aren't just damp; they're churned into mud pits up to 2 feet deep, so the bullywugs can rest froglike in mud up to their eyeballs. They have no sense of privacy or personal space. At night, they crowd in atop one another until everyone is squeezed. Bullywugs aren't assigned to any particular huts. They sleep in whichever is most convenient when they grow tired, so it's common for some huts to be packed at night while others sit completely empty.
 
-Eight [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]] hop randomly among the huts or sit silently in the pools of standing water. These creatures were raised from tadpoles by the bullywugs and don't bother them, but they attack anyone else who carelessly wanders within reach of their 15-foot-long tongues.
+Eight [[giant-frog-xmm|giant frogs]] hop randomly among the huts or sit silently in the pools of standing water. These creatures were raised from tadpoles by the bullywugs and don't bother them, but they attack anyone else who carelessly wanders within reach of their 15-foot-long tongues.
 
 ### 5. Moat
 
-The muddy water lapping against the castle walls is indistinguishable at a glance from the puddles and hip-deep water standing throughout the area, but it hides a moat. Portions of the moat around the southwest tower have filled in to ground level, but elsewhere it is 30 to 40 feet wide and up to 15 feet deep. The causeway (1A) arches over the moat, providing a visual clue that the water may be deeper than it appears. Anyone splashing around in the moat attracts the attention of six [[/03_Mechanics/CLI/bestiary/beast/crocodile-xmm|crocodiles]].
+The muddy water lapping against the castle walls is indistinguishable at a glance from the puddles and hip-deep water standing throughout the area, but it hides a moat. Portions of the moat around the southwest tower have filled in to ground level, but elsewhere it is 30 to 40 feet wide and up to 15 feet deep. The causeway (1A) arches over the moat, providing a visual clue that the water may be deeper than it appears. Anyone splashing around in the moat attracts the attention of six [[crocodile-xmm|crocodiles]].
 
 ### 6. Main Gate
 
@@ -296,7 +296,7 @@ Most of the structures inside the castle are more than one story tall. In the de
 
 ### 1A. Barbican
 
-The barbican is the primary defensive position for the castle. It is guarded round-the-clock by ten [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] and `d6` [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]]. Unless a fight or other disturbance has happened somewhere, these guards are at low alertness.
+The barbican is the primary defensive position for the castle. It is guarded round-the-clock by ten [[bullywug-warrior-xmm|bullywugs]] and `d6` [[giant-frog-xmm|giant frogs]]. Unless a fight or other disturbance has happened somewhere, these guards are at low alertness.
 
 Sloppy mud covers the stone floor of this large chamber. Planks have been laid from the gateway to the causeway entrance to create a 10-foot-wide raised boardwalk for the cultists, who don't enjoy walking through mud the way bullywugs do. The slippery mud makes everywhere off the planks difficult terrain for characters. A few tables have been thrown together from planks laid across barrels, with crudely made benches for seats. The tables and benches are nearly as muddy as the floor.
 
@@ -310,11 +310,11 @@ This 180-foot causeway crosses the moat and leads to the castle's outer ward. It
 
 ### 1C. Outer Ward
 
-The ground here was once hard-packed earth, but the area in front of the barracks (area 1G) has been churned into mud by flapping bullywug feet. At any particular time, there are `d6`–1 [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] and `d6`–1 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] present in the outer ward. Lizardfolk are likely to be working (training their giant lizards), while bullywugs might be loafing or giving orders to the lizardfolk.
+The ground here was once hard-packed earth, but the area in front of the barracks (area 1G) has been churned into mud by flapping bullywug feet. At any particular time, there are `d6`–1 [[bullywug-warrior-xmm|bullywugs]] and `d6`–1 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] present in the outer ward. Lizardfolk are likely to be working (training their giant lizards), while bullywugs might be loafing or giving orders to the lizardfolk.
 
 ### 1D. Inner Ward
 
-Originally, the passage between the outer and inner wards could be closed off with heavy wooden gates, but they have long since fallen apart and haven't been replaced. The inner ward is patrolled by three [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] (see appendix D for statistics) at all hours of the day. They attack anyone they don't recognize or who isn't accompanied by someone they recognize.
+Originally, the passage between the outer and inner wards could be closed off with heavy wooden gates, but they have long since fallen apart and haven't been replaced. The inner ward is patrolled by three [[guard-drake-mpmm|guard drakes]] (see appendix D for statistics) at all hours of the day. They attack anyone they don't recognize or who isn't accompanied by someone they recognize.
 
 ### 1E. Northwest Tower
 
@@ -325,17 +325,17 @@ The door to this tower has been torn off its hinges and lies on the ground. Orig
 > There must have been a wooden floor in this tower when it was built, to cover the dungeon pit beneath it. Now the floor is gone and the dungeon has been turned into a garbage pit and latrine filled with foul-smelling waste and swamp water to just a few feet below the level of the doorway. The floor above is badly rotted and large portions have collapsed. Through the gaping holes in the second floor, you can see that the third floor is still in good condition. But to reach the stone stairs that circle upward around the outer wall, you must cross 10 feet of indescribable muck.
 ^149
 
-The pit is home to an [[/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm|otyugh]] that consumes much of the castle's garbage. When characters arrive, it is sitting quietly submerged in the muck, making it undetectable unless characters stir the foul-smelling stuff with poles. If someone steps into the muck or leaps to the steps, the otyugh lashes out with its tentacles. A [[/03_Mechanics/CLI/conditions#Grappled|grappled]] character is dragged into the pit where, along with all the hazards of being savaged by an otyugh, there is the added danger of drowning. It's safe to assume that characters entering this tower will take a big gulp of clean air first, but the otyugh's attack might knock the wind out of them. Allow the attacked character to make a Constitution saving throw with a DC equal to 5 plus the damage caused by the otyugh's tentacle attack. A successful saving throw means the character has a lungful of air when dragged into the muck and can hold his or her breath for a number of minutes equal to 1 + his or her Constitution modifier, with a minimum of 30 seconds (5 rounds). Failure means the character's lungs are empty, and the character falls [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] at the end of his or her turn after a number of rounds equal to the character's Constitution modifier unless the character breaks free from the otyugh's grasp before then. See the "suffocating rules" in the *Player's Handbook*.
+The pit is home to an [[otyugh-xmm|otyugh]] that consumes much of the castle's garbage. When characters arrive, it is sitting quietly submerged in the muck, making it undetectable unless characters stir the foul-smelling stuff with poles. If someone steps into the muck or leaps to the steps, the otyugh lashes out with its tentacles. A [[conditions#Grappled|grappled]] character is dragged into the pit where, along with all the hazards of being savaged by an otyugh, there is the added danger of drowning. It's safe to assume that characters entering this tower will take a big gulp of clean air first, but the otyugh's attack might knock the wind out of them. Allow the attacked character to make a Constitution saving throw with a DC equal to 5 plus the damage caused by the otyugh's tentacle attack. A successful saving throw means the character has a lungful of air when dragged into the muck and can hold his or her breath for a number of minutes equal to 1 + his or her Constitution modifier, with a minimum of 30 seconds (5 rounds). Failure means the character's lungs are empty, and the character falls [[conditions#Unconscious|unconscious]] at the end of his or her turn after a number of rounds equal to the character's Constitution modifier unless the character breaks free from the otyugh's grasp before then. See the "suffocating rules" in the *Player's Handbook*.
 
 ### 1F. Stables
 
-The fittest, most ferocious of the giant lizards are housed here instead of in the open stockade (area 2), to protect them against the biting and clawing that goes on in the common enclosure. These lizards are used as riding mounts by lizardfolk on long patrols. The stalls, originally built for horses, have been enlarged to accommodate the beasts (eight [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]]). The normally lethargic creatures grow agitated when strangers enter the stables. If characters linger for more than a minute, two of the lizards start lashing the walls with their tails. The others pick up the ruckus in short order so that within two minutes, all are thrashing at the walls and bellowing. The commotion draws four [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] who are the giant lizards' handlers. The lizardfolk have a calming influence on the giant lizards, but if they are interfered with, the disquieted lizards smash through their stalls and attack anything in the stables.
+The fittest, most ferocious of the giant lizards are housed here instead of in the open stockade (area 2), to protect them against the biting and clawing that goes on in the common enclosure. These lizards are used as riding mounts by lizardfolk on long patrols. The stalls, originally built for horses, have been enlarged to accommodate the beasts (eight [[giant-lizard-xmm|giant lizards]]). The normally lethargic creatures grow agitated when strangers enter the stables. If characters linger for more than a minute, two of the lizards start lashing the walls with their tails. The others pick up the ruckus in short order so that within two minutes, all are thrashing at the walls and bellowing. The commotion draws four [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] who are the giant lizards' handlers. The lizardfolk have a calming influence on the giant lizards, but if they are interfered with, the disquieted lizards smash through their stalls and attack anything in the stables.
 
 A ladder in the southeast corner of the stables grants access to a loft above the stables.
 
 ### 1G. Lower Barracks
 
-This large structure was built to house the castle's garrison. Pharblex and his hand-picked circle of bullywug toughs has taken it over. Pharblex is seldom here, but during the day, twelve [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] lounge in the squalor. That number doubles at night.
+This large structure was built to house the castle's garrison. Pharblex and his hand-picked circle of bullywug toughs has taken it over. Pharblex is seldom here, but during the day, twelve [[bullywug-warrior-xmm|bullywugs]] lounge in the squalor. That number doubles at night.
 
 If characters walk into the barracks during daytime, read the text below aloud. If they sneak in or enter in the middle of the night, adjust and paraphrase accordingly.
 
@@ -348,7 +348,7 @@ If the bullywugs assume the characters are cultists, they tolerate their presenc
 
 Three mud-spattered chests are shoved into the sheltered space behind the staircase. These contain much of the bullywugs' accumulated pay. [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] pays them with articles of looted treasure that he deems too cheap or tacky to include in the hoard being accumulated for Tiamat. The chests contain hundreds of items made from copper and tin and that incorporate small or damaged semiprecious stones. The three chests combined contain 30,000 cp, 500 sp, and jewelry (copper and tin with ornamental or semiprecious stones) worth another 350 gp, for a total value of 700 gp. Their total weight is over 500 pounds: 305 pounds of coins plus another 200 pounds of jewelry.
 
-Buried among all the copper and tin in one chest is a small mahogany box containing two [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]] and one vial of [[/03_Mechanics/CLI/items/oil-of-etherealness-xdmg|oil of etherealness]], overlooked by the cultists during sorting.
+Buried among all the copper and tin in one chest is a small mahogany box containing two [[potion-of-healing-xdmg|potions of healing]] and one vial of [[oil-of-etherealness-xdmg|oil of etherealness]], overlooked by the cultists during sorting.
 
 ### 1H. Forge and Armory
 
@@ -383,7 +383,7 @@ Over the years, this chapel has been consecrated to several different deities, d
 
 #### Treasure
 
-A hidden compartment beneath Tiamat's black dragon head contains a [[/03_Mechanics/CLI/items/dagger-of-venom-xdmg|dagger of venom]]. It can be found with a successful DC 15 Intelligence (Investigation) check. Only [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and a few of the lizardfolk (including Snapjaw) who were involved in carving the statue know about the dagger.
+A hidden compartment beneath Tiamat's black dragon head contains a [[dagger-of-venom-xdmg|dagger of venom]]. It can be found with a successful DC 15 Intelligence (Investigation) check. Only [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and a few of the lizardfolk (including Snapjaw) who were involved in carving the statue know about the dagger.
 
 ### 1M. Storeroom
 
@@ -409,11 +409,11 @@ Looting won't be possible, however, as long as any cultists are alive. During th
 
 If there is any disturbance in the Great Hall, everyone within hearing responds to the hue and cry. Cultists in the southwest tower and guard drakes from the inner ward show up at the start of the third round, and any bullywugs or lizardfolk in the outer ward respond at the beginning of the fourth round.
 
-At night, two [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]] (see appendix D for statistics) sleep in the Great Hall while a third guard drake patrols the hall and the inner ward. Even asleep, the guard drakes are at normal alertness.
+At night, two [[guard-drake-mpmm|guard drakes]] (see appendix D for statistics) sleep in the Great Hall while a third guard drake patrols the hall and the inner ward. Even asleep, the guard drakes are at normal alertness.
 
 #### Treasure
 
-The southwest corner of the room is a makeshift carpentry shop, where cultists build new chests and boxes to hold the plunder. If characters have a chance to paw through the piles and keep what they find, they get 450 gp, 520 sp, 80 pp, 22 semiprecious stones (5 × 35 gp, 6 × 45 gp, 6 × 55 gp, 4 × 65 gp, 1 × 80 gp), and a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|potion of greater healing]]. Alternatively, you can create your own expert-level hoard.
+The southwest corner of the room is a makeshift carpentry shop, where cultists build new chests and boxes to hold the plunder. If characters have a chance to paw through the piles and keep what they find, they get 450 gp, 520 sp, 80 pp, 22 semiprecious stones (5 × 35 gp, 6 × 45 gp, 6 × 55 gp, 4 × 65 gp, 1 × 80 gp), and a [[potion-of-greater-healing-xdmg|potion of greater healing]]. Alternatively, you can create your own expert-level hoard.
 
 ### 1R. Southwest Tower Antechamber
 
@@ -427,7 +427,7 @@ The most important feature of this chamber is the staircase that leads down to t
 
 ### 1T. Unused Chamber
 
-This chamber is wet and moldy, though not flooded. The cultists don't use it because of the dampness, so giant centipedes have moved in and made a nest. Anyone who enters the chamber becomes the target of ten [[/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm|giant centipedes]].
+This chamber is wet and moldy, though not flooded. The cultists don't use it because of the dampness, so giant centipedes have moved in and made a nest. Anyone who enters the chamber becomes the target of ten [[giant-centipede-xmm|giant centipedes]].
 
 If the characters pose as reinforcements sent by the cult, they are assigned this chamber as their quarters. Their first task is clearing out the centipedes, chinking leaks, and generally making the room livable.
 
@@ -439,7 +439,7 @@ This front chamber is a small version of the Great Hall, with a few tables and b
 
 ### 1V. West Guest Rooms
 
-Normally, these rooms aren't used, but [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] occupies them currently. They are reasonably warm and comfortable. Jos will be here when he isn't consulting with [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] in area 1U, 2N, or 3L. Jos keeps all of his real valuables with him. The only things he leaves in these chambers are his clothes and his traveling spellbook—which contains all the spells he has prepared (see appendix D). The spellbook is locked inside a box of silver-inlaid redwood. The lock can be opened with a successful DC 15 Dexterity check, but if the roll is less than 20, the tampering sets off a magical ward with the same effect as a [[/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb|Melf's acid arrow]] spell; the acid arrow launches at the character who opened the box and causes `4d6` acid damage immediately plus another `4d6` acid damage at the end of the character's next turn. The damage is halved if the character makes a successful DC 15 Dexterity saving throw. Opening the box with the key disarms the trap automatically; Jos carries the key on a string around his neck.
+Normally, these rooms aren't used, but [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]] occupies them currently. They are reasonably warm and comfortable. Jos will be here when he isn't consulting with [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] in area 1U, 2N, or 3L. Jos keeps all of his real valuables with him. The only things he leaves in these chambers are his clothes and his traveling spellbook—which contains all the spells he has prepared (see appendix D). The spellbook is locked inside a box of silver-inlaid redwood. The lock can be opened with a successful DC 15 Dexterity check, but if the roll is less than 20, the tampering sets off a magical ward with the same effect as a [[melfs-acid-arrow-xphb|Melf's acid arrow]] spell; the acid arrow launches at the character who opened the box and causes `4d6` acid damage immediately plus another `4d6` acid damage at the end of the character's next turn. The damage is halved if the character makes a successful DC 15 Dexterity saving throw. Opening the box with the key disarms the trap automatically; Jos carries the key on a string around his neck.
 
 ## Second Floor
 
@@ -449,7 +449,7 @@ Normally, these rooms aren't used, but [[/03_Mechanics/CLI/bestiary/npc/azbara-j
 
 ### 2A. Upper Barbican
 
-Although it is much cleaner than the lower level, the upper level of the barbican is still a mess. Muddy, webbed footprints of bullywugs trail up and down the stairs and fan out across the floor. This area is staffed by nine [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] day and night, but at night, they tend to sleep on watch.
+Although it is much cleaner than the lower level, the upper level of the barbican is still a mess. Muddy, webbed footprints of bullywugs trail up and down the stairs and fan out across the floor. This area is staffed by nine [[bullywug-warrior-xmm|bullywugs]] day and night, but at night, they tend to sleep on watch.
 
 This level of the barbican has no roof. Hundreds of melon-sized stones are piled around the battlements for throwing down on the heads of attackers. Many of the piles have collapsed, and the bullywugs are too lazy to restack them.
 
@@ -459,15 +459,15 @@ The main feature of this area is a signal drum carved from an enormous hollow lo
 
 ### 2E. Rotted Floor
 
-The second level of the northwest tower is in bad shape. There are large holes where the floorboards have completely rotted away or fallen into the muck below, and the floorboards that remain are unlikely to support a human's weight. The beams are still strong, but they are slick with fungus and mold. A successful DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check is needed to cross the level on a beam without slipping and falling into the awfulness of area 1E.
+The second level of the northwest tower is in bad shape. There are large holes where the floorboards have completely rotted away or fallen into the muck below, and the floorboards that remain are unlikely to support a human's weight. The beams are still strong, but they are slick with fungus and mold. A successful DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check is needed to cross the level on a beam without slipping and falling into the awfulness of area 1E.
 
 The stone steps that wind around the outer wall come to a small (approximately 3 feet by 3 feet) stone landing, then continue upward to the third level. Characters are safe from falling as long as they stay on the landing or the steps.
 
-A trapdoor closes off the top of the stairs at the ceiling. The door is latched with a simple wooden turn-button. The door also bears a warning but, because the warning was drawn in chalk nearly a century ago, it is all but invisible now. It can be noticed with a successful DC20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. After the chalk mark is noticed, anyone who reads Dwarvish can correctly interpret it as a warning that powerful undead reside in the room beyond. Adventurers placed the rune here decades ago after running afoul of the specters in area 3E.
+A trapdoor closes off the top of the stairs at the ceiling. The door is latched with a simple wooden turn-button. The door also bears a warning but, because the warning was drawn in chalk nearly a century ago, it is all but invisible now. It can be noticed with a successful DC20 Wisdom ([[skills#Perception|Perception]]) check. After the chalk mark is noticed, anyone who reads Dwarvish can correctly interpret it as a warning that powerful undead reside in the room beyond. Adventurers placed the rune here decades ago after running afoul of the specters in area 3E.
 
 #### Treasure
 
-Across the tower, up against the south wall, is a single, locked trunk. The lock can be opened with a set of [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. The chest contains 1,825 cp, 54 sp, and a pair of garish gold earrings that would be worth another 10 gp if melted. The chest was left behind when the last tenants of the castle departed, being considered not worth the effort to lug down the stairs.
+Across the tower, up against the south wall, is a single, locked trunk. The lock can be opened with a set of [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. The chest contains 1,825 cp, 54 sp, and a pair of garish gold earrings that would be worth another 10 gp if melted. The chest was left behind when the last tenants of the castle departed, being considered not worth the effort to lug down the stairs.
 
 ### 2F. Stables Loft
 
@@ -475,13 +475,13 @@ The loft above the stables is where the lizardfolk store bundles of cut reeds to
 
 ### 2G. Upper Barracks
 
-[[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]] (see appendix D for statistics) and his personal retinue of ten [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] use this level of the barracks as their living quarters. No one else has any business being in this chamber, including cultists. Not even Borngray or [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] herself are welcome here. The bullywugs are always here at night but only two stand guard over the treasure chest during the day, when Pharblex spends most of his time in the giant frog hatchery beneath the castle. Those two guards trust no one, and one of them is equipped with a horn made of crocodile bone with which to sound the alarm if trouble develops.
+[[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]] (see appendix D for statistics) and his personal retinue of ten [[bullywug-warrior-xmm|bullywugs]] use this level of the barracks as their living quarters. No one else has any business being in this chamber, including cultists. Not even Borngray or [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] herself are welcome here. The bullywugs are always here at night but only two stand guard over the treasure chest during the day, when Pharblex spends most of his time in the giant frog hatchery beneath the castle. Those two guards trust no one, and one of them is equipped with a horn made of crocodile bone with which to sound the alarm if trouble develops.
 
 Like all areas occupied by bullywugs, this chamber is a mess. Reed pallets, dirty baskets, and animal bones litter the floor.
 
 #### Treasure
 
-In the southeast corner of the room is a large, sturdy chest, wrapped in chains and padlocked. The lock can be picked with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 12 Dexterity check. Inside is Pharblex's share of the bullywugs' pay: silver and electrum jewelry, hand mirrors, shell combs, hair pins and brooches with semiprecious stones, all with a total value of 1,376 gp. Most of the silver is black from tarnish. In a civilized land, every one of these items is something that would be found on a woman's dressing table or nightstand. This is a private joke that [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] finds quietly hilarious. It's all the same to Pharblex, since he knows nothing of civilization or the fashions of human noblewomen.
+In the southeast corner of the room is a large, sturdy chest, wrapped in chains and padlocked. The lock can be picked with [[thieves-tools-xphb|thieves' tools]] and a successful DC 12 Dexterity check. Inside is Pharblex's share of the bullywugs' pay: silver and electrum jewelry, hand mirrors, shell combs, hair pins and brooches with semiprecious stones, all with a total value of 1,376 gp. Most of the silver is black from tarnish. In a civilized land, every one of these items is something that would be found on a woman's dressing table or nightstand. This is a private joke that [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] finds quietly hilarious. It's all the same to Pharblex, since he knows nothing of civilization or the fashions of human noblewomen.
 
 ### 2H. Arsenal
 
@@ -497,7 +497,7 @@ Unless the lizardfolk are meeting, this chamber usually is empty. The lizardfolk
 
 [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] assigned the entire northeast tower to the lizardfolk for their use, but they sleep and live mainly on the ground floor. The second-floor rooms contain nothing of interest or value.
 
-If characters poke around in this area, however, those with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher notice that the doors between areas 2H, 2I, and 2K open and close smoothly and soundlessly, unlike most other doors in the castle, which squeak and squeal loudly on corroded hinges. The lizardfolk keep these doors well-oiled so they can slip up to area 2H in the dead of night without awakening any bullywugs in the barracks (areas 1G and 2G).
+If characters poke around in this area, however, those with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher notice that the doors between areas 2H, 2I, and 2K open and close smoothly and soundlessly, unlike most other doors in the castle, which squeak and squeal loudly on corroded hinges. The lizardfolk keep these doors well-oiled so they can slip up to area 2H in the dead of night without awakening any bullywugs in the barracks (areas 1G and 2G).
 
 A trapdoor closes off the top of the stairs up to area 3H. The trapdoor isn't locked, but a pair of iron spikes has been hammered between the door and the frame. Opening the door requires either a DC 10 Strength check or ten minutes spent carefully prying out the spikes. If the door is forced and no one is standing by ready to catch the spikes, they clatter noisily down the steps
 
@@ -539,7 +539,7 @@ Area 2V is Borngray's sleeping chamber, furnished with a bed, a carpet-draped ta
 
 #### Treasure
 
-In addition to the elf's clothing and personal effects, a small strongbox is hidden beneath a loose floorboard under a rug. The hiding place is spotted automatically if the rug is moved and missed automatically if the rug is left alone. The strongbox contains Borngray's emergency funds: 200 gp, 200 sp, and 10 precious stones worth 100 gp each. The locked box can be opened with a key from Borngray's belt or with a set of [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 15 Dexterity check.
+In addition to the elf's clothing and personal effects, a small strongbox is hidden beneath a loose floorboard under a rug. The hiding place is spotted automatically if the rug is moved and missed automatically if the rug is left alone. The strongbox contains Borngray's emergency funds: 200 gp, 200 sp, and 10 precious stones worth 100 gp each. The locked box can be opened with a key from Borngray's belt or with a set of [[thieves-tools-xphb|thieves' tools]] and a successful DC 15 Dexterity check.
 
 ## Third Floor
 
@@ -551,7 +551,7 @@ Many of the topmost levels of the castle are unused by cultists. Some of them ar
 
 ### 3E. Specters' Sanctum
 
-Several years after its builder and original owner abandoned Castle Naerytar, the castle was re-occupied by an all-female school of astrologers called the Academy of Stargazers. A few years after the astrologers moved in, they were wiped out by their own leader. Several of the castle's residents were murdered in this topmost room of the northwest tower in particularly hideous fashion. They are still here in the form of three [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specters]] haunting the chamber. They rest quietly, ignoring everything and everyone in the castle, until someone opens the trapdoor and enters.
+Several years after its builder and original owner abandoned Castle Naerytar, the castle was re-occupied by an all-female school of astrologers called the Academy of Stargazers. A few years after the astrologers moved in, they were wiped out by their own leader. Several of the castle's residents were murdered in this topmost room of the northwest tower in particularly hideous fashion. They are still here in the form of three [[specter-xmm|specters]] haunting the chamber. They rest quietly, ignoring everything and everyone in the castle, until someone opens the trapdoor and enters.
 
 The open chamber contains a large table and star charts in scroll racks around the walls. Three bodies are sprawled on the floor, reduced by time to powdery bones and dusty tatters of cloth. As soon as Someone enters the room, they rise as specters and attack. They pursue anywhere in the castle, but they won't leave the castle. They attack other living creatures if they can't get at those who disturbed their rest, but they prefer the intruders over anyone else.
 
@@ -565,9 +565,9 @@ Originally, this level of the barracks was used for storage and for training dur
 
 ### 3H, I, J. Spiders' Lair
 
-The top level of the northeast tower is the lair of five [[/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm|giant spiders]]. They hunt in the swamp at night and return to the tower to rest during the days, entering through a hole in the roof. The spiders are wary, so they've never been seen coming and going. The lizardfolk know of them but haven't mentioned them to others.
+The top level of the northeast tower is the lair of five [[giant-spider-xmm|giant spiders]]. They hunt in the swamp at night and return to the tower to rest during the days, entering through a hole in the roof. The spiders are wary, so they've never been seen coming and going. The lizardfolk know of them but haven't mentioned them to others.
 
-The chamber is not hung with webs, but the cracked bones of many animals (including bullywugs) litter the floor. The spiders nestle among the deep shadows between ceiling beams, and they have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks while hidden in their recesses.
+The chamber is not hung with webs, but the cracked bones of many animals (including bullywugs) litter the floor. The spiders nestle among the deep shadows between ceiling beams, and they have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks while hidden in their recesses.
 
 A trapdoor is closed across the steps from area 2K and jammed shut with two iron spikes driven between the door and the frame. See the description of area 2K for notes about opening the door. The door is sufficient to keep the spiders out of the lower levels of the tower, since the spiders and the lizardfolk have an unspoken understanding to leave each other alone. That doesn't extend to strangers such as the characters.
 
@@ -589,9 +589,9 @@ This chamber is a sitting room, comfortably furnished with upholstered chairs, p
 
 ### 3N. Rezmir's Sleeping Chamber
 
-A large bed, two wardrobes, a standing mirror, and an armor stand with a spare suit of scale mail armor dominate the room. One of the wardrobes is filled with clothing. The other, whose doors are painted with a depiction of a five-headed dragon, contains [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s Cult of the Dragon regalia—purple robes, cloaks, mantles, and many items of rank, but not the [[/03_Mechanics/CLI/items/black-dragon-mask-hotdq|Black Dragon Mask]]. Because [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] is a half-dragon, it's unlikely that her clothing or armor will fit anyone else.
+A large bed, two wardrobes, a standing mirror, and an armor stand with a spare suit of scale mail armor dominate the room. One of the wardrobes is filled with clothing. The other, whose doors are painted with a depiction of a five-headed dragon, contains [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s Cult of the Dragon regalia—purple robes, cloaks, mantles, and many items of rank, but not the [[black-dragon-mask-hotdq|Black Dragon Mask]]. Because [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] is a half-dragon, it's unlikely that her clothing or armor will fit anyone else.
 
-The wardrobe containing the cult regalia is trapped. The trap can be detected with a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Once spotted, the trap can be disarmed automatically by using [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s insignia of claws or with a set of [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] and a successful DC 20 Dexterity check. If the wardrobe is opened without disarming the trap or if the Dexterity check fails, the trap goes off, causing vials of acid to explode. All creatures in the room must make a DC 15 Dexterity saving throw, taking 24 (`7d6`) acid damage on a failed save, or half as much on a successful one; the character who set off the trap has disadvantage on this saving throw. All Cult of the Dragon items in the wardrobe are ruined by acid, as are most of the furnishings and other objects in the room, including the dragon statuette described below.
+The wardrobe containing the cult regalia is trapped. The trap can be detected with a successful DC 20 Wisdom ([[skills#Perception|Perception]]) check. Once spotted, the trap can be disarmed automatically by using [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s insignia of claws or with a set of [[thieves-tools-xphb|thieves' tools]] and a successful DC 20 Dexterity check. If the wardrobe is opened without disarming the trap or if the Dexterity check fails, the trap goes off, causing vials of acid to explode. All creatures in the room must make a DC 15 Dexterity saving throw, taking 24 (`7d6`) acid damage on a failed save, or half as much on a successful one; the character who set off the trap has disadvantage on this saving throw. All Cult of the Dragon items in the wardrobe are ruined by acid, as are most of the furnishings and other objects in the room, including the dragon statuette described below.
 
 #### Treasure
 
@@ -619,13 +619,13 @@ The six cultists who share area 3R use this chamber for studying their spellbook
 
 ### 3U. Observatory
 
-The Stargazers converted the top level of the keep into an astrological observatory. The most interesting device they installed was a *farseer of Illusk*—a telescope-like contraption that is useful for observing and studying heavenly bodies but which can also be used in a manner similar to an [[/03_Mechanics/CLI/spells/arcane-eye-xphb|arcane eye]] spell. In that mode, the *farseer* can view a location within fifty miles of it. Tuning and focusing the device this way calls for a considerable amount of skill and practice, and the device's dilapidated condition makes the process more difficult.
+The Stargazers converted the top level of the keep into an astrological observatory. The most interesting device they installed was a *farseer of Illusk*—a telescope-like contraption that is useful for observing and studying heavenly bodies but which can also be used in a manner similar to an [[arcane-eye-xphb|arcane eye]] spell. In that mode, the *farseer* can view a location within fifty miles of it. Tuning and focusing the device this way calls for a considerable amount of skill and practice, and the device's dilapidated condition makes the process more difficult.
 
 Both [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and Borngray visit this area frequently to study the *farseer*. The elf has had limited success with it, but [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] has mastered its use. Over the past year, she used the *farseer* to study Voaraghamanthar in the dragon's lair. During those spying sessions, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] discovered the dragon's secret twin.
 
-To protect this area, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] enlisted the service of four [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]]. They perch day and night on the four corners of the keep's roof, where they can be seen from the ground and where they can see through windows into the observatory. Only [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and Borngray know the gargoyles are alive. If anyone enters the observatory without being accompanied by one of the two cult officers, the gargoyles tear open the observatory's four ceiling hatches and attack. This is the only intrusion they respond to. The gargoyles don't interfere elsewhere without direct orders from [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]], and she won't give such an order unless it is the direst of emergencies.
+To protect this area, [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] enlisted the service of four [[gargoyle-xmm|gargoyles]]. They perch day and night on the four corners of the keep's roof, where they can be seen from the ground and where they can see through windows into the observatory. Only [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] and Borngray know the gargoyles are alive. If anyone enters the observatory without being accompanied by one of the two cult officers, the gargoyles tear open the observatory's four ceiling hatches and attack. This is the only intrusion they respond to. The gargoyles don't interfere elsewhere without direct orders from [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]], and she won't give such an order unless it is the direst of emergencies.
 
-A character who inspects the contents of the observatory recognizes the *farseer of Illusk* with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check. After its true nature is ascertained, using it to view a distant location requires a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check and a successful DC 15 Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check. If the Intelligence check fails, the desired location can't be found. If the Dexterity check fails, the image is too distorted to convey any information. If the Dexterity check result is 5 or less, a key part of the *farseer* breaks off, rendering the item inoperable.
+A character who inspects the contents of the observatory recognizes the *farseer of Illusk* with a successful DC 15 Intelligence ([[skills#Arcana|Arcana]]) check. After its true nature is ascertained, using it to view a distant location requires a successful DC 15 Intelligence ([[skills#Arcana|Arcana]]) check and a successful DC 15 Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check. If the Intelligence check fails, the desired location can't be found. If the Dexterity check fails, the image is too distorted to convey any information. If the Dexterity check result is 5 or less, a key part of the *farseer* breaks off, rendering the item inoperable.
 
 When characters find it, the *farseer* is focused on Waervaerendor's lair. This is a golden opportunity for characters to learn Voaraghamanthar's secret.
 
@@ -659,13 +659,13 @@ The caverns are filled with the faint sounds of dripping water, scratching roden
 
 The steps down from the southwest tower of Castle Naerytar spill out into this chamber. The chamber is brightly lit by one lantern hanging next to the entrance steps and another hanging near the northwest opening to area 9. The chamber is empty. Only the sound of dripping water comes from the direction of areas 3 and 9.
 
-Steps to the northwest descend 5 feet to area 9. Steps to the southeast ascend 5 feet to a passage that descends again 5 feet to area 3. A search for muddy footprints accompanied by a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check reveals that only bullywugs use the southeastern passage, never cultists or lizardfolk.
+Steps to the northwest descend 5 feet to area 9. Steps to the southeast ascend 5 feet to a passage that descends again 5 feet to area 3. A search for muddy footprints accompanied by a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check reveals that only bullywugs use the southeastern passage, never cultists or lizardfolk.
 
 The water flooding the center of the chamber is little more than a puddle; it reaches a depth of 1 foot near the center. The water is slightly acidic, but not enough to cause damage. The gap in the wall connecting to area 2 is only about 3 feet high above the water, so most characters must crouch to get through.
 
 ### 2. Gray Ooze Lair
 
-This chamber is the lair of a [[/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm|gray ooze]], though none of the bullywugs or cultists are aware of it. Occasionally it slithers out of its chamber and eats a giant frog; the rest of the time, it stays out of sight. The ooze matches the surrounding stone perfectly and has nothing but time in which to camouflage itself. Compare the ooze's Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check to the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores to determine whether one or more of them spots it.
+This chamber is the lair of a [[gray-ooze-xmm|gray ooze]], though none of the bullywugs or cultists are aware of it. Occasionally it slithers out of its chamber and eats a giant frog; the rest of the time, it stays out of sight. The ooze matches the surrounding stone perfectly and has nothing but time in which to camouflage itself. Compare the ooze's Dexterity ([[skills#Stealth|Stealth]]) check to the characters' passive Wisdom ([[skills#Perception|Perception]]) scores to determine whether one or more of them spots it.
 
 #### Treasure
 
@@ -673,13 +673,13 @@ Searching characters do see the glint of gems beneath the water at the east end 
 
 ### 3. Mud Room
 
-The floor of this room is flooded a foot deep with sticky, reeking mud, making the whole chamber difficult terrain. Bullywugs roll in this mud, both because they enjoy it and for obscure ceremonial purposes mandated by Pharblex. Two [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] maintain the mud at just the consistency and depth the bullywugs prefer. They don't leap to the attack when characters enter, but they are hostile and quick to anger.
+The floor of this room is flooded a foot deep with sticky, reeking mud, making the whole chamber difficult terrain. Bullywugs roll in this mud, both because they enjoy it and for obscure ceremonial purposes mandated by Pharblex. Two [[bullywug-warrior-xmm|bullywugs]] maintain the mud at just the consistency and depth the bullywugs prefer. They don't leap to the attack when characters enter, but they are hostile and quick to anger.
 
 The steps to the west descend steeply 10 feet to area 4. A lip of stones across the top of the steps keeps most of the mud from spilling down the steps, but enough slops over to make the steps slippery. Every character who walks down these steps must make a successful DC 8 Dexterity saving throw to avoid tumbling into area 4. The fall causes `d4` bludgeoning damage and makes a lot of noise.
 
 ### 4. Centipede Lair
 
-This chamber is empty, but swarms of centipedes live in niches and alcoves lining the western wall. They are [[/03_Mechanics/CLI/conditions#Frightened|frightened]] away by torches, but lanterns, candles, and [[/03_Mechanics/CLI/spells/light-xphb|light]] spells don't bother them. They attack any group that isn't carrying at least one lit torch. There are two [[/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm|swarms of centipedes]] per party member.
+This chamber is empty, but swarms of centipedes live in niches and alcoves lining the western wall. They are [[conditions#Frightened|frightened]] away by torches, but lanterns, candles, and [[light-xphb|light]] spells don't bother them. They attack any group that isn't carrying at least one lit torch. There are two [[swarm-of-insects-xmm|swarms of centipedes]] per party member.
 
 ### 5. Empty Chamber
 
@@ -689,15 +689,15 @@ The steps to the west descend 5 feet to area 6.
 
 Pharblex and the bullywugs raise giant frogs in this water-filled cavern. The ceiling arches 30 feet overhead. The floor of the pool drops off suddenly from the shore, with the water varying from 10 to 15 feet deep.
 
-When characters enter, a [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frog]] sits still on the island and watches them. Most characters can't see that far from the entrance with torches or lanterns. If the characters stick to the shore between the east and north entrances, the frog doesn't react. If someone enters the water or walks out onto the promontory, the frog croaks loudly and splashes into the water. Characters hear more croaking and at least a dozen splashes from area 7. If they are still in area 6 or area 7 after 2 rounds, they are attacked by twelve [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]]. The frogs focus their attacks on small characters they can swallow.
+When characters enter, a [[giant-frog-xmm|giant frog]] sits still on the island and watches them. Most characters can't see that far from the entrance with torches or lanterns. If the characters stick to the shore between the east and north entrances, the frog doesn't react. If someone enters the water or walks out onto the promontory, the frog croaks loudly and splashes into the water. Characters hear more croaking and at least a dozen splashes from area 7. If they are still in area 6 or area 7 after 2 rounds, they are attacked by twelve [[giant-frog-xmm|giant frogs]]. The frogs focus their attacks on small characters they can swallow.
 
-Frogs move into and out of this area by swimming through a passage that opens below the water level in the southeast corner of the pool. Characters can deduce this fact if they watch the pool for 10 to 15 minutes and make a successful DC 12 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check. The passage connects to water south of the bullywugs' huts outside the castle. Its total length is 300 feet. At 80 feet from the entrance in this pool, the tunnel branches; the left branch leads to the surface and the right branch extends 50 feet to a dead-end. In the pitch blackness, a swimmer has few cues about which tunnel to follow. A DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check reveals which tunnel to follow.
+Frogs move into and out of this area by swimming through a passage that opens below the water level in the southeast corner of the pool. Characters can deduce this fact if they watch the pool for 10 to 15 minutes and make a successful DC 12 Intelligence ([[skills#Nature|Nature]]) check. The passage connects to water south of the bullywugs' huts outside the castle. Its total length is 300 feet. At 80 feet from the entrance in this pool, the tunnel branches; the left branch leads to the surface and the right branch extends 50 feet to a dead-end. In the pitch blackness, a swimmer has few cues about which tunnel to follow. A DC 15 Intelligence ([[skills#Investigation|Investigation]]) check reveals which tunnel to follow.
 
 Many bats also roost in this cavern. They can reach the outside through natural chimneys in the roof. The bats don't bother anyone normally, but if a fight breaks out, they become agitated and fill the air.
 
 ### 7. Frog Landing
 
-When they aren't swimming in the underground lake, most of the giant frogs in the cavern sit on this rocky shelf, occasionally snatching bats out of the air with their long tongues. There can be as many as twelve [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]] here at a particular time, plus up to five [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]]. The bullywugs don't join the fight if the giant frogs attack characters as described in the area 6 description. Instead, they dive into the water and watch the fight from the edge of the characters' light. If the giant frogs look likely to win, the bullywugs join in. If the giant frogs lose, the bullywugs swim for the underwater exit in the southeast corner of the pool (see area 6).
+When they aren't swimming in the underground lake, most of the giant frogs in the cavern sit on this rocky shelf, occasionally snatching bats out of the air with their long tongues. There can be as many as twelve [[giant-frog-xmm|giant frogs]] here at a particular time, plus up to five [[bullywug-warrior-xmm|bullywugs]]. The bullywugs don't join the fight if the giant frogs attack characters as described in the area 6 description. Instead, they dive into the water and watch the fight from the edge of the characters' light. If the giant frogs look likely to win, the bullywugs join in. If the giant frogs lose, the bullywugs swim for the underwater exit in the southeast corner of the pool (see area 6).
 
 Bones of larger animals brought here by the bullywugs and fed to the frogs also litter the ground. Most disturbing of all are three sets of iron shackles anchored to the stone, with human, elf, dwarf, and halfling bones.
 
@@ -705,7 +705,7 @@ Bones of larger animals brought here by the bullywugs and fed to the frogs also 
 
 Giant frog tadpoles are raised in this small pool until they are large enough to avoid being eaten by the adult frogs in areas 6 and 7. The tadpoles currently in this area are harmless to characters.
 
-The passage from area 6 is guarded by two [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] to keep adult frogs out. They hide from enemies in area 6 if they can. They'll fight if cornered or if a fight develops in area 6 and they see a chance for victory.
+The passage from area 6 is guarded by two [[bullywug-warrior-xmm|bullywugs]] to keep adult frogs out. They hide from enemies in area 6 if they can. They'll fight if cornered or if a fight develops in area 6 and they see a chance for victory.
 
 ### 9. Crane
 
@@ -719,9 +719,9 @@ Mist flowing out of area 2 and through area 9 accumulates here to a depth of 3 f
 
 Pharblex turned this area into a shrine to his distorted notions of religion. Niches in the walls are filled with carvings of frogs ranging from the size of a fist to the size of a pumpkin. Larger carvings sit on the floor. Crude renderings of frogs are scratched into the walls around the niches and colored with chalk.
 
-Anyone with the Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) skill recognizes elements in these designs taken from the worship of both Ghaunadaur (god of slimes) and Shar (goddess of shadows), but none of these elements are used in a canonical manner. Pharblex used pieces that he saw in religious icons that arrived in treasure shipments, but he has no understanding of their real meaning. With a successful DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check, a character also sees indications that Ramenos is venerated here. Ramenos is an ancient entity now believed to be in a deep slumber. As far as the character is aware, Ramenos was a god of one of the ancient creator races—if it was ever anything more than a legend. Judging from this chamber, whoever created this place has only the shallowest knowledge about these entities.
+Anyone with the Intelligence ([[skills#Religion|Religion]]) skill recognizes elements in these designs taken from the worship of both Ghaunadaur (god of slimes) and Shar (goddess of shadows), but none of these elements are used in a canonical manner. Pharblex used pieces that he saw in religious icons that arrived in treasure shipments, but he has no understanding of their real meaning. With a successful DC 18 Intelligence ([[skills#Religion|Religion]]) check, a character also sees indications that Ramenos is venerated here. Ramenos is an ancient entity now believed to be in a deep slumber. As far as the character is aware, Ramenos was a god of one of the ancient creator races—if it was ever anything more than a legend. Judging from this chamber, whoever created this place has only the shallowest knowledge about these entities.
 
-Unless a disturbance develops elsewhere in the caverns, the most likely place to find Pharblex is here, followed by areas 12 and 7 (in that order). Wherever he goes, [[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]] (see appendix D for statistics) has ten [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywug]] protecting him.
+Unless a disturbance develops elsewhere in the caverns, the most likely place to find Pharblex is here, followed by areas 12 and 7 (in that order). Wherever he goes, [[/03_Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq|Pharblex Spattergoo]] (see appendix D for statistics) has ten [[bullywug-warrior-xmm|bullywug]] protecting him.
 
 ### 12. Pharblex's Sanctum
 
@@ -729,7 +729,7 @@ Pharblex comes to this chamber to contemplate the great mysteries of the univers
 
 The chest is not locked, but it is trapped. If the chest is moved or if the hasp is not opened properly, six clay pots drop from concealed niches in the ceiling. Roll a `d6` to determine how many pots shatter on the floor. The pots contain fine powder coated with hallucinogenic frog poison. Every creature in the chamber that is neither a frog nor a bullywug must make a Constitution saving throw with a DC equal to 11 + the number of pots that broke. A creature that succeeds on the save is unaffected. A creature that fails the saving throw succumbs to the hallucination that all other creatures in the chamber have been transformed into nightmarish, froglike monstrosities. While affected, the creature cannot take reactions and must roll a die at the start of each of its turns. If the die result is odd, the creature must use its action and all of its available movement to move to area 6, enter the pool, and remain underwater. If the die result is even, the hallucinating creature attacks the nearest creature to it, treating it as hostile. The effect lasts for 10 minutes.
 
-The trap can be spotted by someone who inspects the chest or the ceiling and succeeds on a DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. Unbroken clay pots can be saved and used as poison grenades. A pot has a 50 percent chance to break open any time it's thrown. Bullywugs and frogs of all kinds are immune to the poison's effect.
+The trap can be spotted by someone who inspects the chest or the ceiling and succeeds on a DC 12 Wisdom ([[skills#Perception|Perception]]) check. Unbroken clay pots can be saved and used as poison grenades. A pot has a 50 percent chance to break open any time it's thrown. Bullywugs and frogs of all kinds are immune to the poison's effect.
 
 Pharblex retires to this chamber to study two spellbooks, which he stole from area 2N. [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] and [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] would be furious if they learned the books were missing. One belonged to a 7th-level wizard and contains spells up to level 4, and the other was written by a 9th-level wizard and contains spells up to level 5 (you pick the spells). Being wizard spells, the magic is beyond Pharblex's ability to learn or cast; his lust for power is great enough to keep him puzzling over the text and hoping for a breakthrough.
 
@@ -737,7 +737,7 @@ Pharblex retires to this chamber to study two spellbooks, which he stole from ar
 
 Mist from area 10 seeps into this room and keeps it filled to a depth of two to three feet. Aside from the mist, the chamber appears empty.
 
-It is not empty, however. A permanent teleportation circle is carved into the floor, where it is obscured by the mist. Characters with a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 10 or higher spot the circle, while dispersing the mist (using a gust of wind spell, for example) reveals the circle to all.
+It is not empty, however. A permanent teleportation circle is carved into the floor, where it is obscured by the mist. Characters with a passive Wisdom ([[skills#Perception|Perception]]) score of 10 or higher spot the circle, while dispersing the mist (using a gust of wind spell, for example) reveals the circle to all.
 
 To travel through the gate, a command word must be spoken aloud (a whisper will do). The command word ("Draezir") can be found on a paper on [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]'s desk in area 3L or from [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]] if he faces defeat with no escape. When the command word is spoken, everyone and everything inside the gate's circumference is teleported to the corresponding gate in the hunting lodge of [[/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq|Talis the White]] (see chapter 7). Castle Naerytar and the Graypeak Mountain lodge were constructed by the same reclusive wizard, and this was his means of transit between the two.
 

@@ -14,27 +14,24 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-inverse-palace-the-inverse-palace.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-inverse-palace-the-inverse-palace.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Court Herald Titus]]
-- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Temporal Navigation]]
-- [[02_Worldbuilding/Places/The Depth Market]]
-- [[02_Worldbuilding/Places/The Eel Keepers]]
+- [[12_Research/D&D_References/Court Herald Titus]]
+- [[12_Research/D&D_References/Gravity Anomaly Mechanics]]
+- [[12_Research/D&D_References/Inverted Ballroom Wing]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
+- [[12_Research/D&D_References/The Depth Market]]
+- [[12_Research/D&D_References/The Eel Keepers]]
 
 ## Player-Facing Summary
 

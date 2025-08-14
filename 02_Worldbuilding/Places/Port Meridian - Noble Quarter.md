@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-meridian-noble-quarter-port-meridian-noble-quarter.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-meridian-noble-quarter-port-meridian-noble-quarter.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[Aethermoor]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian]]
 
 ## Player-Facing Summary
 

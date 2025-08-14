@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-psychic-gray-ooze-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/psychic-gray-ooze-xmm|Psychic Gray Ooze]]
+# [[psychic-gray-ooze-xmm|Psychic Gray Ooze]]
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
@@ -60,13 +60,13 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1"
@@ -76,7 +76,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Amorphous"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 11 (3d6 + 1) Acid damage,\
-      \ and the target has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      \ and the target has [[disadvantage-xphb|Disadvantage]]\
       \ on Intelligence saving throws until the end of the ooze's next turn."
     "name": "Pseudopod"
   - "desc": "Intelligence Saving Throw: DC 10, one creature the ooze can see within\

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-coral-vortextrader-coral-vortextrader.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-vortextrader-coral-vortextrader.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[12_Research/D&D_References/The Free Current]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[12_Research/D&D_References/The Free Current]]
 
 ## Player-Facing Summary
 

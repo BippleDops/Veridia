@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 33 gp
 - **Weight**: 29.0 lbs.
 
-A Priest's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/blanket-xphb|Blanket]], [[/03_Mechanics/CLI/items/holy-water-xphb|Holy Water]], [[/03_Mechanics/CLI/items/lamp-xphb|Lamp]], 7 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/robe-xphb|Robe]], and [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]].
+A Priest's Pack contains the following items: [[backpack-xphb|Backpack]], [[blanket-xphb|Blanket]], [[holy-water-xphb|Holy Water]], [[lamp-xphb|Lamp]], 7 days of [[rations-xphb|Rations]], [[robe-xphb|Robe]], and [[tinderbox-xphb|Tinderbox]].
 
 *Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

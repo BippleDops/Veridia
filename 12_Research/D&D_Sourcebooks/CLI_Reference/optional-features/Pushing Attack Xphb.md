@@ -23,7 +23,7 @@ world: Both
 # Pushing Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll using a weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+When you hit a creature with an attack roll using a weapon or an [[unarmed-strike-xphb|Unarmed Strike]], you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 

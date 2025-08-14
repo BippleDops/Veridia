@@ -38,15 +38,15 @@ world: Both
 - **Components:** V, S, M (a crystal bead)
 - **Duration:** 8 hours
 
-A 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] isn't big enough to fully encapsulate all creatures in its area.
+A 10-foot [[emanation-area-of-effect-xphb|Emanation]] springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the [[emanation-area-of-effect-xphb|Emanation]] isn't big enough to fully encapsulate all creatures in its area.
 
-Creatures and objects within the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
+Creatures and objects within the [[emanation-area-of-effect-xphb|Emanation]] when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
 
-The atmosphere inside the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] (no action required). The [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
+The atmosphere inside the [[emanation-area-of-effect-xphb|Emanation]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]] (no action required). The [[emanation-area-of-effect-xphb|Emanation]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
 
-The spell ends early if you leave the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] or if you cast it again.
+The spell ends early if you leave the [[emanation-area-of-effect-xphb|Emanation]] or if you cast it again.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Tiny Hut") and the Free Rules (2024)*
 

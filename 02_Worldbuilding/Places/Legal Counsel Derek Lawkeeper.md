@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-legal-counsel-derek-lawkeeper-legal-counsel-derek-lawkeeper.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[12_Research/D&D_References/Bexley]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[12_Research/D&D_References/Bexley]]
 
 ## Player-Facing Summary
 

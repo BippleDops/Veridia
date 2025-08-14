@@ -15,11 +15,8 @@ world: Universal
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
-
+![[04_Resources/Assets/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg]]
 
 
 ## Overview
@@ -46,6 +43,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Seven Shards]]
+- [[12_Research/D&D_References/Seven Shards]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

@@ -29,25 +29,25 @@ world: Both
 | dice: d100 | Protector(s) |
 |------------|--------------|
 | 1-10 | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit Captains]] and [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|Bandits]] |
-| 11-12 | [[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm|Basilisks]] |
-| 13-18 | [[/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm|Constrictor Snakes]] |
+| 11-12 | [[basilisk-xmm|Basilisks]] |
+| 13-18 | [[constrictor-snake-xmm|Constrictor Snakes]] |
 | 19-26 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] and [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
-| 27-28 | [[/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm|Flying Snakes]] |
-| 29-35 | [[/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm|Giant Constrictor Snakes]] |
-| 36-45 | [[/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm|Giant Poisonous Snakes]] |
+| 27-28 | [[flying-snake-xmm|Flying Snakes]] |
+| 29-35 | [[giant-constrictor-snake-xmm|Giant Constrictor Snakes]] |
+| 36-45 | [[giant-venomous-snake-xmm|Giant Poisonous Snakes]] |
 | 46-50 | [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|Gladiators]] |
 | 51-55 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
-| 56-58 | [[/03_Mechanics/CLI/bestiary/monstrosity/hydra-xmm|Hydras]] |
-| 59-60 | [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|Medusas]] |
-| 61 | [[/03_Mechanics/CLI/bestiary/undead/mummy-xmm|Mummies]]* |
-| 62-63 | [[/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm|Poisonous Snakes]] |
+| 56-58 | [[hydra-xmm|Hydras]] |
+| 59-60 | [[medusa-xmm|Medusas]] |
+| 61 | [[mummy-xmm|Mummies]]* |
+| 62-63 | [[venomous-snake-xmm|Poisonous Snakes]] |
 | 64-68 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |
-| 69-70 | [[/03_Mechanics/CLI/bestiary/undead/skeleton-xmm|Skeletons]] |
-| 71 | [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|Stone Golems]] |
-| 72-81 | [[/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm|Swarms of Poisonous Snakes]] |
+| 69-70 | [[skeleton-xmm|Skeletons]] |
+| 71 | [[stone-golem-xmm|Stone Golems]] |
+| 72-81 | [[swarm-of-venomous-snakes-xmm|Swarms of Poisonous Snakes]] |
 | 82-91 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|Tribal Warriors]] |
 | 92-97 | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veterans]] |
-| 98-100 | [[/03_Mechanics/CLI/bestiary/undead/zombie-xmm|Zombies]] |
+| 98-100 | [[zombie-xmm|Zombies]] |
 ^yuan-ti-protectors
 
 * The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.

@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,10 +40,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/Lore/Vorthak]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Vorthak]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

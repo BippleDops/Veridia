@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[12_Research/D&D_References/Deepmind Conspiracy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[12_Research/D&D_References/Deepmind Conspiracy]]
 
 ## Player-Facing Summary
 

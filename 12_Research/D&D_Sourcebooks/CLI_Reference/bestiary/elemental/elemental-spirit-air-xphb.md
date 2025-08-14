@@ -22,9 +22,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.png)
+![[04_Resources/Assets/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.png]]
 
-# [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-air-xphb|Elemental Spirit (Air)]]
+# [[elemental-spirit-air-xphb|Elemental Spirit (Air)]]
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -44,9 +44,9 @@ world: Both
 "speed": "40 ft., fly 40 ft. (hover)"
 "damage_resistances": "lightning, thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":

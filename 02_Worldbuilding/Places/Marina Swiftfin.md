@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-marina-swiftfin-marina-swiftfin.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-marina-swiftfin-marina-swiftfin.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Marina Swiftfin]]
+- [[Marina Swiftfin]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]

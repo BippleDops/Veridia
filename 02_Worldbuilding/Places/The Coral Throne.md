@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Coral Throne]]
+- [[12_Research/D&D_References/The Coral Throne]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
+- [[12_Research/D&D_References/Royal Palace]]

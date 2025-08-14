@@ -29,9 +29,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm|Nightwalker]]
+# [[nightwalker-mpmm|Nightwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -62,11 +62,11 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": ""
 "cr": "20"
@@ -76,7 +76,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell."
+      \ be revived except by a [[wish-xphb|wish]] spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -92,9 +92,9 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     "name": "Enervating Focus"
   - "desc": "The nightwalker points at one creature it can see within 300 feet of\
       \ it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12)\
-      \ necrotic damage and become [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
-      \ until the end of the nightwalker's next turn. While [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
-      \ in this way, the creature is also [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]].\
+      \ necrotic damage and become [[conditions#Frightened|frightened]]\
+      \ until the end of the nightwalker's next turn. While [[conditions#Frightened|frightened]]\
+      \ in this way, the creature is also [[conditions#Paralyzed|paralyzed]].\
       \ If a target's saving throw is successful, the target is immune to the nightwalker's\
       \ Finger of Doom for the next 24 hours."
     "name": "Finger of Doom (Recharge 6)"

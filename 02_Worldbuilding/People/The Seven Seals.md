@@ -26,12 +26,9 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # The Seven Seals
 
-![[04_Resources/Assets/Art/NPCs/The_Seven_Seals.png|The Seven Seals Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Seven_Seals.png|The Seven Seals Portrait]]
 
 *Ancient guardians of reality's foundations*
 
@@ -417,11 +414,11 @@ Points toward nearest Anchor Point:
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[Deep Mother]]
+- [[The Great Drowning]]
 - [[02_Worldbuilding/Groups/The Unsealed|02 Worldbuilding/Groups/The Unsealed]]
-- [[02_Worldbuilding/Lore/Reality Anchors]]
-- [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
+- [[Reality Anchors]]
+- [[Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 
 *"Seven to bind, seven to hold, seven to keep the story untold."*
 
@@ -435,7 +432,7 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Seven Seals]]
+- [[The Seven Seals]]
 
 <!-- enriched: true -->
 

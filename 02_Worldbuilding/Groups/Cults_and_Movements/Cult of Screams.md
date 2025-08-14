@@ -14,12 +14,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-cult-of-screams-cult-of-screams.svg)
-
-
 
 
 # Cult of Screams
@@ -27,22 +23,22 @@ world: Both
 
 ## Organization Overview
 
-The Cult of Screams is a terrorist organization that has transformed the underwater environment of [[02_Worldbuilding/Lore/Aquabyssos World Overview]] into their weapon. Founded by deranged acoustics researchers who discovered that sound travels differently through water and transformed flesh, the Cult weaponizes psychic screaming, sonic torture, and harmonic madness to spread chaos throughout the depths.
+The Cult of Screams is a terrorist organization that has transformed the underwater environment of [[Aquabyssos World Overview]] into their weapon. Founded by deranged acoustics researchers who discovered that sound travels differently through water and transformed flesh, the Cult weaponizes psychic screaming, sonic torture, and harmonic madness to spread chaos throughout the depths.
 
-Unlike other criminal organizations that seek profit or power, the Cult of Screams pursues the complete psychological breakdown of Aquabyssos society. They believe that only through universal madness and suffering can the depths achieve true "enlightenment" - a state where individual consciousness dissolves into a collective scream that will wake the [[02_Worldbuilding/Lore/Aquabyssos World Overview]].
+Unlike other criminal organizations that seek profit or power, the Cult of Screams pursues the complete psychological breakdown of Aquabyssos society. They believe that only through universal madness and suffering can the depths achieve true "enlightenment" - a state where individual consciousness dissolves into a collective scream that will wake the [[Aquabyssos World Overview]].
 
 The Cult operates through cells of transformed individuals whose vocal cords, ears, and nervous systems have been grotesquely modified to produce and withstand supernatural sound frequencies. Their attacks create zones of acoustic horror that drive victims insane, their networks spread through infiltration of performer guilds and communication systems, and their ultimate goal involves turning all of Aquabyssos into a resonating chamber for an otherworldly scream.
 
 ## History and Foundation
 
 ### The Silence Experiments (290 years post-Drowning)
-The Cult originated from the research of **Doctor Harmony Whisperfall**, a brilliant acoustics scholar studying how the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] had changed sound propagation through water and transformed tissue. Working in the ruins of the Royal Academy of Sciences, she became obsessed with the "silence between the screams" - mysterious dead-sound zones where no acoustic vibrations occurred.
+The Cult originated from the research of **Doctor Harmony Whisperfall**, a brilliant acoustics scholar studying how the [[Aquabyssos World Overview]] had changed sound propagation through water and transformed tissue. Working in the ruins of the Royal Academy of Sciences, she became obsessed with the "silence between the screams" - mysterious dead-sound zones where no acoustic vibrations occurred.
 
 ### The First Resonance (285 years post-Drowning)  
 During her attempts to create artificial silence zones, Dr. Whisperfall accidentally opened a connection to what she called "The Screaming Void" - a dimension of pure acoustic agony. The experience drove her mad but also gave her terrifying insights into using sound as a weapon against consciousness itself. She began recruiting followers from among the traumatized and the desperate.
 
 ### The Great Cacophony (275 years post-Drowning)
-The Cult's first major terrorist attack nearly destroyed [[02_Worldbuilding/Lore/Aquabyssos World Overview]] when they synchronized screams from multiple locations to create a city-wide resonance cascade. The attack left thousands permanently insane and established the Cult as a major threat. Dr. Whisperfall was killed in the aftermath, but her work lived on.
+The Cult's first major terrorist attack nearly destroyed [[Aquabyssos World Overview]] when they synchronized screams from multiple locations to create a city-wide resonance cascade. The attack left thousands permanently insane and established the Cult as a major threat. Dr. Whisperfall was killed in the aftermath, but her work lived on.
 
 ### The Echo Succession (274 years post-Drowning)
 **Echo-Prime Cacophony Voidlungs**, Whisperfall's most devoted student, assumed leadership. Under their guidance, the Cult evolved from chaotic terrorists into a sophisticated organization with global reach, developing new sonic weapons and recruitment methods that made them virtually impossible to eliminate.
@@ -58,7 +54,7 @@ Five elite cultists who each control a different frequency range and tactical sp
 #### **Bass-Echo Rumble Deepshake**
 - **Frequency**: Subsonic/Infrasonic
 - **Specialization**: Structural damage and large-scale fear effects
-- **Territory**: [[02_Worldbuilding/Lore/Aquabyssos World Overview]] operations
+- **Territory**: [[Aquabyssos World Overview]] operations
 - **Signature**: Attacks that cause buildings to collapse through resonance
 
 #### **Mid-Echo Shriek Nerveshatter**  
@@ -133,7 +129,7 @@ A vast collection of recorded acoustic torture sessions, each catalogued by emot
 ### Primary Objectives
 
 #### **The Great Resonance**
-The Cult's ultimate goal is to synchronize every transformed being in Aquabyssos into a single, universe-shattering scream that will awaken the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] and bring about what they call "The Silent Rapture" - the end of individual consciousness.
+The Cult's ultimate goal is to synchronize every transformed being in Aquabyssos into a single, universe-shattering scream that will awaken the [[Aquabyssos World Overview]] and bring about what they call "The Silent Rapture" - the end of individual consciousness.
 
 #### **Societal Breakdown**
 Through terrorism and psychological warfare, the Cult seeks to destroy all social institutions in Aquabyssos, believing that only in complete chaos can their message of transcendence through suffering be properly heard.
@@ -162,25 +158,25 @@ Through carefully crafted acoustic environments, the Cult weakens their enemies'
 
 ### Absolute Enemies
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Active Warfare
-The government considers the Cult the greatest internal threat to Aquabyssos. Special anti-acoustic police units have been created specifically to combat Cult activities, and harboring Cult members is punishable by immediate transformation to [[02_Worldbuilding/Lore/Aquabyssos World Overview]] exile.
+The government considers the Cult the greatest internal threat to Aquabyssos. Special anti-acoustic police units have been created specifically to combat Cult activities, and harboring Cult members is punishable by immediate transformation to [[Aquabyssos World Overview]] exile.
 
-#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+#### [[Order of the Drowned Star|Order of the Drowned Star]]
 **Relationship**: Irreconcilable Opposition
 The Order's focus on celestial harmony directly conflicts with the Cult's chaotic noise philosophy. Order knights wear special acoustic protection when operating in areas of known Cult activity.
 
-#### [[02_Worldbuilding/Groups/Merchant's Covenant]]
+#### [[Merchant's Covenant]]
 **Relationship**: Economic War
 The Cult's attacks disrupt trade and communication networks that the Covenant depends on. The Covenant has placed substantial bounties on known Cult leaders and actively shares intelligence with law enforcement.
 
 ### Strange Alliances
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Tactical Cooperation  
 While the Deep Dreamers find the Cult's methods distasteful, they sometimes cooperate on attacks against surface-sympathetic targets. Both groups want to accelerate the transformation of Aquabyssos, though for different reasons.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[Aquabyssos World Overview]]
 **Relationship**: Mutual Recognition
 The Void Touched are among the few who can survive direct exposure to the Cult's most powerful acoustic weapons. Some Void Touched seek out the Cult's transformative experiences, while some Cult members see the Void Touched as examples of successful transcendence.
 
@@ -250,45 +246,45 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]  
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[Aquabyssos World Overview]]
+- [[Order of the Drowned Star|Order of the Drowned Star]]
+- [[Merchant's Covenant]]  
+- [[Aquabyssos World Overview]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Places/The Resonance Cathedral]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[The Resonance Cathedral]]
+- [[Aquabyssos World Overview]]
 - [[Acoustic Dead Zones]]
-- [[02_Worldbuilding/Groups/Mobile Terror Platform]]
+- [[Mobile Terror Platform]]
 
 **Historical Events**:
-- [[02_Worldbuilding/Groups/The Silence Experiments]]
-- [[02_Worldbuilding/Groups/The Great Cacophony]]
-- [[02_Worldbuilding/Groups/The Echo Succession]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[The Silence Experiments]]
+- [[The Great Cacophony]]
+- [[The Echo Succession]]
+- [[Aquabyssos World Overview]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Groups/Echo-Prime Cacophony Voidlungs]]
-- [[02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
+- [[Echo-Prime Cacophony Voidlungs]]
+- [[Doctor Harmony Whisperfall]]
 - [[Bass-Echo Rumble Deepshake]]
 - [[Mid-Echo Shriek Nerveshatter]]
 - [[Treble-Echo Whistle Brainsplitter]]
-- [[02_Worldbuilding/Groups/Void-Echo Silence Deafmake]]
+- [[Void-Echo Silence Deafmake]]
 - [[Chaos-Echo Discord Mindmelter]]
 
 **Specialized Equipment**:
-- [[02_Worldbuilding/Groups/Scream Crystals]]
+- [[Scream Crystals]]
 - [[Resonance Bombs]]
-- [[02_Worldbuilding/Groups/Frequency Weapons]]
-- [[02_Worldbuilding/Groups/Living Amplifiers]]
-- [[02_Worldbuilding/Groups/The Scream Archives]]
+- [[Frequency Weapons]]
+- [[Living Amplifiers]]
+- [[The Scream Archives]]
 
 **Cult Techniques**:
-- [[02_Worldbuilding/Groups/Acoustic Infection]]
-- [[02_Worldbuilding/Groups/The Great Resonance]]
-- [[02_Worldbuilding/Groups/Resonance Cascade Attack]]
+- [[Acoustic Infection]]
+- [[The Great Resonance]]
+- [[Resonance Cascade Attack]]
 - [[Silent Zone Creation]]
-- [[02_Worldbuilding/Groups/Harmonic Mind Contro]]
+- [[Harmonic Mind Contro]]
 
 ## Player-Facing Summary
 

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 
@@ -45,3 +42,7 @@ Legends speak of Citizens' Budget Review as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,35 +17,32 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png]]
 
 
 # The Bone Palace of Sorrows
+
 *Where Death Holds Court and Eternity Begins*
 
 ## Overview
-The Bone Palace serves as the seat of [[02_Worldbuilding/Groups/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
+
+The Bone Palace serves as the seat of [[12_Research/D&D_References/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Carrion Court]]** - Primary occupants and ruling undead nobility
-- **[[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler of the palace
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Primary opposition seeking to consecrate the palace
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Business partnerships in necromantic trade
-- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Source of corpses and dark materials
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Infiltration target for vampire nobles
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
-- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
+
+- **[[12_Research/D&D_References/The Carrion Court]]** - Primary occupants and ruling undead nobility
+- **[[12_Research/D&D_References/Lich-Queen Morwyn the Deathless]]** - Supreme ruler of the palace
+- **[[12_Research/D&D_Statblocks/Crystal Wardens]]** - Primary opposition seeking to consecrate the palace
+- **[[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
+- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Business partnerships in necromantic trade
+- **[[12_Research/D&D_References/The Shadow Markets New]]** - Source of corpses and dark materials
+- **[[12_Research/D&D_References/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
+- **[[12_Research/D&D_References/Port Meridian]]** - Infiltration target for vampire nobles
+- **[[12_Research/D&D_References/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
+- **[[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
+- **[[12_Research/D&D_References/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
 
 ## History
 
@@ -94,11 +93,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[12_Research/D&D_References/The Bone Palace of Sorrows]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

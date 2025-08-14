@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Chancellor Prism Valdrick]]
+- [[Lord Chancellor Prism Valdrick]]
 
 <!-- enriched: true -->

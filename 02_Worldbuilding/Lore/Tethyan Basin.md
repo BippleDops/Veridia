@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
 
 ## Player-Facing Summary
 

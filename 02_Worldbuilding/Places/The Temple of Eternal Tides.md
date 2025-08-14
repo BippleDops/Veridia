@@ -3,6 +3,9 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
+- aerial
+- aquatic
 - both
 - complete
 - content/location
@@ -15,35 +18,32 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-temple-of-eternal-tides-the-temple-of-eternal-tides.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-temple-of-eternal-tides-the-temple-of-eternal-tides.svg]]
 
 
 # The Temple of Eternal Tides
+
 *Where Sea and Sky Meet in Sacred Harmony*
 
 ## Overview
-The Temple of Eternal Tides serves as the primary religious center for ocean worship, conducting rituals that maintain the balance between surface and underwater realms. The temple houses diplomatic missions between surface kingdoms and [[02_Worldbuilding/Places/Abyssos Prime]], making it a crucial political and spiritual nexus.
+
+The Temple of Eternal Tides serves as the primary religious center for ocean worship, conducting rituals that maintain the balance between surface and underwater realms. The temple houses diplomatic missions between surface kingdoms and [[12_Research/D&D_References/Abyssos Prime]], making it a crucial political and spiritual nexus.
 
 ## Key Connections
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Senior clergy and spiritual leader
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Diplomatic and religious exchange programs
-- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Theological opposition and ideological conflict
-- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Primary enemy and corruption threat
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Allied military order providing temple protection
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval protection and strategic alliance
-- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Blesses trade vessels and commercial ventures
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Regular pilgrim with ocean affinity
-- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Active threat to temple shipping
-- **[[02_Worldbuilding/Places/Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]** - Theological cooperation and shared missions
-- **[[02_Worldbuilding/People/Brother Marcus Steelbane]]** - Missionary outreach coordinator
-- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient entity requiring careful theological balance
+
+- **[[12_Research/D&D_Statblocks/High Priestess Celeste Dawnbringer]]** - Senior clergy and spiritual leader
+- **[[12_Research/D&D_References/Abyssos Prime]]** - Diplomatic and religious exchange programs
+- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Theological opposition and ideological conflict
+- **[[12_Research/D&D_Statblocks/High Priest Dagon Deepcaller]]** - Primary enemy and corruption threat
+- **[[12_Research/D&D_Statblocks/Crystal Wardens]]** - Allied military order providing temple protection
+- **[[12_Research/D&D_References/Admiral Cassandra Stormwind]]** - Naval protection and strategic alliance
+- **[[12_Research/D&D_References/The Floating Markets of Nereidios]]** - Blesses trade vessels and commercial ventures
+- **[[12_Research/D&D_References/Prince Caspian Duskwater]]** - Regular pilgrim with ocean affinity
+- **[[12_Research/D&D_References/The Crimson Fleet]]** - Active threat to temple shipping
+- **[[Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]** - Theological cooperation and shared missions
+- **[[12_Research/D&D_References/Brother Marcus Steelbane]]** - Missionary outreach coordinator
+- **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient entity requiring careful theological balance
 
 ## History
 
@@ -94,11 +94,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Temple of Eternal Tides]]
+- [[12_Research/D&D_References/The Temple of Eternal Tides]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

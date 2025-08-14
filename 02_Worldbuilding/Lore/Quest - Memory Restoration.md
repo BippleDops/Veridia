@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - aquabyssos
 - complete
 - content/faction
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.223736+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
+- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[12_Research/D&D_References/The Parliament of Nobody]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

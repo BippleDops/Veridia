@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Behavior Guidelines]]
+- [[12_Research/D&D_References/Shadow Behavior Guidelines]]
 
 ## Player-Facing Summary
 

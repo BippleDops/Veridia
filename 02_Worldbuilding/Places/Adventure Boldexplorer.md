@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-adventure-boldexplorer-adventure-boldexplorer.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-adventure-boldexplorer-adventure-boldexplorer.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[12_Research/D&D_References/Innkeeper Marina Dreamwhisper]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[12_Research/D&D_References/Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 

@@ -14,13 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg]]
 
 
 # Pythia Deepgazer, the Tide Oracle
@@ -104,19 +99,19 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/The Waking Prophets]]** - Her order of seers and future-whisperers who interpret omens across both realms
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - She serves as his primary advisor, though her cryptic prophecies often frustrate him
-- **[[02_Worldbuilding/People/The Leviathan Prophets]]** - Ancient entities from the deep trenches who share visions with her in exchange for mortal insights
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]** - Theological ally who helps interpret the spiritual meaning of her visions
+- **[[The Waking Prophets]]** - Her order of seers and future-whisperers who interpret omens across both realms
+- **[[Emperor Thalassius the Wise]]** - She serves as his primary advisor, though her cryptic prophecies often frustrate him
+- **[[The Leviathan Prophets]]** - Ancient entities from the deep trenches who share visions with her in exchange for mortal insights
+- **[[High Priestess Scylla Deepdream]]** - Theological ally who helps interpret the spiritual meaning of her visions
 
 **Enemies:**
-- **[[02_Worldbuilding/People/Shadow Parliament]]** - They fear her ability to see through their schemes and expose their plans
-- **[[02_Worldbuilding/People/The Biomancers]]** - Her prophecies have repeatedly warned against their experiments
+- **[[Shadow Parliament]]** - They fear her ability to see through their schemes and expose their plans
+- **[[The Biomancers]]** - Her prophecies have repeatedly warned against their experiments
 - **Temporal Cultists** - Fanatics who believe the future should remain hidden from mortal eyes
 
 **Complicated:**
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - She has foreseen multiple potential futures for him, some glorious, others tragic
-- **[[02_Worldbuilding/People/The Party]]** - Her prophecies about them are contradictory and ever-shifting, suggesting they exist at a nexus of possibility
+- **[[Prince Caspian Duskwater]]** - She has foreseen multiple potential futures for him, some glorious, others tragic
+- **[[The Party]]** - Her prophecies about them are contradictory and ever-shifting, suggesting they exist at a nexus of possibility
 
 ## Quest Hooks
 
@@ -134,7 +129,7 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 
 - **The Bound Future**: Pythia's power comes from a pact with a being that claims to be from the end of time itself. She fears what payment it will eventually demand.
 - **The Last Vision**: She has seen the ultimate fate of both Aethermoor and Aquabyssos—a future so terrible she has never spoken of it to anyone.
-- **Mortal Past**: Before her transformation into an oracle, she was [[02_Worldbuilding/People/Emperor Thalassius the Wise]]'s daughter, Princess Merina. She faked her death to escape court politics and embrace her prophetic calling.
+- **Mortal Past**: Before her transformation into an oracle, she was [[Emperor Thalassius the Wise]]'s daughter, Princess Merina. She faked her death to escape court politics and embrace her prophetic calling.
 - **The Ripple Effect**: Every prophecy she speaks changes the future slightly, and she's aware that some of her well-meaning warnings have caused the very disasters she tried to prevent.
 - **The Rival Seer**: There is another oracle—one who serves shadow and entropy—who can see the same futures she does and works to ensure the darkest prophecies come to pass.
 
@@ -184,15 +179,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Oracle]]
+- [[Oracle]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[02_Worldbuilding/People/The Leviathan Prophets]]
-- [[02_Worldbuilding/People/The Waking Prophets]]
+- [[Emperor Thalassius the Wise]]
+- [[High Priestess Scylla Deepdream]]
+- [[Prince Caspian Duskwater]]
+- [[The Leviathan Prophets]]
+- [[The Waking Prophets]]

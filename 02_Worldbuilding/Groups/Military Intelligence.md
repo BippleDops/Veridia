@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-military-intelligence-military-intelligence.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-military-intelligence-military-intelligence.svg]]
 
 
 ## Overview
@@ -61,12 +57,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Military Intelligence]]
+- [[Military Intelligence]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Merchant's Covenant]]
+- [[Mad Oracle Thessaly]]

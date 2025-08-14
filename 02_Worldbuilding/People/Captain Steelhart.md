@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-steelhart-captain-steelhart.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-steelhart-captain-steelhart.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

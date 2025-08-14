@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aethermoor
 - complete
 - content/faction
@@ -13,9 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.195319+00:00'
 world: Aethermoor
 ---
-
-
-
 
 
 ## Overview
@@ -41,3 +39,7 @@ Legends speak of Intel Master Raven Shadowsight 2 as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

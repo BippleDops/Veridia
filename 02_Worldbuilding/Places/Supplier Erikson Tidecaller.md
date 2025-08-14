@@ -8,7 +8,7 @@ created_by: auto-stub
 danger_level: Low
 faction: Independent Merchant
 influence: Moderate
-location: '[[02_Worldbuilding/Places/Harbor District]] - Tidecaller''s Emporium'
+location: '[[Harbor District]] - Tidecaller''s Emporium'
 obsidianUIMode: preview
 race: Triton
 status: complete
@@ -32,14 +32,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg]]
 
 
 # Supplier Erikson Tidecaller
@@ -50,7 +44,7 @@ world: Aquabyssos
 
 ## Overview
 
-**Erikson Tidecaller** operates one of [[02_Worldbuilding/Places/Abyssos Prime]]'s most respected specialty supply businesses, **Tidecaller's Emporium**, where he provides magical components, nautical equipment, and rare materials to adventurers, researchers, and naval personnel. His expertise in tidal magic and deep-sea salvage has made him an essential resource for anyone needing specialized gear for underwater operations or magical research.
+**Erikson Tidecaller** operates one of [[Abyssos Prime]]'s most respected specialty supply businesses, **Tidecaller's Emporium**, where he provides magical components, nautical equipment, and rare materials to adventurers, researchers, and naval personnel. His expertise in tidal magic and deep-sea salvage has made him an essential resource for anyone needing specialized gear for underwater operations or magical research.
 
 With over four decades of experience in both practical seamanship and theoretical magic, Erikson has developed unique techniques for harvesting and preserving magical materials from the ocean's depths. His reputation for reliability and quality has earned him loyal customers ranging from independent adventurers to government agencies requiring specialized equipment for sensitive operations.
 
@@ -68,7 +62,7 @@ With over four decades of experience in both practical seamanship and theoretica
 ## Business Operations
 
 ### Tidecaller's Emporium
-**Location**: Three-story building in [[02_Worldbuilding/Places/Harbor District]] with underwater storage vaults  
+**Location**: Three-story building in [[Harbor District]] with underwater storage vaults  
 **Specialties**: Magical components, nautical equipment, rare materials, custom modifications  
 **Services**: Equipment consultation, magical item identification, custom crafting, emergency supplies  
 **Hours**: Dawn to dusk, emergency availability for established customers  
@@ -112,7 +106,7 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 **Suppliers**: Deep-sea divers, magical creature hunters, reef farmers, crystal miners  
 **Customers**: Adventuring parties, naval officers, magical researchers, government agencies  
 **Competitors**: Other specialty merchants who respect his expertise and refer difficult customers  
-**Allies**: [[02_Worldbuilding/People/Harbor Master Luna Freedrift]], [[02_Worldbuilding/Places/Guildmaster Harwick]], various crafting specialists  
+**Allies**: [[Harbor Master Luna Freedrift]], [[Guildmaster Harwick]], various crafting specialists  
 
 ---
 
@@ -122,7 +116,7 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Pressure's End]]
 
 
 ## History
@@ -168,8 +162,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
+- [[Supplier Erikson Tidecaller]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Abyssos Prime]]
+- [[Harbor Master Luna Freedrift]]

@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/gloves-of-thievery.webp#right)
 
 
-These gloves are [[/03_Mechanics/CLI/conditions#Invisible|invisible]] while worn. While wearing them, you gain a +5 bonus to Dexterity ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) checks and Dexterity checks made to pick locks.
+These gloves are [[conditions#Invisible|invisible]] while worn. While wearing them, you gain a +5 bonus to Dexterity ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) checks and Dexterity checks made to pick locks.
 
 *Source: Dungeon Master's Guide (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

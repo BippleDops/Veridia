@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg]]
 
 
 # The Leviathan Prophets
@@ -112,7 +108,7 @@ The Leviathan Prophets work well as mysterious quest givers whose cryptic guidan
 
 ## Connections
 
-- [[02_Worldbuilding/People/Oracle]]
+- [[Oracle]]
 
 
 ## Appearance
@@ -154,6 +150,6 @@ Legends speak of The Leviathan Prophets as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Leviathan Prophets]]
+- [[The Leviathan Prophets]]
 
 <!-- enriched: true -->

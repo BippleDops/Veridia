@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-While you're in an area of [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]], you can cast [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]] on yourself without expending a spell slot.
+While you're in an area of [[dim-light-xphb|Dim Light]] or [[darkness-xphb|Darkness]], you can cast [[invisibility-xphb|Invisibility]] on yourself without expending a spell slot.
 
 ## Player-Facing Summary
 

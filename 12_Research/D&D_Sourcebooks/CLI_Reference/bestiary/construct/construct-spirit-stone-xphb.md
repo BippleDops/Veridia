@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-stone-xphb-construct-spirit-stone-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/construct-spirit-stone-xphb|Construct Spirit (Stone)]]
+# [[construct-spirit-stone-xphb|Construct Spirit (Stone)]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -43,16 +43,16 @@ world: Both
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "traits":
   - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
       \ can target it with magical energy if the spirit can see it. Wisdom Saving\
       \ Throw: DC equals your spell save DC, the target. Failure: Until the start\
-      \ of its next turn, the target can't make [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]],\
+      \ of its next turn, the target can't make [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and its Speed is halved."
     "name": "Stony Lethargy"
 "actions":

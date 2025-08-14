@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[12_Research/D&D_References/Marina Red Tide Coralheart - Aquabyssos]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[12_Research/D&D_References/Marina Red Tide Coralheart - Aquabyssos]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

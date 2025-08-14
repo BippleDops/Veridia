@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-coral-reef-sanctuaries-coral-reef-sanctuaries.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-reef-sanctuaries-coral-reef-sanctuaries.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Reef Sanctuaries]]
+- [[12_Research/D&D_References/Coral Reef Sanctuaries]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[12_Research/D&D_References/Merged Reality Zones]]

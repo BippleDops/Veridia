@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
+- [[Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[12_Research/D&D_References/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 

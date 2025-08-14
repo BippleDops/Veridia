@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/armored-saber-toothed-tiger-cos|Armored Saber-Toothed Tiger]]
+# [[armored-saber-toothed-tiger-cos|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -36,7 +36,7 @@ world: Both
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "17"
-"ac_class": "[[/03_Mechanics/CLI/items/half-plate-armor-xphb|half plate armor]]"
+"ac_class": "[[half-plate-armor-xphb|half plate armor]]"
 "hp": !!int "84"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "2"
@@ -49,21 +49,21 @@ world: Both
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The tiger has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+  - "desc": "The tiger has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 14 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]].\
-      \ If the target is [[/03_Mechanics/CLI/conditions#Prone|prone]], the tiger\
+      \ DC 14 Strength saving throw or be knocked [[conditions#Prone|prone]].\
+      \ If the target is [[conditions#Prone|prone]], the tiger\
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":

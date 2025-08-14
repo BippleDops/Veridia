@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-star-spawn-xphb-aberrant-spirit-star-spawn-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-star-spawn-xphb|Aberrant Spirit (Star Spawn)]]
+# [[aberrant-spirit-star-spawn-xphb|Aberrant Spirit (Star Spawn)]]
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock
@@ -47,7 +47,7 @@ world: Both
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
-      \ energy if it doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ energy if it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. Wisdom Saving Throw: DC equals your spell save DC, each creature\
       \ (other than you) within 5 feet of the spirit. Failure: 2d6 Psychic damage."
     "name": "Whispering Aura"

@@ -14,28 +14,25 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-aether-crystal-aether-crystal.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-aether-crystal-aether-crystal.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aetheron]]
+- [[Aetheron]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[Crystal Wardens]]
+- [[Shadow Surgeons Collective]]
+- [[Aetheron]]
+- [[Professor Aldric Crystalweaver]]
+- [[Queen Seraphina Lumengarde]]
+- [[Sorrow-Root Nightbloom]]
+- [[Azure Citadel]]
+- [[Aether Crystals]]
 
 ## Player-Facing Summary
 

@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]]
 
 
 ## Overview

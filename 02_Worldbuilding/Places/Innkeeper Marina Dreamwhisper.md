@@ -15,37 +15,31 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]
 
 
 # The Dreamwhisper Inn
 *Where Weary Souls Find Perfect Rest*
 
 > *"Every traveler carries stories in their hearts and weariness in their bones. Here, we provide sanctuary for both, offering not just beds for the body, but healing for the spirit through the gift of true dreams."*
-> — [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]], Keeper of Restful Slumber
+> — [[Innkeeper Marina Dreamwhisper]], Keeper of Restful Slumber
 
 ## Overview
 
-The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers seeking more than mere accommodation—they find genuine restoration of body and spirit. Located in the bustling [[02_Worldbuilding/Places/Harbor District]], this three-story establishment offers a peaceful refuge from the constant activity of maritime commerce, where [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]] and her dedicated staff provide unparalleled hospitality enhanced by her unique gift for dream weaving. More than just an inn, the Dreamwhisper has become a legendary destination where exhausted travelers experience the most restorative sleep of their lives, awakening refreshed and often with newfound clarity about their journeys.
+The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers seeking more than mere accommodation—they find genuine restoration of body and spirit. Located in the bustling [[Harbor District]], this three-story establishment offers a peaceful refuge from the constant activity of maritime commerce, where [[Innkeeper Marina Dreamwhisper]] and her dedicated staff provide unparalleled hospitality enhanced by her unique gift for dream weaving. More than just an inn, the Dreamwhisper has become a legendary destination where exhausted travelers experience the most restorative sleep of their lives, awakening refreshed and often with newfound clarity about their journeys.
 
 ## History and Foundation
 
 ### The Modest Beginning
 **Founding**: 40 years ago as "The Sailor's Rest"  
-**Original Owner**: [[02_Worldbuilding/People/Captain Cornelius Deepwater]], retired sea captain  
+**Original Owner**: [[Captain Cornelius Deepwater]], retired sea captain  
 **Purpose**: Simple boarding house for visiting sailors  
 **Challenge**: Competition from larger, cheaper establishments  
 **Reputation**: Known for clean rooms and honest prices
 
 ### Marina's Arrival
-**Transformation**: 25 years ago, [[02_Worldbuilding/Places/Marina Dreamwhisper]] purchased the struggling inn  
+**Transformation**: 25 years ago, [[Marina Dreamwhisper]] purchased the struggling inn  
 **Innovation**: Introduced dream-enhancement services using her natural gifts  
 **Renovation**: Complete rebuild with focus on comfort and tranquility  
 **Name Change**: Renamed to reflect new dream-focused mission  
@@ -79,7 +73,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 #### The Entrance Hall
 **Design**: Grand lobby with flowing water features and soft bio-luminescent lighting  
 **Atmosphere**: Immediately calming environment reducing travel stress  
-**Reception**: Elegant coral desk where [[02_Worldbuilding/Places/Marina Dreamwhisper]] personally greets guests  
+**Reception**: Elegant coral desk where [[Marina Dreamwhisper]] personally greets guests  
 **Seating**: Comfortable areas for arrival relaxation and casual socializing  
 **Art**: Gallery of dream-inspired artwork from grateful guests
 
@@ -146,7 +140,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 #### The Common Dream Hall
 **Innovation**: Shared dreaming experience for compatible guests  
 **Purpose**: Group dream sessions for families, adventuring parties, or delegates  
-**Facilitation**: [[02_Worldbuilding/Places/Marina Dreamwhisper]] personally conducts shared dream sessions  
+**Facilitation**: [[Marina Dreamwhisper]] personally conducts shared dream sessions  
 **Bonding**: Builds deeper connections between participants  
 **Problem-Solving**: Collaborative dream work for complex challenges
 
@@ -161,7 +155,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 #### The Dream Kitchen
 **Philosophy**: Cuisine designed to promote restful sleep and positive dreams  
-**Chef**: [[02_Worldbuilding/Places/Culinary Dreamweaver Sage Gentlespice]], expert in sleep-promoting foods  
+**Chef**: [[Culinary Dreamweaver Sage Gentlespice]], expert in sleep-promoting foods  
 **Menu**: Specialized dishes enhancing different types of dream experiences  
 **Quality**: Only finest ingredients known to support healthy sleep  
 **Innovation**: Continuously developing new dream-supporting recipes
@@ -276,21 +270,21 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 ### Leadership and Management
 
-#### [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+#### [[Innkeeper Marina Dreamwhisper]]
 **Background**: 30+ years of hospitality experience, natural dream talents  
 **Philosophy**: "Rest is not luxury—it is necessity for the soul"  
 **Innovation**: Pioneer in combining hospitality with dream enhancement  
 **Reputation**: Recognized as most gifted dream-keeper in known world  
 **Dedication**: Personally involved in every guest's experience
 
-#### Assistant Manager [[02_Worldbuilding/Places/Current Peacefulflow]]
+#### Assistant Manager [[Current Peacefulflow]]
 **Role**: Operations management and staff coordination  
 **Experience**: 15 years working alongside Marina, trained in dream basics  
 **Specialization**: Logistics of running complex hospitality operation  
 **Leadership**: Supervises day-to-day operations when Marina focuses on dream work  
 **Innovation**: Developed many of the inn's operational procedures
 
-#### Guest Relations Coordinator [[02_Worldbuilding/Places/Tide Welcomeheart]]
+#### Guest Relations Coordinator [[Tide Welcomeheart]]
 **Function**: Primary liaison between guests and specialized services  
 **Training**: Expert in cultural customs and hospitality traditions  
 **Language**: Fluent in dozen languages for international guests  
@@ -299,28 +293,28 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 ### Specialized Staff
 
-#### Dream Assistant [[02_Worldbuilding/Places/Echo Gentleguide]]
+#### Dream Assistant [[Echo Gentleguide]]
 **Training**: Apprentice dream-keeper studying under Marina's guidance  
 **Role**: Assists with dream preparation and basic dream enhancement  
 **Talent**: Natural sensitivity to dream states and emotions  
 **Development**: Learning advanced dream techniques through practical experience  
 **Future**: Being prepared to eventually expand dream services
 
-#### [[02_Worldbuilding/Places/Culinary Dreamweaver Sage Gentlespice]]
+#### [[Culinary Dreamweaver Sage Gentlespice]]
 **Expertise**: Creating cuisine that promotes restorative sleep and positive dreams  
 **Innovation**: Recipes incorporating dream-enhancing herbs and preparation methods  
 **Knowledge**: Deep understanding of how different foods affect sleep and dreams  
 **Customization**: Adapting meals for guests' specific dream goals  
 **Research**: Continuously developing new approaches to dream-supporting nutrition
 
-#### Comfort Specialist [[02_Worldbuilding/Places/Wave Soothingtouch]]
+#### Comfort Specialist [[Wave Soothingtouch]]
 **Services**: Massage, relaxation treatments, and pre-sleep preparation  
 **Training**: Professional therapeutic bodywork focused on promoting rest  
 **Intuition**: Natural ability to sense physical tension and emotional stress  
 **Healing**: Helps guests release daily stress to prepare for restorative dreams  
 **Innovation**: Techniques combining physical therapy with dream preparation
 
-#### Night Guardian [[02_Worldbuilding/Places/Deep Watchfulrest]]
+#### Night Guardian [[Deep Watchfulrest]]
 **Responsibility**: Ensuring guest safety and comfort during sleep hours  
 **Sensitivity**: Trained to detect sleep disturbances or nightmare situations  
 **Response**: Qualified to provide immediate assistance during sleep difficulties  
@@ -329,14 +323,14 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 ### Service Staff
 
-#### Chambermaid [[02_Worldbuilding/Places/Fresh Cleanwave]]
+#### Chambermaid [[Fresh Cleanwave]]
 **Specialization**: Maintaining rooms for optimal rest and dream experiences  
 **Knowledge**: Understanding of environmental factors affecting sleep quality  
 **Attention**: Meticulous care in preparing rooms for different types of guests  
 **Intuition**: Ability to sense what each room needs for maximum comfort  
 **Pride**: Personal satisfaction in creating perfect rest environments
 
-#### Concierge [[02_Worldbuilding/Places/Guide Helpfulcurrent]]
+#### Concierge [[Guide Helpfulcurrent]]
 **Services**: Assisting guests with district navigation and activity planning  
 **Network**: Extensive connections throughout Harbor District  
 **Knowledge**: Expert on local attractions, services, and cultural customs  
@@ -345,7 +339,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 #### Kitchen Staff
 **Team**: 6 specialized cooks trained in dream-supporting cuisine  
-**Coordination**: Working under [[02_Worldbuilding/Places/Sage Gentlespice]]'s guidance  
+**Coordination**: Working under [[Sage Gentlespice]]'s guidance  
 **Quality**: Maintaining highest standards for all food preparation  
 **Innovation**: Participating in development of new dream-enhancement recipes  
 **Service**: Providing meals tailored to individual guest needs and schedules
@@ -363,21 +357,21 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 #### Day Preparation (10:00 AM - 2:00 PM)
 **Activities**: Room maintenance, preparation for new arrivals  
-**Planning**: [[02_Worldbuilding/Places/Marina Dreamwhisper]] reviews incoming guests and their needs  
+**Planning**: [[Marina Dreamwhisper]] reviews incoming guests and their needs  
 **Services**: Concierge assistance for departing and day-active guests  
 **Maintenance**: Deep cleaning and preparation of rooms for optimal rest  
 **Innovation**: Staff training and development of new hospitality techniques
 
 #### Evening Welcome (2:00 PM - 8:00 PM)
 **Arrivals**: Primary check-in period for new guests  
-**Assessment**: [[02_Worldbuilding/Places/Marina Dreamwhisper]] personally greets and evaluates each guest  
+**Assessment**: [[Marina Dreamwhisper]] personally greets and evaluates each guest  
 **Orientation**: Introduction to inn services and dream enhancement options  
 **Preparation**: Initial consultation for guests interested in dream services  
 **Social**: Common areas available for guest mingling and relaxation
 
 #### Night Rest (8:00 PM - 6:00 AM)
 **Focus**: Core sleep and dream enhancement period  
-**Monitoring**: [[02_Worldbuilding/Places/Marina Dreamwhisper]] and night staff ensure optimal rest  
+**Monitoring**: [[Marina Dreamwhisper]] and night staff ensure optimal rest  
 **Services**: Dream guidance, nightmare protection, sleep assistance  
 **Emergency**: 24-hour availability for sleep-related problems  
 **Sacred**: Quiet hours with minimal disturbance and maximum rest support
@@ -392,7 +386,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 **Value**: Exceptional quality at reasonable prices
 
 #### Premium Dream Services
-**Consultation**: Personal session with [[02_Worldbuilding/Places/Marina Dreamwhisper]]  
+**Consultation**: Personal session with [[Marina Dreamwhisper]]  
 **Customization**: Dream experiences tailored to individual needs  
 **Preparation**: Specialized pre-sleep services and room configuration  
 **Monitoring**: Personal attention during sleep periods  
@@ -446,21 +440,21 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 ### Regular Patrons
 
-#### Ambassador [[02_Worldbuilding/Places/Diplomatic Deepcurrent]]
+#### Ambassador [[Diplomatic Deepcurrent]]
 **Status**: Monthly visitor during diplomatic missions  
 **Service**: Clarity dreams helping with complex negotiations  
 **Trust**: Complete confidence in inn's discretion regarding sensitive matters  
 **Success**: Credits dream insights with preventing several international conflicts  
 **Loyalty**: Refuses to stay anywhere else during Aquabyssos visits
 
-#### Captain [[02_Worldbuilding/Places/Adventure Boldexplorer]]
+#### Captain [[Adventure Boldexplorer]]
 **Profession**: Leader of renowned exploration company  
 **Needs**: Restorative dreams between dangerous expeditions  
 **Innovation**: Works with Marina to develop courage-building dream techniques  
 **Testimony**: Public advocate for dream enhancement benefits  
 **Inspiration**: Dreams often reveal new exploration opportunities
 
-#### Merchant [[02_Worldbuilding/Places/Wealthy Goldstream]]
+#### Merchant [[Wealthy Goldstream]]
 **Business**: International trader requiring business insight dreams  
 **Success**: Dream-guided decisions increased profits by 400%  
 **Investment**: Major financial supporter of inn's expansion and development  
@@ -470,13 +464,13 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 ### Historic Visits
 
 #### The Royal Prophecy
-**Visitor**: Crown Prince [[02_Worldbuilding/Places/Wisdom Futureseer]]  
+**Visitor**: Crown Prince [[Wisdom Futureseer]]  
 **Challenge**: Seeking guidance for major kingdom decision  
 **Dream**: Prophetic vision showing consequences of different policy choices  
 **Impact**: Decision based on dream prevented economic disaster  
 **Recognition**: Led to inn receiving Royal Warrant
 
-#### The Healing of [[02_Worldbuilding/Places/Warrior Scarredheart]]
+#### The Healing of [[Warrior Scarredheart]]
 **Background**: Veteran suffering from traumatic battle nightmares  
 **Treatment**: Months-long program of healing dream therapy  
 **Breakthrough**: Dreams gradually transformed trauma into wisdom  
@@ -484,14 +478,14 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 **Advocacy**: Became advocate for dream therapy for other veterans
 
 #### The Artist's Vision
-**Guest**: Renowned artist [[02_Worldbuilding/Places/Creative Visionweaver]]  
+**Guest**: Renowned artist [[Creative Visionweaver]]  
 **Challenge**: Complete creative block lasting over a year  
 **Dreams**: Series of inspiration dreams revealing new artistic direction  
 **Result**: Created masterpiece series based on dream imagery  
 **Legacy**: Dream-inspired artwork displayed throughout known world
 
 #### The Scholar's Discovery
-**Researcher**: Historical scholar [[02_Worldbuilding/Places/Knowledge Truthseeker]]  
+**Researcher**: Historical scholar [[Knowledge Truthseeker]]  
 **Problem**: Unable to solve ancient historical mystery  
 **Dream**: Revelatory dream providing missing piece of historical puzzle  
 **Discovery**: Led to major archaeological find and historical revision  
@@ -562,7 +556,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 **Resolution**: Exposing perpetrator while healing affected guests
 
 #### The Missing Innkeeper
-**Crisis**: [[02_Worldbuilding/Places/Marina Dreamwhisper]] disappears during peak season  
+**Crisis**: [[Marina Dreamwhisper]] disappears during peak season  
 **Investigation**: Searching for clues while maintaining inn operations  
 **Complications**: Dreams become chaotic without Marina's guidance  
 **Suspects**: Business rivals, magical kidnappers, voluntary disappearance  
@@ -662,7 +656,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 #### The Apprentice's Trial
 **Level**: 2-6  
-**Story**: [[02_Worldbuilding/Places/Echo Gentleguide]] faces final test to become full dream-keeper  
+**Story**: [[Echo Gentleguide]] faces final test to become full dream-keeper  
 **Challenge**: Helping apprentice overcome personal fears and limitations  
 **Learning**: Characters may learn basic dream enhancement techniques  
 **Community**: Building relationships within inn's extended family  
@@ -696,35 +690,35 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Harbor District]]
+### [[Harbor District]]
 **Integration**: Inn serves as rest haven within busy commercial district  
 **Services**: Providing accommodation for visiting merchants and travelers  
 **Community**: Contributing to district's reputation for hospitality  
 **Economy**: Significant employer and contributor to local economy  
 **Information**: Guests often bring news and intelligence from distant places
 
-### [[02_Worldbuilding/Places/The Neutral Ground]]
+### [[The Neutral Ground]]
 **Referrals**: Diplomatic guests often recommended to inn for discretion  
 **Services**: Dream enhancement for negotiation clarity and stress relief  
 **Neutrality**: Inn's neutral stance supports diplomatic peace  
 **Consultation**: Marina occasionally consulted on conflict resolution through dreams  
 **Reputation**: Inn's success enhances Neutral Ground's hospitality reputation
 
-### [[02_Worldbuilding/Places/Memory Farmers]]
+### [[Memory Farmers]]
 **Collaboration**: Shared interest in mental and spiritual experiences  
 **Research**: Joint studies on relationship between dreams and memories  
 **Referrals**: Cross-referrals for specialized services  
 **Ethics**: Developing standards for mental privacy and consent  
 **Innovation**: Combined approaches to healing and personal growth
 
-### [[02_Worldbuilding/Places/Cultural Districts]]
+### [[Cultural Districts]]
 **Diversity**: Accommodating guests from many different cultural backgrounds  
 **Customs**: Adapting services for various cultural sleep and spiritual traditions  
 **Exchange**: Facilitating cultural understanding through shared dream experiences  
 **Learning**: Staff continuously learning about new cultural approaches to dreams  
 **Bridge**: Inn serves as meeting ground for different cultural communities
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[Parliament of Echoes]]
 **Discretion**: Providing private accommodation for visiting political figures  
 **Clarity**: Dream services helping politicians make difficult decisions  
 **Intelligence**: Carefully guarded source of information about political developments  
@@ -734,7 +728,7 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Dream Network
-> [[02_Worldbuilding/Places/Marina Dreamwhisper]] is unknowingly part of an ancient network of dream-keepers connected through their shared gift. When she enhances guests' dreams, she's actually tapping into a vast network of sleeping minds across multiple realms. This network sometimes allows her to access knowledge and insights from distant places and times, but it also means that powerful entities who control parts of the network can sometimes influence her guests' dreams. Marina senses something larger at work but hasn't discovered the true scope of what she's connected to.
+> [[Marina Dreamwhisper]] is unknowingly part of an ancient network of dream-keepers connected through their shared gift. When she enhances guests' dreams, she's actually tapping into a vast network of sleeping minds across multiple realms. This network sometimes allows her to access knowledge and insights from distant places and times, but it also means that powerful entities who control parts of the network can sometimes influence her guests' dreams. Marina senses something larger at work but hasn't discovered the true scope of what she's connected to.
 
 > [!secret] DM Secret - The Prophetic Curse
 > Marina's ability to facilitate prophetic dreams comes with a terrible cost: she herself can never experience prophetic dreams about her own life. This "prophet's blindness" means she cannot foresee dangers to herself, her inn, or her loved ones. She's lost several important people in her life because she couldn't see disasters coming, and this inability to protect those she cares about drives her to help others through their dreams.
@@ -745,27 +739,27 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/The Neutral Ground]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Cultural Districts]]
+- [[Harbor District]]
+- [[The Neutral Ground]]
+- [[Memory Farmers]]
+- [[Cultural Districts]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[02_Worldbuilding/Places/Current Peacefulflow]]
-- [[02_Worldbuilding/Places/Echo Gentleguide]]
-- [[02_Worldbuilding/Places/Sage Gentlespice]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Current Peacefulflow]]
+- [[Echo Gentleguide]]
+- [[Sage Gentlespice]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Dream Enhancement Techniques]]
-- [[02_Worldbuilding/Places/Prophetic Dreams]]
-- [[02_Worldbuilding/Places/Nightmare Protection]]
-- [[02_Worldbuilding/Places/Shared Dreaming]]
+- [[Dream Enhancement Techniques]]
+- [[Prophetic Dreams]]
+- [[Nightmare Protection]]
+- [[Shared Dreaming]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/New Tethys]]
+- [[New Tethys]]
 
 ## Player-Facing Summary
 
@@ -787,7 +781,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]

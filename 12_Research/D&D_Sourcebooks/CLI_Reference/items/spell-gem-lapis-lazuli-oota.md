@@ -20,7 +20,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png)
+![[04_Resources/Assets/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png]]
 
 # Spell Gem (Lapis lazuli)
 *Wondrous item, uncommon (attunement optional)*  

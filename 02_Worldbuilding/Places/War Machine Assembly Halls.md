@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/War Machine Assembly Halls]]
+- [[12_Research/D&D_References/War Machine Assembly Halls]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[12_Research/D&D_Statblocks/Forge of War]]

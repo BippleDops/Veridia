@@ -15,12 +15,8 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Archivist Thomas Scrollkeeper]]
+- [[Master Archivist Thomas Scrollkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[Quest - The Pretender]]

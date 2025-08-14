@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown]]
+- [[12_Research/D&D_References/The Crown]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
+- [[12_Research/D&D_References/The Crown]]
 
 ## Player-Facing Summary
 

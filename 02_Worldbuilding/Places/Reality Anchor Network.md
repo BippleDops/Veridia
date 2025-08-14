@@ -18,8 +18,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg]]
 
 
 ## Overview
@@ -361,12 +360,12 @@ Each anchor station serves as both a technical marvel and a fortress, protecting
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
-- [[02_Worldbuilding/Places/Pressure Point Settlement]]
-- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
-- [[02_Worldbuilding/Lore/Cross-Realm Conspiracy Networks]]
+- [[Cross-Dimensional Transit Authority]]
+- [[Pressure Point Settlement]]
+- [[Diplomatic Protocol Center]]
+- [[Cross-Realm Conspiracy Networks]]
 - [[Border Reality Zones]]
-- [[02_Worldbuilding/Lore/Inter-Realm Council]]
+- [[Inter-Realm Council]]
 
 ## Player-Facing Summary
 
@@ -378,6 +377,6 @@ Legends speak of Reality Anchor Network as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [[Reality Anchor Network]]
 
 <!-- enriched: true -->

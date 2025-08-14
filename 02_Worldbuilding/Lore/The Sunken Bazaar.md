@@ -12,9 +12,6 @@ updated: '2025-08-13T01:18:34.608871+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -41,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[12_Research/D&D_References/Azure Citadel]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[12_Research/D&D_References/Azure Citadel]]
+- [[12_Research/D&D_References/The Gilded Shard]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

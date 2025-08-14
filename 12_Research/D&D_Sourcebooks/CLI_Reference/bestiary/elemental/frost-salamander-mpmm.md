@@ -25,18 +25,18 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-salamander-mpmm-frost-salamander-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/frost-salamander-mpmm|Frost Salamander]]
+# [[frost-salamander-mpmm|Frost Salamander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  
 
 Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
 
-Frost salamanders' aggressive appetite for any heat source leads them to attack expeditions and settlements that other predators would avoid, as they often mistake the fire of a forge or a campfire for a large, tasty meal. [[/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm|Azers]] use this predilection to hunt frost salamanders. Venturing into the Frostfell, they use large fires to lure these creatures into traps, then kill them and collect their hides and fangs for use in crafting weapons and armor.
+Frost salamanders' aggressive appetite for any heat source leads them to attack expeditions and settlements that other predators would avoid, as they often mistake the fire of a forge or a campfire for a large, tasty meal. [[azer-sentinel-xmm|Azers]] use this predilection to hunt frost salamanders. Venturing into the Frostfell, they use large fires to lure these creatures into traps, then kill them and collect their hides and fangs for use in crafting weapons and armor.
 
 Although frost salamanders can burrow their way through loose soil, they prefer to dig into ice. They roll around in piles of broken chunks of ice, allowing it to scratch their backs as they grind it down. This habit leads them to create extensive networks of ice caves, which become ever larger as they claw fresh chunks of ice from the walls of their lairs.
 
 A frost salamander that dwells in a lair for a while carves out enough space to allow a small army to camp within. Inexperienced travelers who come across these caves see them as a welcome shelter, though they are anything but. Frost salamanders greedily devour any prey foolhardy enough to try sleeping in their lairs.
 
-On rare occasions, [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost giants]] capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
+On rare occasions, [[frost-giant-xmm|frost giants]] capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
 
 ```statblock
 "name": "Frost Salamander (MPMM)"
@@ -60,7 +60,7 @@ On rare occasions, [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|frost gian
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold"

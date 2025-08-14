@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadowhaven-merchant-marine-shadowhaven-merchant-marine.svg)
 
 
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Port Sorrow Trading Company]]
+- [[Port Sorrow Trading Company]]
 
 ## Player-Facing Summary
 

@@ -21,18 +21,18 @@ world: Both
 
 On your turn, you can take one action. Choose which action to take from those below or from the special actions provided by your features. These actions are defined elsewhere in this glossary:
 
-- [[/03_Mechanics/CLI/actions#Attack|Attack]]  
-- [[/03_Mechanics/CLI/actions#Dodge|Dodge]]  
-- [[/03_Mechanics/CLI/actions#Dash|Dash]]  
-- [[/03_Mechanics/CLI/actions#Help|Help]]  
-- [[/03_Mechanics/CLI/actions#Disengage|Disengage]]  
-- [[/03_Mechanics/CLI/actions#Hide|Hide]]  
-- [[/03_Mechanics/CLI/actions#Influence|Influence]]  
-- [[/03_Mechanics/CLI/actions#Magic|Magic]]  
-- [[/03_Mechanics/CLI/actions#Ready|Ready]]  
-- [[/03_Mechanics/CLI/actions#Search|Search]]  
-- [[/03_Mechanics/CLI/actions#Study|Study]]  
-- [[/03_Mechanics/CLI/actions#Utilize|Utilize]]
+- [[actions#Attack|Attack]]  
+- [[actions#Dodge|Dodge]]  
+- [[actions#Dash|Dash]]  
+- [[actions#Help|Help]]  
+- [[actions#Disengage|Disengage]]  
+- [[actions#Hide|Hide]]  
+- [[actions#Influence|Influence]]  
+- [[actions#Magic|Magic]]  
+- [[actions#Ready|Ready]]  
+- [[actions#Search|Search]]  
+- [[actions#Study|Study]]  
+- [[actions#Utilize|Utilize]]
 
 ## Player-Facing Summary
 

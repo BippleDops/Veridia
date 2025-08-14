@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-court-manager-noble-court-manager-noble.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-court-manager-noble-court-manager-noble.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Court Manager Noble]]
+- [[12_Research/D&D_References/Court Manager Noble]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[12_Research/D&D_References/Royal Palace]]

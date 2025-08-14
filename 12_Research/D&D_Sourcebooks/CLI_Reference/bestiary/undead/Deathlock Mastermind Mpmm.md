@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mastermind-mpmm-deathlock-mastermind-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/deathlock-mastermind-mpmm|Deathlock Mastermind]]
+# [[deathlock-mastermind-mpmm|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -61,22 +61,22 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
-  - "desc": "Magical darkness doesn't impede the deathlock's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the deathlock's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The deathlock has advantage on saving throws against any effect that\
       \ turns Undead."
@@ -91,18 +91,18 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     "name": "Deathly Claw"
   - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13\
       \ (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
-      \ on a DC 16 Strength saving throw or become [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
-      \ as shadowy tendrils wrap around it for 1 minute. A [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
+      \ on a DC 16 Strength saving throw or become [[conditions#Restrained|restrained]]\
+      \ as shadowy tendrils wrap around it for 1 minute. A [[conditions#Restrained|restrained]]\
       \ target can use its action to repeat the saving throw, ending the effect on\
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
-      \ [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise self]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]],\
-      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]]\n\n1/day\
-      \ each: [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]],\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/fly-xphb|fly]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]]"
+      \ spellcasting ability (spell save DC 14):\n\nAt will: [[detect-magic-xphb|detect magic]],\
+      \ [[disguise-self-xphb|disguise self]], [[mage-armor-xphb|mage armor]],\
+      \ [[minor-illusion-xphb|minor illusion]]\n\n1/day\
+      \ each: [[darkness-xphb|darkness]], [[dimension-door-xphb|dimension door]],\
+      \ [[dispel-magic-xphb|dispel magic]], [[fly-xphb|fly]],\
+      \ [[invisibility-xphb|invisibility]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

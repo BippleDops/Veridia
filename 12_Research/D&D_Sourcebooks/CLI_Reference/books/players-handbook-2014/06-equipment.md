@@ -31,7 +31,7 @@ When you create your character, you receive equipment based on a combination of 
 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
-![[/03_Mechanics/CLI/tables/starting-equipment-starting-wealth-by-class-phb|Starting Equipment; Starting Wealth by Class]]
+![[starting-equipment-starting-wealth-by-class-phb|Starting Equipment; Starting Wealth by Class]]
 
 ## Wealth
 
@@ -53,7 +53,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c51.webp#center)
 
-![[/03_Mechanics/CLI/tables/coinage-standard-exchange-rates-phb|Coinage; Standard Exchange Rates]]
+![[coinage-standard-exchange-rates-phb|Coinage; Standard Exchange Rates]]
 
 ### Selling Treasure
 
@@ -81,7 +81,7 @@ D&D worlds are a vast tapestry made up of many different cultures, each with its
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
 
-![[/03_Mechanics/CLI/tables/armor-and-shields-armor-phb|Armor and Shields; Armor]]
+![[armor-and-shields-armor-phb|Armor and Shields; Armor]]
 
 ### Armor Proficiency
 
@@ -101,7 +101,7 @@ Heavier armor interferes with the wearer's ability to move quickly, stealthily, 
 
 ### Stealth
 
-If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks.
+If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity ([[skills#Stealth|Stealth]]) checks.
 
 ### Shields
 
@@ -188,7 +188,7 @@ This is the time it takes to put on armor. You benefit from the armor's AC only 
 
 This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-![[/03_Mechanics/CLI/tables/getting-into-and-out-of-armor-donning-and-doffing-armor-phb|Getting Into and Out of Armor; Donning and Doffing Armor]]
+![[getting-into-and-out-of-armor-donning-and-doffing-armor-phb|Getting Into and Out of Armor; Donning and Doffing Armor]]
 
 ## Weapons
 
@@ -196,7 +196,7 @@ Your class grants proficiency in certain weapons, reflecting both the class's fo
 
 The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
 
-![[/03_Mechanics/CLI/tables/weapons-phb|Weapons]]
+![[weapons-phb|Weapons]]
 
 ### Weapon Proficiency
 
@@ -282,7 +282,7 @@ You have disadvantage when you use a lance to attack a target within 5 feet of y
 
 ##### Net
 
-A Large or smaller creature hit by a net is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+A Large or smaller creature hit by a net is [[conditions#Restrained|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c55.webp#center)
 
@@ -290,7 +290,7 @@ A Large or smaller creature hit by a net is [[/03_Mechanics/CLI/conditions#Restr
 
 This section describes items that have special rules or require further explanation.
 
-![[/03_Mechanics/CLI/tables/adventuring-gear-phb|Adventuring Gear]]
+![[adventuring-gear-phb|Adventuring Gear]]
 
 ### Acid
 
@@ -310,7 +310,7 @@ An arcane focus is a special item—an orb, a crystal, a rod, a specially constr
 
 ### Ball Bearings
 
-As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[/03_Mechanics/CLI/conditions#Prone|prone]]. A creature moving through the area at half speed doesn't need to make this save.
+As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[conditions#Prone|prone]]. A creature moving through the area at half speed doesn't need to make this save.
 
 ### Block and Tackle
 
@@ -362,7 +362,7 @@ This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead
 
 ### Healer's Kit
 
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]]) check.
+This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([[skills#Medicine|Medicine]]) check.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c57.webp#center)
 
@@ -394,7 +394,7 @@ A hooded lantern casts bright light in a 30-foot radius and dim light for an add
 
 ### Lock
 
-A key is provided with the lock. Without the key, a creature proficient with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+A key is provided with the lock. Without the key, a creature proficient with [[thieves-tools-xphb|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 
 ### Magnifying Glass
 
@@ -402,7 +402,7 @@ This lens allows a closer look at small objects. It is also useful as a substitu
 
 ### Manacles
 
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [[thieves-tools-xphb|thieves' tools]] can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 ### Mess Kit
 
@@ -470,7 +470,7 @@ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim lig
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c58.webp#center)
 
-![[/03_Mechanics/CLI/tables/adventuring-gear-container-capacity-phb|Adventuring Gear; Container Capacity]]
+![[adventuring-gear-container-capacity-phb|Adventuring Gear; Container Capacity]]
 
 > [!note] Equipment Packs
 > 
@@ -523,11 +523,11 @@ Several of the most common types of musical instruments are shown on the table a
 
 ### Navigator's Tools
 
-This set of instruments is used for navigation at sea. Proficiency with [[/03_Mechanics/CLI/items/navigators-tools-xphb|navigator's tools]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+This set of instruments is used for navigation at sea. Proficiency with [[navigators-tools-xphb|navigator's tools]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 
 ### Poisoner's Kit
 
-A [[/03_Mechanics/CLI/items/poisoners-kit-xphb|poisoner's kit]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+A [[poisoners-kit-xphb|poisoner's kit]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 ### Thieves' Tools
 
@@ -535,7 +535,7 @@ This set of tools includes a small file, a set of lock picks, a small mirror mou
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c59.webp#center)
 
-![[/03_Mechanics/CLI/tables/tools-phb|Tools]]
+![[tools-phb|Tools]]
 
 ## Mounts and Vehicles
 
@@ -551,7 +551,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 
 ### Saddles
 
-A [[/03_Mechanics/CLI/items/military-saddle-xphb|military saddle]] braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[/03_Mechanics/CLI/items/exotic-saddle-xphb|exotic saddle]] is required for riding any aquatic or flying mount.
+A [[military-saddle-xphb|military saddle]] braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[exotic-saddle-xphb|exotic saddle]] is required for riding any aquatic or flying mount.
 
 ### Vehicle Proficiency
 
@@ -563,11 +563,11 @@ Keelboats and rowboats are used on lakes and rivers. If going downstream, add th
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c510.webp#center)
 
-![[/03_Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-phb|Mounts and Vehicles; Mounts and Other Animals]]
+![[mounts-and-vehicles-mounts-and-other-animals-phb|Mounts and Vehicles; Mounts and Other Animals]]
 
-![[/03_Mechanics/CLI/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-phb|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
+![[mounts-and-vehicles-tack-harness-and-drawn-vehicles-phb|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 
-![[/03_Mechanics/CLI/tables/mounts-and-vehicles-waterborne-vehicles-phb|Mounts and Vehicles; Waterborne Vehicles]]
+![[mounts-and-vehicles-waterborne-vehicles-phb|Mounts and Vehicles; Waterborne Vehicles]]
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c511.webp#center)
 
@@ -577,7 +577,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-![[/03_Mechanics/CLI/tables/trade-goods-phb|Trade Goods]]
+![[trade-goods-phb|Trade Goods]]
 
 ## Expenses
 
@@ -593,7 +593,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c512.webp#center)
 
-![[/03_Mechanics/CLI/tables/lifestyle-expenses-phb|Lifestyle Expenses]]
+![[lifestyle-expenses-phb|Lifestyle Expenses]]
 
 #### Wretched
 
@@ -629,20 +629,20 @@ The wealthier you are, the greater the chance you will be drawn into political i
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-![[/03_Mechanics/CLI/tables/food-drink-and-lodging-phb|Food, Drink, and Lodging]]
+![[food-drink-and-lodging-phb|Food, Drink, and Lodging]]
 
 > [!note] Self-Sufficiency
 > 
 > The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 > 
-> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the [[/03_Mechanics/CLI/skills#Survival|Survival]] skill lets you live at the equivalent of a comfortable lifestyle.
+> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the [[skills#Survival|Survival]] skill lets you live at the equivalent of a comfortable lifestyle.
 ^self-sufficiency
 
 ### Services
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the [[/03_Mechanics/CLI/spells/leomunds-secret-chest-xphb|Leomund's secret chest]] spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the [[leomunds-secret-chest-xphb|Leomund's secret chest]] spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
@@ -650,17 +650,17 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c513.webp#center)
 
-![[/03_Mechanics/CLI/tables/services-phb|Services]]
+![[services-phb|Services]]
 
 ### Spellcasting Services
 
 People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[/03_Mechanics/CLI/spells/cure-wounds-xphb|cure wounds]] or [[/03_Mechanics/CLI/spells/identify-xphb|identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster infested wilderness to deliver something important to a distant settlement.
+Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[cure-wounds-xphb|cure wounds]] or [[identify-xphb|identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster infested wilderness to deliver something important to a distant settlement.
 
 ## Trinkets
 
-When you make your character, you can roll once on the [[/03_Mechanics/CLI/items/trinket-xphb|Trinkets]] table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+When you make your character, you can roll once on the [[trinket-xphb|Trinkets]] table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c514.webp#center)
 

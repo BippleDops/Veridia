@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-larva-xmm-larva-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/larva-xmm|Larva]]
+# [[larva-xmm|Larva]]
 *Source: Monster Manual (2024) p. 193*  
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-unity-hopecurrent-unity-hopecurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-unity-hopecurrent-unity-hopecurrent.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Unity Hopecurrent]]
+- [[12_Research/D&D_References/Unity Hopecurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[12_Research/D&D_References/Surface Tensions]]

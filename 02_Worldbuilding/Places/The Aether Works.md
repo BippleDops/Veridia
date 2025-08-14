@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
+- aerial
 - both
 - complete
 - content/location
@@ -16,11 +18,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-aether-works-the-aether-works.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-aether-works-the-aether-works.svg]]
 
 
 ## Overview
@@ -62,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Aether Works]]
+- [[12_Research/D&D_References/The Aether Works]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[12_Research/D&D_References/Crystalhaven]]

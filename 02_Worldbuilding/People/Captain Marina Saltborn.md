@@ -1,9 +1,9 @@
 ---
-affiliation: '[[02_Worldbuilding/People/The Depth Wardens]]'
+affiliation: '[[The Depth Wardens]]'
 age: '34'
 created: '2025-08-11'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Mobile Command'
+location: '[[The Hadal Depths]] - Mobile Command'
 race: Human (Depth-Touched)
 role: Naval Captain and Depth Explorer
 status: complete
@@ -23,9 +23,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg]]
 
 
 # Captain Marina Saltborn
@@ -34,7 +32,7 @@ world: Aquabyssos
 > *"The deep calls to those who've already lost themselves to it. I answer not because I'm brave, but because I'm already gone."*
 
 ## Overview
-Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbuilding/Places/Aquabyssos]] naval fleet, specializing in exploring and defending the [[02_Worldbuilding/Places/The Hadal Depths]] where few dare to venture. Born with a rare condition that allows her to survive at crushing depths without magical aid, she's become both invaluable to the navy and increasingly isolated from surface-dwelling humanity. Her transformation into something between human and deep-sea creature has made her the perfect guardian of Aquabyssos's deepest secrets - and most dangerous threats.
+Captain Marina Saltborn commands the deepest patrol vessels in the [[Aquabyssos]] naval fleet, specializing in exploring and defending the [[The Hadal Depths]] where few dare to venture. Born with a rare condition that allows her to survive at crushing depths without magical aid, she's become both invaluable to the navy and increasingly isolated from surface-dwelling humanity. Her transformation into something between human and deep-sea creature has made her the perfect guardian of Aquabyssos's deepest secrets - and most dangerous threats.
 
 ## Appearance & Physical Characteristics
 - **Age**: 34, though appears ageless in an unsettling way
@@ -52,7 +50,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 ## Deep Character Background & Nuance
 
 ### Childhood Memories & Formative Experiences
-- **The Deep Calling (Age 7)**: First heard the whispers of [[02_Worldbuilding/Lore/The Deep Mother]] while playing near tide pools; thought everyone could hear the ocean's voice until her parents' terrified reactions taught her otherwise
+- **The Deep Calling (Age 7)**: First heard the whispers of [[The Deep Mother]] while playing near tide pools; thought everyone could hear the ocean's voice until her parents' terrified reactions taught her otherwise
 - **The Drowning That Wasn't (Age 12)**: Fell overboard during a family fishing trip and sank to impossible depths; discovered she could breathe water and see clearly in complete darkness - emerged hours later to find rescue ships searching for her body
 - **The Gill Discovery**: Parents found her sleeping underwater in the harbor at age 13; the gill slits behind her ears had fully developed overnight, confirming her transformation
 - **First Deep Dive (Age 16)**: Voluntarily descended to 800 feet without equipment during naval training; instructors thought she had died until she surfaced carrying deep-sea specimens no human should have been able to reach
@@ -65,14 +63,14 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 - **Pressure Meditation**: Practices breathing exercises that simulate deep-water pressure even on the surface; finds surface air too "thin" and uncomfortable
 - **The Deep Charts**: Spends 2-3 hours daily updating charts of deep-sea trenches, noting changes in current patterns and mysterious new formations
 - **Salt Preservation**: Keeps containers of water from different depths in her cabin; can identify the exact depth and location by taste
-- **The Calling Journal**: Records the whispers and visions she receives from [[02_Worldbuilding/Lore/The Deep Mother]], trying to decode patterns and warnings
+- **The Calling Journal**: Records the whispers and visions she receives from [[The Deep Mother]], trying to decode patterns and warnings
 - **Equipment Blessing**: Ritually blesses all diving and exploration equipment with deep-sea water, believing it grants protection from abyssal creatures
 - **The Surface Timer**: Limits her time on dry land to no more than 6 hours continuously; begins to feel physically ill if away from water too long
 
 ### Secret Fears & Existential Anxieties
 - **The Humanity Loss**: Terrified she's becoming less human with each deep dive; sometimes looks in mirrors and doesn't recognize the creature staring back
 - **The Depth Madness**: Fears the visions and whispers are signs of encroaching insanity rather than divine communication
-- **The Calling's True Nature**: Secretly worried that [[02_Worldbuilding/Lore/The Deep Mother]]'s influence is malevolent and she's being manipulated into serving something monstrous
+- **The Calling's True Nature**: Secretly worried that [[The Deep Mother]]'s influence is malevolent and she's being manipulated into serving something monstrous
 - **The Isolation Spiral**: Deeply afraid of being completely alone; the deeper she goes, the more isolated she becomes from regular human contact
 - **The Transformation Acceleration**: Notices new physical changes monthly; fears she'll eventually become so inhuman that she can't return to surface society
 - **The Crew's Fear**: Aware that her own crew members are increasingly uncomfortable around her; fears losing the last human connections she has
@@ -107,7 +105,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 ### Prized Possessions & Sacred Items
 - **Hadrian's Compass**: Navigation device from her deceased mentor; points not to magnetic north but toward "places that need protection" in the deep
-- **The First Shell**: Beautiful spiral shell from her deepest solo dive; whispers with the voice of [[02_Worldbuilding/Lore/The Deep Mother]] during critical decisions
+- **The First Shell**: Beautiful spiral shell from her deepest solo dive; whispers with the voice of [[The Deep Mother]] during critical decisions
 - **Depth Charts**: Hand-drawn maps of underwater territories no other human has explored; her life's work and greatest treasure
 - **Mother's Locket**: Only remaining gift from her birth mother; contains a photo of Marina as a normal child, kept as reminder of what she's lost
 - **The Pressure Suit**: Custom diving equipment that allows extended deep-sea operations; decorated with personal symbols and blessed by deep-sea rituals
@@ -117,7 +115,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 ### Recurring Dreams & Visions
 - **The Sunken City**: Recurring dreams of exploring a vast underwater metropolis populated by beings who accept her transformation as natural and beautiful
 - **The Surface Return**: Nightmares where she becomes fully human again but has forgotten all deep-sea knowledge, feeling useless and disconnected
-- **The Deep Mother's Call**: Prophetic visions where [[02_Worldbuilding/Lore/The Deep Mother]] rises from the deepest trenches, either to bless or to judge her service
+- **The Deep Mother's Call**: Prophetic visions where [[The Deep Mother]] rises from the deepest trenches, either to bless or to judge her service
 - **The Crew's Fate**: Anxiety dreams where her crew members transform like her, becoming unable to return to their families and lives
 - **The Perfect Dive**: Dreams of descending to impossible depths where she finds answers to all questions about her nature and purpose
 - **The Two Worlds**: Recurring vision of standing on a beach with one foot in the ocean and one on land, unable to choose which world she belongs to
@@ -135,14 +133,14 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 ### Speech Patterns & Communication Style
 - **The Ocean's Echo**: Voice carries a subtle reverb effect, as if spoken across vast underwater distances
 - **Tidal Metaphors**: Uses ocean and depth imagery in all conversations - "deep thoughts," "surface concerns," "riding the current of events"
-- **The Whisper Voice**: When discussing [[02_Worldbuilding/Lore/The Deep Mother]] or deep-sea visions, unconsciously lowers her voice to barely audible levels
+- **The Whisper Voice**: When discussing [[The Deep Mother]] or deep-sea visions, unconsciously lowers her voice to barely audible levels
 - **Pressure Pauses**: Takes longer pauses between sentences than normal, as if adjusting to surface conversation speed
 - **Navigation Speak**: Frequently uses nautical and navigational terms in everyday conversation, even when discussing land-based topics
 - **The Depth Tongue**: Sometimes slips into sounds that aren't quite human language - clicks, whistles, and low-frequency hums
 - **Time Distortion**: Speaks about past events as if they happened yesterday and future events as if they've already occurred; deep-sea experiences blur her temporal perception
 
 ### Personal Beliefs & Supernatural Connections
-- **The Deep Mother's Chosen**: Believes she was selected by [[02_Worldbuilding/Lore/The Deep Mother]] as a bridge between surface and deep-sea realms
+- **The Deep Mother's Chosen**: Believes she was selected by [[The Deep Mother]] as a bridge between surface and deep-sea realms
 - **Pressure Sanctity**: Views extreme depths as sacred spaces where divine truth becomes clear
 - **The Depth Cycle**: Believes all water eventually returns to the deepest places, making every action ultimately accountable to the depths
 - **Transformation Purpose**: Convinced her physical changes serve a cosmic purpose she doesn't yet fully understand
@@ -272,7 +270,7 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 - **Crew Training**: Teaches other naval personnel about deep-sea survival, though none can match her natural abilities
 - **Diplomatic Mission**: Serves as unofficial liaison between surface authorities and deep-sea entities
 - **Emergency Response**: Called upon for rescue operations in impossible conditions where normal humans would perish
-- **The Deep Watch**: Maintains constant vigilance for signs of [[02_Worldbuilding/Lore/The Deep Mother]]'s awakening or displeasure
+- **The Deep Watch**: Maintains constant vigilance for signs of [[The Deep Mother]]'s awakening or displeasure
 
 ## Current Role & Responsibilities
 - **Commander of Deep Operations**: Leads Aquabyssos's most dangerous and secretive naval missions
@@ -284,12 +282,12 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 ### Military Allies
 - **Admiral Cordelia Deepcurrent**: Respects Marina's unique abilities while worrying about her increasing isolation from humanity
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Professional respect with underlying tension about methods and priorities
+- **[[Commander Typhoon Blackheart]]**: Professional respect with underlying tension about methods and priorities
 - **The Deep Patrol Crews**: Commands loyalty through competence, but crew members find her increasingly unsettling
 
 ### Professional Contacts
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Provides memory therapy for crew members traumatized by deep-sea encounters
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Occasional legal consultation regarding deep-sea territorial disputes
+- **[[Memory Merchant Valeria Siltweave]]**: Provides memory therapy for crew members traumatized by deep-sea encounters
+- **[[Tribune Cassia Deepcurrent]]**: Occasional legal consultation regarding deep-sea territorial disputes
 - **Deep-Sea Researchers**: Network of academics studying abyssal conditions who rely on her access and expertise
 
 ### Personal Connections
@@ -306,18 +304,18 @@ Captain Marina Saltborn commands the deepest patrol vessels in the [[02_Worldbui
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[The Depth Accords]]
+- [[The Hadal Depths]]
+- [[The Deep Mother]]
+- [[Commander Typhoon Blackheart]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[The Depth Wardens]]
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Ambush Point]]
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[Ambush Point]]
+- [[The Depth Accords]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -326,7 +324,7 @@ Captain Marina Saltborn is a depth-adapted naval officer and explorer of the dee
 
 ## Lore Details
 
-Legends speak of Captain Marina Saltborn as a bridge between the surface world and the mysterious depths. Sailors describe seeing her bioluminescent markers in the deepest waters, always appearing where the need is greatest. Some whisper that she's becoming more sea creature than human, while others claim she's chosen by [[02_Worldbuilding/Lore/The Deep Mother]] herself.
+Legends speak of Captain Marina Saltborn as a bridge between the surface world and the mysterious depths. Sailors describe seeing her bioluminescent markers in the deepest waters, always appearing where the need is greatest. Some whisper that she's becoming more sea creature than human, while others claim she's chosen by [[The Deep Mother]] herself.
 
 ## Adventure Hooks
 
@@ -336,9 +334,9 @@ Legends speak of Captain Marina Saltborn as a bridge between the surface world a
 
 ## DM Notes
 
-Marina works best as a complex ally who provides access to impossible locations and unique perspectives. Her ongoing transformation creates natural tension - she's invaluable but increasingly alien. Use her deep-sea knowledge to drive exploration-based adventures while exploring themes of belonging, transformation, and the cost of being special. Her connection to [[02_Worldbuilding/Lore/The Deep Mother]] can serve as a hook for cosmic horror or divine favor depending on campaign tone.
+Marina works best as a complex ally who provides access to impossible locations and unique perspectives. Her ongoing transformation creates natural tension - she's invaluable but increasingly alien. Use her deep-sea knowledge to drive exploration-based adventures while exploring themes of belonging, transformation, and the cost of being special. Her connection to [[The Deep Mother]] can serve as a hook for cosmic horror or divine favor depending on campaign tone.
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[The Deep Mother]]
+- [[The Hadal Depths]]
+- [[The Depth Wardens]]

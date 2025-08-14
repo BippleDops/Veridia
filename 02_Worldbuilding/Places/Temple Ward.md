@@ -15,31 +15,26 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-ward-temple-ward.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-ward-temple-ward.svg]]
 
 
 # Temple Ward
 ## The Sacred Heart of Aquabyssos Faith
 
 > *"In the depths where sunlight never reaches, the light of the divine burns eternal. Here, all currents of faith converge in sacred harmony."*
-> — [[02_Worldbuilding/Places/High Hierophant Meridius]], Speaker for the Council of Faiths
+> — [[High Hierophant Meridius]], Speaker for the Council of Faiths
 
 ## Overview
 
-The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port Meridian]], where the faithful of [[02_Worldbuilding/Places/Aquabyssos]] come to worship the myriad deities who watch over the underwater realm. Built around natural thermal vents that create warm, life-giving currents, this sacred district houses temples, shrines, monasteries, and pilgrimage sites representing every major faith practiced in the kingdom. The Ward's unique geography of stepped terraces carved from living coral creates natural amphitheaters where the faithful gather for ceremonies, festivals, and moments of quiet contemplation.
+The Temple Ward stands as the spiritual center of [[Port Meridian]], where the faithful of [[Aquabyssos]] come to worship the myriad deities who watch over the underwater realm. Built around natural thermal vents that create warm, life-giving currents, this sacred district houses temples, shrines, monasteries, and pilgrimage sites representing every major faith practiced in the kingdom. The Ward's unique geography of stepped terraces carved from living coral creates natural amphitheaters where the faithful gather for ceremonies, festivals, and moments of quiet contemplation.
 
 ## History and Foundation
 
 ### The Sacred Springs
 **Discovery**: 600 years ago, early settlers discovered thermal vents with healing properties  
 **Significance**: Waters showed miraculous healing and spiritual enhancement effects  
-**First Temple**: Simple shrine built to honor [[02_Worldbuilding/Places/Thalassa the Deepmother]], goddess of healing waters  
+**First Temple**: Simple shrine built to honor [[Thalassa the Deepmother]], goddess of healing waters  
 **Growth**: Other faiths recognized the site's spiritual power and sought to build nearby  
 **Sacred Compact**: Agreement establishing the Ward as neutral ground for all lawful faiths
 
@@ -75,7 +70,7 @@ The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port
 #### The Healing Springs (Level 1)
 **Purpose**: Physical and spiritual healing for all visitors  
 **Features**: Multiple pools with different healing properties  
-**Attendants**: [[02_Worldbuilding/Places/Clerics of Thalassa]] provide healing services  
+**Attendants**: [[Clerics of Thalassa]] provide healing services  
 **Access**: Open to all, regardless of faith or ability to pay  
 **Miracles**: Documented healings attract pilgrims from across the realm
 
@@ -127,49 +122,49 @@ The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port
 **Denomination**: Goddess of healing waters, protection, motherhood  
 **Architecture**: Living coral spires that grow toward thermal vents  
 **Services**: Healing ceremonies, blessing of children, protection rituals  
-**Clergy**: [[02_Worldbuilding/People/High Priestess Nerida Soulcurrent]] leads 200+ clerics  
+**Clergy**: [[High Priestess Nerida Soulcurrent]] leads 200+ clerics  
 **Specialties**: Divine healing magic, water blessing, spiritual counseling
 
 ### Shrine of Abyssos the Profound
 **Denomination**: God of deep wisdom, ancient knowledge, pressure mastery  
 **Architecture**: Sunken chambers carved deep into bedrock  
 **Services**: Wisdom seeking, scholarly blessing, pressure adaptation rituals  
-**Clergy**: [[02_Worldbuilding/Places/Deep Oracle Bathys]] leads contemplative order  
+**Clergy**: [[Deep Oracle Bathys]] leads contemplative order  
 **Specialties**: Divination magic, ancient lore, pressure resistance blessings
 
 ### Cathedral of the Tidal Crown
 **Denomination**: Royal religious authority, divine right, just governance  
 **Architecture**: Grand structure incorporating royal symbols and religious imagery  
 **Services**: State ceremonies, royal blessings, justice prayers  
-**Clergy**: [[02_Worldbuilding/Places/Royal Chaplain Magnus Goldcurrent]] leads court priests  
+**Clergy**: [[Royal Chaplain Magnus Goldcurrent]] leads court priests  
 **Specialties**: Official ceremonies, political blessing, divine mandate interpretation
 
 ### Grove of the Current Keepers
 **Denomination**: Nature spirits, ecological balance, harmony with sea life  
 **Architecture**: Living garden temple with coral trees and flowing streams  
 **Services**: Environmental blessing, nature communion, seasonal ceremonies  
-**Clergy**: [[02_Worldbuilding/Places/Archdruid Marina Kelpweaver]] leads druidic circle  
+**Clergy**: [[Archdruid Marina Kelpweaver]] leads druidic circle  
 **Specialties**: Nature magic, animal communication, environmental protection
 
 ### Forge-Temple of Pressure's Heart
 **Denomination**: God of smithing, engineering, pressure mastery, construction  
 **Architecture**: Workshop-temple with forges powered by thermal vents  
 **Services**: Tool blessing, construction consecration, craftsmanship prayers  
-**Clergy**: [[02_Worldbuilding/People/Master Smith-Priest Vulcan Depthforge]] leads artisan-clerics  
+**Clergy**: [[Master Smith-Priest Vulcan Depthforge]] leads artisan-clerics  
 **Specialties**: Blessing of tools and structures, craft magic, pressure engineering
 
 ### Sanctuary of the Wandering Current
 **Denomination**: Patron of travelers, exploration, safe journeys, new discoveries  
 **Architecture**: Open pavilion designed to feel like being in flowing water  
 **Services**: Journey blessings, protection rituals, exploration consecrations  
-**Clergy**: [[02_Worldbuilding/Places/Wandering Prophet Coral Stormrider]] leads nomadic priests  
+**Clergy**: [[Wandering Prophet Coral Stormrider]] leads nomadic priests  
 **Specialties**: Travel magic, navigation blessing, protection from dangers
 
 ### Mystery Temple of the Deep Veil
 **Denomination**: Goddess of secrets, hidden knowledge, mysteries, truth  
 **Architecture**: Maze-like structure with hidden chambers and shifting passages  
 **Services**: Secret keeping, truth revealing, mystery investigation  
-**Clergy**: [[02_Worldbuilding/Places/Veiled Hierophant]] (identity unknown) leads secretive order  
+**Clergy**: [[Veiled Hierophant]] (identity unknown) leads secretive order  
 **Specialties**: Divination, secret protection, truth detection, memory modification
 
 ## Daily Life and Religious Practices
@@ -204,35 +199,35 @@ The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port
 
 ## Notable NPCs and Clergy
 
-### [[02_Worldbuilding/Places/High Hierophant Meridius]]
+### [[High Hierophant Meridius]]
 **Role**: Elected speaker for the Council of Faiths  
 **Background**: Former military chaplain with experience in diplomacy  
 **Personality**: Diplomatic, wise, committed to interfaith harmony  
 **Challenge**: Balancing competing religious interests and political pressures  
 **Residence**: Neutral quarters maintained equally by all seven major faiths
 
-### [[02_Worldbuilding/People/High Priestess Nerida Soulcurrent]]
+### [[High Priestess Nerida Soulcurrent]]
 **Faith**: Temple of Thalassa the Deepmother  
 **Specialty**: Most powerful healer in the Ward, trained in multiple schools  
 **Reputation**: Known for treating everyone equally regardless of faith or status  
 **Politics**: Advocates for expanded healing services and medical training  
 **Personal**: Lost her family in a plague, dedicated her life to healing others
 
-### [[02_Worldbuilding/Places/Deep Oracle Bathys]]
+### [[Deep Oracle Bathys]]
 **Faith**: Shrine of Abyssos the Profound  
 **Ability**: Prophetic visions and profound wisdom about kingdom's future  
 **Method**: Speaks in riddles and metaphors requiring careful interpretation  
 **Influence**: Consulted by nobility and royalty on important decisions  
 **Mystery**: May be older than claimed, possibly touched by divine longevity
 
-### [[02_Worldbuilding/Places/Archdruid Marina Kelpweaver]]
+### [[Archdruid Marina Kelpweaver]]
 **Faith**: Grove of the Current Keepers  
 **Specialty**: Communication with sea life and environmental magic  
 **Mission**: Advocates for ecological protection and sustainable practices  
 **Network**: Works with marine biologists and environmental organizations  
 **Personality**: Passionate about nature, sometimes impatient with bureaucracy
 
-### [[02_Worldbuilding/People/Master Smith-Priest Vulcan Depthforge]]
+### [[Master Smith-Priest Vulcan Depthforge]]
 **Faith**: Forge-Temple of Pressure's Heart  
 **Skills**: Combines religious authority with legendary craftsmanship  
 **Products**: Creates blessed tools and weapons for worthy causes  
@@ -375,19 +370,19 @@ The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Noble Quarter]] - Aristocratic District
+### [[Noble Quarter]] - Aristocratic District
 **Politics**: Religious blessing legitimizes noble authority  
 **Economics**: Noble families fund major temple construction and maintenance  
 **Social**: Interfaith marriages often negotiated in Ward neutral ground  
 **Education**: Noble children receive religious education alongside secular studies
 
-### [[02_Worldbuilding/Places/Royal Palace]] - Seat of Government
+### [[Royal Palace]] - Seat of Government
 **Authority**: Royal Chaplain provides religious legitimacy for government  
 **Ceremonies**: Major state events include religious components  
 **Policy**: Religious council provides moral guidance on legislation  
 **Crisis**: Ward provides neutral ground for sensitive negotiations
 
-### [[02_Worldbuilding/Places/Harbor District]] - Commercial Center
+### [[Harbor District]] - Commercial Center
 **Services**: Blessing of ships, protection of travelers, healing of workers  
 **Economics**: Pilgrimage trade brings significant revenue to city  
 **Population**: Many harbor workers and merchants attend Ward services  
@@ -421,27 +416,27 @@ The Temple Ward stands as the spiritual center of [[02_Worldbuilding/Places/Port
 **High Level (11-16)**: Theological crises, divine interventions, kingdom-wide religious issues
 
 > [!secret] DM Secret
-> The thermal vents that power the Temple Ward are actually maintained by an ancient agreement with a powerful water elemental lord who dwells deep beneath the city. This being, known as [[02_Worldbuilding/Places/The Deepmost Current]], requires regular offerings and ceremonies to maintain the sacred waters' power. Only the highest-ranking clergy know of this arrangement, and they carefully maintain the traditions that keep the elemental satisfied. If the agreement were broken, the Ward would lose its healing properties and much of its spiritual power, potentially triggering religious crisis throughout the kingdom.
+> The thermal vents that power the Temple Ward are actually maintained by an ancient agreement with a powerful water elemental lord who dwells deep beneath the city. This being, known as [[The Deepmost Current]], requires regular offerings and ceremonies to maintain the sacred waters' power. Only the highest-ranking clergy know of this arrangement, and they carefully maintain the traditions that keep the elemental satisfied. If the agreement were broken, the Ward would lose its healing properties and much of its spiritual power, potentially triggering religious crisis throughout the kingdom.
 
 ---
 
 **Related Locations**:  
-- [[02_Worldbuilding/Places/Port Meridian]]  
-- [[02_Worldbuilding/Places/Noble Quarter]]  
-- [[02_Worldbuilding/Places/Harbor District]]  
-- [[02_Worldbuilding/Places/Royal Palace]]  
+- [[Port Meridian]]  
+- [[Noble Quarter]]  
+- [[Harbor District]]  
+- [[Royal Palace]]  
 
 **Related NPCs**:  
-- [[02_Worldbuilding/Places/High Hierophant Meridius]]  
-- [[02_Worldbuilding/People/High Priestess Nerida Soulcurrent]]  
-- [[02_Worldbuilding/Places/Council of Faiths]]  
-- [[02_Worldbuilding/Places/Temple Clergy]]  
+- [[High Hierophant Meridius]]  
+- [[High Priestess Nerida Soulcurrent]]  
+- [[Council of Faiths]]  
+- [[Temple Clergy]]  
 
 **Related Items and Concepts**:  
-- [[02_Worldbuilding/Places/Sacred Healing Springs]]  
-- [[02_Worldbuilding/Places/Interfaith Cooperation]]  
-- [[02_Worldbuilding/Places/Religious Festivals]]  
-- [[02_Worldbuilding/Places/Divine Magic]]
+- [[Sacred Healing Springs]]  
+- [[Interfaith Cooperation]]  
+- [[Religious Festivals]]  
+- [[Divine Magic]]
 
 ## Player-Facing Summary
 
@@ -463,13 +458,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Ward]]
+- [[Temple Ward]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[Noble Quarter]]
+- [[Port Meridian]]
+- [[Royal Palace]]

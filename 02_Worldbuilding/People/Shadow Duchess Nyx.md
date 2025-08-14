@@ -14,16 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-shadow-duchess-nyx-shadow-duchess-nyx.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-duchess-nyx-shadow-duchess-nyx.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[Quest - The Crystal Festival]]
 
 
 ## Connections

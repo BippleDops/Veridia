@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-of-the-eternal-flame-temple-of-the-eternal-flame.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-of-the-eternal-flame-temple-of-the-eternal-flame.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple of the Eternal Flame]]
+- [[12_Research/D&D_References/Temple of the Eternal Flame]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[12_Research/D&D_References/Rewriting the Ritual]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

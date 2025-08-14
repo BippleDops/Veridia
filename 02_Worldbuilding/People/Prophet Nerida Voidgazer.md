@@ -14,21 +14,14 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg]]
 
 
 # Prophet Nerida Voidgazer
 
 ## Overview
-Prophet Nerida Voidgazer leads the [[02_Worldbuilding/Places/Church of the Tidal Throne]] from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]], preaching that [[02_Worldbuilding/Places/The Great Drowning]] was divine judgment and that worse is coming. Her eyes are pools of black water that reflect no light, supposedly allowing her to see across all depths simultaneously. She speaks in multiple voices - sometimes her own, sometimes echoing things from [[02_Worldbuilding/Places/The Whispering Depths]], sometimes in tongues that predate human language.
+Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sunken Cathedral of Stars]], preaching that [[The Great Drowning]] was divine judgment and that worse is coming. Her eyes are pools of black water that reflect no light, supposedly allowing her to see across all depths simultaneously. She speaks in multiple voices - sometimes her own, sometimes echoing things from [[The Whispering Depths]], sometimes in tongues that predate human language.
 
 ## Personality
 - **Prophetic**: Speaks primarily in visions and metaphors
@@ -48,28 +41,28 @@ Prophet Nerida Voidgazer leads the [[02_Worldbuilding/Places/Church of the Tidal
 ## Relationships
 
 ### Church Hierarchy
-- [[02_Worldbuilding/Places/Inquisitor Mordecai Truthseeker]] - Enforces her interpretations
-- [[02_Worldbuilding/Places/Choir Master Celestine Hymnsinger]] - Spreads her hymns
-- [[02_Worldbuilding/Places/Brother Matthias Inkdrinker]] - Records her prophecies
-- [[02_Worldbuilding/Places/Sister Morwyn]] - Prepares the faithful for transformation
+- [[Inquisitor Mordecai Truthseeker]] - Enforces her interpretations
+- [[Choir Master Celestine Hymnsinger]] - Spreads her hymns
+- [[Brother Matthias Inkdrinker]] - Records her prophecies
+- [[Sister Morwyn]] - Prepares the faithful for transformation
 
 ### Religious Rivals
-- [[02_Worldbuilding/People/High Cultivist Jasper Lifebinder]] - Opposes biological heresy
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Sees his path as blasphemy
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]] - Dark reflection in [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[High Cultivist Jasper Lifebinder]] - Opposes biological heresy
+- [[Duke Cyrus Reefheart]] - Sees his path as blasphemy
+- [[Anti-Priest Nullus]] - Dark reflection in [[The Primordial Vaults]]
 
 ### Complicated Connections
-- [[02_Worldbuilding/People/The Deepmind Conspiracy]] - Unknowing prophet of its will
-- [[02_Worldbuilding/Places/Mad Prophet Silas the Depth-Touched]] - Former student
-- [[02_Worldbuilding/Places/Astrologer Prime Cassandra Starweaver]] - Shares visions
+- [[The Deepmind Conspiracy]] - Unknowing prophet of its will
+- [[Mad Prophet Silas the Depth-Touched]] - Former student
+- [[Astrologer Prime Cassandra Starweaver]] - Shares visions
 
 ## History
-Was a young priestess when the drowning began. Tried to hold back the waters with prayer and was swept into [[02_Worldbuilding/Places/The Cerulean Trench]]. Emerged three days later, changed. Has led the Church for 127 years, not aging but slowly becoming less human. Claims to have spoken with the gods beneath the waters.
+Was a young priestess when the drowning began. Tried to hold back the waters with prayer and was swept into [[The Cerulean Trench]]. Emerged three days later, changed. Has led the Church for 127 years, not aging but slowly becoming less human. Claims to have spoken with the gods beneath the waters.
 
 ## Current Activities
 1. Preparing faithful for "The Second Drowning"
 2. Sending missionaries to spread the word
-3. Interpreting signs of [[02_Worldbuilding/People/The Emergence]]
+3. Interpreting signs of [[The Emergence]]
 4. Building underwater temples at depth
 5. Experiencing visions of increasing intensity
 
@@ -138,10 +131,10 @@ Recent visions she's shared:
 - "The Mad Oracle" (whispered)
 
 ## Holy Sites
-- Primary: [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
-- Pilgrimage: [[02_Worldbuilding/Places/The Cerulean Trench]] - Where she changed
-- Secret: [[02_Worldbuilding/Places/The Whispering Depths]] - Hears clearest here
-- Future: Plans temple at [[02_Worldbuilding/Places/The Primordial Vaults]]
+- Primary: [[The Sunken Cathedral of Stars]]
+- Pilgrimage: [[The Cerulean Trench]] - Where she changed
+- Secret: [[The Whispering Depths]] - Hears clearest here
+- Future: Plans temple at [[The Primordial Vaults]]
 
 ## Followers
 - **The Drowned Choir**: Sing her prophecies
@@ -152,8 +145,8 @@ Recent visions she's shared:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Drowning Welcome]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[The Drowning Welcome]]
+- [[Timeline of the Drowning]]
 
 
 ## Appearance
@@ -193,10 +186,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[Prophet Nerida Voidgazer]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
-- [[02_Worldbuilding/People/The Emergence]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[The Deepmind Conspiracy]]
+- [[The Emergence]]
+- [[Anti-Priest Nullus]]
+- [[Sister Morwyn]]

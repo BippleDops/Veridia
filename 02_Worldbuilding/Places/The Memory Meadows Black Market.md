@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -14,21 +15,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-memory-meadows-black-market-the-memory-meadows-black-market.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-memory-meadows-black-market-the-memory-meadows-black-market.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[12_Research/D&D_References/The Bone Colosseum]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[12_Research/D&D_Statblocks/Crystal Wardens]]
 
 ## Player-Facing Summary
 
@@ -49,3 +47,7 @@ Legends speak of The Memory Meadows Black Market as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

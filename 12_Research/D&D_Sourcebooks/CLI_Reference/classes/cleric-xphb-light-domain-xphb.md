@@ -19,7 +19,7 @@ world: Both
 ---
 
 # Light Domain
-*[[./cleric-xphb|Cleric]]: Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 74*  
 
 > [!tldr] Class and Feature Progression
@@ -72,33 +72,33 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[/03_Mechanics/CLI/spells/burning-hands-xphb|Burning Hands]], [[/03_Mechanics/CLI/spells/faerie-fire-xphb|Faerie Fire]], [[/03_Mechanics/CLI/spells/scorching-ray-xphb|Scorching Ray]], [[/03_Mechanics/CLI/spells/see-invisibility-xphb|See Invisibility]] |
-| 5th | [[/03_Mechanics/CLI/spells/daylight-xphb|Daylight]], [[/03_Mechanics/CLI/spells/fireball-xphb|Fireball]] |
-| 7th | [[/03_Mechanics/CLI/spells/arcane-eye-xphb|Arcane Eye]], [[/03_Mechanics/CLI/spells/wall-of-fire-xphb|Wall of Fire]] |
-| 9th | [[/03_Mechanics/CLI/spells/flame-strike-xphb|Flame Strike]], [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]] |
+| 3rd | [[burning-hands-xphb|Burning Hands]], [[faerie-fire-xphb|Faerie Fire]], [[scorching-ray-xphb|Scorching Ray]], [[see-invisibility-xphb|See Invisibility]] |
+| 5th | [[daylight-xphb|Daylight]], [[fireball-xphb|Fireball]] |
+| 7th | [[arcane-eye-xphb|Arcane Eye]], [[wall-of-fire-xphb|Wall of Fire]] |
+| 9th | [[flame-strike-xphb|Flame Strike]], [[scrying-xphb|Scrying]] |
 ^light-domain-spells
 
 ### Radiance of the Dawn (Level 3)
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you present your [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] originating from yourself. Any magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]—such as that created by the [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [[actions#Magic|Magic]] action, you present your [[holy-symbol-xphb|Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from yourself. Any magical [[darkness-xphb|Darkness]]—such as that created by the [[darkness-xphb|Darkness]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 
-When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to impose [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on the attack roll, causing light to flare before it hits or misses.
+When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [[reaction-xphb|Reaction]] to impose [[disadvantage-xphb|Disadvantage]] on the attack roll, causing light to flare before it hits or misses.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ### Improved Warding Flare (Level 6)
 
-You regain all expended uses of your Warding Flare when you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You regain all expended uses of your Warding Flare when you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]].
 
-In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to `2d6` plus your Wisdom modifier.
+In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [[temporary-hit-points-xphb|Temporary Hit Points]] equal to `2d6` plus your Wisdom modifier.
 
 ### Corona of Light (Level 17)
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] in a 60-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] for an additional 30 feet. Your enemies in the [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
+As a [[actions#Magic|Magic]] action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[bright-light-xphb|Bright Light]] in a 60-foot radius and [[dim-light-xphb|Dim Light]] for an additional 30 feet. Your enemies in the [[bright-light-xphb|Bright Light]] have [[disadvantage-xphb|Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
 ## Player-Facing Summary
 

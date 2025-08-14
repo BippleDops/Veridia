@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Properties**: [[item-properties#Finesse|Finesse]]
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

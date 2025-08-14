@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-female-steeder-mpmm-female-steeder-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/female-steeder-mpmm|Female Steeder]]
+# [[female-steeder-mpmm|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
 
 ## Steeders
@@ -64,9 +64,9 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
   - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
@@ -83,8 +83,8 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
       \ + 3) piercing damage plus 9 (2d8) poison damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller\
-      \ creature. Hit: The target is stuck to the steeder's leg and [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 12). The steeder can have only one creature [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ creature. Hit: The target is stuck to the steeder's leg and [[conditions#Grappled|grappled]]\
+      \ (escape DC 12). The steeder can have only one creature [[conditions#Grappled|grappled]]\
       \ at a time."
     "name": "Sticky Leg"
 "source":

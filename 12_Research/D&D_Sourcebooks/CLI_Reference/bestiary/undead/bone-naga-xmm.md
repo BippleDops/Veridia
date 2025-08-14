@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bone-naga-xmm-bone-naga-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/bone-naga-xmm|Bone Naga]]
+# [[bone-naga-xmm|Bone Naga]]
 *Source: Monster Manual (2024) p. 53*  
 
 ## Bone Naga
@@ -59,8 +59,8 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
   - !!int "15"
 "speed": "40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -72,14 +72,14 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
       \ plus 7 (2d6) Necrotic damage."
     "name": "Bite"
   - "desc": "Wisdom Saving Throw: DC 13, one creature the naga can see within 60\
-      \ feet. Failure: 13 (3d6 + 3) Psychic damage, and the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]]\
+      \ feet. Failure: 13 (3d6 + 3) Psychic damage, and the target has the [[conditions#Charmed|Charmed]]\
       \ condition until the start of the naga's next turn."
     "name": "Serpentine Gaze"
   - "desc": "The naga casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      At will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]], [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/command-xphb|Command]], [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect\
-      \ Thoughts]], [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]]"
+      At will: [[mage-hand-xphb|Mage Hand]], [[thaumaturgy-xphb|Thaumaturgy]]\n\
+      \n1/day each: [[command-xphb|Command]], [[detect-thoughts-xphb|Detect\
+      \ Thoughts]], [[lightning-bolt-xphb|Lightning Bolt]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

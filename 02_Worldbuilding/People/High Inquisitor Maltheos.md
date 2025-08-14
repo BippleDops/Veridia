@@ -17,15 +17,14 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg]]
 
 # High Inquisitor Maltheos
 *The Zealous Purifier, Scourge of Corruption, Voice of Divine Wrath*
 
 ## Overview
-High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]], a growing religious and political movement dedicated to eradicating crystal corruption from Aethermoor. A brilliant theologian and charismatic orator, he genuinely believes that crystal technology represents a fundamental corruption of divine order. His uncompromising crusade against crystal use puts him on a collision course with [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] and the entire royal establishment, though he remains unaware that his ultimate enemy—the Queen herself—suffers from the very corruption he seeks to destroy.
+High Inquisitor Maltheos leads the [[Purist Coalition]], a growing religious and political movement dedicated to eradicating crystal corruption from Aethermoor. A brilliant theologian and charismatic orator, he genuinely believes that crystal technology represents a fundamental corruption of divine order. His uncompromising crusade against crystal use puts him on a collision course with [[Queen Seraphina Lumengarde]] and the entire royal establishment, though he remains unaware that his ultimate enemy—the Queen herself—suffers from the very corruption he seeks to destroy.
 
 ## Appearance
 - **Age**: 52, though appears older due to ascetic lifestyle
@@ -49,7 +48,7 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]],
 
 ### Leadership of the Purist Coalition
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]] - The Growing Movement**
+#### **[[Purist Coalition]] - The Growing Movement**
 
 **Historical Development**:
 - **Early Ministry (15 years ago)**: Began as simple priest preaching against excessive crystal use
@@ -85,7 +84,7 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]],
 
 ### Opposition to Royal Authority
 
-#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Unwitting Enemy**
+#### **[[Queen Seraphina Lumengarde]] - The Unwitting Enemy**
 
 **Historical Development**:
 - **Early Opposition**: Began challenging royal crystal policies during first years of Seraphina's reign
@@ -110,7 +109,7 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]],
 - **Misplaced Focus**: Attacks Seraphina for wrong reasons while being fundamentally correct
 - **Dangerous Truth**: If he discovers Seraphina's actual corruption, it would vindicate his entire movement
 
-#### **[[02_Worldbuilding/People/Lord Aurelius Goldwave]] - The Complicated Opposition**
+#### **[[Lord Aurelius Goldwave]] - The Complicated Opposition**
 
 **Historical Development**:
 - **Initial Respect**: Early admiration for Aurelius's wealth and apparent piety
@@ -216,22 +215,22 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]],
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Seventh Seal]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[Quest - The Seventh Seal]]
+- [[Purist Coalition]]
+- [[Queen Seraphina Lumengarde]]
+- [[Lord Aurelius Goldwave]]
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[The Final Choice]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[Brother Marcus Steelbane]]
+- [[Commander Thrace Ironwood]]
 - [[Jasper Three-Eyes Flint]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[Professor Aldric Crystalweaver]]
+- [[Find the Grief Bomb]]
+- [[Quest - The Crystal Festival]]
 
 ## Player-Facing Summary
 

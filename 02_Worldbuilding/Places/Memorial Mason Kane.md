@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memorial-mason-kane-memorial-mason-kane.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memorial-mason-kane-memorial-mason-kane.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memorial Mason Kane]]
+- [[12_Research/D&D_References/Memorial Mason Kane]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[12_Research/D&D_References/Sister Morwyn]]

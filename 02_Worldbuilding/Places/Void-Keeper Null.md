@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Void-Keeper Null]]
+- [[12_Research/D&D_References/Void-Keeper Null]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[12_Research/D&D_References/The Parliament of Nobody]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.520336'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\fiend/daemogoth-scc|Daemogoth]]
+# [[daemogoth-scc|Daemogoth]]
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  
 
 Slipping through the darkest corners of the world, daemogoths are powerful fiendish creatures that feed on misery and other negative emotions. Some sages refer to daemogoths as tear lickers, owing to the fiends' tendency to lurk near battlefields and other sites of great tragedy to consume the anguish saturating the area.
@@ -52,16 +52,16 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+12"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "10"
@@ -74,7 +74,7 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
       \ bound creature can cast that spell using this pact, requiring no material\
       \ components and using Intelligence as the spellcasting ability. When it casts\
       \ the spell, the creature takes 7 (2d6) psychic damage, which can't break the\
-      \ creature's [[/03_Mechanics/CLI/conditions#Concentration|concentration]] on\
+      \ creature's [[conditions#Concentration|concentration]] on\
       \ a spell. Once the bound creature casts the spell in this way, it can't do\
       \ so again until it finishes a long rest."
     "name": "Pact of Pain"
@@ -88,10 +88,10 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
     "name": "Agonizing Burst"
   - "desc": "The daemogoth targets one creature it can see within 120 feet of itself.\
       \ The target must make a DC 17 Wisdom saving throw. On a failed save, the target\
-      \ takes 33 (6d10) psychic damage and is [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ takes 33 (6d10) psychic damage and is [[conditions#Frightened|frightened]]\
       \ of the daemogoth until the end of the daemogoth's next turn, and the daemogoth\
       \ regains 5 hit points. On a successful save, the target takes half as much\
-      \ damage and isn't [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
+      \ damage and isn't [[conditions#Frightened|frightened]],\
       \ and the daemogoth doesn't heal."
     "name": "Terrify (Recharge 4-6)"
 "source":

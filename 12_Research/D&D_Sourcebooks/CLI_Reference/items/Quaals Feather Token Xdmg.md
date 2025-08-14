@@ -34,22 +34,22 @@ This object looks like a feather. Different types of feather tokens exist, each 
 
 | dice: 1d100 | Token | Rarity |
 |-------------|-------|--------|
-| 01-20 | [[/03_Mechanics/CLI/items/quaals-feather-token-anchor-xdmg|Anchor]] | Uncommon |
-| 21-35 | [[/03_Mechanics/CLI/items/quaals-feather-token-bird-xdmg|Bird]] | Rare |
-| 36-50 | [[/03_Mechanics/CLI/items/quaals-feather-token-fan-xdmg|Fan]] | Uncommon |
-| 51-65 | [[/03_Mechanics/CLI/items/quaals-feather-token-swan-boat-xdmg|Swan Boat]] | Rare |
-| 66-90 | [[/03_Mechanics/CLI/items/quaals-feather-token-tree-xdmg|Tree]] | Uncommon |
-| 91-00 | [[/03_Mechanics/CLI/items/quaals-feather-token-whip-xdmg|Whip]] | Rare |
+| 01-20 | [[quaals-feather-token-anchor-xdmg|Anchor]] | Uncommon |
+| 21-35 | [[quaals-feather-token-bird-xdmg|Bird]] | Rare |
+| 36-50 | [[quaals-feather-token-fan-xdmg|Fan]] | Uncommon |
+| 51-65 | [[quaals-feather-token-swan-boat-xdmg|Swan Boat]] | Rare |
+| 66-90 | [[quaals-feather-token-tree-xdmg|Tree]] | Uncommon |
+| 91-00 | [[quaals-feather-token-whip-xdmg|Whip]] | Rare |
 ^quaals-feather-tokens
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/quaals-feather-token-anchor-xdmg|Quaal's Feather Token, Anchor]]
-- [[/03_Mechanics/CLI/items/quaals-feather-token-bird-xdmg|Quaal's Feather Token, Bird]]
-- [[/03_Mechanics/CLI/items/quaals-feather-token-fan-xdmg|Quaal's Feather Token, Fan]]
-- [[/03_Mechanics/CLI/items/quaals-feather-token-swan-boat-xdmg|Quaal's Feather Token, Swan Boat]]
-- [[/03_Mechanics/CLI/items/quaals-feather-token-tree-xdmg|Quaal's Feather Token, Tree]]
-- [[/03_Mechanics/CLI/items/quaals-feather-token-whip-xdmg|Quaal's Feather Token, Whip]]
+- [[quaals-feather-token-anchor-xdmg|Quaal's Feather Token, Anchor]]
+- [[quaals-feather-token-bird-xdmg|Quaal's Feather Token, Bird]]
+- [[quaals-feather-token-fan-xdmg|Quaal's Feather Token, Fan]]
+- [[quaals-feather-token-swan-boat-xdmg|Quaal's Feather Token, Swan Boat]]
+- [[quaals-feather-token-tree-xdmg|Quaal's Feather Token, Tree]]
+- [[quaals-feather-token-whip-xdmg|Quaal's Feather Token, Whip]]
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

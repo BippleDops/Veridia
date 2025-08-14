@@ -27,7 +27,7 @@ world: Both
 |------------|--------|
 | 1-20 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|Cultists]] |
 | 21-30 | [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|Cult Fanatics]] |
-| 31-34 | [[/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm|Doppelgangers]] |
+| 31-34 | [[doppelganger-xmm|Doppelgangers]] |
 | 35-50 | [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|Guards]] |
 | 51-60 | [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|Nobles]] |
 | 61-72 | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priests]] |

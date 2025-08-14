@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-current-harvestsage-current-harvestsage.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-current-harvestsage-current-harvestsage.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[Barkeep Mira Algaebrew]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[Barkeep Mira Algaebrew]]
 
 ## Player-Facing Summary
 

@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-You can cast [[/03_Mechanics/CLI/spells/alter-self-xphb|Alter Self]] without expending a spell slot.
+You can cast [[alter-self-xphb|Alter Self]] without expending a spell slot.
 
 ## Player-Facing Summary
 

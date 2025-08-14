@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,9 +40,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

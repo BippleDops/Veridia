@@ -22,7 +22,7 @@ updated: '2025-08-12T23:37:35.828384'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\construct/duergar-screamer-mpmm|Duergar Screamer]]
+# [[duergar-screamer-mpmm|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
@@ -53,9 +53,9 @@ These machines are deployed to assist with construction projects and war. Some d
   - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Dwarvish but can't speak"
 "cr": "3"
@@ -67,7 +67,7 @@ These machines are deployed to assist with construction projects and war. Some d
     "name": "Drill"
   - "desc": "The screamer emits destructive energy in a 15-foot cube. Each creature\
       \ in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6)\
-      \ thunder damage and be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ thunder damage and be knocked [[conditions#Prone|prone]]."
     "name": "Sonic Scream"
 "reactions":
   - "desc": "Immediately after a creature within 5 feet of the screamer hits it with\

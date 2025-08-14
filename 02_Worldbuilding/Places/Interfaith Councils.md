@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-interfaith-councils-interfaith-councils.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-interfaith-councils-interfaith-councils.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Interfaith Councils]]
+- [[12_Research/D&D_References/Interfaith Councils]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]

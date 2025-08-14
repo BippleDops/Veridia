@@ -21,7 +21,7 @@ world: Both
 
 
 # Storm Sorcery
-*[[./sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 51*  
 
 > [!tldr] Class and Feature Progression

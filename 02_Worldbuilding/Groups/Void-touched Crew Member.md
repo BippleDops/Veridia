@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-void-touched-crew-member-v1-void-touched-crew-member.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-void-touched-crew-member-v1-void-touched-crew-member.svg]]
 
 
 ## Overview

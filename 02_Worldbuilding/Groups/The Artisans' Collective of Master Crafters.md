@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]
 
 
 # The Artisans' Collective of Master Crafters
@@ -31,22 +25,22 @@ world: Both
 The Artisans' Collective represents the finest craftspeople across all trades, from magical item creation to architectural marvels. They maintain quality standards, protect trade secrets, and coordinate large-scale construction projects requiring multiple specialized skills.
 
 ## Key Connections
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Guildmaster and legendary inventor
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Primary headquarters and workshops
-- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Major distribution network
-- **[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]** - Rival and competitor at [[02_Worldbuilding/Places/The Crimson Foundries]]
-- **[[02_Worldbuilding/People/Forge Master Petra Hammerdeep|02 Worldbuilding/People/Forge Master Petra Hammerdeep]]** - Enslaved member needing rescue
-- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Magical item commodity trading
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Commission blessed weapons and armor
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Major patrons and commissioners
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient crafting techniques
-- **[[02_Worldbuilding/People/Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]]** - Captured member needing liberation
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Stolen designs and counterfeiting threats
+- **[[Master Artificer Korvin Gearwright]]** - Guildmaster and legendary inventor
+- **[[Crystalhaven]]** - Primary headquarters and workshops
+- **[[The Grand Bazaar of Echoing Coins]]** - Major distribution network
+- **[[Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]** - Rival and competitor at [[The Crimson Foundries]]
+- **[[Forge Master Petra Hammerdeep|02 Worldbuilding/People/Forge Master Petra Hammerdeep]]** - Enslaved member needing rescue
+- **[[The Crystal Stock Exchange]]** - Magical item commodity trading
+- **[[Crystal Wardens]]** - Commission blessed weapons and armor
+- **[[Merchant Princes]]** - Major patrons and commissioners
+- **[[Professor Aldric Crystalweaver]]** - Research partnerships
+- **[[The Sundered Vaults]]** - Source of ancient crafting techniques
+- **[[Engineer Brass Gearspin|02 Worldbuilding/People/Engineer Brass Gearspin]]** - Captured member needing liberation
+- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Stolen designs and counterfeiting threats
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[The Forsaken Consortium Collective]]
 
 ## Player-Facing Summary
 
@@ -71,4 +65,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]

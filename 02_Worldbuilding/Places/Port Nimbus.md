@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-nimbus-port-nimbus.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-nimbus-port-nimbus.svg]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Nimbus]]
+- [[12_Research/D&D_References/Port Nimbus]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[12_Research/D&D_Statblocks/Quest - The Lost Expedition]]

@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-ghoul-pota-aquatic-ghoul-pota.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/aquatic-ghoul-pota|Aquatic Ghoul]]
+# [[aquatic-ghoul-pota|Aquatic Ghoul]]
 *Source: Princes of the Apocalypse p. 87*  
 
 ```statblock
@@ -48,8 +48,8 @@ world: Both
   - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -59,7 +59,7 @@ world: Both
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) slashing damage. If the target is a creature other than an elf or undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
+      \ it must succeed on a DC 10 Constitution saving throw or be [[conditions#Paralyzed|paralyzed]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"

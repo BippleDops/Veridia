@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bugbear-stalker-xmm-bugbear-stalker-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/bugbear-stalker-xmm|Bugbear Stalker]]
+# [[bugbear-stalker-xmm|Bugbear Stalker]]
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bugbear stalkers frequently take their victims hostage, relishing opportunities to imprison and terrorize other creatures.
@@ -65,9 +65,9 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - "constitution": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
@@ -81,13 +81,13 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 10 ft. or range 30/120 ft.\
       \ Hit: 13 (3d6 + 3) Piercing damage."
     "name": "Javelin"
-  - "desc": "Melee Attack Roll: +5 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ if the target is [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] by the\
+  - "desc": "Melee Attack Roll: +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ bugbear), reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage."
     "name": "Morningstar"
 "bonus_actions":
   - "desc": "Dexterity Saving Throw: DC 13, one Medium or smaller creature the bugbear\
-      \ can see within 10 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ can see within 10 feet. Failure: The target has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13)."
     "name": "Quick Grapple"
 "source":

@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-high-tide-keeper-nautilus-primordial-high-tide-keeper-nautilus-primordial.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-high-tide-keeper-nautilus-primordial-high-tide-keeper-nautilus-primordial.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/High Tide Keeper Nautilus Primordial]]
+- [[High Tide Keeper Nautilus Primordial]]
 
 <!-- enriched: true -->

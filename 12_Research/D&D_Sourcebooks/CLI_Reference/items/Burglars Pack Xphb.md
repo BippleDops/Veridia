@@ -32,7 +32,7 @@ world: Both
 - **Cost**: 16 gp
 - **Weight**: 47.5 lbs.
 
-A Burglar's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/ball-bearings-xphb|Ball Bearings]], [[/03_Mechanics/CLI/items/bell-xphb|Bell]], 10 [[/03_Mechanics/CLI/items/candle-xphb|Candles]], [[/03_Mechanics/CLI/items/crowbar-xphb|Crowbar]], [[/03_Mechanics/CLI/items/hooded-lantern-xphb|Hooded Lantern]], 7 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 5 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/rope-xphb|Rope]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]], and [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]].
+A Burglar's Pack contains the following items: [[backpack-xphb|Backpack]], [[ball-bearings-xphb|Ball Bearings]], [[bell-xphb|Bell]], 10 [[candle-xphb|Candles]], [[crowbar-xphb|Crowbar]], [[hooded-lantern-xphb|Hooded Lantern]], 7 flasks of [[oil-xphb|Oil]], 5 days of [[rations-xphb|Rations]], [[rope-xphb|Rope]], [[tinderbox-xphb|Tinderbox]], and [[waterskin-xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

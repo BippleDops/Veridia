@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-ones-deep-ones.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deep-ones-deep-ones.svg]]
 
 
 ## Overview
@@ -62,14 +58,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Ones]]
+- [[12_Research/D&D_References/Deep Ones]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
-- [[02_Worldbuilding/Places/The Depth Plague]]
-- [[02_Worldbuilding/Places/The Original Palace]]
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[12_Research/D&D_References/Current Riders Guild]]
+- [[12_Research/D&D_References/The Depth Plague]]
+- [[12_Research/D&D_References/The Original Palace]]
+- [[12_Research/D&D_References/The Depth Accords]]

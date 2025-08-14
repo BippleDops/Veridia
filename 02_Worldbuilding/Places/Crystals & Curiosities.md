@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystals-curiosities-crystals-curiosities.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystals-curiosities-crystals-curiosities.svg]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystals & Curiosities]]
+- [[12_Research/D&D_References/Crystals & Curiosities]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[12_Research/D&D_References/Port Meridian]]

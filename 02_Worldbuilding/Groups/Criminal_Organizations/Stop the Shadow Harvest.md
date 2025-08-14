@@ -1,6 +1,6 @@
 ---
 MyCategory: Anti-Shadow Resistance Movement
-MyContainer: '[[02_Worldbuilding/Places/New Thalassopolis]]'
+MyContainer: '[[New Thalassopolis]]'
 benefits:
 - reward: Shadow detection training and memory protection techniques
   standing: 1
@@ -40,11 +40,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)
-
 
 
 # Stop the Shadow Harvest
@@ -74,11 +71,11 @@ Rather than a single leader, the organization is guided by a rotating council of
 - **The Prophet**: Serves as public spokesperson and recruitment coordinator
 
 ### Operational Leadership
-**Captain [[02_Worldbuilding/People/Captain Elara Shadowshard]]**: Former Crystal Warden who survived shadow harvest attempt, now leads tactical operations against shadow facilities and networks. Her unique experience as both victim and trained investigator makes her invaluable for planning rescue operations.
+**Captain [[Captain Elara Shadowshard]]**: Former Crystal Warden who survived shadow harvest attempt, now leads tactical operations against shadow facilities and networks. Her unique experience as both victim and trained investigator makes her invaluable for planning rescue operations.
 
-**Brother [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]**: Religious leader who frames the resistance in moral terms, maintaining safe houses within temple networks and providing spiritual support for harvest survivors dealing with memory trauma.
+**Brother [[Brother Matthias the Amber Bearer]]**: Religious leader who frames the resistance in moral terms, maintaining safe houses within temple networks and providing spiritual support for harvest survivors dealing with memory trauma.
 
-**Scholar [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]**: Academic researcher specializing in memory studies who documents shadow harvest evidence and develops countermeasures. Her work provides intellectual foundation for resistance operations.
+**Scholar [[Scholar Vivienne the Chronicler]]**: Academic researcher specializing in memory studies who documents shadow harvest evidence and develops countermeasures. Her work provides intellectual foundation for resistance operations.
 
 ### Cell Structure
 **Protection Cells**: Focus on defending potential targets and providing sanctuary
@@ -236,40 +233,40 @@ Experienced members may advance to leadership roles, specialized operations, or 
 ## Allies and Relationships
 
 ### Core Allied Organizations
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Shares fundamental opposition to shadow integration
-- **[[02_Worldbuilding/People/Crystal Wardens]]**: Professional law enforcement cooperation on shadow crimes
-- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]**: Religious sanctuary and moral support
-- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]**: Research collaboration and intelligence sharing
-- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]**: Military protection against shadow infiltration
+- **[[Purist Coalition]]**: Shares fundamental opposition to shadow integration
+- **[[Crystal Wardens]]**: Professional law enforcement cooperation on shadow crimes
+- **[[Temple of Divine Order]]**: Religious sanctuary and moral support
+- **[[The Seekers' Guild]]**: Research collaboration and intelligence sharing
+- **[[The Deepwatch Guard]]**: Military protection against shadow infiltration
 
 ### Sympathetic Organizations
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Some officials secretly support resistance goals
-- **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**: Traditional resistance to human shadow manipulation
-- **[[02_Worldbuilding/Lore/The Artisans' Collective]]**: Provides technology and equipment support
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Some oppose shadow manipulation of commercial activities
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**: Transportation services for resistance operations
+- **[[The Crown Authority]]**: Some officials secretly support resistance goals
+- **[[Ancient Mer-Folk Empire]]**: Traditional resistance to human shadow manipulation
+- **[[The Artisans' Collective]]**: Provides technology and equipment support
+- **[[Merchant Princes]]**: Some oppose shadow manipulation of commercial activities
+- **[[Independent Smugglers]]**: Transportation services for resistance operations
 
 ### Enemy Organizations
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]**: Primary target as major harvest operation coordinator
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**: Direct opposition as harvest technology developers
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]**: Broader shadow network facilitating harvest operations
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]**: Legitimizes shadow activities resistance opposes
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]**: Uses memory trading supporting harvest operations
+- **[[Party Shadows]]**: Primary target as major harvest operation coordinator
+- **[[Shadow Surgeons Collective]]**: Direct opposition as harvest technology developers
+- **[[The Shadow Conspiracy]]**: Broader shadow network facilitating harvest operations
+- **[[Shadow Independence Levels]]**: Legitimizes shadow activities resistance opposes
+- **[[The Whisper Syndicate]]**: Uses memory trading supporting harvest operations
 
 ### Complex Relationships
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Contains both allies and infiltrated members
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Philosophical disagreements about consciousness modification
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Cooperation on interdimensional threats, tension over shadow issues
-- **[[02_Worldbuilding/Groups/Investigators Anonymous]]**: Professional cooperation complicated by infiltration concerns
+- **[[Parliament of Echoes]]**: Contains both allies and infiltrated members
+- **[[The Convergence Seekers]]**: Philosophical disagreements about consciousness modification
+- **[[The Void Watchers]]**: Cooperation on interdimensional threats, tension over shadow issues
+- **[[Investigators Anonymous]]**: Professional cooperation complicated by infiltration concerns
 
 ## Territory and Resources
 
 ### Safe House Network
 **Primary Sanctuaries**: Major protected facilities throughout Aquabyssos
-- **[[02_Worldbuilding/Places/New Thalassopolis]] Underground**: Hidden complex beneath capital city
-- **[[02_Worldbuilding/Places/Pearl Harbor City]] Docks**: Marine escape routes and underwater facilities
-- **[[02_Worldbuilding/Places/The Primordial Vaults]]**: Ancient pre-Drowning facilities with natural anti-shadow properties
-- **[[02_Worldbuilding/Places/The Memory Meadows]]**: Protected areas where natural phenomena prevent memory manipulation
+- **[[New Thalassopolis]] Underground**: Hidden complex beneath capital city
+- **[[Pearl Harbor City]] Docks**: Marine escape routes and underwater facilities
+- **[[The Primordial Vaults]]**: Ancient pre-Drowning facilities with natural anti-shadow properties
+- **[[The Memory Meadows]]**: Protected areas where natural phenomena prevent memory manipulation
 
 **Regional Safe Houses**: Smaller facilities providing local protection
 - Temple complexes with religious sanctuary protection
@@ -317,13 +314,13 @@ Core principles governing resistance operations:
 ### Internal Factions
 
 ### The Protectionists
-Led by [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]], focus on defensive operations and survivor support. They prioritize building safe networks and treating trauma over aggressive action.
+Led by [[Brother Matthias the Amber Bearer]], focus on defensive operations and survivor support. They prioritize building safe networks and treating trauma over aggressive action.
 
 ### The Hunters
-Following [[02_Worldbuilding/People/Captain Elara Shadowshard]], advocate for direct action against harvest operations. They believe aggressive operations are necessary to prevent ongoing victimization.
+Following [[Captain Elara Shadowshard]], advocate for direct action against harvest operations. They believe aggressive operations are necessary to prevent ongoing victimization.
 
 ### The Exposers
-Supported by [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]], emphasize investigation and public revelation. They focus on building overwhelming evidence for eventual mass exposure.
+Supported by [[Scholar Vivienne the Chronicler]], emphasize investigation and public revelation. They focus on building overwhelming evidence for eventual mass exposure.
 
 ### The Zealots
 A radical faction believing any shadow-touched individual represents a potential harvest threat. They advocate for broader anti-shadow operations beyond specific harvest activities.
@@ -413,29 +410,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[Campaign Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[02_Worldbuilding/Places/New Thalassopolis]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Memory Meadows]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Independent Smugglers]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Independence Levels]]
+- [[Shadow Surgeons Collective]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[The Whisper Syndicate]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Scholar Vivienne the Chronicler]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Memory Meadows]]
+- [[The Primordial Vaults]]

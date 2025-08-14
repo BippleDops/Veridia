@@ -25,9 +25,9 @@ world: Both
 
 | dice: 1d6 | Effect |
 |-----------|--------|
-| 1–3 | Apathy. The character has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on [[/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb|Death Saving Throws]] and [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]] rolls. |
-| 4–5 | Dread. The character has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on all saving throws. |
-| 6 | Delusion. The character has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
+| 1–3 | Apathy. The character has [[disadvantage-xphb|Disadvantage]] on [[death-saving-throw-xphb|Death Saving Throws]] and [[initiative-xphb|Initiative]] rolls. |
+| 4–5 | Dread. The character has [[disadvantage-xphb|Disadvantage]] on all saving throws. |
+| 6 | Delusion. The character has [[disadvantage-xphb|Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
 ^shadowfell-despair
 
 ## Player-Facing Summary

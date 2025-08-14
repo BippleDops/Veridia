@@ -30,24 +30,21 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Session-4
 
-![[04_Resources/Assets/Art/NPCs/Session-4.png|Session-4 Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/Session-4.png|Session-4 Portrait]]
 
 ## Role and Motive
 Session-4 moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- Bond: A family archive tied to [[The Sunken Library of Thalassius]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
-- Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn]].
-- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
+- Ledger of Debts: Knows a favor owed by agents linked to [[Vex Shadowthorn]].
+- Contingency: Keeps a sealed route toward [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -60,14 +57,14 @@ Session-4 moves information and influence like currency. Publicly pragmatic, pri
 - Verdant Accord observer: -1 (ideological friction)
 
 ## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn]] as the true buyer behind a recent theft.
+- Offers a map shard pointing toward [[The Sunken Library of Thalassius]].
+- Brokers a ceasefire to enable [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
+- Sells a rumor naming [[Vex Shadowthorn]] as the true buyer behind a recent theft.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[The Sunken Library of Thalassius]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 

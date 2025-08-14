@@ -5,6 +5,9 @@
 ## gareth-default
 ![](04_Resources/Assets/Portraits/gareth-default.png)
 
+## portrait-comfy-latest
+![](04_Resources/Assets/Portraits/portrait-comfy-latest.png)
+
 ## portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth
 ![](04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
 
@@ -3982,3 +3985,27 @@
 
 ## portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper
 ![](04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper.svg)
+
+## portrait_aethermoor_1755202987332
+![](04_Resources/Assets/Portraits/portrait_aethermoor_1755202987332.png)
+
+## portrait_aethermoor_1755203580678
+![](04_Resources/Assets/Portraits/portrait_aethermoor_1755203580678.png)
+
+## portrait_aquabyssos_1755202966284
+![](04_Resources/Assets/Portraits/portrait_aquabyssos_1755202966284.png)
+
+## portrait_aquabyssos_1755203559627
+![](04_Resources/Assets/Portraits/portrait_aquabyssos_1755203559627.png)
+
+## portrait_production_1755203936704
+![](04_Resources/Assets/Portraits/portrait_production_1755203936704.png)
+
+## portrait_void_1755203008376
+![](04_Resources/Assets/Portraits/portrait_void_1755203008376.png)
+
+## portrait_void_1755203601731
+![](04_Resources/Assets/Portraits/portrait_void_1755203601731.png)
+
+## portraits_aquabyssos_1755205542799
+![](04_Resources/Assets/Portraits/portraits_aquabyssos_1755205542799.png)

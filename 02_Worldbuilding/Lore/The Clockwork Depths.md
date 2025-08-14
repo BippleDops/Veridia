@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[12_Research/D&D_Statblocks/Merchant Viktor Geargrind]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

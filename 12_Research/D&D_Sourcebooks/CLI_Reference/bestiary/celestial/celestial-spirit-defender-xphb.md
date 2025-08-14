@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/celestial-spirit-defender-xphb|Celestial Spirit (Defender)]]
+# [[celestial-spirit-defender-xphb|Celestial Spirit (Defender)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -43,7 +43,7 @@ world: Both
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":

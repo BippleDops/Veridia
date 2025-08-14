@@ -3,6 +3,12 @@ connection_type: Dimensional Overlap
 created: '2025-08-07'
 status: draft
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - aquabyssos
 - connections
 - content/lore
@@ -19,12 +25,8 @@ world_type: Parallel Realms
 ---
 
 
-
-
-
-
-
 # Aethermoor-Aquabyssos World Connection Guide
+
 ## The Convergence of Surface and Depth
 
 > *"Two worlds, divided by catastrophe, united by necessity."*
@@ -34,6 +36,7 @@ world_type: Parallel Realms
 ### The Three States of Reality
 
 #### State 1: Complete Separation (Historical)
+
 - **Timeline**: 300 years ago to present
 - **Barrier**: The Surface Seal - magical membrane preventing interaction
 - **Aethermoor**: Develops crystal magic, faction conflicts
@@ -41,15 +44,17 @@ world_type: Parallel Realms
 - **Connection Points**: None (sealed)
 
 #### State 2: Partial Merger (Current Campaign)
+
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
 - **Merged Zones**: 
-  - [[02_Worldbuilding/Places/Port Meridian]] ↔ [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-  - [[02_Worldbuilding/Lore/Lighthouse of Storms]] ↔ [[02_Worldbuilding/Places/The Inverse Palace]]
-  - [[02_Worldbuilding/Places/Crystal Gardens]] ↔ [[02_Worldbuilding/Places/Screaming Gardens]]
+  - [[12_Research/D&D_References/Port Meridian]] ↔ [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
+  - [[12_Research/D&D_References/Lighthouse of Storms]] ↔ [[12_Research/D&D_References/The Inverse Palace]]
+  - [[12_Research/D&D_Statblocks/Crystal Gardens]] ↔ [[12_Research/D&D_References/Screaming Gardens]]
 - **Mechanics**: Reality shifts every 12 hours
 
 #### State 3: Full Convergence (Possible Future)
+
 - **Timeline**: After Deep Mother resolution
 - **Barrier**: Completely dissolved
 - **New Geography**:
@@ -61,24 +66,26 @@ world_type: Parallel Realms
 ## 🔄 Continental Connections
 
 ### Parallel Structures
+
 Each Aquabyssos continent has an Aethermoor counterpart:
 
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[02_Worldbuilding/Places/Abyssos Prime]] | [[02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
-| [[02_Worldbuilding/Places/Nereidios]] | [[02_Worldbuilding/Lore/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[02_Worldbuilding/Lore/Corallion]] | [[02_Worldbuilding/Lore/Crystal Forest]] | Living Systems | Symbiotic Growth |
-| [[02_Worldbuilding/Lore/Vorthak]] | [[02_Worldbuilding/Lore/Shattered Isles]] | Fragmented Realms | Reality Chaos |
-| [[02_Worldbuilding/People/Tenebrarum]] | [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]] | Darkness Domains | Shadow Overlap |
-| [[02_Worldbuilding/Places/Crystallium]] | [[02_Worldbuilding/Lore/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
-| [[02_Worldbuilding/Places/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
-| [[02_Worldbuilding/Places/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
+| [[12_Research/D&D_References/Abyssos Prime]] | [[12_Research/D&D_References/Port Meridian]] | Political Centers | Shared Parliament |
+| [[12_Research/D&D_References/Nereidios]] | [[12_Research/D&D_References/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[12_Research/D&D_References/Corallion]] | [[12_Research/D&D_References/Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[12_Research/D&D_References/Vorthak]] | [[12_Research/D&D_References/Shattered Isles]] | Fragmented Realms | Reality Chaos |
+| [[12_Research/D&D_References/Tenebrarum]] | [[12_Research/D&D_References/Shadow Vale]] | Darkness Domains | Shadow Overlap |
+| [[12_Research/D&D_References/Crystallium]] | [[12_Research/D&D_References/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
+| [[12_Research/D&D_References/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
+| [[12_Research/D&D_References/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
 
 ### Transit Systems Between Worlds
 
 #### Active Conduits
+
 1. **Lighthouse Network**
-   - [[02_Worldbuilding/Lore/Lighthouse of Storms]] - Primary portal
+   - [[12_Research/D&D_References/Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resonance keys
    - Risk: Temporal displacement
@@ -90,14 +97,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[02_Worldbuilding/Places/The Memory Meadows]] and [[02_Worldbuilding/Lore/Aethermoor Archives]]
+   - Flow between [[12_Research/D&D_Statblocks/The Memory Meadows]] and [[12_Research/D&D_References/Aethermoor Archives]]
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
 
 4. **Shadow Passages**
    - Created by shadow separation events
-   - Connect: Any shadow to [[02_Worldbuilding/People/Tenebrarum]]
+   - Connect: Any shadow to [[12_Research/D&D_References/Tenebrarum]]
    - Requirement: Shadow independence
    - Warning: One-way without shadow mastery
 
@@ -106,6 +113,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 ### Cross-World Organizations
 
 #### The Depth Concordat ↔ The Crystal Council
+
 - **Shared Goal**: Maintain separation/control merger
 - **Conflict**: Degree of acceptable integration
 - **Secret**: Leadership includes beings from both worlds
@@ -114,12 +122,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
   - Aquabyssos: Depth magic
 
 #### Surface Seekers ↔ Purist Coalition
+
 - **Opposition**: Complete philosophical enemies
 - **Surface Seekers**: Want to reclaim surface life
 - **Purist Coalition**: Want to eliminate all water influence
 - **Irony**: Would be natural allies if they could communicate
 
 #### The Forgotten ↔ The Crimson Hand
+
 - **Mystery**: Same organization across worlds?
 - **Evidence**: Identical symbols, parallel actions
 - **Theory**: Orchestrating merger for unknown purpose
@@ -137,10 +147,10 @@ graph TD
     E[The Deep Mother] -->|Dreams| A
     E -->|Reality| B
 ```
-
 ## 🎭 Shared Threats & Opportunities
 
 ### The Seven Shards Connection
+
 - **Aethermoor Shards**: Contain prison fragments
 - **Aquabyssos Shards**: ARE the prison bars
 - **Combined**: Form complete seal or complete release
@@ -148,6 +158,7 @@ graph TD
 - **Activation**: Requires bloodline from each world
 
 ### The Crystal Plague / Adaptation Syndrome
+
 | Stage | Aethermoor Effect | Aquabyssos Effect | Merger Result |
 |-------|------------------|-------------------|---------------|
 | 1 | Crystal veins | Gill development | Amphibious crystal |
@@ -157,6 +168,7 @@ graph TD
 | 5 | Full crystal | Full adaptation | Transcendent being |
 
 ### Entity Connections
+
 - **The Drowned God**: Aquabyssos defense system
 - **The Deep Mother**: Sleeping creator of both realms
 - **The Crystal Entity**: Aethermoor's response to drowning
@@ -167,6 +179,7 @@ graph TD
 ### Merged Zone Properties
 
 #### Port Meridian-Abyssos Prime Junction
+
 - **Day Cycle**: Surface rules (commerce, sunlight)
 - **Night Cycle**: Depth rules (pressure, shadows)
 - **Transition Hour**: Reality flux, dangerous
@@ -179,6 +192,7 @@ graph TD
   - Legal system conflicts
 
 #### Crystal Forest-Corallion Symbiosis
+
 - **Growth Pattern**: Coral overtaking crystal trees
 - **Ecosystem**: Hybrid organisms emerging
 - **Resources**: New magical materials
@@ -188,6 +202,7 @@ graph TD
 ## 📈 Timeline Convergence Points
 
 ### Historical Parallels
+
 | Year | Aethermoor Event | Aquabyssos Event | Connection |
 |------|-----------------|------------------|------------|
 | -300 | Kingdom founding | Empire height | Same rulers? |
@@ -198,6 +213,7 @@ graph TD
 | Now | Queen possessed | Emperor scattered | Linked minds |
 
 ### Prophetic Convergences
+
 1. **The Seven Seals**: Both worlds have seven
 2. **The Forgotten Age**: Missing century in both histories
 3. **The Deep Calendar**: Astronomical alignment
@@ -209,6 +225,7 @@ graph TD
 ### For DMs: Managing Two Worlds
 
 #### Reality Shift Rules
+
 - **Trigger**: Major story events, bloodline activation
 - **Duration**: 1d4 hours to permanent
 - **Effect Table** (d20):
@@ -219,6 +236,7 @@ graph TD
   - 20: Paradox (reroll with advantage)
 
 #### Character Existence
+
 - **Single Body**: Standard, choose world per scene
 - **Dual Existence**: Rare, maintain both versions
 - **Quantum State**: Very rare, probability existence
@@ -227,6 +245,7 @@ graph TD
 ## 🎲 Random Encounter Tables
 
 ### Crossover Encounters (d12)
+
 1. Depth refugee seeking surface
 2. Surface explorer lost in depths
 3. Memory merchant trading between worlds
@@ -241,6 +260,7 @@ graph TD
 12. Entity fragment manifesting
 
 ### Merged Zone Events (d10)
+
 1. Gravity reversal hour
 2. Atmosphere shift (air to water)
 3. Shadow uprising attempt
@@ -257,6 +277,7 @@ graph TD
 ### Campaign Path Intersections
 
 #### Aethermoor → Aquabyssos
+
 - **Entry Point**: Post-Crystal Festival merger
 - **Motivation**: Stop shadow harvest, save merged citizens
 - **Challenges**: Adaptation, political navigation
@@ -264,6 +285,7 @@ graph TD
 - **Resolution**: Prevent or manage Deep Mother awakening
 
 #### Aquabyssos → Aethermoor
+
 - **Entry Point**: Lighthouse activation, memory stream
 - **Motivation**: Cure adaptation, stop crystal plague
 - **Challenges**: Surface prejudice, faction wars
@@ -271,6 +293,7 @@ graph TD
 - **Resolution**: Unite worlds against greater threat
 
 #### Parallel Campaigns
+
 - **Two Groups**: One in each world
 - **Communication**: Through bloodline carriers
 - **Coordination**: Actions affect other group
@@ -280,6 +303,7 @@ graph TD
 ## 📚 Lore Integration
 
 ### Shared Mythology
+
 - **Creation Myth**: Both worlds were one ocean-land
 - **Separation Legend**: Divine punishment vs protection
 - **Hero Tales**: Same heroes, different interpretations
@@ -287,6 +311,7 @@ graph TD
 - **Lost Knowledge**: Each world has half
 
 ### Language Evolution
+
 | Original | Aethermoor | Aquabyssos | Meaning Drift |
 |----------|------------|------------|---------------|
 | "Depth" | "Mystery" | "Home" | Understanding |
@@ -298,6 +323,7 @@ graph TD
 ## 🎯 Campaign Objectives
 
 ### Unification Ending
+
 - Merge worlds successfully
 - Integrate populations
 - Combine magic systems
@@ -305,6 +331,7 @@ graph TD
 - Face external threats together
 
 ### Separation Ending
+
 - Reinforce barriers
 - Maintain distinct worlds
 - Limited diplomatic contact
@@ -312,6 +339,7 @@ graph TD
 - Prepare for eventual reconnection
 
 ### Transformation Ending
+
 - Create third option
 - Transform both worlds
 - Transcend physical reality
@@ -319,17 +347,19 @@ graph TD
 - Attract multiversal attention
 
 ## 🔗 Related Documents
+
 - [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aethermoor/Aethermoor Campaign Overview]]
 - [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aquabyssos/Aquabyssos Campaign Overview]]
-- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
-- [[03_Mechanics/Depth Adaptation System]]
-- [[03_Mechanics/Crystal Plague Mechanics]]
+- [[12_Research/D&D_References/The Seven Shards Mystery]]
+- [[12_Research/D&D_References/Depth Adaptation System]]
+- [[12_Research/D&D_References/Crystal Plague Mechanics]]
 - [[NPC Cross-World Connections]]
-- [[02_Worldbuilding/Lore/Merged Zone Navigation]]
+- [[12_Research/D&D_References/Merged Zone Navigation]]
 
 ## 📝 DM Guidelines
 
 ### Managing Complexity
+
 1. Start with one connection point
 2. Gradually reveal parallels
 3. Let players discover links
@@ -337,6 +367,7 @@ graph TD
 5. Keep consistent internal logic
 
 ### Player Agency
+
 - Choose merger degree
 - Influence political outcomes
 - Shape cultural integration
@@ -344,6 +375,7 @@ graph TD
 - Create new possibilities
 
 ### Tonal Balance
+
 - Wonder vs Horror
 - Hope vs Despair
 - Unity vs Division
@@ -357,6 +389,7 @@ graph TD
 ## Quick Reference: Connection Status Tracker
 
 ### Current State: [_____________]
+
 - [ ] Completely Separated
 - [ ] Initial Contact
 - [ ] Partial Merger
@@ -364,6 +397,7 @@ graph TD
 - [ ] Full Convergence
 
 ### Active Portals: [_____]
+
 - [ ] Lighthouse Network
 - [ ] Deep Wells
 - [ ] Memory Streams
@@ -371,6 +405,7 @@ graph TD
 - [ ] Natural Rifts
 
 ### Faction Relations: [_____]
+
 - [ ] Hostile
 - [ ] Suspicious
 - [ ] Neutral
@@ -378,6 +413,7 @@ graph TD
 - [ ] Allied
 
 ### Reality Stability: [_____/10]
+
 - 10: Perfectly stable
 - 7-9: Minor fluctuations
 - 4-6: Regular shifts
@@ -406,21 +442,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Shattered Isles]]
+- [[12_Research/D&D_References/Shattered Isles]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
-- [[02_Worldbuilding/Lore/Arcanum Heights]]
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Resonance Peaks]]
-- [[02_Worldbuilding/Lore/Shattered Isles]]
-- [[02_Worldbuilding/Lore/Vorthak]]
-- [[02_Worldbuilding/People/Tenebrarum]]
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Memoriam]]
-- [[02_Worldbuilding/Places/Mourning Depths]]
+- [[12_Research/D&D_References/Shadow Vale]]
+- [[12_Research/D&D_References/Arcanum Heights]]
+- [[12_Research/D&D_References/Corallion]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Resonance Peaks]]
+- [[12_Research/D&D_References/Shattered Isles]]
+- [[12_Research/D&D_References/Vorthak]]
+- [[12_Research/D&D_References/Tenebrarum]]
+- [[12_Research/D&D_References/Abyssos Prime Upper Districts]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- [[12_Research/D&D_References/Crystallium]]
+- [[12_Research/D&D_References/Memoriam]]
+- [[12_Research/D&D_References/Mourning Depths]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

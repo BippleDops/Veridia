@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-master-curator-pearl-artflow-master-curator-pearl-artflow.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Curator Pearl Artflow]]
+- [[Master Curator Pearl Artflow]]
 
 <!-- enriched: true -->

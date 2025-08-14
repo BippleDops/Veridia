@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-daemogoth-titan-scc-daemogoth-titan-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/daemogoth-titan-scc|Daemogoth Titan]]
+# [[daemogoth-titan-scc|Daemogoth Titan]]
 *Source: Strixhaven: A Curriculum of Chaos p. 190*  
 
 Daemogoth titans are towering monsters that blight the land around them. A daemogoth grows in power over the course of decades spent feeding on sorrow and draining life from nature. Eventually that growth turns the daemogoth into a titan.
@@ -36,7 +36,7 @@ The titans maintain their lesser cousins' ability to trade magical power for a m
 
 ## Barbed Gifts
 
-When a supplicant piques a daemogoth titan's interest, the titan can grant a blessing to the supplicant (see "Supernatural Gifts "in the Dungeon Master's Guide). As long as the creature has the blessing, it must expend and roll two of its Hit Dice whenever it finishes a long rest. It takes psychic damage equal to the total rolled, and its hit point maximum is reduced by an amount equal to the psychic damage taken. This reduction lasts until the creature finishes its next long rest. The creature dies if this effect reduces its hit point maximum to 0. The blessing can be removed only by a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell.
+When a supplicant piques a daemogoth titan's interest, the titan can grant a blessing to the supplicant (see "Supernatural Gifts "in the Dungeon Master's Guide). As long as the creature has the blessing, it must expend and roll two of its Hit Dice whenever it finishes a long rest. It takes psychic damage equal to the total rolled, and its hit point maximum is reduced by an amount equal to the psychic damage taken. This reduction lasts until the creature finishes its next long rest. The creature dies if this effect reduces its hit point maximum to 0. The blessing can be removed only by a [[wish-xphb|wish]] spell.
 
 ```statblock
 "name": "Daemogoth Titan (SCC)"
@@ -61,16 +61,16 @@ When a supplicant piques a daemogoth titan's interest, the titan can grant a ble
   - "wisdom": !!int "9"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+17"
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+15"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+12"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_immunities": "psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "16"
@@ -80,12 +80,12 @@ When a supplicant piques a daemogoth titan's interest, the titan can grant a ble
   - "desc": "Using a 10-minute long ritual, the titan can forge a magical bond with\
       \ a willing creature it touches throughout the ritual. The creature becomes\
       \ bound by the pact until it dies, the titan dies, or the pact is broken by\
-      \ a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell.\n\nThe titan chooses\
+      \ a [[wish-xphb|wish]] spell.\n\nThe titan chooses\
       \ one spell from the necromancy or enchantment school that is 8th level or lower.\
       \ The bound creature can cast that spell using this pact, requiring no material\
       \ components and using Intelligence as the spellcasting ability. When it casts\
       \ the spell, the creature takes 21 (6d6) psychic damage, which can't break the\
-      \ creature's [[/03_Mechanics/CLI/conditions#Concentration|concentration]] on\
+      \ creature's [[conditions#Concentration|concentration]] on\
       \ a spell. Once the bound creature casts the spell in this way, it can't do\
       \ so again until it finishes a long rest."
     "name": "Pact of Suffering"
@@ -110,10 +110,10 @@ When a supplicant piques a daemogoth titan's interest, the titan can grant a ble
     "name": "Stalking Nightmare (Costs 2 Actions)"
   - "desc": "The titan targets one creature it can see within 120 feet of itself.\
       \ The target must make a DC 20 Wisdom saving throw. On a failed save, the target\
-      \ takes 38 (7d10) psychic damage and is [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ takes 38 (7d10) psychic damage and is [[conditions#Frightened|frightened]]\
       \ of the titan until the end of the target's next turn, and the titan regains\
       \ 15 hit points. On a successful save, the target takes half as much damage\
-      \ and isn't [[/03_Mechanics/CLI/conditions#Frightened|frightened]], and the\
+      \ and isn't [[conditions#Frightened|frightened]], and the\
       \ titan doesn't heal."
     "name": "Terrorize (Costs 3 Actions)"
 "source":

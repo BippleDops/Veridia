@@ -18,13 +18,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-surgeons-collective-shadow-surgeons-collective.svg)
-
-
-
 
 
 # Shadow Surgeons Collective
@@ -32,7 +27,7 @@ world: Aquabyssos
 **Type:** Criminal/Medical Organization  
 **Alignment:** Chaotic Neutral (officially), Chaotic Evil (in practice)  
 **Size:** ~300 active members  
-**Territory:** [[02_Worldbuilding/Places/Shadow Market Canals]], hidden facilities throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Territory:** [[Shadow Market Canals]], hidden facilities throughout [[Aquabyssos]]  
 **Leadership:** The Silhouette Surgeon Prime (identity unknown)  
 **Goals:** Perfect memory manipulation, elimination of trauma and suffering
 
@@ -82,7 +77,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 ### Memory Extraction Techniques
 **Surgical Removal**: Direct brain surgery to remove specific memory clusters  
-**Crystal Resonance**: Using [[02_Worldbuilding/Items/Aether Crystals]] to draw out experiences  
+**Crystal Resonance**: Using [[Aether Crystals]] to draw out experiences  
 **Psychological Manipulation**: Convincing patients to voluntarily surrender memories  
 **Temporal Extraction**: Stealing memories from different time periods  
 **Dream Harvesting**: Collecting memories while subjects sleep
@@ -115,11 +110,11 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 **Assassination Services**: "Killing" people by erasing their entire identity
 
 ### Recent Activities
-- Major operation targeting [[02_Worldbuilding/Places/Parliament of Echoes]] members for political memories
-- Expansion into [[02_Worldbuilding/Places/Aethermoor]] through underground contacts
+- Major operation targeting [[Parliament of Echoes]] members for political memories
+- Expansion into [[Aethermoor]] through underground contacts
 - Development of new techniques for permanent personality changes
-- Investigation by [[02_Worldbuilding/People/Admiral Thorne Blackwater]] and [[02_Worldbuilding/Places/Depth Wardens]]
-- Alliance negotiations with [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] for information sharing
+- Investigation by [[Admiral Thorne Blackwater]] and [[Depth Wardens]]
+- Alliance negotiations with [[The Whisper Syndicate]] for information sharing
 
 ## Key Members
 
@@ -186,7 +181,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 **Initiation Trials:**
 - Demonstrate surgical skill on shadow-enhanced patients
 - Successfully extract and implant a complex memory
-- Undergo shadow-bonding ritual connecting surgeon to the [[02_Worldbuilding/Lore/Shadowfell]]
+- Undergo shadow-bonding ritual connecting surgeon to the [[Shadowfell]]
 - Take blood oath of secrecy sealed with memory modification
 - Sacrifice a cherished personal memory to the collective shadow pool
 
@@ -226,11 +221,11 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 ### Headquarters and Facilities
 
 #### The Surgical Sanctum (Primary Headquarters)
-Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket dimension partially existing in the [[02_Worldbuilding/Lore/Shadowfell]], the Sanctum serves as the nerve center of all operations.
+Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially existing in the [[Shadowfell]], the Sanctum serves as the nerve center of all operations.
 
 **Layout:**
 - **The Shadow Operating Theater**: Massive surgical suite existing simultaneously in material and shadow planes
-- **Memory Vault**: Crystalline chambers storing thousands of extracted memories in [[02_Worldbuilding/People/Aether Crystal]] matrices  
+- **Memory Vault**: Crystalline chambers storing thousands of extracted memories in [[Aether Crystal]] matrices  
 - **The Umbral Library**: Research archive containing shadow surgery techniques and forbidden knowledge
 - **Council Chambers**: Meeting space for the seven Scar Council members
 - **Prime's Sanctum**: Hidden quarters of the mysterious Silhouette Surgeon Prime
@@ -238,17 +233,17 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 - **Prisoner Cells**: Holding areas for unwilling "donors" and failed experiments
 
 #### Regional Facilities
-- **Deepmind Medical Centers**: 8 legitimate clinics throughout [[02_Worldbuilding/Places/Aquabyssos]] providing cover operations
+- **Deepmind Medical Centers**: 8 legitimate clinics throughout [[Aquabyssos]] providing cover operations
 - **Shadow Processing Labs**: 12 hidden facilities for memory modification and storage
 - **Mobile Shadow Units**: 6 submersible vehicles equipped for aquatic field surgery
 - **Safe Houses**: 25 secure locations for high-value clients and dangerous operations
 - **Research Outposts**: 4 facilities in remote areas studying advanced shadow surgery techniques
 
 #### Notable Locations
-- **The Forgotten Ward**: Hospital wing in [[02_Worldbuilding/Lore/The Coral Gardens]] serving as recruitment center
-- **Shadowbane Clinic**: Facility in [[02_Worldbuilding/Places/Aethermoor]] providing services to [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- **The Void Sanctum**: Secret facility in [[02_Worldbuilding/Places/Parliament of Echoes]] district for political operations
-- **Umbral Archives**: Hidden library beneath [[02_Worldbuilding/Lore/Aquabyssos University]] containing forbidden research
+- **The Forgotten Ward**: Hospital wing in [[The Coral Gardens]] serving as recruitment center
+- **Shadowbane Clinic**: Facility in [[Aethermoor]] providing services to [[Independent Smugglers]]
+- **The Void Sanctum**: Secret facility in [[Parliament of Echoes]] district for political operations
+- **Umbral Archives**: Hidden library beneath [[Aquabyssos University]] containing forbidden research
 
 ### Equipment and Technology
 **Crystal Memory Matrices**: Advanced storage for extracted experiences  
@@ -265,27 +260,27 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 ## Relationships and Alliances
 
 ### Criminal Partnerships
-**[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]**: Information sharing and joint shadow operations  
-**[[02_Worldbuilding/Places/Coral Throne Syndicate]]**: Money laundering through [[02_Worldbuilding/Lore/Black Pearl Bank]] and resource trading  
-**[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**: Transport via [[02_Worldbuilding/Lore/Submarine Networks]] and logistics support  
-**[[02_Worldbuilding/Lore/The Drowned Court]]**: Services to noble families seeking memory modification
-**[[02_Worldbuilding/Groups/Guilds/Thieves Guild]]**: Intelligence gathering through the [[02_Worldbuilding/Places/Shadow Market Canals]] network
-**[[02_Worldbuilding/Lore/Crimson Tide Pirates]]**: Maritime operations and protection for shadow surgery vessels
+**[[The Whisper Syndicate]]**: Information sharing and joint shadow operations  
+**[[Coral Throne Syndicate]]**: Money laundering through [[Black Pearl Bank]] and resource trading  
+**[[Independent Smugglers]]**: Transport via [[Submarine Networks]] and logistics support  
+**[[The Drowned Court]]**: Services to noble families seeking memory modification
+**[[Thieves Guild]]**: Intelligence gathering through the [[Shadow Market Canals]] network
+**[[Crimson Tide Pirates]]**: Maritime operations and protection for shadow surgery vessels
 
 ### Legitimate Contacts
-**[[02_Worldbuilding/Lore/Aquabyssos Medical Council]]**: Corrupt officials providing regulatory protection
-**[[02_Worldbuilding/Lore/University Research Division]]**: Academic researchers studying shadow magic applications
-**[[02_Worldbuilding/Places/Temple of the Healing Waters]]**: Religious cover for experimental procedures
-**[[02_Worldbuilding/Groups/Guilds/Merchants Guild]]**: Wealthy patrons funding operations in exchange for services
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Political connections enabling legal immunity
+**[[Aquabyssos Medical Council]]**: Corrupt officials providing regulatory protection
+**[[University Research Division]]**: Academic researchers studying shadow magic applications
+**[[Temple of the Healing Waters]]**: Religious cover for experimental procedures
+**[[Merchants Guild]]**: Wealthy patrons funding operations in exchange for services
+**[[Parliament of Echoes]]**: Political connections enabling legal immunity
 
 ### Enemies and Rivals
-**[[02_Worldbuilding/Places/Depth Wardens]]**: Active investigation led by [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-**[[02_Worldbuilding/Places/The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
-**[[02_Worldbuilding/Places/Memory Farmers]]**: Direct competition in memory-related criminal services  
+**[[Depth Wardens]]**: Active investigation led by [[Admiral Thorne Blackwater]]
+**[[The Lighthouse Keepers]]**: Moral opposition to shadow magic corruption
+**[[Memory Farmers]]**: Direct competition in memory-related criminal services  
 **[[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]**: Paladins dedicated to stopping shadow magic abuse
-**[[02_Worldbuilding/Lore/Reformed Surgeons Alliance]]**: Former members exposing operations and helping victims
-**[[02_Worldbuilding/Lore/Citizens Protection Bureau]]**: Government agency investigating medical crimes
+**[[Reformed Surgeons Alliance]]**: Former members exposing operations and helping victims
+**[[Citizens Protection Bureau]]**: Government agency investigating medical crimes
 
 ## Threat Assessment
 
@@ -301,7 +296,7 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 ### Weaknesses
 **Ethical Conflicts**: Internal disagreements about methods  
 **Evidence Trail**: Memory extraction leaves detectable traces  
-**Dependency**: Relies heavily on [[02_Worldbuilding/People/Aether Crystal]] technology  
+**Dependency**: Relies heavily on [[Aether Crystal]] technology  
 **Public Relations**: Negative reputation limits recruitment and operations  
 **Legal Vulnerability**: Legitimate operations subject to regulation and oversight
 
@@ -311,27 +306,27 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 - **The Memory Murders**: Citizens found with surgically removed memories, no recollection of their past
 - **Shadow Clinic Infiltration**: Undercover operation to expose illegal memory trading in legitimate medical facilities
 - **The Vanishing Witnesses**: Key witnesses in major trials losing memories of crucial testimony
-- **Missing Persons Trail**: Following disappearances to hidden shadow surgery facilities in the [[02_Worldbuilding/Lore/Deep Channels]]
-- **The Corrupted Healer**: Investigating reports of a [[02_Worldbuilding/Places/Temple of the Healing Waters]] priest performing unauthorized memory surgery
+- **Missing Persons Trail**: Following disappearances to hidden shadow surgery facilities in the [[Deep Channels]]
+- **The Corrupted Healer**: Investigating reports of a [[Temple of the Healing Waters]] priest performing unauthorized memory surgery
 
 ### Moral Dilemma Adventures
 - **The Trauma Patient**: War veteran seeks memory removal, but experiences contain evidence of war crimes
 - **Shadow Cure Offer**: Collective approaches party member with mental illness, offering experimental shadow therapy
 - **The Good Surgeon**: Reformed member asks for protection while exposing operations that actually help people
 - **Memory Inheritance**: Character discovers their family fortune comes from memory trading operations
-- **The Lesser Evil**: Must work with Collective to stop worse threat from [[02_Worldbuilding/Lore/The Drowned Court]]
+- **The Lesser Evil**: Must work with Collective to stop worse threat from [[The Drowned Court]]
 
 ### Action Adventures
-- **Sanctum Raid**: Assault on the primary facility to rescue kidnapped [[02_Worldbuilding/Places/Parliament of Echoes]] member
-- **Shadow Ship Chase**: Pursuing memory thieves through [[02_Worldbuilding/Places/Aquabyssos]] submarine networks
+- **Sanctum Raid**: Assault on the primary facility to rescue kidnapped [[Parliament of Echoes]] member
+- **Shadow Ship Chase**: Pursuing memory thieves through [[Aquabyssos]] submarine networks
 - **The Living Weapon**: Combat with surgically enhanced assassins who can't feel pain or fear
-- **Festival of Shadows**: Preventing mass memory extraction during major [[02_Worldbuilding/Lore/The Coral Gardens]] celebration
-- **Dimensional Breach**: Stopping shadow surgery that's tearing holes between material plane and [[02_Worldbuilding/Lore/Shadowfell]]
+- **Festival of Shadows**: Preventing mass memory extraction during major [[The Coral Gardens]] celebration
+- **Dimensional Breach**: Stopping shadow surgery that's tearing holes between material plane and [[Shadowfell]]
 
 ### Political Intrigue
-- **The Compromised Admiral**: [[02_Worldbuilding/People/Admiral Thorne Blackwater]] acting strangely after memory modification
+- **The Compromised Admiral**: [[Admiral Thorne Blackwater]] acting strangely after memory modification
 - **Diplomatic Memory Theft**: International crisis when foreign ambassador's secrets are surgically extracted
-- **Shadow Cabinet**: Discovery that key [[02_Worldbuilding/Places/Parliament of Echoes]] members have modified memories
+- **Shadow Cabinet**: Discovery that key [[Parliament of Echoes]] members have modified memories
 - **The Collector's War**: Internal power struggle as Council of Scars members vie for control
 - **Double Agent Network**: Intelligence services infiltrating each other using memory-modified operatives
 
@@ -352,7 +347,7 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 ### Character Connections
 - **Former Patient**: Character underwent legitimate trauma treatment but suspects memory modification
 - **Memory Victim**: Party member has stolen memories and must infiltrate Collective to recover them
-- **Family Investigation**: Hired by families of victims who disappeared near [[02_Worldbuilding/Lore/Deepmind Medical Centers]]
+- **Family Investigation**: Hired by families of victims who disappeared near [[Deepmind Medical Centers]]
 - **False Memories**: Party discovers implanted memories connecting them to major conspiracy
 - **Shadow-Bonded**: Character has shadow surgery scars providing special abilities but marking them as former patient
 - **Medical Rival**: Character is ethical healer competing against Collective's corrupted practices
@@ -379,18 +374,18 @@ Hidden beneath the [[02_Worldbuilding/Places/Shadow Market Canals]] in a pocket 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Shadow Merchant Riptide]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -412,15 +407,15 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[02_Worldbuilding/Groups/Guilds/Merchants Guild]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/Groups/Guilds/Thieves Guild]]
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Shadow Market Canals]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[Independent Smugglers]]
+- [[Merchants Guild]]
+- [[The Whisper Syndicate]]
+- [[Thieves Guild]]
+- [[Admiral Thorne Blackwater]]
+- [[Aethermoor]]
+- [[Coral Throne Syndicate]]
+- [[Depth Wardens]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[Shadow Market Canals]]
+- [[Aether Crystals]]

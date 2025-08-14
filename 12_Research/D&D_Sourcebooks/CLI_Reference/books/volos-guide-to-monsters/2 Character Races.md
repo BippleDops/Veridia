@@ -34,27 +34,27 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [[/03_Mechanics/CLI/races/aasimar-xphb|Aasimar (Fallen)]]  
-- [[/03_Mechanics/CLI/races/aasimar-xphb|Aasimar (Protector)]]  
-- [[/03_Mechanics/CLI/races/aasimar-xphb|Aasimar (Scourge)]]  
-- [[/03_Mechanics/CLI/races/bugbear-vgm|Bugbear]]  
-- [[/03_Mechanics/CLI/races/firbolg-vgm|Firbolg]]  
-- [[/03_Mechanics/CLI/races/goblin-vgm|Goblin]]  
-- [[/03_Mechanics/CLI/races/goliath-xphb|Goliath]]  
-- [[/03_Mechanics/CLI/races/hobgoblin-vgm|Hobgoblin]]  
-- [[/03_Mechanics/CLI/races/kenku-vgm|Kenku]]  
-- [[/03_Mechanics/CLI/races/kobold-vgm|Kobold]]  
-- [[/03_Mechanics/CLI/races/lizardfolk-vgm|Lizardfolk]]  
-- [[/03_Mechanics/CLI/races/orc-xphb|Orc]]  
-- [[/03_Mechanics/CLI/races/tabaxi-vgm|Tabaxi]]  
-- [[/03_Mechanics/CLI/races/triton-vgm|Triton]]  
-- [[/03_Mechanics/CLI/races/yuan-ti-pureblood-vgm|Yuan-ti Pureblood]]  
+- [[aasimar-xphb|Aasimar (Fallen)]]  
+- [[aasimar-xphb|Aasimar (Protector)]]  
+- [[aasimar-xphb|Aasimar (Scourge)]]  
+- [[bugbear-vgm|Bugbear]]  
+- [[firbolg-vgm|Firbolg]]  
+- [[goblin-vgm|Goblin]]  
+- [[goliath-xphb|Goliath]]  
+- [[hobgoblin-vgm|Hobgoblin]]  
+- [[kenku-vgm|Kenku]]  
+- [[kobold-vgm|Kobold]]  
+- [[lizardfolk-vgm|Lizardfolk]]  
+- [[orc-xphb|Orc]]  
+- [[tabaxi-vgm|Tabaxi]]  
+- [[triton-vgm|Triton]]  
+- [[yuan-ti-pureblood-vgm|Yuan-ti Pureblood]]  
 
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
 
-![[/03_Mechanics/CLI/tables/height-and-weight-vgm|Height and Weight]]
+![[height-and-weight-vgm|Height and Weight]]
 
 ## Player-Facing Summary
 

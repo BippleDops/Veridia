@@ -20,7 +20,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-mess-kit-mess-kit.png)
+![[04_Resources/Assets/Items/item-artifact-mess-kit-mess-kit.png]]
 
 # Mess Kit
 *Adventuring gear*  

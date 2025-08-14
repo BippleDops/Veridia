@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-dog-xmm-death-dog-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/death-dog-xmm|Death Dog]]
+# [[death-dog-xmm|Death Dog]]
 *Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Death Dog
@@ -40,7 +40,7 @@ world: Both
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -78,13 +78,13 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "1"
@@ -93,13 +93,13 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.\
       \ If the target is a creature, it is subjected to the following effect. Constitution\
-      \ Saving Throw: DC 12. 1st Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ condition. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the\
-      \ target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum\
-      \ doesn't return to normal when finishing a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
+      \ Saving Throw: DC 12. 1st Failure: The target has the [[conditions#Poisoned|Poisoned]]\
+      \ condition. While [[conditions#Poisoned|Poisoned]], the\
+      \ target's [[hit-points-xphb|Hit Point]] maximum\
+      \ doesn't return to normal when finishing a [[long-rest-xphb|Long Rest]],\
       \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-      \ on a success. Subsequent Failures: The [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
-      \ target's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum\
+      \ on a success. Subsequent Failures: The [[conditions#Poisoned|Poisoned]]\
+      \ target's [[hit-points-xphb|Hit Point]] maximum\
       \ decreases by 5 (d10)."
     "name": "Bite"
 "source":

@@ -20,13 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-chef-amara-tastecurrent-chef-amara-tastecurrent.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chef-amara-tastecurrent-chef-amara-tastecurrent.svg]]
 
 
 # Chef Amara Tastecurrent
@@ -121,7 +116,7 @@ Amara works well as a sophisticated contact who can provide both services and in
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 
 ## History
@@ -169,6 +164,6 @@ Legends speak of Chef Amara Tastecurrent as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chef Amara Tastecurrent]]
+- [[Chef Amara Tastecurrent]]
 
 <!-- enriched: true -->

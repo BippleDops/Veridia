@@ -41,11 +41,11 @@ You can duplicate other creatures' handwriting and craftwork. You have advantage
 
 ### Kenku Training
 
-You are proficient in your choice of two of the following skills: [[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]], [[/03_Mechanics/CLI/skills#Deception|Deception]], [[/03_Mechanics/CLI/skills#Stealth|Stealth]], and [[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]].
+You are proficient in your choice of two of the following skills: [[skills#Acrobatics|Acrobatics]], [[skills#Deception|Deception]], [[skills#Stealth|Stealth]], and [[skills#Sleight%20of%20Hand|Sleight of Hand]].
 
 ### Mimicry
 
-You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check opposed by your Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) check.
+You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ([[skills#Insight|Insight]]) check opposed by your Charisma ([[skills#Deception|Deception]]) check.
 
 ### Languages
 

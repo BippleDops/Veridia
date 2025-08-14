@@ -61,9 +61,9 @@ A player character who becomes a werebat gains a Dexterity of 17 if their score 
 ## Loup Garou
 _Source: Van Richten's Guide to Ravenloft_
 
-A Humanoid who succumbs to a loup garou's lycanthropy becomes a [[/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm|werewolf]] (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
+A Humanoid who succumbs to a loup garou's lycanthropy becomes a [[werewolf-xmm|werewolf]] (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
 
-Once a loup garou is slain, a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]]. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
+Once a loup garou is slain, a [[remove-curse-xphb|remove curse]] spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [[conditions#Exhaustion|exhaustion]]. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
 
 ## Player-Facing Summary
 

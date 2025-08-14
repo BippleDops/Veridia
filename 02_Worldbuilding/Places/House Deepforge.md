@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]
 
 ## Player-Facing Summary
 

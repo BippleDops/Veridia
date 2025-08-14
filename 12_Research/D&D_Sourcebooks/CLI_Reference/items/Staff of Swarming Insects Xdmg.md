@@ -28,14 +28,14 @@ world: Both
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] originating from you. The insects remain for 10 minutes, making the area [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]]) disperses the swarm and ends the effect.
+While holding the staff , you can take a [[actions#Magic|Magic]] action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you. The insects remain for 10 minutes, making the area [[heavily-obscured-xphb|Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb|Gust of Wind]]) disperses the swarm and ends the effect.
 
 ## Spells
 
@@ -43,8 +43,8 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[/03_Mechanics/CLI/spells/giant-insect-xphb|Giant Insect]] | 4 |
-| [[/03_Mechanics/CLI/spells/insect-plague-xphb|Insect Plague]] | 5 |
+| [[giant-insect-xphb|Giant Insect]] | 4 |
+| [[insect-plague-xphb|Insect Plague]] | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

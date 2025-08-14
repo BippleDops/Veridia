@@ -19,11 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-parasite-infection-memory-parasite-infection.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-parasite-infection-memory-parasite-infection.svg]]
 
 
 # Memory Parasite Infection
@@ -160,7 +157,7 @@ This outbreak provides opportunities for medical mysteries, social drama, and mo
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[Screaming Gardens]]
 
 ## Player-Facing Summary
 
@@ -172,6 +169,6 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memory Parasite Infection]]
+- [[Memory Parasite Infection]]
 
 <!-- enriched: true -->

@@ -21,10 +21,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-market-heist-market-heist.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-market-heist-market-heist.svg]]
 
 
 # Market Heist
@@ -162,7 +159,7 @@ This heist emphasizes planning and teamwork over combat. Reward creative problem
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -174,6 +171,6 @@ Legends speak of Market Heist as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Market Heist]]
+- [[Market Heist]]
 
 <!-- enriched: true -->

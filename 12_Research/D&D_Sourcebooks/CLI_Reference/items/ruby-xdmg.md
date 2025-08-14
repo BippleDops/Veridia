@@ -20,7 +20,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-ruby-xdmg-ruby-xdmg.png)
+![[04_Resources/Assets/Items/item-artifact-ruby-xdmg-ruby-xdmg.png]]
 
 # Ruby
 *Treasure (gemstone)*  

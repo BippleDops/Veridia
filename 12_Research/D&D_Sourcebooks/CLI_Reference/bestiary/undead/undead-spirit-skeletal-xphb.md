@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-skeletal-xphb-undead-spirit-skeletal-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/undead-spirit-skeletal-xphb|Undead Spirit (Skeletal)]]
+# [[undead-spirit-skeletal-xphb|Undead Spirit (Skeletal)]]
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
   - !!int "9"
 "speed": "30 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "actions":

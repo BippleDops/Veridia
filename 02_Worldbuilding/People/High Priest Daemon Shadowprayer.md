@@ -14,10 +14,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -60,12 +56,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]
+- [[High Priest Daemon Shadowprayer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[Quest - The Blackmail Papers]]
+- [[Quest - The Truth Unveiled]]

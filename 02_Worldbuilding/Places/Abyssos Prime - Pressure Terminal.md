@@ -11,6 +11,10 @@ obsidianUIMode: preview
 owner: Abyssos Prime Government
 status: complete
 tags:
+- quest
+- session-notes
+- crystal-enhanced
+- aquatic
 - aquabyssos
 - complete
 - content/faction
@@ -28,29 +32,27 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg]]
 
 
 # Abyssos Prime - Pressure Terminal
+
 *Where the Deep Roads Begin and Distance Dissolves*
 
 ## Overview
 
-The Pressure Terminal serves as [[02_Worldbuilding/Places/Abyssos Prime]]'s primary transportation hub, a magnificent engineering marvel that stands as the nerve center of the realm's revolutionary pressure-tube transit system. This massive complex manages the flow of millions of passengers and countless tons of cargo through a network of pressurized underwater tunnels that span the entirety of [[02_Worldbuilding/Places/Aquabyssos]].
+The Pressure Terminal serves as [[12_Research/D&D_References/Abyssos Prime]]'s primary transportation hub, a magnificent engineering marvel that stands as the nerve center of the realm's revolutionary pressure-tube transit system. This massive complex manages the flow of millions of passengers and countless tons of cargo through a network of pressurized underwater tunnels that span the entirety of [[12_Research/D&D_References/Aquabyssos]].
 
-Built into the natural rock formations at the city's depths, the terminal combines crystalline architecture with bio-mechanical pressure systems, creating an environment where the crushing weight of the deep ocean is transformed into the motive force for the fastest transportation network in any realm. The facility operates continuously, with arrivals and departures occurring every few minutes across dozens of routes reaching every corner of [[02_Worldbuilding/Places/Aquabyssos]].
+Built into the natural rock formations at the city's depths, the terminal combines crystalline architecture with bio-mechanical pressure systems, creating an environment where the crushing weight of the deep ocean is transformed into the motive force for the fastest transportation network in any realm. The facility operates continuously, with arrivals and departures occurring every few minutes across dozens of routes reaching every corner of [[12_Research/D&D_References/Aquabyssos]].
 
-More than just a transit hub, the Pressure Terminal represents the technological and political heart of [[02_Worldbuilding/Places/Aquabyssos]], demonstrating the realm's mastery over their aquatic environment and serving as a symbol of the unified infrastructure that binds the scattered settlements of the deep ocean into a cohesive civilization.
+More than just a transit hub, the Pressure Terminal represents the technological and political heart of [[12_Research/D&D_References/Aquabyssos]], demonstrating the realm's mastery over their aquatic environment and serving as a symbol of the unified infrastructure that binds the scattered settlements of the deep ocean into a cohesive civilization.
 
 ## Physical Architecture & Design
 
 ### Exterior Structure
-The Pressure Terminal presents itself as a massive crystalline dome fused directly into the bedrock at [[02_Worldbuilding/Places/Abyssos Prime]]'s lowest levels. The structure's exterior shell consists of reinforced bio-crystal capable of withstanding pressures that would crush conventional materials. Hundreds of tube openings pierce the dome's surface at precisely calculated angles, each one representing a different destination throughout the realm.
+
+The Pressure Terminal presents itself as a massive crystalline dome fused directly into the bedrock at [[12_Research/D&D_References/Abyssos Prime]]'s lowest levels. The structure's exterior shell consists of reinforced bio-crystal capable of withstanding pressures that would crush conventional materials. Hundreds of tube openings pierce the dome's surface at precisely calculated angles, each one representing a different destination throughout the realm.
 
 The approach to the terminal is marked by the **Pressure Gardens**—a series of artificially maintained current flows that create spectacular displays of bioluminescent particles. These gardens serve both aesthetic and practical purposes, as the current flows help guide incoming pressure capsules to their correct docking stations while creating a landmark visible from miles away.
 
@@ -59,27 +61,30 @@ Surrounding the main terminal are dozens of smaller auxiliary structures: mainte
 ### Interior Layout and Levels
 
 #### The Grand Concourse - Main Level
+
 The terminal's central space rises through four levels, creating a vast atrium where travelers can observe the complex choreography of the pressure system in action. The concourse features a circular design with eight major departure gates arranged around the perimeter, each serving different regional routes.
 
 **The Information Reef** occupies the center of the concourse, a living coral structure enhanced with bio-luminescent displays showing real-time departure schedules, route maps, and system status updates. Smaller information nodes throughout the space provide detailed travel guidance in multiple languages and through various communication methods including telepathic broadcasts for those capable of receiving them.
 
-**Merchant Galleries** line the concourse's outer ring, featuring shops specializing in travel supplies, pressure-resistant goods, regional specialties from across [[02_Worldbuilding/Places/Aquabyssos]], and emergency equipment. These establishments cater to both regular commuters and adventurers heading to dangerous or remote locations.
+**Merchant Galleries** line the concourse's outer ring, featuring shops specializing in travel supplies, pressure-resistant goods, regional specialties from across [[12_Research/D&D_References/Aquabyssos]], and emergency equipment. These establishments cater to both regular commuters and adventurers heading to dangerous or remote locations.
 
 #### The Departure Bays - Upper Level
+
 Individual departure areas for each major route, designed to accommodate different types of pressure capsules and travel purposes. Each bay features specialized equipment for its particular service:
 
-**Executive Bays** (Bays 1-2): Premium service with luxurious pressure capsules for government officials and wealthy travelers. These bays include private waiting areas, concierge services, and direct connections to the [[02_Worldbuilding/Places/Parliament of Echoes]] and other government facilities.
+**Executive Bays** (Bays 1-2): Premium service with luxurious pressure capsules for government officials and wealthy travelers. These bays include private waiting areas, concierge services, and direct connections to the [[12_Research/D&D_References/Parliament of Echoes]] and other government facilities.
 
-**Standard Transit Bays** (Bays 3-6): Regular passenger service to major population centers throughout [[02_Worldbuilding/Places/Aquabyssos]]. These bays handle the highest volume of traffic with efficient loading systems and comfortable waiting areas.
+**Standard Transit Bays** (Bays 3-6): Regular passenger service to major population centers throughout [[12_Research/D&D_References/Aquabyssos]]. These bays handle the highest volume of traffic with efficient loading systems and comfortable waiting areas.
 
 **Cargo and Industrial Bays** (Bays 7-8): Heavy freight service for transporting goods, materials, and large equipment. These bays feature specialized loading equipment and connection points for industrial pressure capsules.
 
 #### The Engineering Levels - Lower Levels
+
 Beneath the passenger areas lie the complex mechanical systems that make the pressure transit network possible:
 
 **Pressure Regulation Central**: Banks of crystalline pressure chambers that maintain precise pressure differentials throughout the system. Master engineers monitor and adjust these systems continuously to ensure safe and efficient travel.
 
-**Deep Current Tap Station**: The interface between the natural deep ocean currents and the terminal's power systems. This area requires constant maintenance and features some of the most advanced hydraulic engineering in [[02_Worldbuilding/Places/Aquabyssos]].
+**Deep Current Tap Station**: The interface between the natural deep ocean currents and the terminal's power systems. This area requires constant maintenance and features some of the most advanced hydraulic engineering in [[12_Research/D&D_References/Aquabyssos]].
 
 **Emergency Systems Bay**: Backup power generators, emergency pressure release systems, and rapid response equipment for handling system failures or accidents. This area is staffed around the clock by specialist technicians.
 
@@ -88,6 +93,7 @@ Beneath the passenger areas lie the complex mechanical systems that make the pre
 ### Pressure Tube Network Infrastructure
 
 #### System Design Principles
+
 The pressure tube network operates on principles of controlled pressure differential and current redirection. Natural deep ocean currents are captured, concentrated, and channeled through crystalline conduits that can withstand enormous pressures while maintaining precise control over flow rates and direction.
 
 Each pressure tube consists of multiple layers: an inner bio-membrane that provides cushioning and life support, a middle crystalline shell for structural integrity, and an outer pressure management layer that interfaces with the current flows. The tubes are maintained in a state of neutral buoyancy, allowing capsules to travel at high speeds without fighting against natural water resistance.
@@ -107,6 +113,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 ### Travel Services
 
 #### Standard Passenger Transport
+
 **Cost**: 10-50 gp depending on distance and service level
 **Schedules**: Departures every 15-30 minutes on major routes
 **Amenities**: Climate-controlled capsules, basic meal service, information displays
@@ -120,6 +127,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 - Guaranteed arrival times with compensation for delays
 
 #### Premium Executive Service
+
 **Cost**: 100-300 gp per journey
 **Features**: Private capsules for small groups, concierge service, luxury amenities
 **Clientele**: Government officials, wealthy merchants, diplomatic missions
@@ -127,6 +135,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 **Security**: Enhanced security screening and discrete travel options
 
 #### Cargo and Freight Services
+
 **Rates**: Based on weight, volume, and destination
 **Specialties**: Hazardous materials transport, temperature-controlled cargo, oversized equipment
 **Documentation**: Customs clearance, shipping insurance, tracking services
@@ -135,18 +144,21 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 ### Support Services
 
 #### Travel Planning and Information
+
 **Route Consultation**: Expert advice on optimal travel paths and timing
 **Documentation Services**: Travel permits, identification verification, customs preparation
 **Translation Services**: Multi-language support and cultural guidance
 **Emergency Contacts**: 24-hour assistance for travelers in distress
 
 #### Equipment and Supplies
+
 **Pressure Gear**: Specialized equipment for extreme depth travel
 **Emergency Supplies**: Safety equipment, medical kits, survival gear
 **Regional Specialties**: Local goods and materials from various destinations
 **Travel Insurance**: Protection against delays, accidents, and lost luggage
 
 #### Maintenance and Technical Services
+
 **Capsule Inspection**: Safety checks and maintenance for private pressure capsules
 **System Upgrades**: Installation of new equipment or enhanced capabilities
 **Technical Consultation**: Engineering advice for pressure system development
@@ -155,6 +167,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 ## Notable NPCs and Personnel
 
 ### Chief Engineer Coral Pressurecraft
+
 *Female Triton, Neutral Good*
 **Terminal Operations Director**
 
@@ -172,6 +185,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 Coral has managed the Pressure Terminal for over twenty years, having started as a junior engineer and worked her way up through dedication and exceptional technical skills. She takes personal pride in the system's safety record and is known for her hands-on approach to problem-solving, often found in the engineering levels working alongside her staff.
 
 ### Station Master Typhoon Currentguide
+
 *Male Sea Elf, Lawful Neutral*
 **Passenger Services Administrator**
 
@@ -188,6 +202,7 @@ Coral has managed the Pressure Terminal for over twenty years, having started as
 Typhoon ensures smooth passenger operations throughout the terminal, handling everything from routine scheduling to complex travel arrangements for VIPs. His calm demeanor and problem-solving skills make him invaluable during busy periods and emergency situations.
 
 ### Security Chief Marina Depthwatch
+
 *Female Human, Lawful Good*
 **Terminal Security and Safety Director**
 
@@ -204,6 +219,7 @@ Typhoon ensures smooth passenger operations throughout the terminal, handling ev
 Marina maintains security throughout the terminal complex, ensuring passenger safety while protecting the sensitive infrastructure from threats. Her team handles everything from routine crowd control to counter-espionage operations.
 
 ### The Pressure Speakers (3)
+
 *Various races, Neutral*
 **System Communication Specialists**
 
@@ -215,6 +231,7 @@ A team of telepathically gifted individuals who serve as living communication no
 - **Information Processing**: Handle dozens of simultaneous communication streams
 
 ### Maintenance Teams (50+ personnel)
+
 *Various races and skill levels*
 **System Maintenance and Technical Support**
 
@@ -230,28 +247,34 @@ Highly trained technicians who keep the pressure system operating safely and eff
 ### Traffic Flow and Scheduling
 
 #### Peak Operations
-During busy periods, the terminal handles over 10,000 passengers and 500 tons of cargo daily. The morning and evening rushes see the highest traffic volumes as commuters travel between [[02_Worldbuilding/Places/Abyssos Prime]] and outlying communities. Special event scheduling accommodates government meetings, cultural festivals, and emergency evacuations.
+
+During busy periods, the terminal handles over 10,000 passengers and 500 tons of cargo daily. The morning and evening rushes see the highest traffic volumes as commuters travel between [[12_Research/D&D_References/Abyssos Prime]] and outlying communities. Special event scheduling accommodates government meetings, cultural festivals, and emergency evacuations.
 
 #### Route Management
-The system operates on a hub-and-spoke model with [[02_Worldbuilding/Places/Abyssos Prime]] serving as the central connection point. Major routes include:
 
-- **Northern Express**: Service to [[02_Worldbuilding/Places/Crystalhaven]] and mining communities
-- **Deep Current Route**: Access to [[02_Worldbuilding/Places/The Hadal Depths]] research stations
+The system operates on a hub-and-spoke model with [[12_Research/D&D_References/Abyssos Prime]] serving as the central connection point. Major routes include:
+
+- **Northern Express**: Service to [[12_Research/D&D_References/Crystalhaven]] and mining communities
+- **Deep Current Route**: Access to [[12_Research/D&D_References/The Hadal Depths]] research stations
 - **Coastal Circuit**: Connections to surface-accessible communities
 - **Industrial Line**: Heavy freight service to manufacturing centers
 
 #### System Monitoring
+
 Continuous monitoring of pressure differentials, current flows, and capsule positions ensures safe operation. Advanced warning systems detect potential problems before they become dangerous, allowing for preventive maintenance and route adjustments.
 
 ### Emergency Procedures and Safety Systems
 
 #### Crisis Response Protocols
+
 The terminal maintains comprehensive emergency procedures for various scenarios including system failures, pressure breaches, seismic events, and security threats. Specialized response teams can be mobilized within minutes, and emergency evacuation procedures can clear the entire facility in under an hour.
 
 #### Safety Equipment and Backup Systems
+
 Multiple redundant systems ensure passenger safety even during major system failures. Emergency pressure release valves prevent catastrophic over-pressurization, backup power systems maintain essential functions during outages, and emergency capsules provide rapid evacuation capabilities.
 
 #### Medical and Rescue Services
+
 On-site medical facilities handle routine health issues and emergency trauma care. Specialized rescue teams trained in underwater operations can respond to accidents anywhere in the pressure network within hours.
 
 ## Environmental Challenges and Hazards
@@ -259,6 +282,7 @@ On-site medical facilities handle routine health issues and emergency trauma car
 ### Pressure-Related Dangers
 
 #### System Over-Pressurization
+
 Occasional malfunctions in the pressure regulation systems can create dangerous conditions for both passengers and equipment.
 - **Warning Signs**: Unusual vibrations, pressure alarms, system status alerts
 - **Effects**: Potential capsule damage, passenger discomfort, system shutdown
@@ -266,6 +290,7 @@ Occasional malfunctions in the pressure regulation systems can create dangerous 
 - **Response**: Automatic pressure release systems and emergency protocols
 
 #### Pressure Loss Events
+
 Sudden loss of pressure in the system can strand capsules and create dangerous travel conditions.
 - **Causes**: Equipment failure, external damage, power outages
 - **Effects**: Capsules may stop mid-journey, requiring emergency rescue
@@ -275,6 +300,7 @@ Sudden loss of pressure in the system can strand capsules and create dangerous t
 ### Environmental Hazards
 
 #### Deep Current Fluctuations
+
 Natural variations in deep ocean currents can affect system performance and safety.
 - **Impact**: Reduced transport speeds, scheduling delays, routing changes
 - **Monitoring**: Continuous current measurement and prediction systems
@@ -282,6 +308,7 @@ Natural variations in deep ocean currents can affect system performance and safe
 - **Long-term Planning**: System modifications to handle changing conditions
 
 #### Seismic Activity
+
 Underwater earthquakes and geological shifts can damage system infrastructure.
 - **Detection**: Seismic monitoring systems throughout the network
 - **Prevention**: Earthquake-resistant construction and flexible connections
@@ -291,6 +318,7 @@ Underwater earthquakes and geological shifts can damage system infrastructure.
 ### Security Threats
 
 #### Sabotage and Terrorism
+
 The critical nature of the transportation system makes it a potential target for hostile actors.
 - **Vulnerabilities**: Access points, control systems, structural components
 - **Protection**: Multi-layered security, surveillance, access control
@@ -298,6 +326,7 @@ The critical nature of the transportation system makes it a potential target for
 - **Response**: Emergency shutdown capabilities and rapid response teams
 
 #### Espionage and Intelligence Gathering
+
 The terminal's role in government and military transportation makes it attractive to foreign intelligence services.
 - **Counter-measures**: Security screening, personnel vetting, communication security
 - **Detection**: Surveillance systems and behavioral analysis
@@ -307,7 +336,8 @@ The terminal's role in government and military transportation makes it attractiv
 ## Hidden Features and Secrets
 
 ### The Deep Vault Connection
-Beneath the public levels of the terminal lies a secure connection to [[02_Worldbuilding/Places/Abyssos Prime]]'s most classified facilities. This ultra-secure pressure tube provides rapid transit for highest-level government officials and sensitive materials during crisis situations. Access requires authorization from multiple government officials and is protected by lethal security measures.
+
+Beneath the public levels of the terminal lies a secure connection to [[12_Research/D&D_References/Abyssos Prime]]'s most classified facilities. This ultra-secure pressure tube provides rapid transit for highest-level government officials and sensitive materials during crisis situations. Access requires authorization from multiple government officials and is protected by lethal security measures.
 
 **Security Features:**
 - Biometric and magical identity verification
@@ -316,6 +346,7 @@ Beneath the public levels of the terminal lies a secure connection to [[02_World
 - Emergency lockdown systems that can seal the entire section
 
 ### Emergency Government Continuity System
+
 The terminal contains hidden facilities designed to serve as a backup government center during catastrophic emergencies. These areas include secure communication facilities, protected meeting spaces, and supplies for extended operations. Only the highest-level government officials know of these facilities' existence.
 
 **Capabilities:**
@@ -325,6 +356,7 @@ The terminal contains hidden facilities designed to serve as a backup government
 - Emergency transportation for key personnel
 
 ### The Pressure Experiment Chambers
+
 Secret research facilities within the terminal complex conduct experiments with pressure technology and its potential applications. These chambers explore military applications, advanced transportation concepts, and exotic pressure-based phenomena that could revolutionize underwater technology.
 
 **Current Projects:**
@@ -334,7 +366,8 @@ Secret research facilities within the terminal complex conduct experiments with 
 - Bio-enhancement through controlled pressure exposure
 
 ### Intelligence Monitoring Network
-The terminal serves as a hub for intelligence gathering operations throughout [[02_Worldbuilding/Places/Aquabyssos]]. Hidden surveillance systems monitor passenger traffic, cargo contents, and communications for signs of threats to realm security. This information is shared with appropriate government agencies through secure channels.
+
+The terminal serves as a hub for intelligence gathering operations throughout [[12_Research/D&D_References/Aquabyssos]]. Hidden surveillance systems monitor passenger traffic, cargo contents, and communications for signs of threats to realm security. This information is shared with appropriate government agencies through secure channels.
 
 **Monitoring Capabilities:**
 - Passenger identification and tracking
@@ -345,7 +378,8 @@ The terminal serves as a hub for intelligence gathering operations throughout [[
 ## Adventure Hooks and Plot Opportunities
 
 ### The Sabotage Crisis (Levels 3-5)
-A series of minor malfunctions in the pressure system appears to be the result of deliberate sabotage rather than normal wear and tear. The party is hired to investigate discretely while maintaining normal terminal operations, leading to discoveries about a conspiracy to cripple [[02_Worldbuilding/Places/Aquabyssos]]'s transportation network.
+
+A series of minor malfunctions in the pressure system appears to be the result of deliberate sabotage rather than normal wear and tear. The party is hired to investigate discretely while maintaining normal terminal operations, leading to discoveries about a conspiracy to cripple [[12_Research/D&D_References/Aquabyssos]]'s transportation network.
 
 **Key Elements:**
 - Investigation of technical systems and personnel
@@ -354,7 +388,8 @@ A series of minor malfunctions in the pressure system appears to be the result o
 - Unraveling a larger plot against the government
 
 ### The Missing VIP (Levels 5-7)
-An important diplomatic courier traveling through the terminal has disappeared along with crucial documents that could affect relations between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. The party must trace the missing individual through the complex pressure network while avoiding diplomatic incidents.
+
+An important diplomatic courier traveling through the terminal has disappeared along with crucial documents that could affect relations between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. The party must trace the missing individual through the complex pressure network while avoiding diplomatic incidents.
 
 **Key Elements:**
 - Time pressure to prevent diplomatic crisis
@@ -363,6 +398,7 @@ An important diplomatic courier traveling through the terminal has disappeared a
 - High-stakes negotiation and diplomacy
 
 ### The System Overload (Levels 6-8)
+
 A massive surge in deep ocean currents threatens to overload the entire pressure system, potentially destroying the terminal and stranding thousands of people throughout the network. The party must work with terminal personnel to prevent catastrophe while dealing with the various crises that emerge during the emergency.
 
 **Key Elements:**
@@ -372,7 +408,8 @@ A massive surge in deep ocean currents threatens to overload the entire pressure
 - Cooperation with NPCs possessing specialized technical knowledge
 
 ### The Deep Route Conspiracy (Levels 8-10)
-Secret routes in the pressure system are being used to transport illegal goods and personnel to forbidden locations in [[02_Worldbuilding/Places/The Hadal Depths]]. The party's investigation reveals a conspiracy involving terminal personnel, government officials, and entities from the deep ocean that threatens the security of the entire realm.
+
+Secret routes in the pressure system are being used to transport illegal goods and personnel to forbidden locations in [[12_Research/D&D_References/The Hadal Depths]]. The party's investigation reveals a conspiracy involving terminal personnel, government officials, and entities from the deep ocean that threatens the security of the entire realm.
 
 **Key Elements:**
 - Infiltration of criminal networks operating within legitimate business
@@ -381,6 +418,7 @@ Secret routes in the pressure system are being used to transport illegal goods a
 - Confrontation with otherworldly entities and their mortal agents
 
 ### The Temporal Transit Incident (Levels 10-12)
+
 An experimental modification to the pressure system has accidentally created temporal anomalies, causing some capsules to arrive before they departed or travel to destinations in the past or future. The party must navigate the complex temporal effects while preventing the anomalies from spreading and potentially unraveling reality.
 
 **Key Elements:**
@@ -392,26 +430,31 @@ An experimental modification to the pressure system has accidentally created tem
 ## Connected Locations and Regional Impact
 
 ### Direct Service Connections
-The pressure tube network directly connects the terminal to major locations throughout [[02_Worldbuilding/Places/Aquabyssos]]:
 
-- **[[02_Worldbuilding/Places/Crystalhaven]]**: Primary northern route serving mining and crystal production facilities
-- **[[02_Worldbuilding/Places/The Phosphor Markets]]**: Commercial route for trade and economic activity
-- **[[02_Worldbuilding/Places/Azure Citadel]]**: Military route for government and defense operations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Government route for political and administrative functions
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Academic route for research and education
+The pressure tube network directly connects the terminal to major locations throughout [[12_Research/D&D_References/Aquabyssos]]:
+
+- **[[12_Research/D&D_References/Crystalhaven]]**: Primary northern route serving mining and crystal production facilities
+- **[[12_Research/D&D_References/The Phosphor Markets]]**: Commercial route for trade and economic activity
+- **[[12_Research/D&D_References/Azure Citadel]]**: Military route for government and defense operations
+- **[[12_Research/D&D_References/Parliament of Echoes]]**: Government route for political and administrative functions
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Academic route for research and education
 - **Deep Research Stations**: Specialized routes to extreme depth facilities
 
 ### Economic Impact
-The terminal serves as the economic heart of [[02_Worldbuilding/Places/Aquabyssos]], facilitating trade, commerce, and resource distribution throughout the realm. The efficiency of the pressure transport system has enabled economic development in previously isolated locations and created new opportunities for commerce and industry.
+
+The terminal serves as the economic heart of [[12_Research/D&D_References/Aquabyssos]], facilitating trade, commerce, and resource distribution throughout the realm. The efficiency of the pressure transport system has enabled economic development in previously isolated locations and created new opportunities for commerce and industry.
 
 ### Political Significance
-Control of the transportation network provides significant political leverage, making the terminal a key strategic asset for the government. The facility's security and continued operation are essential for maintaining governmental authority and providing services throughout the dispersed settlements of [[02_Worldbuilding/Places/Aquabyssos]].
+
+Control of the transportation network provides significant political leverage, making the terminal a key strategic asset for the government. The facility's security and continued operation are essential for maintaining governmental authority and providing services throughout the dispersed settlements of [[12_Research/D&D_References/Aquabyssos]].
 
 ### Cultural Importance
-The terminal represents the technological achievement and unified identity of [[02_Worldbuilding/Places/Aquabyssos]], serving as a symbol of progress and cooperation. The facility's impressive architecture and efficient operations demonstrate the realm's mastery over their aquatic environment and provide a sense of pride and accomplishment for citizens.
+
+The terminal represents the technological achievement and unified identity of [[12_Research/D&D_References/Aquabyssos]], serving as a symbol of progress and cooperation. The facility's impressive architecture and efficient operations demonstrate the realm's mastery over their aquatic environment and provide a sense of pride and accomplishment for citizens.
 
 ### Security Considerations
-The terminal's critical role in transportation and communication makes it a high-priority target for enemies of [[02_Worldbuilding/Places/Aquabyssos]]. Security measures must balance accessibility for legitimate users with protection against various threats, requiring constant vigilance and adaptation to changing circumstances.
+
+The terminal's critical role in transportation and communication makes it a high-priority target for enemies of [[12_Research/D&D_References/Aquabyssos]]. Security measures must balance accessibility for legitimate users with protection against various threats, requiring constant vigilance and adaptation to changing circumstances.
 
 ---
 
@@ -421,7 +464,7 @@ The terminal's critical role in transportation and communication makes it a high
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[12_Research/D&D_Statblocks/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 
@@ -443,14 +486,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[12_Research/D&D_References/Abyssos Prime - Pressure Terminal]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Azure Citadel]]
+- [[12_Research/D&D_References/Crystalhaven]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/The Hadal Depths]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-divine-revelation-the-divine-revelation.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-divine-revelation-the-divine-revelation.svg]]
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
+- [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[Temple of Divine Order]]

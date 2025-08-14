@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hill-giant-xmm-hill-giant-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/hill-giant-xmm|Hill Giant]]
+# [[hill-giant-xmm|Hill Giant]]
 *Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hill Giant
@@ -62,7 +62,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
@@ -71,11 +71,11 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Tree Club"
   - "desc": "Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning\
-      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the end of its next turn."
     "name": "Trash Lob"
 "source":

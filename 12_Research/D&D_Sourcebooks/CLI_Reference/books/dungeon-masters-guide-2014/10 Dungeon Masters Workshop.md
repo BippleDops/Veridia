@@ -47,7 +47,7 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![[/03_Mechanics/CLI/tables/proficiency-dice|Proficiency Dice]]
+![[proficiency-dice|Proficiency Dice]]
 
 ### Skill Variants
 
@@ -59,7 +59,7 @@ You can dispense with skills and use one of the following variants. Choose which
 
 With this variant rule, characters don't have skill proficiencies. Instead, each character has proficiency in two abilities: one tied to the character's class and one tied to the character's background. The Ability Proficiencies by Class table suggests a proficiency for each class, and you choose which ability is tied to a given background. Starting at 1st level, a character adds his or her proficiency bonus to any ability check tied to one or the other of these two abilities.
 
-![[/03_Mechanics/CLI/tables/ability-check-proficiency-by-class|Ability Check Proficiency by Class]]
+![[ability-check-proficiency-by-class|Ability Check Proficiency by Class]]
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.
 
@@ -139,7 +139,7 @@ An Honor saving throw comes into play when you want to determine whether a chara
 
 #### Sanity Score
 
-Consider using the [[/03_Mechanics/CLI/variant-rules/new-ability-scores-honor-and-sanity|Sanity score]] if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
+Consider using the [[new-ability-scores-honor-and-sanity|Sanity score]] if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
 
 A character with a high Sanity is level-headed even in the face of insane circumstances, while a character with low Sanity is unsteady, breaking easily when confronted by eldritch horrors that are beyond normal reason.
 
@@ -173,7 +173,7 @@ The rules for fear and horror can help you sustain an atmosphere of dread in a d
 
 #### Fear
 
-When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [[/03_Mechanics/CLI/conditions#Frightened|frightened]] for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
+When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [[conditions#Frightened|frightened]] for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
 
 #### Horror
 
@@ -275,7 +275,7 @@ Each creature within 20 feet of an exploding fragmentation grenade must make a D
 
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 
-![[/03_Mechanics/CLI/tables/explosives|Explosives]]
+![[explosives|Explosives]]
 
 ### Alien Technology
 
@@ -285,7 +285,7 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![[/03_Mechanics/CLI/tables/figuring-out-alien-technology|Figuring Out Alien Technology]]
+![[figuring-out-alien-technology|Figuring Out Alien Technology]]
 
 ### Firearms
 
@@ -390,7 +390,7 @@ Speed factor is an option for initiative that introduces more uncertainty into c
 
 Modifiers might apply to a creature's initiative depending on its size and the action it takes. For example, a creature that fights with a light weapon or casts a simple spell is more likely to act before a creature armed with a heavy or slow weapon. See the Speed Factor Initiative Modifiers table for details. If an action has no modifier listed, the action has no effect on initiative. If more than one modifier applies such as wielding a two-handed, heavy melee weapon, apply them all to the initiative roll.
 
-![[/03_Mechanics/CLI/tables/speed-factor-initiative-modifiers|Speed Factor Initiative Modifiers]]
+![[speed-factor-initiative-modifiers|Speed Factor Initiative Modifiers]]
 
 Don't apply the same modifier more than once on a creature's turn. For example, a rogue fighting with two daggers gains the +2 bonus for using a light or finesse weapon only once. In the case of spellcasting, apply only the modifier from the highest-level spell.
 
@@ -414,12 +414,12 @@ Once everyone has acted, the process repeats. Everyone in the battle selects an 
 
 This section provides new action options for combat. They can be added as a group or individually to your game.
 
-- [[/03_Mechanics/CLI/actions#Climb%20onto%20a%20Bigger%20Creature|Climb onto a Bigger Creature]]  
-- [[/03_Mechanics/CLI/actions#Disarm|Disarm]]  
-- [[/03_Mechanics/CLI/actions#Mark|Mark]]  
-- [[/03_Mechanics/CLI/actions#Overrun|Overrun]]  
-- [[/03_Mechanics/CLI/actions#Shove%20Aside|Shove Aside]]  
-- [[/03_Mechanics/CLI/actions#Tumble|Tumble]]  
+- [[actions#Climb%20onto%20a%20Bigger%20Creature|Climb onto a Bigger Creature]]  
+- [[actions#Disarm|Disarm]]  
+- [[actions#Mark|Mark]]  
+- [[actions#Overrun|Overrun]]  
+- [[actions#Shove%20Aside|Shove Aside]]  
+- [[actions#Tumble|Tumble]]  
 
 ### Hitting Cover
 
@@ -445,7 +445,7 @@ It's up to you to decide when to check for a lingering injury. A creature might 
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 
-![[/03_Mechanics/CLI/tables/lingering-injuries|Lingering Injuries]]
+![[lingering-injuries|Lingering Injuries]]
 
 Instead of using the effect described in the table, you can put the responsibility of representing a character's lingering injury in the hands of the player. Roll on the Lingering Injuries table as usual, but instead of suffering the effect described for that result, that character gains a new flaw with the same name. It's up to the player to express the lingering injury during play, just like any other flaw, with the potential to gain inspiration when the injury affects the character in a meaningful way.
 
@@ -455,7 +455,7 @@ This optional rule makes it easier for a creature to be felled by massive damage
 
 When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
 
-![[/03_Mechanics/CLI/tables/massive-damage-system-shock|Massive Damage; System Shock]]
+![[massive-damage-system-shock|Massive Damage; System Shock]]
 
 ### Morale
 
@@ -463,14 +463,14 @@ Some combatants might run away when a fight turns against them. You can use this
 
 A creature might flee under any of the following circumstances:
 
-- The creature is [[/03_Mechanics/CLI/conditions#Surprised|surprised]].  
+- The creature is [[conditions#Surprised|surprised]].  
 - The creature is reduced to half its hit points or fewer for the first time in the battle.  
 - The creature has no way to harm the opposing side on its turn.  
 
 A group of creatures might flee under any of the following circumstances:
 
-- All the creatures in the group are [[/03_Mechanics/CLI/conditions#Surprised|surprised]].  
-- The group's leader is reduced to 0 hit points, [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]], taken prisoner, or removed from battle.  
+- All the creatures in the group are [[conditions#Surprised|surprised]].  
+- The group's leader is reduced to 0 hit points, [[conditions#Incapacitated|incapacitated]], taken prisoner, or removed from battle.  
 - The group is reduced to half its original size with no losses on the opposing side.  
 
 To determine whether a creature or group of creatures flees, make a DC 10 Wisdom saving throw for the creature or the group's leader. If the opposition is overwhelming, the saving throw is made with disadvantage, or you can decide that the save fails automatically. If a group's leader can't make the saving throw for whatever reason, have the creature in the group with the next highest Charisma score make the saving throw instead.
@@ -507,7 +507,7 @@ Another simple way to customize a monster is to add a special trait. You can add
 
 If all you need are simple stats for a monster of a particular challenge rating, follow the steps here. If you want to create something more akin to the monster stat blocks in the Monster Manual, skip ahead to the "Creating a Monster Stat Block" section.
 
-![[/03_Mechanics/CLI/tables/creating-quick-monster-stats-monster-statistics-by-challenge-rating|Creating Quick Monster Stats; Monster Statistics by Challenge Rating]]
+![[creating-quick-monster-stats-monster-statistics-by-challenge-rating|Creating Quick Monster Stats; Monster Statistics by Challenge Rating]]
 
 #### Step 1. Expected Challenge Rating
 
@@ -555,7 +555,7 @@ With the final challenge rating, you can determine the monster's proficiency bon
 
 Creating a monster isn't just a number-crunching exercise. The guidelines in this chapter can help you create monsters, but the only way to know whether a monster is fun is to playtest it. After seeing your monster in action, you might want to adjust the challenge rating up or down based on your experiences.
 
-![[/03_Mechanics/CLI/tables/final-challenge-rating-experience-points-by-challenge-rating|Final Challenge Rating; Experience Points by Challenge Rating]]
+![[final-challenge-rating-experience-points-by-challenge-rating|Final Challenge Rating; Experience Points by Challenge Rating]]
 
 ### Creating a Monster Stat Block
 
@@ -629,7 +629,7 @@ A monster can have as many Hit Dice as you want, but the size of the die used to
 
 A monster typically has average hit points based on its Hit Dice. For example, a creature with `5d8 + 5` hit points has an average of 27 hit points (5 × 4.5 + 5).
 
-![[/03_Mechanics/CLI/tables/assign-hit-dice-hit-dice-by-size|Assign Hit Dice; Hit Dice by Size]]
+![[assign-hit-dice-hit-dice-by-size|Assign Hit Dice; Hit Dice by Size]]
 
 #### Step 9. Damage Vulnerabilities, Resistances, and Immunities
 
@@ -645,7 +645,7 @@ For example, a monster with an expected challenge rating of 6, 150 hit points, a
 
 Monsters don't normally have vulnerability to more than one or two types of damage. Vulnerabilities don't significantly affect a monster's challenge rating, unless a monster has vulnerabilities to multiple damage types that are prevalent, especially bludgeoning, piercing, and slashing. For such a strange monster, reduce its effective hit points by half. Or even better, eliminate the vulnerabilities and give the brittle monster fewer hit points.
 
-![[/03_Mechanics/CLI/tables/damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities|Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities]]
+![[damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities|Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities]]
 
 #### Step 10. Attack Bonuses
 
@@ -763,9 +763,9 @@ At this point, you have all the statistical information you need to calculate th
 
 #### Step 17. Skill Bonuses
 
-If you want a monster to be proficient in a skill, you can give it a bonus equal to its proficiency bonus on ability checks related to that skill. For example, a monster with sharp senses might have a bonus on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks, while a duplicitous monster might have a bonus on Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) checks.
+If you want a monster to be proficient in a skill, you can give it a bonus equal to its proficiency bonus on ability checks related to that skill. For example, a monster with sharp senses might have a bonus on Wisdom ([[skills#Perception|Perception]]) checks, while a duplicitous monster might have a bonus on Charisma ([[skills#Deception|Deception]]) checks.
 
-You can double the proficiency bonus to account for heightened mastery. For example, a doppelganger is so good at deceiving others that its bonus on Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) checks is equal to double its proficiency bonus + its Charisma modifier.
+You can double the proficiency bonus to account for heightened mastery. For example, a doppelganger is so good at deceiving others that its bonus on Charisma ([[skills#Deception|Deception]]) checks is equal to double its proficiency bonus + its Charisma modifier.
 
 Skill bonuses have no bearing on a monster's challenge rating.
 
@@ -781,7 +781,7 @@ A monster might have one or more of the following special senses, which are desc
 
 ##### Passive Perception Score
 
-All monsters have a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score, which is most often used to determine whether a monster detects approaching or hidden enemies. A monster's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score is 10 + its Wisdom modifier. If the monster has proficiency in the Perception skill, its score is 10 + its Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) bonus.
+All monsters have a passive Wisdom ([[skills#Perception|Perception]]) score, which is most often used to determine whether a monster detects approaching or hidden enemies. A monster's passive Wisdom ([[skills#Perception|Perception]]) score is 10 + its Wisdom modifier. If the monster has proficiency in the Perception skill, its score is 10 + its Wisdom ([[skills#Perception|Perception]]) bonus.
 
 #### Step 20. Languages
 
@@ -793,7 +793,7 @@ A monster can master as many spoken languages as you want, although few monsters
 
 Whether or not a monster has telepathy has no bearing on its challenge rating. For more information on telepathy, see the Monster Manual.
 
-![[/03_Mechanics/CLI/tables/creating-a-monster-stat-block-monster-features|Creating a Monster Stat Block; Monster Features]]
+![[creating-a-monster-stat-block-monster-features|Creating a Monster Stat Block; Monster Features]]
 
 ### NPC Stat Blocks
 
@@ -814,7 +814,7 @@ The NPC Features table summarizes the ability modifiers and features of various 
 
 If the monster you want to use isn't listed on the table, use the process described below under "Monsters with Classes."
 
-![[/03_Mechanics/CLI/tables/creating-npcs-from-scratch-npc-features|Creating NPCs from Scratch; NPC Features]]
+![[creating-npcs-from-scratch-npc-features|Creating NPCs from Scratch; NPC Features]]
 
 ### Monsters with Classes
 
@@ -845,7 +845,7 @@ For any spell that deals damage, use the Spell Damage table to determine approxi
 
 You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `d10` (average 5.5) to `2d4` (average 5), reducing the maximum damage and making an average result more likely.
 
-![[/03_Mechanics/CLI/tables/spell-damage|Spell Damage]]
+![[spell-damage|Spell Damage]]
 
 ### Healing Spells
 
@@ -879,7 +879,7 @@ If you make an item that lets a character kill whatever he or she hits with it, 
 
 Use the Magic Item Power by Rarity table as a guide to help you determine how powerful an item should be, based on its rarity.
 
-![[/03_Mechanics/CLI/tables/power-level-magic-item-power-by-rarity|Power Level; Magic Item Power by Rarity]]
+![[power-level-magic-item-power-by-rarity|Power Level; Magic Item Power by Rarity]]
 
 ###### Maximum Spell Level
 
@@ -933,7 +933,7 @@ Creatures of magic with strong ties to nature, eladrin live in the twilight real
 
 The elf subraces in the Player's Handbook include an ability score increase, a weapon training feature, and two or three additional traits. Given the story of the eladrin and their magical nature, an increase to an eladrin character's Intelligence is appropriate. There's no need to alter the basic weapon training shared by high elves and wood elves.
 
-An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [[/03_Mechanics/CLI/races/elf-eladrin-dmg|features for the eladrin subrace]].
+An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [[elf-eladrin-dmg|features for the eladrin subrace]].
 
 #### Creating a New Race
 
@@ -956,7 +956,7 @@ Like tieflings, aasimar have darkvision. Instead of resistance to fire damage, w
 
 The tiefling's Infernal Legacy trait is a good model for a similar trait to reflect a magical, celestial heritage, replacing the tiefling's spells with spells of similar levels that more closely match the aasimar's celestial ancestry. However, the aasimar's expanded resistance might require limiting this trait to basic utility spells.
 
-Filling in the remaining details, we end up with the following [[/03_Mechanics/CLI/races/aasimar-xphb|racial traits for the aasimar]].
+Filling in the remaining details, we end up with the following [[aasimar-xphb|racial traits for the aasimar]].
 
 ### Modifying a Class
 
@@ -1023,13 +1023,13 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[/03_Mechanics/CLI/classes/bard-xphb|bards]], [[/03_Mechanics/CLI/classes/cleric-xphb|clerics]], [[/03_Mechanics/CLI/classes/druid-xphb|druids]], [[/03_Mechanics/CLI/classes/sorcerer-xphb|sorcerers]], and [[/03_Mechanics/CLI/classes/wizard-xphb|wizards]]. For a [[/03_Mechanics/CLI/classes/paladin-xphb|paladin]] or [[/03_Mechanics/CLI/classes/ranger-xphb|ranger]], halve the character's level in that class and then consult the table. For a [[/03_Mechanics/CLI/classes/fighter-xphb|fighter (Eldritch Knight)]] or [[/03_Mechanics/CLI/classes/rogue-xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[bard-xphb|bards]], [[cleric-xphb|clerics]], [[druid-xphb|druids]], [[sorcerer-xphb|sorcerers]], and [[wizard-xphb|wizards]]. For a [[paladin-xphb|paladin]] or [[ranger-xphb|ranger]], halve the character's level in that class and then consult the table. For a [[fighter-xphb|fighter (Eldritch Knight)]] or [[rogue-xphb|rogue (Arcane Trickster)]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![[/03_Mechanics/CLI/tables/variant-spell-points-spell-point-cost|Variant: Spell Points; Spell Point Cost]]
+![[variant-spell-points-spell-point-cost|Variant: Spell Points; Spell Point Cost]]
 
-![[/03_Mechanics/CLI/tables/variant-spell-points-spell-points-by-level|Variant: Spell Points; Spell Points by Level]]
+![[variant-spell-points-spell-points-by-level|Variant: Spell Points; Spell Points by Level]]
 
 ### Creating a Background
 

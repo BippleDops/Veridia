@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archdeacon-felix-faithkeeper-archdeacon-felix-faithkeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archdeacon-felix-faithkeeper-archdeacon-felix-faithkeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archdeacon Felix Faithkeeper]]
+- [[Archdeacon Felix Faithkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[Cathedral of Light]]

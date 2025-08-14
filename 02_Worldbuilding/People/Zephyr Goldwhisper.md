@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-v1-zephyr-goldwhisper.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-v1-zephyr-goldwhisper.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

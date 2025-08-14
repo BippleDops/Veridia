@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-henrik-saltbreeze-captain-henrik-saltbreeze.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-henrik-saltbreeze-captain-henrik-saltbreeze.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Henrik Saltbreeze]]
+- [[Captain Henrik Saltbreeze]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[Quest - The Lost Expedition]]

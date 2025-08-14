@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Vorthak]]
+- [[12_Research/D&D_References/Vorthak]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Vorthak]]
+- [[12_Research/D&D_References/Vorthak]]
 
 ## Player-Facing Summary
 

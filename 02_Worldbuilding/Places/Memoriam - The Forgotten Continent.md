@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,13 +17,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg]]
 
 
 # Memoriam - The Forgotten Continent
@@ -36,6 +33,7 @@ Memoriam is a continental paradox—a landmass the size of Abyssos Prime that ev
 ## The Antimemetic Properties
 
 ### The Forgetting Field
+
 A reality-warping field that prevents memory formation about anything within or related to Memoriam:
 - **Immediate**: Forget details within seconds of looking away
 - **Short-term**: Forget you were here within minutes of leaving
@@ -50,6 +48,7 @@ A reality-warping field that prevents memory formation about anything within or 
 - Maps refuse to show its location
 
 ### Persistence Techniques
+
 Methods discovered (and rediscovered) to maintain some awareness:
 - **Pain Anchoring**: Self-inflicted wounds help maintain memories briefly
 - **Emotional Binding**: Traumatic or ecstatic experiences last longer
@@ -59,6 +58,7 @@ Methods discovered (and rediscovered) to maintain some awareness:
 ## Geographic Mysteries
 
 ### The Uncertain City
+
 A massive metropolis that may or may not exist. Buildings phase in and out of reality based on observation. Streets lead to different destinations each time they're walked.
 
 **Notable Uncertain Locations**:
@@ -67,14 +67,17 @@ A massive metropolis that may or may not exist. Buildings phase in and out of re
 - **The Parliament of Nobody**: Elected officials who don't exist govern people who forget they live here
 
 ### The Recursive Shores
+
 Beaches where the same wave breaks eternally because the ocean forgets it already crashed. Footprints appear before they're made and disappear while being observed.
 
 ### The Interior Void
+
 The continent's center is a perfect nothing—not empty space, but the absence of space itself. Travelers who enter emerge from random edges with no time having passed, but aged years.
 
 ## Inhabitants (Maybe)
 
 ### The Unremembered Citizens
+
 People live here, evidenced by warm meals in empty houses and maintained infrastructure. But they can't remember themselves, existing in a constant state of meeting everyone for the first time, including themselves in mirrors.
 
 **Daily Life Cycles**:
@@ -84,6 +87,7 @@ People live here, evidenced by warm meals in empty houses and maintained infrast
 - Go to sleep and reset completely
 
 ### The Memory Thieves
+
 Entities that exist by stealing memories from visitors, the only way they can maintain coherent existence. They appear as hollow-eyed humans who speak in borrowed experiences.
 
 **Memory Thief** (CR 8)
@@ -94,6 +98,7 @@ Entities that exist by stealing memories from visitors, the only way they can ma
 - **Antimemetic Cloak**: Automatically forgotten if not actively observed
 
 ### The Persistent Ones
+
 Rare individuals who somehow remember Memoriam exists. They're cursed with being the only ones who know about an entire continent, dismissed as delusional by everyone else.
 
 **The Curse of Knowing**:
@@ -105,6 +110,7 @@ Rare individuals who somehow remember Memoriam exists. They're cursed with being
 ## Economic Paradoxes
 
 ### The Impossible Trade
+
 Ships arrive at ports with cargo they don't remember loading, payment for goods they don't recall selling. Memoriam's economy functions through unconscious transactions.
 
 **Trade Goods That Don't Exist**:
@@ -114,11 +120,13 @@ Ships arrive at ports with cargo they don't remember loading, payment for goods 
 - **Never-fruit**: Nourishing food that was never grown
 
 ### The Bank of Unrecorded Wealth
+
 A financial institution that manages accounts no one remembers opening, paying interest on deposits that were never made, funding ventures that won't be remembered.
 
 ## Environmental Hazards
 
 ### Memory Storms
+
 Violent tempests of concentrated forgetting that can erase people from history:
 - **Stage 1**: Forget why you came here
 - **Stage 2**: Forget who you came with
@@ -127,6 +135,7 @@ Violent tempests of concentrated forgetting that can erase people from history:
 - **Stage 5**: Never existed at all
 
 ### Paradox Zones
+
 Areas where the antimemetic field conflicts with reality:
 - Places that are remembered but don't exist
 - Events that happened but never occurred
@@ -136,17 +145,21 @@ Areas where the antimemetic field conflicts with reality:
 ## Quest Hooks
 
 ### "The Persistent Map"
+
 A map that shows Memoriam has appeared, resisting the antimemetic field. Following it leads to the source of the forgetting—and possibly a way to end it.
 
 ### "The Remembered Child"
+
 A child from Memoriam somehow exists in regular memory. Everyone remembers them, but they remember nothing. They might be the key to understanding the continent.
 
 ### "The Accumulating Evidence"
+
 The party keeps finding evidence of previous visits to Memoriam they don't remember. Journal entries in their handwriting, contracts they signed, even scars from battles they never fought.
 
 ## Hidden Truths
 
 ### The Origin of Forgetting
+
 Memoriam was deliberately forgotten to contain something. Theories include:
 - A god that should not be worshipped
 - The true history of the Drowning
@@ -154,37 +167,45 @@ Memoriam was deliberately forgotten to contain something. Theories include:
 - The location of the Depth Mother's heart
 
 ### The Memory Sink Theory
+
 Memoriam might be where all forgotten things go—every lost memory, abandoned thought, and discarded identity accumulates here, creating a massive psychic landfill.
 
 ### The Protection Protocol
+
 Perhaps Memoriam forgets visitors to protect them. Those who fully remember the continent go catastrophically insane from knowledge they weren't meant to have.
 
 ## Integration with Campaigns
 
 ### The Parliament of Shadows
+
 Several Shadow Senators come from Memoriam, explaining why no one remembers electing them. They're trying to make the rest of Aquabyssos forgettable too.
 
 ### The Memory Wars
+
 Memoriam is the ultimate weapon—an entire continent that can be strategically forgotten and remembered to reshape history.
 
 ### Connection to Aethermoor
+
 The eighth shard, the one no one remembers, is hidden in Memoriam. It's the Shard of Forgetting, and it's been actively erasing itself from the prophecy.
 
 ## DM Notes
 
 ### Running Memoriam
+
 - Give players incomplete information constantly
 - Have them find evidence of actions they don't remember taking
 - NPCs should be confused about their own existence
 - Use flashbacks to events that never happened
 
 ### Memory Management
+
 - Keep secret notes about what happens in Memoriam
 - Reveal these events later as "discovered evidence"
 - Have players make WIS saves to remember crucial information
 - Create paradoxes where players must act on information they've forgotten
 
 ### The Ultimate Mystery
+
 The truth about Memoriam should remain uncertain. Even the DM shouldn't be entirely sure what's real there. Is it:
 - A collective hallucination?
 - A reality-wide glitch?
@@ -200,7 +221,7 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[12_Research/D&D_References/The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -218,6 +239,11 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
+- [[12_Research/D&D_Statblocks/Memoriam - The Forgotten Continent]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

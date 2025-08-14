@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,10 +41,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[12_Research/D&D_References/Commander Typhoon Blackheart]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[12_Research/D&D_References/Crown of Tidal Sovereignty]]
+- [[12_Research/D&D_References/Commander Typhoon Blackheart]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

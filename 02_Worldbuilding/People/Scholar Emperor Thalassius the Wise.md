@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-scholar-emperor-thalassius-the-wise-scholar-emperor-thalassius-the-wise.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-scholar-emperor-thalassius-the-wise-scholar-emperor-thalassius-the-wise.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[The Sunken Library of Thalassius]]
 
 ## Player-Facing Summary
 

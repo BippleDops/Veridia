@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/sickle.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 

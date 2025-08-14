@@ -24,7 +24,7 @@ world: Both
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

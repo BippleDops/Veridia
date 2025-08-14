@@ -26,12 +26,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg]]
 
 
 # The Depth Wardens
@@ -301,18 +297,18 @@ The Depth Wardens represent the theme that some knowledge and some duties are to
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/The Pressure Maelstroms]]
-- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[The Deepwatch Guard]]
+- [[The Pressure Maelstroms]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Commander Typhoon Blackheart]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
-- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
-- [[02_Worldbuilding/Places/Lumengarde]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
+- [[Oracle Nerida the Tidereader]]
+- [[Sister Thalassa the Depth-Touched]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Lumengarde]]
+- [[Pearl_Harbor_City]]
+- [[The Gilded Shard]]
+- [[The Shadowmire Tavern]]
 
 ## Player-Facing Summary
 
@@ -328,8 +324,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[The Depth Wardens]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]

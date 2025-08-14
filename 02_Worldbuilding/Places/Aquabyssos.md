@@ -19,7 +19,6 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-continent-aquabyssos-aquabyssos.svg)
 
@@ -51,7 +50,7 @@ The realm operates on principles both familiar and alien: democratic institution
 ## Geography and Regions
 
 ### The Capital Region - Abyssos Prime
-**[[02_Worldbuilding/Places/Abyssos Prime]]**
+**[[Abyssos Prime]]**
 The political and cultural heart of the realm, where the Eternal Senate debates while ghost-senators vote on laws for the living. The city exists in multiple temporal layers, with past, present, and future versions occupying the same space.
 
 ### The Pressure Territories
@@ -117,7 +116,7 @@ Regions where shadow-infiltration has reached critical levels, creating zones of
 ## Government and Politics
 
 ### The Eternal Senate
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**
+**[[Parliament of Echoes]]**
 The parliamentary system where living senators debate alongside ghost-senators, shadow-replacements, and memory-echoes of past representatives. Voting occurs through complex pressure-song harmonics that can be influenced by magical interference.
 
 ### Political Factions
@@ -167,7 +166,7 @@ The parliamentary system where living senators debate alongside ghost-senators, 
 
 ### Social Customs
 
-The sophisticated culture of Aquabyssos blends pre-submersion traditions with adaptations necessary for underwater life. Citizens follow etiquette protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]], including pressure-based greeting customs, current-flow conversation patterns, and depth-appropriate social behaviors. Throughout the year, communities celebrate festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], with unique underwater adaptations like the Festival of Deep Currents and the Celebration of Pressure Harmony. Professional guilds maintain traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], modified for aquatic conditions and pressure-zone specializations.
+The sophisticated culture of Aquabyssos blends pre-submersion traditions with adaptations necessary for underwater life. Citizens follow etiquette protocols detailed in the [[Aquabyssos Cultural Codex]], including pressure-based greeting customs, current-flow conversation patterns, and depth-appropriate social behaviors. Throughout the year, communities celebrate festivals from the [[Festival Calendar Complete]], with unique underwater adaptations like the Festival of Deep Currents and the Celebration of Pressure Harmony. Professional guilds maintain traditions described in the [[Guild Traditions Compendium]], modified for aquatic conditions and pressure-zone specializations.
 
 ### Language and Communication
 
@@ -337,21 +336,21 @@ Geological instability threatening pressure-dependent infrastructure and requiri
 ## Related Concepts
 
 - [[02_Worldbuilding/Lore/The Great Submersion|02 Worldbuilding/Lore/The Great Submersion]] - Historical event that created Aquabyssos
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Cultural traditions and customs
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs and practices
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols with other realms
-- [[02_Worldbuilding/Places/The Observatory Between]] - Diplomatic contact point with surface realms
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Capital city details
+- [[Aquabyssos Cultural Codex]] - Cultural traditions and customs
+- [[Festival Calendar Complete]] - Seasonal celebrations and observances
+- [[Guild Traditions Compendium]] - Professional customs and practices
+- [[Cross-Realm Etiquette Guide]] - Diplomatic protocols with other realms
+- [[The Observatory Between]] - Diplomatic contact point with surface realms
+- [[Abyssos Prime]] - Capital city details
 
 ## References
 
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Political leader
-- [[02_Worldbuilding/People/Senator Glaucus]] - Political figure
-- [[02_Worldbuilding/Groups/The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
+- [[The Scattered Emperor]] - Political leader
+- [[Senator Glaucus]] - Political figure
+- [[The Eternal Senate|02 Worldbuilding/Groups/The Eternal Senate]] - Governing body
 - [[02_Worldbuilding/Groups/Depth Supremacist Movement|02 Worldbuilding/Groups/Depth Supremacist Movement]] - Political faction
 - [[02_Worldbuilding/Groups/Surface Reconnection Coalition|02 Worldbuilding/Groups/Surface Reconnection Coalition]] - Political faction
-- [[02_Worldbuilding/Lore/Master Index]] - General world information
+- [[Master Index]] - General world information
 
 ---
 

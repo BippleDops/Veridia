@@ -14,19 +14,16 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[12_Research/D&D_References/Deep Mother]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -47,3 +44,8 @@ Legends speak of Time's Mercy as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

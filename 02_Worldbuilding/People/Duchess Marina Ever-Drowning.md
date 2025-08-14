@@ -11,12 +11,8 @@ tags:
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg]]
 
 
 # Duchess Marina Ever-Drowning
@@ -69,7 +65,7 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 - Identity construction for spies
 
 ### Surface Operations
-- Controls 40% of [[02_Worldbuilding/People/Castellan Ironledger III]]'s information network (he doesn't know)
+- Controls 40% of [[Castellan Ironledger III]]'s information network (he doesn't know)
 - Owns gambling dens that collect desperate memories
 - Runs orphanages that harvest childhood innocence
 - Funds artists who paint prophecies
@@ -81,10 +77,10 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 - Owns the Depth Casino where souls are wagered
 
 ## Relationships
-- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Her protégé and unwitting pawn
+- **[[Ambassador Nerida Deepcurrent]]:** Her protégé and unwitting pawn
 - **High Priestess Scylla Deepdream:** Mutual disgust, forced cooperation
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]:** Surface business partner (through intermediaries)
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]:** Has memory of her before corruption
+- **[[Vex Shadowthorn]]:** Surface business partner (through intermediaries)
+- **[[Queen Seraphina Lumengarde]]:** Has memory of her before corruption
 - **That-Which-Swims-Between:** Owes it seven impossible memories
 - **Morpheus Tidecaller:** Former lover, now bitter rival
 
@@ -110,7 +106,7 @@ Her residence and headquarters:
 > - Owns the true memory of who shattered the Crown of Stars
 > - Is actually three people sharing one body (original, first drowning, current)
 > - Has economic leverage over every major faction
-> - Created [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] from compiled memories
+> - Created [[Ambassador Nerida Deepcurrent]] from compiled memories
 > - Can kill people by selling their memory of how to breathe
 > - The Selenthian Dynasty treasure contains pre-universe artifacts
 
@@ -175,6 +171,6 @@ Legends speak of Duchess Marina Ever Drowning as a nexus where past and present 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
+- [[Duchess Marina Ever-Drowning]]
 
 <!-- enriched: true -->

@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 7
 
-You can cast [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[confusion-xphb|confusion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ## Player-Facing Summary
 

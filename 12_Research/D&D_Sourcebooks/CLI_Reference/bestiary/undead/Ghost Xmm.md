@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghost-xmm-ghost-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/ghost-xmm|Ghost]]
+# [[ghost-xmm|Ghost]]
 *Source: Monster Manual (2024) p. 131. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ghost
@@ -63,11 +63,11 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -76,7 +76,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
       \ Plane."
     "name": "Ethereal Sight"
   - "desc": "The ghost can move through other creatures and objects as if they were\
-      \ [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]].\
+      \ [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -84,28 +84,28 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 19 (3d10 + 3) Necrotic damage."
     "name": "Withering Touch"
-  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]]\
+  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]]\
       \ that can see the ghost and isn't an Undead. Failure: 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the start of the ghost's next turn. Success: The target\
       \ is immune to this ghost's Horrific Visage for 24 hours."
     "name": "Horrific Visage"
   - "desc": "Charisma Saving Throw: DC 13, one Humanoid the ghost can see within\
       \ 5 feet. Failure: The target is possessed by the ghost; the ghost disappears,\
-      \ and the target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ and the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and loses control of its body. The ghost now controls the body,\
       \ but the target retains awareness. The ghost can't be targeted by any attack,\
       \ spell, or other effect, except ones that specifically target Undead. The ghost's\
-      \ game statistics are the same, except it uses the possessed target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+      \ game statistics are the same, except it uses the possessed target's [[speed-xphb|Speed]],\
       \ as well as the target's Strength, Dexterity, and Constitution modifiers.\n\
-      \nThe possession lasts until the body drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ or the ghost leaves as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]].\
+      \nThe possession lasts until the body drops to 0 [[hit-points-xphb|Hit Points]]\
+      \ or the ghost leaves as a [[bonus-action-xphb|Bonus Action]].\
       \ When the possession ends, the ghost appears in an unoccupied space within\
-      \ 5 feet of the target, and the target is immune to this ghost's [[/03_Mechanics/CLI/variant-rules/possession-xphb|Possession]]\
-      \ for 24 hours. Success: The target is immune to this ghost's [[/03_Mechanics/CLI/variant-rules/possession-xphb|Possession]]\
+      \ 5 feet of the target, and the target is immune to this ghost's [[possession-xphb|Possession]]\
+      \ for 24 hours. Success: The target is immune to this ghost's [[possession-xphb|Possession]]\
       \ for 24 hours."
     "name": "Possession (Recharge 6)"
-  - "desc": "The ghost casts the [[/03_Mechanics/CLI/spells/etherealness-xphb|Etherealness]]\
+  - "desc": "The ghost casts the [[etherealness-xphb|Etherealness]]\
       \ spell, requiring no spell components and using Charisma as the spellcasting\
       \ ability. The ghost is visible on the Material Plane while on the Border Ethereal\
       \ and vice versa, but it can't affect or be affected by anything on the other\

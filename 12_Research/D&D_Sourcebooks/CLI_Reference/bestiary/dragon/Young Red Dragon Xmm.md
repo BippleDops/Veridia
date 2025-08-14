@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-red-dragon-xmm-v1-young-red-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-red-dragon-xmm|Young Red Dragon]]
+# [[young-red-dragon-xmm|Young Red Dragon]]
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
@@ -73,9 +73,9 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
@@ -87,7 +87,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage\
       \ plus 3 (d6) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 56 (16d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

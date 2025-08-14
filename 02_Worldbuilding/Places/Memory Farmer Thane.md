@@ -14,26 +14,23 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-farmer-thane-memory-farmer-thane.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-farmer-thane-memory-farmer-thane.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[Abyssos Prime]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Items/Memory Pearls]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- [[Memory Pearls]]
+- [[Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Abyssos Prime]]
+- [[Memory Farmers]]
+- [[Memory Meadows Black Market]]
 
 ## Player-Facing Summary
 

@@ -20,10 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-constellation-codex-constellation-codex.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-constellation-codex-constellation-codex.svg]]
 
 
 # Constellation Codex
@@ -179,6 +177,6 @@ Legends speak of Constellation Codex as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Constellation Codex]]
+- [[Constellation Codex]]
 
 <!-- enriched: true -->

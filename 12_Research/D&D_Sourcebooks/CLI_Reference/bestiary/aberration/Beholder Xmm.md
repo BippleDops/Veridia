@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beholder-xmm-beholder-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/beholder-xmm|Beholder]]
+# [[beholder-xmm|Beholder]]
 *Source: Monster Manual (2024) p. 36*  
 
 ## Beholder
@@ -46,7 +46,7 @@ Beholders possess utterly alien minds. Most exhibit paranoid, narcissistic, and 
 
 Few creatures loathe beholders more than other beholders. Every beholder views itself as the physical and intellectual pinnacle of its species. To them, all other beholders are aberrant rivals to be dominated or destroyed. Conflicts between beholders can last for decades and lay waste to vast subterranean realms.
 
-Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [[/03_Mechanics/CLI/conditions#Petrified|petrified]] bodies of heroes they've defeated, displaying them as trophies.
+Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [[conditions#Petrified|petrified]] bodies of heroes they've defeated, displaying them as trophies.
 
 ### Beholder Lairs
 
@@ -73,9 +73,9 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
   - "constitution": !!int "9"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
@@ -91,53 +91,53 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
       \ it can see within 120 feet of itself (roll d10; reroll if the beholder has\
       \ already used that ray during this turn):\n\n- 1 Charm Ray. Wisdom Saving\
       \ Throw: DC 16. Failure: 13 (3d8) Psychic damage, and the target has the\
-      \ [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition for 1 hour or\
+      \ [[conditions#Charmed|Charmed]] condition for 1 hour or\
       \ until it takes damage. Success: Half damage only.  \n- 2 Paralyzing Ray.\
-      \ Constitution Saving Throw: DC 16. Failure: The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
+      \ Constitution Saving Throw: DC 16. Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 3 Fear Ray. Wisdom Saving Throw: DC 16. Failure: 14 (4d6) Psychic\
-      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of its next turn. Success: Half damage only.  \n\
       - 4 Slowing Ray. Constitution Saving Throw: DC 16. Failure: 18 (4d8)\
-      \ Necrotic damage. Until the end of the target's next turn, the target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ Necrotic damage. Until the end of the target's next turn, the target's [[speed-xphb|Speed]]\
       \ is halved; the target can't take Reactions; and it can take either an action\
-      \ or a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] on\
+      \ or a [[bonus-action-xphb|Bonus Action]] on\
       \ its turn, not both. Success: Half damage only.  \n- 5 Enervation Ray.\
       \ Constitution Saving Throw: DC 16. Failure: 13 (3d8) Poison damage, and\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
-      \ until the end of its next turn. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
-      \ the target can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
+      \ the target has the [[conditions#Poisoned|Poisoned]] condition\
+      \ until the end of its next turn. While [[conditions#Poisoned|Poisoned]],\
+      \ the target can't regain [[hit-points-xphb|Hit Points]].\
       \ Success: Half damage only.  \n- 6 Telekinetic Ray. Strength Saving\
       \ Throw: DC 16 (the target succeeds automatically if it is Gargantuan). Failure:\
       \ The beholder moves the target up to 30 feet in any direction. The target has\
-      \ the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition until\
-      \ the start of the beholder's next turn or until the beholder has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ the [[conditions#Restrained|Restrained]] condition until\
+      \ the start of the beholder's next turn or until the beholder has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. The beholder can also exert fine control on objects with this ray,\
       \ such as manipulating a tool or opening a door or container.  \n- 7 Sleep\
       \ Ray. Wisdom Saving Throw: DC 16 (the target succeeds automatically if\
-      \ it is a Construct or an Undead). Failure: The target has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]]\
+      \ it is a Construct or an Undead). Failure: The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 1 minute. The condition ends if the target takes damage or a\
       \ creature within 5 feet of it takes an action to wake it.  \n- 8 Petrification\
       \ Ray. Constitution Saving Throw: DC 16. 1st Failure: The target has the\
-      \ [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and repeats\
-      \ the save at the end of its next turn if it is still [[/03_Mechanics/CLI/conditions#Restrained|Restrained]],\
+      \ [[conditions#Restrained|Restrained]] condition and repeats\
+      \ the save at the end of its next turn if it is still [[conditions#Restrained|Restrained]],\
       \ ending the effect on itself on a success. 2nd Failure: The target has the\
-      \ [[/03_Mechanics/CLI/conditions#Petrified|Petrified]] condition instead of\
-      \ the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition.  \n\
+      \ [[conditions#Petrified|Petrified]] condition instead of\
+      \ the [[conditions#Restrained|Restrained]] condition.  \n\
       - 9 Disintegration Ray. Dexterity Saving Throw: DC 16. Failure: 36 (8d8)\
       \ Force damage. If the target is a nonmagical object or a creation of magical\
-      \ force, a 10-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
+      \ force, a 10-foot [[cube-area-of-effect-xphb|Cube]]\
       \ of it disintegrates into dust. Success: Half damage. Failure or Success:\
-      \ If the target is a creature and this damage reduces it to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
+      \ If the target is a creature and this damage reduces it to 0 [[hit-points-xphb|Hit Points]],\
       \ it disintegrates into dust.  \n- 10 Death Ray. Dexterity Saving Throw:\
       \ DC 16. Failure: 55 (10d10) Necrotic damage. Success: Half damage. Failure\
-      \ or Success: The target dies if the ray reduces it to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
+      \ or Success: The target dies if the ray reduces it to 0 [[hit-points-xphb|Hit Points]].\
       \  "
     "name": "Eye Rays"
 "bonus_actions":
-  - "desc": "The beholder's central eye emits an antimagic wave in a 150-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Until the start of the beholder's next turn, that area acts as an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|Antimagic\
+  - "desc": "The beholder's central eye emits an antimagic wave in a 150-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Until the start of the beholder's next turn, that area acts as an [[antimagic-field-xphb|Antimagic\
       \ Field]] spell, and that area\
       \ works against the beholder's own Eye Rays."
     "name": "Antimagic Cone"
@@ -152,12 +152,12 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
     "name": ""
   - "desc": "- Scopophobia. Creatures within 1 mile of the lair feel as if they're\
       \ being watched. Any creature (excluding the beholder and its allies) that finishes\
-      \ a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]] while within\
+      \ a [[short-rest-xphb|Short Rest]] while within\
       \ 1 mile of the lair must succeed on a DC 13 Wisdom saving throw or gain no\
       \ benefit from that rest.  \n- Warping Terrain. Minor warps in reality occur\
       \ near the lair; any creature (excluding the beholder) within 1 mile of the\
-      \ lair that makes a [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]]\
-      \ and rolls a 1 has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition.\
+      \ lair that makes a [[d20-test-xphb|D20 Test]]\
+      \ and rolls a 1 has the [[conditions#Prone|Prone]] condition.\
       \  "
     "name": ""
   - "desc": "If the beholder dies or moves its lair elsewhere, these effects end immediately."

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fomorian-xmm-fomorian-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/fomorian-xmm|Fomorian]]
+# [[fomorian-xmm|Fomorian]]
 *Source: Monster Manual (2024) p. 123*  
 
 ## Fomorian
@@ -72,9 +72,9 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
@@ -87,7 +87,7 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
       \ damage."
     "name": "Stone Club"
   - "desc": "Wisdom Saving Throw: DC 16, one creature the fomorian can see within\
-      \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [[/03_Mechanics/CLI/conditions#Exhaustion|Exhaustion]]\
+      \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [[conditions#Exhaustion|Exhaustion]]\
       \ level. Success: Half damage only."
     "name": "Warping Hex (Recharge 4-6)"
 "source":

@@ -24,7 +24,7 @@ world: Both
 | [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|Duergar]] | `2d6 + 5` |
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|Duergar stone guards]] | `1d4 + 1` |
 | [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|Duergar kavalrachni]] | `d4` |
-| [[/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm|Male steeders]] | `d4` |
+| [[male-steeder-mpmm|Male steeders]] | `d4` |
 ^members-number-present
 
 ## Player-Facing Summary

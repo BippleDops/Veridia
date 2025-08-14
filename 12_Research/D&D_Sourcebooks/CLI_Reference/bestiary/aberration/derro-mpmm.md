@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-derro-mpmm-derro-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/derro-mpmm|Derro]]
+# [[derro-mpmm|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -49,7 +49,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather-armor-xphb|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -62,7 +62,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -72,13 +72,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks\
+      \ as on Wisdom ([[skills#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
       \ piercing damage. If the target is Medium or smaller, the derro can choose\
-      \ to deal no damage and knock it [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ to deal no damage and knock it [[conditions#Prone|prone]]."
     "name": "Hooked Spear"
   - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
       \ 6 (1d8 + 2) piercing damage."

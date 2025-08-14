@@ -15,24 +15,19 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-reef-guard-captain-torrent-shellborn-reef-guard-captain-torrent-shellborn.svg]]
 
 
 # Shellborn Reef Station
 *Guardian of Living Waters*
 
 > *"These reefs are not merely geography - they are the lungs of our ocean, the nurseries of our future, the living foundation upon which all underwater civilization depends. We don't just guard coral and kelp; we protect the very essence of life itself."*
-> — [[02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn]], Station Commander and Chief Marine Protector
+> — [[Reef Guard Captain Torrent Shellborn]], Station Commander and Chief Marine Protector
 
 ## Overview
 
-Shellborn Reef Station serves as the premier marine ecosystem protection facility in [[02_Worldbuilding/Places/Aquabyssos]], where [[02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn]] leads a dedicated team of reef guards, marine biologists, and environmental specialists in protecting and restoring the vital reef systems that support underwater civilization. This sophisticated facility combines advanced marine science with practical conservation enforcement, creating a comprehensive approach to ecosystem protection that addresses both immediate threats and long-term sustainability challenges. The station represents the intersection of environmental protection and community welfare, demonstrating that healthy ecosystems and prosperous civilizations are inseparably linked.
+Shellborn Reef Station serves as the premier marine ecosystem protection facility in [[Aquabyssos]], where [[Reef Guard Captain Torrent Shellborn]] leads a dedicated team of reef guards, marine biologists, and environmental specialists in protecting and restoring the vital reef systems that support underwater civilization. This sophisticated facility combines advanced marine science with practical conservation enforcement, creating a comprehensive approach to ecosystem protection that addresses both immediate threats and long-term sustainability challenges. The station represents the intersection of environmental protection and community welfare, demonstrating that healthy ecosystems and prosperous civilizations are inseparably linked.
 
 ## History and Mission
 
@@ -44,7 +39,7 @@ Shellborn Reef Station serves as the premier marine ecosystem protection facilit
 **Response**: Emergency response requiring dedicated protection efforts
 
 ### Torrent's Calling
-**Background**: [[02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn]]'s background in marine biology and military service  
+**Background**: [[Reef Guard Captain Torrent Shellborn]]'s background in marine biology and military service  
 **Vision**: Comprehensive vision combining conservation science with enforcement capability  
 **Leadership**: Selection as leader of new reef protection initiative  
 **Team**: Assembly of team combining scientists, guards, and community liaisons  
@@ -58,7 +53,7 @@ Shellborn Reef Station serves as the premier marine ecosystem protection facilit
 **Success**: Early success in reef protection and restoration efforts
 
 ### Program Expansion
-**Growth**: Expansion of protection programs throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Growth**: Expansion of protection programs throughout [[Aquabyssos]]  
 **Recognition**: Official recognition as model for marine ecosystem protection  
 **Cooperation**: Cooperation with other protection agencies and organizations  
 **Innovation**: Innovation in protection techniques and technology  
@@ -394,12 +389,12 @@ Shellborn Reef Station serves as the premier marine ecosystem protection facilit
 **Crisis**: Environmental crisis response  
 **Discovery**: Discovery of new species and ecosystems
 
-Shellborn Reef Station represents the vital intersection of environmental science and community protection in [[02_Worldbuilding/Places/Aquabyssos]], where [[02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn]]'s comprehensive approach to marine ecosystem protection demonstrates that healthy environments and healthy communities are inseparable. Through innovative conservation techniques, community engagement, and unwavering commitment to ecosystem health, this facility serves as a model for sustainable relationship between civilization and the natural world.
+Shellborn Reef Station represents the vital intersection of environmental science and community protection in [[Aquabyssos]], where [[Reef Guard Captain Torrent Shellborn]]'s comprehensive approach to marine ecosystem protection demonstrates that healthy environments and healthy communities are inseparable. Through innovative conservation techniques, community engagement, and unwavering commitment to ecosystem health, this facility serves as a model for sustainable relationship between civilization and the natural world.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 
@@ -421,6 +416,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn]]
+- [[Reef Guard Captain Torrent Shellborn]]
 
 <!-- enriched: true -->

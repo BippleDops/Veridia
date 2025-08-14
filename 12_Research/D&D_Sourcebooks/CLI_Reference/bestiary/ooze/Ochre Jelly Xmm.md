@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/ochre-jelly-xmm|Ochre Jelly]]
+# [[ochre-jelly-xmm|Ochre Jelly]]
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ochre Jelly
@@ -77,10 +77,10 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "2"
@@ -95,12 +95,12 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
-      \ it becomes [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]] or\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit-points-xphb|Hit Points]],\
+      \ it becomes [[bloodied-xphb|Bloodied]] or\
       \ is subjected to Lightning or Slashing damage. _Response:_ The jelly splits\
       \ into two new Ochre Jellies. Each new jelly is one size smaller than the original\
-      \ jelly and acts on its [[/03_Mechanics/CLI/variant-rules/initiative-xphb|Initiative]].\
-      \ The original jelly's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ jelly and acts on its [[initiative-xphb|Initiative]].\
+      \ The original jelly's [[hit-points-xphb|Hit Points]]\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":

@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/padded-armor-xphb|Padded Armor]], [[/03_Mechanics/CLI/items/basket-xphb|Basket]], [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], [[/03_Mechanics/CLI/items/blanket-xphb|Blanket]], [[/03_Mechanics/CLI/items/fine-clothes-xphb|Fine Clothes]], [[/03_Mechanics/CLI/items/net-xphb|Net]], [[/03_Mechanics/CLI/items/robe-xphb|Robe]], [[/03_Mechanics/CLI/items/rope-xphb|Rope]], [[/03_Mechanics/CLI/items/sack-xphb|Sack]], [[/03_Mechanics/CLI/items/string-xphb|String]], [[/03_Mechanics/CLI/items/tent-xphb|Tent]], [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]]  
+- **Craft.** [[padded-armor-xphb|Padded Armor]], [[basket-xphb|Basket]], [[bedroll-xphb|Bedroll]], [[blanket-xphb|Blanket]], [[fine-clothes-xphb|Fine Clothes]], [[net-xphb|Net]], [[robe-xphb|Robe]], [[rope-xphb|Rope]], [[sack-xphb|Sack]], [[string-xphb|String]], [[tent-xphb|Tent]], [[travelers-clothes-xphb|Traveler's Clothes]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

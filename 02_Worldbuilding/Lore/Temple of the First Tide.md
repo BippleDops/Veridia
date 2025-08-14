@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,31 +15,28 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[02_Worldbuilding/Lore/The Pressure Baptism Rites]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Lore/Tidal Chambers]]
-- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Deep Mother Lore]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Pressure Adaptation System]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Deep Harvest]]
+- [[12_Research/D&D_References/The Great Convergence Prophecies]]
+- [[12_Research/D&D_References/The Pressure Baptism Rites]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Seven Betrayers]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Tidal Chambers]]
+- [[12_Research/D&D_References/Tidal Memory Ceremonies]]
+- [[12_Research/D&D_References/Aethermoor]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -60,3 +58,8 @@ Legends speak of Temple of the First Tide as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -29,7 +29,7 @@ world: Both
 - **Cost**: 40 gp
 - **Weight**: 58.5 lbs.
 
-An Entertainer's Pack contains the following items: [[/03_Mechanics/CLI/items/backpack-xphb|Backpack]], [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], [[/03_Mechanics/CLI/items/bell-xphb|Bell]], [[/03_Mechanics/CLI/items/bullseye-lantern-xphb|Bullseye Lantern]], 3 [[/03_Mechanics/CLI/items/costume-xphb|Costumes]], [[/03_Mechanics/CLI/items/mirror-xphb|Mirror]], 8 flasks of [[/03_Mechanics/CLI/items/oil-xphb|Oil]], 9 days of [[/03_Mechanics/CLI/items/rations-xphb|Rations]], [[/03_Mechanics/CLI/items/tinderbox-xphb|Tinderbox]], and [[/03_Mechanics/CLI/items/waterskin-xphb|Waterskin]].
+An Entertainer's Pack contains the following items: [[backpack-xphb|Backpack]], [[bedroll-xphb|Bedroll]], [[bell-xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], 3 [[costume-xphb|Costumes]], [[mirror-xphb|Mirror]], 8 flasks of [[oil-xphb|Oil]], 9 days of [[rations-xphb|Rations]], [[tinderbox-xphb|Tinderbox]], and [[waterskin-xphb|Waterskin]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

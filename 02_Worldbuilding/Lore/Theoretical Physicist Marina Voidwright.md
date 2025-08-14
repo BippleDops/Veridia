@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[12_Research/D&D_References/Gravity Anomaly Mechanics]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[12_Research/D&D_References/Gravity Anomaly Mechanics]]
 
 ## Player-Facing Summary
 

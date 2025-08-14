@@ -9,6 +9,8 @@ operational_status: Active
 significance: Regional Critical Infrastructure
 status: complete
 tags:
+- crystal-enhanced
+- aquatic
 - aquabyssos
 - complete
 - content/lore
@@ -30,10 +32,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Resonance Peaks
+
 *The Symphony of Stone and Crystal*
 
 > *"The Peaks do not merely amplify sound—they transform it, reshape it, and give it purpose beyond what nature intended. When properly tuned, these formations can make the ocean itself sing, turning the chaos of the depths into harmony that reaches across dimensions. But like any instrument, they must be played with skill, for a discord at these frequencies can shatter more than stone."*
@@ -45,7 +45,7 @@ The Resonance Peaks represent one of Aquabyssos' most sophisticated technologica
 
 Located at strategic points throughout the underwater realm, each Peak serves as both a functional facility and a testament to the engineering capabilities of Aquabyssos civilization. The Peaks work individually and as a coordinated network, allowing for complex acoustic operations that span vast distances and penetrate areas where conventional communication and technology prove insufficient.
 
-The technology represents a fusion of geological engineering, crystal cultivation, acoustic science, and magical enhancement that creates capabilities impossible through any single discipline alone. Recent developments have expanded the Peaks' applications to include dimensional research and cross-realm communication, making them crucial infrastructure for the growing relationship between Aquabyssos and [[02_Worldbuilding/Places/Aethermoor]].
+The technology represents a fusion of geological engineering, crystal cultivation, acoustic science, and magical enhancement that creates capabilities impossible through any single discipline alone. Recent developments have expanded the Peaks' applications to include dimensional research and cross-realm communication, making them crucial infrastructure for the growing relationship between Aquabyssos and [[12_Research/D&D_References/Aethermoor]].
 
 Each Peak requires constant maintenance and skilled operation due to the enormous forces involved and the precision required for safe operation. The facilities employ teams of specialists in acoustic engineering, crystal cultivation, geological analysis, and harmonic manipulation, creating a unique professional culture dedicated to the mastery of sound and vibration in the underwater environment.
 
@@ -187,7 +187,7 @@ The Peaks provide unique research capabilities for various scientific discipline
 
 **Cross-Dimensional Studies:**
 Recent research focuses on the Peaks' potential for dimensional interaction:
-- Communication experiments attempting to establish contact with [[02_Worldbuilding/Places/Aethermoor]]
+- Communication experiments attempting to establish contact with [[12_Research/D&D_References/Aethermoor]]
 - Research into acoustic effects on dimensional stability and boundary conditions  
 - Investigation of harmonic frequencies that may facilitate dimensional travel
 - Studies of acoustic phenomena that appear to transcend normal physical limitations
@@ -221,11 +221,11 @@ Network coordination enables sophisticated operations:
 Peak operations require highly trained specialists with expertise in multiple technical disciplines:
 
 **Primary Specializations:**
-- **Resonance Engineers**: Experts in acoustic engineering and frequency manipulation ([[02_Worldbuilding/Lore/Senior Resonance Engineer Harmony Deepnote]])
-- **Crystal Cultivation Specialists**: Experts in growing and maintaining crystal networks ([[02_Worldbuilding/Lore/Crystal Master Chorus Gemgrow]])
+- **Resonance Engineers**: Experts in acoustic engineering and frequency manipulation ([[12_Research/D&D_References/Senior Resonance Engineer Harmony Deepnote]])
+- **Crystal Cultivation Specialists**: Experts in growing and maintaining crystal networks ([[12_Research/D&D_References/Crystal Master Chorus Gemgrow]])
 - **Geological Integration Technicians**: Specialists in mountain engineering and structural maintenance ([[Geology Specialist Stone Soundshape]])
-- **Network Coordination Operators**: Personnel managing multi-Peak operations and communication ([[02_Worldbuilding/Lore/Network Coordinator Wave Linkmaster]])
-- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[02_Worldbuilding/Lore/Safety Director Storm Shieldvoice]])
+- **Network Coordination Operators**: Personnel managing multi-Peak operations and communication ([[12_Research/D&D_References/Network Coordinator Wave Linkmaster]])
+- **Safety and Security Personnel**: Specialists ensuring safe operation and protecting facilities ([[12_Research/D&D_References/Safety Director Storm Shieldvoice]])
 
 **Training and Professional Development:**
 Peak personnel undergo extensive training and continuous professional development:
@@ -333,8 +333,8 @@ Research programs promise significant advances in Peak capabilities:
 
 **Cross-Disciplinary Innovation:**
 Peak research benefits from collaboration with other technological and academic disciplines:
-- Integration with [[02_Worldbuilding/Lore/Tidal Chambers]] for combined acoustic and hydraulic capabilities
-- Cooperation with [[02_Worldbuilding/Lore/Resonance Chamber]] research for advanced frequency manipulation techniques
+- Integration with [[12_Research/D&D_References/Tidal Chambers]] for combined acoustic and hydraulic capabilities
+- Cooperation with [[12_Research/D&D_References/Resonance Chamber]] research for advanced frequency manipulation techniques
 - Partnership with dimensional research programs studying cross-realm phenomena
 - Collaboration with marine biology programs studying acoustic effects on underwater life
 - Integration with communication technology for enhanced information transmission capabilities
@@ -348,7 +348,7 @@ Plans for expanding the Peak network to increase capabilities and coverage:
 - Additional Peaks extending coverage to remote areas and new settlements
 - Enhanced Peak capabilities providing more sophisticated services
 - International cooperation extending network capabilities to allied civilizations
-- Cross-dimensional integration enabling direct acoustic connection with [[02_Worldbuilding/Places/Aethermoor]]
+- Cross-dimensional integration enabling direct acoustic connection with [[12_Research/D&D_References/Aethermoor]]
 - Mobile Peak technology enabling temporary acoustic capabilities in new locations
 
 **Technology Transfer and Commercialization:**
@@ -451,26 +451,26 @@ Involvement with Peak operations provides numerous opportunities for character d
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Resonance Peak technology
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional acoustic research
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Related facility providing specialized acoustic research capabilities
-- [[02_Worldbuilding/Lore/Tidal Chambers]] - Complementary technology providing hydraulic capabilities
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Source of crystals used in Peak operations
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Peak facilities
+- [[12_Research/D&D_References/Aquabyssos]] - Primary location utilizing Resonance Peak technology
+- [[12_Research/D&D_References/Aethermoor]] - Partner civilization for cross-dimensional acoustic research
+- [[12_Research/D&D_References/Resonance Chamber]] - Related facility providing specialized acoustic research capabilities
+- [[12_Research/D&D_References/Tidal Chambers]] - Complementary technology providing hydraulic capabilities
+- [[12_Research/D&D_References/Crystal Forest]] - Source of crystals used in Peak operations
+- [[12_Research/D&D_References/The Deepwatch Guard]] - Security organization protecting Peak facilities
 - [[02_Worldbuilding/People/Master Resonance Architect Echo Stonewhisper|02 Worldbuilding/People/Master Resonance Architect Echo Stonewhisper]] - Chief Designer of Peak network
-- [[02_Worldbuilding/People/Senior Resonance Engineer Harmony Deepnote|02 Worldbuilding/People/Senior Resonance Engineer Harmony Deepnote]] - Acoustic engineering specialist
-- [[02_Worldbuilding/People/Crystal Master Chorus Gemgrow|02 Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
+- [[Senior Resonance Engineer Harmony Deepnote|02 Worldbuilding/People/Senior Resonance Engineer Harmony Deepnote]] - Acoustic engineering specialist
+- [[Crystal Master Chorus Gemgrow|02 Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
 - [[02_Worldbuilding/People/Geology Specialist Stone Soundshape|02 Worldbuilding/People/Geology Specialist Stone Soundshape]] - Mountain engineering specialist
-- [[02_Worldbuilding/People/Network Coordinator Wave Linkmaster|02 Worldbuilding/People/Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
-- [[02_Worldbuilding/People/Safety Director Storm Shieldvoice|02 Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
+- [[Network Coordinator Wave Linkmaster|02 Worldbuilding/People/Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
+- [[Safety Director Storm Shieldvoice|02 Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
 
 The Resonance Peaks represent more than technological infrastructure—they embody Aquabyssos' mastery over the fundamental forces of sound and vibration, transforming the natural acoustic properties of the underwater environment into powerful tools for communication, defense, and discovery. Through these magnificent installations, the boundaries between engineering and art, between technology and harmony, dissolve into a symphony of stone, crystal, and purpose that resonates throughout the depths.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[12_Research/D&D_References/The Deep Mother]]
 
 ## Player-Facing Summary
 
@@ -495,6 +495,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Aetheric Wind Songs]]
-- [[02_Worldbuilding/Lore/Tidal Chambers]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Aetheric Wind Songs]]
+- [[12_Research/D&D_References/Tidal Chambers]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

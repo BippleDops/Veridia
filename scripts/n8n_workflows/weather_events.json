@@ -1,0 +1,28 @@
+{
+  "name": "Weather-Driven Events",
+  "nodes": [
+    {
+      "parameters": {
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_KEY",
+        "options": {}
+      },
+      "name": "Get Weather",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        250,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "functionCode": "\n// Generate campaign events based on real weather\nconst weather = items[0].json;\nconst events = {\n  'Clear': 'The skies clear, revealing ancient constellations',\n  'Clouds': 'Storm clouds gather, bringing ill omens',\n  'Rain': 'Torrential rains flood the lower districts',\n  'Snow': 'Unexpected snowfall blankets the realm'\n};\nconst event = events[weather.weather[0].main] || 'Strange weather patterns emerge';\nreturn [{ json: { \n  event, \n  prompt: `Fantasy landscape with ${weather.weather[0].description}, dramatic lighting`,\n  temperature: weather.main.temp\n}}];\n            "
+      },
+      "name": "Generate Event",
+      "type": "n8n-nodes-base.function",
+      "position": [
+        450,
+        400
+      ]
+    }
+  ]
+}

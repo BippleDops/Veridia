@@ -3,10 +3,10 @@ alignment: True Neutral (Profit-focused)
 created: '2025-08-09'
 created_by: auto-stub
 faction_type: Cross-Realm Trading Syndicate
-headquarters: '[[02_Worldbuilding/Lore/pat]] (dimensional
+headquarters: '[[pat]] (dimensional
   nexus)'
 influence: Significant (controls cross-realm commerce)
-leader: '[[02_Worldbuilding/Lore/Merchant Prince Vortex]]'
+leader: '[[Merchant Prince Vortex]]'
 members: ~1,200 traders, smugglers, and support staff
 purpose: Profit from inter-dimensional trade
 status: complete
@@ -28,20 +28,15 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-liminal-trading-company-the-liminal-trading-company.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-liminal-trading-company-the-liminal-trading-company.svg]]
 
 
 # The Liminal Trading Company
 *Masters of Between-World Commerce, The Dimensional Merchants*
 
 ## Overview
-The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[02_Worldbuilding/Lore/pat]]—a dimensional nexus that exists partially in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
+The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[pat]]—a dimensional nexus that exists partially in both [[Aethermoor]] and [[Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
 
 ## Business Model
 ### Cross-Realm Arbitrage
@@ -60,11 +55,11 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 
 ## Organization Structure
 ### Executive Council
-- **[[02_Worldbuilding/Lore/Merchant Prince Vortex]]**: CEO and founder, exists simultaneously in both realms
-- **[[02_Worldbuilding/People/Lady Nexus Goldcurrent]]**: Chief Financial Officer, manages inter-dimensional banking
-- **[[02_Worldbuilding/People/Captain Threshold]]**: Head of Transport Operations, master portal navigator
-- **[[02_Worldbuilding/Lore/The Quantum Accountant]]**: Chief Information Officer, tracks cross-dimensional market trends
-- **[[02_Worldbuilding/Lore/Ambassador Neutral]]**: Head of Political Relations, maintains governmental connections
+- **[[Merchant Prince Vortex]]**: CEO and founder, exists simultaneously in both realms
+- **[[Lady Nexus Goldcurrent]]**: Chief Financial Officer, manages inter-dimensional banking
+- **[[Captain Threshold]]**: Head of Transport Operations, master portal navigator
+- **[[The Quantum Accountant]]**: Chief Information Officer, tracks cross-dimensional market trends
+- **[[Ambassador Neutral]]**: Head of Political Relations, maintains governmental connections
 
 ### Operational Divisions
 #### Aethermoor Operations
@@ -128,15 +123,15 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 
 ### Governmental Relations
 #### Aethermoor Connections
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Major customer for rare Aquabyssos resources
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Competitive relationship, occasional partnerships
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Tense relations due to "foreign corruption" concerns
+- **[[The Crystal Throne]]**: Major customer for rare Aquabyssos resources
+- **[[Silverscale Consortium]]**: Competitive relationship, occasional partnerships
+- **[[Purist Coalition]]**: Tense relations due to "foreign corruption" concerns
 - **Local Governments**: Mutually beneficial trade relationships
 
 #### Aquabyssos Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Provides rare Aethermoor goods to government
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Historical trade agreements from before scattering
-- **[[02_Worldbuilding/Places/Memory Farmers]]**: Complex relationship involving memory commoditization
+- **[[Parliament of Echoes]]**: Provides rare Aethermoor goods to government
+- **[[The Scattered Emperor]]**: Historical trade agreements from before scattering
+- **[[Memory Farmers]]**: Complex relationship involving memory commoditization
 - **Regional Authorities**: Essential supplier of foreign goods and services
 
 ## Adventure Hooks
@@ -151,7 +146,7 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 ### Joining the Company
 #### Employment Requirements
 - Demonstrated skill in [[02_Worldbuilding/Skills/Cross-Cultural Communication|02 Worldbuilding/Skills/Cross Cultural Communication]]
-- Clean legal record in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- Clean legal record in both [[Aethermoor]] and [[Aquabyssos]]
 - Ability to handle [[02_Worldbuilding/Hazards/Dimensional Travel Stress|02 Worldbuilding/Hazards/Dimensional Travel Stress]]
 - Proven trustworthiness with valuable or sensitive cargo
 - Basic understanding of [[02_Worldbuilding/Concepts/Inter-Dimensional Commerce|02 Worldbuilding/Concepts/Inter Dimensional Commerce]]
@@ -171,12 +166,12 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 - **Diplomatic Couriers**: Carry sensitive messages between [[02_Worldbuilding/Governments/Realm Authorities|02 Worldbuilding/Governments/Realm Authorities]]
 - **Reality Technicians**: Maintain [[02_Worldbuilding/Equipment/Portal Technology|02 Worldbuilding/Equipment/Portal Technology]]
 - **Cultural Translators**: Bridge communication gaps using [[02_Worldbuilding/Magic/Universal Translation|02 Worldbuilding/Magic/Universal Translation]]
-- **Neutral Arbitrators**: Resolve disputes in [[02_Worldbuilding/Locations/The Floating Market|02 Worldbuilding/Locations/The Floating Market]]
+- **Neutral Arbitrators**: Resolve disputes in [[The Floating Market|02 Worldbuilding/Locations/The Floating Market]]
 
 ### Partnership Programs
 #### Merchant Associates
 - Independent traders with Company contracts
-- Access to [[02_Worldbuilding/Services/Portal Network|02 Worldbuilding/Services/Portal Network]] at reduced rates
+- Access to [[Portal Network|02 Worldbuilding/Services/Portal Network]] at reduced rates
 - Shared intelligence about [[02_Worldbuilding/Markets/Cross-Realm Opportunities|02 Worldbuilding/Markets/Cross Realm Opportunities]]
 - Protection under [[02_Worldbuilding/Treaties/Neutral Commerce Agreements|02 Worldbuilding/Treaties/Neutral Commerce Agreements]]
 
@@ -209,7 +204,7 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 - **Translation Services**: Professional interpretation using [[02_Worldbuilding/Personnel/Dimensional Linguists|02 Worldbuilding/Personnel/Dimensional Linguists]]
 
 ### Specialized Offerings
-- **Neutral Venue Rental**: Access to [[02_Worldbuilding/Locations/The Floating Market|02 Worldbuilding/Locations/The Floating Market]] for meetings
+- **Neutral Venue Rental**: Access to [[The Floating Market|02 Worldbuilding/Locations/The Floating Market]] for meetings
 - **Diplomatic Facilitation**: Mediating disputes through [[02_Worldbuilding/Departments/Conflict Resolution Division|02 Worldbuilding/Departments/Conflict Resolution Division]]
 - **Custom Procurement**: Acquiring specific items from either realm
 - **Reality Stabilization**: Technical support for [[02_Worldbuilding/Hazards/Dimensional Instabilities|02 Worldbuilding/Hazards/Dimensional Instabilities]]
@@ -240,7 +235,7 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 
 ## Relationships with Other Factions
 ### Business Partners
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Complicated relationship—convergence could eliminate their profit model
+- **[[The Convergence Seekers]]**: Complicated relationship—convergence could eliminate their profit model
 - **Independent traders**: Both competitors and suppliers
 - **Cultural exchange societies**: Mutual support for cross-realm understanding
 - **Academic institutions**: Provide research in exchange for rare specimens
@@ -267,28 +262,28 @@ The Company operates under the fundamental principle that economic prosperity cr
 #### The Expansionists
 - Want aggressive growth into new markets and territories
 - Push for riskier ventures with higher profit potential
-- Led by [[02_Worldbuilding/People/Captain Threshold]] and transport division
+- Led by [[Captain Threshold]] and transport division
 - Sometimes conflict with conservative financial management
 - Advocate for direct political intervention when profitable
 
 #### The Stabilizers
 - Prefer steady, sustainable growth and risk mitigation
 - Focus on maintaining existing relationships and contracts
-- Led by [[02_Worldbuilding/People/Lady Nexus Goldcurrent]] and financial division
+- Led by [[Lady Nexus Goldcurrent]] and financial division
 - Often oppose expansion that could destabilize neutrality
 - Emphasize reputation protection over short-term profits
 
 #### The Innovators
 - Research new technologies and business models
 - Experiment with fusion products and hybrid services
-- Led by [[02_Worldbuilding/Lore/The Quantum Accountant]] and information division
+- Led by [[The Quantum Accountant]] and information division
 - Sometimes create products that threaten established markets
 - Drive towards increasingly complex multi-dimensional commerce
 
 ### Corporate Rivalries
 - Transport vs. Finance over expense allocation and risk tolerance
 - Regional managers compete for resources and prestigious assignments
-- Senior executives vie for succession to replace [[02_Worldbuilding/Lore/Merchant Prince Vortex]]
+- Senior executives vie for succession to replace [[Merchant Prince Vortex]]
 - Innovation teams protect proprietary research from internal competitors
 - Cultural liaisons sometimes develop loyalties to specific realm interests
 
@@ -353,7 +348,7 @@ This mysterious figure is actually an artificial intelligence created from the m
 Some executives have discovered they can profit from creating minor conflicts and trade disruptions, then offering expensive solutions to problems they secretly caused.
 
 ### The Convergence Investment
-The Company has secretly invested heavily in [[02_Worldbuilding/Groups/The Convergence Seekers]], believing merged worlds would create unprecedented business opportunities despite massive initial disruption.
+The Company has secretly invested heavily in [[The Convergence Seekers]], believing merged worlds would create unprecedented business opportunities despite massive initial disruption.
 
 ## Crisis Management & Emergency Protocols
 
@@ -447,23 +442,23 @@ The Company ultimately envisions itself as the foundation of a unified multi-dim
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/The Pressure Maelstroms]]
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/Lore/pat]]
-- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
-- [[02_Worldbuilding/Places/The Tidepool Markets]]
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Crystal Wardens]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]
+- [[The Pressure Maelstroms]]
+- [[Commander Typhoon Blackheart]]
+- [[Oracle Nerida the Tidereader]]
+- [[Tenebrarum Ambassadors]]
+- [[Tribune Cassia Deepcurrent]]
+- [[pat]]
+- [[The Shadowmire Tavern]]
+- [[The Threshold Chambers]]
+- [[The Tidepool Markets]]
+- [[Goldspire Confederacy]]
+- [[Quest - The Convergence Crisis]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -477,6 +472,6 @@ Legends speak of The Liminal Trading Company as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[Quest - The Convergence Crisis]]
+- [[Memory Farmers]]
+- [[The Floating Market]]

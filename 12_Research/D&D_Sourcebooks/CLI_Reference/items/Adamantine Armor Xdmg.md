@@ -38,7 +38,7 @@ world: Both
 
 
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]] against you becomes a normal hit.
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[critical-hit-xphb|Critical Hit]] against you becomes a normal hit.
 
 **Variants**:
 - [Adamantine Breastplate](#Adamantine%20Breastplate)

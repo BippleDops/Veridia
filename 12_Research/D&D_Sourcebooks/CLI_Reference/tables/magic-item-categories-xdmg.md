@@ -23,15 +23,15 @@ world: Both
 
 | Category | Examples |
 |----------|----------|
-| "Armor" | [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 Leather Armor]], [[/03_Mechanics/CLI/items/1-shield-xdmg|+1 Shield]] |
-| "Potions" | [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]] |
-| "Rings" | [[/03_Mechanics/CLI/items/ring-of-invisibility-xdmg|Ring of Invisibility]] |
-| "Rods" | [[/03_Mechanics/CLI/items/immovable-rod-xdmg|Immovable Rod]] |
-| "Scrolls" | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] |
-| "Staffs" | [[/03_Mechanics/CLI/items/staff-of-striking-xdmg|Staff of Striking]] |
-| "Wands" | [[/03_Mechanics/CLI/items/wand-of-fireballs-xdmg|Wand of Fireballs]] |
-| "Weapons" | [[/03_Mechanics/CLI/items/1-ammunition-xdmg|+1 Ammunition]], [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 Longsword]] |
-| "Wondrous Items" | [[/03_Mechanics/CLI/items/bag-of-holding-xdmg|Bag of Holding]], [[/03_Mechanics/CLI/items/boots-of-elvenkind-xdmg|Boots of Elvenkind]] |
+| "Armor" | [[1-armor-xdmg|+1 Leather Armor]], [[1-shield-xdmg|+1 Shield]] |
+| "Potions" | [[potion-of-healing-xdmg|Potion of Healing]] |
+| "Rings" | [[ring-of-invisibility-xdmg|Ring of Invisibility]] |
+| "Rods" | [[immovable-rod-xdmg|Immovable Rod]] |
+| "Scrolls" | [[spell-scroll-xdmg|Spell Scroll]] |
+| "Staffs" | [[staff-of-striking-xdmg|Staff of Striking]] |
+| "Wands" | [[wand-of-fireballs-xdmg|Wand of Fireballs]] |
+| "Weapons" | [[1-ammunition-xdmg|+1 Ammunition]], [[1-weapon-xdmg|+1 Longsword]] |
+| "Wondrous Items" | [[bag-of-holding-xdmg|Bag of Holding]], [[boots-of-elvenkind-xdmg|Boots of Elvenkind]] |
 ^magic-item-categories
 
 ## Player-Facing Summary

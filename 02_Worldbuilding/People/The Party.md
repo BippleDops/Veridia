@@ -25,12 +25,9 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # The Party
 
-![[04_Resources/Assets/Art/NPCs/The_Party.png|The Party Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Party.png|The Party Portrait]]
 
 *Guidelines for integrating player characters into Aquabyssos*
 
@@ -459,12 +456,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Party]]
+- [[The Party]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Oracle]]
+- [[Oracle]]
 - [[Senator_Glaucus_Brain|Senator Glaucus Brain]]

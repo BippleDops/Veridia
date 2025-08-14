@@ -14,9 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 ## Overview
 
 TODO

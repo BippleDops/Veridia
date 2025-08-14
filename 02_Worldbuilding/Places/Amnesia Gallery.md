@@ -8,9 +8,15 @@ danger_level: Moderate-High
 depth: 800-1200 feet
 difficulty: Levels 3-8
 obsidianUIMode: preview
-owner: '[[02_Worldbuilding/Places/Keeper Elara Mindwell]]'
+owner: '[[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]'
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -28,38 +34,38 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-amnesia-gallery-amnesia-gallery.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-amnesia-gallery-amnesia-gallery.svg]]
 
 
 # Amnesia Gallery
+
 *Where Memories Dance in Crystal and Shadow, Where Forgetting is Art*
 
 ## Overview
 
-The Amnesia Gallery stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [[02_Worldbuilding/Lore/Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks. 
+The Amnesia Gallery stands as one of [[12_Research/D&D_References/Aquabyssos]]'s most enigmatic and dangerous cultural institutions—a floating exhibition space dedicated to the art of forgetting. Housed within a translucent crystalline sphere that drifts through the [[12_Research/D&D_References/Memory Depths]], this gallery displays memories that have been extracted, crystallized, and transformed into hauntingly beautiful artworks. 
 
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
-The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[02_Worldbuilding/Places/Aquabyssos]] for unknown ends.
+The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[12_Research/D&D_References/Aquabyssos]] for unknown ends.
 
 ## Physical Description & Atmosphere
 
 ### Exterior Architecture
-The Amnesia Gallery floats within a massive hollow crystal sphere, approximately 300 feet in diameter, suspended in the twilight depths of the [[02_Worldbuilding/Lore/Memory Depths]] region. The crystal walls are semi-translucent, allowing glimpses of the swirling exhibitions within while filtering the deep-sea bioluminescence into an ethereal, ever-changing light show. Tendrils of crystallized thought energy spiral around the exterior, creating anchor points where smaller viewing pods and research laboratories attach like metallic barnacles.
 
-The sphere's surface is carved with flowing script in the ancient [[02_Worldbuilding/Lore/Deep Script]] language, forming memory-binding runes that prevent the exhibitions from escaping or contaminating visitors' minds. At night, these runes pulse with soft silver light, making the entire structure visible from miles away in the abyssal depths.
+The Amnesia Gallery floats within a massive hollow crystal sphere, approximately 300 feet in diameter, suspended in the twilight depths of the [[12_Research/D&D_References/Memory Depths]] region. The crystal walls are semi-translucent, allowing glimpses of the swirling exhibitions within while filtering the deep-sea bioluminescence into an ethereal, ever-changing light show. Tendrils of crystallized thought energy spiral around the exterior, creating anchor points where smaller viewing pods and research laboratories attach like metallic barnacles.
+
+The sphere's surface is carved with flowing script in the ancient [[12_Research/D&D_References/Deep Script]] language, forming memory-binding runes that prevent the exhibitions from escaping or contaminating visitors' minds. At night, these runes pulse with soft silver light, making the entire structure visible from miles away in the abyssal depths.
 
 ### Interior Layout
+
 Upon entering through the main portal (a sphincter-like opening that reads visitors' intentions), guests find themselves in the **Reception Abyss**—a circular chamber with walls that display constantly shifting previews of the current exhibitions. The floor is made of memory-glass, allowing visitors to peer down into the gallery's lower levels where archived memories swim in containment pools like luminous jellyfish.
 
 The gallery space itself defies conventional architecture, with exhibition areas that phase in and out of existence based on the collective consciousness of current visitors. Viewing platforms connected by bridges of crystallized thought allow movement between exhibits, while the central void serves as the main display space for large-scale memory installations.
 
 ### Atmospheric Effects
+
 - **Memory Mist**: A faint, opalescent fog that carries echoes of displayed memories
 - **Temporal Echoes**: Sounds from past and future exhibitions occasionally bleed through
 - **Empathic Resonance**: Emotional atmospheres from memories affect room temperature and lighting
@@ -71,7 +77,8 @@ The gallery space itself defies conventional architecture, with exhibition areas
 ### The Welcome Wing - Entrance Level
 
 #### Reception Abyss
-The gallery's main entrance features a circular reception desk staffed by [[02_Worldbuilding/Lore/Memory Attendants]]—beings whose faces constantly shift between different identities they've absorbed. The walls display a rotating preview of current exhibitions, while the ceiling shows a live feed of memories being processed in the extraction laboratories above.
+
+The gallery's main entrance features a circular reception desk staffed by [[12_Research/D&D_References/Memory Attendants]]—beings whose faces constantly shift between different identities they've absorbed. The walls display a rotating preview of current exhibitions, while the ceiling shows a live feed of memories being processed in the extraction laboratories above.
 
 **Services Available:**
 - Exhibition tickets (Standard: 25 gp, Premium: 75 gp, Exclusive: 200 gp)
@@ -80,6 +87,7 @@ The gallery's main entrance features a circular reception desk staffed by [[02_W
 - Memory authentication certificates (50 gp)
 
 #### The Preparation Chambers
+
 Small alcoves where visitors can undergo mental preparation for memory viewing. Each chamber contains:
 - **Psychic dampening fields** to prevent memory bleed
 - **Consciousness anchors** to maintain personal identity
@@ -89,9 +97,10 @@ Small alcoves where visitors can undergo mental preparation for memory viewing. 
 ### The Primary Gallery - Main Exhibition Floors
 
 #### Hall of Borrowed Dreams
+
 The gallery's signature exhibition space features memories displayed as three-dimensional holographic environments that visitors can walk through and experience partially. Current installations include:
 
-**"The Last Tide"** - Memories from the final moments before [[02_Worldbuilding/Places/The Great Drowning]]
+**"The Last Tide"** - Memories from the final moments before [[12_Research/D&D_Statblocks/The Great Drowning]]
 - Visitors experience the terror and wonder of the world's transformation
 - Emotional intensity: High (requires signed waiver)
 - Safety rating: Yellow (mild trauma potential)
@@ -101,12 +110,13 @@ The gallery's signature exhibition space features memories displayed as three-di
 - Emotional intensity: Moderate
 - Safety rating: Green (safe for all ages)
 
-**"The Deepmind's Whisper"** - Fragments of memories stolen by [[02_Worldbuilding/Places/The Deepmind]]
+**"The Deepmind's Whisper"** - Fragments of memories stolen by [[12_Research/D&D_Statblocks/The Deepmind]]
 - Heavily censored and filtered exhibition
 - Contains glimpses of forbidden knowledge
 - Safety rating: Red (restricted access only)
 
 #### The Nostalgia Grotto
+
 A more intimate space featuring personal memories donated by citizens:
 - **Childhood Summers** - Memories of surface world summers before the Drowning
 - **Lost Loved Ones** - Final moments with deceased family and friends
@@ -114,8 +124,9 @@ A more intimate space featuring personal memories donated by citizens:
 - **Victory Moments** - Personal triumphs and achievements
 
 #### The Nightmare Alcove
+
 A restricted section displaying traumatic memories, heavily regulated:
-- Requires special permit from [[02_Worldbuilding/Lore/The Memory Wardens]]
+- Requires special permit from [[12_Research/D&D_References/The Memory Wardens]]
 - Visitors must pass psychological evaluation
 - Constant monitoring by trained psychic healers
 - Features memories of war, loss, and existential horror
@@ -123,6 +134,7 @@ A restricted section displaying traumatic memories, heavily regulated:
 ### The Research Levels - Upper Floors
 
 #### The Extraction Laboratories
+
 Behind reinforced crystal walls, visitors can observe the memory extraction process:
 - **Extraction Chairs**: Crystalline thrones where memories are drawn from donors
 - **Crystallization Vats**: Where raw memories are processed into stable forms
@@ -130,6 +142,7 @@ Behind reinforced crystal walls, visitors can observe the memory extraction proc
 - **Archive Processing**: Where memories are catalogued and prepared for display
 
 #### The Memory Vaults
+
 Storage areas containing the gallery's vast collection:
 - **Historical Archives**: Memories from significant historical events
 - **Personal Collections**: Individual life stories and experiences
@@ -139,6 +152,7 @@ Storage areas containing the gallery's vast collection:
 ### The Depths - Lower Levels
 
 #### The Collective Pool
+
 A vast chamber containing a pool of liquid memory where fragments of consciousness merge and separate:
 - Origin point for the gallery's most experimental exhibitions
 - Dangerous to approach without proper protection
@@ -146,15 +160,17 @@ A vast chamber containing a pool of liquid memory where fragments of consciousne
 - Connected to underground memory currents
 
 #### The Forgotten Archive
+
 The gallery's deepest level where memories deemed too dangerous or painful are stored:
-- Access restricted to [[02_Worldbuilding/Places/Keeper Elara Mindwell]] and senior staff
+- Access restricted to [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]] and senior staff
 - Contains memories of pre-Drowning civilizations
 - Houses fragments of divine consciousness
-- Rumored to connect to [[02_Worldbuilding/Places/The Deepmind]]'s neural networks
+- Rumored to connect to [[12_Research/D&D_Statblocks/The Deepmind]]'s neural networks
 
 ## Key NPCs
 
 ### Keeper Elara Mindwell
+
 *Medium humanoid (sea elf), neutral*
 **Gallery Director and Chief Memory Curator**
 
@@ -175,6 +191,7 @@ The gallery's deepest level where memories deemed too dangerous or painful are s
 Elara appears as an elegant sea elf whose eyes constantly shift color based on the memories she's currently accessing. She wears robes woven from crystallized thoughts that display faint images of significant moments. Once a prominent scholar of consciousness studies, she founded the gallery after losing her own memories in a research accident, dedicating her life to understanding the nature of memory and identity.
 
 ### The Curator Collective
+
 *Three beings sharing one consciousness*
 **Exhibition Designers and Memory Artists**
 
@@ -185,6 +202,7 @@ Elara appears as an elegant sea elf whose eyes constantly shift color based on t
 Each appears as a translucent humanoid figure that phases between different forms. They communicate through shared consciousness and can manifest memories as temporary physical constructs for exhibitions.
 
 ### Memory Attendants (6)
+
 *Medium humanoid (various), neutral*
 **Gallery Staff and Guides**
 
@@ -200,6 +218,7 @@ Each appears as a translucent humanoid figure that phases between different form
 Former visitors who volunteered to undergo partial memory integration with the gallery itself. They maintain their core identities but have access to fragments from thousands of other minds, making them ideal guides and safety monitors.
 
 ### The Memory Wardens (4)
+
 *Medium humanoid (triton), lawful neutral*
 **Security and Safety Officers**
 
@@ -220,18 +239,21 @@ Elite guards trained to handle psychic threats and memory-based emergencies. The
 ### For Visitors
 
 #### Standard Services
+
 - **Memory Viewing** (5-50 gp per exhibition): Experience curated memory displays
 - **Guided Tours** (25 gp): Expert-led exploration with safety guarantees
 - **Memory Consultation** (10 gp): Advice on memory-related issues
 - **Identity Anchoring** (15 gp): Temporary protection against memory confusion
 
 #### Premium Services
+
 - **Private Exhibitions** (200 gp): Exclusive viewing of rare or restricted memories
 - **Memory Therapy** (100-500 gp): Professional treatment using therapeutic memories
 - **Custom Experiences** (300-1000 gp): Personalized memory installations
 - **Memory Authentication** (50 gp): Verify the authenticity of personal memories
 
 #### Exclusive Services
+
 - **Memory Extraction** (100-1000 gp): Professional removal of unwanted memories
 - **Memory Implantation** (500-2000 gp): Install new memories or skills
 - **Consciousness Backup** (5000 gp): Create a copy of your entire memory set
@@ -240,6 +262,7 @@ Elite guards trained to handle psychic threats and memory-based emergencies. The
 ## Environmental Hazards & Challenges
 
 ### Memory Bleed
+
 Prolonged exposure to multiple memories can cause personal memories to become confused with exhibited ones.
 - **Trigger**: Spending more than 4 hours in active exhibitions
 - **Effect**: WIS save DC 15 or gain false memories for 24 hours
@@ -247,6 +270,7 @@ Prolonged exposure to multiple memories can cause personal memories to become co
 - **Treatment**: Professional memory separation therapy
 
 ### Temporal Displacement
+
 Some memory exhibitions exist partially outside normal time flow.
 - **Trigger**: Entering temporal memory displays
 - **Effect**: CON save DC 16 or age/de-age 1d4 years temporarily
@@ -254,6 +278,7 @@ Some memory exhibitions exist partially outside normal time flow.
 - **Permanent Risk**: Critical failures may cause permanent age shifts
 
 ### Psychic Overload
+
 Sensitive individuals may be overwhelmed by collective memory emanations.
 - **Trigger**: High Wisdom (16+) characters in the Collective Pool area
 - **Effect**: INT save DC 18 or suffer 2d6 psychic damage and confusion
@@ -261,6 +286,7 @@ Sensitive individuals may be overwhelmed by collective memory emanations.
 - **Recovery**: Short rest in preparation chambers
 
 ### Identity Crisis
+
 Extreme exposure to foreign memories can cause temporary loss of self.
 - **Trigger**: Viewing more than 5 high-intensity exhibitions per day
 - **Effect**: CHA save DC 17 or suffer personality fragmentation
@@ -268,6 +294,7 @@ Extreme exposure to foreign memories can cause temporary loss of self.
 - **Treatment**: Requires professional intervention and 1d4 days recovery
 
 ### Memory Parasites
+
 Occasionally, hostile memory fragments attempt to attach to visitors.
 - **Trigger**: Viewing corrupted or artificially modified memories
 - **Effect**: WIS save DC 19 or become infected with foreign personality
@@ -277,7 +304,8 @@ Occasionally, hostile memory fragments attempt to attach to visitors.
 ## Hidden Secrets & Areas
 
 ### The Black Collection
-Behind a secret panel in [[02_Worldbuilding/Places/Keeper Elara Mindwell]]'s office lies access to the gallery's most dangerous memories:
+
+Behind a secret panel in [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]'s office lies access to the gallery's most dangerous memories:
 - **The God-Killers' Last Thoughts**: Memories from beings who attempted deicide
 - **The Consciousness Plague**: Memories that spread like viruses between minds
 - **Pre-Reality Recollections**: Memories from before the current reality was established
@@ -290,6 +318,7 @@ Behind a secret panel in [[02_Worldbuilding/Places/Keeper Elara Mindwell]]'s off
 - Psychological evaluation rating of "Exceptional Stability"
 
 ### The Dream Laboratory
+
 A hidden research facility where memories are artificially created and modified:
 - **Memory Synthesis**: Creating false but convincing memories
 - **Trauma Editing**: Removing or modifying traumatic experiences
@@ -299,6 +328,7 @@ A hidden research facility where memories are artificially created and modified:
 **Ethical Concerns**: This facility operates in a legal grey area, with some questioning whether memory modification violates personal autonomy.
 
 ### The Collective Consciousness Chamber
+
 Deep beneath the main gallery, a spherical chamber where the memories of willing donors are merged into a single, shared consciousness:
 - **The Shared Self**: A collective entity composed of thousands of merged memories
 - **Hive Knowledge**: Access to combined experiences and skills of all contributors
@@ -314,6 +344,7 @@ Deep beneath the main gallery, a spherical chamber where the memories of willing
 ## Adventure Hooks
 
 ### The Stolen Childhood (Levels 3-5)
+
 A wealthy merchant's daughter has had all her childhood memories mysteriously extracted and displayed in an unauthorized exhibition. The family hires the party to investigate who stole the memories and why, leading to discoveries about a black market in personal memories and a conspiracy involving several gallery employees.
 
 **Key Elements**:
@@ -323,25 +354,28 @@ A wealthy merchant's daughter has had all her childhood memories mysteriously ex
 - Combat with memory thieves and corrupted exhibitions
 
 ### The False History (Levels 6-8)
+
 Historical memories in the gallery's archive have been altered, creating false versions of significant events. Scholars notice discrepancies, and the party is hired to discover who is rewriting history and prevent further manipulation of the historical record.
 
 **Key Elements**:
 - Detective work comparing memories with other historical sources
 - Political intrigue involving those who benefit from false history
 - Exploration of deep archive vaults
-- Confrontation with agents of [[02_Worldbuilding/Places/The Deepmind]] or other memory-manipulating entities
+- Confrontation with agents of [[12_Research/D&D_Statblocks/The Deepmind]] or other memory-manipulating entities
 
 ### The Memory Plague (Levels 9-12)
+
 A virulent memory has escaped containment and is spreading through visitors, gradually overwriting their personalities with fragments of an ancient, malevolent consciousness. The party must trace the source of the infection and find a way to purge it before it reaches critical mass.
 
 **Key Elements**:
 - Race against time to prevent widespread mental contamination
 - Investigation of the gallery's most dangerous collections
 - Combat with memory-infected NPCs and staff
-- Potential exploration of connections to [[02_Worldbuilding/Places/The Deepmind]] or otherworldly entities
+- Potential exploration of connections to [[12_Research/D&D_Statblocks/The Deepmind]] or otherworldly entities
 
 ### The Consciousness Heist (Levels 12-15)
-Someone has stolen the complete memory archive of a legendary hero, intending to resurrect them by implanting their consciousness into a new body. The party must navigate complex moral questions about identity and death while stopping a scheme that could destabilize the balance of power in [[02_Worldbuilding/Places/Aquabyssos]].
+
+Someone has stolen the complete memory archive of a legendary hero, intending to resurrect them by implanting their consciousness into a new body. The party must navigate complex moral questions about identity and death while stopping a scheme that could destabilize the balance of power in [[12_Research/D&D_References/Aquabyssos]].
 
 **Key Elements**:
 - High-stakes infiltration of heavily secured areas
@@ -350,6 +384,7 @@ Someone has stolen the complete memory archive of a legendary hero, intending to
 - Complex moral choices about memory rights and resurrection ethics
 
 ### The Convergence Crisis (Levels 15-18)
+
 The gallery's Collective Consciousness Chamber has begun spontaneously creating new entities that claim to be from alternate realities. These beings possess memories of events that never happened, suggesting the chamber may be accessing parallel timelines. The party must investigate before reality itself becomes unstable.
 
 **Key Elements**:
@@ -361,19 +396,22 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 ## Connected Locations & Plot Threads
 
 ### Direct Connections
-- **[[02_Worldbuilding/Places/The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
+
+- **[[12_Research/D&D_Statblocks/The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
 - **[[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]]**: Primary patrons and oversight organization
-- **[[02_Worldbuilding/Places/The Phosphor Markets]]**: Memories are traded here as commodities
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
+- **[[12_Research/D&D_References/The Phosphor Markets]]**: Memories are traded here as commodities
+- **[[12_Research/D&D_References/Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
 
 ### Indirect Connections
-- **[[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Many visitors and donors come from the capital
-- **[[02_Worldbuilding/Lore/Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
+
+- **[[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
+- **[[12_Research/D&D_References/Abyssos Prime]]**: Many visitors and donors come from the capital
+- **[[12_Research/D&D_References/Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
 
 ### Regional Impact
-The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[02_Worldbuilding/Places/Aquabyssos]]. Its influence extends into:
+
+The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[12_Research/D&D_References/Aquabyssos]]. Its influence extends into:
 - **Educational Institutions**: Providing memory-based learning experiences
 - **Legal System**: Memories as evidence in court proceedings
 - **Medical Field**: Therapeutic applications for trauma and mental illness
@@ -386,7 +424,7 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 
@@ -402,13 +440,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[12_Research/D&D_References/Amnesia Gallery]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
+- [[12_Research/D&D_References/The Sunken Library of Thalassius]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

@@ -32,7 +32,7 @@ _Source: Dungeon Master's Guide p. 141. Available in the <span title='Systems Re
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.
 
-If an item requires an action to activate, that action isn't a function of the [[/03_Mechanics/CLI/actions#Utilize|Use an Object]] action, so a feature such as the rogue's Fast Hands can't be used to activate the item.
+If an item requires an action to activate, that action isn't a function of the [[actions#Utilize|Use an Object]] action, so a feature such as the rogue's Fast Hands can't be used to activate the item.
 
 ### Command Word
 
@@ -44,7 +44,7 @@ Some items are used up when they are activated. A potion or elixir must be swall
 
 ### Spells
 
-Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [[/03_Mechanics/CLI/conditions#Concentration|concentration]]. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [[conditions#Concentration|concentration]]. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
 Many items, such as potions, bypass the casting of the spell and confer the spell's effects. Such an item still uses the spell's duration unless the item's description says otherwise.
 
@@ -59,7 +59,7 @@ _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-When you take the Attack action, you can make one attack roll with a weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]].
+When you take the Attack action, you can make one attack roll with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]].
 
 ### Equipping and Unequipping Weapons
 
@@ -69,65 +69,65 @@ You can either equip or unequip one weapon when you make an attack as part of th
 
 If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.
 
-See also: [[/03_Mechanics/CLI/actions#Two-Weapon%20Fighting|Two-Weapon Fighting]]
+See also: [[actions#Two-Weapon%20Fighting|Two-Weapon Fighting]]
 
 ## Climb onto a Bigger Creature
 _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
-If one creature wants to jump onto another creature, it can do so by [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|grappling]]. A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
+If one creature wants to jump onto another creature, it can do so by [[unarmed-strike-xphb|grappling]]. A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
 
-As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check contested by the target's Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
+As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check contested by the target's Dexterity ([[skills#Acrobatics|Acrobatics]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
 
-The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check contested by the smaller creature's Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. The smaller creature chooses which ability to use.
+The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[skills#Athletics|Athletics]]) check contested by the smaller creature's Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check. The smaller creature chooses which ability to use.
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Dash
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] after applying any modifiers. With a [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.
+When you take the Dash action, you gain extra movement for the current turn. The increase equals your [[speed-xphb|Speed]] after applying any modifiers. With a [[speed-xphb|Speed]] of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your [[speed-xphb|Speed]] of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.
 
-If you have a special speed, such as a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] or [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]], you can use that speed instead of your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] when you take this action. You choose which speed to use each time you take it.
+If you have a special speed, such as a [[fly-speed-xphb|Fly Speed]] or [[swim-speed-xphb|Swim Speed]], you can use that speed instead of your [[speed-xphb|Speed]] when you take this action. You choose which speed to use each time you take it.
 
 ## Disarm
 _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[skills#Athletics|Athletics]]) check or Dexterity ([[skills#Acrobatics|Acrobatics]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 
 The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
-See also: [[/03_Mechanics/CLI/actions#Attack|Attack]]
+See also: [[actions#Attack|Attack]]
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Disengage
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-If you take the Disengage action, your movement doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]] for the rest of the current turn.
+If you take the Disengage action, your movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]] for the rest of the current turn.
 
 ## Dodge
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] if you can see the attacker, and you make Dexterity [[/03_Mechanics/CLI/variant-rules/saving-throw-xphb|saving throws]] with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]].
+lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [[disadvantage-xphb|Disadvantage]] if you can see the attacker, and you make Dexterity [[saving-throw-xphb|saving throws]] with [[advantage-xphb|Advantage]].
 
-You lose these benefits if you have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition or if your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] is 0.
+You lose these benefits if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your [[speed-xphb|Speed]] is 0.
 
 ## Don or Doff a Shield
 _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
-A [[/03_Mechanics/CLI/items/shield-xphb|Shield]] can be donned or doffed as an action.
+A [[shield-xphb|Shield]] can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -141,7 +141,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A Grappled creature can use its action to make a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) or Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check against the grapple's escape DC, ending the [[/03_Mechanics/CLI/variant-rules/condition-xphb|condition]] on itself on a success. The [[/03_Mechanics/CLI/variant-rules/condition-xphb|condition]] also ends if the grappler has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+A Grappled creature can use its action to make a Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check against the grapple's escape DC, ending the [[condition-xphb|condition]] on itself on a success. The [[condition-xphb|condition]] also ends if the grappler has the [[conditions#Incapacitated|Incapacitated]] condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Healing Surge
 _Source: Dungeon Master's Guide p. 266_
@@ -152,7 +152,7 @@ As an action, a character can use a healing surge and spend up to half his or he
 
 A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one dice).
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/healing|Healing]].
+This action is an optional addition to the game, from the optional/variant rule [[healing|Healing]].
 
 ## Help
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -163,20 +163,20 @@ When you take the Help action, you do one of the following.
 
 ### Assist an Ability Check
 
-Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
+Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has [[advantage-xphb|Advantage]] on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
 
 ### Assist an Attack Roll
 
-You momentarily distract an enemy within 5 feet of you, giving [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+You momentarily distract an enemy within 5 feet of you, giving [[advantage-xphb|Advantage]] to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ## Hide
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check while you're [[/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb|Heavily Obscured]] or behind [[/03_Mechanics/CLI/variant-rules/cover-xphb|Three-Quarters Cover or Total Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[skills#Stealth|Stealth]]) check while you're [[heavily-obscured-xphb|Heavily Obscured]] or behind [[cover-xphb|Three-Quarters Cover or Total Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-On a successful check, you have the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+On a successful check, you have the [[conditions#Invisible|Invisible]] condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([[skills#Perception|Perception]]) check.
 
 You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
@@ -187,18 +187,18 @@ _Source: Xanathar's Guide to Everything p. 85_
 
 Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([[skills#Arcana|Arcana]]) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
-This Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
+This Intelligence ([[skills#Arcana|Arcana]]) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/spellcasting-xge|Spellcasting]].
+This action is an optional addition to the game, from the optional/variant rule [[spellcasting-xge|Spellcasting]].
 
 ## Improvising an Action
 _Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
 
 - **Duration**: Varies
 
-Player characters and monsters can also do things not covered by other actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Test]] you need to make, if any.
+Player characters and monsters can also do things not covered by other actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [[d20-test-xphb|D20 Test]] you need to make, if any.
 
 ## Influence
 _Source: Player's Handbook (2024) p. 369_
@@ -223,11 +223,11 @@ If you urge the monster to do something that it is hesitant to do, you must make
 
 | Ability Check | Interaction |
 |---------------|-------------|
-| Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) | Deceiving a monster that understands you |
-| Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) | Intimidating a monster |
-| Charisma ([[/03_Mechanics/CLI/skills#Performance|Performance]]) | Amusing a monster |
-| Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) | Persuading a monster that understands you |
-| Wisdom ([[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]]) | Gently coaxing a Beast or Monstrosity |
+| Charisma ([[skills#Deception|Deception]]) | Deceiving a monster that understands you |
+| Charisma ([[skills#Intimidation|Intimidation]]) | Intimidating a monster |
+| Charisma ([[skills#Performance|Performance]]) | Amusing a monster |
+| Charisma ([[skills#Persuasion|Persuasion]]) | Persuading a monster that understands you |
+| Wisdom ([[skills#Animal%20Handling|Animal Handling]]) | Gently coaxing a Beast or Monstrosity |
 ^influence-checks
 
 ## Magic
@@ -237,25 +237,25 @@ _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems 
 
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] while you do so. If your [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] is broken, the spell fails, but you don't expend a spell slot.
+If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [[conditions#Concentration|Concentration]] while you do so. If your [[conditions#Concentration|Concentration]] is broken, the spell fails, but you don't expend a spell slot.
 
 ## Mark
 _Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] condition or the [[/03_Mechanics/CLI/spells/shocking-grasp-xphb|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[conditions#Incapacitated|incapacitated]] condition or the [[shocking-grasp-xphb|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
-See also: [[/03_Mechanics/CLI/actions#Attack|Attack]]
+See also: [[actions#Attack|Attack]]
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Opportunity Attack
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 reaction
 
-You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], its [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]], or one of its speeds. To make the Opportunity Attack, take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to make one melee attack with a weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]] against the provoking creature. The attack occurs right before the creature leaves your reach.
+You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [[bonus-action-xphb|Bonus Action]], its [[reaction-xphb|Reaction]], or one of its speeds. To make the Opportunity Attack, take a [[reaction-xphb|Reaction]] to make one melee attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]] against the provoking creature. The attack occurs right before the creature leaves your reach.
 
 ## Other Activity
 _Source: Player's Handbook p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -304,24 +304,24 @@ _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
 
-When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check contested by the hostile creature's Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[skills#Athletics|Athletics]]) check contested by the hostile creature's Strength ([[skills#Athletics|Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [[/03_Mechanics/CLI/actions#Tumble|Tumble]]
+See also: [[actions#Tumble|Tumble]]
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Ready
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] before the start of your next turn.
+You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a [[reaction-xphb|Reaction]] before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]]. Then, you choose the action you will take in response to that trigger, or you choose to move up to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+First, you decide what perceivable circumstance will trigger your [[reaction-xphb|Reaction]]. Then, you choose the action you will take in response to that trigger, or you choose to move up to your [[speed-xphb|Speed]] in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
-When the trigger occurs, you can either take your [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] right after the trigger finishes or ignore the trigger.
+When the trigger occurs, you can either take your [[reaction-xphb|Reaction]] right after the trigger finishes or ignore the trigger.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[/03_Mechanics/CLI/conditions#Concentration|Concentration]], which you can maintain up to the start of your next turn. If your [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] is broken, the spell dissipates without taking effect.
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [[reaction-xphb|Reaction]] when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[conditions#Concentration|Concentration]], which you can maintain up to the start of your next turn. If your [[conditions#Concentration|Concentration]] is broken, the spell dissipates without taking effect.
 
 ## Search
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -334,10 +334,10 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 | Skill | Thing to Detect |
 |-------|-----------------|
-| [[/03_Mechanics/CLI/skills#Insight|Insight]] | Creature's state of mind |
-| [[/03_Mechanics/CLI/skills#Medicine|Medicine]] | Creature's ailment or cause of death |
-| [[/03_Mechanics/CLI/skills#Perception|Perception]] | Concealed creature or object |
-| [[/03_Mechanics/CLI/skills#Survival|Survival]] | Tracks or food |
+| [[skills#Insight|Insight]] | Creature's state of mind |
+| [[skills#Medicine|Medicine]] | Creature's ailment or cause of death |
+| [[skills#Perception|Perception]] | Concealed creature or object |
+| [[skills#Survival|Survival]] | Tracks or food |
 ^search
 
 ## Shove Aside
@@ -345,9 +345,9 @@ _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action
 
-With this option, a creature uses the special [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special [[unarmed-strike-xphb|shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[skills#Athletics|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Study
 _Source: Player's Handbook (2024) p. 375_
@@ -362,11 +362,11 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 | Skill | Areas |
 |-------|-------|
-| [[/03_Mechanics/CLI/skills#Arcana|Arcana]] | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
-| [[/03_Mechanics/CLI/skills#History|History]] | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
-| [[/03_Mechanics/CLI/skills#Investigation|Investigation]] | Traps, ciphers, riddles, and gadgetry |
-| [[/03_Mechanics/CLI/skills#Nature|Nature]] | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
-| [[/03_Mechanics/CLI/skills#Religion|Religion]] | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+| [[skills#Arcana|Arcana]] | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
+| [[skills#History|History]] | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
+| [[skills#Investigation|Investigation]] | Traps, ciphers, riddles, and gadgetry |
+| [[skills#Nature|Nature]] | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
+| [[skills#Religion|Religion]] | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
 ^areas-of-knowledge
 
 ## Tumble
@@ -374,27 +374,27 @@ _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
 
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check contested by the hostile creature's Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[skills#Acrobatics|Acrobatics]]) check contested by the hostile creature's Dexterity ([[skills#Acrobatics|Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [[/03_Mechanics/CLI/actions#Overrun|Overrun]]
+See also: [[actions#Overrun|Overrun]]
 
-This action is an optional addition to the game, from the optional/variant rule [[/03_Mechanics/CLI/variant-rules/action-options|Action Options]].
+This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Two-Weapon Fighting
 _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 bonus
 
-When you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[/03_Mechanics/CLI/items/shortsword-xphb|Shortsword]] in one hand and a [[/03_Mechanics/CLI/items/dagger-xphb|Dagger]] in the other using the [[/03_Mechanics/CLI/actions#Attack|Attack]] action and a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] unless that modifier is negative.
+When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb|Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb|Shortsword]] in one hand and a [[dagger-xphb|Dagger]] in the other using the [[actions#Attack|Attack]] action and a [[bonus-action-xphb|Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb|Bonus Action]] unless that modifier is negative.
 
-See also: [[/03_Mechanics/CLI/actions#Attack|Attack]]
+See also: [[actions#Attack|Attack]]
 
 ## Utilize
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the [[/03_Mechanics/CLI/actions#Attack|Attack]] action. When an object requires an action for its use, you take the Utilize action.
+You normally interact with an object while doing something else, such as when you draw a sword as part of the [[actions#Attack|Attack]] action. When an object requires an action for its use, you take the Utilize action.
 
 ## Waking Someone
 _Source: Xanathar's Guide to Everything p. 77_
@@ -403,7 +403,7 @@ _Source: Xanathar's Guide to Everything p. 77_
 
 A creature that is naturally sleeping, as opposed to being in a magically or chemically induced sleep, wakes up if it takes any damage or if someone else uses an action to shake or slap the creature awake. A sudden loud noise—such as yelling, thunder, or a ringing bell—also awakens someone that is sleeping naturally.
 
-Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher.
+Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[skills#Perception|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher.
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 

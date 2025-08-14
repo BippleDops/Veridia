@@ -19,11 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg]]
 
 
 # The Deep Patrol
@@ -164,9 +161,9 @@ The Deep Patrol provides opportunities for extreme environment adventures, milit
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Harbor District]]
+- [[Pressure Terminal]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -178,6 +175,6 @@ Legends speak of The Deep Patrol as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deep Patrol]]
+- [[The Deep Patrol]]
 
 <!-- enriched: true -->

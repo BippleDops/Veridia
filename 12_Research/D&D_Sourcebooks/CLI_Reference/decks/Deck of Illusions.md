@@ -30,7 +30,7 @@ This box contains a set of parchment cards. A full deck has 34 cards. A deck fou
 
 The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 
-An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check. The creature then appears translucent.
+An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. The creature then appears translucent.
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
@@ -38,38 +38,38 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 
 | dice: 1d34 | Playing Card | Illusion |
 |------------|--------------|----------|
-| 1 | Ace of hearts | [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|Red dragon]] |
+| 1 | Ace of hearts | [[adult-red-dragon-xmm|Red dragon]] |
 | 2 | King of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]] and four [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] |
-| 3 | Queen of hearts | [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|Succubus/Incubus]] |
+| 3 | Queen of hearts | [[succubus-xmm|Succubus/Incubus]] |
 | 4 | Jack of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]] |
-| 5 | Ten of hearts | [[/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm|Cloud giant]] |
-| 6 | Nine of hearts | [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|Ettin]] |
-| 7 | Eight of hearts | [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbear]] |
-| 8 | Two of hearts | [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin]] |
-| 9 | Ace of diamonds | [[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm|Beholder]] |
+| 5 | Ten of hearts | [[cloud-giant-xmm|Cloud giant]] |
+| 6 | Nine of hearts | [[ettin-xmm|Ettin]] |
+| 7 | Eight of hearts | [[bugbear-warrior-xmm|Bugbear]] |
+| 8 | Two of hearts | [[goblin-warrior-xmm|Goblin]] |
+| 9 | Ace of diamonds | [[beholder-xmm|Beholder]] |
 | 10 | King of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]] and [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] apprentice |
-| 11 | Queen of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm|Night hag]] |
+| 11 | Queen of diamonds | [[night-hag-xmm|Night hag]] |
 | 12 | Jack of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]] |
-| 13 | Ten of diamonds | [[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm|Fire giant]] |
-| 14 | Nine of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|Ogre mage]] |
-| 15 | Eight of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|Gnoll]] |
-| 16 | Two of diamonds | [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold]] |
-| 17 | Ace of spades | [[/03_Mechanics/CLI/bestiary/undead/lich-xmm|Lich]] |
+| 13 | Ten of diamonds | [[fire-giant-xmm|Fire giant]] |
+| 14 | Nine of diamonds | [[oni-xmm|Ogre mage]] |
+| 15 | Eight of diamonds | [[gnoll-warrior-xmm|Gnoll]] |
+| 16 | Two of diamonds | [[kobold-warrior-xmm|Kobold]] |
+| 17 | Ace of spades | [[lich-xmm|Lich]] |
 | 18 | King of spades | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]] and two [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
-| 19 | Queen of spades | [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|Medusa]] |
+| 19 | Queen of spades | [[medusa-xmm|Medusa]] |
 | 20 | Jack of spades | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]] |
-| 21 | Ten of spades | [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|Frost giant]] |
-| 22 | Nine of spades | [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Troll]] |
-| 23 | Eight of spades | [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|Hobgoblin]] |
-| 24 | Two of spades | [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin]] |
-| 25 | Ace of clubs | [[/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm|Iron golem]] |
+| 21 | Ten of spades | [[frost-giant-xmm|Frost giant]] |
+| 22 | Nine of spades | [[troll-xmm|Troll]] |
+| 23 | Eight of spades | [[hobgoblin-warrior-xmm|Hobgoblin]] |
+| 24 | Two of spades | [[goblin-warrior-xmm|Goblin]] |
+| 25 | Ace of clubs | [[iron-golem-xmm|Iron golem]] |
 | 26 | King of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit captain]] and three [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
-| 27 | Queen of clubs | [[/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm|Erinyes]] |
+| 27 | Queen of clubs | [[erinyes-xmm|Erinyes]] |
 | 28 | Jack of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] |
-| 29 | Ten of clubs | [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|Hill giant]] |
-| 30 | Nine of clubs | [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]] |
+| 29 | Ten of clubs | [[hill-giant-xmm|Hill giant]] |
+| 30 | Nine of clubs | [[ogre-xmm|Ogre]] |
 | 31 | Eight of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]] |
-| 32 | Two of clubs | [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold]] |
+| 32 | Two of clubs | [[kobold-warrior-xmm|Kobold]] |
 | 33-34 | jokers (2) | You (the deck's owner) |
 ^1-playing-card-illusion
 

@@ -24,7 +24,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\plant/awakened-shrub-xmm|Awakened Shrub]]
+# [[awakened-shrub-xmm|Awakened Shrub]]
 *Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
@@ -36,7 +36,7 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[/03_Mechanics/CLI/spells/awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 

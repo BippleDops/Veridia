@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/club.webp#right)
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Light|Light]]
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 

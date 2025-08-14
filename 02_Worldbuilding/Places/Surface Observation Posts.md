@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-surface-observation-posts-surface-observation-posts.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-observation-posts-surface-observation-posts.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[12_Research/D&D_References/The Silent Watcher]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[12_Research/D&D_References/The Silent Watcher]]
 
 ## Player-Facing Summary
 

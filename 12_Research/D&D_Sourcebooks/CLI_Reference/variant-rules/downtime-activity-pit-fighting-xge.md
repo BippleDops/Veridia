@@ -29,15 +29,15 @@ Engaging in this activity requires one workweek of effort from a character.
 
 The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character's opponents.
 
-The character makes three checks: Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]), Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: Strength ([[skills#Athletics|Athletics]]), Dexterity ([[skills#Acrobatics|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![[/03_Mechanics/CLI/tables/pit-fighting-results-xge|Pit Fighting Results]]
+![[pit-fighting-results-xge|Pit Fighting Results]]
 
 ## Complications
 
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
-![[/03_Mechanics/CLI/tables/pit-fighting-complications-xge|Pit Fighting Complications]]
+![[pit-fighting-complications-xge|Pit Fighting Complications]]
 
 ## Player-Facing Summary
 

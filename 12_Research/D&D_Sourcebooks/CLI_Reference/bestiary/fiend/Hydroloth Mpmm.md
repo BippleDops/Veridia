@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydroloth-mpmm-hydroloth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/hydroloth-mpmm|Hydroloth]]
+# [[hydroloth-mpmm|Hydroloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -53,15 +53,15 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
   - !!int "14"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
@@ -93,8 +93,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
       \ it can't cast spells; it can't understand language; and if its Intelligence\
       \ and Charisma scores are higher than 5, they become 5. Each time the target\
       \ finishes a long rest, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]]\
-      \ or [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell cast\
+      \ itself on a success. A [[greater-restoration-xphb|greater restoration]]\
+      \ or [[remove-curse-xphb|remove curse]] spell cast\
       \ on the target ends this effect early."
     "name": "Steal Memory (1/Day)"
   - "desc": "The hydroloth teleports, along with any equipment it is wearing or carrying,\
@@ -102,12 +102,12 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
     "name": "Teleport"
   - "desc": "The hydroloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]],\
-      \ [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]], [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
-      \ [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] (self only)\n\
-      \n3/day each: [[/03_Mechanics/CLI/spells/control-water-xphb|control water]],\
-      \ [[/03_Mechanics/CLI/spells/crown-of-madness-xphb|crown of madness]], [[/03_Mechanics/CLI/spells/fear-xphb|fear]],\
-      \ [[/03_Mechanics/CLI/spells/suggestion-xphb|suggestion]]"
+      \ DC 16):\n\nAt will: [[darkness-xphb|darkness]],\
+      \ [[detect-magic-xphb|detect magic]], [[dispel-magic-xphb|dispel magic]],\
+      \ [[invisibility-xphb|invisibility]] (self only)\n\
+      \n3/day each: [[control-water-xphb|control water]],\
+      \ [[crown-of-madness-xphb|crown of madness]], [[fear-xphb|fear]],\
+      \ [[suggestion-xphb|suggestion]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

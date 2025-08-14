@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-hammerer-mpmm-duergar-hammerer-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/duergar-hammerer-mpmm|Duergar Hammerer]]
+# [[duergar-hammerer-mpmm|Duergar Hammerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -60,9 +60,9 @@ These machines are deployed to assist with construction projects and war. Some d
   - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Dwarvish but can't speak"
 "cr": "2"

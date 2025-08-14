@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-kelp-forests-kelp-forests.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Kelp Forests]]
+- [[12_Research/D&D_References/Kelp Forests]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[12_Research/D&D_References/Barkeep Mira Algaebrew]]

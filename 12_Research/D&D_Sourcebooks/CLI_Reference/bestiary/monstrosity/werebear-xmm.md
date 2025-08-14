@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werebear-xmm-v1-werebear-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/werebear-xmm|Werebear]]
+# [[werebear-xmm|Werebear]]
 *Source: Monster Manual (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Werebear
@@ -58,7 +58,7 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Common (can't speak in bear form)"
@@ -70,8 +70,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
-      \ it instead becomes a Werebear under the DM's control and has 10 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
+      \ drops to 0 [[hit-points-xphb|Hit Points]],\
+      \ it instead becomes a Werebear under the DM's control and has 10 [[hit-points-xphb|Hit Points]].\
       \ Success: The target is immune to this werebear's curse for 24 hours."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\

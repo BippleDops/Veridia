@@ -25,10 +25,10 @@ world: Both
 ![](/03_Mechanics/CLI/backgrounds/img/hermit.webp#right)
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
-- **Feat.** [[/03_Mechanics/CLI/feats/healer-xphb|Healer]]  
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Medicine|Medicine]], [[/03_Mechanics/CLI/skills#Religion|Religion]]  
-- **Tool Proficiency.** [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism Kit]]  
-- **Equipment.** Choose A or B: (A) [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], [[/03_Mechanics/CLI/items/herbalism-kit-xphb|Herbalism Kit]], [[/03_Mechanics/CLI/items/bedroll-xphb|Bedroll]], [[/03_Mechanics/CLI/items/book-xphb|Book]] (philosophy), [[/03_Mechanics/CLI/items/lamp-xphb|Lamp]], [[/03_Mechanics/CLI/items/oil-xphb|Oil]] (3 flasks), [[/03_Mechanics/CLI/items/travelers-clothes-xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
+- **Feat.** [[healer-xphb|Healer]]  
+- **Skill Proficiencies.** [[skills#Medicine|Medicine]], [[skills#Religion|Religion]]  
+- **Tool Proficiency.** [[herbalism-kit-xphb|Herbalism Kit]]  
+- **Equipment.** Choose A or B: (A) [[quarterstaff-xphb|Quarterstaff]], [[herbalism-kit-xphb|Herbalism Kit]], [[bedroll-xphb|Bedroll]], [[book-xphb|Book]] (philosophy), [[lamp-xphb|Lamp]], [[oil-xphb|Oil]] (3 flasks), [[travelers-clothes-xphb|Traveler's Clothes]], 16 GP; or (B) 50 GP  
 
 You spent your early years secluded in a hut or monastery located well beyond the outskirts of the nearest settlement. In those days, your only companions were the creatures of the forest and those who would occasionally visit to bring news of the outside world and supplies. The solitude allowed you to spend many hours pondering the mysteries of creation.
 

@@ -34,13 +34,13 @@ world: Both
 
 ### Darkvision
 
-You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 60 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 ### Elven Lineage
 
 You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level.
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [[long-rest-xphb|Long Rest]]. You can also cast the spell using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
@@ -48,22 +48,22 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [[/03_Mechanics/CLI/spells/dancing-lights-xphb|Dancing Lights]] cantrip. | [[/03_Mechanics/CLI/spells/faerie-fire-xphb|Faerie Fire]] | [[/03_Mechanics/CLI/spells/darkness-xphb|Darkness]] |
-| High Elf | You know the [[/03_Mechanics/CLI/spells/prestidigitation-xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]] | [[/03_Mechanics/CLI/spells/misty-step-xphb|Misty Step]] |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [[/03_Mechanics/CLI/spells/druidcraft-xphb|Druidcraft]] cantrip. | [[/03_Mechanics/CLI/spells/longstrider-xphb|Longstrider]] | [[/03_Mechanics/CLI/spells/pass-without-trace-xphb|Pass without Trace]] |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [[dancing-lights-xphb|Dancing Lights]] cantrip. | [[faerie-fire-xphb|Faerie Fire]] | [[darkness-xphb|Darkness]] |
+| High Elf | You know the [[prestidigitation-xphb|Prestidigitation]] cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [[detect-magic-xphb|Detect Magic]] | [[misty-step-xphb|Misty Step]] |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [[druidcraft-xphb|Druidcraft]] cantrip. | [[longstrider-xphb|Longstrider]] | [[pass-without-trace-xphb|Pass without Trace]] |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition.
+You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Charmed|Charmed]] condition.
 
 ### Keen Senses
 
-You have proficiency in the [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Perception|Perception]], or [[/03_Mechanics/CLI/skills#Survival|Survival]] skill.
+You have proficiency in the [[skills#Insight|Insight]], [[skills#Perception|Perception]], or [[skills#Survival|Survival]] skill.
 
 ### Trance
 
-You don't need to sleep, and magic can't put you to sleep. You can finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+You don't need to sleep, and magic can't put you to sleep. You can finish a [[long-rest-xphb|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 ## Description
 

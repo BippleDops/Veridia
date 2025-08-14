@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-sea-witch-sea-witch.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sea-witch-sea-witch.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sea Witch]]
+- [[Sea Witch]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[Angels and Depths]]

@@ -5,9 +5,9 @@ alignment: Chaotic Neutral (Radical Reformers)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Revolutionary Transformation Movement
-headquarters: '[[02_Worldbuilding/Lore/The Crystal Manifesto]]'
+headquarters: '[[The Crystal Manifesto]]'
 influence: Underground Networks, Intellectual Circles
-leader: '[[02_Worldbuilding/Lore/Architect Prime Crystalline Vision]]'
+leader: '[[Architect Prime Crystalline Vision]]'
 members: ~300 active revolutionaries, ~1200 sympathizers
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -33,13 +33,12 @@ world: Aethermoor
 ![](04_Resources/Assets/Symbols/symbol-heraldry-rewrite-the-world-order-rewrite-the-world-order.svg)
 
 
-
 # Rewrite the World Order
 *Architects of Tomorrow, Visionaries of Crystal Perfection, The Inevitable Revolution*
 
 ## Organization Overview
 
-Rewrite the World Order represents the most radical faction within [[02_Worldbuilding/Places/Aethermoor]]'s crystal-transformed society, dedicated to the complete overthrow and reconstruction of all existing social, political, and economic systems. They believe that the crystal transformation offers an unprecedented opportunity to create a perfect society, but that current institutions and traditional thinking prevent this potential from being realized.
+Rewrite the World Order represents the most radical faction within [[Aethermoor]]'s crystal-transformed society, dedicated to the complete overthrow and reconstruction of all existing social, political, and economic systems. They believe that the crystal transformation offers an unprecedented opportunity to create a perfect society, but that current institutions and traditional thinking prevent this potential from being realized.
 
 Unlike reformist organizations that seek to modify existing systems, Rewrite the World Order advocates for total revolution. They view current society as fundamentally flawed and irredeemably corrupted by pre-crystal thinking patterns. Their ultimate goal is to dissolve all existing institutions and rebuild civilization from the ground up according to principles derived from crystal consciousness and collective harmony.
 
@@ -48,7 +47,7 @@ The organization operates through a network of cells, study groups, and propagan
 ## History and Foundation
 
 ### The Awakening (12 years ago)
-The organization emerged from the intellectual ferment following [[02_Worldbuilding/Places/Aethermoor]]'s initial crystal transformation period. **Architect Prime Crystalline Vision**, then a philosophy professor, experienced what she described as a "crystal consciousness revelation" that showed her the inadequacy of all existing social structures.
+The organization emerged from the intellectual ferment following [[Aethermoor]]'s initial crystal transformation period. **Architect Prime Crystalline Vision**, then a philosophy professor, experienced what she described as a "crystal consciousness revelation" that showed her the inadequacy of all existing social structures.
 
 ### The Manifesto Period (10 years ago)
 The movement's foundational document, **"The Crystal Manifesto: A Blueprint for Perfect Society,"** outlined their comprehensive vision for post-revolutionary civilization. This document became the intellectual foundation for all subsequent organizational development and recruitment efforts.
@@ -328,11 +327,11 @@ Post-revolutionary operations focus on implementing their vision of perfect soci
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[The Crystal Throne]]**
 **Relationship**: Revolutionary Opposition
 Views the established government as the primary obstacle to revolutionary transformation and actively works to undermine and overthrow their authority.
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[Silverscale Consortium]]**
 **Relationship**: Economic Enemies
 Sees the Consortium as representing everything wrong with current economic systems and plans to seize their assets during revolutionary action.
 
@@ -342,17 +341,17 @@ Views security forces as tools of oppression that must be defeated or converted 
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
+#### **[[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
 **Relationship**: Potential Allies
 Appreciates their creativity and innovation while disagreeing with their acceptance of existing economic structures.
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** (Aquabyssos)
+#### **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** (Aquabyssos)
 **Relationship**: Ideological Interest
 Studies their governance methods for potential application in post-revolutionary society.
 
 ### Complex Relationships
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]** (Opposition Movement)
+#### **[[Purist Coalition]]** (Opposition Movement)
 **Relationship**: Tactical Cooperation
 Occasionally cooperates with other anti-establishment groups despite fundamental ideological differences.
 
@@ -537,29 +536,29 @@ Political changes might create opportunities for revolutionary ideas to be incor
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[The Crystal Throne]]
+- [[Silverscale Consortium]]
+- [[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
+- [[Purist Coalition]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Crystal Manifesto]]
-- [[02_Worldbuilding/Lore/Revolutionary Safe Houses]]
-- [[02_Worldbuilding/Lore/Underground Training Facilities]]
-- [[02_Worldbuilding/Lore/Propaganda Distribution Networks]]
+- [[The Crystal Manifesto]]
+- [[Revolutionary Safe Houses]]
+- [[Underground Training Facilities]]
+- [[Propaganda Distribution Networks]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Lore/Architect Prime Crystalline Vision]]
-- [[02_Worldbuilding/Lore/Social Architect Luna Newdawn]]
-- [[02_Worldbuilding/Lore/Military Architect Darius Swiftblade]]
+- [[Architect Prime Crystalline Vision]]
+- [[Social Architect Luna Newdawn]]
+- [[Military Architect Darius Swiftblade]]
 - [[Economic Architect Marcus Abundance]]
 
 **Important Concepts**:
-- [[02_Worldbuilding/Lore/The Crystal Manifesto]]
-- [[02_Worldbuilding/Lore/Revolutionary Crystal Consciousness]]
-- [[02_Worldbuilding/Lore/Post-Revolutionary Society Vision]]
-- [[02_Worldbuilding/Lore/Cell-Based Revolutionary Organization]]
-- [[02_Worldbuilding/Lore/Crystal Transformation Ideology]]
+- [[The Crystal Manifesto]]
+- [[Revolutionary Crystal Consciousness]]
+- [[Post-Revolutionary Society Vision]]
+- [[Cell-Based Revolutionary Organization]]
+- [[Crystal Transformation Ideology]]
 
 ## Player-Facing Summary
 
@@ -583,4 +582,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
+- [[Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]

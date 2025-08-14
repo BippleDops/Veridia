@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-armor-xmm-animated-armor-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-armor-xmm|Animated Armor]]
+# [[animated-armor-xmm|Animated Armor]]
 *Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
@@ -84,10 +84,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 6"
 "languages": ""
 "cr": "1"

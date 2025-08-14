@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,20 +16,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-phantom-harbor-charter-phantom-harbor-charter.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-phantom-harbor-charter-phantom-harbor-charter.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Marina|02 Worldbuilding/Groups/Shadow Marina]]
+- [[Shadow Marina|02 Worldbuilding/Groups/Shadow Marina]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]
+- [[12_Research/D&D_References/Shadow Marina]]
 
 ## Player-Facing Summary
 

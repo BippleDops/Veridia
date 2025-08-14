@@ -1,5 +1,5 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)'
+affiliation: '[[The Deep Mother]] (Corrupted by Shadow)'
 created: '2025-08-10'
 created_by: Claude
 current_location: Scattered Across Shadow-Touched Locations
@@ -30,7 +30,7 @@ world: Aquabyssos
 *Where Light Dies and Darkness Takes Form*
 
 ## Overview
-The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[02_Worldbuilding/Lore/The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
+The Shadow-touched Equipment Set represents gear that has been fundamentally transformed by prolonged exposure to [[The Deep Mother]]'s influence. Unlike simple cursed items, these pieces have been evolved by shadow magic into something that exists partially in darkness itself. Each piece offers significant power at the cost of gradually consuming the wielder's connection to light and hope. The set grows stronger as more pieces are worn together, but also accelerates the wielder's transformation into something no longer entirely human.
 
 ## Physical Description
 ### General Characteristics
@@ -149,7 +149,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Origin**: Belonged to naval captain who explored deepest ocean trenches
 - **Corruption**: Gradually transformed during months in absolute darkness
 - **Current Status**: Last seen worn by undead captain commanding ghost ship
-- **Location**: Drifts with [[02_Worldbuilding/Lore/The Phantom Tide]] ghost fleet
+- **Location**: Drifts with [[The Phantom Tide]] ghost fleet
 - **Power Level**: Fully developed shadow corruption with nautical enhancement
 
 ### The Shield of the Last Sentinel  
@@ -170,13 +170,13 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Origin**: Worn by court spy who traded information for dark power
 - **Corruption**: Each secret learned added to shadow's hold on the fabric
 - **Current Status**: Hidden in black market, changes hands frequently
-- **Location**: [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] underground markets
+- **Location**: [[Hidden Smuggler's Cove]] underground markets
 - **Power Level**: Grants supernatural information-gathering abilities
 
 ### The Boots of Silent Sorrow
 - **Origin**: Belonged to messenger who carried news of great tragedies
 - **Corruption**: Absorbed accumulated grief from countless bad news deliveries
-- **Current Status**: Worn by death knight serving [[02_Worldbuilding/Lore/The Deep Mother]]
+- **Current Status**: Worn by death knight serving [[The Deep Mother]]
 - **Location**: Patrols borders between shadow realm and material world
 - **Power Level**: Enhanced with speed and incorporeal movement abilities
 
@@ -184,13 +184,13 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - **Origin**: Crafted by artificer experimenting with shadow-infused materials
 - **Corruption**: Creator became first test subject for his own work
 - **Current Status**: Hidden in collapsed laboratory, protected by shadow constructs
-- **Location**: Ruins beneath [[02_Worldbuilding/Places/The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]]
+- **Location**: Ruins beneath [[The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]]
 - **Power Level**: Can manipulate and shape shadow energy into solid constructs
 
 ### The Helm of Hollow Sight
 - **Origin**: Worn by oracle who gazed too long into prophetic darkness
 - **Corruption**: Visions of endless futures filled with despair and shadow
-- **Current Status**: Sought by [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] as warning
+- **Current Status**: Sought by [[Oracle Nerida the Tidereader]] as warning
 - **Location**: Hidden in underwater cave system known only to sea witches
 - **Power Level**: Grants terrifying but accurate glimpses of dark futures
 
@@ -273,7 +273,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 
 #### Competing Interests
 - **Collectors**: Wealthy individuals seeking complete sets for display
-- **Cultists**: [[02_Worldbuilding/Lore/The Deep Mother]] worshippers gathering equipment for rituals
+- **Cultists**: [[The Deep Mother]] worshippers gathering equipment for rituals
 - **Scholars**: Researchers studying shadow corruption effects
 - **Heroes**: Those trying to destroy or contain dangerous items
 - **Shadow Lords**: Existing shadow entities claiming ownership of all pieces
@@ -337,7 +337,7 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 ### The Shadow Market
 **Level**: 6-11  
 **Hook**: Underground marketplace specializing in shadow-touched items  
-**Discovery**: Market is front for [[02_Worldbuilding/Lore/The Deep Mother]] cult recruitment  
+**Discovery**: Market is front for [[The Deep Mother]] cult recruitment  
 **Investigation**: Infiltrate organization and discover their ultimate purpose  
 **Action**: Decide whether to expose, destroy, or co-opt the shadow market  
 **Consequences**: Actions affect availability of shadow items throughout region
@@ -351,11 +351,11 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 **Climax**: Final battle determining whether light or shadow dominates the world
 
 ## Connected Elements
-- Direct connection to [[02_Worldbuilding/Lore/The Deep Mother]] as source of corruption
-- Links to [[02_Worldbuilding/Places/The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]] where shadow magic is strongest
+- Direct connection to [[The Deep Mother]] as source of corruption
+- Links to [[The Whispering Expanse|02 Worldbuilding/Places/The Whispering Expanse]] where shadow magic is strongest
 - Associated with [[02_Worldbuilding/Places/Sunken Citadel of Remembrance|02 Worldbuilding/Places/Sunken Citadel Of Remembrance]] through defensive equipment
 - Connected to various ghost ships and undead naval forces
-- Related to [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] black markets
+- Related to [[Hidden Smuggler's Cove]] black markets
 - Links to corrupted heroes and fallen paladins throughout Aquabyssos
 - Associated with cults and organizations serving darkness
 

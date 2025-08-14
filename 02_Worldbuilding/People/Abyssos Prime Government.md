@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-government-abyssos-prime-government.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-government-abyssos-prime-government.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[The Scattered Emperor]]
 
 ## Player-Facing Summary
 

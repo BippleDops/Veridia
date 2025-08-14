@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: When Gaining the Level 2 Paladin "Fighting Style" Feature
 
-You learn two Cleric cantrips of your choice. [[/03_Mechanics/CLI/spells/guidance-xphb|Guidance]] and [[/03_Mechanics/CLI/spells/sacred-flame-xphb|Sacred Flame]] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+You learn two Cleric cantrips of your choice. [[guidance-xphb|Guidance]] and [[sacred-flame-xphb|Sacred Flame]] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ## Player-Facing Summary
 

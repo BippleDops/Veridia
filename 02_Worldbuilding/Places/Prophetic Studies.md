@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-prophetic-studies-institute-prophetic-studies-institute.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-prophetic-studies-institute-prophetic-studies-institute.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Prophetic Studies]]
+- [[12_Research/D&D_References/Prophetic Studies]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]

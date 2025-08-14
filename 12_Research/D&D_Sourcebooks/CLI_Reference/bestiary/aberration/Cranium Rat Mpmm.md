@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cranium-rat-mpmm-cranium-rat-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm|Cranium Rat]]
+# [[cranium-rat-mpmm|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat

@@ -14,7 +14,6 @@ world: Aquabyssos
 ---
 
 
-
 # Void Touched Cult
 
 *This is a stub file created to resolve broken links. Content needed.*
@@ -25,7 +24,7 @@ world: Aquabyssos
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/Master Index]]
+- [[Master Index]]
 
 ## References
 

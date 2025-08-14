@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-xmm-quaggoth-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/quaggoth-xmm|Quaggoth]]
+# [[quaggoth-xmm|Quaggoth]]
 *Source: Monster Manual (2024) p. 251*  
 
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
@@ -59,23 +59,23 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "While [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]], the\
-      \ quaggoth has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "While [[bloodied-xphb|Bloodied]], the\
+      \ quaggoth has [[advantage-xphb|Advantage]]\
       \ on attack rolls."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "The quaggoth makes two Claw attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage,\
-      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]]."
+      \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [[bloodied-xphb|Bloodied]]."
     "name": "Claw"
 "source":
   - "XMM"

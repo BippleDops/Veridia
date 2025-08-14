@@ -31,11 +31,11 @@ While wearing this pendant, you gain the following benefits.
 
 ## Life Preservation
 
-Whenever you make a [[/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb|Death Saving Throw]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
+Whenever you make a [[death-saving-throw-xphb|Death Saving Throw]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
 
 ## Natural Healing Boost
 
-Whenever you roll a [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] Die to regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], double the number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] it restores.
+Whenever you roll a [[hit-points-xphb|Hit Point]] Die to regain [[hit-points-xphb|Hit Points]], double the number of [[hit-points-xphb|Hit Points]] it restores.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

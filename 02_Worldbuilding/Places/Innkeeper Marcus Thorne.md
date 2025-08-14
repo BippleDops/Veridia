@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-innkeeper-marcus-thorne-innkeeper-marcus-thorne.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marcus Thorne]]
+- [[12_Research/D&D_References/Innkeeper Marcus Thorne]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

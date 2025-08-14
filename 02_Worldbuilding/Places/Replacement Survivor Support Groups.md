@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-replacement-survivor-support-groups.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-replacement-survivor-support-groups.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Replacement Survivor Support Groups]]
+- [[12_Research/D&D_References/Replacement Survivor Support Groups]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
+- [[12_Research/D&D_References/Investigate Shadow Surgeons]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

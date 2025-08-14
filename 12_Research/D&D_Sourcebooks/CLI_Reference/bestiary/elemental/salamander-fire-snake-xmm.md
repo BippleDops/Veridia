@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-fire-snake-xmm-salamander-fire-snake-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/salamander-fire-snake-xmm|Salamander Fire Snake]]
+# [[salamander-fire-snake-xmm|Salamander Fire Snake]]
 *Source: Monster Manual (2024) p. 266*  
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
@@ -72,7 +72,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "1"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ choice in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the salamander takes 3 (d6) Fire damage."
     "name": "Fire Aura"
 "actions":

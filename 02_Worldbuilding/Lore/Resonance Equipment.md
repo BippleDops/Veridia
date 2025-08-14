@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 
 ## Player-Facing Summary
 

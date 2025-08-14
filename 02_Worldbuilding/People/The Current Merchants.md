@@ -31,11 +31,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg]]
 
 
 # The Current Merchants
@@ -134,21 +131,21 @@ Nereon's commercial empire includes:
 ## Relationships
 
 ### Business Partners
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Primary client for government shipping contracts; complex relationship balancing mutual benefit with political independence
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technical partnership developing magically enhanced shipping technologies
-- **[[02_Worldbuilding/People/The Pearl Guard]]** - Security contractor providing protection for high-value shipments
+- **[[Emperor Thalassius the Wise]]** - Primary client for government shipping contracts; complex relationship balancing mutual benefit with political independence
+- **[[Master Artificer Korvin Gearwright]]** - Technical partnership developing magically enhanced shipping technologies
+- **[[The Pearl Guard]]** - Security contractor providing protection for high-value shipments
 - **Foreign Trade Delegations** - Commercial relationships with surface world and other underwater realm merchants
 
 ### Professional Rivals
 - **Traditional Shipping Guilds** - Older organizations that resent his disruption of established trade patterns
-- **[[02_Worldbuilding/People/The Coral Throne Syndicate]]** - Criminal organization that competes for control of certain trade routes
+- **[[The Coral Throne Syndicate]]** - Criminal organization that competes for control of certain trade routes
 - **Regional Monopolists** - Local merchant princes who see his expansion as a threat to their territories
 - **Environmental Groups** - Organizations that oppose his current manipulation on ecological grounds
 
 ### Political Relationships
 - **[[High Tidecaller Nerissa Deepcurrent]]** - Mutual respect but occasional conflicts over environmental policy
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Provides economic expertise but maintains independence from political factions
-- **[[02_Worldbuilding/People/The Tidal Council]]** - Advises on trade policy while protecting his commercial interests
+- **[[Parliament of Echoes]]** - Provides economic expertise but maintains independence from political factions
+- **[[The Tidal Council]]** - Advises on trade policy while protecting his commercial interests
 - **Tax Collectors** - Ongoing negotiations about fair contribution to realm revenues
 
 ### Personal Connections
@@ -315,8 +312,8 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 
 ## Connections
 
-- [[02_Worldbuilding/People/Mayor Thompson]]
-- [[02_Worldbuilding/People/The Pearl Guard]]
+- [[Mayor Thompson]]
+- [[The Pearl Guard]]
 
 ## Player-Facing Summary
 
@@ -328,10 +325,10 @@ Legends speak of The Current Merchants as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Current Merchants]]
+- [[The Current Merchants]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
-- [[02_Worldbuilding/People/The Tidal Council]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Emperor Thalassius the Wise]]
+- [[Master Artificer Korvin Gearwright]]
+- [[The Tidal Council]]
+- [[Parliament of Echoes]]

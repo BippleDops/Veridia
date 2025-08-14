@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -14,32 +15,29 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-wandering-atoll-the-wandering-atoll.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-wandering-atoll-the-wandering-atoll.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Free Current]]
+- [[12_Research/D&D_References/Free Current]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[02_Worldbuilding/Places/Compass Quest]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Engineer Brass Gearspin]]
-- [[02_Worldbuilding/Places/Free Current]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
-- [[02_Worldbuilding/Places/Spy Games]]
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
-- [[02_Worldbuilding/Places/The Last Seeds]]
-- [[02_Worldbuilding/Places/The Sinking Atoll]]
+- [[12_Research/D&D_References/Commander Typhoon Blackheart]]
+- [[12_Research/D&D_References/Compass Quest]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_References/Engineer Brass Gearspin]]
+- [[12_Research/D&D_References/Free Current]]
+- [[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Navigator Sage Driftwood]]
+- [[12_Research/D&D_References/Spy Games]]
+- [[12_Research/D&D_References/Teacher Miranda Hopekeeper]]
+- [[12_Research/D&D_References/The Last Seeds]]
+- [[12_Research/D&D_References/The Sinking Atoll]]
 
 ## Player-Facing Summary
 

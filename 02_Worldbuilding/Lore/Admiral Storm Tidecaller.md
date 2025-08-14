@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[12_Research/D&D_References/Eastern Kingdom Fleet]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[12_Research/D&D_References/Eastern Kingdom Fleet]]
 
 ## Player-Facing Summary
 

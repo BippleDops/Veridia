@@ -16,10 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-responsive-fabrics-pressure-responsive-fabrics.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-responsive-fabrics-pressure-responsive-fabrics.svg]]
 
 
 ## Overview
@@ -61,6 +58,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure-Responsive Fabrics]]
+- [[12_Research/D&D_References/Pressure-Responsive Fabrics]]
 
 <!-- enriched: true -->

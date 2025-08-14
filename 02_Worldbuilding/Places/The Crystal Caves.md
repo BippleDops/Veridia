@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -15,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-crystal-caves-the-crystal-caves.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-crystal-caves-the-crystal-caves.svg]]
 
 
 ## Overview
@@ -64,13 +61,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Crystal Caves|02 Worldbuilding/People/The Crystal Caves]]
+- [[The Crystal Caves|02 Worldbuilding/People/The Crystal Caves]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[12_Research/D&D_Statblocks/Professor Aldric Crystalweaver]]
+- [[12_Research/D&D_References/The Whispering Peaks]]
+- [[12_Research/D&D_References/Aether Crystals]]

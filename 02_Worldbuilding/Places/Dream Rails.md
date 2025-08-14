@@ -14,25 +14,22 @@ world: Both
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-dream-rails-dream-rails.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Tenebrarum]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Pressure Tubes]]
-- [[02_Worldbuilding/Places/Royal Palace]]
+- [[Tenebrarum]]
+- [[Abyssos Prime]]
+- [[Pressure Terminal]]
+- [[Pressure Tubes]]
+- [[Royal Palace]]
 
 ## Player-Facing Summary
 

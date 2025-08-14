@@ -32,11 +32,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-The target takes an extra `4d6` Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition until the end of your next turn.
+The target takes an extra `4d6` Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the [[conditions#Stunned|Stunned]] condition until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `d6` for each spell slot level above 4.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge "subclass=XGE;class=XPHB"|Warlock (The Hexblade)]]; [[list-spells-classes-paladin|Paladin]]
 
 *Source: Player's Handbook (2024) p. 320*
 

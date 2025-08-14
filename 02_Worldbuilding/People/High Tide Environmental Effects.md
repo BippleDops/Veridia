@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-tide-environmental-effects-high-tide-environmental-effects.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-tide-environmental-effects-high-tide-environmental-effects.svg]]
 
 
 ## Cross-References
 
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 ## Player-Facing Summary
 

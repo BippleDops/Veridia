@@ -30,9 +30,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A wave of healing energy washes over one creature you can see within range. The target regains all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If the creature has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]], [[/03_Mechanics/CLI/conditions#Frightened|Frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], or [[/03_Mechanics/CLI/conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition, it can use its [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to stand up.
+A wave of healing energy washes over one creature you can see within range. The target regains all its [[hit-points-xphb|Hit Points]]. If the creature has the [[conditions#Charmed|Charmed]], [[conditions#Frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], [[conditions#Poisoned|Poisoned]], or [[conditions#Stunned|Stunned]] condition, the condition ends. If the creature has the [[conditions#Prone|Prone]] condition, it can use its [[reaction-xphb|Reaction]] to stand up.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[12_Research/D&D_References/Purist Coalition Thugs]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[12_Research/D&D_References/Purist Coalition Thugs]]
 
 ## Player-Facing Summary
 

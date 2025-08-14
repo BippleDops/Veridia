@@ -23,20 +23,20 @@ status: active
 
 | Item | Type | Price per Dose |
 |------|------|----------------|
-| [[/03_Mechanics/CLI/items/assassins-blood-xdmg|Assassin's blood]] | Ingested | 150 gp |
-| [[/03_Mechanics/CLI/items/burnt-othur-fumes-xdmg|Burnt othur fumes]] | Inhaled | 500 gp |
-| [[/03_Mechanics/CLI/items/carrion-crawler-mucus-xdmg|Carrion crawler mucus]] | Contact | 200 gp |
-| [[/03_Mechanics/CLI/items/lolths-sting-xdmg|Drow poison]] | Injury | 200 gp |
-| [[/03_Mechanics/CLI/items/essence-of-ether-xdmg|Essence of ether]] | Inhaled | 300 gp |
-| [[/03_Mechanics/CLI/items/malice-xdmg|Malice]] | Inhaled | 250 gp |
-| [[/03_Mechanics/CLI/items/midnight-tears-xdmg|Midnight tears]] | Ingested | 1,500 gp |
-| [[/03_Mechanics/CLI/items/oil-of-taggit-xdmg|Oil of taggit]] | Contact | 400 gp |
-| [[/03_Mechanics/CLI/items/pale-tincture-xdmg|Pale tincture]] | Ingested | 250 gp |
-| [[/03_Mechanics/CLI/items/purple-worm-poison-xdmg|Purple worm poison]] | Injury | 2,000 gp |
-| [[/03_Mechanics/CLI/items/serpent-venom-xdmg|Serpent venom]] | Injury | 200 gp |
-| [[/03_Mechanics/CLI/items/torpor-xdmg|Torpor]] | Ingested | 600 gp |
-| [[/03_Mechanics/CLI/items/truth-serum-xdmg|Truth serum]] | Ingested | 150 gp |
-| [[/03_Mechanics/CLI/items/wyvern-poison-xdmg|Wyvern poison]] | Injury | 1,200 gp |
+| [[assassins-blood-xdmg|Assassin's blood]] | Ingested | 150 gp |
+| [[burnt-othur-fumes-xdmg|Burnt othur fumes]] | Inhaled | 500 gp |
+| [[carrion-crawler-mucus-xdmg|Carrion crawler mucus]] | Contact | 200 gp |
+| [[lolths-sting-xdmg|Drow poison]] | Injury | 200 gp |
+| [[essence-of-ether-xdmg|Essence of ether]] | Inhaled | 300 gp |
+| [[malice-xdmg|Malice]] | Inhaled | 250 gp |
+| [[midnight-tears-xdmg|Midnight tears]] | Ingested | 1,500 gp |
+| [[oil-of-taggit-xdmg|Oil of taggit]] | Contact | 400 gp |
+| [[pale-tincture-xdmg|Pale tincture]] | Ingested | 250 gp |
+| [[purple-worm-poison-xdmg|Purple worm poison]] | Injury | 2,000 gp |
+| [[serpent-venom-xdmg|Serpent venom]] | Injury | 200 gp |
+| [[torpor-xdmg|Torpor]] | Ingested | 600 gp |
+| [[truth-serum-xdmg|Truth serum]] | Ingested | 150 gp |
+| [[wyvern-poison-xdmg|Wyvern poison]] | Injury | 1,200 gp |
 ^poisons
 
 ## Player-Facing Summary

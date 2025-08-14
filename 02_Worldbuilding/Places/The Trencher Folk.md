@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-trencher-folk-the-trencher-folk.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
+- [[12_Research/D&D_References/The Cerulean Trench]]
 
 ## Player-Facing Summary
 

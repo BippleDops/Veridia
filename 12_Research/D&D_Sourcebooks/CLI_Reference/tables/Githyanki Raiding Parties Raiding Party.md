@@ -30,8 +30,8 @@ world: Both
 |----------|-----------------------|
 | 1-2 | One astral skiff carrying entire group |
 | 3-4 | Two astral skiffs, each carrying half of group |
-| 5 | Astral brig carrying entire group plus an additional 30 [[/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm|githyanki warriors]] |
-| 6 | Planar raider carrying entire group plus an additional 60 [[/03_Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm|githyanki warriors]] |
+| 5 | Astral brig carrying entire group plus an additional 30 [[githyanki-warrior-xmm|githyanki warriors]] |
+| 6 | Planar raider carrying entire group plus an additional 60 [[githyanki-warrior-xmm|githyanki warriors]] |
 ^raiding-party-transport
 
 ## Player-Facing Summary

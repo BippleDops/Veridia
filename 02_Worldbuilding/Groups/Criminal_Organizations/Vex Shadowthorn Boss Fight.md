@@ -5,9 +5,9 @@ alignment: Chaotic Neutral (Professional Warriors)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Elite Combat Mercenary Company
-headquarters: '[[02_Worldbuilding/Lore/The Battle Forge Arena]]'
+headquarters: '[[The Battle Forge Arena]]'
 influence: Combat Training, Mercenary Services
-leader: '[[02_Worldbuilding/Lore/Commander Vex Shadowthorn]]'
+leader: '[[Commander Vex Shadowthorn]]'
 members: ~45 elite fighters, ~150 support personnel
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -30,8 +30,7 @@ world: Aethermoor
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
 
 
 # Vex Shadowthorn Boss Fight
@@ -39,7 +38,7 @@ world: Aethermoor
 
 ## Organization Overview
 
-Vex Shadowthorn Boss Fight represents the pinnacle of professional combat services in [[02_Worldbuilding/Places/Aethermoor]], specializing in the elimination of extremely dangerous creatures, rogue crystal entities, and other threats that conventional forces cannot handle. Named after their legendary founder and commander, this elite mercenary company has built a reputation for taking on seemingly impossible combat challenges and succeeding where others fail.
+Vex Shadowthorn Boss Fight represents the pinnacle of professional combat services in [[Aethermoor]], specializing in the elimination of extremely dangerous creatures, rogue crystal entities, and other threats that conventional forces cannot handle. Named after their legendary founder and commander, this elite mercenary company has built a reputation for taking on seemingly impossible combat challenges and succeeding where others fail.
 
 Unlike typical mercenary groups that focus on quantity and basic services, Vex Shadowthorn Boss Fight operates as a boutique organization of combat specialists. Each member is an elite warrior with unique skills and specialized equipment, trained to work together as a coordinated team capable of defeating enemies that would require entire armies to subdue through conventional means.
 
@@ -316,25 +315,25 @@ The organization's signature approach to combat combines multiple specialized ro
 
 ### Professional Partners
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[The Crystal Throne]]**
 **Relationship**: Government Contractor
 Provides specialized combat services for threats beyond conventional military capabilities. Maintains professional relationship while preserving operational independence.
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[Silverscale Consortium]]**
 **Relationship**: Commercial Client
 Offers protection services for valuable Consortium operations and facilities. Relationship is purely professional and contractual.
 
-#### **[[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
+#### **[[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
 **Relationship**: Equipment Supplier
 Collaborates on development of specialized combat equipment and crystal-enhanced gear. Values their innovation and craftsmanship.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire]]**
 **Relationship**: Mutual Respect
 Occasionally contracts for operations in aquatic environments. Appreciates their combat traditions and honor-based culture.
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
+#### **[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Information Exchange
 Trades combat intelligence for scholarly research about dangerous creatures and phenomena.
 
@@ -350,7 +349,7 @@ Some military commanders resent hiring mercenaries for tasks they believe should
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[Purist Coalition]]**
 **Relationship**: Ideological Opposition
 The Coalition views crystal-enhanced mercenaries as corrupted abominations, leading to occasional conflicts.
 
@@ -565,29 +564,29 @@ Clients who trust the organization with their most serious problems deserve comp
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[The Crystal Throne]]
+- [[Silverscale Consortium]]
+- [[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
+- [[Ancient Mer-Folk Empire]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Battle Forge Arena]]
-- [[02_Worldbuilding/Lore/Combat Training Facilities]]
+- [[The Battle Forge Arena]]
+- [[Combat Training Facilities]]
 - [[Equipment Development Workshops]]
-- [[02_Worldbuilding/Lore/Regional Training Outposts]]
+- [[Regional Training Outposts]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Lore/Commander Vex Shadowthorn]]
-- [[02_Worldbuilding/Lore/Weapons Master Kael Bladefury]]
+- [[Commander Vex Shadowthorn]]
+- [[Weapons Master Kael Bladefury]]
 - [[Field Strategist Marcus Battlewise]]
-- [[02_Worldbuilding/Lore/Intel Master Raven Shadowsigh]]
+- [[Intel Master Raven Shadowsigh]]
 
 **Important Concepts**:
-- [[02_Worldbuilding/Lore/The Shadowthorn Combat System]]
-- [[02_Worldbuilding/Lore/Crystal-Enhanced Combat Techniques]]
-- [[02_Worldbuilding/Lore/Professional Monster Hunting]]
+- [[The Shadowthorn Combat System]]
+- [[Crystal-Enhanced Combat Techniques]]
+- [[Professional Monster Hunting]]
 - [[Elite Mercenary Operations]]
-- [[02_Worldbuilding/Lore/Advanced Combat Training Methods]]
+- [[Advanced Combat Training Methods]]
 
 ## Player-Facing Summary
 
@@ -611,4 +610,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

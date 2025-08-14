@@ -14,31 +14,28 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-war-coalition-the-shadow-war-coalition.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[Quest - Diplomatic Immunity]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[Crystal Wardens]]
+- [[Independent Smugglers]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Conspiracy]]
+- [[The Whisper Syndicate]]
+- [[Aethermoor]]
+- [[Parliament of Echoes]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - Hearts and Minds]]
 
 ## Player-Facing Summary
 

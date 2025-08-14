@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[12_Research/D&D_Statblocks/The Emerald Sage Willowbark]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[12_Research/D&D_Statblocks/The Emerald Sage Willowbark]]
 
 ## Player-Facing Summary
 

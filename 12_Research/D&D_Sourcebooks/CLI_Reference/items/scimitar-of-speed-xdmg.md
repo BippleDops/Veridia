@@ -19,14 +19,14 @@ world: Both
 ---
 
 # Scimitar of Speed
-*Weapon ([[/03_Mechanics/CLI/items/scimitar-xphb|scimitar]]), very rare (requires attunement)*  
+*Weapon ([[scimitar-xphb|scimitar]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/scimitar-of-speed.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 3.0 lbs.
 
-You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] on each of your turns.
+You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[bonus-action-xphb|Bonus Action]] on each of your turns.
 
 *Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

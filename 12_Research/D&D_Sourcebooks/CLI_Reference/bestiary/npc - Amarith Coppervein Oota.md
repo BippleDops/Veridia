@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-amarith-coppervein-oota-amarith-coppervein-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\npc/amarith-coppervein-oota|Amarith Coppervein]]
+# [[amarith-coppervein-oota|Amarith Coppervein]]
 *Source: Out of the Abyss p. 142*  
 
 ```statblock
@@ -37,7 +37,7 @@ world: Both
 "subtype": "any race"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[[/03_Mechanics/CLI/items/splint-armor-xphb|splint armor]]"
+"ac_class": "[[splint-armor-xphb|splint armor]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -50,9 +50,9 @@ world: Both
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 12"

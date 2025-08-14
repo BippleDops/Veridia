@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-royal-vault-royal-vault.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-vault-royal-vault.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[Aethermoor]]
+- [[The Royal Palace]]
 
 ## Player-Facing Summary
 

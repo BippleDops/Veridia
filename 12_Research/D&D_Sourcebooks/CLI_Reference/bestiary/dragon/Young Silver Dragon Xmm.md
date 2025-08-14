@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-silver-dragon-xmm-v1-young-silver-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-silver-dragon-xmm|Young Silver Dragon]]
+# [[young-silver-dragon-xmm|Young Silver Dragon]]
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
@@ -73,11 +73,11 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
@@ -89,13 +89,13 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 49 (11d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ 1st Failure: The target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-      \ The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition,\
+      \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
       \ and it repeats the save at the end of each of its turns, ending the effect\
       \ on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralyzing Breath"

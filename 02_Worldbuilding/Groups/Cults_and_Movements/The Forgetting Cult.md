@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -59,11 +55,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[Archivist Mnemonic the Forgotten]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Memory Harvester Kythara]]
+- [[The Shadow Singer Naia]]

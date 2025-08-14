@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,12 +16,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-causality-shadow-causality-shadow.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-causality-shadow-causality-shadow.png]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Causality Shadow]]
+- [[12_Research/D&D_References/Causality Shadow]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Recursion Cult]]
+- [[12_Research/D&D_References/The Recursion Cult]]

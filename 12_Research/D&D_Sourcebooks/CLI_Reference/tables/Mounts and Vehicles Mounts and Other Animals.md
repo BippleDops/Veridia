@@ -26,14 +26,14 @@ world: Both
 
 | Item | Cost | Speed | Carrying Capacity |
 |------|------|-------|-------------------|
-| [[/03_Mechanics/CLI/items/camel-xphb|Camel]] | 50 gp | 50 ft. | 480 lb. |
-| [[/03_Mechanics/CLI/items/donkey|Donkey]] or [[/03_Mechanics/CLI/items/mule-xphb|mule]] | 8 gp | 40 ft. | 420 lb. |
-| [[/03_Mechanics/CLI/items/elephant-xphb|Elephant]] | 200 gp | 40 ft. | 1,320 lb. |
-| [[/03_Mechanics/CLI/items/draft-horse-xphb|Horse, draft]] | 50 gp | 40 ft. | 540 lb. |
-| [[/03_Mechanics/CLI/items/riding-horse-xphb|Horse, riding]] | 75 gp | 60 ft. | 480 lb. |
-| [[/03_Mechanics/CLI/items/mastiff-xphb|Mastiff]] | 25 gp | 40 ft. | 195 lb. |
-| [[/03_Mechanics/CLI/items/pony-xphb|Pony]] | 30 gp | 40 ft. | 225 lb. |
-| [[/03_Mechanics/CLI/items/warhorse-xphb|Warhorse]] | 400 gp | 60 ft. | 540 lb. |
+| [[camel-xphb|Camel]] | 50 gp | 50 ft. | 480 lb. |
+| [[donkey|Donkey]] or [[mule-xphb|mule]] | 8 gp | 40 ft. | 420 lb. |
+| [[elephant-xphb|Elephant]] | 200 gp | 40 ft. | 1,320 lb. |
+| [[draft-horse-xphb|Horse, draft]] | 50 gp | 40 ft. | 540 lb. |
+| [[riding-horse-xphb|Horse, riding]] | 75 gp | 60 ft. | 480 lb. |
+| [[mastiff-xphb|Mastiff]] | 25 gp | 40 ft. | 195 lb. |
+| [[pony-xphb|Pony]] | 30 gp | 40 ft. | 225 lb. |
+| [[warhorse-xphb|Warhorse]] | 400 gp | 60 ft. | 540 lb. |
 ^mounts-and-other-animals
 
 ## Player-Facing Summary

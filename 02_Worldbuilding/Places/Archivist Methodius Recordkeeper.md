@@ -16,12 +16,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg]]
 
 
 ## Overview
@@ -63,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Archivist Methodius Recordkeeper]]
+- [[Archivist Methodius Recordkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[Evidence Chain Analysis]]

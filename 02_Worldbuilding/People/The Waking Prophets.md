@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg]]
 
 
 # The Waking Prophets
@@ -110,9 +106,9 @@ The Waking Prophets offer opportunities to explore themes of fanaticism, the pri
 
 ## Connections
 
-- [[02_Worldbuilding/People/His Own Shadow]]
-- [[02_Worldbuilding/People/Oracle]]
-- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[His Own Shadow]]
+- [[Oracle]]
+- [[The Sorrowmaster]]
 
 
 ## Appearance
@@ -158,6 +154,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Waking Prophets]]
+- [[The Waking Prophets]]
 
 <!-- enriched: true -->

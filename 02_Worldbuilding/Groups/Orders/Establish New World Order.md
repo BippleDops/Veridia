@@ -5,7 +5,7 @@ alignment: Lawful Neutral (Systematic Reformers)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Political Reform Movement
-headquarters: '[[02_Worldbuilding/Lore/The Crystal Governance Institute]]'
+headquarters: '[[The Crystal Governance Institute]]'
 influence: Political Institutions, Policy Development
 leader: '[[02_Worldbuilding/Lore/Director Prism Reformheart]]'
 members: ~500 active members, ~2000 supporters
@@ -33,13 +33,12 @@ world: Aethermoor
 ![](04_Resources/Assets/Symbols/symbol-heraldry-establish-new-world-order-establish-new-world-order.svg)
 
 
-
 # Establish New World Order
 *Architects of Crystal Democracy, Masters of Systematic Reform, The Reasonable Revolution*
 
 ## Organization Overview
 
-Establish New World Order represents the moderate political reform movement within [[02_Worldbuilding/Places/Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
+Establish New World Order represents the moderate political reform movement within [[Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
 
 The organization believes that crystal transformation has created new possibilities for governance, decision-making, and social organization that current institutions cannot fully utilize. However, they advocate for careful, methodical reform that preserves stability while incorporating the benefits of crystal consciousness and enhanced human capabilities.
 
@@ -343,7 +342,7 @@ The organization's signature approach to governmental reform:
 
 ### Government Relations
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[The Crystal Throne]]**
 **Relationship**: Constructive Engagement
 Works with existing government to implement reforms through legitimate political processes while maintaining independence and advocating for citizen interests.
 
@@ -353,7 +352,7 @@ Collaborates with government employees on administrative reform while respecting
 
 ### Political Movements
 
-#### **[[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]**
+#### **[[Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]**
 **Relationship**: Ideological Disagreement
 Shares some reform goals but strongly disagrees with revolutionary methods and radical approaches to change.
 
@@ -363,7 +362,7 @@ Works with traditional political groups on specific issues while disagreeing abo
 
 ### Community Organizations
 
-#### **[[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
+#### **[[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]**
 **Relationship**: Economic Partnership
 Collaborates on economic policy development and supports policies benefiting creative and entrepreneurial communities.
 
@@ -535,15 +534,15 @@ Securing adequate funding and support for comprehensive reform initiatives.
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
-- [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[The Crystal Throne]]
+- [[Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
+- [[The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
+- [[Silverscale Consortium]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Crystal Governance Institute]]
-- [[02_Worldbuilding/Lore/Regional Reform Offices]]
-- [[02_Worldbuilding/Lore/Community Demonstration Sites]]
+- [[The Crystal Governance Institute]]
+- [[Regional Reform Offices]]
+- [[Community Demonstration Sites]]
 - [[Government Partner Facilities]]
 
 **Notable NPCs**:
@@ -553,11 +552,11 @@ Securing adequate funding and support for comprehensive reform initiatives.
 - [[Economic Architect Dr. Prosperity Sharewell]]
 
 **Important Concepts**:
-- [[02_Worldbuilding/Lore/Crystal-Enhanced Democracy]]
-- [[02_Worldbuilding/Lore/Systematic Governmental Reform]]
+- [[Crystal-Enhanced Democracy]]
+- [[Systematic Governmental Reform]]
 - [[Evidence-Based Policy Development]]
-- [[02_Worldbuilding/Lore/Democratic Legitimacy and Reform]]
-- [[02_Worldbuilding/Lore/Crystal Governance Model]]
+- [[Democratic Legitimacy and Reform]]
+- [[Crystal Governance Model]]
 
 ## Player-Facing Summary
 
@@ -581,4 +580,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]

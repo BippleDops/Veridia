@@ -15,24 +15,19 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-engineer-prisma-depthwright-engineer-prisma-depthwright.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-engineer-prisma-depthwright-engineer-prisma-depthwright.svg]]
 
 
 # The Depthwright Laboratory
 *Where Innovation Meets the Depths*
 
 > *"In these halls, the impossible becomes inevitable. We don't just solve problems - we forge solutions from the very essence of the deep, creating tomorrow's miracles with today's determination. Every blueprint is a dream, every prototype a step toward transforming our underwater world."*
-> — [[02_Worldbuilding/Places/Engineer Prisma Depthwright]], Master Engineer and Laboratory Director
+> — [[Engineer Prisma Depthwright]], Master Engineer and Laboratory Director
 
 ## Overview
 
-The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s premier engineering research facility, where [[02_Worldbuilding/Places/Engineer Prisma Depthwright]] leads a team of brilliant minds in pushing the boundaries of underwater technology and innovation. This state-of-the-art facility specializes in developing solutions to the unique challenges of deep-sea civilization, from pressure-resistant construction materials to revolutionary transportation systems that could reshape how underwater societies function. The laboratory features advanced testing chambers, prototype workshops, materials research facilities, and the cutting-edge equipment necessary to transform theoretical concepts into practical engineering solutions that benefit all underwater civilizations.
+The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering research facility, where [[Engineer Prisma Depthwright]] leads a team of brilliant minds in pushing the boundaries of underwater technology and innovation. This state-of-the-art facility specializes in developing solutions to the unique challenges of deep-sea civilization, from pressure-resistant construction materials to revolutionary transportation systems that could reshape how underwater societies function. The laboratory features advanced testing chambers, prototype workshops, materials research facilities, and the cutting-edge equipment necessary to transform theoretical concepts into practical engineering solutions that benefit all underwater civilizations.
 
 ## History and Foundation
 
@@ -40,7 +35,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Period**: 60 years ago, when traditional engineering solutions proved inadequate  
 **Challenge**: Growing technological gap between surface civilizations and underwater societies  
 **Limitations**: Existing engineering approaches failing to address deep-sea environmental challenges  
-**Stagnation**: Technological stagnation threatening [[02_Worldbuilding/Places/Aquabyssos]]'s competitive position  
+**Stagnation**: Technological stagnation threatening [[Aquabyssos]]'s competitive position  
 **Recognition**: Recognition that revolutionary engineering innovation was desperately needed
 
 ### Prisma's Vision
@@ -62,18 +57,18 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Success**: Series of breakthrough innovations revolutionizing underwater technology  
 **Recognition**: Growing recognition as premier underwater engineering facility  
 **Expansion**: Continuous expansion of research capabilities and facilities  
-**Influence**: Laboratory innovations being adopted throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Influence**: Laboratory innovations being adopted throughout [[Aquabyssos]]
 
 ### The Golden Age
 **Period**: 20-40 years after opening, peak innovation period  
 **Discoveries**: Major discoveries in pressure engineering, materials science, and transportation  
-**Applications**: Practical applications dramatically improving life throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Applications**: Practical applications dramatically improving life throughout [[Aquabyssos]]  
 **Reputation**: International reputation as leading underwater technology center  
 **Collaboration**: Collaboration with research institutions throughout underwater realm
 
 ### Modern Era
 **Current Status**: World-renowned engineering research facility  
-**Leadership**: [[02_Worldbuilding/Places/Engineer Prisma Depthwright]] maintaining innovation culture while expanding capabilities  
+**Leadership**: [[Engineer Prisma Depthwright]] maintaining innovation culture while expanding capabilities  
 **Research**: Cutting-edge research addressing most challenging deep-sea engineering problems  
 **Impact**: Laboratory innovations continuing to transform underwater civilization  
 **Future**: Strategic planning for next generation of underwater technological advancement
@@ -90,10 +85,10 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Symbolism**: Representing laboratory's mission to reach new heights in engineering achievement
 
 #### The Director's Observatory
-**Position**: [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]'s office and command center overlooking main research floor  
+**Position**: [[Engineer Prisma Depthwright]]'s office and command center overlooking main research floor  
 **Function**: Strategic oversight of all laboratory research and development projects  
 **Technology**: Advanced monitoring systems tracking progress on multiple projects simultaneously  
-**Communication**: Communication hub coordinating with research institutions throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Communication**: Communication hub coordinating with research institutions throughout [[Aquabyssos]]  
 **Vision**: Physical embodiment of laboratory's visionary leadership and strategic direction
 
 #### The Breakthrough Gallery
@@ -180,7 +175,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Goal**: Developing technology enabling human habitation at previously impossible depths  
 **Research**: Research into life support systems, habitat design, and pressure adaptation  
 **Innovation**: Revolutionary innovations in deep-sea habitation technology  
-**Applications**: Applications for expanding [[02_Worldbuilding/Places/Aquabyssos]] civilization into deepest regions  
+**Applications**: Applications for expanding [[Aquabyssos]] civilization into deepest regions  
 **Impact**: Potential transformation of underwater civilization's territorial expansion
 
 #### The Current Transportation Project
@@ -188,7 +183,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Technology**: Advanced technology for capturing and directing current energy  
 **Design**: Transportation system designs utilizing natural current patterns  
 **Efficiency**: Highly efficient transportation with minimal environmental impact  
-**Network**: Potential transportation network connecting [[02_Worldbuilding/Places/Aquabyssos]] territories
+**Network**: Potential transportation network connecting [[Aquabyssos]] territories
 
 #### The Pressure Construction Program
 **Focus**: Revolutionary construction techniques for extreme pressure environments  
@@ -204,7 +199,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Projects**: Wide range of projects addressing various infrastructure needs  
 **Innovation**: Innovative solutions to longstanding infrastructure problems  
 **Implementation**: Working with communities to implement infrastructure solutions  
-**Impact**: Direct impact on quality of life throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Impact**: Direct impact on quality of life throughout [[Aquabyssos]]
 
 #### The Environmental Engineering Division
 **Focus**: Engineering solutions addressing environmental challenges  
@@ -230,7 +225,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Progress**: Accelerated progress through collaborative research efforts
 
 #### The Industry Partnership Program
-**Connection**: Close connections with industries throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Connection**: Close connections with industries throughout [[Aquabyssos]]  
 **Application**: Practical application of research results in commercial settings  
 **Funding**: Industry funding supporting research programs  
 **Innovation**: Innovation pipeline from laboratory research to commercial application  
@@ -262,7 +257,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Manufacturing**: Development of manufacturing processes for practical implementation
 
 #### The Deep Communication Network
-**Technology**: Communication technology enabling instant contact throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Technology**: Communication technology enabling instant contact throughout [[Aquabyssos]]  
 **Range**: Communication range extending to deepest regions of underwater realm  
 **Reliability**: Reliable communication under all environmental conditions  
 **Integration**: Integration with existing communication systems  
@@ -275,7 +270,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Flexibility**: Flexible system adaptable to various environmental conditions  
 **Efficiency**: Efficient construction reducing time and resources needed for expansion  
 **Safety**: Enhanced safety features for extreme environment habitation  
-**Implementation**: Implementation pilot programs in various [[02_Worldbuilding/Places/Aquabyssos]] territories
+**Implementation**: Implementation pilot programs in various [[Aquabyssos]] territories
 
 #### The Resource Extraction Innovation
 **Technology**: Advanced technology for sustainable resource extraction  
@@ -288,7 +283,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Purpose**: Advanced technology for emergency response and disaster relief  
 **Speed**: Rapid deployment capabilities for emergency situations  
 **Effectiveness**: Enhanced effectiveness in protecting lives and property  
-**Coordination**: Coordination with emergency services throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Coordination**: Coordination with emergency services throughout [[Aquabyssos]]  
 **Prevention**: Prevention technology reducing likelihood of disasters
 
 ### Experimental Research Areas
@@ -408,7 +403,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Industry**: Industry partnerships for technology development and implementation  
 **Economic**: Economic opportunities through innovation and technology transfer  
 **Jobs**: Job creation through technology-based economic development  
-**Growth**: Economic growth opportunities for [[02_Worldbuilding/Places/Aquabyssos]] through technological advancement
+**Growth**: Economic growth opportunities for [[Aquabyssos]] through technological advancement
 
 ## Adventure Opportunities
 
@@ -477,7 +472,7 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 ## Connected Elements
 
 ### Research Networks
-**Collaboration**: Collaboration with research institutions throughout [[02_Worldbuilding/Places/Aquabyssos]] and beyond  
+**Collaboration**: Collaboration with research institutions throughout [[Aquabyssos]] and beyond  
 **Knowledge**: Knowledge sharing advancing engineering science  
 **Innovation**: Innovation networks accelerating technological development  
 **Standards**: Development of engineering standards and best practices  
@@ -534,13 +529,13 @@ The Depthwright Laboratory stands as [[02_Worldbuilding/Places/Aquabyssos]]'s pr
 **Recognition**: Recognition and advancement through research contributions  
 **Impact**: Personal impact through contribution to technological advancement
 
-The Depthwright Laboratory represents the pinnacle of underwater engineering innovation, where [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]'s visionary leadership combines with brilliant research talent to create technological solutions that transform the possibilities for underwater civilization. Through revolutionary research programs, collaborative innovation culture, and unwavering commitment to practical applications, this facility continues to push the boundaries of what's possible in the depths, proving that human ingenuity and determination can overcome even the most challenging environmental constraints to create a better future for all underwater societies.
+The Depthwright Laboratory represents the pinnacle of underwater engineering innovation, where [[Engineer Prisma Depthwright]]'s visionary leadership combines with brilliant research talent to create technological solutions that transform the possibilities for underwater civilization. Through revolutionary research programs, collaborative innovation culture, and unwavering commitment to practical applications, this facility continues to push the boundaries of what's possible in the depths, proving that human ingenuity and determination can overcome even the most challenging environmental constraints to create a better future for all underwater societies.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Adaptation Points]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Depth Adaptation Points]]
+- [[Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -562,6 +557,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Engineer Prisma Depthwright]]
+- [[Engineer Prisma Depthwright]]
 
 <!-- enriched: true -->

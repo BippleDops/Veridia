@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[12_Research/D&D_References/Marriage Between Worlds]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[12_Research/D&D_References/Marriage Between Worlds]]
 
 ## Player-Facing Summary
 

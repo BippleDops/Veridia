@@ -23,12 +23,12 @@ world: Both
 
 | Item | Cost | Speed |
 |------|------|-------|
-| [[/03_Mechanics/CLI/items/galley-xphb|Galley]] | 30,000 gp | 4 mph |
-| [[/03_Mechanics/CLI/items/keelboat-xphb|Keelboat]] | 3,000 gp | 1 mph |
-| [[/03_Mechanics/CLI/items/longship-xphb|Longship]] | 10,000 gp | 3 mph |
-| [[/03_Mechanics/CLI/items/rowboat-xphb|Rowboat]] | 50 gp | 1½ mph |
-| [[/03_Mechanics/CLI/items/sailing-ship-xphb|Sailing ship]] | 10,000 gp | 2 mph |
-| [[/03_Mechanics/CLI/items/warship-xphb|Warship]] | 25,000 gp | 2½ mph |
+| [[galley-xphb|Galley]] | 30,000 gp | 4 mph |
+| [[keelboat-xphb|Keelboat]] | 3,000 gp | 1 mph |
+| [[longship-xphb|Longship]] | 10,000 gp | 3 mph |
+| [[rowboat-xphb|Rowboat]] | 50 gp | 1½ mph |
+| [[sailing-ship-xphb|Sailing ship]] | 10,000 gp | 2 mph |
+| [[warship-xphb|Warship]] | 25,000 gp | 2½ mph |
 ^waterborne-vehicles
 
 ## Player-Facing Summary

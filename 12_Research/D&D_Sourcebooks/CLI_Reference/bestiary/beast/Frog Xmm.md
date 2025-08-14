@@ -29,12 +29,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frog-xmm-frog-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/frog-xmm|Frog]]
+# [[frog-xmm|Frog]]
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Frog (XMM)"
@@ -54,9 +54,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+1"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "darkvision 30 ft., passive Perception 11"
 "languages": ""
@@ -64,8 +64,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [[/03_Mechanics/CLI/variant-rules/long-jump-xphb|Long Jump]]\
-      \ is up to 10 feet and its [[/03_Mechanics/CLI/variant-rules/high-jump-xphb|High Jump]]\
+  - "desc": "The frog's [[long-jump-xphb|Long Jump]]\
+      \ is up to 10 feet and its [[high-jump-xphb|High Jump]]\
       \ is up to 5 feet with or without a running start."
     "name": "Standing Leap"
 "actions":

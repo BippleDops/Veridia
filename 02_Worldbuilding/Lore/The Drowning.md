@@ -12,10 +12,6 @@ updated: '2025-08-13T01:18:34.908703+00:00'
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -42,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[The Great Convergence Prophecies]]
+- [[12_Research/D&D_References/The Bathyal Succession]]
+- [[12_Research/D&D_References/The Great Convergence Prophecies]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

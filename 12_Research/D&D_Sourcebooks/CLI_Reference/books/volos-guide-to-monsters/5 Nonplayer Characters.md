@@ -36,7 +36,7 @@ This appendix contains statistics for various humanoid nonplayer characters (NPC
 - [[/03_Mechanics/CLI/bestiary/humanoid/enchanter-wizard-mpmm|Enchanter]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm|Evoker]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/illusionist-wizard-mpmm|Illusionist]]  
-- [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-priest-mpmm|Kraken Priest]]  
+- [[kraken-priest-mpmm|Kraken Priest]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/martial-arts-adept-mpmm|Martial Arts Adept]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/master-thief-mpmm|Master Thief]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm|Necromancer]]  

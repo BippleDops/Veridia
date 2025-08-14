@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -32,11 +32,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] originating from you makes a Strength saving throw. On a failed save, a target takes `2d6` Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you makes a Strength saving throw. On a failed save, a target takes `2d6` Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[list-spells-classes-warlock|Warlock]]
 
 *Source: Player's Handbook (2024) p. 243*
 

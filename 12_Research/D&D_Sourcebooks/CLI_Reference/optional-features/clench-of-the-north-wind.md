@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]].
+You can spend 3 ki points to cast [[hold-person-xphb|hold person]].
 
 ## Player-Facing Summary
 

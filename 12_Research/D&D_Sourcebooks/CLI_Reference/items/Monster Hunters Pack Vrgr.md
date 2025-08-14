@@ -33,17 +33,17 @@ world: Both
 
 Includes:
 
-- a [[/03_Mechanics/CLI/items/chest-xphb|chest]]  
-- a [[/03_Mechanics/CLI/items/crowbar-xphb|crowbar]]  
-- a [[/03_Mechanics/CLI/items/hammer|hammer]]  
+- a [[chest-xphb|chest]]  
+- a [[crowbar-xphb|crowbar]]  
+- a [[hammer|hammer]]  
 - three wooden stakes  
-- a [[/03_Mechanics/CLI/items/holy-symbol-xphb|holy symbol]]  
-- a [[/03_Mechanics/CLI/items/holy-water-xphb|flask of holy water]]  
-- a set of [[/03_Mechanics/CLI/items/manacles-xphb|manacles]]  
-- a [[/03_Mechanics/CLI/items/mirror-xphb|steel mirror]]  
-- a [[/03_Mechanics/CLI/items/oil-xphb|flask of oil]]  
-- a [[/03_Mechanics/CLI/items/tinderbox-xphb|tinderbox]]  
-- 3 [[/03_Mechanics/CLI/items/torch-xphb|torches]]  
+- a [[holy-symbol-xphb|holy symbol]]  
+- a [[holy-water-xphb|flask of holy water]]  
+- a set of [[manacles-xphb|manacles]]  
+- a [[mirror-xphb|steel mirror]]  
+- a [[oil-xphb|flask of oil]]  
+- a [[tinderbox-xphb|tinderbox]]  
+- 3 [[torch-xphb|torches]]  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*
 

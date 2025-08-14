@@ -41,11 +41,11 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([[skills#Insight|Insight]]) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [[/03_Mechanics/CLI/items/vial-xphb|vial]] of water and cause it to become [[/03_Mechanics/CLI/items/holy-water-xphb|holy water]].
+You touch one [[vial-xphb|vial]] of water and cause it to become [[holy-water-xphb|holy water]].
 
 ## Coming of Age
 
@@ -57,7 +57,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[wish-xphb|wish]] spell.
 
 ## Wedding
 
@@ -65,7 +65,7 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Xanathar's Guide to Everything p. 151*
 

@@ -9,6 +9,9 @@ obsidianUIMode: preview
 population: ~500000
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -26,14 +29,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-nereidios-nereidios.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-nereidios-nereidios.svg]]
 
 
 # Nereidios - The Scholar's Grave
@@ -47,6 +44,7 @@ A vast library-city where the boundary between knowledge and reality has dissolv
 ## Key Locations
 
 ### The Infinite Archive
+
 - **Description**: Library existing in parallel dimensions simultaneously
 - **Danger**: Books that read their readers
 - **Notable Features**:
@@ -56,18 +54,21 @@ A vast library-city where the boundary between knowledge and reality has dissolv
 - **Inhabitants**: Librarians who exist across multiple timelines
 
 ### Thought Pools Complex
+
 - **The Wisdom Wells**: Concentrated liquid knowledge
 - **The Confusion Cascades**: Waterfalls of bewilderment
 - **The Clarity Chambers**: Where thoughts become crystal
 - **Effect**: Drinking grants knowledge but drowns ignorance
 
 ### The Syntax Spires
+
 - **Description**: Towers built from crystallized languages
 - **Purpose**: Translate between reality and concept
 - **Danger**: Speaking the wrong word reshapes surroundings
 - **Inhabitants**: The Grammar Guards (enforce linguistic law)
 
 ### Memory Moth Gardens
+
 - **Description**: Creatures that feed on and trade memories
 - **Economy**: Memories as currency
 - **Danger**: Can accidentally sell crucial memories
@@ -78,6 +79,7 @@ A vast library-city where the boundary between knowledge and reality has dissolv
 A hive mind of preserved brains in jars, connected by neural fluid flowing through the city's aqueducts. Each brain retains its personality but shares processing power with the collective.
 
 ### Leadership Structure
+
 - **The Prime Cognition**: Oldest brain, coordinates thoughts
 - **Memory Council**: Manages information flow
 - **Logic Lords**: Enforce rational thought laws
@@ -86,6 +88,7 @@ A hive mind of preserved brains in jars, connected by neural fluid flowing throu
 ## Inhabitants
 
 ### Native Population
+
 - **Scholar-Wraiths**: Academics who studied themselves out of physical existence
 - **Living Books**: Texts that achieved consciousness
 - **Thought-Forms**: Ideas given physical shape
@@ -94,12 +97,14 @@ A hive mind of preserved brains in jars, connected by neural fluid flowing throu
 ### Notable NPCs
 
 #### The Mothkeeper Sylantha
+
 - **Nature**: Living story aware of her fictional nature
 - **Location**: The Meta-Library
 - **Knowledge**: Can see "plot threads" of reality
 - **Services**: Narrative consultation, story editing
 
 #### Sage Lysander Deepthought
+
 - **Role**: Last physical librarian
 - **Curse**: Remembers everything ever written
 - **Location**: The Index Tower
@@ -112,16 +117,19 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 ## Environmental Hazards
 
 ### Knowledge Overflow
+
 - **Effect**: INT save DC 15 or gain random useless knowledge
 - **Frequency**: Every hour in populated areas
 - **Cure**: Meditation or memory purge
 
 ### Paradox Zones
+
 - **Effect**: Logic breaks down, impossible things happen
 - **Navigation**: Requires embracing contradiction
 - **Danger**: Can unmake things that shouldn't exist
 
 ### Thought Storms
+
 - **Description**: Violent conflicts between incompatible ideas
 - **Effect**: Psychic damage and confusion
 - **Protection**: Mental shields or ignorance
@@ -129,12 +137,14 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 ## Resources & Trade
 
 ### Exports
+
 - Liquid knowledge (bottled learning)
 - Crystallized languages (instant translation)
 - Memory recordings
 - Paradox fragments (reality manipulation)
 
 ### Imports
+
 - New experiences (raw material for knowledge)
 - Blank books (desperately needed)
 - Ignorance (surprisingly valuable)
@@ -150,10 +160,10 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections to Other Continents
 
-- **[[02_Worldbuilding/Places/Crystallium]]**: Share the Resonance Network for data transfer
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Provide intelligence services to the Parliament
-- **[[02_Worldbuilding/Places/Memoriam]]**: Secret tunnel through forgotten knowledge
-- **[[02_Worldbuilding/Lore/Vorthak]]**: Exchange temporal paradoxes for probability studies
+- **[[12_Research/D&D_References/Crystallium]]**: Share the Resonance Network for data transfer
+- **[[12_Research/D&D_References/Abyssos Prime]]**: Provide intelligence services to the Parliament
+- **[[12_Research/D&D_References/Memoriam]]**: Secret tunnel through forgotten knowledge
+- **[[12_Research/D&D_References/Vorthak]]**: Exchange temporal paradoxes for probability studies
 
 ## Notable Quotes
 
@@ -170,6 +180,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 - The city literally runs on thoughts
 
 ### Random Encounters (d6)
+
 1. Aggressive autobiography trying to rewrite passersby
 2. Swarm of punctuation marks escaped from grammar prison
 3. Memory merchant offering suspicious deals
@@ -180,7 +191,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[12_Research/D&D_References/Crystallium]]
 
 ## Player-Facing Summary
 
@@ -192,8 +203,12 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Nereidios]]
+- [[12_Research/D&D_References/Nereidios]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Vorthak]]
-- [[02_Worldbuilding/Places/Memoriam]]
+- [[12_Research/D&D_References/Vorthak]]
+- [[12_Research/D&D_References/Memoriam]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

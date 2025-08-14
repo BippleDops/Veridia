@@ -25,9 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg]]
 
 
 # Steadyanchor Docks - Commercial Maritime Hub
@@ -351,7 +349,7 @@ Steadyanchor Docks connects to numerous important elements throughout Aquabyssos
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -373,6 +371,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
+- [[Dockmaster Bruno Steadyanchor]]
 
 <!-- enriched: true -->

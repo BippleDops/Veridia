@@ -22,7 +22,7 @@ world: Both
 
 # Charm of Heroism
 
-This Charm allows you to give yourself the benefit of a [[/03_Mechanics/CLI/items/potion-of-heroism-xdmg|Potion of Heroism]] as a [[/03_Mechanics/CLI/actions#Magic|Magic]] action. Once you do so, the Charm vanishes from you.
+This Charm allows you to give yourself the benefit of a [[potion-of-heroism-xdmg|Potion of Heroism]] as a [[actions#Magic|Magic]] action. Once you do so, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
 

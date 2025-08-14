@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can see normally in [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] and [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
+You can see normally in [[dim-light-xphb|Dim Light]] and [[darkness-xphb|Darkness]]—both magical and nonmagical—within 120 feet of yourself.
 
 ## Player-Facing Summary
 

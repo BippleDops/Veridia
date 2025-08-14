@@ -35,17 +35,17 @@ Each orb contains the essence of an evil dragon, a presence that resents any att
 
 An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
 
-While attuned to an orb, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition on you for as long as you remain attuned to it.
+While attuned to an orb, you can take a [[actions#Magic|Magic]] action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [[conditions#Charmed|Charmed]] condition on you for as long as you remain attuned to it.
 
-While you are [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] by the orb, you can't voluntarily end your [[/03_Mechanics/CLI/variant-rules/attunement-xphb|Attunement]] to it, and the orb casts [[/03_Mechanics/CLI/spells/suggestion-xphb|Suggestion]] on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
+While you are [[conditions#Charmed|Charmed]] by the orb, you can't voluntarily end your [[attunement-xphb|Attunement]] to it, and the orb casts [[suggestion-xphb|Suggestion]] on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
 
 ## Random Properties
 
 An Orb of Dragonkind has the following random properties:
 
-- 2 [[/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
-- 1 [[/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] property  
-- 1 [[/03_Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
+- 2 [[artifact-properties-minor-beneficial-properties-xdmg|minor beneficial]] properties  
+- 1 [[artifact-properties-minor-detrimental-properties-xdmg|minor detrimental]] property  
+- 1 [[artifact-properties-major-detrimental-properties-xdmg|major detrimental]] property  
 
 ## Spells
 
@@ -53,20 +53,20 @@ The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If y
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]] (level 9 version) | 4 |
-| [[/03_Mechanics/CLI/spells/daylight-xphb|Daylight]] | 1 |
-| [[/03_Mechanics/CLI/spells/death-ward-xphb|Death Ward]] | 2 |
-| [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]] | 0 |
-| [[/03_Mechanics/CLI/spells/scrying-xphb|Scrying]] (save DC 18) | 3 |
+| [[cure-wounds-xphb|Cure Wounds]] (level 9 version) | 4 |
+| [[daylight-xphb|Daylight]] | 1 |
+| [[death-ward-xphb|Death Ward]] | 2 |
+| [[detect-magic-xphb|Detect Magic]] | 0 |
+| [[scrying-xphb|Scrying]] (save DC 18) | 3 |
 ^spell-charge-cost
 
 ## Call Dragons
 
-While you control the orb, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+While you control the orb, you can take a [[actions#Magic|Magic]] action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [[hostile-attitude-xphb|Hostile]] toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
 ## Destroying an Orb
 
-An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [[/03_Mechanics/CLI/spells/disintegrate-xphb|Disintegrate]] spell. Nothing else can harm it.
+An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [[disintegrate-xphb|Disintegrate]] spell. Nothing else can harm it.
 
 *Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb") and the Free Rules (2024)*
 

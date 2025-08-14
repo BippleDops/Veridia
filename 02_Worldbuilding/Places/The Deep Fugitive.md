@@ -20,13 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-deep-fugitive-the-deep-fugitive.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-deep-fugitive-the-deep-fugitive.svg]]
 
 
 # The Deep Fugitive
@@ -118,7 +113,7 @@ Use the Deep Fugitive as a recurring character who appears when least expected. 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[Pearl_Harbor_City]]
 
 
 ## History
@@ -160,6 +155,6 @@ Legends speak of The Deep Fugitive as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Deep Fugitive]]
+- [[The Deep Fugitive]]
 
 <!-- enriched: true -->

@@ -18,7 +18,7 @@ world: Both
 ---
 
 # School of Necromancy
-*[[./wizard-xphb|Wizard]]: Wizard Subclass*  
+*[[wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook p. 118*  
 
 > [!tldr] Class and Feature Progression
@@ -74,7 +74,7 @@ At 2nd level, you gain the ability to reap life energy from creatures you kill w
 
 ### Undead Thralls (Level 6)
 
-At 6th level, you add the [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]] spell to your spellbook if it is not there already. When you cast [[/03_Mechanics/CLI/spells/animate-dead-xphb|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [[animate-dead-xphb|animate dead]] spell to your spellbook if it is not there already. When you cast [[animate-dead-xphb|animate dead]], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 

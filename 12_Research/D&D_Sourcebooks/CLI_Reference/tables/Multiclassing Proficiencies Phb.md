@@ -26,18 +26,18 @@ world: Both
 
 | Class | Proficiencies Gained |
 |-------|----------------------|
-| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | Shields, simple weapons, martial weapons |
-| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
-| [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]] | Light armor, medium armor, shields |
-| [[/03_Mechanics/CLI/classes/druid-xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/03_Mechanics/CLI/classes/monk-xphb|Monk]] | Simple weapons, shortswords |
-| [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
-| [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]] | Light armor, one skill from the class's skill list, [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] |
-| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] | — |
-| [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | Light armor, simple weapons |
-| [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | — |
+| [[barbarian-xphb|Barbarian]] | Shields, simple weapons, martial weapons |
+| [[bard-xphb|Bard]] | Light armor, one skill of your choice, one musical instrument of your choice |
+| [[cleric-xphb|Cleric]] | Light armor, medium armor, shields |
+| [[druid-xphb|Druid]] | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
+| [[fighter-xphb|Fighter]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[monk-xphb|Monk]] | Simple weapons, shortswords |
+| [[paladin-xphb|Paladin]] | Light armor, medium armor, shields, simple weapons, martial weapons |
+| [[ranger-xphb|Ranger]] | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| [[rogue-xphb|Rogue]] | Light armor, one skill from the class's skill list, [[thieves-tools-xphb|thieves' tools]] |
+| [[sorcerer-xphb|Sorcerer]] | — |
+| [[warlock-xphb|Warlock]] | Light armor, simple weapons |
+| [[wizard-xphb|Wizard]] | — |
 ^multiclassing-proficiencies
 
 ## Player-Facing Summary

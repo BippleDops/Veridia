@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg]]
 
 
 ## Overview
@@ -64,5 +60,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[Merchant's Covenant]]
+- [[The Floating Market]]

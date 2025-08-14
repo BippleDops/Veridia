@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
+- [[Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
 
 
 ## Connections
 
-- [[Pressure Angel Benthia]]
+- [[12_Research/D&D_Statblocks/Pressure Angel Benthia]]
 
 ## Player-Facing Summary
 

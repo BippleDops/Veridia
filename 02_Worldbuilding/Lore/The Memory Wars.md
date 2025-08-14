@@ -16,11 +16,7 @@ world: Dimensional Nexus (Both Realms)
 
 
 > [!figure] Asset
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg)
-
-
-
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg]]
 
 
 ## Overview
@@ -49,4 +45,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[12_Research/D&D_References/The Floating Market]]

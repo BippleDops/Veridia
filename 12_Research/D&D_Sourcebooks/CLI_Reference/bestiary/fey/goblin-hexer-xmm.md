@@ -29,9 +29,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\fey/goblin-hexer-xmm|Goblin Hexer]]
+# [[goblin-hexer-xmm|Goblin Hexer]]
 *Source: Monster Manual (2024) p. 143*  
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
@@ -73,9 +73,9 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]"
+  - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
@@ -88,9 +88,9 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
       \ 12 (2d8 + 3) Psychic damage."
     "name": "Hex Stick"
   - "desc": "The goblin casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/blindness-deafness-xphb|Blindness/Deafness]],\
-      \ [[/03_Mechanics/CLI/spells/faerie-fire-xphb|Faerie Fire]], [[/03_Mechanics/CLI/spells/grease-xphb|Grease]]"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [[minor-illusion-xphb|Minor Illusion]]\n\
+      \n1/day each: [[blindness-deafness-xphb|Blindness/Deafness]],\
+      \ [[faerie-fire-xphb|Faerie Fire]], [[grease-xphb|Grease]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\

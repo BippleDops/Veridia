@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quest-the-portal-crisis-quest-the-portal-crisis.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quest-the-portal-crisis-quest-the-portal-crisis.svg]]
 
 
 ## Overview
@@ -62,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Portal Crisis]]
+- [[12_Research/D&D_References/Quest - The Portal Crisis]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[12_Research/D&D_Statblocks/Tenebrarum Ambassadors]]

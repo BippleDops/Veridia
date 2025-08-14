@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-intelligence-dealer-echo-whisperwave-intelligence-dealer-echo-whisperwave.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-intelligence-dealer-echo-whisperwave-intelligence-dealer-echo-whisperwave.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[Smuggler's Cove]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[Smuggler's Cove]]
 
 ## Player-Facing Summary
 

@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harbor-master-s-tower-harbor-master-s-tower.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harbor-master-s-tower-harbor-master-s-tower.png]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor Master's Tower]]
+- [[12_Research/D&D_References/Harbor Master's Tower]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]

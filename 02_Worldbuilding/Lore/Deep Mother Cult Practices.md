@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[12_Research/D&D_References/Deep Mother]]
 
 
 ## Connections
 
-- [[01_Adventures/The_Sunken_Conspiracy/Introduction]]
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_Sourcebooks/Introduction]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Silver Mask]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Aethermoor]]
 
 ## Player-Facing Summary
 
@@ -52,3 +49,8 @@ Legends speak of Deep Mother Cult Practices as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

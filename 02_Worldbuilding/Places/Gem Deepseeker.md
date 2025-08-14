@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-gem-deepseeker-gem-deepseeker.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gem-deepseeker-gem-deepseeker.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gem Deepseeker]]
+- [[Gem Deepseeker]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[The Depth Market]]

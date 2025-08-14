@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-carnivorous-flower-rot-carnivorous-flower-rot.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/carnivorous-flower-rot|Carnivorous Flower]]
+# [[carnivorous-flower-rot|Carnivorous Flower]]
 *Source: The Rise of Tiamat p. 67*  
 
 ```statblock
@@ -60,7 +60,7 @@ world: Both
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw against disease or become [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
+      \ a DC 15 Constitution saving throw against disease or become [[conditions#Poisoned|poisoned]]\
       \ until the disease is cured. Every 24 hours that elapse, the target must repeat\
       \ the saving throw, reducing its hit point maximum by 5 (d10) on a failure.\
       \ The disease is cured on a success. The target dies if the disease reduces\
@@ -69,17 +69,17 @@ world: Both
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7\
       \ (1d8 + 3) bludgeoning damage plus 4 (d8) piercing damage. If the target is\
-      \ Medium or smaller, it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 13) and [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
+      \ Medium or smaller, it is [[conditions#Grappled|grappled]]\
+      \ (escape DC 13) and [[conditions#Restrained|restrained]]\
       \ until the grapple ends. The plant has two tentacles, each of which can grapple\
       \ one target."
     "name": "Tentacle"
-  - "desc": "The plant slams creatures [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+  - "desc": "The plant slams creatures [[conditions#Grappled|grappled]]\
       \ by it into each other or a solid surface. Each creature must succeed on a\
       \ DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and\
-      \ be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] until the end of the\
+      \ be [[conditions#Stunned|stunned]] until the end of the\
       \ plant's next turn. On a successful save, the target takes half the bludgeoning\
-      \ damage and isn't [[/03_Mechanics/CLI/conditions#Stunned|stunned]]."
+      \ damage and isn't [[conditions#Stunned|stunned]]."
     "name": "Tentacle Slam"
 "source":
   - "RoT"

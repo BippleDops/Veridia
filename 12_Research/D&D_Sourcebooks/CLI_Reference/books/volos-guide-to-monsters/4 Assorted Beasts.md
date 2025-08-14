@@ -24,14 +24,14 @@ world: Both
 
 This appendix contains statistics for various beasts, expanding on "appendix A" of the Monster Manual.
 
-- [[/03_Mechanics/CLI/bestiary/beast/aurochs-mpmm|Aurochs]]  
-- [[/03_Mechanics/CLI/bestiary/beast/cow-vgm|Cow]]  
-- [[/03_Mechanics/CLI/bestiary/beast/deep-rothe-mpmm|Deep Rothé]]  
-- [[/03_Mechanics/CLI/bestiary/beast/dolphin-mpmm|Dolphin]]  
-- [[/03_Mechanics/CLI/bestiary/beast/ox-mpmm|Ox]]  
-- [[/03_Mechanics/CLI/bestiary/beast/rothe-vgm|Rothé]]  
-- [[/03_Mechanics/CLI/bestiary/fiend/stench-kow-mpmm|Stench Kow]]  
-- [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rot-grubs-mpmm|Swarm of Rot Grubs]]
+- [[aurochs-mpmm|Aurochs]]  
+- [[cow-vgm|Cow]]  
+- [[deep-rothe-mpmm|Deep Rothé]]  
+- [[dolphin-mpmm|Dolphin]]  
+- [[ox-mpmm|Ox]]  
+- [[rothe-vgm|Rothé]]  
+- [[stench-kow-mpmm|Stench Kow]]  
+- [[swarm-of-rot-grubs-mpmm|Swarm of Rot Grubs]]
 
 ## Player-Facing Summary
 

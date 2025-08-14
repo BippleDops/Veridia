@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg]]
 
 
 ## Overview
@@ -64,5 +60,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[The Shadow Trade Network]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-observatory-network-nodes-observatory-network-nodes.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-observatory-network-nodes-observatory-network-nodes.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Observatory Network Nodes]]
+- [[Observatory Network Nodes]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[The Silent Watcher]]

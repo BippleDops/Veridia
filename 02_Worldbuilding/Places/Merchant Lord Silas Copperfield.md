@@ -27,14 +27,9 @@ world: Aethermoor
 ---
 
 
-
-
-
-
-
 # Merchant Lord Silas Copperfield
 
-![[04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png|Merchant Lord Silas Copperfield Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png|Merchant Lord Silas Copperfield Portrait]]
 
 ## Overview
 Merchant Lord Silas Copperfield is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -55,8 +50,8 @@ Merchant Lord Silas Copperfield is a living crossroads where memory-currents and
 - Rewards: Faction favor notes, tariff keys, market scrip worth 2d10×10 gp in local value.
 
 ## Threads to the Main Campaign
-- Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/The Whispering Expanse]].
+- Archivists claim a ledger fragment pointing toward [[The Lighthouse of Storms]].
+- A clandestine auction circles artifacts tied to [[The Whispering Expanse]].
 - An information broker with ties to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
@@ -65,8 +60,8 @@ Merchant Lord Silas Copperfield is a living crossroads where memory-currents and
 - Formal petition: Argue precedent at the Quiet Chapel; on a miss, the judge imposes a bond that grants limited passage and a clock to pay it back.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[The Lighthouse of Storms]]
+- [[The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
@@ -92,5 +87,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[Crystalhaven]]
+- [[Port Meridian]]

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-duchess-cordelia-pearlheart-duchess-cordelia-pearlheart.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-duchess-cordelia-pearlheart-duchess-cordelia-pearlheart.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Duchess Cordelia Pearlheart]]
+- [[Duchess Cordelia Pearlheart]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]

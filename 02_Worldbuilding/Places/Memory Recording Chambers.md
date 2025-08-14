@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-recording-chambers-memory-recording-chambers.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-recording-chambers-memory-recording-chambers.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[The Silent Watcher]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Silent Watcher]]
+- [[The Silent Watcher]]
 
 ## Player-Facing Summary
 

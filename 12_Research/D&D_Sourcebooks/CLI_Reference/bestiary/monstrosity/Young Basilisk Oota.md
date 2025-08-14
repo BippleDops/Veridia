@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-basilisk-oota-v1-young-basilisk-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/young-basilisk-oota|Young Basilisk]]
+# [[young-basilisk-oota|Young Basilisk]]
 *Source: Out of the Abyss p. 100*  
 
 ```statblock
@@ -54,12 +54,12 @@ world: Both
 "traits":
   - "desc": "If a creature starts its turn within 15 feet of the basilisk and the\
       \ two of them can see each other, the basilisk can force the creature to make\
-      \ a DC 12 Constitution saving throw if the basilisk isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].\
-      \ On a failed save, the creature magically begins to turn to stone and is [[/03_Mechanics/CLI/conditions#Restrained|restrained]].\
+      \ a DC 12 Constitution saving throw if the basilisk isn't [[conditions#Incapacitated|incapacitated]].\
+      \ On a failed save, the creature magically begins to turn to stone and is [[conditions#Restrained|restrained]].\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends. On a failure, the creature is [[/03_Mechanics/CLI/conditions#Petrified|petrified]]\
-      \ until freed by the  [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]]\
-      \ spell or other magic.\n\nA creature that isn't [[/03_Mechanics/CLI/conditions#Surprised|surprised]]\
+      \ the effect ends. On a failure, the creature is [[conditions#Petrified|petrified]]\
+      \ until freed by the  [[greater-restoration-xphb|greater restoration]]\
+      \ spell or other magic.\n\nA creature that isn't [[conditions#Surprised|surprised]]\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
       \ it can avert its eyes again. If it looks at the basilisk in the meantime,\

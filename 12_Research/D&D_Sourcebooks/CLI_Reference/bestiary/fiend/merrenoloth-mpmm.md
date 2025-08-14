@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/merrenoloth-mpmm|Merrenoloth]]
+# [[merrenoloth-mpmm|Merrenoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -52,18 +52,18 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
   - "dexterity": !!int "5"
   - "intelligence": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Nature|Nature]]"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "3"
@@ -78,17 +78,17 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
       \ + 3) fire damage."
     "name": "Oar"
   - "desc": "The merrenoloth targets one creature it can see within 60 feet of it.\
-      \ The target must succeed on a DC 13 Wisdom saving throw or become [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
-      \ of the merrenoloth for 1 minute. The [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ The target must succeed on a DC 13 Wisdom saving throw or become [[conditions#Frightened|frightened]]\
+      \ of the merrenoloth for 1 minute. The [[conditions#Frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\nAt will: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]],\
-      \ [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|gust of wind]]\n\
-      \n3/day: [[/03_Mechanics/CLI/spells/control-water-xphb|control water]]"
+      \ DC 13):\n\nAt will: [[charm-person-xphb|charm person]],\
+      \ [[darkness-xphb|darkness]], [[detect-magic-xphb|detect magic]],\
+      \ [[dispel-magic-xphb|dispel magic]], [[gust-of-wind-xphb|gust of wind]]\n\
+      \n3/day: [[control-water-xphb|control water]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\

@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg]]
 
 
 ## Overview
@@ -64,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Sarah Ironheart]]
+- [[Captain Sarah Ironheart]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[Quest - The Blackmail Papers]]
+- [[Quest - The Truth Unveiled]]

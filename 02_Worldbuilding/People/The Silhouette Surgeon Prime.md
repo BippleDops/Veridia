@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
+- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[Party Shadows]]
 
 ## Player-Facing Summary
 

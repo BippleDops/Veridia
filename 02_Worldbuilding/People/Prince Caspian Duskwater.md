@@ -32,19 +32,15 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg]]
 
 
 # Prince Caspian Duskwater
 *The Exiled Heir, The Forgotten Prince*
 
 ## Overview
-Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s younger brother, exiled five years ago for attempting to expose the crystal corruption in the royal court. Now he builds an army in exile, claiming to be the rightful ruler of [[02_Worldbuilding/Places/Aethermoor]]. Unknown to most, he has made a dark pact for power to reclaim his throne.
+Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, exiled five years ago for attempting to expose the crystal corruption in the royal court. Now he builds an army in exile, claiming to be the rightful ruler of [[Aethermoor]]. Unknown to most, he has made a dark pact for power to reclaim his throne.
 
 ## Appearance
 - **Age**: 29
@@ -124,22 +120,22 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 - Various displaced nobles
 
 ### Enemies
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sister and usurper
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Hunts him
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Entire government
-- [[02_Worldbuilding/People/Crystal Wardens]] - Active pursuit
+- [[Queen Seraphina Lumengarde]] - Sister and usurper
+- [[Lord Commander Gareth Steelborn]] - Hunts him
+- [[The Crystal Throne]] - Entire government
+- [[Crystal Wardens]] - Active pursuit
 
 ### Potential Allies
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Share anti-crystal stance
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Could use as puppet
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Mutual benefit
+- [[Purist Coalition]] - Share anti-crystal stance
+- [[High Inquisitor Maltheos]] - Could use as puppet
+- [[Vex Shadowthorn]] - Mutual benefit
 - Foreign powers - Offer territory for support
 
 ## The Succession Plan
 
 ### Phase 1: Destabilization
 - Spread rumors of Queen's corruption
-- Fund [[02_Worldbuilding/Groups/Purist Coalition]] terrorism
+- Fund [[Purist Coalition]] terrorism
 - Assassinate key supporters
 - Create crisis of legitimacy
 
@@ -156,10 +152,10 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 ## Secrets
 > [!warning] DM Only
 > - Knows Queen is corrupted (has proof)
-> - Killed their younger sister [[02_Worldbuilding/People/Aria Lumengarde]]'s guardian to fake her death
+> - Killed their younger sister [[Aria Lumengarde]]'s guardian to fake her death
 > - The Void entity is using him to enter reality
 > - Has piece of father's soul in crystal (evidence of murder)
-> - Plans to sacrifice [[02_Worldbuilding/People/Crystal Wardens]] to void
+> - Plans to sacrifice [[Crystal Wardens]] to void
 
 ## Combat Capabilities
 
@@ -186,9 +182,9 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 ## Quest Involvement
 
 ### As Antagonist
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]] - Stop his invasion
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Sabotages peace
-- [[02_Worldbuilding/Quests/Quest - The Void Conspiracy]] - Uncover pact
+- [[Quest - The Pretender's Crown]] - Stop his invasion
+- [[Quest - Diplomatic Immunity]] - Sabotages peace
+- [[Quest - The Void Conspiracy]] - Uncover pact
 
 ### Potential Ally
 - Against greater threats
@@ -238,14 +234,14 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 - His death doesn't stop void pact
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sister/enemy
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Hunter
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Potential ally
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Could manipulate
+- [[Queen Seraphina Lumengarde]] - Sister/enemy
+- [[Lord Commander Gareth Steelborn]] - Hunter
+- [[Vex Shadowthorn]] - Potential ally
+- [[High Inquisitor Maltheos]] - Could manipulate
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Rightful home
-- [[02_Worldbuilding/Places/The Shadowmere]] - Current base
+- [[Crystalhaven]] - Rightful home
+- [[The Shadowmere]] - Current base
 - Foreign kingdoms - Building alliances
 
 ## Possessions
@@ -258,12 +254,12 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]
 - [[Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/People/Knight]]
-- [[02_Worldbuilding/People/Oracle]]
-- [[02_Worldbuilding/People/Senator]]
-- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[Knight]]
+- [[Oracle]]
+- [[Senator]]
+- [[The Sorrowmaster]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -282,8 +278,8 @@ Legends speak of Prince Caspian Duskwater as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[Prince Caspian Duskwater]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Quests/Quest - The Void Conspiracy]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[Quest - The Void Conspiracy]]
+- [[Quest - The Pretender's Crown]]

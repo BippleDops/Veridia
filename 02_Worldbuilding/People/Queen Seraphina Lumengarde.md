@@ -14,21 +14,15 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg]]
 
 
 # Queen Seraphina Lumengarde
 *The Crystal Queen, Light of Aethermoor*
 
 ## Overview
-Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for twelve years, ascending to the throne after her father's mysterious death. Beautiful, intelligent, and politically savvy, she has championed the advancement of crystal technology while trying to maintain peace between the [[02_Worldbuilding/People/Crystal Wardens]] and the [[02_Worldbuilding/Groups/Purist Coalition]]. Unknown to all but her closest advisors, she suffers from Stage 2 crystal corruption, hidden by powerful illusions.
+Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending to the throne after her father's mysterious death. Beautiful, intelligent, and politically savvy, she has championed the advancement of crystal technology while trying to maintain peace between the [[Crystal Wardens]] and the [[Purist Coalition]]. Unknown to all but her closest advisors, she suffers from Stage 2 crystal corruption, hidden by powerful illusions.
 
 ## Appearance
 - **Public**: Radiant beauty, flowing golden hair, crystal crown, elaborate gowns with crystal embellishments
@@ -151,8 +145,8 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - **Special**: Can channel raw Aether energy (but accelerates corruption)
 
 ### Political Power
-- Commands the [[02_Worldbuilding/People/Crystal Wardens]]
-- Alliance with [[02_Worldbuilding/Groups/Merchant Princes]]
+- Commands the [[Crystal Wardens]]
+- Alliance with [[Merchant Princes]]
 - Network of spies throughout kingdom
 - Access to royal treasury and crystal reserves
 
@@ -165,7 +159,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 
 ### Core Alliance Network
 
-#### **[[02_Worldbuilding/People/Lord Aurelius Goldwave]] - The Golden Alliance**
+#### **[[Lord Aurelius Goldwave]] - The Golden Alliance**
 
 **Historical Development**:
 - **First Meeting (12 years ago)**: Met during Seraphina's coronation week when Lord Aurelius presented a magnificent crystal chandelier worth 50,000 gold pieces as a coronation gift
@@ -196,7 +190,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - **The Mutual Blackmail Insurance**: Both possess documents that could destroy the other—she knows about his Order of the Shattered Crown leadership, he knows about her corruption
 - **The Final Contingency**: Agreed that if either falls to corruption or political destruction, the other will ensure their loved ones' safety
 
-#### **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - The Loyal Protector**
+#### **[[Lord Commander Gareth Steelborn]] - The Loyal Protector**
 
 **Historical Development**:
 - **Military Academy Days**: Gareth was her weapons instructor during her princess training, developing mutual respect over eight years
@@ -217,7 +211,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - **The Hidden Truth**: Seraphina's greatest fear is that Gareth will discover her corruption and feel duty-bound to act against her
 - **Loyalty Conflict**: Gareth suspects something is wrong but his loyalty prevents him from investigating too deeply
 
-#### **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - The Sacred Healer**
+#### **[[High Priestess Celeste Dawnbringer]] - The Sacred Healer**
 
 **Historical Development**:
 - **Childhood Bond**: Celeste was her childhood friend before taking religious vows, creating a personal relationship beyond politics
@@ -235,7 +229,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 
 ### Opposition Network
 
-#### **[[02_Worldbuilding/People/Prince Caspian Duskwater]] - The Exiled Brother**
+#### **[[Prince Caspian Duskwater]] - The Exiled Brother**
 
 **Historical Development**:
 - **Sibling Rivalry**: Competing for their father's approval during childhood, with Caspian feeling overshadowed by Seraphina's natural charisma
@@ -253,7 +247,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - **Caspian's Hatred**: Blames her for "stealing" his birthright and exiling him from his homeland
 - **The Legitimacy Question**: His continued existence undermines her authority with traditionalist factions
 
-#### **[[02_Worldbuilding/People/High Inquisitor Maltheos]] - The Purist Opposition**
+#### **[[High Inquisitor Maltheos]] - The Purist Opposition**
 
 **Historical Development**:
 - **Religious Conflict**: Maltheos began opposing crystal technology integration early in Seraphina's reign
@@ -267,7 +261,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 
 ### International Relations
 
-#### **[[02_Worldbuilding/People/Emperor Thalassius the Wise]] - The Ancient Ally**
+#### **[[Emperor Thalassius the Wise]] - The Ancient Ally**
 
 **Historical Development**:
 - **Inherited Diplomacy**: Seraphina inherited generally positive relations with Aquabyssos
@@ -281,7 +275,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 
 ### Complex Relationships
 
-#### **[[02_Worldbuilding/People/Vex Shadowthorn]] - The Dangerous Blackmailer**
+#### **[[Vex Shadowthorn]] - The Dangerous Blackmailer**
 
 **The Blackmail Relationship**:
 - **Discovery**: Vex learned about her corruption through his underground information network
@@ -293,7 +287,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - **Information Leverage**: Threatens exposure to maintain control
 - **Political Pressure**: Uses their relationship to advance his criminal interests
 
-#### **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - The Incorruptible Naval Commander**
+#### **[[Admiral Cassandra Stormwind]] - The Incorruptible Naval Commander**
 
 **Professional Relationship**:
 - **Military Respect**: Seraphina values Cassandra's competence and loyalty
@@ -307,32 +301,32 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 ## Associates & Royal Network
 
 ### The Crystal Court
-- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Elite guard unit she directly commands
+- **[[Crystal Wardens]]** - Elite guard unit she directly commands
 - **Royal Physicians** - Medical staff unaware of her true condition
 - **Court Wizards** - Magical advisors helping maintain her illusions
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Economic allies who support her policies
+- **[[Merchant Princes]]** - Economic allies who support her policies
 
 ### Secret Support Network
 - **Corruption Researchers** - Scholars secretly seeking a cure
-- **[[02_Worldbuilding/People/Aria Lumengarde]]** - Hidden daughter kept safe in [[02_Worldbuilding/Places/Sylvanheart]]
+- **[[Aria Lumengarde]]** - Hidden daughter kept safe in [[Sylvanheart]]
 - **Temple Healers** - Clerics providing discrete medical aid
 - **Loyal Spies** - Intelligence network monitoring threats to the crown
 
 ## Secrets
 > [!warning] DM Only
 > - Stage 2 corruption is accelerating
-> - Has been meeting [[02_Worldbuilding/People/The Crimson Sage]] (actually the god Aetheron)
+> - Has been meeting [[The Crimson Sage]] (actually the god Aetheron)
 > - Knows location of three of the Seven Shards
 > - Killed her father when he tried to destroy all crystals
-> - Has a hidden daughter, [[02_Worldbuilding/People/Aria Lumengarde]], kept away for safety
+> - Has a hidden daughter, [[Aria Lumengarde]], kept away for safety
 > - Planning to use the Crown ceremony to attempt a cure
 
 ## Current Activities
 - Preparing for the Crystal Festival
 - Secretly researching corruption cures
-- Negotiating with [[02_Worldbuilding/People/The Verdant Accord]]
-- Investigating [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- Monitoring [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s movements
+- Negotiating with [[The Verdant Accord]]
+- Investigating [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- Monitoring [[Prince Caspian Duskwater]]'s movements
 
 ## Motivations
 1. **Primary**: Find cure for crystal corruption
@@ -360,9 +354,9 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 
 ## Quest Hooks
 1. Queen secretly seeks adventurers to find corruption cure
-2. Needs deniable assets to investigate [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+2. Needs deniable assets to investigate [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 3. Retrieve ancient texts about the Crown of Stars
-4. Diplomatic mission to [[02_Worldbuilding/Places/The Verdant Reach]]
+4. Diplomatic mission to [[The Verdant Reach]]
 5. Investigate assassination attempts
 
 ## Speaking Style
@@ -373,53 +367,53 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 ## DM Notes
 - Queen's corruption advances with major spell use
 - If discovered, could trigger civil war
-- [[02_Worldbuilding/People/The Crimson Sage]] may offer false cure for a price
-- Her daughter [[02_Worldbuilding/People/Aria Lumengarde]] is hidden in [[02_Worldbuilding/Places/Sylvanheart]]
+- [[The Crimson Sage]] may offer false cure for a price
+- Her daughter [[Aria Lumengarde]] is hidden in [[Sylvanheart]]
 - Death would transfer corruption to whoever claims the crown
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Rival claimant
-- [[02_Worldbuilding/People/The Crimson Sage]] - Secret advisor
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Healer
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Blackmailer
+- [[Lord Commander Gareth Steelborn]] - Military leader
+- [[Prince Caspian Duskwater]] - Rival claimant
+- [[The Crimson Sage]] - Secret advisor
+- [[High Priestess Celeste Dawnbringer]] - Healer
+- [[Vex Shadowthorn]] - Blackmailer
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Seat of power
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Literal throne
-- [[02_Worldbuilding/People/The Purification Gardens]] - Secret treatments
+- [[Crystalhaven]] - Seat of power
+- [[The Crystal Throne]] - Literal throne
+- [[The Purification Gardens]] - Secret treatments
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Ordering investigation
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Secretly searching
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Needs peacekeepers
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Ordering investigation
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Secretly searching
+- [[Quest - Diplomatic Immunity]] - Needs peacekeepers
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Silver Mask]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Aether Crystal]]
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Knight]]
-- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[02_Worldbuilding/People/Lighthouse Keeper]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[Crystal Wardens]]
+- [[The Forsaken Consortium Collective]]
+- [[Aether Crystals]]
+- [[The Resonance Forge Hammer]]
+- [[Aetheron]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[Aether Crystal]]
+- [[Commander Thrace Ironwood]]
+- [[Emperor Thalassius the Wise]]
+- [[Knight]]
+- [[Lady Jade Clawgrip]]
+- [[Lighthouse Keeper]]
+- [[Professor Aldric Crystalweaver]]
+- [[The Bloodline Carrier]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Crystal Gardens]]
+- [[Harbor District Customs House]]
+- [[The Crystalline Foundry]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -438,10 +432,10 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[Queen Seraphina Lumengarde]]
 
 <!-- enriched: true -->
-- [[01_Adventures/The_Sunken_Conspiracy/Introduction]]
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/The Purification Gardens]]
-- [[02_Worldbuilding/Places/Sylvanheart]]
+- [[Introduction]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[The Purification Gardens]]
+- [[Sylvanheart]]

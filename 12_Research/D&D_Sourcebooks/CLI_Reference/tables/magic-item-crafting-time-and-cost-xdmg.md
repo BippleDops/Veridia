@@ -30,7 +30,7 @@ world: Both
 | Legendary | 250 days | 100,000 GP |
 ^magic-item-crafting-time-and-cost
 
-*The time and cost are halved for a consumable item other than a [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]], whose [[/03_Mechanics/CLI/tables/scribing-spell-scrolls-spell-scroll-costs-xphb|crafting time and cost]] are given in the "Player's Handbook".
+*The time and cost are halved for a consumable item other than a [[spell-scroll-xdmg|Spell Scroll]], whose [[scribing-spell-scrolls-spell-scroll-costs-xphb|crafting time and cost]] are given in the "Player's Handbook".
 
 ## Player-Facing Summary
 

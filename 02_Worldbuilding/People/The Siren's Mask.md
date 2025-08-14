@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-siren-s-mask-the-siren-s-mask.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-siren-s-mask-the-siren-s-mask.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[The Siren]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Siren]]
+- [[The Siren]]
 
 ## Player-Facing Summary
 

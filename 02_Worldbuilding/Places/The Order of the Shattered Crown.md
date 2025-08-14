@@ -20,11 +20,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg]]
 
 
 # The Order of the Shattered Crown
@@ -176,16 +173,16 @@ The Order provides opportunities for redemption-themed adventures, charitable mi
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[Purist Coalition]]
+- [[The Crystal Throne]]
+- [[The Seven Shards]]
+- [[Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Living Weapon]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Lord Aurelius Goldwave]]
+- [[The Azure Prophet Nerissa]]
+- [[Port Meridian]]
+- [[The Living Weapon]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -197,6 +194,6 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[The Order of the Shattered Crown]]
 
 <!-- enriched: true -->

@@ -2,6 +2,10 @@
 created: '2025-08-13'
 status: active
 tags:
+- combat
+- quest
+- session-notes
+- shadow-touched
 - campaign/shadow-conspiracy
 - investigation
 - political-intrigue
@@ -14,6 +18,7 @@ world: Both
 ---
 
 # Shadow Conspiracy Investigation Chain
+
 *A Complete 8-Session Campaign of Political Intrigue and Mind Control*
 
 > [!danger] Campaign Themes
@@ -72,6 +77,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 ## Session Breakdown
 
 ### Session 1: Shadows in the Senate
+
 *The party witnesses impossible parliamentary behavior*
 
 **Hook**: The Parliament of Echoes passes contradictory laws in perfect unanimity. Something is clearly wrong with the democratic process.
@@ -93,6 +99,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 - Location of shadow safe house
 
 ### Session 2: The Shadow Surgery
+
 *Infiltrating a consciousness manipulation facility*
 
 **Location**: Abandoned Aquabyssos Medical University wing
@@ -111,6 +118,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 **Major Revelation**: The conspiracy has already replaced 30% of both governments
 
 ### Session 3: The Duplicate Crisis
+
 *Determining who is real and who is shadow*
 
 **Challenge**: Multiple versions of important NPCs appear, claiming the others are shadow duplicates
@@ -130,6 +138,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 **Combat**: Shadow duplicates of the party themselves (Mirror match)
 
 ### Session 4: The Economic Web
+
 *Following the money to deeper conspiracy*
 
 **Investigation Focus**: Shadow Conspiracy funding sources
@@ -149,6 +158,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 **Major Encounter**: Shadow Broker conference infiltration
 
 ### Session 5: The Military Coup
+
 *Preventing shadow-controlled armed forces takeover*
 
 **Crisis Point**: Commander Eclipse activates sleeper agents in both militaries
@@ -164,6 +174,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 **Moral Dilemma**: Some shadow-controlled soldiers are victims, not villains
 
 ### Session 6: The Memory War
+
 *Battle for collective consciousness*
 
 **Psychic Battlefield**: Inside the Memory Palace shared consciousness
@@ -181,6 +192,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 - Deep Mother's involvement
 
 ### Session 7: Shadow's End Game
+
 *Racing to stop complete governmental takeover*
 
 **Multiple Simultaneous Crises**:
@@ -196,6 +208,7 @@ The Shadow Conspiracy has infiltrated both Aquabyssos and Aethermoor governments
 - Accepting shadow help against greater threat
 
 ### Session 8: Confronting the Shadow Prime
+
 *Final battle with Vex Shadowthorn*
 
 **Location**: The Shadow Synthesis Chamber - where all shadow consciousness merge
@@ -257,7 +270,6 @@ Track trust levels with key NPCs:
 ## Obsidian Plugin Integration
 
 ### Dataview Queries
-
 ```dataview
 TABLE 
   shadow-status as "Shadow Status",
@@ -268,21 +280,16 @@ FROM "Shadow_Conspiracy"
 WHERE contains(tags, "npc")
 SORT trust-level DESC
 ```
-
 ### Meta-bind Trackers
-
 ```meta-bind
 INPUT[progressBar(minValue(0), maxValue(100)):conspiracy-exposure]
 LABEL[Conspiracy Exposure Level]
 ```
-
 ```meta-bind
 INPUT[progressBar(minValue(0), maxValue(10)):evidence-points]
 LABEL[Evidence Collected]
 ```
-
 ### Initiative Tracker Template
-
 ```initiative-tracker
 - name: Vex Shadowthorn
   hp: 180
@@ -300,9 +307,7 @@ LABEL[Evidence Collected]
   initiative: 20
   tags: ["hazard", "ongoing"]
 ```
-
 ### Fantasy Calendar Events
-
 ```fantasy-calendar
 event:
   name: "Parliamentary Vote"
@@ -311,7 +316,6 @@ event:
   description: "Shadow Parliament attempts emergency powers vote"
   category: "critical"
 ```
-
 ## Random Tables
 
 ### Shadow Conspiracy Complications `dice: 1d12`
@@ -338,24 +342,28 @@ event:
 ## Campaign Variations
 
 ### Lighter Tone
+
 - Shadow control is reversible
 - Focus on investigation over horror
 - Comedic duplicate confusion
 - Happy ending guaranteed
 
 ### Darker Tone
+
 - Permanent consciousness damage
 - Body horror elements
 - Trusted allies permanently lost
 - Pyrrhic victory only
 
 ### Political Focus
+
 - More parliamentary procedure
 - Economic warfare emphasis
 - Diplomatic solutions possible
 - Public opinion mechanics
 
 ### Action Focus
+
 - More combat encounters
 - Chase sequences
 - Infiltration missions
@@ -364,6 +372,7 @@ event:
 ## DM Resources
 
 ### Prep Checklist
+
 - [ ] NPC relationship map
 - [ ] Evidence trail flowchart
 - [ ] Shadow detection rules
@@ -374,6 +383,7 @@ event:
 - [ ] Duplicate variations
 
 ### Session Zero Questions
+
 1. Comfort level with body horror?
 2. Interest in political intrigue?
 3. Preference for investigation vs combat?
@@ -381,12 +391,14 @@ event:
 5. Desired conspiracy scope?
 
 ### Adapting to Party Actions
+
 - If exposed early: Conspiracy goes underground
 - If ignored: Shadow control accelerates
 - If joined: Become double agents
 - If violent: Public opinion shifts
 
 ## Connected Resources
+
 - [[Shadow Conspiracy NPCs]]
 - [[Shadow Surgery Mechanics]]
 - [[Parliament Building Maps]]
@@ -397,3 +409,10 @@ event:
 ---
 
 *"In shadows we trust, for light blinds us to subtle truths"* - Vex Shadowthorn
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

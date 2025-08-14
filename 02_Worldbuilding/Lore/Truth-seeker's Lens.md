@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -12,10 +13,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.473736+00:00'
 world: Both
 ---
-
-
-
-
 
 
 ## Overview
@@ -53,9 +50,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[12_Research/D&D_Statblocks/Quest - Hearts and Minds]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[12_Research/D&D_Statblocks/Quest - Hearts and Minds]]

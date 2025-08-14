@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- shadow-touched
 - aethermoor
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shadow-portal-nexus-shadow-portal-nexus.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-portal-nexus-shadow-portal-nexus.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Portal Nexus]]
+- [[12_Research/D&D_References/Shadow Portal Nexus]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

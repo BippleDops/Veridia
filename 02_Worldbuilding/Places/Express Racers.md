@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[Blood Current Express]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[Blood Current Express]]
 
 ## Player-Facing Summary
 

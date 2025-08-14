@@ -3,6 +3,11 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - both
 - complete
 - content/location
@@ -15,29 +20,25 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg]]
 
 
 # Abyssos Prime Docks
+
 *Gateway to the Crown City*
 
 > *"All the wealth of the depths flows through these waters. Every current, every tide, every dream of fortune finds its way to these docks. Here, the pulse of Aquabyssos beats strongest."*
-> — [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]], Chief of Harbor Operations
+> — [[12_Research/D&D_References/Harbormaster Tidal Stormcrest]], Chief of Harbor Operations
 
 ## Overview
 
-The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawling complex of piers, warehouses, and processing facilities that handle the vast majority of trade flowing into and out of the capital. Built across multiple depth levels to accommodate vessels of every size and origin, the docks operate as both the economic lifeline of [[02_Worldbuilding/Places/Abyssos Prime]] and a crucial strategic asset for the crown. From surface traders descending through pressure locks to deep-sea vessels rising from the abyssal plains, all maritime commerce converges at these bustling waterways.
+The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawling complex of piers, warehouses, and processing facilities that handle the vast majority of trade flowing into and out of the capital. Built across multiple depth levels to accommodate vessels of every size and origin, the docks operate as both the economic lifeline of [[12_Research/D&D_References/Abyssos Prime]] and a crucial strategic asset for the crown. From surface traders descending through pressure locks to deep-sea vessels rising from the abyssal plains, all maritime commerce converges at these bustling waterways.
 
 ## History and Foundation
 
 ### The Ancient Moorings
+
 **Era**: 800 years ago, establishment of the first royal harbor  
 **Purpose**: Simple fishing port serving the early settlement of Abyssos Prime  
 **Construction**: Basic stone piers and wooden docking platforms  
@@ -45,6 +46,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Challenge**: Frequent damage from deep-sea currents and pressure changes
 
 ### The Crown Expansion
+
 **Period**: 600-500 years ago, first major expansion under royal decree  
 **Innovation**: Introduction of pressure-resistant construction techniques  
 **Development**: Addition of specialized berths for different vessel types  
@@ -52,6 +54,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Growth**: Expansion from local fishing port to regional trading hub
 
 ### The Great Depths Project
+
 **Timeline**: 400-300 years ago, massive engineering undertaking  
 **Vision**: Creating docks capable of serving the deepest ocean vessels  
 **Innovation**: Development of multi-level dock systems with pressure equalization  
@@ -59,6 +62,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Result**: Transformation into premier deep-sea port of the known world
 
 ### The Trade Wars Era
+
 **Period**: 250-200 years ago, conflicts over maritime dominance  
 **Challenge**: Competing ports attempting to divert trade from Abyssos Prime  
 **Response**: Massive military fortification of the harbor approaches  
@@ -66,6 +70,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Victory**: Successful defense establishing permanent maritime supremacy
 
 ### The Golden Current Period
+
 **Era**: 150-50 years ago, peak prosperity and expansion  
 **Achievement**: Recognition as the greatest port in the known world  
 **Development**: Addition of specialized facilities for exotic trade goods  
@@ -73,6 +78,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Culture**: Development of unique maritime culture and traditions
 
 ### Modern Era Challenges
+
 **Current**: Balancing growth with environmental and security concerns  
 **Pressure**: Increasing trade volume straining existing infrastructure  
 **Innovation**: Ongoing modernization and expansion projects  
@@ -83,6 +89,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### The Crown Tier
 
 #### Royal Harbor
+
 **Purpose**: Exclusive docking for royal vessels and state visitors  
 **Features**: Ornate ceremonial piers with crystal-enhanced decorations  
 **Security**: Heavily guarded with restricted access requiring special permits  
@@ -90,6 +97,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Symbolism**: Represents the crown's dominance over maritime commerce
 
 #### Diplomatic Berths
+
 **Function**: Dedicated facilities for foreign diplomatic vessels  
 **Protocol**: Specialized handling procedures for sensitive diplomatic cargo  
 **Staff**: Trained diplomatic liaison officers and cultural interpreters  
@@ -97,6 +105,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Amenities**: Full diplomatic services and ceremonial facilities
 
 #### State Cargo Terminals
+
 **Operations**: Handling of government supplies and strategic materials  
 **Security**: Restricted access with military oversight  
 **Efficiency**: Priority processing for essential state business  
@@ -106,6 +115,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### The Merchant Quarter
 
 #### Grand Commercial Pier
+
 **Scale**: Longest continuous pier complex in Aquabyssos  
 **Capacity**: Simultaneous docking for over 200 merchant vessels  
 **Services**: Full commercial services including cargo handling and ship repair  
@@ -113,6 +123,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Organization**: Divided into specialized sections for different types of goods
 
 #### Warehouse District
+
 **Storage**: Massive storage facilities for short and long-term cargo holding  
 **Organization**: Specialized warehouses for different categories of goods  
 **Security**: Private security services protecting valuable merchant cargo  
@@ -120,6 +131,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Innovation**: Advanced preservation techniques for perishable goods
 
 #### Trade Guildhalls
+
 **Purpose**: Headquarters for major merchant guilds and trading companies  
 **Services**: Business facilities, meeting halls, and commercial negotiation spaces  
 **Information**: Commercial intelligence gathering and market analysis  
@@ -129,6 +141,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### The Deep Harbor
 
 #### Abyssal Berths
+
 **Depth**: Specialized facilities for deep-ocean vessels  
 **Construction**: Reinforced structures capable of handling extreme pressure differentials  
 **Access**: Deep-water channels connecting to the abyssal plains  
@@ -136,6 +149,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Innovation**: Cutting-edge technology for deep-pressure cargo handling
 
 #### Pressure Lock Systems
+
 **Function**: Managing vessels transitioning between different pressure zones  
 **Technology**: Complex mechanical and magical systems for pressure equalization  
 **Safety**: Fail-safe systems preventing catastrophic pressure failures  
@@ -143,6 +157,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Maintenance**: Constant upkeep required for reliable operation
 
 #### Deep Processing Facilities
+
 **Specialization**: Handling of deep-sea goods requiring special processing  
 **Technology**: Advanced equipment for working with pressure-sensitive materials  
 **Expertise**: Skilled workers trained in deep-ocean cargo procedures  
@@ -152,6 +167,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### The Working Docks
 
 #### Fisherman's Wharf
+
 **Community**: Traditional fishing community predating the modern port  
 **Culture**: Preservation of ancient maritime traditions and customs  
 **Economy**: Local fishing industry supplying fresh seafood to the capital  
@@ -159,6 +175,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Integration**: Balanced integration with modern commercial operations
 
 #### Shipwright Quarter
+
 **Industry**: Ship construction, repair, and modification facilities  
 **Craftsmanship**: Traditional shipbuilding techniques combined with modern innovation  
 **Specialization**: Capable of working on vessels from simple fishing boats to massive trading ships  
@@ -166,6 +183,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Innovation**: Continuous development of new shipbuilding techniques
 
 #### Cargo Processing Center
+
 **Operations**: Efficient handling and sorting of incoming and outgoing cargo  
 **Technology**: Advanced mechanical systems for rapid cargo movement  
 **Organization**: Systematic processing ensuring accuracy and preventing loss  
@@ -177,6 +195,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Vessel Classifications
 
 #### Royal Fleet Vessels
+
 **Access**: Unrestricted access to all facilities with highest priority  
 **Services**: Complete support services including maintenance and supply  
 **Security**: Full military protection and intelligence support  
@@ -184,6 +203,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Prestige**: Ceremonial treatment reflecting the dignity of the crown
 
 #### Merchant Marine
+
 **Registration**: Licensed commercial vessels with trading permits  
 **Services**: Full commercial docking and cargo handling services  
 **Fees**: Standard commercial rates based on vessel size and cargo volume  
@@ -191,6 +211,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Support**: Business services and commercial facilities
 
 #### Foreign Vessels
+
 **Documentation**: Special permits and diplomatic clearances required  
 **Inspection**: Thorough customs and security inspections  
 **Restrictions**: Limited access to certain facilities and areas  
@@ -198,6 +219,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Relations**: Treatment varies based on diplomatic relationships
 
 #### Independent Traders
+
 **Flexibility**: Accommodation for smaller independent trading vessels  
 **Services**: Basic docking and cargo services at competitive rates  
 **Community**: Strong community of independent traders and small merchants  
@@ -207,6 +229,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Cargo Types and Handling
 
 #### Luxury Goods
+
 **Security**: High-security storage and handling procedures  
 **Processing**: Careful handling to prevent damage to valuable items  
 **Customs**: Detailed inspection and taxation procedures  
@@ -214,6 +237,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Profit**: High-value trade contributing significantly to port revenues
 
 #### Strategic Resources
+
 **Control**: Government oversight of strategic materials  
 **Security**: Military-grade protection for sensitive resources  
 **Priority**: Rapid processing for essential materials  
@@ -221,6 +245,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Stockpiling**: Strategic reserves maintained for emergency situations
 
 #### Bulk Commodities
+
 **Volume**: Efficient handling of large-volume, lower-value goods  
 **Infrastructure**: Specialized facilities for bulk cargo processing  
 **Speed**: Rapid processing to minimize storage costs  
@@ -228,6 +253,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Economics**: Foundation of the port's economic viability
 
 #### Exotic Materials
+
 **Rarity**: Special handling for unique and magical materials  
 **Expertise**: Specialized knowledge required for safe handling  
 **Value**: Extremely high value requiring maximum security  
@@ -239,6 +265,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Operating Schedule
 
 #### Dawn Tide (4:00 AM - 10:00 AM)
+
 **Activity**: Fishing fleet departures and returns  
 **Cargo**: Processing of overnight arrivals and priority shipments  
 **Staff**: Skeleton crew of essential workers  
@@ -246,6 +273,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Security**: Enhanced security during low-activity periods
 
 #### Morning Current (10:00 AM - 2:00 PM)
+
 **Peak Activity**: Busiest period with maximum vessel traffic  
 **Operations**: Full cargo handling and processing operations  
 **Commerce**: Active trading and business negotiations  
@@ -253,6 +281,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Coordination**: Complex scheduling of arrivals and departures
 
 #### Afternoon Flow (2:00 PM - 8:00 PM)
+
 **Continuation**: Sustained high activity with continued cargo processing  
 **Business**: Commercial meetings and contract negotiations  
 **Maintenance**: Routine maintenance and repair activities  
@@ -260,6 +289,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Preparation**: Preparation for evening departures
 
 #### Evening Ebb (8:00 PM - 12:00 AM)
+
 **Departures**: Major departures taking advantage of favorable evening currents  
 **Completion**: Completion of daily cargo processing targets  
 **Recreation**: Taverns and social establishments reach peak activity  
@@ -267,6 +297,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Security**: Transition to enhanced nighttime security measures
 
 #### Deep Current (12:00 AM - 4:00 AM)
+
 **Limited Operations**: Essential services only  
 **Security**: Maximum security with regular patrols  
 **Maintenance**: Major maintenance work on facilities and equipment  
@@ -276,6 +307,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Workforce and Labor
 
 #### Dock Workers Guild
+
 **Organization**: Powerful labor organization representing dock workers  
 **Skills**: Highly skilled workers specializing in cargo handling  
 **Wages**: Well-compensated reflecting the essential nature of their work  
@@ -283,6 +315,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Influence**: Significant political influence over port operations
 
 #### Maritime Specialists
+
 **Expertise**: Specialists in various aspects of maritime operations  
 **Training**: Extensive training and certification programs  
 **Innovation**: Continuous development of new techniques and procedures  
@@ -290,6 +323,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Career**: Clear career advancement opportunities
 
 #### Administrative Staff
+
 **Management**: Professional management of complex port operations  
 **Coordination**: Coordination between various port functions and external entities  
 **Efficiency**: Focus on operational efficiency and customer service  
@@ -297,6 +331,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Innovation**: Implementing new systems and procedures
 
 #### Security Forces
+
 **Protection**: Comprehensive security for port facilities and operations  
 **Training**: Specialized training for maritime security challenges  
 **Coordination**: Coordination with naval and military forces  
@@ -306,6 +341,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ## Notable Locations and Landmarks
 
 ### The Harbor Master's Tower
+
 **Function**: Central command and control facility for all port operations  
 **Architecture**: Imposing tower providing panoramic view of entire harbor  
 **Technology**: Advanced communication and coordination systems  
@@ -313,6 +349,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Symbol**: Visible symbol of royal authority over maritime commerce
 
 ### The Great Lighthouse
+
 **Purpose**: Navigation beacon visible from great distances  
 **Technology**: Magical enhancement providing light visible in deepest waters  
 **Safety**: Essential safety feature preventing maritime accidents  
@@ -320,6 +357,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Maintenance**: Constant maintenance ensuring reliable operation
 
 ### The Customs Fortress
+
 **Security**: Heavily fortified facility for customs and security operations  
 **Processing**: Central processing point for all incoming cargo and passengers  
 **Authority**: Symbol of royal authority over trade and commerce  
@@ -327,6 +365,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Storage**: Secure storage for confiscated or disputed goods
 
 ### The Merchant's Exchange
+
 **Commerce**: Central marketplace for maritime commercial transactions  
 **Information**: Hub for commercial intelligence and market information  
 **Networking**: Meeting place for merchants, traders, and business partners  
@@ -334,6 +373,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Culture**: Center of maritime commercial culture and traditions
 
 ### The Shipwright's Hall
+
 **Craftsmanship**: Guild hall and workshop for master shipbuilders  
 **Innovation**: Center for shipbuilding innovation and design  
 **Education**: Training facility for apprentice shipwrights  
@@ -345,6 +385,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Natural Advantages
 
 #### Deep Water Access
+
 **Geography**: Natural deep-water harbor providing excellent vessel access  
 **Currents**: Favorable current patterns facilitating navigation  
 **Protection**: Natural protection from the worst deep-sea storms  
@@ -352,6 +393,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resources**: Access to rich fishing grounds and trade routes
 
 #### Pressure Zones
+
 **Variety**: Multiple pressure zones accommodating different vessel types  
 **Stability**: Relatively stable pressure conditions reducing operational risks  
 **Transition**: Smooth transition zones facilitating vessel movement  
@@ -361,6 +403,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Environmental Challenges
 
 #### Deep Current Storms
+
 **Frequency**: Periodic severe storms disrupting port operations  
 **Damage**: Potential for significant damage to vessels and facilities  
 **Preparation**: Advanced warning systems and storm preparation procedures  
@@ -368,6 +411,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Design**: Port design incorporating storm-resistant features
 
 #### Pressure Instabilities
+
 **Risk**: Occasional pressure fluctuations creating operational hazards  
 **Monitoring**: Continuous monitoring of pressure conditions  
 **Response**: Emergency response procedures for pressure emergencies  
@@ -375,6 +419,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Training**: Training programs for pressure emergency response
 
 #### Marine Predators
+
 **Threat**: Large marine predators occasionally threatening port operations  
 **Defense**: Defense systems and procedures for predator encounters  
 **Coordination**: Coordination with naval forces for major predator threats  
@@ -385,21 +430,24 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Harbor Administration
 
-#### Harbormaster [[02_Worldbuilding/Places/Tidal Stormcrest]]
+#### Harbormaster [[12_Research/D&D_References/Tidal Stormcrest]]
+
 **Position**: Chief administrator of all port operations  
 **Experience**: 30 years of maritime experience including naval service  
 **Reputation**: Respected leader known for efficiency and fairness  
 **Challenge**: Managing competing demands while maintaining operational excellence  
 **Innovation**: Implementing modernization while preserving maritime traditions
 
-#### Deputy Harbormaster [[02_Worldbuilding/Places/Marina Deepcurrent]]
+#### Deputy Harbormaster [[12_Research/D&D_References/Marina Deepcurrent]]
+
 **Role**: Second-in-command and operational coordinator  
 **Specialization**: Expert in cargo operations and logistics coordination  
 **Leadership**: Strong leadership during crises and emergency situations  
 **Relations**: Excellent relationships with merchant and labor communities  
 **Future**: Likely successor to the harbormaster position
 
-#### Customs Chief [[02_Worldbuilding/Places/Reef Truescale]]
+#### Customs Chief [[12_Research/D&D_References/Reef Truescale]]
+
 **Authority**: Head of customs operations and trade regulation enforcement  
 **Integrity**: Known for absolute integrity and fair enforcement of trade laws  
 **Knowledge**: Encyclopedic knowledge of trade regulations and procedures  
@@ -408,21 +456,24 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Maritime Community
 
-#### Captain [[02_Worldbuilding/Places/Wave Merchant]]
+#### Captain [[12_Research/D&D_References/Wave Merchant]]
+
 **Reputation**: Most successful independent trader operating from the port  
 **Network**: Extensive network of contacts throughout the maritime world  
 **Innovation**: Pioneer in developing new trade routes and opportunities  
 **Community**: Strong supporter of the independent trader community  
 **Mentor**: Mentor to younger traders and maritime entrepreneurs
 
-#### Master Shipwright [[02_Worldbuilding/Places/Coral Craftsman]]
+#### Master Shipwright [[12_Research/D&D_References/Coral Craftsman]]
+
 **Skill**: Master craftsman with unparalleled shipbuilding expertise  
 **Innovation**: Developer of new shipbuilding techniques and designs  
 **Teaching**: Teacher and mentor to apprentice shipwrights  
 **Tradition**: Guardian of traditional shipbuilding knowledge and methods  
 **Recognition**: Internationally recognized for exceptional craftsmanship
 
-#### Guild Leader [[02_Worldbuilding/Places/Current Solidarity]]
+#### Guild Leader [[12_Research/D&D_References/Current Solidarity]]
+
 **Leadership**: Leader of the powerful Dock Workers Guild  
 **Advocacy**: Strong advocate for worker rights and fair treatment  
 **Negotiation**: Skilled negotiator balancing worker interests with port operations  
@@ -431,14 +482,16 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Security and Military
 
-#### Port Captain [[02_Worldbuilding/Places/Storm Guard]]
+#### Port Captain [[12_Research/D&D_References/Storm Guard]]
+
 **Command**: Military officer responsible for port security and defense  
 **Experience**: Distinguished naval career with expertise in maritime security  
 **Coordination**: Excellent coordination with civilian port administration  
 **Preparedness**: Maintains high state of readiness for security threats  
 **Balance**: Balances security requirements with commercial operations
 
-#### Intelligence Officer [[02_Worldbuilding/Places/Shadow Current]]
+#### Intelligence Officer [[12_Research/D&D_References/Shadow Current]]
+
 **Operations**: Covert intelligence operations focused on port security  
 **Network**: Extensive network of informants and intelligence sources  
 **Analysis**: Expert in analyzing security threats and commercial intelligence  
@@ -450,6 +503,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Maritime Adventures
 
 #### Smuggling Investigation
+
 **Challenge**: Uncovering sophisticated smuggling operation  
 **Skills**: Investigation, Insight, Stealth  
 **Complexity**: Multiple suspects and complex web of illegal activity  
@@ -457,6 +511,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resolution**: Requires careful investigation without alerting criminals
 
 #### Diplomatic Crisis
+
 **Situation**: Diplomatic incident involving foreign vessel  
 **Skills**: Diplomacy, Insight, Investigation  
 **Complexity**: International implications requiring delicate handling  
@@ -464,6 +519,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Success**: Successful resolution improves diplomatic relationships
 
 #### Storm Response
+
 **Emergency**: Major storm threatening port and vessels  
 **Challenge**: Coordinating emergency response and rescue operations  
 **Skills**: Athletics, Survival, Medicine  
@@ -473,6 +529,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Commercial Intrigue
 
 #### Trade War
+
 **Conflict**: Commercial conflict between competing trading interests  
 **Investigation**: Uncovering the source and nature of commercial sabotage  
 **Skills**: Investigation, Persuasion, Insight  
@@ -480,6 +537,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resolution**: Multiple possible approaches to resolving conflict
 
 #### Cargo Theft
+
 **Crime**: Valuable cargo disappearing from secure warehouses  
 **Mystery**: Complex mystery requiring careful investigation  
 **Skills**: Investigation, Stealth, Perception  
@@ -487,6 +545,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Challenge**: Solving crime without disrupting port operations
 
 #### Contract Dispute
+
 **Problem**: Major commercial dispute threatening port operations  
 **Mediation**: Serving as neutral mediators in complex business dispute  
 **Skills**: Persuasion, Insight, Investigation  
@@ -496,6 +555,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Security Challenges
 
 #### Foreign Infiltration
+
 **Threat**: Foreign agents attempting to gather intelligence  
 **Counter-intelligence**: Identifying and countering espionage activities  
 **Skills**: Investigation, Insight, Deception  
@@ -503,6 +563,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Stakes**: Protecting sensitive information and port security
 
 #### Sabotage Attempt
+
 **Attack**: Attempt to sabotage critical port infrastructure  
 **Prevention**: Preventing or responding to infrastructure attack  
 **Skills**: Investigation, Athletics, potentially combat  
@@ -512,6 +573,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Special Mechanics
 
 #### Port Reputation
+
 **System**: Character actions affect reputation within port community  
 **Benefits**: Good reputation provides advantages in commerce and information gathering  
 **Consequences**: Bad reputation makes operations more difficult  
@@ -519,6 +581,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Impact**: Reputation affects access to services and information
 
 #### Maritime Knowledge
+
 **Advantage**: Characters with maritime experience gain advantages  
 **Skills**: Bonuses to relevant skill checks involving maritime activities  
 **Information**: Access to specialized maritime knowledge and contacts  
@@ -526,6 +589,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Opportunities**: Special opportunities available to maritime professionals
 
 #### Trade Networks
+
 **Connections**: Building relationships within trading community  
 **Information**: Access to commercial intelligence and market information  
 **Opportunities**: Business opportunities through network connections  
@@ -537,6 +601,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Major Story Arcs
 
 #### The Missing Fleet
+
 **Level**: 8-14  
 **Mystery**: Entire merchant fleet vanishes without trace  
 **Investigation**: Complex investigation involving multiple possible explanations  
@@ -545,6 +610,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resolution**: Multiple possible resolutions with different consequences
 
 #### The Trade Conspiracy
+
 **Level**: 6-12  
 **Discovery**: Evidence of conspiracy to manipulate trade for political purposes  
 **Challenge**: Uncovering conspiracy without alerting conspirators  
@@ -553,6 +619,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resolution**: Requires careful handling of political sensitivities
 
 #### The Deep Harbor Secret
+
 **Level**: 10-16  
 **Mystery**: Ancient secret hidden in the deepest parts of the harbor  
 **Exploration**: Dangerous exploration of deep-sea areas  
@@ -563,6 +630,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ### Smaller Adventures
 
 #### The Corrupt Official
+
 **Level**: 4-8  
 **Problem**: Evidence of corruption in port administration  
 **Investigation**: Gathering evidence while avoiding detection  
@@ -571,6 +639,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Consequences**: Different resolutions have different long-term effects
 
 #### The Exotic Cargo
+
 **Level**: 5-10  
 **Discovery**: Dangerous or illegal cargo arriving at the port  
 **Challenge**: Determining appropriate response to illegal cargo  
@@ -579,6 +648,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 **Resolution**: Multiple approaches with different risks and benefits
 
 #### The Labor Dispute
+
 **Level**: 3-7  
 **Conflict**: Major dispute between workers and management  
 **Mediation**: Serving as neutral mediators in labor dispute  
@@ -588,35 +658,40 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[12_Research/D&D_References/Abyssos Prime]]
+
 **Integration**: Essential economic lifeline for the capital city  
 **Supply**: Primary source of goods and materials for the city  
 **Employment**: Major source of employment for city residents  
 **Culture**: Maritime culture influences city culture  
 **Defense**: Strategic asset requiring protection
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[12_Research/D&D_References/Parliament of Echoes]]
+
 **Regulation**: Subject to parliamentary laws and regulations  
 **Revenue**: Major source of government revenue through customs and fees  
 **Politics**: Political influence through economic importance  
 **Representation**: Parliamentary representation of port interests  
 **Policy**: Parliamentary policies affecting port operations
 
-### [[02_Worldbuilding/Places/Azure Citadel]]
+### [[12_Research/D&D_References/Azure Citadel]]
+
 **Defense**: Military protection and security coordination  
 **Supply**: Military supply operations through port facilities  
 **Personnel**: Military personnel stationed at the port  
 **Intelligence**: Intelligence sharing for security purposes  
 **Emergency**: Military support during emergencies
 
-### [[02_Worldbuilding/Places/The Free Current]]
+### [[12_Research/D&D_References/The Free Current]]
+
 **Competition**: Commercial competition with alternative trading hub  
 **Cooperation**: Some cooperation on trade routes and security  
 **Comparison**: Different approaches to maritime commerce  
 **Trade**: Some merchants operate in both ports  
 **Learning**: Learning from different commercial approaches
 
-### [[02_Worldbuilding/Places/Memory Farmers]]
+### [[12_Research/D&D_References/Memory Farmers]]
+
 **Services**: Memory services for commercial and security purposes  
 **Information**: Use of memory techniques for information storage  
 **Innovation**: Collaboration on new applications of memory technology  
@@ -626,7 +701,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Sunken Vault
-> Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown.
+> Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[12_Research/D&D_References/Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown.
 
 > [!secret] DM Secret - The Smuggler's Network
 > A sophisticated smuggling network operates within the port, using a combination of corrupted officials, hidden passages in the old harbor foundations, and magical concealment to move illegal goods. The network is led by someone within the port administration itself, and has connections to criminal organizations throughout Aquabyssos. The operation is so well-organized that it actually helps port operations run more smoothly while evading detection.
@@ -637,27 +712,27 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/The Free Current]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Azure Citadel]]
+- [[12_Research/D&D_References/The Free Current]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]
-- [[02_Worldbuilding/Places/Marina Deepcurrent]]
-- [[02_Worldbuilding/Places/Reef Truescale]]
-- [[02_Worldbuilding/Places/Wave Merchant]]
+- [[12_Research/D&D_References/Harbormaster Tidal Stormcrest]]
+- [[12_Research/D&D_References/Marina Deepcurrent]]
+- [[12_Research/D&D_References/Reef Truescale]]
+- [[12_Research/D&D_References/Wave Merchant]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Harbor Authority]]
-- [[02_Worldbuilding/Places/Maritime Commerce]]
-- [[02_Worldbuilding/Places/Deep Harbor Technology]]
-- [[02_Worldbuilding/Places/Trade Regulations]]
+- [[12_Research/D&D_References/Harbor Authority]]
+- [[12_Research/D&D_References/Maritime Commerce]]
+- [[12_Research/D&D_References/Deep Harbor Technology]]
+- [[12_Research/D&D_References/Trade Regulations]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
 
 ## Player-Facing Summary
 
@@ -679,7 +754,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[12_Research/D&D_References/Memory Farmers]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

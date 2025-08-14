@@ -19,12 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg]]
 
 
 # The Eel Keepers
@@ -122,7 +118,7 @@ The Eel Keepers provide both mundane city services and adventure opportunities. 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Inverse Palace]]
+- [[The Inverse Palace]]
 
 
 ## History
@@ -164,6 +160,6 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Eel Keepers]]
+- [[The Eel Keepers]]
 
 <!-- enriched: true -->

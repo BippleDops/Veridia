@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/shadow-mastiff-alpha-mpmm|Shadow Mastiff Alpha]]
+# [[shadow-mastiff-alpha-mpmm|Shadow Mastiff Alpha]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
@@ -54,9 +54,9 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
@@ -72,21 +72,21 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Bite"
   - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it\
-      \ must succeed on a DC 11 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
-      \ of it for 1 minute. A [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
+      \ of it for 1 minute. A [[conditions#Frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's save is successful or the\
       \ effect ends for it, the target is immune to any shadow mastiff's Terrifying\
       \ Howl for the next 24 hours."
     "name": "Terrifying Howl (Recharge 6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [[/03_Mechanics/CLI/conditions#Invisible|invisible]],\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [[conditions#Invisible|invisible]],\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ attacks, is in bright light, or is [[conditions#Incapacitated|incapacitated]]."
     "name": "Shadow Blend"
 "source":
   - "MPMM"

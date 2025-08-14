@@ -26,13 +26,13 @@ world: Both
 
 | The Gods of Neutrality | Alignment | Suggested Domains | Symbol |
 |------------------------|-----------|-------------------|--------|
-| [[/03_Mechanics/CLI/deities/dragonlance-gilean-phb|Gilean]], god of knowledge | N | Knowledge | Open book |
-| [[/03_Mechanics/CLI/deities/dragonlance-chislev-phb|Chislev]], goddess of nature | N | Nature | Feather |
-| [[/03_Mechanics/CLI/deities/dragonlance-reorx-phb|Reorx]], god of craft | N | Knowledge | Forging hammer |
-| [[/03_Mechanics/CLI/deities/dragonlance-shinare-phb|Shinare]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
-| [[/03_Mechanics/CLI/deities/dragonlance-sirrion-phb|Sirrion]], god of fire and change | N | Nature | Multi-colored fire |
-| [[/03_Mechanics/CLI/deities/dragonlance-zivilyn-phb|Zivilyn]], god of wisdom | N | Knowledge | Great green or gold tree |
-| [[/03_Mechanics/CLI/deities/dragonlance-lunitari-phb|Lunitari]], goddess of neutral magic | N | no clerics | Red circle or sphere |
+| [[dragonlance-gilean-phb|Gilean]], god of knowledge | N | Knowledge | Open book |
+| [[dragonlance-chislev-phb|Chislev]], goddess of nature | N | Nature | Feather |
+| [[dragonlance-reorx-phb|Reorx]], god of craft | N | Knowledge | Forging hammer |
+| [[dragonlance-shinare-phb|Shinare]], goddess of wealth and trade | N | Knowledge, Trickery | Griffon's wing |
+| [[dragonlance-sirrion-phb|Sirrion]], god of fire and change | N | Nature | Multi-colored fire |
+| [[dragonlance-zivilyn-phb|Zivilyn]], god of wisdom | N | Knowledge | Great green or gold tree |
+| [[dragonlance-lunitari-phb|Lunitari]], goddess of neutral magic | N | no clerics | Red circle or sphere |
 ^deities-of-dragonlance-neutral
 
 ## Player-Facing Summary

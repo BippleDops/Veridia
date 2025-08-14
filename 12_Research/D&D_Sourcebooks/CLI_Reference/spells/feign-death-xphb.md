@@ -39,11 +39,11 @@ world: Both
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] and [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] conditions, and its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [[conditions#Blinded|Blinded]] and [[conditions#Incapacitated|Incapacitated]] conditions, and its [[speed-xphb|Speed]] is 0.
 
-The target also has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to all damage except Psychic damage, and it has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition.
+The target also has [[resistance-xphb|Resistance]] to all damage except Psychic damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Poisoned|Poisoned]] condition.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 271*
 

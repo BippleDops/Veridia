@@ -2,6 +2,12 @@
 type: Lore
 status: complete
 tags:
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - campaign
 - complete
 - index
@@ -22,137 +28,156 @@ Central hub for all campaign materials, session records, and cross-campaign conn
 ## Active Campaigns
 
 ### 🌊 Aquabyssos Campaign
+
 **"Parliament of Shadows"** - Underwater political thriller in a drowned civilization
 
 #### Session Records
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]] - Campaign opening, arrival in Abyssos Prime
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]] - Introduction to political intrigue
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]] - Memory-based mysteries begin
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]] - Environmental dangers escalate
-- [[1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]] - Journey to deeper layers
-- [[1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]] - Shadow manipulation revealed
-- [[1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]] - Ancient technologies uncovered
-- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]] - Reality-warping plot threads
-- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]] - Climactic preparations
+
+- [[12_Research/D&D_Statblocks/Aquabyssos - Session 01 - The Drowning Welcome]] - Campaign opening, arrival in Abyssos Prime
+- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]] - Introduction to political intrigue
+- [[12_Research/D&D_References/Aquabyssos - Session 03 - The Gallery Conspiracy]] - Memory-based mysteries begin
+- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]] - Environmental dangers escalate
+- [[12_Research/D&D_References/Aquabyssos - Session 05 - Descent into Darkness]] - Journey to deeper layers
+- [[12_Research/D&D_References/Aquabyssos - Session 06 - The Silhouette Surgeons]] - Shadow manipulation revealed
+- [[12_Research/D&D_References/Aquabyssos - Session 07 - The Resonance Revelation]] - Ancient technologies uncovered
+- [[12_Research/D&D_References/Aquabyssos - Session 08 - The Fractal Conspiracy]] - Reality-warping plot threads
+- [[12_Research/D&D_References/Aquabyssos - Session 09 - The Mourning Strategy]] - Climactic preparations
 - [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]] - Campaign conclusion
 
 #### Key Story Elements
-- **Core Conflict**: [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] - Secret society manipulating memories and shadows
-- **Main Antagonist**: [[02_Worldbuilding/People/Vex Shadowthorn]] - The Silhouette Surgeon Prime
-- **Political Focus**: [[02_Worldbuilding/Places/Parliament of Echoes]] - The governing body and its intrigue
-- **Environmental Challenge**: [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Surviving the depths
+
+- **Core Conflict**: [[12_Research/D&D_References/The Shadow Conspiracy]] - Secret society manipulating memories and shadows
+- **Main Antagonist**: [[12_Research/D&D_References/Vex Shadowthorn]] - The Silhouette Surgeon Prime
+- **Political Focus**: [[12_Research/D&D_References/Parliament of Echoes]] - The governing body and its intrigue
+- **Environmental Challenge**: [[12_Research/D&D_References/Pressure Adaptation System]] - Surviving the depths
 
 ### 🌬️ Aethermoor Campaign
+
 **"The Crystal Festival"** - Sky-realm transformation and cosmic horror
 
 #### Session Records
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]] - Harbor district mysteries
-- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]] - Ancient beacon investigations
-- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]] - Political maneuvering begins
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]] - Economic warfare escalates
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]] - Royal family crisis
-- [[1-Session Journals/Aethermoor - Session 06 The Bloodline Awakens]] - Supernatural powers emerge
-- [[Aethermoor - Session 07 The Festival of Transformation]] - Ritual preparations
+
+- [[12_Research/D&D_References/Aethermoor - Session 01 Blood in the Harbor]] - Harbor district mysteries
+- [[12_Research/D&D_References/Aethermoor - Session 02 The Lighthouse of Storms]] - Ancient beacon investigations
+- [[12_Research/D&D_References/Aethermoor - Session 03 Council of Shadows]] - Political maneuvering begins
+- [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]] - Economic warfare escalates
+- [[12_Research/D&D_Statblocks/Aethermoor - Session 05 The Queens Madness]] - Royal family crisis
+- [[12_Research/D&D_References/Aethermoor - Session 06 The Bloodline Awakens]] - Supernatural powers emerge
+- [[12_Research/D&D_References/Aethermoor - Session 07 The Festival of Transformation]] - Ritual preparations
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]] - Reality blending begins
-- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]] - Sacrificial choices
-- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]] - Cosmic horror revealed
+- [[12_Research/D&D_References/Aethermoor - Session 09 The Price of Unity]] - Sacrificial choices
+- [[12_Research/D&D_References/Aethermoor - Session 10 The Deep Mother Rises]] - Cosmic horror revealed
 
 #### Key Story Elements
-- **Core Conflict**: [[The Crystal Festival]] - Reality-altering ritual with cosmic consequences
-- **Main Antagonist**: [[The Deep Mother]] - Ancient entity seeking manifestation
-- **Political Focus**: [[02_Worldbuilding/Places/The Crystal Wardens]] vs [[02_Worldbuilding/People/The Harmony Collective]] - Factional conflicts
-- **Environmental Challenge**: [[03_Mechanics/Crystal Plague Mechanics]] - Crystallization corruption
+
+- **Core Conflict**: [[12_Research/D&D_References/The Crystal Festival]] - Reality-altering ritual with cosmic consequences
+- **Main Antagonist**: [[12_Research/D&D_References/The Deep Mother]] - Ancient entity seeking manifestation
+- **Political Focus**: [[12_Research/D&D_References/The Crystal Wardens]] vs [[12_Research/D&D_References/The Harmony Collective]] - Factional conflicts
+- **Environmental Challenge**: [[12_Research/D&D_References/Crystal Plague Mechanics]] - Crystallization corruption
 
 ## Cross-Campaign Connections
 
 ### World Transition Guide
-- [[Aethermoor to Aquabyssos Transition Guide]] - Moving between campaigns
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]] - Comprehensive world links
-- [[Comprehensive-World-Connection-Guide]] - Complete transition mechanics
+
+- [[12_Research/D&D_References/Aethermoor to Aquabyssos Transition Guide]] - Moving between campaigns
+- [[12_Research/D&D_References/Aethermoor-Aquabyssos-World-Connection-Guide]] - Comprehensive world links
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]] - Complete transition mechanics
 
 ### Shared Elements
+
 - [[NPC Cross-World Connections]] - Characters appearing in both worlds
-- [[Continental Connections & Story Weave]] - Geographic and narrative links
-- [[02_Worldbuilding/Lore/Merged Reality Zones]] - Areas where both worlds intersect
-- [[United Councils of Both Worlds]] - Joint governance possibilities
+- [[12_Research/D&D_References/Continental Connections & Story Weave]] - Geographic and narrative links
+- [[12_Research/D&D_References/Merged Reality Zones]] - Areas where both worlds intersect
+- [[12_Research/D&D_References/United Councils of Both Worlds]] - Joint governance possibilities
 
 ## Campaign Resources
 
 ### Planning & Management
-- [[Session Planning Guide]] - GM preparation workflows
-- [[02_Worldbuilding/Lore/Campaign Management Guide]] - Long-term campaign organization
-- [[02_Worldbuilding/Lore/Session Planning Toolkit]] - Tools and templates for session prep
-- [[06_GM_Resources/Scene Framing Templates]] - Narrative scene construction
+
+- [[12_Research/D&D_References/Session Planning Guide]] - GM preparation workflows
+- [[12_Research/D&D_References/Campaign Management Guide]] - Long-term campaign organization
+- [[12_Research/D&D_References/Session Planning Toolkit]] - Tools and templates for session prep
+- [[12_Research/D&D_References/Scene Framing Templates]] - Narrative scene construction
 
 ### Player Resources
+
 - [[07_Player_Resources/Session_Summaries/Session Zero Universal Guide]] - Campaign startup procedures
-- [[07_Player_Resources/Player Portal]] - Central player information hub
-- [[07_Player_Resources/World Primer]] - Essential world knowledge for players
-- [[07_Player_Resources/Quick Start Guide]] - New player onboarding
+- [[12_Research/D&D_References/Player Portal]] - Central player information hub
+- [[12_Research/D&D_References/World Primer]] - Essential world knowledge for players
+- [[12_Research/D&D_References/Quick Start Guide]] - New player onboarding
 
 ### Reference Materials
-- [[02_Worldbuilding/Lore/Campaign World]] - Overarching world details
-- [[02_Worldbuilding/Lore/Campaign Path]] - Story progression tracking
-- [[02_Worldbuilding/Lore/Campaign Epilogues]] - Potential campaign endings
-- [[Timeline of the Drowning]] - Historical context for Aquabyssos
-- [[02_Worldbuilding/Lore/Timeline of Crimes]] - Mystery investigation tracking
+
+- [[12_Research/D&D_References/Campaign World]] - Overarching world details
+- [[12_Research/D&D_References/Campaign Path]] - Story progression tracking
+- [[12_Research/D&D_References/Campaign Epilogues]] - Potential campaign endings
+- [[12_Research/D&D_References/Timeline of the Drowning]] - Historical context for Aquabyssos
+- [[12_Research/D&D_References/Timeline of Crimes]] - Mystery investigation tracking
 
 ## Faction & Organization Index
 
 ### Aquabyssos Major Factions
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government body with shadow chamber
-- [[02_Worldbuilding/Groups/Silverscale Consortium]] - Merchant banking empire
-- [[02_Worldbuilding/People/The Shadow Surgeons]] - Memory and shadow manipulators
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]] - Military and security forces
-- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]] - Religious extremist organization
-- [[02_Worldbuilding/Groups/The Void Watchers]] - Scholars of cosmic mysteries
+
+- [[12_Research/D&D_References/Parliament of Echoes]] - Government body with shadow chamber
+- [[12_Research/D&D_References/Silverscale Consortium]] - Merchant banking empire
+- [[12_Research/D&D_References/The Shadow Surgeons]] - Memory and shadow manipulators
+- [[12_Research/D&D_References/The Deepwatch Guard]] - Military and security forces
+- [[12_Research/D&D_References/The Leviathan Cult]] - Religious extremist organization
+- [[12_Research/D&D_References/The Void Watchers]] - Scholars of cosmic mysteries
 
 ### Aethermoor Major Factions
-- [[02_Worldbuilding/Places/The Crystal Wardens]] - Guardians against crystal corruption
-- [[02_Worldbuilding/People/The Harmony Collective]] - Synthesis and balance seekers
-- [[02_Worldbuilding/People/The Verdant Accord]] - Nature preservation alliance
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]] - Royal government and nobility
+
+- [[12_Research/D&D_References/The Crystal Wardens]] - Guardians against crystal corruption
+- [[12_Research/D&D_References/The Harmony Collective]] - Synthesis and balance seekers
+- [[12_Research/D&D_References/The Verdant Accord]] - Nature preservation alliance
+- [[12_Research/D&D_References/The Crown Authority]] - Royal government and nobility
 - [[The Deep Mother Cult]] - Cosmic horror worshippers
 
 ### Shared & Cross-Campaign Organizations
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]] - Historical predecessor civilization
-- [[02_Worldbuilding/Groups/The Convergence Seekers]] - Reality manipulation researchers
-- [[02_Worldbuilding/People/Order of the Shattered Crown]] - Ancient order with dual-world presence
-- [[02_Worldbuilding/Lore/The Seven Betrayers]] - Historical figures affecting both worlds
+
+- [[12_Research/D&D_References/Ancient Mer-Folk Empire]] - Historical predecessor civilization
+- [[12_Research/D&D_References/The Convergence Seekers]] - Reality manipulation researchers
+- [[12_Research/D&D_Statblocks/Order of the Shattered Crown]] - Ancient order with dual-world presence
+- [[12_Research/D&D_References/The Seven Betrayers]] - Historical figures affecting both worlds
 
 ## Quest & Adventure Tracking
 
 ### Major Quest Lines
-- **Aquabyssos**: [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]], [[03_Mechanics/Unite All Factions]], [[02_Worldbuilding/Lore/Save Both Civilizations]]
-- **Aethermoor**: [[Stop the Crystal Festival Ritual]], [[02_Worldbuilding/Lore/Save Queen Seraphina]], [[02_Worldbuilding/Lore/Prevent Resonance Cascade]]
-- **Cross-Campaign**: [[02_Worldbuilding/Lore/Unite the Two Worlds]], [[Healing Two Worlds]], [[The Final Choice]]
+
+- **Aquabyssos**: [[12_Research/D&D_References/Stop the Shadow Harvest]], [[12_Research/D&D_References/Unite All Factions]], [[12_Research/D&D_References/Save Both Civilizations]]
+- **Aethermoor**: [[12_Research/D&D_Statblocks/Stop the Crystal Festival Ritual]], [[12_Research/D&D_References/Save Queen Seraphina]], [[12_Research/D&D_References/Prevent Resonance Cascade]]
+- **Cross-Campaign**: [[12_Research/D&D_References/Unite the Two Worlds]], [[12_Research/D&D_References/Healing Two Worlds]], [[12_Research/D&D_References/The Final Choice]]
 
 ### Adventure Categories
-- **Investigation**: [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]], [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- **Political**: [[03_Mechanics/Faction Standing System]], [[03_Mechanics/Faction Relationship Tracker]]
-- **Environmental**: [[03_Mechanics/Navigate Fractal Reality]], [[02_Worldbuilding/Lore/Merged Zone Navigation]]
-- **Mystical**: [[03_Mechanics/Memory Tide Navigation]], [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+
+- **Investigation**: [[12_Research/D&D_References/Shadow Conspiracy Investigation]], [[12_Research/D&D_References/Evidence Chain Analysis]]
+- **Political**: [[12_Research/D&D_References/Faction Standing System]], [[12_Research/D&D_References/Faction Relationship Tracker]]
+- **Environmental**: [[12_Research/D&D_References/Navigate Fractal Reality]], [[12_Research/D&D_References/Merged Zone Navigation]]
+- **Mystical**: [[12_Research/D&D_References/Memory Tide Navigation]], [[12_Research/D&D_References/Temporal Navigation Hazards]]
 
 ## Mechanical Systems Index
 
 ### Core Campaign Mechanics
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Aquabyssos depth survival
-- [[03_Mechanics/Crystal Plague Mechanics]] - Aethermoor crystallization system
-- [[03_Mechanics/Memory Tide Navigation]] - Aquabyssos temporal mechanics
-- [[03_Mechanics/Dual World Mechanics]] - Cross-campaign interaction rules
+
+- [[12_Research/D&D_References/Pressure Adaptation System]] - Aquabyssos depth survival
+- [[12_Research/D&D_References/Crystal Plague Mechanics]] - Aethermoor crystallization system
+- [[12_Research/D&D_References/Memory Tide Navigation]] - Aquabyssos temporal mechanics
+- [[12_Research/D&D_References/Dual World Mechanics]] - Cross-campaign interaction rules
 
 ### Specialized Systems
-- [[03_Mechanics/Faction Standing System]] - Relationship tracking with organizations
-- [[02_Worldbuilding/Places/Aquabyssos]] - Cosmic horror and madness mechanics
-- [[03_Mechanics/Shadow Separation Mechanics]] - Aquabyssos shadow independence
-- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]] - Aethermoor supernatural abilities
+
+- [[12_Research/D&D_References/Faction Standing System]] - Relationship tracking with organizations
+- [[12_Research/D&D_References/Aquabyssos]] - Cosmic horror and madness mechanics
+- [[12_Research/D&D_References/Shadow Separation Mechanics]] - Aquabyssos shadow independence
+- [[12_Research/D&D_References/Bloodline Awakening Powers]] - Aethermoor supernatural abilities
 
 ---
 
 ## Navigation Links
-- **Back to**: [[Update Indexes]] - Main navigation hub
-- **See Also**: [[Location Index]] - Geographic content organization
-- **Related**: [[02_Worldbuilding/Lore/Quest Index]] - Adventure and objective tracking
+
+- **Back to**: [[12_Research/D&D_References/Update Indexes]] - Main navigation hub
+- **See Also**: [[12_Research/D&D_References/Location Index]] - Geographic content organization
+- **Related**: [[12_Research/D&D_References/Quest Index]] - Adventure and objective tracking
 
 ---
 
@@ -183,3 +208,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Dashboard|Campaign Dashboard]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

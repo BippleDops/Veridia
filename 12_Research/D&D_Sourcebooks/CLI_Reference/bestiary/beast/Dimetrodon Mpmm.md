@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dimetrodon-mpmm-dimetrodon-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/dimetrodon-mpmm|Dimetrodon]]
+# [[dimetrodon-mpmm|Dimetrodon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
@@ -54,7 +54,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""

@@ -9,6 +9,10 @@ obsidianUIMode: preview
 security_level: extreme
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - aquabyssos
 - complete
 - content/item
@@ -28,12 +32,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-living-weapon-the-living-weapon.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-living-weapon-the-living-weapon.svg]]
 
 
 # The Living Weapon
@@ -42,9 +42,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Living Weapon represents one of the most dangerous and mysterious artifacts in [[02_Worldbuilding/Places/Aquabyssos]]'s possession - a sentient armament of unknown origin that exists at the intersection of advanced metallurgy, forbidden magic, and conscious intelligence. Neither purely weapon nor purely creature, it defies conventional classification as it demonstrates characteristics of both artificial construction and biological life.
+The Living Weapon represents one of the most dangerous and mysterious artifacts in [[12_Research/D&D_References/Aquabyssos]]'s possession - a sentient armament of unknown origin that exists at the intersection of advanced metallurgy, forbidden magic, and conscious intelligence. Neither purely weapon nor purely creature, it defies conventional classification as it demonstrates characteristics of both artificial construction and biological life.
 
-Currently secured within the deepest levels of [[02_Worldbuilding/Places/Secret Vault Beneath Throne]], The Living Weapon has served multiple masters throughout its documented history, adapting its form, capabilities, and even personality to complement each wielder. However, its true loyalty remains questionable, as historical records suggest it may have its own agenda that supersedes any temporary alliance with mortal users.
+Currently secured within the deepest levels of [[12_Research/D&D_References/Secret Vault Beneath Throne]], The Living Weapon has served multiple masters throughout its documented history, adapting its form, capabilities, and even personality to complement each wielder. However, its true loyalty remains questionable, as historical records suggest it may have its own agenda that supersedes any temporary alliance with mortal users.
 
 The weapon's intelligence appears to be vast and ancient, possessing knowledge that spans centuries and potentially multiple realms. Its ability to communicate telepathically with its wielder, combined with its adaptive combat capabilities, makes it both an invaluable asset and an existential threat to whoever attempts to master it.
 
@@ -120,7 +120,7 @@ Military researchers propose that The Living Weapon originated in another realm 
 ### Documented Wielders
 
 **General Marcus Tidebringer** (500-487 years ago)
-The first recorded wielder, General Tidebringer led the expansion of Aquabyssos's territorial influence during the [[02_Worldbuilding/Lore/Great Drowning]] aftermath. The weapon appeared as a tactical spear during his campaigns, providing strategic advice that led to decisive victories against surface-dwelling refugees.
+The first recorded wielder, General Tidebringer led the expansion of Aquabyssos's territorial influence during the [[12_Research/D&D_References/Great Drowning]] aftermath. The weapon appeared as a tactical spear during his campaigns, providing strategic advice that led to decisive victories against surface-dwelling refugees.
 
 **Battle Record**: 23 major battles, no defeats
 **Partnership Duration**: 13 years
@@ -152,7 +152,7 @@ Gladiatorial combatant who wielded the weapon in arena competitions and exhibiti
 **Weapon's Assessment**: "Understood that fighting is also performance art"
 
 **General Autumn Bloodcurrent** (89-76 years ago)
-The weapon's most recent wielder, who used it during the [[02_Worldbuilding/Places/Depth Wardens]]' campaign against underground threats. The partnership ended when political considerations required the weapon's return to secure storage.
+The weapon's most recent wielder, who used it during the [[12_Research/D&D_References/Depth Wardens]]' campaign against underground threats. The partnership ended when political considerations required the weapon's return to secure storage.
 
 **Battle Record**: 34 engagements against various subterranean threats
 **Partnership Duration**: 13 years
@@ -315,7 +315,7 @@ Areas where The Living Weapon has seen extensive combat may become permanently a
 
 ### Storage Facility
 
-**Location**: [[02_Worldbuilding/Places/Secret Vault Beneath Throne]] - Level 9 (Extreme Security)
+**Location**: [[12_Research/D&D_References/Secret Vault Beneath Throne]] - Level 9 (Extreme Security)
 **Chamber Designation**: Artifact Containment Unit 7 "The Arsenal"
 **Clearance Required**: Royal authorization plus three department head approvals
 **Access Restrictions**: Maximum 2 hours exposure per month, full medical monitoring required
@@ -336,7 +336,7 @@ Areas where The Living Weapon has seen extensive combat may become permanently a
 
 ### Security Personnel
 
-**Vault Keeper Eternal** - [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+**Vault Keeper Eternal** - [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
 Primary custodian responsible for artifact management and security protocol enforcement. Eternal has maintained this position for over 200 years and possesses unique resistance to the weapon's mental influences.
 
 **Qualifications**: 
@@ -497,22 +497,25 @@ Evidence emerges that The Living Weapon may be connected to or responsible for m
 ## Connections and Cross-References
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]] - Current storage location
-- [[02_Worldbuilding/Lore/The Crystalline Citadel]] - Military command interested in artifact
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Political body with oversight authority
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]] - Repository of related historical documents
+
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]] - Current storage location
+- [[12_Research/D&D_References/The Crystalline Citadel]] - Military command interested in artifact
+- [[12_Research/D&D_References/Parliament of Echoes]] - Political body with oversight authority
+- [[12_Research/D&D_References/The Archive of Unremembered Things]] - Repository of related historical documents
 
 ### Associated Organizations
-- [[02_Worldbuilding/Places/Depth Wardens]] - Military force responsible for national defense
-- [[02_Worldbuilding/Lore/Royal Intelligence Service]] - Intelligence agency monitoring security
-- [[02_Worldbuilding/Groups/Academy of War Science|02 Worldbuilding/Groups/Academy Of War Science]] - Research institution studying military artifacts
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]] - Group potentially interested in weapon's power
+
+- [[12_Research/D&D_References/Depth Wardens]] - Military force responsible for national defense
+- [[12_Research/D&D_References/Royal Intelligence Service]] - Intelligence agency monitoring security
+- [[Academy of War Science|02 Worldbuilding/Groups/Academy Of War Science]] - Research institution studying military artifacts
+- [[12_Research/D&D_References/The Order of the Shattered Crown]] - Group potentially interested in weapon's power
 
 ### Key Figures
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]] - Primary custodian and security specialist
+
+- [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] - Primary custodian and security specialist
 - [[High Warden Solarius Brightforge]] - Military leader interested in deployment possibilities
-- [[02_Worldbuilding/Places/Chancellor Octavius]] - Political official overseeing containment policy
-- [[02_Worldbuilding/Places/Battle Priest Cassius Depthshield]] - Religious authority concerned about moral implications
+- [[12_Research/D&D_References/Chancellor Octavius]] - Political official overseeing containment policy
+- [[12_Research/D&D_References/Battle Priest Cassius Depthshield]] - Religious authority concerned about moral implications
 
 ## Secrets and Mysteries
 
@@ -545,7 +548,7 @@ Similar artifacts may exist in other realms or dimensions, suggesting The Living
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[12_Research/D&D_References/Lumengarde]]
 
 ## Player-Facing Summary
 
@@ -567,11 +570,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[12_Research/D&D_References/The Living Weapon]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
+- [[12_Research/D&D_References/The Archive of Unremembered Things]]
+- [[12_Research/D&D_References/The Order of the Shattered Crown]]

@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Strength  
 - **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except [[/03_Mechanics/CLI/items/club-xphb|Club]], [[/03_Mechanics/CLI/items/greatclub-xphb|Greatclub]], [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], and [[/03_Mechanics/CLI/items/whip-xphb|Whip]]), Medium armor (except [[/03_Mechanics/CLI/items/hide-armor-xphb|Hide]]), Heavy armor, [[/03_Mechanics/CLI/items/ball-bearings-xphb|Ball Bearings]], [[/03_Mechanics/CLI/items/bucket-xphb|Bucket]], [[/03_Mechanics/CLI/items/caltrops-xphb|Caltrops]], [[/03_Mechanics/CLI/items/chain-xphb|Chain]], [[/03_Mechanics/CLI/items/crowbar-xphb|Crowbar]], [[/03_Mechanics/CLI/items/firearm-bullets-10-xphb|Firearm Bullets]], [[/03_Mechanics/CLI/items/grappling-hook-xphb|Grappling Hook]], [[/03_Mechanics/CLI/items/iron-pot-xphb|Iron Pot]], [[/03_Mechanics/CLI/items/iron-spikes-xphb|Iron Spikes]], [[/03_Mechanics/CLI/items/sling-bullets-20-xphb|Sling Bullets]]  
+- **Craft.** Any Melee weapon (except [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], and [[whip-xphb|Whip]]), Medium armor (except [[hide-armor-xphb|Hide]]), Heavy armor, [[ball-bearings-xphb|Ball Bearings]], [[bucket-xphb|Bucket]], [[caltrops-xphb|Caltrops]], [[chain-xphb|Chain]], [[crowbar-xphb|Crowbar]], [[firearm-bullets-10-xphb|Firearm Bullets]], [[grappling-hook-xphb|Grappling Hook]], [[iron-pot-xphb|Iron Pot]], [[iron-spikes-xphb|Iron Spikes]], [[sling-bullets-20-xphb|Sling Bullets]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- session-notes
+- crystal-enhanced
+- aerial
+- aquatic
 - aquabyssos
 - campaign-mechanics
 - complete
@@ -15,7 +19,6 @@ created_by: auto-stub
 created: '2025-08-08'
 updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 # Aethermoor to Aquabyssos Transition Guide
@@ -43,14 +46,17 @@ Regular transition routes now exist at established portal sites, with support in
 ## Cultural Impact
 
 ### Aquabyssos
+
 Underwater citizens view surface-dwellers with mixture of curiosity and concern. Successful integration requires understanding of current-based social hierarchies, pressure-adapted communication methods, and the complex political relationships between various underwater factions. Surface mannerisms often seem crude or aggressive to aquatic sensibilities.
 
 ### Aethermoor
+
 Surface dwellers often struggle with the concept of three-dimensional social movement and the fluid nature of underwater politics. Many find the constant environmental pressure and modified communication methods claustrophobic or overwhelming. Cultural training programs help ease this adjustment process.
 
 ## Mechanics
 
 ### Requirements
+
 **Physical Preparation:**
 - Magical breathing apparatus or transformation
 - Pressure adaptation (gradual or magical)
@@ -70,6 +76,7 @@ Surface dwellers often struggle with the concept of three-dimensional social mov
 - Emergency contact registration
 
 ### Effects
+
 **Immediate (First 24 hours):**
 - Physical disorientation and adaptation stress
 - Communication difficulties
@@ -89,6 +96,7 @@ Surface dwellers often struggle with the concept of three-dimensional social mov
 - Deep psychological adaptation or resistance
 
 ### Duration
+
 - **Emergency transition**: Immediate but highly dangerous
 - **Guided transition**: 3-7 days for basic adaptation
 - **Full integration**: 1-6 months for complete cultural adaptation
@@ -125,11 +133,11 @@ The transition process actually creates temporary psychic links between individu
 
 ## Related Topics
 
-- [[02_Worldbuilding/Lore/Campaign World]]
-- [[02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[02_Worldbuilding/Places/Pressure Tubes]]
-- [[02_Worldbuilding/Lore/Current PC Lead]]
-- [[02_Worldbuilding/Lore/Party Information]]
+- [[12_Research/D&D_References/Campaign World]]
+- [[12_Research/D&D_References/Surface Portal Alpha]]
+- [[12_Research/D&D_References/Pressure Tubes]]
+- [[12_Research/D&D_References/Current PC Lead]]
+- [[12_Research/D&D_References/Party Information]]
 
 ## Campaign Use
 
@@ -138,12 +146,12 @@ Use transitions as opportunities for character development, world-building expos
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Citizens of Meridian]]
-- [[02_Worldbuilding/Lore/Crimson Hand Strike Team]]
-- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
-- [[02_Worldbuilding/Lore/Dock Worker Toms]]
-- [[02_Worldbuilding/Lore/Lamplight Alley]]
-- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[12_Research/D&D_References/Citizens of Meridian]]
+- [[12_Research/D&D_References/Crimson Hand Strike Team]]
+- [[12_Research/D&D_References/Crystal Festival Grounds]]
+- [[12_Research/D&D_References/Dock Worker Toms]]
+- [[12_Research/D&D_References/Lamplight Alley]]
+- [[12_Research/D&D_References/Session 0 - Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -161,4 +169,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[12_Research/D&D_References/Session 0 - Aquabyssos]]

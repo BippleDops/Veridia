@@ -15,11 +15,6 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
-
-
-
-
-
 ## Overview
 
 TODO
@@ -59,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Balance Keeper]]
+- [[The Balance Keeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [[The Void Watchers]]

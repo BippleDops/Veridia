@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-forge-master-korax-hammerdeep-forge-master-korax-hammerdeep.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Forge Master Korax Hammerdeep]]
+- [[12_Research/D&D_References/Forge Master Korax Hammerdeep]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[12_Research/D&D_Statblocks/Forge of War]]

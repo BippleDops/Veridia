@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aerial
 - both
 - complete
 - content/lore
@@ -14,11 +15,9 @@ world: Both
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Sky Burial Traditions]]
+- [[12_Research/D&D_References/Sky Burial Traditions]]
 
 ## Player-Facing Summary
 

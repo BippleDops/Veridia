@@ -25,12 +25,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-allosaurus-xmm-allosaurus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/allosaurus-xmm|Allosaurus]]
+# [[allosaurus-xmm|Allosaurus]]
 *Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Allosaurus (XMM)"
@@ -51,7 +51,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "5"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
@@ -61,7 +61,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage.\
       \ If the target is a Large or smaller creature and the allosaurus moved 30+\
-      \ feet straight toward it immediately before the hit, the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ feet straight toward it immediately before the hit, the target has the [[conditions#Prone|Prone]]\
       \ condition, and the allosaurus can make one Bite attack against it."
     "name": "Claws"
 "source":

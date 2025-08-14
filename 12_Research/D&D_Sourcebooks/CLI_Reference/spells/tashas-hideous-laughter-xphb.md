@@ -37,13 +37,13 @@ world: Both
 - **Components:** V, S, M (a tart and a feather)
 - **Duration:** Concentration, up to 1 minute
 
-One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] and [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition on itself.
+One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the [[conditions#Prone|Prone]] and [[conditions#Incapacitated|Incapacitated]] conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [[conditions#Prone|Prone]] condition on itself.
 
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on the save if the save is triggered by damage. On a successful save, the spell ends.
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has [[advantage-xphb|Advantage]] on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Hideous Laughter") and the Free Rules (2024)*
 

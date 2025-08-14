@@ -20,9 +20,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg]]
 
 
 # The Unremembered Parliament
@@ -167,6 +165,6 @@ Legends speak of The Unremembered Parliament as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Unremembered Parliament]]
+- [[The Unremembered Parliament]]
 
 <!-- enriched: true -->

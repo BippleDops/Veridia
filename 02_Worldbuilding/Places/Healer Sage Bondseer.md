@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-healer-sage-bondseer-healer-sage-bondseer.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-healer-sage-bondseer-healer-sage-bondseer.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[12_Research/D&D_References/Lumengarde]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[12_Research/D&D_References/Lumengarde]]
 
 ## Player-Facing Summary
 

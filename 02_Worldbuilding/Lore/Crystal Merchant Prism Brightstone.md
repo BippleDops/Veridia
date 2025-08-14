@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - commercial-district
 - complete
@@ -13,11 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.437501+00:00'
 world: Aethermoor
 ---
-
-
-
-
-
 
 
 ## Overview
@@ -46,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

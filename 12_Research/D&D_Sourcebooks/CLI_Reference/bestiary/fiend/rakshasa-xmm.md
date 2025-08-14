@@ -23,7 +23,7 @@ updated: '2025-08-12T23:37:35.488841'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\fiend/rakshasa-xmm|Rakshasa]]
+# [[rakshasa-xmm|Rakshasa]]
 *Source: Monster Manual (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Rakshasa
@@ -57,15 +57,15 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
   - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+10"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "damage_vulnerabilities": "piercing damage from weapons wielded by creatures under\
   \ the effect of a Bless spell"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "13"
@@ -76,7 +76,7 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
       \ or detect its thoughts, creature type, or alignment."
     "name": "Greater Magic Resistance"
   - "desc": "If the rakshasa dies outside the Nine Hells, its body turns to ichor,\
-      \ and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Fiendish Restoration"
 "actions":
@@ -84,23 +84,23 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
       \ plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed.\
-      \ While cursed, the target gains no benefit from finishing a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]]\
-      \ or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]."
+      \ While cursed, the target gains no benefit from finishing a [[short-rest-xphb|Short]]\
+      \ or [[long-rest-xphb|Long Rest]]."
     "name": "Cursed Touch"
-  - "desc": "Wisdom Saving Throw: DC 18, each enemy in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "Wisdom Saving Throw: DC 18, each enemy in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the\
-      \ target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] and\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] conditions until\
+      \ target has the [[conditions#Frightened|Frightened]] and\
+      \ [[conditions#Incapacitated|Incapacitated]] conditions until\
       \ the start of the rakshasa's next turn."
     "name": "Baleful Command (Recharge 5-6)"
   - "desc": "The rakshasa casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/disguise-self-xphb|Disguise\
-      \ Self]], [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]],\
-      \ [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]]\n\n1/day\
-      \ each: [[/03_Mechanics/CLI/spells/fly-xphb|Fly]], [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]],\
-      \ [[/03_Mechanics/CLI/spells/major-image-xphb|Major Image]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]]"
+      \nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\
+      \ Self]], [[mage-hand-xphb|Mage Hand]],\
+      \ [[minor-illusion-xphb|Minor Illusion]]\n\n1/day\
+      \ each: [[fly-xphb|Fly]], [[invisibility-xphb|Invisibility]],\
+      \ [[major-image-xphb|Major Image]], [[plane-shift-xphb|Plane Shift]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

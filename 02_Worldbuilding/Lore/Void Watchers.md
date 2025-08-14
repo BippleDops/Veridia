@@ -15,11 +15,8 @@ world: Aethermoor
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg]]
 
 
 ## Overview
@@ -45,3 +42,7 @@ Legends speak of Void Watchers as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

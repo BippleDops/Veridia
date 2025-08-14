@@ -118,19 +118,19 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-buying-a-magic-item-xge|Buying a Magic Item]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-carousing-xge|Carousing]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-crafting-an-item-xge|Crafting an Item]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-crime-xge|Crime]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-gambling-xge|Gambling]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-pit-fighting-xge|Pit Fighting]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-relaxation-xge|Relaxation]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-religious-service-xge|Religious Service]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-research-xge|Research]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-scribing-a-spell-scroll-xge|Scribing a Spell Scroll]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-selling-a-magic-item-xge|Selling a Magic Item]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-training-xge|Training]]  
-- [[/03_Mechanics/CLI/variant-rules/downtime-activity-work-xge|Work]]
+- [[downtime-activity-buying-a-magic-item-xge|Buying a Magic Item]]  
+- [[downtime-activity-carousing-xge|Carousing]]  
+- [[downtime-activity-crafting-an-item-xge|Crafting an Item]]  
+- [[downtime-activity-crime-xge|Crime]]  
+- [[downtime-activity-gambling-xge|Gambling]]  
+- [[downtime-activity-pit-fighting-xge|Pit Fighting]]  
+- [[downtime-activity-relaxation-xge|Relaxation]]  
+- [[downtime-activity-religious-service-xge|Religious Service]]  
+- [[downtime-activity-research-xge|Research]]  
+- [[downtime-activity-scribing-a-spell-scroll-xge|Scribing a Spell Scroll]]  
+- [[downtime-activity-selling-a-magic-item-xge|Selling a Magic Item]]  
+- [[downtime-activity-training-xge|Training]]  
+- [[downtime-activity-work-xge|Work]]
 
 ## Player-Facing Summary
 

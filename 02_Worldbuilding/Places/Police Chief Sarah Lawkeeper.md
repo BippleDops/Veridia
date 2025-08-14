@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-police-chief-sarah-lawkeeper-police-chief-sarah-lawkeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-police-chief-sarah-lawkeeper-police-chief-sarah-lawkeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Police Chief Sarah Lawkeeper]]
+- [[12_Research/D&D_References/Police Chief Sarah Lawkeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[12_Research/D&D_References/Bexley]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

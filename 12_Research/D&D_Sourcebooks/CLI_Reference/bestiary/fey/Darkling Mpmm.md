@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkling-mpmm-darkling-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/darkling-mpmm|Darkling]]
+# [[darkling-mpmm|Darkling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -46,7 +46,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[[/03_Mechanics/CLI/items/leather-armor-xphb|leather armor]]"
+"ac_class": "[[leather-armor-xphb|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "3"
@@ -59,13 +59,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
@@ -74,11 +74,11 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
       \ radius as its body and possessions, other than metal or magic objects, burn\
       \ to ash. Any creature in that area must succeed on a DC 10 Constitution saving\
-      \ throw or be [[/03_Mechanics/CLI/conditions#Blinded|blinded]] until the end\
+      \ throw or be [[conditions#Blinded|blinded]] until the end\
       \ of its next turn."
     "name": "Death Flash"
   - "desc": "While in bright light, the darkling has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+      \ as well as on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on sight."
     "name": "Light Sensitivity"
 "actions":

@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-whisper-island-docks-v1-whisper-island-docks.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-whisper-island-docks-v1-whisper-island-docks.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[Aethermoor]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Aethermoor]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

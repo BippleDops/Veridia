@@ -2,6 +2,9 @@
 type: Lore
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aethermoor-aquabyssos
 - both worlds
 - both-worlds
@@ -32,27 +35,25 @@ updated: '2025-08-13T01:18:34.861373+00:00'
 ---
 
 
-
-
-
-
 # The Final Choice
+
 *The Ultimate Conspiracy That Determines the Fate of Two Worlds*
 
 > *"In the end, all conspiracies converge into a single moment of ultimate decision. Every hidden plot, every secret organization, every whispered plan has been building toward this: The Final Choice. Will we preserve what remains, transform everything, or risk total annihilation to create something entirely new? The answer lies not with gods or kings, but with those who have seen the truth behind all the lies."*
-> — [[02_Worldbuilding/Places/Aquabyssos]], The Hidden Keeper of Final Secrets
+> — [[12_Research/D&D_References/Aquabyssos]], The Hidden Keeper of Final Secrets
 
 ## Overview
 
-The Final Choice represents the culmination of every conspiracy, secret organization, and hidden agenda operating within [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. This is not merely another plot or scheme, but the ultimate convergence point where all previous conspiracies reveal themselves as interconnected elements of a singular, reality-defining decision that must be made to prevent the total collapse of both worlds.
+The Final Choice represents the culmination of every conspiracy, secret organization, and hidden agenda operating within [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]. This is not merely another plot or scheme, but the ultimate convergence point where all previous conspiracies reveal themselves as interconnected elements of a singular, reality-defining decision that must be made to prevent the total collapse of both worlds.
 
-Unlike conventional conspiracies driven by greed, power, or revenge, The Final Choice conspiracy is orchestrated by entities that transcend normal mortal concerns. The true conspirators include [[The Deep Mother]], ancient remnants of [[02_Worldbuilding/Lore/The Seven Betrayers]], corrupted aspects of [[02_Worldbuilding/Lore/The Silverscale Conspiracy]], and even more alien intelligences that exist between dimensions. Their goal is not to control reality, but to fundamentally rewrite the rules that govern existence itself.
+Unlike conventional conspiracies driven by greed, power, or revenge, The Final Choice conspiracy is orchestrated by entities that transcend normal mortal concerns. The true conspirators include [[12_Research/D&D_References/The Deep Mother]], ancient remnants of [[12_Research/D&D_References/The Seven Betrayers]], corrupted aspects of [[12_Research/D&D_References/The Silverscale Conspiracy]], and even more alien intelligences that exist between dimensions. Their goal is not to control reality, but to fundamentally rewrite the rules that govern existence itself.
 
-The conspiracy operates on multiple temporal levels, with some agents working across centuries to position key individuals and events, while others manipulate moment-to-moment decisions to ensure that when The Final Choice arrives, only specific options remain available. The scope of this manipulation encompasses everything from the fall of [[02_Worldbuilding/People/God-King Aetheron]] to the recent acceleration of [[The Great Crystallization]], creating a web of causality so complex that even the conspirators themselves cannot fully predict all possible outcomes.
+The conspiracy operates on multiple temporal levels, with some agents working across centuries to position key individuals and events, while others manipulate moment-to-moment decisions to ensure that when The Final Choice arrives, only specific options remain available. The scope of this manipulation encompasses everything from the fall of [[12_Research/D&D_References/God-King Aetheron]] to the recent acceleration of [[12_Research/D&D_References/The Great Crystallization]], creating a web of causality so complex that even the conspirators themselves cannot fully predict all possible outcomes.
 
 ## Historical Context and Origins
 
 ### The Primordial Compact
+
 **Time Period: Before Recorded History**
 
 The conspiracy behind The Final Choice originated with the **Primordial Compact**, an agreement made between entities that predate both civilizations. These beings - which include primordial ocean spirits, crystalline consciousness fragments, and entities from parallel realities - recognized that the existence of two connected but separate worlds created an unstable configuration that would eventually collapse.
@@ -67,21 +68,23 @@ The conspiracy behind The Final Choice originated with the **Primordial Compact*
 These entities agreed that a controlled collapse and reconstruction of reality would be preferable to the chaotic dissolution that would occur if the world-strain continued unchecked. They established the framework for The Final Choice - a moment when mortal agents, armed with sufficient knowledge and power, would be able to choose between several carefully prepared options for reality's future.
 
 ### The Seeding Phase
+
 **Years -2000 to -500 BGC (Before Great Crystallization)**
 
 The conspiracy's first phase involved planting the seeds of future events throughout both civilizations. This required subtle manipulation of cultural development, technological advancement, and spiritual evolution to ensure that both worlds would develop the necessary infrastructure to support The Final Choice when the time came.
 
 **Key Seeding Operations:**
-- **Divine Authority Establishment**: Ensuring that [[02_Worldbuilding/Lore/Aetheron]] achieved true godhood to create the necessary divine power source
+- **Divine Authority Establishment**: Ensuring that [[12_Research/D&D_References/Aetheron]] achieved true godhood to create the necessary divine power source
 - **Ocean Depth Colonization**: Guiding surface dwellers to establish underwater civilizations
 - **Crystal Integration**: Introducing crystal-based magic systems that could later be weaponized
 - **Bloodline Cultivation**: Breeding programs to create individuals with specific supernatural capabilities
 - **Knowledge Preservation**: Establishing archives and memory systems to maintain crucial information across generations
 
 ### The Betrayal Catalyst
+
 **Year 1 BGC - The Shattering of the Crown**
 
-The conspiracy directly orchestrated [[02_Worldbuilding/Lore/The Seven Betrayers]]' attempt to steal [[02_Worldbuilding/Lore/The Crown of Stars]], knowing that their failure would trigger [[The Great Crystallization]]. This event was not an unexpected disaster, but a carefully planned catalyst designed to accelerate the timeline toward The Final Choice.
+The conspiracy directly orchestrated [[12_Research/D&D_References/The Seven Betrayers]]' attempt to steal [[12_Research/D&D_References/The Crown of Stars]], knowing that their failure would trigger [[12_Research/D&D_References/The Great Crystallization]]. This event was not an unexpected disaster, but a carefully planned catalyst designed to accelerate the timeline toward The Final Choice.
 
 **Hidden Manipulation:**
 - **Marcus the Just**: His obsession with perfect order was artificially enhanced by void entity whispers
@@ -97,27 +100,29 @@ The betrayers believed they were acting on their own ambitions, but every step o
 ## The Modern Acceleration Phase
 
 ### Post-Crystallization Manipulation
+
 **Years 1-300 GC**
 
-Following [[The Great Crystallization]], the conspiracy worked to establish the power structures and conflicts that would eventually lead to The Final Choice. This involved creating seemingly opposed factions that would unknowingly work toward the same ultimate goal.
+Following [[12_Research/D&D_References/The Great Crystallization]], the conspiracy worked to establish the power structures and conflicts that would eventually lead to The Final Choice. This involved creating seemingly opposed factions that would unknowingly work toward the same ultimate goal.
 
 **Faction Development:**
-- **[[02_Worldbuilding/Lore/The Silverscale Conspiracy]]**: Economic control network established as surface-level conspiracy to distract from deeper plans
-- **[[02_Worldbuilding/People/The Shadow Surgeons]]**: Medical horror organization created to develop reality-alteration techniques
-- **[[02_Worldbuilding/Places/The Crystal Wardens]]**: Guardians positioned to protect crucial crystallization sites
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Governmental structure designed to maintain controlled chaos
-- **[[02_Worldbuilding/People/The Pressure Pirates]]**: Maritime faction used to control transportation between key locations
+- **[[12_Research/D&D_References/The Silverscale Conspiracy]]**: Economic control network established as surface-level conspiracy to distract from deeper plans
+- **[[12_Research/D&D_References/The Shadow Surgeons]]**: Medical horror organization created to develop reality-alteration techniques
+- **[[12_Research/D&D_References/The Crystal Wardens]]**: Guardians positioned to protect crucial crystallization sites
+- **[[12_Research/D&D_References/Parliament of Echoes]]**: Governmental structure designed to maintain controlled chaos
+- **[[12_Research/D&D_References/The Pressure Pirates]]**: Maritime faction used to control transportation between key locations
 
 Each of these organizations believes they are pursuing their own agenda, but their activities have been subtly guided to create the exact conditions required for The Final Choice moment.
 
 ### The Convergence Acceleration
+
 **Years 450-500 GC (Current Period)**
 
 Recent events represent the conspiracy's final phase, where centuries of preparation converge into a rapidly accelerating timeline leading toward The Final Choice. Multiple crisis points are being triggered simultaneously to force the decision within a narrow temporal window.
 
 **Current Accelerating Factors:**
-- **[[The Seven Shards]]**: All fragments of the original crown are becoming active simultaneously
-- **Reality Merge Zones**: [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] are experiencing temporal/spatial overlaps
+- **[[12_Research/D&D_References/The Seven Shards]]**: All fragments of the original crown are becoming active simultaneously
+- **Reality Merge Zones**: [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] are experiencing temporal/spatial overlaps
 - **Deep Mother Rising**: Ancient consciousness is approaching surface reality from abyssal depths
 - **Crystal Saturation**: Magical crystallization is reaching critical mass across both worlds
 - **Bloodline Convergence**: Descendants of all major supernatural bloodlines are alive and active
@@ -126,19 +131,20 @@ Recent events represent the conspiracy's final phase, where centuries of prepara
 ## The Nature of The Final Choice
 
 ### The Three Paths
+
 **The Fundamental Options**
 
 When The Final Choice moment arrives, those with the power to decide will face three primary paths, each representing a different approach to resolving the reality crisis:
 
 **Path of Preservation (The Conservative Choice):**
-- Maintain the current separation between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
-- Repair the damage caused by [[The Great Crystallization]] using conventional methods
+- Maintain the current separation between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]
+- Repair the damage caused by [[12_Research/D&D_References/The Great Crystallization]] using conventional methods
 - Accept the gradual decline and eventual collapse of both civilizations
 - Preserve existing power structures and social systems
 - Requires sacrifice of supernatural advancement but maintains stability
 
 **Path of Transformation (The Progressive Choice):**
-- Merge [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] into a unified reality
+- Merge [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] into a unified reality
 - Integrate crystal magic, ocean magic, and divine power into a new magical system
 - Create hybrid civilization combining the best aspects of both worlds
 - Requires abandoning old identities but offers unprecedented growth potential
@@ -152,6 +158,7 @@ When The Final Choice moment arrives, those with the power to decide will face t
 - Offers unlimited potential but with enormous risks and no guarantee of success
 
 ### The Hidden Fourth Path
+
 **Path of Rejection (The Anarchist Choice):**
 
 The conspiracy has deliberately concealed a fourth option that becomes available only to those who discover the true nature of the manipulation behind The Final Choice itself. This path involves:
@@ -167,55 +174,56 @@ This path is the most dangerous because it involves fighting against entities th
 ## The Conspiracy's True Agents
 
 ### The Convergence Council
+
 **Hidden Leadership Structure**
 
 The conspiracy is directed by the **Convergence Council**, a collective of entities that exist partially outside normal spacetime and can coordinate activities across vast temporal distances. Council members include:
 
-**[[The Deep Mother]] - The Oceanic Consciousness:**
+**[[12_Research/D&D_References/The Deep Mother]] - The Oceanic Consciousness:**
 - Represents primal chaos and creative destruction
 - Seeks transformation through merger with surface reality
 - Controls cultist networks and sea-based supernatural phenomena
 - Offers path leading toward chaotic but vibrant future
 
-**[[02_Worldbuilding/People/The Crimson Sage]] (Fallen Aetheron) - The Divine Remnant:**
+**[[12_Research/D&D_Statblocks/The Crimson Sage]] (Fallen Aetheron) - The Divine Remnant:**
 - Bitter fragments of divine consciousness seeking restoration or revenge
 - Manipulates events to recreate conditions for divine ascension
 - Controls networks of former believers and power-seeking individuals
 - Offers path leading toward renewed divine hierarchy
 
-**[[02_Worldbuilding/Places/Aquabyssos]] - The Memory Keeper:**
+**[[12_Research/D&D_References/Aquabyssos]] - The Memory Keeper:**
 - Custodian of dangerous knowledge that threatens reality stability
 - Preserves information about the conspiracy while serving its goals
 - Controls academic institutions and knowledge-hoarding organizations
 - Offers path leading toward enlightened but potentially stagnant future
 
 **The Unnamed Presence - The Void Between:**
-- Entity existing in spaces between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- Entity existing in spaces between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]]
 - Seeks to expand these liminal spaces until they consume both realities
 - Controls shadow organizations and individuals who exist "between" normal categories
 - Offers path leading toward dissolution and rebirth in unknown forms
 
 ### Mid-Level Operatives
 
-**[[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Economic Control Agent:**
+**[[12_Research/D&D_References/Director Hadrian Silverscale]] - Economic Control Agent:**
 - Believes he is pursuing personal wealth and power
 - Actually manipulated to create economic conditions necessary for Choice moment
 - His banking network provides infrastructure for resource mobilization
 - Unknowingly positions financial assets needed for any of the three paths
 
-**[[02_Worldbuilding/People/High Inquisitor Maltheos]] - Order Enforcement Agent:**
+**[[12_Research/D&D_References/High Inquisitor Maltheos]] - Order Enforcement Agent:**
 - Thinks he is preserving traditional law and social stability
 - Actually eliminating individuals who might discover the conspiracy prematurely
 - His legal network creates the controlled chaos needed for crisis escalation
 - Unknowingly removes obstacles to the conspiracy's timeline
 
-**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Cultural Manipulation Agent:**
+**[[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Cultural Manipulation Agent:**
 - Believes she is preserving beauty and artistic achievement
 - Actually reshaping cultural values to accept radical change
 - Her aesthetic influence prepares population psychologically for transformation
 - Unknowingly creates the cultural framework for post-Choice society
 
-**[[02_Worldbuilding/People/The Shadow Surgeons]] Leadership - Reality Alteration Agents:**
+**[[12_Research/D&D_References/The Shadow Surgeons]] Leadership - Reality Alteration Agents:**
 - Think they are pursuing medical advancement through extreme methods
 - Actually developing techniques for physically implementing Choice consequences
 - Their surgical procedures create the biological framework for transformation
@@ -317,7 +325,7 @@ The conspiracy has built multiple safeguards to prevent temporal paradoxes from 
 As The Final Choice approaches, both worlds are experiencing environmental changes that reflect the underlying reality strain:
 
 **Crystal Growth Acceleration**: Existing crystalline formations are growing faster and developing new properties
-**Tidal Synchronization**: Ocean patterns in [[02_Worldbuilding/Places/Aquabyssos]] are matching weather patterns in [[02_Worldbuilding/Places/Aethermoor]]
+**Tidal Synchronization**: Ocean patterns in [[12_Research/D&D_References/Aquabyssos]] are matching weather patterns in [[12_Research/D&D_References/Aethermoor]]
 **Gravity Fluctuations**: Areas where the worlds are close to merging experience variable gravitational fields
 **Light Spectrum Shifts**: Colors are becoming more vivid and new hues are appearing at the edges of human perception
 **Time Dilation Zones**: Some areas are experiencing faster or slower temporal flow than normal
@@ -371,7 +379,7 @@ Perhaps most importantly, The Final Choice requires moral clarity about:
 
 ### Early Campaign Discovery
 
-**The Memory Merchant's Warning**: A [[Memory Trader]] approaches the characters with fragmented memories that don't belong to any living person - memories of meetings that never happened and plans that couldn't exist. Investigation reveals these are leaked memories from Convergence Council planning sessions.
+**The Memory Merchant's Warning**: A [[12_Research/D&D_References/Memory Trader]] approaches the characters with fragmented memories that don't belong to any living person - memories of meetings that never happened and plans that couldn't exist. Investigation reveals these are leaked memories from Convergence Council planning sessions.
 
 **The Synchronized Coincidence**: Characters notice that unrelated events in their lives are happening in perfect synchronization - a coincidence pattern so complex it suggests deliberate orchestration. Following the pattern leads them to discover other people experiencing the same phenomenon.
 
@@ -396,45 +404,49 @@ Perhaps most importantly, The Final Choice requires moral clarity about:
 ## Connected Topics and Cross-References
 
 ### Primary Conspiracy Elements
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]] - Surface-level economic conspiracy masking deeper manipulations
-- [[02_Worldbuilding/Lore/The Seven Betrayers]] - Historical catalyst orchestrated by the true conspiracy
-- [[The Deep Mother]] - Primary entity driving oceanic transformation path
-- [[The Great Crystallization]] - Artificial magical crisis created to accelerate timeline
+
+- [[12_Research/D&D_References/The Silverscale Conspiracy]] - Surface-level economic conspiracy masking deeper manipulations
+- [[12_Research/D&D_References/The Seven Betrayers]] - Historical catalyst orchestrated by the true conspiracy
+- [[12_Research/D&D_References/The Deep Mother]] - Primary entity driving oceanic transformation path
+- [[12_Research/D&D_References/The Great Crystallization]] - Artificial magical crisis created to accelerate timeline
 
 ### Key Locations
-- [[The Convergence Point]] - Physical location where The Final Choice will be made
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Governmental structure designed to enable controlled chaos
-- [[02_Worldbuilding/Lore/The Forgotten Archive]] - Repository of knowledge about the conspiracy's history
-- [[Silverscale Emergency Bunker]] - Fallback location for conspiracy coordination
+
+- [[12_Research/D&D_References/The Convergence Point]] - Physical location where The Final Choice will be made
+- [[12_Research/D&D_References/Parliament of Echoes]] - Governmental structure designed to enable controlled chaos
+- [[12_Research/D&D_Statblocks/The Forgotten Archive]] - Repository of knowledge about the conspiracy's history
+- [[12_Research/D&D_References/Silverscale Emergency Bunker]] - Fallback location for conspiracy coordination
 
 ### Important Figures
-- [[02_Worldbuilding/Places/Aquabyssos]] - Keeper of Final Choice knowledge and conspiracy historian
-- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Economic control agent unknowingly serving larger plan
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Cultural manipulation agent preparing population for change
-- [[02_Worldbuilding/People/The Crimson Sage]] - Divine remnant seeking restoration or revenge through Choice outcome
+
+- [[12_Research/D&D_References/Aquabyssos]] - Keeper of Final Choice knowledge and conspiracy historian
+- [[12_Research/D&D_References/Director Hadrian Silverscale]] - Economic control agent unknowingly serving larger plan
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Cultural manipulation agent preparing population for change
+- [[12_Research/D&D_Statblocks/The Crimson Sage]] - Divine remnant seeking restoration or revenge through Choice outcome
 
 ### Mechanical Systems
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]] - Investigation methods for discovering conspiracy elements
-- [[02_Worldbuilding/Lore/Memory Alteration Consequences]] - Effects of information manipulation on individual psychology
-- [[02_Worldbuilding/Lore/Reality Merge Zones]] - Areas where Choice implementation is already beginning
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]] - Dangers of operating within the conspiracy's timeline manipulation
+
+- [[12_Research/D&D_References/Evidence Chain Analysis]] - Investigation methods for discovering conspiracy elements
+- [[12_Research/D&D_References/Memory Alteration Consequences]] - Effects of information manipulation on individual psychology
+- [[12_Research/D&D_References/Reality Merge Zones]] - Areas where Choice implementation is already beginning
+- [[12_Research/D&D_References/Temporal Navigation Hazards]] - Dangers of operating within the conspiracy's timeline manipulation
 
 ---
 
 *"Every conspiracy, every secret, every hidden truth has been building toward this moment. The Final Choice is not just about the future of two worlds - it's about whether any future is worth preserving, whether any truth is worth knowing, whether any choice is worth making. In the end, we discover that the greatest conspiracy was convincing us that someone else would decide for us."*
 
-*- Final entry, [[02_Worldbuilding/Lore/Investigation Log INV-000]], The Choice Approaches*
+*- Final entry, [[12_Research/D&D_References/Investigation Log INV-000]], The Choice Approaches*
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Echo of the Mother]]
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[02_Worldbuilding/Lore/Fear Farms]]
-- [[The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Recursion Oracle]]
-- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[12_Research/D&D_References/Echo of the Mother]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Evidence Types Guide]]
+- [[12_Research/D&D_References/Fear Farms]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Recursion Oracle]]
+- [[12_Research/D&D_References/Timeline of Crimes]]
 
 ## Player-Facing Summary
 
@@ -458,20 +470,28 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[Silverscale Emergency Bunker]]
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
-- [[02_Worldbuilding/Lore/The Crown of Stars]]
-- [[The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/The Crimson Sage]]
-- [[02_Worldbuilding/People/The Shadow Surgeons]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+- [[12_Research/D&D_References/Aetheron]]
+- [[12_Research/D&D_References/Memory Alteration Consequences]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Silverscale Emergency Bunker]]
+- [[12_Research/D&D_References/Temporal Navigation Hazards]]
+- [[12_Research/D&D_References/The Crown of Stars]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Seven Betrayers]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
+- [[12_Research/D&D_Statblocks/The Crimson Sage]]
+- [[12_Research/D&D_References/The Shadow Surgeons]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/The Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

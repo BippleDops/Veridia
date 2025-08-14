@@ -27,14 +27,9 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
-
 # The Singing Shadows
 
-![[04_Resources/Assets/Art/Places/The_Singing_Shadows.png|The Singing Shadows Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/Places/The_Singing_Shadows.png|The Singing Shadows Portrait]]
 
 ## Overview
 The Singing Shadows is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
@@ -55,9 +50,9 @@ The Singing Shadows is a living crossroads where memory-currents and trade flows
 - Rewards: Faction favor notes, tariff keys, market scrip worth 2d10×10 gp in local value.
 
 ## Threads to the Main Campaign
-- Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- An information broker with ties to [[02_Worldbuilding/People/Vex Shadowthorn]] trades memories for favors.
+- Archivists claim a ledger fragment pointing toward [[The Sunken Library of Thalassius]].
+- A clandestine auction circles artifacts tied to [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
+- An information broker with ties to [[Vex Shadowthorn]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
 - Buy the schedule: Secure the Pressure Gate manifests; even on failure, you obtain a partial list that points to a decoy shipment and fresh leads.
@@ -65,9 +60,9 @@ The Singing Shadows is a living crossroads where memory-currents and trade flows
 - Formal petition: Argue precedent at the Quiet Chapel; on a miss, the judge imposes a bond that grants limited passage and a clock to pay it back.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[The Sunken Library of Thalassius]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -92,4 +87,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[Secret Vault Beneath Throne]]

@@ -26,9 +26,9 @@ world: Both
 
 | Degree | Benefit to Target | Offered By... |
 |--------|-------------------|---------------|
-| [[/03_Mechanics/CLI/variant-rules/cover-xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
-| [[/03_Mechanics/CLI/variant-rules/cover-xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
-| [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
+| [[cover-xphb|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [[cover-xphb|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [[cover-xphb|Total]] | Can't be targeted directly | An object that covers the whole target |
 ^cover
 
 ## Player-Facing Summary

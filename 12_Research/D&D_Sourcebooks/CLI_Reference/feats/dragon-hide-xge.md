@@ -20,7 +20,7 @@ world: Both
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/races/dragonborn-xphb|Dragonborn]]
+**Prerequisite**: [[dragonborn-xphb|Dragonborn]]
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

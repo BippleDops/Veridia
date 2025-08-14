@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strixhaven-campus-guide-scc-strixhaven-campus-guide-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/strixhaven-campus-guide-scc|Strixhaven Campus Guide]]
+# [[strixhaven-campus-guide-scc|Strixhaven Campus Guide]]
 *Source: Strixhaven: A Curriculum of Chaos p. 217*  
 
 With cheerful dispositions and a knack for walking backward, Strixhaven campus guides lead gaggles of prospective students on tours. The guides' gold and silver chassis are built in shapes reminiscent of the star arches surrounding Strixhaven. Embedded in their chests are holographic maps of the university's campuses, which the guides use to provide directions. However, it's rare for a campus guide to need its own maps, as these gregarious automatons have a gift for finding things on campus, often popping up at the most inopportune times.
@@ -50,14 +50,14 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 11"
 "languages": "Common plus any three languages"
 "cr": "1"
@@ -78,11 +78,11 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
       \ + 2) bludgeoning damage."
     "name": "Slam"
   - "desc": "Each creature of the guide's choice that is within 30 feet of the guide\
-      \ must succeed on a DC 11 Wisdom saving throw or be magically [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
-      \ by the guide for 1 hour.\n\nA [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ must succeed on a DC 11 Wisdom saving throw or be magically [[conditions#Charmed|charmed]]\
+      \ by the guide for 1 hour.\n\nA [[conditions#Charmed|charmed]]\
       \ target must move on its turn toward the guide, trying to get within 5 feet\
       \ of the guide. The target doesn't move into obviously dangerous ground, such\
-      \ as a fire or a pit. Whenever the [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
+      \ as a fire or a pit. Whenever the [[conditions#Charmed|charmed]]\
       \ target takes damage, it can repeat the saving throw, ending the effect on\
       \ itself on a success.\n\nA target that successfully saves is immune to any\
       \ guide's Smile and Wave ability for the next 24 hours."

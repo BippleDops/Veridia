@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-deepest-current-quest-the-deepest-current.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-deepest-current-quest-the-deepest-current.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Scale-Walker]]
+- [[Captain Scale-Walker]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Scale-Walker]]
+- [[Captain Scale-Walker]]
 
 ## Player-Facing Summary
 

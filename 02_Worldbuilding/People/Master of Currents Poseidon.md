@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[Throne of Bubbles]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[Throne of Bubbles]]
 
 ## Player-Facing Summary
 

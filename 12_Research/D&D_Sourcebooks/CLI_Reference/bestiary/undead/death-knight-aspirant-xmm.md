@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-knight-aspirant-xmm-death-knight-aspirant-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/death-knight-aspirant-xmm|Death Knight Aspirant]]
+# [[death-knight-aspirant-xmm|Death Knight Aspirant]]
 *Source: Monster Manual (2024) p. 93*  
 
 When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
@@ -60,19 +60,19 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "dexterity": !!int "4"
   - "wisdom": !!int "5"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common"
 "cr": "11"
 "traits":
-  - "desc": "The aspirant has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The aspirant has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "Undead creatures of the aspirant's choice (excluding itself) in a 60-foot\
-      \ [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from it have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ on attack rolls and saving throws. It can't use this trait if it has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from it have [[advantage-xphb|Advantage]]\
+      \ on attack rolls and saving throws. It can't use this trait if it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Marshal Undead"
 "actions":
@@ -81,14 +81,14 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage\
       \ plus 10 (3d6) Necrotic damage."
     "name": "Dread Blade"
-  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]]\
+  - "desc": "Dexterity Saving Throw: DC 15, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on a point the aspirant can see within 120 feet of itself. Failure:\
       \ 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage. Success: Half damage."
     "name": "Hellfire Orb (Recharge 5-6)"
   - "desc": "The aspirant casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15):\n\nAt will: [[/03_Mechanics/CLI/spells/phantom-steed-xphb|Phantom Steed]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/destructive-wave-xphb|Destructive Wave]]\
-      \ (Necrotic), [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel Magic]]"
+      \ spellcasting ability (spell save DC 15):\n\nAt will: [[phantom-steed-xphb|Phantom Steed]]\n\
+      \n1/day each: [[destructive-wave-xphb|Destructive Wave]]\
+      \ (Necrotic), [[dispel-magic-xphb|Dispel Magic]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The aspirant is hit by a melee attack roll while holding a weapon.\

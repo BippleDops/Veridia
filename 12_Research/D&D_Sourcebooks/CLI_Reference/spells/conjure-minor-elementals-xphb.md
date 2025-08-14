@@ -33,13 +33,13 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure spirits from the Elemental Planes that flit around you in a 15-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] for the duration. Until the spell ends, any attack you make deals an extra `2d8` damage when you hit a creature in the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
+You conjure spirits from the Elemental Planes that flit around you in a 15-foot [[emanation-area-of-effect-xphb|Emanation]] for the duration. Until the spell ends, any attack you make deals an extra `2d8` damage when you hit a creature in the [[emanation-area-of-effect-xphb|Emanation]]. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
 
-In addition, the ground in the [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] is [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]] for your enemies.
+In addition, the ground in the [[emanation-area-of-effect-xphb|Emanation]] is [[difficult-terrain-xphb|Difficult Terrain]] for your enemies.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d8` for each spell slot level above 4.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

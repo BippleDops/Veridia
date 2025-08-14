@@ -14,29 +14,26 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-pearl-guard-the-pearl-guard.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-pearl-guard-the-pearl-guard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[Investigation Procedures]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Current PC Lead]]
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[Current PC Lead]]
+- [[Investigation Procedures]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Emperor Thalassius the Wise]]
 - [[Envoy Blackwater Jr.]]
-- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[Mayor Thompson]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[02_Worldbuilding/People/Senator Marius]]
-- [[02_Worldbuilding/People/The Current Merchants]]
+- [[Senator Marius]]
+- [[The Current Merchants]]
 
 ## Player-Facing Summary
 

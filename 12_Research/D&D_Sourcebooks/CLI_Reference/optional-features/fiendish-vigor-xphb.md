@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[/03_Mechanics/CLI/spells/false-life-xphb|False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]; you automatically get the highest number on the die.
+You can cast [[false-life-xphb|False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[temporary-hit-points-xphb|Temporary Hit Points]]; you automatically get the highest number on the die.
 
 ## Player-Facing Summary
 

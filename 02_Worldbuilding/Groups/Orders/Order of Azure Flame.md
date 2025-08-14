@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[The Whispering Peaks]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[The Whispering Peaks]]
 
 ## Player-Facing Summary
 

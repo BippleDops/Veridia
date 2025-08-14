@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dust-mephit-xmm-dust-mephit-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/dust-mephit-xmm|Dust Mephit]]
+# [[dust-mephit-xmm|Dust Mephit]]
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Dust mephits are composed of air and fine earth. They are drawn to forsaken places, and they think everything associated with death is hilarious.
@@ -65,31 +65,31 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Primordial (Auran, Terran)"
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
-      \ creature in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success:\
       \ Half damage."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has the [[conditions#Blinded|Blinded]]\
       \ condition until the end of the mephit's next turn."
     "name": "Blinding Breath (Recharge 6)"
-  - "desc": "The mephit casts the [[/03_Mechanics/CLI/spells/sleep-xphb|Sleep]] spell,\
+  - "desc": "The mephit casts the [[sleep-xphb|Sleep]] spell,\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 10).\n"
     "name": "Sleep (1/Day)"

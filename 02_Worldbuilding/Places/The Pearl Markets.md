@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-pearl-markets-the-pearl-markets.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-pearl-markets-the-pearl-markets.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pearl Markets]]
+- [[12_Research/D&D_References/The Pearl Markets]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Current Riders Guild]]

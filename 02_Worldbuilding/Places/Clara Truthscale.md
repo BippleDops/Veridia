@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-clara-truthscale-clara-truthscale.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-clara-truthscale-clara-truthscale.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[Harbor District Customs House]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[Harbor District Customs House]]
 
 ## Player-Facing Summary
 

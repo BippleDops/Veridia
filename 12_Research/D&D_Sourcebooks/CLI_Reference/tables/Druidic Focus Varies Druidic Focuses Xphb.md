@@ -26,9 +26,9 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[/03_Mechanics/CLI/items/sprig-of-mistletoe-xphb|Sprig of mistletoe]] | — | 1 GP |
-| [[/03_Mechanics/CLI/items/wooden-staff-xphb|Wooden staff]] (also a [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[/03_Mechanics/CLI/items/yew-wand-xphb|Yew wand]] | 1 lb. | 10 GP |
+| [[sprig-of-mistletoe-xphb|Sprig of mistletoe]] | — | 1 GP |
+| [[wooden-staff-xphb|Wooden staff]] (also a [[quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[yew-wand-xphb|Yew wand]] | 1 lb. | 10 GP |
 ^druidic-focuses
 
 ## Player-Facing Summary

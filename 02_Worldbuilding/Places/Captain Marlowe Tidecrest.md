@@ -25,9 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-captain-marlowe-tidecrest-captain-marlowe-tidecrest.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-captain-marlowe-tidecrest-captain-marlowe-tidecrest.svg]]
 
 
 # The Tidecrest Marina - Premier Naval Harbor
@@ -351,8 +349,8 @@ The Tidecrest Marina connects to numerous important elements throughout Aquabyss
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Pearl_Harbor_City]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -374,6 +372,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]]
+- [[Captain Marlowe Tidecrest]]
 
 <!-- enriched: true -->

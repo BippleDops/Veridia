@@ -19,12 +19,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-into-the-blue-into-the-blue.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-into-the-blue-into-the-blue.svg]]
 
 
 # Into the Blue
@@ -138,7 +134,7 @@ This quest emphasizes exploration and discovery over combat. Focus on the sense 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 
 ## History
@@ -180,6 +176,6 @@ Legends speak of Into the Blue as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Into the Blue]]
+- [[Into the Blue]]
 
 <!-- enriched: true -->

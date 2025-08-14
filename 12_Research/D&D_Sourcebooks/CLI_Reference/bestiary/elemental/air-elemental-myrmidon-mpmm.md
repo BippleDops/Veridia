@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/air-elemental-myrmidon-mpmm|Air Elemental Myrmidon]]
+# [[air-elemental-myrmidon-mpmm|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
 
 ## Elemental Myrmidons
@@ -37,7 +37,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate]]"
+"ac_class": "[[plate-armor-xphb|plate]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"
@@ -52,8 +52,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
@@ -65,7 +65,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Flail"
   - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
       \ 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] until\
+      \ saving throw or be [[conditions#Stunned|stunned]] until\
       \ the end of the myrmidon's next turn."
     "name": "Lightning Strike (Recharge 6)"
 "source":

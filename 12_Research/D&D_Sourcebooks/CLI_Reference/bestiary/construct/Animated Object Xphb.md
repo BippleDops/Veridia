@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-object-xphb-animated-object-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-object-xphb|Animated Object]]
+# [[animated-object-xphb|Animated Object]]
 *Source: Player's Handbook (2024) p. 240*  
 
 ```statblock

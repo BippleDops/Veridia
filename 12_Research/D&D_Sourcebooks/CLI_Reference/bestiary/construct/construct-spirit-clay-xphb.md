@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-clay-xphb-construct-spirit-clay-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/construct-spirit-clay-xphb|Construct Spirit (Clay)]]
+# [[construct-spirit-clay-xphb|Construct Spirit (Clay)]]
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -43,9 +43,9 @@ world: Both
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Understands the languages you know"
 "actions":
@@ -58,7 +58,7 @@ world: Both
 "reactions":
   - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
       \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its Speed toward that creature without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]."
+      \ up to half its Speed toward that creature without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]]."
     "name": "Berserk Lashing"
 "source":
   - "XPHB"

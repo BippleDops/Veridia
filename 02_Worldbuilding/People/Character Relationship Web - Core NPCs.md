@@ -18,9 +18,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg]]
 
 
 # Character Relationship Web - Core NPCs
@@ -226,14 +224,14 @@ The richness of these character relationships provides endless opportunities for
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
-- [[02_Worldbuilding/People/Captain Marina Saltborn]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[Queen Seraphina Lumengarde]]
+- [[Lord Aurelius Goldwave]]
+- [[Vex Shadowthorn]]
+- [[Captain Marina Saltborn]]
+- [[Memory Merchant Valeria Siltweave]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Places/Crystal Corruption]]
+- [[The Seven Shards]]
+- [[The Deep Mother]]
+- [[Crystal Corruption]]
 
 <!-- enriched: true -->

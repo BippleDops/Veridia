@@ -29,17 +29,17 @@ world: Both
 | dice: d100 | Lesser Minions* |
 |------------|-----------------|
 | 1-4 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] and `3d6` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captains]] |
-| 5-8 | `10d6` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] and `d3` [[/03_Mechanics/CLI/bestiary/humanoid/bugbear-chief|bugbear chiefs]] |
+| 5-8 | `10d6` [[bugbear-warrior-xmm|bugbears]] and `d3` [[/03_Mechanics/CLI/bestiary/humanoid/bugbear-chief|bugbear chiefs]] |
 | 9-12 | `d10` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and `4d6` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] |
 | 13-14 | `10d6` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
-| 15-22 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|goblins]] and `3d4` [[/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm|goblin bosses]] |
-| 23-25 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/aberration/grimlock-xmm|grimlocks]] |
-| 26-35 | `10d10` [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|hobgoblins]] and `2d4` [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm|hobgoblin captains]] |
-| 36-43 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]], `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm|kobold inventors]], and `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/kobold-scale-sorcerer-mpmm|kobold scale sorcerers]] |
+| 15-22 | `10d10 + 50` [[goblin-warrior-xmm|goblins]] and `3d4` [[goblin-boss-xmm|goblin bosses]] |
+| 23-25 | `10d10 + 50` [[grimlock-xmm|grimlocks]] |
+| 26-35 | `10d10` [[hobgoblin-warrior-xmm|hobgoblins]] and `2d4` [[hobgoblin-captain-xmm|hobgoblin captains]] |
+| 36-43 | `10d10 + 50` [[kobold-warrior-xmm|kobolds]], `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm|kobold inventors]], and `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/kobold-scale-sorcerer-mpmm|kobold scale sorcerers]] |
 | 44-48 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
 | 49-56 | `10d10` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] and `d6` [[/03_Mechanics/CLI/bestiary/humanoid/tough-boss-xmm|orc war chiefs]] |
-| 57-59 | `6d6` [[/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm|quaggoths]] |
-| 60-65 | `10d10 + 50` [[/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm|troglodytes]] |
+| 57-59 | `6d6` [[quaggoth-xmm|quaggoths]] |
+| 60-65 | `10d10 + 50` [[troglodyte-xmm|troglodytes]] |
 | 66-100 | Roll twice, ignoring results above 65 |
 ^beholder-lesser-minions
 

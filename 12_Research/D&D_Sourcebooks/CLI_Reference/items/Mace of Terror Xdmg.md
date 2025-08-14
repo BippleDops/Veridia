@@ -22,13 +22,13 @@ world: Both
 
 
 # Mace of Terror
-*Weapon ([[/03_Mechanics/CLI/items/mace-xphb|mace]]), rare (requires attunement)*  
+*Weapon ([[mace-xphb|mace]]), rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
-This magic weapon has 3 charges and regains `d3` expended charges daily at dawn. While holding the weapon, you can take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition for 1 minute. While [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't make [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]. For its action, it can use only the [[/03_Mechanics/CLI/actions#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the [[/03_Mechanics/CLI/actions#Dodge|Dodge]] action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success.
+This magic weapon has 3 charges and regains `d3` expended charges daily at dawn. While holding the weapon, you can take a [[actions#Magic|Magic]] action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute. While [[conditions#Frightened|Frightened]] in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't make [[actions#Opportunity%20Attack|Opportunity Attacks]]. For its action, it can use only the [[actions#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the [[actions#Dodge|Dodge]] action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

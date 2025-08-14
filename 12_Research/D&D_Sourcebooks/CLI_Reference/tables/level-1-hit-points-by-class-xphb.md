@@ -23,10 +23,10 @@ world: Both
 
 | Class | Hit Point Maximum |
 |-------|-------------------|
-| [[/03_Mechanics/CLI/classes/barbarian-xphb|Barbarian]] | 12 + Con. modifier |
-| [[/03_Mechanics/CLI/classes/fighter-xphb|Fighter]], [[/03_Mechanics/CLI/classes/paladin-xphb|Paladin]], or [[/03_Mechanics/CLI/classes/ranger-xphb|Ranger]] | 10 + Con. modifier |
-| [[/03_Mechanics/CLI/classes/bard-xphb|Bard]], [[/03_Mechanics/CLI/classes/cleric-xphb|Cleric]], [[/03_Mechanics/CLI/classes/druid-xphb|Druid]], [[/03_Mechanics/CLI/classes/monk-xphb|Monk]], [[/03_Mechanics/CLI/classes/rogue-xphb|Rogue]], or [[/03_Mechanics/CLI/classes/warlock-xphb|Warlock]] | 8 + Con. modifier |
-| [[/03_Mechanics/CLI/classes/sorcerer-xphb|Sorcerer]] or [[/03_Mechanics/CLI/classes/wizard-xphb|Wizard]] | 6 + Con. modifier |
+| [[barbarian-xphb|Barbarian]] | 12 + Con. modifier |
+| [[fighter-xphb|Fighter]], [[paladin-xphb|Paladin]], or [[ranger-xphb|Ranger]] | 10 + Con. modifier |
+| [[bard-xphb|Bard]], [[cleric-xphb|Cleric]], [[druid-xphb|Druid]], [[monk-xphb|Monk]], [[rogue-xphb|Rogue]], or [[warlock-xphb|Warlock]] | 8 + Con. modifier |
+| [[sorcerer-xphb|Sorcerer]] or [[wizard-xphb|Wizard]] | 6 + Con. modifier |
 ^level-1-hit-points-by-class
 
 ## Player-Facing Summary

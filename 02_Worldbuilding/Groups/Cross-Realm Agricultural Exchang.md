@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-cross-realm-agricultural-exchang.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-cross-realm-agricultural-exchang.svg]]
 
 
 ## Overview

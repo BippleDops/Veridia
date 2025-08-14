@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scout-captain-vera-deepwatch-scout-captain-vera-deepwatch.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[Admiral Thorne Blackwater]]
+- [[The Cerulean Trench]]
 
 ## Player-Facing Summary
 

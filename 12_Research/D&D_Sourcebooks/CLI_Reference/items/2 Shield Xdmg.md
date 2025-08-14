@@ -26,13 +26,13 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-2-shield-xdmg-2-shield-xdmg.svg)
 
 # +2 Shield
-*Armor ([[/03_Mechanics/CLI/items/shield-xphb|shield]]), rare*  
+*Armor ([[shield-xphb|shield]]), rare*  
 
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have a +2 bonus to [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
+While holding this Shield, you have a +2 bonus to [[armor-class-xphb|Armor Class]], in addition to the Shield's normal bonus to AC.
 
 *Source: Dungeon Master's Guide (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

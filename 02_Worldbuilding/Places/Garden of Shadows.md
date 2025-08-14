@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -23,10 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg]]
 
 
 # Garden of Shadows
@@ -52,15 +51,19 @@ The central chamber, known as the Heart of Shadows, contains a pool of perfectly
 ## Districts
 
 ### The Cultivation Halls
+
 Extensive growing chambers where shadow-adapted plants and coral are carefully tended. These organisms form the foundation of the Garden's unique ecosystem.
 
 ### The Meditation Circles
+
 Quiet spaces arranged in concentric rings around natural formations, designed to facilitate deep contemplation and shadow magic practice.
 
 ### The Research Sanctum
+
 Secure area where scholars study the properties of darkness, shadow magic, and the psychological effects of light deprivation.
 
 ### The Whispering Gallery
+
 A natural acoustic phenomenon creates a space where conversations can be heard across great distances, making it popular for discrete meetings.
 
 ## Notable Features
@@ -127,7 +130,7 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[12_Research/D&D_References/Lumengarde]]
 
 
 ## Layout
@@ -167,6 +170,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Garden of Shadows]]
+- [[12_Research/D&D_References/Garden of Shadows]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

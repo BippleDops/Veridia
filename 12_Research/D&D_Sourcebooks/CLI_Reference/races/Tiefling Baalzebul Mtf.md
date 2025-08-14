@@ -49,7 +49,7 @@ You have resistance to fire damage.
 
 ### Legacy of Maladomini
 
-You know the [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb|ray of sickness]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/03_Mechanics/CLI/spells/crown-of-madness-xphb|crown of madness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[thaumaturgy-xphb|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[ray-of-sickness-xphb|ray of sickness]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[crown-of-madness-xphb|crown of madness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

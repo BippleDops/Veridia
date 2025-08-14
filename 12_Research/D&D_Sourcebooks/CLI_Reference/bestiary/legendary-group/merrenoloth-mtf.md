@@ -30,7 +30,7 @@ Any ship a merrenoloth is contracted to captain becomes the creature's lair. Whe
 
 - The ship regains 22 (`4d10`) hit points.  
 - A strong wind propels the ship, increasing its speed by 30 feet until initiative count 20 on the next round.  
-- The air within 60 feet of the ship is filled with howling wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]].  
+- The air within 60 feet of the ship is filled with howling wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]].  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

@@ -45,7 +45,7 @@ world: Both
 | Pholtus, god of light and law | LG | Light | Silver sun or full moon partially eclipsed by a smaller crescent moon |
 | Ralishaz, god of ill luck and insanity | CN | Trickery | Three bone fate-casting sticks |
 | Rao, god of peace and reason | LG | Knowledge | White heart |
-| [[/03_Mechanics/CLI/deities/greyhawk-st-cuthbert|St. Cuthbert]], god of common sense and zeal | LN | Knowledge | Circle at the center of a starburst of lines |
+| [[greyhawk-st-cuthbert|St. Cuthbert]], god of common sense and zeal | LN | Knowledge | Circle at the center of a starburst of lines |
 | Tharizdun, god of eternal darkness | CE | Trickery | Dark spiral or inverted ziggurat |
 | Trithereon, god of liberty and retribution | CG | War | Triskelion |
 | Ulaa, goddess of hills and mountains | LG | Life, War | Mountain with a circle at its heart |

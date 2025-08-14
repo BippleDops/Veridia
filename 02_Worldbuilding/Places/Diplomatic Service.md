@@ -15,21 +15,18 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-diplomatic-service-diplomatic-service.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-diplomatic-service-diplomatic-service.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]
 
 
 ## Connections
 
-- [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 

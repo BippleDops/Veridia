@@ -19,7 +19,7 @@ world: Both
 # Stable
 *Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A creature is Stable if it has 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] but isn't required to make [[/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb|Death Saving Throws]].
+A creature is Stable if it has 0 [[hit-points-xphb|Hit Points]] but isn't required to make [[death-saving-throw-xphb|Death Saving Throws]].
 
 ## Player-Facing Summary
 

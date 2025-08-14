@@ -29,14 +29,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-skulk-mpmm-skulk-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/skulk-mpmm|Skulk]]
+# [[skulk-mpmm|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.
 
-Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [[/03_Mechanics/CLI/conditions#Invisible|invisible]]. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
+Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [[conditions#Invisible|invisible]]. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
 
 A skulk can be summoned from the Shadowfell by performing a ritual, and it is bound to obey the summoner's commands for 30 days. During this time, if the skulk is visible, an astute observer might deduce who summoned it, because the skulk assumes a vague likeness of its master.
 
@@ -62,14 +62,14 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 "saves":
   - "constitution": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]]"
+"condition_immunities": "[[conditions#Blinded|blinded]]"
 "senses": "darkvision 120 ft., passive Perception 8"
 "languages": "understands Common but can't speak"
 "cr": "1/2"
 "traits":
-  - "desc": "The skulk is [[/03_Mechanics/CLI/conditions#Invisible|invisible]]. This\
+  - "desc": "The skulk is [[conditions#Invisible|invisible]]. This\
       \ invisibility can be circumvented by three things:\n\n- Charnel Candles.\
       \ The skulk appears as a dim, translucent form in the light of a candle made\
       \ of fat rendered from a corpse whose identity is unknown.  \n- Children.\

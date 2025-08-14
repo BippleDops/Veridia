@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-administrative-wing-administrative-wing.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-administrative-wing-administrative-wing.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Administrative Wing]]
+- [[12_Research/D&D_References/Administrative Wing]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[12_Research/D&D_References/Inverted Ballroom Wing]]

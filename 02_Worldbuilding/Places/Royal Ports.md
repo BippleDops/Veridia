@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-royal-ports-royal-ports.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-ports-royal-ports.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Royal Ports]]
+- [[12_Research/D&D_References/Royal Ports]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
+- [[12_Research/D&D_References/The Crown]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

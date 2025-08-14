@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-districts-temple-districts.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-districts-temple-districts.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Districts]]
+- [[Temple Districts]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Queen]]
+- [[The Queen]]

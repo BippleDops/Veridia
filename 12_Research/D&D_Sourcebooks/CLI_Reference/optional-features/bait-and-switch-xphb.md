@@ -20,7 +20,7 @@ world: Both
 # Bait and Switch
 *Source: Player's Handbook (2024) p. 94*  
 
-When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition. This movement doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]].
+When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the [[conditions#Incapacitated|Incapacitated]] condition. This movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]].
 
 Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 

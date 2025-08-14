@@ -26,7 +26,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\elemental/azer-sentinel-xmm|Azer Sentinel]]
+# [[azer-sentinel-xmm|Azer Sentinel]]
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
@@ -60,18 +60,18 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
 "languages": "Primordial (Ignan)"
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ in a 5-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the azer takes 5 (d10) Fire damage unless the azer has the\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition."
+      \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]]\
-      \ in a 10-foot radius and [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]]\
+  - "desc": "The azer sheds [[bright-light-xphb|Bright Light]]\
+      \ in a 10-foot radius and [[dim-light-xphb|Dim Light]]\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":

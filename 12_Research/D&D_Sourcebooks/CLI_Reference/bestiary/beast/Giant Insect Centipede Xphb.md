@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-insect-centipede-xphb-giant-insect-centipede-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-insect-centipede-xphb|Giant Insect (Centipede)]]
+# [[giant-insect-centipede-xphb|Giant Insect (Centipede)]]
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
@@ -60,7 +60,7 @@ world: Both
     "name": "Poison Jab"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: Your spell save DC, one creature the insect\
-      \ can see within 10 feet. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ can see within 10 feet. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":

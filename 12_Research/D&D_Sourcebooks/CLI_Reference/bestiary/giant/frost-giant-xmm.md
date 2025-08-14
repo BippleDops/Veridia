@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-xmm-frost-giant-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/frost-giant-xmm|Frost Giant]]
+# [[frost-giant-xmm|Frost Giant]]
 *Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Frost Giant
@@ -67,9 +67,9 @@ Frost giants often travel far to find food and goods. This leads many to become 
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
@@ -82,13 +82,13 @@ Frost giants often travel far to find food and goods. This leads many to become 
       \ plus 9 (2d8) Cold damage."
     "name": "Frost Axe"
   - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
-      \ damage plus 7 (2d6) Cold damage, and the target's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ damage plus 7 (2d6) Cold damage, and the target's [[speed-xphb|Speed]]\
       \ decreases by 10 feet until the end of its next turn."
     "name": "Great Bow"
 "bonus_actions":
   - "desc": "The giant or one creature of its choice that can see or hear it gains\
-      \ 16 (2d10 + 5) [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ and has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack\
+      \ 16 (2d10 + 5) [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ and has [[advantage-xphb|Advantage]] on attack\
       \ rolls until the start of the giant's next turn."
     "name": "War Cry (Recharge 5-6)"
 "source":

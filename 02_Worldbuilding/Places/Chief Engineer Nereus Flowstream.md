@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[Pressure Tubes]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[Pressure Tubes]]
 
 ## Player-Facing Summary
 

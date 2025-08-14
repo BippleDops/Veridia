@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes - Public Gallery]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 

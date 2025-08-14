@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lizardfolk-sovereign-xmm-lizardfolk-sovereign-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/lizardfolk-sovereign-xmm|Lizardfolk Sovereign]]
+# [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]]
 *Source: Monster Manual (2024) p. 197*  
 
 Lizardfolk sovereigns undergo magical rites that imbue them with fantastic strength and magic from the Elemental Plane of Earth. In some, though, it also unlocks a primal viciousness.
@@ -61,11 +61,11 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "4"
@@ -74,16 +74,16 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage.\
       \ If the target is a creature that isn't a Construct or an Undead, the lizardfolk\
-      \ gains [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gains [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ equal to the damage dealt."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Earthen Maul"
 "bonus_actions":
-  - "desc": "The lizardfolk moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
-      \ or [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] straight\
+  - "desc": "The lizardfolk moves up to its [[speed-xphb|Speed]]\
+      \ or [[swim-speed-xphb|Swim Speed]] straight\
       \ toward an enemy it can see."
     "name": "Charge"
 "source":

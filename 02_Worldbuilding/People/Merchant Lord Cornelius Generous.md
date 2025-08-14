@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-merchant-lord-cornelius-generous-merchant-lord-cornelius-generous.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-merchant-lord-cornelius-generous-merchant-lord-cornelius-generous.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[Cathedral of Light]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[Cathedral of Light]]
 
 ## Player-Facing Summary
 

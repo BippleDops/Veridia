@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-anonymous-accord-the-anonymous-accord.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-anonymous-accord-the-anonymous-accord.svg]]
 
 
 ## Overview

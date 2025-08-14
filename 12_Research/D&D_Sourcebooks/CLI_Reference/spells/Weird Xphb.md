@@ -34,11 +34,11 @@ world: Both
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [[/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb|Sphere]] centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition for the duration. On a successful save, a target takes half as much damage only.
+You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [[sphere-area-of-effect-xphb|Sphere]] centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [[conditions#Frightened|Frightened]] condition for the duration. On a successful save, a target takes half as much damage only.
 
-A [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
+A [[conditions#Frightened|Frightened]] target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

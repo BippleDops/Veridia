@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-welfare-director-caretake-v1-welfare-director-caretake.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-welfare-director-caretake-v1-welfare-director-caretake.svg]]
 
 
 ## Overview

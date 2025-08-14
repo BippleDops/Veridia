@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-information-broker-whisper-goldtongu-information-broker-whisper-goldtongu.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-information-broker-whisper-goldtongu-information-broker-whisper-goldtongu.svg]]
 
 
 ## Overview

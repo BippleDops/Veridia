@@ -18,262 +18,259 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
-
-
-
-> [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
-
-
-
-> [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
-
-
-
-> [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
+> [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
+
+> [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
+
+
+> [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
+
+
+> [!figure] Portrait
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
 # Patriarch Valdris Lightbringer
@@ -283,18 +280,18 @@ world: Both
 Patriarch Valdris Lightbringer serves as the senior religious authority for ocean-based faiths, coordinating theological responses to maritime threats while maintaining delicate diplomatic relationships with underwater kingdoms and surface political powers.
 
 ## Key Connections
-- **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Primary religious authority
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Close theological cooperation
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Diplomatic liaison and cultural exchange
-- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary theological opposition
-- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Ideological enemy
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval blessing and protection provider
-- **[[02_Worldbuilding/Places/The Sorrow Current]]** - Spiritual guardian and healing coordinator
-- **[[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]** - Interfaith cooperation
-- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Provides religious services
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Mutual cooperation against corruption
-- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Blesses commercial voyages
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Spiritual counselor for ocean affinity
+- **[[The Temple of Eternal Tides]]** - Primary religious authority
+- **[[High Priestess Celeste Dawnbringer]]** - Close theological cooperation
+- **[[Abyssos Prime]]** - Diplomatic liaison and cultural exchange
+- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Primary theological opposition
+- **[[High Priest Dagon Deepcaller]]** - Ideological enemy
+- **[[Admiral Cassandra Stormwind]]** - Naval blessing and protection provider
+- **[[The Sorrow Current]]** - Spiritual guardian and healing coordinator
+- **[[Archbishop Mordecai Stormwright]]** - Interfaith cooperation
+- **[[The Floating Markets of Nereidios]]** - Provides religious services
+- **[[Crystal Wardens]]** - Mutual cooperation against corruption
+- **[[The Deepwater Trading Consortium]]** - Blesses commercial voyages
+- **[[Prince Caspian Duskwater]]** - Spiritual counselor for ocean affinity
 
 ## Appearance
 
@@ -345,11 +342,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]
+- [[Patriarch Valdris Lightbringer|02 Worldbuilding/People/Patriarch Valdris Lightbringer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]

@@ -14,21 +14,15 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]
 
 
 # Lord Commander Gareth Steelborn
 *The Crystal Shield, Defender of the Realm*
 
 ## Overview
-Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Wardens]], [[02_Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
+Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
 
 ## Appearance
 - **Build**: Imposing, 6'3", muscular
@@ -269,7 +263,7 @@ Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Ward
 - Remembers conversations and observations that suggest deeper conspiracies at work
 
 ## Background
-- Born to a blacksmith family in [[02_Worldbuilding/Places/Ironhold]]
+- Born to a blacksmith family in [[Ironhold]]
 - Joined military at 16 after crystal raiders killed his family
 - Rose through ranks through merit and valor
 - Became Lord Commander five years ago
@@ -278,9 +272,9 @@ Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Ward
 ## Abilities & Resources
 
 ### Military Command
-- Commands 10,000 [[02_Worldbuilding/People/Crystal Wardens]]
+- Commands 10,000 [[Crystal Wardens]]
 - Elite personal guard: "The Crystalline Guard"
-- Network of fortresses across [[02_Worldbuilding/Places/Aethermoor]]
+- Network of fortresses across [[Aethermoor]]
 - Access to military intelligence
 
 ### Combat Abilities
@@ -297,39 +291,39 @@ Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Ward
 ## Relationships
 
 ### Loyalties
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
+- [[Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
+- [[Captain Lyanna Brightshield]] - Protégé and surrogate daughter
+- [[Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
 
 ### Allies
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military cooperation
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Provides healing for troops
+- [[Admiral Cassandra Stormwind]] - Military cooperation
+- [[Master Artificer Korvin Gearwright]] - Supplies crystal weapons
+- [[High Priestess Celeste Dawnbringer]] - Provides healing for troops
 
 ### Tensions
-- [[02_Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
+- [[The Crimson Sage]] - Distrusts their influence on Queen
+- [[Prince Caspian Duskwater]] - Sees as threat to stability
+- [[Vex Shadowthorn]] - Sworn enemy of crime
 
 ### Respected Opponents
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
+- [[Archdruid Thornweaver]] - Respects but opposes
+- [[High Inquisitor Maltheos]] - Understands concerns but disagrees
 
 ## Secrets
 > [!warning] DM Only
 > - Has noticed Queen's behavioral changes but attributes to stress
-> - Secretly loves [[02_Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
-> - Possesses evidence that could expose [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+> - Secretly loves [[Captain Lyanna Brightshield]] like a daughter
+> - Possesses evidence that could expose [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 > - His brother [[Marcus "The Shade" Blackwood]] works for the Syndicate
 > - Would turn against the Queen if he knew about her corruption
 > - Has been having prophetic dreams about a great betrayal
 
 ## Current Activities
 - Training new Crystal Warden recruits
-- Investigating [[02_Worldbuilding/Groups/Purist Coalition]] terrorist cells
+- Investigating [[Purist Coalition]] terrorist cells
 - Planning defenses for Crystal Festival
-- Searching for [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
-- Monitoring [[02_Worldbuilding/Places/The Crystalline Wastes]] border
+- Searching for [[Captain Thaddeus Blackwater]]'s expedition
+- Monitoring [[The Crystalline Wastes]] border
 
 ## Motivations
 1. **Primary**: Protect the innocent and maintain order
@@ -362,7 +356,7 @@ Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Ward
 1. Needs help investigating corruption in the Wardens
 2. Secret mission to retrieve stolen crystal weapons
 3. Find evidence about his brother's criminal activities
-4. Rescue captured Wardens from [[02_Worldbuilding/Places/The Crystalline Wastes]]
+4. Rescue captured Wardens from [[The Crystalline Wastes]]
 5. Test party's worthiness to join elite unit
 
 ## Speaking Style
@@ -384,26 +378,26 @@ Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Ward
 - Will be devastated when Queen's corruption revealed
 - Could become party's greatest ally or enemy depending on approach
 - His rigid worldview is both strength and weakness
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]] plots to use him against Queen
+- [[Brother Marcus Steelbane]] plots to use him against Queen
 - Critical figure in preventing/causing civil war
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
+- [[Queen Seraphina Lumengarde]] - Sworn liege
+- [[Captain Lyanna Brightshield]] - Protégé
 - [[Marcus "The Shade" Blackwood]] - Estranged brother
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military ally
+- [[Brother Marcus Steelbane]] - Former student
+- [[Admiral Cassandra Stormwind]] - Military ally
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
-- [[02_Worldbuilding/People/Crystal Wardens]] Fortress - Military headquarters
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
-- [[02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
+- [[Crystalhaven]] - Base of operations
+- [[Crystal Wardens]] Fortress - Military headquarters
+- [[The Crystalline Wastes]] - Patrol area
+- [[Port Meridian]] - Reinforcement duties
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Military support
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
-- [[02_Worldbuilding/People/Quest - The Traitor Within]] - Investigating corruption
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Military support
+- [[Quest - Diplomatic Immunity]] - Security detail
+- [[Quest - The Traitor Within]] - Investigating corruption
 
 
 ## Connections
@@ -426,12 +420,12 @@ Legends speak of Lord Commander Gareth Steelborn as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[Lord Commander Gareth Steelborn]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/Quest - The Traitor Within]]
-- [[02_Worldbuilding/Places/Ironhold]]
+- [[Crystal Wardens]]
+- [[Admiral Cassandra Stormwind]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Quest - The Traitor Within]]
+- [[Ironhold]]

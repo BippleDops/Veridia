@@ -23,9 +23,9 @@ world: Both
 # Lance of Lethargy
 *Source: Xanathar's Guide to Everything p. 57*  
 
-**Prerequisite**: [[/03_Mechanics/CLI/spells/eldritch-blast-xphb|eldritch blast]] cantrip
+**Prerequisite**: [[eldritch-blast-xphb|eldritch blast]] cantrip
 
-Once on each of your turns when you hit a creature with your [[/03_Mechanics/CLI/spells/eldritch-blast-xphb|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
+Once on each of your turns when you hit a creature with your [[eldritch-blast-xphb|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
 
 ## Player-Facing Summary
 

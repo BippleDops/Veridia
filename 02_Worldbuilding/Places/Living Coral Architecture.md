@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-living-coral-architecture-living-coral-architecture.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-living-coral-architecture-living-coral-architecture.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Living Coral Architecture]]
+- [[12_Research/D&D_References/Living Coral Architecture]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]

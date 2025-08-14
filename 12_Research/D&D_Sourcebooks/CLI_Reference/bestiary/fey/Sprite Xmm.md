@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sprite-xmm-sprite-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/sprite-xmm|Sprite]]
+# [[sprite-xmm|Sprite]]
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Sprite
@@ -42,7 +42,7 @@ world: Both
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
-Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [[/03_Mechanics/CLI/conditions#Invisible|invisible]] sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
+Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [[conditions#Invisible|invisible]] sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
@@ -69,9 +69,9 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
   - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -80,14 +80,14 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage."
     "name": "Needle Sword"
   - "desc": "Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage,\
-      \ and the target has the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition\
+      \ and the target has the [[conditions#Charmed|Charmed]] condition\
       \ until the start of the sprite's next turn."
     "name": "Enchanting Bow"
   - "desc": "Charisma Saving Throw: DC 10, one creature within 5 feet the sprite\
       \ can see (Celestials, Fiends, and Undead automatically fail the save). Failure:\
       \ The sprite knows the target's emotions and alignment."
     "name": "Heart Sight"
-  - "desc": "The sprite casts [[/03_Mechanics/CLI/spells/invisibility-xphb|Invisibility]]\
+  - "desc": "The sprite casts [[invisibility-xphb|Invisibility]]\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"

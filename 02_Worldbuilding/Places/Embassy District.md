@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/location
@@ -15,20 +16,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-embassy-district-embassy-district.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-embassy-district-embassy-district.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm|Helmed Horror]]
+# [[helmed-horror-xmm|Helmed Horror]]
 *Source: Monster Manual (2024) p. 166*  
 
 ## Helmed Horror
@@ -74,24 +74,24 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
   - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-  - "desc": "The helmed horror has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The helmed horror has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [[/03_Mechanics/CLI/spells/heat-metal-xphb|Heat Metal]],\
-      \ [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning Bolt]], and [[/03_Mechanics/CLI/spells/magic-missile-xphb|Magic\
+      \ choices include [[heat-metal-xphb|Heat Metal]],\
+      \ [[lightning-bolt-xphb|Lightning Bolt]], and [[magic-missile-xphb|Magic\
       \ Missile]]."
     "name": "Spell Immunity"
 "actions":

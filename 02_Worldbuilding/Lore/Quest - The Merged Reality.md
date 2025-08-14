@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +16,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[12_Research/D&D_Statblocks/Quest - The Crystal Festival]]
 
 ## Player-Facing Summary
 

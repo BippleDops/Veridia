@@ -29,7 +29,7 @@ world: Both
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]].
+Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [[conditions#Incapacitated|incapacitated]].
 
 ### Darkvision
 

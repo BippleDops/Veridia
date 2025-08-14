@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-tempest-mpmm-elder-tempest-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/elder-tempest-mpmm|Elder Tempest]]
+# [[elder-tempest-mpmm|Elder Tempest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
@@ -56,11 +56,11 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "charisma": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison, thunder"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "23"
@@ -68,7 +68,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "The tempest can enter a hostile creature's space and stop there. It can\
       \ move through a space as narrow as 1 inch wide without squeezing."
     "name": "Air Form"
-  - "desc": "The tempest doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]\
+  - "desc": "The tempest doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "If the tempest fails a saving throw, it can choose to succeed instead."
@@ -76,7 +76,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "The tempest is always at the center of a storm 1d6 + 4 miles in diameter.\
       \ Heavy precipitation in the form of either rain or snow falls there, causing\
       \ the area to be lightly obscured. Heavy rain also extinguishes open flames\
-      \ and imposes disadvantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+      \ and imposes disadvantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on hearing. In addition, strong winds swirl in the area covered\
       \ by the storm. The winds impose disadvantage on ranged attack rolls. They also\
       \ extinguish open flames and disperse fog."
@@ -92,7 +92,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "Each creature within 120 feet of the tempest must make a DC 21 Dexterity\
       \ saving throw, taking 27 (6d8) lightning damage on a failed save, or half as\
       \ much damage on a successful one. If a target's saving throw fails by 5 or\
-      \ more, the creature is also [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
+      \ more, the creature is also [[conditions#Stunned|stunned]]\
       \ until the end of its next turn."
     "name": "Lightning Storm (Recharge 6)"
 "legendary_actions":
@@ -111,7 +111,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
       \ wall or floor) or another creature, the target takes 3 (d6) bludgeoning damage\
       \ for every 10 feet it was thrown before impact. If the target collides with\
       \ another creature, that other creature must succeed on a DC 19 Dexterity saving\
-      \ throw or take the same impact damage and be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ throw or take the same impact damage and be knocked [[conditions#Prone|prone]]."
     "name": "Screaming Gale (Costs 3 Actions)"
 "source":
   - "MPMM"

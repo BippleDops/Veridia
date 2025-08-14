@@ -22,7 +22,7 @@ world: Both
 # Appendix D: Monsters
 *Source: Rise of Tiamat, p. 180* 
 
-- [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|Ambush Drake]]  
+- [[ambush-drake-hotdq|Ambush Drake]]  
 - [[/03_Mechanics/CLI/bestiary/npc/azbara-jos-hotdq|Azbara Jos]]  
 - [[/03_Mechanics/CLI/bestiary/npc/blagothkus-hotdq|Blagothkus]]  
 - [[/03_Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq|Captain Othelstan]]  
@@ -32,8 +32,8 @@ world: Both
 - [[/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq|Dragonwing]]  
 - [[/03_Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq|Dralmorrer Borngray]]  
 - [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]]  
-- [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|Guard Drake]]  
-- [[/03_Mechanics/CLI/bestiary/monstrosity/ice-toad-rot|Ice Toad]]  
+- [[guard-drake-mpmm|Guard Drake]]  
+- [[ice-toad-rot|Ice Toad]]  
 - [[/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq|Jamna Gleamsilver]]  
 - [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]]  
 - [[/03_Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot|Naergoth Bladelord]]  

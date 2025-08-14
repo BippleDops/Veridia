@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[12_Research/D&D_References/The Floating Market]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[12_Research/D&D_References/The Floating Market]]
 
 ## Player-Facing Summary
 

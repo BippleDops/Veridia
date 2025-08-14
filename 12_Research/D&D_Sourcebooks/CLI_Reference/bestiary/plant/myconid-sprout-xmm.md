@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-sprout-xmm-myconid-sprout-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/myconid-sprout-xmm|Myconid Sprout]]
+# [[myconid-sprout-xmm|Myconid Sprout]]
 *Source: Monster Manual (2024) p. 222*  
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
@@ -60,15 +60,15 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "languages": "telepathy 240 ft."
 "cr": "0"
 "traits":
-  - "desc": "While in sunlight, the myconid has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
-      \ on [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]]. The myconid\
+  - "desc": "While in sunlight, the myconid has [[disadvantage-xphb|Disadvantage]]\
+      \ on [[d20-test-xphb|D20 Tests]]. The myconid\
       \ dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
   - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Bludgeoning damage\
       \ plus 2 (d4) Poison damage."
     "name": "Slam"
-  - "desc": "The myconid expels spores in a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+  - "desc": "The myconid expels spores in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."

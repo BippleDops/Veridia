@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-iron-shadow-mpmm-hobgoblin-iron-shadow-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/hobgoblin-iron-shadow-mpmm|Hobgoblin Iron Shadow]]
+# [[hobgoblin-iron-shadow-mpmm|Hobgoblin Iron Shadow]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -54,11 +54,11 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]"
+  - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Athletics|Athletics]]"
+  - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
@@ -83,10 +83,10 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
       \ and its destination must be in dim light or darkness."
     "name": "Shadow Jaunt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 12):\n\nAt will: [[/03_Mechanics/CLI/spells/minor-illusion-xphb|minor illusion]],\
-      \ [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]\n\n1/day\
-      \ each: [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]], [[/03_Mechanics/CLI/spells/disguise-self-xphb|disguise\
-      \ self]], [[/03_Mechanics/CLI/spells/silent-image-xphb|silent image]]"
+      \ the spellcasting ability (spell save DC 12):\n\nAt will: [[minor-illusion-xphb|minor illusion]],\
+      \ [[prestidigitation-xphb|prestidigitation]]\n\n1/day\
+      \ each: [[charm-person-xphb|charm person]], [[disguise-self-xphb|disguise\
+      \ self]], [[silent-image-xphb|silent image]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-innkeeper-mara-ironlung.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-innkeeper-mara-ironlung.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Pressure's End]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Aethermoor]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 

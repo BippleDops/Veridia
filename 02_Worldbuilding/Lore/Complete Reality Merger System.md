@@ -2,6 +2,9 @@
 created: '2025-08-11'
 status: complete
 tags:
+- combat
+- shadow-touched
+- aerial
 - both
 - complete
 - content/lore
@@ -13,10 +16,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.232660+00:00'
 world: Both
 ---
-
-
-
-
 
 
 ## Overview
@@ -77,3 +76,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Sky_Events_Pack_D|Sky Events Pack D]]
 - [[Journey_Event_Permutation_Engine|Journey Event Permutation Engine]]
 - [[Merger_Transit_Complications|Merger Transit Complications]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

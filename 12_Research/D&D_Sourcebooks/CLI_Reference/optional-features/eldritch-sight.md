@@ -20,7 +20,7 @@ world: Both
 # Eldritch Sight
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-You can cast [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]] at will, without expending a spell slot.
+You can cast [[detect-magic-xphb|detect magic]] at will, without expending a spell slot.
 
 ## Player-Facing Summary
 

@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/adult-gold-dragon-xmm|Adult Gold Dragon]]
+# [[adult-gold-dragon-xmm|Adult Gold Dragon]]
 *Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Adult gold dragons act subtly, frequently changing their shape to resemble harmless animals or cultivating personas so they can pass as common people.
@@ -68,13 +68,13 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+14"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+13"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
@@ -87,57 +87,57 @@ Gold dragons make their homes in places of natural and magical wonder.
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Spellcasting to cast [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]]\
+      \ use of (A) Spellcasting to cast [[guiding-bolt-xphb|Guiding Bolt]]\
       \ (level 2 version) or (B) Weakening Breath."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 4 (d8) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 66 (12d10) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 21, each creature that isn't currently affected\
-      \ by this breath in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
-      \ on Strength-based [[/03_Mechanics/CLI/variant-rules/d20-test-xphb|D20 Tests]]\
+      \ by this breath in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has [[disadvantage-xphb|Disadvantage]]\
+      \ on Strength-based [[d20-test-xphb|D20 Tests]]\
       \ and subtracts 3 (d6) from its damage rolls. It repeats the save at the end\
       \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
       \ it succeeds automatically."
     "name": "Weakening Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit\
-      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]] (level 2 version),\
-      \ [[/03_Mechanics/CLI/spells/shapechange-xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[/03_Mechanics/CLI/spells/flame-strike-xphb|Flame Strike]],\
-      \ [[/03_Mechanics/CLI/spells/zone-of-truth-xphb|Zone of Truth]]"
+      \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[guiding-bolt-xphb|Guiding Bolt]] (level 2 version),\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n1/day each: [[flame-strike-xphb|Flame Strike]],\
+      \ [[zone-of-truth-xphb|Zone of Truth]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "Charisma Saving Throw: DC 21, one creature the dragon can see within\
-      \ 120 feet. Failure: 10 (3d6) Force damage, and the target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ 120 feet. Failure: 10 (3d6) Force damage, and the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and is transported to a harmless demiplane until the start of the\
       \ dragon's next turn, at which point it reappears in an unoccupied space of\
       \ the dragon's choice within 120 feet of the dragon. Failure or Success: The\
       \ dragon can't take this action again until the start of its next turn."
     "name": "Banish"
-  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/guiding-bolt-xphb|Guiding Bolt]]\
+  - "desc": "The dragon uses Spellcasting to cast [[guiding-bolt-xphb|Guiding Bolt]]\
       \ (level 2 version)."
     "name": "Guiding Light"
-  - "desc": "The dragon moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
   - "desc": "The region containing an adult or ancient gold dragon's lair is altered\
       \ by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Dream Messenger. While in its lair, the dragon can cast [[/03_Mechanics/CLI/spells/dream-xphb|Dream]],\
+  - "desc": "- Dream Messenger. While in its lair, the dragon can cast [[dream-xphb|Dream]],\
       \ requiring no Material components and using Charisma as the spellcasting ability.\
       \ When casting the spell this way, the dragon can target any creature within\
-      \ 6 miles.  \n- Foretelling Fog. The area within 1 mile of the lair is [[/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb|Lightly\
+      \ 6 miles.  \n- Foretelling Fog. The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly\
       \ Obscured]] by opalescent\
-      \ fog. While in that area, creatures can't be [[/03_Mechanics/CLI/conditions#Surprised|surprised]],\
+      \ fog. While in that area, creatures can't be [[conditions#Surprised|surprised]],\
       \ as the fog swirls into shapes that warn of danger.  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."

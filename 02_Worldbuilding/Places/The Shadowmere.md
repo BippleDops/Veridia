@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
+- shadow-touched
 - both
 - complete
 - content/location
@@ -14,24 +16,21 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-shadowmere-the-shadowmere.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-shadowmere-the-shadowmere.png]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Drowned Prophecy]]
+- [[12_Research/D&D_References/Quest - The Drowned Prophecy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[12_Research/D&D_References/Party Shadows]]
+- [[12_Research/D&D_References/Shadow Independence Levels]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Seven Shards]]
 
 ## Player-Facing Summary
 
@@ -52,3 +51,7 @@ Legends speak of The Shadowmere as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

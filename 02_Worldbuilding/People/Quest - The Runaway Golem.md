@@ -23,13 +23,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg]]
 
 
 # Quest - The Runaway Golem
@@ -75,7 +70,7 @@ Explore themes of consciousness, freedom, and creator responsibility. Faithful s
 
 ## Connections
 
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[Master Artificer Korvin Gearwright]]
 
 
 ## Appearance
@@ -123,6 +118,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Quest - The Runaway Golem]]
+- [[Quest - The Runaway Golem]]
 
 <!-- enriched: true -->

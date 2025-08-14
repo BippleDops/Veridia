@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Reputation System]]
+- [[Reputation System]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Reputation System]]
+- [[Reputation System]]
 
 ## Player-Facing Summary
 

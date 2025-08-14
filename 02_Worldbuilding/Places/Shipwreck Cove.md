@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shipwreck-cove-shipwreck-cove.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shipwreck-cove-shipwreck-cove.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shipwreck Cove]]
+- [[Shipwreck Cove]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[Coral Throne Syndicate]]

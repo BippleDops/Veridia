@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-palace-security-chief-palace-security-chief.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-palace-security-chief-palace-security-chief.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Palace Security Chief]]
+- [[12_Research/D&D_References/Palace Security Chief]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[12_Research/D&D_References/Ancient Tunnels Beneath Palace]]

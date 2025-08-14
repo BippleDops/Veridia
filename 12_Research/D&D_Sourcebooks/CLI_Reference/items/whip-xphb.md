@@ -23,7 +23,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/whip.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 

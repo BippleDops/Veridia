@@ -3,6 +3,10 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,56 +19,60 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg]]
 
 
 # The Primordial Vaults - The First Prison
 
 ## Overview
-Deep beneath [[02_Worldbuilding/Lore/Aquabyssos World Overview]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
+
+Deep beneath [[12_Research/D&D_References/Aquabyssos World Overview]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
 
 ## Vault Sections
 
 ### The Threshold Gates (8000 feet)
-Seven massive doors, each requiring different keys or rituals to open. [[02_Worldbuilding/Places/Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
+
+Seven massive doors, each requiring different keys or rituals to open. [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
 
 ### The Hall of Untime
-Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[02_Worldbuilding/Places/Chronomancer Paradox]] exists here in seventeen versions of himself.
+
+Corridor where time flows backward, forward, and sideways simultaneously. Those who enter may emerge younger, older, or multiplied into temporal echoes. [[12_Research/D&D_References/Chronomancer Paradox]] exists here in seventeen versions of himself.
 
 ### The Genesis Chambers
-Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[02_Worldbuilding/Places/The First Failure]], a sentient mistake, pleads for death or freedom.
+
+Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[12_Research/D&D_References/The First Failure]], a sentient mistake, pleads for death or freedom.
 
 ### The Inverse Cathedral
-A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[02_Worldbuilding/Places/Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
+
+A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[12_Research/D&D_References/Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
 
 ### The Memory Core
-Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[02_Worldbuilding/Places/The Forgotten One]] dwells here, made entirely of stolen memories.
+
+Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[12_Research/D&D_References/The Forgotten One]] dwells here, made entirely of stolen memories.
 
 ### The Deepest Lock
-The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[02_Worldbuilding/Places/The Great Drowning]] was meant to keep imprisoned.
+
+The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[12_Research/D&D_Statblocks/The Great Drowning]] was meant to keep imprisoned.
 
 ## Vault Inhabitants
 
 ### Original Prisoners
+
 - **The Unmaker**: Entity that dissolves reality around it
 - **The Dream Eater**: Feeds on sleeping minds across Aquabyssos
 - **The First Betrayer**: The original architect, imprisoned in their creation
 - **Echo of Creation**: Fragment of whatever force made the world
 
 ### Corrupted Guardians
+
 - **Vault Keeper Eternal**: Immortal guardian of the entrance
 - **The Wardens of Stone**: Golems that reassemble when destroyed
 - **Paradox Sentinels**: Beings that exist in multiple timelines
 - **The Null Guards**: Entities that erase things from existence
 
 ### Lost Explorers
+
 - **The Depth Touched**: Explorers transformed by vault energies
 - **Memory Thieves**: Those who stayed too long in the Memory Core
 - **The Multiplication**: Single explorer split into hostile duplicates
@@ -73,38 +81,49 @@ The final chamber, sealed with thirteen locks, each key hidden throughout Aquaby
 ## Artifacts Within
 
 ### The Creation Tablets
+
 Stone tablets describing how to create and destroy worlds. Written in a language that damages the mind to read.
 
 ### The First Key
+
 Master key that allegedly opens any lock in existence, including metaphysical ones like death or fate.
 
 ### The Unwater
+
 Liquid that undoes the drowning wherever it touches, but spreads madness with its use.
 
 ### The Original Sin
+
 Physical manifestation of the first wrongdoing, touching it reveals your worst nature.
 
 ### The Cage of Gods
+
 Empty prison that once held deities. Their escape may have triggered the drowning.
 
 ## Phenomena
 
 ### Gravity Wells
+
 Areas where gravity pulls in impossible directions, creating Escher-like navigation challenges.
 
 ### Temporal Storms
+
 Violent distortions aging or reversing anything caught within.
 
 ### Reality Bleeds
+
 Places where other dimensions leak through, bringing alien geometries and entities.
 
 ### Memory Hurricanes
+
 Psychic storms that scramble memories and personalities of those caught within.
 
 ### The Void Pools
+
 Black water that doesn't reflect anything - falling in erases you from history.
 
 ## Hazards
+
 - Architecture that rearranges when not observed
 - Doors that lead to different places depending on who opens them
 - Air that becomes solid, water that becomes gaseous
@@ -112,13 +131,15 @@ Black water that doesn't reflect anything - falling in erases you from history.
 - Light that causes madness, darkness that grants clarity
 
 ## Current Activity
-1. [[02_Worldbuilding/Lore/Order of the Sunken Crown]] expedition seeking the First Key
+
+1. [[12_Research/D&D_References/Order of the Sunken Crown]] expedition seeking the First Key
 2. Tremors suggesting something massive stirring in the Deepest Lock
 3. Vault Guardians becoming active after centuries of dormancy
 4. Reality bleeds increasing in frequency
-5. [[02_Worldbuilding/Places/The Deepmind]] sending psychic probes into the vaults
+5. [[12_Research/D&D_Statblocks/The Deepmind]] sending psychic probes into the vaults
 
 ## Secrets
+
 > [!warning] DM Only
 > - The vaults were built to contain the entity that would eventually cause the drowning
 > - The Great Drowning was Plan B after the vaults began failing
@@ -127,12 +148,14 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The vaults are slowly rising toward the surface
 
 ## Connections to Other Areas
-- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[02_Worldbuilding/Places/The Cerulean Trench]]
+
+- Secret tunnel from [[12_Research/D&D_References/The Sunken Cathedral of Stars]] crypts
+- Overlaps with deepest parts of [[12_Research/D&D_References/The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[02_Worldbuilding/Places/New Tethys]] Conservatory of Memory
+- Memory streams connect to [[12_Research/D&D_References/New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
+
 1. No one may speak their true name within
 2. Every third step must be backward
 3. Blood spilled becomes sentient
@@ -140,6 +163,7 @@ Black water that doesn't reflect anything - falling in erases you from history.
 5. Death is temporary but madness is permanent
 
 ## Random Encounters (d12)
+
 1. Temporal echo of future/past party
 2. Gravity suddenly reversing
 3. Door appearing in empty wall
@@ -154,24 +178,26 @@ Black water that doesn't reflect anything - falling in erases you from history.
 12. The First Key's guardian
 
 ## Connected NPCs
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]] - Entrance guardian
-- [[02_Worldbuilding/Places/Chronomancer Paradox]] - Time-lost wizard
-- [[02_Worldbuilding/Places/The First Failure]] - Sentient experiment
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]] - Inverse Cathedral keeper
-- [[02_Worldbuilding/Places/The Forgotten One]] - Memory thief
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Knows vault secrets
+
+- [[12_Research/D&D_Statblocks/Vault Keeper Eternal]] - Entrance guardian
+- [[12_Research/D&D_References/Chronomancer Paradox]] - Time-lost wizard
+- [[12_Research/D&D_References/The First Failure]] - Sentient experiment
+- [[12_Research/D&D_References/Anti-Priest Nullus]] - Inverse Cathedral keeper
+- [[12_Research/D&D_References/The Forgotten One]] - Memory thief
+- [[12_Research/D&D_References/Elder Whisper-In-The-Dark]] - Knows vault secrets
 
 ## Quests Available
-- [[02_Worldbuilding/Places/The Thirteen Keys]] - Gather keys to the Deepest Lock
-- [[02_Worldbuilding/Places/Vault Breach]] - Stop or cause a prisoner escape
-- [[02_Worldbuilding/Places/Memory Heist]] - Steal specific memories from the Core
-- [[02_Worldbuilding/Places/Temporal Rescue]] - Save explorers from time loops
-- [[02_Worldbuilding/Places/The First Truth]] - Learn why the vaults were built
+
+- [[12_Research/D&D_References/The Thirteen Keys]] - Gather keys to the Deepest Lock
+- [[12_Research/D&D_References/Vault Breach]] - Stop or cause a prisoner escape
+- [[12_Research/D&D_References/Memory Heist]] - Steal specific memories from the Core
+- [[12_Research/D&D_References/Temporal Rescue]] - Save explorers from time loops
+- [[12_Research/D&D_References/The First Truth]] - Learn why the vaults were built
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[12_Research/D&D_References/Stop the Shadow Harvest]]
 
 ## Player-Facing Summary
 
@@ -193,16 +219,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[12_Research/D&D_References/The Primordial Vaults]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Memory Heist]]
-- [[02_Worldbuilding/Places/Temporal Rescue]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The First Failure]]
-- [[02_Worldbuilding/Places/The First Truth]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
-- [[02_Worldbuilding/Places/The Thirteen Keys]]
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[12_Research/D&D_References/Order of the Sunken Crown]]
+- [[12_Research/D&D_References/Anti-Priest Nullus]]
+- [[12_Research/D&D_References/Memory Heist]]
+- [[12_Research/D&D_References/Temporal Rescue]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+- [[12_Research/D&D_References/The First Failure]]
+- [[12_Research/D&D_References/The First Truth]]
+- [[12_Research/D&D_References/The Forgotten One]]
+- [[12_Research/D&D_References/The Thirteen Keys]]
+- [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

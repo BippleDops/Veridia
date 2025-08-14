@@ -21,9 +21,9 @@ world: Both
 *Source: Player's Handbook p. 139*  
 
 
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Athletics|Athletics]], [[/03_Mechanics/CLI/skills#Perception|Perception]]  
-- **Tool Proficiencies.** [[/03_Mechanics/CLI/items/navigators-tools-xphb|Navigator's tools]], vehicles (water)  
-- **Equipment.** A belaying pin ([[/03_Mechanics/CLI/items/club-xphb|club]]), [[/03_Mechanics/CLI/items/silk-rope-50-feet|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[/03_Mechanics/CLI/items/trinket-xphb|trinket]] on the Trinkets table in chapter 5), a set of [[/03_Mechanics/CLI/items/common-clothes|common clothes]], and a belt [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 10 gp  
+- **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]  
+- **Tool Proficiencies.** [[navigators-tools-xphb|Navigator's tools]], vehicles (water)  
+- **Equipment.** A belaying pin ([[club-xphb|club]]), [[silk-rope-50-feet|silk rope (50 feet)]], a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [[trinket-xphb|trinket]] on the Trinkets table in chapter 5), a set of [[common-clothes|common clothes]], and a belt [[pouch-xphb|pouch]] containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cyclops-sentry-xmm-cyclops-sentry-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/cyclops-sentry-xmm|Cyclops Sentry]]
+# [[cyclops-sentry-xmm|Cyclops Sentry]]
 *Source: Monster Manual (2024) p. 88*  
 
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
@@ -68,7 +68,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 16 (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Stone Club"
   - "desc": "Ranged Attack Roll: +9, range 30/120 ft. Hit: 22 (3d10 + 6) Bludgeoning\
@@ -76,8 +76,8 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Rock"
 "reactions":
   - "desc": "Trigger: A creature the cyclops can see makes an attack roll against\
-      \ it. _Response:_ The cyclops imposes [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
-      \ on the roll, and the cyclops gains [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ it. _Response:_ The cyclops imposes [[disadvantage-xphb|Disadvantage]]\
+      \ on the roll, and the cyclops gains [[advantage-xphb|Advantage]]\
       \ on attack rolls against the target until the end of the cyclops's next turn."
     "name": "Limited Foresight (Recharge 6)"
 "source":

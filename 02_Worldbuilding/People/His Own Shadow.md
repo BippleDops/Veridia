@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-his-own-shadow-his-own-shadow.svg)
-
-
-
 
 
 # Umbra Mirrorbane, His Own Shadow
@@ -96,20 +90,20 @@ He operates from the Reflection District, a maze-like area where mirrors line ev
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/Shadow Parliament]]** - His primary faction, valuing his infiltration abilities
+- **[[Shadow Parliament]]** - His primary faction, valuing his infiltration abilities
 - **The Doppelganger Guild** - Criminal organization of identity thieves
 - **Mirror Merchants** - Vendors who sell reflections and false identities
 - **The Faceless** - Cult that worships the dissolution of individual identity
 
 **Enemies:**
-- **[[02_Worldbuilding/People/The Waking Prophets]]** - Their true sight abilities threaten his disguises
+- **[[The Waking Prophets]]** - Their true sight abilities threaten his disguises
 - **Mirror Wardens** - Guardians who protect people from reflection-based magic
 - **Identity Historians** - Scholars who document and preserve individual stories
 - **His Original** - The person whose shadow he originally was, now hunting him
 
 **Complicated:**
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - They trade in different aspects of personal history
-- **[[02_Worldbuilding/People/The Biomancers]]** - Interested in studying his unique nature but wary of his influence
+- **[[Memory Merchant Valeria Siltweave]]** - They trade in different aspects of personal history
+- **[[The Biomancers]]** - Interested in studying his unique nature but wary of his influence
 - **Reflection Victims** - People he has impersonated who now question their own reality
 
 ## Quest Hooks
@@ -183,8 +177,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/His Own Shadow]]
+- [[His Own Shadow]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/People/The Waking Prophets]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[The Waking Prophets]]

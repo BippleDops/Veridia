@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-purple-worm-xmm-purple-worm-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/purple-worm-xmm|Purple Worm]]
+# [[purple-worm-xmm|Purple Worm]]
 *Source: Monster Manual (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Purple Worm
@@ -67,36 +67,36 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 "languages": ""
 "cr": "15"
 "traits":
-  - "desc": "The worm can burrow through solid rock at half its [[/03_Mechanics/CLI/variant-rules/burrow-speed-xphb|Burrow Speed]]\
+  - "desc": "The worm can burrow through solid rock at half its [[burrow-speed-xphb|Burrow Speed]]\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
   - "desc": "The worm makes one Bite attack and one Tail Stinger attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 22 (3d8 + 9) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition (escape DC 19), and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
+      \ condition (escape DC 19), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 16 (2d6 + 9) Piercing damage\
       \ plus 35 (10d6) Poison damage."
     "name": "Tail Stinger"
 "bonus_actions":
-  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [[conditions#Grappled|Grappled]]\
       \ by the worm (it can have up to three creatures swallowed at a time). Failure:\
-      \ The target is swallowed by the worm, and the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition ends. A swallowed creature has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
-      \ and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] conditions, has\
-      \ [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]] against attacks\
+      \ The target is swallowed by the worm, and the [[conditions#Grappled|Grappled]]\
+      \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Restrained|Restrained]] conditions, has\
+      \ [[cover-xphb|Total Cover]] against attacks\
       \ and other effects outside the worm, and takes 17 (5d6) Acid damage at the\
       \ start of each of the worm's turns.\n\nIf the worm takes 30 damage or more\
       \ on a single turn from a creature inside it, the worm must succeed on a DC\
       \ 21 Constitution saving throw at the end of that turn or regurgitate all swallowed\
       \ creatures, each of which falls in a space within 5 feet of the worm and has\
-      \ the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. If the worm dies,\
-      \ any swallowed creature no longer has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ the [[conditions#Prone|Prone]] condition. If the worm dies,\
+      \ any swallowed creature no longer has the [[conditions#Restrained|Restrained]]\
       \ condition and can escape from the corpse using 20 feet of movement, exiting\
-      \ [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
+      \ [[conditions#Prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"

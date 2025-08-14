@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[12_Research/D&D_References/Customs House]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Customs House]]
+- [[12_Research/D&D_References/Customs House]]
 
 ## Player-Facing Summary
 

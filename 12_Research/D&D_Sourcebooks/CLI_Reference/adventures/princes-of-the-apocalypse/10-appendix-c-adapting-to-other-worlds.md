@@ -255,7 +255,7 @@ The biggest change you'll have to make is to the adventure's assumed cosmology. 
 
 ### Background
 
-As the adventure begins, Eberron's sages note with interest that four planes will become coterminous with Eberron within the next several months—a rare occurrence even in the annals of astronomers and diviners. For them, it's a matter of academic interest. But for [[/03_Mechanics/CLI/bestiary/npc/imix-pota|Imix]], [[/03_Mechanics/CLI/bestiary/npc/ogremoch-pota|Ogrémoch]], [[/03_Mechanics/CLI/bestiary/npc/olhydra-pota|Olhydra]], and [[/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota|Yan-C-Bin]], it's the chance they've been waiting for.
+As the adventure begins, Eberron's sages note with interest that four planes will become coterminous with Eberron within the next several months—a rare occurrence even in the annals of astronomers and diviners. For them, it's a matter of academic interest. But for [[imix-pota|Imix]], [[ogremoch-pota|Ogrémoch]], [[olhydra-pota|Olhydra]], and [[yan-c-bin-pota|Yan-C-Bin]], it's the chance they've been waiting for.
 
 Under direction of the nameless entity known as the Elder Elemental Eye (perhaps the Dragon Below, the Dreaming Dark, or the Lords of Dust), the four Elemental Princes assemble their cults as described in the adventure. Their goal isn't just to bring the region under the control of Elemental Evil, but to freeze the progression of all the planes of existence so that their four planes remain coterminous with Eberron. Then they will march vast armies from their extraplanar homes and bring all of Khorvaire—and eventually all of Eberron—under their control.
 
@@ -307,7 +307,7 @@ Once you've located the adventure in the world and figured out how you're going 
 
 - Give some of the magic items in the adventure an Eberron spin by connecting them to the magic of dragonshards. The four elemental weapons wielded by the prophets, for example, might be powered by Khyber dragonshards.  
 - Connect the economy of the Dessarin Valley to the dragonmarked houses. Kaylessa runs Red Larch's inn, the Swinging Sword, on behalf of House Ghallanda, and many of the town's wagonwrights are affiliated with House Lyrandar. The missing delegation that kicks off the adventure in chapter 3 might be organized by House Kundarak.  
-- Include some NPCs of Eberron-specific races. Grund in Red Larch (described in chapter 6) can be a warforged; much of the town looks down on him anyway. The doppelganger in the "Halls of the Hunting Axe" side trek could be a changeling, and it's not difficult to imagine the prophet [[/03_Mechanics/CLI/bestiary/npc/vanifer-pota|Vanifer]] being one too. Some of the lycanthropes and druids at Scarlet Moon Hall (described in chapter 3) might be shifters.  
+- Include some NPCs of Eberron-specific races. Grund in Red Larch (described in chapter 6) can be a warforged; much of the town looks down on him anyway. The doppelganger in the "Halls of the Hunting Axe" side trek could be a changeling, and it's not difficult to imagine the prophet [[vanifer-pota|Vanifer]] being one too. Some of the lycanthropes and druids at Scarlet Moon Hall (described in chapter 3) might be shifters.  
 - Tweak the adventure's background to connect it to the Last War. Perhaps the four prophets are war refugees—or war criminals. And they found themselves picking up their elemental weapons for the first time on the Day of Mourning.  
 
 ## Your Own World

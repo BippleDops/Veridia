@@ -27,10 +27,10 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sacred-statue-mpmm-sacred-statue-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/sacred-statue-mpmm|Sacred Statue]]
+# [[sacred-statue-mpmm|Sacred Statue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm|eidolon]] plunges into a [[/03_Mechanics/CLI/bestiary/construct/sacred-statue-mpmm|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [[eidolon-mpmm|eidolon]] plunges into a [[sacred-statue-mpmm|statue]] specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```statblock
 "name": "Sacred Statue (MPMM)"
@@ -55,26 +55,26 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "damage_resistances": "acid; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
-"languages": "the languages the [[/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm|eidolon]]\
+"languages": "the languages the [[eidolon-mpmm|eidolon]]\
   \ knew in life"
 "traits":
   - "desc": "If the statue is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the statue\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]])\
+      \ move or act, that creature must succeed on a DC 18 Intelligence ([[skills#Investigation|Investigation]])\
       \ check to discern that the statue isn't an object."
     "name": "False Appearance"
-  - "desc": "The [[/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm|eidolon]] that\
+  - "desc": "The [[eidolon-mpmm|eidolon]] that\
       \ enters the statue remains inside it until the statue drops to 0 hit points,\
       \ the eidolon uses a bonus action to move out of the statue, or the eidolon\
-      \ is turned or forced out by an effect such as the [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|dispel evil and good]]\
+      \ is turned or forced out by an effect such as the [[dispel-evil-and-good-xphb|dispel evil and good]]\
       \ spell. When the eidolon leaves the statue, it appears in an unoccupied space\
       \ within 5 feet of the statue."
     "name": "Ghostly Inhabitant"
-  - "desc": "Without an [[/03_Mechanics/CLI/bestiary/undead/eidolon-mpmm|eidolon]]\
+  - "desc": "Without an [[eidolon-mpmm|eidolon]]\
       \ inside, the statue is an object."
     "name": "Inert"
   - "desc": "The statue doesn't require air, food, drink, or sleep."

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/fiendish-giant-spider-oota|Fiendish Giant Spider]]
+# [[fiendish-giant-spider-oota|Fiendish Giant Spider]]
 *Source: Out of the Abyss p. 97*  
 
 ```statblock
@@ -45,13 +45,13 @@ world: Both
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/2"
@@ -69,9 +69,9 @@ world: Both
       \ (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 7 (2d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]\
-      \ for 1 hour, even after regaining hit points, and is [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
-      \ while [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]] in this way."
+      \ the target is stable but [[conditions#Poisoned|poisoned]]\
+      \ for 1 hour, even after regaining hit points, and is [[conditions#Paralyzed|paralyzed]]\
+      \ while [[conditions#Poisoned|poisoned]] in this way."
     "name": "Bite"
 "source":
   - "OotA"

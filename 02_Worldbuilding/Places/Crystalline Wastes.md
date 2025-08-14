@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystalline-wastes-crystalline-wastes.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystalline-wastes-crystalline-wastes.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystalline Wastes]]
+- [[Crystalline Wastes]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[Crystal Wardens]]
+- [[Quest - The Pretender's Crown]]

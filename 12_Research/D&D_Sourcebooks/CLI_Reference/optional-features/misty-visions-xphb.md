@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [[/03_Mechanics/CLI/spells/silent-image-xphb|Silent Image]] without expending a spell slot.
+You can cast [[silent-image-xphb|Silent Image]] without expending a spell slot.
 
 ## Player-Facing Summary
 

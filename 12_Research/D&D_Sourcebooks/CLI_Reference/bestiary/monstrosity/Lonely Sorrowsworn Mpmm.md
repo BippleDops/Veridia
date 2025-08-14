@@ -32,7 +32,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lonely-sorrowsworn-mpmm-lonely-sorrowsworn-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/lonely-sorrowsworn-mpmm|Lonely Sorrowsworn]]
+# [[lonely-sorrowsworn-mpmm|Lonely Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
@@ -75,11 +75,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21\
-      \ (4d8 + 3) piercing damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (4d8 + 3) piercing damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two\
       \ harpoon arms and can grapple up to two creatures at once."
     "name": "Harpoon Arm"
-  - "desc": "Each creature [[/03_Mechanics/CLI/conditions#Grappled|grappled]] by\
+  - "desc": "Each creature [[conditions#Grappled|grappled]] by\
       \ the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic\
       \ damage on a failed save, or half as much damage on a successful one. In either\
       \ case, the sorrowsworn pulls each of those creatures up to 30 feet straight\

@@ -506,14 +506,14 @@ Encounters marked with an asterisk have explanations that appear after the table
 
 |    |    |    |
 |----|----|----|
-| 2 | — | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
-| — | 2 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|jackalweres]] |
+| 2 | — | [[aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
+| — | 2 | `1d4 + 1` [[jackalwere-xmm|jackalweres]] |
 | 3 | — | Knights of Samular* |
 | 4 | 3 | Pilgrims* |
-| — | 4 | `d2` [[/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm|owlbears]] |
+| — | 4 | `d2` [[owlbear-xmm|owlbears]] |
 | 5 | 5 | Elk tribe hunters* |
-| 6 | 6 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm|ankhegs]] |
-| 7 | 7 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] |
+| 6 | 6 | `d3` [[ankheg-xmm|ankhegs]] |
+| 7 | 7 | `1d3 + 1` [[bugbear-warrior-xmm|bugbears]] |
 | 8 | 8 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
 | 9 | — | Dwarf miners* |
 | 10 | — | Caravan* |
@@ -522,72 +522,72 @@ Encounters marked with an asterisk have explanations that appear after the table
 | 13 | 10 | Water cult marauders* |
 | 14 | 11 | Earth cult robbers* |
 | 15 | 12 | Fire cult raiders* |
-| 16 | 13 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|gnolls]] |
+| 16 | 13 | `1d4 + 1` [[gnoll-warrior-xmm|gnolls]] |
 | 17 | — | Shepherds* |
-| 18 | 14 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/beast/wolf-xmm|wolves]] |
-| 19 | 15 | `d3` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
-| — | 16 | `d2` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
-| — | 17 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
-| 20 | 18 | `d2` [[/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm|perytons]] |
-| — | 19 | `d3` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
+| 18 | 14 | `1d6 + 2` [[wolf-xmm|wolves]] |
+| 19 | 15 | `d3` [[ogre-xmm|ogres]] |
+| — | 16 | `d2` [[gargoyle-xmm|gargoyles]] |
+| — | 17 | `1d3 + 1` [[ghoul-xmm|ghouls]] |
+| 20 | 18 | `d2` [[peryton-xmm|perytons]] |
+| — | 19 | `d3` [[wight-xmm|wights]] |
 | — | 20 | The Watchful Knight* |
 
 #### River Travels
 
 |    |    |
 |----|----|
-| 2–3 | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
+| 2–3 | [[aarakocra-skirmisher-xmm|Aarakocra]] scouts* |
 | 4–5 | Air cult skyriders* |
 | 6–9 | River pirates* |
 | 10–14 | Keelboat* |
-| 15–16 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm|merrow]] |
-| 17–18 | `2d4` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
-| 19–20 | 1 [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water elemental]] |
+| 15–16 | `d4` [[merrow-xmm|merrow]] |
+| 17–18 | `2d4` [[ghoul-xmm|ghouls]] |
+| 19–20 | 1 [[water-elemental-xmm|water elemental]] |
 
 #### Later Travels
 
 |    |    |    |
 |----|----|----|
-| 2 | — | [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|Aarakocra]] war band* |
-| — | 2 | `2d6` [[/03_Mechanics/CLI/bestiary/fiend/jackalwere-xmm|jackalweres]] |
-| 3 | 3 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm|manticores]] |
-| 4 | 4 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|trolls]] |
+| 2 | — | [[aarakocra-skirmisher-xmm|Aarakocra]] war band* |
+| — | 2 | `2d6` [[jackalwere-xmm|jackalweres]] |
+| 3 | 3 | `d3` [[manticore-xmm|manticores]] |
+| 4 | 4 | `1d3 + 1` [[troll-xmm|trolls]] |
 | 5 | 5 | Elk tribe hunters* |
-| — | 6 | `d8` [[/03_Mechanics/CLI/bestiary/undead/will-o-wisp-xmm|will-o'-wisps]] |
+| — | 6 | `d8` [[will-o-wisp-xmm|will-o'-wisps]] |
 | 6 | — | Knights of Samular* |
 | 7 | — | Homestead* |
-| — | 7 | `d2` [[/03_Mechanics/CLI/bestiary/undead/ghast-xmm|ghasts]] and `1d4 + 2` [[/03_Mechanics/CLI/bestiary/undead/ghoul-xmm|ghouls]] |
-| 8 | 8 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm|gargoyles]] |
+| — | 7 | `d2` [[ghast-xmm|ghasts]] and `1d4 + 2` [[ghoul-xmm|ghouls]] |
+| 8 | 8 | `1d4 + 1` [[gargoyle-xmm|gargoyles]] |
 | 9 | 9 | Air cult skyriders* |
 | 10 | 10 | Water cult raiders* |
-| 11 | 11 | `1d6 + 2` [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|bugbears]] |
+| 11 | 11 | `1d6 + 2` [[bugbear-warrior-xmm|bugbears]] |
 | 12 | 12 | Fire cult war band* |
 | 13 | 13 | Earth cult marauders* |
-| 14 | 14 | `2d4` [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
+| 14 | 14 | `2d4` [[ogre-xmm|ogres]] |
 | 15 | — | Caravan* |
-| — | 15 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] |
+| — | 15 | `1d4 + 1` [[wight-xmm|wights]] |
 | 16 | 16 | `2d4` mephits* |
 | 17 | — | Dwarf miners* |
-| — | 17 | `d3` [[/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm|vampire spawn]] |
+| — | 17 | `d3` [[vampire-spawn-xmm|vampire spawn]] |
 | 18 | 18 | `d3` elementals* |
-| 19 | 19 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm|bulette]] |
-| 20 | 20 | `d2` [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|hill giants]] |
+| 19 | 19 | 1 [[bulette-xmm|bulette]] |
+| 20 | 20 | `d2` [[hill-giant-xmm|hill giants]] |
 
 ##### Aarakocra Scouts
 
-These `1d4 + 1` [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|aarakocra]] attack those who appear to be elemental cultists. Otherwise, the aarakocra might be helpful.
+These `1d4 + 1` [[aarakocra-skirmisher-xmm|aarakocra]] attack those who appear to be elemental cultists. Otherwise, the aarakocra might be helpful.
 
 ##### Aarakocra War Band
 
-A war band consists of `1d6 + 3` [[/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm|aarakocra]] and an [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air elemental]]. They interact like the scouts, above.
+A war band consists of `1d6 + 3` [[aarakocra-skirmisher-xmm|aarakocra]] and an [[air-elemental-xmm|air elemental]]. They interact like the scouts, above.
 
 ##### Air Cult Scouts
 
-A group of scouts for the air cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricanes]] in [[/03_Mechanics/CLI/items/wingwear-pota|wingwear]]. See chapter 7 for the cultists' statistics and [[/03_Mechanics/CLI/items/wingwear-pota|wingwear]] description.
+A group of scouts for the air cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricanes]] in [[wingwear-pota|wingwear]]. See chapter 7 for the cultists' statistics and [[wingwear-pota|wingwear]] description.
 
 ##### Air Cult Skyriders
 
-One [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] leads `d4` [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweavers]]. They all ride [[/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm|giant vultures]]. See chapter 7 for the cultists' statistics
+One [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] leads `d4` [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweavers]]. They all ride [[giant-vulture-xmm|giant vultures]]. See chapter 7 for the cultists' statistics
 
 ##### Caravan
 
@@ -599,7 +599,7 @@ A band of dwarf miners consists of `1d4 + 1` shield dwarf [[/03_Mechanics/CLI/be
 
 ##### Earth Cult Marauders
 
-A band of marauders for the earth cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]], a [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]], and `d4`−1 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]]. See chapter 7 for the cultists' statistics.
+A band of marauders for the earth cult consists of `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]], a [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]], and `d4`−1 [[ogre-xmm|ogres]]. See chapter 7 for the cultists' statistics.
 
 ##### Earth Cult Robbers
 
@@ -607,7 +607,7 @@ These earth cult robbers stake out spots to waylay passersby. The group consists
 
 ##### Elementals
 
-A small group of elementals wanders freely. Roll a `d4` to determine the type of elementals: 1, [[/03_Mechanics/CLI/bestiary/elemental/air-elemental-xmm|air]]; 2, [[/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm|earth]]; 3, [[/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm|fire]]; 4, [[/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm|water]].
+A small group of elementals wanders freely. Roll a `d4` to determine the type of elementals: 1, [[air-elemental-xmm|air]]; 2, [[earth-elemental-xmm|earth]]; 3, [[fire-elemental-xmm|fire]]; 4, [[water-elemental-xmm|water]].
 
 ##### Elk Tribe Hunters
 
@@ -619,7 +619,7 @@ The fire cult sends out raiders that include `2d6` [[/03_Mechanics/CLI/bestiary/
 
 ##### Fire Cult War Band
 
-A war band of the fire cult consists of `d6` [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], an [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]], and `d3` [[/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm|hell hounds]]. See chapter 7 for the cultists' statistics.
+A war band of the fire cult consists of `d6` [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]], an [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota|Eternal Flame priest]], and `d3` [[hell-hound-xmm|hell hounds]]. See chapter 7 for the cultists' statistics.
 
 ##### Homestead
 
@@ -635,7 +635,7 @@ This armed patrol consists of `d4` [[/03_Mechanics/CLI/bestiary/humanoid/warrior
 
 ##### Mephits
 
-Several mephits travel in a pack. Roll a `d6` to determine the mephit type: 1, [[/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm|dust]]; 2, [[/03_Mechanics/CLI/bestiary/elemental/ice-mephit-xmm|ice]]; 3, [[/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm|magma]]; 4, [[/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm|mud]]; 5, [[/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm|smoke]]; 6, [[/03_Mechanics/CLI/bestiary/elemental/steam-mephit-xmm|steam]].
+Several mephits travel in a pack. Roll a `d6` to determine the mephit type: 1, [[dust-mephit-xmm|dust]]; 2, [[ice-mephit-xmm|ice]]; 3, [[magma-mephit-xmm|magma]]; 4, [[mud-mephit-xmm|mud]]; 5, [[smoke-mephit-xmm|smoke]]; 6, [[steam-mephit-xmm|steam]].
 
 ##### Pilgrims
 
@@ -651,7 +651,7 @@ A group of shepherds watch over herd animals. Roll a `d6` to determine the sheph
 
 ##### The Watchful Knight
 
-Once, this [[/03_Mechanics/CLI/bestiary/construct/helmed-horror-xmm|helmed horror]] stood watch in the common room of the Inn of the Watchful Knight in Beliard. It chooses one character at random, advances to within 5 feet, then studies the target for several seconds. If attacked, it fights back, retreating after it loses half its hit points. Otherwise, it follows the chosen character for `d3` days, guarding its temporary master in combat. At the end of that time the helmed horror wanders off again.
+Once, this [[helmed-horror-xmm|helmed horror]] stood watch in the common room of the Inn of the Watchful Knight in Beliard. It chooses one character at random, advances to within 5 feet, then studies the target for several seconds. If attacked, it fights back, retreating after it loses half its hit points. Otherwise, it follows the chosen character for `d3` days, guarding its temporary master in combat. At the end of that time the helmed horror wanders off again.
 
 ##### Water Cult Marauders
 
@@ -659,7 +659,7 @@ A marauder gang of the water cult consists of `2d6` [[/03_Mechanics/CLI/bestiary
 
 ##### Water Cult Raiders
 
-A group of raiders from the water cult includes `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]], a [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and a [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|one-eyed shiver]]. The leader is a [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] mounted on a [[/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm|giant crocodile]]. See chapter 7 for the cultists' statistics.
+A group of raiders from the water cult includes `2d6` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]], a [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]], and a [[/03_Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota|one-eyed shiver]]. The leader is a [[/03_Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota|Dark Tide knight]] mounted on a [[giant-crocodile-xmm|giant crocodile]]. See chapter 7 for the cultists' statistics.
 
 ## Valley Sites
 
@@ -715,7 +715,7 @@ This is the camp of Haayon the Punisher, described in the "Wrath of the Elements
 
 #### Reaver Ambush
 
-This is the camp of water cult reavers, described in the "Early Investigations" section of chapter 3. The camp is here only until the characters defeat Jolliver Grimjaw (chapter 3) or [[/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota|Gar Shatterkeel]] (chapter 4).
+This is the camp of water cult reavers, described in the "Early Investigations" section of chapter 3. The camp is here only until the characters defeat Jolliver Grimjaw (chapter 3) or [[gar-shatterkeel-pota|Gar Shatterkeel]] (chapter 4).
 
 ### Goldenfields
 
@@ -777,7 +777,7 @@ Rivergard is home to a mercenary band led by "Lord of the Castle" Jolliver Grimj
 
 Northwest of Westbridge, on the forest's edge, stands Helvenblade House, the principal country estate of the Silmerhelve noble house of Waterdeep. It consists of a fortified manor, stables, a guest lodge, and two outlying hunting lodges connected by grass paths that enclose a food and herb garden and a small lawn. A large, lightly wooded hunting preserve extends for several miles from the manor.
 
-The Silmerhelves visit perhaps six times a year, and the rest of the time the sleepy estate is left to the live-in staff. Helvenblade has never been overrun by bandits or otherwise put to ruin; the servants ascribe this to its protection by the "family ghost." In reality, a secretive dragon named Umsheryoth (adult male [[/03_Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm|bronze dragon]]) guards the house and has been a friend to the Silmerhelves for generations.
+The Silmerhelves visit perhaps six times a year, and the rest of the time the sleepy estate is left to the live-in staff. Helvenblade has never been overrun by bandits or otherwise put to ruin; the servants ascribe this to its protection by the "family ghost." In reality, a secretive dragon named Umsheryoth (adult male [[adult-bronze-dragon-xmm|bronze dragon]]) guards the house and has been a friend to the Silmerhelves for generations.
 
 #### Reason to Visit
 

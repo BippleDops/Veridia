@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-sea-xphb-beast-of-the-sea-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/beast-of-the-sea-xphb|Beast of the Sea]]
+# [[beast-of-the-sea-xphb|Beast of the Sea]]
 *Source: Player's Handbook (2024) p. 124*  
 
 ```statblock
@@ -53,7 +53,7 @@ world: Both
 "actions":
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage\
-      \ (your choice when you summon the beast), and the target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ (your choice when you summon the beast), and the target has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC equals your spell save DC)."
     "name": "Beast's Strike"
 "source":

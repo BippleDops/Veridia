@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bronze-dragon-wyrmling-xmm-bronze-dragon-wyrmling-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]
+# [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
@@ -67,9 +67,9 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -84,12 +84,12 @@ Bronze dragons usually make their homes near or under the sea.
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 12, each creature in a 40-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 16 (3d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 30 feet straight away from the dragon\
-      \ and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#Prone|Prone]] condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"

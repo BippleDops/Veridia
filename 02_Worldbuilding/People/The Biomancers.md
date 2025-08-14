@@ -14,32 +14,29 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-biomancers-the-biomancers.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-biomancers-the-biomancers.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Corallion]]
+- [[Corallion]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/People/Abyssal Cathedral]]
-- [[02_Worldbuilding/People/Assassin]]
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[02_Worldbuilding/People/His Own Shadow]]
-- [[02_Worldbuilding/People/Knight]]
-- [[02_Worldbuilding/People/Oracle]]
-- [[02_Worldbuilding/People/The Barnacle]]
-- [[02_Worldbuilding/People/The Cerulean Breath]]
-- [[02_Worldbuilding/People/The Sorrowmaster]]
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Crystal Wardens]]
+- [[Corallion]]
+- [[Abyssal Cathedral]]
+- [[Assassin]]
+- [[Duke Cyrus Reefheart]]
+- [[His Own Shadow]]
+- [[Knight]]
+- [[Oracle]]
+- [[The Barnacle]]
+- [[The Cerulean Breath]]
+- [[The Sorrowmaster]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 

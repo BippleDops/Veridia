@@ -22,7 +22,7 @@ world: Both
 # Bloodied
 *Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A creature is Bloodied while it has half its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] or fewer remaining.
+A creature is Bloodied while it has half its [[hit-points-xphb|Hit Points]] or fewer remaining.
 
 ## Player-Facing Summary
 

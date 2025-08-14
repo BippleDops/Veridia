@@ -15,6 +15,10 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -27,11 +31,9 @@ world: Aquabyssos
 ---
 
 
-
-
 # Surface Signals
 
-![[04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
+![[04_Resources/Assets/04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
 
 *The crackling voices from the world above the waves*
 
@@ -270,6 +272,7 @@ Individual communications of note:
 ## Signal Phenomena
 
 ### The Prophecy Frequencies
+
 Certain wavelengths carry future information:
 - Tomorrow's weather with perfect accuracy
 - Next week's deaths in order
@@ -278,6 +281,7 @@ Certain wavelengths carry future information:
 - Next century's certainties
 
 ### The Memory Channels
+
 Frequencies that broadcast the past:
 - Conversations from sunken ships
 - Last words of the drowned
@@ -286,6 +290,7 @@ Frequencies that broadcast the past:
 - Civilizations before the waters
 
 ### The Dream Bandwidth
+
 Signals from sleeping surface minds:
 - Nightmares about drowning
 - Dreams of underwater cities
@@ -294,6 +299,7 @@ Signals from sleeping surface minds:
 - Prophetic dreams becoming real
 
 ### The Silence Between
+
 The gaps between signals contain:
 - Compressed information
 - Hidden messages
@@ -347,6 +353,7 @@ The gaps between signals contain:
 ## Dangers and Hazards
 
 ### Signal Madness
+
 Prolonged exposure causes:
 - Hearing voices constantly
 - Cannot distinguish reality from broadcast
@@ -355,6 +362,7 @@ Prolonged exposure causes:
 - Complete loss of self to signal stream
 
 ### Infectious Transmissions
+
 Some signals are themselves dangerous:
 - Memetic viruses that spread through hearing
 - Kill commands that trigger dormant programming
@@ -363,6 +371,7 @@ Some signals are themselves dangerous:
 - Reality errors that corrupt existence
 
 ### Temporal Paradoxes
+
 Learning future information creates:
 - Causality loops
 - Grandfather paradoxes
@@ -371,6 +380,7 @@ Learning future information creates:
 - Existence failures
 
 ### The Watchers
+
 Entities that monitor who listens:
 - Surface governments tracking interceptors
 - Alien intelligences noting contact
@@ -381,18 +391,23 @@ Entities that monitor who listens:
 ## Adventure Hooks
 
 ### The Drowning Forecast
+
 The stations begin broadcasting a massive catastrophe that will sink another surface city in seven days. The party must decide whether to warn them, knowing that surface contact is forbidden and might cause the very disaster they're trying to prevent.
 
 ### The Love Frequency
+
 A noble offers vast wealth to maintain communication with their surface lover through the broken transmitter. But each message sent changes reality slightly, and the changes are becoming dangerous.
 
 ### The Silent Station
+
 Echo-13 has gone completely silent for the first time in recorded history. The last transmission was a single word: "Run." Investigation reveals something is consuming the signals themselves.
 
 ### The God Wave
+
 A new frequency appears claiming to be a surface god offering to raise Aquabyssos back to the surface. But the price is forgetting the centuries underwater, erasing all current culture and identity.
 
 ### The Revolution Broadcast
+
 Someone is using the stations to coordinate a simultaneous uprising across all of Aquabyssos. The signals are coming from the future, describing a revolution that hasn't happened yet—unless someone stops it.
 
 ## The Deep Secret
@@ -445,6 +460,7 @@ Surface Signals serves as:
 ---
 
 ## See Also
+
 - [[02_Worldbuilding/Groups/The Signal Keepers|02 Worldbuilding/Groups/The Signal Keepers]]
 - [[02_Worldbuilding/Lore/The Frequency Wars|02 Worldbuilding/Lore/The Frequency Wars]]
 - [[02_Worldbuilding/Places/The Twilight Reaches|02 Worldbuilding/Places/The Twilight Reaches]]
@@ -463,6 +479,10 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Signals]]
+- [[12_Research/D&D_Statblocks/Surface Signals]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

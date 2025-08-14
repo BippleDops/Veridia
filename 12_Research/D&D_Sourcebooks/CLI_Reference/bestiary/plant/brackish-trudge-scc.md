@@ -20,7 +20,7 @@ updated: '2025-08-12T23:37:35.384567'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\plant/brackish-trudge-scc|Brackish Trudge]]
+# [[brackish-trudge-scc|Brackish Trudge]]
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  
 
 Brackish trudges are lumbering masses of sentient fungus and vegetation that thrive in the bayou. They are living examples of the conflicting forces of life and decay existing in a harmonious cycle. Flowers and other plant life grow on their backs, necks, and heads. When these plants die, they decay and become the ideal habitat for fungi. The older a trudge is, the wilder and more varied are the plants and fungi that thrive in the tiny ecosystem on its back.
@@ -46,7 +46,7 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
   - !!int "4"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "fire"
 "senses": "blindsight 10 ft., passive Perception 14"
@@ -60,7 +60,7 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) piercing damage plus 3 (d6) poison damage. If the target is a creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Tusk"
 "source":
   - "SCC"

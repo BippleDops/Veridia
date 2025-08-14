@@ -12,24 +12,22 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[The Order of the Shattered Crown]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Order of the Shattered Crown]]
+- [[Scholar Vivienne the Chronicler]]
+- [[The Emerald Sage Willowbark]]
+- [[The Shadow Singer Naia]]
+- [[The Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dryad-xmm-dryad-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/dryad-xmm|Dryad]]
+# [[dryad-xmm|Dryad]]
 *Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Dryad
@@ -49,7 +49,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [[/03_Mechanics/CLI/conditions#Petrified|petrified]] forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [[conditions#Petrified|petrified]] forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
@@ -72,15 +72,15 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The dryad has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The dryad has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
@@ -88,7 +88,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Speak with Beasts and Plants"
 "actions":
   - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [[/03_Mechanics/CLI/spells/charm-monster-xphb|Charm Monster]]."
+      \ to cast [[charm-monster-xphb|Charm Monster]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage."
     "name": "Vine Lash"
@@ -96,10 +96,10 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Thorn Burst"
   - "desc": "The dryad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/animal-friendship-xphb|Animal Friendship]],\
-      \ [[/03_Mechanics/CLI/spells/charm-monster-xphb|Charm Monster]] (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [[/03_Mechanics/CLI/spells/druidcraft-xphb|Druidcraft]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]], [[/03_Mechanics/CLI/spells/pass-without-trace-xphb|Pass\
+      \ will: [[animal-friendship-xphb|Animal Friendship]],\
+      \ [[charm-monster-xphb|Charm Monster]] (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [[druidcraft-xphb|Druidcraft]]\n\
+      \n1/day each: [[entangle-xphb|Entangle]], [[pass-without-trace-xphb|Pass\
       \ without Trace]]"
     "name": "Spellcasting"
 "bonus_actions":

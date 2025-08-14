@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quartermaster-david-simpleton-quartermaster-david-simpleton.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster David Simpleton]]
+- [[12_Research/D&D_References/Quartermaster David Simpleton]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[12_Research/D&D_References/Purist Coalition Thugs]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

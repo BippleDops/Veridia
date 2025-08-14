@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
+- [[Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 

@@ -14,20 +14,15 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-independent-smugglers-independent-smugglers.svg)
-
-
-
 
 
 # Independent Smugglers
 *The Free Current Traders, Masters of the Grey Market, Lords of the Deep Routes*
 
 ## Overview
-The Independent Smugglers represent a loose confederation of opportunistic traders who operate in the dangerous spaces between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Unlike organized crime syndicates, they maintain their independence while sharing information, resources, and protection. They fill the crucial economic niche of moving goods that both realms need but officially prohibit, making them simultaneously essential and outlawed by both governments.
+The Independent Smugglers represent a loose confederation of opportunistic traders who operate in the dangerous spaces between [[Aethermoor]] and [[Aquabyssos]]. Unlike organized crime syndicates, they maintain their independence while sharing information, resources, and protection. They fill the crucial economic niche of moving goods that both realms need but officially prohibit, making them simultaneously essential and outlawed by both governments.
 
 ## Organization Structure
 
@@ -40,12 +35,12 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 
 ### Operating Cells
 **The Deep Runners**
-- Specialists in [[02_Worldbuilding/Places/Aquabyssos]] routes
+- Specialists in [[Aquabyssos]] routes
 - Focus on memory trading and shadow artifacts
-- Led by [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] (unofficial ties)
+- Led by [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] (unofficial ties)
 
 **The Surface Skimmers** 
-- Operate primarily in [[02_Worldbuilding/Places/Aethermoor]] waters
+- Operate primarily in [[Aethermoor]] waters
 - Crystal smuggling and luxury goods
 - Work closely with corrupt port officials
 
@@ -74,7 +69,7 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - **Emergency Extraction**: Rescue services for those in deep trouble
 
 ### Trade Routes
-- **The Shadow Current**: Secret passage through [[02_Worldbuilding/Places/The Harbor Depths]]
+- **The Shadow Current**: Secret passage through [[The Harbor Depths]]
 - **The Crystal Caves**: Hidden route via corrupted cavern systems
 - **The Pressure Tubes** (unofficial): Hijacking legitimate transport
 - **The Ghost Roads**: Temporary routes that appear during specific conditions
@@ -88,7 +83,7 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - **Emergency Pods**: Escape craft for dangerous situations
 
 ### Safe Houses & Bases
-- **[[02_Worldbuilding/Places/The Harbor Depths]]** - Primary operational base
+- **[[The Harbor Depths]]** - Primary operational base
 - **Smuggler's Cove** - Hidden docking facilities
 - **The Neutral Tavern** - Information exchange location
 - **Pressure Stations** - Supply depots at various depths
@@ -102,21 +97,21 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 ## Relationships
 
 ### Allies
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Information and mutual support
-- [[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]] - Legitimate cover for some operations
+- [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Information and mutual support
+- [[Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]] - Legitimate cover for some operations
 - Corrupt officials in both realms
 - Various criminal organizations in need of transport
 
 ### Enemies
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Relentless naval pursuit
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Deep law enforcement
-- [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] - Surface world government
-- [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] - Aquabyssos security
+- [[Admiral Cassandra Stormwind]] - Relentless naval pursuit
+- [[Enforcer Chief Mako Ironjaw]] - Deep law enforcement
+- [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]] - Surface world government
+- [[The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] - Aquabyssos security
 
 ### Complex Relations
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Sometimes competitors, sometimes clients
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Pirates vs. smugglers tensions
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Information trading partnerships
+- [[Merchant Princes]] - Sometimes competitors, sometimes clients
+- [[The Crimson Fleet]] - Pirates vs. smugglers tensions
+- [[Shadow Broker Mist]] - Information trading partnerships
 - Both realm governments (hate them but need what they provide)
 
 ## Code & Culture
@@ -155,7 +150,7 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - Pressure to join larger criminal organizations
 
 ### External Threats
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] moving into smuggling territory
+- [[The Crimson Fleet]] moving into smuggling territory
 - Competition from other criminal networks
 - Environmental dangers in traditional routes
 - Political changes affecting cross-realm trade
@@ -187,31 +182,31 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - Choice between law and practical necessity
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Independent ally
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Primary antagonist
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Deep enforcement threat
+- [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Independent ally
+- [[Admiral Cassandra Stormwind]] - Primary antagonist
+- [[Enforcer Chief Mako Ironjaw]] - Deep enforcement threat
 - Various captains and crew members
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Harbor Depths]] - Primary base of operations
-- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Surface operations
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Trading partners
-- [[02_Worldbuilding/Places/Pressure Tubes]] - Transportation routes
+- [[The Harbor Depths]] - Primary base of operations
+- [[Port Meridian Harbor]] - Surface operations
+- [[The Shadow Markets]] - Trading partners
+- [[Pressure Tubes]] - Transportation routes
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Organization under threat
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Direct employment
-- [[02_Worldbuilding/Quests/The Lock Saboteur]] - Information sources
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Organization under threat
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Direct employment
+- [[The Lock Saboteur]] - Information sources
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[Establish the New Order]]
+- [[Shadow Surgeons Collective]]
+- [[Stop the Shadow Harvest]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
 
 ## Player-Facing Summary
 

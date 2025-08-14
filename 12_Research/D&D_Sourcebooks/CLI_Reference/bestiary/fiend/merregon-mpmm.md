@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merregon-mpmm-merregon-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/merregon-mpmm|Merregon]]
+# [[merregon-mpmm|Merregon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -55,13 +55,13 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the merregon's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the merregon's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The merregon has advantage on saving throws against spells and other\
       \ magical effects."

@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-black-dragon-xmm-v1-young-black-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/young-black-dragon-xmm|Young Black Dragon]]
+# [[young-black-dragon-xmm|Young Black Dragon]]
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Most young black dragons claim a hidden lair—typically a dismal place accessible through deadly ruins or a treacherous bog. They delight in exploiting fearful servants and might terrorize small communities or impress groups of kobolds or troglodytes into their service. Some ally themselves with powerful undead such as death knights and vampires or aberrations such as aboleths and kuo-toa.
@@ -72,9 +72,9 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
@@ -90,7 +90,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ plus 3 (d6) Acid damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 49 (14d6) Acid damage. Success: Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":

@@ -14,8 +14,6 @@ world: Both
 ---
 
 
-
-
 ## Player-Facing Summary
 
 Fragment Compass is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.

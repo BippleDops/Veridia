@@ -4,6 +4,11 @@ level_range: 1-3
 sessions: 5
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- shadow-touched
+- aquatic
 - adventure
 - aquabyssos
 - complete
@@ -21,8 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 # The Sunken Conspiracy
+
 *An Aquabyssos Adventure for Characters of Levels 1-3*
 
 ## Adventure Overview
@@ -34,11 +39,11 @@ world: Aquabyssos
 
 ### Synopsis
 
-The busy port of [[02_Worldbuilding/Places/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
+The busy port of [[12_Research/D&D_References/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
 
 ### Central Mystery
 
-Ships carrying sensitive cargo have been vanishing from Port Meridian's harbor. The disappearances follow a specific pattern - they happen during new moon nights, always involve vessels with valuable or sensitive cargo, and leave no trace. The truth is more complex: a conspiracy exists between corrupt harbor officials, ambitious smugglers, and agents of [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] to steal artifacts and resources that could destabilize the delicate balance between the underwater kingdom and surface world.
+Ships carrying sensitive cargo have been vanishing from Port Meridian's harbor. The disappearances follow a specific pattern - they happen during new moon nights, always involve vessels with valuable or sensitive cargo, and leave no trace. The truth is more complex: a conspiracy exists between corrupt harbor officials, ambitious smugglers, and agents of [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] to steal artifacts and resources that could destabilize the delicate balance between the underwater kingdom and surface world.
 
 ### Key Themes
 
@@ -53,6 +58,7 @@ Ships carrying sensitive cargo have been vanishing from Port Meridian's harbor. 
 The adventure is designed as a five-session investigation with multiple paths and outcomes:
 
 ### Session 1: Missing Ships
+
 *Investigation begins in the harbor district*
 - Characters arrive in Port Meridian during a crisis
 - Meet key NPCs and establish the mystery
@@ -60,6 +66,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Encounter their first taste of danger
 
 ### Session 2: Harbor Investigation  
+
 *Social encounters and clue gathering*
 - Deep dive into the political landscape
 - Multiple faction interactions
@@ -67,6 +74,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Face moral choices about methods and allies
 
 ### Session 3: Underwater Chase
+
 *Action sequence through pressure systems*
 - High-stakes pursuit through the city's depths
 - Environmental challenges and pressure mechanics
@@ -74,6 +82,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Discovery of the smuggling operation's scope
 
 ### Session 4: Smuggler Base
+
 *Infiltration and exploration*
 - Stealth-based exploration of hidden facilities
 - Uncover the conspiracy's true scope
@@ -81,6 +90,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Rescue operations and moral dilemmas
 
 ### Session 5: Conspiracy Revealed
+
 *Climactic confrontation and resolution*
 - Final pieces of the puzzle revealed
 - Confrontation with the conspiracy's leaders
@@ -91,8 +101,8 @@ The adventure is designed as a five-session investigation with multiple paths an
 
 ### Allies and Contacts
 
-**[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**
-- Secret leader of the [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]] resistance
+**[[12_Research/D&D_Statblocks/Harbor Master Luna Freedrift]]**
+- Secret leader of the [[Free Current|02 Worldbuilding/Groups/Free Current]] resistance
 - Provides official authority and underground connections
 - Torn between her duties and her conscience
 - Key contact for legitimate investigations
@@ -117,7 +127,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant resources and loyal agents
 - Complex motivations involving family and survival
 
-**[[02_Worldbuilding/People/Captain Marrow Drinker]]** (Recurring Threat)
+**[[12_Research/D&D_References/Captain Marrow Drinker]]** (Recurring Threat)
 - Vampire pirate working with the conspiracy
 - Provides the muscle for major operations
 - Operates from the shadows with supernatural crew
@@ -130,7 +140,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant criminal resources
 
 **Agent Whisper**
-- Mysterious figure connected to [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
+- Mysterious figure connected to [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 - Identity unknown until final session
 - Manipulates events from behind scenes
 - Represents larger threats beyond this adventure
@@ -138,6 +148,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 ## Adventure Locations
 
 ### Port Meridian Harbor District
+
 The adventure's primary hub, featuring:
 - **Harbor Master's Office**: Luna Freedrift's official domain
 - **The Barnacle's Rest**: Tavern serving as information hub
@@ -146,6 +157,7 @@ The adventure's primary hub, featuring:
 - **Pressure Tube Terminal**: Access to underwater transit system
 
 ### The Smuggling Network
+
 Hidden infrastructure throughout the city:
 - **Hidden Warehouse**: Temporary storage for stolen goods
 - **The Riptide Tavern**: Criminal meeting place
@@ -154,6 +166,7 @@ Hidden infrastructure throughout the city:
 - **Safe Houses**: For conspiracy members and prisoners
 
 ### The Depths Below
+
 Underwater areas featuring unique challenges:
 - **Pressure Tube Network**: City's underwater transit system
 - **The Sunken Gardens**: Flooded district with ancient ruins
@@ -207,7 +220,7 @@ You believe in the possibility of cooperation between the surface world and Aqua
 Before running this adventure, review:
 1. The complete NPCs and Enemies file for all stat blocks and roleplay notes
 2. The Maps and Handouts file for visual aids and location details
-3. The pressure mechanics from [[03_Mechanics/Complete_Pressure_Adaptation_System|03 Mechanics/Complete Pressure Adaptation System]]
+3. The pressure mechanics from [[Complete_Pressure_Adaptation_System|03 Mechanics/Complete Pressure Adaptation System]]
 4. The political situation in Aquabyssos from the world guide
 
 ### Session Zero Considerations
@@ -278,12 +291,14 @@ This adventure rewards careful thinking over combat prowess:
 ## Adventure Rewards
 
 ### Experience Points
+
 The adventure provides approximately:
 - 1,200 XP per character for completing the main storyline
 - 300-600 additional XP for exploring optional content
 - Milestone leveling recommended at the end of sessions 2 and 4
 
 ### Treasure and Items
+
 Major rewards include:
 - Payment from grateful merchants and officials (500-2,000 gp total)
 - Recovered stolen goods that may be claimed or returned
@@ -291,6 +306,7 @@ Major rewards include:
 - Information and contacts valuable for future adventures
 
 ### Political and Social Rewards
+
 - Reputation with various factions based on player choices
 - Potential positions within Harbor Master Luna Freedrift's organization
 - Enemies made among the criminal underworld
@@ -299,18 +315,21 @@ Major rewards include:
 ## Long-Term Campaign Integration
 
 ### Immediate Consequences
+
 - The conspiracy's defeat or success affects Port Meridian's stability
 - Surviving antagonists may seek revenge in future adventures
 - Political ramifications ripple through Aquabyssos government
 - Economic impacts on shipping and trade routes
 
 ### Future Adventure Hooks
-- Investigation into [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'s larger plans
+
+- Investigation into [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'s larger plans
 - Diplomatic missions to prevent war between realms
 - Exploration of ancient underwater ruins discovered during the investigation
 - Personal vendettas with surviving conspiracy members
 
 ### Character Development
+
 - PCs may gain positions of authority or responsibility
 - Moral choices made affect character alignment and personality
 - Relationships formed lead to long-term roleplaying opportunities
@@ -321,18 +340,21 @@ Major rewards include:
 > [!warning] DM Only Information
 > 
 > ### The Real Conspiracy
+
 > The ship disappearances are part of a three-pronged operation:
 > 1. **Resource Theft**: Stealing valuable cargo to fund anti-surface operations
 > 2. **Intelligence Gathering**: Intercepting diplomatic communications
 > 3. **Destabilization**: Creating economic pressure to justify aggressive policies
 > 
 > ### Key Relationships
+
 > - Commodore Shadowfin is being blackmailed by Agent Whisper
 > - Luna Freedrift knows more than she initially admits
 > - Captain Marrow Drinker has personal history with Shadowfin
 > - The conspiracy reaches into the Parliament of Echoes itself
 > 
 > ### Hidden Motivations
+
 > - Shadowfin's family is being held hostage by Shadow Conspiracy agents
 > - Vex Thornwater is actually working for Harbor Master Freedrift as a double agent
 > - The stolen cargo includes artifacts that could affect the barrier between realms
@@ -417,3 +439,9 @@ Legends speak of Introduction as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

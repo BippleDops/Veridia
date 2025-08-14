@@ -13,10 +13,6 @@ world: dual
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,15 +54,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[02_Worldbuilding/Lore/The Deserter's Tale]]
-- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[Corallion]]
+- [[The Bathyal Succession]]
+- [[The Deserter's Tale]]
+- [[The Emperor's Gambit]]
+- [[The Great Convergence Prophecies]]
+- [[Timeline of the Drowning]]
+- [[Vote Vaults]]

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-magnus-ledgerkeep-magnus-ledgerkeep.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-magnus-ledgerkeep-magnus-ledgerkeep.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[Harbor District Customs House]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[Harbor District Customs House]]
 
 ## Player-Facing Summary
 

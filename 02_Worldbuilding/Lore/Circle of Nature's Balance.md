@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[12_Research/D&D_References/Rewriting the Ritual]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[12_Research/D&D_References/Rewriting the Ritual]]
 
 ## Player-Facing Summary
 

@@ -126,7 +126,7 @@ The adventurers learn the location of one of the cult's highest-ranking leaders�
 
 #### The Sea of Moving Ice
 
-[[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]], a tiefling sorcerer of the Arcane Brotherhood, is an acknowledged expert on the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]]—an ancient relic being used by the cult to summon dragons to their cause. She disappeared three years ago in the Sea of Moving Ice, where she is presently a prisoner of the white dragon Arauthator. The characters must make their way to Arauthator's iceberg lair and convince Maccath to join them. By driving away the dragon and carrying off valuable dragon lore, they deal a blow to the cult and might gain the Arcane Brotherhood as allies in the process.
+[[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]], a tiefling sorcerer of the Arcane Brotherhood, is an acknowledged expert on the [[draakhorn-rot|Draakhorn]]—an ancient relic being used by the cult to summon dragons to their cause. She disappeared three years ago in the Sea of Moving Ice, where she is presently a prisoner of the white dragon Arauthator. The characters must make their way to Arauthator's iceberg lair and convince Maccath to join them. By driving away the dragon and carrying off valuable dragon lore, they deal a blow to the cult and might gain the Arcane Brotherhood as allies in the process.
 
 #### The Cult Strikes Back (Part 1)
 
@@ -176,7 +176,7 @@ At the final meeting of the council, the characters must work to unite the facti
 
 #### Tiamat's Return
 
-At the Well of Dragons, a battle unfolds that will decide the fate of Faerûn. The factions of the Sword Coast fight alongside new and unexpected allies, facing off against the assembled might of the dragon cultists, flights of chromatic dragons, other monsters, and mercenaries. The adventurers choose their own role during the battle, and might rescue sacrificial prisoners, shut down the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]], or take the lead in disrupting the magical ritual that will allow [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] to enter the world.
+At the Well of Dragons, a battle unfolds that will decide the fate of Faerûn. The factions of the Sword Coast fight alongside new and unexpected allies, facing off against the assembled might of the dragon cultists, flights of chromatic dragons, other monsters, and mercenaries. The adventurers choose their own role during the battle, and might rescue sacrificial prisoners, shut down the [[draakhorn-rot|Draakhorn]], or take the lead in disrupting the magical ritual that will allow [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] to enter the world.
 
 ### Advancement
 
@@ -212,19 +212,19 @@ For characters who have not played Hoard of the Dragon Queen, the adventure can 
 
 #### Monstrous Uprising
 
-A charismatic [[/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm|half-red dragon veteran]] leads a band of 21 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and 7 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]], taking advantage of the unrest along the Sword Coast. The group might besiege a village the characters are staying at, raid and enslave another settlement, or start charging tolls along one of the trade roads of the Sword Coast. This band isn't organized enough to attack all at once and provide a significant challenge to the party. Instead, it shows the increasing anarchy of the region, and the way that [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]'s rise has emboldened evil creatures that aren't directly serving the Dragon Queen.
+A charismatic [[half-dragon-xmm|half-red dragon veteran]] leads a band of 21 [[kobold-warrior-xmm|kobolds]] and 7 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]], taking advantage of the unrest along the Sword Coast. The group might besiege a village the characters are staying at, raid and enslave another settlement, or start charging tolls along one of the trade roads of the Sword Coast. This band isn't organized enough to attack all at once and provide a significant challenge to the party. Instead, it shows the increasing anarchy of the region, and the way that [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]'s rise has emboldened evil creatures that aren't directly serving the Dragon Queen.
 
 #### Power of the Cult
 
 The Cult of the Dragon expands its operation in larger and bolder ways. Its leaders send diplomatic missions to Berdusk, Triel, and other settlements demanding tribute—and offering protection from dragon raids for those who comply. Cultists shake down caravans seeking protection money, and have been burning caravans that belong to the rivals of those who do pay. Less scrupulous merchants are finding it easier to do business with the cult than to fight against them. Any Zhentarim contacts of the adventurers are understandably worried about these developments.
 
-Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a [[/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot|dragonsoul]] defended by 4 [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaws]] and a pack of 3 [[/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm|guard drakes]]. The dragonsoul rides a [[/03_Mechanics/CLI/bestiary/beast/warhorse-xmm|warhorse]], but the other cultists are on foot. See appendix D for the cultists and drakes.
+Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a [[/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot|dragonsoul]] defended by 4 [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaws]] and a pack of 3 [[guard-drake-mpmm|guard drakes]]. The dragonsoul rides a [[warhorse-xmm|warhorse]], but the other cultists are on foot. See appendix D for the cultists and drakes.
 
 #### Devilish Demands
 
 Though the Cult of the Dragon and the Red Wizards are making use of diabolic allies as they plan the ritual that will free [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]], not all devils are on their side. Some fiends not wanting to see [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] gain worldly power seek to break the alliance between the cult and Thay. This encounter can be used to reveal to the characters the divisions already present among the evil factions.
 
-The devils who are aligned against [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] send a delegation of 5 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and 2 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] (devil worshipers) and a [[/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm|bone devil]] named Lord Volmer to treat with the party. The cultists lead the characters to a large tent, inside which Lord Volmer awaits.
+The devils who are aligned against [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] send a delegation of 5 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and 2 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|cult fanatics]] (devil worshipers) and a [[bone-devil-xmm|bone devil]] named Lord Volmer to treat with the party. The cultists lead the characters to a large tent, inside which Lord Volmer awaits.
 
 Using telepathy, Lord Volmer tells the adventurers about the so-called "Thayan Resurrection" (the attempt by Thayan exiles to supplant Szass Tam), as well as the fact that Szass Tam intends to destroy Rath Modar and his "splinter sect" for their impudence. The bone devil assures the characters that they can earn the Red Wizards' favor by providing him with information leading to Rath Modar's capture.
 
@@ -234,7 +234,7 @@ Lord Volmer also tells the party that the lords of the Nine Hells are divided wh
 
 A group of dwarf miners has captured a high-ranking member of the Cult of the Dragon—a Wearer of Purple named Cheela Flegsteel who got a little too greedy while leading a group of cultists that was terrorizing the dwarves. Having killed Cheela's drakes and subordinates, the dwarves bring their prisoner to the adventurers hoping for a reward.
 
-Cheela has useful information about the cult's activities, which could be used to lead into any chapter of your choice. However, she also knows that a rescue party is not far behind her. The adventurers need to help the dwarves fend off an attack by 4 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] and a [[/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm|half-red dragon veteran]] named Yggran. The dwarves are hopelessly overmatched and flee rather than fight. If her fellow cultists can't save Cheela, they might kill her rather than leave her in the adventurers' hands.
+Cheela has useful information about the cult's activities, which could be used to lead into any chapter of your choice. However, she also knows that a rescue party is not far behind her. The adventurers need to help the dwarves fend off an attack by 4 [[ogre-xmm|ogres]] and a [[half-dragon-xmm|half-red dragon veteran]] named Yggran. The dwarves are hopelessly overmatched and flee rather than fight. If her fellow cultists can't save Cheela, they might kill her rather than leave her in the adventurers' hands.
 
 #### Fallen Hero
 
@@ -244,9 +244,9 @@ Use this encounter to make the players aware of the dangers presented by a direc
 
 #### Death at the Council
 
-During the second or third session of the Council of Waterdeep, rumors spread of an aide from Neverwinter who killed an aide from Mithral Hall and then hanged himself. In truth, the Cult of the Dragon sent a [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|succubus]] spy to Waterdeep. She [[/03_Mechanics/CLI/conditions#Charmed|charmed]] the Neverwinter aide into collecting information for her, but the other aide discovered their meetings. The succubus forced her victim to slay the other aide to cover her tracks, then to kill himself.
+During the second or third session of the Council of Waterdeep, rumors spread of an aide from Neverwinter who killed an aide from Mithral Hall and then hanged himself. In truth, the Cult of the Dragon sent a [[succubus-xmm|succubus]] spy to Waterdeep. She [[conditions#Charmed|charmed]] the Neverwinter aide into collecting information for her, but the other aide discovered their meetings. The succubus forced her victim to slay the other aide to cover her tracks, then to kill himself.
 
-If the characters investigate, they can obtain the body to question it using [[/03_Mechanics/CLI/spells/speak-with-dead-xphb|speak with dead]], or they might use [[/03_Mechanics/CLI/spells/commune-xphb|commune]] to discover the spy. The succubus has gained another victim by that point—a knight of the Order of the Gauntlet who regularly goes to meet her at her slum dwelling in the Field Ward of Waterdeep. This pattern of murder and suicide continues unless the spy's true identity is discovered.
+If the characters investigate, they can obtain the body to question it using [[speak-with-dead-xphb|speak with dead]], or they might use [[commune-xphb|commune]] to discover the spy. The succubus has gained another victim by that point—a knight of the Order of the Gauntlet who regularly goes to meet her at her slum dwelling in the Field Ward of Waterdeep. This pattern of murder and suicide continues unless the spy's true identity is discovered.
 
 ## Running the Adventure
 
@@ -326,7 +326,7 @@ Not all members of the Cult of the Dragon are happy about the Red Wizards' invol
 
 #### Using the Red Wizards
 
-Red Wizards can be encountered anywhere on the Sword Coast (use [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wight]] bodyguards are usually nearby—and often [[/03_Mechanics/CLI/conditions#Invisible|invisible]]. Each [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] specializes in a single school of magic, but all learn spells outside their specialty schools.
+Red Wizards can be encountered anywhere on the Sword Coast (use [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead [[wight-xmm|wight]] bodyguards are usually nearby—and often [[conditions#Invisible|invisible]]. Each [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] specializes in a single school of magic, but all learn spells outside their specialty schools.
 
 Red Wizards don't share the cultists' fanaticism for [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]. For them, bringing the Dragon Queen into the world is just one stage of what they call the Thayan Resurrection—the larger plan to destroy Szass Tam and reclaim Thay. They tolerate the dragon cultists but do not acknowledge them as equals.
 
@@ -352,13 +352,13 @@ Devils in the adventure should always be one step ahead of the adventurers. Char
 
 ### Chromatic Dragons
 
-[[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]] and his supporters intend to use the ancient draconic artifact known as the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] to rally the chromatic dragons to [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]'s cause. However, chromatic dragons are notoriously arrogant, territorial, greedy, and suspicious of any creatures begging favors—especially if those creatures might be a threat. Getting dragons to cooperate is a monumental task, even when bringing the Queen of Dragons into the world is the ultimate goal.
+[[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]] and his supporters intend to use the ancient draconic artifact known as the [[draakhorn-rot|Draakhorn]] to rally the chromatic dragons to [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]'s cause. However, chromatic dragons are notoriously arrogant, territorial, greedy, and suspicious of any creatures begging favors—especially if those creatures might be a threat. Getting dragons to cooperate is a monumental task, even when bringing the Queen of Dragons into the world is the ultimate goal.
 
 The Cult of the Dragon has a secret weapon for dealing with chromatic dragons, in the form of the five dragon masks. Even with a dragon mask, the process of influencing a dragon remains arduous and dangerous—though the payoff is enormous. These relics give their wearers the ability to communicate with dragons, but more importantly, they impart a subtle influence over dragons that cannot be detected. Dragons cannot be controlled by the masks, but they can be swayed by ideas and proposals that they would not normally find persuasive.
 
 #### Using Chromatic Dragons
 
-The power of the chromatic dragons is a motif running through every aspect of *Tyranny of Dragons: *The Rise of Tiamat*.* As the events of the adventure unfold, more and more dragons respond to the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn's]] rumbling moan and journey to the Well of Dragons—a migration that inspires alarm and panic in people across Faerûn.
+The power of the chromatic dragons is a motif running through every aspect of *Tyranny of Dragons: *The Rise of Tiamat*.* As the events of the adventure unfold, more and more dragons respond to the [[draakhorn-rot|Draakhorn's]] rumbling moan and journey to the Well of Dragons—a migration that inspires alarm and panic in people across Faerûn.
 
 Characters and players should seldom be allowed to forget that the evil dragons are on the move. Whenever the adventurers are outside, they might see a dragon winging overhead in the distance. The shadow of a dragon could fall across the adventurers in the daytime, and dark draconic wings might momentarily blot out the moon at night. When the characters arrive in a settlement, they should hear stories about dragon sightings and attacks. When they travel, burned-out hamlets and demolished caravans line the road.
 

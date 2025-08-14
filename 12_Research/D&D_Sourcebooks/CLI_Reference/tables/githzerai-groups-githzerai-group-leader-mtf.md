@@ -27,7 +27,7 @@ world: Both
 |----------|--------|
 | 1 | [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm|Githzerai Anarch]] |
 | 2-3 | [[/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm|Githzerai Enlightened]] |
-| 4-6 | [[/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm|Githzerai Zerth]] |
+| 4-6 | [[githzerai-zerth-xmm|Githzerai Zerth]] |
 ^githzerai-group-leader
 
 ## Player-Facing Summary

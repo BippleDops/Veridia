@@ -22,8 +22,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg]]
 
 
 # Deep Mother Cultist Profiles
@@ -446,16 +445,16 @@ Physical changes should reflect psychological evolution:
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[Cult of the Deep Mother]]
 - [[Complete Deep Mother Subsystem]]
-- [[03_Mechanics/Deep Mother Sanity System]]
-- [[02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
-- [[02_Worldbuilding/Lore/The Deep Prophecies]]
-- [[02_Worldbuilding/Places/Reality Breach Locations]]
+- [[Deep Mother Sanity System]]
+- [[Temple of the Sunken Cathedral]]
+- [[The Deep Prophecies]]
+- [[Reality Breach Locations]]
 - [[Transformation Mechanics]]
-- [[02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
+- [[High Oracle Serenity Deepcall]]
 - [[Commandant Void Tactician]]
-- [[02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
+- [[Doctor Harmony Whisperfall]]
 
 ## Player-Facing Summary
 

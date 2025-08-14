@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-peryton-xmm-peryton-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/peryton-xmm|Peryton]]
+# [[peryton-xmm|Peryton]]
 *Source: Monster Manual (2024) p. 238*  
 
 ## Peryton
@@ -70,9 +70,9 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+3"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
@@ -89,7 +89,7 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
       \ the hit, the target takes an extra 9 (2d8) Piercing damage."
     "name": "Gore"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
-      \ If the attack reduces a Humanoid target to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
+      \ If the attack reduces a Humanoid target to 0 [[hit-points-xphb|Hit Points]],\
       \ the peryton kills the target by removing its heart."
     "name": "Talons"
 "source":

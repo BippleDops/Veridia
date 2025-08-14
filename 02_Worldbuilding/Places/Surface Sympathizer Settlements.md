@@ -22,9 +22,6 @@ world: Aquabyssos
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)
 
 
-
-
-
 # Surface Sympathizer Settlements
 
 *"Where forbidden dreams of sky and sun still burn bright."*
@@ -143,7 +140,7 @@ These settlements provide opportunities for political intrigue, moral choices ab
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[Abyssos Prime]]
 
 
 ## History
@@ -179,6 +176,6 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
+- [[Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->

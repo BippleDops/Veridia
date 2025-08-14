@@ -15,11 +15,8 @@ world: Universal
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg)
-
+![[04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg]]
 
 
 ## Overview

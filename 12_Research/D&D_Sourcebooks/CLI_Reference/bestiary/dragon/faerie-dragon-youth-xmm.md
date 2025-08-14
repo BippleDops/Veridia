@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-faerie-dragon-youth-xmm-faerie-dragon-youth-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/faerie-dragon-youth-xmm|Faerie Dragon Youth]]
+# [[faerie-dragon-youth-xmm|Faerie Dragon Youth]]
 *Source: Monster Manual (2024) p. 117*  
 
 Faerie dragon youths are quick to use their euphoria-inducing breath on rude or uptight folk.
@@ -57,35 +57,35 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
   - !!int "14"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "1"
 "traits":
-  - "desc": "The dragon has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The dragon has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage\
       \ plus 2 (d4) Psychic damage."
     "name": "Bite"
-  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn and uses all its movement on its\
       \ turn to move in a random direction."
     "name": "Euphoria Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/dancing-lights-xphb|Dancing Lights]],\
-      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]], [[/03_Mechanics/CLI/spells/minor-illusion-xphb|Minor Illusion]]"
+      \ will: [[dancing-lights-xphb|Dancing Lights]],\
+      \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The dragon casts [[/03_Mechanics/CLI/spells/greater-invisibility-xphb|Greater Invisibility]]\
+  - "desc": "The dragon casts [[greater-invisibility-xphb|Greater Invisibility]]\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Superior Invisibility"

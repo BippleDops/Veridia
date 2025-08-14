@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-cleric-oota-ixitxachitl-cleric-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/ixitxachitl-cleric-oota|Ixitxachitl Cleric]]
+# [[ixitxachitl-cleric-oota|Ixitxachitl Cleric]]
 *Source: Out of the Abyss p. 225*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
@@ -65,13 +65,13 @@ The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [[/03_Mechanics/CLI/spells/guidance-xphb|guidance]],\
-      \ [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]]\n\n1st level\
-      \ (4 slots): [[/03_Mechanics/CLI/spells/charm-person-xphb|charm person]],\
-      \ [[/03_Mechanics/CLI/spells/create-or-destroy-water-xphb|create or destroy water]]\n\
-      \n2nd level (3 slots): [[/03_Mechanics/CLI/spells/hold-person-xphb|hold person]],\
-      \ [[/03_Mechanics/CLI/spells/silence-xphb|silence]]\n\n3rd level (2 slots):\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/tongues-xphb|tongues]]"
+      \ has the following cleric spells prepared:\n\nCantrips (at will): [[guidance-xphb|guidance]],\
+      \ [[thaumaturgy-xphb|thaumaturgy]]\n\n1st level\
+      \ (4 slots): [[charm-person-xphb|charm person]],\
+      \ [[create-or-destroy-water-xphb|create or destroy water]]\n\
+      \n2nd level (3 slots): [[hold-person-xphb|hold person]],\
+      \ [[silence-xphb|silence]]\n\n3rd level (2 slots):\
+      \ [[dispel-magic-xphb|dispel magic]], [[tongues-xphb|tongues]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\

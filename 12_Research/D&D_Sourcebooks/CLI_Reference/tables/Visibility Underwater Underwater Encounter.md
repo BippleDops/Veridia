@@ -26,9 +26,9 @@ world: Both
 
 | Visibility | Encounter Distance |
 |------------|--------------------|
-| Clear water, [[/03_Mechanics/CLI/variant-rules/bright-light-xphb|Bright Light]] | 60 feet |
-| Clear water, [[/03_Mechanics/CLI/variant-rules/dim-light-xphb|Dim Light]] | 30 feet |
-| Murky water or [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] | 10 feet |
+| Clear water, [[bright-light-xphb|Bright Light]] | 60 feet |
+| Clear water, [[dim-light-xphb|Dim Light]] | 30 feet |
+| Murky water or [[darkness-xphb|Darkness]] | 10 feet |
 ^underwater-encounter-distance
 
 ## Player-Facing Summary

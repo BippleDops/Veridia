@@ -5,28 +5,27 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:34.873147+00:00'
 world: Both
 tags:
+- crystal-enhanced
 - active
 - both
 - lore
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+- [[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother Influence]]
-- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Great Crystallization]]
-- [[Timeline of the Drowning]]
+- [[12_Research/D&D_References/Deep Mother Influence]]
+- [[12_Research/D&D_References/Desperate Plague Victim]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
 
 ## Player-Facing Summary
 
@@ -47,3 +46,7 @@ Legends speak of Healing Two Worlds as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -24,18 +24,18 @@ updated: 2025-08-13T07:59:50.467876
 Travel feels different under each doctrine. Use this as a vibe guide and checklist for your crew.
 
 ## Doctrines
-- [[04_Resources/Handouts/Doctrines/Stealth and Ambush Player]]
-- [[04_Resources/Handouts/Doctrines/Anchor Fortress Player]]
-- [[04_Resources/Handouts/Doctrines/Parasite Swarm Player]]
-- [[04_Resources/Handouts/Doctrines/Crystal Artillery Player]]
-- [[04_Resources/Handouts/Doctrines/Carrier Strike Player]]
-- [[04_Resources/Handouts/Doctrines/Trade Escort Player]]
-- [[04_Resources/Handouts/Doctrines/Guerrilla Currents Player]]
-- [[04_Resources/Handouts/Doctrines/Zealot Crusade Player]]
-- [[04_Resources/Handouts/Doctrines/Memory Warfare Player]]
-- [[04_Resources/Handouts/Doctrines/Reality Control Player]]
-- [[04_Resources/Handouts/Doctrines/Humanitarian Relief Player]]
-- [[04_Resources/Handouts/Doctrines/Pirate Confederacy Player]]
+- [[Stealth and Ambush Player]]
+- [[Anchor Fortress Player]]
+- [[Parasite Swarm Player]]
+- [[Crystal Artillery Player]]
+- [[Carrier Strike Player]]
+- [[Trade Escort Player]]
+- [[Guerrilla Currents Player]]
+- [[Zealot Crusade Player]]
+- [[Memory Warfare Player]]
+- [[Reality Control Player]]
+- [[Humanitarian Relief Player]]
+- [[Pirate Confederacy Player]]
 
 ## Cross-References
 

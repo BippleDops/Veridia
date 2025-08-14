@@ -15,24 +15,19 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-commander-typhoon-blackheart-commander-typhoon-blackheart.svg]]
 
 
 # Blackheart Fortress
 *Iron Will in the Crushing Depths*
 
 > *"Here at the edge of the abyss, where pressure would crush lesser souls and darkness devours hope, Blackheart Fortress stands eternal - a monument to military discipline and the unbreakable will to defend civilization against whatever horrors rise from below."*
-> — [[02_Worldbuilding/People/Commander Typhoon Blackheart]], Fortress Commander and Defender of the Deep
+> — [[Commander Typhoon Blackheart]], Fortress Commander and Defender of the Deep
 
 ## Overview
 
-Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackheart]]'s primary military stronghold, a massive defensive installation built into an underwater mountain at crushing depths where only the most elite soldiers can operate effectively. This fortress represents the pinnacle of deep-sea military engineering, designed specifically to counter threats from the deepest regions of [[02_Worldbuilding/Places/Aquabyssos]] while serving as a command center for [[02_Worldbuilding/People/The Depth Wardens]]' operations throughout the realm. The installation features pressure-resistant architecture, advanced weapon systems, extensive training facilities, and the technological infrastructure necessary to coordinate military responses across vast underwater territories.
+Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary military stronghold, a massive defensive installation built into an underwater mountain at crushing depths where only the most elite soldiers can operate effectively. This fortress represents the pinnacle of deep-sea military engineering, designed specifically to counter threats from the deepest regions of [[Aquabyssos]] while serving as a command center for [[The Depth Wardens]]' operations throughout the realm. The installation features pressure-resistant architecture, advanced weapon systems, extensive training facilities, and the technological infrastructure necessary to coordinate military responses across vast underwater territories.
 
 ## History and Construction
 
@@ -44,7 +39,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Authority**: Parliamentary authorization for major military construction project
 
 ### Blackheart's Commission
-**Background**: Young [[02_Worldbuilding/People/Commander Typhoon Blackheart]] selected to oversee fortress construction  
+**Background**: Young [[Commander Typhoon Blackheart]] selected to oversee fortress construction  
 **Vision**: Comprehensive military installation capable of defending against unknown deep-sea threats  
 **Challenge**: Engineering fortress to withstand pressures that would crush normal structures  
 **Innovation**: Revolutionary pressure-resistant construction techniques  
@@ -69,12 +64,12 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Tactics**: Revolutionary tactics for fighting under extreme pressure conditions  
 **Technology**: Development of specialized equipment for deep-sea military operations  
 **Training**: Training programs producing elite soldiers capable of operating in crushing depths  
-**Influence**: Fortress doctrine being adopted by military forces throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Influence**: Fortress doctrine being adopted by military forces throughout [[Aquabyssos]]
 
 ### Modern Era
 **Current Status**: Premier deep-sea military installation and command center  
 **Evolution**: Continuous adaptation to meet new types of threats from deepest regions  
-**Command**: Central command facility for military operations throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Command**: Central command facility for military operations throughout [[Aquabyssos]]  
 **Innovation**: Ongoing development of advanced military technology and tactics  
 **Legacy**: Model for deep-sea military installations throughout underwater realms
 
@@ -144,7 +139,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 
 #### The Equipment Testing Labs
 **Function**: Advanced laboratories for testing equipment under extreme pressure conditions  
-**Capability**: Ability to simulate pressure conditions throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Capability**: Ability to simulate pressure conditions throughout [[Aquabyssos]]  
 **Development**: Research and development of new military equipment and technology  
 **Quality**: Rigorous testing ensuring equipment reliability under combat conditions  
 **Innovation**: Continuous innovation in deep-sea military technology
@@ -177,14 +172,14 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 ### The Depth Wardens Command
 
 #### Strategic Command Center
-**Function**: Central command facility for [[02_Worldbuilding/People/The Depth Wardens]] military operations  
+**Function**: Central command facility for [[The Depth Wardens]] military operations  
 **Technology**: Advanced command and control systems managing vast military operations  
-**Communication**: Comprehensive communication systems reaching throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Communication**: Comprehensive communication systems reaching throughout [[Aquabyssos]]  
 **Intelligence**: Intelligence analysis centers processing information from multiple sources  
 **Decision**: Command facilities where critical military decisions are made
 
 #### Operational Coordination
-**Scope**: Coordination of military operations throughout [[02_Worldbuilding/Places/Aquabyssos]] territory  
+**Scope**: Coordination of military operations throughout [[Aquabyssos]] territory  
 **Resources**: Management of military resources across vast underwater territories  
 **Response**: Rapid response coordination for emergencies throughout the realm  
 **Planning**: Strategic planning for long-term military objectives and threats  
@@ -193,7 +188,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 #### Intelligence Operations
 **Collection**: Comprehensive intelligence collection on threats throughout deep-sea regions  
 **Analysis**: Advanced analysis capabilities processing vast amounts of intelligence data  
-**Dissemination**: Intelligence distribution to military units throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Dissemination**: Intelligence distribution to military units throughout [[Aquabyssos]]  
 **Counterintelligence**: Counterintelligence operations protecting military secrets  
 **Innovation**: Continuous innovation in intelligence gathering and analysis techniques
 
@@ -201,7 +196,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 
 #### Threat Response
 **Readiness**: Constant readiness for responding to deep-sea creature attacks  
-**Deployment**: Rapid deployment capabilities sending forces anywhere in [[02_Worldbuilding/Places/Aquabyssos]]  
+**Deployment**: Rapid deployment capabilities sending forces anywhere in [[Aquabyssos]]  
 **Coordination**: Close coordination with local forces during threat response operations  
 **Equipment**: Specialized equipment designed specifically for deep-sea combat  
 **Tactics**: Advanced tactics developed through extensive deep-sea combat experience
@@ -227,14 +222,14 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Curriculum**: Comprehensive training curriculum covering all aspects of deep-sea warfare  
 **Standards**: Exceptionally high standards producing elite military personnel  
 **Graduation**: Graduation ceremonies marking transformation into elite deep-sea warriors  
-**Assignment**: Assignment of graduates to critical positions throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Assignment**: Assignment of graduates to critical positions throughout [[Aquabyssos]]
 
 #### Technology Development
 **Research**: Military research programs developing advanced deep-sea combat technology  
 **Testing**: Extensive testing of new equipment and weapons systems  
 **Integration**: Integration of new technology with existing military systems  
 **Training**: Training personnel in use of advanced military technology  
-**Distribution**: Distribution of proven technology throughout [[02_Worldbuilding/People/The Depth Wardens]]
+**Distribution**: Distribution of proven technology throughout [[The Depth Wardens]]
 
 #### International Cooperation
 **Alliance**: Cooperation with allied military forces from other underwater realms  
@@ -279,10 +274,10 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 
 #### Pressure-Wave Communication
 **Technology**: Communication systems using pressure waves for long-distance messaging  
-**Range**: Communication capability throughout [[02_Worldbuilding/Places/Aquabyssos]] territory  
+**Range**: Communication capability throughout [[Aquabyssos]] territory  
 **Security**: Encrypted communication systems protecting military messages  
 **Reliability**: Reliable communication even under adverse deep-sea conditions  
-**Integration**: Integration with broader [[02_Worldbuilding/Places/Aquabyssos]] communication networks
+**Integration**: Integration with broader [[Aquabyssos]] communication networks
 
 #### Intelligence Drones
 **Function**: Automated reconnaissance drones capable of extreme depth operation  
@@ -335,7 +330,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 #### Ancient Stirrings
 **Activity**: Increasing activity from ancient entities in deepest ocean regions  
 **Power**: Ancient entities possessing power beyond conventional military capabilities  
-**Threat**: Potential threat to fortress and broader [[02_Worldbuilding/Places/Aquabyssos]] civilization  
+**Threat**: Potential threat to fortress and broader [[Aquabyssos]] civilization  
 **Investigation**: Ongoing investigation into nature and intentions of ancient entities  
 **Preparation**: Preparation for potential confrontation with ancient powers
 
@@ -372,7 +367,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Leadership**: Maintaining military leadership structure independent of political influence
 
 #### Strategic Coordination
-**Integration**: Integration with broader [[02_Worldbuilding/Places/Aquabyssos]] defense strategy  
+**Integration**: Integration with broader [[Aquabyssos]] defense strategy  
 **Cooperation**: Cooperation with other military forces and allied organizations  
 **Intelligence**: Intelligence sharing with civilian authorities and allied forces  
 **Response**: Coordinated response to threats affecting multiple organizations  
@@ -433,7 +428,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Innovation**: Contributing to development of advanced military technology  
 **Evaluation**: Evaluating effectiveness of new weapons and defensive systems  
 **Training**: Training in use of advanced military equipment  
-**Distribution**: Supporting distribution of proven equipment throughout [[02_Worldbuilding/People/The Depth Wardens]]
+**Distribution**: Supporting distribution of proven equipment throughout [[The Depth Wardens]]
 
 #### Research Projects
 **Science**: Participating in scientific research projects  
@@ -445,7 +440,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 ## Connected Elements
 
 ### Military Networks
-**Command**: Central command facility for military operations throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Command**: Central command facility for military operations throughout [[Aquabyssos]]  
 **Coordination**: Coordination with military forces throughout underwater realm  
 **Training**: Training facility for elite military personnel  
 **Technology**: Development center for advanced military technology  
@@ -469,7 +464,7 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 
 ### Military Patron
 **Resources**: Access to advanced military equipment and technology  
-**Missions**: Source of military missions throughout [[02_Worldbuilding/Places/Aquabyssos]]  
+**Missions**: Source of military missions throughout [[Aquabyssos]]  
 **Training**: Advanced military training opportunities  
 **Authority**: Military authority and support for character actions  
 **Intelligence**: Access to military intelligence and strategic information
@@ -488,14 +483,14 @@ Blackheart Fortress serves as [[02_Worldbuilding/People/Commander Typhoon Blackh
 **Recognition**: Recognition and advancement based on military service  
 **Brotherhood**: Building strong bonds with military personnel and commanders
 
-Blackheart Fortress stands as [[02_Worldbuilding/People/Commander Typhoon Blackheart]]'s greatest achievement and [[02_Worldbuilding/Places/Aquabyssos]]'s strongest defense against the unknown horrors that emerge from the deepest reaches of the ocean. Through advanced military technology, elite training programs, and unwavering dedication to territorial defense, this fortress represents the pinnacle of deep-sea military capability, proving that even in the crushing depths where lesser installations would fail, military discipline and technological innovation can create an impregnable bulwark against the darkest threats facing underwater civilization.
+Blackheart Fortress stands as [[Commander Typhoon Blackheart]]'s greatest achievement and [[Aquabyssos]]'s strongest defense against the unknown horrors that emerge from the deepest reaches of the ocean. Through advanced military technology, elite training programs, and unwavering dedication to territorial defense, this fortress represents the pinnacle of deep-sea military capability, proving that even in the crushing depths where lesser installations would fail, military discipline and technological innovation can create an impregnable bulwark against the darkest threats facing underwater civilization.
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [[Captain Garrett Stormcutter]]
+- [[Emperor Thalassius the Wise]]
+- [[Tenebrarum Ambassadors]]
+- [[The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -517,7 +512,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[02_Worldbuilding/Places/Commander Typhoon Blackheart]]
+- [[Commander Typhoon Blackheart]]
+- [[Commander Typhoon Blackheart]]
 
 <!-- enriched: true -->

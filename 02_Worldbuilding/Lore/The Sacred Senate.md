@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[12_Research/D&D_References/The Bathyal Succession]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[12_Research/D&D_References/The Bathyal Succession]]
 
 ## Player-Facing Summary
 

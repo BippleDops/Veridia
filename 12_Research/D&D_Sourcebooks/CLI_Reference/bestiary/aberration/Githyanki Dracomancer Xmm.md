@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-dracomancer-xmm-githyanki-dracomancer-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/githyanki-dracomancer-xmm|Githyanki Dracomancer]]
+# [[githyanki-dracomancer-xmm|Githyanki Dracomancer]]
 *Source: Monster Manual (2024) p. 135*  
 
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
@@ -75,9 +75,9 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "intelligence": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+10"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "senses": "blindsight 30 ft., passive Perception 18"
 "languages": "Common, Draconic, Gith"
@@ -87,21 +87,21 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +10, reach 10 ft. or range 120 ft. Hit:\
       \ 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has\
-      \ the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition until\
+      \ the [[conditions#Frightened|Frightened]] condition until\
       \ the start of the githyanki's next turn."
     "name": "Draconic Strike"
-  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 27 (6d8) Fire damage plus 27 (6d8) Force damage. Success: Half\
       \ damage."
     "name": "Conjured Dragon's Breath (Recharge 5-6)"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18, +10\
-      \ to hit with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]]\
-      \ (the hand is Invisible)\n\n2/day each: [[/03_Mechanics/CLI/spells/nondetection-xphb|Nondetection]]\
-      \ (self only), [[/03_Mechanics/CLI/spells/plane-shift-xphb|Plane Shift]], [[/03_Mechanics/CLI/spells/tongues-xphb|Tongues]]"
+      \ to hit with spell attacks):\n\nAt will: [[mage-hand-xphb|Mage Hand]]\
+      \ (the hand is Invisible)\n\n2/day each: [[nondetection-xphb|Nondetection]]\
+      \ (self only), [[plane-shift-xphb|Plane Shift]], [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [[/03_Mechanics/CLI/spells/misty-step-xphb|Misty Step]],\
+  - "desc": "The githyanki casts [[misty-step-xphb|Misty Step]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "source":

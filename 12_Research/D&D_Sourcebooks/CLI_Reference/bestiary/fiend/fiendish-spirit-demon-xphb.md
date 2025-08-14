@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-demon-xphb-fiendish-spirit-demon-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-demon-xphb|Fiendish Spirit (Demon)]]
+# [[fiendish-spirit-demon-xphb|Fiendish Spirit (Demon)]]
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock
@@ -44,7 +44,7 @@ world: Both
 "speed": "40 ft., climb 40 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":

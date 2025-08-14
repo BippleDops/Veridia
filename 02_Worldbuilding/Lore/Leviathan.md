@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
-
+![[04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg]]
 
 
 ## Overview
@@ -49,11 +45,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[12_Research/D&D_References/Azure Citadel]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[02_Worldbuilding/Places/Angels and Depths]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[12_Research/D&D_Statblocks/Abyssos Prime - Inverse Palace]]
+- [[12_Research/D&D_References/Angels and Depths]]
+- [[12_Research/D&D_References/Azure Citadel]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

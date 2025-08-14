@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-inter-realm-diplomacy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-inter-realm-diplomacy.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[Surface Tensions]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[Surface Tensions]]
 
 ## Player-Facing Summary
 

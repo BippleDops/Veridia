@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg]]
 
 
 # The Shadow Surgeons
@@ -139,9 +135,9 @@ The Shadow Surgeons provide excellent opportunities for moral dilemmas and despe
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Fear Farms]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Fear Farms]]
+- [[The Final Choice]]
+- [[Rescue Senator Glaucus]]
 
 
 ## Appearance
@@ -177,7 +173,7 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Shadow Surgeons]]
+- [[The Shadow Surgeons]]
 
 <!-- enriched: true -->
 nriched: true -->

@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Naval Mercenary Fleet
 headquarters: '[[The Iron Bastion]]'
 influence: Maritime (Coastal waters and shipping lanes)
-leader: '[[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]'
+leader: '[[Captain Rodrigo Ironanchor]]'
 members: ~1,200 sailors, marines, and support crew
 obsidianUIMode: preview
 status: complete
@@ -29,18 +29,15 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg]]
 
 
 # The Iron Fleet
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce*
 
 ## Organization Overview and Purpose
-The Iron Fleet represents the premier naval mercenary force in [[02_Worldbuilding/Places/Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Ironanchor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement.
+The Iron Fleet represents the premier naval mercenary force in [[Aethermoor]]'s waters, combining military discipline with entrepreneurial opportunism to create the most effective maritime organization in the region. Under the commanding leadership of Captain Rodrigo Ironanchor, the Fleet has evolved from a single privateer crew into a formidable armada that serves multiple roles as naval contractors, escort services, salvage specialists, and maritime law enforcement.
 
 The Fleet operates through a sophisticated network of warships, support vessels, coastal installations, and allied organizations that enable them to project power across vast maritime territories while maintaining the flexibility necessary for diverse commercial and military operations. Members of the Iron Fleet are distinguished by their exceptional seamanship, innovative naval tactics, unwavering loyalty to their organization, and pragmatic approach to maritime conflicts that prioritizes effective results over ideological considerations.
 
@@ -197,7 +194,7 @@ The Fleet's relationships with various organizations provide access to services,
 The Iron Fleet maintains complex relationships with numerous organizations throughout the maritime region, balancing cooperation and competition while protecting their interests and maintaining their operational independence.
 
 **Allied Relationships**
-The Fleet maintains strong relationships with the [[02_Worldbuilding/Lore/Royal Navy of Aethermoor]] through official contracts and mutual respect between professional naval organizations. While they sometimes compete for contracts, both organizations recognize the benefits of cooperation against common threats and coordinated responses to major maritime crises. The Fleet also maintains positive relationships with major merchant organizations who rely on their escort services and appreciate their effectiveness in protecting commercial interests.
+The Fleet maintains strong relationships with the [[Royal Navy of Aethermoor]] through official contracts and mutual respect between professional naval organizations. While they sometimes compete for contracts, both organizations recognize the benefits of cooperation against common threats and coordinated responses to major maritime crises. The Fleet also maintains positive relationships with major merchant organizations who rely on their escort services and appreciate their effectiveness in protecting commercial interests.
 
 **Commercial Partnerships**
 The Fleet works closely with various merchant guilds, shipping companies, and trading organizations who provide contracts, information, and support services. These partnerships include escort agreements that guarantee steady revenue, salvage contracts that provide opportunities for profit, supply arrangements that ensure operational support, and information sharing agreements that enhance maritime intelligence capabilities.
@@ -255,8 +252,8 @@ The Fleet must negotiate new agreements with multiple governments simultaneously
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Places/Port Meridian]]
+- [[Merchant Princes]]
+- [[Port Meridian]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

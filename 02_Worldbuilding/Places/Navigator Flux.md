@@ -14,29 +14,26 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-navigator-flux-navigator-flux.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-navigator-flux-navigator-flux.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/The Temporal Convergence Storms]]
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_References/Memory Farmers]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
+- [[12_Research/D&D_References/The Hadal Depths]]
+- [[12_Research/D&D_References/The Temporal Convergence Storms]]
+- [[12_Research/D&D_References/The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -57,3 +54,8 @@ Legends speak of Navigator Flux as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

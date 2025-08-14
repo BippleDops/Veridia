@@ -31,28 +31,26 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg]]
 
 
 # The Shadowmire Tavern
 *Where Secrets Flow Deeper Than the Ale*
 
 ## Overview
-The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grounds, where representatives from every faction, social class, and profession gather to drink, dine, and conduct business away from prying eyes. Built into a partially collapsed [[02_Worldbuilding/Lore/The Seven Shards]] crystalline formation, the tavern's unique architecture combines natural shadow-touched crystal with comfortable furnishings, creating an atmosphere where both legitimate business and questionable dealings can flourish under an unspoken code of mutual respect.
+The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grounds, where representatives from every faction, social class, and profession gather to drink, dine, and conduct business away from prying eyes. Built into a partially collapsed [[The Seven Shards]] crystalline formation, the tavern's unique architecture combines natural shadow-touched crystal with comfortable furnishings, creating an atmosphere where both legitimate business and questionable dealings can flourish under an unspoken code of mutual respect.
 
 ## History & Establishment
 ### Founding
-**Established**: 23 years ago by [[02_Worldbuilding/Lore/Kesh Shadowbrew]], a former [[02_Worldbuilding/Places/Memory Farmers]] seeking redemption
+**Established**: 23 years ago by [[Kesh Shadowbrew]], a former [[Memory Farmers]] seeking redemption
 **Original Purpose**: Refuge for those escaping various factions and organizations
 **The Great Compact**: Agreement between major factions declaring the tavern neutral territory
 **Reputation Building**: Gradually became known as safest place for cross-faction communication
 **Current Status**: Thriving business and essential social institution
 
 ### The Crystal Foundation
-- **Ancient Relic**: Built around fragment of pre-[[02_Worldbuilding/Lore/The Sundering]] crystal formation
+- **Ancient Relic**: Built around fragment of pre-[[The Sundering]] crystal formation
 - **Shadow Enhancement**: Natural shadow energy creates privacy-enhancing effects
 - **Structural Integration**: Crystal serves as both foundation and atmospheric enhancement
 - **Protective Properties**: Crystal formation naturally discourages violence
@@ -68,11 +66,11 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 - **The News Corner**: Area where rumors and information naturally circulate
 
 #### Specialized Areas
-- **The Memory Nook**: Corner where former [[02_Worldbuilding/Places/Memory Farmers]] gather and share stories
-- **The Traders' Circle**: Round table exclusively for [[02_Worldbuilding/Groups/The Liminal Trading Company]] members
-- **The Politicians' Balcony**: Elevated seating for government officials and [[02_Worldbuilding/Places/Parliament of Echoes]] members
+- **The Memory Nook**: Corner where former [[Memory Farmers]] gather and share stories
+- **The Traders' Circle**: Round table exclusively for [[The Liminal Trading Company]] members
+- **The Politicians' Balcony**: Elevated seating for government officials and [[Parliament of Echoes]] members
 - **The Shadows' Alcove**: Darkened corner frequented by spies and information brokers
-- **The Veterans' Table**: Reserved seating for retired military and [[02_Worldbuilding/People/The Depth Wardens]]
+- **The Veterans' Table**: Reserved seating for retired military and [[The Depth Wardens]]
 
 ### Upper Floor
 #### Private Rooms
@@ -113,8 +111,8 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 - **Training**: Teaching young cooks the art of neutral hospitality
 
 ### The Neutral Guards
-- **Torven Peacekeep**: Former [[02_Worldbuilding/People/The Depth Wardens]] soldier now employed as tavern security
-- **Luna Watchful**: Ex-[[02_Worldbuilding/Groups/Silverscale Consortium]] agent providing discrete protection
+- **Torven Peacekeep**: Former [[The Depth Wardens]] soldier now employed as tavern security
+- **Luna Watchful**: Ex-[[Silverscale Consortium]] agent providing discrete protection
 - **Both**: Sworn to maintain tavern neutrality regardless of personal affiliations
 
 ## Daily Operations
@@ -142,25 +140,25 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 
 ## Regular Patrons & Factions
 ### Government Representatives
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Occasionally visits for informal political discussions
+- **[[Tribune Cassia Deepcurrent]]**: Occasionally visits for informal political discussions
 - **Parliamentary Staff**: Mid-level government employees gathering information
 - **Regional Officials**: Local administrators conducting discrete business
-- **Military Officers**: Off-duty [[02_Worldbuilding/People/The Depth Wardens]] and other forces
+- **Military Officers**: Off-duty [[The Depth Wardens]] and other forces
 
 ### Business & Trade
-- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Regular meetings and deal-making
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Information gathering and networking
+- **[[The Liminal Trading Company]]**: Regular meetings and deal-making
+- **[[Silverscale Consortium]]**: Information gathering and networking
 - **Independent Merchants**: Small business owners and entrepreneurial ventures
 - **Financial Advisors**: Those managing money for various organizations
 
 ### Information Networks
-- **[[02_Worldbuilding/People/The Nameless Auditor]]**: Occasionally appears in different guises
+- **[[The Nameless Auditor]]**: Occasionally appears in different guises
 - **Independent Spies**: Freelance information brokers and intelligence gatherers
 - **Journalists**: Those documenting political and social developments
 - **Scholars**: Researchers studying factional interactions and social dynamics
 
 ### Underground Elements
-- **Reformed Criminals**: Ex-[[02_Worldbuilding/Places/Memory Farmers]] and other former illegal operators
+- **Reformed Criminals**: Ex-[[Memory Farmers]] and other former illegal operators
 - **Current Criminals**: Active but discrete illegal operatives following the code
 - **Fence Operators**: Those dealing in questionable but not violent goods
 - **Information Smugglers**: People moving sensitive data across factional lines
@@ -205,7 +203,7 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 - **Anniversary**: Annual celebration of peaceful conflict resolution
 
 ### The Memory War Refugees
-- **Crisis**: Mass exodus of [[02_Worldbuilding/Places/Memory Farmers]] fleeing industry violence
+- **Crisis**: Mass exodus of [[Memory Farmers]] fleeing industry violence
 - **Response**: Tavern provided temporary sanctuary for over 200 refugees
 - **Community Support**: All factions contributed resources for humanitarian aid
 - **Resolution**: Successful integration of refugees into various legitimate occupations
@@ -272,12 +270,12 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 
 ## Connected Elements
 - Links to all major factions through regular patron networks
-- Connected to [[02_Worldbuilding/Lore/The Seven Shards]] through crystal foundation
-- Hub for [[02_Worldbuilding/Groups/The Liminal Trading Company]] business activities
-- Gathering place for reformed [[02_Worldbuilding/Places/Memory Farmers]] and other refugees
-- Neutral venue for [[02_Worldbuilding/Places/Parliament of Echoes]] informal politics
-- Information source for [[02_Worldbuilding/People/The Nameless Auditor]] and other intelligence networks
-- Cultural bridge between different regions and social classes of [[02_Worldbuilding/Places/Aquabyssos]]
+- Connected to [[The Seven Shards]] through crystal foundation
+- Hub for [[The Liminal Trading Company]] business activities
+- Gathering place for reformed [[Memory Farmers]] and other refugees
+- Neutral venue for [[Parliament of Echoes]] informal politics
+- Information source for [[The Nameless Auditor]] and other intelligence networks
+- Cultural bridge between different regions and social classes of [[Aquabyssos]]
 
 ## DM Notes
 ### Campaign Integration
@@ -317,14 +315,14 @@ Legends speak of The Shadowmire Tavern as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
+- [[The Shadowmire Tavern]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/People/The Depth Wardens]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[The Liminal Trading Company]]
+- [[The Depth Wardens]]
+- [[The Nameless Auditor]]
+- [[Memory Farmers]]

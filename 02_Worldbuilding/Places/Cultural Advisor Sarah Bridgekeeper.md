@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-cultural-advisor-sarah-bridgekeeper-cultural-advisor-sarah-bridgekeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-cultural-advisor-sarah-bridgekeeper-cultural-advisor-sarah-bridgekeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Cultural Advisor Sarah Bridgekeeper]]
+- [[Cultural Advisor Sarah Bridgekeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[Diplomatic Tides]]

@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-agricultural-provinces-agricultural-provinces.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-agricultural-provinces-agricultural-provinces.svg]]
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[The Transformed Citizens]]

@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-luminous-dawn-cathedral-the-luminous-dawn-cathedral.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-luminous-dawn-cathedral-the-luminous-dawn-cathedral.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Luminous Dawn Cathedral]]
+- [[The Luminous Dawn Cathedral]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[High Priestess Celeste Dawnbringer]]

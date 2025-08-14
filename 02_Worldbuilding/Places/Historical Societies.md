@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-historical-societies-historical-societies.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-historical-societies-historical-societies.svg]]
 
 
 ## Overview
@@ -62,7 +58,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Historical Societies]]
+- [[Historical Societies]]
 
 <!-- enriched: true -->
 

@@ -27,7 +27,7 @@ updated: '2025-08-12T23:37:35.741930'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\dragon/guard-drake-blue-mpmm|Guard Drake (Blue)]]
+# [[guard-drake-blue-mpmm|Guard Drake (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock
@@ -49,7 +49,7 @@ world: Both
   - !!int "7"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "lightning"
 "senses": "darkvision 60 ft., passive Perception 12"

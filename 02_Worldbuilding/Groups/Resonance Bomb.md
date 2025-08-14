@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-resonance-bomb.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-resonance-bomb.svg]]
 
 
 ## Player-Facing Summary

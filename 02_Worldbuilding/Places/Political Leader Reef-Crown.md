@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Political Leader Reef-Crown]]
+- [[12_Research/D&D_References/Political Leader Reef-Crown]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[12_Research/D&D_References/The Restoration Movement]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

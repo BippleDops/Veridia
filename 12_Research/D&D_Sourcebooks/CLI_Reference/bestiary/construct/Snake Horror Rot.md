@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-snake-horror-rot-snake-horror-rot.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/snake-horror-rot|Snake Horror]]
+# [[snake-horror-rot|Snake Horror]]
 *Source: The Rise of Tiamat p. 46*  
 
 ```statblock
@@ -36,7 +36,7 @@ world: Both
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "[[/03_Mechanics/CLI/items/plate-armor-xphb|plate armor]], [[/03_Mechanics/CLI/items/shield-xphb|shield]]"
+"ac_class": "[[plate-armor-xphb|plate armor]], [[shield-xphb|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -49,15 +49,15 @@ world: Both
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
@@ -66,8 +66,8 @@ world: Both
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The snake horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [[/03_Mechanics/CLI/spells/fireball-xphb|fireball]], [[/03_Mechanics/CLI/spells/heat-metal-xphb|heat\
-      \ metal]], and [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning bolt]]."
+      \ immunities include [[fireball-xphb|fireball]], [[heat-metal-xphb|heat\
+      \ metal]], and [[lightning-bolt-xphb|lightning bolt]]."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The snake horror makes two longsword attacks."

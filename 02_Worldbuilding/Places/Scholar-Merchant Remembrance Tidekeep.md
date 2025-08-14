@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scholar-merchant-remembrance-tidekeep-scholar-merchant-remembrance-tidekeep.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scholar-merchant-remembrance-tidekeep-scholar-merchant-remembrance-tidekeep.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[Merchant's Covenant]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[Merchant's Covenant]]
 
 ## Player-Facing Summary
 

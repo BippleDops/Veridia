@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-salvage-queen-nerissa-deepfinder.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-salvage-queen-nerissa-deepfinder.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Salvage Queen Nerissa Deepfinder]]
+- [[Salvage Queen Nerissa Deepfinder]]
 
 <!-- enriched: true -->

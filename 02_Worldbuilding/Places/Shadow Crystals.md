@@ -3,6 +3,8 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/location
@@ -16,11 +18,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals.svg]]
 
 
 ## Overview
@@ -62,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Shadow Crystals]]
+- [[12_Research/D&D_References/Shadow Crystals]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]
+- [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]

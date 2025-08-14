@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-quadrone-xmm-modron-quadrone-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/modron-quadrone-xmm|Modron Quadrone]]
+# [[modron-quadrone-xmm|Modron Quadrone]]
 *Source: Monster Manual (2024) p. 218*  
 
 Quadrones are among the most relatable modrons—and those most likely to go rogue.
@@ -92,9 +92,9 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]]"
+"condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"

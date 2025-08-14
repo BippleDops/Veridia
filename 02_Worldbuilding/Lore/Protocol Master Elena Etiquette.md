@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[12_Research/D&D_Statblocks/Diplomatic Tides]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

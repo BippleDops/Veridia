@@ -26,13 +26,13 @@ world: Both
 ![](04_Resources/Assets/Items/item-artifact-dragon-sensing-longsword-pota-dragon-sensing-longsword-pota.svg)
 
 # Dragon Sensing Longsword
-*Weapon ([[/03_Mechanics/CLI/items/longsword-xphb|longsword]])*  
+*Weapon ([[longsword-xphb|longsword]])*  
 
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
 This +1 longsword is made of dragon bone and with a dragon-leather grip. It has rubies in its pommel and hilt. The sword grows warm and the rubies glow slightly when the sword is within 120 feet of a dragon.

@@ -2,6 +2,11 @@
 type: Lore
 status: complete
 tags:
+- combat
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - criminal-network
@@ -21,52 +26,54 @@ obsidianUIMode: preview
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
-
-
+![[04_Resources/Assets/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg]]
 
 
 # Smuggler
 
 **Type:** Infiltration/Investigation/Criminal Underworld  
 **Level:** 5-9  
-**Location:** [[02_Worldbuilding/Places/Smuggler's Cove]], [[02_Worldbuilding/Places/The Trade Quarter]], [[02_Worldbuilding/Places/The Shadow Markets]], [[02_Worldbuilding/Groups/Border Territories]]  
+**Location:** [[12_Research/D&D_References/Smuggler's Cove]], [[12_Research/D&D_References/The Trade Quarter]], [[12_Research/D&D_References/The Shadow Markets]], [[12_Research/D&D_References/Border Territories]]  
 **Duration:** 4-6 sessions  
-**Threat:** A legendary smuggler has disappeared, leaving behind a criminal empire in chaos and a secret that could destabilize both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]
+**Threat:** A legendary smuggler has disappeared, leaving behind a criminal empire in chaos and a secret that could destabilize both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]
 
 ## Overview
+
 "The Tide Walker"—one of the most successful smugglers in the history of cross-realm trade—vanished three months ago while carrying what witnesses describe as "the most dangerous cargo ever to cross the depths." His criminal organization is fragmenting, rival gangs are moving to claim his territory, and government agents from both realms are desperately searching for his final shipment. The party is hired to find the missing smuggler and his cargo before his absence triggers a war between the criminal underworld and legitimate authorities.
 
 ## Background
-Marcus "Tide Walker" Deepcurrent built his reputation over twenty years by successfully moving anything from rare artifacts to political refugees between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. His network included corrupt officials, desperate merchants, and underground railways that moved goods and people across the most dangerous routes in both realms. He was known for his absolute discretion, fair dealings, and most importantly, never asking questions about his cargo.
 
-His final job was different. The client paid ten times his usual rate and provided magical containers that even Marcus wasn't allowed to examine. The cargo was loaded under the strictest security protocols, and Marcus himself took personal command of the transport—something he hadn't done in five years. The convoy disappeared somewhere in the [[02_Worldbuilding/Groups/Border Territories]], and no trace has been found despite extensive searches by multiple organizations.
+Marcus "Tide Walker" Deepcurrent built his reputation over twenty years by successfully moving anything from rare artifacts to political refugees between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. His network included corrupt officials, desperate merchants, and underground railways that moved goods and people across the most dangerous routes in both realms. He was known for his absolute discretion, fair dealings, and most importantly, never asking questions about his cargo.
 
-What the party will eventually discover is that Marcus was transporting a collection of ancient artifacts connected to [[02_Worldbuilding/Places/The Lock]]—the magical barrier that keeps [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] separate. His client was part of a radical faction seeking to either strengthen or destroy the barrier, but Marcus discovered the true nature of his cargo and made a choice that has put him in hiding while he decides what to do with world-changing power.
+His final job was different. The client paid ten times his usual rate and provided magical containers that even Marcus wasn't allowed to examine. The cargo was loaded under the strictest security protocols, and Marcus himself took personal command of the transport—something he hadn't done in five years. The convoy disappeared somewhere in the [[12_Research/D&D_References/Border Territories]], and no trace has been found despite extensive searches by multiple organizations.
+
+What the party will eventually discover is that Marcus was transporting a collection of ancient artifacts connected to [[12_Research/D&D_References/The Lock]]—the magical barrier that keeps [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] separate. His client was part of a radical faction seeking to either strengthen or destroy the barrier, but Marcus discovered the true nature of his cargo and made a choice that has put him in hiding while he decides what to do with world-changing power.
 
 ## Key NPCs
+
 - **Marcus "Tide Walker" Deepcurrent**: The missing legendary smuggler
 - **Siren Blackwater**: Marcus's second-in-command, now running the fractured organization
-- **[[02_Worldbuilding/Lore/The Shadow Broker]]**: Information dealer who arranged Marcus's final contract
-- **Agent Coral Deepwatch**: Government investigator from [[02_Worldbuilding/Places/Abyssos Prime]]
-- **Captain Sterling Cross-Current**: [[02_Worldbuilding/Places/Aethermoor]] military intelligence officer
+- **[[12_Research/D&D_References/The Shadow Broker]]**: Information dealer who arranged Marcus's final contract
+- **Agent Coral Deepwatch**: Government investigator from [[12_Research/D&D_References/Abyssos Prime]]
+- **Captain Sterling Cross-Current**: [[12_Research/D&D_References/Aethermoor]] military intelligence officer
 - **Madame Luna Silktide**: Crime boss attempting to absorb Marcus's territory
 - **The Mysterious Client**: Unknown figure who hired Marcus for the fateful final job
 - **Reef Saltwater**: Marcus's trusted driver and convoy specialist
-- **Dr. Marina Voidwright**: Researcher studying artifacts connected to [[02_Worldbuilding/Places/The Lock]]
-- **[[Traveling Merchant Finn]]**: Legitimate trader who sometimes worked with Marcus
+- **Dr. Marina Voidwright**: Researcher studying artifacts connected to [[12_Research/D&D_References/The Lock]]
+- **[[12_Research/D&D_Statblocks/Traveling Merchant Finn]]**: Legitimate trader who sometimes worked with Marcus
 - **The Tide Touched**: Marcus's elite smuggling crew, now scattered and hunted
 - **Commander Pike Ironward**: Border patrol officer who knows about Marcus's routes
 - **Echo Memorytide**: Former smuggler turned informant
 - **The Vault Keeper**: Underground banker who holds Marcus's emergency resources
 
 ## Phase 1: Into the Underground (1-2 sessions)
-**Location:** [[02_Worldbuilding/Places/Smuggler's Cove]] and [[02_Worldbuilding/Places/The Shadow Markets]]  
+
+**Location:** [[12_Research/D&D_References/Smuggler's Cove]] and [[12_Research/D&D_References/The Shadow Markets]]  
 **Objective:** Establish contact with the criminal underworld and gather intelligence
 
 ### The Fractured Empire
+
 **Current Situation:**
 - Marcus's organization has split into four competing factions
 - Territory wars have begun as other crime bosses move to claim his routes
@@ -75,14 +82,16 @@ What the party will eventually discover is that Marcus was transporting a collec
 - The criminal economy is destabilizing without his stabilizing influence
 
 ### Making Contact
+
 **Entry Points into the Underground:**
 - **Siren Blackwater**: Approaches the party if they show useful skills
 - **Madame Luna Silktide**: Offers employment to test their capabilities and loyalties
-- **[[02_Worldbuilding/Lore/The Shadow Broker]]**: Trades information for services or payment
+- **[[12_Research/D&D_References/The Shadow Broker]]**: Trades information for services or payment
 - **Echo Memorytide**: Provides background information about Marcus for a price
 - **Street-Level Criminals**: Lower-tier smugglers who knew Marcus's reputation
 
 ### Establishing Credibility
+
 **Tasks to Prove Trustworthiness:**
 - **Transport Run**: Carry illegal goods through security checkpoints
 - **Information Gathering**: Collect intelligence on rival criminal organizations
@@ -91,6 +100,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Code Breaking**: Decode encrypted messages using criminal cipher systems
 
 ### The Underground Economy
+
 **Criminal Services Available:**
 - **Forged Documents**: Papers allowing travel through restricted areas
 - **Contraband Equipment**: Weapons and tools not available through legal channels
@@ -138,10 +148,12 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Inspiring Leadership**: Allies within 30 feet gain +2 to attack rolls and saves
 
 ## Phase 2: Following the Cold Trail (1-2 sessions)
-**Location:** [[02_Worldbuilding/Groups/Border Territories]] and abandoned smuggling routes  
+
+**Location:** [[12_Research/D&D_References/Border Territories]] and abandoned smuggling routes  
 **Objective:** Investigate Marcus's final job and track his last known movements
 
 ### The Final Contract
+
 **Information Gradually Revealed:**
 - **Client Identity**: Used multiple false names and magical disguises
 - **Payment Method**: Transferred through untraceable crystal currency
@@ -151,6 +163,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Timeline**: Journey should have taken 8 days, went missing on day 3
 
 ### Investigation Challenges
+
 **Tracking a Professional:**
 - **Erased Evidence**: Marcus methodically destroyed most traces of his passage
 - **False Trails**: Deliberately planted misleading clues to confuse pursuers
@@ -179,8 +192,9 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Escape Routes**: Hidden passages leading deeper into uncharted territory
 
 ### Border Territories Encounters
+
 **Environmental Hazards:**
-- **Unstable Magic**: Areas where [[02_Worldbuilding/Places/The Lock]] creates magical disturbances
+- **Unstable Magic**: Areas where [[12_Research/D&D_References/The Lock]] creates magical disturbances
 - **Territorial Creatures**: Monsters that guard the border regions
 - **Reality Distortions**: Spaces where the boundaries between realms blur
 - **Lawless Zones**: Areas claimed by neither realm and controlled by criminals
@@ -203,18 +217,21 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Phase Step** (1/day): Can briefly enter border space between realms to avoid attacks
 
 ## Phase 3: The Hidden Truth (1-2 sessions)
+
 **Location:** Secret hideout in the deep border territories  
 **Objective:** Find Marcus and learn the truth about his cargo
 
 ### Marcus's Secret
+
 **What Really Happened:**
-- Marcus discovered his cargo contained fragments of [[02_Worldbuilding/Places/The Lock]] itself
+- Marcus discovered his cargo contained fragments of [[12_Research/D&D_References/The Lock]] itself
 - His client intended to use these fragments to either strengthen or destroy the barrier
 - Realizing the catastrophic potential, Marcus faked the convoy's destruction
 - He's been hiding while trying to decide what to do with world-changing artifacts
 - Government agents and criminal rivals are closing in on his location
 
 ### Finding the Hideout
+
 **The Search Process:**
 - **Following Clues**: Piecing together Marcus's emergency protocols and safe locations
 - **Environmental Reading**: Tracking magical disturbances caused by the artifacts
@@ -223,6 +240,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Resource Tracking**: Following the flow of supplies to hidden locations
 
 ### The Confrontation
+
 **Meeting Marcus "Tide Walker" Deepcurrent:**
 
 **Marcus "Tide Walker" Deepcurrent**
@@ -249,18 +267,21 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Sneak Attack**: Deals extra 5d6 damage when attacking with advantage
 
 ## Phase 4: The Power Play (2 sessions)
+
 **Location:** Various - as multiple factions converge on Marcus's location  
 **Objective:** Navigate the competing interests and determine the fate of the Lock Fragments
 
 ### The Converging Forces
+
 **Multiple Parties Arrive Simultaneously:**
-- **Government Agents**: Official representatives from both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]
+- **Government Agents**: Official representatives from both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]
 - **Criminal Rivals**: Other crime bosses seeking to claim the valuable cargo
 - **Mysterious Client**: The original employer arrives with mercenaries to reclaim the artifacts
 - **Academic Researchers**: Scholars who want to study the fragments safely
 - **Religious Fanatics**: Groups believing the artifacts are divine or demonic
 
 ### Resolution Paths
+
 **Peaceful Resolution:**
 - Fragments placed under joint custody of academic and government consortium
 - Marcus receives amnesty in exchange for cooperation with security measures
@@ -272,19 +293,21 @@ What the party will eventually discover is that Marcus was transporting a collec
 - Party becomes part of most powerful criminal organization in both realms
 
 **Government Control:**
-- Fragments secured in joint [[02_Worldbuilding/Places/Aquabyssos]]-[[02_Worldbuilding/Places/Aethermoor]] facility
+- Fragments secured in joint [[12_Research/D&D_References/Aquabyssos]]-[[12_Research/D&D_References/Aethermoor]] facility
 - Marcus granted witness protection and new identity
 - Party recognized as official heroes and granted significant rewards
 
 ## Rewards
 
 ### Experience and Recognition
+
 - **Base XP**: 25,000 XP for resolving the fragment crisis
 - **Diplomatic Bonus**: Additional XP for negotiating peaceful resolution
 - **Investigation Rewards**: XP for uncovering the truth behind Marcus's disappearance
 - **Government Payment**: 15,000 gp reward for recovering dangerous artifacts
 
 ### Unique Items
+
 - **Dimensional Storage Pack**: Backpack that can hold twice normal capacity
 - **Smuggler's Compass**: Always points toward nearest hidden passage or secret route
 - **Fragment Resonator**: Detects presence of Lock Fragment energy within 1 mile
@@ -292,6 +315,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **Tide Walker's Coat**: Grants advantage on Stealth checks and resistance to cold damage
 
 ### Long-term Benefits
+
 - **Network Access**: Connections throughout criminal underworld and legitimate authorities
 - **Safe Passage**: Guaranteed protection when traveling through dangerous territories
 - **Information Sources**: Ongoing access to intelligence networks
@@ -300,28 +324,32 @@ What the party will eventually discover is that Marcus was transporting a collec
 ## Wiki Links and Campaign Connections
 
 ### Core Campaign Elements
-- **[[02_Worldbuilding/Places/The Lock]]**: The magical barrier whose fragments form the central mystery
-- **[[02_Worldbuilding/Places/Smuggler's Cove]]**: Primary location for criminal underworld activities
-- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Underground economy where illegal goods are traded
-- **[[02_Worldbuilding/Groups/Border Territories]]**: Dangerous regions between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Political faction whose member hired Marcus
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Government center coordinating official response
+
+- **[[12_Research/D&D_References/The Lock]]**: The magical barrier whose fragments form the central mystery
+- **[[12_Research/D&D_References/Smuggler's Cove]]**: Primary location for criminal underworld activities
+- **[[12_Research/D&D_References/The Shadow Markets]]**: Underground economy where illegal goods are traded
+- **[[12_Research/D&D_References/Border Territories]]**: Dangerous regions between [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]
+- **[[12_Research/D&D_References/The Crystal Throne]]**: Political faction whose member hired Marcus
+- **[[12_Research/D&D_References/Abyssos Prime]]**: Government center coordinating official response
 
 ### Connected Adventures
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Other criminal operations that may involve Marcus's network
-- **[[Traveling Merchant Finn]]**: Legitimate trader with connections to smuggling operations
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Political implications of faction involvement in fragment theft
-- **[[Rescue Senator Glaucus]]**: Government instability that criminals exploit
+
+- **[[12_Research/D&D_References/Aquabyssos]]**: Other criminal operations that may involve Marcus's network
+- **[[12_Research/D&D_Statblocks/Traveling Merchant Finn]]**: Legitimate trader with connections to smuggling operations
+- **[[12_Research/D&D_References/The Crystal Throne]]**: Political implications of faction involvement in fragment theft
+- **[[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]**: Government instability that criminals exploit
 
 ## Campaign Impact
 
 ### Political Ramifications
-- **Inter-Realm Relations**: Success or failure affects [[02_Worldbuilding/Places/Aquabyssos]]-[[02_Worldbuilding/Places/Aethermoor]] cooperation
+
+- **Inter-Realm Relations**: Success or failure affects [[12_Research/D&D_References/Aquabyssos]]-[[12_Research/D&D_References/Aethermoor]] cooperation
 - **Criminal Justice Reform**: Government response to organized crime capabilities
 - **Border Security**: New protocols for monitoring dangerous territory
 - **Intelligence Cooperation**: Joint operations between realm security services
 
 ### Economic Consequences
+
 - **Smuggling Trade**: Disruption or strengthening of illegal commerce
 - **Legitimate Business**: Impact on legal trade between realms
 - **Security Industry**: Increased demand for protection services
@@ -330,31 +358,35 @@ What the party will eventually discover is that Marcus was transporting a collec
 ## DM Notes
 
 ### Running Criminal Underworld
+
 - **Moral Ambiguity**: Present criminals as complex characters with understandable motivations
 - **Atmosphere**: Emphasize the secretive, dangerous nature of underground activities
 - **Trust Issues**: Make it unclear who can be trusted and who has hidden agendas
 - **Consequences**: Show how criminal activities affect innocent people
 
 ### Managing Multiple Factions
+
 - **Clear Motivations**: Ensure each faction has distinct, understandable goals
 - **Balanced Power**: No single faction should dominate without player intervention
 - **Dynamic Relationships**: Factions should react to party choices and changing circumstances
 - **Information Control**: Reveal faction secrets gradually to maintain tension
 
 ### Session Structure
+
 - **Session 1-2**: Introduction to criminal underworld and establishment of credibility
 - **Session 3-4**: Investigation of Marcus's disappearance and following the cold trail
 - **Session 5**: Discovery of Marcus and learning about the Lock Fragments
 - **Session 6**: Resolution of fragment crisis and dealing with aftermath
 
 ### Themes to Emphasize
+
 - **Loyalty vs. Law**: When breaking rules serves the greater good
 - **Trust**: Who deserves to wield ultimate power
 - **Consequence**: How individual choices affect entire realms
 - **Redemption**: Whether criminals can become heroes
 
 > [!danger] DM Secret
-> Marcus discovered that his mysterious client is actually working for a faction that wants to merge the realms, but the client doesn't realize that his superiors plan to sacrifice [[02_Worldbuilding/Places/Aquabyssos]] to power [[02_Worldbuilding/Places/Aethermoor]]'s expansion. The Lock Fragments aren't just keys to the barrier—they're the realm's life support system. Using them incorrectly won't just merge the worlds; it will drain one to feed the other, potentially destroying millions of lives in the process.
+> Marcus discovered that his mysterious client is actually working for a faction that wants to merge the realms, but the client doesn't realize that his superiors plan to sacrifice [[12_Research/D&D_References/Aquabyssos]] to power [[12_Research/D&D_References/Aethermoor]]'s expansion. The Lock Fragments aren't just keys to the barrier—they're the realm's life support system. Using them incorrectly won't just merge the worlds; it will drain one to feed the other, potentially destroying millions of lives in the process.
 
 ## Player-Facing Summary
 
@@ -374,14 +406,19 @@ Legends speak of Smuggler as a nexus where past and present converge. Locals des
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Smuggler's Cove]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[Rescue Senator Glaucus]]
-- [[Traveling Merchant Finn]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Smuggler's Cove]]
+- [[12_Research/D&D_References/The Lock]]
+- [[12_Research/D&D_Statblocks/Rescue Senator Glaucus]]
+- [[12_Research/D&D_Statblocks/Traveling Merchant Finn]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

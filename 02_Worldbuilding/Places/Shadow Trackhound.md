@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,20 +16,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shadow-trackhound-shadow-trackhound.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadow-trackhound-shadow-trackhound.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[12_Research/D&D_References/Harbor District Customs House]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[12_Research/D&D_References/Harbor District Customs House]]
 
 ## Player-Facing Summary
 

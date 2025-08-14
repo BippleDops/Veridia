@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nothic-xmm-nothic-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/nothic-xmm|Nothic]]
+# [[nothic-xmm|Nothic]]
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  
 
 ## Nothic
@@ -65,13 +65,13 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Undercommon"

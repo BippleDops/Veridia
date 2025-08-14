@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-sire-sire.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sire-sire.svg]]
 
 
 ## Overview
@@ -45,7 +42,7 @@ TODO
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[Timeline of the Drowning]]
 
 ## Player-Facing Summary
 

@@ -15,22 +15,15 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-archdruid-thornweaver-archdruid-thornweaver.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-archdruid-thornweaver-archdruid-thornweaver.svg]]
 
 
 # Archdruid Thornweaver
 *Voice of the Ancient Forest, Guardian of the Green*
 
 ## Overview
-Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[02_Worldbuilding/People/The Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
+Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[The Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
 
 ## Appearance
 - **Race**: Wood Elf, extraordinarily old even for her kind
@@ -94,8 +87,8 @@ Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]
 - Awakened trees and plants
 
 ### Territory
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Core domain
-- Hidden groves throughout [[02_Worldbuilding/Places/Aethermoor]]
+- [[The Verdant Reach]] - Core domain
+- Hidden groves throughout [[Aethermoor]]
 - Underground root network
 - Sacred sites predating Shattering
 
@@ -103,24 +96,24 @@ Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]
 - Natural magic unreliant on crystals
 - Healing herbs and potions
 - Ancient knowledge from before the Shattering
-- Spy network of animals throughout [[02_Worldbuilding/Places/Aethermoor]]
+- Spy network of animals throughout [[Aethermoor]]
 
 ## Relationships & Social Network
 
 ### Fellow Betrayer Descendants
-- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Shares the burden of ancestral guilt, potential ally in redemption
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Another descendant, but their methods are incompatible
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - The ultimate figure of their ancestors' betrayal
+- **[[Lord Aurelius Goldwave]]** - Shares the burden of ancestral guilt, potential ally in redemption
+- **[[High Inquisitor Maltheos]]** - Another descendant, but their methods are incompatible
+- **[[The Crimson Sage]]** - The ultimate figure of their ancestors' betrayal
 - **Other descendants** - Seeks to unite them in making amends
 
 ### Political Relations
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Opposes crystal expansion policies
-- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Primary opponents in protecting crystal interests
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Complicated alliance with different end goals
-- **[[02_Worldbuilding/Places/The Crystal Throne|02 Worldbuilding/Places/The Crystal Throne]]** - The seat of power she ultimately opposes
+- **[[Queen Seraphina Lumengarde]]** - Opposes crystal expansion policies
+- **[[Crystal Wardens]]** - Primary opponents in protecting crystal interests
+- **[[Purist Coalition]]** - Complicated alliance with different end goals
+- **[[The Crystal Throne|02 Worldbuilding/Places/The Crystal Throne]]** - The seat of power she ultimately opposes
 
 ### Natural World Network
-- **[[02_Worldbuilding/Groups/The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]]** - Organization she leads and guides
+- **[[The Verdant Accord|02 Worldbuilding/Groups/The Verdant Accord]]** - Organization she leads and guides
 - **Forest Spirits** - Ancient beings who remember the pre-Shattering world
 - **Awakened Trees** - Sentient forest guardians under her protection
 - **Nature Clerics** - Religious figures who serve the old gods of nature
@@ -128,34 +121,34 @@ Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]
 
 ### Complex Relationships
 - **Crystal-corrupted druids** - Former allies she may need to oppose or redeem
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic whose research she both needs and opposes
+- **[[Professor Aldric Crystalweaver]]** - Academic whose research she both needs and opposes
 - **Surface traders** - Necessary contacts for resources but many profit from crystal trade
 
 ## Relationships
 
 ### Allies
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Ideological alignment, distrusts methods
+- [[High Inquisitor Maltheos]] - Ideological alignment, distrusts methods
 - Forest creatures and nature spirits
 - Rural communities
 - Traditional healers
 
 ### Enemies
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Spreading corruption
+- [[The Crystal Throne]] - Spreading corruption
 - Crystal mining operations
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Represents everything she opposes
+- [[Master Artificer Korvin Gearwright]] - Represents everything she opposes
 - Urban expansion
 
 ### Complicated
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Pities her corruption
-- [[02_Worldbuilding/People/The Crimson Sage]] - Knows more than she admits
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - His expedition threatens sacred sites
+- [[Queen Seraphina Lumengarde]] - Pities her corruption
+- [[The Crimson Sage]] - Knows more than she admits
+- [[Captain Thaddeus Blackwater]] - His expedition threatens sacred sites
 - Humans in general - Short-lived and reckless
 
 ## Secret Knowledge
 > [!warning] DM Only
 > - Knows location of the Green Shard (Southern Spire)
 > - Her ancestor was one of the Seven Betrayers
-> - Has been in contact with [[02_Worldbuilding/People/The Crimson Sage]]
+> - Has been in contact with [[The Crimson Sage]]
 > - The forest itself is becoming sentient from crystal exposure
 > - Plans to awaken the World-Tree to fight crystals
 > - Knows the true cure for corruption (requires massive life sacrifice)
@@ -170,7 +163,7 @@ Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]
 
 ### Desperate Measures
 - Considering violent action
-- Alliance with [[02_Worldbuilding/Groups/Purist Coalition]]
+- Alliance with [[Purist Coalition]]
 - Awakening dangerous nature spirits
 - The final option: The Great Withering
 
@@ -216,9 +209,9 @@ Her seat of power, containing:
 ## Quest Involvement
 
 ### Quest Giver
-- [[02_Worldbuilding/People/Quest - The Dying Forest]] - Save sacred groves
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Restore corrupted land
-- [[02_Worldbuilding/People/Quest - The Root Network]] - Explore ancient tunnels
+- [[Quest - The Dying Forest]] - Save sacred groves
+- [[Quest - Nature's Balance]] - Restore corrupted land
+- [[Quest - The Root Network]] - Explore ancient tunnels
 
 ### Potential Ally
 - Against crystal expansion
@@ -256,15 +249,15 @@ Her seat of power, containing:
 - Her death would doom the forests
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Ideological ally
-- [[02_Worldbuilding/People/The Crimson Sage]] - Knows their secret
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Opposed but sympathetic
+- [[High Inquisitor Maltheos]] - Ideological ally
+- [[The Crimson Sage]] - Knows their secret
+- [[Queen Seraphina Lumengarde]] - Opposed but sympathetic
 - Forest spirits and druids
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Domain
+- [[The Verdant Reach]] - Domain
 - Sacred Grove - Base
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Expanding threat
+- [[The Crystalline Wastes]] - Expanding threat
 - Hidden groves across continent
 
 ## Potential Rewards
@@ -277,9 +270,9 @@ Her seat of power, containing:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Lighthouse Keeper]]
-- [[02_Worldbuilding/People/Quest - The Root Network]]
+- [[The Seven Shards]]
+- [[Lighthouse Keeper]]
+- [[Quest - The Root Network]]
 
 ## Player-Facing Summary
 
@@ -297,8 +290,8 @@ Legends speak of Archdruid Thornweaver as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Archdruid Thornweaver]]
+- [[Archdruid Thornweaver]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Quest - The Dying Forest]]
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[Quest - The Dying Forest]]
+- [[Quest - Nature's Balance]]

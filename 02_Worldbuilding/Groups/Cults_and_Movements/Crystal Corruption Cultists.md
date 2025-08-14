@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer]]
 
 ## Player-Facing Summary
 

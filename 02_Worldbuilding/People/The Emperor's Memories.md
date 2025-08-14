@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emperor's Memories]]
+- [[The Emperor's Memories]]
 
 <!-- enriched: true -->

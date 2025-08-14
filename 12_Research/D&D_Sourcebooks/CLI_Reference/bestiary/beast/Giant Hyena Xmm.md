@@ -31,12 +31,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-hyena-xmm-giant-hyena-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/giant-hyena-xmm|Giant Hyena]]
+# [[giant-hyena-xmm|Giant Hyena]]
 *Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Hyena (XMM)"
@@ -56,7 +56,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
@@ -65,8 +65,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that was already [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]],\
-      \ the hyena can move up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that was already [[bloodied-xphb|Bloodied]],\
+      \ the hyena can move up to half its [[speed-xphb|Speed]],\
       \ and it makes one Bite attack."
     "name": "Rampage (1/Day)"
 "source":

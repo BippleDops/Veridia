@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-brother-thaddeus-the-rememberer-brother-thaddeus-the-rememberer.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-brother-thaddeus-the-rememberer-brother-thaddeus-the-rememberer.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]
+- [[Brother Thaddeus the Rememberer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[Sister Morwyn]]

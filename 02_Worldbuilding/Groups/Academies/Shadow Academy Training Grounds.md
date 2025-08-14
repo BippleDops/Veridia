@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
+- [[The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]
+- [[The Shadow Duchess Duel]]
 
 ## Player-Facing Summary
 

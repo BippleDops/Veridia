@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-demoniac-xmm-gnoll-demoniac-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/gnoll-demoniac-xmm|Gnoll Demoniac]]
+# [[gnoll-demoniac-xmm|Gnoll Demoniac]]
 *Source: Monster Manual (2024) p. 141*  
 
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
@@ -70,7 +70,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Gnoll"
@@ -81,20 +81,20 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 60 ft. Hit:\
       \ 20 (5d6 + 3) Poison damage."
     "name": "Abyssal Strike"
-  - "desc": "The gnoll conjures a 30-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]]\
-      \ of magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] originating\
+  - "desc": "The gnoll conjures a 30-foot [[cube-area-of-effect-xphb|Cube]]\
+      \ of magical [[darkness-xphb|Darkness]] originating\
       \ from a point it can see within 60 feet, which lasts for 1 minute or until\
-      \ the gnoll's [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]\
-      \ ends on it. This area is [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]].\
+      \ the gnoll's [[conditions#Concentration|Concentration]]\
+      \ ends on it. This area is [[difficult-terrain-xphb|Difficult Terrain]].\
       \ Dexterity Saving Throw: DC 14, any creature that starts its turn in this\
       \ area or enters it for the first time on a turn. Failure: 28 (8d6) Necrotic\
-      \ damage, and the gnoll or a creature of its choice it can see gains 10 [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary\
+      \ damage, and the gnoll or a creature of its choice it can see gains 10 [[temporary-hit-points-xphb|Temporary\
       \ Hit Points]].\
       \ Success: Half damage only."
     "name": "Hunger of Yeenoghu (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Abyssal Strike attack."
     "name": "Rampage (2/Day)"
 "source":

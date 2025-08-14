@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-horned-devil-xmm-horned-devil-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/horned-devil-xmm|Horned Devil]]
+# [[horned-devil-xmm|Horned Devil]]
 *Source: Monster Manual (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Horned Devil
@@ -62,17 +62,17 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
-"senses": "darkvision 150 ft. (unimpeded by magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]]),\
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
+"senses": "darkvision 150 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
   \ passive Perception 13"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "11"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ smoke, and it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit Points]]\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The devil has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -84,16 +84,16 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
     "name": "Searing Fork"
   - "desc": "Ranged Attack Roll: +8, range 150 ft. Hit: 26 (5d8 + 4) Fire damage.\
       \ If the target is a flammable object that isn't being worn or carried, it starts\
-      \ [[/03_Mechanics/CLI/traps-hazards/burning-xphb|burning]]."
+      \ [[burning-xphb|burning]]."
     "name": "Hurl Flame"
   - "desc": "Dexterity Saving Throw: DC 17, one creature the devil can see within\
       \ 10 feet. Failure: 10 (1d8 + 6) Necrotic damage, and the target receives\
       \ an infernal wound if it doesn't have one. While wounded, the target loses\
-      \ 10 (3d6) [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] at\
+      \ 10 (3d6) [[hit-points-xphb|Hit Points]] at\
       \ the start of each of its turns. The wound closes after 1 minute, after a spell\
-      \ restores [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] to\
+      \ restores [[hit-points-xphb|Hit Points]] to\
       \ the target, or after the target or a creature within 5 feet of it takes an\
-      \ action to stanch the wound, doing so by succeeding on a DC 17 Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]])\
+      \ action to stanch the wound, doing so by succeeding on a DC 17 Wisdom ([[skills#Medicine|Medicine]])\
       \ check."
     "name": "Infernal Tail"
 "source":

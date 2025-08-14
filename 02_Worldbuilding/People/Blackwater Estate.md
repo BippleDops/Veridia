@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-blackwater-estate-blackwater-estate.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-blackwater-estate-blackwater-estate.svg]]
 
 
 ## Overview
@@ -64,7 +60,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Blackwater Estate]]
+- [[Blackwater Estate]]
 
 <!-- enriched: true -->
 

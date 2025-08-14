@@ -26,9 +26,9 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/piwafwi-cloak-of-elvenkind.webp#right)
 
 
-This dark spider silk cloak is made by [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[/03_Mechanics/CLI/items/cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It loses its magic if exposed to sunlight for 1 hour without interruption.
+This dark spider silk cloak is made by [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. It is a [[cloak-of-elvenkind-xdmg|cloak of elvenkind]]. It loses its magic if exposed to sunlight for 1 hour without interruption.
 
-While you wear this cloak with its hood up, Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks made to see you have disadvantage. and you have advantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+While you wear this cloak with its hood up, Wisdom ([[skills#Perception|Perception]]) checks made to see you have disadvantage. and you have advantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 *Source: Out of the Abyss p. 222*
 

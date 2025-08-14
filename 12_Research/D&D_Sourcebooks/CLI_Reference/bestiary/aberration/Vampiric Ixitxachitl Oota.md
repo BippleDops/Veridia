@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampiric-ixitxachitl-oota-v1-vampiric-ixitxachitl-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/vampiric-ixitxachitl-oota|Vampiric Ixitxachitl]]
+# [[vampiric-ixitxachitl-oota|Vampiric Ixitxachitl]]
 *Source: Out of the Abyss p. 226*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
@@ -58,7 +58,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 2nd Level (3 slots): hold person, silence
 
-3rd Level (2 slots): [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], tongues
+3rd Level (2 slots): [[dispel-magic-xphb|dispel magic]], tongues
 
 ```statblock
 "name": "Vampiric Ixitxachitl (OotA)"

@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temple-coalition-temple-coalition.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temple-coalition-temple-coalition.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temple Coalition]]
+- [[12_Research/D&D_References/Temple Coalition]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Withered Court]]
+- [[12_Research/D&D_References/Withered Court]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

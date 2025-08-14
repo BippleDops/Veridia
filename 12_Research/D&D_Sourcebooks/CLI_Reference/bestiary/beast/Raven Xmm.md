@@ -30,12 +30,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-raven-xmm-raven-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/raven-xmm|Raven]]
+# [[raven-xmm|Raven]]
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Raven (XMM)"
@@ -55,7 +55,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -63,7 +63,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The raven can mimic simple sounds it has heard, such as a whisper or\
       \ chitter. A hearer can discern the sounds are imitations with a successful\
-      \ DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check."
+      \ DC 10 Wisdom ([[skills#Insight|Insight]]) check."
     "name": "Mimicry"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage."

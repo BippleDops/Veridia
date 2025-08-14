@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-bestial-spirit-water-xphb-bestial-spirit-water-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/bestial-spirit-water-xphb|Bestial Spirit (Water)]]
+# [[bestial-spirit-water-xphb|Bestial Spirit (Water)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -47,7 +47,7 @@ world: Both
 "traits":
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition."
+      \ have the [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Pack Tactics"
   - "desc": "The spirit can breathe only underwater."
     "name": "Water Breathing (Water Only)"

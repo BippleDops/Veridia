@@ -23,35 +23,35 @@ world: Both
 
 | Level | Special Facility | Prerequisite | Order |
 |-------|------------------|--------------|-------|
-| 5 | [[/03_Mechanics/CLI/bastions/arcane-study|Arcane Study]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
-| 5 | [[/03_Mechanics/CLI/bastions/armory|Armory]] | None | Trade |
-| 5 | [[/03_Mechanics/CLI/bastions/barrack|Barrack]] | None | Recruit |
-| 5 | [[/03_Mechanics/CLI/bastions/garden|Garden]] | None | Harvest |
-| 5 | [[/03_Mechanics/CLI/bastions/library|Library]] | None | Research |
-| 5 | [[/03_Mechanics/CLI/bastions/sanctuary|Sanctuary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
-| 5 | [[/03_Mechanics/CLI/bastions/smithy|Smithy]] | None | Craft |
-| 5 | [[/03_Mechanics/CLI/bastions/storehouse|Storehouse]] | None | Trade |
-| 5 | [[/03_Mechanics/CLI/bastions/workshop|Workshop]] | None | Craft |
-| 9 | [[/03_Mechanics/CLI/bastions/gaming-hall|Gaming Hall]] | None | Trade |
-| 9 | [[/03_Mechanics/CLI/bastions/greenhouse|Greenhouse]] | None | Harvest |
-| 9 | [[/03_Mechanics/CLI/bastions/laboratory|Laboratory]] | None* | Craft |
-| 9 | [[/03_Mechanics/CLI/bastions/sacristy|Sacristy]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
-| 9 | [[/03_Mechanics/CLI/bastions/scriptorium|Scriptorium]] | None* | Craft |
-| 9 | [[/03_Mechanics/CLI/bastions/stable|Stable]] | None | Trade |
-| 9 | [[/03_Mechanics/CLI/bastions/teleportation-circle|Teleportation Circle]] | None | Recruit |
-| 9 | [[/03_Mechanics/CLI/bastions/theater|Theater]] | None | Empower |
-| 9 | [[/03_Mechanics/CLI/bastions/training-area|Training Area]] | None | Empower |
-| 9 | [[/03_Mechanics/CLI/bastions/trophy-room|Trophy Room]] | None | Research |
-| 13 | [[/03_Mechanics/CLI/bastions/archive|Archive]] | None | Research |
-| 13 | [[/03_Mechanics/CLI/bastions/meditation-chamber|Meditation Chamber]] | None | Empower |
-| 13 | [[/03_Mechanics/CLI/bastions/menagerie|Menagerie]] | None | Recruit |
-| 13 | [[/03_Mechanics/CLI/bastions/observatory|Observatory]] | Ability to use a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
-| 13 | [[/03_Mechanics/CLI/bastions/pub|Pub]] | None | Research |
-| 13 | [[/03_Mechanics/CLI/bastions/reliquary|Reliquary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Harvest |
-| 17 | [[/03_Mechanics/CLI/bastions/demiplane|Demiplane]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
-| 17 | [[/03_Mechanics/CLI/bastions/guildhall|Guildhall]] | Expertise in a skill | Recruit |
-| 17 | [[/03_Mechanics/CLI/bastions/sanctum|Sanctum]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
-| 17 | [[/03_Mechanics/CLI/bastions/war-room|War Room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
+| 5 | [[arcane-study|Arcane Study]] | Ability to use an [[arcane-focus-xphb|Arcane Focus]] or a tool as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[armory|Armory]] | None | Trade |
+| 5 | [[barrack|Barrack]] | None | Recruit |
+| 5 | [[garden|Garden]] | None | Harvest |
+| 5 | [[library|Library]] | None | Research |
+| 5 | [[sanctuary|Sanctuary]] | Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[smithy|Smithy]] | None | Craft |
+| 5 | [[storehouse|Storehouse]] | None | Trade |
+| 5 | [[workshop|Workshop]] | None | Craft |
+| 9 | [[gaming-hall|Gaming Hall]] | None | Trade |
+| 9 | [[greenhouse|Greenhouse]] | None | Harvest |
+| 9 | [[laboratory|Laboratory]] | None* | Craft |
+| 9 | [[sacristy|Sacristy]] | Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 9 | [[scriptorium|Scriptorium]] | None* | Craft |
+| 9 | [[stable|Stable]] | None | Trade |
+| 9 | [[teleportation-circle|Teleportation Circle]] | None | Recruit |
+| 9 | [[theater|Theater]] | None | Empower |
+| 9 | [[training-area|Training Area]] | None | Empower |
+| 9 | [[trophy-room|Trophy Room]] | None | Research |
+| 13 | [[archive|Archive]] | None | Research |
+| 13 | [[meditation-chamber|Meditation Chamber]] | None | Empower |
+| 13 | [[menagerie|Menagerie]] | None | Recruit |
+| 13 | [[observatory|Observatory]] | Ability to use a [[spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 13 | [[pub|Pub]] | None | Research |
+| 13 | [[reliquary|Reliquary]] | Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Harvest |
+| 17 | [[demiplane|Demiplane]] | Ability to use an [[arcane-focus-xphb|Arcane Focus]] or a tool as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[guildhall|Guildhall]] | Expertise in a skill | Recruit |
+| 17 | [[sanctum|Sanctum]] | Ability to use a [[holy-symbol-xphb|Holy Symbol]] or [[druidic-focus-xphb|Druidic Focus]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[war-room|War Room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
 ^special-facilities
 
 *Certain orders that can be issued to these facilities have additional prerequisites.

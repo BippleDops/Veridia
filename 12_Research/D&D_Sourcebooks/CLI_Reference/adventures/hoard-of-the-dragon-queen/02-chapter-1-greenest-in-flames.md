@@ -80,9 +80,9 @@ Escobert is a shield dwarf with knotted, tangled, bright red hair. As master of 
 
 ## Wandering Encounters
 
-The streets of Greenest are overrun by forces consisting of [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] accompanied by monstrous allies: [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] with [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drakes]] (see appendix D) and [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]]. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.
+The streets of Greenest are overrun by forces consisting of [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] accompanied by monstrous allies: [[kobold-warrior-xmm|kobolds]] with [[ambush-drake-hotdq|ambush drakes]] (see appendix D) and [[giant-lizard-xmm|giant lizards]]. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.
 
-If characters use cover and stealth to avoid encounters, have each character attempt a DC 10 Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check. For every two individual checks that fail, the characters have one encounter on the way to their destination. Roll a `d8` on the Chapter 1 Encounters table to determine each encounter. If characters use the stream bed for cover for most of the trip, these characters have advantage on their Dexterity checks.
+If characters use cover and stealth to avoid encounters, have each character attempt a DC 10 Dexterity ([[skills#Stealth|Stealth]]) check. For every two individual checks that fail, the characters have one encounter on the way to their destination. Roll a `d8` on the Chapter 1 Encounters table to determine each encounter. If characters use the stream bed for cover for most of the trip, these characters have advantage on their Dexterity checks.
 
 If characters don't use cover and stealth to avoid encounters, roll a `d8` for every 100 feet they move in town. If the roll is 4 or lower, they didn't attract attention with that move. If the roll is 5 or higher, they run into something; roll a `d8` again and check the Chapter 1 Encounters table to see what the characters meet.
 
@@ -92,8 +92,8 @@ If characters don't use cover and stealth to avoid encounters, roll a `d8` for e
 
 | dice: d8 | Encounter |
 |----------|-----------|
-| 1 | 6 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] |
-| 2 | 3 [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and 1 [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drake]] (see appendix D) |
+| 1 | 6 [[kobold-warrior-xmm|kobolds]] |
+| 2 | 3 [[kobold-warrior-xmm|kobolds]] and 1 [[ambush-drake-hotdq|ambush drake]] (see appendix D) |
 | 3 | 6 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] |
 | 4 | 4 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and 1 [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guard]] |
 | 5 | 2 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolyte]]* |
@@ -102,7 +102,7 @@ If characters don't use cover and stealth to avoid encounters, roll a `d8` for e
 | 8 | `d6` townsfolk hiding |
 ^encounter
 
-* Acolytes have [[/03_Mechanics/CLI/spells/command-xphb|command]] prepared instead of [[/03_Mechanics/CLI/spells/sanctuary-xphb|sanctuary]].
+* Acolytes have [[command-xphb|command]] prepared instead of [[sanctuary-xphb|sanctuary]].
 
 Most of the cultists, guards, and acolytes are human. You can include a few dwarves, half-elves, half-orcs, or halflings without altering any game statistics.
 
@@ -113,7 +113,7 @@ Most of the cultists, guards, and acolytes are human. You can include a few dwar
 
 ### Seek the Keep
 
-Characters have random encounters with raiders when they enter Greenest, but this one should be their first mission of the chapter. It begins when a terrified human family (father, mother, and three young children) dash across their path, hounded by seven [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]].
+Characters have random encounters with raiders when they enter Greenest, but this one should be their first mission of the chapter. It begins when a terrified human family (father, mother, and three young children) dash across their path, hounded by seven [[kobold-warrior-xmm|kobolds]].
 
 > [!readaloud] 
 > 
@@ -124,7 +124,7 @@ The woman is [[/03_Mechanics/CLI/bestiary/npc/linan-swift-hotdq|Linan Swift]], a
 
 Unless characters interfere, the kobolds assume the characters are cultists and ignore them. Assuming characters intervene and save the family, Linan explains that they must make their way to the keep (at area 1); it's the only safe place in Greenest. The raiders haven't set up an effective cordon around the keep, so it's still possible to move through the front gate—but not for long.
 
-To reach the keep, the characters must make it past three groups of raiders. A group consists of `d6` [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]]. If the group contains six kobolds, one is a [[/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm|winged kobold (urd)]].
+To reach the keep, the characters must make it past three groups of raiders. A group consists of `d6` [[kobold-warrior-xmm|kobolds]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]]. If the group contains six kobolds, one is a [[winged-kobold-xmm|winged kobold (urd)]].
 
 Characters can fight these enemies, sneak past them, retreat to avoid them entirely, or try something clever such as bluffing. If they fight, run the combat normally. When enemies must make a check to notice sneaking or bluffing, make a check with advantage for the group.
 
@@ -154,13 +154,13 @@ At some point, Escobert recommends the tunnel as a means of sneaking townsfolk i
 
 #### Locks
 
-Characters can clear the cellar door with a few minutes' work. The lock is stiff but opens with the key; without the key, the character can open the lock with a successful DC 10 Dexterity check and a set of [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]]. The disused tunnel is choked with webs but is otherwise clear. A few yards inside the stream end is a nest of two [[/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm|swarms of rats]]. The rats attack when disturbed, and the surviving rats flee when half their number die.
+Characters can clear the cellar door with a few minutes' work. The lock is stiff but opens with the key; without the key, the character can open the lock with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb|thieves' tools]]. The disused tunnel is choked with webs but is otherwise clear. A few yards inside the stream end is a nest of two [[swarm-of-rats-xmm|swarms of rats]]. The rats attack when disturbed, and the surviving rats flee when half their number die.
 
-Years of exposure and neglect have corroded the lock on the exit grate. Even with the key, a successful DC 10 Dexterity check is needed to open the lock. Without the key, the DC increases to 20. If the roll misses by 5 or more, the key or [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] break off in the lock so that unlocking it becomes impossible. Then only a successful DC 15 Strength check can force the grate open.
+Years of exposure and neglect have corroded the lock on the exit grate. Even with the key, a successful DC 10 Dexterity check is needed to open the lock. Without the key, the DC increases to 20. If the roll misses by 5 or more, the key or [[thieves-tools-xphb|thieves' tools]] break off in the lock so that unlocking it becomes impossible. Then only a successful DC 15 Strength check can force the grate open.
 
 #### Foes
 
-A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]], the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and six [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]]. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], ten [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]], and one [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drake]] (see appendix D) arrive to guard the tunnel.
+A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with [[thieves-tools-xphb|thieves' tools]], the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and six [[kobold-warrior-xmm|kobolds]]. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], ten [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq|ambush drake]] (see appendix D) arrive to guard the tunnel.
 
 #### Rewards
 
@@ -172,9 +172,9 @@ The keep has a sally port along the west wall for counterattacking foes who brin
 
 Enough defenders are available to deal with the immediate threat from raiders loose in the keep, since it's more a probe that got out of hand rather than a full-scale assault. Escobert is most concerned about resealing the sally port, and he seeks out the characters for that job.
 
-To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]], three [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]], and one [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drake]] (see appendix D), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of [[/03_Mechanics/CLI/spells/mending-xphb|mending]] (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.
+To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]], three [[kobold-warrior-xmm|kobolds]], and one [[ambush-drake-hotdq|ambush drake]] (see appendix D), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of [[mending-xphb|mending]] (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.
 
-Before the door can be repaired, a second group of raiders consisting of two [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], three [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], and three [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] attacks. These foes can come from outside the keep, or they might be a group of infiltrators trying to fight its way back outside. If characters barricade the door with barrels or other heavy objects while awaiting repairs, they might hold off attackers until the repairs are finished and avoid this fight entirely.
+Before the door can be repaired, a second group of raiders consisting of two [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], three [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], and three [[kobold-warrior-xmm|kobolds]] attacks. These foes can come from outside the keep, or they might be a group of infiltrators trying to fight its way back outside. If characters barricade the door with barrels or other heavy objects while awaiting repairs, they might hold off attackers until the repairs are finished and avoid this fight entirely.
 
 #### Rewards
 
@@ -182,7 +182,7 @@ Award standard XP for defeated foes.
 
 ### Dragon Attack
 
-The [[/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm|adult blue dragon]] Lennithon accompanied this raid but is not an enthusiastic participant. Its chief contribution has been its Frightful Presence, but that becomes less effective as the night wears on and defenders overcome their fear. Shortly before midnight, the dragon launches a final assault against the citadel. [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] orders the attack, knowing that the adventurers are in the keep at the time. Lennithon doesn't consider this to be its fight, and it isn't keen on tangling with adventurers for another's benefit.
+The [[adult-blue-dragon-xmm|adult blue dragon]] Lennithon accompanied this raid but is not an enthusiastic participant. Its chief contribution has been its Frightful Presence, but that becomes less effective as the night wears on and defenders overcome their fear. Shortly before midnight, the dragon launches a final assault against the citadel. [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] orders the attack, knowing that the adventurers are in the keep at the time. Lennithon doesn't consider this to be its fight, and it isn't keen on tangling with adventurers for another's benefit.
 
 During this attack, Lennithon flies over the keep and uses his breath weapon without moving closer than 25 feet from the parapet. The defenders on the walls have mastered their fear of the dragon's Frightful Presence from earlier attacks. There are twenty NPC defenders on the walls at the beginning of the mission, and more can arrive between attacks to take the place of those who fall. The dragon doesn't target the adventures at first, and every breath attack not directed at them kills `d4` NPC defenders and injures `d6` more. Adventurers who happen to get caught in the area make normal saving throws and take standard damage. The NPCs' attacks are ineffective against Lennithon. Bear in mind that the dragon's breath weapon will kill a 1st-level character outright, so be sure to demonstrate its destructive power to the players before turning the dragon against the party.
 
@@ -190,7 +190,7 @@ After each attack, Lennithon swoops away until his breath weapon recharges, then
 
 #### Rewards
 
-Characters earn 50 XP each for driving away Lennithon, but reduce that award to 25 XP if 10 or more defenders were killed during the attack. For their role in driving off the dragon, the characters receive four [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]] from the grateful Governor Nighthill.
+Characters earn 50 XP each for driving away Lennithon, but reduce that award to 25 XP if 10 or more defenders were killed during the attack. For their role in driving off the dragon, the characters receive four [[potion-of-healing-xdmg|potions of healing]] from the grateful Governor Nighthill.
 
 ### Prisoners
 
@@ -211,7 +211,7 @@ Prisoners brought back to the keep are interrogated by Governor Nighthill and a 
 
 - Captured kobolds are terrified; they say whatever they think the questioner wants to hear. They know that they're working for the Cult of the Dragon and for the "dragon lady" ([[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]]), and that they're after loot.  
 - Captured mercenaries or bandits talk freely; they have no special loyalty to the Cult of the Dragon. They reveal that they've been raiding communities around the Greenfields for loot, and they've heard rumors in the camp about dragon eggs.  
-- Cultists and initiates are the most tight-lipped. A successful DC 10 Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]) or DC 12 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check is needed to cause cultists to reveal that they are members of the Cult of the Dragon and that they are collecting loot "for the great hoard that will usher in the reign of the Queen of Dragons." They know that the cult has a clutch of dragon eggs under heavy guard in a cave at the camp.  
+- Cultists and initiates are the most tight-lipped. A successful DC 10 Charisma ([[skills#Intimidation|Intimidation]]) or DC 12 Charisma ([[skills#Persuasion|Persuasion]]) check is needed to cause cultists to reveal that they are members of the Cult of the Dragon and that they are collecting loot "for the great hoard that will usher in the reign of the Queen of Dragons." They know that the cult has a clutch of dragon eggs under heavy guard in a cave at the camp.  
 
 #### Rewards
 
@@ -228,13 +228,13 @@ From the parapet of the keep, someone spots a group of raiders trying to set fir
 
 The mill is about 500 feet from the keep. The distance is doubled if characters use the secret tunnel and follow the stream to stay hidden.
 
-Roll a `d6` on the Chapter 1 Encounters table to determine the strength of the raiders that are trying to set fire to the mill. Any kobolds in this force run away as soon as two or more raiders are killed. If characters observe the mill for a minute or more before attacking, allow them to attempt DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) or Charisma ([[/03_Mechanics/CLI/skills#Performance|Performance]]) checks. If successful, a character realizes that the raiders are making a demonstration of starting a fire, but it's for show. A few fires are burning around the building, but they could be extinguished easily.
+Roll a `d6` on the Chapter 1 Encounters table to determine the strength of the raiders that are trying to set fire to the mill. Any kobolds in this force run away as soon as two or more raiders are killed. If characters observe the mill for a minute or more before attacking, allow them to attempt DC 15 Wisdom ([[skills#Insight|Insight]]) or Charisma ([[skills#Performance|Performance]]) checks. If successful, a character realizes that the raiders are making a demonstration of starting a fire, but it's for show. A few fires are burning around the building, but they could be extinguished easily.
 
 This act of burning the mill is a ruse. Mondath has been informed that heroes are aiding the town, and she wants to lure them into an ambush. More raiders—one [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultist]] and one [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guard]] per character—are hiding inside the mill, waiting for the characters to show up.
 
 The mill is a simple rectangular barn, about 40 feet long and 20 feet wide, with an attached, exterior office. The long side of the building away from the stream has barn doors and a two-part door, and the two short walls have windows. All these openings are closed, but none are locked or barred. Inside, the main floor is dominated by a massive stone grinding wheel driven by a water wheel in the stream. The mill was operating late when the raid began and the millers fled without disengaging the wheel, so it still turns noisily. The upper half of the barn is a loft where milled flour is stored. The loft can be reached by wooden stairs along the east wall or by using the ropes and pulleys that hoist bags of flour up and down through large openings in the loft floor.
 
-The ambushers are waiting in the loft for heroes to enter the mill. When the heroes are inside, the guards launch a volley of spears from above, then leap down to fight hand-to-hand. The ambushers have a good chance to gain a surprise round for their spear volley; a successful DC 20 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check is needed to notice them before the attack. Characters who scan the loft for hidden enemies upon entering the mill have advantage on the check.
+The ambushers are waiting in the loft for heroes to enter the mill. When the heroes are inside, the guards launch a volley of spears from above, then leap down to fight hand-to-hand. The ambushers have a good chance to gain a surprise round for their spear volley; a successful DC 20 Wisdom ([[skills#Perception|Perception]]) check is needed to notice them before the attack. Characters who scan the loft for hidden enemies upon entering the mill have advantage on the check.
 
 Ten minutes after the second fight ends, a dozen bloody but basically healthy defenders arrive from the keep with orders to relieve the characters and defend the mill. They tell the characters to go back to the keep quietly while they remain behind at the mill.
 
@@ -252,17 +252,17 @@ The temple is a large building, made of fieldstone with a peaked slate roof, and
 
 The force outside the temple is split into three groups. One (A) is battering at the front doors, another (B) is circling the temple in a screeching mob, and the third (C) is heaping burning straw against a rear door. All these groups together would overwhelm 1st-level characters, but characters can devise a plan that gets them inside the temple by dealing with one group.
 
-Group A consists of one [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaw]] (see appendix D), two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], and six [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]]. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.
+Group A consists of one [[/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq|dragonclaw]] (see appendix D), two [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], and six [[kobold-warrior-xmm|kobolds]]. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.
 
-Group B consists of three [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], ten [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]], and two [[/03_Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq|ambush drakes]] (see appendix D) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).
+Group B consists of three [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]], ten [[kobold-warrior-xmm|kobolds]], and two [[ambush-drake-hotdq|ambush drakes]] (see appendix D) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).
 
-Group C consists of four [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and four [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]] clustered tightly around the temple's back door. Their meager fire produces little flame, instead creating prodigious clouds of thick smoke that engulf the back of the temple and blanket the surrounding 30 feet of ground. Everything in the smoke is lightly obscured, and objects or creatures that are seen through more than 15 feet of smoke are heavily obscured. Characters can sneak up on these raiders and gain a surprise round against them, as long as they avoid Group B in the process.
+Group C consists of four [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] and four [[kobold-warrior-xmm|kobolds]] clustered tightly around the temple's back door. Their meager fire produces little flame, instead creating prodigious clouds of thick smoke that engulf the back of the temple and blanket the surrounding 30 feet of ground. Everything in the smoke is lightly obscured, and objects or creatures that are seen through more than 15 feet of smoke are heavily obscured. Characters can sneak up on these raiders and gain a surprise round against them, as long as they avoid Group B in the process.
 
 #### Arranging a Rescue
 
 The heroes' best shot at rescuing the townsfolk is to overpower Group C and take control of the back door. In the temple, they can arrange a distraction to keep Groups A and B occupied at the front while the citizens of Greenest slip out the back and race for the keep or for the old tunnel—if characters have opened it already. That's only one possibility; clever players can come up with different solutions.
 
-The townsfolk in the temple are near panic, however, and they won't take orders from strangers unless someone makes a successful DC 15 Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check. Otherwise, characters need to locate the priest of Chauntea, Eadyan Falconmoon, a level-headed half-elf. He's easy to spot, being the only calm person they can find in the temple, and he is elated to see them. He looks to the characters for a plan.
+The townsfolk in the temple are near panic, however, and they won't take orders from strangers unless someone makes a successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check. Otherwise, characters need to locate the priest of Chauntea, Eadyan Falconmoon, a level-headed half-elf. He's easy to spot, being the only calm person they can find in the temple, and he is elated to see them. He looks to the characters for a plan.
 
 Time is pressing. While characters are inside the temple, remind them of the booming blows of the battering ram against the front doors and the frightened townsfolk. How much time you allow before the doors burst open depends on your group. What's important is that players feel pressed. To create a sense of pressure, give the front doors 30 hit points and let each thud of the battering ram deal `d6` bludgeoning damage. When the doors reach 20 hit points, they have cracks large enough to see through. At 10 hit points, the doors sag in their hinges. At 5, they could collapse at the next impact. How frequently you roll the die is up to you! One roll every 15–20 seconds is a good target for an average group. Be flexible, judge the players' level of tension, and don't let anyone relax.
 
@@ -283,7 +283,7 @@ Before all the raiders depart, their champion challenges the town's best warrior
 > "Defenders of Greenest! This has been a successful night, and I am feeling generous. Do you see these four pitiful, useless prisoners? We have no need for them, so I will trade them back to you. Send out your best warrior to fight me, and you can have these four in exchange."
 ^087
 
-The speaker is [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]] (see appendix D for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|kobolds]]. A character who makes a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) or Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check recognizes the creature as a half-dragon from descriptions.
+The speaker is [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]] (see appendix D for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen [[kobold-warrior-xmm|kobolds]]. A character who makes a successful DC 15 Intelligence ([[skills#Arcana|Arcana]]) or Intelligence ([[skills#Nature|Nature]]) check recognizes the creature as a half-dragon from descriptions.
 
 One of the defenders in the keep, Sergeant Markguth, recognizes the prisoners as his sister and her children, and he is ready to rush out into battle with the half-dragon. Escobert the Red and a few other defenders restrain him while Nighthill approaches the characters.
 
@@ -304,7 +304,7 @@ With the fight over, the last of the raiders retreat en masse from the town into
 
 #### Rewards
 
-If a character steps up to the challenge and fights Cyanwrath, each party member earns 50 XP. If not, characters receive nothing for this encounter. A team of healers with healer's kits and +4 bonuses to Wisdom ([[/03_Mechanics/CLI/skills#Medicine|Medicine]]) checks attend to the wounded or dying character, and Governor Nighthill gratefully offers two [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|potions of healing]] to the wounded character. If characters do something that costs the life of a hostage, Governor Nighthill is furious with them and offers no more help.
+If a character steps up to the challenge and fights Cyanwrath, each party member earns 50 XP. If not, characters receive nothing for this encounter. A team of healers with healer's kits and +4 bonuses to Wisdom ([[skills#Medicine|Medicine]]) checks attend to the wounded or dying character, and Governor Nighthill gratefully offers two [[potion-of-healing-xdmg|potions of healing]] to the wounded character. If characters do something that costs the life of a hostage, Governor Nighthill is furious with them and offers no more help.
 
 #### Developments
 

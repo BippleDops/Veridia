@@ -25,7 +25,6 @@ world: Both
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-palace-crystal-palace.svg)
 
@@ -232,12 +231,12 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[02_Worldbuilding/Groups/Academies/Royal Academy of Arcane Art]]
+- [[The Crown's Burden]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[Crystal Wardens]]
+- [[The Crystal Academy]]
+- [[Royal Academy of Arcane Art]]
 
 ## Player-Facing Summary
 

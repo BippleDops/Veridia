@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg]]
 
 
 ## Player-Facing Summary
@@ -40,6 +38,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Truth Ironwill]]
+- [[Captain Truth Ironwill]]
 
 <!-- enriched: true -->

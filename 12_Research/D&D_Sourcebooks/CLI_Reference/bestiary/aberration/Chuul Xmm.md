@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chuul-xmm-chuul-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/chuul-xmm|Chuul]]
+# [[chuul-xmm|Chuul]]
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Chuul
@@ -64,10 +64,10 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
@@ -75,22 +75,22 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - "desc": "The chuul can breathe air and water."
     "name": "Amphibious"
   - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
-      \ works like the [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]]\
+      \ works like the [[detect-magic-xphb|Detect Magic]]\
       \ spell but isn't itself magical."
     "name": "Sense Magic"
 "actions":
   - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14) from one of two pincers."
     "name": "Pincer"
-  - "desc": "Constitution Saving Throw: DC 13, one creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ by the chuul. Failure: The target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+  - "desc": "Constitution Saving Throw: DC 13, one creature [[conditions#Grappled|Grappled]]\
+      \ by the chuul. Failure: The target has the [[conditions#Poisoned|Poisoned]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]], the target has\
-      \ the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition."
+      \ While [[conditions#Poisoned|Poisoned]], the target has\
+      \ the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"

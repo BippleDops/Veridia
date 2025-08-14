@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-barnacle-the-barnacle.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-barnacle-the-barnacle.svg]]
 
 
 # Crust Deepmeld, the Barnacle
@@ -100,20 +94,20 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/The Biomancers]]** - His primary faction, fascinated by his symbiotic evolution
+- **[[The Biomancers]]** - His primary faction, fascinated by his symbiotic evolution
 - **Deep Colony Collective** - The eldritch entity that granted him his warlock powers
 - **Abyssal Research Station** - Scientists who study the deepest ocean phenomena
 - **The Depth Wardens** - Rangers who patrol the deepest waters
 
 **Enemies:**
 - **Purity Zealots** - Religious fanatics who view his transformation as an abomination
-- **[[02_Worldbuilding/People/Surface Syndicate]]** - His specimens interfere with their smuggling operations
+- **[[Surface Syndicate]]** - His specimens interfere with their smuggling operations
 - **Rival Collectors** - Other beings who compete for the same rare organisms
 - **Anti-Symbiosis League** - Those who fear the loss of individual identity
 
 **Complicated:**
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic rivalry over bio-magical research methods
-- **[[02_Worldbuilding/People/Memory Harvester Kythara]]** - They trade specimens but disagree on ethics
+- **[[Professor Aldric Crystalweaver]]** - Academic rivalry over bio-magical research methods
+- **[[Memory Harvester Kythara]]** - They trade specimens but disagree on ethics
 - **His Original Family** - They barely recognize him and are disturbed by his transformation
 
 ## Quest Hooks
@@ -166,8 +160,8 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 ## Connections
 
 - [[The_Crimson_Pearl|The Crimson Pearl]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Pearl_Harbor_City]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -189,9 +183,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Barnacle]]
+- [[The Barnacle]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/People/Surface Syndicate]]
+- [[Memory Harvester Kythara]]
+- [[Professor Aldric Crystalweaver]]
+- [[Surface Syndicate]]

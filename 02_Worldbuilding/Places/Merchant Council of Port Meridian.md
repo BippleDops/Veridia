@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Merchant Council of Port Meridian]]
+- [[12_Research/D&D_References/Merchant Council of Port Meridian]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[12_Research/D&D_References/Port Meridian - Merchant Quarter]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

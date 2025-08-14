@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Garden]]
+- [[Crystal Garden]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Garden]]
+- [[Crystal Garden]]
 
 ## Player-Facing Summary
 

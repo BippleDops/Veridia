@@ -26,11 +26,11 @@ world: Both
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [[/03_Mechanics/CLI/items/crystal-xphb|Crystal]] | 1 lb. | 10 GP |
-| [[/03_Mechanics/CLI/items/orb-xphb|Orb]] | 3 lb. | 20 GP |
-| [[/03_Mechanics/CLI/items/rod-xphb|Rod]] | 2 lb. | 10 GP |
-| [[/03_Mechanics/CLI/items/staff-xphb|Staff]] (also a [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
-| [[/03_Mechanics/CLI/items/wand-xphb|Wand]] | 1 lb. | 10 GP |
+| [[crystal-xphb|Crystal]] | 1 lb. | 10 GP |
+| [[orb-xphb|Orb]] | 3 lb. | 20 GP |
+| [[rod-xphb|Rod]] | 2 lb. | 10 GP |
+| [[staff-xphb|Staff]] (also a [[quarterstaff-xphb|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[wand-xphb|Wand]] | 1 lb. | 10 GP |
 ^arcane-focuses
 
 ## Player-Facing Summary

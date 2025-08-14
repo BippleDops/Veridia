@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warlock-of-imix-mpmm-firenewt-warlock-of-imix-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/firenewt-warlock-of-imix-mpmm|Firenewt Warlock of Imix]]
+# [[firenewt-warlock-of-imix-mpmm|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -63,7 +63,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "traits":
   - "desc": "The firenewt can breathe air and water."
     "name": "Amphibious"
-  - "desc": "Magical darkness doesn't impede the firenewt's [[/03_Mechanics/CLI/senses#Darkvision|darkvision]]."
+  - "desc": "Magical darkness doesn't impede the firenewt's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains\
       \ 5 temporary hit points."
@@ -78,9 +78,9 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[/03_Mechanics/CLI/spells/guidance-xphb|guidance]],\
-      \ [[/03_Mechanics/CLI/spells/light-xphb|light]], [[/03_Mechanics/CLI/spells/mage-armor-xphb|mage armor]],\
-      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]]"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [[guidance-xphb|guidance]],\
+      \ [[light-xphb|light]], [[mage-armor-xphb|mage armor]],\
+      \ [[mage-hand-xphb|mage hand]], [[prestidigitation-xphb|prestidigitation]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

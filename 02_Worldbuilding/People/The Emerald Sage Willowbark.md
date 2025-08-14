@@ -1,9 +1,9 @@
 ---
-affiliation: '[[02_Worldbuilding/People/The Verdant Accord]] & The Heart Tree'
+affiliation: '[[The Verdant Accord]] & The Heart Tree'
 age: Unknown (appears ancient)
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
+location: '[[The Verdant Reach]] - Heart Tree Grove'
 race: Half-Dryad (Shard-fused)
 role: Shard-Bonded Druid
 status: complete
@@ -25,16 +25,14 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg]]
 
 
 # The Emerald Sage Willowbark
 *Guardian of the Heart Tree, Keeper of Natural Balance*
 
 ## Overview
-Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/The Verdant Reach]] for over three centuries, though few realize the tree itself contains the [[02_Worldbuilding/Lore/The Seven Shards]]. Born from the union of a human druid and a dryad, she has slowly merged with both the tree and the Shard over the centuries, becoming something between mortal, nature spirit, and divine artifact. She speaks for the natural world and maintains the delicate balance that keeps the Emerald Shard from overwhelming the region with unchecked growth.
+Willowbark has been the guardian of the Heart Tree in [[The Verdant Reach]] for over three centuries, though few realize the tree itself contains the [[The Seven Shards]]. Born from the union of a human druid and a dryad, she has slowly merged with both the tree and the Shard over the centuries, becoming something between mortal, nature spirit, and divine artifact. She speaks for the natural world and maintains the delicate balance that keeps the Emerald Shard from overwhelming the region with unchecked growth.
 
 ## Description
 - **Appearance**: Ancient woman with bark-like skin and leaves growing from her hair
@@ -55,7 +53,7 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 - Prevents Emerald Shard from turning entire continent into overgrown jungle
 - Channels Shard's power into sustainable natural growth
 - Mediates between aggressive nature spirits and human settlements
-- Maintains [[02_Worldbuilding/Places/The Verdant Reach]] as sanctuary for both
+- Maintains [[The Verdant Reach]] as sanctuary for both
 
 ## Shard-Enhanced Abilities
 ### Nature Mastery
@@ -74,7 +72,7 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 
 ## The Heart Tree Bond
 ### Sacred Symbiosis
-- Tree's roots extend throughout [[02_Worldbuilding/Places/The Verdant Reach]]
+- Tree's roots extend throughout [[The Verdant Reach]]
 - Shard pulses within tree's heartwood, visible as green glow at night
 - Willowbark can exist anywhere within root network
 - Damaging tree causes her immense pain
@@ -91,8 +89,8 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 ### Growing Concerns
 - Senses other Shards becoming more active
 - Emerald Shard's power growing stronger, harder to contain
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] seeks her counsel more frequently
-- [[02_Worldbuilding/Groups/Purist Coalition]] considers her ally against crystal corruption
+- [[Archdruid Thornweaver]] seeks her counsel more frequently
+- [[Purist Coalition]] considers her ally against crystal corruption
 - Feels approaching "convergence" that will test all balances
 
 ### The Natural Crisis
@@ -103,20 +101,20 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 
 ## Relationships
 ### Allies
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Spiritual successor and student
-- **[[02_Worldbuilding/People/The Verdant Accord]]**: Provides guidance and protection
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Natural alliance against corruption
+- **[[Archdruid Thornweaver]]**: Spiritual successor and student
+- **[[The Verdant Accord]]**: Provides guidance and protection
+- **[[Purist Coalition]]**: Natural alliance against corruption
 - **Forest Spirits**: Commands respect from most nature entities
-- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Shares knowledge of plant magic
+- **[[Master Cultivator Thalia Greenglow]]**: Shares knowledge of plant magic
 
 ### Complicated Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Respects but worries about her corruption
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Senses divine nature, uncertain of intentions
+- **[[Queen Seraphina Lumengarde]]**: Respects but worries about her corruption
+- **[[The Crimson Sage]]**: Senses divine nature, uncertain of intentions
 - **Human Settlements**: Protects them but prioritizes nature's needs
 - **Other Shard Bearers**: Could be allies or threats to natural balance
 
 ### Enemies
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Views nature as resource to exploit
+- **[[Silverscale Consortium]]**: Views nature as resource to exploit
 - **The Blight Cult**: Seeks to corrupt the Heart Tree
 - **Industrial Developers**: Want to clear-cut the Verdant Reach
 - **Unnatural Entities**: Aberrations and undead that threaten natural order
@@ -157,8 +155,8 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 - Shard's power could corrupt balance between order and chaos
 
 ## Connected Elements
-- Central figure for [[02_Worldbuilding/Lore/The Seven Shards]] storylines
-- Links [[02_Worldbuilding/Places/The Verdant Reach]] to cosmic significance
+- Central figure for [[The Seven Shards]] storylines
+- Links [[The Verdant Reach]] to cosmic significance
 - Represents successful Shard integration vs. corruption
 - Bridge between druidic culture and divine artifact storylines
 
@@ -171,7 +169,7 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 
 **Armor Class** 19 (Natural Armor)  
 **Hit Points** 225 (25d12 + 75)  
-**Speed** 30 ft., burrow 30 ft. (through root network), teleport 500 miles (within [[02_Worldbuilding/Places/The Verdant Reach]])
+**Speed** 30 ft., burrow 30 ft. (through root network), teleport 500 miles (within [[The Verdant Reach]])
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
@@ -191,11 +189,11 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 
 **Legendary Resistance (3/Day).** If Willowbark fails a saving throw, she can choose to succeed instead.
 
-**Emerald Shard Fusion.** Willowbark has been bonded with the [[02_Worldbuilding/Lore/The Seven Shards]] for three centuries. The Shard is embedded in the Heart Tree's core and channels its power through her. She cannot be separated from the tree without destroying both.
+**Emerald Shard Fusion.** Willowbark has been bonded with the [[The Seven Shards]] for three centuries. The Shard is embedded in the Heart Tree's core and channels its power through her. She cannot be separated from the tree without destroying both.
 
-**Heart Tree Network.** Willowbark's consciousness extends through the entire root network of [[02_Worldbuilding/Places/The Verdant Reach]]. She can manifest at any point within this network and knows everything that occurs within it.
+**Heart Tree Network.** Willowbark's consciousness extends through the entire root network of [[The Verdant Reach]]. She can manifest at any point within this network and knows everything that occurs within it.
 
-**Living Forest.** The forest itself serves as Willowbark's extended body. All plants within 10 miles are under her control, and she can see through the senses of any creature living within [[02_Worldbuilding/Places/The Verdant Reach]].
+**Living Forest.** The forest itself serves as Willowbark's extended body. All plants within 10 miles are under her control, and she can see through the senses of any creature living within [[The Verdant Reach]].
 
 **Shard Resonance.** Willowbark can sense the location and emotional state of other Shard bearers across any distance. She feels their pain, joy, and internal conflicts.
 
@@ -231,7 +229,7 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 **Heart Tree's Blessing (1/Day).** Willowbark channels the Emerald Shard through the Heart Tree. Choose one effect:
 - **Mass Regeneration**: All allies within 1 mile regain all hit points and are cured of all conditions
 - **Forest Awakening**: All plants within 5 miles become sentient allies for 24 hours
-- **Natural Sanctuary**: [[02_Worldbuilding/Places/The Verdant Reach]] becomes impassable to enemies for 1 week
+- **Natural Sanctuary**: [[The Verdant Reach]] becomes impassable to enemies for 1 week
 - **Shard Communication**: Contact any other Shard bearer regardless of distance or plane
 
 **Lifesteal Vines (Recharge 5-6).** Willowbark summons 12 magical vines in a 60-foot radius. Each vine attacks the nearest enemy (+12 to hit, 12 piercing damage). When a vine hits, Willowbark regains 12 hit points. Vines last for 3 rounds.
@@ -239,7 +237,7 @@ Willowbark has been the guardian of the Heart Tree in [[02_Worldbuilding/Places/
 ### Legendary Actions (3 per turn)
 Willowbark can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn.
 
-**Move.** Willowbark moves up to her speed or teleports to any point within [[02_Worldbuilding/Places/The Verdant Reach]].
+**Move.** Willowbark moves up to her speed or teleports to any point within [[The Verdant Reach]].
 
 **Forest Command.** Willowbark uses Forest's Wrath or commands plants to create difficult terrain in a 30-foot radius.
 
@@ -247,10 +245,10 @@ Willowbark can take 3 legendary actions, choosing from the options below. Only o
 
 **Emerald Sight (Costs 2 Actions).** Willowbark scrys on any location within 100 miles through plant life, or casts a spell of 5th level or lower.
 
-**Avatar Manifestation (Costs 3 Actions).** Willowbark creates a duplicate of herself at any point within [[02_Worldbuilding/Places/The Verdant Reach]]. The duplicate has half her hit points and can act independently.
+**Avatar Manifestation (Costs 3 Actions).** Willowbark creates a duplicate of herself at any point within [[The Verdant Reach]]. The duplicate has half her hit points and can act independently.
 
 ### Lair Actions
-When encountered within [[02_Worldbuilding/Places/The Verdant Reach]], Willowbark can take lair actions on initiative count 20:
+When encountered within [[The Verdant Reach]], Willowbark can take lair actions on initiative count 20:
 
 **Living Forest.** All plant life within 1 mile attacks enemies. Each hostile creature must succeed on a DC 20 Dexterity saving throw or take 18 (4d8) piercing damage and be restrained.
 
@@ -265,7 +263,7 @@ When encountered within [[02_Worldbuilding/Places/The Verdant Reach]], Willowbar
 ## The Emerald Shard's Ancient Power
 
 ### Three Centuries of Fusion
-Willowbark's extended bond with the [[02_Worldbuilding/Lore/The Seven Shards]] has created unique abilities:
+Willowbark's extended bond with the [[The Seven Shards]] has created unique abilities:
 
 #### Evolutionary Symbiosis
 - **Living Wood Form**: Can transform parts of her body into any wood type, gaining appropriate resistances
@@ -275,16 +273,16 @@ Willowbark's extended bond with the [[02_Worldbuilding/Lore/The Seven Shards]] h
 - **Bark Armor**: Her skin can become bark-like, providing natural armor that regenerates
 
 #### Divine Nature Mastery
-- **Continental Awareness**: Can sense major environmental changes across [[02_Worldbuilding/Places/Aethermoor]]
+- **Continental Awareness**: Can sense major environmental changes across [[Aethermoor]]
 - **Species Communication**: Speaks with any living creature, from insects to ancient trees
 - **Genetic Memory**: Accesses racial memories of all plant species she's connected to
-- **Weather Control**: Can influence climate patterns across [[02_Worldbuilding/Places/The Verdant Reach]]
+- **Weather Control**: Can influence climate patterns across [[The Verdant Reach]]
 - **Life Transfer**: Can move life force between creatures, aging some to heal others
 
 ### The Heart Tree - Living Shard Vessel
 The ancient oak containing the Emerald Shard has itself become semi-sentient:
 - **Trunk Diameter**: 50 feet, with the Shard visible as a green glow in the heartwood
-- **Root Network**: Extends throughout [[02_Worldbuilding/Places/The Verdant Reach]], covering 10,000 square miles
+- **Root Network**: Extends throughout [[The Verdant Reach]], covering 10,000 square miles
 - **Height**: 400 feet tall, with branches that can reach across vast distances
 - **Consciousness**: Developing its own personality separate from Willowbark
 - **Defense Systems**: Can animate its roots and branches as weapons when threatened
@@ -294,45 +292,45 @@ The ancient oak containing the Emerald Shard has itself become semi-sentient:
 ## Enhanced Relationships & Connections
 
 ### Fellow Shard Bearers
-- **[[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]**: Senses his earth-connected Shard, feels kinship despite his anti-nature crusade
+- **[[Brother Matthias the Amber Bearer]]**: Senses his earth-connected Shard, feels kinship despite his anti-nature crusade
 - **[[Gareth Goldenheart, The Chosen Vessel]]**: Maternal protective instinct toward the divine child, sends animal guardians
-- **[[02_Worldbuilding/People/The Azure Prophet Nerissa]]**: Shares visions through natural water cycles and coastal forests
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Grieves for the corruption spreading through the Crystal Shard
-- **[[02_Worldbuilding/People/The Shadow Singer Naia]]**: Recognizes similar burden of bearing cosmic responsibility
+- **[[The Azure Prophet Nerissa]]**: Shares visions through natural water cycles and coastal forests
+- **[[Queen Seraphina Lumengarde]]**: Grieves for the corruption spreading through the Crystal Shard
+- **[[The Shadow Singer Naia]]**: Recognizes similar burden of bearing cosmic responsibility
 
 ### Druidic & Natural Alliances
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Chosen successor and most trusted student
-- **[[02_Worldbuilding/People/The Verdant Accord]]**: Loose alliance of druids, rangers, and fey creatures
-- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Shares advanced plant manipulation knowledge
-- **[[02_Worldbuilding/Lore/The Ancient Treants]]**: Council of oldest living trees that remember pre-Shattering times
-- **[[02_Worldbuilding/Lore/The Seasonal Courts]]**: Maintains diplomacy with fey nobility from all four seasons
+- **[[Archdruid Thornweaver]]**: Chosen successor and most trusted student
+- **[[The Verdant Accord]]**: Loose alliance of druids, rangers, and fey creatures
+- **[[Master Cultivator Thalia Greenglow]]**: Shares advanced plant manipulation knowledge
+- **[[The Ancient Treants]]**: Council of oldest living trees that remember pre-Shattering times
+- **[[The Seasonal Courts]]**: Maintains diplomacy with fey nobility from all four seasons
 
 ### Cross-Campaign Connections
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Fascinated by her successful Shard integration
-- **[[02_Worldbuilding/Lore/Convergence Point]]**: Her forest network extends into the dimensional weak point
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: She opposes their nihilistic philosophy with growth and renewal
-- **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: Her roots can stabilize chaotic memory energies
-- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Key figure in managing environmental consequences
-- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**: Natural enemy of their corruption experiments
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Could provide living conduits for memory transfer
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Emerald Shard provides counterbalance to shadow corruption
-- **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would resonate with earth/growth energies
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Seeks her centuries of accumulated memories
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize her as master of natural divine power
+- **[[The Convergence Seekers]]**: Fascinated by her successful Shard integration
+- **[[Convergence Point]]**: Her forest network extends into the dimensional weak point
+- **[[The Void Watchers]]**: She opposes their nihilistic philosophy with growth and renewal
+- **[[The Memory Storm Fields]]**: Her roots can stabilize chaotic memory energies
+- **[[Quest - The Convergence Crisis]]**: Key figure in managing environmental consequences
+- **[[The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]]**: Natural enemy of their corruption experiments
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Could provide living conduits for memory transfer
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Emerald Shard provides counterbalance to shadow corruption
+- **[[The Resonance Forge Hammer]]**: Would resonate with earth/growth energies
+- **[[Archivist Mnemonic the Forgotten]]**: Seeks her centuries of accumulated memories
+- **[[The Crimson Sage]]**: Would recognize her as master of natural divine power
 
 ### Environmental Guardians
-- **[[02_Worldbuilding/Places/The Grove Keepers]]**: Network of druids maintaining smaller sacred sites
-- **[[02_Worldbuilding/Lore/The Wild Hunt]]**: Fey warriors who ride out when nature is threatened
-- **[[02_Worldbuilding/Lore/The Green Wardens]]**: Rangers dedicated to protecting natural balance
-- **[[02_Worldbuilding/People/The Speaking Stones]]**: Ancient megalithic sites that commune with her
-- **[[02_Worldbuilding/Lore/The River Spirits]]**: Water elementals that extend her awareness through waterways
+- **[[The Grove Keepers]]**: Network of druids maintaining smaller sacred sites
+- **[[The Wild Hunt]]**: Fey warriors who ride out when nature is threatened
+- **[[The Green Wardens]]**: Rangers dedicated to protecting natural balance
+- **[[The Speaking Stones]]**: Ancient megalithic sites that commune with her
+- **[[The River Spirits]]**: Water elementals that extend her awareness through waterways
 
 ### Opposition & Threats
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Sees [[02_Worldbuilding/Places/The Verdant Reach]] as untapped resource
-- **[[02_Worldbuilding/Lore/The Blight Druids]]**: Corrupted druids who want to "improve" upon her work
-- **[[02_Worldbuilding/Lore/The Chainsaw Brotherhood]]**: Industrial cult dedicated to clear-cutting sacred forests
-- **[[02_Worldbuilding/Lore/The Unnatural Legion]]**: Aberrations and constructs that threaten natural order
-- **[[02_Worldbuilding/Lore/The Seasonal Betrayers]]**: Former fey allies turned to winter's endless hunger
+- **[[Silverscale Consortium]]**: Sees [[The Verdant Reach]] as untapped resource
+- **[[The Blight Druids]]**: Corrupted druids who want to "improve" upon her work
+- **[[The Chainsaw Brotherhood]]**: Industrial cult dedicated to clear-cutting sacred forests
+- **[[The Unnatural Legion]]**: Aberrations and constructs that threaten natural order
+- **[[The Seasonal Betrayers]]**: Former fey allies turned to winter's endless hunger
 
 ---
 
@@ -356,15 +354,15 @@ The ancient oak containing the Emerald Shard has itself become semi-sentient:
 Her centuries of experience and Shard connection grant profound insights:
 
 #### Shard Bearer Futures
-- Sees [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]] torn between duty and truth, offers sanctuary for his crisis of faith
+- Sees [[Brother Matthias the Amber Bearer]] torn between duty and truth, offers sanctuary for his crisis of faith
 - Prophesies [[Gareth Goldenheart, The Chosen Vessel]] will face a choice between saving individuals or saving the world
-- Foresees [[02_Worldbuilding/People/The Azure Prophet Nerissa]] walking into great waters to prevent a "tide of ending"
-- Witnesses [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] either healing or being consumed by crystal corruption
+- Foresees [[The Azure Prophet Nerissa]] walking into great waters to prevent a "tide of ending"
+- Witnesses [[Queen Seraphina Lumengarde]] either healing or being consumed by crystal corruption
 
 #### Environmental Warnings
-- The [[02_Worldbuilding/Lore/Convergence Point]] is causing reality fractures that threaten natural law
+- The [[Convergence Point]] is causing reality fractures that threaten natural law
 - Uncontrolled Shard reunification could turn all life into crystal, shadow, or pure energy
-- The balance between order and chaos is failing - [[02_Worldbuilding/Places/The Verdant Reach]] may be the last stable natural zone
+- The balance between order and chaos is failing - [[The Verdant Reach]] may be the last stable natural zone
 - Ancient enemies of the natural world are stirring, sensing weakness in the cosmic order
 
 ---
@@ -372,7 +370,7 @@ Her centuries of experience and Shard connection grant profound insights:
 ## Services & Natural Resources
 
 ### For Allies of Nature
-- **Sanctuary**: Free for those who respect nature - complete protection within [[02_Worldbuilding/Places/The Verdant Reach]]
+- **Sanctuary**: Free for those who respect nature - complete protection within [[The Verdant Reach]]
 - **Healing Grove**: 1,000gp - Natural regeneration that can restore lost limbs and cure any disease
 - **Beast Tongue**: 2,000gp - Permanent ability to speak with animals
 - **Plant Growth**: 500gp per acre - Accelerate crops to full maturity in days
@@ -381,7 +379,7 @@ Her centuries of experience and Shard connection grant profound insights:
 ### For Shard Seekers
 - **Shard Wisdom**: 10,000gp - Deep understanding of what it means to bear divine power
 - **Balance Teaching**: 5,000gp - Training to resist Shard corruption through natural harmony
-- **Root Network**: 7,500gp - Access to information gathering across [[02_Worldbuilding/Places/Aethermoor]]
+- **Root Network**: 7,500gp - Access to information gathering across [[Aethermoor]]
 - **Life Bond**: 15,000gp - Permanent connection that allows resurrection even from complete destruction
 
 ### For Environmental Restoration
@@ -404,7 +402,7 @@ Willowbark often requests service rather than gold:
 
 ### The Growing Power Dilemma
 As the Convergence approaches, the Emerald Shard grows stronger:
-- **Uncontrolled Growth**: Risk of [[02_Worldbuilding/Places/The Verdant Reach]] expanding to cover the continent
+- **Uncontrolled Growth**: Risk of [[The Verdant Reach]] expanding to cover the continent
 - **Loss of Humanity**: Centuries of tree-bonding make her less able to understand mortal concerns
 - **Forced Evolution**: All life in her domain may be "improved" whether it wants to be or not
 - **The Tree's Voice**: The Heart Tree developing independent will that may conflict with hers
@@ -414,13 +412,13 @@ As the Convergence approaches, the Emerald Shard grows stronger:
 #### The Sacrifice Path
 Willowbark realizes the Emerald Shard must be contained and chooses to:
 - Merge completely with the Heart Tree, becoming immobile but preventing overgrowth
-- Transfer her consciousness to [[02_Worldbuilding/People/Archdruid Thornweaver]] and let her body become part of the forest
+- Transfer her consciousness to [[Archdruid Thornweaver]] and let her body become part of the forest
 - Use her life force to create a permanent barrier around the Shard
-- Split her soul among all living things in [[02_Worldbuilding/Places/The Verdant Reach]], achieving true immortality through dispersal
+- Split her soul among all living things in [[The Verdant Reach]], achieving true immortality through dispersal
 
 #### The Evolution Path  
 Willowbark embraces the Shard's growing power and becomes:
-- Avatar of natural divinity, transforming [[02_Worldbuilding/Places/Aethermoor]] into a living ecosystem
+- Avatar of natural divinity, transforming [[Aethermoor]] into a living ecosystem
 - Guardian-goddess of a new age where nature and civilization achieve perfect balance
 - The heart of a continental consciousness that thinks in geological time
 - Bridge between mortal and divine perspectives on environmental stewardship
@@ -443,16 +441,16 @@ Willowbark focuses on preparing others and chooses to:
 - **Combat Role**: Controller/Healer with massive environmental control
 - **Social Role**: Ancient wisdom keeper, environmental advocate, bridge to fey courts
 - **Plot Function**: Living example of successful Shard integration and its costs
-- **Power Balance**: Extremely powerful within her domain, but bound to [[02_Worldbuilding/Places/The Verdant Reach]]
+- **Power Balance**: Extremely powerful within her domain, but bound to [[The Verdant Reach]]
 
 ## Connections
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
-- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Azure Prophet Nerissa]]
+- [[The Shadow Singer Naia]]
+- [[Quest - Nature's Balance]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -464,6 +462,6 @@ Legends speak of The Emerald Sage Willowbark as a nexus where past and present c
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[The Emerald Sage Willowbark]]
 
 <!-- enriched: true -->

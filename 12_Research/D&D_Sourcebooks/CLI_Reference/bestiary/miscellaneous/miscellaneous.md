@@ -20,9 +20,9 @@ status: active
 
 # Index of Miscellaneous
 
-- [[./empyrean-iota-xmm|Empyrean Iota]]
-- [[./empyrean-xmm|Empyrean]]
-- [[./otherworldly-steed-xphb|Otherworldly Steed]]
+- [[empyrean-iota-xmm|Empyrean Iota]]
+- [[empyrean-xmm|Empyrean]]
+- [[otherworldly-steed-xphb|Otherworldly Steed]]
 
 ## Player-Facing Summary
 

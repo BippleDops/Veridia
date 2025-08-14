@@ -32,7 +32,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogrillon-ogre-xmm-ogrillon-ogre-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\giant/ogre-xmm|Ogre]]
+# [[ogre-xmm|Ogre]]
 *Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.

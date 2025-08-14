@@ -21,7 +21,7 @@ world: Both
 
 
 # Path of the Wild Heart
-*[[./barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  
 
 > [!tldr] Class and Feature Progression
@@ -66,7 +66,7 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Animal Speaker (Level 3)
 
-You can cast the [[/03_Mechanics/CLI/spells/beast-sense-xphb|Beast Sense]] and [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|Speak with Animals]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [[beast-sense-xphb|Beast Sense]] and [[speak-with-animals-xphb|Speak with Animals]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ### Rage of the Wilds (Level 3)
 
@@ -74,35 +74,35 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 #### Bear
 
-While your Rage is active, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
+While your Rage is active, you have [[resistance-xphb|Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 #### Eagle
 
-When you activate your Rage, you can take the [[/03_Mechanics/CLI/actions#Disengage|Disengage]] and [[/03_Mechanics/CLI/actions#Dash|Dash]] actions as part of that [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. While your Rage is active, you can take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to take both of those actions.
+When you activate your Rage, you can take the [[actions#Disengage|Disengage]] and [[actions#Dash|Dash]] actions as part of that [[bonus-action-xphb|Bonus Action]]. While your Rage is active, you can take a [[bonus-action-xphb|Bonus Action]] to take both of those actions.
 
 #### Wolf
 
-While your Rage is active, your allies have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack rolls against any enemy of yours within 5 feet of you.
+While your Rage is active, your allies have [[advantage-xphb|Advantage]] on attack rolls against any enemy of yours within 5 feet of you.
 
 ### Aspect of the Wilds (Level 6)
 
-You gain one of the following options of your choice. Whenever you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can change your choice.
+You gain one of the following options of your choice. Whenever you finish a [[long-rest-xphb|Long Rest]], you can change your choice.
 
 #### Owl
 
-You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]], its range increases by 60 feet.
+You have [[senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[senses#Darkvision|Darkvision]], its range increases by 60 feet.
 
 #### Panther
 
-You have a [[/03_Mechanics/CLI/variant-rules/climb-speed-xphb|Climb Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].
+You have a [[climb-speed-xphb|Climb Speed]] equal to your [[speed-xphb|Speed]].
 
 #### Salmon
 
-You have a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].
+You have a [[swim-speed-xphb|Swim Speed]] equal to your [[speed-xphb|Speed]].
 
 ### Nature Speaker (Level 10)
 
-You can cast the [[/03_Mechanics/CLI/spells/commune-with-nature-xphb|Commune with Nature]] spell but only as a [[/03_Mechanics/CLI/variant-rules/ritual-xphb|Ritual]]. Wisdom is your spellcasting ability for it.
+You can cast the [[commune-with-nature-xphb|Commune with Nature]] spell but only as a [[ritual-xphb|Ritual]]. Wisdom is your spellcasting ability for it.
 
 ### Power of the Wilds (Level 14)
 
@@ -110,15 +110,15 @@ Whenever you activate your Rage, you gain one of the following options of your c
 
 #### Falcon
 
-While your Rage is active, you have a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] if you aren't wearing any armor.
+While your Rage is active, you have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]] if you aren't wearing any armor.
 
 #### Lion
 
-While your Rage is active, any of your enemies within 5 feet of you have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
+While your Rage is active, any of your enemies within 5 feet of you have [[disadvantage-xphb|Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
 
 #### Ram
 
-While your Rage is active, you can cause a Large or smaller creature to have the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition when you hit it with a melee attack.
+While your Rage is active, you can cause a Large or smaller creature to have the [[conditions#Prone|Prone]] condition when you hit it with a melee attack.
 
 ## Player-Facing Summary
 

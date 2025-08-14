@@ -21,10 +21,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg]]
 
 
 # Depth Crystal Harvest
@@ -106,7 +103,7 @@ Use this location for high-stakes rescue missions and industrial espionage. The 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[The Cerulean Trench]]
 
 
 ## History
@@ -142,6 +139,6 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Depth Crystal Harvest]]
+- [[Depth Crystal Harvest]]
 
 <!-- enriched: true -->

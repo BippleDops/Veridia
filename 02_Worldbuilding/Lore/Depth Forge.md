@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[12_Research/D&D_References/Crystallium]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[12_Research/D&D_References/Crystallium]]
 
 ## Player-Facing Summary
 

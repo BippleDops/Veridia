@@ -28,15 +28,15 @@ world: Both
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[/03_Mechanics/CLI/items/ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
-| 09–28 | [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]] |
-| 29–36 | [[/03_Mechanics/CLI/items/pot-of-awakening-xdmg|Pot of Awakening]] |
-| 37–44 | [[/03_Mechanics/CLI/items/ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
-| 45–52 | [[/03_Mechanics/CLI/items/shield-of-expression-xdmg|Shield of Expression]] |
-| 53–60 | [[/03_Mechanics/CLI/items/smoldering-armor-xdmg|Smoldering Armor]] |
-| 61–80 | [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]] ([[/03_Mechanics/CLI/items/spell-scroll-cantrip-xdmg|cantrip]] or [[/03_Mechanics/CLI/items/spell-scroll-level-1-xdmg|level 1]] spell) |
-| 81–90 | [[/03_Mechanics/CLI/items/staff-of-adornment-xdmg|Staff of Adornment]] |
-| 91–00 | [[/03_Mechanics/CLI/items/staff-of-flowers-xdmg|Staff of Flowers]] |
+| 01–08 | [[ear-horn-of-hearing-xdmg|Ear Horn of Hearing]] |
+| 09–28 | [[potion-of-healing-xdmg|Potion of Healing]] |
+| 29–36 | [[pot-of-awakening-xdmg|Pot of Awakening]] |
+| 37–44 | [[ruby-of-the-war-mage-xdmg|Ruby of the War Mage]] |
+| 45–52 | [[shield-of-expression-xdmg|Shield of Expression]] |
+| 53–60 | [[smoldering-armor-xdmg|Smoldering Armor]] |
+| 61–80 | [[spell-scroll-xdmg|Spell Scroll]] ([[spell-scroll-cantrip-xdmg|cantrip]] or [[spell-scroll-level-1-xdmg|level 1]] spell) |
+| 81–90 | [[staff-of-adornment-xdmg|Staff of Adornment]] |
+| 91–00 | [[staff-of-flowers-xdmg|Staff of Flowers]] |
 ^relics-common
 
 ## Player-Facing Summary

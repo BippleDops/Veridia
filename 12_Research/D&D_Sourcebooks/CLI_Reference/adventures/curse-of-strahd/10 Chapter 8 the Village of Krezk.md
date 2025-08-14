@@ -30,7 +30,7 @@ Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hosp
 
 Then, over a century ago, a pilgrim from a distant land came to Krezk and insisted that he be allowed to reopen the abbey. The nameless man was strikingly handsome and extremely persuasive, and the villagers couldn't help but do as he commanded. Eternally young, he presides over the abbey to this day, and locals refer to him simply as [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]]. Many villagers suspect that [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] is Strahd in disguise, for they've heard stories about Strahd appearing in other guises. The truth, however, is even more disturbing.
 
-> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]  
+> [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]]  
 > 
 > The gleam in her eyes was like warm sunlight on a still pond. That light is gone forever. When I try to imagine those eyes, all I see is a mad abyss.
 
@@ -78,7 +78,7 @@ Dmitri is a lord and expects to be treated like one. He places the safety of his
 
 If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.
 
-A character who succeeds on a DC 12 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see area S3).
+A character who succeeds on a DC 12 Wisdom ([[skills#Insight|Insight]]) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see area S3).
 
 ### S3. Village of Krezk
 
@@ -129,7 +129,7 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 > Even under gray skies, this pool at the north end of the village shimmers and sparkles. Near its shore sits an old gazebo on the verge of collapse. A wooden statue of a mournful, bare-chested man, its paint chipped and faded, stands in the gazebo with arms outstretched, as though waiting to be embraced.
 ^4ca
 
-The pool is fed by an underground spring and was blessed long ago by Saint Markovia. Its waters defy corruption, and anyone who drinks from it for the first time gains the benefit of a [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]] spell. (The water once had even greater magic but has weakened over the years.) The water otherwise tastes sweet and fresh.
+The pool is fed by an underground spring and was blessed long ago by Saint Markovia. Its waters defy corruption, and anyone who drinks from it for the first time gains the benefit of a [[lesser-restoration-xphb|lesser restoration]] spell. (The water once had even greater magic but has weakened over the years.) The water otherwise tastes sweet and fresh.
 
 The gazebo is so frail that it wouldn't take more than a strong wind to knock it over. It remains standing because it's protected from the elements by the surrounding trees, walls, and cliffs. The statue is a depiction of the Morninglord, positioned so that he is reaching toward the east (the dawn). Locals refer to the statue and gazebo as the Shrine of the White Sun, though they have no idea why their ancestors named it so.
 
@@ -171,7 +171,7 @@ The windows of the north wing are made of leaded glass that is translucent—goo
 
 The iron gates are unlocked but squeal loudly when someone opens them.
 
-Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
+Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([[skills#Stealth|Stealth]]) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/088-cos08-04.webp#center|Otto Belview]]
 
@@ -195,7 +195,7 @@ Otto has the Standing Leap feature (see the [[/03_Mechanics/CLI/bestiary/humanoi
 
 Zygfrek stands 4 feet, 7 inches tall. The left side of her face and body is covered with lizard scales, the right with tufts of gray wolf fur. Between these tufts is pale human skin. One of her eyes is that of a feline, and her fingers and hands resemble cat's paws with opposable thumbs. She has a gruff voice and wears a gray cloak with black fur trim.
 
-Zygfrek has the [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] feature (see the [[/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos|mongrelfolk]] stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
+Zygfrek has the [[senses#Darkvision|Darkvision]] feature (see the [[/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos|mongrelfolk]] stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
 
 ### S7. Graveyard
 
@@ -217,7 +217,7 @@ The gravestone marked X is carved with roses and bears a 3-inch-diameter sun-sha
 
 The sunray lasts for 1 minute. If the characters smash the gravestone without placing Tasha Petrovna's holy symbol in it first, they find nothing within its remains.
 
-The ring is a [[/03_Mechanics/CLI/items/ring-of-regeneration-xdmg|ring of regeneration]].
+The ring is a [[ring-of-regeneration-xdmg|ring of regeneration]].
 
 ### S8. Garden Gatehouse
 
@@ -246,7 +246,7 @@ The rabbits and the scarecrows are harmless. The gardens contain a meager assort
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, the item is hidden in the straw-filled gullet of the southernmost scarecrow. If the treasure is removed from the scarecrow, seven [[/03_Mechanics/CLI/bestiary/undead/wight-xmm|wights]] erupt from the gardens and attack. They wear tattered livery of Strahd's house.
+If your card reading reveals that a treasure is here, the item is hidden in the straw-filled gullet of the southernmost scarecrow. If the treasure is removed from the scarecrow, seven [[wight-xmm|wights]] erupt from the gardens and attack. They wear tattered livery of Strahd's house.
 
 ### S10. Abbey Entrance
 
@@ -257,7 +257,7 @@ If your card reading reveals that a treasure is here, the item is hidden in the 
 
 The plaque bears the abbey's name, under which appear these words: "May her light cure all illness."
 
-The "guards" on the wall are propped-up scarecrows that wear corroded chain shirts and clutch rusted spears (see area S18). A character who succeeds on a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check discerns the charade.
+The "guards" on the wall are propped-up scarecrows that wear corroded chain shirts and clutch rusted spears (see area S18). A character who succeeds on a DC 10 Wisdom ([[skills#Perception|Perception]]) check discerns the charade.
 
 The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12).
 
@@ -346,13 +346,13 @@ Marzena has the Flight feature (see the [[/03_Mechanics/CLI/bestiary/humanoid/mo
 > A handsome young man in a brown monk's robe gently takes the woman by her hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck. He moves with the grace of a saint.
 ^4ee
 
-[[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] is a [[/03_Mechanics/CLI/bestiary/celestial/deva-xmm|deva]] in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]], a [[/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm|flesh golem]] that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
+[[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] is a [[deva-xmm|deva]] in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]], a [[flesh-golem-xmm|flesh golem]] that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
 
 [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] is teaching [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] the finer points of etiquette. He also intends to teach her how to dance. [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] obeys his every command. She can't speak but lets loose an unholy scream if harmed. If driven berserk, she fights until [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] reasserts control or until she is destroyed. She has the supernatural strength of a typical flesh golem despite her smaller size.
 
 [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] has no desire to harm the characters. He knows that Strahd has brought them to Barovia for a reason and doesn't want to thwart Strahd's plans for them. His calm, pleasant demeanor changes if they become hostile or if they threaten [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]]. He sheds his disguise and assumes his true angelic form, hoping that sight is enough to make them back down.
 
-[[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] would like to find a proper bridal gown for [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]]. If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]] up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] safe.
+[[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|The Abbot]] would like to find a proper bridal gown for [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]]. If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [[raise-dead-xphb|raise dead]] up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [[/03_Mechanics/CLI/bestiary/npc/vasilka-cos|Vasilka]] safe.
 
 The music comes from upstairs (area S17). The stone staircase leads down to the wine cellar (area S16). The wooden stairs climb to the loft and belfry (area S17).
 
@@ -366,7 +366,7 @@ The stew pot in the fireplace contains several gallons of hot turnip and rabbit 
 
 #### Treasure
 
-The golden sun disk hanging above the fireplace is worth 750 gp. Taking the disk off the wall reveals a niche that contains a [[/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg|potion of healing (superior)]] in a crystal and electrum flask (worth 250 gp). Four gold candelabras (worth 250 gp each) rest atop the table.
+The golden sun disk hanging above the fireplace is worth 750 gp. Taking the disk off the wall reveals a niche that contains a [[potion-of-superior-healing-xdmg|potion of healing (superior)]] in a crystal and electrum flask (worth 250 gp). Four gold candelabras (worth 250 gp each) rest atop the table.
 
 #### Fortunes of Ravenloft
 
@@ -397,11 +397,11 @@ Before he set out to create a bride for Strahd, [[/03_Mechanics/CLI/bestiary/npc
 > Even in the gloom, you can make out a monstrous shape lumbering down the hall. When the darkness can no longer hide its true nature, your eyes are treated to a terrifying, 7-foot-tall assemblage of human body parts.
 ^4f6
 
-This [[/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm|flesh golem]] attacks anyone who isn't in the company of [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] or [[/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos|Clovin Belview]].
+This [[flesh-golem-xmm|flesh golem]] attacks anyone who isn't in the company of [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] or [[/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos|Clovin Belview]].
 
 None of the doors leading from the hall are locked. If the characters open any and look inside, they see that the rooms on each side of the hall are dimly lit by natural light that filters through dirty, shuttered windows. The door at the east end of the hall leads outside and can be pulled open to reveal the gardens (area S9).
 
-The sixty [[/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos|mongrelfolk]] confined here are fed at irregular intervals by [[/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos|Clovin Belview]]. Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [[/03_Mechanics/CLI/conditions#Restrained|restrained]], but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
+The sixty [[/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos|mongrelfolk]] confined here are fed at irregular intervals by [[/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos|Clovin Belview]]. Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [[conditions#Restrained|restrained]], but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
 
 #### S15a. Fearful Mongrelfolk
 
@@ -504,7 +504,7 @@ The wine racks contain thirty-three bottles of Purple Grapemash No. 3 and twenty
 
 #### Treasure
 
-Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scroll]] of [[/03_Mechanics/CLI/spells/heroes-feast-xphb|heroes' feast]].
+Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [[spell-scroll-xdmg|spell scroll]] of [[heroes-feast-xphb|heroes' feast]].
 
 ### S17. Loft and Belfry
 
@@ -605,7 +605,7 @@ The wood of the counter is old, soft, and easily broken. Nothing of value remain
 > Three doors are spaced along the south wall, each with a plaque mounted on it. From west to east, the plaques read Operating Room, Nursery, and Morgue.
 ^51b
 
-Six [[/03_Mechanics/CLI/bestiary/undead/shadow-xmm|shadows]] haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
+Six [[shadow-xmm|shadows]] haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
 
 ### S22. Operating Room
 
@@ -643,9 +643,9 @@ If your card reading reveals that a treasure is here, it is under the wreckage o
 > A raven perches on the windowsill of this otherwise empty room.
 ^523
 
-If the characters approach the [[/03_Mechanics/CLI/bestiary/beast/raven-xmm|raven]], it flies to the shoulder of the nearest scarecrow in the garden (area S9).
+If the characters approach the [[raven-xmm|raven]], it flies to the shoulder of the nearest scarecrow in the garden (area S9).
 
-A character who kills the raven is cursed. While cursed, the character has disadvantage on all attack rolls and ability checks. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell, a [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] spell, or a similar effect ends the curse.
+A character who kills the raven is cursed. While cursed, the character has disadvantage on all attack rolls and ability checks. A [[greater-restoration-xphb|greater restoration]] spell, a [[remove-curse-xphb|remove curse]] spell, or a similar effect ends the curse.
 
 ## Special Events
 
@@ -657,7 +657,7 @@ This event can occur if the characters don't or can't raise the burgomaster's so
 
 If alive, [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] learns that Ilya died recently and, in his human guise, visits the burgomaster's cottage. If one or more characters are staying there, they hear a knock at the door. Without bothering to introduce himself, [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] tells the burgomaster and his wife that he wants to raise their son from the dead. He claims that the "gods of light" want the Krezkov bloodline restored.
 
-The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] casts a [[/03_Mechanics/CLI/spells/raise-dead-xphb|raise dead]], returning Ilya to life with 1 hit point. Anna Krezkova praises [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] and has no way to repay him for this supreme act of kindness.
+The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] casts a [[raise-dead-xphb|raise dead]], returning Ilya to life with 1 hit point. Anna Krezkova praises [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] and has no way to repay him for this supreme act of kindness.
 
 #### Development
 
@@ -667,7 +667,7 @@ Ilya Krezkov returns to life with a random form of indefinite madness (see ""Mad
 
 The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
 
-Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
+Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom ([[skills#Insight|Insight]]) check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
 
 Kretyana was raised to believe that newborns are soulless if they don't cry, and she has come to believe, rightly, that most Barovians lack souls.
 
@@ -679,7 +679,7 @@ No one in Krezk can fashion such a gown, leaving the burgomaster with no choice 
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/093-cos08-08.webp#center|Baron Krezkov]]
 
-Anna Krezkova (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]) bids her husband farewell and leaves with two [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], four [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]], and a [[/03_Mechanics/CLI/bestiary/beast/mule-xmm|mule]] laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
+Anna Krezkova (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]]) bids her husband farewell and leaves with two [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]], four [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]], and a [[mule-xmm|mule]] laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 
 If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]], who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]]. If they do, they hear [[/03_Mechanics/CLI/bestiary/npc/the-abbot-cos|the Abbot]] promise "divine retribution" as punishment.
 
@@ -724,7 +724,7 @@ Whether or not Sergei takes Ireena, Strahd senses that the two have found each o
 > A peal of thunder shakes the land, and the dark clouds coalesce into a terrible visage. A deep, dark voice from beyond the mountains cries out, "She is mine!" A terrible crack resounds as blue lightning splits the sky and strikes the pool.
 ^52d
 
-Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
+Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [[conditions#Prone|prone]]. The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 Strahd's wrath destroys the blessing on the pool, rendering its waters nonmagical and preventing the spirit of Sergei from manifesting in them again.
 

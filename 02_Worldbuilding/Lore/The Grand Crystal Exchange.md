@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[12_Research/D&D_References/Aether Crystals]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[12_Research/D&D_References/Aether Crystals]]
 
 ## Player-Facing Summary
 

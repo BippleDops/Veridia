@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-molydeus-mpmm-molydeus-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/molydeus-mpmm|Molydeus]]
+# [[molydeus-mpmm|Molydeus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -56,14 +56,14 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - "wisdom": !!int "14"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+21"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "21"
@@ -88,24 +88,24 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [[/03_Mechanics/CLI/bestiary/fiend/manes-xmm|manes]]\
+      \ The target transforms into a [[manes-xmm|manes]]\
       \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell."
+      \ only by a [[wish-xphb|wish]] spell."
     "name": "Snakebite"
   - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 25\
       \ (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
-      \ [[/03_Mechanics/CLI/spells/polymorph-xphb|polymorph]], [[/03_Mechanics/CLI/spells/telekinesis-xphb|telekinesis]],\
-      \ [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]]\n\n3/day: [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning\
+      \nAt will: [[dispel-magic-xphb|dispel magic]],\
+      \ [[polymorph-xphb|polymorph]], [[telekinesis-xphb|telekinesis]],\
+      \ [[teleport-xphb|teleport]]\n\n3/day: [[lightning-bolt-xphb|lightning\
       \ bolt]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The molydeus makes one Demonic Weapon or Snakebite attack."
     "name": "Attack"
-  - "desc": "The molydeus moves without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|opportunity attacks]]."
+  - "desc": "The molydeus moves without provoking [[actions#Opportunity%20Attack|opportunity attacks]]."
     "name": "Move"
   - "desc": "The molydeus uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"

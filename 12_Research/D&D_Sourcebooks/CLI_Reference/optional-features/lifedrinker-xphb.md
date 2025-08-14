@@ -22,7 +22,7 @@ world: Both
 
 **Prerequisite**: Level 9 Warlock
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra `d6` Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[/03_Mechanics/CLI/variant-rules/hit-point-dice-xphb|Hit Point Dice]] to roll it and regain a number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]).
+Once per turn when you hit a creature with your pact weapon, you can deal an extra `d6` Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[hit-point-dice-xphb|Hit Point Dice]] to roll it and regain a number of [[hit-points-xphb|Hit Points]] equal to the roll plus your Constitution modifier (minimum of 1 [[hit-points-xphb|Hit Point]]).
 
 ## Player-Facing Summary
 

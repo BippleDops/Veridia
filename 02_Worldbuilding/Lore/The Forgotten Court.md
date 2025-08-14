@@ -15,10 +15,6 @@ world: Aethermoor
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,11 +41,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[12_Research/D&D_Statblocks/Hidden Smuggler's Cove]]
+- [[12_Research/D&D_Statblocks/Memory Merchant Zephyr Mindweaver]]
+- [[12_Research/D&D_Statblocks/The Siren's Rest Tavern]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

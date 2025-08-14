@@ -38,12 +38,12 @@ world: Both
 
 You do one of the following:
 
-- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] within range, extinguishing exposed flames there.  
-- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] within range.  
+- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[cube-area-of-effect-xphb|Cube]] within range, extinguishing exposed flames there.  
+- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[cube-area-of-effect-xphb|Cube]] within range.  
 
-**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] increases by 5 feet, for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[cube-area-of-effect-xphb|Cube]] increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

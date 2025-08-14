@@ -15,8 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-ethics-coordinator-elena-compassion-ethics-coordinator-elena-compassion.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ethics-coordinator-elena-compassion-ethics-coordinator-elena-compassion.svg]]
 
 
 # Ethics Coordinator Elena Compassion
@@ -29,7 +28,7 @@ world: Aquabyssos
 
 ## Related Concepts
 
-- [[02_Worldbuilding/Lore/Master Index]]
+- [[Master Index]]
 
 ## References
 

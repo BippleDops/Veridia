@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-victoria-harbormane-v1-victoria-harbormane.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-victoria-harbormane-v1-victoria-harbormane.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]
 
 ## Player-Facing Summary
 

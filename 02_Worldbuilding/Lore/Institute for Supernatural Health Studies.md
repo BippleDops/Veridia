@@ -14,10 +14,6 @@ world: Both Worlds
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO

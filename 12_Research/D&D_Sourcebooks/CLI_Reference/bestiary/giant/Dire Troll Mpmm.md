@@ -30,9 +30,9 @@ world: Both
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.png)
+![[04_Resources/Assets/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.png]]
 
-# [[3-Mechanics\CLI\bestiary\giant/dire-troll-mpmm|Dire Troll]]
+# [[dire-troll-mpmm|Dire Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -71,11 +71,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - "wisdom": !!int "5"
   - "charisma": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Frightened|frightened]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "13"

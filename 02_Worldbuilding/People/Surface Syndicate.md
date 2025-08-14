@@ -21,12 +21,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-syndicate-surface-syndicate.svg)
-
-
-
 
 
 # Surface Syndicate
@@ -128,7 +124,7 @@ The Surface Syndicate provides excellent opportunities for morally ambiguous adv
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Barnacle]]
+- [[The Barnacle]]
 - [[The_Crimson_Pearl|The Crimson Pearl]]
 
 
@@ -171,6 +167,6 @@ Legends speak of Surface Syndicate as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Surface Syndicate]]
+- [[Surface Syndicate]]
 
 <!-- enriched: true -->

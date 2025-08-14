@@ -21,9 +21,9 @@ world: Both
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [[/03_Mechanics/CLI/skills#Animal%20Handling|Animal Handling]], [[/03_Mechanics/CLI/skills#Survival|Survival]]  
+- **Skill Proficiencies.** [[skills#Animal%20Handling|Animal Handling]], [[skills#Survival|Survival]]  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [[/03_Mechanics/CLI/items/shovel-xphb|shovel]], an [[/03_Mechanics/CLI/items/iron-pot-xphb|iron pot]], a set of [[/03_Mechanics/CLI/items/common-clothes|common clothes]], and a belt [[/03_Mechanics/CLI/items/pouch-xphb|pouch]] containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a [[shovel-xphb|shovel]], an [[iron-pot-xphb|iron pot]], a set of [[common-clothes|common clothes]], and a belt [[pouch-xphb|pouch]] containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 

@@ -31,7 +31,7 @@ Strahd bequeathed the winery and vineyard to the noble Krezkov family as a rewar
 
 The wereravens provide the wine to Barovian taverns for free, knowing the good it brings to the Barovian people.
 
-> [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]  
+> [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]]  
 > 
 > Why, it is nothing to become an animal, for that is the true nature of every man. We are not meant to wear crowns and drink from goblets.
 
@@ -103,16 +103,16 @@ When the characters reach the winery, read:
 > You hear the rustle of dead vines all around you. Inhuman shapes emerge from the vineyard, their limbs cracking as they trudge forth through the mist and rain.
 ^598
 
-Thirty [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
+Thirty [[needle-blight-xmm|needle blights]] (in six groups of five) emerge from the surrounding vineyard and make their way toward the characters and the winery. The blights are 120 feet away when they first become visible, and they have a walking speed of 30 feet. Characters can either barricade themselves inside the winery, thus keeping the needle blights at bay, or stand and fight. If they stay outside and fight, druids and blights from inside the winery join the battle on the rounds shown below.
 
 | Round | Creatures |
 |-------|-----------|
-| 3 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 24 [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|twig blights]] (from area W9) |
-| 4 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 5 [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] (from area W14) |
-| 5 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 2 [[/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm|vine blights]] (from area W20) |
+| 3 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 24 [[twig-blight-xmm|twig blights]] (from area W9) |
+| 4 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 5 [[needle-blight-xmm|needle blights]] (from area W14) |
+| 5 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] and 2 [[vine-blight-xmm|vine blights]] (from area W20) |
 ^round-creatures
 
-The druid lurking in area W16 carries a [[/03_Mechanics/CLI/items/gulthias-staff-cos|Gulthias staff]] (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
+The druid lurking in area W16 carries a [[gulthias-staff-cos|Gulthias staff]] (see appendix C). If the staff is destroyed, all blights within 300 feet of it instantly wither and die.
 
 ## Areas of the Winery
 
@@ -124,7 +124,7 @@ The following areas correspond to labels on the map of the winery below.
 
 ### W1. Stables
 
-The Martikovs keep two [[/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm|draft horses]] here and use them to pull their wine wagon.
+The Martikovs keep two [[draft-horse-xmm|draft horses]] here and use them to pull their wine wagon.
 
 ### W2. Loading Dock
 
@@ -197,9 +197,9 @@ The wooden beam on the floor can be used to bar the outer door.
 > The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with "The Wizard of Wines" burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery's upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest.
 ^5a9
 
-Four [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarms of ravens]] perch on the rafters but don't attack the characters under any circumstances.
+Four [[swarm-of-ravens-xmm|swarms of ravens]] perch on the rafters but don't attack the characters under any circumstances.
 
-Unless they have been drawn outside, twenty-four [[/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm|twig blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are also present. If they are here, read:
+Unless they have been drawn outside, twenty-four [[twig-blight-xmm|twig blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are also present. If they are here, read:
 
 > [!readaloud] 
 > 
@@ -210,7 +210,7 @@ The four containers are fermentation vats, where grape juice is mixed with other
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/113-cos12-03.webp#center|Twig Blight]]
 
-The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[/03_Mechanics/CLI/items/potion-of-poison-xdmg|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[/03_Mechanics/CLI/spells/purify-food-and-drink-xphb|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
+The druid is poisoning the fermentation vats. The three westernmost vats contain poisoned wine, enough to fill a total of twenty barrels. Drinking the poisoned wine has the same effect as drinking a [[potion-of-poison-xdmg|potion of poison]]. Pouring antitoxin into a vat neutralizes the poison, but it also spoils the taste of the wine. Casting a [[purify-food-and-drink-xphb|purify food and drink]] spell on a vat neutralizes the poison without spoiling the wine.
 
 In addition to her animal skin gown and horned headdress, the druid wears necklaces of human teeth. If the characters attack the druid, she calls forth her twig blights. When that happens, the swarms of ravens descend from the rafters and begin attacking the blights. Each swarm tears apart one twig blight on each of its turns.
 
@@ -267,14 +267,14 @@ In the winery's heyday, the wine cellar was packed with barrels awaiting shipmen
 > Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
 ^5b6
 
-Unless they have been drawn outside, five [[/03_Mechanics/CLI/bestiary/plant/needle-blight-xmm|needle blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
+Unless they have been drawn outside, five [[needle-blight-xmm|needle blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
 
 > [!readaloud] 
 > 
 > Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
 ^5b7
 
-On his first turn, from behind the wine rack, the druid casts a [[/03_Mechanics/CLI/spells/thunderwave-xphb|thunderwave]] spell, which shatters ` + 10` of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+On his first turn, from behind the wine rack, the druid casts a [[thunderwave-xphb|thunderwave]] spell, which shatters ` + 10` of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
 
 The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel's side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
 
@@ -291,7 +291,7 @@ If the characters open the secret door, read:
 > It takes some effort to push open the secret door, and you are greeted by a blast of cold air. A dark tunnel stretches for fifteen feet, ending at an archway beyond which lies a shallow cave.
 ^5b9
 
-Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of [[/03_Mechanics/CLI/traps-hazards/brown-mold-xdmg|brown mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
+Characters who have a light source can see brown mold covering the walls, floor, and ceiling around the archway and the cave beyond. Growing throughout this area, keeping the wine cellar cool, are ten patches of [[brown-mold-xdmg|brown mold]] (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). The characters are safe from the mold as long as they keep their distance.
 
 ### W16. Loading Winch
 
@@ -306,7 +306,7 @@ A secret door in the north corner of the west wall can be pulled open to reveal 
 
 #### Treasure
 
-The druid wields a [[/03_Mechanics/CLI/items/gulthias-staff-cos|Gulthias staff]] (see appendix C), which can be used to destroy the blights in the winery.
+The druid wields a [[gulthias-staff-cos|Gulthias staff]] (see appendix C), which can be used to destroy the blights in the winery.
 
 ### W17. Master Bedroom
 
@@ -334,7 +334,7 @@ A secret door in the north corner of the east wall can be pushed open to gain ac
 
 #### Treasure
 
-Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
+Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of [[strahd-von-zarovich-cos|Strahd von Zarovich]]), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check. It holds a gold locket (worth 25 gp) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
 
 ### W18. Kitchen and Dining Room
 
@@ -365,7 +365,7 @@ The door to this room hangs open.
 > In this chamber are a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room.
 ^5c6
 
-Two [[/03_Mechanics/CLI/bestiary/plant/vine-blight-xmm|vine blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
+Two [[vine-blight-xmm|vine blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
 
 > [!readaloud] 
 > 
@@ -386,7 +386,7 @@ You can use one or both of the following special events after the characters hav
 
 After restoring the Martikovs to their rightful positions, the characters might ask them to deliver wine to the Blue Water Inn (chapter 5, area N2), the Vistani in the camp outside Vallaki (chapter 5, area N9), or the burgomaster of Krezk (chapter 8, area S2). A grateful Davian sets his sons to the task immediately. Adrian Martikov brings the three remaining wine barrels up from the cellar and sets them on the wagon while Elvir Martikov secures the horses. Adrian and Elvir make the delivery themselves, but they welcome the party's escort. If the characters don't volunteer for guard duty, [[/03_Mechanics/CLI/bestiary/npc/davian-martikov-cos|Davian Martikov]] suggests they go along with the wine wagon to ensure its safety.
 
-If the characters escort the wagon, check for a random encounter once for each mile traveled. The wagon is also watched over by two [[/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm|swarms of ravens]] that swoop down to attack anything that threatens the wagon or the characters.
+If the characters escort the wagon, check for a random encounter once for each mile traveled. The wagon is also watched over by two [[swarm-of-ravens-xmm|swarms of ravens]] that swoop down to attack anything that threatens the wagon or the characters.
 
 #### Development
 
@@ -394,7 +394,7 @@ The characters can trade the six barrels of wine for a much-needed treasure in t
 
 ### Wintersplinter Attacks
 
-If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [[/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm|tree blight]] (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
+If the characters leave the winery and return at a later time before dealing with Wintersplinter (see the "Druids' Ritual" section in chapter 14), the enormous [[tree-blight-xmm|tree blight]] (see appendix D) is sent from Yester Hill to ravage the vineyard and destroy the winery.
 
 The characters arrive to find the grapevines trampled and the winery in ruins. Wintersplinter's tracks are clearly visible on the trail to the south. Characters who follow the tracks catch up with Wintersplinter as the blight slowly makes its way back to Yester Hill.
 
@@ -402,7 +402,7 @@ The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vall
 
 #### Development
 
-Three days after Wintersplinter's attack, [[/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
+Three days after Wintersplinter's attack, [[/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos|Baba Lysaga]] (see chapter 10, area U3) dispatches the seven [[scarecrow-xmm|scarecrows]] from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/115-cos12-05.webp#center)
 

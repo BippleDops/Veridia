@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- session-notes
+- shadow-touched
 - aquabyssos
 - campaign/session
 - complete
@@ -13,10 +15,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.181898+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +43,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

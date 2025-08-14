@@ -12,6 +12,9 @@ scope: Environmental Phenomena
 significance: Mechanical Framework
 status: complete
 tags:
+- combat
+- aerial
+- aquatic
 - anomaly
 - both worlds
 - complete
@@ -33,24 +36,20 @@ world: Both Worlds
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-gravity-anomaly-mechanics-gravity-anomaly-mechanics.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gravity-anomaly-mechanics-gravity-anomaly-mechanics.svg]]
 
 
 # Gravity Anomaly Mechanics
+
 *When Natural Laws Bend and Break*
 
 > *"Gravity is not just the force that holds our feet to the ground—it is the invisible hand that shapes reality itself. When that hand trembles, entire worlds can be reshaped in moments."*
-> — [[02_Worldbuilding/Lore/Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
+> — [[12_Research/D&D_References/Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
 
 ## Overview
 
-Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
+Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
 
 Unlike simple magical effects that temporarily alter gravity, true gravity anomalies represent fundamental distortions in the fabric of space-time itself, creating lasting changes to the physical laws governing affected areas. Understanding these mechanics is crucial for navigating anomaly zones, predicting their effects, and developing countermeasures to protect populated areas and critical infrastructure.
 
@@ -362,7 +361,7 @@ Gravitational anomalies represent powerful tools for creating unique and memorab
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Inverse Palace]]
+- [[12_Research/D&D_References/The Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -384,7 +383,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[12_Research/D&D_References/Gravity Anomaly Mechanics]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Aethermoor]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

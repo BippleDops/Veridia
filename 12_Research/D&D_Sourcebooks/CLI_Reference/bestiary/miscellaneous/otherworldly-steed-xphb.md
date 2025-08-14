@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-xphb-otherworldly-steed-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\miscellaneous/otherworldly-steed-xphb|Otherworldly Steed]]
+# [[otherworldly-steed-xphb|Otherworldly Steed]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock
@@ -54,7 +54,7 @@ world: Both
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. Failure: The target has the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]]\
+      \ 60 feet the steed can see. Failure: The target has the [[conditions#Frightened|Frightened]]\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
   - "desc": "The steed teleports, along with its rider, to an unoccupied space of\

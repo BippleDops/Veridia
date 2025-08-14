@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tanarukk-mpmm-tanarukk-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/tanarukk-mpmm|Tanarukk]]
+# [[tanarukk-mpmm|Tanarukk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
 
 > [!quote] A quote from Tasha  
@@ -63,9 +63,9 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+2"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "fire, poison"
 "senses": "darkvision 60 ft., passive Perception 12"

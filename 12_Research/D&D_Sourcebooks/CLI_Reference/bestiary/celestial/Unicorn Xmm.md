@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-unicorn-xmm-unicorn-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/unicorn-xmm|Unicorn]]
+# [[unicorn-xmm|Unicorn]]
 *Source: Monster Manual (2024). Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Unicorn
@@ -64,15 +64,15 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   - !!int "16"
 "speed": "50 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Celestial, Elvish, Sylvan; telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "If the unicorn fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The unicorn has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The unicorn has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -85,25 +85,25 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
     "name": "Radiant Horn"
   - "desc": "The unicorn casts one of the following spells, requiring no spell components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[/03_Mechanics/CLI/spells/druidcraft-xphb|Druidcraft]]\n\n1/day each:\
-      \ [[/03_Mechanics/CLI/spells/calm-emotions-xphb|Calm Emotions]], [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|Dispel Evil\
-      \ and Good]], [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]],\
-      \ [[/03_Mechanics/CLI/spells/pass-without-trace-xphb|Pass without Trace]],\
-      \ [[/03_Mechanics/CLI/spells/word-of-recall-xphb|Word of Recall]]"
+      \ will: [[detect-evil-and-good-xphb|Detect Evil and Good]],\
+      \ [[druidcraft-xphb|Druidcraft]]\n\n1/day each:\
+      \ [[calm-emotions-xphb|Calm Emotions]], [[dispel-evil-and-good-xphb|Dispel Evil\
+      \ and Good]], [[entangle-xphb|Entangle]],\
+      \ [[pass-without-trace-xphb|Pass without Trace]],\
+      \ [[word-of-recall-xphb|Word of Recall]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The unicorn touches another creature with its horn and casts [[/03_Mechanics/CLI/spells/cure-wounds-xphb|Cure Wounds]]\
-      \ or [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]]\
+  - "desc": "The unicorn touches another creature with its horn and casts [[cure-wounds-xphb|Cure Wounds]]\
+      \ or [[lesser-restoration-xphb|Lesser Restoration]]\
       \ on that creature, using the same spellcasting ability as Spellcasting.\n"
     "name": "Unicorn's Blessing (3/Day)"
 "legendary_actions":
-  - "desc": "The unicorn moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
-      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]],\
+  - "desc": "The unicorn moves up to half its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it makes one Radiant Horn attack."
     "name": "Charging Horn"
   - "desc": "The unicorn targets itself or one creature it can see within 60 feet\
-      \ of itself. The target gains 10 (3d6) [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]],\
+      \ of itself. The target gains 10 (3d6) [[temporary-hit-points-xphb|Temporary Hit Points]],\
       \ and its AC increases by 2 until the end of the unicorn's next turn. The unicorn\
       \ can't take this action again until the start of its next turn."
     "name": "Shimmering Shield"
@@ -111,11 +111,11 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   - "desc": "The region containing a unicorn's lair is changed by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- Obscuring Foliage. The unicorn and its allies have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks while\
+  - "desc": "- Obscuring Foliage. The unicorn and its allies have [[advantage-xphb|Advantage]]\
+      \ on Dexterity ([[skills#Stealth|Stealth]]) checks while\
       \ within 1 mile of the lair.  \n- Positive Energy. Whenever a creature within\
-      \ 1 mile of the lair regains [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ from a spell, it regains the maximum number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ 1 mile of the lair regains [[hit-points-xphb|Hit Points]]\
+      \ from a spell, it regains the maximum number of [[hit-points-xphb|Hit Points]]\
       \ possible. Additionally, the effects of curses are suppressed within 1 mile\
       \ of the lair.  "
     "name": ""

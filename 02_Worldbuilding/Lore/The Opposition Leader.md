@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

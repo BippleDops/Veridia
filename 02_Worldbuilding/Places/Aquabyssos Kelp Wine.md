@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-aquabyssos-kelp-wine-aquabyssos-kelp-wine.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-aquabyssos-kelp-wine-aquabyssos-kelp-wine.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Aquabyssos Kelp Wine]]
+- [[12_Research/D&D_References/Aquabyssos Kelp Wine]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[12_Research/D&D_Statblocks/Vault Keeper Eternal]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

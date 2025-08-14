@@ -28,9 +28,9 @@ world: Both
 
 
 
-When you take a [[/03_Mechanics/CLI/actions#Magic|Magic]] action to read this scroll, a [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|Kraken]] appears in an unoccupied space in water that you can see within 1 mile of yourself. A [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|kraken]] requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted
+When you take a [[actions#Magic|Magic]] action to read this scroll, a [[kraken-xmm|Kraken]] appears in an unoccupied space in water that you can see within 1 mile of yourself. A [[kraken-xmm|kraken]] requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted
 
-The [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|Kraken]] is [[/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. If the [[/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm|Kraken]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [[kraken-xmm|Kraken]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[kraken-xmm|Kraken]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
 

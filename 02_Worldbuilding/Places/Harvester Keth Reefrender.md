@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harvester-keth-reefrender-harvester-keth-reefrender.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harvester-keth-reefrender-harvester-keth-reefrender.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harvester Keth Reefrender]]
+- [[Harvester Keth Reefrender]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[Coral Throne Syndicate HQ]]

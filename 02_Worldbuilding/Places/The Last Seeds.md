@@ -21,11 +21,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-last-seeds-the-last-seeds.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-last-seeds-the-last-seeds.svg]]
 
 
 # The Last Seeds
@@ -120,7 +116,7 @@ This quest combines environmental urgency with political intrigue and dungeon ex
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [[The Wandering Atoll]]
 
 
 ## History
@@ -162,6 +158,6 @@ Legends speak of The Last Seeds as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Seeds]]
+- [[The Last Seeds]]
 
 <!-- enriched: true -->

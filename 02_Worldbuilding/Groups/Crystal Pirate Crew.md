@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]]
 
 
 ## Overview

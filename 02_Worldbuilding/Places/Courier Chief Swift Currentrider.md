@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-courier-chief-swift-currentrider-courier-chief-swift-currentrider.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-courier-chief-swift-currentrider-courier-chief-swift-currentrider.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[The Bathyal Palace]]
 
 ## Player-Facing Summary
 

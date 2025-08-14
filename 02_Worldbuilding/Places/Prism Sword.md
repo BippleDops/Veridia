@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-prism-sword-prism-sword.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-prism-sword-prism-sword.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Prism Sword]]
+- [[Prism Sword]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[Crystal Gardens]]

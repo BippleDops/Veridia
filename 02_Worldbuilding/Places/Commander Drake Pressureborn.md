@@ -23,9 +23,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg]]
 
 
 # Fort Pressureborn - Aquabyssos Military Command Center
@@ -380,10 +378,10 @@ Fort Pressureborn connects to numerous important elements throughout Aquabyssos 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Pressure's End]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Admiral Thorne Blackwater]]
+- [[Azure Citadel]]
+- [[Pressure's End]]
+- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -405,6 +403,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Commander Drake Pressureborn]]
+- [[Commander Drake Pressureborn]]
 
 <!-- enriched: true -->

@@ -14,29 +14,26 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-merchant-prince-akula-merchant-prince-akula.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-prince-akula-merchant-prince-akula.png]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Depth Wardens]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
+- [[12_Research/D&D_References/Abyssos Prime]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Depth Wardens]]
+- [[12_Research/D&D_References/Memory Farmers]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/Pearl Harbor City]]
+- [[12_Research/D&D_References/Pressure Tube Terminal]]
+- [[12_Research/D&D_References/The Hadal Depths]]
 
 ## Player-Facing Summary
 
@@ -57,3 +54,8 @@ Legends speak of Merchant Prince Akula as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

@@ -20,12 +20,8 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-missing-persons-of-port-meridian-missing-persons-of-port-meridian.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-missing-persons-of-port-meridian-missing-persons-of-port-meridian.svg]]
 
 
 # Missing Persons of Port Meridian
@@ -128,7 +124,7 @@ This investigation should feel urgent and personal. Give players multiple invest
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
 
 
 ## History
@@ -170,6 +166,6 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Missing Persons of Port Meridian]]
+- [[Missing Persons of Port Meridian]]
 
 <!-- enriched: true -->

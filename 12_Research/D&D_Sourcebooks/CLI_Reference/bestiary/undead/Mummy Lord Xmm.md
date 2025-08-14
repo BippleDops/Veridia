@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-xmm-mummy-lord-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/mummy-lord-xmm|Mummy Lord]]
+# [[mummy-lord-xmm|Mummy Lord]]
 *Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Those desperate to escape death sometimes make terrible bargains with wicked deities. Devoting their hearts to evil forces, these villains gain power over death and a cursed immortality that binds their minds and spirits within a desiccated corpse. Freed from mortal concerns, these mummy lords pursue their obsessions across ages.
@@ -75,7 +75,7 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove-curse-xphb|Remove Curse]] spell or similar magic.
 
 ```statblock
 "name": "Mummy Lord (XMM)"
@@ -99,30 +99,30 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "intelligence": !!int "5"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Religion|Religion]]"
+  - "name": "[[skills#Religion|Religion]]"
     "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 19"
 "languages": "Common plus three other languages"
 "cr": "15"
 "traits":
   - "desc": "If the mummy fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "The mummy has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The mummy has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "If destroyed, the mummy gains a new body in 24 hours if its heart is\
-      \ intact, reviving with all its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].\
+      \ intact, reviving with all its [[hit-points-xphb|Hit Points]].\
       \ The new body appears in an unoccupied space within the mummy's lair. The heart\
-      \ is a Tiny object that has AC 17, HP 10, and [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]]\
+      \ is a Tiny object that has AC 17, HP 10, and [[immunity-xphb|Immunity]]\
       \ to all damage except Fire."
     "name": "Undead Restoration"
 "actions":
@@ -131,32 +131,32 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
-      \ While cursed, the target can't regain [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]],\
-      \ it gains no benefit from finishing a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]],\
-      \ and its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum\
+      \ While cursed, the target can't regain [[hit-points-xphb|Hit Points]],\
+      \ it gains no benefit from finishing a [[long-rest-xphb|Long Rest]],\
+      \ and its [[hit-points-xphb|Hit Point]] maximum\
       \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
-      \ to dust if reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ to dust if reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this attack."
     "name": "Rotting Fist"
   - "desc": "Ranged Attack Roll: +9, range 60 ft. Hit: 25 (6d6 + 4) Necrotic damage."
     "name": "Channel Negative Energy"
   - "desc": "Wisdom Saving Throw: DC 17, one creature the mummy can see within 60\
-      \ feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]]\
+      \ feet. Failure: 25 (6d6 + 4) Psychic damage, and the target has the [[conditions#Paralyzed|Paralyzed]]\
       \ condition until the end of the mummy's next turn."
     "name": "Dreadful Glare"
   - "desc": "The mummy casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit\
-      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/dispel-magic-xphb|Dispel Magic]],\
-      \ [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[/03_Mechanics/CLI/spells/animate-dead-xphb|Animate Dead]], [[/03_Mechanics/CLI/spells/harm-xphb|Harm]],\
-      \ [[/03_Mechanics/CLI/spells/insect-plague-xphb|Insect Plague]] (level 7 version)"
+      \ with spell attacks):\n\nAt will: [[dispel-magic-xphb|Dispel Magic]],\
+      \ [[thaumaturgy-xphb|Thaumaturgy]]\n\n1/day each:\
+      \ [[animate-dead-xphb|Animate Dead]], [[harm-xphb|Harm]],\
+      \ [[insect-plague-xphb|Insect Plague]] (level 7 version)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The mummy is hit by an attack roll. _Response:_ The mummy adds\
       \ 2 to its AC against the attack, possibly causing the attack to miss, and the\
       \ mummy teleports up to 60 feet to an unoccupied space it can see. Each creature\
       \ of its choice that it can see within 5 feet of its destination space has the\
-      \ [[/03_Mechanics/CLI/conditions#Blinded|Blinded]] condition until the end\
+      \ [[conditions#Blinded|Blinded]] condition until the end\
       \ of the mummy's next turn."
     "name": "Whirlwind of Sand"
 "legendary_actions":
@@ -165,7 +165,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Glare"
   - "desc": "The mummy makes one Rotting Fist or Channel Negative Energy attack."
     "name": "Necrotic Strike"
-  - "desc": "The mummy casts [[/03_Mechanics/CLI/spells/command-xphb|Command]] (level\
+  - "desc": "The mummy casts [[command-xphb|Command]] (level\
       \ 2 version), using the same spellcasting ability as Spellcasting. The mummy\
       \ can't take this action again until the start of its next turn.\n"
     "name": "Dread Command"
@@ -176,10 +176,10 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "desc": "- Cursed Fate. Whenever a creature other than the mummy or one of\
       \ its allies casts a Divination spell while within 1 mile of the lair, the creature\
       \ makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates\
-      \ with no effect, and the action, [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]],\
-      \ or [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] used to cast\
+      \ with no effect, and the action, [[bonus-action-xphb|Bonus Action]],\
+      \ or [[reaction-xphb|Reaction]] used to cast\
       \ the spell is wasted, but any resources used to cast it aren't expended.  \n\
-      - Soul Drain. Creatures within 1 mile of the lair have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]\
+      - Soul Drain. Creatures within 1 mile of the lair have [[disadvantage-xphb|Disadvantage]]\
       \ on Death Saving Throws.  "
     "name": ""
   - "desc": "If the mummy lord is destroyed or moves its lair elsewhere, these effects\

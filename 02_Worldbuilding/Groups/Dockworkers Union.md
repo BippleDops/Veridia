@@ -20,12 +20,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg]]
 
 
 # Dockworkers Union
@@ -63,4 +59,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadowhaven Smugglers Ring|02 Worldbuilding/Groups/The Shadowhaven Smugglers Ring]]
+- [[The Shadowhaven Smugglers Ring|02 Worldbuilding/Groups/The Shadowhaven Smugglers Ring]]

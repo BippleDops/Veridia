@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brass-dragon-wyrmling-xmm-brass-dragon-wyrmling-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling-xmm|Brass Dragon Wyrmling]]
+# [[brass-dragon-wyrmling-xmm|Brass Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Brass dragon wyrmlings are relentlessly curious. These dragons eagerly engage approachable creatures and are quick to explore any place that has an interesting story. Once they hear tales of adventure, many are keen to start their own quests.
@@ -69,9 +69,9 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -81,13 +81,13 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 14 (4d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ Failure: The target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, at which point it repeats the save.\
-      \ 2nd Failure: The target has the [[/03_Mechanics/CLI/conditions#Unconscious|Unconscious]]\
+      \ 2nd Failure: The target has the [[conditions#Unconscious|Unconscious]]\
       \ condition for 1 minute. This effect ends for the target if it takes damage\
       \ or a creature within 5 feet of it takes an action to wake it."
     "name": "Sleep Breath"

@@ -29,8 +29,8 @@ _Source: Mordenkainen's Tome of Foes_
 On Initiative count 20 (losing initiative ties), Fraz-Urb'luu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
 - Fraz-Urb'luu causes up to 5 doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none.  
-- Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[/03_Mechanics/CLI/spells/simulacrum-xphb|simulacrum]] spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
-- Fraz-Urb'luu creates a [[/03_Mechanics/CLI/items/wave-xdmg|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
+- Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [[simulacrum-xphb|simulacrum]] spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
+- Fraz-Urb'luu creates a [[wave-xdmg|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

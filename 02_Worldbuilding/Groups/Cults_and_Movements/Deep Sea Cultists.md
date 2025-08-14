@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[Angels and Depths]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[Angels and Depths]]
 
 ## Player-Facing Summary
 

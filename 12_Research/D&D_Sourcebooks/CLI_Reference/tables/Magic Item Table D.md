@@ -28,22 +28,22 @@ world: Both
 
 | dice: d100 | Magic Item |
 |------------|------------|
-| 01-20 | [[/03_Mechanics/CLI/items/potion-of-supreme-healing-xdmg|Potion of supreme healing]] |
-| 21-30 | [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|Potion of invisibility]] |
-| 31-40 | [[/03_Mechanics/CLI/items/potion-of-speed-xdmg|Potion of speed]] |
-| 41-50 | [[/03_Mechanics/CLI/items/spell-scroll-level-6-xdmg|Spell scroll (6th level)]] |
-| 51-57 | [[/03_Mechanics/CLI/items/spell-scroll-level-7-xdmg|Spell scroll (7th level)]] |
-| 58-62 | [[/03_Mechanics/CLI/items/3-ammunition-xdmg|+3 ammunition]] |
-| 63-67 | [[/03_Mechanics/CLI/items/oil-of-sharpness-xdmg|Oil of sharpness]] |
-| 68-72 | [[/03_Mechanics/CLI/items/potion-of-flying-xdmg|Potion of flying]] |
-| 73-77 | [[/03_Mechanics/CLI/items/potion-of-cloud-giant-strength-xdmg|Potion of cloud giant strength]] |
-| 78-82 | [[/03_Mechanics/CLI/items/potion-of-longevity-xdmg|Potion of longevity]] |
-| 83-87 | [[/03_Mechanics/CLI/items/potion-of-vitality-xdmg|Potion of vitality]] |
-| 88-92 | [[/03_Mechanics/CLI/items/spell-scroll-level-8-xdmg|Spell scroll (8th level)]] |
-| 93-95 | [[/03_Mechanics/CLI/items/horseshoes-of-a-zephyr-xdmg|Horseshoes of a zephyr]] |
-| 96-98 | [[/03_Mechanics/CLI/items/nolzurs-marvelous-pigments-xdmg|Nolzur's marvelous pigments]] |
-| 99 | [[/03_Mechanics/CLI/items/bag-of-devouring-xdmg|Bag of devouring]] |
-| 00 | [[/03_Mechanics/CLI/items/portable-hole-xdmg|Portable hole]] |
+| 01-20 | [[potion-of-supreme-healing-xdmg|Potion of supreme healing]] |
+| 21-30 | [[potion-of-invisibility-xdmg|Potion of invisibility]] |
+| 31-40 | [[potion-of-speed-xdmg|Potion of speed]] |
+| 41-50 | [[spell-scroll-level-6-xdmg|Spell scroll (6th level)]] |
+| 51-57 | [[spell-scroll-level-7-xdmg|Spell scroll (7th level)]] |
+| 58-62 | [[3-ammunition-xdmg|+3 ammunition]] |
+| 63-67 | [[oil-of-sharpness-xdmg|Oil of sharpness]] |
+| 68-72 | [[potion-of-flying-xdmg|Potion of flying]] |
+| 73-77 | [[potion-of-cloud-giant-strength-xdmg|Potion of cloud giant strength]] |
+| 78-82 | [[potion-of-longevity-xdmg|Potion of longevity]] |
+| 83-87 | [[potion-of-vitality-xdmg|Potion of vitality]] |
+| 88-92 | [[spell-scroll-level-8-xdmg|Spell scroll (8th level)]] |
+| 93-95 | [[horseshoes-of-a-zephyr-xdmg|Horseshoes of a zephyr]] |
+| 96-98 | [[nolzurs-marvelous-pigments-xdmg|Nolzur's marvelous pigments]] |
+| 99 | [[bag-of-devouring-xdmg|Bag of devouring]] |
+| 00 | [[portable-hole-xdmg|Portable hole]] |
 ^magic-item-table-d
 
 ## Player-Facing Summary

@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
-
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Dolphin]]
+- [[Dolphin]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[Current Riders Guild]]

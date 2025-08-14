@@ -26,13 +26,13 @@ world: Both
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[/03_Mechanics/CLI/items/bomb-xdmg|Bomb]] | 100 GP | 1 lb. |
-| [[/03_Mechanics/CLI/items/dynamite-stick-xdmg|Dynamite Stick]] | — | 1 lb. |
-| [[/03_Mechanics/CLI/items/fragmentation-grenade-xdmg|Grenade, Fragmentation]] | — | 1 lb. |
-| [[/03_Mechanics/CLI/items/grenade-launcher-xdmg|Grenade Launcher]] | — | 7 lb. |
-| [[/03_Mechanics/CLI/items/smoke-grenade-xdmg|Grenade, Smoke]] | 50 GP | 2 lb. |
-| [[/03_Mechanics/CLI/items/gunpowder-keg-xdmg|Gunpowder (keg)]] | 250 GP | 20 lb. |
-| [[/03_Mechanics/CLI/items/gunpowder-powder-horn-xdmg|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
+| [[bomb-xdmg|Bomb]] | 100 GP | 1 lb. |
+| [[dynamite-stick-xdmg|Dynamite Stick]] | — | 1 lb. |
+| [[fragmentation-grenade-xdmg|Grenade, Fragmentation]] | — | 1 lb. |
+| [[grenade-launcher-xdmg|Grenade Launcher]] | — | 7 lb. |
+| [[smoke-grenade-xdmg|Grenade, Smoke]] | 50 GP | 2 lb. |
+| [[gunpowder-keg-xdmg|Gunpowder (keg)]] | 250 GP | 20 lb. |
+| [[gunpowder-powder-horn-xdmg|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
 ^explosives
 
 ## Player-Facing Summary

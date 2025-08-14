@@ -11,12 +11,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-pearl-the-crimson-pearl.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-crimson-pearl-the-crimson-pearl.svg]]
 
 
 # The Crimson Pearl
@@ -33,12 +29,12 @@ No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so 
 The Crimson Pearl's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
 
 ### Primary Location
-**[[02_Worldbuilding/Places/Market District]]** - Main base of operations
+**[[Market District]]** - Main base of operations
 - Typically found here during scheduled/formal occasions
 - Movement style: accompanied by retinue, formal protocols
 
 ### Secondary Locations
-**[[02_Worldbuilding/Places/Market District]]** - Regular destination 1
+**[[Market District]]** - Regular destination 1
 
 ### Daily Schedule
 
@@ -70,7 +66,7 @@ The Crimson Pearl's location and movement patterns reflect their role as a leade
 **Social Events**: May be found at community gatherings
 **Private Time**: Limited access during personal hours
 ### The Surface Tragedy
-Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[02_Worldbuilding/Places/Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
+Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
 
 ### Rise to Power
 - Murdered the previous Syndicate leader in single combat
@@ -90,9 +86,9 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ### Key Lieutenants
 - **Whisper Jack** - Smuggling operations
-- **[[02_Worldbuilding/People/The Barnacle]]** - Fencing and money laundering
-- **[[02_Worldbuilding/Places/Captain Marlowe Tidecrest]]** - Piracy fleet
-- **[[02_Worldbuilding/People/The Schooling]]** - Spy network of orphans
+- **[[The Barnacle]]** - Fencing and money laundering
+- **[[Captain Marlowe Tidecrest]]** - Piracy fleet
+- **[[The Schooling]]** - Spy network of orphans
 
 ## The Vampire Problem
 
@@ -125,21 +121,21 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Relationships
 
-### [[02_Worldbuilding/Quests/High Tidecaller Nerissa]]
+### [[High Tidecaller Nerissa]]
 "We dance because neither can afford to stop the music."
 - Mutual hostage situation
 - Each has dirt on the other
 - Occasionally share information
 - Would destroy each other if they could
 
-### [[02_Worldbuilding/People/Gareth Ironforge]]
+### [[Gareth Ironforge]]
 "The dwarf's gold spends well, and he asks few questions."
 - Supplies him with rare deep metals
 - He provides surface weapons
 - Both know it's dirty but need each other
-- Connected through [[02_Worldbuilding/Places/Aquabyssos]]
+- Connected through [[Aquabyssos]]
 
-### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+### [[Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
 - Occasional trades for forbidden knowledge
 - Mutual wariness and respect
@@ -192,11 +188,11 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Quest Hooks
 
-1. **[[02_Worldbuilding/People/Blood in the Water]]** - She needs special blood from a surface noble
-2. **[[02_Worldbuilding/People/The Pearl Heist]]** - Steal from her or for her
-3. **[[02_Worldbuilding/People/Syndicate War]]** - Internal power struggle
-4. **[[02_Worldbuilding/People/The Cure]]** - Help her find vampire cure (or ensure she doesn't)
-5. **[[02_Worldbuilding/People/Surface Syndicate]]** - Establish criminal network above
+1. **[[Blood in the Water]]** - She needs special blood from a surface noble
+2. **[[The Pearl Heist]]** - Steal from her or for her
+3. **[[Syndicate War]]** - Internal power struggle
+4. **[[The Cure]]** - Help her find vampire cure (or ensure she doesn't)
+5. **[[Surface Syndicate]]** - Establish criminal network above
 
 ## Interaction Guide
 
@@ -226,7 +222,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 1. **The Sire:** Her vampire lord still seeks her from surface
 2. **The Haven:** Hidden in sunken ship graveyard
 3. **The Cure Research:** Has partially succeeded
-4. **The Surface Tunnel:** Direct route to [[02_Worldbuilding/Places/Market District]]
+4. **The Surface Tunnel:** Direct route to [[Market District]]
 5. **The Pearl Cultivation:** Feeds pearls her blood
 6. **The Restoration Funding:** Profits from chaos
 7. **The Guard Captain:** Controls harbor security
@@ -302,16 +298,16 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
+- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[02_Worldbuilding/People/Blood in the Water]]
-- [[02_Worldbuilding/People/Surface Syndicate]]
-- [[02_Worldbuilding/People/The Barnacle]]
-- [[02_Worldbuilding/People/The Pearl Heist]]
-- [[02_Worldbuilding/Quests/High Tidecaller Nerissa]]
+- [[Aboleth Prime Yoth]]
+- [[Blood in the Water]]
+- [[Surface Syndicate]]
+- [[The Barnacle]]
+- [[The Pearl Heist]]
+- [[High Tidecaller Nerissa]]

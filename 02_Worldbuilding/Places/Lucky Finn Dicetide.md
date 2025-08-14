@@ -14,23 +14,20 @@ world: Both
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-lucky-finn-dicetide-lucky-finn-dicetide.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[Captain Garrett Stormcutter]]
+- [[Harbor Master Luna Freedrift]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 

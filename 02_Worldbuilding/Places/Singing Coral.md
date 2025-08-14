@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-singing-coral-singing-coral.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-singing-coral-singing-coral.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[12_Research/D&D_Statblocks/Noble Quarter]]
 
 ## Player-Facing Summary
 

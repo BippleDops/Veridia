@@ -26,12 +26,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-morkoth-mpmm-morkoth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/morkoth-mpmm|Morkoth]]
+# [[morkoth-mpmm|Morkoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [[/03_Mechanics/CLI/conditions#Petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[/03_Mechanics/CLI/conditions#Petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [[conditions#Petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[conditions#Petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -70,13 +70,13 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "telepathy 120 ft."
@@ -92,19 +92,19 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
       \ + 2) slashing damage plus 10 (3d6) psychic damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 15\
-      \ (3d8 + 2) bludgeoning damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (3d8 + 2) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]] and\
+      \ the target is [[conditions#Restrained|restrained]] and\
       \ takes 15 (3d8 + 2) bludgeoning damage at the start of each of its turns, and\
       \ the morkoth can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature\
       \ in that area must make a DC 17 Wisdom saving throw. On a failed save, the\
-      \ creature is [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by the morkoth\
-      \ for 1 minute. While [[/03_Mechanics/CLI/conditions#Charmed|charmed]] in this\
+      \ creature is [[conditions#Charmed|charmed]] by the morkoth\
+      \ for 1 minute. While [[conditions#Charmed|charmed]] in this\
       \ way, the target tries to get as close to the morkoth as possible, using its\
-      \ actions to [[/03_Mechanics/CLI/actions#Dash|Dash]] until it is within 5 feet\
-      \ of the morkoth. A [[/03_Mechanics/CLI/conditions#Charmed|charmed]] target\
+      \ actions to [[actions#Dash|Dash]] until it is within 5 feet\
+      \ of the morkoth. A [[conditions#Charmed|charmed]] target\
       \ can repeat the saving throw at the end of each of its turns and whenever it\
       \ takes damage, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature has advantage\
@@ -112,11 +112,11 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
-      \ [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]]\n\n3/day each:\
-      \ [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]], [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]],\
-      \ [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]], [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|lightning bolt]],\
-      \ [[/03_Mechanics/CLI/spells/sending-xphb|sending]]"
+      \ DC 17):\n\nAt will: [[detect-magic-xphb|detect magic]],\
+      \ [[mage-hand-xphb|mage hand]]\n\n3/day each:\
+      \ [[darkness-xphb|darkness]], [[dimension-door-xphb|dimension door]],\
+      \ [[dispel-magic-xphb|dispel magic]], [[lightning-bolt-xphb|lightning bolt]],\
+      \ [[sending-xphb|sending]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\

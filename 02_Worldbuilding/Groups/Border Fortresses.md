@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-border-fortresses-border-fortresses.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-border-fortresses-border-fortresses.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

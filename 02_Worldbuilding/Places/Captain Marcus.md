@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- aquatic
 - aquabyssos
 - campaign/arc
 - captain
@@ -25,11 +28,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg]]
 
 
 # Captain Marcus
@@ -51,12 +50,14 @@ Marcus is a weathered human in his mid-forties, with salt-and-pepper hair kept i
 He wears a modified naval uniform designed for underwater operations, complete with rank insignia and a captain's coat that has been enchanted for protection against pressure and cold. His most distinctive feature is an ornate trident badge that marks him as a certified deep-sea commander, earned through trials that few survive.
 
 ## Personality
+
 - Absolutely dedicated to the defense of Aquabyssos and its citizens
 - Disciplined military bearing with natural leadership qualities
 - Pragmatic approach to problems balanced by strong moral principles
 - Protective of his crew while demanding the highest standards of performance
 
 ## Statistics
+
 **Medium humanoid (human), lawful good**
 - **AS** 18 (Naval Plate)
 - **HP** 112 (15d10 + 30)
@@ -68,6 +69,7 @@ He wears a modified naval uniform designed for underwater operations, complete w
 - **Challenge** 8 (3,900 XP)
 
 ### Special Abilities
+
 **Tactical Leadership.** Marcus can use a bonus action to grant an ally within 30 feet advantage on their next attack roll or saving throw.
 
 **Deep Sea Veteran.** Marcus has advantage on saving throws against pressure, cold, and fear effects. He can function normally at any depth.
@@ -77,6 +79,7 @@ He wears a modified naval uniform designed for underwater operations, complete w
 **Naval Authority.** When aboard any naval vessel, Marcus gains legendary actions and his crew operates with enhanced efficiency.
 
 ### Actions
+
 **Multiattack.** Marcus makes three attacks: two with his enchanted cutlass and one command action.
 
 **Enchanted Naval Cutlass +2.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) slashing damage plus 4 (1d8) force damage.
@@ -86,6 +89,7 @@ He wears a modified naval uniform designed for underwater operations, complete w
 **Depth Charge (1/day).** Marcus can activate a magical explosive that creates a 20-foot radius underwater blast dealing 6d6 thunder damage (DC 16 Dex save for half).
 
 ### Legendary Actions (3 per turn, when aboard naval vessel)
+
 **Move.** Marcus moves up to his speed.
 **Attack.** Marcus makes one cutlass attack.
 **Tactical Command (Costs 2 Actions).** Marcus grants an ally advantage on their next action and allows them to move up to their speed without provoking opportunity attacks.
@@ -105,6 +109,7 @@ With political tensions rising within the city, Marcus has increased his patrols
 He's also been quietly preparing contingency plans for various scenarios, including the possibility that political conflicts might disrupt normal defensive operations or that external enemies might try to exploit the city's internal divisions.
 
 ## Relationships
+
 - **Aquabyssos Naval Command**: Respected senior officer and tactical advisor
 - **His Crew**: Deeply loyal followers who would follow him anywhere
 - **City Defense Council**: Provides intelligence and recommendations on external threats
@@ -112,6 +117,7 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 - **Deep-Sea Exploration Corps**: Collaborates on reconnaissance and scientific missions
 
 ## Secrets
+
 - Has detected signs of coordinated surveillance by unknown underwater forces
 - Maintains secret supply caches for emergency defense of the city
 - Discovered evidence of ancient ruins in the deep trenches that may pose a threat
@@ -119,11 +125,13 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 - Possesses classified intelligence about threats that could endanger civilian morale if revealed
 
 ## Quest Hooks
+
 1. Marcus approaches the party with evidence of external threats to the city, needing discrete investigators who can operate outside official channels.
 2. The party requires naval transport for a dangerous mission, leading them to negotiate with Marcus for the use of his ship and crew.
 3. Strange signals from the deep ocean suggest an imminent threat, and Marcus needs the party's help to investigate without alarming the civilian population.
 
 ## DM Notes
+
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
 
 
@@ -172,6 +180,10 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Captain Marcus]]
+- [[12_Research/D&D_References/Captain Marcus]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

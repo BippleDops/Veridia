@@ -38,9 +38,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You touch a creature and end the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on saving throws to avoid or end the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition, and it has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Poison damage.
+You touch a creature and end the [[conditions#Poisoned|Poisoned]] condition on it. For the duration, the target has [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition, and it has [[resistance-xphb|Resistance]] to Poison damage.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

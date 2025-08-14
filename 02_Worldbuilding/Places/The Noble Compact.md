@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-noble-compact-the-noble-compact.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-noble-compact-the-noble-compact.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[Noble Quarter]]
 
 ## Player-Facing Summary
 

@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/sled-dog-rot|Sled Dog]]
+# [[sled-dog-rot|Sled Dog]]
 *Source: The Rise of Tiamat p. 27*  
 
 ```statblock
@@ -49,25 +49,25 @@ world: Both
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The dog has advantage on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+  - "desc": "The dog has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The dog has advantage on an attack roll against a creature if at least\
       \ one of the dog's allies is within 5 feet of the creature and the ally isn't\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 11 Strength saving throw or be knocked [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ 11 Strength saving throw or be knocked [[conditions#Prone|prone]]."
     "name": "Bite"
 "source":
   - "RoT"

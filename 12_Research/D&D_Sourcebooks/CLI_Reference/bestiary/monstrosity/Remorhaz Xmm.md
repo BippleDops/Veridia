@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-remorhaz-xmm-remorhaz-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/remorhaz-xmm|Remorhaz]]
+# [[remorhaz-xmm|Remorhaz]]
 *Source: Monster Manual (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Full-grown remorhazes are single-minded ambush predators. They attempt to bite prey and trap it against their searing bodies, then swallow their meal whole. Remorhazes eat as much as they can, since they might go months without feeding.
@@ -65,32 +65,32 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "cr": "11"
 "traits":
   - "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot\
-      \ [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the remorhaz takes 16 (3d10) Fire damage."
     "name": "Heat Aura"
 "actions":
   - "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing\
       \ damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature,\
-      \ it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
-      \ DC 17), and it has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ it has the [[conditions#Grappled|Grappled]] condition (escape\
+      \ DC 17), and it has the [[conditions#Restrained|Restrained]]\
       \ condition until the grapple ends."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [[conditions#Grappled|Grappled]]\
       \ by the remorhaz (it can have up to two creatures swallowed at a time). Failure:\
-      \ The target is swallowed by the remorhaz, and the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
-      \ condition ends. A swallowed creature has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
-      \ and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] conditions, it\
-      \ has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]] against attacks\
+      \ The target is swallowed by the remorhaz, and the [[conditions#Grappled|Grappled]]\
+      \ condition ends. A swallowed creature has the [[conditions#Blinded|Blinded]]\
+      \ and [[conditions#Restrained|Restrained]] conditions, it\
+      \ has [[cover-xphb|Total Cover]] against attacks\
       \ and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage\
       \ plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.\n\n\
       If the remorhaz takes 30 damage or more on a single turn from a creature inside\
       \ it, the remorhaz must succeed on a DC 15 Constitution saving throw at the\
       \ end of that turn or regurgitate all swallowed creatures, each of which falls\
-      \ in a space within 5 feet of the remorhaz and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ in a space within 5 feet of the remorhaz and has the [[conditions#Prone|Prone]]\
       \ condition. If the remorhaz dies, any swallowed creature no longer has the\
-      \ [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and can\
-      \ escape from the corpse by using 15 feet of movement, exiting [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
+      \ [[conditions#Restrained|Restrained]] condition and can\
+      \ escape from the corpse by using 15 feet of movement, exiting [[conditions#Prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"

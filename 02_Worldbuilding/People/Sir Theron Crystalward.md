@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-sir-theron-crystalward-sir-theron-crystalward.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sir-theron-crystalward-sir-theron-crystalward.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sir Theron Crystalward]]
+- [[Sir Theron Crystalward]]
 
 <!-- enriched: true -->

@@ -15,22 +15,15 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg]]
 
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 *The Suspended Emperor, He Who Breathes Water, The Eternal Sovereign of Depths*
 
 ## Overview
-The Throne of Bubbles is both a person and an institution—the ancient ruler who has literally become one with their seat of power. For over four centuries, this sovereign has ruled [[02_Worldbuilding/Places/Abyssos Prime]] from within a massive throne made of living coral and perpetual bubble streams. The current occupant, whose original name has been forgotten by all but themselves, exists in a state of suspended animation, breathing both air and water simultaneously while making pronouncements that ripple through the currents of political power.
+The Throne of Bubbles is both a person and an institution—the ancient ruler who has literally become one with their seat of power. For over four centuries, this sovereign has ruled [[Abyssos Prime]] from within a massive throne made of living coral and perpetual bubble streams. The current occupant, whose original name has been forgotten by all but themselves, exists in a state of suspended animation, breathing both air and water simultaneously while making pronouncements that ripple through the currents of political power.
 
 The Throne itself is a marvel of ancient magic—a living coral structure that continuously generates streams of luminescent bubbles carrying the sovereign's consciousness throughout the underwater realm. The ruler's body has partially merged with the throne over centuries, making it unclear where the person ends and the seat of power begins.
 
@@ -66,7 +59,7 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - **Bubble Network**: Can communicate instantly with any location where bubbles exist
 - **Current Control**: Influences ocean currents and water flow throughout the realm
 - **Divine Right**: Recognized as chosen by the ancient sea powers
-- **Veto Authority**: Can override any decision by the [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Veto Authority**: Can override any decision by the [[Parliament of Echoes]]
 
 ### The Bubble Court
 - **Coral Courtiers**: Nobles who have undergone partial transformation to serve the throne
@@ -108,32 +101,32 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 
 ## Relationships
 ### The Inner Circle
-- **[[02_Worldbuilding/People/High Chamberlain Nautilus Deepcurrent]]**: Chief advisor and throne interpreter
-- **[[02_Worldbuilding/People/Emperor Thalassius]]**: Complex relationship—both rivals and allies
-- **[[02_Worldbuilding/People/Coral Duchess Amphitrite]]**: Most trusted noble, manages court politics
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Religious advisor providing spiritual guidance
-- **[[02_Worldbuilding/People/Master of Currents Poseidon]]**: Naval commander controlling realm's waters
+- **[[High Chamberlain Nautilus Deepcurrent]]**: Chief advisor and throne interpreter
+- **[[Emperor Thalassius]]**: Complex relationship—both rivals and allies
+- **[[Coral Duchess Amphitrite]]**: Most trusted noble, manages court politics
+- **[[High Priestess Scylla Deepdream]]**: Religious advisor providing spiritual guidance
+- **[[Master of Currents Poseidon]]**: Naval commander controlling realm's waters
 
 ### Political Allies
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Respects democratic institution while maintaining veto power
-- **[[02_Worldbuilding/People/The Ancient Nobility]]**: Traditional aristocrats who support throne authority
-- **[[02_Worldbuilding/Places/Temple of the Deep Waters]]**: Religious institutions recognizing divine mandate
-- **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Military forces sworn to throne protection
+- **[[Parliament of Echoes]]**: Respects democratic institution while maintaining veto power
+- **[[The Ancient Nobility]]**: Traditional aristocrats who support throne authority
+- **[[Temple of the Deep Waters]]**: Religious institutions recognizing divine mandate
+- **[[The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Military forces sworn to throne protection
 - **[[Coral Merchants Guild]]**: Commercial interests benefiting from stable rule
 
 ### Complex Relations
-- **[[02_Worldbuilding/People/Duke Cyrus Reefheart]]**: Respects his biological evolution but questions methods
-- **[[02_Worldbuilding/People/Archon Meredith Saltweaver]]**: Political rival who challenges throne authority
-- **[[02_Worldbuilding/People/The Free Current Movement]]**: Tolerates republican sentiment while maintaining sovereignty
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Diplomatic necessity despite suspicious activities
-- **[[02_Worldbuilding/People/Shadow Brokers]]**: Acknowledges their usefulness while disapproving of methods
+- **[[Duke Cyrus Reefheart]]**: Respects his biological evolution but questions methods
+- **[[Archon Meredith Saltweaver]]**: Political rival who challenges throne authority
+- **[[The Free Current Movement]]**: Tolerates republican sentiment while maintaining sovereignty
+- **[[Ambassador Korvin Blacktide]]**: Diplomatic necessity despite suspicious activities
+- **[[Shadow Brokers]]**: Acknowledges their usefulness while disapproving of methods
 
 ### Enemies & Threats
-- **[[02_Worldbuilding/People/The Republican Coalition]]**: Political movement seeking to abolish monarchy
-- **[[02_Worldbuilding/People/Deep Anarchists]]**: Extremists wanting to destroy all government
-- **[[02_Worldbuilding/Lore/The Deep Mother]] Cultists**: Religious fanatics threatening realm stability
-- **[[02_Worldbuilding/People/Surface Supremacists]]**: Groups seeking to reverse the Great Drowning
-- **[[02_Worldbuilding/People/The Throne Pretenders]]**: Various claimants to royal authority
+- **[[The Republican Coalition]]**: Political movement seeking to abolish monarchy
+- **[[Deep Anarchists]]**: Extremists wanting to destroy all government
+- **[[The Deep Mother]] Cultists**: Religious fanatics threatening realm stability
+- **[[Surface Supremacists]]**: Groups seeking to reverse the Great Drowning
+- **[[The Throne Pretenders]]**: Various claimants to royal authority
 
 ## Current Political Situation
 ### The Succession Question
@@ -144,7 +137,7 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - Ancient prophecies suggest major changes coming to the throne
 
 ### The Democratic Pressure
-- [[02_Worldbuilding/Places/Parliament of Echoes]] increasingly assertive in authority
+- [[Parliament of Echoes]] increasingly assertive in authority
 - Citizens questioning need for absolute monarchy in modern era
 - Younger generations less reverent toward traditional royal authority
 - Economic pressures demanding more responsive government
@@ -250,25 +243,25 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - **Divine Authority**: Legitimizes government through supernatural mandate
 
 ## Connected NPCs & Relationships
-- **[[02_Worldbuilding/People/High Chamberlain Nautilus Deepcurrent]]**: Chief advisor and court interpreter
-- **[[02_Worldbuilding/People/Emperor Thalassius]]**: Fellow ancient ruler and sometimes rival
-- **[[02_Worldbuilding/People/Coral Duchess Amphitrite]]**: Most trusted noble and political manager
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Religious advisor
-- **[[02_Worldbuilding/People/Master of Currents Poseidon]]**: Naval commander and water controller
+- **[[High Chamberlain Nautilus Deepcurrent]]**: Chief advisor and court interpreter
+- **[[Emperor Thalassius]]**: Fellow ancient ruler and sometimes rival
+- **[[Coral Duchess Amphitrite]]**: Most trusted noble and political manager
+- **[[High Priestess Scylla Deepdream]]**: Religious advisor
+- **[[Master of Currents Poseidon]]**: Naval commander and water controller
 
 ## Connected Locations
-- **[[02_Worldbuilding/People/The Throne Chamber of Eternal Bubbles]]**: Primary location and source of power
-- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Capital city under throne authority
-- **[[02_Worldbuilding/Places/The Coral Palace Complex]]**: Royal residence and government center
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Democratic institution balanced with royal authority
-- **[[02_Worldbuilding/People/The Royal Treasury Depths]]**: Economic resources supporting the monarchy
+- **[[The Throne Chamber of Eternal Bubbles]]**: Primary location and source of power
+- **[[Abyssos Prime]]**: Capital city under throne authority
+- **[[The Coral Palace Complex]]**: Royal residence and government center
+- **[[Parliament of Echoes]]**: Democratic institution balanced with royal authority
+- **[[The Royal Treasury Depths]]**: Economic resources supporting the monarchy
 
 ## Involved Quests
-- **[[02_Worldbuilding/People/Quest - The Throne Succession]]**: Determining next ruler and transition method
-- **[[02_Worldbuilding/People/Quest - The Failing Magic]]**: Investigating weakening of throne's ancient power
-- **[[02_Worldbuilding/People/Quest - The Democratic Balance]]**: Mediating monarchy-parliament tensions
-- **[[02_Worldbuilding/People/Quest - The Corruption Cleansing]]**: Purifying royal magical systems
-- **[[02_Worldbuilding/People/Quest - The Ancient Compact]]**: Renewing or renegotiating the divine agreement
+- **[[Quest - The Throne Succession]]**: Determining next ruler and transition method
+- **[[Quest - The Failing Magic]]**: Investigating weakening of throne's ancient power
+- **[[Quest - The Democratic Balance]]**: Mediating monarchy-parliament tensions
+- **[[Quest - The Corruption Cleansing]]**: Purifying royal magical systems
+- **[[Quest - The Ancient Compact]]**: Renewing or renegotiating the divine agreement
 
 ## DM Notes
 ### Role in Campaign
@@ -295,9 +288,9 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Parasite Priests]]
-- [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[The Parasite Priests]]
+- [[The Scattered Emperor]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 
@@ -315,7 +308,7 @@ Legends speak of Throne of Bubbles as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[Throne of Bubbles]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[Vault Keeper Eternal]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[Vault Keeper Eternal]]
 
 ## Player-Facing Summary
 

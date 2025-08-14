@@ -14,13 +14,9 @@ world: Both
 ---
 
 
-
-
-
-
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[The Shadow Trade Network]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

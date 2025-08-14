@@ -33,9 +33,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to Psychic damage and the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even [[/03_Mechanics/CLI/spells/wish-xphb|Wish]]—can gather information about the target, observe it remotely, or control its mind.
+Until the spell ends, one willing creature you touch has [[immunity-xphb|Immunity]] to Psychic damage and the [[conditions#Charmed|Charmed]] condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even [[wish-xphb|Wish]]—can gather information about the target, observe it remotely, or control its mind.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

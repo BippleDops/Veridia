@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-shadowport-shadowport.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-shadowport-shadowport.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[The Floating Market]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[The Floating Market]]
 
 ## Player-Facing Summary
 

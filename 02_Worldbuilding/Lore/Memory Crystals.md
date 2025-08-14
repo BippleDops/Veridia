@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,19 +15,16 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[12_Research/D&D_Statblocks/The Crown's Burden]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Aboleth Prime Yoth]]
+- [[12_Research/D&D_Statblocks/The Crown's Burden]]
 
 ## Player-Facing Summary
 

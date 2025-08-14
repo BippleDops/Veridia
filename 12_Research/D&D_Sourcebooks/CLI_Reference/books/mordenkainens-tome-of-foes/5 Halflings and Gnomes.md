@@ -186,7 +186,7 @@ The Halfling Deities table lists the members of the halfling pantheon. For each 
 
 #### Halfling Deities
 
-![[/03_Mechanics/CLI/tables/halfling-deities-mtf|Halfling Deities]]
+![[halfling-deities-mtf|Halfling Deities]]
 
 #### Yondalla
 
@@ -307,15 +307,15 @@ Of course, not every journey into the world involves risking one's life or claim
 
 This section provides a number of tables useful for players and DMs who want to choose or randomly generate details about halfling characters or villages.
 
-![[/03_Mechanics/CLI/tables/halfling-tables-halfling-personality-traits-mtf|Halfling Tables; Halfling Personality Traits]]
+![[halfling-tables-halfling-personality-traits-mtf|Halfling Tables; Halfling Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/halfling-tables-halfling-ideals-mtf|Halfling Tables; Halfling Ideals]]
+![[halfling-tables-halfling-ideals-mtf|Halfling Tables; Halfling Ideals]]
 
-![[/03_Mechanics/CLI/tables/halfling-tables-halfling-bonds-mtf|Halfling Tables; Halfling Bonds]]
+![[halfling-tables-halfling-bonds-mtf|Halfling Tables; Halfling Bonds]]
 
-![[/03_Mechanics/CLI/tables/halfling-tables-halfling-flaws-mtf|Halfling Tables; Halfling Flaws]]
+![[halfling-tables-halfling-flaws-mtf|Halfling Tables; Halfling Flaws]]
 
-![[/03_Mechanics/CLI/tables/halfling-tables-reasons-for-adventuring-mtf|Halfling Tables; Reasons for Adventuring]]
+![[halfling-tables-reasons-for-adventuring-mtf|Halfling Tables; Reasons for Adventuring]]
 
 ## Gnomes
 
@@ -462,7 +462,7 @@ A consensus of sorts emerges from the totality of these beliefs. Most gnomes bel
 
 The Gnome Deities table lists the members of the gnome pantheon. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described below.
 
-![[/03_Mechanics/CLI/tables/gnome-gods-gnome-deities-mtf|Gnome Gods; Gnome Deities]]
+![[gnome-gods-gnome-deities-mtf|Gnome Gods; Gnome Deities]]
 
 #### Garl Glittergold
 
@@ -607,19 +607,19 @@ A deep gnome, pragmatic and cautious, brings a sense of duty rather than a sense
 
 At the DM's discretion, you can play a deep gnome character. When you choose the subrace of your gnome, you can choose deep gnome, using the following rules to create your character.
 
-- [[/03_Mechanics/CLI/races/gnome-deep-mtf|Gnome (Deep)]]  
+- [[gnome-deep-mtf|Gnome (Deep)]]  
 
 ## Gnome Tables
 
 This section provides several tables useful for players and DMs who want to create gnome characters.
 
-![[/03_Mechanics/CLI/tables/gnome-tables-gnome-personality-traits-mtf|Gnome Tables; Gnome Personality Traits]]
+![[gnome-tables-gnome-personality-traits-mtf|Gnome Tables; Gnome Personality Traits]]
 
-![[/03_Mechanics/CLI/tables/gnome-tables-gnome-ideals-mtf|Gnome Tables; Gnome Ideals]]
+![[gnome-tables-gnome-ideals-mtf|Gnome Tables; Gnome Ideals]]
 
-![[/03_Mechanics/CLI/tables/gnome-tables-gnome-bonds-mtf|Gnome Tables; Gnome Bonds]]
+![[gnome-tables-gnome-bonds-mtf|Gnome Tables; Gnome Bonds]]
 
-![[/03_Mechanics/CLI/tables/gnome-tables-gnome-flaws-mtf|Gnome Tables; Gnome Flaws]]
+![[gnome-tables-gnome-flaws-mtf|Gnome Tables; Gnome Flaws]]
 
 ## Player-Facing Summary
 

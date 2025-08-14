@@ -26,7 +26,7 @@ world: Both
 ---
 
 
-# [[3-Mechanics\CLI\bestiary\fey/meenlock-mpmm|Meenlock]]
+# [[meenlock-mpmm|Meenlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -37,7 +37,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[/03_Mechanics/CLI/conditions#Frightened|frightened]] condition. If the creature is susceptible and remains [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[/03_Mechanics/CLI/spells/wish-xphb|wish]] spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [[conditions#Incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[conditions#Frightened|frightened]] condition. If the creature is susceptible and remains [[conditions#Incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[conditions#Incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[wish-xphb|wish]] spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock (MPMM)"
@@ -58,29 +58,29 @@ Up to four meenlocks can telepathically torment one [[/03_Mechanics/CLI/conditio
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Survival|Survival]]"
+  - "name": "[[skills#Survival|Survival]]"
     "desc": "+2"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
   - "desc": "Any Beast or Humanoid that starts its turn within 10 feet of the meenlock\
-      \ must succeed on a DC 11 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
       \ until the start of the creature's next turn."
     "name": "Fear Aura"
   - "desc": "While in bright light, the meenlock has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]])\
+      \ as well as on Wisdom ([[skills#Perception|Perception]])\
       \ checks that rely on sight."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] for\
+      \ saving throw or be [[conditions#Paralyzed|paralyzed]] for\
       \ 1 minute. The target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Claw"

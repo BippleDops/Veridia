@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-brain-mpmm-elder-brain-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/elder-brain-mpmm|Elder Brain]]
+# [[elder-brain-mpmm|Elder Brain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*  
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -72,15 +72,15 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "wisdom": !!int "9"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+10"
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+12"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+14"
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+12"
-  - "name": "[[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]"
+  - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+12"
 "senses": "blindsight 120 ft., passive Perception 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
@@ -90,8 +90,8 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain is aware of creatures within 5 miles of it that have\
       \ an Intelligence score of 4 or higher. It knows the distance and direction\
       \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]]\
-      \ spell, a [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]] spell,\
+      \ anything else about it. A creature protected by a [[mind-blank-xphb|mind blank]]\
+      \ spell, a [[nondetection-xphb|nondetection]] spell,\
       \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "If the elder brain fails a saving throw, it can choose to succeed instead."
@@ -106,31 +106,31 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20\
       \ (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it is [[/03_Mechanics/CLI/conditions#Grappled|grappled]] (escape DC 15) and\
+      \ it is [[conditions#Grappled|grappled]] (escape DC 15) and\
       \ takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the\
-      \ grapple ends. The elder brain can have up to four targets [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ grapple ends. The elder brain can have up to four targets [[conditions#Grappled|grappled]]\
       \ at a time."
     "name": "Tentacle"
   - "desc": "Creatures of the elder brain's choice within 60 feet of it must succeed\
       \ on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage\
-      \ and be [[/03_Mechanics/CLI/conditions#Stunned|stunned]] for 1 minute. A target\
+      \ and be [[conditions#Stunned|stunned]] for 1 minute. A target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 18):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|detect thoughts]],\
-      \ [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]]\n\n3/day: [[/03_Mechanics/CLI/spells/modify-memory-xphb|modify\
+      \ DC 18):\n\nAt will: [[detect-thoughts-xphb|detect thoughts]],\
+      \ [[levitate-xphb|levitate]]\n\n3/day: [[modify-memory-xphb|modify\
       \ memory]]\n\n1/day each:\
-      \ [[/03_Mechanics/CLI/spells/dominate-monster-xphb|dominate monster]], [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane\
+      \ [[dominate-monster-xphb|dominate monster]], [[plane-shift-xphb|plane\
       \ shift]] (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
-  - "desc": "The elder brain targets one [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
+  - "desc": "The elder brain targets one [[conditions#Incapacitated|incapacitated]]\
       \ creature it senses with its Creature Sense trait and establishes a psychic\
       \ link with the target. Until the link ends, the elder brain can perceive everything\
       \ the target senses. The target becomes aware that something is linked to its\
-      \ mind once it is no longer [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]],\
+      \ mind once it is no longer [[conditions#Incapacitated|incapacitated]],\
       \ and the elder brain can terminate the link at any time (no action required).\
       \ The target can use an action on its turn to attempt to break the link, doing\
       \ so with a successful DC 18 Charisma saving throw. On a successful save, the\
@@ -144,7 +144,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "name": "Sense Thoughts"
 "legendary_actions":
   - "desc": "The elder brain targets one creature within 120 feet of it with which\
-      \ it has a psychic link. The elder brain breaks the creature's [[/03_Mechanics/CLI/conditions#Concentration|concentration]]\
+      \ it has a psychic link. The elder brain breaks the creature's [[conditions#Concentration|concentration]]\
       \ on a spell it has cast. The creature also takes 2 (d4) psychic damage per\
       \ level of the spell."
     "name": "Break Concentration"

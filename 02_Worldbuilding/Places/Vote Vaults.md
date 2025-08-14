@@ -9,6 +9,9 @@ obsidianUIMode: preview
 security_level: maximum
 status: complete
 tags:
+- session-notes
+- crystal-enhanced
+- shadow-touched
 - access/secret
 - aquabyssos
 - complete
@@ -26,11 +29,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-vote-vaults-v1-vote-vaults.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vote-vaults-v1-vote-vaults.svg]]
 
 
 # Vote Vaults
@@ -41,13 +41,14 @@ world: Aquabyssos
 
 The Vote Vaults are among the most dangerous secrets in Aquabyssos - a sophisticated network of hidden chambers where the city's elections are truly decided, long before citizens cast their votes. This underground complex serves as the operational headquarters for political manipulation, vote buying, and electoral fraud on a massive scale.
 
-Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vaults represent the shadow government's most critical infrastructure. Here, political outcomes are predetermined through a combination of bribery, blackmail, memory manipulation, and when necessary, elimination of uncooperative candidates. The Vaults ensure that only approved individuals reach positions of power, maintaining the illusion of democracy while exercising absolute control.
+Built beneath the [[12_Research/D&D_References/Parliament of Echoes]], the Vote Vaults represent the shadow government's most critical infrastructure. Here, political outcomes are predetermined through a combination of bribery, blackmail, memory manipulation, and when necessary, elimination of uncooperative candidates. The Vaults ensure that only approved individuals reach positions of power, maintaining the illusion of democracy while exercising absolute control.
 
 ## The Seven Chambers
 
 ### Chamber 1: The Candidate Registry
+
 **Purpose**: Screening and approving all potential political candidates
-**Guardian**: [[02_Worldbuilding/Places/Registry Keeper Mordecai Truthbane]]
+**Guardian**: [[12_Research/D&D_References/Registry Keeper Mordecai Truthbane]]
 **Security**: Magical compulsion zones preventing lies or evasion
 
 **The Approval Process**:
@@ -65,8 +66,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Succession Plans**: Predetermined replacement candidates
 
 ### Chamber 2: The Vote Manipulation Engine
+
 **Purpose**: Technical apparatus for altering election outcomes
-**Chief Operator**: [[02_Worldbuilding/Lore/Vote Engineer Abyssal Cog]]
+**Chief Operator**: [[12_Research/D&D_References/Vote Engineer Abyssal Cog]]
 **Technology**: Magical crystals linked to all voting locations
 
 **Manipulation Methods**:
@@ -84,8 +86,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Future Planning**: Predictive models for upcoming elections
 
 ### Chamber 3: The Bribery Exchange
+
 **Purpose**: Systematic corruption of voters and officials
-**Director**: [[02_Worldbuilding/Lore/Corruption Broker Silver Currentfloat]]
+**Director**: [[12_Research/D&D_References/Corruption Broker Silver Currentfloat]]
 **Annual Budget**: Estimated 800,000 gold pieces
 
 **Bribery Categories**:
@@ -103,8 +106,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Career Advancement**: Guaranteed positions and promotions
 
 ### Chamber 4: The Blackmail Archive
+
 **Purpose**: Storage and management of compromising information
-**Archivist**: [[02_Worldbuilding/Places/Keeper of Secrets Whisper Darkhold]]
+**Archivist**: [[12_Research/D&D_References/Keeper of Secrets Whisper Darkhold]]
 **Contents**: Compromising information on 80% of city officials
 
 **Information Categories**:
@@ -122,8 +126,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Social Engineering**: Manipulation of relationships to gather intelligence
 
 ### Chamber 5: The Elimination Planning Center
+
 **Purpose**: Coordinating assassination and removal of problematic individuals
-**Commander**: [[02_Worldbuilding/Lore/Death Planner Void the Inevitable]]
+**Commander**: [[12_Research/D&D_References/Death Planner Void the Inevitable]]
 **Network**: Connections to all major criminal organizations
 
 **Elimination Methods**:
@@ -141,8 +146,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Revolutionary Leaders**: Those seeking to expose or overthrow shadow government
 
 ### Chamber 6: The Memory Modification Laboratory
+
 **Purpose**: Large-scale memory alteration and consciousness manipulation
-**Chief Researcher**: [[Mind Surgeon Dr. Forget-Me-Always]]
+**Chief Researcher**: [[12_Research/D&D_References/Mind Surgeon Dr. Forget-Me-Always]]
 **Capabilities**: Can modify memories of hundreds of people simultaneously
 
 **Memory Services**:
@@ -160,8 +166,9 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 - **Cultural Programming**: Altering deeply held beliefs and values
 
 ### Chamber 7: The Deep Archive
+
 **Purpose**: Ultimate repository of political secrets and contingency plans
-**Guardian**: [[02_Worldbuilding/Lore/The Eternal Chronicler]] (may not be human)
+**Guardian**: [[12_Research/D&D_References/The Eternal Chronicler]] (may not be human)
 **Classification**: Access restricted to highest levels of shadow government
 
 **Archive Contents**:
@@ -181,12 +188,13 @@ Built beneath the [[02_Worldbuilding/Places/Parliament of Echoes]], the Vote Vau
 ## Access and Security
 
 ### The Five Keys
+
 Access to Vote Vaults requires five different keys, held by:
-1. **[[02_Worldbuilding/Places/Shadow Chancellor]]**: Primary political authority
-2. **[[02_Worldbuilding/Places/The Shadow Markets]]** leadership: Criminal organization coordination
-3. **[[02_Worldbuilding/Places/Secret Vault Beneath Throne]]**: Royal government connection
-4. **[[02_Worldbuilding/Places/Deepmind Conspiracy]]**: Intelligence network coordination
-5. **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]]** Speaker: Legitimate government facade
+1. **[[12_Research/D&D_References/Shadow Chancellor]]**: Primary political authority
+2. **[[12_Research/D&D_References/The Shadow Markets]]** leadership: Criminal organization coordination
+3. **[[12_Research/D&D_References/Secret Vault Beneath Throne]]**: Royal government connection
+4. **[[12_Research/D&D_References/Deepmind Conspiracy]]**: Intelligence network coordination
+5. **[[12_Research/D&D_References/The Parliament of Echoes]]** Speaker: Legitimate government facade
 
 ### Security Layers
 
@@ -217,7 +225,8 @@ Access to Vote Vaults requires five different keys, held by:
 ## Current Operations
 
 ### Ongoing Elections
-- **District 7 Council Race**: Ensuring [[02_Worldbuilding/Lore/Councilor Depths Controlled]] wins despite public opposition
+
+- **District 7 Council Race**: Ensuring [[12_Research/D&D_References/Councilor Depths Controlled]] wins despite public opposition
 - **Harbor Authority Election**: Installing corrupt officials to facilitate smuggling operations
 - **Judicial Selection**: Placing judges who will ignore certain criminal activities
 - **Trade Representative Voting**: Guaranteeing candidates who support shadow government economic interests
@@ -241,26 +250,30 @@ Access to Vote Vaults requires five different keys, held by:
 ## Connected Networks
 
 ### Intelligence Sharing
-**[[02_Worldbuilding/Places/Deepmind Conspiracy]]**: Primary intelligence source for political information
-**[[02_Worldbuilding/Places/The Silent Watcher]]**: Surveillance coordination and threat detection
-**[[02_Worldbuilding/Places/Whisper Translation]]**: Communication with political assets in other realms
-**[[02_Worldbuilding/Places/Memory Thief]]**: Memory extraction services for political intelligence
+
+**[[12_Research/D&D_References/Deepmind Conspiracy]]**: Primary intelligence source for political information
+**[[12_Research/D&D_References/The Silent Watcher]]**: Surveillance coordination and threat detection
+**[[12_Research/D&D_References/Whisper Translation]]**: Communication with political assets in other realms
+**[[12_Research/D&D_Statblocks/Memory Thief]]**: Memory extraction services for political intelligence
 
 ### Enforcement Coordination
-**[[02_Worldbuilding/Places/Syndicate Enforcers]]**: Muscle for intimidation and elimination operations
-**[[02_Worldbuilding/Places/The Shadow Markets]]**: Financial resources and criminal services
-**[[02_Worldbuilding/Places/Shadow Market Canals]]**: Transportation for sensitive political operations
-**[[02_Worldbuilding/Places/Secret Vault Beneath Throne]]**: Royal authority coordination and legitimacy
+
+**[[12_Research/D&D_References/Syndicate Enforcers]]**: Muscle for intimidation and elimination operations
+**[[12_Research/D&D_References/The Shadow Markets]]**: Financial resources and criminal services
+**[[12_Research/D&D_References/Shadow Market Canals]]**: Transportation for sensitive political operations
+**[[12_Research/D&D_References/Secret Vault Beneath Throne]]**: Royal authority coordination and legitimacy
 
 ### Support Services
-**[[02_Worldbuilding/Places/The Forgotten Collective]]**: Identity management for undercover operatives
-**[[02_Worldbuilding/Places/The Recursion Cult]]**: Mystical services for complex political manipulation
-**[[02_Worldbuilding/Places/The Void Touched Depths]]**: Disposal of eliminated individuals and evidence
-**[[02_Worldbuilding/Places/Breaking the Deep]]**: False flag operations and controlled opposition management
+
+**[[12_Research/D&D_References/The Forgotten Collective]]**: Identity management for undercover operatives
+**[[12_Research/D&D_References/The Recursion Cult]]**: Mystical services for complex political manipulation
+**[[12_Research/D&D_Statblocks/The Void Touched Depths]]**: Disposal of eliminated individuals and evidence
+**[[12_Research/D&D_References/Breaking the Deep]]**: False flag operations and controlled opposition management
 
 ## Notable NPCs
 
 ### Registry Keeper Mordecai Truthbane
+
 *Medium humanoid (human), lawful evil*
 **Role**: Manages candidate screening and approval processes
 **Background**: Former legitimate election official who was gradually corrupted
@@ -269,6 +282,7 @@ Access to Vote Vaults requires five different keys, held by:
 **Security**: Protected by magical wards and loyal bodyguards
 
 ### Vote Engineer Abyssal Cog
+
 *Medium humanoid (variant human), neutral evil*
 **Role**: Operates the technical systems for vote manipulation
 **Background**: Genius inventor who created the magical voting system
@@ -277,6 +291,7 @@ Access to Vote Vaults requires five different keys, held by:
 **Value**: Irreplaceable technical expertise
 
 ### Corruption Broker Silver Currentfloat
+
 *Medium humanoid (halfling), chaotic evil*
 **Role**: Manages all bribery and corruption operations
 **Network**: Personal relationships with hundreds of city officials
@@ -285,6 +300,7 @@ Access to Vote Vaults requires five different keys, held by:
 **Reputation**: Known for always delivering on promises, good or bad
 
 ### The Eternal Chronicler
+
 *Unknown type and origin*
 **Role**: Guardian of the deepest political secrets
 **Mystery**: May be an artificial intelligence, ancient spirit, or something else entirely
@@ -295,6 +311,7 @@ Access to Vote Vaults requires five different keys, held by:
 ## Threats and Vulnerabilities
 
 ### Internal Threats
+
 **Power Struggles**: Competition between different chambers for influence
 **Personnel Betrayal**: Risk of workers selling information or changing loyalties
 **Technical Failures**: Breakdown of magical systems disrupting operations
@@ -302,6 +319,7 @@ Access to Vote Vaults requires five different keys, held by:
 **Moral Decay**: Gradual loss of competent personnel due to ethical concerns
 
 ### External Threats
+
 **Honest Officials**: Incorruptible individuals who resist all manipulation attempts
 **Popular Movements**: Genuine grassroots political activity threatening shadow control
 **Foreign Investigation**: Other realms discovering and exposing political manipulation
@@ -309,6 +327,7 @@ Access to Vote Vaults requires five different keys, held by:
 **Technical Innovation**: New magical or mundane methods for detecting manipulation
 
 ### Systemic Vulnerabilities
+
 **Complexity Breakdown**: System too complex to maintain indefinitely
 **Dependency Issues**: Over-reliance on specific individuals or technologies
 **Cost Escalation**: Increasing expenses threatening financial sustainability
@@ -318,16 +337,19 @@ Access to Vote Vaults requires five different keys, held by:
 ## Adventure Hooks
 
 ### Low-Level Adventures (Levels 1-4)
+
 **The Honest Candidate**: Party hired to protect genuinely popular political candidate
 **Election Irregularities**: Investigation into suspicious voting patterns
 **Missing Voters**: Citizens disappearing before important elections
 
 ### Mid-Level Adventures (Levels 5-9)
+
 **The Memory Wipe**: Large numbers of citizens losing memories of political events
 **Corruption Exposed**: Evidence of massive political manipulation surfaces
 **The Double Agent**: Party member recruited by shadow government
 
 ### High-Level Adventures (Levels 10+)
+
 **Vote Vault Discovery**: Party learns of the secret political manipulation system
 **Shadow Government War**: Conflict between legitimate and shadow governments
 **Democratic Revolution**: Citizens rise up against political manipulation
@@ -335,12 +357,15 @@ Access to Vote Vaults requires five different keys, held by:
 ## DM Secrets
 
 ### The Ultimate Truth
+
 The Vote Vaults are actually a test system created by an ancient civilization to determine if current inhabitants deserve self-governance. Failure results in external control by the original builders.
 
 ### The Real Controllers
+
 The shadow government is itself controlled by entities from another dimension who feed on political chaos and corruption.
 
 ### The Escape Clause
+
 A hidden protocol exists to restore legitimate democracy, but activating it requires sacrifice from all current shadow government members.
 
 ---
@@ -350,12 +375,12 @@ A hidden protocol exists to restore legitimate democracy, but activating it requ
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[02_Worldbuilding/Places/Shadow Market Canals]]
-- [[02_Worldbuilding/Places/The Shadow Markets]]
-- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[12_Research/D&D_References/Deepmind Conspiracy]]
+- [[12_Research/D&D_References/Parliament of Echoes - Public Gallery]]
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
+- [[12_Research/D&D_References/Shadow Market Canals]]
+- [[12_Research/D&D_References/The Shadow Markets]]
+- [[12_Research/D&D_References/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 
@@ -371,11 +396,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[12_Research/D&D_References/Vote Vaults]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Memory Thief]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Recursion Cult]]
-- [[02_Worldbuilding/Places/The Silent Watcher]]
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[12_Research/D&D_Statblocks/Memory Thief]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/The Recursion Cult]]
+- [[12_Research/D&D_References/The Silent Watcher]]
+- [[12_Research/D&D_Statblocks/The Void Touched Depths]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-weaponsmith-captain-marcus-sharpedge-v1-weaponsmith-captain-marcus-sharpedge.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-weaponsmith-captain-marcus-sharpedge-v1-weaponsmith-captain-marcus-sharpedge.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Weaponsmith Captain Marcus Sharpedge]]
+- [[Weaponsmith Captain Marcus Sharpedge]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[The Crystalline Foundry]]

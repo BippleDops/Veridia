@@ -25,18 +25,18 @@ world: Both
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [[/03_Mechanics/CLI/items/azurite-xdmg|Azurite]] (mottled deep blue) |
-| 2 | [[/03_Mechanics/CLI/items/banded-agate-xdmg|Banded agate]] (striped brown, blue, white, or red) |
-| 3 | [[/03_Mechanics/CLI/items/blue-quartz-xdmg|Blue quartz]] (pale blue) |
-| 4 | [[/03_Mechanics/CLI/items/eye-agate-xdmg|Eye agate]] (circles of gray, white, brown, blue, or green) |
-| 5 | [[/03_Mechanics/CLI/items/hematite-xdmg|Hematite]] (gray black) |
-| 6 | [[/03_Mechanics/CLI/items/lapis-lazuli-xdmg|Lapis lazuli]] (light and dark blue with yellow flecks) |
-| 7 | [[/03_Mechanics/CLI/items/malachite-xdmg|Malachite]] (striated light and dark green) |
-| 8 | [[/03_Mechanics/CLI/items/moss-agate-xdmg|Moss agate]] (pink or yellow white with mossy gray or green markings) |
-| 9 | [[/03_Mechanics/CLI/items/obsidian-xdmg|Obsidian]] (black) |
-| 10 | [[/03_Mechanics/CLI/items/rhodochrosite-xdmg|Rhodochrosite]] (light pink) |
-| 11 | [[/03_Mechanics/CLI/items/tiger-eye-xdmg|Tiger eye]] (brown with golden center) |
-| 12 | [[/03_Mechanics/CLI/items/turquoise-xdmg|Turquoise]] (light blue green) |
+| 1 | [[azurite-xdmg|Azurite]] (mottled deep blue) |
+| 2 | [[banded-agate-xdmg|Banded agate]] (striped brown, blue, white, or red) |
+| 3 | [[blue-quartz-xdmg|Blue quartz]] (pale blue) |
+| 4 | [[eye-agate-xdmg|Eye agate]] (circles of gray, white, brown, blue, or green) |
+| 5 | [[hematite-xdmg|Hematite]] (gray black) |
+| 6 | [[lapis-lazuli-xdmg|Lapis lazuli]] (light and dark blue with yellow flecks) |
+| 7 | [[malachite-xdmg|Malachite]] (striated light and dark green) |
+| 8 | [[moss-agate-xdmg|Moss agate]] (pink or yellow white with mossy gray or green markings) |
+| 9 | [[obsidian-xdmg|Obsidian]] (black) |
+| 10 | [[rhodochrosite-xdmg|Rhodochrosite]] (light pink) |
+| 11 | [[tiger-eye-xdmg|Tiger eye]] (brown with golden center) |
+| 12 | [[turquoise-xdmg|Turquoise]] (light blue green) |
 ^10-gp-gemstones
 
 ## Player-Facing Summary

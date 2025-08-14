@@ -26,17 +26,17 @@ world: Both
 
 | Item | Weight | Cost |
 |------|--------|------|
-| &emsp;[[/03_Mechanics/CLI/items/carriage-xphb|Carriage]] | 600 lb. | 100 GP |
-| &emsp;[[/03_Mechanics/CLI/items/cart-xphb|Cart]] | 200 lb. | 15 GP |
-| &emsp;[[/03_Mechanics/CLI/items/chariot-xphb|Chariot]] | 100 lb. | 250 GP |
-| &emsp;[[/03_Mechanics/CLI/items/feed-per-day-xphb|Feed per day]] | 10 lb. | 5 CP |
+| &emsp;[[carriage-xphb|Carriage]] | 600 lb. | 100 GP |
+| &emsp;[[cart-xphb|Cart]] | 200 lb. | 15 GP |
+| &emsp;[[chariot-xphb|Chariot]] | 100 lb. | 250 GP |
+| &emsp;[[feed-per-day-xphb|Feed per day]] | 10 lb. | 5 CP |
 | *Saddle* |
-| &emsp;[[/03_Mechanics/CLI/items/exotic-saddle-xphb|Exotic]] | 40 lb. | 60 GP |
-| &emsp;[[/03_Mechanics/CLI/items/military-saddle-xphb|Military]] | 30 lb. | 20 GP |
-| &emsp;[[/03_Mechanics/CLI/items/riding-saddle-xphb|Riding]] | 25 lb. | 10 GP |
-| &emsp;[[/03_Mechanics/CLI/items/sled-xphb|Sled]] | 300 lb. | 20 GP |
+| &emsp;[[exotic-saddle-xphb|Exotic]] | 40 lb. | 60 GP |
+| &emsp;[[military-saddle-xphb|Military]] | 30 lb. | 20 GP |
+| &emsp;[[riding-saddle-xphb|Riding]] | 25 lb. | 10 GP |
+| &emsp;[[sled-xphb|Sled]] | 300 lb. | 20 GP |
 | &emsp;Stabling per day | — | 5 SP |
-| &emsp;[[/03_Mechanics/CLI/items/wagon-xphb|Wagon]] | 400 lb. | 35 GP |
+| &emsp;[[wagon-xphb|Wagon]] | 400 lb. | 35 GP |
 ^tack-harness-and-drawn-vehicles
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]

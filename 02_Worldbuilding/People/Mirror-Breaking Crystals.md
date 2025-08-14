@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-mirror-breaking-crystals-mirror-breaking-crystals.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mirror-breaking-crystals-mirror-breaking-crystals.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[Shadow Broker Mirrors]]
 
 ## Player-Facing Summary
 

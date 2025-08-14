@@ -15,12 +15,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Plague Crisis]]
+- [[12_Research/D&D_References/Plague Crisis]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]

@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-vault-keepers-the-vault-keepers.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-vault-keepers-the-vault-keepers.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Vault Keepers]]
+- [[12_Research/D&D_References/The Vault Keepers]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -15,9 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -45,3 +42,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Kraken 2|02 Worldbuilding/Places/Kraken 2]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-grand-abandonment-central-warehouse-comple-the-grand-abandonment-central-warehouse-comple.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-grand-abandonment-central-warehouse-comple-the-grand-abandonment-central-warehouse-comple.svg]]
 
 
 ## Overview

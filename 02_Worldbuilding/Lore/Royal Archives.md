@@ -5,23 +5,22 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:34.615758+00:00'
 world: Both
 tags:
+- quest
 - active
 - both
 - lore
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Quest - The Pretender]]
-- [[The Crown's Burden]]
+- [[12_Research/D&D_References/Quest - The Pretender]]
+- [[12_Research/D&D_Statblocks/The Crown's Burden]]
 
 ## Player-Facing Summary
 

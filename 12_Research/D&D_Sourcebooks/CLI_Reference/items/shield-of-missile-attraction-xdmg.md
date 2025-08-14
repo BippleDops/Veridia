@@ -19,18 +19,18 @@ world: Both
 ---
 
 # Shield of Missile Attraction
-*Armor ([[/03_Mechanics/CLI/items/shield-xphb|shield]]), cursed item, rare (requires attunement)*  
+*Armor ([[shield-xphb|shield]]), cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Cursed%20Items|Cursed]]
+- **Properties**: [[item-properties#Cursed%20Items|Cursed]]
 - **Weight**: 6.0 lbs.
 
-While holding this Shield, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to damage from attacks made with Ranged weapons.
+While holding this Shield, you have [[resistance-xphb|Resistance]] to damage from attacks made with Ranged weapons.
 
 ## Curse
 
-This Shield is cursed. Attuning to it curses you until you are targeted by a [[/03_Mechanics/CLI/spells/remove-curse-xphb|Remove Curse]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
+This Shield is cursed. Attuning to it curses you until you are targeted by a [[remove-curse-xphb|Remove Curse]] spell or similar magic. Removing the Shield fails to end the curse on you. Whenever an attack with a Ranged weapon targets a creature within 10 feet of you, the curse causes you to become the target instead.
 
 *Source: Dungeon Master's Guide (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

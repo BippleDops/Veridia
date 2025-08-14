@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-sea-witches-coven-sea-witches-coven.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sea-witches-coven-sea-witches-coven.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sea Witches Coven]]
+- [[Sea Witches Coven]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[Harbor Master Luna Freedrift]]

@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-professor-aldric-crystalweaver-professor-aldric-crystalweaver.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-professor-aldric-crystalweaver-professor-aldric-crystalweaver.svg]]
 
 
 # Professor Aldric Crystalweaver
@@ -71,29 +65,29 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ## Relationships & Academic Network
 
 ### Academic Colleagues
-- **[[02_Worldbuilding/Groups/The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - Primary institutional affiliation
+- **[[The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - Primary institutional affiliation
 - **Crystal Research Faculty** - Fellow professors studying crystal magic at the academy
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
+- **[[The Crimson Sage]]** - Unknown connection providing research insights
 - **Graduate Students** - Proteges learning advanced crystal manipulation techniques
 - **International Scholars** - Researchers from other institutions studying crystal phenomena
 
 ### Political Connections
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
-- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military unit interested in his weapon applications
-- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
+- **[[Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
+- **[[Crystal Wardens]]** - Military unit interested in his weapon applications
+- **[[Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
 - **Government Oversight** - Officials monitoring his more dangerous experiments
 
 ### Opposition & Critics
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Organization dedicated to eliminating crystal influence
+- **[[High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
+- **[[Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
+- **[[Purist Coalition]]** - Organization dedicated to eliminating crystal influence
 - **Ethics Committees** - Academic groups questioning his experimental methods
 
 ### Research Subjects & Collaborators
 - **Volunteer Test Subjects** - Individuals seeking crystal enhancement
 - **Crystal Construct Assistants** - Artificial beings he's created to aid research
 - **Medical Consultants** - Healers attempting to treat crystal corruption
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal contacts providing illegal research materials
+- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal contacts providing illegal research materials
 
 ## Special Abilities
 
@@ -143,7 +137,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 
 ### Supply Networks
 - **Crystal Miners** - Sources for raw crystal materials
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Traders providing rare and exotic crystals
+- **[[Merchant Princes]]** - Traders providing rare and exotic crystals
 - **Equipment Suppliers** - Craftsmen creating specialized research tools
 - **Black Market Contacts** - Illegal sources for forbidden or restricted materials
 
@@ -183,13 +177,13 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ## Relationships
 
 ### Academic Connections
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student who now rivals his innovations
+- **[[Master Artificer Korvin Gearwright]]** - Former student who now rivals his innovations
 - **Dean Lumina Brightforge** - Academy superior who protects him from his critics
 - **Professor Thesis Bookworm** - Colleague who documents his discoveries (and accidents)
-- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
+- **[[Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
 
 ### Cross-Realm Research Collaborations
-- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
+- **[[Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
   - Studies crystalline formations found on divine entities in deepest ocean trenches
   - Analyzes how crystal resonance patterns correlate with cosmic consciousness
   - Develops early warning systems using crystal-based divine activity detection
@@ -203,12 +197,12 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 
 ### Enemies & Critics
 - **The Natural Order Society** - Group that opposes artificial enhancement of living beings
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious authority who considers his work heretical
+- **[[High Inquisitor Maltheos]]** - Religious authority who considers his work heretical
 - **Professor Marcus Traditionalist** - Academy rival who believes his methods are too dangerous
 - **The Crystal Plague Survivors** - Individuals harmed by his past experimental failures
 
 ### Complicated Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Values his innovations but fears his growing instability
+- **[[Queen Seraphina Lumengarde]]** - Values his innovations but fears his growing instability
 - **Captain Strength Ironwill** - Military officer who needs his weapons but distrusts his methods
 - **His own crystal constructs** - Created beings who may be developing their own agenda
 - **The families of test subjects** - People caught between gratitude and horror at his treatments
@@ -334,16 +328,16 @@ Aldric's research facility is a maze of interconnected chambers, each serving sp
 - **Hidden Chambers**: Secret rooms containing his most controversial research
 
 ## Connected NPCs
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student and current rival
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Patron who values his work but fears his methods
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious opponent who sees his work as heretical
-- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Military order that uses his innovations
+- **[[Master Artificer Korvin Gearwright]]** - Former student and current rival
+- **[[Queen Seraphina Lumengarde]]** - Patron who values his work but fears his methods
+- **[[High Inquisitor Maltheos]]** - Religious opponent who sees his work as heretical
+- **[[Crystal Guard]]** - Military order that uses his innovations
 
 ## Connected Locations
-- **[[02_Worldbuilding/Groups/The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - His primary workplace and center of crystal research
-- **[[02_Worldbuilding/Places/Luminous Laboratory District]]** - The academic and research quarter of Aethermoor
-- **[[02_Worldbuilding/Places/The Crystal Caves]]** - Source of his raw materials and test site for large experiments
-- **[[02_Worldbuilding/People/Underground Testing Facility]]** - Secret location for his most dangerous research
+- **[[The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - His primary workplace and center of crystal research
+- **[[Luminous Laboratory District]]** - The academic and research quarter of Aethermoor
+- **[[The Crystal Caves]]** - Source of his raw materials and test site for large experiments
+- **[[Underground Testing Facility]]** - Secret location for his most dangerous research
 
 ## Plot Threads
 Professor Crystalweaver embodies the classic "mad scientist" archetype while raising questions about the price of progress and the ethics of experimentation. He can be involved in numerous plot threads:
@@ -357,21 +351,21 @@ His character represents the theme that genius and madness often walk hand-in-ha
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
-- [[02_Worldbuilding/People/Aether Crystal]]
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
-- [[02_Worldbuilding/People/The Barnacle]]
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
-- [[02_Worldbuilding/People/The Cerulean Breath]]
-- [[02_Worldbuilding/People/The Crimson Sage]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Places/The Void Tears]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Crystal Throne]]
+- [[Aether Crystal]]
+- [[Master Artificer Korvin Gearwright]]
+- [[The Barnacle]]
+- [[The Bloodline Carrier]]
+- [[The Cerulean Breath]]
+- [[The Crimson Sage]]
+- [[Crystalhaven]]
+- [[The Gilded Shard]]
+- [[The Void Tears]]
+- [[Aether Crystals]]
+- [[Crystalline Depths]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -388,7 +382,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[Professor Aldric Crystalweaver]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[Queen Seraphina Lumengarde]]

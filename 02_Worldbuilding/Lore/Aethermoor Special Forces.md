@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
+- aerial
 - aethermoor
 - complete
 - content/lore
@@ -14,17 +16,14 @@ world: Aethermoor
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Ambush - Optional|02 Worldbuilding/Groups/Shadow Ambush Optional]]
+- [[Shadow Ambush - Optional|02 Worldbuilding/Groups/Shadow Ambush Optional]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
+- [[12_Research/D&D_References/Shadow Ambush - Optional]]
 
 ## Player-Facing Summary
 
@@ -45,3 +44,7 @@ Legends speak of Aethermoor Special Forces as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

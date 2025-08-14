@@ -15,20 +15,14 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-singing-trenches-the-singing-trenches.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-singing-trenches-the-singing-trenches.svg]]
 
 
 # The Singing Trenches
 
 ## Overview
-The Singing Trenches are a vast network of underwater canyons where the very stone resonates with an otherworldly choir. Located in the deep wilderness between [[02_Worldbuilding/Places/Abyssos Prime]] and [[02_Worldbuilding/Places/The Cerulean Trench]], these geological formations create haunting melodies that can drive listeners to madness, grant divine inspiration, or reveal hidden truths. The songs change with the tides, the phases of surface moons, and the emotional state of those who listen.
+The Singing Trenches are a vast network of underwater canyons where the very stone resonates with an otherworldly choir. Located in the deep wilderness between [[Abyssos Prime]] and [[The Cerulean Trench]], these geological formations create haunting melodies that can drive listeners to madness, grant divine inspiration, or reveal hidden truths. The songs change with the tides, the phases of surface moons, and the emotional state of those who listen.
 
 ## Geography and Formation
 
@@ -88,11 +82,11 @@ Areas where the interaction between song and current has created unique plant li
 ## Inhabitants
 
 ### The Choir Keepers
-**[[02_Worldbuilding/Places/Chorus Master Melodia Depthsong]]**: Former bard from [[02_Worldbuilding/Places/New Tethys]] who has lived in the trenches for two decades, learning to conduct the natural symphony. She can predict weather, political events, and natural disasters by listening to changes in the music.
+**[[Chorus Master Melodia Depthsong]]**: Former bard from [[New Tethys]] who has lived in the trenches for two decades, learning to conduct the natural symphony. She can predict weather, political events, and natural disasters by listening to changes in the music.
 
-**[[02_Worldbuilding/Places/The Resonant Hermit]]**: A mysterious figure who claims to have been here since before [[02_Worldbuilding/Places/The Great Drowning]]. They speak only in sung phrases and seem to know the meaning behind every melody.
+**[[The Resonant Hermit]]**: A mysterious figure who claims to have been here since before [[The Great Drowning]]. They speak only in sung phrases and seem to know the meaning behind every melody.
 
-**[[02_Worldbuilding/People/Captain Harmony Tidereader]]**: Leader of the Trench Wardens, a group dedicated to protecting the area from those who would exploit its musical properties for warfare.
+**[[Captain Harmony Tidereader]]**: Leader of the Trench Wardens, a group dedicated to protecting the area from those who would exploit its musical properties for warfare.
 
 ### The Sound Druids
 A circle of druids who have made the trenches their sacred space, believing the songs are the voice of the ocean itself. They work to maintain the natural balance of the music and oppose any attempts to artificially enhance or weaponize the sounds.
@@ -167,16 +161,16 @@ Characters spending extended time in the trenches must make Constitution saves d
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[Abyssos Prime]]
 The capital city sends regular expeditions to harvest resonant crystals for magical research and construction projects. However, these mining operations often disrupt the natural music and create tension with the Choir Keepers.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[New Tethys]]
 The city's Conservatory of Memory has a special interest in the trenches, as certain songs seem to preserve ancient memories and historical information. Exchange programs exist between the two locations.
 
-### [[02_Worldbuilding/Places/The Cerulean Trench]]
+### [[The Cerulean Trench]]
 Some believe the two trench systems were once connected and that their separation created the initial songs. Researchers from both areas work together to understand their shared history.
 
-### [[02_Worldbuilding/Places/Aethermoor]]
+### [[Aethermoor]]
 Surface dwellers sometimes hear echoes of the trench songs during storms or at certain tidal conditions. This has led to legends about "the voice of the deep" and occasionally draws surface musicians to seek out the source.
 
 ## Quest Hooks and Adventures
@@ -195,7 +189,7 @@ A powerful bard has arrived in the trenches and is using magic to force the natu
 
 ### The Last Performance
 **Level**: 12-15  
-Ancient magical songs are beginning to play that haven't been heard since before [[02_Worldbuilding/Places/The Great Drowning]]. These melodies seem to be preparing for some great event, but their meaning is unclear and their power is growing daily.
+Ancient magical songs are beginning to play that haven't been heard since before [[The Great Drowning]]. These melodies seem to be preparing for some great event, but their meaning is unclear and their power is growing daily.
 
 ### The Harmony War
 **Level**: 6-10  
@@ -217,8 +211,8 @@ Two factions - one wanting to preserve the trenches' natural state and another s
 
 ## Secrets
 > [!warning] DM Only
-> - The songs are actually a massive magical working that maintains the barrier between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/The Hadal Depths]]
-> - The original music was created by the combined voices of everyone who drowned in [[02_Worldbuilding/Places/The Great Drowning]]
+> - The songs are actually a massive magical working that maintains the barrier between [[Aquabyssos]] and [[The Hadal Depths]]
+> - The original music was created by the combined voices of everyone who drowned in [[The Great Drowning]]
 > - There's a hidden chamber containing a choir of crystallized singers from the surface world
 > - The Conductor's Baton was deliberately hidden to prevent anyone from stopping the protective songs
 > - Some melodies are actually mathematical equations that could reshape reality if properly understood
@@ -234,12 +228,12 @@ The Singing Trenches work best as:
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Crystalline Depths]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Find the Grief Bomb]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -261,7 +255,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Singing Trenches]]
+- [[The Singing Trenches]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[The Hadal Depths]]

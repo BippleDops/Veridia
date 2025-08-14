@@ -32,13 +32,13 @@ world: Both
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
 
-You gain the [[/03_Mechanics/CLI/conditions#Invisible|Invisible]] condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
+You gain the [[conditions#Invisible|Invisible]] condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can move the illusory double up to twice your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
+As a [[actions#Magic|Magic]] action, you can move the illusory double up to twice your [[speed-xphb|Speed]] and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb "subclass=XPHB;class=XPHB"|Ranger (Fey Wanderer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb "subclass=XPHB;class=XPHB"|Ranger (Fey Wanderer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb "subclass=XPHB;class=XPHB"|Wizard (Illusionist)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

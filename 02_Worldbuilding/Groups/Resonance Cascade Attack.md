@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack.svg]]
 
 
 ## Overview

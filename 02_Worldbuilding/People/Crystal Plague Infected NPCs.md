@@ -18,8 +18,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg]]
 
 
 # Crystal Plague Infected NPCs
@@ -35,7 +34,7 @@ The Crystal Plague affects individuals differently based on their background, pe
 **Age:** 34  
 **Occupation:** Former dock worker, currently unemployed  
 **Stage:** 1 (infected 6 days ago)  
-**Location:** [[02_Worldbuilding/Places/Crystal Plague Wards]], Room 203  
+**Location:** [[Crystal Plague Wards]], Room 203  
 **Family:** Son Thomas (8, Stage 1), Husband Willem (uninfected, working double shifts to pay for treatment)
 
 #### Physical Description
@@ -53,7 +52,7 @@ Marina's crystalline patches follow the geometric patterns of dock rope braiding
 - **The Designer's Vision:** Marina's crystalline-inspired ship designs contain revolutionary naval engineering concepts
 - **Mother's Sacrifice:** She volunteers for dangerous experimental treatment to test safety for children
 - **Family Secrets:** Willem has been selling family heirlooms to pay for black market treatments
-- **The Recruiter:** [[02_Worldbuilding/Places/Crystal Cult Temples]] members visit regularly, offering hope and community
+- **The Recruiter:** [[Crystal Cult Temples]] members visit regularly, offering hope and community
 
 #### Relationships
 - **Dr. Helena Crystalban:** Admires the doctor's dedication but resents the clinical approach to her family's suffering
@@ -66,7 +65,7 @@ Marina's crystalline patches follow the geometric patterns of dock rope braiding
 **Age:** 67  
 **Occupation:** Retired naval captain  
 **Stage:** 1 (infected 12 days ago, progression unusually slow)  
-**Location:** [[02_Worldbuilding/Places/Crystal Plague Wards]] "Mercy's Grace"  
+**Location:** [[Crystal Plague Wards]] "Mercy's Grace"  
 **Background:** Decorated veteran of three naval wars, infected during "one last voyage"
 
 #### Physical Description
@@ -97,7 +96,7 @@ Crystalline formations follow his old nautical tattoos - stars, anchors, and com
 **Age:** 10  
 **Occupation:** Student (when not hospitalized)  
 **Stage:** 1 (infected 8 days ago)  
-**Location:** [[02_Worldbuilding/Places/Crystal Plague Wards]] Children's Ward  
+**Location:** [[Crystal Plague Wards]] Children's Ward  
 **Special Ability:** Crystal growths form functional musical instruments
 
 #### Physical Description
@@ -113,7 +112,7 @@ Sarah's crystalline formations create delicate, chime-like structures along her 
 
 #### Plot Hooks
 - **The Musical Prophecy:** Her crystal music contains patterns that predict weather changes with 90% accuracy
-- **Recruitment Target:** Multiple factions compete to influence her development - medical researchers, [[02_Worldbuilding/Places/Crystal Cult Temples]], and government interests
+- **Recruitment Target:** Multiple factions compete to influence her development - medical researchers, [[Crystal Cult Temples]], and government interests
 - **Family Tragedy:** Parents visit daily but are gradually losing hope as her condition stabilizes rather than improves
 - **The Children's Resistance:** She leads other child patients in subtle rebellion against hospital restrictions
 
@@ -130,7 +129,7 @@ Sarah's crystalline formations create delicate, chime-like structures along her 
 **Age:** 52  
 **Occupation:** Wealthy merchant (losing wealth rapidly due to plague-related discrimination)  
 **Stage:** 2 (infected 3 weeks ago)  
-**Location:** [[02_Worldbuilding/Places/Crystal Plague Wards]], Room 315 (private room, paying premium rates)  
+**Location:** [[Crystal Plague Wards]], Room 315 (private room, paying premium rates)  
 **Family Status:** Wife and children have distanced themselves "for their protection"
 
 #### Physical Description
@@ -185,7 +184,7 @@ Crystalline formations create intricate patterns around her eyes and temples, fo
 - **Dr. Helena Crystalban:** Tense professional relationship mixing medical care with journalistic investigation
 - **Government Officials:** Viewed as dangerous enemy by some, valuable asset by others
 - **Other Patients:** Serves as informal advocate and voice for patient rights
-- **Underground Networks:** Maintains contacts in [[02_Worldbuilding/Lore/Black Market Crystal Trade]] and [[02_Worldbuilding/Places/Crystal Cult Temples]] communities
+- **Underground Networks:** Maintains contacts in [[Black Market Crystal Trade]] and [[Crystal Cult Temples]] communities
 
 ### Brother Marcus Deepgrown - The Questioning Healer
 
@@ -209,7 +208,7 @@ Crystalline formations create sacred geometric patterns along his prayer-scarred
 #### Plot Hooks
 - **Religious Schism:** His unorthodox approach creates conflict with traditional religious authorities
 - **Healing Breakthrough:** Combination of faith and firsthand experience produces remarkable healing results
-- **Cult Infiltration:** [[02_Worldbuilding/Places/Crystal Cult Temples]] attempt to recruit him as legitimizing figure
+- **Cult Infiltration:** [[Crystal Cult Temples]] attempt to recruit him as legitimizing figure
 - **Moral Dilemma:** Must choose between church hierarchy and plague victim community
 
 #### Relationships
@@ -225,7 +224,7 @@ Crystalline formations create sacred geometric patterns along his prayer-scarred
 **Age:** 44  
 **Occupation:** University mathematics professor (on medical leave)  
 **Stage:** 3 (infected 8 weeks ago, transformation proceeding rapidly)  
-**Location:** [[02_Worldbuilding/Places/Medical Research Facilities]] - voluntary research subject  
+**Location:** [[Medical Research Facilities]] - voluntary research subject  
 **Research Focus:** Mathematical properties of crystalline transformation
 
 #### Physical Description
@@ -248,13 +247,13 @@ Crystalline formations follow complex mathematical patterns - fractals, geometri
 #### Relationships
 - **Academic Colleagues:** Mix of scientific fascination and personal horror at his condition
 - **Research Subjects:** Forms connections with other voluntary transformation cases
-- **[[02_Worldbuilding/Places/Crystal Cult Temples]] Academics:** Recruited heavily by intellectual branch of crystal cults
+- **[[Crystal Cult Temples]] Academics:** Recruited heavily by intellectual branch of crystal cults
 - **Family:** Estranged wife and children struggle to maintain relationship as he becomes less recognizably human
 
 ### Captain Torres Ironheart - The Security Officer
 
 **Age:** 42  
-**Occupation:** [[02_Worldbuilding/Places/Crystal Plague Wards]] security captain  
+**Occupation:** [[Crystal Plague Wards]] security captain  
 **Stage:** 3 (infected 6 weeks ago while preventing patient escape attempt)  
 **Location:** Still working at hospital while receiving treatment  
 **Conflict:** Balancing security duties with patient advocacy
@@ -285,7 +284,7 @@ Crystalline formations create armor-like patterns across his torso and arms, pro
 ### Dr. Thaddeus Crystalwork - The Obsessed Researcher
 
 **Age:** 48  
-**Occupation:** [[02_Worldbuilding/Places/Medical Research Facilities]] (officially on medical leave)  
+**Occupation:** [[Medical Research Facilities]] (officially on medical leave)  
 **Stage:** 3 (deliberately infected 10 weeks ago for research purposes)  
 **Location:** Secret laboratory in abandoned warehouse  
 **Goal:** Develop enhancement procedures that embrace rather than cure crystallization
@@ -304,12 +303,12 @@ Deliberately guided crystalline formations create tool-like extensions from his 
 #### Plot Hooks
 - **The Enhancement Serum:** Develops treatments that preserve consciousness while accelerating beneficial transformation
 - **Ethical Violations:** Conducts experiments that mainstream research considers unacceptable
-- **Cult Recruitment:** [[02_Worldbuilding/Places/Crystal Cult Temples]] seek to recruit him for their research programs
+- **Cult Recruitment:** [[Crystal Cult Temples]] seek to recruit him for their research programs
 - **Government Interest:** Intelligence agencies want to acquire his enhancement research for military applications
 
 #### Relationships
 - **Former Colleagues:** Viewed as brilliant but dangerously unethical
-- **Underground Research:** Collaborates with [[02_Worldbuilding/Lore/Black Market Crystal Trade]] and cult researchers
+- **Underground Research:** Collaborates with [[Black Market Crystal Trade]] and cult researchers
 - **Test Subjects:** Attracts volunteers seeking enhancement rather than cure
 - **Research Ethics Board:** Ongoing investigation into his unauthorized experiments
 
@@ -318,7 +317,7 @@ Deliberately guided crystalline formations create tool-like extensions from his 
 ### High Priestess Seraphina the Transformed - The Cult Leader
 
 **Age:** 43 (appears ageless due to crystallization)  
-**Occupation:** Leader of [[02_Worldbuilding/Places/Crystal Cult Temples]]  
+**Occupation:** Leader of [[Crystal Cult Temples]]  
 **Stage:** 4 (voluntarily infected 3 years ago)  
 **Location:** Underground temple complex beneath Port Meridian  
 **Mission:** Guide others toward crystalline transcendence and spiritual evolution
@@ -414,7 +413,7 @@ Crystalline formations create intricate patterns around her eyes and temples, fo
 
 **Former Identity:** Royal Academy mathematics professor  
 **Age:** Timeless (transformed 18 months ago)  
-**Occupation:** Oracle and spiritual guide at [[02_Worldbuilding/Places/Crystal Cult Temples]]  
+**Occupation:** Oracle and spiritual guide at [[Crystal Cult Temples]]  
 **Abilities:** Prophetic calculations, mathematical prediction of future events  
 **Communication:** Crystalline light patterns interpreted by other crystal-touched individuals
 
@@ -447,7 +446,7 @@ Saint Aurelius has become a living crystal sculpture that shifts between geometr
 **Age:** Timeless (transformed 2 years ago during deep-ocean expedition)  
 **Occupation:** Oracle specializing in oceanic and depth-related guidance  
 **Abilities:** Underwater communication across vast distances, pressure sense, oceanic empathy  
-**Location:** [[02_Worldbuilding/Places/Crystal Cult Temples]] in deep-sea trench
+**Location:** [[Crystal Cult Temples]] in deep-sea trench
 
 #### Physical Description
 Saint Marina's crystalline form resembles a living coral reef with flowing, organic patterns that mimic deep-sea life. Her consciousness exists as bioluminescent displays that pulse in rhythm with ocean currents. Her form can reshape to navigate underwater environments while maintaining crystalline integrity.
@@ -478,7 +477,7 @@ Saint Marina's crystalline form resembles a living coral reef with flowing, orga
 **Age:** Timeless (transformed 8 months ago)  
 **Occupation:** Collective oracle and decision-making entity  
 **Abilities:** Shared consciousness, multiple perspective analysis, predictive modeling  
-**Location:** Special chamber in [[02_Worldbuilding/Places/Crystal Cult Temples]]
+**Location:** Special chamber in [[Crystal Cult Temples]]
 
 #### Physical Description
 The Collective exists as seven interconnected crystalline forms that can separate or merge based on need. Their shared consciousness manifests as synchronized light patterns that flow between all seven crystalline bodies. Individual personalities occasionally emerge but are generally subsumed into collective awareness.
@@ -532,12 +531,12 @@ Present situations where helping one NPC may harm another, or where the "right" 
 Allow player characters to influence NPC outcomes through their choices and actions. Some NPCs can be saved, others guided toward positive transformation, and some may serve as cautionary tales.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics these NPCs embody
-- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Medical facilities where many of these NPCs receive treatment
-- [[02_Worldbuilding/Places/Crystal Cult Temples]] - Religious communities several NPCs belong to
-- [[02_Worldbuilding/Places/Medical Research Facilities]] - Research institutions several NPCs work with
-- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic networks some NPCs participate in
+- [[Crystal Plague Progression System]] - Disease mechanics these NPCs embody
+- [[Crystal Plague Wards]] - Medical facilities where many of these NPCs receive treatment
+- [[Crystal Cult Temples]] - Religious communities several NPCs belong to
+- [[Medical Research Facilities]] - Research institutions several NPCs work with
+- [[Black Market Crystal Trade]] - Economic networks some NPCs participate in
 - [[Brother Marcus]] - Famous healer several NPCs interact with
-- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Alternative systems some NPCs utilize
+- [[Underground Smuggling Networks]] - Alternative systems some NPCs utilize
 
 <!-- enriched: true -->

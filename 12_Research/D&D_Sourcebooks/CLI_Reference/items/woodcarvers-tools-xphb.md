@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Dexterity  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/club-xphb|Club]], [[/03_Mechanics/CLI/items/greatclub-xphb|Greatclub]], [[/03_Mechanics/CLI/items/quarterstaff-xphb|Quarterstaff]], Ranged weapons (except [[/03_Mechanics/CLI/items/pistol-xphb|Pistol]], [[/03_Mechanics/CLI/items/musket-xphb|Musket]], and  [[/03_Mechanics/CLI/items/sling-xphb|Sling]]), [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]], [[/03_Mechanics/CLI/items/arrows-20-xphb|Arrows]], [[/03_Mechanics/CLI/items/bolts-20-xphb|Bolts]], [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]], [[/03_Mechanics/CLI/items/ink-pen-xphb|Ink Pen]], [[/03_Mechanics/CLI/items/needles-50-xphb|Needles]]  
+- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], Ranged weapons (except [[pistol-xphb|Pistol]], [[musket-xphb|Musket]], and  [[sling-xphb|Sling]]), [[arcane-focus-xphb|Arcane Focus]], [[arrows-20-xphb|Arrows]], [[bolts-20-xphb|Bolts]], [[druidic-focus-xphb|Druidic Focus]], [[ink-pen-xphb|Ink Pen]], [[needles-50-xphb|Needles]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

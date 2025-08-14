@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - complete
 - content/faction
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.297395+00:00'
 world: Aethermoor
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
+- [[Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Rewrite the World Order]]
+- [[12_Research/D&D_References/Rewrite the World Order]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

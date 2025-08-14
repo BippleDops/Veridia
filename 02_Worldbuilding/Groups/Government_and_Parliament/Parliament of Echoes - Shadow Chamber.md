@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-parliament-of-echoes-shadow-chamber-parliament-of-echoes-shadow-chamber.svg)
 
 
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 ## Player-Facing Summary
 

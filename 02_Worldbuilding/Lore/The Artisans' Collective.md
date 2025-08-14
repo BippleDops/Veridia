@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -15,12 +16,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg)
-
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]
 
 
 ## Overview
@@ -49,11 +46,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
+- [[Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[12_Research/D&D_References/Establish the New Order]]
+- [[12_Research/D&D_References/Shadow Independence Levels]]
+- [[12_Research/D&D_References/Stop the Shadow Harvest]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

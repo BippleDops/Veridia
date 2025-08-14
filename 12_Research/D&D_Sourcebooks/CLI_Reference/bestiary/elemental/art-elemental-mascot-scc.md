@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-art-elemental-mascot-scc-art-elemental-mascot-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/art-elemental-mascot-scc|Art Elemental Mascot]]
+# [[art-elemental-mascot-scc|Art Elemental Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 185*  
 
 Often referred to as a "living expression," an art elemental is an aspect of creativity and emotion given physical form—making it the perfect mascot for Prismari College.
@@ -49,19 +49,19 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Performance|Performance]]"
+  - "name": "[[skills#Performance|Performance]]"
     "desc": "+4"
 "damage_resistances": "cold, fire"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
 "traits":
   - "desc": "When the elemental dies, it explodes in a burst of colored light. Each\
       \ creature within 5 feet of the elemental must succeed on a DC 11 Constitution\
-      \ saving throw or be [[/03_Mechanics/CLI/conditions#Blinded|blinded]] for 1\
-      \ minute. A [[/03_Mechanics/CLI/conditions#Blinded|blinded]] creature can repeat\
+      \ saving throw or be [[conditions#Blinded|blinded]] for 1\
+      \ minute. A [[conditions#Blinded|blinded]] creature can repeat\
       \ the save at the end of each of its turns, ending the effect on itself on a\
       \ success."
     "name": "Death Burst"
@@ -73,8 +73,8 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
       \ (2d4 + 1) cold damage."
     "name": "Melancholic Bolt"
   - "desc": "The elemental targets one creature it can see within 30 feet of itself.\
-      \ The target must succeed on a DC 12 Charisma saving throw or be [[/03_Mechanics/CLI/conditions#Charmed|charmed]]\
-      \ for 1 minute. The [[/03_Mechanics/CLI/conditions#Charmed|charmed]] target\
+      \ The target must succeed on a DC 12 Charisma saving throw or be [[conditions#Charmed|charmed]]\
+      \ for 1 minute. The [[conditions#Charmed|charmed]] target\
       \ can repeat the save at the end of each of its turns, ending the effect on\
       \ itself on a success."
     "name": "Captivating Artistry (1/Day)"

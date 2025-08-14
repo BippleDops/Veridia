@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
 - complete
@@ -15,7 +19,7 @@ tags:
 world: Both Aethermoor & Aquabyssos
 quest_type: Cross-Realm Crisis
 difficulty: Legendary (Levels 10-20)
-patron: '[[02_Worldbuilding/Groups/The Void Watchers]] or [[02_Worldbuilding/Groups/The Convergence Seekers]]'
+patron: '[[12_Research/D&D_References/The Void Watchers]] or [[12_Research/D&D_References/The Convergence Seekers]]'
 location: Multiple locations in both realms
 created_by: auto-stub
 created: '2025-08-09'
@@ -31,37 +35,42 @@ content_warning: Contains themes of reality alteration and existential choice
 ---
 
 
-
-
-
-
 # Quest - The Convergence Crisis
+
 *When Two Worlds Collide*
 
 ## Overview
-A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]] has begun forcibly merging sections of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], creating unstable hybrid zones where the laws of both realms clash violently. The party must navigate between dimensions, work with factions from both worlds, and ultimately decide whether to complete the convergence, reverse it, or find a third option that preserves both realms' integrity.
+
+A catastrophic experiment by [[12_Research/D&D_References/The Convergence Seekers]] has begun forcibly merging sections of [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]], creating unstable hybrid zones where the laws of both realms clash violently. The party must navigate between dimensions, work with factions from both worlds, and ultimately decide whether to complete the convergence, reverse it, or find a third option that preserves both realms' integrity.
 
 ## Background
+
 ### The Experiment
-- [[02_Worldbuilding/Groups/The Convergence Seekers]] attempted to create a "test convergence" in a small area
-- Used combination of [[02_Worldbuilding/Lore/The Seven Shards|Crystal Shard]] energy and [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] shadow resonance
+
+- [[12_Research/D&D_References/The Convergence Seekers]] attempted to create a "test convergence" in a small area
+- Used combination of [[The Seven Shards|Crystal Shard]] energy and [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] shadow resonance
 - The reaction proved far more powerful than anticipated
 - Convergence zones are spreading, threatening both worlds with chaotic merger
 - Reality itself is becoming unstable in affected areas
 
 ### The Crisis Escalates
+
 - Merged zones exhibit properties of both realms simultaneously
 - Citizens from both worlds are trapped in hybrid reality they can't survive
 - Time distortions are creating temporal loops and paradoxes
 - Both the Seven Shards and Deep Mother are responding to the disruption
-- [[02_Worldbuilding/Groups/The Void Watchers]] warn that uncontrolled convergence could unmake both realities
+- [[12_Research/D&D_References/The Void Watchers]] warn that uncontrolled convergence could unmake both realities
 
 ## Legendary Quest Structure
+
 *Five Acts of World-Shaping Epic Adventure*
 
 ### Act I: The Reality Breach Discovery (Levels 10-12)
+
 #### When Impossible Becomes Inevitable
+
 #### Initial Investigation
+
 - **Hook**: Strange reports from border regions where "impossible things" are happening
 - **Investigation**: Discover first convergence zones where crystal and shadow energies merge
 - **Witnesses**: Interview survivors who've experienced hybrid reality
@@ -69,6 +78,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Revelation**: Learn that convergence is spreading and accelerating
 
 #### First Contact
+
 - **Cross-Realm Meeting**: Encounter representatives from both worlds investigating crisis
 - **Faction Tensions**: Navigate hostility between Aethermoor and Aquabyssos groups
 - **Shared Threat**: Realize crisis affects both realms equally
@@ -76,8 +86,11 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Information Exchange**: Share discoveries about convergence mechanics
 
 ### Act II: The Hybrid Zones Expedition (Levels 12-14)
+
 #### Navigating Impossible Territories
+
 #### Exploration Missions
+
 - **Zone Delta**: Area where crystal formations exist underwater
 - **Zone Sigma**: Region where shadow creatures walk on dry land
 - **Zone Alpha**: Location where time flows differently in each realm's sections
@@ -85,6 +98,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Zone Omega**: Central convergence point where both realms' physics apply simultaneously
 
 #### Rescue Operations
+
 - **Trapped Citizens**: Save people caught between incompatible realities
 - **Reality Refugees**: Escort survivors to safe zones in their native realms
 - **Hybrid Entities**: Decide fate of beings transformed by convergence exposure
@@ -92,45 +106,57 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Temporal Victims**: Free people stuck in time loops created by reality conflicts
 
 ### Act III: The Convergence Engine (Levels 14-16)
+
 #### At the Heart of Unmaking
+
 #### Finding the Origin
-- **The Threshold Chambers**: Infiltrate [[02_Worldbuilding/Groups/The Convergence Seekers]]' headquarters
+
+- **The Threshold Chambers**: Infiltrate [[12_Research/D&D_References/The Convergence Seekers]]' headquarters
 - **The Failed Experiment**: Discover the device causing uncontrolled convergence
 - **The Mediator's Plan**: Learn that crisis was partially intentional to force convergence
 - **Shard-Shadow Resonance**: Understand how crystal and shadow energies are interacting
 - **The Deep Mother Stirs**: Realize convergence is affecting the sleeping goddess
 
 #### Faction Conflicts
-- **Aethermoor Response**: [[02_Worldbuilding/Groups/Purist Coalition]] demands total separation
-- **Aquabyssos Politics**: [[02_Worldbuilding/Places/Parliament of Echoes]] debates military intervention
-- **Corporate Interests**: [[02_Worldbuilding/Groups/Silverscale Consortium]] sees profit opportunities
-- **Reality Guardians**: [[02_Worldbuilding/Groups/The Void Watchers]] insist on immediate containment
+
+- **Aethermoor Response**: [[12_Research/D&D_References/Purist Coalition]] demands total separation
+- **Aquabyssos Politics**: [[12_Research/D&D_References/Parliament of Echoes]] debates military intervention
+- **Corporate Interests**: [[12_Research/D&D_References/Silverscale Consortium]] sees profit opportunities
+- **Reality Guardians**: [[12_Research/D&D_References/The Void Watchers]] insist on immediate containment
 - **Extremist Actions**: Radical elements from both sides complicate solutions
 
 ### Act IV: The Reality War (Levels 16-18)
+
 #### When Worlds Choose Sides
+
 #### The Convergence Device
+
 - **Device Analysis**: Study the malfunctioning convergence apparatus
 - **Stabilization Options**: Three possible approaches to the crisis
-- **Expert Consultation**: Seek advice from [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]], [[02_Worldbuilding/People/The Nameless Auditor]], and other specialists
+- **Expert Consultation**: Seek advice from [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]], [[12_Research/D&D_Statblocks/The Nameless Auditor]], and other specialists
 - **Risk Assessment**: Understand consequences of each potential solution
 - **Time Pressure**: Convergence accelerating toward point of no return
 
 #### The Three Paths
+
 1. **Complete Convergence**: Help finish the merger, creating single hybrid world
 2. **Forced Separation**: Reverse the process, permanently isolating both realms
 3. **Stabilized Balance**: Create controlled connection while preserving both worlds' integrity
 
 ### Act V: The Cosmic Decision (Levels 18-20)
+
 #### Reshaping All That Is
+
 #### The Final Operation
+
 - **Multi-Realm Coordination**: Organize simultaneous actions in both worlds
-- **Shard Involvement**: Deal with [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]' response to crisis
-- **Deep Mother's Awakening**: Handle [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s stirring due to convergence disturbance
+- **Shard Involvement**: Deal with [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]' response to crisis
+- **Deep Mother's Awakening**: Handle [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'s stirring due to convergence disturbance
 - **Reality Stabilization**: Perform complex ritual to implement chosen solution
 - **Crisis Resolution**: Navigate final complications and unexpected consequences
 
 #### Aftermath Management
+
 - **Diplomatic Relations**: Establish new relationships between realms based on party's choices
 - **Refugee Resettlement**: Help displaced people adapt to post-crisis reality
 - **Hybrid Integration**: Deal with beings and areas permanently changed by convergence
@@ -140,6 +166,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 ## Legendary Encounters & Epic Combat
 
 ### Act I Encounters (CR 10-13)
+
 - **Reality Tear Guardian** (CR 12): Construct protecting dimensional boundaries
 - **Hybrid Zone Patrol** (CR 11): Mixed crystal-shadow enforcers
 - **Convergence Cultist Cabal** (CR 10): Fanatics accelerating merger
@@ -147,6 +174,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Temporal Echo Warrior** (CR 12): Fighter from timeline where convergence succeeded
 
 ### Act II Encounters (CR 13-15)
+
 - **The Merger Sphinx** (CR 14): Guardian of hybrid zone requiring riddles about unity
 - **Crystal-Shadow Chimera** (CR 15): Beast combining both realms' most dangerous creatures
 - **Living Convergence Zone** (CR 13): Sentient area that actively merges with explorers
@@ -154,6 +182,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **The Impossible Storm** (CR 15): Weather system that exists in multiple dimensions
 
 ### Act III Encounters (CR 15-17)
+
 - **The Mediator's Avatar** (CR 16): Physical manifestation of Convergence Seeker leader
 - **Reality Engine Golem** (CR 17): Massive construct powering convergence device
 - **Faction War Council** (CR 15): Political encounter with representatives from both realms
@@ -161,6 +190,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Zealot Commander Threshold** (CR 17): Elite Convergence Seeker military leader
 
 ### Act IV Encounters (CR 17-19)
+
 - **The Reality War** (Encounter CR 18): Massive battle between pro and anti-convergence forces
 - **Shard-Touched Dragon Ancient** (CR 19): Millennia-old wyrm empowered by Seven Shards
 - **Deep Mother's Nightmare** (CR 18): Manifestation of sleeping goddess's troubled dreams
@@ -168,6 +198,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Avatar of Cosmic Order** (CR 19): Divine servant maintaining universal stability
 
 ### Act V Encounters (CR 19-21)
+
 - **The Unified Will** (CR 20): Merged consciousness of all convergence supporters
 - **Reality's Last Stand** (CR 21): Personification of existence defending against change
 - **The Convergence Singularity** (CR 20): Point where all realities merge into one
@@ -177,7 +208,9 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 ## Epic Rewards & Legendary Artifacts
 
 ### World-Shaping Items
+
 #### The Crown of Convergence (Artifact)
+
 *Wondrous item, artifact (requires attunement)*
 - Control over reality within 1-mile radius
 - Can merge or separate any two objects, creatures, or concepts
@@ -186,6 +219,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Risk: Each use merges part of wielder with the crown
 
 #### Blade of Severance (Legendary Weapon)
+
 *Greatsword +3, legendary (requires attunement)*
 - Can cut through dimensional barriers and magical effects
 - Deals maximum damage to creatures from other planes
@@ -194,6 +228,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Can cut portals between dimensions (requires 1 hour ritual)
 
 #### Robes of Dual Existence (Legendary)
+
 *Armor (robes), legendary (requires attunement)*
 - Exist simultaneously in both Aethermoor and Aquabyssos
 - Can interact with objects and creatures from both realms
@@ -202,6 +237,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Immunity to convergence and separation effects
 
 #### Staff of Reality Anchoring (Legendary)
+
 *Staff +3, legendary (requires attunement by spellcaster)*
 - Can stabilize or destabilize reality within 500-foot radius
 - Spells cast through staff affect both realms simultaneously
@@ -210,6 +246,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Stores knowledge of all dimensional boundaries and their stability
 
 #### The Mediator's Compass (Very Rare)
+
 *Wondrous item, very rare (requires attunement)*
 - Always points toward nearest convergence point
 - Can detect dimensional instabilities within 10 miles
@@ -218,6 +255,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Reveals true nature of any creature from another dimension
 
 #### Ring of Perpetual Choice (Artifact)
+
 *Ring, artifact (requires attunement)*
 - Wearer exists in quantum state of all possible choices
 - Can undo any single action taken in last minute (once per turn)
@@ -226,6 +264,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Curse: Must make Wisdom save each day or become paralyzed by infinite possibilities
 
 ### Epic Boons
+
 - **Master of Convergence**: Can merge or separate any two things at will
 - **Reality Sight**: See through all illusions and dimensional barriers
 - **Dimensional Anchor**: Cannot be moved between planes against your will
@@ -233,22 +272,27 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Existence Stability**: Immune to being erased or fundamentally altered
 
 ## Key NPCs & Expanded Roles
+
 ### Primary Contacts
-- **[[02_Worldbuilding/Lore/The Mediator]]**: Leader of [[02_Worldbuilding/Groups/The Convergence Seekers]], may be ally or antagonist
-- **[[The First Watcher]]**: [[02_Worldbuilding/Groups/The Void Watchers]] representative warning of reality collapse
-- **[[02_Worldbuilding/People/Captain Threshold]]**: [[02_Worldbuilding/Groups/The Liminal Trading Company]] expert on dimensional travel
-- **[[02_Worldbuilding/Lore/Doctor Prism Voidweaver]]**: [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]] researcher studying convergence effects
+
+- **[[12_Research/D&D_References/The Mediator]]**: Leader of [[12_Research/D&D_References/The Convergence Seekers]], may be ally or antagonist
+- **[[12_Research/D&D_References/The First Watcher]]**: [[12_Research/D&D_References/The Void Watchers]] representative warning of reality collapse
+- **[[12_Research/D&D_References/Captain Threshold]]**: [[12_Research/D&D_References/The Liminal Trading Company]] expert on dimensional travel
+- **[[12_Research/D&D_References/Doctor Prism Voidweaver]]**: [[12_Research/D&D_References/The Shadow-Crystal Synthesis]] researcher studying convergence effects
 - **Cross-Realm Refugees**: Citizens from both worlds affected by crisis
 
 ### Supporting Characters
-- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Represents Aquabyssos political response
-- **[[02_Worldbuilding/People/Commander Thrace Ironwood]]**: Leads Aethermoor military response to crisis
-- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Provides insight into Deep Mother's stirring
-- **[[02_Worldbuilding/People/Keeper of the Shattered Crown Marcus]]**: Offers knowledge of Shard behavior during crisis
-- **[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Explains how convergence affects dream and memory realms
+
+- **[[12_Research/D&D_References/Tribune Cassia Deepcurrent]]**: Represents Aquabyssos political response
+- **[[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]**: Leads Aethermoor military response to crisis
+- **[[12_Research/D&D_References/Sister Thalassa the Depth-Touched]]**: Provides insight into Deep Mother's stirring
+- **[[12_Research/D&D_Statblocks/Keeper of the Shattered Crown Marcus]]**: Offers knowledge of Shard behavior during crisis
+- **[[12_Research/D&D_Statblocks/Memory Harvester Kythara]]**: Explains how convergence affects dream and memory realms
 
 ## Major Challenges
+
 ### Environmental Hazards
+
 - **Reality Storms**: Areas where conflicting physics create dangerous phenomena
 - **Temporal Anomalies**: Time distortions that trap or age characters
 - **Hybrid Creatures**: Beings combining properties of both realms
@@ -256,6 +300,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Dimensional Rifts**: Tears in reality that lead to unknown destinations
 
 ### Political Complications
+
 - **Factional Conflicts**: Groups from both realms blaming each other for crisis
 - **Resource Competition**: Limited safe zones and evacuation capabilities
 - **Authority Disputes**: Who has jurisdiction in hybrid territories?
@@ -263,6 +308,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Extremist Violence**: Radicals using crisis to advance their agendas
 
 ### Ethical Dilemmas
+
 - **Sacrifice Decisions**: Choosing which areas/people to save first
 - **Hybrid Rights**: Do convergence-created beings have right to exist?
 - **Intervention Limits**: How much change to reality is acceptable?
@@ -270,7 +316,9 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Cultural Preservation**: Maintaining distinct identities vs. accepting change
 
 ## Possible Outcomes
+
 ### Complete Convergence
+
 - **New Hybrid World**: Single realm combining best and worst of both
 - **Massive Adaptation**: All existing institutions must completely restructure
 - **Cultural Synthesis**: New hybrid culture emerges from merger
@@ -278,6 +326,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Unknown Risks**: Long-term effects of merged reality uncertain
 
 ### Forced Separation
+
 - **Restored Boundaries**: Both realms return to complete isolation
 - **Lost Connections**: All inter-realm relationships severed permanently
 - **Reality Scars**: Permanent damage to areas affected by convergence
@@ -285,6 +334,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Enhanced Barriers**: New safeguards prevent future convergence attempts
 
 ### Stabilized Balance
+
 - **Controlled Connection**: Limited, stable bridges between worlds
 - **Managed Exchange**: Regulated trade and cultural exchange
 - **Hybrid Zones**: Permanent convergence areas as neutral territories
@@ -292,7 +342,9 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Ongoing Vigilance**: Permanent monitoring system to prevent future crises
 
 ## Rewards & Consequences
+
 ### Character Rewards
+
 - **Epic Abilities**: Powers drawn from both crystal and shadow energies
 - **Cross-Realm Influence**: Political connections in both worlds
 - **Unique Equipment**: Hybrid items combining properties of both realms
@@ -300,6 +352,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - **Cosmic Understanding**: Insight into fundamental nature of existence
 
 ### World Changes
+
 - **Diplomatic Relations**: New era of inter-realm politics based on party's choices
 - **Technological Development**: Hybrid technologies combining both worlds' capabilities
 - **Cultural Evolution**: Art, literature, and philosophy influenced by convergence experience
@@ -330,7 +383,9 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 
 
 ## DM Notes
+
 ### Running the Quest
+
 - Emphasize moral complexity of each solution - none are clearly right or wrong
 - Use environmental descriptions to show weird beauty and terror of hybrid zones
 - Make consequences of party's choices clear throughout campaign
@@ -338,6 +393,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Consider long-term campaign implications of reality-altering choices
 
 ### Scaling & Adaptation
+
 - Can be adapted for lower levels by reducing scope to single convergence zone
 - Higher-level versions might involve multiple worlds converging simultaneously
 - Party's previous relationships with factions affect available allies and enemies
@@ -347,6 +403,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 ## Epic Branching Consequences & World Outcomes
 
 ### Path A: Complete Convergence Success
+
 **Requirements**: Successfully merge both realms while minimizing casualties
 **Immediate Consequences**:
 - New hybrid world combining best aspects of both realms
@@ -363,6 +420,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - External cosmic threats now face unified resistance
 
 ### Path B: Controlled Separation with Communication
+
 **Requirements**: Reverse convergence while establishing permanent diplomatic channels
 **Immediate Consequences**:
 - Both worlds return to separate existence but with lasting connections
@@ -379,6 +437,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Model established for interaction with other discovered dimensions
 
 ### Path C: Emergency Forced Separation
+
 **Requirements**: Permanently sever all connections to prevent reality collapse
 **Immediate Consequences**:
 - Complete isolation of both realms with no possibility of future contact
@@ -395,6 +454,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Neither realm prepared for external cosmic threats
 
 ### Path D: Selective Regional Convergence
+
 **Requirements**: Allow convergence in specific areas while protecting core populations
 **Immediate Consequences**:
 - Mixed zones of hybrid reality alongside preserved pure areas
@@ -411,6 +471,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Experimental ground for future controlled convergence projects
 
 ### Path E: The Cosmic Ascension
+
 **Requirements**: Use convergence energy to transcend physical reality entirely
 **Immediate Consequences**:
 - Both realms and all inhabitants ascend to higher dimensional existence
@@ -429,40 +490,41 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 ## Essential Campaign Integration & Wiki Links
 
 ### Core Dependencies (30+ Critical Links)
-1. [[02_Worldbuilding/Places/Aethermoor]] - Primary crystal realm facing convergence
-2. [[02_Worldbuilding/Places/Aquabyssos]] - Shadow realm being forcibly merged
-3. [[02_Worldbuilding/Groups/The Convergence Seekers]] - Primary faction driving crisis
-4. [[02_Worldbuilding/Groups/The Void Watchers]] - Cosmic guardians opposing uncontrolled convergence
-5. [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Power source amplifying convergence effects
-6. [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] - Sleeping entity affected by dimensional disruption
-7. [[02_Worldbuilding/Lore/The Mediator]] - Mysterious leader orchestrating convergence
-8. [[02_Worldbuilding/Places/The Threshold Chambers]] - Headquarters existing between worlds
-9. [[02_Worldbuilding/Groups/Purist Coalition]] - Faction violently opposing merger
-10. [[02_Worldbuilding/Groups/Silverscale Consortium]] - Corporate interests in crisis
-11. [[02_Worldbuilding/People/Commander Thrace Ironwood]] - Military leader organizing resistance
-12. [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - Aquabyssos political representative
-13. [[02_Worldbuilding/Lore/Doctor Prism Voidweaver]] - Researcher studying convergence effects
-14. [[02_Worldbuilding/People/Captain Threshold]] - Expert on inter-dimensional travel
-15. [[02_Worldbuilding/Groups/The Liminal Trading Company]] - Neutral merchants caught in crisis
-16. [[02_Worldbuilding/Places/Parliament of Echoes]] - Aquabyssos government response
-17. [[02_Worldbuilding/Places/Crystalhaven]] - Crystal Throne's role in crisis
-18. [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] - Religious prophet interpreting events
-19. [[02_Worldbuilding/People/Memory Harvester Kythara]] - Expert on consciousness effects of convergence
-20. [[02_Worldbuilding/People/Keeper of the Shattered Crown Marcus]] - Shard lore keeper
-21. [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]] - Academic studying dimensional theory
-22. [[02_Worldbuilding/People/The Nameless Auditor]] - Bureaucratic entity managing cosmic paperwork
-23. [[02_Worldbuilding/Places/The Hadal Depths]] - Deep Mother's physical location
-24. [[02_Worldbuilding/Places/The Shadowmere]] - Zone affected by convergence
-25. [[02_Worldbuilding/Places/Port Meridian]] - Trade hub dealing with crisis refugees
-26. [[02_Worldbuilding/Places/The Verdant Reach]] - Natural area resisting merger
-27. [[02_Worldbuilding/Places/The Azure Coast]] - Coastal region experiencing reality storms
-28. [[Memory Meadows]] - Dream realm affected by convergence
-29. [[02_Worldbuilding/Places/The Deepmind]] - Consciousness nexus monitoring crisis
-30. [[02_Worldbuilding/Lore/pat]] - Neutral zone for cross-realm negotiations
-31. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Crystal Throne ruler's response
-32. [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's perspective on convergence
-33. [[02_Worldbuilding/People/Pressure Angel Benthia]] - Divine messenger warning of consequences
-34. [[02_Worldbuilding/People/The Azure Prophet Nerissa]] - Seer predicting convergence outcomes
+
+1. [[12_Research/D&D_References/Aethermoor]] - Primary crystal realm facing convergence
+2. [[12_Research/D&D_References/Aquabyssos]] - Shadow realm being forcibly merged
+3. [[12_Research/D&D_References/The Convergence Seekers]] - Primary faction driving crisis
+4. [[12_Research/D&D_References/The Void Watchers]] - Cosmic guardians opposing uncontrolled convergence
+5. [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Power source amplifying convergence effects
+6. [[The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] - Sleeping entity affected by dimensional disruption
+7. [[12_Research/D&D_References/The Mediator]] - Mysterious leader orchestrating convergence
+8. [[12_Research/D&D_References/The Threshold Chambers]] - Headquarters existing between worlds
+9. [[12_Research/D&D_References/Purist Coalition]] - Faction violently opposing merger
+10. [[12_Research/D&D_References/Silverscale Consortium]] - Corporate interests in crisis
+11. [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]] - Military leader organizing resistance
+12. [[12_Research/D&D_References/Tribune Cassia Deepcurrent]] - Aquabyssos political representative
+13. [[12_Research/D&D_References/Doctor Prism Voidweaver]] - Researcher studying convergence effects
+14. [[12_Research/D&D_References/Captain Threshold]] - Expert on inter-dimensional travel
+15. [[12_Research/D&D_References/The Liminal Trading Company]] - Neutral merchants caught in crisis
+16. [[12_Research/D&D_References/Parliament of Echoes]] - Aquabyssos government response
+17. [[12_Research/D&D_References/Crystalhaven]] - Crystal Throne's role in crisis
+18. [[12_Research/D&D_References/Sister Thalassa the Depth-Touched]] - Religious prophet interpreting events
+19. [[12_Research/D&D_Statblocks/Memory Harvester Kythara]] - Expert on consciousness effects of convergence
+20. [[12_Research/D&D_Statblocks/Keeper of the Shattered Crown Marcus]] - Shard lore keeper
+21. [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]] - Academic studying dimensional theory
+22. [[12_Research/D&D_Statblocks/The Nameless Auditor]] - Bureaucratic entity managing cosmic paperwork
+23. [[12_Research/D&D_References/The Hadal Depths]] - Deep Mother's physical location
+24. [[12_Research/D&D_References/The Shadowmere]] - Zone affected by convergence
+25. [[12_Research/D&D_References/Port Meridian]] - Trade hub dealing with crisis refugees
+26. [[12_Research/D&D_References/The Verdant Reach]] - Natural area resisting merger
+27. [[12_Research/D&D_References/The Azure Coast]] - Coastal region experiencing reality storms
+28. [[12_Research/D&D_References/Memory Meadows]] - Dream realm affected by convergence
+29. [[12_Research/D&D_Statblocks/The Deepmind]] - Consciousness nexus monitoring crisis
+30. [[12_Research/D&D_References/pat]] - Neutral zone for cross-realm negotiations
+31. [[12_Research/D&D_References/Queen Seraphina Lumengarde]] - Crystal Throne ruler's response
+32. [[12_Research/D&D_Statblocks/The Crimson Sage]] - Aetheron's perspective on convergence
+33. [[12_Research/D&D_Statblocks/Pressure Angel Benthia]] - Divine messenger warning of consequences
+34. [[12_Research/D&D_References/The Azure Prophet Nerissa]] - Seer predicting convergence outcomes
 
 
 ## World Integration
@@ -490,6 +552,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 ## DM Notes & Legendary Campaign Guidance
 
 ### Epic Campaign Requirements
+
 **Prerequisites**: Party level 10+ with significant history in both realms
 **Campaign Investment**: This quest should represent the culmination of an entire campaign
 **Preparation Time**: 2-3 sessions of setup and foreshadowing before beginning Act I
@@ -497,6 +560,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Player Investment**: Characters should have personal stakes in both worlds' survival
 
 ### Session Structure & Pacing
+
 **Act I (8-10 sessions)**: Investigation, discovery, and alliance building
 **Act II (6-8 sessions)**: Exploration of hybrid zones and rescue operations  
 **Act III (8-10 sessions)**: Infiltration, revelation, and factional conflicts
@@ -504,6 +568,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Act V (8-12 sessions)**: Final convergence events, cosmic encounters, and resolution
 
 ### Managing Reality-Altering Stakes
+
 **Scale Management**: Start with local effects, gradually expand to cosmic consequences
 **Player Agency**: Ensure party choices meaningfully affect outcome options
 **Consequence Clarity**: Make long-term effects of decisions clear to players
@@ -511,6 +576,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Scope Control**: Don't overwhelm players with too many simultaneous crisis points
 
 ### Handling Multiple Factions
+
 **Faction Complexity**: Each major group should have understandable motivations
 **Shifting Alliances**: Relationships change based on party actions and crisis developments
 **Resource Management**: Track what each faction can contribute to solutions
@@ -518,6 +584,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Consequence Integration**: Show how faction relationships affect available endings
 
 ### Reality Alteration Mechanics
+
 **Hybrid Zones**: Create clear rules for how merged reality affects characters
 **Convergence Effects**: Establish consistent mechanics for reality instability
 **Dimensional Travel**: Provide guidelines for moving between realms during crisis
@@ -525,6 +592,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Physics Flexibility**: Allow creative solutions to impossible situations
 
 ### Campaign Conclusion Considerations
+
 **Multiple Endings**: Prepare for five different major outcome paths
 **Legacy Planning**: Consider how resolution affects future campaigns
 **Character Ascension**: Some paths may elevate PCs beyond mortal limits
@@ -532,6 +600,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Sequel Potential**: Leave hooks for future cosmic-level adventures
 
 ### Player Comfort & Content
+
 **Reality Themes**: Check player comfort with existential and reality-alteration content
 **High Stakes**: Ensure group enjoys campaigns where entire worlds are at risk
 **Complex Morality**: Players should be prepared for choices with no clear "right" answer
@@ -539,6 +608,7 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Long Commitment**: Confirm group willing to invest in 40+ session arc
 
 ### Customization & Scaling Options
+
 **Lower Level**: Start at 15th level, focus on single convergence zone
 **Higher Level**: Begin at 20th level, add multiple dimensions and cosmic entities
 **Shorter Campaign**: Compress to 3 acts focusing on discovery, choice, and resolution
@@ -547,8 +617,8 @@ A catastrophic experiment by [[02_Worldbuilding/Groups/The Convergence Seekers]]
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Vault Breach]]
-- [[Quest - Nature's Balance]]
+- [[12_Research/D&D_References/Vault Breach]]
+- [[12_Research/D&D_References/Quest - Nature's Balance]]
 
 ## Player-Facing Summary
 
@@ -568,17 +638,25 @@ Legends speak of Quest   The Convergence Crisis as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]]
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[02_Worldbuilding/People/Keeper of the Shattered Crown Marcus]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/Pressure Angel Benthia]]
-- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/Places/The Azure Coast]]
-- [[02_Worldbuilding/Places/The Floating Market]]
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]]
+- [[12_Research/D&D_References/The Liminal Trading Company]]
+- [[12_Research/D&D_References/The Shadow-Crystal Synthesis]]
+- [[12_Research/D&D_References/The Void Watchers]]
+- [[12_Research/D&D_Statblocks/Commander Thrace Ironwood]]
+- [[12_Research/D&D_Statblocks/Keeper of the Shattered Crown Marcus]]
+- [[12_Research/D&D_Statblocks/Memory Harvester Kythara]]
+- [[12_Research/D&D_Statblocks/Pressure Angel Benthia]]
+- [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]
+- [[12_Research/D&D_Statblocks/The Nameless Auditor]]
+- [[12_Research/D&D_References/Tribune Cassia Deepcurrent]]
+- [[12_Research/D&D_References/The Azure Coast]]
+- [[12_Research/D&D_References/The Floating Market]]
+- [[12_Research/D&D_References/The Threshold Chambers]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

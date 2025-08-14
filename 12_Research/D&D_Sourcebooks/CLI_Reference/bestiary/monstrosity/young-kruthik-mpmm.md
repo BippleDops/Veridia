@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-kruthik-mpmm-v1-young-kruthik-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/young-kruthik-mpmm|Young Kruthik]]
+# [[young-kruthik-mpmm|Young Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
@@ -71,7 +71,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "6"
 "speed": "30 ft., burrow 10 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "Kruthik"
@@ -79,7 +79,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]."
+      \ ally isn't [[conditions#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 2½-foot-diameter tunnel in its wake."

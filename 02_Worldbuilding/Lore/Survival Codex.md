@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[12_Research/D&D_References/Legal System of Aquabyssos]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[12_Research/D&D_References/Legal System of Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -45,3 +42,7 @@ Legends speak of Survival Codex as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

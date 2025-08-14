@@ -18,20 +18,14 @@ world: Both
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-world-map-v1-world-map.svg]]
 
 
 # World Map
-
 ```leaflet
 id: world-map
-image: [[02_Worldbuilding/Places/World Map]]
+image: [[12_Research/D&D_References/World Map]]
 height: 600px
 width: 100%
 lat: 50
@@ -44,7 +38,6 @@ scale: 1
 marker: default, 35, 55, Port Verran
 marker: default, 65, 45, The Sunken City of Aeridor
 ```
-
 
 ## Overview
 

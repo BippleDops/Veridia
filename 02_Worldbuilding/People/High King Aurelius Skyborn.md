@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-king-aurelius-skyborn-high-king-aurelius-skyborn.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-king-aurelius-skyborn-high-king-aurelius-skyborn.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[Royal Embassy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[Royal Embassy]]
 
 ## Player-Facing Summary
 

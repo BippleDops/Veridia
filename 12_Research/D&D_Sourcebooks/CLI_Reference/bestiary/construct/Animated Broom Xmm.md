@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-broom-xmm-animated-broom-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/animated-broom-xmm|Animated Broom]]
+# [[animated-broom-xmm|Animated Broom]]
 *Source: Monster Manual (2024) p. 16*  
 
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
@@ -84,10 +84,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
-  \ [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 7"
 "languages": ""
 "cr": "1/4"

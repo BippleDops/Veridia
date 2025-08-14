@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-land-xphb-beast-of-the-land-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/beast-of-the-land-xphb|Beast of the Land]]
+# [[beast-of-the-land-xphb|Beast of the Land]]
 *Source: Player's Handbook (2024) p. 123*  
 
 ```statblock
@@ -56,7 +56,7 @@ world: Both
       \ ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing\
       \ damage (your choice when you summon the beast). If the beast moved at least\
       \ 20 feet straight toward the target before the hit, the target takes an extra\
-      \ d6 damage of the same type, and the target has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ d6 damage of the same type, and the target has the [[conditions#Prone|Prone]]\
       \ condition if it is a Large or smaller creature."
     "name": "Beast's Strike"
 "source":

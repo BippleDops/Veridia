@@ -32,11 +32,11 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 | College | Cantrips | 1st-Level Spell |
 |---------|----------|-----------------|
-| Lorehold | Choose two from [[/03_Mechanics/CLI/spells/light-xphb|light]], [[/03_Mechanics/CLI/spells/sacred-flame-xphb|sacred flame]], and [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]]. | Choose one 1st-level cleric or wizard spell. |
-| Prismari | Choose two from [[/03_Mechanics/CLI/spells/fire-bolt-xphb|fire bolt]], [[/03_Mechanics/CLI/spells/prestidigitation-xphb|prestidigitation]], and [[/03_Mechanics/CLI/spells/ray-of-frost-xphb|ray of frost]]. | Choose one 1st-level bard or sorcerer spell. |
-| Quandrix | Choose two from [[/03_Mechanics/CLI/spells/druidcraft-xphb|druidcraft]], [[/03_Mechanics/CLI/spells/guidance-xphb|guidance]], and [[/03_Mechanics/CLI/spells/mage-hand-xphb|mage hand]]. | Choose one 1st-level druid or wizard spell. |
-| Silverquill | Choose two from [[/03_Mechanics/CLI/spells/sacred-flame-xphb|sacred flame]], [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]], and [[/03_Mechanics/CLI/spells/vicious-mockery-xphb|vicious mockery]]. | Choose one 1st-level bard or cleric spell. |
-| Witherbloom | Choose two from [[/03_Mechanics/CLI/spells/chill-touch-xphb|chill touch]], [[/03_Mechanics/CLI/spells/druidcraft-xphb|druidcraft]], and [[/03_Mechanics/CLI/spells/spare-the-dying-xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
+| Lorehold | Choose two from [[light-xphb|light]], [[sacred-flame-xphb|sacred flame]], and [[thaumaturgy-xphb|thaumaturgy]]. | Choose one 1st-level cleric or wizard spell. |
+| Prismari | Choose two from [[fire-bolt-xphb|fire bolt]], [[prestidigitation-xphb|prestidigitation]], and [[ray-of-frost-xphb|ray of frost]]. | Choose one 1st-level bard or sorcerer spell. |
+| Quandrix | Choose two from [[druidcraft-xphb|druidcraft]], [[guidance-xphb|guidance]], and [[mage-hand-xphb|mage hand]]. | Choose one 1st-level druid or wizard spell. |
+| Silverquill | Choose two from [[sacred-flame-xphb|sacred flame]], [[thaumaturgy-xphb|thaumaturgy]], and [[vicious-mockery-xphb|vicious mockery]]. | Choose one 1st-level bard or cleric spell. |
+| Witherbloom | Choose two from [[chill-touch-xphb|chill touch]], [[druidcraft-xphb|druidcraft]], and [[spare-the-dying-xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells
 
 ## Player-Facing Summary

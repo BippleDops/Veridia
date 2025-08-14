@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-divine-transformation-theolog-divine-transformation-theolog.svg]]
 
 
 ## Overview

@@ -15,9 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg]]
 
 
 ## Player-Facing Summary

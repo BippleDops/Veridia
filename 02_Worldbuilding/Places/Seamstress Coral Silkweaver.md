@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-seamstress-coral-silkweaver-seamstress-coral-silkweaver.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/New Tethys]]
-- [[02_Worldbuilding/Places/Noble Quarter]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Azure Citadel]]
+- [[New Tethys]]
+- [[Noble Quarter]]
+- [[Parliament of Echoes]]
 
 ## Player-Facing Summary
 

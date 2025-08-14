@@ -20,13 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-last-priest-the-last-priest.svg]]
 
 
 # The Last Priest
@@ -140,7 +135,7 @@ The Last Priest embodies themes of faith versus authority, cultural preservation
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[Old Valdris]]
 
 
 ## History
@@ -182,6 +177,6 @@ Legends speak of The Last Priest as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Last Priest]]
+- [[The Last Priest]]
 
 <!-- enriched: true -->

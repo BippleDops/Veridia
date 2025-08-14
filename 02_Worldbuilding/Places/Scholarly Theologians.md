@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-scholarly-theologians-scholarly-theologians.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 

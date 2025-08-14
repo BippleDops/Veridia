@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
 
-# [[3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos|Strahd Zombie]]
+# [[strahd-zombie-cos|Strahd Zombie]]
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
@@ -57,7 +57,7 @@ A Strahd zombie doesn't require air or sleep.
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
@@ -73,10 +73,10 @@ A Strahd zombie doesn't require air or sleep.
       \ of 5 feet.\n\nA severed arm has a speed of 5 feet and can make one claw attack\
       \ on its turn, with disadvantage on the attack roll. Each time the zombie loses\
       \ an arm, it loses a claw attack.\n\nIf its head is severed, the zombie loses\
-      \ its bite attack and its body is [[/03_Mechanics/CLI/conditions#Blinded|blinded]]\
+      \ its bite attack and its body is [[conditions#Blinded|blinded]]\
       \ unless the head can see it. The severed head has a speed of 0 feet. It can\
       \ make a bite attack, but only against a target in its space.\n\nThe zombie's\
-      \ speed is halved if it's missing a leg. If it loses both legs, it falls [[/03_Mechanics/CLI/conditions#Prone|prone]].\
+      \ speed is halved if it's missing a leg. If it loses both legs, it falls [[conditions#Prone|prone]].\
       \ If it has both arms, it can crawl. With only one arm, it can still crawl,\
       \ but its speed is halved. With no arms or legs, its speed is 0 feet, and it\
       \ can't benefit from bonuses to speed."

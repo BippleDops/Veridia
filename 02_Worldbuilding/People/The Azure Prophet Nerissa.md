@@ -14,28 +14,25 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-azure-prophet-nerissa-the-azure-prophet-nerissa.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-azure-prophet-nerissa-the-azure-prophet-nerissa.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[Quest - The Convergence Crisis]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
-- [[02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Places/The Azure Coast]]
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Captain Thaddeus Blackwater]]
+- [[Order of the Shattered Crown]]
+- [[The Emerald Sage Willowbark]]
+- [[The Shadow Singer Naia]]
+- [[The Azure Coast]]
+- [[The Order of the Shattered Crown]]
+- [[Quest - The Convergence Crisis]]
 
 ## Player-Facing Summary
 

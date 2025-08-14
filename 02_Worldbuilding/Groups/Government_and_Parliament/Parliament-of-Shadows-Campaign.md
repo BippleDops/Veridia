@@ -5,9 +5,9 @@ alignment: Lawful Good (Democratic Representation)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Cross-Realm Political Movement
-headquarters: '[[02_Worldbuilding/Lore/The Inter-Realm Council Chambers]]'
+headquarters: '[[The Inter-Realm Council Chambers]]'
 influence: Cross-Realm Politics, Shadow Community Advocacy
-leader: '[[02_Worldbuilding/Lore/Campaign Director Umbra Bridgeworth]]'
+leader: '[[Campaign Director Umbra Bridgeworth]]'
 members: ~150 campaign organizers, ~800 volunteer activists, ~5000 supporters
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -32,11 +32,8 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
-
-
 
 
 # Parliament-of-Shadows-Campaign
@@ -44,7 +41,7 @@ world: Both Aethermoor & Aquabyssos
 
 ## Organization Overview
 
-The Parliament-of-Shadows-Campaign represents a groundbreaking political movement working to establish formal political representation for shadow-touched individuals across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. This unprecedented cross-realm political campaign addresses the unique challenges faced by individuals whose transformation connects them to both worlds while often leaving them without adequate representation in either.
+The Parliament-of-Shadows-Campaign represents a groundbreaking political movement working to establish formal political representation for shadow-touched individuals across both [[Aquabyssos]] and [[Aethermoor]]. This unprecedented cross-realm political campaign addresses the unique challenges faced by individuals whose transformation connects them to both worlds while often leaving them without adequate representation in either.
 
 Unlike single-realm political movements, this organization recognizes that shadow transformation creates communities and interests that transcend traditional geographical and political boundaries. Shadow-touched individuals often face similar challenges regardless of which realm they inhabit, while also possessing unique perspectives and capabilities that could benefit governance in both worlds.
 
@@ -377,27 +374,27 @@ Works with broader civil rights movement while addressing unique aspects of shad
 
 ### Shadow Community Relations
 
-#### **[[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]**
+#### **[[Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]**
 **Relationship**: Community Coordination
 Coordinates with shadow community self-regulation efforts while focusing on external political representation.
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Grassroots Partnership
 Collaborates on community organizing while focusing on political rather than social service activities.
 
 ### Government Relations
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** (Aquabyssos)
+#### **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** (Aquabyssos)
 **Relationship**: Advocacy Target
 Lobbies for shadow representation and rights while working within existing governmental structures.
 
-#### **[[02_Worldbuilding/Groups/The Crystal Throne]]** (Aethermoor)
+#### **[[The Crystal Throne]]** (Aethermoor)
 **Relationship**: Political Engagement
 Works with existing government to ensure shadow interests are represented in policy making.
 
 ### Opposition Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[Purist Coalition]]**
 **Relationship**: Political Opposition
 Counters anti-shadow political movements through democratic organizing and advocacy.
 
@@ -519,29 +516,29 @@ The organization's headquarters spans both realms through magical transportation
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
-- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
-- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[Shadow Behavior Guidelines|02 Worldbuilding/Groups/Shadow Behavior Guidelines]]
+- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[The Crystal Throne]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Inter-Realm Council Chambers]]
-- [[02_Worldbuilding/Lore/Cross-Realm Campaign Offices]]
-- [[02_Worldbuilding/Lore/Shadow Community Political Centers]]
-- [[02_Worldbuilding/Lore/Inter-Realm Communication Networks]]
+- [[The Inter-Realm Council Chambers]]
+- [[Cross-Realm Campaign Offices]]
+- [[Shadow Community Political Centers]]
+- [[Inter-Realm Communication Networks]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Lore/Campaign Director Umbra Bridgeworth]]
+- [[Campaign Director Umbra Bridgeworth]]
 - [[Electoral Strategist Marcus Votepower]]
-- [[02_Worldbuilding/Lore/Community Organizer Luna Grassroots]]
+- [[Community Organizer Luna Grassroots]]
 - [[International Coordinator Raven Crossrealm]]
 
 **Important Concepts**:
-- [[02_Worldbuilding/Lore/Shadow Political Representation]]
-- [[02_Worldbuilding/Lore/Cross-Realm Democracy]]
-- [[02_Worldbuilding/Lore/Shadow Civil Rights Movement]]
+- [[Shadow Political Representation]]
+- [[Cross-Realm Democracy]]
+- [[Shadow Civil Rights Movement]]
 - [[Inter-Realm Political Institutions]]
-- [[02_Worldbuilding/Lore/Shadow Community Political Power]]
+- [[Shadow Community Political Power]]
 
 ## Player-Facing Summary
 

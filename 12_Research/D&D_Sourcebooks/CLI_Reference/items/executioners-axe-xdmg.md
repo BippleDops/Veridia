@@ -33,7 +33,7 @@ world: Both
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to the extra damage dealt.
+Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [[temporary-hit-points-xphb|Temporary Hit Points]] equal to the extra damage dealt.
 
 **Variants**:
 - [Executioner's Battleaxe](#Executioner's%20Battleaxe)
@@ -46,26 +46,26 @@ Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and y
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 4.0 lbs.
 
 ### Executioner's Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
 ### Executioner's Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 ### Executioner's Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
 - **Weight**: 2.0 lbs.
 
 

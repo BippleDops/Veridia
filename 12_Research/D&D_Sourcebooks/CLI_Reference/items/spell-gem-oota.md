@@ -29,16 +29,16 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/spell-gem-amber-oota|Spell Gem (Amber)]]
-- [[/03_Mechanics/CLI/items/spell-gem-bloodstone-oota|Spell Gem (Bloodstone)]]
-- [[/03_Mechanics/CLI/items/spell-gem-diamond-oota|Spell Gem (Diamond)]]
-- [[/03_Mechanics/CLI/items/spell-gem-jade-oota|Spell Gem (Jade)]]
-- [[/03_Mechanics/CLI/items/spell-gem-lapis-lazuli-oota|Spell Gem (Lapis lazuli)]]
-- [[/03_Mechanics/CLI/items/spell-gem-obsidian-oota|Spell Gem (Obsidian)]]
-- [[/03_Mechanics/CLI/items/spell-gem-quartz-oota|Spell Gem (Quartz)]]
-- [[/03_Mechanics/CLI/items/spell-gem-ruby-oota|Spell Gem (Ruby)]]
-- [[/03_Mechanics/CLI/items/spell-gem-star-ruby-oota|Spell Gem (Star ruby)]]
-- [[/03_Mechanics/CLI/items/spell-gem-topaz-oota|Spell Gem (Topaz)]]
+- [[spell-gem-amber-oota|Spell Gem (Amber)]]
+- [[spell-gem-bloodstone-oota|Spell Gem (Bloodstone)]]
+- [[spell-gem-diamond-oota|Spell Gem (Diamond)]]
+- [[spell-gem-jade-oota|Spell Gem (Jade)]]
+- [[spell-gem-lapis-lazuli-oota|Spell Gem (Lapis lazuli)]]
+- [[spell-gem-obsidian-oota|Spell Gem (Obsidian)]]
+- [[spell-gem-quartz-oota|Spell Gem (Quartz)]]
+- [[spell-gem-ruby-oota|Spell Gem (Ruby)]]
+- [[spell-gem-star-ruby-oota|Spell Gem (Star ruby)]]
+- [[spell-gem-topaz-oota|Spell Gem (Topaz)]]
 
 *Source: Out of the Abyss p. 223*
 

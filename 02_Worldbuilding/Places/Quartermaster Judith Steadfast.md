@@ -25,9 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg]]
 
 
 # The Steadfast Supply Depot - Aquabyssos Logistics Hub
@@ -341,7 +339,7 @@ The Steadfast Supply Depot connects to numerous important elements throughout Aq
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -363,6 +361,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]]
+- [[Quartermaster Judith Steadfast]]
 
 <!-- enriched: true -->

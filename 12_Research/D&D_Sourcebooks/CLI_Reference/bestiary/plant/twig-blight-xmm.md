@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-twig-blight-xmm-twig-blight-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/twig-blight-xmm|Twig Blight]]
+# [[twig-blight-xmm|Twig Blight]]
 *Source: Monster Manual (2024) p. 43*  
 
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
@@ -62,17 +62,17 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Deafened|deafened]]"
+"condition_immunities": "[[conditions#Deafened|deafened]]"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The blight has [[advantage-xphb|Advantage]]\
       \ on an attack roll against a creature if at least one of the blight's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ is within 5 feet of the creature and the ally doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition."
     "name": "Pack Tactics"
 "actions":

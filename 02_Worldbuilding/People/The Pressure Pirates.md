@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[The Final Choice]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/People/Lighthouse Keeper]]
+- [[The Final Choice]]
+- [[Lighthouse Keeper]]
 
 ## Player-Facing Summary
 

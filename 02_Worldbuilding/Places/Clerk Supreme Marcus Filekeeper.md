@@ -16,11 +16,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-clerk-supreme-marcus-filekeeper-clerk-supreme-marcus-filekeeper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-clerk-supreme-marcus-filekeeper-clerk-supreme-marcus-filekeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Clerk Supreme Marcus Filekeeper]]
+- [[12_Research/D&D_References/Clerk Supreme Marcus Filekeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[12_Research/D&D_References/The Crown Authority]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

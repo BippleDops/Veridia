@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-first-queen-s-shade-the-first-queen-s-shade.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-first-queen-s-shade-the-first-queen-s-shade.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[Secret Vault Beneath Throne]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[Secret Vault Beneath Throne]]
 
 ## Player-Facing Summary
 

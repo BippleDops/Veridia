@@ -16,12 +16,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-chronicle-keeper-sage-deepmemory-chronicle-keeper-sage-deepmemory.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-chronicle-keeper-sage-deepmemory-chronicle-keeper-sage-deepmemory.svg]]
 
 
 ## Overview
@@ -63,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Chronicle Keeper Sage Deepmemory]]
+- [[12_Research/D&D_References/Chronicle Keeper Sage Deepmemory]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Campaign Epilogues]]
+- [[12_Research/D&D_References/Campaign Epilogues]]

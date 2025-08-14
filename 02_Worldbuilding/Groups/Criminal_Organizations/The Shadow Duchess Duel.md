@@ -5,9 +5,9 @@ alignment: Lawful Neutral (Honor-bound)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Aristocratic Dueling Society
-headquarters: '[[02_Worldbuilding/Lore/The Umbral Pavilion]]'
+headquarters: '[[The Umbral Pavilion]]'
 influence: High Society, Shadow Court
-leader: '[[02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]'
+leader: '[[Shadow Duchess Lysandra Voidgrace]]'
 members: ~75 active duelists, ~300 affiliates
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -34,14 +34,12 @@ world: Aquabyssos
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-duchess-duel-the-shadow-duchess-duel.svg)
 
 
-
-
 # The Shadow Duchess Duel
 *The Noble Art of Shadow Combat, Arbiters of Honor Amongst the Depths*
 
 ## Organization Overview
 
-The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[02_Worldbuilding/Places/Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
+The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
 
 Unlike the chaotic violence that often characterizes conflicts in the depths, the Shadow Duchess Duel operates according to elaborate protocols that transform potentially lethal disputes into structured competitions. Their influence extends throughout the upper echelons of shadow-touched society, where a duel properly conducted according to their standards can resolve everything from minor social slights to major political disputes.
 
@@ -320,37 +318,37 @@ The Shadow Duchess Duel offers professional mediation and arbitration services t
 
 ### Formal Alliances
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
+#### **[[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**
 **Relationship**: Mutual Respect and Cooperation
 Both organizations value tradition, honor, and scholarly excellence. The Order provides astronomical timing for important ceremonies while the Duel provides conflict resolution services for scholarly disputes.
 
-#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire]]**
 **Relationship**: Diplomatic Recognition
 The Empire recognizes the Duel as legitimate representatives of shadow nobility. Formal protocols exist for handling disputes between mer-folk and shadow-touched individuals.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[Silverscale Consortium]]**
 **Relationship**: Professional Services
 The Consortium occasionally employs the Duel for arbitration of complex business disputes. The relationship is cordial but entirely professional.
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
+#### **[[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**
 **Relationship**: Cautious Coexistence
 The Parliament appreciates the Duel's role in maintaining order among shadow-touched citizens but remains wary of their aristocratic exclusivity and potential political influence.
 
 ### Complex Relationships
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]**
 **Relationship**: Philosophical Opposition
 While both organizations serve shadow-touched individuals, they have fundamentally different approaches. The Warren values collective action and social equality, while the Duel emphasizes individual honor and aristocratic hierarchy.
 
-#### **[[02_Worldbuilding/Groups/Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]**
+#### **[[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]**
 **Relationship**: Active Opposition
 The Cult's chaotic violence and disregard for civilized conduct directly contradicts everything the Duel represents. Members actively support law enforcement efforts against Cult activities.
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[Purist Coalition]]**
 **Relationship**: Ideological Enemies
 The Coalition views shadow-touched individuals as corrupted abominations, making any cooperation impossible. The Duel maintains defensive protocols against Purist attacks.
 
@@ -531,34 +529,34 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
+- [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
+- [[Ancient Mer-Folk Empire]]
+- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
+- [[Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
 **Key Locations**:
-- [[02_Worldbuilding/Lore/The Umbral Pavilion]]
-- [[02_Worldbuilding/Places/Shadow Noble Districts]]
-- [[02_Worldbuilding/Lore/The Dueling Chambers]]
-- [[02_Worldbuilding/Groups/Academies/Shadow Academy Training Grounds]]
+- [[The Umbral Pavilion]]
+- [[Shadow Noble Districts]]
+- [[The Dueling Chambers]]
+- [[Shadow Academy Training Grounds]]
 
 **Notable NPCs**:
-- [[02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]
-- [[02_Worldbuilding/Lore/Shadowblade Marshal Darian Nightstrike]]
-- [[02_Worldbuilding/Lore/Voidwhisper Diplomat Seraphina Darkgrace]]
-- [[02_Worldbuilding/Lore/Umbral Scholar Valentina Depthlore]]
+- [[Shadow Duchess Lysandra Voidgrace]]
+- [[Shadowblade Marshal Darian Nightstrike]]
+- [[Voidwhisper Diplomat Seraphina Darkgrace]]
+- [[Umbral Scholar Valentina Depthlore]]
 
 **Important Concepts**:
-- [[02_Worldbuilding/Lore/The Umbral Codes]]
-- [[02_Worldbuilding/Lore/Shadow Honor System]]
+- [[The Umbral Codes]]
+- [[Shadow Honor System]]
 - [[Formal Dueling Protocols]]
-- [[02_Worldbuilding/Lore/Shadow Society Hierarchy]]
+- [[Shadow Society Hierarchy]]
 - [[Honor-Based Conflict Resolution]]
 
 
 ## Connections
 
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -582,4 +580,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Academy Training Grounds|02 Worldbuilding/Groups/Shadow Academy Training Grounds]]
+- [[Shadow Academy Training Grounds|02 Worldbuilding/Groups/Shadow Academy Training Grounds]]

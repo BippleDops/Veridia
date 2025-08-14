@@ -25,7 +25,7 @@ world: Both
 
 **Prerequisite**: Level 15
 
-You can cast [[/03_Mechanics/CLI/spells/invisibility-xphb|invisibility]] at will, without expending a spell slot.
+You can cast [[invisibility-xphb|invisibility]] at will, without expending a spell slot.
 
 ## Player-Facing Summary
 

@@ -25,16 +25,16 @@ world: Both
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [[/03_Mechanics/CLI/items/jeweled-gold-crown-xdmg|Jeweled gold crown]] |
-| 2 | [[/03_Mechanics/CLI/items/jeweled-platinum-ring-xdmg|Jeweled platinum ring]] |
-| 3 | [[/03_Mechanics/CLI/items/gold-statuette-set-with-rubies-xdmg|Gold statuette set with rubies]] |
-| 4 | [[/03_Mechanics/CLI/items/gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]] |
-| 5 | [[/03_Mechanics/CLI/items/gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]] |
-| 6 | [[/03_Mechanics/CLI/items/set-of-gold-nesting-dolls-xdmg|Set of gold nesting dolls]] |
-| 7 | [[/03_Mechanics/CLI/items/jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with gold playing pieces]] |
-| 8 | [[/03_Mechanics/CLI/items/bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]] |
-| 9 | [[/03_Mechanics/CLI/items/gilded-royal-coach-or-funeral-barge-xdmg|Gilded royal coach or funeral barge]] |
-| 10 | [[/03_Mechanics/CLI/items/ceremonial-gold-armor-with-black-pearls-xdmg|Ceremonial gold armor with black pearls]] |
+| 1 | [[jeweled-gold-crown-xdmg|Jeweled gold crown]] |
+| 2 | [[jeweled-platinum-ring-xdmg|Jeweled platinum ring]] |
+| 3 | [[gold-statuette-set-with-rubies-xdmg|Gold statuette set with rubies]] |
+| 4 | [[gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]] |
+| 5 | [[gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]] |
+| 6 | [[set-of-gold-nesting-dolls-xdmg|Set of gold nesting dolls]] |
+| 7 | [[jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with gold playing pieces]] |
+| 8 | [[bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]] |
+| 9 | [[gilded-royal-coach-or-funeral-barge-xdmg|Gilded royal coach or funeral barge]] |
+| 10 | [[ceremonial-gold-armor-with-black-pearls-xdmg|Ceremonial gold armor with black pearls]] |
 ^7500-gp-art-objects
 
 ## Player-Facing Summary

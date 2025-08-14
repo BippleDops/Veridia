@@ -2,6 +2,8 @@
 type: Lore
 status: draft
 tags:
+- crystal-enhanced
+- aquatic
 - available
 - both
 - combat
@@ -22,31 +24,33 @@ created: '2025-08-11'
 ---
 
 
-
-
-
 # The Green Death
 
 *When the cure becomes worse than the disease*
 
 ## Quest Overview
-[[02_Worldbuilding/People/Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[02_Worldbuilding/Places/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
+
+[[12_Research/D&D_References/Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[12_Research/D&D_Statblocks/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
 
 ## Quest Giver
-**[[02_Worldbuilding/People/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
+
+**[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[12_Research/D&D_References/Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
 
 ## Background
-Sorrow-Root's research has uncovered a terrible truth: the [[02_Worldbuilding/Items/Aether Crystals]] aren't just corrupting magic stones - they're eggs of an extraplanar parasite. The Green Death might be the only way to stop a worse catastrophe, but at the cost of nearly everyone in Aethermoor.
+
+Sorrow-Root's research has uncovered a terrible truth: the [[12_Research/D&D_References/Aether Crystals]] aren't just corrupting magic stones - they're eggs of an extraplanar parasite. The Green Death might be the only way to stop a worse catastrophe, but at the cost of nearly everyone in Aethermoor.
 
 ## Objectives
 
 ### Primary Objectives
-1. Infiltrate [[02_Worldbuilding/Places/The Synthesis Gardens]]
+
+1. Infiltrate [[12_Research/D&D_Statblocks/The Synthesis Gardens]]
 2. Stop or delay the Green Death deployment
 3. Discover the truth about the crystal parasites
 4. Make the impossible choice: genocide or potential extinction
 
 ### Optional Objectives
+
 - Rescue corrupted druids from the Withered Court
 - Steal the corruption cure (Batch 7-Alpha)
 - Turn Sorrow-Root from their path
@@ -54,23 +58,26 @@ Sorrow-Root's research has uncovered a terrible truth: the [[02_Worldbuilding/It
 - Secure research data about crystal origins
 
 ## Key NPCs Involved
-- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Desperate to save both nature and people
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Has Confederate resources that might help
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - May temporarily ally against this threat
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Knows the truth about the crystals
+
+- **[[12_Research/D&D_References/Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
+- **[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]** - Desperate to save both nature and people
+- **[[12_Research/D&D_References/Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
+- **[[12_Research/D&D_References/Zephyr Goldwhisper]]** - Has Confederate resources that might help
+- **[[12_Research/D&D_References/High Inquisitor Maltheos]]** - May temporarily ally against this threat
+- **[[12_Research/D&D_Statblocks/The Crimson Sage]]** - Knows the truth about the crystals
 
 ## Investigation Discoveries
 
 ### The Parasite Truth
+
 Through Sorrow-Root's research notes, the party learns:
 - Crystals are indeed eggs that will hatch in 2-3 years
 - The parasites feed on life force and magic
 - Each infected person becomes an incubator
-- [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) has been trying to prevent this
+- [[12_Research/D&D_Statblocks/The Crimson Sage]] (Aetheron) has been trying to prevent this
 
 ### The Green Death Mechanism
+
 - Fungal spores that target crystal-corrupted tissue
 - Spreads through air and water
 - Kills in 48 hours
@@ -78,51 +85,59 @@ Through Sorrow-Root's research notes, the party learns:
 - Already produced in massive quantities
 
 ### Alternative Solutions
+
 Hidden in the research:
 - Batch 7-Alpha can reverse corruption if mass-produced
-- [[02_Worldbuilding/Places/Goldspire Port]]'s null technology might destroy eggs
-- The [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] united might purge all corruption
-- [[02_Worldbuilding/Places/Aquabyssos]] magic could transform people to survive
+- [[12_Research/D&D_References/Goldspire Port]]'s null technology might destroy eggs
+- The [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] united might purge all corruption
+- [[12_Research/D&D_References/Aquabyssos]] magic could transform people to survive
 
 ## Paths Through the Gardens
 
 ### The Direct Assault
+
 - Fight through Withered Court defenses
 - Battle corrupted nature itself
 - Face Sorrow-Root in the Heart Root
 - Risk: High casualties, Gardens' defenses activate
 
 ### The Infiltration Route
+
 - Pose as recruits to the Withered Court
 - Gain access to inner sanctum
 - Sabotage from within
 - Risk: Corruption exposure, moral compromises
 
 ### The Negotiation Path
+
 - Appeal to Sorrow-Root's remaining humanity
 - Present alternative solutions
 - Seek compromise or delay
 - Risk: May be too late, Sorrow-Root too far gone
 
 ### The Alliance Option
+
 - Unite unlikely allies against threat
-- Bring [[02_Worldbuilding/People/High Inquisitor Maltheos]] and [[02_Worldbuilding/People/Archdruid Thornweaver]] together
+- Bring [[12_Research/D&D_References/High Inquisitor Maltheos]] and [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] together
 - Coordinate multi-pronged approach
 - Risk: Alliance instability, conflicting goals
 
 ## Moral Dilemmas
 
 ### The Trolley Problem
+
 - Let Green Death deploy: Save world from parasites, kill 90% of population
 - Stop Green Death: Save population, risk parasite apocalypse
 - Partial deployment: Target specific infected areas only
 
 ### The Corruption Choice
+
 - Use Batch 7-Alpha: Cure exists but limited supply - who gets saved?
 - Embrace corruption: Some might survive transformation
 - Seek Aquabyssos solution: Underwater transformation for survival
 
 ## DM Secrets
+
 > [!warning] The Countdown
 > - Deployment scheduled in 5 days
 > - Each day, Sorrow-Root corrupts 1 square mile more of forest
@@ -138,18 +153,21 @@ Hidden in the research:
 ## Encounters
 
 ### Gardens Exterior
+
 - **Thornling Patrols** (CR 3, groups of 4-6)
 - **Corrupted Treants** (CR 9, modified)
 - **Crystal Dryads** (CR 4, charm abilities)
 - **Living Gardens** (environmental hazard)
 
 ### The Spiral Greenhouse
+
 - **Withered Court Druids** (CR 5-7, spell-casting)
 - **The Gardeners** (CR 8, shambling mounds)
 - **Failed Experiments** (CR varies, random mutations)
 - **Sorrow-Root Nightbloom** (CR 11, final boss)
 
 ## Environmental Challenges
+
 - Corruption pollen (CON saves)
 - Living architecture (DEX saves)
 - Psychic plant network (WIS saves)
@@ -158,6 +176,7 @@ Hidden in the research:
 ## Rewards
 
 ### Success (Full Prevention)
+
 - Batch 7-Alpha samples (cure for corruption)
 - Sorrow-Root's research on crystal origins
 - Alliance with reformed Withered Court
@@ -165,6 +184,7 @@ Hidden in the research:
 - 10,000 gp in rare alchemical components
 
 ### Success (Delayed/Partial)
+
 - Time to find alternatives
 - Some research data
 - Fungal samples for study
@@ -172,6 +192,7 @@ Hidden in the research:
 - Temporary alliance possibilities
 
 ### Failure (Deployment)
+
 - Mass casualties across Aethermoor
 - Party must survive Green Death
 - Becomes post-apocalyptic campaign
@@ -181,25 +202,29 @@ Hidden in the research:
 ## Consequences & Follow-ups
 
 ### If Green Death Prevented
+
 - Crystal parasites remain active threat
 - Must find alternative solution quickly
 - Sorrow-Root becomes recurring villain or tragic ally
-- [[02_Worldbuilding/Places/The Synthesis Gardens]] continues spreading
+- [[12_Research/D&D_Statblocks/The Synthesis Gardens]] continues spreading
 
 ### If Green Death Deployed
+
 - 90% population death
 - Survivors immune to corruption
 - Rebuilding civilization focus
-- [[02_Worldbuilding/Places/Aquabyssos]] may invade weakened surface
-- [[02_Worldbuilding/Places/Goldspire Confederacy]] implements quarantine
+- [[12_Research/D&D_References/Aquabyssos]] may invade weakened surface
+- [[12_Research/D&D_References/Goldspire Confederacy]] implements quarantine
 
 ### If Alternative Found
+
 - Possible alliance with Sorrow-Root
 - Mass production of cure needed
 - Race against parasite hatching
 - International cooperation required
 
 ## Connected Quests
+
 - Connects to: "The Tide Rises" (Aquabyssos as solution?)
 - Leads to: "Economic Warfare" (Confederate resources needed)
 - References: "The Shards United" (potential world-saving solution)
@@ -226,10 +251,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[12_Research/D&D_References/Aether Crystals]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[12_Research/D&D_References/Goldspire Confederacy]]
+- [[12_Research/D&D_References/Aether Crystals]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

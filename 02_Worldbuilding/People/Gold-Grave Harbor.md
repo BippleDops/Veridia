@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-gold-grave-harbor-gold-grave-harbor.svg)
 
 
-
 ## Cross-References
 
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
+- [[Duchess Marina Ever-Drowning]]
 
 ## Player-Facing Summary
 

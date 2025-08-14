@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -24,13 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-madame-whisper-madame-whisper.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-madame-whisper-madame-whisper.svg]]
 
 
 # Madame Whisper
@@ -52,12 +49,14 @@ Madame Whisper appears to be an elegant sea elf woman of indeterminate age, with
 Her movements are graceful and deliberate, and she has an uncanny ability to appear exactly where she needs to be at the right moment. Many clients suspect she uses subtle magic to enhance her natural charisma and observational skills.
 
 ## Personality
+
 - Sophisticated and cultured with impeccable social graces
 - Intensely curious about people's motivations and hidden agendas
 - Maintains strict professional ethics regarding client confidentiality
 - Enjoys the intellectual challenge of piecing together complex political puzzles
 
 ## Statistics
+
 **Medium humanoid (sea elf), neutral**
 - **AS** 15 (Elegant Armor)
 - **HP** 65 (10d8 + 20)
@@ -69,6 +68,7 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 - **Challenge** 5 (1,800 XP)
 
 ### Special Abilities
+
 **Network of Whispers.** Madame Whisper can spend 10 minutes to gather information about any person, event, or organization in Aquabyssos. This functions as a *divination* spell with advantage on the roll.
 
 **Sanctuary of Secrets.** The Coral Garden Salon is under a permanent *sanctuary* effect. Additionally, any agreements made within the salon are magically binding unless both parties consent to their release.
@@ -76,6 +76,7 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 **Social Camouflage.** Madame Whisper has advantage on Charisma checks when interacting with nobility, merchants, or other social elites.
 
 ### Actions
+
 **Subtle Dagger.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage as the blade carries whispered secrets that disturb the target's mind.
 
 **Compelling Suggestion.** Madame Whisper can cast *suggestion* three times per day without expending spell slots.
@@ -83,6 +84,7 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 **Information Exchange.** As an action, Madame Whisper can offer a piece of valuable information in exchange for another secret of equal value. Both parties must make a Wisdom saving throw (DC 16); those who fail feel compelled to share truthfully.
 
 ### Legendary Actions (3 per turn, when in her salon)
+
 **Move.** Madame Whisper moves up to her speed without provoking opportunity attacks.
 **Gather Intelligence.** Madame Whisper makes an Insight or Investigation check.
 **Social Manipulation (Costs 2 Actions).** Madame Whisper uses her Compelling Suggestion ability.
@@ -100,6 +102,7 @@ As political tensions escalate, Madame Whisper finds herself busier than ever. A
 She's also investigating reports of outside interference in Aquabyssos's political affairs, as her information network has detected patterns suggesting external manipulation of the current crisis.
 
 ## Relationships
+
 - **All Major Factions**: Neutral service provider respected by all sides
 - **High Society**: Central figure in Aquabyssos's social elite
 - **Her Staff**: Loyal employees who also serve as information gatherers
@@ -107,6 +110,7 @@ She's also investigating reports of outside interference in Aquabyssos's politic
 - **The Salon's Clients**: Complex web of relationships based on mutual benefit and discretion
 
 ## Secrets
+
 - Maintains detailed files on every major figure in Aquabyssos politics
 - Has identified several foreign agents operating in the city
 - Knows the true parentage, debts, and indiscretions of most elite families
@@ -114,17 +118,19 @@ She's also investigating reports of outside interference in Aquabyssos's politic
 - Possesses magical items that enhance her information-gathering abilities
 
 ## Quest Hooks
+
 1. Madame Whisper approaches the party with information about a threat to the city, requiring their services in exchange for her intelligence.
 2. The party needs access to high society or sensitive information, leading them to negotiate with Madame Whisper for her assistance.
 3. Someone has been feeding false information into Madame Whisper's network, and she needs trustworthy investigators to identify the source.
 
 ## DM Notes
+
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[12_Research/D&D_References/The Phosphor Markets]]
 
 
 ## History
@@ -172,6 +178,10 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Madame Whisper]]
+- [[12_Research/D&D_References/Madame Whisper]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

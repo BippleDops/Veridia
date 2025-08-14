@@ -5,6 +5,12 @@ created_by: auto-stub
 status: complete
 system: D&D 5e
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - both
 - campaign/session
 - complete
@@ -20,11 +26,8 @@ world: Both
 ---
 
 
-
-
-
-
 # Random Encounters
+
 *Procedural Adventure Generation for the Merged Realms*
 
 > *"The depths and heights hold infinite mysteries. Every journey becomes an adventure when you never know if the next current will bring allies, enemies, or something that defies all categories. The realms themselves generate stories faster than any chronicler can record them."*
@@ -32,13 +35,13 @@ world: Both
 
 ## Overview
 
-The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
+The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
 
 The system recognizes that encounters in the merged realms are rarely simple or straightforward. A "random" meeting with travelers might reveal diplomatic tensions, uncover smuggling operations, or provide crucial information about upcoming threats. Environmental encounters can shift from natural hazards to magical phenomena to signs of larger problems requiring investigation.
 
 Each encounter is designed to feel organic to the world while advancing ongoing storylines or introducing new plot elements. The system accounts for party level, current location, political climate, seasonal effects, and ongoing campaign themes to ensure encounters feel meaningful rather than arbitrary.
 
-The framework integrates with [[02_Worldbuilding/Lore/Environmental Hazards]], [[02_Worldbuilding/Lore/Reputation System]], [[02_Worldbuilding/Lore/Temporal Distortion Zones]], [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]], and [[02_Worldbuilding/Lore/Initiative Tracker]] to create cohesive experiences that build on established mechanics and relationships.
+The framework integrates with [[12_Research/D&D_References/Environmental Hazards]], [[12_Research/D&D_References/Reputation System]], [[12_Research/D&D_References/Temporal Distortion Zones]], [[12_Research/D&D_References/Multi-Phase Boss Fights]], and [[12_Research/D&D_References/Initiative Tracker]] to create cohesive experiences that build on established mechanics and relationships.
 
 ## Encounter Generation Framework
 
@@ -212,12 +215,12 @@ Each random encounter follows a consistent framework:
 
 | Environment | Encounter Modification |
 |-------------|------------------------|
-| [[02_Worldbuilding/Lore/Crystal Forest]] | +Crystal resonance effects, harmonic complications |
-| [[02_Worldbuilding/Places/Shadow Wells]] | +Fear effects, darkness complications, shadow creatures |
-| [[02_Worldbuilding/Lore/Pressure Crush Zones]] | +Equipment stress, adaptation challenges |
-| [[02_Worldbuilding/Lore/Temporal Distortion Zones]] | +Time effects, causality complications |
-| [[02_Worldbuilding/Lore/Reality Merge Zones]] | +Dimensional effects, reality instability |
-| [[02_Worldbuilding/Lore/Tidal Chambers]] | +Variable environment, pressure changes |
+| [[12_Research/D&D_References/Crystal Forest]] | +Crystal resonance effects, harmonic complications |
+| [[12_Research/D&D_References/Shadow Wells]] | +Fear effects, darkness complications, shadow creatures |
+| [[12_Research/D&D_References/Pressure Crush Zones]] | +Equipment stress, adaptation challenges |
+| [[12_Research/D&D_References/Temporal Distortion Zones]] | +Time effects, causality complications |
+| [[12_Research/D&D_References/Reality Merge Zones]] | +Dimensional effects, reality instability |
+| [[12_Research/D&D_References/Tidal Chambers]] | +Variable environment, pressure changes |
 
 **Weather and Seasonal Effects**:
 - **Memory Tide Season**: Increased psychic and information-based encounters
@@ -230,7 +233,7 @@ Each random encounter follows a consistent framework:
 ### Immediate Consequences
 
 **Party Actions Create**:
-- **Reputation Changes**: See [[02_Worldbuilding/Lore/Reputation System]] for faction standing effects
+- **Reputation Changes**: See [[12_Research/D&D_References/Reputation System]] for faction standing effects
 - **Resource Gains/Losses**: Equipment, information, allies, or obligations
 - **Environmental Changes**: Party actions affect local conditions
 - **Plot Hooks**: Encounters generate adventure possibilities
@@ -472,39 +475,43 @@ Track resolved encounters and their outcomes to influence future encounters:
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[02_Worldbuilding/Lore/Initiative Tracker]]**: Managing encounter turn order and timing
-- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Natural and supernatural dangers during encounters
-- **[[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Complex combat encounters
-- **[[02_Worldbuilding/Lore/Reputation System]]**: Social standing effects on encounter reactions
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental health effects of disturbing encounters
+
+- **[[12_Research/D&D_References/Initiative Tracker]]**: Managing encounter turn order and timing
+- **[[12_Research/D&D_References/Environmental Hazards]]**: Natural and supernatural dangers during encounters
+- **[[12_Research/D&D_References/Multi-Phase Boss Fights]]**: Complex combat encounters
+- **[[12_Research/D&D_References/Reputation System]]**: Social standing effects on encounter reactions
+- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental health effects of disturbing encounters
 
 ### Specific Encounter Tables
-- **[[02_Worldbuilding/Lore/Random Encounter Tables - Aquabyssos]]**: Detailed underwater encounter tables
-- **[[02_Worldbuilding/Lore/Random-Encounter-Tables-Aethermoor]]**: Specific sky realm encounter tables
-- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time-based encounter complications
-- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Memory-related encounter elements
-- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Corruption encounters and effects
+
+- **[[12_Research/D&D_References/Random Encounter Tables - Aquabyssos]]**: Detailed underwater encounter tables
+- **[[12_Research/D&D_References/Random-Encounter-Tables-Aethermoor]]**: Specific sky realm encounter tables
+- **[[12_Research/D&D_References/Temporal Distortion Zones]]**: Time-based encounter complications
+- **[[12_Research/D&D_References/Memory Alterations]]**: Memory-related encounter elements
+- **[[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]**: Corruption encounters and effects
 
 ### Environmental Integration
-- **[[02_Worldbuilding/Lore/Crystal Forest]]**: Crystal-based encounter modifications
-- **[[02_Worldbuilding/Places/Shadow Wells]]**: Shadow and fear encounter elements
-- **[[02_Worldbuilding/Lore/Pressure Crush Zones]]**: Extreme pressure encounter challenges
-- **[[02_Worldbuilding/Lore/Reality Merge Zones]]**: Multi-dimensional encounter complications
-- **[[02_Worldbuilding/Lore/Tidal Chambers]]**: Variable environment encounter options
+
+- **[[12_Research/D&D_References/Crystal Forest]]**: Crystal-based encounter modifications
+- **[[12_Research/D&D_References/Shadow Wells]]**: Shadow and fear encounter elements
+- **[[12_Research/D&D_References/Pressure Crush Zones]]**: Extreme pressure encounter challenges
+- **[[12_Research/D&D_References/Reality Merge Zones]]**: Multi-dimensional encounter complications
+- **[[12_Research/D&D_References/Tidal Chambers]]**: Variable environment encounter options
 
 ### Supporting Systems
-- **[[02_Worldbuilding/Lore/NPC Relationship Web]]**: Managing ongoing NPC connections
-- **[[02_Worldbuilding/Lore/Investigation Procedures]]**: Framework for mystery encounters
-- **[[02_Worldbuilding/Lore/Social Navigation Protocols]]**: Guidelines for social encounters
+
+- **[[12_Research/D&D_References/NPC Relationship Web]]**: Managing ongoing NPC connections
+- **[[12_Research/D&D_References/Investigation Procedures]]**: Framework for mystery encounters
+- **[[12_Research/D&D_References/Social Navigation Protocols]]**: Guidelines for social encounters
 - **[[Faction Interaction Rules]]**: Political encounter management
-- **[[02_Worldbuilding/Lore/Emergency Response Procedures]]**: Crisis encounter resolution
+- **[[12_Research/D&D_References/Emergency Response Procedures]]**: Crisis encounter resolution
 
 The Random Encounters system provides a comprehensive framework for generating meaningful, world-consistent adventures that enhance rather than distract from ongoing campaigns while taking full advantage of the unique opportunities and challenges present in the merged realms.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[12_Research/D&D_References/Initiative Tracker]]
 
 ## Player-Facing Summary
 
@@ -529,13 +536,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[02_Worldbuilding/Lore/Pressure Crush Zones]]
-- [[02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[02_Worldbuilding/Lore/Reputation System]]
-- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[02_Worldbuilding/Lore/Tidal Chambers]]
-- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+- [[12_Research/D&D_References/Investigation Procedures]]
+- [[12_Research/D&D_References/Multi-Phase Boss Fights]]
+- [[12_Research/D&D_References/Pressure Crush Zones]]
+- [[12_Research/D&D_References/Reality Merge Zones]]
+- [[12_Research/D&D_References/Reputation System]]
+- [[12_Research/D&D_References/Temporal Distortion Zones]]
+- [[12_Research/D&D_References/Tidal Chambers]]
+- [[12_Research/D&D_References/Shadow Wells]]

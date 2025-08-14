@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
 
 ## Player-Facing Summary
 

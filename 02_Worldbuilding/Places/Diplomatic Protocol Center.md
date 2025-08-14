@@ -2,6 +2,9 @@
 created: '2025-08-12'
 status: complete
 tags:
+- crystal-enhanced
+- aerial
+- aquatic
 - both worlds
 - complete
 - content/location
@@ -18,8 +21,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-diplomatic-protocol-center.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-diplomatic-protocol-center.svg]]
 
 
 ## Overview
@@ -272,12 +274,12 @@ The complex's unique architecture adapts to serve both aquatic and aerial inhabi
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
-- [[02_Worldbuilding/Lore/Inter-Realm Council]]
+- [[12_Research/D&D_References/Cross-Dimensional Transit Authority]]
+- [[12_Research/D&D_References/Inter-Realm Council]]
 - [[Cultural Exchange Programs]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
+- [[12_Research/D&D_References/Cross-Realm Cooperation Authority]]
 - [[Inter-Realm Trade Routes]]
-- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
+- [[12_Research/D&D_References/Hybrid Communities Integration]]
 
 ## Player-Facing Summary
 
@@ -289,6 +291,11 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
+- [[12_Research/D&D_References/Diplomatic Protocol Center]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

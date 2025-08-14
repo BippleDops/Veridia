@@ -14,35 +14,32 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
+- [[Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Cathedral of Light]]
-- [[02_Worldbuilding/Places/The Gilded Shard]]
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
-- [[02_Worldbuilding/Items/Aether Crystals]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Smuggler]]
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[The Forsaken Consortium Collective]]
+- [[The Seven Shards]]
+- [[Admiral Cassandra Stormwind]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Aurelius Goldwave]]
+- [[Professor Aldric Crystalweaver]]
+- [[Azure Citadel]]
+- [[Cathedral of Light]]
+- [[The Gilded Shard]]
+- [[The Order of the Shattered Crown]]
+- [[Aether Crystals]]
+- [[Crystalline Depths]]
+- [[Smuggler]]
 
 ## Player-Facing Summary
 

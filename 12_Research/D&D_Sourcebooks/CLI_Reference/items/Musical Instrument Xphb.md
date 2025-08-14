@@ -32,16 +32,16 @@ world: Both
 
 **Items in this group:**
 
-- [[/03_Mechanics/CLI/items/bagpipes-xphb|Bagpipes]]
-- [[/03_Mechanics/CLI/items/drum-xphb|Drum]]
-- [[/03_Mechanics/CLI/items/dulcimer-xphb|Dulcimer]]
-- [[/03_Mechanics/CLI/items/flute-xphb|Flute]]
-- [[/03_Mechanics/CLI/items/horn-xphb|Horn]]
-- [[/03_Mechanics/CLI/items/lute-xphb|Lute]]
-- [[/03_Mechanics/CLI/items/lyre-xphb|Lyre]]
-- [[/03_Mechanics/CLI/items/pan-flute-xphb|Pan Flute]]
-- [[/03_Mechanics/CLI/items/shawm-xphb|Shawm]]
-- [[/03_Mechanics/CLI/items/viol-xphb|Viol]]
+- [[bagpipes-xphb|Bagpipes]]
+- [[drum-xphb|Drum]]
+- [[dulcimer-xphb|Dulcimer]]
+- [[flute-xphb|Flute]]
+- [[horn-xphb|Horn]]
+- [[lute-xphb|Lute]]
+- [[lyre-xphb|Lyre]]
+- [[pan-flute-xphb|Pan Flute]]
+- [[shawm-xphb|Shawm]]
+- [[viol-xphb|Viol]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

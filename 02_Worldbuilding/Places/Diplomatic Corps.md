@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/location
@@ -13,10 +14,6 @@ type: Location
 updated: '2025-08-13T12:34:16.724773+00:00'
 world: Both
 ---
-
-
-
-
 
 
 ## Overview
@@ -58,16 +55,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Diplomatic Corps]]
+- [[12_Research/D&D_References/Diplomatic Corps]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
-- [[02_Worldbuilding/Lore/Reputation System]]
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[12_Research/D&D_References/Eastern Kingdoms]]
+- [[12_Research/D&D_References/Reputation System]]
+- [[12_Research/D&D_References/Inverted Ballroom Wing]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Mad Oracle Thessaly]]
+- [[12_Research/D&D_References/The Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

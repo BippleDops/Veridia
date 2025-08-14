@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-patrol-boundaryrider-patrol-boundaryrider.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-patrol-boundaryrider-patrol-boundaryrider.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[12_Research/D&D_References/Surface Tensions]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[12_Research/D&D_References/Surface Tensions]]
 
 ## Player-Facing Summary
 

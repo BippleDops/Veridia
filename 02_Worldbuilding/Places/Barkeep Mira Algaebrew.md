@@ -15,25 +15,19 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-barkeep-mira-algaebrew-barkeep-mira-algaebrew.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-barkeep-mira-algaebrew-barkeep-mira-algaebrew.svg]]
 
 
 # The Algaebrew Tavern
 *Where the Sea's Bounty Flows Like Wine*
 
 > *"Every kelp has its season, every current its flavor, and every drinker their perfect brew. Come taste the ocean's own whiskey, fermented in the deep currents and aged in crystal caves."*
-> — [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]], Master of the Deep Brew
+> — [[Barkeep Mira Algaebrew]], Master of the Deep Brew
 
 ## Overview
 
-The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishment, where [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]] has revolutionized underwater brewing by creating the first successful kelp-based alcoholic beverages. Located in the vibrant [[02_Worldbuilding/Places/Harbor District]], this lively tavern serves as the primary gathering place for dock workers, sailors, and adventurers seeking both refreshment and entertainment after long days of labor. More than just a drinking establishment, the Algaebrew has become a cultural hub where new brewing techniques are pioneered, sea shanties echo through the night, and the unique flavors of the deep are celebrated in liquid form.
+The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishment, where [[Barkeep Mira Algaebrew]] has revolutionized underwater brewing by creating the first successful kelp-based alcoholic beverages. Located in the vibrant [[Harbor District]], this lively tavern serves as the primary gathering place for dock workers, sailors, and adventurers seeking both refreshment and entertainment after long days of labor. More than just a drinking establishment, the Algaebrew has become a cultural hub where new brewing techniques are pioneered, sea shanties echo through the night, and the unique flavors of the deep are celebrated in liquid form.
 
 ## History and Foundation
 
@@ -45,7 +39,7 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 **Innovation**: Desperate experimentation with local underwater plants
 
 ### Mira's Revolution
-**Arrival**: 25 years ago, [[02_Worldbuilding/Places/Mira Algaebrew]] purchased the failing establishment  
+**Arrival**: 25 years ago, [[Mira Algaebrew]] purchased the failing establishment  
 **Background**: Former kelp farmer with natural fermentation intuition  
 **Breakthrough**: First successful kelp-based alcohol fermentation  
 **Innovation**: Developed "pressure brewing" using deep-sea conditions  
@@ -133,7 +127,7 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 **Security**: Heavily protected chamber storing brewing formulas  
 **Collection**: Hundreds of tested recipes and experimental notes  
 **Legacy**: Accumulated knowledge from decades of brewing innovation  
-**Access**: Only [[02_Worldbuilding/Places/Mira Algaebrew]] and senior brewers allowed entry  
+**Access**: Only [[Mira Algaebrew]] and senior brewers allowed entry  
 **Backup**: Multiple secure copies protect against loss
 
 #### The Ingredient Warehouse
@@ -222,7 +216,7 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 ### Experimental Beverages
 
 #### Memory Foam
-**Innovation**: Collaboration with [[02_Worldbuilding/Places/Memory Farmers]] creating memory-enhanced drinks  
+**Innovation**: Collaboration with [[Memory Farmers]] creating memory-enhanced drinks  
 **Effect**: Mild enhancement of memory and learning abilities  
 **Process**: Incorporating memory-active compounds into fermentation  
 **Caution**: Strictly controlled, requires customer consent  
@@ -246,21 +240,21 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ### Leadership
 
-#### [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+#### [[Barkeep Mira Algaebrew]]
 **Background**: Former kelp farmer turned brewing innovator  
 **Philosophy**: "The sea provides everything we need—we just need to listen"  
 **Innovation**: Pioneer in kelp-based alcohol fermentation  
 **Reputation**: Recognized as greatest underwater brewer in known world  
 **Dedication**: Personally involved in every aspect of brewing and service
 
-#### Master Brewer [[02_Worldbuilding/Places/Foam Deepferment]]
+#### Master Brewer [[Foam Deepferment]]
 **Role**: Chief brewing technician and Mira's apprentice successor  
 **Experience**: 15 years learning under Mira's guidance  
 **Specialization**: Expert in pressure-aging and fermentation timing  
 **Innovation**: Developed several popular seasonal specialty recipes  
 **Leadership**: Manages brewing operations when Mira focuses on recipe development
 
-#### Head Bartender [[02_Worldbuilding/Places/Surge Mixmaster]]
+#### Head Bartender [[Surge Mixmaster]]
 **Expertise**: Master of beverage presentation and customer service  
 **Innovation**: Created dozens of mixed drinks using Algaebrew base spirits  
 **Personality**: Charismatic entertainer keeping patrons engaged  
@@ -269,21 +263,21 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ### Brewing Team
 
-#### Senior Fermenter [[02_Worldbuilding/Places/Bubble Yeastkeeper]]
+#### Senior Fermenter [[Bubble Yeastkeeper]]
 **Specialization**: Managing fermentation processes and timing  
 **Experience**: 20 years perfecting kelp fermentation techniques  
 **Innovation**: Discovered several breakthrough fermentation methods  
 **Quality**: Responsible for maintaining consistent beverage quality  
 **Teaching**: Trains apprentices in proper fermentation management
 
-#### Kelp Master [[02_Worldbuilding/Places/Current Harvestsage]]
+#### Kelp Master [[Current Harvestsage]]
 **Role**: Selecting and preparing kelp for brewing  
 **Knowledge**: Expert in kelp varieties and their brewing properties  
 **Network**: Maintains relationships with kelp farmers throughout region  
 **Quality**: Ensures only finest kelp used in brewing process  
 **Seasonality**: Manages seasonal kelp acquisition and storage
 
-#### Pressure Technician [[02_Worldbuilding/Places/Deep Compressmaster]]
+#### Pressure Technician [[Deep Compressmaster]]
 **Innovation**: Specialist in depth-aging pressure chamber operations  
 **Training**: Unique expertise in pressure brewing techniques  
 **Safety**: Responsible for safe operation of high-pressure equipment  
@@ -292,21 +286,21 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ### Service Staff
 
-#### Lead Server [[02_Worldbuilding/Places/Wave Friendlyserve]]
+#### Lead Server [[Wave Friendlyserve]]
 **Experience**: 12 years providing exceptional customer service  
 **Knowledge**: Expert in all tavern beverages and their characteristics  
 **Recommendation**: Skilled at matching customers with perfect beverages  
 **Community**: Knows regular customers' preferences and stories  
 **Training**: Teaches new servers about customer service excellence
 
-#### Entertainment Coordinator [[02_Worldbuilding/Places/Song Merrytide]]
+#### Entertainment Coordinator [[Song Merrytide]]
 **Role**: Organizing nightly entertainment and special events  
 **Talent**: Accomplished musician and performer  
 **Network**: Connections with entertainers throughout Harbor District  
 **Innovation**: Creates themed events celebrating brewing achievements  
 **Community**: Builds connections between tavern and local cultural community
 
-#### Kitchen Supervisor [[02_Worldbuilding/Places/Feast Saltyflavor]]
+#### Kitchen Supervisor [[Feast Saltyflavor]]
 **Cuisine**: Preparing food that complements brewing specialties  
 **Innovation**: Developing dishes that enhance beverage flavors  
 **Quality**: Maintaining high standards for tavern food offerings  
@@ -409,21 +403,21 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ### Regular Customers
 
-#### Captain [[02_Worldbuilding/Places/Storm Weatherwright]]
+#### Captain [[Storm Weatherwright]]
 **Profession**: Veteran sea captain with 40 years experience  
 **Loyalty**: Daily patron for past 15 years  
 **Contribution**: Source of sailing stories and weather wisdom  
 **Preference**: Exclusively drinks Abyssal Dark, claims it improves navigation intuition  
 **Community**: Respected elder providing guidance to younger sailors
 
-#### Dock Boss [[02_Worldbuilding/Places/Anchor Stronghaul]]
+#### Dock Boss [[Anchor Stronghaul]]
 **Role**: Leader of largest dock workers union  
 **Support**: Major advocate for tavern within working community  
 **Negotiation**: Often conducts union business at tavern  
 **Tradition**: Treats entire crew to drinks after successful contract negotiations  
 **Partnership**: Collaborates with Mira on worker-friendly initiatives
 
-#### Merchant [[02_Worldbuilding/Places/Wealthy Goldcurrent]]
+#### Merchant [[Wealthy Goldcurrent]]
 **Business**: Successful trader specializing in exotic goods  
 **Investment**: Financial backer of tavern's expansion projects  
 **Network**: Introduces tavern to wealthy potential customers  
@@ -432,14 +426,14 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ### Historic Visitors
 
-#### Master Brewer [[02_Worldbuilding/Places/Surface Expert Grainwise]]
+#### Master Brewer [[Surface Expert Grainwise]]
 **Background**: Renowned surface brewer investigating underwater techniques  
 **Challenge**: Initial skepticism about kelp-based brewing  
 **Conversion**: Became enthusiastic advocate after tasting Depth Charge Whiskey  
 **Collaboration**: Shared surface brewing knowledge in exchange for kelp techniques  
 **Legacy**: Cross-cultural brewing exchange benefiting both traditions
 
-#### Royal Taster [[02_Worldbuilding/Places/Noble Palatemaster]]
+#### Royal Taster [[Noble Palatemaster]]
 **Mission**: Evaluating tavern for potential royal recognition  
 **Process**: Week-long comprehensive tasting of all beverages  
 **Verdict**: Unprecedented recommendation for Royal Brewing Warrant  
@@ -457,7 +451,7 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 #### The Tide Turner Incident
 **Crisis**: Damaged pressure chamber threatened to destroy tavern  
-**Hero**: Regular patron [[02_Worldbuilding/Places/Brave Depthfixer]] volunteered for dangerous repair  
+**Hero**: Regular patron [[Brave Depthfixer]] volunteered for dangerous repair  
 **Success**: Risked life to prevent explosion, saved tavern and neighborhood  
 **Recognition**: Lifetime free drinks and hero status in community  
 **Legacy**: Annual celebration of heroism and community spirit
@@ -631,35 +625,35 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Harbor District]]
+### [[Harbor District]]
 **Integration**: Central social hub of district's working community  
 **Economy**: Major employer and contributor to district prosperity  
 **Culture**: Preserves and celebrates maritime traditions  
 **Information**: Informal news and intelligence gathering center  
 **Support**: Advocates for worker rights and community interests
 
-### [[02_Worldbuilding/Places/Kelp Forests]]
+### [[Kelp Forests]]
 **Supply**: Primary source of brewing ingredients  
 **Relationships**: Close partnerships with kelp farmers  
 **Quality**: Direct involvement in kelp cultivation and harvesting  
 **Innovation**: Developing new kelp varieties for brewing applications  
 **Sustainability**: Supporting environmentally responsible kelp farming
 
-### [[02_Worldbuilding/Places/The Dreamwhisper Inn]]
+### [[The Dreamwhisper Inn]]
 **Partnership**: Complementary services for travelers  
 **Referrals**: Cross-referrals between establishments  
 **Collaboration**: Joint events and shared resources  
 **Competition**: Friendly rivalry encouraging excellence  
 **Community**: Both contribute to Harbor District's hospitality reputation
 
-### [[02_Worldbuilding/Places/Memory Farmers]]
+### [[Memory Farmers]]
 **Innovation**: Experimental collaboration on memory-enhancing beverages  
 **Research**: Joint studies on consciousness and beverages  
 **Ethics**: Developing standards for mind-affecting drinks  
 **Caution**: Careful approach to potentially dangerous combinations  
 **Potential**: Exploring beneficial applications of combined techniques
 
-### [[02_Worldbuilding/Places/Parliament of Echoes]]
+### [[Parliament of Echoes]]
 **Service**: Providing refreshment for political visitors  
 **Information**: Source of political intelligence and rumors  
 **Neutrality**: Maintaining political neutrality while serving all factions  
@@ -680,27 +674,27 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Kelp Forests]]
-- [[02_Worldbuilding/Places/The Dreamwhisper Inn]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[Harbor District]]
+- [[Kelp Forests]]
+- [[The Dreamwhisper Inn]]
+- [[Memory Farmers]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
-- [[02_Worldbuilding/Places/Foam Deepferment]]
-- [[02_Worldbuilding/Places/Surge Mixmaster]]
-- [[02_Worldbuilding/Places/Current Harvestsage]]
+- [[Barkeep Mira Algaebrew]]
+- [[Foam Deepferment]]
+- [[Surge Mixmaster]]
+- [[Current Harvestsage]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Kelp-Based Brewing]]
-- [[02_Worldbuilding/Lore/Depth-Aging Process]]
-- [[02_Worldbuilding/Places/Underwater Fermentation]]
-- [[02_Worldbuilding/Places/Pressure Brewing Technology]]
+- [[Kelp-Based Brewing]]
+- [[Depth-Aging Process]]
+- [[Underwater Fermentation]]
+- [[Pressure Brewing Technology]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 
@@ -722,7 +716,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[Barkeep Mira Algaebrew]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]

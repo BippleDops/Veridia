@@ -20,26 +20,21 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
-
-
 
 
 # Bexley Port Authority
 
 ## General Info
-**Location**: [[02_Worldbuilding/Groups/Bexley]]
+**Location**: [[Bexley]]
 
 ## Description
 The Bexley Port Authority is the law enforcement agency that is responsible for patrolling the waters around the city of Bexley. They are a well-trained and well-equipped force, and they are dedicated to keeping the peace.
 
 ## GM Notes
 - The Port Authority is led by the tough and determined Captain Helena Stormwatch.
-- The Port Authority is a rival of the [[02_Worldbuilding/Groups/The Crimson Tide Pirates]].
+- The Port Authority is a rival of the [[The Crimson Tide Pirates]].
 - The Port Authority is a potential ally for the party, but they are also very by-the-book and will not tolerate any illegal activities.
 
 ## Player-Facing Summary
@@ -64,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]

@@ -15,22 +15,19 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-sunken-senate-the-sunken-senate.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-senate-the-sunken-senate.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Current Riders Guild]]
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[12_Research/D&D_References/Coral Throne Syndicate]]
+- [[12_Research/D&D_References/Current Riders Guild]]
+- [[12_Research/D&D_References/The Depth Plague]]
 
 ## Player-Facing Summary
 

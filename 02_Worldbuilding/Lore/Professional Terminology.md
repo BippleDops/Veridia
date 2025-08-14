@@ -3,6 +3,11 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - both
 - complete
 - content/faction
@@ -20,10 +25,10 @@ world: Both
 ---
 
 
-
 # Professional Terminology
 
 ## Summary
+
 Specialized vocabulary, jargon, and code words used by various professional guilds, organizations, and trades across both Aquabyssos and Aethermoor, including their secretive and protective linguistic practices.
 
 ## Aquabyssos Professional Languages
@@ -325,11 +330,11 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
-- [[02_Worldbuilding/Lore/Swear Words and Curses]]
-- [[02_Worldbuilding/Groups/Guilds/The Traders Guild]]
+- [[12_Research/D&D_References/Common Idioms and Sayings]]
+- [[12_Research/D&D_References/Depth Speak Variations]]
+- [[12_Research/D&D_References/Wind Song Linguistic Guide]]  
+- [[12_Research/D&D_References/Swear Words and Curses]]
+- [[12_Research/D&D_References/The Traders Guild]]
 - [[Crystal Engineering Guild]]
 - [[Deep Mining Guild]]
 
@@ -352,3 +357,8 @@ Legends speak of Professional Terminology as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[Theological Warfare]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Theological Warfare]]
+- [[Theological Warfare]]
 
 ## Player-Facing Summary
 

@@ -4,6 +4,8 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- quest
+- session-notes
 - aethermoor
 - complete
 - content/lore
@@ -21,8 +23,6 @@ world: Aethermoor
 ---
 
 
-
-
 # Ritual Redirection Options
 
 *Advanced magical techniques for altering the flow and purpose of ongoing rituals*
@@ -34,6 +34,7 @@ Ritual Redirection Options represent one of the most sophisticated branches of m
 ## Theoretical Foundation
 
 ### The Flow Principle
+
 All magical rituals create **Etheric Currents** - streams of magical energy that follow predictable patterns as they build toward their intended effect. These currents can be visualized as rivers of power flowing from the caster through various focal points toward the ritual's target. Redirection techniques work by introducing controlled disruptions into these flows, causing them to change course without dissipating entirely.
 
 **Core Concepts:**
@@ -44,6 +45,7 @@ All magical rituals create **Etheric Currents** - streams of magical energy that
 - **Harmonic Stability**: Keeping redirected rituals stable and controllable
 
 ### The Intervention Window
+
 Most rituals have specific **Intervention Windows** - brief periods during the casting process when redirection is possible. These windows typically occur:
 - **During Preparation Phase** (40% success rate): Before magical energy begins flowing
 - **At Quarter Completion** (75% success rate): When initial patterns are established
@@ -52,6 +54,7 @@ Most rituals have specific **Intervention Windows** - brief periods during the c
 - **In Crisis Moments** (90% success rate): When the original ritual is failing or corrupted
 
 ### Redirection Categories
+
 **Target Redirection**: Changing what or whom the ritual affects
 **Purpose Redirection**: Altering the intended effect while maintaining the same target
 **Power Redirection**: Redirecting energy to strengthen other ongoing magical effects
@@ -62,11 +65,13 @@ Most rituals have specific **Intervention Windows** - brief periods during the c
 ## Historical Development
 
 ### Origins in the War of Burning Skies (634-641 AR)
+
 Ritual Redirection was first developed during the **War of Burning Skies** when enemy forces began using large-scale destruction rituals against Aethermoor's floating cities. **Archmage Deflector Windturner** pioneered the first redirection techniques as a desperate measure to turn enemy fire spells into healing rain.
 
 The initial success was dramatic - a ritual intended to incinerate the city of **Nimbus Harbor** was redirected to purify the water supply and strengthen the city's defensive barriers. This victory established redirection as a legitimate magical discipline.
 
 ### The Academy of Redirection (687 AR)
+
 Following the war's end, **Master Windturner** established the **Academy of Redirection** to formalize the teaching of these techniques. The academy's research led to the development of the **Seven Pillars of Redirection Theory** and the creation of standardized training programs.
 
 **The Seven Pillars:**
@@ -79,9 +84,11 @@ Following the war's end, **Master Windturner** established the **Academy of Redi
 7. **Innovation**: Developing new redirection methods and applications
 
 ### The Great Redirection Disaster (723 AR)
+
 An attempt to redirect a continental weather control ritual resulted in the **Storm of Eternal Lightning**, a magical tempest that raged for three months and caused significant damage across the kingdom. This disaster led to strict regulations on redirection practice and the establishment of the **Board of Redirection Ethics**.
 
 ### Modern Developments (800 AR - Present)
+
 Contemporary redirection specialists have developed sophisticated techniques including **Multi-Path Redirection** (splitting a single ritual into multiple effects), **Cascade Redirection** (using one redirected ritual to redirect others), and **Sympathetic Redirection** (redirecting rituals through connections to similar magical effects).
 
 ## Classification System
@@ -158,6 +165,7 @@ Focuses on redirecting magical effects across different planes and dimensions.
 ## Current Applications
 
 ### Military Applications
+
 **The Royal Redirection Corps**
 A specialized unit of 150 trained redirectors who serve as magical defense specialists.
 
@@ -171,6 +179,7 @@ A specialized unit of 150 trained redirectors who serve as magical defense speci
 **Recent Military Success**: During the **Border Skirmish of 843 AR**, Redirection Corps members successfully redirected an enemy army's mass teleportation ritual, causing them to appear in the middle of Aethermoor's prepared defensive positions instead of behind the lines.
 
 ### Civilian Infrastructure
+
 **Public Works Redirection**
 The **Department of Magical Infrastructure** employs 89 redirectors to maintain and optimize the kingdom's magical systems.
 
@@ -182,6 +191,7 @@ The **Department of Magical Infrastructure** employs 89 redirectors to maintain 
 - **Communication Networks**: Routing messages through alternative magical pathways
 
 ### Academic Research
+
 **The Institute of Redirection Studies**
 Houses 127 researchers studying advanced redirection theory and applications.
 
@@ -193,6 +203,7 @@ Houses 127 researchers studying advanced redirection theory and applications.
 - **Historical Reconstruction**: Using redirection to study or recreate ancient magical techniques
 
 ### Commercial Applications
+
 **The Redirector's Guild**
 A professional organization of 234 licensed redirectors who offer services to private clients.
 
@@ -204,6 +215,7 @@ A professional organization of 234 licensed redirectors who offer services to pr
 - **Emergency Response**: Rapid intervention for magical accidents and disasters
 
 ### Medical Applications
+
 **Healing Arts Integration**
 Medical redirectors specialize in adapting healing magic for different patients and conditions.
 
@@ -217,6 +229,7 @@ Medical redirectors specialize in adapting healing magic for different patients 
 ## Secret Applications
 
 ### Intelligence Operations
+
 **The Department of Subtle Interventions**
 A classified government agency that uses redirection for espionage and counterintelligence.
 
@@ -228,6 +241,7 @@ A classified government agency that uses redirection for espionage and counterin
 - **Sabotage Techniques**: Subtle redirection of enemy magical infrastructure
 
 ### Experimental Programs
+
 **Project Mindbridge**
 A secret research program investigating the use of redirection to manipulate consciousness and memory.
 
@@ -239,6 +253,7 @@ A secret research program investigating the use of redirection to manipulate con
 - **Identity Protection**: Redirecting attempts to discover true identities
 
 ### Emergency Protocols
+
 **The Last Resort Procedures**
 Highly classified techniques reserved for existential threats to the kingdom.
 
@@ -252,6 +267,7 @@ Highly classified techniques reserved for existential threats to the kingdom.
 ## Risks and Dangers
 
 ### Magical Backlash
+
 **Redirection Syndrome**
 Practitioners who attempt redirection beyond their skill level risk **Redirection Syndrome** - a condition where their own magical abilities become unstable and unpredictable.
 
@@ -265,6 +281,7 @@ Practitioners who attempt redirection beyond their skill level risk **Redirectio
 **Treatment**: Extended magical rehabilitation, complete rest from redirection practice, and gradual re-exposure to controlled magical environments.
 
 ### Cascade Failures
+
 **The Domino Effect**
 Badly executed redirections can create **Cascade Failures** where multiple magical systems begin interfering with each other, creating increasingly dangerous effects.
 
@@ -275,6 +292,7 @@ Badly executed redirections can create **Cascade Failures** where multiple magic
 - **The Healing Plague (802 AR)**: Corrupted medical redirection caused uncontrolled cellular growth
 
 ### Ethical Concerns
+
 **The Consent Problem**
 Redirecting rituals often affects people who did not agree to magical intervention, raising serious ethical questions about autonomy and consent.
 
@@ -286,6 +304,7 @@ Redirecting rituals often affects people who did not agree to magical interventi
 - **Cultural Sensitivity**: Redirections must respect religious and cultural magical practices
 
 ### Security Risks
+
 **The Insider Threat**
 Redirectors with access to important magical systems pose significant security risks if they become corrupted or coerced.
 
@@ -299,32 +318,41 @@ Redirectors with access to important magical systems pose significant security r
 ## Adventure Hooks
 
 ### The Redirection Academy Crisis
+
 Something is wrong at the **Academy of Redirection** - students are losing their abilities after attempting basic techniques, and several instructors have vanished. The characters must investigate while the academy's protective systems begin redirecting themselves in increasingly dangerous ways.
 
 ### The Hostile Takeover
+
 A terrorist organization has infiltrated the kingdom's magical infrastructure and is using redirection techniques to turn beneficial magic into harmful effects. Water purification becomes poisoning, healing becomes disease, and communication becomes mind control. The characters must stop the attack while the very magic they depend on works against them.
 
 ### The Redirection War
+
 Two neighboring kingdoms have begun a conflict using only redirection techniques, turning each other's magic against them without casting any new spells. The characters must navigate this strange war where every magical effect might be redirected, and traditional magical defenses are useless.
 
 ### The Time Loop Trap
+
 A master redirector has created a temporal loop by redirecting time magic, trapping the characters and an entire city in a repeating day. Each loop, the redirector gains more knowledge while the characters must find a way to break the cycle without alerting their opponent to their plans.
 
 ### The Dimensional Maze
+
 A failed dimensional redirection has created a maze of interconnected pocket dimensions, each with different magical laws and physical properties. The characters must navigate this ever-changing labyrinth while the unstable redirection continues to alter reality around them.
 
 ### The Consciousness Thief
+
 Someone is using advanced redirection techniques to steal memories, skills, and even personalities from prominent citizens. The characters must track down this "Consciousness Thief" while protecting themselves from having their own minds redirected into empty vessels.
 
 ### The Cascade Crisis
+
 A cascade failure has begun affecting the entire kingdom's magical infrastructure. Transportation circles send people to random locations, healing magic causes mutations, and communication spells share thoughts with strangers. The characters must identify and fix the original failed redirection before civilization collapses.
 
 ### The Ethical Dilemma
+
 A child is dying from a magical curse that can only be cured by redirecting a healing ritual intended for someone else who will die without it. The characters must make impossible moral choices while navigating the political and legal implications of unauthorized magical redirection.
 
 ## Mechanical Implementation
 
 ### Redirection Skill System
+
 **New Skill: Magical Redirection (Intelligence-based)**
 Characters can learn redirection as a specialized skill requiring both magical ability and extensive training.
 
@@ -347,6 +375,7 @@ Characters can learn redirection as a specialized skill requiring both magical a
 - **Magical Interference**: -1 to -6 penalty
 
 ### Redirection Difficulty Classes
+
 **Basic Redirections** (DC 12-15)
 - Simple target changes
 - Minor effect modifications
@@ -378,6 +407,7 @@ Characters can learn redirection as a specialized skill requiring both magical a
 - Temporal paradox creation
 
 ### Consequence Tables
+
 **Success Results** (d20)
 1-5: **Perfect Redirection** - Effect works exactly as intended
 6-10: **Good Redirection** - Effect works with minor side effects
@@ -393,6 +423,7 @@ Characters can learn redirection as a specialized skill requiring both magical a
 19-20: **Critical Failure** - Dangerous magical accident with lasting consequences
 
 ### Training and Advancement
+
 **Redirection Levels:**
 - **Apprentice** (Skill Bonus +1-3): Basic techniques only
 - **Journeyman** (Skill Bonus +4-6): Intermediate techniques available
@@ -402,21 +433,21 @@ Characters can learn redirection as a specialized skill requiring both magical a
 
 ## Connected References
 
-- [[02_Worldbuilding/Groups/Academies/Academy of Redirection]] - Primary training institution
-- [[02_Worldbuilding/Lore/Archmage Deflector Windturner]] - Technique pioneer
-- [[02_Worldbuilding/Lore/Seven Pillars of Redirection Theory]] - Theoretical framework
-- [[02_Worldbuilding/Lore/Royal Redirection Corps]] - Military application
-- [[02_Worldbuilding/Lore/War of Burning Skies]] - Historical origin conflict
-- [[02_Worldbuilding/Lore/Storm of Eternal Lightning]] - Cautionary disaster
-- [[02_Worldbuilding/Lore/Board of Redirection Ethics]] - Regulatory organization
+- [[12_Research/D&D_References/Academy of Redirection]] - Primary training institution
+- [[12_Research/D&D_References/Archmage Deflector Windturner]] - Technique pioneer
+- [[12_Research/D&D_References/Seven Pillars of Redirection Theory]] - Theoretical framework
+- [[12_Research/D&D_References/Royal Redirection Corps]] - Military application
+- [[12_Research/D&D_References/War of Burning Skies]] - Historical origin conflict
+- [[12_Research/D&D_References/Storm of Eternal Lightning]] - Cautionary disaster
+- [[12_Research/D&D_References/Board of Redirection Ethics]] - Regulatory organization
 - [[Institute of Redirection Studies]] - Research facility
-- [[02_Worldbuilding/Groups/Guilds/Redirector's Guild]] - Professional organization
-- [[02_Worldbuilding/Lore/Department of Subtle Interventions]] - Intelligence application
-- [[02_Worldbuilding/Lore/Project Mindbridge]] - Experimental research program
-- [[02_Worldbuilding/Lore/Redirection Syndrome]] - Occupational hazard condition
-- [[02_Worldbuilding/Lore/The Last Resort Procedures]] - Emergency protocols
-- [[02_Worldbuilding/Lore/Etheric Currents]] - Magical theory foundation
-- [[02_Worldbuilding/Lore/Intervention Windows]] - Timing technique
+- [[12_Research/D&D_References/Redirector's Guild]] - Professional organization
+- [[12_Research/D&D_References/Department of Subtle Interventions]] - Intelligence application
+- [[12_Research/D&D_References/Project Mindbridge]] - Experimental research program
+- [[12_Research/D&D_References/Redirection Syndrome]] - Occupational hazard condition
+- [[12_Research/D&D_References/The Last Resort Procedures]] - Emergency protocols
+- [[12_Research/D&D_References/Etheric Currents]] - Magical theory foundation
+- [[12_Research/D&D_References/Intervention Windows]] - Timing technique
 
 ## Future Implications
 
@@ -431,7 +462,7 @@ The field of Ritual Redirection Options continues to push the boundaries of what
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[12_Research/D&D_Statblocks/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -449,4 +480,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Etheric Currents]]
+- [[12_Research/D&D_References/Etheric Currents]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

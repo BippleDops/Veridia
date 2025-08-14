@@ -14,26 +14,23 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Abyssal Academy]]
+- [[Abyssal Academy]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Abyssal Academy]]
-- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]
-- [[02_Worldbuilding/People/The Cerulean Breath]]
-- [[02_Worldbuilding/Places/Archivist Vera Glowmind]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[Abyssal Academy]]
+- [[Master Cultivator Thalia Greenglow]]
+- [[The Cerulean Breath]]
+- [[Archivist Vera Glowmind]]
+- [[The Deepmind]]
+- [[The Forgotten One]]
 
 ## Player-Facing Summary
 

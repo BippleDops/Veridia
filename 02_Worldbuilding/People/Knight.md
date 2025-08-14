@@ -14,14 +14,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-knight-knight.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-knight-knight.svg]]
 
 
 # Sir Theron Crystalward
@@ -79,7 +73,7 @@ Sir Theron Crystalward stands as a beacon of hope in troubled times, his crystal
 
 Born into minor nobility, Theron earned his knighthood through valor during the Crystal Wars, where he discovered his unique ability to commune with and purify corrupted crystals. This gift has made him invaluable in the fight against shadow corruption, but it has also burdened him with knowledge of how deeply the taint has spread through both realms.
 
-His armor bears the crystalline sigil of his order, and intricate engravings tell the story of his greatest victories. Most notably, the crystal embedded in his breastplate pulses with a gentle light—a fragment of the original Heart of Aethermoor, gifted to him by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] herself.
+His armor bears the crystalline sigil of his order, and intricate engravings tell the story of his greatest victories. Most notably, the crystal embedded in his breastplate pulses with a gentle light—a fragment of the original Heart of Aethermoor, gifted to him by [[Queen Seraphina Lumengarde]] herself.
 
 ## Equipment
 
@@ -93,27 +87,27 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 ## Relationships
 
 **Allies:**
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - His sovereign, whom he serves with absolute loyalty despite growing concerns about her recent decisions
-- **[[02_Worldbuilding/Lore/Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Spiritual advisor who helps him maintain his connection to divine power
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Fellow knight and former lover, their relationship ended when duty demanded different paths
+- **[[Queen Seraphina Lumengarde]]** - His sovereign, whom he serves with absolute loyalty despite growing concerns about her recent decisions
+- **[[Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
+- **[[High Priestess Celeste Dawnbringer]]** - Spiritual advisor who helps him maintain his connection to divine power
+- **[[Captain Lyanna Brightshield]]** - Fellow knight and former lover, their relationship ended when duty demanded different paths
 
 **Enemies:**
-- **[[02_Worldbuilding/People/Shadow Parliament]]** - The corruption they spread is antithetical to everything he stands for
-- **[[02_Worldbuilding/People/The Biomancers]]** - Their twisted experiments disgust him, though he recognizes some may be necessary
+- **[[Shadow Parliament]]** - The corruption they spread is antithetical to everything he stands for
+- **[[The Biomancers]]** - Their twisted experiments disgust him, though he recognizes some may be necessary
 - **Void Cultists** - Shadow worshippers who specifically target him for his crystal-purification abilities
 
 **Complicated:**
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - The prince's recent behavior suggests possible shadow influence, putting Theron in an impossible position
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - He suspects the ambassador of treachery but lacks proof
+- **[[Prince Caspian Duskwater]]** - The prince's recent behavior suggests possible shadow influence, putting Theron in an impossible position
+- **[[Ambassador Korvin Blacktide]]** - He suspects the ambassador of treachery but lacks proof
 
 ## Quest Hooks
 
 1. **The Tainted Crown** - Theron discovers that one of the crown jewels has been corrupted with shadow magic. He needs the party's help to investigate who had access and how to purify it without causing a political crisis.
 
-2. **Knight's Dilemma** - Evidence suggests that [[02_Worldbuilding/People/Prince Caspian Duskwater]] is working with shadow cultists. Theron must choose between his oath to the crown and his duty to protect the realm. He seeks trustworthy allies to help him uncover the truth.
+2. **Knight's Dilemma** - Evidence suggests that [[Prince Caspian Duskwater]] is working with shadow cultists. Theron must choose between his oath to the crown and his duty to protect the realm. He seeks trustworthy allies to help him uncover the truth.
 
-3. **The Fallen Brother** - Sir Marcus Blackthorne, Theron's former squire, has joined the [[02_Worldbuilding/People/Shadow Parliament]]. Theron believes he can be saved and asks the party to help him rescue his old friend from corruption.
+3. **The Fallen Brother** - Sir Marcus Blackthorne, Theron's former squire, has joined the [[Shadow Parliament]]. Theron believes he can be saved and asks the party to help him rescue his old friend from corruption.
 
 4. **Crystal Pilgrimage** - Ancient texts speak of a ritual that could permanently shield Aethermoor from shadow corruption, but it requires visiting seven sacred crystal sites. Theron needs companions for this dangerous journey.
 
@@ -124,7 +118,7 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 - **The Corrupted Blade**: Dawnbreaker was forged using a crystal shard that contained trapped shadow essence. Theron fears that prolonged use might eventually corrupt him.
 - **Royal Bloodline**: He's distantly related to the royal family—fourth in line for the throne—a fact he's kept hidden to avoid political complications.
 - **The Night of Whispers**: On one terrible night, Theron heard the voices of every corrupted crystal in Aethermoor crying out in agony. The experience nearly broke his mind and left him with chronic nightmares.
-- **Forbidden Love**: He's secretly in love with [[02_Worldbuilding/People/Aria Lumengarde]], the queen's cousin, but their relationship would be politically explosive.
+- **Forbidden Love**: He's secretly in love with [[Aria Lumengarde]], the queen's cousin, but their relationship would be politically explosive.
 - **The Dark Bargain**: To save his village from shadow corruption, Theron once made a deal with a lesser shadow entity. He's never told anyone and lives in fear that the debt will be called in.
 
 ## Motivations
@@ -163,14 +157,14 @@ Theron works best as a recurring ally who grows and changes alongside the party.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Knight]]
+- [[Knight]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[Captain Lyanna Brightshield]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Prince Caspian Duskwater]]
+- [[Queen Seraphina Lumengarde]]

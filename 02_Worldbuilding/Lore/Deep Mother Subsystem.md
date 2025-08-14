@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[03_Mechanics/Complete_Reality_Merger_System|03 Mechanics/Complete Reality Merger System]]
+- [[Complete_Reality_Merger_System|03 Mechanics/Complete Reality Merger System]]
 
 
 ## Connections
 
 - [[Complete_Reality_Merger_System|Complete Reality Merger System]]
+
+
+## Related
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

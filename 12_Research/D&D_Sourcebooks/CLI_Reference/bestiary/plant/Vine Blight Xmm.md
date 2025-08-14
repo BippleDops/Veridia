@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vine-blight-xmm-v1-vine-blight-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/vine-blight-xmm|Vine Blight]]
+# [[vine-blight-xmm|Vine Blight]]
 *Source: Monster Manual (2024) p. 44*  
 
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
@@ -67,20 +67,20 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+1"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Deafened|deafened]]"
+"condition_immunities": "[[conditions#Deafened|deafened]]"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 6 (1d8 + 2) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12). Until the grapple ends, the target takes 4 (d8)\
       \ Bludgeoning damage at the start of each of its turns, and the blight can't\
       \ make Constricting Vine attacks."
     "name": "Constricting Vine"
-  - "desc": "The blight casts the [[/03_Mechanics/CLI/spells/entangle-xphb|Entangle]]\
+  - "desc": "The blight casts the [[entangle-xphb|Entangle]]\
       \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
     "name": "Entangling Plants (Recharge 5-6)"
 "source":

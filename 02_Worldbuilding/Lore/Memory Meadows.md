@@ -2,6 +2,7 @@
 type: Lore
 status: complete
 tags:
+- quest
 - active
 - aquabyssos
 - lore
@@ -11,11 +12,8 @@ updated: '2025-08-13T01:18:34.606094+00:00'
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg)
-
+![[04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg]]
 
 
 ## Overview
@@ -44,14 +42,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+- [[Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
 
 
 ## Connections
 
-- [[Deep Mother]]
-- [[02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[Quest - The Convergence Crisis]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_Statblocks/Memory Harvester Kythara]]
+- [[12_Research/D&D_Statblocks/Memory Merchant Valeria Siltweave]]
+- [[12_Research/D&D_References/Amnesia Gallery]]
+- [[12_Research/D&D_Statblocks/The Deepmind]]
+- [[12_Research/D&D_Statblocks/Quest - The Convergence Crisis]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

@@ -19,7 +19,6 @@ world: Both
 ---
 
 
-
 # Cult of the Deep Mother
 
 *"In darkness we were born, to darkness we return. She calls, and we answer."*
@@ -339,14 +338,14 @@ Use the concentric circle structure to provide different levels of opposition an
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
-- [[02_Worldbuilding/Lore/Shadow Corruption]]
+- [[Shadow Corruption]]
 - [[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]
-- [[02_Worldbuilding/Groups/Scholars of Divine Lore]]
-- [[02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
+- [[Scholars of Divine Lore]]
+- [[Temple of the Sunken Cathedral]]
 - [[Void Shepherds]]
-- [[02_Worldbuilding/Lore/Reality Anchors]]
+- [[Reality Anchors]]
 - [[Avatar Manifestations]]
 
 ## Adventure Hooks

@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-colossus-xmm-colossus-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/colossus-xmm|Colossus]]
+# [[colossus-xmm|Colossus]]
 *Source: Monster Manual (2024) p. 76*  
 
 ## Colossus
@@ -64,10 +64,10 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "truesight 300 ft., passive Perception 10"
 "languages": "understands Celestial and Common but can't speak"
 "cr": "25"
@@ -76,7 +76,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
     "name": "Immutable Form"
   - "desc": "If the colossus fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The colossus has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The colossus has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The colossus deals double damage to objects and structures."
@@ -89,21 +89,21 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
       \ itself."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +18, range 300 ft. Hit: 22 (4d10) Radiant damage.\
-      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Radiant Ray"
   - "desc": "Dexterity Saving Throw: DC 26, each creature in a 300-foot-long, 10-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 65 (10d12) Radiant damage. Success: Half damage. Failure or Success: A\
-      \ creature reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ creature reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this beam disintegrates into dust, leaving behind any magic items it was\
       \ wearing or carrying."
     "name": "Divine Beam (Recharge 5-6)"
 "legendary_actions":
   - "desc": "The colossus makes one Radiant Ray attack."
     "name": "Smite"
-  - "desc": "The colossus moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
-      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]],\
+  - "desc": "The colossus moves up to half its [[speed-xphb|Speed]]\
+      \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]],\
       \ and it can make one Slam attack at any point during that move."
     "name": "Stomp"
 "source":

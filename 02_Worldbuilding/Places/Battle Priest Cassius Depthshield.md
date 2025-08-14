@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[The Living Weapon]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Pressure's End]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
-- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
+- [[The Forgotten One]]
+- [[The Living Weapon]]
 
 ## Player-Facing Summary
 

@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-otherworldly-patron-otherworldly-patron.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-otherworldly-patron-otherworldly-patron.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[Aurelius Goldwave]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[Aurelius Goldwave]]
 
 ## Player-Facing Summary
 

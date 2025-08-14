@@ -30,9 +30,9 @@ world: Both
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A flood of healing energy flows from you into creatures around you. You restore up to 700 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] conditions removed from them.
+A flood of healing energy flows from you into creatures around you. You restore up to 700 [[hit-points-xphb|Hit Points]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [[conditions#Blinded|Blinded]], [[conditions#Deafened|Deafened]], and [[conditions#Poisoned|Poisoned]] conditions removed from them.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

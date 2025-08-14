@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-temporal-safehaven-keeper-temporal-safehaven.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-temporal-safehaven-keeper-temporal-safehaven.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Temporal Safehaven]]
+- [[12_Research/D&D_References/Keeper Temporal Safehaven]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
+- [[12_Research/D&D_References/The Shrinking Sanctuary]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -20,12 +20,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)
-
-
 
 
 # Thieves Guild
@@ -44,9 +40,9 @@ The Thieves Guild is a powerful and influential criminal organization that opera
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Trade Network]]
+- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -70,4 +66,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[Rescue Senator Glaucus]]

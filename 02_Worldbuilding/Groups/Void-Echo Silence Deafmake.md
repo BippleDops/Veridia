@@ -15,10 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg]]
 
 
 ## Overview

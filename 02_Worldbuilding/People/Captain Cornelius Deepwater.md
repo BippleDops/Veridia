@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 

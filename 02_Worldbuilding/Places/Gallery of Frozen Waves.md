@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-gallery-of-frozen-waves-gallery-of-frozen-waves.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gallery-of-frozen-waves-gallery-of-frozen-waves.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[Crystal Festival Grounds]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
-- [[02_Worldbuilding/Lore/Lamplight Alley]]
-- [[02_Worldbuilding/Places/Screaming Gardens]]
-- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Crystal Festival Grounds]]
+- [[Lamplight Alley]]
+- [[Screaming Gardens]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

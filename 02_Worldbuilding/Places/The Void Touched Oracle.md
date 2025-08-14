@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[The Void Touched Depths]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[The Void Touched Depths]]
 
 ## Player-Facing Summary
 

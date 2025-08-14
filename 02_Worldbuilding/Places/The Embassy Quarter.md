@@ -3,12 +3,12 @@ created: '2025-08-09'
 danger_level: 2
 established: Post-Continental War
 government: International Diplomatic Council
-parent_location: '[[02_Worldbuilding/Places/Port Meridian]]'
+parent_location: '[[Port Meridian]]'
 population: 8500
 related_entities:
-- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
-- '[[02_Worldbuilding/Places/The Azure Coast]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
+- '[[Aquabyssos Ambassadors]]'
+- '[[The Azure Coast]]'
+- '[[Continental War]]'
 specialties:
 - International Relations
 - Cultural Exchange
@@ -35,9 +35,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg]]
 
 
 # The Embassy Quarter
@@ -45,9 +43,9 @@ world: Aethermoor
 
 ## Overview
 
-The Embassy Quarter occupies a prestigious section of [[02_Worldbuilding/Places/Port Meridian]], serving as the diplomatic heart of [[02_Worldbuilding/Places/Aethermoor]] and the primary location for international relations throughout the continent. Established in the aftermath of [[02_Worldbuilding/Lore/Continental War]] as part of the Peace of Silverbrook treaty, this carefully planned district houses embassies, consulates, cultural centers, and international organizations representing dozens of nations and peoples.
+The Embassy Quarter occupies a prestigious section of [[Port Meridian]], serving as the diplomatic heart of [[Aethermoor]] and the primary location for international relations throughout the continent. Established in the aftermath of [[Continental War]] as part of the Peace of Silverbrook treaty, this carefully planned district houses embassies, consulates, cultural centers, and international organizations representing dozens of nations and peoples.
 
-The Quarter operates under special international law, with its own security force, diplomatic immunity protocols, and neutral governance structure. Here, representatives from [[02_Worldbuilding/Places/Crystalhaven]], [[02_Worldbuilding/Places/Ironhold]], [[02_Worldbuilding/Places/Sylvanheart]], the underwater realm of [[02_Worldbuilding/Places/Aquabyssos]], and numerous distant kingdoms conduct the delicate business of international diplomacy.
+The Quarter operates under special international law, with its own security force, diplomatic immunity protocols, and neutral governance structure. Here, representatives from [[Crystalhaven]], [[Ironhold]], [[Sylvanheart]], the underwater realm of [[Aquabyssos]], and numerous distant kingdoms conduct the delicate business of international diplomacy.
 
 ## Layout & Architecture
 
@@ -169,7 +167,7 @@ Central facility for multilateral negotiations:
 **Security Personnel**: Protect diplomatic personnel and facilities
 
 ### Notable Current Diplomats
-**Ambassador Korvin Blacktide**: [[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]
+**Ambassador Korvin Blacktide**: [[Aquabyssos Ambassadors]]
 **Envoy Lyralei Starweaver**: Crystalhaven's senior magical research coordinator
 **General Marcus Ironforge**: Ironhold's military liaison and security advisor
 **Elder Moonwhisper**: Sylvanheart's environmental and cultural representative
@@ -334,6 +332,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Embassy Quarter]]
+- [[The Embassy Quarter]]
 
 <!-- enriched: true -->

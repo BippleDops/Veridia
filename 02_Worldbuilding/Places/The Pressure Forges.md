@@ -15,21 +15,18 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-pressure-forges-the-pressure-forges.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Pressure Forges]]
+- [[The Pressure Forges]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/Places/Forge of War]]
+- [[Timeline of the Drowning]]
+- [[Forge of War]]
 
 ## Player-Facing Summary
 

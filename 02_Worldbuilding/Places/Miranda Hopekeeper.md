@@ -15,12 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Miranda Hopekeeper]]
+- [[12_Research/D&D_References/Miranda Hopekeeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[12_Research/D&D_References/Teacher Miranda Hopekeeper]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

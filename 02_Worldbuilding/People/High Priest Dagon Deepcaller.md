@@ -15,22 +15,15 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg]]
 
 
 # High Priest Dagon Deepcaller
 *Prophet of the Depths, Voice of the Leviathans*
 
 ## Overview
-High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a horrifying hybrid of human and aboleth created through dark rituals and generations of selective breeding. He serves as the primary conduit between the sleeping Leviathan Lords and their mortal worshippers, using his telepathic abilities and divine magic to coordinate cult operations across the oceans. His ultimate goal is to awaken the primordial sea gods and return the world to an aquatic paradise.
+High Priest Dagon Deepcaller is the supreme leader of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]], a horrifying hybrid of human and aboleth created through dark rituals and generations of selective breeding. He serves as the primary conduit between the sleeping Leviathan Lords and their mortal worshippers, using his telepathic abilities and divine magic to coordinate cult operations across the oceans. His ultimate goal is to awaken the primordial sea gods and return the world to an aquatic paradise.
 
 ## Physical Appearance
 - **Base Form**: Humanoid with slimy, translucent skin
@@ -70,7 +63,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 
 ### Fears & Weaknesses
 - Extended time away from water causes physical deterioration
-- [[02_Worldbuilding/People/Crystal Wardens]]' holy magic can disrupt his divine connections
+- [[Crystal Wardens]]' holy magic can disrupt his divine connections
 - Potential rebellion from fully-converted aboleth hybrids
 - Ancient binding magics that keep Leviathan Lords dormant
 
@@ -97,13 +90,13 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 ## Cult Leadership
 
 ### Command Structure
-- Absolute authority over all [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] operations
+- Absolute authority over all [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] operations
 - Telepathic network connects him to all major cult leaders
 - Can override free will of any cult member through divine command
 - Maintains personal guard of 50 elite hybrid warriors
 
 ### Strategic Operations
-- Coordinates attacks on shipping lanes to [[02_Worldbuilding/Places/Crystalhaven]]
+- Coordinates attacks on shipping lanes to [[Crystalhaven]]
 - Oversees breeding programs creating hybrid armies
 - Directs infiltration of coastal communities
 - Plans massive ritual to wake Leviathan Lords
@@ -117,22 +110,22 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 ## Key Relationships
 
 ### Cult Leadership
-- **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Trusted lieutenant and recruitment specialist
+- **[[Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Trusted lieutenant and recruitment specialist
 - **Archdeacon Tidal Maw** - Second in command, handles sacrificial rites
 - **Dr. Nautilus Splice** - Head of hybrid breeding programs
 - **Captain Kraken-Heart** - Military commander of cult forces
 
 ### Enemies & Opposition
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious opposition
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opponent
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military threat to cult operations
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Ideological and magical opposition
+- **[[High Priestess Celeste Dawnbringer]]** - Leading religious opposition
+- **[[Admiral Cassandra Stormwind]]** - Primary naval opponent
+- **[[Lord Commander Gareth Steelborn]]** - Military threat to cult operations
+- **[[Crystal Wardens]]** - Ideological and magical opposition
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient patron, sometimes competing interests
-- **[[02_Worldbuilding/People/Captain Marrow Drinker]]** - Temporary alliance against surface navies
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential convert due to ocean affinity
-- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured enemy being slowly converted
+- **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient patron, sometimes competing interests
+- **[[Captain Marrow Drinker]]** - Temporary alliance against surface navies
+- **[[Prince Caspian Duskwater]]** - Potential convert due to ocean affinity
+- **[[Captain Thaddeus Blackwater]]** - Captured enemy being slowly converted
 
 ## Current Operations
 
@@ -165,7 +158,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 - **Spellcasting**: Cast a spell of 3rd level or lower
 - **Command Minions**: Direct allied sea monsters
 
-### Lair Actions (in [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]])
+### Lair Actions (in [[The Sunken Cathedral of Stars]])
 - Flood chambers or drain water as needed
 - Summon 1d4 aboleth spawn or shark swarms
 - Cast Mass Suggestion on all creatures in lair
@@ -176,7 +169,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 > [!warning] DM Only
 > - Knows location of three of the Seven Shards
 > - Has prophetic knowledge of coming "crystal convergence"
-> - Understands connection between [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]] and ancient civilizations
+> - Understands connection between [[The Deep Mother|02 Worldbuilding/People/The Deep Mother]] and ancient civilizations
 > - Possesses ritual to merge aboleth and human consciousness permanently
 
 ### Strategic Intelligence
@@ -208,16 +201,16 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 8. **The Prophecy**: Use Dagon's visions to prevent greater catastrophe
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Primary residence and power base
-- [[02_Worldbuilding/Places/The Azure Coast]] - Main area of cult operations
-- [[02_Worldbuilding/Places/Port Meridian]] - Major conversion target
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Complex political relationships with underwater kingdoms
+- [[The Sunken Cathedral of Stars]] - Primary residence and power base
+- [[The Azure Coast]] - Main area of cult operations
+- [[Port Meridian]] - Major conversion target
+- [[Abyssos Prime]] - Complex political relationships with underwater kingdoms
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Supreme leader
-- [[02_Worldbuilding/People/Crystal Wardens]] - Primary religious opposition
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Temporary alliance of convenience
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Targets for economic disruption
+- [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Supreme leader
+- [[Crystal Wardens]] - Primary religious opposition
+- [[The Crimson Fleet]] - Temporary alliance of convenience
+- [[Merchant Princes]] - Targets for economic disruption
 
 ## Immediate Threats
 - Great Awakening Ritual scheduled for next major tidal convergence
@@ -227,7 +220,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
+- [[The Leviathan Cult]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -244,7 +237,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[High Priest Dagon Deepcaller]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]

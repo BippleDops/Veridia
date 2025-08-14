@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
+- [[12_Research/D&D_References/Customer Relations Director Seraphina Calmcurrent]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]

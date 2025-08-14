@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[12_Research/D&D_References/Biomancer Corvus Intestinal]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[12_Research/D&D_References/Biomancer Corvus Intestinal]]
 
 ## Player-Facing Summary
 

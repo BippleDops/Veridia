@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/paper-whirlwind-rot|Paper Whirlwind]]
+# [[paper-whirlwind-rot|Paper Whirlwind]]
 *Source: The Rise of Tiamat p. 72*  
 
 ```statblock
@@ -48,14 +48,14 @@ world: Both
   - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Grappled|grappled]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1/4"

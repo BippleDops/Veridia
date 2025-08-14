@@ -26,9 +26,9 @@ world: Both
 
 | Symbol | Weight | Cost |
 |--------|--------|------|
-| [[/03_Mechanics/CLI/items/amulet-xphb|Amulet]] (worn or held) | 1 lb. | 5 GP |
-| [[/03_Mechanics/CLI/items/emblem-xphb|Emblem]] (borne on fabric or a Shield) | — | 5 GP |
-| [[/03_Mechanics/CLI/items/reliquary-xphb|Reliquary]] (held) | 2 lb. | 5 GP |
+| [[amulet-xphb|Amulet]] (worn or held) | 1 lb. | 5 GP |
+| [[emblem-xphb|Emblem]] (borne on fabric or a Shield) | — | 5 GP |
+| [[reliquary-xphb|Reliquary]] (held) | 2 lb. | 5 GP |
 ^holy-symbols
 
 ## Player-Facing Summary

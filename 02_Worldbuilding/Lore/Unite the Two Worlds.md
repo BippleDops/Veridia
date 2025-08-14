@@ -23,33 +23,36 @@ world: Aethermoor
 ---
 
 
-
-
 # Unite the Two Worlds
 
 ![[04_Resources/Assets/Art/Lore/Unite_the_Two_Worlds.png|Unite the Two Worlds Portrait]]
 
 ## Summary
+
 Unite the Two Worlds describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
 
 ## Historical Context
+
 - Origin: Scribal disputes escalated into pressure-lock conflicts.
 - Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
 - Present: Competing narratives justify new taxes, oaths, and contraband routes.
 
 ## What It Means at the Table
+
 - Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
 - Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse]].
+
+- Records implicate agents tied to [[12_Research/D&D_References/The Lighthouse of Storms]].
+- A rite echoes the activation cadence needed for [[12_Research/D&D_Statblocks/The Whispering Expanse]].
 - Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse]]
+
+- [[12_Research/D&D_References/The Lighthouse of Storms]]
+- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
@@ -71,3 +74,7 @@ Legends speak of Unite the Two Worlds as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

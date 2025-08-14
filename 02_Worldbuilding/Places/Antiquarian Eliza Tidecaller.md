@@ -23,9 +23,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg]]
 
 
 # The Tidecaller Antiquarium - Repository of Deep-Sea Wonders
@@ -410,7 +408,7 @@ The Tidecaller Antiquarium connects to numerous important elements throughout Aq
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -432,7 +430,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
+- [[Antiquarian Eliza Tidecaller]]
 
 <!-- enriched: true -->
 riched: true -->

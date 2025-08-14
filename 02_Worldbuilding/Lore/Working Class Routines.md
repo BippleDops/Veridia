@@ -3,6 +3,10 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- aerial
+- aquatic
 - both
 - complete
 - culture
@@ -20,18 +24,18 @@ world: Both
 ---
 
 
-
-
 # Working Class Routines
+
 *The Backbone of Two Realms: Daily Life of Laborers and Common Folk*
 
 ## Overview
 
-The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
+The working classes of both [[12_Research/D&D_References/Aquabyssos]] and [[12_Research/D&D_References/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
 
 ## Aquabyssos Working Class
 
 ### Harbor District Dock Workers
+
 **Daily Schedule**: Rising Tide through High Tide (0500-1300)
 
 **0500 - Pre-Dawn Preparation**
@@ -83,6 +87,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Early Rest**: Preparation for next day's early start
 
 ### Pressure Terminal Maintenance Workers
+
 **Rotating Shift Schedule**: 24-hour operations with 8-hour shifts
 
 **Day Shift (0800-1600)**:
@@ -123,6 +128,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Preparation**: Setting up for next day's operations
 
 ### Deep Mining Crews
+
 **Extended Deep Rotation**: 10 days at depth, 5 days surface recovery
 
 **Deep Phase Routine (Days 1-10)**:
@@ -165,6 +171,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - Preparation for next deep rotation
 
 ### Kelp Farmers and Aquaculture Workers
+
 **Tide-Dependent Schedule**: Following natural growth and harvest cycles
 
 **0430 - Early Current Preparation**
@@ -210,6 +217,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - Skills sharing and traditional knowledge preservation
 
 ### Crafters and Artisans
+
 **Workshop Schedule**: Balancing individual skill with market demands
 
 **0600 - Workshop Preparation**
@@ -251,6 +259,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ## Aethermoor Working Class
 
 ### Platform Maintenance Crews
+
 **Weather-Dependent Schedule**: Adapting to wind conditions
 
 **0530 - Dawn Assessment**
@@ -284,6 +293,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - Early rest due to physical demands of work
 
 ### Sky Farmers and Agricultural Workers
+
 **Weather and Season Dependent**: Following aerial growing cycles
 
 **0500 - Pre-Dawn Preparation**
@@ -323,6 +333,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Community Work**: Shared maintenance of common growing areas
 
 ### Wind Engineers and Technical Workers
+
 **Continuous Operations**: Maintaining critical wind-powered infrastructure
 
 **Shift Structure**: 8-hour shifts with rotating responsibilities
@@ -353,6 +364,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Innovation Projects**: Developing improvements to existing systems
 
 ### Flying Courier and Delivery Workers
+
 **Route-Based Schedule**: Following flight paths and delivery needs
 
 **0530 - Flight Preparation**
@@ -386,6 +398,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - Preparation for next day's operations
 
 ### Construction and Building Workers
+
 **Project-Based Schedule**: Adapting to construction phases and weather
 
 **0530 - Site Preparation**
@@ -415,6 +428,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ## Common Working Class Experiences
 
 ### Economic Realities
+
 **Income and Expenses**:
 - **Average Daily Wage**: 5-15 silver pieces depending on skill and risk
 - **Housing Costs**: 30-40% of income for basic accommodation
@@ -431,6 +445,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ### Health and Safety Challenges
 
 #### Aquabyssos Workers
+
 **Pressure-Related Health Issues**:
 - **Decompression Sickness**: Risk from rapid pressure changes
 - **Joint Problems**: Long-term effects of pressure work
@@ -444,6 +459,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Community Health**: Shared knowledge about occupational hazards
 
 #### Aethermoor Workers  
+
 **Altitude and Wind-Related Health Issues**:
 - **Altitude Sickness**: Effects of working at high elevations
 - **Wind Injuries**: Accidents from strong air currents
@@ -459,6 +475,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ### Social Support Systems
 
 #### Labor Organizations
+
 **Worker Guilds and Unions**:
 - **Collective Bargaining**: Negotiating wages and working conditions
 - **Mutual Aid**: Supporting members during unemployment or illness
@@ -472,6 +489,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Social Activities**: Providing entertainment and community bonding
 
 #### Family and Community Support
+
 **Extended Family Networks**:
 - **Childcare Sharing**: Families helping each other with child supervision
 - **Resource Pooling**: Sharing tools, equipment, and supplies
@@ -487,6 +505,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ### Cultural Traditions
 
 #### Work-Related Customs
+
 **Daily Rituals**:
 - **Safety Prayers**: Asking for protection before dangerous work
 - **Tool Blessing**: Ceremonies to ensure equipment functions properly
@@ -500,6 +519,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Community Service**: Volunteer work benefiting the entire community
 
 #### Leisure and Recreation
+
 **After-Work Activities**:
 - **Sports and Games**: Physical activities adapted to work environments
 - **Music and Storytelling**: Cultural entertainment emphasizing working-class values
@@ -515,6 +535,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 ### Career Development and Advancement
 
 #### Skill Development Opportunities
+
 **Apprenticeship Programs**:
 - **Traditional Training**: Learning from experienced workers
 - **Cross-Training**: Developing multiple skills for flexibility
@@ -528,6 +549,7 @@ The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worl
 - **Cultural Education**: Maintaining connection to heritage and traditions
 
 #### Social Mobility Paths
+
 **Within Working Class**:
 - **Skill Specialization**: Becoming expert in high-demand abilities
 - **Leadership Roles**: Advancing to supervisory and management positions
@@ -551,10 +573,10 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 ---
 
 **Related Topics**:
-- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
-- [[02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[12_Research/D&D_References/A Day in Aquabyssos]]
+- [[12_Research/D&D_References/Aethermoor Daily Rhythms]]
+- [[12_Research/D&D_References/Noble Leisure Schedules]]
+- [[12_Research/D&D_References/Child Life in the Realms]]
 - [[Labor Organizations and Guilds]]
 - [[Social Support Systems]]
 - [[Working Class Culture and Traditions]]
@@ -578,3 +600,8 @@ Legends speak of Working Class Routines as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -14,16 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Compass Quest]]
+- [[Compass Quest]]
 
 
 ## Connections

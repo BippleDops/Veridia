@@ -15,11 +15,7 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-scream-crystals-scream-crystals.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-scream-crystals-scream-crystals.svg]]
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
+- [[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]
+- [[Cult of Screams]]

@@ -2,6 +2,8 @@
 created: '2025-08-12'
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
 - aquabyssos
 - complete
 - content/lore
@@ -19,19 +21,21 @@ world: Aquabyssos
 ---
 
 
-
 # Political Intrigue Master Index
+
 *The Complete Guide to Aquabyssos Political Complexity*
 
 > *"Politics in the depths is like navigating by starlight through a maze of mirrors - everything reflects everything else, and the light you follow might be coming from behind you."*
 > — Master Political Analyst Depths Machiavelli
 
 ## Overview
+
 This master index provides a comprehensive guide to the political intrigue systems of Aquabyssos, connecting all elements of government corruption, noble house scheming, foreign espionage, and diplomatic manipulation into a cohesive framework for complex political campaigns.
 
 ## Core Political Framework Documents
 
-### [[02_Worldbuilding/Lore/Parliamentary Procedures and Loopholes]]
+### [[12_Research/D&D_References/Parliamentary Procedures and Loopholes]]
+
 **Key Systems:**
 - Tidal Parliament voting procedures and pressure-based discrimination
 - Echo Amendment process and temporal legal manipulation
@@ -41,7 +45,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Understanding how laws are made, broken, and manipulated in Aquabyssos government
 
-### [[02_Worldbuilding/Lore/Succession Crisis Contingencies]]  
+### [[12_Research/D&D_References/Succession Crisis Contingencies]]  
+
 **Key Systems:**
 - The Scattered Emperor problem and seven personality fragments
 - Competing succession laws and legal framework chaos
@@ -51,7 +56,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Managing the central political crisis driving current events
 
-### [[02_Worldbuilding/Groups/Political Parties of Aquabyssos]]
+### [[12_Research/D&D_References/Political Parties of Aquabyssos]]
+
 **Key Systems:**
 - Six major political parties with public platforms and hidden agendas
 - Foreign infiltration and shadow replacement throughout party leadership
@@ -64,9 +70,10 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Power Player Profiles
 
 ### Noble Houses
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
-- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
+
+- **[[12_Research/D&D_References/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
+- **[[12_Research/D&D_References/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
+- **[[12_Research/D&D_References/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
@@ -75,8 +82,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Shared secrets creating mutual blackmail and uneasy truces
 
 ### Foreign Intelligence Operations
-- **[[02_Worldbuilding/Places/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
-- **[[02_Worldbuilding/Places/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
+
+- **[[12_Research/D&D_References/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
+- **[[12_Research/D&D_References/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
 
 **Intelligence Network Overlaps:**
 - Competing operations for same intelligence targets
@@ -86,7 +94,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ## Operational Systems
 
-### [[02_Worldbuilding/Lore/Assassination Plot Frameworks]]
+### [[12_Research/D&D_References/Assassination Plot Frameworks]]
+
 **Key Methods:**
 - Pressure accidents exploiting environmental vulnerability
 - Shadow replacement creating perfect identity theft murders
@@ -100,7 +109,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Political party competition escalating to physical violence
 - Succession crisis creating multiple assassination motivations
 
-### [[02_Worldbuilding/Lore/Diplomatic Event Scenarios]]
+### [[12_Research/D&D_References/Diplomatic Event Scenarios]]
+
 **Key Templates:**
 - Trade negotiations masking political intelligence operations
 - Cultural festivals enabling soft power projection and agent recruitment
@@ -117,6 +127,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Interconnected Conspiracy Networks
 
 ### The Shadow Conspiracy Web
+
 **Primary Elements:**
 - Parliament infiltration through shadow replacement program
 - Political party leadership replacement with shadow duplicates
@@ -132,6 +143,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Assassination plots targeting anti-shadow political figures
 
 ### The Foreign Influence Matrix
+
 **Tenebrarum Operations:**
 - Shadow Integration Party direct control
 - Progressive Democratic Alliance leadership infiltration
@@ -154,6 +166,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Military intelligence gathering to assess strategic threats
 
 ### The Noble House Alliance Networks
+
 **Traditionalist Coalition:**
 - House Deepcurrent leadership with ancient entity backing
 - Conservative political party funding and candidate support
@@ -178,6 +191,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Reputation and Leverage Systems
 
 ### Political Reputation Mechanics
+
 **Reputation Categories:**
 - **Public Standing:** Citizen support and popular approval ratings
 - **Noble Respect:** Aristocratic social acceptance and marriage eligibility  
@@ -192,6 +206,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Economic credibility can purchase political influence and social acceptance
 
 ### Blackmail and Leverage Networks
+
 **Information Categories:**
 - **Personal Secrets:** Identity, family, relationships, private behavior
 - **Political Corruption:** Vote selling, illegal agreements, procedural violations
@@ -207,6 +222,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - **Personal Destruction:** Complete elimination of political opponent through exposure
 
 ### Cross-System Leverage Effects
+
 **Parliamentary Manipulation:**
 - Blackmail used to force procedural loophole exploitation
 - Reputation threats preventing investigation of procedural violations
@@ -225,6 +241,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Adventure Integration Framework
 
 ### Investigation Campaigns
+
 **Multi-System Mysteries:**
 - Parliamentary corruption investigation revealing noble house conspiracy
 - Assassination plot discovery exposing foreign intelligence operations
@@ -238,6 +255,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Cultural conflict investigation uncovers existential threat to national sovereignty
 
 ### Political Action Campaigns
+
 **Influence Operations:**
 - Support specific succession claimant through political maneuvering
 - Reform parliamentary procedures to eliminate corruption and foreign influence
@@ -251,6 +269,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Coordinate international response to existential supernatural threats
 
 ### Personal Drama Integration
+
 **Relationship Complications:**
 - Family members involved in competing political factions
 - Romantic relationships crossing noble house alliance boundaries
@@ -266,6 +285,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Campaign Timeline Integration
 
 ### Short-Term Events (Days to Weeks)
+
 - Parliamentary votes on critical legislation
 - Assassination attempts and immediate responses
 - Diplomatic incident management and crisis resolution
@@ -273,6 +293,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Emergency governmental sessions and crisis decision-making
 
 ### Medium-Term Developments (Months)
+
 - Succession crisis progression and claimant elimination
 - Political party coalition formation and breakdown
 - Noble house alliance shifts and marriage negotiations
@@ -280,6 +301,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Economic warfare escalation and trade relationship changes
 
 ### Long-Term Consequences (Seasons to Years)
+
 - Constitutional crisis resolution and governmental restructuring  
 - Succession resolution and new ruler establishment
 - International relationship realignment and treaty development
@@ -289,6 +311,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Quick Reference Integration
 
 ### Cross-Document Connection Matrix
+
 | Primary Document | Connected Systems | Key NPCs | Major Secrets |
 |------------------|-------------------|----------|---------------|
 | Parliamentary Procedures | All political parties, noble houses | Senators, committee chairs | Vote manipulation methods |
@@ -300,6 +323,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 | Diplomatic Events | International relations | Diplomats, mediators | Hidden purposes, secret negotiations |
 
 ### Master NPC Relationship Web
+
 **Noble House Leaders ↔ Political Party Heads**
 - Financial support and policy coordination
 - Marriage alliances and family political obligations
@@ -339,3 +363,8 @@ Legends speak of Political Intrigue Master Index as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]

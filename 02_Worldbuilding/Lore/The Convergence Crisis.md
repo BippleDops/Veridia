@@ -5,26 +5,25 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:35.163489+00:00'
 world: Both
 tags:
+- quest
 - active
 - both
 - lore
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
-- [[Quest - The Pretender's Crown]]
-- [[The Crown's Burden]]
-- [[02_Worldbuilding/Quests/Tradeway Road]]
+- [[12_Research/D&D_References/Discover Marina's Truth]]
+- [[12_Research/D&D_References/Goldspire Confederacy]]
+- [[12_Research/D&D_Statblocks/Quest - The Pretender's Crown]]
+- [[12_Research/D&D_Statblocks/The Crown's Burden]]
+- [[12_Research/D&D_Statblocks/Tradeway Road]]
 
 ## Player-Facing Summary
 

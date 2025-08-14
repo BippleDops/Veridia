@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-harpy-xmm-harpy-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/harpy-xmm|Harpy]]
+# [[harpy-xmm|Harpy]]
 *Source: Monster Manual (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Harpy
@@ -70,17 +70,17 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
     "name": "Claw"
-  - "desc": "The harpy sings a magical melody, which lasts until the harpy's [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]\
+  - "desc": "The harpy sings a magical melody, which lasts until the harpy's [[conditions#Concentration|Concentration]]\
       \ ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot\
-      \ [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the harpy when the song starts. Failure: The target has\
-      \ the [[/03_Mechanics/CLI/conditions#Charmed|Charmed]] condition until the\
-      \ song ends and repeats the save at the end of each of its turns. While [[/03_Mechanics/CLI/conditions#Charmed|Charmed]],\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+      \ the [[conditions#Charmed|Charmed]] condition until the\
+      \ song ends and repeats the save at the end of each of its turns. While [[conditions#Charmed|Charmed]],\
+      \ the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and ignores the Luring Song of other harpies. If the target is more\
       \ than 5 feet from the harpy, the target moves on its turn toward the harpy\
       \ by the most direct route, trying to get within 5 feet of the harpy. It doesn't\
-      \ avoid [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]];\
+      \ avoid [[actions#Opportunity%20Attack|Opportunity Attacks]];\
       \ however, before moving into damaging terrain (such as lava or a pit) and whenever\
       \ it takes damage from a source other than the harpy, the target repeats the\
       \ save. Success: The target is immune to this harpy's Luring Song for 24 hours."

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-regenerating-black-pudding-oota-regenerating-black-pudding-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/regenerating-black-pudding-oota|Regenerating Black Pudding]]
+# [[regenerating-black-pudding-oota|Regenerating Black Pudding]]
 *Source: Out of the Abyss p. 211*  
 
 ```statblock
@@ -45,9 +45,9 @@ world: Both
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "5"

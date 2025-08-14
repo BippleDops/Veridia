@@ -30,9 +30,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg]]
 
 
 # The Heart of Oceanus
@@ -314,6 +312,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Heart of Oceanus]]
+- [[The Heart of Oceanus]]
 
 <!-- enriched: true -->

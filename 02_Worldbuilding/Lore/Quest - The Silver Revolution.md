@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- quest
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[12_Research/D&D_References/Silverscale Consortium]]
 
 ## Player-Facing Summary
 

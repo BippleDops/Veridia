@@ -31,7 +31,7 @@ Gravenhollow is a place where visitors will most certainly find answers. However
 
 The objective of the adventurers' return to the Underdark is to find Gravenhollow. Ancient legends state that every event that has ever occurred in the Underdark is recorded on the countless tablets and cylinders in Gravenhollow's halls. As such, it might be the key to discovering the cause of the demon lords' arrival.
 
-The stone library lies west of the Wormwrithings, 360 miles from Mantol-Derith and 120 miles from Gauntlgrym. Only one tunnel leads to the library, and the magic surrounding Gravenhollow can change where the tunnel's entrance appears among the surrounding passageways, even as that magic allows visitors to locate its entrance. Fortunately for the characters, the library's awareness—in tune with all events in the Underdark—knows that they are coming. As such, the ring obtained from the Zhentarim in Mantol-Derith (see chapter 9) allows them to find the secret site. The journey from Mantol-Derith to Gravenhollow takes 60 days. If the characters [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] back to Gauntlgrym and start there, the trip takes 20 days. See chapters 2 and 10 for information on traveling in the Underdark.
+The stone library lies west of the Wormwrithings, 360 miles from Mantol-Derith and 120 miles from Gauntlgrym. Only one tunnel leads to the library, and the magic surrounding Gravenhollow can change where the tunnel's entrance appears among the surrounding passageways, even as that magic allows visitors to locate its entrance. Fortunately for the characters, the library's awareness—in tune with all events in the Underdark—knows that they are coming. As such, the ring obtained from the Zhentarim in Mantol-Derith (see chapter 9) allows them to find the secret site. The journey from Mantol-Derith to Gravenhollow takes 60 days. If the characters [[teleport-xphb|teleport]] back to Gauntlgrym and start there, the trip takes 20 days. See chapters 2 and 10 for information on traveling in the Underdark.
 
 ### Finding the Way
 
@@ -47,13 +47,13 @@ If one or more members of the Society of Brilliance are traveling with the party
 
 #### Stone Giant Guide
 
-If the characters don't have the ring to guide them, a duergar NPC (for example, Ghuldur Flagonfist in Mantol-Derith) might suggest that they talk to Stonespeaker Hgraam in Gracklstugh. If the characters helped the stone giants by putting an end to the horrid derro rituals in the Whorlstone Tunnels (see chapter 4), Stonespeaker Hgraam is willing to assign them a guide—a [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giant]] named Jaal—who can lead them to Gravenhollow. As he guides the expeditionary force through the Underdark, Jaal periodically stops to press his hands against ancient stone, as though communing with the rock itself. His mystical connection to the Underdark allows him to find the safest, shortest route to the stone library.
+If the characters don't have the ring to guide them, a duergar NPC (for example, Ghuldur Flagonfist in Mantol-Derith) might suggest that they talk to Stonespeaker Hgraam in Gracklstugh. If the characters helped the stone giants by putting an end to the horrid derro rituals in the Whorlstone Tunnels (see chapter 4), Stonespeaker Hgraam is willing to assign them a guide—a [[stone-giant-xmm|stone giant]] named Jaal—who can lead them to Gravenhollow. As he guides the expeditionary force through the Underdark, Jaal periodically stops to press his hands against ancient stone, as though communing with the rock itself. His mystical connection to the Underdark allows him to find the safest, shortest route to the stone library.
 
 ### Veldyskar the Basilisk
 
-When the characters are within a day's travel of Gravenhollow, they hear someone singing strange tunes in various languages, the voice echoing down adjacent tunnels. Approaching the sound reveals a [[/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm|basilisk]] named [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] resting in an intersection. No ordinary basilisk, [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] has an Intelligence of 10 (+0) and speaks Common, Dwarvish, Giant, and Undercommon.
+When the characters are within a day's travel of Gravenhollow, they hear someone singing strange tunes in various languages, the voice echoing down adjacent tunnels. Approaching the sound reveals a [[basilisk-xmm|basilisk]] named [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] resting in an intersection. No ordinary basilisk, [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] has an Intelligence of 10 (+0) and speaks Common, Dwarvish, Giant, and Undercommon.
 
-A small group of characters scouting can sneak up on [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] with a successful DC 10 group Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check. Any characters who observe the basilisk can note that it keeps its eyes downcast, as if consciously trying to control its petrifying gaze. When [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] becomes aware of the characters, he calls them over, speaking in all the languages he knows until he determines that the characters understand Common.
+A small group of characters scouting can sneak up on [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] with a successful DC 10 group Dexterity ([[skills#Stealth|Stealth]]) check. Any characters who observe the basilisk can note that it keeps its eyes downcast, as if consciously trying to control its petrifying gaze. When [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] becomes aware of the characters, he calls them over, speaking in all the languages he knows until he determines that the characters understand Common.
 
 > [!readaloud] 
 > 
@@ -64,11 +64,11 @@ After his initial greeting, [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veld
 
 Untold years ago, a visiting stone giant druid presented the librarians with a gift: [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]], an intelligent basilisk trained to serve the keepers as a guardian and general-purpose helper. The basilisk adapted readily to the timeless nature of the library and embraced his new duties with great dedication.
 
-[[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] is committed to the protection of the library and its librarians. If trouble arises, his philosophy is to petrify first and ask questions later. Initially, this presented a problem for the stone giant librarians, as the basilisk had some difficulty reconciling his temper and bestial nature with the recognition of what trouble might actually look like. The stone giants taught [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] how to cast [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]], which the basilisk can do once per day to restore anyone who crosses him.
+[[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] is committed to the protection of the library and its librarians. If trouble arises, his philosophy is to petrify first and ask questions later. Initially, this presented a problem for the stone giant librarians, as the basilisk had some difficulty reconciling his temper and bestial nature with the recognition of what trouble might actually look like. The stone giants taught [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] how to cast [[greater-restoration-xphb|greater restoration]], which the basilisk can do once per day to restore anyone who crosses him.
 
 ### Gates of Gravenhollow
 
-A pair of massive basalt doors mark the entrance to Gravenhollow, flanked by stone giant statues that are actually [[/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm|stone golems]]. The doors are opened simply by pushing, after which the entire expeditionary force can enter along with the characters. The golems turn their heads to watch new arrivals but otherwise remain still. The basilisk [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] guides the characters in through the gates, instructs them to continue straight ahead, then quickly disappears down a side passage.
+A pair of massive basalt doors mark the entrance to Gravenhollow, flanked by stone giant statues that are actually [[stone-golem-xmm|stone golems]]. The doors are opened simply by pushing, after which the entire expeditionary force can enter along with the characters. The golems turn their heads to watch new arrivals but otherwise remain still. The basilisk [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] guides the characters in through the gates, instructs them to continue straight ahead, then quickly disappears down a side passage.
 
 > [!readaloud] 
 > 
@@ -81,7 +81,7 @@ A pair of massive basalt doors mark the entrance to Gravenhollow, flanked by sto
 > A stout, rocky creature detaches from the perfectly smooth wall to your left, leaving an imprint of its body in the wall that quickly smooths out and fades from sight. "Trravelerrrrsss. I am Hourm. The masterrrsss arre occupied. Therre arre rroomsss forr all of you. Choose yourr own. The rresourrcesss of Grravenhollow arre at yourr disssposssal. You need only asssk."
 ^3ca
 
-Hourm, a friendly [[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm|galeb duhr]], answers any questions the characters have about Gravenhollow to the best of its ability, including how navigate its levels, and how to access the library's knowledge. After leading the party to living quarters one level below the library's main level, it merges into another wall and disappears.
+Hourm, a friendly [[galeb-duhr-xmm|galeb duhr]], answers any questions the characters have about Gravenhollow to the best of its ability, including how navigate its levels, and how to access the library's knowledge. After leading the party to living quarters one level below the library's main level, it merges into another wall and disappears.
 
 ## The Stone Library
 
@@ -93,7 +93,7 @@ Each room on each level of Gravenhollow is part of either the Archives of the Pa
 
 The library is quiet and peaceful, and visitors are free to move within it as they wish. If anyone has a need to find any other character within Gravenhollow (including one of the librarians), the library subtly directs the character toward its target within minutes.
 
-The three [[/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm|stone giants]] who serve as Gravenhollow's librarians don't specifically welcome visitors—or even notice their comings and goings—unless the library directs them to do so. The characters need to seek the keepers out.
+The three [[stone-giant-xmm|stone giants]] who serve as Gravenhollow's librarians don't specifically welcome visitors—or even notice their comings and goings—unless the library directs them to do so. The characters need to seek the keepers out.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/088-ooa11-02.webp#center)
 
@@ -117,7 +117,7 @@ The irruption of the demon lords into the Underdark has sent powerful ripples of
 
 #### Galeb Duhr Assistants
 
-The library draws in elemental spirits to animate earth and stone, forming [[/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm|galeb duhr]] to serve as assistants for the keepers. These creatures are humorless but diligent.
+The library draws in elemental spirits to animate earth and stone, forming [[galeb-duhr-xmm|galeb duhr]] to serve as assistants for the keepers. These creatures are humorless but diligent.
 
 ### Echoes
 
@@ -182,7 +182,7 @@ This younger version of Stonespeaker Hgraam (see chapter 4, "Gracklstugh") treat
 
 #### Jalynfein Oblodra
 
-This young male drow was cast out of Menzoberranzan after he lost his sight, yet he survived and found his way here. The blind drow came to the library hoping to overcome his blindness and take revenge on his family. Characters familiar with drow lore or history know, with a successful DC 14 Intelligence ([[/03_Mechanics/CLI/skills#History|History]]) check, that House Oblodra was all but wiped out years ago.
+This young male drow was cast out of Menzoberranzan after he lost his sight, yet he survived and found his way here. The blind drow came to the library hoping to overcome his blindness and take revenge on his family. Characters familiar with drow lore or history know, with a successful DC 14 Intelligence ([[skills#History|History]]) check, that House Oblodra was all but wiped out years ago.
 
 #### Society of Brilliance
 
@@ -224,7 +224,7 @@ The walkways that surround the central well are wide and mostly empty, with the 
 > 
 > **Bigger on the Inside.** The notion of space works strangely in Gravenhollow. The interior of the library continually expands as lore is added to it, but visitors can still traverse all its floors and chambers with ease. Only the most absentminded and scatterbrained become lost in Gravenhollow.
 > 
-> **Universal Language.** While in Gravenhollow, all creatures gain the benefit of the [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]] spell.
+> **Universal Language.** While in Gravenhollow, all creatures gain the benefit of the [[comprehend-languages-xphb|comprehend languages]] spell.
 > 
 > **Hidden from Magic.** Gravenhollow is a window into the passage of time and history, and the magic permeating the library blocks it off from the real world around it. Though divination magic works normally within the library, no divination effect used outside the library can discern any creature, object, or location within it.
 > 
@@ -239,13 +239,13 @@ Gravenhollow's records are organized by rooms attuned to the past, the present, 
 
 #### Accessing the Records
 
-The library keeps its records on stone and crystal slabs, monoliths, and stelae fitting neatly in niches carved into the walls of every room. Thanks to the library's [[/03_Mechanics/CLI/spells/comprehend-languages-xphb|comprehend languages]] effect, anyone can easily decipher and understand the runes and glyphs carved into the stone.
+The library keeps its records on stone and crystal slabs, monoliths, and stelae fitting neatly in niches carved into the walls of every room. Thanks to the library's [[comprehend-languages-xphb|comprehend languages]] effect, anyone can easily decipher and understand the runes and glyphs carved into the stone.
 
 These records contain only what the librarians were able to write down. Even with their network of messengers and informants, and the visions they receive using the powers of the library, the stone giants are still mortal creatures. As such, the giants' own understanding might limit the characters' ability to locate information in the library.
 
 The library's written records deal only with events in the Underdark and the history of giants. Like most stone giants, the librarians consider the surface world a realm of dreams, and what happens there is deemed less important than events in the Underdark.
 
-To acquire information not inscribed in the records (including any events outside the Underdark), the characters need a [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B), after which they must find an appropriate archive to query events in the past, present, or future.
+To acquire information not inscribed in the records (including any events outside the Underdark), the characters need a [[stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B), after which they must find an appropriate archive to query events in the past, present, or future.
 
 #### Archives of the Past
 
@@ -294,12 +294,12 @@ The information in the Archives of the Future is uncertain, not only because Ust
 
 ## The Enemy of Our Enemy
 
-As the characters explore the library, ideally after encountering an echo or two, they meet the venerable drow archmage [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]], accompanied by Kleve, a [[/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm|death slaad]] bodyguard in its natural form. Vizeran is an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] with the following statistical modifications:
+As the characters explore the library, ideally after encountering an echo or two, they meet the venerable drow archmage [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]], accompanied by Kleve, a [[death-slaad-xmm|death slaad]] bodyguard in its natural form. Vizeran is an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] with the following statistical modifications:
 
 - Vizeran's alignment is neutral evil.  
-- Vizeran's fey ancestry gives him advantage on saving throws against being [[/03_Mechanics/CLI/conditions#Charmed|charmed]], and magic can't put him to sleep.  
-- Vizeran can innately cast the following spells, requiring no material components: [[/03_Mechanics/CLI/spells/dancing-lights-xphb|dancing lights]] at will, [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] once per day, [[/03_Mechanics/CLI/spells/faerie-fire-xphb|faerie fire]] once per day (spell save DC 15), and [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]] (self only) once per day.  
-- While in sunlight, Vizeran has disadvantage on attack rolls, as well as on Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks that rely on sight.  
+- Vizeran's fey ancestry gives him advantage on saving throws against being [[conditions#Charmed|charmed]], and magic can't put him to sleep.  
+- Vizeran can innately cast the following spells, requiring no material components: [[dancing-lights-xphb|dancing lights]] at will, [[darkness-xphb|darkness]] once per day, [[faerie-fire-xphb|faerie fire]] once per day (spell save DC 15), and [[levitate-xphb|levitate]] (self only) once per day.  
+- While in sunlight, Vizeran has disadvantage on attack rolls, as well as on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.  
 
 When the characters first encounter Vizeran and Kleve, read the following boxed text to the players.
 
@@ -316,7 +316,7 @@ The drow archmage suggests that the adventurers make their own inquiries—and t
 
 During their time in the library, the characters can meet with Vizeran several times to exchange notes. The drow archmage already knows a lot of what has transpired since the demon lords arrived. He isn't, however, using the library to delve into specific events, so he welcomes the characters' input while remaining tight-lipped about his own intentions and goals.
 
-If the characters threaten Vizeran, Kleve looms menacingly nearby even as the archmage tries to keep things civil, pointing out that there is nothing to be gained by fighting. If the adventurers attack him or Kleve, Vizeran casts [[/03_Mechanics/CLI/spells/time-stop-xphb|time stop]] and departs before [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] shows up (see "A Place of Peace" in the "Gravenhollow: General Features" sidebar). Kleve becomes [[/03_Mechanics/CLI/conditions#Invisible|invisible]] and follows his master out of Gravenhollow. Despite their attack upon him, the archmage contacts the characters again in an attempt to forge an alliance (see chapter 12, "The Tower of Vengeance").
+If the characters threaten Vizeran, Kleve looms menacingly nearby even as the archmage tries to keep things civil, pointing out that there is nothing to be gained by fighting. If the adventurers attack him or Kleve, Vizeran casts [[time-stop-xphb|time stop]] and departs before [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] shows up (see "A Place of Peace" in the "Gravenhollow: General Features" sidebar). Kleve becomes [[conditions#Invisible|invisible]] and follows his master out of Gravenhollow. Despite their attack upon him, the archmage contacts the characters again in an attempt to forge an alliance (see chapter 12, "The Tower of Vengeance").
 
 ### Approaching the Librarians
 
@@ -324,22 +324,22 @@ If the characters set out to find a librarian, Ulthar is the one they find first
 
 Urmas has been following recent events that might have led to the current crisis. He bids the characters to tell him about their own experiences in the Underdark—specifically, their encounters with the demon lords.
 
-Ulthar offers the characters one of the library's [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystals]]. if they don't have their own, instructing them on how to attune to it. He warns the characters to not let themselves become lost in the visions they will experience.
+Ulthar offers the characters one of the library's [[stonespeaker-crystal-oota|stonespeaker crystals]]. if they don't have their own, instructing them on how to attune to it. He warns the characters to not let themselves become lost in the visions they will experience.
 
 ## Stonespeaker Crystals
 
-A creature attuned to a [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B) gains the ability to peer through the veils of time and receive visions of the past, present, and future—but only while in Gravenhollow.
+A creature attuned to a [[stonespeaker-crystal-oota|stonespeaker crystal]] (see appendix B) gains the ability to peer through the veils of time and receive visions of the past, present, and future—but only while in Gravenhollow.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/089-ooa11-03.webp#center)
 
-A creature attuned to a [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystal]] gains the following additional benefits while in the library:
+A creature attuned to a [[stonespeaker-crystal-oota|stonespeaker crystal]] gains the following additional benefits while in the library:
 
 - While standing in the Archives of the Past with the crystal in hand, the creature can choose to experience a vision of the past. After receiving this vision, the creature can't experience another vision of the past until it finishes a long rest.  
 - While standing in the Archives of the Present with the crystal in hand, the creature can choose to receive a vision of something happening at that moment. After receiving this vision, the creature can't experience another vision of the present until it finishes a long rest.  
 - While standing in the Archives of the Future with the crystal in hand, the creature can choose to receive a glimpse of what might happen if the demon lords aren't stopped. After receiving this vision, the creature can't experience another glimpse of the future until it finishes a long rest.  
 - While standing in the appropriate archive, the creature can expend 2 of the crystal's charges to ask a question pertaining to the past, present, or future and receive a truthful answer in the form of a vision.  
 
-Characters can expend charges to confirm suspicions, fill in gaps in their knowledge, and see for themselves the events that brought the demon lords into the world. Such research might take several days. Ulthar doesn't give them another [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|stonespeaker crystal]] to speed up the process, but the characters can try to steal one, as the trusting librarian keeps them on a shelf in his quarters. The giant discovers the theft in `d4` days, at which point the characters are confronted by [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] and a host of galeb duhr, who politely ask them to leave Gravenhollow at once.
+Characters can expend charges to confirm suspicions, fill in gaps in their knowledge, and see for themselves the events that brought the demon lords into the world. Such research might take several days. Ulthar doesn't give them another [[stonespeaker-crystal-oota|stonespeaker crystal]] to speed up the process, but the characters can try to steal one, as the trusting librarian keeps them on a shelf in his quarters. The giant discovers the theft in `d4` days, at which point the characters are confronted by [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] and a host of galeb duhr, who politely ask them to leave Gravenhollow at once.
 
 ### Possible Visions
 
@@ -358,7 +358,7 @@ If the characters inquire about Gromph Baenre or the arrival of the demon lords,
 > A woman's deep, dark laugh echoes in your mind as the drow wizard shrinks away from the demonic hordes he has unwittingly unleashed.
 ^3fa
 
-If a character receiving this vision has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 13 or higher, he or she sees a drow insignia on the wizard. If the character is a drow or otherwise familiar with the iconography of Menzoberranzan's drow houses, he or she recognizes the symbol as representing House Baenre. The character can also recall the symbol well enough to draw it, so that another more knowledgeable character can discern its significance.
+If a character receiving this vision has a passive Wisdom ([[skills#Perception|Perception]]) score of 13 or higher, he or she sees a drow insignia on the wizard. If the character is a drow or otherwise familiar with the iconography of Menzoberranzan's drow houses, he or she recognizes the symbol as representing House Baenre. The character can also recall the symbol well enough to draw it, so that another more knowledgeable character can discern its significance.
 
 #### Zuggtmoy's Arrival
 

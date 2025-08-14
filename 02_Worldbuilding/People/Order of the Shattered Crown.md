@@ -6,7 +6,7 @@ age: '73'
 cr: '8'
 created: '2025-08-12'
 created_by: expansion
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[The Crystalline Wastes]]'
 obsidianUIMode: preview
 race: Human (Heavily Crystal-touched)
 role: Grand Master of the Shattered Crown
@@ -27,19 +27,15 @@ world: Aethermoor
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg]]
 
 
 # Grand Master Valdric Shardseeker
 *Founder and Supreme Leader of the Order of the Shattered Crown*
 
 ## Overview
-Grand Master Valdric Shardseeker is the ancient founder and supreme leader of the [[02_Worldbuilding/People/Order of the Shattered Crown]], a mystical order dedicated to reuniting the fragments of the legendary [[02_Worldbuilding/Lore/The Crown of Stars]]. At 73 years old, Valdric has spent over four decades in pursuit of the [[02_Worldbuilding/Lore/The Seven Shards]], his body and soul transformed by prolonged exposure to their cosmic energies. He stands as both mentor to [[Keeper of the Shattered Crown, Marcus Crystalvein]] and the ultimate authority on Crown lore, wielding powers that blur the line between divine and mortal.
+Grand Master Valdric Shardseeker is the ancient founder and supreme leader of the [[Order of the Shattered Crown]], a mystical order dedicated to reuniting the fragments of the legendary [[The Crown of Stars]]. At 73 years old, Valdric has spent over four decades in pursuit of the [[The Seven Shards]], his body and soul transformed by prolonged exposure to their cosmic energies. He stands as both mentor to [[Keeper of the Shattered Crown, Marcus Crystalvein]] and the ultimate authority on Crown lore, wielding powers that blur the line between divine and mortal.
 
 ---
 
@@ -104,23 +100,23 @@ The weight of cosmic knowledge and responsibility has shaped Valdric's personali
 ### The Scholar's Beginning (Age 5-25)
 **Noble Origins**: Born Valdric Astralheim to a minor noble family with extensive connections to the royal court and palace libraries. His childhood was marked by exceptional intellectual curiosity and an almost supernatural affinity for ancient languages and historical texts.
 
-**The Discovery**: At age 17, while researching genealogical records in the palace's deepest archives, Valdric discovered hidden chambers containing pre-Shattering documents about the [[02_Worldbuilding/Lore/The Crown of Stars]]. These texts, written in ancient celestial script, revealed the true nature of the Crown as more than a symbol of royal authority - it was a cosmic artifact designed to maintain harmony between realms.
+**The Discovery**: At age 17, while researching genealogical records in the palace's deepest archives, Valdric discovered hidden chambers containing pre-Shattering documents about the [[The Crown of Stars]]. These texts, written in ancient celestial script, revealed the true nature of the Crown as more than a symbol of royal authority - it was a cosmic artifact designed to maintain harmony between realms.
 
 **Academic Obsession**: Valdric spent his early twenties becoming the kingdom's foremost expert on Crown lore, learning to read ancient languages that had been forgotten for centuries and developing theories about the Shards' locations and properties. His academic work attracted the attention of other scholars but also dangerous political interests.
 
 **First Contact**: At age 23, Valdric's research led him to discover a small Crown fragment hidden in an ancient reliquary. The moment he touched it, his life changed forever - he experienced visions of the Crown's original glory and felt the overwhelming compulsion to reunite the scattered pieces.
 
 ### The Seeker Years (Age 25-45)
-**The Great Quest**: Abandoning his comfortable academic life, Valdric embarked on a decades-long quest to locate and study the [[02_Worldbuilding/Lore/The Seven Shards]]. This period involved dangerous expeditions to forgotten ruins, negotiations with deadly magical creatures, and infiltration of rival factions who also sought the Shards.
+**The Great Quest**: Abandoning his comfortable academic life, Valdric embarked on a decades-long quest to locate and study the [[The Seven Shards]]. This period involved dangerous expeditions to forgotten ruins, negotiations with deadly magical creatures, and infiltration of rival factions who also sought the Shards.
 
 **Physical Transformation**: Each Shard encounter left its mark on Valdric's body and soul. His gradual crystal transformation began during this period, as prolonged exposure to Shard energy slowly converted his flesh into living crystal. Unlike others who suffered chaotic corruption, Valdric learned to guide and control his transformation.
 
-**Building the Network**: As his reputation grew, Valdric began attracting other Shard seekers, scholars, and visionaries who shared his belief in the importance of Crown reunification. This informal network would eventually become the foundation of the [[02_Worldbuilding/People/Order of the Shattered Crown]].
+**Building the Network**: As his reputation grew, Valdric began attracting other Shard seekers, scholars, and visionaries who shared his belief in the importance of Crown reunification. This informal network would eventually become the foundation of the [[Order of the Shattered Crown]].
 
 **The Great Failure**: Valdric's most ambitious early attempt at Shard reunification took place when he was 42. Having gathered four Shard fragments, he attempted to partially reconstruct the Crown in a ritual that backfired catastrophically, scattering the fragments across the continent and nearly killing him. This failure taught him the importance of patience and perfect preparation.
 
 ### The Founder Era (Age 45-65)
-**Formal Organization**: Learning from his early failure, Valdric established the [[02_Worldbuilding/People/Order of the Shattered Crown]] as a formal organization dedicated to systematic and careful pursuit of Crown reunification. He developed the Order's philosophy, training methods, and hierarchical structure during this period.
+**Formal Organization**: Learning from his early failure, Valdric established the [[Order of the Shattered Crown]] as a formal organization dedicated to systematic and careful pursuit of Crown reunification. He developed the Order's philosophy, training methods, and hierarchical structure during this period.
 
 **The Great Teaching**: Valdric spent nearly two decades training successive generations of Shard seekers, including [[Keeper of the Shattered Crown, Marcus Crystalvein]], whom he identified as having exceptional potential. His teaching methods combined rigorous academic study with practical field training and careful exposure to Shard energies.
 
@@ -129,7 +125,7 @@ The weight of cosmic knowledge and responsibility has shaped Valdric's personali
 **The Secret Archive**: Valdric established hidden repositories of Crown lore and Shard research, ensuring that the Order's accumulated knowledge would survive even if individual members were lost. These archives contain the most comprehensive understanding of Crown magic available anywhere.
 
 ### The Master Years (Age 65-Present)
-**Strategic Leadership**: Now in his seventies, Valdric has evolved from active field researcher to strategic leader, directing Order operations from his stronghold in [[02_Worldbuilding/Places/The Crystalline Wastes]] while his disciples like Marcus handle direct Shard acquisition.
+**Strategic Leadership**: Now in his seventies, Valdric has evolved from active field researcher to strategic leader, directing Order operations from his stronghold in [[The Crystalline Wastes]] while his disciples like Marcus handle direct Shard acquisition.
 
 **The Final Gathering**: Valdric believes the time has come for the ultimate reunification attempt. His current activities focus on preparing for this cosmic undertaking, gathering resources, allies, and the final Shard fragments needed to restore the Crown of Stars.
 
@@ -238,23 +234,23 @@ If Valdric is reduced to 0 hit points, his Crown fragment activates, restoring h
 **Order Rank and File**: The hundreds of Order members view Valdric with a mixture of reverence, fear, and genuine devotion. His combination of cosmic authority and paternal guidance inspires fierce loyalty, though some members worry about the human cost of his cosmic vision.
 
 ### Political and Religious Relationships
-**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: A complex relationship combining mutual respect with fundamental disagreement about priorities. Valdric sees the Queen as a competent but limited leader who cannot understand cosmic necessities, while she views him as a dangerous fanatic who threatens political stability.
+**[[Queen Seraphina Lumengarde]]**: A complex relationship combining mutual respect with fundamental disagreement about priorities. Valdric sees the Queen as a competent but limited leader who cannot understand cosmic necessities, while she views him as a dangerous fanatic who threatens political stability.
 
-**[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Open enemies, with Maltheos viewing Valdric as the epitome of dangerous magical corruption that must be destroyed. Valdric sees the Inquisitor as a narrow-minded zealot who would prevent cosmic healing due to ignorance and fear.
+**[[High Inquisitor Maltheos]]**: Open enemies, with Maltheos viewing Valdric as the epitome of dangerous magical corruption that must be destroyed. Valdric sees the Inquisitor as a narrow-minded zealot who would prevent cosmic healing due to ignorance and fear.
 
-**[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Complicated business relationship involving information trading and resource acquisition. Valdric finds their profit motives distasteful but useful, while they see him as a valuable but unpredictable client.
+**[[Silverscale Consortium]]**: Complicated business relationship involving information trading and resource acquisition. Valdric finds their profit motives distasteful but useful, while they see him as a valuable but unpredictable client.
 
-**[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Valdric views them as competitors for reality-shaping resources and allies. Both groups have cosmic ambitions, creating potential for either alliance or catastrophic conflict depending on whether their goals can be reconciled.
+**[[The Convergence Seekers]]**: Valdric views them as competitors for reality-shaping resources and allies. Both groups have cosmic ambitions, creating potential for either alliance or catastrophic conflict depending on whether their goals can be reconciled.
 
 ### Scholarly and Mystical Connections
-**[[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]**: Professional respect despite philosophical differences. Valdric appreciates her scholarly rigor and historical knowledge, though he finds her academic caution frustrating when cosmic action is required.
+**[[Scholar Vivienne the Chronicler]]**: Professional respect despite philosophical differences. Valdric appreciates her scholarly rigor and historical knowledge, though he finds her academic caution frustrating when cosmic action is required.
 
-**[[02_Worldbuilding/People/The Crimson Sage]]**: Valdric desperately seeks audience with this mysterious figure, believing the Sage possesses crucial knowledge about Crown magic and reality manipulation. Their relationship is one-sided fascination on Valdric's part.
+**[[The Crimson Sage]]**: Valdric desperately seeks audience with this mysterious figure, believing the Sage possesses crucial knowledge about Crown magic and reality manipulation. Their relationship is one-sided fascination on Valdric's part.
 
 **The Ancient Libraries**: Valdric maintains relationships with hidden repositories of mystical knowledge throughout Aethermoor and beyond. These connections provide crucial research resources but also create obligations to powerful entities who guard such knowledge.
 
 ### Enemies and Rivals
-**[[02_Worldbuilding/Groups/Purist Coalition]]**: Ideological enemies who view Valdric's crystal transformation and cosmic goals as abominations that must be stopped. The Coalition actively works to thwart Order operations and destroy Shard research.
+**[[Purist Coalition]]**: Ideological enemies who view Valdric's crystal transformation and cosmic goals as abominations that must be stopped. The Coalition actively works to thwart Order operations and destroy Shard research.
 
 **Rival Shard Seekers**: Other individuals and organizations who seek Crown fragments for their own purposes. Valdric views them as obstacles to proper reunification and potential sources of dangerous corruption if they misuse Shard power.
 
@@ -264,7 +260,7 @@ If Valdric is reduced to 0 hit points, his Crown fragment activates, restoring h
 
 ## Secrets and Hidden Knowledge
 ### The Crown's True Purpose
-Valdric has discovered that the [[02_Worldbuilding/Lore/The Crown of Stars]] was originally created not as a symbol of royal authority but as a cosmic stabilization device designed to prevent reality fractures and maintain the barrier between dimensions. This knowledge explains his urgency about reunification but also reveals potential catastrophic consequences if the process goes wrong.
+Valdric has discovered that the [[The Crown of Stars]] was originally created not as a symbol of royal authority but as a cosmic stabilization device designed to prevent reality fractures and maintain the barrier between dimensions. This knowledge explains his urgency about reunification but also reveals potential catastrophic consequences if the process goes wrong.
 
 ### The Eighth Fragment
 While most believe there are seven Crown Shards, Valdric's research has revealed evidence of an eighth fragment - the Crown's original "heart" that was thought destroyed during the Shattering. His secret search for this fragment drives many of his seemingly irrational decisions and resource allocations.
@@ -276,7 +272,7 @@ Despite his outward confidence, Valdric knows his crystal transformation is appr
 Valdric has discovered that [[Keeper of the Shattered Crown, Marcus Crystalvein]] is descended from the original Crown bearer bloodline, making him not just a suitable successor but potentially the only person who can safely wield the reunited Crown. This knowledge burdens Valdric with responsibility for Marcus's development and safety.
 
 ### The Convergence Connection
-Valdric's private research has revealed that the dimensional instabilities plaguing Aethermoor are directly connected to the Crown's fragmentation. The [[02_Worldbuilding/Groups/The Convergence Seekers]] are unknowingly making the crisis worse by attempting reality manipulation without understanding the Crown's stabilizing role.
+Valdric's private research has revealed that the dimensional instabilities plaguing Aethermoor are directly connected to the Crown's fragmentation. The [[The Convergence Seekers]] are unknowingly making the crisis worse by attempting reality manipulation without understanding the Crown's stabilizing role.
 
 ### The Political Conspiracy
 Valdric has uncovered evidence that several high-ranking nobles and religious leaders are secretly working together to prevent Crown reunification, fearing it would disrupt their power structures. This conspiracy includes members of the royal court and extends into neighboring kingdoms.
@@ -485,13 +481,13 @@ Specialized magical instruments created by Valdric for detecting, analyzing, and
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Convergence Seekers]]
-- [[02_Worldbuilding/People/Captain Elara Shadowshard]]
+- [[The Convergence Seekers]]
+- [[Captain Elara Shadowshard]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
-- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
-- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[Sir Marcus Dawnforge]]
+- [[The Azure Prophet Nerissa]]
+- [[The Bloodline Carrier]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -514,8 +510,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[Order of the Shattered Crown]]
 
 <!-- enriched: true -->
 nriched: true -->
-- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[The Crown of Stars]]

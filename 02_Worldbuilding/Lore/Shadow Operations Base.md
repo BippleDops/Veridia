@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[12_Research/D&D_References/Consortium Security Constructs]]
 
 ## Player-Facing Summary
 

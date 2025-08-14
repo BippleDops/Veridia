@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-magical-component-manufacturers-guil-magical-component-manufacturers-guil.svg]]
 
 
 ## Overview

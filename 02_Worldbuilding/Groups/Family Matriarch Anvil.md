@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-family-matriarch-anvil-family-matriarch-anvil.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-family-matriarch-anvil-family-matriarch-anvil.svg]]
 
 
 ## Overview
@@ -63,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[Master Smith Vulcan Deepforge]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[Master Smith Vulcan Deepforge]]

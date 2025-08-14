@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- session-notes
 - both
 - complete
 - content/lore
@@ -14,25 +15,22 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[12_Research/D&D_References/Rewriting the Ritual]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Depth Adaptation Points]]
-- [[02_Worldbuilding/Lore/Echo of the Mother]]
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/Lore/Madness Effects]]
-- [[02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[02_Worldbuilding/Lore/Spell Components]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[12_Research/D&D_References/Depth Adaptation Points]]
+- [[12_Research/D&D_References/Echo of the Mother]]
+- [[12_Research/D&D_References/Investigation Procedures]]
+- [[12_Research/D&D_References/Madness Effects]]
+- [[12_Research/D&D_References/Sorrow Pearls]]
+- [[12_Research/D&D_References/Spell Components]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Port Meridian]]
+- [[12_Research/D&D_Statblocks/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 
@@ -53,3 +51,7 @@ Legends speak of Corruption Exposure Tracking as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

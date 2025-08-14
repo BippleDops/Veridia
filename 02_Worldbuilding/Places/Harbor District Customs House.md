@@ -3,6 +3,11 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
 - both
 - complete
 - content/location
@@ -15,29 +20,25 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg]]
 
 
 # Harbor District Customs House
+
 *Gateway of Law and Commerce*
 
 > *"Every crate tells a story, every manifest holds secrets, and every trader carries hopes across the waters. Here, we ensure that what enters our realm serves the crown and the people alike."*
-> — [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations
+> — [[12_Research/D&D_References/Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations
 
 ## Overview
 
-The Harbor District Customs House stands as the imposing gatekeeping fortress of [[02_Worldbuilding/Places/Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[02_Worldbuilding/Places/Aethermoor]]'s economy flowing smoothly.
+The Harbor District Customs House stands as the imposing gatekeeping fortress of [[12_Research/D&D_References/Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[12_Research/D&D_References/Aethermoor]]'s economy flowing smoothly.
 
 ## History and Foundation
 
 ### The Merchant's Compact Era
+
 **Period**: 400 years ago, establishment under the Merchant's Compact  
 **Purpose**: Simple tax collection house for growing maritime trade  
 **Structure**: Modest wooden building with basic record-keeping facilities  
@@ -45,6 +46,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Challenge**: Limited authority and resources to handle growing trade volumes
 
 ### The Revenue Wars
+
 **Timeline**: 350-320 years ago, conflicts over taxation and trade control  
 **Problem**: Competing authorities and rampant tax evasion  
 **Response**: Royal decree establishing unified customs authority  
@@ -52,6 +54,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Innovation**: Introduction of systematic inspection and documentation procedures
 
 ### The Crystal Integration Period
+
 **Era**: 280-250 years ago, incorporation of crystal technology  
 **Innovation**: Crystal-enhanced record keeping and communication systems  
 **Efficiency**: Dramatic improvement in processing speed and accuracy  
@@ -59,6 +62,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Modernization**: Transformation from simple tax office to comprehensive trade authority
 
 ### The Smuggler's War
+
 **Period**: 200-180 years ago, intensive anti-smuggling campaign  
 **Challenge**: Sophisticated smuggling networks threatening revenue and security  
 **Response**: Military-style organization and investigation capabilities  
@@ -66,6 +70,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Legacy**: Establishment of permanent investigative and enforcement powers
 
 ### The Diplomatic Expansion
+
 **Timeline**: 150-100 years ago, addition of diplomatic functions  
 **Need**: Growing complexity of international trade relationships  
 **Development**: Addition of trade negotiation and diplomatic protocol offices  
@@ -73,6 +78,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Influence**: Evolution into major center of economic diplomacy
 
 ### Modern Comprehensive Authority
+
 **Current**: Integration of all trade-related government functions  
 **Scope**: Customs, immigration, trade policy, diplomatic relations, security  
 **Technology**: Cutting-edge crystal technology for all operations  
@@ -84,6 +90,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### The Main Customs Hall
 
 #### The Grand Processing Floor
+
 **Scale**: Vast hall capable of processing hundreds of merchants simultaneously  
 **Design**: Multiple inspection stations with crystal-enhanced lighting and ventilation  
 **Efficiency**: Streamlined layout minimizing delays while ensuring thorough inspection  
@@ -91,6 +98,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Symbolism**: Impressive architecture demonstrating royal authority and prosperity
 
 #### The Manifest Review Center
+
 **Function**: Central documentation processing for all incoming trade  
 **Organization**: Systematic filing and cross-referencing of all trade documents  
 **Technology**: Crystal-enhanced record storage allowing instant document retrieval  
@@ -98,6 +106,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Security**: Protected storage for sensitive commercial and diplomatic documents
 
 #### The Inspection Bays
+
 **Facilities**: Specialized areas for detailed inspection of various cargo types  
 **Equipment**: Advanced tools for detecting contraband and verifying quality  
 **Flexibility**: Configurable spaces accommodating different inspection needs  
@@ -107,6 +116,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Administrative Wings
 
 #### The Revenue Office
+
 **Purpose**: Tax assessment, collection, and financial record-keeping  
 **Security**: Heavily secured vaults for tax revenue storage  
 **Staff**: Expert assessors specializing in different types of goods and services  
@@ -114,6 +124,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Accuracy**: Meticulous record-keeping ensuring accurate revenue collection
 
 #### The Investigation Division
+
 **Function**: Anti-smuggling operations and trade law enforcement  
 **Facilities**: Evidence storage, interrogation rooms, and case preparation areas  
 **Intelligence**: Information gathering and analysis capabilities  
@@ -121,6 +132,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Secrecy**: Discrete operations to avoid alerting criminal networks
 
 #### The Diplomatic Quarter
+
 **Purpose**: Trade negotiations, diplomatic protocol, and international relations  
 **Facilities**: Conference rooms, reception areas, and diplomatic offices  
 **Security**: Protected spaces for sensitive diplomatic discussions  
@@ -130,6 +142,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Support Facilities
 
 #### The Customs Warehouse Complex
+
 **Storage**: Massive warehouses for goods awaiting clearance or under investigation  
 **Organization**: Systematic storage allowing rapid location and retrieval  
 **Security**: Multiple security levels for different types of stored goods  
@@ -137,6 +150,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Access**: Controlled access ensuring security while maintaining operational efficiency
 
 #### The Crystal Communication Center
+
 **Technology**: State-of-the-art crystal communication equipment  
 **Coverage**: Communication links with other ports, government offices, and international partners  
 **Security**: Encrypted communications for sensitive information  
@@ -144,6 +158,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Coordination**: Central coordination for all customs operations
 
 #### The Training Academy
+
 **Education**: Training facility for customs officers, inspectors, and specialists  
 **Curriculum**: Comprehensive education in trade law, inspection techniques, and diplomacy  
 **Practical**: Hands-on training using actual customs scenarios and equipment  
@@ -155,6 +170,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Standard Processing Workflow
 
 #### Ship Arrival Protocol
+
 **Notification**: Advance notification system requiring manifest submission before arrival  
 **Inspection**: Preliminary inspection of vessel and crew before docking permission  
 **Documentation**: Comprehensive documentation review and verification process  
@@ -162,6 +178,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Communication**: Coordination with harbor authorities and shipping agents
 
 #### Cargo Inspection Process
+
 **Assessment**: Initial risk assessment determining level of inspection required  
 **Physical Inspection**: Physical examination of goods by trained inspectors  
 **Documentation**: Verification of all cargo documentation and permits  
@@ -169,6 +186,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Clearance**: Final clearance process and release authorization
 
 #### Tax Assessment and Collection
+
 **Calculation**: Accurate calculation of all applicable taxes and fees  
 **Payment**: Secure payment processing with multiple payment options  
 **Documentation**: Generation of official receipts and clearance documents  
@@ -178,6 +196,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Specialized Operations
 
 #### High-Value Cargo Handling
+
 **Security**: Enhanced security measures for extremely valuable shipments  
 **Expertise**: Specialist appraisers for luxury goods and rare materials  
 **Insurance**: Coordination with insurance companies and risk management  
@@ -185,6 +204,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Escort**: Secure transport services for approved high-value cargo
 
 #### Diplomatic Cargo Protocol
+
 **Immunity**: Handling of diplomatic pouches and diplomatic cargo  
 **Protocol**: Strict adherence to international diplomatic protocols  
 **Security**: Balance between security requirements and diplomatic immunity  
@@ -192,6 +212,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Discretion**: Discrete handling to maintain diplomatic relationships
 
 #### Contraband Investigation
+
 **Detection**: Advanced techniques for detecting concealed contraband  
 **Investigation**: Thorough investigation of suspicious shipments and individuals  
 **Evidence**: Proper evidence collection and preservation procedures  
@@ -201,6 +222,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Daily Schedules and Rhythms
 
 #### Dawn Watch (5:00 AM - 9:00 AM)
+
 **Staff**: Skeleton crew handling overnight arrivals and urgent processing  
 **Focus**: Priority processing for time-sensitive shipments  
 **Preparation**: Preparation for daily operations and staff briefings  
@@ -208,6 +230,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Communication**: Coordination with international partners in different time zones
 
 #### Morning Rush (9:00 AM - 12:00 PM)
+
 **Peak Activity**: Highest volume of processing as merchants begin daily business  
 **Efficiency**: All stations operating at full capacity  
 **Coordination**: Complex scheduling to manage high volume efficiently  
@@ -215,6 +238,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Support**: Full support staff availability for complex cases
 
 #### Afternoon Operations (12:00 PM - 5:00 PM)
+
 **Continued Processing**: Sustained high activity with focus on thorough processing  
 **Investigations**: Time allocated for detailed investigations and follow-up  
 **Diplomacy**: Diplomatic meetings and trade negotiations  
@@ -222,6 +246,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Training**: Staff training and professional development activities
 
 #### Evening Clearance (5:00 PM - 9:00 PM)
+
 **Completion**: Completing daily processing targets and clearing backlogs  
 **Documentation**: Final documentation and record updates  
 **Planning**: Planning for next day's operations and special requirements  
@@ -229,6 +254,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **International**: Communication with international partners and coordination
 
 #### Night Watch (9:00 PM - 5:00 AM)
+
 **Essential Services**: Maintaining essential services for emergency situations  
 **Security**: Full security operations protecting facilities and stored goods  
 **Maintenance**: Facility and equipment maintenance during low-activity periods  
@@ -239,21 +265,24 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ### Leadership and Administration
 
-#### Chief Inspector [[02_Worldbuilding/Places/Magnus Ledgerkeep]]
+#### Chief Inspector [[12_Research/D&D_References/Magnus Ledgerkeep]]
+
 **Position**: Director of all customs operations  
 **Experience**: 25 years of customs service with expertise in trade law and administration  
 **Reputation**: Known for absolute integrity, efficiency, and diplomatic skill  
 **Challenge**: Balancing competing demands while maintaining operational excellence  
 **Innovation**: Implementing modernization while preserving effective traditional methods
 
-#### Deputy Inspector [[02_Worldbuilding/Places/Clara Truthscale]]
+#### Deputy Inspector [[12_Research/D&D_References/Clara Truthscale]]
+
 **Role**: Operations coordinator and second-in-command  
 **Specialization**: Expert in cargo inspection and contraband detection  
 **Leadership**: Exceptional leadership skills with strong staff loyalty  
 **Investigation**: Personal involvement in major investigation cases  
 **Future**: Likely successor to Chief Inspector position
 
-#### Administrative Chief [[02_Worldbuilding/Places/Quill Precisequote]]
+#### Administrative Chief [[12_Research/D&D_References/Quill Precisequote]]
+
 **Function**: Head of all administrative and clerical operations  
 **Expertise**: Unparalleled knowledge of customs regulations and procedures  
 **Efficiency**: Responsible for the smooth operation of all bureaucratic processes  
@@ -262,21 +291,24 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ### Specialized Departments
 
-#### Senior Investigator [[02_Worldbuilding/Places/Shadow Trackhound]]
+#### Senior Investigator [[12_Research/D&D_References/Shadow Trackhound]]
+
 **Role**: Head of anti-smuggling and criminal investigation operations  
 **Skills**: Expert investigator with extensive knowledge of criminal networks  
 **Network**: Extensive network of informants and intelligence sources  
 **Success**: Responsible for numerous successful major smuggling prosecutions  
 **Discretion**: Operates with high levels of discretion and security clearance
 
-#### Trade Diplomat [[02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
+#### Trade Diplomat [[12_Research/D&D_References/Ambassador Silk Bridgewater]]
+
 **Position**: Chief diplomatic officer for trade relations  
 **Background**: Career diplomat with expertise in commercial negotiations  
 **Languages**: Fluent in multiple languages and familiar with various cultural customs  
 **Success**: Responsible for numerous successful trade agreements and partnerships  
 **Relations**: Maintains excellent relationships with foreign trade delegations
 
-#### Master Appraiser [[02_Worldbuilding/Places/Gem Trueeye]]
+#### Master Appraiser [[12_Research/D&D_References/Gem Trueeye]]
+
 **Expertise**: Expert assessor specializing in luxury goods and rare materials  
 **Knowledge**: Encyclopedic knowledge of goods values and market conditions  
 **Accuracy**: Legendary accuracy in appraisals and tax assessments  
@@ -286,6 +318,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Operational Staff
 
 #### Customs Inspectors Guild
+
 **Organization**: Professional guild representing front-line inspection officers  
 **Training**: Highly trained specialists in various aspects of cargo inspection  
 **Standards**: Maintaining high professional standards and ethical conduct  
@@ -293,6 +326,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Pride**: Strong professional pride and commitment to service excellence
 
 #### Clerical Corps
+
 **Function**: Large team of clerks handling documentation and record-keeping  
 **Accuracy**: Meticulous attention to detail ensuring accurate records  
 **Efficiency**: Streamlined procedures enabling rapid document processing  
@@ -300,6 +334,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Service**: Committed to providing excellent customer service to merchants
 
 #### Security Division
+
 **Protection**: Comprehensive security for facilities, personnel, and stored goods  
 **Training**: Military-style training with emphasis on customs-specific threats  
 **Coordination**: Close coordination with other law enforcement agencies  
@@ -311,6 +346,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Standard Customs Procedures
 
 #### Import Classification System
+
 **Categories**: Systematic classification of all imported goods  
 **Taxation**: Tax rates determined by classification and country of origin  
 **Restrictions**: Import restrictions and prohibitions for certain goods  
@@ -318,6 +354,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Appeals**: Process for challenging classification decisions
 
 #### Quality Standards and Inspection
+
 **Standards**: Quality standards for various categories of imported goods  
 **Testing**: Testing procedures to verify quality and safety  
 **Rejection**: Procedures for rejecting substandard goods  
@@ -325,6 +362,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Certification**: Certification processes for approved goods
 
 #### Trade Agreement Implementation
+
 **Treaties**: Implementation of various international trade agreements  
 **Preferences**: Special treatment for goods from preferred trading partners  
 **Quotas**: Management of import quotas and limitations  
@@ -334,6 +372,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Special Processing Categories
 
 #### Royal and Diplomatic Shipments
+
 **Priority**: Highest priority processing for royal and diplomatic cargo  
 **Protocol**: Special protocols respecting diplomatic immunity and royal privilege  
 **Security**: Enhanced security measures for sensitive shipments  
@@ -341,6 +380,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Coordination**: Close coordination with royal household and foreign missions
 
 #### Military and Strategic Materials
+
 **Classification**: Special classification for military and strategic goods  
 **Clearance**: Security clearance requirements for handling personnel  
 **Control**: Strict controls on export and import of strategic materials  
@@ -348,6 +388,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Storage**: Secure storage facilities with military-grade protection
 
 #### Magical and Alchemical Substances
+
 **Expertise**: Specialized expertise in handling magical and alchemical materials  
 **Safety**: Safety procedures for potentially dangerous magical substances  
 **Licensing**: Licensing requirements for import and export of magical goods  
@@ -357,6 +398,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Anti-Smuggling Operations
 
 #### Intelligence Gathering
+
 **Sources**: Network of informants and intelligence sources  
 **Analysis**: Analysis of trade patterns and suspicious activities  
 **Coordination**: Coordination with other law enforcement and intelligence agencies  
@@ -364,6 +406,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **International**: International cooperation in anti-smuggling efforts
 
 #### Detection Techniques
+
 **Technology**: Advanced detection technology for concealed contraband  
 **Training**: Specialized training in contraband detection techniques  
 **Random Inspection**: Random inspection programs to deter smuggling attempts  
@@ -371,6 +414,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Innovation**: Continuous development of new detection methods
 
 #### Prosecution and Penalties
+
 **Evidence**: Proper evidence collection and preservation for prosecution  
 **Coordination**: Coordination with judicial system and prosecutors  
 **Penalties**: Significant penalties for smuggling violations  
@@ -382,6 +426,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Trade Partnerships
 
 #### Preferred Trading Nations
+
 **Agreements**: Comprehensive trade agreements with major trading partners  
 **Benefits**: Reduced tariffs, streamlined procedures, enhanced cooperation  
 **Reciprocity**: Reciprocal agreements providing benefits to Aethermoor merchants  
@@ -389,6 +434,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Renewal**: Regular renewal and updating of trade agreements
 
 #### Emerging Markets
+
 **Development**: Developing relationships with new and emerging trading partners  
 **Exploration**: Exploring opportunities for new trade relationships  
 **Investment**: Investment in infrastructure to support new trade routes  
@@ -396,6 +442,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Risk Assessment**: Assessment of risks and opportunities in emerging markets
 
 #### Diplomatic Protocols
+
 **Standards**: High standards of diplomatic protocol in all international dealings  
 **Cultural Sensitivity**: Sensitivity to cultural differences and customs  
 **Language Services**: Translation and interpretation services for diplomatic meetings  
@@ -405,6 +452,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Conflict Resolution
 
 #### Trade Disputes
+
 **Mediation**: Mediation services for resolving trade disputes  
 **Arbitration**: Arbitration procedures for complex commercial conflicts  
 **Negotiation**: Skilled negotiators trained in commercial dispute resolution  
@@ -412,6 +460,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Prevention**: Preventive measures to avoid disputes through clear agreements
 
 #### Customs Violations
+
 **Investigation**: Thorough investigation of alleged customs violations  
 **Due Process**: Ensuring due process rights for all parties involved  
 **Appeals**: Fair appeals processes for challenging customs decisions  
@@ -423,6 +472,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Investigation Adventures
 
 #### The Smuggling Ring
+
 **Challenge**: Uncovering and dismantling sophisticated smuggling operation  
 **Skills**: Investigation, Insight, Stealth, Persuasion  
 **Complexity**: Multi-layered investigation requiring careful evidence gathering  
@@ -430,6 +480,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Resolution**: Multiple approaches including infiltration, surveillance, and direct confrontation
 
 #### The Corrupt Official
+
 **Mystery**: Evidence of corruption within customs administration  
 **Investigation**: Gathering evidence while avoiding detection by corrupt officials  
 **Skills**: Investigation, Insight, Deception, Stealth  
@@ -437,6 +488,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Justice**: Ensuring justice while maintaining customs operations integrity
 
 #### The Missing Shipment
+
 **Problem**: High-value diplomatic shipment disappears from secure storage  
 **Investigation**: Complex investigation involving multiple possible explanations  
 **Skills**: Investigation, Perception, Insight, Diplomacy  
@@ -446,6 +498,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Political Intrigue
 
 #### The Trade War
+
 **Situation**: Economic conflict between trading nations affecting customs operations  
 **Challenge**: Navigating complex political situation while maintaining neutrality  
 **Skills**: Diplomacy, Insight, Persuasion, Investigation  
@@ -453,6 +506,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Resolution**: Multiple possible outcomes based on player choices and diplomacy
 
 #### The Diplomatic Crisis
+
 **Event**: International incident involving customs procedures and diplomatic immunity  
 **Challenge**: Resolving crisis while upholding law and diplomatic protocol  
 **Skills**: Diplomacy, Investigation, Insight, Persuasion  
@@ -462,6 +516,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Action Adventures
 
 #### The Harbor Heist
+
 **Action**: Criminal attempt to steal valuable goods from customs warehouses  
 **Challenge**: Preventing theft while protecting civilians and facilities  
 **Skills**: Combat, Athletics, Stealth, Investigation  
@@ -469,6 +524,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Stakes**: Protecting valuable goods and maintaining customs security
 
 #### The Contraband Bust
+
 **Operation**: Major operation to intercept large contraband shipment  
 **Challenge**: Coordinating with various agencies to ensure successful operation  
 **Skills**: Combat, Stealth, Investigation, Athletics  
@@ -478,6 +534,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Special Mechanics
 
 #### Customs Authority
+
 **Benefit**: Characters working with customs gain special legal authority  
 **Powers**: Enhanced powers of investigation and detention  
 **Resources**: Access to customs resources and information  
@@ -485,6 +542,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Reputation**: Actions affect reputation with customs and merchant communities
 
 #### Trade Knowledge
+
 **Expertise**: Characters develop expertise in trade goods and procedures  
 **Benefits**: Bonuses to relevant skill checks involving commerce and trade  
 **Information**: Access to commercial intelligence and market information  
@@ -492,6 +550,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Opportunities**: Special opportunities related to trade and commerce
 
 #### International Relations
+
 **Diplomacy**: Characters involved in international trade diplomacy  
 **Languages**: Benefits for characters with knowledge of foreign languages  
 **Culture**: Understanding of different cultural customs and practices  
@@ -503,6 +562,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Major Story Arcs
 
 #### The Crystal Smuggling Conspiracy
+
 **Level**: 8-14  
 **Discovery**: Evidence of large-scale crystal smuggling with political implications  
 **Investigation**: Complex investigation spanning multiple countries and organizations  
@@ -511,6 +571,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Resolution**: Multiple possible endings based on investigation choices
 
 #### The Trade Agreement Crisis
+
 **Level**: 6-12  
 **Problem**: Major trade agreement negotiations threatened by sabotage and intrigue  
 **Challenge**: Protecting negotiations while investigating threats  
@@ -519,6 +580,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Success**: Successful resolution improves international relationships and trade
 
 #### The Customs House Siege
+
 **Level**: 10-16  
 **Attack**: Major attack on customs house by criminal organization or foreign agents  
 **Defense**: Defending the facility while protecting civilians and securing evidence  
@@ -529,6 +591,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ### Shorter Adventures
 
 #### The Mysterious Cargo
+
 **Level**: 4-8  
 **Discovery**: Strange cargo with unknown properties arriving at customs  
 **Investigation**: Determining the nature and purpose of the mysterious cargo  
@@ -537,6 +600,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Resolution**: Deciding appropriate action based on discoveries
 
 #### The Diplomatic Pouch
+
 **Level**: 5-9  
 **Problem**: Diplomatic pouch containing evidence of criminal activity  
 **Dilemma**: Balancing diplomatic immunity with law enforcement needs  
@@ -545,6 +609,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Consequences**: Resolution affects diplomatic relationships
 
 #### The Insider Threat
+
 **Level**: 6-10  
 **Discovery**: Evidence of customs employee providing inside information to criminals  
 **Investigation**: Internal investigation requiring discretion and careful evidence gathering  
@@ -554,28 +619,32 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ## Connections to Other Locations
 
-### [[02_Worldbuilding/Places/Port Meridian Harbor District]]
+### [[12_Research/D&D_References/Port Meridian Harbor District]]
+
 **Integration**: Central part of harbor district operations and economy  
 **Coordination**: Close coordination with harbor authorities and shipping companies  
 **Traffic**: Major influence on harbor traffic and commercial activity  
 **Development**: Influence over harbor development and expansion plans  
 **Community**: Important part of harbor district community and culture
 
-### [[02_Worldbuilding/Places/Crystalhaven]]
+### [[12_Research/D&D_References/Crystalhaven]]
+
 **Authority**: Operating under royal authority and government oversight  
 **Revenue**: Major source of government revenue through customs collections  
 **Policy**: Implementation of royal trade policies and international agreements  
 **Communication**: Regular communication with royal government and advisors  
 **Reporting**: Regular reporting on trade conditions and international developments
 
-### [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+### [[12_Research/D&D_References/The Crystal Academy]]
+
 **Expertise**: Collaboration with academy experts on technical and magical matters  
 **Research**: Support for academy research through specimen and data sharing  
 **Training**: Academy involvement in specialized training for customs officers  
 **Innovation**: Joint development of new techniques and technologies  
 **Knowledge**: Access to academy knowledge and research resources
 
-### [[02_Worldbuilding/Lore/pat]]
+### [[12_Research/D&D_References/pat]]
+
 **Competition**: Commercial competition affecting customs revenues and procedures  
 **Coordination**: Some coordination on trade routes and commercial standards  
 **Information**: Information sharing on market conditions and trading patterns  
@@ -585,38 +654,38 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Royal Exemption
-> [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]. These shipments contain dangerous crystal corruption research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
+> [[12_Research/D&D_References/Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[12_Research/D&D_References/Queen Seraphina Lumengarde]]. These shipments contain dangerous crystal corruption research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
 
 > [!secret] DM Secret - The Double Agent
-> [[02_Worldbuilding/Places/Senior Investigator Shadow Trackhound]] is actually a double agent working for a foreign intelligence service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation.
+> [[12_Research/D&D_References/Senior Investigator Shadow Trackhound]] is actually a double agent working for a foreign intelligence service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation.
 
 > [!secret] DM Secret - The Crystal Communication Network
-> The customs house's crystal communication system has been compromised by [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations.
+> The customs house's crystal communication system has been compromised by [[12_Research/D&D_Statblocks/The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations.
 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Port Meridian Harbor District]]
-- [[02_Worldbuilding/Places/Crystalhaven]]
-- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[02_Worldbuilding/Lore/pat]]
+- [[12_Research/D&D_References/Port Meridian Harbor District]]
+- [[12_Research/D&D_References/Crystalhaven]]
+- [[12_Research/D&D_References/The Crystal Academy]]
+- [[12_Research/D&D_References/pat]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]]
-- [[02_Worldbuilding/Places/Clara Truthscale]]
-- [[02_Worldbuilding/Places/Shadow Trackhound]]
-- [[02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
+- [[12_Research/D&D_References/Chief Inspector Magnus Ledgerkeep]]
+- [[12_Research/D&D_References/Clara Truthscale]]
+- [[12_Research/D&D_References/Shadow Trackhound]]
+- [[12_Research/D&D_References/Ambassador Silk Bridgewater]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Trade Regulations]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Customs Authority]]
-- [[02_Worldbuilding/Places/Anti-Smuggling Operations]]
-- [[02_Worldbuilding/Places/International Trade Agreements]]
+- [[12_Research/D&D_References/Trade Regulations]]
+- [[12_Research/D&D_References/Customs Authority]]
+- [[12_Research/D&D_References/Anti-Smuggling Operations]]
+- [[12_Research/D&D_References/International Trade Agreements]]
 
 
 ## Connections
 
-- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[12_Research/D&D_References/Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -638,11 +707,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[12_Research/D&D_References/Harbor District Customs House]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Port Meridian]]
-- [[02_Worldbuilding/Places/The Floating Market]]
+- [[12_Research/D&D_Statblocks/The Whisper Syndicate]]
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]]
+- [[12_Research/D&D_References/Aethermoor]]
+- [[12_Research/D&D_References/Port Meridian]]
+- [[12_Research/D&D_References/The Floating Market]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

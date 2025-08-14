@@ -51,8 +51,8 @@ What about you, the DM? Do you make your rolls in the open or hide them behind a
 - If you roll dice where the players can see, they know you're playing impartially and not fudging rolls.  
 - Rolling behind a screen keeps the players guessing about the strength of their opposition. When a monster hits all the time, is it of a much higher level than the characters, or are you rolling high numbers?  
 - Rolling behind a screen lets you fudge the results if you want to. If two critical hits in a row would kill a character, you could change the second critical hit into a normal hit, or even a miss. Don't distort die rolls too often, though, and don't let on that you're doing it. Otherwise, your players might think they don't face any real risks-or worse, that you're playing favorites.  
-- A roll behind a screen can help preserve mystery. For example, if a player thinks there might be someone invisible nearby and makes a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check, consider rolling a die behind the screen even if no one is there, making the player think someone is, indeed, hiding. Try not to overuse this trick.  
-- You might choose to make a roll for a player because you don't want the player to know how good the check total is. For example, if a player suspects a baroness might be charmed and wants to make a Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check, you could make the roll in secret for the player. If the player rolled and got a high number but didn't sense anything amiss, the player would be confident that the baroness wasn't charmed. With a low roll, a negative answer wouldn't mean much. A hidden roll allows uncertainty.  
+- A roll behind a screen can help preserve mystery. For example, if a player thinks there might be someone invisible nearby and makes a Wisdom ([[skills#Perception|Perception]]) check, consider rolling a die behind the screen even if no one is there, making the player think someone is, indeed, hiding. Try not to overuse this trick.  
+- You might choose to make a roll for a player because you don't want the player to know how good the check total is. For example, if a player suspects a baroness might be charmed and wants to make a Wisdom ([[skills#Insight|Insight]]) check, you could make the roll in secret for the player. If the player rolled and got a high number but didn't sense anything amiss, the player would be confident that the baroness wasn't charmed. With a low roll, a negative answer wouldn't mean much. A hidden roll allows uncertainty.  
 
 ### Rolling Attacks and Damage
 
@@ -134,9 +134,9 @@ An ability check is a test to see whether a character succeeds at a task that he
 
 Sometimes a character fails an ability check and wants to try again. In some cases, a character is free to do so; the only real cost is the time it takes. With enough attempts and enough time, a character should eventually succeed at the task. To speed things up, assume that a character spending ten times the normal amount of time needed to complete a task automatically succeeds at that task. However, no amount of repeating the check allows a character to turn an impossible task into a successful one.
 
-In other cases, failing an ability check makes it impossible to make the same check to do the same thing again. For example, a rogue might try to trick a town guard into thinking the adventurers are undercover agents of the king. If the rogue loses a contest of Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]) against the guard's Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]), the same lie told again won't work. The characters can come up with a different way to get past the guard or try the check again against another guard at a different gate. But you might decide that the initial failure makes those checks more difficult to pull off.
+In other cases, failing an ability check makes it impossible to make the same check to do the same thing again. For example, a rogue might try to trick a town guard into thinking the adventurers are undercover agents of the king. If the rogue loses a contest of Charisma ([[skills#Deception|Deception]]) against the guard's Wisdom ([[skills#Insight|Insight]]), the same lie told again won't work. The characters can come up with a different way to get past the guard or try the check again against another guard at a different gate. But you might decide that the initial failure makes those checks more difficult to pull off.
 
-![[/03_Mechanics/CLI/tables/ability-checks|Ability Checks]]
+![[ability-checks|Ability Checks]]
 
 #### Contests
 
@@ -167,13 +167,13 @@ Most of the time, a saving throw comes into play when an effect-such as a spell,
 
 Other times, a situation arises that clearly calls for a saving throw, especially when a character is subjected to a harmful effect that can't be hedged out by armor or a shield. It's up to you to decide which ability score is involved. The Saving Throws table offers suggestions.
 
-![[/03_Mechanics/CLI/tables/saving-throws|Saving Throws]]
+![[saving-throws|Saving Throws]]
 
 ### Difficulty Class
 
 It's your job to establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Sometimes you'll even want to change such established DCs. When you do so, think of how difficult a task is and then pick the associated DC from the Typical DCs table.
 
-![[/03_Mechanics/CLI/tables/difficulty-class-typical-dcs|Difficulty Class; Typical DCs]]
+![[difficulty-class-typical-dcs|Difficulty Class; Typical DCs]]
 
 The numbers associated with these categories of difficulty are meant to be easy to keep in your head, so that you don't have to refer to this book every time you decide on a DC. Here are some tips for using DC categories at the gaming table.
 
@@ -203,13 +203,13 @@ One way to think about this is to consider whether a character could become bett
 
 As described in the Player's Handbook, a skill proficiency represents a character's focus on one aspect of an ability. Among all the things a character's Dexterity score describes, the character might be particularly skilled at sneaking around, reflected in proficiency in the Stealth skill. When that skill is used for an ability check, it is usually used with Dexterity.
 
-Under certain circumstances, you can decide a character's proficiency in a skill can be applied to a different ability check. For example, you might decide that a character forced to swim from an island to the mainland must succeed on a Constitution check (as opposed to a Strength check) because of the distance involved. The character is proficient in the Athletics skill, which covers swimming, so you allow the character's proficiency bonus to apply to this ability check. In effect, you're asking for a Constitution ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check, instead of a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check.
+Under certain circumstances, you can decide a character's proficiency in a skill can be applied to a different ability check. For example, you might decide that a character forced to swim from an island to the mainland must succeed on a Constitution check (as opposed to a Strength check) because of the distance involved. The character is proficient in the Athletics skill, which covers swimming, so you allow the character's proficiency bonus to apply to this ability check. In effect, you're asking for a Constitution ([[skills#Athletics|Athletics]]) check, instead of a Strength ([[skills#Athletics|Athletics]]) check.
 
 Often, players ask whether they can apply a skill proficiency to an ability check. If a player can provide a good justification for why a character's training and aptitude in a skill should apply to the check, go ahead and allow it, rewarding the player's creative thinking.
 
 #### Tools
 
-Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [[/03_Mechanics/CLI/items/carpenters-tools-xphb|carpenter's tools]] can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
+Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [[carpenters-tools-xphb|carpenter's tools]] can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
 
 #### Saving Throws and Attack Rolls
 
@@ -236,7 +236,7 @@ Consider imposing **disadvantage** when...
 
 Because advantage and disadvantage cancel each other out, there's no need to keep track of how many circumstances weigh on both sides.
 
-For example, imagine a wizard is running down a dungeon corridor to escape from a beholder. Around the corner ahead, two ogres lie in wait. Does the wizard hear the ogres readying their ambush? You look at the wizard's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score and consider all the factors weighing on it.
+For example, imagine a wizard is running down a dungeon corridor to escape from a beholder. Around the corner ahead, two ogres lie in wait. Does the wizard hear the ogres readying their ambush? You look at the wizard's passive Wisdom ([[skills#Perception|Perception]]) score and consider all the factors weighing on it.
 
 The wizard is running, not paying attention to what's ahead of him. This imposes disadvantage on the wizard's ability check. However, the ogres are readying a portcullis trap and making a lot of noise with a winch, which could grant the wizard advantage on the check. As a result, the character has neither advantage nor disadvantage on the Wisdom check, and you don't need to consider any additional factors. Past encounters with an ogre ambush, the fact that the wizard's ears are still ringing from the thunderwave spell he cast at the beholder, the overall noise level of the dungeon-none of that matters any more. They all cancel out.
 
@@ -339,11 +339,11 @@ You can also use this technique when a character succeeds on a roll by hitting t
 
 Sometimes a failed ability check has different consequences depending on the degree of failure. For example, a character who fails to disarm a trapped chest might accidentally spring the trap if the check fails by 5 or more, whereas a lesser failure means that the trap wasn't triggered during the botched disarm attempt.
 
-Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check means a queen won't help, whereas a failure of 5 or more means she throws you in the dungeon for your impudence.
+Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([[skills#Persuasion|Persuasion]]) check means a queen won't help, whereas a failure of 5 or more means she throws you in the dungeon for your impudence.
 
 #### Critical Success or Failure
 
-Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] being used, and rolling a 20 on a successful Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check might reveal an extra clue.
+Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [[thieves-tools-xphb|thieves' tools]] being used, and rolling a 20 on a successful Intelligence ([[skills#Investigation|Investigation]]) check might reveal an extra clue.
 
 ## Exploration
 
@@ -355,7 +355,7 @@ Whatever environment the adventurers are exploring, you can use a map to follow 
 
 The Map Travel Pace table helps you track travel on maps of different scales. The table shows how much distance on a map the adventurers can cover on foot in minutes, hours, or days. The table uses the travel paces-slow, normal, and fast-described in the Player's Handbook. Characters moving at a normal pace can walk about 24 miles in a day.
 
-![[/03_Mechanics/CLI/tables/using-a-map-map-travel-pace|Using a Map; Map Travel Pace]]
+![[using-a-map-map-travel-pace|Using a Map; Map Travel Pace]]
 
 ### Special Travel Pace
 
@@ -385,11 +385,11 @@ While exploring, characters might encounter other creatures. An important questi
 
 Indoors, whether the sides can see one another usually depends on the configuration of rooms and passageways. Vision might also be limited by light sources. Outdoor visibility can be hampered by terrain, weather, and time of day. Creatures can be more likely to hear one another before they see anything.
 
-If neither side is being stealthy, creatures automatically notice each other once they are within sight or hearing range of one another. Otherwise, compare the Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check results of the creatures in the group that is hiding with the passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of the other group, as explained in the *Player's Handbook*.
+If neither side is being stealthy, creatures automatically notice each other once they are within sight or hearing range of one another. Otherwise, compare the Dexterity ([[skills#Stealth|Stealth]]) check results of the creatures in the group that is hiding with the passive Wisdom ([[skills#Perception|Perception]]) scores of the other group, as explained in the *Player's Handbook*.
 
 ### Tracking
 
-Adventurers sometimes choose their path by following the tracks of other creatures-or other creatures might track the adventurers! To track, one or more creatures must succeed on a Wisdom ([[/03_Mechanics/CLI/skills#Survival|Survival]]) check. You might require trackers to make a new check in any of the following circumstances:
+Adventurers sometimes choose their path by following the tracks of other creatures-or other creatures might track the adventurers! To track, one or more creatures must succeed on a Wisdom ([[skills#Survival|Survival]]) check. You might require trackers to make a new check in any of the following circumstances:
 
 - They stop tracking and resume after finishing a short or long rest.  
 - The trail crosses an obstacle, such as a river, that shows no tracks.  
@@ -399,7 +399,7 @@ The DC for the check depends on how well the ground shows signs of a creature's 
 
 On a failed check, the character loses the trail but can attempt to find it again by making a careful search of the area. It takes 10 minutes to find a trail in a confined area such as a dungeon, or 1 hour outdoors.
 
-![[/03_Mechanics/CLI/tables/tracking-dcs|Tracking DCs]]
+![[tracking-dcs|Tracking DCs]]
 
 ## Social Interaction
 
@@ -435,7 +435,7 @@ Whether the adventurers can shift a creature's attitude is up to you. You decide
 
 The adventurers don't necessarily enter into a social interaction with a full understanding of a creature's ideal, bond, or flaw. If they want to shift a creature's attitude by playing on these characteristics, they first need to determine what the creature cares about. They can guess, but doing so runs the risk of shifting the creature's attitude in the wrong direction if they guess badly.
 
-After interacting with a creature long enough to get a sense of its personality traits and characteristics through conversation, an adventurer can attempt a Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check to uncover one of the creature's characteristics. You set the DC. A check that fails by 10 or more might misidentify a characteristic, so you should provide a false characteristic or invert one of the creature's existing characteristics. For example, if an old sage's flaw is that he is prejudiced against the uneducated, an adventurer who badly fails the check might be told that the sage enjoys personally seeing to the education of the downtrodden.
+After interacting with a creature long enough to get a sense of its personality traits and characteristics through conversation, an adventurer can attempt a Wisdom ([[skills#Insight|Insight]]) check to uncover one of the creature's characteristics. You set the DC. A check that fails by 10 or more might misidentify a characteristic, so you should provide a false characteristic or invert one of the creature's existing characteristics. For example, if an old sage's flaw is that he is prejudiced against the uneducated, an adventurer who badly fails the check might be told that the sage enjoys personally seeing to the education of the downtrodden.
 
 Given time, adventurers can also learn about a creature's characteristics from other sources, including its friends and allies, personal letters, and publicly told stories. Acquiring such information might be the basis of an entirely different set of social interactions.
 
@@ -478,7 +478,7 @@ Certain situations might call for more than one check, particularly if the adven
 
 #### 4. Repeat?
 
-Once a Charisma check has been made, further attempts to influence the target of the interaction might be fruitless or run the risk of upsetting or angering the subject creature, potentially shifting its attitude toward hostility. Use your best judgment. For example, if the party's rogue says something that pushes a noble's attitude toward the party from indifferent to hostile, another character might be able to diffuse the noble's hostility with clever roleplaying and a successful Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check.
+Once a Charisma check has been made, further attempts to influence the target of the interaction might be fruitless or run the risk of upsetting or angering the subject creature, potentially shifting its attitude toward hostility. Use your best judgment. For example, if the party's rogue says something that pushes a noble's attitude toward the party from indifferent to hostile, another character might be able to diffuse the noble's hostility with clever roleplaying and a successful Charisma ([[skills#Persuasion|Persuasion]]) check.
 
 ### Roleplaying
 
@@ -544,13 +544,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![[/03_Mechanics/CLI/tables/object-armor-class|Object Armor Class]]
+![[object-armor-class|Object Armor Class]]
 
 #### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![[/03_Mechanics/CLI/tables/object-hit-points|Object Hit Points]]
+![[object-hit-points|Object Hit Points]]
 
 #### Huge and Gargantuan Objects
 
@@ -602,9 +602,9 @@ Tracking damage for one or two monsters isn't onerous, but it helps to have a sy
 
 Descriptions such as "the ogre with the nasty scar" and "the ogre with the horned helm" help you and your players track which monster is which. For example, imagine that you're running an encounter with three ogres, each of which has 59 hit points. Once initiative is rolled, jot down each ogre's hit points and add notes (and even a name, if you like) to differentiate each one:
 
-Krag ([[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] w/ scar): 59  
-Thod ([[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] w/ helm): 59  
-Mur ([[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] who smells like poo): 59  
+Krag ([[ogre-xmm|ogre]] w/ scar): 59  
+Thod ([[ogre-xmm|ogre]] w/ helm): 59  
+Mur ([[ogre-xmm|ogre]] who smells like poo): 59  
 
 If you use miniatures to represent monsters, one easy way to differentiate them is to give each one a unique miniature. If you use identical miniatures to represent multiple monsters, you can tag the miniatures with small stickers of different colors or stickers with different letters or numbers on them.
 
@@ -622,11 +622,11 @@ You can describe a monster taken to half its hit points as bloodied, giving the 
 
 ### Using and Tracking Conditions
 
-Various rules and features in the game are clear about when they apply a condition to a creature. You can also apply conditions on the fly. They're meant to be intuitive for you to do so. For example, if a character is in a state, such as sleep, that lacks consciousness, you can say the character is [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]. Or did a character just stumble onto the ground? He or she is now [[/03_Mechanics/CLI/conditions#Prone|prone]].
+Various rules and features in the game are clear about when they apply a condition to a creature. You can also apply conditions on the fly. They're meant to be intuitive for you to do so. For example, if a character is in a state, such as sleep, that lacks consciousness, you can say the character is [[conditions#Unconscious|unconscious]]. Or did a character just stumble onto the ground? He or she is now [[conditions#Prone|prone]].
 
 Keeping track of conditions can become tricky. For monsters, it's often easiest to track conditions on combat cards or wherever you track initiative. Players should remember any conditions affecting their characters. Because players have incentive to forget or overlook hampering conditions, character conditions can also be marked on combat cards or a whiteboard.
 
-You might also try keeping a supply of index cards on hand, marked with conditions and their effects. Then hand the cards to players as the conditions come up. Having a bright pink index card on top of a character sheet can help even the most absentminded player remember the effects of being [[/03_Mechanics/CLI/conditions#Charmed|charmed]] or [[/03_Mechanics/CLI/conditions#Frightened|frightened]].
+You might also try keeping a supply of index cards on hand, marked with conditions and their effects. Then hand the cards to players as the conditions come up. Having a bright pink index card on top of a character sheet can help even the most absentminded player remember the effects of being [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
 
 ### Monsters and Critical Hits
 
@@ -636,11 +636,11 @@ A monster follows the same rule for critical hits as a player character. That sa
 
 A monster or effect typically specifies the amount of damage it deals. In some cases, though, you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
-![[/03_Mechanics/CLI/tables/improvising-damage|Improvising Damage]]
+![[improvising-damage|Improvising Damage]]
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![[/03_Mechanics/CLI/tables/improvising-damage-damage-severity-and-level|Improvising Damage; Damage Severity and Level]]
+![[improvising-damage-damage-severity-and-level|Improvising Damage; Damage Severity and Level]]
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 
@@ -656,7 +656,7 @@ If you would like more guidance, consider using the Targets in Areas of Effect t
 
 Add or subtract targets based on how bunched up the potential targets are. Consider rolling `d3` to determine the amount to add or subtract.
 
-![[/03_Mechanics/CLI/tables/adjudicating-areas-of-effect-targets-in-areas-of-effect|Adjudicating Areas of Effect; Targets in Areas of Effect]]
+![[adjudicating-areas-of-effect-targets-in-areas-of-effect|Adjudicating Areas of Effect; Targets in Areas of Effect]]
 
 For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a sorcerer could launch a lightning bolt (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).
 
@@ -676,7 +676,7 @@ If the attacking creatures deal different amounts of damage, assume that the cre
 
 This attack resolution system ignores critical hits in favor of reducing the number of die rolls. As the number of combatants dwindles, switch back to using individual die rolls to avoid situations where one side can't possibly hit the other.
 
-![[/03_Mechanics/CLI/tables/handling-mobs-mob-attacks|Handling Mobs; Mob Attacks]]
+![[handling-mobs-mob-attacks|Handling Mobs; Mob Attacks]]
 
 ### Using Miniatures
 
@@ -694,7 +694,7 @@ The most common unit for tactical maps is the 5-foot square, and maps with grids
 
 A creature's size determines how much space it occupies on squares or hexes, as shown in the Creature Size and Space table. If the miniature you use for a monster takes up an amount of space different from what's on the table, that's fine, but treat the monster as its official size for all other rules. For example, you might use a miniature that has a Large base to represent a Huge giant. The giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![[/03_Mechanics/CLI/tables/creature-size-on-squares-and-hexes-creature-size-and-space|Creature Size on Squares and Hexes; Creature Size and Space]]
+![[creature-size-on-squares-and-hexes-creature-size-and-space|Creature Size on Squares and Hexes; Creature Size and Space]]
 
 ![](/03_Mechanics/CLI/books/dungeon-masters-guide-2014/img/monster_size_chart.webp#center)
 
@@ -786,9 +786,9 @@ Participants in the chase are strongly motivated to use the Dash action every ro
 
 #### Dashing
 
-During the chase, a participant can freely use the Dash action a number of times equal to 3 + its Constitution modifier. Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution check at the end of its turn or gain one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
+During the chase, a participant can freely use the Dash action a number of times equal to 3 + its Constitution modifier. Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution check at the end of its turn or gain one level of [[conditions#Exhaustion|exhaustion]].
 
-A participant drops out of the chase if its [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] reaches level 5, since its speed becomes 0. A creature can remove the levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] it gained during the chase by finishing a short or long rest.
+A participant drops out of the chase if its [[conditions#Exhaustion|exhaustion]] reaches level 5, since its speed becomes 0. A creature can remove the levels of [[conditions#Exhaustion|exhaustion]] it gained during the chase by finishing a short or long rest.
 
 #### Spells and Attacks
 
@@ -802,13 +802,13 @@ However, participants can still be the targets of opportunity attacks from creat
 
 A chase ends when one side or the other stops, when the quarry escapes, or when the pursuers are close enough to their quarry to catch it.
 
-If neither side gives up the chase, the quarry makes a Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) check at the end of each round, after every participant in the chase has taken its turn. The result is compared to the passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores of the pursuers. If the quarry consists of multiple creatures, they all make the check.
+If neither side gives up the chase, the quarry makes a Dexterity ([[skills#Stealth|Stealth]]) check at the end of each round, after every participant in the chase has taken its turn. The result is compared to the passive Wisdom ([[skills#Perception|Perception]]) scores of the pursuers. If the quarry consists of multiple creatures, they all make the check.
 
 If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, if the result of the quarry's check is greater than the highest passive score, that quarry escapes. If not, the chase continues for another round.
 
 The quarry gains advantage or disadvantage on its check based on prevailing circumstances, as shown in the Escape Factors table. If one or more factors give the quarry both advantage and disadvantage on its check, the quarry has neither, as usual.
 
-![[/03_Mechanics/CLI/tables/ending-a-chase-escape-factors|Ending a Chase; Escape Factors]]
+![[ending-a-chase-escape-factors|Ending a Chase; Escape Factors]]
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a faerie fire spell cast on it might have disadvantage on checks made to escape because it's much easier to spot.
 
@@ -820,9 +820,9 @@ As with any good chase scene, complications can arise to make a chase more pulse
 
 Characters can create their own complications to shake off pursuers (for example, casting the web spell in a narrow alleyway). Adjudicate these as you see fit.
 
-![[/03_Mechanics/CLI/tables/urban-chase-complications|Urban Chase Complications]]
+![[urban-chase-complications|Urban Chase Complications]]
 
-![[/03_Mechanics/CLI/tables/wilderness-chase-complications|Wilderness Chase Complications]]
+![[wilderness-chase-complications|Wilderness Chase Complications]]
 
 #### Designing Your Own Chase Tables
 
@@ -848,13 +848,13 @@ During a chase, it's possible for the pursuers to become the quarry. For example
 
 Siege weapons are designed to assail castles and other walled fortifications. They see much use in campaigns that feature war. Most siege weapons don't move around a battlefield on their own; they require creatures to move them, as well as to load, aim, and fire them.
 
-- [[/03_Mechanics/CLI/objects/ballista-xdmg|Ballista]]  
-- [[/03_Mechanics/CLI/objects/cannon-xdmg|Cannon]]  
-- [[/03_Mechanics/CLI/objects/suspended-cauldron-xdmg|Suspended Cauldron]]  
-- [[/03_Mechanics/CLI/objects/mangonel-xdmg|Mangonel]]  
-- [[/03_Mechanics/CLI/objects/ram-xdmg|Ram]]  
-- [[/03_Mechanics/CLI/objects/siege-tower-xdmg|Siege Tower]]  
-- [[/03_Mechanics/CLI/objects/trebuchet-xdmg|Trebuchet]]  
+- [[ballista-xdmg|Ballista]]  
+- [[cannon-xdmg|Cannon]]  
+- [[suspended-cauldron-xdmg|Suspended Cauldron]]  
+- [[mangonel-xdmg|Mangonel]]  
+- [[ram-xdmg|Ram]]  
+- [[siege-tower-xdmg|Siege Tower]]  
+- [[trebuchet-xdmg|Trebuchet]]  
 
 ## Diseases
 
@@ -868,9 +868,9 @@ A disease that does more than infect a few party members is primarily a plot dev
 
 The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.
 
-- [[/03_Mechanics/CLI/diseases#Cackle%20Fever|Cackle Fever]]  
-- [[/03_Mechanics/CLI/diseases#Sewer%20Plague|Sewer Plague]]  
-- [[/03_Mechanics/CLI/diseases#Sight%20Rot|Sight Rot]]  
+- [[diseases#Cackle%20Fever|Cackle Fever]]  
+- [[diseases#Sewer%20Plague|Sewer Plague]]  
+- [[diseases#Sight%20Rot|Sight Rot]]  
 
 ## Poisons
 
@@ -894,26 +894,26 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 
 Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-![[/03_Mechanics/CLI/tables/poisons|Poisons]]
+![[poisons|Poisons]]
 
 ### Sample Poisons
 
 Each type of poison has its own debilitating effects.
 
-- [[/03_Mechanics/CLI/items/assassins-blood-xdmg|Assassin's blood]]  
-- [[/03_Mechanics/CLI/items/burnt-othur-fumes-xdmg|Burnt othur fumes]]  
-- [[/03_Mechanics/CLI/items/carrion-crawler-mucus-xdmg|Carrion crawler mucus]]  
-- [[/03_Mechanics/CLI/items/lolths-sting-xdmg|Drow poison]]  
-- [[/03_Mechanics/CLI/items/essence-of-ether-xdmg|Essence of ether]]  
-- [[/03_Mechanics/CLI/items/malice-xdmg|Malice]]  
-- [[/03_Mechanics/CLI/items/midnight-tears-xdmg|Midnight tears]]  
-- [[/03_Mechanics/CLI/items/oil-of-taggit-xdmg|Oil of taggit]]  
-- [[/03_Mechanics/CLI/items/pale-tincture-xdmg|Pale tincture]]  
-- [[/03_Mechanics/CLI/items/purple-worm-poison-xdmg|Purple worm poison]]  
-- [[/03_Mechanics/CLI/items/serpent-venom-xdmg|Serpent venom]]  
-- [[/03_Mechanics/CLI/items/torpor-xdmg|Torpor]]  
-- [[/03_Mechanics/CLI/items/truth-serum-xdmg|Truth serum]]  
-- [[/03_Mechanics/CLI/items/wyvern-poison-xdmg|Wyvern poison]]  
+- [[assassins-blood-xdmg|Assassin's blood]]  
+- [[burnt-othur-fumes-xdmg|Burnt othur fumes]]  
+- [[carrion-crawler-mucus-xdmg|Carrion crawler mucus]]  
+- [[lolths-sting-xdmg|Drow poison]]  
+- [[essence-of-ether-xdmg|Essence of ether]]  
+- [[malice-xdmg|Malice]]  
+- [[midnight-tears-xdmg|Midnight tears]]  
+- [[oil-of-taggit-xdmg|Oil of taggit]]  
+- [[pale-tincture-xdmg|Pale tincture]]  
+- [[purple-worm-poison-xdmg|Purple worm poison]]  
+- [[serpent-venom-xdmg|Serpent venom]]  
+- [[torpor-xdmg|Torpor]]  
+- [[truth-serum-xdmg|Truth serum]]  
+- [[wyvern-poison-xdmg|Wyvern poison]]  
 
 ### Purchasing Poison
 
@@ -923,9 +923,9 @@ The Poisons table gives suggested prices for single doses of various poisons.
 
 ### Crafting and Harvesting Poison
 
-During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [[/03_Mechanics/CLI/items/poisoners-kit-xphb|poisoner's kit]]. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
+During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [[poisoners-kit-xphb|poisoner's kit]]. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
 
-A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `d6` minutes followed by a DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Nature|Nature]]) check. (Proficiency with the [[/03_Mechanics/CLI/items/poisoners-kit-xphb|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `d6` minutes followed by a DC 20 Intelligence ([[skills#Nature|Nature]]) check. (Proficiency with the [[poisoners-kit-xphb|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ## Madness
 
@@ -933,9 +933,9 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[/03_Mechanics/CLI/spells/contact-other-plane-xphb|contact other plane]] and [[/03_Mechanics/CLI/spells/symbol-xphb|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact-other-plane-xphb|contact other plane]] and [[symbol-xphb|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
-Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[/03_Mechanics/CLI/variant-rules/new-ability-scores-honor-and-sanity|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
+Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[new-ability-scores-honor-and-sanity|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
 ### Madness Effects
 
@@ -947,15 +947,15 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-![[/03_Mechanics/CLI/tables/short-term-madness|Short-Term Madness]]
+![[short-term-madness|Short-Term Madness]]
 
-![[/03_Mechanics/CLI/tables/long-term-madness|Long-Term Madness]]
+![[long-term-madness|Long-Term Madness]]
 
-![[/03_Mechanics/CLI/tables/indefinite-madness|Indefinite Madness]]
+![[indefinite-madness|Indefinite Madness]]
 
 ### Curing Madness
 
-A [[/03_Mechanics/CLI/spells/calm-emotions-xphb|calm emotions]] spell can suppress the effects of madness, while a [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[/03_Mechanics/CLI/spells/remove-curse-xphb|remove curse]] or [[/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb|dispel evil]] might also prove effective. A [[/03_Mechanics/CLI/spells/greater-restoration-xphb|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[calm-emotions-xphb|calm emotions]] spell can suppress the effects of madness, while a [[lesser-restoration-xphb|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove-curse-xphb|remove curse]] or [[dispel-evil-and-good-xphb|dispel evil]] might also prove effective. A [[greater-restoration-xphb|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
 
 ## Experience Points
 

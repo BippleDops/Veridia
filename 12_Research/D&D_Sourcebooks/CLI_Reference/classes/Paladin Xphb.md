@@ -63,16 +63,16 @@ world: Both
 ## Starting Paladin
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [[/03_Mechanics/CLI/skills#Athletics|Athletics]], [[/03_Mechanics/CLI/skills#Insight|Insight]], [[/03_Mechanics/CLI/skills#Intimidation|Intimidation]], [[/03_Mechanics/CLI/skills#Medicine|Medicine]], [[/03_Mechanics/CLI/skills#Persuasion|Persuasion]], or [[/03_Mechanics/CLI/skills#Religion|Religion]]
+- **Skill Proficiencies**: *Choose 2:* [[skills#Athletics|Athletics]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Medicine|Medicine]], [[skills#Persuasion|Persuasion]], or [[skills#Religion|Religion]]
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [[/03_Mechanics/CLI/item-types#Light%20Armor|Light armor]], [[/03_Mechanics/CLI/item-types#Medium%20Armor|Medium armor]], [[/03_Mechanics/CLI/item-types#Heavy%20Armor|Heavy armor]], and [[/03_Mechanics/CLI/items/shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[item-types#Heavy%20Armor|Heavy armor]], and [[shield-xphb|Shields]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[/03_Mechanics/CLI/items/chain-mail-xphb|Chain Mail]], [[/03_Mechanics/CLI/items/shield-xphb|Shield]], [[/03_Mechanics/CLI/items/longsword-xphb|Longsword]], 6 [[/03_Mechanics/CLI/items/javelin-xphb|Javelins]], [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]], [[/03_Mechanics/CLI/items/priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb|Chain Mail]], [[shield-xphb|Shield]], [[longsword-xphb|Longsword]], 6 [[javelin-xphb|Javelins]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[/03_Mechanics/CLI/item-types#Light%20Armor|Light armor]], [[/03_Mechanics/CLI/item-types#Medium%20Armor|Medium armor]], [[/03_Mechanics/CLI/items/shield-xphb|Shields]]
+- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
 
 ## Paladin
 
@@ -86,11 +86,11 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 ### Lay on Hands (Level 1)
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. With that pool, you can restore a total number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] equal to five times your Paladin level.
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a [[long-rest-xphb|Long Rest]]. With that pool, you can restore a total number of [[hit-points-xphb|Hit Points]] equal to five times your Paladin level.
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] to that creature, up to the maximum amount remaining in the pool.
+As a [[bonus-action-xphb|Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[hit-points-xphb|Hit Points]] to that creature, up to the maximum amount remaining in the pool.
 
-You can also expend 5 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] from the pool of healing power to remove the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition from the creature; those points don't also restore [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] to the creature.
+You can also expend 5 [[hit-points-xphb|Hit Points]] from the pool of healing power to remove the [[conditions#Poisoned|Poisoned]] condition from the creature; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
 
 ### Spellcasting (Level 1)
 
@@ -98,11 +98,11 @@ You have learned to cast spells through prayer and meditation. See "chapter 7" f
 
 #### Spell Slots
 
-The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb|Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[/03_Mechanics/CLI/spells/heroism-xphb|Heroism]] and [[/03_Mechanics/CLI/spells/searing-smite-xphb|Searing Smite]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[heroism-xphb|Heroism]] and [[searing-smite-xphb|Searing Smite]] are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
@@ -110,7 +110,7 @@ If another Paladin feature gives you spells that you always have prepared, those
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can replace one spell on your list with another Paladin spell for which you have spell slots.
+Whenever you finish a [[long-rest-xphb|Long Rest]], you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -118,13 +118,13 @@ Charisma is your spellcasting ability for your Paladin spells.
 
 #### Spellcasting Focus
 
-You can use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] for your Paladin spells.
+You can use a [[holy-symbol-xphb|Holy Symbol]] as a [[spellcasting-focus-xphb|Spellcasting Focus]] for your Paladin spells.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[/03_Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb|mastery properties]] of two kinds of weapons of your choice with which you have proficiency, such as [[/03_Mechanics/CLI/items/longsword-xphb|Longswords]] and [[/03_Mechanics/CLI/items/javelin-xphb|Javelins]].
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb|mastery properties]] of two kinds of weapons of your choice with which you have proficiency, such as [[longsword-xphb|Longswords]] and [[javelin-xphb|Javelins]].
 
-Whenever you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[/03_Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb|mastery properties]] of [[/03_Mechanics/CLI/items/halberd-xphb|Halberds]] and [[/03_Mechanics/CLI/items/flail-xphb|Flails]].
+Whenever you finish a [[long-rest-xphb|Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb|mastery properties]] of [[halberd-xphb|Halberds]] and [[flail-xphb|Flails]].
 
 ### Fighting Style (Level 2)
 
@@ -132,19 +132,19 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 ### Paladin's Smite (Level 2)
 
-You always have the [[/03_Mechanics/CLI/spells/divine-smite-xphb|Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] before you can cast it in this way again.
+You always have the [[divine-smite-xphb|Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [[long-rest-xphb|Long Rest]] before you can cast it in this way again.
 
 ### Channel Divinity (Level 3)
 
 You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]], and you regain all expended uses when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]]. You gain an additional use when you reach Paladin level 11.
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[short-rest-xphb|Short Rest]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]]. You gain an additional use when you reach Paladin level 11.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 ### Divine Sense (Level 3)
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[/03_Mechanics/CLI/spells/hallow-xphb|Hallow]] spell.
+As a [[bonus-action-xphb|Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [[conditions#Incapacitated|Incapacitated]] condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[hallow-xphb|Hallow]] spell.
 
 ### Paladin Subclass (Level 3)
 
@@ -161,21 +161,21 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action on your turn.
+You can attack twice instead of once whenever you take the [[actions#Attack|Attack]] action on your turn.
 
 ### Faithful Steed (Level 5)
 
-You can call on the aid of an otherworldly steed. You always have the [[/03_Mechanics/CLI/spells/find-steed-xphb|Find Steed]] spell prepared.
+You can call on the aid of an otherworldly steed. You always have the [[find-steed-xphb|Find Steed]] spell prepared.
 
-You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [[long-rest-xphb|Long Rest]].
 
 ### Aura of Protection (Level 6)
 
-You radiate a protective, unseeable aura in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]] that originates from you. The aura is inactive while you have the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition.
+You radiate a protective, unseeable aura in a 10-foot [[emanation-area-of-effect-xphb|Emanation]] that originates from you. The aura is inactive while you have the [[conditions#Incapacitated|Incapacitated]] condition.
 
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
@@ -187,27 +187,27 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Abjure Foes (Level 9)
 
-As a [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. While [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] in this way, a target can do only one of the following on its turns: move, take an action, or take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]].
+As a [[actions#Magic|Magic]] action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[holy-symbol-xphb|Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. While [[conditions#Frightened|Frightened]] in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb|Bonus Action]].
 
 ### Aura of Courage (Level 10)
 
-You and your allies have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] condition while in your Aura of Protection. If a [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition while in your Aura of Protection. If a [[conditions#Frightened|Frightened]] ally enters the aura, that condition has no effect on that ally while there.
 
 ### Radiant Strikes (Level 11)
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [[/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb|Unarmed Strike]], the target takes an extra `d8` Radiant damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [[unarmed-strike-xphb|Unarmed Strike]], the target takes an extra `d8` Radiant damage.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Restoring Touch (Level 14)
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[/03_Mechanics/CLI/conditions#Blinded|Blinded]], [[/03_Mechanics/CLI/conditions#Charmed|Charmed]], [[/03_Mechanics/CLI/conditions#Deafened|Deafened]], [[/03_Mechanics/CLI/conditions#Frightened|Frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]], or [[/03_Mechanics/CLI/conditions#Stunned|Stunned]]. You must expend 5 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[conditions#Blinded|Blinded]], [[conditions#Charmed|Charmed]], [[conditions#Deafened|Deafened]], [[conditions#Frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], or [[conditions#Stunned|Stunned]]. You must expend 5 [[hit-points-xphb|Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
 
 ### Subclass Feature (Level 15)
 
@@ -215,15 +215,15 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[/03_Mechanics/CLI/feats/ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Aura Expansion (Level 18)
 
-Your Aura of Protection is now a 30-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]].
+Your Aura of Protection is now a 30-foot [[emanation-area-of-effect-xphb|Emanation]].
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[/03_Mechanics/CLI/feats/boon-of-truesight-xphb|Boon of Truesight]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[boon-of-truesight-xphb|Boon of Truesight]] is recommended.
 
 ### Subclass Feature (Level 20)
 

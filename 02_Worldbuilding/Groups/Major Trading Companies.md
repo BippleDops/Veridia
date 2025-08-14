@@ -18,7 +18,6 @@ world: Both
 ---
 
 
-
 > [!figure] Corporate Emblems
 ![](04_Resources/Assets/Symbols/symbol-corporate-major-trading-companies.svg)
 
@@ -28,14 +27,14 @@ world: Both
 > *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
 
 ## Overview
-The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
+The major trading companies of [[Aethermoor]] and [[Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
 
 ## The Surface Trading Powerhouses
 
 ### Goldwave Commercial Empire
-**Supreme Director**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+**Supreme Director**: [[Lord Aurelius Goldwave]]
 **Founded**: 30 years ago from inherited family wealth
-**Primary Headquarters**: The Golden Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Golden Tower, [[Port Meridian]]
 **Estimated Value**: 2.5+ million gold pieces
 **Workforce**: 3,000+ direct employees, 15,000+ affiliated workers
 
@@ -79,9 +78,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 - **Intelligence**: Comprehensive spy network in all major governments
 
 ### Silkwind Luxury Enterprises
-**Chief Executive**: [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]  
+**Chief Executive**: [[Lady Venetia Silkwind]]  
 **Founded**: 18 years ago through strategic marriages and acquisitions
-**Primary Headquarters**: The Silk Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Silk Tower, [[Port Meridian]]
 **Estimated Value**: 1.8+ million gold pieces
 **Workforce**: 2,200+ direct employees
 
@@ -109,9 +108,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 - **The Wedding Espionage**: Infiltrating noble marriages for intelligence gathering
 
 ### Chen Wei Import/Export Consortium
-**Managing Director**: [[02_Worldbuilding/Groups/Master Chen Wei]]
+**Managing Director**: [[Master Chen Wei]]
 **Founded**: 25 years ago with foreign backing
-**Primary Headquarters**: The Jade Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Jade Tower, [[Port Meridian]]
 **Estimated Value**: 1.5+ million gold pieces  
 **Workforce**: 1,800+ direct employees
 
@@ -135,9 +134,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 - **Cultural Research**: Understanding social trends for market advantage
 
 ### Ironanchor Maritime Corporation
-**Fleet Admiral**: [[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
+**Fleet Admiral**: [[Captain Rodrigo Ironanchor]]
 **Founded**: 35 years ago from military privateer background
-**Primary Headquarters**: The Iron Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Iron Tower, [[Port Meridian]]
 **Estimated Value**: 2.1+ million gold pieces
 **Workforce**: 4,500+ sailors, marines, and support staff
 
@@ -160,9 +159,9 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 **Ethics**: Code of conduct balancing profit with military honor
 
 ### Goldleaf Financial Services
-**Chief Financial Officer**: [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+**Chief Financial Officer**: [[Madame Rosalind Goldleaf]]
 **Founded**: 22 years ago through banking consolidation
-**Primary Headquarters**: The Rose Tower, [[02_Worldbuilding/Places/Port Meridian]]
+**Primary Headquarters**: The Rose Tower, [[Port Meridian]]
 **Estimated Value**: 3.2+ million gold pieces (mostly in loans and investments)
 **Workforce**: 1,200+ financial professionals
 
@@ -188,7 +187,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 ## The Deep-Sea Corporate Giants
 
 ### Deep Current Trading Company
-**Supreme Navigator**: [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+**Supreme Navigator**: [[The Current Merchants]] (Nereon Swiftcurrent)
 **Founded**: 48 years ago through current-magic innovation
 **Primary Headquarters**: The Flowing Market, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 2.8+ million pearl equivalents
@@ -213,7 +212,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 **Public Relations**: Extensive environmental education and community outreach
 
 ### Goldcurrent Banking Consortium
-**Chief Executive**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Chief Executive**: [[Banker Titus Goldcurrent]]
 **Founded**: 15 years ago during the Crystal Currency Crisis
 **Primary Headquarters**: The Deep Vault, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 5.1+ million pearl equivalents
@@ -240,7 +239,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 **Ethics**: Profit justifies any means, customer welfare is irrelevant
 
 ### Pearlheart Luxury Consortium
-**Artistic Director**: [[02_Worldbuilding/Places/Duchess Cordelia Pearlheart]]
+**Artistic Director**: [[Duchess Cordelia Pearlheart]]
 **Founded**: 28 years ago through noble house business expansion
 **Primary Headquarters**: Pearlheart Palace, Noble District
 **Estimated Value**: 1.9+ million pearl equivalents
@@ -259,7 +258,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 **Political Salons**: Hosting gatherings where policy decisions are influenced
 
 ### Depthforge Industrial Corporation
-**Chief Engineer**: [[02_Worldbuilding/Places/Forge Master Korax Hammerdeep]]
+**Chief Engineer**: [[Forge Master Korax Hammerdeep]]
 **Founded**: 40 years ago from traditional crafting guild evolution
 **Primary Headquarters**: The Great Forge Complex, Industrial District
 **Estimated Value**: 1.7+ million pearl equivalents
@@ -567,20 +566,20 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 10: **Customer Revolt** - Mass rejection of corporate products or services
 
 ## Connected NPCs and Systems
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Goldwave Commercial Empire leader
-- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]] - Silkwind Luxury Enterprises executive
-- [[02_Worldbuilding/Groups/Master Chen Wei]] - Chen Wei Import/Export director
-- [[02_Worldbuilding/People/The Current Merchants]] - Deep Current Trading Company navigator
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Goldcurrent Banking Consortium controller
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Surface corporate council
-- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal competition
+- [[Lord Aurelius Goldwave]] - Goldwave Commercial Empire leader
+- [[Lady Venetia Silkwind]] - Silkwind Luxury Enterprises executive
+- [[Master Chen Wei]] - Chen Wei Import/Export director
+- [[The Current Merchants]] - Deep Current Trading Company navigator
+- [[Banker Titus Goldcurrent]] - Goldcurrent Banking Consortium controller
+- [[Merchant Princes]] - Surface corporate council
+- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal competition
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]]
-- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
+- [[The Grand Trade Routes]]
+- [[Economic Systems and Currency]]
+- [[Commercial Hubs and Markets]]
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
-- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
+- [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
 
 ## Player-Facing Summary
 

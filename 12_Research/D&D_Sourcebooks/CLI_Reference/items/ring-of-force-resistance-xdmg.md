@@ -27,7 +27,7 @@ world: Both
 
 
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to force damage while wearing this ring. The ring is set with sapphire.
+You have [[resistance-xphb|Resistance]] to force damage while wearing this ring. The ring is set with sapphire.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

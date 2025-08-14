@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-white-dragon-wyrmling-xmm-v1-white-dragon-wyrmling-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/white-dragon-wyrmling-xmm|White Dragon Wyrmling]]
+# [[white-dragon-wyrmling-xmm|White Dragon Wyrmling]]
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
@@ -70,9 +70,9 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+2"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -80,7 +80,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "2"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]]\
+      \ make an ability check. Additionally, [[difficult-terrain-xphb|Difficult Terrain]]\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
 "actions":
@@ -89,7 +89,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 22 (5d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":

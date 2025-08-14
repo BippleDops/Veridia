@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-quartermaster-sterling-suppystone-quartermaster-sterling-suppystone.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-quartermaster-sterling-suppystone-quartermaster-sterling-suppystone.svg]]
 
 
 ## Overview
@@ -62,11 +59,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quartermaster Sterling Suppystone]]
+- [[12_Research/D&D_References/Quartermaster Sterling Suppystone]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[12_Research/D&D_References/The Crystal Wardens]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02_Worldbuilding/Groups/Crystal Wardens]]

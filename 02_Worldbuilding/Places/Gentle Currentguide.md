@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-gentle-currentguide-gentle-currentguide.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-gentle-currentguide-gentle-currentguide.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[12_Research/D&D_References/Mediator Serenity Stillwater]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[12_Research/D&D_References/Mediator Serenity Stillwater]]
 
 ## Player-Facing Summary
 

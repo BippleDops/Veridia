@@ -35,11 +35,11 @@ world: Both
 - **Components:** V, S, M (a bit of pork rind or butter)
 - **Duration:** 1 minute
 
-Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]] for the duration.
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [[difficult-terrain-xphb|Difficult Terrain]] for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [[/03_Mechanics/CLI/conditions#Prone|Prone]].
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [[conditions#Prone|Prone]] condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [[conditions#Prone|Prone]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-wizard|Wizard]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
 *Source: Player's Handbook (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

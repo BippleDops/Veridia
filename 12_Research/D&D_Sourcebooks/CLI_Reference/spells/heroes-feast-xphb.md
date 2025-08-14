@@ -31,11 +31,11 @@ world: Both
 - **Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You conjure a feast that appears on a surface in an unoccupied 10-foot [[/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb|Cube]] next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
+You conjure a feast that appears on a surface in an unoccupied 10-foot [[cube-area-of-effect-xphb|Cube]] next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes gains several benefits, which last for 24 hours. The creature has [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Poison damage, and it has [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to the [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] and [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] conditions. Its [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]] maximum also increases by `2d10`, and it gains the same number of [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]].
+A creature that partakes gains several benefits, which last for 24 hours. The creature has [[resistance-xphb|Resistance]] to Poison damage, and it has [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] and [[conditions#Poisoned|Poisoned]] conditions. Its [[hit-points-xphb|Hit Point]] maximum also increases by `2d10`, and it gains the same number of [[hit-points-xphb|Hit Points]].
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]
+**Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

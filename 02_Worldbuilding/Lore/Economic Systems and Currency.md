@@ -2,6 +2,11 @@
 created: '2025-08-12'
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- shadow-touched
+- aquatic
 - banking
 - both
 - complete
@@ -18,23 +23,25 @@ world: Both
 ---
 
 
-
 > [!figure] Currency
 ![](04_Resources/Assets/Items/currency-economic-systems-and-currency.svg)
 
 # Economic Systems and Currency
+
 *The Flow of Wealth Across Two Realms*
 
-> *"Money is the universal language. It speaks fluently in both air and water, and those who master its dialects rule worlds."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"Money is the universal language. It speaks fluently in both air and water, and those who master its dialects rule worlds."* - [[12_Research/D&D_References/Banker Titus Goldcurrent]]
 
 ## Overview
-The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] represent a complex web of currencies, exchange mechanisms, and financial institutions that have evolved to facilitate trade across dramatically different environments. From the crystal-backed currencies of the surface to the pressure-forged coins of the depths, these monetary systems reflect the unique challenges and opportunities of inter-realm commerce.
+
+The economic systems of [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] represent a complex web of currencies, exchange mechanisms, and financial institutions that have evolved to facilitate trade across dramatically different environments. From the crystal-backed currencies of the surface to the pressure-forged coins of the depths, these monetary systems reflect the unique challenges and opportunities of inter-realm commerce.
 
 ## Primary Currency Systems
 
 ### Aethermoor Surface Currencies
 
 #### Royal Crowns (Standard Currency)
+
 **Issuing Authority**: The Crystal Throne
 **Backing**: Royal treasury gold reserves and crystal reserves
 **Denominations**:
@@ -50,7 +57,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Exchange rate fluctuates based on crystal market stability
 
 #### Crystal Notes (Trade Currency)
-**Issuing Authority**: [[02_Worldbuilding/Groups/Merchant Princes]] Council
+
+**Issuing Authority**: [[12_Research/D&D_References/Merchant Princes]] Council
 **Backing**: High-grade crystal reserves held in secure vaults
 **Usage**: Preferred for long-distance trade and large transactions
 **Value**: Directly tied to crystal purity and quality ratings
@@ -67,7 +75,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Value fluctuations based on crystal market conditions
 
 #### Goldwave Commercial Credits (Private Currency)
-**Issuing Authority**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]'s financial network
+
+**Issuing Authority**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]'s financial network
 **Backing**: Diversified portfolio of investments and precious metals
 **Usage**: Internal transactions within Goldwave business empire
 **Special Features**: 
@@ -78,7 +87,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Aquabyssos Deep Currencies
 
 #### Imperial Pearls (Standard Currency)
-**Issuing Authority**: [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+
+**Issuing Authority**: [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]]
 **Backing**: Ancient treasure vaults and territorial control
 **Denominations**:
 - **Black Pearl** (1000 gp equivalent) - Imperial transactions
@@ -94,7 +104,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Naturally waterproof and corrosion-resistant
 
 #### Current Bonds (Investment Currency)
-**Issuing Authority**: [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+
+**Issuing Authority**: [[12_Research/D&D_Statblocks/The Current Merchants]] (Nereon Swiftcurrent)
 **Backing**: Future transport capacity and exclusive route access
 **Usage**: Payment for premium shipping services and route investments
 **Unique Features**:
@@ -103,6 +114,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Can be used as collateral for business loans
 
 #### Pressure Coins (Industrial Currency)
+
 **Issuing Authority**: Deep Manufacturing Guilds
 **Backing**: Pressure-forged materials and technological expertise  
 **Usage**: Payment for pressure-manufactured goods and deep-sea services
@@ -114,7 +126,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Cross-Realm Exchange Systems
 
 #### The Meridian Exchange
-**Location**: [[02_Worldbuilding/Places/Port Meridian]]
+
+**Location**: [[12_Research/D&D_References/Port Meridian]]
 **Function**: Primary currency conversion hub between realms
 **Daily Volume**: 500,000+ gp equivalent in currency exchanges
 **Services**:
@@ -130,7 +143,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - 1 Pressure Coin = 2-5 Pearl equivalents (depth dependent)
 
 #### Deep Vault Banking Consortium
-**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+
+**Controller**: [[12_Research/D&D_References/Banker Titus Goldcurrent]]
 **Services**: 
 - Secure currency storage across both realms
 - Inter-realm wire transfers using magical communication
@@ -141,7 +155,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Black Market Currency Systems
 
 #### Shadow Coins
-**Origin**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+
+**Origin**: [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 **Backing**: Criminal enterprise profits and stolen goods
 **Usage**: Untraceable transactions for illegal goods and services
 **Features**:
@@ -151,6 +166,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Often backed by specific stolen goods or contraband
 
 #### Blood Crystals (Forbidden)
+
 **Origin**: Corrupted crystal mining operations
 **Backing**: Dangerous magical energy from tainted crystals
 **Usage**: Extremely high-value transactions in darkest criminal circles
@@ -161,6 +177,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Can be traced by law enforcement using specialized magic
 
 #### Void Tokens
+
 **Origin**: Unknown (possibly extra-dimensional)
 **Usage**: Payment for services that cannot be obtained through legal means
 **Properties**: 
@@ -173,7 +190,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Major Banking Houses
 
 #### House Goldwave Financial Services
-**Founder**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+
+**Founder**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]]
 **Specialty**: International trade finance and legitimate business investments
 **Assets**: 2+ million gp in diversified holdings
 **Services**:
@@ -184,13 +202,14 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Educational institution support
 
 **Secret Services**:
-- Funding for [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- Funding for [[12_Research/D&D_References/The Order of the Shattered Crown]]
 - Temporal magic research investments
 - Shard acquisition financing
 - Revolutionary planning support
 
 #### Deep Vault Banking Consortium  
-**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+
+**Controller**: [[12_Research/D&D_References/Banker Titus Goldcurrent]]
 **Specialty**: Cross-realm currency manipulation and control
 **Assets**: 5+ million gp equivalent across both realms
 **Services**:
@@ -208,7 +227,8 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - Market manipulation for personal profit
 
 #### Merchant Princes Collective Treasury
-**Controller**: Council of Five [[02_Worldbuilding/Groups/Merchant Princes]]
+
+**Controller**: Council of Five [[12_Research/D&D_References/Merchant Princes]]
 **Specialty**: Commercial trade financing and monopoly maintenance
 **Assets**: 10+ million gp in combined resources
 **Services**:
@@ -252,7 +272,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - **Purpose**: Financing new trade route exploration and development
 - **Returns**: Share of route profits for successful developments
 - **Risks**: Route failure, political changes, environmental hazards
-- **Major Players**: [[02_Worldbuilding/People/The Current Merchants]], independent exploration companies
+- **Major Players**: [[12_Research/D&D_Statblocks/The Current Merchants]], independent exploration companies
 
 **Political Stability Derivatives**
 - **Function**: Betting on political outcomes and their economic effects
@@ -265,18 +285,21 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Legitimate Economic Tactics
 
 #### Market Cornering
+
 **Process**: Purchasing large quantities of essential goods to control supply
-**Practitioners**: [[02_Worldbuilding/Groups/Merchant Princes]], major trading houses
+**Practitioners**: [[12_Research/D&D_References/Merchant Princes]], major trading houses
 **Legal Status**: Technically legal but subject to government intervention
 **Countermeasures**: Government price controls, alternative supply development, international intervention
 
 #### Currency Manipulation
+
 **Process**: Large-scale currency trading to influence exchange rates
-**Practitioners**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]], major financial institutions
+**Practitioners**: [[12_Research/D&D_References/Banker Titus Goldcurrent]], major financial institutions
 **Effects**: Can destabilize economies, benefit specific trade relationships
 **Regulation**: Minimal due to complexity and institutional power
 
 #### Information Warfare
+
 **Process**: Strategic release or suppression of market-moving information
 **Methods**: Rumor campaigns, intelligence networks, bribery of officials
 **Practitioners**: All major economic players maintain intelligence networks
@@ -285,18 +308,21 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Criminal Economic Activities
 
 #### Counterfeiting Operations
+
 **Scope**: Sophisticated magical counterfeiting of major currencies
-**Participants**: [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]], corrupt magical practitioners
+**Participants**: [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]], corrupt magical practitioners
 **Detection**: Requires expert magical analysis and specialized equipment
 **Economic Impact**: Can undermine currency confidence and destabilize markets
 
 #### Money Laundering Networks
+
 **Function**: Converting criminal profits into legitimate business assets
 **Methods**: Shell companies, corrupt banking officials, complex international transactions
 **Scale**: Millions of gp annually across both realms
 **Participants**: Criminal syndicates, corrupt officials, compromised financial institutions
 
 #### Artificial Scarcity Creation
+
 **Process**: Destroying or hoarding goods to create artificial shortages and price spikes
 **Targets**: Essential supplies, luxury goods, strategic materials
 **Practitioners**: Criminal organizations, unethical merchants, political saboteurs
@@ -339,18 +365,21 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Surface Economic Zones
 
 #### Crystal Coast Commercial District
+
 **Economic Focus**: Crystal processing, luxury goods manufacturing, high-end services
 **Currency Preference**: Crystal Notes and high-denomination Crowns
-**Major Players**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]], Crystal Refinement Guilds
+**Major Players**: [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]], Crystal Refinement Guilds
 **Unique Features**: Premium pricing, exclusive clientele, advanced magical services
 
 #### Port Districts
+
 **Economic Focus**: Trade facilitation, maritime services, international commerce  
 **Currency Preference**: Mixed currencies with heavy exchange activity
-**Major Players**: [[02_Worldbuilding/Groups/Merchant Princes]], independent traders, foreign merchants
+**Major Players**: [[12_Research/D&D_References/Merchant Princes]], independent traders, foreign merchants
 **Unique Features**: 24-hour operations, multi-cultural business practices, competitive pricing
 
 #### Agricultural Regions
+
 **Economic Focus**: Food production, raw material processing, rural services
 **Currency Preference**: Standard Crowns, barter systems for small transactions
 **Economic Characteristics**: Seasonal variations, weather-dependent income, traditional business practices
@@ -358,21 +387,24 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Deep Economic Zones
 
 #### Imperial Capital Region
+
 **Economic Focus**: Government services, luxury consumption, political commerce
 **Currency Preference**: Imperial Pearls, prestige transactions
-**Major Players**: [[02_Worldbuilding/People/Emperor Thalassius the Wise]], noble houses, government contractors
+**Major Players**: [[12_Research/D&D_Statblocks/Emperor Thalassius the Wise]], noble houses, government contractors
 **Unique Features**: Protocol-heavy transactions, status-based pricing, political influence factors
 
 #### Deep Industrial Complexes
+
 **Economic Focus**: Pressure manufacturing, deep-sea resource extraction, specialized technologies
 **Currency Preference**: Pressure Coins, industrial trade credits
 **Major Players**: Manufacturing guilds, deep-sea mining operations, technological innovators
 **Unique Features**: Depth-based pricing, specialized labor requirements, environmental hazards
 
 #### Current Trading Networks
+
 **Economic Focus**: Transportation services, navigation, inter-zone commerce
 **Currency Preference**: Current Bonds, service exchange systems
-**Major Players**: [[02_Worldbuilding/People/The Current Merchants]], navigation specialists, transport guilds
+**Major Players**: [[12_Research/D&D_Statblocks/The Current Merchants]], navigation specialists, transport guilds
 **Unique Features**: Dynamic pricing based on current conditions, subscription-based services, route monopolies
 
 ## Crisis Economics and Emergency Systems
@@ -380,6 +412,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Economic Crisis Indicators
 
 #### Early Warning Signs
+
 - **Rapid exchange rate fluctuations** (>20% daily changes)
 - **Bank run scenarios** (mass withdrawals)
 - **Trade route disruptions** (>50% capacity reduction)
@@ -405,18 +438,21 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Historical Economic Crises
 
 #### The Great Crystal Corruption Crisis (15 years ago)
+
 **Cause**: Widespread crystal contamination destroyed currency backing
 **Impact**: 70% devaluation of Crystal Notes, mass business failures
-**Resolution**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]] cornered stable currency market
+**Resolution**: [[12_Research/D&D_References/Banker Titus Goldcurrent]] cornered stable currency market
 **Lasting Effects**: Increased financial regulation, Titus's rise to power, continued crystal currency instability
 
 #### The Current Wars (8 years ago)
+
 **Cause**: Military conflict disrupted major trade routes
 **Impact**: 300% increase in transport costs, food shortages in both realms
 **Resolution**: Peace treaty restored trade, but new route monopolies emerged
-**Lasting Effects**: [[02_Worldbuilding/People/The Current Merchants]] dominance, increased military escort costs
+**Lasting Effects**: [[12_Research/D&D_Statblocks/The Current Merchants]] dominance, increased military escort costs
 
 #### The Shadow Market Collapse (3 years ago)
+
 **Cause**: Law enforcement raids destroyed major criminal financial networks
 **Impact**: Massive money laundering disruption, legitimate business cash flow problems
 **Resolution**: New criminal financial systems developed, increased corruption
@@ -427,6 +463,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Currency Conversion and Exchange
 
 #### Standard Exchange Procedures
+
 1. **Present currencies** for evaluation and authentication
 2. **Pay exchange fees** (typically 2-5% of transaction value)
 3. **Wait for verification** (minutes for standard, hours for large amounts)
@@ -434,6 +471,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 5. **Optional services**: Storage, transport insurance, future exchange reservations
 
 #### Exchange Rate Factors
+
 - **Current political relations** between realms
 - **Trade route conditions** and safety levels
 - **Currency supply and demand** in local markets
@@ -442,6 +480,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - **Customer relationship** with exchange house
 
 #### Black Market Exchange
+
 - **Higher exchange rates** but no legal protections
 - **Risk of counterfeit currency**
 - **Potential law enforcement problems**
@@ -451,6 +490,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Investment Opportunities
 
 #### Low Risk Investments (5-15% annual returns)
+
 - **Government bonds** from stable regions
 - **Established trade route partnerships**
 - **Blue-chip merchant house stocks**
@@ -458,6 +498,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - **Traditional banking deposits** with insurance
 
 #### Medium Risk Investments (15-40% annual returns)  
+
 - **New trade route development**
 - **Commodity speculation** (crystals, rare goods)
 - **Emerging merchant operations**
@@ -465,6 +506,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - **Cross-realm currency speculation**
 
 #### High Risk Investments (40-500% potential returns)
+
 - **Deep-sea exploration ventures**
 - **Black market operations** (high profits, extreme legal risk)
 - **Revolutionary technology development**
@@ -474,6 +516,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Economic Crime and Consequences
 
 #### White Collar Crimes
+
 - **Tax evasion**: Fines up to 500% of avoided taxes, possible imprisonment
 - **Currency counterfeiting**: Death penalty in both realms
 - **Market manipulation**: Heavy fines, business license revocation
@@ -481,6 +524,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - **Insurance fraud**: Double restitution, criminal charges
 
 #### Organized Economic Crime
+
 - **Money laundering**: Asset forfeiture, lengthy imprisonment
 - **Racketeering**: Business shutdown, criminal organization charges
 - **Black market trading**: Property seizure, exile or imprisonment
@@ -492,6 +536,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Economic Adventure Hooks
 
 #### Investigation Scenarios
+
 1. **The Counterfeit Crisis**: Players must track down a sophisticated counterfeiting operation that's threatening to collapse the regional currency system.
 
 2. **The Missing Merchant**: A wealthy trader has vanished along with a fortune in various currencies, and multiple parties are hunting for both the merchant and the money.
@@ -499,6 +544,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 3. **The Exchange Heist**: Someone has robbed the primary currency exchange, but the theft methods suggest inside knowledge and magical assistance.
 
 #### Political Economy Adventures
+
 1. **The Trade War**: Players must navigate economic warfare between major merchant houses while protecting innocent traders caught in the crossfire.
 
 2. **The Currency Manipulation**: A foreign power is artificially manipulating exchange rates to destabilize the local economy, requiring careful investigation and diplomatic intervention.
@@ -506,6 +552,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 3. **The Tax Rebellion**: Merchants are refusing to pay new taxes, and players must resolve the situation without triggering economic collapse.
 
 #### Criminal Economy Adventures  
+
 1. **The Money Laundering Network**: Players discover their legitimate business is being used to clean criminal profits, forcing them to choose between profit and law.
 
 2. **The Protection Racket**: Criminal organizations are demanding payment from local merchants, and players must decide whether to pay, fight, or find alternative solutions.
@@ -515,12 +562,14 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Economic Resources for Player Characters
 
 #### Starting Wealth by Background
+
 - **Merchant Background**: 3d4 × 10 gp in mixed currencies plus business contacts
 - **Noble Background**: 5d4 × 10 gp plus family credit line (1,000 gp)
 - **Criminal Background**: 2d4 × 10 gp plus access to black market currencies
 - **Guild Artisan**: 2d4 × 10 gp plus guild credit (500 gp)
 
 #### Ongoing Economic Opportunities
+
 - **Trade Investment**: Passive income through merchant partnerships
 - **Currency Speculation**: Active trading for profit (and risk)
 - **Business Ownership**: Direct control over economic enterprises
@@ -531,6 +580,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 ### Quick Economic Event Generator
 
 #### Random Market Events (d20)
+
 1-3: **Market Stability** - Normal conditions, no special modifiers
 4-6: **Price Fluctuations** - Random goods increase/decrease 10-30% in price  
 7-9: **Currency Changes** - Exchange rates shift by 5-15%
@@ -541,6 +591,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 20: **Major Crisis** - Significant economic upheaval requiring immediate attention
 
 #### Economic NPC Motivations (d12)
+
 1-2: **Profit Maximization** - Seeking highest possible financial returns
 3-4: **Market Control** - Attempting to dominate specific economic sectors
 5-6: **Political Influence** - Using wealth to gain political power
@@ -549,6 +600,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 11-12: **Revolutionary Change** - Seeking to fundamentally alter economic systems
 
 ### Economic Complications Table (d10)
+
 1: **Authentication Crisis** - Counterfeit currency detected in player transactions
 2: **Exchange Rate Crash** - Sudden devaluation affects player wealth
 3: **Bank Failure** - Institution holding player funds collapses
@@ -561,18 +613,20 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 10: **Market Manipulation** - Artificially created shortages or surpluses affect player interests
 
 ## Connected NPCs and Systems
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Primary legitimate financial power
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Currency manipulation expert
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Commercial economic controllers
-- [[02_Worldbuilding/People/The Current Merchants]] - Deep-sea financial specialists
-- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal economic operators
+
+- [[12_Research/D&D_Statblocks/Lord Aurelius Goldwave]] - Primary legitimate financial power
+- [[12_Research/D&D_References/Banker Titus Goldcurrent]] - Currency manipulation expert
+- [[12_Research/D&D_References/Merchant Princes]] - Commercial economic controllers
+- [[12_Research/D&D_Statblocks/The Current Merchants]] - Deep-sea financial specialists
+- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal economic operators
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Grand Trade Routes]]
-- [[02_Worldbuilding/Groups/Major Trading Companies]]
-- [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
+
+- [[12_Research/D&D_References/The Grand Trade Routes]]
+- [[12_Research/D&D_References/Major Trading Companies]]
+- [[12_Research/D&D_References/Commercial Hubs and Markets]]
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
-- [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
+- [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
 
 ## Player-Facing Summary
 
@@ -596,3 +650,8 @@ Use the economic systems as a foundation for complex political intrigue, allowin
 
 The criminal financial networks offer alternative paths for character development and plot advancement, while the legitimate economic systems provide a framework for understanding how society functions and how player actions might affect broader political and social stability.
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[12_Research/D&D_Statblocks/The Lock Saboteur]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[12_Research/D&D_Statblocks/The Lock Saboteur]]
 
 ## Player-Facing Summary
 

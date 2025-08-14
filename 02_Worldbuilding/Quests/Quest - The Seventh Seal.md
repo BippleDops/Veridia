@@ -2,6 +2,10 @@
 type: Lore
 status: complete
 tags:
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - active
 - both
 - lore
@@ -10,20 +14,20 @@ tags:
 - order-of-shattered-crown
 - personal
 - quest
-quest_giver: '[[02_Worldbuilding/People/The Crimson Sage]]'
+quest_giver: '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
 level_range: 7-10
 reward_tier: Major
 locations:
-- '[[02_Worldbuilding/Places/The Shattered Sanctum]]'
-- '[[02_Worldbuilding/Places/The Shadowmere]]'
-- '[[02_Worldbuilding/Places/The Embassy Quarter]]'
-- '[[02_Worldbuilding/Places/The Verdant Reach]]'
+- '[[12_Research/D&D_References/The Shattered Sanctum]]'
+- '[[12_Research/D&D_References/The Shadowmere]]'
+- '[[12_Research/D&D_References/The Embassy Quarter]]'
+- '[[12_Research/D&D_References/The Verdant Reach]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[02_Worldbuilding/People/Archdruid Thornweaver]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[12_Research/D&D_Statblocks/The Crimson Sage]]'
+- '[[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'
+- '[[12_Research/D&D_Statblocks/Archdruid Thornweaver]]'
+- '[[12_Research/D&D_References/High Inquisitor Maltheos]]'
+- '[[12_Research/D&D_References/Queen Seraphina Lumengarde]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
@@ -34,20 +38,20 @@ created: '2025-08-11'
 ---
 
 
-
-
-
 # Quest: The Seventh Seal
 
 ## Overview
+
 The Order of the Shattered Crown has discovered that each party member bears an invisible "Seal"—a magical mark that connects them to one of the Seven Shards. These Seals are awakening, granting power but also making them targets for those who would use them to reunite the Crown of Stars. The party must decide whether to embrace, remove, or master these marks before they consume them.
 
 ## Quest Hook
-[[02_Worldbuilding/People/The Crimson Sage]] appears to each party member in individual visions, revealing glowing marks on their souls that pulse in rhythm with distant Shards. He warns that others have noticed these Seals and are coming to claim them—by persuasion or force. The party must meet him at the Shattered Sanctum within three days.
+
+[[12_Research/D&D_Statblocks/The Crimson Sage]] appears to each party member in individual visions, revealing glowing marks on their souls that pulse in rhythm with distant Shards. He warns that others have noticed these Seals and are coming to claim them—by persuasion or force. The party must meet him at the Shattered Sanctum within three days.
 
 ## Prologue: The Awakening
 
 ### Personal Manifestations
+
 Each party member experiences unique symptoms based on their Seal:
 
 **Seal of Authority (Crystal Throne Shard):**
@@ -95,6 +99,7 @@ Each party member experiences unique symptoms based on their Seal:
 ## Act 1: The Gathering Storm
 
 ### The Shattered Sanctum Meeting
+
 **The Crimson Sage's Revelation:**
 - He is actually Aetheron, god of magic, in mortal form
 - The Seals were his failsafe when creating the Crown
@@ -103,16 +108,17 @@ Each party member experiences unique symptoms based on their Seal:
 - But others know this secret now
 
 **The Order's Position:**
-- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]] advocates for balance
+- [[12_Research/D&D_References/Sister Morwyn Veilkeeper]] advocates for balance
 - Some members want to use party to gather Shards
 - Others believe Seals should be destroyed
 - Internal faction led by Brother Matthias plans betrayal
 
 ### The Hunter's Mark
+
 **Multiple Factions Mobilize:**
-1. **[[02_Worldbuilding/People/High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
-2. **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
-3. **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
+1. **[[12_Research/D&D_References/High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
+2. **[[12_Research/D&D_References/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
+3. **[[12_Research/D&D_References/Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
 4. **The Void Cult:** New faction seeking to corrupt Seals
 
 **First Attack:**
@@ -124,18 +130,20 @@ Each party member experiences unique symptoms based on their Seal:
 ## Act 2: The Seal Trials
 
 ### Understanding the Seals
+
 Each party member must undergo a trial to master their Seal:
 
 **The Trial Locations:**
 1. **Crystal Throne:** The actual throne room at midnight
-2. **Amber Shard:** [[02_Worldbuilding/People/High Inquisitor Maltheos]]'s private sanctum
-3. **Crimson Shard:** Depths of [[02_Worldbuilding/Places/The Sunken Markets]]
-4. **Verdant Shard:** Heart of [[02_Worldbuilding/Places/The Verdant Reach]]
-5. **Azure Shard:** Hidden library in [[02_Worldbuilding/Places/The Sundered Peaks]]
-6. **Shadow Shard:** [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'s sanctum
+2. **Amber Shard:** [[12_Research/D&D_References/High Inquisitor Maltheos]]'s private sanctum
+3. **Crimson Shard:** Depths of [[12_Research/D&D_References/The Sunken Markets]]
+4. **Verdant Shard:** Heart of [[12_Research/D&D_References/The Verdant Reach]]
+5. **Azure Shard:** Hidden library in [[12_Research/D&D_References/The Sundered Peaks]]
+6. **Shadow Shard:** [[12_Research/D&D_References/Sister Morwyn Veilkeeper]]'s sanctum
 7. **Seventh Shard:** The Crystalline Wastes
 
 ### Trial of Authority (Crystal Throne)
+
 **The Challenge:**
 - Enter throne room when Queen is absent
 - Resist the throne's corruption while sitting on it
@@ -145,7 +153,7 @@ Each party member must undergo a trial to master their Seal:
 **The Guardian:**
 - Echo of the last true king before Shattering
 - Tests character's wisdom and justice
-- Reveals [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption source
+- Reveals [[12_Research/D&D_References/Queen Seraphina Lumengarde]]'s corruption source
 
 **Success Rewards:**
 - Can inspire loyalty in others (Advantage on persuasion)
@@ -153,6 +161,7 @@ Each party member must undergo a trial to master their Seal:
 - Can detect corruption in authority figures
 
 ### Trial of Conviction (Amber Shard)
+
 **The Challenge:**
 - Infiltrate Purist Coalition cathedral
 - Face manifestations of party's doubts
@@ -169,6 +178,7 @@ Each party member must undergo a trial to master their Seal:
 ## Act 3: The Convergence
 
 ### The Unsealed One
+
 > [!warning] DM Secret
 > The Unsealed One is Aetheron's shadow—the part of himself he cut away to become mortal. It seeks to reclaim the Seals to become whole and reform the Crown with corrupted intent.
 
@@ -179,17 +189,18 @@ Each party member must undergo a trial to master their Seal:
 - Transform Aethermoor into shadow realm
 
 ### The Embassy Betrayal
+
 **Political Machinations:**
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] publicly declares party as threats
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] offers sanctuary underwater
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] leads public witch hunt
-- [[02_Worldbuilding/People/Castellan Ironledger III]] sells party's location to highest bidder
+- [[12_Research/D&D_References/Queen Seraphina Lumengarde]] publicly declares party as threats
+- [[12_Research/D&D_References/Ambassador Nerida Deepcurrent]] offers sanctuary underwater
+- [[12_Research/D&D_References/High Inquisitor Maltheos]] leads public witch hunt
+- [[12_Research/D&D_References/Castellan Ironledger III]] sells party's location to highest bidder
 
 **Allies Emerge:**
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] offers natural sanctuary
-- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]] provides shadow paths
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] joins as bodyguard
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] secretly aids escape
+- [[12_Research/D&D_Statblocks/Archdruid Thornweaver]] offers natural sanctuary
+- [[12_Research/D&D_References/Sister Morwyn Veilkeeper]] provides shadow paths
+- [[12_Research/D&D_References/Marcus Shardbreaker Grimm]] joins as bodyguard
+- [[12_Research/D&D_References/Captain Lyanna Brightshield]] secretly aids escape
 
 ### The Final Choice
 
@@ -197,7 +208,7 @@ Each party member must undergo a trial to master their Seal:
 Location: Where the Crown originally shattered
 - All seven Shards drawn to Seal bearers
 - The Unsealed One manifests physically
-- [[02_Worldbuilding/People/The Crimson Sage]] reveals his true divine form
+- [[12_Research/D&D_Statblocks/The Crimson Sage]] reveals his true divine form
 - Party must choose world's fate
 
 **Options:**
@@ -210,24 +221,28 @@ Location: Where the Crown originally shattered
 ## Possible Outcomes
 
 ### Crown Reformed
+
 - Chosen bearer becomes divine ruler
 - Crystal corruption can be controlled
 - Magic becomes regulated and hierarchical
 - Other party members become divine servants or rebels
 
 ### Shards Destroyed
+
 - All magic begins fading from world
 - Crystal corruption stops spreading but remains
 - Technology must replace magic
 - Party loses all magical abilities
 
 ### Power Distributed
+
 - Each party member becomes minor deity
 - Aethermoor splits into seven kingdoms
 - Constant conflict between Shard bearers
 - New age of god-wars begins
 
 ### New Order Created
+
 - Party collectively controls new artifact
 - Can reshape reality with unanimous consent
 - Become guardians of new world order
@@ -236,24 +251,28 @@ Location: Where the Crown originally shattered
 ## Rewards
 
 ### Personal Transformations
+
 - Permanent abilities based on Seal mastery
 - Mythic tier powers if Shards kept
 - Divine boons from The Crimson Sage
 - Unique titles and recognition
 
 ### Material Rewards
+
 - 10,000 gp from Order treasury
 - Legendary items attuned to each Seal
 - Access to Order's hidden vaults
 - Properties in multiple kingdoms
 
 ### Knowledge Rewards
+
 - True history of the Shattering
 - Location of other artifacts
 - Methods to cure crystal corruption
 - Prophecies about each character's destiny
 
 ### Relationship Changes
+
 - Become heroes or villains based on choice
 - Major NPCs' attitudes permanently affected
 - Possible romantic interests emerge
@@ -262,18 +281,21 @@ Location: Where the Crown originally shattered
 ## Complications
 
 ### The Seal Sickness
+
 - Prolonged Seal use causes physical changes
 - Risk of becoming elemental avatars
 - Memory loss from alternate timelines
 - Possibility of Seal rejection (death)
 
 ### The Betrayer's Gambit
+
 - One party member secretly corrupted
-- [[02_Worldbuilding/People/Vex Shadowthorn]] has contingency plan
+- [[12_Research/D&D_References/Vex Shadowthorn]] has contingency plan
 - Order member Brother Matthias works for Void Cult
 - Time loop if wrong choice made
 
 ### International Incident
+
 - Other nations invade during chaos
 - Aquabyssos begins Great Drowning
 - Skyholm threatens to abandon surface
@@ -282,18 +304,21 @@ Location: Where the Crown originally shattered
 ## NPC Motivations
 
 ### The Crimson Sage/Aetheron
+
 - Genuinely wants to fix his mistake
 - Willing to sacrifice himself if needed
 - Has grown fond of mortals
 - Fears his shadow self
 
 ### Sister Morwyn Veilkeeper
+
 - Sees multiple futures, trying to prevent worst
 - Knows party's choice affects all planes
 - Has own Seal (hidden eighth)
 - Will support party regardless
 
 ### The Unsealed One
+
 - Represents divine ambition unchecked
 - Believes corruption is evolution
 - Wants to merge all planes
@@ -323,6 +348,7 @@ Location: Where the Crown originally shattered
 
 
 ## DM Notes
+
 This quest makes the party central to the world's fate while maintaining personal stakes through the Seals' effects on their bodies and minds. The trials can be customized based on each character's backstory and development. The multiple possible endings allow player agency in determining the campaign's conclusion. The Seals provide ongoing character development opportunities and can explain new abilities as characters level. This quest ties together all major plot threads while introducing the cosmic level of the conflict.
 
 ## Player-Facing Summary
@@ -340,3 +366,9 @@ Legends speak of Quest   The Seventh Seal as a nexus where past and present conv
 - A map overlay reveals a hidden approach to Quest   The Seventh Seal active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

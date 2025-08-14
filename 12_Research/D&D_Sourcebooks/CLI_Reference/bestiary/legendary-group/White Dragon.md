@@ -37,9 +37,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[/03_Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm|adult]] or [[/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm|ancient]]) white dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[adult-white-dragon-xmm|adult]] or [[ancient-white-dragon-xmm|ancient]]) white dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [[/03_Mechanics/CLI/conditions#Blinded|blinded]] until initiative count 20 on the next round.  
+- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [[conditions#Blinded|blinded]] until initiative count 20 on the next round.  
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 ## Regional effects
@@ -59,7 +59,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
 Any of these effects might appear in the area around a white dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
-- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.
+- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([[skills#Stealth|Stealth]]) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.
 
 ## Player-Facing Summary
 

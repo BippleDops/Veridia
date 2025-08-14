@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-storm-guard-storm-guard.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-storm-guard-storm-guard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[12_Research/D&D_References/Abyssos Prime Docks]]
 
 ## Player-Facing Summary
 

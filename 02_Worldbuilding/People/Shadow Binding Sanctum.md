@@ -23,12 +23,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]
 
 
 # Shadow Binding Sanctum
@@ -161,6 +157,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Shadow Binding Sanctum]]
+- [[Shadow Binding Sanctum]]
 
 <!-- enriched: true -->

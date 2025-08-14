@@ -11,8 +11,6 @@ tags:
 ---
 
 
-
-
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
@@ -20,9 +18,9 @@ tags:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
-- [[02_Worldbuilding/Places/Aethermoor]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/The Bloom Fields]]
+- [[12_Research/D&D_References/Aethermoor]]
 
 ## Player-Facing Summary
 
@@ -43,3 +41,7 @@ Legends speak of Kelp Forest Monasteries as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

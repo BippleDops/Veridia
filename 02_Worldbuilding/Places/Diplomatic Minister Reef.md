@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-diplomatic-minister-reef-diplomatic-minister-reef.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-diplomatic-minister-reef-diplomatic-minister-reef.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[Quest - The Missing Fleet]]
 
 ## Player-Facing Summary
 

@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-port-quarter-port-quarter.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-port-quarter-port-quarter.svg]]
 
 
 ## Overview
@@ -62,11 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Port Quarter]]
+- [[12_Research/D&D_References/Port Quarter]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[12_Research/D&D_References/Angels and Depths]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

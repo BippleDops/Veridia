@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pest-mascot-scc-pest-mascot-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/pest-mascot-scc|Pest Mascot]]
+# [[pest-mascot-scc|Pest Mascot]]
 *Source: Strixhaven: A Curriculum of Chaos p. 203*  
 
 Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of Sedgemoor. However, these ferret-sized swamp creatures hold deep wells of life essence, making them convenient fuel sources for the magic of Witherbloom mages. As such, many Witherbloom students have adopted pests from the bayou as pets, and pests, in all their spiny glory, have become the mascots of the college.
@@ -51,7 +51,7 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
   - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""

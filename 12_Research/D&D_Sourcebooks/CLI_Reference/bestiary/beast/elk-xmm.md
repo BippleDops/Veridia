@@ -27,12 +27,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elk-xmm-elk-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/elk-xmm|Elk]]
+# [[elk-xmm|Elk]]
 *Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Elk (XMM)"
@@ -52,7 +52,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -61,7 +61,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage.\
       \ If the target is a Large or smaller creature and the elk moved 20+ feet straight\
       \ toward it immediately before the hit, the target takes an extra 3 (d6) Bludgeoning\
-      \ damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition."
+      \ damage and has the [[conditions#Prone|Prone]] condition."
     "name": "Ram"
 "source":
   - "XMM"

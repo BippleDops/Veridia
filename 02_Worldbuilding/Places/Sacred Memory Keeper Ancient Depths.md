@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[The Festival of Rising Tides]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[The Festival of Rising Tides]]
 
 ## Player-Facing Summary
 

@@ -20,10 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png]]
 
 
 # The Constellation Mystery
@@ -189,6 +187,6 @@ Legends speak of The Constellation Mystery as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Constellation Mystery]]
+- [[The Constellation Mystery]]
 
 <!-- enriched: true -->

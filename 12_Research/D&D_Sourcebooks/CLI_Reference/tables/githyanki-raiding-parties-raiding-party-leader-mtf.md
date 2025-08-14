@@ -26,7 +26,7 @@ status: active
 | dice: d6 | Leader |
 |----------|--------|
 | 1 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm|Githyanki Supreme Commander]] |
-| 2-3 | [[/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm|Githyanki Knight]] |
+| 2-3 | [[githyanki-knight-xmm|Githyanki Knight]] |
 | 4-5 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm|Githyanki Kith'rak]] |
 | 6 | [[/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm|Githyanki Gish]] |
 ^raiding-party-leader

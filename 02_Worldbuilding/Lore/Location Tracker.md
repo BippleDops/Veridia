@@ -15,9 +15,6 @@ world: Both
 ---
 
 
-
-
-
 ## Overview
 
 TODO

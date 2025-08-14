@@ -23,7 +23,7 @@ world: Both
 
 
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png)
+![[04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png]]
 
 # Traveler's Clothes
 *Adventuring gear*  

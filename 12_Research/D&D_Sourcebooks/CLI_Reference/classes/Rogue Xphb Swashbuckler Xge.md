@@ -21,7 +21,7 @@ world: Both
 
 
 # Swashbuckler
-*[[./rogue-xphb|Rogue]]: Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 48*  
 
 > [!tldr] Class and Feature Progression
@@ -79,15 +79,15 @@ You also gain an additional way to use your Sneak Attack; you don't need advanta
 
 ### Panache (Level 9)
 
-At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check contested by a creature's Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]) check. The creature must be able to hear you, and the two of you must share a language.
+At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([[skills#Persuasion|Persuasion]]) check contested by a creature's Wisdom ([[skills#Insight|Insight]]) check. The creature must be able to hear you, and the two of you must share a language.
 
 If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
 
-If you succeed on the check and the creature isn't hostile to you, it is [[/03_Mechanics/CLI/conditions#Charmed|charmed]] by you for 1 minute. While [[/03_Mechanics/CLI/conditions#Charmed|charmed]], it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+If you succeed on the check and the creature isn't hostile to you, it is [[conditions#Charmed|charmed]] by you for 1 minute. While [[conditions#Charmed|charmed]], it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
 
 ### Elegant Maneuver (Level 13)
 
-Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) or Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check you make during the same turn.
+Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([[skills#Acrobatics|Acrobatics]]) or Strength ([[skills#Athletics|Athletics]]) check you make during the same turn.
 
 ### Master Duelist (Level 17)
 

@@ -30,7 +30,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oblex-spawn-mpmm-oblex-spawn-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\ooze/oblex-spawn-mpmm|Oblex Spawn]]
+# [[oblex-spawn-mpmm|Oblex Spawn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
@@ -71,9 +71,9 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "saves":
   - "intelligence": !!int "4"
   - "charisma": !!int "2"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": ""
 "cr": "1/4"

@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-captain-echo-captain-echo.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-captain-echo-captain-echo.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Aethermoor]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Parliament of Echoes]]
+- [[The Whispering Depths]]
 
 ## Player-Facing Summary
 

@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-bazaar-shadow-bazaar.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[Bexley]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
+- [[Party Shadows]]
+- [[Aethermoor - Session 03 Council of Shadows]]
 
 ## Player-Facing Summary
 

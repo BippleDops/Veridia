@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[12_Research/D&D_References/The Deep Harvest]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[12_Research/D&D_References/The Deep Harvest]]
 
 ## Player-Facing Summary
 

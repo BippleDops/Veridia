@@ -31,45 +31,45 @@ Most effects in the game happen in succession, following an order set by the rul
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [[/03_Mechanics/CLI/conditions#Prone|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [[conditions#Prone|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
-The rule for falling assumes that a creature immediately drops the entire distance when it falls. But what if a creature is at a high altitude when it falls, perhaps on the back of a [[/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm|griffon]] or on board an [[/03_Mechanics/CLI/items/airship-xphb|airship]]? Realistically, a fall from such a height can take more than a few seconds, extending past the end of the turn when the fall occurred. If you'd like high-altitude falls to be properly time-consuming, use the following optional rule.
+The rule for falling assumes that a creature immediately drops the entire distance when it falls. But what if a creature is at a high altitude when it falls, perhaps on the back of a [[griffon-xmm|griffon]] or on board an [[airship-xphb|airship]]? Realistically, a fall from such a height can take more than a few seconds, extending past the end of the turn when the fall occurred. If you'd like high-altitude falls to be properly time-consuming, use the following optional rule.
 
 When you fall from a great height, you instantly descend up to 500 feet. If you're still falling on your next turn, you descend up to 500 feet at the end of that turn. This process continues until the fall ends, either because you hit the ground or the fall is otherwise halted.
 
 ### Flying Creatures and Falling
 
-A flying creature in flight falls if it is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[/03_Mechanics/CLI/spells/fly-xphb|fly]] spell.
+A flying creature in flight falls if it is knocked [[conditions#Prone|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[fly-xphb|fly]] spell.
 
-If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[/03_Mechanics/CLI/conditions#Prone|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
+If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[conditions#Prone|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
 
-If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[/03_Mechanics/CLI/conditions#Prone|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[/03_Mechanics/CLI/conditions#Prone|prone]] condition (as if it were standing up in midair).
+If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[conditions#Prone|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[conditions#Prone|prone]] condition (as if it were standing up in midair).
 
 ## Sleep
 
-Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]] condition. Here are a few rules that expand on that basic fact.
+Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [[conditions#Unconscious|unconscious]] condition. Here are a few rules that expand on that basic fact.
 
 ### Waking Someone
 
 A creature that is naturally sleeping, as opposed to being in a magically or chemically induced sleep, wakes up if it takes any damage or if someone else uses an action to shake or slap the creature awake. A sudden loud noise-such as yelling, thunder, or a ringing bell-also awakens someone that is sleeping naturally.
 
-Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) score of 15 or higher.
+Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[skills#Perception|Perception]]) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher.
 
 ### Sleeping in Armor
 
 Sleeping in light armor has no adverse effect on the wearer, but sleeping in medium or heavy armor makes it difficult to recover fully during a long rest.
 
-When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]], the rest doesn't reduce your [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] level.
+When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [[conditions#Exhaustion|exhaustion]], the rest doesn't reduce your [[conditions#Exhaustion|exhaustion]] level.
 
 ### Going without a Long Rest
 
 A long rest is never mandatory, but going without sleep does have its consequences. If you want to account for the effects of sleep deprivation on characters and creatures, use these rules.
 
-Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]].
+Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [[conditions#Exhaustion|exhaustion]].
 
-It becomes harder to fight off [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]] if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+It becomes harder to fight off [[conditions#Exhaustion|exhaustion]] if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
 
 ## Adamantine Weapons
 
@@ -83,9 +83,9 @@ The adamantine version of a melee weapon or of ten pieces of ammunition costs 50
 
 The rules are purposely open-ended concerning mundane tasks like tying knots, but sometimes knowing how well a knot was fashioned is important in a dramatic scene when someone is trying to untie a knot or slip out of one. Here's an optional rule for determining the effectiveness of a knot.
 
-The creature who ties the knot makes an Intelligence ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence ([[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]]) check or to slip out of it with a Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]) check.
+The creature who ties the knot makes an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence ([[skills#Sleight%20of%20Hand|Sleight of Hand]]) check or to slip out of it with a Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
-This rule intentionally links [[/03_Mechanics/CLI/skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[/03_Mechanics/CLI/variant-rules/skills-with-different-abilities-phb|"Variant: Skills with Different Abilities"]] section in chapter 7 of the player's handbook.
+This rule intentionally links [[skills#Sleight%20of%20Hand|Sleight of Hand]] with Intelligence, rather than Dexterity. This is an example of how to apply the rule in the [[skills-with-different-abilities-phb|"Variant: Skills with Different Abilities"]] section in chapter 7 of the player's handbook.
 
 ## Tool Proficiencies
 
@@ -93,7 +93,7 @@ Tool proficiencies are a useful way to highlight a character's background and ta
 
 ### Tools and Skills Together
 
-Tools have more specific applications than skills. The [[/03_Mechanics/CLI/skills#History|History]] skill applies to any event in the past. A tool such as a [[/03_Mechanics/CLI/items/forgery-kit-xphb|forgery kit]] is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
+Tools have more specific applications than skills. The [[skills#History|History]] skill applies to any event in the past. A tool such as a [[forgery-kit-xphb|forgery kit]] is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
 
 To make tool proficiencies more attractive choices for the characters, you can use the methods outlined below.
 
@@ -103,7 +103,7 @@ If the use of a tool and the use of a skill both apply to a check, and a charact
 
 #### Added Benefit
 
-In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [[/03_Mechanics/CLI/items/masons-tools-xphb|mason's tools]] makes a successful Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check to determine how to open the door.
+In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [[masons-tools-xphb|mason's tools]] makes a successful Wisdom ([[skills#Perception|Perception]]) check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([[skills#Investigation|Investigation]]) check to determine how to open the door.
 
 ### Tool Descriptions
 
@@ -149,7 +149,7 @@ If the need for a spell's components has been removed by a special ability, such
 
 ### Identifying a Spell
 
-See the [[/03_Mechanics/CLI/actions#Identify%20a%20Spell|Identify a Spell]] entry.
+See the [[actions#Identify%20a%20Spell|Identify a Spell]] entry.
 
 ### Invalid Spell Targets
 
@@ -237,7 +237,7 @@ The process for building fights that feature only one legendary monster is simpl
 
 For a more perilous battle, match up the characters with a legendary creature whose challenge rating is 1 or 2 higher than optimal. For an easy fight, use a legendary creature whose challenge rating is 3 or more lower than the challenge rating for an optimal encounter.
 
-![[/03_Mechanics/CLI/tables/determine-numbers-and-challenge-ratings-solo-monster-challenge-rating-xge|Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating]]
+![[determine-numbers-and-challenge-ratings-solo-monster-challenge-rating-xge|Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating]]
 
 If your encounter features multiple monsters, balancing it takes a little more work. Refer to the Multiple Monsters tables, which are broken up by level ranges, providing information for how to balance encounters for characters of 1st-5th level, 6th-10th level, 11th-15th level, and 16th-20th level.
 
@@ -245,21 +245,21 @@ First, you need to note the challenge rating for each creature the party will fa
 
 For example, reading the row for 1st-level characters from the 1st-5th Level table, we see that one 1st-level character is the equivalent of two CR 1/8 monsters or one CR 1/4 monster. The ratio reverses for higher challenge ratings, where a single monster is more powerful than a single 1st-level character. One CR 1/2 creature is equivalent to three 1st-level characters, while one CR 1 opponent is equivalent to five.
 
-![[/03_Mechanics/CLI/tables/determine-numbers-and-challenge-ratings-multiple-monsters-1st-5th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level]]
+![[determine-numbers-and-challenge-ratings-multiple-monsters-1st-5th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level]]
 
 Let's say you have a party of four 3rd-level characters. Using the table, you can see that one CR 2 foe is a good match for the entire party, but that the characters will likely have a hard time handling a CR 3 creature.
 
 Using the same guidelines, you can mix and match challenge ratings to put together a group of creatures to oppose four 3rd-level characters. For example, you could select one CR 1 creature. That's worth two 3rd-level characters, leaving you with two characters' worth of monsters to allocate. You could then add two CR 1/4 monsters to account for one other character and one CR 1/2 monster to account for the final character. In total, your encounter has one CR 1, one CR 1/2, and two CR 1/4 creatures.
 
-![[/03_Mechanics/CLI/tables/determine-numbers-and-challenge-ratings-multiple-monsters-6th-10th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level]]
+![[determine-numbers-and-challenge-ratings-multiple-monsters-6th-10th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level]]
 
 For groups in which the characters are of different levels, you have two options. You can group all characters of the same level together, match them with monsters, and then combine all the creatures into one encounter. Alternatively, you can determine the group's average level and treat each character as being of that level for the purpose of selecting appropriate monsters.
 
-![[/03_Mechanics/CLI/tables/determine-numbers-and-challenge-ratings-multiple-monsters-11th-15th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level]]
+![[determine-numbers-and-challenge-ratings-multiple-monsters-11th-15th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level]]
 
 The above guidelines are designed to create a fight that will challenge a party while still being winnable. If you want to create an easier encounter that will challenge characters but not threaten to defeat them, you can treat the party as if it were roughly one-third smaller than it is. For example, to make an easy encounter for a party of five characters, put them up against monsters that would be a tough fight for three characters. Likewise, you can treat the party as up to half again larger to build a battle that is potentially deadly, though still not likely to be an automatic defeat. A party of four characters facing an encounter designed for six characters would fall into this category.
 
-![[/03_Mechanics/CLI/tables/determine-numbers-and-challenge-ratings-multiple-monsters-16th-20th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level]]
+![[determine-numbers-and-challenge-ratings-multiple-monsters-16th-20th-level-xge|Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level]]
 
 #### Weak Monsters and High-Level Characters
 
@@ -289,13 +289,13 @@ If you already have ideas for how to flesh out your encounter in these ways, go 
 
 To address the question of a monster's personality, you can use the tables in chapter 4 of the Dungeon Master's Guide, use the Monster Personality table below, or simply jot down a few notes based on a creature's Monster Manual description. During the battle, you can use these ideas to inform how you portray the monsters and their actions. To keep things simple, you can assign the same personality traits to an entire group of monsters. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![[/03_Mechanics/CLI/tables/monster-personality-xge|Monster Personality]]
+![[monster-personality-xge|Monster Personality]]
 
 #### Monster Relationships
 
 Do rivalries, hatreds, or attachments exist among the monsters in an encounter? If so, you can use such relationships to inform the monsters' behavior during combat. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might decide to flee if its spouse is killed, or a mistreated toady might be eager to surrender and betray its master in return for its life.
 
-![[/03_Mechanics/CLI/tables/monster-relationships-xge|Monster Relationships]]
+![[monster-relationships-xge|Monster Relationships]]
 
 #### Terrain and Traps
 
@@ -315,7 +315,7 @@ The guidelines above assume that you are concerned about balance in your combat 
 
 This table gives you a way to match a character of a certain level with a number of monsters. The table lists the challenge ratings to use for including one, two, and four monsters per character for each level. For instance, looking at the 3rd-level entry on the table, you can see that a CR 1/2 monster is equivalent to one 3rd-level character, as are two CR 1/4 monsters and four CR 1/8 ones.
 
-![[/03_Mechanics/CLI/tables/quick-matchups-xge|Quick Matchups]]
+![[quick-matchups-xge|Quick Matchups]]
 
 ## Random Encounters: A World of Possibilities
 
@@ -381,7 +381,7 @@ Traps can be detected or defeated in a variety of ways by using ability checks o
 
 #### Running a Simple Trap
 
-To prepare for using a simple trap in play, start by making note of the characters' passive Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) scores. Most traps allow Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) checks to detect their triggers or other elements that can tip off their presence. If you stop to ask players for this information, they might suspect a hidden danger.
+To prepare for using a simple trap in play, start by making note of the characters' passive Wisdom ([[skills#Perception|Perception]]) scores. Most traps allow Wisdom ([[skills#Perception|Perception]]) checks to detect their triggers or other elements that can tip off their presence. If you stop to ask players for this information, they might suspect a hidden danger.
 
 When a trap is triggered, apply its effects as specified in its description.
 
@@ -402,15 +402,15 @@ To make it easier for you to describe what happens next, the players should be s
 
 The following simple traps can be used to populate your adventures or as models for your own creations.
 
-- [[/03_Mechanics/CLI/traps-hazards/bear-trap-xge|Bear Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/crossbow-trap-xge|Crossbow Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/falling-portcullis-xge|Falling Portcullis]]  
-- [[/03_Mechanics/CLI/traps-hazards/fiery-blast-trap-xge|Fiery Blast Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/net-trap-xge|Net Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/pit-trap-xge|Pit Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/poison-needle-trap-xge|Poison Needle Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/scything-blade-trap-xge|Scything Blade Trap]]  
-- [[/03_Mechanics/CLI/traps-hazards/sleep-of-ages-trap-xge|Sleep of Ages Trap]]  
+- [[bear-trap-xge|Bear Trap]]  
+- [[crossbow-trap-xge|Crossbow Trap]]  
+- [[falling-portcullis-xge|Falling Portcullis]]  
+- [[fiery-blast-trap-xge|Fiery Blast Trap]]  
+- [[net-trap-xge|Net Trap]]  
+- [[pit-trap-xge|Pit Trap]]  
+- [[poison-needle-trap-xge|Poison Needle Trap]]  
+- [[scything-blade-trap-xge|Scything Blade Trap]]  
+- [[sleep-of-ages-trap-xge|Sleep of Ages Trap]]  
 
 > [!quote] A quote from Xanathar  
 > 
@@ -466,11 +466,11 @@ The Spell Equivalent by Level table shows the spell slot level that is appropria
 
 The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `24d6` fire damage on a failed saving throw.
 
-![[/03_Mechanics/CLI/tables/level-and-lethality-trap-save-dcs-and-attack-bonuses-xge|Level and Lethality; Trap Save DCs and Attack Bonuses]]
+![[level-and-lethality-trap-save-dcs-and-attack-bonuses-xge|Level and Lethality; Trap Save DCs and Attack Bonuses]]
 
-![[/03_Mechanics/CLI/tables/level-and-lethality-damage-severity-by-level-xge|Level and Lethality; Damage Severity by Level]]
+![[level-and-lethality-damage-severity-by-level-xge|Level and Lethality; Damage Severity by Level]]
 
-![[/03_Mechanics/CLI/tables/level-and-lethality-spell-equivalent-by-level-xge|Level and Lethality; Spell Equivalent by Level]]
+![[level-and-lethality-spell-equivalent-by-level-xge|Level and Lethality; Spell Equivalent by Level]]
 
 #### Triggers
 
@@ -485,9 +485,9 @@ Decide what causes the trap to activate and determine how the characters can fin
 
 A trigger usually needs to be hidden to be effective. Otherwise, avoiding the trap is usually easy.
 
-A trigger requires a Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check if simply spotting it reveals its nature. The characters can foil a pit trap hidden by a leaf-covered net if they spot the pit through a gap in the leaves. A trip wire is foiled if it is spotted, as is a pressure plate.
+A trigger requires a Wisdom ([[skills#Perception|Perception]]) check if simply spotting it reveals its nature. The characters can foil a pit trap hidden by a leaf-covered net if they spot the pit through a gap in the leaves. A trip wire is foiled if it is spotted, as is a pressure plate.
 
-Other traps require careful inspection and deduction to notice. A doorknob opens a door when turned to the left, but activates a trap when turned to the right. Such a subtle trap requires a successful Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check to notice. The trigger is obvious. Understanding its nature is not.
+Other traps require careful inspection and deduction to notice. A doorknob opens a door when turned to the left, but activates a trap when turned to the right. Such a subtle trap requires a successful Intelligence ([[skills#Investigation|Investigation]]) check to notice. The trigger is obvious. Understanding its nature is not.
 
 The DC of the check, regardless of its type, depends on the skill and care taken to conceal the trap. Most traps can be detected with a successful DC 20 check, but a crudely made or hastily built trap has a DC of 15. Exceptionally devious traps might have a DC of 25.
 
@@ -505,13 +505,13 @@ If you are using a spell as a starting point, check to see if you need to tweak 
 
 Only one successful ability check is required to disarm a simple trap. Imagine how your trap operates, and then think about how the characters could overcome it. More than one kind of ability check might be possible. Some traps are so poorly concealed that they can be discovered or circumvented without active effort. For instance, a hidden pit trap is effectively disarmed as soon as the characters notice it. After that, they can simply walk around it, or they can climb down one side, walk across the bottom of the pit, and climb up the other side.
 
-Once you determine how a trap can be disarmed or avoided, decide the appropriate ability and skill combinations that characters can use. A Dexterity check using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]], a Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]) check, and an Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check are all commonly used for this purpose.
+Once you determine how a trap can be disarmed or avoided, decide the appropriate ability and skill combinations that characters can use. A Dexterity check using [[thieves-tools-xphb|thieves' tools]], a Strength ([[skills#Athletics|Athletics]]) check, and an Intelligence ([[skills#Arcana|Arcana]]) check are all commonly used for this purpose.
 
-A Dexterity check using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] can apply to any trap that has a mechanical element. [[/03_Mechanics/CLI/items/thieves-tools-xphb|Thieves' tools]] can be used to disable a trip wire or a pressure plate, disassemble a poison needle mechanism, or clog a valve that leaks poisonous gas into a room.
+A Dexterity check using [[thieves-tools-xphb|thieves' tools]] can apply to any trap that has a mechanical element. [[thieves-tools-xphb|Thieves' tools]] can be used to disable a trip wire or a pressure plate, disassemble a poison needle mechanism, or clog a valve that leaks poisonous gas into a room.
 
 A Strength check is often the method for thwarting traps that can be destroyed or prevented from operating through the use of brute force. A scything blade can be broken, a sliding block can be held in place, or a net can be torn apart.
 
-A magic trap can be disabled by someone who can undermine the magic used to power it. Typically, a successful Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check enables a character to figure out how a magic trap functions and how to negate its effect. For instance, the character could discover that a statue that belches a jet of magical flame can be disabled by shattering one of its glass eyes.
+A magic trap can be disabled by someone who can undermine the magic used to power it. Typically, a successful Intelligence ([[skills#Arcana|Arcana]]) check enables a character to figure out how a magic trap functions and how to negate its effect. For instance, the character could discover that a statue that belches a jet of magical flame can be disabled by shattering one of its glass eyes.
 
 Once you know what kind of check is called for, you then determine what happens on a failed attempt to disable the trap. Depending on the kind of check involved and the nature of the trap, you might determine that any failed check has negative consequences-usually involving the triggering of the trap. At other times, you could assign a number that the check must exceed to prevent the trap from going off. If the total of the check is equal to or lower than that number, the trap activates.
 
@@ -581,15 +581,15 @@ The trap's constant elements allow it to have effects when it isn't the trap's t
 
 Overcoming a complex trap merits an experience point award, depending on the danger it poses. Judging whether a party has overcome a trap requires some amount of adjudication. As a rule of thumb, if the characters disable a complex trap or are exposed to its effects and survive, award them experience points for the effort according to the table below.
 
-![[/03_Mechanics/CLI/tables/experience-for-complex-traps-complex-trap-experience-awards-xge|Experience for Complex Traps; Complex Trap Experience Awards]]
+![[experience-for-complex-traps-complex-trap-experience-awards-xge|Experience for Complex Traps; Complex Trap Experience Awards]]
 
 ### Example Complex Traps
 
 The following complex traps can be used to challenge characters or to inspire your own creations.
 
-- [[/03_Mechanics/CLI/traps-hazards/path-of-blades-xge|Path of Blades]]  
-- [[/03_Mechanics/CLI/traps-hazards/poisoned-tempest-xge|Poisoned Tempest]]  
-- [[/03_Mechanics/CLI/traps-hazards/sphere-of-crushing-doom-xge|Sphere of Crushing Doom]]  
+- [[path-of-blades-xge|Path of Blades]]  
+- [[poisoned-tempest-xge|Poisoned Tempest]]  
+- [[sphere-of-crushing-doom-xge|Sphere of Crushing Doom]]  
 
 ### Designing Complex Traps
 
@@ -649,7 +649,7 @@ The advice on triggers given for simple traps also applies to complex traps, wit
 
 Look at your map and consider when you want the trap to spring into action. It's best to have a complex trap trigger after the characters have committed to exploring an area. A simple trap might activate when the characters open a door. A complex trap that triggers so early leaves the characters still outside the trapped room, in a place where they could decide to close the door and move on. A simple trap aims to keep intruders out. A complex trap wants to lure them in, so that when it activates, the intruders must deal with the trap before they can escape.
 
-The trigger for a complex trap should be as foolproof as you can make it. A complex trap represents a serious expenditure of effort and magical power. No one builds such a trap and makes it easy to avoid. Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) and Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) checks might be unable to spot a trigger, especially a magical one, but they can still give hints about the trap before it triggers. Bloodstains, ashes, gouges in the floor, and other clues of that sort can serve as evidence of the trap's presence.
+The trigger for a complex trap should be as foolproof as you can make it. A complex trap represents a serious expenditure of effort and magical power. No one builds such a trap and makes it easy to avoid. Wisdom ([[skills#Perception|Perception]]) and Intelligence ([[skills#Investigation|Investigation]]) checks might be unable to spot a trigger, especially a magical one, but they can still give hints about the trap before it triggers. Bloodstains, ashes, gouges in the floor, and other clues of that sort can serve as evidence of the trap's presence.
 
 #### Initiative
 
@@ -685,7 +685,7 @@ For elements that don't attack, allow each successful check to reduce that eleme
 
 It takes time to disable a complex trap. Three characters can't make checks in rapid succession to disarm a complex trap in a matter of seconds. Each would get in another character's way and disrupt the effort. Once a character succeeds on a check, another character can't attempt the same check against the same trap element until the end of the successful character's next turn.
 
-Not all of the characters' options need to be focused on stopping a trap from operating. Think of what characters can do to mitigate or avoid a trap's effects. Making the trap vulnerable to this sort of effort is a way to engage characters who might be ill-suited to confront the trap directly. A successful Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check might provide insight into the imagery displayed by a trap in a temple or shrine, giving other characters a clue about how and where to direct their efforts. A character could stand in front of a dart trap while holding a shield that the darts can target harmlessly, while other characters trigger that element as they work to disable it.
+Not all of the characters' options need to be focused on stopping a trap from operating. Think of what characters can do to mitigate or avoid a trap's effects. Making the trap vulnerable to this sort of effort is a way to engage characters who might be ill-suited to confront the trap directly. A successful Intelligence ([[skills#Religion|Religion]]) check might provide insight into the imagery displayed by a trap in a temple or shrine, giving other characters a clue about how and where to direct their efforts. A character could stand in front of a dart trap while holding a shield that the darts can target harmlessly, while other characters trigger that element as they work to disable it.
 
 > [!note] Complex Traps and Legendary Monsters
 > 
@@ -726,7 +726,7 @@ It's possible for the characters to have two or three rivals at a time, each wit
 
 The best rivals have a connection with their adversaries on a personal level. Find links in the characters' backstories or the events of recent adventures that explain what sparked the rival's actions. The best trouble to put the characters in is trouble they created for themselves.
 
-![[/03_Mechanics/CLI/tables/creating-a-rival-rival-xge|Creating a Rival; Rival]]
+![[creating-a-rival-rival-xge|Creating a Rival; Rival]]
 
 To add the right amount of detail to a rival you want to create, give some thought to what that NPC is trying to accomplish and what resources and methods the rival can bring to bear against the characters.
 
@@ -782,7 +782,7 @@ Finding magic items to purchase requires at least one workweek of effort and 100
 
 ##### Resolution
 
-A character seeking to buy a magic item makes a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
+A character seeking to buy a magic item makes a Charisma ([[skills#Persuasion|Persuasion]]) check to determine the quality of the seller found. The character gains a +1 bonus on the check for every workweek beyond the first that is spent seeking a seller and a +1 bonus for every additional 100 gp spent on the search, up to a maximum bonus of +10. The monetary cost includes a wealthy lifestyle, for a buyer must impress potential business partners.
 
 As shown on the Buying Magic Items table, the total of the check dictates which table in the Dungeon Master's Guide to roll on to determine which items are on the market. Or you can roll for items from any table associated with a lower total on the Buying Magic Items table. As a further option to reflect the availability of items in your campaign, you can apply a -10 penalty for low magic campaigns or a +10 bonus for high magic campaigns. Furthermore, you can double magic item costs in low magic campaigns.
 
@@ -792,15 +792,15 @@ You have final say in determining which items are for sale and their final price
 
 If the characters seek a specific magic item, first decide if it's an item you want to allow in your game. If so, include the desired item among the items for sale on a check total of 10 or higher if the item is common, 15 or higher if it is uncommon, 20 or higher if it is rare, 25 or higher if it is very rare, and 30 or higher if it is legendary.
 
-![[/03_Mechanics/CLI/tables/buying-a-magic-item-buying-magic-items-xge|Buying a Magic Item; Buying Magic Items]]
+![[buying-a-magic-item-buying-magic-items-xge|Buying a Magic Item; Buying Magic Items]]
 
-![[/03_Mechanics/CLI/tables/buying-a-magic-item-magic-item-price-xge|Buying a Magic Item; Magic Item Price]]
+![[buying-a-magic-item-magic-item-price-xge|Buying a Magic Item; Magic Item Price]]
 
 ##### Complications
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![[/03_Mechanics/CLI/tables/magic-item-purchase-complications-xge|Magic Item Purchase Complications]]
+![[magic-item-purchase-complications-xge|Magic Item Purchase Complications]]
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c2025.webp#center)
 
@@ -812,13 +812,13 @@ Carousing is a default downtime activity for many characters. Between adventures
 
 Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
 
-A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [[/03_Mechanics/CLI/items/disguise-kit-xphb|disguise kit]] and the [[/03_Mechanics/CLI/skills#Deception|Deception]] skill to pass as a noble visiting from a distant city.
+A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [[disguise-kit-xphb|disguise kit]] and the [[skills#Deception|Deception]] skill to pass as a noble visiting from a distant city.
 
 ##### Resolution
 
-After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check using the Carousing table.
+After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([[skills#Persuasion|Persuasion]]) check using the Carousing table.
 
-![[/03_Mechanics/CLI/tables/carousing-xge|Carousing]]
+![[carousing-xge|Carousing]]
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -844,11 +844,11 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
 
-![[/03_Mechanics/CLI/tables/lower-class-carousing-complications-xge|Lower-Class Carousing Complications]]
+![[lower-class-carousing-complications-xge|Lower-Class Carousing Complications]]
 
-![[/03_Mechanics/CLI/tables/middle-class-carousing-complications-xge|Middle-Class Carousing Complications]]
+![[middle-class-carousing-complications-xge|Middle-Class Carousing Complications]]
 
-![[/03_Mechanics/CLI/tables/upper-class-carousing-complications-xge|Upper-Class Carousing Complications]]
+![[upper-class-carousing-complications-xge|Upper-Class Carousing Complications]]
 
 #### Crafting an Item
 
@@ -862,7 +862,7 @@ Multiple characters can combine their efforts. Divide the time needed to create 
 
 A character needs to be proficient with the tools needed to craft an item and have access to the appropriate equipment. Everyone who collaborates needs to have the appropriate tool proficiency. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
 
-![[/03_Mechanics/CLI/tables/crafting-an-item-resources-and-resolution-xge|Crafting an Item; Resources and Resolution]]
+![[crafting-an-item-resources-and-resolution-xge|Crafting an Item; Resources and Resolution]]
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
 
@@ -880,15 +880,15 @@ An item invariably requires an exotic material to complete it. This material can
 
 The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to.
 
-![[/03_Mechanics/CLI/tables/crafting-magic-items-magic-item-ingredients-xge|Crafting Magic Items; Magic Item Ingredients]]
+![[crafting-magic-items-magic-item-ingredients-xge|Crafting Magic Items; Magic Item Ingredients]]
 
 If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a staff of charming might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a staff of power might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![[/03_Mechanics/CLI/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge|Crafting Magic Items; Magic Item Crafting Time and Cost]]
+![[crafting-magic-items-magic-item-crafting-time-and-cost-xge|Crafting Magic Items; Magic Item Crafting Time and Cost]]
 
-To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[/03_Mechanics/CLI/skills#Arcana|Arcana]] skill.
+To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[skills#Arcana|Arcana]] skill.
 
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
@@ -896,13 +896,13 @@ If all the above requirements are met, the result of the process is a magic item
 
 Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-![[/03_Mechanics/CLI/tables/crafting-complications-xge|Crafting Complications]]
+![[crafting-complications-xge|Crafting Complications]]
 
 ##### Brewing Potions of Healing
 
 Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-![[/03_Mechanics/CLI/tables/brewing-potions-of-healing-potion-of-healing-creation-xge|Brewing Potions of Healing; Potion of Healing Creation]]
+![[brewing-potions-of-healing-potion-of-healing-creation-xge|Brewing Potions of Healing; Potion of Healing Creation]]
 
 #### Crime
 
@@ -918,7 +918,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([[/03_Mechanics/CLI/skills#Stealth|Stealth]]), Dexterity using [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]], and the player's choice of Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]), Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]), or Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]).
+To attempt a crime, the character makes three checks: Dexterity ([[skills#Stealth|Stealth]]), Dexterity using [[thieves-tools-xphb|thieves' tools]], and the player's choice of Intelligence ([[skills#Investigation|Investigation]]), Wisdom ([[skills#Perception|Perception]]), or Charisma ([[skills#Deception|Deception]]).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 
@@ -928,13 +928,13 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![[/03_Mechanics/CLI/tables/crime-loot-value-xge|Crime; Loot Value]]
+![[crime-loot-value-xge|Crime; Loot Value]]
 
 ##### Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![[/03_Mechanics/CLI/tables/crime-complications-xge|Crime Complications]]
+![[crime-complications-xge|Crime Complications]]
 
 #### Gambling
 
@@ -948,15 +948,15 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([[/03_Mechanics/CLI/skills#Insight|Insight]]), Charisma ([[/03_Mechanics/CLI/skills#Deception|Deception]]), and Charisma ([[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([[skills#Insight|Insight]]), Charisma ([[skills#Deception|Deception]]), and Charisma ([[skills#Intimidation|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
-![[/03_Mechanics/CLI/tables/gambling-results-xge|Gambling Results]]
+![[gambling-results-xge|Gambling Results]]
 
 ##### Complications
 
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10 percent chance of a complication, examples of which are on the Gambling Complications table.
 
-![[/03_Mechanics/CLI/tables/gambling-complications-xge|Gambling Complications]]
+![[gambling-complications-xge|Gambling Complications]]
 
 #### Pit Fighting
 
@@ -970,15 +970,15 @@ Engaging in this activity requires one workweek of effort from a character.
 
 The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character's opponents.
 
-The character makes three checks: Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]), Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: Strength ([[skills#Athletics|Athletics]]), Dexterity ([[skills#Acrobatics|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![[/03_Mechanics/CLI/tables/pit-fighting-results-xge|Pit Fighting Results]]
+![[pit-fighting-results-xge|Pit Fighting Results]]
 
 ##### Complications
 
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
-![[/03_Mechanics/CLI/tables/pit-fighting-complications-xge|Pit Fighting Complications]]
+![[pit-fighting-complications-xge|Pit Fighting Complications]]
 
 #### Relaxation
 
@@ -1006,9 +1006,9 @@ Performing religious service requires access to, and often attendance at, a temp
 
 ##### Resolution
 
-At the end of the required time, the character chooses to make either an Intelligence ([[/03_Mechanics/CLI/skills#Religion|Religion]]) check or a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
+At the end of the required time, the character chooses to make either an Intelligence ([[skills#Religion|Religion]]) check or a Charisma ([[skills#Persuasion|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
-![[/03_Mechanics/CLI/tables/religious-service-xge|Religious Service]]
+![[religious-service-xge|Religious Service]]
 
 A favor, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favor could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favor is expended by the DM, who also determines its nature.
 
@@ -1018,7 +1018,7 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10 percent chance of a complication, examples of which are on the Religious Service Complications table.
 
-![[/03_Mechanics/CLI/tables/religious-service-complications-xge|Religious Service Complications]]
+![[religious-service-complications-xge|Religious Service Complications]]
 
 #### Research
 
@@ -1032,7 +1032,7 @@ Typically, a character needs access to a library or a sage to conduct research. 
 
 The character declares the focus of the research—a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. In addition, a character who has access to a particularly well-stocked library or knowledgeable sages gains advantage on this check. Determine how much lore a character learns using the Research Outcomes table.
 
-![[/03_Mechanics/CLI/tables/research-outcomes-xge|Research Outcomes]]
+![[research-outcomes-xge|Research Outcomes]]
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c2027.webp#center)
 
@@ -1046,7 +1046,7 @@ The greatest risk in research is uncovering false information. Not all lore is a
 
 In addition, a character might run into other complications during research. Every workweek spent in research brings a 10 percent chance of a complication, examples of which are on the Research Complications table.
 
-![[/03_Mechanics/CLI/tables/research-complications-xge|Research Complications]]
+![[research-complications-xge|Research Complications]]
 
 #### Scribing a Spell Scroll
 
@@ -1054,17 +1054,17 @@ With time and patience, a spellcaster can transfer a spell to a scroll, creating
 
 ##### Resources
 
-Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the [[/03_Mechanics/CLI/skills#Arcana|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
+Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the [[skills#Arcana|Arcana]] skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![[/03_Mechanics/CLI/tables/resources-spell-scroll-costs-xge|Resources; Spell Scroll Costs]]
+![[resources-spell-scroll-costs-xge|Resources; Spell Scroll Costs]]
 
 ##### Complications
 
 Crafting a spell scroll is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
-![[/03_Mechanics/CLI/tables/scribe-a-scroll-complications-xge|Scribe a Scroll Complications]]
+![[scribe-a-scroll-complications-xge|Scribe a Scroll Complications]]
 
 #### Selling a Magic Item
 
@@ -1076,17 +1076,17 @@ A character can find a buyer for one magic item by spending one workweek and 25 
 
 ##### Resolution
 
-A character who wants to sell an item must make a Charisma ([[/03_Mechanics/CLI/skills#Persuasion|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
+A character who wants to sell an item must make a Charisma ([[skills#Persuasion|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
-![[/03_Mechanics/CLI/tables/selling-a-magic-item-magic-item-base-prices-xge|Selling a Magic Item; Magic Item Base Prices]]
+![[selling-a-magic-item-magic-item-base-prices-xge|Selling a Magic Item; Magic Item Base Prices]]
 
-![[/03_Mechanics/CLI/tables/selling-a-magic-item-magic-item-offer-xge|Selling a Magic Item; Magic Item Offer]]
+![[selling-a-magic-item-magic-item-offer-xge|Selling a Magic Item; Magic Item Offer]]
 
 ##### Complications
 
 The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10 percent chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
-![[/03_Mechanics/CLI/tables/magic-item-sale-complications-xge|Magic Item Sale Complications]]
+![[magic-item-sale-complications-xge|Magic Item Sale Complications]]
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c2028.webp#center)
 
@@ -1102,7 +1102,7 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 
 Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10 percent chance of a complication, examples of which are on the Training Complications table.
 
-![[/03_Mechanics/CLI/tables/training-complications-xge|Training Complications]]
+![[training-complications-xge|Training Complications]]
 
 #### Work
 
@@ -1114,15 +1114,15 @@ Performing a job requires one workweek of effort.
 
 ##### Resolution
 
-To determine how much money a character earns, the character makes an ability check: Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]]), Dexterity ([[/03_Mechanics/CLI/skills#Acrobatics|Acrobatics]]), Intelligence using a set of tools, Charisma ([[/03_Mechanics/CLI/skills#Performance|Performance]]), or Charisma using a musical instrument. Consult the Wages table to see how much money is generated according to the total of the check.
+To determine how much money a character earns, the character makes an ability check: Strength ([[skills#Athletics|Athletics]]), Dexterity ([[skills#Acrobatics|Acrobatics]]), Intelligence using a set of tools, Charisma ([[skills#Performance|Performance]]), or Charisma using a musical instrument. Consult the Wages table to see how much money is generated according to the total of the check.
 
-![[/03_Mechanics/CLI/tables/work-wages-xge|Work; Wages]]
+![[work-wages-xge|Work; Wages]]
 
 ##### Complications
 
 Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10 percent chance that a character encounters a complication.
 
-![[/03_Mechanics/CLI/tables/work-complications-xge|Work Complications]]
+![[work-complications-xge|Work Complications]]
 
 ## Awarding Magic Items
 
@@ -1134,7 +1134,7 @@ The system in the dungeon master's guide is designed so that you can generate al
 
 This alternative method of treasure determination focuses on choosing magic items based on their rarity, rather than by rolling on the tables in the dungeon master's guide. This method uses two tables: Magic Items Awarded by Tier and Magic Items Awarded by Rarity.
 
-![[/03_Mechanics/CLI/tables/distribution-by-rarity-magic-items-awarded-by-tier-xge|Distribution by Rarity; Magic Items Awarded by Tier]]
+![[distribution-by-rarity-magic-items-awarded-by-tier-xge|Distribution by Rarity; Magic Items Awarded by Tier]]
 
 #### By Tier
 
@@ -1144,9 +1144,9 @@ The Magic Items Awarded by Tier table shows the number of magic items a D&D part
 
 The Magic Items Awarded by Rarity table takes the numbers from the Magic Items Awarded by Tier table and breaks them down to show the number of items of each rarity the characters are expected to have when they reach the end of a tier.
 
-![[/03_Mechanics/CLI/tables/magic-items-awarded-by-rarity-minor-xge|Magic Items Awarded by Rarity - Minor]]
+![[magic-items-awarded-by-rarity-minor-xge|Magic Items Awarded by Rarity - Minor]]
 
-![[/03_Mechanics/CLI/tables/magic-items-awarded-by-rarity-major-xge|Magic Items Awarded by Rarity - Major]]
+![[magic-items-awarded-by-rarity-major-xge|Magic Items Awarded by Rarity - Major]]
 
 #### Minor and Major Items
 

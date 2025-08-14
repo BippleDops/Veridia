@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warrior-mpmm-firenewt-warrior-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/firenewt-warrior-mpmm|Firenewt Warrior]]
+# [[firenewt-warrior-mpmm|Firenewt Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
 
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
@@ -46,7 +46,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "13"
-"ac_class": "[[/03_Mechanics/CLI/items/shield-xphb|shield]]"
+"ac_class": "[[shield-xphb|shield]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "1"

@@ -1,6 +1,6 @@
 ---
 MyCategory: Shadow Autonomy Movement
-MyContainer: '[[02_Worldbuilding/Places/The Shadowmere]]'
+MyContainer: '[[The Shadowmere]]'
 benefits:
 - reward: Shadow realm navigation training and basic integration support
   standing: 1
@@ -40,12 +40,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-independence-levels-shadow-independence-levels.svg)
-
-
 
 
 # Shadow Independence Levels
@@ -56,7 +52,7 @@ The **Shadow Independence Levels** represents a sophisticated political and soci
 
 The organization operates on a unique philosophical framework that recognizes different "levels" of shadow independence - from basic recognition of shadow-touched rights to complete autonomous shadow territories. Rather than pursuing revolution or assimilation, they seek incremental progress through structured advocacy, community building, and demonstration of shadow-touched society's viability.
 
-Founded in the aftermath of the [[02_Worldbuilding/Places/The Great Drowning]] when many citizens found themselves permanently altered by shadow realm exposure, the SIL has evolved from a support group into a sophisticated political movement with international implications. They represent the largest organized voice for shadow-touched rights in Aquabyssos and have begun expanding influence to other realms facing similar shadow integration challenges.
+Founded in the aftermath of the [[The Great Drowning]] when many citizens found themselves permanently altered by shadow realm exposure, the SIL has evolved from a support group into a sophisticated political movement with international implications. They represent the largest organized voice for shadow-touched rights in Aquabyssos and have begun expanding influence to other realms facing similar shadow integration challenges.
 
 ## Organizational Structure
 
@@ -66,8 +62,8 @@ The Shadow Independence Levels operates through a council-based democracy that r
 Rather than a single leader, the SIL is governed by a rotating council of seven members representing different aspects of shadow-touched experience. Council membership changes quarterly through shadow consensus - a unique decision-making process where members temporarily merge consciousness to reach unanimous agreement.
 
 **Current Council Members:**
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]: Represents original shadow realm inhabitants
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]: Advocates for voluntary shadow integration
+- [[Elder Whisper-In-The-Dark]]: Represents original shadow realm inhabitants
+- [[The Shadow Singer Naia]]: Advocates for voluntary shadow integration
 - [[Marcus "The Shade" Blackwood]]: Former criminal turned community organizer
 - **Shadow Diplomat Umbra**: Handles inter-realm relations and non-shadow communications
 - **The Collective Voice**: A hive-mind entity representing shadow-touched families
@@ -75,10 +71,10 @@ Rather than a single leader, the SIL is governed by a rotating council of seven 
 - **Balance Walker Dusk**: Represents individuals maintaining partial shadow integration
 
 ### The Integration Support Network
-Led by [[02_Worldbuilding/People/The Shadow Singer Naia]], this branch provides services to newly shadow-touched individuals and those seeking controlled integration. They operate community centers, training facilities, and crisis intervention services throughout Aquabyssos.
+Led by [[The Shadow Singer Naia]], this branch provides services to newly shadow-touched individuals and those seeking controlled integration. They operate community centers, training facilities, and crisis intervention services throughout Aquabyssos.
 
 ### The Advocacy Division
-Headed by [[Marcus "The Shade" Blackwood]], this group focuses on political action, legal representation, and public education campaigns. They lobby the [[02_Worldbuilding/Places/Parliament of Echoes]], organize peaceful demonstrations, and provide legal defense for shadow-touched individuals facing discrimination.
+Headed by [[Marcus "The Shade" Blackwood]], this group focuses on political action, legal representation, and public education campaigns. They lobby the [[Parliament of Echoes]], organize peaceful demonstrations, and provide legal defense for shadow-touched individuals facing discrimination.
 
 ### The Autonomous Communities Project
 The most ambitious SIL initiative, working to establish self-governing shadow-touched settlements within Aquabyssos territory. These communities serve as proof-of-concept for shadow-touched society while providing safe havens for those unable or unwilling to integrate with standard Aquabyssos culture.
@@ -178,7 +174,7 @@ Community hubs promoting shadow-touched culture:
 
 **Autonomous Settlement Projects**
 Experimental communities demonstrating shadow-touched self-governance:
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]: Agricultural community specializing in shadow realm crops
+- [[Shadow Vale]]: Agricultural community specializing in shadow realm crops
 - **Umbral Heights**: Urban district with shadow-adapted architecture
 - **The Dusk Markets**: Commercial zone facilitating shadow-material plane trade
 - **Whisper Harbor**: Port community for interdimensional transportation
@@ -186,42 +182,42 @@ Experimental communities demonstrating shadow-touched self-governance:
 ## Allies and Relationships
 
 ### Allied Organizations
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]**: Shares interest in alternative governance models
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Collaborates on dimensional research and theory
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Intelligence sharing on interdimensional threats
-- **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**: Historical precedent for minority autonomy rights
-- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]**: Research partnerships on shadow realm studies
+- **[[The Parliament of Nobody]]**: Shares interest in alternative governance models
+- **[[The Convergence Seekers]]**: Collaborates on dimensional research and theory
+- **[[The Void Watchers]]**: Intelligence sharing on interdimensional threats
+- **[[Ancient Mer-Folk Empire]]**: Historical precedent for minority autonomy rights
+- **[[The Seekers' Guild]]**: Research partnerships on shadow realm studies
 
 ### Sympathetic but Cautious
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Some members support shadow-touched rights legislation
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Officially neutral but contains individual supporters
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Interested in shadow realm trade opportunities
-- **[[02_Worldbuilding/Lore/The Artisans' Collective]]**: Appreciates shadow-touched crafting innovations
-- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]**: Progressive factions support dimensional tolerance
+- **[[Parliament of Echoes]]**: Some members support shadow-touched rights legislation
+- **[[The Crown Authority]]**: Officially neutral but contains individual supporters
+- **[[Merchant Princes]]**: Interested in shadow realm trade opportunities
+- **[[The Artisans' Collective]]**: Appreciates shadow-touched crafting innovations
+- **[[Temple of Divine Order]]**: Progressive factions support dimensional tolerance
 
 ### Opposed Organizations
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Actively campaigns against shadow integration
-- **[[02_Worldbuilding/People/Crystal Wardens]]**: Views shadow autonomy as security threat
-- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]**: Concerned about dimensional border security
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]**: Competes for shadow-touched political loyalty
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]**: Opposes transparent shadow political organization
+- **[[Purist Coalition]]**: Actively campaigns against shadow integration
+- **[[Crystal Wardens]]**: Views shadow autonomy as security threat
+- **[[The Deepwatch Guard]]**: Concerned about dimensional border security
+- **[[Party Shadows]]**: Competes for shadow-touched political loyalty
+- **[[The Shadow Conspiracy]]**: Opposes transparent shadow political organization
 
 ### Complex Relationships
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**: Shares shadow-touched advocacy but disagrees on methods
-- **[[02_Worldbuilding/Groups/The Crimson Fleet]]**: Some shadow-touched pirates support autonomy goals
-- **[[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]**: Theological disagreements about shadow realm nature
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]**: Economic cooperation despite political differences
+- **[[Shadow Surgeons Collective]]**: Shares shadow-touched advocacy but disagrees on methods
+- **[[The Crimson Fleet]]**: Some shadow-touched pirates support autonomy goals
+- **[[The Leviathan Cult]]**: Theological disagreements about shadow realm nature
+- **[[The Whisper Syndicate]]**: Economic cooperation despite political differences
 
 ## Territory and Operations
 
 ### Primary Territories
-**[[02_Worldbuilding/Places/The Shadowmere]]**: Natural shadow realm intersection serving as movement headquarters
+**[[The Shadowmere]]**: Natural shadow realm intersection serving as movement headquarters
 - Council meeting chambers existing in multiple dimensions simultaneously
 - Training facilities for shadow ability development
 - Diplomatic reception areas for inter-realm negotiations
 - Cultural preservation archives and research libraries
 
-**Shadow District, [[02_Worldbuilding/Places/New Thalassopolis]]**: Urban community center and political office
+**Shadow District, [[New Thalassopolis]]**: Urban community center and political office
 - Legal aid clinic providing free representation
 - Community center hosting cultural events and organizing meetings
 - Shadow-adapted housing for newly integrated individuals
@@ -245,10 +241,10 @@ Experimental communities throughout Aquabyssos:
 ## Internal Politics and Philosophical Debates
 
 ### The Gradualist Faction
-Led by [[02_Worldbuilding/People/The Shadow Singer Naia]], believes in achieving goals through incremental progress and cooperation with existing institutions. They emphasize building positive relationships with non-shadow communities and demonstrating shadow-touched contributions to society.
+Led by [[The Shadow Singer Naia]], believes in achieving goals through incremental progress and cooperation with existing institutions. They emphasize building positive relationships with non-shadow communities and demonstrating shadow-touched contributions to society.
 
 ### The Autonomist Faction
-Following [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]], advocates for rapid establishment of fully autonomous territories. They argue that true equality requires complete self-governance and that integration efforts ultimately compromise shadow-touched identity.
+Following [[Elder Whisper-In-The-Dark]], advocates for rapid establishment of fully autonomous territories. They argue that true equality requires complete self-governance and that integration efforts ultimately compromise shadow-touched identity.
 
 ### The Integrationist Wing
 Supported by [[Marcus "The Shade" Blackwood]], believes shadow-touched individuals should pursue full participation in existing Aquabyssos society rather than separate development. They focus on anti-discrimination efforts and individual advancement.
@@ -366,7 +362,7 @@ The Shadow Independence Levels represents a unique approach to minority rights a
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[Stop the Shadow Harvest]]
 
 ## Player-Facing Summary
 
@@ -384,23 +380,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[02_Worldbuilding/Places/New Thalassopolis]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Surgeons Collective]]
+- [[Shadow Vale]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Leviathan Cult]]
+- [[The Parliament of Nobody]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[The Whisper Syndicate]]
+- [[The Shadow Singer Naia]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]

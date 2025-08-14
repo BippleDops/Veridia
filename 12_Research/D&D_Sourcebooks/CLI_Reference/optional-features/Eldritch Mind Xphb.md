@@ -23,7 +23,7 @@ world: Both
 # Eldritch Mind
 *Source: Player's Handbook (2024) p. 155*  
 
-You have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on Constitution saving throws that you make to maintain [[/03_Mechanics/CLI/conditions#Concentration|Concentration]].
+You have [[advantage-xphb|Advantage]] on Constitution saving throws that you make to maintain [[conditions#Concentration|Concentration]].
 
 ## Player-Facing Summary
 

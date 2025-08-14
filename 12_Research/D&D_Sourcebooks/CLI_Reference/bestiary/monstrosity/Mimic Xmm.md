@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mimic-xmm-mimic-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/mimic-xmm|Mimic]]
+# [[mimic-xmm|Mimic]]
 *Source: Monster Manual (2024) p. 212. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Mimic
@@ -133,30 +133,30 @@ Weapon rack
   - !!int "8"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ adhered to the mimic has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]."
+      \ [[disadvantage-xphb|Disadvantage]]."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
-      \ if the target is [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] by the\
+  - "desc": "Melee Attack Roll: +5 (with [[advantage-xphb|Advantage]]\
+      \ if the target is [[conditions#Grappled|Grappled]] by the\
       \ mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing\
-      \ damage if the target is [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ damage if the target is [[conditions#Grappled|Grappled]]\
       \ by the mimic—plus 4 (d8) Acid damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 4 (d8) Acid damage. If the target is a Large or smaller creature, it\
-      \ has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]] condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]]."
+      \ has the [[conditions#Grappled|Grappled]] condition (escape\
+      \ DC 13). Ability checks made to escape this grapple have [[disadvantage-xphb|Disadvantage]]."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\

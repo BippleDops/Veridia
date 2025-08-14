@@ -2,6 +2,8 @@
 created: '2025-08-11'
 status: complete
 tags:
+- combat
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +16,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
+- [[Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Vex Shadowthorn Boss Fight]]
+- [[12_Research/D&D_References/Vex Shadowthorn Boss Fight]]
 
 ## Player-Facing Summary
 

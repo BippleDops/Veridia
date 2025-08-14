@@ -18,8 +18,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-hybrid-communities-integration-hybrid-communities-integration.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-hybrid-communities-integration-hybrid-communities-integration.svg]]
 
 
 ## Overview
@@ -290,12 +289,12 @@ Unlike the formal diplomatic spaces or controlled transit areas, these organic c
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Point Settlement]]
-- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[Pressure Point Settlement]]
+- [[Diplomatic Protocol Center]]
+- [[Cross-Dimensional Transit Authority]]
 - [[Inter-Realm Marriage Registry]]
 - [[Cultural Exchange Programs]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
+- [[Cross-Realm Cooperation Authority]]
 
 ## Player-Facing Summary
 
@@ -307,6 +306,6 @@ Legends speak of Hybrid Communities Integration as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
+- [[Hybrid Communities Integration]]
 
 <!-- enriched: true -->

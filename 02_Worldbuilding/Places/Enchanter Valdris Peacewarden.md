@@ -7,6 +7,9 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- combat
+- quest
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -23,13 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg]]
 
 
 # Enchanter Valdris Peacewarden
@@ -51,12 +49,14 @@ Valdris is a distinguished sea elf in his middle years, with the typical tall, l
 He dresses in flowing robes that seem to be woven from sea silk and starlight, with patterns that shift and change as he moves. His fingers are adorned with rings of his own creation, each serving both decorative and functional purposes in his magical work.
 
 ## Personality
+
 - Deeply committed to preventing magical conflicts and promoting understanding
 - Perfectionist in his craft who takes pride in elegant, sustainable solutions
 - Diplomatic and skilled at reading people's true intentions
 - Maintains careful neutrality while harboring strong opinions about justice
 
 ## Statistics
+
 **Medium humanoid (sea elf), lawful good**
 - **AS** 15 (Enchanted Robes)
 - **HP** 68 (15d6 + 15)
@@ -68,6 +68,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 - **Challenge** 7 (2,900 XP)
 
 ### Special Abilities
+
 **Peaceweaving.** Valdris can spend 10 minutes to create a zone of peace in a 30-foot radius that lasts for 1 hour. Creatures in this area have disadvantage on attack rolls and cannot cast spells intended to harm others.
 
 **Enchantment Expertise.** Valdris has advantage on saving throws against enchantment spells, and creatures have disadvantage on saves against his enchantment spells.
@@ -75,6 +76,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 **Magic Resistance.** Valdris has advantage on saving throws against spells and other magical effects.
 
 ### Actions
+
 **Quarterstaff of Harmony.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage plus 7 (2d6) psychic damage. The target must make a DC 16 Wisdom save or be charmed for 1 minute.
 
 **Spellcasting.** Valdris is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). He has the following spells prepared:
@@ -87,6 +89,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 - 6th level (1 slot): *mass suggestion*, *Otto's irresistible dance*
 
 ### Legendary Actions (3 per turn)
+
 **Move.** Valdris moves up to his speed without provoking opportunity attacks.
 **Cantrip.** Valdris casts a cantrip.
 **Calm Presence (Costs 2 Actions).** Valdris casts *calm emotions* without expending a spell slot.
@@ -106,6 +109,7 @@ Valdris is deeply concerned about the escalating tensions in Aquabyssos and has 
 He's been quietly investigating the source of this magical disruption while maintaining his public role as a neutral mediator. His workshop has become an increasingly important safe haven for those seeking to escape the growing paranoia in the city.
 
 ## Relationships
+
 - **All Major Factions**: Respected neutral mediator and provider of protective services
 - **Arcane Quarter Guild**: Senior member and ethical advisor
 - **His Apprentices**: Network of enchanters trained in peaceful magic use
@@ -113,23 +117,26 @@ He's been quietly investigating the source of this magical disruption while main
 - **Sister Morwyn**: Collaborates on healing enchantments
 
 ## Secrets
+
 - Has detected traces of abyssal magic interfering with his peaceweaving spells
 - Maintains a secret vault of dangerous enchantments confiscated from malevolent mages
 - Created a network of hidden magical sensors throughout the city to monitor for hostile magic
 - Suspects that someone is deliberately sabotaging peace efforts using anti-enchantment magic
 
 ## Quest Hooks
+
 1. Valdris approaches the party to investigate the source of magical interference that's disrupting his peace enchantments throughout the city.
 2. The party needs specialized enchanted items for a dangerous mission, and Valdris requires them to complete a task proving their peaceful intentions first.
 3. A diplomatic meeting under Valdris's protection is attacked by unknown assailants using magic that shouldn't work in his peace zone.
 
 ## DM Notes
+
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
 
 
 ## History
@@ -177,6 +184,10 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+- [[12_Research/D&D_References/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

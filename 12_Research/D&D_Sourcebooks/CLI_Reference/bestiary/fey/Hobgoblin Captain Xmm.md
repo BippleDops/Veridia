@@ -35,7 +35,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-captain-xmm-hobgoblin-captain-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/hobgoblin-captain-xmm|Hobgoblin Captain]]
+# [[hobgoblin-captain-xmm|Hobgoblin Captain]]
 *Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
@@ -93,10 +93,10 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-  - "desc": "While in a 10-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "While in a 10-foot [[emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [[advantage-xphb|Advantage]]\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]] condition."
+      \ [[conditions#Incapacitated|Incapacitated]] condition."
     "name": "Aura of Authority"
 "actions":
   - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."

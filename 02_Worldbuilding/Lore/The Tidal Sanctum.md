@@ -15,10 +15,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -45,9 +41,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[12_Research/D&D_References/Oracle Nerida the Tidereader]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
+- [[12_Research/D&D_References/Crown of Tidal Sovereignty]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

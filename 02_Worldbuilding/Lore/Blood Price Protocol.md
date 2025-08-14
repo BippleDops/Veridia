@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[12_Research/D&D_References/Secret Vault Beneath Throne]]
 
 ## Player-Facing Summary
 

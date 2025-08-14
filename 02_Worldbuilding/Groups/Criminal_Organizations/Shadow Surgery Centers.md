@@ -14,22 +14,19 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-surgery-centers-shadow-surgery-centers.svg)
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[Party Shadows]]
+- [[Memory Farmers]]
 
 ## Player-Facing Summary
 

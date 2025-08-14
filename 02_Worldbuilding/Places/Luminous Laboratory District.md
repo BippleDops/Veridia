@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-luminous-laboratory-district-luminous-laboratory-district.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-luminous-laboratory-district-luminous-laboratory-district.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Luminous Laboratory District]]
+- [[Luminous Laboratory District]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[Professor Aldric Crystalweaver]]

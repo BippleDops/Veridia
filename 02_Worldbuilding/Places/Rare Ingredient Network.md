@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-rare-ingredient-network-rare-ingredient-network.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-rare-ingredient-network-rare-ingredient-network.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Rare Ingredient Network]]
+- [[Rare Ingredient Network]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[Chef Gastropod]]

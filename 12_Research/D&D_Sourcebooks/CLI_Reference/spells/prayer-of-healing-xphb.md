@@ -33,11 +33,11 @@ world: Both
 - **Components:** V
 - **Duration:** Instantaneous
 
-Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short Rest]] and also regain `2d8` [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]. A creature can't be affected by this spell again until that creature finishes a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a [[short-rest-xphb|Short Rest]] and also regain `2d8` [[hit-points-xphb|Hit Points]]. A creature can't be affected by this spell again until that creature finishes a [[long-rest-xphb|Long Rest]].
 
 **Using a Higher-Level Spell Slot.** The healing increases by `d8` for each spell slot level above 2.
 
-**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
+**Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
 *Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

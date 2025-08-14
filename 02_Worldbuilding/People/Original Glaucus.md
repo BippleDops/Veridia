@@ -5,9 +5,9 @@ alignment: Lawful Good
 class: Noble/Diplomat
 created: '2025-08-08'
 created_by: auto-stub
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes]] (formerly)'
+faction: '[[Parliament of Echoes]] (formerly)'
 level: 7
-location: '[[02_Worldbuilding/Places/The Memory Meadows]]'
+location: '[[The Memory Meadows]]'
 obsidianUIMode: preview
 race: Human (Adapted)
 status: complete
@@ -29,19 +29,15 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-original-glaucus-original-glaucus.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-original-glaucus-original-glaucus.svg]]
 
 
 # Original Glaucus Tidecaller
 *The True Senator, The Forgotten Voice, Prisoner of Kelp*
 
 ## Overview
-The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuilding/Places/The Memory Meadows]] for three weeks, trapped within living kelp that slowly drains his memories while his shadow replacement [[02_Worldbuilding/People/Senator Glaucus]] takes his place in the [[02_Worldbuilding/Places/Parliament of Echoes]]. Once a respected advocate for surface-depth reconciliation, he now struggles to maintain his identity as the kelp forest feeds on his past.
+The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Meadows]] for three weeks, trapped within living kelp that slowly drains his memories while his shadow replacement [[Senator Glaucus]] takes his place in the [[Parliament of Echoes]]. Once a respected advocate for surface-depth reconciliation, he now struggles to maintain his identity as the kelp forest feeds on his past.
 
 ## Current Condition
 
@@ -78,8 +74,8 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 
 ### The Capture
 **Three Weeks Ago**
-- Investigating [[02_Worldbuilding/People/Reflection Pools]] at night
-- Ambushed by [[02_Worldbuilding/People/Shadow Conspiracy]] agents
+- Investigating [[Reflection Pools]] at night
+- Ambushed by [[Shadow Conspiracy]] agents
 - Underwent forced shadow separation ritual
 - Shadow gained independence and his memories
 - Dragged to Memory Meadows while unconscious
@@ -114,26 +110,26 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 - Core identity and name
 - Recent political knowledge
 - Shadow conspiracy details
-- Love for his daughter [[02_Worldbuilding/Lore/Marina Tidecaller]]
+- Love for his daughter [[Marina Tidecaller]]
 - Parliamentary procedures
 - Location of evidence against shadows
 
 ## Relationships
 
 ### Family
-- **[[02_Worldbuilding/Lore/Marina Tidecaller]]**: Daughter, doesn't know he's replaced
-- **[[02_Worldbuilding/Lore/Lysandra Tidecaller]]**: Wife, deceased (still remembers)
-- **[[02_Worldbuilding/Lore/Marcus Tidecaller]]**: Brother, estranged
+- **[[Marina Tidecaller]]**: Daughter, doesn't know he's replaced
+- **[[Lysandra Tidecaller]]**: Wife, deceased (still remembers)
+- **[[Marcus Tidecaller]]**: Brother, estranged
 
 ### Political Allies (Former)
-- **[[02_Worldbuilding/Lore/Senator Aqueous]]**: Closest friend, might notice changes
-- **[[02_Worldbuilding/Lore/Representative Coral]]**: Protégé, suspicious of replacement
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knew his loyalty
+- **[[Senator Aqueous]]**: Closest friend, might notice changes
+- **[[Representative Coral]]**: Protégé, suspicious of replacement
+- **[[The Scattered Emperor]]**: Knew his loyalty
 
 ### Enemies
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: His shadow, his replacement
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Ordered his capture
-- **[[02_Worldbuilding/Lore/The Memory Farmers]]**: Profit from his imprisonment
+- **[[Senator Glaucus]]**: His shadow, his replacement
+- **[[Shadow Duchess Nyx]]**: Ordered his capture
+- **[[The Memory Farmers]]**: Profit from his imprisonment
 - **[[Kelp Cultivator Threnody]]**: His direct jailer
 
 ## Escape Attempts
@@ -161,7 +157,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 
 ### Political Secrets
 - Which senators are already replaced
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s involvement
+- [[Aboleth Prime Yoth]]'s involvement
 - Planned legislation for shadow citizenship
 - Trade route sabotage plans
 - Assassination targets
@@ -170,7 +166,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 - His shadow's weaknesses
 - Code words to prove identity
 - Hidden allies in Parliament
-- Safe houses in [[02_Worldbuilding/Places/Abyssos Prime]]
+- Safe houses in [[Abyssos Prime]]
 - Emergency protocols
 
 ## Rescue Considerations
@@ -285,32 +281,32 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ## Connected Elements
 
 ### NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - His shadow replacement
-- [[02_Worldbuilding/Lore/Marina Tidecaller]] - Daughter
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Ordered capture
+- [[Senator Glaucus]] - His shadow replacement
+- [[Marina Tidecaller]] - Daughter
+- [[Shadow Duchess Nyx]] - Ordered capture
 - [[Kelp Cultivator Threnody]] - Jailer
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Potential ally
+- [[The Scattered Emperor]] - Potential ally
 
 ### Locations
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Prison
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Former workplace
-- [[02_Worldbuilding/People/Reflection Pools]] - Where captured
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Home city
-- [[02_Worldbuilding/Lore/Shadow Transformation Facility]] - Knows location
+- [[The Memory Meadows]] - Prison
+- [[Parliament of Echoes]] - Former workplace
+- [[Reflection Pools]] - Where captured
+- [[Abyssos Prime]] - Home city
+- [[Shadow Transformation Facility]] - Knows location
 
 ### Quests
-- [[02_Worldbuilding/People/Investigate Shadow Conspiracy]] - Living evidence
-- [[02_Worldbuilding/Lore/Quest - The Memory Thief]] - Rescue mission
-- [[02_Worldbuilding/Groups/Quest - Parliamentary Corruptio|02 Worldbuilding/Groups/Quest Parliamentary Corruptio]] - His testimony
-- [[02_Worldbuilding/Lore/Quest - Father and Daughter]] - Marina subplot
-- [[02_Worldbuilding/Lore/Quest - Shadow Confrontation]] - Face his dark self
+- [[Investigate Shadow Conspiracy]] - Living evidence
+- [[Quest - The Memory Thief]] - Rescue mission
+- [[Quest - Parliamentary Corruptio|02 Worldbuilding/Groups/Quest Parliamentary Corruptio]] - His testimony
+- [[Quest - Father and Daughter]] - Marina subplot
+- [[Quest - Shadow Confrontation]] - Face his dark self
 
 ### Items
-- [[02_Worldbuilding/Lore/Kelp Extraction Tools]] - Needed for rescue
-- [[02_Worldbuilding/Lore/Memory Restoration Potion]] - Critical for recovery
-- [[02_Worldbuilding/Lore/Senator's Seal]] - Proves identity
-- [[02_Worldbuilding/Places/Family Portrait]] - Hidden in kelp
-- [[02_Worldbuilding/Lore/Evidence Journal]] - Blood-written notes
+- [[Kelp Extraction Tools]] - Needed for rescue
+- [[Memory Restoration Potion]] - Critical for recovery
+- [[Senator's Seal]] - Proves identity
+- [[Family Portrait]] - Hidden in kelp
+- [[Evidence Journal]] - Blood-written notes
 
 ---
 
@@ -319,7 +315,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 
 ## Connections
 
-- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -337,8 +333,8 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Original Glaucus]]
+- [[Original Glaucus]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Reflection Pools]]
-- [[02_Worldbuilding/People/Shadow Conspiracy]]
+- [[Reflection Pools]]
+- [[Shadow Conspiracy]]

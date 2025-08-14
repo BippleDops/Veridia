@@ -16,8 +16,7 @@ world: Both Worlds
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg]]
 
 
 ## Overview
@@ -209,12 +208,12 @@ The settlement operates under a unique three-way governance structure:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[Cross-Dimensional Transit Authority]]
 - [[Inter-Realm Trade Routes]]  
 - [[Border Reality Zones]]
 - [[Guild of Cross-Realm Navigators]]
-- [[02_Worldbuilding/Places/Reality Anchor Network]]
-- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
+- [[Reality Anchor Network]]
+- [[Diplomatic Protocol Center]]
 
 ## Player-Facing Summary
 
@@ -226,6 +225,6 @@ Legends speak of Pressure Point Settlement as a nexus where past and present con
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Point Settlement]]
+- [[Pressure Point Settlement]]
 
 <!-- enriched: true -->

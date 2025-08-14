@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- crystal-enhanced
 - aquabyssos
 - complete
 - content/location
@@ -24,11 +26,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-temporal-harvest-temporal-harvest.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-harvest-temporal-harvest.svg]]
 
 
 # Temporal Harvest
@@ -46,12 +45,15 @@ The concept has evolved from isolated incidents into a subject of serious academ
 ## Historical Manifestations
 
 ### The Chrono Gardens Incident (15 years ago)
+
 The first major documented Temporal Harvest occurred in what is now known as the Chrono Gardens district. Residents reported that certain areas of their neighborhood began experiencing time at different rates - some flowers bloomed and died in minutes while others remained frozen in perfect stasis for months. The effect lasted for three weeks before gradually normalizing.
 
 ### The Age Storms (8 years ago)
+
 A series of temporal disturbances swept through the merchant quarter, causing rapid aging and youth reversals among affected individuals. Some merchants aged decades in hours, while others reverted to childhood. Most effects reversed themselves within days, but some changes proved permanent.
 
 ### The Echo Market (3 years ago)
+
 A portion of the main marketplace became temporally unstable, creating "time echoes" where the same events repeated multiple times simultaneously. Shoppers could observe the same transaction occurring at different temporal rates in overlapping timestreams.
 
 ## Theoretical Framework
@@ -83,18 +85,21 @@ If the Temporal Harvest can be controlled or predicted, potential applications i
 ## Observable Effects
 
 ### Environmental Changes
+
 - Areas where vegetation grows at accelerated or decelerated rates
 - Water that flows at different speeds in seemingly identical conditions
 - Crystals that pulse with temporal energy, becoming brighter or dimmer based on time flow
 - Architecture that shows signs of rapid aging or temporal preservation
 
 ### Biological Effects
+
 - Creatures experiencing altered aging rates within affected zones
 - Memory disorders where individuals remember events that haven't happened yet or forget recent experiences
 - Temporal vertigo - disorientation caused by exposure to multiple time rates simultaneously
 - Chronic temporal displacement syndrome in individuals repeatedly exposed to harvest effects
 
 ### Magical Phenomena
+
 - Spells that last longer or shorter than expected
 - Magic items that recharge at unusual rates
 - Divination magic producing visions of multiple possible timelines simultaneously
@@ -103,6 +108,7 @@ If the Temporal Harvest can be controlled or predicted, potential applications i
 ## Current Research
 
 ### The Temporal Studies Consortium
+
 A collaborative effort between multiple institutions studying the Temporal Harvest phenomenon:
 
 **Research Goals:**
@@ -131,18 +137,21 @@ Managed by **Logic-Keeper Marcus Causality**, this group works to prevent tempor
 ## Dangers and Risks
 
 ### Individual Risks
+
 - **Temporal Displacement**: Being moved forward or backward in time
 - **Aging Acceleration**: Rapid aging that cannot be reversed
 - **Memory Fragmentation**: Losing coherent sense of personal timeline
 - **Causal Feedback**: Being caught in loops of cause and effect
 
 ### Societal Risks
+
 - **Economic Disruption**: Trade and commerce affected by unpredictable time zones
 - **Legal Complications**: Determining responsibility for actions taken under temporal influence
 - **Social Fragmentation**: Communities divided by different temporal experiences
 - **Infrastructure Damage**: Buildings and systems failing due to temporal stress
 
 ### Existential Risks
+
 - **Timeline Collapse**: Possibility that excessive harvesting could damage the fundamental structure of time
 - **Paradox Cascades**: Chain reactions of temporal contradictions that could unravel reality
 - **External Attention**: Temporal disturbances might attract hostile entities from other dimensions
@@ -160,12 +169,14 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 ## Key Figures
 
 ### Researchers and Experts
+
 - **Chronarch Vera Timeweaver**: Leading theorist on temporal cultivation
 - **The Temporal Council**: Anonymous group of practitioners who may actually be conducting harvest operations
 - **Oracle Flowing-Future**: Claims to receive visions from multiple possible timelines
 - **Engineer-Mage Tesla Clockwork**: Develops technological approaches to temporal study
 
 ### Affected Individuals
+
 - **The Time-Lost Citizens**: Individuals permanently displaced from their original timelines
 - **Harvest Survivors**: Those who lived through major temporal events and retain unusual abilities
 - **The Chronic Displaced**: People who regularly experience temporal anomalies
@@ -173,18 +184,21 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 ## Adventure Opportunities
 
 ### Investigation Scenarios
+
 - Researching the cause of increasing temporal disturbances
 - Tracking down individuals who may be conducting illegal temporal experiments
 - Exploring areas where major harvest events occurred to gather evidence
 - Interviewing affected individuals to understand the phenomenon
 
 ### Action Scenarios
+
 - Rescuing individuals trapped in temporal anomalies
 - Preventing temporal catastrophes that could affect the entire city
 - Confronting entities that may be causing or exploiting harvest events
 - Racing against time (literally) to prevent paradoxes or timeline collapses
 
 ### Ethical Dilemmas
+
 - Deciding whether to use temporal powers that might have negative consequences
 - Balancing the benefits of temporal research against the risks to society
 - Determining responsibility for actions taken under temporal influence
@@ -212,7 +226,7 @@ Use the Temporal Harvest to:
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Old Valdris]]
+- [[12_Research/D&D_References/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -224,6 +238,10 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Harvest]]
+- [[12_Research/D&D_References/Temporal Harvest]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

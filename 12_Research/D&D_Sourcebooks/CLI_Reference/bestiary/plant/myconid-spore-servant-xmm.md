@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-spore-servant-xmm-myconid-spore-servant-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/myconid-spore-servant-xmm|Myconid Spore Servant]]
+# [[myconid-spore-servant-xmm|Myconid Spore Servant]]
 *Source: Monster Manual (2024) p. 223*  
 
 Spore servants are corpses that have been overgrown and reanimated by a myconid sovereign's spores. These fungus-infested bodies are extensions of a myconid sovereign and obey its will.
@@ -57,9 +57,9 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., passive Perception 8"
 "languages": "telepathy 30 ft."
 "cr": "1"

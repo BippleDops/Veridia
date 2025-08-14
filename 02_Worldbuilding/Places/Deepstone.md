@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deepstone-deepstone.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deepstone-deepstone.svg]]
 
 
 ## Overview
@@ -62,12 +58,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deepstone]]
+- [[12_Research/D&D_References/Deepstone]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Current Riders Guild]]
-- [[02_Worldbuilding/Places/Memoriam]]
+- [[12_Research/D&D_References/Current Riders Guild]]
+- [[12_Research/D&D_References/Memoriam]]

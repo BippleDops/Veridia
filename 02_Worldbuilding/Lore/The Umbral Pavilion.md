@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
+- [[The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]
+- [[12_Research/D&D_References/The Shadow Duchess Duel]]
 
 ## Player-Facing Summary
 

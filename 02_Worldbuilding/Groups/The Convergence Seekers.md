@@ -14,38 +14,35 @@ world: Both
 ---
 
 
-
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-convergence-seekers-the-convergence-seekers.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-convergence-seekers-the-convergence-seekers.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[Quest - The Convergence Crisis]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[02_Worldbuilding/Items/The Tidal Shard of Memory]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
-- [[02_Worldbuilding/Places/The Threshold Chambers]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Deepwatch Guard]]
+- [[The Liminal Trading Company]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]
+- [[The Resonance Forge Hammer]]
+- [[The Tidal Shard of Memory]]
+- [[Emperor Thalassius the Wise]]
+- [[Oracle Nerida the Tidereader]]
+- [[Order of the Shattered Crown]]
+- [[The Bloodline Carrier]]
+- [[The Threshold Chambers]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Pretender's Crown]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

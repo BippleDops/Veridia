@@ -25,9 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg]]
 
 
 # The Crow's Perch - Spymaster's Sanctum
@@ -299,10 +297,10 @@ The Crow's network connects to numerous other locations and organizations:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Investigation Procedures]]
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Places/Pressure's End]]
+- [[Investigation Procedures]]
+- [[Admiral Thorne Blackwater]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -324,6 +322,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Spymaster Crow]]
+- [[Spymaster Crow]]
 
 <!-- enriched: true -->

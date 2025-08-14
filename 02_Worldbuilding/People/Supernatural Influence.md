@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[Aurelius Goldwave]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[Aurelius Goldwave]]
 
 ## Player-Facing Summary
 

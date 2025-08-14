@@ -12,9 +12,6 @@ updated: '2025-08-13T01:18:34.680206+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -41,11 +38,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown]]
+- [[12_Research/D&D_References/The Crown]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
-- [[02_Worldbuilding/People/The Senator]]
-- [[02_Worldbuilding/People/The Siren]]
+- [[12_Research/D&D_References/The Crown]]
+- [[12_Research/D&D_References/The Senator]]
+- [[12_Research/D&D_References/The Siren]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

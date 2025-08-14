@@ -24,7 +24,7 @@ updated: '2025-08-12T23:37:35.512614'
 world: Both
 ---
 
-# [[3-Mechanics\CLI\bestiary\fiend/gnoll-pack-lord-xmm|Gnoll Pack Lord]]
+# [[gnoll-pack-lord-xmm|Gnoll Pack Lord]]
 *Source: Monster Manual (2024) p. 140*  
 
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
@@ -73,13 +73,13 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Javelin"
   - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-      \ that has the Rampage [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]].\
-      \ The target can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]]\
+      \ that has the Rampage [[bonus-action-xphb|Bonus Action]].\
+      \ The target can take a [[reaction-xphb|Reaction]]\
       \ to make one melee attack."
     "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]],\
-      \ the gnoll moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "Immediately after dealing damage to a creature that is already [[bloodied-xphb|Bloodied]],\
+      \ the gnoll moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Bone Whip attack."
     "name": "Rampage (2/Day)"
 "source":

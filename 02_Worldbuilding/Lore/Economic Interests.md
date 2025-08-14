@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[12_Research/D&D_References/Alternative-Path-Fled-City]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[12_Research/D&D_References/Alternative-Path-Fled-City]]
 
 ## Player-Facing Summary
 

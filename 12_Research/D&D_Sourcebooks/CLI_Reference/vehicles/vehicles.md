@@ -16,10 +16,10 @@ status: active
 
 # Index of Vehicles
 
-- [[./apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
-- [[./astral-brig-mtf|Astral Brig]]
-- [[./astral-skiff-mtf|Astral Skiff]]
-- [[./planar-raider-mtf|Planar Raider]]
+- [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
+- [[astral-brig-mtf|Astral Brig]]
+- [[astral-skiff-mtf|Astral Skiff]]
+- [[planar-raider-mtf|Planar Raider]]
 
 ## Player-Facing Summary
 

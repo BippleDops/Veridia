@@ -15,21 +15,18 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Intelligence Services]]
+- [[Intelligence Services]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
-- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[Shadow Ambush - Optional]]
+- [[Tenebrarum Ambassadors]]
 
 ## Player-Facing Summary
 

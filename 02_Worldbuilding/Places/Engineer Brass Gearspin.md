@@ -24,8 +24,6 @@ world: Aquabyssos
 ---
 
 
-
-
 # The Brass Works - Engineer Gearspin's Domain
 
 *A sprawling mechanical workshop where the impossible becomes inevitable through brass, steam, and relentless innovation*
@@ -384,9 +382,9 @@ The Brass Works connects to numerous important elements throughout Aquabyssos an
 
 ## Connections
 
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[02_Worldbuilding/Places/The Wandering Atoll]]
-- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[Captain Garrett Stormcutter]]
+- [[The Wandering Atoll]]
+- [[The Lock Saboteur]]
 
 ## Player-Facing Summary
 
@@ -408,6 +406,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Engineer Brass Gearspin]]
+- [[Engineer Brass Gearspin]]
 
 <!-- enriched: true -->

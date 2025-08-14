@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/animated-drow-statue-oota|Animated Drow Statue]]
+# [[animated-drow-statue-oota|Animated Drow Statue]]
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -49,19 +49,19 @@ world: Both
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Deafened|deafened]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The statue is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]]\
-      \ while in the area of an [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic field]].\
-      \ If targeted by [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]],\
+  - "desc": "The statue is [[conditions#Incapacitated|incapacitated]]\
+      \ while in the area of an [[antimagic-field-xphb|antimagic field]].\
+      \ If targeted by [[dispel-magic-xphb|dispel magic]],\
       \ the statue must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]\
+      \ spell save DC or fall [[conditions#Unconscious|unconscious]]\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the statue remains motionless, it is indistinguishable from a normal\

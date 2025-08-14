@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-memory-merchants-memory-merchants.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-memory-merchants-memory-merchants.svg]]
 
 
 ## Overview
@@ -64,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Memory Merchants]]
+- [[Memory Merchants]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[Aurelius Goldwave]]
+- [[Find the Grief Bomb]]

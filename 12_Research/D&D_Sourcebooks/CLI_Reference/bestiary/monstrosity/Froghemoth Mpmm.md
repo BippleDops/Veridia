@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-froghemoth-mpmm-froghemoth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/froghemoth-mpmm|Froghemoth]]
+# [[froghemoth-mpmm|Froghemoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*  
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
@@ -38,7 +38,7 @@ Froghemoths are creatures not of this world. A journal purportedly written long 
 
 Every few years, a froghemoth can lay a fertile egg without mating. The froghemoth cares nothing for its egg and might eat the hatchling. A young froghemoth's survival thus depends on its parent leaving it behind in indifference. A newborn froghemoth grows to full size over a period of months by indiscriminately preying on other creatures in its swampy domain. It learns to hide its enormous body in murky pools, keeping only its eyestalk above water to watch for passing creatures. When food comes within reach, the froghemoth erupts from its pool, tentacles and tongue flailing. It can grab several targets at once; it wraps its tongue around one and pulls it in to be devoured while holding the rest at bay.
 
-If [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
+If [[bullywug-warrior-xmm|bullywugs]] come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
 
 ```statblock
 "name": "Froghemoth (MPMM)"
@@ -62,9 +62,9 @@ If [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] come across
   - "constitution": !!int "9"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "fire, lightning"
 "senses": "darkvision 60 ft., passive Perception 19"
@@ -83,20 +83,20 @@ If [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] come across
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22\
       \ (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium\
-      \ or smaller creature. A swallowed creature is [[/03_Mechanics/CLI/conditions#Blinded|blinded]]\
-      \ and [[/03_Mechanics/CLI/conditions#Restrained|restrained]], has total cover\
+      \ or smaller creature. A swallowed creature is [[conditions#Blinded|blinded]]\
+      \ and [[conditions#Restrained|restrained]], has total cover\
       \ against attacks and other effects outside the froghemoth, and takes 10 (3d6)\
       \ acid damage at the start of each of the froghemoth's turns.\n\nThe froghemoth's\
       \ gullet can hold up to two creatures at a time. If the froghemoth takes 20\
       \ damage or more on a single turn from a creature inside it, the froghemoth\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
-      \ or regurgitate all swallowed creatures, each of which falls [[/03_Mechanics/CLI/conditions#Prone|prone]]\
+      \ or regurgitate all swallowed creatures, each of which falls [[conditions#Prone|prone]]\
       \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
-      \ creature is no longer [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
-      \ by it and can escape from the corpse using 10 feet of movement, exiting [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ creature is no longer [[conditions#Restrained|restrained]]\
+      \ by it and can escape from the corpse using 10 feet of movement, exiting [[conditions#Prone|prone]]."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
-      \ (3d8 + 6) bludgeoning damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (3d8 + 6) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
       \ the froghemoth can't use this tentacle on another target. The froghemoth has\
       \ four tentacles."

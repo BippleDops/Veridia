@@ -1,14 +1,14 @@
 ---
-capital: '[[02_Worldbuilding/Places/Goldspire Port]]'
+capital: '[[Goldspire Port]]'
 created: '2025-08-09'
 danger_level: Moderate
 government: Merchant Confederacy
 leader: Trade Prince Aurelius Gilt
 population: 2500000
 related_entities:
-- '[[02_Worldbuilding/Quests/Economic Warfare]]'
-- '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
-- '[[02_Worldbuilding/Places/The Azure Coast]]'
+- '[[Economic Warfare]]'
+- '[[Zephyr Goldwhisper]]'
+- '[[The Azure Coast]]'
 relationship_with_aethermoor: Opportunistic Economic Partner
 specialties:
 - International Commerce
@@ -36,13 +36,8 @@ world: Beyond Aethermoor
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg]]
 
 
 # Goldspire Confederacy
@@ -50,9 +45,9 @@ world: Beyond Aethermoor
 
 ## Overview
 
-The Goldspire Confederacy represents one of [[02_Worldbuilding/Places/Aethermoor]]'s most significant foreign partners and potential threats - a maritime commercial empire built on trade networks, financial manipulation, and technological innovation. Located across the eastern ocean from [[02_Worldbuilding/Places/The Azure Coast]], this confederation of merchant city-states has transformed from a regional trading partner into a major international power with increasingly sophisticated methods of economic and political influence.
+The Goldspire Confederacy represents one of [[Aethermoor]]'s most significant foreign partners and potential threats - a maritime commercial empire built on trade networks, financial manipulation, and technological innovation. Located across the eastern ocean from [[The Azure Coast]], this confederation of merchant city-states has transformed from a regional trading partner into a major international power with increasingly sophisticated methods of economic and political influence.
 
-Led by the enigmatic Trade Prince Aurelius Gilt, the Confederacy operates on the principle that economic control is more effective than military conquest. Their recent involvement in [[02_Worldbuilding/Places/Aethermoor]]'s financial difficulties through [[02_Worldbuilding/Quests/Economic Warfare]] represents a new evolution in their expansion strategy - conquest through debt rather than force.
+Led by the enigmatic Trade Prince Aurelius Gilt, the Confederacy operates on the principle that economic control is more effective than military conquest. Their recent involvement in [[Aethermoor]]'s financial difficulties through [[Economic Warfare]] represents a new evolution in their expansion strategy - conquest through debt rather than force.
 
 ### Sensory Immersion: The Golden Reach
 
@@ -147,7 +142,7 @@ The Confederacy operates on explicitly commercial principles:
 **Early Relations**: Traditional trading partnership dating back centuries
 **Growing Influence**: Gradual increase in Confederate commercial presence
 **Financial Entanglement**: Aethermoor's increasing debt to Confederate lenders
-**Current Crisis**: [[02_Worldbuilding/Quests/Economic Warfare]] represents escalation to potential annexation
+**Current Crisis**: [[Economic Warfare]] represents escalation to potential annexation
 
 ### Economic Integration
 **Trade Volume**: 40% of Aethermoor's international commerce
@@ -157,7 +152,7 @@ The Confederacy operates on explicitly commercial principles:
 
 ### Political Influence
 **Diplomatic Pressure**: Confederate ambassadors wield disproportionate influence
-**Local Assets**: [[02_Worldbuilding/People/Zephyr Goldwhisper]] and other agents embedded in society
+**Local Assets**: [[Zephyr Goldwhisper]] and other agents embedded in society
 **Media Manipulation**: Confederate-funded publications shaping public opinion
 **Political Contributions**: Financial support for Confederate-friendly politicians
 
@@ -329,10 +324,10 @@ EOF < /dev/null
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Economic Warfare]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/The Green Death]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Economic Warfare]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[The Green Death]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -355,8 +350,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+- [[Goldspire Confederacy]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [[The Liminal Trading Company]]
+- [[The Void Watchers]]

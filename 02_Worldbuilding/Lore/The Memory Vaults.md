@@ -14,10 +14,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,11 +40,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[12_Research/D&D_References/The Bathyal Succession]]
+- [[12_Research/D&D_References/The Great Convergence Prophecies]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

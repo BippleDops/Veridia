@@ -14,26 +14,23 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-mourning-depths-the-mourning-depths.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-mourning-depths-the-mourning-depths.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location Index]]
+- [[Location Index]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/The Sorrowmaster]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
-- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[The Sorrowmaster]]
+- [[Abyssos Prime]]
+- [[Memory Farmers]]
+- [[Tethyan Hegemony]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]
 
 ## Player-Facing Summary
 

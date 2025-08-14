@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-current-flowmaster-deep-current-flowmaster.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-deep-current-flowmaster-deep-current-flowmaster.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Deep Current Flowmaster]]
+- [[12_Research/D&D_References/Deep Current Flowmaster]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Depth Market]]
+- [[12_Research/D&D_References/The Depth Market]]

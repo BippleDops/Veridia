@@ -24,12 +24,12 @@ world: Both
 
 Player characters can find a number of unusual magic items over the course of this adventure, including creations of the drow, the deep gnomes, and other inhabitants of the Underdark.
 
-- [[/03_Mechanics/CLI/items/dawnbringer-oota|Dawnbringer]]  
-- [[/03_Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota|Piwafwi (Cloak of Elvenkind)]]  
-- [[/03_Mechanics/CLI/items/piwafwi-of-fire-resistance-oota|Piwafwi of Fire Resistance]]  
-- [[/03_Mechanics/CLI/items/spell-gem-oota|Spell Gem]]  
-- [[/03_Mechanics/CLI/items/stonespeaker-crystal-oota|Stonespeaker Crystal]]  
-- [[/03_Mechanics/CLI/items/wand-of-viscid-globs-oota|Wand of Viscid Globs]]
+- [[dawnbringer-oota|Dawnbringer]]  
+- [[piwafwi-cloak-of-elvenkind-oota|Piwafwi (Cloak of Elvenkind)]]  
+- [[piwafwi-of-fire-resistance-oota|Piwafwi of Fire Resistance]]  
+- [[spell-gem-oota|Spell Gem]]  
+- [[stonespeaker-crystal-oota|Stonespeaker Crystal]]  
+- [[wand-of-viscid-globs-oota|Wand of Viscid Globs]]
 
 ## Player-Facing Summary
 

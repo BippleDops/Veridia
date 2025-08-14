@@ -4,6 +4,8 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- combat
+- aquatic
 - aquabyssos
 - complete
 - content/lore
@@ -20,9 +22,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Tide Turner
 
 *The legendary figure prophesied to master the ocean's rhythm and change Aquabyssos's destiny*
@@ -34,6 +33,7 @@ The Tide Turner is both a historical figure and a prophetic ideal - representing
 ## The Prophetic Foundation
 
 ### Ancient Tethyan Prophecies
+
 **The Scroll of Deep Currents (1,247 BGD)**
 The earliest mention of the Tide Turner appears in ancient Tethyan religious texts, specifically in the **Scroll of Deep Currents**, discovered in the ruins of the **Temple of Perpetual Tides**:
 
@@ -50,6 +50,7 @@ The prophecy outlines seven signs that will herald the arrival of the true Tide 
 7. **Unity Catalyst**: Power to unite disparate underwater communities and species
 
 ### The Deepest Teachings
+
 **The Tidal Mysteries**
 According to the **Order of the Eternal Current**, a secretive religious organization, the Tide Turner is not just a person but a cosmic role - someone chosen by the ocean itself to maintain the balance between all aquatic life. The order maintains that the ocean is a conscious entity, and the Tide Turner serves as its voice and hand in the physical world.
 
@@ -59,6 +60,7 @@ Tethyan scholars theorized that the Tide Turner appears cyclically, roughly ever
 ## Historical Tide Turners
 
 ### Pelagic the Current-Walker (1,847-1,834 BGD)
+
 **The First Tide Turner**
 Pelagic the Current-Walker was the first documented individual to bear the title Tide Turner. During the **War of Dry Lands**, when surface kingdoms attempted to drain parts of the ocean to create new territories, Pelagic rallied the scattered sea peoples and led them in the **Great Rising** - a coordinated effort that created massive tsunamis, repelling the land-dwellers and establishing the ocean's inviolability.
 
@@ -73,6 +75,7 @@ Pelagic the Current-Walker was the first documented individual to bear the title
 Pelagic's techniques for large-scale tidal manipulation form the basis of modern **Tidal Engineering**. The **Pelagic Protocols** - his guidelines for ethical use of tidal power - are still taught in Aquabyssos magical academies.
 
 ### Abyssal the Deep-Touched (634-589 BGD)
+
 **The Tide Turner of the Deep Places**
 During the **Age of Surface Wars**, when surface civilizations were too distracted by conflict to threaten the seas, Abyssal the Deep-Touched focused inward, using tidal mastery to explore the deepest ocean trenches and establish contact with the alien intelligences dwelling there.
 
@@ -87,6 +90,7 @@ During the **Age of Surface Wars**, when surface civilizations were too distract
 Abyssal's contact with Deep Dwellers changed him fundamentally, and his later years were marked by increasingly alien behavior. Some scholars argue he was corrupted by deep-sea influences, while others maintain he achieved a higher form of consciousness. His final fate remains unknown - he simply vanished into the deepest trench, leaving behind only cryptic writings about "the true current that flows beneath all others."
 
 ### Marina the Unifier (234-187 BGD)
+
 **The Tide Turner of Unity**
 Marina the Unifier appeared during the **Century of Scattered Currents**, when oceanic peoples had fractured into hundreds of competing tribes and city-states. Using her mastery of tidal forces, she literally reshaped coastlines and current patterns to force cooperation, creating geographical necessities for unity.
 
@@ -106,6 +110,7 @@ Marina vanished at the height of her power, leaving behind a message that she ha
 ## The Modern Era
 
 ### The Search for the New Tide Turner
+
 **Post-Drowning Expectations**
 Following the **Great Drowning** in 1 AGD, many Aquabyssos citizens expected a new Tide Turner to emerge and help rebuild civilization. When no clear candidate appeared, various interpretations developed:
 
@@ -116,6 +121,7 @@ Following the **Great Drowning** in 1 AGD, many Aquabyssos citizens expected a n
 **Evolved Role**: A third group argues that modern Aquabyssos has evolved beyond needing a single Tide Turner, instead requiring collective tidal mastery.
 
 ### Contemporary Claimants
+
 **The Pretender Movement**
 Several individuals have claimed to be the prophesied Tide Turner, creating political and religious divisions:
 
@@ -129,6 +135,7 @@ A academic researcher who claimed to have decoded the "true meaning" of the anci
 A enigmatic figure who appears randomly throughout Aquabyssos, demonstrating remarkable tidal abilities before vanishing again. Flow has never claimed to be the Tide Turner but displays many prophetic abilities. They communicate only through water-based symbols and seem to exist partially outside normal time flow.
 
 ### The Council of Depths' Position
+
 **Official Stance**
 The **Council of Depths** maintains careful neutrality regarding Tide Turner claimants, stating that "the ocean will make its choice known when the time is right." However, internal documents reveal significant concern about the potential for false Tide Turners to destabilize society or misuse tidal forces.
 
@@ -143,6 +150,7 @@ A classified government body tasked with:
 ## Tidal Magic and Abilities
 
 ### Core Powers
+
 **Traditional Tide Turner Abilities**
 
 **Macro-Tidal Control**
@@ -167,6 +175,7 @@ A classified government body tasked with:
 - **Depth Dreams**: Receiving visions and knowledge while in deep meditative states
 
 ### Advanced Techniques
+
 **Legendary Abilities**
 
 **The Great Turning**
@@ -196,6 +205,7 @@ The theoretical final evolution of Tide Turner abilities - becoming one with the
 ## Cultural Impact
 
 ### Religious Significance
+
 **The Church of Tidal Harmony**
 The primary religious organization dedicated to Tide Turner worship and preparation:
 
@@ -221,6 +231,7 @@ The primary religious organization dedicated to Tide Turner worship and preparat
 - **Deep Hermits**: Unknown number of solitary practitioners in remote locations
 
 ### Social Movements
+
 **Tide Turner Preparation Societies**
 Various organizations dedicated to preparing society for the next Tide Turner's arrival:
 
@@ -249,6 +260,7 @@ An activist group believing the next Tide Turner should actively reshape society
 - **Direct Action**: Sometimes illegal activities to "prepare the way" for the Tide Turner
 
 ### Artistic Expression
+
 **Tide Turner in Arts and Literature**
 
 **Epic Poetry**
@@ -273,6 +285,7 @@ The **Tidal Sagas** are epic poems chronicling the deeds of historical Tide Turn
 ## Economic Systems
 
 ### Tidal Economics
+
 **Current-Based Commerce**
 The influence of Tide Turner philosophy has shaped Aquabyssos's economic systems:
 
@@ -293,6 +306,7 @@ A special economic fund maintained by the **Council of Depths**:
 - **Current Value**: Estimated at 847 million **Deep Crowns** plus material resources
 
 ### Tidal Guilds
+
 **Professional Organizations**
 
 **The Guild of Tidal Engineers**
@@ -319,6 +333,7 @@ A special economic fund maintained by the **Council of Depths**:
 ## Secret Aspects
 
 ### The True Prophecy
+
 **Hidden Verses**
 The complete prophecy of the Tide Turner contains classified sections known only to the **Order of the Eternal Current** and select government officials:
 
@@ -329,6 +344,7 @@ The complete prophecy of the Tide Turner contains classified sections known only
 *"The last Tide Turner shall not come to rule but to sacrifice. When the waters themselves are dying and the great currents slow to stillness, one shall give their life to become the eternal current, preserving the flow for all future generations. In their sacrifice, they shall achieve unity with the ocean itself, becoming both tide and turner, flow and director, water and will combined."*
 
 ### The Tide Turner Council
+
 **Secret Government Advisory Body**
 A classified committee within the **Council of Depths** that monitors for potential Tide Turner manifestations:
 
@@ -347,6 +363,7 @@ A classified committee within the **Council of Depths** that monitors for potent
 - **Contingency Planning**: Strategies for various Tide Turner manifestation scenarios
 
 ### The Deep Current Society
+
 **Ancient Secret Organization**
 A secretive group claiming direct lineage to the first Tide Turner's inner circle:
 
@@ -364,6 +381,7 @@ A secretive group claiming direct lineage to the first Tide Turner's inner circl
 - Emergency protocols for societal collapse scenarios
 
 ### The Corrupted Current
+
 **Dark Mirror Organization**
 A malevolent group seeking to prevent or corrupt the next Tide Turner:
 
@@ -383,32 +401,41 @@ A malevolent group seeking to prevent or corrupt the next Tide Turner:
 ## Adventure Hooks
 
 ### The False Turner
+
 A charismatic individual claiming to be the prophesied Tide Turner has gained a large following and is demanding political power. The characters must investigate their claims while navigating the political and religious implications of potentially opposing a genuine Tide Turner or exposing a fraud.
 
 ### The Corrupted Current
+
 Tidal patterns throughout Aquabyssos have begun acting erratically, and some blame a "corrupted Tide Turner" who is deliberately disrupting natural flows. The characters must investigate these disturbances while dealing with the environmental and social chaos they create.
 
 ### The Deep Archive Expedition
+
 An ancient archive containing complete information about the Tide Turner prophecies has been discovered in the deepest ocean trenches. The characters must mount a dangerous expedition to retrieve this knowledge while competing with other factions who want to control or destroy it.
 
 ### The Bloodline Hunt
+
 Genetic research has identified potential descendants of historical Tide Turners, and various factions are attempting to locate and control these individuals. The characters become involved in protecting or investigating these potential candidates while navigating complex political and ethical issues.
 
 ### The Tidal Weapon
+
 Someone has developed technology or magic capable of artificially creating Tide Turner-level abilities, and various factions are seeking to control this power. The characters must prevent this artificial power from falling into the wrong hands while dealing with the implications of manufactured divine authority.
 
 ### The Missing Turner
+
 Historical evidence suggests that one of the previous Tide Turners may still be alive in some form, possibly held in stasis or transformed by their power. The characters must locate this ancient figure while dealing with the political chaos their return might cause.
 
 ### The Prophecy Race
+
 Multiple individuals have begun manifesting Tide Turner abilities simultaneously, suggesting the prophecy may be fulfilled by a group rather than an individual. The characters must help these potential Turners learn to work together while protecting them from those who would use or destroy them.
 
 ### The Deep Calling
+
 Something in the deepest ocean trenches is calling to individuals with tidal magic abilities, and some who answer this call return changed or don't return at all. The characters must investigate this phenomenon while resisting its influence on any tidal magic users in their party.
 
 ## Mechanical Implementation
 
 ### Tide Turner Bloodline
+
 **Character Background Option**
 
 **Requirements:**
@@ -430,6 +457,7 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 - **Magical Instability**: Potential for power surges during strong tidal events
 
 ### Tidal Magic System
+
 **Specialized Spellcasting**
 
 **Tidal Points**: Characters with tidal abilities use Tidal Points instead of or in addition to spell slots:
@@ -445,6 +473,7 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 - **Current Channeling**: Spells can be "carried" by water currents to affect distant targets
 
 ### Tide Turner Recognition System
+
 **Campaign Mechanics**
 
 **Prophetic Signs**: Characters can work toward fulfilling the Seven Signs of Turning:
@@ -470,21 +499,21 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 
 ## Connected References
 
-- [[02_Worldbuilding/Lore/Pelagic the Current-Walker]] - First historical Tide Turner
+- [[12_Research/D&D_References/Pelagic the Current-Walker]] - First historical Tide Turner
 - [[Abyssal the Deep-Touched]] - Deep ocean explorer Tide Turner
-- [[02_Worldbuilding/Lore/Marina the Unifier]] - Political unity Tide Turner
-- [[02_Worldbuilding/Places/Temple of Perpetual Tides]] - Source of original prophecies
-- [[02_Worldbuilding/Groups/Orders/Order of the Eternal Current]] - Secret religious organization
+- [[12_Research/D&D_References/Marina the Unifier]] - Political unity Tide Turner
+- [[12_Research/D&D_References/Temple of Perpetual Tides]] - Source of original prophecies
+- [[12_Research/D&D_References/Order of the Eternal Current]] - Secret religious organization
 - [[Church of Tidal Harmony]] - Primary Tide Turner religious group
-- [[02_Worldbuilding/Lore/Council of Depths]] - Government body managing Tide Turner issues
-- [[02_Worldbuilding/Lore/Deep Mother]] - Potential corrupting influence on Tide Turners
-- [[02_Worldbuilding/Lore/Tidal Engineering]] - Technical applications of Tide Turner principles
-- [[02_Worldbuilding/Lore/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
-- [[02_Worldbuilding/Lore/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
-- [[02_Worldbuilding/Lore/The Corrupted Current]] - Dark organization opposing Tide Turners
-- [[02_Worldbuilding/Lore/Tide Turner Investigation Committee]] - Government monitoring body
-- [[02_Worldbuilding/Lore/The Ready Current]] - Social preparation movement
-- [[02_Worldbuilding/Lore/Tidal Reserve]] - Economic fund for supporting future Tide Turner
+- [[12_Research/D&D_References/Council of Depths]] - Government body managing Tide Turner issues
+- [[12_Research/D&D_References/Deep Mother]] - Potential corrupting influence on Tide Turners
+- [[12_Research/D&D_References/Tidal Engineering]] - Technical applications of Tide Turner principles
+- [[12_Research/D&D_References/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
+- [[12_Research/D&D_References/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
+- [[12_Research/D&D_References/The Corrupted Current]] - Dark organization opposing Tide Turners
+- [[12_Research/D&D_References/Tide Turner Investigation Committee]] - Government monitoring body
+- [[12_Research/D&D_References/The Ready Current]] - Social preparation movement
+- [[12_Research/D&D_References/Tidal Reserve]] - Economic fund for supporting future Tide Turner
 
 ## Long-term Campaign Implications
 
@@ -502,7 +531,7 @@ The Tide Turner serves as both inspiration and cautionary tale, representing the
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Tide Turner's Trident]]
+- [[12_Research/D&D_References/Tide Turner's Trident]]
 
 ## Player-Facing Summary
 
@@ -520,5 +549,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[12_Research/D&D_References/Deep Mother]]
+- [[12_Research/D&D_References/Deep Mother]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]

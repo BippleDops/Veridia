@@ -15,11 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-kraken.svg)
-
 
 
 ## Overview
@@ -46,6 +43,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Kraken]]
+- [[12_Research/D&D_References/Kraken]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

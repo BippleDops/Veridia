@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- quest
 - aethermoor
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-diplomatic-quarter-the-diplomatic-quarter.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-diplomatic-quarter-the-diplomatic-quarter.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Diplomatic Quarter]]
+- [[12_Research/D&D_References/The Diplomatic Quarter]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[12_Research/D&D_Statblocks/Quest - Foreign Interests]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

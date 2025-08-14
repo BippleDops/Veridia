@@ -16,11 +16,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-seafoam-the-neutral-keeper-seafoam-the-neutral.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-seafoam-the-neutral-keeper-seafoam-the-neutral.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Keeper Seafoam the Neutral]]
+- [[Keeper Seafoam the Neutral]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]

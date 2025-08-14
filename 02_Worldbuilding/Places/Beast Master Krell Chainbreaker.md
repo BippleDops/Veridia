@@ -20,13 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-beast-master-krell-chainbreaker-beast-master-krell-chainbreaker.svg]]
 
 
 # Beast Master Krell Chainbreaker
@@ -100,9 +95,9 @@ Krell should be portrayed as intelligent but completely amoral. His facilities a
 
 ## Connections
 
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/Places/Pressure's End]]
-- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
+- [[The Cerulean Trench]]
 
 
 ## History
@@ -150,6 +145,6 @@ Legends speak of Beast Master Krell Chainbreaker as a nexus where past and prese
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
+- [[Beast Master Krell Chainbreaker]]
 
 <!-- enriched: true -->

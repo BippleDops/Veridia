@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[12_Research/D&D_Statblocks/Temporal Navigation]]
 
 ## Player-Facing Summary
 

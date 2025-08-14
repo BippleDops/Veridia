@@ -14,32 +14,29 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-vault-breach-v1-vault-breach.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-vault-breach-v1-vault-breach.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[Quest - Divine Intervention]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[02_Worldbuilding/People/The Nameless Auditor]]
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Deepmind]]
-- [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[02_Worldbuilding/Places/The Primordial Vaults]]
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[Deep Mother]]
+- [[Emperor Thalassius the Wise]]
+- [[The Nameless Auditor]]
+- [[Coral Throne Syndicate]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Parliament of Echoes]]
+- [[The Deepmind]]
+- [[The Hadal Depths]]
+- [[The Primordial Vaults]]
+- [[Quest - Divine Intervention]]
+- [[Quest - The Convergence Crisis]]
+- [[The Depth Accords]]
 
 ## Player-Facing Summary
 

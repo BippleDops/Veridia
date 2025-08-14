@@ -20,13 +20,8 @@ world: Both
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-merchants-guild-merchants-guild.svg)
-
-
-
 
 
 # Merchants Guild
@@ -39,13 +34,13 @@ The Merchants Guild is a powerful and influential guild that controls all of the
 
 ## GM Notes
 - The guild is led by a council of wealthy merchants, including Lady Seraphina Goldleaf.
-- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md|02 Worldbuilding/Groups/Thieves Guild.md]] and the [[02_Worldbuilding/Groups/The Crimson Fleet]].
+- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md|02 Worldbuilding/Groups/Thieves Guild.md]] and the [[The Crimson Fleet]].
 - The guild is a potential patron for the party, but they will expect a hefty price for their services.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[Shadow Surgeons Collective]]
 
 ## Player-Facing Summary
 

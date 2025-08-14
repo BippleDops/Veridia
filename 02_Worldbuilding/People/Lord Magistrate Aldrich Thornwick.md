@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-lord-magistrate-aldrich-thornwick-lord-magistrate-aldrich-thornwick.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-magistrate-aldrich-thornwick-lord-magistrate-aldrich-thornwick.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Lord Magistrate Aldrich Thornwick]]
+- [[Lord Magistrate Aldrich Thornwick]]
 
 <!-- enriched: true -->

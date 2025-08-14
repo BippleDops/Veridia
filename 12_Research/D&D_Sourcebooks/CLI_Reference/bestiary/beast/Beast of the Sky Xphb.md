@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-sky-xphb-beast-of-the-sky-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/beast-of-the-sky-xphb|Beast of the Sky]]
+# [[beast-of-the-sky-xphb|Beast of the Sky]]
 *Source: Player's Handbook (2024) p. 124*  
 
 ```statblock
@@ -48,7 +48,7 @@ world: Both
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The beast doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
+  - "desc": "The beast doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\

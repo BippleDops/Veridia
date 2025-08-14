@@ -11,6 +11,9 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- quest
+- crystal-enhanced
+- shadow-touched
 - aquabyssos
 - complete
 - content/lore
@@ -21,9 +24,6 @@ type: Lore
 updated: '2025-08-13T12:34:16.190132+00:00'
 world: Aquabyssos
 ---
-
-
-
 
 
 # The Forgotten Archive
@@ -261,6 +261,7 @@ Guardians of the most dangerous knowledge:
 ## Notable Collections
 
 ### The Genocide Texts
+
 Complete records of erased civilizations:
 - **The Singing People**: Erased for knowing the true names of stars
 - **The Memory Weavers**: Destroyed for remembering the future
@@ -326,35 +327,43 @@ The greatest irony: the Archive exists because it has been forgotten by reality 
 ## Adventure Hooks
 
 ### The Erased Heir
+
 A noble family seeks proof that their lineage included another heir, erased from history by magical means. The proof exists in the Archive, but retrieving it might unravel the current political structure.
 
 ### The Forgotten God
+
 A dead religion's last believer seeks their god's true name in the Archive to resurrect them. But the god was erased for good reason—they were too dangerous to exist.
 
 ### The Censored Cure
+
 A plague ravages the land, and the cure was deliberately destroyed centuries ago because it required unconscionable acts. The party must decide if the cure is worth its terrible cost.
 
 ### The Memory Thief
+
 Someone is stealing memories from the Archive and selling them, causing people to remember things that were erased. Reality is beginning to contradict itself.
 
 ### The Paradox Scholar
+
 A researcher in the Archive has discovered information that proves the current reality is false. They need help escaping with this knowledge, but revealing it might unmake existence.
 
 ## Access Rituals
 
 ### The Forgetting Door
+
 1. Find a door everyone has forgotten exists
 2. Forget why you want to enter
 3. Walk backward through it
 4. Don't remember entering
 
 ### The Burning Path
+
 1. Destroy something precious to you
 2. Follow its smoke as it drifts nowhere
 3. Close your eyes at the threshold
 4. Open them in the Archive
 
 ### The Memory Trade
+
 1. Offer a memory to the void
 2. Receive a forgotten key
 3. Use it on a lock that doesn't exist
@@ -395,6 +404,7 @@ Remember: Some knowledge is forgotten for good reason.
 ---
 
 ## See Also
+
 - [[02_Worldbuilding/Lore/The Memory Trade|02 Worldbuilding/Lore/The Memory Trade]]
 - [[02_Worldbuilding/Groups/The Nameless Librarians|02 Worldbuilding/Groups/The Nameless Librarians]]
 - [[02_Worldbuilding/Places/Forgotten Doorways|02 Worldbuilding/Places/Forgotten Doorways]]
@@ -415,15 +425,19 @@ Legends speak of The Forgotten Archive as a nexus where past and present converg
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[02_Worldbuilding/Lore/Aetheron]]
-- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[02_Worldbuilding/Lore/The Final Choice]]
-- [[02_Worldbuilding/Lore/The Threshold]]
+- [[12_Research/D&D_References/The Parliament of Nobody]]
+- [[12_Research/D&D_References/Aetheron]]
+- [[12_Research/D&D_References/Comprehensive-World-Connection-Guide]]
+- [[12_Research/D&D_References/Evidence Chain Analysis]]
+- [[12_Research/D&D_References/Thalassius the Wise]]
+- [[12_Research/D&D_References/The Final Choice]]
+- [[12_Research/D&D_References/The Threshold]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

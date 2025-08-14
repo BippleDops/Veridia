@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-expedition-to-the-sunless-depths-expedition-to-the-sunless-depths.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-expedition-to-the-sunless-depths-expedition-to-the-sunless-depths.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Expedition to the Sunless Depths]]
+- [[Expedition to the Sunless Depths]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[The Depth Plague]]

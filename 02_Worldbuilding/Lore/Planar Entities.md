@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- crystal-enhanced
 - both
 - complete
 - content/lore
@@ -14,18 +15,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[12_Research/D&D_Statblocks/Stop the Crystal Festival Ritual]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Bubble Burst]]
-- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[12_Research/D&D_References/Bubble Burst]]
+- [[12_Research/D&D_Statblocks/Stop the Crystal Festival Ritual]]
 
 ## Player-Facing Summary
 

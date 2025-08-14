@@ -14,17 +14,14 @@ world: Aquabyssos
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[12_Research/D&D_References/The Depth Accords]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/The Depth Accords]]
+- [[12_Research/D&D_References/The Depth Accords]]
 
 ## Player-Facing Summary
 
@@ -45,3 +42,7 @@ Legends speak of Aquabyssos Royal Navy as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

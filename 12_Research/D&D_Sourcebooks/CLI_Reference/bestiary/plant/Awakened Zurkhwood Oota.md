@@ -27,14 +27,14 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/awakened-zurkhwood-oota|Awakened Zurkhwood]]
+# [[awakened-zurkhwood-oota|Awakened Zurkhwood]]
 *Source: Out of the Abyss p. 230*  
 
-This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[/03_Mechanics/CLI/spells/awaken-xphb|awaken]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
+This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [[awaken-xphb|awaken]] spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
 
 An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications:
 
-- The awakened zurkhwood has [[/03_Mechanics/CLI/senses#Darkvision|darkvision]] out to a range of 120 feet.  
+- The awakened zurkhwood has [[senses#Darkvision|darkvision]] out to a range of 120 feet.  
 - If the awakened zurkhwood was created by a myconid sovereign, it can't speak.  
 - The awakened zurkhwood's False Appearance feature allows it to be mistaken for a normal zurkhwood mushroom (instead of a tree).  
 

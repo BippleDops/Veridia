@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pressure-tube-system-pressure-tube-system.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[12_Research/D&D_Statblocks/Pressure Terminal]]
 
 ## Player-Facing Summary
 

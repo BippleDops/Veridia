@@ -20,9 +20,6 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # The Silent Rescue
 
 *"Sometimes the greatest victories are never heard."*
@@ -159,7 +156,7 @@ This mission emphasizes planning, stealth, and non-violent solutions over direct
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -171,6 +168,6 @@ Legends speak of The Silent Rescue as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Silent Rescue]]
+- [[The Silent Rescue]]
 
 <!-- enriched: true -->

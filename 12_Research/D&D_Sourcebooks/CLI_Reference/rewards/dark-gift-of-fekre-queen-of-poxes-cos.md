@@ -20,7 +20,7 @@ world: Both
 # Dark Gift of Fekre, Queen of Poxes
 *Charm*  
 
-Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [[/03_Mechanics/CLI/spells/contagion-xphb|contagion]] spell as an action. After it has been used three times, the dark gift vanishes.
+Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [[contagion-xphb|contagion]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift reeks of filth.
 

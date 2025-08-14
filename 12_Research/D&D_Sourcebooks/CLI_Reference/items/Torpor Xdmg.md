@@ -29,10 +29,10 @@ world: Both
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Poison|Poison]]
+- **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 600 gp
 
-A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] is halved while the creature is [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] in this way.
+A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for `4d6` hours. The creature's [[speed-xphb|Speed]] is halved while the creature is [[conditions#Poisoned|Poisoned]] in this way.
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
 

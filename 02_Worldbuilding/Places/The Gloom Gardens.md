@@ -7,6 +7,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- shadow-touched
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -22,10 +24,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-gloom-gardens-the-gloom-gardens.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-gloom-gardens-the-gloom-gardens.svg]]
 
 
 # The Gloom Gardens
@@ -49,15 +48,19 @@ Thin streams of mineral-rich water flow throughout the area, creating a network 
 ## Districts
 
 ### The Melancholy Meadows
+
 Open spaces filled with swaying kelp-like plants that emit soft purple and blue light, creating an otherworldly pastoral atmosphere.
 
 ### The Reflection Pools
+
 Still waters surrounded by contemplative seating areas, popular with philosophers and those seeking quiet meditation.
 
 ### The Artist Quarter
+
 Workshops and studios where creators find inspiration in the Gardens' unique aesthetic, producing works that capture the beauty of controlled darkness.
 
 ### The Memory Grove
+
 A memorial section where citizens honor deceased loved ones, with plants that are said to remember and respond to the emotions of mourners.
 
 ## Notable Features
@@ -124,7 +127,7 @@ As word spread about the area's unique beauty and therapeutic atmosphere, artist
 ## Connections
 
 The Gloom Gardens connect to the rest of Aquabyssos through discrete transport tubes that maintain the twilight atmosphere. The district also has cultural connections to similar contemplative communities in other underwater realms and maintains research relationships with surface-world botanical institutions studying bioluminescence.
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[12_Research/D&D_References/Lumengarde]]
 
 
 ## Layout
@@ -164,6 +167,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Gloom Gardens]]
+- [[12_Research/D&D_References/The Gloom Gardens]]
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

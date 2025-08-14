@@ -27,7 +27,7 @@ world: Both
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Ammunition|Ammunition]], [[/03_Mechanics/CLI/item-properties#Loading|Loading]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

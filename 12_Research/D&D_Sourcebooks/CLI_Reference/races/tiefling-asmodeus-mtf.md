@@ -46,7 +46,7 @@ You have resistance to fire damage.
 
 ### Infernal Legacy
 
-You know the [[/03_Mechanics/CLI/spells/thaumaturgy-xphb|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[/03_Mechanics/CLI/spells/hellish-rebuke-xphb|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[/03_Mechanics/CLI/spells/darkness-xphb|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[thaumaturgy-xphb|thaumaturgy]] cantrip. Once you reach 3rd level, you can cast the [[hellish-rebuke-xphb|hellish rebuke]] spell as a 2nd-level spell with this trait; you regain the ability to cast it when you finish a long rest. Once you reach 5th level, you can also cast the [[darkness-xphb|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

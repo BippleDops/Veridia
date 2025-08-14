@@ -2,7 +2,7 @@
 MyCategory: NPC
 MyContainer: None
 created: '2025-08-11'
-faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The
+faction: '[[The Whisper Syndicate|02 Worldbuilding/Groups/The
   Whisper Syndicate]]'
 obsidianUIMode: preview
 status: complete
@@ -24,19 +24,15 @@ world: Both Realms
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg]]
 
 
 # Vex Shadowthorn's Apprentices
 *The Next Generation of Shadow*
 
 ## Overview
-[[02_Worldbuilding/People/Vex Shadowthorn]]'s apprentices represent the future of [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Handpicked for their unique talents and moral flexibility, these five individuals have been shaped by Vex's ruthless mentorship and complex philosophy. Each apprentice specializes in different aspects of criminal enterprise while sharing core skills in deception, combat, and survival.
+[[Vex Shadowthorn]]'s apprentices represent the future of [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Handpicked for their unique talents and moral flexibility, these five individuals have been shaped by Vex's ruthless mentorship and complex philosophy. Each apprentice specializes in different aspects of criminal enterprise while sharing core skills in deception, combat, and survival.
 
 ## The Inner Circle
 
@@ -57,8 +53,8 @@ world: Both Realms
 - Perfect memory for faces and conversations
 
 **Relationships**:
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Surrogate parent figure, complex devotion
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Former lover, now information source
+- [[Vex Shadowthorn]] - Surrogate parent figure, complex devotion
+- [[Prince Caspian Duskwater]] - Former lover, now information source
 - [[02_Worldbuilding/Places/The Gilded Serpent|02 Worldbuilding/Places/The Gilded Serpent]] - Manages operations there
 - **Marcus "The Shade" Blackwood** - Mentor in combat techniques
 
@@ -72,7 +68,7 @@ world: Both Realms
 
 **Appearance**: Pale blue skin, silver gills, eyes that reflect depths
 **Specialty**: Aquabyssos operations and eldritch magic
-**Background**: Exiled from [[02_Worldbuilding/Places/Aquabyssos]] for forbidden research
+**Background**: Exiled from [[Aquabyssos]] for forbidden research
 
 **Stats**: AC 15, HP 45, Speed 30 ft, Swim 30 ft
 **STR** 12, **DEX** 14, **CON** 16, **INT** 15, **WIS** 13, **CHA** 17
@@ -84,9 +80,9 @@ world: Both Realms
 - Pressure resistance and underwater breathing
 
 **Relationships**:
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Former academic colleague
-- [[02_Worldbuilding/Groups/The Biomancers|02 Worldbuilding/Groups/The Biomancers]] - Uneasy alliance through research
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]] - Secretly reports to her
+- [[Ambassador Nerida Deepcurrent]] - Former academic colleague
+- [[The Biomancers|02 Worldbuilding/Groups/The Biomancers]] - Uneasy alliance through research
+- [[Duchess Marina Ever-Drowning]] - Secretly reports to her
 - Deep sea entities - Patron relationship
 
 **Secrets**:
@@ -111,9 +107,9 @@ world: Both Realms
 - Pass Without Trace and Silence spells
 
 **Relationships**:
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Only parental figure they've ever known
+- [[Vex Shadowthorn]] - Only parental figure they've ever known
 - **Kira Nightfall** - Closest thing to a sibling
-- [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]] - Operates primarily from here
+- [[The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]] - Operates primarily from here
 - Unknown biological family - searching for origins
 
 **Secrets**:
@@ -138,8 +134,8 @@ world: Both Realms
 - Immunity to own poisons
 
 **Relationships**:
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Former master, now enemy
-- [[02_Worldbuilding/Groups/The Current Merchants|02 Worldbuilding/Groups/The Current Merchants]] - Supplies exotic materials
+- [[Master Artificer Korvin Gearwright]] - Former master, now enemy
+- [[The Current Merchants|02 Worldbuilding/Groups/The Current Merchants]] - Supplies exotic materials
 - **Dr. Helena Voidwalker** - Respects her work but opposes her ethics
 - Underground fighting rings - Provides enhancement drugs
 
@@ -165,8 +161,8 @@ world: Both Realms
 - Archery fighting style with +2 to ranged attacks
 
 **Relationships**:
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Saved their life, fierce loyalty
-- [[02_Worldbuilding/People/The Verdant Accord]] - Secret sympathy for their cause
+- [[Vex Shadowthorn]] - Saved their life, fierce loyalty
+- [[The Verdant Accord]] - Secret sympathy for their cause
 - **Admiral Cassandra Stormwind** - Respects her anti-corruption stance
 - Sky traders and message services - Information network
 
@@ -178,7 +174,7 @@ world: Both Realms
 ## Group Dynamics
 
 ### Training Regimen
-- Daily combat practice at dawn in [[02_Worldbuilding/Places/The Shadow Warren|02 Worldbuilding/Places/The Shadow Warren]]
+- Daily combat practice at dawn in [[The Shadow Warren|02 Worldbuilding/Places/The Shadow Warren]]
 - Weekly "practical examinations" involving real heists or assassinations
 - Monthly competitions between apprentices for Vex's favor
 - Quarterly solo missions to test independence and loyalty
@@ -216,11 +212,11 @@ world: Both Realms
 ## Current Operations
 
 ### Active Assignments
-1. **The Noble's Gambit** - Blackmailing [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+1. **The Noble's Gambit** - Blackmailing [[Lord Aurelius Goldwave]]
 2. **Deep Current Smuggling** - Moving corrupted crystals through Aquabyssos
 3. **Festival Preparation** - Setting up for major heist during Crystal Festival
 4. **Rival Elimination** - Systematic destruction of competing criminal organization
-5. **Information Harvest** - Infiltrating [[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]
+5. **Information Harvest** - Infiltrating [[The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]
 
 ### Long-term Goals
 - Establishing legitimate business fronts
@@ -239,13 +235,13 @@ world: Both Realms
 
 ### External Allies
 - [[Marcus "The Shade" Blackwood]] - Senior enforcer and combat trainer
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Information broker
+- [[Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] - Information broker
 - **Madame Velvet** - Brothel owner and information source
 - **Captain Saltbeard** - Smuggler and transportation provider
 
 ### Known Enemies
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Actively hunting them
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Ideological opposition
+- [[Captain Lyanna Brightshield]] - Actively hunting them
+- [[High Inquisitor Maltheos]] - Ideological opposition
 - **The Crimson Masks** - Rival criminal organization
 - **Inspector Hawthorne** - Obsessed investigator
 
@@ -288,8 +284,8 @@ world: Both Realms
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[Party Shadows]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 
@@ -307,6 +303,6 @@ Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
+- [[Vex Shadowthorn's Apprentices]]
 
 <!-- enriched: true -->

@@ -15,10 +15,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -58,11 +54,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/International Academic Exchange]]
+- [[12_Research/D&D_References/International Academic Exchange]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[Keeper of the Past, Elderly Morgan]]
+- [[12_Research/D&D_References/Keeper of the Past, Elderly Morgan]]

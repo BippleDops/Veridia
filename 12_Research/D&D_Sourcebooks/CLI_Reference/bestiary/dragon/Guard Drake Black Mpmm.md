@@ -34,7 +34,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guard-drake-black-mpmm-guard-drake-black-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/guard-drake-black-mpmm|Guard Drake (Black)]]
+# [[guard-drake-black-mpmm|Guard Drake (Black)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock
@@ -56,7 +56,7 @@ world: Both
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "acid"
 "senses": "darkvision 60 ft., passive Perception 12"

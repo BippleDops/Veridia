@@ -14,24 +14,21 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[Discover Marina's Truth]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[Stop the Shadow Harvest]]
+- [[Discover Marina's Truth]]
+- [[Admiral Thorne Blackwater]]
+- [[Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 

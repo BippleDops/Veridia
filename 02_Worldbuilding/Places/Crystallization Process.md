@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png]]
 
 
 # Crystallization Process
@@ -176,7 +173,7 @@ The crystallization process provides background for industrial adventures, corpo
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[Screaming Gardens]]
 
 ## Player-Facing Summary
 
@@ -188,6 +185,6 @@ Legends speak of Crystallization Process as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallization Process]]
+- [[Crystallization Process]]
 
 <!-- enriched: true -->

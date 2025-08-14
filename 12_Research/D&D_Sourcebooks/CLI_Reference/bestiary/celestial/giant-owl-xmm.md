@@ -27,12 +27,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-owl-xmm-giant-owl-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/giant-owl-xmm|Giant Owl]]
+# [[giant-owl-xmm|Giant Owl]]
 *Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Owl (XMM)"
@@ -54,9 +54,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "darkvision 120 ft., passive Perception 16"
@@ -70,9 +70,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Talons"
   - "desc": "The owl casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[/03_Mechanics/CLI/spells/detect-evil-and-good-xphb|Detect Evil\
-      \ and Good]], [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]]\n\
-      \n1/day: [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]]"
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[detect-evil-and-good-xphb|Detect Evil\
+      \ and Good]], [[detect-magic-xphb|Detect Magic]]\n\
+      \n1/day: [[clairvoyance-xphb|Clairvoyance]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

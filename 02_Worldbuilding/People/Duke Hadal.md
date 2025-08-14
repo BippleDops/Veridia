@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-duke-hadal-duke-hadal.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duke-hadal-duke-hadal.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime - Inverse Palace]]
 
 ## Player-Facing Summary
 

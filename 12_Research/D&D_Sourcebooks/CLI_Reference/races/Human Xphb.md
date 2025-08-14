@@ -33,7 +33,7 @@ world: Both
 
 ### Resourceful
 
-You gain [[/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb|Heroic Inspiration]] whenever you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]].
+You gain [[heroic-inspiration-xphb|Heroic Inspiration]] whenever you finish a [[long-rest-xphb|Long Rest]].
 
 ### Skillful
 

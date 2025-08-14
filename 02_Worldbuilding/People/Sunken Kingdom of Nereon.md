@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-sunken-kingdom-of-nereon-sunken-kingdom-of-nereon.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sunken-kingdom-of-nereon-sunken-kingdom-of-nereon.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Sunken Kingdom of Nereon]]
+- [[Sunken Kingdom of Nereon]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[Memory Merchant Zephyr Mindweaver]]

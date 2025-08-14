@@ -15,11 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker]]
+- [[Paladin Commander Sir Radiant Dawnbreaker]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[Cathedral of Light]]

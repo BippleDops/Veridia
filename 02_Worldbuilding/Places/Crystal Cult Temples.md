@@ -2,6 +2,10 @@
 created: '2025-08-12'
 status: complete
 tags:
+- combat
+- quest
+- crystal-enhanced
+- aquatic
 - aquabyssos
 - complete
 - content/location
@@ -20,8 +24,7 @@ world: Aquabyssos
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg]]
 
 
 # Crystal Cult Temples
@@ -98,7 +101,7 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 **Age:** 43 (appears ageless due to crystallization)  
 **Stage:** 4 (Voluntarily infected 3 years ago)  
-**Background:** Former [[02_Worldbuilding/Places/Medical Research Facilities]] who became convinced that cure research was misguided  
+**Background:** Former [[12_Research/D&D_References/Medical Research Facilities]] who became convinced that cure research was misguided  
 **Abilities:** Levitation, crystal communion, harmonic voice projection
 
 High Priestess Seraphina founded the temple after her deliberate infection with the plague. Her scientific background lends credibility to the cult's theological claims about the divine nature of crystallization.
@@ -110,7 +113,7 @@ Her crystalline formations follow geometric patterns that seem to shift and flow
 *Current Projects:*
 - Developing theological framework for crystalline society
 - Training Stage 3-4 members in temple leadership roles  
-- Coordinating with [[02_Worldbuilding/Lore/Black Market Crystal Trade]] suppliers for medical equipment
+- Coordinating with [[12_Research/D&D_References/Black Market Crystal Trade]] suppliers for medical equipment
 - Establishing satellite temples in other cities
 
 #### The Living Saints - Stage 5 Oracles
@@ -138,7 +141,7 @@ Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea pr
 **Sister Coral Gentletouch**  
 **Age:** 29, **Stage:** 2  
 **Role:** Community outreach and new member recruitment  
-**Method:** Visits [[02_Worldbuilding/Places/Crystal Plague Wards]] to offer spiritual comfort to patients
+**Method:** Visits [[12_Research/D&D_References/Crystal Plague Wards]] to offer spiritual comfort to patients
 
 Sister Coral presents herself as a compassionate volunteer providing emotional support to plague victims. Her genuine care and acceptance offers stark contrast to the fear and rejection plague victims encounter elsewhere.
 
@@ -336,7 +339,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 - Timing of plague emergence coincided with international tensions
 - Government response seems designed to hide truth rather than provide aid
 - Foreign nations offer assistance while secretly studying plague effects
-- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] operations may be foreign intelligence gathering
+- [[12_Research/D&D_References/Black Market Crystal Trade]] operations may be foreign intelligence gathering
 
 **Cult Response:**
 - Members must protect themselves from foreign exploitation
@@ -414,6 +417,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 ## Adventure Hooks
 
 ### The Convert's Dilemma
+
 A close friend or family member of the party has joined a crystal cult after contracting the plague. They seem genuinely happier and healthier than before, but their new beliefs are leading them toward dangerous transformation rituals.
 
 *Complications:*
@@ -423,6 +427,7 @@ A close friend or family member of the party has joined a crystal cult after con
 - Forced extraction might drive the convert deeper into cult extremism
 
 ### The Temple Spy
+
 The party is hired to investigate cult activities, but discovers that their employer may be using the information for persecution rather than legitimate law enforcement purposes.
 
 *Moral Complexity:*
@@ -432,6 +437,7 @@ The party is hired to investigate cult activities, but discovers that their empl
 - Intelligence gathered could be used to improve government services or justify oppression
 
 ### The Sacred Heist
+
 A valuable religious artifact or important cult member must be retrieved from a heavily guarded temple complex. The mission requires navigating both physical security and complex social dynamics within the cult community.
 
 *Challenges:*
@@ -441,6 +447,7 @@ A valuable religious artifact or important cult member must be retrieved from a 
 - Success might require the party to temporarily pose as cult converts
 
 ### The Prophetic Warning
+
 Crystal cult oracles have provided specific warnings about an impending disaster. Government officials dismiss these prophecies, but evidence suggests the predictions might be accurate.
 
 *Investigation Elements:*
@@ -450,6 +457,7 @@ Crystal cult oracles have provided specific warnings about an impending disaster
 - Managing public panic if cult predictions prove accurate
 
 ### The Medical Ethics Crisis
+
 The party discovers that cult healing practices, while religiously motivated, are actually more effective than conventional medical treatment for certain plague stages.
 
 *Ethical Questions:*
@@ -461,36 +469,44 @@ The party discovers that cult healing practices, while religiously motivated, ar
 ## DM Notes
 
 ### Religious Sensitivity
+
 - Present cult members as complex individuals with understandable motivations
 - Avoid simple "good religion vs. evil cult" dynamics
 - Show how genuine spiritual needs can lead to both positive and negative outcomes
 - Respect player characters' own religious beliefs and avoid forced conversion scenarios
 
 ### Social Dynamics
+
 - Cult communities provide social services that government systems often lack
 - Use cult-government tensions to explore themes of religious freedom and public safety
 - Show how crisis situations can lead to both spiritual growth and dangerous extremism
 - Allow player characters to find middle ground between opposing factions
 
 ### Transformation as Character Development
+
 - Crystalline transformation can serve as metaphor for personal growth and change
 - Use cult theology to explore questions about identity, humanity, and transcendence
 - Allow voluntary transformation as character choice rather than purely negative outcome
 - Balance supernatural abilities gained with social costs and limitations
 
 ### Political Complexity
+
 - Government response should include both legitimate and questionable elements
 - Show how public fear can lead to both necessary precautions and unjust persecution
 - Use cult activities to explore themes of civil disobedience and resistance
 - Present opportunities for compromise and cooperation alongside conflict scenarios
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
-- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Official medical system that cults offer alternative to
-- [[02_Worldbuilding/Places/Medical Research Facilities]] - Scientific establishments that cults view as misguided
-- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
+
+- [[12_Research/D&D_References/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
+- [[12_Research/D&D_References/Crystal Plague Wards]] - Official medical system that cults offer alternative to
+- [[12_Research/D&D_References/Medical Research Facilities]] - Scientific establishments that cults view as misguided
+- [[12_Research/D&D_References/Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
 - [[Brother Marcus]] - Legitimate healer whose methods cults sometimes emulate
-- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Distribution systems for cult materials and members
-- [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government policies that cults help members evade
+- [[12_Research/D&D_References/Underground Smuggling Networks]] - Distribution systems for cult materials and members
+- [[12_Research/D&D_References/Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

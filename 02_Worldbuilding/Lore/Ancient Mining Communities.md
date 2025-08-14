@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -44,9 +40,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[12_Research/D&D_References/The Transformed Citizens]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[12_Research/D&D_References/The Transformed Citizens]]

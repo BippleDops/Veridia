@@ -26,15 +26,15 @@ world: Both
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1—5 | Roll `d6` times on [[/03_Mechanics/CLI/tables/magic-item-table-a|Magic Item Table A]]. |
-| 6—10 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-b|Magic Item Table B]]. |
-| 11—15 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-c|Magic Item Table C]]. |
-| 16—20 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-d|Magic Item Table D]]. |
-| 21—25 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-e|Magic Item Table E]]. |
-| 26—30 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-f|Magic Item Table F]]. |
-| 31—35 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-g|Magic Item Table G]]. |
-| 36—40 | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-h|Magic Item Table H]]. |
-| 41+ | Roll `d4` times on [[/03_Mechanics/CLI/tables/magic-item-table-i|Magic Item Table I]]. |
+| 1—5 | Roll `d6` times on [[magic-item-table-a|Magic Item Table A]]. |
+| 6—10 | Roll `d4` times on [[magic-item-table-b|Magic Item Table B]]. |
+| 11—15 | Roll `d4` times on [[magic-item-table-c|Magic Item Table C]]. |
+| 16—20 | Roll `d4` times on [[magic-item-table-d|Magic Item Table D]]. |
+| 21—25 | Roll `d4` times on [[magic-item-table-e|Magic Item Table E]]. |
+| 26—30 | Roll `d4` times on [[magic-item-table-f|Magic Item Table F]]. |
+| 31—35 | Roll `d4` times on [[magic-item-table-g|Magic Item Table G]]. |
+| 36—40 | Roll `d4` times on [[magic-item-table-h|Magic Item Table H]]. |
+| 41+ | Roll `d4` times on [[magic-item-table-i|Magic Item Table I]]. |
 ^buying-magic-items
 
 ## Player-Facing Summary

@@ -27,7 +27,6 @@ world: Aquabyssos
 ![](04_Resources/Assets/Locations/location-city-angel-of-the-depths-angel-of-the-depths.svg)
 
 
-
 # Angel of the Depths
 
 *A massive, corrupted monument standing as both beacon and warning in the deepest waters of Aquabyssos*
@@ -254,7 +253,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Angel of the Depths]]
+- [[Angel of the Depths]]
 
 <!-- enriched: true -->
 riched: true -->

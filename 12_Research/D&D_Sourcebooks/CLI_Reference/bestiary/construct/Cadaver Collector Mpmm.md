@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cadaver-collector-mpmm-cadaver-collector-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/cadaver-collector-mpmm|Cadaver Collector]]
+# [[cadaver-collector-mpmm|Cadaver Collector]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
@@ -57,9 +57,9 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "speed": "30 ft."
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages but can't speak"
 "cr": "14"
@@ -77,13 +77,13 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     "name": "Slam"
   - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
       \ in that area must make a successful DC 18 Constitution saving throw or be\
-      \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]] for 1 minute. A [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]]\
+      \ [[conditions#Paralyzed|paralyzed]] for 1 minute. A [[conditions#Paralyzed|paralyzed]]\
       \ creature repeats the saving throw at the end of each of its turns, ending\
       \ the effect on itself with a success."
     "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The collector calls up the enslaved spirits of those it has slain; d4\
-      \ [[/03_Mechanics/CLI/bestiary/undead/specter-xmm|specters]] (without Sunlight\
+      \ [[specter-xmm|specters]] (without Sunlight\
       \ Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
       \ act right after the collector on the same initiative count and fight until\
       \ they're destroyed. They disappear when the collector is destroyed."

@@ -15,14 +15,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memoriam-memoriam.svg)
-
-
-
 
 
 # Memoriam
@@ -31,17 +25,17 @@ world: Both
 
 ## Physical Description & Atmosphere
 
-Memoriam spans across a massive underwater plateau in the [[02_Worldbuilding/Places/Twilight Depths]], where the eternal currents of the deep ocean have carved intricate patterns into the seafloor. The memorial site consists of thousands of intricately carved stone monuments, coral grave markers, and crystalline memory matrices that preserve the essence and memories of the departed.
+Memoriam spans across a massive underwater plateau in the [[Twilight Depths]], where the eternal currents of the deep ocean have carved intricate patterns into the seafloor. The memorial site consists of thousands of intricately carved stone monuments, coral grave markers, and crystalline memory matrices that preserve the essence and memories of the departed.
 
-At the center rises the **Eternal Spire**, a towering monument of pure [[02_Worldbuilding/Places/Deepstone]] that extends nearly a mile into the water column. Its surface is inscribed with the names of every soul laid to rest here, the text glowing with a soft, reverent light that can be seen from great distances.
+At the center rises the **Eternal Spire**, a towering monument of pure [[Deepstone]] that extends nearly a mile into the water column. Its surface is inscribed with the names of every soul laid to rest here, the text glowing with a soft, reverent light that can be seen from great distances.
 
-The atmosphere is one of profound reverence and melancholy beauty. Schools of bioluminescent fish move in solemn patterns through the memorial gardens, while the [[02_Worldbuilding/Places/Keepers of Memory]] tend to the various monuments with quiet dedication. The water itself seems to carry whispers of the past, and sensitive individuals often report hearing fragments of conversations, songs, or final words of the deceased.
+The atmosphere is one of profound reverence and melancholy beauty. Schools of bioluminescent fish move in solemn patterns through the memorial gardens, while the [[Keepers of Memory]] tend to the various monuments with quiet dedication. The water itself seems to carry whispers of the past, and sensitive individuals often report hearing fragments of conversations, songs, or final words of the deceased.
 
 ## History & Significance
 
-Memoriam was established over two millennia ago following the catastrophic [[02_Worldbuilding/Places/War of the Sunless Depths]], when the need for a proper resting place for the fallen became paramount. The site was chosen for its unique properties - the convergence of deep ocean currents creates a natural preservation field that protects both physical remains and spiritual essence.
+Memoriam was established over two millennia ago following the catastrophic [[War of the Sunless Depths]], when the need for a proper resting place for the fallen became paramount. The site was chosen for its unique properties - the convergence of deep ocean currents creates a natural preservation field that protects both physical remains and spiritual essence.
 
-The memorial expanded during the [[02_Worldbuilding/Places/Great Plague of Ages Past]], serving not only as a burial ground but as a quarantine site for those who died from the ancient disease. This historical precedent has made Memoriam crucial in understanding and potentially combating [[02_Worldbuilding/Places/The Depth Plague]].
+The memorial expanded during the [[Great Plague of Ages Past]], serving not only as a burial ground but as a quarantine site for those who died from the ancient disease. This historical precedent has made Memoriam crucial in understanding and potentially combating [[The Depth Plague]].
 
 Throughout its existence, Memoriam has served multiple roles:
 - Sacred burial ground for nobility and heroes
@@ -97,10 +91,10 @@ Throughout its existence, Memoriam has served multiple roles:
 - **Frightening Gaze (Costs 2 Actions).** Solemneth fixes her gaze on one creature within 10 feet. The target must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute.
 
 ### The Keepers of Memory
-- **[[02_Worldbuilding/Places/Seraph Tidewhisper]]** - Keeper of Royal Records and Genealogy
-- **[[02_Worldbuilding/Places/Brother Ossian]]** - Tender of the Common Folk Memorial Gardens
-- **[[02_Worldbuilding/Places/Sister Mourne]]** - Specialist in communicating with recent spirits
-- **[[02_Worldbuilding/Lore/The Chronicle Scribes]]** - Undead scholars who maintain historical records
+- **[[Seraph Tidewhisper]]** - Keeper of Royal Records and Genealogy
+- **[[Brother Ossian]]** - Tender of the Common Folk Memorial Gardens
+- **[[Sister Mourne]]** - Specialist in communicating with recent spirits
+- **[[The Chronicle Scribes]]** - Undead scholars who maintain historical records
 
 ### Resident Spirits
 
@@ -156,13 +150,13 @@ Underground chambers containing:
 ## Adventure Hooks & Encounters
 
 ### The Stolen Memories (Level 5-8)
-Valuable memories containing the location of a lost treasure vault have been stolen from the Archive of Souls. Investigation reveals the theft was orchestrated by the [[02_Worldbuilding/Places/Coral Throne Syndicate]], who plan to sell the information to the highest bidder. The party must navigate memorial politics and undead guardians to recover the stolen memories.
+Valuable memories containing the location of a lost treasure vault have been stolen from the Archive of Souls. Investigation reveals the theft was orchestrated by the [[Coral Throne Syndicate]], who plan to sell the information to the highest bidder. The party must navigate memorial politics and undead guardians to recover the stolen memories.
 
 ### The Restless Dead (Level 7-11)
-Spirits throughout Memoriam have become agitated and violent, breaking the ancient peace of the memorial. The disturbance emanates from the sealed section containing victims of [[02_Worldbuilding/Places/The Depth Plague]], suggesting a connection to current outbreaks. The party must investigate the source while avoiding both hostile undead and quarantine protocols.
+Spirits throughout Memoriam have become agitated and violent, breaking the ancient peace of the memorial. The disturbance emanates from the sealed section containing victims of [[The Depth Plague]], suggesting a connection to current outbreaks. The party must investigate the source while avoiding both hostile undead and quarantine protocols.
 
 ### The Final Testament (Level 10-15)
-The spirit of [[02_Worldbuilding/People/Ancient King Pelagios]] has emerged with warnings about a coming catastrophe that threatens all of Aquabyssos. However, the king will only share his knowledge with those who can prove themselves worthy by completing trials that test courage, wisdom, and respect for the dead. Success grants access to ancient knowledge that could prevent disaster.
+The spirit of [[Ancient King Pelagios]] has emerged with warnings about a coming catastrophe that threatens all of Aquabyssos. However, the king will only share his knowledge with those who can prove themselves worthy by completing trials that test courage, wisdom, and respect for the dead. Success grants access to ancient knowledge that could prevent disaster.
 
 ## D&D 5e Mechanics & Services
 
@@ -214,16 +208,16 @@ Areas where ancient plague victims are interred:
 - Protective wards that deal radiant damage to living creatures (2d6 per round)
 
 ## Connected Mysteries
-Memoriam holds secrets connecting to the [[02_Worldbuilding/Places/War of Crushing Depths]], the origins of [[02_Worldbuilding/Places/The Depth Plague]], ancient pacts with [[02_Worldbuilding/Places/Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
+Memoriam holds secrets connecting to the [[War of Crushing Depths]], the origins of [[The Depth Plague]], ancient pacts with [[Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[02_Worldbuilding/Places/Nereidios]]
-- [[02_Worldbuilding/Places/The Forgotten One]]
-- [[1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]]
-- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Nereidios]]
+- [[The Forgotten One]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -245,8 +239,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Memoriam]]
+- [[Memoriam]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[Coral Throne Syndicate]]
+- [[The Depth Plague]]

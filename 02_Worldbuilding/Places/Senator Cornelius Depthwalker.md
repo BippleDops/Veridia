@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-senator-cornelius-depthwalker-senator-cornelius-depthwalker.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-senator-cornelius-depthwalker-senator-cornelius-depthwalker.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[The Eternal Senate]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Eternal Senate]]
+- [[The Eternal Senate]]
 
 ## Player-Facing Summary
 

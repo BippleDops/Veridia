@@ -31,7 +31,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-minion-xmm-goblin-minion-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/goblin-minion-xmm|Goblin Minion]]
+# [[goblin-minion-xmm|Goblin Minion]]
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
@@ -73,7 +73,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"

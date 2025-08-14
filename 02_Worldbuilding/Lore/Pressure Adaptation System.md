@@ -5,6 +5,8 @@ created_by: auto-stub
 significance: Critical Infrastructure
 status: complete
 tags:
+- crystal-enhanced
+- aquatic
 - aquabyssos
 - complete
 - content/lore
@@ -22,22 +24,20 @@ world: Aquabyssos
 ---
 
 
-
-
-
 # Pressure Adaptation System
+
 *The Lifeline Between Surface and Depth*
 
 > *"Every citizen of Aquabyssos owes their life to the Adaptation System. It doesn't just regulate pressure—it redefines what it means to be human in the depths. Without it, our civilization would collapse in minutes, crushed by the very waters that cradle us."*
-> — [[02_Worldbuilding/Lore/Chief Pressure Engineer Nautilus Deepwright]], Director of Adaptation Technologies
+> — [[12_Research/D&D_References/Chief Pressure Engineer Nautilus Deepwright]], Director of Adaptation Technologies
 
 ## Overview
 
-The Pressure Adaptation System represents the foundational technology that makes life possible in [[02_Worldbuilding/Places/Aquabyssos]]. This sophisticated bio-mechanical network combines crystalline pressure regulation, organic adaptation enhancement, and magical atmospheric manipulation to allow surface dwellers and their descendants to survive and thrive at crushing ocean depths. Without this system, human civilization beneath the waves would be impossible.
+The Pressure Adaptation System represents the foundational technology that makes life possible in [[12_Research/D&D_References/Aquabyssos]]. This sophisticated bio-mechanical network combines crystalline pressure regulation, organic adaptation enhancement, and magical atmospheric manipulation to allow surface dwellers and their descendants to survive and thrive at crushing ocean depths. Without this system, human civilization beneath the waves would be impossible.
 
 The system operates through an integrated network of personal adaptation devices, district-wide pressure regulators, emergency backup systems, and biological enhancement chambers that work together to create stable living environments throughout the underwater city. Each component serves critical functions while maintaining redundancy that prevents catastrophic system failure.
 
-Recent innovations have enhanced the system's capabilities to accommodate refugees from [[02_Worldbuilding/Places/Aethermoor]], address pressure-related corruption effects, and adapt to changing depth requirements as the city continues to expand deeper into the ocean trenches. However, the complexity of these improvements has also created new vulnerabilities and maintenance challenges.
+Recent innovations have enhanced the system's capabilities to accommodate refugees from [[12_Research/D&D_References/Aethermoor]], address pressure-related corruption effects, and adapt to changing depth requirements as the city continues to expand deeper into the ocean trenches. However, the complexity of these improvements has also created new vulnerabilities and maintenance challenges.
 
 The system's importance extends beyond mere survival—it shapes Aquabyssos culture, social structure, and daily life in profound ways. Citizens plan their lives around pressure schedules, social status often correlates with adaptation levels, and the entire economy depends on pressure-related technologies and services.
 
@@ -124,10 +124,10 @@ Located in the heavy industrial district, this massive facility produces all com
 **Engineering Specializations:**
 The complex employs specialists in multiple technical disciplines:
 
-- **Crystal Engineers**: Experts in pressure-sensitive magical crystals ([[02_Worldbuilding/Places/Crystal Engineer Reef Sparkwright]])
-- **Bio-Mechanical Technicians**: Specialists in implant design and biological integration ([[02_Worldbuilding/Lore/Biomech Specialist Tide Metalweaver]])
-- **Pressure Theorists**: Researchers developing new adaptation techniques ([[Pressure Theorist Dr. Current Deepthink]])
-- **Safety Inspectors**: Personnel ensuring system reliability and user protection ([[02_Worldbuilding/Lore/Safety Inspector Pearl Cautionwave]])
+- **Crystal Engineers**: Experts in pressure-sensitive magical crystals ([[12_Research/D&D_References/Crystal Engineer Reef Sparkwright]])
+- **Bio-Mechanical Technicians**: Specialists in implant design and biological integration ([[12_Research/D&D_References/Biomech Specialist Tide Metalweaver]])
+- **Pressure Theorists**: Researchers developing new adaptation techniques ([[12_Research/D&D_References/Pressure Theorist Dr. Current Deepthink]])
+- **Safety Inspectors**: Personnel ensuring system reliability and user protection ([[12_Research/D&D_References/Safety Inspector Pearl Cautionwave]])
 - **Emergency Technicians**: Specialists in rapid repair and crisis response ([[Emergency Tech Chief Storm Rapidfix]])
 
 ### Supply Chain and Resource Management
@@ -137,9 +137,9 @@ The Pressure Adaptation System depends on specialized resources that require car
 
 **Primary Resources:**
 - **Pressure Crystals**: Harvested from deep ocean crystal formations, processed by [[Crystal Harvester Guild]]
-- **Bio-Compatible Metals**: Specialized alloys that integrate safely with human biology, sourced from [[02_Worldbuilding/Lore/Deep Mining Consortium]]
-- **Adaptation Serums**: Magical solutions enhancing biological pressure tolerance, produced by [[02_Worldbuilding/Lore/Biological Enhancement Laboratory]]
-- **Emergency Compounds**: Chemical stabilizers for crisis situations, manufactured by [[02_Worldbuilding/Lore/Deep Chemical Works]]
+- **Bio-Compatible Metals**: Specialized alloys that integrate safely with human biology, sourced from [[12_Research/D&D_References/Deep Mining Consortium]]
+- **Adaptation Serums**: Magical solutions enhancing biological pressure tolerance, produced by [[12_Research/D&D_References/Biological Enhancement Laboratory]]
+- **Emergency Compounds**: Chemical stabilizers for crisis situations, manufactured by [[12_Research/D&D_References/Deep Chemical Works]]
 - **Organic Matrices**: Biological materials supporting implant integration, cultivated by [[Living System Gardens]]
 
 **Resource Challenges:**
@@ -246,7 +246,7 @@ Manufacturing and heavy industry operations require specialized pressure managem
 ### Transportation and Travel
 
 **Pressure Tube Integration:**
-The [[02_Worldbuilding/Places/Pressure Tubes]] transportation system works closely with individual adaptation systems to enable safe and comfortable travel throughout the city:
+The [[12_Research/D&D_References/Pressure Tubes]] transportation system works closely with individual adaptation systems to enable safe and comfortable travel throughout the city:
 
 **Travel Considerations:**
 - **Route Planning**: Selecting paths compatible with passenger adaptation levels
@@ -374,20 +374,20 @@ Pressure adaptation technology creates numerous business opportunities:
 **Connected Technologies:**
 The Pressure Adaptation System works closely with other critical Aquabyssos infrastructure:
 
-- **[[02_Worldbuilding/Places/Pressure Tubes]]**: Transportation system requiring compatible pressure management
-- **[[02_Worldbuilding/Lore/Underwater Breathing]]**: Life support systems working with adaptation devices
-- **[[02_Worldbuilding/Lore/Depth Effect Quick Reference]]**: Medical monitoring coordinated with adaptation status
-- **[[02_Worldbuilding/Lore/Crystal Forest]]**: Resource production supporting system manufacturing
-- **[[02_Worldbuilding/Lore/The Deep Harvest]]**: Economic systems dependent on pressure-adapted workers
+- **[[12_Research/D&D_References/Pressure Tubes]]**: Transportation system requiring compatible pressure management
+- **[[12_Research/D&D_References/Underwater Breathing]]**: Life support systems working with adaptation devices
+- **[[12_Research/D&D_References/Depth Effect Quick Reference]]**: Medical monitoring coordinated with adaptation status
+- **[[12_Research/D&D_References/Crystal Forest]]**: Resource production supporting system manufacturing
+- **[[12_Research/D&D_References/The Deep Harvest]]**: Economic systems dependent on pressure-adapted workers
 
 ### Professional Networks and Organizations
 
 **Key Institutions:**
 Various organizations support and regulate pressure adaptation technology:
 
-- **[[02_Worldbuilding/Groups/Guilds/Pressure Engineering Guild]]**: Professional association for system engineers and technicians
+- **[[12_Research/D&D_References/Pressure Engineering Guild]]**: Professional association for system engineers and technicians
 - **[[Adaptation Medical Society]]**: Healthcare professionals specializing in pressure-related medicine
-- **[[02_Worldbuilding/Lore/Citizens Adaptation Alliance]]**: Advocacy group representing pressure system users
+- **[[12_Research/D&D_References/Citizens Adaptation Alliance]]**: Advocacy group representing pressure system users
 - **[[Emergency Response Coordination]]**: Crisis management organization for system failures
 - **[[02_Worldbuilding/Groups/Pressure Safety Authorit|02 Worldbuilding/Groups/Pressure Safety Authorit]]**: Government agency regulating system safety and standards
 
@@ -396,9 +396,9 @@ Various organizations support and regulate pressure adaptation technology:
 **Collaborative Institutions:**
 Multiple organizations contribute to ongoing system improvement:
 
-- **[[02_Worldbuilding/Lore/Aquabyssos Technical University]]**: Academic research and engineer training programs
-- **[[02_Worldbuilding/Lore/Deep Sciences Research Institute]]**: Advanced studies in pressure and adaptation technology
-- **[[02_Worldbuilding/Lore/Bio-Magical Integration Laboratory]]**: Specialized research in biological device integration
+- **[[12_Research/D&D_References/Aquabyssos Technical University]]**: Academic research and engineer training programs
+- **[[12_Research/D&D_References/Deep Sciences Research Institute]]**: Advanced studies in pressure and adaptation technology
+- **[[12_Research/D&D_References/Bio-Magical Integration Laboratory]]**: Specialized research in biological device integration
 - **[[International Pressure Technology Consortium]]**: Global cooperation on adaptation innovations
 - **[[Emergency Medical Research Foundation]]**: Crisis response and medical treatment advancement
 
@@ -453,32 +453,32 @@ Understanding pressure adaptation helps characters navigate Aquabyssos society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing pressure adaptation technology
-- [[02_Worldbuilding/Lore/Pressure Tubes|02 Worldbuilding/Lore/Pressure Tubes]] - Transportation system integrated with adaptation devices
-- [[02_Worldbuilding/Lore/Underwater Breathing]] - Complementary life support technology
-- [[02_Worldbuilding/Lore/The Deep Harvest]] - Economic system dependent on adapted workers
-- [[02_Worldbuilding/People/Chief Pressure Engineer Nautilus Deepwright|02 Worldbuilding/People/Chief Pressure Engineer Nautilus Deepwright]] - System director and lead engineer
+- [[12_Research/D&D_References/Aquabyssos]] - Primary setting utilizing pressure adaptation technology
+- [[Pressure Tubes|02 Worldbuilding/Lore/Pressure Tubes]] - Transportation system integrated with adaptation devices
+- [[12_Research/D&D_References/Underwater Breathing]] - Complementary life support technology
+- [[12_Research/D&D_References/The Deep Harvest]] - Economic system dependent on adapted workers
+- [[Chief Pressure Engineer Nautilus Deepwright|02 Worldbuilding/People/Chief Pressure Engineer Nautilus Deepwright]] - System director and lead engineer
 - [[02_Worldbuilding/People/Master Engineer Coral Pressureforge|02 Worldbuilding/People/Master Engineer Coral Pressureforge]] - Manufacturing facility director
-- [[02_Worldbuilding/Groups/Pressure Engineering Guild|02 Worldbuilding/Groups/Pressure Engineering Guild]] - Professional organization supporting system development
+- [[Pressure Engineering Guild|02 Worldbuilding/Groups/Pressure Engineering Guild]] - Professional organization supporting system development
 - [[02_Worldbuilding/Groups/Adaptation Medical Society|02 Worldbuilding/Groups/Adaptation Medical Society]] - Healthcare professionals specializing in pressure medicine
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Forest]]
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[02_Worldbuilding/Lore/Environmental Hazards]]
-- [[02_Worldbuilding/Lore/Initiative Tracker]]
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[02_Worldbuilding/Lore/The Bloom Fields]]
-- [[02_Worldbuilding/Lore/The Deep Harvest]]
-- [[02_Worldbuilding/Lore/The Deep Mother]]
-- [[02_Worldbuilding/Lore/The Depth Chart]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[02_Worldbuilding/Lore/Underwater Breathing]]
+- [[12_Research/D&D_References/Crystal Forest]]
+- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+- [[12_Research/D&D_References/Depth Effect Quick Reference]]
+- [[12_Research/D&D_References/Environmental Hazards]]
+- [[12_Research/D&D_References/Initiative Tracker]]
+- [[12_Research/D&D_References/Kraken Territories]]
+- [[12_Research/D&D_References/Temple of the First Tide]]
+- [[12_Research/D&D_References/Temporal Anomaly Resolution]]
+- [[12_Research/D&D_References/The Bloom Fields]]
+- [[12_Research/D&D_References/The Deep Harvest]]
+- [[12_Research/D&D_References/The Deep Mother]]
+- [[12_Research/D&D_References/The Depth Chart]]
+- [[12_Research/D&D_References/The Silverscale Conspiracy]]
+- [[12_Research/D&D_References/Underwater Breathing]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -504,4 +504,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[12_Research/D&D_References/Pressure Tubes]]

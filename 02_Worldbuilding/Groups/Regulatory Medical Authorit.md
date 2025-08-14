@@ -15,10 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg]]
 
 
 ## Overview

@@ -1,0 +1,326 @@
+{
+  "name": "TTRPG Mega Automation with Online Tools",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 3
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Every 3 Hours",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://api.openai.com/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer YOUR_OPENAI_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "gpt-4"
+            },
+            {
+              "name": "messages",
+              "value": "=[{\"role\": \"system\", \"content\": \"Generate a creative TTRPG scene description for a fantasy world. Include: location name, atmosphere, 3 key features, and potential encounters.\"}, {\"role\": \"user\", \"content\": \"Create a unique location for {{$json.campaign}}\"}]"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "gpt4-scene",
+      "name": "GPT-4 Scene Generator",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [650, 200]
+    },
+    {
+      "parameters": {
+        "url": "https://www.reddit.com/r/DnD/top.json?limit=5",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "json"
+            }
+          }
+        }
+      },
+      "id": "reddit-dnd",
+      "name": "Reddit D&D Trends",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [450, 400]
+    },
+    {
+      "parameters": {
+        "url": "https://api.unsplash.com/search/photos",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "query",
+              "value": "={{$json.theme}} fantasy landscape"
+            },
+            {
+              "name": "client_id",
+              "value": "YOUR_UNSPLASH_ACCESS_KEY"
+            },
+            {
+              "name": "per_page",
+              "value": "3"
+            }
+          ]
+        }
+      },
+      "id": "unsplash-inspiration",
+      "name": "Unsplash Inspiration",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [650, 500]
+    },
+    {
+      "parameters": {
+        "url": "https://www.dnd5eapi.co/api/monsters?challenge_rating={{$json.cr}}",
+        "options": {}
+      },
+      "id": "dnd-api",
+      "name": "D&D 5e API Monsters",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [450, 600]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Combine all data sources\nconst gptScene = items[0].json;\nconst redditTrends = items[1].json;\nconst unsplashImages = items[2].json;\nconst monsters = items[3].json;\n\n// Extract trending topics from Reddit\nconst trendingTopics = redditTrends.data?.children?.slice(0, 3).map(post => ({\n  title: post.data.title,\n  score: post.data.score,\n  url: post.data.url\n})) || [];\n\n// Extract Unsplash images\nconst inspirationImages = unsplashImages.results?.slice(0, 3).map(img => ({\n  description: img.description || img.alt_description,\n  url: img.urls.regular,\n  photographer: img.user.name\n})) || [];\n\n// Create generation prompts\nconst prompts = [\n  {\n    type: 'portrait',\n    prompt: `${gptScene.choices?.[0]?.message?.content || 'fantasy character'}, trending on artstation, highly detailed`,\n    inspiration: inspirationImages[0]?.url\n  },\n  {\n    type: 'creature',\n    prompt: `${monsters.results?.[0]?.name || 'dragon'}, fantasy creature, dynamic pose, cinematic lighting`,\n    cr: monsters.results?.[0]?.challenge_rating\n  },\n  {\n    type: 'location',\n    prompt: `${gptScene.choices?.[0]?.message?.content?.split('.')[0] || 'mystical forest'}, wide angle, environment concept art`,\n    trending: trendingTopics[0]?.title\n  }\n];\n\nreturn [{\n  json: {\n    timestamp: new Date().toISOString(),\n    sources: {\n      gpt4: gptScene.choices?.[0]?.message?.content,\n      reddit: trendingTopics,\n      unsplash: inspirationImages,\n      monsters: monsters.results?.slice(0, 3)\n    },\n    prompts,\n    campaign: 'dynamic',\n    priority: 5\n  }\n}];"
+      },
+      "id": "combine-sources",
+      "name": "Combine All Sources",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [850, 400]
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:5679/queue/add",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "={{$json}}",
+              "value": ""
+            }
+          ]
+        }
+      },
+      "id": "queue-generation",
+      "name": "Queue to ComfyUI",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1050, 400]
+    },
+    {
+      "parameters": {
+        "webhookUri": "ttrpg-generate",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 500]
+    },
+    {
+      "parameters": {
+        "url": "https://api.github.com/search/repositories",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "q",
+              "value": "dnd tools language:javascript stars:>100"
+            },
+            {
+              "name": "sort",
+              "value": "updated"
+            },
+            {
+              "name": "per_page",
+              "value": "5"
+            }
+          ]
+        }
+      },
+      "id": "github-tools",
+      "name": "GitHub D&D Tools",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [450, 700]
+    },
+    {
+      "parameters": {
+        "content": "## TTRPG Asset Generation Report\\n\\n**Generated:** {{$json.timestamp}}\\n\\n### Trending Topics\\n{{$json.sources.reddit}}\\n\\n### Generated Prompts\\n{{$json.prompts}}\\n\\n### Monster Inspirations\\n{{$json.sources.monsters}}",
+        "options": {}
+      },
+      "id": "discord-notify",
+      "name": "Discord Notification",
+      "type": "n8n-nodes-base.discord",
+      "typeVersion": 2,
+      "position": [1250, 400]
+    },
+    {
+      "parameters": {
+        "url": "https://api.stability.ai/v1/generation/stable-diffusion-xl-1024-v1-0/text-to-image",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer YOUR_STABILITY_KEY"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text_prompts",
+              "value": "=[{\"text\": \"{{$json.prompts[0].prompt}}\", \"weight\": 1}]"
+            },
+            {
+              "name": "cfg_scale",
+              "value": "7"
+            },
+            {
+              "name": "samples",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "id": "stability-ai",
+      "name": "Stability AI SDXL",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1050, 200]
+    }
+  ],
+  "connections": {
+    "schedule-trigger": {
+      "main": [
+        [
+          {
+            "node": "reddit-dnd",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "dnd-api",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "github-tools",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "reddit-dnd": {
+      "main": [
+        [
+          {
+            "node": "gpt4-scene",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "gpt4-scene": {
+      "main": [
+        [
+          {
+            "node": "unsplash-inspiration",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "unsplash-inspiration": {
+      "main": [
+        [
+          {
+            "node": "combine-sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "combine-sources": {
+      "main": [
+        [
+          {
+            "node": "queue-generation",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "stability-ai",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "queue-generation": {
+      "main": [
+        [
+          {
+            "node": "discord-notify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "webhook-trigger": {
+      "main": [
+        [
+          {
+            "node": "reddit-dnd",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "id": "mega-automation"
+}

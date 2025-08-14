@@ -1,6 +1,6 @@
 ---
 MyCategory: Shadow Influence Network
-MyContainer: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+MyContainer: '[[Parliament of Echoes]]'
 benefits:
 - reward: Access to shadow memory markets and political whisper networks
   standing: 1
@@ -40,19 +40,15 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-party-shadows-party-shadows.svg)
-
-
 
 
 # Party Shadows
 
 *The unseen architects of Aquabyssos politics, operating through memory manipulation and shadow networks*
 
-The **Party Shadows** represent the darkest evolution of Aquabyssos political machinery - a secretive network of shadow-touched individuals who have learned to weaponize the very nature of their condition. Operating from within the [[02_Worldbuilding/Places/Parliament of Echoes]], this faction has transformed from outcasts into puppet masters, using their unique relationship with shadows and memory to influence the deepest currents of Aquabyssos society.
+The **Party Shadows** represent the darkest evolution of Aquabyssos political machinery - a secretive network of shadow-touched individuals who have learned to weaponize the very nature of their condition. Operating from within the [[Parliament of Echoes]], this faction has transformed from outcasts into puppet masters, using their unique relationship with shadows and memory to influence the deepest currents of Aquabyssos society.
 
 Unlike conventional political organizations, the Party Shadows operate through layers of plausible deniability and memory modification. Their members exist in a state of controlled shadow-integration, maintaining enough humanity to navigate society while possessing enough shadow-nature to access the realm's darker powers. They are the whispered rumors made manifest, the forgotten votes that change everything, the shadows behind the throne that cast no reflection.
 
@@ -61,16 +57,16 @@ Unlike conventional political organizations, the Party Shadows operate through l
 The Party Shadows operates through a cellular structure that mirrors the shadow realm itself - fluid, interconnected, but impossible to grasp in its entirety. Each cell maintains independence while contributing to larger objectives, creating a network resilient to discovery or disruption.
 
 ### Shadow Broker Mist
-[[02_Worldbuilding/People/Shadow Broker Mist]] serves as the organization's enigmatic leader, existing in a state of permanent semi-corporeal form that allows them to slip between the material realm and shadow dimensions. Mist's true identity remains unknown even to senior members, as they communicate through intermediaries and shadow-touched proxies. Their leadership style emphasizes manipulation over direct control, preferring to create conditions where their desired outcomes become inevitable.
+[[Shadow Broker Mist]] serves as the organization's enigmatic leader, existing in a state of permanent semi-corporeal form that allows them to slip between the material realm and shadow dimensions. Mist's true identity remains unknown even to senior members, as they communicate through intermediaries and shadow-touched proxies. Their leadership style emphasizes manipulation over direct control, preferring to create conditions where their desired outcomes become inevitable.
 
 ### The Parliamentary Wing
-Led by [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]], this branch focuses on legitimate political influence within the [[02_Worldbuilding/Places/Parliament of Echoes]]. Members like [[02_Worldbuilding/People/Senator Glaucus Brain]] and [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] maintain public careers while secretly advancing shadow agendas. They specialize in memory trading, information brokerage, and the subtle art of making opponents forget critical details during key votes.
+Led by [[Ambassador Nerida Deepcurrent]], this branch focuses on legitimate political influence within the [[Parliament of Echoes]]. Members like [[Senator Glaucus Brain]] and [[Tribune Cassia Deepcurrent]] maintain public careers while secretly advancing shadow agendas. They specialize in memory trading, information brokerage, and the subtle art of making opponents forget critical details during key votes.
 
 ### The Surgical Division
-The most disturbing aspect of Party Shadows operations, headed by [[02_Worldbuilding/People/The Silhouette Surgeon Prime]]. This division performs "shadow surgeries" - procedures that alter memories, modify identities, and even transplant shadow-touched abilities between individuals. [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]] serve as field operatives, while [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Apprentice]]s handle routine procedures.
+The most disturbing aspect of Party Shadows operations, headed by [[The Silhouette Surgeon Prime]]. This division performs "shadow surgeries" - procedures that alter memories, modify identities, and even transplant shadow-touched abilities between individuals. [[Vex Shadowthorn's Apprentices]] serve as field operatives, while [[Shadow Surgeon Apprentice]]s handle routine procedures.
 
 ### The Mirror Network
-A surveillance and intelligence arm consisting of [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]] - individuals who have undergone procedures to become living spy networks. Each Mirror can share consciousness with their handler, creating an information web that spans Aquabyssos society. They appear as ordinary citizens but report everything they witness to the collective shadow consciousness.
+A surveillance and intelligence arm consisting of [[Shadow Broker Mirrors]] - individuals who have undergone procedures to become living spy networks. Each Mirror can share consciousness with their handler, creating an information web that spans Aquabyssos society. They appear as ordinary citizens but report everything they witness to the collective shadow consciousness.
 
 ## Goals and Objectives
 
@@ -88,7 +84,7 @@ A surveillance and intelligence arm consisting of [[02_Worldbuilding/Groups/Crim
 - Preparing Aquabyssos for eventual merger with shadow realm governance
 
 ### Hidden Agenda: The Shadow Parliament
-The ultimate objective involves replacing the [[02_Worldbuilding/Places/Parliament of Echoes]] entirely with a [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]] where decisions are made through shadow consensus rather than democratic debate. This new system would eliminate the messiness of public opinion by directly manipulating the collective unconscious of Aquabyssos citizens.
+The ultimate objective involves replacing the [[Parliament of Echoes]] entirely with a [[Parliament of Shadows]] where decisions are made through shadow consensus rather than democratic debate. This new system would eliminate the messiness of public opinion by directly manipulating the collective unconscious of Aquabyssos citizens.
 
 ## Membership and Recruitment
 
@@ -122,10 +118,10 @@ Party Shadows operates sophisticated networks within Aquabyssos memory trading s
 
 ### Shadow Surgery Centers
 The organization maintains several clandestine facilities:
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgery Centers]]**: Hidden medical facilities performing identity modifications
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]**: Underground docks for smuggling shadow-touched individuals
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]**: Training grounds for new recruits and advanced procedures
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]]**: Black market hub for shadow-realm artifacts and services
+- **[[Shadow Surgery Centers]]**: Hidden medical facilities performing identity modifications
+- **[[Shadow Marina]]**: Underground docks for smuggling shadow-touched individuals
+- **[[Shadow Vale]]**: Training grounds for new recruits and advanced procedures
+- **[[Shadow Bazaar]]**: Black market hub for shadow-realm artifacts and services
 
 ### Political Infiltration
 Systematic placement of members within legitimate institutions:
@@ -137,33 +133,33 @@ Systematic placement of members within legitimate institutions:
 ## Allies and Enemies
 
 ### Allied Organizations
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]**: Shares intelligence and resources for mutual benefit
-- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**: Provides medical and modification services
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]**: Philosophical alliance around alternative governance
-- **[[02_Worldbuilding/Lore/Shadowhaven Smugglers Ring]]**: Transportation and logistics support
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Intelligence sharing regarding void-realm activities
+- **[[The Shadow Conspiracy]]**: Shares intelligence and resources for mutual benefit
+- **[[Shadow Surgeons Collective]]**: Provides medical and modification services
+- **[[The Parliament of Nobody]]**: Philosophical alliance around alternative governance
+- **[[Shadowhaven Smugglers Ring]]**: Transportation and logistics support
+- **[[The Void Watchers]]**: Intelligence sharing regarding void-realm activities
 
 ### Enemy Organizations
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Actively opposes shadow integration in society
-- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Represents traditional power structures being undermined
-- **[[02_Worldbuilding/People/Crystal Wardens]]**: Law enforcement dedicated to exposing shadow operations
-- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]**: Military opposition to shadow realm infiltration
-- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]**: Religious opposition to shadow-touched activities
+- **[[Purist Coalition]]**: Actively opposes shadow integration in society
+- **[[The Crown Authority]]**: Represents traditional power structures being undermined
+- **[[Crystal Wardens]]**: Law enforcement dedicated to exposing shadow operations
+- **[[The Deepwatch Guard]]**: Military opposition to shadow realm infiltration
+- **[[Temple of Divine Order]]**: Religious opposition to shadow-touched activities
 
 ### Neutral but Monitored
-- **[[02_Worldbuilding/Groups/The Crimson Fleet]]**: Potential recruitment source among pirates and outcasts
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Economic influence makes them valuable but dangerous
-- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]**: Their investigations could expose shadow activities
-- **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**: Traditional power base with unclear shadow policies
+- **[[The Crimson Fleet]]**: Potential recruitment source among pirates and outcasts
+- **[[Merchant Princes]]**: Economic influence makes them valuable but dangerous
+- **[[The Seekers' Guild]]**: Their investigations could expose shadow activities
+- **[[Ancient Mer-Folk Empire]]**: Traditional power base with unclear shadow policies
 
 ## Territory and Resources
 
 ### Operational Areas
 **Primary Territories:**
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Shadow Chamber operations and political influence
-- [[02_Worldbuilding/Places/The Shadowmere]] - Natural shadow realm intersection providing power source
-- [[02_Worldbuilding/Places/New Thalassopolis]] - Urban infiltration and memory market operations
-- [[02_Worldbuilding/Places/The Bathyal Palace]] - Deep-water facilities for advanced shadow procedures
+- [[Parliament of Echoes]] - Shadow Chamber operations and political influence
+- [[The Shadowmere]] - Natural shadow realm intersection providing power source
+- [[New Thalassopolis]] - Urban infiltration and memory market operations
+- [[The Bathyal Palace]] - Deep-water facilities for advanced shadow procedures
 
 **Resource Networks:**
 - Extensive memory trading portfolios generating significant income
@@ -183,16 +179,16 @@ The Party Shadows maintains financial stability through:
 ## Internal Politics and Factions
 
 ### The Moderate Wing
-Led by [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]], this faction believes in gradual shadow integration through legitimate political processes. They favor working within existing systems rather than overthrowing them entirely.
+Led by [[Ambassador Nerida Deepcurrent]], this faction believes in gradual shadow integration through legitimate political processes. They favor working within existing systems rather than overthrowing them entirely.
 
 ### The Radical Surgeons
-Following [[02_Worldbuilding/People/The Silhouette Surgeon Prime]], this group advocates for aggressive expansion through forced shadow conversion. They view non-shadow-touched individuals as obstacles to be removed or modified.
+Following [[The Silhouette Surgeon Prime]], this group advocates for aggressive expansion through forced shadow conversion. They view non-shadow-touched individuals as obstacles to be removed or modified.
 
 ### The Purist Shadows
 Paradoxically, this faction believes shadow-touched individuals should remain separate from normal society. They oppose integration while supporting shadow supremacy through parallel institutions.
 
 ### The Convergence Theorists
-Influenced by [[02_Worldbuilding/Groups/The Convergence Seekers]], this group believes the shadow realm and material plane should merge completely, creating a new hybrid reality governed by shadow-touched principles.
+Influenced by [[The Convergence Seekers]], this group believes the shadow realm and material plane should merge completely, creating a new hybrid reality governed by shadow-touched principles.
 
 ## Adventure Hooks
 
@@ -264,9 +260,9 @@ The Party Shadows represents the dark evolution of political power in Aquabyssos
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow War Coalition]]
 
 ## Player-Facing Summary
 
@@ -284,27 +280,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Groups/Merchant Princes]]
-- [[02_Worldbuilding/Groups/Purist Coalition]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Apprentice]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[02_Worldbuilding/People/Shadow Broker Mist]]
-- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
-- [[02_Worldbuilding/Places/New Thalassopolis]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[Parliament of Echoes]]
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Merchant Princes]]
+- [[Purist Coalition]]
+- [[Shadow Broker Mirrors]]
+- [[Shadow Marina]]
+- [[Shadow Surgeon Apprentice]]
+- [[Shadow Surgeons Collective]]
+- [[Shadow Vale]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Parliament of Nobody]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Shadow Broker Mist]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Bathyal Palace]]

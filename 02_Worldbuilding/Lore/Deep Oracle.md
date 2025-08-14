@@ -15,11 +15,8 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png)
-
+![[04_Resources/Assets/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png]]
 
 
 ## Overview
@@ -45,3 +42,7 @@ Legends speak of Deep Oracle as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

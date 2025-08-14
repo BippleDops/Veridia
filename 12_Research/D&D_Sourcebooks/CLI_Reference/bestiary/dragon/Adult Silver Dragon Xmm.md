@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-silver-dragon-xmm-adult-silver-dragon-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/adult-silver-dragon-xmm|Adult Silver Dragon]]
+# [[adult-silver-dragon-xmm|Adult Silver Dragon]]
 *Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Adult silver dragons love to spend time among various peoples. Rather than manipulating politics directly, they support individuals who have ambitious goals or who popularize the return of great universities, inspiring athletics events or festivals, and other salutary civic institutions of the past. Silver dragons often surround themselves with like-minded allies and are watchful for hidden threats.
@@ -73,11 +73,11 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "5"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+8"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "cold"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
@@ -88,42 +88,42 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of (A) Paralyzing Breath or (B) Spellcasting to cast [[/03_Mechanics/CLI/spells/ice-knife-xphb|Ice Knife]]."
+      \ use of (A) Paralyzing Breath or (B) Spellcasting to cast [[ice-knife-xphb|Ice Knife]]."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 17 (2d8 + 8) Slashing damage\
       \ plus 4 (d8) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 54 (12d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
-      \ 1st Failure: The target has the [[/03_Mechanics/CLI/conditions#Incapacitated|Incapacitated]]\
+  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
+      \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-      \ The target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition,\
+      \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
       \ and it repeats the save at the end of each of its turns, ending the effect\
       \ on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralyzing Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit\
-      \ with spell attacks):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|Detect Magic]],\
-      \ [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]], [[/03_Mechanics/CLI/spells/ice-knife-xphb|Ice Knife]],\
-      \ [[/03_Mechanics/CLI/spells/shapechange-xphb|Shapechange]] (Beast or Humanoid\
-      \ form only, no [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ gained from the spell, and no Concentration or [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]]\
-      \ required to maintain the spell)\n\n1/day each: [[/03_Mechanics/CLI/spells/ice-storm-xphb|Ice Storm]]\
-      \ (level 5 version), [[/03_Mechanics/CLI/spells/zone-of-truth-xphb|Zone of Truth]]"
+      \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
+      \ [[hold-monster-xphb|Hold Monster]], [[ice-knife-xphb|Ice Knife]],\
+      \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
+      \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
+      \ required to maintain the spell)\n\n1/day each: [[ice-storm-xphb|Ice Storm]]\
+      \ (level 5 version), [[zone-of-truth-xphb|Zone of Truth]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [[/03_Mechanics/CLI/spells/hold-monster-xphb|Hold Monster]].\
+  - "desc": "The dragon uses Spellcasting to cast [[hold-monster-xphb|Hold Monster]].\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Chill"
   - "desc": "Dexterity Saving Throw: DC 19, each creature in a 60-foot-long, 10-foot-wide\
-      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away\
       \ from the dragon. Success: Half damage only. Failure or Success: The dragon\
       \ can't take this action again until the start of its next turn."
     "name": "Cold Gale"
-  - "desc": "The dragon moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+  - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -133,7 +133,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "desc": "- Gentle Gusts. Winds buoy creatures that fall within 1 mile of the\
       \ lair. Such creatures descend at a rate of 60 feet per round and take no damage\
       \ from falling.  \n- Sun and Storms. While in its lair, the dragon can cast\
-      \ [[/03_Mechanics/CLI/spells/control-weather-xphb|Control Weather]], requiring\
+      \ [[control-weather-xphb|Control Weather]], requiring\
       \ no Material components and using the same spellcasting ability as its Spellcasting\
       \ action.  "
     "name": ""

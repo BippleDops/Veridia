@@ -14,15 +14,13 @@ world: Both
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-emperor-the-emperor.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-emperor-the-emperor.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Azure Shard]]
+- [[Azure Shard]]
 
 ## Player-Facing Summary
 

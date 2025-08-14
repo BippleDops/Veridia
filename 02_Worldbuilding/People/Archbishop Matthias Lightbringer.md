@@ -15,10 +15,7 @@ world: Aethermoor
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg]]
 
 
 ## Overview
@@ -63,6 +60,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Archbishop Matthias Lightbringer]]
+- [[Archbishop Matthias Lightbringer]]
 
 <!-- enriched: true -->

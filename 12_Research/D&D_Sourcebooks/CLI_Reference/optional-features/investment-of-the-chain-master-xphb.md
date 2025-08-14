@@ -22,15 +22,15 @@ world: Both
 
 **Prerequisite**: Level 5 Warlock
 
-When you cast [[/03_Mechanics/CLI/spells/find-familiar-xphb|Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast [[find-familiar-xphb|Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 ## Aerial or Aquatic
 
-The familiar gains either a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] or a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] (your choice) of 40 feet.
+The familiar gains either a [[fly-speed-xphb|Fly Speed]] or a [[swim-speed-xphb|Swim Speed]] (your choice) of 40 feet.
 
 ## Quick Attack
 
-As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], you can command the familiar to take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action.
+As a [[bonus-action-xphb|Bonus Action]], you can command the familiar to take the [[actions#Attack|Attack]] action.
 
 ## Necrotic or Radiant Damage
 
@@ -42,7 +42,7 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [[/03_Mechanics/CLI/variant-rules/reaction-xphb|Reaction]] to grant it [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] against that damage.
+When the familiar takes damage, you can take a [[reaction-xphb|Reaction]] to grant it [[resistance-xphb|Resistance]] against that damage.
 
 ## Player-Facing Summary
 

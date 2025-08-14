@@ -16,30 +16,25 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg)
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg]]
 
 
 # The Metamorphosis Clinic
 *Revolutionary Center of Biological Transformation*
 
 > *"Within these coral walls, the very essence of being becomes fluid, where flesh is clay in the hands of masters who understand the deepest secrets of life itself. Here, Doctor Coral Shapeshift performs miracles that blur the line between healing and creation, between medicine and magic."*
-> — [[02_Worldbuilding/Places/Medical Historian Nautilus Deepscribe]], *Advances in Aquabyssos Medicine*
+> — [[Medical Historian Nautilus Deepscribe]], *Advances in Aquabyssos Medicine*
 
 ## Overview
 
-The Metamorphosis Clinic represents the pinnacle of experimental medical practice in [[02_Worldbuilding/Places/Aquabyssos]], a cutting-edge facility where the boundaries of biology, magic, and medicine converge in ways that would be impossible anywhere else in the underwater realm. Located in the progressive [[02_Worldbuilding/Places/Harbor District]], this controversial yet essential medical institution has established itself as the premier destination for complex biological transformations, radical healing procedures, and experimental treatments that conventional medicine cannot address. Under the skilled direction of Doctor Coral Shapeshift, the clinic has pioneered revolutionary techniques that blend traditional mer-folk healing arts with innovative magical research, creating possibilities for physical change and biological adaptation that challenge fundamental assumptions about the nature of life itself.
+The Metamorphosis Clinic represents the pinnacle of experimental medical practice in [[Aquabyssos]], a cutting-edge facility where the boundaries of biology, magic, and medicine converge in ways that would be impossible anywhere else in the underwater realm. Located in the progressive [[Harbor District]], this controversial yet essential medical institution has established itself as the premier destination for complex biological transformations, radical healing procedures, and experimental treatments that conventional medicine cannot address. Under the skilled direction of Doctor Coral Shapeshift, the clinic has pioneered revolutionary techniques that blend traditional mer-folk healing arts with innovative magical research, creating possibilities for physical change and biological adaptation that challenge fundamental assumptions about the nature of life itself.
 
 ## Atmospheric Description
 
 ### The Living Entrance
 **Organic Architecture**: The clinic's entrance defies conventional architectural expectations, appearing as a massive living organism rather than a traditional building. The walls pulse gently with bioluminescent veins that carry nutrients and magical energy throughout the structure, while the doorway itself resembles a sphincter that dilates to admit visitors, sealing seamlessly behind them. Visitors often experience momentary disorientation as they realize they are stepping inside what is essentially a gigantic, benevolent creature that serves as both building and medical instrument.
 
-**Sensory Experience**: The air within carries a complex mixture of medical antiseptics, organic growth media, and subtle magical energies that create a unique atmosphere unlike anywhere else in [[02_Worldbuilding/Places/Aquabyssos]]. Soft, rhythmic sounds echo through the space - a combination of heartbeat, breathing, and magical resonance that suggests the building itself is alive and aware. The temperature remains perfectly regulated through biological processes, creating an environment of absolute comfort that somehow enhances the body's natural healing responses.
+**Sensory Experience**: The air within carries a complex mixture of medical antiseptics, organic growth media, and subtle magical energies that create a unique atmosphere unlike anywhere else in [[Aquabyssos]]. Soft, rhythmic sounds echo through the space - a combination of heartbeat, breathing, and magical resonance that suggests the building itself is alive and aware. The temperature remains perfectly regulated through biological processes, creating an environment of absolute comfort that somehow enhances the body's natural healing responses.
 
 ### The Central Transformation Chamber
 **Heart of Operations**: The clinic's central chamber serves as both waiting area and showcase of Doctor Coral Shapeshift's capabilities. Transparent chrysalis pods line the walls, each containing specimens at various stages of transformation - some medical procedures in progress, others demonstration examples of successful treatments. The chamber's domed ceiling displays a constantly shifting pattern of bioluminescent displays that mirror the biological processes occurring throughout the facility, creating a mesmerizing light show that helps calm nervous patients.
@@ -117,13 +112,13 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 
 **Complications**: The transformation may be progressing faster than initially apparent, creating time pressure for finding a solution. The affected noble's family may demand immediate action that could make the situation worse, while political rivals might try to exploit the crisis for their own advantage.
 
-**Stakes**: Success saves the patient's life and protects the clinic's reputation, while failure could result in the creation of a dangerous monster and the potential shutdown of transformation medicine throughout [[02_Worldbuilding/Places/Aquabyssos]]. The adventure provides opportunities to explore the ethical implications of experimental medicine and the responsibilities that come with revolutionary capabilities.
+**Stakes**: Success saves the patient's life and protects the clinic's reputation, while failure could result in the creation of a dangerous monster and the potential shutdown of transformation medicine throughout [[Aquabyssos]]. The adventure provides opportunities to explore the ethical implications of experimental medicine and the responsibilities that come with revolutionary capabilities.
 
 ### The Stolen Research Crisis
 **Level**: 6-12  
 **Situation**: Critical research data containing transformation techniques and patient information has been stolen from the clinic's memory preservation systems. The stolen information could be used to create unauthorized transformations, blackmail patients who have undergone sensitive procedures, or replicate the clinic's techniques without proper safety protocols.
 
-**Investigation**: Characters must track down the thieves through [[02_Worldbuilding/Places/Aquabyssos]]'s underworld while racing to prevent the stolen information from being used maliciously. The trail may lead through rival medical facilities, foreign intelligence networks, or criminal organizations that specialize in magical technology theft.
+**Investigation**: Characters must track down the thieves through [[Aquabyssos]]'s underworld while racing to prevent the stolen information from being used maliciously. The trail may lead through rival medical facilities, foreign intelligence networks, or criminal organizations that specialize in magical technology theft.
 
 **Challenges**: The investigation requires discretion to protect patient privacy while gathering evidence about the theft. Multiple parties may be interested in the stolen information for different reasons, creating complex networks of suspects and potential allies. Time pressure increases as evidence suggests the thieves plan to use or sell the information quickly.
 
@@ -131,7 +126,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 
 ### The Experimental Treatment Emergency
 **Level**: 7-13  
-**Emergency**: A rare disease is rapidly spreading through part of [[02_Worldbuilding/Places/Aquabyssos]], and conventional medicine has proven ineffective. Doctor Shapeshift believes that a radical experimental transformation could provide immunity, but the treatment is untested and potentially dangerous. The characters must help gather rare components for the experimental treatment while protecting the clinic from those who oppose experimental medicine.
+**Emergency**: A rare disease is rapidly spreading through part of [[Aquabyssos]], and conventional medicine has proven ineffective. Doctor Shapeshift believes that a radical experimental transformation could provide immunity, but the treatment is untested and potentially dangerous. The characters must help gather rare components for the experimental treatment while protecting the clinic from those who oppose experimental medicine.
 
 **Resources**: The experimental treatment requires ingredients from dangerous locations throughout the ocean, including abyssal trenches, magical coral reefs, and territories controlled by hostile creatures. Characters must organize expeditions to gather these materials while racing against the disease's spread.
 
@@ -167,7 +162,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Research**: Secret research into transformation addiction has revealed connections to magical addiction patterns seen with other types of experimental magic. The clinic has developed protocols to identify and treat transformation addiction, but the underlying causes remain mysterious and potentially dangerous.
 
 ### The Ancient Transformation Archives
-**Historical Discovery**: Hidden within the clinic's living architecture are chambers containing transformation records from previous civilizations that predate current [[02_Worldbuilding/Places/Aquabyssos]] society. These archives suggest that transformation medicine has been practiced for millennia, with techniques and capabilities that exceed current understanding.
+**Historical Discovery**: Hidden within the clinic's living architecture are chambers containing transformation records from previous civilizations that predate current [[Aquabyssos]] society. These archives suggest that transformation medicine has been practiced for millennia, with techniques and capabilities that exceed current understanding.
 
 **Knowledge**: The ancient records contain procedures and techniques that could revolutionize current transformation medicine, but they also include warnings about dangers and ethical considerations that previous civilizations discovered through difficult experience. Access to these archives could provide unprecedented medical capabilities or unleash ancient dangers.
 
@@ -221,7 +216,7 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 **Custom Equipment**: Doctor Shapeshift can create custom medical devices or enhancement items tailored to specific character needs. These items might provide ongoing healing effects, protection against specific dangers, or capabilities that complement existing equipment and abilities.
 
 ### Professional Connections and Reputation
-**Medical Network**: Establishing relationships with the clinic provides access to a broader network of medical professionals, researchers, and patients throughout [[02_Worldbuilding/Places/Aquabyssos]] and beyond. These connections can provide information, services, and opportunities for characters involved in healing, research, or social activities.
+**Medical Network**: Establishing relationships with the clinic provides access to a broader network of medical professionals, researchers, and patients throughout [[Aquabyssos]] and beyond. These connections can provide information, services, and opportunities for characters involved in healing, research, or social activities.
 
 **Research Opportunities**: Characters who assist with clinic operations may be invited to participate in medical research projects, gain access to experimental procedures, or collaborate on developing new transformation techniques. These opportunities can provide unique character development and access to cutting-edge medical capabilities.
 
@@ -254,28 +249,28 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Royal Palace]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Harbor District]]
+- [[Abyssos Prime]]
+- [[Royal Palace]]
+- [[Parliament of Echoes]]
 
 **Related NPCs**:
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[02_Worldbuilding/Places/Senior Nurse Polyp Tendercurrent]]
-- [[02_Worldbuilding/Places/Transformation Specialist Anemone Flowshift]]
-- [[02_Worldbuilding/Places/Medical Historian Nautilus Deepscribe]]
+- [[Doctor Coral Shapeshift]]
+- [[Senior Nurse Polyp Tendercurrent]]
+- [[Transformation Specialist Anemone Flowshift]]
+- [[Medical Historian Nautilus Deepscribe]]
 
 **Related Items and Concepts**:
-- [[02_Worldbuilding/Places/Transformation Medicine Techniques]]
-- [[02_Worldbuilding/Places/Memory Preservation Technology]]
-- [[02_Worldbuilding/Places/Biological Enhancement Procedures]]
-- [[02_Worldbuilding/Places/Experimental Medical Ethics]]
+- [[Transformation Medicine Techniques]]
+- [[Memory Preservation Technology]]
+- [[Biological Enhancement Procedures]]
+- [[Experimental Medical Ethics]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -297,6 +292,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[Doctor Coral Shapeshift]]
 
 <!-- enriched: true -->

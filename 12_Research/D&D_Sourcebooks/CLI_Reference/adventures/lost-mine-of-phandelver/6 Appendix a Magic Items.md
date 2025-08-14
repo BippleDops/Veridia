@@ -26,7 +26,7 @@ A magic item is a wondrous treasure that adventurers find in a monster's hoard, 
 
 ## Using a Magic Item
 
-A magic item's description explains how the item works. Handling a magic item is enough to give a character a sense that something is extraordinary about the item. Casting the [[/03_Mechanics/CLI/spells/identify-xphb|identify]] spell on the item then reveals its properties. Alternatively, a character can concentrate on the item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties. Potions are an exception; a little taste is enough to tell the taster what the potion does.
+A magic item's description explains how the item works. Handling a magic item is enough to give a character a sense that something is extraordinary about the item. Casting the [[identify-xphb|identify]] spell on the item then reveals its properties. Alternatively, a character can concentrate on the item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties. Potions are an exception; a little taste is enough to tell the taster what the potion does.
 
 Certain magic items require a user to **attune** to them before their magical properties can be used. Attuning to a magic item requires that you spend a short rest concentrating on it (this can't be the same short rest used to learn an item's properties). Depending on the nature of the item, this concentration can take the form of prayers, weapon practice, or meditation. In any case, the concentration period must be uninterrupted. Once you are attuned to an item, you can use its magical properties.
 
@@ -36,19 +36,19 @@ Your attunement to an item ends when the item has been more than 100 feet away f
 
 ## Item Descriptions
 
-- [[/03_Mechanics/CLI/items/1-armor-xdmg|+1 Armor]]  
-- [[/03_Mechanics/CLI/items/1-weapon-xdmg|+1 Weapon]]  
-- [[/03_Mechanics/CLI/items/boots-of-striding-and-springing-xdmg|Boots of Striding and Springing]]  
-- [[/03_Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]]  
-- [[/03_Mechanics/CLI/items/potion-of-flying-xdmg|Potion of Flying]]  
-- [[/03_Mechanics/CLI/items/potion-of-healing-xdmg|Potion of Healing]]  
-- [[/03_Mechanics/CLI/items/potion-of-invisibility-xdmg|Potion of Invisibility]]  
-- [[/03_Mechanics/CLI/items/potion-of-vitality-xdmg|Potion of Vitality]]  
-- [[/03_Mechanics/CLI/items/ring-of-protection-xdmg|Ring of Protection]]  
-- [[/03_Mechanics/CLI/items/spell-scroll-xdmg|Spell Scroll]]  
-- [[/03_Mechanics/CLI/items/spider-staff-lmop|Spider Staff]]  
-- [[/03_Mechanics/CLI/items/staff-of-defense-lmop|Staff of Defense]]  
-- [[/03_Mechanics/CLI/items/wand-of-magic-missiles-xdmg|Wand of Magic Missiles]]
+- [[1-armor-xdmg|+1 Armor]]  
+- [[1-weapon-xdmg|+1 Weapon]]  
+- [[boots-of-striding-and-springing-xdmg|Boots of Striding and Springing]]  
+- [[gauntlets-of-ogre-power-xdmg|Gauntlets of Ogre Power]]  
+- [[potion-of-flying-xdmg|Potion of Flying]]  
+- [[potion-of-healing-xdmg|Potion of Healing]]  
+- [[potion-of-invisibility-xdmg|Potion of Invisibility]]  
+- [[potion-of-vitality-xdmg|Potion of Vitality]]  
+- [[ring-of-protection-xdmg|Ring of Protection]]  
+- [[spell-scroll-xdmg|Spell Scroll]]  
+- [[spider-staff-lmop|Spider Staff]]  
+- [[staff-of-defense-lmop|Staff of Defense]]  
+- [[wand-of-magic-missiles-xdmg|Wand of Magic Missiles]]
 
 ## Player-Facing Summary
 

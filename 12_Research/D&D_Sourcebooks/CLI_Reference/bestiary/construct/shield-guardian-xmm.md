@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shield-guardian-xmm-shield-guardian-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/shield-guardian-xmm|Shield Guardian]]
+# [[shield-guardian-xmm|Shield Guardian]]
 *Source: Monster Manual (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shield Guardian
@@ -57,9 +57,9 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -71,8 +71,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
       \ wearer, half of any damage the wearer takes (round up) is transferred to the\
       \ guardian."
     "name": "Bound"
-  - "desc": "The guardian regains 10 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
-      \ at the start of each of its turns if it has at least 1 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Point]]."
+  - "desc": "The guardian regains 10 [[hit-points-xphb|Hit Points]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb|Hit Point]]."
     "name": "Regeneration"
   - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
       \ to store one spell of level 4 or lower. To do so, the wearer must cast the\

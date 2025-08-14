@@ -28,7 +28,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grell-xmm-grell-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/grell-xmm|Grell]]
+# [[grell-xmm|Grell]]
 *Source: Monster Manual (2024) p. 157*  
 
 ## Grell
@@ -81,12 +81,12 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Prone|prone]]"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
@@ -99,13 +99,13 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Piercing damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 7 (1d10 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
       \ to the following effect. Constitution Saving Throw: DC 11. Failure: The\
-      \ target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]] condition\
+      \ target has the [[conditions#Poisoned|Poisoned]] condition\
       \ and repeats the save at the end of each of its turns, ending the effect on\
-      \ itself on a success. After 1 minute, it succeeds automatically. While [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]],\
-      \ the target has the [[/03_Mechanics/CLI/conditions#Paralyzed|Paralyzed]] condition."
+      \ itself on a success. After 1 minute, it succeeds automatically. While [[conditions#Poisoned|Poisoned]],\
+      \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"

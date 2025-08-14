@@ -15,21 +15,18 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-of-contracts-minerva-bindingword-keeper-of-contracts-minerva-bindingword.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-of-contracts-minerva-bindingword-keeper-of-contracts-minerva-bindingword.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[12_Research/D&D_References/Parliament of Echoes]]
+- [[12_Research/D&D_References/The Bathyal Palace]]
 
 ## Player-Facing Summary
 
@@ -50,3 +47,7 @@ Legends speak of Keeper of Contracts Minerva Bindingword as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]

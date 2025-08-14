@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-ancient-historian-memento-ancient-historian-memento.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-ancient-historian-memento-ancient-historian-memento.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Ancient Historian Memento]]
+- [[Ancient Historian Memento]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[Tethyan Hegemony]]

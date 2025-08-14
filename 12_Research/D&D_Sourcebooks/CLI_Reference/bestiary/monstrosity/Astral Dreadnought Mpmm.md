@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-astral-dreadnought-mpmm-astral-dreadnought-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm|Astral Dreadnought]]
+# [[astral-dreadnought-mpmm|Astral Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -57,30 +57,30 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "dexterity": !!int "5"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Prone|prone]], [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Prone|prone]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": ""
 "cr": "21"
 "traits":
-  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[/03_Mechanics/CLI/spells/antimagic-field-xphb|antimagic\
+  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[antimagic-field-xphb|antimagic\
       \ field]] spell, in a 150-foot\
       \ cone. At the start of each of its turns, it decides which way the cone faces.\
       \ The cone doesn't function while the eye is closed or while the dreadnought\
-      \ is [[/03_Mechanics/CLI/conditions#Blinded|blinded]]."
+      \ is [[conditions#Blinded|blinded]]."
     "name": "Antimagic Cone"
   - "desc": "The dreadnought can't leave the Astral Plane, nor can it be banished\
       \ or otherwise transported out of that plane."
     "name": "Astral Entity"
   - "desc": "Anything the dreadnought swallows is transported to a demiplane that\
-      \ can be entered by no other means except a [[/03_Mechanics/CLI/spells/wish-xphb|wish]]\
+      \ can be entered by no other means except a [[wish-xphb|wish]]\
       \ spell or the dreadnought's Bite and Donjon Visit. A creature can leave the\
-      \ demiplane only by using magic that enables planar travel, such as the [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane\
+      \ demiplane only by using magic that enables planar travel, such as the [[plane-shift-xphb|plane\
       \ shift]] spell. The demiplane resembles\
       \ a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high.\
       \ Like a stomach, it contains the remains of past meals. The dreadnought can't\
@@ -91,7 +91,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "desc": "If the dreadnought fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "If the dreadnought scores a critical hit against a creature traveling\
-      \ by means of the [[/03_Mechanics/CLI/spells/astral-projection-xphb|astral projection]]\
+      \ by means of the [[astral-projection-xphb|astral projection]]\
       \ spell, the dreadnought can cut the target's silver cord instead of dealing\
       \ damage."
     "name": "Sever Silver Cord"
@@ -102,7 +102,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36\
       \ (5d10 + 9) force damage. If the target is a Huge or smaller creature and this\
-      \ damage reduces it to 0 hit points or it is [[/03_Mechanics/CLI/conditions#Incapacitated|incapacitated]],\
+      \ damage reduces it to 0 hit points or it is [[conditions#Incapacitated|incapacitated]],\
       \ the dreadnought swallows it. The swallowed target, along with everything it\
       \ is wearing and carrying, appears in an unoccupied space on the floor of the\
       \ Demiplanar Donjon."

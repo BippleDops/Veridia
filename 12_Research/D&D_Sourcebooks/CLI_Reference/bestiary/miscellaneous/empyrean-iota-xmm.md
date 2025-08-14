@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-empyrean-iota-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\miscellaneous/empyrean-iota-xmm|Empyrean Iota]]
+# [[empyrean-iota-xmm|Empyrean Iota]]
 *Source: Monster Manual (2024) p. 112*  
 
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
@@ -76,23 +76,23 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - !!int "16"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Prone|prone]]"
 "senses": "truesight 30 ft., passive Perception 15"
 "languages": "all"
 "cr": "1"
 "traits":
   - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [[/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb|Difficult Terrain]].\
+      \ were [[difficult-terrain-xphb|Difficult Terrain]].\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+  - "desc": "The empyrean has [[advantage-xphb|Advantage]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -101,11 +101,11 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Otherworldly Strike"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability:\n\n1/day each:\
-      \ [[/03_Mechanics/CLI/spells/bless-xphb|Bless]], [[/03_Mechanics/CLI/spells/lesser-restoration-xphb|Lesser Restoration]]\
+      \ [[bless-xphb|Bless]], [[lesser-restoration-xphb|Lesser Restoration]]\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The empyrean casts [[/03_Mechanics/CLI/spells/healing-word-xphb|Healing Word]],\
+  - "desc": "The empyrean casts [[healing-word-xphb|Healing Word]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Healing Word (1/Day)"
 "source":

@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-archaic-scc-archaic-scc.svg)
 
-# [[3-Mechanics\CLI\bestiary\celestial/archaic-scc|Archaic]]
+# [[archaic-scc|Archaic]]
 *Source: Strixhaven: A Curriculum of Chaos p. 184*  
 
 Archaics are towering, multi-armed creatures overflowing with magic. Despite their solitude, archaics carry vast understanding of magic and the world's history, as well as the ability to warp the fabric of the world around them. Sages who seek out archaics for their knowledge receive confusing and often contradictory answers to questions. If a supplicant successfully unwinds the tangle, the answer they seek is revealed.
@@ -58,20 +58,20 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   - "wisdom": !!int "13"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+20"
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+11"
-  - "name": "[[/03_Mechanics/CLI/skills#History|History]]"
+  - "name": "[[skills#History|History]]"
     "desc": "+20"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
 "damage_resistances": "force"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all"
 "cr": "18"
@@ -106,10 +106,10 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
     "name": "Teleport"
   - "desc": "The archaic casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 22):\n\nAt will: [[/03_Mechanics/CLI/spells/detect-magic-xphb|detect magic]],\
-      \ [[/03_Mechanics/CLI/spells/divination-xphb|divination]], [[/03_Mechanics/CLI/spells/sending-xphb|sending]]\n\
-      \n1/day each: [[/03_Mechanics/CLI/spells/banishment-xphb|banishment]],\
-      \ [[/03_Mechanics/CLI/spells/forcecage-xphb|forcecage]]"
+      \ DC 22):\n\nAt will: [[detect-magic-xphb|detect magic]],\
+      \ [[divination-xphb|divination]], [[sending-xphb|sending]]\n\
+      \n1/day each: [[banishment-xphb|banishment]],\
+      \ [[forcecage-xphb|forcecage]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after a creature the archaic can see casts a spell of 5th\

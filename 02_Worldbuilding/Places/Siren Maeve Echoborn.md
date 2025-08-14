@@ -14,21 +14,18 @@ world: Both
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-siren-maeve-echoborn-siren-maeve-echoborn.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-siren-maeve-echoborn-siren-maeve-echoborn.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Lumengarde]]
+- [[Lumengarde]]
 
 ## Player-Facing Summary
 

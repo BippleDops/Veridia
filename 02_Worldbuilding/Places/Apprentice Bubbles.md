@@ -16,11 +16,7 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-apprentice-bubbles-apprentice-bubbles.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-apprentice-bubbles-apprentice-bubbles.svg]]
 
 
 ## Overview
@@ -62,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Apprentice Bubbles]]
+- [[Apprentice Bubbles]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[The Phosphor Markets]]

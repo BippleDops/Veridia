@@ -14,17 +14,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[12_Research/D&D_References/Bexley]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Bexley]]
+- [[12_Research/D&D_References/Bexley]]
 
 ## Player-Facing Summary
 

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-air-xphb-bestial-spirit-air-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/bestial-spirit-air-xphb|Bestial Spirit (Air)]]
+# [[bestial-spirit-air-xphb|Bestial Spirit (Air)]]
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -45,7 +45,7 @@ world: Both
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]]\
+  - "desc": "The spirit doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]]\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

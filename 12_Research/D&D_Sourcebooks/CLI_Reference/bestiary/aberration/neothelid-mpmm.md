@@ -25,7 +25,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neothelid-mpmm-neothelid-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/neothelid-mpmm|Neothelid]]
+# [[neothelid-mpmm|Neothelid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181*  
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
@@ -63,8 +63,8 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
   - "desc": "The neothelid is aware of the presence of creatures within 1 mile of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's Intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [[/03_Mechanics/CLI/spells/mind-blank-xphb|mind blank]]\
-      \ spell, a [[/03_Mechanics/CLI/spells/nondetection-xphb|nondetection]] spell,\
+      \ but can't sense anything else about it. A creature protected by a [[mind-blank-xphb|mind blank]]\
+      \ spell, a [[nondetection-xphb|nondetection]] spell,\
       \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The neothelid has advantage on saving throws against spells and other\
@@ -74,17 +74,17 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
   - "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 21\
       \ (3d8 + 8) bludgeoning damage plus 11 (2d10) psychic damage. If the target\
       \ is a Large or smaller creature, it must succeed on a DC 18 Strength saving\
-      \ throw or be swallowed by the neothelid. A swallowed creature is [[/03_Mechanics/CLI/conditions#Blinded|blinded]]\
-      \ and [[/03_Mechanics/CLI/conditions#Restrained|restrained]], it has total\
+      \ throw or be swallowed by the neothelid. A swallowed creature is [[conditions#Blinded|blinded]]\
+      \ and [[conditions#Restrained|restrained]], it has total\
       \ cover against attacks and other effects outside the neothelid, and it takes\
       \ 21 (6d6) acid damage at the start of each of the neothelid's turns.\n\nIf\
       \ the neothelid takes 30 damage or more on a single turn from a creature inside\
       \ it, the neothelid must succeed on a DC 18 Constitution saving throw at the\
-      \ end of that turn or regurgitate all swallowed creatures, which fall [[/03_Mechanics/CLI/conditions#Prone|prone]]\
+      \ end of that turn or regurgitate all swallowed creatures, which fall [[conditions#Prone|prone]]\
       \ in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed\
-      \ creature is no longer [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
+      \ creature is no longer [[conditions#Restrained|restrained]]\
       \ by it and can escape from the corpse by using 20 feet of movement, exiting\
-      \ [[/03_Mechanics/CLI/conditions#Prone|prone]]."
+      \ [[conditions#Prone|prone]]."
     "name": "Tentacles"
   - "desc": "The neothelid exhales acid in a 60-foot cone. Each creature in that area\
       \ must make a DC 18 Dexterity saving throw, taking 35 (10d6) acid damage on\
@@ -92,8 +92,8 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The neothelid casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\nAt will:\
-      \ [[/03_Mechanics/CLI/spells/levitate-xphb|levitate]]\n\n1/day each: [[/03_Mechanics/CLI/spells/confusion-xphb|confusion]],\
-      \ [[/03_Mechanics/CLI/spells/befuddlement-xphb|feeblemind]], [[/03_Mechanics/CLI/spells/telekinesis-xphb|telekinesis]]"
+      \ [[levitate-xphb|levitate]]\n\n1/day each: [[confusion-xphb|confusion]],\
+      \ [[befuddlement-xphb|feeblemind]], [[telekinesis-xphb|telekinesis]]"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"

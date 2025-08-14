@@ -44,7 +44,7 @@ world: Both
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [[/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] |
+| 20 | Inside a [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] |
 ^exotic-location
 
 ## Player-Facing Summary

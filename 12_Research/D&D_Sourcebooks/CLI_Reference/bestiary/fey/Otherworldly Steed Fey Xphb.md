@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fey-xphb-otherworldly-steed-fey-xphb.svg)
 
-# [[3-Mechanics\CLI\bestiary\fey/otherworldly-steed-fey-xphb|Otherworldly Steed (Fey)]]
+# [[otherworldly-steed-fey-xphb|Otherworldly Steed (Fey)]]
 *Source: Player's Handbook (2024) p. 273*  
 
 ```statblock

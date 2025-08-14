@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[Crystallium]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[Crystallium]]
 
 ## Player-Facing Summary
 

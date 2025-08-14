@@ -29,9 +29,9 @@ world: Both
 
 Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
-A successful DC 20 Intelligence ([[/03_Mechanics/CLI/skills#Arcana|Arcana]]) check reveals that the mouth contains a sphere of annihilation that can't be controlled or moved. It is otherwise identical to a normal [[/03_Mechanics/CLI/items/sphere-of-annihilation-xdmg|sphere of annihilation]], as described in chapter 7, "Treasure." Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the sympathy aspect of the [[/03_Mechanics/CLI/spells/antipathy-sympathy-xphb|antipathy/sympathy]] spell.
+A successful DC 20 Intelligence ([[skills#Arcana|Arcana]]) check reveals that the mouth contains a sphere of annihilation that can't be controlled or moved. It is otherwise identical to a normal [[sphere-of-annihilation-xdmg|sphere of annihilation]], as described in chapter 7, "Treasure." Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the sympathy aspect of the [[antipathy-sympathy-xphb|antipathy/sympathy]] spell.
 
-A successful [[/03_Mechanics/CLI/spells/dispel-magic-xphb|dispel magic]] (DC 18) removes this enchantment.
+A successful [[dispel-magic-xphb|dispel magic]] (DC 18) removes this enchantment.
 
 *Source: Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 

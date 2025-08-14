@@ -14,10 +14,6 @@ world: Both
 ---
 
 
-
-
-
-
 ## Overview
 
 TODO
@@ -59,12 +55,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Crown]]
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[The Crown]]
+- [[Inverted Ballroom Wing]]
 - [[Keeper of the Past, Elderly Morgan]]
-- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[Mad Oracle Thessaly]]

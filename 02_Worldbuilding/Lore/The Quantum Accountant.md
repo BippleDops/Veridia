@@ -15,11 +15,6 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
-
-
-
-
-
 ## Overview
 
 TODO
@@ -46,9 +41,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[12_Research/D&D_References/The Liminal Trading Company]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[12_Research/D&D_References/The Liminal Trading Company]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

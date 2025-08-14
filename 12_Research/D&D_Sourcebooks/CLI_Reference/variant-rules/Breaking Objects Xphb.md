@@ -22,11 +22,11 @@ world: Both
 # Breaking Objects
 *Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [[/03_Mechanics/CLI/actions#Attack|Attack]] or [[/03_Mechanics/CLI/actions#Utilize|Utilize]] action.
+Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [[actions#Attack|Attack]] or [[actions#Utilize|Utilize]] action.
 
 ## Armor Class
 
-The Object [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] table suggests ACs for various substances.
+The Object [[armor-class-xphb|Armor Class]] table suggests ACs for various substances.
 
 **Object Armor Class**
 
@@ -43,7 +43,7 @@ The Object [[/03_Mechanics/CLI/variant-rules/armor-class-xphb|Armor Class]] tabl
 
 ## Hit Points
 
-An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit-points-xphb|Hit Points]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit-points-xphb|Hit Points]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 **Object Hit Points**
 
@@ -57,7 +57,7 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 ## Damage Types and Objects
 
-Objects have [[/03_Mechanics/CLI/variant-rules/immunity-xphb|Immunity]] to Poison and Psychic damage. The DM might decide that some [[/03_Mechanics/CLI/variant-rules/damage-types-xphb|damage types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[/03_Mechanics/CLI/variant-rules/vulnerability-xphb|Vulnerability]] to Fire damage.
+Objects have [[immunity-xphb|Immunity]] to Poison and Psychic damage. The DM might decide that some [[damage-types-xphb|damage types]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[vulnerability-xphb|Vulnerability]] to Fire damage.
 
 ## Damage Threshold
 

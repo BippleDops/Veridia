@@ -24,7 +24,7 @@ world: Both
 
 ![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/006-tod-09-01.webp#center)
 
-*The Rise of Tiamat* begins immediately after the conclusion of *Hoard of the Dragon Queen*, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] that heralds the next stage of the Cult of the Dragon's plots. (See Chapter 17 for more information on the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]], but be sure to withhold that information until the characters have played through the "Chapter 10: The Sea of Moving Ice.")
+*The Rise of Tiamat* begins immediately after the conclusion of *Hoard of the Dragon Queen*, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient [[draakhorn-rot|Draakhorn]] that heralds the next stage of the Cult of the Dragon's plots. (See Chapter 17 for more information on the [[draakhorn-rot|Draakhorn]], but be sure to withhold that information until the characters have played through the "Chapter 10: The Sea of Moving Ice.")
 
 ## Starting the Adventure
 
@@ -32,14 +32,14 @@ world: Both
 
 It's easy enough to simply tell the players that their characters are back in Waterdeep. However, if you suspect that your group won't find that satisfying, you can avoid playing through a long overland journey by making use of the following scenario.
 
-Wherever the characters are when this session begins, a raven flies up to them. The bird is part of an [[/03_Mechanics/CLI/spells/animal-messenger-xphb|animal messenger]] relay dispatched by Leosin Erlanthar's allies in the Emerald Enclave.
+Wherever the characters are when this session begins, a raven flies up to them. The bird is part of an [[animal-messenger-xphb|animal messenger]] relay dispatched by Leosin Erlanthar's allies in the Emerald Enclave.
 
 > [!readaloud] 
 > 
 > The raven lands a dozen paces from you, then boldly hops closer, a flat parcel wrapped in oilskin strapped to its belly. It eyes you enigmatically for a few moments, then speaks in a familiar voice. "Leosin Erlanthar sends his heartiest congratulations! Please use the gift this bird brings to meet me in Waterdeep as soon as possible."
 ^061
 
-The bird waits patiently while the leather parcel is removed from its harness. The parcel contains a carefully folded [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scroll]] of [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] and the sigil sequence of a permanent teleport circle in Waterdeep. The circle can be in a temple, a government building, or any other site of your choice. If the party includes more than six characters, the parcel contains two scrolls. If none of the characters can use a [[/03_Mechanics/CLI/spells/teleport-xphb|teleport]] scroll, they'll need to seek out an NPC who can. Just don't make it too difficult.
+The bird waits patiently while the leather parcel is removed from its harness. The parcel contains a carefully folded [[spell-scroll-xdmg|spell scroll]] of [[teleport-xphb|teleport]] and the sigil sequence of a permanent teleport circle in Waterdeep. The circle can be in a temple, a government building, or any other site of your choice. If the party includes more than six characters, the parcel contains two scrolls. If none of the characters can use a [[teleport-xphb|teleport]] scroll, they'll need to seek out an NPC who can. Just don't make it too difficult.
 
 ## Back in Waterdeep
 
@@ -51,7 +51,7 @@ To coordinate their efforts against the Cult of the Dragon, the factions have se
 
 When the characters arrive in Waterdeep, they are met by the Harper agent Leosin Erlanthar. The monk explains the purpose of the council and tells the adventurers they are expected to attend the first gathering—both so the council can thank them for their great deeds and to advise the council about the Cult of the Dragon. Four meetings of the council occur at critical points throughout the crisis, right up to the final chapter of the adventure at the Well of Dragons.
 
-During the **first session** of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] sounds. In the aftermath, the characters are given leads to chapter 10 or to [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] in chapter 11 and 12.
+During the **first session** of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the [[draakhorn-rot|Draakhorn]] sounds. In the aftermath, the characters are given leads to chapter 10 or to [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] in chapter 11 and 12.
 
 **second session** of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] in "Chapters 11 and 12: Death to the Wyrmspeakers." The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to chapter 14.
 
@@ -89,7 +89,7 @@ In her grief, Remi Haventree has sworn to destroy the cult and the threat it pre
 
 ### The Draakhorn Sounds
 
-Shortly after the crash or capture of Skyreach Castle, operatives of the Cult of the Dragon sounded the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] at the distant Well of Dragons. An ancient magic relic, the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] is being used by the cult to summon chromatic dragons to their dark cause.
+Shortly after the crash or capture of Skyreach Castle, operatives of the Cult of the Dragon sounded the [[draakhorn-rot|Draakhorn]] at the distant Well of Dragons. An ancient magic relic, the [[draakhorn-rot|Draakhorn]] is being used by the cult to summon chromatic dragons to their dark cause.
 
 As the characters are arriving in Waterdeep, read or paraphrase the following.
 
@@ -104,10 +104,10 @@ During the first session of the council (or earlier if the characters make effor
 
 > [!readaloud] 
 > 
-> "The disturbance that's been sensed across the Sword Coast is the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]]—an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. "
+> "The disturbance that's been sensed across the Sword Coast is the [[draakhorn-rot|Draakhorn]]—an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. "
 ^06a
 
-Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]], but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in Chapter 14."
+Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the [[draakhorn-rot|Draakhorn]], but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in Chapter 14."
 
 ### First Session
 
@@ -139,7 +139,7 @@ One of Remallia Haventree's first acts in her fight against the Cult of the Drag
 
 #### Setup: The Sea of Moving Ice
 
-The sounding of the [[/03_Mechanics/CLI/items/draakhorn-rot|Draakhorn]] weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and chapter 10.
+The sounding of the [[draakhorn-rot|Draakhorn]] weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and chapter 10.
 
 ### Second Session
 
@@ -197,7 +197,7 @@ The fourth council is the final meeting between the faction leaders and the adve
 
 At an appropriate point in the council meetings, Rian Nightshade approaches the characters and asks for a private audience. She explains her position as an emissary of the Zhentarim, and of the Zhentarim's interest in current affairs. She bemoans the dithering of the other factions, stating that the Black Network is willing to act immediately and unflinchingly—if the party can help arrange agreeable terms for the Zhentarim's support.
 
-Rian points out that the Zhentarim have a keen interest in Xonthal's Tower. Ownership of the tower is under discussion by the council, but the tiefling wants to deal directly with the adventurers, who have claim to the tower by right of conquest. The Zhentarim are willing to purchase the adventurers' interest in the tower for 50,000 gold pieces, and Rian can throw in a [[/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg|greater healing potion]], a [[/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg|potion of frost giant strength]], and a [[/03_Mechanics/CLI/items/spell-scroll-xdmg|spell scroll]] of [[/03_Mechanics/CLI/spells/earthquake-xphb|earthquake]] to sweeten the deal. This price could go up considerably if the party negotiates agreeable terms from the other factions for the Zhentarim's support—up to an additional 25,000 gp, at your discretion.
+Rian points out that the Zhentarim have a keen interest in Xonthal's Tower. Ownership of the tower is under discussion by the council, but the tiefling wants to deal directly with the adventurers, who have claim to the tower by right of conquest. The Zhentarim are willing to purchase the adventurers' interest in the tower for 50,000 gold pieces, and Rian can throw in a [[potion-of-greater-healing-xdmg|greater healing potion]], a [[potion-of-frost-giant-strength-xdmg|potion of frost giant strength]], and a [[spell-scroll-xdmg|spell scroll]] of [[earthquake-xphb|earthquake]] to sweeten the deal. This price could go up considerably if the party negotiates agreeable terms from the other factions for the Zhentarim's support—up to an additional 25,000 gp, at your discretion.
 
 #### Follow-up: Mission to Thay
 

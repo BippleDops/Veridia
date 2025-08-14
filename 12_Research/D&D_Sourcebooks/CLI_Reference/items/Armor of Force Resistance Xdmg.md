@@ -42,7 +42,7 @@ world: Both
 
 
 
-You have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to force damage while you wear this armor.
+You have [[resistance-xphb|Resistance]] to force damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Force Resistance](#Breastplate%20of%20Force%20Resistance)

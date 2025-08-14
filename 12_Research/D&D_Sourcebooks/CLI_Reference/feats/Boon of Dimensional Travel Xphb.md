@@ -29,7 +29,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Blink Steps.** Immediately after you take the [[/03_Mechanics/CLI/actions#Attack|Attack]] action or the [[/03_Mechanics/CLI/actions#Magic|Magic]] action, you can teleport up to 30 feet to an unoccupied space you can see.
+**Blink Steps.** Immediately after you take the [[actions#Attack|Attack]] action or the [[actions#Magic|Magic]] action, you can teleport up to 30 feet to an unoccupied space you can see.
 
 ## Player-Facing Summary
 

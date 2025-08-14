@@ -16,20 +16,14 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-sundered-peaks-the-sundered-peaks.svg)
-
-
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sundered-peaks-the-sundered-peaks.svg]]
 
 
 # The Sundered Peaks
 *Where Earth Meets Sky and Crystal*
 
 ## Overview
-The Sundered Peaks form [[02_Worldbuilding/Places/Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[02_Worldbuilding/Lore/The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[02_Worldbuilding/Places/Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
+The Sundered Peaks form [[Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
 
 ## Geography
 
@@ -41,7 +35,7 @@ The Sundered Peaks form [[02_Worldbuilding/Places/Aethermoor]]'s eastern border,
 - **Guardian's Watch**: Strategic fortress location
 
 ### Notable Locations
-- **[[02_Worldbuilding/Places/Ironhold]]**: Dwarven capital, population 50,000
+- **[[Ironhold]]**: Dwarven capital, population 50,000
 - **The Crystal Mines**: Largest operations on continent
 - **The Oracle's Perch**: Sacred divination site
 - **The Sundered Valley**: Where Spire erupted
@@ -58,7 +52,7 @@ Where the Azure Shard struck:
 - Mental enhancement effects
 
 ### Mining Operations
-- **Royal Mines**: [[02_Worldbuilding/Groups/The Crystal Throne]] controlled
+- **Royal Mines**: [[The Crystal Throne]] controlled
 - **Free Mines**: Independent operators
 - **Dwarven Depths**: Traditional deep mining
 - **Smuggler Holes**: Illegal operations
@@ -67,7 +61,7 @@ Where the Azure Shard struck:
 ## Inhabitants
 
 ### Dwarven Clans
-- **Clan Ironforge**: Rules [[02_Worldbuilding/Places/Ironhold]]
+- **Clan Ironforge**: Rules [[Ironhold]]
 - **Clan Crystalbeard**: Master miners
 - **Clan Stoneward**: Garrison the passes
 - **Clan Deepdelver**: Explore ancient ruins
@@ -121,7 +115,7 @@ Sacred site at 15,000 feet:
 ## Current Conflicts
 
 ### The Mining Wars
-- [[02_Worldbuilding/Groups/The Crystal Throne]] vs. Free Miners
+- [[The Crystal Throne]] vs. Free Miners
 - Claim disputes
 - Smuggling operations
 - Worker strikes
@@ -137,8 +131,8 @@ Sacred site at 15,000 feet:
 ### Political Tensions
 - Dwarves want independence
 - Humans demand more mines
-- [[02_Worldbuilding/Groups/Purist Coalition]] sabotage
-- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] infiltration
+- [[Purist Coalition]] sabotage
+- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] infiltration
 
 ## The Deep Roads
 
@@ -226,17 +220,17 @@ Pre-Shattering tunnel system:
 - Captain Orik Stoneward
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Part of continent
-- [[02_Worldbuilding/Places/Ironhold]] - Major city
-- [[02_Worldbuilding/Places/Crystalhaven]] - Trade partner
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Northern border
+- [[Aethermoor]] - Part of continent
+- [[Ironhold]] - Major city
+- [[Crystalhaven]] - Trade partner
+- [[The Crystalline Wastes]] - Northern border
 - The Deep Roads - Underground
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Claims sovereignty
-- [[02_Worldbuilding/People/Crystal Wardens]] - Garrison forces
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Control trade
-- [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
+- [[The Crystal Throne]] - Claims sovereignty
+- [[Crystal Wardens]] - Garrison forces
+- [[Merchant Princes]] - Control trade
+- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
 
 ## DM Notes
 - Balance tradition vs. progress
@@ -249,9 +243,9 @@ Pre-Shattering tunnel system:
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Establish the New Order]]
+- [[The Forsaken Consortium Collective]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -264,8 +258,8 @@ Legends speak of The Sundered Peaks as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[The Sundered Peaks]]
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/People/Crystal Wardens]]
-- [[02_Worldbuilding/Places/Ironhold]]
+- [[Crystal Wardens]]
+- [[Ironhold]]

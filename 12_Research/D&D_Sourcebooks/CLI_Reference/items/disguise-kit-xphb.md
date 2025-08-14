@@ -31,7 +31,7 @@ world: Both
 
 - **Ability.** Charisma  
 - **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [[/03_Mechanics/CLI/items/costume-xphb|Costume]]  
+- **Craft.** [[costume-xphb|Costume]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 

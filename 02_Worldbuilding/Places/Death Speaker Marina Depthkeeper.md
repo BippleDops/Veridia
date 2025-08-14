@@ -15,11 +15,6 @@ world: Both Worlds
 ---
 
 
-
-
-
-
-
 ## Overview
 
 TODO
@@ -59,7 +54,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Death Speaker Marina Depthkeeper]]
+- [[Death Speaker Marina Depthkeeper]]
 
 <!-- enriched: true -->
 

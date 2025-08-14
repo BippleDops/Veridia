@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-keeper-stormheart-keeper-stormheart.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-stormheart-keeper-stormheart.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

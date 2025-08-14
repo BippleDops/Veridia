@@ -23,9 +23,6 @@ world: Aquabyssos
 ![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)
 
 
-
-
-
 # Inverted Ballroom Wing - Party Quarters
 
 *"Where the depths meet the heights in impossible splendor."*
@@ -73,8 +70,8 @@ Three-tiered structure with the main ballroom suspended from the ceiling. Coral-
 ## Connections
 - Direct access to Royal Palace chambers
 - Underwater tunnels to noble residences
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[Find the Grief Bomb]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 
 
 ## History
@@ -114,6 +111,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
+- [[Inverted Ballroom Wing - Party Quarters]]
 
 <!-- enriched: true -->

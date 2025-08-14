@@ -60,13 +60,13 @@ Remember that the characters are just part of the convoy escort. The monsters li
 |-------------------------------|-----------|
 | 1–14 | No encounter |
 | 15 | 12 human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
-| 16 | 1 [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|troll]] |
-| 17 | 4 [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] and 1 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogre]] |
-| 18 | 2 [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|ogres]] |
-| 19 | 3 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] and 3 [[/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm|giant lizards]] |
+| 16 | 1 [[troll-xmm|troll]] |
+| 17 | 4 [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] and 1 [[ogre-xmm|ogre]] |
+| 18 | 2 [[ogre-xmm|ogres]] |
+| 19 | 3 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] and 3 [[giant-lizard-xmm|giant lizards]] |
 | 20 | 6 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
-| 21 | 8 [[/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm|giant frogs]] |
-| 22 | 12 [[/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm|bullywugs]] |
+| 21 | 8 [[giant-frog-xmm|giant frogs]] |
+| 22 | 12 [[bullywug-warrior-xmm|bullywugs]] |
 ^modifier-encounter
 
 ## Carnath Roadhouse
@@ -81,7 +81,7 @@ When wagons arrive from the south, they are brought into the compound one or two
 
 Bog Luck was recruited to the Cult of the Dragon years ago. The only outward sign of this is the scabbard of his ever-present shortsword, which is decorated with a dragon resembling the designs on the scabbards characters saw in the dragon hatchery (and possibly have with them still; see area 12 in that section). When cult wagons arrive, their road-building cargo is unloaded into the compound normally, but Bog Luck ensures that the contraband is stored in the strong room. Afterward, he goes into the strong room alone and paints a symbol onto each carton belonging to the cult.
 
-In the floor of the strong room is a camouflaged trapdoor. It can be found with a DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check. The trapdoor connects to a dripping, slimy tunnel that runs 500 yards into a dense stand of trees and brush at the edge of the Mere of Dead Men. At night, when everyone in the compound is asleep except for a few rooftop guards, lizardfolk creep through the tunnel and take the marked crates to a location in the mere (the subject of chapter 6). They seldom perform this task over a single night unless the shipment is very small. Typically they take one night per wagon.
+In the floor of the strong room is a camouflaged trapdoor. It can be found with a DC 10 Wisdom ([[skills#Perception|Perception]]) check. The trapdoor connects to a dripping, slimy tunnel that runs 500 yards into a dense stand of trees and brush at the edge of the Mere of Dead Men. At night, when everyone in the compound is asleep except for a few rooftop guards, lizardfolk creep through the tunnel and take the marked crates to a location in the mere (the subject of chapter 6). They seldom perform this task over a single night unless the shipment is very small. Typically they take one night per wagon.
 
 > [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/025-map-5-1-carnath-roadhouse.webp#gallery|Map 5.1: Carnath Roadhouse]]
@@ -105,9 +105,9 @@ Unusually valuable cargoes and personal items are kept in the strong room under 
 
 Since the sleeping rooms can't be locked, workers and teamsters often have Bog Luck lock their cash and other valuables into the strong room for safekeeping. He keeps a record in a ledger book of all the personal items stored there and has a reputation for being meticulous about making sure everyone gets their belongings back—all of their belongings and *only* their belongings.
 
-The key for this room is always on Bog Luck's belt, but the lock can be opened with a successful DC 10 Dexterity check and a set of [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]].
+The key for this room is always on Bog Luck's belt, but the lock can be opened with a successful DC 10 Dexterity check and a set of [[thieves-tools-xphb|thieves' tools]].
 
-The trapdoor is located in the southeast corner of the room. An empty crate nailed onto the door covers it; when the door is opened, the whole crate tips toward the north. Being nailed to the floor, the crate feels solid and full to a casual bump or shove. Only when it's tipped does the trick become obvious. It can be discovered with a thorough 20-minute search of the room or with a successful DC 10 Wisdom ([[/03_Mechanics/CLI/skills#Perception|Perception]]) check.
+The trapdoor is located in the southeast corner of the room. An empty crate nailed onto the door covers it; when the door is opened, the whole crate tips toward the north. Being nailed to the floor, the crate feels solid and full to a casual bump or shove. Only when it's tipped does the trick become obvious. It can be discovered with a thorough 20-minute search of the room or with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check.
 
 If characters search the strong room during the night, lizardfolk show up to cart away contraband. There are three [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] for every two characters.
 
@@ -119,7 +119,7 @@ None of the rooms have locks on their doors except Bog Luck's. If asked about lo
 
 ### 6. Bog Luck's Room
 
-Bog Luck has this room to himself, so it's more spacious and comfortable than the others. He's seldom here except when sleeping, and he keeps the door locked. A successful DC 10 Dexterity check with [[/03_Mechanics/CLI/items/thieves-tools-xphb|thieves' tools]] can open it. Despite his crude manner, Bog Luck is a somewhat educated man, as evidenced by the books of philosophy and natural history on his reading shelf.
+Bog Luck has this room to himself, so it's more spacious and comfortable than the others. He's seldom here except when sleeping, and he keeps the door locked. A successful DC 10 Dexterity check with [[thieves-tools-xphb|thieves' tools]] can open it. Despite his crude manner, Bog Luck is a somewhat educated man, as evidenced by the books of philosophy and natural history on his reading shelf.
 
 ### 7. Ardred Briferhew's Room
 

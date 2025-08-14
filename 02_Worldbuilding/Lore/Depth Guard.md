@@ -12,9 +12,6 @@ updated: '2025-08-13T01:18:34.519500+00:00'
 ---
 
 
-
-
-
 ## Overview
 
 TODO
@@ -41,10 +38,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[12_Research/D&D_Statblocks/Senator's Private Chambers]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[12_Research/D&D_References/Marina Red Tide Coralheart - Aquabyssos]]
+- [[12_Research/D&D_Statblocks/Senator's Private Chambers]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - both
 - complete
 - content/lore
@@ -14,17 +15,14 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
+- [[Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
+- [[12_Research/D&D_References/Shadow Conspiracy Investigation]]
 
 ## Player-Facing Summary
 
@@ -45,3 +43,7 @@ Legends speak of Technical Director Jasper Lightforge as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]

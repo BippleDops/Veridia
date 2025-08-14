@@ -15,20 +15,17 @@ world: Both
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-high-oracle-serenity-deepcall-high-oracle-serenity-deepcall.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-high-oracle-serenity-deepcall-high-oracle-serenity-deepcall.svg]]
 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
+- [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[Temple of Divine Order]]
 
 ## Player-Facing Summary
 

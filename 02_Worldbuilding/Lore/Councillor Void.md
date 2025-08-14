@@ -2,6 +2,7 @@
 created: '2025-08-11'
 status: complete
 tags:
+- shadow-touched
 - aquabyssos
 - complete
 - content/faction
@@ -13,10 +14,6 @@ type: Lore
 updated: '2025-08-13T12:34:15.963200+00:00'
 world: Aquabyssos
 ---
-
-
-
-
 
 
 ## Overview
@@ -45,9 +42,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
+- [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 
 
 ## Connections
 
+- [[12_Research/D&D_References/The Shadow Conspiracy]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]

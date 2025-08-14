@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
 
-# [[3-Mechanics\CLI\bestiary\plant/chuul-spore-servant-oota|Chuul Spore Servant]]
+# [[chuul-spore-servant-oota|Chuul Spore Servant]]
 *Source: Out of the Abyss p. 228*  
 
 ```statblock
@@ -49,9 +49,9 @@ world: Both
   - !!int "1"
 "speed": "30 ft., swim 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]], [[/03_Mechanics/CLI/conditions#Charmed|charmed]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
@@ -59,9 +59,9 @@ world: Both
   - "desc": "The spore servant makes two pincer attacks."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
-      \ (2d6 + 4) bludgeoning damage. The target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (2d6 + 4) bludgeoning damage. The target is [[conditions#Grappled|grappled]]\
       \ (Escape DC 14) if it is a Large or smaller creature and the spore servant\
-      \ doesn't have two other creatures [[/03_Mechanics/CLI/conditions#Grappled|grappled]]."
+      \ doesn't have two other creatures [[conditions#Grappled|grappled]]."
     "name": "Pincer"
 "source":
   - "OotA"

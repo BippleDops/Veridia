@@ -5,6 +5,13 @@ created_by: auto-stub
 significance: Campaign-Critical
 status: complete
 tags:
+- combat
+- quest
+- session-notes
+- crystal-enhanced
+- shadow-touched
+- aerial
+- aquatic
 - both
 - complete
 - content/lore
@@ -26,33 +33,32 @@ world: Both
 ---
 
 
-
-
-
 # Merged Reality Zones
+
 *Where Two Worlds Become One, and Physics Becomes Negotiable*
 
 ## Overview
 
-Merged Reality Zones represent the most dangerous and fascinating phenomenon occurring as [[02_Worldbuilding/Lore/The Convergence Point]] approaches. These are areas where the dimensional barriers between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] have become so thin that both realities exist simultaneously in the same physical space. Within these zones, the laws of physics, magic, and even causality become fluid and unpredictable, creating environments where crystal formations grow underwater, pressure exists in open air, and time flows in multiple directions at once.
+Merged Reality Zones represent the most dangerous and fascinating phenomenon occurring as [[12_Research/D&D_References/The Convergence Point]] approaches. These are areas where the dimensional barriers between [[12_Research/D&D_References/Aethermoor]] and [[12_Research/D&D_References/Aquabyssos]] have become so thin that both realities exist simultaneously in the same physical space. Within these zones, the laws of physics, magic, and even causality become fluid and unpredictable, creating environments where crystal formations grow underwater, pressure exists in open air, and time flows in multiple directions at once.
 
 ## Formation and Expansion
 
 ### Origin Points
+
 Merged Reality Zones typically form around specific catalyst locations:
 
 **Primary Catalysts:**
-- **Ancient Disaster Sites**: Locations where [[02_Worldbuilding/Lore/The Great Crystallization]] or [[02_Worldbuilding/Lore/Timeline of the Drowning]] had strongest impact
-- **Shard Manifestation Points**: Areas where [[02_Worldbuilding/Lore/The Seven Shards]] have been used or stored
+- **Ancient Disaster Sites**: Locations where [[12_Research/D&D_References/The Great Crystallization]] or [[12_Research/D&D_References/Timeline of the Drowning]] had strongest impact
+- **Shard Manifestation Points**: Areas where [[12_Research/D&D_References/The Seven Shards]] have been used or stored
 - **Emotional Nexuses**: Places of intense love, loss, or sacrifice that resonate across dimensions
-- **Memory Concentration Points**: Areas with high [[02_Worldbuilding/Lore/Memory Alteration]] activity
-- **Shadow Corruption Hearts**: Centers of advanced [[02_Worldbuilding/Lore/Shadow Corruption]] that serve as dimensional wounds
+- **Memory Concentration Points**: Areas with high [[12_Research/D&D_References/Memory Alteration]] activity
+- **Shadow Corruption Hearts**: Centers of advanced [[Shadow Corruption]] that serve as dimensional wounds
 
 **Secondary Formation Points:**
 - Intersections of crystal ley lines and deep ocean currents
 - Sites of massive ritual magic or consciousness manipulation
-- Locations where [[02_Worldbuilding/Lore/The Real Marina]] has experienced identity bleeds
-- Areas where [[02_Worldbuilding/Lore/Deep Mother Influence]] and crystal consciousness overlap
+- Locations where [[12_Research/D&D_References/The Real Marina]] has experienced identity bleeds
+- Areas where [[12_Research/D&D_References/Deep Mother Influence]] and crystal consciousness overlap
 - Places where individuals from both worlds have shared identical experiences
 
 ### Expansion Patterns
@@ -65,14 +71,14 @@ Merged Reality Zones typically form around specific catalyst locations:
 
 **Accelerated Growth (Crisis):**
 - Magical catastrophes can expand zones by miles in hours
-- Use of [[02_Worldbuilding/Lore/The Seven Shards]] causes immediate zone formation or growth
+- Use of [[12_Research/D&D_References/The Seven Shards]] causes immediate zone formation or growth
 - Mass emotional trauma (wars, disasters) creates rapid expansion
-- [[02_Worldbuilding/Lore/The Convergence Point]] approach causing all zones to grow simultaneously
+- [[12_Research/D&D_References/The Convergence Point]] approach causing all zones to grow simultaneously
 
 **Artificial Manipulation:**
-- [[02_Worldbuilding/Lore/The Crimson Hand]] techniques can deliberately create new zones
-- [[02_Worldbuilding/Groups/The Crystal Throne]] crystal networks can slow expansion
-- [[02_Worldbuilding/People/Sire]]s sometimes trigger zones through consciousness experiments
+- [[12_Research/D&D_References/The Crimson Hand]] techniques can deliberately create new zones
+- [[12_Research/D&D_References/The Crystal Throne]] crystal networks can slow expansion
+- [[12_Research/D&D_References/Sire]]s sometimes trigger zones through consciousness experiments
 - Resistance groups attempt to contain zones using hybrid magic techniques
 
 ## Environmental Characteristics
@@ -127,7 +133,8 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 ## Types of Merged Reality Zones
 
 ### The Harmonic Gardens
-**Location**: Overlapping [[02_Worldbuilding/Places/Crystal Gardens]] and [[02_Worldbuilding/Places/Coral Reef Sanctuaries]]
+
+**Location**: Overlapping [[12_Research/D&D_Statblocks/Crystal Gardens]] and [[12_Research/D&D_References/Coral Reef Sanctuaries]]
 **Characteristics:**
 - Crystal formations growing in perfect underwater gardens
 - Marine life swimming through air between crystal branches
@@ -143,7 +150,8 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Pressure Flowers**: Plants that bloom only under specific pressure conditions
 
 ### The Storm Convergence
-**Location**: Areas where [[02_Worldbuilding/Places/Aethermoor]] sky magic meets [[02_Worldbuilding/Places/Aquabyssos]] pressure systems
+
+**Location**: Areas where [[12_Research/D&D_References/Aethermoor]] sky magic meets [[12_Research/D&D_References/Aquabyssos]] pressure systems
 **Characteristics:**
 - Perpetual weather phenomena combining wind, rain, and crystalline energy
 - Lightning that carries both electricity and memory fragments
@@ -159,7 +167,8 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Reality Hail**: Solid chunks of crystallized spacetime falling from storm clouds
 
 ### The Drowning Spires
-**Location**: Areas where [[02_Worldbuilding/Places/Crystalhaven]]'s towers extend into [[02_Worldbuilding/Places/Aquabyssos]] depths
+
+**Location**: Areas where [[12_Research/D&D_References/Crystalhaven]]'s towers extend into [[12_Research/D&D_References/Aquabyssos]] depths
 **Characteristics:**
 - Massive crystal spires extending infinitely downward into abyssal depths
 - Building interiors filled with breathable water at crushing pressure
@@ -175,7 +184,8 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Reality Anchors**: Structural elements maintaining stability across dimensions
 
 ### The Trading Nexus
-**Location**: Areas where [[02_Worldbuilding/Lore/Silverscale Banking House]] operations overlap with [[02_Worldbuilding/People/Sire]] networks
+
+**Location**: Areas where [[12_Research/D&D_References/Silverscale Banking House]] operations overlap with [[12_Research/D&D_References/Sire]] networks
 **Characteristics:**
 - Markets where goods from both worlds are traded simultaneously
 - Currency that exists as both crystal formations and pressure-stored memories
@@ -191,7 +201,8 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Quantum Transactions**: Purchases that exist in multiple states until observed
 
 ### The Battlefield Convergence
-**Location**: Sites of major conflicts between [[02_Worldbuilding/Groups/The Crystal Throne]] and [[02_Worldbuilding/Lore/Deep Mother Influence]]
+
+**Location**: Sites of major conflicts between [[12_Research/D&D_References/The Crystal Throne]] and [[12_Research/D&D_References/Deep Mother Influence]]
 **Characteristics:**
 - Permanent war zones where both worlds' military forces clash
 - Weapons that function according to multiple reality sets
@@ -300,7 +311,7 @@ Individuals from both worlds who have become permanently adapted:
 ### Transportation Infrastructure
 
 **Dimensional Railways:**
-- [[02_Worldbuilding/Lore/The Crystal Express]]: Train routes that follow stable paths through zones
+- [[12_Research/D&D_References/The Crystal Express]]: Train routes that follow stable paths through zones
 - Stations existing in both realities simultaneously
 - Cars with adjustable pressure, gravity, and atmosphere
 - Emergency stops for dimensional sickness or reality shock
@@ -407,7 +418,8 @@ Individuals from both worlds who have become permanently adapted:
 ## Connection to Campaign Elements
 
 ### The Convergence Point
-Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worldbuilding/Lore/The Convergence Point]]:
+
+Merged Reality Zones serve as preview and preparation for the ultimate [[12_Research/D&D_References/The Convergence Point]]:
 - Demonstrate potential outcomes of successful or failed convergence
 - Provide training grounds for individuals who must navigate merged reality
 - Show both benefits and dangers of dimensional unification
@@ -415,7 +427,8 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 - Create urgency around resolving convergence before zones expand globally
 
 ### Marina's Identity Crisis
-[[02_Worldbuilding/Lore/The Real Marina]]'s situation reflects the identity challenges faced in merged zones:
+
+[[12_Research/D&D_References/The Real Marina]]'s situation reflects the identity challenges faced in merged zones:
 - Her multiple authentic selves mirror zone inhabitants' dual existence
 - Her memory integration process parallels adaptation to merged reality
 - Her struggle to maintain individual identity echoes zone visitors' challenges
@@ -423,7 +436,8 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 - Her choice about integration may influence how zones develop
 
 ### The Seven Shards
-[[02_Worldbuilding/Lore/The Seven Shards]] serve as both catalysts and potential solutions for zone phenomena:
+
+[[12_Research/D&D_References/The Seven Shards]] serve as both catalysts and potential solutions for zone phenomena:
 - Their presence accelerates zone formation and expansion
 - Their unification could create the ultimate merged reality zone
 - Their power might be used to stabilize or eliminate existing zones
@@ -431,7 +445,8 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 - Their ultimate fate will determine whether zones spread or stabilize
 
 ### Shadow Corruption
-[[02_Worldbuilding/Lore/Shadow Corruption]] interacts with merged zones in complex ways:
+
+[[Shadow Corruption]] interacts with merged zones in complex ways:
 - Zones provide vectors for corruption to spread between dimensions
 - Corruption may accelerate zone formation and expansion
 - Zones' reality instability makes corruption effects more unpredictable
@@ -441,20 +456,24 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 ## DM Secrets and Campaign Integration
 
 ### Hidden Truths
+
 > [!warning] DM Only
-> Merged Reality Zones are not random phenomena—they're deliberate preparation by [[02_Worldbuilding/Lore/The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage]] for their reunion. Each zone serves as a testing ground for how successfully the two realities can integrate. The zones are essentially "practice runs" for convergence, allowing the divine lovers to experiment with different merger techniques while gathering data about what works.
+> Merged Reality Zones are not random phenomena—they're deliberate preparation by [[12_Research/D&D_References/The Deep Mother]] and [[12_Research/D&D_Statblocks/The Crimson Sage]] for their reunion. Each zone serves as a testing ground for how successfully the two realities can integrate. The zones are essentially "practice runs" for convergence, allowing the divine lovers to experiment with different merger techniques while gathering data about what works.
 
 ### Zone Consciousness
+
 > [!warning] DM Secret
 > The largest and most stable merged zones have developed their own collective consciousness—a fusion of divine awareness from both realities. These zone minds are neither malevolent nor benevolent, but they do have their own agenda: expanding their influence and creating more stable merged areas. They may secretly guide or manipulate visitors to achieve these goals.
 
 ### The Ultimate Purpose  
+
 > [!warning] Hidden Knowledge
 > The zones are not just preview of convergence—they're the mechanism by which convergence will occur. As zones expand and merge with each other, they will eventually cover both entire worlds. The final convergence will happen when the last non-merged areas are absorbed, creating a single hybrid reality where both worlds' rules apply everywhere.
 
 ## Adventure Hooks and Campaign Integration
 
 ### Early Campaign
+
 - Guide merchant caravans safely through newly formed zones
 - Investigate strange phenomena in areas where zones are beginning to form
 - Rescue individuals who have become lost between realities
@@ -462,6 +481,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 - Study early-stage zones to understand formation patterns
 
 ### Mid Campaign
+
 - Establish permanent bases or facilities within major zones
 - Negotiate with zone-adapted inhabitants for intelligence and resources
 - Prevent hostile forces from weaponizing zones for military advantage
@@ -469,6 +489,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 - Make moral choices about whether to help zones expand or contain them
 
 ### Late Campaign
+
 - Use knowledge of zones to predict and influence convergence outcomes
 - Navigate the ultimate merged zone that encompasses both entire worlds
 - Choose which reality's rules should dominate in the final merger
@@ -478,32 +499,36 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 ## Connected Elements
 
 ### Key Locations
-- [[02_Worldbuilding/Lore/The Harmonic Gardens]] - Peaceful merged zone with crystal-coral synthesis
-- [[02_Worldbuilding/Lore/The Storm of Convergence]] - Chaotic weather zone combining both worlds' forces
-- [[02_Worldbuilding/Lore/The Drowning Spires]] - Architectural merger of cities and ocean depths
-- [[02_Worldbuilding/Lore/The Trading Nexus]] - Commercial zone enabling interdimensional commerce
-- [[02_Worldbuilding/Lore/The Battlefield Convergence]] - Military zone with ongoing dimensional warfare
+
+- [[12_Research/D&D_References/The Harmonic Gardens]] - Peaceful merged zone with crystal-coral synthesis
+- [[12_Research/D&D_References/The Storm of Convergence]] - Chaotic weather zone combining both worlds' forces
+- [[12_Research/D&D_References/The Drowning Spires]] - Architectural merger of cities and ocean depths
+- [[12_Research/D&D_References/The Trading Nexus]] - Commercial zone enabling interdimensional commerce
+- [[12_Research/D&D_References/The Battlefield Convergence]] - Military zone with ongoing dimensional warfare
 
 ### Important NPCs
-- [[02_Worldbuilding/Lore/Reality Shepherd Nexus]] - Guide entity native to merged zones
-- [[02_Worldbuilding/Lore/Professor Dimensional Voss]] - Leading researcher studying zone phenomena
-- [[02_Worldbuilding/People/Captain Twin-Reality Marsh]] - Military officer specializing in zone warfare
-- [[02_Worldbuilding/Lore/Trader Cross-Current Jin]] - Merchant operating exclusively in merged zones
-- [[02_Worldbuilding/Lore/Echo Resident Sam]] - Individual permanently adapted to dual existence
+
+- [[12_Research/D&D_References/Reality Shepherd Nexus]] - Guide entity native to merged zones
+- [[12_Research/D&D_References/Professor Dimensional Voss]] - Leading researcher studying zone phenomena
+- [[12_Research/D&D_References/Captain Twin-Reality Marsh]] - Military officer specializing in zone warfare
+- [[12_Research/D&D_References/Trader Cross-Current Jin]] - Merchant operating exclusively in merged zones
+- [[12_Research/D&D_References/Echo Resident Sam]] - Individual permanently adapted to dual existence
 
 ### Related Events
-- [[02_Worldbuilding/Lore/The First Zone Formation]] - Historical beginning of merged reality phenomena
-- [[02_Worldbuilding/Lore/The Great Zone Expansion]] - Major event causing rapid zone growth
-- [[02_Worldbuilding/Lore/The Reality Storm Crisis]] - Emergency caused by unstable zone interactions
-- [[02_Worldbuilding/Lore/The Zone Consciousness Awakening]] - Discovery of zones' collective awareness
-- [[02_Worldbuilding/Lore/The Final Merger]] - Ultimate expansion of zones to cover entire worlds
+
+- [[12_Research/D&D_References/The First Zone Formation]] - Historical beginning of merged reality phenomena
+- [[12_Research/D&D_References/The Great Zone Expansion]] - Major event causing rapid zone growth
+- [[12_Research/D&D_References/The Reality Storm Crisis]] - Emergency caused by unstable zone interactions
+- [[12_Research/D&D_References/The Zone Consciousness Awakening]] - Discovery of zones' collective awareness
+- [[12_Research/D&D_References/The Final Merger]] - Ultimate expansion of zones to cover entire worlds
 
 ### Essential Artifacts
-- [[02_Worldbuilding/Lore/The Reality Compass]] - Navigation tool for merged zones
-- [[02_Worldbuilding/Lore/The Dimensional Anchor]] - Personal protection device for zone travel
-- [[02_Worldbuilding/Lore/The Zone Map Codex]] - Comprehensive guide to known merged areas
-- [[02_Worldbuilding/Lore/The Identity Stabilizer]] - Tool for maintaining self-awareness in zones
-- [[02_Worldbuilding/Lore/The Convergence Key]] - Artifact that can control zone formation and expansion
+
+- [[12_Research/D&D_References/The Reality Compass]] - Navigation tool for merged zones
+- [[12_Research/D&D_References/The Dimensional Anchor]] - Personal protection device for zone travel
+- [[12_Research/D&D_References/The Zone Map Codex]] - Comprehensive guide to known merged areas
+- [[12_Research/D&D_References/The Identity Stabilizer]] - Tool for maintaining self-awareness in zones
+- [[12_Research/D&D_References/The Convergence Key]] - Artifact that can control zone formation and expansion
 
 ---
 
@@ -513,12 +538,12 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[02_Worl
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Garden]]
+- [[12_Research/D&D_References/Crystal Garden]]
 - [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
-- [[02_Worldbuilding/Lore/Customs House]]
-- [[02_Worldbuilding/Lore/Healing Two Worlds]]
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
-- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
+- [[12_Research/D&D_References/Customs House]]
+- [[12_Research/D&D_References/Healing Two Worlds]]
+- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[12_Research/D&D_References/Aethermoor - Session 09 The Price of Unity]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -544,10 +569,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Places_Index|Master Places Index]]
-- [[02_Worldbuilding/Lore/Deep Mother Influence]]
-- [[02_Worldbuilding/Lore/The Convergence Point]]
-- [[02_Worldbuilding/Lore/The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Great Crystallization]]
-- [[02_Worldbuilding/Lore/The Seven Shards]]
-- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[12_Research/D&D_References/Deep Mother Influence]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Seven Shards]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_Statblocks/Crystal Gardens]]

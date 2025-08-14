@@ -21,13 +21,13 @@ world: Both
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [[/03_Mechanics/CLI/deities/halfling-arvoreen-mtf|Arvoreen]] | LG | Vigilance, war | War | Crossed short swords |
-| [[/03_Mechanics/CLI/deities/halfling-brandobaris-mtf|Brandobaris]] | N | Adventure, thievery | Trickery | Halfling footprint |
-| [[/03_Mechanics/CLI/deities/halfling-charmalaine-mtf|Charmalaine]] | N | Keen senses, luck | Trickery | Burning boot print |
-| [[/03_Mechanics/CLI/deities/halfling-cyrrollalee-mtf|Cyrrollalee]] | LG | Hearth, home | Life | An open door |
-| [[/03_Mechanics/CLI/deities/halfling-sheela-peryroyl-mtf|Sheela Peryroyl]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
-| [[/03_Mechanics/CLI/deities/halfling-urogalan-mtf|Urogalan]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
-| [[/03_Mechanics/CLI/deities/halfling-yondalla-mtf|Yondalla]] | LG | Primary goddess of halflings | Life | Cornucopia |
+| [[halfling-arvoreen-mtf|Arvoreen]] | LG | Vigilance, war | War | Crossed short swords |
+| [[halfling-brandobaris-mtf|Brandobaris]] | N | Adventure, thievery | Trickery | Halfling footprint |
+| [[halfling-charmalaine-mtf|Charmalaine]] | N | Keen senses, luck | Trickery | Burning boot print |
+| [[halfling-cyrrollalee-mtf|Cyrrollalee]] | LG | Hearth, home | Life | An open door |
+| [[halfling-sheela-peryroyl-mtf|Sheela Peryroyl]] | NG | Agriculture, nature, weather | Nature, Tempest | A flower |
+| [[halfling-urogalan-mtf|Urogalan]] | LN | Earth, death | Death, Grave,* Knowledge | Silhouette of a dog's head |
+| [[halfling-yondalla-mtf|Yondalla]] | LG | Primary goddess of halflings | Life | Cornucopia |
 ^deity-alignment-province-suggested-domains-common-symbol
 
 *Appears in "Xanathar's Guide to Everything"

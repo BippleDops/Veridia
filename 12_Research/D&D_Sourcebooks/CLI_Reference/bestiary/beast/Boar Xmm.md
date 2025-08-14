@@ -30,12 +30,12 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-boar-xmm-boar-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\beast/boar-xmm|Boar]]
+# [[boar-xmm|Boar]]
 *Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[/03_Mechanics/CLI/bestiary/beast/panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm|Panther]] stat block can also represent a mountain lion, while the [[giant-goat-xmm|Giant Goat]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Boar (XMM)"
@@ -58,15 +58,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "While [[/03_Mechanics/CLI/variant-rules/bloodied-xphb|Bloodied]], the\
-      \ boar has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on\
+  - "desc": "While [[bloodied-xphb|Bloodied]], the\
+      \ boar has [[advantage-xphb|Advantage]] on\
       \ attack rolls."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage.\
       \ If the target is a Medium or smaller creature and the boar moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 3\
-      \ (d6) Piercing damage and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ (d6) Piercing damage and has the [[conditions#Prone|Prone]]\
       \ condition."
     "name": "Gore"
 "source":

@@ -3,6 +3,7 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- crystal-enhanced
 - aethermoor
 - complete
 - content/location
@@ -16,11 +17,7 @@ world: Aethermoor
 
 
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg]]
 
 
 ## Overview
@@ -62,11 +59,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Maintenance Tech Reef Fixwright]]
+- [[12_Research/D&D_References/Maintenance Tech Reef Fixwright]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[12_Research/D&D_References/Crystal-Corruption-Tracking-Sheet]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

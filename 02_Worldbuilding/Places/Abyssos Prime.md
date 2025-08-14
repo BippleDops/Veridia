@@ -7,22 +7,22 @@ danger_level: 7
 depth: 1000-3000 feet
 discovered: true
 factions:
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[02_Worldbuilding/People/Shadow Conspiracy]]'
-- '[[02_Worldbuilding/Places/Depth Merchants]]'
-- '[[02_Worldbuilding/Places/Memory Farmers]]'
-government: '[[02_Worldbuilding/Places/The Eternal Senate]]'
+- '[[Parliament of Echoes]]'
+- '[[Shadow Conspiracy]]'
+- '[[Depth Merchants]]'
+- '[[Memory Farmers]]'
+government: '[[The Eternal Senate]]'
 location_name: Abyssos Prime
 location_type: Sunken Capital
 notable_npcs:
-- '[[02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
-- '[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[The Scattered Emperor]]'
+- '[[Senator Glaucus]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
 obsidianUIMode: preview
-parent_location: '[[02_Worldbuilding/Places/Aquabyssos]]'
+parent_location: '[[Aquabyssos]]'
 population: 2000000
 pressure_effects: Moderate to Severe
-ruler: '[[02_Worldbuilding/People/The Scattered Emperor]]'
+ruler: '[[The Scattered Emperor]]'
 services:
 - Pressure Tubes
 - Shadow Markets
@@ -32,14 +32,14 @@ services:
 shadow_density: High
 status: complete
 sub_locations:
-- '[[02_Worldbuilding/Places/The Inverse Palace]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[02_Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
-- '[[02_Worldbuilding/People/Reflection Pools]]'
-- '[[02_Worldbuilding/Places/Pressure Terminal]]'
-- '[[02_Worldbuilding/People/Throne of Bubbles]]'
-- '[[02_Worldbuilding/Places/The Depth Market]]'
+- '[[The Inverse Palace]]'
+- '[[Parliament of Echoes]]'
+- '[[Screaming Gardens]]'
+- '[[The Memory Meadows]]'
+- '[[Reflection Pools]]'
+- '[[Pressure Terminal]]'
+- '[[Throne of Bubbles]]'
+- '[[The Depth Market]]'
 tags:
 - both
 - capital
@@ -58,14 +58,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg]]
 
 
 # Abyssos Prime - The Drowned Throne
@@ -101,7 +95,7 @@ Abyssos Prime, once the glorious capital of Thalassopolis, now exists as a haunt
 ## Districts & Sub-Locations
 
 ### The Inverse Palace
-**[[02_Worldbuilding/Places/The Inverse Palace]]**
+**[[The Inverse Palace]]**
 The seat of the Scattered Emperor, where gravity works backward and water flows upward. The palace exists in a constant state of drowning, frozen at the moment of catastrophe.
 
 **Sensory Signature - The Inverse Palace:**
@@ -118,7 +112,7 @@ The seat of the Scattered Emperor, where gravity works backward and water flows 
 - Seven Scattered Chambers - Emperor's split personality rooms (each has distinct emotional temperature and color-scent)
 
 ### Parliament of Echoes
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**
+**[[Parliament of Echoes]]**
 Where ghost senators debate laws that apply to no one, divided into factions that no longer remember their original purposes.
 
 **Sensory Signature - Parliament of Echoes:**
@@ -138,7 +132,7 @@ Where ghost senators debate laws that apply to no one, divided into factions tha
 - The Forgotten (amnesiacs) - empty, neutral air that makes memory difficult
 
 ### The Screaming Gardens
-**[[02_Worldbuilding/Places/Screaming Gardens]]**
+**[[Screaming Gardens]]**
 Crystallized forests grown from the screams of drowning children. When the current flows through them, they play haunting melodies that warn of danger.
 
 **Sensory Signature - The Screaming Gardens:**
@@ -157,7 +151,7 @@ Crystallized forests grown from the screams of drowning children. When the curre
 - The Conductor's Podium - Controls the screams (command center with symphony-conducting crystals)
 
 ### The Depth Market
-**[[02_Worldbuilding/Places/The Depth Market]]**
+**[[The Depth Market]]**
 Black market for memories, shadows, and souls. Everything has a price, but the currency might be years of your life or your happiest memory.
 
 **Sensory Signature - The Depth Market:**
@@ -226,10 +220,10 @@ Undead parliament that continues debating despite having no living constituents.
 
 ### Current Political Climate
 - **Shadow Citizenship Act** pending vote
-- **[[02_Worldbuilding/Places/Surface Contact Prohibition]]** in effect
-- **[[02_Worldbuilding/Places/Depth Supremacy Movement]]** gaining power
-- **[[02_Worldbuilding/Places/Memory Rights Debate]]** ongoing
-- **[[02_Worldbuilding/Places/The Harvest]]** preparation underway
+- **[[Surface Contact Prohibition]]** in effect
+- **[[Depth Supremacy Movement]]** gaining power
+- **[[Memory Rights Debate]]** ongoing
+- **[[The Harvest]]** preparation underway
 
 ## Extended Environmental Storytelling
 
@@ -312,7 +306,7 @@ Undead parliament that continues debating despite having no living constituents.
 6. **The Forgotten** (memory-lost)
 
 ### Cultural Customs and Traditions
-The sophisticated culture of Abyssos Prime reflects the unique challenges of underwater civilization combined with the trauma of the Great Drowning. Citizens follow the elaborate protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]], including depth-based greeting customs, pressure-dining etiquette, and memorial traditions for the drowned. Throughout the year, the city observes festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], including the Deep Mother's Calling and the Festival of Memory Preservation. Professional guilds maintain ancient traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], though adapted for underwater life and the presence of shadow-replacements.
+The sophisticated culture of Abyssos Prime reflects the unique challenges of underwater civilization combined with the trauma of the Great Drowning. Citizens follow the elaborate protocols detailed in the [[Aquabyssos Cultural Codex]], including depth-based greeting customs, pressure-dining etiquette, and memorial traditions for the drowned. Throughout the year, the city observes festivals from the [[Festival Calendar Complete]], including the Deep Mother's Calling and the Festival of Memory Preservation. Professional guilds maintain ancient traditions described in the [[Guild Traditions Compendium]], though adapted for underwater life and the presence of shadow-replacements.
 
 ### Daily Life
 - **Work Cycles:** Based on tides, not day/night
@@ -382,26 +376,26 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 ## Connections
 
 ### Transportation
-- **[[02_Worldbuilding/Places/Pressure Tubes]]:** To other continents
-- **[[02_Worldbuilding/Places/Blood Current Express]]:** Through leviathan veins
-- **[[02_Worldbuilding/Places/Dream Rails]]:** Unconscious travel only
-- **[[02_Worldbuilding/Places/Void Currents]]:** Dangerous but fast
+- **[[Pressure Tubes]]:** To other continents
+- **[[Blood Current Express]]:** Through leviathan veins
+- **[[Dream Rails]]:** Unconscious travel only
+- **[[Void Currents]]:** Dangerous but fast
 
 ## See Also
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]] - Port facilities
-- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Upper city areas
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]] - Transportation hub
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]] - Palace details
-- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Underground network
+- [[Abyssos Prime Docks]] - Port facilities
+- [[Abyssos Prime Upper Districts]] - Upper city areas
+- [[Abyssos Prime - Pressure Terminal]] - Transportation hub
+- [[Abyssos Prime - Inverse Palace]] - Palace details
+- [[Ancient Tunnels Beneath Palace]] - Underground network
 
 ### Allied Locations
-- **[[02_Worldbuilding/Places/Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]:** Shadow trade partner
-- **[[02_Worldbuilding/Places/Nereidios]]:** Knowledge exchange
-- **[[02_Worldbuilding/Places/Crystallium]]:** Crystal trade
+- **[[Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]:** Shadow trade partner
+- **[[Nereidios]]:** Knowledge exchange
+- **[[Crystallium]]:** Crystal trade
 
 ### Enemy Territories
-- **[[02_Worldbuilding/Places/The Mourning Depths]]:** Sorrow competition
-- **[[02_Worldbuilding/Places/Surface Sympathizer Settlements]]:** Hunted
+- **[[The Mourning Depths]]:** Sorrow competition
+- **[[Surface Sympathizer Settlements]]:** Hunted
 
 ## Adventure Hooks
 
@@ -443,16 +437,16 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 ## Important NPCs
 
 ### Permanent Residents
-- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Distributed consciousness ruler
-- **[[02_Worldbuilding/People/Senator Glaucus]]** - Shadow replacement
-- **[[02_Worldbuilding/Places/The Conductor]]** - Controls Screaming Gardens
-- **[[02_Worldbuilding/Places/Memory Farmer Thane]]** - Kelp cultivation master
-- **[[02_Worldbuilding/Places/Reflection Broker Mirrors]]** - Identity trader
+- **[[The Scattered Emperor]]** - Distributed consciousness ruler
+- **[[Senator Glaucus]]** - Shadow replacement
+- **[[The Conductor]]** - Controls Screaming Gardens
+- **[[Memory Farmer Thane]]** - Kelp cultivation master
+- **[[Reflection Broker Mirrors]]** - Identity trader
 
 ### Frequent Visitors
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Tenebrarum investigator
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Adapted guide
-- **[[02_Worldbuilding/Places/The Forgotten Representative]]** - Amnesia victim
+- **[[Shadow Duchess Nyx]]** - Tenebrarum investigator
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Adapted guide
+- **[[The Forgotten Representative]]** - Amnesia victim
 
 ## GM Notes
 
@@ -499,15 +493,15 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 ### Work Day Activities (Tide Shift to Deep Current)
 
-**The Eternal Senate Sessions**: **[[02_Worldbuilding/People/The Scattered Emperor]]**'s fractured consciousness conducts government business across multiple throne chambers simultaneously. Senate debates occur with mixed representation of living senators, ghost participants, and shadow replacements creating complex negotiations where identity verification becomes as important as policy discussion. Recording crystals capture proceedings while magical analysis attempts to distinguish authentic participants from imposters.
+**The Eternal Senate Sessions**: **[[The Scattered Emperor]]**'s fractured consciousness conducts government business across multiple throne chambers simultaneously. Senate debates occur with mixed representation of living senators, ghost participants, and shadow replacements creating complex negotiations where identity verification becomes as important as policy discussion. Recording crystals capture proceedings while magical analysis attempts to distinguish authentic participants from imposters.
 
-**Memory Cultivation Operations**: **[[02_Worldbuilding/Places/Memory Farmer Thane]]** oversees massive kelp forests where memories grow like crops, requiring careful tending to prevent corruption while maximizing emotional intensity. Workers rotate shifts to prevent memory contamination while maintaining production quotas for both legal and black market memory trade. Specialized teams harvest different memory types - joy, sorrow, fear, love - each requiring unique preservation techniques.
+**Memory Cultivation Operations**: **[[Memory Farmer Thane]]** oversees massive kelp forests where memories grow like crops, requiring careful tending to prevent corruption while maximizing emotional intensity. Workers rotate shifts to prevent memory contamination while maintaining production quotas for both legal and black market memory trade. Specialized teams harvest different memory types - joy, sorrow, fear, love - each requiring unique preservation techniques.
 
 **Shadow Investigation Activities**: Parliamentary investigators work to identify and track shadow replacements throughout the city, using magical detection equipment and witness testimony to maintain population security. These operations require careful coordination to avoid false accusations while ensuring genuine threats are neutralized before they can damage community stability.
 
-**Depth Market Commerce**: **[[02_Worldbuilding/Places/Reflection Broker Mirrors]]** oversees identity trading where citizens exchange aspects of themselves for political protection, magical enhancement, or simple survival resources. These transactions require careful legal documentation while operating in moral gray areas that challenge traditional concepts of ownership and identity.
+**Depth Market Commerce**: **[[Reflection Broker Mirrors]]** oversees identity trading where citizens exchange aspects of themselves for political protection, magical enhancement, or simple survival resources. These transactions require careful legal documentation while operating in moral gray areas that challenge traditional concepts of ownership and identity.
 
-**The Screaming Gardens Maintenance**: **[[02_Worldbuilding/Places/The Conductor]]** coordinates the crystallized scream formations that provide both artistic beauty and danger warning systems. Maintenance teams carefully tune crystal resonances while avoiding psychological contamination from prolonged exposure to crystallized trauma. This essential work maintains one of the city's most important early warning systems.
+**The Screaming Gardens Maintenance**: **[[The Conductor]]** coordinates the crystallized scream formations that provide both artistic beauty and danger warning systems. Maintenance teams carefully tune crystal resonances while avoiding psychological contamination from prolonged exposure to crystallized trauma. This essential work maintains one of the city's most important early warning systems.
 
 **Underground Resistance Networks**: Secret organizations work to preserve pre-drowning culture, resist shadow infiltration, and maintain connections to surface world sympathizers. These groups operate through complex communication systems that avoid shadow detection while coordinating responses to political threats and cultural preservation activities.
 
@@ -515,7 +509,7 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 **Parliamentary Observation Hours**: Citizens gather in the Parliament galleries to witness political debates while practicing their civic duty to monitor for shadow replacements among their representatives. These sessions provide transparency in government while serving as community entertainment and political education opportunities.
 
-**Cultural Identity Preservation**: **[[02_Worldbuilding/People/The Forgotten Representative|02 Worldbuilding/People/The Forgotten Representative]]** leads evening sessions where citizens practice pre-drowning traditions adapted for underwater life. These gatherings help maintain cultural continuity while adapting historical customs to current environmental and political realities.
+**Cultural Identity Preservation**: **[[The Forgotten Representative|02 Worldbuilding/People/The Forgotten Representative]]** leads evening sessions where citizens practice pre-drowning traditions adapted for underwater life. These gatherings help maintain cultural continuity while adapting historical customs to current environmental and political realities.
 
 **Memory Trading Social Hours**: Citizens gather in designated areas to share, trade, or sell personal memories, creating a complex social economy where experience becomes currency. These interactions require careful negotiation and magical verification to ensure fair exchanges while maintaining personal identity boundaries.
 
@@ -531,7 +525,7 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 ### Night Life (Memory Tide to Pressure Shift)
 
-**Shadow Market Operations**: **[[02_Worldbuilding/Places/The Depth Market]]** reaches peak activity during memory-dimming hours when illegal transactions are harder to detect. Shadow merchants deal in forbidden memories, dangerous magical artifacts, and black market adaptation services while avoiding Parliamentary enforcement teams. These operations require complex security measures and constant vigilance against detection.
+**Shadow Market Operations**: **[[The Depth Market]]** reaches peak activity during memory-dimming hours when illegal transactions are harder to detect. Shadow merchants deal in forbidden memories, dangerous magical artifacts, and black market adaptation services while avoiding Parliamentary enforcement teams. These operations require complex security measures and constant vigilance against detection.
 
 **Identity Replacement Services**: Underground networks provide shadow replacement services for citizens seeking to escape political persecution, debt obligations, or unwanted memories. These dangerous procedures require specialized magical expertise while operating outside legal frameworks that govern identity management.
 
@@ -547,9 +541,9 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 
 **Parliamentary Assembly Cycles**: Weekly full senate sessions require elaborate preparation including shadow detection sweeps, memory protection protocols, and temporal stabilization procedures. These crucial political events coordinate government policy while managing the complex challenges of representing a population that includes multiple states of existence.
 
-**Memory Tide Management**: Regular tidal events require city-wide coordination of protective measures, emergency response systems, and community support services. Citizens prepare through neighborhood organizations that follow protocols from the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] for maintaining identity and community stability during challenging periods.
+**Memory Tide Management**: Regular tidal events require city-wide coordination of protective measures, emergency response systems, and community support services. Citizens prepare through neighborhood organizations that follow protocols from the [[Aquabyssos Cultural Codex]] for maintaining identity and community stability during challenging periods.
 
-**Cultural Observance Adaptations**: Traditional celebrations from the [[02_Worldbuilding/Lore/Festival Calendar Complete]] require significant modification for underwater life and political constraints. Festival planning involves complex logistics to accommodate different states of existence while maintaining cultural significance under challenging circumstances.
+**Cultural Observance Adaptations**: Traditional celebrations from the [[Festival Calendar Complete]] require significant modification for underwater life and political constraints. Festival planning involves complex logistics to accommodate different states of existence while maintaining cultural significance under challenging circumstances.
 
 **Seasonal Pressure Adaptations**:
 - **Deep Current Season**: Increased pressure requires enhanced protection systems and reduced surface contact. Citizens adapt daily routines for survival while maintaining essential community functions.
@@ -557,9 +551,9 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 - **Memory Storm Season**: Frequent temporal anomalies require enhanced protective measures and community coordination to prevent widespread identity loss and political destabilization.
 - **Shadow Season**: Peak shadow replacement activity requires intensive security measures and community vigilance to maintain population integrity and political stability.
 
-**Guild Coordination Meetings**: Professional organizations adapted from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]] coordinate essential services while managing the unique challenges of underwater civilization and shadow infiltration. These meetings maintain professional standards while adapting to constantly changing political and environmental conditions.
+**Guild Coordination Meetings**: Professional organizations adapted from the [[Guild Traditions Compendium]] coordinate essential services while managing the unique challenges of underwater civilization and shadow infiltration. These meetings maintain professional standards while adapting to constantly changing political and environmental conditions.
 
-**International Relations**: Diplomatic activities with surface settlements and other underwater communities require complex preparation involving pressure adaptation, cultural translation, and security measures from the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] modified for underwater diplomacy and shadow detection protocols.
+**International Relations**: Diplomatic activities with surface settlements and other underwater communities require complex preparation involving pressure adaptation, cultural translation, and security measures from the [[Cross-Realm Etiquette Guide]] modified for underwater diplomacy and shadow detection protocols.
 
 ## Quick Reference
 
@@ -574,7 +568,7 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 2. Parliamentary vote on Shadow Citizenship
 3. Memory Tides in 3 days
 4. Temporal storm probability: 40%
-5. [[02_Worldbuilding/Places/The Harvest]] preparation
+5. [[The Harvest]] preparation
 
 ### Safe Zones
 - Emperor's Throne (sometimes)
@@ -586,65 +580,65 @@ The sophisticated culture of Abyssos Prime reflects the unique challenges of und
 ---
 
 *"In Abyssos Prime, the capital crime is remembering who you were."*
-- [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[02_Worldbuilding/Lore/Tide Turner's Trident]]
-- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
-- [[02_Worldbuilding/Places/Amnesia Gallery]]
-- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[02_Worldbuilding/Places/Azure Citadel]]
-- [[02_Worldbuilding/Places/Blood Current Express]]
-- [[02_Worldbuilding/Places/Captain Echo]]
-- [[02_Worldbuilding/Places/Chef Gastropod]]
-- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
-- [[02_Worldbuilding/Places/Crystallium]]
-- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[02_Worldbuilding/Places/Forge of War]]
-- [[02_Worldbuilding/Places/Harbor District]]
-- [[02_Worldbuilding/Places/Luminous Hollow]]
-- [[02_Worldbuilding/Places/Memory Thief]]
-- [[02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[02_Worldbuilding/Places/Mourning Depths]]
-- [[02_Worldbuilding/Places/Navigator Flux]]
-- [[02_Worldbuilding/Places/Noble Quarter]]
-- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[02_Worldbuilding/Places/Pressure Terminal]]
-- [[02_Worldbuilding/Places/Pressure Tubes]]
-- [[02_Worldbuilding/Places/Royal Palace]]
-- [[02_Worldbuilding/Places/Sister Morwyn]]
-- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
-- [[02_Worldbuilding/Places/Surface Tensions]]
-- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
-- [[02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[02_Worldbuilding/Places/The Depth Market]]
-- [[02_Worldbuilding/Places/The Eternal Senate]]
-- [[02_Worldbuilding/Places/The First Failure]]
-- [[02_Worldbuilding/Places/The Foundation Depths]]
-- [[02_Worldbuilding/Places/The Free Current]]
-- [[02_Worldbuilding/Places/The Frozen Throne]]
-- [[02_Worldbuilding/Places/The Lock]]
-- [[02_Worldbuilding/Places/The Mourning Depths]]
-- [[02_Worldbuilding/Places/The Neutral Current Tavern]]
-- [[02_Worldbuilding/Places/The Neutral Ground]]
-- [[02_Worldbuilding/Places/The Recursion Cult]]
-- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
-- [[02_Worldbuilding/Places/The Silent Watcher]]
-- [[02_Worldbuilding/Places/The Sinking Atoll]]
-- [[02_Worldbuilding/Places/Theological Warfare]]
-- [[02_Worldbuilding/Places/Void Currents]]
-- [[02_Worldbuilding/Places/Whisper-Touched William]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Crystalline Depths]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Smuggler]]
-- [[02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Kraken Territories]]
+- [[Tide Turner's Trident]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Amnesia Gallery]]
+- [[Anti-Priest Nullus]]
+- [[Azure Citadel]]
+- [[Blood Current Express]]
+- [[Captain Echo]]
+- [[Chef Gastropod]]
+- [[Concierge Phillip Gracewater]]
+- [[Crystallium]]
+- [[Doctor Coral Shapeshift]]
+- [[Forge of War]]
+- [[Harbor District]]
+- [[Luminous Hollow]]
+- [[Memory Thief]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Mourning Depths]]
+- [[Navigator Flux]]
+- [[Noble Quarter]]
+- [[Old Sally Seasprayer]]
+- [[Pressure Terminal]]
+- [[Pressure Tubes]]
+- [[Royal Palace]]
+- [[Sister Morwyn]]
+- [[Supplier Erikson Tidecaller]]
+- [[Surface Tensions]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Tethyan Hegemony]]
+- [[The Depth Market]]
+- [[The Eternal Senate]]
+- [[The First Failure]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Frozen Throne]]
+- [[The Lock]]
+- [[The Mourning Depths]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[The Recursion Cult]]
+- [[The Shrinking Sanctuary]]
+- [[The Silent Watcher]]
+- [[The Sinking Atoll]]
+- [[Theological Warfare]]
+- [[Void Currents]]
+- [[Whisper-Touched William]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Crystalline Depths]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[Traveling Merchant Finn]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -662,13 +656,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Underwater cultural traditions and customs
-- [[02_Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
-- [[02_Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs adapted for underwater life
-- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols with surface dwellers
+- [[Aquabyssos Cultural Codex]] - Underwater cultural traditions and customs
+- [[Festival Calendar Complete]] - Seasonal celebrations and observances
+- [[Guild Traditions Compendium]] - Professional customs adapted for underwater life
+- [[Cross-Realm Etiquette Guide]] - Diplomatic protocols with surface dwellers
 
 <!-- enriched: true -->
-- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
-- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[Fortress of the Deeps]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Surface Sympathizer Settlements]]
+- [[The Forgotten Representative]]

@@ -14,18 +14,15 @@ world: Both
 ---
 
 
-
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[Reflection Pools - Surgical Theater]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Reflection Pools - Surgical Theater]]
 
 ## Player-Facing Summary
 

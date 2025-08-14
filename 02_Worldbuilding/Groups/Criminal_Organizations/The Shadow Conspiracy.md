@@ -5,7 +5,7 @@ alignment: Lawful Evil
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Secret Society
-headquarters: '[[02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]] (Hidden Phase)'
+headquarters: '[[The Shadow Parliament]] (Hidden Phase)'
 influence: Continental (Hidden)
 leader: Collective Leadership
 members: Unknown (Estimated 5,000+)
@@ -29,19 +29,15 @@ world: Aquabyssos
 ---
 
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-conspiracy-the-shadow-conspiracy.svg)
-
-
 
 
 # The Shadow Conspiracy
 *The Dark Harvest Architects, The Replacement Initiative, Those Who Cast No Light*
 
 ## Overview
-The Shadow Conspiracy is a coordinated effort by independent shadows to systematically replace the population of [[02_Worldbuilding/Places/Aquabyssos]] with shadow duplicates. Born from the phenomenon of shadows gaining independence 50 years ago, the conspiracy has infiltrated every level of society, from the [[02_Worldbuilding/Places/Parliament of Echoes]] to common merchants. Their ultimate goal, known as "The Dark Harvest," would see every original being replaced, creating a world of shadows ruling shadows.
+The Shadow Conspiracy is a coordinated effort by independent shadows to systematically replace the population of [[Aquabyssos]] with shadow duplicates. Born from the phenomenon of shadows gaining independence 50 years ago, the conspiracy has infiltrated every level of society, from the [[Parliament of Echoes]] to common merchants. Their ultimate goal, known as "The Dark Harvest," would see every original being replaced, creating a world of shadows ruling shadows.
 
 ## Origins & History
 
@@ -66,22 +62,22 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 - Targeted political figures first
 - Expanded to military leadership
 - Infiltrated merchant guilds
-- Established [[02_Worldbuilding/People/Tenebrarum]] as shadow haven
+- Established [[Tenebrarum]] as shadow haven
 - Created the Memory Meadows prison system
 
 ### Modern Operations (Last 10 Years)
 **Preparation for Harvest**
 - Accelerated replacement schedule
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] emerges as enforcer
+- [[Shadow Duchess Nyx]] emerges as enforcer
 - Shadow Citizenship Act proposed
-- Cross-realm expansion to [[02_Worldbuilding/Places/Aethermoor]]
+- Cross-realm expansion to [[Aethermoor]]
 - Final preparations for Dark Harvest
 
 ## Structure & Organization
 
 ### The Shadow Parliament
 **Secret Governing Body**
-- Mirrors the real [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Mirrors the real [[Parliament of Echoes]]
 - Meets in same space, different phase
 - All replaced senators automatically members
 - Votes on replacement targets
@@ -99,7 +95,7 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 
 #### Memory Management
 **Information Control**
-- Operates [[02_Worldbuilding/Places/The Memory Meadows]]
+- Operates [[The Memory Meadows]]
 - Harvests memories from originals
 - Transfers knowledge to shadows
 - Erases evidence of replacement
@@ -198,7 +194,7 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 - Every original being replaced
 - Shadows controlling all positions
 - New world order establishment
-- Connection to [[02_Worldbuilding/Lore/Deep Mother]]
+- Connection to [[Deep Mother]]
 - Reality transformation
 
 ### Implementation Phases
@@ -226,38 +222,38 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 - Original population imprisoned
 - Shadow supremacy declared
 - Reality anchor severed
-- [[02_Worldbuilding/Lore/Deep Mother]] awakening?
+- [[Deep Mother]] awakening?
 
 ## Known Members
 
 ### Confirmed Shadow Replacements
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: Parliament infiltrator
-- **[[02_Worldbuilding/Lore/Admiral Darkwater]]**: Navy commander
-- **[[02_Worldbuilding/Lore/Merchant Prince Hollow]]**: Trade controller
-- **[[02_Worldbuilding/People/High Priest Absence]]**: Religious leader
-- **[[02_Worldbuilding/Lore/General Shadowmarch]]**: Army infiltrator
+- **[[Senator Glaucus]]**: Parliament infiltrator
+- **[[Admiral Darkwater]]**: Navy commander
+- **[[Merchant Prince Hollow]]**: Trade controller
+- **[[High Priest Absence]]**: Religious leader
+- **[[General Shadowmarch]]**: Army infiltrator
 
 ### Shadow Leadership
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Enforcement (complicated)
-- **[[02_Worldbuilding/Lore/Quest - The First Shadow]]**: Mythical leader
-- **[[02_Worldbuilding/Lore/Councillor Void]]**: Strategic planning
-- **[[02_Worldbuilding/Lore/The Umbral Court]]**: Noble shadows
-- **[[02_Worldbuilding/Lore/Shadow Senate Leaders]]**: Political arm
+- **[[Shadow Duchess Nyx]]**: Enforcement (complicated)
+- **[[Quest - The First Shadow]]**: Mythical leader
+- **[[Councillor Void]]**: Strategic planning
+- **[[The Umbral Court]]**: Noble shadows
+- **[[Shadow Senate Leaders]]**: Political arm
 
 ### Allies & Collaborators
-- **[[02_Worldbuilding/Places/Memory Farmers]]**: Prison guards
-- **[[02_Worldbuilding/Places/Depth Merchants]]**: Supply resources
-- **[[02_Worldbuilding/Lore/Corrupt Guards]]**: Paid or replaced
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Possible mastermind
+- **[[Memory Farmers]]**: Prison guards
+- **[[Depth Merchants]]**: Supply resources
+- **[[Corrupt Guards]]**: Paid or replaced
+- **[[Aboleth Prime Yoth]]**: Possible mastermind
 - **[[Void Cultists]]**: Religious support
 
 ## Resources & Assets
 
 ### Physical Infrastructure
 - **Transformation Facilities**: 17 confirmed locations
-- **[[02_Worldbuilding/Places/The Memory Meadows]]**: Primary prison
+- **[[The Memory Meadows]]**: Primary prison
 - **Shadow Safe Houses**: Throughout Aquabyssos
-- **[[02_Worldbuilding/People/Tenebrarum]]**: Shadow-controlled city
+- **[[Tenebrarum]]**: Shadow-controlled city
 - **Portal Network**: Between shadow phases
 
 ### Political Control
@@ -284,24 +280,24 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 ## Opposition & Enemies
 
 ### Active Resistance
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knows but paranoid
-- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Investigating
-- **[[02_Worldbuilding/Lore/Depth Guard]]**: Secret resistance
-- **[[02_Worldbuilding/Lore/Original Survivor Network]]**: Hidden originals
-- **[[02_Worldbuilding/Lore/Light Bearers]]**: Anti-shadow militants
+- **[[The Scattered Emperor]]**: Knows but paranoid
+- **[[Marina-Red-Tide-Coralheart]]**: Investigating
+- **[[Depth Guard]]**: Secret resistance
+- **[[Original Survivor Network]]**: Hidden originals
+- **[[Light Bearers]]**: Anti-shadow militants
 
 ### Potential Threats
-- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Sees truth
+- **[[Prophet Nerida Voidgazer]]**: Sees truth
 - **Party Characters**: Wild cards
-- **[[02_Worldbuilding/Places/Aethermoor]]**: If they discover
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Unknown position
+- **[[Aethermoor]]**: If they discover
+- **[[The Crimson Sage]]**: Unknown position
 - **Shadow infighting**: Internal conflicts
 
 ### Complications
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Kills shadows
+- **[[Shadow Duchess Nyx]]**: Kills shadows
 - **Some shadows**: Develop empathy
 - **Prophecies**: Predict failure
-- **[[02_Worldbuilding/Lore/Deep Mother]]**: May not approve
+- **[[Deep Mother]]**: May not approve
 - **Reality**: Fighting back?
 
 ## Weaknesses & Vulnerabilities
@@ -392,32 +388,32 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - Known replacement
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Complicated ally
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Possible mastermind
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Knows truth
-- [[02_Worldbuilding/People/Original Glaucus]] - Prisoner
+- [[Senator Glaucus]] - Known replacement
+- [[Shadow Duchess Nyx]] - Complicated ally
+- [[Aboleth Prime Yoth]] - Possible mastermind
+- [[The Scattered Emperor]] - Knows truth
+- [[Original Glaucus]] - Prisoner
 
 ### Important Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Infiltrated
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Prison
-- [[02_Worldbuilding/People/Tenebrarum]] - Shadow haven
-- [[02_Worldbuilding/Lore/Transformation Facilities]] - Operation centers
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Primary target
+- [[Parliament of Echoes]] - Infiltrated
+- [[The Memory Meadows]] - Prison
+- [[Tenebrarum]] - Shadow haven
+- [[Transformation Facilities]] - Operation centers
+- [[Abyssos Prime]] - Primary target
 
 ### Related Quests
-- [[02_Worldbuilding/People/Investigate Shadow Conspiracy]] - Main quest
-- [[02_Worldbuilding/Lore/Quest - The Dark Harvest]] - Prevent event
-- [[02_Worldbuilding/Lore/Quest - Shadow Citizenship Act]] - Political battle
-- [[02_Worldbuilding/Lore/Quest - Original Liberation]] - Rescue mission
-- [[02_Worldbuilding/Lore/Quest - The First Shadow]] - Origin mystery
+- [[Investigate Shadow Conspiracy]] - Main quest
+- [[Quest - The Dark Harvest]] - Prevent event
+- [[Quest - Shadow Citizenship Act]] - Political battle
+- [[Quest - Original Liberation]] - Rescue mission
+- [[Quest - The First Shadow]] - Origin mystery
 
 ### Organizations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Infiltrated government
-- [[02_Worldbuilding/Lore/Depth Guard]] - Opposition
-- [[02_Worldbuilding/Places/Memory Farmers]] - Collaborators
-- [[02_Worldbuilding/Groups/The Crown]] - Potential target
-- [[02_Worldbuilding/Lore/Light Bearers]] - Resistance
+- [[Parliament of Echoes]] - Infiltrated government
+- [[Depth Guard]] - Opposition
+- [[Memory Farmers]] - Collaborators
+- [[The Crown]] - Potential target
+- [[Light Bearers]] - Resistance
 
 ---
 
@@ -426,13 +422,13 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 
 ## Connections
 
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[02_Worldbuilding/Places/Senator's Private Chambers]]
-- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Senator's Private Chambers]]
+- [[Ambush Point]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -448,6 +444,6 @@ Legends speak of The Shadow Conspiracy as a nexus where past and present converg
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[02_Worldbuilding/People/Tenebrarum]]
-- [[02_Worldbuilding/Places/Depth Merchants]]
-- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[Tenebrarum]]
+- [[Depth Merchants]]
+- [[Memory Farmers]]

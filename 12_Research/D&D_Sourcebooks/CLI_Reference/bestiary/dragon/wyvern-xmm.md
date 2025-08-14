@@ -26,7 +26,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wyvern-xmm-v1-wyvern-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\dragon/wyvern-xmm|Wyvern]]
+# [[wyvern-xmm|Wyvern]]
 *Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Wyvern
@@ -60,7 +60,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
   - !!int "6"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
@@ -71,7 +71,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage\
-      \ plus 24 (7d6) Poison damage, and the target has the [[/03_Mechanics/CLI/conditions#Poisoned|Poisoned]]\
+      \ plus 24 (7d6) Poison damage, and the target has the [[conditions#Poisoned|Poisoned]]\
       \ condition until the start of the wyvern's next turn."
     "name": "Sting"
 "source":

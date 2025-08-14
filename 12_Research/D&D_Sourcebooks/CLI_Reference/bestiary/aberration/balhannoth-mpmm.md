@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-balhannoth-mpmm-balhannoth-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\aberration/balhannoth-mpmm|Balhannoth]]
+# [[balhannoth-mpmm|Balhannoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*  
 
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
@@ -59,9 +59,9 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 "saves":
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Blinded|blinded]]"
+"condition_immunities": "[[conditions#Blinded|blinded]]"
 "senses": "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
 "languages": "understands Deep Speech, telepathy 1 mile"
 "cr": "11"
@@ -75,20 +75,20 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
       \ (3d10 + 3) piercing damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+      \ (2d6 + 3) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this\
-      \ grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]],\
+      \ grapple ends, the target is [[conditions#Restrained|restrained]],\
       \ and the balhannoth can't use this tentacle against other targets. The balhannoth\
       \ has four tentacles."
     "name": "Tentacle"
 "legendary_actions":
-  - "desc": "The balhannoth makes one Bite attack against one creature it has [[/03_Mechanics/CLI/conditions#Grappled|grappled]]."
+  - "desc": "The balhannoth makes one Bite attack against one creature it has [[conditions#Grappled|grappled]]."
     "name": "Bite"
   - "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
-      \ and any creatures it has [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
+      \ and any creatures it has [[conditions#Grappled|grappled]],\
       \ up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
-  - "desc": "The balhannoth magically becomes [[/03_Mechanics/CLI/conditions#Invisible|invisible]]\
+  - "desc": "The balhannoth magically becomes [[conditions#Invisible|invisible]]\
       \ for up to 10 minutes or until immediately after it makes an attack roll."
     "name": "Vanish"
 "source":

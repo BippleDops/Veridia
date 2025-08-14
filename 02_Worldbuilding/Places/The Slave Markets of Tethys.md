@@ -15,35 +15,29 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg]]
 
 
 # The Slave Markets of Tethys
 *Where Human Lives Become Currency*
 
 ## Overview
-The Slave Markets of Tethys serve as the primary hub for human trafficking operations controlled by [[02_Worldbuilding/Groups/The Crimson Fleet]], supplying forced labor to [[02_Worldbuilding/Places/The Iron Pits of Malachar]], [[02_Worldbuilding/Places/The Crimson Foundries]], and [[02_Worldbuilding/Places/The Bone Colosseum]].
+The Slave Markets of Tethys serve as the primary hub for human trafficking operations controlled by [[The Crimson Fleet]], supplying forced labor to [[The Iron Pits of Malachar]], [[The Crimson Foundries]], and [[The Bone Colosseum]].
 
 ## Key Connections
-- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Primary operators and slave raiders
-- **[[02_Worldbuilding/People/Captain Marrow Drinker]]** - Ultimate authority over operations
-- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Major destination for mining slaves
-- **[[02_Worldbuilding/Places/The Bone Colosseum]]** - Supplies gladiators and fighters
-- **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Staging point for slave raids
-- **[[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]** - Oversees slave transportation
-- **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Provides "volunteers" for conversion
-- **[[02_Worldbuilding/Places/Nereidios]]** - Target for fishing community raids
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Leading opposition forces
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Investigating trafficking networks
-- **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Some oppose, others profit
-- **[[02_Worldbuilding/People/Crystal Wardens]]** - Moral opposition to slave trade operations
+- **[[The Crimson Fleet]]** - Primary operators and slave raiders
+- **[[Captain Marrow Drinker]]** - Ultimate authority over operations
+- **[[The Iron Pits of Malachar]]** - Major destination for mining slaves
+- **[[The Bone Colosseum]]** - Supplies gladiators and fighters
+- **[[The Kraken's Harbor]]** - Staging point for slave raids
+- **[[Enforcer Chief Mako Ironjaw]]** - Oversees slave transportation
+- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Provides "volunteers" for conversion
+- **[[Nereidios]]** - Target for fishing community raids
+- **[[Admiral Cassandra Stormwind]]** - Leading opposition forces
+- **[[Captain Lyanna Brightshield]]** - Investigating trafficking networks
+- **[[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Some oppose, others profit
+- **[[Crystal Wardens]]** - Moral opposition to slave trade operations
 
 ## History
 
@@ -94,11 +88,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Slave Markets of Tethys]]
+- [[The Slave Markets of Tethys]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[Crystal Wardens]]

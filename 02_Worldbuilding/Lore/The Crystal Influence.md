@@ -2,6 +2,7 @@
 type: Lore
 status: complete
 tags:
+- crystal-enhanced
 - active
 - aethermoor
 - lore
@@ -9,9 +10,6 @@ world: Aethermoor
 created: '2025-08-11'
 updated: '2025-08-13T01:18:34.887986+00:00'
 ---
-
-
-
 
 
 ## Overview
@@ -40,20 +38,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
+- [[United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
-- [[02_Worldbuilding/Lore/Campaign Epilogues]]
-- [[02_Worldbuilding/Lore/Eastern Kingdom]]
-- [[02_Worldbuilding/Lore/Hidden Sanctuary]]
-- [[02_Worldbuilding/Lore/Lighthouse Ruins]]
-- [[02_Worldbuilding/Lore/Magic Items]]
-- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
-- [[02_Worldbuilding/Lore/Save Both Civilizations]]
-- [[02_Worldbuilding/Lore/Shattered Isles]]
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
-- [[02_Worldbuilding/Lore/The Possessed Queen]]
-- [[United Councils of Both Worlds]]
+- [[12_Research/D&D_References/Biomancer Corvus Intestinal]]
+- [[12_Research/D&D_References/Campaign Epilogues]]
+- [[12_Research/D&D_References/Eastern Kingdom]]
+- [[12_Research/D&D_References/Hidden Sanctuary]]
+- [[12_Research/D&D_References/Lighthouse Ruins]]
+- [[12_Research/D&D_References/Magic Items]]
+- [[12_Research/D&D_References/Rewriting the Ritual]]
+- [[12_Research/D&D_References/Save Both Civilizations]]
+- [[12_Research/D&D_References/Shattered Isles]]
+- [[12_Research/D&D_References/Temporal Navigation Hazards]]
+- [[12_Research/D&D_References/The Possessed Queen]]
+- [[12_Research/D&D_References/United Councils of Both Worlds]]
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aethermoor World Guide]]

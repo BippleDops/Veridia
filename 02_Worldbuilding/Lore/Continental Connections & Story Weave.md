@@ -5,12 +5,11 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:34.587743+00:00'
 world: Both
 tags:
+- crystal-enhanced
 - active
 - both
 - lore
 ---
-
-
 
 
 ## Cross-References
@@ -20,10 +19,10 @@ tags:
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Corallion]]
-- [[Vorthak]]
-- [[02_Worldbuilding/People/Tenebrarum]]
-- [[02_Worldbuilding/Places/Crystallium]]
+- [[12_Research/D&D_References/Corallion]]
+- [[12_Research/D&D_References/Vorthak]]
+- [[12_Research/D&D_References/Tenebrarum]]
+- [[12_Research/D&D_References/Crystallium]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

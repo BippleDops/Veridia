@@ -27,7 +27,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-aeromancer-xmm-aarakocra-aeromancer-xmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\elemental/aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]
+# [[aarakocra-aeromancer-xmm|Aarakocra Aeromancer]]
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra aeromancers control magical winds from the endless storms of the Elemental Plane of Air.
@@ -62,31 +62,31 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Arcana|Arcana]]"
+  - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+3"
-  - "name": "[[/03_Mechanics/CLI/skills#Nature|Nature]]"
+  - "name": "[[skills#Nature|Nature]]"
     "desc": "+5"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Aarakocra, Primordial (Auran)"
 "cr": "4"
 "actions":
   - "desc": "The aarakocra makes two Wind Staff attacks, and it can use Spellcasting\
-      \ to cast [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]]."
+      \ to cast [[gust-of-wind-xphb|Gust of Wind]]."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
       \ 7 (1d8 + 3) Bludgeoning damage plus 11 (2d10) Lightning damage."
     "name": "Wind Staff"
   - "desc": "The aarakocra casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \nAt will: [[/03_Mechanics/CLI/spells/elementalism-xphb|Elementalism]],\
-      \ [[/03_Mechanics/CLI/spells/gust-of-wind-xphb|Gust of Wind]], [[/03_Mechanics/CLI/spells/mage-hand-xphb|Mage Hand]],\
-      \ [[/03_Mechanics/CLI/spells/message-xphb|Message]]\n\n1/day: [[/03_Mechanics/CLI/spells/lightning-bolt-xphb|Lightning\
+      \nAt will: [[elementalism-xphb|Elementalism]],\
+      \ [[gust-of-wind-xphb|Gust of Wind]], [[mage-hand-xphb|Mage Hand]],\
+      \ [[message-xphb|Message]]\n\n1/day: [[lightning-bolt-xphb|Lightning\
       \ Bolt]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The aarakocra casts [[/03_Mechanics/CLI/spells/feather-fall-xphb|Feather Fall]]\
+  - "desc": "The aarakocra casts [[feather-fall-xphb|Feather Fall]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Feather Fall (1/Day)"

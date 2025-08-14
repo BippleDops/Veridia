@@ -26,7 +26,7 @@ world: Both
 ![](/03_Mechanics/CLI/items/img/lance.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

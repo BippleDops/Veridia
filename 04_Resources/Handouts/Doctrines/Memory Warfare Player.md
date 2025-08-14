@@ -34,4 +34,4 @@ Risks
 
 ## Cross-References
 
-- [[04_Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+- [[Doctrine Quick Reference]]

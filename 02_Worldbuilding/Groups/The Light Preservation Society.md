@@ -25,8 +25,7 @@ world: Aquabyssos
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg)
-
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg]]
 
 
 # The Light Preservation Society
@@ -34,7 +33,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Light Preservation Society represents the largest organized resistance to [[02_Worldbuilding/People/The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]]'s continental infiltration efforts. Founded by survivors of early shadow replacement operations and their families, the Society has evolved from desperate support group into sophisticated underground network capable of detecting, documenting, and countering shadow influence across Aquabyssos.
+The Light Preservation Society represents the largest organized resistance to [[The Shadow Conspiracy|02 Worldbuilding/People/The Shadow Conspiracy]]'s continental infiltration efforts. Founded by survivors of early shadow replacement operations and their families, the Society has evolved from desperate support group into sophisticated underground network capable of detecting, documenting, and countering shadow influence across Aquabyssos.
 
 Unlike radical anti-shadow groups that advocate violence or species purification, the Light Preservation Society focuses on preservation, protection, and restoration. Their core mission centers on maintaining records of authentic human identity, developing detection methods for shadow replacement, and providing sanctuary for those fleeing shadow conversion attempts.
 
@@ -79,7 +78,7 @@ As more families discovered evidence of shadow replacement operations, the Socie
 ### The Resistance Transformation (4 Years Ago - Present)
 **From Documentation to Active Opposition**
 
-Discovery of [[02_Worldbuilding/Places/Shadow Surgery Network]] operations transformed the Society from passive observers into active resistance movement.
+Discovery of [[Shadow Surgery Network]] operations transformed the Society from passive observers into active resistance movement.
 
 **Operational Evolution**:
 - **Rescue Operations**: Extraction of individuals scheduled for shadow replacement procedures

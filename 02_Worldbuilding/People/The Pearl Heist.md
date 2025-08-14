@@ -22,12 +22,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-the-pearl-heist-the-pearl-heist.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-pearl-heist-the-pearl-heist.svg]]
 
 
 # The Pearl Heist
@@ -148,7 +144,7 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/The Pearl Heist]]
+- [[The Pearl Heist]]
 
 <!-- enriched: true -->
 iched: true -->

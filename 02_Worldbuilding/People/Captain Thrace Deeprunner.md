@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg]]
 
 
 ## Overview
@@ -64,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Captain Thrace Deeprunner]]
+- [[Captain Thrace Deeprunner]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]

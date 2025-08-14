@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marut-mpmm-marut-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\construct/marut-mpmm|Marut]]
+# [[marut-mpmm|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -57,17 +57,17 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
   - "wisdom": !!int "10"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Insight|Insight]]"
+  - "name": "[[skills#Insight|Insight]]"
     "desc": "+10"
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+12"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Frightened|frightened]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
-  \ [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": "all but rarely speaks"
 "cr": "25"
@@ -90,10 +90,10 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
     "name": "Unerring Slam"
   - "desc": "Arcane energy emanates from the marut's chest in a 60-foot cube. Every\
       \ creature in that area takes 45 radiant damage. Each creature that takes any\
-      \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[/03_Mechanics/CLI/conditions#Stunned|stunned]]\
+      \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[conditions#Stunned|stunned]]\
       \ until the end of the marut's next turn."
     "name": "Blazing Edict (Recharge 5-6)"
-  - "desc": "The marut casts [[/03_Mechanics/CLI/spells/plane-shift-xphb|plane shift]],\
+  - "desc": "The marut casts [[plane-shift-xphb|plane shift]],\
       \ requiring no material components and using Intelligence as the spellcasting\
       \ ability. The marut can cast the spell normally, or it can cast the spell on\
       \ an unwilling creature it can see within 60 feet of it. If it uses the latter\

@@ -15,11 +15,7 @@ world: Aquabyssos
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg)
-
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg]]
 
 
 ## Overview
@@ -64,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Pressure Lords]]
+- [[Pressure Lords]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[The Pressure Conspiracy]]

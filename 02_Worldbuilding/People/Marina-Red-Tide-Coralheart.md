@@ -14,11 +14,11 @@ description: Striking woman in her late 20s with deep red hair that seems to mov
   like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos
   that are actually ancestral marks.
 disposition: 0
-faction: '[[02_Worldbuilding/People/The Depth Wardens]]'
+faction: '[[The Depth Wardens]]'
 faction_rank: 5
 first_name: Marina
 influence: 8
-last_encounter: '[[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]'
+last_encounter: '[[Aethermoor - Session 01 Blood in the Harbor]]'
 last_name: Coralheart
 level: 7
 location: '[[The Siren''s Rest Tavern]]'
@@ -27,21 +27,21 @@ notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard 
 obsidianUIMode: preview
 occupation: Smuggler Captain / Information Broker
 portrait: ''
-public_faction: '[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]'
+public_faction: '[[Independent Smugglers]]'
 race: Human (Aquabyssos Bloodline)
 related_quests:
-- '[[02_Worldbuilding/People/Investigate the Crystal Plague]]'
-- '[[02_Worldbuilding/Places/The Seven Shards Mystery]]'
-- '[[02_Worldbuilding/People/Uniting the Factions]]'
-- '[[02_Worldbuilding/People/The Bloodline Awakens]]'
+- '[[Investigate the Crystal Plague]]'
+- '[[The Seven Shards Mystery]]'
+- '[[Uniting the Factions]]'
+- '[[The Bloodline Awakens]]'
 relationship_type: complicated
 relationships:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[Captain Lyanna Brightshield]]'
+- '[[The Crimson Sage]]'
 - '[[Jasper Three-Eyes Flint]]'
-- '[[02_Worldbuilding/People/Lord Aurelius Goldwave]]'
-- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/The Bloodline Carrier]]'
+- '[[Lord Aurelius Goldwave]]'
+- '[[Vex Shadowthorn]]'
+- '[[The Bloodline Carrier]]'
 secrets:
 - Member of ancient order protecting bloodline descendants
 - Can breathe underwater and sense shards
@@ -75,14 +75,8 @@ world: Both
 ---
 
 
-
-
-
 > [!figure] Portrait
-![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg)
-
-
-
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg]]
 
 
 # Marina "Red Tide" Coralheart
@@ -107,18 +101,18 @@ Marina leads a secret organization descended from Aquabyssos survivors who chose
 
 ## Relationships
 ### True Allies
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
-- **[[02_Worldbuilding/People/The Bloodline Carrier]]**: Sworn by ancient oath to protect them, even at cost of her life.
+- **[[The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
+- **[[The Bloodline Carrier]]**: Sworn by ancient oath to protect them, even at cost of her life.
 - **Other Depth Wardens**: Commands a network of 20-30 agents across Aethermoor.
 
 ### Public Persona Relationships
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
+- **[[Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
 - **Smuggler Crews**: Commands loyalty through fair dealing and spectacular profits.
-- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]**: Has extensive blackmail material ensuring cooperation.
+- **[[Lord Aurelius Goldwave]]**: Has extensive blackmail material ensuring cooperation.
 
 ### Complicated
 - **[[Jasper Three-Eyes Flint]]**: Protects him as potential bloodline carrier, but his madness makes it difficult.
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
+- **[[Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
 - **Her Shadow Self**: Has been switching places, creating identity confusion.
 
 ## Current Activities
@@ -259,9 +253,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[Marina-Red-Tide-Coralheart]]
 
 <!-- enriched: true -->
 - [[Jasper Three-Eyes Flint]]
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[Lord Aurelius Goldwave]]
+- [[The Bloodline Carrier]]

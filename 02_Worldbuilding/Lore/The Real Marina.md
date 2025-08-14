@@ -5,36 +5,36 @@ created: '2025-08-11'
 updated: '2025-08-13T01:18:34.891547+00:00'
 world: Both
 tags:
+- session-notes
+- crystal-enhanced
 - active
 - both
 - lore
 ---
 
 
-
-
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+- [[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
 
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
-- [[Crystal Garden]]
-- [[Customs House]]
-- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[The Great Crystallization]]
-- [[The Queen]]
-- [[02_Worldbuilding/Lore/The Transformed Citizens]]
-- [[02_Worldbuilding/Lore/Throne Room]]
-- [[Timeline of the Drowning]]
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[12_Research/D&D_References/Crystal Festival Grounds]]
+- [[12_Research/D&D_References/Crystal Garden]]
+- [[12_Research/D&D_References/Customs House]]
+- [[12_Research/D&D_References/Memory Alteration Consequences]]
+- [[12_Research/D&D_References/Merged Reality Zones]]
+- [[12_Research/D&D_References/The Convergence Point]]
+- [[12_Research/D&D_References/The Crimson Hand]]
+- [[12_Research/D&D_References/The Forgetting Bomb]]
+- [[12_Research/D&D_References/The Great Crystallization]]
+- [[12_Research/D&D_References/The Queen]]
+- [[12_Research/D&D_References/The Transformed Citizens]]
+- [[12_Research/D&D_References/Throne Room]]
+- [[12_Research/D&D_References/Timeline of the Drowning]]
+- [[12_Research/D&D_References/Aboleth Prime Yoth]]
+- [[12_Research/D&D_References/Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -55,3 +55,7 @@ Legends speak of The Real Marina as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Related
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]

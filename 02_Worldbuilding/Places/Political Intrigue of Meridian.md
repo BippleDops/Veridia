@@ -20,11 +20,8 @@ world: Aquabyssos
 ---
 
 
-
 > [!figure] View
-![](04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg)
-
-
+![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg]]
 
 
 # Political Intrigue of Meridian
@@ -166,7 +163,7 @@ Political intrigue emphasizes roleplay, investigation, and moral choices over co
 
 ## Connections
 
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Parliament of Echoes]]
 
 ## Player-Facing Summary
 
@@ -178,6 +175,6 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
+- [[Political Intrigue of Meridian]]
 
 <!-- enriched: true -->

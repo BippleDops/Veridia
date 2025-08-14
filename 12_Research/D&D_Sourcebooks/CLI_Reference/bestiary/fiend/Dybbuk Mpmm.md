@@ -29,7 +29,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dybbuk-mpmm-dybbuk-mpmm.svg)
 
-# [[3-Mechanics\CLI\bestiary\fiend/dybbuk-mpmm|Dybbuk]]
+# [[dybbuk-mpmm|Dybbuk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -55,20 +55,20 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
   - !!int "14"
 "speed": "40 ft. (hover)"
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Deception|Deception]]"
+  - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Intimidation|Intimidation]]"
+  - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
-  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Grappled|grappled]],\
-  \ [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]], [[/03_Mechanics/CLI/conditions#Petrified|petrified]],\
-  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]], [[/03_Mechanics/CLI/conditions#Prone|prone]],\
-  \ [[/03_Mechanics/CLI/conditions#Restrained|restrained]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
+  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "4"
@@ -97,15 +97,15 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     "name": "Possess Corpse (Recharge 6)"
   - "desc": "The dybbuk casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[/03_Mechanics/CLI/spells/dimension-door-xphb|dimension door]]\n\
-      \n3/day: [[/03_Mechanics/CLI/spells/phantasmal-force-xphb|phantasmal force]]"
+      \ will: [[dimension-door-xphb|dimension door]]\n\
+      \n3/day: [[phantasmal-force-xphb|phantasmal force]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
       \ unnatural, such as vomit blood, twist its head all the way around, or cause\
       \ a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior\
-      \ must succeed on a DC 12 Wisdom saving throw or become [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
-      \ of the dybbuk for 1 minute. The [[/03_Mechanics/CLI/conditions#Frightened|frightened]]\
+      \ must succeed on a DC 12 Wisdom saving throw or become [[conditions#Frightened|frightened]]\
+      \ of the dybbuk for 1 minute. The [[conditions#Frightened|frightened]]\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. A creature that succeeds on a saving throw\
       \ against this ability is immune to Control Corpse for 24 hours."

@@ -24,7 +24,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-molten-magma-roper-pota-molten-magma-roper-pota.svg)
 
-# [[3-Mechanics\CLI\bestiary\monstrosity/molten-magma-roper-pota|Molten Magma Roper]]
+# [[molten-magma-roper-pota|Molten Magma Roper]]
 *Source: Princes of the Apocalypse p. 143*  
 
 ```statblock
@@ -46,9 +46,9 @@ world: Both
   - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+  - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
-  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+  - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
@@ -76,13 +76,13 @@ world: Both
       \ (4d8 + 4) fire damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit:\
-      \ 4 (d8) fire damage and the target is [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
-      \ (escape DC 15). Until the grapple ends, the target is [[/03_Mechanics/CLI/conditions#Restrained|restrained]]\
+      \ 4 (d8) fire damage and the target is [[conditions#Grappled|grappled]]\
+      \ (escape DC 15). Until the grapple ends, the target is [[conditions#Restrained|restrained]]\
       \ and has disadvantage on Strength checks and Strength saving throws, and the\
       \ roper can't use the same tendril on another target. A creature takes 4 (d8)\
       \ fire damage each time it ends its turn grappled by the roper."
     "name": "Tendril"
-  - "desc": "The roper pulls each creature [[/03_Mechanics/CLI/conditions#Grappled|grappled]]\
+  - "desc": "The roper pulls each creature [[conditions#Grappled|grappled]]\
       \ by it up to 25 feet straight toward it."
     "name": "Reel"
 "source":

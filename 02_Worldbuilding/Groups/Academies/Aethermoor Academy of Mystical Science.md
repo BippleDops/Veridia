@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.421910+00:00'
 world: Aethermoor
 ---
 
+![Aethermoor Academy of Mystical Science](../../../04_Resources/Assets/Generated/Misc/aethermoor_academy_of_mystical_science.png)
+
+
 
 
 ## Overview

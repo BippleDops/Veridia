@@ -233,3 +233,21 @@ This NPC can serve multiple roles:
 - [[Random NPC Generator]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Knowledge
+- **Major Flaw**: Fear
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

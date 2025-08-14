@@ -224,3 +224,21 @@ This NPC can serve multiple roles:
 - [[#Cross-Campaign Characters]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Knowledge
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome moral dilemma
+3. **Growth Moment**: Learns courage
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

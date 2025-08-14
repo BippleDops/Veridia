@@ -197,3 +197,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Surface Ambassador Lord Seaworthy]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Redemption
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns acceptance
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

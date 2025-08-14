@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.426361+00:00'
 world: Both
 ---
 
+![Shadow Academy Training Ground](../../../04_Resources/Assets/Generated/Misc/shadow_academy_training_ground.png)
+
+
 
 
 ## Player-Facing Summary

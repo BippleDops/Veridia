@@ -232,3 +232,21 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Power
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

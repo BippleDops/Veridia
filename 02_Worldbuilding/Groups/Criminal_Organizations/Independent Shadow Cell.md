@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.368544+00:00'
 world: Both
 ---
 
+![Independent Shadow Cell](../../../04_Resources/Assets/Generated/Misc/independent_shadow_cell.png)
+
+
 
 
 ## Overview

@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Groups/Order of the Silver Ancho](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_silver_ancho.png)
+
+
 # 02_Worldbuilding/Groups/Order of the Silver Ancho
 
 ## Organization Overview

@@ -229,3 +229,21 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Portraits_portrait-npc-deep-lords-deep-lords.svg]] (enemy)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Knowledge
+- **Major Flaw**: Fear
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

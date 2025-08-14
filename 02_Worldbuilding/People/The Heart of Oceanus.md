@@ -444,3 +444,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Heart of Oceanus]]
 
 <!-- enriched: true -->
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Content
+- **Core Desire**: Redemption
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

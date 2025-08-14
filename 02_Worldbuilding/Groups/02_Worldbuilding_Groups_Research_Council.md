@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Groups/Research Council](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_research_council.png)
+
+
 # 02_Worldbuilding/Groups/Research Council
 
 ## Organization Overview

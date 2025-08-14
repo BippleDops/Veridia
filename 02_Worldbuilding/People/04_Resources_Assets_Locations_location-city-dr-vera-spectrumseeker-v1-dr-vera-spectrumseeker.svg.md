@@ -232,3 +232,21 @@ This NPC can serve multiple roles:
 - [[Quest - Breaking the Scales]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Power
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

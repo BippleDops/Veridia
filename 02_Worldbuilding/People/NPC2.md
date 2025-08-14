@@ -218,3 +218,22 @@ cr: 1/4
 - Adjust capabilities to party level
 - Influence can grow or wane with story
 - Secrets can be revealed gradually
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Redemption
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

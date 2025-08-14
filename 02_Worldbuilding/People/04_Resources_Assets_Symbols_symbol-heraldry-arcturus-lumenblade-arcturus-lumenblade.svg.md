@@ -228,3 +228,21 @@ This NPC can serve multiple roles:
 - [[Lord Bathysmal]] (rival)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Knowledge
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns courage
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

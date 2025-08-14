@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Groups/Order of the Crystal Flame](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_order_of_the_crystal_flame.png)
+
+
 # 02_Worldbuilding/Groups/Order of the Crystal Flame
 
 ## Organization Overview

@@ -310,3 +310,22 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 - [[Quest - The Dying Forest]]
 
 <!-- enriched: true -->
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Peace
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

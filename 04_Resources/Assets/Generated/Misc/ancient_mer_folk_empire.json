@@ -1,0 +1,13 @@
+{
+  "title": "Ancient Mer-Folk Empire",
+  "prompt": "Ancient mer-folk empire, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, ancient",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:30:39.775Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Ancient Mer-Folk Empire.md"
+}

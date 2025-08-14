@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Absolute Reality Faction](../../04_Resources/Assets/Generated/Misc/absolute_reality_faction.png)
+
+
 
 # Absolute Reality Faction
 

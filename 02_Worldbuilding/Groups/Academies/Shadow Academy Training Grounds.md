@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.425296+00:00'
 world: Both
 ---
 
+![Shadow Academy Training Grounds](../../../04_Resources/Assets/Generated/Misc/shadow_academy_training_grounds.png)
+
+
 
 
 ## Cross-References

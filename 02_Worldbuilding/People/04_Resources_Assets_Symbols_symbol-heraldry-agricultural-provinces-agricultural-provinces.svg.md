@@ -234,3 +234,21 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Symbols_symbol-heraldry-crystal-pirate-crew-crystal-pirate-crew.svg]] (friend)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Knowledge
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

@@ -207,3 +207,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Coral Throne Syndicate]] (enemy)
 - [[NPC Relationship System]] (friend)
 - [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]] (ally)
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Peace
+- **Major Flaw**: Pride
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome moral dilemma
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.364644+00:00'
 world: Both
 ---
 
+![Instructor Combat Shadow](../../../04_Resources/Assets/Generated/Misc/instructor_combat_shadow.png)
+
+
 
 
 ## Overview

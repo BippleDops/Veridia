@@ -207,3 +207,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Senator_Glaucus_Brain]] (enemy)
 - [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-master-smith-vulcan-deepforge.svg]] (enemy)
 - [[Deep Mother's Domain]] (enemy)
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Power
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

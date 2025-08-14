@@ -216,3 +216,22 @@ cr: 1/4
 - Adjust capabilities to party level
 - Influence can grow or wane with story
 - Secrets can be revealed gradually
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Content
+- **Core Desire**: Power
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome moral dilemma
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

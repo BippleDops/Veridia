@@ -15,6 +15,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v2-council-summons-notice.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_council_summons_notice_v2_council_summons_notice_png.png)
+
+
 # 04_Resources/Assets/Handouts/handout-handout-council-summons-notice-v2-council-summons-notice.png
 
 ## Organization Overview

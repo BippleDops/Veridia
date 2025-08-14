@@ -515,3 +515,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Parliament High Council]]
 - [[Senator Marius]]
 - [[Shadow Binding Sanctum]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Content
+- **Core Desire**: Redemption
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome moral dilemma
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

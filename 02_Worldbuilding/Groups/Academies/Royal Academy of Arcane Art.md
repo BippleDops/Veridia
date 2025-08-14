@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.424228+00:00'
 world: Both
 ---
 
+![Royal Academy of Arcane Art](../../../04_Resources/Assets/Generated/Misc/royal_academy_of_arcane_art.png)
+
+
 
 
 ## Overview

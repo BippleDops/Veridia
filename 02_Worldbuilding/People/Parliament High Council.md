@@ -292,3 +292,22 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 
 <!-- enriched: true -->
 nriched: true -->
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Knowledge
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns courage
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

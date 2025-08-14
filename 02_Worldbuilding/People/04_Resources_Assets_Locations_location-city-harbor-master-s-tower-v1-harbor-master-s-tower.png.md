@@ -229,3 +229,21 @@ This NPC can serve multiple roles:
 - [[Duke Alexander Tidecrest]] (ally)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Knowledge
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

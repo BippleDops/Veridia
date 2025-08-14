@@ -198,3 +198,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Harbormaster Erik Saltbeard]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Redemption
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

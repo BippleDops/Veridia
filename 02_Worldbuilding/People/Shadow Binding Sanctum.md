@@ -314,3 +314,22 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 - [[Shadow Binding Sanctum]]
 
 <!-- enriched: true -->
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Love
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Discovery
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

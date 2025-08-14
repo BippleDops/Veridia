@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.423783+00:00'
 world: Both
 ---
 
+![The Crystal Academy](../../../04_Resources/Assets/Generated/Misc/the_crystal_academy.png)
+
+
 
 
 ## Overview

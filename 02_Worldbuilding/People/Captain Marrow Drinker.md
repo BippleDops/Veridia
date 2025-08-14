@@ -239,3 +239,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Sister Morwyn Veilkeeper]] (friend)
 - [[04_Resources_Assets_Locations_location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep.svg]] (ally)
 - [[04_Resources_Assets_Locations_location-city-surge-mixmaster-surge-mixmaster.png]] (ally)
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Love
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome moral dilemma
+3. **Growth Moment**: Learns courage
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

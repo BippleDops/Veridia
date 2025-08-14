@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.378443+00:00'
 world: Aethermoor
 ---
 
+![Foreign Crime Syndicate](../../../04_Resources/Assets/Generated/Misc/foreign_crime_syndicate.png)
+
+
 
 
 ## Overview

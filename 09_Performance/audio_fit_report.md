@@ -1,24 +1,12 @@
-# audio_fit_report
-
----
-title: audio fit report
-type: note
-tags:
-- active
-- note
-created: '2025-08-14'
-modified: '2025-08-14'
----
-
 # Audio Fit Report
 
 | File | World | Peak | Clips | Curated Path |
 |---|---|---:|:---:|---|
 | 04_Resources/Assets/Audio/Ambient/aquabyssos_ambient_1755203948736.wav | Aquabyssos | 0.150 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_ambient_1755203948736.wav |
-| 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav | Aethermoor | 0.200 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav |
+| 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav | Aethermoor | 0.193 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav | Aethermoor | 0.150 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav | Aethermoor | 0.235 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav |
-| 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav | Aethermoor | 0.549 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav |
+| 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav | Aethermoor | 0.546 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav | Aethermoor | 0.216 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav | Aethermoor | 0.212 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v013.wav | Aethermoor | 0.218 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v013.wav |
@@ -53,13 +41,13 @@ modified: '2025-08-14'
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v034.wav | Aethermoor | 0.630 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v034.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v040.wav | Aethermoor | 0.620 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v040.wav |
 | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v046.wav | Aethermoor | 0.633 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Storm_v046.wav |
-| 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav | Aquabyssos | 0.107 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav |
+| 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav | Aquabyssos | 0.110 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav | Aquabyssos | 0.062 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav | Aquabyssos | 0.164 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/Kelp_Forest_Sway.wav | Aquabyssos | 0.110 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Kelp_Forest_Sway.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/Lighthouse_Surf_Horn.wav | Aquabyssos | 0.261 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Lighthouse_Surf_Horn.wav |
-| 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav | Aquabyssos | 0.060 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav |
-| 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav | Aquabyssos | 0.217 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav |
+| 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav | Aquabyssos | 0.055 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav |
+| 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav | Aquabyssos | 0.222 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v004.wav | Aquabyssos | 0.084 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v004.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v012.wav | Aquabyssos | 0.084 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v012.wav |
 | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v020.wav | Aquabyssos | 0.084 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_DeepTrench_v020.wav |
@@ -136,9 +124,9 @@ modified: '2025-08-14'
 | 04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v047.wav | Generic | 0.255 | no | 04_Resources/Assets/Audio/Curated/Generic/aethermoor_Sails_v047.wav |
 | 04_Resources/Assets/Audio/Curated/Void/Pressure_Dome_Interior.wav | Void | 0.120 | no | 04_Resources/Assets/Audio/Curated/Void/Pressure_Dome_Interior.wav |
 | 04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav | Void | 0.060 | no | 04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav |
-| 04_Resources/Assets/Audio/Generated/Airship_Ambience.wav | Aethermoor | 0.194 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav |
+| 04_Resources/Assets/Audio/Generated/Airship_Ambience.wav | Aethermoor | 0.196 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav |
 | 04_Resources/Assets/Audio/Generated/Cavern_Drip.wav | Generic | 0.200 | no | 04_Resources/Assets/Audio/Curated/Generic/Cavern_Drip.wav |
-| 04_Resources/Assets/Audio/Generated/Coral_Reef_Clicks.wav | Aquabyssos | 0.108 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav |
+| 04_Resources/Assets/Audio/Generated/Coral_Reef_Clicks.wav | Aquabyssos | 0.110 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav |
 | 04_Resources/Assets/Audio/Generated/Deep_Trench_Pressure.wav | Aquabyssos | 0.062 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Deep_Trench_Pressure.wav |
 | 04_Resources/Assets/Audio/Generated/Engine_Room_Thrum.wav | Aethermoor | 0.150 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Engine_Room_Thrum.wav |
 | 04_Resources/Assets/Audio/Generated/Harbor_Night.wav | Aquabyssos | 0.164 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Harbor_Night.wav |
@@ -150,11 +138,11 @@ modified: '2025-08-14'
 | 04_Resources/Assets/Audio/Generated/Ritual_Circle_Pulse.wav | Generic | 0.186 | no | 04_Resources/Assets/Audio/Curated/Generic/Ritual_Circle_Pulse.wav |
 | 04_Resources/Assets/Audio/Generated/Shrine_Bell_Air.wav | Generic | 0.003 | no | 04_Resources/Assets/Audio/Curated/Generic/Shrine_Bell_Air.wav |
 | 04_Resources/Assets/Audio/Generated/Sky_Dock_Bustle.wav | Aethermoor | 0.235 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Sky_Dock_Bustle.wav |
-| 04_Resources/Assets/Audio/Generated/Storm_Approach.wav | Aethermoor | 0.541 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav |
+| 04_Resources/Assets/Audio/Generated/Storm_Approach.wav | Aethermoor | 0.543 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav |
 | 04_Resources/Assets/Audio/Generated/Tavern_Chatter.wav | Generic | 0.174 | no | 04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav |
 | 04_Resources/Assets/Audio/Generated/Temple_Ambience.wav | Generic | 0.212 | no | 04_Resources/Assets/Audio/Curated/Generic/Temple_Ambience.wav |
-| 04_Resources/Assets/Audio/Generated/Trench_Geyser.wav | Aquabyssos | 0.060 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav |
-| 04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav | Aquabyssos | 0.216 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav |
+| 04_Resources/Assets/Audio/Generated/Trench_Geyser.wav | Aquabyssos | 0.064 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav |
+| 04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav | Aquabyssos | 0.219 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav |
 | 04_Resources/Assets/Audio/Generated/Void_Hum.wav | Void | 0.060 | no | 04_Resources/Assets/Audio/Curated/Void/Void_Hum.wav |
 | 04_Resources/Assets/Audio/Generated/aethermoor_Airship_v001.wav | Aethermoor | 0.216 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v001.wav |
 | 04_Resources/Assets/Audio/Generated/aethermoor_Airship_v007.wav | Aethermoor | 0.212 | no | 04_Resources/Assets/Audio/Curated/Aethermoor/aethermoor_Airship_v007.wav |
@@ -256,7 +244,3 @@ modified: '2025-08-14'
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v033.wav | Aquabyssos | 0.248 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v033.wav |
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v041.wav | Aquabyssos | 0.242 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v041.wav |
 | 04_Resources/Assets/Audio/Generated/aquabyssos_Underwater_v049.wav | Aquabyssos | 0.242 | no | 04_Resources/Assets/Audio/Curated/Aquabyssos/aquabyssos_Underwater_v049.wav |
-
-## Related
-
-*Links to related content will be added here.*

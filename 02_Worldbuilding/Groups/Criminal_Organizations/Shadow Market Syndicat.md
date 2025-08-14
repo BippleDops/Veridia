@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.371249+00:00'
 world: Both
 ---
 
+![Shadow Market Syndicat](../../../04_Resources/Assets/Generated/Misc/shadow_market_syndicat.png)
+
+
 
 
 ## Overview

@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Crystal Harvester Guild](../../04_Resources/Assets/Generated/Misc/crystal_harvester_guild.png)
+
+
 
 # Crystal Harvester Guild
 

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.388396+00:00'
 world: Aethermoor
 ---
 
+![Foreign Shadow Syndicate](../../../04_Resources/Assets/Generated/Misc/foreign_shadow_syndicate.png)
+
+
 
 
 ## Overview

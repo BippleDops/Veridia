@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.404670+00:00'
 world: Both
 ---
 
+![Crystal Corruption Cultists](../../../04_Resources/Assets/Generated/Misc/crystal_corruption_cultists.png)
+
+
 
 
 ## Cross-References

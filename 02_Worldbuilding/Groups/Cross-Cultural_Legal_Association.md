@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![Cross-Cultural Legal Association](../../04_Resources/Assets/Generated/Misc/cross_cultural_legal_association.png)
+
+
 # Cross-Cultural Legal Association
 
 ## Organization Overview

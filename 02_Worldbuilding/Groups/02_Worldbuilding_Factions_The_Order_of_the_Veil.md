@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Factions/The Order of the Veil](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_order_of_the_veil.png)
+
+
 # 02_Worldbuilding/Factions/The Order of the Veil
 
 ## Organization Overview

@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.428947+00:00'
 world: Both
 ---
 
+![Academy of Depths](../../../04_Resources/Assets/Generated/Misc/academy_of_depths.png)
+
+
 
 
 ## Overview

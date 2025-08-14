@@ -28,6 +28,9 @@ updated: '2025-08-13T12:34:17.389004+00:00'
 world: Aquabyssos
 ---
 
+![The Shadow Conspiracy Hierarchy](../../../04_Resources/Assets/Generated/Misc/the_shadow_conspiracy_hierarchy.png)
+
+
 
 
 # The Shadow Conspiracy Hierarchy

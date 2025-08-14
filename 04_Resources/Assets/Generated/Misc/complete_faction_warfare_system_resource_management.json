@@ -1,0 +1,13 @@
+{
+  "title": "Complete Faction Warfare System#Resource Management",
+  "prompt": "Complete faction warfare system#resource management, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:33:37.105Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Complete Faction Warfare System#Resource Management.md"
+}

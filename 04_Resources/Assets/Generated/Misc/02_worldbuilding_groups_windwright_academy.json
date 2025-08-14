@@ -1,0 +1,13 @@
+{
+  "title": "02_Worldbuilding/Groups/Windwright_Academy",
+  "prompt": "02 worldbuilding/groups/windwright academy, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:16:45.235Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Windwright_Academy.md"
+}

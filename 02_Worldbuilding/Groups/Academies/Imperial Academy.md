@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.428527+00:00'
 world: Both
 ---
 
+![Imperial Academy](../../../04_Resources/Assets/Generated/Misc/imperial_academy.png)
+
+
 
 
 ## Cross-References

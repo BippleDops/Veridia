@@ -196,3 +196,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Cathedral of Light]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Peace
+- **Major Flaw**: Pride
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns courage
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

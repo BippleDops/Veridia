@@ -550,3 +550,22 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 - [[High Priestess Celeste Dawnbringer]]
 - [[The Purification Gardens]]
 - [[Sylvanheart]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Love
+- **Major Flaw**: Naivety
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

@@ -14,6 +14,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-crown-council-flagship.svg](../../04_Resources/Assets/Generated/Misc/04_resources_assets_vehicles_vehicle_ship_crown_council_flagship_crown_council_flagship_svg.png)
+
+
 # 04_Resources/Assets/Vehicles/vehicle-ship-crown-council-flagship-crown-council-flagship.svg
 
 ## Organization Overview

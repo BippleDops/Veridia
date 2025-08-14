@@ -13,6 +13,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![04_Resources/Assets/Art/Places/Syndicate_Enforcers.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_art_places_syndicate_enforcers_png.png)
+
+
 # 04_Resources/Assets/Art/Places/Syndicate_Enforcers.png
 
 ## Organization Overview

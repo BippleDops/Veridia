@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Groups/The Cloud Shepherd Guild](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_cloud_shepherd_guild.png)
+
+
 # 02_Worldbuilding/Groups/The Cloud Shepherd Guild
 
 ## Organization Overview

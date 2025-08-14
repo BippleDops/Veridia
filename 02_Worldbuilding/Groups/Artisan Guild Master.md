@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Artisan Guild Master](../../04_Resources/Assets/Generated/Misc/artisan_guild_master.png)
+
+
 
 # Artisan Guild Master
 

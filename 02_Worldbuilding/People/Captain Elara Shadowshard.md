@@ -229,3 +229,22 @@ cr: 1/4
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Searching
+- **Core Desire**: Love
+- **Major Flaw**: Greed
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

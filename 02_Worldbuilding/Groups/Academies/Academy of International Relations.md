@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.422348+00:00'
 world: Both
 ---
 
+![Academy of International Relations](../../../04_Resources/Assets/Generated/Misc/academy_of_international_relations.png)
+
+
 
 
 ## Cross-References

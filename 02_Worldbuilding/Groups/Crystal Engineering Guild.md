@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Crystal Engineering Guild](../../04_Resources/Assets/Generated/Misc/crystal_engineering_guild.png)
+
+
 
 # Crystal Engineering Guild
 

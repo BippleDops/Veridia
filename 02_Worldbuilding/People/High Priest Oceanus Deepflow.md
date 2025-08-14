@@ -208,3 +208,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[04_Resources_Assets_Locations_location-city-spymaster-crow-v1-spymaster-crow.svg]] (colleague)
 - [[04_Resources_Assets_Locations_location-city-merchant-prince-aldric-goldcurrent-v1-merchant-prince-aldric-goldcurrent.svg]] (colleague)
 - [[Pilgrim Guide Samuel Walkingfaith]] (rival)
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Love
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns humility
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

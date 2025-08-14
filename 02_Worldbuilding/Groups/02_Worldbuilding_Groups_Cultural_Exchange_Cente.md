@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Groups/Cultural Exchange Cente](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_exchange_cente.png)
+
+
 # 02_Worldbuilding/Groups/Cultural Exchange Cente
 
 ## Organization Overview

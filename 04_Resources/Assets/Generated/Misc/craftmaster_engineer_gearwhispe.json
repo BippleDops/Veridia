@@ -1,0 +1,13 @@
+{
+  "title": "Craftmaster Engineer Gearwhispe",
+  "prompt": "Craftmaster engineer gearwhispe, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:34:04.174Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Craftmaster Engineer Gearwhispe.md"
+}

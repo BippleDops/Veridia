@@ -17,6 +17,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![04_Resources/Assets/Symbols/symbol-heraldry-faction-intelligence-faction-intelligence.svg](../../../../../04_Resources/Assets/Generated/Misc/04_resources_assets_symbols_symbol_heraldry_faction_intelligence_faction_intelligence_svg.png)
+
+
 
 # 04_Resources/Assets/Symbols/symbol-heraldry-faction-intelligence-faction-intelligence.svg
 

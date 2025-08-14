@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Complete Faction Warfare System#Resource Management](../../04_Resources/Assets/Generated/Misc/complete_faction_warfare_system_resource_management.png)
+
+
 
 # Complete Faction Warfare System#Resource Management
 

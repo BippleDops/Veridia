@@ -17,6 +17,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![07_Player_Resources/Faction_Guide.md](../../../04_Resources/Assets/Generated/Misc/07_player_resources_faction_guide_md.png)
+
+
 
 # 07_Player_Resources/Faction_Guide.md
 

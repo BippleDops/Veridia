@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.368938+00:00'
 world: Both
 ---
 
+![Shadowhawk Syndicate](../../../04_Resources/Assets/Generated/Misc/shadowhawk_syndicate.png)
+
+
 
 
 ## Player-Facing Summary

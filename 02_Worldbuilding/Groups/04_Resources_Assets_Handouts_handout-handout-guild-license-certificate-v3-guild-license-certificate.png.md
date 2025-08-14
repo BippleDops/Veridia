@@ -15,6 +15,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v3-guild-license-certificate.png](../../04_Resources/Assets/Generated/Misc/04_resources_assets_handouts_handout_handout_guild_license_certificate_v3_guild_license_certificate_png.png)
+
+
 # 04_Resources/Assets/Handouts/handout-handout-guild-license-certificate-v3-guild-license-certificate.png
 
 ## Organization Overview

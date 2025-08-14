@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.427577+00:00'
 world: Aethermoor
 ---
 
+![Academy of Crystalline Art](../../../04_Resources/Assets/Generated/Misc/academy_of_crystalline_art.png)
+
+
 
 
 ## Overview

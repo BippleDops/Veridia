@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.366338+00:00'
 world: Both
 ---
 
+![Quest - The Shadow Conspiracy Investigatio](../../../04_Resources/Assets/Generated/Misc/quest___the_shadow_conspiracy_investigatio.png)
+
+
 
 
 ## Overview

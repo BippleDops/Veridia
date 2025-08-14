@@ -197,3 +197,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Restoration Movement]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Content
+- **Core Desire**: Power
+- **Major Flaw**: Wrath
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns acceptance
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

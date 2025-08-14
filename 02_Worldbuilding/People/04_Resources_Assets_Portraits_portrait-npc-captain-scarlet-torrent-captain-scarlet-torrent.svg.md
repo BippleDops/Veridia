@@ -232,3 +232,21 @@ This NPC can serve multiple roles:
 - [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-harbormaster-creedence-tidereader.svg]] (colleague)
 ---
 *Tags*: #npc #contact #worldbuilding
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Content
+- **Core Desire**: Power
+- **Major Flaw**: Pride
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome internal demons
+3. **Growth Moment**: Learns truth
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

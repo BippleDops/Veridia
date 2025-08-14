@@ -681,3 +681,22 @@ Legends speak of The Senator as a nexus where past and present converge. Locals 
 
 <!-- enriched: true -->
 - [[Parliament of Echoes]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Troubled
+- **Core Desire**: Love
+- **Major Flaw**: Pride
+
+### Development Triggers
+1. **Catalyst Event**: Betrayal
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns acceptance
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

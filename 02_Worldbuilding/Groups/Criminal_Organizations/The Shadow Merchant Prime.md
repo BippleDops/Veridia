@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.390310+00:00'
 world: Both
 ---
 
+![The Shadow Merchant Prime](../../../04_Resources/Assets/Generated/Misc/the_shadow_merchant_prime.png)
+
+
 
 
 ## Overview

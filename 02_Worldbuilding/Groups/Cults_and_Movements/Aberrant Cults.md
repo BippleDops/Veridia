@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.396273+00:00'
 world: Aethermoor
 ---
 
+![Aberrant Cults](../../../04_Resources/Assets/Generated/Misc/aberrant_cults.png)
+
+
 
 
 ## Overview

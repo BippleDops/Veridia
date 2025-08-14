@@ -1,0 +1,13 @@
+{
+  "title": "04_Resources/Assets/Symbols/symbol-heraldry-factional-conflicts-factional-conflicts.svg",
+  "prompt": "04 resources/assets/symbols/symbol-heraldry-factional-conflicts-factional-conflicts.svg, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:23:33.019Z",
+  "sourceFile": "/02_Worldbuilding/Groups/04_Resources/Assets/Symbols/symbol-heraldry-factional-conflicts-factional-conflicts.svg.md"
+}

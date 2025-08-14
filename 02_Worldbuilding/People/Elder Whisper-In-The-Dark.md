@@ -437,3 +437,22 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 - [[Aethermoor]]
 - [[The Cerulean Trench]]
 - [[The Primordial Vaults]]
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Redemption
+- **Major Flaw**: Pride
+
+### Development Triggers
+1. **Catalyst Event**: Great opportunity
+2. **Challenge**: Must overcome impossible odds
+3. **Growth Moment**: Learns acceptance
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

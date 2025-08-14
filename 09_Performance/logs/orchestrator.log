@@ -434,3 +434,102 @@ Commit failed: stdout maxBuffer length exceeded
 ✅ Total generated: 6 assets
 
 📦 Auto-committing changes...
+✅ Changes committed and pushed
+
+🎯 Batch 26: Generating creatures...
+
+🎨 Generating 10 creatures...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 creatures
+✅ Total generated: 6 assets
+
+🎯 Batch 27: Generating items...
+
+🎨 Generating 10 items...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 items
+✅ Total generated: 6 assets
+
+🎯 Batch 28: Generating maps...
+
+🎨 Generating 10 maps...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 maps
+✅ Total generated: 6 assets
+
+🎯 Batch 29: Generating scenes...
+
+🎨 Generating 10 scenes...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 scenes
+✅ Total generated: 6 assets
+
+🎯 Batch 30: Generating portraits...
+
+🎨 Generating 10 portraits...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 portraits
+✅ Total generated: 6 assets
+
+🎯 Batch 31: Generating locations...
+
+🎨 Generating 10 locations...
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+❌ Stability generation failed: Stability API error: Too Many Requests
+✅ Generated 0/10 locations
+✅ Total generated: 6 assets
+
+📦 Auto-committing changes...

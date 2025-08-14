@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.428059+00:00'
 world: Aethermoor
 ---
 
+![Academy of Redirection](../../../04_Resources/Assets/Generated/Misc/academy_of_redirection.png)
+
+
 
 
 ## Overview

@@ -1,0 +1,13 @@
+{
+  "title": "Commander Void Tactician",
+  "prompt": "Commander void tactician, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, void",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:33:19.064Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Commander Void Tactician.md"
+}

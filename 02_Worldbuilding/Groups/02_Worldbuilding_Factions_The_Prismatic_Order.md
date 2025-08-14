@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Factions/The Prismatic Order](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_factions_the_prismatic_order.png)
+
+
 # 02_Worldbuilding/Factions/The Prismatic Order
 
 ## Organization Overview

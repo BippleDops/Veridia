@@ -203,3 +203,22 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[NPC Name 1]] (enemy)
 - [[Captain Scarlet Torrent]] (rival)
 - [[04_Resources_Assets_Locations_location-city-commander-drake-pressureborn-v1-commander-drake-pressureborn.svg]] (ally)
+
+
+## Character Arc
+
+### Starting Point
+- **Current State**: Ambitious
+- **Core Desire**: Love
+- **Major Flaw**: Fear
+
+### Development Triggers
+1. **Catalyst Event**: Personal loss
+2. **Challenge**: Must overcome external threat
+3. **Growth Moment**: Learns sacrifice
+
+### Potential Endings
+- **Redemption**: Overcomes flaw and finds peace
+- **Tragedy**: Succumbs to flaw with consequences  
+- **Transformation**: Becomes someone entirely new
+- **Stasis**: Refuses to change despite opportunities

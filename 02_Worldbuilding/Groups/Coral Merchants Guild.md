@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![Coral Merchants Guild](../../04_Resources/Assets/Generated/Misc/coral_merchants_guild.png)
+
+
 
 # Coral Merchants Guild
 

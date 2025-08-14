@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![Crystal_Corruption_Cultists](../../04_Resources/Assets/Generated/Misc/crystal_corruption_cultists.png)
+
+
 # Crystal_Corruption_Cultists
 
 ## Organization Overview

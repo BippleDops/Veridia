@@ -11,6 +11,9 @@ headquarters: Unknown
 membership: Unknown
 ---
 
+![02_Worldbuilding/Places/Order of the Crystal Flame Monastery](../../04_Resources/Assets/Generated/Misc/02_worldbuilding_places_order_of_the_crystal_flame_monastery.png)
+
+
 # 02_Worldbuilding/Places/Order of the Crystal Flame Monastery
 
 ## Organization Overview

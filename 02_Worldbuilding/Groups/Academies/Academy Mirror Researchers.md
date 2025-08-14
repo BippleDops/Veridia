@@ -20,6 +20,9 @@ updated: '2025-08-13T12:34:17.427059+00:00'
 world: Aquabyssos
 ---
 
+![Academy Mirror Researchers](../../../04_Resources/Assets/Generated/Misc/academy_mirror_researchers.png)
+
+
 
 
 ## Cross-References

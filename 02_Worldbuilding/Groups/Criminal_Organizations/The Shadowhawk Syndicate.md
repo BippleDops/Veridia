@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.368144+00:00'
 world: Aethermoor
 ---
 
+![The Shadowhawk Syndicate](../../../04_Resources/Assets/Generated/Misc/the_shadowhawk_syndicate.png)
+
+
 
 
 ## Overview

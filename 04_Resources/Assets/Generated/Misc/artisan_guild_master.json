@@ -1,0 +1,13 @@
+{
+  "title": "Artisan Guild Master",
+  "prompt": "Artisan guild master, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-14T23:31:36.865Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Artisan Guild Master.md"
+}

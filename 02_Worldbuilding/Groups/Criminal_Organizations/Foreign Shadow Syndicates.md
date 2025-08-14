@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.378892+00:00'
 world: Both
 ---
 
+![Foreign Shadow Syndicates](../../../04_Resources/Assets/Generated/Misc/foreign_shadow_syndicates.png)
+
+
 
 
 ## Cross-References

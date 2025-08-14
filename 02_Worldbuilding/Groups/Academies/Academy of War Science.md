@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.423166+00:00'
 world: Aquabyssos
 ---
 
+![Academy of War Science](../../../04_Resources/Assets/Generated/Misc/academy_of_war_science.png)
+
+
 
 
 ## Overview

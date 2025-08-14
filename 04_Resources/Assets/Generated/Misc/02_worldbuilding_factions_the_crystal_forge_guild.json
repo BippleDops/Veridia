@@ -1,6 +1,6 @@
 {
   "title": "02_Worldbuilding/Factions/The Crystal Forge Guild",
-  "prompt": "02 worldbuilding/factions/the crystal forge guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
+  "prompt": "02 worldbuilding/factions/the crystal forge guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:02:31.190Z",
-  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Factions/The Crystal Forge Guild.md"
+  "generated": "2025-08-14T23:19:28.500Z",
+  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding_Factions_The_Crystal_Forge_Guild.md"
 }

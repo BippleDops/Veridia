@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.425811+00:00'
 world: Both
 ---
 
+![Windwright Academy](../../../04_Resources/Assets/Generated/Misc/windwright_academy.png)
+
+
 
 
 ## Overview

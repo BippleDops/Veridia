@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.367694+00:00'
 world: Both
 ---
 
+![Surgeon Battle Shadow](../../../04_Resources/Assets/Generated/Misc/surgeon_battle_shadow.png)
+
+
 
 
 ## Overview

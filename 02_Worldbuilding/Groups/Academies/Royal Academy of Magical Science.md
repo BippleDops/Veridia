@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.422760+00:00'
 world: Aquabyssos
 ---
 
+![Royal Academy of Magical Science](../../../04_Resources/Assets/Generated/Misc/royal_academy_of_magical_science.png)
+
+
 
 
 ## Overview

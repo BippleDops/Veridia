@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.386600+00:00'
 world: Aquabyssos
 ---
 
+![Shadow Tide Syndicat](../../../04_Resources/Assets/Generated/Misc/shadow_tide_syndicat.png)
+
+
 
 
 ## Overview

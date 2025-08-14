@@ -15,6 +15,9 @@ membership: Unknown
 updated: 2025-08-14
 ---
 
+![07_Player_Resources/Visual_Handouts/Guild_Seal_Document_Silverscale_Consortiu](../../../../04_Resources/Assets/Generated/Misc/07_player_resources_visual_handouts_guild_seal_document_silverscale_consortiu.png)
+
+
 
 # 07_Player_Resources/Visual_Handouts/Guild_Seal_Document_Silverscale_Consortiu
 

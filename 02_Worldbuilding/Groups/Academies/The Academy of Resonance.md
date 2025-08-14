@@ -19,6 +19,9 @@ updated: '2025-08-13T12:34:17.424840+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
 
+![The Academy of Resonance](../../../04_Resources/Assets/Generated/Misc/the_academy_of_resonance.png)
+
+
 
 
 ## Overview

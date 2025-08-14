@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-08-14T17:11:28.740450",
+  "fixes": {
+    "scripts_fixed": [
+      "political_intrigue_web.py",
+      "final_integration_phase3.py",
+      "local_ai_integration.py",
+      "canonical_names.py",
+      "metadata_linter.py",
+      "tag_taxonomy.py",
+      "bidirectional_links.py",
+      "audit_standardize_cr_dates.py",
+      "dedupe_semantic.py",
+      "daily_life_documenter.py",
+      "npc_daily_routines.py",
+      "fix_and_enhance_vault.py",
+      "npc_location_linker.py",
+      "content_depth_audit.py",
+      "consequence_chain_system.py",
+      "dedupe_by_content.py",
+      "timeline_alignment_checker.py",
+      "asset_downloader.py",
+      "phase5_autonomous_implementation.py",
+      "economic_market_simulator.py",
+      "epoch_harmonizer.py",
+      "coordination_system.py"
+    ],
+    "performance_dir": "Changed 09_Performance to 13_Performance",
+    "reports_moved": "All reports now in 13_Performance"
+  },
+  "additions": {
+    "actual_play_campaigns": [
+      "Critical_Role.md",
+      "Dimension_20.md",
+      "Other_Actual_Plays.md"
+    ],
+    "ttrpg_articles": [
+      "DM_Advice_Articles.md",
+      "Game_Design_Articles.md",
+      "Tools_and_Resources.md"
+    ]
+  }
+}

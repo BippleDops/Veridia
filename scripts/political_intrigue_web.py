@@ -542,7 +542,7 @@ class PoliticalIntrigueWeb:
     def save_system_state(self):
         """Persist the political intrigue system state"""
         ensure_dirs()
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         os.makedirs(data_dir, exist_ok=True)
         
         # Save entities
@@ -567,7 +567,7 @@ class PoliticalIntrigueWeb:
     
     def _load_persisted_data(self):
         """Load previously saved system state"""
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         
         # Load saved data if it exists
         try:
@@ -704,7 +704,7 @@ def main():
     
     print(f"Political Intrigue Web generated successfully!")
     print(f"Dashboard saved to: Political_Intrigue_Dashboard.md")
-    print(f"System data saved to: 09_Performance/")
+    print(f"System data saved to: 13_Performance/")
 
 if __name__ == "__main__":
     main()

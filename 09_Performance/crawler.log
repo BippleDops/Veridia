@@ -1,0 +1,582 @@
+🕷️ VAULT ASSET CRAWLER
+============================================================
+Batch Size: 100 assets
+Delay Between Assets: 2s
+Delay Between Batches: 30s
+
+🔍 Checking services...
+Service status: { comfyui: true, sdwebui: true, n8n: false, ollama: true }
+
+🕸️ Crawling vault for assets...
+
+📊 Crawl Complete:
+   Files scanned: 26171
+   Assets found: 2117
+   Batches needed: 22
+
+🚀 Starting batch processing...
+
+📦 Processing Batch 1
+   Assets in batch: 100
+   Remaining in queue: 2017
+
+🎨 Generating image: _Cross-Campaign_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Cultural___Professional_Groups.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Faction-Based_Organization.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Government___Official_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Groups.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Organization-Territory_Control_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Regional_Organization.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: _Religious___Spiritual_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Abyssal_Courts.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Skyborn_Nobility.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Forge_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Order_of_the_Veil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Prismatic_Order.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Resonance_Keepers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Skyborne_Merchants.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Tide_Singers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Void_Sculptors.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Adaptation_Medical_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Bloom_Field_Cultivation_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cloud_Shepherd_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Realm_Research_Coalition.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Agricultural_Research_Institute.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Cultivators_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Cultivators_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Merchants_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Preservation_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Wardens.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Bridge_Alliance.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Exchange_Cente.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Festivals_Committee.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Organization_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Preservation_Societ.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Depth_Supremacist_Movement.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Overview.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Master_Coppe.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Harbor_District_Medical_Corps.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Integration_Institute.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Legal_Defense_Network.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Local_Informants.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Marine_Protection_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Cultivators_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Thieves_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Merchants_Guild_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Natural_Order_Movemen.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_Mirrors.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Crystal_Flame.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Silver_Ancho.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Silent_Vigil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_of_Echoes.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Political_Consulting_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Safety_Authorit.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_Cultural_Exchang.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Research_Council.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Respiratory_Engineering_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Harmonists_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow-Silk_Weavers_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Conspiracy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadowhaven_Merchant_Marine_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadowhawk_Syndicat_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Silverscale_Consortium.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Surface_Reconnection_Coalition.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Cloud_Shepherd_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crimson_Fleet_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crimson_Tide_Pirates_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Cultural_Exchange_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Cultural_Heritage_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Deep_Wanderers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Inter-Realm_Marriage_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Memory_Keepers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Memory_Merchants_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Nameless_Librarians.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Order_of_Storm-Touched.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Order_of_the_Silent_Vigi.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Pearl_Divers_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Preservation_Protocol.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Purest_Faith.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Resurgent_Tide.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Reunification_Coalition.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shadow_Merchant_Prim.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Signal_Keepers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Silver_Order.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Unsealed.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crown.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Thieves_Guild_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Traditional_Craftsmen_Guil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Truth_Keepers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Windwright_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Groups.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Group_Conference_Mirrors.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_of_Cross-Realm_Navigators.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Balance_Maintenance.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Labor_Organization.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Probability_Shepherds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Academy_of_Fundamental_Truths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Chroniclers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Eternal_Sentinels.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Ethical_Council_of_Mages.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Life_Eternal.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Truth_Seekers.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 2
+   Assets in batch: 100
+   Remaining in queue: 1917
+
+🎨 Generating image: The_Unity_Coalition.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Void_Seals.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guildmaster_Victoria_Silvertongue.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template-Faction.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Template-Group_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Guide_md.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Seal_Document_Silverscale_Consortiu.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Absolute_Reality_Faction.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_Mirror_Researchers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_Crystalline_Art.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_Depths.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_International_Relations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_Redirection.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Academy_of_War_Science.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aethermoor_Academy_of_Mystical_Science.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aquabyssos_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Imperial_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Royal_Academy_of_Arcane_Art.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Royal_Academy_of_Magical_Science.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Academy_Training_Ground.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Academy_Training_Grounds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Academy_of_Resonance.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Windwright_Academy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aerial_Navigation_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Artisan_Guild_Master.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Complete_Faction_Warfare_System_Resource_Management.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Coral_Merchants_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Commander_Shadowguard.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Foreign_Crime_Syndicate.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Foreign_Shadow_Syndicate.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Foreign_Shadow_Syndicates.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Independent_Shadow_Cell.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Instructor_Combat_Shadow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Instructor_Combat_Shadows.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Shadow_Conspiracy_Investigatio.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_The_Shadow_Wa.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Market_Syndicat.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Tide_Syndicat.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadowhawk_Syndicate.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Surgeon_Battle_Shadow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shadow_Conspiracy_Hierarchy.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shadow_Merchant_Prime.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shadowhawk_Syndicate.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Criminal_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Engineering_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Harvester_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Aberrant_Cults.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Corruption_Cultists.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Cultivation_Training_Cente.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Cultivator.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Cults.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cult_of_the_Deep_Mother.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cult_of_the_Endless_Voi.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cult_of_the_Endless_Void.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep_Sea_Cultist.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep_Sea_Cultists.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Cultivator_Apprenticeship.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Cultivator_Apprenticeships.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Cultivator_Polyp_Growe.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Cult.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Cultis.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow_Cultist.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Convergence_Cult.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Crystal_Cult.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Forgetting_Cult.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Void_Touched_Cult.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Cultural_Adaptation_Technique.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Cultural_Adaptation_Techniques.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Cultural_Business_Development_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Advisor_Coral_Bridgebuilde.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Exchange_Society.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Festival.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Guide.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Heritage_Center.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Integration_Trade_Associatio.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Integration.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Markets.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Mediatio.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Mediation.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Mediator_Coral_Windweave.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Ministry.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Patro.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Patron.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Practices.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Studies_Program.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural_Studies_Programs.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cultural-Sage_Deep-Memor.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep-Sea_Cultural_Protocol.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Deep_Mining_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Interaction_Matrix.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Interaction_Rules.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Loyalty_Mechanics.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Overview_for_Players.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction1.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction2.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Faction_Name.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Festival_Artisans_Guild.png
+❌ Failed: ComfyUI generation failed
+
+⏸️ Pausing 30 seconds before next batch...
+
+📦 Processing Batch 3
+   Assets in batch: 100
+   Remaining in queue: 1817
+
+🎨 Generating image: Filtration_Systems_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Foreign_Trade_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Cross-Realm_Cooperation_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Customs_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Department_of_Underwater_Transit_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Enforcement_Authority_Charte.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Governmental_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_Dissolution_Crisis.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_Guards.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_Members.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliament_of_Shadow.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliamentary_Archives.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliamentary_Ethics_Committee.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliamentary_Infiltration_List.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliamentary_Speaker.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Parliamentary_Speakers.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Safety_Authority.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_Parliamentary_Corruptio.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Quest_-_Parliamentary_Infiltratio.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Regulatory_Authority_Directo.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Battle_of_Parliament_Dee.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Parliament_of_Echoes.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shadow_Parliament.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Ambassador_Professional_Unity.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_of_Cross-Realm_Navigators.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guildmaster_Supreme_Arcturus_Mastery.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guildmaster_Victoria_Silvertongue.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Bloom_Field_Cultivation_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Crystal_Merchants_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Death_Hunters_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Dock_Workers_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Fashion_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Funeral_Directors_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Master_Copper.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Organization.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guild_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Guildmaster_Storm_Skywright.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Marine_Protection_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Thieves_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Merchant_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Political_Consulting_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Pressure_Engineering_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Redirector_s_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Safe_Passage_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Scholars__Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Shadow-Silk_Weavers_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Current_Riders_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Deep_Merchants_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Inter-Realm_Marriage_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Moneylender_s_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Pearl_Divers_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Scholar_s_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Shipwright_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Traders_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: The_Warden_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Tide_Runners_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Traditional_Craftsmen_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Weather_Weaving_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: International_Medical_Organizations.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: International_Peace_Organization.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Labor_Organizations_and_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Master_Cultivators_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Memory_Merchants_Guild.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Merchant_Guilds.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: New_Death_Faction.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Divine_Orders.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Natural_Order_Movement.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_Azure_Flame.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_Preserved_Knowledge.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Crimson_Eye.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Deep_Vigil.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Eternal_Current.png
+❌ Failed: ComfyUI generation failed
+🎨 Generating image: Order_of_the_Silver_Anchor.png
+❌ Failed: ComfyUI generation failed

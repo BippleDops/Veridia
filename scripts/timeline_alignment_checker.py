@@ -7,7 +7,7 @@ DRY_RUN = os.environ.get('DRY_RUN', '0') == '1'
 REPORTS_DIR = os.path.join(ROOT, 'reports')
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
-SKIP_RE = re.compile(r"/(\.git|08_Archive|09_Performance|04_Resources/Assets/Generated)(/|$)")
+SKIP_RE = re.compile(r"/(\.git|08_Archive|13_Performance|04_Resources/Assets/Generated)(/|$)")
 FM_RE = re.compile(r"^---\n([\s\S]*?)\n---\n", re.M)
 
 DATE_RE = re.compile(r"\b(\d{4})[-/](\d{1,2})[-/](\d{1,2})\b")

@@ -674,7 +674,7 @@ class EconomicMarketSimulator:
     def save_economic_data(self):
         """Persist economic system data"""
         ensure_dirs()
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         os.makedirs(data_dir, exist_ok=True)
         
         # Save markets
@@ -703,7 +703,7 @@ class EconomicMarketSimulator:
     
     def _load_persisted_data(self):
         """Load previously saved economic data"""
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         
         try:
             # Load saved data if it exists
@@ -755,7 +755,7 @@ def main():
     
     print(f"\nEconomic Market Simulator initialized successfully!")
     print(f"Dashboard saved to: Economic_Market_Dashboard.md")
-    print(f"System data saved to: 09_Performance/")
+    print(f"System data saved to: 13_Performance/")
 
 if __name__ == "__main__":
     main()

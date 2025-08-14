@@ -28,7 +28,7 @@ STOP = {"the","and","of","a","an","to","in","on","for","by","with","from","at","
 def list_md() -> List[str]:
     out = []
     for base, dirs, files in os.walk(ROOT):
-        if any(seg in (base+os.sep) for seg in (f"{os.sep}.git{os.sep}", f"{os.sep}08_Archive{os.sep}", f"{os.sep}09_Performance{os.sep}", f"{os.sep}04_Resources{os.sep}Assets{os.sep}")):
+        if any(seg in (base+os.sep) for seg in (f"{os.sep}.git{os.sep}", f"{os.sep}08_Archive{os.sep}", f"{os.sep}13_Performance{os.sep}", f"{os.sep}04_Resources{os.sep}Assets{os.sep}")):
             continue
         for f in files:
             if f.lower().endswith('.md'):

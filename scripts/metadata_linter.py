@@ -8,7 +8,7 @@ REPORTS_DIR = os.path.join(ROOT, 'reports')
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
 # Skip archives, performance logs, git, and the entire assets area (prompt files/galleries don't require content frontmatter)
-SKIP_RE = re.compile(r"/(\.git|08_Archive|09_Performance|04_Resources/Assets)(/|$)")
+SKIP_RE = re.compile(r"/(\.git|08_Archive|13_Performance|04_Resources/Assets)(/|$)")
 
 FM_RE = re.compile(r"^---\n([\s\S]*?)\n---\n", re.M)
 

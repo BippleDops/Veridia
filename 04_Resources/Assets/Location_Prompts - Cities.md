@@ -122,3 +122,23 @@
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-14T22:11:07Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:16:22Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:21:38Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:26:54Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-14T22:32:10Z)\n
+```json
+[]
+```

@@ -1,0 +1,40 @@
+---
+created: 2025-08-14
+updated: 2025-08-14
+type: lore
+status: placeholder
+tags:
+- placeholder
+- needs-content
+- lore
+---
+
+# High Tide Celebrant Coral Festivus
+
+> *This is a placeholder note created automatically because it was referenced in other notes.*
+
+## Description
+
+*[To be filled in]*
+
+## Details
+
+*[To be filled in]*
+
+## Connections
+
+### Referenced In
+- [[12_Research/D&D_References/The Festival of Rising Tides]]
+- [[12_Research/D&D_References/The Festival of Rising Tides]]
+- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+
+## Notes
+
+*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+
+## Related
+- *[Add related links]*
+
+---
+*Placeholder generated: 2025-08-14*

@@ -554,7 +554,7 @@ class NPCDailyRoutineSystem:
     def save_routine_data(self):
         """Persist routine data to vault"""
         ensure_dirs()
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         os.makedirs(data_dir, exist_ok=True)
         
         # Save routines as JSON (Pydantic models serialize well)
@@ -610,7 +610,7 @@ class NPCDailyRoutineSystem:
     
     def _load_persisted_routines(self):
         """Load previously saved routine data"""
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         
         try:
             routines_file = os.path.join(data_dir, "npc_routines.json")

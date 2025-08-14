@@ -20,7 +20,7 @@ def find_quest_files():
     quest_files = []
     
     for root, dirs, files in os.walk(ROOT_DIR):
-        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/09_Performance', '/vault_backup']):
+        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/13_Performance', '/vault_backup']):
             continue
             
         for file in files:
@@ -222,7 +222,7 @@ def step_48_timeline_integration():
     
     # Find files that could benefit from temporal tags
     for root, dirs, files in os.walk(ROOT_DIR):
-        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/09_Performance', '/vault_backup']):
+        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/13_Performance', '/vault_backup']):
             continue
         
         for file in files[:20]:  # Limit for performance
@@ -269,7 +269,7 @@ def step_49_faction_network_building():
     faction_files = []
     
     for root, dirs, files in os.walk(ROOT_DIR):
-        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/09_Performance', '/vault_backup']):
+        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/13_Performance', '/vault_backup']):
             continue
             
         for file in files:

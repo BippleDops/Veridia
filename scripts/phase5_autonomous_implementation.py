@@ -47,7 +47,7 @@ class Phase5AutonomousImplementation:
     def __init__(self, vault_root: str):
         self.vault_root = vault_root
         self.steps: Dict[int, ImplementationStep] = {}
-        self.progress_file = os.path.join(vault_root, "09_Performance", "phase5_progress.json")
+        self.progress_file = os.path.join(vault_root, "13_Performance", "phase5_progress.json")
         self.current_step = 1
         self.start_time = datetime.now()
         

@@ -508,7 +508,7 @@ from pathlib import Path
 
 def integrate_assets():
     # Load generated assets
-    with open('09_Performance/generated_assets.json') as f:
+    with open('13_Performance/generated_assets.json') as f:
         assets = json.load(f)
     
     # Process each asset
@@ -535,7 +535,7 @@ if __name__ == "__main__":
     def save_system_data(self):
         """Save system state and configuration"""
         ensure_dirs()
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         os.makedirs(data_dir, exist_ok=True)
         
         # Save generated assets
@@ -570,7 +570,7 @@ if __name__ == "__main__":
     
     def _load_existing_assets(self):
         """Load previously generated assets"""
-        data_dir = os.path.join(self.vault_root, "09_Performance")
+        data_dir = os.path.join(self.vault_root, "13_Performance")
         assets_file = os.path.join(data_dir, "generated_assets.json")
         
         try:

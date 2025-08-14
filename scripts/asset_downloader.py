@@ -464,7 +464,7 @@ This gallery showcases all downloaded and integrated assets for the Cordelia TTR
     
     def _save_integration_report(self, report: Dict):
         """Save integration report"""
-        report_path = os.path.join(self.vault_root, "09_Performance", "asset_integration_report.json")
+        report_path = os.path.join(self.vault_root, "13_Performance", "asset_integration_report.json")
         
         # Ensure directory exists
         os.makedirs(os.path.dirname(report_path), exist_ok=True)
@@ -474,7 +474,7 @@ This gallery showcases all downloaded and integrated assets for the Cordelia TTR
     
     def save_asset_data(self):
         """Save asset database"""
-        data_path = os.path.join(self.vault_root, "09_Performance", "downloaded_assets.json")
+        data_path = os.path.join(self.vault_root, "13_Performance", "downloaded_assets.json")
         
         assets_data = {asset_id: asset.dict() for asset_id, asset in self.downloaded_assets.items()}
         
@@ -483,7 +483,7 @@ This gallery showcases all downloaded and integrated assets for the Cordelia TTR
     
     def _load_existing_assets(self):
         """Load previously downloaded assets"""
-        data_path = os.path.join(self.vault_root, "09_Performance", "downloaded_assets.json")
+        data_path = os.path.join(self.vault_root, "13_Performance", "downloaded_assets.json")
         
         try:
             if os.path.exists(data_path):

@@ -1,0 +1,21 @@
+{
+  "name": "TTRPG Image Generation",
+  "nodes": [
+    {
+      "type": "webhook",
+      "name": "Webhook",
+      "webhookId": "image-generation"
+    },
+    {
+      "type": "http",
+      "name": "ComfyUI",
+      "url": "http://localhost:8188/prompt",
+      "method": "POST"
+    },
+    {
+      "type": "function",
+      "name": "Process Image",
+      "code": "\n            const imageData = items[0].json;\n            return [{\n              json: {\n                success: true,\n                image: imageData.image,\n                prompt: $node[\"Webhook\"].json.prompt\n              }\n            }];\n          "
+    }
+  ]
+}

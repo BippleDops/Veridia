@@ -177,7 +177,7 @@ def find_settlement_files():
     
     for root, dirs, files in os.walk(ROOT_DIR):
         # Skip certain directories
-        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/09_Performance', '/vault_backup']):
+        if any(skip_dir in root for skip_dir in ['/.git', '/08_Archive', '/13_Performance', '/vault_backup']):
             continue
             
         for file in files:

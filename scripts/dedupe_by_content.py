@@ -10,7 +10,7 @@ os.makedirs(REPORTS_DIR, exist_ok=True)
 
 SKIP_DIRS = {
     f"{os.sep}.git{os.sep}", f"{os.sep}.obsidian{os.sep}", f"{os.sep}node_modules{os.sep}",
-    f"{os.sep}08_Archive{os.sep}", f"{os.sep}09_Performance{os.sep}", f"{os.sep}04_Resources{os.sep}Assets{os.sep}Generated{os.sep}",
+    f"{os.sep}08_Archive{os.sep}", f"{os.sep}13_Performance{os.sep}", f"{os.sep}04_Resources{os.sep}Assets{os.sep}Generated{os.sep}",
     f"{os.sep}scripts{os.sep}", f"{os.sep}reports{os.sep}", f"{os.sep}backups{os.sep}"
 }
 

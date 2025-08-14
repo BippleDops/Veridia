@@ -7,7 +7,7 @@ DRY_RUN = os.environ.get('DRY_RUN', '0') == '1'
 REPORTS_DIR = os.path.join(ROOT, 'reports')
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
-SKIP_RE = re.compile(r"/(\.git|08_Archive|09_Performance|04_Resources/Assets/Generated)(/|$)")
+SKIP_RE = re.compile(r"/(\.git|08_Archive|13_Performance|04_Resources/Assets/Generated)(/|$)")
 
 LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
 
@@ -113,7 +113,7 @@ from common import (
 
 # Heuristic skip list (index-like pages)
 SKIP_NAMES_CONTAIN = {"index", "campaign_index", "table of contents", "master_index"}
-SKIP_DIRS_CONTAIN = {"09_Performance/Indexes", "08_Archive"}
+SKIP_DIRS_CONTAIN = {"13_Performance/Indexes", "08_Archive"}
 NAV_HUB_TITLES = {"Vault_Navigation_Hub", "Master_Campaign_Index", "Master_Lore_Index"}
 
 

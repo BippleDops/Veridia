@@ -186,12 +186,14 @@ async function generateImage(prompt, outputPath, preferredService = 'auto') {
     // Auto mode: prioritize based on failure rates
     if (stats.failed.stability < 5) services.push('stability');
     if (stats.failed.openai < 5) services.push('openai');
+    services.push('n8n'); // Add N8N as fallback
     services.push('comfyui');
   } else {
     services.push(preferredService);
     // Add fallbacks
     if (preferredService !== 'stability') services.push('stability');
     if (preferredService !== 'openai') services.push('openai');
+    if (preferredService !== 'n8n') services.push('n8n');
     if (preferredService !== 'comfyui') services.push('comfyui');
   }
   
@@ -204,6 +206,22 @@ async function generateImage(prompt, outputPath, preferredService = 'auto') {
           break;
         case 'stability':
           if (await generateWithStability(prompt, outputPath)) return true;
+          break;
+        case 'n8n':
+          // Try N8N orchestrated generation
+          try {
+            const { triggerN8NWorkflow } = require('./n8n_orchestrator');
+            const result = await triggerN8NWorkflow('image-generation', {
+              prompt: prompt,
+              outputPath: outputPath
+            });
+            if (result && result.success) {
+              console.log(`✅ [N8N] Generated: ${path.basename(outputPath)}`);
+              return true;
+            }
+          } catch (error) {
+            console.log(`⚠️ N8N fallback failed: ${error.message}`);
+          }
           break;
         case 'comfyui':
           if (await generateWithComfyUI(prompt, outputPath)) return true;

@@ -1,0 +1,39 @@
+---
+created: 2025-08-14
+updated: 2025-08-14
+type: lore
+status: placeholder
+tags:
+- placeholder
+- needs-content
+- lore
+---
+
+# Vehicle_Core_Rules#10) Crew Roles (Examples)
+
+> *This is a placeholder note created automatically because it was referenced in other notes.*
+
+## Description
+
+*[To be filled in]*
+
+## Details
+
+*[To be filled in]*
+
+## Connections
+
+### Referenced In
+- [[12_Research/D&D_References/Vehicle_Customization_Progression]]
+- [[12_Research/D&D_References/Crew_Relationship_Events]]
+- [[12_Research/D&D_References/Vehicles - Vehicle Customization Progression]]
+
+## Notes
+
+*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+
+## Related
+- *[Add related links]*
+
+---
+*Placeholder generated: 2025-08-14*
